@@ -30,6 +30,62 @@ def get_display_title(item):
         
     return item.get('source_file') or "Sem Título"
 
+# Mapping Dictionary
+TERM_MAPPING = {
+    '栄光': 'Eikou',
+    '救世': 'Kyusei',
+    '光明世界': 'Koumyou Sekai',
+    '地上天国': 'Chijo Tengoku',
+    '東方の光': 'Touhou no Hikari',
+    '明日の医術': 'Ashita no Ijutsu',
+    '天国の福音': 'Tengoku no Fukuin',
+    '文明の創造': 'Bunmei no Souzou',
+    '医学革命の書': 'Igaku Kakumei no Sho',
+    '全集': 'Zenshu',
+    '光への道': 'Hikari e no Michi',
+    '霊界叢談': 'Reikai Soudan',
+    'アメリカを救う': 'America wo Sukuu',
+    '観音の光': 'Kannon no Hikari',
+    '日本医術講義録': 'Nihon Ijutsu Kougiroku',
+    '講話': 'Kouwa',
+    '御垂示': 'Gosuiji',
+    '号': ' Gou',     # Issue
+    '編': ' Hen',     # Volume/Part
+    '書': ' Sho',     # Book
+    '版': ' Ban',     # Edition
+    '昭和': 'Showa ',
+    '年': ' Nen',
+    '月': ' Gatsu',
+    '日': ' Nichi',
+    '未発表': 'Mihappyou',
+    '執筆': 'Shippitsu',
+    '付録': 'Furoku',
+    '再版': 'Saiban', # Reprint
+    '初版': 'Shohan', # First edition
+    '読売新聞': 'Yomiuri Shimbun',
+    '岡田茂吉': 'Okada Mokichi',
+    '結核問題と其解決策': 'Kekkaku Mondai to Sono Kaiketsusaku',
+    '新日本医術': 'Shin Nihon Ijutsu',
+    '世界救世教': 'Sekai Kyuseikyo',
+    '奇蹟集': 'Kisekishu',
+    '広告文': 'Kokokubun',
+    '新稿': 'Shinko'
+}
+
+def translate_source(text):
+    if not text:
+        return text
+    
+    translated = text
+    # Sort keys by length descending to replace longer phrases first
+    sorted_keys = sorted(TERM_MAPPING.keys(), key=len, reverse=True)
+    
+    for key in sorted_keys:
+        val = TERM_MAPPING[key]
+        if key in translated:
+            translated = translated.replace(key, val)
+    return translated
+
 def main():
     print("Mapping HTML files...")
     file_map = {}
@@ -57,18 +113,20 @@ def main():
         # Resolve path
         if source in file_map:
             # Path relative to filetop/ directory where indices will live
-            # file_map[source] is relative to BASE_DIR
-            # we need relative to BASE_DIR/filetop
             full_rel_path = file_map[source] # e.g. "search1/a/aaiga1.html"
             # rel from filetop: ../search1/a/aaiga1.html
             link_path = os.path.relpath(os.path.join(BASE_DIR, full_rel_path), FILETOP_DIR)
         else:
             link_path = "#" # File not found?
         
+        # Translate source name
+        original_source = item.get('source', '')
+        translated_source_name = translate_source(original_source)
+
         items.append({
             'title': title,
             'link': link_path,
-            'original_source': item.get('source', ''),
+            'original_source': translated_source_name,
             'date': item.get('date', ''),
             'sort_key': title.upper()
         })
@@ -101,7 +159,7 @@ def main():
 <table bgcolor="#EFFFE6" border="1" bordercolor="#C0C0C0" bordercolordark="#C0C0C0" bordercolorlight="#E9FEDA" cellpadding="2" cellspacing="0" width="100%">
 <tr>
 <td bgcolor="#008080" width="50%"><p align="center"><font color="#FFFFFF">TÍTULO</font></p></td>
-<td bgcolor="#008080" width="30%"><p align="center"><font color="#FFFFFF">ARQUIVO</font></p></td>
+<td bgcolor="#008080" width="30%"><p align="center"><font color="#FFFFFF">FONTE</font></p></td>
 <td align="center" bgcolor="#008080" width="20%"><p align="center"><font color="#FFFFFF" size="3">DATA</font></p></td>
 </tr>
 """
