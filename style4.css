@@ -86,12 +86,22 @@ th[bgcolor="#008000"] a {
 table[bgcolor="#efffe6"],
 td[bgcolor="#efffe6"],
 div[bgcolor="#efffe6"],
-body[bgcolor="#efffe6"] {
+body[bgcolor="#efffe6"],
+table[bgcolor="#E9FEDA"],
+td[bgcolor="#E9FEDA"],
+div[bgcolor="#E9FEDA"],
+body[bgcolor="#E9FEDA"],
+table[bgcolor="#ccffcc"],
+td[bgcolor="#ccffcc"],
+div[bgcolor="#ccffcc"],
+body[bgcolor="#ccffcc"] {
   background-color: #FFFFFF !important;
 }
 
 /* Except body which is mist */
-body[bgcolor="#efffe6"] {
+body[bgcolor="#efffe6"],
+body[bgcolor="#E9FEDA"],
+body[bgcolor="#ccffcc"] {
   background-color: #F7F9FB !important;
 }
 
