@@ -1,7 +1,8 @@
-﻿/* Nordic Theme Override */
+﻿/* Nordic Theme Override - Layout Safe */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
-body, html {
+body,
+html {
     background-color: #F7F9FB !important;
     color: #2C3E50 !important;
     font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif !important;
@@ -10,40 +11,56 @@ body, html {
 }
 
 /* Reset Links */
-a { text-decoration: none !important; transition: all 0.2s ease; }
-a:link, a:visited { color: #5D6D7E !important; }
-a:hover { color: #2980B9 !important; }
-a:active { color: #2C3E50 !important; }
+a {
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
 
-/* Override Inline Table Styles */
-table {
+a:link,
+a:visited {
+    color: #5D6D7E !important;
+}
+
+a:hover {
+    color: #2980B9 !important;
+}
+
+a:active {
+    color: #2C3E50 !important;
+}
+
+/* Apply Card Style ONLY to visible tables (border="1") */
+table[border="1"] {
     background-color: #FFFFFF !important;
     border: 1px solid #E1E8ED !important;
-    border-collapse: separate !important; /* Better for rounded corners if we wanted */
     border-collapse: collapse !important;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.02) !important;
-    margin-bottom: 20px !important;
-    border-spacing: 0 !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02) !important;
     border-radius: 4px !important;
-    overflow: hidden !important;
-    width: 98% !important; /* Add some breathing room */
-    margin: 10px auto !important;
+    /* Do NOT force width or margin, let legacy layout handle it */
 }
 
-/* Remove old borders */
-table[border="1"], table[border="1"] td, table[border="1"] th {
-    border-color: #EEF2F7 !important;
+/* Remove default styling from layout tables (border="0") to prevent breakage */
+table[border="0"] {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
-td, th {
+/* Borders for table cells inside content tables */
+table[border="1"] td,
+table[border="1"] th {
     border: 1px solid #EEF2F7 !important;
     padding: 12px 16px !important;
     color: #34495E !important;
 }
 
-/* Header Cells (originally teal #008080) */
-td[bgcolor="#008080"], th[bgcolor="#008080"], 
-td[bgcolor="#008000"], th[bgcolor="#008000"] { /* Catching variations */
+/* Header Cells (Style Matches) */
+td[bgcolor="#008080"],
+th[bgcolor="#008080"],
+td[bgcolor="#008000"],
+th[bgcolor="#008000"],
+td[bgcolor="#008080"] p,
+th[bgcolor="#008080"] p {
     background-color: #34495E !important;
     color: #FFFFFF !important;
     font-weight: 600 !important;
@@ -52,19 +69,34 @@ td[bgcolor="#008000"], th[bgcolor="#008000"] { /* Catching variations */
     font-size: 0.85rem !important;
 }
 
-/* Ensure text inside headers is white */
-td[bgcolor="#008080"] font, th[bgcolor="#008080"] font,
-td[bgcolor="#008080"] a, th[bgcolor="#008080"] a {
+/* Ensure text/links inside headers is white */
+td[bgcolor="#008080"] font,
+th[bgcolor="#008080"] font,
+td[bgcolor="#008080"] a,
+th[bgcolor="#008080"] a,
+td[bgcolor="#008000"] font,
+th[bgcolor="#008000"] font,
+td[bgcolor="#008000"] a,
+th[bgcolor="#008000"] a {
     color: #FFFFFF !important;
 }
 
-/* Neutralize old green backgrounds */
-table[bgcolor="#efffe6"], td[bgcolor="#efffe6"], div[bgcolor="#efffe6"], body[bgcolor="#efffe6"] {
+/* Neutralize old green backgrounds everywhere */
+table[bgcolor="#efffe6"],
+td[bgcolor="#efffe6"],
+div[bgcolor="#efffe6"],
+body[bgcolor="#efffe6"] {
     background-color: #FFFFFF !important;
 }
 
+/* Except body which is mist */
+body[bgcolor="#efffe6"] {
+    background-color: #F7F9FB !important;
+}
+
 /* Inputs */
-input[type="text"], select {
+input[type="text"],
+select {
     border: 1px solid #D6DBDF !important;
     padding: 8px 12px !important;
     border-radius: 4px !important;
@@ -73,7 +105,8 @@ input[type="text"], select {
     font-family: inherit !important;
 }
 
-input[type="submit"], button {
+input[type="submit"],
+button {
     background-color: #5D6D7E !important;
     color: white !important;
     border: none !important;
@@ -84,14 +117,27 @@ input[type="submit"], button {
     transition: background 0.2s !important;
 }
 
-input[type="submit"]:hover, button:hover {
+input[type="submit"]:hover,
+button:hover {
     background-color: #34495E !important;
 }
 
 /* Legacy Support */
-P.honbun { text-align: justify; }
+P.honbun {
+    text-align: justify;
+}
 
 /* Scrollbars */
-::-webkit-scrollbar { width: 8px; height: 8px; }
-::-webkit-scrollbar-track { background: #F7F9FB; }
-::-webkit-scrollbar-thumb { background-color: #BDC3C7; border-radius: 4px; }
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #F7F9FB;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #BDC3C7;
+    border-radius: 4px;
+}
