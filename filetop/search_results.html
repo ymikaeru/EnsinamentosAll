@@ -171,12 +171,26 @@
 
                     /* item.source_file example: "search1/a/aaiga1.html" */
                     let link = "#";
-                    if (item.source_file) {
-                        link = "../" + item.source_file;
+                    let displayTitle = item.title;
+
+                    // Specific logic: If title is missing or looks like a filename (no spaces, ends in numbers?), try to extract from content
+                    // Also older entries might not have title field.
+                    // Try to extract absolute first header from content
+                    const content = item.content_ptbr || item.content_pt || '';
+                    if (!displayTitle || /^[a-z0-9]+$/i.test(displayTitle)) {
+                        const match = content.match(/^#+\s+(.+)$/m);
+                        if (match) {
+                            displayTitle = match[1].trim();
+                        }
                     }
 
-                    const romajiSource = translateSource(item.source);
-                    const romajiTitle = translateSource(item.title);
+                    // Fallback to filename if still nothing
+                    if (!displayTitle && item.source_file) {
+                        displayTitle = item.source_file.split('/').pop().replace('.html', '');
+                    }
+
+                    const romajiSource = translateSource(item.source || ''); // Ensure not undefined
+                    const romajiTitle = translateSource(displayTitle);
 
                     row.innerHTML = `
                         <td><a href="${link}" target="main">${romajiTitle || '(Sem Título)'}</a></td>
