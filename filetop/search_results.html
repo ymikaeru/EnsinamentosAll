@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados da Pesquisa</title>
+    <link href="../style1.css" rel="stylesheet" type="text/css">
+    <style>
+        #status {
+            text-align: center;
+            margin: 20px;
+            color: #5D6D7E;
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        async function performSearch() {
+            const params = new URLSearchParams(window.location.search);
+            const query = params.get('query') || '';
+            const indexType = params.get('index') || ''; // '' = teachings, 'shiryo' = materials
+
+            const statusEl = document.getElementById('status');
+            const resultsBody = document.getElementById('results-body');
+            const queryDisplay = document.getElementById('query-display');
+
+            if (!query) {
+                statusEl.textContent = "Por favor, digite um termo para pesquisar.";
+                return;
+            }
+
+            queryDisplay.textContent = query;
+            statusEl.textContent = "Pesquisando...";
+
+            try {
+                // Fetch the main data
+                const response = await fetch('../Data/teachings_translated.json');
+                if (!response.ok) throw new Error("Falha ao carregar dados.");
+                const data = await response.json();
+
+                // Simplify terms for search
+                const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 0);
+
+                const results = data.filter(item => {
+                    // Filter based on index type if necessary (assuming data has some type field? 
+                    // reusing the logic from main viewer, usually we search all)
+                    // For now, let's search everything as requested.
+
+                    const title = (item.title || '').toLowerCase();
+                    const content = (item.content_ptbr || item.content_pt || '').toLowerCase();
+                    const source = (item.source || '').toLowerCase();
+                    const date = (item.date || '').toLowerCase();
+
+                    // Check if ALL terms match at least one field
+                    return terms.every(term =>
+                        title.includes(term) ||
+                        content.includes(term) ||
+                        source.includes(term) ||
+                        date.includes(term)
+                    );
+                });
+
+                statusEl.textContent = `Encontrados ${results.length} resultados.`;
+
+                // Clear table
+                resultsBody.innerHTML = '';
+
+                if (results.length === 0) {
+                    resultsBody.innerHTML = '<tr><td colspan="3" align="center">Nenhum resultado encontrado.</td></tr>';
+                    return;
+                }
+
+                // Render Results
+                results.forEach(item => {
+                    const row = document.createElement('tr');
+
+                    // Determine Link
+                    // Similar logic to update_static_nav.py or viewer.html
+                    // We need relative path from filetop/
+                    // The json source_file is absolute or relative to base?
+                    // Usually strict path map is better, but let's try assuming relative if simple
+                    // JSON 'link' isn't stored, 'source_file' is.
+                    // We might need to map it. 
+
+                    // Actually, let's check one item structure in json to be sure about linking.
+                    // Assuming source_file is relative to the project root.
+                    // We are in filetop/ so we go ../ + source_file
+
+                    /* item.source_file example: "search1/a/aaiga1.html" */
+                    let link = "#";
+                    if (item.source_file) {
+                        link = "../" + item.source_file;
+                    }
+
+                    row.innerHTML = `
+                        <td><a href="${link}" target="main">${item.title || '(Sem Título)'}</a></td>
+                        <td>${item.source || ''}</td>
+                        <td align="center">${item.date || ''}</td>
+                    `;
+                    resultsBody.appendChild(row);
+                });
+
+            } catch (e) {
+                console.error(e);
+                statusEl.textContent = "Erro ao realizar a pesquisa: " + e.message;
+            }
+        }
+
+        window.onload = performSearch;
+    </script>
+</head>
+
+<body bgcolor="#E9FEDA">
+    <div align="center">
+        <h1>Resultados da Pesquisa: <span id="query-display"></span></h1>
+        <div id="status">Iniciando...</div>
+
+        <table bgcolor="#EFFFE6" border="1" bordercolor="#C0C0C0" bordercolordark="#C0C0C0" bordercolorlight="#E9FEDA"
+            cellpadding="2" cellspacing="0" width="100%">
+            <thead>
+                <tr>
+                    <td bgcolor="#008080" width="50%">
+                        <p align="center">
+                            <font color="#FFFFFF">TÍTULO</font>
+                        </p>
+                    </td>
+                    <td bgcolor="#008080" width="30%">
+                        <p align="center">
+                            <font color="#FFFFFF">FONTE</font>
+                        </p>
+                    </td>
+                    <td align="center" bgcolor="#008080" width="20%">
+                        <p align="center">
+                            <font color="#FFFFFF" size="3">DATA</font>
+                        </p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody id="results-body">
+                <!-- Data will be injected here -->
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
