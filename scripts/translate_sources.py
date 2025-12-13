@@ -1,0 +1,145 @@
+
+import os
+import re
+from bs4 import BeautifulSoup
+
+# Configuration
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Directories containing index files to update
+INDEX_DIRS = [
+    os.path.join(BASE_DIR, 'filetop'),
+    os.path.join(BASE_DIR, 'hakkousi'),
+    os.path.join(BASE_DIR, 'kanren'),
+]
+
+# Mapping Dictionary
+TERM_MAPPING = {
+    '栄光': 'Eikou',
+    '救世': 'Kyusei',
+    '光明世界': 'Koumyou Sekai',
+    '地上天国': 'Chijo Tengoku',
+    '東方の光': 'Touhou no Hikari',
+    '明日の医術': 'Ashita no Ijutsu',
+    '天国の福音': 'Tengoku no Fukuin',
+    '文明の創造': 'Bunmei no Souzou',
+    '医学革命の書': 'Igaku Kakumei no Sho',
+    '全集': 'Zenshu',
+    '光への道': 'Hikari e no Michi',
+    '霊界叢談': 'Reikai Soudan',
+    'アメリカを救う': 'America wo Sukuu',
+    '観音の光': 'Kannon no Hikari',
+    '日本医術講義録': 'Nihon Ijutsu Kougiroku',
+    '講話': 'Kouwa',
+    '御垂示': 'Gosuiji',
+    '号': ' Gou',     # Issue
+    '編': ' Hen',     # Volume/Part (be careful with context)
+    '書': ' Sho',     # Book
+    '版': ' Ban',     # Edition
+    '昭和': 'Showa ',
+    '年': ' Nen',
+    '月': ' Gatsu',
+    '日': ' Nichi',
+    '未発表': 'Mihappyou',
+    '執筆': 'Shippitsu',
+    '付録': 'Furoku',
+    '再版': 'Saiban', # Reprint
+    '初版': 'Shohan', # First edition
+    '読売新聞': 'Yomiuri Shimbun',
+    '岡田茂吉': 'Okada Mokichi',
+    '結核問題と其解決策': 'Kekkaku Mondai to Sono Kaiketsusaku',
+    '新日本医術': 'Shin Nihon Ijutsu',
+    '神慈秀明会': 'Shinji Shumeikai', # Just in case
+    '世界救世教': 'Sekai Kyuseikyo',
+    '奇蹟集': 'Kisekishu',
+    '広告文': 'Kokokubun',
+    '新稿': 'Shinko'
+}
+
+def translate_text(text):
+    if not text:
+        return text
+    
+    translated = text
+    # Sort keys by length descending to replace longer phrases first
+    sorted_keys = sorted(TERM_MAPPING.keys(), key=len, reverse=True)
+    
+    for key in sorted_keys:
+        val = TERM_MAPPING[key]
+        if key in translated:
+            translated = translated.replace(key, val)
+            
+    return translated
+
+def main():
+    print("Starting source name translation...")
+    
+    for index_dir in INDEX_DIRS:
+        if not os.path.isdir(index_dir):
+            continue
+            
+        print(f"Scanning directory: {index_dir}")
+        for filename in os.listdir(index_dir):
+            if not filename.endswith('.html'):
+                continue
+                
+            file_path = os.path.join(index_dir, filename)
+            updated = False
+            
+            try:
+                with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                    soup = BeautifulSoup(f, 'html.parser')
+                
+                # Find the main data table
+                # Based on se.html, it's a table with border="1" inside a div center
+                # We can try to iterate all tables and look for the header row "原　典" (Source)
+                
+                tables = soup.find_all('table')
+                for table in tables:
+                    rows = table.find_all('tr')
+                    if len(rows) < 2:
+                        continue
+                    
+                    # Check header to identify the correct table and column index
+                    header_cells = rows[0].find_all(['td', 'th'])
+                    source_col_index = -1
+                    
+                    for i, cell in enumerate(header_cells):
+                        text = cell.get_text(strip=True)
+                        if "原" in text and "典" in text: # "原　典"
+                            source_col_index = i
+                            break
+                    
+                    if source_col_index == -1:
+                        continue
+                        
+                    # Process data rows
+                    for row in rows[1:]:
+                        cells = row.find_all('td')
+                        if len(cells) > source_col_index:
+                            target_cell = cells[source_col_index]
+                            original_text = target_cell.get_text(strip=False) # Keep structure/spaces if needed
+                            
+                            # The cell might contain plain text or tags. 
+                            # Simplest is to replace text in the whole cell string or iterate strings.
+                            # Let's iterate over strings to preserve tags like <br> if any (though unlikely in this col)
+                            
+                            for string in target_cell.strings:
+                                if string.strip():
+                                    new_text = translate_text(string)
+                                    if new_text != string:
+                                        string.replace_with(new_text)
+                                        updated = True
+
+                if updated:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(str(soup))
+                    print(f"Updated {filename}")
+                    
+            except Exception as e:
+                print(f"Error processing {filename}: {e}")
+
+    print("Source translation complete.")
+
+if __name__ == "__main__":
+    main()
