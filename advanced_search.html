@@ -476,20 +476,22 @@
             overflow-y: auto;
             padding: 2rem;
             background: #fff;
-            display: flex;
-            flex-direction: column;
-            gap: 1.5rem;
         }
 
-        .bi-row {
-            display: flex;
-            gap: 20px;
-            border-bottom: 1px dashed #eee;
-            padding-bottom: 1rem;
+        .bi-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            height: 100%;
+        }
+
+        @media (max-width: 768px) {
+            .bi-grid {
+                grid-template-columns: 1fr;
+            }
         }
 
         .bi-col {
-            flex: 1;
             font-size: 0.95rem;
             line-height: 1.7;
         }
@@ -497,6 +499,19 @@
         .bi-jp {
             font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
             color: #4a5568;
+            white-space: pre-wrap;
+            /* Preserve whitespace/wrapping */
+        }
+
+        .bi-pt h3 {
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+            color: var(--primary-color);
+        }
+
+        .bi-pt p {
+            margin-bottom: 1rem;
         }
 
         .bi-pt {
@@ -627,10 +642,11 @@
             <div class="modal-header">
                 <span id="modalTitle">Título</span>
                 <div class="view-controls" style="display:flex; gap:10px; margin-left:auto; margin-right:20px;">
-                    <button class="btn-view active" onclick="switchModalView('original')"
-                        id="btnOriginal">Original</button>
-                    <button class="btn-view" onclick="switchModalView('bilingual')" id="btnBilingual">Comparar
-                        (JP/PT)</button>
+                    <button class="btn-view active" onclick="switchModalView('portuguese')"
+                        id="btnPortuguese">Português</button>
+                    <button class="btn-view" onclick="switchModalView('original')" id="btnOriginal">Original
+                        (JP)</button>
+                    <button class="btn-view" onclick="switchModalView('bilingual')" id="btnBilingual">Comparar</button>
                 </div>
                 <button class="modal-close" onclick="closeModal()">×</button>
             </div>
@@ -697,20 +713,18 @@
                     applyFilters();
                 });
 
-                // Iframe Cleanup
+                // Iframe Cleanup: Hide search forms and redundant toggle buttons in modal
                 dom.modalFrame.onload = () => {
                     try {
                         const doc = dom.modalFrame.contentDocument || dom.modalFrame.contentWindow.document;
                         const style = doc.createElement('style');
                         style.textContent = `
-                            form[action*="msearch.cgi"], 
-                            div[align="right"] > table,
-                            a[href*="msearch.cgi"] { display: none !important; }
-                            body { background-color: white !important; padding: 20px !important; }
-                        `;
+                           form { display: none !important; }
+                           .lang-toggle-bar { display: none !important; }
+                       `;
                         doc.head.appendChild(style);
                     } catch (e) {
-                        console.warn("Cross-origin restrictions may prevent hiding search fields if not on the same domain.");
+                        // Ignore cross-origin errors if any
                     }
                 };
 
@@ -951,97 +965,143 @@
         // Helper Functions (Bilingual)
         const contentCache = {};
         let currentItem = null;
+        let currentViewMode = 'portuguese';
 
         window.openModal = (item) => {
             currentItem = item;
             dom.modalTitle.textContent = item.title;
 
-            // Reset View to Original
-            switchModalView('original');
+            // Default to Portuguese (Iframe)
+            dom.modalFrame.src = item.url; // Load URL immediately
+            switchModalView('portuguese');
 
-            // Set Iframe
-            dom.modalFrame.src = item.url;
-
-            // Sidebar logic (populateSidebar...)
-            updateModalSidebar(item); // Changed from populateSidebar to updateModalSidebar
+            // Sidebar logic
+            updateModalSidebar(item);
             dom.modal.classList.add('active');
         };
 
         window.switchModalView = async (mode) => {
+            currentViewMode = mode;
+            const btnPortuguese = document.getElementById('btnPortuguese');
             const btnOriginal = document.getElementById('btnOriginal');
             const btnBilingual = document.getElementById('btnBilingual');
+
             const frame = document.getElementById('contentFrame');
             const biContainer = document.getElementById('bilingualView');
 
-            if (mode === 'original') {
-                btnOriginal.classList.add('active');
-                btnBilingual.classList.remove('active');
+            // Reset buttons
+            [btnPortuguese, btnOriginal, btnBilingual].forEach(b => b.classList.remove('active'));
+
+            // Map button to mode
+            if (mode === 'portuguese') btnPortuguese.classList.add('active');
+            if (mode === 'original') btnOriginal.classList.add('active');
+            if (mode === 'bilingual') btnBilingual.classList.add('active');
+
+            if (mode === 'portuguese') {
                 frame.style.display = 'block';
                 biContainer.style.display = 'none';
-            } else {
-                btnOriginal.classList.remove('active');
-                btnBilingual.classList.add('active');
-                frame.style.display = 'none';
-                biContainer.style.display = 'block';
+                return; // Done
+            }
 
-                // Load Content
-                if (!currentItem.part_file) {
-                    biContainer.innerHTML = '<div style="padding:2rem;">Conteúdo bilíngue não disponível para este item.</div>';
-                    return;
+            // For Japanese (Original) and Bilingual, we use the JSON content
+            frame.style.display = 'none';
+            biContainer.style.display = 'block';
+
+            // Load Content if needed
+            if (!currentItem.part_file) {
+                biContainer.innerHTML = '<div style="padding:2rem;">Conteúdo não disponível para este item.</div>';
+                return;
+            }
+
+            biContainer.innerHTML = '<div style="padding:2rem;">Carregando conteúdo...</div>';
+
+            try {
+                // Fetch if not cached
+                if (!contentCache[currentItem.part_file]) {
+                    const res = await fetch(`Data/${currentItem.part_file}`);
+                    contentCache[currentItem.part_file] = await res.json();
                 }
 
-                biContainer.innerHTML = '<div style="padding:2rem;">Carregando conteúdo...</div>';
-
-                try {
-                    // Fetch if not cached
-                    if (!contentCache[currentItem.part_file]) {
-                        const res = await fetch(`Data/${currentItem.part_file}`);
-                        contentCache[currentItem.part_file] = await res.json();
-                    }
-
-                    // Find item
-                    const fullItem = contentCache[currentItem.part_file].find(i => i.id === currentItem.id);
-                    if (fullItem) {
-                        renderBilingual(fullItem);
-                    } else {
-                        biContainer.innerHTML = '<div style="padding:2rem;">Conteúdo não encontrado no arquivo de dados.</div>';
-                    }
-                } catch (e) {
-                    console.error(e);
-                    biContainer.innerHTML = '<div style="padding:2rem; color:red;">Erro ao carregar conteúdo.</div>';
+                // Find item
+                const fullItem = contentCache[currentItem.part_file].find(i => i.id === currentItem.id);
+                if (fullItem) {
+                    renderBilingual(fullItem, mode);
+                } else {
+                    biContainer.innerHTML = '<div style="padding:2rem;">Conteúdo não encontrado.</div>';
                 }
+            } catch (e) {
+                console.error(e);
+                biContainer.innerHTML = '<div style="padding:2rem; color:red;">Erro ao carregar conteúdo.</div>';
             }
         };
 
-        function renderBilingual(item) {
+        function renderBilingual(item, mode) {
             const container = document.getElementById('bilingualView');
             container.innerHTML = '';
 
-            // Simple Paragraph Split
-            const jpParas = (item.content || '').split(/\n\n+/).filter(p => p.trim());
+            // Japanese Content Logic
+            let jpText = item.content || '';
+            let jpHtml = '';
+
+            // Text Splitting Logic
+            if (jpText.includes('\n') && jpText.split('\n').length > 1) {
+                jpHtml = jpText.split('\n').map(p => `<p>${p}</p>`).join('');
+            } else {
+                const sentences = jpText.split('。');
+                jpHtml = sentences.map(s => {
+                    if (!s.trim()) return '';
+                    return `<p style="margin-bottom: 0.5em;">${s}。</p>`;
+                }).join('');
+            }
+
+            // Portuguese Content (Markdown to HTML)
             const ptParas = (item.content_ptbr || '').split(/\n\n+/).filter(p => p.trim());
+            let ptHtml = '';
+            ptParas.forEach(p => {
+                let html = p.replace(/^##\s+(.*)/, '<h3>$1</h3>'); // Headings
+                if (!html.startsWith('<h3>')) {
+                    html = `<p>${html}</p>`;
+                }
+                ptHtml += html;
+            });
 
-            const max = Math.max(jpParas.length, ptParas.length);
+            // Create Container Layout
+            const grid = document.createElement('div');
+            grid.className = 'bi-grid';
 
-            for (let i = 0; i < max; i++) {
-                const row = document.createElement('div');
-                row.className = 'bi-row';
+            // Override grid settings for specific modes
+            // Use independent scrolling for columns
+            if (mode === 'bilingual') {
+                grid.style.display = 'flex';
+                grid.style.height = '100%';
+                grid.style.gap = '2rem';
 
                 const colJp = document.createElement('div');
                 colJp.className = 'bi-col bi-jp';
-                colJp.textContent = jpParas[i] || ''; // Text content for safety
+                colJp.style.flex = '1';
+                colJp.style.overflowY = 'auto';
+                colJp.style.height = '100%';
+                colJp.style.paddingRight = '10px';
+                colJp.innerHTML = jpHtml;
+                grid.appendChild(colJp);
 
                 const colPt = document.createElement('div');
                 colPt.className = 'bi-col bi-pt';
-                // Provide rudimentary Markdown parsing for PT
-                let ptText = ptParas[i] || '';
-                ptText = ptText.replace(/^##\s+(.*)/, '<h3>$1</h3>'); // Headings
-                colPt.innerHTML = ptText;
-
-                row.appendChild(colJp);
-                row.appendChild(colPt);
-                container.appendChild(row);
+                colPt.style.flex = '1';
+                colPt.style.overflowY = 'auto';
+                colPt.style.height = '100%';
+                colPt.style.paddingRight = '10px';
+                colPt.innerHTML = ptHtml;
+                grid.appendChild(colPt);
+            } else if (mode === 'original') {
+                grid.style.gridTemplateColumns = '1fr';
+                const colJp = document.createElement('div');
+                colJp.className = 'bi-col bi-jp';
+                colJp.innerHTML = jpHtml;
+                grid.appendChild(colJp);
             }
+
+            container.appendChild(grid);
         }
 
         window.closeModal = () => {
@@ -1050,7 +1110,6 @@
         };
 
     </script>
-
 </body>
 
 </html>
