@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Vaca que foi Salva</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 救はれた牛 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 新潟県 日本五六七教日の出会 高野貫太郎（21） 昭和二十三年の六月も終りに近いある日の事でした。<br><br>どうした事か魔がさしたとでも申しましょうか、全く前後の判断も無く何の気無しに狭い板橋を牛を曳いて渡ろうとしました。<br><br>一間余りも来た頃急に牛が後すざりを始めたので「ハッ」と吾に返り落ちなければ良いがと思った時はすでに遅く、後脚を踏みはずした牛はひとたまりもありません。<br><br>高さ一丈余りもある橋の上から真逆様に顛落し背中をいやという程ぶったので、四肢を空に上げ白眼をむき出し、生けるようとも思われませんでした。<br><br>すわ一大事と助け起こし善言讃詞を唱えながら死に物狂いで浄霊を行いました。<br><br> 二時間程たって静かに歩かせてみましたが何ともありません。<br><br>その後十日位牛の所へ行く毎に御浄霊いたしました。<br><br>これが観音様の御救いで無くて何でありましよう。<br><br>今想い出してもぞっと致します。<br><br> この有難き御守護を頂きただただ感謝の気持で申し上げる言葉も御座いません。<br><br> 今後も益々観音様の偉大な御力におすがりしてなお一層の努力をお誓い致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Vaca que foi Salva</h2>
 <p><strong>Coletânea Jikan, Volume 2: “Método de Cultivo sem Adubo”, publicado em 1º de julho de 1949.</strong>
 <strong>Província de Niigata, Hinodekai da Igreja Miroku do Japão</strong>
 <strong>Takano Kantaro (21 anos)</strong></p>

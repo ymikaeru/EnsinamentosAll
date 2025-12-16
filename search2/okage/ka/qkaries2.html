@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A salvação das doenças é possível unicamente por meio desta Fé</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： カリエスから救わる 病気を救い得るは本教のみ 『救世』55号、昭和25(1950)年3月25日発行 岡山県 天国大教会直心中教会 笠尾源之（37） 私は昭和九年痔疾肋膜炎を患って以来現在に至るまで腹膜、肝臓、腎臓、膀胱と次々に全身を巡り最後にカリエスとなり幾度か死線を彷捜し絶えず死の恐怖とたたかいながら遂に光明如来様にお救い戴くまで十余年の間、医薬は勿論全期間を通じレントゲン治療も相当長期にわたって行いましたが、更に効なく、太陽灯、紫外線、手術、灸、漢方薬と懸命のあがきを続けましたが病気は次第に悪化し、物質にては決して解決せぬと現代医学の無力に絶望を感じ、生長の家の奇蹟に望みをかけて熱心にすがりましたがこれ又失望し、南無妙法蓮華経にて助かろうと一心にお題目をとなえましたが、これも何等のお蔭なく、吾が身の不運に天を呪い親をうらみつつもなんとか生きんと必死にもがいているとき有難くも縁あって大神のお恵みに浴する事が出来たのであります。<br><br> 一時は腰部股関節に激しい痛みを感じ身動きも出来ぬ苦しみが続きましたが、幸運にも天国大教会信者の方々の御浄霊が戴けるようになり、日に日に軽快して松葉杖にて歩けるようになり、やがて再教修のお許しの戴けたときのうれしさは表現の言葉もございません。<br><br> 御教修の日には土井先生宅迄、十余丁の道を何の苦もなく易々と参らせて頂き御神前にある事二時間にして腰も脚も曲らぬ身がすっと何の苦もなく立つことが出来て御参拝の方々もその御神徳の偉大さにただ驚嘆致されたのであります。<br><br> 明主様におすがりしておれば今度こそ死なぬぞ、自分には最早死の影に恐れる必要のない、大きなお力を戴いたのだ、との強い信念を持たせていただいたのであります。<br><br> それ以来すべての眼に入るもの接する万象が大変化をきたし、今まで暗く呪わしく腹のたつ事ばかりであったのが今度は見るものきくもの全部が明るくうれしく、道ばたの石ころにでも話しかけたいような親しみを感ずる程の晴れやかさでみたされております。<br><br> 私ごとき曇り多き身がかかる勿体ない大神様にすがらせていただく事が出来たのもみな今迄の苦しみがあったお蔭と今では病気にまでも限りない感謝を捧げながらやがて杖を捨てる日も近いであろうと一人前の体となって御神業に参加させて戴ける日を楽しみにお参りを続けさせていただいております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A salvação das doenças é possível unicamente por meio desta Fé</h2>
 <p><strong>Revista Kyusei, nº 55, 25 de março de 1950</strong>
 <strong>Kasao Genno (37 anos)</strong>
 <strong>Igreja Tyokushin, ligada à Grande Igreja Tengoku da Província de Okayama</strong></p>

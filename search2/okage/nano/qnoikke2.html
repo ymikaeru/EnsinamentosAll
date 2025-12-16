@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Recuperação de hemorragia cerebral em pouco mais de dois meses (Publicado na coletânea “Salvar a América”, em 1º de janeiro de 1953)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 脳溢血僅か二カ月余で起つ 『アメリカを救う』昭和28(1953)年1月1日発行 静岡県 愛進中教会 多々良令一（60） 私は昭和二十二年十二月入信させて戴きましてより数々の御守護を頂いて参りましたが、この度脳溢血の御浄化を戴き、僅か六十日余で起上る事が出来ましたので御報告申し上げます。<br><br> 去る一月二十四日、教会の自然栽培の座談会に出席のため、朝元気一杯自転車で教会へ伺いお参りを終りました途端前後不覚となり、自分の身体の什れるのを半ば意識しながら御神前にたおれて終いました。<br><br> ちょうど同席された会長先生の御浄霊をいただき、一時間余にて意識回復しました。<br><br>今更ながら御浄霊の有難さを痛感致しております。<br><br>お蔭様で心も落着き、オート三輪に乗せられ一里余の田舎道を我家に帰りましたが、大した疲労もなく床につきました。<br><br>その後は一意光明如来様にお縋り申し上げ、教会の先生方はじめ信者の皆様の御浄霊をいただきまして「幾年かかるか判らない」との近所の噂をよそに、日一日と快方に向いまして、全く薄紙をはぐごとく便秘もなおり、多量の鼻血が出ましてからは非常に楽になりまして、不明瞭な発音も目に見えてはっきりして参り、発病以来四十日目に床の上に起き上り坐る事が出来ました。<br><br>更に五十日目には物につかまって歩行出来る様になり、ただ今は六十日余でありますが、不随となった右半身は感覚も整い、手足の運動も順調となりまして、食事は家人と共に楽しくおいしく戴けるようになりました。<br><br> 全く夢のような二カ月前を想い出し、もしもあの時、一時間否十分早く倒れたら一体どうなっていたかと思うとゾッと致します。<br><br>教会の御神前で倒れ、直ちに会長先生の御浄霊をいただく事が出来た私は何という幸福者だったでしょうか。<br><br>これもひとえに明主様の御守護と絶対の御力の賜物と存じます時、ただただ感涙がこみ上げます。<br><br> 明主様有難うございました。<br><br>朝に夕に幸福感を味あわせていただいております。<br><br> （昭和二十七年四月六日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Recuperação de hemorragia cerebral em pouco mais de dois meses (Publicado na coletânea “Salvar a América”, em 1º de janeiro de 1953)</h2>
 <p>Província de Shizuoka, Igreja Aishin-Naka
 Tataragi Reiichi (60 anos)</p>
 <p>Desde que tive a permissão de ingressar na fé, em dezembro de 1947, venho recebendo inúmeras proteções Divinas. Desta vez, contudo, recebi a sublime purificação de uma hemorragia cerebral e, por ter conseguido me reerguer em pouco mais de sessenta dias, gostaria de relatar esta graça.</p>

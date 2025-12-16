@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salva da Tuberculose Pulmonar: O Relato de uma Ex-Enfermeira</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 肺結核より救わる看護婦だった私 〔看護婦生活を清算肺結核より救わる〕 『結核の革命的療法』昭和26(1951)年8月15日発行 『結核信仰療法』昭和27(1952)年12月1日発行 埼玉県 和光中教会 飯野なみ子（45） 有難い光明如来様の偉大なる御神力に感涙拙き筆ながら、御報告申上げます。<br><br> 私は昨年十二月二十七日小山先生より教修を受けました。<br><br>以前十年余看護婦として臨床看護の生活を続けて参りました。<br><br>その間、病気の問屋と言われる程あらゆる病魔に侵され、薬、注射を何年となく愛用していましただけに、家庭医学等は専門家を驚かすほど研究していましたが、病気は全治とまでゆかず、ただ進元性でなくなっただけのまま、家庭の人となってしまいました。<br><br> ところがこの度はからずも長男の病気の時、受持の大竹先生がお見舞に来て下さいまして、種々と救世教のお話をして下さいましたので、早速御浄霊を頂きましたら、それまで高熱だったのが急に解熱し、食物も流動物だったのを、お話により患者の要求のままに何でも上げましたところ、悪化するどころか急に元気が出て、起きて遊びたいというようになりました。<br><br>あまりの不思議さに早速入信さして頂きました。<br><br> 教修を終った翌々日より、私が戴きました御浄化の経過を御報告申上げます。<br><br> 最初、猛烈な悪寒より始まり、胸部から腰部全身痛と変り、身動きならぬ日が二昼夜も続き、この間、大竹先生より数回の御浄霊を受けました。<br><br>ところが、二日目頃より左胸部（肺尖部）から、気味わるくラッセルが聴診器なしに聞えるようになったと思ぅと、予期はしていましたが、驚く程の大喀血を二度致しました。<br><br>入信以前ならばどんなに驚きあわてた事でしょう、一、二カ月は絶対安静、やれ注射、氷等を家人のあわてる様が思い出されます。<br><br>ただ今ではお守様をいただいている身故、安心しておられます。<br><br>喀血後の気持の快感は十何年味わった事がございません。<br><br>この有難い御浄化によって、御神力の偉大さを悟らして頂きました。<br><br> 病気で苦しむ世の多くの皆様、この御浄霊の尊さ御神力の有難さは、とうてい医学では解決出来るものではありません。<br><br>この偉大なる御力と喜びを、一人でも多くの人に知って頂きたく、拙い走りがきを致した次第でございます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salva da Tuberculose Pulmonar: O Relato de uma Ex-Enfermeira</h2>
 <p><strong>Extraído das publicações "A Terapêutica Revolucionária da Tuberculose", de 15 de agosto de 1951, e "A Terapêutica da Tuberculose pela Fé", de 1 de dezembro de 1952.</strong>
 <strong>Iino Namiko (45 anos), Igreja Wako-Naka, Saitama</strong></p>
 <p>Comovida às lágrimas pelo grandioso Poder Divino, e apesar de minha escrita inábil, sinto-me compelida a relatar a maravilhosa graça que recebi.</p>

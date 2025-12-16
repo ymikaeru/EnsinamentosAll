@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Do Abismo do Desespero à Luz (Do Desespero à Alegria)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 絶望のドン底より光明へ 〔絶望より歓喜へ〕 『結核の革命的療法』昭和26(1951)年8月15日発行 『結核信仰療法』昭和27(1952)年12月1日発行 岡山県 清霊中教会 渡辺義雄（33） 昭和二十三年九月頃、私は胃腸が悪く困っていたところ毎朝二時頃より背中の痛みで横になって休めぬようになり、起きていると別に変った事がなく、レントゲン検査では異常ありませんでした。<br><br>マッサージ施療二回で痛みは止りましたが、鍬仕事もせず気まかせに外出していました。<br><br>その年の冬より農耕をするようになり、その後二カ年間は重労働もしましたが、右肩肝骨の下部が時々不快の感があった位で別に気にも止めず農業をしていましたが、二十五年三月頃より両胸が時々痛み出し、四月になり医診を受けると肺に異常はないよう申されたが痛みは次第に強く、その度を増すようになり、軽い作業をしていましたところ、四月二十九日昼前より床につき、午後四時頃は呼吸困難となり苦しみました。<br><br>安静にして栄養をとっていると、二、三日目に少し頭がよくなったので、五分か十分間散歩しますと、すぐ後は呼吸困難となり、頭はわれるように痛み医者を迎えると「病はなく、歩いてもよい」よう申されます。<br><br>二、三日安静にしていると大部よいので散歩する。<br><br>すると苦しくなるというように、二、三回くり返していますと動悸がするようになり、一時は胸部の痛みも大部よかったのが再び痛むようになり、心臓病の飲み薬を医者より頂き、二週間位で少しずつ散歩出来るようになり安静にしていると、平熱となりました。<br><br> 医診の際肺ジストマがいるとの事で、注射のために通院三日頃より、長らく出なかった痰が出るようになり、朝などは血痰が混るようになりました。<br><br>レントゲン検診で肺浸潤で、ストレプトマイシンを五本位打って、安静にしていると治るだろうとの事で、薬を求めるために二週間位はかかりました。<br><br>その間痰は増しちょっと動いても血痰が出るようになりましたが、注射を十本とパス五日分位服用しますと、痰は食前一回か二回に、少くなりましたが、一カ月経過後も、依然家人とのちょっとの話や、二分か三分間の新聞をみるのがさわるのです。<br><br>困っているところへ親戚の平岡茂雄さんから、光明如来様を信仰したらと教えて頂き、早速宇治村の森田寿雄さんに来て頂くようになり、御浄霊を頂くうちは話も出来、次第に楽になり、少し位座って話す事も出来、四日目夕刻には広瀬政行生をお迎えし、御浄霊をいただき、三カ月あまり禁浴していましたが入浴も出来、背の痛みもとれ、翌日よりは離床する事が出来ました。<br><br>三日頃には近隣への歩行も出来る身となり、十日目には四里離れた高簗町の村田藤吉さん宅へ行き、家内と共にお守様を受け、御屏風観音様をお迎えし、九月六日には光明如来様を奉斉し、今では不幸な人を救うべく、お手伝させて頂いております。<br><br> 絶望のドン底より光明を見出し、今日の明るく朗かな生活をさせて頂けます事は、実に御霊徳の賜とただただ感涙のみであります。<br><br> 医学で治らなかったものが、光明如来様の偉大なる御守護により治った事は世紀の驚異であります。<br><br>私達も一日も早く世界救世教に徹し、眼に見えざる神様の有難き、前代未聞の福音を、迷える多くの世の人に是非味わって頂きたく、お導き致します事を誓って、お礼の言葉に代える次第であります。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Do Abismo do Desespero à Luz (Do Desespero à Alegria)</h2>
 <p>Yoshio Watanabe (33 anos)
 Igreja Seirei-Tyu, Província de Okayama</p>
 <p>Por volta de setembro de 1948, eu me encontrava afligido por problemas gastrointestinais. A situação agravou-se quando uma dor nas costas, que surgia por volta das duas horas da madrugada, passou a me impedir de repousar deitado. Curiosamente, durante o dia, quando estava em pé, não sentia nada de anormal, e os exames de radiografia não revelaram qualquer anomalia.</p>

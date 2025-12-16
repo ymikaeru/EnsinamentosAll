@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Sobre a Graça da Agricultura Kannon</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 観音耕作の御利益について 『地上天国』2号、昭和24(1949)年3月1日発行 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 岐阜県 日本五六七教大光会 西部君子（25） 私はただ今三重県北牟婁郡へ開拓に行っておりますが、観音耕作の御利益を御報告申上ます。<br><br> 不安な現在の世に信仰程楽しい事はありません。<br><br>私達も観音様を信仰させて戴いておりますが、不治とされた病気から離れ、家中の者が病苦から救われています。<br><br>信仰等と言うと老人や不治の病人のする事のように思われますが、職場職場に働きつつ、いとも簡単に御利益は戴けるのです。<br><br>私の家も田畑八反ばかりの農作をしていますが、今年こそは御利益を戴こうと麦や馬鈴薯等あらゆる作物を観音耕作にしてみました。<br><br> まず作物の種に浄霊して蒔付けました。<br><br>そうして後は配給で分けて貰っただけの肥料を処々に播き散らし、主に堆肥をやり時々草をひいてやる程度です。<br><br>どの田も畑も手入が行届かず、草も相当生えておりましたが、刈り取ってみて皆がびっくりしました。<br><br>第一麦などはとても実がよく想像以上でした。<br><br>馬鈴薯などは甘藷大の大きさに出来ていました。<br><br> 農家の方々が皆観音耕作をしたならば高値な闇肥料は買わず手間は省け増収は出来、供出も喜んで出来、消費者にも喜んで戴けると思います。<br><br> 金肥の多い田より実がよく増収出来た事に観音力をはっきりみせて戴きました。<br><br>信仰も観音耕作も決して難かしいものではありません。<br><br> 御希望の方はどんどん御尋ね下さい。<br><br>先生方の御骨折に対して感謝致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Sobre a Graça da Agricultura Kannon</h2>
 <p><em>Do jornal “Chijo Tengoku”, nº 2, 1º de março de 1949</em>
 <em>Também publicado na “Coletânea Jikan”, 2ª parte, “O Método de Cultivo sem Fertilizantes”, 1º de julho de 1949</em></p>
 <p>Kimiko Seibu (25 anos)

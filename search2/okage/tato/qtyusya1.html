@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Pavor do Vício em Injeções: A Causa de Trinta Anos de Asma</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 注射中毒の恐ろしさ 三十年来の喘息の因 『救世』55号、昭和25(1950)年3月25日発行 福島県 五六七大教会大輪中教会 馬上ヒデ（45） 私は十五歳の時より三十年の長い間喘息の病魔に悩まされ一日も薬を用いぬ日なく参りました。<br><br>来る日も来る日も病苦の二字を外に日を送る事の出来なかったのが過去三十年の私の生活のすべてでした。<br><br>発作のため夜もろくろく寝れず朝夕のお勝手仕事をするにも注射なくしては出来ず、四、五丁離れた配給所に行くにも往き帰り注射をし、かろうじて我が家にたどりつく始末でした。<br><br>果ては注射の針を刺す事の出来ぬ程腕は固くなり注射する事すら不可能な有様でした。<br><br>当時の私はせめて一日だけでも苦痛と薬から離れた日を送りたい切ない思いで一ぱいでした、そのくせ神様を否定しひたすら人間や科学の力のみに救いを求め、ありとあらゆる術をつくし果てはただ死あるのみと悲観のどん底に陥ってしまった矢先、昨年九月お導きにより有難い光明如来様の御浄霊を頂きその上お守まで頂き、三十年の苦しみはどこへやら御浄霊二日目にて長い間片時も離れた事のなかった薬と全くお別れしてしまい、理屈にてはどうにもならぬ神の偉大なる御恵に唯物主義一点張りの私もただ事実の前に感泣せざるを得なくなりました。<br><br> それに重ねて時も五六七大教会のお祝日十一月十一日、時間も丁度十一時頃、近くの古川炭鉱に勤務していた愚息正之（二十四歳）作業中（線路補修）信号の誤りより進行中の石炭を満載したトロの下に腕をはさまれ、着ていた三枚のシャツは見る影もなくバラバラに破けたにみて当然腕は断ち切られるべき運命におかれていながら一滴の出血もなく、ただ車輪の跡と痛みを残すのみに止り、それも一回の浄霊にて苦痛はぬぐい去られ平常通りにたちかえる事が出来ました。<br><br> 親子揃って重ね重ねの御利益を頂き光明如来様の大慈大悲の御恵に応え奉りたく昨年二月光明如来様をお祭りさせて頂き親子共に御奉仕させて頂いております事を謹んで御報告申上げます、本当に有難うございました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Pavor do Vício em Injeções: A Causa de Trinta Anos de Asma</h2>
 <p>Publicado na revista <em>Kyusei</em>, nº 55, em 25 de março de 1950</p>
 <p>Hide Majo (45 anos)
 Igreja Otamawa da Grande Igreja Miroku, Província de Fukushima</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Preso sob um automóvel (jeep) com a bicicleta</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 自転車諸共自動車（ジープ）の下敷きになって 『栄光』163号、昭和27(1952)年7月2日発行 福岡県 光宝大教会 印藤弥三（51） 私は病弱の妻を御救い戴きましたのが動機で入信させて戴き、ただ今では御守護のもとに仕合せな日々を過させて戴いております者でございます。<br><br>入信以来、戴きました数々の御守護の中から、その一端を謹んで明主様に御礼御報告申し上げさして頂きます。<br><br> 四月一日正午頃、長浜町営業所に自転車にて出勤の途中の出来事でございます。<br><br>洲崎裏のカーブを横切っておりました時に、ほんの瞬間……どうして轢かれたのか分りませんが、ふと気が付きました時は米軍乗用車の下敷になっておりました。<br><br>当然、轢死しているものと思って人々が騒然と車の周囲をとり巻いておりました。<br><br>驚いて駈けつけた四、五人の人達が自動車の下から私と自転車を引張り出して下さいました。<br><br>自転車のペダルは曲り、腕時計が三つに割れて散乱致しております。<br><br>又、十間程先には靴が吹き飛んでおり、眼鏡も飛ばされておりました。<br><br>人に助けられて起されまして、はじめて私の身体には何の痛みも傷も無い事を知りました。<br><br>この時の有難さは何にたとえようもなく、ただただ「明主様有難うございます」と御礼申し上げるばかりでございました。<br><br>この理屈では割り切れない大奇蹟を現実に見て、周囲の人々もただ唖然として言葉もありませんでした。<br><br>その時通訳の人が「車にお乗んなさい、病院に行きましょう」と言われますのを逃げるように振り切ってすぐ教会にお参りさせて戴きました。<br><br> もしあの時に、明主様の御救いがなかったならば、私の生命はすでに無いものと思います時に、この御救いの御力の偉大さをしみじみと分らせて戴きました。<br><br>教会にお参り致し明主様の御写真の大前に額ずきますと、入信以来賜わりました限りなき御神恩の万分の一にもお報いさして戴く事も、報ゆる事なく過して参りました今日までの御無礼をも咎め給わず、大慈大悲の御赦しを戴きましてただただ申訳ないばかりでございます。<br><br>しかしながら今日を期して新しく生まれ変らせて頂き、どうぞ明主様の病貧争絶無の地上天国御建設の御用に少しでも御使い頂けますよう伏して御願い申し上げます。<br><br> 明主様有難うございました。<br><br> （昭和二十七年五月二十五日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Preso sob um automóvel (jeep) com a bicicleta</h2>
 <p>Publicado na revista Glória, nº 163, em 2 de julho de 1952
 Indo Yasozō (51 anos), Grande Igreja Kohō, Fukuoka</p>
 <p>Ingressei na fé motivado pela salvação de minha esposa, cuja saúde era frágil. Hoje, sou agraciado com dias felizes, transcorridos sob a constante proteção Divina. Dentre as inúmeras graças recebidas desde meu ingresso na fé, desejo, com a mais profunda reverência, relatar a Meishu-Sama uma delas, em sinal de minha gratidão.</p>

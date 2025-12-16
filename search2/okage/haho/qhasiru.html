@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salvo de uma queda de trem em movimento sem qualquer lesão externa</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 走る列車から墜落外傷一つなく済む 『世界救世教奇蹟集』昭和28(1953)年9月10日発行 福岡県 明輪中教会 誉多謙次（30） 私は昭和二十三年四月十八日にお守様を受けさせて項いた者で、今まで度々家内中で有難い御神徳の数々を頂き、感謝、謝恩の毎日を過させて頂いております。<br><br> 五月九日私は社用で博多に出張しました。<br><br>当夜は当地に宿泊の上、翌朝四時起床、五時十分博多発門司港行一番列車で帰途につくべく乗車致しましたが、暫くして睡眠不足のせいか貧血症状で嘔吐をもよおし、その場でするのも他人に迷惑だと思い便所に立ったまでは覚えておりますが、それから先は全然意識不明で当時から約二時間程も経てからでしょうか、頭上に列車のきしむ音に目を覚まし、初めて進行中の列車から落下したことに気がつきました。<br><br>ところが何と有難いことに幅四間程の鉄橋の下で、選りも選って白州の上に横たわっておるではありませんか。<br><br>外傷一つだに負っておらず当時は全く夢心地でありました。<br><br> 二尺程も左にずれても河水の中で溺死するか、一尺右にずれても、みかげ石で頭蓋骨を粉砕されるきわどい窮地に救われ、ただ感謝感激にひたりました。<br><br> 十数尺もあろう鉄橋からただ墜落してさえ相当の負傷はまぬがれぬにもかかわらず、まして進行中の列車から墜落して外傷一つなく骨折さえもまぬがれ、ただ打撲に過ぎぬとは、有難い光明如来様の御守護の程がひしひしと身にしみ、何といってよいかその言葉も見出すことが出来ません。<br><br>ただ感謝感激に咽ぶのみです。<br><br> しかも落下地点は東郷駅より赤間駅に至る中間の片田舎で、意識を取り戻してから赤間駅に至る約一里の道を、打撲を受けた身でありながら、単身御守護を戴き比較的気楽に歩行させて頂き、九時十分の列車に無事乗車の上帰宅致しました。<br><br>帰宅して早速土屋先生にお願いして御浄霊をいただき、お蔭様で非常に良くなりました。<br><br> 本当に有難うございました。<br><br>今後共何卒御守護賜わります様御願い申し上げます。<br><br> （昭和二十四年一月十二日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salvo de uma queda de trem em movimento sem qualquer lesão externa</h2>
 <p><em>Do “Livro de Milagres da Sekaikyuseikyou”, publicado em 10 de setembro de 1953</em></p>
 <p><strong>Kenji Yoda (30 anos)</strong>
 <strong>Igreja Myorin-naka, Fukuoka</strong></p>

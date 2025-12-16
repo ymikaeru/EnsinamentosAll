@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Poder Divino que Ressuscita os Mortos</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 御力に死者蘇る 『地上天国』3号、昭和24(1949)年4月20日発行 自観叢書第4篇『奇蹟物語』昭和24(1949)年10月5日発行 静岡県 日本観音教団天国会 高柳千恵子 病と貧と争いとの中に、不安と苦悩の日々を続けらるる多くの世人がありましょうのに、私達は有難き尊き神様のお道に御導きを頂きまして、前途に光明を与えられ、大なる希望に生き日夜守護垂れさせ給うかたじけなさに感謝あるのみでございます。<br><br> この度も光明如来様の御力をお浮け頂きまして、偉大なる奇蹟を頂き謹みて御報告申上げます。<br><br> 昨年十二月二十二日午前七時頃、自宅前の畑にて作業しておりましたところ、何気なく東海道路上の人垣に気付き、何事かと近づいて見ましたところ、人が死の状態にて倒れており、その周辺に四、五十人の人が集り騒いでいるので、それを見た私は自己を忘れ、人垣を押分けて中に飛込み、第一に左の手をとり脈をみましたところ、脈一つも私には知る事は出来ません。<br><br>それのみか手足の関節は固くなっており、体は冷え全く死人そのままの状態でございます。<br><br> 無神論者の多い公衆の真只中にて、尊い神様の御存在と絶対なる御力を表現なされますために、私達夫婦にこの人をお与え下さったに相違ないと悟り、観音様の御慈悲の有難さかたじけなさに感涙に咽びながら、尊き御力を授け給えと念じつつ、主人は善言讃詞を奉唱させて頂き、私は御浄霊を続けさせて頂いておりましたところ、無神論者の多き公衆の中からは、死人に何をする、つまらぬ馬鹿者発狂夫婦などと、強声を発する者すら出て参りました。<br><br>最早その時には人垣も百名以上となっており、役場からも警察からも係員が参っておりましたのに、私達はちょっとの不安もなく神様の絶対の御力にお縋りしつつ、御浄霊を続けさして頂き、善言讃詞四回同念被観音力を奉唱している時でございました。<br><br>あの青年はグウと呻き声と共に呼吸は段々平常に復しました。<br><br>その時の私達の喜び、私達の胸中はお察し下さいませ。<br><br>御力の尊さかたじけなさ、有難さと喜びとが一度に胸を突き、何一つ言葉すら出ず、次々と溢れ出る感謝の涙のみでございました。<br><br>十五分にて全く回復致しまして、身の上話まで物語るようになり、京都の生れにて二十歳になる盲人の青年であった事が知れたのであります。<br><br> 無神論者の目前にて偉大なる御力を表現させて頂きまして、村内の人達も村役場吏員も大なる反省を致したようであります。<br><br> 偉大なる御神徳をお受致しまして謹みて御報告申上げさせて頂きます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Poder Divino que Ressuscita os Mortos</h2>
 <p>Publicado na revista “Paraíso Terrestre” n.º 3, em 20 de abril de 1949.
 Publicado em “Coletânea Jikan – Contos de Milagres”, 4ª edição, em 5 de outubro de 1949.</p>
 <p><em>Chieko Takayanagi</em>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Uma família imersa em medicamentos e sofrimento: despertar para a causa conduz à felicidade</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 薬浸りから病苦の一家 原因に目覚めれば幸福に 『救世』48号、昭和25(1950)年2月4日発行 福岡県 光宝中教会 諸富基子（23） 昭和二十二年六月二十三日、光明如来様奉斎、昭和二十二年十二月十五日お光頂きましてより数々のお蔭を頂き、毎日御守護の下に楽しい日々を迎えております。<br><br>以前の事を考えてみますれば全く怖しい気が致します。<br><br>父が市内第一の大きな薬局と懇意にしておりましたし、役所勤めの関係上、医大よりあらゆる得難い新薬が手に入るし、薬不足の頃等は近所の方も親類の者も医者や薬屋にない時は諸富の家へ行けばよいという位用意致しておりました。<br><br>これも全く病気が恐しく手遅れにならないように、又より良き健康の増進の為でした。<br><br>しかし現実を眺る時、母は二十七年間の眼病に悩まされ、肺浸潤、黄疸、慢性胃腸病、脚気、盲腸等病弱の為、東京青山学院を二年で中退、妹は赤坊大会で表彰されていましたが、頭痛、蓄膿、扁桃腺、心臓脚気、胃腸病等、五人姉妹の中一番弱い私が毎日医者の門をくぐらない事なく、胃腸の薬はみな食後の果実のように服用、永年のキリスト教信者であった一家、神に救われているとは言っても実に病気が恐ろしく、戦々兢々として頼りなき薬に頼り、神の愛とはいうものの時には不平に考えた事さえありました。<br><br>今考えみますれば全く現世地獄そのままでした。<br><br> しかるにちょっとした縁により鳥栖町の吉田さんよりいろいろと浄化の話を間接に承り、好奇心も手伝って私も御光を頂いてみたいと思っておりましたおかげと申しましょうか、六月になって急に母の持病であるそこひが再発しました。<br><br>母はまさか眼は御浄霊では治るまいと福岡の病院に行こうとしている時に、嫁いでいる姉が家へ来てその由を聞き、何でも治ると仰言ったからと言って母を吉田さん所へ連れて行き初めて御浄霊頂きました。<br><br>二、三日と通ううちに私も御教修頂き五日目には大川町で木原先生より有難い御守様を頂戴致しました。<br><br>薬を神と頼っていた私にとって正しい大先生様の御光を頂いた時の嬉しさを何と表現してよいか判らない。<br><br>新たな生命を大先生様に戴いた時、感謝は忘れる事が出来ません。<br><br>私のような者でも御使い下さる嬉しさに、帰って早速母も皆の者も御浄霊させて頂きました。<br><br>母のそこひも一日一日と良くなり十日目頃にはもうほとんど、二十日目頃にはもうすっかりそこひなど忘れてしまう程でした。<br><br>普通であれば三カ月位入院致し、退院後も長い間病院通いをし、今までに何十本眼球に注射したことか判らない、そして良くなっても眼を使う事が出来ず全く盲同様でした。<br><br>それに引換え僅か十日や二十日位でお蔭を頂きました上、どういう仕事をしても目に障る事なく全く盲になる一歩手前で御救い頂きました。<br><br>皆の者も非常に健康になり一同入信さして戴きました。<br><br>このように悩んでいる人が世の中にはどれだけあるか判りません。<br><br>このような方々が一日も早く有難い御観音様の御光に浴する事が出来ますればと、御用させて頂いております、有難うございました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Uma família imersa em medicamentos e sofrimento: despertar para a causa conduz à felicidade</h2>
 <p>Publicado na revista Salvação, n.º 48, em 4 de fevereiro de 1950
 Motoko Morotomi (23 anos) | Igreja Kohou-Chukyo, Província de Fukuoka</p>
 <p>Desde que entronizamos a Imagem da Luz Divina, em 23 de junho de 1947, e, posteriormente, recebi a Medalha da Luz Divina, em 15 de dezembro do mesmo ano, nossa família tem sido agraciada com inúmeras bênçãos. Vivemos, hoje, dias repletos de alegria sob a constante proteção Divina. Ao recordar o passado, contudo, sou tomada por uma sensação de pavor.</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O repolho que não floresceu</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： キャベツに花が出ぬ 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 大分県 日本五六七教帰一会 塩見トメノ（51） 私は昭和二十一年十一月二十三日Ｋ教導所においてお守を頂きまして以来、数々のお蔭を戴いている者でございます。<br><br> 私は昨年の秋、最早他家のキャベツの苗は大きく成り定植した後に私方は蒔種しました。<br><br>定植したのは一月の初めでございました。<br><br>他家のを見て私方のを見ますといかにも小さくて見るに忍びないので、そこで畑へ行く度に浄霊いたしておりました。<br><br>四月中旬一週間ばかり畑へも行かず過したところ、ある日行って見ますとほとんど全部がよく巻いていて、最早二、三出来過して割れるのもありました。<br><br>一、二カ月も早く植えた他家の畑のはまだ巻いておりません。<br><br>なお驚いた事にはただの一本も花の咲いたのが無い事です。<br><br>今年は一般に暖冬の為か、どこの畑でも大てい花が咲きました。<br><br>中には畑全体が花が咲き残りの僅かばかりも満足なのは出来ず、牛馬や兎の餌になっているような有様ですのに、私方は一本も花が出ませんのは、これひとえに観音様のお蔭と感謝いたしております。<br><br>この一例を見ましてもいかに観音力の偉大なるかを痛切に感ぜざるを得ぬのであります。<br><br> 麦のヤミが入らず、雀が食わぬ 本年は麦もあまりに暖冬の為か、全国一般的に良作でない事はかねて新聞、ラジオでも報道せられている次第でありまして、私方でも土入を何回いたしましても根が張らず、ただ立上るばかりでこの調子では「今年は麦は食えん」と諦めながらも畑へ行く度に浄霊いたしておりましたところが、この三月頃になりますと、どんどんと良くなって来、今では例年より穀も大きく穂も大きく定めし実も大きく出来るだろうと期待しております。<br><br>これに反して隣の畑は早い中に「ヤミ」が入って根が枯れ残りの分も私方よりずっと小さいのです。<br><br>それから私方のは雀も食いませんが、私方の下側の畑は雀がつついて、狭い畑はほとんど食い尽しております。<br><br>豌豆（えんどう）も隣の畑は「ヤミ」が入り枯れて黄色くなっておりますが、私方のは青々と生立ちさやも沢山付いて例年にない出来栄と喜んでおります。<br><br>これもひとえに観音様の御加護の賜と感泣いたしております。<br><br>本当に観音力の偉大さは話したとて経験ある人でなくては分る事ではございません。<br><br>拙き私にはとても筆舌には尽されませんが発表さして頂き、有難い観音様の御恩の何万分の一にも報いられたらと拙き筆をとった次第でございます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O repolho que não floresceu</h2>
 <p>Sou uma fiel que tem sido agraciada com inúmeras graças desde que recebi o Ohikari, no dia 23 de novembro de 1946, no Johrei Center K.</p>
 <p>No outono do ano passado, realizei o plantio das sementes de repolho quando as mudas dos demais agricultores já estavam crescidas e transplantadas para o solo definitivo. O transplante para a horta ocorreu no início de janeiro. Ao comparar minhas mudas com as das outras lavouras, era penoso constatar quão pequenas e frágeis pareciam. Por essa razão, a cada visita à horta, eu ministrava Johrei.</p>
 <p>Em meados de abril, após passar cerca de uma semana sem ir à plantação, retornei e deparei-me com uma surpresa: quase todos os repolhos haviam se formado esplendidamente, e alguns, já tão desenvolvidos, começavam a se romper. Em contrapartida, os repolhos dos campos vizinhos, plantados um ou dois meses antes, ainda não haviam se fechado.</p>

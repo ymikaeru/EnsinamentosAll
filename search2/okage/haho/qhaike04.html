@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Até a minha salvação da tuberculose pulmonar (Assim fui salva)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 肺結核が救われるまで〔斯く救われて〕 『結核の革命的療法』昭和26(1951)年8月15日発行 『結核信仰療法』昭和27(1952)年12月1日発行 宮崎県 光宝大教会 山下サガミ（38） 私は昭和二十五年肺病全快と共に入信さして戴きました歓びを御礼申上げます。<br><br> 顧みれば二十四年八月少々の腰痛で土々呂町の林病院に行きましたところ、一本の注射ですぐ回復しましたら、医者はこの薬がよく効いたらリウマチではないかと申します。<br><br>それから冬になり再び痛みが出て注射をしましたが治らず、又九年前に産後に肋膜炎になった事がありましたので、何だか気になり、レントゲンを取りました。<br><br>「後三年とない命であった。<br><br>よい時に来た、早速安静にして食養生をせよ」と言われました。<br><br>左胸に気胸を三回しましたが、次第に不安はつのり、医者は右胸を守らねばと今度は右胸に再度の気胸を致しました。<br><br>引続き五十三回も致しましたが、何の効果もなく、早く元気になりたいと思えば思う程、情ない憂欝な日を送っていました。<br><br>弟も結核で入院していて「気胸が出来れば幸福ですよ」との手紙を見る毎に、アー、これでよいのかと思うばかりでした。<br><br> 九月の初め頃、一青年が新聞を売りに来ました。<br><br>その時まで世界救世教がどんな宗教であるかとも知らず、まあ気安めに読んでみようと戴き、病気全快の体験談を拝見致しました。<br><br>判らずながらも延岡の分教会に御参り致しました。<br><br>今までに見聞した事もない御浄霊というものを疑いながら戴きますと、肩のこりがとれ、気持が楽になり、次の日も御参りさして戴くことが出来ますのも何か神様の御引合せと思いました。<br><br>弟からは「迷信邪教にまどわされて、現代の科学の進歩している時、宗教で病気が治るなんていう事はない」と手紙が来るし、夫は「自分の言う事は全然聞かない」と言い、親は実家に引取るとの話まで持上りました。<br><br>周囲の者の反対で心も落付かず、又病院に行きましたら、「息切れがするでしよう」と言われ、他に別に異状はないがとの事でしたが不安は止まらず、レントゲンを撮りましたら、右肺が悪いと申します。<br><br>前には左が悪いと言われましたがと言いますと、そうかねと言ったままで、医者の言葉も信用出来ない。<br><br>科学が進歩していると言いながら、このような誤りがあるかと不安と反感を抱き、漸く御浄霊の御蔭でこんなによくなったことが判りました。<br><br>その後は出張して頂いて次第にズンズン良くなり、僅か三日間の御教修とやらを戴き自他共に神の御力を頂く事が出来た事が判り、今では夫も「弟にも早く御浄霊を頂くように話してやれ」と口添えする位に信用して参りました。<br><br>今では旅行しても何ともなく、自然農法の作物を見せて戴き、自ら作っては、誠に広大無辺な神様の御力に感謝せずにはいられません。<br><br>有難う御座います。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Até a minha salvação da tuberculose pulmonar (Assim fui salva)</h2>
 <p>Publicado em ‘A Terapia Revolucionária da Tuberculose’, de 15 de agosto de 1951
 Publicado em ‘A Terapia da Fé para a Tuberculose’, de 1º de dezembro de 1952</p>
 <p>Yamashita Sagami (38 anos)

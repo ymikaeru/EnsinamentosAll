@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Salvação da Tuberculose e da Nefrite, a Despeito da Dúvida</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 疑いつつも結核腎臓炎まで救わる 『結核の革命的療法』昭和26(1951)年8月15日発行 『結核信仰療法』昭和27(1952)年12月1日発行 静岡県 更生中教会 森下利雄（23） 光明如来様に救われて苦悩のどん底より歓喜に満ちた生活へと転換致しましたお蔭と信仰へ進んだ道を御礼と共に御報告さして戴きます。<br><br> 私は昭和二十三年風邪が原因で肺浸潤となりました。<br><br>日赤病院へ行って診察の結果大変悪く、レントゲンによれば両肺特に右肺一面に雲翳があり、医師からは絶対安静にして、入浴も禁ぜられました。<br><br>私の落胆はたとえようもありませんでした。<br><br>その時は眼前暗黒となり、どこに生甲斐があるかと毎日苦しんでおりました。<br><br>この時光明如来様の御慈悲に救われたのであります。<br><br> 親戚の黒田さんがおいで下さって御浄霊をして下さいました。<br><br>初めは信じられず、治る訳が無いと思いながらも御浄霊を戴きましたところ、非常に気持が良いのです。<br><br>一週間程続けて戴きましたら、胸の痛みも咳の出るのも大変楽になって参りましたが、この時には未だ信じられなかったのです。<br><br>時期がきて良くなった位に思っておりましたが、間もなく腎臓炎に罹りました。<br><br>今思えば誠に申訳ない事ですが、その時も信じられず薬を飲んでおりましたが、一向に良くならないのです。<br><br>再び黒田さんが教会の帰りによって下さいまして、黒田さんのお家へ来るようすすめられ、泊り込みで御浄霊を戴きました。<br><br>薬を止めてから五日目に腎臓炎の時に飲んだ薬が二回程ゲップになって出るではありませんか、その時初めて薬毒の恐ろしさを知りました。<br><br>その後夜中に心臓が凄くときめいて、どうなる事かと心配しておりましたが、光明如来様にお縋り致しましたらスーッと楽になりました。<br><br>有難うございました。<br><br>神の存在を否定した私も初めて信じられるようになりました。<br><br>その後右手を挫いて箸を持てない手が一回の浄霊で持てるようになりました。<br><br> 本当に次々の奇蹟に驚嘆致し、御慈悲に感謝致しました。<br><br>心から厚く御礼申上げます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Salvação da Tuberculose e da Nefrite, a Despeito da Dúvida</h2>
 <p><strong>Publicado em "A Terapia Revolucionária da Tuberculose" (15 de agosto de 1951) e "Terapia da Fé para a Tuberculose" (1º de dezembro de 1952)</strong>
 <strong>Morishita Toshio (23 anos)</strong>
 <strong>Igreja Koseichu, Província de Shizuoka</strong></p>

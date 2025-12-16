@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Uma Súbita e Inexplicável Mudança na Condição da Doente (O Problema Real de Salvar uma Vida)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 不可解な病状急変 生命を救う現実問題を 『救世』50号、昭和25(1950)年2月18日発行 岩手県 進々中教会 教導師 伊藤キス（45） 戦争もたけなわの、昭和十〔九〕年十二月二十六日、妹の結婚式当日、五歳になる私の養女（妹の次女で父親は昭和十五年に死亡）が急に頭が痛いと泣き出し、全く狂人のようになり、わめきさわいで、どうにもなりませんでした。<br><br>これは急性の脳膜炎ということは、一見して素人にもわかる病状でしたので、式の手伝の人々が大変心配して、医者を迎えに走って行きました。<br><br> 私は式の方には手伝もせず、ただ一すじに神様におすがりして、絶対大丈夫と思い、浄霊さして頂いておりましたら医者が見え、矢張り脳膜炎との診断で注射をして帰られました。<br><br> 間もなく急に静かになったので、頭に手を当ててみましたら、何んだかヒヤリと感じましたので、変だな、と思い脈をみましたら非常に不整です。<br><br>驚いて主人を呼び、心臓に手を当ててみますと、鼓動は結滞しております。<br><br>暫くたったら、段々冷たくなり、死相を呈して参りました。<br><br>もう呼吸もせず、脈もすっかり止ってしまいました。<br><br>手伝の人々も今はただ顔を見合わせて、オロオロするのみです。<br><br>自分一人では心許なく、約二十丁はなれた山崎先生のお宅に電話して御浄霊をお願いしましたところ早速かけつけられ、どうもあきらめるより外ない容体だが光明如来様におすがりしてやらして頂きましょうとおっしゃいましたので、先生と私と二人で一生懸命に浄霊さして頂き、主人もまたひたすらに光明如来様を念じつづけておりました。<br><br> やがて一時間半程して、やっと泣き出しましたので、居並ぶ人々も「ああ生きかえった、生きかえった」と大喜びで、ホッとして気がつきますと、十二月末の寒夜に先生も主人も私も上衣なしのシャツに、ビッショリと汗がにじんでおりました。<br><br> この時の感激は、とても筆舌にはつくし得ません。<br><br>全く光明如来様の御利益の偉大さにはただただ驚くばかりで、ああ助けて頂いた、御救の御手をさしのべて頂いた！ と思うと涙がとめどなく流れ、あたりに大勢の人々のいるのさえ打忘れる程でした。<br><br> この約一週間程前主人が、四年前になくなりましたこの子の父が来て、この子を貴殿にお願しておくわけには行かぬから、どうしても一緒に連れて行くと言い、主人は今更やることなどできぬと、はげしい口論をし、はては法にかけてもやらぬと争った夢をみたから、充分注意しているようにと申しておりました際に、このようなことが起きまして、やはり光明如来様が、妙智力でお知らせ賜ったのだと思い当り、妙智力の無限のお働きに、ただ驚嘆するばかりでありました。<br><br> この子は、生れ落ちたその日から私達の手で育てましたが、父親は、この御光を仰ぐ私達のことを理解できず、遂にはうらんでさえおりますうち、一年ほどして急死してしまいました。<br><br>これも矢張り神様の思召しによるものと私は信じております。<br><br> このようなわけで、私達に委ねていることが苦しくて、一緒につれて行こうとかかったものと思いますが、観音力の偉大な御救の前には流石頑固な死霊も、お浄めを頂いてこの子の傍をはなれ去ったものと存じます。<br><br>それを思うにつけて、まだ、この有難い御光に浴さぬ人に一日も早くわからせたいものと念願致しまして精進さして頂きたく存じおります。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Uma Súbita e Inexplicável Mudança na Condição da Doente (O Problema Real de Salvar uma Vida)</h2>
 <p><em>Publicado na revista “Kyusei”, nº 50, de 18 de fevereiro de 1950.</em>
 <em>Ito Kisu (45), Ministra da Igreja Shinshinchu, Província de Iwate.</em></p>
 <p>Em 26 de dezembro de 1944, no auge da guerra e precisamente no dia do casamento de minha irmã, minha filha adotiva de cinco anos — a segunda filha de minha irmã, cujo pai falecera em 1940 — começou a chorar subitamente, queixando-se de dor de cabeça. Em pouco tempo, passou a comportar-se como uma pessoa fora de si, gritando e debatendo-se de forma incontrolável. Seu quadro clínico, à primeira vista, era evidente até para um leigo: tratava-se de meningite aguda. Diante disso, os que auxiliavam na cerimônia, tomados de grande preocupação, correram para chamar um médico.</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salva da Tuberculose Mortal</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 死の結核より救わる 『結核の革命的療法』昭和26(1951)年8月15日発行 鳥取県 応神中教会 牛尾葛喜子（24） 私の入信させて戴いたのは二十三年四月上旬の事でした。<br><br>神はない、科学科学と教え込まれ、又自分も唱えて来たのですが、病気が無神論の私を救ってくれました。<br><br> 私は肺結核だったのです。<br><br>不治の病いとされているだけに私はもとより一家に与えられた影響は大きなものでした。<br><br>医者だ、薬だ、祈祷だ……と人が良いと教えてくれるものは皆やって見ましたが、一向に良くなりません。<br><br>病状は悪化するばかりです。<br><br>終いには肺ばかりでなく腸まで侵され、医者からは二、三度死の宣告を受けました。<br><br>その重態にありました私が、京都の広崎教会よりお出になっておられた山内先生に浄霊を受けましたところ、最初は半信半疑でいた私も驚く程僅かの間に起ち上る事が出来ました。<br><br>私の死を待っていた周囲の者の驚きようは一通りではありませんでした。<br><br> 病床を離れて一カ月余りで本部にも参拝させて戴き、以後浄霊に従事さして戴いておりましたところ、その後疥癬の浄化をいただきました。<br><br>起ち上ってから僅か半年位しか経っておりません。<br><br>殆んど全身に出た疥癬も半年ですっかりよくなりました。<br><br>まだまだ奇蹟を戴いておりますがこれにて筆をおかせて戴きます。<br><br>厚く御礼申上ます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salva da Tuberculose Mortal</h2>
 <p><strong>Extraído da publicação “A Terapia Revolucionária da Tuberculose” de 15 de agosto de 1951</strong>
 <strong>Relato da Sra. Ushio Kazuko (24 anos), Igreja Ojin-Naka, Província de Tottori</strong></p>
 <p>Recebi a graça de ingressar na fé no início de abril de 1948. Eu havia sido instruída a acreditar que Deus não existia, que tudo se resumia à ciência, e eu mesma propagava essa ideia. Contudo, foi a doença que me salvou de meu próprio ateísmo.</p>

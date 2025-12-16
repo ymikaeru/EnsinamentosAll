@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Johrei no Forno de Telhas — Obtendo Resultados Superiores sem Peças Defeituosas</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 瓦カマドに浄霊 ――等外品なしの上成績得る―― 自観叢書第4篇『奇蹟物語』昭和24(1949)年10月5日発行 岐阜県 日本五六七教清霊会 細野弘子（23） 顧みますれば昭和二十一年八月母が胃痙攣を起し苦しんでいるところ目前で救われ、その偉大なる力に驚き、そして一人でも多く苦悶の底にある方々をお救いしたいと思う一念で九月教修を受け入信させて頂きました。<br><br> 家業は土瓦製造業で二十余年営んでおります。<br><br>ところが気に入った瓦は一年を通じて二、三回しか出来ません。<br><br>先生より浄霊についてお話を承り本年一月に初めて瓦窯に浄霊をしました。<br><br>まず観音様にお参りして全く無我の境地で窯に浄霊をしました。<br><br>丁度その日は窯炊きで四日目に窯の口をあけ、瓦を出すのですからその日より四日間いつもより早く起床し浄霊をしました。<br><br>四日目にはもうじっとしていることが出来ず早速窯へ急ぐ、父母は一心に窯あけをしている。<br><br>まあどうでしょう。<br><br>一窯千枚入りの窯で今迄の成績は平均上等六百枚、二等三百枚、等外百枚でしたが、驚いた事には上等瓦が七百枚、二等は二百九十枚、等外は四枚と言う素晴しい御利益を頂きました。<br><br>そして二回目は等外は一枚もなしです。<br><br> ただ余りの不思議さ有難さに驚き感謝に堪えず、今では家内全部信者となり喜びの生活を送っております。<br><br>このような大きな御利益を頂き皆様にも安く販売して共に喜んでいる次第でございます。<br><br>この嬉しさを同村の業者にも話し観音様の御霊徳を讃え感謝と歓喜の日々を送っております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Johrei no Forno de Telhas — Obtendo Resultados Superiores sem Peças Defeituosas</h2>
 <p><strong>Coletânea de Artigos do Mestre Jikan Okada</strong>
 <em>Busca de Ensinamentos: auxílio; relatos de graças; busca de materiais.</em></p>
 <p><em>Extraído de: Jikan Sosho, 4ª Edição, “Relatos de Milagres”, publicado em 5 de outubro de 1949.</em>

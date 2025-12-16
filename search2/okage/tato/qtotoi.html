@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A quem se confia uma vida preciosa: A maravilha da terapia pela fé de nossos ensinamentos</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 尊い生命を委すもの 本教信仰療法の素晴しさ 『救世』61号、昭和25(1950)年5月6日発行 兵庫県 天国大教会直心中教会 中川とし子（30） 入信日浅くして頂きました数々の御神徳の中から、その一つを謹しみて御報告申上げます。<br><br>本年に入りましてより長男（四歳）が悪質のぜん息にとりつかれ時には今にも呼吸が止まるのではないかと思わせられる程の激しさで御座いました。<br><br>その度毎に近所の医者に注射や薬を頂き、又母や私は湿布に夜も碌々寝もせず看病に子の親として苦しんでおりました。<br><br>ところが八月に入りましてより益々ぜん息の発作が激しくなりますので別の医者に診せましたところ蛔虫だと言われ強烈な虫下しを頂き、三回も飲ませましたが一匹も出ませんでした。<br><br>又別の医者に診せましたところ胸が悪いと言われ、ストレプトマイシンを注射しなければ治らぬとの言葉にて、どう致したものかと心配の余り子供を背負い大阪の大学病院で診察を受けましたところ今度は「胸の心配はありません、小児ぜん息です。<br><br>ぜん息を治す薬はありませんから」と咳止の薬を頂きました。<br><br> その頃の子供は立つ事も出来ず言葉もはっきり言わなくなり目には力なくただ小さき胸を激しく波打たしており、何だか育たないのではなかろうかという予感がして何とも言われぬ暗い気持になってしまいました。<br><br>私は何んと不幸者に生れたのでしょう。<br><br>二年前夫に死別し今又ただ一つの頼りにしているこの子迄も殺してしまうのかとの思いで、これから先き生きて行く望みすらなくし子供の弱りゆく姿を茫然と眺めておりました。<br><br>ところが計り知れない御慈悲の御救いの御手はさしのべられたのでしょう。<br><br>丁度九月の末頃近所の小西様が来られまして有難い光明如来様におすがり申してはと勧められ、藁をも掴む思いにて一緒に富田様のお宅に参りました。<br><br>そして早速御浄霊をして頂き、合間合間に有難い光明如来様のお話を伺い何ものか胸をつくものが御座いました。<br><br> 三日目頃より日が暮れますと子供は自分から「母ちゃんお参りしよう」と私の手を引張ります。<br><br>「まあこの子が」とただただ光明如来様の御慈悲に合掌しながら雨の日も風の日も通い続けました。<br><br>日に日に目に見えて達者になって行きます我子の姿、顔は紅潮し食欲は大人以上嬉々として近所の子供と遊び戯れる、これが最初御浄霊して頂きましてから僅か二週間の姿でしょうか。<br><br>医者よ薬よと走り廻っておった時の事を思いますとこれこそ神様の真の力でなくして出来るものでしょうか。<br><br>この感激この喜びを私ごとき者にも垂れさせ給う有難さ、世の子持つ母達にこの喜びをお分ち申し上げ又御救い出来ましたらとおすがり申し上げましたところ、お許しを頂き、十一月七日西宮教会にてこの世に比類なき有難きお守をお受けさせて頂きました。<br><br> 入信前に比べ現在の家庭内の明るさ一日一日を光明如来様への感謝の二字で暮らさせて頂いております。<br><br>拙い文ではございますがこの筆舌では尽されませぬ喜びを一人でも多くの人にお伝え申し上げます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A quem se confia uma vida preciosa: A maravilha da terapia pela fé de nossos ensinamentos</h2>
 <p>Toshiko Nakagawa (30 anos)
 Igreja Jikishin, ligada à Grande Igreja Tengoku – Província de Hyogo</p>
 <p>Embora meu tempo de fé seja breve, fui agraciada com inúmeras bênçãos divinas. Com a mais profunda reverência, gostaria de relatar uma delas.</p>

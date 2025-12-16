@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Cura da Tuberculose Desenganada (Da Coletânea Jikan, Primeiro Volume: 'A Tuberculose e a Terapia Divina' — Publicado em 25 de junho de 1949)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help ―― お か げ 話 ―― 資料検索 ： 諦めた肺病治る 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 福岡県 日本観音教 光宝会 畑瀬佐造（48） お観音様の有難いお光りによって、一命をお救い受けた御恩に対し、書かせて戴きます。<br><br> 私は福岡市の吉塚で紙芝居業をして一家十名を養わねばならぬ体でございましたが、昭和二十三年五月より胸を患い医者の診察を受け右肺浸潤だから、気胸療法をしたが良いと言われ二カ月間も苦しい気胸を十一回も致したのに拘わらず、呼吸は益々苦しく成るばかり。<br><br>食事は進まず、紙芝居どころか病院に通うのがやっとの事で一家の柱が倒れ生活は益々苦境に落ち死を待つばかりの状態をつづけ、妻は近所の稲荷さんにお願い致しましたところ信仰がたりないから六月頃までの命だと言い渡され一家の気持はいよいよ暗く、陰うつな日々を送っておりました。<br><br> ある日近所の方にお観音様の有難いお道を聞かされ、苦しい時の神頼みといった気持で行きました。<br><br>七月十二日から信じ切る事の出来ぬ気持のまま毎日通っていましたところ、紙を一枚一枚はぐようにだんだん気持が良くなり第一喜ぶべき事には今迄食事が進まなかったのが、一日一日おいしくなり、衰弱していた体が、だんだん力づき咳が出て来、痰や血痰等で一時は苦しかったが、御浄化の有難い事をくわしく渋田先生から御指導頂いていましたのでただただ有難い感謝の気持で耐え忍んで参り、御浄化の度毎に元気づき始めて暗い私の一家にも明るい光がさし始めました。<br><br> 八月二十五日には先生に励まされ、町角で子供達に迎えられ何の苦もなく紙芝居が出来ました。<br><br>この時の嬉しさを御察し下さい。<br><br>今年の一月一七日にはお守様をお受けする事が出来、渋田先生にお供して鳥栖町の光宝会本部に参り、木原先生から有難い御教えを戴き、益々元気に御浄化を戴きながら働けるように成りました。<br><br>何という不思議でしょう。<br><br>感謝せずにはいられません。<br><br>私は同病で苦しんでいる方に、一人でも多くこの有難い御道を御知らせして御恩報じの一端にもと存じます。<br><br>大先生様に深く深く御礼申上させて頂きます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Cura da Tuberculose Desenganada (Da Coletânea Jikan, Primeiro Volume: 'A Tuberculose e a Terapia Divina' — Publicado em 25 de junho de 1949)</h2>
 <p>Hatase Sazou (48 anos)
 Koho-kai, Nihon Kannon Kyo
 Província de Fukuoka</p>

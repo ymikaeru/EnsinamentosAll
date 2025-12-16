@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Pela Força Divina, a hérnia de minha filha foi curada</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 御力に子供の脱腸治る 『アメリカを救う』昭和28(1953)年1月1日発行 福岡県 光宝大教会 長野ユク子（26） 私は昭和二十三年七月子供の脱腸のため入信さして戴きました。<br><br>その後も数知れぬ御守護を戴き、毎日を幸福に暮さして戴いている者でございます。<br><br>長女ヒサエ（四歳）は生後四十五日目から脱腸が始りました。<br><br>はじめの中は痛みもなく別に気にも止めませんでしたが、泣く度に、力を入れますとだんだんと大きく出て来ます。<br><br>後には両方共出るようになりました。<br><br>驚いて医者に診せますと、「何としても赤ん坊の事とて手術も出来ず、適薬とてもなく脱腹帯より外に致方ない」との事でした。<br><br>これとて両方共同時に押えるものはなく、片方を押えれば別の片方が出るという工合で大変困っておりました。<br><br> どうしたものかと毎日思案にくれておりましたところ、ある人から、「瀬高に何の病気でも治して下さる神様があるから、ぜひ一度お詣りされては」と勧められ、瀬高の分教会にお参り致しました。<br><br>先生から色々とお話をお伺い致しまして、「脱腸でも治ります」との力強いお言葉でしたので、早速御守様を頂き、御浄霊をお願いすると共に自宅でも浄霊しておりましたが、痛みのないだけに、中々治りそうにも思えませんでした。<br><br> その内に光明如来様を御奉斎さして戴きましたところ、それからちょうど三カ月目には完全に治ってしまい、今ではどんなに力を入れても出るような事はありません。<br><br> その後お蔭様で子供は病気らしい病気もなく、生まれてから注射一本だけ、それも予防注射しただけで、外には薬をのんだ事も御座いません。<br><br>毎日元気一ぱいに遊んでおります。<br><br>ああ！ あの時にお救い戴いていなかったなら、今頃はどんなに苦しんでいた事だろうかと思えば、現在の幸福な身が有難くてたまりません。<br><br> 明主様有難う御座いました。<br><br>厚く御礼申し上げます。<br><br> （昭和二十六年八月十一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Pela Força Divina, a hérnia de minha filha foi curada</h2>
 <p><strong>Publicado na revista “A Salvação da América”, em 1º de janeiro de 1953</strong>
 <strong>Igreja Koho, Fukuoka</strong>
 <strong>Yukuko Nagano (26 anos)</strong></p>

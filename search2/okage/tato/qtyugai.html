@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Total Ausência de Pragas e a Maior Cota de Entrega da Vila</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 虫害皆無 超々過供出で村一番 イモチの被害に嘆く“有肥耕作者” 『栄光』198号、昭和28(1953)年3月4日 富山県 神明中教会 長井源二（31） 私は昭和二十三年五月入信させて戴き、その後身に余る御守護を賜わり、日夜感謝の日暮しをさせて戴いております。<br><br> 入信当時自然農法の御話しを拝聴いたしましたが、（二十三年は当地方は早場米地帯なるためすでに四月上旬苗代実施済）翌二十四年より、全耕地一町二反余りを自然栽培に切替えさせて頂き、その間数々の御守護を賜わり、特に昭和二十七年度は当地方の悪作にも拘らず平年作（反当約二石四斗）の収穫を得ましたことを、ここに御報告申し上げさせて戴きます。<br><br> 昨年は私共の区域は、県下でも最悪のイモチ被害をうけ、平年作の八割減ないし三割五分減（当局調査）の悲惨なる状況にて、供出どころか自家保有米すらこと欠く農民もありました。<br><br>一般は不作のため、当然供出の減額補正の止むなきに至り、従って農家経済難は益々増すばかりであります。<br><br> 御教えにより、自然栽培を実施いたした田は、殆んど被害はなく（但し例年よりシイナが多かった）村人達は立止って手に穂を持って見る人、私達にいろいろ聞く人、全く村の折紙付となり、注目の的になりました。<br><br> おかげ様で私達は早期に予想で昨年より控目に供出をいたしましたところ、村当局の割当以上となり、超過供出のその又超過供出七石余りという村一番の絶大なる成績を上げさせて戴きました。<br><br>明主様の御構想であらせらるる地上天国建設の万分の一なりとも御手伝いさせて載くと共に、入信者、未入信者の未だ実施なさっておられない方々に、現実に絶大なる実演を挙げました自然農法こそ、農村天国化の課題でもあり一大福音であることを声高らかに世の人達に切望してやみません。<br><br> 以上拙文ながら実績の一端を御報告申し上げます。<br><br> 明主様御守護有難うございました。<br><br> （昭和二十八年二月十三日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Total Ausência de Pragas e a Maior Cota de Entrega da Vila</h2>
 <p><strong>O Lamento dos Agricultores que Utilizam Fertilizantes Diante dos Prejuízos da Brusone</strong>
 <em>Revista Glória, nº 198, 4 de março de 1953</em></p>
 <p><strong>Província de Toyama, Igreja Shinmei Naka</strong>

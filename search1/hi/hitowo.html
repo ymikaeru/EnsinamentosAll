@@ -38,6 +38,12 @@
 </div>
 </form>
 <blockquote>
+
+
+
+
+
+
 <!-- LANGUAGE TOGGLE INJECTED start -->
 <div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
     <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
@@ -50,61 +56,38 @@
 
 <script>
 function toggleLang(lang) {
-    const ptContent = document.querySelector('.translated-content') || document.querySelector('blockquote');
-    const jpContent = document.getElementById('jp-content');
-    const btnPt = document.getElementById('btn-pt');
-    const btnJp = document.getElementById('btn-jp');
-
-    if (lang === 'jp') {
-        ptContent.style.display = 'none';
-        jpContent.style.display = 'block';
-        btnPt.style.background = '#ddd';
-        btnPt.style.color = '#333';
-        btnJp.style.background = '#4CAF50';
-        btnJp.style.color = 'white';
-    } else {
-        ptContent.style.display = 'block';
-        jpContent.style.display = 'none';
-        btnPt.style.background = '#4CAF50';
-        btnPt.style.color = 'white';
-        btnJp.style.background = '#ddd';
-        btnJp.style.color = '#333';
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
     }
-}
-</script>
-<!-- LANGUAGE TOGGLE INJECTED end -->
-
-<!-- LANGUAGE TOGGLE INJECTED start -->
-<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
-    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
-    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
-</div>
-
-<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
-    ―― 岡田自観師の論文集 ―― 御教え検索 ： help 資料検索 ： 人を裁く勿れ 『救世』157号、昭和27(1952)年5月21日発行 この事については、信者の中にも知らず識らず間違える人がよくあるからかいてみるが、これも以前私はかいたように思うが、今でも時々耳にするので再びかくのである。<br><br>よくアノ人は善いとか悪いとかの批判をしたり、酷いのになると、アノ人には邪神が憑いているから、気をつけろなどと言う人があるが、これこそ大変な間違いであって、人を邪神という人こそ、実は御自分に邪神が憑いているのである。<br><br>なぜなれば人間が人間に対して、善悪正邪など分かるものではない。<br><br>というのはこれこそ神様の領分に属するからである。<br><br>だからそういう人は人間の分際で神様の地位を侵しているようなものだから、とんでもない慢心脱線である。<br><br> 従ってこういう人こそ、邪神と見て間違いはないので、大いに注意すべきである。<br><br>もちろんそういう人は本当に神様を信じていないからで、よくあの人の信仰は間違っているとか、アノ教会のやり方は悪いから改革せねばならぬなどと、真面目臭って言うが、もし信者の中で本当に悪い人があるとすれば、神様はチャンと裁いて下さるから神様におまかせしていればいいので、少しも人間の心配など要らないのである。<br><br>それが信じられないとしたら、その人こそ神様よりも人間の力の方を信ずるのだから、これほどの慢心取違いはあるまい。<br><br>というように我メシヤ教は最高の神様が、一切統轄（とうかつ）なされているので、間違った人に対しては、神様は最初その人を覚らせるべくお気づけをされるが、それで覚らない時は命まで召上げられる事がよくある。<br><br>今までにもそういう例のあった事は、古い信者はよく知っているであろう。<br><br> 従って人を裁くなかれという格言をよく守ると共に、むしろ絶えず自分自身を裁いていればいいので、そういう人こそ本当に神様が分かっている人である。<br><br>
-</div>
-
-<script>
-function toggleLang(lang) {
-    const ptContent = document.querySelector('.translated-content') || document.querySelector('blockquote');
+    
     const jpContent = document.getElementById('jp-content');
     const btnPt = document.getElementById('btn-pt');
     const btnJp = document.getElementById('btn-jp');
 
+    if (!ptContent && !jpContent) return;
+
     if (lang === 'jp') {
-        ptContent.style.display = 'none';
-        jpContent.style.display = 'block';
-        btnPt.style.background = '#ddd';
-        btnPt.style.color = '#333';
-        btnJp.style.background = '#4CAF50';
-        btnJp.style.color = 'white';
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
     } else {
-        ptContent.style.display = 'block';
-        jpContent.style.display = 'none';
-        btnPt.style.background = '#4CAF50';
-        btnPt.style.color = 'white';
-        btnJp.style.background = '#ddd';
-        btnJp.style.color = '#333';
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
     }
 }
 </script>

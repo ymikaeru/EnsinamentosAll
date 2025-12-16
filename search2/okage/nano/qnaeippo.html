@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Colheita de 71 quilos de Batata-Doce a partir de uma Única Muda (Incluído na Coletânea ‘Comentários sobre a Agricultura Natural’)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 苗一本から十九貫の甘藷収穫 『栄光』141号、昭和27(1952)年1月30日 （革）自然農法解説に収録 新潟県 光陽中教会 今井芳美（51） 明主様日々の御守護有難く御礼申し上げさせていただきます。<br><br> 私は一家三人暮しの貧しい農夫でありますが、親類や近所の人の心からなる心配も他人の嘲笑もよそに、田も畑も二十五年度より全部自然農法に転換、今では全く無肥毒、美味の食生活に感謝の日々を送っております。<br><br>誠に有難うございます。<br><br>今回一抹作りの甘藷を栽培致しまして好成績をあげさせて頂きましたので御報告させていただきたいと存じます。<br><br> 自然農法一株作り甘藷 品種 農林一号 数量 三六〇箇、十九貫百匁 （有肥時代十七貫七百匁） 面積 四坪（自然二年目土地） 植込 昭和二十六年六月十五日 堀取 〃 十月三十日 この一株作りの方法としまして、先ず百匁位の藷を四月十日他の藷と一緒に温床へ伏せ込み、それから沢山の芽の内、一番丈夫そうなのを一本だけ残して他の芽は全部取除いてしまいます。<br><br> 残した一本の苗は特に大切に取り扱い、それから出た枝、又出て来る技を四方に拡げて育てる方法でありまして、既に苗のときに温床六尺四方を領しております。<br><br> 植込み畑は九尺四方を一尺位掘り下げ、落葉雑草の完熟堆肥を五貫目敷き込みます。<br><br>そのところへ三寸位に土をかけ、更にその上へ乾燥藁三貰を敷き並べ、最初掘り出してある土を細かく切り、全部盛りあげて周囲は低目に土を取りますから二尺位の盛り土ができます。<br><br>乾燥藁の上の土は八寸ないし一尺であります。<br><br> 出来上った盛土は周囲を低目に均らし、前記大苗の切り口を中心に置き、四方へ枝を配り、葉一枚一枚を丁寧に植えました。<br><br> 五日間は日中日除けを掛けて夕方取ってやりました。<br><br>その後管理は除草二回、蔓あげ五回浄霊は整地の時からも植えてからも度々行いました。<br><br> この方法は苗の作り方に手数がかかることと、広い面積で甘藷栽培を致しますには適しない不便がございますが、狭い土地で多量の収穫をあげることの利益がございます。<br><br> 以上御報告申し上げ謹みて御礼申し上げます。<br><br>明主様誠に有難うございました。<br><br> （昭和二十六年十二月十一日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Colheita de 71 quilos de Batata-Doce a partir de uma Única Muda (Incluído na Coletânea ‘Comentários sobre a Agricultura Natural’)</h2>
 <p><em>Publicado na revista Eikou, nº 141, em 30 de janeiro de 1952</em></p>
 <p>Yoshimi Imai (51 anos)
 Igreja Koyo Naka, Província de Niigata</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Salvação Milagrosa de um Choque em um Interruptor de Três Mil Volts</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 三千ボルトのスイッチで感電奇蹟にて無事 『栄光』175号、昭和27(1952)年9月24日発行 愛知県 神明中教会 高橋八郎（18） 明主様日々御守護戴き、謹んで御礼申し上げさせて戴きます。<br><br> 八月十日一時頃会社の電気室で、三千ボルトの全スイッチに手を触れた瞬間に感電し同時に意識不明となりましたが、不思議にも何等怪我も無く済まさして頂きました。<br><br>余りの事に明主様とただ一言、後は感泣致すばかりでございました。<br><br>一緒にいました同僚も、この不思議さには呆れるばかりでした。<br><br> 神様の絶対力なる事を身をもって体験させて戴きました。<br><br>何と御礼申し上げてよいか分りません。<br><br>拙筆ではございますが、御礼の御報告の一端にもと思い、世の人々に御伝えさせて戴きます。<br><br>明主様重ねて厚く御礼申し上げます。<br><br> （昭和二十七年八月十七日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Salvação Milagrosa de um Choque em um Interruptor de Três Mil Volts</h2>
 <p><em>Publicado na Revista Eikou, nº 175, em 24 de setembro de 1952.</em></p>
 <p><em>Takahashi Hachiro (18 anos)</em>
 <em>Igreja Shinmei-Naka, Província de Aichi</em></p>

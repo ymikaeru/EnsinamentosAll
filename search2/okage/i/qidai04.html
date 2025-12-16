@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Grandioso Poder Divino: Curvando-se diante da evidência</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 偉大なる神力 事実の前に兜を脱ぐ 『救世』56号、昭和25(1950)年4月1日発行 富山県 善栄中教会 山崎きよ（24） 医は仁術なり、医薬は絶対なり聖業なりと信じ、白衣の天使と言われるのにいい気になって看護婦として数年たずさわって来ました。<br><br> ところが昭和二十二年冬より母が中風にて病臥し、種々手当するも少しも快方に向わず、あまつさえ看護の疲れで私自身が肋膜炎を再発し、無理を続けるので病状は進行し母とともに日増しに衰弱して行くのみで御座居ました。<br><br>医療ではどうにもならない病気の事とて、施す術もなく出るのは愚痴ばかりで暗澹たる気持で明け暮れておりました矢先、浄霊の話を聞き早速母とともにお願い致しました。<br><br>日一日と元気恢復し、約二十日にてすっかり体力を取りもどし、とても元気溌剌たる健康体になり、早速お守りも授かりました。<br><br>母も日増しに丈夫になり、大体二カ月ですっかり元以上の頑健体になり大喜びで御座居ます。<br><br>いかに医学を信奉していた私もこの事実の前には兜をぬがざるを得ないのです。<br><br>そして医学の誤謬を知るにつけて慄然肌に粟を生ずる思いで御座居ます。<br><br> お蔭様で光明の生活に浸らせて頂けます。<br><br>幸多き日々を感謝し一層の御奉仕をと主人初め家族一同祈念しております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Grandioso Poder Divino: Curvando-se diante da evidência</h2>
 <p>Publicado na revista <em>Kyusei</em> nº 56, em 1º de abril de 1950
 Yamazaki Kiyo (24), Igreja Zenei Naka, Província de Toyama</p>
 <p>Sempre acreditei que a medicina fosse uma arte de benevolência, uma profissão sagrada e de valor absoluto. Envaidecida por ser chamada de “anjo de branco”, dediquei-me por vários anos à enfermagem.</p>

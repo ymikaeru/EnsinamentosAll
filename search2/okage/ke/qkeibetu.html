@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Cura em Meio ao Desdém – O Indubitável Poder de Deus</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 軽蔑していて治る 疑うべからざる神の力 『救世』56号、昭和25(1950)年4月1日発行 愛知県 神元中教会 中野安福（23） 年毎に増え行く体重のグラフを眺めながら、のび行く青春の血は燃え事変下の事とて想いは常に兵役の事に集中され甲種合格と晴れの入営とを望んでおりましたところ、忘れようとして忘れる事の出来ぬ八月十五日あの終戦の勅語を耳にした時の驚きは食道を進行しつつあった食物は急停止、張りつめた若人の血潮は逆流、前途は暗澹と恐怖に包まれてなすことを知らなかった。<br><br>ちようどその頃より胃を悪くしていた私は食事は人一倍進むに反して体重は増加どころか減退しているのに気付くようになりました。<br><br>何か腹中に障害物の我が者顔にいるように思われ、それに便秘が加わり憂うつな日が続くようになりました。<br><br>顔色も悪く仕事をしても身体が重く非常に疲れが早くて人並には出来ず欠勤する日が多くなってまいりました。<br><br>一昨年の春頃より一層悪化の速度を増して人の目からは私の動作は怠け者のごとく思われました。<br><br>家族の者も憂慮の色濃く、医者に行くように執拗に申しましたが、このようなグズグズした病気は医者だとてなかなか治るものではないと、気の向くままにあちらの仕事をちょっとこちらの仕事をちょっとやっては休みしているような状態で、人の溌剌とした働き振りを眺めては呪わしく我ながら情けなくなりました。<br><br>希望もなく死なばそれまでと半ば諦めておりました。<br><br>反面何か良い方法はないものかと心はあせるのですが、これといって良いところもなく意気消沈闇路を彷（さまよ）う私でした。<br><br> ある日尋ねて来た叔母様が私の様子を心配して光明如来様のお力によりいかなる病気でも治され、その上貧乏からも救われとても素晴らしい御利益がある事を色々とお話しをきかせて下さいましたが、光明如来様だ宗教だときいただけで何がそんな……治るものならとっくに医者に行っている、と考える余地もありませんでした。<br><br>その後家族の者も何か手当しなければと余り心配致しますので仕方なく半信半疑で、というより何が治るものかと思いながらも余り心配させてはと両親の気休めの為に一里位ある教会にて浄霊を受ける事となりました。<br><br> 林先生は浄霊に先立ち光明如来様に合掌何かおまいりしておられましたが、自分としては掌を合せる気もありませんでした。<br><br>先生の前に座りますと掌を振っているだけで何かからかわれているような気持で、こんな事なら小学校の子供でも出来ると可笑しくもありました。<br><br>全身に対して掌を振り終り色々と光明如来様の有難そうなお話も興味なく家に帰りましたが、治るのだといわれて見れば信じる事が出来ませんでしたが、心の片隅に治りたい一念は続けてお願いするようになり一週間位たった頃には先生のお話しされた一つ一つ思い当る節もあり、掌を振る時に出るという霊気らしいものを感じ始め教会に行くのが楽しみになり、これは一心におすがりする事によって救われるのだと自然にお詣りするようになりました。<br><br>顔色も出て来たといわれ、自分でも仕事が気持よく腹中の障害物も萎縮されたように軽くなり、便通も順調になり一カ月もたった頃には人並の仕事も出来るようになりました。<br><br> こんな簡単に掌を振るだけで病気が治るとすれば私もお光を戴きたくなり、先生にお願いして入信お守りをいただきました。<br><br>去年一月には光明如来様までお祀りして下され有難く尊いこのお光により私は健康を回復し、人の病を治す喜びは又格別、治された嬉しさの余りは恩の万分の一にも当りませんがお手伝いさせていただいております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Cura em Meio ao Desdém – O Indubitável Poder de Deus</h2>
 <p>Revista Kyusei, nº 56, publicada em 1º de abril de 1950
 Yasufuku Nakano (23), Igreja Jingen Chu, Província de Aichi</p>
 <p>Enquanto contemplava o gráfico de meu peso, que aumentava ano a ano, o sangue de minha juventude pulsava vigorosamente. Com o país em meio a um conflito, meus pensamentos se concentravam invariavelmente no serviço militar; almejava ser classificado como apto na categoria A e ter a honra de ingressar no exército. Foi então que, no inesquecível dia 15 de agosto, a surpresa ao ouvir o édito imperial que anunciava o fim da guerra foi avassaladora. O alimento que descia por meu esôfago estancou; o fervor que corria em minhas veias pareceu refluir. Meu futuro se viu subitamente envolto em trevas e pavor, e eu não sabia o que fazer.</p>

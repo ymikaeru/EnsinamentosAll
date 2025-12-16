@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Liberto de uma Calamidade Fatal</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 致命的災難を免る 『栄光』200号、昭和28(1953)年3月18日発行 岩手県 愛和中教会 高橋昌平（27） 明主様謹んで御守護の御報告申し上げます。<br><br>私は岩手県Ｈ温泉Ｔ変電所に勤務している者でございます。<br><br>昭和二十四年初めて尊き御道の御話を承り、入信さして頂きましてより御守護の下有難き数々の奇蹟を頂いておりまして、毎日感謝のその日その日を過さして戴いておりまして厚く御礼申し上げます。<br><br>その内特に大きい奇蹟を御報告申し上げさして頂きます。<br><br> 昭和二十五年十月稗貫郡鉛温泉に馬車で電柱を運搬しての帰り、馬は何を驚いたものか不意に駈け出し、馬車屋さんは止めるべく手段を尽くしましたが一向止らず、益々気違のごとくになり物凄い音をたてて道路の善し悪しも上り下りの境もなく危険極まる大スピードであばれるのでございました。<br><br>その内馬車屋さんは荷馬車の上より振り落され、その瞬間馬に蹴られ、私だけは危険を犯して荷馬車に堅く掴っておりますが余りの速さのために飛び降りる間もございません。<br><br>その内次第次第に身体は前方に進み、遂に左足を馬に蹴られました。<br><br>私はその瞬間明主様を念じてすべてを神様に御任せ致しました。<br><br>すると道路が百二十度位のカーブのところにさしかかり馬車の梶棒の鉤（かぎ）が双方一度にパッとはずれ馬は矢のごとくに駈けて行きましたが、荷馬車は速度が落ちて道路の岸にある桜の木に激突し、私は何回転したか知れませんが数間離れた畑中に放り飛ばされましたが、何らの受傷も負わず全く不思議でなりませんでした。<br><br>もしその時梶棒の鉤が片方がはずれたものならあの速度で荷馬車が転覆し当然生命が無かったものを、双方の鉤が同時に外れた事は実に神様の御守護に外ならず、この奇蹟にただただ手を合わせて感涙致しました。<br><br> 次に一昨年八月の事、勤務して居る営業所より一キロ位離れたところの精米所の動力が故障しているため電柱に登りました。<br><br>まず碍子型スイッチを抜いて見ますと、ヒューズが三個所切れておりました。<br><br>それで三台のトランス（変圧器）の中にいずれか焼きついていると思い、ヒューズを入れ二個の碍子型スイッチを入れ、もう一個を入れようと思いましたが万一の危険のある事を考え、身体の位置を移動し残りのその一個の碍子型スイッチを差込むや四ポールに張っている電線全部からアークが出て物凄い煙に取り囲まれ、下で見ている人夫達は私の身体は一向に見えぬし生命は駄目だと見たそうです。<br><br>この放電事故が変電所のメーターに現われ、直ちにスイッチを変電所で切りましたので間もなく付近一帯のアークが晴れました。<br><br>その時何ら生命に異常なく焼傷一つ負わず柱上に立っている私の姿を見て実に奇蹟中の奇蹟で、現場に居る人々も一同ただただ神様の厚い御守護に感涙致しました。<br><br>今後は御守護の下御道の御用に働かして頂き、御高恩の万分の一に酬ゆるべく努力さして頂き、御聖旨に沿い奉るべき覚悟でございます。<br><br> 明主様誠に有難うございました。<br><br> （昭和二十八年二月一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Liberto de uma Calamidade Fatal</h2>
 <p><em>Revista Eiko, nº 200, 18 de março de 1953</em>
 <em>Igreja Aiwa-Naka, Província de Iwate</em>
 <em>Takahashi Shohei (27 anos)</em></p>

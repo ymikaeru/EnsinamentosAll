@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Cura da Tuberculose Pulmonar e Prosperidade nos Negócios (A Terapia Revolucionária para a Tuberculose, 15 de agosto de 1951)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 肺結核治り商売繁昌する 『結核の革命的療法』昭和26(1951)年8月15日発行 愛知県 光栄中教会 坂下八重子（49） 私は一昨年十月中句、突然風邪に罹り半身神経痛になり、医師の診断の結果急性肺結核と宣告され、到底冬は越されぬだろうといわれた程の重態でありました。<br><br> 当時笠取町の渡辺先生から光明如来様におすがりすれば、どんな病気でも治して頂けるというお話や、又治った方々の様子を聞かして頂き、医者ではとても治る見込はないから、光明如来様に御すがりしようという母の言葉に従い、渡辺先生の御浄霊をお願いする事と致しました。<br><br>渡辺先生は一里ほどもある所を雨の日も寒風吹き荒れる中をも御いといなく、朝晩二回ずつ御出で下さいました。<br><br>その間いろいろとお指図を下さいましたが、ほとんど医師の説と反対でまごつきましたが、仰せの通りにしているうちに、流石の難病も薄紙をはぐように良くなって参りました。<br><br>体内の毒素が溶けて小便となり一日二十回も出たり、種々変った事がありました。<br><br> 医師でさえ治るまいと言われた私は、もう助かった喜びで一杯です。<br><br>嬉しくてたまらぬので充分動く事も出来ない身体で御守様を頂き、苦痛を押して近所を歩き、光明如来様の有難い事を御話し、ぼつぼつ御浄霊をして上げつつ一心に御すがりいたしました。<br><br>十二月末には起きられるようになり、知らぬ間に治ってしまいました。<br><br>昨年十月に光明如来様を御迎えさして頂き、一段と家の中が明るくなりました。<br><br>明主様に御面会をさせて頂くようになりましてから一そう身体が軽くなりました。<br><br> 発病当時を想起致しますと、暗黒地獄から引上げて頂いたような感が致します。<br><br>もしこのありがたい御浄霊を知らなかったら、先生の御導きがなかったらと考えると、肌に粟（あわえ）を生ずる思いであります。<br><br>又母は小やかな菓子店を出していますが、次々と御蔭を頂き、数軒ある同業者からもその繁昌ぶりをうらやまれています。<br><br> 重ね重ねの御利益に、及ばずながら懸命に御用をさせて頂いています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Cura da Tuberculose Pulmonar e Prosperidade nos Negócios (A Terapia Revolucionária para a Tuberculose, 15 de agosto de 1951)</h2>
 <p><strong>Província de Aichi, Igreja Kôei Central</strong>
 <strong>Sakashita Yaeko (49 anos)</strong></p>
 <p>Em meados de outubro do ano retrasado, fui acometida subitamente por um resfriado que evoluiu para uma neuralgia em metade do corpo. Após o diagnóstico médico, recebi a terrível notícia de que sofria de tuberculose pulmonar aguda. Meu estado era tão grave que me foi dito que eu provavelmente não sobreviveria ao inverno.</p>

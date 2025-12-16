@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Nem os ratos roeram a Sagrada Fotografia</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 鼠も御写真丈は噛まず 『栄光』233号、昭和28(1953)年11月4日発行 三重県 中京中教会 堀木勝三郎（58） 私は、去る一月二十五日に入信させて頂きました者でございます。<br><br> 入信直後の事でした秦愛子様より『栄光』新聞一八一号のＢ版（明主様御西下随行記掲載のもの）を頂きまして読まさせて頂き机の抽斗の中に入れて置きました。<br><br>ある日再読させて頂こうと思い抽斗をあけますとそのＢ版が見当らないのです。<br><br>どう致した事かと心配いたしよく調べて見ましたところ、Ｂ版は鼠の為にばらばらに噛み荒されておりました。<br><br>大いに驚き誠に申訳のない事を致したと恐縮に存じ良く調べて見ますと休憩室にての写真の一カ所即ち明主様の御写真だけがそのまま残っているではありませんか。<br><br>ヤア良かった、助かった、と安堵の胸を撫下し一息つきながらも、この出来事の不思議さに更に驚嘆致しました。<br><br>気持の落着くに従い、広大無辺計り知れぬ明主様の御霊徳に一入感激致しました。<br><br>この不思議を見せられました機会に乗じ、今後一層救世教の御為にお使いさせて頂きたいと思っております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Nem os ratos roeram a Sagrada Fotografia</h2>
 <p>Jornal Eikou, nº 233, publicado em 4 de novembro de 1953
 Horiki Katsusaburo (58 anos)
 Igreja Chukyo Central, Província de Mie</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Coletânea de Ensaios do Reverendo Okada Jikanshi — O Método de Cultivo sem Adubo</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： おかげ話 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 栃木県喜連川町 日本五六七教信愛会大武孝吉教導所報 本人 吉川利作（23） 教修 昭和二十一年二月 光明如来様奉斎 昨年三月 世に「為さざれば」と言う古人の金言がありますが、どんな良い事を知っていてもやらなければなんにもならないのと同じに観音様の御利益も行ってみて始めて大きな恵みに浴されるのです。<br><br>私ばかりでなく家族の者八名皆教修を頂きまして、身体は勿論作物にまで大きな御利益を頂いております。<br><br>他家の作物と比べると総て良く出来ていますが、その中で観音様のお恵みの一番目立ったものを皆様にお知らせすると共に感謝を述べさせて頂きます。<br><br> 苗代にまく籾種を冷す前に観音様にお供えして家中揃ってお祈りを済ませ一人一人順々に浄霊を致しました。<br><br>皆で頂く米が出来るんだから皆で浄霊したのです。<br><br> 無肥料栽培がよいと聞きましたので、一反歩だけ実行してみることになりました。<br><br>清い種は苗代での成績もよく、一家の期待をかけてすくすくと伸びています。<br><br>この田にかける水は山から滲み出る僅かな水でした。<br><br>それと隣りの田から落ちる水によって潤されていました。<br><br>所が今年は隣りでは意地悪くも一滴の水も落してくれません。<br><br>私の家でやる事に邪魔をするのです。<br><br> 広い田に一本ずつ植えた所は本当に心淋しいものでした。<br><br>皆が一生懸命水を廻そうとしてもない水はどうにもなりません。<br><br>無残にもこの稲は枯果ててしまうだろうか、朝夕観音様の礼拝の時、ひたすらこの田の御守護をお願いしていました。<br><br>一両日照り続くと干割れてしまうと言う時、不思議にもその都度降雨がありました。<br><br>実に観音様の垂れさせ給うた慈雨です。<br><br>山からもどんどん水が出ます。<br><br>他の田から落ちる水はなくともかえって余る程です。<br><br>本当に観音様は正しい者の味方です。<br><br>非難と迫害の下に一般者から注視された稲は不思議な力によって伸びました。<br><br>ただ一本の苗が今では最高四十八本、最低二十本、一本に二百八十から三百粒と言う素晴しい出来栄です。<br><br> 最初は非難していた人々もこの事実をみて覚めるようになりました。<br><br>強い茎から出た穂がそっくり揃って今年の秋を飾っています。<br><br>普通草取りの時に根本の土をかいて充分日光を入れ又それから浄霊をしました。<br><br> 無肥料をしかもこんな大きな恵みを頂いて本当に観音様は有難いと家中こぞって感謝しています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Coletânea de Ensaios do Reverendo Okada Jikanshi — O Método de Cultivo sem Adubo</h2>
 <p><strong>Publicado na 2ª Coletânea de Jikanshi, em 1º de julho de 1949</strong>
 <strong>Relato do Johrei Center Ootake Kokichi da Igreja Shin-aikai de Miroku, Japão</strong>
 <strong>Cidade de Kitsuregawa, Província de Tochigi</strong></p>

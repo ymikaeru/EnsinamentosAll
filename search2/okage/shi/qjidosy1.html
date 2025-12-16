@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Veículo Despenca e Ocupantes são Salvos Milagrosamente</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 自動車が転落奇跡的に助かる 『栄光』156号、昭和27(1952)年5月14日発行 長崎県 光宝大教会 田中 始（44） 昭和二十四年二月二十八日午前十時頃、佐世保市外浦頭復員局の検疫所が大火事だという急報に接し、おりから佐世保市内から疾走して来た消防自動車に便乗して火災現場に向いました。<br><br>自動車は時速八十キロ位の物凄い全速力で国道を南へとぶように走って行きました。<br><br>振りとばされないように車体にしがみついているのは大変でした。<br><br>すると突然前方に湖が現われ、路はそこで急カーブをして湖を半周していました。<br><br>運転手は慌ててハンドルを急に左に廻しましたが、あまりひどくハンドルをきり、自動車はアッという間もなく三間位の高さから下の畑に転落、私達六人はその下敷になったのであります。<br><br>「アッ、ヤラレタ」と思った瞬間、ちょうど転覆したその内側に乗っていたため、グイとあの重い自動車が私の胸と股の上にのしかかりました。<br><br>ところが不思議にも次の瞬間その自動車はグッと起き上り一回転したわけで全く奇蹟の奇蹟とでも言いたい位です。<br><br>しかもかような打撃にも胸はつぶれていないのであります。<br><br>しかし息がつけませんので、自動車によりかかりながら御浄霊さして頂きました。<br><br>申訳ございませんと光明如来様を念じつつ、やや暫くしてすーっと息が楽になり、次に足にお光を通させて頂くと立たなかった足が直ぐさま自由に動くようになりましたので、その重なる光明如来様の御守護の有難さに咽びつつ他の人の救助を手伝わして頂きました。<br><br>見ればぞっとするような崖から本当に一回転して落ちたとは思えぬ位他の人も無事であるのに再度驚き、心の中でお礼申し上げました。<br><br>普通なら死人続出、否私も即死していたに違いないところを、ただ私一人が光明如来様のお光を頂いていた許りに私はもとより、他の同乗者をもそのお蔭に浴す事が出来たのであります。<br><br>夢の中の出来事ではありません、私は現実に光明如来様の御力によって生命を頂いたのであります。<br><br>もしお光を頂いていなかったら私は四十四歳を最期に今頃あの世に行っていたのでありましょうに、考えれば考える程畏れ多い限りでございます。<br><br>厚く厚く御礼申し上げさして頂きます。<br><br> （昭和二十四年四月八日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Veículo Despenca e Ocupantes são Salvos Milagrosamente</h2>
 <p><em>Publicado na revista Eikô, nº 156, de 14 de maio de 1952</em></p>
 <p><strong>Igreja Koho de Nagasaki</strong>
 <strong>Tanaka Hajime (44 anos)</strong></p>

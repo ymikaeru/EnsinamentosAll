@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salva das Chamas Vorazes por meio do Johrei (Coletânea de Milagres da Sekai Kyusei Kyo, 10 de setembro de 1953)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 浄霊により猛火より救わる 『世界救世教奇蹟集』昭和28(1953)年9月10日発行 岐阜県 八光中教会 前田みさを（48） 私は二十一年八月入信、一昨年十月二十二日光明如来様の御神体を御奉斎させて戴いている者でございます。<br><br> 去る九月六日朝の事、東隣りの二階から出火、忽ち猛火が私方へと風に煽られて迫って来たのを発見、驚いてそれ火事だ火事だとばかり無我夢中で娘を促して東廂へ上りました。<br><br> 何のために廂（ひさし）に上ったか、その時の心持は自分にもわかりません。<br><br> 風は東から正面に、私の家へ容赦なく吹き付けて今にも焼け移りそうです。<br><br>吾々親子が一心に猛火に向って浄霊している自分自身の姿を、程経てそこに見出したとき、頭の先から、足の指先まで「ジーン」と、何物とも知れぬものが走り去りました。<br><br>アッ光明如来様だと、意識したとき、初めて少し落着きました。<br><br> 見れば、不思議と申しましょうか、奇蹟と言おうか。<br><br>風向き、その他から考えても当然家は助かろうはずは無いのに、どうでしょう、いつの間にどうして変ったものか、風の方向が西北にそれているではありませんか。<br><br>猛火はなおも猛り狂って、西北へ西北へと吹き付けて、救わるべき望みのなかった吾家が、完全に火災から免れたのでした。<br><br> この不思議この体験こそ如実に味わった私等でなくては、他の人々にはわからないと思います。<br><br> 一家正に灰塵に帰すべき寸前を、神様の御救いにより助かりました私達の喜びと感謝は、到底筆や言葉では表わす術もありません。<br><br> 世間一般の人達の中にはヤレお光様がどうの等と、未だ何も分らずただ悪口する者さえありますが、何と浅ましい事でしょう。<br><br>勿体ない事でしょう。<br><br>色々と出て来る新聞記事や、悪しざまに言う人々のある度毎に、耳をふさぎ眼を蔽いたい位です。<br><br> けれどもそれ等の人々もやがては目覚めて、光明如来様のみもとに帰依信仰なさる時期も、必ず目前に来る事を私は確信しております。<br><br>偉大なるこの御救いを厚く厚く明主様に感謝して、ここに拙い文をものして御報告申し上げます。<br><br> （昭和二十五年十一月一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salva das Chamas Vorazes por meio do Johrei (Coletânea de Milagres da Sekai Kyusei Kyo, 10 de setembro de 1953)</h2>
 <p>Misawo Maeda (48 anos)
 Igreja Hakko Naka, Província de Gifu</p>
 <p>Tornei-me membro em agosto de 1946 e, em 22 de outubro de 1948, tive a permissão de entronizar a Imagem Sagrada de Komyō Nyorai-sama (光明如来様) em meu lar.</p>

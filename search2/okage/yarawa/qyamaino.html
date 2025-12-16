@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Resgatada da solidão da doença</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 病の孤独より救はる 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 愛知県 日本五六七教会神光会 堀江まつ（36） 私は昭和二十二年一月三日妊娠六カ月の身重で右肺浸潤にて入院しました。<br><br>その後二カ月程一人で自炊しておりましたが、生命が危いと言われ人工流産を致しました。<br><br>その間、気胸療法を続けておりましたが、良いと言われて五カ月程で退院をしました。<br><br> その後もなお二カ月程通院しましたが右肋膜に水が溜り、一回水を抜取りましたが通院は止めまして家へ帰り月二、三回村の診療所の診察を受け、寝たり起きたり、自分だけ家族から離れて淋しい生活をしておりました。<br><br>ところが、本年五月頃近所の先生に浄霊をして戴く内に体が楽になりまして、ちょっとした事が出来るようになりましたので、五月十三日瀧先生から御守を夫と一緒にいただき浄霊を続けました。<br><br> 少しのお掃除も大変だった体が日に日に丈夫になり、七月の田植には家人と一緒に面白くやれました。<br><br>観音様の御利益とほんとうに嬉しく存じます。<br><br>有難うございました。<br><br>御礼申上げます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Resgatada da solidão da doença</h2>
 <p>Extraído do 1º volume da Coletânea Jikan, "A Tuberculose e a Terapia Espiritual Divina", publicado em 25 de junho de 1949.
 Horie Matsu (36 anos), Igreja Nihon Miroku, Johrei Center Shinko, Província de Aichi.</p>
 <p>No dia 3 de janeiro de 1947, encontrando-me no sexto mês de gestação, fui hospitalizada devido a uma infiltração no pulmão direito. Pelos dois meses subsequentes, provi meu próprio sustento em reclusão, até que, alertada sobre o risco iminente à minha vida, fui submetida a um aborto induzido. Nesse ínterim, prossegui com a terapia de pneumotórax e, transcorridos cinco meses, obtive alta hospitalar ao ser informada de que meu quadro havia melhorado.</p>

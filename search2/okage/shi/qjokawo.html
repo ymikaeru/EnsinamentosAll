@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salvo de uma Paralisia Geral Desenganada pela Medicina</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 浄化を知れ 医学で手のつかぬ全身麻痺救わる 『救世』64号、昭和25(1950)年5月27日発行 愛知県 五六七大教会神元中教会 片桐辨次（26） 昭和二十三年十一月某日仕事を終えて帰宅致しましたら何となしに足の踏ン張りに身体がこわく、痛いのかと思うとそうでもなく重々しい訳も判らない変な気持ですから明日の仕事（トラック運転）を予測して足でも不自由になったら大変だと感じ、懇意な医師のもとに行き症状を訴えて注射をしてもらい家に帰って床につきました。<br><br>翌朝妻に起されて目ざめ慌てて立上ろうとしてバッタリ倒れたままどうしても立上る事が出来ないのです。<br><br>別に痛みもなく何等身体に障りはないのにも拘わらず手も足もきかない。<br><br>暫時呆然としておりましたが知らず識らずの内に達磨になってしまってと不覚の涙がボロボロと頬に伝り落ちました。<br><br>それと察してベッタリ力抜けして座っている妻を怒って医師を迎え注射をして貰いましたが、何の手応えもなく三日間涙に暮れました。<br><br> 伝言を聞いて妻の母が驚いて夕刻とんで参り光明如来様の浄霊をと言ってくれましたが、自由の利かない身でありながらなおその気持を無視してただそんな迷信めいた事でと腹立たしさで一杯でしたが強引に母は一時間位手を振ってくれました。<br><br>その結果不思議に指先に感覚を得て少しだが動くようになりました。<br><br>それでも翌日医師を断る気にもなれず続けて注射を受けておりました。<br><br>母は大丈夫だから薬を止めよと言うのですが素直に聞けませんでした。<br><br>それでもわがままな私をいとわず根気よく翌日から朝夕浄霊を続けてくれました。<br><br>身体も少しずつ軽くなっていたが六日目医師のすすめで病状が判明しないため大学病院で血液検査をして来い、その結果が何よりの頼りと言われトラックに乗せられて名古屋に出向き検査を受け病状を尋ねましたら博士は頭をひねって小児麻痺と同様で手当はしっかりしなさい気長く土地の医者にみてもらいなさいとの言葉で帰って来ました。<br><br> その時に至って初めて母の真心の観音行を身にしみ判って来て自ずと頭を下げ、これ以外に救われる道はない、誠に申訳なかったとしっかりと光明如来様にお縋りする気持になり心から母を頼りました。<br><br>その夜から身体はグングン力がついて来て翌日からは部屋を這えるし、その翌日からは杖に縋って部屋を歩け、その翌朝からは手ばなしで歩け、午後からは何の故障もなく歩けるようになり、その翌日の発病十日目から車に乗れるようになりました。<br><br>母はその快癒の早いのに益々熱心に善言讃詞を奏げると共に一回一回楽しみに顔を綻ばして笑みつつ浄霊を続け、妻は喜びと尊い母の精進に両手を合せて伏し拝む程でした。<br><br>ああ偉なる哉妙智力、ただただああ有難しの一語につきます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salvo de uma Paralisia Geral Desenganada pela Medicina</h2>
 <p>Revista "A Salvação", nº 64, publicada em 27 de maio de 1950</p>
 <p>Benji Katagiri (26 anos)
 Igreja Kamimoto, da Grande Igreja Miroku, Província de Aichi</p>

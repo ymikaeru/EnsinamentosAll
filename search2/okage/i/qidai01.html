@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Extraordinária Graça Divina</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 偉大な御利益 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 愛媛県 日本五六七教白光会 中尾 同（27） 私は昭和二十二年七月にシベリアより復員致しましたが間もなく全身に浮腫が来ました。<br><br>そこですぐ松山赤十字病院にて診察を受けましたところ、脚気及び腎臓病と言われましてその手当をしておりました。<br><br> その中病気は全快しましたのに二十三年六月ごろより腹痛を度々感じ微熱も出ました。<br><br>その時村医にて診察を受けた結果、今度は腹膜と言われました。<br><br>そこで八月四日とうとう病床につきましたが、一カ月程で腹膜は快くなりました。<br><br>ところがどうしたことか、十月十一日より又も四十度からの熱が出まして、早速医師に診て頂きましたところ医師は肋膜になっているとの事、私は落胆の余り言葉も出ませんでした。<br><br> そうして二十日間程も四十度からの熱が続きましたので、食は益々すすまず、身体は「ミイラ」のようになり医師にも遂に見離されました。<br><br>そこで何とかして命だけはと思っている中、フト友人より観音様の有難いお話を聞き、直ぐ父が北條教導所の胡田先生にお願い致しました。<br><br>先生は早速来て下さいまして御浄霊をして頂きました。<br><br>それから先生は三日間程来て下さいましたが上京なさるため父が先生にお願いして有難いお光を受けさせて頂きました。<br><br> そして毎日一心に父が浄霊をしてくれましたところ、不思議にもお観音様の尊い御力によりまして熱は次第に下り、浮腫は取れ身体が非常に楽になり、長い病気も僅か十日程で病床を離れ、散歩の出来るようになりました。<br><br>その時の私は天にも昇る気持でした。<br><br>それからは食も進み日一日と身体は元気になり、先生が本部より御帰宅なされた時にはもう一人で自転車に乗って御礼に参りました。<br><br>先生も私が非常に元気になっているので吃驚する程で御座いました。<br><br>そして先生から色々とお話も聞きまして私は本当にお観音様の御利益は偉大なる事をつくづく悟りまして、それからは毎日お観音様に礼拝を致し、又二十四年一月には胡田先生に連れられて父と共に上京させて頂きました。<br><br>そして帰宅後何の疲れもなく毎日元気で楽しく暮しております。<br><br> 世の中の人よ早くこの有難いお観音様の光に浴し、早く病貧争をなくしていつも明るい立派な地上天国を作りましよう。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Extraordinária Graça Divina</h2>
 <p><strong>Coletânea de Jikan, Volume I: “Tuberculose e a Terapia Divina”</strong>
 Publicado em 25 de junho de 1949 (Showa 24)
 Nakao (27 anos)

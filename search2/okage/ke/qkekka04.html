@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Cura Súbita da Tuberculose e a Graça de Ter um Filho</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 結核忽ち治癒子宝まで授かる 『結核の革命的療法』昭和26(1951)年8月15日発行 『結核信仰療法』昭和27(1952)年12月1日発行 東京都 ハレルヤ〔宝生〕中教会 高宮洋子（31） 病気一つしたことのない私が、昭和十七年音楽学校卒業の喜びも束の間、医者より右肺炎カタル、左肋膜浸潤と言い渡され、失望落胆、一日も早く全快するようにと、三人の医者の言葉通り薬よ、注射よ、栄養をと言われる事は皆守り、安静にしながら一進一退の状態でじりじり衰弱し、二年後には医者も首をかしげるようになり、楽しい娘盛りも床の中で終ってしまうのかと、自分程の不幸な者はないと、呑気な性質もいがみきり、何も彼も悪い方にしか考えられずにいた時、この救世教をすすめられましたが「そんな迷信で」と、てんで馬鹿にして耳を傾けませんでした、が母が治してやりたい一心で「お守」を受けて参りました、それでもなお頑固に反対しつづけていましたが、暑さの折から身のおき所のない程の辛さに、試しにと浄霊をしてもらった所、非常に具合がいいので、半信半疑のまま玉川の中教会本部につれて行ってもらい、一週間もたたない間にすっかり元気になり、さすがに頑固な私も「お光」の絶対の有難さを信ぜざるを得なくなりました。<br><br>帝大で診察の結果、かかりつけの医学博士もびっくりする程の回復で、レントゲンの曇もすっかりなくなり、その後空襲、終戦後の多難な時も、人一倍元気で、どんどん買出しにも平気で行けるようになりました。<br><br>以来六年、家人知人と浄霊しては、その度に絶対の信仰は深まり、家中病気心配もなくなり、明るく朗かになって、これこそ明主様の御教えの通り、病貧争のない地上天国ともいうべき日々を送っています。<br><br>その後結婚して、医学では一時治っても御産は気をつけねばならず、絶えず再発の心配をしなければならない所なのに昨年少しの不安もなく、九百五十匁もある男の子を授かり、しかも三十過ぎての初産にもかかわらず、産婆の驚く程の安産で、その後病気一つせず、平均をはるかに上廻る発育ぶり、お誕生前の歩けそうな様子に皆びっくりしています。<br><br>これもひとえに光明如来様の有難い御守護のおかげと、深く深く感謝し、一人でも多くの人に、この御教御力を知って頂きたいと日夜念願しています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Cura Súbita da Tuberculose e a Graça de Ter um Filho</h2>
 <p>Publicado em "A Terapia Revolucionária da Tuberculose", 15 de agosto de 1951
 Publicado em "A Terapia da Fé para a Tuberculose", 1 de dezembro de 1952
 Yoko Takamiya (31 anos) - Igreja Haleluya [Hosho] Naka, Tóquio</p>

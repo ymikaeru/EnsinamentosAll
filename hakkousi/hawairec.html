@@ -12,7 +12,56 @@
 <font size="2">Por Publicação<br/>
 </font>
 </p>
-<blockquote><div class="translated-content"><p>Coleção de Teses do Mestre Okada Jikan
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ――― 岡 田 自 観 師 の 論 文 集 ―― 発行誌別 明主様御講話 （第一集） 明主様御講話レコード ハワイ教会落成式に 賜った御言葉 昭和 29(1954) 年 2 月 26 日 ＳＰ版 ハワイ教会落成式用に録音されたものの、式典には検閲のため間に合わなかったらしく、 原稿を樋口喜代子先生が代読された。<br><br>ハワイ通信（17）「栄光」253号より
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><p>Coleção de Teses do Mestre Okada Jikan
 Sermões de Meishu-Sama por Publicação (Volume 1)</p>
 <h2>Mensagem de Meishu-Sama em Registro Fonográfico: Palavras Concedidas na Solenidade de Inauguração da Igreja do Havaí</h2>
 <p>Esta mensagem foi registrada em um disco fonográfico do tipo SP no dia 26 de fevereiro de 1954, com o propósito de ser transmitida durante a solenidade de inauguração da Igreja do Havaí. Todavia, em virtude de trâmites de censura, a gravação, ao que tudo indica, não chegou a tempo para a cerimônia. Por essa razão, o manuscrito original foi lido na ocasião pela Reverenda Kiyoko Higuchi.</p>

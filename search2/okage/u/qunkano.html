@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Uma nuvem de cigarrinhas detida por uma única divisa</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 浮塵子の大群畦一重で止まる 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 岐阜県 日本五六七教聖光会 清水久子（32） 桜花もほころびはじめ次第に暖かき春の候と相成りました。<br><br>大先生早速御礼申上げねばなりません。<br><br>私達の心からなる喜びと感謝の程を御礼申上げます。<br><br> 顧みますれば昭和二十一年二月御光を戴きましてよりの数々の御守護を受け、日夜感激のうちに及ばずながら御手伝をさせて頂いております。<br><br>丁度昨年秋の出来事で御座います。<br><br>見事に出来た稲作に私達農民は秋の収穫を楽しみに秋祭りも終り、刈入の準備に取りかかっておりましたところが、新聞紙上に報道されましたように当地方にもめずらしい「浮塵子（うんか）」の大発生が参りました。<br><br>県当局地方事務所、役場、農業会等よりは大勢の御方が被害の調査やら注油駆除の御指導に毎日のように来られた。<br><br>近所の方は毎日毎日無数に殖え行く「浮塵子」の駆除に夜の目も寝ずにまるで村中戦争のような幾日かが続きました。<br><br> しかし皆様の御努力も余りの効果なく次から次へと拡がり大部分の田圃は枯死状態の哀れな姿に変って参りました。<br><br>点々と散らばってある家の田圃や会員の御家の稲田畦一重のところ迄おそって来ている「浮塵子」より免れる方法がどうしてありましょう。<br><br>「大先生にしっかり御縋りしていなさい」との高木先生の御言葉に大光明如来様の御前に幾度御祝詞をお上げいたした事でしよう。<br><br> 奇蹟と言いましょうか、四方の田圃は畳を敷いたように荒されて半作もむずかしいと困っていられるにもかかわらず、僅か一、二尺の畦一重にて一匹の「浮塵子」もはいらず見事に稔った稲穂は頭をたれはじめて参りました。<br><br>まるで刈入れはじめたころには餅のような状態に皆様も驚かれました。<br><br>昨年の収穫普通平均五俵弱位のところ私の家では七俵半程ずつ取らして戴きました。<br><br>勿論無肥料栽培で信者の皆様がやっておられたのです。<br><br>これ皆大先生の御守護の御蔭と会員一同涙ながらに喜び合っている次第で御座います。<br><br>丁度六十戸の村にて光明如来様を御迎えしている私達七戸が同一の御守護を戴き今年の麦作も無肥料耕作にて頑張っている次第でございます。<br><br>そして私ごとき者に大光明様迄戴きこの上もなき光栄と喜ぴ、今後も及ぶ限りの御手伝いをさせて頂く覚悟でございます。<br><br>信徒一同を代表してお礼申上げる次第でございます。<br><br>なお供出検査に当りましても会員の御家は全部一等米にて検査官も感心しておられました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Uma nuvem de cigarrinhas detida por uma única divisa</h2>
 <p><strong>Da Coletânea de Artigos do Mestre Okada Jikan – Série Jikan, Volume 2: “O Método da Agricultura sem Adubos”, publicado em 1º de julho de 1949</strong></p>
 <p><strong>Relato de Hisako Shimizu (32 anos), Igreja Seikokai, Província de Gifu</strong></p>
 <p>Com o desabrochar das flores de cerejeira, anunciando a chegada da primavera e de seus dias mais amenos, sinto o dever de expressar minha mais profunda e imediata gratidão a Meishu-Sama. Desejo transmitir-Lhe a imensa alegria e o reconhecimento que brotam do fundo de nossos corações.</p>

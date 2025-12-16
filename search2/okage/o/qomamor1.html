@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Dois anos após receber o Ohikari</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 御守様を戴いてからの二カ年 『栄光』222号、昭和28(1953)年8月19日 三重県 中京教会 橋本 霽（61） 又娘の長男嘉郎は二十六年の夏休みに当時小学校五年生でございましたが、私宅にて毎日御浄霊を戴かせておりますと、私の翳します手を見つめますので「何か見えるか」と申しますと「お祖父ちゃんの手から白いような、何とも言えぬ清々しい光が出る」と申しますので、寿之が色々と試してみますと壁や板等は勿論、鉛の板でも何等妨げにならず、透き通って進む事を確めました。<br><br>この御光は御神体からは、先が判らぬ程遠くまでも照されておりますそうで、御著書栄光新聞からも厚薄の度はありますが御光が出ておりますそうでございます。<br><br>昨年夏同人と同伴箱根日光殿に御参拝いたしました際、明主様が御出ましになられますと、御神殿中が金色の御光に充ちますとの事でございます。<br><br>又各人の霊衣も明らかに判るそうでございまして、信仰なき人のは実に貧弱なもので、御守様を戴いた人格者のは物凄いと申します。<br><br>かような現象も祖先の霊が明主様の御神格を知らしめんとの意図かと考えられます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Dois anos após receber o Ohikari</h2>
 <p><strong>Coletânea de artigos do Mestre Okada Jikan</strong>
 <strong>Publicado no Jornal Eiko, edição 222, de 19 de agosto de 1953</strong>
 <strong>Hashimoto Sei (61), Igreja Chukyo, Província de Mie</strong></p>

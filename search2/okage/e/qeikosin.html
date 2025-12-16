@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salvação da Tuberculose e a Conquista de um Lar Feliz (A Terapia da Fé na Tuberculose)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 栄光新聞拝読により結核救われ 楽しい家庭へ 『結核信仰療法』昭和27(1952)年12月1日発行 鹿児島県 光宝大教会 二見義信（31） 有川光子（39）さんは医師の診断の結果、結核の病名で絶対安静を命ぜられ、爾後は医師の言葉通りにしてただひたすら一日も早く全快するように努めておりましたが、一向に思うようにはかどらずあまつさえ胃まで弱り、悩み続けておられるところに、折よくも栄光新聞を間配り、その縁で教会にお詣りに来られました。<br><br> その話によりますと「主人は遠方の地で勤人生活、私達母子は郷里で療養生活、今は別れ別れの生活で、家庭的にも全く暗い寂しい思いで過しています。<br><br>情なさ残念さで胸一ぱいで御座います。<br><br>いっそのことと思う事もありましたが、主人の事、子供の事など考えますと何とかして早く治りたいと思い、マイシンを七十五本も注射致しました。<br><br>安静療法と栄養と色々やってみましたが、依然として何の好転もなく今日に到りました」と涙ながらの気の毒な有様でありました。<br><br> この上は光明如来様にお縋り致したいとて教修を戴かれ続いて毎日お詣りされるようになりました。<br><br>御浄霊に御神書にお縋りなされました。<br><br>日増しに健康を取戻し、洗濯物、炊事等も楽に出来るようになり、人生観は一変し、明日への希望に燃え、子供を伴れて、再び主人の勤務地に帰られ、楽しい家庭を復活されています。<br><br> こちらの娘さん（中学二年）も胸が痛いと申して、母親の病気が感染したのかと思い込み、学校では体操もせず遠足にも行かず心配しておられましたが母親の結果からみて、今では入信されバレーボールの選手として明朗な学生生活を送っています。<br><br> 誠に有難い極みで御座います。<br><br>御礼申し上げます。<br><br> （二十六年四月二十一日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salvação da Tuberculose e a Conquista de um Lar Feliz (A Terapia da Fé na Tuberculose)</h2>
 <p>Publicado em 1º de dezembro de 1952 (Showa 27)
 Província de Kagoshima, Igreja Koho
 Relato por Yoshinobu Futami, 31 anos</p>

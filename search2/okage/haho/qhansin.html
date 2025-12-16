@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Cura Completa da Doença em Meio à Incredulidade</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 半信半疑の内に病気全快 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 愛媛県 日本五六七教白光会 浜田時三（43） 私は昨年四月医者より肺浸潤の診察を受け十日程通院しておりましたが、その間肺病という恐しい言葉だけで落胆したのと、医者が「安静にせい」というので病院より帰るなり床につきましたが、昼寝るものですから夜は本当に寝れずあれやこれやと悪い事ばかり考えて十日程の間に一貫も痩せたように思いました。<br><br> 突然友人より御浄霊の話を聞き早速北條教導所の胡田先生にお願いしてお浄霊をして頂く事に成りました。<br><br>先生より色々とお光のお話もして頂き又他に大分この御浄霊によって全快している人があるけれども半信半疑の内に浄霊をしていただいておりました。<br><br>その内先生より散髪も入浴もしてよいと言われました。<br><br>けれどもこの病気ではと深い谷へでも落ちるような気がして入浴する気にもなれませんでした。<br><br>が、先生より二、三回も言われるので入浴もしてみたが何ともなく、散髪しても何の事もありません。<br><br>全く医者と養生の仕方が反対の事ばかりで初めの中は本当に致しませんでしたがお光もお受け致し光明如来様もお祀りするように成り次第に気分も落着いて来るし自分は浄霊により良く成るという自信が着いて来ました。<br><br> それから半年程浄霊をして頂きましたが全く以前の身体に成りました。<br><br>これ一重に観音様の御力とその偉大さに驚くと共に皆さんにこの道へお進めしている次第であります。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Cura Completa da Doença em Meio à Incredulidade</h2>
 <p>Tokizo Hamada (43 anos)
 Igreja Hakkokai da Nihon Miroku Kyo, Província de Ehime
 Extraído de: Coletânea Jikan, Volume 1, “A Tuberculose e a Terapia Divina”, publicado em 25 de junho de 1949.</p>

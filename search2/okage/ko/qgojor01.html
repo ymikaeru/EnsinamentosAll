@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salva da Tuberculose Infantil pelo Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 御浄霊にて小児結核より救わる 『結核信仰療法』昭和27(1952)年12月1日発行 東京都 光陽中教会 杉本澄枝（35） （二十六年四月八日提出） 今更思い出すさえも恐ろしい事でした。<br><br>昭和二十五年春から失業と病苦に追詰められ、生活苦のどん底にあえぐ最中、三歳になる双生児の女児が、急性肺炎と余病で五十日余りも苦しみぬいて、とうとうあの世とやらへ旅立ちました。<br><br>その悲しみもうせぬ中に、残る小児が変な様子なので、今度は死なしては大変だと近所の医師を敬遠して、都立の大病院にて院長先生の診断を受けましたところが、意外にも「小児結核で重態だ、絶対安静だ、外に方法はない」と言われ、死の宣告同様な気持でした。<br><br>でもストレプトマイシンの出始めた頃とて「この子にマイシンを注射してはいかがでしょうか」と伺いましたら「希望でしたら射ちもしますが、大体四十本位射たないと結果は判らない。<br><br>しかしその間でも生命の保証は出来かねる」との事で、幼い児の頭をなでて悲嘆の涙に暮れ、失職中の夫にも相談して前後の措置に当惑いたしておりましたところ、はからずも七月のある日、富士見支部の斎藤先生に御浄霊を頂く機縁に恵まれまして、毎日二回ずつ熱心な御浄霊を頂き、約一週間位で流石の高熱も平常に復しまして、キャンデーを欲しがるようになり、食欲も付きました。<br><br>十日目位よりは遊びに出たがる様子で、全くの元気を取戻しました。<br><br>初めの中はあんなに手を翳すだけで病気がなおるのか、殊に小児結核の重態が？……その中に益々元気になり、三十日目頃には近所の小児と無邪気にケンカをする迄になりました。<br><br>やっと助かったとの確信を得ました。<br><br>それにつけても「手を翳すだけの御浄霊で、この重病が治る程の御利益があるのでしたら何事でも御守護が頂けるものでしょうか」と伺いましたら「神様は正しい御願いなら叶えて下さる」との事に、余り欲深い事とは思いましたが、夫の就職を支部にお詣りする毎にお願いいたしましたところ、かねて希望していた職場に就職する事が出来まして、長男も夫の職場に就職するようになり、御守護の広大無辺なるのに驚きまして、同年八月入信させて頂き、ただ今は夫婦揃って感謝と幸福の生活に入りました。<br><br>それにつけても罪多き私達が、お救の手に救われた御慈悲を胸底にて感泣しながら、入信後日浅き身をもって毎日お道のために悩める方々のために懸命の努力を捧げております。<br><br>病児の命拾いのみならず、就職の喜び、この大いなる御守護有難う御座いました。<br><br> 明主様有難う御座いました。<br><br> （二十六年九月二十一日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salva da Tuberculose Infantil pelo Johrei</h2>
 <p>Publicado em “Terapia da Fé para a Tuberculose” em 1º de dezembro de 1952
 Tóquio, Igreja Koyo-Naka, Sumie Sugimoto (35 anos)</p>
 <p>A simples lembrança desses acontecimentos ainda me causa pavor. A partir da primavera de 1950, fomos encurralados pelo desemprego e pelo sofrimento de uma enfermidade, mergulhados no mais profundo abismo das dificuldades da vida. Em meio a essa provação, uma de minhas filhas gêmeas, com apenas três anos de idade, após mais de cinquenta dias de agonia por uma pneumonia aguda e suas complicações, partiu para o outro mundo.</p>

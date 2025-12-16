@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Eu, que duvidava, fui banhada pela Luz Divina</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 疑った私がお光に浴して 『結核の革命的療法』昭和26(1951)年8月15日発行 岡山県 専信中教会 松原絹子（25） 私は十八歳の春より肺門淋巴腺、肋膜の相当重いのに三年間苦しみました。<br><br>あれこれと手を尽しやっと元気になって来た所、一昨年八月に再発致し、微熱と胸の痛みにぶらついており、その時丁度母が腹痛のため床についていました。<br><br>祖先の御引合せとも申しましょうか、お盆の十五日に姉より救世教の事を聞き、早速母はお詣りし御浄霊を受けましたところ、とても気持がよいとの事、私も翌日より当時大垣よりお越し下さっておられた林先生に二、三回御浄霊をして頂いていますと、十八日浅野先生の御講話がありましてお話を承わっていると、急にお守をお受けしたい気持になり、早速母と私二人頂きました。<br><br>その後いつの間にか病気を忘れてしまいました。<br><br> それから間もなく光明如来様、大光明如来様をお祭さして頂きました。<br><br>このように家内一同すっかり救世教の道へ入れて頂き、勿体ない御利益に日々を包まれながらも、邪神にややもすれば引込まれそうになり、納得の出来ない事が次々に出てくるのです。<br><br>でも諸先生の御話を伺っては、思いなおし思いなおししていました。<br><br>本当に自分ながら強情な心に日夜なやみました。<br><br>すると先月突然激しい全身浄化を頂き、二月間というものは頭は破れそうな激痛を覚え、背は痛み一足歩くにも響き、腰は抜けるように痛み、本当に筆舌に尽し難い浄化でございました。<br><br>でも御浄霊を絶えずして戴き三日目より少しずつ良くなり、一週間目頃にはすっかりよくなりました。<br><br> この浄化を頂きましてより、とても頭が軽く顔の色もよくなり、体が楽で一里の山道を登るにも本当に嘘のように軽くなりました。<br><br>今迄心から信じられなかった疑いもいつしか解け、お光が差込んでまいりました。<br><br>人々の恐れている病気が信仰の道に入れて頂く事によって有難き浄化に変り、浄化は御浄霊によって楽にして頂く事は、どの位の罪穢の体を浄めて頂けるかということをはっきりと悟らしていただきました。<br><br>この大きな喜び、大安心なそして嬉々として生活の出来る境地に、悶え苦しむ人々を一人でも多くお導きさして頂こうと思い、及ばずながらお手伝いさして頂いています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Eu, que duvidava, fui banhada pela Luz Divina</h2>
 <p>Publicado em 'A Terapia Revolucionária da Tuberculose' em 15 de agosto de 1951
 Matsubara Kinuko (25 anos), Igreja Senshinchu, Província de Okayama</p>
 <p>Desde a primavera de meus dezoito anos, padeci durante três anos de uma grave afecção dos gânglios linfáticos do hilo pulmonar e da pleura. Após esgotar todos os recursos terapêuticos, quando enfim começava a recuperar minha saúde, a doença manifestou-se novamente em agosto do ano retrasado, deixando-me com febre baixa e dores no peito. Coincidentemente, nessa mesma época, minha mãe encontrava-se acamada, acometida por fortes dores abdominais.</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Sobre a Intoxicação Causada pelos Adubos</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 肥毒につきまして 『地上天国』2号、昭和24(1949)年3月1日発行 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 石川県 日本五六七教金輪会 朝倉節子（39） これは石川県石川郡加賀平野の中央に位置しております農家の信者の告白でございます。<br><br> 今年は急に肥毒が自立って参りました由にて、麦馬鈴薯共に化学肥料の害を表わし、馬鈴薯は永年の肥毒の関係か収穫予定期より、一週間余りも早く茎部から枯れ出し詮方なく掘りました。<br><br>芋は極めて腐り易く貯蔵のきかないものが多く、従って味も余り良くなかった由でございます。<br><br> 麦稲作共に当地は盛んに化学肥料を用いた土地でございます。<br><br>現在は戦時中から高価のため幾分少なくなっておりますが、従来通りに金肥を用いました稲作は草丈はあり、青々として青田の時は非常に豊作を思わせますが、いよいよ収穫期に入りますと草が非常に軟弱のため少しの風雨にも倒れてしまい、倒れないのは葉ばかり、のこり穂は至って小さく加うるに籾殻が厚く、実収穫は予想を裏切ったと申しています。<br><br> お話は別で御座居ますが私の隣り村に石川県の農事試験所が御座いますが、随分広い土地が費されております。<br><br>稲作麦作はもとより大抵の農作物は栽培研究されております。<br><br>広大な土地と莫大な人の労力と肥料の研究に全力を傾けているように見受けます。<br><br>何々肥料何割何日施与と細かく書いて立札が立てられてあります。<br><br> 多数の県民の研究に来るのは申すまでもありませんが、作物はいずれも片輪ものあり貧弱なるあり、豊な稔りはみられません。<br><br>本教団信者は今年のこの著しい肥毒の恐ろしさをまざまざ見せられて、言葉なしと申しています。<br><br>はっきり表われて初めてそれと知る事の愚さをつくづく話しております。<br><br>そして来年からは豊かな穣りを戴く準備を致しましょうと異口同音に申しております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Sobre a Intoxicação Causada pelos Adubos</h2>
 <p>Publicado na edição nº 2 da coletânea "Paraíso Terrestre", em 1º de março de 1949.
 Publicado na segunda parte da "Coletânea Jikan", intitulada "O Método de Cultivo sem Adubos", em 1º de julho de 1949.</p>
 <p>Setsuko Asakura (39 anos)

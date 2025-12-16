@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Transpondo a Fronteira da Morte</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 死線を越えて 『地上天国』1号、昭和23(1948)年12月1日発行 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 三重県 五六七教 松本君子 女学校五年の春。<br><br>楽しみに溢れていた私は結核という世に恐れられている病に取りつかれてしまいました。<br><br>それから八カ月お医者さんには、お正月迄に熱が下らなかったら、菜種の花咲く頃は棺桶に足を突込まなければなりません、と宣告されたのです。<br><br> 私の身体は五分と同じように寝ていると、下になっている方はしびれだし地の底に引張られて行かれるようになり身体は重く、熱は九度八分を下る事なくいつも頭から湯気が立ちのぼり、通じは半月なく動く事の出来ぬ身体になってしまいました。<br><br> その上考えることはいつも死についての連想ばかりで寂しい辛い一日一日を過していた私に何という有難い御恵みなのでしょう。<br><br>叔母が観音教団の教修を受けその浄霊によって二十数年の病弱な身体をよくしていただいた事を聞き、十二月二十三日、初回の浄霊をしていただきました。<br><br>その一回により通じはつき寒気もなくなり、寝ていても身体が天井にういてしまうような気がしてならず、寝巻を引張って寝ていた位に身体は一度に軽くなりました。<br><br> それよりずっと浄霊を続けて今では、死に近づいたものとは思われないように恢復させて頂きました。<br><br> この偉大な観音教団（五六七教会）のお仕事をお手伝いさせていただき、御利益の万分の一でも酬わせていただきたいと思っております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Transpondo a Fronteira da Morte</h2>
 <p><em>Publicado na revista “Paraíso Terrestre” nº 1, em 1º de dezembro de 1948.</em>
 <em>Publicado na Coletânea Jikan, vol. 1, “A Tuberculose e a Terapia Divina”, em 25 de junho de 1949.</em></p>
 <p><strong>Matsumoto Kimiko</strong>

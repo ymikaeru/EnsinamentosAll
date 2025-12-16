@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Uma bardana com mais de um metro e vinte</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 四尺以上のごぼう 『地上天国』3号、昭和24(1949)年4月20日発行 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 岐阜県 日本五六七教専信会 大曽根一生（46） 無肥料野菜の成果を御報告致します。<br><br> 牛蒡の種子に浄霊致し堆肥のみを畑に入れ耕作致し播種致しました。<br><br>草取二、三回、畑に浄霊を行ったのみです。<br><br>この度掘取ろうと致しましたが、掘れども掘れども中々抜けません。<br><br>他家の畠では一尺も掘れば抜けるのに三尺掘っても仲々抜けません。<br><br>家の息子が「観音様は誠に有難いがこんなに骨が折れてはかなわぬ」と弱音を言い出す仕末です。<br><br>そして抜いてみたらなんと長さ四尺以上もあり目方七百匁以上もあり太い牛蒡なら大抵「ス」が入っているのが当然ですが切ってみて驚きました。<br><br>切っても切っても「ス」が入っていません。<br><br> これも観音様のお蔭と深く感謝し家内中なおなお手伝いの足らざる事をお詫び致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Uma bardana com mais de um metro e vinte</h2>
 <p>Issei Oosone (46 anos)
 Associação de Devotos da Igreja Izunome, Província de Gifu</p>
 <p>Venho por meio desta relatar os resultados obtidos com o cultivo de hortaliças pelo método da Agricultura Natural.</p>

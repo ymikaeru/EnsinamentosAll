@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A grave enfermidade de minha filha e a minha, ambas curadas pelo Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 娘と私の難病 何れも御浄霊で治る 『救世』59号、昭和25(1950)年4月22日発行 兵庫県 天国大教会直心中教会 宮崎よし子（59） 私の娘は下腹部のしこりを医者に見せましたところ、子宮筋腫の為手術をしなければいけないといわれました。<br><br>しかし衰弱のため手術には耐えられそうもなく他の方法を探し求めていましたが、知人から御浄霊の御力を教えられ、お受け致しましたところ、十日余りの後には血が下り始め五日間続きました。<br><br>その後半月程して、前よりも多く出血が一週間続きました。<br><br>それからはしこりは無くなり、余りにも簡単に治りましたので有難いと言うよりも不思議な気持になってしまいました。<br><br> また私は胆石病で年に二回は七転八倒の苦しみを致します。<br><br>手術すべき子宮筋腫がかくも簡単に楽に治ったのを見て受教することとなりました、その第三日目のことでございます。<br><br>何の刺戟もなく鼻血が出始めました。<br><br>御浄霊を受けますと、益々出血が激しくなって参ります。<br><br>とうとう塵紙では処置し切れなくなり、洗面器で受けていましたが、益々ひどくなるばかりでした。<br><br>しかし気分は少しも悪くなく、頭がすっとして参りました。<br><br>数時間後やっと出血が止まりました。<br><br>ところが間もなく胸がむかつき始め、吐気を催し、一度にどっと黒赤色の毒血を洗面器に半分位吐きました。<br><br>しかし気分は急に良くなり顔色が良くなって参りました。<br><br> ああ！ この毒血が私の体に災して、痛みの原因である事に気付き、有難い御力を身を以て体験させて頂きました。<br><br>その晩は集会所に泊めて頂き翌朝帰宅して、畑仕事を一日元気ですることが出来ました。<br><br> この喜びに満ちた感謝と感激を御報告申し上げ御礼を述べさせて頂きます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A grave enfermidade de minha filha e a minha, ambas curadas pelo Johrei</h2>
 <p>Publicado na revista 'A Salvação', edição nº 59, de 22 de abril de 1950
 Miyazaki Yoshiko (59 anos), Igreja Tyushin, vinculada à Grande Igreja Tengoku – Hyogo</p>
 <p>Minha filha, ao consultar um médico a respeito de um nódulo no baixo-ventre, foi diagnosticada com um mioma uterino e informada de que a cirurgia seria inevitável. Contudo, seu estado de debilidade era tal que ela dificilmente suportaria a intervenção cirúrgica. Em meio à nossa busca por alternativas, um conhecido falou-nos sobre o poder do Johrei. Decidimos, então, recebê-lo. Transcorridos pouco mais de dez dias, ela começou a ter um sangramento que perdurou por cinco dias. Cerca de meio mês depois, ocorreu um novo sangramento, desta vez mais intenso e com a duração de uma semana. Após esse processo, o nódulo desapareceu por completo. A cura foi tão surpreendentemente simples que, mais do que gratidão, o que sentimos foi um profundo assombro.</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salvo de um Câncer Retal</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 直腸癌より救われて 『アメリカを救う』昭和28(1953)年1月1日発行 東京都 長生中教会 豊田政五（58） 明主様大いなる御守護を戴き謹んで御礼申し上げますと共に、先頃娘の病気も治癒させて頂き、又私も癌という恐しい病魔に侵され、罪多き私も御光に浴す事が出来、救われました事を御報告させて頂きます。<br><br> 去る七月医師より直腸癌との診断を下された時の家族の驚き、まだまだ自分自身でしなければならぬ仕事が残されている現在、死に直面しながらそれを感じる事は無理でありました。<br><br>医師の言には「この癌は手後れだから手術しても三カ月しか生命は請合えない」との事、それまでは申訳ない事ですが、娘が救われているのを見ておりながらメシヤ教の真の救いのお力というものが分らず、親族会議に又他の病院にと迷っておりましたが、家内と娘の余りの奨めに、「私も御浄霊をお願い致したい」と話したのが動機でこのような御守護を頂けるとは、ただただ感謝の言葉あるのみで御座います。<br><br> このように何不自由なく外の経営にたずさわれるようになりました気持は、筆や言葉では良い表現が出来ませんがただ思いのまま書かせて頂きました。<br><br>御讃歌に 盲ほど 儚きものは世にあらじ 近処の宝知る由もなく の明主様のお歌のごとくこのように心配もなくお救い頂けるのに、なんと回りくどい話ではなかったでしょうか. 現在では近所の人もびっくりする位元気にさせて頂き軽労も出来るようになりました。<br><br>今後は私の戴いた大いなる幸を他の病に悩める方々にお知らせして、共々に喜びを分ち合いたいと思います。<br><br> 明主様御守護の程有難う御座いました。<br><br>謹みて御礼申し上げます。<br><br> （昭和二十六年十二月十一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salvo de um Câncer Retal</h2>
 <p><strong>Publicado em "Salvando a América", 1º de janeiro de 1953</strong>
 <strong>Toyoda Masago (58 anos) - Igreja Choseinaka, Tóquio</strong></p>
 <p>Desejo expressar minha mais profunda e reverente gratidão a Meishu-Sama pela imensa proteção que recebi. Venho, por meio deste relato, registrar que, assim como minha filha foi recentemente curada de sua enfermidade, também eu, um homem de muitos pecados, fui salvo ao ser banhado por Sua Luz Divina, livrando-me do terrível mal do câncer que me acometeu.</p>
