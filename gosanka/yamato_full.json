@@ -16,6 +16,16 @@
             "title_jp": "春すぎぬ",
             "poems": [
                 {
+                    "number": 1,
+                    "title": "Chuva e Musgo",
+                    "original": "雨はれて　露もしとどの篁の　下かげ青く苔の花咲く",
+                    "reading": "*Ame harete / tsuyu mo shitodo no / takamura no / shitakage aoku / koke no hana saku*",
+                    "translation": "A chuva cessou. No bambuzal ainda denso de orvalho, Sob a sombra fresca e úmida, O musgo floresce em verde profundo.",
+                    "kigo": "O poema situa-se na fronteira entre a primavera e o verão. A umidade descrita (*shitodo* - encharcado) sugere a aproximação da estação das chuvas (*Tsuyu*). É uma atmosfera de frescor, onde o ar é pesado de água, mas límpido.",
+                    "kototama": "O ritmo é marcado pela suavidade das sílabas. *Tsuyu* (orvalho) e *Takamura* (bambuzal) trazem sons de \"T\" e \"S\", evocando o silêncio e o gotejar da água. O final *Saku* (floresce) é breve, como um pequeno ponto de vida surgindo.",
+                    "deepening": "Meishu-Sama ensina a encontrar Deus onde ninguém olha: na sombra, no chão, no musgo. O musgo não precisa de sol direto; ele prospera na humildade da sombra, nutrido pela água do céu. É uma lição sobre como a Graça Divina alcança até os lugares mais recônditos e humildes da existência."
+                },
+                {
                     "number": 2,
                     "title": "A Rã e a Chuva",
                     "original": "青あおし　ばしょうのひろはにあおがえる　さゆるぎもせであめにぬれおり",
