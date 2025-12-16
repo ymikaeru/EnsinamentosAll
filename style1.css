@@ -156,3 +156,39 @@ P.honbun {
     background-color: #BDC3C7;
     border-radius: 4px;
 }
+
+/* ============================================
+   Hide Legacy Search Forms Globally
+   ============================================ */
+form[action*="msearch.cgi"] {
+    display: none !important;
+}
+
+/* Hide help links associated with search */
+a[href*="msearch.cgi"] {
+    display: none !important;
+}
+
+/* ============================================
+   Period Headers Styling (昭和２４年 etc.)
+   ============================================ */
+p>font[size="4"]>strong,
+p>font[size="4"] strong,
+body>p>font[size="4"] {
+    display: block;
+    background: linear-gradient(135deg, #34495E 0%, #2C3E50 100%);
+    color: #FFFFFF !important;
+    padding: 12px 20px;
+    margin: 20px 0 15px 0;
+    border-radius: 6px;
+    font-size: 1.1rem !important;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 8px rgba(52, 73, 94, 0.2);
+}
+
+/* Style the parent <p> to remove default margins */
+p:has(> font[size="4"] > strong) {
+    margin: 0;
+    padding: 0;
+}
