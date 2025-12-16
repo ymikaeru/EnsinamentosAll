@@ -13,7 +13,56 @@
 <font size="2"><br/>
 </font>
 </p>
-<blockquote><div class="translated-content"><h2>Coleção de Ensaios do Reverendo Okada Jikan: Materiais de Referência e Imagens Adicionais</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ――― 岡 田 自 観 師 の 論 文 集 ―― 参考資料 その他の画像 洋装の明主様 額装、ガラスなし 実寸 37×25.5ｃｍ B4サイズ 額寸 60 × 48ｃｍ 実家の天袋におしまいしてありました。<br><br> 昭和16年位の撮影のようです。<br><br> 拡大画像 御霊紙 いつ戴いたものか分かりません。<br><br> 御昇天後から晴明教時代は、特別な浄化の際以外は御霊紙を出していないとのことですので、御在世中のものかと思われますが、定かではありません。<br><br> 開いたところ 見た目はただの和紙です。<br><br> （当たり前ですが） 御神体 光明如来御書 二体 表装前 御下付時の状態 一旦お願いをされて何らかの事情から御奉斎できずお預かりされていたもの 御書『必勝』 未表装 戦時中祖父が御下付戴いたもの 祖父は戦争に関連する言葉（ご神意はそうではないのだが）嫌いだったらしく、『敵滅』と共に未表装のまま残された。<br><br> 『敵滅』はお世話になった知人に譲渡した。<br><br> お守り様 父が拝受した「浄力」と当時の金襴の袋。<br><br> 「光明」、「浄」は表装して扁額に。<br><br> 手書きの祝詞 天津祝詞、神言祝詞、善言讃詞が書かれている。<br><br> 私の祖母の手書きとのことだが、 詳しいことは不明。<br><br> 推定 昭和１０年代後半か 神言祝詞から天津祝詞。<br><br> 裏面には善言讃詞が書かれている。<br><br> 命名の証書？ 明主様より祖父が命名戴いた時のものらしい。<br><br> 命名年月日不明。<br><br>推定昭和２０年代前半、日本観音教団から救世（メシヤ）教への転換期か。<br><br> 「自観命名」の後に名前。<br><br>姓には一応モザイクかけてます（笑） 印は「天照地明」。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Coleção de Ensaios do Reverendo Okada Jikan: Materiais de Referência e Imagens Adicionais</h2>
 <p><strong>Retrato de Meishu-Sama em trajes ocidentais</strong></p>
 <p>A obra encontra-se emoldurada, sem a proteção de vidro. Suas dimensões são de 37 x 25,5 cm (formato B4), com a moldura medindo 60 x 48 cm. A fotografia esteve guardada no compartimento superior de um armário na casa de meus familiares e sua datação aponta para o ano de 1941.</p>
 <p><strong>Papel Sagrado</strong></p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Mais de Três To no Polimento do Trigo: O Ganho Triplo do Aumento da Colheita sem Adubo</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 麦の精白三斗余 無肥で増収一石三鳥の儲け 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 岐阜県 日本五六七教百光会 岩田義行（42） 光新聞第三号に「農業の大革命清潔で心から楽しめる家庭菜園の無肥料栽培」の御指導を頂き全く御指導通り実行の上の御利益であります。<br><br>私は以前は当地方ではかなりの小作百姓でしたが追々作付面積も減らし今では一反歩足らずの水田と畑少しばかりの無肥試作をしている程度です。<br><br>三年の稲作二年の裏作（麦）を続けて参りました。<br><br>無肥は増収すると申されましたが第一年目は自分の霊魂の浄まり方が足りないため、量は平年に変りませんでしたがお米は美しいのが取れました。<br><br>第二年目は半俵減収でしたがこれは浄霊の施し方が足りなかったのでした。<br><br>三年目も一向変りないように見えましたが籾皮が薄いのとクズ米のない実に見事な米で収量は反収で二俵の増収です。<br><br>次に裏作（麦）は一年目には稲作同様変りなく二年目は一俵増収、その麦たるや驚いた事には精白歩合の良い事今迄になく多い事は十二貫入り一俵で精白して何と三斗七合で馬鹿に多いのです。<br><br> 精米所では「君の麦は僕の方の損だ、僕の方に残るべき麦ヌカが少いから引合わぬ」と申す位です。<br><br>麦と言えば今迄精白にして精々二斗二、三升余程良い麦で二升の一升位が精々でした。<br><br>一俵増収で精白歩合が良ければ三、四割の増収とその上、米も麦も美味な事施肥を施した当時とは比較にならない良質です。<br><br>この割合で大先生が地上天国創刊号無肥料栽培方法、光三号の農業の大革命の御指導の通り種子も耕地も身も魂も浄霊で浄まって行けば年々ぐんぐん増収、ここ数年を出でずして米麦共反収十五、六俵位は必ず楽に収穫が頂ける自信が出来ました。<br><br>無肥で増収が出来、しかも昧が良ければ一石三鳥の儲け、貧の追付かぬ経済的な農耕法の実行をした経験を嬉しさの余り御報告申上げます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Mais de Três To no Polimento do Trigo: O Ganho Triplo do Aumento da Colheita sem Adubo</h2>
 <p><strong>Jikansōsho, 2ª Coletânea, 'Método de Cultivo sem Adubo', publicado em 1 de julho de 1949</strong>
 <strong>Província de Gifu, Yoshinari Iwata (42 anos)</strong></p>
 <p>A graça que relato a seguir foi por mim alcançada ao seguir fielmente a orientação publicada no Jornal Hikari, edição número três, intitulada "A Grande Revolução na Agricultura: O Cultivo sem Adubo em Hortas Caseiras, um método limpo e verdadeiramente prazeroso".</p>

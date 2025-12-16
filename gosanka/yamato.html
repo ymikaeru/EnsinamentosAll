@@ -28,6 +28,55 @@ face="ＭＳ 明朝"><strong>歌 集</strong></font><font
 size="5" face="HG正楷書体-PRO"><strong>　山 と 水</strong></font><font
 size="4">　　</font><font size="3"><strong>初版　昭和24年12月23日発行</strong></font></p>
 
+
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ――― 岡 田 自 観 師 の 論 文 集 ―― 発行誌別 歌集「山と水」 歌集 山と水 昭和24年 12月23日発行 Ａ５版 和装箱製 301P 著者 東山 明麿 発行者 小坂嘉一郎 発行所 文化社 昭和25年 3月25日再版あり 岡田茂吉全集には再版のみ収録 （御真筆が印刷に、紙質が多少変化、内容一首変更発見、装丁に変化はなし） はしがき 私は最近、古い文庫の中から見つけ出した中に、昭和六年から十年にかけて五年間に詠んだ千数百種の短歌が表われた。<br><br>読んでみると、人の作品かと思わるる程に忘れている歌が大部分だ。<br><br>しかしこのまま葬るには惜しい気がする。<br><br>という訳で取捨選択すると共に幾分の添削もし歌集として今回出版することとなったのである。<br><br> 私は歌は本格的に習ったのではない。<br><br>ただ好きなため､昔から今日までの本を多少読んだくらいで、まず素人歌人といってもいい。<br><br>ところが万葉や古今調は、現代人にはあまりにも難解であり、といって現代調は新傾向に捉われすぎ、写実に走りすぎて品位に乏しい憾みがあると共に、言霊に於ても無関心なため、はなはだ玲瓏（れいろう味をかいている等々で、どうも得心が出来ない。<br><br>というような次第で、私は私としての個性を発揮したつもりであるから可否は読者の批判に任せるのである。<br><br> 昭和弐拾四年十月 熱海の寓居にて 明麿 カバーの中です 初めに御真筆があります 。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
 <blockquote>
     <p><font size="3" face="HG正楷書体-PRO"><br>
     </font><font size="2">※「山と水」には昭和24年発行の初版と25年発行の再版があります。収録句、装丁等はほぼ同じです。ここには初版を収録しました。〔　〕内は再版で修正された部分、もしくは明らかな誤植と思われるところです。岡田茂吉全集詩歌篇では、昭和25年版を元に仮名遣いを旧仮名遣いに修正してあるようです。ですのでこちらの句とは細かな点で差異があることをお断りしておきます。</font></p>

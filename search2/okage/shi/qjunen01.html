@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A alegria pela cura total após dez anos de tuberculose (A Terapia Revolucionária para a Tuberculose)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 十年間の結核が全治した喜び 『結核の革命的療法』昭和26(1951)年8月15日発行 兵庫県 直心中教会 中野 浪（31） 拙き文ではございますが、ここに再生の喜びを御報告さして頂き、厚く御礼申上げます。<br><br>昭和十四年の秋、身体に異常な倦怠を覚え、医師より肺結核と診断され、それより私の長い療養生活が始まったのでございます。<br><br>初めはずい分医薬にも親しみましたがいろいろ療養書を漁っているうちに、結核に薬はない事を悟り、無薬主義で自然良能力を発揮する国島療法を実行しましたら少し肥えて参りました。<br><br>しかし毒素の多いためか今度は腸が悪くなったので中止しました。<br><br>その頃知人より綜統医学（そうとういがく）が良いという事を教えられ、その説により野菜食をとって、肝臓、腎臓の復活に重きをおいて、その温冷法を行ってみますと、元気が出て、少しずつ起きられるようにもなりましたが、十九年の秋、冷えたためか突然ひどい腹痛を起し、右横腹に卵大のしこりが出来て寝返りも出来ない程になりました。<br><br>この時医師は家人に今年中の命だと告げたようでございます。<br><br>なおも相当医学の療法を続けていますと痛みも止り、しこりも小さくなりましたが、今度は下痢をするようになりました。<br><br>身体はだんだんやせて文字通り骨と皮になってしまって、起き上る事が出来なくなりました。<br><br>こうして病状は一進一退を続けながら、次第に衰弱して行きましたが不思議と生かされていました。<br><br>こうなれば再起はとてもおぼつかないとあきらめて、後はただ神様にお委せする境地でいましたところ、はからずも昨年七月、救世教に入信していられる近隣の松本様宅へ神戸より先生が見えられ、すすめられるままに来て頂き、初めて御浄霊を受け御話をお伺いして何の躊躇もなく家族とも入信さしていただき御屏風観音様をお祭致しました。<br><br>さし延べられた救いの手に一心におすがり致しました。<br><br>毎日三回ずつの御浄霊により食は進み次第に肥えて来て、三カ月程で戸外に出られるようになりました。<br><br>幾度ぶりに大地に立って太陽を拝む事の出来た事の感激は、終生忘れる事の出来ないものでございます。<br><br>御守護を戴き、あまり急激な浄化も起らず日一日と体力を増し、見るかげもなく痩せおとろえた身体も、今では見違えるほどの元気にならせて頂きました。<br><br>十年の長い病床生活をかえりみて、感慨無量のものがございます。<br><br> 明主様の御霊徳による事は申すまでもありませんが、諸先生始め皆様の誠を戴きまして、今日あるを得ました御恩にはただ感謝あるのみで御座います。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A alegria pela cura total após dez anos de tuberculose (A Terapia Revolucionária para a Tuberculose)</h2>
 <p>Nami Nakano (31), Igreja Naokoro, Província de Hyogo
 Publicado em 15 de agosto de 1951</p>
 <p>Ainda que por meio de um relato singelo, desejo expressar a alegria de meu renascimento e externar minha mais profunda gratidão. No outono de 1939, comecei a sentir uma fadiga incomum e, após consultar um médico, recebi o diagnóstico de tuberculose pulmonar. Foi assim que teve início meu longo período de convalescença.</p>

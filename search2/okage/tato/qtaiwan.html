@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Um Exemplo Concreto que Demonstra o Poder do Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 台湾坊主治る 浄霊の威力示す実例 『救世』49号、昭和25(1950)年2月11日発行 岐阜県 五六七大教会光？中教会 村井くに（37） 二十二年六月下旬より結髪のたびに毛髪がぬけて参ります。<br><br>始めはそれ程にも思いませんでしたが日増しに多くなって参ります。<br><br>鏡に向います毎に頭が明るくなって行く、どうなるのかと、もうじっとしておられません。<br><br>二十年十月妹にすすめられて入信させて頂いてはいましたが、確信のない私は落着いておれず、あちらの医者、こちらの病院と歩き廻り、薬、注射と追いたてましたが、一向に効果なく九月半ばごろにはすっかり抜けて丸坊主になってしまいました。<br><br>もうこうなっては何とも致し方ない、なるがままだ、とは思ってはいましたが、何とかして毛を生やしたいとあせっても見ました。<br><br>そうこうしている中、十二月頃より神経衰弱といいましょうか、ひどく不眠症になり、頭は棒でもささるように痛み一日二時間の睡眠がとれず悶え苦しみました。<br><br>家族の者はやるせない思いで、ついに東京に行きあらゆる療法を試みましたがいささかの効果もなく、自暴自棄となりもうこの上は神におすがりするよりほか道はないとあきらめ七月には帰宅致しました。<br><br> いわれるままに御浄霊して頂いていました。<br><br>そのうち、少しずつ眠られるようになって来ました。<br><br>と同時に毛髪が少しずつ生え出して参りました。<br><br>抜け初めてより丸一カ年後昨年九月頃でした。<br><br>追々生えて来て今日ではまだ長くはなっていませんが、どうにか自分の毛だけで間に合うようにまでなり、ひとえに光明如来様の御利益の程と心より感謝致しております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Um Exemplo Concreto que Demonstra o Poder do Johrei</h2>
 <p><em>Publicado na revista “A Salvação”, nº 49, em 11 de fevereiro de 1950</em></p>
 <p><em>Relato de Kuni Murai (37 anos)</em>
 <em>Igreja Naka, ligada à Grande Igreja Goroku Shichi, Província de Gifu</em></p>

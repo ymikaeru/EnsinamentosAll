@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O cultivo duplo e o adubo de capim fresco não produzem resultados (A improdutividade da lavoura). A lavoura não é feita com adubo composto.</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 二毛作と生草堆肥〔で〕は駄目〔穫れぬ〕 堆肥で作るのではない 『栄光』198号、昭和28(1953)年3月4日 （革）自然農法解説に収録 埼玉県 宝生中教会 山口寅一（39） 謹んで昭和二十七年度水稲、四年目を御報告申し上げさせて頂きます。<br><br> 総じて二十六年度よりは、反当約一俵の減収でしたが、これは有肥栽培農家も約二俵の減収でした。<br><br>因に申し上げますと昨年は反当り自然栽培八俵、有肥七俵半です。<br><br>減収の原因は有肥農家の方は虫害が多く、自然栽培は殆んどなく、気候も申し分なかったようですが、私の感じた点は、明主様の御教え通りではなく、生草専門で反当百八十貫を施し、藁を全然施さなかった故ではなかろうかと思います。<br><br>もう一つの原因は、二毛作田なのです。<br><br>その裏付けするかのように、地力の悪い悪田（一毛田）は、二十六年度は六俵半で二十七年度も六俵半で、これだけは減収ではないのです。<br><br>自分の執着のため、どうしても一毛田に切替えられなかったのを深く明主様に御詫び申し上げさせて頂きますと共に、本年よりは二毛作を一毛作に切り替えさせて頂き邁進する覚悟です。<br><br> 右謹んで御報告申し上げさせて頂きます。<br><br> （昭和二十八年二月十六日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O cultivo duplo e o adubo de capim fresco não produzem resultados (A improdutividade da lavoura). A lavoura não é feita com adubo composto.</h2>
 <p>Revista Eikou, nº 198, 4 de março de 1953
 Publicado na coletânea “Comentários sobre a Agricultura Natural”</p>
 <p>Toraichi Yamaguchi (39 anos)

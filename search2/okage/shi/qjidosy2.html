@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Milagre no Acidente Automobilístico</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 自動車事故の奇蹟 『栄光』200号、昭和28(1953)年3月18日発行 京都府 実生中教会 大道弘幸（32） 入信以来数々の御守護を戴き、一家明るい光明に満ちた生活をさせて頂いております。<br><br>ここにその一端を御報告させて頂きます。<br><br> 本年正月二日大阪にて自動車の運転手を致しております私は、午後一時頃天保山より野田阪神まで客を二人乗せて五十粁のスピードで進行しておりました。<br><br>玉川交叉点へ来た時、正月の事にて信号もなく、魔がさしたとでも言うのでしょうか、左右も見ずに渡ろうとした瞬間、これも信号がないため超スピードで走って来た電車と、アッ、シマッタ！ と思った瞬間「明主様御守護を御願い致します」と夢中で叫びました。<br><br>そしてこの大奇蹟が生じたのでございます。<br><br>当然電車の下敷ぐらいとは思っておりましたのに、見物人があれよあれよという聞に、自動車は三十米引ずられておりました。<br><br>自動車はと思うと大破もせず後部のフェンダーが少々痛んだのみで無事でございました。<br><br> 駈けつけた交通巡査が余りの不思議さに、ただ頭を左右に振り「普通なればこれだけ両方がスピードを出しておれば、電車は大破、自動車はめちゃめちゃだろう。<br><br>こんな奇蹟はない。<br><br>君はよほど運の良い男だ、帰ったら神様を拝んでおき給え」と言っておりました。<br><br>勿論客二人は無事にて行先まで送りました。<br><br>私は本当に心から有難いと思いました。<br><br>早速上加茂支部へお参りさせて頂き、御神体に御礼申しました。<br><br>その時の気持、何とも言葉で言い表わすすべも知りませんでした。<br><br> 日々の信仰に足りないところがあるばかりに戴いた御気付の御浄化とは存じますが、それにつけても無事であった事の有難さ、今後は一層性根を入れかえて、御道に精進致すつもりでございます。<br><br> 明主様謹んで厚く御礼申し上げます。<br><br> （昭和二十八年二月一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Milagre no Acidente Automobilístico</h2>
 <p><em>Publicado na revista Eikou n° 200, em 18 de março de 1953 (Showa 28)</em></p>
 <p><strong>Igreja Misho-naka, Quioto</strong>
 <strong>Hiroyuki Omichi (32 anos)</strong></p>

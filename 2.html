@@ -130,11 +130,11 @@
                 const poem = allPoems[index];
                 if (!poem) return;
 
-                // Clean the original text to remove the "**Leitura:**" part included in the JSON source
+                // Clean the original text to remove the "<b>Leitura:</b>" part included in the JSON source
                 // This prevents the reading from appearing twice (once in the big font, once in the small font)
                 let cleanOriginal = poem.original;
-                if (cleanOriginal.includes('**Leitura:**')) {
-                    cleanOriginal = cleanOriginal.split('**Leitura:**')[0].trim();
+                if (cleanOriginal.includes('<b>Leitura:</b>')) {
+                    cleanOriginal = cleanOriginal.split('<b>Leitura:</b>')[0].trim();
                 }
 
                 document.getElementById('poem-title').textContent = poem.title;

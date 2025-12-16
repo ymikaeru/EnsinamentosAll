@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Alegria de um Lar Pleno de Luz</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 一家光明の喜び 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 岐阜県 日本五六七教善栄会 三島はまよ（34） 毎日を楽しい有難い思いで明るい生活をさせて頂いている信徒の一人で御座います。<br><br>入信当時から今日までの御利益をペンで綴らせていただきますと、便箋の一冊や二冊では到底足りません、その中一、二をここに報告させていただきます。<br><br> 私は長らく気管支カタルで苦しみました。<br><br>十七歳の頃より三十一歳まで咳き続け苦しみ抜いた頃を振り返ってみると今でもぞっと致します。<br><br>亡くなった両親も随分心配して下さいました。<br><br>昭和二十一年八月入信させていただき毎日浄霊を続けていただくうちに日々胸の苦しみが薄らぎ咳も次第に少なくなりました。<br><br>知らぬ間に全く苦しみがとれてしまい、今では本当に健康にしていただきどんな仕事も楽に出来るようになりました。<br><br>今年十一歳になる私の子供も丁度私と同じような病気で小さい時から苦しそうでしたが、私が主として浄霊させていただき、昭和二十二年の春頃からあの苦しみはとれてしまいました。<br><br>「我生命甦るさへ嬉しきに医しの業まで許されにける」ほんとうに私は筆舌に現し得ないこの喜びを味わわさせていただきました。<br><br> 主人は早くから理解し昭和二十一年十二月入信し、今では教導所に加えていただき一生懸命に御用して万分の一でも報恩したいものと頑張っています。<br><br>お蔭様で浄化を次々と受けいよいよ浄まって参りまして、事毎に有難い御利益続きでございます。<br><br>一口に十七歳から三十一歳までと申しますが随分長い間の暗かった家の内が反対にパッと明るくなったのですから正に天国化したのです。<br><br> ああ何とお礼申し上げるべきかその言葉さえ出ません。<br><br>益々観音行を積み同志を語らい合わせ、健富和への一途へ突進し大先生初め諸先生の御徳に報い奉ろうと精進しています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Alegria de um Lar Pleno de Luz</h2>
 <p><strong>Coleção Jikan, Volume 1: "Tuberculose e a Terapia Divina", publicado em 25 de junho de 1949.</strong>
 <strong>Hamayo Mishima (34 anos), Igreja Miroku Zen'eikai, Província de Gifu.</strong></p>
 <p>Conto-me entre os fiéis a quem foi concedida a graça de uma vida luminosa, repleta de alegria e gratidão. As bênçãos recebidas desde o dia de minha conversão até hoje são tão inumeráveis que um ou dois volumes não seriam suficientes para registrá-las todas. Dentre elas, permito-me relatar aqui apenas algumas.</p>

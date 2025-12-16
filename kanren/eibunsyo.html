@@ -8,7 +8,56 @@
 <body bgcolor="#E9FEDA">
 <p align="center"><font face="HG正楷書体-PRO" size="2">--- Publicações Relacionadas　</font><font size="2"><strong>英 文</strong></font><font face="HG正楷書体-PRO" size="2">　――</font><font size="1"><br/>
 </font></p>
-<blockquote><div class="translated-content"><h2>Publicações Relacionadas em Inglês</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ――― 関 連 出 版 物 英 文 ―― FOUNDATION OF PARADISE FOUNDATION OF PARADISE 1984 年発行 Ａ５版 418P 英訳版「天国の礎」 旧「天国の礎」中から２１５ 編、他の重要御論文１０編を翻訳収録 発行所 世界救世教 TRUE HEALTH TRUE HEALTH 1984 年発行 Ａ５版 184P 英訳版「神示の健康」 「神示の健康」から９５ 編を翻訳収録 発行所 世界救世教 PRAYERS AND GOSANKA PRAYERS AND GOSANKA （Poems To Be Chanted） Ａ５版 106P 英訳版「御讃歌集」 天津祝詞および御讃歌８８首 を翻訳収録 発行所 世界救世教 この御讃歌集には二代様のお歌も含まれており、また多くの歌に手が加えられています。<br><br>収録にあたり元歌を掲載、手を加えられた歌には「 ＊ 」を表示し、 赤で変更箇所を表示しました。<br><br>元歌が見つからないものは グリーン で 表示しました 。<br><br> 二代様のお歌と思われます。<br><br>ただ、私が調べることが出来なかった明主様のお歌がある可能性もありますのでご注意ください。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Publicações Relacionadas em Inglês</h2>
 <p><strong>FOUNDATION OF PARADISE</strong>
 Publicado em 1984, formato A5, 418 páginas.
 Edição em inglês de “O Alicerce do Paraíso”.

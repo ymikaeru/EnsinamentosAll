@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Reflexões sobre o Início da Minha Fé</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 入信を顧みて 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 『光』21号、昭和24(1949)年8月6日発行 三重県 日本五六七教光栄会 永戸勝記（25） 聖戦と言う美名の下に文字通り滅私奉公の一念に燃え、生死を超越して東洋平和を確立せんとせし努力こそ吾ら若人の本分と信じて戦い続けた太平洋戦も、惨憺たる敗戦によって終止符がうたれた。<br><br>爾来食糧飢饉、インフレ、交通地獄等国民は塗炭の苦しみに喘ぎ、籠から放たれた鳥のごとく暗黒の路頭に彷徨し、自暴自棄に走り、その場限りの享楽を求め、至る所に醜い世相を呈している。<br><br>この道義頑廃した濁世を救済するには宗教以外にないと叫ばれているにも拘わらず、現実はどこ吹く風と益々悪化しつつあります。<br><br>かかる現況に新興宗教としてその名を挙げたのが観音教であります。<br><br>ここにおいて私の現在に至るまで入信による体得の一端を記したいのである。<br><br> 私とても入信当初は無神論者にてある方より信仰のお勧めにより、ただ手を振る事によって病気その他万事が解消すると伺いしも、ちょうど空を掴むがごとく茫然とするのみで到底信ずる事が出来なかった。<br><br>しかし昔から「疑いは信の始めなり」と言う事があるが、私も疑いつつ信仰している内にその結果が如実に現われ、手を振れば病が治ると言う事を知らされた。<br><br>自分の気持もいつとなく次第に朗かになり、病気に対する考え方も異り、即ち病因と言うものが分れば、神霊放射によりいかなる事も解決すると言う事を知り、日常生活においても何ら苦悩がなく、日々楽しく業務に従事する事が出来ます。<br><br>この事はひとえに信仰即ち観音様の御霊徳によらずして何であろう。<br><br>私はこのお手振り功徳に対してはただ感謝の念にたえません。<br><br> なお最近観音耕作無肥料栽培という事が叫ばれておりますが、私の家とても農家にて入信以来度々先生より無肥栽培についてのお話をお聞き致し、私もまず試験的にと思って実行してみましたが、果せるかな収穫してみれば意外にも実の多いのには驚歎致しました。<br><br>爾来田畑全部を無肥料にて耕作致すべく努力致し、現在全くの無肥料にてただ観音様の御光によってのみ作っております。<br><br>しかして過去幾多の体験によって私は無肥にて増収出来る確信を得ました。<br><br> 昨年のごとき風雨の烈しき時に対して肥料耕作においては気温が低調であったがため、軟柔徒長にて風雨に弱く、かつ又肥毒によって害虫の発生を見、多額の減収致しましたにも拘わらず、無肥料においては草丈は割合に小さく風につよく、勿論肥毒による害虫の発生なく無病にて収穫期をむかえる事が出来ました。<br><br>なお精米においても深く観察してみれば、ただ不思議の一字につき到底筆舌にては表わせません。<br><br>すべて実行による確認にて、一日も早く世の中の人につげ、農産物増収に一躍寄与せしめんため布教に努力しております。<br><br> 今よく世間新興宗教を称してインチキ宗教となづけ、多くは迷信邪教視しているが、すべて彼らはその実態を把握しているのであろうか。<br><br>余りにも外観的のみにて批判する事の未知であることを感じられるのである。<br><br>かように私はこの混沌たる世を救うには宗教の力以外ないと思います。<br><br>そして未だ悪夢に彷いつつある世人にお知らせ致すべく努力致しております。<br><br>ここに入信一カ年半を顧みて所見を述べさせて頂きました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Reflexões sobre o Início da Minha Fé</h2>
 <p>Nagato Katsuki (25 anos)
 Associação Koeikai de Mie, Igreja Nihon Gorokunana</p>
 <p>A Guerra do Pacífico, travada sob a nobre designação de “guerra santa”, chegou ao fim com uma derrota devastadora. Nós, os jovens de então, movidos por um fervor de total abnegação, acreditávamos ser nosso dever supremo lutar para estabelecer a paz no Oriente, transcendendo a própria vida. Desde então, a nação padece sob o tormento da escassez de alimentos, da inflação galopante e de um sistema de transportes caótico. O povo, como pássaros libertos de uma gaiola, vagueia sem rumo em meio às trevas, entregando-se ao desespero e buscando prazeres efêmeros, o que resulta em um cenário social deplorável por toda parte.</p>

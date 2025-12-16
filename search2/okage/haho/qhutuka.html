@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O grande milagre do cofre de um banco que, após dois dias travado, abriu-se com vinte minutos de Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 二日がかりで開かなかった銀行の大金庫 浄霊二十分で開く大奇蹟 『栄光』201号、昭和28(1953)年3月25日発行 山口県 栄光中教会 長岡松蔵（57） 昭和二十四年九月栄光中教会萩市江向支部で教修を受けさして戴き、以来数々の御守護を頂きました私に、今回又不思議な御守護を目のあたり御授け頂き、謹んで明主様の御前に感謝の御報告をさせて頂きます。<br><br> 昭和二十七年六月十日所用のため萩市の山口銀行支店に出向きましたところ、行内がざわめいておりますので、行員の一人に「何事か」と尋ねましたところ「金庫室備付けの大金庫の扉が昨日からどうしても開かず、金銭出納の多い銀行業務とてほとほと困りぬきこの上は壊すより方法がない」というところでした。<br><br> たまたま同道しました大敷漁業組合長が私を指して「この人はよく奇蹟を現わす人だから、一つオマジナイをして貰ったらどうか」と支店長に話し込んでおるのです。<br><br>これを聞いた私はこれは困った事になったぞ、と一時は当惑いたしましたものの、その時は先に支店長より「どうか宜しく御願いいたします」と丁寧に依頼される始末、今更逃げるわけにもいかずこの上はと私は覚悟を決めて金庫室に這入りました。<br><br>行員二、三十名がついて来ますのでこれはいかんと室内には私と支店長と次長の三人だけ這入る事にし、他の方々は一応室外へ出て貰いました。<br><br>まず箱根の方に向い礼拝、天津祝詞、続いて善言讃詞を五回奏上、一生懸命に明主様に御祈願申し上げ、金庫に向って御浄霊をさして頂きました。<br><br>約二十分程して支店長に向い「落ちついて金庫のダイヤルを廻して御覧なさい」と申しますと支店長は直ぐダイヤルを廻し鍵をひねりますと……嗚呼！ 何と不思議な事でしょう、バーンという音と共に二日かかってどうしても開かなかった扉が開いたではありませんか！ 支店長は「開いたぞ」と怒鳴る。<br><br>私は思わず「明主様有難うございました」と声をあげずにはおられませんでした。<br><br> それまでは室外に居た行員達はあんな事をして私達が総がかりで苦心しても開かない扉が開くものかとナジリ始める。<br><br>私の同道者はいや人間がやるのではない神様の御力で開かせて頂くのだから必ず開くよ。<br><br>と押問答を続けたとか。<br><br> とまれ、この奇蹟を目の辺り見せられた支店長始め多くの行員達もただただ不思議な事もあるものと首をかしげ私を見つめるばかり、私もほっと一息、今更ながら御神徳に頭が下るのみでした。<br><br> かくして大切な御得意様にも余り御迷惑をかけずに済まして頂いたと支店長達の感謝の送礼と共にすっかり朗らかになり、帰宅したような次第でございます。<br><br> ああこれぞ神に奉仕する者のみが知る喜び！ 世の悩める人々を一人でも多くお導きさせて頂く事をお害い申し上げ御報告を終らせて頂きます。<br><br> 明主様真に有難うございました。<br><br>（昭和二十八年二月五日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O grande milagre do cofre de um banco que, após dois dias travado, abriu-se com vinte minutos de Johrei</h2>
 <p>Revista Eikou, nº 201, publicada em 25 de março de 1953
 Matsuzo Nagaoka (57 anos), Igreja Eikou Naka, Província de Yamaguchi</p>
 <p>Em setembro de 1949, tive a permissão de participar do Curso de Formação na Igreja Eikou Naka, na cidade de Hagi. Desde então, tenho sido agraciado com inúmeras proteções divinas. Desta vez, porém, foi-me concedido presenciar um milagre extraordinário, e é com profunda reverência que venho relatá-lo a Meishu-Sama.</p>

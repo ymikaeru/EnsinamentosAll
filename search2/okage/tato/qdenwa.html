@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Uma proteção excepcional na instalação da linha telefônica</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 電話引込みに格別の御守護 『栄光』208号、昭和28(1953)年5月13日発行 東京都 生和中教会 堀田義太郎（56） 私は昭和十八年に入信させて頂きましてより数々の御守護を頂いております。<br><br>この度は営業用電話を引込むに当りまして大変な御守護を頂きまして、ここに謹みて御礼の御報告をさせて頂きます。<br><br> 私は十九年の九月に強制疎開で現在の砂町三丁目より七丁目に引越しましたが、三月十日の空襲に焼出され、一時葛飾区の金町におりましたが、二十五年七月には元の砂町三丁目へ戻る事が出来ました。<br><br>私は鋳造所を経営致しておりますが、どうしても電話の必要に迫られ申し込みましたところ、二十六年になり、電話局より「三万円払い込んでもらわねばならないがそれでもよいか」といって来ましたので「何でも彼んでも必要だからお願いします」と依頼したのですが中々に引いてくれそうもありませんでした。<br><br>二十七年になり、又局から話があり、今度は「電話公債四万円を買った外に工事費として三万四千円かかるがそれでも承知か」といって来ましたが、「それでも結構だからぜひ欲しい」と頼みました。<br><br>その後にある人に聞きましたところ「お宅では以前から電話が引いてあって、疎開になって電話機を局に預けてあるのだから四万円の公債は買わなくても済むかも知れない」といわれたので、本当かどうかもう一度調べて下さいと頼んで置きましたが、やがて返事で、「疎開証明をもらって提出したらよい」といわれ、早速に区役所より貰い局へ提出致しました。<br><br>でもどうした訳か矢張り七万四千円払い込むように局から通知が参りました。<br><br>私は今までも度々申し込んでも中々引いて貰えず、営業上どうしても必要だし、それに今引かないと又二、三年は後れてしまいそうなので、二月十一日の中教会の月並祭に御参拝致し、明主様、大光明如来様に御守護をお願い申し上げました。<br><br>さて四万円は後で払うとして、ともかく三万四千円だけ持って疎開証明と一緒に局へ提出致しました。<br><br>するとちょっと調べておった係員がどういう訳か「四千円だけで宜しいです」といって四千円だけの受領証をくれました。<br><br>私は吃驚してしまい、嬉しいやら気味が悪いやらでしばらく色々と考え込んでしまいました。<br><br>たった四千円？疎開証明を出したとはいえ、現に近所の知人なぞは電話機がありながら七万四千円も支払っております。<br><br>私は機械が局預けになっていながら四千円で引けるとは、全く御守護によるものだと深く感謝申し上げました。<br><br>疎開証明にしろ普通はそう簡単に貰えないのに直ぐ間に合わしてもらったばかりか、近所でも大勢電話を申し込んでありながら容易に引いて貰えずにいるのを、私が一番早く引いて貰う事が出来たのです。<br><br>早速に熱海御本部へ御参拝させて頂き、御礼を申し上げさせて頂きました。<br><br> 明主様誠に有難うございました。<br><br> （昭和二十八年四月十七日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Uma proteção excepcional na instalação da linha telefônica</h2>
 <p>Publicado na revista Eikou nº 208, em 13 de maio de 1953
 Yoshitaro Hotta (56 anos) - Igreja Seiwa-Naka, Tóquio</p>
 <p>Desde que ingressei na Fé, em 1943, tenho sido agraciado com inúmeras proteções divinas. Desta vez, ao instalar uma linha telefônica para meu negócio, recebi uma proteção verdadeiramente notável, razão pela qual, solenemente, apresento este relato em sinal de gratidão.</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Ansiedade Transforma-se em Profunda Emoção</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 不安は大感激となる 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 三重県 日本五六七教三光会 後藤修平（37） 無肥料耕作の御利益を御報告させて頂き御礼申上げます。<br><br> 私は二十三年度の米作によって自信を得させて頂き、現在田畑に蒔付または植付けてある総てを無肥料耕作致しております。<br><br>一心に光明如来様に御願い申上げ肥料類はなに一つ施さず田の植付を致しましたが稲草は植付した時には少く分蘖したかと感じられた程でした。<br><br>肥料を施した他家の田は色黒々といかにも稲草を作ったように見えるのに対し私の方は人目から見れば色は悪くやせてるように感じられました。<br><br>だが茎はかたく小さいです。<br><br>他家より「なんだ今年の田は。<br><br>毎年良い田を作りながら、これはどうだ。<br><br>これでも一人前の田になるのか」などと悪口を言われましたが「観音様の御教通りやっているのだ、間違い無いさ」と言っている私の胸中は全く暗く一時は世界の底に落ちたような感じがいたしました。<br><br> ところが「観音様の御慈悲尊く」三番四番と草刈りも済む頃には目に見えて生き生きした草色に変って来ました。<br><br>そして穂の出る時にはあれほど笑われた田も他家に勝るともおとらぬまでにぐんぐん成長したのです。<br><br>私の心はただもう涙ぐましい喜びと感謝に満ち始め、その感激はとても言葉に表わす事は出来ません。<br><br>かくて予想以上の収穫。<br><br>平年作六俵二斗というのが平均七俵三斗。<br><br>良いところは八俵以上を得て無肥料栽培のおかげがこれ程大きいとは夢にも思わずただもう驚いております。<br><br>二週間以上も水がなく一番悪いと思った田が六畝にて五俵の収穫を頂き入信浅く何の徳なき私に観音様の無限のお力と御守護を戴き一家喜び感謝し一層の御用をさせて戴きたく念願しております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Ansiedade Transforma-se em Profunda Emoção</h2>
 <p><strong>Coleção de Teses do Mestre Jikan Okada – Volume 2 da Antologia Jikan: “O Método da Agricultura Natural” (Publicado em 1 de julho de 1949)</strong>
 <strong>Shuhei Goto (37 anos), da Igreja Miroku do Japão, Associação Sankokai – Província de Mie</strong></p>
 <p>Venho, por meio desta, relatar a imensa graça recebida com a agricultura sem adubos e expressar minha mais profunda gratidão.</p>

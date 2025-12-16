@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Colheita da Agricultura sem Adubos</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 無肥料栽培の収穫 『地上天国』2号、昭和24(1949)年3月1日発行 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 栃木県 日本五六七教信愛会 岩橋きよ（37） 私は昭和二十一年一月に教修を受けましてより農業の傍、近所の人達の御浄霊致しております。<br><br> いつか大先生より無肥料栽培のお話を伺いましてより私の家では今年は全部無肥料（堆肥は使います）に致しました（自作農地約三町歩）最初の内は近所の人達に笑われました。<br><br>それは蒔き始めは非常に悪く見えますので、自分も家の者も何だか不安で半信半疑でした。<br><br>そして家の者は肥料をやるように盛に奨めましたが、私は大先生のお示しを信じて飽く迄頑張りました。<br><br> そしてとにかく、さつま芋と野菜にまず試験的に実施しましたが一面又心配なので畑に向っては浄霊を致しました。<br><br>ところが嬉しい事には今では全体が非常に見良くなりました。<br><br>その内で特に御利益を頂いたと思うのは今では干瓢です。<br><br>木は赤くして醜いのですが実は沢山出来てメゴメゴしい（キメが良い）ので本当に不思議と家の者も驚いており、無肥料栽培を信じるようになりました。<br><br> 他の野菜も非常に出来が良く、味も馬鹿に良く、一回の肥料栽培のどのものよりも美味で皆様がその味を賞めてくれます。<br><br>これも神様の御利益と感謝致しております。<br><br>これで自信を得た私達は今年は米作にも全部無肥料にする事に致しました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Colheita da Agricultura sem Adubos</h2>
 <p>Publicado em “Paraíso Terrestre”, edição n.º 2, 1º de março de 1949.
 Publicado em “Coleção Jikan”, Volume II, “O Método de Cultivo sem Adubos”, 1º de julho de 1949.</p>
 <p>Kiyoshi Iwahashi (37 anos)

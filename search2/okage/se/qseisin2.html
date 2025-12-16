@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salvo da Esquizofrenia por meio do Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 精神分裂症の私御浄霊により救わる 『アメリカを救う』昭和28(1953)年1月1日発行 大分県 如意輪中教会 甲斐 明（23） 昭和二十六年二月下旬、木炭原木伐採中、過って約十間位の谷間に落ち、人事不省に陥りましたが、一緒に作業中の他の人に救われまして、身体も大して痛みませんので、午前中作業を続けました。<br><br>昼食後から急に各処が痛み出し、そのまま病臥の身となり、発狂状態となりました。<br><br>五、六日経過後、神様の御導きか御恵みか、突然世界救世教如意輪中教会大野町支部の瀬立先生が来られ、御浄霊をして下されましたところ、大変頭の気持がよくなり何だか自分にかえったような気持になりました。<br><br>二、三日過ぎて、又先生がおいで下されまして御浄霊をいただきましたところ、すっかり良くなりました。<br><br>その後約一カ月位は頭が重い事もありましたが、精神が分裂するような事もなく、漸次恢復して家業が出来るようになりました。<br><br>現代医術では到底かくのごとく短時日にては恢復せず、狂った人間として、私は勿論一家は不幸の生涯を送るはずで御座いました。<br><br>余りの有難さ身にしみまして三月八日入信させて戴きまして、ただ今毎日家族の者の御浄霊をさせて戴いております。<br><br>近所の人々も時々しております。<br><br>言い知れぬ数々の御利益を戴いておりますが次期に報告します。<br><br> 明主様、大光明如来様有難う御座います。<br><br>これからは農業の傍ら、病苦に悩む方々を一人でも多く御導きして、御神恩の万分の一にも報ゆる覚悟で御座います。<br><br>拙文をもって御利益の一端を報告さして戴きます。<br><br> （昭和二十六年十月一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salvo da Esquizofrenia por meio do Johrei</h2>
 <p><strong>Relato de Graça publicado na edição de 1º de janeiro de 1953 da revista “Salvar a América”</strong></p>
 <p>Akira Kai (23 anos)
 Igreja Nyoirin Naka, Província de Oita</p>

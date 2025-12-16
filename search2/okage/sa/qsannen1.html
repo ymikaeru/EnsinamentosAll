@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Alegria de Ser Salva de Três Anos de Enfermidade</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 三年間の病床より救はれた歓び 『地上天国』3号、昭和24(1949)年4月20日発行 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 三重県 日本五六七教光栄会 伊藤ふさ子（24） 私は昭和十九年九月ごろより胸の病気に罹り毎日寝たり起きたり淋しい日を送っておりましたが、一向に良くならず早く元気になりたいと焦り、あらゆる薬を飲み、民間療法、各地の病院へと廻りましたが少しの効果もなく、昭和二十一年春ごろより益々悪くなり、今迄片方だけだったのが両肺とも悪いと医師に言われ、悲しみのドン底に落ちた。<br><br> 絶対安静すること八カ月、年も明け正月すぎより少しずつ起きれるようになりましたが痩衰えて、顔色は土色のようで自分の顔を鏡で見るのもいやな程でした。<br><br> 毎日もうこの病気は治らぬのかと悩み続けておりましたところ昭和二十二年三月私がフト表通りへ出ました時、いつも話した事もない方に有難い光明如来様の事をお伺いし早速浄霊をいただきましたところ、とても気持がよくなり毎日続けていただくうちに食事も進み、顔色も段々と良くなり今迄の暗い病床の中より光明如来様の御霊徳によりて明るい生活が出来るようになり、今では健康人と変らず教会のお手伝いさせていただけるのも光明如来様のお蔭と深く深く感謝致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Alegria de Ser Salva de Três Anos de Enfermidade</h2>
 <p>Publicado no jornal “Paraíso Terrestre” nº 3, em 20 de abril de 1949
 Publicado na “Coletânea Jikan”, Volume 1, “A Tuberculose e a Terapia Espiritual”, em 25 de junho de 1949</p>
 <p>Fusako Ito (24 anos)

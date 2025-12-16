@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Comentários sobre a Agricultura Natural (Publicado em 15 de janeiro de 1951)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 自然栽培による本年度耕作状況の報告 『自然農法解説』昭和26(1951)年1月15日発行 岐阜県 五六七大教会清霊中教会 清水康義 全般的な調査及び感想を述べます前に、麦作に付き、私の経験を併せ述べてみますに、麦作においては、適期播種が特に重要事と思います。<br><br>小麦播種適期をここ数年の統計をも参考にして発表致します。<br><br> 一、十月二十日－二十五日－三十日－二月五日－十日、右記の中特に、十月二十五日より十一月五日が当地での最適期であります。<br><br> 一、土質については当地は大体深く一尺前後で、壌土が多く、中に砂壌土も混っています。<br><br> 一、有肥との比較は自然耕作は草丈は短く、茎は強く、葉は不繁茂、実は太く大です。<br><br> 一、実収は平均して、十人の中三人増収、三人減収、四人は増減収なしで、質は全般的に自然耕作優等、有肥劣等です。<br><br> 一、成長経過としては、全般に草丈は短く、分蘖少く（平均十三本）植付後、有肥料の葉色は濃かったり、あせたり、七面鳥のごとく変り、自然農法のは変らず、植付後同じ葉色で経過し八月中旬前後の穂形成期、即ち生命線期経過せし頃少々色あせて来ました。<br><br>一部の報告によると、五月麦収穫後、生藁を鋤込むと、丁度生命線期にも色あせず、余裕をもち生命線期を起すとの事です。<br><br> 以上を報告申上げて、左にそれを体験された方の実例を御報告させて戴きます。<br><br> 今村金松氏（七十六歳）は八反歩の中八畝歩に自然耕作を実施致しました。<br><br>昨年の小麦播付けの際、種子の上へ土を混じた堆肥を施しました（通称かぶせ播き）。<br><br>土質は当地での五等地即ち劣等地であります。<br><br>その後の耕作としましては、二、三回の土入をしその出来た溝へ堆肥を一五〇貫程入れ、その後は別に手入れしませんでした。<br><br>草丈は一般より平均短く、だが丈夫に穂も出揃って、粒数も多く、八畝歩の収穫四俵半、一般有肥のところは反当三俵半、多くて四俵位で、その上これらは一升重量三九五匁、一俵要量四斗一升、一般は四斗三、四升、右の外特に報告させて頂きたいのは、今年は全般に等級悪く三等四等が多く、一等二等は少く一等のごときは無いという始末、ところが右の小麦が検査の結果一等合格、検査役も「今年の小麦でこのようなのは初めてだ」と言う素晴しさでした。<br><br>初回でもあり、減収すると思いしにこのような増収を戴きまして有難く存じております。<br><br> 謹んで御礼申上げ、御報告致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Comentários sobre a Agricultura Natural (Publicado em 15 de janeiro de 1951)</h2>
 <p>Relato de Yasuyoshi Shimizu, da Igreja Seirei, Grande Igreja Goroku Shichi, Província de Gifu</p>
 <p>Antes de apresentar minhas observações e impressões gerais, gostaria de compartilhar minha experiência no cultivo do trigo, no qual considero de suma importância a semeadura na época apropriada. A seguir, apresentarei os períodos ideais para o plantio do trigo, com base em estatísticas dos últimos anos.</p>
 <ol>

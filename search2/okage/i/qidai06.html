@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Os Grandiosos Resultados da Agricultura sem Adubos</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 偉大なる無肥料の成果 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 奈良県 日本五六七教青心会 堀内寅太郎（48） 大先生より無肥料耕作の御話しを聞きましたので早速実行しました。<br><br>大先生は耕作は自然の摂理に従い化学肥料は有害であると説かれてありますので肥料は堆肥のみにしました。<br><br>私は今迄硫安を多く使っておりました故、土壌は酸化してこちこちに固まっていますから堆肥にて地力をつけなければいけないと思います。<br><br>従前の農作は搾取ばかりを目的とし土にかえすことをしませんでした。<br><br> 私が体験した耕作法をお知らせします。<br><br> まず苗代から申し上げます。<br><br>私は一反に付き十坪を使用します。<br><br>苗代田を整理する前一畝に二十貫の堆肥（主に藁と草）をすき込み一坪に対して種籾二合蒔きます。<br><br>それ以前に種籾に十分間程浄霊します。<br><br>そして苗代期間中に二回浄霊しました。<br><br>種籾は勿論消毒しません。<br><br>本田には元肥として堆肥反当り百五十貫を麦をかり取った後直ちに「二条蒔き」のものは麦の株間に、「一条蒔き」のときは麦株の上にふりまきすき込みます。<br><br> 水を引いて田植するときは苗に浄霊し、移植します。<br><br>田植後二十日ないし二十五日頃堆肥百五十貫を追肥、稲の成育状態は一般よりも悪く分けつ十五、六本から二十本程しかありません。<br><br>村人達は私のすること又田の毛上をみて笑い気違い扱いにされました。<br><br> それもそのはず、一般人は硫安を多く使い苗も黒々として見ても気持良い田になっていますが私の田は赤々して藁も短かく株が細っそりとして見るからに貧弱です。<br><br> 私は発度か失望と近隣の困わくに焦燥を感じましたが前途に光明を信じ堅い信念を打ち込んでやりました。<br><br>そして報いられました。<br><br> 化学肥料（反当り七、八千円）を使った稲は長く黒くみかけは立派ですが倒れたり又「浮塵子（うんか）」がついたりして減収の家が沢山ありましたが私の方は藁は固く虫害は全然なく又一本も倒れませんでした。<br><br>私の地方は昨年は豊作でありました。<br><br>平年作は二石八斗から二石九斗でありますが一般は三石二、三斗で一割から一割五分の増収でしたが私は実に三割五分程度の増収であったのです。<br><br>無肥料栽培は外観は平年作以下に見えましたが籾皮が薄く層米が出来ず粒が大きいのです。<br><br>浄霊はかり取まで三回やりました。<br><br>稲作によって無肥料栽培に自信がつき野菜も西瓜も皆これにならっています。<br><br> 収穫は多く、その何と美味なることか、麦作も堆肥を反当り六、七百貫を二、三回施しました。<br><br>収穫は未定ですが冬期は葉が短く薄茶色になり心配しましたが前に施した化学肥料の浄化であると熱心に浄霊しました。<br><br>春になって葉は草色になり軸も固く完全な穂が出ています。<br><br>この分で多収穫疑いなしと確信を得ました。<br><br>私は無肥料栽培のいかに偉大なるかを知りここに報告しました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Os Grandiosos Resultados da Agricultura sem Adubos</h2>
 <p><strong>Coleção Jikan, Volume 2: ‘O Método de Cultivo sem Adubos’ — Publicado em 1º de julho de 1949 (Showa 24)</strong>
 <strong>Província de Nara — Associação Seishinkai da Nihon Gorokunana Kyo</strong>
 <strong>Horiuchi Torataro (48 anos)</strong></p>

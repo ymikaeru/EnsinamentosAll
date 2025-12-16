@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Sofrimento de Causa Ignorada pela Medicina, Curado com Simplicidade pela Terapia Divina</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 医診で不明の苦痛 神療法で簡単に治る 『救世』51号、昭和25(1950)年2月25日発行 東京都 五六七大教会 中田やす（55） 外面的には大した苦労もないようにみえておりました私も、体が弱かったため長い間人知れず悩み続けて来ました。<br><br>俗にいう冷え性で、夜寝みましても氷のように冷めたい足は朝まで温まらず、夏でも真綿の腰ぶとんを離すことが出来ぬような体でございました。<br><br>加うるに神経痛で腕や脚が痛み、また出産後には女の命取りとまで申されます乳腺炎に一再ならず悩まされ、病の重かった時は一日に四、五貫目の氷を使い果した日の幾日か打続き、飲み薬につけ薬などは三種類も用い、時間的に薬をとりかえる手数だけにでもどんなに煩雑な思いを致した事かわかりませんでした。<br><br>それにも拘らず化膿する時の猛烈なる痛みは実に言語に絶するもので、当時を考えますとまったく身の毛もよだつ思いが致します。<br><br>回復後も何となく健康すぐれず一時は人並に立働くことの出来ぬような体になってしまいました。<br><br> 何とか丈夫になりたいものと名医の診察に時を惜まず歩きまわりました。<br><br>しかし診断の結果「あなたはどこも悪いところはない」とのみ申され誠に腑に落ちない気持にて空しく家路につくので御座いました。<br><br>実際にどこも悪くないのなら、溌剌として立働く事が出来るはずなのに事実はまるで反対です。<br><br>その後有名な注射も幾年となく続け、それにもあきたらず今度は灸療法にも専念致しましたが、大した効果もなく、大層困っておりました時、計らずも浄霊の事を親戚より話され、早速教修を受けさせていただきました。<br><br> 始めのうちはただ夢みる心地にて過しておりましたが次々と浄化をいただき、そのたび毎に一歩一歩健康への前進にてただ今では幾十年来味った事のない真のよろこびに毎日を過させて頂いております。<br><br>それのみならず長女の脚気も治して頂き、又腺病質にてちょっとした事にも発熱し、まことに心配の種でございました次女などは、女学校時代に笑顔をみた事がないと学校の先生より問題にされた程の不健康な子供でしたが、今は明朗そのもののように明るくなり、また末子がやけどの時医師よりヒキツレは免れぬと宣告を受けましたのが跡かたもなく治して頂き、家族中数え切れぬ程御利益を頂いております。<br><br>もしこの偉大なる御力にお縋りする事が出来なかったと致しましたら、今頃は次々と病の床に呻吟する悲惨なる状態で、家中の者がまったく暗黒の中にさまよいおる事と存じます。<br><br> その事を思います時、余りの有難さに何ともお礼の言葉もなくただ感涙に咽びいる次第でございます。<br><br>この感謝感激の気持を一人でも多くの方々に味わって頂きたく専心布教におつとめ致し、御鴻恩の万分の一なりとお報い申上げたく存じております。<br><br>拙き筆にてお礼の一端を述べさせて頂きました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Sofrimento de Causa Ignorada pela Medicina, Curado com Simplicidade pela Terapia Divina</h2>
 <p>Revista Kyusei, nº 51, 25 de fevereiro de 1950
 Yasuko Nakata (55 anos), Grande Igreja Miroku, Tóquio</p>
 <p>Ainda que, externamente, eu parecesse levar uma vida isenta de maiores atribulações, a verdade é que minha constituição frágil me fez padecer em silêncio por longos anos. Sofria do que popularmente se conhece como "friagem"; à noite, ao me deitar, meus pés, gélidos como o gelo, não se aqueciam até o amanhecer, e mesmo durante o verão, eu era incapaz de prescindir de um espesso cobertor de algodão sobre a cintura. A esse quadro, somava-se a neuralgia, que me afligia os braços e as pernas. Ademais, após os partos, fui atormentada não uma, mas diversas vezes, pela mastite, uma condição considerada fatal para as mulheres. Nos períodos mais agudos da doença, houve dias consecutivos em que cheguei a utilizar quase vinte quilos de gelo. Utilizava simultaneamente três tipos de medicamentos, entre os de uso oral e os de aplicação tópica, e a simples tarefa de trocá-los nos horários corretos era de uma complexidade extenuante. Apesar de todos esses cuidados, a dor lancinante que acompanhava a supuração era, de fato, indescritível. A simples lembrança daquela época me causa arrepios. Mesmo após a recuperação, minha saúde permaneceu precária, e por um tempo, tornei-me incapaz de realizar as tarefas mais simples, como uma pessoa comum.</p>

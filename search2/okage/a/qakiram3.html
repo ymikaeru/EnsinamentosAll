@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Filho amado, moribundo e já sem esperança, é salvo por Komyō Nyorai-Sama</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help ―― お か げ 話 ―― 資料検索 ： 諦めた瀕死の愛児 光明如来様に救わる 『救世』59号、昭和25(1950)年4月22日発行 岐阜県 五六七大教会八光中教会 西村つゆ子（30） 昭和二十一年の夏、御守様を戴き二十三年十一月十五日光明如来様を奉らせて戴き、ひたすらお縋り致しておりました。<br><br> 一昨年四月長男寛三を出産しましたが、この子は生れ落ちるから衰弱甚だしく親としてはこんな児程なおさら可愛さが加わるもので、何とかして一人前に育ててやりたいと努力しましたが、段々衰弱するばかりなので本年七月家の者の勧めに止むを得ず医師に診断して貰ったところ余り衰弱がひどいので駄目だといわれました。<br><br>焼野の雉子、何とかして助けたいは親の心、この上は光明如来様にお縋りする外はないと決心、七月二十二、三日頃から岐阜市八光中教会長じ先生にお願いして御浄霊を戴く事五日間、会長先生も「この児が助かるようなら、それこそ枯木に花だ」と言われました。<br><br>色々事情もあって会長先生は七月二十七日最後の御浄霊をして下されて「最早浄霊もこれ迄だ、とにかく一心に母親がこの児の為め光明如来様にお縋りするより外に道は無いのだ」との事でしたから帰宅の電車の中でも一生懸命にお救い下さいますようにと、精魂込めてお縋りしました。<br><br>まず十人が十人共助かると見たお方はないでしょう。<br><br> 帰宅して早速天津祝詞、善言讃詞を一心に奉誦していました。<br><br>私は妊娠四、五カ月でしたが、どういうものか急に流産したのです。<br><br>ところが不思議な事には流産すると同時に瀕死の長男がメキメキと良くなり生気を取り返しました。<br><br>そうして日に日に衰弱がなくなり元気になるではありませんか。<br><br>牛乳等与えても飲もうとせず私共と同食の麦飯にみそ汁やジャガ芋等を好んでただ今では大丈夫になりました。<br><br>生れ出んとする腹の児の命を長男に賜わったのでしょうか。<br><br>何か私の流産と瀕死の児との間には神秘なものがあるのではないでしょうか。<br><br>余りの嬉しさに産後間もない体ではありましたが、八月十日の会長先生宅の御祭日にはこの不思議な御救いを皆様に聞いて戴きたいと思い、出岐して体験談をお話し申上げました。<br><br> 奇蹟的御救いを得させて下さった明主様に厚く御礼申上げ御報告申上げます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Filho amado, moribundo e já sem esperança, é salvo por Komyō Nyorai-Sama</h2>
 <p><strong>Publicado na Revista Salvação, n.º 59, em 22 de abril de 1950</strong>
 <strong>Relato de Tsuyuko Nishimura (30 anos)</strong>
 <strong>Igreja Hakkou da Grande Igreja Goroku Shichi, Província de Gifu</strong></p>

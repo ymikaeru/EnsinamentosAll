@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Meu filho, diagnosticado com verminose, alcança a cura completa</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 虫がいるとの医診受けし我子全治 『栄光』228号、昭和28(1953)年9月30日発行 長崎県 光宝大教会 大塚トヨ（45） 昭和二十七年十二月六日突然六歳になる末子が腹痛を起し、早速病院に駈付け診て貰いましたら「これは虫だろう」との診断を受けそれから一週間通院いたしました。<br><br>それでも痛みは少しも変らず、痛みつづける状は見るに堪えませんでした。<br><br>何とかならぬものかと他の病院にも二、三カ所診断を受けましたけれども矢張虫だの腹膜だのと言って注射をしたり、お薬をのんだりしましたが腹痛は依然として止らず、小さな体は日毎に衰弱するばかり、その間七十匹ばかりの虫は出ましたがどうしても痛みは止りませんので、御正月の御雑煮もろくろく咽喉に通らぬ思いで泣き叫ぶ子を背負いながら五日の開院を待って今度は長崎の医大に診て貰いに行きましたが、ここでも見立てはやはり虫だとの事で、いよいよ「入院して虫を下してしまわねばならぬ」と聞かされ、やく三週間入院治療を施しましたが、夕刻から夜中になれば激痛が襲って、毎夜子供を背負って冷え切った病院の長い廊下を行きつ戻りつ、夜の明けるのを待つばかりでございました。<br><br>こうして一睡もしない夜が幾晩続いたことか分りませんでした。<br><br>今にして思えばよくも私の身体も続いたものだと感心させられました。<br><br>入院中何回か検便して貰ってもう虫の卵も見えないとの事で、それにもかかわらず痛みはやはり止りません。<br><br>本当に目の前が真暗になったような感じで一体どうなることかと痩せ衰えた子供を見つめながら悲歎に明け暮れ、医者では駄目だと思いました。<br><br> ちょうどその頃同室隣床の病人の御見舞の方より、光明如来様という言葉をちょっと耳にしまして、それからそのお方に色々と御話を御伺いし、五島町の藤川様宅を教えて戴き、早速飛び立つ思いで、ぜひ退院をと御願いし、未だ痛み続けていた子を背負って救世教にお願いに上りました。<br><br>行くが行くまで不安は変りませんでした。<br><br>一回御浄霊して戴いて吃驚しました。<br><br>本当だろうか、狐に化されたのではないか、と疑う位でございました。<br><br>来る時まで痛み続けていたのが、御浄霊を終った時には痛みが止り、歌までうたうようになり発病以来二カ月振りに初めて可愛ゆい我子の歌声を聞き、ただ御力の有難さに御前にひれ伏すのみでございました。<br><br>藤川様の奥様の慈愛溢れた御言葉や和やかな態度に何となく引きつけられ、毎日有難い御話をお伺いし、御浄霊戴きその後痛みも無く日毎に良くなって参りました。<br><br>私の家まで一里半の山道で六つになる大きな子を背負って町に下るのは大変な事でした。<br><br>その上七人の生活費を稼がねばならないので、終日身を粉にして働きましたが、それからの前途は光明と希望で一杯でした。<br><br>本当に力強い日々でございます。<br><br> 昭和二十四年五月二十五日、野添先生の御導きによりまして、御教修を受けさせて戴き不幸のドン底から幸福の彼方に御許しいただき、御救い下されました。<br><br>明主様有難うございました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Meu filho, diagnosticado com verminose, alcança a cura completa</h2>
 <p><strong>Publicado na revista Eikou, nº 228, em 30 de setembro de 1953</strong>
 <strong>Toyo Otsuka (45), Igreja Kohô, Nagasaki</strong></p>
 <p>Em 6 de dezembro de 1952, meu filho caçula, de seis anos, foi acometido por uma súbita dor abdominal. Levamo-lo imediatamente ao hospital, onde o diagnóstico foi de verminose, e por uma semana seguimos o tratamento ambulatório. Contudo, a dor não cedia minimamente, e seu contínuo sofrimento era uma visão insuportável. Em nossa aflição, buscamos o parecer de outros dois ou três hospitais, mas os diagnósticos variavam entre verminose e peritonite. Administraram-lhe injeções e medicamentos, todavia a dor abdominal persistia implacável. Seu pequeno corpo definhava a cada dia. Apesar de ter expelido cerca de setenta vermes durante esse período, o tormento não cessava. Chegou o Ano-Novo, e a angústia era tanta que meu filho mal conseguia engolir o tradicional <em>ozoni</em>, e, com ele chorando desconsoladamente às minhas costas, aguardei a reabertura dos hospitais no dia cinco. Dirigimo-nos, então, ao Hospital Universitário de Nagasaki. Ali, o parecer foi o mesmo: tratava-se de verminose. Fomos informados de que a internação era imprescindível para que se procedesse à completa eliminação dos parasitas.</p>

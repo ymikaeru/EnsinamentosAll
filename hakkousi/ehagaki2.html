@@ -12,7 +12,56 @@
 <font size="2">Por Publicação<br/>
 </font>
 </p>
-<blockquote><div class="translated-content"><h2>Postais de Shinsenkyo (神仙郷): O Paraíso Terrestre de Hakone</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ――― 岡 田 自 観 師 の 論 文 集 ―― 発行誌別 神仙郷絵葉書 箱根地上天国 神仙郷絵葉書 カラー 四葉入り （正確な枚数は不明） 東京・大塚巧芸社調製 箱根美術館本館 箱根美術館より神仙郷お茶室 並びに明星ケ嶽方面を望む 箱根美術館より神仙郷日光殿 並びに宮ノ下湯本方面を望む 神仙郷日光殿お庭より 早雲山方面を望む
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Postais de Shinsenkyo (神仙郷): O Paraíso Terrestre de Hakone</h2>
 <h2>Conjunto de Quatro Postais Coloridos de Shinsenkyo (神仙郷) (Número exato de exemplares desconhecido)</h2>
 <p>Produzido por Otsuka Kogeisha, Tóquio.</p>
 <p>Edifício Principal do Museu de Arte de Hakone</p>

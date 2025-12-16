@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Ressurreição de uma Galinha</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 鶏の甦生 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 静岡県 日本観音教天国会日光分会 柴原かね 去る二月九日夕方の出来事です。<br><br>私の家で飼育しております鶏が、田圃より帰って何気なく鶏舎の中を覗きましたら一羽だけションポリしておりますのでよく見ますと、トサカは血色もなく今にもたおれはしないかと思う程弱々しく鶏舎の片隅にうずくまっております。<br><br>早速一羽だけ別にしまして御浄霊をいたしまして翌朝行って見ましたところ、大分元気が出て参りました。<br><br>なお別にして四、五回御浄霊をいたしました。<br><br> 一日おいてその翌日になりますとトサカの色も赤い良い色と変り非常に元気になりましたので、もとの鶏舎に移しました。<br><br>今は他の鶏と同様元気になりました。<br><br>知らずにいれば死んで終ったでしょうが、お観音様はこうして鶏までお救い下されました。<br><br> お話は聞いておりますが、体験したのは初めてです。<br><br>本当に有難うございました。<br><br>拙ない筆にて御守護の御礼を申上ます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Ressurreição de uma Galinha</h2>
 <p><em>Extraído da Coleção Jikan, Volume 2: "O Método da Agricultura sem Adubos", publicado em 1º de julho de 1949.</em></p>
 <p>Kane Shibahara
 Nihon Kannon Kyo Tengokukai, Igreja de Nikko

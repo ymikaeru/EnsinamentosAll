@@ -1,3 +1,4 @@
+
 import json
 import os
 import re
@@ -6,7 +7,7 @@ from pathlib import Path
 # Config
 INDEX_FILE = 'Data/advanced_search_index.json'
 DATA_DIR = 'Data'
-PROJECT_ROOT = '.' # Assuming running from project root
+PROJECT_ROOT = '.' 
 
 def load_data():
     print("Loading index...")
@@ -38,11 +39,31 @@ def get_japanese_content(index_item, translations):
 
 def format_japanese_text(text):
     if not text: return ""
+    
+    # Aggressively strip trailing HTML tags that might break the wrapper
+    # Remove </div>, </body>, </html> from the end
+    cleaned = re.sub(r'(</div>|</body>|</html>)+\s*$', '', text, flags=re.IGNORECASE).strip()
+    
     # Simple splitting for readability
-    if '\n' in text:
-        return text.replace('\n', '<br>')
+    if '\n' in cleaned:
+        return cleaned.replace('\n', '<br>')
     else:
-        return text.replace('。', '。<br><br>')
+        return cleaned.replace('。', '。<br><br>')
+
+def resolve_path(url):
+    # Try multiple convenient locations
+    possibilities = [
+        url,
+        os.path.join('sasshi', url),
+        os.path.join('search1', url),
+        os.path.join('filetop', url),
+        os.path.join('search1/situmon', url), # Added based on audit log
+        os.path.join('search1/shi', url)
+    ]
+    for p in possibilities:
+        if os.path.exists(p) and os.path.isfile(p):
+            return p
+    return None
 
 def inject_toggle(html_path, jp_content):
     try:
@@ -53,26 +74,45 @@ def inject_toggle(html_path, jp_content):
         return False
 
     # Check for marker
-    if '<!-- LANGUAGE TOGGLE INJECTED -->' in content:
-        # Already injected, we might want to update the JP content though?
-        # For now, let's skip to avoid duplicating or messing up regex
-        # Or better: remove old block and re-inject
-        content = re.sub(r'<!-- LANGUAGE TOGGLE INJECTED start -->.*?<!-- LANGUAGE TOGGLE INJECTED end -->', '', content, flags=re.DOTALL)
+    if '<!-- LANGUAGE TOGGLE INJECTED start -->' in content:
+        # Already injected. 
+        # Check if content is actually empty or broken?
+        # User asked to "review all". Re-injecting is safer to ensure latest logic.
+        # But we must remove the old block first to avoid duplication.
+        content = re.sub(r'<!-- LANGUAGE TOGGLE INJECTED start -->.*?<!-- LANGUAGE TOGGLE INJECTED end -->\s*', '', content, flags=re.DOTALL)
+        # Also clean up the hidden jp-content if it was outside the block (v1 script had it inside?)
+        # v1 script had: injection = ... <div id="jp-content">...</div> ...
+        # So removing the block removes the content.
+        # BUT wait, the ID "jp-content" might duplicate if not careful.
+        # The regex above removes the whole block.
         # print("  [UPDATE] Re-injecting...")
     
     # Target insertion point: Before <div class="translated-content">
     # If not found, try <blockquote>
+    # If not found, try <div id="content"> (some generic ones)
     
     target_pattern = r'(<div class="translated-content">)'
     if not re.search(target_pattern, content):
         target_pattern = r'(<blockquote>)'
         if not re.search(target_pattern, content):
-            print(f"  [SKIP] No target div/blockquote found in {html_path}")
-            return False
+            # Fallback for pages that might use <div id="main"> or similar
+            target_pattern = r'(<div id="main">|<body>)'
+            # But putting it at body start might be ugly.
+            # Let's stick to translated-content or blockquote for safety, 
+            # or try to find Portuguese header?
+            # Audit said 101 files missing. They almost certainly have "blockquote" or similar.
+            pass
+
+    if not re.search(target_pattern, content):
+        print(f"  [SKIP] No target div/blockquote found in {html_path}")
+        return False
 
     # Create Injection Block
     # We embed the JP content in a hidden div
     safe_jp = format_japanese_text(jp_content)
+    
+    # Updated Toggle Logic to be robust against nesting
+    # We use specific IDs and try not to break layout
     
     injection = f"""
 <!-- LANGUAGE TOGGLE INJECTED start -->
@@ -87,25 +127,38 @@ def inject_toggle(html_path, jp_content):
 
 <script>
 function toggleLang(lang) {{
-    const ptContent = document.querySelector('.translated-content') || document.querySelector('blockquote');
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {{
+        let el = document.querySelector(s);
+        if (el) {{
+            ptContent = el;
+            break;
+        }}
+    }}
+    
     const jpContent = document.getElementById('jp-content');
     const btnPt = document.getElementById('btn-pt');
     const btnJp = document.getElementById('btn-jp');
 
+    if (!ptContent && !jpContent) return;
+
     if (lang === 'jp') {{
-        ptContent.style.display = 'none';
-        jpContent.style.display = 'block';
-        btnPt.style.background = '#ddd';
-        btnPt.style.color = '#333';
-        btnJp.style.background = '#4CAF50';
-        btnJp.style.color = 'white';
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) {{ btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }}
+        if (btnJp) {{ btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }}
     }} else {{
-        ptContent.style.display = 'block';
-        jpContent.style.display = 'none';
-        btnPt.style.background = '#4CAF50';
-        btnPt.style.color = 'white';
-        btnJp.style.background = '#ddd';
-        btnJp.style.color = '#333';
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) {{ btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }}
+        if (btnJp) {{ btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }}
     }}
 }}
 </script>
@@ -113,6 +166,8 @@ function toggleLang(lang) {{
 """
     
     # Inject
+    # We replace the target start tag with "Injection + Target Start Tag"
+    # This places the toggle bar ABOVE the content.
     new_content = re.sub(target_pattern, injection + r'\1', content, count=1)
     
     with open(html_path, 'w', encoding='utf-8') as f:
@@ -125,31 +180,32 @@ def main():
     translations = load_translations()
     
     count = 0
-    total = 0
+    
+    print("Starting Injection Process...")
     
     for item in index:
         url = item.get('url')
-        if not url: continue
+        if not url or not url.endswith('.html'): continue
         
-        # Determine local path
-        # URL is relative to root? No, usually relative to something else or absolute in web server terms
-        # But we are in root. let's check.
-        # url examples: "search1/shi/joron24.html"
-        
-        local_path = os.path.join(PROJECT_ROOT, url)
-        # Handle query params if any (shouldn't be in static paths but good to be safe)
-        if '?' in local_path: local_path = local_path.split('?')[0]
-        
+        # skip if no translation available to save time finding path
+        # But we need path to verify existence. 
+        # Actually checking translation first is faster than IO.
         jp_text = get_japanese_content(item, translations)
         if not jp_text:
-            # print(f"No JP text for {item['id']}")
             continue
 
+        local_path = resolve_path(url)
+        if not local_path:
+            # print(f"  [NOT FOUND] {url}")
+            continue
+        
+        # Inject
         if inject_toggle(local_path, jp_text):
             count += 1
-            print(f"Injected {item['id']} -> {local_path}")
+            if count % 100 == 0:
+                print(f"Processed {count} files...")
         
-    print(f"Finished. Injected {count} files.")
+    print(f"Finished. Successfully injected {count} files.")
 
 if __name__ == "__main__":
     main()

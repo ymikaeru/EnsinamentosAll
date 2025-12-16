@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Cura Completa do Filho Acometido pela Loucura</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 発狂の息子全快 『アメリカを救う』昭和28(1953)年1月1日発行 福岡県 光宝大教会 青柳俊郎（48） 謹んで明主様の御前に感謝の御報告をさせて戴きます。<br><br> 私の家は、私共夫婦と養子の三人暮しにて仲睦まじく暮しておりました。<br><br>ところが昭和二十四年二月頃より息子（養子十七歳）の様子が少し変だと思いながらも、二カ月程たってのある日、私は温泉に行っておりました。<br><br>すると養子の里から「息子が精神異常だから早く帰って来てくれ」と電報が来ました。<br><br>驚いて急ぎ家にかえりますと、常とは全く異っており、男の事故乱暴をしますので病院へ入院させる事に親族会議で決めました。<br><br>その診断の結果は「精神分裂症」とかで、「一カ月入院すれば正気になり、二カ月位で退院になるでしよう」との事でしたが、二カ月過ぎても、三カ月過ぎても常人に還らないばかりか、却って体は衰弱して参り、四カ月もたちますと衰弱激しく、生命さえ危篤となりました。<br><br>それで又親族の者と相談しまして退院させ、牢を作って入れておりました。<br><br>ちょうどその時です。<br><br>知合の森あや子様達が見舞に来られて、「私共が信仰している救世教に御縋り申し上げるより外に道が無い」と熱心にすすめられますので、私と妻と二人早速御教修をお受けさせて戴き、御守様を拝受させて戴きました。<br><br>そうして早速息子に御浄霊の御取次をさせて戴きますと、急激に変って行きまして、十五日位で牢より出しても良い状態にまでなりました。<br><br>この時の嬉しさ、僅か三日間の御教修を受けただけの私達がこれ程までの御力を戴けますとは想像だにしませんでした。<br><br>全く何と御礼申し上げてよいか言葉もございません。<br><br>それから一カ月位致しますと、悪い事もしなくなり、言う事を良く聞くようになりました。<br><br>十一月頃より、農家の事とて稲刈に忙しくなって来ましたので、一緒に田に連れてゆきますとよく手伝もするのです。<br><br>そうして現在までに随分変らせて戴き、ただ今では普通人と大差ない程に御救い賜わりましたので御座います。<br><br>ただ時折当時の注射の薬毒のため、少しずつ御浄化を賜わる程度で、御蔭様で不治の狂人、廃人同様の人間一人を完全に神様は御救い下されたのでございます。<br><br> 明主様、有難うございました。<br><br>ただただ感謝感激で一杯で御座います。<br><br>この上は地上天国御建設に拙い者ではございますが、天国の福音を世の皆様にお伝えさせて戴く念願でございます。<br><br>有難うございました。<br><br>御礼申し上げさせて戴きます。<br><br> （昭和二十七年一月一日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Cura Completa do Filho Acometido pela Loucura</h2>
 <p>Toshiro Aoyagi (48 anos)
 Grande Igreja Koho, Província de Fukuoka</p>
 <p>Apresento, com a mais profunda reverência, este meu relato de gratidão a Meishu-Sama.</p>

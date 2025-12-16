@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Até que Toda a Família Fosse Salva</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 一家が救われるまで 自観叢書第1篇『結核と神霊療法』昭和24(1949)年6月25日発行 三重県 日本五六七教光栄会 宇佐美正枝（20） 私は昭和二十二年希望溢れる十八歳の七月恐ろしい結核に罹りました。<br><br>五カ月間の長い病院生活が続き一進一退なので家に帰りました。<br><br>家に帰っても絶対安静でちっともよくなりません。<br><br> 母は心配して御医者様ではとても治らないと言って色々信仰していましたが、何の利益も頂けなく、前途の希望もどこへやら暗黒に閉ざされた毎日を送り、白く青ざめた私の顔をみてはあちらこちらと救わるる道を求めるに懸命でした。<br><br> その時どういう御引合せだったのか、電車の中で思いがけなく見合わした人が秦先生の御母様だったのです。<br><br>有難い観音様のいわれを聞かされ、早速私の病気の浄霊をお願いしたのです。<br><br>その後秦先生にきて頂いた時私は尊い御力におどろいてしまいました。<br><br>その翌日桑名へ渡辺先生が来て下さる日だから是非水谷先生宅へ行くようにと聞かされました。<br><br>私の体を心配されて父や兄が反対しましたが、素晴らしいお力を知った私はどんな事があっても又誰が何と止めても行くときめていたのです。<br><br> 仕方なく桑名まで送ってくれたのがもとで兄も教修を頂き、私は信徒に入って浄霊を受け、身も心も地獄から救われたように明るくなりました。<br><br>それから秦先生の御浄霊を受ける中に病はどこかへ去ってしまいました。<br><br>その間には下痢が不思議なほど出ましたがこの大きな御利益で片足棺桶に突込んでいた体が健康体に変り働けるようになった喜びは筆舌には表わせません。<br><br> これも皆諸先生の御指導と御苦労のお蔭と感謝致しております。<br><br>そして私の頂く御利益に家中の者が喜び皆お光を頂き、偉大な観音様のお手伝いをさせて頂くよう一生懸命です。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Até que Toda a Família Fosse Salva</h2>
 <p><strong>Jikan Sosho, Volume 1: “Tuberculose e a Terapia Divina”, publicado em 25 de junho de 1949.</strong>
 <strong>Ussami Massae (20), Igreja Kouei da Sekaikyuseikyou do Japão, Província de Mie.</strong></p>
 <p>No mês de julho de 1947, aos dezoito anos e em plena efervescência da esperança juvenil, fui acometida pela terrível tuberculose. Seguiram-se cinco longos meses de internação hospitalar, mas, com um prognóstico oscilante e sem melhoras consistentes, retornei ao lar. Contudo, mesmo em casa e sob ordens de absoluto repouso, meu estado de saúde não apresentava qualquer progresso.</p>

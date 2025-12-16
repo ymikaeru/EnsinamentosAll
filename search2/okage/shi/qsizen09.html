@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Balanço do Segundo Ano da Agricultura Natural (Publicado na revista Eikou, nº 141, de 30 de janeiro de 1952)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 自然栽培二年目の実績 『栄光』141号、昭和27(1952)年1月30日 （革）自然農法解説に収録 福岡県 光宝大教会 岡 栄（43） 自然栽培二年目の結果を御報告させて戴きます。<br><br> 五月十日に播種し、初めは順調に生育しておりました。<br><br>六月十三日に田植し、御浄霊を続けておりましたが、御浄霊がとかく不足勝ちとなっておりました。<br><br>丁度出穂時期に道路側のところが少し赤くなりはじめました。<br><br>最初は気にも止めず御浄霊をいたしておりましたが、途中四、五日留守をし帰って見ますと、そこが前よりも大きく拡がっております。<br><br>「これはしまった、虫にやられた」と内心動揺を感じました。<br><br>御浄霊不足のためだと早速おわび申し上げ毎日御浄霊を続けました。<br><br>しかし虫害は減る模様でもなく、田全体にしらけて来ましたので、思い切って普通より十七日ばかり早く刈り取りました。<br><br>私の見当では反当り七俵位だろうと思ってましたところ、籾摺って見てびっくりいたしました。<br><br>八俵半もあったのです。<br><br>虫害を受け、その上ずっと早刈りして八俵半もあったのです。<br><br>これは近所の有肥米よりもずっと多く普通七俵位でした。<br><br>虫害を受けずに順調にいったなら九俵は間違いなしとの自信を得ました。<br><br> 今後益々一生懸命に自然栽培をさしていただき、少しでも御神意に沿い奉らんとお念じ申し上げております。<br><br> 明主様まことに有難うございました。<br><br>厚く厚く御礼申し上げます。<br><br> （昭和二十七年一月二十二日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Balanço do Segundo Ano da Agricultura Natural (Publicado na revista Eikou, nº 141, de 30 de janeiro de 1952)</h2>
 <p>Oka Sakae (43 anos)
 Igreja Koho, Província de Fukuoka</p>
 <p>Permitam-me relatar os resultados obtidos em meu segundo ano de prática da Agricultura Natural.</p>

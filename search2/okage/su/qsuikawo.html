@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Salva da Calamidade das Águas</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 水禍より逃れて 『地上天国』1号、昭和23(1948)年12月1日発行 自観叢書第4篇『奇蹟物語』昭和24(1949)年10月5日発行 兵庫県 日本五六七教大栄会 小西康代 二日間に渡り降り続いた豪雨が二十一日未明より雷を伴い、兵庫県下一帯を襲いました。<br><br>日頃水量の少ないこの辺の河水はグングン増水し数カ所決壊しました。<br><br> 私の住んでいる良元村に約三千坪の弁天池という池があります。<br><br>地形上この辺は傾斜がきつく池は割合高いところにあります。<br><br>弁天池は山から流れ落ちる濁水で渦を巻きゴウゴウと水鳴が起きました。<br><br>雷雨に夢破られた村人達の必死の砂防工事の甲斐もなく、遂に堤防は十五米にわたり決壊口を開けました。<br><br> 私の家から百米程離れた所で丁度弁天池が約五十米離れた低地に、会員の浦山さんの家がありますので危険とみて、浦山さんの避難の手伝いに行きました。<br><br>最初安全な場所へ荷物を運び、すぐ引返してくるともうその時は浦山さんの家へは入る事も出来ませんでしたので私はすぐ自宅へ移りますと、早や水は私の家の玄関まで来ていました。<br><br>水量は増す一方なので私は光明如来様の御前に額き心をこめて御願い致しました。<br><br>そして縁先へ出て、一生懸命浄霊をしますと暫くして、不思議にも玄関へ来ていた水は、すーと引いて行きました。<br><br>私は嬉しく思いながらなおも水の引く様子をみていますと、満水の弁天池から余勢を駆って流れ出た奔流は土砂樹木と共に渦を巻きながら、この良元村の集落は一瞬にして濁流に呑まれました。<br><br>時も経って一応水が引いた後で、人に聞くと良元村は濁流の中心地だったそうです。<br><br>この中にあって私の家は何ら被害もなく無事水禍を逃れる事の出来ましたのは、ただただ観音様の有難い御利益と感謝しています。<br><br>翌々日二十三日にいつも御指導を受けている和歌山の中谷先生に御報告するようとのお話でしたので、水禍より逃れ得た喜びと御利益を感謝しつつ御報告させていただきます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Salva da Calamidade das Águas</h2>
 <p>Yasuyo Konishi
 Igreja Miroku, Associação Daiei – Província de Hyogo</p>
 <p>A chuva torrencial que se estendeu por dois dias, acompanhada de trovões desde a madrugada do dia 21, assolou toda a província de Hyogo. As águas dos rios desta região, cujo volume é habitualmente baixo, aumentaram vertiginosamente, rompendo suas margens em diversos pontos.</p>

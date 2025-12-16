@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Da Cegueira à Luz (A Profunda Emoção pela Cura de uma Grave Enfermidade)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 盲目から光明へ 難症が快癒し感激 『救世』54号、昭和25(1950)年3月18日発行 岩手県 愛和中教会 菊地フミ（25） 私は八歳の年から二十四歳迄目を病み一人歩きの出来ない人間となりました。<br><br>勿論入院致し手術も眼球注射も致したつもりですが、すればする程見えなくなって行くのでした。<br><br>私は見えない眼も一生懸命に医師に通ったならきっと見えるようにして戴ける事と信じていました。<br><br>またそれが医者の仕事だと思ったのに事実はそれと反対でその悔しさはたまらない思いでした。<br><br> ある時病院通いの途中バスの中で見知らぬ人に「あなたは目が悪いのですね」と尋ねられ、私は「はい」と答えますと、「病院へ行って前より悪くなりませんか」と笑いながら言うのです。<br><br>「通えば通う程だんだん見えなくなるのに気が付きませんか。<br><br>それ以上通えば全然見えなくなりますよ、見えなくなったら藤根に光明如来様の教導所がありますからそこへお出でなさい。<br><br>そこは眼に見えない神即ち光明如来様の御力に依りあなたのような方や医者が治せぬ難病を殆ど全快させて下さる所ですよ、是非行って御覧なさい」と親切に教えて下さいました。<br><br>またその時は恐ろしくて何もいう事が出来ませんでした。<br><br> 見ず知らずの人の親切にうっかり乗ってどこかへ連れて行かれてはと思いそれが怖ろしかったのです。<br><br>私はそのまま気にも止めず、病院通いをせっせと続けましたところがその方のお言葉通りついに目が見えなくなってしまいました。<br><br> 私はあの時の事を今更のように思い出し教えられた教導所へ妹に手を引かれて行きました。<br><br>早速先生にお願いして浄霊をして戴きました。<br><br> 「一週間位続けて御覧なさい」とおっしゃられましたが、一週間どころか丁度三日目より一人でふらふらながら歩けるようになりました私は、先生のおっしゃるままに光明如来様にお縋りしました。<br><br>先生のお話に依りますとお守様を戴けばいかなる悩みもどんな病気でも短期間で治ってしまいます。<br><br>急性肺炎、盲腸の手後れ、日本脳炎又は馬の脳炎これらの病気なら一週間位で治ってしまいます。<br><br>百発百中心配無用、しかも教修うければあなたにもそれが出来るのです。<br><br>相手の患部に向い手を振るだけで良いのです。<br><br>先方の身体の曇りを浄霊に依って浄めますと相手の苦しみは取れまして絶対に再発する事は有りませんと聞かされ早速お守り様を戴きました。<br><br>その後一人歩きも自由に出来るようになり余りの有難さに光明如来様迄お迎え、御祭りをさせて戴いております。<br><br>その後私は横手愛和会教導所へ感謝の御奉仕をさせて戴いておりますが、その間医者で治らぬ重病人の実地にあまりにも多く治って行くのを見て驚歎のほかありません。<br><br>そればかりか、自分は十七年間悩み苦しみ続けて来たこの目が見えるようになった事をいかにして否定出来ましょうか。<br><br>事実の現われない理論を私は無論インチキ迷信と言いたくなります。<br><br> 理論を信じて事実を否定する人以外の皆様に光明如来様の御力に救われて喜ぶ人々の余りにも多い事を御紹介致しますと共に、事実を信じて一日も早く悩みから救われたい皆々様にぜひ眼に見えない神、即ち光明如来様の信徒になられるようおすすめ致します。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Da Cegueira à Luz (A Profunda Emoção pela Cura de uma Grave Enfermidade)</h2>
 <p><em>Publicado na Edição 54 da Revista Kyusei, em 18 de março de 1950</em></p>
 <p>Igreja Aiwa-Naka, Província de Iwate | Fumi Kikuchi (25 anos)</p>
 <p>Aos oito anos de idade, fui acometida por uma enfermidade ocular que, ao longo do tempo, progrediu até me privar, aos vinte e quatro anos, da capacidade de caminhar desacompanhada. Submeti-me, naturalmente, a internações, cirurgias e até mesmo injeções intraoculares; contudo, quanto mais tratamentos realizava, mais a minha visão se deteriorava. Eu nutria a firme convicção de que, ao perseverar no acompanhamento médico, meus olhos seriam restaurados, pois acreditava ser essa a missão de um médico. A realidade, entretanto, mostrou-se diametralmente oposta, e o sentimento de frustração que me invadiu foi verdadeiramente insuportável.</p>

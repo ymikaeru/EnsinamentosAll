@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O milagre do caminhão que caiu do despenhadeiro</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 崖より転落のトラックの奇蹟 『栄光』155号、昭和27(1952)年5月7日発行 京都府 実生中教会 小林伊太郎（47） 日々御守護の下に安らかに過さして戴いている一信者でございます。<br><br> 私の入信の動機は、一家蛔虫に悩まされている時でした。<br><br>知合の方から「手を翳しただけで病気は治り蛔虫も下る」との御話を承りましたが、さんざん薬をのみ、そのため副作用を起し、胃腸を害し苦しんでいるにもかかわらず、そんな事で治るかしらと思いながらも、矢張り苦痛の激しさに、とにかく御縋りする気持になりました。<br><br>吉田先生が来て下さいまして御浄霊を戴きました。<br><br>二回、三回と続けますうちに、三匹、五匹と次々下して戴き、すっかり元気になり、今日まで知らなかった有難い偉大なる神様の御力に御縋り申し上ぐる気になって昭和二十三年十月八日入信致し、御神体も御奉斎申し上げ、家内を始めとして光明一家に変ったのであります。<br><br>私は八人の子女を授っておりますが、その後一人残らず下痢又は疥癬等次々と激しい御浄化を戴きましたが、御守護によりまして一同元気となりまして、感謝の日を重ねさして戴いております。<br><br> 私はトラックの運転を致しております。<br><br>この度業務上におきまして一命を御救い戴いた大いなる御守護を謹んで御礼と共に御報告申し上げます。<br><br>昭和二十六年十一月二十七日、丹波へ貨物を運搬し、午後六時頃丹波街道を京都への帰途桂まで参りますと、向うから五、六台の自転車がライトを点けて連なって走って来ました。<br><br>既に日は暮れており道路の境界もハッキリ見えませんでした。<br><br>自転車を避けようとして、ハンドルを右に切りますと、右前車輪が道路より外れ、はっと思う間に十数尺ある崖へすべり落ちて行きました。<br><br>田の中へ突込むと同時に二回横転致しました。<br><br>落ちて行く瞬間もう駄目だと頭へ強くひびきましたが、常日頃明主様をお念じ致しております御蔭にて「御任せだ！！」と覚らせて戴きました。<br><br>助手は「助けてくれ！」と一声叫んだきりでございます。<br><br>私は気は確かでありました。<br><br>そしてやっとの事で車外へ這い出し、助手はどうしたかとあたりを見廻すと、いつ助手台から脱け出したのか、茫然と闇の中に突っ立っております。<br><br>側へ寄り声をかけましても返事も致しません。<br><br>身体に触れて見ますとすっかり冷いのでございます。<br><br>ハッとして二、三回大声で呼び続けますと漸く気がつき、体温も出て参りました。<br><br>身体を調べて見ますと打撲傷一つ受けておりません。<br><br>また私自身も無事であります。<br><br>何という不思議さ、全く明主様が御救い下すったのであります。<br><br>その時の嬉しさは到底筆舌にては現わせません。<br><br>御想像下さいませ。<br><br>私はただ明主様有難うございますと感涙と共に御礼申し上げました。<br><br>翌日現場へ車を引き揚げに参りました時も、相当の破損は覚悟しておりましたのに、ライトの硝子が少しひびが入るだけで他に何の異常はありません。<br><br>不思議とも何とも十数尺の高さから地面へ激突してこの奇蹟。<br><br>御守護の有難さに東に向い、重ねて御礼申し上げました。<br><br> この尊い体験により絶対力による御守護を戴く信者の有難さを心から覚らせて戴き、また大峠の近みつつある今日、一人でも多くの人に分って貰えるよう精進する事を妻と共に御神前に御誓い申し上げました。<br><br> 明主様有難く御礼申し上げます。<br><br> （昭和二十七年四月十七日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O milagre do caminhão que caiu do despenhadeiro</h2>
 <p>Publicado na revista Eikou, nº 155, em 7 de maio de 1952
 Igreja Misho Naka, Província de Kyoto
 Itaro Kobayashi (47 anos)</p>

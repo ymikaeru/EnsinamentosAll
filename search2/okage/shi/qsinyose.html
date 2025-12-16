@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Um caso exemplar de incredulidade: O despertar para o arrependimento</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 信用せぬ実例 目が覚め詫びる紋切型 『救世』52号、昭和25(1950)年3月4日発行 広島県 陽光中教会 榊原 堅（21） 私は十三歳の十月頃ふとした事から足を悪くし、医者から医者へ転々と移り、あるる病院では二年間も入院して大手術を三回、小手術を三回も受けました。<br><br>その七年間の私の生活は、病気のためまったく暗黒そのものの世界でありました。<br><br>最初の骨髄骨膜炎に加えて十五歳の時から関節炎、更に胃病と痔に苦しみ、とうてい筆や言葉では現わせない位の状態でした。<br><br> 今年の五月、母が工場に働きに行きましたら平さんと言う方から『救世』新聞を五、六枚借りてまいりました。<br><br>宗教で病気が治るなら、医者や薬もいらないではないかと言って私はまったく相手にしませんでした。<br><br>それから二、三日後痔の痛みを我慢して布団にもぐっておりますと、平さんが来られ、御浄霊して下さいました。<br><br>すると不思議に体が熱くなり痔の痛みが拭うように取れました。<br><br>その後再び痛み出した時、又いつもの通り生薬を挿しますと猛烈に痛み出し七転八倒の苦しみをしておりますと、平さんが来られ又御浄霊してもらいました。<br><br>再び痛みは嘘のように取れてしまいました。<br><br>それからは毎日御浄霊を戴きました。<br><br>胃の痛みも取れ、関節炎もよくなって今では完全に治して戴きました。<br><br>それでも私は神様の御力によって救われたのだとは思わなかったのです。<br><br>何んと言う愚かな私だったでしょう。<br><br>それでも神様の大いなる御心の御蔭をもって御教修を戴く機会を与えられました。<br><br>教修二日目眼前で不思議な奇蹟を見せられ、最早疑えと言われても疑えない、信ずるなと言われても信ぜざるを得ない気持になりました。<br><br>その外、日々奇蹟の連続で御座居ます。<br><br>日なお浅い私にこうして偉大なる御力を御示し下さるのも、神様の実在を知らして下さいます大御心とただ有難き極みでございます。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Um caso exemplar de incredulidade: O despertar para o arrependimento</h2>
 <p><em>Publicado na revista “Kyusei”, nº 52, em 4 de março de 1950</em></p>
 <p>Província de Hiroshima, Igreja Yoko Naka
 Sakakibara Ken (21 anos)</p>

@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Terapia Revolucionária para a Tuberculose</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 私の幸福 『結核の革命的療法』昭和26(1951)年8月15日発行 静岡県 みのり中教会 松井寿夫（21） 二十四年の一月から三月の二カ月間、私は肺浸潤の病名に地獄の道を横須賀の某病院に過していました。<br><br> この事は幸か不幸か、私にとって実に意義の深い事で、それは叔母以外誰にも知らせてない入院に、翌日突然今日死ぬか明日死ぬかと人に騒がれた肺結核だった叔父が、病院の長い坂を登って、シャンとした姿をして、 叔父「お前の病気を治しに来た」と。<br><br>私の驚き、否側にいた叔母もおどろいた事は勿論でした。<br><br> 浄霊が終って叔父が帰って行った後、私は一人で考えていた。<br><br>「手を振って霊気というものが出て病気を治す」「薬は服まない方がいいよ」「気が進まなければいくら入院していても構わないから」「未だお前達には解らない」少しは楽になったが何だか変だ。<br><br>叔父の言った事と私の考える事が交叉し、考える程虚空に駆られて行く、とにかくわざわざ遠い山梨より来て、浄霊して下さったのだ。<br><br> 退院してからは紹介された逗子の教会に通い始めそれから二日目に会社に出勤、続いて夜学に通い、なお昼休みにはテニスなどをしたが、それでも別に身体に異状はなく、反って気持が愉快になって来た。<br><br>その頃より私の胸に光明が射して来たのだ。<br><br>そうなるとただもうお守が戴きたくなり、光明如来様に日夜お願いしました。<br><br>すると奇蹟にも、受教修御礼額と同額の突破資金と、光明如来様を拝受するお礼と同額のボーナス等、相続いての入金に感泣した。<br><br>私は神の大愛に、その厚い御霊衣に包まれている。<br><br>そして御先祖様の導きなのだ。<br><br>ただ一人嬉しさの余り手の舞い足のふむ所を知らなかった。<br><br>こうして大いなる神の御恵みに勿体ない程幸福な生活を送らしていただいています。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Terapia Revolucionária para a Tuberculose</h2>
 <p><strong>Publicado em 15 de agosto de 1951</strong>
 <strong>Minha Felicidade</strong>
 <strong>Matsui Toshio (21 anos)</strong>

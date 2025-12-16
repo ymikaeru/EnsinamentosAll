@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Bicho-da-seda e o Cultivo sem Adubo (Da Coleção de Escritos Jikan – Parte 2: “O Método do Cultivo sem Adubo”)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 蚕と無肥料栽培 自観叢書第2篇『無肥料栽培法』昭和24(1949)年7月1日発行 兵庫県 日本観音教天国会実生分会 森山実太郎氏談 島根県美濃郡高城村の石川勇氏は養蚕技師であるが、同氏の御話は御道の為中々示唆に富んでいる。<br><br>いわく「戦争中養蚕は食糧増産の犠牲となって、桑畑は麦畑とかわり、肥料の配給は激減した。<br><br>だが蚕の成績品質はそんな悪条件下にもかかわらず良好であった。<br><br>しかるに戦後再び桑畑は拡張され、肥料は続々配給され、蚕の収量は増加したが品質は案外よくない。<br><br>殊に昨年秋蚕（あきご）は、上蔟（じょうぞく）間際に蚕が弱って繭を作り得ないものが続出した。<br><br>これは硝安病と言って硝安を多量施肥したための中毒症状だと言う事になった。<br><br>そして今後は桑園に金肥の施肥量を減少し堆肥を増加する事に専門家間で決定したそうである」 同氏はその直後本教の無肥料栽培に関する話を聞かれ共鳴するところあり入信されたのである。<br><br>私達は今後同氏の手に依って有肥無肥の桑葉の蚕に及ぼす影響について科学的、データの作成さるる事を期待している訳であるが、それにつけても化学肥料を大量に施した米麦が知らず識らずの間に人体をいかに害しているかと考え及ぶ時慄然たらざるを得ない。<br><br>その意味からでも私達はこのお道の発展の為に精進しなければならない事を痛感するのである。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Bicho-da-seda e o Cultivo sem Adubo (Da Coleção de Escritos Jikan – Parte 2: “O Método do Cultivo sem Adubo”)</h2>
 <p>Relato do senhor Jitsutaro Moriyama, da Congregação Mibae de Tenga-kai, da Igreja Kannon do Japão, Província de Hyogo.</p>
 <p>O senhor Isamu Ishikawa, técnico em sericicultura residente na vila de Takagi, condado de Mino, província de Shimane, compartilhou um relato sobremaneira elucidativo para o nosso Divino Caminho.</p>
 <p>Ele narra: “Durante a guerra, a sericicultura foi sacrificada em prol do aumento da produção de alimentos. As plantações de amoreiras foram convertidas em campos de trigo e a distribuição de fertilizantes foi drasticamente reduzida. Não obstante, mesmo sob condições tão adversas, o desempenho e a qualidade dos bichos-da-seda foram excelentes.</p>

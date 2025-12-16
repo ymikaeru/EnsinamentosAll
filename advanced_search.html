@@ -728,6 +728,17 @@
                     }
                 };
 
+                // Deep Link Handler
+                const urlParams = new URLSearchParams(window.location.search);
+                const linkedId = urlParams.get('id');
+                if (linkedId) {
+                    const item = searchData.find(i => i.id === linkedId);
+                    if (item) {
+                        // Wait slightly for UI to settle or just open
+                        setTimeout(() => openModal(item), 100);
+                    }
+                }
+
             } catch (e) {
                 console.error(e);
                 dom.grid.innerHTML = '<div style="padding: 1rem; color: red;">Erro ao carregar dados. Verifique se o arquivo Data/advanced_search_index.json existe.</div>';
@@ -952,6 +963,10 @@
         window.closeModal = () => {
             dom.modal.classList.remove('active');
             dom.modalFrame.src = '';
+            // Clear URL param
+            const url = new URL(window.location);
+            url.searchParams.delete('id');
+            window.history.pushState({}, '', url);
         };
 
         // Close modal on click outside
@@ -978,6 +993,11 @@
             // Sidebar logic
             updateModalSidebar(item);
             dom.modal.classList.add('active');
+
+            // Update URL
+            const url = new URL(window.location);
+            url.searchParams.set('id', item.id);
+            window.history.pushState({ id: item.id }, '', url);
         };
 
         window.switchModalView = async (mode) => {

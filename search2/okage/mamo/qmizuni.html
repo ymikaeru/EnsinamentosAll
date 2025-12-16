@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Coração que parara por afogamento volta a bater graças ao Johrei</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 水に溺れ止った心臓御浄霊によって動き出す 『栄光』170号、昭和27(1952)年8月20日発行 佐賀県 光宝大教会 山口みさを（46） 謹んで御守護の御礼を申し上げさせて戴きます。<br><br>去る六月三十日午前十一時過ぎの事でございます。<br><br>甲高い悲痛な声で近所の人達が私の名を呼びますので縁側へ出て見ますと、子供が、水死したとの事、素足のまま飛下りて行って見ますと、近所の山口清一さんの三歳になる娘藤江さんが流れ川に落込んで参っているのを祖母さんが引上げ、道辺で一生懸命蘇生させようと打振ってみたが駄目ですと、近隣の人達数名に取囲まれながら心配していられます。<br><br>私の娘房子もほとんど私と同時に現場に駆付けて参りました。<br><br>皆「もう駄目です。<br><br>死んでしまっている。<br><br>可哀相な事をした」と口々に言っておりました。<br><br>余り強く振ったためか肛門から排便しており、体温は全くなく、唇は紫色に変じ、脈も無論ありません。<br><br>これはもういけないと思いましたが、娘の房子はともかく早く御願いする事です、と、合掌して直ちに御浄霊させて戴きました。<br><br>御浄霊は一人でさせて戴くものと常々御導き頂いていましたが、無意識の内に私も御浄霊させて戴いておりました。<br><br>およそ十分も経った頃で、ございましょうか、かすかに一回心臓の鼓動が打ったようでございました。<br><br>暫くすると三回続いて鼓動致します。<br><br>また暫くして今度はワーンと泣き出し、心臓は確実に動き続けるようになりました。<br><br>そして次第に血色を取戻して参りました。<br><br>その時の嬉しさ、有難さは何と申し上げてよいやら、筆にも言葉にも申し述べられません。<br><br>眼頭がジーンと熱くなって参りました。<br><br>「よかったよかった」と皆が自分の子が救われたかのように喜び「あなた方が来て下さらなかったら恐らく藤江ちゃんは甦っていませんよ」と口々に感謝していられました。<br><br>野良に仕事に出て留守だった両親は急報に接し「とうとう殺してしまった」と取りみだし、涙ながらに息もせき切って帰って来られましたが、この様子を見て二度吃驚でございました。<br><br>なお、祖母さんは「孫を自分の監督不行届きのため殺したのだから、蘇生しなかったら嫁に申訳ないから自決を覚悟していた」と語られました。<br><br>この奇蹟で貴い二人の命を救っていただきました。<br><br> 常々私達一家が御道に入らして戴いているのを「真宗の家に生まれながら外道に迷う」と笑っていられるのですが、この度だけは流石に涙を流して感謝して下さいました。<br><br> この奇蹟は、藤江ちゃんに対する御守護に止まるものではなく、ややもすれば薄れ勝な私達の信仰をより深くして下さるための神様の大慈悲であり、奇蹟だったと一家御神前に額ずき御礼を申し上げさせて戴きました。<br><br>ただ今ではこの奇蹟が村の話題として賑っているようでございます。<br><br> 明主様御守護誠に有難うございました。<br><br>重ねて厚く御礼申し上げます。<br><br> （昭和二十七年八月二十日）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Coração que parara por afogamento volta a bater graças ao Johrei</h2>
 <p>Publicado na revista Glória, nº 170, de 20 de agosto de 1952
 Testemunho de Misao Yamaguchi (46 anos), da Grande Igreja Koho, província de Saga</p>
 <p>Com a mais profunda reverência, permitam-me expressar minha gratidão pela sublime proteção recebida.</p>

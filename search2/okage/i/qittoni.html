@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>“Um arroz que beira a primeira classe”: O exemplo de um arroz de segunda categoria no segundo ano da Agricultura Natural</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 「一等に近い米だ」と見本になる 自然農法二年目の二等米 『栄光』198号、昭和28(1953)年3月4日 （革）自然農法解説に収録 埼玉県 宝生中教会 飯島新市（45） 自然栽培第二年目の成績を報告させて戴きます。<br><br>一昨年の経験と明主様の御教えを信じ、本年こそはと意気込んで実地に当りました。<br><br>田が八反三畝、畑が六反歩、二人で耕作いたしております関係で、少量の藁約四十貫ほど入れました。<br><br>昨年は当地一帯は特に病虫害ひどく、大変心配いたしましたが、早稲種にて五俵ほどありました。<br><br>一般は三、四俵が普通でしたがそれ以上の成績を頂きました。<br><br>中生種は六俵で、最高七俵でした。<br><br>特に品質良好にて供出しました等級は二等と三等ばかりでした。<br><br>特に二等の等級は本村でも何俵もなく、米の検査官が「一等に近い米だ」と言って、見本に持って行きました。<br><br>穫れました悪い米を供出しましたが、全部二等、三等でして、世間の人が「珍らしい、不思議だ」と言いだし、最近漸く関心を持つようになりました。<br><br>近年は農作物の浄化が特に強くなり、今後の食糧問題が暗雲に閉されている時、明主様のこの農法により、農村不況打開に邁進いたす覚悟を新たにしております。<br><br>何卒活躍出来得ますよう、御守護のほどお願い申し上げます。<br><br> （昭和二十八年二月十六日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>“Um arroz que beira a primeira classe”: O exemplo de um arroz de segunda categoria no segundo ano da Agricultura Natural</h2>
 <p><strong>Revista Eikou, nº 198, 4 de março de 1953</strong></p>
 <p><em>(Incluído na Coletânea “Explanações sobre a Agricultura Natural”)</em></p>
 <p><strong>Igreja Hoshonaka, Saitama</strong>

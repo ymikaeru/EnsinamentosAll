@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Neta com Empiema que foi Salva (Terapia da Fé para a Tuberculose)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 膿胸の孫が救われて 『結核信仰療法』昭和27(1952)年12月1日発行 茨城県 博愛中教会 石塚こう（57） 私は昨二十五年七月十五日に入信させて頂きました者で御座います。<br><br>本日迄に戴きました御蔭の数々は限りがございません。<br><br>厚く御礼申し上げます。<br><br>その中の一つを御礼の心にかえまして御報告させていただきます。<br><br> 実は私は大正九年、日蓮宗に一代法華としての題目講に入れて頂いたので御座いますが、自分と致しましては御利益の程を感謝して過させていただいておりました。<br><br> 二十三年七月に二人目の孫（五歳）を授けられましたが、生れながらの非常な病弱で、幼児の中は何とか医薬もききましたが、昨春頃より薬は絶対にのまなくなり、注射も致させません。<br><br>生れると間もなくから医師に「こんな弱い児は、手なごの甲斐はないでしょう」と度々申されましたけれども、折角この世に生を享けたほんとにいとしい孫を見ごろしにできません。<br><br>薬は口を割いても服用させましたが、注射は死もの狂いで抵抗致しますので、いかんとも致しがたく、一家暗黒の日を過しておりました。<br><br>小児結核と言われましたが、毎日緑便が続きまして食は少く、咳が激しいので、娘と二人つきっきりで看病致しておりましたが、病気は悪化の一方で、とんと困りきっておりました。<br><br> あるお方の勧めにより、本年五月末頃より、御浄霊を戴くようになりましたが、有難い事に便もよくなり、食事も進むようになりまして、家内一同の愁眉を開かせて頂き、まず祖母の私が入信させて頂く事になりました。<br><br>すると教修の第三日目に、突然四十一度の発熱がありまして、私の留守中（受教中）に家の者があわてて医師をむかえてしまいました。<br><br>何の原因か不明なのに用心のためと種々の注射を致したそうです。<br><br> 急報に心もせわしく御守様を頂き、帰宅致しまして、早速御浄霊させて頂きましたが、あまりの高熱故、家人も不安がり、又私も十分自信が持てませず、鈴木先生は素晴しい御浄化と申して下さいましたが、医師は膿胸と申しました。<br><br>医師説と御浄化説とが相対峙しまして一時はどうなる事かと心配の極に達し、二十五日は私の亡母の三回忌に相当致しますので、その日がやはり昇天の日かと、覚悟まで致しました。<br><br>でも私の一心を御浄霊説につらぬき、鈴木先生の御熱心なる真心が神様のお力を頂き流石頑強な膿胸も、手術せずに二週間にて全快をさせて頂きました。<br><br>私共一家の喜びは何にたとえようもなく、ただただ光明如来様に御礼申し上げるより外は御座いませんでした。<br><br> 医師は「この度の膿胸は治しても、この秋に風邪をひけば駄目ですよ」と幾度か繰返して申しましたけれども、その後風邪も引きました、淋巴腺も腫らしました、下痢も致しました、中耳炎も致しました、又口内炎にて食事が十日間出来ない事もありましたが、何ともなく、つぎつぎと御浄化を頂き終らして頂き、今日では「典子ちゃんは命拾いをしましたね」と皆様が申されます。<br><br> 全く明主様の御加護と厚く厚く感謝申し上げております。<br><br>この有難い御道をひろく皆様に御勧め致し、世の多くの方々にわかって頂いて、地上天国の一日も早く来らん事をお願い致し、また御蔭の万分の一の御手伝をさせて頂きたいと日毎御念じ申し上げております。<br><br> 娘二人も昨年八月と本年四月とに入信させて頂き、共に感謝の日々を過させて頂いております。<br><br> ふつつかなる私の真心を乱筆ながら御礼の心のままに書かせて頂きました。<br><br>まことに有難うございました。<br><br> （二十六年九月一日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Neta com Empiema que foi Salva (Terapia da Fé para a Tuberculose)</h2>
 <p>Publicado em 1º de dezembro de 1952
 Kou Ishizuka (57 anos)
 Igreja Hakuaichu, Ibaraki</p>

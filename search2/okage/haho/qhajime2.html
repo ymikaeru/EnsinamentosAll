@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O arroz, inicialmente de aspecto inferior, resulta em uma saca a mais por tan no primeiro ano</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： はじめは見劣りしていた稲 一年目で反当り一俵増収 『栄光』141号、昭和27(1952)年1月30日 （革）自然農法解説に収録 茨城県 宝生中教会 長妻フジ（48） 明主様のおときになる自然耕作一反歩を稲の初年度から耕作させて戴きました。<br><br>植付けてはじめのほどは黄色を帯びて、有肥田の稲に比して発育悪く心配致しておりましたところ、穂の出る時期になりました頃より段々発育良くなり、有肥の方は一反歩の収穫六俵、自然栽培の方は一反歩の収穫は七俵、施肥より一俵多く収穫させて戴きました。<br><br>謹みて御礼申し上げます。<br><br> なお来年は四、五反歩耕作させて戴き度く思っております。<br><br>明主様有難うございました。<br><br> （昭和二十七年七月二十三日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O arroz, inicialmente de aspecto inferior, resulta em uma saca a mais por tan no primeiro ano</h2>
 <p><em>Revista Eikô, nº 141, 30 de janeiro de 1952</em>
 <em>(Publicado na Coletânea sobre a Agricultura Natural)</em></p>
 <p><em>Fuji Nagatsuma (48 anos)</em>

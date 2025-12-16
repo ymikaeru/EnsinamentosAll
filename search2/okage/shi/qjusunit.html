@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Apesar de mais de dez dias de inundação, recebemos a bênção de uma colheita duas vezes maior que a do cultivo com fertilizantes (Extraído da obra “Explicação sobre a Agricultura Natural”)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 十数日の冠水にもめげず有肥の二倍の御恵を頂く 『栄光』198号、昭和28(1953)年3月4日 （革）自然農法解説に収録 岐阜県 清霊中教会 広瀬真行（44） 当地は国鉄ほづみ駅を中心に南北にまたがる村でございます。<br><br>当地方は全国的に有名な紫雲英（レンゲ）種の産地で、終戦後食用菜の栽培と麦作で、全村二毛作田が多いのでございます。<br><br> 二十七年度の自然稲は植付直後十数日間冠水した為、収穫皆無と思うほどでありましたがその後の天候に恵まれ、少いながら穫入れさせて頂けました事を感謝いたします。<br><br>私も自然栽培四年目、お蔭様と父が丈夫に働いてくれますので、私はほとんど父と子供に農業をまかせ、自身は中国、四国地方へ出張させて頂き、僅かに帰宅の折に手伝う程度でございます。<br><br>有肥の方では天候回復と同時に、速効肥料を施されたことと思いますが、私はただ耕起の際、切藁を入れたのみでした。<br><br>全耕地一町二反、平均六俵強の御恵を頂きましたが、有肥の方では三俵半平均位のもあったかに聞いております。<br><br>有肥の方では水害と初秋の虫害でお気の毒な有様だったのに、自然栽培なればこそと思います。<br><br>殊に一毛作田は七俵の御恵を頂き、今後は一毛作でなければだめだとはっきり御教え頂きました。<br><br>ところどころ方々で多くの収穫を聞かされ恥ずかしいように思っておりましたが、立春祭の節御参拝、明主様の「有肥の倍くらい取れるのだ」との御話にこの地方としては約倍の収穫を得させて下さったことに気付きおくれて申訳ありませんが、ありのまま御報告させて頂きます。<br><br>明主様御有難うございました。<br><br> （昭和二十八年二月十日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Apesar de mais de dez dias de inundação, recebemos a bênção de uma colheita duas vezes maior que a do cultivo com fertilizantes (Extraído da obra “Explicação sobre a Agricultura Natural”)</h2>
 <p><em>Publicado na revista Eikou, nº 198, em 4 de março de 1953</em></p>
 <p>Hirose Masayuki (44 anos)
 Igreja Seirei-Chuu, Província de Gifu</p>

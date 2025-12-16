@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>De um futuro sombrio a um mundo de luz (A Terapia Revolucionária da Tuberculose)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help ―― お か げ 話 ―― 資料検索 ： 暗黒の前途も光明の世界へ 『結核の革命的療法』昭和26(1951)年8月15日発行 北海道 愛和中教会 田口健蔵（38） 一昨年十月なんとなく、躯がだるく咳も出て痰も非常に多くなり風邪気味なので、医師の診察を受けた所、レントゲン診断の結果、肺がわるいから当分の間絶対安静を言い渡され、やれカルシウムだそれビタミンだと、毎日のように注射や薬を欠かさず用いましたが、病勢は益々悪化するばかりで、喘息も併発して青ざめた身を失望のドン底に喘ぎながら病床に横たえていました。<br><br> たまたま近所の方に光明如来様の事を聞かされ、溺れるものは藁でもの例で、半分疑いながら茂尻教会の黒澤先生の御浄霊を頂きました。<br><br> ところが約一週間目より気分が非常に軽く、なんとなく元気が出たような心持ちに毎日続けましたが、昨年二月五日に入信さして戴き、その後ずっと光明如来様を礼拝さして頂き、臨時祭には柴田先生の有難いお話をその度毎に聞かして頂いています。<br><br> 最近の健康も周囲の人達も驚く程で、ただただ有難い光明如来様のあつき御恵みに感謝致しております。<br><br> ここに謹んで、明主様に心からなる御礼を申上げる次第であります。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>De um futuro sombrio a um mundo de luz (A Terapia Revolucionária da Tuberculose)</h2>
 <p>Publicado em 15 de agosto de 1951
 Hokkaido, Igreja Aiwachuu
 Kenzo Taguchi (38 anos)</p>

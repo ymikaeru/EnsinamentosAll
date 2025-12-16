@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>A Cura da Tuberculose em Estágio Avançado no Período de uma Semana (A Terapia Revolucionária da Tuberculose)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 二期の肺結核一週間にて 『結核の革命的療法』昭和26(1951)年8月15日発行 山口県 明輪中教会 山路照男（23） 一昨年の八月、不治の病といわれた結核から救われ、神様の大慈悲に感激すると共に、御神業の万分の一も御奉仕出来ればと、ただ今中教会で御奉仕させて戴いています。<br><br>かえりみれば一昨年の五月末頃より体の具合が悪く医師の診断を受けたのですが、夢想もしなかった結核と言われ、しかも既に二期であると言われた時の驚き、親兄弟のなげきは勿論、本人の私の失望はいかばかりでしたでしょうか。<br><br>遠く将来へ大きな夢を抱きつつ希望に満ちていた私にとって、それはあまりにも惨酷な人生の終止符のごとくひびいたのです。<br><br>将来に希望をたくましくし、夢と理想をえがきつつ過して来た私でしたのに、結核という死の宣告により、その夢も理想も一瞬にして打砕かれてしまいました。<br><br>二十一歳の若い身空で、はかなく死んでゆかねばならないのだろうか。<br><br>と思うと情なさに耐えきれず、涙で明け涙で暮れた日々を過していました。<br><br>でも親兄弟の励ましの言葉に力づけられ、一心に治療すれば万が一治るかも知れぬと、淡い一条の希望は捨てませんでした。<br><br>そうして一カ月二カ月と治療をつづけ、二カ月過ぎた頃少し位良くなってはいないだろうかと胸をときめかせながら、再び医師の門を叩き診断をうけたのですが、ああ何という事でしょう。<br><br>良くなる所か、良かった右肺迄も侵されているではありませんか。<br><br>治る所か一歩一歩と知らぬうちに死の世界へと近よっておったのです。<br><br>今は全く光明を失い、一条の希望も消え去り、暗黒の世界の中に静かに死を待つべく、淋しく日々を過しておったのであります。<br><br>再び人生の光明を見出すとは夢にも思わず、暗澹として病床に横たわっていた私ですが、何という有難い事でございましょう。<br><br>夢にも思わなかった人生の光明を、神の御慈悲の御手によって見出す事が出来たのでございます。<br><br>それは八月の初め頃、知合の信者の方が私方に煙草の火を借りに寄られ、是非御浄霊を受けてみなさい。<br><br>きっと良くなるからと大変すすめて下さいました。<br><br>このお道の事は早くから知ってはいましたが、今日までそれにすがってみようと思った事もなかったのですが、こうしてすすめられてみると、そうだ今は静かに死を待っている自分なのだ。<br><br>救われるものなら救って戴きたいと藁をつかむ思いで御すがりしたのです。<br><br>一日二日と御浄霊を受けている中に、何と不思議な事でございましょう。<br><br>ぐんぐん身体が元気になるではありませんか。<br><br>その時の喜び、私は救われるのだ。<br><br>以前のような元気な体になる事が出来るのだと思うと、嬉しさはたとえようもなく、すべての治療を一度にやめ、一心におすがりしたのでございます。<br><br>そうして僅か一週間過ぎた頃には全く元気になり、これが数日前までは、暗澹とした想いで死を覚悟していた私なのかと思うと、全く神様の偉大な御力に感激の外はなかったのでございます。<br><br>今はどうして信じない訳にゆくでしょう。<br><br>早速入信鬼頭先生より有難いお守様を戴き、御神業の万分の一にも御報いし奉らんと固い決意にもえたのでありました。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>A Cura da Tuberculose em Estágio Avançado no Período de uma Semana (A Terapia Revolucionária da Tuberculose)</h2>
 <p><strong>Publicado em 15 de agosto de 1951</strong>
 <strong>Igreja Meiwa, Província de Yamaguchi</strong>
 <strong>Teruo Yamaji (23 anos)</strong></p>

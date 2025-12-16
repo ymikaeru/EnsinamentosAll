@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O arrozal que não recebeu adubo orgânico obteve os melhores resultados (Da coletânea “Explicação sobre a Agricultura Natural”)</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 堆肥を入れぬ田が最高の成績 『栄光』198号、昭和28(1953)年3月4日 （革）自然農法解説に収録 埼玉県 宝生中教会 山崎東一（54） 謹んで自然栽培二年目の結果を報告させて頂きます。<br><br>一昨年一町三反歩余全部切り替えまして、思ったより良い成績を戴きまして、昨年は自信をもって実行に当りました。<br><br>私のところは人手も無く、実労働人員三名でして、その上田圃があちこち広範囲にわたっておりまして、思うような手入れも出来ず、全くの無肥栽培も三反歩程ありまして、その外は藁少々と御教えに反して生草を反当五十貫程入れました。<br><br>一年目より苗代も順調に進みまして、植付後も順調に成育しましたが、意外にも当地一帯にわたり病虫害発生致し、一般有肥は一昨年より一俵半より二俵位減収しましたが、お蔭様にて早稲にて四俵半程ありました。<br><br>一般有肥は三俵から四俵止りでした。<br><br>早稲は病虫害後の立直りが遅れました関係と、期間が短い故少なかったように思われました。<br><br> 中生種は六俵程でして、最高七俵半程あり、平均して五俵半程ありました。<br><br>有肥ですと平均五俵位でしたが、御蔭様にて有肥を上廻る成績を頂きまして誠に有難うございました。<br><br>明主様の御教え通り藁や草に頼ってはいけない、ありのままの自然で、無理して堆肥等入れる必要はないとの御言葉通り、全然入れない田圃が最高の成績を納めさせて頂きました。<br><br>又、水田は水稲一方だけ耕作すべきだとの御言葉に従い、一毛作田に切替えますればなお一段の成績が上るものと思われます。<br><br>本年こそは一毛作田にて完全な耕作をさせて戴くべく準備致しております。<br><br>何卒御守護の程お願い申し上げます。<br><br> （昭和二十八年二月十六日提出）
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O arrozal que não recebeu adubo orgânico obteve os melhores resultados (Da coletânea “Explicação sobre a Agricultura Natural”)</h2>
 <p>Toichi Yamazaki (54 anos)
 Igreja Hosho-Naka, Saitama</p>
 <p>Respeitosamente, apresento o relatório referente aos resultados do segundo ano de cultivo através da Agricultura Natural. Há dois anos, realizei a conversão de toda a minha lavoura e, tendo obtido um êxito superior ao esperado, dediquei-me à prática com plena confiança no ano que se seguiu.</p>

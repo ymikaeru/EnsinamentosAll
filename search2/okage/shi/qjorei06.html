@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>O Johrei é uma Terapia para a Ausência de Doenças: O Tumor Drena o Pus sem Contrariar a Natureza</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 浄霊は無病療法 腫物は自然に抗はず排膿 『救世』56号、昭和25(1950)年4月1日発行 青森県 神聲中教会 工藤善蔵（43） 謹んで御報告させて頂きます。<br><br>私は昭和二十三年七月十一日入信、有難い御守護を頂戴致しました。<br><br>今日まで数々の浄化をいただき、その度に浄霊により救われております。<br><br> 六月末ころより腹部丁度胃の上部に少し赤色に「デキモノ」の症状になり、それから二日、三日と日が経つに従って次第に大きくなり、十月ころには腫れ上った皮膚の周囲が湯呑茶碗位に大きくなりました。<br><br>いよいよ大変な事になったと思い、教会の先生に浄霊お願いする事数回、又家に来て下さる知人に浄霊を御願い致しました。<br><br>六月七日には光明如来様を御祭り致し光明如来様の御利益の御恵みを頂き腫物の苦痛一つなく歩行にも自転車にても痛みませんが、赤黒色に腫れ直径四寸程もあり、身体が重苦しく感じて二十五日ころには今日か明日かと思われるようになり、腫物の一大恐慌時代となりました。<br><br>八月三日の朝になり腫れ上ったところに針でついた位の小さい穴から約一カ月ぶりで膿が出始め、ミルク缶より押出してくるミルクのごとく膿の洪水で脱脂綿ではとても拭取る事が出来ませんでした。<br><br>長い間どうなる事かと心配し知人の皆様が不思議な腫物として疑問にしておりましたが、謎のごとくに不思議な腫物も無事に解決し、膿の出た量が実に一合五勺もあり、湯呑茶碗二つもありました。<br><br>夜になって又赤白色の薄水が一合程出ました。<br><br> 約一カ月、自分でもよく頑張ったと思いますが光明如来様の御力、御守護の御恵みと深く身にしみ涙が出て参りました。<br><br> 近頃「デキモノ」の人が多く医者に診てもらうと直ぐに手術といわれ、入院二日目に死に至る人の多い事を聞いておりますので光明如来様の有難さをつくづく知り、力と行と心との信念であることを覚り、無医薬にて御利益の賜物を世の皆様に御知らせ致したいと思います。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>O Johrei é uma Terapia para a Ausência de Doenças: O Tumor Drena o Pus sem Contrariar a Natureza</h2>
 <p>Publicado na revista "Kyusei" nº 56, em 1º de abril de 1950.</p>
 <p><strong>Igreja Shinsei Naka, Província de Aomori</strong>
 <strong>Kudo Zenzo (43 anos)</strong></p>

@@ -37,7 +37,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help 資料検索 ： 伝道の手引き Ⅰ －１－４ 信仰の基本 第四章 御昇天について １ 御昇天になられた場合 〔 明主様と為郷恒諄氏との御対談 『栄光』179号、昭和27(1952)年10月22日発行〕 「お光りは向こうに行ってまた返ってくるのでしょうか。<br><br>」 『そんなことはありません。<br><br>透ったきりです。<br><br>私のお腹に光の玉があってそれから光りが出るのですから無限なのです。<br><br>』 「その玉というのは明主様だけがお持ちになっておられるのですか。<br><br>」 『そうです。<br><br>』 「そういたしますと仮に明主様が百年の後に霊界にお入りになりますとないことになりますが。<br><br>」 『しかし霊界から出しますから同じことです。<br><br>かえってよく出ます。<br><br>体があると邪魔になりますから。<br><br>』 「それで教団のほうも御安心なわけですね。<br><br>」 ２ 御昇天になられた場合 〔 御講話（S28年11月5日） 『御教え集』28号、昭和28(1953)年12月15日発行〕 『それからつい四、五日前に文部省の宗務課長補佐と朝日、毎日、時事、そういった新聞の学芸部の連中が六、七人来て、対談しました。<br><br>いろいろなことを聞きましたが、（中略） “御守りで病気を治すが、あなたがあの世に往ったら御守りを作る人がないからしようがないでしょう”と言うから、“冗談ではない、霊界からいくらでもそういった力を振るうから、そういうことは別になんでもない”と言ったところが、ハハア、と首をひねっていました。<br><br>』
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão</h2>
 <h3>1. Na eventualidade da Ascensão</h3>
 <p>[Diálogo entre Meishu-Sama e o Sr. Kōjun Tamasato (Publicado na revista <em>Glória</em>, nº 179, em 22 de outubro de 1952)]</p>
 <p>“A Luz que o senhor emana vai até a pessoa e depois retorna?”</p>

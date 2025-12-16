@@ -39,7 +39,56 @@
 </table>
 </div>
 </form>
-<blockquote><div class="translated-content"><h2>Gratidão Diária</h2>
+<blockquote>
+<!-- LANGUAGE TOGGLE INJECTED start -->
+<div class="lang-toggle-bar" style="margin-bottom: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; text-align: right;">
+    <button id="btn-pt" onclick="toggleLang('pt')" style="padding: 5px 10px; cursor: pointer; background: #4CAF50; color: white; border: none; border-radius: 3px;">Português</button>
+    <button id="btn-jp" onclick="toggleLang('jp')" style="padding: 5px 10px; cursor: pointer; background: #ddd; color: #333; border: none; border-radius: 3px;">Original (JP)</button>
+</div>
+
+<div id="jp-content" style="display: none; font-family: 'Yu Mincho', serif; font-size: 1.1em; line-height: 1.8; background: #fff; padding: 20px; border: 1px solid #eee;">
+    ―― 岡田自観師の論文集 ―― 御教え検索 ： help お か げ 話 資料検索 ： 感謝の毎日 『地上天国』3号、昭和24(1949)年4月20日発行 自観叢書第4篇『奇蹟物語』昭和24(1949)年10月5日発行 栃木県 日本五六七教信愛会磯部教導所 宍戸コノ（47） 去る五月二十二日氏家小学校の運動会の日の事でした。<br><br>学校へお弁当を届けに出向いた氏家町大字大中吉成忠吉さん方へ盗人が押入り衣類約二十点が盗まれている事を帰宅後発見、驚いた吉成さんは直ちに警察へ届けに出ると共に吉成さんの内儀さんは宍戸コノさん宅で、光明如来様をお祭りして頂いた頃よりその有難さを知っておりますので、早速御願いにあがりました。<br><br>吉成さんの家では時節柄子供に一枚の着物を買って与える事も出来ないような暮しで盗難という事は非常な痛手なのです。<br><br>これを聞いた宍戸さんは早速観音様の妙智力にすがるべく一心に善言讃詞を奉唱致しました。<br><br>そしてその翌くる日の夜、巡察中のお巡りさんから矢板駅のホームの薮かげに大きな風呂敷包み二箇がかくされてあると言う知らせが吉成さんのもとに届きました。<br><br>取るものも取りあえず、吉成さんは現場へ行って調べましたところ、品物は全部自分の物でした。<br><br>しかも二十点位と思っていたのが、約四十点近くの品物だったのです。<br><br>狂気のごとく喜んだ吉成さんは宍戸さん共々教導所へ御礼参りに来ました。<br><br> この偉大なる観音様の御利益に一同感激しそれからはなお一層感謝の毎日を送っております。<br><br>
+</div>
+
+<script>
+function toggleLang(lang) {
+    // Try to find the content container. 
+    // It might be .translated-content, blockquote, or just the next sibling elements.
+    // Ideally we wrap the portuguese content in a div during injection, but that parses HTML hard.
+    // Instead we toggle commonly known containers.
+    
+    const ptSelectors = ['.translated-content', 'blockquote', '#pt-content'];
+    let ptContent = null;
+    
+    for (let s of ptSelectors) {
+        let el = document.querySelector(s);
+        if (el) {
+            ptContent = el;
+            break;
+        }
+    }
+    
+    const jpContent = document.getElementById('jp-content');
+    const btnPt = document.getElementById('btn-pt');
+    const btnJp = document.getElementById('btn-jp');
+
+    if (!ptContent && !jpContent) return;
+
+    if (lang === 'jp') {
+        if (ptContent) ptContent.style.display = 'none';
+        if (jpContent) jpContent.style.display = 'block';
+        if (btnPt) { btnPt.style.background = '#ddd'; btnPt.style.color = '#333'; }
+        if (btnJp) { btnJp.style.background = '#4CAF50'; btnJp.style.color = 'white'; }
+    } else {
+        if (ptContent) ptContent.style.display = 'block';
+        if (jpContent) jpContent.style.display = 'none';
+        if (btnPt) { btnPt.style.background = '#4CAF50'; btnPt.style.color = 'white'; }
+        if (btnJp) { btnJp.style.background = '#ddd'; btnJp.style.color = '#333'; }
+    }
+}
+</script>
+<!-- LANGUAGE TOGGLE INJECTED end -->
+<div class="translated-content"><h2>Gratidão Diária</h2>
 <p>O fato que passo a relatar ocorreu no dia 22 de maio último, durante o festival de esportes da Escola Primária de Ujiie.</p>
 <p>Enquanto o senhor Tadakichi Yoshinari, residente em Oaza Oonaka, na cidade de Ujiie, se ausentara para levar o almoço de seu filho à escola, um ladrão adentrou sua residência. Ao retornar, o senhor Yoshinari descobriu, alarmado, que haviam sido furtadas aproximadamente vinte peças de vestuário. Imediatamente, ele se dirigiu à polícia para registrar a ocorrência. Concomitantemente, sua esposa, que conhecera a grandiosidade da fé por ocasião da entronização da Imagem da Luz Divina no lar da senhora Kono Shishido, procurou-a sem demora para rogar por seu auxílio.</p>
 <p>Para a família Yoshinari, o roubo representava um golpe devastador, pois, devido às dificuldades da época, viviam em condições tão precárias que não podiam sequer comprar uma única veste para os filhos.</p>
