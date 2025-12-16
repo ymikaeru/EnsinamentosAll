@@ -213,8 +213,20 @@ body.compare-mode #jp-content {
   color: #4a5568 !important;
 }
 
-/* Hide legacy search forms globally */
+/* Hide legacy search forms globally (ALL VIEWS) */
 form[action*="msearch.cgi"] {
+  display: none !important;
+}
+
+/* Hide specific legacy help links */
+a[href*="msearch.cgi"][href*="help"],
+td>a[href*="msearch.cgi"] {
+  display: none !important;
+}
+
+/* Hide the container div if it only contains the search form to avoid whitespace */
+div[align="right"]>table,
+form[action*="msearch.cgi"] table {
   display: none !important;
 }
 
