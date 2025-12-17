@@ -3,7 +3,7 @@
 # namajima
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Publicações Relacionadas à Coletânea de Teses do Mestre Okada Jikanshi
 
@@ -3340,7 +3340,7 @@ Existem também registros das palavras de Meishu-Sama ao saber do falecimento do
 # Manual de Difusão II - 1-2
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 2号, 14号 | **Data ISO:** 1951-10-10
 
 ## Manual de Difusão II - 1-2
 ## Sobre a Imagem Sagrada
@@ -3884,7 +3884,7 @@ Podem bater palmas, mas façam-no de forma mais suave, quase imperceptível. Bat
 # Renascimento (I)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Renascimento (I)
 
@@ -4142,7 +4142,7 @@ Pensei que o homem chamado Okada era como uma locomotiva.
 # A Luz se Espalha pela Terra (Comentário de Apresentação de Meishu-Sama)
 
 **Categoria:** kanren | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-03-15
 
 ## A Luz se Espalha pela Terra (Comentário de Apresentação de Meishu-Sama)
 Coletânea de Ensinamentos, nº 31, publicado em 15 de março de 1954
@@ -4165,7 +4165,7 @@ A prévia no jornal veio acompanhada de uma fotografia minha que, segundo dizem,
 # Mestre Nakajima Issei: Sua Fé e Trajetória
 
 **Categoria:** kanren | **Ano:** 昭和36年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1961
 
 ## Mestre Nakajima Issei: Sua Fé e Trajetória
 
@@ -4192,7 +4192,7 @@ A folha de rosto da obra contém uma fotografia e uma caligrafia.
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** hakkousi | **Ano:** 昭和23年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1948
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 **Informações sobre as publicações da obra Miscelânea sobre a Fé**
@@ -4228,7 +4228,7 @@ A Caligrafia Divina presente nesta versão é uma reprodução impressa.
 # america
 
 **Categoria:** hakkousi | **Ano:** 昭和28年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953
 
 Coletânea de Ensaios do Mestre Okada Jikan
 
@@ -4249,7 +4249,7 @@ Embora a obra tenha sido publicada no Japão, com anúncios veiculados em jornai
 # joreiiju
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ――― Coletânea de Teses do Mestre Okada Jikan ―――
 
@@ -4273,7 +4273,7 @@ Quando os Remédios Perdem a Eficácia............ Glória, nº 196
 # Capítulo I: Os Ministros
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年3月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 伝道の手引き | **Status:** Published
+**Título Original:** 伝道の手引き | **Status:** Published | **Edição/Página:** ２号, 9号, 2号 | **Data ISO:** 1949-03-01
 
 ## Capítulo I: Os Ministros
 
@@ -4633,7 +4633,7 @@ Quem come alimentos saborosos tem o mérito para tal. Não se pode fazê-lo atra
 # kekkaku1
 
 **Categoria:** hakkousi | **Ano:** 昭和18年5月5日 | **Fonte:** Asu no Ijutsu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 Coletânea de Teses do Mestre Okada Jikan – Organizado por Periódico de Publicação
 
@@ -4669,7 +4669,7 @@ Sua publicação foi proibida em fevereiro de 1944.
 # gosinsyo
 
 **Categoria:** hakkousi | **Ano:** 昭和29年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954
 
 — Coletânea de Ensaios do Mestre Okada Jikanshi —
 
@@ -4691,7 +4691,7 @@ A obra, ao que parece, foi-nos entregue dentro desta sobrecapa, ou melhor, de um
 # Coletânea de Ensaios do Mestre Jikan Okada – Organizada por Periódico de Publicação
 
 **Categoria:** hakkousi | **Ano:** 昭和26年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Coletânea de Ensaios do Mestre Jikan Okada – Organizada por Periódico de Publicação
 
@@ -4734,7 +4734,7 @@ O Editor
 # kakudai1
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ※ É permitida a cópia para uso pessoal, contudo, solicitamos o máximo de cuidado em seu manuseio.
 
@@ -4743,7 +4743,7 @@ O Editor
 # Postais de Shinsenkyo (神仙郷): O Paraíso Terrestre de Hakone
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Postais de Shinsenkyo (神仙郷): O Paraíso Terrestre de Hakone
 
@@ -4764,7 +4764,7 @@ Vista a partir dos jardins do Pavilhão Nikko-den de Shinsenkyo (神仙郷), em 
 # hakone3
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ――― Coletânea de Ensaios do Mestre Jikan Okada ―――
 
@@ -4806,7 +4806,7 @@ Atualmente, é decano da Primeira Faculdade de Letras da Universidade Hosei. Nas
 # hajimete
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Coletânea de Ensaios do Mestre Okada Jikan
 Organizado por Periódico
@@ -4824,7 +4824,7 @@ Impressão: Atami Shoji Kabushikigaisha
 # miosiesy
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Coletânea de Artigos do Mestre Okada Jikan
 Coletânea de Ensinamentos por Publicação (Números 1 a 33)
@@ -4889,7 +4889,7 @@ N.º / Data de Publicação / Ensinamentos Registrados nos Dias / Obras Completa
 # Coletânea de Escritos do Mestre Okada Jikanshi
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Escritos do Mestre Okada Jikanshi
 ## Registro de Ensinamentos por Edição (Números 1 a 30)
@@ -4950,7 +4950,7 @@ Setembro de 1951
 # Coletânea de Milagres da Sekaikyuseikyou (A Bomba Atômica para a Ciência)
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Milagres da Sekaikyuseikyou (A Bomba Atômica para a Ciência)
 
@@ -4971,7 +4971,7 @@ Esta obra é uma compilação de 120 relatos de experiência.
 # Coletânea de Ensaios do Reverendo Okada Jikan
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Ensaios do Reverendo Okada Jikan
 
@@ -4994,7 +4994,7 @@ Esta última imagem, ao que tudo indica, acompanhava o conjunto; contudo, não f
 # honan
 
 **Categoria:** hakkousi | **Ano:** 昭和25年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
 
 Coletânea de Ensaios do Reverendo Okada Jikan
 
@@ -5016,7 +5016,7 @@ Um relato memorialístico da Perseguição Religiosa sofrida entre 8 de maio e 1
 # Coletânea de Artigos do Mestre Okada Jikanshi
 
 **Categoria:** hakkousi | **Ano:** 昭和26年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Coletânea de Artigos do Mestre Okada Jikanshi
 
@@ -5029,7 +5029,7 @@ O presente texto corresponde a um excerto da seção “Luz da Sublime Sabedoria
 # Periódico ‘Hikari’ (Luz)
 
 **Categoria:** hakkousi | **Ano:** 昭和24年3月8日 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-03-08
 
 ## Periódico ‘Hikari’ (Luz)
 Edições 1 a 47 (De 8 de março de 1949 a 28 de janeiro de 1950)
@@ -5083,7 +5083,7 @@ Gostaria de anunciar aqui algo que a maioria dos membros provavelmente já sabe:
 # Coleção de Tratados do Mestre Okada Jikan
 
 **Categoria:** hakkousi | **Ano:** 昭和24年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
 
 ## Coleção de Tratados do Mestre Okada Jikan
 **Apresentação da Coleção Jikan, Volumes 1 a 15, por Editora**
@@ -5221,7 +5221,7 @@ Um momento... parece que falta um volume. Trata-se de um equívoco ocorrido dura
 # Coletânea de Artigos Fundamentais
 
 **Categoria:** hakkousi | **Ano:** 昭和30年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955
 
 ## Coletânea de Artigos Fundamentais
 
@@ -5236,7 +5236,7 @@ A presente edição foi realizada pelo Departamento de Assuntos Doutrinários da
 # joreiho
 
 **Categoria:** hakkousi | **Ano:** 昭和28年11月 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-11
 
 --- Coletânea de Artigos do Mestre Okada Jikan ---
 Segundo a Publicação Original
@@ -5264,7 +5264,7 @@ Ao recebermos os recentes Ensinamentos de Meishu-Sama, conscientizamo-nos de man
 # kekkaku2
 
 **Categoria:** hakkousi | **Ano:** 昭和18年11月23日 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ――― Coletânea de Tratados do Mestre Okada Jikanshi ―――
 Por Veículo de Publicação
@@ -5281,7 +5281,7 @@ Editor: Shiozawa Takeru
 # A Eloquência dos Fatos (Jornal Paraíso Terrestre, nº 11, 20 de dezembro de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## A Eloquência dos Fatos (Jornal Paraíso Terrestre, nº 11, 20 de dezembro de 1949)
 
@@ -5290,7 +5290,7 @@ Editor: Shiozawa Takeru
 # Até a Concretização do Paraíso Terrestre (Coletânea de Ensaios do Mestre Okada Jikan)
 
 **Categoria:** hakkousi | **Ano:** 昭和25年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
 
 ## Até a Concretização do Paraíso Terrestre (Coletânea de Ensaios do Mestre Okada Jikan)
 
@@ -5311,7 +5311,7 @@ A obra inicia-se com dez poemas.
 # kekkaku5
 
 **Categoria:** hakkousi | **Ano:** 昭和27年12月 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-12
 
 Coletânea de Teses do Mestre Jikan Okada
 (Compilação por Periódico de Origem)
@@ -5333,7 +5333,7 @@ Inclui, como apêndice, uma coletânea com o relato de cem experiências de fé.
 # tebiki
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Da Coletânea de Ensaios do Mestre Okada Jikan
 Publicação: Manual da Igreja Messiânica Mundial
@@ -5359,7 +5359,7 @@ Higuchi Kiyoko
 # Coletânea de Teses do Mestre Okada Jikanshi
 
 **Categoria:** hakkousi | **Ano:** 昭和29年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954
 
 ## Coletânea de Teses do Mestre Okada Jikanshi
 
@@ -5378,7 +5378,7 @@ A obra, cuja venda é proibida, apresenta-se em formato A5 e contém 42 páginas
 # ehagaki
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Coleção de Ensaios do Mestre Okada Jikan — Organizado por Publicação
 
@@ -5401,7 +5401,7 @@ Alvéola sobre Lótus, de Mokkei
 # Coletânea de Artigos do Mestre Okada Jikanshi
 
 **Categoria:** hakkousi | **Ano:** 昭和26年8月5日 | **Fonte:** 法難手記
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-08-05
 
 ## Coletânea de Artigos do Mestre Okada Jikanshi
 
@@ -5428,7 +5428,7 @@ Suplemento de ‘A Nova Violência’
 # Coleção de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年12月5日 | **Fonte:** 世界の六大神秘家
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-12-05
 
 ## Coleção de Ensaios do Mestre Okada Jikan
 ## Os Seis Grandes Místicos do Mundo

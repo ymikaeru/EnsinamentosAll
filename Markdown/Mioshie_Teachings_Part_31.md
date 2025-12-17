@@ -1,9 +1,1166 @@
 # Mioshie_Teachings - Part 31
 
+# Diálogo com Madeleine David no Museu de Arte de Hakone
+
+**Categoria:** taidan | **Ano:** 昭和27(1952)年10月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 美術館三階の日本間における 明主様とダヴィッド女史 ジャーナリスト会見記 | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1952-10-25
+
+## Diálogo com Madeleine David no Museu de Arte de Hakone
+
+**Relato do Encontro entre Meishu-Sama, a Sra. David e Jornalistas**
+
+*Publicado na revista “Chijo Tengoku”, nº 41, de 25 de outubro de 1952.*
+*Relato do repórter: Michiharu Kihara, Sede Central.*
+
+Conforme noticiado na edição 173 da revista Eiko, a Sra. Madeleine David, vice-diretora do Museu Cernuschi de Paris e uma autoridade em arte oriental, veio ao Japão para aprofundar suas pesquisas sobre a arte nipônica. No dia 22 de agosto, acompanhada pela Sra. Tatsuko Taduke, do Ministério das Relações Exteriores, pelo Sr. Shiro Takeuchi, presidente do jornal Hochi Shimbun, pelo Sr. Shohei Morimura, editor-chefe do mesmo periódico, e pelo Sr. Shoji Watanabe, do departamento social do Yomiuri Shimbun, visitou o Museu de Arte de Hakone. Profundamente impressionada com o que viu, foi posteriormente recebida por Meishu-Sama no salão de estilo japonês do terceiro andar do museu. Ali, floresceu um diálogo agradável que se estendeu por uma hora e meia, cujo teor, registrado por taquigrafia, apresentamos a seguir.
+
+### As duas nações da arte no mundo
+
+**Meishu-Sama:** Tenho acompanhado suas atividades pelos jornais. Realmente, ansiava por lhe apresentar este museu. Há muito tempo se encontra no Japão?
+
+**Mlle. David:** Cheguei em fevereiro deste ano e pretendo permanecer até por volta de fevereiro do próximo ano.
+
+**Sra. Taduke:** Ela veio em representação da UNESCO e é uma profunda conhecedora da arte japonesa.
+
+**Meishu-Sama:** Este museu reúne obras exclusivamente japonesas. Sinta-se à vontade para vir quando desejar e realizar suas pesquisas sem pressa.
+
+**Mlle. David:** Estou estupefata. Encontrei aqui peças que jamais havia visto. Gostaria de enviar fotografias para a França e, por isso, estou lhe causando alguns transtornos. Certamente, terei de recorrer à sua generosidade mais vezes.
+
+**Mordomo Abe:** Ela solicitou que enviássemos à UNESCO reproduções em tamanho real do Sutra Ilustrado do Passado e do Presente e da obra “Mulheres no Banho”. Pelo que entendi, essas imagens serão divulgadas mundialmente.
+
+**Meishu-Sama:** Esplêndido.
+
+**Mordomo Abe:** Creio que o trabalho levará até novembro para ser concluído.
+
+**Mlle. David:** Não há pressa. Se puderem enviar as reproduções ao nosso museu de arte oriental em Paris, nós as exibiremos imediatamente.
+
+**Meishu-Sama:** No campo das artes, a França nos é muito próxima. Na Europa, temos a França; no Oriente, o Japão. São, por assim dizer, as duas grandes nações da arte no mundo.
+
+**Mlle. David:** Concordo plenamente.
+
+**Meishu-Sama:** Acredito que promover intensamente a arte é algo extremamente benéfico também do ponto de vista do pensamento humano.
+
+**Sra. Taduke:** A Sra. David foi por muito tempo o braço direito do Dr. Grousset e cuidou sozinha da curadoria e da organização de todo o museu. Ela ainda é solteira... Dizem que se casou com a arte oriental. Por isso, viaja constantemente de um lugar para outro, embora ainda não tenha visitado a China.
+
+**Meishu-Sama:** De todo modo, a China já não possui muitas obras raras, não é mesmo?
+
+**Mlle. David:** Acredito que o museu de Pequim ainda tenha algumas.
+
+**Meishu-Sama:** Sim, mas as melhores peças, contudo, foram provavelmente levadas por Chiang Kai-shek. Atualmente, a maior parte da arte chinesa de qualidade se encontra em lugares como os Estados Unidos.
+
+**Mlle. David:** É bem provável.
+
+**Mordomo Abe:** Parece que ela se encantou com a tigela de chá de Ninsei.
+
+**Meishu-Sama:** Naturalmente. O design é bastante moderno.
+
+**Sra. Taduke:** Ela ficou tão encantada com uma tigela de chá em celadon que brincou dizendo que gostaria de roubá-la, pois, mesmo que virasse o mundo de cabeça para baixo, não conseguiria comprar nem a metade. Diante do impasse...
+
+**Meishu-Sama:** Fique à vontade (risos).
+
+### Korin vive na França
+
+**Meishu-Sama:** Temos a intenção de realizar uma exposição também na França.
+
+**Mlle. David:** Eu gostaria de organizar uma exposição de arte japonesa em Paris e, em contrapartida, uma de arte francesa aqui em Tóquio.
+
+**Meishu-Sama:** Até hoje, a arte japonesa raramente esteve ao alcance dos olhos estrangeiros. Suas obras-primas permaneciam guardadas nos acervos de famílias abastadas e da nobreza, que evitavam exibi-las publicamente. Por essa razão, mesmo que alguém viesse ao Japão com o desejo de apreciá-las, conseguia ver apenas algumas peças esparsas, dispersas por vários locais, tornando impossível uma visão de conjunto. A convicção fundamental que deu origem a este museu é a de que se deve criar uma instituição onde tal arte possa ser apreciada por todos. Por isso, empenho-me com grande esforço para expor, na medida do possível, justamente aquelas obras antes inacessíveis. Minha coleção foi formada principalmente com base em artistas como Korin, Koetsu, Sotatsu e Kenzan, e pretendo organizar uma exposição dedicada a eles. Mesmo quando falamos de Matisse ou Picasso, percebemos que, em sua essência, a origem de sua arte remonta a Korin.
+
+**Mlle. David:** Penso o mesmo. A arte japonesa influenciou a arte moderna francesa. De Korin, só conhecia fotografias. As pinturas de Korin que se veem na França não são de boa qualidade. Ainda assim, seu estudo foi de grande valia para a arte moderna de meu país.
+
+**Meishu-Sama:** De fato. Da Escola Rinpa, possuímos muitos kakemonos de Sotatsu, e iremos exibi-los. Creio que serão uma referência valiosíssima.
+
+**Mlle. David:** Há outra pesquisadora em Paris que virá ao Japão em breve. Nós duas faremos questão de retornar para uma visita.
+
+**Meishu-Sama:** Certa vez, um japonês foi à França para ser discípulo de Matisse, mas este lhe disse: “Você não tem necessidade alguma de vir até a França. No Japão, vocês têm o magnífico Korin. É ele o meu mestre. Portanto, sua viagem até aqui foi desnecessária”.
+
+**Sra. Taduke:** Parece que Matisse já está bem idoso e sua produção artística declinou.
+
+**Mlle. David:** Eu realmente desconhecia a arte japonesa anterior a Korin.
+
+**Meishu-Sama:** Isso se deve à falta de oportunidades para apreciá-la.
+
+**Mlle. David:** Entendo. Uma exposição de arte japonesa é absolutamente necessária, em minha opinião.
+
+**Meishu-Sama:** Exato.
+
+**Mlle. David:** Na França, há poucas peças de cerâmica *kinrande*.
+
+**Meishu-Sama:** As chinesas? De fato, tenho um catálogo aqui e confirmo que não há muitas. A cerâmica *kinrande* também é rara nos Estados Unidos e na Inglaterra. As peças encontradas por lá são do período moderno, das eras Kangxi a Qianlong, de duzentos anos para cá. O verdadeiro *kinrande* é da dinastia Ming, de cerca de quatrocentos anos atrás. Essas peças mais antigas não existem lá. Os japoneses as valorizavam imensamente e, quando foram importadas no passado, os senhores feudais as guardavam como tesouros. Obras de celadon de alta qualidade também são escassas no exterior; não se encontram nos Estados Unidos nem na Inglaterra. As melhores peças na Inglaterra são do tipo *Junyao*, e estas são superiores às que temos no Japão. Aqui, o *Junyao* é raro, mas o celadon, não. Além disso, as peças inglesas e americanas foram escavadas, enquanto as do Japão foram cuidadosamente preservadas e transmitidas de geração em geração, o que constitui uma diferença fundamental. A tigela de chá *Taihisan (玳玻盞)* que a senhora viu, com a imagem da fênix, é um exemplo de peça que nunca foi enterrada. A maioria das que se encontram por aí esteve sob a terra.
+
+**Mordomo Abe:** Dizem que o Vaso de Anderson está na Finlândia e que há muitas peças de três mil anos. No Japão, são extremamente raras.
+
+**Meishu-Sama:** É verdade.
+
+**Sra. Taduke:** Recentemente, encontrei um especialista chinês que me disse haver apenas duas peças como aquela no Japão: uma em Hakone e outra em Quioto.
+
+**Mordomo Abe:** Muitos elogiam o vaso *Botan-cho-mon Torobin (牡丹蝶文吐魯瓶)*.
+
+**Meishu-Sama:** É uma peça magnífica. Foi publicada em uma revista americana, mas existem outras de qualidade inferior. A melhor está no Japão, pertence à Cervejaria Hakutsuru, em Osaka. O Museu de Arte Hakutsuru possui um excelente acervo.
+
+**Mlle. David:** Essa peça foi levada para a exposição de São Francisco?
+
+**Meishu-Sama:** Foi levada para a de Los Angeles.
+
+**Mlle. David:** Gostaria de solicitar o apoio da UNESCO. Quando eu apresentar meu relatório, a organização tomará conhecimento da importância deste acervo.
+
+**Meishu-Sama:** Promover a arte traz, de alguma forma, benefícios ao pensamento humano.
+
+**Sra. Taduke:** A UNESCO está muito empenhada. Solicitaram ao meu departamento cinquenta xilogravuras de ukiyo-e de alta qualidade, de matrizes inéditas. Houve uma grande preocupação, pois não havia fundos para adquirir todas as matrizes, mas, ao verem a beleza das gravuras finalizadas, decidiram aceitá-las como doação.
+
+**Meishu-Sama:** Há no Japão quem se dedique a produzir gravuras selecionando apenas as melhores.
+
+**Sra. Taduke:** A Sociedade de Arte Oriental as produziu com grande entusiasmo. Elas circularão pelo mundo, mas apenas gravuras não representam a totalidade da arte japonesa.
+
+**Meishu-Sama:** Por fim, o objetivo é criar um álbum de arte de excelência. É um projeto que pretendo realizar. Quero produzir reproduções fotográficas de alta qualidade das obras mais famosas do Japão e distribuí-las a instituições relevantes em vários países. O Japão possui um vasto tesouro artístico.
+
+**Mlle. David:** Considero sua ideia esplêndida, a ponto de poder ser chamada de milagrosa.
+
+**Mordomo Abe:** Ela comentou que talvez o Sutra Ilustrado que está em Nara seja superior.
+
+**Meishu-Sama:** Com o devido respeito, a versão de lá é inferior. A que temos aqui foi a primeira a ser produzida.
+
+**Mlle. David:** Parece que sim.
+
+**Meishu-Sama:** A outra veio depois. A versão de Nara pertence à Escola de Belas Artes, mas foram feitas duas cópias no período Tenpyo, uma no início e outra no final. A que está exposta no Museu de Nara é a posterior. A diferença é evidente quando se comparam as duas.
+
+**Mlle. David:** O Sutra Ilustrado é a obra de que mais gosto. Tenho a impressão de que toda a pintura japonesa se origina dele.
+
+**Meishu-Sama:** Que perspicácia notável! É exatamente isso. A arte japonesa nasce do Sutra Ilustrado e evolui para o *Yamato-e*.
+
+**Mlle. David:** É a origem do *Yamato-e*?
+
+**Meishu-Sama:** Sim. A senhora é uma grande conhecedora. Do Sutra Ilustrado, surge o *Yamato-e*, que, por sua vez, dá origem ao *ukiyo-e*. O primeiro elo nessa transição, a peça que marca o nascimento do *Yamato-e* a partir do Sutra, está em meu acervo. Vou mostrá-la. Compreender a arte a esse ponto é algo extraordinário. Poucos japoneses possuem tal profundidade de conhecimento.
+
+### A Igreja Messiânica e o Museu de Arte
+
+**Jornalista:** O senhor parece ser um grande especialista.
+
+**Meishu-Sama:** Desde jovem, dedico-me a este estudo com grande apreço.
+
+**Jornalista:** Ao olhar para uma obra, o senhor consegue discernir se é falsa?
+
+**Meishu-Sama:** Imediatamente.
+
+**Jornalista:** Já foi ludibriado alguma vez?
+
+**Meishu-Sama:** No começo, sim, mas logo aprendi a identificar.
+
+**Jornalista:** Qual é a relação entre a Igreja Messiânica e o museu?
+
+**Meishu-Sama:** Superficialmente, não há relação alguma. A construção de uma obra desta magnitude foi, sem dúvida, viabilizada pelos donativos de nossos fiéis. Contudo, o museu em si não tem qualquer afiliação com a Igreja Messiânica. Uma instituição como esta é de extrema necessidade para a nação. Por isso, a Comissão para a Proteção do Patrimônio Cultural manifestou grande satisfação, afirmando que o país precisa de iniciativas como esta.
+
+**Jornalista:** Fiquei surpreso com a localização privilegiada.
+
+**Meishu-Sama:** Sim, o local é excelente. E como os estrangeiros invariavelmente vêm a Hakone, eles acabarão por visitar o museu, queiram ou não. Esse é o ponto principal. Até agora, o acesso a coleções particulares era muito restrito. Portanto, um espaço de fruição pública era absolutamente necessário.
+
+**Jornalista:** A Igreja Messiânica parece ter a beleza em alta estima.
+
+**Meishu-Sama:** Nossos ensinamentos se baseiam no tripé Verdade, Bem e Belo. O Belo, portanto, é um elemento indispensável. Afirmo que religião e arte são inseparáveis. A religião aprimora o coração humano, ou seja, eleva o pensamento. Para isso, ela utiliza a força da beleza, potencializando-a. Atua através dos olhos e dos ouvidos. Ocorre que, hoje em dia, o que entra pelos olhos tende mais a rebaixar do que a elevar o ser humano. Há de tudo... o strip-tease tem seu lugar, mas, em meio a isso, é preciso oferecer algo que eleve. O artigo do Sr. Tetsuzo Tanikawa no Yomiuri Shimbun parece ter feito uma excelente propaganda para nós.
+
+**Jornalista:** Quando houver uma exposição, seria uma boa ideia convidar críticos para que vejam as obras e escrevam não apenas nos jornais, mas também em revistas de arte.
+
+**Meishu-Sama:** Já saímos na revista Geijutsu Shincho.
+
+**Jornalista:** Penso que seria oportuno que uma revista especializada dedicasse uma matéria exclusiva ao museu. Por exemplo, uma edição especial sobre o Museu de Arte de Hakone.
+
+**Meishu-Sama:** Aos poucos, faremos isso. Contudo, quando os estrangeiros começam a fazer alarde sobre algo, os japoneses seguem o exemplo. É o mesmo que aconteceu com o filme *Rashomon*. A princípio, não o achei grande coisa, mas, depois de ouvir os comentários, revi-o e percebi que era, de fato, excelente. O mesmo ocorrerá com as obras de arte deste museu.
+
+*(Nesse momento, são mostrados os quatro painéis suspensos do conjunto “As Oito Fases da Vida de Buda”)*
+
+**Mlle. David:** Muito interessante.
+
+**Meishu-Sama:** De fato. Este é o ponto de transição da pintura budista para o *Yamato-e*. Data do início do período Kamakura, por isso a influência do período Fujiwara é bem nítida.
+
+**Mlle. David:** Sim. O autor é o mesmo?
+
+**Meishu-Sama:** Sim.
+
+**Mlle. David:** Da mesma época?
+
+**Meishu-Sama:** Exato.
+
+**Sra. Taduke:** O Museu de Hakone talvez se torne famoso no exterior antes mesmo de sê-lo no Japão. Se a UNESCO se envolver, é possível que os japoneses tenham de vir correndo para descobrir o que está acontecendo por aqui.
+
+**Meishu-Sama:** O culto ao que vem de fora parece difícil de erradicar.
+
+**Jornalista:** O projeto do museu é de sua autoria?
+
+**Mordomo Abe:** Ele o concluiu em cerca de dois dias. Definiu as dimensões de cada vitrine, decidindo o que seria exposto e onde, com as medidas exatas para cada peça.
+
+**Mlle. David:** A execução é impecável. É maravilhoso.
+
+**Jornalista:** Vir aqui, apreciar a exposição e poder relaxar...
+
+**Sra. Taduke:** É bem diferente da redação de um jornal ou de um escritório governamental, não é?
+
+**Meishu-Sama:** Venham se refrescar de vez em quando. Este é, sem dúvida, o melhor ponto de Hakone. E em Hakone, o melhor lugar é Gora. Não há outro local de onde se possa avistar os quatro cantos. Gora oferece essa paisagem, e no outono é possível ver o mar, até a Península de Miura. E nós estamos exatamente no centro de Gora. No Japão, Hakone é o principal parque nacional e, como este é o ponto mais privilegiado de Hakone, pode-se dizer que é o ponto mais privilegiado de todo o Japão. Aproveitamos uma área de importância estratégica. Há muito tempo eu pensava que, se fosse para construir um museu, teria de ser em um local de grande beleza natural. A harmonia com o ambiente é notável.
+
+### Meus discípulos realizam os milagres de Cristo
+
+**Sra. Taduke:** Encontrei um homem que não via há dez anos. Ele se tornou membro recentemente, foi recebido pelo senhor e, após receber Johrei, voltou para casa pensando: “Que coisa mais sem graça”. Acontece que ele tinha três verrugas. No dia seguinte, ao se barbear, notou que as verrugas haviam desaparecido. Ele chegou a perguntar à esposa: “Onde você escondeu minhas verrugas?”. Depois, veio reclamar comigo: “Não sou de acreditar em coisas estranhas, mas como é que minhas verrugas sumiram sem esforço algum? Que disparate é esse?”. Eu lhe disse que, na minha próxima visita, perguntaria ao senhor para onde foram as verrugas dele.
+
+**Sr. Kihara:** Este caso parece representar bem o ceticismo do homem moderno.
+
+**Meishu-Sama:** Temos casos ainda mais impressionantes. Publicaremos na próxima edição da “Eiko” o de uma pessoa que, após ter a respiração interrompida por dez minutos e ser declarada morta, voltou a viver. Vamos divulgar este fato.
+
+**Jornalista:** Ela faleceu por doença?
+
+**Meishu-Sama:** Sim, por doença. Se fosse um feito da medicina, sairia em manchetes. Como foi realizado por nós, não lhe dão a menor importância.
+
+**Jornalista:** Foi o senhor quem o realizou?
+
+**Meishu-Sama:** Não fui eu, foi um discípulo meu. Meus discípulos realizam diariamente milagres comparáveis aos de Cristo. Se as pessoas soubessem disso, o impacto seria imenso.
+
+**Jornalista:** Um...
+
+**Meishu-Sama:** O pulso da pessoa parou por dez minutos.
+
+**Jornalista:** Se coisas assim acontecessem todos os dias, seria extraordinário.
+
+**Meishu-Sama:** Sem dúvida. Perto disso, a construção de um museu não é nada. Atualmente, estou escrevendo um livro intitulado “A Criação da Civilização”, que será distribuído a universidades e diversas instituições do mundo todo.
+
+**Jornalista:** Será em um único volume?
+
+**Meishu-Sama:** Sim.
+
+**Jornalista:** É uma obra extensa?
+
+**Meishu-Sama:** Vejamos... Terá umas duzentas ou trezentas páginas. Nele, escreverei que a civilização atual é provisória, não é a verdadeira, e descreverei como será a civilização autêntica. Tenho outros projetos, e o próximo livro a ser publicado também será de grande impacto. Chama-se “A Terapia da Tuberculose pela Fé” e certamente gerará controvérsia, pois nele afirmo que a tuberculose é criada pela própria medicina. Além disso, apresento provas de que a doença não é contagiosa. Creio que causará uma grande comoção. Pretendo, inclusive, anunciá-lo nos jornais.
+
+**Jornalista:** O que o senhor pensa sobre a obra “A Verdade da Vida”, do Sr. Taniguchi?
+
+**Meishu-Sama:** Não a considero relevante. Não vejo ali uma única tese original. O que ele faz é compilar e sintetizar preceitos antigos da Bíblia, do budismo e de outras fontes. Contudo, seu trabalho tem o mérito de instilar um pensamento idealista em oposição ao materialismo, o que é positivo. Nesse sentido, sou totalmente favorável. Sua obra funciona como uma espécie de manual introdutório à cultura espiritual. Já o que apresento em “A Criação da Civilização” pode ser comparado a um curso universitário sobre religião e temas correlatos.
+
+**Jornalista:** Não existe a possibilidade de esses movimentos se unirem para formar uma frente comum?
+
+**Meishu-Sama:** Nenhuma.
+
+**Jornalista:** Recentemente, acompanhado pelo deputado Shiro Hanamura, encontrei-me com o presidente da Rissho Kosei-kai. Ele me disse que as doenças são curadas quando a pessoa externaliza as amarguras guardadas no coração.
+
+**Meishu-Sama:** É, em linhas gerais, o que eles pregam. O que eu exponho, contudo, é de uma dimensão tão extraordinária que se torna difícil de compreender. A doutrina da Igreja Messiânica é tão fora do comum que, por vezes, acaba sendo mal interpretada.
+
+**Sr. Kihara:** Nas reuniões da Federação das Novas Religiões, não conseguimos dialogar. Não nos resta alternativa a não ser ouvir em silêncio, pois, se falássemos, feriríamos suscetibilidades.
+
+**Meishu-Sama:** Exato. Por isso, preciso diluir muito o que digo. Muitos nos acusam de exagero, mas a verdade é justamente o oposto. Na realidade, nós nos contemos consideravelmente ao falar.
+
+**Sra. Taduke:** Recebi uma carta do Sr. Cartier (um influente francês que se encontrou com Meishu-Sama há cerca de um mês). Ele disse que o senhor é uma pessoa inesquecível, que deixou uma marca profunda em seu coração, e me pediu para transmitir seus melhores cumprimentos.
+
+*(Nota: A conversa prosseguiu, mas omitimos o restante para não nos estendermos em demasia.)*
+
+---
+
+# Um Diálogo sobre a Alma na Arte
+
+**Categoria:** taidan | **Ano:** 昭和26(1951)年4月4日 | **Fonte:** Eikou
+**Título Original:** 明主様 夢声氏対談記 （上） | **Status:** Published | **Edição/Página:** 98号 | **Data ISO:** 1951-04-04
+
+## Um Diálogo sobre a Alma na Arte
+
+No dia 21, quarto dia do Grande Culto da Primavera, Meishu-Sama devotou aproximadamente uma hora à atenta apreciação da obra "Miyamoto Musashi", no trecho referente ao Dojo Hozoin, com narração do senhor Tokugawa Musei e texto original do senhor Yoshikawa Eiji. Após o encerramento, na presença de sua esposa, Okusama, Meishu-Sama atendeu prontamente ao desejo do senhor Musei e concedeu-lhe um diálogo particular. O que se segue é uma síntese desse encontro.
+
+**Senhor Musei:** É um imenso prazer conhecê-lo...
+
+**Meishu-Sama:** O prazer é meu. Sua arte é esplêndida; possui um sabor distinto, que difere do *koudan* tradicional.
+
+**Senhor Musei:** Fico a pensar se minha arte agrada ao público feminino...
+
+**Okusama:** Certamente! É de uma clareza notável...
+
+**Meishu-Sama:** O próprio senhor Yoshikawa é um fiel antigo e possui grande afinidade com o senhor, o que torna essa sintonia verdadeiramente esplêndida.
+
+**Senhor Musei:** Vejo meu trabalho como uma espécie de embate com o autor original. Se a obra e o intérprete estiverem em pé de igualdade, o resultado é bom. Contudo, se minha performance não estiver à altura do original, considero uma derrota.
+
+**Meishu-Sama:** Pois eu diria que o senhor o supera. Certamente o senhor Yoshikawa ficará muito satisfeito.
+
+**Senhor Musei:** Recentemente, o senhor Yoshikawa construiu um auditório em Okutama e me fez um convite: "Por favor, venha fazer uma apresentação. Na verdade, nunca tive a oportunidade de ouvir sua narração pessoalmente". Aceitei de bom grado e organizamos um evento no recital de mestres da Mitsukoshi. Infelizmente, o mestre do rakugo, Bunraku, e a cantora de kouta, Fumikichi, não puderam comparecer, sendo esta última substituída por Koume. Completaram o elenco a conhecida dupla de manzai, Regal Senta e Mankichi, e, por fim, eu. O senhor Yoshikawa ficou imensamente feliz e me deu carta branca para adaptar "Musashi" como eu bem entendesse, sem necessidade de consultá-lo. O recital de mestres da Mitsukoshi reúne apenas artistas de renome, que possuem uma arte tradicional e que, através de um treinamento primoroso, atingiram o ápice de seu ofício. Dentre todos, sou o único com um quê de impostura...
+
+**Meishu-Sama:** Mas é justamente aí que reside o seu valor. Se o senhor se tornasse um mero profissional, sua arte estaria perdida. Eu mesmo realizo diversas atividades à maneira de um amador, de modo completamente distinto dos especialistas. Quando vier a Hakone e observar o jardim de pedras, o senhor compreenderá. Dizem que, ao vê-lo, os especialistas sentiram-se desestimulados, a ponto de quererem abandonar a profissão. O motivo é que as rochas ali utilizadas estão invertidas ou de cabeça para baixo, de uma maneira que normalmente seria considerada inutilizável. E, no entanto, o resultado é maravilhosamente belo.
+
+**Senhor Musei:** Isso ocorre porque cada elemento escapa às convenções, não é mesmo? O mundo não se resume a moldes pré-estabelecidos... Deve haver beleza também naquilo que não se enquadra.
+
+**Meishu-Sama:** Tudo o que se aprisiona em um molde, morre. Eu pratico a caligrafia e, certa vez, quando manifestei o desejo de ter aulas, um mestre calígrafo me aconselhou: "O senhor deve abandonar a ideia de aprender. Nós, profissionais, sofremos para romper com os moldes que nos foram impostos. Mesmo que um ideograma esteja ligeiramente incorreto, com traços a mais ou a menos, não importa. O essencial é dar vida à individualidade. Aí reside o que é verdadeiramente nobre". Contudo, há pontos que a mera lógica não consegue explicar.
+
+**Senhor Musei:** Tomemos como exemplo o rakugo "Nedoko", apresentado hoje pelo mestre Bunraku. É uma obra-prima, lapidada através de incontáveis repetições até atingir a perfeição. Minha narrativa, em comparação, é uma peça tosca e inacabada. Tenho refletido profundamente sobre a questão fundamental da arte de contar histórias...
+
+**Meishu-Sama:** Mas é extremamente bem-feita. Em última análise, a questão é a alma. O senhor consegue transmitir a alma de Musashi. Por mais habilidoso que seja um narrador profissional, sua arte é apenas forma, desprovida de alma. Por isso, a impressão que causa é completamente diferente. Não considero Musashi um mero artista marcial. Ele também pintava, não é verdade? E suas pinturas são notáveis.
+
+**Senhor Musei:** De fato, ele não era um homem comum. Recentemente, o senhor Yoshikawa me presenteou com um rolo de pintura de Musashi, intitulado "Hahachou". No início, ele demonstrava certo receio em ter suas obras narradas, talvez por temer que o original fosse de alguma forma descaracterizado. Ultimamente, porém, ele me incentiva, dizendo que posso adaptar livremente qualquer texto de sua autoria. Ele me trouxe a pintura, afirmando: "As obras de Musashi não pertencem apenas a mim. Você também deveria possuir uma". E, de fato, a pintura é esplêndida. Possui uma nobreza inegável.
+
+**Meishu-Sama:** Sim, também vi uma obra dele recentemente e é de uma qualidade excepcional. Quando se atinge um certo patamar, todas as artes convergem para um mesmo ponto.
+
+**Senhor Musei:** Dizem que os profissionais a consideram estranha, mas admitem que é uma pintura que eles próprios seriam incapazes de criar.
+
+**Meishu-Sama:** Não haverá muitas falsificações?
+
+**Senhor Musei:** Sim, parece que são numerosas.
+
+**Meishu-Sama:** Contudo, as obras-primas são sempre acompanhadas de muitas falsificações. Há casos, inclusive, em que a cópia supera o original em habilidade técnica.
+
+**Okusama:** Na Mitsukoshi, havia umas reproduções impressas de excelente qualidade.
+
+**Senhor Musei:** Ao observar as pinturas em sumi, nota-se uma grande distinção.
+
+**Okusama:** Eram impressas, creio que da editora Kougeisha.
+
+**Senhor Musei:** Exatamente. Naquelas pinturas a tinta, é difícil distinguir o falso do verdadeiro. Recentemente, recebi de presente uma carta de Issa. Por ter sido um presente, presumi que fosse falsa. No entanto, ao mostrá-la a um antiquário especializado em obras de Issa, ele a declarou autêntica. Pensei que ninguém me daria um original e, ao examiná-la melhor, percebi que era uma impressão... Desta vez, consegui identificar por observá-la durante o dia.
+
+**Meishu-Sama:** Nós também possuímos duas caligrafias de Issa. Creio que uma delas retrata um cormorante. No outono, quando estiver em Hakone, farei questão de mostrá-las ao senhor.
+
+**Senhor Musei:** Seria uma honra poder apreciá-las.
+
+**Meishu-Sama:** Musashi parece ter sido profundamente instruído pelo monge Takuan, não é mesmo?
+
+**Senhor Musei:** Sim, eles foram contemporâneos. Ah, de fato... Embora não seja absurdo imaginar tal interação, não existem lendas que confirmem um contato entre eles. Contudo, acredito que Musashi teria se tornado um grande homem mesmo sem a influência de Takuan.
+
+---
+
+# Apreciações sobre Utensílios de Chá
+
+**Categoria:** taidan | **Ano:** 昭和28(1953)年6月17日 | **Fonte:** Eikou
+**Título Original:** 明主様と谷川徹三氏との御対談 (三) | **Status:** Published | **Edição/Página:** 213号 | **Data ISO:** 1953-06-17
+
+## Apreciações sobre Utensílios de Chá
+
+**Sr. Tanigawa:** Desta vez, não havia uma seção dedicada ao chá no Museu de Arte de Hakone, mas eu gostaria imensamente de poder apreciar também os diversos *chawan*.
+
+**Meishu-Sama:** No caso específico dos utensílios de chá, é impossível compreendê-los verdadeiramente sem manuseá-los.
+
+**Sr. Tanigawa:** Ademais, um local iluminado como um museu não é adequado para essa apreciação. As tigelas de estilo Ido, em particular, revelam sua beleza somente na penumbra de uma sala de chá.
+
+A esse respeito, tenho um relato interessante. No ano passado, o *chawan* Fuzan, de Kōetsu, foi exposto no museu. Como é imprescindível manuseá-lo para compreendê-lo, procurei o diretor e solicitei que me permitisse tocá-lo, mas ele me informou que havia recebido ordens estritas do Sr. Sakai para não o permitir. Argumentei que, ao final do dia, alguém teria de guardar a peça, e assim esperei até esse momento. Para minha surpresa, outras pessoas que também haviam recebido a mesma negativa apareceram discretamente. Foi nessa ocasião que pude examiná-lo por todos os ângulos, inclusive virando-o. Uma experiência semelhante ocorreu há seis ou sete anos, durante uma exposição no Museu de Arte Hakutsuru, onde se encontrava o *chawan* Bishamondō, de Kōetsu, pertencente à família Kōnoike. Novamente, senti a necessidade imperiosa de tocá-lo. Fui pela manhã, mas disseram-me que, enquanto houvesse público, seria impossível e que eu deveria retornar após o fechamento. Esperei por três ou quatro horas até que me concedessem a permissão. É inevitável que seja assim.
+
+**Okusama:** E, ao final, é preciso encostar os lábios levemente na borda, não é mesmo?
+
+**Meishu-Sama:** É o deleite de manuseá-los. Eu tentei adquirir o Fuzan, mas foi impossível.
+
+**Sr. Tanigawa:** Dentre esses *chawan*, meus preferidos são o Fuzan e o Amagumo.
+
+**Meishu-Sama:** São excelentes. Gosto também do Kamiya. E das obras de Chōjirō, qual o senhor prefere?
+
+**Sr. Tanigawa:** O Daikoku. Há três ou quatro anos, ele foi exibido numa grande exposição sobre a cerimônia do chá. E, como de costume, por sentir que era essencial manuseá-lo, fui ao museu de manhã cedo e esperei até o entardecer. Embora pareça um *chawan* despretensioso, possui uma qualidade indizível. Uma beleza natural, livre de qualquer artifício.
+
+**Meishu-Sama:** Essa é a verdadeira essência.
+
+**Sr. Tanigawa:** Ele se equipara ao Fuzan. Em certo sentido, creio que até o supera. Não há *chawan* com tamanha nobreza. O Amagumo é mais acessível, mais íntimo. Já o Daikoku, além de sua elevada nobreza, não é tão imponente e formal quanto o Fuzan; é algo realmente inexplicável.
+
+**Meishu-Sama:** Exato. Não há afetação. É de uma sofisticação despojada.
+
+**Sr. Tanigawa:** Precisamente. Em última análise, a excelência das tigelas Ido reside nisso: uma simplicidade generosa e sincera, sem qualquer artifício.
+
+**Meishu-Sama:** De fato. O *chawan* “Ayame”, do ano passado, recebeu muitos elogios.
+
+**Sr. Tanigawa:** É uma peça magnífica também.
+
+**Meishu-Sama:** E o que pensa do Karitoru?
+
+**Sr. Tanigawa:** Não tive a oportunidade de vê-lo pessoalmente, então não posso tecer muitos comentários, mas parece apresentar certas imperfeições.
+
+**Meishu-Sama:** O senhor conhece este?
+
+**Sr. Tanigawa:** Deixe-me observá-lo. Tem um estilo que remete a Kōetsu... Seria um Zeze Kōetsu (膳所光悦)?
+
+**Meishu-Sama:** Exatamente.
+
+**Sr. Tanigawa:** Eu o conhecia apenas por fotografias.
+
+**Meishu-Sama:** A imagem que consta no catálogo de obras-primas não lhe faz justiça.
+
+**Sr. Tanigawa:** Sim, isso é notório. Sempre ouvi dizer que o Zeze Kōetsu é uma peça singular dentro da obra de Kōetsu. A feitura de sua boca é indescritível. O pé também é notável, mas a borda é excepcional. É de uma complexidade fascinante. A forma também é esplêndida. Existe um famoso *chawan* chamado Otogozen (乙御前), cujo pé é verdadeiramente sublime, mas sua borda era um tanto sem firmeza. A deste é superior. Sim... Gostaria de ver sua caixa. Jamais imaginei que tomaria chá em um Zeze Kōetsu. Esta é uma caixa de Enshū.
+
+**Okusama:** A parte que contém o caractere “fu” lembra o estilo dos cachorrinhos de Sōtatsu.
+
+**Sr. Tanigawa:** Sim, evoca ligeiramente essa sensação. Este *chawan* foi muito utilizado. Percebe-se isso ao observar seu pé. Este desgaste na base se deve ao atrito com o tatami. Visto apenas por cima, parece uma peça muito nova, mas ao examinar o pé, revela-se sua antiguidade. É o que se poderia chamar de desgaste pelo tatami e pelas mãos. Este pé é realmente primoroso. E o modo como se avoluma suave e naturalmente na parte superior é magnífico. Em seguida, adquire uma simplicidade que, ao chegar à borda, desenha uma complexidade indizível, com uma variação absolutamente natural, sem nenhum traço de artificialidade.
+
+**Meishu-Sama:** É, sem dúvida, a arte de um mestre. E dentre as tigelas Ido?
+
+**Sr. Tanigawa:** Minha preferência recai sobre o Kizaemon Ido. E também sobre o Bishamondō.
+
+**Meishu-Sama:** E o que me diz do Tsutsuizutsu (筒井筒)?
+
+**Sr. Tanigawa:** Algumas pessoas se incomodam com suas extensas rachaduras, mas a beleza de sua forma é de primeira classe. Do ponto de vista da elegância, temos o Hosokawa Ido e o Uraku Ido, mas em termos de força, o Kizaemon é insuperável. Contudo, como o Kizaemon não possui as fissuras do Tsutsuizutsu, ele se torna intenso demais. Há quem o ache um pouco intimidador, mas não é essa a minha percepção. E há algo curioso a respeito do Tsutsuizutsu: há cerca de trinta anos, ele esteve em longa exposição no Museu de Quioto. Naquela época, parecia coberto de pó. Recentemente, porém, fui convidado pelo Sr. Saga para apreciá-lo novamente e ele estava muito mais belo. Isso se deve ao uso. Um *chawan*, quando não é usado, morre. O mesmo se aplica às pedras de tinta (*suzuri*). Diz-se que mesmo uma pedra de Tankei (端渓), se não for utilizada por um longo período, também morre. Na China, para reviver uma pedra nesse estado, eles a umedecem e a friccionam diariamente. Após cerca de três anos, ela volta à vida. Portanto, a beleza que vemos hoje nas tigelas Ido e em outras peças certamente reside nesse sabor que foi impregnado ao longo de muitos anos de uso.
+
+**Meishu-Sama:** Este Zeze Kōetsu também, imagino.
+
+**Sr. Tanigawa:** Emana dele uma beleza humana.
+
+**Meishu-Sama:** É algo de uma sutileza extraordinária.
+
+**Okusama:** Foram feitos para se beber chá; se não forem usados para esse fim, é natural que morram.
+
+**Sr. Tanigawa:** Exato. É ao ser segurada que a essência intrínseca do *chawan* é revelada. Não há no mundo cerâmica como esta. A cerâmica chinesa também é incomparável, mas nem mesmo na China existe algo como o estilo Raku. Trata-se de um gênio puramente japonês.
+
+**Meishu-Sama:** De fato. Recentemente, vi uma peça que pertenceu ao monge chinês que introduziu o chá no Japão, cujo nome agora me escapa.
+
+**Sr. Tanigawa:** Seria um celadon? Ou um Tenmoku?
+
+**Meishu-Sama:** Não era. Era um *chawan* comum, de paredes finas, semelhante à cerâmica chinesa de Yuezhou, com um tom levemente acinzentado. Sua cor era parecida com a do celadon Jukō (珠光青磁).
+
+**Sr. Tanigawa:** Então, não seria a peça do mestre zen Eisai?
+
+**Meishu-Sama:** Sim, essa mesma. Ao observá-la, senti que possuía uma qualidade notável.
+
+**Sr. Tanigawa:** Foi o mestre zen Eisai quem a trouxe. Embora se fale muito em Myōe, foi ele quem a transmitiu.
+
+---
+
+# A Origem das Doações e o Progresso da Obra Divina
+
+**Categoria:** taidan | **Ano:** 昭和25(1950)年1月21日 | **Fonte:** -
+**Título Original:** ある日の対談 | **Status:** Published | **Edição/Página:** 46号 | **Data ISO:** 1950-01-21
+
+## A Origem das Doações e o Progresso da Obra Divina
+
+Recentemente, recebi a visita de uma pessoa que ocupa um cargo de responsabilidade em outra organização religiosa.
+
+**Visitante:** É voz corrente que a vossa Igreja arrecada vultosas somas. Gostaria de compreender o porquê de tal fato.
+
+**Eu:** De fato, ouço com frequência esses comentários. Contudo, uma religião, desprovida de recursos, não consegue levar a salvação às pessoas na medida de seu ideal. A construção de um único templo, nos dias de hoje, já exige um investimento vultoso. A edificação da Sede Geral, a manutenção de nossas unidades, as publicações e outras frentes de atuação demandam recursos que se ampliam à medida que a Obra Divina se expande.
+
+Todavia, em nossa Igreja, não praticamos qualquer tipo de coação ou exploração. Todas as nossas atividades são mantidas exclusivamente por donativos, ofertados segundo a livre e espontânea vontade dos fiéis.
+
+O ponto fundamental é que os milagres concedidos por meio de nossa fé são extraordinários. Doenças graves, consideradas incuráveis e até sentenciadas à morte pela medicina, alcançam a cura. Em outras palavras, a profunda gratidão por ter a vida – que é única – restituída, materializa-se na forma de donativo. É natural, portanto, que a sinceridade desse sentimento se traduza em ofertas de valor superior àquelas feitas por mera formalidade ou convenção social.
+
+Nesse sentido, os recursos arrecadados são prontamente revertidos para as despesas com as construções e com a ampla difusão da fé. No entanto, as somas astronômicas veiculadas em jornais e revistas não passam de boatos infundados. Os jornalistas que propagam tais inverdades incorrem, com isso, em grave erro espiritual.
+
+**Visitante:** Compreendo. Fui plenamente esclarecido.
+
+---
+
+# Um Diálogo sobre a Política e a Fé
+
+**Categoria:** taidan | **Ano:** 昭和24(1949)年8月27日 | **Fonte:** -
+**Título Original:** ある政客との対談 | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1949-08-27
+
+## Um Diálogo sobre a Política e a Fé
+
+Recentemente, em cumprimento a um compromisso previamente agendado, tive a oportunidade de dialogar por várias horas com um certo político. Trata-se de uma figura de notável influência, que por duas vezes ocupou o cargo de ministro.
+
+**A necessidade da consciência política**
+
+O interlocutor indagou: "Qual é, em sua opinião, a medida mais importante a ser tomada no Japão de hoje?"
+
+Respondi: "Antes de tudo, é imperativo despertar o interesse do povo pela política, inculcando-lhe uma sólida educação cívica. Atualmente, a grande maioria dos japoneses demonstra indiferença a respeito de quem se torna ministro ou de qual partido forma o gabinete. A mentalidade que prevalece, e esta é a sua genuína expressão, é a de que, contanto que suas vidas sejam minimamente confortáveis, o resto não importa. Isso evidencia um baixo nível de instrução geral, que precisa ser urgentemente elevado. Penso que cada cidadão deve chegar ao ponto de sentir-se, ele próprio, um estadista."
+
+"Compreendo, sua explanação é irretocável", disse ele. "E quanto às ações no campo da política?"
+
+**Conceder tempo ao gabinete**
+
+Retomei: "Os gabinetes no Japão são efêmeros, e sob tais condições, é impossível realizar uma boa administração. Por mais competente que seja um político, é inviável que ele execute um plano de governo notável em apenas seis meses ou um ano. É fundamental conceder um período razoável para que as políticas sejam implementadas em silêncio. Somente se os resultados forem negativos é que se deveria iniciar um movimento para a substituição do governo. Em suma, é preciso haver mais tolerância para com o gabinete.
+
+Todavia, no Japão, tão logo um novo governo é formado, iniciam-se de imediato os esforços para derrubá-lo. Não se discute o mérito das políticas; o único objetivo parece ser a queda do gabinete. Países onde os governos se sucedem com tamanha frequência, como a França e a Itália, não conseguem prosperar. Nos Estados Unidos, por outro lado, um mandato de quatro anos permite que se trabalhe com calma e afinco. Mesmo no Reino Unido, uma vez que um gabinete recebe o voto de confiança, não se levantam acusações levianas por pequenas insatisfações; a nação observa com serenidade. O atual gabinete trabalhista é um claro exemplo disso.
+
+E não é só. A cada mudança de governo no Japão, as substituições se estendem até os mais baixos escalões da administração local. Desse modo, torna-se impossível trabalhar com tranquilidade. Os funcionários estão permanentemente inseguros em seus postos. Justamente quando se familiarizam com a função e estão prestes a realizar um trabalho efetivo, são substituídos. Considero que uma reforma radical nesse sistema é absolutamente fundamental."
+
+Presente na conversa, o presidente de um jornal interveio: "Penso que seria uma boa medida fixar o mandato dos parlamentares em três anos, sem possibilidade de dissolução da câmara."
+
+**A urgência por novas lideranças**
+
+O político comentou: "O Gabinete Yoshida parece-me indiferente à classe trabalhadora. O primeiro-ministro vive recluso em Oiso, mas creio que seria melhor se ele viesse com mais frequência ao centro do poder."
+
+Concordei: "De fato, há certa verdade nisso. Transmite-se uma impressão de aristocraticismo, um resquício do estilo dos políticos da antiga geração. Sou da firme opinião que, de agora em diante, é imprescindível o surgimento de novas lideranças."
+
+"Compartilho do mesmo sentimento", disse ele. "Os políticos antigos foram, em sua maioria, afastados por expurgos, e os que restaram são antiquados. É tempo de surgirem novos líderes, na faixa dos quarenta anos."
+
+Eu lhe disse: "Sua missão, então, é preparar o terreno para a ascensão desses novos talentos."
+
+"É o que penso também", respondeu. "Os mais velhos devem aplainar o caminho."
+
+"Naturalmente", acrescentei, "e esses novos líderes devem possuir, além de tudo, magnanimidade. A mentalidade nacionalista ou étnica já não é suficiente; é preciso ter uma visão global. A meta deve ser o que os americanos propõem: um Estado Mundial."
+
+O jornalista ao lado observou: "É a mesma opinião do nosso presidente. Ele há muito defende uma visão mundialista e, nesse ponto, coincide com o senhor."
+
+**A convergência de ideais**
+
+O político exclamou: "Ora, eu penso da mesma forma! Se nossas opiniões coincidem, gostaria que nos reuníssemos periodicamente para nos dedicarmos à construção de um Estado Mundial."
+
+"Isso", afirmei, "é o que constantemente designamos como Paraíso Terrestre, isento de doença, pobreza e conflito. A base para tal mundo reside na erradicação da doença, mas a medicina moderna comete um erro colossal nesse aspecto. O primeiro passo é o esclarecimento. Atualmente, estou redigindo um ensaio intitulado 'Um Apelo aos Cientistas Médicos do Mundo Inteiro', que pretendo submeter às universidades e academias de todo o planeta. Será escrito em inglês, alemão e francês, com o propósito de promover uma revolução na medicina mundial."
+
+"Ainda não conheço a medicina preconizada pelo senhor, mas pretendo estudá-la gradualmente", disse o político.
+
+**A precipitação do Partido Comunista**
+
+Durante nossa conversa, o tema do Partido Comunista veio à tona.
+
+Expus meu pensamento: "De agora em diante, partidos limitados a rótulos como 'de esquerda' ou 'de direita' estão fadados ao fracasso. O conflito impede a realização da boa política, que é o essencial. Em minha visão, é necessária a criação de um novo partido, com um contorno mundial, que abarque todas as correntes: conservadores, comunistas, socialistas e qualquer outra ideologia. Esse partido unificado deverá guiar a nação. Minha religião, por essa razão, está estruturada para se harmonizar com qualquer linha de pensamento.
+
+O Partido Comunista, recentemente, começou a demonstrar precipitação, o que indica que seu auge já passou. Quando a precipitação se instala, seja no que for, o fim está próximo. É preciso ter serenidade. A boa fortuna deve ser aguardada com paciência. A pressa gera atos impensados que levam ao fracasso. O caso de Ashida e outros é um bom exemplo disso."
+
+**A integridade nas doações políticas**
+
+O político observou: "Meus colegas e eu somos todos inábeis para ganhar dinheiro, e por isso vivemos em dificuldades."
+
+Comentei: "Isso é excelente. Aqueles que eram hábeis em ganhar dinheiro acabaram na prisão de Kosuge. A meu ver, não haveria problema algum com as doações políticas se fossem feitas de maneira íntegra e transparente. A condição, contudo, é que não haja a menor troca de favores ou interesses escusos. Infelizmente, pessoas ricas com essa mentalidade são praticamente inexistentes no Japão. Até hoje, o objetivo sempre foi a obtenção de privilégios, motivo pelo qual as doações são feitas em segredo, gerando criminalidade.
+
+No entanto, os políticos necessitam de um certo volume de recursos. Portanto, o primeiro passo é criar uma sociedade na qual pessoas abastadas façam doações abertamente, por acreditarem que determinado partido realmente fará uma boa política. É por essa razão que, nos Estados Unidos, surgem bons políticos.
+
+Há um ponto ainda mais crucial: daqui para a frente, um político sem fé religiosa não terá sucesso. Tanto MacArthur quanto Truman são cristãos devotos. Meu objetivo também é este: meu ideal é formar políticos notáveis, dotados de uma profunda consciência religiosa."
+
+O político, o presidente do jornal e o repórter, em uníssono, declararam: "Esta reunião foi extremamente proveitosa. Gostaríamos de nos encontrar periodicamente para trocar opiniões." E assim, nosso encontro se encerrou.
+
+---
+
+# A Construção do Paraíso na Terra e a Salvação pela Alegria
+
+**Categoria:** taidan | **Ano:** 昭和27(1952)年7月9日 | **Fonte:** Eikou
+**Título Original:** 明主様 レモン・カルティエ氏夫妻と御対談 | **Status:** Published | **Edição/Página:** 164号 | **Data ISO:** 1952-07-09
+
+## A Construção do Paraíso na Terra e a Salvação pela Alegria
+### Diálogo com o Senhor e a Senhora Raymond Cartier
+
+Em 22 de junho de 1952, a sala de recepções da residência Kanzanso, em Shinsenkyo, assemelhava-se à ponte de comando de um navio, projetada sobre o oceano de árvores do Grande Vale de Hakone.
+
+Às duas horas da tarde, o senhor Raymond Cartier, redator-chefe da Paris Match, a maior revista da França, acompanhado de sua esposa; a senhora Tatsuko Tatsuke (fiel de nossa Igreja), funcionária do Departamento de Informação e Cultura do Ministério das Relações Exteriores, que gentilmente serviu como intérprete; um assistente; o reverendo Abe; o diretor-executivo Kihara; o ministro-adjunto Nagamura, da Igreja Chusei; e dois outros, incluindo este repórter, aguardavam em respeitoso silêncio. Após alguns minutos, Meishu-Sama adentrou o recinto, trajando um singelo haori. Cumprimentou a todos e, em seguida, tomaram assento. Uma atmosfera impregnada de serena luz pairava no ambiente. A seguir, transmitimos aos fiéis, por meio de transcrição taquigráfica, o teor do diálogo que se desenrolou.
+
+**Meu objetivo é a construção do Paraíso na Terra**
+
+**Sr. Cartier:** Sou muito grato por Vossa Excelência ter nos concedido seu tempo, apesar de sua agenda tão preenchida. Sentimo-nos profundamente honrados. Temos a esperança de que, ao ouvi-lo, possamos nos tornar pessoas melhores. O que mais lamento é a impossibilidade de conversarmos diretamente.
+
+**Meishu-Sama:** De fato. Lembro-me de ter lido em um jornal, há algum tempo, sobre um francês que se dedicava intensamente ao estudo da arte japonesa. Seria o senhor?
+
+**Sra. Tatsuke:** Este senhor é o redator-chefe da maior revista da França. Ele tem percorrido o mundo, visitando o Sudeste Asiático e outras regiões, para observar a situação do pós-guerra. O Japão é a última etapa de sua viagem, antes de retornar ao seu país. Ele nutre um interesse muito grande pela arte.
+
+**Sr. Cartier:** Meu propósito é observar pessoalmente os acontecimentos em diversas nações e a conjuntura internacional para poder apresentá-los aos meus leitores. O Japão, em particular, tem passado por notáveis transformações. Na Índia, especialmente, ouvi dizer que o país mudou sob o ponto de vista religioso.
+
+**Meishu-Sama:** Gostaria de expor, em linhas gerais, o meu objetivo. Meu propósito é criar uma obra de arte ideal, que harmonize a beleza natural com a beleza criada pelo homem. A arte, em si, pertence à beleza artificial, pois é fruto da ação humana. A outra é a beleza da Natureza. Para tanto, no ponto mais central e belo de Hakone, criei este jardim que os senhores podem contemplar. Ele representa um modelo, em pequena escala, do Paraíso na Terra. E o Paraíso Terrestre é, em essência, um Domínio da Arte.
+
+**Sr. Cartier:** Ainda não tive a oportunidade de visitar o museu, mas, no que diz respeito à beleza natural, jamais vi algo tão esplêndido.
+
+**Meishu-Sama:** Sou um religioso, porém, adoto uma perspectiva singular. Contrariamente aos métodos tradicionais, que se baseiam em austeridades e sofrimentos para conduzir à salvação, meu caminho propõe a salvação por meio da alegria. Nesse sentido, considero a arte um elemento absolutamente essencial para a religião.
+
+**Como a fé Messiânica se desenvolveu**
+
+**Sr. Cartier:** De todo modo, o senhor tem propagado um ensinamento que, ao que parece, já atraiu um grande número de fiéis. Seus ensinamentos têm se expandido de acordo com seus desígnios? Ou o ritmo ainda não é tão rápido quanto o esperado?
+
+**Meishu-Sama:** Não, o desenvolvimento tem superado minhas expectativas.
+
+**Sr. Cartier:** A expansão se restringe ao Japão ou já alcançou outras nações?
+
+**Meishu-Sama:** Minha meta é o mundo. Recentemente, a doutrina começou a se difundir gradualmente nos Estados Unidos e no Havaí. Embora no Havaí ainda se restrinja aos japoneses, meu objetivo são as pessoas de todas as nações. E, dentro do cenário mundial, desejo primeiramente que as nações de cultura mais elevada compreendam. A partir daí, os países de menor desenvolvimento cultural assimilarão naturalmente a verdade. Por isso, estamos agora iniciando o trabalho de divulgação em países de alta cultura, como os Estados Unidos, a França e a Inglaterra.
+
+**Sr. Cartier:** E que métodos o senhor emprega atualmente para alcançar tal objetivo?
+
+**Meishu-Sama:** O principal fator do meu crescimento — um crescimento, aliás, sem precedentes na história das religiões — reside na cura de doenças. Começamos em agosto de 1947; portanto, em agosto deste ano, completaremos cinco anos de atividade. Nesses cinco anos, alcançamos mais de trezentos mil fiéis. E a expansão continua, dia após dia, mês após mês. A razão primordial é a cura de doenças.
+
+**Sr. Cartier:** Nos Estados Unidos, o senhor também tem discípulos capazes de curar enfermidades?
+
+**Meishu-Sama:** Sim, tenho.
+
+**Sr. Cartier:** Americanos?
+
+**Meishu-Sama:** Sim, também americanos.
+
+**Sr. Cartier:** E esses americanos foram curados aqui, pelo senhor?
+
+**Meishu-Sama:** Exatamente.
+
+**Sr. Cartier:** O poder de curar doenças foi-lhe concedido por Deus, ou…?
+
+**Meishu-Sama:** É um poder divino. É Deus quem está presente e cura as enfermidades. Por exemplo, se alguém sente dor de cabeça, basta que eu faça assim [Meishu-Sama demonstra o gesto de ministrar Johrei] para que a dor desapareça.
+
+**Sr. Cartier:** E todos os seus discípulos também podem fazê-lo?
+
+**Meishu-Sama:** Sim. Concedo aos discípulos um Amuleto Sagrado. Ao usá-lo no pescoço, estabelece-se uma linha espiritual — um elo de luz — que vai do meu corpo ao amuleto. Embora invisível, uma espécie de luz emana do corpo da pessoa, e é por meio dessa luz que as doenças são curadas. Muitas pessoas são capazes de ver essa luz.
+
+**Sr. Cartier:** Seria possível ver um desses Amuletos Sagrados?
+
+**Meishu-Sama:** Sim, claro.
+(O reverendo Abe abre um Amuleto Sagrado e o mostra.)
+
+**Sr. Cartier:** Se o senhor possui o poder de curar, por exemplo, uma dor de cabeça, o senhor também seria capaz de causá-la?
+
+**Meishu-Sama:** Não, isso é impossível. Este poder é puramente para o bem. Causar dor pertence ao mal, pois é um sofrimento. Contudo, há casos em que, para eliminar uma dor, uma outra dor se manifesta temporariamente. Trata-se do processo de purificação.
+
+**Sr. Cartier:** Que tipo de treinamento é necessário para receber um Amuleto Sagrado e poder curar pessoas?
+
+**Meishu-Sama:** Não há necessidade de práticas ascéticas. Basta que participem de um curso de três a cinco dias, no qual apenas ouvem explanações. Ao receberem o Amuleto Sagrado, tornam-se aptos a curar.
+
+**Sr. Cartier:** É preciso, então, ter uma fé convicta nas revelações de Deus?
+
+**Meishu-Sama:** Não é necessário. No início, podem duvidar. Podem duvidar o quanto quiserem. Não duvidar desde o princípio seria falsear a si mesmo. Exigir fé em algo que é, a princípio, inacreditável, seria uma forma de autoengano. Não se trata de um poder pessoal; é o poder de Deus que é concedido.
+
+**Sr. Cartier:** Então, o senhor concede o Amuleto Sagrado quando julga que a pessoa está pronta, que é capaz de realizar a obra?
+
+**Meishu-Sama:** Não, de forma alguma.
+
+**Sr. Cartier:** De que maneira o senhor recebeu a revelação divina?
+
+**Meishu-Sama:** Não há necessidade de processos complicados como revelações. Quando Deus deseja realizar algo, eu simplesmente sei, de forma direta.
+
+**Sr. Cartier:** Sem nenhuma forma visível?
+
+**Meishu-Sama:** Eu sinto. O senhor se refere às doenças?
+
+**Sr. Cartier:** Não, refiro-me ao momento em que Deus se manifestou no senhor. Como isso ocorreu?
+
+**Meishu-Sama:** No início, Deus manifestou-Se em mim. A esse fenômeno, em japonês, chamamos de possessão divina. Com o tempo, Deus passou a habitar em meu ventre. Em nossa língua, descrevemos essa condição como a união plena entre Deus e o homem.
+
+**Transformar o mundo em um Paraíso**
+
+**Sr. Cartier:** Enquanto o senhor estiver presente, tudo transcorrerá bem. Mas, e quando o senhor não estiver mais aqui, o que acontecerá com a sua sucessão?
+
+**Meishu-Sama:** Quando eu partir, minha presença não será mais necessária. Isso porque, ainda em vida, farei com que o mundo se torne um lugar onde tal necessidade não mais exista.
+
+**Sr. Cartier:** Seria algo como o seguinte? No Cristianismo, após a morte de Cristo, a Igreja permaneceu para dar continuidade à sua obra. No seu caso, o senhor pretende realizar tudo durante sua vida, de modo que, posteriormente, não haverá necessidade de uma igreja ou de uma doutrina para administrar seu legado?
+
+**Meishu-Sama:** Exatamente, não haverá necessidade. A razão é que minha missão é erradicar a doença do mundo. E, uma vez que a doença seja extinta, os homens maus deixarão de existir. A maldade é, em sua essência, uma enfermidade. E, se não houver mais pessoas más, a religião se tornará desnecessária.
+
+**Sr. Cartier:** Então, o senhor pretende eliminar as doenças do mundo ainda durante sua vida?
+
+**Meishu-Sama:** Sim. A doença tem uma causa. Até hoje, a humanidade esteve equivocada quanto à sua verdadeira origem. Eu vim para revelar essa causa. Atualmente, estou escrevendo um livro sobre o assunto, que será distribuído em todo o mundo.
+
+**Sr. Cartier:** Se as doenças deixarem de existir, a morte se tornará algo muito distante, não?
+
+**Meishu-Sama:** Exatamente. Todos os seres humanos viverão mais de cem anos.
+
+**Até mesmo os discípulos reproduzem os milagres de Cristo**
+
+**Sr. Cartier:** Figuras como Cristo, Maomé e Xáquia foram, de alguma forma, portadores de uma missão divina ao virem a este mundo?
+
+**Meishu-Sama:** Sem dúvida, mas o poder que lhes foi concedido por Deus era limitado; era fraco. Entre os meus discípulos, muitos são capazes de manifestar milagres de magnitude semelhante aos de Cristo. Por isso, a fé Messiânica que ensino não é uma religião no sentido convencional. As religiões, por si sós, não detêm o poder de salvar a humanidade. Elas serviram apenas como uma ponte, para que a humanidade pudesse ser salva em certo grau, até a minha chegada.
+
+**Sr. Cartier:** Na Bíblia, consta que Cristo ressuscitou um homem ao terceiro dia de sua morte, e os fiéis acreditam firmemente nisso. Para que um católico acredite em seus ensinamentos, seria preciso testemunhar um milagre semelhante, como a ressurreição de um fiel. O senhor é capaz de realizar tal feito?
+
+**Meishu-Sama:** Meus discípulos são perfeitamente capazes. Há casos de discípulos que trouxeram de volta à vida pessoas já consideradas mortas. Portanto, se os senhores se tornarem meus discípulos, também poderão realizar feitos como os de Cristo.
+
+**Sr. Cartier:** Em outras palavras, o senhor tem o poder de fazer com que os mortos retornem à vida?
+
+**Meishu-Sama:** Sim.
+
+**Sr. Cartier:** E seus discípulos também?
+
+**Meishu-Sama:** Sim, eles também.
+
+**Sr. Cartier:** E o poder de, a exemplo de Cristo, prover alimento onde não há, ou de tornar a terra mais fértil?
+
+**Meishu-Sama:** Sim, somos capazes. Tais ocorrências são numerosas.
+
+**O espírito de Cristo atuará sobre os católicos**
+
+**Sr. Cartier:** Pessoalmente, desejo ardentemente que seus ensinamentos se espalhem por todo o mundo.
+
+**Meishu-Sama:** Indubitavelmente, assim será. E, com o tempo, os católicos se tornarão fiéis da fé Messiânica. E quem fará isso acontecer não serei eu, mas o próprio Cristo. O espírito de Cristo os guiará para que se tornem seguidores da fé Messiânica.
+
+**Sr. Cartier:** O senhor sabe que os católicos inevitavelmente seguirão esse caminho por meio de alguma revelação?
+
+**Meishu-Sama:** Não se trata disso. Não é necessário que eu exerça grande esforço nesse sentido. Do Mundo Espiritual, o próprio Cristo atuará para que eles, por iniciativa própria, sintam a necessidade de se aproximar de mim. Tanto Cristo quanto Xáquia esperavam pelo meu nascimento. Cristo e Xáquia foram profetas. Cristo profetizou que "o Reino dos Céus está próximo", mas não disse que ele mesmo o construiria. Xáquia também anunciou a vinda da Era de Miroku, mas não afirmou que ele a realizaria.
+
+**Sr. Cartier:** Os cristãos acreditam que não há nada acima de seu Deus.
+
+**Meishu-Sama:** Isso não é verdade. Existe o Pai Celestial. E a obra do Pai Celestial é a que eu realizo.
+
+**Sobre o Advento do Messias**
+
+**Sr. Cartier:** Cristo é considerado o Messias.
+
+**Meishu-Sama:** Ele não é o Messias.
+
+**Sr. Cartier:** É assim que se crê. Como, então, os católicos poderão aderir à sua fé? Eles esperam um segundo Messias. Os judeus, por sua vez, ainda aguardam a primeira vinda. Poderia nos falar sobre o advento?
+
+**Meishu-Sama:** Não posso falar detalhadamente sobre isso. Se eu me declarasse abertamente como o Messias ou o próprio Cristo, seria assediado por uma multidão e não conseguiria mais trabalhar. Tenho muitas tarefas a cumprir e muitos escritos a concluir. É a minha Bíblia. Até que esteja pronta, não farei um anúncio público. Por essa razão, mantenho meus pronunciamentos velados.
+
+**Sr. Cartier:** Com sua licença, gostaria de fotografar suas mãos, se possível.
+
+**Meishu-Sama:** Sim, claro.
+(Meishu-Sama ergue as mãos, que são fotografadas de frente.)
+
+**Sra. Cartier:** Publicaremos com a legenda: "As mãos que curam o sofrimento do mundo".
+
+**Sr. Cartier:** Quando sua Bíblia estará pronta?
+
+**Meishu-Sama:** Creio que por volta do próximo ano. O título da obra é "A Criação da Civilização".
+
+**Sr. Cartier:** Assim que for publicada, gostaríamos de recebê-la o mais breve possível.
+
+**Meishu-Sama:** Tenho também diversas outras publicações. Entregarei todas a vocês. Nelas, encontrarão relatos de meus discípulos que realizaram feitos semelhantes aos de Cristo, entre outros textos. Leiam-nos, por favor.
+
+**Sr. Cartier:** Em inglês?
+
+**Meishu-Sama:** Não, em japonês.
+
+**Sr. Cartier:** Agradeço imensamente. Meus sinceros agradecimentos.
+
+**Meishu-Sama:** Desejam ver o museu? Antes, porém, gostaria de dizer algo. O que construí aqui é um modelo, em escala muito reduzida, do Paraíso que será estabelecido em todo o mundo. É esse o seu significado.
+
+***
+
+O diálogo transcorreu em uma atmosfera de absoluta harmonia, pontuado por momentos de riso franco diante das observações espirituosas de Meishu-Sama. Um dos momentos mais interessantes ocorreu quando a senhora Logi Cartier, de forma espontânea, pediu a Meishu-Sama: "Gostaria de publicar com a legenda 'As mãos que curam o sofrimento do mundo', por isso peço permissão para fotografar suas mãos". Fiquei impressionado com sua argúcia ao conceber um título tão original. Meishu-Sama respondeu com naturalidade: "Ah, claro", e, virando-se de lado, ergueu as mãos enquanto o flash disparava. Foi um instante de fluidez cristalina, como a água que corre sem obstáculos.
+
+Concluída a conversa, Meishu-Sama retirou-se, e o grupo dirigiu-se ao museu. Lá, para nossa surpresa, Meishu-Sama reapareceu para pessoalmente guiá-los.
+
+Em uma sala de proporções impressionantes, uma coleção de obras-primas da pintura e da cerâmica, antigas e modernas, estava disposta de forma tão abundante que o espaço parecia pequeno. Não foi de se estranhar que os visitantes proferissem exclamações de assombro. A questão que certamente pairava em suas mentes era como tamanho acervo pôde ser reunido. Finalmente, o senhor Cartier perguntou: "Como o senhor conseguiu reunir todas estas peças?". Meishu-Sama respondeu prontamente: "É um milagre". Profundamente comovido, o senhor Cartier disse: "É verdadeiramente espantoso. Um autêntico milagre". Meishu-Sama acrescentou: "Eu também penso assim. Pessoas à beira da morte são curadas e, em gratidão, oferecem donativos em dinheiro. É com esses donativos que adquirimos estas obras. Afinal, suas vidas foram salvas". O senhor Cartier assentiu, compreendendo. Em seguida, com um toque de humor, comentou: "Podemos considerar nossa vinda aqui um pequeno milagre também?". Meishu-Sama respondeu com uma grande risada: "Claro que sim!".
+
+A senhora Cartier, observando as peças de cerâmica, apontou para uma delas e disse: "Esta parece ser a melhor". Meishu-Sama, elogiando sua percepção erudita, concordou: "Sim, de todas estas, é a melhor. A senhora tem um ótimo olho". A senhora Cartier, visivelmente encantada com as obras-primas, perguntou, com genuína preocupação: "Não há receio de roubos?". Meishu-Sama respondeu com tranquilidade: "Não, não me preocupo com isso". Com um ar travesso, ela replicou: "Então, se não há com que se preocupar, acho que virei esta noite para levar aquela tigela". Meishu-Sama, rindo, disse: "Experimente levá-la. Verá que Deus a apertará com força". Foi, de fato, um momento muito aprazível.
+
+(Repórter Chinryu)
+
+---
+
+# Diálogo sobre a Defesa da Nação
+
+**Categoria:** taidan | **Ano:** 昭和24(1949)年9月17日 | **Fonte:** -
+**Título Original:** ある客との対談 | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1949-09-17
+
+## Diálogo sobre a Defesa da Nação
+
+Recentemente, tive um diálogo com uma autoridade de alto escalão das forças policiais.
+
+Disse-me o visitante: "Atualmente, a maior preocupação do Japão é a contenção do comunismo. Para tal, seria imperativo fortalecer o poderio policial. Todavia, como o aumento do efetivo policial apresenta certas dificuldades, precisamos aprimorar a capacidade operacional da polícia nacional com os recursos atuais. Para uma eventual emergência, é essencial uma ação coordenada e de máxima rapidez. Nesse sentido, estamos empreendendo todos os esforços."
+
+Ao que respondi: "Compreendo. De fato, como medida para sanar uma urgência imediata, concordamos que não há outra alternativa. Contudo, tal abordagem é meramente paliativa, carecendo de uma solução fundamental e permanente. Portanto, torna-se indispensável que, para além dos métodos materiais, se busque um alicerce espiritual. Esse alicerce, evidentemente, é a fé. As religiões preexistentes, como a própria realidade demonstra, já não possuem a força necessária. É imprescindível, pois, o surgimento de uma nova e vigorosa religião, sem precedentes na história.
+
+Permita-me ilustrar com uma analogia da medicina contemporânea. A medicina atual postula que a causa de todas as doenças reside nos micróbios. Consequentemente, o temor a esses micro-organismos tornou-se exacerbado, a ponto de se poder afirmar que toda a sociedade, das altas esferas ao povo, padece de uma verdadeira fobia de micróbios. Isso se deve ao risco de que a invasão do corpo por micróbios possa desencadear enfermidades, uma precaução que, no cenário atual, é compreensível.
+
+Todavia, o cerne da questão é que, se o indivíduo possuir um corpo saudável, imune ao desenvolvimento de doenças mesmo diante da invasão de micróbios, o problema estará fundamentalmente resolvido. O mesmo raciocínio se aplica às ideologias. Seja o comunismo ou qualquer outro 'ismo', o povo deve possuir a capacidade de discernimento para acolher o que é benéfico e repelir o que é nefasto. Essa capacidade de discernimento é análoga a um corpo saudável, imune aos micróbios; é, por assim dizer, a constituição de uma saúde ideológica. E tal saúde só pode ser alcançada por meio de uma religião verdadeiramente poderosa. Sendo assim, o ideal é que o fortalecimento das forças policiais e o fortalecimento espiritual por meio da religião avancem em conjunto, um complementando o outro."
+
+"Compreendi perfeitamente. Espero que sua religião se empenhe grandemente nessa missão", disse ele, ao se despedir.
+
+---
+
+# Um Diálogo com Meishu-Sama: A Gênese da Fé e a Realidade do Mundo Espiritual
+
+**Categoria:** taidan | **Ano:** 昭和26(1951)年5月6日 | **Fonte:** 週刊朝日
+**Título Original:** 問答有用 徳川夢声 連載対談 | **Status:** Published | **Edição/Página:** 1642号 | **Data ISO:** 1951-05-06
+
+## Um Diálogo com Meishu-Sama: A Gênese da Fé e a Realidade do Mundo Espiritual
+
+**Entrevista de Tokugawa Musei, publicada na revista *Shukan Asahi*, edição de 6 de maio de 1951.**
+
+Este é o nosso segundo encontro. O primeiro ocorrera cerca de vinte dias antes, por ocasião do Culto da Primavera da Igreja Messiânica, quando, como parte das oferendas artísticas a Deus, tive a honra de apresentar um monólogo sobre Miyamoto Musashi, sucedendo a cantora Hamako Watanabe e sua orquestra. Foi somente após minha apresentação que pude avistar-me com Meishu-Sama, conhecido pelo mundo como O-Hikari-Sama.
+
+Desta vez, fui conduzido em um Chrysler recém-adquirido para inspecionar uma grandiosa obra de engenharia civil em andamento próximo ao cume da montanha. A vista dali era de uma beleza verdadeiramente sublime, a ponto de me surpreender que tal localidade existisse em Atami. De fato, se nesse cenário magnífico se erguessem o palácio, o museu de arte e os canteiros de inestimável variedade cromática, conforme o plano de Meishu-Sama, estaríamos diante da própria materialização do Paraíso Terrestre. Contudo, parecia-me igualmente natural que a Receita Federal mantivesse um olhar atento sobre tudo aquilo.
+
+O próprio Meishu-Sama, entretanto, evitava qualquer ostentação. Trajava um quimono discreto e seu penteado lembrava o de um simples comerciante. Nele não se percebia qualquer trejeito de um mercador da fé. Naturalmente, eu já havia lido e ouvido toda sorte de rumores e notícias a seu respeito.
+
+*(Nota preambular de Musei)*
+
+**O dinheiro aflui, embora não seja o objetivo**
+
+**Musei:** No presente momento, a instituição está registrada como uma corporação religiosa, correto?
+
+**Okada:** Sim. Até recentemente, o registro de corporações religiosas era meramente declaratório. No entanto, com a promulgação da nova Lei das Corporações Religiosas, o sistema passou a ser de certificação, o que impede que qualquer um, a seu bel-prazer, possa fundar uma organização. Essa legislação veio para coibir a criação indiscriminada de tais entidades.
+
+**Musei:** Antes, de fato, bastava que alguém, mesmo morando em um casebre de favela, declarasse ser um líder religioso, e o registro estava feito. (risos)
+
+**Okada:** Havia muitos que viam a religião como uma iniciativa empresarial.
+
+**Musei:** É possível que, hoje em dia, tal empreendimento tenha uma taxa de sucesso maior do que muitos negócios convencionais.
+
+**Okada:** De alguma forma, nossa igreja acabou se tornando um alvo. Jornais e revistas publicaram, com grande estardalhaço, que possuíamos rendimentos assombrosos e vastas fortunas, o que serviu de grande estímulo para outros. Em particular, a questão fiscal que enfrentamos nos últimos anos parece ter sido um catalisador notável, pois, desde então, o número de novas corporações religiosas aumentou vertiginosamente.
+
+**Musei:** Os japoneses têm uma inclinação para imitar tudo o que veem. Ao lerem os artigos sobre sua instituição, certamente alguns pensaram: “Eis uma excelente ideia”, e decidiram seguir pelo mesmo caminho.
+
+**Okada:** As pessoas enxergam isso como um negócio lucrativo. Todavia, as coisas costumam acontecer de maneira inversa. Eu, que sempre detestei a notoriedade e busquei agir com a máxima discrição, obtive o resultado oposto. E ainda que o dinheiro jamais tenha sido meu objetivo, ele começou a afluir naturalmente. E não se pode simplesmente recusar o que chega. (risos)
+
+**Musei:** Certamente, não é algo a ser recusado. (risos)
+
+**Okada:** Com os recursos que chegavam, naturalmente iniciamos um grande projeto. No ano passado, porém, devido ao processo judicial e a outras adversidades, nossas receitas sofreram uma queda abrupta. Não podíamos simplesmente retrair os projetos que já havíamos expandido de forma tão ampla, o que nos colocou em considerável dificuldade. A situação começou a se estabilizar apenas recentemente. O fato é que, neste mundo, por mais que tracemos planos, as coisas raramente acontecem como o previsto.
+
+**Musei:** De fato, raramente acontecem. E penso que é justamente isso que torna a vida interessante. Se tudo ocorresse conforme o planejado, o próprio ato de planejar perderia o sentido, e a existência se tornaria desoladora.
+
+Gostaria, se não houver objeção, de indagar a respeito de seus ensinamentos. Li as publicações de sua igreja e, sem querer forçar uma concordância, percebo que possuo uma visão religiosa com muitos pontos em comum.
+
+**Okada:** Acredito que sim. Ao ouvir suas diversas reflexões, noto que há nelas uma espécie de filosofia religiosa. Isso as torna muito interessantes.
+
+**Musei:** Sua visão religiosa, naturalmente, não se formou da noite para o dia, mas evoluiu gradualmente até o ponto atual e, presumo, continuará a evoluir. Poderia me contar qual foi a trajetória que o conduziu a este caminho? Não me refiro à trajetória externa, mas à evolução de seu pensamento a respeito de Deus.
+
+**Do sucesso como comerciante à falência e à Oomoto-kyo**
+
+**Okada:** Falando abertamente, sem adornos, a história é a seguinte. Desde jovem, jamais tive a intenção de me tornar um religioso. Meu primeiro anseio foi ser pintor, a ponto de ingressar em uma escola de belas-artes. Contudo, um problema de visão me forçou a desistir. Em seguida, contraí tuberculose e passei um longo período acamado, do qual me recuperei com dificuldade. Depois disso, ao observar o mundo, concluí que o futuro pertencia ao comércio e aos negócios, e decidi me dedicar a ganhar dinheiro. Adquiri uma pequena loja de armarinhos que estava à venda, utilizando para isso recursos que havia recebido de meu pai. Para minha surpresa, o negócio prosperou. Acumulei um capital de cerca de 150 a 200 mil ienes, o que, por volta de 1919 ou 1920, me tornava um homem de sucesso.
+
+**Musei:** Duzentos mil ienes! Em valores atuais, seriam no mínimo dois milhões, ou talvez até vinte milhões de ienes! Um sucesso estrondoso, de fato. Afinal, essa era a época em que Takayanagi Junnosuke se notabilizou por seu método de poupar dez mil ienes.
+
+**Okada:** Ah, sim, eu também pratiquei esse método de poupança. (risos) O dinheiro, uma vez que começa a se acumular, ganha velocidade. Em dois ou três anos, cheguei a ter entre 150 e 200 mil ienes, e me senti no topo do mundo.
+
+Contudo, possuo uma natureza que se indigna com as injustiças do mundo, e ao observar a sociedade daquela época, sentia um impulso irresistível de promover uma reforma social. Por um tempo, cheguei a aderir ao pensamento comunista. (A ideia de Meishu-Sama comunista é fascinante!) No fim, porém, concluí que o instrumento mais eficaz para reformar a sociedade era a imprensa. Decidi fundar um jornal, mas ao pesquisar, descobri que, na época, seria necessário um capital de no mínimo um milhão de ienes. Com essa meta em mente, expandi meus negócios e atendi a pedidos para financiar outros empreendimentos — não diretamente, mas por meio de especialistas em cada área. A economia estava aquecida. Calculei que em cinco ou seis anos poderia alcançar o milhão de ienes. No entanto, o colapso financeiro de março de 1920 me arruinou completamente, em decorrência da falência de bancos com os quais eu tinha relações de crédito.
+
+Como resultado, em tempos de aflição, recorremos a Deus, e assim busquei a fé. Investiguei diversas crenças, mas nenhuma me satisfazia. Foi nessa época que a Oomoto-kyo começava a se tornar conhecida.
+
+**Musei:** Ah, sim, recordo-me dessa época. O falecido dramaturgo Kaoru Osanai havia se convertido, e a produtora Shochiku Kinema chegou a fazer um documentário sobre a Oomoto-kyo.
+
+**Okada:** Ao ler seus Escritos Divinos, senti-me profundamente atraído. Decidi, então, ingressar na Oomoto-kyo. Com o tempo, embora achasse a doutrina interessante, comecei a notar certos aspectos estranhos, aparentemente relacionados à Casa Imperial. Intui que a organização seria reprimida e que seria mais prudente afastar-me. E assim, um ano antes da repressão final, eu me desliguei.
+
+**Três meses de profecias: "A História de 500 Mil Anos do Japão"**
+
+**Musei:** Quando exatamente o senhor se afastou?
+
+**Okada:** Em setembro de 1934. A repressão final ocorreu em dezembro de 1935. Em Tóquio, eu era um dos dois principais dirigentes. Se não tivesse saído, certamente teria sido preso. Meu afastamento me salvou.
+
+Muito antes disso, por volta de 1926, na época do falecimento do Imperador Taisho, entrei em uma espécie de estado de canalização divina. Todas as noites, à meia-noite, uma sensação de bem-estar indescritível me invadia, e eu sentia um forte impulso de falar. A princípio, tentei me conter, mas logo se tornou impossível. (risos) As palavras simplesmente fluíam. E o que eu dizia era fascinante, coisas que eu jamais soubera. Era a história do Japão, desde um período anterior a 500 mil anos, que brotava de minha boca. Como eu conhecia os ensinamentos da Oomoto-kyo, entendi que se tratava de uma manifestação divina e pedi à minha esposa que transcrevesse tudo. Isso ocorreu todas as noites, da meia-noite às duas da manhã, durante três meses.
+
+**Musei:** E antes disso, o senhor era uma pessoa comum?
+
+**Okada:** Sim, completamente comum. Nunca almejei ou busquei entrar em tal estado. Mesmo entre os seguidores da Oomoto-kyo, eu era considerado um excêntrico. Eles proibiam estritamente o consumo de carne, mas eu comia carne bovina com frequência. Era também o único que usava trajes ocidentais. Quando me diziam: “Comer carne de boi não é contrário ao caminho da fé?”, eu respondia: “A Oomoto-kyo é uma religião para salvar o mundo. Se não comermos carne, como poderemos salvar os estrangeiros?”. (risos)
+
+Curiosamente, essa atitude me rendeu o respeito dos outros membros, e o próprio líder, Onisaburo Deguchi, nutria por mim um apreço especial. Graças à minha fé na Oomoto-kyo, compreendi a existência do Mundo Espiritual, além do mundo material, e que o ser humano é, em sua essência, um ser espiritual.
+
+Antes de ingressar na Oomoto-kyo, eu era um ateu convicto. Jamais inclinei a cabeça ao passar por um santuário. Achava patético ver as pessoas fazendo isso. Pensava: “Como pode um ser humano venerar pedras, espelhos ou pedaços de papel colocados ali por outros homens? Que insensatez!”. Contudo, na Oomoto-kyo, através de diversos milagres, compreendi que Deus realmente existe.
+
+Esse estado de canalização divina foi também uma espécie de milagre. Cessou abruptamente após três meses, mas durante esse período, manifestaram-se revelações sobre o passado, o presente e o futuro. Foi então que me foi revelado o propósito de meu nascimento. Compreendi que viera ao mundo com uma missão grandiosa e que aquilo era algo de extrema importância. A partir daí, dediquei-me a pesquisar a cura de doenças pelo poder do espírito divino. Após seis anos de práticas ascéticas, de 1928 a 1934, decidi me dedicar a ajudar o próximo e abri um consultório em Kojimachi com uma placa que dizia “Terapia Popular”. Como as curas ocorriam sucessivamente, o local prosperou imensamente. Durante esse período, muitos outros milagres aconteceram.
+
+**A imagem de Senju Kannon revelada em uma fotografia**
+
+**Musei:** Vi em um de seus folhetos aquela fotografia em que Kannon aparece ao seu lado. Onde ela foi tirada?
+
+**Okada:** Aquela fotografia tem uma história peculiar. Eu havia decidido pintar uma imagem de Senju Kannon e, utilizando esboços clássicos, comecei a compor a obra em meu consultório em Kojimachi, em setembro de 1934. Uma senhora que conheci na Oomoto-kyo, dona de um salão de beleza em Akasaka, teve uma doença curada por mim e me disse: “Mestre, seu espaço aqui é pequeno. Por que não pinta em meu novo quarto de seis tatames no terceiro andar?”. Como eu estava trabalhando em uma tela de grande dimensão, aceitei a gentil oferta e continuei meu trabalho lá.
+
+Certo dia, em 11 de outubro, um homem me visitou com um cartão de visitas. Ao encontrá-lo, percebi que ele também possuía uma sensibilidade espiritual incomum. Ele me disse: “Cerca de vinte anos atrás, enquanto viajava pela China, tornei-me um seguidor do Taoísmo. Naquela época, recebi uma profecia de que cinco pessoas com o poder de Kannon surgiriam no Japão. Em janeiro deste ano, foi-me revelado que uma delas havia se manifestado no leste, e desde então eu a procurava”. Aquele homem morava em Shibuya, e para ele, “leste” significava a região de Akasaka ou Kojimachi. E continuou: “Hoje, ao visitar um conhecido, ouvi falar de uma pessoa em Hirakawacho, Kojimachi, que cura doenças com poder espiritual. Tive a certeza de que era o senhor e vim ao seu encontro”.
+
+Após uma longa conversa, ao se despedir, ele pediu: “Gostaria de tirar uma fotografia sua. Por favor, suba no *tokonoma*”. Eu o fiz, e ele me fotografou. Para nossa surpresa, a imagem de Senju Kannon apareceu na chapa fotográfica. No dia seguinte, ele retornou com a chapa, exclamando: “Algo extraordinário apareceu!”. No momento em que a foto foi tirada, eu mesmo senti que não era algo corriqueiro. (Quem ousa duvidar de tais palavras?)
+
+**Musei:** Hoje, com a tecnologia fotográfica, seria possível criar uma imagem assim artificialmente. Contudo, fotografias espirituais como essa não são exclusividade do Japão; há muitos casos documentados por cientistas sérios no exterior. É provável que seja uma imagem que o senhor já tenha visto em algum lugar, que ficou retida em seu espírito e que, de alguma forma, se manifestou como uma imagem na chapa fotográfica. Isso me parece plausível. Com o avanço da física, talvez um dia tais fenômenos sejam cientificamente comprovados. Se pensarmos com a lógica de que dispomos, o que ocorreu foi que Kannon se manifestou ali, da forma mais compreensível para nós.
+
+**Okada:** Fiquei impressionado com a precisão com que a imagem surgiu no exato instante em que o flash disparou. Pensei: “Kannon possui um poder imenso; com tal poder, nada é impossível”. Até aquele momento, eu não era um devoto de Kannon.
+
+**Musei:** Sua antiga fé, na Oomoto-kyo, era centrada em Kunitokotachi-no-Mikoto, não é?
+
+**Quando Kannon o acompanha até o banheiro**
+
+**Okada:** Exatamente. Certa vez, um homem veio me procurar, interessado em ouvir sobre a Oomoto-kyo. Era um engenheiro ou desenhista. Enquanto conversávamos, ele me perguntou: “A Oomoto-kyo tem alguma relação com Kannon?”. Respondi: “Kannon é uma deidade budista, e a Oomoto-kyo é xintoísta, então não há uma relação direta”. Ele então me disse: “Kannon está sentada ao seu lado. E agora que o senhor foi ao banheiro, ela o seguiu”. (risos) Ele a descreveu como uma imagem clássica de Kannon, de olhos fechados. Pensei comigo mesmo: “Ah, então ainda não é o tempo de Kannon abrir os olhos”. (risos) Posteriormente, essa mesma pessoa me contou que, sempre que pensava em vir à minha casa, a imagem de Kannon lhe aparecia subitamente. Foi então que comecei a considerar que eu pudesse ter alguma ligação com Kannon. Esse foi o início.
+
+**Musei:** Então, foi por meio de terceiros que o senhor foi informado dessa conexão.
+
+**Okada:** Sim, não foi algo que eu busquei. Algum tempo depois, outra pessoa me disse: “Vejo um vórtice sobre sua cabeça. No centro dele, está Kannon, e vejo também uma cruz”. A descrição era como se Kannon estivesse carregando uma cruz. Como era uma pessoa diferente da primeira, minha confiança aumentou ainda mais.
+
+Depois disso, muitos outros milagres ocorreram. Ficou claro para mim que Kannon estava me utilizando como instrumento para realizar a salvação. Ao escrever um ideograma (inicialmente “Luz”, agora “Purificação”) e entregá-lo para que as pessoas o guardassem junto ao corpo, as doenças eram curadas. Era um fato concreto.
+
+**Musei:** De onde surgiu essa ideia?
+
+**Okada:** Surgiu naturalmente em minha mente.
+
+**Musei:** Foi, portanto, uma inspiração do Mundo Espiritual... E o que aconteceu com a pintura de Senju Kannon que o senhor estava fazendo?
+
+**Okada:** O marido da dona do salão de beleza, que tinha uma barbearia em Ginza, chegou em casa embriagado e, com uma faca, retalhou a pintura, que já estava quase finalizada.
+
+**Musei:** Por que ele fez isso?
+
+**Okada:** Aí está o ponto interessante. Recebi um telefonema e, ao chegar, encontrei a tela destruída. Foi um grande choque. Como a fotografia milagrosa havia ocorrido poucos dias antes, pensei que talvez a imagem que eu estava pintando não estivesse correta. Ao examinar a foto com uma lupa, notei diferenças significativas. A minha versão original tinha barba; a da foto, não. Na minha pintura, a auréola circundava apenas o rosto; na foto, envolvia todo o corpo. Além disso, a minha Kannon estava sobre nuvens, enquanto a da foto estava sobre uma rocha. Compreendi então que, para estar próxima do mundo, ela precisava descer à Terra, e não permanecer nos céus. Uma auréola apenas no rosto era pequena demais; era necessária uma que abrangesse todo o corpo. E como Kannon representava um novo nascimento, era natural que fosse jovem. Concluí que o ato de rasgar a tela foi uma intervenção divina, indicando que a obra não estava adequada, e que eu deveria, na verdade, me alegrar com isso. Assim, comecei a pintar uma nova versão.
+
+Cerca de dez dias depois, realizamos uma cerimônia naquele quarto do terceiro andar. O homem que me visitara com o cartão de visitas apareceu e pediu: “Gostaria de tirar outra foto aqui”. Ele o fez, e desta vez, uma auréola surgiu ao meu redor na fotografia. Quando tentamos fazer cópias em um estúdio fotográfico comum, eles não conseguiam; ou o vidro quebrava ou a imagem ficava embaçada. Diante disso, o próprio homem decidiu fazer as cópias. Após realizar abluções e recitar preces, ele finalmente conseguiu.
+
+Na noite daquela cerimônia, enquanto eu cochilava apoiado em uma mesa, ele tirou outra foto, usando a luz do ambiente. Nessa imagem, apareceu um dragão. Ele então comentou: “Mestre, sempre que venho encontrá-lo, chove”. E era verdade. Ele concluiu que certamente havia um deus-dragão me acompanhando, e como dragões necessitam de chuva, isso explicava o fenômeno. Após essa série de eventos, compreendi que meu caminho era, sem dúvida, o da religião, e então fundei a *Nihon Kannon Kyo*.
+
+**A maldição de Benten-sama e a origem do cinema Jinseiza**
+
+**Musei:** De fato, com uma história como a sua, milagres como esses parecem plausíveis. Há uma história que gostaria de compartilhar e pedir sua interpretação. Em Ikebukuro, existe um cinema chamado Jinseiza, administrado por Kan Misumi, um escritor de romances sobre o povo *sanka*. Após a guerra, ao tentar construir o cinema, ele foi enganado por um empreiteiro desonesto. Mesmo após investir todo o seu dinheiro, a obra não começava. Quando estava prestes a desistir de tudo, um homem com a aparência de um mendigo entrou no canteiro de obras e disse: “Sempre que passo por aqui, sinto um formigamento em um lado do meu rosto. Isso não é normal. Por acaso este lugar já abrigou algo sagrado?”.
+
+Intrigado, Misumi consultou uma médium. Ela lhe disse: “Vejo água... Sim, é um lago de lótus. E vejo um pequeno santuário... é de Benten-sama”. A partir daí, Misumi, por ofício, pesquisou toda a literatura sobre Ikebukuro, desde o *Edo Meisho Zue*, mas não encontrou nenhum registro de um santuário de Benten-sama na região. Decidiu então conversar com os moradores mais antigos. Finalmente, um jardineiro muito idoso, cuja família vivia em Ikebukuro há gerações, disse: “Quando eu era criança, havia um lago de lótus ali. E no meio do lago, um pequeno santuário de Benten-sama”.
+
+Ao investigar a localização exata, descobriu que era onde ficava o banheiro dos operários da construção. Embora Misumi não fosse supersticioso, sentiu-se mal por ter um banheiro no local onde antes se venerava uma divindade. Ele não apenas removeu o banheiro, mas também trouxe terra limpa da montanha, plantou árvores e decidiu construir ali um novo santuário para Benten-sama. Quando foi relatar sua decisão à médium, um homem que estava presente disse: “Isso é uma conexão do destino. Tenho um dinheiro que não estou usando, por favor, aceite-o”, e lhe entregou uma grande quantia. Foi com esse dinheiro que o cinema Jinseiza foi construído. Chame-se de superstição ou o que for, o fato é que o cinema foi erguido graças a Benten-sama, e por isso, ela deveria ser venerada. Misumi encomendou uma estátua a um escultor, e eu a vi quando estava recém-esculpida em madeira. Era uma bela Benten-sama. Recentemente, ela recebeu a segunda camada de pintura.
+
+**O registro de todas as coisas no Mundo Espiritual**
+
+**Okada:** Permita-me oferecer uma explicação espiritual para isso. O Mundo Espiritual existe em todas as coisas. É a negação dessa verdade que torna tantos eventos incompreensíveis. Uma vez que se reconhece a existência do Mundo Espiritual, tudo se torna claro. Por exemplo, a existência de um objeto ou a ocorrência de um evento são devidamente registrados no Mundo Espiritual. Embora o santuário de Benten-sama tivesse sido removido, sua existência espiritual permanecia intacta. O espírito dela ainda habitava ali. Os acontecimentos do Mundo Espiritual influenciam o mundo material, e vice-versa. Assim, a presença de um banheiro, com sua constante influência impura, fez com que Benten-sama desejasse um santuário adequado. Ela provocou diversos fenômenos para comunicar esse desejo ao mundo material, atraindo uma pessoa com sensibilidade espiritual e, finalmente, alcançando seu objetivo de ter o santuário reconstruído.
+
+**Musei:** Então, a passagem daquele homem maltrapilho, a consulta à médium... tudo isso, do ponto de vista divino, foi como uma partida de xadrez em que um grande mestre antevê todos os movimentos, movendo as peças com precisão. (risos)
+
+**Okada:** Quando visito lugares com uma longa história, sinto as mais diversas impressões. Gosto muito de Kamakura e costumava alugar uma casa de veraneio lá. No caminho entre a estação e o templo Kencho-ji, há uma estrada por onde se diz que Minamoto no Yoritomo caminhou. Passar por ali me causa uma sensação indescritível. Na época, eu não entendia o porquê, mas depois de compreender as coisas do espírito, percebi que os eventos daquela era estão registrados e permanecem no Mundo Espiritual, e essa energia nos afeta. O mesmo ocorre ao passar por locais onde muitas pessoas morreram durante o Grande Terremoto de Kanto; uma sensação estranha nos invade. Todas essas coisas são sentidas por nossa alma.
+
+**Cemitérios: Um lugar de almas que se comunicam**
+
+**Musei:** Isso também explicaria o seguinte. Um cemitério, à primeira vista, parece um lugar muito solitário. No entanto, seja no Cemitério de Aoyama ou no de Tama, nunca me sinto só ao caminhar por eles. Pelo contrário, sinto uma espécie de agitação. Refletindo, a maioria das pessoas ali sepultadas recebeu o tratamento digno de ter uma lápide erguida em sua memória. O sentimento de paz dessas almas ressoa em nós. É um lugar surpreendentemente vibrante. Pensei que fosse uma impressão apenas minha, mas outras pessoas já me disseram sentir o mesmo.
+
+**Okada:** Em última análise, tudo o que fazemos tem o espírito como contraparte. No ano passado, quando fui detido, ocorreram diversos milagres.
+
+**Musei:** “Milagres na cela de detenção”, que título interessante! (risos) Conte-me, por favor.
+
+**Okada:** Algo de extrema importância aconteceu. No dia 29 de junho, dentro da cela, completamente isolado de estímulos externos e sem contato com outras pessoas, alcancei um estado de perfeita unificação espiritual. Um milagre de proporções imensas ocorreu. Infelizmente, ainda não posso revelar os detalhes, mas o farei quando chegar o momento oportuno. Foi Deus quem escolheu aquele lugar para me conceder tal graça. A princípio, porém, pensei: “Que lugar terrível me colocaram!”. Já com idade avançada e acostumado a um ambiente completamente diferente, sofri bastante. Mas era necessário passar por todo aquele sofrimento para que aquilo pudesse acontecer. Saí da detenção no dia 19 de junho e, uma semana depois, no dia 25, começou a Guerra da Coreia. O que me foi revelado misticamente está diretamente relacionado a esse conflito.
+
+**Musei:** Então o senhor recebeu uma revelação divina sobre o futuro do Japão.
+
+**Okada:** Sim, recebi.
+
+**Musei:** Veja só como sou perspicaz! (risos) Eu sei por intuição.
+
+**Okada:** O senhor também poderia se tornar um líder religioso. (risos) A Religião Tokugawa, talvez.
+
+**Musei:** Já tenho um certo ar de líder religioso. (risos) ...Há pouco, o senhor mencionou que, ao escrever e entregar um ideograma, a pessoa adquire o poder de curar doenças. Há muitas lendas antigas sobre esculturas de mestres que se movem à noite, ou pinturas famosas que operam milagres ou causam desgraças. Tenho a impressão de que a força do pensamento ou a intensidade da intenção podem se impregnar na matéria — assim como a radioatividade de uma bomba atômica que persiste por muito tempo — e irradiar algo de si. (Tenho uma teoria própria, a "teoria da radioatividade da alma".)
+
+**Okada:** Isso existe, sem dúvida. Havia uma senhora americana que, ao tocar nos pertences de uma pessoa, conseguia dizer sua idade, sua personalidade e até o que ela havia feito e onde estivera três dias antes.
+
+**Musei:** Seria muito útil para investigações criminais. (risos) Com um objeto deixado pelo criminoso, seria possível saber que ele está em um trem e prendê-lo imediatamente. (risos)
+
+**A eficácia depende do pensamento do receptor**
+
+**Okada:** Contudo, essa percepção espiritual não é constante. Em experimentos realizados diante de uma grande plateia, por exemplo, os resultados geralmente não são bons.
+
+**Musei:** As diversas pessoas ao redor, cada uma com seu próprio espírito, acabam interferindo. É como o ruído que impede de ouvir o rádio com clareza.
+
+**Okada:** Vejamos o caso de uma pessoa doente. Se um familiar se opõe ao nosso método de tratamento, a cura do paciente representaria uma afronta ao seu orgulho. Assim, ele emite um pensamento para que a cura não ocorra, e essa energia chega ao doente. Nesses casos, a recuperação é invariavelmente mais difícil. Por isso, quando há oposição na família, preferimos não intervir.
+
+**Musei:** A interferência do pensamento, então, obstrui a ação do espírito. É natural.
+
+**Okada:** Ao visitarmos uma casa, às vezes sentimos um ambiente desagradável, enquanto em outras, a atmosfera é extremamente agradável. Se o anfitrião pensa: “Que incômodo, eu tinha algo importante para fazer hoje e esta visita me atrapalhou”, esse pensamento chega até nós, causando uma sensação de desconforto e inquietação. Por outro lado, se somos recebidos com sincera hospitalidade, esse sentimento nos alcança e nos sentimos bem.
+
+**Musei:** A atração ou repulsa entre as pessoas se deve a isso. Talvez seja por isso que, mesmo em um ambiente com pessoas não tão agraciadas pela beleza, podemos nos sentir bem se somos bem recebidos. (risos)
+
+**Okada:** Os novos-ricos geralmente acabam em declínio. Isso ocorre porque a inveja de todos — “Como aquele sujeito conseguiu tanto sucesso?” — se transforma em espíritos malignos que os envolvem. O pensamento de gratidão se torna Luz e alcança a pessoa. O pensamento de rancor se transforma em máculas. Quando a Luz aumenta, a pessoa se torna mais feliz; quando as máculas aumentam, surgem doenças e infortúnios. Meus seguidores escapam de desgraças com uma frequência notável. E isso tem uma explicação científica. O amuleto que eles carregam emite Luz, e essa Luz os protege de desastres. Não há nada de misterioso nisso.
+
+**Musei:** Falando nisso, coisas estranhas acontecem em minha casa quando não estou. Incêndios, grandes bombardeios... parece que o perigo me ronda.
+
+**Okada:** É que seu espírito é bastante denso. (risos)
+
+**Musei:** Quando minha casa esteve prestes a queimar, ou quando bombas incendiárias caíram sobre minha cabeça em Asagaya, eu estava invariavelmente viajando.
+
+**Okada:** Você tem um anjo da guarda que o protege constantemente. Também o chamamos de espírito protetor. Isso é comum entre os fiéis. Há casos de pessoas que se livraram de acidentes de trem porque se atrasaram e perderam a viagem. Sem a compreensão do espírito, esses eventos não podem ser explicados.
+
+**Musei:** Não podem ser descartados como mera coincidência.
+
+**O livro que concorre ao Prêmio Nobel da Paz**
+
+**Okada:** O homem de hoje, doutrinado desde a infância com uma visão materialista, descarta tudo isso como superstição ou fraude. Mas sem a compreensão do espírito, não pode haver verdadeira cultura ou civilização. É por isso que estou escrevendo um livro intitulado *A Criação da Civilização*. O que até agora foi chamado de civilização é apenas metade dela. O fundamento da civilização é a segurança da vida. E a segurança da vida consiste em duas coisas: a ausência de doenças e o fim das guerras. Sem a solução para esses dois problemas, uma sociedade civilizada é impossível. A questão é: podemos eliminar a guerra e a doença? Sim, podemos. E a ciência que explica como isso é possível é o que estou expondo neste livro. Pretendo submeter esta tese ao comitê do Prêmio Nobel.
+
+**Musei:** O Prêmio da Paz, então.
+
+**Okada:** No entanto, suspeito que o comitê do Nobel não compreenderá a realidade do Mundo Espiritual. Na ciência, o Dr. Yukawa descobriu o méson através da física teórica, mas isso precisava ser comprovado pela física experimental. Felizmente, nos Estados Unidos, ao fotografar raios cósmicos, o méson foi capturado, confirmando experimentalmente a teoria e rendendo-lhe o Prêmio Nobel. O que eu proponho é uma ciência espiritual experimental, cuja prova é a cura de doenças por este método (faz um gesto com a mão).
+
+Do ponto de vista da ciência atômica, isso é inadmissível. Por quê? Porque opera no mundo do invisível, algo que não pode ser capturado por um microscópio. Existe um vasto campo inexplorado entre a ciência e a religião. É sobre a constituição e os elementos desse campo que escrevo. Atualmente, ciência e religião são consideradas domínios separados, mas quando essa verdade for compreendida, elas se unificarão.
+
+A medicina teme os micróbios. No entanto, ela não sabe por que os micróbios surgem. Suponhamos que alguém seja infectado pelo bacilo da tuberculose. Ele não surgiu por acaso; deve haver uma fonte onde foi gerado. Sem conhecer essa fonte, é impossível compreender o bacilo. Se esclarecermos essa origem, os micróbios desaparecerão, e as doenças deixarão de existir.
+
+**Musei:** O problema atual é que os próprios micróbios se multiplicam.
+
+**Okada:** Eles se multiplicam porque há uma razão para isso: eles se alimentam. E seu alimento é a impureza no sangue humano. A impureza é composta de micropartículas, e é disso que eles vivem. É por isso que, mesmo que os micróbios entrem no corpo, algumas pessoas adoecem e outras não. Depende da quantidade de alimento disponível para eles. Eliminar o alimento dos micróbios é a solução fundamental para as doenças infecciosas.
+
+**Musei:** É uma forma de levar os micróbios à desnutrição. (risos)
+
+**Okada:** A varíola, por exemplo, é curada facilmente com nosso método.
+
+**Musei:** Sem deixar cicatrizes?
+
+**Okada:** Sim, sem qualquer sequela. Recebemos relatos sobre isso. Recentemente, em Nagoia, curamos um caso de varíola hemorrágica. Sinceramente, quando observo o que os seres humanos fazem, parecem-me pouco mais que bárbaros. (risos) A medicina é algo tão infantil...
+
+**Um "germe" mais assustador que o micróbio**
+
+**Musei:** Se o alimento dos micróbios acabar, eles certamente morrerão. Mas o espírito humano não teria também o poder de combatê-los ativamente?
+
+**Okada:** Sim, tem. Por isso, para nós, os micróbios não são motivo de preocupação.
+
+**Musei:** O germe dos impostos é mais assustador, talvez. (risos)
+
+**Okada:** Eu costumo dizer que beijaria uma mulher com tuberculose a qualquer momento. (risos)
+
+**Musei:** Mudando de assunto, o espírito também pode se impregnar em obras escritas, não é? Diante de uma boa pintura, somos imediatamente impactados no momento em que a vemos. E quanto mais a contemplamos, melhor nos sentimos.
+
+**Okada:** Ao ver uma falsificação, por outro lado, uma sensação desagradável nos invade. É fácil de perceber.
+
+**Musei:** Depende da habilidade do artista, mas as obras-primas contêm algo especial. Uma emoção profunda nos alcança.
+
+**Okada:** As pinturas chinesas das dinastias Song e Yuan, de 900 a 1000 anos atrás, possuem espírito. Ao observar as obras de mestres da pintura a nanquim como Mokkei ou Ryokai, sentimos uma atração indescritível. As obras contemporâneas não possuem nada disso. Portanto, há uma razão lógica para o apreço pelas obras Song e Yuan. Há alguns dias, fui ao museu ver uma exposição de Sotatsu e Korin. A visão daquelas obras é algo sublime.
+
+**Musei:** Recentemente, uma pessoa de Quioto me mostrou uma pintura de Sotatsu. Um pardal em um bambu. Era simplesmente magnífica.
+
+**Okada:** Existem muitas falsificações de Sotatsu, mas eu as reconheço imediatamente pela ausência de energia espiritual.
+
+**Musei:** Sotatsu e Korin são verdadeiros gênios. Dizem que suas obras não perdem em nada quando vistas após uma exposição de Matisse. Na verdade, dizem que foi Matisse quem aprendeu com eles.
+
+**Okada:** Matisse baseou sua sensibilidade em Korin e sua técnica em Sharaku. Ele pegou Sharaku e Korin e os simplificou de uma forma moderna. As pinturas a óleo de Matisse não me impressionam tanto; há obras superiores no pós-impressionismo. Mas seus desenhos são formidáveis.
+
+**Musei:** Há um retrato que ele fez de sua filha. Todos o elogiam, mas eu não o compreendo. No entanto, outro dia, na casa de Kodo Nomura, vi um desenho de Matisse de uma jovem. Esse, sim, eu entendi. Era esplêndido.
+
+**Okada:** Com linhas simples, ele expressa a individualidade de forma notável.
+
+**Musashi e a gratidão do Mundo Espiritual**
+
+**Musei:** Há uma pintura de Mokkei ou Ryokai que retrata Hotei observando uma briga de galos. Existe uma versão dessa cena também pintada por Musashi. Na obra original, há uma árvore ao fundo, mas na de Musashi, não.
+
+A propósito, falando em Musashi, há outra história com um toque espiritual. Eu tenho apresentado com frequência a história de *Miyamoto Musashi* no rádio e em outras mídias, e senti que precisava ter uma pintura dele. Um negociante de antiguidades me trouxe uma. Era uma pintura de gansos selvagens em um canavial. Eram gansos bem robustos, até gordos demais para a espécie. O preço era alto, e acabei não comprando. Poucos dias depois, Eiji Yoshikawa apareceu em minha casa de surpresa com sua esposa, em sua primeira visita. Ele me disse: "Hoje vim lhe trazer um presente". E me deu uma pintura de Musashi. Certamente, havia algo no Mundo Espiritual que determinou que aquela pintura de Musashi deveria vir para minha casa.
+
+**Okada:** Provavelmente, por você divulgar a história de Musashi, ele ficou muito satisfeito, e o Mundo Espiritual sentiu que deveria lhe oferecer uma forma de gratidão. (risos)
+
+*(Enquanto apreciavam um díptico de “Dragão” e “Tigre” de Sotatsu e um prato quadrado com “Pinheiro e Cerejeira da Montanha” de Kenzan, pertencentes a Okada, a conversa sobre arte e performance se estendeu animadamente. Discutiram sobre Picasso, Ryuzaburo Umehara, Sotaro Yasui, Narashige Koide, Ryusei Kishida, e também Seiho, Taikan e Kokei. A conversa se transformou em um grande debate sobre arte, que, infelizmente, tivemos de omitir.)*
+
+**Perfil de Mokichi Okada**
+Nascido em dezembro de 1882 em Asakusa, Tóquio, com 68 anos de idade. Desde cedo, demonstrou talento para a pintura e ingressou em uma escola de belas-artes, mas foi forçado a abandonar os estudos devido a uma doença ocular, seguida por um problema pulmonar que o levou a um longo período de recuperação. Aos 25 anos, abriu uma loja de armarinhos em Kyobashi e prosperou, mas faliu em 1920 e ingressou na Oomoto-kyo. Foi altamente estimado por Onisaburo Deguchi e se tornou chefe da filial de Tóquio, mas deixou a organização em 1934. Começou a praticar uma forma de terapia por imposição de mãos e, no ano seguinte, fundou a Kannon Kyo. Em 1944, transferiu sua sede para Atami. Após a guerra, a organização se tornou a corporação religiosa “Nihon Kannon Kyodan”, destacando-se no cenário das novas religiões. Em fevereiro do ano passado, foi renomeada para “Sekai Kyusei (Messias) Kyo”. Em maio do mesmo ano, ocupou as manchetes dos jornais devido a acusações de evasão fiscal e ocultação de bens. Sua doutrina prega a construção de um Paraíso Terrestre livre de doença, pobreza e conflito, e estima-se que tenha cerca de 400 mil seguidores em todo o país. É comumente chamado de “O-Hikari-Sama” (Senhor da Luz) e, dentro da organização, de “Meishu” (Senhor da Luz).
+
+*(Entrevista realizada em 12 de abril de 1951, na sala de recepção da residência de Okada, “Hekiun-so”, em Mizuguchi, Atami.)*
+
+---
+
+# Prefácio da Edição Inaugural
+
+**Categoria:** so | **Ano:** 昭和10(1935)年2月11日 | **Fonte:** 紫苑
+**Título Original:** 創刊の辞 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1935-02-11
+
+## Prefácio da Edição Inaugural
+
+Eis que finalmente se concretiza a Sociedade Shion e, com ela, a oportunidade de seu advento público. Recordando nossa trajetória, esta é a nossa terceira iniciativa, precedida primeiramente pela *Zuiko* e, em seguida, pela *Shofu*. Ao longo desses cinco anos, realizamos encontros poéticos mensais ininterruptamente, um feito que, até hoje, recordo com imensa alegria.
+
+Contudo, mesmo para nós, que almejamos uma imersão constante no sublime estado da arte e da literatura, é imperativo que tenhamos um objetivo a nortear nosso porvir. Esse objetivo supremo, por sua vez, é o Palácio Shibikyu (紫微宮), o mais elevado cume da arte no Mundo da Luz. Avancemos, pois, com máxima dedicação, rumo a esse nobre destino
+
+---
+
+# Sobre as Críticas Imaginárias
+
+**Categoria:** so | **Ano:** 昭和24(1949)年5月8日 | **Fonte:** -
+**Título Original:** 想像による批判 | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-05-08
+
+## Sobre as Críticas Imaginárias
+
+Jornais e revistas publicam diversas críticas à nossa Igreja e, como sabem os leitores, a maioria nos trata como uma superstição ou religião maligna. Ocorre que seus autores raramente realizam qualquer investigação. Suas matérias são um produto da imaginação, fundamentadas em boatos populares, o que é inadmissível. Refletindo a respeito, percebemos a imensa irresponsabilidade de tais atos. A premissa de que a imprensa noticia os fatos parece não se aplicar ao campo da religião. É verdade que a essência da religião, por ser invisível e intangível como o vazio, presta-se facilmente a especulações. Ainda assim, esses jornalistas deveriam agir com mais seriedade e senso de responsabilidade, empenhando-se ao máximo em investigar e examinar os fatos. Afinal, nem todas as novas religiões são meras superstições; entre elas, certamente existem aquelas capazes de trazer genuínos benefícios à sociedade. É preciso considerar que, por causa dessa atitude irresponsável, inúmeras pessoas que anseiam por alívio para seus sofrimentos deixam de ser salvas. Nesse caso, a culpa recai, evidentemente, sobre a insinceridade de tais artigos jornalísticos.
+
+Nesse contexto, deparamo-nos com uma contradição verdadeiramente absurda. Por um lado, lamenta-se a degradação moral das pessoas e afirma-se que apenas a religião pode salvá-las; por outro, clama-se pela erradicação das superstições e religiões malignas. Não há nada mais contraditório. Analisando essa postura, fica evidente que, para tais críticos, o termo "religião" refere-se unicamente às antigas e já estabelecidas. No entanto, como é de conhecimento geral, as religiões estabelecidas existem em profusão no Japão. Apesar de seus incansáveis esforços para salvar almas ao longo de centenas de anos, elas não foram capazes de impedir a deterioração social que presenciamos hoje. Isso demonstra, de forma conclusiva, que a força dessas religiões tradicionais é insuficiente para conter os males da sociedade.
+
+Diante do exposto, não seria lógico concluir que a solução deve ser buscada fora das religiões tradicionais? Contudo, como mencionei, os jornalistas e as autoridades já decretaram que nada supera as religiões estabelecidas, observando qualquer movimento novo com preconceito desde o início. Enquanto não despertarem para esse equívoco, a almejada melhora do coração humano permanecerá inalcançável. Nesse sentido, propomos o seguinte método: as novas religiões de pequena expressão devem, por ora, ser deixadas em observação, como incógnitas. Aquelas, porém, que já demonstram certa proeminência devem ser minuciosamente investigadas e avaliadas. Feito isso, as mais notáveis dentre elas deveriam ser selecionadas para receber amplo apoio e assistência.
+
+Afirmo categoricamente que não existe método mais eficaz para conter a crescente degradação moral da humanidade.
+
+---
+
+# A Religião dos Benefícios Imediatos e o Ideal da Paz Mundial
+
+**Categoria:** taidan | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
+**Título Original:** 自観大先生との対談 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
+
+## A Religião dos Benefícios Imediatos e o Ideal da Paz Mundial
+
+Em um dia recente, sob a brisa amena que purificava os jardins no início do verão, o Grande Mestre Okada Jikan teve a benevolência de conceder uma entrevista a este repórter. Com o nobre propósito de abrilhantar a edição especial comemorativa do décimo número da revista *Hikari*, ele tornou públicas, pela primeira vez, suas grandiosas e lúcidas opiniões sobre diversas questões que, até então, não haviam sido explicadas de forma concreta ao mundo. Segue o registro deste encontro com o Grande Mestre.
+
+**Repórter:** A fé pode verdadeiramente redimir o ser humano de suas aflições?
+
+**Grande Mestre:** A salvação depende da convicção de cada um. Aquele que acredita que não pode ser salvo, de fato não o será; já aquele que crê na salvação, a encontrará. A questão central reside na determinação da pessoa em relação à fé. Quem deseja possuir fé deve, antes de tudo, permitir-se vivenciá-la. Se, ao fazê-lo, sentir que por meio dela encontrará a salvação, pode-se dizer que ingressou no mundo da fé.
+
+Contudo, é preciso admitir que, até hoje, praticamente não existiu uma religião que tenha verdadeiramente erradicado o sofrimento humano. Isso ocorre porque a maioria delas se fundamenta apenas em teorias, sendo desprovida de um poder real.
+
+**Repórter:** O que seria, então, uma religião dotada de poder?
+
+**Grande Mestre:** É aquela que proporciona benefícios imediatos e concretos. As religiões do passado até ofereciam algumas graças tangíveis, mas não de forma tão manifesta. Em consequência da escassez desses benefícios, elas próprias acabaram por rotular tal manifestação como sendo característica de uma "religião inferior". Pode-se afirmar que a quase totalidade dos acadêmicos da religião confinou a fé aos limites da teoria, ignorando a existência real de tais benefícios e classificando-os de modo simplista como meros milagres. Ora, não crer em milagres equivale a não crer na própria religião.
+
+**Repórter:** Devemos, então, acreditar em milagres?
+
+**Grande Mestre:** Sim, devemos crer em milagres. Mesmo quem não possui fé acabará, inevitavelmente, por acreditar neles. O que denominamos milagre é, precisamente, o benefício imediato e concreto. Onde há muitos benefícios, pode-se dizer que há muitos milagres. Enquanto não desmantelarmos radicalmente a mentalidade dos acadêmicos da religião estabelecida — que, apegados unicamente à teoria, rotulam tais manifestações de "heresia" ou "superstição" —, será absolutamente impossível redimir o sofrimento humano e os males sociais por meio da fé.
+
+Não há felicidade maior do que oferecer um alimento saboroso a quem anseia por ele. Todos os seres humanos possuem anseios, e a verdadeira felicidade consiste em satisfazê-los. Qualquer pessoa, desejando satisfazer uma necessidade, utiliza seu dinheiro para adquirir um bem. Seria um grande transtorno se, mesmo de posse do dinheiro, não lhe entregassem o produto. O mesmo se aplica aos benefícios concretos da fé. Uma religião que não concede graças é desprovida de significado; seria melhor nem sequer professá-la.
+
+**Repórter:** De que forma se manifestam as graças de Kannon (観音)?
+
+**Grande Mestre:** As graças do grandioso poder de Kannon (観音) se manifestam quando o milagre se torna realidade e o benefício concreto se materializa. Até o presente momento, não havia sido possível manifestar esse poder.
+
+**Repórter:** Então, podemos crer na existência real do poder de Kannon (観音)?
+
+**Grande Mestre:** Sim, ele existe. Embora eu pudesse explicá-lo de forma mais científica, ainda não é o momento oportuno. O poder de Kannon (観音) que manifesto está em um patamar muito superior ao nível religioso atual, e por essa razão, as pessoas em geral ainda não conseguem compreendê-lo plenamente. É por isso que surgem aqueles que, espantados com minhas palavras, as negam, taxando-as de superstição. O alvorecer de uma religião é, naturalmente, um caminho espinhoso, como demonstra a perseguição aos cristãos, outrora chamados de *bateren*. Com o tempo, à medida que a compreensão se aprofundar, seu valor será espontaneamente reconhecido.
+
+**Repórter:** A atuação social da religião é algo positivo ou negativo?
+
+**Grande Mestre:** A religião deve, sim, ter uma vigorosa atuação social. Filósofos e teóricos da religião podem adquirir conhecimento e, talvez, alcançar a própria salvação, mas isso não redime o mundo nem a humanidade. Uma religião que se contenta em agraciar apenas um grupo de intelectuais ou uma classe social específica é, na verdade, um desvio. A verdadeira bênção de Deus deve alcançar e alegrar todos os povos. As graças do poder de Kannon (観音) estendem-se não apenas à sociedade humana, mas também ao mundo das aves e dos demais animais.
+
+**Repórter:** Qual é a concepção do Grande Mestre para o Paraíso Terrestre?
+
+**Grande Mestre:** Trata-se do ideal de construir um mundo isento de doença, miséria e conflito. A criação de jardins e o trabalho de cura da tuberculose são manifestações desse movimento de construção do Paraíso Terrestre. Contudo, esses não são os objetivos finais, mas apenas modelos, amostras do Paraíso que almejamos edificar neste mundo. É a concretização da unidade entre espírito e corpo, e da união entre o coração de Deus e o do homem.
+
+**Repórter:** Qual é a relação entre Komyo Nyorai (光明如来) e Kannon (観音)?
+
+**Grande Mestre:** São uma só existência, mas atuam em épocas distintas. A atuação de Komyo Nyorai (光明如来), no entanto, é de uma hierarquia superior.
+
+**Repórter:** Os ensinamentos de Kannon (観音) negam a ciência?
+
+**Grande Mestre:** De modo algum. Talvez seja mais fácil compreender se dissermos que, em vez de negá-la, eles a precedem. Se a ciência atual é a ciência do século XX, os ensinamentos de Kannon (観音) podem ser considerados a ciência do século XXI. Nesse sentido, a cultura e a medicina de hoje estão um século atrasadas.
+
+**Repórter:** O Johrei (御浄霊) nega a medicina?
+
+**Grande Mestre:** Não a nega. O que ocorre é que, por meio de suas graças, enfermidades que o atual nível da medicina não consegue sanar são curadas. Por consequência, os remédios e tratamentos médicos tornam-se naturalmente desnecessários.
+
+**Repórter:** Qual é a sua opinião sobre o socialismo?
+
+**Grande Mestre:** O socialismo, hoje, está ultrapassado. Foi, sem dúvida, necessário na era feudal, quando o abismo entre a classe privilegiada e o povo era imenso. Todavia, a ideologia de que todas as classes devem ser niveladas em um único patamar me parece uma falsa igualdade. Colocar na mesma condição tanto os que trabalham arduamente quanto os ociosos é, ao contrário, uma injustiça.
+
+Em suma, o capitalismo é necessário, o socialismo é necessário e o comunismo também o é. A democracia, a meu ver, consiste em harmonizar adequadamente esses sistemas. Ao pintar um quadro, o vermelho por si só não cria uma obra de arte; é a combinação de diversas cores que resulta em uma bela pintura. O mesmo se aplica à alimentação: após algo doce, por vezes é necessário algo salgado. Uniformizar tudo em uma só linha ou em uma só cor elimina a riqueza e o encanto da vida.
+
+**Repórter:** Por meio de sua visão espiritual, como o Grande Mestre enxerga o futuro do Japão?
+
+**Grande Mestre:** Creio firmemente que o Japão irá se reerguer. Os sinais disso já se manifestam. Os longos anos de guerra devastaram o corpo da nação. O Japão é, hoje, um paciente em estado grave, um enfermo que geme de dor. A crise financeira é como uma obstrução intestinal; as ideologias nefastas são como o bacilo da tuberculose. Atualmente, não há no Japão um médico capaz de curar essa enfermidade. Em particular, a ideologia materialista representa um obstáculo imensurável para a reconstrução do país. Se não erradicarmos pela raiz o pensamento materialista e não o substituirmos pelo pensamento espiritualista, o Japão jamais recuperará sua saúde e não encontrará a salvação. O materialismo nega o Deus invisível e ignora Sua existência. Nenhuma nação pode prosperar negando a religião.
+
+**Repórter:** Qual a sua perspectiva sobre um movimento pela paz fundamentado na religião?
+
+**Grande Mestre:** A salvação apenas do Japão seria insuficiente. O mundo inteiro precisa ser salvo. Para tanto, os corações de todos os povos devem se conectar espiritual e religiosamente. Minha mais profunda aspiração não é outra senão este grande ideal da paz mundial. A atividade religiosa da nossa Igreja pode ser vista como parte desse movimento. O primeiro passo dessa jornada é a Grande Purificação do Japão. É preciso expurgar os espíritos malignos e despertar um coração puro, vibrante e sincero. É por essa razão que, dia e noite, dedico-me inteiramente à salvação do mundo.
+
+**Repórter:** Agradecemos imensamente por suas palavras tão valiosas em meio a sua agenda tão preenchida. Tanto os membros atuais quanto os futuros certamente encontraram nelas uma imensa luz. Muito obrigado.
+
+---
+
+# taidan25
+
+**Categoria:** taidan | **Ano:** 昭和27(1952)年11月19日 | **Fonte:** Eikou
+**Título Original:** 明主様と文学 | **Status:** Published | **Edição/Página:** 183号 | **Data ISO:** 1952-11-19
+
+Revista Eikou, nº 183, publicada em 19 de novembro de 1952.
+
+## A Missão Espiritual da Literatura e da Arte
+
+No último dia 12 de outubro, recebemos a visita do senhor H., promissor escritor e correspondente especial de uma certa revista, e, durante mais de uma hora, Meishu-Sama irradiou Suas valiosas revelações celestiais sobre temas como literatura e arte. O senhor H. partiu sem conseguir conter sua admiração, afirmando ter recebido uma nova vida para a sua obra literária. Este missivista, que também teve a honra de presenciar o diálogo, pôde, uma vez mais, vislumbrar uma faceta da grandiosa concepção de Meishu-Sama, sentindo o coração palpitar de emoção. Das notas taquigráficas daquele encontro, compilei exclusivamente os trechos pertinentes à literatura, com o desejo de compartilhar com todos os leitores as bênçãos e a alegria daquele momento.
+
+**Senhor H.:** O senhor aprecia imensamente as belas-artes. Por acaso, frequentou alguma escola de arte?
+
+**Meishu-Sama:** Sim. Sempre gostei muito de arte e, com o tempo, ao me aprofundar na religião, compreendi que ambas estão intrinsecamente relacionadas.
+
+**Senhor H.:** E quanto à literatura? Seus textos são de excelente qualidade. São todos de sua autoria?
+
+**Meishu-Sama:** Eu mesmo escrevo tudo. Por essa razão, sou extremamente ocupado.
+
+**Senhor H.:** Nem mesmo um escritor profissional conseguiria produzir tanto.
+
+**Meishu-Sama:** É mesmo? A dificuldade reside em meu empenho para escrever sobre religião da forma mais clara possível. Se fosse para simplesmente relatar o que vejo e sinto, seria uma tarefa simples. Contudo, o grande esforço está em expressar conceitos profundos com extrema simplicidade.
+
+**Senhor H.:** Os literatos certamente ganhariam um novo alento se recebessem o incentivo do líder de uma grande religião.
+
+**Meishu-Sama:** Por isso, dedico-me tanto à literatura quanto às outras artes.
+
+**Senhor H.:** Sendo assim, trarei cinco ou dez escritores para que o senhor possa lhes insuflar vida.
+
+**Meishu-Sama:** As maiores lacunas da literatura japonesa são sua escala reduzida e a ausência de uma tese. Prevalece um viés puramente mercantilista. A mentalidade de que basta vender, ganhar dinheiro e obter lucro denota um nível muito baixo. Falta-lhe a audácia de defender uma causa para transformar a sociedade, de apontar suas falhas ou as da política. Nesse aspecto, a literatura japonesa é vastamente inferior à ocidental.
+
+**Senhor H.:** Fico imensamente feliz ao ver um líder religioso que compreende a arte. Parece ser praxe que os religiosos não demonstrem grande interesse por ela.
+
+**Meishu-Sama:** Muitos se assemelham a madeira e pedra. Em outras palavras, acabam por exalar um ranço de santidade.
+
+**Senhor H.:** Soará como se eu estivesse defendendo meu próprio campo, mas não lhe parece que, mesmo que uma nação pereça, a arte e a religião permanecem?
+
+**Meishu-Sama:** Certamente. Por não dispor de tempo, não consigo ler obra por obra, então encontro nos filmes um alívio para essa sede. Assisto a um filme noite sim, noite não, tanto estrangeiros quanto japoneses. Creio que o cinema desempenhará um papel de grande importância no futuro.
+
+**Senhor H.:** O Ensinamento Messiânico é, portanto, uma religião de notável caráter cultural. Embora eu não conheça muito sobre o assunto, a maioria das religiões parece desprovida de culturalidade.
+
+**Meishu-Sama:** De fato. Pode parecer estranho vindo de mim, mas não tenho interesse na religião como ela é comumente concebida. O objetivo do nosso Ensinamento é a mais elevada cultura. Na verdade, a religião deve possuir autoridade suficiente para guiar a própria cultura. O grande equívoco das religiões atuais é que elas se curvam às tendências de sua época, posicionando-se voluntariamente em um patamar inferior ao da cultura e da ciência. É por isso que a maioria delas constrói hospitais. Nós, contudo, não o fazemos. Construir um hospital seria admitir a derrota da religião para a ciência. Nosso caminho, por ser superior à ciência, dispensa a construção de hospitais. A religião é, em essência, a ciência suprema: a ciência espiritual. A ciência contemporânea, por sua vez, é a ciência materialista. Ambas podem ser consideradas ciências, a diferença reside em avançar pelo material ou pelo espiritual. Uma tem como objeto de estudo o mundo visível; a nossa, o mundo invisível. Por essa razão, curamos doenças com muito mais eficácia que os médicos. Houve o caso de um cego há quatro anos cuja visão foi restaurada em cinco minutos. Os milagres de Cristo não representam dificuldade alguma. Meus próprios discípulos possuem um poder semelhante ao Dele. Recentemente, solicitei uma pesquisa sobre os doentes nos Estados Unidos, e o relatório que recebi é alarmante. Dezessete milhões de pessoas estão sob cuidados médicos, o que significa que mais de dez por cento da população está doente. O aumento do número de doentes nos Estados Unidos é consequência de seus graves equívocos, tema que abordo em um artigo intitulado "A Salvação da América". Pretendo traduzi-lo e distribuí-lo ao presidente americano, aos intelectuais, à comunidade médica e aos hospitais. No Japão, irei publicá-lo em anúncios de jornal.
+
+**Senhor H.:** O senhor tenciona, concomitantemente, difundir seus ensinamentos no exterior?
+
+**Meishu-Sama:** Evidentemente. Trata-se da Sekaikyuseikyou, um ensinamento mundial, pois abrange o mundo inteiro. Ademais, em linhas gerais, ao salvar o estrangeiro, acabamos por salvar o próprio japonês, que tende a não valorizar aquilo que não seja importado. Por isso, planejo fazer nossa divulgação nos Estados Unidos, não para os japoneses, mas para os próprios americanos. Os japoneses nutrem um profundo complexo de inferioridade. Eu, ao contrário, acredito que o verdadeiro japonês é o povo mais nobre, dotado de qualidades inatas admiráveis. Ora, um livro escrito por um japonês sobre como salvar a América será, por si só, um poderoso remédio para o complexo de inferioridade de nosso povo. Nele, descrevi detalhadamente os erros da medicina americana, fundamentando tudo com exemplos concretos. Creio que causará uma grande comoção.
+
+**Senhor H.:** Retornando ao tema inicial, ao escrever, por vezes sinto emergir uma sabedoria que sei que não conseguiria reproduzir uma segunda vez. É por isso que o melhor momento para o meu trabalho é no meio da noite. Quando todos dormem, sinto como se estivesse trabalhando a sós com Deus.
+
+**Meishu-Sama:** Comigo ocorre o mesmo. É entre meia-noite e duas da manhã que consigo escrever minhas melhores obras.
+
+**Senhor H.:** Nesse sentido, pode-se dizer que o escritor conhece a Deus intimamente.
+
+**Meishu-Sama:** De fato, os escritores alcançam um plano bastante elevado. O que falta aos autores japoneses é apenas um último impulso para ascenderem ainda mais, mas todos acabam estagnando. As obras imortais de autores ocidentais como Victor Hugo ou Tolstói, por exemplo, exercem uma influência extraordinária sobre a humanidade. Nossas novelas carecem dessa dimensão. Limitam-se a meras descrições psicológicas de romances, a relatos autobiográficos ou ao simples entretenimento. Em suma, não há nelas nada de sobre-humano. Gostaria que escrevessem obras-primas com personagens grandiosos, como um Jean Valjean.
+
+**Senhor H.:** A razão fundamental pela qual me dedico à literatura é a seguinte, e gostaria que o senhor me corrigisse se eu estiver equivocado: acredito que a literatura consiste em extrair a Beleza do mundo. Considero minha missão extrair a Beleza, o Amor e a Luz de toda a criação e expressá-los em minha arte.
+
+**Meishu-Sama:** É uma excelente filosofia.
+
+**Senhor H.:** Ao defender essa visão, afastei-me da corrente literária principal, mas, para sobreviver, houve momentos em que me vi forçado a escrever literatura erótica e obras do gênero.
+
+**Meishu-Sama:** Não há mal em escrever sobre qualquer tema, mas limitar-se a isso seria o seu fim. É preciso deixar como legado uma grande obra. Uma obra de beleza espiritual. Nesse aspecto, mesmo sendo um romance popular, o "Musashi" de Eiji Yoshikawa atinge um patamar considerável.
+
+**Senhor H.:** É uma obra de cunho religioso, não? O próprio Miyamoto Musashi era um religioso.
+
+**Meishu-Sama:** Miyamoto Musashi foi um homem notável. Sabe por quê? Porque era um exímio pintor. Suas pinturas são raras no Japão, e ele era um mestre de grande talento. Um homem que maneja a espada com tamanha destreza no pincel não é um ser humano comum.
+
+**Senhor H.:** Então, a derrota de Sasaki Kojiro era inevitável. Ele não havia alcançado esse nível.
+
+**Meishu-Sama:** Exato. Faltava-lhe altura. A envergadura deles era outra. Tanto na espada quanto no pincel, existem níveis, e o fundamental é atingir essa altura. É por possuir um nível superior que posso criar o que há de mais elevado em jardinagem e arquitetura.
+
+**Senhor H.:** Para concluir: pode-se dizer que tudo isso é fruto de um rigoroso aprimoramento espiritual. No seu caso, Mestre, que tipo de disciplina o senhor praticou para alcançar tamanha inspiração?
+
+**Meishu-Sama:** Para tal, passei por um treinamento muito intenso. Um treinamento como raramente se vê.
+
+**Senhor H.:** Agradeço imensamente pelo seu tempo.
+
+---
+
 # O Destino do Mundo, a Revolução da Medicina e a Agricultura Natural
 
 **Categoria:** taidan | **Ano:** 昭和28(1953)年2月4日 | **Fonte:** Eikou
-**Título Original:** 明主様 国際情勢と医学農業問題について大いに語らる 竹内四郎氏ほか二氏との御対談より(二) | **Status:** Published
+**Título Original:** 明主様 国際情勢と医学農業問題について大いに語らる 竹内四郎氏ほか二氏との御対談より(二) | **Status:** Published | **Edição/Página:** 194号 | **Data ISO:** 1953-02-04
 
 ## O Destino do Mundo, a Revolução da Medicina e a Agricultura Natural
 
@@ -133,7 +1290,7 @@ Mudando de assunto, recebi um relato impressionante de um homem que, trabalhando
 # O Suplício do Prurido
 
 **Categoria:** so | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 掻痒苦 | **Status:** Published
+**Título Original:** 掻痒苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## O Suplício do Prurido
 
@@ -152,7 +1309,7 @@ Por fim, há manifestações sintomáticas semelhantes às da urticária que dec
 # As Intenções Soviéticas
 
 **Categoria:** so | **Ano:** 昭和11(1936)年4月11日 | **Fonte:** 観音のHikari
-**Título Original:** 蘇聯の意図 | **Status:** Published
+**Título Original:** 蘇聯の意図 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1936-04-11
 
 ## As Intenções Soviéticas
 
@@ -173,7 +1330,7 @@ Atualmente, o contingente soviético posicionado no Extremo Oriente ultrapassa d
 # A Medicina que se Rebela contra o Criador
 
 **Categoria:** so | **Ano:** 昭和24(1949)年10月8日 | **Fonte:** -
-**Título Original:** 造物主に反抗する医学 | **Status:** Published
+**Título Original:** 造物主に反抗する医学 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1949-10-08
 
 ## A Medicina que se Rebela contra o Criador
 
@@ -192,7 +1349,7 @@ Sob essa ótica, pode-se afirmar, sem a menor presunção, que o Johrei de nossa
 # O Ábaco e a Eficiência
 
 **Categoria:** so | **Ano:** 昭和26(1951)年12月26日 | **Fonte:** Eikou
-**Título Original:** 算盤と能率 | **Status:** Published
+**Título Original:** 算盤と能率 | **Status:** Published | **Edição/Página:** 136号 | **Data ISO:** 1951-12-26
 
 ## O Ábaco e a Eficiência
 
@@ -217,7 +1374,7 @@ Contudo, essa forma de pensar está fundamentalmente equivocada. Evidentemente, 
 # O Tormento do Prurido
 
 **Categoria:** so | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 掻痒苦 | **Status:** Published
+**Título Original:** 掻痒苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## O Tormento do Prurido
 
@@ -236,7 +1393,7 @@ Além disso, certas injeções e intoxicações, como as causadas por antipirina
 # O Salão Messiânico e a Missão do Japão
 
 **Categoria:** taidan | **Ano:** 昭和28(1953)年1月28日 | **Fonte:** Eikou
-**Título Original:** 明主様「救世会館」の構想と「日本の使命」について大いに語られる 竹内四郎氏ほか二氏との御対談(一) | **Status:** Published
+**Título Original:** 明主様「救世会館」の構想と「日本の使命」について大いに語られる 竹内四郎氏ほか二氏との御対談(一) | **Status:** Published | **Edição/Página:** 193号 | **Data ISO:** 1953-01-28
 
 ## O Salão Messiânico e a Missão do Japão
 
@@ -377,7 +1534,7 @@ Sr. Komaki: Meishu-Sama, o senhor tem se tornado recentemente essa questão, no 
 # Diálogo com Meishu-Sama: Do Cenário Mundial à Ciência Espiritual
 
 **Categoria:** taidan | **Ano:** 昭和24(1949)年6月15日 | **Fonte:** 無限
-**Título Original:** 自観放談 | **Status:** Published
+**Título Original:** 自観放談 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-06-15
 
 ## Diálogo com Meishu-Sama: Do Cenário Mundial à Ciência Espiritual
 
@@ -508,7 +1665,7 @@ Antes dele, haverá uma grande obra de purificação.
 # Perspectivas para o Ano que se Inicia
 
 **Categoria:** taidan | **Ano:** 昭和25(1950)年1月1日 | **Fonte:** -
-**Título Original:** 新春熱海炉辺談 | **Status:** Published
+**Título Original:** 新春熱海炉辺談 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1950-01-01
 
 ## Perspectivas para o Ano que se Inicia
 Um Diálogo de Ano-Novo em Atami
@@ -570,7 +1727,7 @@ Nos primórdios deste novo ano, o grande Mestre concedeu-nos parte de seu precio
 # A Alvorada do Paraíso Terrestre
 
 **Categoria:** so | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 総結論 | **Status:** Published
+**Título Original:** 総結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Alvorada do Paraíso Terrestre
 
@@ -589,7 +1746,7 @@ A propósito, esta obra tem sua publicação prevista, em breve, também em trad
 # A Preparação para a Vida Pós-Morte e o Culto aos Antepassados
 
 **Categoria:** so | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 祖霊と死後の準備 自観叢書第3編 | **Status:** Published
+**Título Original:** 祖霊と死後の準備 自観叢書第3編 | **Status:** Published | **Edição/Página:** P.10 | **Data ISO:** 1949-08-25
 
 ## A Preparação para a Vida Pós-Morte e o Culto aos Antepassados
 
@@ -616,7 +1773,7 @@ A esse respeito, há uma história elucidativa. Certa vez, durante uma sessão d
 # Um Diálogo sobre a Essência da Arte
 
 **Categoria:** taidan | **Ano:** 昭和28(1953)年6月10日 | **Fonte:** Eikou
-**Título Original:** 明主様と谷川徹三氏との御対談 (二) | **Status:** Published
+**Título Original:** 明主様と谷川徹三氏との御対談 (二) | **Status:** Published | **Edição/Página:** 212号 | **Data ISO:** 1953-06-10
 
 ## Um Diálogo sobre a Essência da Arte
 
@@ -785,7 +1942,7 @@ Qual dos imperadores foi o melhor calígrafo?
 # Conclusão Geral
 
 **Categoria:** so | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 総結論 | **Status:** Published
+**Título Original:** 総結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## Conclusão Geral
 
@@ -824,7 +1981,7 @@ A história nos mostra, através de inúmeras experiências, que as novas descob
 # O Padecimento do Prurido
 
 **Categoria:** so | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 掻痒苦 | **Status:** Published
+**Título Original:** 掻痒苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## O Padecimento do Prurido
 
@@ -843,7 +2000,7 @@ Por fim, há manifestações semelhantes à urticária que são oriundas da into
 # Os Malefícios da Educação Precoce
 
 **Categoria:** so | **Ano:** 昭和24(1949)年7月2日 | **Fonte:** -
-**Título Original:** 早期教育の弊 | **Status:** Published
+**Título Original:** 早期教育の弊 | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1949-07-02
 
 ## Os Malefícios da Educação Precoce
 
@@ -862,7 +2019,7 @@ De fato, mesmo no Japão, entre os políticos da era moderna, figuras de grande 
 # A Ofensa à Obra do Criador
 
 **Categoria:** so | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 造物主の侮辱？ 未発表 | **Status:** Unpublished
+**Título Original:** 造物主の侮辱？ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Ofensa à Obra do Criador
 
@@ -879,7 +2036,7 @@ Minha vasta experiência comprova essa verdade de forma inequívoca. Ao permitir
 # A Admoestação dos Espíritos Familiares
 
 **Categoria:** so | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 祖霊の戒告 | **Status:** Published
+**Título Original:** 祖霊の戒告 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Admoestação dos Espíritos Familiares
 
@@ -898,7 +2055,7 @@ Para concluir, é comum que certos curadores religiosos ou ascetas atribuam a ma
 # O Desígnio Divino para a Nova Era
 
 **Categoria:** taidan | **Ano:** 昭和27(1952)年10月22日 | **Fonte:** Eikou
-**Título Original:** 明主様と為郷恒淳氏との御対談 ◇ 秋風戦（そよ）ぐ十月四日箱根神山荘の応接間において◇ | **Status:** Published
+**Título Original:** 明主様と為郷恒淳氏との御対談 ◇ 秋風戦（そよ）ぐ十月四日箱根神山荘の応接間において◇ | **Status:** Published | **Edição/Página:** 179号 | **Data ISO:** 1952-10-22
 
 ## O Desígnio Divino para a Nova Era
 
@@ -1028,7 +2185,7 @@ Contudo, grande parte da "beleza" que existe hoje, na verdade, rebaixa o nível 
 # A Arte da Velocidade e Picasso
 
 **Categoria:** so | **Ano:** 昭和27(1952)年1月23日 | **Fonte:** Kyusei
-**Título Original:** 速度の芸術とピカソに就て | **Status:** Published
+**Título Original:** 速度の芸術とピカソに就て | **Status:** Published | **Edição/Página:** 140号 | **Data ISO:** 1952-01-23
 
 ## A Arte da Velocidade e Picasso
 
@@ -1047,7 +2204,7 @@ Permitam-me, agora, expor brevemente minha opinião sobre a pintura. Acredito qu
 # A Lógica da Concordância e outras reflexões
 
 **Categoria:** so | **Ano:** 昭和27(1952)年11月5日 | **Fonte:** Eikou
-**Título Original:** 相応の理と其他の事 | **Status:** Published
+**Título Original:** 相応の理と其他の事 | **Status:** Published | **Edição/Página:** 181号 | **Data ISO:** 1952-11-05
 
 ## A Lógica da Concordância e outras reflexões
 
@@ -1068,7 +2225,7 @@ Nesse sentido, nós somos verdadeiramente afortunados. Por compreendermos a medi
 # A Admoestação dos Espíritos Antepassados
 
 **Categoria:** so | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 祖霊の戒告 | **Status:** Published
+**Título Original:** 祖霊の戒告 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Admoestação dos Espíritos Antepassados
 
@@ -1083,7 +2240,7 @@ Existe ainda outro exemplo elucidativo. Em determinada família, o chefe da casa
 # A Relevância do Cálculo
 
 **Categoria:** so | **Ano:** 昭和24(1949)年9月10日 | **Fonte:** -
-**Título Original:** 算盤を無視するな | **Status:** Published
+**Título Original:** 算盤を無視するな | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1949-09-10
 
 ## A Relevância do Cálculo
 
@@ -1112,7 +2269,7 @@ Diante desse quadro, é imperativo que, de agora em diante, a participação de 
 # A Influência dos Antepassados nas Enfermidades
 
 **Categoria:** so | **Ano:** 昭和26(1951)年5月16日 | **Fonte:** Eikou
-**Título Original:** 祖霊と病気 | **Status:** Published
+**Título Original:** 祖霊と病気 | **Status:** Published | **Edição/Página:** 104号 | **Data ISO:** 1951-05-16
 
 ## A Influência dos Antepassados nas Enfermidades
 
@@ -1147,7 +2304,7 @@ Meishu-Sama nos ensina que a disenteria infantil pode ser curada com duas ou tr�
 # O Esplêndido Exemplo do Vegetarianismo
 
 **Categoria:** sa | **Ano:** 昭和27(1952)年9月17日 | **Fonte:** Eikou
-**Título Original:** 菜食のよき例 | **Status:** Published
+**Título Original:** 菜食のよき例 | **Status:** Published | **Edição/Página:** 174号 | **Data ISO:** 1952-09-17
 
 ## O Esplêndido Exemplo do Vegetarianismo
 
@@ -1166,7 +2323,7 @@ Em nítido contraste, observemos o homem moderno. Apesar de se fartar de aliment
 # O Juízo Final
 
 **Categoria:** sa | **Ano:** 昭和27(1952)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 最後の審判 | **Status:** Published
+**Título Original:** 最後の審判 | **Status:** Published | **Edição/Página:** 42号 | **Data ISO:** 1952-11-25
 
 ## O Juízo Final
 
@@ -1185,7 +2342,7 @@ Pode-se afirmar, com segurança, que não há um só lugar na face da Terra isen
 # Sobre o Padecimento Pruriginoso
 
 **Categoria:** so | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 掻痒苦 | **Status:** Published
+**Título Original:** 掻痒苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Sobre o Padecimento Pruriginoso
 
@@ -1204,7 +2361,7 @@ Existe ainda uma manifestação semelhante à urticária que é oriunda da intox
 # A Origem das Enfermidades: As Três Toxinas
 
 **Categoria:** sa | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 三毒 | **Status:** Published
+**Título Original:** 三毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Origem das Enfermidades: As Três Toxinas
 
@@ -1227,7 +2384,7 @@ Para concluir, existe um método para distinguir as três toxinas por meio da pa
 # O Paradoxo da Esterilização Terapêutica
 
 **Categoria:** sa | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 殺菌か養菌か | **Status:** Unknown
+**Título Original:** 殺菌か養菌か | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## O Paradoxo da Esterilização Terapêutica
 
@@ -1248,7 +2405,7 @@ Contudo, o perigo não se encerra aí. O sangue maculado por substâncias estran
 # A Questão da Veneração aos Antepassados
 
 **Categoria:** so | **Ano:** 昭和26(1951)年12月5日 | **Fonte:** Eikou
-**Título Original:** 祖霊祭りに就ての注意 | **Status:** Published
+**Título Original:** 祖霊祭りに就ての注意 | **Status:** Published | **Edição/Página:** 133号 | **Data ISO:** 1951-12-05
 
 ## A Questão da Veneração aos Antepassados
 
@@ -1304,7 +2461,7 @@ A Meishu-Sama e a todos os ministros, minha mais profunda e sincera gratidão. P
 # Seriam os Germes Tão Temíveis?
 
 **Categoria:** sa | **Ano:** 昭和24(1949)年6月30日 | **Fonte:** -
-**Título Original:** 細菌恐るべき乎 | **Status:** Published
+**Título Original:** 細菌恐るべき乎 | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1949-06-30
 
 ## Seriam os Germes Tão Temíveis?
 
@@ -1325,7 +2482,7 @@ Somente por este aspecto, já se pode compreender a magnitude do poder salvador 
 # A Falácia da Inalação de Oxigênio
 
 **Categoria:** sa | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 酸素吸入の誤謬 | **Status:** Unknown
+**Título Original:** 酸素吸入の誤謬 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Falácia da Inalação de Oxigênio
 
@@ -1342,7 +2499,7 @@ Portanto, ao inferirmos a partir desse princípio, compreendemos que a inalaçã
 # Reflexões ao Findar do Ano
 
 **Categoria:** sa | **Ano:** 昭和7(1932)年12月 | **Fonte:** 松風
-**Título Original:** 歳末感 ・巻頭言 | **Status:** Published
+**Título Original:** 歳末感 ・巻頭言 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1932-12
 
 ## Reflexões ao Findar do Ano
 
@@ -1359,7 +2516,7 @@ Encontro plena satisfação na simples alegria compartilhada entre os companheir
 # O Significado do Juízo Final
 
 **Categoria:** sa | **Ano:** 昭和26(1951)年6月27日 | **Fonte:** Eikou
-**Título Original:** 最後の審判とは | **Status:** Published
+**Título Original:** 最後の審判とは | **Status:** Published | **Edição/Página:** 110号 | **Data ISO:** 1951-06-27
 
 ## O Significado do Juízo Final
 
@@ -1380,7 +2537,7 @@ Isso se deve ao fato de que, no momento decisivo, por mais que o ser humano se e
 # A Eliminação das Máculas Espirituais
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年3月4日 | **Fonte:** Hikari明世界
-**Título Original:** 罪障消滅 | **Status:** Published
+**Título Original:** 罪障消滅 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-03-04
 
 ## A Eliminação das Máculas Espirituais
 
@@ -1409,7 +2566,7 @@ Diante de tal panorama, não podemos permanecer de braços cruzados. É lamentá
 # Pecado, Impureza e a Origem das Doenças
 
 **Categoria:** sa | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 罪穢と病気 | **Status:** Published
+**Título Original:** 罪穢と病気 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## Pecado, Impureza e a Origem das Doenças
 
@@ -1432,7 +2589,7 @@ Assim, a função que serve como fonte geradora da purificação espiritual resi
 # O Juízo Final
 
 **Categoria:** sa | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 最後の審判 | **Status:** Published
+**Título Original:** 最後の審判 | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1950-01-20
 
 ## O Juízo Final
 
@@ -1461,7 +2618,7 @@ Ofereço este texto àqueles que não possuem fé.
 # A Era da Fraude
 
 **Categoria:** sa | **Ano:** 昭和28(1953)年10月21日 | **Fonte:** Eikou
-**Título Original:** 詐欺時代 | **Status:** Published
+**Título Original:** 詐欺時代 | **Status:** Published | **Edição/Página:** 231号 | **Data ISO:** 1953-10-21
 
 ## A Era da Fraude
 
@@ -1490,7 +2647,7 @@ Observando este panorama, conclui-se que no mundo atual, embora não se possa di
 # Os Temíveis Equívocos da Medicina
 
 **Categoria:** sa | **Ano:** 昭和25(1950)年2月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 沢村田之助他 | **Status:** Published
+**Título Original:** 沢村田之助他 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-02-20
 
 ## Os Temíveis Equívocos da Medicina
 
@@ -1519,7 +2676,7 @@ Os casos que relatei são apenas alguns exemplos, dentre as inúmeras experiênc
 # Despertai, religiosos e médicos da atualidade
 
 **Categoria:** sa | **Ano:** 昭和11(1936)年1月1日 | **Fonte:** 内外公論
-**Título Original:** 醒めよ既成宗教家と現代医学者 | **Status:** Published
+**Título Original:** 醒めよ既成宗教家と現代医学者 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-01-01
 
 ## Despertai, religiosos e médicos da atualidade
 
@@ -1544,7 +2701,7 @@ Se não forem capazes de compreender este ponto crucial e persistirem em suas ca
 # A Essência da Santíssima Trindade
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 三位一体 | **Status:** Published
+**Título Original:** 三位一体 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Essência da Santíssima Trindade
 
@@ -1563,7 +2720,7 @@ O mundo que advirá após a concretização dessa Santíssima Trindade será o P
 # O Juízo Final e a Verdadeira Medicina
 
 **Categoria:** sa | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 最後の審判 未発表 | **Status:** Unpublished
+**Título Original:** 最後の審判 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## O Juízo Final e a Verdadeira Medicina
 
@@ -1586,7 +2743,7 @@ A razão para tal primazia é que, conforme afirmei anteriormente, a elucidaçã
 # O Significado da Aliança Tripartite
 
 **Categoria:** sa | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 三国同盟の意義 | **Status:** Published
+**Título Original:** 三国同盟の意義 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## O Significado da Aliança Tripartite
 
@@ -1615,7 +2772,7 @@ Quando aplicamos essa lógica à presente Guerra Mundial, tudo se torna ainda ma
 # Reflexões sobre a Composição Poética
 
 **Categoria:** sa | **Ano:** 昭和8(1933)年4月 | **Fonte:** 松風
-**Título Original:** 作歌について ・巻頭言 | **Status:** Published
+**Título Original:** 作歌について ・巻頭言 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1933-04
 
 ## Reflexões sobre a Composição Poética
 
@@ -1632,7 +2789,7 @@ A meu ver, contudo, ambas as abordagens, isoladamente, são parciais e não repr
 # A Insensatez do Controle de Natalidade
 
 **Categoria:** sa | **Ano:** 昭和24(1949)年8月20日 | **Fonte:** -
-**Título Original:** 産制の愚 | **Status:** Published
+**Título Original:** 産制の愚 | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1949-08-20
 
 ## A Insensatez do Controle de Natalidade
 
@@ -1651,7 +2808,7 @@ Ademais, em minha opinião, é possível que o Estado Mundial se concretize mais
 # A Compreensão e o Despertar
 
 **Categoria:** sa | **Ano:** 昭和24(1949)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 悟りと覚り | **Status:** Published
+**Título Original:** 悟りと覚り | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-09-25
 
 ## A Compreensão e o Despertar
 
@@ -1670,7 +2827,7 @@ Contudo, sob a nossa ótica, tal realidade se deve ao fato de que, até agora, o
 # O Temor às Bactérias
 
 **Categoria:** sa | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 細菌恐るべき乎 自観叢書10編 | **Status:** Published
+**Título Original:** 細菌恐るべき乎 自観叢書10編 | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1950-04-20
 
 ## O Temor às Bactérias
 
@@ -1689,7 +2846,7 @@ A simples análise deste fato já é suficiente para revelar a magnitude da salv
 # A Natureza da Trindade Búdica
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 三尊の弥陀 | **Status:** Published
+**Título Original:** 三尊の弥陀 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Natureza da Trindade Búdica
 
@@ -1708,7 +2865,7 @@ Uma exegese pormenorizada de cada um destes itens pode ser encontrada na revista
 # As Leis da Reencarnação e suas Causas
 
 **Categoria:** sa | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 再生 | **Status:** Published
+**Título Original:** 再生 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## As Leis da Reencarnação e suas Causas
 
@@ -1731,7 +2888,7 @@ A reencarnação apressada, por sua vez, não é influenciada apenas pelo apego 
 # O Terceiro Encarceramento
 
 **Categoria:** sa | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 三度目のブタ箱入り 自観叢書第9篇 | **Status:** Published
+**Título Original:** 三度目のブタ箱入り 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.38 | **Data ISO:** 1949-12-30
 
 ## O Terceiro Encarceramento
 
@@ -1750,7 +2907,7 @@ A esse respeito, porém, um fato curioso veio a ocorrer no ano seguinte. Um cert
 # Não julgueis
 
 **Categoria:** sa | **Ano:** 昭和28(1953)年5月13日 | **Fonte:** Eikou
-**Título Original:** 裁く勿れ | **Status:** Published
+**Título Original:** 裁く勿れ | **Status:** Published | **Edição/Página:** 208号 | **Data ISO:** 1953-05-13
 
 ## Não julgueis
 
@@ -1781,7 +2938,7 @@ Mas já me desviei consideravelmente do tema principal, e por isso, encerro aqui
 # A Causa Espiritual do Alcoolismo
 
 **Categoria:** sa | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 酒と宗教 | **Status:** Published
+**Título Original:** 酒と宗教 | **Status:** Published | **Edição/Página:** P.81 | **Data ISO:** 1948-09-05
 
 ## A Causa Espiritual do Alcoolismo
 
@@ -1806,7 +2963,7 @@ Depreende-se, portanto, que em qualquer religião, desde que ela possua o brilho
 # A Ilusão no Tratamento Médico
 
 **Categoria:** sa | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 錯覚的治療 | **Status:** Published
+**Título Original:** 錯覚的治療 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
 
 ## A Ilusão no Tratamento Médico
 
@@ -1829,7 +2986,7 @@ O segundo tipo é o paciente que se recupera completamente. Na realidade, trata-
 # A Relação entre os Pecados, as Impurezas e as Doenças
 
 **Categoria:** sa | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 罪穢と病気 | **Status:** Published
+**Título Original:** 罪穢と病気 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Relação entre os Pecados, as Impurezas e as Doenças
 
@@ -1848,7 +3005,7 @@ Se aplicarmos este mesmo princípio em uma escala mais ampla, compreenderemos qu
 # Yakushi Nyorai, o Buda da Cura
 
 **Categoria:** English | **Ano:** - | **Fonte:** NYORAI: THE MEDICINE BUDDHA Heaven on Earth, No.
-**Título Original:** YAKUSHI | **Status:** Unknown
+**Título Original:** YAKUSHI | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## Yakushi Nyorai, o Buda da Cura
 
@@ -1865,7 +3022,7 @@ Este é precisamente o Poder de Kannon (観音力) que venho manifestando.
 # O Impasse
 
 **Categoria:** English | **Ano:** - | **Fonte:** Eikoh, No.
-**Título Original:** DEADLOCK | **Status:** Unknown
+**Título Original:** DEADLOCK | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## O Impasse
 
@@ -1882,7 +3039,7 @@ Assim sendo, ao ler estas palavras, guarde-as no âmago de seu coração. Quando
 # O que é o Juízo Final
 
 **Categoria:** sa | **Ano:** 昭和28(1953)年6月17日 | **Fonte:** Eikou
-**Título Original:** 最後の審判とは何か | **Status:** Published
+**Título Original:** 最後の審判とは何か | **Status:** Published | **Edição/Página:** 213号 | **Data ISO:** 1953-06-17
 
 ## O que é o Juízo Final
 
@@ -1901,7 +3058,7 @@ Há também aqueles que, mesmo recebendo uma grande graça e se sentindo gratifi
 # O Poder da Resistência
 
 **Categoria:** English | **Ano:** 昭和25(1950)年2月18日 | **Fonte:** Kyusei
-**Título Original:** POWER | **Status:** Published
+**Título Original:** POWER | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1950-02-18
 
 ## O Poder da Resistência
 
@@ -1914,7 +3071,7 @@ Todavia, a medicina, em sua lógica invertida, ao mesmo tempo que apregoa o fort
 # Uma Perspectiva Alternativa para o Controle de Natalidade
 
 **Categoria:** sa | **Ano:** 昭和24(1949)年6月11日 | **Fonte:** -
-**Título Original:** 産制問題の別の観方 | **Status:** Published
+**Título Original:** 産制問題の別の観方 | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1949-06-11
 
 ## Uma Perspectiva Alternativa para o Controle de Natalidade
 
@@ -1939,7 +3096,7 @@ Este plano deveria ser formalmente elaborado e submetido ao Quartel-General das 
 # Religião e Política
 
 **Categoria:** English | **Ano:** - | **Fonte:** AND POLITICS Miscellaneous Topics Related to Religious Faith, p.
-**Título Original:** RELIGION | **Status:** Unknown
+**Título Original:** RELIGION | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## Religião e Política
 
@@ -1956,7 +3113,7 @@ Diante da construção de um novo Japão, considero que a tarefa mais premente �
 # A Essência de Meu Ser
 
 **Categoria:** English | **Ano:** - | **Fonte:** MYSELF （
-**Título Original:** ABOUT | **Status:** Unknown
+**Título Original:** ABOUT | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Essência de Meu Ser
 
@@ -1981,7 +3138,7 @@ Reconheço que este texto pode soar um tanto como autoelogio, o que me causa cer
 # A Missão da Ciência
 
 **Categoria:** English | **Ano:** - | **Fonte:** MISSION OF SCIENCE Medicine for Tomorrow,
-**Título Original:** THE | **Status:** Unknown
+**Título Original:** THE | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Missão da Ciência
 
@@ -2010,7 +3167,7 @@ Somente assim a vida da humanidade será prolongada e uma era livre de doenças 
 # A Força Invisível do Espírito
 
 **Categoria:** English | **Ano:** - | **Fonte:** POWER Tidings of Great Joy from Heaven , February
-**Título Original:** NATURAL | **Status:** Unknown
+**Título Original:** NATURAL | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Força Invisível do Espírito
 
@@ -2037,7 +3194,7 @@ A ciência moderna finalmente começou a reconhecer que não apenas todos os ser
 # E se o Mal Desaparecesse Deste Mundo
 
 **Categoria:** English | **Ano:** - | **Fonte:** "EVIL" DISAPPEARS FROM THIS WORLD Eikoh , No.
-**Título Original:** IF | **Status:** Unknown
+**Título Original:** IF | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## E se o Mal Desaparecesse Deste Mundo
 
@@ -2074,7 +3231,7 @@ Eu, porém, afirmo que isso é possível. Para que tal se realize, a condição 
 # As Três Grandes Superstições
 
 **Categoria:** sa | **Ano:** 昭和26(1951)年8月29日 | **Fonte:** Eikou
-**Título Original:** 三大迷信とは何か | **Status:** Published
+**Título Original:** 三大迷信とは何か | **Status:** Published | **Edição/Página:** 119号 | **Data ISO:** 1951-08-29
 
 ## As Três Grandes Superstições
 
@@ -2100,7 +3257,7 @@ Em suma, uma sociedade ideal e livre do crime somente surgirá quando emergir um
 # As Três Grandes Superstições
 
 **Categoria:** English | **Ano:** - | **Fonte:** ARE THE THREE MAJOR SUPERSTITIONS? Eikoh , No.
-**Título Original:** WHAT | **Status:** Unknown
+**Título Original:** WHAT | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## As Três Grandes Superstições
 
@@ -2126,7 +3283,7 @@ Em suma, não resta dúvida de que uma sociedade ideal e livre de crimes somente
 # Noventa e Nove por Cento versus Um por Cento
 
 **Categoria:** English | **Ano:** - | **Fonte:** PERCENT VERSUS ONE PERCENT Eikoh , No.
-**Título Original:** NINETY-NINE | **Status:** Unknown
+**Título Original:** NINETY-NINE | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## Noventa e Nove por Cento versus Um por Cento
 
@@ -2165,7 +3322,7 @@ Neste momento, o manto da Noite é rasgado, e o Sol radiante desponta no horizon
 # Acerca da Digestão
 
 **Categoria:** English | **Ano:** - | **Fonte:** DIGESTI Salvation of the World, No.
-**Título Original:** ON | **Status:** Unknown
+**Título Original:** ON | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## Acerca da Digestão
 
@@ -2178,7 +3335,7 @@ Por essa razão, Deus criou os alimentos para que fossem consumidos em uma sábi
 # A Extinção da Tragédia
 
 **Categoria:** English | **Ano:** - | **Fonte:** EXTERMINATE THE ILLS OF TRAGEDY Hikari , No.
-**Título Original:** TO | **Status:** Unknown
+**Título Original:** TO | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Extinção da Tragédia
 
@@ -2203,7 +3360,7 @@ Shakyamuni afirmou: "O ser, em sua essência, é Buda", e também: "Aquele que a
 # O Salvador e o Redentor
 
 **Categoria:** English | **Ano:** - | **Fonte:** MESSIAH AND  REDEEMER Unpublished " Creation of Civilization ", written in
-**Título Original:** THE | **Status:** Unknown
+**Título Original:** THE | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## O Salvador e o Redentor
 
@@ -2234,7 +3391,7 @@ Para expressá-lo de forma concreta, os noventa e nove por cento de mal represen
 # A Natureza Misteriosa do Mundo Espiritual
 
 **Categoria:** English | **Ano:** - | **Fonte:** OF THE SPIRITUAL WORLD Heaven on Earth,No.
-**Título Original:** MYSTERY | **Status:** Unknown
+**Título Original:** MYSTERY | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Natureza Misteriosa do Mundo Espiritual
 
@@ -2263,7 +3420,7 @@ Pelo que foi exposto, pode-se compreender a imensa importância que devemos atri
 # A Concretização da Verdade
 
 **Categoria:** English | **Ano:** - | **Fonte:** OF THE TRUTH
-**Título Original:** ACTUALIZATION | **Status:** Unknown
+**Título Original:** ACTUALIZATION | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Concretização da Verdade
 
@@ -2290,7 +3447,7 @@ Segue-se, pois, que a primeira opção — a realização de um mundo paradisía
 # Sobre a Enfermidade do Câncer
 
 **Categoria:** English | **Ano:** - | **Fonte:** CANCER Eikoh, No.
-**Título Original:** ON | **Status:** Unknown
+**Título Original:** ON | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## Sobre a Enfermidade do Câncer
 
@@ -2311,7 +3468,7 @@ Por fim, mencionarei a tuberculose. A esse respeito, publicarei em breve o livro
 # A Realidade do Mundo Pós-Morte
 
 **Categoria:** English | **Ano:** - | **Fonte:** THE SPIRIT AFTER DEATH REAL? Tidings of Great Joy from Heaven , February
-**Título Original:** IS | **Status:** Unknown
+**Título Original:** IS | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Realidade do Mundo Pós-Morte
 
@@ -2338,7 +3495,7 @@ Este autor, embora seja uma grande figura do mundo budista, desconhecia a capaci
 # A Onipotência da Ciência
 
 **Categoria:** English | **Ano:** - | **Fonte:** SCIENCE ALMIGHTY? Miscellaneous Topics Related to Religious Faith, p.
-**Título Original:** IS | **Status:** Unknown
+**Título Original:** IS | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
 
 ## A Onipotência da Ciência
 
@@ -2355,962 +3512,6 @@ Estas três questões são, indubitavelmente, alguns dos maiores e mais cruciais
 É verdade que, no plano material, a ciência tem oferecido contribuições notáveis à humanidade, e anseio sinceramente por seu contínuo progresso. Contudo, como mencionei, há um número considerável de problemas que a ciência é incapaz de solucionar. Não seria justamente essa a esfera que cabe à religião?
 
 Nesse sentido, chego a uma conclusão: o progresso harmônico de ambas — ciência e religião — constitui o verdadeiro avanço da civilização humana.
-
----
-
-# A Análise do Elemento Tóxico
-
-**Categoria:** English | **Ano:** - | **Fonte:** OF TOXIC ELEMENT " Faith Cure for Tuberculosis, " December
-**Título Original:** ANALYSIS | **Status:** Unknown
-
-## A Análise do Elemento Tóxico
-
-Passo agora à explanação sobre o elemento tóxico. Essencialmente, o elemento tóxico é, em suma, o sangue impuro no corpo e as máculas no espírito, conforme já descrevi. Tais máculas, por sua vez, são geradas pela impureza do pecado oriundo de atos malévolos.
-
-Essa concepção da impureza do pecado tem sido, por assim dizer, um monopólio da religião. Lamentavelmente, porém, a forma como tem sido pregada até hoje é assaz ingênua, limitando-se a admoestações como “não se deve praticar o mal, pois isso gera impurezas”. Talvez essa abordagem fosse suficiente para as pessoas de outrora, mas é de todo inaceitável para o homem moderno, cuja mente é racional e científica. Por essa razão, a explicação deve, a todo custo, ser edificada como uma teoria sistemática e comprovada.
-
-Ora, uma vez que este mundo em que existimos é constituído pelo Mundo Espiritual e pelo mundo material, o ser humano, de igual modo, compõe-se de espírito e corpo. Ambos estão intimamente conectados, numa relação indissociável, regida pelo princípio da unicidade entre o espiritual e o corpóreo. Sendo assim, o que as máculas do espírito refletem no corpo manifesta-se como sangue impuro; e, em contrapartida, o que o sangue impuro reflete no espírito, manifesta-se como máculas. Este é o ponto de máxima importância, e peço que prossigam a leitura com essa premissa em mente.
-
-Explanemos, pois, a partir da perspectiva espiritual. Quando uma pessoa comete uma má ação, o pecado se converte em máculas espirituais. Ao se acumularem até certo ponto, ocorre a purificação. Essa purificação assume a forma de doença, desastre ou punição legal. Aquele que, mesmo assim, consegue escapar dessas dolorosas purificações, receberá, em vez disso, o castigo espiritual imposto pela Lei de Deus. E ainda que alguém, com extrema astúcia, logre evadir-se também dessa punição, saiba que a sentença divina é categórica: as máculas se refletirão no corpo, infligindo grande sofrimento físico ao malfeitor. Naturalmente, a doença que surge nesse caso é de natureza maligna e, na maioria das vezes, fatal.
-
-Ademais, quanto mais cedo um mal é punido, mais branda é a penalidade, tal como uma dívida cujo montante se agiganta com juros compostos quanto mais se adia o pagamento. Em raros casos, contudo, há malfeitores que evadem ardilosamente tanto a punição dos homens quanto a de Deus. Tais indivíduos, porém, tão logo chegam ao Mundo Espiritual após a morte, precipitam-se diretamente ao mais profundo abismo do Inferno, esmagados pelo fardo de seus pecados. Ali, por mais perversos que tenham sido, não lhes resta alternativa senão arrepender-se amargamente.
-
-Para ser mais específico, esse lugar corresponde ao inferno Avici, ou Muken (o oitavo e mais doloroso dos oito infernos do Budismo), ao que o Xintoísmo denomina Nesoko-no-kuni (o fundo do fundo do Mundo Espiritual), ou ainda ao inferno dos infernos descrito na obra *O Inferno*, da *Divina Comédia* de Dante. Trata-se de um mundo de escuridão total, sem luz ou calor, onde nada se vê e onde os espíritos permanecem em estado de congelamento por centenas de anos. Em tais condições, até os mais atrozes vilões acabam por se render. Os homens de hoje talvez achem difícil acreditar no que acabo de expor, mas podem depositar em mim confiança absoluta, pois tudo isso foi o que ouvi diretamente de inúmeros espíritos no decorrer de meus estudos sobre o Mundo Espiritual. Não há, portanto, inverdade alguma em minhas descrições.
-
-Retomando um pouco o fio da explanação: como resultado de uma má ação, o malfeitor sente o amargo remorso, e essa dor no coração é, em si, uma forma branda de purificação. Seria bom se o arrependimento genuíno ocorresse nesse momento, mas isso raramente acontece, e, ao fim, os erros acabam por se repetir. A quantidade de máculas espirituais é, obviamente, proporcional à gravidade do erro e à natureza do pecado. Existe, contudo, outro fator que provém de outras pessoas. Ou seja: se alguém atormenta o próximo, aqueles que foram atormentados sentem raiva ou guardam rancor. Seus pensamentos e intenções são transmitidos ao espírito do agressor, gerando máculas em seu corpo espiritual. Em contrapartida, se alguém faz os outros felizes e pratica o bem, seus pensamentos de gratidão se transformam em luz e são enviados de volta, reduzindo as máculas espirituais dessa pessoa. Todavia, mesmo nesse caso, quanto mais secretamente se pratica o bem — isto é, sem que o beneficiado o saiba —, maior é a recompensa recebida de Deus. Esta é a solene e imutável Lei Divina.
-
-Se as coisas são assim no Mundo Espiritual, e sendo esta a verdade absoluta, não resta aos seres humanos outra opção senão crer e obedecer. E, se o processo de purificação das máculas é a causa das doenças e de outras calamidades, aquele que deseja alcançar a felicidade deve, impreterivelmente, cessar a prática do mal e devotar-se ao bem, a fim de manter seu espírito livre de máculas.
-
-A seguir, escreverei sobre o aspecto físico do elemento tóxico. O sangue impuro, como fonte das doenças, origina-se das toxinas medicamentosas. Em sua essência, todos os agentes farmacêuticos são substâncias venenosas. Não obstante, as pessoas, por um longo tempo, os consideraram benéficos e curativos, o que constitui um erro crasso. Isso se deve precisamente ao desconhecimento da verdade fundamental de que a doença é um processo de purificação.
-
-Descreverei agora o mecanismo principal da ação das toxinas medicamentosas, com base em minha experiência direta. Ocorre, por vezes, que um paciente já curado pelo Johrei tem uma recaída da mesma doença após algum tempo. Classificamos esse fenômeno como “repurificação”. A razão para isso é que, na primeira etapa do Johrei, apenas uma parte do elemento tóxico que se manifestava como doença — ou seja, como purificação — é eliminada. Assim, o paciente melhora e sente-se bem por um período. Contudo, tão logo retoma suas atividades e volta ao trabalho, seu corpo, tendo recuperado as energias vitais, desencadeia uma purificação ainda mais ativa. Em outras palavras, o doente se torna saudável ao receber Johrei, e é precisamente por se tornar saudável que outra purificação, ou doença, ocorre. Repetindo esse processo várias vezes, a saúde é gradualmente restaurada.
-
-Por conseguinte, na fase de repurificação, por ser o processo mais intenso, surgem febre alta e tosse forte. Isso ocorre porque o catarro antigo e endurecido — identificável por ser espesso e ter cheiro de remédio — é expelido. Naturalmente, há também perda de apetite, fraqueza etc., e, em raras ocasiões, sobrevém a morte. As estatísticas que temos até hoje mostram que, de cem pessoas completamente curadas pelo Johrei, sete faleceram no processo de repurificação. Os noventa e três por cento restantes, portanto, recuperaram a saúde de forma plena e hoje estão todos em plena atividade.
-
-O que torna essa taxa de cura assombrosa ainda mais extraordinária é o fato de que a maioria dos pacientes que nos procuram são casos graves, que já tentaram em vão a medicina, os remédios populares, as curas pela fé etc., e foram levados à beira da morte. Alcançar o excelente resultado acima relatado nessas condições é algo que, suponho, as pessoas dificilmente poderiam acreditar. De resto, mesmo no que tange aos sete por cento que vieram a falecer, todos morreram precisamente por causa da enorme quantidade de medicamentos que haviam ingerido anteriormente. O Johrei é, em suma, um método para a eliminação das toxinas medicamentosas, o que se torna evidente ao se constatar que o paciente melhora na exata medida em que essas toxinas diminuem.
-
-Sendo assim, transformar o Japão em um país livre da tuberculose não é tão difícil. Esse objetivo poderia ser plenamente alcançado com duas medidas: a total erradicação dos medicamentos em todo o país e o incentivo para que as pessoas se resfriem.
-
-Ademais, o Criador, ao conceber os seres humanos como protagonistas deste planeta, providenciou alimentos em quantidade suficiente para sustentar suas vidas e lhes concedeu o paladar. Portanto, se apenas desfrutarmos do que desejamos comer, isso é o bastante para mantermos a saúde, sem necessidade de nos preocuparmos com questões de nutrição. Isso se torna possível pela mesma razão natural que rege o desejo sexual: ele não existe com o propósito de gerar um filho, mas sim para outro fim; e, ao se realizar esse fim, um filho pode ser concedido, sem que se pense nisso.
-
-Se assim é, torna-se evidente que o ser humano não deve ingerir nenhuma substância estranha ao corpo, com exceção dos alimentos. Por conseguinte, aquilo que não tem sabor ou é amargo já indica, por si só, que não deve ser ingerido. Desconhecendo esse princípio, por muito tempo se disse que “o bom remédio é amargo”, o que, devo dizer, é um erro fundamental. A função digestiva foi projetada para processar apenas alimentos; sendo os medicamentos substâncias estranhas, eles não são processados, permanecem no organismo e se tornam a origem das doenças. Este assunto tem grande relação com a varíola, e sobre ele escreverei no próximo capítulo.
-
----
-
-# A Religião em Tempos de Crise
-
-**Categoria:** English | **Ano:** - | **Fonte:** AND RELIGION The Light from the East , first issue, January
-**Título Original:** CRISIS | **Status:** Unknown
-
-## A Religião em Tempos de Crise
-
-Atualmente, o termo “crise” ecoa por toda parte. Embora seja empregado tanto no cenário internacional quanto no doméstico, gostaria de me ater aqui à sua aplicação no âmbito nacional, a fim de discorrer sobre a profunda relação que essa conjuntura estabelece com a religião.
-
-No que tange à esfera doméstica, ao falarmos de crises, geralmente nos referimos a questões econômicas, e especificamente, às altas taxas de desemprego na agricultura e entre os pequenos e médios empresários. A raiz desses problemas econômicos, todavia, repousa inegavelmente na política. Foram as precárias condições da economia que culminaram em incidentes como os da Liga de Sangue e de 15 de Maio. O objetivo dos envolvidos nesses levantes era reformar as mazelas oriundas da política partidária, em particular a proteção desfrutada pelas classes privilegiadas e os excessos de um sistema pautado na vontade da maioria. Contudo, mesmo que as reformas almejadas tivessem sido bem-sucedidas, seria possível desfrutar de um sistema político verdadeiramente perfeito? Nutro profundas dúvidas quanto a essa possibilidade.
-
-E isso se dá porque o alicerce de um governo constitucional é formado tanto pelos eleitores quanto pelos eleitos. As queixas sobre o sistema geralmente se dirigem apenas aos partidos políticos, que nada mais são do que o agrupamento dos indivíduos que recebem os votos. Entretanto, não haverá verdadeiro êxito na depuração do governo constitucional enquanto o outro lado de sua fundação, os eleitores, também não se aprimorar. Se a causa da corrupção política reside na compra de votos, então aqueles que os vendem, os próprios eleitores, são tão culpados quanto os políticos que tentam adquiri-los.
-
-Portanto, as formas de governo são, em si, secundárias; o cerne da questão reside no grau de senso de justiça daqueles que integram o sistema. É imperativo que se incuta no povo uma moralidade tão arraigada que o leve a rechaçar, de modo absoluto, qualquer oferta de compra de seu voto. A situação atual demonstra, inequivocamente, que a educação tem se mostrado ineficaz para tal fim. Estou convicto de que somente o poder da religião é capaz de cultivar esse senso de justiça.
-
-Por conseguinte, os líderes religiosos devem, doravante, empenhar-se arduamente em despertar no povo a consciência de sua justiça política. Creio que é justamente por essa omissão que a sociedade não os reverencia. Os líderes religiosos perderam de vista os problemas que as pessoas enfrentam na vida cotidiana e não despertaram para o fluxo dos tempos.
-
----
-
-# O Ser Humano é Conforme seu Pensamento
-
-**Categoria:** English | **Ano:** 昭和24(1949)年9月3日 | **Fonte:** ARE WHAT  THINK a brief comment Hikari , No.
-**Título Original:** YOU | **Status:** Published
-
-## O Ser Humano é Conforme seu Pensamento
-
-Que a gratidão gera gratidão e a insatisfação atrai insatisfação é uma verdade irrefutável. Isso ocorre porque o coração agradecido comunica-se diretamente com Deus, ao passo que o coração insatisfeito estabelece sintonia com os Espíritos Malignos.
-
-Em virtude desse princípio, é fato que as pessoas que constantemente nutrem gratidão se tornam, naturalmente, afortunadas e felizes. Aquelas, contudo, que vivem em descontentamento ou se entregam a queixumes, trilham um caminho de infortúnio e sofrimento.
-
-A esse respeito, os escritos da religião Oomoto-kyou contêm um aforismo de profunda sabedoria: “Alegrem-se, e acontecimentos alegres lhes advirão”. Tais palavras constituem, de fato, a mais pura verdade.
-
----
-
-# A Saúde é Tudo
-
-**Categoria:** English | **Ano:** - | **Fonte:** IS ALL AND EVERYTHING Eikoh , No.
-**Título Original:** HEALTH | **Status:** Unknown
-
-## A Saúde é Tudo
-
-Saúde, por óbvio, é a condição do ser humano sem doenças. Contudo, há algo que me causa profunda estranheza: estudiosos da religião e jornalistas costumam afirmar que uma religião focada na cura de doenças não é de categoria elevada, por dar primazia a benefícios mundanos. Tal concepção é de um equívoco absoluto.
-
-É desnecessário dizer que, para nós que nascemos como seres humanos e vivemos em sociedade, não há nada que obstrua tanto nossas atividades e nos inflija tanto sofrimento quanto a doença. Ao observarmos a sociedade e investigarmos as causas da infelicidade e das tragédias, constatamos que sua raiz, invariavelmente, é a doença. Assim como se diz que “por trás de um crime há sempre uma mulher”, podemos afirmar que, por trás de uma tragédia, há sempre uma doença. Portanto, é absolutamente certo que o número de pessoas infelizes diminui na proporção direta do aumento de pessoas saudáveis. Isso se aplica ao indivíduo, mas, em termos de nação e sociedade, o prejuízo causado pela doença é o maior de todos. Afinal, a doença é a causa fundamental da infelicidade.
-
-O lema de nossa religião é “um mundo isento de doença, pobreza e conflito”. Todavia, se pudermos erradicar apenas a doença, os problemas da miséria e dos conflitos serão, naturalmente, solucionados. A veracidade disso é tão evidente que dispensa maiores explicações. É preciso compreender, no entanto, que a doença não se restringe apenas à condição física; as enfermidades mentais representam o maior problema que o mundo contemporâneo enfrenta.
-
-Tomemos a guerra como exemplo. É evidente que a natureza daquele que a instaura é o completo oposto daquele que busca impedi-la. O promotor do conflito também difere, fundamentalmente, do povo que é arrastado para ele. Em suma, o pior de todos é o indivíduo de grande poder que decide iniciar uma guerra. Se expusermos a verdadeira motivação de tais figuras, encontraremos o seguinte: seu desejo é tão intenso que não se contentam com o sucesso moderado que satisfaria uma pessoa comum. Por possuírem grande habilidade e autoconfiança, tornam-se intolerantes e desenvolvem uma ambição desmedida. Como se pode observar pelos feitos de heróis e grandes personagens da história, eles obtêm êxito por um tempo, mas, sem exceção, seu fim é o fracasso.
-
-Assim, por um lado, eles se empenham em concretizar suas ambições; por outro, sacrificam inúmeras pessoas, agindo com uma crueldade atroz. Uma pessoa comum provavelmente tremeria diante da gravidade de seus próprios pecados ao ceifar tantas vidas e gerar um sem-número de infelizes. Eles, contudo, permanecem indiferentes. Isso ocorre porque, por mais heroicos que pareçam, possuem defeitos mentais; são, de certa forma, psicopatas. Da mesma maneira, uma pessoa desprovida de amor e compaixão, que persiste em um egoísmo absoluto, importando-se apenas consigo mesma e ignorando o destino alheio, também possui alguma deficiência mental.
-
-Um fato interessante que aprendi ao longo de muitos anos de experiência é que aqueles com defeitos mentais invariavelmente também possuem defeitos físicos. Contudo, encontramos alguns heróis ou vilões que são fisicamente muito saudáveis. Isso se deve ao fato de possuírem uma grande quantidade de toxinas, as quais, no entanto, se encontram firmemente solidificadas em seus corpos.
-
-Pelo exposto, depreende-se que, seja por meio da religião, da ciência, da filosofia ou da educação, qualquer método seria válido se pudesse de fato eliminar a doença do ser humano. Todavia, no que tange ao poder de verdadeiramente curar as enfermidades, não existe absolutamente nenhum outro senão a Luz Espiritual de Su (○ヽ), que possuo em meu ser.
-
----
-
-# A Gênese das Bactérias
-
-**Categoria:** English | **Ano:** - | **Fonte:** OF BACTERIA "Faith Cure for Tuberculosis," December
-**Título Original:** ORIGINATION | **Status:** Unknown
-
-## A Gênese das Bactérias
-
-Se, conforme expus no capítulo anterior, a bactéria da tuberculose se origina de forma espontânea, cumpre-nos agora inquirir onde e mediante que processo tal fenômeno ocorre. Buscarei elucidar esta questão sob uma perspectiva que harmonize a física e a psicologia teóricas, de modo a torná-la compreensível a todos. A tarefa, contudo, não é simples, pois o objeto de meu estudo é o espírito, uma dimensão invisível que, até hoje, ninguém ousou abordar como campo da ciência. A razão para tal hesitação reside, talvez, na dificuldade de fundamentar tal estudo em fatos concretos. Eu, todavia, apresento uma teoria alicerçada na realidade factual e, por conseguinte, por mais que a ciência materialista se oponha a ela, será impossível refutá-la.
-
-Para uma correta compreensão do que se segue, é imprescindível conhecer previamente a constituição fundamental do mundo. Embora a ciência contemporânea tenha alcançado notável progresso, ela ainda não logrou desvendar este domínio. Eu, em contrapartida, pretendo explicá-lo de maneira integral. Portanto, peço que, com a mente serena e atenta, o leitor se dedique à leitura destas palavras. Qualquer pessoa, ao fazê-lo, não apenas se surpreenderá com a magnitude desta descoberta, mas também despertará, inevitavelmente, para o grave erro em que incorre a medicina.
-
-Pois bem, a constituição do mundo se estrutura em três estágios: o primeiro é a dimensão do Mundo Material; o segundo, a dimensão do Mundo Aéreo; e o terceiro, a dimensão do Mundo Espiritual. A ciência, até o presente momento, reconhece apenas as duas primeiras dimensões, e é nesta omissão que reside sua falha crucial. Todo o edifício do conhecimento científico moderno foi erigido sobre a base desses dois mundos, ignorando o terceiro. Ocorre que esta terceira dimensão, desconhecida pela ciência estabelecida, é precisamente a fonte primordial do poder que rege todas as coisas e todos os fenômenos do Universo. É em virtude desse poder que tudo vem à existência, se desenvolve e prossegue em sua infinita evolução.
-
-Os cientistas, todavia, ignorantes dessa realidade, acreditam que a ciência atual detém a capacidade de solucionar todos os problemas. Essa confiança desmedida na capacidade científica é um equívoco total, que levou à negação da existência da terceira dimensão — o Mundo Espiritual — e deu origem a uma anomalia como a medicina de nossos dias. Consequentemente, como já expliquei de diversas formas, a medicina limita-se a suprimir os sintomas que se manifestam como doenças, sendo incapaz de curá-las em sua raiz. Por essa razão, a tuberculose jamais cessará de se propagar. Tendo-se desviado de seus fundamentos, quanto mais a medicina avança, mais se embrenha em um labirinto de enigmas e se apega a detalhes triviais, culminando por atribuir a origem de todas as enfermidades às bactérias. Prova disso é que a tentativa de curar uma doença A acaba por gerar as doenças B e C, o que demonstra que a enfermidade apenas se transforma. Estas são as chamadas doenças secundárias.
-
-Avancemos, agora, um passo em nossa argumentação. De que maneira podemos compreender a conexão entre o Mundo Espiritual e o ser humano? Naturalmente, o ser humano também existe em cada um dos três estágios mencionados. O corpo físico é material, e o elemento aquoso, sendo uma forma de substância aérea, também se enquadra na matéria. Contudo, o outro elemento, o espírito invisível, constitui a verdadeira essência do ser humano, e é nele que reside a origem das doenças. A medicina materialista, entretanto, considera que a doença ocorre unicamente no corpo físico e atribui sua causa integralmente a ele. Assim, a medicina sustenta o que poderíamos chamar de teoria do inimigo externo, segundo a qual a doença surge pela invasão de vírus provenientes do exterior. Nós, em contrapartida, defendemos a teoria do inimigo interno, ou a teoria da geração espontânea das bactérias, que se opõe à teoria da infecção propagada pela ciência médica. A teoria externa é de fácil aceitação por sua simplicidade mecanicista, ao passo que a interna não é tão simples de assimilar, e esta é a razão pela qual a humanidade mergulhou no absurdo equívoco que hoje presenciamos. Permitam-me explicar o processo em sua devida ordem.
-
-Surge então a questão: o que é exatamente o espírito humano? Em termos científicos, trata-se de uma substância de altíssima densidade e extrema sutileza, composta por partículas super-submicrônicas, tão infinitesimais que jamais poderiam ser vistas por qualquer meio, nem mesmo pelos avançados microscópios eletrônicos ou atômicos de hoje. Todavia, como mencionado, essas partículas constituem a essência do ser humano, sendo de uma natureza mística, sutil e profunda que transcende toda imaginação.
-
-Nesse contexto, a fonte da doença se inicia com o surgimento de máculas, ou nuvens, que se formam sobre a totalidade ou parte do espírito. Existem duas causas para a formação dessas nuvens. A primeira é a impureza decorrente dos pecados cometidos pelo ser humano; a segunda, o veneno dos medicamentos, ou yakudoku. Quanto à primeira causa, a ideia da impureza do pecado baseia-se, evidentemente, na lei de causa e efeito: atos nefastos, como afligir o próximo ou causar dano à sociedade, geram pecado, e o pecado produz impureza. Quanto ao yakudoku, trata-se de uma combinação de fatores congênitos e adquiridos, que serão explicados em outra oportunidade. Aqui, descreverei as nuvens em si.
-
-A natureza das nuvens no espírito assemelha-se à das nuvens na atmosfera; são, por assim dizer, um agregado de elementos espirituais da água. As nuvens espirituais se dividem em dois tipos: impuras e puras. As últimas não representam problema, sendo semelhantes aos cirrocúmulos ou estratos em um céu límpido. As nuvens do tipo impuro, contudo, devem, cedo ou tarde, ser dissipadas pelo vento e pela chuva, tal como ocorre em um céu nublado. Este é o processo de autopurificação da Terra enquanto esfera celeste. A doença humana é, da mesma forma, um processo de autopurificação. A medicina, porém, por desconhecer a verdadeira função da doença, interrompe esse benéfico processo. Com isso, as nuvens de impureza aumentam gradualmente sua densidade, e então, certas espécies de bactérias se originam. Elas se assemelham a uma matéria vegetal inorgânica que, com o tempo, cresce e se transforma em matéria orgânica. Essa matéria orgânica nada mais é que as sementes das bactérias. Após certo período, quando essas sementes, ou ovos, amadurecem, tornam-se adultas e adquirem individualidade, atingem um tamanho suficiente para serem, pela primeira vez, identificadas por um microscópio.
-
-Quem compreende essa lógica processual entenderá também o que são os chamados vírus. Mais especificamente, os vírus são os filhotes das bactérias, que ainda não atingiram a maturidade. Por isso, não podem ser vistos em um microscópio comum, mas certamente crescem, tornam-se adultos e se convertem em bactérias. Até mesmo a ciência atual reconhece este fato.
-
-Por estas razões, é evidente que, para curar as doenças de forma completa, não há outro método verdadeiro senão a eliminação das nuvens espirituais, que são a fonte das bactérias, conforme explicado. Sendo assim, será possível constatar que este princípio de cura integral das doenças está, de fato, muito além do padrão da ciência contemporânea.
-
-Como, então, remover as nuvens? Tendo sido instruído por Deus sobre o método concreto e, ao mesmo tempo, recebido o poder para executá-lo, venho hoje produzindo resultados notáveis, como se pode ver no apêndice deste livro. Até aqui, abordei a doença avançando até sua base patológica. Eu gostaria de aprofundar ainda mais a explicação, mas, se o fizesse, poderia adentrar o campo da religião, e a explanação se tornaria de difícil aceitação para o público em geral. Portanto, tentarei aqui oferecer uma explicação que seja, na medida do possível, cientificamente compreensível.
-
-Vejamos como as nuvens são dissipadas. No momento em que um praticante deste método (Johrei) estende a mão sobre a parte enferma de um paciente, uma espécie de onda de luz é irradiada da palma de sua mão. Mas o que é essa onda de luz? Em termos simples, é o espírito do Sol, ao qual denominei Elemento Espiritual do Fogo. Isso se deve ao fato de que a essência da substância aérea é o espírito da água, ou o Elemento Espiritual da Água, enquanto a essência da substância espiritual é o Elemento Espiritual do Fogo. Naturalmente, o Elemento Espiritual do Fogo é uma forma de fogo, mas aquilo que o ser humano pode ver com os olhos e sentir como calor é o elemento físico, o corpo do espírito do fogo. O Elemento Espiritual do Fogo, ao qual me refiro, é o espírito do fogo. Quando este espírito do fogo é irradiado sobre as nuvens do espírito humano, apenas os elementos impuros das nuvens são incinerados. Os elementos resultantes, reduzidos a cinzas, são expelidos do corpo como substâncias excretórias. Por outro lado, os elementos puros das nuvens se misturam ao soro, e nesse momento, as nuvens — ou seja, a fonte da doença — são dissipadas.
-
-Mas por que, ao se tornar um fiel de nossa fé, a pessoa se torna capaz de emanar o Elemento Espiritual do Fogo com tal poder de cura? Isso se deve à onda de luz que é irradiada da medalha (chamada Ohikari, que significa luz) que o fiel usa ao redor do pescoço. Esta medalha contém um ou mais caracteres caligrafados por mim e existe em três tipos: "Luz", "Luz Intensa" e "Grande Luz Intensa". O Espírito Divino do Senhor Deus (Jeová) é transmitido para a medalha usando meu corpo espiritual como um centro de retransmissão e é irradiado a partir dela através da palma da mão do fiel.
-
-Sei que, mesmo ouvindo esta explicação, não é possível acreditar nela de imediato. Ao contrário, alguns podem até sentir certa antipatia. Podem considerá-la um estelionato ultrajante, pensando que tamanha absurdidade não pode existir no mundo, o que não me parece uma reação desarrazoada. Afinal, desde o início da história registrada, nunca houve precedentes de um fenômeno tão metafísico. Contudo, um fato é inegavelmente um fato, e cem argumentos não se comparam a uma única evidência. Em suma, chegou finalmente o tempo determinado pelos Céus, e Deus me confiou a grande missão da salvação da humanidade. A revolução da medicina é o primeiro passo para essa salvação. Portanto, se compreenderem este ponto, verão que não há nada de estranho no que estou realizando atualmente.
-
-Como se pode notar, a explanação neste capítulo soa bastante mística, mas não se trata de misticismo. Na realidade, é ciência em sua forma mais pura. Se, ao ler estas palavras, o leitor as considera misteriosas, é porque o nível da ciência contemporânea ainda é muito baixo. É natural, portanto, que no futuro, quando a ciência avançar a um patamar muito mais elevado, minha teoria será facilmente compreendida por todos. Somente então um ponto de convergência entre a ciência e a religião será encontrado, e a verdadeira civilização nascerá.
-
-Hoje, a todo momento, diz-se que o objetivo final da ciência reside na busca da verdade. Do meu ponto de vista, porém, a verdade já foi descoberta, e sua descrição se encontra neste livro. Pode ser ainda difícil acreditar no que expliquei até agora, mas, em primeiro lugar, o que é a verdade? De forma sucinta, a verdade é a própria realidade. Por exemplo, o fato de o Sol nascer no leste e de o ser humano nascer e morrer são realidades e, portanto, verdades. Sendo assim, a teoria que exponho, por mais mística que pareça, não é um ideal nem um disparate, mas a própria realidade.
-
-Ainda haveria muito mais a dizer, mas, para não nos afastarmos gradualmente da questão central da tuberculose, darei o assunto por encerrado neste ponto.
-
----
-
-# A Verdade Sobre a Doença e a Cura
-
-**Categoria:** English | **Ano:** - | **Fonte:** IS DISEASE? " To Help American People Suffering from Disease, " p.
-**Título Original:** WHAT | **Status:** Unknown
-
-## A Verdade Sobre a Doença e a Cura
-
-Conforme exposto na introdução, proponho-me a elucidar, a partir de seus fundamentos, a razão pela qual a incidência de enfermidades tem aumentado nos Estados Unidos. Causa espanto, mas o fato é que a própria terapêutica médica é a geradora das doenças, sendo os medicamentos o seu principal agente. Em outras palavras, o método concebido para curar e reduzir o número de doentes atua, paradoxalmente, impedindo a cura e multiplicando as enfermidades e os enfermos, o que configura um engano de proporções inimagináveis. Trata-se de uma verdade tão evidente que dispensaria explicações; contudo, por não ser minimamente percebida, pode ser considerada o grande enigma do século XX.
-
-Longe de se darem conta disso, as pessoas depositam cada vez mais fé na medicina, acreditando firmemente que o avanço científico erradicará as doenças. Qual seria, então, a origem de tão incompreensível ilusão? Ela reside no fato de que o pensamento médico é invertido, interpretando a doença como um fenômeno nefasto. A seguir, procurarei oferecer uma explanação aprofundada sobre essa questão.
-
-Originalmente, todo ser humano, sem exceção, possui toxinas congênitas e adquiridas. As congênitas são, obviamente, herdadas dos pais, enquanto as adquiridas provêm das toxinas dos medicamentos que ingerimos desde o nascimento. Esta afirmação certamente surpreenderá a muitos, pois o senso comum estabeleceu a premissa de que os remédios curam as doenças e promovem a saúde. Acredita-se que, se medicamentos eficazes forem desenvolvidos, todas as enfermidades serão resolvidas; este é o pilar do tratamento médico. Os Estados Unidos, em particular, conferem máxima importância aos fármacos e, como todos sabem, empreendem esforços colossais na descoberta de novas drogas. Portanto, se os medicamentos de fato tivessem o poder de curar, as doenças deveriam diminuir gradualmente. Todavia, a realidade demonstra o oposto: elas aumentam cada vez mais. Qual a razão para tal fenômeno? Nada poderia ser mais ilógico.
-
-Na verdade, não existe na face da Terra algo como um “remédio”. Tudo o que assim se denomina é, sem exceção, veneno, e sua eficácia reside precisamente em sua toxicidade. O que quero dizer é que o assim chamado remédio parece curar a enfermidade porque sua ação tóxica suprime os sintomas; contudo, a doença em si não é de modo algum curada.
-
-Mas por que os medicamentos são venenos? Porque o Criador, ao criar a humanidade, proveu-lhe simultaneamente o alimento, que é a única substância que o ser humano deve ingerir para sustentar sua vida. Ademais, entre os alimentos, há aqueles que nos são destinados e os que não são, uma distinção autoevidente. Ou seja, os alimentos que devemos consumir possuem sabor, e a nós foi concedido o paladar. Assim, ao desfrutarmos prazerosamente daquilo que desejamos comer, obtemos toda a nutrição necessária. Apenas esta reflexão já deveria bastar para compreendermos a perfeição da obra do Criador. Nesse sentido, não comemos para viver, mas vivemos ao comer. Ocorre o mesmo com a reprodução: homens e mulheres não se unem com o propósito de gerar filhos, mas são abençoados com eles como uma consequência de um ato de amor com outra finalidade. Eis um grande mistério.
-
-Conforme mencionado, as funções internas do corpo humano são concebidas de tal forma que não conseguem processar completamente substâncias estranhas, ou seja, tudo aquilo que não foi designado como alimento. Sendo o medicamento uma matéria estranha, quando ingerido, apenas seu componente nutritivo é assimilado, enquanto o restante permanece no organismo. Este resíduo é a toxina medicamentosa. O mais grave, contudo, é que essa toxina se acumula em partes específicas do corpo e, com o passar do tempo, solidifica-se. Os locais de acúmulo restringem-se às áreas de maior concentração e atividade nervosa. Naturalmente, essas áreas situam-se na metade superior do corpo, especialmente da nuca para cima, abrangendo principalmente o cérebro, os olhos, os ouvidos, o nariz e a boca. As substâncias tóxicas convergem para essas regiões, solidificando-se primeiramente ao redor do pescoço. Qualquer pessoa, sem exceção, apresentará pontos de solidificação no pescoço ou nos ombros. É o que se conhece como enrijecimento.
-
-Quando esse enrijecimento atinge um certo grau, inicia-se o processo de eliminação natural, isto é, a Ação Purificadora. Nesse momento, as toxinas solidificadas são dissolvidas pela febre, liquefazem-se e são expelidas sob a forma de tosse, catarro, coriza, suor, diarreia, urina quente, entre outras manifestações. A este processo damos o nome de resfriado.
-
-Portanto, o resfriado é o mecanismo de eliminação de toxinas. Se a pessoa, embora sentindo um leve desconforto, tiver paciência e se entregar à natureza, as toxinas serão devidamente expelidas, o interior do corpo será purificado e a saúde, restaurada. É um processo excelente. O resfriado é uma atividade fisiológica muito simples, uma dádiva da Providência Divina pela qual deveríamos ser imensamente gratos. No entanto, o ser humano, por desconhecer essa verdade, interpretou o sofrimento da purificação como um sintoma nefasto e concebeu a medicina para suprimi-lo. Fica claro, assim, o quão equivocado é esse pensamento.
-
-Essa Ação Purificadora, aliás, ocorre com maior frequência quanto mais vitalidade o corpo possui. A forma mais eficaz de interrompê-la, portanto, é debilitar essa força vital. Foi com esse intuito que se passou a utilizar o veneno denominado medicamento. Desde a antiguidade, extraindo substâncias de raízes, cascas de árvores, minerais e órgãos de animais, o homem as ferveu, pulverizou ou concentrou para criar remédios em diversas formas — líquidos, pílulas, pomadas, injeções —, todos aplicados com o objetivo de paralisar o processo purificador. Como uma toxicidade muito alta seria fatal, sua potência é atenuada, e a substância é administrada em pequenas doses. Por essa razão, fixou-se uma posologia, como “três vezes ao dia”. Consequentemente, um remédio “eficaz” nada mais é do que um veneno cuja toxicidade foi elevada ao limite máximo que não produza sintomas de envenenamento agudo.
-
-Dessa forma, utilizando a toxina medicamentosa, o homem tem solidificado as impurezas que deveriam ser dissolvidas e eliminadas. Eis por que o ser humano de hoje é tão intoxicado e suscetível a doenças; eis por que se fala tão insistentemente em higiene preventiva e se teme tanto um simples resfriado.
-
-As pessoas também se alegram com o aumento da expectativa de vida para pouco mais de sessenta anos, mas isso também é um grande equívoco. A verdade é que, sem doenças, o ser humano poderia facilmente ultrapassar os cem anos. A morte antes dessa idade é uma morte antinatural, causada por uma enfermidade. Se não houvesse doenças, as pessoas morreriam de causas naturais e, consequentemente, viveriam muito mais.
-
-Como se vê, a medicina não cura as doenças; é apenas um meio para aliviar temporariamente o sofrimento. Para esse fim, o repouso absoluto, as compressas, as pomadas, as aplicações de gelo, a eletroterapia, a fototerapia e todos os outros tratamentos não passam de métodos de solidificação. A moxabustão e a termoterapia são um pouco diferentes: utilizam estímulos térmicos localizados para atrair as toxinas para aquele ponto, o que proporciona alívio. Contudo, passado algum tempo, a condição original retorna, sem que nada tenha sido resolvido. Há ainda a radioterapia, que destrói o câncer com raios de rádio. Se destruísse apenas o câncer, seria ótimo, mas, na verdade, ela também aniquila os tecidos sadios do corpo. No balanço final, os prejuízos superam os benefícios.
-
-Como observado, toda e qualquer terapêutica existente até hoje tem sido, invariavelmente, um método de solidificação. O único método de cura verdadeiro consiste em dissolver as toxinas e expeli-las do corpo, e não há outro. A prova disso é que os próprios médicos não dizem “curar”, mas sim “solidificar”.
-
-Ademais, o mais eficaz de todos os métodos de solidificação é o medicamento, e é justamente ele que cria a fonte da doença. É natural, portanto, que quanto mais tratamentos uma pessoa recebe, mais facilmente surgem complicações e piora o seu estado, culminando, por fim, em risco de vida. A esse respeito, os seguintes fatos são bastante sugestivos. É comum ouvir dos próprios médicos que o paciente mais propenso a agravar seu quadro é aquele que se mostra ansioso pela cura e utiliza remédios caros, enquanto aquele que se mantém indiferente ao curso da doença tende a melhorar. Também se ouve com frequência que as pessoas mais cuidadosas com a higiene são as mais frágeis, e as mais displicentes, as mais saudáveis. Familiares de médicos e enfermeiros que trabalham em hospitais também tendem a ser enfermos.
-
-É interessante notar o que dizem as pessoas de saúde excepcional ou os anciãos longevos: “Como nunca adoeci, jamais precisei de médicos ou de remédios”. Sob a nossa ótica, a lógica se inverte: é justamente por nunca terem recorrido a eles que são saudáveis e, por serem saudáveis, não necessitam deles. Este é um raciocínio que merece profunda reflexão.
-
----
-
-# A Unidade entre Deus e o Homem
-
-**Categoria:** English | **Ano:** - | **Fonte:** BETWEEN GOD AND MAN Eikoh , No.
-**Título Original:** ONENESS | **Status:** Unknown
-
-## A Unidade entre Deus e o Homem
-
-A expressão “unidade entre Deus e o homem” é mencionada com frequência desde a Antiguidade; contudo, creio que, na realidade, jamais existiu alguém que a personificasse. Com efeito, os três grandes homens santos — Buda Shakyamuni, Cristo e Maomé — podem parecer exemplos dessa unidade, porém, na verdade, foram transmissores da Vontade Divina; em termos mais simples, atuaram como intermediários de Deus.
-
-Por essa razão, a humanidade não soube distinguir a unidade entre Deus e o homem da mera intermediação divina. O intermediário, por sua vez, age sob inspiração ou por ordem de Deus e, portanto, está sempre a orar a Deus ou a Buda, suplicando-lhes proteção.
-
-Eu, todavia, não pratico absolutamente nada semelhante. Como sabem os fiéis, não oro a Deus nem busco Suas orientações. Basta que eu ponha em prática meus próprios pensamentos, o que torna tudo extremamente simples. Sendo esta uma condição sem precedentes, talvez possa parecer estranha. Por isso, explicarei aqui apenas os pontos que não acarretam problemas.
-
-Conforme sempre digo, possuo em meu abdômen uma esfera de luz. Trata-se da alma de um Ser Supremo e, por conseguinte, em tudo o que digo e faço, é o próprio Deus que me movimenta com absoluta liberdade. Em outras palavras, não existe distinção entre Deus e o homem, e nisto consiste a verdadeira unidade entre Deus e o homem.
-
-O espírito divino que habita em mim possui a mais elevada hierarquia espiritual. Assim sendo, não existe no mundo uma divindade superior a esta e, portanto, não há motivo para que eu reverencie outros deuses. A prova irrefutável disso são os milagres que os fiéis manifestam diariamente. Tais milagres, que superam os realizados por Cristo, ocorrem continuamente, de modo que nem mesmo meus discípulos são, em aspecto algum, inferiores a ele. Apenas por este fato, já se pode inferir qual é a essência da minha divindade.
-
-Há mais um ponto que devo esclarecer. Até hoje, todos os grandes mestres religiosos profetizaram a vinda de um mundo paradisíaco, mas nenhum deles afirmou que o construiria com as próprias mãos. Isso se deve ao fato de sua hierarquia espiritual ser inferior e, consequentemente, seu poder, insuficiente. Eu, por minha vez, declaro que construirei, eu mesmo, um Paraíso Terrestre isento de doença, pobreza e conflito, precisamente pelos motivos já expostos.
-
-Nesse sentido, de agora em diante, levarei a cabo inúmeros e surpreendentes projetos divinos, nunca antes vistos, os quais desejo que os senhores observem atentamente. Acontecimentos que transcendem a capacidade humana surgirão incessantemente.
-
----
-
-# A Raiz dos Males Sociais
-
-**Categoria:** English | **Ano:** - | **Fonte:** ROOT OF SOCIAL EVILS Hikari, No.
-**Título Original:** THE | **Status:** Unknown
-
-## A Raiz dos Males Sociais
-
-Analisemos o mal social, que representa hoje a maior aflição do Japão. Antes, porém, é necessário examinar a estratégia adotada por governantes e autoridades. Eles tentam coibir as atividades ilegais tornando as leis e regulamentações cada vez mais rigorosas. Naturalmente, tal abordagem jamais alcança a raiz do problema, de modo que os malfeitores se dedicam a encontrar maneiras de contornar habilmente a legislação, buscando brechas na malha legal para, assim que as encontram, romper suas barreiras. Em resposta, as autoridades procuram tornar essa malha legal ainda mais cerrada, a fim de não lhes dar oportunidade. Assiste-se, com efeito, a um verdadeiro duelo de inteligência entre o bem e o mal.
-
-Contudo, quando se pensa naqueles que ludibriam a lei, a mente costuma associá-los a ex-condenados, chefes de quadrilha ou delinquentes. A realidade, todavia, é que esses indivíduos de baixa estirpe representam apenas a ponta do iceberg. Pode-se afirmar que, desde ministros de Estado a políticos, parlamentares, burocratas e personalidades do mundo dos negócios, quase ninguém está isento de culpa. Os que vêm à tona como criminosos são apenas uma pequena parcela, a ponto de a opinião pública frequentemente considerar os detidos como meros "azarados", o que revela a existência de inúmeros delitos que permanecem ocultos.
-
-Quando examinamos a fundo a índole desses criminosos, uma verdade se torna clara: eles não temem o crime; não sentem o peso na consciência ao prejudicar a nação, contaminar a sociedade ou afligir o próximo; sabem culpar os outros, mas desconhecem a autocrítica. É comum ouvirmos que, enquanto o cidadão comum é esmagado pelo fardo dos impostos, muitos funcionários públicos se entregam a festins e extravagâncias.
-
-O ser humano que não se perturba com suas próprias transgressões, que não se envergonha de seus atos impuros ou que, ao fazer o próximo sofrer, não sente compaixão, já perdeu o seu valor como tal. Por mais elevadas que sejam as teorias que defendam e por mais vasto que seja o saber de que se orgulhem, nada disso é suficiente para que mereçam o nome de seres humanos. São, na verdade, seres materiais com forma humana, mas desprovidos de alma. A proliferação de pessoas assim em nossos dias é a causa da difusão dos males sociais e da manifestação de uma sociedade infernal. Em suma, pode-se dizer que toda a sociedade japonesa padece de uma grave enfermidade.
-
-Qual seria, então, a causa de fenômenos tão deploráveis? Não resta a menor sombra de dúvida de que ela reside na educação materialista, que temos consistentemente questionado. Por essa mesma razão, o método para exterminar os males sociais não é particularmente complexo: basta uma única coisa, e nada mais — destruir o pensamento materialista.
-
-E qual seria o caminho para isso? Evidentemente, a educação espiritualista. Em outras palavras, consiste em levar as pessoas a crer em Deus, a acreditar nos espíritos e na existência do Mundo Espiritual. Esta é a missão primordial e inestimável da religião.
-
-Todavia, por mais que se advoguem com fervor teorias religiosas, que se preguem sermões ou se entoem preces, apenas com isso é impossível fazer com que as pessoas reconheçam a existência de Deus e dos seres espirituais. É absolutamente necessário manifestar milagres de forma vívida e proporcionar benefícios notáveis, tanto no campo espiritual quanto no material, neste mundo e no próximo. Fora desse caminho, não existe, em absoluto, nenhum outro meio de destruir o materialismo.
-
----
-
-# Acerca do Ateísmo
-
-**Categoria:** English | **Ano:** - | **Fonte:** ATHEISM Eikoh, No.
-**Título Original:** ON | **Status:** Unknown
-
-## Acerca do Ateísmo
-
-Geralmente, ao se discorrer sobre o ateísmo, é praxe que a argumentação se desenvolva a partir de uma perspectiva religiosa. Eu, contudo, tentarei abordar este tema colocando-me na posição de um ateu, sem fazer qualquer menção à religião.
-
-Para começar, tão logo um ser humano vem ao mundo em seu primeiro choro, um sublime líquido, o leite, jorra-lhe incessantemente do corpo de sua mãe, provendo o sustento necessário para o seu crescimento. Graças a esse alimento materno, a criança se desenvolve de maneira saudável e, por volta da época em que seus dentes despontam, os pais já lhe oferecem alimentos para mastigar. Dessa forma, ela cresce gradualmente até se tornar um adulto. Embora seja um processo evidente, vale ressaltar, no que tange à alimentação – de importância primordial –, que cada alimento possui um sabor distinto e a língua, por sua vez, dispõe de nervos gustativos, permitindo que o ser humano obtenha as calorias necessárias simplesmente ao se nutrir com prazer. Com efeito, por mais que se diga, o maior deleite para o homem será sempre o ato de comer.
-
-Assim, o corpo se desenvolve gradualmente e, por meio da educação escolar ou de outras vias, o cérebro também amadurece, até que o indivíduo se torna apto a trabalhar como adulto. Atingido esse estágio, brotam de seu interior os mais diversos anseios: o desejo por conhecimento superior, o sentimento de superioridade, a ânsia pela vitória em competições e a busca por ser mais progressista que os demais. Simultaneamente, do ponto de vista físico, emergem os anseios por prazeres hedonistas, incluindo o amor. Nesse sentido, razão e emoção se entrelaçam, alegrias e tristezas se alternam, qualificando-o como uma criatura superior que, então, passa a trilhar seu caminho pelo mundo.
-
-Até aqui, descrevi em linhas gerais o percurso de um ser humano desde o nascimento até a maturidade. Contemplemos, agora, a Grande Natureza.
-
-Entre o céu e a terra, encontramos, desnecessário dizer, o Sol, a Lua e as estrelas; não apenas os fenômenos naturais visíveis e invisíveis, como o calor e o frio do clima, a chuva e o vento, mas também os animais, as plantas, os minerais e tudo o mais que se conecta intimamente à vida humana, sendo tudo gerado e nutrido em virtude da Natureza. Esta é a realidade do mundo tal como ela é. Se observarmos tudo isso com a mente isenta e de modo imparcial, a menos que sejamos pessoas insensíveis, seremos tomados por um sentimento de assombro e nos faltarão palavras para descrevê-lo. Na verdade, tudo, absolutamente tudo, se resume a uma expressão: "insondável e miraculoso". Sendo assim, ninguém poderia se furtar a indagar: Afinal, por quem foi criado este mundo maravilhoso? Por que e com que propósito?
-
-E quando contemplamos o céu, eterno e infinito, não temos a menor ideia de sua vastidão ou de até onde se estende. Como é o centro da Terra? Qual a temperatura máxima do Sol? Quão fria é a Lua? Quantas estrelas existem? Qual o peso da Terra? Qual o volume total das águas do mar? A lista de indagações é infindável. Quanto mais refletimos, mais místico, miraculoso e indescritível tudo se revela.
-
-Ademais, os movimentos perfeitamente sistemáticos dos corpos celestes, a distinção entre dia e noite, a alternância das estações, o número 365 de um ano, a evolução de todas as coisas e o avanço ilimitado da civilização... tudo isso é, por certo, objeto de assombro e questionamento, mas a história não termina aí. Quando este mundo inteiro veio a existir? Até quando continuará a existir? É eterno e infinito, ou não? Qual o limite para o crescimento da população mundial? Qual o futuro da Terra? E assim por diante: tudo, absolutamente tudo, é um mistério do qual não temos a menor noção.
-
-Dessa forma, tudo está em constante e silenciosa transformação, sob um padrão regular, sem o desvio de um milímetro ou o atraso de um instante. Deixando, porém, esses aspectos de lado por um momento, deparamo-nos com outras ordens de questionamentos. "Com que propósito eu nasci e o que devo fazer?" "Quanto tempo viverei? Deixarei de existir por completo quando morrer? Ou irei para um mundo desconhecido, chamado Mundo Espiritual, e lá viverei em paz?" No que concerne a essas perguntas, quanto mais pensamos, menos compreendemos; nenhuma delas está ao alcance do nosso entendimento. Como dizem os budistas, a realidade é o vazio, e o vazio é a realidade. A vastidão ilimitada do céu e da terra, um ser eterno e infinito... não encontramos outras palavras adequadas para descrevê-lo.
-
-Para desvendar esses mistérios, os seres humanos inventaram ferramentas, especialmente a ciência, e se dedicam à sua investigação, mas até hoje conheceram apenas uma ínfima fração da verdade; os mistérios permanecem tão enigmáticos quanto sempre foram. Disso decorre que o conhecimento humano acerca da Natureza mal equivale a uma gota no oceano. Esse fato também aponta para o que um budista chamaria de "vaidade das vaidades". No entanto, os seres humanos são tão repletos de presunção que bradam ser capazes de conquistar a natureza, o que nada mais demonstra do que sua arrogância desmedida e completa insensatez. Portanto, a mais sábia forma de pensar consiste, antes de tudo, em conhecer a essência do ser humano, seguir o fluxo da Grande Natureza e compartilhar de Seus benefícios.
-
-Contudo, em meio a este mundo repleto de enigmas, conforme expliquei, há uma única coisa que é muito clara e evidente. Permitam-me expor qual é. Eu lhes pergunto: quem foi que criou um mundo tão assombroso, e quem o controla e utiliza à Sua vontade? Imaginem apenas quem seria, e logo compreenderão que, assim como existe um chefe de família, um rei ou um presidente em um país, deve haver também uma figura central neste grandioso mundo. E essa figura central não é outra senão o "X" a quem chamamos pelo nome de Deus. Porventura se pode chegar a outra conclusão que não esta?
-
-Nessa perspectiva, se Deus não existisse, todas as coisas tampouco existiriam, nem mesmo os próprios ateus. Nada poderia ser mais evidente. Uma pessoa incapaz de acompanhar tal lógica não passaria de um animal. Isso porque os animais não possuem pensamentos, intenções ou inteligência, e não nos resta outra forma de descrever tal pessoa senão como um animal em forma humana.
-
-Há uma prova cabal disso: os criminosos que cometeram seus delitos em razão de seu ateísmo. O que quero dizer se tornará inteligível quando observarem que seus comportamentos e sua psicologia são, em sua maioria, brutais. Esta é a razão precípua pela qual minha missão consiste em remover a animalidade de tais pessoas embrutecidas e elevá-las radicalmente à condição de verdadeiros seres humanos. A condição fundamental para tanto é a demolição do pensamento ateu; em suma, empreender a transformação do ser humano.
-
----
-
-# A Religião é o Milagre
-
-**Categoria:** English | **Ano:** - | **Fonte:** IS A MIRACLE Hikari , No.
-**Título Original:** RELIGION | **Status:** Unknown
-
-## A Religião é o Milagre
-
-A indissociável relação entre religião e milagre é um fato manifesto, atestado por inúmeros documentos históricos. Com efeito, uma religião desprovida de milagres já não pode ser considerada como tal, pois o milagre é uma criação de Deus, e nem mesmo um único deles pode ser realizado pelo poder humano. Por conseguinte, uma doutrina que não apresente milagres carece de valor existencial enquanto religião; por mais que suas formalidades pareçam religiosas, ela terá perdido toda a sua significância espiritual.
-
-Nesse sentido, é natural que, quanto mais grandiosa for uma religião, mais milagres ela manifeste. O milagre, em outras palavras, é o surgimento de um benefício inesperado, capaz de fazer brotar do fundo do coração a fé em Deus, conduzindo à conversão e à salvação da infelicidade. O que mais, senão isso, poderia ser a verdadeira religião? É desnecessário reiterar, mas cem teorias não se comparam ao valor de um único fato.
-
-A atual conjuntura do Japão, embora seja um resultado da derrota na guerra, apresenta um quadro desolador. Além do súbito aumento dos males sociais, é causa da mais profunda apreensão constatar que a jovem geração, sobre cujos ombros repousa o futuro da nação, foi contaminada por ideologias nocivas e mergulhou em um estado de desesperadora confusão. Ao investigarmos a origem desse problema, constatamos ser ele o fruto de uma educação que reverencia o materialismo como seu único pilar. Enquanto não despertarmos para essa falácia, será absolutamente impossível encontrar uma solução.
-
-Sendo assim, o que deve ser feito para demolir as bases do materialismo? Evidentemente, é preciso que as pessoas despertem para a consciência religiosa. Para que isso ocorra, é fundamental levá-las a reconhecer a existência de Deus, que é, em essência, invisível, tal como constantemente preconizamos. O único método para alcançar tal fim é, precisamente, o milagre. O milagre torna possível aquilo que o engenho humano julgava impossível; quando fatos absolutamente inexplicáveis pelas teorias científicas são apresentados diante dos olhos das pessoas, é natural que toda e qualquer dúvida se dissipe instantaneamente, como fumaça ao vento.
-
-Diante do exposto, podemos afirmar, como no título deste ensinamento, que “A religião é o milagre, e o milagre é a religião”. Portanto, sem levar as pessoas a reconhecer a existência de Deus por meio dos milagres e, assim, cultivar o pensamento espiritualista, não será possível obter os resultados almejados na construção de um Japão pacífico e na erradicação dos males sociais.
-
-Na história da humanidade, provavelmente jamais se ouviu falar de uma religião que tenha manifestado tantos milagres quanto a nossa. Nesse sentido, neste momento em que adentramos o grande ponto de inflexão da história mundial, o propósito de nossa religião é despertar as almas adormecidas por meio do sopro dos milagres, em um mundo que perdeu sua essência espiritual.
-
-O Deus Onipotente, por intermédio de Kanzeon Bosatsu (観世音菩薩) — também conhecida como Kōmyō Nyorai (光明如来) —, emprega Sua força vital, livre e desimpedida, para manifestar milagres em profusão e, tendo nossa religião como Seu instrumento, realiza a magna obra da salvação do mundo.
-
----
-
-# A Hierarquia do Mundo Espiritual
-
-**Categoria:** English | **Ano:** - | **Fonte:** HIERARCHY OF  SPIRITUAL WORLD Tidings of Great Joy from Heaven , February
-**Título Original:** THE | **Status:** Unknown
-
-## A Hierarquia do Mundo Espiritual
-
-Conforme já expus anteriormente, o Mundo Espiritual possui uma estrutura hierárquica composta por três grandes domínios: o Céu, o Inferno e Yachimata (八衢) — o domínio intermediário entre ambos. Explicarei agora a íntima conexão que essa organização sagrada mantém com o destino humano. Ao subdividirmos esses três domínios, constatamos que cada um se desdobra em sessenta níveis, totalizando cento e oitenta estágios. A essa estrutura denomino Hierarquia do Mundo Espiritual.
-
-O ser humano nasce neste mundo por uma ordem de Deus. O fato de o ideograma para “ordem” (命) ser o mesmo utilizado em “vida” (生命) elucida esta verdade. “Por que nasci?” — eis a indagação universal. Sem compreender genuinamente esta questão, o homem não apenas se vê incapaz de agir com retidão e de alcançar a paz de espírito, como também corre o risco de findar seus dias em uma existência fútil e vazia. Qual seria, então, o desígnio de Deus? Consiste em transformar este plano terreno em um mundo ideal; em outras palavras, edificar o Céu na Terra. A magnitude e o esplendor de tal projeto transcendem a imaginação, pois a civilização, em seu progresso ilimitado, não conhece fim. Sob esta perspectiva, toda a história da humanidade até o presente momento não passou de uma etapa de construção das estruturas fundamentais.
-
-Nesse sentido, Deus confere a cada indivíduo uma missão particular e características próprias, impulsionando os seres humanos, através de sucessivas mortes e renascimentos, em direção ao objetivo ideal. Compreendemos, portanto, que o bem e o mal, a paz e a guerra, a destruição e a criação, não são mais do que etapas indispensáveis ao processo evolutivo.
-
-E que momento histórico atravessamos agora? Conforme detalhei em outra ocasião, encontramo-nos no ponto de transição da Era da Noite para a Era do Dia, um postulado que venho defendendo. O mundo inteiro está prestes a dar um grande salto rumo a uma nova era, e a humanidade, ao despojar-se de seus trajes de selvageria, ascende a um estágio de elevada cultura. Será a primeira vez que as guerras, as doenças e a pobreza chegarão ao seu fim. Naturalmente, o surgimento do Johrei é um precursor e constitui o núcleo desse grandioso advento.
-
-Como mencionado, Deus está constantemente a emanar Suas ordens aos seres humanos. Mas por qual meio Ele o faz? Para cada indivíduo, existe uma semente na Hierarquia do Mundo Espiritual, à qual denomino Alma Primordial. Primeiramente, a ordem divina é transmitida a essa Alma Primordial. Em seguida, ela retransmite o desígnio de Deus, através de um elo espiritual, à alma que habita o centro do corpo espiritual do ser humano encarnado. Todavia, para uma pessoa comum, intuir diretamente as ordens de Deus é uma tarefa de extrema dificuldade; tal percepção só é possível àqueles que possuem um corpo espiritual purificado em certo grau. Isso ocorre porque a grande maioria das pessoas não apenas tem sua percepção obstruída por um grande volume de máculas espirituais, como também sofre a interferência de espíritos malignos que se aproveitam dessas mesmas máculas.
-
-A prova disso reside no fato de que, por mais que se esforce, ninguém consegue fazer com que seus planos se concretizem exatamente como deseja, e o destino frequentemente toma rumos inesperados. O ser humano experimenta a sensação de ser constantemente governado por algo desconhecido ou de seguir, à mercê de uma força irresistível, os caminhos de sua sorte. Com efeito, as Almas Primordiais na Hierarquia do Mundo Espiritual possuem missões e destinos distintos, de acordo com o nível a que pertencem. Isso significa que, quanto mais elevado o estágio de uma Alma Primordial, maior e mais nobre é a missão que Deus lhe confere, e mais afortunada ela será. Em contrapartida, à medida que se desce na hierarquia, a fortuna diminui, e aqueles cuja Alma Primordial se encontra no nível mais baixo experimentam o maior dos infortúnios. As esferas superiores correspondem ao Céu, sendo um mundo de alegria, farto em recursos, isento de doenças e conflitos. Em oposição, quanto mais se desce, mais o mundo se torna repleto de enfermidades, contendas, pobreza e sofrimento.
-
-Diante do exposto, para que um ser humano alcance a felicidade genuína, é imperativo, antes de tudo, que sua Alma Primordial ascenda na Hierarquia do Mundo Espiritual. Qual seria, então, o método para tal? Consiste unicamente em purificar o corpo espiritual. Em essência, os corpos espirituais elevam-se ou decaem segundo a quantidade de suas máculas. Em outras palavras, as almas purificadas ascendem por sua leveza, enquanto as almas maculadas decaem por seu peso. Portanto, aquele que almeja purificar sua alma deve perseverar na prática de boas ações e no acúmulo de virtudes. Contudo, tal caminho exige tempo e sacrifício consideráveis. Existe, no entanto, um método pelo qual é possível saltar dezenas de níveis na Hierarquia do Mundo Espiritual de uma só vez: receber os ensinamentos desta arte sagrada, o Johrei.
-
-Aqueles que recebem os ensinamentos do Johrei relatam, de forma unânime, transformações profundas. No campo espiritual, sua visão de vida se altera por completo; a sabedoria e o discernimento espiritual se expandem, permitindo-lhes compreender a verdade das coisas; passam a enxergar uma luz em seu porvir, e as ansiedades se dissipam; tornam-se otimistas e experimentam, pela primeira vez, um sentimento de legítima segurança. No aspecto material, de maneira surpreendente, os bens materiais afluem e deixam de passar por privações; os infortúnios diminuem e a felicidade se multiplica. É algo verdadeiramente assombroso. “Fui completamente salvo”, “Sinto imensa gratidão” — são vozes de agradecimento como estas que, dia e noite, chegam em número incontável aos meus ouvidos e aos meus olhos.
-
----
-
-# A Sinceridade
-
-**Categoria:** English | **Ano:** - | **Fonte:** Shinko Zatsuwa
-**Título Original:** MAKOTO | **Status:** Unknown
-
-## A Sinceridade
-
-A chave para a solução de todos os problemas – quer sejam de âmbito mundial, nacional ou individual – reside em um único princípio: a Sinceridade. A carência que se observa na política é, em sua essência, uma carência de Sinceridade. A escassez de recursos materiais decorre, da mesma forma, de uma insuficiência de Sinceridade.
-
-A decadência dos valores morais é fruto da ausência de Sinceridade. A perturbação da ordem social, por sua vez, manifesta-se precisamente onde ela inexiste. Com efeito, a causa fundamental de todos os crimes e da corrupção que afligem nossa sociedade é a insuficiência de Sinceridade.
-
-Nesse sentido, a religião, a ciência e a arte, se não tiverem a Sinceridade como seu elemento central, não passam de invólucros desprovidos de alma.
-
-Ah, a Sinceridade! Quão fundamental é a Sinceridade! Ó humanidade, a única chave para a solução de vossos problemas reside, tão somente, na Sinceridade.
-
----
-
-# Uma Análise sobre as Cinco Classes da Inteligência
-
-**Categoria:** English | **Ano:** - | **Fonte:** CLASSES OF INTELLIGENCE (
-**Título Original:** FIVE | **Status:** Unknown
-
-## Uma Análise sobre as Cinco Classes da Inteligência
-
-Embora nos refiramos à inteligência de forma generalizada, na realidade, ela se manifesta em diversas classes. Proponho-me, agora, a classificá-las. Em ordem decrescente, temos: a inteligência divina, que é a mais elevada; seguida pela inteligência mística; a sapiência; a inteligência aparente; e, por fim, a inteligência ardilosa. A esse conjunto, denomino "as cinco classes da inteligência", sobre as quais discorrerei individualmente.
-
-A inteligência divina representa o ápice da sabedoria e não está ao alcance de pessoas comuns. Trata-se de uma faculdade concedida por Deus a indivíduos excepcionais, a quem foi confiada alguma missão de crucial importância. Um antigo adágio capta sua essência de forma sucinta: "O saber adquirido pelo estudo é a inteligência humana; o saber que independe do estudo é a inteligência divina".
-
-A inteligência mística, por sua vez, é frequentemente associada ao poder místico de Kannon (観音). Em contraste com a inteligência divina, poderíamos considerá-la a inteligência búdica. Se a inteligência divina possui uma natureza masculina, a mística pode ser vista como feminina. Nesse sentido, acho curioso que o ideograma para *myo* (妙), de *myochi*, contenha o radical de "mulher" (女).
-
-A sapiência é a inteligência manifestada pelas pessoas de grande discernimento. Nos termos budistas, corresponde à "sabedoria do despertar espiritual" ou, simplesmente, à "sabedoria". Contudo, no mundo atual, são verdadeiramente raras as pessoas capazes de exercer tal faculdade. Isso ocorre, evidentemente, porque as intenções malignas dificultam o correto discernimento da realidade.
-
-Permitam-me apresentar um exemplo. Atualmente, quer se trate de políticos ou de especialistas de qualquer área, ao se reunirem para deliberar sobre um assunto, por mais trivial que seja, necessitam de horas de debates extenuantes entre várias pessoas para chegar a uma conclusão. Quando o problema é de maior envergadura, dezenas de indivíduos se reúnem, travam discussões acaloradas e realizam inúmeros encontros ao longo de vários dias, apenas para, no fim, não chegar a lugar algum. Tudo isso demonstra o quão embotado se tornou o raciocínio.
-
-Reflitamos por um instante: para qualquer questão, existe apenas uma única conclusão correta, e não várias. O fato de que tantos intelectos e tantos dias sejam necessários para encontrá-la é, em uma palavra, lamentável.
-
-A causa de tudo isso reside na completa falta de sapiência. A falta de sapiência, por sua vez, deve-se a uma mente obscurecida. Uma mente obscurecida é consequência da existência de intenções malignas. Tais intenções nascem da adesão ao materialismo. A crença no materialismo, por seu turno, origina-se da incapacidade de reconhecer a existência real de Deus. E a razão pela qual não se reconhece a existência de Deus é a ausência de uma religião com o poder de convencer as pessoas sobre Ela. Portanto, uma religião que consiga levar as pessoas a conhecer verdadeiramente a existência de Deus é a que pode ser chamada de uma religião genuinamente viva. O simples fato de eu precisar expor essa lógica de forma tão detalhada é, por si só, uma prova do declínio intelectual do homem moderno.
-
-Nesse contexto, uma pessoa dotada de sapiência seria capaz de encontrar a solução para qualquer problema em poucos minutos, ou no máximo, em algumas dezenas de minutos. A esse respeito, oriento meus assessores a limitar qualquer discussão à busca de uma conclusão em, no máximo, trinta minutos. Se o debate se estender por mais de uma hora, a reunião deve ser suspensa e remarcada para outra data, ou então, devem vir consultar-me pessoalmente. Hesito em falar de mim mesmo, mas sou capaz de encontrar a solução para qualquer problema, por mais complexo que seja, em poucos minutos. Em raras ocasiões, quando não chego a uma conclusão imediata, não forço uma resposta; simplesmente deixo a questão em suspenso por um tempo. Invariavelmente, pouco depois, a solução me vem à mente, como uma inspiração.
-
-Em seguida, temos a inteligência aparente. Como o próprio nome sugere, e é de conhecimento geral, trata-se de uma sabedoria superficial, que se atém apenas às aparências. Embora possa gerar resultados positivos momentâneos, com o passar do tempo, ela inevitavelmente conduz ao fracasso ou à perda de credibilidade. Em outras palavras, poderíamos chamá-la de inteligência tola ou obtusa.
-
-Por último, a inteligência ardilosa, como a própria palavra indica, é a sabedoria maligna, a astúcia voltada para o mal. Esse tipo de inteligência também prevalece em nossa sociedade e, o que é mais grave, é bastante comum entre as classes intelectuais e dirigentes. Diante desse quadro, é impossível que a sociedade melhore. Consequentemente, somente quando os japoneses se livrarem de tal astúcia maligna é que uma sociedade íntegra poderá surgir e o Japão se tornará uma grande nação.
-
-Haveria, então, um meio de erradicar essa inteligência ardilosa? A resposta é simples: basta destruir por completo o solo fértil onde ela germina. E o único método para realizar tal feito é a atividade de uma religião com o poder de levar as pessoas a crer na existência de Deus.
-
----
-
-# Deus e os Budas Existem?
-
-**Categoria:** English | **Ano:** - | **Fonte:** GODS AND BUDDHAS EXIST? Tidings of Great Joy from Heaven , February
-**Título Original:** DO | **Status:** Unknown
-
-## Deus e os Budas Existem?
-
-O que me motivou a descobrir esta grandiosa arte médica foi o conhecimento que adquiri sobre a existência real dos espíritos. Em outras palavras, o princípio de que a doença física é curada pelo tratamento do espírito deve ser visto como uma indicação de magna importância para a civilização vindoura. Trata-se, de fato, de uma grande revolução científica, pois, ao aplicarmos este princípio a todas as esferas da vida, e não apenas ao tratamento de doenças, o avanço no bem-estar da humanidade será imensurável. Ademais, podemos antever que, à medida que a investigação deste princípio avançar, ela alcançará a própria essência da religião.
-
-A controvérsia sobre a existência de Deus perdura há milênios, sem que se tenha chegado a uma solução, permanecendo como uma questão ao mesmo tempo antiga e sempre nova. Como as pessoas, em geral, tendem a analisar tudo sob uma perspectiva exclusivamente materialista, é natural que não consigam reconhecer a Deus, que, por ser espírito, é fisicamente indistinguível do nada. Contudo, com base na ciência espiritual que eu preconizo, é possível não apenas conhecer a existência real de Deus, mas também solucionar os diversos problemas do mundo desconhecido, o qual também denomino segundo mundo: a questão da vida após a morte e da reencarnação, a realidade do Mundo Espiritual, os fenômenos de possessão espiritual, entre outros.
-
-Primeiramente, é necessário que eu exponha a transição de meu pensamento ao longo dos anos. Desde a juventude, fui um materialista extremado. Para ilustrar o quão arraigado era meu materialismo, basta dizer que, até por volta dos quarenta anos de idade, jamais juntei as mãos em prece a Deus ou aos Budas. Eu pensava que o objeto de culto em um santuário xintoísta não passava de uma caixa de madeira de cipreste, confeccionada por carpinteiros, dentro da qual se colocava um espelho, uma pedra ou um pedaço de papel com caracteres inscritos. Para mim, o ato de as pessoas reverenciarem com tanta solenidade tais objetos era totalmente desprovido de sentido; beirava o cúmulo do insensato.
-
-Minha visão sobre os Budas era semelhante. Considerava que as pessoas oravam diante de objetos com a forma de Kannon (観音), Amida (阿弥陀), Shakyamuni (釈迦) e outros, pintados em papel ou esculpidos em madeira, pedra ou metal por artesãos. E isso me parecia ainda mais sem sentido, pois figuras como Kannon e Amida não existiram de fato; certamente, não passavam de criações da imaginação humana. Minha teoria predileta era que tudo aquilo não passava de idolatria.
-
-Naquela época, li um ponto de vista de Rudolf Eucken, um célebre filósofo alemão, com o qual concordei inteiramente. Segundo sua teoria: "O homem possui, originalmente, um instinto que o impede de se sentir satisfeito a menos que tenha algo para adorar. Por essa razão, o próprio homem cria para si algum ídolo, adorna-o, ora a ele e se entrega à autossatisfação. A prova que sustenta minha tese é que as oferendas nos altares são dispostas de frente para os homens, e não para os deuses".
-
-Esse meu modo de pensar estendia-se à minha visão sobre as nações. Parecia-me que países como a Itália, repletos de templos antigos, estavam em declínio, enquanto nações como os Estados Unidos, com poucos templos, desenvolviam-se notavelmente. Este fato me levava a crer que santuários e templos eram obstáculos ao progresso das nações.
-
-Apesar disso, naquele tempo, eu contribuía mensalmente com uma certa quantia para o Exército de Salvação, e, por isso, seu pastor me visitava ocasionalmente e recomendava o cristianismo. Ele me perguntou: "Aqueles que contribuem para o Exército de Salvação são geralmente cristãos, mas o senhor não é. Qual o motivo de sua contribuição?". Eu respondi: "O Exército de Salvação leva ex-detentos ao arrependimento e converte pessoas más em pessoas boas. Portanto, se não fosse pelo Exército de Salvação, algum desses ex-detentos poderia ter invadido minha casa para roubar. Se o Exército de Salvação preveniu tal desgraça, não é mais do que justo que eu lhes agradeça e auxilie em suas atividades?".
-
-Houve muitas outras situações como essa. De todo modo, meu estado de espírito na época era o de querer praticar o bem, mas sem crer em Deus ou nos Budas. Assim, os senhores poderão compreender a força de minha convicção de que não se deve crer no invisível.
-
-Naquele período, eu obtinha grande sucesso nos negócios e estava no auge de minha carreira, mas, devido à deslealdade de um subordinado, sofri um fracasso retumbante. Some-se a isso o falecimento de minha primeira esposa, a falência e diversas ordens de confisco de bens. Esse destino desolador lançou-me a um profundo abismo. Em consequência, fui levado ao mesmo lugar aonde a maioria das pessoas recorre em busca de salvação: a religião. Seguindo o padrão usual, não tive outra escolha senão buscar auxílio no xintoísmo e no budismo.
-
-Foi assim que, finalmente, vim a adquirir conhecimento sobre a esfera espiritual: a realidade de Deus e dos Budas, a existência do Mundo Espiritual, a vida após a morte e assim por diante. Ao refletir sobre quem eu fora, ri de minha própria tolice. Por essa razão, após o meu despertar, minha visão da vida sofreu uma reviravolta de cento e oitenta graus. Compreendi que o ser humano recebe a proteção de Deus e dos Budas e que, "se não conhece a existência real dos espíritos, o homem não passa de uma casca vazia". Pude também constatar que, ao se ensinar a moralidade, "se não se levar o ouvinte a reconhecer a existência real dos espíritos, o ensinamento não passa de um sermão inútil".
-
-Nesse sentido, caros leitores, almejo que abram os olhos com discernimento para os fenômenos espirituais que passarei a expor.
-
----
-
-# Fragmentos de Sabedoria
-
-**Categoria:** su | **Ano:** 昭和26(1951)年7月4日 | **Fonte:** Eikou
-**Título Original:** 寸鉄活人 (栄光111号) 白光生 | **Status:** Published
-
-## Fragmentos de Sabedoria
-
-Fiquei surpreso em minha recente viagem a Kansai ao ver, em diversos pontos do caminho, grupos de fiéis reunidos para me saudar. Dizem que, em breve, o trajeto de Atami a Osaka estará tão repleto de fiéis em ambas as margens que será necessária uma escolta da polícia montada para manter a ordem. Todavia, só o tempo dirá se tal previsão se confirmará.
-
-Ademais, prevejo que em breve começarei a receber, sucessivamente, convites de chefes de Estado do mundo inteiro, rogando por minha visita. Seria uma descortesia recusá-los, portanto, disponho-me a aceitá-los. Tenho a intenção de começar pelo presidente dos Estados Unidos, mas imagino, desde já, que será uma tarefa deveras exaustiva. Atchim!
-
-Recebi a notícia de que alguns membros da Reiyukai cometeram suicídio familiar. Compreendo. Tal como o nome de sua organização sugere – “Associação dos Amigos Espirituais” –, decerto almejavam tornar-se amigos no Mundo Espiritual. Nós, contudo, valorizamos os amigos em vida.
-
-Soube que há um cientista pesquisando uma forma de voar à Lua utilizando a energia solar. Trata-se da mais inútil das empreitadas.
-
-A nação vitoriosa na guerra clama incessantemente por um tratado de paz, enquanto a nação derrotada a repele com total descaso. Que situação verdadeiramente paradoxal. Ao que parece, no mundo de hoje, até mesmo a lógica da guerra se inverteu.
-
----
-
-# Aforismos
-
-**Categoria:** su | **Ano:** 昭和24(1949)年4月8日 | **Fonte:** -
-**Título Original:** 寸鉄 (光４号) 白光生 | **Status:** Published
-
-## Aforismos
-
-O materialismo gera a guerra; o espiritualismo, a paz.
-
-Democracia liberal, democracia social, democracia feudal, democracia comunista, democracia trabalhista, democracia conjugal... Que Japão efervescente!
-
-Alimentos do mercado negro, cigarros clandestinos, transações ilícitas, novos-ricos oriundos da clandestinidade, damas da noite... Para erradicar tais males, existe unicamente a Luz.
-
-Curamos as doenças que os médicos não conseguem curar e, por isso, acusam-nos de violar a Lei da Prática Médica.
-
-O inferno da inflação, o inferno dos impostos, o inferno das demissões, o inferno do desemprego... O que virá a seguir?
-
-Dizem que o problema não é ter os pés fora do chão, mas sim a cabeça fora do pescoço.
-
-Esta economia sobre pernas de pau, que gera um crescimento oco, não é obra de médicos charlatães, mas de políticos incompetentes.
-
-Os preços no mercado despencam vertiginosamente, deixando para trás os valores oficiais. Nesse caso, o oficial torna-se clandestino, e o clandestino, oficial.
-
-Se um religioso pode infringir a Lei da Prática Médica, é igualmente possível que um médico infrinja a lei religiosa.
-
-E quem declara ser um disparate a agricultura sem fertilizantes? Ninguém menos que o presidente de uma empresa de fertilizantes.
-
-Os espíritos malignos, rejubilando-se, exclamam: "Vejam! Temos aliados que tentam aniquilar a religião que mais tememos!".
-
-O mundo é, de fato, um lugar curioso. Dizem-se mentiras, e elas se tornam verdade. Diz-se a verdade, e ela se torna mentira.
-
----
-
-# Breves Reflexões
-
-**Categoria:** su | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
-**Título Original:** 寸鉄 (救世53号) 白光生 | **Status:** Published
-
-## Breves Reflexões
-
-Causará estranheza, porventura, a afirmação de que a insensibilidade se alastrou em demasia entre os homens de hoje. Contudo, tranquilizem-se, pois me refiro a uma patologia específica: a insensibilidade para com o pecado.
-
-Aparentemente, a maioria dos indivíduos, mesmo ao praticar o mal, revela-se incapaz de um pronto arrependimento. Trata-se, em verdade, de uma enfermidade, cujo nome é paralisia da contrição.
-
-As mulheres de nossa era preocupam-se mais com a beleza das pernas do que com a do rosto. Não tardará o dia em que cobrirão a face para, em seu lugar, aplicar alvaiade às pernas e caminhar contoneando-se. Que tempos são estes?
-
-No Japão, nação de cultura avançada, a nudez tornou-se moda. Nas terras primitivas, onde a cultura não avançou, a nudez igualmente prevalece. Como explicar tal paradoxo?
-
-A bomba atômica da esposa aniquila a amante. Seria esta uma versão individual da bomba atômica? Oh, que pavor!
-
-O jornal Yomiuri empenha-se com tanto afinco em nos fazer propaganda gratuita, a ponto de macular a própria dignidade de um grande periódico, que refleti sobre como agradecer-lhe. Todavia, como o dinheiro configuraria suborno, expressarei minha gratidão por meio da palavra impressa.
-
-O Yomiuri, tendo compreendido ser impossível triunfar sobre o bem, desejaria vir apresentar suas desculpas. Contudo, por estar em jogo a honra de um grande periódico, tal ato não se concretiza, e o jornal encontra-se, no momento, em meio a um grande dilema. Assim nos informa uma comunicação vinda do Mundo Espiritual.
-
-Em decorrência de um artigo que afirmava que o Kyoshu Okada e toda a sua família padeciam de sífilis, um noivado prestes a se concretizar foi desfeito. No entanto, por mercê da proteção Divina, e por não haver ninguém tão insensato a ponto de dar crédito a uma matéria do Yomiuri, o compromisso foi reatado. Informo-lhes, portanto, para que fiquem tranquilos.
-
----
-
-# A Agudeza que Vivifica
-
-**Categoria:** su | **Ano:** 昭和27(1952)年3月5日 | **Fonte:** Eikou
-**Título Original:** 寸鉄活人 (栄光146号) | **Status:** Published
-
-## A Agudeza que Vivifica
-
-Atendendo precisamente às ordens da União Soviética, a corrida armamentista avança, demandando cifras verdadeiramente assombrosas. Apenas neste ano, a quantia de vinte e cinco trilhões que sairá dos cofres americanos é suficiente para fazer desfalecer os de ânimo fraco. Observando tal cenário das profundezas do Kremlin, alguém estira a língua vermelha, em sinal de deleite. E não se trata de uma figura qualquer, mas do líder supremo dos vermelhos.
-
-Quando os remédios geram doenças, os fertilizantes tornam o arroz improdutivo e a educação forma criminosos, é sinal de que o mundo está completamente às avessas. Ah, então é isso! Agora compreendo. Não é de se espantar que, nos círculos do entretenimento, a última moda seja uma acrobacia em que se fica de cabeça para baixo.
-
-Na verdade, a razão pela qual já não se consegue colher o arroz é perfeitamente compreensível. A Terra é o seio materno que gera e nutre a humanidade, devendo, portanto, ser mantida pura. Contudo, ao cobrirmos de dejetos seus seios preciosos, eles acabaram por se tornar mirrados e inférteis. Exposto dessa maneira, creio que até o mais humilde dos agricultores exclamaria: “Ah, agora compreendi perfeitamente! De hoje em diante, farei como o senhor diz”.
-
-Cada pessoa que se torna nosso fiel o faz por ter chegado ao fundo do poço do sofrimento e, na tentativa de se agarrar a uma última esperança, encontrou a nossa Fé. Por essa lógica, poder-se-ia dizer que nossos ensinamentos não passam de uma tábua de salvação. Ora, não me façam rir.
-
----
-
-# Seria eu Deus, ou homem?
-
-**Categoria:** English | **Ano:** - | **Fonte:** I GOD OR MAN? From " A Story on Me ", unpublished, written in
-**Título Original:** AM | **Status:** Unknown
-
-## Seria eu Deus, ou homem?
-
-Não deve haver homem mais misterioso do que eu. É certo que, desde o princípio do mundo, jamais existiu alguém com minhas características. Mesmo para mim, quanto mais reflito sobre minha própria natureza, mais me convenço de que ela se resume a uma única palavra: mistério. Ademais, ao examinar as biografias de santos, sábios e grandes vultos da Antiguidade, não encontro, até onde meu conhecimento alcança, um só indivíduo que se assemelhe a mim.
-
-Por essa razão, e antevendo que, no futuro, surgirão inevitavelmente estudiosos dedicados a me analisar, bem como um número considerável de críticas, pretendo deixar registrado, na medida do possível, um relato fiel de quem sou.
-
-Ao iniciar este relato, devo dizer que ninguém se surpreende mais com a minha pessoa do que eu mesmo. Isso se deve ao fato de eu ser pleno de uma natureza por demais misteriosa. Nesse sentido, proponho-me a analisar-me tanto subjetiva quanto objetivamente, embora perceba que nem mesmo aqueles que convivem comigo há décadas parecem me compreender verdadeiramente. Ouso dizer que nem minha própria esposa me conhece a fundo.
-
-Sou, evidentemente, um religioso, mas não o fundador de uma doutrina específica, como Xaquiamuni ou Cristo, tampouco me considero uma figura de destaque excepcional. A razão para tal reside no fato de meu campo de atuação ser vasto em demasia.
-
-Desde a juventude, jamais me ocorreram pensamentos dessa natureza. Tinha apenas a vaga consciência de que, de alguma forma, eu era diferente das pessoas comuns; nada além disso. O ponto mais singular de minha personalidade era a incapacidade de reverenciar qualquer indivíduo aclamado pela História como um grande vulto. Isso porque, para mim, nenhum deles parecia tão grandioso a ponto de ser inalcançável. Não se tratava de um raciocínio lógico ou de mera vaidade, mas de um sentimento que brotava espontaneamente em meu coração, o qual, com frequência, me trazia uma sensação de solidão e até de tristeza.
-
-Outra de minhas singularidades era um senso de justiça excepcionalmente aguçado, que me levava a odiar o mal com uma intensidade muito superior à das outras pessoas. Muitas vezes, ao ler os jornais diários, despendia grande esforço para conter a indignação que sentia. Ao deliberar sobre como poderia mitigar essas injustiças, voltei minha atenção para os jornais. Naquela época, contudo, dizia-se ser impossível publicar um periódico sem dispor de mais de um milhão de ienes. Assim, dediquei-me energicamente aos negócios para obter tal quantia, mas, contrariando minhas ambições, o resultado foi um rotundo fracasso.
-
-Todavia, como essa experiência se tornou o motivo que me conduziu ao mundo religioso, acabou, por sua vez, sendo-me benéfica. Refiro-me à minha filiação à Oomoto-kyo (大本教). Até então, eu era um ateu convicto, mas a fé na Oomoto-kyo permitiu-me reconhecer, do fundo da alma, a existência de Deus. Isso porque milagres espantosos começaram a ocorrer em sucessão, o que, naturalmente, provocou em mim uma reviravolta de cento e oitenta graus.
-
-Com o passar dos dias, os milagres se multiplicavam e, por fim, recebi revelações espirituais sobre meu destino — passado, presente e futuro. Simultaneamente, foi-me concedido um poder sobre-humano, e tornou-se claro para mim que eu portava a grande missão de salvar a humanidade.
-
-Naquele tempo, um fenômeno que me pareceu sobremaneira misterioso foi o de um Ser grandioso que me conduzia com absoluta liberdade, fazendo-me compreender, passo a passo e por meio de milagres, a realidade do Mundo de Deus. Naquela ocasião, o júbilo que preenchia meu coração era tão intenso que eu não conseguia controlá-lo. Era um estado de espírito sutil e profundo, de uma beleza etérea e sublime que as palavras não podem expressar.
-
-Ademais, os milagres continuavam a se manifestar um após o outro, despertando em mim uma curiosidade infindável. Perdi a conta de quantas vezes, em um único dia, meu coração exultou de emoção. Dentre todos eles, o maior e mais significativo milagre ocorreu no ano do falecimento do Imperador Taisho, isto é, em dezembro de 1926.
-
----
-
-# A Máscara da Falsa Solicitude
-
-**Categoria:** su | **Ano:** 昭和27(1952)年4月2日 | **Fonte:** Eikou
-**Título Original:** 寸鉄活人 (栄光150号) | **Status:** Published
-
-## A Máscara da Falsa Solicitude
-
-Ah, então o senhor, após padecer de uma longa enfermidade e se submeter a tantos médicos e tratamentos diversos, decidiu por fim ingressar nessa religião de estelionatários, a tal Igreja Messiânica? Ora, se até os jornais e toda a imprensa a difamam com tanto vigor, não há dúvida de que se trata de uma doutrina maligna. Por isso, seria mais prudente que o senhor a abandonasse o quanto antes. Afinal, para as doenças, nada substitui os médicos.
-
-Diante de tamanha solicitude, seria possível não se comover às lágrimas. Todavia, é precisamente este indivíduo, que se apresenta de maneira tão afável e benevolente, a personificação mesma do demônio. Valha-me Deus, valha-me Deus, valha-me Deus!
-
-Eu, por meio da Agricultura Natural, promoverei um extraordinário aumento na produção de arroz, edificarei um grandioso Paraíso Messiânico e, assim, moldarei o mundo segundo a Vontade Divina. Não é porventura motivo de imensa alegria?
-
----
-
-# Breves Apontamentos da Verdade
-
-**Categoria:** su | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
-**Título Original:** 寸鉄 (光45号) 白光生 | **Status:** Published
-
-## Breves Apontamentos da Verdade
-
-Aqueles que são moldados por jornais de refugo tornam-se, por conseguinte, seres humanos de refugo.
-
-O mundo está tão repleto de impurezas que Deus iniciou uma grande purificação. Dentre os detritos, Ele seleciona aqueles que ainda possuem algum valor e os acolhe como fiéis. Quanto aos irremediavelmente perdidos, lança-os ao depósito de dejetos para que, reunidos e incinerados, sejam reduzidos a cinzas. E assim se encerra o processo.
-
-A legião de espíritos malignos dispara incessantemente suas salvas de festim. Todavia, por não possuírem projéteis, podemos permanecer tranquilos. Seu esforço é vão e infrutífero, um trabalho inglório que não merece a menor compaixão.
-
-Eu supunha que os pasquins fossem uma chaga restrita às províncias, mas é forçoso admitir que vicejam também no coração da capital.
-
-Uma salva de festim sem projéteis assemelha-se a uma flatulência: exala um odor desagradável, mas é algo que se pode tolerar.
-
-Compreende-se, pois, a razão do mau cheiro. Eles transformam trivialidades em sofismas e publicam-nos com a maior desfaçatez. Em breve, contudo, enfrentarão as consequências. Virão suplicar por perdão, exauridos, desmoralizados, curvando-se em submissão. Diante de suas desculpas esfarrapadas, que me causarão profundo fastio, minha única resposta será aliviá-los com uma sonora flatulência. Adeus, e que passem bem. Ora, vejam só que magnífico!
-
-O erudito vende suas letras; o político, seus princípios; o escritor, a lascívia; o jornalista, a calúnia; certas mulheres, sua virtude. Se assim o é, tudo se resume a mercadoria. Pois entrem, entrem, e façam suas ofertas!
-
-A verdadeira superstição reside naqueles que, por superstição, nos acusam de supersticiosos, justamente quando nosso propósito é revelar-lhes a superstição em que se encontram.
-
-A superstição da ciência, a superstição dos narcóticos, a superstição da literatura erótica, a superstição do suicídio, a superstição da imprensa... Vivemos, de fato, em uma era de inflação supersticiosa.
-
-Nosso movimento de erradicação da superstição consiste em fazer com que os supersticiosos — aqueles que não se reconhecem como tal — compreendam que aquilo que eles rotulavam de superstição era, na verdade, a Verdade. Nosso objetivo é levá-los a abandonar suas crenças vãs, a discernir a essência da superstição para que não voltem a nela incorrer, e, por fim, a expurgá-la da sociedade, edificando um mundo livre de seus grilhões. Ah, que exaustivo
-
----
-
-# Observações Pungentes
-
-**Categoria:** su | **Ano:** 昭和24(1949)年6月11日 | **Fonte:** -
-**Título Original:** 寸鉄 (光12号) 白光生 | **Status:** Published
-
-## Observações Pungentes
-
-Para nós, as dívidas são mais temíveis que os micróbios.
-
-Estelionatários com verniz cultural, charlatães intelectuais, mafiosos de estirpe elevada e tantos outros... proliferam por toda parte.
-
-A educação de hoje transforma crianças em adultos, adultos em idosos e faz com que os idosos morram mais cedo. Será mesmo?
-
-Visto que a atual política educacional produz em massa jovens petulantes e precoces, é imperativo que os pais se mantenham firmes.
-
-Dizem que estas breves palavras são temidas por sua capacidade de revolver as entranhas.
-
-Imaginava que o Parlamento fosse o palco da oratória, mas, para minha surpresa, revelou-se o palco dos punhos.
-
-Portanto, aqueles que aspiram a ser parlamentares, antes de aprimorarem a retórica, deveriam primeiro fortalecer os braços.
-
-Sendo assim, nas próximas eleições gerais, se um judoca se candidatar, sua vitória será incontestável.
-
----
-
-# A Bomba de Luz
-
-**Categoria:** su | **Ano:** 昭和26(1951)年1月10日 | **Fonte:** Eikou
-**Título Original:** 寸鉄 (栄光86号) 白光生 | **Status:** Published
-
-## A Bomba de Luz
-
-O que farão quando bombas atômicas, de hidrogênio ou bacteriológicas despencarem dos céus com estrondo? Será que se entregarão ao pavor, com os dentes a ranger e o corpo a tremer, desfalecendo em vertigem e caindo um após o outro em meio a gemidos de agonia? De nada adiantará invocar, em desespero, os nomes de diversas divindades, entregar-se a preces frenéticas ou lamentar amargamente o próprio destino, pois já será tarde demais. Será nesse momento que aqueles que seguem o caminho da Verdade contemplarão os acontecimentos de uma posição elevada e segura. Contudo, este é um grande segredo.
-
-Surpreender-se-ão ao saber que existe um poder capaz de repelir o clarão ofuscante e o estrondo devastador da bomba atômica. Seu nome é Bomba de Luz.
-
----
-
-# Aforismos da Luz
-
-**Categoria:** su | **Ano:** 昭和25(1950)年9月13日 | **Fonte:** Eikou
-**Título Original:** 寸鉄 (栄光69号) 白光生 | **Status:** Published
-
-## Aforismos da Luz
-
-Afirma-se que as novas religiões são um escândalo, pois setenta e cinco por cento de suas atividades se dedicam à cura de doenças. Contudo, se observarmos que aqueles que buscam o auxílio dessas religiões são justamente os desenganados pelos médicos, chegamos a uma conclusão inevitável: a medicina é incapaz de curar setenta e cinco por cento dos enfermos. Nesse sentido, a crítica dirigida às novas religiões acaba por se converter em uma crítica à própria medicina. O que os senhores me dizem a respeito?
-
-É curioso notar que, sempre que uma seita fraudulenta e maligna ganha as páginas dos jornais, nossa Igreja é invariavelmente citada como termo de comparação. Trata-se, em suma, de um dano colateral, um fenômeno bem característico da mentalidade do pós-guerra.
-
-O ápice do progresso da civilização materialista culminou na criação de um artefato capaz de aniquilar a humanidade.
-
-Diante de qualquer infortúnio, seja ele qual for, a culpa é invariavelmente imputada à nossa Igreja. Por essa razão, tornamo-nos uma magnífica religião de redenção, a maior desde o advento do Cristianismo. Hmpf! Que me dizem disso?
-
-Disse eu aos jornalistas que, por tantas pautas que nossa Igreja lhes forneceu, bem que poderiam nos manifestar alguma gratidão. Eles, por sua vez, retrucaram que, por toda a publicidade gratuita que nos fizeram, o justo seria zerarmos a conta. E assim, o assunto encerrou-se sem delongas.
-
----
-
-# Uma Resposta à Senhora Suguiura Midoriko
-
-**Categoria:** su | **Ano:** 昭和6(1931)年9月1日 | **Fonte:** 瑞Hikari
-**Título Original:** 杉浦翠子女史へ | **Status:** Published
-
-## Uma Resposta à Senhora Suguiura Midoriko
-
-Saiba que sou um fiel da doutrina que a senhora denomina ××, um reverente admirador do mestre Deguchi Onisaburo e, segundo sua própria definição, um dos “mortos-vivos”. Foi ao ler um artigo do senhor Nakai Tsutomu, na revista Meiko, que tomei conhecimento dos fatos e senti o ímpeto de dirigir-lhe estas palavras, ainda que não tenhamos sido formalmente apresentados. Confesso que, ao deparar-me com suas afirmações, achei-as tão absurdamente descabidas que me foi impossível conter o riso.
-
-Eu sou um dos que nutrem profunda admiração pelo extraordinário talento de seu esposo, o mestre Hisui, no campo da arte e do design. Por conseguinte, imaginava que a senhora, sua digna esposa Midoriko, fosse igualmente dotada de notável discernimento. Qual não foi, contudo, minha surpresa e desapontamento ao me deparar com a realidade. Foi como se, para usar uma expressão popular, um encanto de longa data se desfizesse em um único instante.
-
-Permita-me, portanto, inquirir-lhe sobre dois pontos fundamentais: qual o seu real grau de conhecimento a respeito do mestre Deguchi Onisaburo? E onde reside, em sua opinião, a verdadeira essência da doutrina que a senhora denomina ××, a Oomoto? Com efeito, se a senhora possuísse um conhecimento genuíno sobre ambos os assuntos, seria inconcebível que proferisse palavras tão peçonhentas. Por outro lado, se suas palavras se baseiam unicamente em suposições, sem qualquer fundamento real, não posso senão ficar perplexo diante de tamanha leviandade e infâmia.
-
-Atualmente, o mestre Deguchi Onisaburo é reverenciado como um deus vivo por milhões de fiéis, não apenas no Japão, mas também na China, na Europa e nas Américas. Porventura tal devoção seria possível se não houvesse ali algo de extraordinário? Ademais, entre esses milhões de seguidores, encontram-se inúmeros aristocratas, políticos, ministros de Estado e doutores. Rotular indistintamente todas essas pessoas como “mortos-vivos” não seria uma demonstração de excessiva precipitação e despropósito de sua parte? Creio não ser o único a julgar que uma avaliação de seu estado mental se faz necessária.
-
-Observando a situação por outro ângulo, tenho a impressão de estar a ver um pequeno cão a ladrar para um elefante. Escrevo-lhe estas linhas por antever quão penosa será sua situação no dia em que finalmente compreender a verdadeira essência do mestre Deguchi e da Oomoto.
-
-Não ouso exigir uma réplica, e seu silêncio será igualmente compreendido. Com isto, encerro minhas palavras.
-
----
-
-# Breves Apontamentos sobre a Realidade
-
-**Categoria:** su | **Ano:** 昭和24(1949)年4月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 寸鉄 (地上天国３号) 白光生 | **Status:** Published
-
-## Breves Apontamentos sobre a Realidade
-
-O Céu não possui boca; que estas breves palavras o façam falar.
-
-O que se denomina inferno tributário, inferno inflacionário, inferno de Kosuge... Ah, que fastidiosa sucessão de tormentos.
-
-Escuridão luminosa, mentira sincera, guerra sem chamas, liberalismo feudal... O que significam tais contradições? Torna-se impossível discernir a verdade.
-
-Estes aforismos são como um refrigério para o espírito em meio ao texto impresso: pungentes no primeiro instante, trazem alívio em seguida.
-
-Há quem se orgulhe de atravessar o verão e o inverno com uma única veste. Não sorria, leitor, pois eis aí a natureza dos princípios que os partidos políticos ostentam como sendo sua coerência.
-
-Se nos pedissem para apresentar nossos princípios, diríamos: universalismo, humanitarismo, pacifismo, felicidade, Paradísia... e tantos outros. Ah, que exaustivo!
-
-A felicidade da classe trabalhadora só será alcançada quando as palavras "luta" e "conflito" forem banidas de seu vocabulário.
-
-É o comercialismo que impele os jornais japoneses a publicarem falsidades.
-
-Um dos grandes jornais de Tóquio noticiou que o patrimônio de nossa Igreja seria de dois a três bilhões de ienes. Essa falsidade, contudo, representa uma distorção de aproximadamente cem vezes o valor real. Trata-se, por assim dizer, de uma inflação da mentira.
-
-Candidatos suplicantes, candidatos difamadores, candidatos que recitam as próprias virtudes, candidatos que apenas promovem o próprio nome, candidatos com um apelo artificialmente popular... E assim por diante. Eis minhas impressões sobre o que se ouve no rádio.
-
-Com uma das mãos, o governo confisca cadernetas de poupança; com a outra, incentiva que se poupe. Que política paradoxal.
-
-Quanto a Hirasawa, o acusado no caso do Banco Imperial, é impossível não lhe reconhecer o talento como dramaturgo.
-
-É pela união de diversas cores que uma magnífica pintura se completa: o dourado da América, o vermelho da União Soviética, o púrpura da Grã-Bretanha, o amarelo-claro da França, o azul da China, o ocre da Índia, o castanho da Alemanha e o escarlate do Japão. Uma obra de arte jamais surgiria de uma única cor.
-
-O Partido Comunista, por sua vez, soube capitalizar o sofrimento gerado pela carga tributária para expandir sua influência.
-
-A postura elegante e magnânima do senhor Yoshida foi, decerto, o que elevou o Partido Liberal Democrata à posição de principal força política do país.
-
-Em contrapartida, percebo que a fisionomia excessivamente austera do senhor Katayama foi o que levou o Partido Socialista ao seu definhamento.
-
-Já a postura intelectualizada e a imagem cativante de renovação do senhor Inukai parecem ter sido o pilar de sustentação do Partido Democrata.
-
----
-
-# A Intensa Atuação dos Espíritos Malignos
-
-**Categoria:** English | **Ano:** - | **Fonte:** ACTIVITIES OF THE EVIL DEITIES Heaven on Earth, No.
-**Título Original:** INTENSE | **Status:** Unknown
-
-## A Intensa Atuação dos Espíritos Malignos
-
-É desnecessário reiterar que todas as coisas do Universo se movem em conformidade com a Lei da Primazia do Espírito sobre a Matéria. Toda manifestação no plano físico origina-se primeiramente no Mundo Espiritual e, posteriormente, projeta-se no Mundo Material. Naturalmente, há um intervalo de tempo entre a origem e a projeção, cuja duração depende da magnitude do fenômeno em questão. Com efeito, em casos mais céleres, o processo pode levar apenas alguns dias; em outros, mais lentos, pode estender-se por vários anos. Todavia, à medida que o mundo adentra a Era do Dia, esse intervalo se encurta consideravelmente, como temos observado em tempos recentes. Na verdade, o Mundo Espiritual encontra-se hoje em um estado de desordem sem precedentes e, ao mesmo tempo, atravessa mudanças radicais que prenunciam, de forma inequívoca, o fim de uma era.
-
-O que se observa de mais notório no presente é a desesperada e intensa atividade dos espíritos malignos. Após exercerem seu poder sobre o mundo por milênios, eles sentem a aproximação de seu destino de queda e, por isso, debatem-se em seus últimos estertores. Em uma ofensiva de tudo ou nada, empregam sua força violenta de maneira desenfreada. Tais espíritos malignos possuem seus próprios líderes, sendo os mais ativos no momento o Dragão Vermelho e o Dragão Negro, cujas hostes somam a espantosa cifra de quase um bilhão de seguidores.
-
-Essas hostes também se organizam em uma hierarquia de classes — superior, média e inferior —, e cada uma desempenha papéis de acordo com seu escalão. E, embora malignos, dedicam-se com afinco ao cumprimento das tarefas que lhes são ordenadas, pois, conforme seus méritos, podem receber promoções e recompensas. As ordens, evidentemente, emanam do líder supremo, que comanda de seu quartel-general, e são transmitidas por meio de cordões espirituais aos espíritos secundários que obsidiam os seres humanos. Nesse processo, os membros de cada clã atuam sobre indivíduos cujo status ou classe no mundo terreno corresponde ao seu. A missão deles é empregar todos os meios possíveis para induzir os homens à prática do mal, o que, para nossa desgraça, se reflete de maneira inequívoca na sociedade atual.
-
-Ademais, os métodos que utilizam são extremamente ardilosos e cruéis. Por exemplo, induzem pessoas de nível inferior a cometer crimes atrozes, como latrocínio e atos de violência. Já com indivíduos de um patamar um pouco mais elevado, promovem a prática de estelionato, a falsificação de moedas, títulos e obras de arte, ou a sedução de mulheres com palavras enganosas; os espíritos malignos deleitam-se sobremaneira ao levar os seres humanos ao adultério e a práticas semelhantes. No caso das classes mais altas, recorrem a técnicas sofisticadas, fazendo com que cometam crimes intelectuais sob a máscara da benevolência: apossar-se do patrimônio alheio, obter lucros por meio de logros, praticar suborno e corrupção, sonegar impostos, ocultar bens, operar no mercado negro e, como é de seu feitio, embriagar mulheres para delas se aproveitarem.
-
-Uma vez descobertas tais práticas, os envolvidos são legalmente considerados criminosos, e todos os enxergam como pessoas más. Existem, contudo, outros casos em que os espíritos malignos fazem com que as pessoas ajam de forma perversa sob uma máscara de virtude. Esse fenômeno é mais comum entre as classes média e alta, especialmente no meio intelectual, exigindo, portanto, máxima atenção. Tais indivíduos, por exemplo, discursam ou escrevem sobre teorias que parecem justas a todos, ou defendem determinados "ismos" para fazer com que o público acredite em sua suposta verdade. Assim, conquistam a confiança da sociedade, enquanto, às escondidas, praticam o exato oposto. Como se trata de intelectuais de boa reputação e de extrema habilidade, é muito difícil discernir a veracidade de suas intenções. Muitos deles encontram-se entre políticos, renomados formadores de opinião e pessoas que ocupam altas posições sociais e são tidas em alta conta pelo público em geral. Diante de tais figuras, não se pode jamais baixar a guarda.
-
-O mais complexo de se lidar, todavia, é quando as pessoas se empenham em realizar o que acreditam ser o bem, mas cujas ações resultam no mal. Os Incidentes de 15 de maio e de 26 de fevereiro são bons exemplos disso. Em casos extremos, algumas personalidades de alto escalão chegam a arriscar a própria vida por aquilo que julgam ser bom e justo, apenas para produzir o resultado totalmente oposto: consequências nefastas e equivocadas. Os criminosos de guerra executados recentemente são, sem dúvida, um exemplo desse tipo de indivíduo.
-
-Existe ainda um tipo de pecado do qual as pessoas não têm a menor consciência. Refiro-me àqueles indivíduos dignos de compaixão que se devotam de corpo e alma à prática do que consideram ser grandiosas teorias, mas que, na realidade e a despeito de suas intenções, causam grande mal à humanidade. Todos os casos que descrevi até aqui são manipulações dos espíritos malignos, mas aqueles cujas mentes estão cristalizadas pela ciência são absolutamente incapazes de perceber essa realidade.
-
-Existem, entretanto, pessoas de um nível absolutamente superior, que transcendem em muito as demais. Nesse grupo, incluem-se os fundadores de religiões, os grandes eruditos que estabeleceram novas teorias ou realizaram novas descobertas e os pensadores ilustres; em suma, são indivíduos de um tipo sobre-humano. Por essa razão, frequentemente se tornam objeto de reverência e são tratados como ídolos por séculos após sua morte. Pessoas dessa estirpe não nutrem a menor intenção maligna, nem agem por interesse próprio; algumas são tão nobres que dedicaram a vida inteira àquilo que sinceramente acreditavam ser para o verdadeiro bem da humanidade.
-
-Contudo, sob a minha ótica, as realizações desses grandes vultos têm tanto efeitos benéficos quanto nefastos para a humanidade, de modo que, em muitos casos, é impossível julgar seus méritos e deméritos. É desnecessário dizer que esses grandes homens não têm qualquer relação com os espíritos malignos. Ocorre, no entanto, que uma obra sua, embora tenha sido benéfica até certo ponto, com o passar dos anos, pode se tornar mais prejudicial do que útil. Isso se aplica não apenas a eruditos, mas também a figuras religiosas. Com frequência, vemos e ouvimos falar de uma religião que, embora grandiosa em sua fundação, com o passar do tempo, tem sua disciplina enfraquecida, torna-se apática, vê surgirem conflitos internos e indivíduos depravados, transformando-se em uma organização de influência negativa, ou mesmo maléfica.
-
-O mesmo processo pode ocorrer no domínio da ciência. É comum que uma teoria, na época de sua descoberta, seja aclamada a ponto de cativar o mundo, mas, com o transcorrer dos anos, transforme-se em uma doutrina nociva.
-
-Em suma, tudo se desenrola segundo a Providência do Deus Supremo. No processo de evolução da civilização, o bem e o mal se digladiam, a luz e as trevas, assim como a beleza e a fealdade, se entrelaçam, e é por meio dessa dinâmica que o mundo avança, passo a passo, em direção ao mundo ideal. Isso também revela a profundidade da Vontade Divina, e todos devem saber que ela está muito além do que a inteligência humana pode perscrutar.
-
----
-
-# Manifestações Espirituais e o Vício da Bebida
-
-**Categoria:** sa | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 酒飲みの霊 | **Status:** Published
-
-## Manifestações Espirituais e o Vício da Bebida
-
-Já explanei anteriormente que o vício da bebida pode ser atribuído à possessão por *tengu* ou outras entidades espirituais; contudo, existem também outras causas. Um exemplo notável é o caso da desordem alcoólica, em que a personalidade do indivíduíduo se altera por completo sob o efeito da bebida, como ilustra a seguinte ocorrência.
-
-Tratava-se de um homem com cerca de trinta anos, de natureza habitualmente serena e dócil. No entanto, ao ingerir álcool, sua personalidade se transfigurava, levando-o a cometer toda sorte de desatinos. O maior transtorno que causava era perambular pelas tabernas da vizinhança, consumindo bebidas sem cessar. Quando se via sem um tostão, contraía dívidas para continuar bebendo, e, invariavelmente, cabia ao seu pai a penosa tarefa de saldar suas contas.
-
-Solicitaram-me que o tratasse e, suspeitando de uma causa espiritual, realizei uma sondagem e constatei que, de fato, tratava-se de uma possessão. O espírito que o influenciava era o de seu avô, um lavrador da província de Saitama, falecido por volta dos sessenta anos. Ficou claro, portanto, que a possessão era intermitente. Certo dia, percebendo que o espírito parecia estar manifesto, procedi a uma nova sondagem, que confirmou minha suspeita. A entidade, com um ar perplexo, olhava ao redor e perguntou: "Onde é que eu estou?".
-
-Respondi: "Esta é a minha casa, em Omori, Tóquio".
-
-Ele retrucou: "Ah, é mesmo? Queria fumar um tabaco". Dei-lhe um cigarro, mas ele insistiu: "Quero fumar é no cachimbo". Ofereci-lhe, então, fumo de corda. Ele deu duas ou três tragadas com visível satisfação, levantou-se, afagou a cintura e dirigiu-se à varanda. Lá, sentou-se com as pernas cruzadas, observando o jardim com uma expressão de estranheza.
-
-Perguntei-lhe: "O senhor sabe que este é o Mundo Material?".
-
-"Francamente, não entendo nada", respondeu ele.
-
-"O senhor conhece o Inferno?", indaguei.
-
-"Claro que conheço! É um lugar de muito sofrimento. Mas, ultimamente, vim para um lugar bem mais tranquilo. O problema é que não tem bebida nem fumo, e isso me deixa numa situação difícil."
-
-"E por qual motivo?", perguntei.
-
-"É que não tenho dinheiro para comprar", explicou ele. Pensei comigo que, ao que parece, obter dinheiro no Mundo Espiritual também não é tarefa fácil. O espírito, então, voltou a implorar repetidamente: "Quero beber saquê!". E prometeu: "Se me der uma tigela cheia, eu vou embora na mesma hora". Imediatamente, servi-lhe a bebida. Ele estalou a língua de prazer e pediu: "Só mais uma". Atendi ao seu pedido, e, logo em seguida, o espírito se retirou.
-
-Em outras ocasiões, manifestava-se nesse mesmo homem o espírito do falecido dono de uma taberna das redondezas, que morrera no outono anterior, com cerca de quarenta anos. Tratava-se de uma entidade que se orgulhava de sua força física e, sempre que o possuía, o homem abria os braços, fincava os pés no chão e bradava: "Pois venha quem vier!". Certa vez, um dos meus discípulos o enfrentou e foi arremessado ao chão com tamanha violência que fraturou o braço. A força era tal que, quando esse espírito se manifestava, eram necessários pelo menos três homens para conseguir contê-lo.
-
-Houve ainda uma vez em que se manifestou o espírito de uma jovem. Era a filha do dono da tabacaria vizinha, falecida há cerca de dois meses, com pouco mais de vinte anos. O espírito confessou: "Eu gostava muito do Take-chan", referindo-se ao homem possuído. E acrescentou: "Estou com a garganta terrivelmente seca, será que poderia me dar um pouco de água?". Servi-lhe a água, e ela bebeu três copos com grande deleite. Ao final, agradeceu profundamente e partiu. Seus gestos eram os de uma moça jovem, plenos de recato e modéstia.
-
-Naquela oportunidade, perguntei-lhe: "Mas em sua casa, no Mundo Espiritual, certamente lhe oferecem água, não?".
-
-"Oferecem, sim, mas não consigo bebê-la", respondeu ela. Pelo que pude depreender, a causa disso provavelmente reside no sentimento equivocado da pessoa que realiza a oferenda.
-
----
-
-# Fragmentos sobre a Verdade e o Mundo
-
-**Categoria:** su | **Ano:** 昭和24(1949)年5月8日 | **Fonte:** -
-**Título Original:** 寸鉄 (光８号) 白光生 | **Status:** Published
-
-## Fragmentos sobre a Verdade e o Mundo
-
-Em uma só palavra, o princípio fundamental da economia consiste em cessar o endividamento e trabalhar diligentemente para prover o próprio sustento. É de simples compreensão.
-
-O que desejo legar ao povo japonês não são maços de dinheiro, mas sim a frugalidade que purifica o corpo e a alma.
-
-O materialismo pode ser definido como a doutrina do egoísmo, da cobiça, do ateísmo, da dissimulação, do obscurantismo e da demoniolatria. Em contrapartida, o espiritualismo é a senda do altruísmo, da primazia do espírito, do teísmo, da retidão, da Luz e da virtude. Diante disso, qual caminho hão de trilhar?
-
-Religiosos que não creem em Deus criam doutrinas fraudulentas, e clérigos que ignoram o Mundo Espiritual acabam por se corromper.
-
-É assombroso que a emancipação feminina seja hoje equiparada à libertinagem.
-
-A regeneração do Partido Socialista, por sua vez, não encerra qualquer mistério: basta que abandone o socialismo.
-
-Diz-se que quanto mais um cosmético é vendido, mais falsificações suas aparecem no mercado. Nesse sentido, o fato de que inúmeras imitações de nossos Ensinamentos tenham surgido recentemente deve ser, para nós, um motivo de grande regozijo.
-
-Os materialistas são o epicentro dos males sociais. O socialismo e o comunismo, por fim, não passam de um legado de uma era ultrapassada.
-
----
-
-# Aforismos que Vivificam
-
-**Categoria:** su | **Ano:** 昭和26(1951)年6月6日 | **Fonte:** Eikou
-**Título Original:** 寸鉄活人 (栄光107号) 白光生 | **Status:** Published
-
-## Aforismos que Vivificam
-
-*Publicado por Hakko-sei na revista Eikou, nº 107, em 6 de junho de 1951*
-
-Recentemente, uma senhora testemunhou, com absoluta clareza, a Luz emanar de seu Ohikari. Pois bem, a Luz que se irradia do Ohikari é a mesma que emana de minha mão. Deus permite que tal Luz flua através de mim, o que é, sem dúvida, um motivo de grande gratidão. Contudo, estejam cientes de que, em breve, de minha boca emanarão severas repreensões, e estas, sim, serão dignas de temor.
-
-Dizem que, na recente eleição, o partido conservador obteve uma vitória esmagadora. Considero tal resultado perfeitamente natural. Afinal, vivemos em um mundo repleto de indivíduos avarentos; era de se esperar que vencesse o partido daqueles que “querem conservar” tudo para si.
-
-Com a assinatura do tratado de paz, a Igreja Messiânica florescerá grandemente. E por que razão? Ora, porque um “banquete de paz” é algo que se partilha nas mais festivas ocasiões. O que me dizem desta?
-
-Porventura sabem por que aprecio tanto as finas iguarias e o cinema? É simples. Não se diz por aí que, ao alcançar o sucesso, uma pessoa passa a viver em meio à pompa и ao esplendor?
-
-A iminência de uma Terceira Guerra Mundial faz com que toda a humanidade trema, em um estado de pavor constante. Contudo, erradicar essa ameaça é de uma simplicidade infantil. Bastaria alterar ligeiramente o conteúdo de certo objeto esférico, com menos de um palmo de diâmetro. Apenas isso. Diante de tal afirmação, todos, com os olhos arregalados, indagariam: “Mas o que é esse objeto?”. Eu lhes diria que não é nada de extraordinário. “É aquilo... ali”. “Aquilo o quê? Onde?”. “Ora, está logo ali. É um pouco distante, mas um avião pode nos levar até lá em um único dia”. “Diga-nos, por favor! Queremos saber!”. “Pois bem, direi. Mas ouçam com calma e não se assustem. Estão prontos? Trata-se da cabeça de Stálin”. E a reação seria: “Ah, era apenas isso? Que decepção!”.
-
-Eis um curioso paradoxo: “Ele mantém uma calma impassível, ao mesmo tempo em que treme de pavor”. Quem seria essa figura tão contraditória? Ora, não é senão o próprio povo japonês. Que lhes parece?
-
-Saibam que, quando o momento decisivo chegar, recorrerei ao meu trunfo supremo e realizarei um Johrei de proporções um tanto maiores. Seria ingenuidade indagar do que se trata. Refiro-me ao próprio globo terrestre.
-
----
-
-# Aforismos
-
-**Categoria:** su | **Ano:** 昭和25(1950)年2月11日 | **Fonte:** Kyusei
-**Título Original:** 寸鉄 (救世49号) 白光生 | **Status:** Published
-
-## Aforismos
-
-Os partidos políticos de hoje assemelham-se à carne bovina servida aos cães: são progressivamente fatiados em pedaços cada vez menores.
-
-O senhor Yoshida afirma que o Japão, embora desprovido de armamento, detém o direito à autodefesa. Ora, tal raciocínio equivale a dizer que, mesmo sem dinheiro, é possível comprar de tudo; que, sem esposa, é possível gerar filhos; e que, sem se alimentar, é possível sobreviver. Em essência, é uma lógica tão descabida quanto a de uma anedota popular que diz haver vida mesmo após a morte. Talvez seja uma descortesia, mas é inevitável pensar que o peso da idade é implacável.
-
-O senhor Nosaka, após um longo período de inércia, foi repreendido por seu amo e, assustado, pôs-se a trabalhar de maneira súbita e improvisada. Será que tal esforço bastará como pedido de desculpas?
-
-Senhor Nosaka, querer demonstrar lealdade a um amo estrangeiro... Sugiro que o senhor pense um pouco mais... em Moscou.
-
-O grande menino Yoshida, o pequeno menino Inukai e o menino do meio, Katayama... Dizem que ainda não conseguem caminhar com as próprias pernas. Pobre Japão, para onde vais?
-
-Aquele que foi rachado em dois por um golpe vertical e certeiro não foi um homem, mas sim o Partido Socialista.
-
-Eis os requisitos indispensáveis a um político: saber fingir ignorância sobre aquilo que compreende perfeitamente; considerar o partido de oposição um inimigo mortal; dominar a arte de se apegar a detalhes irrelevantes; bradar em voz alta. E, para aqueles que almejam o cargo de Primeiro-Ministro, é imprescindível o uso de quimono e das meias brancas.
-
----
-
-# Aforismos
-
-**Categoria:** su | **Ano:** 昭和24(1949)年9月24日 | **Fonte:** -
-**Título Original:** 寸鉄 (光28号) 白光生 | **Status:** Published
-
-## Aforismos
-
-O termo “livro branco” é deveras curioso, pois não haveria problema algum se estivesse totalmente em branco.
-
-Se o único motivo de orgulho do Japão perante o mundo for a natação, então os japoneses são, porventura, um povo de peixes.
-
-O jovem mestre Katayama, personificando os personagens Tyltyl e Mytyl em busca do Pássaro Azul para o Japão.
-
-Surgiu uma nova enfermidade: a fobia do comunismo.
-
-Os discursos do senhor Tokuda invariavelmente pregam a derrubada do governo, dos latifundiários e dos capitalistas. Sendo assim, creio que seria mais prático imprimi-los e distribuí-los.
-
-Se a nossa Doutrina abarca em si todas as religiões, então poderíamos chamá-la de uma religião coquetel.
-
-Se os ministros de Estado são como a grande divindade Inari, a oposição não passa de uma raposa selvagem.
-
-Os jornais do interior criticam acidamente o cultivo sem adubos, enquanto eles próprios suportam o odor dos dejetos humanos.
-
-Os parlamentares são como artesãos que fabricam as malhas da rede chamada lei.
-
-A Câmara dos Deputados e a Câmara dos Conselheiros, por sua vez, são as fábricas onde se produzem as jaulas para os homens-fera.
-
-A missão da religião é, pois, transformar esses homens-fera em verdadeiros seres humanos.
-
-A sociedade padece da fobia de germes; nós, da serenidade perante eles.
-
-A Lei de Controle de Preços... será que ainda vigora?
-
-Dizem que o grande sacerdote Yoshida, o venerável Inukai, o mestre zen Tomabechi, o asceta Narahashi, o pastor Katayama e o penitente Tokuda estão a celebrar as exéquias do antigo Japão.
-
-Vivemos a era das fobias epidêmicas: fobia de impostos, fobia do comunismo, fobia de trens, fobia de inundações, fobia de germes, fobia da própria esposa, e tantas outras.
-
----
-
-# A Importância do Cérebro
-
-**Categoria:** su | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 頭脳の重要性 | **Status:** Published
-
-## A Importância do Cérebro
-
-Conforme explanei anteriormente a importância dos rins, torna-se necessário agora discorrer sobre a relevância do cérebro. Recentemente, tem-se observado o surgimento e a propagação de novas enfermidades. Uma delas manifesta-se principalmente na superfície e no dorso das mãos, bem como nos membros inferiores, do alto das pernas até o peito dos pés e os dedos. Caracteriza-se pelo aparecimento de pústulas de coloração branco-purulenta, que variam em tamanho, desde pequenas como pílulas até maiores como grãos de soja, ligeiramente protuberantes. Cada uma dessas lesões é dolorosa, com intensidade variável. Nos casos mais graves, a dor aguda torna-se insuportável, levando o paciente a um estado de angústia e lamento. A outra enfermidade é a sarna, que se apresenta como inúmeras e pequenas pápulas avermelhadas por todo o corpo, provocando uma coceira tão severa que muitos chegam a sofrer de insônia. Ademais, é considerável o número de pacientes que sofrem simultaneamente da sarna e das pústulas branco-purulentas, e há indícios de que tais quadros se alastram progressivamente.
-
-Por meio do nosso método terapêutico, embora o processo demande um certo tempo, a cura é completa, pois a plena recuperação advém da expulsão das toxinas acumuladas, que constituem a origem do mal. Infelizmente, aqueles que desconhecem esta arte de curar recorrem a tratamentos como injeções, águas termais ou banhos medicinais. Tais métodos, contudo, apenas interrompem o processo de purificação. Consequentemente, embora a pele aparente uma melhora temporária, a doença não tarda a reincidir ou a provocar um edema violento, quadro que não raro acarreta risco de vida ao paciente.
-
-Passarei a elucidar a causa de ambas as enfermidades, cuja origem se encontra em um local bastante inesperado. Com efeito, a fonte de ambos os males reside no cérebro. Ao examinarmos o cérebro do paciente, especialmente a região frontal, invariavelmente constatamos uma febre considerável. Trata-se da purificação de toxinas solidificadas no cérebro. Tais toxinas se dissolvem, descem e tentam ser expelidas através da pele das mãos e dos dedos. A cura demanda tempo precisamente porque o volume dessas toxinas é muito grande. A razão para tal acúmulo generalizado de toxinas cerebrais reside nas seguintes causas.
-
-Conforme já expliquei, as toxinas tendem a se concentrar nas áreas onde há maior atividade nervosa. Portanto, em virtude da educação escolar recebida desde a infância, as toxinas se acumulam no cérebro, com ênfase na região frontal. Isto ocorre porque, no ser humano, as funções da atividade intelectual e racional localizam-se no lobo frontal, enquanto as funções emocionais se situam no lobo occipital. Ocorre que os resfriados, que são uma manifestação da purificação, são suprimidos; a isto se soma a introdução de venenos medicamentosos, resultando na solidificação de grande quantidade de toxinas. Paralelamente, a intensificação do elemento fogo no Mundo Espiritual torna-se cada vez mais notável, o que desencadeia purificações intensas e, por conseguinte, a epidemia das doenças supracitadas.
-
-As toxinas relacionadas a esses quadros podem ser classificadas em três tipos. As pequenas pápulas avermelhadas da sarna são, em geral, de natureza urêmica e, por vezes, apresentam-se mescladas a venenos medicamentosos associados à urticária. As pústulas branco-purulentas, semelhantes a grãos, são causadas por venenos de medicamentos alopáticos, razão pela qual provocam dor intensa. Existe ainda um terceiro tipo, que causa dor leve ou nenhuma. Manifesta-se com aspecto de gangrena, deixando a pele com uma coloração escura e enegrecida, circundada por um leve edema. Segundo minha análise, esta toxina corresponde ao veneno da hanseníase. A semelhança com os sintomas da hanseníase é notória. A hanseníase propriamente dita é causada por uma grande quantidade desse veneno, mas, neste caso, trata-se de pessoas que o possuem em menor quantidade e de forma localizada, motivo pelo qual a condição passa despercebida. A título de exemplo, creio que as frieiras se enquadram na mesma categoria.
-
-Consequentemente, ao ministrar Johrei para qualquer um dos quadros mencionados, a sequência deve ser a seguinte: para os sintomas nos punhos, mãos e dedos, o foco principal deve ser o cérebro, seguido pelos gânglios linfáticos, e então os braços e a área afetada. Para os sintomas nas pernas, tornozelos e dedos, a ordem adequada é a região dos gânglios inguinais, a parte inferior do abdômen e a região dos ossos do quadril. É importante notar que esses pontos sempre apresentarão febre e dor, tornando-se claramente identificáveis. À medida que a febre diminui gradualmente, a cura progride. A duração total do tratamento pode variar: os casos mais rápidos levam um mês; os comuns, de dois a três meses; e os mais lentos podem se estender por mais de seis meses, chegando até a um ano.
-
-Gostaria de abordar, agora, outro ponto de suma importância. Refiro-me ao fato de que os pacientes com tuberculose pulmonar, sem exceção, apresentam um processo de purificação no cérebro. Esta afirmação talvez surpreenda o leitor, mas é a verdade dos fatos e, como tal, deve ser apresentada. O cérebro de um paciente com tuberculose invariavelmente apresenta febre considerável. Ao ministrarmos-lhe Johrei nessa região, ele imediatamente começa a tossir e a expectorar. Nesse momento, as toxinas dissolvidas no cérebro fluem instantaneamente para os pulmões e são expelidas sob a forma de escarro. É natural, portanto, supor que o escarro provenha da própria lesão pulmonar. A realidade, todavia, é outra. À medida que a febre no cérebro diminui, os sintomas da tuberculose melhoram em proporção direta. Quando o cérebro se torna completamente afebril, a tuberculose está curada. Sobre isso, não resta a menor margem para dúvida. Evidentemente, à medida que as toxinas cerebrais diminuem, as toxinas de outras partes do corpo também são eliminadas.
-
-Da mesma forma, casos de asma e de doenças febris de causa desconhecida frequentemente têm sua origem na purificação do cérebro. Portanto, diante de qualquer enfermidade de natureza febril, deve-se, antes de mais nada, experimentar a ministração de Johrei no cérebro.
-
----
-
-# Aforismos Pungentes
-
-**Categoria:** su | **Ano:** 昭和24(1949)年10月22日 | **Fonte:** -
-**Título Original:** 寸鉄 (光32号) 白光生 | **Status:** Published
-
-## Aforismos Pungentes
-
-Que tal esta classificação: os que vêm sugar nosso sangue pertencem à tribo dos mosquitos; os importunos, à dos moscas; e os que nos alfinetam com suas ferroadas, à das abelhas?
-
-Indivíduos estranhos concebem planos estranhos para executar atos estranhos. Em verdade, vivemos em um mundo peculiar.
-
-Atualmente, os protagonistas destes aforismos são os membros da tribo dos extorsionários.
-
-A torrente incessante de extorsionários, parasitas, estelionatários, ladrões e assaltantes nos deixa atônitos, beirando o desespero, tornando impossível administrar a situação.
-
-Àqueles que nos provocam, não podemos nos furtar a responder, pois seria uma desonra para com meu antepassado, Banzuiin Chōbē (幡随院長兵衛).
-
-Uma religião que entra em conflito com os outros certamente deixaria Cristo e Buda estupefatos.
-
-Nossa Igreja encontra-se, no momento, sitiada por três frentes: os jornais, os extorsionários e os médicos. Contudo, longe de ser uma batalha árdua, a situação se revela plena de um profundo interesse.
-
-Neste mundo, há indivíduos de notável audácia, que chegam a erguer os punhos contra o próprio Deus.
-
-Sou grato aos senhores extorsionários por fornecerem matéria para o jornal Hikari. Meus sinceros agradecimentos.
-
-É inútil nos provocarem. Já sofremos de uma condição crônica: a paralisia da ira.
-
-Ao senhor Baba, presidente do jornal Yomiuri, faço um apelo: que a primeira sílaba de seu nome não venha a refletir sua conduta, transformando-se em sinônimo de insensatez.
-
-(Nota) Banzuiin Chōbē (幡随院長兵衛, 1614–1650) foi um célebre cavaleiro urbano do início do Período Edo. Insurgiu-se para proteger os cidadãos comuns contra a violência de bandos formados por hatamoto insatisfeitos, vassalos diretos do xogum, mas acabou sendo morto em uma emboscada. Sua história tornou-se um tema recorrente no teatro Kabuki e nas narrativas do kōdan.
-
----
-
-# Observações Pungentes
-
-**Categoria:** su | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
-**Título Original:** 寸鉄 (救世65号) 白光生 | **Status:** Published
-
-## Observações Pungentes
-
-Se por um Japão verdadeiramente democrático entendermos uma nação cujos jornais não mais publicam inverdades, então tal realidade só surgirá, quiçá, na geração de nossos netos.
-
-A habilidade de redigir a mentira para que se assemelhe à verdade... Diz-se que, sem tal destreza, o jornalista não consegue seu sustento. É uma lógica que se pode compreender, mas que a razão se recusa a aceitar.
-
-Como se explica que os grandes jornais publiquem mentiras, ao passo que os pequenos não o fazem? A resposta é simples: tal como os homens poderosos que recorrem à astúcia, enquanto os humildes se mantêm íntegros.
-
-Justamente quando me afligia a falta de temas para estas observações, eis que surge o nobre jornal Asahi! Que gesto louvável! Contudo, abster-me-ei de qualquer elogio.
-
-Acabo de descobrir uma nova enfermidade. Chama-se: fobia a Deus.
-
-"Não existe religião mais ultrajante que a Messiânica. Ora, imagine! Pretendem punir o mal e enaltecer o bem. Que disparate!" Assim conversavam, certo dia, dois espíritos malignos.
-
-Afirmam que os jornais não vendem se não publicarem falsidades. Sendo assim, o que não consigo compreender é o quão afeito às mentiras o povo japonês deve ser.
-
-O lema para a reconstrução do Japão, mais crucial que a repressão às facções de esquerda e direita, mais urgente que a erradicação de doenças contagiosas, mais vital que a redução de impostos e até mesmo que a aniquilação da corrupção no funcionalismo público, é o extermínio da mentira — em particular, a que emana dos jornais.
-
-Perigo, perigo! O estatismo parece novamente erguer a sua cabeça. Kuwabara, kuwabara! Purificai-nos, limpai-nos
-
----
-
-# A Pureza da Arte e a Insensatez Materialista
-
-**Categoria:** su | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
-**Título Original:** 寸鉄活人 (栄光170号) | **Status:** Published
-
-## A Pureza da Arte e a Insensatez Materialista
-
-Assim como um fragmento de alume purifica a água barrenta, a edificação de um museu em meio a este mundo de hediondez representa um ato de depuração. Uma iniciativa notável, não lhes parece?
-
-Contudo, observamos a direção que o pensamento materialista toma. Recentemente, as autoridades anunciaram a intenção de construir uma estação meteorológica no Monte Akagi, alocando para isso um orçamento de mais de um milhão de ienes. A justificativa para tal investimento reside na crença de que naquela montanha – outrora refúgio do célebre herói Kunisada Chuji – invariavelmente chove antes da ocorrência de grandes temporais em outras localidades.
-
-Seguindo por essa lógica, não tardará para que passem a justificar suas previsões afirmando que “as formigas estão se recolhendo aos seus formigueiros”, “o coaxar dos sapos soa diferente” ou até que “meu fundoshi (traje íntimo tradicional) está desagradavelmente úmido”, tratando tais observações como indubitáveis presságios de chuva.
-
-Verdadeiramente, é de se admirar o quanto a ciência moderna progrediu, não é mesmo?
 
 ---
 

@@ -1,9 +1,1200 @@
 # Mioshie_Teachings - Part 92
 
+# Coração (Primeira Parte)
+
+**Categoria:** kanren | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coração (Primeira Parte)
+
+Atendendo ao meu bilhete, que pedia que viesse antes do meio-dia, Chie chegou no domingo seguinte, por volta das onze horas. Vestia um elegante quimono de seda cinza-prateado com um delicado padrão, e um obi de brocado liso em tom de açafrão, que lhe assentava admiravelmente.
+
+— A viagem de trem foi divertidíssima — disse Chie, sorrindo, ao sentar-se na cadeira da varanda.
+
+— Aconteceu algo interessante? — perguntei, acomodando-me do outro lado da mesinha de chá.
+
+— Havia uma mulher, com ares de vendedora ambulante, comentando rumores sobre diversas religiões emergentes.
+
+— E que tipo de rumores ela espalhava?
+
+— Aí é que está o curioso. Contou que uma viúva, após ingressar em certa religião, ficou grávida. E o mais espantoso é que a mulher afirmava que um gato havia se alojado em seu ventre.
+
+Ao dizer isso, o rosto de Chie corou levemente.
+
+— Se um gato se alojasse em seu ventre, seria de fato um milagre — comentei, rindo também.
+
+— E não parou por aí. Ela mencionou que, em outra religião, era preciso pagar quinhentos mil ienes para se tornar um ministro. E que um homem, depois de desembolsar essa fortuna, foi nomeado e, logo no dia seguinte, durante sua primeira pregação, desmaiou e morreu... Eram histórias assim que ela contava.
+
+— Compreendo — murmurei, achando graça no fato de que os métodos de ataque, independentemente de quem os conceba, tendem a ser notavelmente semelhantes.
+
+Tanto no cristianismo quanto no budismo, o número de monges que violaram seus preceitos foi incalculável. Certamente, ainda existem. Contudo, o público em geral não condena o cristianismo ou o budismo como um todo por causa desses indivíduos. No entanto, quando se trata das religiões emergentes, as setas do ataque convergem todas para a instituição. A própria religião, dizem, é má. Trata-se de uma parcialidade manifesta.
+
+Enquanto eu ponderava sobre isso, Chie acrescentou:
+
+— Havia mais. Dizia-se que certa organização reconhece apenas o espírito e nega o corpo. Nesse caso, não precisariam de alimento, pois seriam como fantasmas... Era o que comentavam.
+
+— Contudo, Platão também discorreu sobre um mundo semelhante.
+
+— Platão, o filósofo grego?
+
+— Exato. Consoante o pensamento de Platão, este mundo visível, a realidade que percebemos, é o que ele denominou de *Ideia*. Trata-se de uma projeção do nosso mundo ideal, a pátria da alma humana. A Ideia seria o filme, e a existência terrena, meramente a tela onde ele é projetado.
+
+— É uma teoria interessante, de certa forma... — disse Chie, com os olhos a brilhar.
+
+— Interessante, sem dúvida, como filosofia. Mas não é prática — respondi, categórico.
+
+— De fato, não parece ter aplicação prática.
+
+— Esse modo de pensar também existe na América. Chama-se Ciência Cristã, uma espécie de terapia pela fé, desenvolvida há cerca de noventa anos por uma mulher chamada Mary Eddy. Essa doutrina também postula que toda a matéria é uma projeção do espírito. Embora a origem da matéria seja de fato espiritual, o corpo existe concretamente. Portanto, a Messianica, ao ensinar que o espírito é o principal e o corpo, o secundário, revela-se mais científica. Em outras palavras, mais pragmática.
+
+(Segunda Parte)
+
+— Ou seja, o alimento continua sendo necessário — concluiu Chie.
+
+— Exatamente! E isso me fez lembrar: hoje pensei em lhe oferecer *tororo-jiru*.
+
+— *Tororo-jiru*?
+
+— Sim, o famoso *tororo-jiru* de Mariko. Ou por acaso você não aprecia o prato? — provoquei-a com um toque de malícia.
+
+— Adoro! Mas não vim hoje para ser sua convidada. Tenho muitas coisas que gostaria de lhe perguntar...
+
+— Isso já estava claro em seu cartão. Mas creio que podemos conversar enquanto saboreamos o *tororo-jiru*, não?
+
+— Se o senhor insiste em ser irônico, também serei mordaz. Saiba que não estamos na estação do *tororo*...
+
+— Então, permito-me explicar. É verdade que a temporada já passou. A melhor época para o inhame, o *yamaimo*, é no inverno, quando suas folhas murcham. Quando brota, o sabor se altera. Até eu tenho conhecimento disso. Todavia, meu desejo de lhe oferecer *tororo-jiru* se deve ao fato de que quero lhe mostrar um templo em Mariko.
+
+— Mariko fica longe?
+
+— Uns vinte minutos de carro, talvez. É um vilarejo tranquilo, com montanhas, um riacho e um bosque de bambus. E nesse bosque, aninha-se um antigo e silencioso templo. Chama-se Saiya-ji, e lá eles nos servem o *tororo-jiru*.
+
+— Servem a refeição no templo? — perguntou Chie, com uma expressão de quem achava a ideia fascinante.
+
+— Veja só! Ao ouvir isso, seu interesse despertou. Há uma senhora muito amável lá, que prepara o prato a qualquer momento. Talvez lhe faça bem, de vez em quando, ouvir a minha "Religião do Amor" em um refúgio de tamanha serenidade — disse eu, em um tom meio jocoso.
+
+— Existe tal coisa como uma "Religião do Amor"?
+
+— Certamente. Um homem e uma mulher que se entregam a um amor arrebatador são, em geral, duas almas que viveram um amor trágico em uma vida passada. Por acaso, reencontram-se na existência atual, e o apego daquela época, profundamente gravado em seus espíritos, inflama-os de uma paixão cuja origem eles mesmos desconhecem. Por outro lado, há aqueles, homens ou mulheres, que permanecem solteiros por toda a vida. Estes, em uma existência anterior, sofreram uma grande calamidade em decorrência de uma relação amorosa. O arrependimento daquela época está tão enraizado em suas almas que, mesmo renascidos, sentem um recuo instintivo diante do sexo oposto. A fobia ao casamento acomete, invariavelmente, aqueles que tiveram uma morte violenta em vidas passadas.
+
+Dizendo isso, soltei uma gargalhada.
+
+— Que homem desagradável. Fala sozinho e ri sozinho... — disse Chie, fuzilando-me com o olhar.
+
+— Não, na verdade, isso é o que o Mestre Fundador ensina; não existe uma "Religião do Amor" de minha autoria. Mas, convenhamos, as vicissitudes do amor são profundamente misteriosas. Por isso, em vez de considerá-lo um fenômeno restrito a este mundo, a explicação se torna mais plausível com o auxílio da doutrina das três existências.
+
+Nesse instante, o carro que eu havia solicitado chegou.
+
+(Terceira Parte)
+
+O veículo atravessava a ponte de pedra sobre o rio Abe.
+
+— Eu quero acreditar em algo. O que o senhor me aconselharia? — perguntou Chie, subitamente.
+
+Refleti por um momento antes de responder.
+
+— Você por acaso decide se apaixonar e então se apaixona? Não creio. Quando se dá conta, a pessoa já se tornou inesquecível... É assim que geralmente acontece. Você acabou de dizer que deseja crer em algo, mas a verdade é que você já crê.
+
+— Mas não sei a que religião me filiar.
+
+— Qualquer uma serve. O importante é crer no Deus da Vida, que pulsa e permeia todo o universo.
+
+— E qual é o nome desse Deus? — inquiriu Chie.
+
+— No budismo, talvez O chamem de a Verdade Absoluta. No cristianismo, é, evidentemente, Deus Pai. No islamismo, reverenciam Alá, o Sol. Na Tenrikyo, chamam-No de Deus de Origem. Na Messianica... bem, será que o Mestre Fundador me repreenderia se eu O chamasse de Patrono Celestial?
+
+— O quê? Patrono Celestial? — Chie fez uma expressão curiosa.
+
+— Isso mesmo. Esse Patrono Celestial desceu dos céus e agora empreende um esforço diligente para irradiar uma luz resplandecente sobre a Terra. Para cumprir essa missão, Ele Se torna rei ou mendigo, homem de bem ou malfeitor — declarei, com convicção.
+
+— E esse Patrono não tem nome?
+
+— Seson Kanzeon Bosatsu. ...Descido a esta terra, manifestado como Komyō Nyorai e transformado em Ōjin Miroku... Assim está escrito na Oração Zengensanshi.
+
+— O senhor o chamou de "Patrono", então pensei que fosse um homem — disse Chie, rindo.
+
+— Você também partilha da crença de que Kannon (観音) é uma figura feminina, não é? Kannon não é homem nem mulher. Ou melhor, é ambos. Não é como nos filmes de samurai, mas Kannon pode se transformar em qualquer coisa: uma bela mulher, um espadachim, uma dama pérfida, um monge misterioso...
+
+— Então, o Mestre Fundador também é uma manifestação de Kannon?
+
+— Exatamente. É por isso que, embora não conheçamos bem a morada do Patrono Celestial, o Mestre Fundador a conhece intimamente, pois é a sua própria casa. Ele sabe até o que está esquecido no canto mais remoto do depósito.
+
+Ao dizer isso, trocamos um olhar e rimos em voz alta.
+
+— Gostaria de conhecê-lo um dia — disse Chie, com um tom suplicante.
+
+— Pois conheça-o. Ele tem setenta e dois anos, mas esbanja vigor. É estranho pensar que, no passado, foi um homem que era um verdadeiro depósito de doenças.
+
+— Ele é assustador? — perguntou Chie, encolhendo os ombros.
+
+— Não é assustador. Mas também não é apenas gentileza.
+
+— Como assim?
+
+— O próprio Jesus, a personificação da paz, disse que viera trazer o fogo e a espada. Maomé também deu a escolher: a espada ou o Alcorão. E Nichiren era um verdadeiro guerreiro; dizia que, se as palavras não resolvessem, avançaria cortando. O Mestre Fundador da Messianica também não vive a sorrir passivamente. Seu espírito crítico em relação aos males da sociedade é vigoroso. E todos os verdadeiros religiosos são assim.
+
+(Quarta Parte)
+
+— Ele já se irritou alguma vez?
+
+— Sim, e creio que muitas vezes. Com tantos obstinados nos mundos do Oriente e do Ocidente, talvez ele se irrite a ponto de não conseguir mais se irritar. Há o país que, mal os Estados Unidos começam a falar, já pensa em se retirar da mesa; e há aquele que, quando a União Soviética tenta dizer algo, tapa firmemente os ouvidos para não escutar. Ele se irrita e diz: "Ambos têm uma visão estreita!".
+
+— Que interessante! — exclamou Chie, animada.
+
+— É interessante, sim. Mas, por outro lado, ele é de uma ternura imensa. A simples visão de alguém ao seu redor com um semblante triste já lhe aperta o peito de uma forma dolorosa. Certa vez, o Mestre Fundador disse algo que me marcou...
+
+— O que foi?
+
+— Foram as palavras dele: "Ao acordar pela manhã, a primeira coisa que penso é no estado de espírito da minha família. Se um deles estiver de mau humor, eu também me sinto mal. Não há nada mais penoso para mim do que ouvir gritos ou lamentos. E ouvir a mesma queixa repetidamente também é bastante penoso." Palavras como essas do Mestre Fundador me tocam profundamente.
+
+— Que sensibilidade — disse Chie, também impressionada.
+
+— Não é? Em suma, o que ele diz é: "Eu serei o guia para a casa do Patrono Celestial, portanto, sigam-me todos. Estudem com afinco na casa do Patrono e tornem-se bons discípulos". Isto é a Messianica — afirmei, com plena convicção.
+
+Chie permaneceu em silêncio por um tempo, como se estivesse a ponderar. Por fim, disse:
+
+— Se cada dia for feliz, então a vida inteira será feliz. É dessa tranquilidade que preciso. Talvez eu devesse pedir para ser levada à morada do Patrono Celestial...
+
+— Realmente, há uma ligação — murmurei, como se falasse para mim mesmo.
+
+— Que ligação?
+
+— Há cerca de um ano, um desconhecido de Fujinomiya me trouxe um panfleto da Messianica. Isso foi uma ligação. E agora, você, ao ouvir minhas palavras, considera ir ao encontro do Patrono Celestial. Esta também é uma grande ligação. O mundo é tecido por essas conexões.
+
+O carro já havia deixado a estrada principal de Mariko e seguia por uma vereda tranquila, margeando o riacho. O templo Saiya-ji estava próximo.
+
+— Que momento agradável — disse Chie.
+
+— E é isso que importa. Isso é a felicidade. Não há necessidade de conceber a felicidade como algo extraordinário e cintilante. Se cada dia transcorre com alegria, não há vida mais esplêndida. Existe o provérbio: "Todo dia é um bom dia". O mestre de Hakuin, Shoju Rojin, falava em "viver um dia de cada vez como um santo". E "não vos inquieteis com o dia de amanhã" são palavras de Jesus. A cada dia basta o seu mal. Na Tenrikyo, fala-se em "viver com alegria". Na Messianica, ensina-se o "Princípio da Ordem". Esta é uma palavra magnífica. Se desejamos viver cada dia com alegria, devemos refletir profundamente sobre o significado do Princípio da Ordem.
+
+(Quinta Parte)
+
+Descemos do carro em frente ao portão do templo Saiya-ji. A luz do sol não alcançava aquele recanto, e o templo, imerso no bosque de bambus, era de uma quietude tão profunda que mal se percebia sua presença.
+
+Ao subirmos à sala de visitas, fui direto ao ponto:
+
+— A propósito, a verdadeira razão de nosso encontro hoje: o que aconteceu com aquela proposta de casamento?
+
+— Eu a recusei — respondeu Chie, com firmeza.
+
+— Entendo. Imagino que tenha sido uma decisão ponderada, e por isso, está correta. Mas qual foi o motivo da recusa? Parecia uma excelente oportunidade... — disse eu, como se questionasse a mim mesmo.
+
+— A verdade é que não consigo esquecer meu falecido marido — confessou Chie, com sinceridade.
+
+— Que invejável — comentei. Minhas palavras não continham, creio eu, nenhum tom de zombaria.
+
+— Por quê? Por que uma viúva seria invejável?
+
+— Não, não é isso. Não invejo a condição de viúva. O que quero dizer é que, no mundo, existem muitas "viúvas de maridos vivos". Mulheres que, embora casadas, vivem como se não fossem, sem afinidade de alma ou de corpo, partilhando apenas o mesmo teto. Essas esposas são como viúvas. Pior, são muito mais dignas de pena do que você, que vive nutrindo suas memórias. Conheço uma senhora que, certa vez, sorriu com tristeza e me disse: "Eu sou o oposto de uma companheira em união estável". Quando perguntei o que queria dizer, ela explicou que, embora o casamento estivesse devidamente registrado, ela não ocupava o lugar de esposa, nem física nem espiritualmente.
+
+— Uma velha amiga minha vive uma situação semelhante. Seu marido foi um homem de muitos excessos na juventude, e a juventude dela foi de uma austeridade desoladora. Agora, já envelhecido, ele lhe diz: "Se você se sente só, pode ter um amante. Eu não sentirei ciúmes". Imagine só, o que é isso? Compaixão? Curiosidade? A esposa, ao ouvir isso, chorou. Disse que não havia esposa mais miserável no mundo...
+
+Enquanto conversávamos, o *tororo-jiru* que havíamos pedido chegou.
+
+O prato, servido sobre arroz quente, estava delicioso. Talvez o sabor fosse ainda mais especial por estarmos a contemplar o jardim de estilo clássico.
+
+— Está delicioso — disse Chie, com os olhos semicerrados de prazer.
+
+— Se você conseguisse ser sempre assim, tão sincera, seria admirável — comentei, com seriedade.
+
+— Mas eu penso que sou sempre sincera...
+
+— Então me permita perguntar: se um homem a elogiasse, dizendo que você é bela?
+
+— Que homem detestável!
+
+— Veja só. Mesmo uma pessoa honesta como você não consegue ser completamente sincera. Antigamente, havia uma bela monja que, para afastar as constantes tentações, marcou o próprio rosto com um ferro em brasa. Não gosto muito dessa história. Se ser cortejada por sua beleza atrapalha a prática espiritual, então todas as monjas com uma aparência acima da média teriam de queimar o rosto. Ser bela é algo bom. Se for elogiada, basta dizer: "Fico feliz em ouvir isso".
+
+(Sexta Parte)
+
+— Ouvir isso me tranquiliza. Nesse caso, aceito mais uma porção.
+
+Dizendo isso, Chie sorriu, radiante.
+
+— Excelente. Essa sinceridade é ótima.
+
+Chamei a senhora e pedi mais uma porção de *tororo-jiru*.
+
+— Há pouco, você disse que não conseguia esquecer seu falecido esposo. Você só se deu conta disso quando surgiu a proposta de casamento?
+
+— Eu ouvi a voz do meu marido — disse Chie, como se contasse algo corriqueiro.
+
+— Compreendo — respondi, sentindo como se também ouvisse algo perfeitamente natural.
+
+— Ouvi com clareza. Em plena luz do dia, na varanda, ouvi-o chamar meu nome. Era uma voz como um relâmpago, que descia em linha reta das profundezas do céu azul. Foi então que me decidi. Compreendi que não queria me casar novamente. Pois a certeza de que meu marido está vivo tornou-se, naquele momento, irrefutável.
+
+— Tenho uma amiga poetisa que escreveu um poema intitulado "Comunicação do Mundo Espiritual". Ela é viúva de guerra e conta que, certa tarde, em seu escritório, o telefone tocou. Ao atender, ouviu, vinda de um lugar distante e profundo, a voz de seu falecido marido. O que mais me impressionou, contudo, não foi o fato de ter ouvido a voz do falecido, mas sim que, no instante em que o telefone tocou, ela pensou: "Ah, é uma ligação do meu marido". Não é uma comunhão espiritual sublime?
+
+— Eu entendo perfeitamente — murmurou Chie.
+
+— Mesmo as pessoas que negam o Mundo Espiritual com a razão, no fundo de seus corações, o afirmam. Quando um ente querido falece, por que se agarram ao corpo, chorando e suplicando? Não é por acreditarem que o morto tem ouvidos. Assim como não tem boca, também não tem ouvidos. Mas o fazem por crerem que algo sobrevive à morte. Veja, está no *Hyakunin Isshu*: "Por uma memória além deste mundo efêmero, se ao menos pudesse te encontrar mais uma vez". Além deste mundo efêmero... Em outras palavras, o outro mundo, a pátria do espírito. Aqueles que afirmam categoricamente que tal lugar não existe e não sentem nenhuma desolação são, na verdade, dignos de pena. Pois conseguem viver tranquilamente com a ideia de que, após a morte, tudo se resume ao vazio.
+
+Enquanto eu discorria longamente, a segunda porção chegou.
+
+Tanto eu quanto Chie sorvemos tudo. Depois, nos olhamos e sorrimos.
+
+O vento começou a soprar. As folhas de bambu sussurravam suavemente.
+
+— Vamos caminhar um pouco para fazer a digestão antes de voltar — sugeri.
+
+— Sim, vamos caminhar — concordou Chie.
+
+Deixamos o templo.
+
+Caminhamos sem pressa em direção ao ponto de ônibus.
+
+Uma nuvem branca solitária flutuava sobre a montanha.
+
+— Que nuvem linda... — disse Chie.
+
+"Tudo o que é belo, seja animado ou inanimado, é simplesmente belo", pensei eu.
+
+(Sétima Parte)
+
+Chegamos de ônibus à estação de Shizuoka. Um trem que vinha do interior acabara de chegar, e uma multidão desembarcava.
+
+Chie comprou rapidamente sua passagem e disse:
+
+— O *tororo-jiru* estava delicioso.
+
+E atravessou a catraca a passos rápidos.
+
+Ao subir as escadas para a plataforma, ela se virou em minha direção e fez uma reverência. Provavelmente se dera conta de que, na pressa, nem se despedira.
+
+Saí pela entrada principal da estação. Ao atravessar por entre os ônibus enfileirados e caminhar em direção à loja de departamentos Matsuzakaya, deparei-me com o senhor Kouzou Fujiyama. Ele é um membro da Messianica e, segundo me dissera, proprietário de uma loja de roupas no bairro de Isezakicho, em Yokohama.
+
+Contudo, ele parecia não me reconhecer e passou direto.
+
+Toquei-lhe o ombro por trás e chamei:
+
+— Há quanto tempo, senhor Fujiyama.
+
+Ele se virou e me olhou com uma expressão de dúvida, até que finalmente pareceu se lembrar.
+
+— Ah, daquela vez em Atami...
+
+— Isso mesmo. O senhor me ensinou muitas coisas sobre a Messianica... — agradeci.
+
+— Peço desculpas por não o ter reconhecido. Eu estava com um pouco de pressa... — disse o senhor Fujiyama, tirando o chapéu, constrangido.
+
+— Está com pressa?
+
+— Sim, estou a caminho de Hamamatsu a negócios. Apenas fiz uma breve parada aqui.
+
+— Que tal tomar um chá comigo?
+
+— Bem... acho que posso pegar o próximo trem.
+
+Conduzi o senhor Fujiyama a uma cafeteria em frente à estação. Pedimos café e doces.
+
+— E então, como tem passado? — perguntou o senhor Fujiyama, com um sorriso em seu rosto redondo.
+
+— Naquela época, eu não entendia nada, mas agora compreendo muito mais. Mais do que entender a doutrina, acabei me afeiçoando ao Mestre Fundador, não pela lógica, mas pelo coração — disse eu, tomando um gole do café que acabara de chegar.
+
+O senhor Fujiyama também pegou sua xícara.
+
+— Religião e romance não são a mesma coisa, mas, no mínimo, se não nos apaixonarmos pela figura do Mestre ou do Fundador, a jornada perde a graça, não é mesmo? Mas por que o senhor se afeiçoou ao Mestre Fundador?
+
+— Perguntar "por que" não combina com o senhor, Fujiyama. Um amor que se justifica por "me apaixonei pelos olhos dela" ou "pela sua maneira de andar" raramente é duradouro. Eu me apaixonei por tudo. Foi um encantamento completo. Mas, para explicar melhor, o que me cativou foi sua postura de "elogiem-me ou critiquem-me, a escolha é sua". É a mesma honestidade de Cristo na cruz, quando exclamou: "Meu Deus, meu Deus, por que me abandonaste?". Aquela sinceridade... — disse eu, com profunda emoção.
+
+— Compreendo perfeitamente. A grandeza de Meishu-Sama reside em sua sinceridade, pura como a de uma criança — respondeu o senhor Fujiyama.
+
+(Oitava Parte)
+
+— Sim, eu também penso assim — afirmei, com clareza.
+
+— Na época daquele incidente... os membros da Messianica o chamam de perseguição religiosa. Eu, pessoalmente, acredito que foi uma tribulação puramente legal, não religiosa, mas, de qualquer forma, a maioria dos fundadores, ao retornar da delegacia, se gabaria. Diriam algo como: "Eu dei uma bronca no chefe de polícia!". Mas Okada, ao contrário, confessou com honestidade: "Fui atormentado pela guerra psicológica do interrogatório, foi insuportável". Essa sinceridade é algo difícil de imitar.
+
+Então, o senhor Fujiyama, como se tentasse ler o fundo da minha alma, disse:
+
+— Contudo, não creio que seja apenas por isso que o senhor apoia a Messianica. Penso que deve haver uma razão mais fundamental...
+
+— O senhor tem toda a razão. Não me afeiçoei apenas à pessoa do Mestre Fundador. Algo extraordinário aconteceu comigo.
+
+— Extraordinário? — perguntou o senhor Fujiyama, inclinando-se para a frente.
+
+— Sim. Eu obtive a prova de que algo também emana da minha própria palma.
+
+Dizendo isso, bebi o restante do café de um só gole. Os olhos do senhor Fujiyama brilhavam.
+
+— Aconteceu há cerca de um mês. No meio da noite, minha esposa começou a sentir uma dor lancinante. Queixava-se de uma pontada aguda no peito. Fiquei aflito. Já passava da uma da manhã. Pedi que tentasse aguentar até o amanhecer, se possível, mas ela apenas gemia, pressionando o peito. Foi então que, de repente, me ocorreu tentar o Johrei. Com um sentimento misto de me aproximar da essência da Messianica e de desferir um golpe em minha própria visão de mundo, decidi arriscar. Como não sou membro, não possuo o talismã sagrado concedido pelo Mestre Fundador. Contudo, pensei que, se houvesse eficácia, ela deveria se manifestar mesmo sem o talismã manuscrito. Rapidamente, recortei a reprodução da caligrafia das duas letras "Kōmyō" (Luz) de um panfleto da Messianica e a coloquei no bolso. Se a linha espiritual de Kannon, detentora de um poder miraculoso, penetra diretamente no corpo do Mestre Fundador, então sua caligrafia, mesmo que em reprodução, certamente me conectaria a esse poder. Mesmo que eu não tivesse poder algum, essa imagem certamente atuaria por si só. Então, do jeito que estava, posicionei minha mão a cerca de trinta centímetros do corpo da enferma. No entanto, não houve reação aparente. Tentei, então, mover a mão um pouco mais para baixo. Passados talvez dez minutos, minha palma começou a aquecer, como se a brasa de um cigarro se aproximasse. Ao mesmo tempo, a enferma disse que seu estômago estava quente. Como estava de olhos fechados, ela não podia ver onde minha mão estava. Ela repetia: "Ah, que quente, que quente...".
+
+Nesse ponto, fiz uma breve pausa.
+
+(Nona Parte)
+
+— E então? — insistiu o senhor Fujiyama.
+
+— Enquanto mantinha a mão posicionada, o calor que eu sentia desapareceu. Movi então a palma para a parte inferior do abdômen. Passados mais uns dez minutos, minha mão voltou a aquecer, novamente como se a brasa de um cigarro estivesse próxima. E a enferma exclamou: "Ah, esquentou de novo!". Disse que parecia ter uma bolsa de água quente. Pouco depois, ela se levantou para ir ao banheiro e, ao retornar, estava completamente curada. Não sei como descrever a estranha sensação que essa experiência me causou. Contudo, o fato inexplicável de que minha palma fez a dor no peito descer gradualmente até ser expelida do corpo me fez refletir sobre muitas coisas.
+
+Esperando que eu terminasse, o senhor Fujiyama sorriu e disse:
+
+— Exatamente. A Messianica é uma religião extremamente simples e prática. Valorizamos os fatos mais do que as teorias. É melhor ser curado sem entender a teoria do que entender a teoria e não ser curado, não concorda? E isso, para o senhor, pode ter sido o primeiro milagre. Mas, para mim, não há nada de milagroso nisso. É algo perfeitamente natural.
+
+— No entanto, foi a partir desse momento que passei a compreender a Messianica com o espírito, e não com o intelecto.
+
+— Que relato fascinante. Valeu a pena ter perdido um trem.
+
+— Mas esta história, ainda não a contei a ninguém. O senhor é o primeiro a ouvi-la.
+
+— Para o senhor, foi o primeiro milagre, mas talvez seja melhor manter silêncio até o momento certo — aconselhou o senhor Fujiyama.
+
+— Deixando isso de lado, depois do ocorrido, lembrei-me de algo que o Mestre Fundador disse certa vez, e isso me deixou pensativo. Ele afirmou: "Normalmente, por mais que minha esposa sofra, eu jamais lhe ministro Johrei, a menos que ela me peça. Parece insensibilidade, mas não é. O ser humano tem dessas coisas, de criar enigmas. E o pior de tudo é a venda forçada...". Era algo nesse sentido. Pensei se o meu caso não se enquadraria nisso. Pretendo perguntar ao Mestre Fundador quando o encontrar...
+
+— Não se pode chamar isso de venda forçada. No seu caso, o que prevaleceu, sem dúvida, foi a sua sinceridade.
+
+Dizendo isso, o senhor Fujiyama consultou o relógio de pulso.
+
+— Já é hora do trem. Vamos — disse eu, levantando-me da cadeira.
+
+Paguei a conta e, ao sairmos, o céu já escurecia.
+
+Nós nos despedimos em frente à cafeteria.
+
+Ao chegar em casa, encontrei um cartão-postal sobre a escrivaninha. Era do escritório da Messianica, e dizia: "As azaleias do Zuiun-kyō, em Momoyama, Atami, estão em plena floração. Venha vê-las antes que as flores caiam".
+
+---
+
+# Publicações Correlatas — A Doutrina da Igreja Messiânica —
+
+**Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
+
+## Publicações Correlatas — A Doutrina da Igreja Messiânica —
+## — Acerca da Teoria do Yakudoku —
+Por Ei Iwasaki, do livro *Crítica à Igreja Messiânica*, publicado em 25 de setembro de 1951 pela Nihon Shūkyō Shimbunsha.
+
+No que tange à religião e a Deus, a massa intelectualizada, desprovida de qualquer conhecimento sobre o tema e devotada exclusivamente à lógica materialista, demonstra uma propensão a enxergar toda e qualquer religião como superstição. Essas pessoas tendem, ademais, a rechaçar como "superstição" tudo aquilo que não pode ser dissecado pelo senso comum ou pela ciência, tudo o que lhes parece desprovido de lógica.
+
+Contudo, aquilo que transcende a capacidade de compreensão da mente comum, aquilo cuja racionalidade e pertinência não podem ser desvendadas por suas faculdades — o que se denomina mistério, o sublime e grandioso — é precisamente a essência de "Deus". A religião, por sua vez, é o que conduz os incontáveis milhões de ovelhas desgarradas sobre a Terra a este mesmo "Deus"; todavia, os materialistas pragmáticos são incapazes de perceber tal verdade. Trata-se de uma situação verdadeiramente lastimável. São almas sem afinidade espiritual, um grupo de difícil salvação.
+
+Segundo a lógica deles, tanto o Nirvana de Buda quanto o nascimento virginal de Cristo não passariam de um embuste fantasioso, urdido por mercenários da fé com o propósito de enriquecer.
+
+Como a classe intelectual japonesa interpreta o fato de que, nos Estados Unidos, na Inglaterra, na França, na Alemanha e em todas as demais nações culturalmente desenvolvidas do exterior, seus maiores acadêmicos, santos, filósofos, estadistas e educadores são, em sua maioria, fervorosos e humildes devotos do cristianismo? Seria prudente refletir reiteradamente sobre a experiência recente: que resultado se viu quando nações como a Grã-Bretanha, os Estados Unidos e a França, onde a fé em Deus é profunda, entraram em guerra contra o Japão dos senhores, que rechaçam a religião como mera superstição? E quais soldados, afinal, demonstraram maior humanidade para com os povos dos territórios ocupados?
+
+Para o bem da dita classe intelectual, que sequer possui a capacidade de discernir entre a fé verdadeira e a superstição, deixemos essa distinção devidamente esclarecida. Uma religião cujos ensinamentos contêm preceitos imorais é superstição, é uma doutrina pervertida, uma fé maligna. Em contrapartida, a fé verdadeira, a religião genuína, é aquela que atua como uma fonte a prover a ética e a moral aos seres humanos; ou seja, aquela que cultua um Deus de tal magnitude sagrada.
+
+Há quem afirme que religiões que realizam prodígios e prometem graças materiais para arrecadar vultosas somas de dinheiro são fraudulentas, meros empreendimentos religiosos. Consideram-nas um inadmissível estelionato intelectual. Todavia, os milagres são um componente inerente à verdadeira religião. Fenômenos que transcendem o senso comum, que não podem ser perscrutados pela limitada inteligência humana, ocorrem e se manifestam. Este é o poder de Deus, a própria razão de ser da religião.
+
+A purificação do espírito e do corpo aflitos, da sociedade e da nação corruptas, por meio de uma fé inabalável, visando à sua plena recuperação — esta é a função primordial da religião e o motivo da fé. A concretização daquilo que é impossível pela força humana: isso é um milagre. E reaver a felicidade perdida por meio desse milagre, encontrar o Paraíso na Terra: estas são as graças neste mundo. Por que isso seria condenável? Por que seria reprovável?
+
+Tanto Buda quanto Cristo, assim como seus apóstolos, realizaram inúmeros milagres, para o deleite de muitos homens e mulheres de bem. Isso é aceitável, é reconhecido. Mas por que a realização desses mesmos atos por religiosos de hoje, e o regozijo de homens e mulheres de bem da atualidade, configuram uma fraude e uma superstição? Que confusão de raciocínio é esta?
+
+Muitos consideram impróprio que as novas religiões do Japão contemporâneo acumulem fortunas de milhões. Com efeito, é provável que uma religião como a Igreja Messiânica tenha arrecadado dezenas ou centenas de milhões. Contudo, isso é perfeitamente natural. Com trezentos mil fiéis, se cada um ofertar cem ienes por ano, o montante já atinge a cifra expressiva de trinta milhões. A alegria de quem recebe uma graça o levará a oferecer espontaneamente donativos de milhares de ienes. Um fiel abastado fará doações de dezenas ou centenas de milhares. Assim é o curso natural das coisas. Jamais existiu, em tempo algum, uma organização religiosa que não recebesse donativos de seus seguidores. Se porventura existisse, certamente não seria uma religião próspera.
+
+Deve-se admitir que, quanto maior o número de fiéis e maior o montante dos donativos, melhor. O ponto crucial não reside na quantia, mas na destinação desses vultosos e sagrados donativos. Se esse dinheiro for utilizado pelo líder religioso e seus dirigentes para financiar um estilo de vida que beira o criminoso, isso é absolutamente inaceitável. Quando os recursos são empregados para sustentar uma vida de imoralidade, desonra e esbanjamento, trata-se de uma fé maligna, de uma religião fraudulenta que deve ser punida com rigor. Certamente não faltam religiosos abomináveis dessa estirpe.
+
+Entretanto, nas organizações religiosas respeitáveis, tais donativos são invariavelmente canalizados para construções adequadas e para obras sociais. Observe-se o vigoroso empenho das diversas denominações cristãs na administração de escolas, na gestão de hospitais e em outras iniciativas culturais. Veja-se o quanto das sinceras oferendas dos fiéis é investido nessas áreas. O mesmo se aplica ao budismo no Japão.
+
+E quanto à Igreja Messiânica, que os senhores intelectuais consideram um exemplo paradigmático de religião fraudulenta e mercantilista? Que tipo de plano divino, com que grandiosas aspirações, ela está a desenvolver em Atami e Hakone? Em que consistem o plano e a escala da chamada "construção do Paraíso Terrestre" do Reverendo Mokiti Okada? Será que suas críticas nascem de terem visitado esses locais ao menos uma vez? Seus ataques são fruto de terem ouvido diretamente os ensinamentos, ao menos em uma ocasião?
+
+A Igreja Messiânica ensina que, para as doenças, o tratamento pela purificação por meio da fé é mais importante do que o tratamento médico e farmacêutico. Na agricultura, defende veementemente a eliminação de adubos químicos, dejetos humanos e quaisquer outros fertilizantes artificiais. Em razão disso, vozes se erguem em alta voz, acusando-a de insensatez, obscurantismo, imoralidade e crime.
+
+Outrora, Cristo disse: "Pois eu vim para pôr o filho contra seu pai". Sob a ótica do senso comum, trata-se de uma afirmação terrivelmente subversiva; no entanto, essas palavras de Jesus tocam nossos corações e aprofundam nossa emoção. Cristo não estava, de modo algum, a exigir desrespeito filial ou atos desumanos. O que ele ensinava era a necessidade de se opor ao egoísmo de pais ignorantes e desavergonhados em nome de uma devoção filial ainda maior, de uma moralidade mais sublime.
+
+Da mesma forma, os ensinamentos da Igreja Messiânica sobre a questão dos medicamentos e sobre a Agricultura Natural, que preconiza a eliminação dos adubos artificiais, podem, à primeira vista, parecer assustadoramente equivocados. Contudo, ao se examinar os fatos e aprofundar-se na verdade subjacente, encontra-se ali algo que nos leva a concordar com profunda convicção.
+
+"Seguindo os preceitos da Igreja Messiânica, abandonamos todo tratamento médico e farmacêutico e confiamos exclusivamente no Johrei, mas nosso querido filho acabou morrendo. Portanto, a Igreja Messiânica é uma fraude, é abominável." É comum ouvir calúnias dessa natureza. Jornais publicam tais rumores em tom triunfante. No entanto, as pessoas que pensam dessa forma parecem não levar em consideração um fato extremamente simples e solene: o de que todos os seres humanos, invariavelmente, morrem.
+
+Ainda assim, muitos afirmam que os ensinamentos da Igreja Messiânica — de se afastar ao máximo dos medicamentos e de praticar uma agricultura em harmonia com a natureza, eliminando os adubos artificiais — são deveras excêntricos e absurdos. Contudo, tanto Buda quanto Cristo ensinaram a não depender de remédios, mas a confiar unicamente em Deus e em Buda.
+
+Ao ouvir o nome Yakushi Nyorai, alguns talvez o imaginem como o patrono das farmácias e dos médicos. Na China, houve quem tivesse a ideia de representar a imagem deste Nyorai segurando um pote de remédios. No entanto, o nome "Yakushi" resultou apenas de uma transliteração fonética do termo sânscrito para caracteres chineses. O próprio Yakushi Nyorai proferiu: "Aqueles que tiverem suas faculdades incompletas, que forem surdos, cegos, coxos, mancos, que sofrerem de demência ou loucura, e mesmo aqueles com as mais diversas enfermidades físicas, ao ouvirem meu nome, terão todas as suas faculdades restabelecidas e sua constituição física se tornará plena. Aqueles que, afligidos por graves padecimentos, se encontrarem desamparados, sem auxílio e distantes de todos os recursos médicos e farmacêuticos, ao ouvirem meu nome, verão todas as suas aflições serem erradicadas." Yakushi Nyorai é da mesma essência que Dainiti Nyorai e Buda Sakyamuni.
+
+Na época em que Buda viveu, a prática da medicina já existia na Índia. E no Egito, assim como na Judeia, a arte da medicina já florescia há centenas de anos antes de Cristo.
+
+A Igreja Messiânica, contudo, não rejeita de forma absoluta o tratamento médico. Não proíbe estritamente que se consulte um médico ou que se tomem medicamentos. Apenas atribui uma importância imensa ao dano causado pelo *yakudoku*, o veneno dos remédios, seja por via oral ou por injeção.
+
+De fato, a gravidade dos efeitos colaterais dos medicamentos é um fato claramente reconhecido até mesmo por médicos e outros cientistas. No Japão, não são poucos os médicos e cientistas que defendem abertamente a tese dos malefícios do *yakudoku*. E, em âmbito mundial, também não é pequeno o número de pessoas que reconhecem os danos causados pela introdução de substâncias farmacêuticas no corpo humano e advogam por sua eliminação.
+
+Em uma das publicações da Igreja Messiânica, consta o seguinte artigo investigativo:
+
+O professor Alonzo Clark, da Faculdade de Medicina de Nova York, afirma: "Todos os medicamentos possuem natureza tóxica; portanto, quanto mais se administram, mais debilitam a vitalidade do paciente."
+
+O professor Joseph M. Smith, da mesma instituição, também declara: "Quando a maioria dos fármacos se mistura ao sangue, seu veneno acarreta um resultado análogo à ingestão de uma peçonha, diminuindo a vitalidade dos glóbulos sanguíneos."
+
+O professor Alexander H. Stephens, seu colega, observa: "Um médico jovem, no início de sua carreira, costuma manter um arsenal de vinte tipos de novos medicamentos para uma única doença, começando com grande entusiasmo. No entanto, após cerca de trinta anos de prática, ele passa a tratar vinte tipos diferentes de doenças com um único e mesmo remédio, sem qualquer hesitação. Quanto mais profunda a experiência clínica de um médico, mais ele desperta da superstição sobre a eficácia dos remédios, passando finalmente a depositar sua confiança na força vital da natureza."
+
+O doutor René Allendy, da França, pondera: "É um fato inegável que, desde que a vacinação contra a varíola se popularizou e se tornou compulsória, a tuberculose, curiosamente, tem apresentado um aumento vigoroso."
+
+Na Itália, o boletim da Associação Médica de Viena já publicou casos concretos, afirmando que "catorze em cada mil crianças desenvolveram escrofulose devido à vacinação."
+
+O doutor Pierron, de Bordeaux, também sustenta que "a suscetibilidade dos adultos à tuberculose se deve à vacinação na infância."
+
+O doutor Stratemaker, da Holanda, quando ocupava o cargo de Ministro do Trabalho, propôs em uma conferência a suspensão da vacinação em todo o país. Nessa conferência, realizada em Haia, em 1927, o doutor Hoffman apresentou uma lista de cento e dezoito casos concretos de crianças que desenvolveram terríveis doenças do sistema nervoso por causa da vacina.
+
+O governo britânico, após consultar comitês locais sobre a mesma questão, também confirmou que a encefalite letárgica era causada pela vacinação.
+
+O professor Charles T. Tyrrell, dos Estados Unidos, assevera: "Os medicamentos não curam as doenças. Eles não apenas deixam de auxiliar as funções curativas da natureza, como, ao contrário, as retardam."
+
+O doutor Ames, aclamado como um médico de renome no estado do Alabama, nos Estados Unidos, relatou: "No tratamento da pneumonia com medicamentos convencionais, era comum os pacientes se queixarem de dor, apresentarem súbita debilidade, desenvolverem complicações ou, mesmo mostrando sinais de melhora, falecerem repentinamente."
+
+O doutor William H. Tuthill, professor da Faculdade de Medicina da Universidade de Yale, narra: "Certa vez, uma pneumonia tifoide se alastrou por um vilarejo próximo ao rio Connecticut, e todos os pacientes que recorreram ao tratamento médico vieram a óbito. Diante disso, os aldeões começaram a dizer que eram os médicos que agravavam a doença e, contrariando a lei estadual, recusaram-se terminantemente a receber tratamento. Surpreendentemente, todos os doentes se recuperaram por completo."
+
+Por mais que venha do doutor William, esta última frase pode soar um tanto duvidosa ao nosso senso comum. Contudo, o registro de sua aula na referida universidade, onde proferiu essas palavras, está devidamente documentado.
+
+A Igreja Messiânica, no entanto, não faz afirmações tão extremas, ensinando a rejeição absoluta da medicina. Apenas alerta para os terríveis efeitos colaterais dos medicamentos, enquanto preconiza a ministração do Johrei para auxiliar a recuperação natural.
+
+O Reverendo Okada ensina: "O ser humano é chamado de 'senhor de toda a criação', pois nele o espírito é o principal, e o corpo, a matéria, é o secundário — em suma, o princípio do Espírito como mestre e do Corpo como servo. Todas as doenças se originam dos descaminhos da vida, da impureza e da falta de virtude. Portanto, se, por meio do Johrei, eliminarmos todos esses males, as doenças, em sua essência, curar-se-ão naturalmente. A febre, a supuração, a dor e todos os sofrimentos e aflições da doença são, na verdade, manifestações do processo de cura que a própria natureza está realizando."
+
+Ele também afirma:
+"Eu devoto corpo e alma a escrever caracteres em papel. É um esforço para atender, na medida do possível, aos pedidos de inúmeros fiéis e lhes proporcionar satisfação. Eles, por sua vez, usam esses escritos junto ao corpo como amuletos sagrados. E, quando se deparam com um doente, esses fiéis posicionam-se a alguns palmos de distância e, com a palma da mão estendida, irradiam o espírito. Com isso, o sofrimento da doença é aliviado, quase sem exceção. Pessoas à beira da morte, desenganadas pelos médicos com doenças consideradas incuráveis, recuperam-se completamente por meio deste método de Johrei praticado por meus seguidores e retomam uma vida vigorosa. Casos assim ocorrem em número incontável, todos os dias.
+
+Ressuscitar os mortos, tornar o impossível possível, prolongar a vida humana. O mundo se alvoroça com isso, tratando-o como um fenômeno estranho e misterioso, mas a gratidão das pessoas salvas dessa forma se acumula ao meu redor diariamente, como uma montanha.
+
+Manter o amuleto sagrado junto ao corpo e estender a palma da mão — este é o método do Johrei. E são inúmeros os casos em que, por meio dele, ladrões foram afugentados ou desastres inesperados foram evitados.
+
+Os milagres são especialmente notáveis na agricultura: campos de trigo prestes a morrer que revivem com o Johrei, pragas que são eliminadas, colheitas que apresentam um aumento inesperado, animais de criação como bois e cavalos desenganados por veterinários que se recuperam. E, na vida humana, a pobreza é superada, e lares sombrios se enchem de luz.
+
+Muitas vezes, as pessoas me dizem coisas como:
+'Quando olho para os caracteres que o senhor escreveu, a própria forma das letras se transforma em luz, que se dispersa em incontáveis partículas e dança no espaço.'
+Ou ainda:
+'Vejo em seu abdômen uma esfera brilhante e luminosa, do tamanho de uma pequena bola de borracha. E de sua palma, irradia-se uma luz intensa.'
+
+De fato, em meu corpo, um poder de irradiação do espírito divino é constantemente infundido. Isso ocorre porque Deus está usando meu corpo para executar Seu plano divino no mundo, fazendo-me manifestar o Paraíso na Terra. A 'Bola de Luz' que habita meu corpo irradia incontáveis partículas de luz por meio de fios espirituais. Em outras palavras, o poder de irradiação divina concedido por Deus é, por sua vez, irradiado por mim através desses fios espirituais. Essas partículas são moléculas infinitesimais de luz que, com um poderoso efeito bactericida, expelem e aniquilam todos os germes patogênicos e outros venenos."
+
+A Bola de Luz mencionada pelo Reverendo Okada — e também pelos fiéis — corresponde, em meu entendimento, à "Joia que Realiza os Desejos" (*Nyoi Hōju*), mencionada nas escrituras budistas. No budismo esotérico Shingon, existe uma prática ritualística denominada "O Rito da Joia que Realiza os Desejos". Em termos concretos, a joia que habita o corpo do Reverendo Okada está conectada à Joia que Realiza os Desejos do Deus Messias e, por sua vez, conecta-se também às centenas de milhares de fiéis que portam o amuleto sagrado.
+
+### Sobre a Agricultura Natural
+
+A proposta da Agricultura Natural, com a eliminação dos adubos artificiais, que o Reverendo Okada foi o primeiro a proclamar no mundo, não é, de forma alguma, uma excentricidade. Ela já vem sendo defendida por diversas pessoas ao redor do globo, e muitos já a colocam em prática.
+
+Por exemplo, o senhor Rodale, que administra uma grande fazenda na Pensilvânia, Estados Unidos, afirma:
+"Atualmente, tanto a humanidade quanto os animais de criação no mundo todo se tornaram extremamente doentios e de vida curta. A causa disso é o consumo de alimentos e rações produzidos com fertilizantes químicos. Com o auxílio de rações concentradas e seleção de raças, as vacas leiteiras passaram a produzir grandes quantidades de leite, mas essas vacas não são verdadeiras vacas leiteiras, e seu leite também não é verdadeiro leite. Em minha fazenda, não uso absolutamente nenhum fertilizante ou produto químico. Portanto, nem as pessoas nem os animais consomem produtos cultivados com químicos, e jamais compramos alimentos desse tipo de outras fontes. A alimentação das pessoas que trabalham em nossa fazenda e a ração dos animais aqui criados provêm exclusivamente de cultivos realizados em 'solo vivo'."
+
+Ele ainda acrescenta:
+"Doenças e medicamentos estão em uma competição mútua. Quando um novo remédio é criado, imediatamente surge uma nova doença. Esse fenômeno não existia antigamente. Nem é preciso perguntar aos mais velhos; antigamente, não existiam coisas como vitaminas em cápsulas. Cálcio, ferro, iodo — nada disso era ingerido a partir de 'medicamentos'. Não havia necessidade. Por que os seres humanos passaram a precisar de remédios? A culpa é da degeneração da agricultura. E mais: os agricultores, para praticar essa agricultura baseada em fertilizantes químicos que está trazendo uma tragédia à humanidade, acumulam enormes dificuldades e prejuízos econômicos.
+
+Em minha fazenda, não usamos nada além de composto orgânico. Tudo é feito com composto, o composto é onipotente. Empilhamos como composto todos os restos de colheita, folhas, ervas daninhas, algas marinhas, restos de vegetais da cozinha — tudo isso. Dentre eles, as folhas de árvores são as melhores. As folhas contêm uma quantidade imensa de nutrientes. As raízes das árvores penetram dez, vinte palmos de profundidade no solo, alcançando o chamado subsolo, de onde absorvem minerais inorgânicos como fosfato e potássio e os enviam para as folhas. Essas folhas, abençoadas com tais elementos, eventualmente se decompõem, tornando-se húmus e fertilizando a camada superficial do solo.
+
+Até as folhas que caem com o vento do outono eu empilho para fazer composto. Deixo-as decompor por dois ou três meses, regando-as e revolvendo-as de vez em quando. Pedaços de madeira e galhos também são triturados e adicionados à pilha. No lixo, há papel, mas este é um problema e deve ser removido. O papel contém alvejantes e outros produtos químicos, e o material impresso está impregnado com a terrível toxicidade da tinta.
+
+Em nossa América (e provavelmente em todo o mundo), o declínio anual da saúde humana é considerado um problema grave. Nos Estados Unidos, as instalações de saneamento são completas, a medicina e a higiene avançaram, e as instituições de proteção social são adequadas. No entanto, apesar de tudo isso, doenças degenerativas como câncer, neuralgia e doenças cardíacas estão aumentando de forma alarmante. Nos últimos quarenta anos, as doenças cardíacas aumentaram 60%; o câncer, 90%. Doenças como a poliomielite também aumentam a cada ano, e novas enfermidades, até então desconhecidas, surgem anualmente."
+
+Uma pesquisa de 1944 revelou que, nos Estados Unidos, vinte e dois milhões de pessoas estavam resfriadas. A cada ano, cem milhões de doentes gemem de dor. Setecentos mil leitos de hospital estão ocupados todos os dias. Diariamente, um em cada vinte cidadãos está acamado. Em média, cada pessoa adoece por dez dias ao ano; as crianças, por sete dias; e os idosos, por trinta e cinco dias. A média nacional diária é de seis milhões de doentes, dos quais 42% são pacientes com doenças degenerativas. Hipertensão, doenças cardíacas, reumatismo, apendicite, colecistite, câncer, úlcera gástrica, escaras, diabetes, neuralgia, dor de dente... Por que, apesar do avanço da medicina, as doenças se alastram tanto e a saúde da nação é tão corroída?
+
+A causa é que os fertilizantes químicos alteraram o valor nutricional dos cereais e vegetais. O trigo de hoje e o de antigamente continuam sendo trigo, mas o valor nutricional do trigo de antes dos fertilizantes químicos e o do trigo moderno são completamente diferentes. Ou seja, os produtos de hoje carecem dos nutrientes que os de outrora continham. A produção com fertilizantes químicos fez com que os seres humanos precisassem se preocupar com suplementos nutricionais, além de sua alimentação diária.
+
+Quem deve corrigir as anomalias da vida não são os químicos, mas os "biólogos". Como disse o Dr. Wilder, do Departamento de Agricultura dos EUA: "Apenas em um solo vivo crescem culturas com os nutrientes necessários para humanos e animais; as culturas de terras que não se desenvolvem sem a aplicação de fertilizantes químicos carecem desses nutrientes essenciais."
+
+O solo abriga inúmeras bactérias, actinomicetos, mofos, leveduras, protozoários e outros micro-organismos. Esses seres vivos inferiores, em conjunto, constituem a vida biológica do solo. A distribuição desses micro-organismos limita-se aos primeiros três ou quatro polegadas da superfície, onde há matéria orgânica abundante para seu sustento. Eles vivem em um delicado equilíbrio, governados pelas influências da natureza. Se as condições do solo se deterioram por fatores externos, como os fertilizantes químicos, a vida microbiana é destruída, e o crescimento das plantas se torna irregular. Além disso, os pássaros, que ajudam a eliminar as pragas das plantações, não se aproximam de terras tratadas com adubos químicos.
+
+As colheitas de terras envenenadas por fertilizantes químicos não apenas diminuem a vitalidade humana, mas também causam terríveis danos aos animais. Nos Estados Unidos, um grande número de bovinos foi afetado pela doença de Bang, resultando em perdas que chegam a cinquenta milhões de dólares. A doença de Bang causa infertilidade no gado e febre ondulante em humanos."
+
+Além do senhor Rodale, Sir Albert Howard, em sua obra "An Agricultural Testament" (O Testamento Agrícola), declara: "O solo abençoado pela grande natureza, totalmente livre de adubos químicos e pesticidas, é o verdadeiro solo de ouro." e "As minhocas, ao afofarem a terra e permitirem a entrada de ar e luz solar, desempenham um papel crucial na criação do solo de ouro. No entanto, em terras tratadas com fertilizantes químicos, elas não conseguem sobreviver e morrem. As bactérias também perecem."
+
+No *New York Times* de 30 de março de 1940, o Dr. Pfeiffer também argumentou que "as pessoas que se alimentam regularmente de produtos da Agricultura Natural não contraem doenças como catarro, resfriado e sarampo." Segundo o *The Times* de Londres, o St. Columba's College, em Dublin, Irlanda, também ensina a Agricultura Natural.
+
+Existem também os escritos do romancista americano Louis Bromfield e da Lady Eve Balfour, que discutem as altas produtividades da Agricultura Natural e seus efeitos benéficos para humanos e animais, mas, por ora, vamos nos abster de detalhá-los e apresentar a Agricultura Natural preconizada pela Igreja Messiânica.
+
+O Reverendo Jikan Okada (Mokiti Okada), em sua obra "Comentários sobre a Agricultura Natural", expõe o seguinte:
+
+---
+
+Hoje, dentre os muitos problemas de nosso país, o principal é, sem dúvida, a questão alimentar. Considerando uma produção anual de arroz de 63 milhões de *koku* e uma população de 83 milhões de habitantes, a necessidade absoluta é de um *koku* por pessoa ao ano, ou seja, 83 milhões de *koku*. Isso significa que o déficit de 20 milhões de *koku* deve ser suprido pela importação. Calculando o preço de um *koku* em 5.500 ienes, o montante chega à cifra colossal de 100 bilhões de ienes, representando um enorme prejuízo para nossa economia. Além disso, é extremamente difícil aumentar a área cultivável, de modo que a única alternativa seria conter o crescimento populacional. No entanto, o controle de natalidade não tem surtido o efeito esperado.
+
+Contudo, nós possuímos um método capaz de resolver esse difícil problema de forma muito simples em poucos anos: um novo método de cultivo. Se o implementarmos imediatamente, o Japão será abençoado com uma sorte inimaginável. Existe, porém, um grande obstáculo. Esse novo método é o completo oposto da agricultura praticada até hoje. Por essa razão, por mais que expliquemos seus princípios, os agricultores relutam em aceitá-lo. E talvez seja compreensível. Nossos agricultores não podem abandonar da noite para o dia um método que eles e seus antepassados vêm praticando há centenas de anos. No entanto, a verdade é que eles estão cometendo um erro terrível: o mesmo método que eles empregam com tanto afinco para aumentar a produção é, na realidade, um método que a reduz.
+
+Portanto, como não se pode esperar que mudem de opinião da noite para o dia apenas com palavras, decidi fazê-los compreender por meio da prática, além da teoria. Comecei a fazer isso há mais de dez anos e, gradualmente, tenho obtido resultados surpreendentes, acima do esperado. Nos últimos tempos, o número de praticantes deste método de cultivo tem aumentado de forma vertiginosa.
+
+**(O Poder do Solo)**
+
+O princípio da Agricultura Natural consiste em manifestar o poder do solo. Até hoje, o ser humano não conhecia a verdadeira essência do solo. Ou melhor, não lhe foi permitido conhecer. Essa concepção levou ao uso de fertilizantes, e, com o tempo, tornou-se dependente deles. Transformou-se em uma espécie de superstição. No início, não importava o quanto eu pregasse sobre o cultivo sem adubos, ninguém me dava ouvidos; minhas palavras eram recebidas com um sorriso de desdém. Mas, aos poucos, meus esforços foram recompensados e, nos últimos anos, o número de praticantes da Agricultura Natural tem aumentado a cada ano, com resultados surpreendentes sendo alcançados em toda parte. Por enquanto, ainda estamos restritos ao círculo de fiéis, mas prevejo que o dia em que este método se espalhará por todo o Japão não está tão distante. Sendo assim, a divulgação deste método agrícola pode ser chamada, em termos simples, de um movimento para quebrar a superstição dos fertilizantes.
+
+Como não se utiliza adubo humano ou químico, mas apenas composto orgânico, o método é chamado de Agricultura Natural, como o próprio nome indica. Naturalmente, as matérias-primas do composto, como folhas e capim seco, também são produtos da natureza. Em contraste, adubos químicos e dejetos humanos, bem como esterco de cavalo, de galinha, torta de peixe, cinzas de madeira, etc., não caem do céu nem brotam da terra; foram transportados pelo homem e, portanto, são antinaturais, nem é preciso dizer.
+
+Toda a criação, sem exceção, recebe as bênçãos da Grande Natureza. Tudo é gerado e nutrido pelos três elementos primordiais: Fogo, Água e Terra. Em termos científicos, esses três elementos correspondem ao oxigênio do Fogo, ao hidrogênio da Água e ao nitrogênio da Terra. Nenhuma cultura agrícola foge a essa regra. Deus criou o mundo de forma que os cinco grãos e os vegetais, sustento da vida humana, fossem produzidos sem falta nem excesso. Refletindo sobre essa lógica, pode-se compreendê-la bem. É inconcebível que Deus, tendo criado os seres humanos, não lhes providenciasse alimento suficiente para sustentar suas vidas. Se um país não consegue produzir alimentos para sua população, é porque há algo em desacordo com as leis da natureza criadas por Deus. Enquanto não se der conta disso, a solução para o problema alimentar é impensável.
+
+O ser humano, ignorando essas leis da Grande Natureza, considerou os fertilizantes artificiais como o único recurso e assim chegou aos dias de hoje. Portanto, é natural que sofra com a escassez de alimentos. Deve-se dizer que é a retribuição por sua cegueira em relação às leis da natureza. Além disso, a teoria da ciência materialista serviu de catalisador, culminando na era de escassez alimentar que vivemos hoje. Nesse sentido, pode-se dizer que o método agrícola atual não é um avanço, mas sim um retrocesso. Portanto, sendo a agricultura que respeita a natureza a verdadeira, mesmo em um ano de má colheita, deveria ser possível produzir, no mínimo, um *koku* por pessoa ao ano, o que para a população de 83 milhões do nosso país, totalizaria 83 milhões de *koku*. Assim como o martelo que bate na terra não pode errar o alvo, essa lógica não pode estar errada.
+
+A Agricultura Natural que eu prego se baseia nesse princípio. O esgotamento e a exaustão dos agricultores japoneses devido à escassez de alimentos podem ser resolvidos sem dificuldade, dependendo de sua aplicação. Deus, ao ver esse erro, não pôde permanecer indiferente. É por Sua benevolência e grande amor que Ele, através de mim, faz com que os princípios da Agricultura Natural sejam amplamente conhecidos por todos. Portanto, é preciso despertar para isso o mais rápido possível e adotar este método. Assim, os senhores agricultores serão completamente salvos.
+
+Como mencionei anteriormente, se os três elementos primordiais — Fogo, Água e Terra — são a força motriz que faz crescer as culturas, então, ao garantir uma boa exposição ao sol, fornecer água em abundância e cultivar em solo puro, é certo que se obterão resultados muito maiores do que os de até hoje. Não se sabe quando, mas o ser humano cometeu um erro terrível: o uso de fertilizantes. Ele desconhecia completamente a essência do solo. É verdade que, ao aplicar fertilizante, obtém-se um efeito considerável por um tempo, mas, com o uso contínuo, gradualmente ocorre uma reação adversa. Ou seja, a capacidade inata da planta de absorver os nutrientes do solo se enfraquece, e ela se transforma, passando a depender do fertilizante como nutriente. A melhor analogia para isso é a dependência de drogas no ser humano. Quando uma pessoa usa uma droga pela primeira vez, sente um prazer momentâneo ou clareza mental, e, incapaz de esquecer essa sensação, afunda-se cada vez mais. Nesse ponto, quando o efeito da droga passa, a pessoa fica entorpecida ou sente uma dor intensa, tornando-se incapaz de fazer qualquer coisa. Mesmo sabendo que é errado, não consegue se livrar da droga e chega a roubar para obtê-la. Se aplicarmos essa lógica à agricultura, entenderemos imediatamente. De fato, pode-se dizer que todo o solo do Japão hoje sofre de uma grave doença: a dependência de drogas, ou melhor, de fertilizantes.
+
+No entanto, como os agricultores são crentes cegos nos fertilizantes há muito tempo, é difícil que despertem. Ocasionalmente, alguém ouve nossa explicação e decide abandonar os fertilizantes artificiais, praticando a Agricultura Natural. Mas, como os resultados nos primeiros meses não são bons, esse agricultor conclui apressadamente que é melhor continuar como antes, aplicando fertilizantes, e acaba desistindo.
+
+Entretanto, como nosso método se baseia na fé, nossos seguidores executam o que eu digo sem qualquer dúvida. Por isso, o verdadeiro valor da Agricultura Natural é facilmente compreendido. Vou descrever o processo. Primeiramente, ao transplantar as mudas do canteiro para o campo de arroz, por um tempo, a cor das folhas é ruim e os caules são finos, parecendo muito inferiores aos dos outros campos. Vendo isso, os agricultores vizinhos zombam, e o próprio praticante sente apreensão, preocupando-se se está tudo bem e orando a Deus em sua aflição. Contudo, após dois ou três meses, começa a haver uma certa recuperação. Na época da floração, a plantação melhora consideravelmente, e a preocupação diminui. Finalmente, pouco antes da colheita, o crescimento se torna normal ou até superior, e ele finalmente respira aliviado. E quando chega a hora da colheita, para sua surpresa, a quantidade é muito maior do que o esperado, a qualidade é excelente, o grão é lustroso, tem forte viscosidade e é extremamente saboroso. A maioria é classificada como de primeira ou segunda categoria; raramente há algo abaixo da terceira. Além disso, o peso é de cinco a dez por cento maior que o do arroz cultivado com adubo. E o mais interessante é que, por ser substancioso, em vez de render menos ao cozinhar, ele rende de vinte a trinta por cento mais. E o arroz cozido sustenta por mais tempo, de modo que se pode comer cerca de trinta por cento menos e sentir a mesma saciedade, o que é muito vantajoso economicamente. Portanto, se todos os japoneses comessem nosso arroz da Agricultura Natural, o resultado seria um aumento de trinta por cento, o que significa que, mesmo com a produção atual, não haveria necessidade de importar arroz, o que seria maravilhoso para a economia nacional.
+
+A aparência inferior nos primeiros dois ou três meses ocorre porque o veneno do adubo ainda permanece nas sementes e no campo. Com o passar do tempo, o solo e o arroz vão eliminando esse veneno, recuperando sua capacidade original e melhorando gradualmente. Acredito que os agricultores também possam entender essa lógica. Após a irrigação ou uma chuva forte, até mesmo os campos ruins melhoram um pouco. Isso ocorre porque o excesso de veneno do adubo é lavado e reduzido. Quando o crescimento da cultura é ruim, os agricultores adicionam terra de outro lugar. Se isso melhora um pouco a situação, eles interpretam que, após muitos anos, as culturas sugaram os nutrientes do solo, que ficou empobrecido, e que adicionar terra nova resolve o problema. Mas isso é um erro. Na verdade, o solo enfraqueceu e se empobreceu devido ao veneno dos adubos acumulado ano após ano.
+
+Explicando a prática da Agricultura Natural: para o cultivo de arroz, corta-se a palha o mais fino possível e mistura-se bem com a terra para aquecê-la. Para o solo de horta, decompõe-se folhas e capim seco até que suas nervuras amoleçam e mistura-se bem com a terra. Isso é para evitar que o solo se compacte, pois, se estiver duro, as pontas das raízes da planta encontrarão resistência e não conseguirão se estender bem. Recentemente, tem-se dito que é bom permitir que o ar entre nas raízes, mas não é que o ar em si seja bom para elas. A questão é que, se o ar consegue entrar na base das raízes, significa que o solo não está compactado. A interpretação dos agrônomos a esse respeito também está equivocada.
+
+Portanto, o ideal para culturas de raízes superficiais é apenas misturar o composto de folhas e capim na terra da horta. Mas, para as de raízes profundas, é bom criar uma camada de composto de folhas cerca de trinta centímetros abaixo da superfície. Isso aquece o solo. A espessura dessa camada deve ser ajustada de acordo com o tipo de raiz profunda. Os efeitos do composto são três: evitar a compactação do solo, aquecer o solo e, quando a terra ao redor das raízes seca, uma camada de composto ajuda a reter a umidade, evitando o ressecamento.
+
+O fundamento da Agricultura Natural é, acima de tudo, vivificar o próprio solo. Vivificar o solo significa não usar impurezas como fertilizantes artificiais e mantê-lo sempre puro. Assim, livre de obstáculos, o solo pode manifestar plenamente sua capacidade original. Os agricultores falam em "deixar a terra descansar", mas isso também é um erro. Quanto mais se cultiva, melhor a terra se torna. É como no ser humano: quanto mais se trabalha, mais saudável se fica; quanto mais se descansa, mais se enfraquece. Os agricultores acreditam que o cultivo contínuo esgota os nutrientes e deixam os campos em pousio. Por causa desse erro, consideram o cultivo contínuo prejudicial e mudam o local de plantio a cada ano. Isso é um absurdo, uma ignorância digna de pena. Em nosso método, o cultivo contínuo é recomendado. Um exemplo que eu mesmo pratico: o milho que cultivei este ano está no sétimo ano de plantio contínuo. E isso em um solo cheio de pedras em Gora, Hakone, que pode ser considerado um dos piores. Mesmo assim, a safra deste ano foi esplêndida: as espigas estão bem formadas e densas, o sabugo é mais longo que o normal, e o milho é doce, macio e delicioso.
+
+Então, por que o cultivo contínuo é bom? Porque o solo desenvolve naturalmente as características adequadas para cada tipo de cultura. A comparação com o ser humano novamente ajuda a entender. O trabalho físico desenvolve os músculos, e um escritor que usa constantemente o cérebro desenvolve sua capacidade intelectual. Da mesma forma, uma pessoa que muda de profissão ou de residência o tempo todo não prospera.
+
+Aqui, há algo que gostaria de dizer. Ao criar o bicho-da-seda com folhas de amoreira cultivadas sem adubo, os bichos não adoecem, a qualidade do fio é extremamente resistente, o brilho é excelente e, além disso, o aumento da produção é garantido. Se isso for praticado em todo o país, certamente causará uma grande revolução na indústria da seda, e o benefício para a economia nacional será imensurável.
+
+**(Pragas)**
+
+Recentemente, os problemas do meio rural são três: o alto custo dos fertilizantes, as pragas e os danos causados por vento e água. Sobre as pragas, para ir direto ao ponto, basta pensar que os insetos nocivos surgem por causa dos fertilizantes. Isso porque os fertilizantes contaminam o solo, que se altera, perde suas propriedades e acumula impurezas. É natural que toda matéria, quando impura, apodreça, e é aí que surgem pequenos insetos e se desenvolvem bactérias. O mesmo acontece com as culturas. Basta ver as larvas que surgem nos depósitos de esterco. E a existência de diferentes tipos de pragas se deve à existência de diferentes tipos de fertilizantes. Dizem que novas pragas estão surgindo ultimamente; claro, é porque novos fertilizantes estão sendo criados. Os agricultores costumam dizer que a incidência de pragas é maior perto dos depósitos de esterco, o que comprova essa teoria.
+
+Outro ponto importante: quando surgem pragas, pulveriza-se inseticidas para exterminá-las, o que é péssimo. Se o inseticida é um veneno capaz de matar insetos, ao penetrar no solo, ele o envenena, tornando-o um solo de má qualidade. Consequentemente, as plantas cultivadas nesse solo, além do veneno do adubo, recebem um veneno adicional, e o solo enfraquece ainda mais. As pragas, então, aproveitam a oportunidade e se proliferam com mais vigor. É um ciclo vicioso. Isso também mostra o quão equivocada era a agricultura praticada até hoje. E não é só isso. Fertilizantes químicos como o sulfato de amônio são venenos potentes. Se consumimos o arroz que absorveu essa substância, nosso corpo naturalmente será afetado, o que é prejudicial à saúde, pois o sangue se torna impuro. Considerando que o alimento básico é consumido três vezes ao dia, durante todo o ano, mesmo que em pequenas quantidades, o veneno se acumula e se torna a causa de todas as doenças.
+
+Explicarei aqui brevemente a verdadeira causa das doenças infecciosas. Todos sabem que as doenças infecciosas ocorrem pela invasão de bactérias. No entanto, a razão pela qual a invasão de bactérias causa a doença ainda não é compreendida. A medicina também ainda não sabe explicar por que, mesmo com a invasão de bactérias, algumas pessoas adoecem e outras não. As bactérias se alimentam de partículas minúsculas que são o elemento primordial da impureza do sangue, e se reproduzem enquanto se alimentam. Portanto, as pessoas que possuem o alimento para as bactérias adoecem, mas aquelas que não o possuem não adoecem, pois as bactérias morrem de fome. Sendo assim, a diferença entre quem adoece e quem não adoece se deve, obviamente, à presença ou ausência do alimento para as bactérias. Existem também os portadores assintomáticos, que têm as bactérias mas não adoecem. Isso ocorre porque a quantidade de alimento para as bactérias não é suficiente para causar a doença, mas também não é tão pouca a ponto de elas morrerem; é um estado intermediário. Logo, as pessoas com sangue impuro adoecem, e as com sangue puro não. Fertilizantes químicos, por exemplo, impurificam muito o sangue, e o aumento recente de doenças bacterianas, como as infecciosas e a tuberculose, se deve a isso. Esta teoria pode parecer autopromoção, mas pode ser chamada de uma grande descoberta mundial, e só por isso já valeria um Prêmio Nobel. Mas, como o nível de conhecimento dos jurados do Prêmio Nobel ainda não alcançou a compreensão desta teoria, não há o que fazer. Se, por essa lógica, a Agricultura Natural for praticada por todos, pode-se imaginar o quanto o número de doentes diminuirá.
+
+**(Danos Causados pelo Vento e pela Água)**
+
+Em seguida, sobre os danos causados por vento e água, é fato notório que tanto o governo quanto a população se preocupam muito em preveni-los. As medidas de prevenção exigem um custo enorme. No entanto, com a nossa Agricultura Natural, as raízes das plantas se fixam com mais força, a quebra de caules é reduzida a uma fração do que ocorre atualmente, a queda de flores é menor e não há apodrecimento do arroz após inundações. Assim, mesmo quando outros campos sofrem danos consideráveis, os campos da Agricultura Natural quase não apresentam prejuízos, o que causa espanto nas pessoas. Ao examinar as pontas das raízes nesses casos, percebe-se que há um número muito maior de raízes finas e longas em comparação com as dos campos adubados convencionais, o que torna a fixação mais forte. É a mesma lógica de um ser humano que, ao consumir sempre alimentos frescos e sem veneno, se mantém saudável. Os agricultores costumam preferir plantas de estatura mais baixa e folhas menores, pois isso resulta em mais frutos e maior colheita. Nesse ponto, nosso método é assim. Com o uso de adubo, como até agora, os nutrientes são desviados para as folhas, que crescem demais, afetando os frutos. Além disso, com a Agricultura Natural, o perfilhamento do arroz é muito abundante. O melhor resultado até hoje foi uma única semente que produziu 150 perfilhos e cerca de 15.000 grãos, um recorde incrível e quase inacreditável. Outra característica é que a palha de arroz se torna muito resistente e fácil de trabalhar.
+
+**(O Problema dos Parasitas)**
+
+O problema dos parasitas tem sido muito discutido hoje em dia. É uma questão séria, já que se diz que mais de 80% dos japoneses são portadores de lombrigas. E o número de mortes causadas por elas não é pequeno nos últimos tempos. Normalmente, as lombrigas são poucas, mas algumas pessoas chegam a ter dezenas ou centenas. Nesse caso, elas se emaranham como um novelo de macarrão e podem penetrar nos órgãos internos, causando diversos sofrimentos. A causa, obviamente, são os fertilizantes de dejetos humanos. Como a própria medicina afirma, os ovos das lombrigas entram pela boca através dos vegetais, chegam ao estômago e se reproduzem. Outros parasitas como oxiúros, ancilóstomos, sarna, micose, etc., também são causados pela proliferação de pequenos vermes. A medicina ainda considera a causa desconhecida, mas, segundo minhas pesquisas, o problema está nos fertilizantes artificiais. Não é a causa direta, mas os dejetos humanos impurificam o sangue, o que faz com que os vermes surjam. Em princípio, não faz sentido que vermes surjam no corpo humano. Em um cadáver, tudo bem, mas que vermes surjam em uma pessoa viva é extremamente irracional. Isso ocorre porque o ser humano está em desacordo com a lei divina, ingerindo coisas impuras que não deveriam entrar no corpo e impurificando o sangue. Nesse sentido, se o ser humano respirar ar puro, beber água limpa, comer alimentos provenientes de um solo sem impurezas e evitar ao máximo o uso de substâncias estranhas como medicamentos, ele certamente será saudável e livre de doenças, e viver mais de cem anos não será impossível.
+
+**(A Notável Eficácia do Johrei)**
+
+Ao praticar a Agricultura Natural, a notável eficácia do Johrei é sempre mencionada nos relatórios de aumento de produção. O princípio da Agricultura Natural é que, devido à contaminação do solo pela agricultura artificial praticada até agora, a vitalidade do solo é prejudicada e ele não consegue manifestar sua capacidade original, resultando em maus resultados. Os agricultores não sabiam disso e, até hoje, compravam fertilizantes caros, obtinham resultados ruins e se esforçavam em vão. Eu, por revelação divina, conheci esse erro e anunciei o princípio oposto: quanto mais puro o solo, melhor a colheita. Aqueles que o praticaram obtiveram resultados esplêndidos, como está amplamente documentado nas publicações de nossa Igreja. Muitos devem querer saber por que o Johrei tem um efeito tão notável nas culturas, e é sobre isso que escreverei aqui.
+
+Os fiéis de nossa Igreja sabem bem que tudo no universo é composto de espírito e matéria. Obviamente, o solo e as culturas também são compostos de espírito e matéria. Se o solo está contaminado por fertilizantes artificiais, seu espírito também está igualmente obscurecido. No entanto, ao receber Johrei, a nebulosidade do espírito do solo diminui, e, da mesma forma, as impurezas do solo físico também diminuem, e ele se purifica. Assim, o solo purificado tem uma força de crescimento vigorosa, e, ao mesmo tempo, o veneno do adubo remanescente nas plantas também diminui. Pela ação conjunta desses fatores, de acordo com a lei do espírito como mestre e da matéria como serva, o crescimento se torna vigoroso.
+
+**(Sobre a Horticultura Amadora)**
+
+Na horticultura amadora, ou seja, nas hortas caseiras, também é necessário usar muitos dejetos como fertilizante. Para um amador inexperiente, lidar com dejetos é um sofrimento intolerável. Se, apesar desse sofrimento, o efeito fosse grande, talvez valesse a pena, mas, na verdade, isso resulta em um desempenho ruim. Provavelmente não há nada mais insensato.
+
+Com a Agricultura Natural, o trabalho sujo e malcheiroso desaparece completamente. É limpo, higiênico, as plantas crescem bem, a produção é maior e o sabor é surpreendentemente delicioso. Além disso, não há preocupação com pragas, nem risco de lombrigas. E, acima de tudo, a cor das folhas, a forma dos caules — tudo é muito mais bonito do que nas plantas cultivadas com adubo. Portanto, ao começar a praticar a Agricultura Natural, cuidar da horta todas as manhãs se torna um verdadeiro prazer.
+
+Na horticultura amadora, coisas assim são comuns: as batatas não dão muitos tubérculos ou não crescem; tomates e berinjelas perdem muitas flores; os nabos ficam fibrosos; os pepinos morrem por causa de vermes nas raízes; as folhas de hortaliças raramente estão intactas, quase todas cheias de buracos. Tudo isso se deve aos fertilizantes artificiais, mas, por não se darem conta, os amadores pensam que falta adubo e aplicam cada vez mais, o que só piora a situação. Como ninguém sabe a verdadeira causa, perguntam a especialistas, mas, como os especialistas também sofrem da superstição dos fertilizantes, não conseguem dar uma resposta satisfatória. Quem sabe quantas pessoas no mundo estão nessa situação. Portanto, se essas pessoas conhecerem nosso método, serão salvas. Será como subir do inferno para o paraíso.
+
+(Nota) O trecho acima é uma extração da obra *Comentários sobre a Agricultura Natural*, publicada em 15 de janeiro de 1951.
+
+---
+
+# Manual de Difusão II - 2-1 Sobre o Johrei (Primeira Parte: Para os Iniciantes)
+
+**Categoria:** kanren | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
+**Título Original:** - | **Status:** Published | **Edição/Página:** 5号, ７号, 5号, 3号 | **Data ISO:** 1949
+
+## Manual de Difusão II - 2-1 Sobre o Johrei (Primeira Parte: Para os Iniciantes)
+
+### **1. A Gentileza**
+
+#### **1. Sobre a gentileza e a autoridade**
+*Trecho de Palestra (8 de março de 1949). Publicado na Coletânea de Palestras, vol. 5*
+
+— Ao ministrar Johrei, qual deve ser o nosso grau de gentileza para com o enfermo?
+
+Isso é algo que não tem medida. Quanto maior a gentileza, melhor.
+
+— Contudo, observamos que alguns ministros procuram demonstrar certa autoridade...
+
+Não há necessidade alguma disso. Não é preciso demonstrar autoridade. Eu mesmo não tenho a menor intenção de me apresentar como um deus vivo.
+
+#### **2. A gentileza para com o enfermo e a ordem de prioridade para com Deus**
+*Ensinamento “Myochi no Hikari” (publicado na revista Paraíso Terrestre, vol. 7, em 30 de agosto de 1949)*
+
+“Ao ministrar Johrei, qual deve ser o nosso grau de gentileza para com o enfermo?”
+
+Quanto mais gentil, melhor. Não há limites para a gentileza; todavia, a ordem de prioridade é crucial, e Deus deve estar sempre em primeiro lugar. Isso não significa, entretanto, que devamos fazer distinção entre as pessoas. O tratamento deve ser invariavelmente equânime.
+
+#### **3. O dever de cuidar com gentileza, independentemente da posição social do indivíduo**
+*Trecho de Palestra (8 de março de 1949). Publicado na Coletânea de Palestras, vol. 5*
+
+Ademais, é imperativo que sejamos imparciais no trato com as pessoas. Não se pode pensar: “Aquele enfermo tem posses, então serei muito gentil com ele; já este é um simples lavrador, não preciso me esmerar tanto...”. Atitudes como essa são inaceitáveis. Certa vez, uma empregada que trabalhou em minha casa comentou: “As outras pessoas não dão ouvidos ao que eu digo, mas o Grande Mestre é o único que me escuta. Sou imensamente grata por isso”.
+
+Recordo-me também de uma história sobre a fundadora da Oomoto-kyo. Alguém lhe disse: “A senhora trata a todos da mesma maneira. Imagino que, como qualquer pessoa, tenha suas preferências, mas ao observá-la, é impossível perceber”. A fundadora respondeu: “Claro que tenho minhas preferências. Contudo, Deus é imparcial. Portanto, quando estou a serviço de Deus, manifestar minhas simpatias e antipatias seria um erro. Por essa razão, esforço-me para não demonstrá-las”. São palavras de grande sabedoria, não acham?
+
+### **2. Se solicitado, levantar-se mesmo após deitar-se para ministrar Johrei**
+*Trecho de Palestra (28 de janeiro de 1949). Publicado na Coletânea de Palestras, vol. 3*
+
+Quando uma pessoa está a sofrer com uma enfermidade, devemos fazer o que for preciso para salvá-la. Eu mesmo, se algum familiar se queixa de dores, levanto-me para ajudá-lo, ainda que já esteja deitado.
+
+### **3. A importância de se respeitar a ordem ao ministrar Johrei**
+*Trecho de Sermão (15 de março de 1953). Publicado na Coletânea de Ensinamentos, vol. 20*
+
+Há um ponto sobre o qual ainda não chamei a atenção: a ordem ao se ministrar Johrei. Em primeiro lugar, devem ser atendidos os casos mais graves; os mais leves ficam para depois. Os doentes em estado crítico têm prioridade absoluta. Em seguida, atende-se por ordem de chegada, o que denota um senso de justiça. Portanto, a regra geral é seguir a ordem de chegada, com a exceção dos que sentem dores muito fortes. Nesses casos, basta pedir licença aos demais que aguardam, explicando: “Esta pessoa está em estado grave, por isso a atenderei primeiro”. E, depois, retoma-se a ordem de chegada.
+
+Quando se trata de familiares ou pessoas muito íntimas, para quem a ordem de chegada não é um fator relevante, deve-se começar pelos mais idosos. Entre um casal, se nenhum dos dois estiver sofrendo intensamente, o marido deve ser atendido antes da esposa. Manter essa ordem correta favorece notavelmente a recuperação. Não que seja o único fator, mas a cura se torna mais efetiva.
+
+A desordem, por sua vez, perturba o Mundo Espiritual, pois a própria ordem é um reflexo dele. Quando o Mundo Espiritual se desequilibra, nada flui como deveria. Embora pareça um detalhe insignificante, seu impacto é tremendo.
+
+Menciono isso porque ontem mesmo ocorreu um fato ilustrativo. Minha esposa, no passado, fez uso de medicamentos fitoterápicos muito fortes, e o *yakudoku* resultante é considerável. Ministro-lhe Johrei periodicamente, e as toxinas vêm diminuindo ano a ano. Recentemente, como uma nova camada de toxinas havia se acumulado, ministrei-lhe Johrei, mas ela começou a dizer coisas estranhas, sem qualquer nexo. Achei aquilo curioso e, ao refletir, dei-me conta do que havia acontecido: pouco antes, eu havia ministrado Johrei em uma empregada e só depois chamei minha esposa. Pensei em adiar, mas, por falta de tempo, decidi prosseguir. Foi então que compreendi: “Ah, ela disse aquelas coisas porque a ordem foi invertida”. Isso ocorre porque, no Mundo Espiritual, ela acabou ficando em uma posição inferior à da empregada. É preciso estar atento a esses detalhes, pois suas consequências são bastante claras. Uma pequena quebra na ordem pode gerar algum tipo de obstáculo. Pode parecer algo complicado, mas não é; com o tempo, torna-se natural. Eu sempre falo sobre a importância da ordem e, mesmo sem um esforço consciente, percebo quando ela é quebrada.
+
+### **4. A descoberta do ponto focal do Johrei deve ter precedência sobre questões de fé**
+*Trecho de Palestra (8 de dezembro de 1948). Publicado na Coletânea de Palestras, vol. 2*
+
+— O senhor nos ensinou que “no Johrei, deve-se atuar no ponto focal”. Devemos dar mais ênfase a esse aspecto físico, o ponto focal, ou ao aspecto da fé?
+
+A ênfase deve ser no aspecto físico. Isso porque o local de maior nebulosidade espiritual coincide com o de maior concentração de toxinas no corpo. Ou seja, os Espíritos Malignos se fixam onde o espírito da pessoa está nebuloso. Portanto, a abordagem pelo lado físico torna a identificação mais clara. É comum que, durante o Johrei, o espírito maligno fuja. Quando isso acontece, ele invariavelmente se desloca para uma área com toxinas, o que confirma essa relação.
+
+#### **Adendo: O que é o ponto focal?**
+*Trecho de Orientação Particular (1 de setembro de 1952). Publicado no Registro de Orientações Particulares, vol. 13*
+
+O ponto focal é a região onde se manifestam dor, paralisia ou enrijecimento. É ali que se encontra o *yakudoku*. Eliminando-o, consequentemente, a febre, a dor e outros sintomas desaparecem.
+
+### **5. Sobre o estado do doente: deve-se apresentá-lo como leve ou grave?**
+
+#### **1. Casos em que é melhor apresentar o quadro de forma branda**
+*Trecho de Palestra (18 de janeiro de 1949). Publicado na Coletânea de Palestras, vol. 3*
+
+“Ao examinar um enfermo pela primeira vez, seria apropriado descrever sua condição como menos grave do que realmente é, a fim de encorajá-lo?”
+
+Claro que sim. De nada adiantaria dizer: “Para o senhor, não há mais jeito. Tão magro, com o rosto pálido... e ainda acredita que pode se salvar?”. (Risos gerais). Nesses casos, uma mentira é bem-vinda. Se o resultado de uma inverdade for positivo, ela se justifica.
+
+#### **2. Casos em que é preferível dizer claramente que não há esperança de recuperação**
+*Trecho de Sermão (25 de junho de 1953). Publicado na Coletânea de Ensinamentos, vol. 23*
+
+Há algo que eu já pretendia dizer há algum tempo, e a ocasião me fez lembrar. Quando um doente em estado grave não tem mais chances de recuperação, costuma-se consolá-lo com palavras como: “Não importa o que aconteça, não há motivo para desespero, mantenha-se firme”. Na verdade, essa atitude não é correta. O apego à vida material interfere na proteção Divina. A cura ocorre quando o Espírito Guardião Primordial, recebendo a força de Deus, atua através de nossa intermediação. Contudo, se houver apego à vida, o Espírito Guardião Primordial não consegue agir livremente. O apego do próprio enfermo e das pessoas ao seu redor cria um obstáculo, e muitas vezes, um caso que poderia ser salvo acaba não sendo.
+
+Portanto, de agora em diante, quando perceberem que não há mais esperança, façam com que a pessoa se desapegue o quanto antes. Dizer: “Para você, não há mais solução. Prepare-se para morrer” pode, paradoxalmente, ser o caminho para a salvação.
+
+### **6. Não ministrar Johrei a quem não abandona os medicamentos**
+
+#### **1.**
+*Trecho de Palestra (8 de fevereiro de 1949). Publicado na Coletânea de Palestras, vol. 4*
+
+“É apropriado ministrar Johrei a alguém que está tomando medicamentos?”
+
+Não se deve ministrar Johrei a essas pessoas. Seria como tentar encher um cesto de água. A quem está se medicando, o melhor a dizer é: “Quando os remédios não surtirem mais efeito, então eu o ajudarei”.
+
+#### **2.**
+*Trecho de Orientação Particular (1 de março de 1952). Publicado no Registro de Orientações Particulares, vol. 8*
+
+“Um fiel com úlcera gástrica estava se recuperando bem com a purificação e, graças à proteção Divina, já conseguia se alimentar. Contudo, veio a falecer de tuberculose na laringe. Toda a família estava entregue a Deus, mas os parentes insistiram: ‘A fé é importante, mas não podemos abrir mão dos remédios’. E trouxeram um médico. Cedi um pouco e, junto com o médico...”
+
+Absolutamente errado. Se o seu pensamento é tão vacilante, seria melhor que você mesmo abandonasse a fé. Tentar conciliar a medicina com o Johrei é como tentar encher um cesto com água. É uma ofensa gravíssima a Deus. É terminantemente proibido.
+
+Contudo, sei que as circunstâncias, por vezes, nos impõem situações difíceis. Por exemplo, se um doente está hospitalizado e nos implora por ajuda, o tratamento acaba sendo simultâneo. Mas quando há discórdia com os parentes, afaste-se. Se toda a família estiver de acordo e solicitar sua ajuda, você pode atender. Caso contrário, é melhor se abster.
+
+### **7. Sobre o Johrei em pacientes hospitalizados**
+
+#### **1. Princípio fundamental**
+*Trecho de Palestra (13 de junho de 1949). Publicado na Coletânea de Palestras, vol. 12*
+
+— Recentemente, tenho recebido pedidos para ministrar Johrei a pessoas internadas em hospitais. Tenho a impressão de que, no ambiente hospitalar, o efeito é menor. O que o senhor pensa a respeito?
+
+De fato, o efeito é menor. É uma situação delicada. O ideal seria evitar, mas, se houver muita insistência, podem ir e ministrar. Como não tocamos no paciente, não há problema se um médico nos vir. A questão é que nosso método é o oposto da medicina. Assim, por mais que comecemos a curar, o tratamento médico acaba desfazendo nosso trabalho. É, realmente, como tentar encher um cesto com água.
+
+Ainda assim, há casos em que o efeito é extraordinário. Há pessoas que apresentam uma melhora impressionante após uma única sessão e recebem alta imediatamente. Portanto, o melhor é agir conforme a situação.
+
+#### **Adendo: Sobre o Johrei em um fiel que foi hospitalizado pelos pais durante uma purificação**
+*Trecho de Orientação Particular (1 de julho de 1953). Publicado no Registro de Orientações Particulares, vol. 22*
+
+“Trata-se de uma estudante de dezessete anos, jogadora de vôlei, que subitamente começou a ter convulsões. Na faculdade de medicina de Nagoia, foi diagnosticada com a ‘doença da dança’. Ela apresenta um nódulo muito grande que vai do ombro até o lado direito do bulbo. Em sua casa, o Ofício Religioso é realizado, e tanto a mãe quanto a filha são membros, mas o pai ainda não. Devido às circunstâncias, a internação foi sugerida, e a mãe me pede que vá ao hospital para ministrar Johrei.”
+
+É absolutamente proibido. O simples fato de você me fazer uma pergunta dessas é estranho. É surpreendente que, a esta altura, ainda não saiba disso. Em princípio, ir a um hospital ministrar Johrei é um erro, pois a família confiou o doente aos cuidados médicos. A nossa intervenção, nesse caso, é imprópria.
+
+A única exceção seria se, por algum motivo, a pessoa fosse para o hospital, mas dissesse: “Não aguento mais, quero me entregar a Deus”, e ninguém ao redor se opusesse. Se houver um único opositor, não se deve ir. Se o chefe da família, arrependido, vier pessoalmente lhe pedir ajuda, então você poderá ir. Fora isso, é terminantemente proibido.
+
+Assim como nas questões do mundo material, nas questões de Deus, os princípios devem ser rigorosamente seguidos. Jamais se deve fazer algo que vá contra os princípios. Conforme falei recentemente e escrevi em meus artigos, tudo se baseia na racionalidade; deve haver lógica. O caso apresentado não tem lógica, portanto, não é permitido. As coisas devem ser lógicas, não importa o ângulo pelo qual se analise. Se o chefe da família, que é a pessoa mais importante, confia no médico, não há princípio que sustente a nossa intervenção.
+
+#### **Adendo: Sobre uma pessoa que sofreu um grave acidente, foi hospitalizada e teve o braço amputado a partir do cotovelo**
+*Trecho de Orientação Particular (1 de setembro de 1953). Publicado no Registro de Orientações Particulares, vol. 24*
+
+“Um membro que trabalha numa madeireira foi à montanha para transportar toras e caiu num desfiladeiro. Graças à proteção Divina, sobreviveu. Contudo, na parte superior da articulação do braço esquerdo, músculos e vasos sanguíneos foram rompidos. Seus acompanhantes, não sendo membros, estancaram o sangue imediatamente e, quatro horas depois, o levaram a um hospital em Kanazawa. Disseram que era preciso amputar, mas ele se opôs e assim permaneceu. Cerca de uma semana depois, a área da ponta dos dedos até o pulso ficou completamente preta, como gangrena, e disseram que a cirurgia era inevitável. O braço foi, então, amputado a partir daquele ponto.”
+
+Isso não foi nada de mais. Foi apenas o sangue da hemorragia interna que se acumulou ali. Uma pessoa que permite uma amputação não pode ser considerada um verdadeiro membro da fé.
+
+“Três semanas depois, a área começou a necrosar...”
+
+Não necrosa. Apenas parece necrosado.
+
+“... e então amputaram acima do cotovelo. O membro, depois, disse que se sentia profundamente arrependido.”
+
+Nessas circunstâncias, ser levado ao hospital é compreensível; não há o que fazer. O erro foi a amputação. A região fica roxa ou preta, e a mancha vai subindo gradualmente. Isso ocorre porque o sangue da hemorragia interna se acumula, começando pela ponta dos dedos e subindo. A altura que a mancha atinge depende do volume do sangramento. A aparência é de necrose, pois o sangue de uma hemorragia interna é impuro e escurece com o tempo. Portanto, não era nada grave. Por que, numa situação dessas, ele não consultou o chefe de igreja?
+
+“Porque estava hospitalizado.”
+
+Mesmo hospitalizado, bastava dizer não. Estar internado não é o mesmo que estar condenado à morte. Quem é o chefe de igreja?
+
+“É a Sra. Tamaki Muramoto.”
+
+O chefe de igreja também agiu mal. E amputar a partir do cotovelo... isso significa que ele já não é mais um membro. É como um não membro. Eu venho ensinando isso constantemente. A aparência é exatamente como a de algo em putrefação. Eu já expliquei isso nos artigos sobre gangrena e panarício, não é mesmo? O princípio é o mesmo. No panarício, o pus acumulado aqui desce para a ponta do dedo. Recentemente, uma empregada teve panarício; eu ministrei Johrei apenas no pescoço dela, sem tocar no dedo, e ela sarou.
+
+Este caso não merece consulta. É o resultado de seus próprios atos. Se a fé de uma pessoa se esvai, é natural que isso aconteça; não há o que fazer. Se alguém sofre mesmo tendo fé, eu o salvo de qualquer maneira, mas este homem ignorou Deus completamente. É justamente em momentos como esse que, ao receber a salvação, compreendemos o valor e a grandiosidade da fé. Mas ele, diante de uma crise, esqueceu-se totalmente de Deus. Assim, não há como ajudá-lo. Em grande parte, a responsabilidade é também do chefe de igreja. Ele está aqui hoje?
+
+“Sou eu, Tamaki Muramoto. Peço imensas desculpas. Eu disse a ele para entregar a Deus...”
+
+Mesmo sem entregar, se tivessem deixado como estava, teria sarado.
+
+“Havia muitos parentes que diziam que aquilo não resolveria nada.”
+
+Com você, se os parentes pressionam, você não consegue se manter firme, não é? O principal culpado é o próprio membro. Bastava ele ter se recusado terminantemente.
+
+“Ele se recusou bastante.”
+
+Mas a recusa tinha de ser absoluta.
+
+“O que devemos fazer com os ossos?”
+
+Podem descartá-los como quiserem. É como um devedor que, sem pagar sua dívida, declara falência e ainda pede ajuda ao credor. A culpa é de quem não paga. É um desrespeito. Para um chefe de igreja, com tantos parentes pressionando, talvez fosse difícil, mas, no fundo, a fé do próprio membro não estava verdadeiramente consolidada.
+
+É comum as pessoas dizerem “fui pressionado pelos outros” ou “insistiram tanto que cedi”. Isso é transferir a própria responsabilidade para terceiros. O corpo de cada um pertence a si mesmo, não é algo que nos foi emprestado por outros. Dizer que cedeu por insistência alheia significa que a fé ainda não está consolidada e, por isso, há hesitação. Quando todos ao redor pressionam, a pessoa acaba pensando: “Ah, talvez seja isso mesmo”. Se fosse uma criança, seria compreensível, mas, tratando-se de um adulto, se ele se mantivesse firme, ninguém poderia forçá-lo a nada.
+
+### **8. O que fazer com enfermos que parecem incuráveis?**
+*Trecho de Palestra (setembro/outubro de 1949). Publicado na Coletânea de Palestras, vol. 15*
+
+— Ao ministrar Johrei, às vezes sentimos que determinado enfermo não irá se recuperar. Nesses casos, como devemos proceder?
+
+Bem, é uma situação delicada. Nesses casos, o melhor é tentar fazer com que a pessoa não venha mais, pois são situações assim que tendem a gerar problemas. A uma pessoa nessas condições, pode-se dizer: “Para a sua doença, talvez o tratamento médico seja mais adequado”, e assim, evitar o caso. Ou então: “Não tenho confiança de que conseguirei ajudá-lo, mas se o senhor insiste que eu o atenda, é outra história...”. Haverá quem diga: “Os médicos já me desenganaram, por favor, me ajude. Só de receber Johrei, já me sinto melhor”.
+
+— Nesse caso, suponho que uma pessoa que falece recebendo Johrei seja mais salva no Mundo Espiritual do que alguém que falece sem recebê-lo...
+
+Com toda a certeza. Quem morre sem receber Johrei vai para o inferno.
+
+— Sendo assim, sugerir que procure um médico parece algo temeroso...
+
+Sim, é verdade. Mas se um caso desses gera um problema, nós é que ficamos em uma situação difícil, não é? Podemos acabar impossibilitados de ministrar Johrei a outras pessoas. Portanto, é o caso de sacrificar o indivíduo para proteger o todo.
+
+— Recentemente, em certa região, uma criança com disenteria infecciosa faleceu durante o Johrei, o que gerou um pequeno problema...
+
+Isso é lamentável. Uma disenteria infecciosa cura-se com facilidade. Mas, se a força de quem ministra é insuficiente, o quadro pode se agravar. Situações assim são muito complicadas...
+
+### **9. Cuidar com prudência de enfermos cuja família inclui opositores**
+*Trecho de Sermão (1 de junho de 1953). Publicado no Registro de Orientações Particulares, vol. 21*
+
+A esse respeito, embora o caso que acabamos de ouvir não pareça ser este, é preciso ter muito cuidado quando há um opositor dentro da mesma casa. A maioria dos problemas que tivemos até hoje se originou dessa situação. Se, apesar da forte insistência para que a pessoa procure um médico, ela não o faz e acaba falecendo, os opositores logo dizem: “Eu não avisei?”. E então, relatam o caso a jornais locais ou à polícia, gerando grandes problemas. Portanto, quando houver um opositor na família, é fundamental que o doente também seja acompanhado por um médico. Dessa forma, mesmo que algo dê errado, não haverá problemas. É imprescindível que se procure um médico.
+
+#### **Adendo: Sobre uma senhora com possessão espiritual cujo marido se opõe à fé**
+*Ensinamento (8 de agosto de 1951). Publicado na Coletânea de Ensinamentos, vol. 1*
+
+“Recebi o Amuleto Sagrado em dezembro de 1946 e, em abril de 1948, entronizei a Imagem da Luz Divina. Tendo recebido inúmeras proteções, tenho seguido na fé. Minha filha mais velha, Shigeko (25 anos), casou-se com um membro da família Karasawa, e tanto ela quanto sua sogra e seu marido ingressaram na fé em maio de 1948. Viviam uma vida de fé, mas, depois de um tempo, o marido dela se tornou incompreensivo e passou a se opor ferozmente, o que a fez interromper a prática por cerca de dois anos. Em março deste ano, o filho de Shigeko teve uma purificação e, ao receber Johrei na casa do Sr. Tahara, de um vilarejo vizinho, recuperou-se em duas semanas. Desde então, ela voltou a praticar a fé em segredo. No dia 4, por volta das 10 da manhã, enquanto Shigeko recebia Johrei na casa do Sr. Tahara, ela começou a dizer subitamente: ‘Tenho um texugo gigante na minha barriga’, ‘Saiu uma raposa’, e outras coisas sem sentido, uma após a outra. Fomos obrigados a chamar o marido dela. Eu também fui chamada, e continuamos a ministrar Johrei, mas ela não melhorava. Além disso, ela se dirigia ao marido dizendo: ‘Pratique a fé comigo’, ‘Entronize a Imagem Sagrada’, e ainda exigia de forma desrespeitosa a devolução de um pergaminho budista com a inscrição ‘Namu Myoho Renge Kyo’, que havia sido cultuado por um antepassado. Essa fala incessante durou cerca de doze horas, até que ela se acalmou um pouco e a levamos para casa. Nos dias seguintes, ela ficou bem mais tranquila, mas, de vez em quando, ainda diz coisas estranhas. O marido continua se opondo, o que dificulta a continuação do Johrei. Como podemos obter a salvação? Peço sua orientação.”
+
+É uma situação difícil. Enquanto o marido se opuser, ela provavelmente não se curará completamente. O chefe da família detém autoridade sobre todos os seus membros e sobre o lar. Assim, problemas como um resfriado ou uma dor de nariz podem ser curados em segredo, mas este é um caso com implicações espirituais complexas, envolvendo antepassados — raposas, neste caso. São raposas do Budismo Nitiren, que estão agindo com forte apego. Em situações assim, não há o que fazer; é preciso deixar que as coisas sigam seu curso até certo ponto.
+
+Contudo, abandonar a fé também não é uma opção, o que torna tudo mais complicado. Existe um carma familiar considerável. O marido não precisa se converter, mas se ela obtiver permissão para, ao menos, frequentar a Igreja de vez em quando — desde que não interfira nos afazeres domésticos — e orar a Deus, ocorrerá algo que o levará a buscar a fé. Vocês não têm a Imagem Sagrada entronizada, correto? Os espíritos ancestrais, manifestados como raposas e texugos, também desejam ser salvos. Por isso, eles causam problemas como uma forma de chamar a atenção.
+
+Praticar algo tão nobre em segredo não é bom. Portanto, peça permissão apenas para isso e ore com fervor. Com certeza, as coisas melhorarão, e o seu marido também compreenderá.
+
+#### **Adendo 1: Filha com doença mental cujo pai se opõe à fé**
+*Ensinamento (8 de dezembro de 1951). Publicado na Coletânea de Ensinamentos, vol. 5*
+
+“Casei-me pela segunda vez em 1937 e registrei minha filha biológica, Chizuko, como filha mais velha do meu atual marido. Em 1944, Chizuko se formou no colegial, mas desenvolveu um esgotamento nervoso. No início, ela acordava à noite, dizia-me coisas e ficava agitada. Um médico da Universidade de Osaka a diagnosticou com esquizofrenia e recomendou cirurgia, mas não a fizemos. Ela tomava calmantes diariamente. Em junho de 1949, ingressei na fé. Em agosto, entronizei a Imagem de Kannon (観音) e, em julho deste ano, a Imagem da Luz Divina. Meu marido se opõe à fé e, após uma discussão sobre Chizuko, ele não voltou mais para casa. Além disso, minha irmã e meu irmão mais novos morreram de forma trágica. Haveria alguma relação espiritual?”
+
+Sim, a irmã e o irmão — os dois, não é? — têm relação. Os espíritos deles estão atuando. É um caso um pouco diferente do comum. A morte trágica deles causou-lhes um choque muito grande. Por isso, mesmo no Mundo Espiritual, eles não têm clareza. E são eles que estão se manifestando. É preciso salvar esses espíritos.
+
+Primeiramente, com a oposição do marido, a cura verdadeira não é possível. Quando é o marido que entra na fé e a esposa se opõe, a situação é mais simples. O chefe da família detém o poder. A existência de um doente em casa é de responsabilidade do chefe da família; o problema surgiu sob a sua esfera de influência. Portanto, não há outra solução a não ser que o marido ingresse na fé.
+
+Contudo, não se pode forçá-lo. A esposa deve orar fervorosamente e aguardar o momento certo. Deus, então, criará as circunstâncias para que o marido ingresse na fé. Não há outro caminho. O sofrimento existe porque o marido também tem seus pecados. No entanto, tentar forçar a conversão dele terá o efeito contrário. O melhor a fazer é seguir o que acabei de dizer.
+
+#### **Adendo 2: Exemplo de um caso em que se orientou a recusa devido à forte oposição dos parentes**
+*Ensinamento (6 de março de 1952). Publicado na Coletânea de Ensinamentos, vol. 8*
+
+“O Sr. Toichi Nasu, 47 anos, teve uma reincidência de pleurisia em janeiro de 1951. À beira da morte, foi salvo pelo Johrei e, em cerca de um mês, já conseguia frequentar a Igreja. No verão, pôde retomar seu trabalho. Contudo, desde que se encontrou com Meishu-Sama em 31 de outubro, no Templo Anexo de Nagoia, ele entrou em uma purificação generalizada. Qualquer pequeno esforço o deixa ofegante, com dificuldade para respirar, e ele tem ficado acamado. Atualmente, sente peso na cabeça e nos ombros, e uma expectoração contínua e pegajosa. Embora não tenha apetite, consegue comer duas tigelas de arroz, mas está enfraquecendo gradualmente. Desde que começamos a ir à sua casa para ministrar Johrei, nos dias mais quentes ele consegue ficar de pé por duas ou três horas, mas se fica mais tempo, sente calafrios e cansaço. À noite, levanta-se mais vezes para ir ao banheiro, e após se mover, a pressão no peito se torna especialmente intensa e dolorosa. Há quatro anos, ele teve uma pleurisia exsudativa grave e passou quatro meses em tratamento médico sem sucesso, mas foi curado pela nossa fé. A Imagem da Luz Divina foi entronizada em janeiro de 1951. Peço orientações sobre os pontos focais do Johrei.”
+
+Se ele come duas tigelas de arroz, não se pode dizer que não tem apetite. O problema é que o Johrei não está sendo ministrado no ponto focal. Um caso como este se cura com facilidade. A pleurisia sempre reincide. Certamente, havia um local onde as toxinas se solidificaram anteriormente. Ao apalpar do peito às costas, com certeza encontrarão um ponto quente. Esta pessoa deve apresentar bastante febre. Há um ponto quente dos ombros ao pescoço; é ali que se deve ministrar Johrei. À medida que o fizerem, a febre diminuirá gradualmente. Com isso, o apetite retornará, e ele se recuperará. Ele tosse?
+
+“Não muito.”
+
+Não é nada de mais. Você não está colocando força ao ministrar, está? Está com a mão relaxada, não é?
+
+“Quando eu vou, ele se sente melhor, mas quando a esposa ou os vizinhos o fazem...”
+
+Então não deixe que eles o façam. Vá você mesmo.
+
+“Não consigo ir todos os dias.”
+
+Não precisa ser todos os dias. Um caso como este é muito simples.
+
+“Desde janeiro do ano passado, fui umas cinco vezes.”
+
+Então houve meses em que você não foi nenhuma vez.
+
+“Isso mesmo.”
+
+A força espiritual de quem está ministrando Johrei agora é insuficiente. Por isso, as toxinas não se dissolvem. Você precisa dar um jeito de salvá-lo. Ele mora longe?
+
+“A cerca de quatro quilômetros.”
+
+Isso não é longe.
+
+“Os parentes se opõem.”
+
+Aí está o problema. É por isso que a cura demora. Assim fica difícil. Se você insistir em um caso desses, pode gerar outro problema. É melhor se afastar.
+
+“Ele diz que não quer ir ao médico. Tanto ele quanto a esposa são muito dedicados.”
+
+Eles não realizam o Ofício Religioso em casa?
+
+“Realizam, sim.”
+
+Se há tantos opositores, o espírito deles interfere. O problema não é o medo de que ele não se cure; é o medo de que ele se cure. Se ele se curar, eles terão que se curvar à nossa Igreja. Por isso, os pensamentos negativos deles interferem constantemente. E se, por um acaso, ele não se curar, eles dirão: “Eu não avisei?”, e usarão isso para fazer propaganda contra nós. São verdadeiros Espíritos Malignos. São aqueles “demônios gentis”.
+
+A vida dele não corre perigo, mas se o enfraquecimento aumentar, a situação pode se tornar perigosa.
+
+“Eu disse a eles para levá-lo ao médico, mas eles ficam adiando.”
+
+Isso é um problema. Ele precisa ser visto por um médico.
+
+“Os parentes insistem ruidosamente que, se ele for internado agora, irá se curar.”
+
+Que situação complicada. Quem está ministrando Johrei?
+
+“A esposa e um vizinho.”
+
+Assim, a cura será lenta, e se ele vier a falecer, dirão: “Viram? Se iludiu com a religião e acabou nisso”.
+
+O que você deve fazer é dizer o seguinte, de forma clara: “Se os parentes e as pessoas ao redor concordarem e vierem me pedir ajuda, então eu o atenderei. Mas, com tantos opositores, a situação fica desfavorável. Se o senhor conseguir o consentimento de seus parentes e irmãos, e a situação se tornar como eu disse, então eu o ajudarei. Caso contrário, não poderei atendê-lo”. É preciso que você ou outra pessoa deixe isso claro e se decida. Ou você assume o caso, ou não. Uma posição definida é melhor. Do contrário, isso vai gerar problemas.
+
+### **10. Com a intensificação das purificações, cuidar dos enfermos com prudência**
+*Trecho de Sermão (1 de junho de 1953). Publicado no Registro de Orientações Particulares, vol. 21*
+
+De agora em diante, à medida que as purificações se tornarem mais intensas, há algo que precisam ter em mente: as curas serão mais rápidas, mas as mortes também. Acontecerá de casos que pareciam sem esperança se curarem, e outros que pareciam estáveis falecerem subitamente. Os Espíritos Malignos entrarão em um desespero final e estarão à espreita, prontos para transformar qualquer trivialidade em um grande problema. Se houver a cura, eles se calam e recuam. Mas se ocorrer algo que ameace a vida, eles bradarão: “Eu não avisei?”, e usarão o fato para criar um grande alarde e gerar problemas. Por isso, peço que tenham atenção redobrada a esse respeito.
+
+### **11. Se curado pelo Johrei, declarar o fato ao médico com convicção**
+*Trecho de Sermão (7 de novembro de 1952). Publicado na Coletânea de Ensinamentos, vol. 16*
+
+Outro ponto ao qual quero chamar a atenção é o seguinte: quando uma pessoa que está sob tratamento médico se cura através do Johrei, o médico frequentemente fica surpreso e pergunta: “Isso não deveria acontecer. Como você se curou?”. Nesses momentos, muitos, temendo que a verdade possa ofender o médico ou causar algum transtorno, evitam ser totalmente honestos e dão respostas vagas. No passado, houve uma época em que agíamos com certa moderação para não provocar atritos e perseguições, mas hoje isso não é mais necessário.
+
+Pelo contrário, é muito melhor dizer claramente que a cura foi obtida através do método da Igreja Messiânica chamado Johrei. Não é mentira, é a pura verdade. Portanto, deve-se relatar os fatos da maneira mais detalhada e fiel possível. Mesmo que o médico não compreenda, estaremos, de qualquer forma, plantando um estímulo em sua mente.
+
+Se isso acontecer em vários lugares, os médicos começarão a comentar entre si: “A Igreja Messiânica é algo extraordinário. Eles estão curando casos que nós não conseguimos”. Quando essa reputação se espalhar no meio médico, será excelente. Penso que o livro que será publicado em breve, “Salvando a América”, causará um grande impacto. Se, desde já, houver médicos que digam: “Isso não é mentira, eu mesmo tive essa experiência”, eles lerão o livro com muito mais credibilidade. Por isso, senti que era preciso orientá-los a agir segundo essa nova diretriz de agora em diante.
+
+### **12. Quando não se recebe um donativo de gratidão após ministrar Johrei**
+*Trecho de Palestra (setembro/outubro de 1949). Publicado na Coletânea de Palestras, vol. 15*
+
+— Seria correto conscientizar os membros sobre a importância do donativo de gratidão?
+
+Se deixarem a questão nas mãos de Deus, Ele mesmo fará com que a pessoa ofereça o donativo. No caso de pessoas avarentas e obstinadas, Deus fará com que a gratidão chegue através de terceiros. Muitas vezes, pensamos: “Depois de tudo o que fiz por ele, que desaforo. Está me fazendo de bobo”. Contudo, é errado dar indiretas para que a pessoa faça o donativo. (Risos). Podem ficar tranquilos, pois Deus cuidará de tudo da melhor maneira.
+
+### **13. A relação entre crer ou não crer e o processo de cura**
+*Trecho de Orientação Particular (1 de agosto de 1953). Publicado no Registro de Orientações Particulares, vol. 23*
+
+A questão não é tão simples. No início, é natural que uma pessoa que nada conhece duvide que algo assim possa curar; essa é uma reação lógica. Contudo, continuar duvidando mesmo após presenciar um milagre, aí o erro está no ser humano. É nesse ponto que os resultados começam a divergir.
+
+#### **Adendo**
+*Trecho de Orientação Particular (1 de outubro de 1953). Publicado no Registro de Orientações Particulares, vol. 25*
+
+“Sou do Johrei Center de Azabu. Fui mencionado num artigo da revista ‘Fujin Seikatsu’, mas o que foi publicado difere um pouco do que eu disse. Eu expliquei: ‘Como compreendi a lógica, não precisei mais ir ao médico’. Mas escreveram: ‘Não sei bem o porquê, mas ao receber Johrei, fui curado’. Talvez tenham achado que assim ficaria mais interessante.”
+
+Assim é mais eficaz e melhor. Seja compreendendo a lógica ou não, o resultado do Johrei é o mesmo. Portanto, se o artigo diz que a pessoa foi curada mesmo sem entender a lógica, alguém que esteja pensando em ingressar na fé, mas hesita por não compreender, pode pensar: “Se não preciso entender a lógica, então vou tentar”. Isso aumenta o poder de divulgação. A versão alterada, paradoxalmente, foi mais eficaz e positiva.
+
+### **14. Aqueles que não despertam a fé mesmo recebendo Johrei podem ser deixados de lado**
+*Ensinamento (8 de dezembro de 1951). Publicado na Coletânea de Ensinamentos, vol. 5*
+
+“O Sr. Shogo Tanaka, 42 anos, foi hospitalizado em maio de 1931, na Manchúria, com meningite cerebroespinhal epidêmica. Por volta de maio de 1932, conseguia andar de muletas e, na primavera de 1934, já andava normalmente. Contudo, por volta de 1942, teve uma recaída e, apesar de tratamentos com massagem elétrica e quarenta injeções de penicilina, não consegue mais ficar de pé. Ele é fotógrafo. Pediram-me para ministrar-lhe Johrei, e já o fiz cerca de setenta vezes, mas não houve grande melhora. Nem ele nem sua família têm fé. Há cerca de uma semana, flores de ‘udonge’ desabrocharam em uma maçã que ele ganhou de um vizinho. Há três ou quatro anos, algo semelhante aconteceu, e sua mãe, que teve um derrame, faleceu logo em seguida. Por isso, ele está muito preocupado. Fizemos a Oração Amatsu-Norito e o Salmo Zenguen-Sandji. Peço orientações sobre os pontos focais do Johrei e sobre as flores de ‘udonge’.”
+
+Não têm fé... isso é inaceitável. Que tipo de pensamento é esse? Se, após setenta sessões, uma pessoa não desperta a fé, é melhor parar. Por mais que se continue, será inútil. No início, é natural que ninguém tenha fé. Mas, ao longo de tantas sessões, certamente você falou sobre Deus. Se, mesmo assim, a pessoa permanece indiferente... desperdiçar seus esforços com ela é um desserviço a Deus. Portanto, é melhor parar.
+
+Outra coisa: dê a eles os Escritos Divinos — jornais, revistas — para ler. Se, mesmo após a leitura, a fé não despertar, pode deixá-los de lado. Nossos escritos são redigidos de forma a serem compreendidos por quem os lê. Se o coração da pessoa não se move diante deles, significa que sua mente está, de certa forma, paralisada.
+
+Isso não quer dizer que seja um caso perdido. Existe o tempo certo para cada um. Pode ser que um dia a pessoa leia e pense: “Ah, é isso!”. Portanto, é importante que leiam. Mas aqueles que não demonstram sensibilidade podem, por ora, ser deixados de lado. É uma abordagem mais eficiente. Insistir por setenta sessões é ineficiente. É um esforço em vão e, por isso, um desperdício.
+
+### **15. Sobre os casos em que pessoas boas não são salvas, e pessoas más o são**
+*Ensinamento “Myochi no Hikari” (publicado na revista Paraíso Terrestre, vol. 3, em 20 de abril de 1949)*
+
+“Por meio do Johrei, vemos casos em que pessoas que consideramos boas não são salvas, enquanto outras, que nos parecem completamente más, são. Qual a razão para isso?”
+
+É um grande erro julgar se alguém é bom ou mau com base na perspectiva humana. A visão de Deus, muitas vezes, é diferente. Conforme mencionado em meus escritos, tudo pode ser visto sob a ótica *Hinayana* (do pequeno veículo) ou *Mahayana* (do grande veículo), e a perspectiva muda completamente. Devemos observar as pessoas sob a ótica *Mahayana*.
+
+Embora se fale em “pessoas boas”, os verdadeiramente bons são extremamente raros. Geralmente, aqueles que são considerados bons são, na verdade, pessoas sem iniciativa. Em contrapartida, as pessoas dinâmicas e realizadoras são frequentemente vistas como más. Aos olhos de Deus, uma pessoa “boa”, mas inútil, é um peso para o mundo, sendo, portanto, uma espécie de pessoa má.
+
+Para realizar um grande bem, é inevitável que se cometam pequenos males. Se nos atermos apenas a esses pequenos males, veremos a pessoa apenas como má. Além disso, da perspectiva de uma pessoa má, uma pessoa boa é vista como má.
+
+Em suma, não se pode determinar o bem e o mal de forma simplista. O bem e o mal também variam com a época. O pensamento de lealdade ao imperador e patriotismo, por exemplo, tornou-se algo negativo na democracia atual. Em última análise, o verdadeiro bem é aquilo que proporciona felicidade a toda a humanidade de forma igualitária.
+
+### **16. Sobre a sacralidade do Johrei**
+*Trecho de Orientação Particular (1 de junho de 1952). Publicado no Registro de Orientações Particulares, vol. 10*
+
+“Há um membro cego que, quando toca na pessoa que está recebendo Johrei, diz que a pessoa que recebe sente algo muito forte...”
+
+A pessoa cega toca em quem está recebendo Johrei? O ato de tocar já é estranho. Se ele está tocando, por que continuar o Johrei? Não entendo bem o que você está dizendo. Enquanto você ministra Johrei em uma pessoa A, o cego toca nessa pessoa A, é isso? Por que você permite que ele a toque?
+
+“Foi o que me disseram...”
+
+Quem lhe disse?
+
+“Um dos meus subordinados.”
+
+Seu subordinado? E esse fenômeno ocorre nesse momento? O que eu quero saber é por que o cego toca na pessoa. Por que você não o repreende e diz para não tocar? Alguém que age assim deveria abandonar a fé e ir venerar o cego.
+
+“É que dizem que sentem uma forte energia espiritual...”
+
+Os Espíritos Malignos também possuem uma forte energia espiritual. Sentir uma energia não significa nada de especial. A questão não é essa. Enquanto se recebe o sagrado Johrei de Deus, permitir que um cego toque na pessoa que o está recebendo revela uma mentalidade questionável por parte de quem ministra.
+
+#### **Adendo: Sobre sentir que é um desperdício ministrar Johrei em animais**
+*Ensinamento “Myochi no Hikari” (publicado na revista Paraíso Terrestre, vol. 3, em 20 de abril de 1949)*
+
+“Às vezes me pedem para ministrar Johrei em animais, mas sinto que é um desperdício. O que o senhor pensa?”
+
+Kannon (観音) derrama sua compaixão e suas bênçãos até mesmo sobre os insetos. Do ponto de vista da salvação, podemos considerar animais e seres humanos da mesma forma. Ademais, quanto mais inferior o animal, mais eficaz é o Johrei.
+
+### **17. Sobre o donativo de gratidão pelo Johrei**
+
+#### **1.**
+*Trecho de Palestra (setembro/outubro de 1949). Publicado na Coletânea de Palestras, vol. 15*
+
+Essa questão não pode ser definida de forma absoluta. No caso do Johrei, por exemplo, se a pessoa não tem absolutamente nenhum recurso, pode-se atendê-la gratuitamente. Mas, se ela pode contribuir com algo, por menor que seja, deve fazê-lo. A consideração humana é importante, mas a realidade espiritual pode ser bem diferente.
+
+Quando um ministro ministra Johrei, ele tem despesas para viver, portanto, é natural que receba um donativo de gratidão. E se houver um excedente, o correto é ofertá-lo a Deus. O donativo deve ser proporcional às condições de cada um. A prática de oferecer Johrei gratuitamente é uma farsa, pois a maioria das pessoas não tem condições de fazer isso.
+
+Antigamente, havia quem dissesse que o tratamento deveria ser gratuito. É claro que a Kannon (観音) não precisa de donativos, mas o intermediário mora em uma casa e não pode viver de brisa. Os ricos deveriam fazer grandes donativos. Ao ter a vida salva, seria justo ofertar metade de seus bens. Por isso, eu costumava dizer: “Donativo de gratidão eu ainda não recebi; recebi apenas uma taxa de serviço”. (Risos). De fato, ter a vida salva é algo extraordinário.
+
+Portanto, oferecer um donativo de bom grado é o correto, e recebê-lo também é o correto.
+
+Lembro-me de uma senhora muito dedicada que atendia muitas pessoas. Certa vez, alguém deixou um donativo que era dois ou três ienes a mais que o valor da inscrição, e ela foi devolver o excedente. Fiquei sabendo disso pelo marido dela. Atitudes como essa são um erro crasso, um desrespeito gravíssimo a Deus. Apesar de todo o seu empenho, ela estava completamente equivocada. Essa senhora acabou falecendo no Grande Terremoto.
+
+#### **2.**
+*Trecho de Palestra (23 de julho de 1949). Publicado na Coletânea de Palestras, vol. 13*
+
+Essa é uma questão bastante complexa. A ideia de tornar o donativo o mais acessível possível ou, em alguns casos, atender os pobres gratuitamente, como uma obra social, parece, à primeira vista, muito nobre. Contudo, é um erro tremendo. Em religiões de pouca graça, isso talvez fosse aceitável, mas diante de um Deus tão maravilhoso, a gratidão é o mínimo que se espera.
+
+Na época em que eu atendia, uma senhora muito fervorosa, ao receber um donativo maior do que o esperado, devolveu a diferença. Foi um erro gravíssimo. Por mais dedicada que fosse, sua compreensão fundamental estava errada. Essa senhora morreu afogada no Grande Terremoto. Portanto, a compreensão desse ponto é bastante delicada.
+
+O mais curioso é que, na época em que eu atendia, quanto mais alto era o valor do donativo, mais pessoas vinham me procurar. A gratidão por ter sido salvo não pode ser medida em dinheiro. Certa vez, alguém me perguntou qual seria o valor adequado para o donativo. Eu respondi: “Basta o sentimento de gratidão. Se fosse para agradecer de verdade, seria uma fortuna”. (Risos). “Naquela época, seriam uns cem mil ienes.” (Risos). “Portanto, ofereça o que estiver ao seu alcance”.
+
+De fato, o valor é inestimável. Antigamente, as pessoas ofertavam uma moeda e pediam paz no lar, prosperidade nos negócios, saúde... (Risos). Por isso, atender gratuitamente é errado. A pessoa que não agradece acaba acumulando pecados, pois receber uma graça de Deus e não expressar gratidão é um pecado.
+
+Fazer o donativo depois de curado é uma farsa. O correto é fazê-lo antes, como uma súplica. Isso porque, ao agradecer depois, estamos tratando Deus como um empregado. É como contratar alguém e, após o serviço prestado, pagar-lhe o combinado. Nessa lógica, o ser humano se coloca acima, e Deus, abaixo. Portanto, é antes de receber a graça que se deve ofertar a sinceridade e suplicar a Deus.
+
+Bem, talvez as pessoas de hoje tenham dificuldade em entender isso. No passado, era comum fazer donativos e, mesmo assim, a pessoa morrer. A culpa, no entanto, não era de Deus, mas do intermediário. Mesmo que não houvesse má-fé, o resultado era negativo. O princípio fundamental é este que expliquei. Compreendendo-o, ajam conforme a situação.
+
+#### **Adendo**
+*Ensinamento “Hikari no Oshie” (publicado na revista Paraíso Terrestre, vol. 24, em 25 de maio de 1951)*
+
+“Estou ministrando Johrei a uma senhora que, à beira da morte, foi salva pela proteção Divina. O marido dela é incapaz e detesta trabalhar. Ambos receberam o curso de formação, mas o sentimento de gratidão parece tênue, e há mais de um ano não fazem nenhum donativo. Nesses casos, posso continuar ministrando Johrei sem receber o donativo, com a permissão de Deus? Ou seria melhor deixá-los de lado por um tempo, até que despertem?”
+
+É melhor deixá-los de lado. Cuidar de pessoas tão ingratas é um desserviço a Deus. Quando chegar a hora e a pessoa despertar de coração e vier suplicar ajuda, então você poderá pedir perdão a Deus em nome dela e rogar por sua salvação.
+
+### **18. A Oração de Súplica por Proteção Divina**
+
+#### **1. O erro de se focar no Johrei e se esquecer de Deus**
+*Trecho de Sermão (26 de agosto de 1953). Publicado na Coletânea de Ensinamentos, vol. 25*
+
+É comum, no Johrei, que um caso não se resolva de jeito nenhum e, ao orarmos a Deus, a melhora seja imediata. Isso acontece porque nos apegamos demais ao Johrei, esquecendo o essencial, a origem, e valorizando apenas os galhos. Se pensarmos em qual seria a maneira mais lógica e apropriada de agir, o processo se torna relativamente fácil e bem-sucedido.
+
+#### **2. O dever de suplicar com sinceridade**
+*Ensinamento “O Mistério do Mundo Espiritual” (publicado na revista Paraíso Terrestre, vol. 9, em 25 de outubro de 1949)*
+
+Sendo o Mundo Espiritual um mundo de pensamentos, o nada pode gerar o ser, e o ser pode se tornar nada, em uma transformação incessante. (...)
+
+Outro ponto é que, quando o fiel ora com sinceridade e de coração diante do Objeto de Culto, o poder do espírito divino, ou seja, sua Luz, manifesta-se com grande força. Em contrapartida, se o pensamento do fiel for meramente formal, sem uma veneração sincera, o poder divino diminui na mesma proporção. Ademais, quanto maior o número de fiéis em oração, mais resplandecente se torna a Luz do poder de Deus.
+
+#### **3. Uma vez que se suplica por proteção, é preciso entregar-se completamente**
+*Trecho de Sermão (27 de junho de 1953). Publicado na Coletânea de Ensinamentos, vol. 23*
+
+Quando alguém suplica “Por favor, salve minha vida, cure minha doença”, a resposta de Deus é: “Você não está na fé? Eu cuidarei de tudo da melhor maneira. Não precisa me implorar com tanta insistência. Não me agrada ser visto como alguém tão desumano. Se você confia em mim, eu salvarei sua vida de qualquer maneira”.
+
+Nas religiões tradicionais, a ideia de que Deus só ajuda se a pessoa fizer abluções, jejuns ou peregrinações não provém do Deus verdadeiro, mas de Espíritos Malignos. O amor de Deus é imenso e profundo; tudo depende do ser humano. Se a pessoa confia e se entrega, Deus, ao receber essa confiança, não tem como não salvar. Para Ele, ser depositário dessa confiança aumenta Sua responsabilidade. Portanto, quando nos entregamos a Deus, fica muito mais fácil para Ele nos salvar.
+
+Essa forma de pensar também reflete a diferença entre as visões *Hinayana* e *Mahayana*. Deus, por sua vez, sempre salvará aqueles que são úteis à Sua Obra. Quanto aos que atrapalham ou são inúteis, Ele se afasta e aguarda o momento em que compreendam. O poder de Deus é imenso, como vimos no caso do testículo que se formou; se Ele quiser salvar, é algo simples. O problema é que as condições para a salvação não estão preenchidas. Cabe ao ser humano criar essas condições.
+
+#### **4. O donativo de sinceridade (Tamagushi) deve ser ofertado antes da súplica**
+*Trecho de Palestra (8 de março de 1949). Publicado na Coletânea de Palestras, vol. 5*
+
+Há também pessoas que dizem: “Se esta doença for curada, farei um donativo”. Isso também está invertido, pois coloca Deus em uma posição inferior. Significa que Deus precisa primeiro curar para depois receber o pagamento. (Risos). A Tenrikyo insiste muito na questão das doações, mas como ela mesma não tem força para curar, isso acaba se tornando uma espécie de estelionato. A culpa não é de Deus, mas do intermediário que promete uma cura que não pode proporcionar. Se a cura não acontece, o dinheiro deveria ser devolvido. Ouvimos muitas histórias de pessoas que vão reclamar por não terem sido curadas. Contudo, do ponto de vista da ordem correta, a primazia deve ser de Deus.
+
+*Trecho de Palestra (23 de julho de 1949). Publicado na Coletânea de Palestras, vol. 13*
+
+Fazer o donativo depois de curado é tratar Deus como um empregado. É como contratar alguém e, após o serviço prestado, pagar-lhe o combinado. Nessa lógica, o ser humano se coloca acima, e Deus, abaixo. Portanto, é antes de receber a graça que se deve ofertar a sinceridade e suplicar a Deus.
+
+#### **5. O critério para o donativo de gratidão pela proteção Divina**
+*Trecho de Palestra (23 de julho de 1949). Publicado na Coletânea de Palestras, vol. 13*
+
+Certa vez, alguém me perguntou qual seria o valor adequado para o donativo. Eu respondi: “Basta o sentimento de gratidão. Se fosse para agradecer de verdade, seria uma fortuna”. (Risos). “Naquela época, seriam uns cem mil ienes.” (Risos). “Portanto, ofereça o que estiver ao seu alcance”.
+
+---
+
+# Coleção de Teses do Reverendo Okada Jikan
+
+**Categoria:** kanren | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coleção de Teses do Reverendo Okada Jikan
+
+**Publicações Correlatas**
+
+**Guia para a Difusão I e II**
+Data de publicação: Desconhecida
+Compilador: Ichiro Nakamura
+
+Trata-se de uma compilação que classifica e cita os ensinamentos de Meishu-Sama, organizada por tópicos pertinentes a todas as esferas das atividades da Igreja. Configura-se como um manual destinado a chefes de Igreja e servidores (ministros de tempo integral).
+
+Pequenos erros tipográficos, bem como as citações e suas respectivas fontes, foram revisados e corrigidos para esta versão em formato digital.
+
+O Volume II apresentava uma notável divergência entre o índice e o corpo do texto, decorrente da compilação original. Procedemos, todavia, a uma criteriosa correção do índice e à adição das referências bibliográficas pertinentes. Agradecemos a sua compreensão.
+
+**I - Fundamentos da Fé**
+
+**Capítulo I: Acerca dos Ensinamentos de Meishu-Sama**
+1. As Palavras de Meishu-Sama são as Próprias Palavras de Deus
+2. O Dever de Seguir Rigorosamente as Palavras de Meishu-Sama
+3. A Necessidade de Obedecer a Todos os Ensinamentos de Meishu-Sama com Sinceridade
+4. Sobre o Rigor de Deus
+5. Exemplo da Confusão Gerada pela Transmissão Incorreta das Palavras de Meishu-Sama
+6. A Inexistência de um "Lado Oculto" nos Ensinamentos de Meishu-Sama
+7. O Dever de Julgar com Base nos Escritos Divinos, sem Crer Cegamente na Opinião Alheia
+8. O Fato de Meishu-Sama Não Corrigir os Erros até que se Acumulasse Certa Experiência de Fé
+9. A Impossibilidade de Compreender os Ensinamentos além do Nível Espiritual (Sabedoria e Iluminação) Correspondente
+10. A Impossibilidade de Compreender o Poder e a Virtude de Meishu-Sama senão de Acordo com o Nível Espiritual
+11. A Revelação da Divindade de Meishu-Sama através dos Fatos, Conforme a Chegada do Tempo Determinado
+
+**Capítulo II: Sabedoria e Iluminação**
+I. A Importância de Aprimorar a Sabedoria e a Iluminação
+II. O Método para Alcançar a Sabedoria e a Iluminação
+III. Outros Pontos Relacionados à Sabedoria e Iluminação
+IV. A Sabedoria Divina (No Caso de Meishu-Sama)
+
+**Capítulo III: Sobre Deus**
+I. Crítica às Concepções Convencionais sobre Deus
+II. Acerca de Deus
+
+**Capítulo IV: Sobre a Ascensão Espiritual**
+1. No Caso da Ascensão Espiritual
+2. No Caso da Ascensão Espiritual: Ministros e a Igreja
+
+**Questões Diversas da Fé**
+
+**Capítulo I: Ministros**
+I. Até se Dedicar Integralmente à Difusão
+II. Relação Cármica
+III. Missão
+IV. O Aprimoramento do Ministro
+V. A Relação Cármica entre Mestre e Discípulo
+VI. A Postura do Presidente e do Chefe de Igreja
+
+**Capítulo II: A Igreja**
+I. Até a Construção da Igreja
+II. As Diretrizes da Igreja
+III. Como Parte da Estrutura da Organização Religiosa
+
+**Capítulo III: Assuntos a Ter em Mente**
+1. O Dever de Desejar Fervorosamente a Felicidade Alheia, Esquecendo-se de Si Mesmo
+2. A Postura de Lidar com Deus, e Não com o Homem
+3. Vencer Perdendo
+4. A Necessidade de Corresponder à Vontade Divina e Dedicar-se Zelosamente à Própria Missão
+5. A Revelação Gradual do Plano Divino para a Conclusão do Paraíso, à Medida que o Tempo se Aproxima
+6. A Precaução contra a Vaidade e o Equívoco
+7. Os Espíritos Malignos Estão Sempre à Espreita
+8. O Dever de Julgar a Si Mesmo
+9. A Necessidade de Lidar com Deus, e Não com o Homem (Em Relação ao Plano Divino)
+10. A Advertência contra a Vaidade, o Equívoco e a Fé de Visão Estreita
+11. Não Julgueis
+12. Sede Mahayana
+13. Com a Elevação do Mundo Espiritual, Erros Outrora Tolerados Deixam de Ser Perdoados
+14. A Intensificação da Purificação a Partir do Festival do Início da Primavera (Ano 29)
+15. A Aproximação do Fim dos Tempos e o Grande Teatro dos Três Mil Mundos
+16. Sobre o Falecimento de um Ministro
+
+**Capítulo IV: Outras Práticas da Fé**
+1. Sobre o Amor
+2. A Importância do Pensamento e da Força das Palavras
+3. O Contato com a Suprema Beleza Eleva o Espírito
+4. O Dever de Valorizar as Dificuldades Humanas
+5. A Razão pela Qual a Pobreza Não é Extinta
+6. Atrasar o Pagamento do Aluguel Impede a Entrada de Dinheiro
+7. Sobre o Princípio da Concordância
+8. O que Significa Praticar a Sinceridade
+9. O Dever de Não Mentir
+10. O Método Mais Imediato para Eliminar o Ego e o Apego
+11. A Necessidade de o Ministro Absorver Novos Conhecimentos
+12. A Postura Diante do Amor
+13. Sobre a Dificuldade em Praticar os Ensinamentos
+
+**Questões Práticas da Difusão**
+
+**Capítulo I: Cuidados Fundamentais**
+1. O Dever de Difundir de Acordo com a Vontade Divina
+2. Ao Falar como Intermediário de Deus
+3. O Dever de Ouvir Qualquer Relato sem Críticas
+4. O Potencial de Atuação daqueles que se Opunham, uma vez Esclarecidos
+5. A Necessidade de Perceber Rapidamente o Coração das Pessoas
+6. O Dever de se Atentar aos Pequenos Detalhes
+7. Tornai-vos Ágeis
+8. O Dever de Servir com Eficiência
+9. Pontos Vitais
+10. A Coerência no Discurso da Pessoa Verdadeiramente Elevada
+11. Sobre a Forma de Falar, o Conteúdo e a Postura
+12. Sobre o Uso de Mentiras, Palavras de Ira, Concordância com Lamentos e Elogios como Ferramentas de Orientação
+13. A Orientação Através da Alegria
+14. A Arte da Conversação
+15. O Sol e a Lua
+16. Quando se Comete um Lapsus Linguae
+17. A Fé Baseada na Ameaça
+18. Difundir sem Gerar a Hostilidade de Outras Religiões
+19. Sobre a Prática de Kannon (観音)
+20. Em que Medida o Sentimento de Compaixão Deve se Manifestar em Atos
+21. O Método Mais Eficaz ao Sair para Desbravar a Difusão em Locais Distantes
+22. Sobre Sair para a Difusão em Meio a uma Purificação Severa
+23. A Partir de Quando (as Ministras) Podem Ministrar Johrei após o Parto
+
+**Capítulo II: Expansão**
+I. O Pensamento Básico
+II. A Relação com o Mundo Espiritual
+III. O Plano Divino e a Expansão da Obra
+
+**II - Sobre o Altar Sagrado**
+
+**(Parte I)**
+I. O Significado da Entronização do Altar Sagrado
+II. A Postura do Pensamento por Ocasião da Entronização
+III. Sobre o Momento Adequado para a Entronização
+IV. Exemplos de Orientação para se Proceder à Entronização
+
+**(Parte II)**
+V. O Culto Mensal
+VI. O Formato dos Ofícios Religiosos
+VII. O Johrei Center (e os Locais de Reunião)
+VIII. Reverência, Oração, etc.
+
+**(Parte III)**
+IX. Procedimentos para a Substituição do Altar Sagrado
+X. Procedimentos em Caso de Profanação
+XI. O Tratamento do Altar Sagrado quando o Fiel que o Entronizava Falece ou se Afasta da Fé
+XII. A Respeito de Senju Kannon (千手観音)
+XIII. Outros
+
+**Sobre o Johrei**
+
+**Capítulo I: Para os Principiantes**
+1. Bondade e Cordialidade
+2. Se Solicitado, Levantar-se Mesmo Durante o Sono para Ministrar Johrei
+3. O Dever de Respeitar a Ordem ao Ministrar Johrei
+4. A Prioridade em Descobrir os Pontos Vitais do Johrei em Relação às Questões da Fé
+5. O Estado do Paciente Deve ser Relatado como Leve ou como Grave?
+6. Abster-se de Ministrar Johrei a Quem Não Abandona os Medicamentos
+7. Sobre a Ministração de Johrei em Pacientes Internados
+8. Como Proceder com Pacientes Aparentemente Incuráveis
+9. O Cuidado Cauteloso com Pacientes que Têm Opositores na Família
+10. O Cuidado Diligente com o Paciente diante da Intensificação da Purificação
+11. O Dever de Declarar ao Médico que a Cura se Deu pelo Johrei
+12. Quando Não se Recebe Gratidão após Ministrar Johrei
+13. A Relação entre Crer ou Não Crer e o Processo de Cura
+14. A Conduta de Não Insistir com Pessoas que, Mesmo Recebendo Johrei, Não Despertam a Fé
+15. Os Casos em que Pessoas Boas Não são Salvas e Pessoas Más o São
+16. Sobre a Sacralidade do Johrei
+17. Sobre o Donativo de Gratidão pelo Johrei
+18. A Oração de Agradecimento pela Proteção Divina
+
+**Capítulo II: Para os Ministros**
+1. O Cuidado com os Enfermos Estritamente de Acordo com os Ensinamentos
+2. Em que Medida se Deve Receber Johrei
+3. Sobre as Doenças de Origem Espiritual
+4. As Principais Razões para a Dificuldade na Resolução da Purificação
+5. A Classificação dos Aspectos da Fé que Desafiam a Lógica
+6. Casos de Repreensão Divina por Atos Contrários aos Ensinamentos
+7. A Forma de Cultuar o Oratório Budista
+8. Os Desvios na Fé
+9. Sobre a Racionalidade da Fé
+10. Sobre a Variação da Força Espiritual do Intermediário
+11. O Dever de se Desapegar da Vida em Momentos de Perigo
+12. Sobre a Repurificação
+13. Sobre a Morte de um Fiel
+
+**Sobre a Dedicação**
+
+**(Parte I)**
+I. A Missão do Ser Humano
+II. Donativo Puro e Donativo Impuro
+III. O Servir através do Dinheiro e a Liquidação dos Pecados
+IV. A Dedicação e a Proteção Divina
+V. Uma Análise Rigorosa
+VI. Uma Análise Centrada na Obra Divina
+VII. Ao Orientar Pessoas para a Dedicação
+
+**(Parte II)**
+VIII. Em Relação à Construção
+IX. O Avanço da Construção e a Expansão da Obra
+X. O Papel do "Paraíso Terrestre" na Obra da Salvação
+XI. Sobre o "Modelo" do Paraíso Terrestre
+XII. Sobre as Diversas Instalações
+
+---
+
 # Perfil de Mokichi Okada, o Ser Humano
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
 
 ## Perfil de Mokichi Okada, o Ser Humano
 Por Sakae Iwasaki
@@ -294,7 +1485,7 @@ Aqui, gostaria de fazer uma observação. Ao praticar o pragmatismo religioso, a
 # Compilação dos Escritos do Mestre Jikan Okada
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
 
 ## Compilação dos Escritos do Mestre Jikan Okada
 
@@ -493,7 +1684,7 @@ Mas isso não é um problema. Se o ser humano conseguisse fazer tudo como deseja
 # Fundamentos da Fé – Capítulo Terceiro: Acerca de Deus
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 23号, 24号, 23号 | **Data ISO:** 1953-07-15
 
 ## Fundamentos da Fé – Capítulo Terceiro: Acerca de Deus
 
@@ -676,7 +1867,7 @@ Temos muitos fiéis, e seu número continuará a crescer. Entre eles, certamente
 # Publicação Relacionada — Sobre a Igreja Messiânica — A Proximidade com o Cotidiano do Homem Comum
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
 
 ## Publicação Relacionada — Sobre a Igreja Messiânica — A Proximidade com o Cotidiano do Homem Comum
 
@@ -748,7 +1939,7 @@ Qual das duas atitudes é a mais adequada, eis algo que não sei dizer.
 # Guia para a Prática da Difusão I-3-2: Questões Práticas da Difusão - Capítulo II: Desenvolvimento
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 8号, 7号, 7号 | **Data ISO:** 1949-05-30
 
 ## Guia para a Prática da Difusão I-3-2: Questões Práticas da Difusão - Capítulo II: Desenvolvimento
 
@@ -1073,7 +2264,7 @@ Essa tal de ciência moral ou ciência espiritual é de baixo nível. Do meu pon
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas
 ## A Luz sobre a Terra
@@ -1432,7 +2623,7 @@ Decidi que precisava, o quanto antes, escrever sobre este incidente de 8 de maio
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas
 
@@ -1855,7 +3046,7 @@ A voz do Mestre era gentil. Nos olhos sem visão do assistente, algo brilhou int
 # A Luz Sobre a Terra
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## A Luz Sobre a Terra
 
@@ -2244,7 +3435,7 @@ Uma lua fina já se inclinava consideravelmente no céu.
 # Obras Relacionadas – A Luz Sobre a Terra, de Ei Asou | 8. Dias Sombrios (Parte Um)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** 法難手記
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Obras Relacionadas – A Luz Sobre a Terra, de Ei Asou | 8. Dias Sombrios (Parte Um)
 
@@ -2675,361 +3866,6 @@ Como havia jornalistas reunidos no portão da frente, o carro que o esperava foi
 No céu, as estrelas brilhavam como se estivessem a cair.
 
 O Fundador, esquecendo-se até de entrar no carro, estava absorto, contemplando o suntuoso banquete do céu noturno.
-
----
-
-# Coletânea de ensinamentos do Mestre Okada Jikan
-
-**Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published
-
-## Coletânea de ensinamentos do Mestre Okada Jikan
-## Guia de Difusão Ⅰ–3–1: Questões práticas na difusão da fé
-
-### Capítulo 1: Advertências Fundamentais
-
-#### 1. A Difusão da Fé Conduzida por Deus
-(Palestra de 7 de junho de 1953)
-
-O advento do Mundo de Miroku representa a transformação do mundo infernal em um paraíso celestial; trata-se, portanto, da maior revolução desde o início da humanidade. Contudo, ao mesmo tempo que é a mais grandiosa, é também a revolução de mais fácil realização. Utiliza-se a expressão “revolução sem derramamento de sangue”, que se refere à ausência de conflitos, mas a nossa vai muito além disso. Não se trata meramente de uma revolução pacífica, mas sim da mais suave que se possa conceber, razão pela qual poderíamos denominá-la “revolução celestial”. A partir do dia quinze, essa transição se intensificará gradualmente. Pela Lei do Espírito Precede a Matéria, o Mundo Espiritual já está se transformando, e, consequentemente, o Mundo Material, o nosso mundo fenomênico, refletirá essa mudança.
-
-Diante disso, poderíamos até mesmo nos limitar a ser meros expectadores. Basta que realizemos as tarefas que Deus nos confia, que nos são apresentadas. Nesse sentido, é preferível não interferir com a sabedoria e os pensamentos humanos. Por exemplo, quando um doente nos procura, não devemos nos ocupar com conjecturas como: “Se eu salvar esta pessoa, tal e tal coisa acontecerá”. A pessoa que chega até nós deve ser salva; essa é a ordem. Portanto, basta que o façamos. Por outro lado, se alguém nos rejeita, devemos compreender que Deus não deseja salvá-lo e, assim, não insistir nem persegui-lo. Agir dessa forma torna tudo mais simples. É comum cedermos ao pensamento humano e calcular: “Se eu salvar esta pessoa, a difusão se expandirá enormemente e muitos fiéis surgirão”. Esse é o erro. O ser humano é incapaz de prever tais desfechos. Por isso, muitas vezes, alguém que nos parece insignificante acaba por ser de grande valia, enquanto outro, em quem depositávamos grandes esperanças, fracassa. Aí reside a diferença entre o pensamento humano e o pensamento Divino.
-
-#### 2. Falar na condição de intermediário de Deus
-(Palestra de 1 de dezembro de 1952)
-
-“Recentemente, em minhas viagens pelas províncias, compreendi algo que considero fundamental e que não devemos jamais esquecer. Ao iniciar uma palestra, devemos sempre rogar: ‘Meishu-Sama, por favor, conduza-me’. Quando me esqueço disso, sinto uma estranha perturbação e percebo que estou sendo repreendido. Fui levado a refletir que, se não nos esquecermos desse pedido, tudo transcorrerá bem.”
-
-Exatamente. Comigo ocorre o mesmo. Se preparo de antemão o que vou dizer, pensando “hoje falarei sobre isto”, o resultado é invariavelmente inferior. Por outro lado, quando venho sem premeditação, em estado de não-ego e de forma inconsciente, como uma folha em branco, acabo por proferir palavras mais inspiradas e surgem temas interessantes e inesperados. É algo verdadeiramente inexprimível, que a lógica não consegue explicar. Isso demonstra que em tudo o que Deus faz não há o menor desvio; é algo formidável.
-
-#### 3. O dever de ouvir qualquer relato sem fazer censuras
-(Palestra de 1 de junho de 1953)
-
-##### ① Não censurar a mentira
-
-Enquanto censurarmos a mentira alheia, não alcançaremos o estado espiritual necessário. Devemos ouvir com aparente admiração, dizendo: “Entendo, é mesmo?”. No entanto, em nosso íntimo, é preciso que saibamos a verdade. O ser humano precisa desenvolver essa espécie de desapego astuto. Quando um negociante de antiguidades me subestima e diz: “Esta peça é autêntica, aquela é uma falsificação”, eu respondo: “Realmente, agora que o senhor diz, faz todo o sentido”. Mas, por dentro, penso: “O que este sujeito está a dizer?”. Penso que ele me toma por tolo, por ignorante em tais assuntos, mas externamente ouço-o com grande interesse. E, nesse processo, por vezes, em meio a suas artimanhas, ensinam-nos algo de valia com suas palavras astutas.
-
-##### ② Ouvir atentamente a todos
-
-Certo sábio chinês disse: “Não se deve julgar o discurso pela pessoa que o profere”. Podemos aprender imensamente com as palavras de um simples trabalhador braçal ou de um camponês. Portanto, não devemos fazer distinção entre as pessoas. Tudo o que chega aos nossos ouvidos merece, a princípio, nossa atenção. Também as crianças podem nos ensinar. Certamente já tiveram essa experiência: uma criança, por vezes, diz algo de uma inteligência notável. Assemelha-se à filosofia da intuição de Bergson; por possuírem uma intuição pura, as crianças proferem coisas extraordinárias. É comum observarmos discussões entre mãe e filho em que a razão está, de fato, com a criança.
-
-##### ③ Quando a família se opõe ao Johrei
-
-Se agirmos sempre dessa maneira, jamais surgirão problemas. No caso de uma doença, se os familiares se opõem, devemos dizer, com admiração: “Está ótimo, o senhor tem toda a razão”. A pessoa que se opunha pensará: “Este mestre é bastante compreensivo”. Devemos explicar: “De nossa parte, jamais dizemos para não consultar um médico ou não tomar remédios. A decisão é inteiramente sua. Contudo, o princípio é este. E Deus me ensinou desta forma: os remédios são venenos. Aceitar ou não este ensinamento é uma escolha sua”. Se, diante disso, a pessoa se convence e opta por não recorrer a médicos e remédios, excelente. Se, ao contrário, não se convence e o faz, arcará com as consequências de seus próprios atos. O esforço obstinado para persuadir alguém a qualquer custo revela grande imaturidade. O essencial é que haja sinceridade no fundo do coração. De resto, podemos agir com o máximo de desapego. Se no âmago de nosso ser residir a sinceridade e o desejo de ajudar, todo o resto pode ser conduzido com flexibilidade, adaptando-se às circunstâncias. É o que se chama de agir com infinitas variações.
-
-Por isso, é um erro comum estabelecer diretrizes e métodos fixos, pois isso leva ao fracasso. É preciso, como se diz, agir com versatilidade e fluidez.
-
-##### ④ Perder é ganhar
-
-É difícil, mas o ser humano precisa se livrar de sua rigidez. Como sempre digo, na maioria das vezes, devemos ceder. Em discussões e diversas outras situações, o segredo é perder. Isso constitui uma forma de aprimoramento espiritual. Ouvir a mentira do outro como se fosse verdade é um exercício penoso, mas é um treinamento para que nos tornemos capazes de suportar tais situações com serenidade. Este é o verdadeiro aprimoramento vivo. Mesmo que sejamos momentaneamente mal compreendidos ou derrotados, essa situação não perdurará. Inevitavelmente, o outro acabará por se arrepender ou compreender e se desculpará. Quando a verdade vier à tona, essa pessoa passará a nos reverenciar profundamente, pensando: “Que pessoa admirável. No passado, eu disse tantos disparates e ele me ouviu com seriedade. Deve ter um grande domínio de si”. A partir de então, depositará em nós sua total confiança.
-
-#### 4. Os opositores, uma vez que compreendem, tornam-se valiosos
-(Orientação de 5 de novembro de 1951)
-
-Nem eu mesmo fui sempre como sou hoje. Nasci e cresci como um ateu convicto. Se fizesse fortuna, planejava apoiar o comunismo; tencionava tornar-me um simpatizante da causa. Por isso, a fé em Deus me era repulsiva. Eu pensava: “Que gente tola”. Contudo, nunca pratiquei o mal. Desejava fazer o bem; sentia que era o certo a se fazer, mas a ideia de Deus... para mim, Deus simplesmente não existia.
-
-Por essa razão, os opositores, quando finalmente compreendem, costumam se tornar excelentes membros. Um opositor ferrenho torna-se um fiel igualmente fervoroso. O mais problemático é aquele que é indiferente. Quem se opõe, ao menos, possui uma convicção. Opõe-se por acreditar que o outro está errado. É a força dessa convicção que, uma vez revertida, se torna positiva. Já o indivíduo ambíguo, que não se opõe nem concorda, é o mais difícil. Geralmente, são esses que, quando exortados à fé, respondem: “A fé é algo maravilhoso, maravilhoso”, sem qualquer sinceridade.
-
-#### 5. A importância de discernir rapidamente o coração das pessoas
-(Palestra de 6 de dezembro de 1952)
-
-Recentemente, Eisenhower parece ter inspecionado a Coreia e retornado, mas o fato de ter conseguido manter a visita em segredo e realizá-la com sucesso revela sua grande habilidade. Apenas por este ato, creio que Eisenhower realizará grandes feitos. Dizem que ele despistou mais de quarenta jornalistas, o que demonstra sua notável agilidade. De fato, sem agilidade mental, um ser humano não prospera. Não me refiro à agilidade física, que pode ser comedida, mas sim à agilidade de espírito. Sem sensibilidade e prontidão, não se pode realizar um bom trabalho.
-
-Nesse aspecto, sou extremamente rápido. Meu corpo também é relativamente ágil, mas refiro-me à rapidez com que trabalho e avalio as coisas. Com certo treinamento, é possível desenvolver essa capacidade. Ao observar uma ou duas palavras ou ações de uma pessoa, consigo deduzir: “Se ele diz isso, certamente tem esta intenção; se age assim, decerto possui este hábito”. É preciso enxergar isso rapidamente. Ao visitar a casa de alguém, um breve olhar me permite inferir: “O dono desta casa tem este gosto, leva este tipo de vida”. Com um pouco de atenção, não é difícil perceber. Muitas vezes, quando alguém vem me visitar, pela sua maneira de se curvar ou pelas suas primeiras palavras, já compreendo com que propósito veio. É essa a agilidade necessária. Quando fui a Kyoto e Nara, não precisei de muito tempo. Sou muito rápido. Enquanto os outros ficavam desnorteados, eu já havia compreendido. Alguém que apenas observa e fica a ponderar não é verdadeiramente útil. É preciso treinar para captar o máximo de informações num piscar de olhos. É um hábito. Com ele, obtém-se grande vantagem.
-
-Isso se aplica tanto a homens quanto a mulheres. Uma esposa, ao observar seu marido, pode perceber: “Ah, ele arranjou outra mulher”. Se ele chega tarde, ela intui: “Esta noite há algo estranho, ele esteve em um lugar suspeito”. No entanto, saber disso não significa que se deva agir impulsivamente. Não se deve, com ciúme, confrontá-lo: “Você está chegando tarde, anda muito estranho ultimamente”. Pelo contrário, deve-se agir com sutileza. Em tais momentos, em vez de mostrar um semblante contrariado, é preciso tratá-lo com especial gentileza. Assim, o marido se sentirá constrangido e pensará: “É uma pena fazê-la se preocupar tanto”. Se a esposa, ao contrário, reage com ciúmes e atitudes alteradas, o marido também se torna hostil e justifica-se: “Eu trabalho para sustentar esta casa, não posso ter um momento de lazer? Sou homem, afinal!”. Embora os fiéis não passem por tais situações, os homens têm suas peculiaridades.
-
-Essa capacidade de percepção rápida é útil em inúmeras outras circunstâncias, e é fundamental treiná-la. É impossível calcular o quanto se pode ganhar com isso. No mundo de hoje, as pessoas mentem, e não podemos esperar que se mostrem como realmente são. Enquanto não conhecerem a Deus, existirão pessoas assim. É preciso ter a perspicácia para pensar: “Ele diz isso, mas em seu íntimo, provavelmente pensa aquilo”.
-
-#### 6. A necessidade de atentar-se aos pormenores
-(Orientação de 1 de novembro de 1953)
-
-Falamos em grande e pequeno veículo, em corações magnânimos e corações mesquinhos, mas a verdade é que um homem capaz de realizar grandes feitos deve, necessariamente, atentar-se aos menores detalhes. Aquele que só pensa em grandezas e negligencia os pormenores está fadado ao fracasso. Mesmo nutrindo grandes ideais, é preciso ter também um olhar para as pequenas coisas. Em última análise, sem a capacidade de cuidar do pequeno, não se pode realizar o grande. Portanto, não se trata de ser grande ou pequeno veículo; não se deve pender para um extremo ou outro.
-
-#### 7. Sejam ágeis
-
-##### ①
-(Palestra de 6 de junho de 1953)
-
-Com a diminuição do yakudoku, o corpo torna-se notavelmente mais leve. Consequentemente, os movimentos ficam mais ágeis, e a mente, da mesma forma, torna-se mais perspicaz. As pessoas de hoje, contudo, estão repletas de toxinas medicamentosas, o que as torna mentalmente letárgicas e fisicamente lentas. É natural, portanto, que ocorram tantos acidentes. Se um motorista de carro ou trem for ágil, ao ver um perigo, desvia-se instantaneamente. Mas, por ser lento, não consegue reagir a tempo. Vemos isso também nos incêndios. O recente incêndio florestal em Hokkaido, que consumiu cerca de vinte mil hectares, foi uma catástrofe. A causa, em grande parte, foi atribuída a pontas de cigarro. Se a pessoa que a descartou tivesse um mínimo de atenção, pensaria no perigo e a apagaria, mas essa atenção lhe faltou. Nos Estados Unidos também ocorrem muitos acidentes, especialmente de trânsito, devido à lentidão de raciocínio dos americanos. Essa debilidade mental é a causa de inúmeros prejuízos e inseguranças na sociedade, o que nos mostra, sob mais este prisma, como os medicamentos são terríveis. E, ainda assim, a partir de amanhã, seu uso será ainda mais incentivado. Não sei se chamo a isso de estupidez ou se há outra palavra para descrevê-lo.
-
-No passado, eu também tomei muitos remédios e, mais do que letárgico, tornei-me apático para tudo. O resultado, no fim, é semelhante à letargia. Contudo, como constantemente ministro Johrei em mim mesmo, percebo claramente que, à medida que as toxinas diminuem, minha sensibilidade aumenta. A diferença em relação aos jovens de hoje é gritante. Eles são lentos. Quando caminho com eles, preciso moderar meu passo. Dizem-me: “Meishu-Sama, o senhor anda muito rápido, não conseguimos acompanhá-lo”. E eu respondo: “É a idade”. Quase diariamente, quando vou a um local esperando que já estejam prontos, descubro que ainda não chegaram. Eu sou sempre o primeiro. Essa falta de sincronia chega a ser um problema.
-
-Outro dia, disse aos jovens que eles precisavam se tornar como batedores de carteira. Se eu me tornasse um, teria muito sucesso, pois sou rápido até para fugir. Disse-lhes que é preciso ter essa mentalidade. A única diferença é que não se deve roubar os bens alheios; de resto, a atitude deve ser a mesma: tornar-se ágil. Assim, identificamos rapidamente os pontos essenciais das coisas, eliminamos o desperdício e aumentamos a eficiência. Elevar o espírito e a alma significa justamente isso: estar atento a tudo. Nas Escrituras da Oomoto, há uma passagem que diz: “Em todas as coisas, atentai e cuidai com esmero”. É preciso estar atento. No entanto, há muitas pessoas desatentas, que não percebem os pequenos detalhes. Isso ocorre porque sua mente funciona lentamente. Mesmo um pouco de prática consciente nesse sentido já faz uma grande diferença.
-
-Quando alguém fala, é preciso captar a essência em uma única palavra. “Se ele diz isso, é porque tem tal natureza.” Ao ouvir o relato de um visitante, compreender rapidamente: “Ah, ele veio com este propósito”. Isso é extremamente útil. Ao entrar na casa de outra pessoa, basta olhar os calçados na entrada. Se estiverem gastos e em mau estado, penso: “Aqui a situação financeira não é boa”. Se vejo uma criança comendo um doce barato e simples, também compreendo. Costumo observar o padrão das gravatas. Sei se o dono tem bom ou mau gosto. Se o nó está bem-feito, sei que é uma pessoa meticulosa; se está frouxo, sei que é desleixada. Observar esses detalhes é conveniente e vantajoso em todas as situações. Com isso, podemos antecipar mudanças no coração e nos pensamentos do outro, e perceber se sua fé está progredindo ou estagnando.
-
-É melhor evitar tentar enxergar as coisas espiritualmente de maneira forçada, pois isso requer uma habilidade especial que a maioria não possui. Eu, por ter essa capacidade, faço-o com frequência, mas todos devem se empenhar em observar as coisas materialmente. Este é o lado científico. É preciso ter ambos, o espiritual e o científico, mas deve-se começar pelo científico. É algo que todos podem fazer e é de suma importância. Por isso, sou tão rápido e eficiente na construção de museus ou de qualquer outra coisa. Eu identifico os pontos essenciais. Na construção do anexo do museu, por exemplo, dediquei cerca de vinte minutos para uma avaliação inicial e dei as primeiras instruções. Depois, retornei duas vezes por mais vinte ou trinta minutos e a obra ficou exatamente como eu queria. Isso porque identifico e oriento sobre os pontos cruciais, o que eleva a eficiência.
-
-O mesmo se aplica à cura de doenças. Sempre toco na testa do doente e, pelo calor que sinto, tenho uma noção geral. Há diferentes tipos de calor: um calor profundo e um superficial. No calor superficial, o núcleo não está quente. Já no calor profundo, o calor emana do centro, enquanto a superfície não está tão quente. Este último caso é mais grave, indicando uma purificação intensa. Assim, consigo discernir a gravidade do quadro. Também sei imediatamente se a pessoa vai tossir ou expelir catarro. Quando toco no ponto certo, ela invariavelmente o faz. Isso indica a presença de toxinas ali. Procedendo dessa forma, o Johrei produz efeitos mais rápidos. Isso também depende da sensibilidade dos nervos. Portanto, se tivermos essa atitude em tudo o que fazemos, a diferença será notável. Não se consegue isso de imediato, mas, com essa intenção e prática, o desperdício diminui gradualmente.
-
-Quando vamos falar sobre Deus, precisamos discernir se a pessoa está interessada ou se ouve por mera formalidade, a contragosto. Se for por formalidade, devemos parar. Se houver interesse, devemos falar com fervor. Há sempre um ponto essencial; se o tocamos, a pessoa tem uma súbita compreensão e decide ingressar na fé. É fundamental ter essa atenção.
-
-##### ②
-(Palestra de 7 de junho de 1953)
-
-Seria aceitável se vivêssemos em uma época sem automóveis, na era das liteiras. Mas hoje, em uma era de velocidade vertiginosa, a mente humana não consegue acompanhar. Pior do que isso, as pessoas agem de forma a impedir que acompanhe. É imprescindível, portanto, que a parte posterior da cabeça esteja livre de toxinas. No entanto, as pessoas a saturam de venenos medicamentosos, tornando seu aprimoramento uma tarefa árdua. Com o corpo lento, são forçadas a se mover rapidamente. É uma situação verdadeiramente trágica. Os fiéis, por terem eliminado boa parte de suas toxinas, estão em uma condição muito melhor. Mas as pessoas em geral são terrivelmente lentas. E, por serem lentas, seu raciocínio é deficiente. Em tudo o que veem e ouvem, sua lentidão mental se manifesta. Não percebem as coisas mais simples.
-
-Ao caminhar por aí, seja na cidade ou no campo, vemos caminhos estreitos e malcuidados. Bastaria cortar uma árvore, remover um pouco de mato ou retirar uma pedra para que o caminho se tornasse muito mais agradável, mas ninguém o faz. As pessoas simplesmente não percebem. Com um pequeno cuidado, as coisas poderiam se tornar muito mais convenientes e melhores, mas elas não se dão conta ou sentem preguiça. Esse desleixo, essa dificuldade em agir, é onipresente. Há muitas situações ao nosso redor que poderiam ser melhoradas com um pequeno gesto — um suporte aqui, a remoção de algo ali, um ajuste na altura —, mas as pessoas não percebem e, mesmo que percebam, a inércia as impede de agir. Tudo isso se deve ao fato de que o yakudoku paralisa suas funções.
-
-O andar das pessoas de hoje também é lento. Nesse aspecto, sempre enfrento dificuldades. Talvez eu seja rápido demais, mas o fato é que, muitas vezes, quando chego a um local, o que deveria estar pronto ainda não está. Isso me leva a repreendê-los com frequência. É natural, portanto, que ocorram tantos acidentes, e os prejuízos decorrentes são imensos.
-
-Há ainda outro fator: o excesso de pensamentos impuros. A mente está tão ocupada em enganar e em tramas escusas que não consegue funcionar para o bem. O cérebro trabalha para o mal, e é por isso que as coisas não dão certo e surgem problemas. A causa fundamental, no entanto, é o yakudoku. Portanto, é preciso eliminá-lo. Eu também tive muitas toxinas no passado, mas, ao ministrar Johrei em mim mesmo, fui gradualmente as removendo. Com isso, meu corpo se tornou mais leve e minha mente, mais ágil. Por isso, outro dia, repreendi os homens, dizendo-lhes que precisavam se tornar como batedores de carteira, ou seja, aguçados e rápidos. Não para que roubassem, mas para que se tornassem ágeis como eles. Muitas vezes penso: “Se eu fosse um batedor de carteiras, teria um sucesso tremendo”. Minha velocidade para fugir seria estonteante. Agindo dessa forma, obtêm-se enormes benefícios. Dizem que esses ladrões, só de tocar na carteira de alguém, sabem quanto dinheiro há dentro. É preciso chegar a esse nível.
-
-Na fé, ao conversar com alguém, devemos perceber rapidamente se a pessoa tem capacidade para compreender os ensinamentos de Deus ou não. Assim, como li há pouco, saberemos se ela está do lado dos que serão salvos ou dos que não serão. No caso de uma doença, quando alguém se queixa de dor de cabeça ou no quadril, podemos diagnosticar a causa observando a natureza da pessoa e a forma como sofre. A cor da pele também revela muito. Uma pele muito pálida ou amarelada indica intoxicação por medicamentos da medicina oriental. A medicina ocidental não afeta tanto a cor da pele. Se compararmos os danos, os da medicina oriental são mais graves. O recente aumento da expectativa de vida se deve ao fato de as pessoas não tomarem mais esses medicamentos. Hoje, elas usam os da medicina ocidental, que não alteram a cor da pele e curam as doenças mais rapidamente, de forma menos persistente. Por isso se diz que a vida se prolongou, mas poucos percebem que a razão é a substituição dos remédios orientais pelos ocidentais. Portanto, a pele pálida é causada pela medicina oriental. Os americanos, por exemplo, têm uma boa cor de pele, devido aos medicamentos ocidentais. Doenças muito persistentes são frequentemente causadas por intoxicação por remédios orientais, embora, ultimamente, os ocidentais, com suas injeções, não fiquem muito atrás.
-
-##### ③ As toxinas no cóccix, pescoço e cabeça
-(Palestra de 15 de julho de 1953)
-
-Pessoas que perdem o fôlego ao caminhar, especialmente em subidas, geralmente têm toxinas acumuladas na região do cóccix. O quadril pesado torna as pernas também pesadas. O esforço para movê-las causa a falta de ar. Eu, na minha idade, subo montanhas e ladeiras com grande rapidez, às vezes mais rápido que os jovens. Quando estou com alguém mais fraco, preciso moderar meu passo. A razão é que eu constantemente ministro Johrei no meu quadril, que é muito leve. A incapacidade de subir ladeiras rapidamente se deve à falta de ar, causada pela dor ou pressão no quadril. O esforço resultante leva à fadiga respiratória. Quem sofre disso deve ministrar Johrei no centro do quadril. A melhora será notável. Ao pegar um trem ou bonde, é preciso ser capaz de embarcar antes dos outros. Dizer isso pode parecer egoísta, mas não é. As pessoas de hoje têm o quadril pesado e não conseguem se mover com agilidade. Eu, com o quadril leve, movo-me com rapidez e consigo embarcar primeiro, o que é uma vantagem. É um resultado natural, não há o que fazer. Não é que eu empurre os outros; eles é que são lentos, e eu, rápido.
-
-Outro ponto é que as pessoas de hoje não são intelectualmente inferiores, mas seu raciocínio é lento. Não funciona com agilidade. Isso se deve às toxinas no pescoço e na cabeça, que embotam a atividade cerebral. A mente também precisa funcionar com rapidez. Assim como meu corpo é leve, minha mente também é ágil. Há pouco, ao vir para cá, senti que o haori que eu vestia me deixava com uma aparência desleixada, como um lobo com a pele solta. O colarinho parecia um pouco largo, então comentei sobre isso. A criada comparou com outro e disse: “Não, é igual, não há diferença”. Eu insisti: “Não pode ser. Meça com uma régua”. E, de fato, havia uma diferença de cerca de um bu. O que isso significa? Que seus nervos não são ágeis. Situações como essa ocorrem constantemente.
-
-Portanto, assim como o corpo, a mente também precisa ser ágil. Eu sempre digo que as mulheres devem ser perspicazes, mas a mente das mulheres de hoje não é ágil; é lenta. As mulheres da Sekaikyuseikyou, felizmente, são diferentes. Assim, quando o corpo e a mente funcionam com agilidade, obtém-se grande vantagem. Compreende-se tudo mais rapidamente, com um simples olhar, e o número de erros diminui. A causa de tudo, no final, são as toxinas.
-
-##### ④ As toxinas na parte posterior da cabeça
-(Palestra de 5 de junho de 1953)
-
-A causa está nas toxinas medicamentosas acumuladas na parte posterior da cabeça, no bulbo raquidiano. A vida cultural moderna, quando compreendida em sua essência, torna-se cômica. Isso se aplica não só a questões sociais, mas também ao meu cotidiano; fico espantado com a lentidão das pessoas de hoje. Mais do que espantado, fico incomodado. Tudo é lento. São lentas e seu raciocínio é fraco. Cometem erros banais e se atrasam. Sem as toxinas nesse local, nada disso aconteceria. Eu sou tão rápido que as pessoas ao meu redor ficam desnorteadas. Quando vou a algum lugar, na maioria das vezes chego pensando que tudo está pronto, mas não há ninguém e nada foi preparado. Tenho vontade de voltar e tirar uma soneca antes de ir.
-
-Se as toxinas da parte posterior da cabeça forem eliminadas, a maioria das pessoas se tornará igualmente rápida. Eu ando tão depressa que preciso moderar o passo quando estou com jovens. Eles dizem: “Meishu-Sama, o senhor é muito rápido, não conseguimos acompanhar”. E eu respondo: “É a idade”. Dizem que sou rápido demais, mas, na verdade, quando as toxinas são eliminadas, a maioria das pessoas, senão todas, torna-se muito mais veloz. Além disso, quando a mente funciona bem, a eficiência aumenta enormemente, eliminando o desperdício, o que é economicamente vantajoso. Embora não cheguem ao meu nível, certamente se tornarão mais perspicazes. A causa de tudo é o yakudoku. Se os próprios fiéis, que já eliminaram boa parte de suas toxinas, ainda são assim, podemos imaginar a lentidão das pessoas em geral. E são essas pessoas que dirigem automóveis; é natural que ocorram tantos acidentes. A causa, como acabei de ler, é essa. Portanto, o Johrei não serve apenas para curar doenças, mas também tem um grande efeito sobre esses problemas.
-
-#### 8. Realizar o Trabalho Divino com eficiência
-(Palestra de 18 de novembro de 1951)
-
-Há dois ou três dias, fui a uma mina que administro. Só então compreendi certas coisas. Foi bom ter ido. Senti uma vontade irresistível de ir, e agora sei que foi Deus quem me enviou. De uma perspectiva geral, eles estavam trabalhando de forma completamente equivocada, desperdiçando esforços. Havia apenas um local onde, no início do mês, eu havia instruído sobre como explorar um ponto essencial, e eles se preparavam para seguir minhas ordens. Contudo, havia um ponto ainda mais promissor que eles haviam ignorado por completo. É verdade que a autorização para explorar essa área só havia chegado dez dias antes, então eles a deixaram para depois. Meu princípio é: se a autorização chega, começo no mesmo dia. E assim, descobri aquele lugar extraordinário.
-
-No caminho de volta, refletindo, senti que era preciso começar o trabalho o mais rápido possível. Na mesma noite em que voltei, dia treze, enviei um telegrama ordenando que investigassem detalhadamente a antiga galeria e me respondessem. Enviei o telegrama na manhã do dia catorze, e a resposta chegou ontem. Era exatamente como eu pensava. Eu queria que fossem imediatamente e fizessem como eu havia dito, mas eles pediram para esperar até o dia vinte e um. Como eu tinha um filme para ver, não discuti, mas, no caminho de volta, telefonei e ordenei que fossem no dia seguinte. Dei instruções detalhadas para que tudo estivesse conforme eu queria até o dia vinte e um. Essa é a minha forma de ser eficiente, que difere do modo comum de fazer as coisas. Como eu ordenei ontem à noite, eles foram hoje de manhã. Com isso, economizamos quatro dias: dezoito, dezenove, vinte e vinte e um. Isso é o que chamo de eficiência. É assim que eu trabalho. Quando vejo uma boa oportunidade, ajo sem demora. Mas não se deve ter pressa. Sem pressa e sem desperdício, ataco os pontos essenciais. Na minha visita do dia treze, descobri o ponto mais vital da montanha. Uma vez descoberto, meu método é começar a trabalhar o mais rápido possível. Por isso, é natural que as coisas deem certo. As pessoas comuns, em geral, são muito vagarosas. O ensinamento que li há pouco trata exatamente disso.
-
-#### 9. O Ponto Essencial
-
-##### ① Em conversas importantes, não se desviar do ponto essencial
-(Palestra de 15 de novembro de 1951)
-
-Deus — o verdadeiro Deus — é extremamente simples. Não há desperdício. Portanto, o ser humano, quando sua fé se aprofunda, também deve se tornar assim. Em conversas triviais, pode-se falar o quanto quiser, de forma descontraída e divertida. Mas, nos assuntos importantes, é preciso tocar nos pontos essenciais. Essa é a maneira de Deus agir. É comum, especialmente entre as mulheres, encontrar quem fale incessantemente, sem parar. Isso é uma raposa falando. Ao final, não se sabe o que foi dito. Falam de tal forma que não dão ao outro a chance de se pronunciar.
-
-##### ② Falar após descobrir o ponto essencial
-(Palestra de 5 de julho de 1953)
-
-Isso não se aplica apenas a doenças, mas a tudo no dia a dia: conversas, divulgação da fé, entre outros. Quando uma pessoa está em dúvida sobre ingressar na fé, se tocarmos precisamente no ponto essencial, ela decidirá: “Então, vou ingressar”. Encontrar esse ponto, contudo, é bastante difícil. À medida que a sabedoria e a iluminação da pessoa avançam, a descoberta do ponto essencial se torna mais rápida. Em qualquer situação, o segredo é focar nesse ponto. E, quando não o encontramos, não devemos agir com precipitação. Pode ser que o momento ainda não seja o certo ou que haja outras circunstâncias. Se estivermos sempre atentos, quando a hora chegar, o ponto essencial se revelará.
-
-##### ③ Como discernir o ponto essencial
-(Orientação de 1 de dezembro de 1952)
-
-Sobre a habilidade de fazer alguém compreender através da palavra, ou seja, de tocar no ponto essencial, como mencionei há pouco, o segredo é observar. Para esta pessoa, se eu disser isto, ela entenderá. Mas cada pessoa é diferente. O que funcionou com uma pode não funcionar com outra. É o que se chama de “pregar a Lei de acordo com a pessoa”. Isso não requer deliberação; acontece naturalmente. Quando o coração da pessoa se torna dócil e livre de pensamentos impuros, suas palavras naturalmente atingem o ponto essencial do outro. Se isso não acontece, é porque há ego ou pensamentos impuros, um desejo de falar por falar, e a comunicação não flui. Este Ensinamento é sobre a adaptação ao próximo. Se nos adaptarmos, nossas palavras o tocarão. É algo ao mesmo tempo simples e difícil, e constitui uma forma de aprimoramento. É preciso praticar até atingir esse estado. Então, por atingirmos o ponto essencial, o coração do outro se move e ele compreende. Pode-se dizer que é uma forma de inteligência, ou que se atinge esse estado ao elevar grandemente o nível espiritual. Falar a esmo, muitas vezes, tem pouco efeito. É como um atirador de elite, que acerta o alvo com um único tiro, em contraste com aquele que dispara uma saraivada de chumbo para, com sorte, acertar um.
-
-“Trata-se, então, da diferença entre a sabedoria divina e a sabedoria turva.”
-
-Exato. A beleza disso é fascinante. Não se deve falar demais, nem de menos. Dependendo do tempo e da ocasião, é preciso ser infinitamente versátil e livre. É como uma disciplina acadêmica, mas de uma natureza diferente da do mundo. A nossa é de um nível superior, acima do universitário. Por isso, ao atingir esse estado, qualquer erudito ou professor universitário se curvará diante de nós. Eu tenho apenas o ensino primário, mas professores universitários vêm a mim e baixam a cabeça. Este é um exemplo disso.
-
-##### ④ A forma de responder revela a inteligência
-(Orientação de 8 de novembro de 1951)
-
-Quando se pergunta ou se fala algo, encontrar alguém capaz de dar uma resposta precisa é difícil, talvez um em cem. A maioria, mesmo que não se desvie completamente, não acerta em cheio. O intervalo entre a pergunta e a resposta, e a própria forma de responder, revelam a inteligência de uma pessoa.
-
-##### Anexo: Exemplo de uma conversa que atingiu o ponto essencial
-(Palestra de 7 de setembro de 1953)
-
-Anteontem, um ex-presidente da Nikkatsu, um homem de grande visão, veio, trazido por outra pessoa influente, para ouvir minha opinião. A pessoa que o trouxe também é alguém de destaque. Ele começou dizendo: “Pretendo construir e administrar um edifício no estilo de Mônaco em Ginza e gostaria de seu apoio”. Eu respondi: “Não posso apoiá-lo”. Quando ele perguntou o motivo, eu disse: “Porque esse tipo de negócio cria pecado”. Essa única frase pareceu tê-lo despertado. Como ele nasceu em uma família ligada a um templo e conhece bem o budismo, a palavra “pecado” o fez compreender instantaneamente. Conversamos sobre vários assuntos, e, como eu ia sempre direto ao ponto essencial, ele ficou extremamente grato e disse que havia alcançado uma grande iluminação. Encontrar o ponto essencial é, portanto, um ato de sabedoria e iluminação. Quem se torna uma pessoa assim, descobre rapidamente o ponto crucial em qualquer situação.
-
-#### 10. Pessoas verdadeiramente superiores não apresentam contradições em seu discurso
-(Palestra de 1 de outubro de 1952)
-
-Certa pessoa veio me ver quando eu ainda estava em Atami e conversamos por mais de uma hora. Naquele momento, percebi que ele não iria longe. Houve uma frase em seu discurso que me fez pensar: “Este não tem futuro”. Ele disse, provavelmente referindo-se aos militares: “Cansei-me deste mundo. Queria ir para a Lua e tirar uma soneca”. Essa única frase me bastou. Tirar uma soneca, tudo bem, mas a “Lua” foi um desvio extremo. Pensei que sua mente estava completamente desorientada. Após a guerra, ele atuou nos Estados Unidos e em outros lugares, mas eu nunca depositei muitas esperanças nele.
-
-Observando por esse prisma, vemos que, para avaliar o caráter de uma pessoa, basta notar se há algo estranho em seu discurso para que seu valor se revele. Entre as pessoas com quem conversei e ouvi até hoje, são raras aquelas cujas palavras são metade corretas. Mesmo entre as pessoas de alto nível, encontro uma ou duas coisas que me parecem estranhas. Entre as mulheres, embora não aconteça com os homens, é comum que, mesmo nas de nível mais elevado, um terço do que dizem seja inconsistente. Nos casos mais graves, chega à metade. Para perceber isso, é preciso estar livre, não ser “um deles”. Se você faz parte do grupo, não tem a capacidade de discernir. Essa capacidade de discernimento, ou seja, a capacidade crítica, é essencial. Ao ler ou ouvir o que dizem os grandes homens, não há ninguém cujas palavras sejam cem por cento coerentes.
-
-#### 11. Sobre a maneira de falar, o conteúdo e a conduta
-(Palestra de 6 de janeiro de 1952)
-
-Antes de começar a palestra, gostaria de falar sobre algo que me ocorreu no carro. É um assunto que raramente abordo, mas creio que será útil. Frequentemente assisto a filmes, especialmente americanos. As legendas que traduzem os diálogos são notavelmente refinadas, muito mais do que as palavras usadas pelos japoneses. Sempre me impressiono com isso e, ao refletir, percebo como a linguagem japonesa carece de refinamento. Portanto, como fiéis, ao falarmos com as pessoas, devemos nos esforçar para usar uma linguagem polida. Isso é algo que pode ser alcançado até certo ponto. Uma linguagem refinada expressa os pontos essenciais, sem palavras supérfluas ou descabidas. É a arte de expressar com precisão fatos concretos.
-
-Isso é a Lei. Estar em conformidade com a Lei, ou ter a Lei, é, em outras palavras, seguir o Caminho. Não se desviar do Caminho, estar em harmonia com ele, é isso. E não se aplica apenas às palavras, mas também aos gestos, à atitude, ao pensamento e às ações. Tudo deve estar em consonância. Por exemplo, ao visitar a casa de alguém, desde abrir o portão, subir ao vestíbulo, cumprimentar, sentar-se no aposento — a maneira de se sentar e de falar deve variar de acordo com o anfitrião e a situação. Há uma atitude e um discurso apropriados para quando somos convidados, e outros para quando visitamos por nossa conveniência. O conteúdo da conversa, a forma de se dirigir ao interlocutor, a maneira de fazê-lo aceitar nossas ideias — tudo isso segue uma Lei, não pode ser feito de qualquer jeito.
-
-O mais problemático é aquele que só fala o que quer e não deixa o outro se expressar. Isso é o pior. Melhor do que ser um bom orador é ser um bom ouvinte. Devemos ouvir atentamente o que o outro tem a dizer e, em resposta, apresentar nossas palavras. Assim, a conversa flui de forma agradável para ambos. Em uma conversa em grupo, também é errado interromper quem está falando. Pior ainda é aquele que, em voz alta, tenta anular as palavras do outro. O parlamento japonês é um exemplo típico disso. Enquanto alguém fala, outros tentam abafar sua voz. O mesmo ocorre em reuniões de pessoas importantes. É uma atitude péssima.
-
-Há uma Lei e um Caminho para tudo: o andar, a postura, tudo. E o Caminho deve variar de acordo com o interlocutor. Devemos nos adaptar: às mulheres como mulheres, aos idosos como idosos, aos intelectuais de forma intelectual, às pessoas simples com simplicidade. Essa capacidade de adaptação é a atuação do corpo que se manifesta em resposta ao próximo. Embora seja difícil alcançar a perfeição, à medida que nos aproximamos desse ideal, nosso destino melhora consideravelmente. Se não somos apreciados ou se as pessoas não concordam conosco, a culpa não é apenas delas; parte dela está em nós. O pior de tudo, certamente, é mentir. Há mentiras que não são ditas por maldade, mas para agradar momentaneamente. Ao mentir, o outro pode se alegrar ou se impressionar, e acabamos exagerando ou fantasiando. Com isso, a pessoa pensa: “Se ele diz isso, a verdade deve ser bem menos”, e desconta. Eu mesmo faço isso. Assim, mesmo quando se diz a verdade, ela é recebida com desconfiança, o que é frustrante. O ideal é não mentir. Quando se tem a reputação de ser verdadeiro, a credibilidade é imensa. Há quem se queixe de que ninguém confia nele, mas isso é egocentrismo. O problema não está nos outros, mas em si mesmo, em alguma falha em sua maneira de agir, que precisa ser refletida e descoberta.
-
-Pode parecer um assunto trivial, sem grande importância, mas é fundamental. A amabilidade também é importante. Elogios vazios são ruins, pois afetam a credibilidade. Pensa-se: “Ele diz isso, mas quem sabe o que realmente pensa”. Cria-se uma má reputação. A honestidade, mesmo que inclua uma crítica velada, é geralmente bem recebida. Eu mesmo, por vezes, digo coisas bastante duras. Mas, como minha intenção é, de certa forma, agradar o outro, digo-o de forma bem-humorada. Assim, a pessoa reflete sobre o que foi dito. Isso já é mais complexo, mas, no fim, o essencial é fazer o outro se sentir bem. Em um grupo, há quem diga coisas desagradáveis ou estranhas, estragando o clima. Isso é péssimo. Devemos proporcionar sensações agradáveis aos outros. Fazer isso sem afetação, com sinceridade, é o ideal.
-
-Raramente falo sobre essas coisas. É quase um sermão. Mas algo me fez perceber que seria bom falar sobre isso uma vez, e por isso o faço.
-
-#### 12. Sobre o uso de mentiras, palavras de ira, condolências e elogios na orientação espiritual
-(Diálogo Iluminado de 13 de junho de 1949)
-
-— Sobre as palavras e o espírito da palavra: (1) Se acreditamos que nossas palavras beneficiarão o outro, podemos proferir mentiras, palavras de ira ou de compaixão por um lamento?
-
-Mentiras, às vezes, são inevitáveis. Se alguém pergunta: “Como está a minha doença?”, e respondemos: “A sua não tem cura de jeito nenhum”, a pessoa ficará desolada. (Risos) Dizer: “Vai ficar curado, fique tranquilo”, mesmo sendo uma mentira, é uma boa mentira.
-
-A ira, se for pelo bem da nação e do mundo, é aceitável. A ira pessoal, não. E, claro, manifestar a ira em ações é totalmente errado. Além de tudo, não traz benefício algum. Há quem bata nos filhos, mas essa criança acabará batendo em outras. Contudo, há momentos em que é impossível não se zangar. Reprimir essa emoção pode levar a doenças mentais. (Risos) Mulheres, por exemplo, podem ficar transtornadas ao serem repreendidas ou mal compreendidas pelo marido. Portanto, é preciso agir com flexibilidade.
-
-Mentiras e ira, em princípio, são aceitáveis se tiverem uma boa função. Mas, ao divulgar este Caminho para trazer pessoas à fé, há quem acredite que os fins justificam os meios. Isso é errado. As coisas de Deus devem ser feitas sempre de forma correta. A pessoa deve crer porque é a verdade e porque é algo sublime. O ideal, claro, é chegar a um ponto em que não se consiga mais mentir.
-
-Quanto ao lamento, devemos, sim, mostrar compaixão. Isso consola a pessoa. Mas com moderação. Se concordarmos com tudo, acabamos sofrendo também. Nesses casos, devemos nos antecipar e tocar no ponto essencial. Assim, o outro para de se lamentar. Em suma, se nos entregarmos a Deus com sinceridade, as palavras certas e apropriadas para o momento surgirão. Portanto, não há com que se preocupar.
-
-— (2) Mesmo que não saibamos o que é bom ou mau do ponto de vista de Deus, qual é o poder do espírito da palavra quando expressamos nossa própria convicção?
-
-Dizer “do ponto de vista de Deus” é uma questão de grau. Mesmo que não se saiba o que é bom ou mau, na maioria das vezes, o bom senso e a sinceridade nos guiam. O que se confunde facilmente é o bem do grande veículo com o bem do pequeno veículo. Apenas o grande veículo não basta. Os preceitos, por exemplo, são do pequeno veículo. Não fazer o mal por causa dos preceitos não é a verdadeira virtude. É como não cometer crimes porque existe a polícia; é o mesmo que um animal que não morde porque está enjaulado. A verdadeira virtude é não morder mesmo sem a jaula. Mas, como a humanidade ainda não chegou a esse ponto, não podemos remover as jaulas.
-
-— (3) E quanto a elogios, palavras para se engrandecer ou para se humilhar?
-
-Elogios são bons; fazem o outro se sentir bem, então são ótimos. Mas a bajulação já é errada. O que é apenas superficial não é verdadeiro. Há ministros que dizem não conseguir fiéis porque não sabem falar. Se fosse uma questão de eloquência, bastaria contratar um contador de histórias. (Risos) Não é o falar, mas a nossa sinceridade que toca o outro. Por isso, há pessoas que, mesmo falando mal, conseguem muitos fiéis. Talvez sejam até a maioria. Sempre me impressiono com a eloquência dos chantagistas. E como a palavra realmente funciona para eles, continuam a usá-la. Em contrapartida, quem não tem o dom da palavra tende a mostrar sua convicção através de ações e resultados.
-
-Engrandecer-se é errado. O ser humano precisa se livrar da rigidez. Como diz o ditado: “O missô que cheira a missô não é o melhor missô”.
-
-Humilhar-se é bom. É a “prática da posição inferior”. Praticar isso até certo ponto é bom. A arrogância é feia. A humildade excessiva também é estranha, mas é rara. Até eu me sinto bem quando o outro se coloca em uma posição inferior.
-
-— (4) As palavras devem ser concisas, mas qual é o poder do espírito da palavra em conversas triviais ou piadas para suavizar o ambiente?
-
-Piadas, se forem boas, são ótimas. Uma piada só é boa de verdade se faz as pessoas rirem. Uma boa piada realmente suaviza o ambiente. Em assuntos práticos, a concisão é melhor, mas, no dia a dia, piadas são muito bem-vindas.
-
-#### 13. Orientar por meio do deleite
-(Palestra de 21 de dezembro de 1951)
-
-Eu pretendo seguir um método que permita que as pessoas desfrutem. Que, através dos olhos, não da lógica, de forma natural e inconsciente, enquanto se divertem, elevem sua alma. Seja na educação artística ou em qualquer outra área, essa é a verdadeira educação. A educação tradicional está errada. Com as crianças, por exemplo, é possível formar o caráter de uma maneira muito mais alegre e interessante.
-
-#### 14. A arte da palavra
-(Palestra de 8 de setembro de 1951)
-
-O mesmo se aplica às obras de arte. Algumas são cheias de detalhes e trabalho, mas não despertam o menor interesse. Outras, antigas, com uma ou duas pinceladas, têm um encanto maior. Há alguns dias, uma amiga de minha esposa, que pinta demais, pintou um bosque de bambus e o musgo do Templo do Musgo. Preencher toda a tela é um erro. É como um artesão fazendo arte. A verdadeira arte está em, com uma ou duas pinceladas, criar a sensação de que a tela inteira está preenchida. Mesmo no esboço, em vez de preencher tudo, deve-se simplificar e extrair uma sensação ainda mais intensa do que a da própria natureza. Aí reside a arte.
-
-O mesmo vale para o falar. Não é falando sem parar que se move as pessoas. É com uma ou duas palavras que se penetra no coração do outro, que se o estimula. Esse é o ponto.
-
-#### 15. O Sol e a Lua
-
-##### ① Impor a razão ou ceder à opinião alheia?
-(Diálogo Iluminado de setembro/outubro de 1949)
-
-— Mesmo estando do lado da razão, por não gostar de conflitos, é melhor ser prudente e esperar o tempo certo, ou é melhor discutir com o outro até que o certo e o errado sejam definidos? Qual das duas atitudes é melhor e mais humana?
-
-Isso depende da situação; não se pode decidir por uma ou outra. Há momentos em que a prudência é melhor, mas a discussão é sempre errada. Este Caminho visa a eliminar os conflitos. Se o outro está enganado, devemos explicar. É uma explicação. Se, mesmo assim, ele não entender, devemos esperar o tempo certo. A discussão não resolve e pode levar a isto (gesticula com o punho). (Risos)
-
-##### ② A harmonia entre o avanço e o recuo
-(Orientação de 1 de maio de 1952)
-
-“Foi-nos ensinado que o povo japonês se caracteriza pelo amor à paz e o gosto pelas artes. Gostaria de saber quais são as características das linhagens de Izumo e da linhagem celestial.”
-
-A linhagem de Izumo... Susanoo-no-Mikoto é a Lua, e “tsuki” significa “atacar”. A espada, por exemplo, tem o formato da Lua. “Tsuki” é atacar, e conquistar é uma ação de “tsuki”. A civilização atual é uma civilização de “tsuki”. O boxe é da linhagem de Susanoo-no-Mikoto. “Hi” significa “puxar”, é centrípeto. A característica da linhagem do Fogo é atrair através da virtude. Conquistar, o caminho do poder, é da linhagem da Lua. Até agora, vivemos sob o domínio da Lua. A partir de agora, entramos na era do Fogo, do dia, e a ação será a de atrair. A linhagem celestial é, em geral, a do Fogo. A do recuo. O Imperador do Japão pertence a essa linhagem. Por isso, a dinastia dura há dois mil anos. Com a linhagem de “tsuki”, seria difícil durar tanto.
-
-A mentalidade antiga, de tentar definir tudo, estava errada. Não se define. É a união do vertical e do horizontal, infinitamente variável. Ambos são necessários; não se pode ter apenas um. Há o avanço e há o recuo. A base, contudo, deve ser o recuo. Essa é a atuação de Izunome. A Era do Mal e a Era de Miroku são diferentes. Na era da Lua, recuar era perder, mas, na era atual, é o correto. O que eu pregava na época da coletânea “Crônicas da Fé” é diferente do que prego na época de “O Evangelho do Céu”. As religiões estabelecidas não revelaram certas coisas porque não podiam. Em relação à medicina, antigamente, eu escrevia com moderação. Havia um sentimento de incompletude. E, claro, quando se é frágil como uma folha ao vento, não se pode falar com firmeza. Mas, quando adquirimos poder, as pessoas começam a pensar: “Talvez isso seja verdade”. Se alguém fraco fala sobre a verdade, é taxado de louco. É a atuação em resposta ao próximo. Ao pregar os ensinamentos, às vezes, o que dizemos está completamente fora da realidade do outro. É como insistir para que alguém que gosta de doces coma algo apimentado.
-
-“Pior do que insistir, há quem abra a boca da pessoa à força.”
-
-Exato. É como dar doces a quem gosta de bebida. É preciso observar as reações para saber se a pessoa gosta ou não. Acha-se que o que é bom para si também é bom para os outros. É como falar de beisebol para um fã de sumô.
-
-##### ③ Perder é ganhar
-(Palestra de 6 de junho de 1952)
-
-Os mestres das artes marciais e de todas as outras artes pensam de forma um pouco diferente. Este é um aspecto do caminho superior do grande veículo, um pouco difícil de entender. Simplificando, um verdadeiro mestre das artes marciais relaxa a força do abdômen. Costuma-se dizer para contrair o abdômen, mas isso está errado. Contrair, tensionar — isso é o que não se deve fazer. Não se deve tensionar. A tensão limita a força. É sem tensão que se libera uma força imensa. É o mesmo princípio do Johrei: quanto mais relaxado, maior o efeito.
-
-Por isso, quando alguém diz algo, a atitude de defender sua própria opinião a todo custo é errada. Torna-se tolo. O motivo pelo qual eu sempre digo para serem dóceis é que, sendo dóceis, vence-se. No final, vence-se. Quem impõe sua vontade acaba por baixo. Diz-se que perder é ganhar. Em uma discussão, se cedemos, vencemos. Por quê? Porque quem discutiu já expôs todos os seus argumentos; não tem mais nada. Quem cedeu docilmente, não se sabe o que guarda. Por isso, o vencedor fica com medo. O perdedor, não. Quem foi maltratado, embora sinta medo no momento, com o tempo, a ansiedade desaparece. Pelo contrário, pensando que o outro está satisfeito, sente-se mais leve. Já quem maltratou fica atormentado: “Será que ele guarda rancor? Será que vai se vingar?”. Portanto, quem perdeu, na verdade, ganhou.
-
-Devemos sempre ceder e deixar que o outro imponha sua vontade. É o mesmo que relaxar o abdômen. Por isso, mesmo que um subordinado diga algo insignificante, eu o ouço o máximo possível. Só imponho minha vontade quando sou confrontado pelo mal; fora isso, eu cedo. As pessoas costumam pensar que, ao ouvir os subordinados, perdem o valor. É uma ideia ridícula, uma comédia, como as que Bernard Shaw escrevia.
-
-Quando o General MacArthur foi atacado nas Filipinas, ele fugiu, dizendo: “Eu voltarei”. Naquela época, eu disse que MacArthur era um grande homem e que realizaria grandes feitos. E disse isso porque ele perdeu, porque ele fugiu. Um militar capaz de fugir torna-se um grande general. Aquele que avança até a morte é do mais baixo nível. O resultado, no final, é muito diferente. Como eu dizia, tudo é temporário. Na medicina, uma melhora temporária não serve; a cura deve ser duradoura. Isso também se alinha com a lógica da verdade. Se vivermos segundo o princípio de que perder é ganhar, tudo dará certo. No final, venceremos.
-
-Muitas coisas no mundo funcionam de forma inversa. Devemos observar os resultados e as manifestações inversas e aprender com elas. Assim, alcançaremos o sucesso com facilidade. Quando comecei a Igreja Messiânica, e mesmo antes, eu sempre dizia a todos para agirem da forma mais discreta possível, para não fazerem propaganda, para não chamarem a atenção. Houve quem dissesse que seria melhor divulgar mais, mas eu insisti em agir discretamente. E, no entanto, tornamo-nos conhecidos. É o efeito inverso. As religiões que fazem muita propaganda não se tornam tão conhecidas. Claro que isso não se aplica a tudo. Remédios, sabonetes, essas coisas precisam de publicidade. Mas um trabalho verdadeiro deve ser feito da forma mais discreta possível. Ao abrir filiais e Johrei Centers, se tentarmos torná-los conhecidos, eles não se tornarão. Agindo discretamente é que eles se tornam conhecidos. Se eu continuar, não haverá fim, então vou parar por aqui. Tenho escrito sobre essas coisas aos poucos, e é como uma Bíblia. A Bíblia contém coisas boas, mas é difícil de entender. E, além disso, foi escrita em outra época. Tentar aplicá-la às pessoas de hoje é complicado. “É mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino dos Céus.” Se for assim, os ricos nunca serão salvos. Para aquela época, estava certo. Pretendo escrever várias coisas adequadas à era atual.
-
-#### 16. Quando se comete um lapso verbal
-(Palestra de 1 de dezembro de 1952)
-
-O ser humano, de vez em quando, comete um lapso verbal. Quando isso acontecer, basta se desculpar. O erro é tentar se justificar. Deve-se dizer: “Eu errei. Foi uma figura de linguagem, e ir tão longe foi um erro”. Pedindo desculpas, a questão se resolve de forma mais leve. Tentar se explicar com rodeios é feio, não desperta a simpatia das pessoas e causa uma má impressão.
-
-#### 17. A fé obtida por coação
-(Diálogo Iluminado de 23 de agosto de 1949)
-
-##### ① A coação na fé deve ser estritamente evitada
-
-— Um missionário da religião vizinha disse à minha esposa, com quem me casei em segundas núpcias: “Seu marido deve obedecê-la absolutamente, senão ficará cego” e “Se não entrarem na nossa religião, ambos morrerão em breve”. Como esse missionário, só de olhar para o rosto de uma pessoa, consegue adivinhar várias coisas sobre sua família, minha esposa está apavorada. O que devo fazer?
-
-Dizer que alguém ficará cego é um absurdo completo. Isso se chama fé por coação, e é um erro terrível. Quando se recorre a ameaças, é sempre um espírito maligno agindo, portanto não há o que temer. Ameaçar é uma tática comum dos espíritos malignos, e o verdadeiro Deus jamais perde para eles. Não se preocupe. Eu mesmo, desde o passado, já perdi a conta de quantas vezes fui ameaçado. A fé não é algo que se impõe pela força. É preciso ter cuidado com isso.
-
-##### ② Não insistir na fé de forma obstinada
-
-Além disso, a insistência e a obstinação são ruins. Deus é extremamente direto e simples. “Deus não tem duas palavras”, Ele diz apenas uma vez. Em ocasiões muito raras, eu consulto a Deus, e a resposta é sempre uma única palavra. É algo incrivelmente simples. Com os seres humanos é o mesmo. Quando o Imperador emite um édito, ele não se repete. “Nós, pensando em tal e tal coisa...”, é sempre conciso. A insistência não é verdadeira. Portanto, a divulgação deste Caminho deve ser feita de forma leve e direta. Diga o que tem a dizer e, se a pessoa não entender, é porque o tempo dela ainda não chegou ou porque não há ligação espiritual. Quando a hora chegar, ela mesma virá procurar. Então, explique tudo com clareza.
-
-#### 18. Difundir a fé sem atrair a hostilidade de outras religiões
-
-##### ①
-(Orientação de 1 de novembro de 1953)
-
-“As cerimônias memoriais dos fiéis da Sekaikyuseikyou precisam ser realizadas por um monge budista?”
-
-A Lei Búdica deixou de existir. O mundo búdico, no entanto, ainda existe. Portanto, até que possamos realizar as cerimônias aqui, é preciso que os espíritos tenham um lugar. Por isso, por enquanto, os templos ainda são necessários. Além disso, se alguém que sempre frequentou um templo e participou das cerimônias de repente para de ir, a Sekaikyuseikyou será mal interpretada. É melhor para a imagem pública continuar como antes, e os monges também ficarão satisfeitos. Eu mesmo faço doações aos templos e mantenho os costumes, e eles ficam contentes. No caso do cristianismo, não há problema em ir à igreja aos domingos. Assim, os pastores pensarão: “A Sekaikyuseikyou é muito boa, não rouba nossos fiéis”, e terão uma boa impressão de nós. Se começarem a dizer: “A Sekaikyuseikyou é terrível, leva todos os nossos fiéis”, o ressentimento deles pode se tornar um pequeno obstáculo. Eles não são inimigos da Sekaikyuseikyou; estão todos sob nossa esfera de abrangência. Portanto, é melhor tratá-los bem. O cristianismo, o budismo, tudo está dentro da Sekaikyuseikyou. Atacá-los ou criticá-los seria como atacar algo que está dentro de nós mesmos. Devemos considerá-los como parte de nossa família espiritual.
-
-##### ②
-(Orientação de 1 de fevereiro de 1954)
-
-“Meus pais eram fiéis devotos da Tenrikyo. Recentemente, fui curado de um esgotamento nervoso, me tornei membro e desejo entronizar a Imagem da Luz Divina. Como há um altar da Tenrikyo em minha casa, o que devo fazer?”
-
-O ideal seria removê-lo.
-
-“Posso devolvê-lo à igreja de origem?”
-
-Devolver não é uma boa ideia. Eles perguntarão o motivo e, se você disser honestamente que ingressou na Sekaikyuseikyou, a Tenrikyo guardará ressentimento. É melhor evitar criar ressentimentos. Devolver chama a atenção e é a pior opção. Guarde-o em casa.
-
-“Mas é um objeto bem grande.”
-
-Guarde-o por um tempo e, quando chegar a hora, queime-o. Se o deus da Tenrikyo ficasse feliz em ser queimado, seria ótimo, mas, no lugar desses deuses, às vezes há espíritos estranhos. Nesses casos, se você se livrar do altar abruptamente, eles podem causar problemas. O ideal é esperar que se convertam ou partam. Assim, evita-se transtornos. Guarde-o em casa por um tempo e, quando sentir que não haverá mais interferências, queime-o.
-
-“Um ministro da Tenrikyo vinha à minha casa, mas não obtive nenhuma graça. Com o Johrei, fui curado em uma semana.”
-
-Casos como esse aumentarão, não só com a Tenrikyo, mas com todas as religiões. Elas perceberão que seus fiéis estão diminuindo e pensarão: “É culpa daquela gente da Sekaikyuseikyou”. E esses espíritos tentarão nos atrapalhar. É melhor minimizar esses ressentimentos. Curiosamente, quando fui condenado, muitos que me odiavam disseram: “Bem feito para a Sekaikyuseikyou, agora estou aliviado”. Isso foi muito bom para nós, pois, espiritualmente, esses espíritos hostis se afastaram e pararam de nos atrapalhar, facilitando nosso trabalho. O ser humano deve evitar ser invejado ou odiado. É melhor que pensem que estamos sempre sofrendo ou com dificuldades — sem precisar fingir, claro. O que importa é que, na realidade, estejamos bem. Mas as pessoas, por vaidade, querem parecer bem, querem que os outros pensem que estão prosperando, mas o resultado é o oposto. É bom ter isso sempre em mente. Pessoas que ascendem muito rápido acabam mal por causa da inveja e de outros fatores, mas essa é uma causa importante. Em quem está em ascensão, mas acaba caindo, a influência desses espíritos é muito forte.
-
-Se compararmos Hideyoshi e Ieyasu, isso fica claro. Hideyoshi, filho de camponês, ascendeu de forma meteórica, tornou-se regente, o posto mais alto, e ostentou seu sucesso. Tokugawa, por outro lado, nunca brilhou. Fugiu, recuou, agiu discretamente e, no final, tomou o poder. O método de Tokugawa foi mais astuto, o de Hideyoshi, mais direto. Essa astúcia é positiva. A Sekaikyuseikyou também enfrenta muito disso, mas, em nosso caso, a gratidão das pessoas que salvamos anula grande parte do ressentimento. O sentimento de gratidão tem uma boa influência e anula os espíritos da inveja e do ódio. No entanto, no momento, os espíritos negativos são mais numerosos. Se os maus são cem, os gratos são um ou dois. Perdemos em número. Mas, à medida que avançamos, o número de pessoas de outras religiões que se convertem a nós aumentará muito, e as outras religiões guardarão um grande ressentimento. Este é o ponto a que devemos estar mais atentos. Quando as pessoas entenderem que a Sekaikyuseikyou realmente salva, todas se converterão, e as outras religiões entrarão em colapso. “Aquela gente da Sekaikyuseikyou, recém-chegada, levou todos os nossos fiéis.” É isso que dirão. Portanto, é melhor agirmos discretamente até que, um dia, nos tornemos grandes. E, quando nos tornarmos tão proeminentes que ninguém possa nos atingir, as pessoas desistirão. Mas, até lá, o ressentimento pelo nosso crescimento será grande. Quando desistirem, pensando: “Não adianta lutar contra eles, são de outro nível”, até esse momento, é melhor agir com discrição. A base de tudo é espiritual, e a interferência dos espíritos é o mais temível. A interferência física é limitada. Há muitas pessoas que entendem com a razão, mas não com o coração. E quem consegue agir de acordo com a razão é uma pessoa notável. Quem não entende é fácil de lidar. O mais difícil é quem entende, mas age como se não entendesse. Como ele entende...
-
-#### 19. Sobre o Kannon-gyo (観音行)
-(“A Luz da Sabedoria e Compaixão”, 1 de março de 1949)
-
-“Gostaria de uma explicação sobre Kannon-riki (観音力), Kannon-gyo (観音行) e Kannon-shin (観音心).”
-
-Kannon-riki é o poder manifestado por Kannon. Ao recebermos esse poder, podemos manifestá-lo, como provam os inúmeros milagres que vocês realizam. Há, contudo, uma diferença na intensidade do poder manifestado por cada pessoa.
-
-Kannon-shin é o coração de grande amor e compaixão de Kannon. Corporificar esse coração em nossas ações é o Kannon-gyo. Na prática do Kannon-shin, é absolutamente proibido julgar os outros. Julgar é o pior que se pode fazer.
-
-Em um dos meus poemas, menciono a prática do Bodhisattva. No budismo, Bodhisattva refere-se a um ser iluminado. Qualquer um pode se tornar um Bodhisattva, mas tornar-se um Tathagata não é fácil. Tathagata também é um grau indiano; há os graus de Venerável, Bodhisattva, Deva, Tathagata e Rei da Sabedoria. A prática do Bodhisattva é o caminho para se tornar um.
-
-Kannon é também chamada de Tathagata da Luz Ilimitada e de Miroku manifesto. Isso se refere à sua atuação livre, versátil e sem obstáculos. Manifestar-se em resposta ao próximo significa adaptar-se a ele, ao tempo, ao lugar, à pessoa, a tudo, em uma prática de infinitas variações. Diz-se que Kannon se manifesta em trinta e três formas, o que ilustra essa capacidade de adaptação. Portanto, na prática do Kannon-gyo, é preciso primeiro ser capaz de se adaptar. Quando se compreende verdadeiramente essa prática, tudo corre bem.
-
-Kannon também tem um aspecto extremamente destemido, sendo conhecida como o Tathagata da Vitória Suprema, e também atua como Bato Kannon. Nesse caso, assume a forma de um animal para subjugar demônios e monstros.
-
-Tudo o que se refere a Deus é extremamente racional. Tudo o que Deus faz ou permite tem uma lógica que pode ser compreendida. Portanto, as ações humanas também devem ser naturais e lógicas. Mas não se deve pensar nisso de forma rígida e complicada. Em suma, na fé, basta fazer o que é natural. Costuma-se dizer: “A sorte vem para quem sabe esperar”. Não se deve ter pressa em nada. É preciso ter uma atitude relaxada, como a de quem espera deitado. Assim, as coisas dão certo. Isso também é um aspecto do Kannon-gyo.
-
-#### 20. Em que medida a compaixão deve se manifestar em atos?
-(Diálogo Iluminado de 28 de janeiro de 1949)
-
-— É difícil sentir compaixão pelas pessoas. Em que medida esse sentimento deve se manifestar em atos concretos?
-
-Não é tão difícil. Basta concretizar o sentimento de compaixão dentro dos limites do bom senso. O que é necessário, nesse caso, é discernimento. Há situações em que, embora se sinta compaixão, não se deve manifestá-la em atos. Uma pessoa que sofre pode estar sofrendo por uma necessidade, e, nesse caso, não se deve ajudá-la. A compaixão excessiva pode, ao contrário, criar preguiçosos. Por exemplo, dar dinheiro a um mendigo parece uma boa ação, mas nem sempre é. Alguns mendigos que vemos na rua com um bebê no colo, na verdade, alugam a criança por um dia. (Risos) É preciso saber dessas coisas.
-
-No entanto, os deficientes físicos e os veteranos de guerra devem ser ajudados incondicionalmente. Especialmente aqueles que ficaram incapacitados por imposição do militarismo são verdadeiramente dignos de pena. Deve-se ajudá-los com esse sentimento. Outro caso são os doentes que sofrem. Eles devem ser ajudados a qualquer custo. Se um familiar meu se queixa de dor, mesmo que eu já esteja deitado, levanto-me para ajudá-lo.
-
-#### 21. O método mais eficaz para a difusão em lugares distantes
-(“A Luz da Sabedoria e Compaixão”, 25 de maio de 1949)
-
-“Gostaria que nos ensinasse o método mais eficaz para a difusão em lugares distantes.”
-
-Não há um método específico. A base de tudo é a sinceridade. Quem tem uma sinceridade forte recebe uma forte proteção de Deus, e os espíritos atuam com vigor, produzindo bons resultados. Não se deve ter pressa. A pressa faz com que a força humana se sobreponha, gerando um efeito contrário. O sucesso ou o fracasso também dependem muito da claridade ou da escuridão do mundo espiritual daquela região, e da linhagem do deus protetor local. A atividade dos antepassados devotos também influencia. Deve-se fazer o melhor possível e entregar o resto a Deus.
-
-Além disso, Deus tem um tempo e uma ordem para tudo. Há casos em que uma região só pode ser aberta depois de outra. Muitas vezes, isso difere das expectativas humanas. Por não saber disso, o homem se apressa quando as coisas não saem como o esperado. É fundamental ter atenção a isso.
-
-#### 22. Sobre sair para difundir a fé durante uma purificação grave
-(Orientação de 8 de novembro de 1951)
-
-“Alguns, pensando que é pelo bem da Obra Divina, continuam a difundir a fé até o fim, mas, na fase terminal, isso acaba por piorar a situação...”
-
-Isso está errado. Mostrar-se assim às pessoas está errado. É preciso mostrar uma saúde vibrante. Mostrar-se doente é fazer propaganda negativa. É uma forma de agir de um espírito maligno, uma fé terrivelmente equivocada.
-
-#### 23. A partir de quando uma ministra pode ministrar Johrei após o parto?
-(Orientação de 8 de novembro de 1951)
-
-“No caso de uma ministra que deu à luz, após quanto tempo ela pode retomar a Obra Divina?”
-
-Sim, é importante saber isso. O ideal é após setenta e cinco dias, mas, dependendo da pessoa, trinta e cinco dias podem ser suficientes. Antes disso, é melhor não o fazer. Antes do parto, pode-se ministrar até o último dia. Mas, depois, enquanto houver sangramento, a energia negativa vem para o braço que ministra o Johrei, pois se usa os nervos. A regra geral é que se pode voltar após trinta e cinco dias.
-
-“E para vir em peregrinação?”
-
-Nesse caso, três semanas. E, mesmo assim, se o lóquio for intenso, não se deve vir. Apenas quando o sangramento estiver quase no fim, ocorrendo apenas esporadicamente, e o corpo estiver razoavelmente limpo. Antes disso, é melhor evitar.
 
 ---
 

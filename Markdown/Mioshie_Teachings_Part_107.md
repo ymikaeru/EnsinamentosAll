@@ -3,7 +3,7 @@
 # Ensinamentos (7 de fevereiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月7日） | **Status:** Published
+**Título Original:** 御教え （S27年2月7日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Ensinamentos (7 de fevereiro de 1952)
 
@@ -91,7 +91,7 @@ Mas deixemos o assunto do museu por aqui.
 # 21 de novembro de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年11月21日） | **Status:** Published
+**Título Original:** 御講話 （S26年11月21日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## 21 de novembro de 1951
 
@@ -144,7 +144,7 @@ Evidentemente, esta é uma análise baseada na lógica comum. Sob a perspectiva 
 # Coleção de Teses do Mestre Jikan Okada – Pesquisa de Ensinamentos: help Pesquisa de Documentos: Ensinamento (1 de outubro de 1951) Coletânea de Ensinamentos n.º 3, publicada em 25 de novembro de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月1日） | **Status:** Published
+**Título Original:** 御教え （S26年10月1日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Coleção de Teses do Mestre Jikan Okada – Pesquisa de Ensinamentos: help Pesquisa de Documentos: Ensinamento (1 de outubro de 1951) Coletânea de Ensinamentos n.º 3, publicada em 25 de novembro de 1951
 
@@ -222,7 +222,7 @@ Pretendo plantar cerejeiras de inverno ao longo da estrada recém-construída. A
 # ――― Coletânea de Teses do Mestre Jikan Okada ――― Coletânea de Ensinamentos, Volume 21
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-05-15
 
 ## ――― Coletânea de Teses do Mestre Jikan Okada ――― Coletânea de Ensinamentos, Volume 21
 
@@ -878,7 +878,7 @@ E Deus criou as circunstâncias para que isso aconteça. Os templos de Quioto es
 # Ensinamento (5 de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月5日） | **Status:** Published
+**Título Original:** 御教え （S26年8月5日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (5 de agosto de 1951)
 
@@ -915,7 +915,7 @@ Recentemente, talvez devido ao calor, ela se sente indisposta, e seu apetite dim
 # Coletânea de Ensinamentos, nº 2 (publicado em 25 de outubro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月18日） | **Status:** Published
+**Título Original:** 御教え （S26年9月18日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Coletânea de Ensinamentos, nº 2 (publicado em 25 de outubro de 1951)
 
@@ -1026,7 +1026,7 @@ Sobre os "Fragmentos de Verdade", como acabo por repetir coisas semelhantes, dec
 # Ensinamentos (Coletânea de Ensinamentos, nº 2)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月1日） | **Status:** Published
+**Título Original:** 御教え （S26年9月1日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Ensinamentos (Coletânea de Ensinamentos, nº 2)
 
@@ -1085,7 +1085,7 @@ Doravante, escreverei sobre as doenças de origem espiritual, e o primeiro tema 
 # Coletânea de artigos do Reverendo Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月6日） | **Status:** Published
+**Título Original:** 御教え （S26年12月6日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Coletânea de artigos do Reverendo Okada Jikanshi
 
@@ -1219,7 +1219,7 @@ A sinceridade dos sentimentos está magnificamente expressa neste relato. Garant
 # Coleção de Teses do Mestre Jikan Okada – Coletânea de Ensinamentos, n.º 1
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-20
 
 ## Coleção de Teses do Mestre Jikan Okada – Coletânea de Ensinamentos, n.º 1
 
@@ -2099,7 +2099,7 @@ A esse respeito, uma coisa trivial. Certo dia, ao sair pela porta da frente, min
 # 21 de agosto de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月21日） | **Status:** Published
+**Título Original:** 御教え （S26年8月21日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## 21 de agosto de 1951
 
@@ -2155,7 +2155,7 @@ Recentemente, o senhor Kosaka, da editora do jornal Hikari, publicou um livro in
 # Coleção de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, nº 17
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-01-15
 
 ## Coleção de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, nº 17
 

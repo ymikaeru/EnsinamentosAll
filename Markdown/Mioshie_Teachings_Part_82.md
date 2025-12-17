@@ -1,9 +1,1186 @@
 # Mioshie_Teachings - Part 82
 
+# Coletânea de Teses do Mestre Jikan Okada — Gokowa Roku, nº 9 (Edição Especial) — 30 de julho de 1949
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coletânea de Teses do Mestre Jikan Okada — Gokowa Roku, nº 9 (Edição Especial) — 30 de julho de 1949
+
+**— Tenho a impressão de que, mesmo após ingressar na fé, há pessoas que se tornam cativas de espíritos malignos, e que mesmo fiéis devotados podem ser influenciados por eles. Rogo a Vossa Orientação sobre qual deve ser a postura de um ministro diante de tais situações.**
+
+O erro reside na mentalidade daquele que pensa em termos de “ser derrotado” ou “ser influenciado” por um espírito maligno. Os seres humanos não têm a capacidade de discernir se um espírito é maligno ou não; isso é algo que somente Deus pode saber. Portanto, quem faz tais afirmações está usurpando a posição de Deus. Em outras palavras, está a “julgar”. No Evangelho Cristão, não está escrito: “Não julgueis”? É exatamente isso. Jamais um ser humano poderá saber se alguém está sob a influência de um espírito maligno; ao contrário, é possível que a própria pessoa que faz tal acusação seja, ela mesma, um espírito maligno.
+
+Sendo assim, afirmações dessa natureza jamais devem ser proferidas, pois são, em essência, impossíveis de se comprovar. Indivíduos com essa mentalidade tendem a rotular como malignos todos aqueles de quem não gostam. Contudo, há casos de pessoas acusadas de serem espíritos malignos que realizam um trabalho extraordinário. Inversamente, alguém que pareça ser uma excelente pessoa aos olhos de todos pode, na realidade, ser o oposto. Por essa razão, somente Deus pode fazer tal discernimento.
+
+Deus se utiliza de toda sorte de pessoas. É como uma peça de teatro: um elenco composto apenas por personagens bons não resultaria em um bom espetáculo. Ademais, é preciso distinguir entre um espírito que é maligno em sua essência e uma pessoa que está sob a influência de um espírito maligno. Acresce que o séquito dos espíritos malignos é composto por centenas de milhares, milhões de entidades.
+
+Sob o comando do Deus Supremo, existem as divindades do yin e do yang, dispostas desta forma (demonstra com três cigarros, formando um “V” invertido). Este lado representa o bem, e este, o mal. É assim que Ele governa o mundo terreno. Por isso se diz que “para o Deus Supremo não há bem nem mal”. Ele não faz distinção, pois para Ele o justo e o injusto são um só. A verdade é que não podemos compreender a real natureza da justiça e da injustiça.
+
+Todavia, ater-se apenas a essa perspectiva também não é correto. É imprescindível que exista uma faceta que, com clareza e rigor, promova o bem e repila o mal. Nesse sentido, a Bodhisattva Kannon (観世音菩萨) salva a todos sem discriminar entre o bem e o mal, sem condenar este último. No entanto, Sua forma original, Kuninotokotachi-no-Mikoto, é um Deus de retidão absoluta, que jamais perdoa o mal, atuando também como Enma Dai-o, o grande juiz dos mortos. Ele representa o eixo vertical, a urdidura do tear. A salvação indiscriminada de Kannon, por sua vez, corresponde ao eixo horizontal, a trama. É impossível progredir se nos apegarmos a apenas um desses aspectos. Ambas as facetas são indispensáveis, e sua aplicação varia infinitamente conforme o tempo, a situação e a pessoa.
+
+**— Frequentemente ouvimos falar em “acumular virtude” ou em “pessoas virtuosas”. O que exatamente é essa “virtude”? E o que significa “acumular virtude oculta”?**
+
+Virtude é praticar o bem em prol das pessoas e da sociedade. Isso se converte em virtude. Praticar muitos atos dessa natureza é o que se chama “acumular virtude”. A melhor maneira de fazê-lo é por meio do Johrei e da orientação das pessoas a esta fé. Doar dinheiro ou praticar a caridade são atos de efeito temporário, desprovidos de perenidade. Portanto, não há método mais eficaz para acumular virtude do que conduzir as pessoas a uma fé que lhes traga a salvação eterna.
+
+Ao acumular virtudes, muitas pessoas lhe serão gratas. A luz emanada dessa gratidão fortalece o seu espírito, servindo-lhe de alimento espiritual. Em uma prece xintoísta, há um trecho que diz: “*Mitama no fuyu o sachihae tamae*”, que significa “Concedei-nos o engrandecimento de nosso espírito”. A palavra *fuyu* remete ao verbo “aumentar”, “engrandecer”. Um espírito engrandecido emana mais luz, ascende a planos mais elevados no Mundo Espiritual e, consequentemente, atrai mais felicidade e acontecimentos positivos.
+
+Já a virtude oculta consiste em praticar o bem sem que ninguém o saiba. Nos recintos dos santuários, é comum vermos placas de doação com inscrições como “Fulano de Tal, tantos ienes”. Isso é um exemplo de virtude manifesta, pois é de conhecimento público. Quando o ato é conhecido, a recompensa já foi, em certa medida, recebida. No entanto, quando ninguém sabe, é Deus quem nos concede a recompensa. Por essa razão, entre os dois tipos, a virtude oculta é muito superior. Ocorre que o ser humano tem essa inclinação de não se sentir satisfeito se seus atos não forem reconhecidos...
+
+Procurem praticar o bem da forma mais discreta possível. Agindo assim, Deus lhes retribuirá multiplicando a recompensa muitas vezes. Acumular virtude oculta é, portanto, algo de imenso valor. As pessoas de hoje, por não compreenderem isso, buscam apenas a virtude manifesta.
+
+**— Sou um estudante de vinte e sete anos que recebeu a iniciação no final de 1944. Sofro por ter, desde o nascimento, uma índole fraca. Como devo proceder?**
+
+Para essa pessoa, o melhor a fazer é exatamente o que acabei de explicar: acumular virtude oculta. Uma índole fraca denota uma alma fraca, desprovida de força. Assim, quando as vibrações espirituais chegam do exterior através das linhas espirituais, seu espírito se atemoriza. É como uma árvore frágil e sem casca. À medida que o espírito se fortalece, esse temor desaparece.
+
+Com o aprofundamento da fé, tal problema se extingue. Quando se fortalece a convicção de que Deus proverá uma solução para tudo, a disposição de se entregar e confiar Nele, a fraqueza de índole desaparece por completo. Conforme a fé avança, mesmo diante de um terremoto, por exemplo... bem, no primeiro instante, levamos um susto, pois somos humanos... mas logo nos recuperamos e a serenidade retorna. Isso ocorre porque pensamos: “Deus está me protegendo, então tudo ficará bem”.
+
+O essencial é fortalecer a alma, ajudando as pessoas e recebendo sua gratidão. Portanto, apenas ingressar na fé não é o bastante. Ingressar na fé significa aprender o método para salvar o próximo. É após a iniciação, ao ajudar muitas pessoas, que recebemos as verdadeiras graças. Receber a iniciação é apenas transpor o portão de entrada; se não prosseguirmos até o vestíbulo e, depois, até os aposentos internos da casa, tudo terá sido em vão.
+
+**— Desde que conheci este Ensinamento, tenho recebido inúmeras e grandiosas graças. Desejo ardentemente dedicar-me em tempo integral ao Caminho, mas, ao pensar nisso, não consigo me concentrar em meu trabalho atual (alfaiataria) e me angustio com questões de subsistência. O que devo fazer?**
+
+É preciso aguardar o momento oportuno; de outra forma, não dará certo. Para ingressar profissionalmente no caminho da fé, também existe um tempo certo. E como saber quando esse momento chegou? Quando ele se aproxima, as circunstâncias começam a se alinhar e tudo se ajeita sem que seja preciso forçar nada. Agir de modo forçado ou contrariando a oposição dos outros não é recomendável, pois os resultados não serão bons.
+
+Portanto, a atitude correta é aguardar pacientemente pelo momento oportuno. Agindo assim, a ocasião ideal certamente virá. Isso se aplica a todas as situações da vida.
+
+Muitos pensam que meus ensinamentos estão se expandindo com extrema rapidez, mas, pessoalmente, não tenho a menor pressa em acelerar seu desenvolvimento. Tudo ocorre em conformidade com o que no xintoísmo se chama *kamunagara* (惟神), ou seja, segundo a Vontade Divina. As coisas simplesmente acontecem quando as circunstâncias amadurecem. O jornal *Hikari* é um exemplo disso. Primeiramente, um certo jornal nos procurou, oferecendo-se para publicar nossos artigos. Enquanto eu ponderava a proposta, eles retornaram, explicando que, por dificuldades financeiras, não poderiam continuar e nos ofereceram seu maquinário para que criássemos nosso próprio periódico. Em um piscar de olhos, a situação se resolveu. Eu já nutria há muito o desejo e a convicção da necessidade de ter um jornal. Meus artigos, teses e os relatos de graças já se acumulavam, e a revista *Tijyo Tengoku* (Paraíso Terrestre) já não era suficiente para publicá-los. Eu buscava um novo meio de divulgação. Assim, com todas as circunstâncias perfeitamente maduras, a publicação foi iniciada de imediato.
+
+É assim que as coisas funcionam. É preciso esperar até que o caminho se abra, livre de obstáculos. Um caqui, se colhido ainda verde, é duro e adstringente, e apanhá-lo no alto da árvore dá muito trabalho. Mas, quando amadurece e fica vermelho, torna-se doce e cai por si só. O mesmo princípio se aplica a tudo. Costuma-se dizer: “Esforce-se com afinco e perseverança”, mas eu afirmo que o esforço penoso não leva a bons resultados, pois ele implica forçar as coisas.
+
+O que é verdadeiro deve ser feito com alegria e facilidade. No Mundo da Noite, que vivemos até agora, as coisas exigiam grande esforço, e havia o aspecto de que sem sofrimento não se alcançava o sucesso. Contudo, agora que adentramos o Mundo do Dia e nos empenhamos na construção do Paraíso Terrestre, o correto é que possamos realizar as coisas com alegria e prazer. Se não estivermos vivendo uma vida paradisíaca enquanto salvamos o próximo, algo está errado.
+
+**— Com o devido respeito, em dias de verão, com pancadas de chuva e temporais, pode acontecer de o Ohikari se molhar. Nesses casos, como devemos proceder? E o fato de ele se molhar altera o poder do Ohikari?**
+
+Caso ele se molhe, não há problema em abri-lo para verificar. Se o papel com o ideograma não estiver manchado, pode continuar usando-o como está. Para evitar isso, seria bom envolvê-lo em papel impermeável, como papel parafinado, ou em um tecido que não absorva água. Não há inconveniente algum em tomar tais precauções.
+
+Agora, se o papel com o ideograma estiver manchado, isso não é bom. Nesse caso, deve-se explicar o ocorrido e receber um novo. Na Tenrikyo, são muito rigorosos e entregam apenas um Ohikari por toda a vida. No entanto, isso faz com que a pessoa que o recebe viva em constante temor, desenvolvendo uma espécie de fobia, o que, a meu ver, constitui um pecado.
+
+**— Há um grande debate em torno do casamento por amor e do casamento arranjado. O primeiro é popular entre os jovens, enquanto o segundo é defendido pelas pessoas de mentalidade mais tradicional. Embora, em última análise, ambos sejam mediados pela divindade tutelar do local de nascimento e, portanto, não passíveis de contestação, parece que os casamentos por amor costumam ter desfechos desfavoráveis. Qual a sua opinião sobre isso?**
+
+Esta não é uma questão de resposta simples. (Risos) O que ocorre é o seguinte: tanto o casamento arranjado quanto o por amor são, de fato, mediados pela divindade tutelar. No entanto, no caso do casamento por amor, pode haver uma situação peculiar: um casal que se amou intensamente em uma vida passada, mas que não pôde concretizar sua união devido à morte de um ou de ambos. Ao se reencontrarem nesta vida, o apego remanescente faz com que o romance se torne desregrado e perca a racionalidade.
+
+Nesses casos, a divindade tutelar ou o espírito guardião principal da pessoa pode permitir que esse romance aconteça, a fim de que o apego seja dissolvido. Chegado um certo momento, esse apego se desfaz. Quando isso ocorre, o ardor da paixão se extingue por completo, e eles passam a se ver como pessoas comuns. Se o casal em questão não for aquele predestinado pela divindade tutelar, eles serão separados para que possam, então, contrair o matrimônio correto. É por isso que os casamentos por amor frequentemente não dão certo. Portanto, não se pode afirmar categoricamente qual dos dois é melhor.
+
+Há também os casos em que, mesmo após o casamento, o marido se apaixona por outra mulher, ou a esposa por outro homem. Trata-se de um amor impuro, mas que também pode ser fruto de um apego remanescente de uma vida anterior. Embora tais situações costumem gerar grande confusão, a pessoa envolvida sente, sinceramente, remorso em relação ao cônjuge, mas se vê impotente para agir de outra forma. Quando o apego se dissolve, na maioria dos casos, a pessoa retorna ao seu estado original. Tentar reprimir esse sentimento à força pode, ao contrário, desencadear uma tragédia.
+
+Em última instância, tudo ocorre por desígnios cármicos. Se deixarmos que as coisas sigam seu curso, elas se resolverão da melhor maneira. E o sofrimento vivenciado nessas situações corresponde à purificação dos pecados daquele que sofre.
+
+**— Quando ocorre a possessão por um espírito vivo, qual se torna o estado e a mentalidade da pessoa de quem o espírito se origina?**
+
+Ah, essa é uma questão que certamente desperta curiosidade. (Risos) Quando o espírito vivo de uma pessoa se projeta, a pessoa de origem fica em um estado vago, como se estivesse sem energia. A projeção de espíritos vivos ocorre, em certa medida, entre pais e filhos ou entre irmãos, mas manifesta-se com maior intensidade em relações amorosas, sendo mais comum entre pessoas belas. Portanto, quem não é muito bonito está seguro, mas os belos devem ter muito cuidado. (Risos)
+
+Enquanto a possessão por um espírito morto provoca calafrios nas costas, a de um espírito vivo aquece o corpo, e as emoções da pessoa de origem são transmitidas. Por exemplo, se um homem ama uma mulher que não lhe corresponde e, por isso, se entrega ao desalento e à apatia, esse estado é projetado para a mulher, que passa a se sentir extremamente mal e deprimida. Quando a projeção do espírito vivo é muito forte, a pessoa de origem sente sonolência. Geralmente, quando o espírito se projeta, a pessoa está dormindo. É, de fato, uma projeção do espírito — neste caso, do espírito guardião secundário.
+
+Esse foi o exemplo de um amor não correspondido. Agora, quando o amor é mútuo, os espíritos vivos de ambos viajam de um para o outro através da linha espiritual. Ambos ficam em um estado um tanto aéreo, mas, diferentemente do caso anterior, experimentam uma sensação de prazer. É por essa comunicação através da linha espiritual que o amor se torna tão difícil de romper. Não é um prazer comum, mas o êxtase do amor. Aqueles que já o experimentaram certamente compreenderão. (Risos)
+
+Por fim, quando duas ou três mulheres amam o mesmo homem, seus espíritos vivos se digladiam no corpo e na mente dele, gerando um tipo de pensamento impuro e uma sensação estranha, um misto de prazer e angústia. Eu, pessoalmente, não tenho experiência com isso, (risos) mas suponho que seja assim. (Risos)
+
+**— A filha mais velha de três irmãs, com vinte e seis anos, fugiu há cerca de seis meses para viver com um homem de cinquenta e um anos. Os pais, desesperados, já tentaram de tudo para trazê-la de volta, sem sucesso. Estão sofrendo muito. O que devem fazer?**
+
+Devem entregar o caso a Deus. A situação ocorreu devido a laços cármicos. As relações amorosas são um mistério que a lógica jamais decifrará. Tentar impedi-las só intensifica a paixão. O amor é, em essência, um apego; separá-los à força deixará o apego por resolver e agravará a situação.
+
+Um literato ocidental disse que “o amor é uma febre”, e é exatamente isso. Tentar contê-lo é como baixar uma febre com gelo: as consequências são piores. É preciso deixar que a febre siga seu curso. Quando ela tiver se manifestado por completo, cessará naturalmente.
+
+**— Casei-me por amor, mas minha esposa, após o casamento, tornou-se muito calada. Recentemente, foi para a casa dos pais para dar à luz e agora se recusa a voltar. Haveria alguma razão para isso?**
+
+Seu marido tem boa aparência?
+
+**— Sim, é bastante apresentável.**
+
+Então, é um espírito vivo. Uma mulher que o amava, ressentida por ele ter se casado com outra, está tentando separá-los.
+
+**— Pessoas em idade de casar estão adiando o matrimônio, pensando em esperar até que a Grande Purificação termine. Seria essa a atitude mais correta?**
+
+Fala-se da Grande Purificação, mas essa pessoa, no momento, não tem problema algum, certo? Sendo assim, não há com o que se preocupar. Case-se sem demora. Mesmo que a Grande Purificação ocorra enquanto estiver casada, não haverá problema algum. Case-se com tranquilidade.
+
+**— Os espíritos guardiões podem ser substituídos ao longo da vida?**
+
+Isso não acontece. Existem três tipos de espíritos guardiões: o primordial, o principal e o secundário. Nenhum deles jamais muda. Se mudassem, a vida humana seria perigosamente instável e não conseguiríamos sobreviver. Se o espírito guardião mudasse, a personalidade da pessoa se alteraria por completo. Imagine se a sua esposa, que até ontem era uma mulher dócil e amável, hoje se tornasse terrivelmente autoritária e o subjugasse... Ninguém conseguiria viver em paz. (Gargalhada geral)
+
+**— Os espíritos guardiões secundários também possuem grau espiritual?**
+
+Sim, possuem. Quando um espírito guardião secundário se redime, ele pode realizar grandes feitos. Não se deve desprezá-los, supondo que sejam invariavelmente maus. Assim como há raposas que se tornam servas de divindades tutelares, alcançando uma posição de respeito — geralmente, são raposas que foram humanas em vidas passadas —, elas podem evoluir rapidamente. Em suma, pode-se dizer que seu caráter... ou melhor, sua “raposidade”... se eleva.
+
+**— A delinquência infantil tem cura?**
+
+Sim, tem cura. A delinquência de um filho é, invariavelmente, reflexo de um pecado dos pais. Quando um filho se torna delinquente, os pais sofrem e se preocupam muito, não é mesmo? Esse sofrimento é um processo de purificação. Todo sofrimento é, em sua essência, a purificação de pecados e máculas.
+
+Contudo, ao acumular virtudes, as condições que geram o sofrimento diminuem. Portanto, se os pais aprofundarem sua fé e se empenharem em ajudar o próximo, acumulando virtudes, a delinquência do filho também melhorará como consequência.
+
+Analisando por outro ângulo, o problema está relacionado ao calor na região frontal da cabeça. A parte posterior da cabeça, por sua vez, rege as emoções. Se a região frontal estiver fria, a razão funciona plenamente e consegue controlar os impulsos emocionais. Com o Johrei, a região frontal esfria, e a delinquência também se corrige.
+
+Atualmente, estou escrevendo uma tese na qual defendo que a causa primordial das guerras e dos conflitos é o sentimento de desconforto. Quando um ser humano se sente bem e sereno, torna-se incapaz de brigar. A raiva é uma emoção, e a força que a controla é a razão. O mesmo se aplica ao surgimento dos desejos — o que no budismo se chama de paixões mundanas. Os desejos nos foram dados por Deus, e, portanto, o pensamento é livre. No entanto, traduzir esses pensamentos diretamente em ações frequentemente resulta em pecado. A pessoa cuja região frontal da cabeça é fria consegue controlar o impulso emocional de passar à ação. Assim, quem tem a fronte fria está seguro, mas são raras as pessoas nessas condições. Se todos tivessem a fronte fria, as guerras desapareceriam e a paz reinaria, pois as pessoas não se deixariam levar tão facilmente pela demagogia dos ditadores.
+
+**— Por que não somos salvos apenas por receber a iniciação, sendo necessário entronizar o Altar de Komyo Nyorai?**
+
+A entronização do Altar de Komyo Nyorai ilumina o mundo espiritual da família. Sem ele, esse mundo permanece na escuridão. A escuridão é o inferno; portanto, quem vive nela ainda não está salvo. Além disso, ao orar diante do Altar, recebemos a Luz Divina a cada oração, e assim vamos sendo purificados. A diferença é, portanto, imensa. Sem entronizar o Altar de Komyo Nyorai, não se pode dizer que alguém ingressou verdadeiramente na fé.
+
+Entronizar o Altar significa adentrar o portão da fé; quem não o faz permanece do lado de fora. Dito isso, é claro que apenas passar pelo portão não basta. É preciso prosseguir pelo vestíbulo até os aposentos internos. Do contrário, o Paraíso não se concretizará. É por essa mesma razão que afirmo que apenas receber a iniciação não é suficiente.
+
+**— Minha esposa teve um sonho recentemente. Nele, o céu subitamente se cobriu de nuvens e tudo mergulhou em completa escuridão. Apenas a nossa casa brilhava com uma luz dourada, e do céu um dragão desceu em direção a ela. Qual o significado deste sonho?**
+
+O céu que subitamente se cobre de nuvens representa o “Juízo Final”. O fato de a casa brilhar com uma luz dourada é um excelente sinal. Significa que, graças à fé, vocês receberam a proteção divina. A descida do dragão do céu pode indicar que um deus-dragão passará a proteger especialmente essa casa, ou que um deus-dragão com laços cármicos com a família fará da casa o seu centro de atividades.
+
+**— Meu pai recebeu a iniciação, mas é muito pouco devotado. Outro dia, diante do oratório budista, roguei em lágrimas: “Se há algo de errado em mim, por favor, mostrem-me”. Fui dormir, mas não consegui pregar o olho. Na manhã seguinte, levantei-me cedo como de costume e, enquanto preparava o arroz, cochilei e tive um sonho. Nele, havia uma escada diante de mim. Subi por ela e, no topo, encontrei dois deuses. Vestiam trajes e capuzes brancos. Um estava de pé, o outro, sentado. Disseram-me: “Nós te louvamos. Fizeste um bom trabalho”. Que tipo de mensagem divina seria esta?**
+
+Trata-se de seus antepassados que, no Mundo Espiritual, alcançaram a condição de divindades de baixo escalão. Sua fé é tão fervorosa que seus antepassados se alegraram. É algo muito auspicioso.
+
+Os trajes e capuzes brancos são as vestimentas dos sacerdotes xintoístas. No sacerdócio, assim como no Mundo Espiritual, o branco é a cor do nível mais baixo. Conforme se ascende, as cores mudam para azul, púrpura e assim por diante. No Mundo Espiritual, o nível mais elevado é representado pela cor púrpura. Em graus muito elevados — algo que não existe nos trajes sacerdotais atuais —, as vestes púrpuras são adornadas com bordados de fios de ouro e prata com diversos padrões. Isso também se manifestará no mundo material; um dia, eu mesmo criarei tais vestes. As coroas serão cravejadas de joias, ouro e prata. Isso me foi revelado por Deus.
+
+O Mundo de Miroku é o mundo do “Verdadeiro Bem e da Verdadeira Beleza”. Comparadas a ele, as vestimentas das pessoas de hoje são de uma pobreza lastimável, verdadeiramente infernais. Na Era de Miroku, até os homens usarão quimonos com bordados.
+
+**— Dizem que sonhar com um boi é sinal de que receberemos o ressentimento de alguém. Minha mãe sonhou que um boi a atacava. Seria um presságio de algo ruim?**
+
+De forma alguma. Sonhar com um boi é um bom sinal. Antigamente, quando Deus me revelava diversas coisas, Ele frequentemente o fazia por meio de sonhos com bois que mostrava às pessoas. O sonho com boi representa “grandes aspirações”; quanto maior o boi, melhor o presságio.
+
+**— Desde que ingressei na fé, já tive o privilégio de estar em Vossa presença cinco vezes. No entanto, durante as orações e os hinos, invariavelmente sinto sono. A sonolência é especialmente intensa durante as cerimônias mensais. Por que isso acontece?**
+
+Isso pode ter dois significados. O primeiro é que a pessoa sente aversão a Deus, e por isso o sono vem. O espírito guardião secundário sente dificuldade em ouvir os hinos. O segundo significado, que não é negativo, ocorre quando há muitos espíritos desejosos de ouvir os hinos. Nesses casos, se a pessoa dormir, esses espíritos conseguem ouvir melhor. Eu mesmo já passei por isso no passado.
+
+**— Sinto a cabeça dormente, preocupo-me com trivialidades e, ao mesmo tempo em que busco me aproximar de Komyo Nyorai, sinto também um desejo de me afastar. Às vezes, sinto aversão a ir à Casa de Difusão e passo a sentir antipatia pelo ministro do local, a quem normalmente estimo. Por que isso acontece?**
+
+Isso ocorre porque seu espírito guardião secundário sente repulsa e, em certos momentos, a força dele se sobrepõe. À medida que você aprofundar a fé e acumular virtudes, esse sentimento desaparecerá.
+
+**— Ao enterrar os ossos de um recém-falecido, gostaríamos de dividi-los, deixando uma parte no túmulo dos antepassados e outra perto de casa. Isso é permitido?**
+
+Dividir os ossos não é correto. Cabelos e unhas podem ser divididos, mas os ossos, não. O ideal é que sejam enterrados juntos, no túmulo dos antepassados.
+
+**— E no caso de ossos que já foram divididos e depositados em locais como o Santuário Yasukuni ou templos budistas?**
+
+O que já foi feito, está feito. Não há o que fazer. Não se trata de algo absolutamente proibido. No entanto, por um tempo após a morte, o espírito se ressente de ter seus ossos divididos. Como a linha espiritual permanece conectada aos ossos por um período, a divisão faz com que essa linha se disperse, retardando o desligamento do espírito e tornando o processo muito mais demorado. É por essa razão que não é recomendável.
+
+**— Com o tempo, o número de túmulos de nossos antepassados aumentou e o cemitério ficou lotado. Gostaríamos de reorganizá-lo. Isso é permitido? Como devemos proceder com os ossos mais antigos? E um único jazigo seria suficiente?**
+
+Sim, podem reorganizar. E um único jazigo é suficiente. Apenas os nomes dos espíritos que vocês conheceram em vida devem ser gravados na lateral; na parte frontal, grava-se “Antepassados da Família Tal”. Essa é a forma correta. Quanto aos ossos, os dos espíritos que não conheceram podem ser reunidos. Já os dos espíritos que conheceram devem ser mantidos em separado.
+
+**— Podemos transferir o túmulo da família para um templo de uma seita budista diferente?**
+
+Não é muito recomendável. Mesmo dentro dos ensinamentos de Buda, há diversas seitas, como a Nitiren e a Shin. Mudar a seita à qual a família esteve ligada por tanto tempo é como se tornar um agregado ou um imigrante: o espírito não se sente à vontade. Se for por uma razão inevitável, como a inexistência de outro templo, não há o que fazer. Mas, se possível, é melhor evitar. Mudar do budismo para o xintoísmo é, obviamente, inadequado. Já a mudança dentro do próprio budismo, embora não seja absolutamente proibida, pois todas as seitas derivam do mesmo Buda, causa um certo desconforto ao espírito, sendo preferível não o fazer.
+
+**— Ao construir um novo túmulo, qual das seguintes inscrições devemos gravar na lápide: “Túmulo da Família Tal” ou “Espíritos dos Antepassados da Família Tal”? E podemos gravar os nomes póstumos?**
+
+O correto é “Espíritos dos Antepassados da Família Tal”. Os nomes póstumos podem ser gravados, mas não na face principal da lápide, que deve conter a inscrição mencionada. Os nomes devem ser gravados na lateral ou no verso, e é preciso seguir a ordem correta, de acordo com a hierarquia espiritual. Por exemplo, se o bisavô for o primeiro, deve-se seguir com o avô, depois o pai, e assim por diante. Contanto que a ordem seja respeitada, está correto.
+
+**— Em minha região, há o costume de colocar no caixão, junto ao corpo, os objetos que a pessoa mais estimava em vida. Qual o efeito disso no Mundo Espiritual?**
+
+Na verdade, isso é bom. O apego a esses objetos ainda é muito forte, portanto, é bom colocá-los no caixão. No entanto, se tudo for colocado, do ponto de vista nacional, representa um grande desperdício. Se forem roupas ou objetos de pouco valor, não há problema, mas incluir itens preciosos seria uma perda considerável. É preciso usar o bom senso.
+
+O apego pode ser muito forte. Há espíritos de mulheres que, por um tempo após a morte, permanecem junto às suas cômodas, por apego às roupas. Por isso, a prática de distribuir os pertences do falecido como lembrança é questionável. Se o espírito tinha um apego especial por uma determinada peça de roupa, ele se apegará à pessoa que a vestir. Há histórias antigas sobre incêndios causados por quimonos de mangas longas, e tais coisas podem, de fato, acontecer.
+
+Por outro lado, guardar todos os pertences de quem partiu também não leva a nada. Do ponto de vista da economia social, é melhor que sejam distribuídos. O ideal, portanto, é purificá-los. Deve-se orar uma prece e aplicar Johrei direcionado ao objeto. Isso fará com que o apego diminua.
+
+**— Diz-se que, se uma pessoa com nevralgia ou problemas de estômago pedir a um idoso para “levar sua doença”, a doença se cura após a morte do idoso. Qual a explicação espiritual para isso?**
+
+Isso pode acontecer ocasionalmente, mas não funciona com qualquer um. É preciso que o idoso concorde e tenha o pensamento: “Coitado, eu levarei a doença por ele”. Mesmo assim, ele provavelmente assumirá apenas uma parte do sofrimento. Além disso, se houver toxinas medicamentosas envolvidas, o processo não ocorrerá dessa forma.
+
+**— É costume popular colocar uma faca ou objeto cortante sob o travesseiro de uma criança que chora muito à noite. Qual o significado espiritual disso?**
+
+Isso tem um significado. Certos espíritos temem objetos cortantes. O choro noturno que tanto aflige os pais é frequentemente causado por espíritos de animais, especialmente de raposas, embora também possa ser causado por espíritos humanos. Espíritos que morreram feridos ou mortos por uma lâmina têm um medo particular desses objetos e não conseguem se aproximar quando há um por perto. O choro noturno da criança pode, em alguns casos, ter essa causa. Portanto, não é uma solução que funcione para todos os casos. Naturalmente, esse tipo de choro noturno também se resolve com Johrei.
+
+**— Gostaria de saber sobre as causas cármicas de um bebê estar em posição pélvica (parto de nádegas).**
+
+A causa não é espiritual, mas física. Contudo, este é um assunto que não pode ser discutido em público, pois é um segredo dos segredos. Deixarei, portanto, à vossa imaginação. (Risos)
+
+**— Um homem de quarenta e dois anos, ex-sacerdote xintoísta, desde novembro do ano passado ficou com a fala e os movimentos das mãos e dos pés comprometidos. Atualmente, vive de aluguel em um santuário. O espírito do sacerdote anterior desse santuário se manifesta através dele, pedindo: “Cuide deste santuário”. As divindades consagradas são quatro, incluindo Takenouchi-no-Sukune e a Imperatriz Jingu. Quando outro sacerdote tenta fazer uma purificação, ele sofre muito. O que devemos fazer?**
+
+O espírito do sacerdote tem esse desejo e, por não conseguir seguir para seu devido lugar, está se manifestando. Se atenderem ao seu pedido, ele ficará imensamente feliz. Em troca, o espírito deverá retribuir com sua proteção. Se as circunstâncias permitirem, seria bom atender ao seu desejo. Em essência, ele está pedindo para que cuidem do santuário em seu lugar, ou seja, que zelem pelas quatro divindades — ou melhor, personalidades divinizadas — ali consagradas.
+
+Se essa pessoa não puder assumir a tarefa, pode-se escolher um substituto adequado. Se nem isso for possível, talvez seja melhor que ele erga um altar no *tokonoma* de sua casa, consagre as quatro divindades e, atrás delas, pendure o pergaminho de Komyo Nyorai. O fato de ele sofrer com a purificação de outro sacerdote se deve à hierarquia espiritual: como o espírito que o possui é de um nível superior, a purificação realizada por alguém de nível inferior o macula e causa sofrimento. Se, ao contrário, a purificação fosse feita por alguém de nível muito superior ao do espírito, a sensação seria extremamente agradável.
+
+**— Este doente ainda não recebeu o Ohikari...**
+
+Ah, ainda não? É preciso que ele o receba o quanto antes. Depois, podem proceder como eu indiquei.
+
+**— E como devemos ministrar o Johrei?**
+
+Concentrem-se principalmente na região da testa.
+
+**— Eu sofria de apendicite e me disseram que a cirurgia era inevitável. Com uma única sessão de Johrei, o efeito foi tão surpreendente que só pude me maravilhar. Diante de tamanha alegria, abandonei imediatamente o magistério, tornei-me ministro e passei a me dedicar de corpo e alma. Recentemente, porém, o boi que tínhamos em casa, embora estivesse amarrado no estábulo, de alguma forma caiu de um penhasco e morreu. Qual o significado disso?**
+
+Pelo fato de ter um boi, deduzo que esta pessoa se dedicava à agricultura.
+
+**— Sim, é isso.**
+
+Provavelmente, é um desígnio de Deus para que você abandone a agricultura e se dedique exclusivamente a este Caminho. Sim, deve ser isso.
+
+**— Tenho uma marcenaria como negócio de família. Em novembro do ano passado, sonhei que ouvia o som de uma sirene. Acordei assustado e vi que as brasas remanescentes na oficina haviam iniciado um incêndio que por pouco não se tornou uma grande tragédia. Consegui apagá-lo a tempo. Agradeço profundamente pela proteção. Ultimamente, desastres como este têm ocorrido com frequência. Qual a razão?**
+
+Os desastres, em geral, estão predestinados na vida de uma pessoa. Está determinado que ela passará por aquela provação naquele momento. A atitude correta é rogar a Deus para que transforme uma grande calamidade em uma pequena, e uma pequena, em nenhuma. No entanto, esta pessoa ainda não acumulou graças suficientes para que o desastre seja completamente anulado. À medida que acumular virtudes, receberá a graça de ter as calamidades transformadas em nada.
+
+A forma mais elevada de anulação de um desastre é vivenciá-lo apenas em sonho. Há casos em que uma pessoa, que estava destinada a morrer, apenas sonha com sua morte e, assim, a situação é resolvida.
+
+**— Graças ao Johrei, fui curado de uma grave doença que me atormentava e hoje sirvo como ministro. Recentemente, embora tenha sido vítima de roubo várias vezes, todos os objetos foram imediatamente recuperados, e saí ileso. Agradeço imensamente pela proteção. Outro dia, a máquina da minha oficina apresentou um defeito. No instante em que me aproximei para inspecioná-la, houve uma explosão ensurdecedora. O galpão foi reduzido a pó, sem deixar vestígios. Desmaiei no local. Ao recobrar a consciência, constatei, perplexo, que meu corpo estava intacto, sem um único arranhão. Foi algo absolutamente milagroso, mas minha família ainda não compreende bem o ocorrido. No entanto, na manhã de 3 de abril, minha serraria e minha casa foram completamente destruídas por um incêndio. Qual o significado disso?**
+
+O significado é que, mesmo diante de um milagre tão grandioso, sua família não compreendeu. Situações como essa indicam a existência de pecados e máculas que precisam ser removidos. Deus permitiu o incêndio para purificar esses pecados e máculas. Portanto, embora pareça estranho dizer, na verdade, foi algo bom. É até possível que os espíritos de seus antepassados estejam por trás disso. Eles se utilizam de diversos meios para nos guiar. No final, todos teremos que nos curvar. Quanto antes o fizermos, melhor para nós.
+
+**— A força do coração está relacionada à intensidade da energia espiritual irradiada?**
+
+Sim, sem dúvida. A irradiação de energia espiritual consome uma grande quantidade de elemento fogo, e o coração é o principal órgão responsável por absorvê-lo. Portanto, a relação é direta. É preciso ter um coração forte. Mas não no sentido popular da expressão “ter coração forte”. (Risos)
+
+**— Um homem de vinte e oito anos, desde o final do ano retrasado, adoeceu do peito e se submeteu a dez sessões de pneumotórax, sem melhora. Em março do ano passado, por acaso, foi curado pelo Johrei. Ingressou imediatamente na fé, tornou-se ministro e passou a servir. Desde janeiro deste ano, no entanto, iniciou uma purificação. A garganta dói tanto que mal consegue engolir a saliva, o apetite é nulo, e ele mal consegue consumir um ovo cru por dia. Elimina cerca de um litro de secreção turva diariamente e está extremamente debilitado. Haveria salvação para ele?**
+
+Trata-se de uma repurificação. Quando as toxinas solidificadas pela medicina se dissolvem até certo ponto, a pessoa melhora consideravelmente. No entanto, quanto maior a melhora, mais as toxinas antigas vêm à tona para serem purificadas. Essa fase de repurificação é complicada, pois a debilidade física a torna perigosa e pode levar à morte.
+
+O mais importante é encontrar o ponto focal principal da doença, que, em casos como este, geralmente se localiza na nuca. Além disso, certamente existem nódulos nos ombros, nas costas, na região abaixo dos rins e na virilha. É preciso encontrá-los e ministrar Johrei. Ao localizar o ponto de maior calor e aplicar Johrei ali, o alívio será significativo. A dor ao engolir ocorre porque a secreção e o catarro, ao passarem pela garganta, causam uma inflamação com pequenas pústulas devido à sua toxicidade. Quando a quantidade de secreção diminuir, a dor cessará.
+
+Nesses casos, é crucial evitar que a debilidade se agrave e superar a fase crítica o mais rápido possível. O ponto focal principal provavelmente está na nuca. Se, ao ministrar Johrei ali, a febre na testa diminuir, significa que o ponto foi encontrado. Em seguida, deve-se procurar o segundo e o terceiro pontos focais, o que exige bastante prática. Quando a testa esfriar e a febre desaparecer, pode-se considerar que o período de recuperação começou.
+
+**— Uma jovem de vinte anos foi diagnosticada com tuberculose em junho do ano passado e ficou hospitalizada até novembro. Sua menstruação cessou na mesma época. Desde então, tem recebido Johrei. As dores diminuíram, mas a debilidade é severa. Qual o prognóstico?**
+
+É comum, especialmente em casos de tuberculose, que a menstruação cesse com o avanço da doença, pois a pessoa se torna anêmica. Este caso é bastante delicato. Provavelmente, não há mais esperança. Portanto, é melhor se afastar. Contudo, é bom continuar ministrando Johrei para aliviar o sofrimento e para que, após a morte, seu espírito tenha uma condição muito mais tranquila no Mundo Espiritual.
+
+A cessação da menstruação já é um sinal de grande perigo. A perda dos pelos pubianos, no entanto, indica que não há mais o que fazer. A saúde ou a falta dela de uma pessoa... pode parecer estranho dizer isso, mas pode ser avaliada pelos pelos pubianos. Quanto mais densos, mais saudável a pessoa; quanto mais ralos, menos saudável. Isso é uma verdade incontestável.
+
+Outra forma de avaliar a saúde é pela elasticidade dos ombros. Ao pressioná-los, quanto mais macios, melhor. Pessoas aparentemente robustas, mas com ombros rígidos, frequentemente têm morte súbita. As pessoas de sucesso neste mundo invariavelmente têm ombros macios. Isso porque ombros macios indicam vigor. Os de ombros rígidos não têm vigor e, por isso, fracassam.
+
+**— A rigidez dos ombros pode ser curada?**
+
+Sim, pode. Mas leva muito tempo.
+
+**— Existem pessoas com cabelos macios e outras com cabelos duros. Isso tem relação com a personalidade?**
+
+Tem relação com a personalidade, mas a conexão com a saúde é ainda maior. Pessoas saudáveis têm cabelos duros; as frágeis, macios. Quanto à personalidade, de fato, quem tem cabelo macio tende a ter uma personalidade mais branda, e quem tem cabelo duro, uma personalidade mais firme. O cabelo também muda, tornando-se macio ou duro ao longo da vida. Eu mesmo, quando criança, tinha cabelo macio, mas ele endureceu na meia-idade. Dizem que cabelos duros ficam brancos mais facilmente, e parece ser verdade.
+
+**— Uma menina de quinze anos está com os cabelos ficando brancos gradualmente. Qual a causa disso?**
+
+É a influência do espírito de um idoso de cabelos brancos. Isso se resolve com Johrei. Tivemos um caso anterior de uma jovem senhora que perdeu os cabelos por influência do espírito de um monge asceta. (Risos)
+
+**— Há uma criança que invariavelmente tem uma crise de epilepsia ao menor toque em seu cabelo. Por que isso acontece?**
+
+A epilepsia é causada pela influência de um espírito morto. Nesse caso, o espírito em questão morreu em circunstâncias relacionadas ao cabelo — talvez tenha sido puxado pelos cabelos ou algo do tipo. Por isso, ele sente pavor quando tocam no cabelo. A crise epilética é uma repetição exata do estado da pessoa no momento da morte.
+
+**— Há quatro ou cinco anos, surgiu um pequeno caroço em minha língua. Ele não cresceu e normalmente não dói, mas sinto dor ao pressioná-lo com força. Há quinze anos, minha tia faleceu de câncer de língua. Seria uma causa espiritual? O Johrei pode curá-lo?**
+
+Sim, há risco de ser câncer de língua. E sim, o Johrei pode curá-lo. Casos como este são de origem espiritual. Provavelmente, há um espírito ressentido por algo que você disse indevidamente em uma vida passada.
+
+**— Um homem de cerca de cinquenta anos desenvolveu no rosto algo que inicialmente parecia uma verruga, mas que foi crescendo até se assemelhar a um cacho de uvas, tanto na forma quanto na cor. Com o tempo, espalhou-se da cabeça até a boca, como se um cacho de uvas estivesse pendurado em seu rosto. Mesmo após cirurgias, o problema retorna. Qual seria a causa espiritual?**
+
+Assemelha-se a um cacho de uvas, com múltiplas protuberâncias?
+
+**— Sim, exatamente como um cacho de uvas, com várias bolinhas...**
+
+E ele não sente dor?
+
+**— A dor não parece ser intensa.**
+
+Isso parece ser de natureza espiritual. Não é uma purificação comum, mas o resultado de um ressentimento. Será que não são sapos? As ovas de sapo se assemelham muito a um cacho de uvas. Pode ser o ressentimento por ter matado muitos ovos de sapo ao limpar um lago, por exemplo. A mola hidatiforme tem essa mesma origem. Portanto, suspeito que este caso também seja semelhante.
+
+**— Existem pessoas que nascem com seis dedos. Qual a razão disso?**
+
+Essas pessoas reencarnaram como animais em uma vida anterior, e ainda trazem vestígios dessa existência.
+
+**— Não há problema em remover o dedo extra?**
+
+Não, não há problema algum. Há também casos de pessoas cujo polegar nasce da base do dedo indicador; esses provavelmente foram sapos.
+
+**— Uma criança de nove meses nasceu sem ânus. Há um orifício na parte anterior, mas sem o músculo esfíncter, o que causa grande dificuldade. Qual o carma por trás disso?**
+
+Em uma vida anterior, essa criança foi um animal que não possuía ânus. Ela reencarnou antes de ser suficientemente purificada no Mundo Espiritual. Existem animais sem ânus, como os sapos e certos tipos de insetos.
+
+**— Um homem de quarenta e sete anos, em 1942, enquanto servia no norte da China, sofreu um ferimento na cabeça e foi repatriado. Desde seu retorno, trancou-se no segundo andar de sua casa, sem jamais sair ou interagir com ninguém. No final de 1947, parou de falar completamente e passou a se comunicar escrevendo na palma da mão. Durante esses nove anos, esfrega o corpo inteiro diariamente com água fria e uma escova de piaçava. Ele não recebia ninguém além da esposa, mas, após eu lhe ministrar Johrei três vezes, ele agora me permite vê-lo. A esposa recebeu o Ohikari recentemente. Ele pode ser curado?**
+
+Sim, pode ser curado. Provavelmente, no campo de batalha, o espírito de um cavalo ou de outro animal se apossou dele. Os cavalos são limpos com escovas de piaçava. (Risos) Por ser um cavalo, ele não consegue falar a linguagem humana. Quase certamente é um cavalo. Com perseverança, ele será curado. O ponto principal para o Johrei é a região frontal da cabeça. Espíritos de cavalos se apossam com certa frequência. Tivemos um caso de uma menina de cinco anos que dormia exatamente na mesma posição que um cavalo. (Risos)
+
+**— Um homem de quarenta e um anos, quando exposto à luz solar direta ou mesmo ao calor do sol sob um guarda-chuva, sente o corpo inteiro aquecer e sofre terrivelmente. A parte do corpo que recebe a luz direta incha, a pele inflama e, posteriormente, descama. No verão, essa tendência se agrava. Há sete ou oito anos, passou a apresentar os mesmos sintomas no inverno, ao se aquecer perto de um braseiro. Seria uma causa espiritual?**
+
+Não, não é espiritual. É um tipo especial de sangue tóxico. Isso significa que seus pais ou avós ingeriram algum medicamento exótico. As pessoas tomam todo tipo de coisa, acreditando que faz bem. Por exemplo, testículos de macaco, ou um cozimento da crista de um grou... A causa é a toxina proveniente da ingestão dessas substâncias estranhas.
+
+**— Há seis ou sete anos, sofri de tuberculose renal e de bexiga, e em seguida desenvolvi a doença de Pott. Passei um longo período hospitalizado, mas meu quadro só piorava, e meu abdômen inferior começou a inchar, causando grande sofrimento. Com o Johrei, melhorei gradualmente e estava quase curado. Recentemente, porém, meu abdômen voltou a acumular cerca de um litro de água. Peço sua orientação sobre a causa.**
+
+A causa são as toxinas. O grande problema com o acúmulo de líquido é que, ao ser drenado, ele invariavelmente retorna em maior quantidade. A pessoa que inicialmente drenava o líquido a cada mês, passa a fazê-lo a cada vinte dias, depois a cada quinze, e o volume acumulado aumenta. Portanto, para quem já drenou o líquido várias vezes, não há mais solução. Uma vez que se cria o hábito de drenar, a cura se torna impossível.
+
+A única exceção é o líquido da pleura, cuja drenagem às vezes pode ser benéfica, pois ele pode infiltrar-se nos pulmões e ser expelido como catarro. No caso do peritônio, no entanto, o líquido não é eliminado porque o canal que vai dos rins à uretra ou a entrada da bexiga está obstruído. Isso se deve à presença de toxinas no baixo-ventre, e a solução é eliminá-las. A origem de tudo está nos rins. Portanto, o tratamento consiste em ministrar Johrei nos rins e, em seguida, na região da bexiga. Assim, a cura virá.
+
+Durante o Johrei, o baixo-ventre pode inchar subitamente. Isso ocorre porque os rins voltam a funcionar, mas a bexiga não consegue expelir todo o líquido, causando um represamento. Com a continuação do tratamento, o problema se resolve. O caso desta pessoa tem cura... sim, tem cura. No entanto, deixo um alerta a vocês: em casos de ascite peritoneal em que já se criou o hábito de drenar o líquido, é melhor não intervir.
+
+**— O acúmulo de água na cabeça das crianças, que a faz aumentar de tamanho, tem causa espiritual?**
+
+Não, a causa é quase sempre física. Pode haver um caso em um milhão de origem espiritual, não nego, mas a grande maioria é física. Essas crianças têm uma grande quantidade de toxinas. O acúmulo pode ser muito duro ou mole e flácido. Os casos em que é flácido são mais fáceis de curar.
+
+**— Parece que isso não ocorre em adultos.**
+
+Sim, é mais comum em crianças. Elas nascem com substâncias em excesso. Quando o bebê permanece em posição invertida no útero por um tempo, as toxinas entram pela placenta — por aquele cordão — e se acumulam na cabeça.
+
+**— Em casos de choque elétrico grave, em que parte do corpo devemos concentrar o Johrei?**
+
+Deve-se ministrar Johrei nas queimaduras e nos locais de dor, tratando o caso de forma semelhante a uma queimadura comum. Isso é o suficiente.
+
+**— No caso de uma pessoa que se afogou, a respiração artificial é necessária?**
+
+Para quem conhece o Johrei, não há necessidade. O Johrei é muito mais eficaz que a respiração artificial.
+
+**— Se alguém for picado por uma víbora, é necessário aplicar um torniquete?**
+
+Também não é necessário. A picada de víbora não causa grande sangramento. O problema é o inchaço causado pelo veneno, que geralmente começa no pé — pois é o local mais comum de picada — e se espalha pelo corpo. Ministrando Johrei assim que o inchaço começa, a cura é rápida e fácil. Não há mais razão para temer a picada de uma víbora.
+
+**— Um bebê apresentava inchaços sobre ambos os rins, no formato de tigelas viradas para baixo. O médico local disse que nunca tinha visto tal doença e que gostaria de estudá-la. A mãe, apreensiva, levou-o ao hospital da Cruz Vermelha, onde foi diagnosticado como sendo um sarcoma. Disseram-lhe que a eletroterapia de baixa intensidade não seria suficiente e que seria necessário aplicar uma corrente forte. Desesperada, ela me procurou. Ministrei Johrei e a criança se curou com uma rapidez impressionante. Tratava-se mesmo de um sarcoma?**
+
+Não, não era um sarcoma. Foram toxinas que se manifestaram. O sarcoma é semelhante ao câncer e nunca tem formato arredondado; ele é irregular e pontiagudo. Além disso, o sarcoma costuma aparecer em pessoas com mais de quarenta anos.
+
+Enfim, os médicos, lamentavelmente, não compreendem essas coisas... Explicar isso em detalhes inevitavelmente viola a Lei da Prática Médica. (Risos) Na verdade, essa lei é um paradoxo. Uma medicina que não cura considera ilegal uma medicina que cura. (Risos)
+
+**— Um rapaz de onze anos, desde os três, tem dificuldades de fala e até hoje só consegue dizer palavras como “trem”, “vovô” e “vovó”. Sua inteligência é próxima à de um deficiente mental, e por isso adiamos sua matrícula na escola. Aos três anos, ele caiu e machucou a cabeça. Seria uma causa espiritual?**
+
+Há duas possibilidades. A primeira é que a queda tenha causado uma hemorragia interna que, ao se solidificar, comprometeu a atividade da região frontal da cabeça, responsável pela inteligência. A segunda é a influência do espírito de um bebê.
+
+O que acontece é o seguinte: quando um bebê morre e seus pais têm um forte apego a ele, esse apego pode prender o espírito do bebê, impedindo que ele reencarne. Então, ele acaba se ligando ao próximo bebê que nasce. Em casos raros, um espírito que morreu devido a um ferimento na cabeça ou a uma explosão pode reencarnar antes de ser completamente purificado no Mundo Espiritual, resultando em uma pessoa com desenvolvimento mental lento. Mas isso é muito raro. A causa mais comum é a influência do espírito de um bebê. Espíritos de abortos também podem se manifestar, buscando ser cultuados. Por isso, bebês que morrem após o quinto mês de gestação devem ser cultuados. Em casos muito raros, mesmo os de três ou quatro meses podem causar problemas.
+
+Se houve abortos, partos prematuros ou mortes de bebês na família dessa pessoa, essa é provavelmente a causa. O Johrei deve ser concentrado no centro da região frontal da cabeça e na nuca. Com perseverança, ele melhorará gradualmente.
+
+**— Uma mulher de sessenta e nove anos começou a ter a visão turva por volta de 1946. O médico diagnosticou glaucoma. Há algum tempo ela recebe Johrei, mas ainda não houve melhora. Qual o prognóstico?**
+
+Os colírios solidificam as toxinas; uma única gota já causa solidificação. Praticamente todas as pessoas que não são membros do nosso caminho usam colírio. E as toxinas solidificadas nos olhos são muito difíceis de dissolver. A medicina chega a remover o globo ocular, raspar sua parte posterior e recolocá-lo, alardeando isso como um avanço médico impressionante...
+
+O Johrei deve ser ministrado não apenas pela frente, mas também por trás, mirando os olhos. Quando a remela e as lágrimas começarem a sair, é um excelente sinal. A região acima dos olhos também é crucial. As toxinas vêm da parte posterior do olho, da medula oblonga, passam pela frente, sobem para a área acima das sobrancelhas e, então, descem para os olhos. Portanto, essa área é fundamental. Se, ao ministrar Johrei, a região acima dos olhos aquecer, é um bom sinal.
+
+Pode haver também uma causa espiritual, mas isso é mais comum em jovens. Em idosos, é raro. Quando a causa é espiritual, geralmente se trata de uma cobra. Ao matar uma cobra, as pessoas frequentemente esmagam sua cabeça e os olhos, e o espírito da cobra pode se apegar à pessoa. Como se trata de uma senhora idosa, é improvável que a causa seja espiritual. Se fosse, teria se manifestado muito mais cedo.
+
+**— Ao construir uma casa de aproximadamente três cômodos para ser usada como Casa de Difusão, gostaria de saber sobre o número de tatames e a disposição dos cômodos.**
+
+Um número bom de tatames seria dezoito. Cinco, seis e sete também são bons. Uma configuração com uma entrada de três tatames, seguida por uma sala de seis e outra de dezoito, é auspiciosa. Dez, seis e dois também é uma boa combinação, assim como dez, cinco e três.
+
+Quanto à disposição, desde que o banheiro e a cozinha evitem o portão do demônio (*kimon*), os outros cômodos podem ser dispostos livremente. Locais onde se usa muita água, como a cozinha, são ideais no portão do demônio reverso (*ura-kimon*). Para a entrada, a melhor posição é entre o leste e o sul (*tatsumi*). Tanto a Vila Shinzan quanto a Vila Hozan têm a entrada nessa posição; todos os lugares para onde vou são assim.
+
+**— Diz-se que este ano a produção agrícola será irregular. Gostaria de saber sobre a relação espiritual entre a colheita agrícola e o problema populacional.**
+
+Como se pode saber que a produção agrícola será irregular este ano? A colheita ainda está por vir. Quem afirma saber disso se coloca acima de Deus. Existe, sim, uma relação entre a colheita e a população, mas é Deus quem a administra. O problema é a interferência humana. O controle de natalidade é uma preocupação desnecessária do homem, e é isso que causa problemas. Deus sempre provê o alimento necessário para a humanidade. O que é lamentável é a prática de uma agricultura equivocada.
+
+**— Há algum problema em cultivar mudas de arroz em canteiros secos para depois transplantá-las? E o que acha de cultivar as mudas em estufas?**
+
+O arroz deve ser cultivado em campos alagados; o cultivo em canteiros secos não é correto. As estufas também não são recomendáveis, exceto em locais muito frios ou onde a água de irrigação é gelada, vinda das montanhas. Nesses casos, pode-se usar uma estufa com temperatura muito baixa. Mas, em princípio, por ser contrário à natureza, não é bom.
+
+Recentemente, têm sido utilizadas a eletricidade e diversas formas de radiação na agricultura. Tudo isso é inútil. Afirmo categoricamente: pode até funcionar por um ou dois anos, mas, depois disso, os resultados serão negativos, pois é antinatural. Os “intelectuais” são de uma ingenuidade atroz: se algo funciona por um tempo, eles se convencem de que é absolutamente bom. Mas o que funciona por um tempo certamente terá uma reação negativa no futuro. Não se deixem enganar. Lamento pelos que pesquisam essas coisas, mas, por ignorância, não percebem que tais métodos não são sustentáveis.
+
+O melhor é seguir o clima e as condições naturais de cada local. É como o arroz: podemos comê-lo todos os dias sem nos cansarmos, e ele é o alimento mais nutritivo. Já doces e bebidas alcoólicas, embora saborosos em pequenas quantidades, rapidamente se tornam enjoativos e não são nutritivos. Da mesma forma, os métodos artificiais na agricultura são de efeito temporário e acabam esgotando o solo. O melhor é sempre imitar a natureza.
+
+O corpo humano também foi feito pela natureza para ser saudável e produtivo. São as práticas equivocadas que o arruínam. Portanto, quando algo não vai bem, devemos refletir sobre em que ponto estamos nos desviando da natureza. A Grande Natureza é a mestra do homem. O próprio Johrei é uma lei da Grande Natureza, pois se baseia no poder do fogo, da água e da terra. A luz espiritual é fogo e água, e, ao passar pelo corpo humano, o poder da terra é adicionado. É o mesmo que a Grande Natureza, que também é composta por fogo, água e terra.
+
+O mesmo se aplica aos fertilizantes. O composto orgânico é o melhor. Folhas secas e grama que se decompõem e se misturam ao solo são o método da Grande Natureza. A Grande Natureza não faz chover esterco de cavalo nem fertilizantes químicos. (Risos)
+
+**— Todos os anos, cultivo arroz em campos alagados e secos. No ano passado, usei a quantidade de fertilizante distribuída pelo governo e ministrei Johrei, o que resultou em um aumento de 2,3 *to* na colheita. Este ano, pretendo praticar o cultivo sem fertilizantes. Gostaria de saber se devo optar por uma variedade de colheita tardia ou precoce.**
+
+Isso depende da terra e do clima de cada local, portanto, a única maneira é consultar os agricultores experientes da sua região. No cultivo sem fertilizantes, o crescimento inicial é mais lento. Mas não se preocupe, é como uma pessoa que fuma ou bebe e, ao parar de repente, sente-se sem energia por um tempo. O solo está viciado em fertilizantes. A partir da metade do ciclo, ele começará a absorver os nutrientes naturais da terra e se desenvolverá com vigor.
+
+**— Diz-se que adicionar capim e palha da beira da estrada aos arrozais atrai a broca-do-arroz e outras pragas. Isso é verdade?**
+
+Absolutamente, não. Os insetos aparecem por causa dos fertilizantes. A broca-do-arroz, ao que parece, é causada principalmente pelo sulfato de amônio. No cultivo sem fertilizantes, ela não aparece. Por isso se diz que a incidência da broca-do-arroz é maior perto dos depósitos de fertilizantes.
+
+**— Há o costume de adicionar terra de outros locais aos arrozais. Isso é permitido? E que tipo de terra seria mais adequado?**
+
+Essa prática de adicionar terra de fora é uma excelente prova da eficácia do cultivo sem fertilizantes. Essa terra é, na verdade, terra virgem, onde não se usaram fertilizantes. Os agricultores geralmente trazem terra das montanhas porque o solo de seus campos se esgotou devido ao uso de fertilizantes. Então, eles buscam a terra das montanhas, que ainda não foi contaminada.
+
+Até agora, a justificativa era que o cultivo contínuo esgotou os nutrientes do solo. Mas a verdade é outra: o uso de fertilizantes matou o solo. Isso, na verdade, comprova a superioridade do cultivo sem fertilizantes. Portanto, ao adicionar terra, qualquer terra onde não se tenham usado fertilizantes servirá.
+
+**— Diz-se que as melhores batatas-semente são as de Hokkaido. As outras regiões também deveriam usar as de Hokkaido?**
+
+Não é necessário. A batata se desenvolve bem em climas relativamente frios, por isso as de Hokkaido têm boa fama. Mas, com o cultivo sem fertilizantes, é possível produzir batatas superiores às de Hokkaido em qualquer lugar. Ficam maravilhosas: brancas, macias, aromáticas... uma delícia indescritível.
+
+***
+
+**Nota do Editor**
+
+I. Apresentamos o nono número do *Gokowa Roku*.
+
+II. A publicação do décimo número acabou precedendo a do nono. Pedimos desculpas pelo ocorrido, que se deveu a um atraso na impressão por um erro de nossa parte.
+
+III. Os assuntos das perguntas foram classificados e agrupados por temas, a fim de facilitar a pesquisa e o estudo dos leitores. Consequentemente, dentro de um mesmo tema, podem constar orientações dadas em diferentes ocasiões. Agradecemos a vossa compreensão a este respeito.
+
+---
+
+# Coletânea de Teses do Mestre Okada Jikanshi
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** 法難手記
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coletânea de Teses do Mestre Okada Jikanshi
+### Registro das Orientações de Luz, vol. 8, edição especial, publicado em 30 de maio de 1949 (Showa 24)
+
+**P: Gostaria de indagar sobre os motivos pelos quais um local de difusão não se desenvolve.**
+
+R: A razão é que, em algum ponto, houve um descarrilamento. Em suma, o local saiu dos trilhos. A causa primordial, na maioria dos casos, reside na fé de caráter restrito. Tal abordagem impede o desenvolvimento. É imprescindível que a fé seja de ampla abrangência, pois o progresso é uma atividade de expansão, o que torna essa amplitude indispensável.
+
+A fé de caráter restrito é por demais limitada, criando um ambiente onde tudo é proibido e recriminado, o que é um erro. Isso não constitui a prática de Kannon (観音). Kannon personifica a ampla abrangência e é isenta de discriminação entre o bem e o mal. Nesse sentido, é equivocado que os seres humanos determinem o que é bom ou mau. Evidentemente, o bom senso nos permite discernir, até certo ponto, a natureza das coisas, mas uma compreensão absoluta está além do nosso alcance. É comum que alguém critique veementemente uma falha alheia, enquanto ele próprio incorre no mesmo erro. Expressar uma opinião passageira de forma sucinta é aceitável, mas tentar impor obstinadamente a própria vontade aos outros é de todo desaconselhável. Tudo deve ser conduzido de maneira a proporcionar bem-estar.
+
+A causa fundamental, em poucas palavras, é a ausência de uma atmosfera aprazível e jubilosa no local.
+
+Ademais, a prolixidade é inaceitável. Há pessoas que repetem o mesmo assunto incessantemente, o que é extremamente prejudicial. Deus é conciso. Embora muitas religiões sejam insistentes, na verdade, são doutrinas heterodoxas. Se, após uma breve explanação, o interlocutor não se mostrar receptivo, deve-se aguardar o momento oportuno.
+
+As pessoas são atraídas porque o Johrei cura doenças e proporciona graças. A cura ocorre porque tocamos no ponto vital. Portanto, um ministro precisa dominar essa técnica. O mesmo se aplica à palavra: um discurso que divaga sem focar no essencial é inútil. Uma ou duas palavras que toquem a alma do ouvinte são suficientes para que ele sinta a verdade. Assim, tanto na orientação verbal quanto no Johrei, o ponto vital é tudo. Atingir esse ponto requer sabedoria e discernimento. Uma mente obtusa jamais o encontrará. Alguns, por fim, tentam abranger tudo na esperança de acertar algo por acaso. (Risos) É o método da metralhadora. (Risos) Não se trata de cem acertos em cem disparos, mas de um acerto em cem. (Risos) Contudo, ninguém começa com essa habilidade. Com dedicação e uma prática ampla, gradualmente se aprende a identificar os pontos vitais.
+
+Embora haja muitos outros fatores, expus aqueles que me ocorreram no momento. Existe, todavia, um elemento crucial e único: o forte e inabalável desejo de expandir e progredir. Este é o fundamento. O pior erro é pensar: "Eu sou um fracasso". A postura correta é: "Eu também sou um ser humano; se outros conseguem, eu também consigo". Aquele que, mesmo diante do fracasso e do escárnio, não desiste e persevera até o fim, é quem prospera. Eu mesmo sou um exemplo disso. Desistir após o primeiro tropeço é inaceitável. Diz-se que "a resignação é virtude", mas, embora isso se aplique a certas situações, em outras, "a perseverança é a virtude". Portanto, a resignação é fundamental para o mal, e a perseverança, para o bem.
+
+Muitas vezes, ao me apresentarem alguém, o introdutor enaltece: "Este é um homem de grande valor, pois, acima de tudo, não tem cobiça". Considero tal afirmação um equívoco. Costumo dizer que a ausência de desejo é um problema, pois existem desejos nobres. Se falamos em ambição, Deus é o mais ambicioso de todos, pois deseja salvar o mundo inteiro. Não há anseio maior do que este. Logo, o desejo em si não é, de forma alguma, algo mau.
+
+É comum ouvir que "a Igreja Messiânica tem dinheiro e sabe como ganhá-lo". No entanto, para salvar um grande número de pessoas nos dias de hoje, o dinheiro é absolutamente necessário. Por mais maravilhoso que seja o poder e sublimes que sejam os ensinamentos, sem uma estrutura organizacional, nada se realiza. Para construir o Paraíso Terrestre, necessitamos de seus protótipos... e é na criação desses protótipos que estou empenhado. Qualquer empreendimento exige recursos financeiros. Se o objetivo é angariar fundos para tal fim, não há nada de errado nisso. Uma grande salvação demanda grandes somas de dinheiro.
+
+Antigamente, havia o ideal do "fundador que viveu cinquenta anos em vestes de papel", referindo-se, creio eu, a Shinran. Talvez não por cinquenta anos, mas a ideia é a de uma vida austera. Nichiren também pregou a Lei em condição semelhante à de um monge mendicante, mas os tempos são outros. Hoje, tal comportamento não seria levado a sério pela sociedade. A era em que se viajava a pé com sandálias de palha ou em liteiras é diferente da era dos automóveis e aviões. Não se pode salvar o mundo inteiro perambulando com sandálias de palha. Contudo, ainda existem pessoas presas a concepções ultrapassadas, que só valorizam uma fé praticada em austeridade e pobreza, como a de um monge mendicante. É uma mentalidade lastimável.
+
+O fato é que o fundamento da fé difere. A fé do passado, a fé que conhecíamos até agora, era ascética. Considerava-se virtuoso comer alimentos insípidos, vestir roupas esfarrapadas e viver em moradias precárias. Mas isso é um erro. Afinal, as belas flores que desabrocham e as paisagens magníficas não foram criadas por Deus em vão; foram criadas para o deleite do ser humano. O mesmo se aplica aos alimentos saborosos. Optar deliberadamente por alimentos desagradáveis e vestimentas simples é uma forma de rebelião contra a Vontade Divina.
+
+Estamos construindo o Paraíso, um mundo de Verdade, Bem e Belo. O que é o Belo? Habitar uma bela casa, trajar belas vestes e saborear alimentos deliciosos não é a expressão da beleza? A prova mais contundente é que os espíritos malignos detestam flores. Vejam as flores arranjadas no tokonoma daquela sala. É por isso que sempre afirmo ser imperativo ornamentar os ambientes com flores. Oferecer flores aos Budas tem essa mesma origem. As flores exercem uma influência extremamente positiva no Mundo Espiritual. Em minha residência, quase todos os cômodos possuem arranjos florais; raramente se encontra um ambiente sem flores. Em breve, publicarei uma tese sobre o tema.
+
+Refletindo sobre o que acabo de expor, as causas da estagnação de um local de difusão se tornarão claras.
+
+**P: Em nossa região, há o costume de enterrar os mortos em uma floresta de propriedade da família, sem lápide, e construir o túmulo no terreno de um templo. O espaço no templo se esgotou e gostaríamos de expandi-lo. Seria apropriado?**
+
+R: Tal prática é absolutamente inadmissível e equivocada. Os locais para sepultamento, cultivo de alimentos e plantio de árvores são claramente definidos. O enterro deve ser realizado em locais designados, como o terreno de um templo ou um cemitério. Contudo, se é um costume arraigado, os anciãos serão certamente intransigentes. Enquanto eles viverem, talvez não haja alternativa. Promovam a mudança após o falecimento deles.
+
+**P: A filha de um parente, após casar-se e ter três filhos, enlouqueceu e foi repudiada pelo marido. Seus pais tentam ministrar-lhe Johrei, mas ela recusa. Desse modo, ministram-no enquanto ela dorme, mas não observamos grandes mudanças. O que devemos fazer?**
+
+R: Ministrar Johrei durante o sono não é o ideal. O ponto crucial é o lado direito do bulbo raquidiano. A causa das doenças mentais geralmente está relacionada a preocupações ou a uma sensibilidade exacerbada, onde pessoas de temperamento frágil se afligem com questões que não afetariam uma pessoa comum. A preocupação se aloja na parte posterior da região frontal do cérebro, e é ali que um espírito se acopla. Na maioria dos casos, trata-se de um espírito de raposa. Uma vez instalado, a pessoa perde o sono. Esse é o padrão, mas também pode ocorrer de o espírito se aproveitar de uma insônia já existente para se acoplar. A sequência exata dos eventos nem sempre é clara.
+
+De todo modo, um espírito pode se acoplar quando as células cerebrais se tornam rarefeitas. O ponto fundamental é que, quando o espírito original da pessoa representa sessenta por cento e o espírito obsessor quarenta, a doença mental não se manifesta, embora surjam certas excentricidades. Bem, a maioria das pessoas hoje em dia é um tanto excêntrica. (Risos) Mesmo homens ilustres, até mesmo um primeiro-ministro, podem ter dois ou três espíritos acoplados. Os escândalos de corrupção são um exemplo disso. O obsessor sussurra: "Vá em frente, ninguém vai descobrir". Se a consciência da pessoa estivesse verdadeiramente iluminada, ela resistiria. Contudo, é preciso dizer que, sem cometer algumas dessas irregularidades, seria impossível chegar ao posto de primeiro-ministro. É como a situação atual do racionamento de arroz de 2,7 go; como é insuficiente, as pessoas compram no mercado negro. Se agissem estritamente dentro da lei, passariam fome e não conseguiriam trabalhar. Sem trabalho, não há sustento. Assim, existem inúmeros atos ilícitos cometidos por necessidade. Na política, para se eleger deputado, são necessários fundos de campanha, e aqueles que mais gastam tendem a vencer. No entanto, os aspirantes a deputados geralmente não têm dinheiro e recorrem a meios escusos para obtê-lo, garantindo assim sua eleição. Mesmo depois de eleitos, para se tornarem ministros, precisam novamente distribuir dinheiro.
+
+Voltando ao assunto, quando a proporção de sessenta por quarenta se torna cinquenta por cinquenta, a situação se torna extremamente perigosa. A pessoa começa a se desviar do comportamento normal. Se a proporção chega a quarenta por sessenta, o obsessor passa a ter controle total. Para uma raposa, essa capacidade de manipular um ser humano é a maior diversão. Ao conseguir isso, ela ganha status entre seus pares. Existem diversas categorias de raposas, com diferentes hierarquias. As raposas consagradas em santuários Inari possuem o mais alto grau, mas há também inúmeras raposas selvagens, como se fossem andarilhos. Entre elas, há um chefe, e quanto mais humanos uma raposa enlouquece ou mata, mais seguidores ela atrai. Fala-se em possessão por espíritos de mortos, mas muitas vezes são as raposas que estão por trás. Há locais onde ocorrem com frequência mortes por atropelamento ou enforcamento; quase sempre, é obra de raposas. Pode parecer uma história absurda, mas é verdade que raposas podem enlouquecer e matar pessoas. O ser humano é, portanto, muito frágil. Basta que uma raposa se aproxime e atue sutilmente para que surjam desejos de morte ou assassinato.
+
+O espírito se torna rarefeito porque o volume de sangue diminui, pois o espírito é a forma espiritualizada do sangue. Acúmulos de toxinas no bulbo raquidiano pressionam os vasos sanguíneos, impedindo que o sangue chegue ao cérebro. Ao dissolvermos esses nódulos, o cérebro é devidamente irrigado, e o sono retorna. Durante a insônia, muitos pensamentos surgem; isso é a raposa, que jamais descansa. Quando uma pessoa possuída por uma raposa começa a falar, ela o faz incessantemente. Vejam como mulheres em estado de histeria falam sem parar; isso é a raposa em sua plena manifestação. Bem, para não me estender demais sobre raposas, encerrarei por aqui. Em breve, publicarei um livro com histórias sobre elas, intitulado "Contos de Raposas". Para o Johrei, o ponto é o bulbo, como mencionei. Se o doente estiver dormindo, pode-se ministrar na testa.
+
+**P: Meu marido, de quem eu era a esposa e que era o filho mais novo de sua família, faleceu na guerra há cinco anos. No registro civil, havíamos formado um novo núcleo familiar, mas na prática isso ainda não se concretizara. Atualmente, retornei para a casa de meus pais. O espírito do meu marido deve ser cultuado na casa da família dele ou na minha casa de solteira?**
+
+R: Ele deve ser cultuado em ambos os lugares. Mesmo tendo retornado à casa de seus pais, uma vez que ele foi seu esposo, é bom que o cultue. E, naturalmente, a família principal dele também deve fazê-lo. Quanto mais pessoas cultuam um espírito, melhor. Isso acelera sua elevação no Mundo Espiritual e, por assim dizer, aumenta seu prestígio.
+
+Além disso, a forma como se cultua tem grande influência. Um ato meramente formal não gera grande ressonância no espírito. Ao oferecer um simples copo de água, se o fizer com o sentimento sincero de "por favor, aceite", o espírito poderá bebê-la e a achará saborosa. Se, ao contrário, o ato for feito por obrigação, o espírito não conseguirá beber. Certa vez, um espírito se queixava de uma sede terrível. Eu lhe disse: "Mas você recebe oferendas de água todos os dias". Ele respondeu: "Sim, mas a pessoa que oferece não o faz com o coração, por isso não consigo beber". Assim são as coisas.
+
+**P: Segundo o testamento de meu marido, devo permanecer solteira por toda a vida e manter o núcleo familiar dele. Minha família, no entanto, opõe-se a isso. Como devo proceder?**
+
+R: Isso depende do apego do espírito de seu marido. Se o apego for forte, a situação pode ser um pouco complicada. Se ele for um espírito desapegado, poderá aceitar ou resignar-se. Esta senhora tem vinte e oito anos. Após ingressar na fé e consagrar a Imagem da Luz Divina, aguarde pelo menos um ou dois anos, e então poderá se casar novamente. Nesse período, seu marido se corrigirá no Mundo Espiritual. Ele compreenderá que o desejo que nutria em seu coração era equivocado. Ao orar perante o altar, você pode mencionar isso a ele, não todos os dias, mas ocasionalmente. Diga: "Por diversas circunstâncias, não me é possível permanecer solteira pelo resto da vida, peço sua compreensão". Dessa forma, o espírito de seu marido começará a entender, e mesmo que ele não o faça por si só, seus antepassados o instruirão. Reze também à Imagem da Luz Divina. Ao fazer seu pedido, Ela cuidará de tudo adequadamente. Contudo, se o apego do espírito for muito forte, a solução não será imediata. Um ou dois anos devem ser suficientes. Você mesma saberá quando seu marido tiver se corrigido. Enquanto o apego dele persistir, você sentirá uma certa relutância em se casar novamente. Quando o apego se dissipar, esse sentimento desaparecerá por completo.
+
+**P: Tive dois filhos, um no ano passado e outro este ano, mas ambos faleceram logo após o nascimento, no terceiro dia. Haveria alguma causa espiritual para isso?**
+
+R: Sim. Não é natural que uma criança morra dessa forma. Trata-se de uma interferência espiritual, ou seja, de um espírito de ressentimento. Além dessa possibilidade, é preciso verificar se os pais cometeram algum pecado. Escrevi sobre isso no artigo "O Caminho do Casal", na coletânea "Crônicas da Fé". Pode ser algo nesse sentido, ou talvez uma condição espiritual que impeça a vinda de filhos. É bom considerar também o seguinte: ter filhos não é, invariavelmente, sinônimo de felicidade. Às vezes, os filhos podem se tornar uma fonte de infortúnio, como no caso de uma criança com deficiência ou de um filho que, ao crescer, se torna um pródigo e dissipa o patrimônio da família. Portanto, um filho só pode ser considerado um verdadeiro tesouro se crescer de forma saudável e contribuir para a felicidade dos pais. Naturalmente, tais infortúnios são uma forma de a criança purificar os pecados dos pais. Ao ingressar na fé e ajudar muitas pessoas, essa virtude atenuará seus pecados e ressentimentos, e então filhos maravilhosos nascerão. Os filhos de quem ingressa na fé são esplêndidos. Contudo, os filhos de pessoas que tomaram muitos remédios tendem a ter muitas toxinas.
+
+**P: Diz-se que o ser humano é um microcosmo do universo. As partes do corpo humano correspondem a partes específicas do universo?**
+
+R: Sim, correspondem. O exemplo mais claro são os olhos, que representam o Sol e a Lua: o esquerdo é o Sol e o direito, a Lua. O esquerdo é espírito e o direito, matéria. No ano passado, um homem teve um problema nos olhos; o direito estava bom, mas ele perdeu a visão do esquerdo. Eu lhe disse: "Isso significa que, no aspecto material, você está bem, mas ainda não compreende as coisas de Deus, ou seja, não me compreende bem". Depois disso, ele se corrigiu e melhorou. Assim são as coisas. A testa é Takamagahara celestial, e o umbigo é Takamagahara terrestre. Se refletirmos sobre o corpo humano, encontraremos muitas correspondências. As demais, vocês mesmos poderão descobrir pensando a respeito.
+
+**P: Dizem que a religião Fuifui-kyo apresenta dezesseis qualificações para o Messias. Poderia nos instruir a respeito?**
+
+R: Não apenas a Fuifui-kyo, mas também a fé Baha'i, nos Estados Unidos — cuja líder é uma mulher —, enumera as qualificações do Messias. A lista deles é bastante bem elaborada. Contudo, ainda que boa, ela é incompleta. Escreverei sobre as qualificações do Messias em um livro futuramente, mas ainda é um pouco cedo para isso.
+
+**P: Uma senhora de sessenta e oito anos sofre com o prolapso do útero. Ela poderá ser curada?**
+
+R: O que ocorre é um afrouxamento dos ligamentos que sustentam o útero. Toxinas acumuladas no baixo-ventre pressionam esses ligamentos, impedindo que cumpram sua função. O Johrei deve ser ministrado desde a virilha até as laterais do umbigo. Em uma pessoa jovem, a cura seria rápida, mas como ela tem sessenta e oito anos, o processo pode ser um pouco mais lento. Essa condição também é conhecida popularmente como "berinjela". Certa vez, atendi uma jovem esposa do interior com esse mesmo sintoma. O marido a ameaçou de divórcio se ela não se curasse, pois não conseguia cumprir seus deveres conjugais. Ela veio a mim em prantos e, após o tratamento, ficou curada. No caso dela, a causa era um espírito vivo. Em mulheres jovens, a incidência de espíritos vivos é alta. Trata-se de um ato de ciúme, com o intuito de incapacitá-la. É por isso que os espíritos vivos costumam se acoplar a mulheres bonitas.
+
+**P: Sobre as Sete Maravilhas de Enshu:**
+
+**P: (1) Em certo local de Enshu, há um carvalho com um tronco de quatro a cinco shaku de diâmetro, que se bifurca em dois. Um ano, um dos ramos brota, e no ano seguinte, o outro. Por que isso acontece?**
+
+R: Um deus-dragão habita essa árvore, um casal de dragões-árvore. Antigamente, eram duas árvores separadas que se uniram para formar uma só. Como agora é uma única árvore, ela não tem energia suficiente para fazer ambos os ramos brotarem ao mesmo tempo. Assim, ela regula seu vigor fazendo-os brotar alternadamente a cada ano.
+
+**P: (2) A dezoito cho da costa de Kawasara, em Enshu, há uma rocha chamada "Ashidaka Iwa", da qual jorra água doce. Qual a razão disso?**
+
+R: Água subterrânea emerge através de uma fenda na rocha. Provavelmente, o local é relativamente raso.
+
+**P: (3) Em um determinado mar, ouve-se constantemente um rugido. Quando se está na costa, o som parece vir do alto-mar; quando se vai para o alto-mar, parece vir da costa. Haveria uma causa espiritual?**
+
+R: Isso não tem nada de espiritual. Nas profundezas do oceano, a uma profundidade incalculável, existe uma abertura para a qual a água converge e flui. Isso cria um redemoinho que produz o som. Como a fonte do som é muito profunda, da costa, parece que ele vem do alto-mar, e do alto-mar, parece vir da costa. É como um pequeno redemoinho de Naruto, em Awa.
+
+**P: (4) No fundo de um vale, sobre uma rocha, floresce uma bela peônia. Contudo, ao tentar colhê-la, ela desaparece. Qual a explicação?**
+
+R: Isso é estranho. Não há razão para uma peônia florescer em tal lugar, nem para desaparecer ao se tentar colhê-la. Provavelmente, a luz do sol incide sobre a rocha de tal maneira que seu reflexo cria a ilusão de uma peônia florescendo ali.
+
+**P: Uma menina de nove anos ainda não fala como as outras crianças de sua idade. Aos três anos, sofreu de otite média por cerca de seis meses e ainda hoje tem secreção purulenta. No dia onze de março passado, durante uma sessão de Johrei diante do Altar, ela começou a dizer que havia muitos gatos em frente e ao redor da Imagem da Luz Divina. Ao final do Johrei, ela disse que um gato saiu de sua barriga e que se sentia aliviada.**
+
+R: Ah, trata-se do espírito de um gato.
+
+**P: A família relatou que, no passado, tinham um gato de estimação que apresentava sintomas semelhantes aos da epilepsia humana e o abandonaram em um rio.**
+
+R: Essa é a causa. Devem cultuar o espírito desse gato. Qual era o nome dele? Kuro. Então, escrevam "Espírito de Kuro" em uma pequena placa de madeira e a coloquem em um suporte à esquerda da Imagem da Luz Divina. Após as orações, façam uma breve reverência. E peçam à Imagem da Luz Divina: "Que Kuro possa reencarnar como ser humano o mais breve possível". Isso trará alegria ao gato.
+
+**P: Desde a antiguidade, diz-se que o surgimento de uma coluna de fogo pressagia um incêndio, e que o fogo se alastrará na direção em que a coluna tombar. Muitas pessoas já testemunharam esse fenômeno. O que é isso?**
+
+R: É que o incêndio ocorre primeiro no Mundo Espiritual. A transição do espiritual para o material resulta no fogo físico. No entanto, quem ingressa nesta fé está protegido. Se algo assim ocorrer na casa de alguém que não professa a fé, basta entoar a Oração Amatsu Norito e rogar à Imagem da Luz Divina, e tudo ficará bem.
+
+**P: Foi dito que, quando um casal se separa, seus laços espirituais são cortados. E no caso de terem filhos?**
+
+R: Os laços não são cortados com a separação. Eles apenas se tornam mais tênues, mas não se rompem por completo. Se houver filhos, o laço permanece um pouco mais espesso. Além disso, se houver apego nos pensamentos de ambos, o laço continuará forte mesmo após a separação. Não se pode generalizar.
+
+**P: Os praticantes do culto a Inari decaem para o mundo dos espíritos de raposa após a morte?**
+
+R: Decaem, sim. Ainda em vida, já estão decaídos no mundo das bestas. Por isso são infelizes. Tais praticantes frequentemente sofrem de nevralgia e outras doenças estranhas, pois resfriam e enrijecem o corpo com banhos frios e outras práticas, tornando-o duro como pedra. Quando um ex-praticante ingressa em nossa fé, elimina uma quantidade impressionante de secreções. Já tive essa experiência. Viver no mundo das bestas é viver no inferno. Por isso, têm má sorte e morrem cedo. É um caminho heterodoxo. Práticas como o jejum e os banhos frios são heterodoxas. Suponhamos que o jejum fosse bom; o que aconteceria se toda a nação japonesa jejuasse? (Risos) A produção cessaria completamente.
+
+**P: Um cristão recebeu Johrei e faleceu em estado de gratidão. Após a morte, essa pessoa irá para o mundo espiritual cristão?**
+
+R: Sim. Apenas sentir gratidão não é suficiente para ir ao mundo espiritual de Kannon. Ele se juntará a um grupo no plano espiritual cristão. Contudo, uma vez lá, se ele pedir para se transferir para o grupo de Kannon, não será impossível. Mas, inicialmente, ele irá para o lado cristão.
+
+**P: Gostaria de saber o significado dos "três venenos" e das "cinco impurezas" mencionados na Salmodia de Boas Palavras, e qual o método para extingui-los.**
+
+R: "Três venenos" e "cinco impurezas" são termos budistas. Os três venenos são a avareza, a ira e a ignorância. As cinco impurezas são representadas por ideogramas complexos e difíceis de memorizar, dos quais não me recordo agora. De todo modo, são termos que classificam os tipos de pecados e máculas. Portanto, "três venenos e cinco impurezas" é uma categorização das máculas humanas. O método para extingui-las é a prática do bem. Tentar eliminá-las sem praticar o bem implica em sofrimento. No entanto, o caminho do sofrimento exige grande esforço e produz poucos resultados. Por outro lado, o caminho da prática do bem traz alegria e respeito das pessoas, e a extinção dos pecados ocorre de forma muito mais rápida. Isso é a fé. Assim, receber o Curso de Iniciação e ingressar na fé significa aprender o método para eliminar as máculas e saber como aplicá-lo. Portanto, embora apenas receber o curso seja muito melhor do que não o receber, não é suficiente para eliminar verdadeiramente os pecados e máculas.
+
+**P: A gravidade dos pecados e máculas varia de acordo com a linhagem espiritual? E qual a influência do fim da Era de Buda sobre essa linhagem?**
+
+R: Sim, a gravidade do pecado varia conforme a linhagem espiritual. Essa linhagem pode ser entendida como a linhagem sanguínea que se estende desde os antepassados, mas há uma diferença. A linhagem sanguínea é material e pode se misturar através da miscigenação. A linhagem espiritual, por sua vez, é distinta e jamais se mistura. Existe miscigenação, mas não "miscespiritualização". A linhagem espiritual japonesa se divide em três: Fogo, Água e Terra. O Fogo corresponde ao povo Yamato, a Água ao povo coreano e a Terra ao povo chinês. No Japão, a população de ascendência chinesa e coreana é muito maior. O verdadeiro povo Yamato é uma minoria. Até agora, o povo Yamato esteve em uma posição inferior, enquanto os outros estiveram em posições superiores. Contudo, com a chegada da Era do Dia, tudo ocupará seu devido lugar. Isso é o que se chama de obter o tempo, o lugar e a posição corretos.
+
+O outro ponto é o fim da Era de Buda. Os budas são manifestações de Deus. Deus atua durante o Dia. Como o Mundo Espiritual esteve na Era da Noite até agora, e a atuação diurna não era possível, Deus se manifestou como Buda. Portanto, com a chegada do Dia, Ele retorna à Sua verdadeira forma de atuação. Isso pode ser dito do ponto de vista religioso, mas também em termos materiais e fenomênicos, essa grande transição, uma grande transição cultural, está ocorrendo. Quando o mundo se tornar do Dia, guerras e conflitos desaparecerão. Estamos exatamente no ponto focal desse período de transição.
+
+**P: Por favor, informe-nos sobre a causa espiritual do incêndio do Templo Horyu-ji. (Vide "Registro das Orientações de Luz, vol. 3").**
+
+R: Isso se enquadra no que acabei de mencionar sobre o fim da Era de Buda; é um protótipo da extinção do budismo. Alguns podem dizer que é um ultraje justificar a queima de um tesouro tão precioso. Contudo, o fato é que ele queimou. Tudo o que parece acidental nunca o é. O templo queimou porque havia uma razão para queimar. Portanto, o incêndio do Horyu-ji pode ser interpretado como uma manifestação do fim da Era de Buda. Nossa interpretação é espiritual, não material.
+
+A primeira manifestação do fim da Era de Buda ocorreu em 15 de junho de 1931, quando visitei o Templo Nippon-ji, em Awa. Esse templo também é conhecido como Kenkonzan; é raro um templo se chamar Nippon-ji ("Templo do Japão"). Vários mistérios ocorreram quando estive lá. Pernotei na noite do dia 14 e subi ao cume na madrugada do dia 15, uma caminhada de cerca de uma hora. No caminho, havia estátuas de budas por toda a montanha: Kannon, Shaka, Amida, Mokuren, Ryuju — quase todo o panteão budista estava representado. Ao entrar no templo, havia uma oliveira, a árvore Bodhi sob a qual se diz que Shaka atingiu a iluminação. Pode-se dizer que não há outra árvore Bodhi tão grande no Japão. Então, pensei: "Ah, este é o protótipo do mundo búdico".
+
+Quando Deus executa Seu Plano Divino para o mundo, Ele sempre cria "protótipos". Quando Deus realiza uma atividade desta magnitude (desenha um círculo de cerca de um shaku de diâmetro), Ele cria um protótipo deste tamanho (cerca de 1,5 sun) e também um deste (cerca de 3 bu). É como o ser humano, que no início da gestação tem o tamanho de um inseto e se desenvolve até se tornar uma pessoa completa. Os acontecimentos mundiais e a situação internacional também são indicados por meio de protótipos. Para mim, isso é extremamente conveniente, pois os protótipos se manifestam frequentemente ao meu redor.
+
+O Templo Nippon-ji é, portanto, o protótipo do mundo búdico. Foi ali que o primeiro passo em direção ao mundo do Dia foi dado. Por falta de tempo, falarei sobre isso em detalhes outra hora. Mas talvez eu possa contar mais uma história. No dia 16, ao retornar a Tóquio, onde eu morava em Omori na época, um artesão de tamancos chamado Koike veio correndo até mim, dizendo: "É terrível! Tive um sonho horrível esta noite! É terrível!". Quando perguntei o que era tão terrível, ele contou que, no sonho, viu o Buda Shaka cavando um buraco com uma enxada. E esse Shaka era, na verdade, um homem chamado Shiro Yamaguchi, que frequentava nosso grupo na época. Esse "Shaka-Yamaguchi" disse a Koike: "Sr. Koike, o mundo é uma coisa fútil, não é? No final, cavamos nosso próprio buraco e entramos nele".
+
+Então, o sonho mudou. No jardim da minha casa, havia um pequeno lago. Esse pequeno lago se tornou o próprio Koike — uma interessante coincidência de nomes. Alguém atirou uma pedra no lago, criando um redemoinho que se expandiu gradualmente até que todas as pessoas do mundo morreram. Após um período de desolação na Terra, estátuas de Kannon começaram a surgir em vários lugares. Ele contava isso em grande alvoroço. Eu lhe disse: "Que bobagem. É até engraçado de ouvir", e o mandei para casa.
+
+No final da tarde, recebi um telefonema dizendo que Koike estava agindo de forma estranha e que eu deveria ir vê-lo. Como não era longe, fui. Ele ainda dizia: "Mestre, estou tão preocupado, não aguento mais". E então afirmou que havia nascido para "ajustar o foco" do mundo. Achei graça e perguntei: "Que foco é esse?". Ele respondeu: "Não sei, mas existe um foco, e o senhor é quem deve ajustá-lo". Naquela época, eu ainda estava na Oomoto, e praticávamos o Chinkon. Fiz o Chinkon para ele e disse: "Fique tranquilo, não se preocupe", e voltei para casa. No dia seguinte, outro telefonema: "Koike se suicidou esta manhã, afogando-se no mar de Suzugamori" (Nota: um trecho de mar próximo a Omori). Então, percebi que era algo sério. Afinal, tirar a própria vida não é uma decisão fácil.
+
+Depois disso, em 18 de junho de 1931, ocorreu um grande mistério, mas deixarei isso para outra ocasião. O Incidente da Manchúria começou exatamente três meses depois. Quando começou, pensei: "Ah, aquele redemoinho começou". Afinal, foi a partir daquele evento que a grande turbulência e transformação do Japão tiveram início.
+
+O Templo Nippon-ji, a propósito, incendiou-se há cerca de dez anos. O abade, um monge famoso chamado Josetsu Tanaka, disse que a reconstrução era impossível. O incêndio do Horyu-ji tem um significado semelhante ao do incêndio do Nippon-ji.
+
+**P: O estrabismo tem causa espiritual? É possível a cura completa durante a infância?**
+
+R: Sim, é curável. Existem causas tanto espirituais quanto físicas. No caso espiritual, a pessoa não consegue olhar de frente devido a um ofuscamento. Essa sensação de ofuscamento é um resquício do sofrimento vivido no inferno. Em uma vida passada, a pessoa pode ter enganado ou iludido os outros, ou mesmo ter sido cega. Ela reencarnou antes que essa mácula fosse completamente purificada.
+
+Fisicamente, há uma contração nos músculos oculares. Um nódulo de toxina pressiona esses músculos. Portanto, ambos os casos podem ser curados com o Johrei.
+
+**P: Uma mulher de vinte e sete anos, com problema nos rins, tomou injeções sem melhora. Posteriormente, surgiu um nódulo do tamanho de um centímetro de raio na parte inferior da coluna, que causa muita dor e estala ao levantar-se ou sentar-se. Com o Johrei, a dor aliviou muito. A causa é espiritual? Ela teve um filho que faleceu com cerca de sete meses e deixou a placa memorial dele em um templo, não a cultuando em casa. Isso teria relação?**
+
+R: Não é espiritual, são toxinas de medicamentos. O nódulo surgiu devido ao excesso de injeções. O estalo ocorre porque o nódulo alterou ligeiramente a posição dos músculos e ossos ao pressioná-los. No entanto, é errado deixar a placa memorial da criança no templo e não ter uma em casa. Mas como seria estranho pedir a placa de volta ao templo, o melhor é fazer uma nova. Quando o espírito de uma criança se acopla, não é nesse tipo de lugar. Ele se agarra aos ombros ou ao peito. Se houver a sensação de carregar algo nos ombros ou de ter o seio agarrado, basta começar a cultuá-lo que a cura é imediata. Às vezes, o simples fato de ir ao local com a intenção de cultuar já resolve o problema.
+
+**P: Uma menina de dois anos tem uma mancha de nascença cor de terra na região dos olhos. Manchas dessa cor são raras. Haverá cura completa?**
+
+R: Manchas de nascença não se curam. Apenas as vermelhas podem clarear um pouco, mas não desaparecem por completo. As roxas e as pretas são incuráveis. Essa cor de terra é um tom claro de preto. Manchas vermelhas são marcas remanescentes de ferimentos por corte ou perfuração de uma vida passada. Por isso, algumas manchas vermelhas têm a aparência de uma ferida que sangrou e o sangue se espalhou. Manchas pretas são fruto do ressentimento de outras pessoas. A pessoa fez algo em uma vida anterior para ser odiada, e esse pensamento se manifestou como uma mancha. Pode também não ser da vida passada da própria pessoa, mas de um antepassado que atraiu ressentimento, e a marca aparece em um descendente.
+
+**P: Um rapaz de vinte e três anos passou por uma purificação na cabeça e, em seguida, recebeu Johrei no corpo todo, o que resultou em um sangramento considerável pelo ânus. Desde então, toda vez que a cabeça purifica e ele recebe Johrei, ocorre o sangramento anal, embora a quantidade tenha diminuído gradualmente, sendo hoje cerca de uma taça de saquê. Esse sangue vem da cabeça?**
+
+R: Isso é uma purificação, e é excelente. É um processo muito bom, e sim, o sangue desce da cabeça. Principalmente da região occipital. É ótimo, e o sangramento geralmente não causa muita dor.
+
+**P: Acabei de formar um novo núcleo familiar e ainda não tenho um altar para os antepassados. Onde devo consagrar a Imagem da Luz Divina?**
+
+R: Nesse caso, é preciso providenciar um altar imediatamente. No interior, é comum pensarem que, se a família principal cultua, as ramificações não precisam fazê-lo, mas isso é um grande erro. Muitos antepassados preferem a casa do segundo ou do terceiro filho e não gostam da casa do primogênito. Além disso, do ponto de vista humano, um pai gostaria de visitar a casa de todos os seus filhos. No entanto, mesmo querendo visitar, não há um lugar para eles nas casas do segundo e terceiro filhos. Isso os torna filhos extremamente desrespeitosos. Por isso, embora o ditado popular diga "quando se quer ser um bom filho, os pais já se foram", é após a morte deles que a verdadeira devoção filial pode ser demonstrada. Quem não tem um altar deve, sem hesitação, adquirir um e começar a cultuar seus antepassados o mais rápido possível.
+
+**P: Um menino de treze anos, há seis anos, comeu curry e teve uma reação semelhante a urticária. Não foi levado ao médico e, desde então, a erupção se espalhou pelo corpo todo e ele chorava o dia inteiro. Atualmente, sua pele e unhas se assemelham às de uma ave. Ele poderá ser salvo pelo Johrei?**
+
+R: É difícil acreditar que apenas comer curry cause algo assim. A propósito, gostaria de esclarecer que a urticária acomete pessoas que tomaram injeções de cálcio. Quem tomou, certamente terá. E a medicina, para tratar a urticária, aplica mais injeções de cálcio. Injetar a mesma substância pode causar um alívio temporário. No entanto, isso se torna a causa de uma nova crise de urticária. No final, volta-se ao estado original, ou pior. Mas, no caso de a pele se assemelhar à de uma ave, e supondo que o curry fosse com frango, talvez a ave utilizada fosse muito peculiar. Mesmo assim, é raro uma ave causar tal reação. Com enguias, é mais comum. Bem, não consigo pensar em outra explicação. De todo modo, ele pode ser curado. É preciso acumular muita virtude e receber a graça de Kannon.
+
+**P: No ano passado, fui hospitalizado com tuberculose renal e um dos meus rins foi removido cirurgicamente. Depois disso, não me senti bem e, desde o final do ano passado, tenho recebido Johrei, o que me trouxe grande alívio. No entanto, atualmente preciso urinar a cada trinta minutos. Poderei ser completamente curado?**
+
+R: Como você tem apenas um rim, a cura completa talvez não seja possível. Mas essa frequência de trinta minutos é excessiva. O que ocorre é que o rim restante está atrofiado. Com o Johrei, as toxinas serão removidas, o rim se expandirá e você sentirá um alívio considerável. Além disso, no local onde o rim foi removido, há acúmulo de pus. Por mais que a cirurgia tenha sido feita, a remoção foi apenas física, e o pus se acumula novamente. Portanto, essa área também deve receber Johrei. Você notará uma grande diferença.
+
+**P: As trepadeiras semeadas na primavera sempre crescem em espiral para a esquerda, enquanto as semeadas após o início do outono crescem em espiral para a direita. Qual a razão para isso?**
+
+R: Ora, é mesmo? Isso é botânica. Em breve, também construirei um jardim botânico. Mas isso está correto. A primavera corresponde ao Sol e à esquerda; o outono, à Lua e à direita. A lógica é perfeita. O próprio ideograma de "primavera" (春) é composto por "três pessoas" e "sol".
+
+**P: Por que o ano e o mês de nascimento influenciam o destino e a personalidade de uma pessoa?**
+
+R: Embora não percebamos, tudo no universo possui uma variação cíclica, como ondas. Nascer em um determinado ano significa receber a "energia" daquele ano. O clima anual tem primavera, verão, outono e inverno; os meses variam entre mais e menos chuvosos; e até os dias são diferentes. Da mesma forma, existem ondas espirituais, e somos influenciados pela energia espiritual do momento do nosso nascimento. Há também a influência dos números. Eu nasci em 23 de dezembro. O solstício de inverno é no dia 22, então a transição para a primavera começa, na verdade, no dia 23. Diz-se que, ao criarem o calendário, pretendiam fazer do dia 23 o primeiro dia do ano, mas, por algum motivo, adiaram em uma semana. É uma teoria interessante. O dia 22 é o mais curto do ano; nascer no dia 23 significa nascer no momento em que a primavera começa a atuar. O Príncipe Herdeiro também nasceu no mesmo dia. Contudo, isso não é algo rigidamente determinado. Deve ser entendido como um certo grau de influência. Diz-se que Toyotomi Hideyoshi teve sucesso porque nasceu em 1º de janeiro, mas muitas outras pessoas também nasceram nesse dia. Eu nasci no ano do Cavalo, no mês do Cavalo, no primeiro dia. Disseram que eu certamente me tornaria um líder. E, de fato, acredito que acertaram.
+
+Tenho uma história interessante. No dia 5 de maio de 1930, que foi o ano do Cavalo, o mês do Cavalo e o dia do Cavalo. O número cinco corresponde ao fogo, que é o Cavalo. Dizem que nunca houve um dia que fosse cinco, cinco, cinco e, ao mesmo tempo, Cavalo, Cavalo, Cavalo. Há um grande significado espiritual nisso para mim... Tenho uma foto interessante tirada ao meio-dia de 5 de maio de 1930. Vou lhes mostrar. (Todos observam a fotografia, na qual Meishu-Sama usa um chapéu cilíndrico).
+
+**P: O senhor mencionou que os pensamentos humanos podem causar alterações climáticas. Por que o 210º e o 220º dias do ano são considerados dias de azar, com tempestades ocorrendo anualmente nessa época?**
+
+R: Essas alterações climáticas são, em última análise, necessárias. As tempestades que ocorrem por volta do 210º e 220º dias podem causar alguns danos ao deitar as plantações de arroz, mas, por outro lado, têm um poder tremendo de fortalecer as raízes. O mesmo acontece com as árvores: quando são sacudidas, fincam suas raízes mais fundo para não cair, e a árvore se fortalece. Sem isso, as árvores se tornariam mais propensas a tombar. Portanto, ventos fortes são benéficos para o enraizamento. As plantas que tombam com o vento são as que recebem fertilizantes. Com o cultivo sem fertilizantes, elas não tombariam.
+
+**P: Do ponto de vista de que as quatro estações são a respiração da Terra, como se explica o fato de as estações serem opostas nos hemisférios Norte e Sul?**
+
+R: Isso é natural. O Norte e o Sul são opostos em tudo. O Norte é espírito e o Sul é matéria. Em termos de respiração, temos o expirar e o inspirar, yang e yin, espírito e matéria. Quando um lado expira, o outro inspira.
+
+**P: Na "Era de Miroku", os dentes perdidos voltarão a nascer? (Risos)**
+
+R: Não nascerão. (Risos) Se os dentes voltassem a nascer, as rugas também teriam que desaparecer. E então, os idosos rejuvenesceriam. Se houvesse tantos jovens assim, seria um problema, não é? (Risos) Nesse caso, os jovens teriam que se tornar bebês. (Risos) E os bebês teriam que voltar para antes do nascimento... (Gargalhadas)
+
+**P: Por que, durante uma prova oral ou ao falar em público, o sangue sobe à cabeça, o rosto fica vermelho e o coração dispara?**
+
+R: No início, é assim mesmo. Acontecia comigo também. Os pensamentos não saem pela boca. É por isso que se costuma dizer: "Não pense que são pessoas enfileiradas; pense que são abóboras". (Risos) É uma questão de hábito. Depois de fazer isso várias vezes, você não sentirá mais nada. Essa pessoa provavelmente tem um coração especialmente fraco.
+
+**P: A língua de um homem se partiu em duas. Como uma das metades não sentia nada e o atrapalhava para comer, ele a cortou com uma tesoura. Aparentemente, nada aconteceu depois. Qual a explicação para isso?**
+
+R: Há uma explicação. Em uma vida passada, essa pessoa usou muito a "língua dupla" e acumulou pecados. Ela nasceu neste mundo antes que esses pecados fossem eliminados, e por isso sua língua se partiu. Isso realmente acontece. Mesmo sem se partir, algumas pessoas já nascem com a língua dupla. A expressão "língua dupla" é muito apropriada.
+
+**P: Aparentemente, quando um sulco apareceu no meio da língua, houve grande alvoroço sobre o que estaria acontecendo.**
+
+R: Ora, que caso peculiar. De todo modo, muitas pessoas usam a língua dupla. E as vítimas disso guardam ressentimento, o que é prejudicial.
+
+**P: A crosta láctea tem causa espiritual? Pode ser curada com o Johrei?**
+
+R: Não é espiritual. O excesso de secreções se solidifica e forma a crosta láctea. A caspa também é a mesma coisa. Essas secreções são toxinas, toxinas de medicamentos. A crosta láctea é comum em crianças e provém das toxinas medicinais dos pais. Antigamente, chamavam de "toxina fetal"; hoje, de "sífilis hereditária"; mas, na verdade, é toxina de medicamento. (Risos)
+
+**P: Na troca de dentes, se o dente de leite não for removido, pode nascer um dente encavalado. Isso pode ser corrigido com o Johrei?**
+
+R: Se o Johrei for ministrado antes que o dente cresça muito, sim. Mas depois que ele já saiu bastante, não é possível. Isso também é um pecado de uma vida passada. Que tipo de pecado? Bem, talvez o de ter explorado demais os pais... (Risos)
+
+**P: No caso de uma luxação que não foi percebida ao nascer e só foi descoberta mais tarde, geralmente se usa gesso. É possível curar com o Johrei sem o uso de gesso?**
+
+R: Sim, é possível. O gesso é totalmente desnecessário. Onde é a luxação?
+
+**P: No quadril.**
+
+R: No quadril, entendo. Acho que isso não é uma luxação. Como souberam que era uma luxação?
+
+**P: Através de um raio-x...**
+
+R: Ah, não é uma luxação. O raio-x não é nada confiável. Recentemente, curei um caso que o raio-x mostrava como incurável. Tenho inúmeras experiências assim. Sendo no quadril, a cura é até mais fácil. Pode ser que algum ponto vital esteja desalinhado. Às vezes, um desalinhamento mínimo (mostra a ponta do dedo mínimo) pode ser a causa.
+
+**P: A perna esquerda parece ter um desenvolvimento um pouco inferior...**
+
+R: As toxinas de medicamentos estão inibindo o desenvolvimento. E é preciso ter atenção a isso. Existem crianças que não conseguem apoiar o pé inteiro no chão, certo? Elas não se desenvolvem porque não conseguem apoiar o pé. No local que não toca o chão, há um nódulo de toxina. Se o dissolvermos com o Johrei, a perna se desenvolverá. Os médicos costumam chamar isso de paralisia infantil, mas é algo completamente diferente.
+
+**P: Em seus escritos, lemos que o Mundo Espiritual se divide em três níveis — Paraíso, Plano Intermediário e Inferno —, cada um subdividido em sessenta degraus, totalizando cento e oitenta, o que é chamado de Mundo dos Estratos Espirituais. Como isso se aplica ao mundo físico, em termos materiais e fenomênicos?**
+
+R: O mundo físico também tem essa estrutura, mas não é tão rigorosa quanto a do Mundo Espiritual. Antes do fim da guerra, a divisão era relativamente clara, mas com a democratização do pós-guerra, as coisas mudaram bastante. Atualmente, podemos dizer que aqueles que sofrem com a escassez de alimentos, o desemprego, as doenças, etc., correspondem ao inferno. Aqueles que conseguem sobreviver, mas não são particularmente felizes, correspondem ao Plano Intermediário. E aqueles que, mesmo em tempos como estes, desfrutam de abundância material e saúde, correspondem ao Paraíso. Dentro dessas categorias, há vários outros níveis, mas essa é uma interpretação que se aproxima da realidade. Nós estamos em um nível bem elevado do Paraíso, pois tudo o que desejamos se realiza.
+
+**P: O mundo físico é uma mistura de elementos paradisíacos e infernais. No Mundo Espiritual, essa divisão é organizada?**
+
+R: Sim, no Mundo Espiritual, tudo é muito bem organizado. Embora também tenha havido desordem nos últimos milênios e a reorganização tenha começado agora, é completamente diferente do mundo físico. Em geral, é um lugar ordenado.
+
+**P: Gostaria de perguntar sobre a relação entre "Nenpi Kannon Riki", "Nenpi Kannon Gyo" e "Nenpi Kannon Shin".**
+
+R: A mente é a origem. Quando se desenvolve a Mente de Kannon, a Prática de Kannon se torna possível. Quando a Prática de Kannon é realizada, consequentemente, o Poder de Kannon se manifesta. Na Oração, a ordem está invertida, mas isso está correto, pois no budismo a ordem é inversa, começando pelo corpo. Já no xintoísmo, o espírito vem primeiro, e a mente é o fundamento. A partir daí, a ação se define naturalmente. Mente e ação devem estar em harmonia. A verdadeira essência é a unidade de mente, palavra e ação.
+
+**P: Um rapaz de vinte e um anos, com fístula anal, está recebendo Johrei. Seu corpo está debilitado e ele tem sido alvo de sucessivas possessões espirituais. Nas últimas duas semanas, parece estar pairando entre o mundo físico e o espiritual. Rogo por sua proteção.**
+
+R: A fístula pode estar influenciando indiretamente. Há sangramento?
+
+**P: Sim, está sangrando. O diagnóstico médico foi de tuberculose pulmonar.**
+
+R: Sim, para a medicina, fístula anal e tuberculose são irmãs. E o apetite?
+
+**P: Ele tem bastante apetite.**
+
+R: Tem. E sente dor.
+
+**P: A fístula não dói, mas a região lombar...**
+
+R: Ora, a dor da fístula é terrível.
+
+**P: Antes, ele expectorava bastante sangue...**
+
+R: Catarro com sangue, entendo. E ele tomou muitos remédios?
+
+**P: Sim, por causa de uma pleurisia anterior, ele tomou muitos.**
+
+R: Ah, então é isso. Os pontos principais são a região occipital e as costas. O sangue que sai pelo ânus geralmente vem da região occipital. A possessão espiritual ocorre devido à debilidade, então o sangue precisa aumentar. Ao mesmo tempo, todo o pus acumulado precisa ser expelido. Desde quando ele está assim?
+
+**P: Desde junho do ano passado. A fístula piorou em novembro.**
+
+R: É uma boa fístula. E a febre?
+
+**P: Está sempre em torno de 38 graus.**
+
+R: 38 graus. E você, quando recebeu a Iniciação?
+
+**P: Em 1946.**
+
+R: É preciso ter uma força espiritual considerável para que as toxinas se dissolvam rapidamente. E no Johrei, mire no interior. Ao ministrar na frente, mire nas costas; ao ministrar nas costas, mire na frente. Assim, a dissolução será mais rápida. E o tratamento deve ser feito de forma a não agravar a debilidade.
+
+**Um aviso importante**
+
+Conforme informado na edição anterior, solicitamos que este "Registro das Orientações de Luz" não seja mostrado a qualquer pessoa indiscriminadamente. Como princípio, ele deve ser apresentado apenas àqueles que tiveram a permissão de uma audiência com o Grande Mestre ao menos uma vez e que sejam dedicados ao Caminho. Isso é para evitar possíveis mal-entendidos.
+
+---
+
+# Coleção de Teses do Mestre Okada Jikan
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coleção de Teses do Mestre Okada Jikan
+
+## Guia da Igreja Messiânica Mundial (Para os que desejam ingressar no exterior)
+
+Reedição do "Guia da Igreja Messiânica Mundial", publicada em 11 de agosto de 1953 (Showa 28)
+
+Este modesto opúsculo foi organizado por mim com o intuito de servir de auxílio àqueles que residem no Havaí e em outras terras estrangeiras. Apesar de suas muitas e notáveis imperfeições, rogo a vossa compreensão a esse respeito. Sentir-me-ei imensamente afortunada se esta obra, de alguma forma, auxiliar aqueles que buscam a salvação por meio dos ensinamentos da Igreja Messiânica Mundial.
+
+Higuchi Kiyoko
+
+### Prefácio
+
+Após a derrota na Segunda Guerra Mundial, o Japão testemunhou o surgimento anômalo de centenas de novas religiões. É provável que até mesmo as autoridades governamentais se sintam perplexas sobre como administrar tal situação. Contudo, o que esse fenômeno de fato nos revela? Revela que, em meio a uma era de profunda angústia, o coração humano anseia por encontrar a verdadeira paz de espírito e o sentido da vida. Ao mesmo tempo, evidencia que as religiões estabelecidas, em sua maioria, enveredaram por um caminho meramente conceitual, tornando-se incapazes de salvar o ser humano de seus sofrimentos concretos. Entre as novas religiões, certamente existem muitas de natureza inferior, baseadas em um fideísmo superficial que visa apenas a obtenção de benefícios materiais, além de outras de índole duvidosa. Contudo, é razoável supor que, neste mundo perene, em algum momento, deveria ser revelado o grandioso caminho da verdade, dotado do poder genuíno de salvar a humanidade.
+
+Existem, por certo, aqueles que, insatisfeitos com as religiões e filosofias até hoje existentes, buscam apreender um caminho de salvação que seja firme e eterno. É para essas pessoas que desejo apresentar um panorama da Igreja Messiânica Mundial, que, em meio a incompreensões e obstáculos, alcançou a marca de trezentos a quatrocentos mil fiéis em apenas cinco anos desde sua fundação, a fim de que sirva como referência. Todavia, sua doutrina é a própria verdade, de uma profundeza incomensurável, e abarca desde a inter-relação entre o Mundo Espiritual e o Mundo Material até as diversas áreas da cultura, como a arte e a ciência. Sendo assim, explicar a totalidade de seus ensinamentos é uma tarefa que transcende por completo minhas capacidades e o limitado espaço destas páginas. Escrevi este texto com o sincero desejo de que ele se torne um “guia” para os que se aproximam deste Caminho, e peço que seja lido com essa intenção.
+
+Ademais, os preceitos da Igreja Messiânica Mundial diferem sobremaneira das religiões e filosofias conhecidas até hoje e versam sobre questões de uma magnitude sem precedentes. Por essa razão, é possível que aqueles que não testemunharam os fatos os considerem nada mais que um delírio megalomaníaco. Para compreendê-lo, é imprescindível despojar-se de todos os conceitos preestabelecidos e iniciar a leitura com a mente livre, como uma folha em branco.
+
+### Guia da "Igreja Messiânica Mundial"
+
+#### A Organização da Igreja Messiânica Mundial
+
+A pessoa jurídica religiosa denominada Igreja Messiânica Mundial foi fundada há apenas cinco anos. Na realidade, sua predecessora foi a Terapia Purificadora, que, por sua vez, originou-se da Dai Nippon Kannon Kai, inaugurada em 1935. As diversas mudanças de nome ao longo do tempo deveram-se tanto a intensas perseguições quanto a profundos desígnios da Providência Divina no plano espiritual.
+
+Seu líder espiritual, Okada Mokichi, utiliza o pseudônimo literário Jikan. Os fiéis reverentemente se referem a ele como Meishu-Sama.
+
+A Sede Central está localizada no seguinte endereço:
+232 Atami, Cidade de Atami, Província de Shizuoka
+
+Sede Provisória de Verão:
+1300 Gora, Miyagino-mura, Ashigarashimo-gun, Província de Kanagawa
+
+**Corpo Diretivo**
+Presidente Espiritual: Naoyoshi Okusa
+Diretores e Conselheiros: Vinte e sete membros
+
+**Estrutura Organizacional**
+Existem aproximadamente noventa igrejas de grande e médio porte em todo o país. Subordinadas a elas, há sedes regionais ou núcleos, onde ministros responsáveis se dedicam à difusão dos ensinamentos.
+
+### O Nascimento da Igreja Messiânica Mundial
+
+#### A Igreja Messiânica Mundial é uma religião?
+
+A Igreja Messiânica Mundial não é uma simples religião, no sentido convencional do termo. Ela se encontra classificada na categoria de “religião” por não haver outra esfera mais adequada para enquadrá-la. Trata-se de um caminho muito mais abrangente do que as religiões existentes até hoje, das quais a religião propriamente dita constitui apenas uma parte. Em essência, tanto a ciência quanto a religião têm seu fundamento na verdade universal. Portanto, ao se expor a verdade universal, ambas estão nela contidas. Na verdade, poder-se-ia dizer que ela é uma suprarreligião e uma supraciência. As questões do espírito são elucidadas de forma científica, e os fenômenos do mundo visível são explicados a partir de suas causas espirituais fundamentais. Nesse âmbito, incluem-se temas que vão da medicina à economia, educação, arte e todas as demais esferas da cultura. Por exemplo, entre as religiões existentes, nenhuma delas elucidou a “patologia” de maneira tão exaustiva quanto a Igreja Messiânica Mundial. Em um futuro próximo, Meishu-Sama dissecará a fundo a medicina moderna, apontando seus equívocos, e apresentará ao mundo acadêmico a verdadeira medicina. Ele também expõe os princípios e métodos de uma nova agricultura — a Agricultura Natural, que aumenta a produção de alimentos de alta qualidade sem o uso de fertilizantes —, como solução fundamental para os problemas econômicos. Ademais, visando à elevação da alma através do Belo, dedica-se à construção de protótipos do Paraíso Terrestre e de Museus de Arte. Ao observarmos o panorama completo das atividades da Igreja Messiânica Mundial, compreenderemos que se trata de uma obra cultural de vasto alcance — uma verdadeira revolução cultural — muito mais do que de uma simples religião.
+
+Dessa forma, a Igreja Messiânica Mundial é uma “Obra de Salvação” de portas largas, por assim dizer, na qual é possível adentrar por qualquer uma de suas entradas. Mesmo aqueles avessos à fé, ao se verem afligidos por uma doença, podem estudar sua patologia e experimentar o Johrei da Igreja Messiânica Mundial. Embora inicialmente céticos, os efeitos se manifestarão. Agricultores, por sua vez, podem aproximar-se para pesquisar seus métodos agrícolas. Mesmo os que professam outras religiões não precisam abandonar sua fé para conhecer este Caminho; é possível ingressar mantendo a crença atual e, aos poucos, aprofundar a compreensão. E, quando a verdadeira compreensão for alcançada, perceberão que a Igreja Messiânica Mundial não anula as religiões preexistentes, mas, ao contrário, ilumina seus ensinamentos, permitindo que seu real significado seja apreendido e vivificado. É com esse espírito que esperamos que o leitor prossiga com esta leitura.
+
+Nota: Os fiéis da Igreja Messiânica Mundial recebem a outorga de um poder que lhes permite irradiar uma espécie de luz espiritual. Ao imporem a palma da mão sobre a área afetada de uma pessoa enferma, essa luz é projetada, e o doente é curado. A esse método, damos o nome de Johrei.
+
+#### A Cultura até hoje tornou a humanidade feliz?
+
+Ao observarmos a atual conjuntura mundial, percebemos que o progresso cultural desde os tempos primitivos até o presente foi notável. Em particular, o desenvolvimento da civilização mecanicista foi assombroso, com a invenção do avião, o avanço do rádio e até mesmo o surgimento da televisão. A aparência externa é, de fato, esplêndida. Contudo, ao analisarmos a situação com serenidade, qualquer um notará que a felicidade humana não acompanhou o desenvolvimento cultural. Quanto mais a civilização avança, mais se sucedem eventos abomináveis como doenças, crimes, escassez de recursos, desastres naturais e acidentes de trânsito. A infelicidade humana parece agravar-se continuamente, sem que se vislumbre um fim. Para culminar, a ciência acabou por inventar a bomba atômica.
+
+É preciso reconhecer que, se a cultura, que deveria proporcionar felicidade à humanidade, acabou por, inversamente, torná-la infeliz, é porque uma falha fundamental se oculta em suas bases. Isso se deve ao fato de que apenas a cultura materialista (cultura material) se desenvolveu, sem que o progresso da cultura espiritual (cultura do espírito) a acompanhasse. Meishu-Sama denomina esse estado de cultura claudicante.
+
+Certamente, no campo espiritual, surgiram até hoje, além do cristianismo e do budismo — as duas grandes religiões —, diversas outras crenças que pregaram a salvação espiritual à humanidade. Cada uma delas ofereceu ensinamentos valiosos e, até certo ponto, guiou a sociedade para o bem, desempenhando um papel notável em salvar a humanidade da ruína. Se essas religiões não tivessem existido, é impossível imaginar em que estado o mundo se encontraria hoje. Entretanto, ao observarmos o mundo atual, constatamos que chegamos a um estágio em que meros ensinamentos já não são suficientes para trazer felicidade à humanidade. Ensinamentos não podem deter doenças, guerras, crimes ou desastres naturais.
+
+Em suma, falta-lhes poder. Nesse contexto, se não emergir uma religião detentora de uma força sobrenatural grandiosa, como jamais se viu, a humanidade estará, em última análise, fadada à extinção.
+
+#### O Caminho da Salvação — O Advento do Poder
+
+Há mais de vinte anos, o Fundador da Igreja Messiânica Mundial — Meishu-Sama —, por meio de uma inspiração divina misteriosa, recebeu uma Revelação Divina. Por ela, compreendeu os equívocos da cultura, causa fundamental da infelicidade humana até hoje. Entendeu que, se essa situação persistisse, toda a humanidade enfrentaria uma catástrofe sem precedentes; que a era atual é um período de grande transição, à beira do chamado Juízo Divino, no qual se realizará uma grande purificação dos pecados e máculas acumulados pela humanidade ao longo de milênios; e que a ele foi confiada a magna missão de salvar a humanidade desta crise. Foi com essa consciência que ele inaugurou a Igreja Messiânica Mundial. Ou seja, a causa fundamental da infelicidade humana reside no fato de que a cultura de hoje se desviou da verdade. Ele aponta em que aspectos ela se desviou e, para que o ser humano alcance a verdadeira felicidade, expõe como se deve proceder, indicando os erros fundamentais em todas as áreas da cultura — religião, política, ciência, economia, educação, arte, etc. — e, ao mesmo tempo, ensinando o caminho correto. Atualmente, Meishu-Sama está escrevendo uma grande obra intitulada “A Criação da Civilização”, que, ao ser concluída, será apresentada ao mundo acadêmico. Trata-se de um tratado que expõe detalhadamente os alicerces da nova civilização, servindo como um projeto para o novo mundo que se aproxima, uma nova Bíblia para a humanidade e uma corda de salvação para uma humanidade que trilha o caminho da perdição.
+
+Ademais, se a causa fundamental do sofrimento e da angústia da humanidade hoje é o resultado de milênios de acúmulo de pecados e máculas, sem um poder capaz de purificá-los, a humanidade não poderá ser salva. Desde que recebeu a Revelação Divina, Meishu-Sama passou a manifestar um misterioso poder divino para salvar a humanidade da crise final. Esse poder é constituído por uma partícula espiritual ainda mais sutil que o átomo, ainda não descoberta pela ciência moderna; por isso, é de difícil explicação. Trata-se de uma espécie de raio místico, que poderíamos chamar de força cósmica, ao qual Meishu-Sama deu o nome de Kaso (elemento fogo). Pode ser considerado a fonte da vida no universo, pela qual tudo o que existe vive. Digamos, por ora, que Meishu-Sama obteve, por meio de revelação divina, o método para concentrar e irradiar intensamente esse poder. E ele não apenas o utiliza, como também o outorga a cada um de seus fiéis. (Este assunto será detalhado em um capítulo posterior.)
+
+Para quem não vivenciou, pode parecer inacreditável, mas aqueles que tiveram a experiência de serem curados de suas doenças ao receber o Johrei da Igreja Messiânica Mundial certamente compreenderão a existência desse poder transcendente.
+
+Conforme exposto, a Igreja Messiânica Mundial é mais do que uma religião; é uma grandiosa “Obra de Salvação”. Uma civilização que gera infelicidade e na qual os seres humanos vivem sob a constante ameaça à sua vida, como a atual, não é uma verdadeira civilização. Meishu-Sama afirma que se trata de uma “cultura” — que, em sua essência, não passa de uma “caricatura da civilização”. Em um mundo de verdadeira civilização, a segurança da vida deve ser garantida, e os seres humanos devem poder viver de forma saudável e feliz, com suas almas purificadas, alcançando sua verdadeira e bela forma, livres do sofrimento causado por doença, pobreza e conflito. O mundo criado por Deus não deveria, em sua essência, estar mergulhado em angústia como hoje. Meishu-Sama é aquele que nos ensina o método para fazer o ser humano retornar à sua condição original e nos concede o poder para construir um mundo isento de doença, pobreza e conflito.
+
+#### O Lema da Igreja Messiânica Mundial
+
+O lema da Igreja Messiânica Mundial é “Construir o Paraíso Terrestre, isento de doença, pobreza e conflito”. A seguir, explicarei o significado desta frase.
+
+Que tipo de mundo é o “Paraíso Terrestre”? É um mundo ideal, livre de sofrimento, onde a humanidade pode desfrutar da verdadeira felicidade.
+
+Se resumirmos os sofrimentos que afligem toda a humanidade, podemos classificá-los nas três grandes desgraças: doença, pobreza e conflito.
+
+A saúde é a base da vida e o fundamento da felicidade humana. Por mais que se acumulem riquezas e se viva em meio a belas vestes e finas iguarias, que alegria pode haver se a pessoa estiver atormentada pela doença? E mesmo aqueles que se consideram saudáveis e felizes hoje não sabem quando alguma doença poderá surgir ou se sofrerão um ferimento em um acidente inesperado; essa é a realidade da vida. Em especial, a infelicidade de uma família quando o chefe da casa, seu pilar, adoece subitamente... Se a doença se prolonga, as despesas médicas se acumulam e a fonte de renda se extingue, gerando dificuldades financeiras. Se a situação se agrava, a ideia da “morte” inevitavelmente surge, seguida da preocupação com o infortúnio dos entes queridos que ficam. Ao refletirmos sobre tudo isso, compreendemos que a doença é um sofrimento duplo e triplo. Se a insegurança em relação à doença fosse eliminada deste mundo, quão mais radiante a vida se tornaria.
+
+Quanto ao sofrimento da pobreza, sua natureza é claramente compreendida ao observarmos a sociedade atual, não sendo necessário discorrer sobre o tema. A pobreza leva a tragédias como suicídios familiares e é causa de conflitos no lar e, na esfera social, de disputas trabalhistas. A existência de uma sociedade miserável, onde pessoas choram de fome à sombra de um mundo de prazeres suntuosos, não é um retrato saudável da sociedade humana.
+
+Por fim, temos o conflito. A forma mais ampla de conflito é a guerra. A guerra, na qual se pratica o massacre coletivo e cruel, é um crime, independentemente de qualquer justificativa. Após a Segunda Guerra Mundial, a maioria dos povos do mundo teme a guerra, e intelectuais de todas as nações têm se esforçado, política e culturalmente, para encontrar um caminho que contribua para a paz mundial. O Movimento de Rearmamento Moral e a UNESCO são manifestações culturais desses esforços. Contudo, na conjuntura atual, tais iniciativas são como uma gota d'água em uma pedra incandescente, de efeito ínfimo. Quer a humanidade deseje, quer não, uma força invisível parece aproximar-nos, a cada momento, de uma nova guerra. E a próxima guerra será um conflito atômico, de poder destrutivo máximo, o que, a menos que ocorra um milagre, significará a aniquilação da humanidade. Não há um só país que não sinta a apreensão em relação a esta Terceira Guerra Mundial.
+
+Se um mundo verdadeiramente isento das três grandes desgraças — doença, pobreza e conflito — viesse a se concretizar, isso significaria a realização do Paraíso sonhado, profetizado por inúmeros sábios desde a antiguidade e aguardado com anseio pela humanidade por milênios. Será que tal mundo é, de fato, realizável?
+
+Ao observarem a prática dos ensinamentos da Igreja Messiânica Mundial e o fato de que seus fiéis operam milagres diariamente, salvando os enfermos, os senhores passarão a acreditar que o tempo é chegado e que a profecia da construção do Paraíso será cumprida por meio de Meishu-Sama, da Igreja Messiânica Mundial. Exemplos dos milagres que ocorrem cotidianamente entre os fiéis da Igreja Messiânica Mundial são publicados em incontáveis relatos de graças alcançadas no jornal da nossa Igreja, o “Paraíso Terrestre”, e no semanário “Glória”. Esses relatos, enviados pelos fiéis, são escritos com um sentimento de gratidão e reconhecimento a Deus. Meishu-Sama sempre nos orienta a não haver neles a menor falsidade ou exagero, e são submetidos a uma rigorosa revisão pelo ministro responsável da Igreja antes de serem publicados. Nesse sentido, endereço, nome e idade são claramente indicados para que possam ser verificados por qualquer pessoa, a qualquer momento.
+
+A partir do próximo capítulo, abordaremos sequencialmente as causas da doença, da pobreza e do conflito, e as respectivas soluções.
+
+### A Solução para a “Doença”
+
+Existe um ditado segundo o qual "o ser humano é um receptáculo de doenças", mas isso é um grande equívoco. O correto seria dizer que "o ser humano é um receptáculo de saúde". A saúde é a condição original do ser humano; Deus certamente nos criou dessa forma. Apesar disso, o fato de sermos chamados de "receptáculo de doenças" indica o quão suscetíveis nos tornamos a elas. Qual seria a razão para isso? A natureza, em sua forma, é a própria manifestação da verdade. O ser humano prospera ao seguir a natureza e perece ao contrariá-la. O fato de o ser humano, que deveria ser um "receptáculo de saúde", ter se tornado um "receptáculo de doenças" é o resultado de práticas que, por milênios, contrariaram a natureza. A medicina atual se orgulha de seus avanços, novos medicamentos são descobertos sucessivamente e novos tratamentos são anunciados. No entanto, a despeito das medidas das autoridades, diversas doenças infecciosas batem recordes anuais, o número de pacientes com tuberculose aumenta e a doença se torna mais agressiva. Além disso, doenças degenerativas de causa desconhecida, como câncer, nevralgia e paralisia infantil, tornam-se mais frequentes. E os casos de indivíduos socialmente ativos que subitamente sucumbem a um derrame cerebral aumentam a cada ano. O que esses fatos nos revelam? São o resultado de um terrível equívoco latente nos fundamentos da medicina moderna. Divulgar essa verdade ao mundo, despertar as pessoas para esse erro o mais rápido possível e construir um "mundo sem doenças" é a base para a construção do Paraíso Terrestre. E, uma vez que um "mundo sem doenças" seja estabelecido, todas as outras formas de infortúnio serão resolvidas. Por essa razão, a Igreja Messiânica Mundial dá a máxima importância à solução do problema da doença.
+
+Antes de explicar a verdadeira causa da doença, é necessário elucidar a "Lei do Espírito Precede a Matéria".
+
+#### A Lei do Espírito Precede a Matéria
+
+Conforme mencionei anteriormente, o erro fundamental da cultura moderna reside no fato de que o homem contemporâneo, ofuscado pelo impressionante progresso da ciência materialista, acreditou erroneamente que ela poderia solucionar tudo. Contudo, este mundo não se limita ao que é visível aos olhos; por trás dele, existe um mundo invisível — o Mundo Espiritual —, e este mundo material e o Mundo Espiritual estão intimamente interligados. O Mundo Espiritual é um universo constituído por uma substância transparente, mais rarefeita que o ar, um mundo que se assemelha ao nada. Na realidade, porém, longe de ser o nada, ele é a fonte geradora de um poder absoluto e infinito. O Mundo Espiritual é a essência do universo, e todos os acontecimentos ocorrem primeiro nele, para depois se refletirem no mundo visível. A isso chamamos de "Lei do Espírito Precede a Matéria", e este é um princípio universal. Tudo o que existe possui espírito e matéria. Prospera-se ao seguir a Lei do Espírito Precede a Matéria, e perece-se ao contrariá-la. A origem da felicidade e da infelicidade humanas também se encontra no mundo invisível. Enquanto não se reconhecer a existência do Mundo Espiritual e não se eliminar a causa fundamental que lá reside, não haverá solução para o infortúnio. Adoecer, sofrer acidentes, ter desarmonia no lar, e até mesmo incêndios e inundações, tudo tem sua causa no Mundo Espiritual. Não posso me aprofundar sobre todos esses temas agora, mas abordarei a questão sob a perspectiva do corpo humano.
+
+Que o corpo humano não é apenas “carne”, matéria visível, mas um “organismo vivo” que abriga a vida, é algo que todos sabem. Contudo, até hoje, ninguém na ciência foi capaz de apreender a essência da vida. A vida é uma força misteriosa e insondável que transcende a ciência. O ser humano também possui algo chamado “coração” ou “mente”, que experimenta alegria, ira, tristeza e prazer, e que discerne o bem e o mal. Ninguém pode negar a existência da mente, mas ninguém conseguiu apreender sua real natureza. Isso é o “espírito”.
+
+Em outras palavras, por trás do “corpo físico” visível, existe a “mente” invisível. Envolvendo essa mente, há um corpo etéreo, mais rarefeito que o ar, que chamamos de “corpo espiritual”. O “corpo físico” e o “corpo espiritual” estão intimamente unidos, e o “corpo espiritual” tem a forma idêntica à do “corpo físico”. Isso é a “unidade espírito-matéria”.
+
+No centro do corpo espiritual reside a “mente”, e no centro da mente habita a “alma”.
+
+E qual dos dois é a essência do ser humano? É o espírito invisível, que move o corpo físico. O “corpo físico” é como uma vestimenta para o “corpo espiritual”, nada mais que seu reflexo. Isso é a "Lei do Espírito Precede a Matéria".
+
+#### A doença é a mácula do espírito
+
+Se há uma doença em uma parte do corpo físico, é porque existe uma "mácula" na parte correspondente do corpo espiritual. Originalmente, o corpo espiritual deveria ser transparente, mas, quando uma parte dele se torna opaca, a isso chamamos de "mácula". Existem máculas que se originam no próprio espírito e outras que são refletidas a partir do corpo. As máculas que se originam no próprio espírito surgem quando a mente humana nutre pensamentos malignos e pratica atos maus. Já as que são refletidas do corpo ocorrem quando impurezas entram na corrente sanguínea, turvando o sangue, o que por sua vez se reflete no corpo espiritual, tornando-se uma mácula. No homem moderno, não há uma única pessoa sem máculas. Quando a densidade dessas máculas aumenta gradativamente, um tipo de germe tóxico, uma partícula ultramicroscópica, surge naturalmente nesse local. Essa partícula cresce e, finalmente, dá origem aos germes patogênicos visíveis ao microscópio. O “vírus”, termo defendido pela ciência nos últimos anos, situa-se entre essa partícula ultramicroscópica tóxica e a bactéria visível ao microscópio; é, por assim dizer, o filhote da bactéria. (Para mais detalhes, consulte "Uma Terapia Revolucionária para a Tuberculose").
+
+A lei do universo é que o espírito é o principal e a matéria, o secundário. Portanto, para curar uma doença, enquanto a mácula do corpo espiritual não for eliminada, a doença do corpo físico não será curada. Em outras palavras, mesmo que se remova o agente patogênico apenas do corpo físico através de esterilização ou cirurgia, como faz a medicina atual, novos germes continuarão a surgir na parte maculada do corpo espiritual, de modo que uma solução fundamental jamais será alcançada. É impossível eliminar essa mácula espiritual com qualquer tipo de substância material. A única forma é através de uma espécie de luz espiritual, que é a própria força cósmica, fonte do poder do universo — ou seja, o Kaso (elemento fogo) (ver página 16). Os fiéis da Igreja Messiânica Mundial recebem de Meishu-Sama o poder de irradiar essa luz espiritual e, ao imporem as mãos, podem projetar essa luz invisível. A esse método, damos o nome de “Johrei”. Pelo Johrei, a mácula do espírito é purificada. Consequentemente, de acordo com a Lei do Espírito Precede a Matéria, a parte doente do corpo físico é curada, a dor cessa rapidamente e a doença é sanada. Sendo essa luz de natureza espiritual, em princípio, ela é invisível. Contudo, raramente, há pessoas com uma constituição especial que conseguem ver o espírito, e algumas relatam ver claramente a luz irradiada da palma da mão do fiel durante o Johrei penetrar e atravessar o corpo do doente.
+
+Assim, a verdadeira causa da doença é a mácula do espírito. Explicarei, agora, de forma mais concreta e compreensível, o estado da doença manifestada no corpo físico.
+
+#### A doença é um processo de purificação
+
+O corpo do ser humano moderno contém não apenas sangue e carne puros, mas também impurezas — ou seja, sangue turvo e pus. A essas impurezas, chamamos de “toxinas”. Não há uma única pessoa no mundo de hoje sem toxinas. Consequentemente, não há uma única pessoa verdadeiramente saudável.
+
+As toxinas podem ser congênitas ou adquiridas, e são elas que comprometem a saúde. No entanto, o corpo humano realiza constantemente um processo fisiológico natural para expelir as impurezas. É como uma limpeza. A isso, chamamos de “ação purificadora”.
+
+A “ação purificadora” pode ser dividida em “primeira ação purificadora” e “segunda ação purificadora”.
+
+A “primeira ação purificadora” é o processo de segregar as toxinas presentes no sangue e acumulá-las em locais específicos do corpo, na forma de nódulos tóxicos ou pus, onde se solidificam. É, por assim dizer, uma ação de ajuntamento. Nesse caso, as toxinas tendem a se acumular em locais de concentração nervosa e nas partes inferiores do corpo quando em repouso. Com o tempo, elas se solidificam gradualmente, formando nódulos. O que popularmente se chama de “endurecimento” ou “contratura” é um exemplo disso. A primeira ação purificadora geralmente ocorre com pouca ou nenhuma dor, sendo sentida, no máximo, como um enrijecimento.
+
+A “segunda ação purificadora” — quando essas toxinas atingem um certo volume, passam a comprimir os órgãos internos, diminuindo sua função. Então, quando chega o momento oportuno e o corpo adquire força suficiente, uma grande limpeza se inicia. Essa é a “segunda ação purificadora”. Ou seja, para dissolver os nódulos, ocorre a febre. As toxinas, dissolvidas pelo calor, tornam-se líquidas, encontram uma via de saída e são expelidas do corpo. Coriza, catarro, remela, secreção no ouvido, pus de furúnculos, tudo isso são toxinas dissolvidas. Elas também podem ser eliminadas misturadas à urina ou nas fezes, na forma de diarreia. Há também casos em que o sangue tóxico é expelido diretamente, como em sangramentos nasais, hemoptise, hematêmese, hematúria, hematoquezia, etc. De qualquer forma, tudo o que sai do corpo são toxinas. É quando as toxinas se dissolvem e se movem em direção a uma saída que elas estimulam os nervos, causando dor. Quanto pior a qualidade da toxina, mais intensa a dor. Quanto mais duro o nódulo, maior a febre necessária para dissolvê-lo. E quando a força purificadora é grande e uma grande quantidade de toxinas se dissolve de uma só vez, a dor também é intensa. Contudo, como a febre e a dor servem para purificar as impurezas do corpo, se suportarmos por um tempo, as toxinas serão inevitavelmente expelidas, e depois disso sentiremos um alívio como se nunca tivéssemos sentido nada. Além disso, na medida em que as toxinas diminuem, a pessoa se torna mais saudável do que antes. É essa dor durante a purificação que as pessoas geralmente chamam de doença e, pensando ser um agravamento, entram em pânico e se preocupam. Diz-se comumente que "o excesso de trabalho causou febre", mas, na verdade, a atividade intensa, a ponto de se sentir exausto, gerou a força física necessária para purificar, e a ação purificadora se iniciou, o que é algo excelente.
+
+Ademais, a longevidade de uma pessoa está relacionada à quantidade de toxinas; quanto mais toxinas, mais curta a vida. Portanto, à medida que as toxinas diminuem, a vida se prolonga. Assim, quando se compreende verdadeiramente que “a doença é um processo de purificação”, percebe-se que a doença é algo pelo qual devemos ser gratos, algo a ser celebrado. Na Igreja Messiânica Mundial, dizemos "receber uma purificação" e a acolhemos com alegria e gratidão, como uma bênção de Deus.
+
+De modo geral, as pessoas consideram a doença como um processo de agravamento e buscam suprimir temporariamente a dissolução das toxinas para aliviar a dor. Aplicações de gelo e repouso interrompem a purificação e, com isso, a dor cessa. No entanto, é uma pena interromper no meio do caminho a limpeza interna que havia começado. Pior ainda é o uso de medicamentos, pois todos eles são venenos. A razão pela qual se prescreve uma dosagem específica é que, se a quantidade for aumentada, há risco de morte. Quando o medicamento entra no corpo, o sangue se turva, o corpo enfraquece, a purificação para e a dor da dissolução é temporariamente aliviada. Em outras palavras, o tratamento médico é uma terapia solidificante, um mero paliativo tóxico para a dor. As toxinas solidificadas um dia terão que ser purificadas, de modo que se trata de um adiamento da doença. Até hoje, isso tem sido confundido com cura. E se fosse apenas a interrupção da purificação, ainda seria menos mal, mas parte do medicamento ingerido inevitavelmente permanece no corpo e, com o tempo, forma nódulos de toxinas. Um dia, a purificação dessas toxinas medicamentosas ocorrerá. E é a purificação dessas toxinas medicamentosas que causa a maior dor e é mais difícil de curar. Que a causa das doenças complexas de hoje são, invariavelmente, os medicamentos é algo que os fatos, e não apenas a teoria, demonstram. Basta observar o grande número de pessoas que, na ânsia de se tornarem saudáveis, buscam incessantemente novos medicamentos e se submetem a múltiplos tratamentos, apenas para ficarem cada vez mais fracas, desenvolverem outras doenças e, no final, chegarem a um ponto em que nada mais pode ser feito. E basta analisar com serenidade o fato de que, quanto mais novos medicamentos são criados, mais as doenças se tornam complexas e malignas, e que, apesar do desenvolvimento da medicina preventiva, as doenças infecciosas aumentam.
+
+Quando um fiel da Igreja Messiânica Mundial tem uma purificação, ele imediatamente recebe Johrei. Pelo Johrei, as toxinas que estavam em processo de purificação se dissolvem e são expelidas rapidamente. Assim, a limpeza interna termina mais cedo, a dor cessa e o problema se resolve prontamente. Em purificações menos intensas, que se manifestam como cansaço — como rigidez nos ombros, peso na cabeça, falta de ar, fadiga nos membros —, sempre há uma leve febre nos locais afetados, indicando que uma pequena purificação está ocorrendo. Se a pessoa recebe Johrei nessas ocasiões, o corpo espiritual é purificado a cada vez, e as toxinas diminuem gradualmente, o que aumenta a vitalidade no dia a dia e a aproxima, passo a passo, da verdadeira saúde. Além disso, aqueles que recebem Johrei com frequência, quando finalmente adoecem, tendem a ter uma purificação relativamente mais branda.
+
+Omitirei a explicação de cada doença específica, mas as doenças agudas são as mais seguras e de cura mais rápida. Febre alta ou dor intensa são provas de que a força purificadora é vigorosa. Toda doença tem um ápice; uma vez ultrapassado, inicia-se a melhora. O Johrei acelera a purificação, fazendo com que se atinja o ápice mais rapidamente. Superado o ápice, a recuperação é surpreendentemente veloz. E, após uma doença aguda como essa, a pessoa invariavelmente se torna ainda mais saudável do que antes. As doenças crônicas demoram um pouco mais. Isso ocorre porque os nódulos de toxinas são duros e difíceis de dissolver, o que leva tempo. No entanto, com a ministração perseverante de Johrei, as toxinas se dissolvem gradualmente e a melhora ocorre. Dependendo da natureza das toxinas e da força purificadora da pessoa, a recuperação pode ser inesperadamente rápida. Em alguns casos, dependendo do tipo e da quantidade de toxinas, pode ser tarde demais. No entanto, se em um tratamento médico, de dez pessoas, oito morrem, com o Johrei, de dez pessoas, oito são salvas. Os exemplos de doentes desenganados pelos médicos e sentenciados à morte que foram salvos são inúmeros.
+
+#### O Corpo Humano é um Sistema Integrado
+
+O corpo humano funciona como um sistema integrado; suas partes não atuam de forma isolada. Portanto, mesmo que uma doença surja em uma parte do corpo, ela não se restringe a esse local; sua causa fundamental se encontra em outra parte. Por exemplo, no caso de problemas de visão, sempre há nódulos de toxinas na região da nuca, próximo ao bulbo. Ao ministrar Johrei intensamente nesse local, as toxinas são eliminadas na forma de lágrimas e remela, e a visão melhora. A causa do panarício nos dedos das mãos se encontra ao redor do pescoço, nas glândulas parótidas. A causa do sangramento das hemorroidas está na nuca, e a dor de estômago tem sua origem nas costas. A medicina até hoje tem se baseado em tratamentos sintomáticos, como se tratasse apenas a saída de um esgoto, sem se dar conta do acúmulo de água suja em seu interior e, ainda por cima, bloqueando a saída para impedir a drenagem. Meishu-Sama, por revelação divina, conhece a origem de todas as doenças e nos ensina a causa e os pontos vitais do Johrei para cada uma delas. Aqueles que, seguindo seus ensinamentos, ministram Johrei, eliminam a causa da doença e vivenciam o processo de recuperação, compreendem o quão equivocadas eram as terapias até então e, ao mesmo tempo, maravilhados com a verdade dos ensinamentos e o poder do Johrei, renovam sua fé e se inflamam com o desejo de difundir essa verdade surpreendente a toda a humanidade que ainda a desconhece.
+
+As doenças mencionadas até aqui são causadas por toxinas. No entanto, existem também as “doenças de causa espiritual”, que não se devem apenas a toxinas. Antes de explicá-las, devo falar sobre a existência do Mundo Espiritual.
+
+#### A Existência do Mundo Espiritual
+
+Conforme mencionei anteriormente, por trás do mundo visível, existe o Mundo Espiritual. Meishu-Sama não apenas tomou conhecimento da existência do Mundo Espiritual por meio de revelação divina, mas também dedicou mais de vinte anos à sua pesquisa, apreendendo detalhadamente sua realidade. Para o homem moderno, educado sob uma perspectiva materialista, pode ser difícil acreditar em um mundo invisível. No entanto, hoje em dia, a pesquisa psíquica é ativamente conduzida de forma científica em vários países do mundo, e os resultados de tais pesquisas são publicados em diversos livros. Portanto, aqueles que tiveram o mínimo contato com esse tema não podem negar a existência do Mundo Espiritual.
+
+Todo ser humano que nasce, inevitavelmente, morre — não há nada mais certo do que isso. Quando o corpo físico, por velhice, doença ou ferimento, se torna incapaz de ser utilizado, o espírito se desprende dele e vai para o Mundo Espiritual, onde inicia uma nova vida como ser espiritual. No Mundo Espiritual, ocorre a purificação dos pecados e máculas acumulados no corpo espiritual durante a vida terrena. Quando um certo grau de purificação é atingido, o espírito renasce neste mundo, recebendo um novo corpo físico. Assim, a alma humana renasce e morre repetidamente, sendo eterna e imortal.
+
+O Mundo Espiritual é, na verdade, um mundo de uma profundidade, sutileza e mistério que não pode ser explicado de forma simples. Existe uma hierarquia extremamente rigorosa, desde o mais elevado Mundo Divino, passando pelo mundo dos espíritos humanos, até o mais baixo, o inferno, e o chamado mundo animal, dos espíritos de animais. Existem também o mundo do pensamento, onde os pensamentos humanos ecoam instantaneamente, e o mundo do poder da palavra, onde as palavras ressoam. A bondade, a maldade, a beleza e a feiura desses mundos purificam ou maculam o Mundo Espiritual, o que, por sua vez, se reflete no Mundo Material, dando origem à felicidade e à infelicidade. Meishu-Sama nos ensina detalhadamente sobre essa estreita relação entre o Mundo Espiritual e o Mundo Material, mas aqui me limitarei a abordar os pontos relacionados à doença.
+
+Ancestrais e descendentes estão conectados por um fio invisível chamado ‘cordão espiritual’, e tanto o bem quanto o mal se influenciam mutuamente. Ou seja, se os descendentes acumulam virtudes, seus ancestrais são purificados e salvos. E, quando os ancestrais são salvos, seu poder de proteger os descendentes aumenta, trazendo-lhes felicidade. Por outro lado, a maldade dos descendentes causa sofrimento aos ancestrais, e se os ancestrais estiverem no inferno, a infelicidade se manifestará continuamente na vida dos descendentes.
+
+Aqueles que estudam a doutrina da Igreja Messiânica Mundial e entram em contato com os diversos fenômenos espirituais compreendem verdadeiramente a existência do Mundo Espiritual, a vida após a morte e a relação entre os espíritos dos antepassados e seus descendentes. Somente ao obter esse conhecimento é que se pode alcançar a verdadeira paz de espírito e o sentido da vida, garantindo a felicidade eterna não apenas neste mundo, mas também após a morte e nas vidas futuras.
+
+#### Doenças de Causa Espiritual
+
+A causa de doenças como a epilepsia e a paralisia infantil é considerada totalmente desconhecida pela medicina. No entanto, como são doenças de natureza puramente espiritual, é impossível compreendê-las sob uma ótica materialista. A causa reside no fato de que, quando um ancestral teve uma morte violenta ou sucumbiu subitamente a um derrame cerebral, seu espírito, sem encontrar salvação no Mundo Espiritual, busca inconscientemente um corpo físico e, seguindo o cordão espiritual da linhagem familiar, pode se apossar de um descendente. É nesses casos que a doença se manifesta. A doença que a medicina denomina neurose cardíaca também é causada pela possessão de um espírito que não encontrou salvação. É uma doença que ocorre frequentemente quando os descendentes não realizam os devidos ofícios religiosos em memória de seus antepassados. Existem inúmeros casos que foram rapidamente solucionados ao se realizarem os ofícios conforme ensinado na Igreja Messiânica Mundial. Espíritos de animais também têm uma relação estreita com o mundo humano, e há doenças causadas pela possessão de um espírito animal com o qual a pessoa tem algum laço. As doenças mentais são um exemplo disso. Além dessas, existem outras doenças espirituais tão estranhas que o mundo sequer lhes deu um nome, mas, ao analisá-las à luz dos ensinamentos da Igreja Messiânica Mundial, geralmente é possível chegar a um diagnóstico. Pessoas que sofrem de tais doenças espirituais são mais suscetíveis à possessão por terem muitas toxinas, e também porque há máculas espirituais em seu lar. Com o Johrei, o espírito possessor se acalma, é salvo e se afasta. No caso de espíritos de animais, eles se enfraquecem ou se afastam, e o problema se resolve. Contudo, as doenças espirituais, em sua maioria, tendem a ser mais demoradas. A verdadeira solução só é alcançada quando um membro da família se torna fiel e, enquanto ministra Johrei ao doente, pratica o bem ajudando outras pessoas, acumulando virtudes para a salvação dos antepassados e purificando as máculas do lar.
+
+Nota: Existem dois tipos de paralisia infantil: a de causa espiritual e a que não o é. A que não é de causa espiritual ocorre quando a pessoa perde a mobilidade dos braços ou pernas devido a toxinas medicamentosas. A maioria dos casos de paralisia infantil recentes nos Estados Unidos é causada por toxinas medicamentosas, e este tipo é mais fácil de curar.
+
+O câncer de estômago e a tuberculose vertebral (mal de Pott) são considerados doenças graves, mas também são de natureza espiritual, e a maioria dos casos é resolvida com o Johrei. Em particular, a tuberculose vertebral é uma doença trágica que causa a curvatura da coluna, mas com o Johrei, embora a cura completa possa levar algum tempo, a melhora é constante e relativamente rápida. São incontáveis os casos de pessoas que, já resignadas com a morte, foram salvas e hoje correm de um lado para o outro, salvando outras pessoas através do Johrei. É uma das doenças relativamente fáceis de curar.
+
+Embora não sejam doenças, existem também as deficiências congênitas e as deformidades. Estas são de origem cármica, de vidas passadas, e ocorrem quando a pessoa nasce com uma purificação insuficiente. Nesses casos, não se sabe até que ponto a melhora pode chegar, mas, como também se devem a máculas no lar, é possível obter uma solução parcial ou até mesmo a cura completa através da fé sincera dos familiares.
+
+Nota: Existem dois tipos de câncer de estômago: o de causa espiritual e o causado por toxinas medicamentosas. Há também casos em que toxinas contidas na carne de animais, devido ao consumo excessivo, se tornam a causa do câncer. A maioria dos casos de câncer recentes nos Estados Unidos se enquadra nesta categoria. Este tipo, se não houver um excesso de toxinas medicamentosas, pode ser curado facilmente com o aumento do consumo de vegetais e a ministração de Johrei.
+
+Embora não seja uma doença, o "alcoolismo" também pode ser curado. Isso também tem um significado espiritual. Ao ministrar Johrei na região abdominal, mesmo em casos graves de alcoolismo, a quantidade de álcool ingerida diminui naturalmente e sem esforço, e a pessoa passa a se satisfazer com pequenas doses. Em casos mais rápidos, com apenas algumas sessões de Johrei, a redução no consumo de álcool é notável. O impacto negativo do alcoolismo na sociedade e o fardo econômico e psicológico que ele representa para a família são imensos. O número de pessoas que se alegram por terem se livrado desse vício de forma tão simples e construído um paraíso em seu lar é considerável.
+
+Para os tipos de doenças mencionados acima, a ciência até hoje não conhecia as causas nem tinha como solucioná-las, tateando completamente no escuro. Os doentes não tinham outra opção senão se resignar tristemente. No entanto, através da Igreja Messiânica Mundial, as causas espirituais foram elucidadas e a solução foi encontrada. E, mais importante, essa família não terá mais pessoas sofrendo de tais infortúnios. O que poderia ser isso senão o Evangelho do Paraíso?
+
+### A Solução para o “Conflito”
+
+#### Toxinas e Personalidade
+
+Antes de abordar como o “conflito” pode ser resolvido, devo escrever sobre a imensa influência que as toxinas humanas exercem sobre a personalidade. Para dar um exemplo simples, pessoas com a região das glândulas parótidas endurecida (o que ocorre devido ao acúmulo de toxinas) tendem a ser teimosas. Já as pessoas impacientes e irritadiças, ao examinarmos seus ombros e a região da nuca, próximo ao bulbo, invariavelmente encontraremos nódulos duros de toxinas. Nesses casos, ao ministrar Johrei nos locais onde as toxinas estão acumuladas, elas são gradualmente purificadas. À medida que as toxinas diminuem, a pessoa teimosa se torna mais dócil, e a impaciente, mais calma, de modo que a personalidade se transforma para melhor e se torna mais radiante. Isso é especialmente evidente em crianças, pois, de modo geral, as toxinas nelas se dissolvem mais facilmente, e os resultados aparecem mais rápido. Essas más características de personalidade são, em suma, um tipo de doença do espírito, que é curada pelo Johrei.
+
+A personalidade propensa a conflitos também pertence a um tipo de doente do espírito. As causas do conflito são a impaciência, a teimosia, o egoísmo, etc., que, ao se agravarem, podem levar a grandes e inesperadas disputas. Mesmo esses indivíduos com distúrbios espirituais, ao receberem Johrei continuamente, transformam-se por completo, adquirindo uma personalidade sã, que ama a paz.
+
+#### Toxinas e Crime
+
+Um ponto importante que devo abordar aqui é a relação entre toxinas e crime. Delinquentes juvenis e criminosos reincidentes são um tipo de doente do espírito. Ao examinarmos a região do pescoço deles, notaremos que invariavelmente há um grande acúmulo de toxinas, e consequentemente, também na cabeça. Quando há muitas toxinas ao redor do pescoço, elas comprimem os vasos sanguíneos que irrigam o cérebro, causando uma anemia de bom sangue na cabeça. Na verdade, o sangue é a materialização do espírito. Quando há uma anemia de bom sangue, as células espirituais da pessoa se tornam rarefeitas, e ela perde a capacidade de discernir o certo e o errado, o bem e o mal. Esta é a principal causa da delinquência e do crime. Explicando com um pouco mais de detalhe: o ser humano possui um espírito primordial (natureza divina) e um espírito secundário (natureza animal). Quando há abundância de sangue puro, o espírito primordial está desperto e ativo, permitindo um bom discernimento do certo e do errado. No entanto, quando o sangue impuro aumenta, as células espirituais se tornam rarefeitas e, consequentemente, o espírito primordial adormece, permitindo que o espírito secundário se sobressaia. A fonte de todos os pensamentos malignos é o espírito secundário. Quando mais da metade do sangue é impuro, ocorre o distúrbio espiritual.
+
+Portanto, pregar a moral para essas pessoas ou tentar mudá-las com sermões é uma tarefa difícil. Também é impossível reformá-las através de punições. Com o Johrei, à medida que o sangue impuro diminui, no plano espiritual, a mácula que encobria a mente como um véu escuro é removida. Gradualmente, o espírito primordial começa a brilhar, e a pessoa retorna à sua condição humana original, deixando de praticar o mal.
+
+Ademais, os crimes passionais, como agressões e assassinatos, que têm aumentado notavelmente nos últimos tempos, ocorrem quando as toxinas ao redor do pescoço se purificam abruptamente e sobem para a cabeça, fazendo com que as células espirituais se tornem rarefeitas e a pessoa perca a noção de suas ações. Enquanto o ser humano tiver sangue impuro, por mais que se reforce a fiscalização, tragédias como essa só aumentarão. Se as toxinas forem reduzidas previamente através do Johrei, tais incidentes não ocorrerão.
+
+Nas famílias de fiéis, há muitos exemplos de crianças de má índole que se tornaram boas, e de delinquentes fichados pela polícia que se transformaram em membros admiráveis e ativos da sociedade.
+
+Ao observarmos a sociedade atual, a degradação do espírito humano e o aumento da criminalidade, bem como as tragédias que dela decorrem, tornaram-se um problema mundial. No entanto, ao vivenciarmos a transformação da personalidade através do Johrei na Igreja Messiânica Mundial, passamos a ter a convicção de que, à medida que o número de fiéis aumentar e o Johrei for praticado constantemente em cada lar, a realização de uma "sociedade sem crimes" se tornará possível. A sociedade é um conjunto de indivíduos. É impossível que coisas abomináveis aconteçam em uma sociedade composta por pessoas de espírito são.
+
+Por mais que as leis sejam endurecidas e o crime seja combatido, enquanto o ser humano tiver máculas, a criminalidade só aumentará. Se a malha da lei for apertada, apenas surgirão crimes mais engenhosos para contorná-la. É o mesmo que o tratamento sintomático da medicina: não se ataca a causa fundamental do crime. O fundamental é criar uma sociedade onde o crime não possa ocorrer.
+
+#### Sobre a Guerra
+
+A maior forma de conflito é a guerra. Uma nação é um conjunto de indivíduos. Se cada cidadão se tornar um amante da paz, essa nação não será beligerante. Na maioria dos casos, a guerra é iniciada por um pequeno grupo de aproveitadores da guerra, e a população se torna sua vítima. A mente que concebe atos de crueldade como o massacre em massa é a de um doente do espírito. Se tais doentes do espírito deixarem de existir, a guerra não ocorrerá. Hoje, a humanidade, com exceção de uma minoria, teme a guerra e anseia por um mundo de paz. No entanto, enquanto os seres humanos que compõem o mundo não mudarem, por mais métodos que se empreguem, a guerra não poderá ser evitada. Somente quando cada indivíduo se tornar uma pessoa de sangue puro é que a paz perpétua será estabelecida no mundo.
+
+Contudo, isso é um futuro distante. E quanto à guerra contra o comunismo, que parece iminente? Para isso, existe um método ainda mais extraordinário. É o fato de que a luz espiritual da Igreja Messiânica Mundial supera a luz da bomba atômica.
+
+Atualmente, o maior temor do mundo é a bomba atômica. Para se defender dela, é necessária uma força superior ao calor da própria bomba. O poder da bomba atômica é luz. A luz espiritual da Igreja Messiânica Mundial também é luz, e que a luz divina é mais poderosa que a luz da bomba atômica já foi comprovado na época dos bombardeios de Hiroshima e Nagasaki. Em Hiroshima e Nagasaki, fiéis da nossa Igreja, sob o ataque atômico, saíram ilesos e atuaram bravamente, salvando um grande número de feridos e doentes da bomba através do Johrei (ver jornal Glória, edições 153-155). O fato de que, naquela ocasião, os fiéis da nossa Igreja permaneceram praticamente ilesos comprova que a luz divina da nossa Igreja supera a luz da bomba atômica. Meishu-Sama afirma que, quando este poder que anula a bomba atômica se tornar conhecido no mundo, "não será de todo impossível extinguir a guerra".
+
+Quanto ao comunismo, que hoje ameaça o mundo, se surgisse uma teoria capaz de convencer os comunistas e se fosse possível mostrar-lhes, na prática, a existência do poder de Deus, eles, que são ateus, também abandonariam com alegria o ateísmo. Na Igreja Messiânica Mundial, há um número considerável de ex-comunistas que se converteram, tornaram-se fiéis fervorosos e atuam na obra de salvação. Isso porque o objetivo do comunismo é o paraíso terrestre, e eles reconhecem que, na Igreja Messiânica Mundial, o paraíso terrestre pode ser construído com um poder ainda maior. Meishu-Sama afirma que "não pode haver paz mundial excluindo os países comunistas". Em suma, chegará em breve o momento em que toda a humanidade reconhecerá a Deus e, como filhos do mesmo Deus, dar-se-ão as mãos e se curvarão diante do poder divino. E somente então a paz mundial, tão almejada por toda a humanidade, será estabelecida.
+
+### A Solução para a “Pobreza”
+
+Por fim, abordemos o problema da pobreza. O fato de o ser humano sofrer com a pobreza tem um profundo significado espiritual. Embora esse significado se torne gradualmente compreensível à medida que se avança nos estudos da nossa Igreja, tentarei explicá-lo aqui da forma mais lógica possível.
+
+Primeiramente, a área em que o ser humano mais gasta dinheiro é a "doença". O objetivo de se fazer economias geralmente é para se precaver contra doenças. Uma doença um pouco mais grave implica custos com medicamentos, internação, cirurgias, etc., que são exorbitantes. Para o Estado, os gastos com instalações de saúde também são enormes, e todos são custeados pelos impostos dos cidadãos. Se todas as doenças puderem ser solucionadas com o Johrei, todos os custos médicos serão eliminados, o que representará um ganho imenso tanto para o indivíduo quanto para o Estado, e grande parte do problema da pobreza será resolvida.
+
+O quão elevados são os gastos de uma nação com armamentos é algo que o povo japonês, que sentiu na pele o sofrimento da escassez durante e após a Segunda Guerra Mundial, não precisa de explicação. Além disso, os custos do Estado com o combate ao crime não podem ser subestimados. Se um mundo sem guerras e sem crimes surgisse, os cidadãos poderiam desfrutar de uma vida mais do que satisfatória.
+
+#### Agricultura Natural
+
+Outra chave para a solução dos problemas econômicos de uma nação é o aumento da produção de alimentos. Como este é um problema de grande magnitude, o governo tem pesquisado diversos métodos desde cedo, utilizando adubos orgânicos e químicos e novos pesticidas para o controle de pragas, mas sem obter os resultados esperados. Pelo contrário, as pragas e doenças aumentam a cada ano, os danos causados por tufões são imensos, e a escassez de alimentos se agrava ainda mais, levando à situação atual de importação de mais de vinte milhões de koku de alimentos anualmente.
+
+Na verdade, se Deus fez com que os seres humanos nascessem e vivessem em suas respectivas terras, a produção de alimentos dessa terra deveria aumentar na mesma proporção que a população. Isso é o natural e a verdade. No entanto, o fato de haver um déficit de mais de vinte milhões de koku indica que os métodos humanos estão contrariando as leis da natureza. Meishu-Sama também compreendeu isso por revelação divina e nos ensina a causa da baixa produção e a verdade sobre a agricultura correta. Ou seja, a verdadeira nutrição das plantas é a energia espiritual contida no próprio solo. A aplicação de fertilizantes pode ter um efeito temporário, mas as toxinas neles contidas poluem o solo, diminuindo sua vitalidade. As plantas absorvem essas toxinas, o que causa pragas e doenças. E essas toxinas, mesmo que em pequenas quantidades, entram no corpo humano, turvando também o sangue. Neste ponto, sua teoria coincide com a do Sr. Rodale, agricultor americano. Apenas purificando o solo, sua vitalidade é plenamente restaurada, e as plantas, nutridas por essa energia espiritual, desenvolvem-se esplendidamente, tornam-se de alta qualidade e a produção aumenta (para mais detalhes, consulte a publicação da nossa Igreja "Agricultura Natural"). Ele demonstra este princípio tanto na teoria quanto na prática. Os agricultores fiéis que acreditaram e começaram a praticá-lo há quatro ou cinco anos já alcançaram um aumento de 50% na produção de arroz. Um técnico agrícola de Ohata, na província de Aomori, ficou tão impressionado com os resultados da Agricultura Natural de um fiel que enviou um relatório detalhado ao Ministério da Agricultura e Florestas no ano passado. Com a Agricultura Natural, a qualidade melhora, a produção aumenta e, como o caule se torna mais forte, as plantas resistem aos tufões, livrando-nos da apreensão com danos causados pelo vento e pela água. O mesmo se aplica às hortaliças. Relatórios sobre os resultados da Agricultura Natural chegam continuamente de agricultores de todo o país (ver jornal Glória, edições 141, 163, etc.). Se isso se tornar conhecido em todo o país e for praticado, em cinco anos, um aumento mínimo de 50% na produção de alimentos é garantido. Nesse caso, não apenas o país se tornará autossuficiente, como também será possível exportar. A situação atual é preocupante: com o uso excessivo de fertilizantes químicos, a consequente proliferação de pragas é combatida com pesticidas potentes, que poluem ainda mais o solo e criam as condições para novas pragas e doenças. Em alguns anos, não se sabe que grandes danos poderemos sofrer. Por isso, Meishu-Sama afirma que é urgente divulgar os princípios da Agricultura Natural e se empenha em sua difusão. Nesse caso, o Johrei acelera a purificação do solo, e os resultados são mais rápidos. No entanto, mesmo sem o Johrei, os efeitos se manifestam. Por isso, ele incentiva que isso seja divulgado o mais rápido possível a todos os agricultores do país, como uma questão distinta da fé.
+
+A importação de mais de vinte milhões de koku, convertida em dinheiro, chega à cifra colossal de mais de cem bilhões de ienes, representando um enorme prejuízo para a economia nacional. Se todos os agricultores praticarem a Agricultura Natural, em cinco anos, um aumento de 50% na produção é garantido, o país se tornará autossuficiente em alimentos e o problema econômico nacional será solucionado.
+
+Acredito que apenas com os pontos acima expostos, a solução para a pobreza se torna compreensível. No entanto, sob uma perspectiva espiritual, podemos dizer o seguinte: o fato de o ser humano sofrer com a pobreza também se deve a máculas espirituais. Quando a pessoa se purifica, ela deixa de sofrer com a pobreza. Ao viver uma vida material como ser humano, a primeira coisa a se reconhecer é a gratidão ao Céu e à Terra. Quando se reconhece essa graça, se agradece e se passa a utilizar os bens materiais de forma correta e produtiva, dedicando-se ao bem da sociedade e do Caminho, inevitavelmente se sai da condição de pobreza. Os fiéis da Igreja Messiânica Mundial são abençoados com a oportunidade de salvar pessoas e servir à Obra Divina, acumulando virtudes. Com isso, sem que percebam, recebem uma misteriosa e abundante proteção no campo financeiro, conseguem sair da pobreza e, sem buscar, recebem cada vez mais. Existem inúmeros exemplos disso, mas, como é algo que só quem vivencia pode compreender, abstenho-me de discorrer mais sobre o tema aqui.
+
+◇ ◇
+
+Expliquei de forma geral a solução para a "doença, pobreza e conflito", e creio que os senhores puderam ter uma ideia geral. Em uma palavra, as soluções até hoje estavam todas equivocadas em seus fundamentos, limitando-se a tentar suprimir temporariamente os fenômenos manifestados. Como a causa fundamental não era eliminada, a infelicidade nunca cessava. Seja no tratamento sintomático da medicina, no combate ao crime, nas leis para prevenir a guerra, no auxílio aos pobres ou nas diversas obras sociais, tudo não passa de uma supressão temporária, como aplicar uma pomada em um furúnculo. Se não surgir uma sociedade onde o crime não possa ocorrer, uma sociedade que não necessite de obras sociais, não será a verdadeira solução. Com a eliminação das máculas espirituais através do Johrei da Igreja Messiânica Mundial e a purificação do sangue impuro do corpo humano, nascerá um mundo sem doenças, e todos os infortúnios cessarão. A causa de tudo o que é abominável é o sangue impuro no corpo, e a causa que o gera são os medicamentos. Divulgar isso ao mundo é a grande missão da Igreja Messiânica Mundial e o alicerce para a construção do Paraíso Terrestre. E a única pessoa no mundo que compreendeu isso é Meishu-Sama.
+
+### O Fim do Mundo
+
+Acredito que, com o que foi exposto até aqui, a essência da solução para a doença, a pobreza e o conflito pregada pela Igreja Messiânica Mundial tenha sido, em linhas gerais, compreendida. No entanto, há uma razão profunda pela qual algo de tamanha importância não foi compreendido pela humanidade até hoje, e por que, por milhares de anos, cometeu-se um erro terrível, que só agora vem sendo revelado por Meishu-Sama, da Igreja Messiânica Mundial. Isso se deve à Providência Divina do Deus Supremo, que criou e governa este universo. O objetivo de Deus Supremo, desde a criação do universo há milhões de anos, sempre foi a "construção do Paraíso Terrestre". Todos os acontecimentos até hoje foram parte do processo em direção a esse objetivo final. Mesmo os eventos que, aos olhos humanos, pareciam desnecessários, ocorreram por necessidade, sob o profundo desígnio de Deus. E, para a realização desse objetivo, Ele utiliza os seres humanos. Este é o significado do nascimento do homem neste mundo. Ao refletirmos profundamente sobre isso, compreendemos a magnitude da responsabilidade humana.
+
+Nota: "Deus Supremo" é, em termos filosóficos, a "Vontade Cósmica", o "Absoluto", o "Criador" de todas as coisas, o Deus fundamental do universo. O "Pai Celestial" de quem Cristo falou e "Jeová" são o mesmo Deus.
+
+Qual foi a razão para o longo período de sofrimento e maldade da história até hoje? Foi porque o Mundo Espiritual se encontrava, por assim dizer, no Mundo da Noite, uma era em que a luz do sol da verdade estava oculta. Por isso, o ser humano não conseguia alcançar a iluminação da verdade, não conseguia tocar na essência das coisas e continuou tateando no escuro, no mundo das trevas. Por ter sido derrotado pelos espíritos malignos, o mal se alastrou e o mundo mergulhou no caos. Isso também ocorreu sob a profunda vontade de Deus Supremo, e foi durante essa Era da Noite que a cultura material atingiu um desenvolvimento surpreendente. O atrito e a luta entre o bem e o mal foram uma grande força propulsora para o progresso da cultura, e a cultura material é como a fundação para a construção do Paraíso Terrestre. Durante o longo período da noite, para a realização do objetivo de construir o Paraíso Terrestre, Deus Supremo deu a cada ser humano uma missão e características especiais, fazendo-os renascer e morrer repetidamente neste mundo. Enquanto os fazia sofrer no mundo do mal, Ele desenvolveu a cultura material e forjou suas almas, preparando-os para a construção do Paraíso Terrestre.
+
+Contudo, se o mundo de maldade e sofrimento continuar, a humanidade perecerá. Por isso, finalmente, o tempo determinado por Deus chegou. Em Seu grande amor, Deus Supremo está mostrando Seu poder à humanidade para que ela conheça Sua existência e a exorta ao arrependimento. Ele porá um fim ao mundo do mal e o substituirá pelo mundo do bem. Estamos exatamente nesse período de transição. É o alvorecer da verdade, que a humanidade conhece pela primeira vez em dezenas de milhares de anos, uma grande manhã, o momento que antecede o advento do mundo ideal, tão esperado por toda a humanidade. Cristo disse: "O fim do mundo virá" e "O Reino dos Céus está próximo". Buda disse: "Após a extinção do budismo, virá a era de Miroku". Essas foram as profecias sobre a transição do Mundo da Noite para o Mundo do Dia que ocorre hoje.
+
+A chegada do Mundo do Dia significa que, no Mundo Espiritual, a luz divina aumenta sua intensidade a cada dia e, consequentemente, o elemento fogo (kaso) aumenta drasticamente, tornando o Mundo Espiritual mais claro. Em termos do corpo humano, até agora, como estávamos no Mundo da Noite, a quantidade de elemento fogo era pequena e, portanto, não havia força suficiente para purificar completamente as toxinas. Por isso, quando as pessoas adoeciam, não havia outro método senão solidificar as toxinas, e foi inevitável que a terapia solidificante se desenvolvesse. No entanto, hoje, com a transição do Mundo Espiritual, o elemento fogo aumenta, e o poder de dissolução das toxinas se torna mais forte. Por isso, o número de doentes aumenta, e a terapia solidificante perde sua eficácia. A razão pela qual os medicamentos perderam sua eficácia nos últimos anos também pode ser compreendida por isso. De agora em diante, a purificação se tornará cada vez mais forte a cada dia, e inevitavelmente chegará o momento em que as toxinas do corpo se dissolverão de uma só vez, e os medicamentos se tornarão completamente ineficazes.
+
+No futuro, haverá uma grande purificação mundial em todos os aspectos. Será a purificação dos pecados e máculas acumulados por milênios, uma purificação de uma magnitude que a humanidade jamais experimentou. Com ela, tudo o que se desviou da verdade do Mundo da Noite, tudo o que pertence ao mal, tudo o que tem muitas máculas — seja na academia, na filosofia, no indivíduo ou na sociedade — será completamente purificado. Isso se manifestará não apenas como doenças, mas também como fome, guerra e calamidades de vento, água e fogo. Este é o "Juízo Final" e o "Batismo de Fogo" de que Cristo falou. Em outras palavras, antes que uma casa nova seja construída, a antiga deve ser demolida. Contudo, aqueles com poucas máculas, aqueles que serão úteis na construção do novo mundo, serão preservados.
+
+Como não se sabe quantos sacrifícios haverá, para salvar o maior número possível de pessoas dessa crise e minimizar o número de vítimas, Deus estendeu Sua mão salvadora à humanidade. O advento da Igreja Messiânica Mundial é essa mão. A obra "A Criação da Civilização", que será publicada em breve, é tanto uma advertência de Deus sobre este Juízo Final quanto uma corda de salvação. Cristo disse: "E este evangelho do reino será pregado em todo o mundo, para testemunho a todas as nações, e então virá o fim". Meishu-Sama afirma que este "evangelho do reino" é a obra "A Criação da Civilização", o que nos permite ter uma ideia aproximada do tempo. O cristianismo profetiza a "Vinda do Messias", e o budismo fala da "Descida de Miroku". Meishu-Sama não diz "Eu sou o Messias", mas, para construir um Paraíso Terrestre isento de doença, pobreza e conflito, ele está manifestando um poder de salvação de uma magnitude que a humanidade jamais experimentou e realizando a grande obra de salvação. Ele afirma: "Meu objetivo é a salvação da humanidade, portanto, cada um dos meus atos, cada um dos meus movimentos, não pode se desviar dessa linha".
+
+O que foi dito até aqui pode soar excessivamente fantástico para quem ouve pela primeira vez, algo em que é impossível acreditar. No entanto, ao meditar sobre as palavras de Meishu-Sama, observar atentamente Sua obra e vivenciar pessoalmente os milagres, a verdade da Igreja Messiânica Mundial se tornará compreensível. E se, com isso em mente, observarem as mudanças do mundo, verão que a purificação já está se intensificando em todos os aspectos. De agora em diante, as mudanças no mundo se acelerarão ainda mais, e a purificação se tornará mais intensa a cada dia. Assim, compreenderão que esta não é uma era comum. Contudo, o "Fim do Mundo" é o fim do "Mundo da Noite", a purificação da cultura do mal. É uma grande purificação para a transição para um mundo onde o mal perece e o bem prospera. Para aqueles que conhecem a Deus, mudam seus corações e se apegam a Ele, o "Juízo" é, na verdade, uma grande salvação.
+
+### A Grande Construção
+
+Conforme exposto, uma grande destruição está prestes a ocorrer no mundo, mas é para a construção de uma nova civilização. Agora é o tempo em que a destruição e a construção ocorrem simultaneamente. A destruição é uma autopurificação que ocorre naturalmente sobre o que tem máculas. A construção, por sua vez, já está ocorrendo na mente e no corpo daqueles que foram salvos pelo poder de Deus. Trata-se de formar pessoas qualificadas para se tornarem cidadãos do Paraíso, sãos de corpo e alma. Para isso, cada um deve transformar seu modo de pensar e de viver, alinhando-se com a civilização revelada por Deus. Entre os fiéis da Igreja Messiânica Mundial, gradualmente, lares radiantes, saudáveis, prósperos e harmoniosos, livres do sofrimento da doença, da pobreza e do conflito, estão sendo construídos. Milagres como os operados por Cristo são realizados diariamente pelas mãos dos fiéis, e a obra de salvação está em andamento. O fundamento da fé é a "sinceridade", e a essência da Igreja Messiânica Mundial é o "amor altruísta". Meishu-Sama nos ensina: "Para ser feliz, é preciso fazer os outros felizes. A verdadeira felicidade é a dádiva de Deus recebida através disso". Praticar a obra de salvação com o poder do espírito divino é construir um mundo de felicidade para si e para os outros.
+
+O Paraíso Terrestre é também o "Mundo da Verdade, do Bem e do Belo". Meishu-Sama afirma: "A verdade e o bem são de natureza espiritual, mas o belo se manifesta na forma e tem a função de elevar naturalmente o mundo humano". Ele também diz que no Paraíso Terrestre a arte se desenvolverá esplendidamente.
+
+Meishu-Sama conduz toda a Sua obra sagrada de acordo com as revelações divinas. Como primeiro passo para a construção do Paraíso Terrestre, ele está criando protótipos do paraíso do belo. Isso porque a Providência Divina se realiza sempre através de "protótipos". Quando o protótipo é concluído, ele se expande para o mundo. Com esse intuito, há vários anos Meishu-Sama escolheu locais de beleza cênica em Hakone e Atami e tem avançado na construção dos protótipos do Paraíso Terrestre. Recentemente, o de Hakone foi concluído. Trata-se de um jardim de uma beleza sem igual no mundo, que une a beleza natural e a artificial, e um Museu de Arte a ele associado. Na construção desses projetos, Meishu-Sama, seguindo as revelações divinas, dá instruções pessoalmente sobre tudo, desde o projeto arquitetônico e a seleção das obras de arte até cada árvore e cada folha do jardim. O objetivo do Museu de Arte é apresentar a arte oriental ao mundo e, através do contato com a arte de alto nível, promover a elevação da alma, o que, segundo ele, é também uma forma de salvação. Originalmente, cada país tem sua própria filosofia e cultura distintas e a missão de contribuir para a cultura mundial. Ele afirma que a missão do Japão é contribuir para a cultura proporcionando alegria à humanidade através do belo. Isso se torna evidente ao observarmos a beleza das paisagens do Japão, a sensibilidade do povo japonês para o belo e a excelência mundial de sua arte antiga. No futuro, há planos de construir protótipos do Paraíso Terrestre e museus de arte associados também em Atami e Kyoto. Em termos espirituais, quando esses protótipos estiverem concluídos, eles se expandirão para o mundo, e o mundo se tornará um paraíso.
+
+Aqueles que entram em contato com a grandiosidade e a profundidade dos projetos de construção de Meishu-Sama, mesmo não sendo fiéis, sentirão que ele não é uma pessoa comum.
+
+### O Exercício do Poder Divino
+
+Finalmente, explicarei de onde vem e como é exercido o misterioso "poder" que Meishu-Sama manifesta e que os fiéis herdam para realizar milagres surpreendentes. No entanto, como se trata de algo extraordinário e sem precedentes, pode ser difícil de acreditar. Peço que leiam com a mente aberta.
+
+Há mais de vinte anos, Meishu-Sama, por inspiração divina, recebeu uma revelação e tomou conhecimento da transição do Mundo Espiritual. Ao mesmo tempo, através de um evento místico, ele passou a concentrar e irradiar intensamente o poder espiritual — o elemento fogo — emanado do Deus Supremo do Mundo Espiritual. Este é um assunto verdadeiramente místico e de difícil compreensão, mas há pessoas que, ocasionalmente, veem uma luz emanando da palma da mão de Meishu-Sama, e houve até mesmo uma fotografia que registrou ondas de luz sendo emitidas de seu corpo. De qualquer forma, o simples fato de estar na presença de Meishu-Sama, ou seja, de ter uma audiência com ele, já é suficiente para receber uma purificação ou sentir o corpo mais leve. Aqueles que se aproximam dele sentem um calor, como se estivessem envoltos em luz.
+
+Para utilizar esse poder divino na obra de salvação, ele se vale principalmente da escrita. Isso porque é difícil para o espírito se comunicar com as pessoas através do espaço, e, nesse caso, a escrita é o melhor intermediário.
+
+Como método para transmitir esse poder às pessoas, Meishu-Sama escreve três tipos de caligrafias sagradas: Hikari, Komyo e Daikomyo, e nelas infunde seu poder divino. Aqueles que passam por um período de formação de três dias recebem uma dessas caligrafias como um amuleto sagrado, que usam pendurado no pescoço, junto ao peito. A partir desse momento, passam a ser capazes de manifestar o poder de curar doenças. Isso ocorre porque essa caligrafia está conectada a Meishu-Sama por um cordão espiritual, e a luz enviada através desse cordão é irradiada pelas mãos do fiel. Ao impor as mãos, uma luz infinita é emanada.
+
+Uma analogia com o rádio ajuda a compreender melhor. Todos os sons se propagam pelo mundo como ondas sonoras, mas, para ouvi-los em diferentes lugares, eles são transmitidos por um microfone a partir de uma estação de rádio. E, para captá-los, instala-se um aparelho de rádio. Como a ciência nos ensina este princípio, nós o compreendemos bem. No entanto, se tentássemos explicar isso a um povo primitivo, sem desenvolvimento cultural, eles não acreditariam. A era atual ainda não avançou para a ciência espiritual, e, por isso, a existência e a ação de partículas e ondas espirituais, ainda mais sutis que o átomo, são desconhecidas. Trata-se de uma força que poderíamos chamar de cósmica, cuja fonte é o mais elevado Mundo Espiritual, o poder emanado pelo Deus Supremo que governa o grande universo. Esse poder se propaga por todo o mundo como ondas espirituais, e tudo no universo vive por meio dele; não há nada que não se beneficie de sua graça. No entanto, para purificar o mundo atual, completamente maculado, e construir um mundo resplandecente chamado Paraíso Terrestre, é necessário que a purificação ocorra rapidamente, por um método extraordinário. Para isso, uma onda espiritual especialmente poderosa — o elemento fogo — atua. O poder divino, através do corpo de Meishu-Sama, é emitido como ondas espirituais de grande intensidade, assim como fortes ondas sonoras são emitidas de uma estação de rádio. Para distribuir e permitir que cada fiel irradie essa onda espiritual, ele utiliza as caligrafias "Hikari". Receber o amuleto sagrado é como instalar um rádio em cada casa para ouvir a transmissão. As ondas sonoras são captadas por uma máquina, mas para captar as ondas espirituais, a escrita é o melhor meio. No momento em que o fiel impõe as mãos, a luz emanada por Meishu-Sama chega ao amuleto através do cordão espiritual e, passando pelo corpo do fiel, é irradiada pela palma de sua mão. Há pessoas que viram, em uma sala escura, um halo de luz emanando do corpo de um fiel, e outras que viram as ondas de luz sendo emitidas da palma da mão durante o Johrei.
+
+É inútil tentar compreender tais coisas pela lógica. Para aqueles que buscam sinceramente, não há outro caminho senão participar da formação da Igreja Messiânica Mundial, receber o amuleto sagrado e vivenciar a experiência por si mesmos.
+
+O fato de que nossa Igreja, com apenas cinco anos de fundação, já conta com trezentos a quatrocentos mil fiéis, e que esses fiéis, em todos os lugares, cheios de glória e alegria por serem membros da construção do Paraíso Terrestre, curam zelosamente os doentes e salvam vidas, comprova quão grandioso é este poder.
+
+Além disso, ao lerem os relatos de graças alcançadas publicados no jornal Glória, os senhores compreenderão que, entre os fiéis, há inúmeras pessoas que vivenciaram milagres. Milagre é a ocorrência do que seria impossível. Há incontáveis relatos de agradecimentos por proteções milagrosas que desafiam a lógica moderna, como uma pessoa que caiu de uma altura de vários metros e, ao mentalizar Meishu-Sama, não sofreu um único arranhão; ou alguém que foi atropelado por um caminhão e saiu ileso; ou ainda, durante um incêndio, o vento mudou de direção com o Johrei, evitando que as chamas se alastrassem. Quanto mais se aprofunda, mais se compreende a grandiosidade deste poder de salvação.
+
+Compreende-se, assim, que a Igreja Messiânica Mundial é a religião dos milagres, e que somente com este poder a grande obra de salvação da humanidade se torna possível.
+
+### Conclusão
+
+A perseguição é inerente à religião, e quanto mais grandiosa a religião, mais intensa a perseguição. A crucificação de Cristo é o exemplo máximo, mas as provações de Honen, Shinran e Nichiren também o são. Isso ocorre porque, no Mundo Espiritual, a batalha entre o bem e o mal continuará até o estabelecimento do Mundo do Dia. Para os espíritos malignos, a aproximação do mundo da luz é motivo de grande pânico. Por isso, quanto mais forte a luz de uma religião, mais intensa a perseguição. É de conhecimento público que nossa Igreja, desde sua fundação, sofreu repetidas perseguições que estamparam as manchetes dos jornais. Ao refletirmos sobre essa lógica, tudo se torna claro. No entanto, o fato de que, mesmo em meio às perseguições, ela continua a se desenvolver de forma extraordinária, demonstra a grandiosidade de seu poder. Até o dia da construção do Paraíso Terrestre, haverá tempestades e adversidades, mas elas também ocorrem sob a Providência Divina, e o plano de Deus Supremo avançará sem o menor desvio até a realização de seu objetivo final. O poder dos espíritos malignos será revertido no último instante.
+
+Apresentei um breve panorama da Igreja Messiânica Mundial, mas peço desculpas por não ter conseguido expressar plenamente minhas intenções. Espero que, a partir desta oportunidade, os senhores entrem em contato direto com a Igreja Messiânica Mundial, recebam Johrei e vivenciem seu poder. E que, através das palestras de formação e de outras publicações, aprofundem seus estudos, compreendam a era em que vivemos, participem da honrosa Obra Divina de construção do Paraíso Terrestre e alcancem a verdadeira felicidade.
+
+Concluindo esta obra, peço humildemente perdão a Meishu-Sama por minhas insuficiências e deponho minha pena.
+
+Guia da Igreja Messiânica Mundial (Para os que desejam ingressar no exterior)
+Reedição
+Publicado em 11 de agosto de 1953 (Showa 28)
+A6 83P
+Autora: Higuchi Kiyoko
+Editora: Departamento de Publicações da Sekai Kyusei Kyo
+Gráfica: Atami Shoji Co., Ltd.
+
+---
+
+# Coletânea de Teses do Reverendo Okada Jikanshi
+
+**Categoria:** sasshi | **Ano:** 昭和28(1953)年11月1日 | **Fonte:** 浄霊法講座
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-11-01
+
+## Coletânea de Teses do Reverendo Okada Jikanshi
+### Curso sobre o Método do Johrei (I)
+*Publicado em 1º de novembro de 1953 (Showa 28), no primeiro número do “Curso sobre o Método do Johrei”*
+
+### Prefácio
+Recentemente, ao recebermos os Ensinamentos de Meishu-Sama, sentimos de modo especial a importância do Johrei. Nesse sentido, compilamos excertos dos Ensinamentos de Meishu-Sama relativos ao Johrei e os publicamos sob o título de “Curso sobre o Método do Johrei”.
+
+### Um - O que é a doença?
+*Extraído de “A Terapia Revolucionária da Tuberculose”*
+
+A medicina, que considera o corpo humano meramente como matéria e, com base nisso, tem desenvolvido suas terapias materialistas, possui uma falha fundamental. Para expor qual é o seu maior equívoco, descreverei o processo de forma ordenada, e, para tanto, o meio mais claro é tomar como exemplo uma doença real. Comecemos, pois, pela doença que praticamente nenhum ser humano deixa de experimentar: o resfriado.
+
+Acontece que, até hoje, a causa do resfriado permanece desconhecida para a medicina. As mais recentes e tímidas descobertas apontam para uma contaminação pelo ar por meio de vírus ou para causas alérgicas, teorias que, sob nossa ótica, são tão pueris que não merecem ser levadas em consideração. Não há dúvida de que, em um futuro próximo, tais hipóteses serão consideradas irrelevantes.
+
+Em primeiro lugar, a própria medicina reconhece que o ser humano possui, de forma congênita, diversas toxinas. Por exemplo, além daquelas relacionadas à varíola, ao sarampo e à coqueluche, certamente existem muitas outras ainda desconhecidas. Ocorre que, através das funções fisiológicas naturais, o organismo procura expelir essas toxinas para o exterior. A esse fenômeno, denominamos ação purificadora.
+
+Nesse processo, as toxinas primeiramente se acumulam em diversas partes do corpo. Via de regra, elas se concentram em maior quantidade nos locais onde há maior atividade nervosa. No ser humano, essa atividade é mais intensa na parte superior do corpo, sobretudo nas áreas mais próximas ao cérebro. Enquanto estamos despertos, nossos braços e pernas podem repousar, mas o cérebro, os olhos, os ouvidos, o nariz e a boca jamais descansam, nem por um instante. Por conseguinte, o mesmo se aplica ao acúmulo de toxinas, que se concentram principalmente nos ombros, no pescoço, nos gânglios linfáticos, na região do bulbo e das glândulas parótidas e, evidentemente, no cérebro.
+
+Com o passar do tempo, as toxinas acumuladas nessas regiões vão se solidificando gradualmente. Quando atingem um certo limite, inicia-se um processo de eliminação. É neste ponto que podemos vislumbrar a graça da Natureza. E por que digo isso? Porque essa solidificação prejudica a circulação sanguínea, causando enrijecimento dos ombros e do pescoço, dores de cabeça, sensação de peso na cabeça, diminuição da acuidade visual e auditiva, obstrução nasal, perda do olfato, piorreia, enfraquecimento dos dentes, falta de ar, debilidade nos braços e pernas, dores lombares, edemas, entre outros sintomas que reduzem a capacidade de ação do indivíduo. Em decorrência disso, o ser humano fica impossibilitado de cumprir sua missão primordial. Foi por essa razão que o Criador concebeu a doença, este magnífico processo de purificação.
+
+Se o sofrimento decorrente da eliminação de toxinas é o que chamamos de doença, então a própria doença constitui um processo de purificação do sangue, sendo algo da mais alta necessidade para a saúde e, portanto, a maior de todas as bênçãos de Deus. Por isso, se a doença fosse erradicada da humanidade, o ser humano se enfraqueceria progressivamente e talvez chegasse à extinção.
+
+Contudo, ao ouvir-me dizer que construirei um mundo isento de doenças, muitos poderão pensar que há uma contradição. Na verdade, trata-se de algo fundamentalmente distinto. É evidente que, uma vez que o ser humano se torne isento de toxinas, a ação purificadora não será mais necessária e, consequentemente, as doenças desaparecerão. É neste sentido que buscarei, a partir de agora, expor minhas ideias da forma mais clara e aprofundada possível.
+
+Retomando o assunto, denominei o processo de eliminação de toxinas solidificadas de ação purificadora. Quando contraímos um resfriado, o primeiro sintoma a surgir é a febre. A Natureza eleva a temperatura do corpo para dissolver e liquefazer as toxinas solidificadas, facilitando sua eliminação. Esse veneno liquefeito penetra rapidamente nos pulmões, em uma ação verdadeiramente misteriosa. Por exemplo, quando dissolvemos as toxinas solidificadas através do Johrei, elas penetram nos pulmões sem demora, atravessando músculos e até mesmo ossos. De qualquer modo, quando há apenas uma ou duas concreções tóxicas (doravante denominadas “nódulos de toxinas”) localizadas no corpo, os sintomas costumam ser leves, mas se tornam mais graves à medida que o número de locais afetados aumenta. É por essa razão que um resfriado que parecia leve pode se agravar progressivamente.
+
+Como mencionado, o veneno liquefeito penetra rapidamente nos pulmões. Quando está diluído, é imediatamente expelido sob a forma de catarro. Quando está mais concentrado, permanece temporariamente nos pulmões, aguardando a ação de bombeamento da tosse para ser expelido através da traqueia. O fato de o catarro invariavelmente surgir após a tosse torna isso evidente, e o mesmo princípio se aplica à coriza que se segue a um espirro.
+
+Ademais, as dores de cabeça, de garganta, a otite média, a linfadenite e as dores nas articulações dos braços, das pernas e nos gânglios inguinais ocorrem porque os nódulos de toxinas presentes nessas áreas se dissolvem e começam a se mover em busca de uma saída, irritando os nervos. O veneno liquefeito pode se apresentar em diferentes concentrações: o mais denso transforma-se em escarro, coriza e diarreia, enquanto o mais diluído torna-se aquoso e é eliminado através do suor noturno ou da urina. Assim, a ação purificadora ocorre da maneira mais natural e racional possível, e não podemos deixar de nos maravilhar ante a obra divina do Criador.
+
+Ora, o Criador, ou seja, Deus, não criaria o ser humano para depois lhe infligir algo como a doença, que o faz sofrer e impede suas atividades. A condição natural do homem deveria ser a de uma saúde constante. Contudo, por meio de pensamentos errôneos, o ser humano gera e acumula toxinas, o que torna inevitável a necessidade de sua eliminação. Se a doença é esse processo, então, no caso de um resfriado, bastaria abster-se de qualquer tratamento e deixar a Natureza agir para que a purificação ocorresse, a cura se processasse sem percalços e a saúde fosse fortalecida. Por essa lógica, o ser humano deveria se resfriar o máximo possível, pois assim, doenças abomináveis como a tuberculose desapareceriam por completo.
+
+Entretanto, por algum motivo, em algum momento da história, esse processo de purificação passou a ser interpretado de maneira diametralmente oposta, o que é um grande mistério. Assim, ao adoecer, as pessoas se empenham ao máximo para deter a purificação. É lamentável, mas o sofrimento da purificação foi confundido com o sofrimento do agravamento da doença. Por isso, temendo a febre, busca-se baixá-la. Ao fazê-lo, a dissolução dos nódulos de toxinas é interrompida, e todos os sintomas, a começar pela tosse e pelo catarro, são aliviados. Isso cria a falsa impressão de que a doença está sendo curada.
+
+Para ser mais claro, o que se faz é tentar solidificar novamente as toxinas que haviam começado a se dissolver. E os métodos para essa solidificação são justamente os tratamentos médicos. Aplicações de gelo, compressas, medicamentos, injeções — tudo tem esse propósito. No momento em que as toxinas se solidificam por completo, os sintomas desaparecem, e a pessoa se alegra, pensando estar curada. Mal sabe ela que isso equivale a imobilizar as mãos de alguém que estava prestes a fazer uma limpeza. Os fatos comprovam essa verdade. Diz-se com frequência que um resfriado “se complicou”, mas isso acontece porque, de um lado, o corpo tenta purificar, e de outro, o tratamento tenta impedir essa purificação. O atrito entre a purificação e a não purificação prolonga a doença. Isso também fica claro ao observarmos que, mesmo após um resfriado ser curado, ele invariavelmente retorna após algum tempo.
+
+Portanto, em última análise, a medicina não é um método para curar doenças, mas sim um método para não as curar, apenas adiando o problema. A verdadeira cura, por sua vez, consiste na eliminação das toxinas para o exterior, purificando o interior do corpo até que a causa da doença seja totalmente erradicada. Sendo assim, a autêntica arte médica consiste em, quando a purificação se inicia, acelerar a dissolução dos nódulos de toxinas e promover sua máxima eliminação para fora do corpo. Fora isso, não existe terapia verdadeira.
+
+### Dois - A Gênese dos Micróbios
+*Extraído de “A Terapia da Tuberculose pela Fé”*
+
+Se, conforme exposto no capítulo anterior, os bacilos da tuberculose surgem de forma natural, tentarei descrever de onde e através de que processo eles se originam, utilizando uma abordagem teórico-física e teórico-psicológica para que todos possam compreender. Contudo, por se tratar do espírito, algo invisível, a tarefa não é fácil, como fica evidente pelo fato de que ninguém até hoje sequer tentou fazê-lo. Talvez isso se deva à dificuldade de comprovar os fatos. Eu, no entanto, apresento uma teoria fundamentada em fatos e, por isso, mesmo que a ciência materialista se oponha veementemente, será impossível refutá-la.
+
+Para tanto, é preciso conhecer, antes de mais nada, a constituição do mundo. Apesar de todo o avanço da ciência atual, esse conhecimento ainda não foi alcançado. Eu, por outro lado, irei expô-lo em profundidade. Se o leitor se dispuser a ler este texto com a mente serena, não apenas se surpreenderá com a grandiosidade desta descoberta, mas também inevitavelmente despertará para o equívoco da medicina.
+
+Pois bem, a constituição deste mundo se dá em três planos: o Mundo Material, de uma dimensão; o Mundo Atmosférico, de duas dimensões; e o Mundo Espiritual, de três dimensões. O conhecimento atual, contudo, só alcançou o primeiro e o segundo planos. A ciência moderna foi edificada tendo como base apenas esses dois mundos, e aí reside sua maior falha. Isso porque o terceiro plano, o mundo tridimensional que até então era tido como inexistente, é, na verdade, a fonte de toda a força do Universo. É por meio dessa força que todas as coisas são geradas, se desenvolvem e evoluem infinitamente.
+
+No entanto, os cientistas, ignorando esse fato, caíram no erro da supervalorização da ciência, acreditando que tudo pode ser resolvido por meio do conhecimento atual. Essa atitude os levou a negar o Mundo Espiritual e a criar a medicina deficiente que temos hoje. O resultado, como já expliquei de diversas formas, é que a tuberculose não diminui, pois os tratamentos se limitam a suprimir os sintomas manifestos, sendo incapazes de curar a doença em sua raiz.
+
+Uma vez que a medicina se desviou de seu fundamento, quanto mais avança, mais se perde em caminhos secundários, apegando-se a questões periféricas e atribuindo a causa de todas as doenças aos micróbios. Prova disso é que, ao tentar solucionar uma doença “A”, surgem as doenças “B” e “C”, o que significa que apenas a forma da doença muda — são as chamadas doenças secundárias.
+
+Prossigamos, então, com a nossa tese. Qual é a relação entre o Mundo Espiritual e o ser humano? Naturalmente, sendo o homem uma existência que também pertence a esses três planos, seu corpo físico é matéria, e a água e o ar que o compõem também o são. Contudo, é o espírito invisível a verdadeira essência do ser humano, e é ele a fonte geradora das doenças. A medicina materialista, por sua vez, acredita que a doença pertence exclusivamente ao corpo físico, atribuindo todas as suas causas a ele e à invasão de micróbios externos — a chamada teoria do inimigo externo. Nossa visão, em contrapartida, é a da teoria do inimigo interno. Em oposição à teoria da infecção, defendida pela medicina, nós propomos a teoria da geração espontânea. A teoria externa pode ser compreendida por meio de aparelhos, mas a interna é de difícil compreensão, o que levou ao estado de ilusão em que nos encontramos hoje. Explicarei isso detalhadamente a seguir.
+
+O que é, afinal, o espírito humano? Em termos científicos, é uma matéria de densidade extremamente elevada e rarefeita, composta por partículas tão infinitesimais que nem mesmo o mais avançado microscópio eletrônico seria capaz de visualizá-las. Apesar disso, como mencionado anteriormente, o espírito é a essência do ser humano, algo de um mistério e uma profundidade inimagináveis.
+
+Por essa razão, a origem da doença está no surgimento de uma mácula na totalidade ou em parte desse espírito. Existem duas causas para essa mácula. A primeira são os pecados e as impurezas que o ser humano comete; a segunda são as toxinas dos medicamentos. A primeira, os pecados e as impurezas, pertence, evidentemente, à lei de causa e efeito e se origina de atos malignos, como fazer os outros sofrerem ou corromper a sociedade. A segunda, as toxinas dos medicamentos, é uma combinação de toxinas congênitas e adquiridas, mas deixarei esse tema para outro capítulo. Aqui, me deterei sobre a mácula em si.
+
+A essência da mácula é semelhante à do céu: pode-se dizer que é um aglomerado de elemento-água. Este pode ser puro ou impuro. O puro é belo, como as nuvens cirrocumulus ou estratocumulus em um dia de céu claro. Já o impuro, inevitavelmente, precisa ser dissipado pela ação do vento e da chuva. Essa é a ação purificadora do firmamento, e as doenças humanas são análogas a ela. A medicina, contudo, por desconhecer esse princípio, interrompe essa valiosa ação purificadora. Com isso, a mácula impura vai se tornando cada vez mais densa e, nesse processo, um tipo de bactéria se desenvolve. Trata-se de algo semelhante a uma planta inorgânica que, com o tempo, cresce e se transforma em matéria orgânica. Essa matéria orgânica é o ovo do micróbio. Com o tempo, esse ovo se torna um ser adulto, com individualidade, e só então se torna visível ao microscópio. Compreendido esse princípio, o mistério do vírus também se desfaz. O vírus nada mais é do que o filhote do micróbio, que ainda não se tornou adulto. Por isso é invisível ao microscópio, mas, de fato, ele cresce, torna-se um ser maduro e causa doenças, o que já é reconhecido pela ciência.
+
+Diante do exposto, fica claro que, para curar a doença em sua raiz, não há outro método senão eliminar a mácula, que é a fonte geradora dos micróbios. Sendo assim, o leitor poderá reconhecer que este princípio está muito acima do nível da ciência atual. Mas, então, como eliminar essa mácula? Foi o próprio Deus quem me ensinou este método e, ao mesmo tempo, me concedeu o poder para realizá-lo. É por isso que venho alcançando os resultados maravilhosos que podem ser vistos no apêndice deste livro.
+
+Até aqui, avancei até a raiz da patologia em minha explanação. Gostaria de aprofundar ainda mais a análise, mas isso me levaria ao campo da religião, o que seria de difícil aceitação para terceiros. Por isso, neste espaço, procurarei explicar os fatos da maneira mais científica e compreensível possível.
+
+Sendo assim, o que significa, afinal, a eliminação da mácula? A explicação é a seguinte: quando o ministro posiciona a palma da mão em direção à parte afetada do paciente, uma espécie de onda de luz é irradiada de sua mão. O que é essa onda de luz? Para facilitar a compreensão, podemos dizer que é a essência do Sol, à qual denominei elemento-fogo. Assim como a essência do ar é o elemento-água, a essência da energia espiritual é o elemento-fogo. Evidentemente, trata-se de fogo, mas aquele que vemos e sentimos como quente é o corpo do elemento-fogo; o elemento-fogo a que me refiro é, na verdade, o espírito do fogo. Quando esse espírito do fogo é irradiado em direção à mácula do espírito humano, apenas as moléculas impuras dentro dela são incineradas. As moléculas correspondentes a essas cinzas são expelidas do corpo como excreções, enquanto as moléculas puras se misturam aos fluidos corporais. Dessa forma, a mácula, ou seja, a causa da doença, é eliminada.
+
+Mas como os membros de nossa Igreja adquirem a capacidade de irradiar esse elemento-fogo com poder curativo? Isso se deve à onda de luz que emana do amuleto sagrado que usam no pescoço. Esse amuleto contém ideogramas que eu escrevi, e existem três tipos: Luz, Luz Divina e Grande Luz Divina. É o Espírito de Deus Primordial (Jeová) que, através do meu corpo espiritual como intermediário, é transmitido ao amuleto, e do amuleto, através da palma da mão do membro, é irradiado.
+
+Sei que, ao ouvir esta explicação, talvez não seja possível acreditar de imediato. Pode ser que alguns até sintam repulsa. Talvez pensem: “Como pode existir algo tão absurdo neste mundo? Isso é estelionato demais!”. Não considero essa reação descabida, pois, desde o início da história, nunca houve um precedente de um fenômeno tão suprafísico. Contudo, um fato é sempre um fato, e um único fato vale mais do que cem discussões. Em suma, o tempo celestial finalmente chegou, e Deus me confiou a grandiosa missão de salvar a humanidade. A revolução da medicina é o primeiro passo dessa missão. Compreendido isso, o que estou realizando não deveria parecer nem um pouco estranho.
+
+Este capítulo se tornou uma explanação bastante misteriosa, mas, na verdade, não há mistério algum. Trata-se de pura ciência. Portanto, se ao ler isto o leitor o considera misterioso, é porque o nível da ciência atual ainda é baixo. No futuro, quando ela avançar mais um ou dois patamares, certamente será compreendido com facilidade. Somente então o ponto de convergência entre ciência e religião será encontrado, e a verdadeira civilização nascerá. Hoje, todos proclamam que o objetivo da ciência é a busca da verdade. Na minha opinião, a verdade já foi descoberta, e este livro é a sua explanação.
+
+Mesmo após esta explicação, sei que ainda pode ser difícil acreditar. Mas, afinal, o que é a verdade? Em termos simples, é a própria realidade. O Sol que nasce no leste, o ser humano que nasce e morre, tudo isso é realidade e, portanto, verdade. Da mesma forma, a minha teoria, por mais misteriosa que pareça, não é um ideal nem algo fora da realidade. É a própria realidade. Há muito mais que eu gostaria de dizer, mas, como me afastaria cada vez mais da questão da tuberculose, encerrarei por aqui.
+
+### Três - A Verdade sobre a Saúde
+*Extraído de “O Método de Saúde Indicado por Deus”*
+
+Ao discorrer sobre a saúde, o primeiro ponto a ser compreendido é que sua verdadeira essência reside na adaptação e no respeito à Natureza. Diante disso, a primeira reflexão a se fazer é: qual foi o objetivo do Criador, ou seja, de Deus, ao criar o ser humano? Segundo nossa interpretação, foi o de construir um mundo pleno de Verdade, Bem e Belo. Sei que uma teoria tão grandiosa não é de fácil aceitação. É claro que não sabemos se tal mundo ideal levará dezenas ou centenas de milhares, ou mesmo milhões de anos para se concretizar. Contudo, ao observarmos o fato irrefutável de que, no passado, o mundo tem avançado e progredido passo a passo nessa direção, torna-se impossível negá-lo. A realidade é que Deus é espírito e o ser humano é matéria, e ambos, em mútua colaboração, promovem um progresso infinito. Nem é preciso dizer que o ser humano é o responsável por essa tarefa.
+
+Sendo assim, a responsabilidade do ser humano é, de fato, imensa, e a condição primordial para a execução dessa grande obra é a sua saúde. Nesse sentido, é natural que Deus tenha concedido a cada ser humano uma missão específica e a saúde necessária para cumpri-la. Pois, se a saúde for comprometida, o objetivo de Deus não poderá ser alcançado. Se partirmos desse princípio e refletirmos profundamente, concluiremos que a saúde é a condição original e normal do ser humano.
+
+No entanto, misteriosamente, o ser humano é facilmente acometido por doenças, ou seja, seu corpo se torna anormal. Se a causa fundamental desse fato for esclarecida e o corpo anormal for restaurado à sua condição normal, estaremos agindo de acordo com o objetivo de Deus.
+
+Sob essa ótica, o que descobrimos ao investigar a anormalidade do corpo humano? Descobrimos, acima de tudo, que ela se deve a uma violação das leis da Natureza. Portanto, a verdadeira medicina consiste em compreender a realidade dessa violação, corrigi-la e restaurar a condição normal. A possibilidade de tal restauração é o que define a medicina correta. Sendo assim, explicarei detalhadamente a seguir o que constitui essa violação da Natureza.
+
+Quando o ser humano nasce nesta terra, ele se alimenta inicialmente de leite materno ou de outros animais. Isso ocorre porque seus dentes ainda não nasceram e seu sistema digestivo é recém-formado e frágil. À medida que os dentes crescem e as funções corporais amadurecem, ele passa a ingerir alimentos adequados a essa nova fase. Existem inúmeros tipos de alimentos, cada um com seu sabor característico, e o corpo humano foi dotado do paladar para que possa se alimentar com prazer. Além disso, o ar, o fogo e a água existem na medida exata das necessidades da saúde humana. De fato, tudo é perfeitamente concebido.
+
+O próprio corpo humano, a partir do cérebro, gera a razão, a memória e as emoções; com as mãos, constrói objetos; com os pés, desloca-se livremente. Cabelos, pele, unhas, olhos, nariz, boca, ouvidos — tudo o que é necessário está perfeitamente provido. Acrescente-se a isso o fato de que o corpo inteiro, do rosto aos pés, é envolto pela pele, que expressa uma beleza particular. Mesmo em uma análise superficial, vemos a engenhosidade indescritível da Criação. Desde uma única flor, uma única folha, a beleza das paisagens, até o menor dos pássaros, animais, insetos e peixes, não podemos deixar de nos maravilhar com a obra divina. O ser humano, em especial, é a obra-prima do Criador. O sublime mecanismo da reprodução, que garante a preservação da espécie, está além de qualquer descrição.
+
+Sendo o corpo humano uma obra-prima tão grandiosa de Deus, a ocorrência de uma anomalia como a doença, que impede a atividade humana, deveria nos levar a refletir sobre o quão grave é o erro antinatural que estamos cometendo. O ser humano precisa, acima de tudo, refletir sobre essa questão.
+
+### Quatro - O Ser Humano é um Recipiente de Saúde
+*Extraído de “O Método de Saúde Indicado por Deus”*
+
+Desde a antiguidade, costuma-se dizer que o ser humano é um recipiente de doenças, mas não há afirmação mais equivocada do que esta. Nós a corrigimos, declarando que o ser humano é um recipiente de saúde. Isso porque, como mencionado no capítulo anterior, o ser humano foi originalmente criado para ser saudável.
+
+A realidade, no entanto, é que a doença parece ser inerente ao ser humano, um problema de solução impossível, a ponto de as pessoas terem se resignado a ela como uma fatalidade. De fato, uma vez que se adoece, a cura não é simples. A doença pode se prolongar, ou a pessoa pode adoecer com frequência, a ponto de, para alguns, o tempo de enfermidade superar o de saúde. Isso leva a crer que o corpo não passa de um recipiente de doenças, e foi a persistência dessa condição que provavelmente deu origem a tal expressão. A razão para isso é que a verdadeira natureza da doença era desconhecida, e era inevitável que tanto a doença quanto a morte fossem consideradas destinos inescapáveis. A resignação de Sidarta Gautama diante do nascimento, da doença, da velhice e da morte também se deve a isso. Fala-se hoje em medicina preventiva, mas isso me parece ser apenas um último recurso, nascido da incapacidade de curar facilmente uma doença já instalada. Pois, se a medicina tivesse capacidade absoluta de cura, a medicina preventiva sequer seria cogitada.
+
+Retornando ao tema principal, explicarei em que consiste o fator antinatural que é a causa das doenças. Em primeiro lugar, quando uma pessoa adoece, o único recurso utilizado são os medicamentos, e aí reside o erro primordial. Os medicamentos, na medicina oriental, são derivados de raízes, cascas de árvores e ervas; na ocidental, são extraídos de minerais e plantas. Isso é, em sua essência, antinatural.
+
+Pensem bem: os medicamentos, sem exceção, possuem sabores que o ser humano considera desagradáveis, como o amargo, o forte ou o ácido. A antiga expressão “algo para tirar o gosto do remédio” ilustra bem essa realidade. Devemos nos perguntar por que eles são tão difíceis de ingerir. A resposta é que Deus, por meio desse sabor, nos indica que são tóxicos e não devem ser consumidos. O ópio, um narcótico usado para aliviar a dor, é extraído da flor de papoula. Originalmente, a papoula foi criada por Deus para o deleite dos olhos humanos, e não para ser ingerida. A penicilina, um dos medicamentos em voga atualmente, tem como matéria-prima o musgo de plantas. Ora, o musgo também não foi criado para ser ingerido pelo homem, mas sim para embelezar pedras ou a terra.
+
+Por essa lógica, todos os alimentos foram criados para se adequarem ao paladar humano, e basta que os comamos. Isso é o natural. Discussões sobre o que é ou não nutritivo são, evidentemente, um equívoco. Todos os alimentos, embora com algumas diferenças devido ao clima e às características de cada região, são produzidos de forma a serem adequados às pessoas que ali nasceram. O fato de os povos de pele amarela comerem arroz e os de pele branca comerem trigo é um exemplo disso. O Japão ser um país insular significa que se deve consumir mais peixe, enquanto os povos continentais consomem mais carne, e isso está correto.
+
+Por esse mesmo princípio, a dieta vegetariana dos agricultores é adequada à Natureza. O fato de conseguirem suportar o trabalho ininterrupto, dia e noite, prova que a alimentação à base de vegetais lhes é apropriada. A ciência da nutrição, ignorando essa lógica, tem tentado recentemente fazer com que os agricultores comam peixe e carne, mas, se o fizerem, sua capacidade de trabalho diminuirá. Em contrapartida, os pescadores, por consumirem peixe, não conseguem realizar trabalhos contínuos; trabalham de forma intermitente. Ademais, o consumo de peixe aguça a sensibilidade, o que é adequado à pesca. A Natureza é, de fato, perfeitamente concebida.
+
+Até aqui, descrevi em linhas gerais os equívocos antinaturais relacionados aos medicamentos e à alimentação. A partir de agora, desvendarei gradualmente o princípio fundamental que explica por que os medicamentos, apesar de tão tóxicos, foram utilizados desde a antiguidade.
+
+### Cinco - O Princípio do Johrei
+*Extraído da edição especial da revista “Hikari” (30 de maio de 1949)*
+
+#### Primeira Parte
+
+A maior dificuldade ao expor este princípio reside no fato de que ele é de difícil compreensão para o nível educacional do homem moderno. Sendo a educação atual constituída, do início ao fim, sobre bases materialistas, isso é inevitável.
+
+Por outro lado, ao examinarmos os feitos dos fundadores das diversas religiões por meio de documentos e tradições, percebemos que quase todos, sem exceção, realizaram milagres. Quanto maior a religião, mais evidente isso se torna. Naquelas épocas, de menor nível cultural, bastava que se manifestassem milagres e se concedessem graças para que as massas ficassem satisfeitas. Ninguém buscava explicações sobre o conteúdo ou a lógica por trás deles. Um ponto lamentável, nesse sentido, é o caso de Cristo, que realizou os maiores milagres. Podemos imaginar quantas pessoas ele poderia ter salvo e o quanto poderia ter expandido sua doutrina durante sua vida, se não fosse pelo sacrifício na cruz. O fato de sua obra ter terminado em um período tão curto deveu-se, inegavelmente, à força preponderante de Satanás naquela era.
+
+A superioridade do poder de Satanás, como mencionado, estava relacionada ao Mundo Espiritual, indicando que o tempo ainda não era propício. Agora, contudo, o tempo amadureceu, a grande transição do Mundo Espiritual se aproxima, e o poder de Satanás enfraquece a cada dia que passa. Isso nos é claramente revelado por nossa percepção espiritual.
+
+Por indicação divina, compreendi todos os fenômenos que até hoje eram um mistério para o mundo. Com base nisso, esclarecerei o certo e o errado, investigarei a raiz do bem e do mal, corrigirei todos os equívocos e, diante da realidade desequilibrada de uma cultura exclusivamente materialista, farei com que a cultura espiritual avance de forma decidida. Assim, ambas progredirão e se desenvolverão lado a lado, e o mundo ideal do Paraíso Terrestre se manifestará.
+
+Nesse contexto, tentarei explicar uma parte do princípio por trás dos notáveis resultados que os membros de nossa Igreja vêm alcançando por meio de milagres surpreendentes. Diferentemente dos povos primitivos ou das épocas de cultura inferior, o homem moderno não se convence plenamente apenas com milagres concretos. Ele não se satisfaz sem um embasamento teórico. A decadência das religiões estabelecidas também se deve ao fato de que elas apenas negam a cultura materialista, sem serem capazes de oferecer graças concretas.
+
+Explicarei aqui o princípio do método do Johrei, um dos milagres manifestados pelos membros de nossa Igreja. Ao se posicionar a mão a alguns metros de distância de uma pessoa doente, doenças graves e de difícil tratamento melhoram instantaneamente. Dores insuportáveis são aliviadas ou desaparecem em pouco tempo. De qualquer forma que se olhe, não há como chamar isso senão de milagre. São inúmeros os casos de doentes desenganados por vários doutores que são salvos por membros com apenas alguns meses de fé, sem qualquer conhecimento médico. Do ponto de vista materialista moderno, isso só pode ser classificado como um grande problema, totalmente contrário à lógica.
+
+A medicina moderna é o resultado de séculos de estudo e aprimoramento por parte de brilhantes acadêmicos de diversos países, e seus métodos, de tão refinados e engenhosos, são dignos de admiração. E, no entanto, doenças que os grandes mestres da atualidade, com suas décadas de estudo e prática e seus vultosos investimentos em formação, não conseguem resolver, apresentam melhora notável quando uma pessoa comum e sem instrução lhes ministra Johrei. Não seria exagero dizer que este é o espanto do século. É, verdadeiramente, a lógica para além da lógica.
+
+As pessoas que apenas tomam conhecimento desses resultados não só têm dificuldade em aceitá-los, como também tendem a considerá-los superstição ou até mesmo fruto de desequilíbrio mental, o que é compreensível. Trata-se, provavelmente, do maior acontecimento desde o início da história.
+
+A declaração presente em nossa doutrina, de um “mundo isento de doença, pobreza e conflito”, é uma afirmação tão grandiosa que não poderia ser feita sem uma convicção absoluta. Se não tivéssemos a capacidade de concretizá-la, estaríamos enganando o mundo, o que constituiria um crime imperdoável. Contudo, os milagres mencionados não são, para nós, milagres. Eles possuem um fundamento absoluto e se manifestam porque devem se manifestar, respaldados por uma explicação científica. Tentarei descrevê-la da forma mais detalhada possível.
+
+#### Segunda Parte
+
+Chegou o momento de expor o princípio do Johrei. Para tanto, há um conhecimento prévio necessário, pelo qual começarei.
+
+Tudo no Universo não é composto apenas de matéria; existe também algo invisível chamado espírito. Naturalmente, o ser humano também é constituído de espírito e matéria. Classificando de forma geral, o espírito é a essência do Sol, enquanto a matéria é a essência da Lua e da Terra. Para facilitar a compreensão, o espírito é fogo, positivo, masculino, frente, vertical, dia. Em contrapartida, a matéria é água, negativa, feminina, verso, horizontal, noite. A ciência, no entanto, considera apenas a matéria como objeto de estudo e não reconhece a existência do espírito. Aí reside seu erro fundamental. Pois, se o ser humano fosse apenas matéria, sem espírito, ele seria um mero objeto, uma substância inorgânica como a madeira ou a pedra. Não teria vida nem atividade mental. O fato de uma lógica tão simples não ter sido compreendida é a causa do erro fundamental da ciência até hoje. Por isso, os cientistas consideravam que este espaço era preenchido apenas pelo ar, e o resto era o nada. Mal sabiam eles da existência de inúmeros elementos invisíveis além do ar, cuja quantidade é desconhecida. Infelizmente, a ciência ainda não avançou a ponto de descobri-los.
+
+Felizmente, eu consegui descobrir a natureza desses elementos invisíveis, ao que denominei ciência espiritual. Com essa descoberta, iniciou-se, naturalmente, a era em que a doença, o maior sofrimento da humanidade, será extinta. Tudo o que se referia a enfermidades e que até hoje era completamente desconhecido foi elucidado. Portanto, pode-se dizer que a pesquisa médica, nos moldes atuais, não é mais necessária.
+
+Em seguida, elucidarei a origem da doença. Como mencionado, o ser humano é constituído por dois elementos, espírito e matéria. O fato de ele viver e se mover significa que espírito e matéria estão em perfeita união, e o espírito move a matéria. O espírito tem uma forma análoga à do corpo físico; em seu centro está a mente, e no centro da mente está a alma. A atividade conjunta desses três elementos se manifesta como vontade e pensamento. Esse espírito invisível, ou seja, a vontade e o pensamento, é o governante do corpo físico. Portanto, o espírito é o principal, e o corpo é o subordinado: espírito precede, matéria segue.
+
+Para ser mais claro, quando uma pessoa move seus braços e pernas, eles não se movem por vontade própria. Movem-se em obediência a uma ordem da vontade. O mesmo se aplica aos olhos, ao nariz, à boca, a todo o corpo. A doença segue o mesmo princípio. Para facilitar a compreensão, tomemos como exemplo um furúnculo, algo que todos já experimentaram.
+
+Um furúnculo começa com uma pequena protuberância que incha gradualmente, aumenta de tamanho, adquire uma coloração avermelhada e é acompanhada de calor, dor e coceira locais. Esse fenômeno ocorre quando as toxinas do corpo, por um processo fisiológico natural, iniciam sua atividade de eliminação, acumulando-se em um ponto específico. O calor gerado dissolve e liquefaz esse nódulo de toxinas, facilitando sua expulsão. Essa é a função benéfica da Natureza. Para criar uma via de saída, a pele se torna mais fina e macia. A cor vermelha, portanto, é o sangue com toxinas visível através da pele adelgaçada e transparente. Pouco tempo depois, um pequeno orifício se abre, e o sangue com toxinas e o pus líquido são expelidos, concluindo a purificação.
+
+Esta é a explicação do ponto de vista físico. E qual é o estado do espírito nesse momento? Ele apresenta uma espécie de formação nebulosa com a mesma forma do furúnculo. É, em suma, uma mácula. Quanto mais grave a doença, mais densa é a mácula. E por que essa mácula se concentra em um ponto específico do espírito? Porque essa é a ação purificadora usual: as máculas de todo o espírito se reúnem em um único local, e a atividade de eliminação se inicia. Isso é a doença. Naturalmente, há uma relação inseparável com o corpo físico.
+
+No caso de um furúnculo, a medicina realiza a drenagem por meio de punção ou incisão para remover o pus com toxinas, mas isso é um grande erro. Em muitos casos, a cirurgia é realizada antes que o sangue e o pus com toxinas se acumulem o suficiente, fazendo com que, após a incisão, eles continuem a se acumular por um longo período, impedindo a cicatrização da ferida. O fato de feridas de cirurgia de apendicite, por exemplo, permanecerem abertas por anos se deve a esse princípio. Por isso, os médicos mais experientes esperam que o inchaço amadureça completamente antes de fazer a incisão, o que acelera muito a cura completa.
+
+No entanto, se desde o início nenhum procedimento for realizado e se esperar que o inchaço amadureça e crie um pequeno orifício naturalmente para expelir o sangue com toxinas e o pus, a recuperação é muito melhor e a cura ocorre em um período de tempo incomparavelmente mais curto do que com a cirurgia. Por exemplo, uma cirurgia em um furúnculo imaturo pode levar um mês para cicatrizar; em um maduro, dez dias; e se deixado evoluir naturalmente, cinco dias. O problema é que, se se espera o amadurecimento natural, a dor até a drenagem do pus pode ser insuportável. Uma vez feita a cirurgia, a dor cessa temporariamente, o que a torna uma opção compreensível.
+
+Contudo, por mais intensa que seja essa dor, ao se ministrar o Johrei, não apenas a dor desaparece completamente, como também o inchaço vermelho e protuberante permanece indolor até a expulsão do sangue com toxinas e do pus, o que causa grande espanto nas pessoas. Explicarei a seguir o princípio por trás desse fenômeno.
+
+Anteriormente, expliquei o princípio de que o espírito precede e a matéria segue. Isso não se aplica apenas ao corpo humano; absolutamente tudo no Universo está sujeito a essa lei. Através do Johrei, a mácula espiritual entra em um estado de colapso. Em outras palavras, sua vida é convertida em morte. Uma mácula morta tem sua força reduzida a zero e, por isso, não estimula mais os nervos. É por essa razão que a dor desaparece. Sendo assim, aprofundarei ainda mais e explicarei o princípio pelo qual o Johrei elimina a mácula.
+
+#### Terceira Parte
+
+Qual é, afinal, a essência da mácula espiritual mencionada no capítulo anterior? Trata-se de um micróbio tóxico que se desenvolve no elemento-água presente no corpo humano. Esse micróbio é uma partícula tão infinitesimal que provavelmente só seria visível em um microscópio com milhões de vezes de ampliação. O princípio de geração dessa micropartícula será detalhado em outro capítulo; aqui, me limitarei a explicar o princípio de sua aniquilação. E esse método de aniquilação é, sem dúvida, o poder do espírito.
+
+Sendo assim, como o Johrei, por meio do poder da radioatividade humana, consegue aniquilar a mácula espiritual, ou seja, as toxinas? O elemento dessa radioatividade é a onda de luz gerada pelo elemento-fogo, que é a essência da luz. Ele é o elemento oposto ao micróbio tóxico do elemento-água; em uma palavra, é o bem contra o mal. Naturalmente, essa onda de luz é uma partícula infinitesimal de luz, e sua vitalidade manifesta um poder bactericida extraordinário. Então, qual é a essência dessa onda de luz? Vou explicá-lo agora. Essa partícula infinitesimal de onda de luz é a radioatividade proveniente do Espírito Divino. Ela é a fonte das graças concretas que se manifestam como milagres através do Johrei de nossa Igreja. Diante disso, tanto os membros quanto os não membros ficam maravilhados, e eu sei bem que todos desejam conhecer o seu princípio. Por isso, há muito tempo eu queria elucidá-lo, mas, por ser prematuro, não pude publicá-lo até agora. Contudo, o tempo se aproxima e chegou o momento em que não há outra alternativa senão anunciá-lo.
+
+O método que utilizo atualmente para o Johrei consiste em fornecer um pedaço de papel no qual o ideograma “Luz” está escrito em tamanho grande. Ao guardá-lo no bolso como um amuleto, ele manifesta seu efeito. Da tinta preta do ideograma “Luz” irradia-se uma poderosa onda de luz que, através do corpo do ministro, percorre o braço e é emitida pela palma da mão. A distância mais adequada para essa irradiação é de alguns metros. Mas por que uma onda de luz é irradiada do ideograma “Luz”? Porque, através de uma linha espiritual, ela é transmitida instantaneamente do meu corpo para cada um dos ideogramas. É muito semelhante às ondas de rádio de uma transmissão. Se uma onda de luz é irradiada do meu corpo espiritual através de uma linha espiritual, surge a questão: que mecanismo existe em meu espírito? Ao saber disso, a dúvida se dissipará.
+
+Em meu abdômen, há uma esfera de luz com cerca de seis centímetros de diâmetro em seu estado normal. Algumas pessoas já a viram. Dessa massa de luz, uma onda de luz é irradiada infinitamente. E onde está a fonte dessa esfera de luz? Ela recebe um suprimento infinito de luz da Joia que Atende a Todos os Desejos de Kannon (観音) Bodhisattva, no Mundo Espiritual. Este é o poder divino, também conhecido como poder misterioso e sabedoria sublime. A joia que Nyoirin Kannon segura em sua mão é esta mesma joia.
+
+#### Quarta Parte
+
+Aqui, devo escrever sobre a origem de Kannon (観音) Bodhisattva. Entre todos os budas, apenas Kannon (観音) foi, desde a antiguidade, considerado uma divindade secreta. Isso se deve a um profundo mistério, cuja totalidade ainda não posso revelar, pois o tempo não é chegado. Contudo, pretendo revelá-lo assim que receber a permissão de Deus. Por ora, escreverei apenas sobre o mistério necessário para a compreensão do Johrei.
+
+É claro que a atuação de Kannon (観音) se iniciou com a introdução do budismo, mas, daquela época até recentemente, sua salvação era apenas espiritual. É verdade que as pessoas recebiam graças ao orar, mas eram graças muito tênues. A razão para isso é que, embora o elemento luz seja uma união do elemento-fogo e do elemento-água, faltava-lhe o elemento-terra. Por isso, ao conceder graças, apenas dois elementos atuavam, e o poder era insuficiente.
+
+Contudo, a grande transição do Mundo Espiritual se aproximou. É o tempo do “fim do mundo” e do “Juízo Final” mencionados na Bíblia. Por essa razão, tornou-se necessário um poder de salvação absoluto e extremamente forte. Esse poder é, como mencionado, o poder da trindade de fogo, água e terra. O poder da terra é o elemento da matéria, que corresponde ao corpo humano. Quando a luz atravessa o corpo, o elemento-terra é adicionado, e o poder da trindade se completa. Este é o poder divino.
+
+Para ser mais claro, o elemento luz que emana da Joia que Atende a Todos os Desejos de Kannon (観音) Bodhisattva, ao passar pelo meu corpo, manifesta-se como poder divino, e este, ao passar pelo corpo dos membros, torna-se poder purificador.
+
+Explicarei este princípio com um exemplo. Desde a antiguidade, as pessoas oram diante de imagens ou estátuas de Kannon (観音) para receber a graça da cura de doenças graves. Contudo, o Johrei ministrado pelos membros de nossa Igreja hoje obtém resultados muitas vezes superiores. Isso ocorre porque a onda de luz proveniente de imagens ou estátuas contém apenas os dois elementos, faltando-lhe o poder fundamental da matéria.
+
+Outra razão é a grande transição do Mundo Espiritual, que sempre menciono. Ela se iniciou em meados de junho de 1931. Antes disso, o Mundo Espiritual continha mais elemento-água e menos elemento-fogo. A partir de então, o elemento-fogo tem aumentado gradualmente em relação ao elemento-água. É verdade que a transição havia começado algumas décadas antes, mas, naquela época, o elemento-fogo era extremamente rarefeito. Explicarei aqui a intensidade da luz: a luz é forte porque há muito elemento-fogo, assim como uma lâmpada com maior potência gera mais calor.
+
+Outro exemplo: costumam me dizer que meu corpo é muito quente, porque em meu abdômen há uma massa de elemento-fogo. Quase todas as noites, peço aos assistentes que me massageiem os ombros, e todos dizem que meu corpo está muito quente, a ponto de, mesmo no inverno, tirarem uma ou duas peças de roupa. Além disso, quando permaneço em um cômodo por algum tempo, todos dizem que o ambiente fica quente. Às vezes, eu brinco dizendo que sirvo de aquecedor. Após o banho, mesmo no frio, fico por uma ou duas horas vestindo apenas um pijama de flanela. E, ainda por cima, gosto de banhos especialmente mornos. Isso se baseia no mesmo princípio de que, ao se jogar água no fogo, a temperatura aumenta, e é também por esse princípio que os dias de céu claro no inverno são mais frios.
+
+### Seis - Os Remédios Perderam a Eficácia
+*Publicado no jornal “Tounichi” em 3 de fevereiro de 1953, na edição 196 da revista “Eikou”*
+
+O seguinte artigo foi publicado:
+
+**“A Penicilina Perdeu a Eficácia”**
+
+A “penicilina”, que surgiu no pós-guerra como um cometa no mundo farmacêutico, causando o que pareceu ser uma pequena revolução na medicina, teve sua eficácia notavelmente reduzida nos últimos tempos. Em particular, por não apresentar efeitos significativos contra o resfriado que atualmente se alastra por todo o país, ela vem sendo naturalmente evitada por profissionais da saúde e usuários. Diante disso, investigamos a verdade por trás do declínio da “penicilina” junto ao Instituto de Doenças Infecciosas da Universidade de Tóquio e ao Departamento de Saúde Metropolitano.
+
+**Os micróbios estão cada vez mais fortes. A culpa também é dos doces e alimentos.**
+
+◇ A penicilina começou a ser vista como algo que “em geral, não tem grande efeito...” desde a gripe italiana que assolou o mundo em 1950. A causa disso é que a penicilina em si não tem qualquer efeito sobre o vírus, que é o agente causador do resfriado. Em termos técnicos, o vírus é uma partícula minúscula, com menos de 100 milimícrons (1 mícron é um centésimo de milímetro), visível apenas com um microscópio eletrônico. O alcance da eficácia da penicilina, no entanto, limita-se a partículas quatro ou cinco vezes maiores, de 400 a 500 mícrons. Essa é a principal razão para a perda de credibilidade do medicamento: embora seja eficaz contra bactérias causadoras de pneumonia, que surgem como efeito colateral do resfriado, ela é completamente inútil contra o resfriado em si.
+
+◇ A segunda causa para a ineficácia da penicilina reside, em parte, nos alimentos importados e nos alimentos nacionais de alta qualidade. Tanto nos Estados Unidos quanto em outros países, a maioria dos alimentos e doces de luxo contém uma quantidade ínfima de penicilina. Vê-se, inclusive, a venda de “balas” infantis anunciadas como contendo penicilina. Sob essa ótica, estima-se que mais de 80% da população japonesa ingere penicilina de alguma forma sem o saber. Consequentemente, mesmo aqueles que nunca receberam uma injeção de penicilina desenvolvem resistência a ela em seu organismo, o que pode causar alguns contratempos quando um tratamento à base de penicilina se faz necessário. Embora o impacto no tratamento seja mínimo, essa é uma das razões pelas quais se diz que o medicamento “não funciona...”.
+
+◇ No tratamento de doenças sexualmente transmissíveis, o combate à gonorreia parecia ser o domínio exclusivo da penicilina. Recentemente, no entanto, o próprio gonococo aumentou notavelmente sua resistência à penicilina, tornando a cura mais difícil do que há dois ou três anos. Ou seja, enquanto por volta de 1947, quando a penicilina surgiu, uma injeção de apenas 100.000 a 200.000 unidades era suficiente para a cura completa, hoje são necessárias mais de 1.800.000 unidades — quase vinte vezes mais — para se obter o mesmo resultado. Em suma, o fato de o próprio gonococo ter se tornado várias vezes mais resistente é a causa da dificuldade na cura de doenças venéreas.
+
+◇ Por fim, o fenômeno da “corrida da penicilina” na indústria farmacêutica também contribuiu para essa situação. No Japão, durante o auge em 1950, quase cem empresas farmacêuticas produziam penicilina a todo vapor. Naquele ano, uma quantidade astronômica de 7,5 quatrilhões de unidades de penicilina circulou no mercado interno, e os consumidores a utilizaram em massa. Como resultado, a maioria da população de classe média para cima passou a ter experiência com o uso de penicilina, o que gerou as reações mencionadas anteriormente. Diante disso, surge a questão sobre os futuros métodos de tratamento. A abordagem mais sensata, e uma das premissas para a cura completa, parece ser o uso combinado de penicilina, aureomicina, estreptomicina, hidrazida, terramicina, PAS, cloranfenicol, entre outros.
+
+---
+
+Pelo que se lê, é um fato que os medicamentos perderam sua eficácia nos últimos tempos. Contudo, por não conhecerem a verdadeira causa, os autores do artigo apresentam explicações forçadas, que não se sabe se são razões ou desculpas, a ponto de nos sentirmos constrangidos por eles. Os membros de nossa Igreja sabem muito bem, mas, conforme venho sempre afirmando, trata-se, inequivocamente, da intensificação do processo de purificação. Por enquanto, é apenas a penicilina, mas é evidente que, com o tempo, todos os medicamentos, sem exceção, perderão sua eficácia, e então teremos um grande problema. Portanto, como preparação para esse momento, estou hoje, através da palavra impressa e falada, emitindo o máximo de alertas possível. Como resultado, é claro como o dia que a medicina moderna deverá, como previsto, passar por uma revolução.
+
+---
+
 # Doutrina da Sekaikyuseikyou (O Paraíso Terrestre e o Cultivo Natural)
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** 世界Kyusei教教義（Chijo Tengokuと自然栽培の巻）
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-10-10
 
 ## Doutrina da Sekaikyuseikyou (O Paraíso Terrestre e o Cultivo Natural)
 
@@ -155,7 +1332,7 @@ Publicação: Departamento Editorial da Sekaikyuseikyou
 # Coleção de Ensaios do Mestre Okada Jikan – O Caminho para a Luz
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-12-30
 
 ## Coleção de Ensaios do Mestre Okada Jikan – O Caminho para a Luz
 Coleção Jikan, Volume 9, “O Caminho para a Luz”
@@ -591,7 +1768,7 @@ O que aconteceu foi que, por um momento, seu espírito se desprendeu do corpo e 
 # Coletânea de Teses do Reverendo Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 ### Registro dos Ensinamentos Orais, vol. 5
@@ -897,7 +2074,7 @@ Agora, planejo me dedicar ao cultivo de flores ornamentais, com a intenção de 
 # Coleção de Teses do Mestre Jikan Okada – Um Guia Rápido sobre a Sekaikyuseikyou
 
 **Categoria:** sasshi | **Ano:** 昭和25年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
 
 ## Coleção de Teses do Mestre Jikan Okada – Um Guia Rápido sobre a Sekaikyuseikyou
 
@@ -1143,831 +2320,6 @@ Venda Proibida
 Autor: Jikan
 Editor: Masao Koyama
 Editora: Eikosha Shuppan
-
----
-
-# Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
-
-**Categoria:** sasshi | **Ano:** 昭和30(1955)年4月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
-
-*Publicado na edição nº 6 do “Curso sobre o Método Johrei”, em 1º de abril de 1955.*
-
-**Prefácio**
-
-Recentemente, tenho percebido a particular importância de certos aspectos concernentes ao Johrei, motivo pelo qual organizei esta compilação, destinada àqueles que se dedicam ao serviço da difusão da Fé.
-
-Fundamentalmente, todo sofrimento que acompanha a purificação se deve à intoxicação medicamentosa. No entanto, para suas manifestações mais notáveis, Meishu-Sama cunhou o termo “enfermidades por intoxicação medicamentosa”. Ao editar este material, aprofundei ainda mais minha convicção sobre a natureza aterradora dos venenos contidos nos fármacos. Portanto, se este curso contribuir, ainda que minimamente, para a derrocada da superstição em torno dos medicamentos, não haveria alegria maior.
-
-*(Coletânea de Ensinamentos nº 18, p. 44)*
-
-Após a publicação da tese “Os Medicamentos Geram a Infelicidade” (revista Paraíso Terrestre nº 44), recebemos de Meishu-Sama as seguintes palavras:
-
-“Conforme acabamos de ler, a causa primordial de toda sorte de infortúnios e aflições reside nos medicamentos. Sendo assim, se eliminarmos os fármacos, o Mundo de Miroku se concretizará. Para que isso ocorra, é imperativo que o público em geral compreenda a verdade, o que representa um enorme desafio. Com o intuito de fazer com que leiam publicações como esta, estamos gradualmente expandindo nosso movimento em escala mundial. À medida que a compreensão se difundir, creio que surgirá uma questão de proporções monumentais. Creio que será, provavelmente, um espetáculo digno de se ver.
-
-Imaginemos, por exemplo, que no Japão se chegue à conclusão: ‘De fato, a medicina é algo terrivelmente equivocado. É preciso proibi-la terminantemente. Os medicamentos são venenos potentíssimos, e também devem ser abolidos’. Se tal cenário se concretizar, todos os profissionais ligados a essa área perderão seus empregos. Contudo, uma vez compreendida a verdade, será impossível continuar a defender tais práticas. Surgirá, então, o dilema: ‘O que fazer?’. A única saída será recorrer à doutrina de Okada.
-
-Ademais, daqui para frente, à medida que o processo de purificação se intensificar, ele se manifestará em toda a população. Chegará uma era em que haverá doentes por toda parte, e as pessoas começarão a falecer em massa. Diante disso, será preciso tomar alguma providência, e é nesse ponto que o governo enfrentará um problema de extrema gravidade.
-
-Não apenas isso, mas a partir deste ano, iniciaremos gradualmente a divulgação de nossas ideias também nos Estados Unidos. Os americanos, por serem mais receptivos à compreensão, provavelmente transformarão isso em uma grande questão nacional. Consequentemente, o impacto se propagará pela Europa. Portanto, é inevitável que, no futuro, o mundo caminhe para a abolição total da medicina e dos medicamentos. Creio que estamos diante de uma questão sem precedentes na história, o que nos levará a uma era de grandes transformações.
-
-Todavia, sem tomar essa medida, será impossível salvar a humanidade. E, como Deus está ciente de tudo e age com pleno conhecimento de causa, é certo que, ao final, sairemos vitoriosos. Os diversos acontecimentos até lá serão, sem dúvida, um espetáculo à parte. Acredito, ademais, que não demorará muito. Deus, em Sua sabedoria, fará com que as pessoas compreendam e, ao mesmo tempo, criará uma conjuntura na qual elas não terão alternativa senão compreender. Por isso, por maior que se torne o problema, não há motivo para espanto. Contudo, prevejo que a situação atingirá proporções que fogem à nossa imaginação.”
-
-### I – Região da Cabeça
-
-**1. Homem de meia-idade com insônia, desmaios ocasionais e cefaleia** *(Coletânea de Ensinamentos nº 8, p. 54)*
-
-“O segundo filho de um professor (ingressou na Fé em janeiro de 1952, aos 33 anos) sofreu uma queda de bicicleta no início de dezembro de 1951. Passou a chorar, a mentir e a sofrer de insônia. No início de janeiro de 1952, começou a receber Johrei, o que resultou na eliminação de escarro com sangue, sangramento nasal, hematúria e hematoquezia, retornando a um estado quase normal. Contudo, ocasionalmente, ele desmaia, torna-se incapaz de ler e sente a cabeça estranha. O Johrei proporciona alívio imediato. Ao ministrar Johrei em sua cabeça, seu pulso, que fora fraturado, começa a doer e a tremer. Há dez anos, na Manchúria, contraiu sífilis e recebeu cerca de vinte injeções de salvarsan. Além disso, há três anos, devido a um esgotamento nervoso, recebeu aproximadamente oitenta injeções de Maazol. Onde devemos concentrar o Johrei?”
-
-Isso não é nada grave. Mesmo uma fratura pode ser curada com Johrei. O gesso foi aplicado para imobilizar ou já foi removido?
-
-“Já foi removido.”
-
-E ele treme assim?
-
-“Exatamente.”
-
-A dor e os outros sintomas são devidos à intoxicação medicamentosa. Essa pessoa tem uma quantidade considerável de medicamentos acumulados. A dor começou após o tremor?
-
-“Sim.”
-
-Inicialmente, ele recorreu a um médico, correto? Não houve cirurgia, imagino.
-
-“Não, não houve.”
-
-Foi um médico que aplicou o gesso? Aquela massa que endurece, não é?
-
-“Sim.”
-
-O veneno subiu para a cabeça, e por isso ele sente dor. Com paciência, ele será curado. O problema são as vinte injeções de salvarsan; grande parte desse veneno se acumulou na cabeça. Quanto à sífilis, poucas coisas são tão fáceis de curar. Tenho a intenção de escrever sobre isso, mas evito fazê-lo, pois se eu disser que a sífilis se cura sem dificuldade, as pessoas podem interpretar isso como um incentivo a condutas levianas. A bactéria em questão é extremamente frágil e sucumbe rapidamente ao Johrei. O salvarsan, contudo, é terrível. Quando seu veneno atinge a cabeça, a cura torna-se um processo moroso. Felizmente, nos últimos tempos, o salvarsan é administrado em doses muito mais diluídas, de modo que seus efeitos nocivos não são tão severos quanto antigamente.
-
-**2. Menina de três anos com um olho perdido devido a um abscesso** *(Coletânea de Ensinamentos nº 6, p. 61)*
-
-“A filha mais velha do meu irmão (cirurgião visceral), de três anos, começou, sem que se percebesse quando, a enxergar com apenas um olho. O diagnóstico médico foi de ‘glioma do nervo meníngeo’, uma doença rara de causa desconhecida, sem prevenção ou tratamento. Disseram que, em um prazo de seis meses a no máximo cinco anos, o cérebro e o fígado seriam afetados, levando-a inevitavelmente à morte. Alertaram que, se nada fosse feito, o globo ocular sofreria protrusão e exalaria um odor fétido, tornando os cuidados insuportáveis. Por isso, o olho direito foi removido cirurgicamente, e no esquerdo, menos afetado, inseriram rádio. Como a recuperação pós-operatória foi boa, ela recebeu alta e passou a frequentar o hospital diariamente para sessões de radioterapia. A menina está muito bem, não se queixa de muitas dores e, por usar uma bandagem em ambos os olhos, brinca tateando os objetos. Os médicos a desenganaram, afirmando que a cura é impossível. Seus pais, contudo, perguntam se ela poderá ser salva ao entronizar a Imagem de Komyô Nyorai-Sama. Pedem também orientação sobre como ministrar o Johrei.”
-
-Que lástima. Isso tem cura. Para nós, não é uma doença grave. O que ocorre é um acúmulo de pus na parte posterior do olho, e é a pressão desse pus que faz o globo ocular saltar. A previsão de seis meses é um equívoco. Não há relação direta entre uma afecção ocular e um dano ao fígado. Se assim fosse, todas as pessoas que se submetem a cirurgias nos olhos desenvolveriam problemas hepáticos.
-
-“Se nada fosse feito, exalaria um odor fétido”. Isso seria excelente, pois significaria que o pus estaria sendo expelido. A cirurgia no olho direito é um fato consumado, mas a inserção de rádio no esquerdo é um grande problema.
-
-O rádio tem a propriedade de destruir os tecidos; ele os necrosa. Sem essa intervenção, a cura seria simples. A questão agora é o rádio. A radioterapia, por sua vez, solidifica o pus. Por esses motivos, o tratamento será consideravelmente longo, mas a cura é possível. Se a dosagem da radioterapia ou do rádio for baixa, a recuperação será mais rápida. O fato verdadeiramente lamentável é que a demora na cura é diretamente proporcional à intervenção médica. No entanto, ministrar Johrei enquanto ela continua com a radioterapia e o rádio é inútil. É preciso suspender esses tratamentos. Façam uma experiência por uma ou duas semanas. Se o pus começar a ser expelido, será um ótimo sinal. A saída do pus indica que o acúmulo está se dissolvendo, e posso garantir a cura.
-
-**3. Jovem com lentidão de raciocínio após otite média** *(Paraíso Terrestre nº 8, p. 16)*
-
-“Um menino, hoje com oito anos, sofreu de otite média aos dois. Após sete meses de tratamento médico sem sucesso, o caso foi deixado de lado. Há quatro anos, quando recebi a formação de ministro, comecei a aplicar-lhe Johrei. Ele ainda elimina muito pus, tem dificuldade de audição e seu raciocínio é lento. Haveria alguma causa espiritual?”
-
-A causa não é espiritual, mas sim a grande quantidade de veneno acumulado. A expulsão do pus é um ótimo sinal e indica que ele certamente será curado.
-
-**4. Homem com um tumor do tamanho de um punho abaixo da orelha** *(Coletânea de Ensinamentos nº 1, p. 45)*
-
-“Um homem que ingressou na Fé em abril de 1949. Há cerca de dezessete anos, um pequeno nódulo surgiu abaixo de sua orelha esquerda e foi crescendo gradualmente. Na época de sua conversão, tinha o tamanho do punho de uma criança de cinco ou seis anos. Após aproximadamente seis meses de Johrei contínuo, o nódulo cresceu abruptamente em um período de dois a três meses, atingindo o tamanho de dois punhos juntos, estendendo-se da bochecha esquerda até a parte de trás da orelha. A partir do final de 1950, o nódulo, que antes era duro como osso, começou a ficar avermelhado e a inchar. Em janeiro de 1951, iniciou a drenagem de pus, que já dura mais de seis meses. Embora tenha diminuído um pouco por um tempo, parece ter voltado a crescer. As dores começaram por volta de janeiro de 1951, e há noites em que ele não consegue dormir bem. Atualmente, a área de onde o pus drena está parcialmente amolecida, mas a parte avermelhada e inchada corresponde a cerca de metade do tumor, a partir da ponta. Nesse local, uma artéria está visível na superfície da pele. Em janeiro de 1951, antes da drenagem, a dor era insuportável, e ele consultou um médico, que afirmou não haver possibilidade de cirurgia, pois o tumor envolvia a artéria, e que, se deixado como estava, sua vida estaria em risco. O paciente relata não ter tido doenças graves na juventude e, consequentemente, não ter usado muitos medicamentos. Contudo, há cerca de dez anos, sofreu de neuralgia e aplicou moxabustão (‘yaito’) continuamente em seu braço esquerdo por mais de dois anos. Essa purificação teria alguma relação espiritual? Atualmente, ministramos Johrei na área afetada, na nuca e no bulbo, mas gostaríamos de saber se está correto. Entronizamos a Imagem da Kannon (観音) de Caligrafia em abril de 1951.”
-
-Entendo. Trata-se de intoxicação medicamentosa. Os venenos dos fármacos permanecem inalterados no corpo por trinta, cinquenta anos. Nesse caso, eles se solidificaram na região do pescoço e agora estão se dissolvendo para serem expelidos. Não há nada de complicado. Desde que não haja um enfraquecimento excessivo do corpo devido à pressão do tumor ou à febre, a cura é certa. O Johrei deve ser ministrado a partir do pescoço e também do ombro. Ministrando no pescoço e no ombro, a região atrás da orelha amolecerá. A pressão interna força o pus para fora. Com perseverança, ele será curado. A causa, reitero, é a intoxicação medicamentosa. Situações como essa são comuns em ex-soldados, devido às diversas vacinas que recebem ao serem enviados para o exterior. Aqueles que foram para os mares do sul podem apresentar inchaços na testa, a ponto de o rosto inteiro se deformar. Se deixado sem tratamento por dois ou três dias, um orifício se abre e a cura acontece. É bom ter esse conhecimento.
-
-**5. Mulher de meia-idade com vertigem e angina** *(Coletânea de Ensinamentos nº 6, p. 78)*
-
-“Mulher de 38 anos. Em março de 1948, subitamente, sentiu fortes palpitações, o lado esquerdo do corpo ficou dormente e a língua enrijecida. O diagnóstico foi de esgotamento nervoso. Ela consultou vários médicos e tentou diversos tratamentos, mas seu quadro só piorava. Os médicos também sugeriram problemas ginecológicos (‘sangue estagnado’). Seus sintomas incluíam mal-estar na cabeça, rigidez e dormência nos músculos dos ombros, peito, cintura e em todo o corpo, com crises alternadas de calafrios e calor. Ao fechar os olhos, sentia como se estivesse sendo sugada; ao abri-los, o teto e os edifícios pareciam girar, e ela não conseguia encontrar uma posição confortável. Em meio a esse sofrimento, em agosto de 1950, por recomendação de um conhecido, começou a receber Johrei, passando a dormir melhor. Em outubro do mesmo ano, ingressou na Fé. Por volta de março de 1951, sua audição diminuiu, e com a contribuição do nervosismo, em novembro, voltou a sentir dores semelhantes às do início da doença. Pedimos orientação sobre os pontos de Johrei.”
-
-Isso não é esgotamento nervoso. O esgotamento nervoso não causa dormência nem enrijecimento da língua. É um diagnóstico completamente equivocado. Na verdade, seria admirável – pela honestidade – se um médico admitisse: “Não sei o que é”. A medicina, em sua essência, não tem como compreender tais fenômenos. “Problemas ginecológicos” é uma suposição que fazem por ser mulher. Ela possui nódulos na região da nuca e do bulbo. Espíritos também se encostam ocasionalmente, mas não de forma permanente. A causa fundamental é a intoxicação medicamentosa. Ela será curada e recuperará a saúde. O problema reside, basicamente, nos nódulos localizados entre a nuca e o bulbo.
-
-**6. Perda da mandíbula inferior devido a supuração** *(Ensinamento)*
-
-“Um fiel, em 2 de dezembro de 1948, a caminho de casa após uma peregrinação a Atami, sentiu uma dor aguda na mandíbula inferior, que acabou supurando e formando cinco ou seis fístulas. Em 19 de julho do ano seguinte, um objeto semelhante a uma presa surgiu em sua mandíbula inferior direita e, finalmente, na noite de 25 de outubro, todo o osso da mandíbula se desprendeu (o qual tivemos a oportunidade de ver). Os dentes, ainda presos à carne, permanecem no lugar, mas estão virados para dentro e inutilizáveis. Atualmente, resta apenas uma fístula, de onde sai uma pequena quantidade de pus. (Volume estimado de pus expelido em dois anos e quatro meses: mais de nove litros). A região da boca está contraída, dificultando a fala, e ainda há uma leve dor. As inúmeras proteções divinas recebidas nesse período são indescritíveis. Nos primeiros cinco meses da purificação, alimentou-se apenas de líquidos (ovo cru, inhame, suco de frutas, caldo de arroz). Nos cinco meses seguintes, comeu massas (udon e somen), e nos cinco meses subsequentes, apenas mochi. A partir de abril do ano passado, voltou a comer arroz, mas, por não poder usar os dentes, engolia tudo inteiro. Devido à drenagem de pus, não conseguia dormir deitado e, por mais de dois anos, viveu sentado, apoiado em almofadas. Graças à proteção divina, conseguia tomar banho e ir ao banheiro sem auxílio, seu corpo quase não emagreceu e ele se mantém bem-disposto. Em sua casa, havia um cômodo bem arrumado onde eram cultuados Shoten-sama e duas divindades auxiliares. No verão de 1946, ao ingressar na Fé (posteriormente, recebeu a Imagem Divina), sem qualquer cerimônia, ele quebrou as imagens de Shoten-sama e das divindades auxiliares e as queimou imediatamente na caldeira do banho. Na mesma ocasião, outras divindades que eram cultuadas há muito tempo (e que manifestavam considerável poder) também foram deixadas de lado. Posteriormente, alertado sobre a questão, ele pediu desculpas a Shoten-sama, mas as outras divindades permanecem negligenciadas. O que devemos fazer?”
-
-Em condições normais, ele não teria sobrevivido. Foi um verdadeiro milagre. Ainda há veneno em seu corpo; quando tudo for expelido, ele ficará curado. Quanto às outras divindades, ele deve agradecer-lhes e fazer uma oferenda uma vez por mês. No caso de divindades anteriores, após mais de um ano, deve-se expressar gratidão pela proteção recebida e realizar os procedimentos adequados. Para Inari, é melhor esperar dois ou três anos antes de fazê-lo.
-
-**7. Homem de meia-idade com dor de garganta, expectoração abundante e diarreia frequente** *(Coletânea de Ensinamentos nº 4, p. 85)*
-
-“Homem de 44 anos, ingressou na Fé em novembro de 1950. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas. Histórico médico: 1. Aos 18 anos, pleurisia seca no pulmão direito devido à prática de judô. 2. Aos 23 anos, cirurgia de otite média. 3. Aos 24 anos, cirurgia de sinusite. 4. Aos 33 anos, cirurgia de incisão de glândula inguinal. 5. Aos 39 anos, pleurisia úmida no pulmão direito, com um ano de tratamento. 6. Aos 42 anos, tratamento hospitalar para uma cavidade (diâmetro de 3 cm) no pulmão direito. 7. Aos 43 anos, afastou-se do trabalho na Ferrovia Nacional para tratamento em casa. Durante esse período, fez uso considerável de medicamentos alopáticos e fitoterápicos. Em particular, desde que foi para a China aos 32 anos até seu retorno, por oito anos, usou Seirogan constantemente. Aos 42 anos, com a doença pulmonar, submeteu-se a pneumotórax cerca de duas vezes por mês durante um ano. Em novembro de 1950, ingressou na Fé. Apesar de nossa família ser cheia de máculas, recebemos a proteção divina e, em meados de dezembro, ele pôde levantar-se da cama e frequentar a igreja. Recebendo Johrei, quase não precisou descansar, pôde participar das cerimônias mensais com Meishu-Sama e das reuniões na igreja. Desde o início de setembro, a quantidade de escarro aumentou, o apetite diminuiu e os dias acamado tornaram-se mais frequentes. Desde o início de outubro, devido à intensidade da purificação, ele tem recebido Johrei a cada dois dias. Sente uma dor especial na garganta, não tem apetite e seu enfraquecimento é visível. Atualmente, sua alimentação consiste em cerca de uma tigela de mingau de arroz, um pouco de pão, e ele só consegue beber água embebida no pão. A diarreia, embora em pequena quantidade, ocorre quatro a cinco vezes por dia. Apresenta também um leve inchaço em ambos os pés e no dorso da mão esquerda. Em relação aos aspectos espirituais: seu irmão mais velho (60 anos) morreu instantaneamente ao cair de um telhado e perfurar a garganta com uma tesoura de telhadista; seu quarto irmão (35 anos) e quinto irmão (42 anos) faleceram de tuberculose pulmonar. Embora haja muitos venenos medicamentosos e um profundo carma espiritual, ele não tem apego e entrega tudo a Deus. Pedimos orientação sobre os pontos a serem observados no Johrei.”
-
-Este homem... bem, é isso que acontece quando se confia na medicina. Não é uma família cheia de máculas, mas sim uma família cheia de medicamentos. Uma tesoura de telhadista...
-
-“É uma tesoura grande.”
-
-Ah, aquilo é uma tesoura de telhadista? Pensei que fosse para cortar telhas...
-
-Isso não é espiritual, é médico. A pleurisia úmida solidificou-se consideravelmente. É intoxicação medicamentosa. E, como a purificação desses venenos é intensa, ele elimina catarro, tem febre baixa e, consequentemente, perde o apetite. O veneno presente no catarro irrita a garganta, causando dor, o que o impede de comer e o enfraquece. Se ele conseguir suportar o enfraquecimento, a cura é certa, mas casos como este são difíceis. O Johrei intensifica ainda mais a purificação. Por outro lado, se o deixarmos sem tratamento, ele sofrerá. É preciso agir com discernimento, adaptando-se às circunstâncias. O mais importante é identificar o ponto vital e concentrar-se nele. Onde dói mais, o ponto de maior sofrimento. Existem vários pontos vitais, um, dois, três, quatro. É preciso descobrir o ponto vital número um e ministrar Johrei ali. Depois, passar para o número dois. Procedendo de forma ordenada, o resultado será bom. O sofrimento se intensifica porque se ministra Johrei nos pontos dois e três sem antes cuidar do ponto um.
-
-“Ele está em um estado de espírito de entregar tudo a Meishu-Sama.”
-
-Esse estado de espírito é excelente, não é? Vocês estão ministrando Johrei aqui (gânglios linfáticos do pescoço)? Deve haver febre nesse local. É isso que se dissolve e vai para a garganta. Há um nódulo em algum dos lados, e há febre.
-
-**8. Pessoa diagnosticada com tuberculose laríngea e aderência no pulmão direito** *(Coletânea de Ensinamentos nº 4, p. 94)*
-
-“Homem de 27 anos. No final de 1949, sua voz ficou subitamente rouca e ele passou a ter dificuldade para engolir alimentos. O diagnóstico médico foi de tuberculose laríngea. Embora nunca tivesse tido sintomas no peito, uma radiografia revelou que ambos os pulmões estavam consideravelmente afetados. Iniciou tratamento médico, mas como não melhorava, ficou internado de setembro de 1950 a abril de 1951, por cerca de sete meses. Recebeu cinquenta injeções de estreptomicina e tomou Tibione por seis meses. Disseram-lhe que, devido a uma aderência no pulmão direito, seria necessário remover cinco costelas. Por não querer se submeter à cirurgia, recebeu alta e passou a se dedicar a uma terapia alimentar. Atualmente, ele não sente dor e consegue realizar pequenos trabalhos, mas como seu exame de sedimentação de hemácias ainda está alto e a radiografia não está normal, não consegue encontrar emprego e deseja se curar com Johrei. Dizem que o Tibione afeta gravemente os rins. Podemos ministrar Johrei neste caso?”
-
-Perguntar se “podemos ministrar Johrei” é estranho. Sem Johrei, ele jamais será curado. Não há outro método de cura. Não se trata de poder ou não poder; se ele quer se curar, que receba. Se quer ir para o outro mundo, que não receba. O caso dele não é grave.
-
-É apenas intoxicação medicamentosa. Se não tivesse ingerido medicamentos, seria curado facilmente. O Johrei desencadeará um processo de purificação dos venenos dos fármacos; basta que ele esteja ciente disso. Além do mais, seu corpo ainda não está enfraquecido, então, enquanto o corpo se limpa, não haverá grandes problemas. O Johrei convencional é suficiente.
-
-### II – Região das Costas
-
-**1. Homem de meia-idade com dor no fígado após uma pancada nas costas** *(Ensinamento)*
-
-“Homem de 49 anos, ingressou na Fé em fevereiro deste ano. A doença começou em outubro de 1945, com uma dor aguda no estômago, que se tornou recorrente. Recentemente, a dor se localiza na região do fígado e irradia para as costas. Quando a dor surge, deitar-se de costas, em silêncio, por cerca de trinta minutos, proporciona alívio temporário. Sente o corpo todo gelado. Sua aparência é normal e ele se alimenta normalmente. Em 1946, sofreu uma pancada nas costas que fraturou três costelas. Inicialmente, recebeu tratamento médico e, desde janeiro deste ano, vem recebendo Johrei, mas a dor ainda aparece uma ou duas vezes por dia. Sua mãe, que sofria de uma doença semelhante, cometeu suicídio em casa em 1947. Haveria alguma relação espiritual?”
-
-Não é espiritual. É o veneno dos medicamentos que lhe foram administrados na época da lesão. Ministre Johrei nas costas, especialmente na parte superior do fígado. Os venenos dos fármacos podem permanecer no corpo por mais de trinta anos. A origem de todas as doenças está nos medicamentos. É preciso compreender o quão terríveis eles são. Onde há grande acúmulo de venenos medicamentosos, os espíritos também se encostam. O que digo em meus escritos é uma versão atenuada da verdade. É preciso que vocês compreendam isso a fundo. Se extrairmos os venenos medicamentosos da humanidade, todos se tornarão completamente saudáveis. Se eu dissesse a verdade nua e crua, seria um grande problema, por isso, compreendam nas entrelinhas.
-
-**2. Homem com um nódulo semelhante a um tumor nas costas e crescimento atrofiado** *(Ensinamento)*
-
-“Homem de 26 anos. Aos quatro anos, teve um furúnculo grave que foi tratado por um médico. Logo depois, um nódulo semelhante a um tumor surgiu em suas costas, seu crescimento foi interrompido (não passou de 121,2 cm), e sua visão começou a deteriorar-se gradualmente. Desde outubro do ano passado, ele vem recebendo Johrei e, em janeiro deste ano, ingressou na Fé. Sua evolução tem sido muito boa, mas, ocasionalmente, sente dores agudas. Ele poderá ser curado?”
-
-Certamente será curado. A presença de dor é garantia de cura. A dor é um processo de purificação; se há dor, a cura é certa. Nesse caso, ministre Johrei intensamente na cabeça, na parte superior dos olhos e no bulbo. A perda de visão pode ter duas causas: toxinas e anemia. Pode ser causada pela descida de toxinas da parte superior ou pela compressão na parte posterior, que causa anemia. A miopia, por exemplo, cura-se ministrando Johrei no bulbo. A dor aguda também diminuirá gradualmente. O nódulo nas costas formou-se porque as toxinas foram suprimidas e se solidificaram ali. O crescimento atrofiado também se deve a isso. O crescimento depende do funcionamento da coluna vertebral, que foi imobilizada pelo nódulo. Aos vinte e seis anos, é um pouco tarde, mas ele ainda deve crescer um pouco.
-
-### III – Região Lombar
-
-**1. Mulher com paralisia da cintura para baixo** *(Ensinamento)*
-
-“Mulher de 40 anos. Inicialmente, sua perna direita parou de se mover. Com o tratamento médico, a paralisia se estendeu a toda a parte inferior do corpo, da cintura para baixo, e seus membros foram se afinando. O médico diagnosticou paralisia da medula espinhal, e recentemente, o problema começou a afetar também a perna esquerda. Ela poderá ser salva?”
-
-Sim, mas a causa é a intoxicação medicamentosa. Os venenos dos fármacos se solidificaram em sua perna direita. O afinamento dos membros deve-se à falta de uso. Gradualmente, o veneno subiu. O diagnóstico de paralisia da medula espinhal é um completo disparate. Injeções de vitaminas, nesses casos, só pioram a condição das pernas. A essas afecções, eu denomino “doenças artificiais”, que não se referem ao “rim” (jinzou) do corpo, mas sim a doenças “criadas pelo homem” (jinzou-byou). O Johrei deve ser focado principalmente nos rins. Além disso, ministrando Johrei na virilha, na parte externa da coxa e na parte inferior das nádegas, ela será curada.
-
-**2. Homem com ciatalgia** *(Paraíso Terrestre nº 43, p. 13)*
-
-“Homem de 33 anos, ingressou na Fé em fevereiro de 1952. Em março, entronizou a Imagem da Kannon (観音) de Caligrafia. Sua cintura começou a doer por volta de maio de 1949. O diagnóstico médico foi de ciatalgia, e ele recebeu cerca de vinte injeções no local. Também tomou medicamentos fitoterápicos por cerca de um mês e fez cinco ou seis sessões de acupuntura e moxabustão. Em 1943, foi submetido a uma cirurgia de apendicite. Em 3 de janeiro de 1952, um parente lhe falou sobre nossa Fé. Ele foi imediatamente à igreja e começou a receber Johrei. Após uns dez dias, sentiu uma leve melhora, mas a dor gradualmente voltou a ser como antes, e agora ambas as pernas doem. Recebeu Johrei continuamente por cerca de seis meses. Depois disso, passou a receber a cada dois dias, mas não há mudanças. Atualmente, o Johrei está sendo focado nos rins e na área afetada.”
-
-Não há relação espiritual; a causa é a intoxicação medicamentosa. Os medicamentos utilizados para a neuralgia, ao mesmo tempo em que a suprimiam, solidificaram o veneno, e por isso a cura está demorando. A dor é um processo de purificação, o que é excelente. Embora seja penoso, quanto mais dói, mais rápido a cura virá. Tenha paciência.
-
-**3. Drenagem de pus na incisão de uma cirurgia renal e dor lombar** *(Coletânea de Ensinamentos nº 4, p. 62)*
-
-“Homem de 26 anos. Há seis anos, foi internado com pleurisia. Três meses depois, o diagnóstico médico não apontou anormalidades e ele retornou ao trabalho. Um ano e meio depois, desenvolveu cárie espinhal. Tratamentos com acupuntura e moxabustão trouxeram grande alívio, e após apenas dois meses de licença, trabalhou por um ano e seis meses. Durante esse tempo, sua região renal direita inchou e a dor tornou-se intensa. Recorreu novamente à acupuntura e moxabustão, mas sem efeito. Um mês depois, teve hematúria maciça e, ao consultar um médico, foi diagnosticado com tuberculose renal e submetido a uma nefrectomia. A ferida da cirurgia nunca cicatrizou completamente. Posteriormente, desenvolveu tuberculose da bexiga, do epidídimo (um lado foi removido) e peritonite. Em dezembro de 1950, seu rim esquerdo inchou, e uma incisão foi feita para drenar o pus. Recebeu alta em maio de 1951 e, atualmente, sente uma leve dor lombar e uma pequena quantidade de pus ainda drena da incisão direita. Desde o início da doença até recentemente, fez uso de grande quantidade de medicamentos e injeções (principalmente glicose, cálcio, vitaminas, penicilina – setenta a oitenta ampolas –, estreptomicina – vinte ampolas –, e PAS – setecentos gramas). Atualmente, pesa 51 kg, tem temperatura normal e bom apetite. Ele está recebendo Johrei e deseja ingressar na Fé em dezembro. Poderá ser salvo? Pedimos orientação sobre os pontos vitais para o Johrei.”
-
-Este caso foi excessivamente manipulado, e por isso não posso dar uma resposta definitiva. Continue ministrando Johrei, sem forçar, de forma natural. Não posso dizer que não há esperança, mas também não posso garantir a cura.
-
-Analisando o histórico, tudo começou com a supressão da pleurisia. O líquido desceu e se solidificou na medula espinhal. Isso foi erroneamente diagnosticado como cárie espinhal, e o tratamento com acupuntura e moxabustão solidificou ainda mais o problema. Em seguida, o líquido da pleurisia desceu para a região renal e se solidificou ali. Quando a purificação começou, o ideal teria sido não fazer nada. O líquido teria sido absorvido e expelido pela urina. O fato de o tratamento não ter surtido efeito significa que a purificação era forte demais para ser suprimida. A hematúria maciça, um mês depois, foi um excelente sinal: o acúmulo estava se dissolvendo e sendo eliminado pela urina. Se tivessem deixado a natureza seguir seu curso, ele teria se curado completamente. Foi a intervenção médica que criou toda essa situação. É uma grande lástima.
-
-O fato de a ferida não cicatrizar é bom. É melhor que tudo seja expelido. A causa é a intoxicação pelos antissépticos, que impede a cicatrização. A tuberculose do epidídimo foi causada pelos antissépticos usados na nefrectomia, que se infiltraram e desceram. É um milagre que ele esteja vivo. Com a remoção do rim direito, o veneno se concentrou no esquerdo. Não adianta nada. No final, seria preciso remover ambos os rins, mas isso seria fatal, então não há o que fazer. É uma situação lamentável. A medicina desconhece o processo de eliminação natural. Não era preciso remover nada. Eles ignoram completamente as leis da natureza.
-
-O fato de uma pequena quantidade de pus continuar a sair é um ótimo sinal. Ele está vivo porque sua temperatura está normal e ele tem apetite. Ministrando Johrei com paciência, cerca de duas vezes por semana, ele provavelmente conseguirá sobreviver. Não posso fazer promessas ou dar garantias. Não sei a quantidade exata de medicamentos que ele usou nem como a cirurgia foi realizada; não fui eu que a fiz.
-
-“Não há problema em ele ingressar na Fé?”
-
-Claro que não. Que tipo de pergunta é essa? De qualquer forma, sem ingressar na Fé, ele não tem chances. Se ingressar, talvez viva um pouco mais. Se não ingressar, sua vida durará apenas alguns anos. A recomendação de Johrei duas vezes por semana é para o caso de ele ingressar. Se não ingressar, nem mesmo duas vezes por semana adiantará.
-
-### IV – Região dos Braços e Pernas
-
-**1. Homem com dormência e incapacidade de mover os braços e pernas** *(Coletânea de Ensinamentos nº 1, p. 49)*
-
-“Meu pai, de 62 anos, ingressou na Fé em 1948. Em 13 de julho de 1951, foi dormir após beber e acordou cerca de duas horas depois sem conseguir mover o pulso esquerdo. Não sentia dor, apenas uma leve dormência do cotovelo aos dedos. Não conseguia mover o pulso para cima e para baixo, mas conseguia segurar objetos levemente. Desde então, temos ministrado Johrei diariamente, sem mudanças. Há vinte e oito anos, ele caiu de bicicleta e quebrou um osso do ombro, mas não usou medicamentos na época. Há nódulos no cotovelo e no ombro que doem quando pressionados. Antes de ingressar na Fé, recebeu várias vacinas. Onde devemos focar o Johrei?”
-
-Isso não tem relação com a queda de bicicleta. É impossível que aquela fratura comece a doer agora. A causa são as vacinas. O medicamento se solidificou nos locais que doem quando pressionados. Ministre Johrei nesses pontos. Não é nada sério. Ele certamente será curado. Não aplique força. Se não aplicar força, a cura será rápida. Em todos os casos de dor nos braços ou pernas, pensem em injeções. É provável que a pessoa tenha recebido uma injeção no passado. Não há outra explicação.
-
-**2. Homem com um braço paralisado e hematúria** *(Coletânea de Ensinamentos nº 8, p. 45)*
-
-“Homem de 53 anos, ingressou na Fé em abril de 1949. Em fevereiro de 1948, entronizou a Imagem de Komyô Nyorai-Sama. Na manhã de 9 de janeiro, teve calafrios por quatro ou cinco horas e, por volta do meio-dia, vomitou uma grande quantidade de um líquido leitoso com substâncias amarronzadas. Na noite do dia 11, teve soluços por cerca de duas horas, que pararam temporariamente com Johrei, mas voltaram por uma hora após quarenta minutos. O mesmo ocorreu no dia seguinte. Não conseguia comer, apenas bebia água quente. Não tinha muita febre, apenas um pouco na região dos rins. Após uma semana, o apetite voltou. No décimo quinto dia, os ombros, as omoplatas e a região abaixo das costelas incharam, numa área de 12 a 15 cm de altura por 15 cm de largura. O braço direito, do úmero (entre o cotovelo e o ombro) e do pulso aos dedos, também inchou. A articulação do ombro direito ficou imóvel, e ele só se levantava para ser alimentado (cerca de uma tigela de arroz). Teve hematúria três ou quatro vezes. No trigésimo sétimo dia, uma protuberância do diâmetro de 3 cm surgiu no bíceps, com a ponta avermelhada. No dia seguinte, um pus espesso foi expelido, trazendo um pouco de alívio. A drenagem de pus continuou por cerca de dez dias, e o inchaço diminuiu consideravelmente, mas um nódulo do tamanho de um punho se formou no fígado, ele perdeu o apetite, ficou muito fraco e a drenagem de pus cessou. Com Johrei, voltou a se alimentar. A hematúria ocorre quatro ou cinco vezes por dia. O pus tornou-se sanguinolento, e ainda há um pouco de pus abaixo da omoplata. Ele está recuperando a energia, mas a base do braço continua imóvel. Pedimos orientação sobre os pontos de Johrei.”
-
-Isso não é excelente? O processo está ocorrendo de forma順調 (junchō –順調). Este homem tem uma grande quantidade de toxinas. O sangue impuro está sendo expelido de várias formas por diferentes partes do corpo e, no final, ele será curado. Tenha paciência. Os pontos vitais para o Johrei são os locais inchados, doloridos ou com febre. Os sintomas indicarão onde ministrar.
-
-**3. Jovem com rouquidão, dormência nos braços e pernas, dificuldade de locomoção e febre alta** *(Paraíso Terrestre nº 40, p. 13)*
-
-“Meu irmão mais novo, Mitsugi (24 anos), teve uma purificação com sintomas de pleurisia em meados de outubro de 1951, mas, graças ao Johrei, recuperou-se completamente. Em meados de abril de 1952, começou uma purificação na cabeça, com febre alta na testa, na nuca e ao redor do pescoço, e sua voz ficou especialmente rouca. Sentia também dor na lateral direita do abdômen, com dificuldade para virar-se na cama. Com o Johrei, recebeu a proteção divina e melhorou temporariamente. Em 28 de maio, a mesma purificação retornou e continua até hoje. Atualmente, tem febre alta na cabeça, ao redor do pescoço, nos rins, no cóccix e nas canelas. Sua voz ainda é fraca, sente falta de ar e cansa-se muito ao andar um pouco. A dor nas pernas, especialmente nas canelas, dificulta a locomoção. Os tornozelos e os polegares das mãos também estão dormentes. Mesmo com Johrei, a febre não cede. Seu apetite se resume a cerca de uma tigela de arroz por refeição. Todos os dias, entre 11 e 15 horas, tem febre e, por vezes, sente tanto frio que precisa se cobrir com um cobertor. Meu irmão foi registrado para suceder uma família de parentes com a qual rompemos relações (a família Hotta). O pai da família Hotta morreu de catarro intestinal; a mãe, de derrame, há três anos; e o filho, de tuberculose, há quinze ou dezesseis anos, e a família se extinguiu. Meu irmão, desde que ingressou na Fé em 1949, não era muito dedicado e, por um tempo, não usou o Ohikari. Atualmente, sentindo-se arrependido, está usando-o. Pedimos sinceras desculpas. Em 5 de julho, entronizamos a Imagem da Kannon (観音) de Caligrafia na casa da família Hotta, mas como ele está em purificação na casa de seus pais, o culto está sendo feito lá. A purificação do meu irmão tem relação com esses fatos? Pedimos orientação sobre os pontos de Johrei.”
-
-Não há relação espiritual; é uma enfermidade causada pela intoxicação medicamentosa. A febre persistente indica que o Johrei não está sendo aplicado no ponto vital. Toque seu corpo e encontre o local mais quente; ministrando Johrei ali, a febre diminuirá gradualmente. Além disso, ministre Johrei nos locais que doem quando pressionados. Sua alimentação deve ser rica em vegetais. O mais importante é evitar o agravamento do enfraquecimento, o que pode ser alcançado com repouso normal. Dessa forma, ele deverá se curar.
-
-**4. Jovem com nódulos do tamanho de ovos na perna esquerda** *(Paraíso Terrestre nº 36, p. 14)*
-
-“Um fiel de 22 anos. Desde os cinco ou seis anos, tem dois nódulos do tamanho de ovos e quatro ou cinco do tamanho de um dedo mínimo na parte posterior da coxa esquerda, até o tornozelo. Eles permaneceram inalterados até hoje. Sentia apenas uma leve dor após o trabalho, por isso não deu importância. Nos últimos quatro ou cinco anos, tentou vários tratamentos. Um pequeno nódulo no tornozelo foi removido cirurgicamente, mas voltou a se formar. Ele começou a receber Johrei há apenas uma semana e não há mudanças significativas. Ele afirma nunca ter usado medicamentos antes do surgimento dos nódulos. Qual seria a causa? Estamos ministrando Johrei com um fiel dedicado.”
-
-É a intoxicação medicamentosa dos pais. Com Johrei persistente, embora demore, ele certamente será curado. É melhor que ele se exercite o máximo possível.
-
-**5. Pessoa com dedos das mãos e pés arroxeados e dor intensa** *(Coletânea de Ensinamentos nº 2, p. 10)*
-
-“Homem de 30 anos, não-fiel. Por volta de maio de 1950, as pontas dos dedos da mão e do pé esquerdos, da unha à polpa, em formato triangular, ficaram arroxeadas e muito doloridas, sem anomalias nas unhas. Após cerca de seis meses de tratamento médico, foi submetido a uma cirurgia. A dor desapareceu temporariamente e a cor roxa sumiu, mas as articulações dos dedos da mão e do pé esquerdos se contraíram, ficando em forma de gancho. Por volta de maio de 1951, os dedos da outra mão e do outro pé apresentaram os mesmos sintomas, impedindo-o de andar. Para aliviar a dor, ele precisa coçar os dedos constantemente. Recebeu Johrei três ou quatro vezes, e a dor diminuiu um pouco. Não há supuração. Seu irmão faleceu de osteomielite em 1949 e, exatamente um ano depois, ele desenvolveu esses sintomas. Haveria alguma relação espiritual? Ou qual seria a causa?”
-
-Osteomielite em que osso?
-
-“Na perna.”
-
-A mão não era osteomielite, certo?
-
-“Certo.”
-
-Então, não há relação com o espírito do irmão. Se houvesse alguma relação, seria com o próprio irmão. É intoxicação medicamentosa. A cor roxa indica sangue impuro; é panarício. O veneno medicamentoso se solidificou ali, e ele tentou vários tratamentos. Se tivesse deixado como estava, o veneno teria se acumulado e sido expelido em um único ponto. Como tentou várias coisas, o veneno não se acumulou ali, mas em outros lugares. É mais uma vítima dos medicamentos. É, sim, intoxicação medicamentosa. Com Johrei paciente, ele será curado. Aplicar pomadas, fazer cirurgias... tudo isso faz o problema se espalhar. No fim, são os medicamentos e os médicos que criam as doenças. A tentativa de curar não cura, mas agrava. Se compreendermos isso, a causa das doenças se torna algo simples.
-
-Outro dia, li no jornal "San" sobre uma senhora de 105 anos, que, somando netos e bisnetos, tinha mais de cem descendentes. E ela dizia: “Detesto remédios e injeções”. Se alguém que gosta de remédios e injeções vivesse muito, tudo bem, mas são as pessoas que evitam essas coisas que vivem mais. As pessoas não percebem a contradição entre os fatos e a teoria científica. A mente delas é muito limitada. Interpretam as coisas ao contrário. Nesse ponto, são como bárbaros.
-
-### V – Sistema Urinário
-
-**1. Homem com desconforto na bexiga e uretra, e dor aguda ao trabalhar** *(Paraíso Terrestre nº 37, p. 11)*
-
-“Desde os 20 anos, passei a urinar com mais frequência, cerca de dez vezes por dia. No exército, disseram que era gonorreia e fui internado três vezes. Usei uma grande quantidade de Salvarsan 606, medicamentos fitoterápicos e outros remédios para gonorreia. Devo ter tomado centenas de injeções. Depois disso, pareceu que eu tinha melhorado um pouco, mas sentia uma sensação incômoda, como se meu pescoço estivesse sendo apertado. Após ingressar na Fé, cerca de dois meses depois, essa sensação desapareceu completamente. Na época do exército, na China, eu havia cortado a cabeça de um boi com uma espada japonesa, e imaginava que pudesse ser o espírito do boi. No entanto, desde o Ano Novo deste ano, sinto desconforto na bexiga e na uretra, e uma dor aguda na uretra, especialmente durante o trabalho. Minha cintura esquerda dói ocasionalmente. Atualmente, recebo Johrei de um professor de vez em quando, mas a purificação parece estar se intensificando. Nos momentos mais intensos, sinto uma coceira forte na uretra e não consigo trabalhar. Ficar sentado em casa, sem me mover, é muito mais confortável. Acredito que minha purificação seja dos venenos dos medicamentos para gonorreia, mas a dor é constante e vivo em um estado de desconforto diário. Desejo me libertar desse sofrimento o mais rápido possível e peço orientação sobre os pontos vitais do Johrei. Além disso, há quatro anos, fui diagnosticado com cárie na coluna, mas deixei sem tratamento e o problema desapareceu. Aos 19 anos, fiz uma cirurgia de sinusite. Aos 23, tive ptose gástrica e, aos 28, fiz uma cirurgia de hemorroidas. Também tive um grande furúnculo na lateral esquerda e na cintura, para o qual usei uma pomada para extrair o pus.”
-
-Este homem é uma vítima da medicina e dos medicamentos. No futuro, outros sofrimentos surgirão, então esteja preparado. Ministrando Johrei nos locais doloridos, a quantidade de veneno medicamentoso diminuirá pouco a pouco, e a cura progredirá na mesma medida. Contudo, há uma quantidade considerável de veneno, então a cura levará muito tempo. Esteja ciente disso. O espírito do boi não tem relação.
-
-**2. Mulher obesa com incapacidade de sentir a necessidade de evacuar** *(Coletânea de Ensinamentos nº 1, p. 4)*
-
-“Fiel de 28 anos, ingressou na Fé em fevereiro de 1950. Em 5 de junho de 1951, durante o parto, teve dificuldades e sofreu com as dores por dois dias e duas noites. Quando a cabeça da criança havia saído um terço, a parteira, alegando que o corpo da mãe estava fraco devido ao longo trabalho de parto, aplicou duas injeções para induzir as contrações, uma em cada coxa, para facilitar o parto. Por ter acreditado na parteira e permitido as injeções, ela teria perdido a proteção divina? Depois disso, as contrações cessaram, e apenas metade da cabeça saiu. A parteira insistiu várias vezes para usar instrumentos, mas, acreditando que as contrações haviam parado por causa das injeções, ela continuou recebendo Johrei. No entanto, no terceiro dia à tarde, como a criança não nascia, ela foi finalmente retirada com instrumentos. A criança respirou uma vez ao nascer e faleceu. Depois do parto, uma grande quantidade de sangue impuro foi eliminada, mas atualmente ela não sente quando precisa urinar ou evacuar. Ela continua recebendo Johrei desde então. Graças à proteção divina, pôde se levantar após três semanas. Por um tempo, um furúnculo surgiu entre a vagina e o ânus, impedindo-a de se sentar. Com Johrei, ele se transformou em corrimento, o pus foi eliminado e ela foi curada. Quanto à urina e às fezes, ela se esforça para ir ao banheiro em horários determinados e, quando vai, elimina uma grande quantidade de urina. Qual seria a causa? Atualmente, ela sente a virilha repuxar, está obesa em todo o corpo e diz que a nuca dói. Seu marido ingressou na Fé há cinco anos, mas se separou da primeira esposa porque ela o traiu. Ele ficou com a filha do primeiro casamento. A ex-esposa parece ter um forte apego à criança. A esposa atual casou-se com ele em 1949, e este era seu primeiro filho. Ela também se divorciou do primeiro marido devido à má conduta dele. Haveria o ressentimento da ex-esposa? E onde devemos focar o Johrei?”
-
-Ela tem uma enorme quantidade de veneno medicamentoso. É estranho, mas quando se aplicam injeções para contrações fracas, elas se tornam ainda mais fracas. A perda da sensação de urinar e evacuar deve-se à solidificação do veneno medicamentoso na parte inferior do corpo. Com paciência, o veneno será expelido e, à medida que for eliminado, ela melhorará. A obesidade generalizada indica que o veneno está solidificado nos rins. Tudo é intoxicação medicamentosa, provavelmente de fitoterápicos. Os fitoterápicos causam esse tipo de problema; são terríveis. Não há relação espiritual. Portanto, como eu disse, o foco é na parte inferior. O veneno medicamentoso desce constantemente e se solidifica no ânus e na vagina. É preciso ministrar Johrei nesses locais para eliminá-lo. A dormência também é causada pelo veneno. Continuando assim, ela melhorará gradualmente.
-
-### VI – Ginecologia
-
-**1. Mulher de meia-idade com cisto ovariano, cirurgia de aborto e purificação geral com altos e baixos** *(Coletânea de Ensinamentos nº 7, p. 68)*
-
-“A esposa de um professor (33 anos), antes de ingressar na Fé, usava Norshin com frequência. Em 1947, foi operada de um cisto ovariano. Antes de se recuperar completamente, engravidou e, devido aos fortes enjoos e ao enfraquecimento do corpo, submeteu-se a um aborto. Depois disso, teve pleurisia e ficou em tratamento por dois anos, sem melhora. Seguindo o conselho de outras pessoas, tentou de tudo, inclusive beber um chá de ossos humanos por cerca de dois meses. Recebeu algumas injeções de Salbro e vitaminas, que lhe trouxeram um pouco de alívio. Então, seu marido adoeceu com asma, e a partir daí ela voltou a receber Johrei. Graças à proteção divina, seu marido deixou o emprego na repartição de finanças e passou a se dedicar à Obra Divina. Entronizamos a Imagem de Dai-Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Pela primeira vez, ela conseguiu ajudar no trabalho agrícola, o que foi um milagre. No entanto, inúmeros nódulos surgiram em seu pescoço, que supuraram várias vezes. Agora, as feridas fecharam, mas os nódulos permanecem. Em outubro de 1951, recebeu o Ohikari ‘Dai-Komyô’ e teve uma purificação com sangramento hemorroidário. Por volta de janeiro de 1952, uma dor aguda surgiu em sua mão esquerda, a pele ficou com uma cor de cera, pálida, e o corpo, cambaleante. Ela tem recebido Johrei diariamente, mas oscila entre melhora e piora, com neuralgia na mão, dor e inchaço abdominal, dor no peito e purificação nas pernas. Em 11 de fevereiro, ao receber o Gaku ‘Dai-Jôkô’, teve uma purificação no estômago, com tosse e eliminação de grande quantidade de um líquido semelhante a catarro ou saliva, viscoso e amargo. Sentiu o coração apertado e ficou de cama. Atualmente, sente a cabeça pesada, o peito oprimido, o estômago vazio, a boca amarga, as pernas e a cintura fracas e cambaleantes. O Johrei provoca febre e tosse, mas o catarro não sai, o que a faz sofrer. Ela come uma tigela pequena de arroz três vezes ao dia, urina bem e tem o intestino regular. Pedimos orientação.”
-
-Esta é uma purificação dos venenos dos medicamentos. Várias substâncias estão sendo eliminadas de várias formas. Se ela tiver paciência durante esse processo, melhorará gradualmente. Casos como este melhoram aos poucos, sem que se perceba. Basta ter paciência. Não é nenhuma doença específica. O que foi introduzido está saindo, é só isso. O fato de o catarro não sair indica que o Johrei não está sendo aplicado no ponto certo. É preciso investigar melhor. Ela mesma pode apalpar o corpo e encontrar o local com febre; é de lá que o catarro se origina. Se não conseguir encontrar, peça ao marido para apalpar seu corpo. Ela já passou do pior momento; falta pouco.
-
-**2. Pessoa que se submeteu a uma ooforectomia** *(Coletânea de Ensinamentos nº 3, p. 91)*
-
-“Minha esposa (23 anos), no final de abril de 1951, sentiu o baixo-ventre inchar e uma dor aguda. Um ginecologista e um cirurgião deram o mesmo diagnóstico de ‘cisto ovariano’. Em 2 de maio, ela foi submetida a uma cirurgia de laparotomia, na qual o ovário esquerdo inteiro e a maior parte do direito foram removidos. Recebeu alta sem complicações e logo voltou a lecionar na escola de corte e costura de seu pai. No outono, parecia cansada com as aulas diurnas e noturnas, e uma dor aguda começou na região do ovário direito. O diagnóstico médico foi de ‘recidiva, pois o cisto anterior era maligno’, e disseram-lhe para operar novamente, sem garantia de resultado. Eu havia ingressado na Fé em meados de junho de 1951 e, acreditando que não havia outro caminho para a salvação, e como estávamos noivos na época, senti a necessidade de nos casarmos imediatamente e a trouxe para morar comigo à força. Desde então, ela tem recebido Johrei dos professores Nishiya e Sugiyama, e eu também. A dor desapareceu primeiro e, uma semana depois, ela já estava de pé, fazendo pequenos trabalhos de costura. No entanto, alguns dias depois, o inchaço abdominal aumentou, acompanhado de uma sensação de peso e dor aguda. Devido à dor e às náuseas, seu apetite diminuiu e o enfraquecimento se acentuou. Há dois dias, fezes estranhas e um pouco de sangue começaram a ser eliminados. Hoje, a pressão abdominal subiu para o peito, e ela se queixa constantemente de aperto no coração e vomita com frequência. Há vários anos, sua menstruação ocorria apenas três ou quatro vezes por ano, mas após a cirurgia, tornou-se mensal, embora leve. Este mês, já terminou há cerca de dez dias. Além disso, há três ou quatro anos, ela sofria de urticária severa e, a cada crise, o médico lhe aplicava injeções fortes. A família de minha esposa pertence a um templo da seita Jodo, e seu pai é filho adotivo. A avó materna dela faleceu de câncer de útero há oito anos. Após o diagnóstico, ela foi isolada em uma casa de campo, sem ninguém que cuidasse dela com carinho. Apenas no momento da morte, os pais de minha esposa a levaram de volta para casa para manter as aparências. Até hoje, seu túmulo está separado do de seu avô. Na infância, minha esposa era a neta mais querida dessa avó. Alguns dias após o início desta purificação, o espírito da avó apareceu em uma forma assustadora e a ameaçou repetidamente. Hoje, em um momento de dor, ela disse: ‘Comparada a mim, que sou cuidada por todos e feliz, penso com compaixão em minha avó, que não teve ninguém para cuidar dela e deve ter se sentido tão solitária’. Os pais de minha esposa odiaram profundamente nosso relacionamento e casamento por muito tempo, chegando a dizer que nos amaldiçoariam até a morte. Embora agora tenham consentido relutantemente, não compreendem nossa Fé e continuam a se opor. Em 7 de outubro, minha esposa e minha mãe receberam o Ohikari do professor Nishiya. Desejo que ela seja salva o mais rápido possível. O que devemos fazer?”
-
-Se o ovário foi removido, não é uma recidiva. Isso é estranho. Isolada em uma casa de campo... que pessoas cruéis. O ovário foi removido? Antigamente, isso resolveria o problema, mas hoje, com a intensificação da purificação no Mundo Espiritual, o veneno não se solidifica mais. É por isso que surgem essas complicações. Por um tempo, o veneno se solidificou e ela pôde até lecionar, mas a purificação fez a dor aguda retornar. Essa dor, diferente da anterior, é causada pelos antissépticos. Antes, os antissépticos também se solidificavam, mas agora não mais. Uma nova cirurgia seria um desastre. Desde que ela não se enfraqueça, será curada. O inchaço abdominal e as náuseas são o corpo expelindo o veneno dos medicamentos. A dor aguda é a purificação dos antissépticos. O inchaço também é o veneno dissolvido. As fezes estranhas são as impurezas da cirurgia. No entanto, a situação não é tão ruim. A pressão no peito ocorre porque o veneno está subindo para ser expelido pelo vômito. O vômito frequente é excelente. A causa original são as injeções para urticária. Esse veneno se acumulou nos ovários e causou a dor. Normalmente, os ovários não doem. A dor é causada pela intoxicação medicamentosa. A relação espiritual não é significativa. Quando o corpo enfraquece, os espíritos se encostam, mas não foi ela quem fez a avó sofrer, então não há ressentimento, apenas uma saudade que a faz se aproximar. O sentimento de compaixão pela avó é compreensível, mas não tem relação com a doença. No momento, não posso dizer muito mais. O fato de a família ser da seita Nitiren e se opor também causa alguma interferência espiritual. Faça-a ler os Ensinamentos o máximo possível. Pessoas nessas condições podem receber Johrei o quanto quiserem; quanto mais, melhor. É isso. Eles se amam tanto que eu gostaria de ajudá-los. Seria bom entronizar a Imagem de Komyô Nyorai-Sama e orar com fervor. Ministrem Johrei o máximo possível e façam-na ler os Ensinamentos. Façam isso com dedicação. Não há outra forma de salvação.
-
-**3. Purificação de uma mulher de meia-idade após cirurgia de câncer de útero** *(Coletânea de Ensinamentos nº 3, p. 26)*
-
-“Uma fiel de 45 anos. Aos 41, em fevereiro, submeteu-se a uma cirurgia de câncer de útero e, desde então, sofre de constipação. Em julho do ano seguinte, ingressou na Fé e recuperou a saúde. No entanto, sua frequência urinária aumentou gradualmente, chegando a intervalos de quinze minutos, e às vezes ela urinava sem perceber. Em setembro de 1950, um grande furúnculo surgiu em suas nádegas, que se rompeu em outubro, começando a drenar pus. A ferida foi se alargando e a drenagem continuou. Em seguida, vários outros orifícios se abriram nas nádegas e na região lombar, dificultando a locomoção e a posição deitada. A micção frequente persiste. Há sinais de cárie, e alguns pontos da coluna doem ao serem tocados. O orifício mais recente é muito profundo (cabe um polegar) e extremamente doloroso, expelindo um pus sanguinolento e espesso. Ao redor da primeira ferida, uma fina camada de pele está se formando, e o pus está mais ralo. O marido e toda a família são fiéis. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas. Ministramos Johrei na cabeça, nas costas (especialmente na coluna e nos rins), no baixo-ventre, na bexiga, na uretra e nas áreas de drenagem, e ela lê os Ensinamentos com frequência. Pedimos orientação.”
-
-A causa é a cirurgia de câncer de útero. Como foi o corte?
-
-“Havia um nódulo consideravelmente grande, que foi removido.”
-
-Em que região? Perto do útero, imagino. E qual foi a extensão da remoção? O útero foi retirado?
-
-“Não.”
-
-Então, a causa são os antissépticos. É uma intoxicação por antissépticos. Já se passaram quatro anos. O pus que está saindo agora é o antisséptico. A abertura de vários orifícios é excelente. A dificuldade de locomoção é inevitável por enquanto. A micção frequente é causada pelo esfíncter uretral, onde o antisséptico se infiltrou, solidificou e está pressionando. O Johrei deve ser focado na parte superior da virilha, em direção à uretra. Isso a curará. A abertura de orifícios para a eliminação do pus é ótima. A maioria das pessoas sente dor ao tocar a coluna; não chega a ser cárie. A profundidade do orifício é um bom sinal, pois indica que a purificação está atingindo as camadas mais profundas. A dor intensa é inevitável. A formação de pele ao redor da ferida mostra que está cicatrizando. Não há motivo para preocupação. É preciso ter paciência por mais um tempo.
-
-**4. Pessoa diagnosticada com câncer de útero** *(Paraíso Terrestre nº 37, p. 13)*
-
-“Meu marido ingressou na Fé em julho de 1950, e eu, em agosto. Em fevereiro de 1951, entronizamos a Imagem de Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Antes de ingressar na Fé, disseram-me que eu tinha uma ferida no útero e fiz cerca de dez aplicações de um medicamento tópico. Em novembro de 1950, fui diagnosticada com câncer de útero. Desde então, não fiz mais tratamento médico e tenho recebido Johrei. Dez meses após o início do Johrei, comecei a sentir dor na região lombar, que foi se intensificando. Sofri com dores agudas por sete meses. Desde novembro de 1951, mesmo em purificação, tenho saído para difundir a Fé em minha cidade natal. No dia seguinte a uma dessas viagens, tive a graça de expelir cerca de dez coágulos de sangue do tamanho de um polegar. O corrimento já existia antes do diagnóstico de câncer. Por um tempo, teve um odor forte, mas agora não mais. Certa vez, expeli uma secreção viscosa de cerca de trinta centímetros de comprimento. Meu primeiro marido era médico e faleceu de icterícia hemorrágica há sete anos. Durante os partos de nossos oito filhos, fiz lavagens e desinfecções no hospital umas cento e quarenta ou cinquenta vezes. Também fiz dois abortos no quarto mês de gestação. A dor é bastante intensa. Haveria alguma relação espiritual? E quais os pontos para o Johrei?”
-
-Isso não é espiritual, nem é câncer. É tudo causado pela intoxicação medicamentosa. Embora demore, a cura é certa, então fique tranquila. O Johrei pode ser focado apenas nos locais doloridos.
-
-### VII – Corpo Inteiro
-
-**1. Bebê com convulsões diárias** *(Paraíso Terrestre nº 41, p. 13)*
-
-“Meu segundo filho, desde os 110 dias de vida, começou a ter convulsões diárias. Agora, com mais de 140 dias, seu pescoço ainda não firma. O lado direito do pescoço está um pouco mais alto e levemente febril. Meu irmão mais novo faleceu com um e dois anos (causa desconhecida), e não cultuávamos seu espírito. Começamos a fazê-lo imediatamente. Tenho também um primo que se enforcou e um que morreu afogado. A purificação do meu filho teria relação com eles? Além disso, seu peito é muito afundado (um pouco acima do plexo solar), o que a medicina chama de constituição raquítica adenopática. Qual seria a causa? Onde devemos ministrar o Johrei? A Imagem da Kannon (観音) de Caligrafia foi entronizada em junho do ano passado, mas ainda não temos a Imagem Divina.”
-
-Não é espiritual. É devido à intoxicação medicamentosa. Apalpe todo o corpo dele e encontrará locais com febre. Ministre Johrei nesses pontos, e ele melhorará gradualmente. Há duas possíveis causas: uma injeção logo após o nascimento, ou o uso excessivo de medicamentos ou injeções pela mãe durante a gravidez ou pouco antes dela.
-
-**2. Pessoa com calafrios, tosse, constipação, bastante enfraquecida, com dormência constante na região lombar, falta de ar e um nódulo no plexo solar que sobe para o peito** *(Coletânea de Ensinamentos nº 2, p. 88)*
-
-“Em fevereiro de 1951, tive uma purificação de gripe. Em meados de março, repousei em casa e, sentindo-me um pouco melhor, voltei a difundir a Fé. Desde o início de setembro, sinto muito frio, tenho tosse intensa, muito catarro e constipação. Desde outubro, estou novamente em repouso em casa. Atualmente, estou bastante enfraquecido. Embora minha aparência seja de quem está bem, minhas pernas afinaram bastante. Consigo ir ao banheiro sozinho. O apetite varia; mesmo quando não tenho, consigo comer cerca de meia tigela de arroz se me esforçar. Ao receber Johrei nos ombros, costas e atrás do estômago, às vezes tinha febre e delírios, mas agora isso raramente acontece. Até novembro, sentia muito frio, mas agora não tanto. A região lombar está constantemente dormente e sinto falta de ar, não consigo conversar por muito tempo. Quando a falta de ar é mais intensa, sinto como se o nódulo do plexo solar subisse e pressionasse o peito. Desde criança, tenho o estômago fraco e tomei Wakamoto, antiácidos e outros medicamentos em pó. A cada gripe, tomava muito xarope para tosse. Aos 24 anos, tive beribéri com dormência e fiz tratamento médico por 75 dias. Atualmente, sinto febre na cabeça (topo e nuca), no bulbo, nos ombros, nas costas, atrás do estômago e no rim esquerdo. Estamos ministrando Johrei nesses locais. Está correto? Ou seria espiritual? Toda a família é fiel. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas.”
-
-Não é espiritual. É intoxicação medicamentosa. Esta pessoa tem uma quantidade enorme de medicamentos no corpo. Por isso, é preciso ter paciência e perseverança. Antigamente, o veneno estava solidificado e a purificação ocorria aos poucos, de forma disfarçada. Agora, ela se manifesta de forma generalizada. Não é em um único lugar; a purificação está ocorrendo no corpo todo. A febre causa a falta de apetite, que leva à constipação, à tosse e ao catarro. Como ele tem 53 anos, a purificação não vem de uma vez só. Se viesse com grande intensidade, a cura seria rápida, mas ele não tem força purificadora suficiente para isso, por isso o processo é longo. É só isso. Ao ministrar Johrei, o mais importante é encontrar o ponto vital. Ao examinar o próprio corpo, ele encontrará o local com mais febre. Esse é o ponto vital principal. Ministre Johrei ali. Ao aplicar em si mesmo, também é preciso relaxar. Não há nada de complicado.
-
-**3. Mulher enfraquecida com diarreia intensa e grande eliminação de muco (filha com os mesmos sintomas)** *(Paraíso Terrestre nº 39, p. 11)*
-
-“Minha irmã, de 30 anos. Em outubro de 1950, teve uma purificação e, em novembro, ingressou na Fé. Em dezembro, entronizou a Imagem da Kannon (観音) de Caligrafia. Em 10 de abril de 1952, deu à luz prematuramente a sua terceira filha, com nove meses. Cerca de quatro meses antes do parto, ela vinha tendo uma tosse forte. Cerca de um mês antes, teve diarreia várias vezes ao dia por uns dez dias. Em 5 de maio, o bebê faleceu. Por volta dessa época, a diarreia intensa voltou, ela perdeu o apetite, enfraqueceu dia a dia e ficou de cama. Todos os dias, por volta das 15 horas, tinha calafrios e febre. À noite, vomitava um líquido incolor e viscoso. Após o Johrei, teve uma melhora temporária, mas por volta de 20 de junho, voltou a ficar de cama, mais fraca, e a diarreia continuou. A tosse também é intensa, e o líquido incolor continua a ser eliminado. Por volta de abril, sua filha mais velha (seis anos) também começou a tossir e a enfraquecer dia a dia, com uma purificação semelhante à da mãe. Apesar dessa purificação intensa, minha irmã tem se apegado fervorosamente a Komyô Nyorai-Sama. Haveria algo espiritual? Na família do marido de minha irmã, o pai dele faleceu quando ele tinha três anos. Aos doze, o irmão mais velho morreu na guerra. Em seguida, duas irmãs mais velhas morreram de tuberculose e, depois, a mãe também. Quatro pessoas morreram em três anos, restando apenas o marido, que foi criado por parentes e se casou com minha irmã.”
-
-Não é espiritual, é intoxicação medicamentosa. O corpo desta mulher tem uma grande quantidade de veneno medicamentoso, que foi transmitido à criança. Apalpando bem o corpo dela, encontrarão locais com febre baixa, onde o veneno está solidificado. Ministrem Johrei nesses pontos. No entanto, a cura completa levará muitos anos. Estejam cientes disso, orem fervorosamente a Deus, leiam os Ensinamentos o máximo possível e aprofundem sua fé.
-
-**4. Jovem enfraquecido com cefaleia, dor de dente, dor lombar, surdez, febre e tosse** *(Paraíso Terrestre nº 43, p. 14)*
-
-“Eu, um fiel de 26 anos, ingressei na Fé em fevereiro de 1949. Por volta de novembro de 1951, comecei a ter uma purificação de dor lombar e, a cada vez, recebi a proteção divina. A partir de junho de 1952, somaram-se a purificação de febre, tosse e catarro. Como meu pai se opõe à nossa Fé, continuei a trabalhar à força e fui enfraquecendo gradualmente. Por volta de 15 de setembro, tive uma dor lombar intensa (na parte interna, a 4,5 cm à direita do umbigo), febre, tosse e purificação nas amígdalas. Atualmente, os gânglios linfáticos do lado esquerdo do pescoço estão inchados, os dentes doem, o ouvido esquerdo está completamente surdo, e sinto uma pressão pesada nos ombros, na glândula parótida direita, no bulbo e em toda a cabeça. Devido à purificação da tosse e da febre, meu apetite se resume a duas tigelas de mingau de arroz, e o enfraquecimento aumenta. Minha primeira esposa faleceu de tuberculose em abril de 1949, e me casei novamente em outubro de 1950. A Imagem da Kannon (観音) de Caligrafia foi entronizada em abril de 1949, e a Imagem Divina está sendo solicitada à Sede. Em 1º de outubro, pegamos emprestada a Imagem de Komyô Nyorai-Sama de um parente e a entronizamos. Recebo Johrei diariamente de minha mãe e esposa, e a cada dois dias, alguém da igreja vem. Gostaria de saber os pontos vitais do Johrei e se há alguma relação com minha falecida esposa.”
-
-Não há relação espiritual. É tudo intoxicação medicamentosa, e não há outra forma de cura senão a eliminação paciente do veneno através do Johrei. Os pontos vitais são os locais doloridos, com febre ou com nódulos. Encontre-os e ministre Johrei.
-
-**5. Homem com cefaleia, dormência facial e perda de sensibilidade na região lombar e nos pés** *(Paraíso Terrestre nº 41, p. 12)*
-
-“Meishu-Sama, com todo o respeito, gostaria de perguntar sobre minha longa purificação. Em 9 de fevereiro de 1939 (meu 19º aniversário), ao voltar da escola, senti um cansaço e tirei uma soneca. Ao acordar, duas ou três horas depois, minhas pernas estavam dormentes, especialmente a direita, e eu não conseguia urinar nem evacuar (sem febre). Nos três meses anteriores, minhas mãos tremiam levemente. Fui do médico da cidade para o hospital universitário, onde disseram ser sífilis congênita. Depois, no Hospital Sanraku, o diagnóstico foi de tumor na medula espinhal, e fui operado. Segui o curso habitual dos doentes crônicos: medicina chinesa, águas termais, moxabustão. Em 22 de março de 1946, meu pai faleceu. Na noite do funeral, meu cunhado (fiel) me falou sobre a Fé. Fui imediatamente à casa do professor Horiuchi em Nishiogi e recebi Johrei. Com as palavras do professor para ter paciência, minha mãe e eu recebemos o Ohikari. Desde então, recebemos Johrei com dedicação na igreja e em casa. Seis meses depois, tive soluços ininterruptos por onze dias (com saliva com cheiro dos remédios chineses que havia tomado). Embora fôssemos um ramo da família, recebemos a Imagem da Kannon (観音) de Caligrafia. Meu avô ficou acamado por dezoito anos antes de falecer, então cultuamos sua placa memorial. Também cultuamos o espírito do irmão de minha mãe, que morreu subitamente no trabalho (causa desconhecida). Nesse período, perdi a consciência duas vezes, uma fora de casa e outra em casa, e senti como se minha cintura tivesse se partido. Por volta de abril de 1949, minha perna esquerda ficou pesada e tive dificuldade para andar (também sem febre). Em 1º de fevereiro de 1950, entronizamos a Imagem de Komyô Nyorai-Sama. Com as palavras do presidente da igreja, cavamos um lago no jardim, construímos um pequeno santuário e passamos a cultuar Ryujin-sama. Na verdade, antes da doença (agosto de 1938), durante as férias em Kamakura, eu e um amigo matamos uma cobra em uma casa. Quando recebo Johrei (especialmente da nuca à medula espinhal), sem que eu queira, minha cabeça se inclina para trás e, pouco depois, para frente e para baixo. Também balanço os ombros para os lados, mas os movimentos param quando o Johrei cessa. Não consigo controlar. Por volta de março de 1952, focamos o Johrei na cabeça. O centro da cabeça doía, o rosto ficava dormente e eliminei uma quantidade considerável de remela por uns dez dias. Também eliminei muito pus pelo joelho esquerdo. Atualmente, não tenho força na cintura, e minhas pernas parecem pesadas, como se não fossem minhas. Minha mãe e eu vivemos com dificuldades. Peço orientação sobre a causa desta purificação e os pontos de Johrei. Peço, mais uma vez, sua proteção.”
-
-Isso é intoxicação medicamentosa. Apalpe todo o corpo e encontrará locais com febre, nódulos ou dormência. Ministre Johrei nesses pontos, e você melhorará pouco a pouco. Ore a Deus, leia os Ensinamentos o máximo possível e tenha paciência. Com isso, na maior parte, você será curado.
-
-**6. Mulher com menstruação irregular, leucorreia abundante e purificação geral** *(Paraíso Terrestre nº 39, p. 11)*
-
-“Ingressei na Fé em maio de 1948. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia foram entronizadas em abril de 1949. Agradeço profundamente pelas inúmeras proteções recebidas. Desta vez, gostaria de perguntar sobre a purificação de minha esposa. Casei-me com minha esposa (27 anos) em 1947. Antes do casamento, ela menstruava cerca de dez vezes por ano. Depois, passou a ser uma vez a cada seis meses. Seguindo a recomendação médica, ela tomou trinta injeções de hormônio e fez uma curetagem. Sua menstruação parou por treze meses. Após uma purificação de sarna, voltou a menstruar a cada mês, e em abril de 1951, engravidou. No entanto, em outubro do mesmo ano, com cerca de sete meses, teve um aborto espontâneo. Desde o início da gravidez, sentia dores abdominais, e seu abdômen endurecia a cada hora. O Johrei aliviava em dois ou três minutos, mas na época do aborto, as contrações se intensificaram, o endurecimento não passou e ela perdeu o bebê. A criança nasceu com o corpo todo roxo. Chorou três vezes, viveu por cerca de uma hora e faleceu. Após a morte, ficou com uma aparência muito bonita, como um bebê dormindo tranquilamente. Graças à proteção divina, ela engravidou novamente no final de dezembro do ano passado e está agora no oitavo mês. Recentemente, seu abdômen voltou a endurecer, até seis vezes nos dias de maior frequência. A dor não é tão intensa quanto da outra vez. No terceiro mês de gestação, teve um pequeno sangramento, e desde então, tem tido corrimento (leucorreia). Ao receber Johrei, sente o corpo todo cansado, e o estômago, o abdômen e a cintura doem, mas melhora em cerca de três horas. Além disso, os músculos entre o osso da cintura e a base da perna ficam contraídos por umas três horas enquanto dorme, impedindo-a de se virar. Depois disso, alivia. Suas pernas também estão inchadas. Pedimos a proteção divina para um parto seguro. Qual a causa do endurecimento do abdômen, da dor no estômago, abdômen e cintura, e da contração muscular? E quais os pontos para o Johrei?”
-
-O caso de sua esposa é inteiramente devido à intoxicação medicamentosa. Ministrando Johrei nos locais doloridos, embora demore, ela certamente será curada, então fique tranquilo. Você parece ainda não conhecer a gravidade da intoxicação medicamentosa. Leia todas as publicações da nossa Fé, uma por uma.
-
-**7. Mulher enfraquecida com sintomas de tuberculose** *(Paraíso Terrestre nº 37, p. 9)*
-
-“Mulher de 36 anos. Por volta de setembro de 1945, desenvolveu pleurisia, problemas ginecológicos e doença uterina. Fez tratamento médico por três anos sem sucesso. Em 1947, recebeu a proteção divina através do Johrei e, no mesmo ano, ingressou na Fé. Entronizamos a Imagem de Dai-Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Diariamente, tenho me dedicado, dentro de minhas limitações, à salvação da humanidade, à orientação de pessoas e ao serviço divino. Em 1949, uma purificação de peritonite foi aliviada em um mês. Em janeiro de 1952, comecei a sentir falta de ar, febre, tosse e catarro intensos, e fiquei de cama. Atualmente, ao me levantar, a tosse e o catarro se intensificam, sinto as costas cansadas e com uma dor surda. A purificação é mais intensa no lado esquerdo do corpo. Sinto febre no bulbo, no peito e no útero. Ambos os lados do peito doem quando pressionados. Ao receber Johrei na virilha e na região do útero, o pescoço e os ombros enrijecem. Recentemente, ao receber Johrei no abdômen, sinto duas ou três esferas se moverem para cima e para baixo, fazendo um barulho de bolhas, e depois desaparecem. A menstruação parou desde abril e o enfraquecimento aumentou, mas consigo comer duas tigelas pequenas de arroz três vezes ao dia. Meu marido era filho adotivo e herdeiro da família. Ele morreu na guerra em junho de 1945. Meu pai adotivo morreu de doença. Minha mãe adotiva se enforcou no beiral de um armazém em junho de 1936. Meu filho faleceu aos três anos, em março de 1943, e está enterrado junto com meu marido. Atualmente, vivo com minhas duas filhas (ambas fiéis), vendendo nossos bens para sobreviver. Até agora, nós três nos revezávamos nas purificações, mas desde que comecei esta purificação, minhas filhas estão bem. Haveria alguma relação espiritual com esses fatos? O Johrei está sendo focado nos locais com febre, mas oscilo entre melhora e piora. Pedimos orientação sobre os pontos de Johrei.”
-
-As diversas doenças desta mulher são todas purificações da intoxicação medicamentosa. Há um pouco de influência espiritual, mas não a ponto de ser preocupante. Ministrar Johrei nos locais com febre está correto, mas acredito que quem está aplicando está usando muita força. É preciso relaxar o máximo possível.
-
-**8. Homem com dores generalizadas e constipação** *(Coletânea de Ensinamentos nº 4, p. 29)*
-
-“Homem de 50 anos. Por volta de junho de 1947, começou a sentir as costas enrijecidas e uma dor aguda. Enquanto fazia tratamentos com acupuntura e moxabustão, em dezembro do mesmo ano, seu quadro piorou e ele ficou com o corpo paralisado do pescoço para baixo, sendo internado (no Hospital da Universidade de Tóquio). O diagnóstico foi de síndrome pós-mielite. Recebeu injeções de penicilina por três meses, vinte injeções de salvarsan (nº 3), massagem elétrica, e retiraram líquido de sua medula espinhal quatro vezes para exames. Cerca de três meses após a internação, seu corpo começou a se mover gradualmente e, após oito meses, recebeu alta. Desde então, quase não usou medicamentos. Atualmente, está trabalhando, mas sente dores nas costas e no peito, semelhantes às do início da doença. A cintura e as pernas estão enrijecidas, principalmente do lado esquerdo. Tem dificuldade para urinar e evacuar, e não sente dor ao pressionar fortemente as costas, os rins ou as pernas. Acredito que seja uremia, e ele está obeso. Há um mês, começou a receber Johrei, e a dor tem se intensificado. Pedimos orientação sobre a causa da doença e os pontos de Johrei.”
-
-Síndrome pós-mielite é um diagnóstico estranho. O veneno medicamentoso está solidificado em suas costas. Além disso, os rins estão sendo pressionados. Ministre Johrei principalmente nos rins e nos locais doloridos das costas, e ele certamente será curado. O aumento da dor é um ótimo sinal. Significa que a purificação começou. A dor deve ser considerável, mas explique-lhe bem que a dor é o processo de cura. Dê-lhe meus livros que tratam desse assunto para que ele possa se convencer.
-
-**9. Homem com variações bruscas de febre e dor no peito** *(Coletânea de Ensinamentos nº 2, p. 32)*
-
-“Um fiel de 51 anos. Sua esposa ingressou na Fé em 1948. Ele, que era fraco desde a infância, melhorou muito com o Johrei e, em julho de 1950, entronizou a Imagem de Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Em fevereiro de 1951, teve uma purificação de neuralgia facial, ingressou na Fé e melhorou muito, podendo voltar a trabalhar. Anteontem (dia 9) de manhã, sentiu a cabeça pesada. Com Johrei, melhorou imediatamente. Na tarde do mesmo dia, sentiu uma dor forte do pulso ao cotovelo do braço direito e calafrios. Com cerca de vinte minutos de Johrei, os calafrios passaram e a dor no braço diminuiu, mas sentia febre alta nas costas e nos pés, e o coração e todo o peito oprimidos. Ele alterna entre frio e calor intensos. Qual seria a causa? Há anos, ele tem uma hérnia e recebe purificações frequentes por causa dela, mas sem grande melhora. Haveria alguma relação espiritual?”
-
-Não é espiritual. O veneno medicamentoso está espalhado por todo o corpo dele. Os acúmulos em vários lugares estão se dissolvendo em sequência. É essa a purificação. Portanto, com perseverança, ele será completamente curado. Os calafrios indicam febre no local. A febre alta nos pés é o veneno solidificado se dissolvendo. A purificação no coração causa febre, o que gera a opressão no peito. A hérnia é causada por um nódulo no abdômen que está pressionando. Relação espiritual é algo raro. E os espíritos só se encostam onde há máculas. Se não houver máculas, eles não conseguem se encostar. A mácula é o veneno dos medicamentos. Se houver alguma doença ou dor, pensem: “Quando tomei remédio? Ah, é aquele remédio daquela época”, e a resposta virá. Considerem que todas as doenças são causadas por medicamentos, e não errarão. Dizer que tudo é espiritual é um exagero. Doenças mentais e epilepsia são absolutamente espirituais, mas outras coisas – dor, coceira, febre – são todas causadas por medicamentos. Quando sentir dor em um lugar, pense: “De qual remédio é isso?”, e a resposta virá.
-
-Os fitoterápicos também são perigosos. Eles afetam a cabeça. Pensem: “Ah, é aquele remédio chinês daquela época”, e entenderão. Eu escrevo constantemente sobre os medicamentos, mas a mensagem demora a penetrar. As pessoas estão há muito tempo sob o feitiço da superstição medicamentosa.
-
-**10. Mulher diagnosticada com câncer de estômago, com vômitos, constipação, falta de apetite, confusão mental e enfraquecimento** *(Paraíso Terrestre nº 43, p. 12)*
-
-“Minha esposa (53 anos, não-fiel), desde a primavera de 1952, perdeu o apetite e vomitava (um líquido amarelo) duas ou três vezes por dia. No início de abril, consultou um médico que diagnosticou ptose gástrica. Tomou um medicamento (um líquido tão forte que manchava o tatame de preto) por uns dez dias, sem melhora. Em 19 de maio, foi internada em um hospital próximo (por um mês). Nesse período, recebeu quatro injeções do novo medicamento Nitromin, cerca de trinta injeções de glicose, sete transfusões de sangue e três injeções de Ringer. Não houve muita melhora, o apetite não voltou, ela vomitava ocasionalmente (líquido amarelo) e não evacuava, precisando de enemas (mais de dez vezes). Uma radiografia diagnosticou câncer de estômago, e disseram que mesmo com cirurgia, o resultado era incerto. Ela recebeu alta e ficou em repouso em casa (após a alta, teve uma melhora temporária com a fé em Yutaki Daijin), e seu apetite melhorou um pouco. Em agosto, o apetite piorou novamente, ela voltou a vomitar e enfraqueceu muito. Um conhecido nos falou sobre as graças de nossa Fé. Fomos imediatamente à igreja de Katakami e ela recebeu Johrei. Sentiu-se muito bem, parou de usar enemas e, continuando a receber Johrei, alguns dias depois, conseguiu evacuar (fezes como um pó preto solidificado). Ela ficou muito feliz, compreendeu pela primeira vez a grandeza do poder divino, pôde ir à igreja duas vezes e, ouvindo as explicações do professor, em 22 de setembro, eu e minha filha (Fuuko) ingressamos na Fé na igreja principal de Ogaki. Além disso, recebemos a Imagem de Komyô Nyorai-Sama e, em 25 de setembro, participamos da Grande Cerimônia em Hakone. Em 5 de outubro, entronizaremos a Imagem de Komyô Nyorai-Sama, e estamos muito felizes com as graças recebidas. Atualmente, ela tem nódulos especialmente no lado direito do bulbo e do pescoço, e sua cabeça está constantemente confusa, como se estivesse coberta por algo. O abdômen, especialmente o estômago, está todo endurecido e um pouco inchado. A região do reto também está dura e dói um pouco ao ser pressionada. Graças à proteção divina, ela consegue comer frutas e outros alimentos em pequenas quantidades e dorme muito bem à noite, o que a deixa muito feliz. Vomita ocasionalmente e sente um aperto abaixo do peito após as refeições, mas melhora em pouco tempo. Embora esteja muito fraca, consegue até passear. O endurecimento do estômago é devido à intoxicação medicamentosa? Ou é espiritual? Onde é mais importante ministrar o Johrei? O que devemos fazer para que ela seja salva o mais rápido possível? Ela, aos 30 anos, teve febre puerperal e fez tratamento com injeções por oito meses. Aos 32 ou 33 anos, teve asma e tomou cerca de cinquenta comprimidos de efedrina. Aos 36 ou 37 anos, foi operada de um mioma uterino e ficou internada por uns vinte dias.”
-
-Esta mulher é um exemplo clássico de vítima da intoxicação medicamentosa. Todas as suas doenças são nódulos de veneno de medicamentos. Através da eliminação de diversas secreções, ela melhorará gradualmente. Portanto, embora demore, a cura é certa. O Johrei deve ser focado nos locais onde o veneno está solidificado. Naturalmente, ministrando Johrei com o mínimo de força possível, o veneno se dissolverá mais rápido, e quanto maior a frequência, mais rápida será a cura.
-
-### VIII – Outros
-
-**1. Pessoa que se sente cansada ao falar** *(Registro de Orientações nº 13, p. 13)*
-
-“Um jovem de 20 anos se sente cansado depois de conversar. Quando não fala, não sente nada.”
-
-Ele deve ter febre. Falar causa febre em seu corpo.
-
-“Onde devemos ministrar o Johrei?”
-
-Ao redor do pescoço.
-
-“Não há relação espiritual?”
-
-Provavelmente não. As doenças atuais são relacionadas à intoxicação medicamentosa. Considerem que todas as doenças são causadas por medicamentos, e não errarão.
-
-**2. Doença em que os ossos engrossam** *(Registro de Orientações nº 1, p. 34)*
-
-“Em Okayama, há uma pessoa com uma doença em que os ossos engrossam, com o surgimento de protuberâncias semelhantes a chifres em algumas partes e o engrossamento dos dedos das mãos. O médico diz que a cirurgia resolveria. Há umas doze ou treze protuberâncias, o pescoço se alonga, e uma das pernas fica mais comprida que a outra. Ao tocar, parece osso, bem duro. Qual seria a causa? Até os cinco ou seis anos, ele era normal.”
-
-Provavelmente intoxicação medicamentosa. Ocorre apenas naquela região?
-
-“Em Okayama, é apenas essa pessoa.”
-
-Algum dos pais ou avós deve ter tomado algo estranho, e o efeito persistiu. Com Johrei, as protuberâncias devem diminuir. É algo estranho, uma toxina.
-
-**3. Mulher com ossos e unhas amolecidos** *(Ensinamento)*
-
-“Uma mulher de 47 anos, enfraquecida há muitos anos, com a cintura instável e o andar cambaleante. Os dedos de suas mãos e pés, especialmente as unhas, estão moles, a ponto de se dobrarem facilmente quando pressionados. Dizem que ela também tem cárie. O amolecimento das unhas seria por causa disso? E pode ser curado com Johrei?”
-
-Não tem relação com a cárie. A cárie afeta a coluna, não a cintura ou as unhas. Ela nasceu com essa condição?
-
-“Não.”
-
-É intoxicação medicamentosa. Por causa dela, o desenvolvimento dos ossos e das unhas é prejudicado.
-
-**4. Pessoa que incha ao tocar em coisas frias** *(Coletânea de Ensinamentos nº 2, p. 9)*
-
-“Um fiel de 33 anos. Desde os doze ou treze anos, sempre que entra em água fria, surgem erupções semelhantes a urticária nas partes do corpo que tiveram contato com a água. Logo depois, a área incha e ele sente dor de cabeça e tontura. Além disso, se comer um pouco a mais de frutas ou doces gelados, seus lábios e o interior da boca incham. E se for exposto a um vento frio, as bordas dos olhos incham. Ao aquecer o corpo, os sintomas desaparecem. Qual seria a causa?”
-
-É tudo intoxicação medicamentosa. Pode ser um medicamento incomum. Pode ser o veneno dos medicamentos dos pais. Pode ser um remédio que ele tomou quando era bebê. Com Johrei paciente, isso também será curado.
-
----
-
-# Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
-
-**Categoria:** sasshi | **Ano:** 昭和25(1950)年4月23日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** -
-
-## Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
-
-**Pergunta: Gostaria de indagar sobre as formalidades nas cerimônias, especialmente no que tange ao vestuário.**
-
-Quanto à formalidade, ela já vem sendo praticada de diversas maneiras em todos os lugares, e isso é suficiente. Eu não estabeleço regras específicas sobre como os cultos devem ser conduzidos, pois a forma apropriada deveria emergir naturalmente. Portanto, não há, neste momento, necessidade de se discutir detalhadamente o assunto. Durante as cerimônias, basta que cada um, de acordo com sua condição, mantenha uma atitude que não desvirtue a reverência devida. Trajes de trabalho ou casacos curtos, como o *shikiribanten*, são evidentemente inadequados. Contudo, quem possui um *hakama* (袴) pode vesti-lo, e quem não o possui não precisa se preocupar com isso.
-
-**Pergunta: Há um ditado que diz: “O primogênito é um tolo”. Isso se deve ao fato de que os filhos nascidos quando o casal é jovem e a paixão é intensa tendem a ser tolos, enquanto os filhos mais novos, concebidos quando os pais são mais velhos e o amor é mais sereno, são melhores? Qual a razão para isso?**
-
-Na realidade, não é bem assim. O fato é que, quando nasce o primeiro filho, os pais geralmente ainda são jovens e possuem pouca experiência de vida. Por conseguinte, se há alguém que se assemelha a um tolo, seriam os próprios pais. (risos) À medida que enfrentam dificuldades e acumulam vivências, os filhos que vêm mais tarde tendem a ser mais bem-sucedidos. Além disso, é inevitável que o primogênito seja excessivamente mimado, o que é prejudicial. Todavia, conforme a prole aumenta, não é que o carinho diminua, mas a atenção se torna mais difusa e não alcança a todos da mesma forma. Esse cenário, contudo, é benéfico para as crianças, pois fomenta nelas o espírito de independência.
-
-É por essa razão que, como escrevi anteriormente em um jornal, as personalidades notáveis emergem de famílias com muitos irmãos. Por terem muitos irmãos, elas não são superprotegidas. Em suma, desenvolvem a independência. A convicção de que devem valer-se por si mesmas é fortalecida intensamente. Entre os filhos únicos, raramente encontramos pessoas de grande destaque. Portanto, uma criança constantemente mimada não se tornará grandiosa. Em certos aspectos, é preferível não ser alvo de um amor excessivo.
-
-**Pergunta: Sendo assim, isso representa um grande alívio para os pais.**
-
-Sim, de fato. Há equívocos no conceito tradicional de amor parental. Por exemplo, no Japão, quando uma criança cai, os pais a levantam imediatamente. No Ocidente, porém, eles a instruem a se levantar por conta própria. Nesse caso, a atitude ocidental representa o verdadeiro amor.
-
-**Pergunta: Então, é preferível educar os filhos com rigor?**
-
-Sim, pois, em essência, essa é a manifestação de um amor mais profundo.
-
-**Pergunta: Contudo, não me parece que as crianças que não conhecem o afeto dos pais tendem a ser um tanto obstinadas?**
-
-Isso já seria um extremo. Por mais que o espírito de independência seja valioso, a ausência total de amor é inaceitável. Uma criação assim pode levar a criança a sentir que jamais conheceu o afeto dos pais.
-
-A questão central é que o excesso de zelo, o que se chama de “mimar como a um gato”, é o que se deve evitar. É por isso que se diz que os grandes homens vêm de famílias com muitos irmãos. O amor também possui uma dimensão superior e uma inferior. Apenas proteger e cuidar representa o amor inferior. Ver um filho sofrer e, ainda assim, abster-se de intervir, isso é o amor em sua dimensão superior. Por essa razão, mesmo quando vejo um fiel cometer um erro, limito-me a uma breve advertência. Sei que, ao persistir no erro, ele certamente fracassará. Nesse momento, ao debater-se em sofrimento, ele por fim compreenderá: “Ah, o caminho que eu vinha trilhando estava equivocado”. Essa é a verdadeira tomada de consciência. Tentar corrigir alguém no meio do processo é, na maioria das vezes, ineficaz.
-
-**Pergunta: Em meio à Grande Transição, ao escolhermos uma instituição de ensino superior para os filhos dos fiéis, que critérios devemos adotar?**
-
-Isso é bastante simples, pois atualmente já não existem escolas que formam militares. (risos) Portanto, o ideal é permitir que o jovem siga a carreira que mais lhe agrada.
-
-**Pergunta: No que tange à escolha das disciplinas, gostaria de saber quais áreas do conhecimento se tornarão mais proeminentes no futuro próximo e quais entrarão em declínio.**
-
-Bem, também não há grandes mistérios aqui. Com exceção das áreas relacionadas à arte militar, a maioria dos saberes continuará a ser necessária. Tanto a engenharia quanto as ciências serão indispensáveis. Apenas o direito, embora não de forma abrupta, tenderá a diminuir gradualmente. A medicina, naturalmente, está fadada ao desaparecimento. Portanto, seria prudente evitar os cursos de medicina e direito.
-
-**Pergunta: E a economia?**
-
-A economia continuará a ser necessária no futuro, mas sua forma passará por certas transformações. A literatura também mudará consideravelmente, mas não a ponto de desaparecer por completo. Em breve, escreverei sobre esses assuntos no ensaio intitulado “A Cultura do Século XXI”. (Vide *Registro dos Colóquios de Luz*, nº 18)
-
-**Pergunta: Presumimos que o interesse pela arte aumentará. Como uma pessoa sem base em apreciação artística pode cultivar essa sensibilidade?**
-
-O cultivo dessa sensibilidade é exatamente o que estou realizando neste momento. Em breve, construirei um museu, onde reunirei diversas obras de arte e oferecerei explicações sobre elas. Pretendo também, gradualmente, desenvolver atividades de cunho literário. A poesia *waka*, por exemplo, é um dos alicerces da literatura japonesa. Quando se tem o *waka* como base, a literatura do Japão ganha muito mais vigor. Além disso, temos as flores. No futuro, plantarei uma vasta gama de flores. E, por fim, as artes cênicas. Estas, contudo, passarão por grandes transformações. Dentre as artes cênicas japonesas atuais, o *gidayu*, por exemplo, certamente desaparecerá. O *bunraku* de Osaka, ao que parece, já enfrenta dificuldades por falta de público.
-
-**Pergunta: O *gidayu* desaparecerá por ser incompreensível para os estrangeiros?**
-
-Não, não apenas para os estrangeiros; é incompreensível até mesmo para os japoneses. (risos) E, quanto mais se tenta compreender, mais confuso se fica. (risos)
-
-**Pergunta: E quanto ao *utai*?**
-
-Também acabará por desaparecer. É uma arte feudal. Na verdade, submeter alguém a ouvir aquilo é, por si só, uma maldade. (risos) Digo isso porque, ao ouvi-lo, em vez de prazer, sente-se um tormento, um desconforto. (risos) Quando o rádio começa a transmitir *utai*, eu sempre desligo o aparelho. O *utai* não é um canto, é um gemido. (risos) As transmissões de *utai* e de lutas de sumô, eu sempre as interrompo.
-
-**Pergunta: E o kabuki?**
-
-Aí reside um problema. O *kabuki* parece já ter esgotado seu ciclo de vida. Ademais, as peças encenadas são, em sua maioria, baseadas em ideologias ultrapassadas de lealdade ao soberano e patriotismo, o que as torna mais tolas do que interessantes. E por quê? Porque os personagens, em vez de resolverem suas questões por meio do diálogo, algo que seria perfeitamente possível, optam por morrer ou cometer suicídio ritual. (risos) Por isso, digo que o *kabuki* é mais estético do que propriamente artístico. Nesse sentido, eu gostaria que ele fosse preservado, mas creio que não será possível. O futuro, inevitavelmente, pertence ao cinema. Não há como evitar. Os teatros que se dedicam exclusivamente a peças dramáticas não são lucrativos, ao passo que os cinemas o são. Naturalmente, se surgisse um grande mestre do *kabuki*, a arte poderia reviver por um tempo, mas é improvável que isso aconteça. Se aparecesse alguém do calibre de Danjuro, eu mesmo voltaria a frequentar o teatro. Os grandes mestres já se foram; hoje, os principais nomes são Kichiemon e Ennosuke, mas com apenas dois atores não se faz uma peça. (risos)
-
-**Pergunta: E a ópera?**
-
-A ópera se tornará ainda mais popular no futuro.
-
-**Pergunta: Contudo, ela parece ser de difícil compreensão.**
-
-Sim, de fato. É um pouco complexa. Mas o que é verdadeiramente incompreensível é o jazz. (risos)
-
-**Pergunta: Então, e artistas como Shizuko Kasagi? (risos)**
-
-Ah... (risos) Bem, o jazz é como o *yagibushi* do Japão.
-
-**Pergunta: O senhor mencionou há pouco que o *kabuki* é mais estético do que artístico. O estético não seria também uma forma de arte?**
-
-Sim, é verdade. Contudo, o conceito de arte é muito mais amplo do que a mera beleza.
-
-O cinema é arte; é a síntese de todas as artes. Primeiramente, temos o roteiro, que é a base de tudo. Depois, a técnica dos atores, os cenários, os trajes e a atmosfera de cada época, as paisagens escolhidas para as locações, a iluminação, a música, o ritmo de cada cena e a maneira como elas são interligadas. Há ainda os enquadramentos do rosto, de perfil, de frente, em close-up. Existem, de fato, inúmeros elementos, e o cinema é a integração de todos eles.
-
-Recentemente, em um jornal (Nota), Junichiro Tanizaki elogiou imensamente o filme “Fuga ao Amanhecer”, uma obra dirigida por Senkichi Taniguchi. O primeiro filme de Taniguchi, “No Limite das Neves”, foi excepcionalmente bem-realizado. Fiquei verdadeiramente comovido ao assisti-lo, tamanha a sua qualidade. Escrevi-lhe uma carta e, como uma forma de prêmio, enviei-lhe uma quantia em dinheiro. Mais tarde, o senhor Taniguchi veio me visitar para agradecer.
-
-**Pergunta: Que grande honra! O senhor agiu como se estivesse concedendo um prêmio Nobel. (risos)**
-
-Sim, exatamente. (risos) Senkichi Taniguchi e Akira Kurosawa são como irmãos de ofício, mas eu prefiro as obras de Taniguchi. Seu filme seguinte, “Jakoman e Tetsu”, também é bom, embora ainda lhe faltem alguns retoques. A análise que Tanizaki fez de “Fuga ao Amanhecer” no jornal foi muito semelhante à minha própria percepção. Nunca antes eu havia premiado um artista, mas “No Limite das Neves” realmente me cativou. Enfim, o cinema abrange uma infinidade de elementos. (Nota: *Tokyo Shimbun*, 9 de fevereiro)
-
-**Pergunta: Em um futuro próximo, a televisão se popularizará. Mesmo assim, o cinema continuará a existir?**
-
-Sim, creio que o cinema prevalecerá. É a grande arte nascida no século XX. Portanto, é difícil mensurar o poder de atração que o cinema exerce sobre as pessoas. Ao assistirmos a um filme, a princípio julgamos apenas se é interessante ou entediante. Contudo, à medida que aprofundamos nosso olhar, descobrimos novas nuances na direção e na performance dos atores. Quando me deparo com uma obra verdadeiramente bem-feita, sinto uma admiração genuína e um prazer indescritível. No entanto, obras que provocam tal sentimento são raras; talvez uma em cada dez.
-
-A qualidade de um filme é determinada por sua força expressiva e pela coesão de suas cenas. E, no cenário mundial, o cinema japonês é o melhor. Está cerca de um século à frente do cinema estrangeiro. Embora tecnicamente inferior devido a equipamentos de menor qualidade, seu conteúdo é muito mais profundo. Aqueles que desprezam o cinema japonês, afirmando que não tem valor, ainda não conhecem seu verdadeiro sabor; sua percepção é limitada. Dentre os filmes estrangeiros, os britânicos possuem um conteúdo mais profundo que os americanos. Atualmente, a Europa não está mais importando filmes americanos. Por isso, a indústria cinematográfica americana está no vermelho. O motivo é que o cinema americano não evolui, é sempre a mesma coisa; é um entretenimento puramente infantil. As comédias, na verdade, parecem ter regredido. Os filmes antigos de Chaplin ou Keaton eram muito superiores a essas comédias recentes de duplas cômicas. Já os faroestes se resumem a tiroteios. Por isso, eu dispenso os filmes americanos de romance e de faroeste. Eles me dão sono. Em vez de uma sessão de cinema, torna-se uma sessão de sono. (risos) Alguns chegam a ser uma sessão de ira, pois me deixam irritado enquanto assisto. (risos)
-
-**Pergunta: O senhor considera a possibilidade de construir um estúdio de cinema no futuro?**
-
-Sim, creio que isso acontecerá. Quando esse dia chegar, os fiéis com talento para a área poderão atuar nos filmes. (risos) Os atores japoneses também evoluíram muito, superando os americanos. Suas expressões faciais são superiores. Os japoneses são afortunados por terem o melhor cinema do mundo em seu próprio país.
-
-**Pergunta: Atualmente, a maioria das pessoas parece preferir os filmes americanos. Seria por causa da grande quantidade de beijos? (gargalhadas)**
-
-Eu detesto isso. (risos)
-
-**Pergunta: Acredito que a maneira como beijam é deselegante. (risos)**
-
-Além de deselegante, o beijo, embora possa ser aceito como uma expressão de afeto, quando transformado no principal atrativo de um filme, serve apenas para agradar aos jovens espinhentos. (risos) Ademais, os japoneses, desde a antiguidade, nunca tiveram o costume de se beijar. Por isso, ao ver cenas de beijo nos filmes de hoje, sinto que é algo ridículo. Se ocorresse no clímax de uma grande paixão, até seria compreensível, mas a repetição excessiva é simplesmente descabida. (gargalhadas)
-
-**Pergunta: Dentre os atores atuais, há algum que o senhor considere especial?**
-
-Existem muitos atores com grande talento para a interpretação, mas não creio que haja alguém que se destaque de forma excepcional. Todos são bons e desempenham bem seus papéis. Além disso, há diferenças entre atuar em filmes contemporâneos e em filmes de época. Cada ator possui suas características. Aqueles que se adaptam bem a qualquer papel são os populares Uehara, Hasegawa, Okochi, Bantsuma, entre outros. Mesmo entre eles, porém, há especialidades. Para cenas de luta com espadas, Okochi é provavelmente o melhor. O problema é que, entre as atrizes japonesas, não há nenhuma que seja verdadeiramente bela. (risos)
-
-**Pergunta: E quanto a Setsuko Hara? (risos)**
-
-Ah, não. (risos)
-
-**Pergunta: E Kinuyo Tanaka? (risos)**
-
-Também não gosto dela. A sua atitude de quem se acha muito inteligente me desagrada. Na atuação, a naturalidade é o ideal. Não aprecio o uso de artifícios técnicos. O ator em início de carreira, ainda com certa rusticidade, é melhor. Quando começa a dominar a técnica, ele passa a “atuar”, e nesse ponto se torna desinteressante. Há muitos casos assim.
-
-**Pergunta: Seria a alta umidade do Japão um empecilho técnico para a produção de filmes de boa qualidade?**
-
-Sim, esse é um fator relevante. Hollywood e, de modo geral, os Estados Unidos, por serem mais secos que o Japão, possuem condições mais favoráveis para a produção cinematográfica. Hollywood, nesse aspecto, oferece as melhores condições. Os produtores japoneses, no entanto, parecem indiferentes a essa questão. A falta de grandes capitais provavelmente os levou a aceitar a situação atual. A umidade tem um impacto significativo na fotografia.
-
-**Pergunta: Dizem que Hokkaido seria um bom local no Japão.**
-
-Sim, justamente por causa da umidade. Hokkaido é muito semelhante aos Estados Unidos nesse aspecto.
-
-Originalmente, o povo japonês possuía uma predisposição para apreciar a arte. Contudo, desde o Período dos Reinos Combatentes, o interesse se voltou quase que exclusivamente para a guerra, o que impediu o florescimento da arte. Agora que as guerras cessaram, é natural que a arte prospere.
-
-**Pergunta: E quanto às artes folclóricas regionais?**
-
-Algumas permanecerão, mas, à medida que o estilo de vida das áreas rurais se assemelha ao das cidades, poucas sobreviverão. A urbanização se dá por meio de livros, rádio e outros meios. A própria linguagem está mudando. Embora o dialeto “zuzu” da região de Tohoku ainda apresente um desafio. (risos)
-
-**Pergunta: Diz-se que morar em uma casa triangular traz infortúnios. Por que isso acontece?**
-
-Isso é uma superstição infundada. O problema de uma casa triangular é que ela carece de um dos pontos cardeais, seja leste, oeste, sul ou norte. A forma e a localização de uma casa influenciam o destino de seus moradores.
-
-**Pergunta: E uma casa construída sobre um rio?**
-
-Isso também é um disparate. Estar sobre a água... só se for um barco. (gargalhadas) Uma casa precisa de estabilidade.
-
-**Pergunta: E se o rio for pequeno?**
-
-Se for pequeno, o infortúnio será menor, mas ainda assim não é o ideal. A Pousada Shinsen em Hakone, do ponto de vista da fisionomia das casas, é perfeita. A entrada está na direção sudeste; sobe-se uma escadaria para o hall, onde se sobe mais três degraus, e o fundo do hall é ainda mais elevado. À direita, temos a ala ocidental e, à esquerda, a ala japonesa. Essa configuração é chamada de “Formação da Garça com as Asas Abertas” e é extremamente auspiciosa na fisionomia das casas. Assemelha-se a uma garça de asas abertas. A sala ocidental é triangular, representando um navio cortando as ondas, e o fato de estar sobre rochas é também excelente. A Pousada Higashiyama em Atami é um pouco mais baixa que a rua, mas está no topo de uma encosta, e a subida é mais longa que a descida, o que a torna favorável.
-
-**Pergunta: É comum no mundo não se concluir uma construção por completo.**
-
-Sim, essa é uma prática comum. Diz-se que a perfeição atrai o mal. Conta-se que Hidari Jingoro, ao construir o templo Chion-in, deixou deliberadamente um guarda-chuva embutido na estrutura. Isso se baseia no ditado “o que está cheio começa a vazar”, pois a perfeição é o ponto máximo, como a lua cheia. Em outra ocasião, um famoso mestre carpinteiro construiu o templo Kotoku-ji, no bairro de Shimonoseki, em Tóquio, mas o portão é cerca de trinta centímetros mais baixo do que deveria. O terceiro xogum teria elogiado o portão, e a obra era tão magnífica que deu origem ao trocadilho “o bom portão (iimon) é o do Kotoku-ji”. O fato de ser mais baixo foi proposital, para não atingir a perfeição. Contudo, todas essas precauções eram necessárias porque o Mundo Espiritual vivia na noite. No futuro Mundo do Dia, tudo será perfeito, e essas preocupações se tornarão obsoletas.
-
-**Pergunta: Sobre a relação entre religião e ciência... no futuro, pretendo me especializar em ciências naturais, especialmente na área técnica. O que o senhor pensa a respeito?**
-
-Em última análise, religião e ciência são a mesma coisa. Já escrevi sobre isso nos jornais, e a leitura desses artigos deve esclarecer o assunto. A ciência atual ainda não alcançou o patamar da religião; está muito atrasada. Evidentemente, as religiões estabelecidas até hoje estão mais ou menos no mesmo nível da ciência. Esta fé, no entanto, está mil anos à frente da ciência atual. Como escrevi no jornal, o Johrei está mil anos adiantado em relação à ciência; a distância é colossal. Portanto, a menos que a ciência se esforce diligentemente, ela não nos alcançará. Afinal, problemas que os doutores não conseguem resolver, mesmo quebrando a cabeça, são curados rapidamente pelo Johrei. Na verdade, a medicina nem sequer se enquadra como ciência; é uma espécie de ciência anômala. (risos)
-
-**Pergunta: Mesmo na Era de Miroku, gostaria de continuar estudando. Que método de estudo devo adotar?**
-
-Essa pergunta é um pouco prematura. (risos) Na Era de Miroku, o saber será muito diferente do atual; será muito mais simples. Grande parte do conhecimento de hoje, assim como a medicina, segue uma direção completamente equivocada. Por isso, sempre digo que a educação consistirá em três anos de ensino fundamental, três de ensino médio e três de universidade, totalizando nove anos, e formará indivíduos com uma mente muito mais brilhante do que a dos universitários de hoje.
-
-Na Era de Miroku, a medicina desaparecerá, a física será reduzida pela metade e o direito também diminuirá consideravelmente. Leis como o “Artigo X do Código Penal” se tornarão desnecessárias. O tão falado Código de Processo Civil também não será mais preciso. Essa lei só existe porque as pessoas tentam se esquivar de pagar suas dívidas; se todos pagassem o que devem, ela seria inútil. A redução da medicina e do direito, por si só, já fará uma enorme diferença. A economia também, embora não desapareça, se tornará muito mais simples. E, claro, a legislação tributária será extinta. As leis fiscais de hoje são absolutamente ridículas. (risos) Na Era de Miroku, todas as empresas, corporações e indivíduos contribuirão voluntariamente com cerca de um terço de seus lucros ao governo, tornando os fiscais desnecessários.
-
-Nessa época, as pessoas serão íntegras, agirão corretamente e não praticarão o engano. Os cidadãos pagarão seus impostos por iniciativa própria, e leis como o Código de Cobrança de Impostos Nacionais ou a Lei do Imposto de Renda se tornarão obsoletas. O montante arrecadado será exatamente o necessário para administrar as finanças do país. A sonegação fiscal em dupla ou tripla camada que vemos hoje ocorre porque os impostos são excessivos, uma herança da época em que se arrecadava dinheiro para o armamento militar. Os gastos com o exército foram astronômicos. Esse equívoco evoluiu para a situação atual. O déficit da Ferrovia Nacional é outro exemplo. Ela não deveria ter déficit algum; foi criada com a intenção de ser lucrativa. A estatização teve fins militares: em caso de emergência, quando os impostos não fossem suficientes, pretendia-se usar os lucros da ferrovia. O mesmo se aplica às empresas estatais de monopólio. O Japão do passado agia como um criminoso. A invasão da Ásia foi como uma gangue expandindo seu território por meio da violência. E, para a violência, é preciso dinheiro, então eles extorquiam a população. O sofrimento atual do Japão é o castigo por esses atos. O povo está sendo sacrificado. Contudo, aqueles que agem corretamente não são punidos. Mesmo durante e após a guerra, houve pessoas que não sofreram dano algum, inclusive entre os nossos fiéis.
-
-**Pergunta: Atualmente, há muitas pesquisas sobre a Ciência da Palavra Divina (Kototama-gaku), mas muitas delas não parecem corresponder à verdadeira ciência. Qual a sua opinião?**
-
-Concordo plenamente. Ao ouvir as palestras sobre budismo no rádio, por exemplo, percebo que as distorções são extremas. Apresentam-se interpretações absurdas e arbitrárias. Pretendo, gradualmente, expor a verdade. A Ciência da Palavra Divina é extremamente complexa. Diz-se que existiu na antiguidade remota, mas foi interrompida. Foi Motoori Norinaga quem, com base na literatura clássica japonesa, a pesquisou a fundo, tornando-se, assim, o fundador da Ciência da Palavra Divina. Um sacerdote xintoísta de Gifu, chamado Nagasawa, aprendeu com Norinaga e promoveu certo avanço. E o discípulo de Nagasawa foi Onisaburo Deguchi. Portanto, o Mestre Deguchi também tinha um conhecimento considerável sobre a Palavra Divina. Eu aprendi tanto com o Mestre Deguchi quanto com o que me foi revelado por Deus. Por isso, considero-me o maior conhecedor da Ciência da Palavra Divina.
-
-Contudo, mesmo conhecendo a Palavra Divina, não posso revelá-la por completo. A razão é que, ao compreender a verdadeira Palavra Divina, tudo se torna claro. Recentemente, a situação melhorou, mas antes do fim da guerra, eu jamais falava sobre a Palavra Divina em detalhes. Por meio dela, é possível compreender claramente a linhagem imperial, desde o Imperador Jimmu até os Imperadores Meiji, Taisho e o atual. Se as autoridades da época soubessem disso, seria um grande problema. O nome da era, “Showa” (昭和), por exemplo, pode ser perfeitamente decifrado. Hoje posso dizer: “Showa” indica claramente o advento do Mundo do Dia. Não há o que contestar. A Palavra Divina é algo verdadeiramente extraordinário. Ao compreendê-la, todos os mistérios se revelam. Pretendo escrever sobre ela até certo ponto, mas tenho muitas outras tarefas que me consomem o tempo.
-
-**Pergunta: Uma teoria afirma que a ilha principal de Okinawa é o berço do povo japonês. A expressão okinawana “usogamisourahe”, que significa “por favor, sirva-se”, parece ter alguma relação com a história antiga do Japão. O que o senhor pensa a respeito?**
-
-Okinawa não é o berço do povo japonês. O local de origem é a leste do Lago Biwa. Okinawa era o lugar onde habitavam os deuses-dragão. “Nawa” significa dragão, e “oki” se refere a algo grande, portanto, “grande deus-dragão”. O centro daquela região é a ilha principal de Ryukyu, onde havia uma joia do dragão. Por isso se chama Ryukyu (龍球 – “esfera do dragão”). Essa joia tem um significado profundo. Os japoneses da antiguidade migraram para lá, e é por isso que ainda existem vestígios da cultura japonesa.
-
-**Pergunta: Diz-se que, no Mundo Espiritual, a idade é de trinta e sete anos para os homens e dezoito para as mulheres. Essa idade é alcançada após a purificação ou imediatamente após a morte?**
-
-Não é algo que acontece imediatamente. E isso se aplica apenas aos espíritos que ascendem ao Paraíso, não àqueles que estão no nível de Yachimata (八衢) ou inferior. Cerca de cinco ou seis anos após a morte, o espírito rejuvenesce.
-
-**Pergunta: Quando uma criança morre e vai para o Paraíso, existe algo como uma escola?**
-
-Não há escolas no Mundo Espiritual. Em vez disso, os espíritos são naturalmente guiados para adquirir sabedoria e iluminação. Nos níveis inferiores a Yachimata, a situação é um pouco diferente; há instrutores que ministram sermões. Mas não se trata de aprimoramento moral ou conhecimento acadêmico como no mundo humano; ensina-se a abandonar os apegos e a compreender a essência da fé. Já no Paraíso, como mencionei, a sabedoria e a iluminação são adquiridas naturalmente, de acordo com o nível de cada um. Quanto mais elevado o nível, menos se utiliza a palavra. Nos níveis superiores, a comunicação se dá pelo olhar. E, em níveis ainda mais altos, nem mesmo o olhar é necessário; a comunicação ocorre apenas pela mente, pelo pensamento. Nesse estado, é possível compreender livremente coisas que estão a grandes distâncias ou que acontecerão décadas ou séculos no futuro.
-
-Esse princípio se aplica também aos seres humanos. Tentar explicar algo com muitas palavras é um sinal de um nível inferior. Quanto mais elevado o nível, mais concisa é a comunicação. Falar de forma sucinta e, ainda assim, ser perfeitamente compreendido é o mais alto grau de comunicação. Pessoas que falam de maneira prolixa geralmente demonstram um nível inferior e uma inteligência limitada. Por terem dificuldade em compreender as coisas de forma simples, presumem que os outros também não entenderão e, por isso, se estendem em explicações. Na religião, o mesmo se aplica: quanto mais insistente e repetitiva, mais inferior é a religião; quanto mais sucinta, mais elevada. Por isso, na nossa fé, não há sermões. Religiões que repetem incessantemente a mesma coisa ou que se prolongam em sutras e pregações são de nível inferior. Há cerimônias que duram meio dia. A verdade é simples. O que é complicado não é a verdade. A obra “O Capital” de Marx é provavelmente o exemplo máximo de complicação. Bem, como se destina aos trabalhadores, talvez não precise ser muito elevada. Por exemplo, “o sol nasce no leste”. Isso é uma verdade. Não muda, seja onde for, no passado ou no presente, e não há como expressá-la de outra forma. Nós ensinamos que, para ser feliz, basta fazer os outros felizes, e assim nos tornamos felizes na mesma medida. Como as pessoas não compreendem isso, damos vários exemplos para explicar. As pessoas de hoje têm a mente muito limitada. Por isso, levam mais de dez anos entre a escola primária, o ginásio e a universidade. Suas mentes são realmente obtusas. Ou melhor, foram tornadas obtusas.
-
-**Pergunta: Qual o mecanismo por trás das fotografias de espíritos?**
-
-Essa é uma pergunta natural. A lente de uma câmera possui uma acuidade cinco vezes maior que a do olho humano. Sua capacidade de “ver”, por assim dizer, é mais intensa. A expressão “capacidade de ver” não é a mais adequada; seria melhor dizer que sua capacidade ou densidade de registro é maior. As fotografias de espíritos registram, de fato, a presença de espíritos. Já vi muitas delas, algumas bastante nítidas. As minhas próprias fotografias costumam ser bem claras. Geralmente, são espíritos humanos que aparecem, mas também existem fraudes. Não parecem ser comuns no Japão, mas já vi uma fotografia ocidental que supostamente mostrava Cristo; era uma farsa. A imagem etérea, semelhante a fumaça, fora criada com algodão. Quanto aos espíritos humanos, às vezes apenas o rosto aparece, ou eles estão sobre os ombros de alguém, ou pairando acima da pessoa. Parece que câmeras com maior sensibilidade conseguem captar melhor os espíritos. O Mundo Espiritual está repleto deles; é como uma procissão noturna de cem demônios. Certa vez, conheci uma pessoa com uma vidência muito aguçada, e ela me disse que era uma sensação terrível. Via fantasmas, espíritos de animais e demônios por toda parte. Ela chegou a procurar o Mestre Deguchi, na época em que eu era membro da Oomoto, para pedir que sua vidência fosse retirada. Conheci também um praticante de outra religião que, sempre que viajava de trem, via os espíritos das pessoas que haviam sido atropeladas e se sentia muito perturbado. Assim, enquanto alguns sofrem por ver demais, outros sofrem por não conseguir ver nada. (risos)
-
-**Pergunta: Quando recebo Johrei, não bocejo nem arroto. Contudo, quando ministro Johrei, algumas pessoas apresentam essas reações. Qual a razão para isso?**
-
-Isso é realmente curioso, pois normalmente é quem recebe que manifesta essas reações. Não estaria a pergunta escrita ao contrário?
-
-**Pergunta: Não, está correta.**
-
-Entendo. Então, você está assumindo a condição do outro. A toxina está se transferindo para você. Existem pessoas que assumem a doença do outro e pessoas que não o fazem. Isso se deve à diferença entre as linhagens do Sol e da Lua.
-
-**Pergunta: Nesse caso, assumir a doença não é prejudicial para o corpo?**
-
-Bem, se for apenas um bocejo, não há problema. Mas se a carga assumida for pesada, pode ser prejudicial. É o que acontecia com Tokuharu Miki, da Hitonomichi. Ele absorvia a doença das pessoas.
-
-**Pergunta: Como se explica cientificamente esse ato de “assumir”?**
-
-Por ser da linhagem da Lua, ele purifica com o elemento hidrogênio. O espírito de Miki vai até o doente e lava suas impurezas, e, ao fazê-lo, também se contamina. É como lavar roupa.
-
-**Pergunta: E a toxina do paciente é completamente removida?**
-
-Pode ser removida por completo, pela metade ou em um terço. Portanto, nem todas as doenças são curadas; algumas persistem. Quando Tokumitsu tratou o Sr. Miki, ele removeu completamente a toxina da asma dele, mas, em contrapartida, o próprio Tokumitsu sofreu por um mês. Pessoas com essa constituição, se assumirem repetidamente a doença dos outros sem transferi-la a Deus, acabarão morrendo de tanto sofrimento.
-
-**Pergunta: Quando o senhor diz “Deus”, a qual Deus se refere?**
-
-Ao líder da linhagem da Lua.
-
-**Pergunta: Seria Susanoo-no-Mikoto?**
-
-Sim, Susanoo-no-Mikoto... ou melhor, Tsukuyomi-no-Mikoto. A cura se dá pela Lua, lavando com água. O meu método é queimar com fogo, pois sou do elemento fogo.
-
-**Pergunta: Sendo assim, perdoe-me a pergunta, mas Tsukuyomi-no-Mikoto não ficaria coberto de toxinas? (risos)**
-
-Se fosse Tokuharu Miki, sim. Mas Tsukuyomi-no-Mikoto é um deus de primeira classe, com um poder espiritual completamente diferente. Isso não acontece com ele.
-
-**Pergunta: Nesse caso, o que acontece com a toxina assumida?**
-
-No final, ela vai para o Sol; é queimada pelo elemento fogo.
-
-**Pergunta: Ao se tornar um fiel deste Caminho, a pessoa que assume a doença dos outros pode ser gradualmente curada?**
-
-Sim, gradualmente, ela será curada. Mas aquele homem, Tokumitsu Kaneda, era uma pessoa notável. Contudo, a polícia o via com maus olhos e o perseguiu implacavelmente, de modo que ele não pôde fazer nada. Se estivesse vivo hoje, seria uma figura de grande importância. Era um homem de imenso poder espiritual.
-
-**Pergunta: O que significa, espiritualmente, “passar o sermão final”?**
-
-É aquele ritual em que se diz: “Tu és, em tua origem, como uma árvore seca”. É uma forma de admoestar o espírito, de fazê-lo arrepender-se.
-
-**Pergunta: Quando um espírito atrai uma pessoa deste mundo para o Mundo Espiritual, ele o faz com a permissão do deus supervisor?**
-
-Não, ele o faz sem permissão. Tais atos não são permitidos. Esse espírito não sabe que, ao atrair um humano e tirar-lhe a vida, ele cairá um nível no Mundo Espiritual como punição por seu crime. Por isso, é bom admoestá-lo. E a pessoa que foi atraída também vai para o inferno. É, em suma, um suicídio forçado, uma situação verdadeiramente lamentável. Assim como no mundo humano, no Mundo Espiritual também existem espíritos meticulosos e outros ardilosos. Há os que obedecem aos deuses supervisores e os que desobedecem e transgridem as proibições. Os que atraem os humanos são os que transgridem. Diz-se que eles vêm em carruagens de fogo, mas parece que é relativamente fácil escapar do inferno.
-
-**Pergunta: Diz-se que crianças inteligentes morrem cedo. Haveria uma causa espiritual para isso?**
-
-Isso é absolutamente verdade. Aqueles a quem se diz “moleque, morra logo!” costumam viver muito (gargalhadas), enquanto as crianças boas e admiráveis tendem a morrer cedo. Podemos pensar da seguinte forma: um espírito, mesmo no Mundo Espiritual, sente uma solidão imensa e, ao desejar um companheiro, aproxima-se de uma pessoa de bom coração. Pessoas de má índole não são dóceis. É mais fácil atingir o objetivo com uma pessoa dócil. Por isso, acabam matando a criança de boa índole, e a que não tem grande valor sobrevive. Além disso, uma criança boa e preciosa, ao menor sinal de mal-estar, recebe tratamento médico, o que a enfraquece. Esse fator é muito relevante. Ao ingressar nesta fé e compreender a verdade sobre doenças e medicamentos, tais ocorrências cessam. Outra causa pode ser a falta de virtude dos pais. Um ancestral pode ter reencarnado naquela criança boa, e ela, para assumir os pecados dos pais, parte para o Mundo Espiritual. Existem outras razões, mas geralmente são essas as principais.
-
-**Pergunta: Tenho dois filhos, um menino e uma menina. Sinto uma aversão incontrolável pela menina em qualquer situação, enquanto sinto um amor imenso pelo menino. Haveria alguma razão espiritual para isso?**
-
-Sim, há uma forte razão para isso. Deve-se à relação que tiveram em uma vida passada. Sendo todos reencarnações da mesma linhagem familiar, é provável que, em uma vida anterior, essa mãe tenha sido maltratada por um deles e bem tratada pelo outro, e esse sentimento persiste. Em uma vida passada, eles podem ter sido seus filhos, irmãos ou parentes, e um era detestável enquanto o outro era amável.
-
-Sentimentos como amor e ódio são apegos. Ao ingressar nesta fé, os apegos se desvanecem, e esses sentimentos diminuem gradualmente. O apego é a coisa mais temível. O principal objetivo da fé é eliminar o apego. Somente quando o apego é verdadeiramente eliminado pela fé é que se pode alcançar a felicidade.
-
-**Pergunta: A índole e a aparência de uma criança às vezes se assemelham a um dos pais, e às vezes a nenhum deles. Qual a razão para isso?**
-
-Isso depende das circunstâncias. Por exemplo, se durante a gravidez a mãe convive muito com o pai dentro de casa, a criança se parecerá com ele. Mas se o pai passa muito tempo fora, a criança pode se assemelhar a alguém que esteja sempre por perto da mãe. Durante a gestação, costuma-se pendurar quadros de pessoas belas ou de grandes personalidades. Isso se deve ao fato de que, ao olharmos constantemente para uma imagem, acabamos nos assemelhando a ela. Por isso, a crença na educação pré-natal, de que a mãe, ao contemplar rostos belos, dará à luz um filho bonito, tem seu fundamento. A leitura das coletâneas “Diálogos da Fé” e “Paraíso Terrestre” durante a gravidez é extremamente benéfica. Isso influencia a alma da criança, resultando em um filho de bom coração. Claro, às vezes o pai pensa: “Esta criança deveria ser minha, mas não se parece nada comigo. Que estranho...”, mas isso é outra história. (gargalhadas)
-
-**Pergunta: Tenho cinquenta e dois anos e minha esposa, cinquenta e seis. Não temos filhos e gostaríamos de adotar. O que o senhor aconselha? E, caso adotemos, seria melhor um menino ou uma menina?**
-
-Nesses casos, o melhor a fazer é pedir com fervor a Komyō Nyorai-Sama. Se pedirem, não precisarão escolher; Ele lhes concederá uma boa criança que será benéfica para o futuro de vocês. Não há necessidade de se preocupar com isso.
-
-**Pergunta: Algumas pessoas afirmam que os animais não possuem atividade mental. O que o senhor pensa a respeito?**
-
-A atividade mental humana é rica em intelecto, emoção e vontade. Afirmar que os animais são completamente desprovidos disso não é correto. Os animais também têm sentimentos. Desejos de fazer isto ou aquilo, sentimentos de dor, alegria, tristeza – eles os possuem. Um ser humano que reencarna como animal, por exemplo, tem os mesmos sentimentos de um humano. E diz-se que os animais não riem, mas isso não é verdade. A raposa ri; ela abre a boca e ri. O tanuki, especialmente, ri muito. Eles também podem se enfurecer e morder, e sentir tristeza. Diz-se que, quando Taisuke Shiobara se despediu de seu cavalo, “Ao”, o animal chorou. Bem, isso provavelmente é uma lenda, mas até mesmo um cavalo pode expressar tristeza.
-
-Naturalmente, a atividade mental dos animais é de nível inferior, enquanto a dos humanos é superior. Um cão persegue uma fêmea, fareja-a, morde-a. Se um homem fizesse isso com uma mulher no meio da rua, seria um grande problema; ele seria imediatamente levado para um hospital psiquiátrico. (risos) Os seres humanos, ao contrário dos animais, possuem um espírito mais elevado e autocontrole. Somos superiores, sim. Contudo, entre os humanos, os de nível inferior são como animais, pois seu espírito guardião principal não consegue controlar os instintos do espírito guardião secundário.
-
-**Pergunta: Diz-se que tudo na criação possui espírito. Humanos e animais, após a morte, vão para o Mundo Espiritual, passam pela purificação e reencarnam. O que acontece com as plantas depois que morrem?**
-
-Humanos e animais são seres espirituais, enquanto as plantas estão em um estado intermediário entre as substâncias inorgânicas, como pedras e terra, e os animais. São, em suma, seres semiespirituais. Portanto, quando uma planta morre, é o seu fim. Contudo, há casos em que um espírito se apossa de uma planta. Nessas situações, a planta adquire mais características animais. Existem também as plantas-animais.
-
-As plantas conseguem entender a linguagem humana. Certa vez, um jardineiro me ensinou que, se uma árvore se recusa a florescer, basta dizer a ela: “Se não florescer este ano, vou cortá-la”. E ela florescerá. Naquela época, havia uma árvore em meu jardim que não florescia de jeito nenhum. Perguntei ao jardineiro o que fazer, e ele me sugeriu que eu “falasse com ela”. Segui seu conselho e, de fato, a árvore floresceu. (risos) Isso mostra que ela compreendeu a linguagem humana. E quando se fala que uma planta assombra, é porque um espírito se apossou dela.
-
-**Pergunta: Em uma certa família na província de Tochigi, várias crianças nasceram mudas. Que tipo de carma espiritual estaria por trás disso?**
-
-Isso é obra de um dragão de madeira. É a maldição por terem derrubado uma árvore indevidamente. E não uma árvore qualquer, mas uma de grande porte. Geralmente, pinheiros, salgueiros, ginkgos e até mesmo ameixeiras podem amaldiçoar. Certa vez, curei uma pessoa que ficou surda após cortar uma ameixeira. Portanto, para casos como esse, não há outro método de cura senão a fé. Alguns se curam rapidamente, outros são mais resistentes, mas, por mais grave que seja o caso, com perseverança, cerca de metade deles pode ser curada.
-
-**Pergunta: Uma cobra-rateira que vive na casa de um membro tem causado problemas, comendo ovos e matando galinhas. Tentei repreendê-la com a Palavra Divina, mas seu comportamento não mudou. Posso me livrar dela?**
-
-Ah, bem, assim como os humanos, existem cobras de boa e de má índole. Entre os humanos, há os honestos e dóceis, e os que praticam estelionato, assassinato e roubo. Essa cobra pertence à categoria dos assassinos e ladrões. Nesse caso, o que se deve fazer é oferecer-lhe uma certa quantidade de alimento em um local fixo. As cobras gostam muito de arroz cru. Esta parece ser bem gulosa. Se você matar uma cobra de má índole, ela o amaldiçoará. Criaturas como essa têm um poder considerável. Já que não há outra solução, ofereça-lhe comida e reverencie-a. Se você entoar a Oração Amatsu Norito constantemente, ela gradualmente se tornará uma cobra de boa índole. E, então, passará a protegê-lo. Por exemplo, ela pode fazer com que você obtenha mais alimento do que o necessário para o seu sustento. Se for em uma área rural, a colheita pode ser abundante; se for no comércio, o negócio pode prosperar. Ela tem poder para fazer isso.
-
-**Pergunta: Gostaria de perguntar sobre a relação entre os tipos sanguíneos, conforme definidos pela medicina, e as toxinas, e sobre as mudanças nas toxinas por meio do Johrei.**
-
-O tipo sanguíneo está relacionado à etnia. O povo japonês possui diversas linhagens espirituais, e essa diferença se manifesta nos tipos sanguíneos. Pode-se dizer que não há relação com as toxinas. Ou, se houver, é mínima. As toxinas, em sua maioria, são originárias de medicamentos. Se os ancestrais tomaram muitos remédios, a quantidade de toxinas será maior. Portanto, não há uma relação significativa com o tipo sanguíneo.
-
-Com o Johrei, a quantidade de toxinas diminui. Um caso interessante foi o de uma pessoa com pus saindo do ouvido, um paciente com otite média. No início, o pus era amarelado. Com o Johrei, ele foi clareando gradualmente, até se tornar uma água transparente. Isso demonstra claramente a redução das toxinas. O Johrei dilui as toxinas concentradas, eliminando a dor. Quando a toxina se dissolve pelo calor e tenta sair por algum lugar, causa inchaço. Nesse momento, ela pressiona e irrita os nervos, causando dor. Quando o pus se dilui, a pressão cessa, e a dor desaparece.
-
-**Pergunta: O suor frio também é uma ação purificadora?**
-
-Sim, certamente. A sensação de embaraço também é uma forma de purificação. Como não é algo que se possa provocar intencionalmente, deve-se, ao contrário, alegrar-se com isso.
-
-**Pergunta: Eu sou uma pessoa um tanto desinibida e raramente tenho suor frio. (risos)**
-
-Mas o suor frio não está ausente apenas porque se é desinibido. Mesmo uma pessoa assim, se sentir que está em perigo, terá suor frio.
-
-**Pergunta: Cerca de seis meses após o casamento, comecei a ter febre. Pela manhã, a temperatura é de 37 graus; à tarde, sobe para quase 38 ou 39. O médico disse que não há nada de anormal e que a febre é causada pela gravidez. É possível ter febre por causa da gravidez?**
-
-Não, isso não se deve à gravidez. O que esse médico está pensando? Se a cada gravidez se tivesse tanta febre, seria insuportável. A gravidez é um processo fisiológico, não uma doença. Portanto, essa febre não tem relação com a gestação. Coincidentemente, no momento em que engravidou, iniciou-se uma purificação, e as toxinas do seu corpo começaram a se dissolver. Se há febre, certamente existe um acúmulo de toxinas em algum lugar. É preciso ministrar Johrei nesse local.
-
-Quando não há febre nem dor, não é necessário ministrar Johrei. Receber Johrei quando se sente algum desconforto é bom, mas não há por que provocar uma purificação quando não se sente nada. Seria apenas um trabalho desnecessário. Isso é um equívoco.
-
-**Pergunta: Um homem de setenta e quatro anos, há cerca de seis meses, tem dificuldade para evacuar, mesmo sentindo vontade. O médico diagnosticou câncer retal. Ele pode ser salvo pelo Johrei?**
-
-A dificuldade para evacuar ocorre porque o canal por onde as fezes passam no reto se estreitou, dificultando a passagem. Nesses casos, os médicos prescrevem laxantes ou enemas, o que não é muito bom. O reto de uma pessoa nessas condições fica fino como um incenso, o que exige um tratamento mais demorado. Embora digam que é câncer, na maioria das vezes, são toxinas que pressionam o reto, causando essa condição. Em caso de câncer retal, os médicos realizam uma cirurgia para remover a parte afetada e criam um ânus artificial na lateral do abdômen. Contudo, a evacuação ocorre sem aviso, e o paciente precisa usar fraldas. Além disso, o intestino, se exposto, leva à morte, então é preciso mantê-lo firmemente amarrado. Há também o problema dos gases e do odor fétido das fezes. É uma situação verdadeiramente trágica. Geralmente, esse é o resultado da cirurgia. Mesmo que digam que é câncer, o verdadeiro câncer é raro. Pessoas nessas condições certamente têm um nódulo de toxinas na região entre o umbigo e a lateral do abdômen. É preciso ministrar Johrei nesse local e também nos rins. Os nódulos abdominais se originam nos rins. Com Johrei, o câncer retal geralmente pode ser curado.
-
-**Pergunta: Há pessoas cujas mãos tremem muito ao segurar uma caneta ou papel. Qual a razão para isso?**
-
-Isso ocorre porque há um nódulo de toxinas na região da articulação do braço. Quando a pessoa tenta aplicar força e concentra os nervos, a mão treme. É um caso comum. E quanto mais ansiosa a pessoa fica, mais ela treme. Ministrando Johrei do pescoço aos ombros e na articulação do braço, a condição pode ser curada.
-
-**Pergunta: Após receber Johrei, o número de verrugas em meu rosto aumentou. Por quê?**
-
-Isso é excelente. O que deveria sair de qualquer maneira apenas saiu um pouco mais rápido. Portanto, assim que tudo tiver saído, você estará curado. O que sairia aos poucos, em pequenas quantidades, saiu de uma vez. É motivo de grande alegria.
-
-**Pergunta: O poço da minha casa tinha a melhor água da aldeia, mas, devido ao terremoto de Nankai em dezembro de 1937, a água secou. Há dois anos, a água voltou a se acumular, mas tornou-se dura. Desde que ingressei na fé, em março do ano passado, tenho ministrado Johrei, e a água ficou mais clara, mas continua dura. Como posso receber essa graça mais rapidamente?**
-
-Não é que não haja um método, mas se a fé for superficial, pode ser difícil. O melhor método é ajudar as pessoas por meio da fé. Além disso, e isso é um detalhe, quando ganhar dinheiro, use-o da melhor forma possível. Assim, a qualidade da água melhorará. A razão é que a água e os bens materiais estão interligados. Por isso se diz “gastar dinheiro como água”; é uma expressão muito acertada. Usar o dinheiro para fins egoístas não adianta nada. Ao mesmo tempo, é preciso pedir com fervor a Komyō Nyorai-Sama e ministrar Johrei.
-
-**Pergunta: Em uma certa casa, a água do poço normalmente é avermelhada e enferrujada, mas, quando alguém na casa adoece, a água fica limpa. Qual a razão para isso?**
-
-Isso é curioso. É como se o doente estivesse absorvendo a ferrugem. Deve ser um deus-dragão. Esse deus-dragão deve ter pecados e impurezas, e, ao purificá-los constantemente, turva a água. Em certas ocasiões, por algum motivo, ele se aproxima de um humano, e, nesse intervalo, a água fica limpa. É esse o significado. Contudo, isso não durará para sempre. Chegará um momento em que a água ficará limpa permanentemente.
-
-**Pergunta: Qual a direção ideal para cavar um poço? E a presença ou ausência de água tem alguma relação espiritual com o chefe da família?**
-
-O ideal para um poço é a direção sudoeste (*hitsujisaru*). A partir da posição do chefe da casa, a direção nordeste (*ushitora*), o “portão do demônio”, corresponde ao fogo e à água, enquanto a direção sudoeste, o “portão traseiro do demônio”, corresponde à água e à pedra. Portanto, colocar água e pedra na direção sudoeste é extremamente benéfico. Bens materiais, dinheiro e riquezas vêm da direção sudoeste. Em contrapartida, a direção nordeste deve ser purificada. Doenças espirituais muitas vezes são curadas ao se purificar o nordeste. Do “portão do demônio” emana uma energia espiritual pura e benéfica que enfraquece os espíritos malignos. Por isso, os projetos que estou conduzindo atualmente envolvem a construção de um salão na montanha que corresponde ao nordeste, e, na direção sudoeste, que corresponde à água e à pedra, estou criando elementos com essas características. Ali há um riacho esplêndido, que, após uma análise cuidadosa, revelou-se algo extraordinário, e eu o batizei de Yabakei de Atami. É de uma beleza indescritível. Deus o preservou para nós. As margens do riacho são de rocha, combinando água e pedra. Assim, tudo está perfeitamente alinhado com a Vontade Divina. Quando estiver concluído, será um lugar de grande renome. (Vide *Registro dos Colóquios de Luz*, nº 10)
-
-Quanto a encontrar água ao cavar um poço, isso tem uma grande relação com o chefe da família. Pessoas abençoadas com bens materiais encontrarão água; são pessoas que possuem virtude. As que não têm virtude não encontrarão água e também não serão abençoadas com bens materiais. É a lei da correspondência, e não há o que fazer.
-
-**Pergunta: O mesmo se aplica ao ouro?**
-
-Sim, o mesmo se aplica ao ouro. Uma pessoa sem virtude jamais encontrará ouro. Isso se aplica a tudo, mas especialmente ao ouro. Em minas de ouro, é comum que não se encontre nada por muito tempo, mas, quando o dono muda, o ouro aparece subitamente. O princípio é o mesmo.
-
-**Pergunta: Ao cavar um poço, como posso encontrar um local com água abundante?**
-
-Peça com fervor a Komyō Nyorai-Sama. Antes de cavar, ore: “Por favor, indique-me um local com água abundante”. Em seguida, caminhe pela propriedade. O lugar onde você sentir “quero cavar aqui” é o local indicado pela proteção divina. Cave ali.
-
-**Pergunta: Um homem de trinta e nove anos, que sempre dependeu da água dos vizinhos, decidiu cavar um poço em cooperação com eles no canto nordeste da propriedade. Assim que inseriu o tubo de bambu e se sentou na soleira da porta, ele caiu, seu abdômen superior enrijeceu, e ele gritava de dor: “Tenho uma caixa no peito, tirem-na!”. Após cerca de quarenta minutos de Johrei, ele voltou ao normal. Isso se deve à má localização do poço?**
-
-Uma caixa, que interessante. Sim, cavar um poço no canto nordeste foi um erro grave. É preciso mudar de lugar. O ideal para um poço é o sudoeste. O buraco deve ser coberto com terra, e um pinheiro deve ser plantado no local.
-
-**Pergunta: Em minha aldeia (em uma certa vila na província de Mie), os moradores fizeram uma coleta de fundos para cavar um poço de irrigação. A profundidade era de 180 metros, o diâmetro do cano de ferro era de 30 centímetros, e o peso total era de 15 toneladas. No momento de inserir o último cano, o eixo da roldana se partiu subitamente, e o cano caiu cerca de 7 ou 8 metros. Estou preocupado que dois meses de trabalho e um custo de 700 a 800 mil ienes tenham sido em vão. Isso foi resultado de se ignorar a natureza ou há alguma outra causa espiritual?**
-
-Sim, há algo de espiritual nisso. É uma história absurda. Talvez algo esteja obstruindo o caminho. A aldeia deve ter um acúmulo considerável de pecados e impurezas. Por isso, era necessário ter essa perda. Ao fazer isso, os pecados são purificados. O dinheiro usado no projeto estava impuro. Se uma certa quantia de dinheiro impuro não for removida, a água não será concedida. Portanto, basta recomeçar. Desta vez, a água aparecerá. Parece uma perda, mas, no fim, não é, pois uma parte dos pecados é eliminada. Ao compreender isso, deve-se alegrar com a purificação dos pecados. A queima de santuários e templos também ocorre por esse motivo. Grandes templos geralmente foram reconstruídos duas ou três vezes. O Templo Horyu-ji em Nara é um exemplo. Isso acontece porque o dinheiro usado na construção era impuro, não era uma oferenda pura. Foi construído com dinheiro que não foi pago devidamente ou com dinheiro obtido de forma desonesta. E, como era mantido com esse tipo de dinheiro, inevitavelmente precisava ser purificado. Por isso, queimava.
-
-Na nossa organização também, todos os anos, misteriosamente, uma quantia considerável de dinheiro desaparece. Isso acontece porque, entre as muitas doações que recebemos, há dinheiro extremamente impuro, que Deus não pode utilizar e que precisa ser descartado. Ele desaparece de forma estranha e inesperada. Na verdade, não é que desapareça, mas precisa ser liberado. É esse o significado.
-
-A interpretação humana muitas vezes é o oposto da realidade. Até agora, as pessoas se entristeceram com o que deveriam se alegrar e se alegraram com o que deveriam se entristecer, agindo de forma confusa. Por isso, a confusão só aumenta. Com o dinheiro, por exemplo, pensa-se que todo dinheiro é igual, mas, espiritualmente, há uma grande diferença. O dinheiro também tem suas máculas. Isso ocorre porque o pensamento humano penetra facilmente no dinheiro. Atualmente, as ações estão em alta, e muitas pessoas querem lucrar com elas. O verdadeiro objetivo das ações é receber dividendos, mas hoje o objetivo é a especulação, o que não é correto. Por causa disso, o dinheiro que circula no mercado de ações está impregnado do ressentimento daqueles que vivem da especulação. No mercado de ações, para cada um que ganha, noventa e nove perdem. Portanto, o dinheiro que se traz da bolsa de valores vem carregado do ressentimento dos que perderam. A frustração da perda, o apego, o ressentimento e a inveja em relação aos que ganharam vêm junto e se apegam às notas de dinheiro. O dinheiro do mercado de ações é algo terrível; está impregnado de apego. Uma pessoa com vidência me disse que, ao olhar para as notas, vê muitos rostos pequenos, todos chorando ou com expressões de ressentimento e ódio. E as pessoas guardam esse dinheiro no bolso, felizes por terem lucrado. (risos) Esse dinheiro nunca permanece por muito tempo; ele sempre vai embora. Há um ditado que diz: “Dinheiro sujo não para na mão”, e é perfeitamente verdadeiro.
-
-Em Kabutocho, o distrito financeiro, nenhuma corretora de ações dura duas ou três gerações. Eu mesmo, no passado, especulei bastante. Cheguei a criar minha própria sociedade em comandita; gostava muito do mercado. Mas, no fim, perdi dinheiro. (risos) Perdi porque ganhei. No mercado, é melhor perder desde o início. Ganhar parece ser bom, mas, no fim, leva à perda. É como com as mulheres. Se você é rejeitado desde o início, desiste. (risos) Mas se uma mulher gosta de você e você se apaixona, mesmo que se separe dela, você pensa “eu sou desejado” e se torna vaidoso (gargalhadas), e acaba não conseguindo levar uma vida séria. O mesmo acontece com o mercado: perder desde o início é muito bom. Se você ganha, fica empolgado e quer ganhar mais. Se perde, quer recuperar o prejuízo. De qualquer forma, você não consegue se afastar. E mesmo que ganhe, é um dinheiro cheio de ressentimento; ele nunca permanecerá com você. Depois que compreendi essa realidade espiritual, nunca mais fiz algo do tipo. Não é que eu não faça, eu não consigo fazer; é ridículo demais. Mesmo que eu ganhasse, estaria adquirindo o ressentimento dos outros, e o dinheiro iria embora rapidamente. E se fosse embora para uma boa causa, tudo bem, mas ele sempre vai embora por meio de doenças, desastres ou outras coisas ruins.
-
-Assim, não apenas as doenças, mas tudo na vida deve ser interpretado espiritualmente. As grandes corretoras de ações não sobrevivem à segunda geração. Em Izusan, a mansão O está à venda. Uma pessoa chamada O ganhou muito dinheiro com as ações da NYK durante a Primeira Guerra Mundial. Para proteger seu lucro, ele criou a O Trust, pensando que estaria seguro. O pai morreu, e agora é a vez do filho, mas a família está em declínio, vendendo suas propriedades uma a uma, até restar apenas aquela mansão, que agora também está à venda. E como não conseguem vendê-la, decidiram dividi-la em lotes. Creio que estão sendo enganados e explorados pelos corretores. Enfim, por mais que se tome cuidado, não adianta. O dinheiro do mercado de ações se dissipa como fumaça. M, o homem que mais lucrou em Kabutocho, fez um curso conosco na época da Terapia Purificadora. Ele achava que o erro era manter o dinheiro em ações e que seria melhor investir em terras. Ele comprou terras, que se valorizaram enormemente. Antes da guerra, sua fortuna era de quase cem milhões de ienes. Contudo, ele perdeu tudo com o imposto sobre a propriedade. Se fossem pinturas ou antiguidades, ainda seria possível escondê-las, mas com terras não há o que fazer. Ele perdeu tudo. E K também faliu; a atual sede da Tengoku-kai era sua casa. Ele também lucrou com as ações da NYK. E assim por diante... Bem, não adianta falar tanto sobre corretores de ações. (risos) A questão é que todos eles acabam mal, como diz o ditado: “Dinheiro sujo não para na mão”. Pode-se pensar que não haveria problema em usar o dinheiro ganho no mercado de ações para a Obra Divina, mas isso também não é correto. Falei sobre isso porque imaginei que alguns pudessem ter essa ideia.
-
-E há também o seguinte: a organização precisa de dinheiro. De vez em quando, alguém aparece oferecendo dez ou vinte milhões de ienes. Eu sempre recuso. Por quê? Porque Deus precisa salvar muitas pessoas. E, para que muitas pessoas sejam salvas, o maior número possível de pessoas deve servir à Obra Divina, receber virtude e ser purificado. Por meio dessa virtude, seus pecados são eliminados. Se apenas uma pessoa servir, apenas ela acumulará virtude, e as outras não serão salvas. Dez milhões de ienes podem parecer a mesma coisa, não importa de onde venham, mas a diferença é enorme. E, na verdade, doações de valores tão altos raramente acontecem. Se acontecerem, certamente há uma ambição oculta por trás. A pessoa quer obter algo com esse dinheiro. Recentemente, um novo-rico do setor de construção veio oferecer dez ou vinte milhões de ienes. Ele certamente tem a ambição de conseguir os contratos de construção da Igreja Kannon ou da Igreja Miroku e abater o valor da doação. Eu percebo essas coisas. Por isso, é melhor não aceitar esse tipo de dinheiro. Na verdade, não se “faz” uma doação; “tem-se a permissão de doar”. Ter a permissão de doar e de ter seu dinheiro usado por Deus é uma grande graça.
-
----
-
-# Coletânea de Ensaios do Mestre Okada Jikanshi
-
-**Categoria:** sasshi | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** 箱根美術館特別展パンフレット
-**Título Original:** - | **Status:** -
-
-## Coletânea de Ensaios do Mestre Okada Jikanshi
-Uma Visita ao Museu de Arte de Hakone
-Por Tanigawa Tetsuzo
-— Um diálogo com foco em peças de artesanato —
-Publicado no panfleto da Exposição Especial do Museu de Arte de Hakone, 26 de agosto de 1953
-
-Visitante: Ainda não consegui ir este ano. Há muitas peças novas em exposição?
-
-Anfitrião: Eu aguardava ansiosamente a reabertura, em 21 de abril, mas um compromisso me impediu de ir; só consegui visitar o museu ontem. Há, de fato, um número considerável de novas obras em exibição. Logo na primeira sala, deparei-me com a série completa das “Cinquenta e Três Estações da Tōkaidō”, de Hiroshige, alinhadas em todo o seu esplendor. Trata-se da primorosa edição Hoeido. Ademais, há um biombo com a temática *De Quem São Estas Mangas?*. No campo da cerâmica, destacam-se uma tigela quadrada, obra colaborativa entre Korin e Kenzan, e uma outra de Kenzan, vazada, com motivos de juncos e gansos. Nenhuma dessas peças pôde ser vista no ano passado, e há ainda muitas outras obras exibidas pela primeira vez.
-
-Visitante: E quanto às belas peças de Kutani, Kakiemon e Nabeshima que estavam expostas no ano passado? Como estão este ano?
-
-Anfitrião: Elas permanecem quase todas na mesma sala. Pessoalmente, nunca senti grande atração pelas cerâmicas de Imari ou Nabeshima; contudo, devo admitir que, dispostas daquela forma, elas não deixam de ter seu encanto. O museu é um lugar curioso. Uma tigela de chá que, em um salão de chá, nos parece primorosa ao sermos servidos, perde completamente o seu fascínio quando isolada em uma vitrine de exposição. A tigela de chá, por sua vez, só ganha vida na penumbra de um salão de chá, quando a acolhemos com ambas as mãos, sentindo o calor do líquido esverdeado e cremoso que ela contém, e a levamos aos lábios. Observá-la através de um vidro, sob uma luz ofuscante, de cima e de lado, é sentenciá-la à morte. Já as peças de Imari e Nabeshima possuem uma suntuosidade algo distante para serem apreciadas no manuseio íntimo. Nesse sentido, elas ganham vida justamente em vitrines como estas, onde sua beleza visual pode ser plenamente contemplada. Claro que não se pode generalizar, pois peças de Kutani ou Kakiemon, igualmente suntuosas em suas cores, são magníficas tanto no museu quanto na intimidade do nosso lar.
-
-Visitante: Para mim, as peças de Kutani superam até mesmo as cerâmicas chinesas com esmalte vermelho. Em se tratando de cerâmica pintada, acredito que sejam as melhores do mundo.
-
-Anfitrião: Naquela sala, há algumas obras-primas de Kutani. Em especial, o grande prato com a cena de um banquete, classificado como Objeto de Arte de Importância, é uma peça imponente, com uma pintura incomum também no verso.
-
-Visitante: E como está a segunda sala este ano?
-
-Anfitrião: No ano passado, se bem me lembro, este espaço era dedicado a artistas contemporâneos. A escultura “Gato” de Sato Gengen também estava aqui, creio eu. Neste ano, a maior parte do acervo é composta por antiguidades ocidentais. Há também cerâmicas chinesas muito antigas e de grande valor, como uma peça de cerâmica negra do Período dos Reinos Combatentes e um conjunto de mais de dez figuras de músicos e dançarinos policromados da Dinastia Han. Contudo, a maioria das obras é do Egito e da Grécia.
-
-Visitante: Peças egípcias e gregas não estavam em exibição no ano passado, certo?
-
-Anfitrião: Exato, não havia nenhuma. Em outro local, havia uma estatueta de Buda de Gandara, de período inicial, que ainda retinha traços da influência grega, mas era, inegavelmente, uma obra oriental. Por essa razão, sou favorável a essa expansão do acervo. Obras desse tipo são raras no Japão e despertam pouco interesse no público em geral, mas são mundialmente apreciadas. Seria muito valioso se pudéssemos vê-las reunidas aqui. Todavia, para tal, seria necessário ouvir a opinião de especialistas e fazer uma seleção mais criteriosa das peças.
-
-Visitante: Mas quantos peritos nessa área temos hoje no Japão?
-
-Anfitrião: No que tange à arte grega, ainda temos alguns, mas quando se trata do Egito, o cenário é desolador. Além disso, poucos comerciantes de arte se dedicam a esse campo.
-
-Visitante: Eu diria que, mais do que poucos, eles eram praticamente inexistentes até agora.
-
-Anfitrião: Durante o período de inflação na Europa após a Primeira Guerra Mundial, a galeria Yamanaka Shokai chegou a importar um número considerável de peças, mas hoje elas se encontram dispersas, uma aqui, outra acolá, e quase não há oportunidade de vê-las em conjunto. Existem um ou dois comerciantes dedicados, é verdade, mas a escassez de obras é um grande empecilho.
-
-Visitante: Contudo, o Japão é um lugar onde, por vezes, tesouros extraordinários surgem nos lugares mais inesperados. Ainda não sabemos o que pode vir à tona.
-
-Anfitrião: Desde muito tempo, acalento o desejo de reunir, sob um mesmo teto, todas as peças egípcias e gregas que se encontram no Japão.
-
-Visitante: E a terceira sala?
-
-Anfitrião: Ali também há muitas obras novas. Das que já estavam, a jarra *meiping* em estilo *kakiotoshi*, com decoração de peônias sobre fundo branco, da cerâmica de Cizhou — também classificada como Objeto de Arte de Importância —, continua sendo esplêndida. Desta vez, há três obras de caligrafia na sala. O pergaminho horizontal com grandes caracteres de Wuzhun Shifan, intitulado “Nuvem que Retorna”, creio que já estava exposto no ano passado. As novidades são obras de Mokuan e Sesson Shōchō. Desde jovem, nutro uma admiração especial pelas caligrafias de Mokuan, Sesson e Mugaku Sogen. Sempre sonhei em possuir ao menos um pergaminho de um deles, um desejo que até hoje não realizei. Por isso, pedi que abrissem a vitrine para que eu pudesse examinar os três pergaminhos de perto. São todos verdadeiramente magníficos. A montagem do pergaminho de Mokuan, em particular, é esplêndida. A parte central é de seda amarela com brocado de ouro, e a moldura superior é de gaze antiga. Lembra-se daquele pergaminho de Daehye que vimos na reunião do Daishikai em Osaka? A montagem era muito semelhante em estilo e sensação, com a parte central em gaze antiga e a moldura em brocado de ouro. Segundo uma anotação de Shinju-an Soken, datada de alguns anos da era Bunmei, a montagem daquele Daehye é a original da época. Ou seja, trata-se de uma montagem do período Muromachi. Minha impressão é que este pergaminho de Mokuan também conserva sua montagem original daquele período.
-
-Visitante: Vejo que você passou a se interessar até mesmo pela montagem das obras.
-
-Anfitrião: Não é um interesse à parte. A montagem é, em grande medida, parte integrante da pintura ou da caligrafia. Uma montagem inadequada pode arruinar a mais bela das obras. Fico indignado quando vejo pinturas ou caligrafias primorosas emolduradas de maneira desastrosa. Sinto como se algo belo estivesse sendo profanado. Em contrapartida, quando me deparo com uma montagem que harmoniza perfeitamente com a obra, sinto uma alegria imediata.
-
-Visitante: E a quarta sala?
-
-Anfitrião: É a sala das peças em *maki-e*, que, em sua maioria, parecem ser as mesmas do ano passado. Uma novidade é a caixa para papéis de carta com incrustações em madrepérola de motivos florais e de uma cruz, que, segundo me informaram, é um Objeto de Arte de Importância e de fato notável. Há também muitas novas pinturas *ukiyo-e* de pincel dispostas ao redor. Com exceção das obras do período inicial, esse gênero não me atrai muito, então passei por elas sem grande demora.
-
-Visitante: A famosa pintura da “Banhista” não está em exposição desta vez?
-
-Anfitrião: Ela está nos Estados Unidos no momento.
-
-Visitante: Ah, então foi incluída na exposição de arte japonesa. Falando nisso, parece que essa exposição está sendo um sucesso estrondoso por lá. Em Washington, dizem que mais de duzentas mil pessoas a visitaram em três semanas. Na edição de maio da revista “Kokoro”, Nagayo Yoshirō escreveu em suas “Cartas da América” que, ao ver a exposição em Nova York, sentiu-se tão orgulhoso que “teve vontade de se gabar um pouco e ficou até um tanto emocionado”. Isso se deve ao fato de terem enviado muitas obras de primeira linha. Segundo o mesmo Nagayo, o diretor do Metropolitan Museum of Art, uma autoridade no mundo da arte americano — Taylor, se não me engano —, teria dito: “Até agora, pensávamos que a arte japonesa era apenas uma derivação da chinesa, sem originalidade. Percebemos que isso foi um erro crasso, fruto do nosso desconhecimento. É espantoso que, já no século XII — quando o Ocidente ainda vivia a Idade Média —, um humor como o do ‘Chōjū Giga’ de Toba Sōjō já se manifestasse na arte japonesa”. Ouvir isso, embora seja apenas o reconhecimento do óbvio, enche-nos de alegria.
-
-Anfitrião: Sem dúvida. A “Banhista” é um excelente exemplo dessa originalidade japonesa. É uma pena não podermos vê-la este ano, mas me conforta saber que ela está sendo apreciada por um público muito mais amplo, por pessoas de todo o mundo.
-
-Visitante: Há mais alguma peça digna de nota na quarta sala?
-
-Anfitrião: Sim, há algumas. Um quadro de Shiba Kōkan, “Caçador Ocidental”, e um rolo de poemas *waka* de Kōetsu. Este último apresenta um belo desenho de cervos ao estilo de Sōtatsu, e a caligrafia também é excelente. Há também peças de *maki-e* de considerável valor. No geral, porém, a quarta sala me pareceu menos atraente este ano, talvez por meu pouco interesse por *maki-e*. Em contrapartida, a quinta sala está magnífica. A maior parte das obras já estava em exibição no ano passado, mas é um desfile de obras-primas da cerâmica chinesa.
-
-Visitante: Aquela bilha com cabeça de galo da cerâmica de Yue também está lá?
-
-Anfitrião: Sim, está. E, assim como no ano passado, ocupa um lugar de destaque logo à direita da entrada. A imponência e o vigor daquela peça são verdadeiramente singulares. É, sem dúvida, a obra máxima em seu gênero.
-
-Visitante: A bilha com bico de galo em esmalte preto, também da cerâmica de Yue, da coleção Yokogawa, não é igualmente boa?
-
-Anfitrião: Aquela também é excelente, mas o esmalte está bastante danificado e a superfície, áspera. Já esta aqui não apresenta tais desgastes e, ademais, sua forma geral é mais robusta e majestosa. Embora seja de um período um pouco posterior, provavelmente já na Dinastia Tang, em termos de vigor, eu definitivamente prefiro esta.
-
-Visitante: Sendo uma peça consideravelmente maior, talvez isso também contribua para a sensação de força que ela transmite.
-
-Anfitrião: Existem peças que, por maiores que sejam, não transmitem vigor algum, enquanto outras, mesmo pequenas, o fazem. Esta bilha não apenas possui uma forma intrinsecamente vigorosa, como também é grande, o que duplica o impacto que sentimos ao contemplá-la.
-
-Visitante: Entre essas bilhas com cabeça de ave, como as de bico ou cabeça de galo, a minha preferida é a jarra com gargalo de fênix em porcelana branca, da cerâmica de Xing, que pertence à coleção Yokogawa.
-
-Anfitrião: Aquela é uma peça primorosa. Do ponto de vista da beleza, talvez seja a número um. Contudo, como a tenho visto repetidamente ao longo dos anos, tenho a impressão de que a superfície da porcelana branca vem se tornando cada vez mais suja. E é uma sujeira de gordura das mãos. Por ter permanecido enterrada por tanto tempo a ponto de o esmalte se desgastar, é natural que ainda retenha algumas manchas da terra. Mas não é só isso. Há, inegavelmente, marcas de gordura humana, que se tornaram mais evidentes nos últimos anos. Por ser uma peça famosa, o simples ato de manuseá-la para exibi-la já a suja. Além disso, quando alguém aprecia uma obra como essa, sente um desejo irresistível de acariciá-la. Eu mesmo já passei por isso, então compreendo perfeitamente. No entanto, trata-se de um tesouro nacional, e todos deveriam ter mais cuidado, manuseando-a com um tecido ou tomando outras precauções. A beleza daquela jarra de fênix reside, primeiramente, na fluidez de suas linhas, mas a textura única da porcelana branca de Xing é também um elemento crucial de sua beleza. É uma lástima vê-la ser deteriorada dessa forma.
-
-Visitante: Nesse aspecto, a bilha com cabeça de galo de Hakone leva vantagem. O esmalte está intacto, então ela provavelmente suportaria ser manuseada por mãos engorduradas sem problemas.
-
-Anfitrião: De fato, com aquele tipo de esmalte, a gordura das mãos talvez até a deixasse mais bonita. Contudo, de modo geral, parece que o manuseio de pinturas, cerâmicas e peças de *maki-e* tornou-se mais negligente nos últimos tempos. Antigamente, nos museus, havia figuras temíveis como Mizoguchi Teijirō, um verdadeiro guardião do museu, que, segundo dizem, era extremamente rigoroso até com a maneira de enrolar um pergaminho. Hoje, creio que não existam mais pessoas tão exigentes. Isso, por um lado, nos deu mais liberdade para apreciar tudo, mas, se encararmos essa liberdade apenas como um benefício, podemos ter consequências desastrosas. Em uma época em que se observa uma tendência crescente de transferência de obras de arte de coleções particulares para instituições públicas, devemos ter um cuidado redobrado com essa questão. Tratamos com desvelo o que é nosso, mas tendemos a ser descuidados com o que pertence a outros ou ao público. Talvez seja um impulso natural, mas é um impulso que devemos superar por meio da nossa disciplina social.
-
-Visitante: Sinto como se estivesse recebendo um sermão. Mas o que você diz é a mais pura verdade. Tendo eu mesmo algumas peças, compreendo perfeitamente. Às vezes, recebo visitas que me deixam apreensivo com seu modo de manusear as obras. Mas, por favor, continue a me guiar pela quinta sala.
-
-Anfitrião: Você deve se lembrar da bacia de cerâmica Jun, que também estava em exposição no ano passado. E da tigela da cerâmica Xiuneisi, e da jarra de boca estreita com motivo de peônias da cerâmica Ru. Você certamente se recorda dessas peças de celadon Song, pois são obras-primas. E também da tigela quadrada do período Jiajing, aquela com fundo vermelho e decoração azul de crianças brincando. É uma peça que me deleita a cada vez que a vejo. Outra de minhas favoritas é a bilha de água octogonal em estilo *qingbai*. Para o meu gosto, aprecio mais essas peças do que a jarra quadrilobada em estilo *kinrande*, que é Objeto de Arte de Importância, ou a taça elevada, também em *kinrande*, do período Jiajing.
-
-Visitante: E quais são as novidades?
-
-Anfitrião: As peças que mais merecem atenção são um incensário com base em forma de *hakama* da cerâmica Ge e um incensário de três pés em forma de vaso de bronze, de celadon Goryeo. O incensário da cerâmica Ge está longe de ser uma peça perfeita, com lascas e reparos, mas a cor do esmalte é belíssima. Já o celadon Goryeo, embora não seja do meu gosto pessoal, é uma raridade e, segundo a avaliação geral, uma obra de considerável valor. Além disso, há novas pinturas nesta sala, como uma paisagem de Ma Yuan e uma garça de Muqi. A paisagem de Ma Yuan é um Bem Cultural de Importância, e a garça de Muqi também é famosa. Deste último, no entanto, a pintura de Kanzan e Jittoku, que está em exposição desde o ano passado, é, a meu ver, superior.
-
-Visitante: Esse pintor, Muqi, era realmente formidável.
-
-Anfitrião: Absolutamente formidável. O falecido Tanaka Toyozō — sim, o Tanaka que foi diretor do Instituto de Pesquisa de Arte, um grande erudito que viu arte do mundo inteiro — disse uma vez que o tríptico de Muqi, com a cena de “Shaka Descendo da Montanha” ao centro (uma das paisagens de neve que o compõem está no Museu Nacional), era a maior obra de arte do mundo. E não considero isso um grande exagero.
-
-Visitante: A pintura “Bela Mulher Sob uma Árvore”, da Ásia Central, não está exposta este ano?
-
-Anfitrião: O original não está, mas há uma réplica da Ōtsuka Kōgeisha. É tão bem-feita que, à primeira vista, pode ser confundida com a obra autêntica.
-
-Visitante: Que pena não poder ver a original.
-
-Anfitrião: Imagino que a exibirão de tempos em tempos. Assim espero. E, se possível, gostaria que um dia a expusessem ao lado da pintura do homem que pertence ao acervo do museu. Se não for possível em Hakone, que seja no museu de Ueno.
-
-Visitante: Na última edição da “Yamato Bunka”, publicaram as duas lado a lado em cores, com um comentário de Yashiro Yukio.
-
-Anfitrião: Eu também li, e achei a opinião dele bastante interessante. E você? Concorda com os doutores Haneda e Kobayashi Taichirō, que veem as obras como representações de um encontro amoroso ou secreto entre um homem e uma mulher, ou pende para a interpretação de Yashiro, que não as vê como um díptico, mas como fragmentos de um biombo maior, que retrataria um passeio por um bosque ou uma cena de lazer sob as árvores, e cujas outras partes teriam se perdido?
-
-Visitante: Não tenho o direito de me intrometer nas interpretações desses eruditos, mas, se tivesse que escolher, inclinar-me-ia para a tese de Haneda.
-
-Anfitrião: Eu também. Na pintura que está em Hakone, o fato de a serva olhar para trás não precisa ser interpretado como um ato de vigilância, nem como uma indicação de continuidade para outra cena. Se a serva estivesse na mesma direção da dama, a composição de ambas as pinturas seria muito semelhante. Para quebrar essa monotonia, apenas a serva foi retratada olhando para trás. Embora a pintura possua um charme rústico em suas linhas e cores, quando as duas obras são vistas em conjunto, percebe-se um esmero notável na postura de cada uma das quatro figuras, na posição de suas mãos, no desenho dos galhos do pinheiro e na disposição das rochas. Enquanto a dama está ligeiramente à esquerda do centro da tela, o homem está posicionado quase no centro. Ele está parado, tirando o capuz preto com a mão direita, ao passo que seu servo ainda mostra movimento para a frente, com os pés na posição de quem estava caminhando. Já no outro quadro, embora a serva esteja parada ao olhar para trás, a própria dama, ao puxar na diagonal o véu que pende de seus ombros com as mãos postas sobre o peito, revela em sua postura um movimento para a frente, ecoando o movimento de seu coração. Esse jogo de quietude e movimento harmoniza-se perfeitamente entre as duas telas, como se os sentimentos respirassem em uníssono. Sob essa perspectiva, a postura da serva adquire uma necessidade composicional clara dentro do díptico. É assim que eu penso.
-
-Visitante: Entramos em uma discussão bastante detalhada, mas, no geral, concordo com você. É notável, no entanto, que esta pintura tenha sido trazida pela missão Ōtani. Em uma época em que a maior parte da preciosa arte da Ásia Central trazida pela mesma missão foi deixada em Lushun e Keijō, e seu paradeiro é hoje incerto, é uma grande felicidade que ao menos uma obra tão magnífica tenha permanecido no Japão.
-
-Anfitrião: Resta apenas uma sala para lhe mostrar. Na sexta sala, há três novas estátuas de Buda Shakyamuni em bronze dourado, incluindo a famosa peça que pertenceu à coleção de Koizumi Sanshin. Todas são datadas entre os períodos Asuka e Nara, e pretendo examiná-las com mais calma em outra oportunidade.
-
-Visitante: Eu também gostaria de apreciá-las com vagar.
-
-Anfitrião: Há também uma nova estátua de Enma, do período Kamakura, que é excelente. Dentro do pedestal, há um boi. Pedi que o retirassem, por curiosidade, e a escultura é notável. É um boi agachado, com olhos de cristal, e a musculatura proeminente das costas e das coxas, de forma roliça e vigorosa, lembra as pinturas de touros velozes. Confesso que senti o desejo de possuir apenas aquela pequena peça.
-
-Visitante: Finalmente revelou suas verdadeiras intenções. Bem, o melhor a fazer é visitá-lo com frequência. Da próxima vez, iremos juntos. A propósito, quando estive aqui no ano passado, estavam trabalhando intensamente no jardim. Ele já está pronto?
-
-Anfitrião: Parece estar praticamente concluído. O musgo já se fixou bem, e em dois ou três anos, ele se tornará ainda mais sereno e um jardim esplêndido. Não o percorri por completo, mas notei que utilizaram abundantemente pedras de grande porte. Nesse sentido, é um jardim que demandou um esforço humano imenso. Antigamente, os senhores feudais criavam grandes jardins sem poupar mão de obra. A partir da era Meiji, políticos e empresários usaram seu poder e fortuna para construir grandes jardins. Hoje, porém, a criação de um jardim tão vasto por um particular tornou-se um luxo quase impossível. Construir uma casa é uma necessidade e, em último caso, pode ser vendida. Mas um jardim está longe de ser uma necessidade imediata, e sua manutenção sazonal é extremamente trabalhosa. Manter um grande jardim como os de antigamente já se tornou cada vez mais difícil para um indivíduo. Por isso, ao ver um jardim como este, com tantas pedras enormes e um esmero tão evidente, tenho uma sensação peculiar. Presumo que tenha sido construído com o serviço devocional dos fiéis. Se for o caso, isso significa que, hoje em dia, somente o poder da fé pode tornar possível o que, de outra forma, seria impossível. O próprio acervo do museu é um exemplo disso. Nos tempos atuais, seria impossível reunir uma coleção desta magnitude em tão pouco tempo em qualquer outro lugar. No ano passado, fiquei maravilhado ao ver a exposição da coleção do Museu Yamato Bunkakan no Museu de Nara, mas aquela coleção, com o apoio de uma grande empresa como a Kinki Nippon Railway, levou mais de uma década para ser formada. É algo muito diferente de reunir tantas obras em apenas dois ou três anos.
 
 ---
 

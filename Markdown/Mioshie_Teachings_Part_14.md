@@ -1,9 +1,218 @@
 # Mioshie_Teachings - Part 14
 
+# A Grande Revolução na Agricultura
+
+**Categoria:** no | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Kyusei
+**Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 メシヤ教々主（明主）岡田茂吉 | **Status:** Published | **Edição/Página:** 141号 | **Data ISO:** 1952-01-30
+
+## A Grande Revolução na Agricultura
+
+**(I)**
+
+Há mais de uma década, venho preconizando o que denomino Agricultura Natural, um método que dispensa o uso de adubos químicos e dejetos humanos, utilizando apenas composto orgânico para obter colheitas extraordinárias. Naquela época, por mais que me esforçasse para persuadir os agricultores e fazê-los crer em minhas palavras, raros eram aqueles que me davam ouvidos, e meus esforços não frutificaram como eu desejava. Contudo, minha convicção inicial permaneceu inabalável: tratando-se da verdade absoluta, era inevitável que um dia ela seria compreendida. Adicionalmente, eu ponderava que, sem este método, não apenas os agricultores jamais encontrariam a salvação, como também o destino da nação seria profundamente afetado. Com perseverança e sem jamais me curvar, prossegui até os dias de hoje.
+
+Seja por ventura ou infortúnio, a grave situação que eu tanto temia tornou-se realidade. Sinto agora a urgência de conscientizar não apenas os agricultores, mas todos os japoneses. Ao mesmo tempo, uma luz começa a despontar no horizonte da Agricultura Natural. Considerando, pois, que o momento oportuno chegou, decidi iniciar esta grande campanha de divulgação.
+
+Um fator que favoreceu este método agrícola foi a minha condição de líder religioso. Embora muitos de meus seguidores considerassem a proposta um tanto insólita, um número considerável deles, movido pela fé, decidiu colocá-la em prática. Graças a isso, os resultados positivos não tardaram a aparecer, e o número de adeptos cresceu gradualmente. Recentemente, a Agricultura Natural começou a despertar a atenção até mesmo de agricultores que não partilham de nossa fé.
+
+Para minha imensa alegria, conforme detalhado em outra seção, o Sr. Kanesaki Sadao, técnico agrícola do Ministério da Agricultura e Florestas, após anos de dedicada pesquisa sob a perspectiva de sua especialidade, acaba de reconhecer e anunciar os resultados surpreendentes deste método. Sua declaração tem um valor inestimável, pois o fato de esta prática ter origem religiosa a tornava propensa a ser encarada como superstição. Acredito que o pronunciamento de um técnico governamental contribuirá enormemente para dissipar tal equívoco.
+
+Indiscutivelmente, a maior aflição que assola o Japão na atualidade é a escassez de seu principal alimento. Com a redução do território nacional após a guerra e uma população que não cessa de crescer, alcançando hoje oitenta e quatro milhões de habitantes, a questão tornou-se crítica. Neste ano, enfrentamos um déficit de mais de vinte milhões de *koku* de arroz, e a estabilidade só tem sido mantida a duras penas pela importação de alimentos de outras nações. O valor dessas importações, que ultrapassa a casa das centenas de bilhões de ienes, representa um fardo extraordinário para a economia nacional. Enquanto este problema não for solucionado, o futuro de nosso país será desolador. Além disso, a instável conjuntura mundial nos impede de prever que tipo de crise pode eclodir a qualquer momento, tornando imperativa a garantia do suprimento absoluto de alimento para toda a nação.
+
+Ainda que governo e agricultores empreguem todos os meios e recursos ao seu alcance, os resultados permanecem insatisfatórios, e observa-se até mesmo uma tendência de queda na produção. A colheita deste ano, por exemplo, foi cerca de três milhões de *koku* inferior à do ano passado. Diante disso, as políticas de controle de natalidade oferecem pouca esperança, e o crescimento populacional segue em um ritmo superior a um milhão de pessoas por ano. Para resolver esta crise monumental, não haverá solução a menos que ocorra um milagre verdadeiramente revolucionário.
+
+Qual a razão, então, para que nosso país não consiga produzir arroz suficiente para alimentar toda a sua população? Aqui reside o ponto fundamental que desejo expor. A causa é uma falha gravíssima no método de cultivo empregado até hoje: o uso de adubos artificiais, como os químicos e os dejetos humanos, cujo erro passou despercebido. E por que um engano de tal magnitude não foi percebido até hoje? Porque, ao longo do tempo, as pessoas caíram, sem se dar conta, em uma espécie de superstição em torno dos adubos. Tendo descoberto essa verdade, senti profundamente a necessidade de iniciar este movimento para despertá-las de seu sono ilusório e promover uma grande revolução na agricultura.
+
+Explicarei em detalhes os princípios e métodos que permitem à Agricultura Natural obter colheitas abundantes utilizando apenas composto orgânico. Antes, porém, permitam-me descrever seus efeitos. Se este método for aplicado continuamente por cinco anos, em um período de cinco anos, é perfeitamente possível obter um aumento médio de 50% na produção em todo o país. Imagino que, para muitos, tal afirmação pareça inacreditável. Tomando como base a produção anual média atual de sessenta e três milhões de *koku*, um acréscimo de 50% resultaria em noventa e quatro milhões e quinhentos mil *koku*. Isso significa que, ainda que os japoneses comam até a saciedade, haverá um excedente de dez milhões de *koku*, e teremos de, ao contrário de hoje, exportar arroz.
+
+E não é tudo. Os custos com adubos são eliminados, as pragas são reduzidas a uma pequena fração do que eram, e os danos causados por vendavais e inundações diminuem em mais da metade. Consequentemente, a mão de obra necessária também se reduzirá pela metade. Trata-se, de fato, de um método agrícola fenomenal.
+
+O que descrevi até aqui refere-se apenas ao arroz, mas a Agricultura Natural se aplica igualmente a todos os outros cultivos. Mencionarei brevemente alguns exemplos. Todas as hortaliças apresentam resultados esplêndidos. A batata-doce, por exemplo, atinge tamanhos surpreendentes; exemplares de quinhentos a seiscentos *monme* são comuns, e a colheita total é, com certeza, mais que o dobro da obtida com adubação. Os grãos, como os de feijão, tornam-se maiores e mais numerosos, sendo fácil triplicar a produção. O nabo japonês fica mais branco, com uma textura fina, úmida e macia, absolutamente delicioso e sem aquela consistência fibrosa. As folhas das verduras apresentam uma cor vibrante, sem marcas de insetos, e são tenras e igualmente saborosas. Milho, abóbora, melancia e qualquer outra hortaliça que se possa nomear prosperam de uma maneira que desafia a imaginação.
+
+Digno de nota especial é o sabor extraordinário dos produtos cultivados pelo método natural. Seja arroz, trigo ou hortaliças, uma vez que se experimenta seu sabor, torna-se quase impossível voltar a consumir alimentos produzidos com adubação artificial. Eu mesmo só me alimento de produtos isentos de adubos e, felizmente, com o número crescente de praticantes da Agricultura Natural, recebo hoje mais do que consigo consumir. O mesmo se aplica às frutas: os produtores que abandonaram os adubos artificiais relatam que, ano após ano, suas colheitas aumentam, a qualidade melhora e, consequentemente, seus lucros também, pelo que todos se mostram muito gratos. Até mesmo as flores se beneficiam: tornam-se maiores, com cores mais vivas e belas e, quando utilizadas em arranjos florais, sua longa durabilidade é motivo de grande satisfação.
+
+Outro ponto fundamental é a drástica redução de insetos nocivos na Agricultura Natural. Originalmente, tais insetos surgem a partir dos adubos artificiais; portanto, ao eliminá-los, é natural que as pragas não apareçam. Atualmente, na tentativa de exterminá-las, utilizam-se fartamente inseticidas e pesticidas. Na verdade, essas substâncias penetram no solo e tornam-se a causa do surgimento de novas pragas. É lamentável tamanha ignorância.
+
+Nos últimos anos, os danos causados por vendavais e inundações tornaram-se quase anuais. Com a Agricultura Natural, entretanto, os prejuízos são notavelmente menores. A razão para isso é que, ao absorver adubos artificiais, as plantas se tornam surpreendentemente frágeis. Descobri que, quando a planta absorve esses adubos, eles se tornam tóxicos em seu interior, e essa toxina serve de alimento para os insetos nocivos, promovendo sua proliferação. Além disso, certos adubos geram microorganismos que se multiplicam enquanto consomem a própria planta. Se surgem nas raízes, eles devoram as radículas, enfraquecendo-a. A queima das folhas, a quebra dos caules, a queda das flores, o amadurecimento incompleto dos frutos e a atrofia da batata são outras consequências desse processo.
+
+Outros tipos de microorganismos também podem surgir em outras partes da planta. Uma planta saudável teria força para eliminá-los, mas, como mencionado, estando debilitada pelos adubos, ela acaba sucumbindo. Em caso de vendavais e inundações, as plantas de cultivo natural, por serem mais fortes, tombam menos e, mesmo que tombem, logo se reerguem. Já as plantas adubadas permanecem caídas, sofrendo grandes perdas. A razão para tal diferença fica clara ao se observar as raízes: as plantas de cultivo natural possuem radículas muito mais numerosas e longas, o que lhes confere uma fixação muito mais firme ao solo.
+
+Outra característica, tanto do arroz quanto das hortaliças, são as folhas mais curtas. Como sabem os agricultores, em qualquer cultivo, quanto menor a altura da planta e o comprimento das folhas, maior a produção de frutos. Em contrapartida, as plantas adubadas são mais altas e têm folhas maiores; embora aparentem ser mais vistosas, sua produção é, na realidade, decepcionante.
+
+No que tange à sericicultura, os bichos-da-seda alimentados com folhas de amoreira cultivadas sem adubos são extremamente saudáveis. O fio produzido é mais resistente, brilhante e de qualidade muito superior, resultando, obviamente, em um aumento da produção. Isso se deve também à ausência de doenças entre os casulos.
+
+Como demonstrei, as vantagens da agricultura sem adubos em comparação com a agricultura adubada são inúmeras e incomparáveis. Para compreendê-las, é preciso, antes de tudo, conhecer a natureza do solo. Afinal, o que é o solo? O Criador o concebeu para produzir os cultivos que sustentam os seres humanos e os animais. Portanto, a essência do solo é tão rica em nutrientes que se pode dizer que ele é um verdadeiro repositório de fertilidade. Ignorando completamente este fato, as pessoas passaram a acreditar erroneamente que os adubos são o alimento das plantas. Como resultado, a aplicação de diversos adubos artificiais acabou por enfraquecer a força original do solo. Diz-se com frequência que o solo japonês é ácido, e essa é exatamente a causa. Que erro espantoso!
+
+Nesse sentido, para aumentar a produção agrícola, o que se deve fazer é fortalecer ao máximo a força intrínseca do solo. E como se faz isso? Mantendo o solo o mais puro possível, sem misturar a ele nenhuma impureza além do composto orgânico. Apenas com essa medida, é possível alcançar resultados magníficos, algo que a mentalidade convencional tem grande dificuldade em aceitar.
+
+Com base nesse princípio, a filosofia fundamental da Agricultura Natural é o respeito absoluto pela Natureza, pois é ela quem nos ensina. Basta observar a gênese e o desenvolvimento de todas as coisas do Universo para compreender que nada existe sem a força da Grande Natureza, ou seja, sem os três elementos: Fogo, Água e Terra, representados pelo Sol, pela Lua e pelo nosso planeta. O mesmo se aplica, evidentemente, aos cultivos. Assim, ao garantir uma boa exposição solar, um suprimento abundante de água e um solo mais puro, as plantas produzirão muito mais do que o necessário para o ser humano.
+
+Observem a Natureza: ervas secas e folhas caídas são produzidas em abundância e, a cada outono, cobrem a superfície da terra. Elas existem justamente para enriquecer o solo; a Natureza nos ensina a usá-las como adubo. Muitos agricultores acreditam que o composto orgânico possui nutrientes, mas não é bem assim. A verdadeira função do composto é evitar que o solo resseque, mantê-lo aquecido e impedir que se compacte. Em outras palavras, ele absorve a umidade, retém o calor e garante a fofura da terra.
+
+Seguindo essa lógica, o adubo a ser dado ao arrozal é a própria palha do arroz, cortada o mais fino possível e bem misturada à terra. Este é o processo natural, pois a palha é um produto do próprio arroz e tem o efeito de aquecer as raízes. Da mesma forma, capim seco e folhas caídas são ideais para as hortas. Não é por acaso que, próximo às hortas, geralmente há matas com abundância de folhas e capim; a Natureza nos indica que devemos utilizá-los.
+
+O centro da Terra é uma imensa massa de fogo que irradia incessantemente o calor geotérmico, ou seja, o espírito da terra. Esse espírito é o nitrogênio, o adubo provido por Deus. Ele atravessa a superfície terrestre, acumula-se no ar até uma certa altura e, com a chuva, desce e penetra no solo. Este é o adubo de nitrogênio natural, que vem do Céu na medida exata, sem excesso nem falta.
+
+Mas então, por que se começou a usar o adubo de nitrogênio? Há uma razão histórica para isso. Durante a Primeira Guerra Mundial, a Alemanha, enfrentando escassez de alimentos, precisou aumentar drasticamente sua produção. Foi então que se descobriu um método para extrair nitrogênio do ar. A sua utilização resultou em um grande aumento da produção e, a partir de então, a prática se difundiu pelo mundo. Contudo, aquele foi um efeito temporário, que não se sustenta a longo prazo. Inevitavelmente, o excesso de nitrogênio enfraquece o solo e leva à redução da produção, mas este princípio ainda não foi compreendido. Pode-se pensar nisso como algo análogo ao vício em narcóticos.
+
+Há um ponto que requer atenção. Ao fazer a transição para a Agricultura Natural, a quantidade de toxinas de adubo remanescentes no solo e nas sementes de uma plantação de arroz influencia enormemente os resultados. Em alguns casos, já no primeiro ano de cultivo, obtém-se um aumento de cerca de 10% na colheita. Em outros, observa-se uma redução de 10% a 20% no primeiro e no segundo ano, e só a partir do terceiro ano é que se vê um aumento de 10% a 20%, com uma melhora progressiva a partir de então.
+
+De modo geral, podemos esperar o seguinte: no primeiro ano, uma colheita semelhante à anterior; no segundo, um aumento de 10%; no terceiro, de 20%; no quarto, de 30% a 40%; e, a partir do quinto ano, um aumento de 50%. Esta é uma estimativa segura. Portanto, se os resultados iniciais forem muito ruins, é sinal de que há uma grande quantidade de adubo artificial remanescente no solo. Nesses casos, a adição temporária de terra nova pode amenizar o problema.
+
+Há mais uma questão de suma importância. Sendo o sulfato de amônio e outros adubos químicos absorvidos pelo arroz, seus venenos potentes, ainda que em quantidades ínfimas, são ingeridos três vezes ao dia pelo ser humano. É natural que, sem que se perceba, isso cause danos ao corpo. O aumento da incidência de doenças no homem moderno pode muito bem ter, entre suas causas, este fator.
+
+Para finalizar, gostaria de elencar sucintamente os benefícios econômicos da Agricultura Natural:
+1.  Eliminação dos gastos com adubos.
+2.  Redução da mão de obra pela metade.
+3.  Aumento substancial da colheita.
+4.  Aumento do peso dos grãos, ausência de perda de volume no cozimento e sabor delicioso.
+5.  Praticamente completa eliminação de pragas.
+6.  Solução definitiva para o problema dos vermes, como a lombriga, e outros parasitas, que hoje tanto afligem a população.
+
+Com base no exposto, creio que fica claro o quão revolucionário é este método de cultivo e que grande bênção ele representa. Sua prática não só resolverá de uma vez por todas o problema alimentar do Japão, como também servirá de catalisador para influenciar positivamente todas as outras questões, em especial a saúde humana. Tenho a certeza absoluta de que, à medida que esta prática se difundir por todo o Japão, a reconstrução do país será acelerada, e chegará o dia em que seremos admirados pelo mundo inteiro como uma nação de elevada cultura. É com este anseio que desejo que esta edição especial seja lida pelo maior número possível de japoneses.
+
+Por fim, gostaria de frisar que não tenho a mais ínfima intenção de usar este método como propaganda religiosa. Prova disso é que qualquer pessoa, mesmo sem possuir fé, pode colocá-lo em prática e obter os excelentes resultados descritos.
+
+**(II)**
+
+Ao analisar os relatórios sobre os resultados do ano passado, enviados de diversas localidades, lamento que, devido ao envio precoce, muitos não abranjam o período até a colheita. Ainda assim, foi possível ter uma visão geral, sobre a qual gostaria de tecer algumas reflexões. A Agricultura Natural, acima de tudo, nega o uso de adubos, que até então eram considerados a própria vida dos cultivos. Por isso, no início, os praticantes enfrentaram críticas e ataques inesperados de suas famílias e vizinhos, tornando-se alvo de zombarias. Ao ler sobre a perseverança silenciosa, a resignação e a força com que seguiram em frente, vertendo verdadeiras lágrimas de sangue, meus olhos se enchem de lágrimas. Sinto no peito que somente a fé torna tal feito possível. Afinal, para pessoas que, por gerações, foram doutrinadas na superstição dos adubos, a oposição é até compreensível.
+
+Isso me faz pensar nas grandes invenções e descobertas da história que hoje contribuem imensamente para a humanidade. Sem exceção, em seu início, todas foram alvo de incompreensão e perseguição. Os registros das inúmeras provações e do sofrimento atroz que seus precursores enfrentaram para perseverar são capazes de abalar a nossa alma.
+
+Da mesma forma, eu já estava preparado para que a Agricultura Natural enfrentasse considerável oposição por um tempo. Contudo, como os resultados práticos são surpreendentes, eu sabia que a paciência seria necessária apenas até um certo ponto. E, como esperado, os relatórios que recebemos agora demonstram claramente que o método finalmente começou a atrair a atenção de diversos setores.
+
+No entanto, no início, devido às circunstâncias desfavoráveis e à falta de convicção dos próprios praticantes, poucos foram os que começaram de forma decidida e declarada. A maioria iniciou de forma experimental, com grande receio e apreensão. Como o solo e as sementes estavam impregnados de toxinas de adubo, no primeiro ano as plantas apresentavam folhas amareladas e caules finos, a ponto de parecer que morreriam. Diante desse quadro, os agricultores sentiam-se ansiosos e aflitos, recorrendo fervorosamente à oração a Deus. Contudo, na época da colheita, os resultados se mostravam surpreendentemente bons. "Senti um profundo alívio" é uma frase que todos eles proferem. É somente superando essa fase difícil que se conquista a coroa da vitória.
+
+Na verdade, eu gostaria de ter publicado os relatos de diversas localidades após quatro ou cinco anos de prática, quando o aumento de 50% na produção já estivesse consolidado. Contudo, a situação atual é tão premente que não podemos esperar. Além disso, creio que os resultados obtidos até agora já são suficientes para comprovar a eficácia deste método. Por isso, decidimos publicar esta edição especial para informar o mais rápido possível não apenas os agricultores, mas o público em geral.
+
+Nesse sentido, para que a informação chegue tanto pelos olhos quanto pelos ouvidos, esta edição especial será distribuída amplamente a todos os ministros de Estado, parlamentares, principais jornais, estações experimentais agrícolas, associações e demais entidades ligadas à agricultura em todo o país. Assim que os preparativos estiverem concluídos, pretendemos realizar palestras por todo o Japão. Portanto, rogo não apenas aos fiéis das zonas rurais, mas a todos os membros em geral, que se empenhem em divulgar e recomendar este método.
+
+De acordo com notícias recentes, o governo, aparentemente em um ato de desespero, planeja investir uma quantia colossal a partir deste ano em um plano para aumentar a produção em três milhões de *koku* anuais, utilizando todos os recursos possíveis. A intenção é boa, mas se continuarem a usar adubos químicos e dejetos humanos, mesmo com outras melhorias agrícolas e diversas medidas, um aumento de três milhões de *koku* não passará de um sonho. Em minha opinião, na melhor das hipóteses, manterão a produção média; na pior, pode até ocorrer uma redução, como no ano passado. É por isso que desejo, de todas as formas, despertá-los da superstição dos adubos e promover a transição para a Agricultura Natural o mais rápido possível.
+
+Felizmente, mesmo que a eficácia do método seja compreendida e ele passe a ser adotado, é obviamente impossível converter todo o Japão de uma só vez. Portanto, é preciso agir com a máxima cautela. Um plano decenal, convertendo 10% da área cultivada a cada ano, seria o ideal. Dessa forma, não haveria risco de queda na produção. Nos primeiros um ou dois anos, a colheita se manteria na média; a partir do terceiro ano, começaria a aumentar gradualmente. E posso garantir, com toda a certeza, que após cinco ou seis anos, o aumento será superior a 50%.
+
+Há algo que desejo enfatizar neste ponto, embora possa ser de difícil compreensão para os não-membros. O arroz, principal alimento do ser humano, foi criado por Deus para nos sustentar. Portanto, por mais que a população aumente, a quantidade necessária deveria ser sempre produzida. O déficit atual de vinte milhões de *koku* anuais é consequência direta de um método agrícola equivocado, ou seja, o uso de adubos artificiais. Se, como afirmei, a produção aumentar em mais de 50%, o que acontecerá com a economia japonesa? A pecha de "nação endividada" se reverterá, e a era do *kofuku gekijo* — em que o povo, satisfeito, bate no ventre e canta a paz — se tornará realidade. Sei que, ao dizer isso, a promessa pode parecer tão fácil que talvez desperte desconfiança. Mas não faço afirmações sem fundamento.
+
+Como consta em alguns relatórios, com a Agricultura Natural, à medida que as toxinas dos adubos desaparecem, a planta de arroz gera espigas sobre espigas. De um único caule, brotam vários ramos, e todos eles produzem grãos. Assim, cada caule pode gerar, com certeza, de trezentas a quinhentas sementes. Somando-se a isso a ausência de pragas e a drástica redução dos danos climáticos, nosso país fará jus ao seu nome ancestral de *Toyoashihara Mizuho no Kuni* (豊葦原瑞穂の国), a Terra das Férteis Planícies de Juncos e das Viçosas Espigas de Arroz. Por tudo isso, afirmo sem hesitar que, mesmo que a população do Japão chegue a cem, duzentos ou trezentos milhões de habitantes, a área cultivada atual será suficiente para alimentar a todos.
+
+Há mais um ponto que gostaria de abordar. Em vários trechos dos relatórios, aparece a palavra Johrei (浄霊). Para os não-membros, talvez seja difícil de entender, mas, independentemente da compreensão, farei uma breve explicação. Johrei é um método para eliminar as toxinas dos adubos. O simples ato de estender a mão produz efeitos maravilhosos, algo que uma mente endurecida pelo materialismo jamais poderá compreender. Embora este seja o cerne de nossos ensinamentos, vou me ater aqui a uma análise do solo.
+
+Originalmente, o solo é composto de dois elementos: espírito e matéria. A matéria é o solo em si, visível. O espírito é a essência invisível do solo; pode-se dizer que a matéria é a frente, e o espírito, o verso. Como os adubos são tóxicos, eles enfraquecem a parte material do solo, o que se reflete na parte espiritual, obscurecendo-a. Isso ocorre porque o princípio de que o espírito é o principal e a matéria o secundário rege todas as coisas do Universo. O Johrei, nesse contexto, é um método de dissolução das toxinas de adubo. Durante o Johrei, uma onda de luz poderosa é irradiada da palma da mão, dissipando as máculas do espírito do solo. Essa purificação se transfere para a matéria, e as toxinas diminuem. Esta é a verdade. A ciência, por desconhecer este princípio, ocupa-se apenas de um dos lados, o da matéria. É, portanto, uma ciência claudicante. Foi por causa dessa ciência incompleta e do pensamento tradicional que o solo foi enfraquecido pelos adubos. Ao descobrir este princípio, criei a Agricultura Natural. Esta é a verdadeira ciência, uma descoberta de magnitude mundial. Portanto, não há mistério algum no fato de que ela possa gerar um aumento de produção tão revolucionário.
+
+Para concluir, um aviso importante. Quando falo em um aumento de 50% em cinco anos, tomo como padrão um campo de arroz que recebeu uma quantidade mediana de adubos artificiais, pois é o tempo necessário para que as toxinas desapareçam por completo. Recentemente, porém, na ânsia de aumentar a colheita, muitos agricultores passaram a usar grandes quantidades de adubos químicos, como o sulfato de amônio. Nesses casos, mesmo que se adote a Agricultura Natural hoje, a eliminação completa das toxinas levará mais tempo, possivelmente mais de cinco anos.
+
+Isso explica a considerável variação nos resultados apresentados nos relatórios, que se deve justamente à diferença na quantidade de toxinas remanescentes. Com o tempo, essa diferença se tornará clara. Quando a espiga de arroz surge amarelada, é sinal de que ainda há toxinas. À medida que elas desaparecem, a espiga passa a nascer verde desde o início. O Johrei serve para acelerar este processo. Assim, após cinco anos ou mais, quando as toxinas tiverem sido completamente eliminadas, o Johrei para o solo não será mais necessário. O fato de a adição de terra nova melhorar temporariamente os resultados deveria ser suficiente para que as pessoas compreendessem o mal causado pelas toxinas, mas a superstição em torno dos adubos as impede de enxergar a verdade.
+
+---
+
+# As Enfermidades Cerebrais e os Equívocos da Medicina
+
+**Categoria:** no | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 脳疾患 ・病患と医学の誤謬七 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## As Enfermidades Cerebrais e os Equívocos da Medicina
+
+Analisemos as enfermidades relacionadas ao cérebro, tão características do homem moderno. Dentre elas, a mais comum é, sem dúvida, a neurastenia. Seus sintomas manifestam-se como dores de cabeça, tonturas, sensação de pressão, confusão mental, ansiedade, melancolia e insônia.
+
+A mais frequente dessas manifestações é a dor de cabeça crônica. Qual seria sua origem? A causa principal reside na aplicação de compressas de gelo durante episódios febris, como os decorrentes de resfriados. Comumente, a febre é acompanhada por dores de cabeça, que são, na verdade, um sinal de que as toxinas solidificadas no cérebro estão se dissolvendo e começando a se mover por ação da purificação. Contudo, ao se aplicar gelo, esse processo de dissolução é interrompido e as toxinas voltam a se solidificar. Sobre essa massa reconsolidada, uma purificação lenta e contínua passa a atuar, gerando a dor crônica. Por essa razão, ao pousarmos a palma da mão sobre a cabeça de alguém com esse quadro, invariavelmente sentimos uma leve febre, que pode se manifestar em toda a cabeça, apenas na região frontal ou posterior, ou ainda em um ponto específico. Esta condição, no entanto, pode ser plenamente curada através da terapia natural.
+
+Existe, todavia, outro tipo de dor de cabeça, originada por uma causa distinta: a anemia cerebral. Conforme expliquei no tópico sobre resfriados, sua origem está em toxinas solidificadas próximas aos gânglios linfáticos que comprimem os vasos sanguíneos. Nesses casos, ao pousarmos a mão sobre a cabeça do enfermo, não apenas não se percebe febre, como, ao contrário, a temperatura pode estar mais baixa que o normal. Durante uma crise, o rosto torna-se subitamente pálido e, em casos mais graves, pode ocorrer perda de consciência acompanhada de náuseas intensas. A cura consiste em promover a purificação por meio de exercícios físicos, tanto quanto possível, para induzir um estado febril que dissolva e elimine as toxinas acumuladas nos gânglios.
+
+A sensação de pressão na cabeça, por sua vez, deve-se a toxinas estagnadas em todo o cérebro. Pela ação da primeira purificação, elas se solidificam, obstruindo a circulação sanguínea. A falta de sangue causada pela anemia cerebral também contribui para esse sintoma.
+
+Quanto à insônia e à confusão mental, por já terem sido abordadas no capítulo sobre sintomas, não me deterei nelas aqui. Passemos, então, à análise da sensação de ansiedade e irritabilidade. As funções cerebrais podem ser divididas, em linhas gerais, em razão e emoção. O lobo frontal rege a razão, enquanto a região posterior do cérebro governa a emoção. A razão compreende a sabedoria, a memória, a ponderação e outras faculdades intelectuais. Não por acaso, os eruditos, que se dedicam a trabalhos racionais, invariavelmente possuem a parte frontal da cabeça mais desenvolvida. Por outro lado, a região posterior comanda as emoções — alegria, ira, tristeza e prazer —, de modo que as pessoas com essa área proeminente são mais emotivas. Fica evidente, portanto, por que os homens tendem a ter a região frontal mais desenvolvida e as mulheres, a posterior, assim como os ocidentais se destacam pela primeira e os orientais, pela segunda.
+
+Nesse sentido, uma pessoa com toxinas e febre sutil na região frontal terá o raciocínio disperso, dificuldade de concentração, memória enfraquecida e se entediará com facilidade. O baixo rendimento escolar de muitos estudantes se deve a essa condição. Em minha prática, observei que, à medida que as toxinas do lobo frontal eram eliminadas pelo tratamento, suas notas melhoravam notavelmente. De forma análoga, toxinas e febre na região posterior do cérebro perturbam o campo emocional, tornando a pessoa propensa a estados de ansiedade e irritabilidade.
+
+O que popularmente se atribui a crianças muito irritadiças ou temperamentais obedece a esse mesmo princípio. Ao tocarmos a cabeça de uma criança com esse comportamento, sempre constataremos uma leve febre. À medida que essa febre cede, a irritabilidade desaparece e o desempenho escolar melhora. Contudo, por desconhecerem essa verdade, muitas pessoas recorrem a vermífugos ou simpatias, que, por não atacarem a verdadeira causa, mostram-se pouco eficazes.
+
+Discorramos agora sobre a meningite. Trata-se de um processo de purificação da parte frontal da cabeça, no qual uma ação purificadora intensa se manifesta sobre as densas toxinas acumuladas na membrana do osso frontal. Os sintomas incluem uma dor de cabeça de intensidade insuportável, e o paciente não consegue abrir os olhos devido à extrema sensibilidade à luz. Portanto, a presença de febre altíssima, como fogo, na região frontal, aliada à incapacidade de abrir os olhos, permite diagnosticar a meningite com segurança. A doença é particularmente comum em crianças pequenas, que, por não saberem expressar a dor verbalmente, devem ser diagnosticadas pela combinação da febre alta com os olhos cerrados.
+
+Nesses casos, a medicina recorre às compressas de gelo como principal tratamento, o que constitui o pior erro possível. É por essa razão que, mesmo quando sobrevivem, muitos pacientes desenvolvem sequelas, como deficiências cognitivas. Qual a explicação para isso? Em um curso natural, as toxinas acumuladas seriam liquefeitas pela ação da febre purificadora, fluiriam para baixo e seriam expelidas sob a forma de remela e secreção nasal, resultando na cura completa. A aplicação de gelo, no entanto, reverte esse fluxo: as toxinas liquefeitas, em vez de serem expelidas, são forçadas a penetrar nos tecidos do cérebro, onde se solidificam novamente. O princípio é o mesmo que expliquei no caso da otite, em que o tratamento com gelo desvia o processo purificador para o cérebro. Qualquer método que suprima drasticamente a purificação, como o resfriamento com gelo, interrompe o fluxo das toxinas dissolvidas e o desvia para outra direção. Desse modo, a solidificação de toxinas nos tecidos cerebrais impede seu funcionamento adequado, resultando em sequelas permanentes.
+
+Portanto, o temor de que a meningite, mesmo curada, deixe sequelas terríveis, deve-se, na verdade, ao tratamento equivocado. Curei inúmeros casos de meningite e, invariavelmente, após a recuperação, os pacientes se tornavam ainda mais lúcidos do que antes. As crianças, por exemplo, apresentavam uma melhora tão notável no rendimento escolar que deixavam seus professores perplexos.
+
+A seguir, abordarei a hemorragia cerebral. É de conhecimento geral que essa enfermidade tem se tornado extremamente comum nos últimos tempos. E, assim como a tuberculose acomete mais os jovens, a hemorragia cerebral é mais frequente em pessoas de meia-idade e idosos. Trata-se de uma doença particularmente penosa, pois costuma manifestar-se justamente quando o indivíduo, após acumular vasta experiência de vida e atingir a maturidade, consolida sua carreira e alcança uma posição social de destaque, estando prestes a contribuir significativamente para a nação. A perda é imensa, não só para o indivíduo, mas também para o país e a sociedade.
+
+Uma vez acometida por essa doença, a pessoa pode perder a vida subitamente. Se, por sorte, sobrevive, frequentemente sofre um derrame que paralisa um dos lados do corpo. Em casos mais graves, a mobilidade da língua é afetada, impedindo a fala, e podem ocorrer também danos cerebrais. A recuperação completa é algo que se pode considerar praticamente inexistente; no máximo, observa-se uma melhora parcial em raros casos. Além disso, a doença tem como característica uma evolução longa e penosa, que geralmente culmina na morte. Acrescente-se a isso o sofrimento da perda de autonomia física, que impõe um fardo imenso aos familiares em termos de cuidados e despesas, uma situação verdadeiramente digna de compaixão. A medicina moderna, ademais, admite não possuir nenhum método de tratamento eficaz, tampouco meios de prevenção ou mesmo uma compreensão precisa de suas causas.
+
+De acordo com minhas pesquisas, a doença se desenvolve da seguinte forma: sua causa é a purificação de toxinas ou sangue impuro acumulados próximo ao bulbo e à artéria carótida, em um dos lados do corpo. Quando a purificação se inicia, o calor dissolve essas impurezas, que primeiramente invadem a região central do cérebro e, em seguida, descem rapidamente pela artéria do lado oposto, acumulando-se no braço e na perna. Todo esse processo é extraordinariamente rápido, ocorrendo em uma fração de segundo. É por isso que a paralisia de um lado do corpo se instala de forma quase simultânea ao início da crise.
+
+No momento da manifestação, o rosto da pessoa primeiro adquire uma coloração avermelhada intensa, para logo depois se tornar pálido. O rubor ocorre porque o sangue impuro que invadiu o cérebro transborda para a face; a palidez, porque esse sangue se solidifica em algum ponto, causando anemia. A prática médica, nesses casos, é aplicar gelo com o objetivo de contrair rapidamente os vasos e estancar a hemorragia interna. Tal procedimento, contudo, além de ineficaz para esse fim, acarreta consequências terríveis. O fato é que, após a hemorragia, o sangue extravasado desce ou se solidifica rapidamente, e os vasos se contraem naturalmente em instantes, cessando o sangramento. A aplicação de gelo, portanto, apenas serve para endurecer ainda mais as toxinas remanescentes no cérebro, prejudicando suas funções. Se o resfriamento for prolongado, o cérebro pode se paralisar, levando inclusive à morte. Deve-se considerar, ainda, que a longa duração do estado de inconsciência após uma hemorragia cerebral é, em grande parte, influenciada pelo uso do gelo.
+
+Consequentemente, se uma pessoa acometida por essa doença for deixada em repouso, sem qualquer intervenção médica ou de outra natureza, há casos em que a cura completa pode ocorrer. A esse respeito, há um exemplo ilustrativo. Certa vez, tratei de uma senhora de aproximadamente cinquenta anos, esposa de um homem abastado de uma pequena cidade no nordeste do Japão. Ela sofreu uma hemorragia cerebral e, por sua condição financeira, pôde consultar até mesmo renomados especialistas de Tóquio, submetendo-se a todos os tratamentos disponíveis. Contudo, após quase dois anos, seu estado não só não melhorara, como apresentava sinais de piora.
+
+Na mesma época, na periferia daquela cidade, vivia um humilde agricultor, também na casa dos cinquenta anos, que havia sofrido um derrame na mesma ocasião que a senhora. Um dia, ele foi à casa dela por algum motivo. A senhora, surpresa, questionou-o: "Ouvi dizer que o senhor também tinha sofrido um derrame e estava com um lado do corpo paralisado, mas agora o vejo sem nenhuma sequela, tão saudável quanto antes. O que aconteceu? Que tratamento fez? Que remédio tomou?". O velho agricultor respondeu: "Nós somos pobres, não temos dinheiro para médicos nem para remédios. Por isso, entreguei meu destino aos Céus e fiquei apenas deitado, sem fazer absolutamente nada. Com o passar do tempo, fui melhorando naturalmente". Ao ouvir meu ensinamento, a senhora finalmente compreendeu o porquê daquele desfecho. Tive conhecimento de outros dois ou três casos semelhantes, o que comprova que minha teoria não está equivocada.
+
+Recentemente, uma doença sazonal tem se tornado comum: a encefalite letárgica. Suas causas são objeto de acalorado debate entre os médicos, e a verdadeira origem parece ainda não ter sido determinada. Uma das teorias mais aceitas é a de que a doença é transmitida por mosquitos. Se assim fosse, não deveria haver nenhum caso durante o inverno; no entanto, pacientes surgem ocasionalmente nessa estação. Como explicar isso?
+
+Segundo minhas observações, ao contrair essa doença, a pessoa apresenta, além de febre alta, um acúmulo intenso e constante de toxinas em um dos lados do bulbo. Essas toxinas fluem em direção ao cerebelo. Ao realizar o tratamento na região que vai do bulbo ao cerebelo, o acúmulo no bulbo diminui gradualmente. Em geral, após dois ou três dias, o paciente começa a expelir grande quantidade de remela e secreção nasal. Em casos graves, pode haver sangue misturado a essas secreções. À medida que a eliminação se intensifica, a pessoa desperta gradualmente e inicia sua recuperação. Seguindo esse curso, a cura completa ocorre em cerca de uma semana. Essa é uma doença que, se não receber nenhum tratamento, especialmente a aplicação de gelo, resultará invariavelmente na cura, sem risco de morte.
+
+A explicação é a seguinte: a causa reside na exposição prolongada da cabeça ao sol forte do verão. Esse estímulo faz com que as toxinas presentes nas costas e nos ombros se desloquem rapidamente para o cérebro, invadindo o cerebelo e provocando o estado de sonolência. É por essa razão que a doença é mais comum no verão e afeta principalmente crianças. As toxinas que penetram no cerebelo seguem seu curso para serem expelidas pelos olhos e narinas, o que constitui, obviamente, um intenso processo de purificação. A medicina, entretanto, utiliza principalmente o resfriamento com gelo, fazendo com que as toxinas se solidifiquem no local e não possam ser eliminadas. Com isso, o estado de sonolência persiste, levando o paciente à morte por debilidade.
+
+Existe também a meningite cérebro-espinhal. Essa doença se manifesta com febre alta e uma dor ou rigidez, como um repuxamento, na região que vai da nuca ao bulbo, causando grande sofrimento. Esse quadro se prolonga de forma obstinada, o apetite desaparece e o paciente acaba falecendo por fraqueza. A causa dessa doença é o estágio imediatamente anterior ao da encefalite letárgica, ou seja, as toxinas se acumulam e tentam se solidificar antes de alcançarem o cerebelo. Se, nesse estado, a pessoa se expuser ao sol forte do verão, desenvolverá a encefalite letárgica. Quando a meningite cérebro-espinhal caminha para a cura, suas toxinas são expelidas sob a forma de uma quantidade muito grande de secreção nasal.
+
+Por fim, a concussão cerebral ocorre em decorrência de quedas de lugares altos ou de fortes pancadas na cabeça. Quando há hemorragia interna grave, pode ser fatal. Em casos de sangramento abundante, o paciente vomita profusamente e pode haver também sangramento pelos ouvidos. Se o vômito ocorrer duas ou três vezes, não há risco de morte, mas se acontecer várias vezes, a vida do paciente está em perigo.
+
+Para avaliar a gravidade de qualquer doença cerebral, a frequência dos vômitos é o indicador mais seguro.
+
+---
+
+# Prece de Louvor na Consagração do Protótipo do Paraíso
+
+**Categoria:** no | **Ano:** 昭和25(1950)年10月4日 | **Fonte:** Eikou
+**Título Original:** 祝詞 | **Status:** Published | **Edição/Página:** 72号 | **Data ISO:** 1950-10-04
+
+## Prece de Louvor na Consagração do Protótipo do Paraíso
+
+Perante o sublime e augusto Miroku Oomikami, cujo nome é demasiado sagrado para ser proferido, com a mais profunda reverência e humildade, assim nos pronunciamos:
+
+Neste auspicioso dia de outono do vigésimo quinto ano da era Showa, escolhido e predestinado, manifestou-se a Vossa profundíssima Vontade Divina. Conforme Vosso grandioso desígnio de projetar o Paraíso neste mundo, confiaste reverentemente a sublime missão de construir seu protótipo àquele a quem veneramos como Mestre de nossos ensinamentos, Meishu-Sama.
+
+Movidos por essa incumbência, os fiéis, em sintonia com a Vontade Divina, unindo seus corações em pura sinceridade, levantaram-se com fervor e determinação inabaláveis. Ao longo de sete anos, sem jamais desfalecer, quer sob a chuva ou o vento, devotaram-se de corpo e alma à nobre causa. E quão abençoados foram os frutos de tamanha dedicação!
+
+Eis que finalmente se concluiu a magnífica obra: oh, quão sublime é a beleza deste Jardim Divino! Com efeito, sua nobreza, que materializa a Verdade, o Bem e o Belo em sua plenitude, é um feito de tal maestria divina que nos faz imaginar se o próprio Palácio Celestial de Shibi Tenkyuu (紫微天宮) se lhe poderia comparar. Vãs seriam as palavras que tentassem exaltá-lo devidamente.
+
+Embora se apresente hoje como um modesto Recanto dos Sábios Imortais, Shinsen no Sato (神仙の郷), ao chegar o tempo determinado, este precioso jardim, protótipo do Paraíso Terrestre, será conhecido por todas as nações e ilhas, até os mais remotos confins da Terra. Então, de toda parte, multidões incessantes a ele afluirão.
+
+Quando enfim advier a Era de Miroku, toda a humanidade louvará e exaltará as virtudes de Deus. As pessoas se reverenciarão mutuamente e viverão em plena harmonia. A doença, o conflito e a pobreza se desvanecerão como um sonho do passado, e se inaugurará um tempo de paz e serenidade eternas.
+
+O alicerce dessa nova Era foi lançado no cume da célebre montanha de Hakone, em solo sagrado escolhido e purificado por Deus. Ali, com os pilares do santuário fincados profundamente na rocha, ergueu-se o novo Nikkouden, cujo aroma de madeira fresca preenche o ar. E neste Templo, os fiéis se reúnem em tal número que mal há espaço, rejubilando-se e celebrando este dia abençoado, que marca o despontar do Paraíso em nosso mundo.
+
+Oh, que alegria a deste Grande Ofício! Que as palavras de louvor e gratidão com que enaltecemos as grandiosas obras de Deus ecoem com vigor pelos Céus e alcancem os confins da Terra! Que ressoem por incontáveis gerações, por toda a eternidade.
+
+Que possamos receber Vossas imensuráveis bênçãos de forma cada vez mais profunda. Com essa súplica, humildemente nos prostramos e, com a mais sincera devoção, elevamos nosso rogo:
+
+Ó, Miroku Oomikami, protegei-nos e abençoai-nos!
+
+Seguindo a Vossa Vontade, que nosso espírito prospere em felicidade!
+Seguindo a Vossa Vontade, que nosso espírito prospere em felicidade
+
+---
+
+# A Cura Milagrosa e a Cegueira do Mundo
+
+**Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** ノーベル賞的偉効 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## A Cura Milagrosa e a Cegueira do Mundo
+
+Dentre as diversas enfermidades infantis, a mais desoladora de todas é, sem dúvida, a paralisia infantil, tida pela medicina como uma doença absolutamente incurável. Por conseguinte, mesmo que as crianças sejam internadas, os médicos não visam à sua recuperação, mas sim à sua utilização como material de pesquisa. Os pacientes, em uma situação verdadeiramente lastimável, acabam por pagar para servir de cobaias.
+
+No entanto, e de forma verdadeiramente assombrosa, conforme o relato de graça a que me refiro, um dos casos mais severos de paralisia infantil evoluiu para a cura de maneira extraordinariamente favorável, com o paciente se restabelecendo por completo em apenas seis meses. Tal fato constitui um acontecimento de imensa magnitude.
+
+Se um resultado tão extraordinário fosse fruto da medicina, certamente geraria uma comoção sem precedentes. A associação médica o anunciaria em escala nacional, os jornais estampariam a notícia em suas manchetes, e o médico responsável alcançaria fama mundial da noite para o dia, tornando-se, sem dúvida, um laureado de renome internacional.
+
+Contudo, por uma triste ironia, pelo simples fato de se tratar de um fenômeno religioso, um feito desta magnitude será completamente ignorado por acadêmicos e intelectuais. Essa verdade será, inevitavelmente, relegada ao esquecimento, o que demonstra que o mundo, em verdade, jaz em completa escuridão e ignorância.
+
+Ainda assim, não nos cabe a indignação. Afinal, por se tratar da salvação concedida pelo Messias, é uma certeza absoluta que chegará o tempo em que o mundo inteiro a compreenderá de uma só vez.
+
+---
+
 # A Grande Revolução Agrícola: A Certeza do Aumento de 50% na Produção de Arroz em Cinco Anos
 
 **Categoria:** no | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
-**Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 | **Status:** Published
+**Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
 
 ## A Grande Revolução Agrícola: A Certeza do Aumento de 50% na Produção de Arroz em Cinco Anos
 
@@ -82,7 +291,7 @@ Publicado na revista Eikou (nº 141), em 30 de janeiro de 1952.
 # A Prevenção Definitiva da Hemorragia Cerebral
 
 **Categoria:** no | **Ano:** 昭和11(1936)年 | **Fonte:** 脳溢血は絶対予防し得る
-**Título Original:** 脳溢血は絶対予防し得る | **Status:** Unpublished
+**Título Original:** 脳溢血は絶対予防し得る | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Prevenção Definitiva da Hemorragia Cerebral
 
@@ -103,7 +312,7 @@ Ademais, mesmo naqueles que não chegam ao ponto de sofrer uma hemorragia, a pos
 # A Grande Revolução na Agricultura: O Cultivo sem Fertilizantes para Hortas Caseiras
 
 **Categoria:** no | **Ano:** 昭和24(1949)年3月30日 | **Fonte:** -
-**Título Original:** 農業の大革命 清潔で心から楽しめる 家庭菜園の無肥科栽培 | **Status:** Published
+**Título Original:** 農業の大革命 清潔で心から楽しめる 家庭菜園の無肥科栽培 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-03-30
 
 ## A Grande Revolução na Agricultura: O Cultivo sem Fertilizantes para Hortas Caseiras
 
@@ -162,7 +371,7 @@ Eis, pois, a grande revolução na agricultura e um verdadeiro evangelho para to
 # A Causa Espiritual de Enfermidades Comuns
 
 **Categoria:** no | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 脳貧血その他 未発表 | **Status:** Unpublished
+**Título Original:** 脳貧血その他 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Causa Espiritual de Enfermidades Comuns
 
@@ -203,7 +412,7 @@ Se as amígdalas forem removidas, as toxinas, sem ter para onde ir, serão forç
 # A Verdade por Trás das Inovações Agrícolas
 
 **Categoria:** no | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
-**Título Original:** 農業の新発見に就て | **Status:** Published
+**Título Original:** 農業の新発見に就て | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1950-01-14
 
 ## A Verdade por Trás das Inovações Agrícolas
 
@@ -218,7 +427,7 @@ Nesse sentido, a referida duplicação da colheita, na realidade, deve-se muito 
 # Elucidação sobre as Enfermidades Cerebrais
 
 **Categoria:** no | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 脳疾患 | **Status:** Published
+**Título Original:** 脳疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Elucidação sobre as Enfermidades Cerebrais
 
@@ -259,7 +468,7 @@ Para aferir a gravidade de qualquer doença relacionada ao cérebro, o vômito �
 # As Superstições na Agricultura
 
 **Categoria:** no | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
-**Título Original:** 農耕者の迷信に就て | **Status:** Published
+**Título Original:** 農耕者の迷信に就て | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
 
 ## As Superstições na Agricultura
 
@@ -320,7 +529,7 @@ Pode-se dizer que minha motivação para a Agricultura Natural nasceu do pavor a
 # A Surpreendente Cura da Meningite
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 脳膜炎も訳なく治る 未発表 | **Status:** Unpublished
+**Título Original:** 脳膜炎も訳なく治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Surpreendente Cura da Meningite
 
@@ -341,7 +550,7 @@ Portanto, a simples reflexão sobre este ponto revela a assombrosa ofuscação d
 # Sobre as Enfermidades Cerebrais
 
 **Categoria:** no | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 脳疾患 | **Status:** Published
+**Título Original:** 脳疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Sobre as Enfermidades Cerebrais
 
@@ -376,7 +585,7 @@ Em suma, um ponto crucial a ser retido sobre as enfermidades cerebrais é que a 
 # Prece Divina
 
 **Categoria:** no | **Ano:** 昭和9(1934)年12月4日 | **Fonte:** （のりと） 不明、昭和
-**Título Original:** 神言祝詞 | **Status:** Unknown
+**Título Original:** 神言祝詞 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1934-12-04
 
 ## Prece Divina
 
@@ -401,7 +610,7 @@ Prostrados, com os joelhos dobrados e a fronte rente ao solo, com o mais profund
 # Sobre as Enfermidades Cerebrais
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 脳疾患 ・主なる病気(一) 未発表 | **Status:** Unpublished
+**Título Original:** 脳疾患 ・主なる病気(一) 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## Sobre as Enfermidades Cerebrais
 
@@ -430,7 +639,7 @@ Além das enfermidades mencionadas, existem sintomas como cefaleia crônica, sen
 # A Resposta Divina às Calúnias e Detratações
 
 **Categoria:** na | **Ano:** 昭和24(1949)年3月30日 | **Fonte:** -
-**Título Original:** 治るんだ | **Status:** Published
+**Título Original:** 治るんだ | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-03-30
 
 ## A Resposta Divina às Calúnias e Detratações
 
@@ -459,7 +668,7 @@ Marchamos com determinação sob o grande objetivo de reconstruir um Novo Japão
 # Sobre o Consumo de Verduras Cruas
 
 **Categoria:** na | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
-**Título Original:** 生野菜 | **Status:** Published
+**Título Original:** 生野菜 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
 
 ## Sobre o Consumo de Verduras Cruas
 
@@ -474,7 +683,7 @@ Nesse sentido, quando se trata de uma alface cultivada pelo método da Agricultu
 # O Advento da Igreja Messiânica Mundial
 
 **Categoria:** na | **Ano:** 昭和25(1950)年3月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 何故救世教となった乎 | **Status:** Published
+**Título Original:** 何故救世教となった乎 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1950-03-20
 
 ## O Advento da Igreja Messiânica Mundial
 
@@ -497,7 +706,7 @@ Nesse contexto, a principal preocupação dos fiéis será, naturalmente, compre
 # Relatos Anedóticos
 
 **Categoria:** na | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
-**Título Original:** ナンセンス | **Status:** Published
+**Título Original:** ナンセンス | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
 
 ## Relatos Anedóticos
 
@@ -530,7 +739,7 @@ Para concluir, gostaria de relatar a obra-prima do disparate. Certa noite, no no
 # A Tragédia dos Mares do Sul e o Veneno Medicamentoso
 
 **Categoria:** na | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 南洋馬鹿 | **Status:** Published
+**Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Tragédia dos Mares do Sul e o Veneno Medicamentoso
 
@@ -549,7 +758,7 @@ Qualquer um que compreenda os princípios desta Arte Médica há de concordar qu
 # O Mal que Aflige os Nossos Jovens
 
 **Categoria:** na | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 南洋馬鹿 | **Status:** Published
+**Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## O Mal que Aflige os Nossos Jovens
 
@@ -566,7 +775,7 @@ A veracidade dos fatos aqui expostos, longe de ser um exagero, será prontamente
 # A Trindade dos Órgãos Internos e a Primazia do Coração
 
 **Categoria:** na | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 内臓の三位一体と心臓の重要性 | **Status:** Unknown
+**Título Original:** 内臓の三位一体と心臓の重要性 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Trindade dos Órgãos Internos e a Primazia do Coração
 
@@ -611,7 +820,7 @@ Os pacientes com doenças cardíacas, por outro lado, representam o oposto: são
 # A Verdadeira Sede da Alma Humana
 
 **Categoria:** na | **Ano:** 昭和26(1951)年3月14日 | **Fonte:** Eikou
-**Título Original:** 何が欲しい 阿呆文学（六） | **Status:** Published
+**Título Original:** 何が欲しい 阿呆文学（六） | **Status:** Published | **Edição/Página:** 95号 | **Data ISO:** 1951-03-14
 
 ## A Verdadeira Sede da Alma Humana
 
@@ -640,7 +849,7 @@ Ah, Salve o Lótus-Buda-Amida, que assim seja! Toc, toc, toc.
 # A Puerilidade da Ciência Médica
 
 **Categoria:** na | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 何と医学の幼稚なる事よ 未発表 | **Status:** Unpublished
+**Título Original:** 何と医学の幼稚なる事よ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Puerilidade da Ciência Médica
 
@@ -657,7 +866,7 @@ Nesse sentido, impõe-se uma reflexão fundamental. Médicos, que são profissio
 # A Debilidade Mental Oriunda dos Mares do Sul
 
 **Categoria:** na | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 南洋馬鹿 | **Status:** Published
+**Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Debilidade Mental Oriunda dos Mares do Sul
 
@@ -674,7 +883,7 @@ Afirmo que os fatos aqui expostos não constituem qualquer exagero, e todo aquel
 # As Razões para a Criação Deste Método Terapêutico
 
 **Categoria:** na | **Ano:** 昭和11(1936)年 | **Fonte:** Kenko
-**Título Original:** 何故 | **Status:** Unpublished
+**Título Original:** 何故 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## As Razões para a Criação Deste Método Terapêutico
 
@@ -695,7 +904,7 @@ Contudo, mesmo que se saiba que a causa primordial de todas as doenças reside n
 # A Trindade dos Órgãos Internos e o Johrei
 
 **Categoria:** na | **Ano:** 昭和24(1949)年8月6日 | **Fonte:** -
-**Título Original:** 内臓の三位一体と浄霊 | **Status:** Published
+**Título Original:** 内臓の三位一体と浄霊 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1949-08-06
 
 ## A Trindade dos Órgãos Internos e o Johrei
 
@@ -730,7 +939,7 @@ Portanto, sendo o corpo humano uma constituição trinitária, um método de cur
 # Peregrinação pela Arte Budista em Nara
 
 **Categoria:** na | **Ano:** 昭和27(1952)年5月14日 | **Fonte:** Eikou
-**Título Original:** 奈良美術行脚 | **Status:** Published
+**Título Original:** 奈良美術行脚 | **Status:** Published | **Edição/Página:** 156号 | **Data ISO:** 1952-05-14
 
 ## Peregrinação pela Arte Budista em Nara
 
@@ -757,7 +966,7 @@ Gostaria, no entanto, de enaltecer um artista de nosso tempo: o escultor Sato Ge
 # A Verdadeira Senda da Fé
 
 **Categoria:** na | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 難行苦行 | **Status:** Published
+**Título Original:** 難行苦行 | **Status:** Published | **Edição/Página:** P.27 | **Data ISO:** 1948-09-05
 
 ## A Verdadeira Senda da Fé
 
@@ -780,7 +989,7 @@ Constata-se que, mesmo no Japão, ainda existem ascetas e religiosos que se dedi
 # Reminiscências sobre os Grandes Mestres do Naniwabushi
 
 **Categoria:** na | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 浪花亭愛造 自観叢書第5編 | **Status:** Published
+**Título Original:** 浪花亭愛造 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.22 | **Data ISO:** 1949-08-30
 
 ## Reminiscências sobre os Grandes Mestres do Naniwabushi
 
@@ -807,7 +1016,7 @@ Além desses, outros nomes permanecem vívidos em minha memória, como Naniwatei
 # A Realidade do Mundo de Miroku
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** ミロクの世の実相 未発表 | **Status:** Unpublished
+**Título Original:** ミロクの世の実相 未発表 | **Status:** Unpublished | **Edição/Página:** 137号 | **Data ISO:** 1952
 
 ## A Realidade do Mundo de Miroku
 
@@ -830,7 +1039,7 @@ Quanto à segunda forma de agressão, aquela que não provém da necessidade, ne
 # A Realidade do Mundo Espiritual
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 未知の世界 | **Status:** Published
+**Título Original:** 未知の世界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Realidade do Mundo Espiritual
 
@@ -847,7 +1056,7 @@ O grande obstáculo, contudo, reside no fato de que o Mundo Espiritual não pode
 # Nosso Credo
 
 **Categoria:** mi | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
-**Título Original:** 五六七教教義 | **Status:** Published
+**Título Original:** 五六七教教義 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
 
 ## Nosso Credo
 
@@ -866,7 +1075,7 @@ Cremos, finalmente, que o Paraíso Terrestre é o mundo que corporifica, em sua 
 # O Paradoxo do Progresso e a Ameaça à Sobrevivência Humana
 
 **Categoria:** mi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** Asu no Ijutsu 第一篇
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## O Paradoxo do Progresso e a Ameaça à Sobrevivência Humana
 
@@ -891,7 +1100,7 @@ Portanto, qual o significado deste efeito reverso? Foi o sublime anseio de eluci
 # A Democratização da Arte
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年7月8日 | **Fonte:** Eikou
-**Título Original:** 民主的美術館 | **Status:** Published
+**Título Original:** 民主的美術館 | **Status:** Published | **Edição/Página:** 216号 | **Data ISO:** 1953-07-08
 
 ## A Democratização da Arte
 
@@ -906,7 +1115,7 @@ Ouvir tais palavras me trouxe uma imensa satisfação, pois ele expressou, de fo
 # A Comprovação Científica do Espírito
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Comprovação Científica do Espírito
 
@@ -941,7 +1150,7 @@ Além disso, outra via possível é o aprimoramento das chapas fotográficas. Re
 # A Cura de Três Graves Enfermidades Simultâneas em uma Única Ministração
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 三つの病併合の重症一回で治る 未発表 | **Status:** Unpublished
+**Título Original:** 三つの病併合の重症一回で治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Cura de Três Graves Enfermidades Simultâneas em uma Única Ministração
 *Trecho da obra inédita “A Revolução da Medicina”, escrito em 1953*
@@ -957,7 +1166,7 @@ Diante da manifestação contínua de milagres de tal magnitude, sem precedentes
 # A Revelação do Encontro Tríplice de Miroku
 
 **Categoria:** mi | **Ano:** - | **Fonte:** Bunmei no Sozo
-**Título Original:** 弥勒三会 未発表 | **Status:** Unpublished
+**Título Original:** 弥勒三会 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## A Revelação do Encontro Tríplice de Miroku
 
@@ -976,7 +1185,7 @@ Permitam-me agora expor um raciocínio fascinante. Kannon nasceu do budismo, o q
 # O Paradoxo do Progresso e o Declínio da Humanidade
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu第二篇
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## O Paradoxo do Progresso e o Declínio da Humanidade
 
@@ -1003,7 +1212,7 @@ Sendo assim, qual o significado exato desse “efeito reverso”? Este livro nas
 # A Sublimidade da Escultura Budista Japonesa
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年4月2日 | **Fonte:** Eikou
-**Título Original:** 三越の春日興福寺宝物展を観て | **Status:** Published
+**Título Original:** 三越の春日興福寺宝物展を観て | **Status:** Published | **Edição/Página:** 150号 | **Data ISO:** 1952-04-02
 
 ## A Sublimidade da Escultura Budista Japonesa
 
@@ -1034,7 +1243,7 @@ Sempre afirmo que, embora outros gêneros artísticos tenham seu valor, a escult
 # O Deus Invisível se Fez Visível
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
-**Título Original:** 見えざる神は見えた | **Status:** Published
+**Título Original:** 見えざる神は見えた | **Status:** Published | **Edição/Página:** 167号 | **Data ISO:** 1952-07-30
 
 ## O Deus Invisível se Fez Visível
 
@@ -1098,7 +1307,7 @@ Adendo: A manifestação espiritual mencionada no texto foi de um espírito de r
 # A Construção do Mundo de Miroku
 
 **Categoria:** mi | **Ano:** 昭和24(1949)年7月16日 | **Fonte:** -
-**Título Original:** 五六七世界の建設 | **Status:** Published
+**Título Original:** 五六七世界の建設 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1949-07-16
 
 ## A Construção do Mundo de Miroku
 
@@ -1119,7 +1328,7 @@ Em suma, é nosso dever cultivar a devida postura interior para enfrentar o proc
 # A Edificação do Mundo de Miroku
 
 **Categoria:** mi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** 五六七世界の建設 (再録) 自観叢書12編 | **Status:** Published
+**Título Original:** 五六七世界の建設 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1950-01-30
 
 ## A Edificação do Mundo de Miroku
 
@@ -1142,7 +1351,7 @@ Em suma, o propósito deste artigo foi tão somente o de delinear a preparação
 # Um Sistema de Avaliação Democrático
 
 **Categoria:** mi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 民主的試験制度 | **Status:** Published
+**Título Original:** 民主的試験制度 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Um Sistema de Avaliação Democrático
 
@@ -1167,7 +1376,7 @@ Contudo, afirmo que, por meio desta Arte Médica, isso é perfeitamente possíve
 # A Força Invisível
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 見えざる力 | **Status:** Published
+**Título Original:** 見えざる力 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Força Invisível
 
@@ -1200,7 +1409,7 @@ Gostaria de ressaltar mais uma vez que não menosprezo, de modo algum, o poder d
 # A Missão Messiânica e o Advento da Suprarreligião
 
 **Categoria:** mi | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
-**Título Original:** 五六七大祭 | **Status:** Published
+**Título Original:** 五六七大祭 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1950-03-11
 
 ## A Missão Messiânica e o Advento da Suprarreligião
 
@@ -1221,7 +1430,7 @@ Este é o ponto fundamental, e somente através de sua profunda compreensão é 
 # Ashita no Ijutsu
 
 **Categoria:** mi | **Ano:** 昭和18年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943
 
 ## Ashita no Ijutsu
 
@@ -1244,7 +1453,7 @@ Finalmente, cumpre acrescentar que esta terapia pode ser praticada por qualquer 
 # A Revelação do Mundo Espiritual
 
 **Categoria:** mi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 未知の世界 | **Status:** Published
+**Título Original:** 未知の世界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Revelação do Mundo Espiritual
 
@@ -1261,7 +1470,7 @@ Em um futuro muito próximo, porém, o mundo desconhecido se tornará um mundo c
 # A Formação de Doutores em Três Dias
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年10月28日 | **Fonte:** Eikou
-**Título Original:** 三日間で博士が出来る | **Status:** Published
+**Título Original:** 三日間で博士が出来る | **Status:** Published | **Edição/Página:** 232号 | **Data ISO:** 1953-10-28
 
 ## A Formação de Doutores em Três Dias
 
@@ -1284,7 +1493,7 @@ Caros leitores, que empreendimento grandioso se descortina diante de nós
 # A Verdade sobre Miroku e a Transição para o Mundo do Dia
 
 **Categoria:** mi | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** ミロクの真相 | **Status:** Published
+**Título Original:** ミロクの真相 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Verdade sobre Miroku e a Transição para o Mundo do Dia
 
@@ -1311,7 +1520,7 @@ Existem budistas que se mantêm passivos e despreocupados, apegando-se à ideia 
 # A Essência da Fé e a Justa Retribuição
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年12月11日 | **Fonte:** Gokowa
-**Título Original:** 御講話 | **Status:** Unknown
+**Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-12-11
 
 ## A Essência da Fé e a Justa Retribuição
 
@@ -1366,7 +1575,7 @@ Em suma, constitui a verdade que alcança o justo equilíbrio em todas as coisas
 # A Ilusão da Cura Médica e a Realidade da Dívida Espiritual
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年2月15日） | **Status:** Published
+**Título Original:** 御講話 （S27年2月15日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## A Ilusão da Cura Médica e a Realidade da Dívida Espiritual
 
@@ -1403,7 +1612,7 @@ Atualmente, a sociedade vê com bons olhos o fato de uma religião administrar u
 # A Verdadeira Cura e a Salvação pela Arte
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年3月7日） | **Status:** Published
+**Título Original:** 御講話 （S27年3月7日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## A Verdadeira Cura e a Salvação pela Arte
 
@@ -1442,7 +1651,7 @@ Pois eu irei expor a tigela "Fuji" ao grande público. Perante Deus, monopolizar
 # A Super-Estultícia da Sociedade Moderna
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年9月15日） | **Status:** Published
+**Título Original:** 御講話 （S28年9月15日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
 
 ## A Super-Estultícia da Sociedade Moderna
 
@@ -1513,7 +1722,7 @@ A origem de todo esse estelionato reside nos espíritos malignos. No Mundo Espir
 # A Luz que Dissipa o Terror Atômico
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 関西 巡教 御講話 （S29年4月11日） | **Status:** Published
+**Título Original:** 関西 巡教 御講話 （S29年4月11日） | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1954-05-15
 
 ## A Luz que Dissipa o Terror Atômico
 
@@ -1554,7 +1763,7 @@ Como já disse anteriormente, a região de Chukyo é de extrema importância par
 # O Propósito do Bem e do Mal
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年11月11日） | **Status:** Published
+**Título Original:** 御講話 （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## O Propósito do Bem e do Mal
 
@@ -1576,7 +1785,7 @@ A verdade é que o mal desempenhou, até o presente momento, um papel de suma im
 # O Surpreendente Crescimento da Obra Divina e a Limitação do Conhecimento Humano
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年8月7日） | **Status:** Published
+**Título Original:** 御講話 （S28年8月7日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
 
 ## O Surpreendente Crescimento da Obra Divina e a Limitação do Conhecimento Humano
 
@@ -1635,7 +1844,7 @@ O mesmo se aplica a todas as áreas. Seja na medicina ou na agricultura, as teor
 # A Soberania Divina e a Missão do Oitavo Salvador
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年4月7日） | **Status:** Published
+**Título Original:** 御講話 （S29年4月7日） | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1954-05-15
 
 ## A Soberania Divina e a Missão do Oitavo Salvador
 
@@ -1666,7 +1875,7 @@ Eu pretendia discorrer também sobre as bombas atômica e de hidrogênio, mas de
 # A Retidão e a Beleza Interior
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年12月16日） | **Status:** Published
+**Título Original:** 御講話 （S28年12月16日） | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
 
 ## A Retidão e a Beleza Interior
 
@@ -1707,7 +1916,7 @@ Essa é a razão pela qual afirmo que a Sekaikyuseikyou não é uma religião. N
 # A Natureza do Mal e a Nova Era
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年7月16日） | **Status:** Published
+**Título Original:** 御講話 （S27年7月16日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-15
 
 ## A Natureza do Mal e a Nova Era
 
@@ -1736,7 +1945,7 @@ Este outro texto, que trata do cinema, acabou por se tornar uma espécie de hist
 # A Realidade da Atuação dos Espíritos Malignos
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年10月15日） | **Status:** Published
+**Título Original:** 御講話 （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## A Realidade da Atuação dos Espíritos Malignos
 
@@ -1763,7 +1972,7 @@ Podem observar: em breve, o mesmo ocorrerá com a penicilina e a estreptomicina.
 # Observações sobre o Mundo Pós-Guerra e a Condição do Japão
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年10月15日） | **Status:** Published
+**Título Original:** 御講話 （S27年10月15日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
 
 ## Observações sobre o Mundo Pós-Guerra e a Condição do Japão
 
@@ -1810,7 +2019,7 @@ Atualmente, o câncer é uma das maiores aflições nos Estados Unidos, mas sua 
 # A Salvação do Budismo e a Cura das Doenças da Alma
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年4月7日） | **Status:** Published
+**Título Original:** 御講話 （S28年4月7日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-05-15
 
 ## A Salvação do Budismo e a Cura das Doenças da Alma
 
@@ -1859,7 +2068,7 @@ O tratamento da tuberculose está detalhado no livro "Terapia pela Fé", mas ain
 # O Significado da Luz do Oriente
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年11月7日） | **Status:** Published
+**Título Original:** 御講話 （S27年11月7日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
 
 ## O Significado da Luz do Oriente
 
@@ -1890,7 +2099,7 @@ Veja-se o caso das recentes eleições. Nos Estados Unidos, não se fala em “e
 # A Verdadeira Natureza da Doença e o Engano do Mundo
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年8月5日） | **Status:** Published
+**Título Original:** 御講話 （S27年8月5日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
 
 ## A Verdadeira Natureza da Doença e o Engano do Mundo
 
@@ -1931,7 +2140,7 @@ Foi isso que procurei expressar de forma clara nestes escritos.
 # Sobre a Repurificação e a Expansão da Fé
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年5月15日） | **Status:** Published
+**Título Original:** 御講話 （S28年5月15日） | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1953-06-15
 
 ## Sobre a Repurificação e a Expansão da Fé
 
@@ -1982,7 +2191,7 @@ Portanto, a falta de ar mais severa origina-se na lateral do tronco, próximo à
 # A Conduta do Crente e a Salvação pela Verdade
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年1月6日） | **Status:** Published
+**Título Original:** 御講話 （S27年1月6日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## A Conduta do Crente e a Salvação pela Verdade
 
@@ -2045,7 +2254,7 @@ Embora o tempo seja escasso, gostaria de acrescentar algo que lhes servirá de r
 # O Alvorecer do Mundo e os Perigos da Medicina
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年2月17日） | **Status:** Published
+**Título Original:** 御講話 （S28年2月17日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
 
 ## O Alvorecer do Mundo e os Perigos da Medicina
 
@@ -2084,7 +2293,7 @@ Agora, lerei um artigo que escrevi de uma forma um pouco mais interessante.
 # A Nova Metodologia Terapêutica
 
 **Categoria:** kouwa | **Ano:** 昭和13(1938)年1月26日 | **Fonte:** Gokowa
-**Título Original:** 御講話 | **Status:** Unknown
+**Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1938-01-26
 
 ## A Nova Metodologia Terapêutica
 
@@ -2093,158 +2302,6 @@ Sob a ótica da verdadeira religião, a prática deve ser realizada sobre as ves
 Nesse sentido, mesmo aqueles que receberam o treinamento anterior deverão familiarizar-se com a nova metodologia. A razão para tal mudança é que a abordagem anterior, de caráter estritamente devocional, gerava apreensão naqueles desprovidos de fé ou de conhecimento a nosso respeito. Pontos diversos, como a identificação das causas espirituais das doenças, causavam-lhes insegurança. Em contrapartida, ao nos concentrarmos unicamente na terapia, o processo torna-se claro, permitindo uma atuação completa e isenta de receios. O próprio paciente sente-se mais à vontade e pode receber o tratamento com plena confiança, entregando-se ao processo com total tranquilidade. Portanto, com este novo método terapêutico, a expansão de nossa Obra é inevitável. Prova disso é que, recentemente, nossos terapeutas têm estado tão atarefados que mal encontram tempo para suas refeições. Ademais, a nova técnica é de rápida assimilação, pois seus fundamentos podem ser compreendidos, em linhas gerais, em uma única noite de preleção.
 
 Anteriormente, eu concedia um ideograma caligrafado. Embora, em essência, seu uso seja preferível, há circunstâncias em que é mais prudente não o fazer. Portanto, o ideal é utilizá-lo, desde que a situação o permita. Quando há outras pessoas presentes, por exemplo, corre-se o risco de a prática ser vista como algo supersticioso. Além disso, as formalidades de reverência, como o ato de orar que se praticava antes, não são mais necessárias. Nem o terapeuta nem o paciente devem realizá-las.
-
----
-
-# A Purificação do Japão e o Cenário Político Mundial
-
-**Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年2月17日） | **Status:** Published
-
-## A Purificação do Japão e o Cenário Político Mundial
-
-O tema que mais agita a nação neste momento é, sem dúvida, o da corrupção. A edição matutina dos jornais noticia que o deputado Jiro Arida teve sua residência vasculhada e que foi solicitada a suspensão de sua imunidade parlamentar para fins de prisão. Com isso, as chamas do escândalo alastram-se agora para o epicentro do mundo político. Tudo indica que estamos diante de um problema de vastas proporções. De todo modo, tal exposição avassaladora dos pecados ocultos nas trevas pode ser atribuída à purificação e ao clareamento do Mundo Espiritual.
-
-Conforme explanei, a raiz de toda a questão reside em conhecer ou não a existência de Deus. Soube, anteontem, que o adiamento contínuo da convocação de Hayato Ikeda para depor decorre de um cálculo político delicado. Sua intimação levaria, inevitavelmente, à de Mamoru Shigemitsu, o que causaria a desintegração tanto do Partido Liberal quanto do Partido Progressista. Diante desse impasse, buscam-se freneticamente diversas contramedidas. Se a investigação prosseguir sem restrições, ela poderá se alastrar indefinidamente, culminando na aniquilação de toda a direita japonesa.
-
-Nesse vácuo de poder, o Partido Socialista ascenderia, assumindo a liderança da nação. Tal cenário, contudo, representaria um obstáculo monumental ao rearmamento que o país acaba de iniciar. Portanto, torna-se imperativo conter a crise em um determinado ponto. Para tanto, seria preciso refrear o Poder Judiciário, especificamente o ímpeto dos promotores. Ocorre que, entre eles, há um número considerável de simpatizantes socialistas — ou, mais precisamente, comunistas. Ademais, para os jovens promotores e juízes, esta é uma oportunidade de ouro para demonstrar seu valor e firmar suas carreiras, o que os incentiva a conduzir a investigação de forma implacável.
-
-O governo, por sua vez, encontra-se em uma situação extremamente delicada, pressionado pelos interesses americanos a aplacar o escândalo. Creio que, ao final, buscarão uma solução ambígua para ofuscar o caso. A opinião pública, inflamada pela imprensa, não permitirá que o assunto seja simplesmente esquecido, mas o processo se arrastará de forma conturbada. A convocação de Arida, hoje, representa a centelha que incendiou o cenário político, e resta-nos observar, com grande interesse, a extensão que esse fogo atingirá.
-
-Paralelamente, os Estados Unidos necessitam da força militar japonesa, e, por sua vez, a liderança do Japão tem razões substanciais para promover o fortalecimento de suas forças armadas. A razão reside na estratégia soviética. A Guerra da Coreia, do ponto de vista de Moscou, resultou em um grande fracasso. O objetivo primordial de Stálin era estender uma cortina de ferro sobre toda a Ásia, e para isso, elegeu o caminho do Oriente. Para executar seu plano, instrumentalizou a China comunista, instigando a Coreia do Norte a atacar o Sul. A fragilidade inesperada das tropas sul-coreanas permitiu um avanço rápido até Busan, e por pouco a península inteira não foi subjugada, com o Japão sendo o alvo seguinte.
-
-Contudo, quando a vitória parecia certa, os Estados Unidos, liderando as Nações Unidas, lançaram uma contraofensiva eficaz que encurralou os soviéticos. Naquele momento crítico, o general MacArthur esteve prestes a aniquilar por completo as forças norte-coreanas, mas foi detido pela hesitação do presidente Truman. No entanto, por trás de todos esses acontecimentos, opera a Vontade Divina, de modo que tudo se deu como deveria.
-
-Apesar disso, a situação permaneceu indefinida, como uma serpente ferida, mas não morta, exigindo uma resolução definitiva. A solução passaria por derrotar a China comunista, restaurar a Coreia unificada e apoiar o retorno de Chiang Kai-shek ao poder. Ciente disso, o governo de Eisenhower iniciou, de forma metódica, os preparativos para uma ofensiva em larga escala. A China, exaurida pelo conflito, sabia que não resistiria a um novo ataque de grande magnitude. Foi nesse contexto que surgiu a chamada “ofensiva de paz”, uma manobra para ganhar tempo. O embaixador soviético Malik propôs um cessar-fogo, não por um desejo genuíno de paz, mas como um estratagema para paralisar os planos americanos. Adotaram, então, uma postura conciliadora, mas as negociações de armistício arrastaram-se em um estado ambíguo, sem uma conclusão real. Atualmente, vemos Molotov muito ativo na Conferência das Quatro Potências, propondo a inclusão da China para formar uma conferência de cinco. Ele sabe que a proposta é inviável; seu único objetivo é procrastinar. Enquanto isso, Inglaterra e França oscilam entre o otimismo e o pessimismo, acreditando na possibilidade de uma paz genuína. A França, em particular, com sua estrutura política fragilizada, demonstra uma atitude pusilânime, disposta a aceitar qualquer acordo que não fira demasiadamente seu orgulho nacional.
-
-Enquanto isso, a China aproveitou a trégua para curar as feridas da guerra. Recentemente recuperada, deu início à segunda fase de sua estratégia: a Indochina Francesa. O apoio militar ao exército de Ho Chi Minh foi massivo, incluindo armamentos sofisticados, como tanques, que não haviam sido empregados anteriormente. Com esse novo poderio, o avanço das tropas tem sido avassalador, conquistando posições estratégicas. A França, debilitada por quase oito anos de conflito, já não possui forças para contê-los, o que forçou uma intervenção mais direta dos Estados Unidos. Contudo, a opinião pública americana teme o surgimento de uma “segunda Guerra da Coreia”, gerando grande controvérsia. Apesar disso, a conjuntura indica que um novo conflito de grandes proporções talvez seja inevitável. A notícia, divulgada há poucos dias, do envio emergencial de vinte bombardeiros B-29 para a região, evidencia a gravidade da situação.
-
-Se as forças de Ho Chi Minh conquistarem a Indochina, o próximo alvo será a Tailândia, que, ciente do perigo, já reforça suas fronteiras. A meta final soviética, contudo, é avançar da Tailândia até a Índia. Nehru, prevendo esse desfecho, tem adotado uma política de lisonjas para com a União Soviética. A Índia provavelmente não será subjugada pela força, mas por um tratado de paz que a colocará sob a esfera de influência chinesa. Dessa forma, a China consolidaria seu domínio desde seu território até a Índia. O plano mestre soviético é, então, estender-se pelo Irã, Iraque e Arábia, completando a cortina de ferro sobre a Ásia, com exceção do Japão e da Coreia. O Japão, por ser o adversário mais resistente, seria deixado para o final. Quando chegar a hora, é provável que ataquem o Japão diretamente, visando subjugá-lo por completo e consolidar seu domínio sobre o continente. Esta é uma certeza. Tanto o governo americano quanto o japonês estão cientes dessa ameaça, o que torna imperativo o fortalecimento de nossas defesas.
-
-Retornamos, assim, ao problema da corrupção. Se as investigações se aprofundarem a ponto de dizimar os partidos conservadores, o Liberal e o Progressista, o poder cairá nas mãos do Partido Socialista. Isso, como já mencionei, comprometeria gravemente o rearmamento nacional. Portanto, sob uma perspectiva mais ampla — uma visão Mahayana, por assim dizer —, é inevitável que se imponha um limite a esse processo. A União Soviética, por seu lado, emprega todos os meios para manter o Japão enfraquecido. O principal instrumento dessa política é a facção de esquerda do Partido Socialista, liderada por Mosaburo Suzuki. Sua oposição ferrenha ao rearmamento e seus ataques constantes aos Estados Unidos servem a esse propósito. Simultaneamente, incitam greves contínuas com o objetivo de minar a capacidade industrial do país. Essa é a verdadeira lógica por trás de sua tática grevista. Os trabalhadores, no entanto, não compartilham dessa visão; sua luta se restringe à busca por melhores salários, como se pode observar nas paralisações atuais.
-
-Em uma análise global, o plano soviético consiste em subjugar o Japão, consolidar a cortina de ferro sobre a Ásia e, a partir daí, conquistar a Europa com facilidade. O passo final seria isolar os Estados Unidos, concretizando seu objetivo de dominação mundial. Os Estados Unidos, cientes do perigo catastrófico, veem-se obrigados a apoiar o Japão, que se tornou o ponto nevrálgico, a chave de todo esse xadrez geopolítico. Embora a crise não seja imediata, a queda da Ásia Central desencadearia, inevitavelmente, essa sequência de eventos. A questão fundamental, portanto, é: fortalecer ou enfraquecer o Japão? A direita luta por seu fortalecimento; a esquerda, por seu enfraquecimento.
-
-Conforme já expliquei, a meta da esquerda socialista é transformar o Japão em uma segunda China comunista. Segundo sua lógica, se o país se alinhasse à União Soviética, o risco de uma invasão desapareceria, tornando o rearmamento desnecessário. Há uma certa coerência nesse raciocínio. Contudo, ao se questionar o povo japonês sobre sua preferência entre um regime comunista e o capitalismo de modelo americano, a esmagadora maioria optaria pelo segundo. Nós partilhamos dessa opinião; a aversão ao comunismo é predominante. O problema é que a maioria das pessoas não possui essa clareza. Seu pensamento é limitado e egoísta, uma visão Hinayana: exército leva à guerra, e na guerra, maridos e filhos são convocados; os jovens, por sua vez, não querem arriscar suas vidas. Se compreendessem, porém, que o resultado final seria a vida sob um regime totalitário comunista, creio que ninguém apoiaria tal caminho. Os jornais deveriam elucidar essa realidade, mas, infelizmente, parece haver entre os próprios jornalistas um número expressivo de pessoas que simpatizam com a ideia de viver sob o jugo comunista, o que torna o debate público bastante nebuloso.
-
-Nossa aversão ao comunismo fundamenta-se em sua natureza intrinsecamente ateísta e antirreligiosa. Sendo nós uma fé teísta, o conflito é irreconciliável. O que expus até aqui pode soar como uma análise de senso comum, similar a um comentário de rádio. Contudo, no Plano Divino, existe um mistério dentro do mistério, uma profundidade que transcende nossa compreensão. Por isso, no final, tudo está correto. O próprio comunismo, a seu modo, cumpre uma importante missão dentro desse grande plano. Independentemente dessa perspectiva espiritual mais elevada, ter conhecimento dos fatos que apresentei é útil para compreender com mais clareza o rumo dos acontecimentos mundiais.
-
-Mudando de assunto, recebi ontem a notícia de que a edição especial sobre agricultura foi acolhida com um entusiasmo inesperado. Chegaram a me dizer que uma tiragem de um milhão de exemplares talvez não seja suficiente, o que é excelente. Foi como oferecer alimento a quem tem fome; as pessoas prontamente o abraçaram. O momento não poderia ter sido mais oportuno. Quanto mais essa publicação se difundir, maior será a salvação para o Japão, e por isso devemos nos alegrar imensamente.
-
-Ademais, fui informado há poucos dias de um fato curioso. O jornal *Shizuoka Minpo* publicará, a partir de primeiro de março, uma série de reportagens sobre a Sekaikyuseikyou — na verdade, sobre minha pessoa — com duração de três meses. Não foi um pedido nosso, e desconheço as intenções por trás da iniciativa; a proposta surgiu de forma repentina. O anúncio, publicado anteontem, já revela um tom bastante interessante.
-
-Tive a oportunidade de ler as primeiras vinte páginas do manuscrito e o achei muito bem escrito, de uma maneira que desperta grande curiosidade. Um trecho que me divertiu particularmente descreve minha saída deste local após uma entrevista e a ministração de Johrei. O autor escreveu: “Sua aparência era a de um avô do interior, apressando o passo para não perder o trem”. Uma observação deveras espirituosa. Curiosamente, nunca me encontrei com o jornalista, e ele tampouco parece ter conversado em profundidade com membros de nossa Igreja. Isso me leva a conjecturar sobre quais fontes ele utilizará para sustentar uma série tão longa. As motivações por trás do projeto também me são um mistério, mas certamente se revelarão com o tempo. O que posso afirmar é a ausência de más intenções; os aspectos positivos superam em muito os negativos. Seria maravilhoso se um jornal de maior circulação em Tóquio, ou ao menos um de médio porte, fizesse algo semelhante. De toda forma, uma publicação em um jornal regional pode servir de estímulo para que outros jornalistas, de periódicos ou revistas influentes, considerem fazer o mesmo. O fato de não se tratar de um artigo isolado, mas de uma série contínua por três meses, confere à narrativa um caráter quase novelesco, o que a torna ainda mais cativante. É, sem dúvida, um acontecimento de grande interesse, que, creio eu, trará muita alegria aos nossos membros. A fotografia que acompanha o artigo, dizem, ficou muito boa. É difícil para mim julgar, mas parece que saí mais jovem.
-
----
-
-# Reflexões sobre o Cenário Político Mundial
-
-**Categoria:** kouwa | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年3月5日） | **Status:** Published
-
-## Reflexões sobre o Cenário Político Mundial
-
-Recebemos notícias do exterior sobre o estado crítico de Stalin. Trata-se, certamente, de uma hemorragia cerebral bastante grave, a ponto de comprometer-lhe a fala, e não seria surpreendente se ele já tivesse até mesmo falecido. A dificuldade em articular as palavras é, de fato, o sintoma mais severo de uma hemorragia cerebral, seguida pela perda de consciência. Um tremor nas mãos indica um quadro gravíssimo, embora seja raro. Como foi noticiado que o lado direito de seu corpo está paralisado, trata-se de um caso clássico. Eu já havia afirmado há algum tempo que a morte de Stalin não tardaria, mas confesso que ocorreu antes do que eu previa. Imaginava que ele viveria por mais um ou dois anos; contudo, percebe-se que os desígnios de Deus se apressam.
-
-O plano divino prevê que os Estados Unidos derrotem a China Comunista e, para tal, a ausência de Stalin no cenário mundial representa uma vantagem estratégica inegável. Stalin foi, sem dúvida, uma figura excepcional. Possuía grande envergadura e uma notável segurança em suas ações, demonstrando uma profundidade de pensamento extraordinária. Em comparação, Hitler era um homem absolutamente precipitado. Embora possuísse grande audácia e qualidades admiráveis, seu raciocínio era superficial. Stalin, por outro lado, era muito mais profundo em suas reflexões. Por essa razão, jamais tomava a iniciativa de iniciar uma guerra, algo que sempre reconheci. Ele nunca se expunha de forma agressiva. Em termos negativos, poderíamos dizer que possuía uma enorme astúcia; era, de fato, extremamente ardiloso. No caso da Guerra da Coreia, por exemplo, ele manipulou habilmente a China Comunista para que lutasse em seu lugar, sem perder um único soldado. Nesse aspecto, nem mesmo os Estados Unidos foram páreos para ele. Os americanos, ao contrário, sofreram perdas imensas ao enviar suas próprias tropas para a linha de frente. Ademais, a proximidade geográfica favorecia a União Soviética, enquanto os Estados Unidos, por sua distância, enfrentavam o ônus de transportar soldados e armamentos, o que os colocava em uma desvantagem colossal. Foi por essa razão que Eisenhower adotou uma postura mais assertiva, compreendendo que a demora em resolver a questão resultaria em um prejuízo imenso. Todavia, mesmo nesse cenário, a profundidade estratégica de Stalin era muito superior.
-
-O grande equívoco da política americana foi ter temido em demasia o militarismo japonês. Faltou-lhes visão para antever o futuro. Embora a responsabilidade também recaia sobre MacArthur, o pavor que nutriam em relação aos militares japoneses era completamente desnecessário. Após uma derrota tão avassaladora, era evidente que o Japão não representava mais ameaça alguma. Portanto, não havia motivo para um temor tão extremo. Se tivessem adotado uma política mais branda, preservando oficiais de alta patente, estes poderiam ter sido de grande utilidade na questão coreana. Somente agora, de forma discreta, estão buscando reintegrar militares com o posto de coronel. No dia em que o conflito se intensificar, será fundamental, como medida de pressão contra o adversário, posicionar os melhores militares japoneses em postos de comando.
-
-A razão pela qual não agiram assim anteriormente foi a sua incapacidade de prever as intenções da União Soviética. Sabiam das ambições soviéticas, mas jamais imaginaram que Moscou fortaleceria a China Comunista a tal ponto e a instigaria a intervir na Coreia. Aí residiu sua falha. Se tivessem previsto esse desdobramento, jamais teriam subjugado o Japão de forma tão severa. Essa foi a limitação da visão de Truman, que enxergava apenas as questões de forma localizada e restrita. Como resultado, o problema da Coreia chegou a um impasse, e a necessidade de uma solução levou à eleição de Eisenhower, pois o povo americano finalmente percebeu essa realidade.
-
-Com a morte de Stalin, é provável que Molotov assuma a liderança temporariamente. Ele é um homem forte, mas não possui, de forma alguma, a magnitude de Stalin. Malenkov, outro nome frequentemente mencionado, é visto como um homem talentoso e perspicaz, mas, aos cinquenta e dois anos, ainda é jovem e incomparável a Stalin. Acredito, portanto, que por um tempo governarão por meio de um sistema colegiado. Não poderão alterar a política externa vigente, de modo que continuarão a apoiar a China Comunista, mantendo o status quo. Enquanto isso, os Estados Unidos prosseguirão com seus preparativos. Notícias de jornais recentes informam que, há duas semanas, o Exército Nacionalista em Taiwan vem realizando exercícios de desembarque, o que indica um plano para invadir o continente chinês. Além disso, o Japão fechou um contrato para fornecer milhões de projéteis de artilharia, avaliados em duzentos e vinte milhões de ienes. Fica claro que os americanos estão se preparando metodicamente.
-
-Conforme escrevi em "Sonho de um Mundo Novo", os preparativos levariam de seis meses a um ano. Na melhor das hipóteses, seis meses, mas o mais provável é que o estopim da guerra seja aceso dentro de um ano. A morte de Stalin é, nesse sentido, extremamente favorável aos Estados Unidos. A Providência Divina segue a ordem que descrevi: o primeiro objetivo é aniquilar a China Comunista e restaurar Chiang Kai-shek ao poder. A morte de Stalin acelera e facilita imensamente a concretização desse desígnio. Trata-se, inequivocamente, do Plano de Deus.
-
-Na política japonesa, o incidente em que o primeiro-ministro Yoshida proferiu a ofensa "idiota" revela um certo desequilíbrio de sua parte. Sua atitude não é digna de um estadista. O mais correto seria assumir a responsabilidade pelo erro e renunciar de forma honrada. Agindo assim, sua imagem sairia fortalecida. No entanto, sua insistência em se aferrar ao poder, buscando contornar a situação, apenas resultará em uma desonra ainda maior. Sua conduta não foi apenas equivocada, foi execrável. Um homem na posição de primeiro-ministro usar tal linguagem só pode ser sinal de que algo não vai bem com sua mente. Yoshida é um homem notável, mas seu grande defeito é a teimosia em impor sua vontade a qualquer custo. Ele desconhece a tática de "perder para vencer" ou, se a conhece, é incapaz de aplicá-la. Com isso, ele mesmo semeia os problemas que enfrenta. Em suma, ele é excessivamente direto; falta-lhe a sagacidade necessária para a política. Esse é seu ponto fraco. Tanto no caso anterior envolvendo Fukunaga quanto no recente problema com Hirokawa, bastaria uma pequena manobra para apaziguar os ânimos. Contudo, ele insiste em ser intransigente em momentos inoportunos, o que lhe causa um prejuízo enorme. Assim, a questão atual se transformou em um pântano do qual ele não consegue sair, e o desfecho será, inevitavelmente, sua renúncia ou a dissolução do parlamento. Ele ameaça com a dissolução, mas, se o fizer, o Partido Liberal será o maior prejudicado, pois uma nova eleição geral representaria um custo financeiro altíssimo.
-
-O que mais lamento em Yoshida é sua incapacidade de discernir o tempo certo para cada ação. O ápice de sua carreira foi durante as negociações do tratado de paz, quando viajou para os Estados Unidos. Desde então, sua estrela começou a declinar; a flor desabrochou e agora murcha, com as folhas já caindo. Ele precisa compreender seu destino. Tentar fazer a flor florescer novamente é um erro. Como a recente votação demonstrou, o Partido Liberal já não possui a maioria necessária. Seu declínio é diário. A atitude mais sábia seria entregar o poder com dignidade, concluindo sua trajetória de forma honrosa. Sua teimosia em se manter no cargo demonstra uma profunda falta de percepção do momento. Bem, esta conversa acabou se tornando uma análise de conjuntura, então encerrarei por aqui.
-
-Em outro assunto, o livro "Salvar a América" está vendendo muito bem, como eu esperava. As vendas continuam altas, e ele certamente se tornará um best-seller. O próximo que pretendo publicar é "A Terapia da Fé para a Tuberculose". Acredito que também terá grande sucesso. Inúmeras pessoas, após esgotarem os recursos da medicina sem obter a cura para a tuberculose, buscam desesperadamente por uma alternativa. Dentre elas, muitas certamente sentem o desejo de se voltar para a fé em Deus e nos Budas. Contudo, sem uma orientação, não sabem a que ou a quem recorrer. É nesse ponto que um livro intitulado "Terapia da Fé" se encaixa perfeitamente, pois permitirá que leiam e tomem uma decisão. O sucesso ocorre quando o momento e o método se alinham com perfeição. O livro "Salvar a América" também foi lançado no momento ideal. Pouco depois do tratado de paz, os japoneses ainda carregavam um forte complexo de inferioridade, além de uma recente veneração pela medicina e pelos medicamentos americanos. O título também foi muito elogiado; todos dizem que desperta a curiosidade. Vivemos um momento em que predomina a ideia de que a cultura japonesa é inferior, atrasada e derrotada em comparação com a americana. E, nesse contexto, nós propomos salvá-la, afirmando nossa superioridade. Isso causa um grande impacto. Se eu fosse um homem de negócios, diriam que sou muito hábil em conquistar popularidade e ganhar dinheiro.
-
-Após "A Terapia da Fé para a Tuberculose", lançarei a "Coletânea de Milagres da Sekaikyuseikyou". Embora os senhores já leiam os milagres que publicamos constantemente na revista Eiko, desejo compartilhar essas maravilhas com o mundo. Seria um desperdício mantê-las em segredo. Selecionarei cem casos e os utilizarei como prova para fundamentar a teoria e a prática dos milagres. Ainda levará algum tempo, mas pretendo publicá-lo. O subtítulo será "Uma Bomba Atômica para a Ciência". Recentemente, escrevi o prefácio, e agora peço que leiam os trechos que já estão prontos, que, embora não sejam longos, são de grande importância.
-
-(Leitura do artigo "Um: O que é um milagre?" e "Dois: O Espírito é o principal, o corpo é o secundário")
-
-Agora, algo que sempre menciono, mas que peço que leiam por ser particularmente interessante.
-
-(Leitura do artigo "Religião Celestial e Religião Infernal")
-
----
-
-# O Despertar da Kannon Messiânica e a Religião da Arte
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御講話 （S27年5月1日） | **Status:** Published
-
-## O Despertar da Kannon Messiânica e a Religião da Arte
-
-Em minha recente visita a Nara, foi-me revelado que o Príncipe Shotoku é uma manifestação de Kannon (観音). Por conseguinte, compreendi que, em essência, o Príncipe era eu. Essa percepção profunda ocorreu no exato momento em que as portas do Yumedono, o Pavilhão dos Sonhos, se abriram — um evento que, segundo consta, ocorre apenas uma vez por ano. Foi nessa ocasião que o espírito de Kannon adentrou em mim, e compreendi que Ele aguardava o tempo certo para agir.
-
-Nara é o berço do budismo no Japão; foi a partir dali que essa filosofia se propagou. Ao pesquisar a história dos templos da região, constatei que, em seus primórdios, ainda não existiam as diversas seitas que conhecemos hoje. A filosofia budista denomina esse período inicial de religião primitiva. A ela, seguiu-se o chamado budismo de montanha, praticado por mestres como Kobo Daishi no Monte Koya e Dengyo Daishi no Monte Hiei. Somente depois surgiram as escolas sectárias. Durante o Período Nara, a religião era majoritariamente centrada em Kannon. Embora existam representações de Amida e de Xaca, e mesmo Yakushi Nyorai seja uma forma de Kannon, a figura central era quase sempre Ela. O Príncipe Shotoku, por sua vez, pode ser considerado uma forma condensada da Kannon de Mil Braços, e a obra que realizo atualmente é a própria atuação dessa divindade, manifestando-se em infinitas facetas.
-
-A Kannon Messiânica permaneceu no Yumedono por todo esse tempo. Segundo apurei, o pavilhão era o local onde o Príncipe Shotoku se dedicava à escrita e onde transcorria sua vida, quase como uma residência. O nome Yumedono — o Pavilhão dos Sonhos — é profundamente sugestivo. Normalmente, não se atribui um nome como “sonho” a um edifício de tal importância; escolher-se-ia algo com um significado mais formal. Isso me leva a crer que o sonho do Príncipe Shotoku, acalentado naquela época, está finalmente prestes a se concretizar. Ademais, a estátua é chamada de Kyusei Kannon (救世観音). Embora a leitura tradicional seja “Guze Kannon”, fui eu quem a leu como “Messias”. Portanto, essa visita teve um significado extraordinário. O fato de minha chegada ter coincidido com a abertura das portas revela que tudo estava divinamente determinado. O plano original era visitar o templo no dia seguinte, mas, como terminamos nossas atividades mais cedo, decidimos conhecer Horyu-ji imediatamente. Se tivéssemos adiado para o dia seguinte, não teríamos podido contemplar a Kannon Messiânica. Tudo ocorre conforme o planejado.
-
-Do ponto de vista do kotodama, a palavra “Nara” é igualmente significativa. “Na” representa a terra, e “ra”, a expansão. Assim, Nara significa “a terra que se expande”. Sendo Buda o Miroku da Terra, e correspondendo a terra ao número sete, ele é, portanto, o Miroku do sete. Nesse sentido, a construção do Paraíso Terrestre em Quioto completa uma sequência sagrada: Hakone corresponde ao cinco; Atami, ao seis; e Quioto, ao sete, concretizando o significado de Miroku.
-
-O número sete, de fato, simboliza a conclusão. Tanto nas Escrituras Sagradas quanto na tradição egípcia, o sete é a base de tudo. Na Bíblia, o mundo foi criado em seis dias, e no sétimo dia houve o descanso, indicando a finalização da obra. “Na”, como já mencionei, é o kotodama da terra. Na Criação, primeiro surgiram o Sol e a Lua, e depois a Terra se formou.
-
-Quanto ao tratado de paz, tema que abordei recentemente em Quioto e Nagoia, sua assinatura marca o dia em que a trama e a urdidura espirituais do mundo se unem. Os Estados Unidos são a trama, e o Japão, a urdidura. Esse acordo auspicioso marca o início da atuação global de Izunome. O vermelho no centro de nosso emblema simboliza o Japão, enquanto o amarelo ao redor representa a América. Sendo a América a nação do dólar, a cor do ouro foi escolhida para representá-la, pois detém três quartos de todo o ouro do mundo. Essa percepção tem se difundido globalmente, com intelectuais americanos afirmando que a aliança entre os Estados Unidos e o Japão será o alicerce do mundo. Gradualmente, essa verdade virá à tona. E o centro dessa união é a Igreja Messiânica, que se fortalecerá com o tempo. O futuro será verdadeiramente fascinante. Após o dia quinze de junho deste ano, tudo mudará drasticamente. A cerimônia de inauguração do Museu de Arte ocorrerá nessa data, e, na mesma época, nosso projeto de mineração começará a render frutos. Realizaremos uma cerimônia de inauguração para os membros, que se estenderá por cerca de três dias, juntamente com a celebração pela conclusão do Shinsenkyo. Como o local comportará de duas a três mil pessoas, creio que em três dias todos poderão participar. A abertura ao público geral ocorrerá a partir de julho, e, a partir de então, nossa Obra se tornará conhecida no exterior. Tudo isso também constitui um protótipo.
-
-No passado, quando eu possuía uma loja de armarinhos, inventei um adorno feminino chamado “Asahi Dia”, que brilhava como um diamante. Foi um grande sucesso, e cheguei a obter a patente em dez países. Naquela época, eu tinha uma paixão por invenções e registrei várias patentes. A marca que criei exibia uma lua, uma estrela parcial e raios de luz. Lembro-me de ter pensado que era um design um tanto grandioso, mas, ao mesmo tempo, sentia que realizaria algo de alcance mundial, que meu nome se tornaria conhecido internacionalmente. A patente em dez nações não foi por acaso, pois o número dez simboliza a união e a conclusão. Aquele foi, sem dúvida, um dos primeiros marcos de minha missão.
-
-A matéria-prima do “Asahi Dia” era o espelho. Eu o cortava em finas lascas e as processava para que adquirissem uma leve convexidade, o que intensificava seu brilho. Embora já existissem adornos semelhantes feitos de conchas no Período Kamakura, pensei que o espelho produziria um efeito ainda mais luminoso, e estava certo. Foi um empreendimento arriscado, mas que me rendeu, na época, cerca de cem mil ienes. Eu tinha pouco mais de trinta anos. Mesmo no ramo de armarinhos, tornei-me o mais bem-sucedido, e meu método ficou conhecido como “estilo Okada”. Em tudo o que eu fazia, superava os demais. Quando ingressei na Oomoto, também me destaquei rapidamente em diversas áreas, o que gerou um sentimento de ameaça na liderança daquela organização, levando-os a me pressionar intensamente. Naquela época, eu já possuía um conhecimento sobre antiguidades e obras de arte superior ao de muitos comerciantes, mas ainda me faltava uma compreensão mais profunda do universo budista. Com minha recente visita a Nara, essa lacuna foi finalmente preenchida.
-
-O Templo Horyu-ji é, de fato, o epicentro da arte budista no Japão, sua fonte primordial. O Príncipe Shotoku foi quem verdadeiramente semeou o budismo em nosso país. Creio que o nome Yumedono tenha surgido naturalmente, talvez por ser o local onde ele recebia inspirações divinas, respondendo a seus próprios questionamentos. Essencialmente, ele entrava em um estado de possessão divina.
-
-Minha conexão, contudo, é ainda mais direta. A possessão divina implica certa intermediação. No meu caso, não há necessidade de consultar a Deus ou de receber avisos; a Vontade Divina se torna, sem intermediários, a minha própria vontade. Trata-se da união entre Deus e o homem (shinjin goitsu). Embora existam médiuns ocidentais de alto nível que captam impressões sutis, sem fenômenos ostensivos, seu alcance sempre foi limitado, pois lhes faltava poder. Isso ocorre porque se conectavam a divindades secundárias, dos ramos e das folhas, e não à Origem.
-
-Assim, a fé centrada em mim não deve ser interpretada como uma simples veneração a Kannon, pois, enquanto se manifestar com esse nome, Ela ainda é uma personificação, e Seu verdadeiro poder não se revela por completo. É Deus quem conduz o Plano Divino. A Kannon Messiânica é a própria manifestação do Príncipe Shotoku, que, com a chegada do tempo, inicia Sua plena atividade. Tendo sido ele quem introduziu o budismo, sua missão agora é fazer com que essa filosofia retorne à sua origem divina e sirva aos propósitos da Igreja Messiânica. Messias é um título humano; a Divindade é o Deus Supremo, Jeová.
-
-É verdade que mesmo os espíritos malignos podem emitir uma luz considerável. Contudo, essa luz é efêmera e ilusória, não é a verdadeira Luz. Se nossa luz é como a do diamante, a deles é como a do vidro, uma imitação. Uma imitação pode, à primeira vista, assemelhar-se ao brilho do diamante, mas não passa de um reflexo produzido por mercúrio. Essa é a diferença fundamental. Os objetos de culto de outras procedências devem ser descartados, pois podem atrair desgraças.
-
-A obra de arte bem executada atrai o espírito; a de má qualidade, não, ou, se o atrai, ele logo se retira. É por isso que uma estátua de Daikoku bem-feita concede mais graças. As esculturas de Hidari Jingoro, por exemplo, são famosas por seus prodígios devido a essa mesma razão. A coleção de nosso museu não perde em nada para a do Museu de Nara. Somos superados apenas pelas três grandes estátuas budistas e por uma tigela que pertenceu a Xaca, que é, de fato, uma peça inestimável. Quanto aos sutras, no entanto, os nossos são superiores, pois possuímos exemplares de diversas eras, incluindo o Período Tenpyo e até mesmo um escrito pela Imperatriz Komyo.
-
-A coleção de arte da Igreja Messiânica surpreenderá a todos. Quando mostrei alguns de nossos rolos de pintura a dois dos maiores antiquários de Tóquio, um deles confessou que não conseguiu dormir naquela noite, de tão impressionado que ficou. E o que lhes mostrei era apenas uma pequena fração do que possuímos. Se vissem tudo, talvez desmaiassem.
-
-Os antiquários, em geral, desconfiam de mim. Pensam que, por ser um religioso que surgiu repentinamente, não entendo de arte e que me venderam falsificações. Isso me diverte. Mas aqueles que têm a oportunidade de ver a coleção ficam estarrecidos. O Museu Hakutsuru, por exemplo, é famoso por suas cerâmicas e bronzes, mas são todos chineses; não possuem arte japonesa. Nós, ao contrário, temos obras-primas da pintura chinesa e japonesa, abrangendo diversas escolas, como as de Korin, Sotatsu, Kenzan e Hoitsu, além de pinturas a tinta do Período Higashiyama e gravuras ukiyo-e. Nosso acervo nos permitirá realizar uma exposição da Escola Rinpa superior à que o museu nacional promoveu no ano passado. Seremos, sem dúvida, o número um do Japão e, quiçá, do mundo.
-
-Reunir uma coleção de arte é uma tarefa árdua. Os comerciantes de antiguidades são astutos; eu os chamo de estelionatários que habilmente contornam a lei. Estão sempre à espreita, prontos para enganar os incautos. Discernir o autêntico do falso é um desafio. Existem falsificações tão perfeitas que, à primeira vista, até eu posso ser enganado. Nesses casos, peço a peça emprestada por alguns dias e a exponho. Com o tempo, se for falsa, começo a sentir um certo desagrado emanando dela. A obra verdadeira, ao contrário, torna-se cada vez mais bela e cativante. Essa é a verdade.
-
-Em última análise, o propósito da religião é elevar a alma humana. No passado, as pessoas buscavam polir o espírito através de austeridades e penitências em montanhas remotas. Buda guiou a humanidade por meio dos sutras. Eu o farei por meio da Beleza. A Igreja Messiânica é uma religião de arte, pois estamos construindo o Paraíso Terrestre, e o Paraíso é o mundo da arte. A missão é salvar as almas, e a beleza é o caminho que eleva o espírito através dos olhos, assim como os ensinamentos o fazem através dos ouvidos e da mente. A Igreja Messiânica, qual Kannon de Mil Braços, oferece a salvação por meio de todas as vias.
-
-Afinal, quanto mais esperança o ser humano tiver, melhor. Nesse sentido, o Yumedono é um símbolo perfeito. O Príncipe Shotoku permaneceu em seu “sonho” por mil e duzentos anos. Seu profundo amor e incentivo às artes o distinguem, e nisso ele se assemelha muito a mim.
-
----
-
-# O Significado Oculto da Doença e a Missão da Igreja
-
-**Categoria:** kouwa | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年3月5日） | **Status:** Published
-
-## O Significado Oculto da Doença e a Missão da Igreja
-
-Recentemente, fui solicitado a redigir o prefácio de uma nova publicação que seleciona e organiza diversos de meus escritos, uma coletânea que poderia ser considerada a Bíblia da Sekaikyuseikyou. O texto que elaborei resume os pontos essenciais de nossa fé. Embora seu conteúdo já seja de vosso conhecimento, creio que a forma como as ideias foram articuladas poderá servir-vos de referência.
-
-Dediquei-me também a dissecar a natureza dos medicamentos e concluí que eles carecem de qualquer fundamento científico. Em uma palavra, são pura superstição. Um observador externo poderia pensar: “Que disparate!”, contudo, procurei redigir o texto de forma a tornar tal objeção insustentável.
-
-Conforme acabo de ler, os medicamentos carecem, de fato, de qualquer cientificidade. Tudo se baseia na mera suposição de que “talvez funcione”. O processo inicia-se com experimentos em animais. Se os resultados parecem promissores, os seres humanos tornam-se a segunda cobaia. A eficácia, entretanto, é efêmera. Um efeito que dura de um mês a meio ano é considerado um sucesso, levando ao lançamento do produto e à sua publicação em revistas acadêmicas. Todavia, após um ou dois anos, manifestam-se os efeitos adversos, e o medicamento é inevitavelmente abandonado. Isso ocorre porque os fármacos interrompem o processo de purificação, resultando, invariavelmente, em reações contrárias e na perda de sua eficácia. Nenhum medicamento jamais perdurou por longo tempo. É espantoso que ainda não tenham percebido esse padrão; trata-se, de fato, de uma insensatez monumental. Assim, a prática médica resume-se a buscar um golpe de sorte, que é então alardeado como se fosse uma grandiosa descoberta científica. Os próprios profissionais, em sua essência, agem de maneira tola, mas igualmente insensato é o público que os venera e acredita em tais práticas. As notícias de curas de doenças cardíacas ou hepáticas, frequentemente divulgadas nos jornais, não passam de resultados experimentais passageiros que geram um entusiasmo prematuro. Em pouco tempo, tudo se desfaz em fumaça. É um ciclo que se repete incessantemente, e considero lastimável o destino daqueles que dele participam. Acreditam na cura de males que a medicina é incapaz de sanar, apegando-se a qualquer melhora momentânea como se fosse a solução definitiva. As verdadeiras vítimas de tudo isso são, portanto, dignas de compaixão. Contudo, essa situação não perdurará. Tal como ocorre com a Agricultura Natural, uma vez que o entendimento comece a despontar, a verdade se propagará rapidamente.
-
-É preciso compreender o seguinte: por que Deus teria criado substâncias tão nocivas ao ser humano e, por tanto tempo, ocultado de nós a sua verdadeira natureza? A resposta reside em um propósito de profunda significância. Para que a civilização material pudesse florescer, era imperativo que o ser humano fosse enfraquecido. O homem primitivo, dotado de saúde robusta e livre de doenças, teria se contentado com sua condição. O objetivo Divino, entretanto, é a construção de um mundo de Verdade, Bem e Belo, e para alcançá-lo, o enfraquecimento da humanidade era uma etapa necessária. O desenvolvimento dos meios de transporte, por exemplo, é uma consequência direta dessa fragilidade. Se tivéssemos pernas fortes o suficiente para atravessar montanhas e campos sem dificuldade, jamais teríamos concebido a ideia de inventá-los. Recordo-me de ter lido um acadêmico estrangeiro que afirmava: “A civilização progride porque o homem se torna indolente. É o fastio e a aversão ao esforço que impulsionam as invenções e descobertas”. De fato, há grande verdade nisso. Para isso, era preciso debilitar o corpo. À medida que o corpo se enfraquece, a sensibilidade se aguça, permitindo-nos perceber a beleza e tornando-nos mais receptivos às coisas. E o método para enfraquecê-lo foi administrar-lhe veneno. Contudo, como o homem jamais o tomaria se soubesse a verdade, Deus empregou um ardil: fez com que o veneno fosse percebido como remédio. Aqueles que acreditaram na benevolência dos medicamentos foram, em essência, iludidos por Deus. Talvez pareça um ato severo, mas foi inevitável. A Providência Divina não segue a lógica humana, onde dois mais dois são quatro; em Seus desígnios, dois mais dois podem ser oito, ou três vezes três podem ser nove. É algo sublime e insondável. Graças a esse plano, a cultura material prosperou. Agora, porém, chegamos a um ponto em que um maior desenvolvimento nesse sentido se tornaria prejudicial. Um exemplo disso é o avanço das invenções que culminou na criação da bomba atômica... aliás, em uma canalização espiritual, minha filha revelou que a bomba atômica foi uma criação Divina, um fato interessante que publicarei na próxima edição da revista “Paraíso Terrestre”. Portanto, os diversos acontecimentos que até hoje nos pareciam misteriosos possuem, na verdade, esse profundo significado. Após ter enfraquecido o ser humano para fomentar a cultura materialista, Deus agora revela que os remédios são venenos, a fim de que possamos restaurar a saúde. Essa é a missão primordial da Sekaikyuseikyou.
-
-Expus, assim, a razão fundamental pela qual o ser humano passou a ingerir o veneno que chamamos de remédio, uma substância criada pelo próprio Deus. A maior prova disso é a existência de Yakushi Nyorai, o Buda da Cura, que é uma manifestação de Kannon (観音). Foi Kannon (観音) quem, no passado, incentivou enormemente o uso de medicamentos. Naquela época, desprovida de ciência, utilizavam-se raízes e cascas de árvores para debilitar as pessoas. Agora, a mesma Kannon (観音) nos revela: “Aquilo era veneno”. Vemos, pois, que Kannon (観音) é um ser notável, ora iludindo, ora dizendo a verdade, em um processo de incessante transformação e de alternância entre o real e o ilusório. Kannon (観音) atua em todas as esferas e pode se manifestar de múltiplas formas, inclusive como um demônio – Bato Kannon, a Kannon (観音) com cabeça de cavalo, é um exemplo, representando a atuação no reino animal. Diante de tal complexidade, é evidente que a sabedoria humana é insuficiente para compreender esses desígnios.
-
-Em uma recente canalização espiritual, surgiu uma mensagem de consolo para aqueles que desempenharam o papel do mal, como os comunistas, reconhecendo o grande esforço e o sofrimento de sua missão. Mencionou-se que Malenkov foi um desses casos, e Deus expressou Seu reconhecimento pelo seu penoso trabalho. Aos que cumprem a senda do mal... Stálin também é um exemplo; foi revelado que ele se encontra no mais profundo inferno do Mundo Espiritual, o inferno do frio extremo, onde padecerá por seis mil anos até ser aniquilado – embora eu tenha omitido o número exato de anos na publicação. Existem, portanto, espíritos incumbidos da tarefa de executar o mal. Os métodos de Deus são, de fato, verdadeiramente profundos.
-
-Menciono também o artigo “Um Mundo Semicivilizado, Semibárbaro”, sobre o qual já escrevi em linhas gerais. Desta vez, procurei redigi-lo da forma mais clara e acessível possível.
-
-Como podeis observar constantemente, a construção do Paraíso Terrestre avança conforme o planejado. Trata-se, evidentemente, de uma obra Divina. O trecho rodoviário entre Odawara e Atami, que representa o maior desafio, começa a tomar formas concretas. A primeira fase, entre Atami e Yugawara, já foi iniciada, com a construção de uma via costeira sobre aterro, semelhante a uma “driveway”. A partir dela, surgirá um acesso direto ao Paraíso Terrestre. Em seguida, o trecho entre Yugawara e Odawara será construído. O percurso, que hoje leva uma hora, será reduzido para trinta minutos. Assim, será possível vir de Tóquio, mesmo das áreas mais centrais, em apenas duas horas e meia, o que permitirá visitas de um único dia ao Paraíso Terrestre e ao Museu de Arte.
-
-Prevejo que isso gerará um grande impacto. As pessoas farão críticas e reflexões. Surgirá a pergunta: “Como algo tão magnífico pôde ser construído em tão pouco tempo?”. Muitos, incluindo jornalistas, virão em busca de respostas. Para explicar de forma simples, diria que tudo é uma questão de poder. Sob uma perspectiva humana, trata-se, primeiramente, do poder financeiro. Em segundo lugar, do poder da audácia, da coragem. E, em terceiro, do poder do intelecto. São essas três forças. No nosso caso, porém, há um elemento adicional: o Poder Divino, que é a força motriz por trás das outras três. Vejamos o poder financeiro: os recursos não provêm de mim nem de subsídios governamentais; são fruto das doações à Sekaikyuseikyou, e é Deus quem inspira as pessoas a ofertarem. Quanto à audácia, uma coragem desprovida de convicção levaria ao fracasso. A nossa convicção, no entanto, é a manifestação do poder de Deus, que também providencia para que todas as condições se alinhem favoravelmente, sem entraves. O próprio local em Atami, com sua paisagem deslumbrante, sua topografia, suas pedras e árvores – todos os materiais foram preparados por Deus desde o início. Por fim, o poder do intelecto. Poderia parecer que tudo é fruto do pensamento humano, mas não é o caso. Objetivamente, pode ser visto como inteligência, mas, em meu ser, não há intelecto algum, pois não há a necessidade de pensar. Basta-me estar no local para que as ideias surjam instantaneamente. “Surgir” ainda é uma palavra indireta; a verdade é que, de súbito, eu compreendo. Portanto, não se trata de intelecto, mas de Poder Divino. É uma força inexplicável; em suma, um poder miraculoso. É o que Kannon (観音) chama de *myōchiryoku* – o poder da sabedoria sublime. Sim, é exatamente isso, pois, de outra forma, seria impossível realizar tanto em tão pouco tempo.
-
-Qualquer pessoa que veja a obra o compreenderá. De fato, ao contemplá-la, não haverá outra explicação possível. E o que temos hoje ainda se tornará algo que transcende a imaginação. No que tange às obras de arte, Deus está providenciando para que peças que sequer estão no mercado cheguem até nós. O planejamento Divino é verdadeiramente formidável. No Mundo Espiritual, os espíritos de grandes artistas do passado, de senhores feudais e de xoguns estão trabalhando intensamente para a criação de um museu magnífico. Por trás deles, os deuses protetores da terra e outras divindades de alta hierarquia dão instruções e oferecem seu poder. Assim, embora a construção do museu exija o uso de pessoas vivas, e eu esteja encarregado do trabalho no plano material, por trás de mim há uma miríade de deuses e espíritos em plena atividade. É por isso que, por vezes, ideias inesperadas me ocorrem, e eu penso: “Eis o resultado de sua atuação”. Para quem compreende a origem de tudo, não há mistério algum; é algo natural. Contudo, ao ver a obra concluída, as pessoas se perguntarão como foi possível realizá-la em tão pouco tempo. Especialmente os antiquários e conhecedores de arte ficarão perplexos sobre como tantas peças foram adquiridas tão rapidamente. Mas isso se deve à sua ignorância sobre o Mundo Espiritual.
-
-A partir do dia nove do próximo mês, haverá uma exposição de pinturas originais de *ukiyo-e* na loja de departamentos Mitsukoshi. O evento é promovido pelo Museu de Arte de Hakone, com o patrocínio do jornal Mainichi Shimbun e da Comissão para a Proteção do Patrimônio Cultural. Até hoje, as exposições de *ukiyo-e* eram quase que exclusivamente de gravuras; esta é a primeira vez que se realiza uma mostra de pinturas originais. Creio que causará grande comoção. As pessoas certamente se perguntarão, maravilhadas, como tantas obras puderam ser reunidas em tão curto espaço de tempo. Devo dizer que é muito mais difícil reunir pinturas do que gravuras. Enquanto as gravuras foram amplamente difundidas entre as classes populares, as pinturas pertenciam apenas a senhores feudais e a famílias abastadas. O fato de tantas delas terem sido congregadas em um período tão breve é, verdadeiramente, um milagre.
 
 ---
 

@@ -1,9 +1,1011 @@
 # Mioshie_Teachings - Part 79
 
+# Coletânea de Teses do Mestre Okada Jikan – Palestras de Kannon (1 a 7)
+
+**Categoria:** sasshi | **Ano:** 昭和10(1935)年 | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1935
+
+## Coletânea de Teses do Mestre Okada Jikan – Palestras de Kannon (1 a 7)
+## Palestras compiladas por um discípulo. Publicado em Showa 10 (1935).
+
+## Primeira Palestra: O Objetivo do Deus Supremo e a Verdade sobre o Plano Divino
+
+O que passarei a expor constitui o grande segredo do mundo, o qual finalmente será revelado. Até agora, vivíamos no Mundo da Noite. Por essa razão, toda sorte de impurezas permanecia oculta. Contudo, com o advento de Kannon (観音) neste mundo, o Sol ergueu-se espiritualmente, e aquilo que se mantinha em segredo começou a se tornar visível. Venho, portanto, cientificá-los a respeito do que se tornou manifesto, a fim de que possam dissipar as antigas ilusões e remover por completo a insegurança.
+
+Até o presente momento, nada era verdadeiramente claro. A Verdade, em sua essência, é simples e desprovida de complexidade. As diversas escrituras e revelações divinas do passado eram, em grande parte, ininteligíveis, e, ao analisá-las, percebemos quão intrincadas de fato são. Quanto mais confuso e complicado é um ensinamento, maior a probabilidade de conter um estelionato intelectual.
+
+Tomemos como exemplo *O Capital*, de Marx, uma obra de tal complexidade que mesmo os eruditos têm dificuldade em compreendê-la. Isso ocorre, em suma, porque ela não encerra a Verdade. Como o próprio autor não a compreendia, recorreu a toda sorte de artifícios para dissimular sua ignorância. Os sutras budistas, a Bíblia e as revelações divinas de outras religiões são igualmente confusos e de difícil entendimento. Essa obscuridade tornou-se um hábito no mundo de até então, a ponto de se considerar algo venerável justamente por ser incompreensível. Creio que reverenciar um sutra que não se entende, recitado por um monge, é uma espécie de anomalia psicológica. Se os seres humanos não conseguem decifrar tais escrituras, como poderiam os espíritos compreendê-las após a morte? Nossa missão, daqui por diante, é corrigir esses equívocos.
+
+A prática do zazen é outra insensatez deplorável, na qual se permanece sentado do alvorecer ao anoitecer. Seus adeptos se comprazem em proferir palavras que, para o homem comum, não passam de um discurso de sonâmbulo. Aquilo que não pode ser compreendido pelas massas não é autêntico.
+
+A Bíblia também é de difícil compreensão, em grande parte devido à tradução literal de uma língua estrangeira. O Apocalipse, por sua vez, equivale a uma narrativa onírica. O Confucionismo, com os ditos de Confúcio, é consideravelmente mais claro em certos aspectos, mas assemelha-se a um antigo código de leis; seria mais proveitoso ler a Constituição do Japão. Embora discorra sobre o caminho da lealdade, da piedade filial e das cinco virtudes e cinco relações humanas, não se trata de uma religião e, portanto, é incapaz de proporcionar a verdadeira alegria.
+
+O Xintoísmo antigo não possui uma doutrina formal. Consiste basicamente em rituais, preces e encantamentos. Recentemente, surgiu um debate, ainda inconcluso, sobre se deveria ser classificado como religião.
+
+Dentre as novas religiões, a Tenrikyo, a Konkokyo e a Oomotokyo já estabeleceram suas doutrinas. Na Tenrikyo, a base são as revelações divinas da fundadora, que, por serem enigmáticas e incompreensíveis, levaram seus seguidores a recorrer a eruditos e outras pessoas para, posteriormente, formularem uma doutrina. Ao ler essas revelações, apenas uma pequena parte é inteligível; o todo permanece obscuro. A Konkokyo, por sua vez, aborda temas extremamente simples, insuficientes para o homem contemporâneo, limitando-se a agradar idosos de mente singela e pessoas do mundo do entretenimento. Quanto à Oomotokyo, suas revelações divinas são excessivamente repetitivas e confusas, repletas de enigmas. Apenas para ler o *Reikai Monogatari* (Contos do Mundo Espiritual), da Oomoto, seria necessário um mês inteiro, e o que há de essencial nesse vasto compêndio é mínimo e igualmente ininteligível. Uma, duas ou mesmo três leituras não bastam para compreendê-lo. Por conseguinte, nenhuma dessas religiões possui o poder de salvar as massas. A falta de clareza as impede de redimir o povo. Foram concebidas no Mundo da Noite, e por isso carecem de nitidez.
+
+O momento em que os desígnios de Kannon (観音) se tornarem plenamente claros marcará o advento do Mundo de Luz. Haverá um mundo de Maitreya, mas se tudo fosse revelado de uma só vez, neste exato instante, surgiriam inimigos e obstáculos, gerando reações adversas que poderiam frustrar o avanço da Obra. Tal situação seria um entrave à Obra Divina de Kannon (観音), impedindo a concretização de Seu objetivo. Embora certas limitações possam nos causar impaciência, quando comparamos com o passado, a clareza atual é inegável. O que fiz até aqui foi apenas expor a natureza das religiões que existiram até hoje.
+
+Em breve, surgirão os ensinamentos da ciência do Kotodama, e ensinarei o “Tamagaeshi”. O Tamagaeshi consiste em condensar o kotodama para apreender seu significado.
+
+**Tamagaeshi**
+
+*   A I U E O
+*   HA HI FU HE HO
+*   KA KI KU KE KO
+*   YA I YU E YO
+*   SA SHI SU SE SO
+*   MA MI MU ME MO
+*   TA CHI TSU TE TO
+*   RA RI RU RE RO
+*   NA NI NU NE NO
+*   WA I U E O
+
+Condensando “Okada” em uma única letra: ao condensar “Oka”, a linha “A” (A-gyo) predomina, resultando em “A”. Embora seja “Kaa”, o “Ka” se integra em “A”. “Da” também pertence à linha “A”, portanto, integra-se em “A”.
+Em “Jin”, “Ji” é “Jii”, e “n” se torna “u”. Portanto, “Jin” se torna “Zu”.
+Em “Sai”, temos “Sa-i”, que se torna “Shi”.
+Assim, “Okada” é “A”, “Jin” é “Zu”, e “Sai” é “Shi”. Condensando “Jinsai”, obtemos “Ji”. Se adicionarmos “Ji” após “Okada”, a condensação final é “I”.
+
+*   Oka-da Jin-sai
+*   A A Zu Shi -> A Ji -> I
+*   okada jinsai -> oa ji
+
+*   Dai Ni-hon -> Ji Fu -> dai di
+*   I-suzu-gawa -> In suzu gawa -> I suzu
+
+A interpretação do nome do rio Isuzugawa revela o futuro do mundo, mas não posso discorrer sobre isso no momento.
+
+Uma vez dominado o Tamagaeshi, existe uma chave, mais do que um estudo, chamada Amatsu Kanagi (天津金木). Esta é a base de todas as coisas: do Kotodama, da astronomia, da geografia, da adivinhação e da profecia. Contudo, ainda não surgiu quem a ensine. No Kojiki, foi Hieda no Are (稗田阿礼) quem, por ordem imperial, a transmitiu oralmente.
+
+O Amatsu Kanagi (天津金木) tem a forma que se vê acima. Hieda no Are (稗田阿礼) carregava este Amatsu Kanagi (天津金木) às costas. O Kojiki contém os mistérios do Amatsu Kanagi (天津金木). E por que não foi registrado por escrito? Porque, se o fosse, seu portador não teria sobrevivido.
+
+O Japão é a terra onde o Kotodama prospera, a terra onde as palavras vivem. Atualmente, ao realizar uma cura, quando escrevo um ideograma, a palavra contida nele atua. Ao proferir o Kotodama, a força se manifesta imediatamente.
+
+Passo a apresentar um resumo sobre o Deus que é o fundamento do Céu e da Terra.
+
+O Universo e toda a criação constituem o Corpo Divino do Deus Ame-no-Minakanushi-no-Ookami. Estas três divindades primordiais não possuem individualidade.
+No centro do Universo está a Terra, ao redor da qual orbitam o Sol, a Lua e os astros. Tudo se centra na Terra; em outros planetas, como Marte ou Mercúrio, não há vida humana.
+
+O núcleo que governa este planeta é o que chamamos de Eixo Terrestre ou Pilar Terrestre. A este Deus nos referimos como Amaterasu Oomikami. É Ele quem detém o verdadeiro poder de governar. Ele nasceu como ser humano e, por isso, possui uma forma.
+
+O Deus Izanagi (伊弉諾) e a Deusa Izanami (伊弉冉) manifestaram-se com corpos carnais e, por meio da procriação, deram à luz as três divindades seguintes:
+*   Japão: Amaterasu Sume Oomikami (天照皇大神)
+*   Coreia: Susanoo no Mikoto (素盞嗚尊)
+*   China: Wakahimegimi no Mikoto (若姫岐美尊) (esposa de Banko Shinnou, também conhecido como Shionagahiko no Mikoto)
+
+Amaterasu Sume Oomikami (天照皇大神) nasceu no Japão. Susanoo no Mikoto (素盞嗚尊) tornou-se o ancestral da Coreia (posteriormente, estendeu Sua influência até a Judeia). Banko Shinnou (盤古神王) tornou-se o ancestral da China. É por essa razão que, na China, o clã Banko é considerado o de mais alta linhagem. Este é o fundamento sobre o qual repousa o Plano Divino. Fica claro, portanto, que Japão, Coreia e China são nações irmãs. A recente anexação da Coreia e da Manchúria pelo Japão também se deve a essa afinidade primordial.
+
+*   Amaterasu Sume Oomikami (天照皇大神) -> Imperador -> Poder de Governo (Céu e Terra)
+*   Kuninotokotachi no Mikoto (国常立尊), também conhecido como Ushitora no Konjin (艮金神) ou Enma Daioh (閻魔大神).
+*   Izunome no Ookami (伊都能売大神), também conhecida como Konohanasakuya-hime no Mikoto (兄花姫尊) ou Kanzeon (観世音).
+
+Para governar o mundo, Amaterasu Sume Oomikami (天照皇大神) assume outras identidades divinas, como já mencionado. Conforme a genealogia apresentada, Ele se manifesta como Kuninotokotachi no Mikoto (国常立尊) e Izunome no Ookami (伊都能売大神).
+
+O ponto central do Kojiki é a Abertura do Portal de Pedra. Na Era dos Deuses, Amaterasu Sume Oomikami (天照皇大神) ocultou-se nesse portal. Devido a esse recolhimento, a autoridade divina dos Imperadores, Seus descendentes, foi violada ao longo das gerações, causando-lhes grandes sofrimentos. Durante esse período, Kuninotokotachi no Mikoto (国常立尊) retirou-se para o portal demoníaco do nordeste (Ushitora) e, ao mesmo tempo, adentrou o Mundo Espiritual, onde se tornou Enma Daioh.
+
+O recolhimento de Amaterasu Sume Oomikami (天照皇大神) teve, por outro lado, múltiplos significados dentro do Plano Divino, como é desnecessário dizer.
+
+O mundo pode ser dividido da seguinte forma:
+*   Sol: Amaterasu Sume Oomikami (天照皇大神) -> Kuninotokotachi no Mikoto (国常立尊), Izunome no Ookami (伊都能売大神)
+*   Lua: Susanoo no Mikoto (素盞嗚尊)
+*   Terra: Banko Shinnou (盤古神王)
+
+Kuninotokotachi no Mikoto (国常立尊) e Susanoo no Mikoto (素盞嗚尊) governaram a Terra. Contudo, o governo de Kuninotokotachi no Mikoto (国常立尊) era de um rigor extremo, o que gerou oposição por parte dos outros deuses, forçando-o a se retirar e a ser chamado de Ushitora no Konjin. Susanoo no Mikoto (素盞嗚尊) também governou a Terra por um tempo, mas o mundo mergulhou no caos e não pôde ser pacificado. Decidido a procurar sua mãe no reino subterrâneo de Ne-no-katasu-kuni, ele subiu aos céus para se despedir de sua irmã, Amaterasu Sume Oomikami (天照皇大神). Sua ascensão foi tão impetuosa que montanhas e rios tremeram. Amaterasu Sume Oomikami (天照皇大神), ao presenciar tal cena, presumiu que Susanoo no Mikoto (素盞嗚尊) vinha em rebelião para subjugá-la e preparou suas tropas. Susanoo no Mikoto (素盞嗚尊), no entanto, esclareceu que não tinha tais intenções e propôs um juramento para provar sua sinceridade.
+
+Como resultado, Amaterasu Sume Oomikami (天照皇大神) retirou as magatamas (joias em forma de vírgula) de seu pescoço e as lavou no poço celestial de Manai, dando à luz cinco deuses masculinos:
+*   Ame no Oshihomimi no Mikoto (天忍穂耳尊)
+*   Ame no Hohi no Mikoto (天穂日尊)
+*   Amatsuhikone no Mikoto (天津彦根尊)
+*   Ikutsuhikone no Fukoto (活津彦根尊)
+*   Kumatsukusubi no Mikoto (熊津樟日尊)
+
+Assim nasceram os cinco pilares divinos.
+Susanoo no Mikoto (素盞嗚尊), por sua vez, desembainhou sua espada e a lavou no poço celestial de Manai, dando à luz três deusas:
+*   Tagirihime no Mikoto (田心姫尊)
+*   Tagitsuhime no Mikoto (瑞津姫尊)
+*   Ichikishimahime no Mikoto (市杵島姫尊)
+
+Essas divindades são conhecidas coletivamente como “os cinco homens e as três mulheres” (Go-nan San-nyo), ou seja, Izunome.
+
+O poço celestial de Manai corresponde, na Terra, ao Lago Biwa. O Monte Fuji e o Lago Biwa representam o umbigo do Japão, sendo o Fuji a frente e o Biwa o verso. Se esses locais fossem ocupados por espíritos malignos, o Japão perderia sua liberdade. Por essa razão, Kannon (観音), como Konohanasakuya-hime no Mikoto, estabeleceu-se no Monte Fuji, enquanto Izunome no Ookami (伊都能売大神), na forma de um Dragão Dourado, ocultou-se no Lago Biwa, na província de Omi. Foi nas margens desse poço celestial, em Ama-no-Yasukawara, que o juramento foi feito.
+
+*   Leste: Governo de Amaterasu Oomikami (天照大御神)
+*   Juramento no Poço Celestial de Manai
+*   Oeste: Governo de Susanoo no Mikoto (素盞嗚尊)
+
+Assim, estabeleceu-se naquele momento a promessa de que ambas as divindades governariam no futuro. Os cinco deuses e as três deusas transformaram-se em deuses-dragão e se ocultaram em diversos lugares até a hora certa. Esses cinco deuses e três deusas são, de fato, os Oito Grandes Reis Dragões.
+
+1.  Nanda Nagaraja (難陀): Rei Dragão da Alegria
+2.  Upananda Nagaraja (跋難陀): Rei Dragão da Boa Alegria
+3.  Sagara Nagaraja (娑羯羅): Rei Dragão do Mar
+4.  Vasuki Nagaraja (和修吉): Rei Dragão de Múltiplas Cabeças
+5.  Takshaka Nagaraja (徳叉迦): Rei Dragão do Olhar Venenoso
+6.  Manasvin Nagaraja (摩那期): Rei Dragão de Grande Corpo e Força
+7.  Utpalaka Nagaraja (優鉢羅): Rei Dragão da Cor da Flor de Lótus Azul
+8.  Anavatapta Nagaraja (阿那裟達多): Rei Dragão da Serenidade e Pureza
+
+*   Sucessor de Kuninotokotachi no Mikoto (国常立尊): O Grande General
+*   Sucessor de Susanoo no Mikoto (素盞嗚尊): Oonamuchi no Mikoto (大己貴尊)
+*   Sucessor de Banko Shinnou (盤台神王): Amewakahiko no Mikoto (天若彦尊)
+
+Posteriormente, da linhagem de Ame no Oshihomimi no Mikoto (天忍穂耳尊) surgiu Ninigi no Mikoto (瓊瓊杵尊), cuja descendência se estende ininterruptamente até os dias de hoje.
+
+**A Construção do Mundo de Grande Luz**
+
+*   Um mundo onde a Verdade, o Bem e o Belo se manifestarão plenamente.
+*   Um mundo onde a Verdade prevalecerá. (Verdade)
+*   Um mundo onde o Bem prosperará. (Bem)
+*   Um mundo que se moverá segundo a Verdade e a razão. (Belo)
+
+Por que o Deus Supremo criou as religiões? As religiões foram um plano divino necessário e temporário, estabelecido para impedir que a humanidade, até o advento de Maitreya, caísse em um nível de degeneração irremediável. Por um lado, Deus permitiu a atividade do mal, fomentando o desenvolvimento da cultura material; por outro, para que os danos causados por esse mal não se tornassem excessivos, Ele fez surgir diversos homens notáveis que propagaram as religiões, tecendo habilmente o bem e o mal. Assim, o plano divino até hoje consistiu em um ciclo de interações entre bem e mal, luz e trevas, belo e feio, que impulsionou o progresso e o desenvolvimento. Fica claro que a origem das religiões está no Oriente. Contudo, foi também por essa razão que as nações asiáticas sucumbiram.
+
+Por outro lado, Deus ordenou a Susanoo no Mikoto (素盞嗚尊) que criasse o mundo do mal. Este é o mundo da cultura material, centrada no corpo. Essa cultura material floresceu principalmente no Ocidente, e, por sua causa, a humanidade encontra-se hoje em profunda confusão. O Oriente chegou a um estado de quase extinção, enquanto o Ocidente, em sua fase terminal, perdeu o rumo. Em meio a essa desorientação, buscam-se relíquias de eras antigas por todo o mundo, mas o passado já cumpriu seu papel, e ninguém sabe o que o futuro reserva.
+
+No mundo de até então, o pensamento predominante era tal que uma pessoa puramente boa não conseguia sequer prosperar.
+*   Bem versus Mal -> Gera confusão.
+A prática do mal leva a conflitos com a lei e é perigosa; a prática do bem, por sua vez, impede a ascensão social. Diante desse dilema, a maioria da população vive em um estado de hesitação.
+
+Muitos devem se perguntar por que, desde tempos imemoriais, homens leais e justos tiveram fins trágicos, enquanto os maus, ainda que temporariamente, prosperaram. A resposta para essa questão é de suma importância. Em suma, até agora, Deus permitia a existência do mundo do mal. Portanto, sem um certo grau de conivência com o mal, era impossível prosperar ou ascender socialmente. Uma verdade tão simples permaneceu incompreendida até hoje, gerando grande confusão. O pensamento semibestial, dominado pela força do mal, persistiu. Atos malignos eram possíveis porque Deus, até que chegasse o tempo determinado, os tolerava em certa medida.
+
+Agora, porém, o Deus Supremo ordenou a Izunome no Ookami (伊都能売大神) que, a partir do Japão, construísse o Mundo de Grande Luz. Deixando para trás um mundo onde era impossível discernir entre o material e o espiritual, entre o bem e o mal, a Kannonkai foi fundada em 1º de janeiro do décimo ano da era Showa, com o propósito de criar um mundo onde o bem e o mal são indiferenciados, onde sua dualidade é superada. Tanto o bem quanto o mal que existiram até agora foram, cada qual a seu modo, necessários.
+
+**1º de Janeiro do 10º Ano da Era Showa**
+
+*   Showa (昭和) se decompõe em *Hi* (日, Sol), *Mesu* (召, convocar/governar) e *Wa* (和, paz/harmonia). O Sol representa Amaterasu Oomikami (天照大神). *Mesu* é o ideograma para *shiroshimesu* (governar). *Wa* significa o mundo ou Yamato (Japão). O número dez (十) representa a união.
+*   Quando o bem e o mal se unem, o mal desaparece.
+*   O centro que une o bem é, precisamente, Izunome.
+*   A união do bem e do mal forma *kami* (火水, fogo e água, ou Deus).
+*   Quando o bem e o mal se unem, a cruz giratória tem suas pontas curvadas, formando o manji invertido (suástica levógira). A partir do momento dessa união, o mal se extingue, e o que resta é a perfeição.
+
+O mundo de Izunome no Ookami (伊都能売大神), ou seja, o Mundo de Grande Luz, será criado. O manji das religiões tradicionais gira para a direita, representando o mundo de até então, onde a direita avançava e a esquerda recuava – o mundo do mal. O mundo de Izunome no Ookami (伊都能売大神) será o oposto: a esquerda avançará, e a direita recuará.
+
+*   Som Divino: A Percepção de Deus como Senhor do Céu.
+*   Início da Obra Celestial.
+
+Verdade (torna-se *su*, MAKOTO), Bem, Belo, Mundo da Realidade.
+
+Criar o mundo da Verdade, do Bem e do Belo significa que a Verdade (*Shin*) é *Makoto* (realidade). Até agora, vivíamos em um mundo de ilusão, um mundo provisório, um mundo de vazio. Tudo era vazio, um mundo transitório. Por quê? Porque tanto o bem quanto o mal eram permitidos. Era um mundo provisório, existente apenas até que um determinado objetivo fosse alcançado.
+
+A Verdade (*Shin*), lida através do Tamagaeshi, torna-se *Su*, que significa “realidade”, “fruto”. Finalmente, daremos frutos. Significa também “governar” (*suberu*), “imperador” (*sumeragi*), a unificação em um só. Esse “um só” é o Imperador; por isso, desde a antiguidade, Sua Majestade é referido como “o único no alto” (Kami O-hitori). Contudo, esta Obra não pode ser realizada pelo Imperador. Deve ser executada pelo povo.
+
+Antigamente, Kuninotokotachi no Mikoto (国常立尊) tentou governar o mundo unicamente com o bem, mas isso gerou forte oposição dos outros deuses, forçando-o a se retirar.
+
+Decompondo o ideograma de Verdade (真), obtemos “reto” (直) e “homem” (人). Um homem reto, ou seja, um homem honesto. *Shin* também é *kokoro* (coração), *chushin* (centro), *kami* (Deus), *shin* (fé), um Kotodama de imensa autoridade.
+Como centro, Deus confiou o atual Plano Divino a Izunome no Ookami (伊都能売大神), que é Kannon (観音).
+
+O Japão central é o centro do mundo. O centro de Kojimachi é o Palácio Imperial. Inevitavelmente, a Kannonkai deve manifestar-se ao lado do Palácio Imperial. O crisântemo de dezesseis pétalas, o brasão imperial, representa a forma da autoridade divina (五) emanando do dez (十). A verdadeira salvação e o plano divino para o mundo devem emanar das proximidades do trono. É uma necessidade absoluta.
+
+O que eu digo na Kannonkai é tudo muito claro. Se os ensinamentos do passado tivessem sido claros, o mal teria sido exposto. E se o mal fosse exposto, o mundo não progrediria, e a obra de unificação não poderia ser realizada. O advento do rádio tornou tudo internacional, permitindo que o mundo inteiro fosse informado de uma só vez. Com a criação do rádio, todos os preparativos foram concluídos.
+
+Tudo se tornou global. Salvação global, religião global – se não surgirem agora, será tarde demais. Sem a unificação do mundo por uma única pessoa, a verdadeira paz não será alcançada. As diversas religiões do passado foram, em suma, em vão.
+
+Retorno ao Uno. O “Uno” refere-se ao Deus original, o Deus Supremo. Retornar a Ele é retornar ao Deus Supremo.
+(15 de julho de 1935)
+
+## Segunda Palestra: A Origem da Religião e o Advento do Messias
+
+No que tange ao Plano Divino na Terra, Kuninotokotachi no Mikoto (国常立尊) iniciou Seu governo com o objetivo de manifestar um mundo de puro bem. Contudo, devido ao Seu extremo rigor, os demais deuses sentiram-se oprimidos e se opuseram, levando Seu plano ao fracasso. A partir de então, ficou decidido que o mundo progrediria por meio da dualidade do bem e do mal. Há 2.600 anos, o Imperador Jinmu recebeu um decreto divino para governar o Japão.
+
+Susanoo no Mikoto (素盞嗚尊), no Ocidente, deu origem ao povo de Israel, que se tornou o povo judeu, e iniciou o desenvolvimento do mundo por meio do conhecimento.
+
+Por outro lado, o Deus Supremo fez Izunome no Ookami (伊都能売大神) descer à Índia, onde, no Monte Fudaraku (布咀落迦), como o Bodhisattva Kanzeon, a Grande Santa dos Mares do Sul, Ela iniciou o budismo. Foi nesse monte que Ela transmitiu os ensinamentos a Shaka. Naquela época, o nome de Shaka era Zenzai Doji (善財童子), e ele recebeu a doutrina ainda em sua juventude. Tudo isso foi parte da preparação conduzida pelo Deus Supremo.
+
+Atualmente, no Japão, temos o Xintoísmo, o Budismo e o Cristianismo. O Xintoísmo, a rigor, dificilmente pode ser chamado de religião. Dentre as novas correntes, a Tenrikyo e a Konkokyo assumiram a forma de religiões, e a Oomotokyo, embora não seja oficialmente reconhecida, também alcançou considerável desenvolvimento, podendo ser considerada uma religião dentro do Xintoísmo. A Konkokyo não possui uma doutrina muito completa, mas a Oomoto e a Tenrikyo têm estruturas bem definidas. Dizem que o número de cristãos no Japão é de cem mil, mas atualmente não chega a tanto.
+
+No Sutra Kegon, está registrado que, no Monte Fudaraku (布咀落迦), o Bodhisattva Kanzeon estava presente, e Zenzai Doji (善財童子) e outros ouviam a pregação da grande compaixão. Entre os muitos discípulos presentes, havia os Vinte e Oito Guardiões, como Daibenzaiten, Daibontenno, Taishakutenno, o Pavão Dourado, Bishamonten e Ashura-o, além dos irmãos Narayana Kongo e Vajrapani Kongo (conhecidos como os Reis Nio). Este relato demonstra claramente que Shaka recebeu os ensinamentos de Kannon (観音).
+
+Nos escritos do Grande Mestre Nanyue, fundador da seita Tendai na China, lê-se: “Antigamente, no Monte Ryoju, pregastes o Sutra de Lótus; agora, na Terra Pura do Oeste, sois chamado de Buda Amida. E, manifestando-vos no mundo dos homens, tornais-vos o Bodhisattva Kannon (観音) salvador. Portanto, os benefícios dos três tempos – passado, presente e futuro – convergem em Kannon (観音).” O Monte Ryoju aqui se refere ao Monte Fudaraku (布咀落迦).
+
+Assim, como afirma o Grande Mestre Nanyue, o Sutra de Lótus foi, em sua essência, esboçado inicialmente por Kannon (観音), e a chave para o plano divino mundial futuro foi secretamente revelada a Shaka por Kannon (観音) quando ele tinha 73 anos. Por isso, as palavras de Shaka, “Aos 73 anos, alcancei a verdade manifesta”, referem-se a esse evento. Foi então que ele foi informado sobre a vinda dos períodos do Darma correto, do Darma aparente e do fim do Darma, seguidos pela extinção do Budismo. Ele só soube da extinção do Budismo porque Kannon (観音) o informou.
+
+Amida e Shaka só podem cuidar de seus próprios assuntos, mas Kannon (観音) possui a capacidade de atuar como uma trindade. Se Kannon (観音) não manifestou Seu poder até agora, foi porque Amida e Shaka foram excessivamente exaltados, enquanto Kannon (観音) foi deixada de lado, o que é verdadeiramente ultrajante.
+
+O mundo é dominado por três grandes religiões: Budismo, Cristianismo e Islamismo, todas criadas sob a mediação do Deus Supremo.
+
+Para explicar o Budismo, é preciso começar por “Namu Amida Butsu” e “Namu Myoho Renge Kyo”. Quem os pregou foi Shaka Nyorai. Ele se torna o “Nyorai reverso” (*sakasa*, invertido). É o plano para fazer florescer a flor do Buda. Mas as flores nunca desabrocham por muito tempo; é algo efêmero. A seita Nitiren costuma dizer que o Sutra de Lótus é para uma única geração.
+
+“Namu Myoho Renge Kyo” é chamado de título de sete caracteres. O Sol e a Lua, ou seja, Deus, foram ocultados e transformados no caractere *Myo* (妙). Sol e Lua (日月) representam Kannon (観音). *Kami* se torna o caractere para “grande” (大), que é cinco. No início do Céu, a linha “A” representa a posição celestial, a mais elevada. Buda é um ser humano que evoluiu, vindo logo após Deus. O Céu é cinco, o mundo intermediário é seis, e a Terra é sete. É o ensinamento reverso e maligno de Miroku.
+
+Amida é uma manifestação de Susanoo no Mikoto (素盞嗚尊). “Namu Amida Butsu” é chamado de nome de seis caracteres.
+
+China – *Chuka* – *Shina* significa “ramo” (eda), “e”.
+*   Grande = Sol
+*   Médio = China
+*   Pequeno = Países estrangeiros
+*   O “grande” (大) refere-se aos cinco continentes, que foram moldados à imagem do Japão.
+
+O Budismo divide-se em esotérico (Mikkyo) e exotérico (Kengyo), sendo o esotérico muito complexo. A seita Tendai é a que mais utiliza caracteres fonéticos.
+
+O Deus Supremo ordenou a Susanoo no Mikoto (素盞嗚尊) que criasse o povo judeu e desse início à era da matéria. Tudo isso foi parte do plano divino, um caminho necessário até o presente.
+*   Futuro: Saishomyo Nyorai
+*   Passado: Shohomyo Nyorai
+*   Presente: Fukosan'o Nyorai
+
+Sol – Kannon (観音) – Grande Santa dos Mares do Sul. Seus nomes são muito mais numerosos que as trinta e três manifestações. Seishi Bosatsu é o nome que assume quando atua junto a Kannon (観音). (Kannon Seishi, 57 anos).
+
+Susanoo no Mikoto (素盞嗚尊) é o deus da Lua, e sua atuação se dá no tempo da escuridão. Tsukuyomi no Mikoto também é um deus da Lua, mas sua atuação ocorre quando a Lua está iluminada.
+*   Verso, escuridão: Susanoo no Mikoto (素盞嗚尊)
+*   Frente, luz: Tsukuyomi no Mikoto
+*   Tsukuyomi (月読尊) significa “ver o mundo da Lua” (*tsuki no yo o miru*).
+
+**Plano Divino do Mal**
+
+*   Oriente – Índia:
+    *   Lua iluminada: Amida Nyorai (Bem) – Compaixão
+    *   Escuridão: Dairokuten Ma-o (Mal) – Força militar
+*   Ocidente – Judeia:
+    *   Lua iluminada: Jesus (Bem) – Amor
+    *   Escuridão: Deus de Gagal (Mal) – Conhecimento, poder financeiro, Maçons ou Freemasons – Comunismo
+
+A era dos samurais no Japão foi um período de atividade de Dairokuten Ma-o, e seus resquícios ainda existem. Tudo isso faz parte do plano divino do mal de Susanoo no Mikoto (素盞嗚尊), e foi por meio dele que a cultura material se desenvolveu como a conhecemos hoje. Portanto, foi um plano do mal necessário. Se os cristãos e budistas ouvissem isso, ficariam chocados, mas são fatos históricos, e nada se pode fazer.
+
+Há dois mil anos, na Judeia, existia uma guilda de pedreiros. A partir dela, os judeus se tornaram o centro de uma conspiração para unificar o mundo. Hoje, eles detêm três quartos da riqueza mundial e, além disso, controlam três quartos dos meios de comunicação. Essa influência não se limita à Europa e aos Estados Unidos; estende-se até o Japão, onde os órgãos de imprensa estão prestes a ser totalmente dominados. Nos últimos quatro ou cinco anos, jornais como o Asahi e o Mainichi já foram tomados. Todos caíram nas mãos de capitalistas judeus. O Yomiuri também já está meio dominado. No Japão, até mesmo ministros de Estado são membros da maçonaria, e o próprio rei da Inglaterra é um maçom.
+
+*   Doutor (I-shi-ya) / Pedreiro (Ishi-ya)
+
+A maçonaria, por meio da medicina, buscava encurtar a vida humana. A medicina foi criada pelos judeus. Hoje, a vida do povo japonês está nas mãos dos judeus, por intermédio dos médicos. Somos enganados com a ilusão de progresso. O povo japonês também está sendo ludibriado pelos “ishiya” (doutores/pedreiros).
+
+**A Trindade de Miroku e o 5-6-7**
+
+*   5. Oshin Miroku – Kanzeon – Filho – Joia – Fogo – Sol – Japão – União – Dez – Verdade
+*   6. Hosshin Miroku – Amida – Mãe – Espada – Água – Lua – Ocidente – Corpo – Horizontal – Belo
+*   7. Hoshin Miroku – Shaka – Pai – Espelho – Terra – Terra – Oriente – Espírito – Vertical – Bem
+
+**As Três Assembleias de Miroku (Trindade)**
+
+*   Sol – Esfera solar – Kanzeon – Izunome no Mikoto – Oshin Miroku
+*   Lua – Esfera lunar – Amida – Susanoo no Mikoto – Hosshin Miroku
+*   Terra – Esfera terrestre – Shaka – Wakahimegimi no Mikoto – Hoshin Miroku
+
+A preservação do termo “Trindade” significa a unificação desses três veneráveis. Hosshin atua apenas pela água; seu objetivo principal é salvar no Mundo Espiritual, a Terra Pura, e não neste mundo. Por isso, criou a Terra Pura no Oeste e se tornou um Buda (iluminado). Ele prometeu a Shaka que enviaria seus discípulos e partiu para o Oeste. Sua terra é chamada de Jodo da Luz Serena, e essa “luz serena” é a luz da Lua, o mundo espiritual da Lua.
+
+No Cristianismo, a Trindade é composta pelo Pai Celestial, o Filho Celestial e o Espírito Santo. O Budismo, por sua vez, é limitado, pois se concentra em cultuar os ancestrais e transmitir isso aos descendentes.
+
+*   Budismo – Vertical – Pai – Pequeno Veículo – Fogo – Leste – Masculino – Bem
+*   Cristianismo – Horizontal – Mãe – Grande Veículo – Água – Oeste – Feminino – Mal
+
+O Budismo é amor hierárquico – lealdade e piedade filial. Os povos do Oriente são bons. A maldade da China foi corrompida pela civilização ocidental. Por serem bons, negligenciam o corpo.
+
+O Cristianismo é amor ao próximo – amor conjugal. Os ocidentais, por serem maus, priorizam o corpo. Contudo, embora tanto o vertical (経) quanto o horizontal (緯) tenham suas falhas, sua união resulta em algo bom.
+
+Jesus Cristo foi crucificado, mas essa foi a marca que lhe foi imposta. A missão da Kannonkai é unir esse vertical e horizontal. A autoridade divina brilhando nos oito cantos do mundo – isso acontecerá quando o bem e o mal forem unidos e todo o poder emanar do Japão. Atualmente, a autoridade do Imperador não está manifesta, mas, no futuro, quando o Japão se unir ao Ocidente, ela brilhará nos oito cantos do mundo.
+
+*   Espírito-Corpo -> Musubi (União) -> Japão (o que será criado no futuro) -> Atuação de Izunome -> Atuação de Kannon (観音) -> Atuação livre e desimpedida.
+
+Os japoneses são de ouro puro, mas muitos japoneses de hoje são apenas folheados a ouro. Coreanos e chineses são de ouro de nove quilates, mais ou menos.
+*   Sol: Raça amarela – Ouro
+*   Lua: Raça branca – Prata
+*   Terra: Raça negra – Ferro/Aço (é interessante que se escreva “homem da terra” para nativos)
+*   Estados Unidos: Estrela
+*   Inglaterra: Lua (a sombra da Lua)
+*   Japão: Sol
+
+A grande quantidade de neblina na Inglaterra está relacionada à Lua.
+
+Até agora, como era noite, a Lua e a Estrela (Inglaterra e Estados Unidos) dominaram. Mas o Sol finalmente nasceu, e a noite acabou. Susanoo no Mikoto (素盞嗚尊) foi para a terra de Yomi, que é a terra da noite, o mundo da noite (*yomi no kuni*). O fato de a Lua e a Estrela (Inglaterra e Estados Unidos) terem se imposto também se deve ao fato de ser o mundo da noite. Quando o Sol subir ao zênite, a Lua e a Estrela desaparecerão. Esse momento será o Mundo de Grande Luz.
+
+Em contraste, a explicação do Budismo é muito diferente, excessivamente simplista.
+
+**O Verdadeiro Grande e Pequeno Veículo**
+
+*   Pequeno Veículo: No Budismo, é para o benefício próprio. O verdadeiro pequeno veículo é a visão superficial. Ações que parecem boas aos olhos dos outros. Os três heróis da bomba – é um bem de pequeno veículo, de lealdade e piedade filial. O portal do pequeno veículo: aqueles que, ao ouvir falar do bem, desejam entrar (o bem pode se tornar mal).
+*   Grande Veículo: No Budismo, é para o benefício dos outros. O verdadeiro grande veículo é a visão profunda. O portal do grande veículo: salvar as pessoas infiltrando-se em grupos de ladrões e malfeitores, acolhendo e salvando até mesmo aqueles com pecados secretos (o mal pode se tornar bem).
+
+Seguindo a lógica do Grande Veículo, a Rússia é o maior benfeitor do Japão. Se a Rússia não fosse uma nação belicosa, o Japão não teria conseguido administrar a Manchúria. Foi por causa da Guerra Russo-Japonesa que o Japão obteve a Manchúria, o que serviu de estopim para sua expansão. Portanto, podemos ser muito gratos à Rússia. Contudo, a Rússia agiu com más intenções, mas acabou favorecendo o Japão. Assim, de um lado, tornou-se algo bom. É por isso que se diz que bem e mal são inseparáveis, que o certo e o errado são um só. Zhang Xueliang, nesse sentido, também foi um benfeitor para o Japão, pois, ao causar o Incidente de Mukden, permitiu a nossa expansão na Manchúria.
+
+Nós também, se não tivéssemos ficado doentes, não teríamos conhecido Kannon (観音). Nesse sentido, fomos salvos pela doença. Portanto, essa doença se torna uma grande benfeitora que nos salvou por centenas, milhares de anos, para sempre.
+
+A pessoa de bem do pequeno veículo chega a um impasse. A pessoa que segue o Grande Veículo vence, mas comete muitos erros. O correto é começar com o Pequeno Veículo e, gradualmente, guiar para o Grande Veículo. As ações devem ser sempre praticadas com o espírito do Pequeno Veículo. Ao observar, deve-se fazê-lo com a mente do Grande Veículo.
+
+A flor de crisântemo, vista de cima, representa o Japão e também o eixo vertical (経). Ela se abre para o céu e para a terra. Quando ilumina o céu, os ventos e as chuvas ocorrem em perfeita ordem. Quando ilumina a terra, a localização dos minérios é imediatamente revelada. A luz penetra o subsolo, permitindo a visão. Primeiro, a luz ilumina o ouro, que a reflete, e essa luz emana das montanhas e do subsolo, revelando imediatamente onde há ouro. Assim, basta escavar o necessário. É por isso que a pobreza pode ser erradicada.
+
+Se o Estado extrair ouro, não precisará mais cobrar impostos do povo à força. As colheitas agrícolas também aumentarão. A produção poderá triplicar em relação a hoje. Os fertilizantes se tornarão desnecessários. Por quê? Porque a “luz” se tornará um excelente fertilizante. Além disso, onde a luz incide, as pragas desaparecem. Chegará o tempo em que as colheitas serão verdadeiramente abundantes.
+
+**A Atuação dos Três Tesouros Sagrados**
+
+*   Japão – Verdade (Joia): A joia verdadeira é a esfera perfeita (a joia de Mani). Kannon (観音) – Cinco – Céu – Luz – União – Centro – Vermelho – Amaterasu Oomikami (天照大神) – Japão (Grande).
+*   Oriente – Bem (Espelho): Vertical – Espírito. Shaka (o espelho do bem) – Sete – Terra – Solo – Amarelo – Esquerda – Masculino – Banko Shinnou (盤古神王) – China (Pequeno).
+*   Ocidente – Belo (Espada): Horizontal. A espada é um adorno (não para ferir, mas para proteger). A lâmina (劒) é para ferir (a espada afiada de Amida). Seis – Direita – Feminino – Médio – Nuvem – Branco – Corpo. Susanoo no Mikoto (素盞嗚尊) – Coreia (Médio).
+
+No Budismo, os sutras mais importantes são o Sutra da Extinção do Darma e o Sutra da Realização de Miroku. Neles está escrito que, após a extinção do Darma, Miroku descerá para pregar sobre o sofrimento, sua causa, sua extinção e o caminho, revelando a via, a lei, a etiqueta e a ordem.
+
+*   Sofrimento: Toda a agonia – doença, pobreza, conflito.
+*   Causa: Reunir tudo isso.
+*   Extinção: Aniquilar completamente.
+*   Caminho: O método, a atividade, o movimento.
+
+Para curar a doença:
+*   Terapia espiritual (expulsar os maus espíritos)
+*   Terapia física (médicos)
+A Kannonkai não se prende a nenhum dos dois; é um método de cura imparcial.
+
+*   Doutrina, Lei, Etiqueta, Ordem
+*   *Michi* (Caminho): *Mi* (corpo) e *Chi* (espírito/sangue). É Izunome ou Kannon (観音). O caminho é a senda que todas as coisas devem percorrer. O Sol e a Lua, para irem do leste ao oeste, têm uma órbita. Tudo se estabelece e progride através do caminho, que é a prática de Kannon (観音). O ideograma de *michi* (道) é composto por “cabeça” (首) e o radical de movimento (∟). A cabeça é o chefe de Estado, o líder do povo. É um ideograma de profundo significado.
+*   Lei: A missão da Kannonkai é fazer o mundo inteiro compreender isso. Se não nos desviarmos da lei do céu e da terra, tudo correrá bem. É a lei do universo (a lei criada pelo Criador), a lei do caminho (a lei de Kannon (観音)), a lei da perfeição absoluta. O ideograma de *ho* (法) significa “remover a água”. É fogo (*hoho*). A água, por ser instável, não é correta. *Hi* se torna *ho*, chama. É algo inviolável, que não se pode tocar. (A água é flexível).
+*   Etiqueta: Deus é ordem. O comunismo tenta destruir isso. O exército é forte porque tem etiqueta. A etiqueta nasce da ordem; sem ela, não há ordem. O ideograma de *rei* (禮) significa “mostrar abundância”. Ter folga. Os ricos da classe alta são corteses, enquanto os pobres não o são. É natural que existam classes. Com etiqueta, a pobreza desaparece. Shinran disse que não tinha um único discípulo, que todos eram seus companheiros. Ele foi o primeiro comunista do Japão. No entanto, tinha discípulos com nomes como “fulano de tal”.
+*   Ordem: Sem ordem (*fushi*, nós/articulações), nada progride. Primavera, verão, outono, inverno são ordens. O movimento de Kannon (観音) também tem suas ordens. Ao superar uma ordem, avança-se. Parar temporariamente é uma ordem, portanto, não há necessidade de se preocupar. A música também tem ordem, e por isso é agradável de se ouvir. As guerras de uma nação também são ordens. A Guerra Sino-Japonesa, a Guerra Russo-Japonesa, a Grande Guerra Europeia, o Incidente da Manchúria foram ordens, e por causa delas o Japão melhorou. A ordem detém o ímpeto para que ele se torne mais forte. Deixar crescer sem controle é ruim. Ao deter, a força aumenta. Aqueles que não conhecem a ordem se cansam no meio do caminho. Sem ordem, tudo é liso, fraco e quebradiço.
+
+Como visto acima, a partir de agora, a doutrina, a lei, a etiqueta e a ordem serão reveladas. Se há um caminho e uma lei para tudo, então senta-se de acordo com a lei, anda-se de acordo com a lei, age-se e dorme-se de acordo com a lei. Assim, tudo procederá em ordem. E se tudo for feito de acordo com a ordem, correrá bem. Quem praticar isso de forma exemplar se tornará uma pessoa íntegra, que realizou a prática de Kannon (観音). Foi isso que Shaka pregou há 2.600 anos.
+(25 de julho de 1935)
+
+## Terceira Palestra: A Verdadeira Natureza do Bodhisattva Kanzeon e o Advento do Messias
+
+Nos Estados Unidos, há uma nova religião chamada Fé Bahá'í. Seu fundador, em estado de possessão divina, anunciou as qualificações do Messias, que são as seguintes:
+
+As Nove Qualificações do Grande Mestre Sagrado (por ‘Abdu’l-Bahá):
+1.  Deve ser o educador de toda a humanidade.
+2.  Sua doutrina deve ser universal e trazer luz à humanidade.
+3.  Seu conhecimento deve ser inato e espontâneo, não adquirido.
+4.  Deve dar respostas claras a todas as questões dos sábios, resolver os problemas mais difíceis da humanidade e suportar com resignação todas as perseguições e sofrimentos.
+5.  Deve ser o doador da alegria e o mensageiro do paraíso da felicidade.
+6.  Deve possuir conhecimento infinito, e sua sabedoria deve ser compreensível.
+7.  Seu discurso deve ser concludente, e seu poder capaz de subjugar até o mais feroz dos inimigos.
+8.  A tristeza e a desgraça não devem ser capazes de afligi-lo; sua coragem e determinação devem ser como as dos deuses, tornando-se mais firmes e fervorosas a cada dia.
+9.  Deve ser o construtor de uma civilização universal, o unificador de todas as religiões, o estabelecedor da paz mundial e o praticante da mais sublime e transcendente moralidade para toda a humanidade.
+
+Quando encontrardes alguém que preencha essas condições, então o mundo poderá receber sua orientação e ser banhado em luz.
+
+A isso, acrescentei os seguintes oito itens:
+
+As Oito Qualificações do Messias:
+1.  Formar curadores para toda a humanidade, capazes de curar as doenças de todos os povos do mundo.
+2.  Para erradicar a pobreza, extrair o ouro ilimitado enterrado no subsolo e distribuí-lo à humanidade.
+3.  Possuir poder absoluto para manipular toda a criação conforme sua vontade, e suas profecias devem se realizar infalivelmente.
+4.  Seu plano divino não deve seguir os passos de ninguém, mas progredir sempre por meios inteiramente novos.
+5.  Ser versado em todos os assuntos da vida humana, como política, economia, religião e arte, e, diante de qualquer problema, resolvê-lo instantaneamente, como quem corta um nó górdio.
+6.  Emitir luz espiritual de seu corpo, como o sol.
+7.  Por possuir a mais alta divindade, subjugar todos os deuses e submeter os demônios.
+8.  Seu poder e virtude inatos devem transformar todos os seres sencientes sem esforço.
+
+**Cristianismo**
+
+Jesus nasceu para redimir os pecados da humanidade e salvá-la. Jesus era judeu, do povo de Israel. Naquela época, havia o judaísmo, cuja profecia dizia que, no fim dos tempos, o Messias apareceria. Messias significa salvador, Cristo. Messias é a palavra hebraica para salvador.
+
+*   Susanoo no Mikoto (素盞嗚尊) – Luz – Jesus
+*   Deus da Lua – Trevas – Maçons (Freemasons)
+
+**O Redentor dos Pecados**
+
+Houve quem percebesse que Jesus não era o Cristo e o denunciasse ao imperador como um falso Cristo. Com base na ideia de que mantê-lo vivo seria um erro terrível, Jesus foi crucificado. Susanoo no Mikoto (素盞嗚尊) havia cometido um pecado no passado e, por isso, foi enviado ao reino de Yomi. Para obter o perdão, ele precisava realizar um grande feito. Foi essa expiação que ele realizou. Portanto, Jesus é o redentor dos pecados. Ele é o representante dos pecados da humanidade, o intercessor que pede perdão em nome de todos.
+
+**O Messias**
+
+O Cristo é aquele que perdoa os múltiplos pecados da humanidade. O Messias aparece para perdoar os pecados.
+
+O espírito e o corpo se unem para formar o homem. Quando se separam, tornam-se o número oito. Ele é o unificador divino. O “Ki” de Cristo é um caractere nobre que atravessa o céu e a terra; a reversão espiritual de “Kami” (Deus) é “Ki”. Diz-se que Cristo descerá das nuvens, mas é absolutamente impossível para um ser humano cavalgar sobre as nuvens. Os seres humanos não foram feitos para permanecer sobre elas. Se isso fosse possível, violaria a lei do universo.
+
+“Jesus” refere-se a Israel. O “e” não atravessa o céu e a terra; é a atuação do ramo. “E” também é o ramo da água. “Su” significa governar sozinho. Refere-se a um分身・分霊 (bunshin/bunrei, avatar/espírito dividido) de Susanoo no Mikoto (素盞嗚尊). O que significa “descer das nuvens”? O que oculta o sol e a lua são as nuvens. Elas se tornam o que oculta a Deus. A atuação das nuvens é ocultar a Deus.
+
+Isso se refere à civilização científica. O que oculta a Deus é a civilização científica moderna. A civilização atual se empenha ao máximo em ocultar a Deus. Os cientistas de hoje, ao ignorarem tudo o que se refere a Deus ou ao espírito e anunciarem seus achados, acabam por classificar tudo como charlatanismo. E, de fato, no mundo de hoje, muitos daqueles que falam de Deus e de espíritos são charlatães, o que é uma vergonha para os verdadeiros. Os verdadeiros sofrem muito por causa disso, e a polícia, que não faz essa distinção, é lamentável. O empenho da ciência em ocultar a Deus é a atuação das nuvens.
+
+A civilização moderna é uma civilização científica. Aparecer na era moderna significa “aparecer das nuvens”. Ou seja, “descer do céu”.
+*   Civilização Espiritual – Civilização Científica
+
+A civilização espiritual é o céu, e a civilização científica é a terra. Portanto, ele desce da civilização espiritual para a civilização científica.
+
+**A Segunda Vinda de Cristo**
+
+Está profetizado que, após dois mil anos, Cristo retornará à terra do ouro. A terra do ouro é o Japão. Se olharmos para o rosto das pessoas, os japoneses têm a cor dourada. Os chineses têm a cor do ouro azulado. O subsolo do Japão contém muito ouro, e sua emanação espiritual torna a pele amarelada.
+
+Diz-se que Cristo e Jesus retornarão ao mesmo tempo. Cristo é o pai de Jesus. Jesus não consegue unificar o mundo. Nem mesmo há dois mil anos ele conseguiu. Kuninotokotachi no Mikoto (国常立尊) unificou o mundo uma vez. Mesmo que Jesus aparecesse agora e redimisse os pecados, não poderia perdoá-los, então sua vinda seria inútil. O mundo ficará chocado quando souber da Kannonkai. Desta vez, um Deus com verdadeiro poder adamantino surgirá para salvar o mundo de até então. E Ele virá com o poder de perdoar os pecados.
+
+A matéria está acima, e o coração está abaixo, por isso está errado. Deus se transformou em Buda e foi para o exterior, por isso se tornou Buda. A matéria é o invólucro, e o coração é o centro. Como Deus foi para o exterior e se tornou Buda, ao retornar ao Japão, deve ser Deus. Se invertermos “shinbutsu” (deus-buda), obtemos “butsushin” (buda-deus), que é o ensinamento reverso (de Shaka).
+
+O exterior é oco (*kara*), e o interior é a alma (*tamashii*). Por isso, chamar uma pessoa de “karatama” refere-se ao corpo e à alma. Como o espírito habita no vazio, chama-se “tamashii” (morada do espírito). Espírito e corpo devem estar unidos. Separados, eles se abrem, formando o caractere oito. O espírito está à esquerda, e o corpo à direita.
+
+Até agora, era “butsushin” (buda-deus), mas agora se tornou uma estrutura de três níveis: a Buda e Deus se acrescentou Izunome, tornando-se Buda, Deus, I. Esses três níveis, com e sem distinção, são o futuro. O centro é o Imperador, acima dele está Izunome no Ookami (伊都能売大神), o exterior é Deus, e Buda se extingue.
+
+Se olharmos para este diagrama verticalmente, temos o seguinte:
+E se dividirmos em seções, temos:
+Nesse momento, teremos o Mundo de Grande Luz.
+E se olharmos diagonalmente:
+
+A Grande Tóquio passou de 15 para 35 distritos. O mar será aterrado para se tornar redondo, mas isso é para o futuro. Questões como a transferência da prefeitura para Tsukishima são parte desse plano divino.
+*   Espírito / Corpo -> Izunome. No mundo espiritual, o espírito está acima, e o corpo abaixo. (53)
+*   Corpo / Espírito -> No mundo físico, o mundo material, o corpo está acima. (35)
+
+O fato de Tóquio ter se tornado 35 distritos também se deve ao Grande Terremoto, o que mostra que o terremoto foi parte do plano divino.
+Se isso atravessar o céu e a terra, torna-se Deus. Isso representa o plano do vertical e do horizontal, que continuará eternamente.
+
+No ideograma de Buda (佛), o arco (弓) representa a lua crescente, mostrando que o budismo é o ensinamento da lua. Esse arco é atravessado por dois bastões verticais. Assim, o arco da lua é atravessado pelos dois bastões de Amida e Shaka, indicando que são homens, não deuses. O radical de pessoa (亻) também indica isso.
+
+A terra (地) é a unificação (十一) que se completa (也). Até agora, não era terra, mas lama, por isso não se solidificava. Por isso, havia terremotos e outras calamidades. No futuro, quando a conclusão chegar, ela se tornará terra pela primeira vez. E quando se tornar terra, não haverá mais terremotos ou desastres, e teremos o paraíso na terra.
+
+**Os Ideogramas de Deus e Buda**
+
+*   Buda (仏) é *butsu*, representando a era da civilização material.
+*   O ideograma de Deus (神) é composto pelo radical “mostrar” (示) e “dizer” (申). O “申” não é o macaco do zodíaco, mas o ideograma de campo (田) com a linha vertical atravessando para cima e para baixo. O ideograma de campo (田) se origina de um círculo com uma cruz (○に十). O círculo é a Terra, e a cruz é a união da linha vertical (fogo) e horizontal (água). Fogo (*ka*) e água (*mi*) formam *kami* (Deus). A Terra é presidida por Deus; é o mundo de Deus. Como Deus não tem começo nem fim, a linha que atravessa para cima e para baixo representa essa eternidade. Esse significado deve ser mostrado à humanidade.
+
+**A Verdadeira Natureza de Kannon**
+
+*   Harmonizando a luz e misturando-se com a poeira.
+Para salvar a humanidade, Kannon (観音) oferece Sua salvação a todos, até mesmo aos piores malfeitores, animais e insetos. Para isso, Ela muda de forma, como o Bato Kannon, para salvar até mesmo os seres do inferno. É de uma reverência extrema que a mais alta e nobre divindade faça um esforço tão tremendo para levar os seres humanos, filhos de Deus que sofrem neste mundo de dor, a uma vida paradisíaca. Sem se prender a nada, Ela se transforma em trinta e três manifestações, sendo flexível, desimpedida e adaptando-se ao interlocutor para agradá-lo.
+
+A interpretação original de Kannon (観音) pelo Grande Mestre Tendai é forçada e incompreensível. Dizer que se “vê os sons do mundo” para salvá-lo é estranho; as coisas se veem, os sons se ouvem. Em suma, ele não conseguiu explicar a realidade.
+
+Em sânscrito, é Avalokiteshvara. Foi Kumarajiva, na China, que o traduziu como Kanzeon.
+
+Amaterasu Sume Oomikami (天照皇大神) se manifestou, e Ame no Oshihomimi no Mikoto (天忍穂耳尊) nasceu. Naquela época, já havia um número considerável de seres humanos, mas o governo não era possível.
+*   Guardião da Esquerda de Amaterasu Sume Oomikami (天照皇大神): Kuninotokotachi no Mikoto (国常立尊)
+*   Guardião da Direita: Susanoo no Mikoto (素盞嗚尊)
+
+Kuninotokotachi no Mikoto (国常立尊) é um deus de lealdade incomparável e grande poder. Ele foi encarregado do plano de pacificação do mundo. No início, tudo correu bem, mas, por ser um deus excessivamente rigoroso, o povo se sentiu oprimido e a situação se tornou insustentável. Quem percebeu isso foi Ame no Wakahiko no Mikoto (天之若彦命), filho de Banko Shinnou (盤古神王). Ele iniciou um movimento para depor Kuninotokotachi no Mikoto (国常立尊), que ganhou muitos adeptos. Eles queriam colocar Banko Shinnou (盤古神王) no poder, um deus bom e gentil, mas sem força. Pensando que, com ele, teriam uma vida fácil, usaram-no como fachada, enquanto o poder real era exercido por Ame no Wakahiko no Mikoto (天之若彦命), que governou o mundo. Por causa disso, Kuninotokotachi no Mikoto (国常立尊) se retirou. Diz-se que ele se retirou para o nordeste. Visto do mundo, é o Japão; visto do Japão, é a região de Tohoku. Como ele se retirou para o nordeste do Japão, ou seja, para *ushitora* (艮), ele é chamado de Ushitora no Konjin (艮の金神). O nordeste do Japão é o Monte Ashibetsu, em Hokkaido, para onde ele se retirou. Por outro lado, no mundo espiritual, ele se tornou Enma Daioh. Os deuses podem dividir seu espírito livremente, manifestando-se em vários pilares.
+
+Então, Izunome no Ookami (伊都能売大神), por um lado, tornou-se Kannon (観音) na Índia; por outro, como Konohanasakuya-hime no Mikoto (兄の花姫尊) (a flor de ameixa), estabeleceu-se no Monte Fuji; e, por outro, como um dragão dourado, ocultou-se no Lago Biwa, na província de Omi. A razão para isso é que, se o Monte Fuji e o Lago Biwa fossem ocupados por deuses malignos, o Japão estaria em perigo. Por que o Monte Fuji é tão importante? Porque, em termos humanos, o Monte Fuji é o umbigo. E, no corpo humano, o umbigo é o ponto mais vital. Foi por isso que ela se tornou Konohanasakuya-hime e um dragão dourado para proteger esses dois locais.
+
+Toyokumonuno no Mikoto (豊雲野尊), a esposa de Kuninotokotachi no Mikoto (国常立尊), sacrificou-se por seu marido e se retirou para o sudoeste (*hitsujisaru*). O sudoeste é a ilha de Kikai-ga-shima. Essa deusa é Omoikane no Mikoto (思兼尊). Por outro lado, ela se dividiu e se tornou Konohanasakuya-hime no Mikoto (木の花咲耶姫命), foi para a Índia e se tornou Shaka. A flor de Konohanasakuya-hime no Mikoto (木の花咲耶姫命) é a flor de cerejeira.
+
+Ame no Wakahiko no Mikoto (天之若彦命) governou o mundo, e por um tempo todos se alegraram com a vida fácil. No entanto, ele começou a se entregar às mulheres, e o mundo mergulhou novamente no caos.
+
+Wakahimegimi no Mikoto (若姫岐美命), a esposa de Ame no Wakahiko no Mikoto (天之若彦命), era uma mulher muito virtuosa, mas, sem que ninguém soubesse, ela desenvolveu uma relação amorosa com Susanoo no Mikoto (素盞嗚尊). Naquela época, Susanoo no Mikoto (素盞嗚尊) estava na Coreia e, transformado em corvo, ia encontrá-la. O santuário Okarasu Myojin foi erguido para venerar esse deus, que mais tarde se tornou Kasuga Myojin.
+
+Otohime no Mikoto, esposa de Susanoo no Mikoto (素盞嗚尊), é a mesma Otohime das lendas. Por ser a irmã mais nova de Amaterasu Sume Oomikami (天照大神様), era chamada de Oto-hime (princesa mais nova). Essa deusa tem uma relação muito importante com Kannon (観音). Otohime era uma deusa extremamente ciumenta e, consumida pelo ciúme, transformou-se em um dragão e se escondeu no fundo do mar, tornando-se o deus de Watatsumi, O-watatsumi no Kami, ou Unabarahime no Mikoto, e construiu um palácio de dragão no fundo do mar. Isso ocorreu no mundo espiritual, e ela se tornou a rainha dos mares.
+
+Otohime era muito gananciosa e poderosa, e reuniu todos os tesouros do mundo e os escondeu no mar. Esses tesouros eram de natureza espiritual. Foi por isso que os minérios da terra não foram descobertos. Com esses tesouros, ela tentou tomar o poder do mundo, mas, por ser mulher, não conseguiu. Sem alternativa, ela seduziu o governante da época.
+*   Governante do Mundo Divino: Banko Shinnou (盤古神王) -> Daijizaiten.
+
+Esse deus precisava de ouro e, para obtê-lo, pediu os tesouros de Otohime no palácio do dragão. Por milhares de anos, Otohime foi a detentora do poder real. “Kanzeon” significava “observar o mundo de Otohime”. O período é de aproximadamente três mil anos, dividido em nove, seis e três mil.
+
+*   Terceiro período: observar (miru)
+*   Segundo período: o mundo (yo)
+*   Primeiro período: de Otohime (Oto)
+*   Kan-ze-on (観世音)
+
+Kuninotokotachi no Mikoto (国常立尊) recebeu a ordem de Amaterasu Sume Oomikami (天照大神) há nove mil anos. “Oto” (音, som) é a forma do sol, ou seja, da unificação. É um ideograma que significa “o dragão unifica o mundo”, mostrando que Otohime estava unificando o mundo. Quando o dragão unifica o mundo, torna-se escuridão (*an*). Também é trevas (*yami*). O fato de o ideograma de trevas (闇) sempre conter o de som (音) deixa isso claro. Todos os ideogramas foram criados com um significado.
+
+O período de unificação de Otohime é chamado de “Mundo das Trevas”. Sua forma é a de um dragão negro, que é um dragão maligno. Certa vez, vi um dragão negro nadando no lago do deus-dragão na casa do Sr. Ochi Ryuzo.
+*   Ochi (越) -> Otsu (乙)
+*   Chi (智) -> Chi (血, sangue/espírito)
+*   Ryu (隆) -> Ryu (龍, dragão)
+*   Zo (蔵) -> Osamu (governar), Kakureru (esconder-se), Kakusu (esconder)
+
+Ochi Ryuzo é o arquétipo de Otohime. O próprio caractere *Otsu* (乙) tem a forma de um dragão. O nome significa “esconder ou governar o dragão que possui o sangue, ou seja, o espírito de Otohime”. Entendi bem quando, durante um festival para o deus-dragão na casa do Sr. Ochi, um lago de três ou quatro *shaku* foi cavado, e por cerca de cinco minutos, um dragão negro nadou, enchendo o lago.
+
+Dizer que vivemos em um mundo de trevas e ignorância significa que é o mundo de Otohime. Kanzeon é o nome usado enquanto Otohime governa o mundo, portanto, não será usado por muito mais tempo no futuro. Quando Otohime ceder o mundo a Deus, o nome Kanzeon não será mais usado. Isso indica que, em breve, chegará o tempo em que o nome da Kannonkai também mudará. Outro nome é Kanjizaiten; na Índia, é Kanjizaiten.
+
+Como na Índia o deus supremo é Daijizaiten, o nome significa “observar o mundo de Jizaiten”. No Japão, é Kanzeon, que significa “observar o mundo de Otohime”, como mencionado anteriormente.
+
+*   Dragão -> Deter -> Trevas -> Negro
+*   Estabelecer a retidão para pacificar o país (*rissho ankoku*)
+
+Um deus maligno possuiu Nitiren Shonin e o fez pregar essa tese, *Rissho Ankoku Ron*. Que esse deus maligno também era um deus-dragão fica claro pelo caractere *ritsu* (立, estabelecer). A tese era boa para aquela época, mas hoje não serve mais. O significado é: “O dragão detém a Deus e cria um mundo de trevas”.
+
+Kannon (観音) significa perfeição completa. Ser redondo e completo. Uma esfera perfeita. A esfera perfeita pode ser compreendida observando um diamante. Um diamante tem oito facetas; ao remover essas facetas, ele se torna uma esfera perfeita. Oito vezes oito são sessenta e quatro facetas. As sessenta e quatro facetas se tornam uma esfera perfeita.
+
+As trinta e três manifestações são, na verdade, trinta e duas. São as encarnações, e ao adicionar o corpo principal, o Sho Kannon, temos trinta e três. O Sho Kannon nunca se transforma. As sessenta e quatro províncias do Japão têm uma correspondência com isso. A joia de Mani, também chamada de Nyoihoshu. O espírito divino (*mitama*) é chamado de Deus (*kami*). Ser Deus é ser uma esfera perfeita, completo.
+
+Se o ponto ao lado da joia (玉) for colocado acima, torna-se “senhor” (主). O ideograma de joia é muito nobre. Izunome significa perfeição e fluidez. A joia rola livremente em qualquer direção. Um deus com arestas não pode ser um deus bom. É preciso ser redondo. Por ser redondo, rola. Rola livre e desimpedidamente.
+
+Girar a roda do Darma refere-se a Kannon (観音). É espirituoso e descontraído. Faz rir muito. Quanto mais próxima uma pessoa está da prática de Kannon (観音), mais redonda ela é. É preciso se adaptar a qualquer pessoa. Ficar com raiva não é ser redondo. Confrontar as pessoas é ter arestas. Na prática de Kannon (観音), sem remover essas arestas, não se pode se tornar redondo. E ser melancólico também não é bom. Incentivo a composição de poemas cômicos por essa razão. Rindo e fazendo rir, cria-se naturalmente um estado paradisíaco e se alcança a perfeição. A paz mundial é o fim dos conflitos.
+(5 de agosto de 1935)
+
+## Quarta Palestra: A Verdadeira Natureza dos Três Mundos: Divino, Espiritual e Físico
+
+As religiões do passado discorreram sobre diversos temas, mas de forma fragmentada, sem revelar a verdade completa. Minha intenção é estruturar esses conhecimentos da maneira mais compreensível possível. Peço que, mesmo os iniciantes, ouçam com a mente aberta, acreditando desde o início, para que possam entender bem.
+
+O mundo búdico desaparecerá gradualmente, pois os Budas retornarão ao mundo divino. Com isso, ocorrerá a extinção do budismo. O monge Nitiren falou em oito infernos, mas na verdade são nove, o que também se alinha com o número de Miroku.
+
+O mundo divino existe tanto no plano espiritual quanto no plano físico, mas o paraíso é algo que transcende a sociedade atual. Por enquanto, apenas o terceiro paraíso foi minimamente estabelecido. Em contrapartida, os infernos estão excessivamente bem estruturados, o que não é digno de admiração.
+
+A missão da nossa Kannonkai é construir o paraíso no mundo físico. As religiões se esforçam para elevar as pessoas ao paraíso, enquanto os demônios se dedicam a arrastá-las para o inferno. Essa disputa entre a religião e o demônio se manifesta no mundo físico, mas, até agora, a religião tem sido sempre derrotada. Isso se deve ao fato de que, até o presente, o mal detinha a proteção divina, tornando-se mais poderoso. O mundo búdico desaparecerá gradualmente, dando lugar apenas ao mundo divino, pois os Budas retornarão ao seu seio. Com isso, ocorrerá a extinção do budismo. Esse retorno significa que os Budas voltarão para o Japão.
+
+O que se faz diariamente no mundo búdico? Ouvem-se diversos sermões. Os seguidores de Kobo Daishi se reúnem no mundo espiritual de Kobo, e os de Nitiren, no de Nitiren, escutando as pregações desses monges. O mundo divino atual não tem qualquer relação com o mundo físico.
+
+**O Estado da Vida e da Morte**
+
+Quando uma pessoa de bem morre, seu espírito sai pela cabeça e vai para o mundo espiritual. Nesse momento, ela pode ver seu próprio corpo inerte abaixo, e seus parentes e irmãos chorando agarrados a ele. Gostaria de lhes dizer algo, mas, estando em planos diferentes, não consegue se comunicar e parte para o mundo espiritual. Em contraste, quando uma pessoa má morre, seu espírito sai pelos pés e ela cai de cabeça para baixo no inferno.
+
+Após a morte, todos os espíritos, sem exceção, vão para o Rio Sanzu. Alguns espíritos dizem que o rio tem água; outros, que está repleto de cobras. O rio é largo, e sobre ele há uma longa ponte. Ao atravessá-la, a cor das vestes muda; a dos maus se torna negra. Na margem do rio, a velha Datsueba arranca as vestes. Após cruzar a ponte, há o julgamento no tribunal de Enma, mas, como todos os atos bons e maus da vida já são conhecidos, o processo é breve. Além disso, o espelho de Johari reflete tudo, tornando impossível esconder qualquer coisa.
+
+Os espíritos que se arrependem nesse ponto vão para Yachimata (a encruzilhada de oito caminhos), também chamada de encruzilhada dos seis reinos, no mundo dos espíritos. Lá, monges pregam, e os espíritos que se corrigem vão para o paraíso. No entanto, no futuro, o mundo búdico desaparecerá gradualmente, dando lugar ao mundo divino.
+
+Mesmo praticando em Yachimata, alguns não conseguem ir para o mundo divino por causa de sua luz ofuscante. Outros, por afinidade espiritual, preferem lugares escuros e vão para o inferno por vontade própria. É como oferecer a um mendigo um banquete suntuoso em um palácio de ouro e joias; ele acharia a comida insossa e o ambiente opressivo, preferindo um simples cozido salgado.
+
+A Kannonkai é um ensinamento correspondente ao paraíso supremo. Aqueles que consideram trivial trabalhar para os outros não pertencem a esse paraíso e buscarão uma fé que lhes seja mais adequada. A Kannonkai trabalha para a humanidade mundial, e a ascensão pessoal é uma questão secundária. Contudo, ao colocar a ascensão pessoal em segundo plano e trabalhar para a humanidade, o próprio caminho se abre. Em contrapartida, aqueles que ridicularizam o trabalho pela humanidade e se concentram apenas em sua própria ascensão serão, inversamente, rebaixados. A grandiosidade de trabalhar pela humanidade reside no fato de ser um serviço direto ao plano divino de Deus.
+
+Quanto mais profundo o inferno, mais escuro e frio ele é. Deus é calor e luz; afastar-se Dele significa afastar-se do calor e da luz. A claridade de Yachimata é semelhante à do mundo físico. O terceiro paraíso é cerca de três vezes mais claro; o segundo, cinco vezes; e o primeiro, sete vezes. O paraíso supremo é um mundo de luz.
+
+**Os Infernos**
+
+*   Caminho da Luta
+*   Caminho da Fome
+*   Caminho da Luxúria
+*   Caminho dos Animais
+
+Esses caminhos do inferno correspondem às vidas que as pessoas levaram no mundo físico. Aqueles que cometeram suicídio por amor, especialmente os que se mataram abraçados, no caminho da luxúria, têm seus corpos fundidos e não conseguem se separar, sentindo dificuldade até para andar. Pensar que encontrarão alívio na morte é um grande engano; no mundo espiritual, o sofrimento pode ser ainda maior. Particularmente, no caso de adultério seguido de suicídio, um corpo fica de pé e o outro, invertido, grudado a ele, tornando o caminhar quase impossível. Achar que a dor acaba com a morte é um erro, pois o mundo espiritual é uma extensão do mundo físico. O sofrimento da doença continua no espírito. Aqueles que se jogaram no Monte Mihara vão para o inferno do calor abrasador, pois morreram queimados, e esse estado de queimação continua. Todo suicídio leva ao inferno. A morte por afogamento leva ao inferno do frio extremo, pois a pessoa permanece perpetuamente submersa. A morte no parto leva ao inferno de sangue.
+
+Pensar que a doença desaparece com a morte é um grande engano. Ela não se cura; pelo contrário, a dor se intensifica. Isso ocorre porque o espírito é mais sensível, e, portanto, a dor e o sofrimento são maiores.
+
+Os espíritos que não recebem oferendas vão para o caminho da fome. Espíritos gananciosos e cruéis também seguem por esse caminho, pois sua cobiça causa sofrimento e angústia aos outros. Quanto às oferendas, diversos espíritos se alimentam delas, mas os verdadeiros deuses não consomem alimentos; ao contrário, infundem sua energia espiritual nas oferendas. Para os grandes deuses, toda a criação lhes pertence, então não precisam do que os homens oferecem. Se desejassem, poderiam comer qualquer coisa, e não seria roubando. Em contraste, os espíritos famintos comem indiscriminadamente os alimentos expostos nas lojas, e por isso esses alimentos perdem o sabor. Fica claro que os deuses de até então eram deuses que apenas consumiam o que os humanos lhes ofereciam.
+
+No caminho dos animais, caem os espíritos que, estando no caminho da fome, roubam a comida de cães e gatos. Nesse ato, o espírito se funde com o do animal, caindo no caminho dos animais. Existem cães e gatos que servem muito bem aos humanos; são espíritos que reencarnaram e, ao servirem aos homens, expiam seus pecados para, na próxima vida, renascerem como humanos.
+
+O sofrimento mais longo no inferno é de seis mil anos. Depois disso, até mesmo os espíritos do inferno mais profundo são perdoados. O país do fundo é o fundo do mar.
+
+O estado mental no momento da morte também causa grandes diferenças individuais. O grau de apego à vida é um fator crucial. Aqueles que morrem desejando ir rapidamente para o paraíso não reencarnam tão cedo, pois, tendo alcançado o que desejavam, não sentem vontade de renascer como humanos. Em contrapartida, aqueles com forte apego à vida reencarnam mais rapidamente. Pessoas que morrem subitamente, como por um derrame cerebral, precisam especialmente de oferendas. Espíritos com forte apego à vida frequentemente se apegam aos parentes, causando-lhes doenças. Além disso, quando os pais lamentam a morte de um bebê, este tende a reencarnar rapidamente, mas uma criança que reencarna muito cedo não é boa, pois seu espírito ainda não foi purificado. Se reencarnar após a purificação, virá como uma criança esplêndida.
+
+**O Mundo dos Deuses-Dragão**
+
+O mundo dos deuses-dragão existe no mundo espiritual. Os deuses-dragão governam principalmente os fenômenos naturais. As baixas pressões de tantos milibares e as linhas de descontinuidade mencionadas pelos observatórios meteorológicos são todas obras dos deuses-dragão. O mundo dos deuses-dragão é uma atividade do plano espiritual.
+*   Sol: Dragão Dourado – Kuninotokotachi no Mikoto (国常立尊) (Dragão Macho) – Gera dragões machos.
+*   Imperador: Dragão Celestial – O dragão que nasce como Imperador, o mais elevado dos dragões.
+*   Lua: Dragão Prateado – Toyokumonuno no Mikoto (豊雲野尊) (Dragão Fêmea) – Gera dragões fêmeas.
+
+Estes são os mais elevados deuses-dragão. Quando o Dragão Dourado se esconde no subsolo (dragão latente), ele oculta sua luz e se torna um Dragão Amarelo (dragão aquático). O Dragão Dourado e o Dragão Prateado protegem o Dragão Celestial.
+
+Na época da consolidação da Terra, Kuninotokotachi no Mikoto (国常立尊) e Toyokumonuno no Mikoto (豊雲野尊) geraram inúmeros deuses-dragão para compactar o solo. Os vales e riachos são os rastros deixados pelos deuses-dragão ao se contorcerem. Pelas marcas deixadas, fica claro que eram todos grandes deuses-dragão. Após sua morte, seus corpos espirituais continuam a realizar diversas missões. A purificação do céu e da terra é obra dos deuses-dragão.
+*   Dragão Branco: Traz a chuva e purifica a água.
+*   Dragão Azul: A maioria dos humanos se torna este dragão azul (a cobra-rateira azul).
+*   Dragão da Montanha: Gera o vento e as nuvens. A abundância de nuvens nas altas montanhas é obra dos dragões da montanha. O vento também costuma nascer nas altas montanhas.
+*   Dragão da Árvore: Deus-dragão que habita nas árvores, principalmente em pinheiros e salgueiros.
+*   Dragão de Fogo: Causa os raios e queima tudo em grandes incêndios. Em um grande incêndio, o fogo que se alastra é levado pelo dragão de fogo.
+*   Dragão da Terra: Este deus-dragão causa os terremotos.
+*   Dragão Vermelho: É Satã.
+*   Dragão Negro: O mais feroz e maligno dos dragões.
+*   Dragão do Mar: Refere-se a Otohime, do palácio do dragão.
+*   Dragão de Nove Cabeças: Este deus-dragão costumava se manifestar em mim. Ele gradualmente se humanizou e começou a falar, dizendo ser o Kusushi-no-miya do Monte Fuji. Ele está esplendidamente presente no Monte Fuji. Este dragão de nove cabeças é o chefe dos Oito Grandes Reis Dragões. Na verdade, são Nove Grandes Reis Dragões, mas o Dragão Dourado de Izunome foi ocultado. Adicionando um traço ao caractere de Otohime (乙), obtemos o de nove (九), mostrando que ele é um dragão superior a Otohime e o mais elevado de todos os dragões.
+
+Os dragões fêmeas realizaram o trabalho da água, distribuindo-a. A água que hoje brota do subsolo segue os caminhos percorridos por esses dragões, e por isso esses caminhos são sinuosos. A existência de veios grossos e finos se deve ao tamanho dos dragões.
+
+**O Mundo dos Tengu (Mundo Intermediário)**
+
+Este mundo dos Tengu é uma atividade do mundo físico. Os Tengu são todos masculinos. Existem os reinos celestial, intermediário e inferior. O mundo dos Tengu é o intermediário e se localiza nas regiões montanhosas. São aquelas figuras de rosto vermelho e nariz comprido que vemos nas pinturas. O general dos Tengu é Sarutahiko no Mikoto, que reside no Monte Kurama. Foi lá que Ushiwakamaru (o jovem Yoshitsune) foi instruído por ele. Ushiwakamaru é uma pessoa com uma profunda conexão com os deuses.
+
+Existem dois tipos de Tengu: humanos e pássaros. Os Tengu humanos são formados por sacerdotes xintoístas, monges budistas e eruditos que não eram nem bons nem maus o suficiente para subir ao paraíso ou descer ao inferno, e por isso entraram no mundo intermediário dos Tengu. Os Tengu pássaros se dividem em Tengu corvos e Tengu folhas. Os Tengu corvos são formados por corvos, que são considerados mensageiros de Amaterasu Oomikami (天照大神) e, portanto, têm uma conexão com os deuses. Os Tengu folhas são formados por todas as outras aves quando morrem. Sarutahiko no Mikoto era originalmente um deus do segundo paraíso, mas cometeu um erro e, como punição, foi rebaixado ao mundo dos Tengu, tornando-se seu general.
+
+Doryo Gongen, Akiba, Hansobo são todos Tengu. Doryo Gongen é uma águia. O mundo dos Tengu adora o debate, e o debate e a discussão são sua ocupação. A posição hierárquica sobe conforme se vence nos debates. Eles também jogam go e shogi. De qualquer forma, adoram a competição. A linguagem dos Tengu é o “sa-shi-su-se-so”.
+
+Os Tengu gostam de voar e de escrever, e sua caligrafia é excelente. Todos eles vivem em montanhas altas. Possuem poderes espirituais e podem transportar um ser humano de uma montanha a outra sem esforço. Transportam crianças por distâncias de dez *ri* em um piscar de olhos. Os espiritualistas do passado eram todos desse tipo. Tanaka Morihei do Daireido, o deus de Onden, Iino Yoshisaburo são exemplos. Quando possuídos por um Tengu, tornam-se extremamente arrogantes. Eles também podem ser salvos se fizerem o bem, mas como se envaidecem rapidamente, cometem atos malignos e se envolvem com mulheres, os deuses retiram o espírito do Tengu, e eles perdem seus poderes. A perda de poderes de Iino Yoshisaburo ocorreu exatamente por isso; ele cometeu o mal e seu espírito foi retirado.
+
+Os Tengu e os Sennin (imortais) são muito semelhantes. Os Sennin são humanos que aprendem as artes imortais. Há muitos Sennin na Coreia. Existem três tipos: celestiais, da montanha e da terra. Para treinar como um Sennin, come-se bolinhos de farinha de trigo sarraceno com folhas de pinheiro, começando com cinco ou seis por dia e diminuindo gradualmente até que um seja suficiente. O corpo se torna extremamente leve, e pode-se saltar sobre montanhas sem sentir medo. Esses Sennin acabam por conseguir viver sem comida. Ainda hoje, parece haver um número considerável de Sennin. Viver do orvalho, como se diz, é algo que pode ser alcançado com a prática. Para se tornar um Sennin, existe um grande mestre em algum lugar. Ele não aceita mais de dois ou três discípulos, que aprendem tudo com ele.
+
+A história de Torakichi, escrita por Hirata Atsutane, é um relato sobre um Sennin com grande veracidade. Foi ouvida diretamente de Torakichi e contém histórias bastante peculiares.
+
+Os Tengu protegem as montanhas para que não sejam profanadas. Aqueles que morrem ou se perdem nas montanhas foram punidos pelos Tengu por profaná-las. Deve-se subir as montanhas com um espírito de reverência, com a atitude de quem pede permissão para entrar em contato com a energia espiritual da montanha. Diz-se que um Tengu pode viajar de Tóquio a Osaka em cerca de três minutos, o que é surpreendente. A arte de saltar dos guerreiros foi ensinada pelos Tengu.
+
+**A Relação entre o Mundo Espiritual e o Mundo Físico**
+
+*   Mundo Físico: Fogo, Água, Terra.
+    *   O fogo queima com água e matéria. A água flui por causa do fogo; sem fogo, congela. O mesmo se aplica a um casal; por serem opostos, a criação e o desenvolvimento ocorrem, e o progresso acontece. Por mais opostas que sejam as personalidades, a harmonia se estabelece na medida em que os filhos nascem.
+    *   A terra é composta por onze elementos: madeira, pedra, metal, fogo, água, cinza, carvão, ácido, densidade, união, viscosidade. Portanto, onze é igual a terra.
+*   Mundo do Ar: Oxigênio, Nitrogênio, Água. Destes, surgem a força, a água e o fogo.
+*   Mundo Espiritual:
+    *   Eléktron / Mícroton
+    *   Pósitron / Elétron
+    *   Próton / Nêutron
+    *   Yomisshi / Inmisshi (partículas a serem descobertas no futuro)
+
+Pósitrons e elétrons se unem para formar o elemento espiritual, e os elementos espirituais se unem para formar a matéria. Atualmente, foi descoberta uma partícula extremamente fina chamada próton, e seu correspondente, o nêutron, está prestes a ser descoberto. Além disso, nomeei provisoriamente como Yomisshi e Inmisshi as partículas que serão descobertas no futuro. O mundo espiritual deve ser compreendido em três níveis: elemento espiritual, elemento sutil e elemento denso. Só então o mundo espiritual começará a ser compreendido. Com essa compreensão, Deus se tornará conhecido mais pela via do conhecimento do que pela fé.
+
+O som também possui luz e cor. Diz-se que isso já pode ser capturado em filmes sonoros. Cada músico tem sua própria cor e luz, e a cor muda de várias maneiras dependendo do compositor, o que é belo. E o fato de ser diferente para cada pessoa é o que o torna interessante.
+
+Existe a frase: “A Palavra é Deus; por ela todas as coisas foram feitas”. A atuação das minhas palavras é tremenda. Quando eu ainda morava em Omori, houve uma vez em que curei doenças com o Kotodama. A cura é certa, mas como isso não remove o pecado e a mácula, o essencial é purificar o pecado e a mácula passando a mão para curar a doença.
+
+No final, o espiritual e o científico se tornarão um só. O espiritual é o Japão; o científico é o exterior. O espiritual e o científico estão se aproximando a uma velocidade vertiginosa.
+*   Espiritual = Japão = Amaterasu Sume Oomikami (天照皇大神) = Raiz do Sol = Microcosmo e Macrocosmo
+*   Científico = Exterior = Susanoo no Mikoto (素盞嗚尊) = Judeia
+
+O momento em que a Judeia se submeter ao Japão será o início do 5-6-7, o primeiro passo para o Mundo de Grande Luz. O plano divino de Kannon (観音) avança nessa direção. Isso é algo que já está absolutamente claro, e por isso é bom. Sem a menor preocupação, chegaremos infalivelmente a esse ponto.
+(15 de agosto de 1935)
+
+## Quinta Palestra: A Verdadeira Natureza do Bem e do Mal e a Construção do Mundo de Luz
+
+No mundo espiritual, o que corresponde ao mundo físico é Yachimata, a encruzilhada. É um lugar intermediário entre o paraíso e o inferno. O mundo atual reflete claramente essa natureza de encruzilhada. No paraíso, quanto mais se sobe, mais belo e esplêndido tudo se torna.
+
+As construções do terceiro paraíso são feitas com uma mistura de diversos materiais. As do segundo paraíso são de pedra. As do primeiro paraíso são todas de madeira. Os santuários de cipreste correspondem ao primeiro paraíso. A religião Tenrikyo corresponde ao segundo paraíso. O paraíso supremo é de uma magnificência extrema, utilizando ouro, prata e pedras preciosas, com o ouro sendo o material principal.
+
+Os habitantes do paraíso supremo vivem quase que inteiramente nus. Em pinturas, é comum ver anjos com a pele à mostra, trajando apenas finos tecidos esvoaçantes, que são usados para voar. Além disso, quanto mais elevado o paraíso, mais flores há.
+
+É verdade que anjos vêm buscar as pessoas na hora da morte. Isso acontece não apenas com os de fé profunda, mas frequentemente com jovens virgens. No momento da morte, os anjos descem em nuvens púrpuras, tocando música, e o espírito que parte é recebido com alegria e sobe aos céus nas nuvens.
+
+Quando espíritos de raposas ou texugos olham para o meu corpo físico, veem uma luz intensa e não conseguem identificar o que é. Certa vez, antes do grande terremoto de Tóquio, um espírito que estava sendo purificado por mim relatou ter me visto no paraíso, vestido com trajes cerimoniais, subindo uma escadaria e entrando por trás de uma cortina de bambu. Ele disse que meu chapéu era como o de Tenjin-sama, com vestes azuis e um forro vermelho visível na barra. O que ele viu foi o espírito divino que veio realizar a purificação e depois retornou ao paraíso. O local para onde o espírito divino subiu torna-se sua morada. O paraíso é criado pela mente de Deus e dos homens. Se a mente for má, o inferno é criado. O mundo espiritual é um mundo mental, e, pela lei da afinidade, tudo se manifesta de acordo com o pensamento.
+
+Neste salão, muitos espíritos estão presentes. São os espíritos de seus antepassados e amigos. O desejo de ouvir o que tenho a dizer faz com que o espírito vivo da pessoa venha até aqui. Como o espírito está ouvindo, a pessoa, em algum momento, pode ter uma compreensão súbita; isso acontece porque seu espírito ouviu. Assim, há milhares de pessoas neste salão, talvez mais do que se pode contar. Os espíritos são elásticos e podem passar pelo buraco de uma agulha. Eles podem entrar e sair de qualquer lugar, não importa o quão bem fechado esteja. Durante a purificação, quando um espírito de raposa diz para abrir a porta para que ele possa sair, é um truque; ele pode sair sem que se abra nada.
+
+Quanto mais inferior o espírito, menor ele é. Os espíritos salvos têm aproximadamente o mesmo tamanho de uma pessoa. Os espíritos de Yachimata também têm o tamanho de um ser humano e se tornam maiores à medida que adquirem divindade. A imagem de Kannon (観音), sentada, atinge a altura do dintel da porta. Foi essa imagem que vi e que pintei, tornando-se o objeto de veneração na antiga sede, a Kannon do Sol Nascente. Ela estava quase nua, com uma luz muito intensa e cintilante. Foi a primeira vez que pintei a imagem de Kannon (観音), e isso me serviu de grande referência para futuras pinturas.
+
+Certa vez, durante a purificação de uma senhora, um espírito me disse: “Eu sou um deus antigo. Não posso dizer meu nome, mas vim ensinar-lhe a expulsar o demônio que possui aquele doente. Se você espalhar sal na direção nordeste e recitar a oração todas as manhãs, ele será curado.” E então se retirou. A senhora me disse: “Fiquei muito assustada. Quando o senhor começou a recitar a oração, um deus enorme apareceu de repente, vestindo roupas de folhas de árvores, brilhando em azul, vermelho e roxo. Seu cabelo estava penteado para trás, e ele usava uma faixa na testa. Sentado, ele tinha a altura do dintel da porta.” Seguindo as instruções, o doente foi curado. Mais tarde, perguntei ao mestre Deguchi Onisaburo, da Oomotokyo, sobre a aparência desse deus, e ele me disse que era a imagem de Kuninotokotachi no Mikoto (国常立尊) em batalha.
+
+Depois disso, a senhora passou a sentir uma estranha relutância em vir à minha casa, sentindo uma aversão insuportável, mas forçou-se a vir. Durante a purificação, o deus apareceu novamente e, com um chicote, expulsou algo escuro, como outro espírito, de dentro dela. A senhora estava possuída por um demônio, e por isso sentia aversão em vir. O fato de ter se forçado a vir permitiu que o deus a libertasse. Quando alguém sente aversão em vir à casa de Deus, é porque um demônio está tentando impedi-lo. Nesses casos, basta vir de qualquer maneira, e o demônio se afastará. Espíritos desse tipo temem a Deus e Sua luz.
+
+Os espíritos superiores podem descer, mas os inferiores não podem subir. É como no palácio imperial: um plebeu não pode entrar, mas Sua Majestade, o Imperador, pode ir a qualquer lugar e interagir com o povo.
+
+Em locais onde ocorreram mortes violentas, é comum que outras mortes aconteçam. Isso ocorre porque o espírito da pessoa que morreu violentamente fica preso ao local, seja ao tatame, aos trilhos do trem, etc. É o que chamamos de espírito preso à terra. Como não pode se mover e se sente solitário, ele puxa os transeuntes ou pessoas distraídas, causando acidentes no mesmo lugar. O mesmo acontece nas casas onde houve mortes violentas. Logo após a morte, o espírito é mais denso, e é por isso que fantasmas são vistos.
+
+Quanto mais superior o espírito, mais finas são suas células espirituais e mais rarefeito ele é. Os espíritos do mais alto nível são tão rarefeitos que emitem luz.
+
+A epilepsia é causada pela possessão de um espírito de um morto, que encena as circunstâncias de sua própria morte. A forma como uma pessoa que morreu de derrame cerebral cai pode ser vista em um ataque epilético. Se a pessoa morreu afogada, o epilético espuma pela boca; se foi por fogo, o espírito de um queimado está possuindo-o.
+
+Os espíritos dos três heróis da bomba se desintegraram, perdendo a consciência. Mas, após quatro ou cinco dias, os fragmentos começam a se reunir, e a forma se reconstitui. Como morreram pela pátria, esses espíritos podem ir para o paraíso.
+
+Pessoas que não acreditam no paraíso ou no mundo espiritual em vida, quando morrem, como o espírito do escritor Tokutomi Roka, só conseguem se expressar como uma criança de jardim de infância. Por não acreditarem em Deus ou em Buda e não conhecerem o mundo espiritual, não se preparam para a vida após a morte e ficam em um limbo. O destino dos acadêmicos ateus é verdadeiramente trágico. O homem sem fé se torna um vagabundo espiritual. Em Yachimata, ele ouve os sermões e se junta ao grupo que mais lhe agrada.
+
+Na Europa, os cientistas estudam o espírito, mas no Japão, eles o negam ou se opõem. Na Inglaterra, existem cinco ou seis universidades de estudos espirituais. O Dr. Ward, em suas viagens ao mundo espiritual, é chamado para lá cerca de uma vez por semana. Durante uma ou duas horas, ele entra em um estado de transe e, nesse curto período, consegue explorar uma vasta área do mundo espiritual. O espírito do presidente do London Times, que morreu há cerca de dez anos, se manifesta. Durante as sessões de pesquisa espiritual, usa-se uma corneta. A corneta flutua no ar, e dela sai uma voz: “Eu sou o presidente do London Times, chamem o editor-chefe.” O editor-chefe é chamado, e o espírito lhe dá diversas instruções sobre a administração do jornal.
+
+Na Sociedade de Pesquisa Espiritual do Sr. Asano Wasaburo, foi realizado um experimento com o médium Kamei Saburo. Primeiro, suas mãos e pés foram amarrados a uma cadeira para que não pudesse se mover. Em cima de uma mesa, foram colocados brinquedos pintados com tinta fosforescente. As luzes foram apagadas, e um fonógrafo começou a tocar música. Após um tempo, a música induziu um estado de completa ausência de pensamento. Após a duração de um disco, a atividade espiritual começou a se manifestar. Os brinquedos, mantendo seu ângulo, flutuavam pelo ar, visíveis pela luz fosforescente. A corneta voava pelo ar, emitindo sons de “pá, pá, pá” enquanto se movia. De repente, a corneta e os brinquedos caíam. Eles eram jogados de forma a não atingir ninguém. Em seguida, a mesa começou a levitar. A camisa que o médium usava por baixo de suas roupas foi retirada e jogada no chão, sem que as roupas de cima fossem removidas. Foi algo verdadeiramente estranho. O médium, por sua vez, estava em transe profundo, dormindo tão pesadamente que demorou para acordar, cerca de quinze a vinte minutos. O espírito que o possuiu era de um monge brâmane da Índia. Disseram que ele precisaria beber muito saquê depois, até o amanhecer, ou não conseguiria se manifestar no dia seguinte. Como era o espírito que atuava, ele não aparecia com a luz acesa.
+
+**A Verdadeira Natureza do Bem e do Mal**
+
+Compreender a verdadeira natureza do bem e do mal torna um homem um grande erudito, pois é um tema de extrema dificuldade. Bem e mal são opostos. O mal existe porque o bem existe; o bem existe porque o mal existe. Se ambos desaparecessem, o que restaria seria a Verdade (*Shin*).
+
+Essa Verdade é, em essência, o bem. Mas, de outra perspectiva, não é nem bem nem mal, podendo se tornar ambos. Diz-se que bem e mal são como um (*ichinyo*), mas isso está errado, pois significa apenas “como um”. O correto é dizer que bem e mal são um só (*itchi*), que são unificados (*goitsu*). O centro dessa união do bem e do mal (o vertical e o horizontal) é a Verdade. Portanto, não é nem bem nem mal. No Mundo de Luz, o que faremos? Nós, os seres humanos do Mundo de Luz, praticaremos a Verdade. E essa prática não é nem boa nem má; é a Verdade. Por isso, tudo o que fizermos será harmonioso e fluirá com grande suavidade. Como o mal não permite que as coisas corram bem, ele desaparecerá. As pessoas agirão de forma natural, e isso não será “bem”, mas o curso normal das coisas. O mundo atual é um mundo semibestial; agora, pela primeira vez, nos tornaremos verdadeiramente humanos.
+
+Deus criou o bem e o mal e os colocou em oposição para promover o progresso do mundo material. A salvação consiste em criar a perfeição, e para isso Ele fez surgir duas vontades distintas para que competissem entre si.
+
+Se compararmos o mundo de até então com açúcar e sal, o sal sozinho é apenas salgado, sem verdadeiro sabor. O açúcar sozinho é apenas doce, também sem verdadeiro sabor. Os seres humanos são pequenos benfeitores e pequenos malfeitores. Nem o mundo inteiro, nem um único país pode ser mudado pela força humana. A força humana é incapaz de realizar qualquer bem significativo.
+
+Muitos perguntam: “Se Deus é onipotente, por que criou o mal? Não seria melhor não tê-lo criado desde o início e fazer um mundo de puro bem?” Mas a criatura, com sua sabedoria limitada, não pode compreender a vontade do Criador.
+*   Deus: O Grande Bem
+*   Demônio: O Grande Mal
+
+Arroz e água, quando cozidos juntos, tornam-se deliciosos. A água desaparece, mas resta um arroz saboroso. A água se dissipa no cozimento.
+Acima do bem e do mal, existe a Verdade. O bem e o mal também variam de acordo com o tempo, o lugar e a posição. Matar uma pessoa é um mal, mas matar na guerra, quanto mais se mata, mais é considerado um bem. A vingança também é um bem, pois é feita em nome do senhor ou dos pais. Contudo, o que era bem no passado é mal hoje. Para os membros do Shogitai, a aliança Satsuma-Choshu parecia o mal. As revoluções também são julgadas de forma diferente dependendo da época. A Revolução Meiji foi um bem. Na política, para o partido Minseito, o Seiyukai parece o mal. Se formos a fundo, torna-se impossível saber onde termina o bem e começa o mal.
+
+O assassinato é considerado o pior dos males. No entanto, o pensador Miyake Setsurei tem uma visão diferente. Ele diz: “Se não houvesse assassinato e apenas a lei, não saberíamos que tipo de maldade o mundo poderia cometer. Pois, agindo dentro da lei, qualquer maldade se torna possível. Mas o pensamento de que, se for longe demais, será morto, certamente o detém.” Nisso, há uma certa verdade.
+
+Praticar o mal gera o ressentimento dos outros e o remorso próprio, então é desvantajoso. Praticar o bem traz alegria e prosperidade duradoura. No mundo de até então, o mal prevalecia. Por quê? Porque a recompensa e a punição pelo bem e pelo mal eram lentas. Uma pessoa podia cometer o mal, prosperar, ter uma boa posição, ganhar dinheiro, e ninguém ficava sabendo. Por outro lado, os efeitos do bem não eram reconhecidos, e a pessoa acabava por não ter sucesso. Há quem roube porque não é pego imediatamente.
+
+No entanto, a partir de agora, isso se inverterá. A recompensa e a punição serão rápidas, e, naturalmente, o mal se tornará impraticável. Como a punição será imediata, é natural que o número de malfeitores diminua. E por que isso não era conhecido antes? Porque vivíamos no Mundo da Noite. Mesmo em uma noite de luar, dentro de casa é escuro, e o mal podia ser praticado. A partir de agora, será o Mundo do Dia, e o mal será imediatamente descoberto. É um mundo de recompensa e punição instantâneas. O que está errado se torna conhecido rapidamente. Fazer o mal se tornará ridículo.
+
+O que Shaka pregou foi o bem; o que Amida pregou foi o mal. O que Kannon (観音) prega é a Verdade.
+*   Shaka: Bem – Pequeno Veículo
+*   Kannon: Verdade
+*   Amida: Mal – Grande Veículo
+
+A religião que herdou a corrente principal de Shaka é a seita Nitiren. Seu pensamento é tacanho, exclusivista. O que ela diz é o bem; o resto é o mal. Isso fica claro pelos ataques que Nitiren desferiu desde o início de sua pregação: “O Nembutsu leva ao inferno, o Zen é obra do demônio, o Shingon arruína o país, o Ritsu é traição.” A seita Butsuryu-ko é ainda mais rigorosa. O bem também leva a um impasse. E é claro que o mal também.
+
+As palavras de Shinran Shonin, “Se os bons são salvos, quanto mais os maus”, são verdadeiramente más. Segundo essa lógica, os maus têm mais chances de serem salvos que os bons. Isso é uma aparência, um vazio. Por quê? Porque tanto o bem quanto o mal desaparecerão. A realidade é a Verdade. Existe o termo budista *jisso shinnyo* (realidade e verdade tal como é), mas *shinnyo* não é a verdadeira realidade; é ilusão. Existe também a expressão *kyokyo jitsujitsu* (ilusão e realidade).
+*   Realidade (*jisso*) = Verdade = Sol
+*   Verdade tal como é (*shinnyo*) = Aparência = Lua
+
+Diz-se que o bem é mal, e o mal é bem. A lei protege os malfeitores. Ela persegue a nós, que queremos erradicar a doença do mundo, e protege e ajuda os médicos, que matam as pessoas abertamente. Este é o pior exemplo do mal da lei. A preparação militar para a defesa nacional é um bem, mas a preparação militar da Itália para atacar a Etiópia é um mal. Os jornais, ao publicarem notícias de crimes, aumentam a criminalidade. As pessoas imitam o que leem nessas seções.
+
+Em suma, o mundo de até então era provisório. O bem e o mal foram criados para estimular a sabedoria humana, por meio da luta entre ambos. Sem competição, não há sabedoria. O arroz de antigamente produzia poucos grãos, mas hoje uma única espiga pode ter trezentos ou quinhentos. E produzirá ainda mais. Com o progresso do mundo, as frutas se tornarão maiores e mais abundantes.
+
+A sabedoria humana continuará a se desenvolver até o advento do Mundo de Grande Luz. O fumo foi introduzido para melhorar o cérebro. A sabedoria progrediu muito em relação a dois mil anos atrás. Se uma pessoa de dois mil anos atrás fosse colocada em Ginza hoje, talvez morresse em um dia. O mal foi deixado no mundo para desenvolver a sabedoria. Para proteger o país, as nações se armaram, o que gerou competição mútua. Foi por isso que a Europa se desenvolveu, com cada país se esforçando para não ser invadido pelo vizinho. Agora que o progresso chegou a esse ponto, é hora de abandonar o mal e iniciar a fase de conclusão. A fundação da Kannonkai marca o início desse trabalho de conclusão.
+
+**A Construção do Mundo de Luz (O Mundo de Miroku)**
+
+*   O Mundo da Verdade
+A realização do Mundo da Verdade sempre foi um ideal, mas sua conclusão não era possível, pois o tempo ainda não havia chegado. Agora, com a fundação da Kannonkai, ele será realizado.
+
+**Objetivo Geral**
+
+O objetivo da construção deste Mundo de Grande Luz é mostrar a meta final. Os trabalhos e movimentos de até então avançavam sem rumo, como um trem sem estação de destino, sem saber quando chegariam à meta. Como nada de autêntico foi criado, era assim.
+
+**A Política no Mundo de Miroku**
+
+Como será a política no Mundo de Miroku? A política é a estrutura da sociedade. A sociedade será classificada em três níveis:
+*   Imperador (um nível)
+*   Nove Níveis:
+    *   Classe Alta: Família Imperial, nobreza, magnatas, altos funcionários.
+    *   Classe Média.
+    *   Classe Baixa.
+
+Assim, a sociedade terá três níveis, e cada nível será subdividido em três, totalizando nove níveis, todos governados pelo Imperador. A esses nove níveis, acrescenta-se a posição do Imperador, totalizando dez. Dez significa plenitude, conclusão. As cidades-castelo da época dos senhores feudais eram semelhantes a isso.
+
+No Mundo de Miroku, também haverá um parlamento, igualmente de três níveis:
+*   Câmara Alta: Um representante de cada grupo da classe alta.
+*   Câmara Média: Representantes da classe média.
+*   Câmara Baixa: Representantes da classe baixa.
+
+Os parlamentares serão figuras como os chefes de sindicatos de cada classe e profissão. O número de parlamentares será determinado pela população de cada sindicato. Um representante para cada sindicato, um para cada grupo de professores, um para cada tantos jornalistas, e assim por diante.
+
+Hoje, a maioria dos parlamentares são advogados. Por não terem conhecimento prático e especializado, quando surge um problema incomum, eles consultam especialistas ou fazem viagens de inspeção. Advogados representam agricultores e comerciantes, o que gera contradições. Eles consultam especialistas, a liderança do partido, e relatam aos superiores. É um sistema parcial e ineficaz. Se os parlamentares fossem especialistas, todos entenderiam o conteúdo dos debates, e seria muito melhor.
+
+O Primeiro-Ministro é a figura mais crucial. Atualmente, no Japão, ele é escolhido pelos *genro* (estadistas anciãos) em nome do país. Isso não existe em um sistema constitucional, mas é uma tradição. Atualmente, o Príncipe Saionji desempenha esse papel; se ele disser que uma pessoa é boa, ela é boa.
+
+No Mundo de Miroku, haverá um *shinjin* (homem divino) que atuará como representante de Deus. Em vez do *genro*, o *shinjin* fará a seleção e buscará a aprovação imperial. Como ele tem comunicação com Deus, não haverá o menor erro. Hoje, o mandato médio de um Primeiro-Ministro no Japão é de cerca de dois anos, e o de um presidente americano é de quatro, mas no Mundo de Miroku, não haverá prazo fixo. A troca ocorrerá por ordem de Deus.
+
+Exército, polícia, tribunais, hospitais, bairros de entretenimento – tudo isso desaparecerá. Tudo o que é infernal deixará de existir.
+
+O que se desenvolverá será o transporte. Haverá trens de Tóquio até os Alpes, trens mais estáveis e esplêndidos. A arte e a grande arquitetura florescerão. Como não haverá terremotos, poderão ser construídos edifícios monumentais. A educação também se desenvolverá. Haverá três níveis: primário, médio e superior, cada um com duração de três anos. A necessidade de aprender línguas estrangeiras como inglês e alemão desaparecerá, então três anos por nível serão suficientes. A escola primária começará aos doze anos. O sistema atual, em que as crianças entram na escola aos sete ou oito anos, retarda seu desenvolvimento. Isso fica claro ao observar o crescimento atrofiado de crianças que trabalham desde cedo ou que praticam judô desde a infância. O desenvolvimento cerebral também é prejudicado quando se começa muito cedo.
+
+O ser humano precisa desenvolver a intuição, mas as pessoas de hoje não a têm. Isso se deve à educação precoce. A intuição é mais comum em pessoas sem instrução formal, o que é um fato revelador. Como as pessoas da classe alta de hoje não têm intuição, elas só tomam medidas depois que um problema ocorre. É uma situação lamentável.
+
+A universidade será concluída em nove anos, o que é suficiente. No Japão, não haverá necessidade de aprender línguas estrangeiras, pois o japonês se tornará a língua universal. Em nove anos, os alunos serão muito mais brilhantes que os professores universitários de hoje.
+
+A economia também mudará drasticamente, assim como a organização industrial. Recentemente, fala-se em economia controlada; isso é uma preparação para o movimento de Kannon (観音). Cada setor industrial será consolidado. Todas as empresas do mesmo tipo se unirão em uma só. O método de gestão será classificado em três níveis:
+*   Organização Empresarial:
+    *   Governo
+    *   Capitalistas
+    *   Trabalhadores (incluindo diretores, funcionários e técnicos)
+
+Assim, a sociedade será dividida em três, e os lucros também serão divididos de forma tripartite. O capitalismo, o socialismo e a gestão estatal estarão todos incluídos. Todas as estruturas sociais atuais estarão presentes. Não creio que haja um método melhor. Com esse sistema, não haverá preocupações como a inadimplência de impostos, e os impostos se tornarão completamente desnecessários, pois um terço dos lucros irá para o governo.
+
+Os capitalistas também terão suas obrigações. Como não conseguirão gastar todos os seus lucros, com esse excedente, e como o pensamento egoísta terá desaparecido dos negócios, o amor e a compaixão surgirão, e eles doarão dinheiro espontaneamente para obras de bem-estar social.
+
+A moeda será inteiramente de papel, pois o ouro será tão abundante que será usado principalmente para decoração. Os capitalistas construirão inúmeros salões públicos, teatros e outras instalações para o bem-estar e o entretenimento do povo. Construirão teatros públicos e oferecerão espetáculos gratuitos para o lazer dos trabalhadores, talvez uma vez por mês. Construirão casas confortáveis e as darão aos trabalhadores para morar. Os capitalistas se dedicarão imensamente ao bem público.
+
+A jornada de trabalho será de três a cinco horas. Metade das oito horas de trabalho atuais é gasta na produção de armamentos. No Mundo de Luz, onde o exército não será necessário, não será preciso trabalhar tanto. Mesmo com menos horas, até os trabalhadores serão mais prósperos. Na sociedade atual, as pessoas trabalham apenas para sobreviver, o que certamente não é a vontade de Deus.
+(25 de agosto de 1935)
+
+## Sexta Palestra: A Missão do Japão e dos Países Estrangeiros
+
+Quando o Mundo de Luz se concretizar, a estrutura urbana será como a do diagrama a seguir. Falarei sobre os costumes, as cidades, as áreas rurais e as punições no Mundo de Luz.
+
+As cidades serão divididas em áreas residenciais, comerciais, industriais, etc. As universidades, por exemplo, serão construídas perto do centro. Nessa era, será inventada uma nova forma de luz, uma iluminação semelhante à elétrica. A verdadeira natureza da luz ainda é desconhecida, mas ela será inventada através do poder de Kannon (観音). Essa iluminação é uma revelação de Deus, e não há dúvida sobre isso. Bastará instalar um poste de luz, como uma lâmpada de arco, em cada cidade ou vila, e normalmente nenhuma outra iluminação será necessária, embora talvez se instale uma em cada casa, mas sem grande necessidade.
+
+As ruas se tornarão silenciosas. Com o tipo de pavimentação que temos hoje, o silêncio será extremo. Os automóveis não usarão gasolina, mas serão movidos por um tipo de minério, eliminando assim os odores.
+
+As ruas serão abundantemente arborizadas e ajardinadas. Isso já é feito em alguns lugares, mas será muito diferente. Árvores frutíferas serão plantadas nas avenidas: macieiras, caquizeiros, figueiras, romãzeiras. As calçadas serão cobertas por parreirais. Flores serão plantadas entre as calçadas e as ruas, criando uma paisagem belíssima. Isso não está em um futuro distante; acontecerá em breve.
+
+Os meios de transporte também se desenvolverão enormemente. Haverá algo como um trem elétrico que subirá o Monte Fuji e os Alpes Japoneses, tornando a escalada fácil. Esses trens serão muito mais bonitos que os atuais. As viagens se tornarão muito populares. Até os trabalhadores poderão viajar uma vez por mês, com as despesas pagas pelos ricos. Os ricos não serão mais os avarentos de hoje, mas encontrarão alegria em agradar as classes mais baixas.
+
+Os trens também não serão como os atuais, mas muito mais sofisticados e de uma beleza primorosa. Haverá um teatro em cada cidade e vila, onde serão apresentadas peças. As peças cruéis de hoje desaparecerão, dando lugar a comédias e danças alegres, que as pessoas assistirão rindo. As peças atuais, com seus cortes e golpes, são excessivamente cruéis e têm um efeito muito negativo, ensinando o mal de certa forma. Por isso, serão abolidas e substituídas por obras luminosas.
+
+O Palácio Imperial se tornará uma construção de uma beleza e magnificência extraordinárias. Nosso Imperador não será mais apenas o Imperador do Japão, mas o Imperador do mundo, então é natural que um palácio correspondente seja construído.
+
+A alimentação se tornará deliciosa. Não será como a comida insossa e bramânica que as pessoas se forçam a comer hoje. Os japoneses vestirão seda. A seda é produzida no Japão para que os japoneses a vistam, por vontade de Deus. É um erro vender a seda japonesa para os Estados Unidos e comprar algodão em troca.
+
+As roupas se tornarão muito suntuosas. Na era Genroku, as vestimentas eram extravagantes; essa extravagância retornará, e os calçados serão sapatos. Os sapatos de hoje são de couro, mas serão inventados sapatos feitos de outro material.
+
+Como não haverá mais ladrões, as casas não precisarão de trancas, tornando-se mais claras e cheias de luz. Como também não haverá mais grandes tufões, terremotos ou chuvas, as janelas poderão ser maiores, sem perigo, tornando as casas mais iluminadas e agradáveis. Com o desenvolvimento da arte, haverá muito mais entretenimento. Nas classes altas, a literatura e as artes se tornarão ainda mais refinadas, e será possível assistir a música e dança através da televisão, que estará aperfeiçoada.
+
+Com o desenvolvimento dos transportes, as pessoas não passarão mais o verão apenas no Japão; será comum que pessoas comuns tenham casas de veraneio na Índia. Até os trabalhadores poderão fazer uma viagem de volta ao mundo em grupo uma vez por ano.
+
+Esportes como corridas de cavalo se tornarão populares para que os jovens possam canalizar seu espírito competitivo. Artes marciais como o sumô também florescerão, apesar da ausência de guerras. Por isso, eventos internacionais como as Olimpíadas se tornarão muito populares. A Kannonkai também formará várias equipes, e, com o poder de Kannon (観音), se tornarão as mais fortes, quebrando a maioria dos recordes mundiais.
+
+A punição não será mais o encarceramento em prisões como as de hoje. A pena consistirá em trabalhar nas fábricas de nível mais baixo, realizando as tarefas mais desagradáveis e árduas. Isso ocorrerá porque haverá pouquíssimas pessoas praticando o mal, e a maioria praticará o bem. O mundo inteiro se tornará um paraíso, então tudo poderá ser realizado sem a menor preocupação. Como os malfeitores desaparecerão, será assim. Muitas pessoas de hoje acham que é difícil transformar este mundo em um paraíso, mas não é; isso será realizado de forma esplêndida. Pois não serão os homens que o farão, mas Deus. A mente superficial do homem não pode sequer imaginar isso. É a diferença entre o pensamento da criatura e o poder do Criador.
+
+**A Missão do Japão e dos Países Estrangeiros**
+
+Jesus de Nazaré, o santo, profetizou que “o fim deste mundo virá”. Isso pode soar assustador, mas, se pensarmos bem, não é nada demais. Refere-se ao fim do mundo como o conhecemos até hoje, e não à destruição de tudo no planeta Terra.
+
+O mundo de até então foi o Mundo da Noite, o mundo da Lua, o mundo da noite de luar e estrelas. A noite de luar, com suas fases de crescente e minguante, passou, com momentos de brilho intenso e de escuridão. E na noite clara, as estrelas brilhavam. Essa noite clara é chamada de mundo das estrelas. Houve épocas de guerras turbulentas e épocas de paz. Esses fenômenos são obra da Lua. Mesmo dentro de um ano, há momentos muito bons e momentos muito ruins. A queda da grande prosperidade que se seguiu à Grande Guerra Europeia ocorreu em 15 de março do nono ano da era Taisho, com a queda abrupta da bolsa de valores. O gatilho foi o fato de que 15 de março era dia de lua cheia; a lua estava no seu auge, e a prosperidade também.
+
+O mundo da Lua é o mundo estrangeiro. Lua (*tsuki*) também significa “fim” (*tsuki*), o mundo do fim. O Japão é a raiz do sol (*hi no moto*), e os países estrangeiros são os países da lua. A Inglaterra é o país da lua, e os Estados Unidos, o país da estrela; portanto, são países da noite. A Índia, o país mais importante para a Inglaterra, é chamada de “país da lua” (*gesshi-koku*). Foi por ter tomado a Índia que a Inglaterra se tornou a representante do país da lua e pôde assumir a posição de hegemonia na era da civilização europeia.
+
+Quando a noite terminar, é natural que o país da lua e o país da estrela se curvem perante o país do sol. A civilização de até hoje foi toda uma civilização da noite. Por isso, a cultura de até hoje não conseguiu salvar as pessoas. Por quê? Porque as religiões também eram religiões da noite e não puderam salvar verdadeiramente. Afirmo isso sem a menor hesitação. A razão é que posso afirmar com certeza que não houve uma única família que tenha vivido por três ou cinco gerações sem desastres, com longevidade, sem doenças, sem fracassos, sem infortúnios ou calamidades. Se a religião salvasse, deveria haver um número considerável de tais famílias, mas não há. Isso por si só prova que são religiões equivocadas. A profecia de Cristo se referia ao fim do mundo da noite.
+
+O fato de as religiões terem chegado até aqui sem grandes desastres também se deve, de certa forma, a elas. A profecia de Cristo foi esplêndida. Ela se cumpre porque, como explico, Kannon (観音) surge para fazer o acerto de contas final.
+
+Se o Japão é a raiz do sol (*hi no moto*), então um dia o sol nascerá. E do Japão nascerá a civilização do dia, que se unirá à civilização da noite de até então, dando origem, pela primeira vez, ao Mundo de Luz. O Mundo de Luz é a civilização do dia, a civilização do Japão, a civilização do sol. É o mundo da luz. O Grande Mundo de Luz – o “grande” se refere aos cinco continentes. O mundo inteiro se tornará uma cultura de luz, uma civilização que une o sol e a lua. A construção do Grande Mundo de Luz é algo que se sabe desde a antiguidade.
+
+O ideograma de sol (日) é uma correção de ○ e 丶. O ponto no centro é a mancha solar. A existência de manchas solares tem um significado muito profundo. É a unificação. É *su*. “O único no alto” é *su*, referindo-se a Sua Majestade, o Imperador. É *sumeru* (governar), *sumeru* (ser claro), *sumeru* (ser puro), sem odor.
+*   O único no alto (上御一人)
+*   Governar (統べる) os cinco continentes
+*   Grande união, ou unir os cinco continentes
+*   Conclusão do mundo
+
+Se a cultura japonesa não se espalhar pelo mundo, a unificação mundial não ocorrerá. “Dai Nippon” (Grande Japão) é uma expressão de profundo significado. Antes da Grande Guerra, nosso Japão era uma das cinco grandes potências; agora, é uma das três. A política nacional que o Japão está começando a implementar é a preparação para que se torne uma grande potência unificada. O Japão é o sol, e cada um dos países do mundo é uma estrela. O desenvolvimento crescente do Japão é como o sol que sobe ao zênite. A anexação da Coreia e da Manchúria também se deve ao nascer do sol. Agora, estenderemos nossas mãos à China. É absolutamente impossível impedir isso. Por quê? Porque, por mais poderoso que seja um homem, ele não pode impedir o sol de subir ao zênite. A expansão do Japão na China tem esse significado, e, gradualmente, o mundo inteiro será unificado dessa maneira. Diz-se que Taira no Kiyomori fez o sol recuar, mas isso está muito além de seu alcance.
+
+O Japão é a pátria ancestral do mundo. Yamato-shimane significa a grande harmonia de Yamato. Agora, harmonizaremos todas as coisas do mundo. Yamato é o alvo da flecha, ○ e 丶. Akitsu-shima significa a ilha da libélula. Borboleta (mulher), libélula (homem). Shimane significa a raiz dos cinco continentes. Raiz é origem. Toyoashihara no Mizuho no Kuni significa que, na era dos deuses, os juncos cresciam abundantemente. Toyo significa abundante. Nakatsu-kuni significa o país central, o Japão. Hozuma no kuni tem um significado especial, que revelarei quando chegar a hora. Sumeramikuni, o país do monarca no leste, o país do sol nascente, Yamato-hidakami no kuni, Urayasu no kuni, Toyoakitsu-ne-wake no kuni, a terra onde o Kotodama prospera, e muitos outros nomes. Por ora, não são muito importantes.
+
+O Japão é o governante. Os países estrangeiros serão os governados. Isso não é algo que o Japão tenha decidido por ambição; é simplesmente como as coisas devem ser.
+*   Japão: Amaterasu Sume Oomikami (天照皇大神) – Verdade
+*   Coreia: Susanoo no Mikoto (素盞嗚尊) – Mal (ancestral dos judeus, Maçons, Jesus, Freemasons)
+*   China: Banko Shinnou (盤古神王) – Bem (Shaka, Maomé, Confúcio)
+
+A descendência do bem, de Banko, pereceu, e o pensamento do mundo do mal, do Ocidente (a descendência de Susanoo no Mikoto (素盞嗚尊), os judeus, maçons, Jesus – todos do Ocidente) se popularizou.
+
+Até agora, as pessoas não conheciam verdadeiramente a morte, e por isso praticavam o mal sem hesitação. Agiam sem saber se estavam fazendo o bem ou o mal. Por isso, a falsidade proliferou, e a hipocrisia se desenvolveu enormemente, com pessoas praticando o mal sob a aparência de praticar o bem, de uma maneira muito astuta, mas o mundo não percebia. As pessoas de até então eram verdadeiramente dignas de pena.
+
+O Japão e os países estrangeiros são quase opostos. O espírito japonês (coração) que se exaltava até agora não era o verdadeiro espírito japonês de Deus. Era um espírito derivado do bramanismo. O verdadeiro espírito japonês é o espírito da grande harmonia. Ações extremas ou que parecem boas aos olhos dos outros, tudo o que se chamou de alma japonesa até agora, está errado. Ser parcial não é o espírito japonês.
+
+O Japão é o país do sol. O sol é branco, e o branco se decompõe em várias cores. As várias cores são os diversos países. A Alemanha tem o nazismo; a Itália, o fascismo; a Rússia, o comunismo. O Japão assimila as cores de todos os países e brilha em branco. O fascismo ou o comunismo sozinhos não são suficientes. A Inglaterra tem o governo representativo; a Inglaterra é roxa. Os Estados Unidos são amarelos; a Itália, preta; a França, marrom; a Rússia, vermelha. O Japão assimila tudo isso e o refina em algo esplêndido. O Japão é centrípeto, ○ e 丶. No Monte Fuji, o centro é o Japão. Visto de cima, é ◎. Visto de lado, é o Extremo Oriente, o leste. A base é o oeste.
+
+A cultura japonesa é centrípeta. O que veio do oeste é grosseiro, sem acabamento. É centrífugo. O trabalho do Japão no futuro é refinar isso e exportá-lo de volta para o oeste. Até agora, o fluxo foi de oeste para leste, e isso foi 99% do processo. Agora, a luz do sol brilhará de leste para oeste e iluminará tudo de uma vez. Isso é linear. A cultura do mal é curvilínea; a curva é o mal. O que levou milhares de anos até agora será feito de uma vez, de forma rápida e linear. Esta é a Verdade. Os países do mundo até agora fabricavam peças; não estavam completos. A Ford fabrica peças em suas fábricas; a matriz da Ford não tem fábricas, mas monta um automóvel reunindo peças de várias fábricas.
+
+**Ocidente**
+*   Individualismo – Bestial (som) – Material – Búdico – Direitos – Denso
+*   Pedra – Água – Direita – Buda/Mulher – Amor universal – Lei do mais forte – Mídia/Imprensa
+*   Rei humano – Poder humano – Hegemonia – Caminho humano – Artificial – Igualdade – Liberdade
+
+**Japão**
+*   Familismo – Harmonia – Pássaro (som) – Espiritual – Divino/Coração – Deveres – Sutil
+*   Madeira – Fogo – Esquerda – Deus/Homem – Lealdade/Piedade filial – Coexistência/Prosperidade mútua – País que não se expressa
+*   Rei divino – Poder divino – Caminho imperial – Caminho divino – Natural/Divino – Hierarquia – Disciplina
+
+A civilização do futuro, a civilização japonesa, é a harmonia de tudo isso, sem pender para nenhum lado. Esta é a Verdade. Olhando para isso, vemos que o Caminho Imperial (*Kodo*) precisa ser muito bem ponderado. O ideograma de *Ko* (皇) é composto por ノ, ○ e 丶, e 王 (rei). “ノ” representa a descida do céu; ○ e 丶 são o sol; e 王 é rei. Ou seja, o rei do sol que desceu do céu. É o imperador que desceu do céu. É o caminho do imperador que desceu do céu. E *do* (道) significa o modo de fazer, o método, o que deve ser feito, um caminho próprio, uma palavra de significado muito amplo e profundo, algo tão importante quanto colocar o radical de movimento (∟) sobre a cabeça (首). *Michi* (三千) também pode significar espírito e corpo, referindo-se a Kannon (観音). Portanto, o Caminho Imperial é o caminho de Sua Majestade, o Imperador, e é um erro o povo discuti-lo. O povo não deve sequer pronunciá-lo. Se o povo quiser falar, deveria ser o Caminho do Súdito Imperial (*Komin-do*). Pois o povo é o governado. O povo deveria falar do Caminho do Povo (*Jinmin-do*). O Caminho Imperial é o caminho do único no alto. É algo que nos é reverente até mesmo pronunciar. Nós somos os governados; podemos discutir como somos governados e como podemos dar o nosso melhor, mas não podemos ir além disso.
+
+O Japão é a civilização do sol e da lua. O nome de Sua Alteza Imperial, o Príncipe Herdeiro, Akihito, também foi, em minha humilde opinião, escolhido em vista do mundo que será criado no futuro.
+
+O que é o espírito japonês? É a perfeita harmonia das quatro almas, como ensina o Xintoísmo desde a antiguidade.
+*   *Aramitama* (Alma Impetuosa): Coragem
+*   *Nigimitama* (Alma Serena): Afinidade
+*   *Kushimitama* (Alma Misteriosa): Sabedoria
+*   *Sachimitama* (Alma Feliz): Amor
+
+A atuação harmoniosa dessas quatro almas é chamada de atuação de Izunome, a prática de Kannon (観音). A melhor expressão disso é o espírito do Édito Imperial sobre a Educação, promulgado pelo Imperador Meiji. Só quando nos tornarmos capazes de agir de acordo com esse espírito é que seremos verdadeiramente humanos. Até agora, muitas pessoas eram apenas bestas vestidas com pele humana. Por quê? Porque muitas não cumpriam os deveres que lhes cabiam como seres humanos. Pelo menos os japoneses não serão assim. Começaremos dando o exemplo na Kannonkai, expandiremos para todo o Japão e, em seguida, para o mundo inteiro. Assim, o verdadeiro mundo se abrirá. As pessoas até agora diziam, erroneamente, que “o homem é um recipiente de doenças”. O homem é um recipiente de saúde, e todos avançarão nessa direção.
+
+**O Plano Divino dos Três Mundos: Divino, Espiritual e Físico**
+
+O plano começou no Setsubun do terceiro ano da era Showa e durou até o Setsubun do sexto ano da era Showa. Esse foi o plano divino para o mundo divino, e durante esse período ocorreram muitos eventos místicos.
+
+*   Do Setsubun do sexto ano da era Showa por três anos, foi o plano divino para o mundo espiritual. (Até o Setsubun do nono ano de Showa)
+*   Do Setsubun do nono ano da era Showa por três anos, é o plano divino para o mundo físico. (Até o Setsubun do décimo segundo ano de Showa)
+
+Depois, houve um período de três anos e três meses, e em 1º de maio, um novo plano divino teve início. No ano passado, em 1º de maio, mudei-me de Omori para Hirakawacho, em Kojimachi, no centro de Tóquio. E em 1º de maio deste ano, mudei-me para Kojimachi 1-chome.
+
+**A Abertura do Portal de Pedra Celestial**
+
+A chegada do Mundo de Luz ocorrerá com a Abertura do Portal de Pedra, quando Amaterasu Sume Oomikami (天照皇大神) se manifestará. Em 15 de junho do sexto ano de Showa, fui ao templo Nihon-ji, na província de Boshu, para receber Amaterasu Sume Oomikami (天照皇大神), acompanhado por um grande número de fiéis. Naquele momento, a Grande Deusa se manifestou no mundo espiritual. A província de Boshu representa o órgão genital feminino. Hodo e Hojo, em Boshu, têm o mesmo significado, e o próprio ideograma de Boshu (房) também.
+
+**A Consagração no Santuário Hie**
+
+Em 15 de junho do nono ano de Showa, por ordem divina, fui ao Santuário Hie, também conhecido como Sanno-sama, em Kojimachi, acompanhado por cerca de trinta pessoas. Lá, consagramos Amaterasu Sume Oomikami (天照皇大神) e recitamos a oração em uníssono. Isso significou a entronização de Amaterasu Sume Oomikami (天照皇大神) no Santuário Hie, mas foi um evento espiritual, do qual nem mesmo os sacerdotes tiveram conhecimento.
+
+Até então, três divindades eram veneradas no Santuário Hie, mas elas eram apenas guardiãs temporárias. Na manhã de 15 de junho, elas ascenderam aos céus. Este foi o primeiro passo para o mundo do dia. Naquela época, os nomes das ruas de Kojimachi mudaram drasticamente, o que também foi parte do plano divino. O festival daquele dia foi o último do velho mundo e o primeiro do novo, e por isso foi grandioso. A maioria das representações no festival do Santuário Hie era de macacos. O macaco representa Sarutahiko no Mikoto, que desde a antiguidade é o guia dos deuses.
+
+Na região de Kanto, o Santuário Hie e o Santuário Hikawa, em Omiya, são os dois grandes santuários imperiais. Eles também são um casal divino. Na Kannonkai, a primeira filial regional foi estabelecida justamente em Omiya. Isso também é um destino misterioso.
+
+**Um Plano Divino de Grande Importância**
+
+Em 1º de maio do décimo segundo ano de Showa, o plano divino para os três mundos – divino, espiritual e físico – será concluído, e um novo e importante plano divino terá início. Em 23 de julho do décimo quarto ano de Showa, completarei cinquenta e seis anos e sete meses, e acredito que a construção do Mundo de Luz começará.
+
+Desde que rompi com a Oomotokyo em 15 de setembro do ano passado (nono ano de Showa), tudo tem acontecido como eu desejava. Em 1º de maio do ano passado, comecei a realizar curas em Kojimachi, e pessoas com todo tipo de doença vieram até mim, o que me permitiu aprender muitas coisas.
+
+**A Formação de Curadores**
+
+A partir de 1º de maio do décimo ano de Showa, começamos a formar curadores para a cura de doenças. Isso é algo sem precedentes; nem Shaka nem Cristo jamais fizeram tal coisa. Ambos curaram doenças para salvar as pessoas, mas não tinham o poder de conceder o poder de cura a outros. A primeira turma teve cem pessoas e atingiu seu objetivo no final de setembro. A segunda terá mil, e a terceira, dez mil, e continuaremos a aumentar em direção a essa meta.
+
+**A Origem do Nome “Dai Nippon Kannonkai”**
+
+Em 11 de outubro do nono ano de Showa, o Sr. Azuma Teruo veio até mim, e começaram a aparecer fotografias espirituais, o que levou à criação da Kannonkai. Eu estava escrevendo as explicações para essas fotos quando o Sr. Azuma me disse que seria estranho eu mesmo escrevê-las e que seria mais apropriado que uma associação o fizesse. Concordei que seria melhor usar o nome de uma associação do que explicar por mim mesmo, e assim surgiu o nome “Dai Nippon Kannonkai”. O que começou como uma mera formalidade para as explicações acabou se tornando algo real.
+
+O que a princípio parece vago, de repente se torna claro. Ao tentar, realiza-se imediatamente. As coisas que me são reveladas de forma vaga são muitas, mas são absolutamente infalíveis. Não faço planos de “vamos fazer isso ou aquilo”. As coisas acontecem gradualmente, no momento certo. Foi assim que a Kannonkai foi criada. Não há planos ou pensamentos; basta seguir as revelações, e tudo se encaixa perfeitamente. É como se eu e Kannon (観音) fôssemos um só.
+
+**O que é a Oomotokyo?**
+
+É o modelo do mundo. A fundadora era o bem absoluto; como ser humano e como mulher, não havia pessoa de maior caráter. Ela era alguém que jamais fazia algo errado. Ela era o modelo do bem oriental. A Oomoto é minha mãe espiritual, e a fundadora, Deguchi Nao, era o modelo do bem bramânico. O mestre Deguchi Onisaburo é o modelo do mal ocidental. Ele não pratica o mal, mas faz todo tipo de coisa. Ele é o modelo para a construção da cultura material ocidental. É uma pessoa que acredita que, para salvar o mundo, mesmo o mal é permitido, pois o bem e o mal não são absolutos.
+
+**A Trindade**
+
+Essas duas pessoas da Oomotokyo, junto comigo, formam uma trindade. O mestre Onisaburo se torna a Rainha Mãe do Oeste. Ele ofereceu o pêssego de três mil anos ao Imperador. Eu sou o pêssego. Momotaro sou eu. O mestre Onisaburo é a avó, e a fundadora é o avô. No ano passado, eu nasci, e por isso me separei da Oomotokyo, meu corpo materno.
+
+**A Conquista da Ilha dos Demônios**
+
+A partir de 5 de maio, começará a conquista da Ilha dos Demônios. 5 de maio é o festival do pêssego. 3 de março é o festival da flor de pessegueiro. Como eu sou Momotaro, os fiéis são meus seguidores: o cão, o macaco e o faisão. Eles são meus vassalos, e Momotaro é o Kannon de Mil Braços.
+
+Em uma fotografia do mestre Deguchi Onisaburo de cerca de vinte anos atrás, há um sol em seu ventre. Aquilo é o Miroku no útero.
+
+Quando deixei a Oomoto no ano passado, houve uma grande briga. Aquelas foram as grandes dores do parto. E o modelo daquela situação é o modelo da confusão na Europa relacionada ao problema entre a Itália e a Etiópia. O mesmo modelo foi usado no Incidente da Manchúria. Como eu represento vários modelos do mundo, eles se espalham por todo o globo. É por isso que posso fazer profecias. Pois o que acontece no mundo divino se manifesta invariavelmente no mundo físico; é um princípio. Que a Kannonkai se desenvolverá enormemente e que o Japão se desenvolverá globalmente são coisas que já sei muito bem.
+
+**Resumo do Movimento de Kannon**
+
+*   Erradicar a doença. Construiremos hospitais com capacidade para mais de cem pessoas. Dez em Tóquio e cem em todo o país. A medicina ocidental também progredirá a ponto de poder ver a luz em um microscópio. O nome “hospital” (*byoin*) é ruim, então na Kannonkai chamaremos de “clínica de tratamento” (*ryoin*), pois “hospital” tem a conotação de um lugar para doentes, e não tem a força espiritual de cura. Com o tempo, construiremos clínicas da medicina japonesa em todo o mundo.
+*   Também teremos escolas. Primário, médio e superior, com um sistema de três anos cada, totalizando nove anos para se formar na universidade. Nessas escolas, o foco será a formação do caráter. Como não haverá necessidade de línguas estrangeiras, uma educação esplêndida poderá ser oferecida em um tempo muito curto.
+*   Promoveremos intensamente os esportes, formaremos equipes de beisebol e teremos atletas para competir nas Olimpíadas. Como tudo será feito com o poder de Kannon (観音), venceremos com certeza.
+*   Criaremos escolas de arte, assimilando todas as artes do mundo para criar a grande arte do dia. A arte atual é a arte da noite; criaremos uma arte que faça o coração saltar e construiremos grandes teatros como órgãos de expressão para entreter o povo. As religiões de até então chegaram a dizer que a arte era um pecado, mas isso não é verdade. Era porque era a arte da noite, a arte das trevas.
+*   A indústria também progredirá muito. Desenvolveremos a mineração. Especialmente, as minas produzirão uma quantidade enorme de ouro, que será extraído e usado. Esse ouro, vindo puro da montanha, sem as más vibrações humanas, será usado para construir templos magníficos que não pegarão fogo, como os de hoje.
+*   Incentivaremos as invenções. Diferente do que se pensa com a sabedoria humana, as ideias virão rapidamente, e invenções esplêndidas surgirão uma após a outra.
+*   Também teremos um jornal. O jornal é o livro didático do povo. Para isso, o mais importante é educar os jornalistas. Fiquei chocado ao saber que, hoje em dia, jornalistas e advogados são os que menos pagam aluguel. Se o coração daqueles que ensinam está errado, nada adianta. Educar essas pessoas é difícil; é melhor formarmos nossos próprios jornalistas e publicarmos um novo jornal para educar o povo japonês e, por extensão, divulgar a religião do dia ao mundo.
+
+Para isso, o melhor é fazer com que as pessoas venerem Kannon (観音). Quanto mais lares o fizerem, mais o Mundo de Luz será criado. Ao distribuir a luz, a luz do sol iluminará o mundo inteiro. O tempo chegou, e o progresso se dará de forma acelerada.
+(5 de setembro de 1935)
+
+## Sétima Palestra: A Doença e o Princípio do Método de Saúde Absoluta
+
+Esta palestra é o ponto central das Palestras de Kannon. Como alguns tópicos já foram abordados em outras ocasiões, pode haver repetições, mas peço sua paciência.
+
+O erro da medicina ocidental. É preciso que o público em geral compreenda isso, mas as autoridades estão em alerta. Elas estão convencidas de que não há nada além da medicina ocidental e não aceitam nossas afirmações. Nesse ponto, enfrentamos grandes dificuldades, mas não podemos simplesmente assistir a isso. A realidade atual é que as pessoas adoecem, perdem seus bens, e suas famílias passam fome. Portanto, temos que fazer algo. É absolutamente impossível ignorar essa situação. É um problema muito mais grave que qualquer crise política ou debate sobre a teoria do órgão. Não se pode mensurar quantas dezenas de vezes mais crucial é este assunto.
+
+Então, por que a medicina ocidental está errada? Começarei minha exposição partindo da premissa de que a medicina ocidental é absolutamente incapaz de curar. Pelo contrário, ela agrava doenças que poderiam ser curadas, tornando-se um problema de magnitude mundial.
+
+Existem inúmeros exemplos disso. No Hospital Takigawa, em Kanda, um bebê de três meses, com um diagnóstico claro de sarampo, recebeu mais de cem injeções. Após mais de cem dias, a febre baixa não cedia, e disseram que o problema era no ápice do pulmão, o que é um completo equívoco. Eles não sabem que se trata de uma intoxicação medicamentosa. Com o poder de Kannon (観音), a cura levaria dez dias ou menos. Uma pessoa despreocupada, se deixada em paz, sararia em dez ou vinte dias. E não se sabe quanto dinheiro foi gasto. Se o mundo soubesse disso, seria um escândalo. Fui informado disso por Kannon (観音) e por outras vias. É preciso informar o mundo, informar os médicos e fazê-los refazer sua formação desde o início.
+
+Por que a medicina ocidental está errada? A questão é que ela é uma terapia física. O ser humano é composto por dois elementos: espírito e corpo. Desde a antiguidade, tudo se baseia na dualidade yin-yang. Se há céu, há terra; se há fogo, há água; se há deus, há buda. É um fato evidente que o ser humano não é apenas corpo. A morte ocorre porque o espírito se desprende. A medicina ocidental se baseia no corpo, enquanto a medicina japonesa se baseia no espírito, sendo, portanto, opostas. A origem da doença está no espírito. Ignorar isso e tratar apenas o corpo torna a cura, obviamente, impossível. Deus = Buda, Mente = Matéria, Espírito = Corpo.
+
+Os problemas mencionados são o resultado; a origem é o coração maligno. Se o coração maligno não for corrigido, esses resultados nunca cessarão, como todos já sabem. É o cúmulo de tratar apenas os galhos e as folhas. Se há tuberculose, estuda-se o que a causou. Mas deve haver uma origem para isso. Se não se estuda a raiz, é natural que não haja cura.
+
+**A Origem da Medicina Ocidental**
+
+Em 1855, Virchow criou a patologia celular, e a partir daí a medicina começou. Foi o início da medicina dos galhos e das folhas.
+
+Atualmente, surgem vários problemas nas classes alta e baixa da sociedade, entre capitalistas e trabalhadores.
+*   Causa: Nobreza, políticos, religiosos.
+*   Resultado: Doença, infortúnio, capitalistas, jornalistas, classe alta, comunismo, corrupção, acadêmicos, educadores, gangues.
+
+As ações das pessoas da classe alta resultam nos problemas mencionados. Eles próprios criam as causas de seus problemas e depois sofrem com as consequências. Os capitalistas cometem erros, o que gera o comunismo, e depois estudam como resolver um problema que eles mesmos criaram.
+
+Nas escolas, tenta-se introduzir o ensino religioso, mas isso é algo muito difícil de se fazer. No Ocidente, há apenas o Cristianismo, então é fácil. Mas no Japão, há oito ou nove seitas budistas, o xintoísmo, as novas religiões, e por isso é impossível. Contudo, para nós, isso não é problema algum. A Grande Deusa Amaterasu Oomikami (天照皇大神) é a divindade central do Japão e a ancestral da Família Imperial. Basta que Ela seja venerada em todos os lugares. Todas as religiões são manifestações Dela, então basta venerar a divindade original. Não há nada melhor que isso. No entanto, é estranho que o povo japonês, seja por esquecimento ou ignorância, não o faça.
+
+Nas reuniões do Gabinete, a Grande Deusa Amaterasu Oomikami (天照皇大神) deveria ser venerada no assento mais alto da sala de reuniões. A reunião deveria começar com uma cerimônia em Sua presença. O mesmo deveria ser feito nas duas Câmaras do Parlamento. Os partidos políticos deveriam ter um altar em sua sede, com a sala de reuniões em frente a ele, e decidir suas políticas após recitar uma oração. Em todos os ministérios, em todas as escolas, a Grande Deusa Amaterasu Oomikami (天照皇大神) e a Imagem Imperial deveriam ser veneradas, e a Oração Amatsu Norito, que é curta, deveria ser recitada por todos antes de começar as atividades. As empresas, as fábricas e também os lares deveriam fazer o mesmo. Só com isso, a reforma eleitoral seria um sucesso.
+
+Para a reforma eleitoral, estão recorrendo a sacerdotes xintoístas e monges budistas, mas os monges até se opõem. É uma medida de última hora. A política atual, por ser uma política apenas do corpo, não funciona.
+
+*   Espírito / Corpo -> Deus / Política -> Realização
+*   União do Ritual e do Governo (祭政一致)
+*   Amaterasu Sume Oomikami (天照皇大神)
+
+Ignora-se a Grande Deusa Amaterasu Sume Oomikami (天照皇大神). Ignorá-la, mesmo temendo a nossa Família Imperial, é algo que não se pode justificar. As reuniões de bairro deveriam ser realizadas no santuário local (*ubusuna jinja*). De qualquer forma, será assim no futuro, então basta que se faça. Se as deliberações forem feitas em frente ao santuário local, problemas de corrupção e suborno não surgirão. As reuniões de hoje são, em sua maioria, realizadas em restaurantes e casas de chá, com gueixas, em meio a brincadeiras. Como algo de valor pode surgir de tal ambiente? Uma política ou reunião séria é absolutamente impossível nessas condições. Além disso, gasta-se dinheiro extra, dinheiro que precisa ser ganho. Em uma reunião de ministério, parte desse dinheiro vem do suor dos pobres, tomado à força. Em um lugar tão impuro, os pensamentos também se tornam impuros, e é impossível chegar a uma conclusão correta.
+
+Se a fonte está turva, o rio também estará. É natural. Em contrapartida, mesmo que o rio esteja turvo, isso não afeta a fonte. Aqueles que estão no topo devem ter muito cuidado.
+
+Como a classe alta é corrupta, os educadores também se corrompem. É natural que, mesmo que esses educadores contem histórias de Masashige, Kiyomaro ou Ninomiya Kinjiro, não surta efeito. Se o coração do professor for reto, os alunos o imitarão. Se o coração do professor for mau, os alunos também se assemelharão a ele. É natural.
+
+Nesta escola de estilo ocidental, entupir os alunos com o conhecimento ocidental não adianta. Por que não? Porque só se ensina o que é visível (além do ar). Eles estão convencidos de que até mesmo Deus não existe. Professores que nunca rezaram para Deus levam os alunos em peregrinação aos Santuários de Ise e Meiji, o que, para eles, é uma contradição.
+
+A teoria do órgão imperial é certamente um mal, mas foi ignorada por trinta anos, o que torna a atitude do governo, dos acadêmicos e dos políticos ainda mais estranha. Só agora, porque outros começaram a fazer barulho, eles estão agindo a contragosto. Não é preciso revogar tudo; basta remover o que está errado.
+
+A próxima questão é que o Estado japonês é diferente dos países estrangeiros. Em que é diferente? O Imperador do Japão é diferente dos imperadores estrangeiros. Os imperadores estrangeiros chegaram ao poder pela força. Nosso Imperador do Japão é de uma linhagem ininterrupta, a linhagem espiritual da Grande Deusa Amaterasu Oomikami (天照皇大神). Se retrocedermos na linhagem do Imperador do Japão, chegaremos a Deus. Se não houver Deus, seremos como os países estrangeiros. Mas o Japão é a linhagem da Grande Deusa Amaterasu Oomikami (天照皇大神). Se não se reconhece Deus, o país do Japão não se sustenta. O Imperador do Japão é único no mundo. É um Deus que viveu e vive ininterruptamente até hoje. Se não se reconhece a existência absoluta do Deus Supremo (*Sushin*), essa teoria não se sustenta.
+
+Todo o sistema de ensino do Japão precisa ser reformado. Se não se reconhece absolutamente a existência dos deuses do Japão, o ensino japonês está fadado ao fracasso. As escolas do Japão também precisam ser renovadas. Manter o modelo ocidental não adianta. Se esse ponto não for esclarecido, a medicina japonesa não será compreendida.
+
+Mesmo que se fale do poder de Kannon (観音), se se disser “será que isso existe?”, não se entenderá. É preciso compreender que os deuses do Japão, cheios de vida e vigor, estão vivos desde a antiguidade até hoje. Sem isso, a raiz da doença não pode ser compreendida.
+
+De agora em diante, Deus deve ser o principal, e o trabalho, o secundário. Colocar o espírito em segundo plano é um erro, uma inversão completa de valores. A medicina ocidental, por colocar o corpo como principal e o espírito como secundário, é absolutamente incapaz de curar doenças. Isso fica evidente.
+
+O início da doença é o acúmulo de nuvens no espírito. Essas nuvens turvam o sangue. O sangue é a materialização do espírito. Quando uma pessoa morre, o volume de sangue diminui drasticamente. A medicina diz que o sangue coagula, mas a diminuição não se deve apenas à coagulação. Algo se perde do sangue, e por isso ele coagula e se reduz a uma quantidade ínfima. O que faz o sangue ser tão volumoso é a materialização do espírito. Com a morte, esse espírito se desprende, e o sangue diminui naturalmente.
+
+Esse sangue turvo aumenta cada vez mais, e quando o processo de purificação começa, os resíduos purificados se tornam uma substância branca. Esses resíduos brancos se tornam o elemento branco primordial e são expelidos da área de sangue turvo. O corpo humano tem um fluido seroso, e quando o elemento branco se acumula nesse fluido, ele se torna pus. O pus aquoso é essa substância diluída. Gradualmente, ele se torna um líquido purulento. À medida que esse líquido se torna mais espesso e abundante, a doença se manifesta. Portanto, a nuvem no espírito-corpo é a causa da doença; sua manifestação no corpo físico é o resultado. Da mesma forma, os governantes criam a causa e depois tentam corrigir o comunismo da classe baixa, mas isso é absolutamente impossível, pelo mesmo princípio da doença.
+
+Um exemplo: um furúnculo foi operado durante dois meses. O furúnculo sarou, mas como a nuvem no espírito não foi removida, outro apareceu ao lado. Mais um mês de cirurgia, e sarou, mas outro apareceu. O médico cobrou mil ienes. E outro apareceu. Eu curei em uma semana por oito ienes. O médico, sem pesquisar a causa fundamental, o que cria a nuvem no espírito, simplesmente corta o resultado, o furúnculo. Por isso, ele reaparece ao lado, repetidamente. O médico pensa que a causa é uma nuvem nas células e usa raios-X, mas quem não conhece o espírito não pode entender.
+
+O pus extremamente concentrado é o câncer. É uma doença que destrói os tecidos. O espessamento do pus aquoso é a tuberculose, e quando ele se torna ainda mais concentrado, destrói os tecidos celulares. Isso é o câncer. O pus, de amarelo, torna-se branco e, depois, um fluido seroso transparente como a água. Isso ocorre porque é purificado pela energia espiritual. No bubão inguinal (da sífilis), sai uma água amarelada. Curei em duas semanas. Com um médico, sai uma substância suja e lamacenta, como um marisco. Com o tratamento espiritual, ela se dissolve e vira água.
+
+E como surgem as nuvens? Elas aparecem na parte mais fraca do corpo espiritual. A causa são os pecados e máculas dos ancestrais e do próprio indivíduo. E por que as nuvens aparecem na parte mais fraca? Porque, ao usar a mente, há uma diferença entre usá-la para o bem ou para o mal. Se usada para o mal, a mente enfraquece. Se usada para o bem, fortalece. Os inventores se fortalecem.
+
+A tuberculose ocorre porque os pulmões estão fracos. Por quê? Os pulmões inspiram o ar, e o coração inspira a energia espiritual, o calor do sol. Na tuberculose, surge a febre.
+*   Amaterasu Oomikami (天照大神): Mundo Espiritual (Fogo - Emoção), Mundo do Ar (Água - Espírito da Lua), Mundo Físico (Terra)
+*   Sol: Calor do amor. Coração
+*   Lua: Verdadeira fé. Pulmão
+*   Izunome no Kami: Razão. Estômago = Matéria
+*   Trindade: 5 e 3. Deus, Espírito, Físico. Divino (fogo principal, água secundária) - Japão. Espiritual (água principal, fogo secundário) - Exterior.
+*   Sol e Lua se unem para formar a civilização da luz (明). Este é o Mundo de Luz.
+
+Em Tamagawa, construiremos no futuro o Santuário de Izunome. Os deuses, exceto Amaterasu Oomikami (天照皇大神), são todos anjos. O cristianismo diz que há um só Deus, e isso é verdade. Exceto Amaterasu Oomikami (天照皇大神), não há outros deuses, então o correto é usar o caractere “mikoto” (命). “Mikoto” (尊) é um deus superior, o verdadeiro deus. “Mikoto” (命) é um vassalo, e no mundo físico, é o povo.
+
+Por que os pulmões enfraquecem? Por falta de amor. Os pulmões são água, e a água se move pelo fogo. Os pulmões se movem pelo calor do coração. Pouco calor no coração significa pouco amor. Portanto, é preciso praticar o amor. Amar tudo. E, como base para isso, venerar Kannon (観音). Uma pessoa que antes se irritava ao ver os outros rindo, depois de começar a venerar Kannon (観音), passou a se sentir feliz e alegre. Este é um exemplo real.
+
+Pessoas com problemas cardíacos carecem de razão. O fogo do coração queima continuamente porque há muita água. Enquanto houver água, tudo bem, mas se faltar, a razão se torna escassa, pois o fogo apenas queima intensamente. Kannon (観音) é a atuação do fogo e da água, e nos concede ambos na medida certa.
+
+Problemas de estômago são causados por desrespeito à matéria. Pessoas exigentes com a comida têm problemas de estômago por essa razão. Quem come de tudo, mesmo que não seja saboroso, tem um estômago forte. É preciso ter gratidão por tudo. Vivendo uma vida de gratidão constante, não se acumulam pecados no estômago, e ele permanece sempre forte e livre de doenças. É algo a se ter em mente.
+
+O abdômen corresponde ao subsolo. O abdômen é o calor da terra, e o que está no estômago desce para o abdômen para ser processado. Assim como a terra filtra as impurezas e envia a água limpa para o subsolo, para depois ser bombeada e usada novamente, o abdômen filtra o que é ruim, excretando os resíduos como fezes, e envia a água como urina para os rins. O que é bom é enviado para o fígado (*kanzo*), cujo nome deriva dessa função vital (*kanjin*). Assim, a carne e a pele são formadas.
+
+Quando os pulmões estão fracos, é comum ter suores noturnos. O coração é fogo. O ideograma de coração (心) é um oito com dois pontos laterais; se colocado sobre o oito, forma-se o ideograma de fogo (火). O coração é cercado pelos pulmões.
+
+Enquanto a criança depende dos pais, há uma conexão. Os pecados dos pais são transferidos para ela. A doença da criança é, na verdade, os pecados dos pais que lhe são transferidos. Quando os pais têm uma missão a cumprir, mas seus pecados causariam uma doença, esses pecados são transferidos para a criança. Em alguns casos, a criança morre, mas ela está indo no lugar dos pais.
+
+De onde vêm as nuvens de todo o corpo? Dos ancestrais. Os ancestrais e os descendentes estão conectados por um fio espiritual. A medicina chama isso de hereditariedade, mas às vezes a herança não se manifesta. A teoria da hereditariedade não é absoluta, mas o fato é absoluto. Se um grande homem surge na linhagem e acumula virtude, essa virtude remove o pecado, e o fio se rompe, interrompendo a herança. Essa herança flui constantemente do mundo espiritual. Os ancestrais são julgados e purificados no mundo espiritual, e os pecados purificados fluem para os descendentes no mundo físico.
+
+Ancestrais que fogem do mundo espiritual e possuem seus descendentes o fazem porque, por falta de fé em vida, não têm a que grupo pertencer no mundo espiritual. Sem ter para onde ir, eles se apegam a seus filhos, causando doenças.
+
+Os pecados e máculas dos ancestrais vêm principalmente pela medula espinhal. Ancestral – cabeça – medula – cóccix – descendente. Nós somos os descendentes, o cóccix. Homens e mulheres, todos descendemos disso. Os pecados e máculas que fluem pela medula espinhal descem e se espalham para a cabeça, olhos, nariz, coração, rins, para toda parte. A medula espinhal é a fonte de todas as doenças.
+
+Todas as doenças se curam naturalmente, mas o processo envolve dor, febre, catarro, vômito de sangue tóxico, furúnculos, diarreia. A disenteria é a evacuação de sangue tóxico; uma vez que o sangue tóxico sai, a cura ocorre em um dia. Os pecados e máculas geralmente se manifestam em um terço da medula espinhal e nas nádegas.
+
+Como já disse, a doença surge da nuvem no espírito, e essa nuvem se torna sangue tóxico. Quando atinge um certo nível, um movimento de dissolução ocorre naturalmente no corpo. Com o início desse movimento, os resíduos purificados são expelidos, e a cura ocorre. Quando as nuvens se acumulam no mundo espiritual, ocorrem grandes trovoadas, tufões, tempestades, que as dissolvem. Se não fossem esses fenômenos da natureza, não saberíamos que tipo de doenças afligiriam a humanidade.
+
+Por Sua compaixão, Deus, por meio dos fenômenos naturais, purifica este mundo nublado e maculado, limpando a raiz da doença. Quando as nuvens se formam no ser humano, tufões e tempestades ocorrem dentro do corpo, e o movimento de dissolução começa.
+
+Para dissolver as nuvens espessas, o coração absorve o calor do sol e o envia para as nuvens. O calor do sol enviado para as nuvens gera febre. Isso se transforma em um furúnculo, e o veneno sai. Quando o veneno aflora na pele, é preciso deixá-lo amadurecer completamente. Quando o pus amadurece completamente, ele se projeta para fora, estoura naturalmente, o pus sai, e a cura ocorre.
+
+Se, nesse estado, for cortado, todo o veneno sairá, e a recuperação será imediata. Mas os médicos cortam imediatamente, removendo apenas o pus superficial, enquanto muito pus ainda permanece no interior. O veneno então se desloca para o lado, e outro furúnculo se forma. Se for cortado novamente, outro aparecerá. O ciclo se repete. Se for cortado quando estiver totalmente maduro, a cura ocorre de uma só vez. Com o poder de Kannon (観音), a purificação ocorre, a dor cessa, e o pus se dilui, acelerando a cura.
+
+A disenteria infantil também começa com o veneno fetal (pus aquoso) que chega ao estômago, causando vômitos e febre. O médico, ao tentar parar o vômito e a febre, que são o trabalho de cura natural do corpo, interfere na cura. A medicina ocidental é uma interferência na cura, e por isso não cura. Resfriar com gelo é o pior que se pode fazer. O calor é necessário para curar, e resfriar faz o oposto, parando a atividade do calor e impedindo a cura. É natural que a doença piore. A febre tenta enviar o veneno para a via de saída, e resfriar impede isso, fazendo com que ele se acumule nos pulmões, causando enfisema. O inchaço de um furúnculo é um bom sinal, pois indica que há vitalidade. Sem vitalidade, não há inchaço, e o pus não pode ser removido. Se isso continuar, a morte é o único resultado possível. Se deixado em paz, o furúnculo incha, o pus sai, e a cura ocorre. A infelicidade é ter nascido em um país com médicos e leis que os protegem.
+
+Os medicamentos todos causam efeitos colaterais. Constipação, problemas de estômago são exemplos. A injeção de glicose também é ruim. A constipação ocorre em pessoas com pouca água no corpo ou com febre. Basta beber mais água ou remover a febre. O uso de laxantes faz com que o órgão responsável pela evacuação se atrofie, piorando a constipação. Quanto mais se toma remédios para curar, mais se fica constipado. Para o estômago doente, toma-se remédio. O estômago para de trabalhar. Toma-se mais remédio. É um círculo vicioso que leva a doenças estomacais, câncer de estômago, e, quando não se pode mais comer, aplica-se glicose. Com isso, o estômago para de trabalhar ainda mais. A morte se torna inevitável. É uma situação lamentável. A injeção de cálcio engorda temporariamente, mas depois a pessoa emagrece e piora. A urticária é uma intoxicação por injeção de cálcio. Aplicar pomada em um furúnculo impede que ele sare, pois o medicamento o suprime. A melhora aparente é apenas um recuo da doença, que voltará a se manifestar. Os medicamentos entram no estômago, no abdômen, no coração. A comida é boa, mas o medicamento, ao entrar no coração, turva o sangue. O sangue turvo enfraquece o corpo. A injeção é ainda pior, pois entra diretamente no coração e se mistura com o sangue.
+
+O corpo humano está em constante processo de purificação, e os resíduos se acumulam principalmente nos ombros e no pescoço. Isso é diferente da fonte da doença que são os pecados e máculas. A rigidez nos ombros pode levar a derrames cerebrais, mas é menos grave que os pecados dos ancestrais. O veneno também pode descer. Injeções na coluna ou na lombar fazem com que ele desça para as pernas, solidificando-se nos tornozelos ou articulações, o que é muito difícil de curar.
+
+As injeções não são absolutas, e a pesquisa constante para criar novas só gera mais doenças. Algumas curam, mas a maioria causa uma recaída em dois ou três dias, e a doença volta pior que antes. A injeção é uma supressão temporária, e por isso é prejudicial. O mais terrível é aplicar injeções em bebês. Isso retarda seu desenvolvimento, o que é um problema sério. O ser humano não deve, em hipótese alguma, ingerir medicamentos. Se adoecer, deve ser tratado imediatamente com o poder de Kannon (観音), que cura cem por cento.
+
+As bactérias foram criadas por Deus para o processo de purificação do sangue humano. Tudo o que existe foi criado por Deus por uma necessidade. As bactérias e os insetos são muito temidos e odiados, o que é uma pena. Graças às bactérias, os seres humanos são conduzidos à saúde, e desfrutamos das bênçãos do saquê, do missô e do shoyu.
+
+**O Método de Saúde Absoluta**
+
+Eliminar as nuvens do ser humano é o fundamento do método de saúde. Para isso, o melhor é banhar-se na luz, entrar em contato com a luz. Venerar Kannon (観音) de manhã e à noite é entrar em contato com a luz, ser iluminado pela luz. A alma recebe a luz e se purifica.
+
+Essa luz tem três níveis: grande, médio e pequeno. A sede é a grande; as filiais, a média; e o altar de Kannon (観音) em casa, a pequena. Por isso, as nuvens são removidas, e a doença não surge. Na Kannonkai, não há doença por essa razão.
+
+Outro ponto é acumular virtude. Ao acumular virtude, a luz aumenta. Salvar as pessoas, fazer o bem, retorna como gratidão, como luz. Por isso, a dignidade da pessoa aumenta, e ela passa a ser respeitada. Uma pessoa com a alma maculada não tem virtude, não tem luz. Vive assustada e parece desprezível.
+
+Para acumular virtude, é preciso trabalhar incansavelmente pelas coisas de Deus, pela sociedade e para salvar os indivíduos. Mesmo que alguém esteja doente e pense que não pode salvar os outros, mesmo doente, pode ajudar a salvar os outros. Pode falar sobre a graça de Deus e levar as pessoas a crer, ou, se forem doentes, a receber o tratamento de Deus. Fazendo isso, a própria doença é curada imediatamente pela virtude acumulada, e se recebe ainda mais luz de Deus.
+
+Conquistar ou guiar um único fiel é um trabalho imenso. Essa pessoa salva outra, que salva outra, e os fiéis se multiplicam em progressão geométrica, o que é extraordinário.
+
+Esse é o método de saúde absoluta. O método de saúde baseado no corpo é secundário. Ao fazer o trabalho de Deus, pode-se comer qualquer coisa e ser extremamente saudável. Nutrição e higiene são questões secundárias, as últimas do Mundo da Noite. A melhor nutrição é a energia espiritual de Deus.
+(15 de setembro de 1935)
+
+---
+
 # sosyo12
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-01-30
 
 ――― Coleção de Ensaios do Mestre Jikan Okada ―――
 Coletânea de Discursos de Jikan
@@ -490,7 +1492,7 @@ Editora: Nippon Goroku-shichi Kyo
 # sosyo04
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-10-05
 
 --- Coletânea de Ensaios do Mestre Okada Jikan ---
 ## Relatos de Milagres
@@ -1275,1043 +2277,6 @@ Formato B6, 78 páginas, Preço: 50 ienes
 Autor: Okada Jikan
 Editor: Shunnosuke Nishiyama
 Editora: Nijuseiki Shuppan Insatsu Goshi Gaisha
-
----
-
-# O que é a Medicina?
-
-**Categoria:** sasshi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu第二篇
-**Título Original:** - | **Status:** -
-
-## O que é a Medicina?
-
-A medicina, como é sabido, tem por desígnio curar todas as enfermidades, aprimorar a saúde do povo e, por meio disso, contribuir para o progresso da nação. É por essa razão, naturalmente, que ela recebe um tratamento especial do governo, figurando como um dos setores mais importantes entre as diversas estruturas do Estado. Ademais, considerando que detém a chave para solucionar a questão dos recursos humanos, um tema de premente importância na atualidade, a magnitude de sua missão é indiscutível.
-
-Até o momento, procurei apontar, com base tanto na teoria quanto na comprovação prática, a totalidade dos equívocos da medicina ocidental. Contudo, emerge aqui uma questão que não pode ser ignorada: refiro-me, como já abordei anteriormente, à saúde dos próprios médicos e de suas famílias. Penso que, se a medicina moderna fosse, em seu verdadeiro sentido, avançada, essa evolução deveria manifestar-se por meio de provas concretas. Por mais que se estruturem teorias acadêmicas, que se anunciem novas teses e se exalte o progresso de novos fármacos, equipamentos e métodos, tudo isso carecerá de significado se não demonstrar eficácia na prática.
-
-Portanto, se a medicina de fato progrediu, ela deveria apresentar ao mundo essa comprovação, silenciando assim aqueles que, como nós, a criticam. Se porventura tal for impossível, a expressão “progresso da medicina” não passará de uma frase vazia. E, nesse caso, não seria o momento de dissolver temporariamente a medicina ocidental e reconstruí-la sob uma nova teoria, fundamentada em fatos? Ao expressar tais ideias, talvez eu seja visto como extremista. No entanto, não proponho esta tese de forma leviana; faço-o por haver razões que a justifiquem. Permitam-me, pois, dissecar esta questão sem reservas.
-
-Primeiramente, a mais poderosa comprovação do valor da medicina ocidental deveria ser, como já mencionado, a capacidade de manter a saúde dos próprios médicos e de suas famílias em um patamar superior ao da população em geral. No entanto, ao observarmos a realidade atual, há indícios que sugerem justamente o contrário: um nível de saúde inferior ao do cidadão comum. Refiro-me à longevidade reduzida dos doutores em medicina e à alta taxa de morbidade entre os médicos. Soma-se a isso a fragilidade de seus familiares e, notadamente, a elevada proporção de filhos de médicos acometidos por tuberculose. É de se supor, obviamente, que os próprios médicos tomem o máximo cuidado para proteger sua vida e que, diante de uma enfermidade familiar, adotem as melhores medidas, superando até mesmo o diagnóstico precoce, o que tornaria improvável qualquer negligência. Todavia, se a realidade é a que descrevi, pode-se afirmar que a chamada medicina preventiva, tão difundida recentemente, também carece de sentido, pois os próprios médicos já demonstraram, em si mesmos, a dificuldade da prevenção.
-
-Nesse sentido, creio que, para a medicina ocidental demonstrar seu avanço à sociedade, seria primordial que a saúde dos médicos e de suas famílias se revelasse muito superior à da população. Tal fato levaria o público a reconhecer, inequivocamente, o progresso da medicina, embora tal feito seja, provavelmente, impossível. Apesar disso, autoridades e especialistas, sempre que se pronunciam, apontam a falta de conhecimento sanitário da população e tentam impor, de forma coercitiva, vacinas e outros métodos. O fato de uma parcela considerável do povo evitar tais práticas ou não lhes dar atenção é uma prova de que a nação não deposita confiança irrestrita na medicina ocidental. Portanto, os responsáveis deveriam, antes de tudo, refletir sobre essa realidade. Mesmo a massa popular sabe o quão preciosa é a vida. Como já expus, a saúde precária dos médicos e de suas famílias, os casos, ainda que raros, de morte súbita após vacinas como a de febre tifoide, ou os estados de quase morte decorrentes da vacina contra difteria, são fatos conhecidos por muitos. Diante disso, é natural que o povo sinta um certo temor. Além disso, não são poucos os casos de vidas perdidas por erros cirúrgicos. Anos atrás, ouvi dizer que um renomado cirurgião realizava com prazer cirurgias em seus pacientes, mas jamais em seus familiares ou parentes, certamente por temer um erro operatório.
-
-Tudo isso ocorre porque a medicina ocidental não demonstra eficácia na prática. Ou, talvez, porque seja incapaz de demonstrá-la. Como consequência, a recente prosperidade de terapias populares e da moxabustão torna-se inevitável. Atualmente, a tendência entre os pacientes é inegável: aqueles que valorizam a teoria recorrem à medicina, enquanto os que prezam a prática buscam as terapias populares.
-
-Não é preciso dizer muito mais. A verdade é que, enquanto a medicina ocidental não comprovar que possui eficácia garantida contra todas as enfermidades e que não acarreta quaisquer efeitos adversos, será impossível obter a confiança plena da nação. Se, porventura, tal eficácia se tornasse realidade, o próprio povo passaria a solicitar as vacinas e o receio das cirurgias se dissiparia. Naturalmente, a moxabustão, criada pelos antigos indianos, a medicina chinesa, desenvolvida há mais de dois mil anos, e as atuais terapias populares desapareceriam por completo. Contudo, apesar de a realidade ser o oposto do que se apregoa, continua-se a discursar sobre o progresso da medicina ocidental, o que deixa no ar um profundo e incômodo paradoxo.
-
-Devo abordar, ainda, outro ponto de suma importância: o Movimento de Saúde Popular e as Diretrizes de Combate à Tuberculose, ambos em curso atualmente. Visto que se baseiam exclusivamente em métodos da medicina ocidental, quais serão seus resultados? Imagino que não conseguirão superar o nível de saúde já observado nas famílias dos próprios médicos. Afinal, se os familiares, que têm o contato mais próximo com os médicos, não alcançam um patamar de saúde superior ao da população geral, o mesmo se aplicará a essas iniciativas. Assim sendo, rogo para que o dispêndio de vastos recursos do tesouro nacional e a alocação de inúmeras pessoas a esses projetos não terminem em vão.
-
-Entretanto, ao se conhecer esta Arte Médica Japonesa, a saúde no lar eleva-se a um patamar muito superior ao da média, permitindo a construção de famílias com saúde ideal. Isso é um fato. Em outras palavras, enquanto a medicina ocidental é extrínseca, esta Arte Médica é intrínseca. Nesse sentido, meu apelo às autoridades é que não dependam exclusivamente da medicina ocidental, mas que investiguem e pesquisem todas as terapias populares, estabelecendo uma política de saúde que tenha a prática como seu pilar.
-
-## Nutrição
-
-Acredita-se que a nutrição, no âmbito da medicina moderna, tenha alcançado um progresso considerável. A interpretação médica sobre o tema é a seguinte:
-
-(Conforme artigo de um especialista)
-
-“Todos nós, diariamente, fazemos cerca de três refeições de forma regular. Isso se dá para repor as substâncias que nosso corpo perde continuamente e, ao mesmo tempo, para construir novos tecidos corporais. Assim, ocorrem incessantemente no organismo dois processos: o de decomposição e o de síntese. O termo ‘metabolismo’ refere-se à soma desses dois processos. Mas qual é o percurso que os alimentos trilham no corpo, desde a digestão e absorção até se tornarem substâncias de reposição ou de síntese?
-
-Começando pelas proteínas, elas são decompostas no aparelho digestivo e transformadas em aminoácidos, que, por sua vez, são absorvidos pela parede intestinal, ingressam na corrente sanguínea e, após passarem pelo fígado, são distribuídos por todo o corpo. Ao chegarem aos tecidos, esses aminoácados são reorganizados em proteínas específicas daquele local. Uma parte deles é novamente decomposta, transformando-se em ureia, ácido úrico, amônia, creatina e creatinina, que, juntamente com sais inorgânicos, são excretados na urina. Como se vê, a proteína, após a digestão, é utilizada como aminoácido para a síntese de tecidos, mas uma parcela também é queimada para gerar energia motora, assim como os carboidratos e as gorduras. Deixemos as proteínas e passemos aos carboidratos. Estes, em sua etapa final, são convertidos em glicose, um monossacarídeo, que é absorvida pela parede intestinal, entra nas veias e é transportada pela veia porta. Consequentemente, a ingestão de uma grande quantidade de carboidratos de uma só vez aumenta o nível de açúcar no sangue. Quando em excesso, essa glicose é armazenada no fígado na forma de glicogênio e, conforme a necessidade, é reconvertida em glicose para suprir o corpo. A glicose é oxidada pelo oxigênio do sangue, fornecendo principalmente energia motora e, nesse processo, gerando uma grande quantidade de dióxido de carbono. Quanto mais intensa a atividade física, mais ativa é a oxidação da glicose, e o glicogênio armazenado no fígado é requisitado para a reposição. Contudo, até que a oxidação da glicose produza dióxido de carbono, há vários produtos intermediários. O ácido úrico é um deles, e, por isso, a medição de sua quantidade é utilizada para aferir o grau de fadiga. Além disso, uma parte dos carboidratos é transformada em gordura no corpo e se deposita. Assim, o consumo excessivo de alimentos ricos em carboidratos leva ao aumento da gordura corporal e, gradualmente, à obesidade.
-
-Por fim, as gorduras. Embora uma parte possa ser digerida e absorvida no estômago, a maior parte segue para o intestino, onde, pela ação da lipase pancreática, a estearina, é decomposta em ácidos graxos e glicerol. Estes atravessam a parede intestinal, são reabsorvidos e se recombinam em gordura, circulando pelo corpo em estado leitoso junto com a linfa. Ao entrarem nas veias, parte da gordura é armazenada como gordura corporal e parte é oxidada para gerar energia. Diferentemente dos carboidratos, no entanto, a gordura se converte principalmente em energia térmica.”
-
-Como se vê, a explicação é extremamente detalhada e, à primeira vista, impressionante, tornando compreensível que o público geral a aceite.
-
-Contudo, por mais pormenorizada que seja essa explicação, creio que ela não transcende o âmbito da imaginação dedutiva dos médicos, obtida por meio da dissecação de cadáveres, da análise de alimentos e do exame de excrementos. Afinal, a organização funcional do corpo humano e a força vital que se manifesta por meio de suas atividades são de um nível muito mais elevado e profundo do que o atual patamar da ciência. Portanto, mesmo que hoje se consiga interpretar a saúde humana sob uma ótica nutricional, seria como olhar para o céu através de uma chaminé e afirmar conhecer a vastidão do universo. Seria, ainda, como determinar o valor de uma obra de arte com base no custo do papel, das tintas e da mão de obra.
-
-Em suma, é preciso reconhecer que a ciência moderna ainda se encontra em um nível muito baixo para compreender em profundidade o misterioso e sublime corpo humano e sua força vital. Naturalmente, pode-se prever que, um dia, o progresso científico atingirá um patamar que permita tal compreensão. Não sendo eu um cientista, não oferecerei uma explicação científica, mas pretendo expor, com base na prática e na experiência, a verdadeira natureza da nutrição por meio de uma lógica indutiva, o que, a meu ver, me isenta de equívocos.
-
-Atualmente, a nutrição está refém das teorias de calorias e vitaminas, que regem todas as suas diretrizes. Afirmo categoricamente: o ser humano pode viver esplendidamente mesmo consumindo alimentos totalmente desprovidos de vitaminas.
-
-O erro fundamental da pesquisa médica reside em seu foco unilateral nos alimentos, ignorando a ação das funções digestivas e de produção de nutrientes no interior do corpo humano. Na verdade, todas as funções do organismo são extraordinários produtores químicos, capazes de transformar os mais diversos alimentos com total liberdade. Contudo, a medicina ainda desconhece o significado dessa força transmutadora. O que seria, então, essa força? Por exemplo, ao comermos arroz, verduras, batatas ou feijão, o mágico que é a função digestiva os transforma em sangue, músculos e ossos. No entanto, por mais que se analise o arroz ou as verduras, não se encontrará um único glóbulo de sangue ou um milímetro de fibra muscular. É somente ao ingeri-los que esses elementos são naturalmente produzidos no corpo, por meio de uma força transmutadora verdadeiramente misteriosa e grandiosa. Portanto, mesmo que se consumam alimentos totalmente sem vitaminas, as insondáveis atividades de diversas funções produzirão vitaminas A, B e C, aminoácidos, glicogênio e todos os demais nutrientes ainda não descobertos.
-
-Diante dessa lógica, pode surgir a seguinte dúvida: se o sangue é formado a partir de alimentos sem elementos sanguíneos, e as vitaminas são produzidas a partir de alimentos sem vitaminas, o que acontece quando se ingere sangue ou vitaminas sob o pretexto de nutrição? O resultado é o seguinte: ao receber sangue ou vitaminas prontos, as funções responsáveis por sua produção cessam suas atividades, pois não há necessidade de trabalhar. Consequentemente, se uma parte das funções do corpo entra em repouso, é natural que outras, interligadas, também parem ou atrofiem.
-
-Tomemos um exemplo simples: a vaca, ao comer capim e palha, produz um delicioso e nutritivo líquido chamado leite. Isso se deve à força transmutadora de suas funções digestivas. Hoje, por mais que o homem utilize todo o seu poderio mecânico, seria impossível produzir leite a partir de capim e palha.
-
-Pelo mesmo princípio, a ingestão de nutrientes como as vitaminas pode trazer bons resultados por um certo período, mas, com o tempo, as funções enfraquecem gradualmente, resultando em uma debilidade geral do corpo. É como andar de carro: embora seja confortável no momento, com o tempo, as pernas se enfraquecem. Assim, o consumo de alimentos nutritivos pode, temporariamente, levar ao ganho de peso e a uma melhor coloração da pele, e as estatísticas podem até mostrar bons resultados. No entanto, passado certo tempo, o corpo se enfraquece. É com base nos bons resultados de estatísticas de um ou dois anos que se criam políticas de incentivo à alimentação nutritiva, o que é, de fato, um grande problema.
-
-Nesse sentido, para fortalecer a força vital humana, é preciso estimular a atividade das funções nutritivas. Para isso, deve-se consumir alimentos com poucos nutrientes, a fim de fazer com que as funções de produção de nutrientes do corpo trabalhem. O exercício físico, naturalmente, também tem esse propósito. Na prática, os agricultores, desde tempos antigos, têm uma alimentação extremamente frugal, e é justamente por isso que conseguem gerar tanta força para o trabalho. Se os agricultores se entregassem a uma alimentação requintada, sua capacidade de trabalho diminuiria. A notória resistência dos coolies da Manchúria, que se alimentam de forma extremamente frugal e consomem o mesmo tipo de comida nas três refeições diárias, também corrobora minha tese. A nutrição atual, entretanto, recomenda o consumo de uma grande variedade de alimentos, o que, como é evidente, não corresponde à realidade.
-
-Ademais, durante a recente Grande Guerra da Ásia Oriental, investigações realizadas após a derrota das tropas americanas, britânicas e holandesas revelaram que sua alimentação era incomparavelmente mais luxuosa que a dos soldados japoneses. Este fato também endossa minha teoria: o soldado japonês, com sua alimentação frugal, é mais forte que o soldado inimigo, com sua alimentação requintada.
-
-Vejamos outro exemplo. Suponhamos que haja uma fábrica de máquinas. Para que uma máquina completa seja produzida, é necessário transportar matérias-primas como ferro e carvão, contar com o trabalho dos operários, queimar o carvão para operar o maquinário e seguir uma série de etapas. Essa é a missão da fábrica, sua razão de existir, sua força vital. Se, em vez disso, máquinas prontas fossem levadas para a fábrica, o trabalho dos operários e a operação das máquinas se tornariam desnecessários. As chaminés não soltariam fumaça; a vida da fábrica cessaria. Consequentemente, os operários seriam demitidos, as máquinas enferrujariam com o tempo e a razão de ser da fábrica desapareceria. O mesmo ocorre com o ser humano. Alimentos nutritivos são, por natureza, alimentos mais completos. Nutrientes como as vitaminas, em especial, são extremamente acabados. Portanto, ao ingeri-los, a “fábrica” interna do corpo não precisa trabalhar, e é natural que as funções se enfraqueçam. Nesse sentido, o ser humano deve consumir alimentos o mais primitivos e frugais possível, para que as funções internas se ativem a fim de transformá-los em nutrientes completos. O próprio processo dessa atividade se manifesta como a força vital humana.
-
-Recentemente, tem-se recomendado mastigar os alimentos o máximo possível, mas isso também é um grande equívoco. Uma mastigação excessiva retira o espaço de trabalho do estômago, enfraquecendo-o. Portanto, o ideal é uma mastigação moderada, ou seja, o nível habitual. O antigo ditado “Quem come rápido é saudável” tem, de fato, sua razão de ser.
-
-A nutrição atual também menospreza o valor nutritivo dos cereais. Pensa-se que os nutrientes se encontram majoritariamente nos acompanhamentos, e grande esforço é dedicado a elaborar cardápios variados, o que também é um erro. Na verdade, os nutrientes dos cereais são o principal, e os acompanhamentos, o secundário. Pode-se até entender que os acompanhamentos são um elemento necessário para tornar o arroz mais saboroso. Como exemplo, certa vez, ao escalar os Alpes japoneses, fiquei surpreso ao ver a marmita do guia que me acompanhava. Era composta apenas de arroz branco, sem nenhum acompanhamento, nem mesmo uma ameixa em conserva. Perguntei-lhe: “É gostoso comer só arroz?”, e ele respondeu: “É muito gostoso”. E com essa alimentação, eles carregavam de doze a treze kan (aproximadamente 45 a 49 quilos) nas costas, subindo e descendo trilhas extremamente íngremes todos os dias, o que é espantoso. Diante de tais fatos, que explicação dariam os nutricionistas?
-
-O fato de o arroz puro, sem acompanhamentos, ser delicioso pode parecer estranho à primeira vista, mas a razão é a seguinte: as funções humanas são feitas para se adaptar ao ambiente. Assim, se uma pessoa mantém uma alimentação frugal, sua língua se transforma e passa a achar aquilo delicioso. Essa transformação da língua parece ser pouco conhecida. Por outro lado, quem se acostuma a uma alimentação requintada, com o tempo, deixa de achá-la tão saborosa e passa a buscar pratos cada vez mais sofisticados, como vemos frequentemente em pessoas de hábitos luxuosos.
-
-Portanto, se minha teoria for aceita, os benefícios para a política de abastecimento alimentar em tempos de guerra, um dos problemas mais importantes da atualidade, seriam imensuráveis.
-
-Passemos agora a discorrer sobre os alimentos. O que são os alimentos? É evidente que o Criador, que deu origem a todos os seres vivos, incluindo o homem, proveu a cada um o alimento adequado para a manutenção de sua vida. Assim, para os seres humanos, foi determinado, em linhas gerais, “o que o homem deve comer”. É preciso saber quais alimentos nos foram dados, e isso é algo bastante simples. A presença do elemento “sabor” como condição para o alimento torna essa identificação clara. Ou seja, o Criador deu ao homem o instinto do paladar e incluiu nos alimentos o “sabor”.
-
-Por esse princípio, todos os alimentos possuem seu sabor específico, e ao comê-los com prazer, eles se tornam nutrição e a vida se mantém. Portanto, discutir se algo tem vitamina ou proteína não tem o menor significado.
-
-Como mencionado anteriormente, se nutrientes como as vitaminas forem necessários ao corpo humano, as funções internas os produzirão e os transformarão a partir de qualquer alimento. Assim, no que diz respeito à alimentação, o natural é o suficiente. Não só não há necessidade de estudos acadêmicos sobre nutrição, como eles podem ser até mesmo prejudiciais. Por esse princípio, surgem diferenças naturais nas preferências alimentares de cada pessoa, de acordo com seu ambiente, profissão, constituição física, etc. O que se deseja consumir em um determinado momento é o que o corpo necessita, e basta ingeri-lo. É como querer água quando se está com a garganta seca.
-
-Vejamos agora a natureza dos alimentos. A nutrição, em sua essência, está contida em maior abundância nos vegetais. Portanto, do ponto de vista puramente nutricional, cereais e vegetais são suficientes para manter a saúde. De fato, é sabido que uma vida baseada exclusivamente no consumo de carnes de peixe, aves e outros animais, sem a ingestão de vegetais, causa septicemia. Por outro lado, nunca ouvi falar que o consumo exclusivo de vegetais cause alguma doença, o que torna a questão clara. É interessante notar que o caráter humano é grandemente influenciado pelo tipo de alimento consumido. Ou seja, quando se come apenas vegetais, o caráter se torna dócil e a mentalidade, não-resistente, o que, em termos de nação, leva à derrota no cenário internacional. A ruína da Índia, embora também se deva a fatores religiosos, teve como causa principal, provavelmente, o fato de a alimentação daquele povo ser baseada quase que exclusivamente em vegetais e leite. No mundo animal, também é evidente que carnívoros como leões e tigres são ferozes, enquanto herbívoros como bois e cavalos são dóceis.
-
-Consequentemente, o vegetariano tende a ter menos desejos materiais, ambição e outras formas de proatividade, de modo que, na sociedade cultural moderna, dependendo de sua situação e função, ele também precisa consumir carnes de peixe, aves e outros animais.
-
-Em uma era de intensa competição internacional e conflitos étnicos como a atual, a carne de animais também se torna necessária, pois o seu consumo gera um espírito competitivo e uma consciência de luta. O fato de os povos brancos terem uma constante predileção por conflitos e de as guerras serem incessantes na Europa também se deve, em parte, a essa razão.
-
-Recentemente, alguns teóricos têm afirmado que o consumo de carne é extremamente prejudicial, mas isso é um equívoco. Mesmo que os alimentos contenham toxinas, estas são extremamente sutis e desaparecem por meio da purificação natural. Portanto, o consumo de carne, desde que não seja em excesso, não causa problemas.
-
-Pelo exposto, compreende-se que a escolha dos tipos de alimento deve ser feita de acordo com a situação e a função de cada indivíduo. No entanto, qualquer que seja a sua situação, a partir dos oitenta anos de idade, os desejos materiais e a consciência de luta perdem sua necessidade. Nesse momento, adotar uma dieta vegetariana é o mais indicado, pois isso é adequado para a saúde e permite uma vida mais longa.
-
-Pelo que foi dito, fica claro o quão adequada é uma alimentação frugal para a promoção da saúde. No entanto, hoje em dia, ao se adoecer, recomenda-se uma dieta de origem animal sob o pretexto de nutrição, o que, na verdade, aumenta a debilidade e tem um efeito negativo na cura da doença.
-
-Quanto ao leite de vaca, ele é adequado para bebês que ainda não têm dentes, mas não o é após o nascimento dos dentes. O surgimento dos dentes significa que a criança já pode consumir alimentos sólidos. A função digestiva se desenvolveu e se tornou apta para alimentos sólidos. Isso é o natural. Portanto, é evidente o erro de um adulto consumir leite de vaca sob o pretexto de nutrição. Que mal isso causa? Causa um enfraquecimento geral do corpo. Como já mencionei, até mesmo a mastigação excessiva dos alimentos leva ao enfraquecimento; portanto, é natural que um líquido como o leite de vaca cause um enfraquecimento ainda maior. Sempre que me perguntam se um adulto deve ou não consumir leite de vaca, costumo rir e dizer: “Se você consome o mesmo alimento que um bebê, não deveria também se comportar como um, engatinhando e sendo carregado no colo?”. Isso também é um mal da medicina, que se apega à teoria e ignora a prática.
-
-Em seguida, quando se adoece, é comum que se recomende canja de arroz com umeboshi (ameixa em conserva), mas isso também é um grande erro. O umeboshi, originalmente, foi criado durante a era dos Estados Combatentes como um alimento para as tropas. A ideia era ter um alimento de pequeno volume que, mesmo em pequenas quantidades, saciasse a fome. Portanto, hoje em dia, é adequado para caminhadas ou alpinismo, mas não para doentes. Estando acamado e com falta de exercício, deve-se consumir alimentos de fácil digestão. Por isso, mesmo em estado de saúde, o consumo de umeboshi tende a diminuir o apetite.
-
-Além disso, sob o pretexto de nutrição, é comum dar óleo de fígado de bacalhau às crianças, o que também está errado. Os alimentos, sejam arroz, trigo, feijão ou verduras, já contêm seus próprios óleos característicos, e as funções internas do corpo os extraem de tudo o que se come. Assim, a quantidade é perfeitamente equilibrada. O fato de se extrair óleo do farelo de arroz, óleo da semente de colza e óleo da soja torna isso claro. Portanto, consumir apenas óleo é uma forma de nutrição desequilibrada e extremamente antinatural. Ou seja, se apenas o óleo é consumido, a função de extração de óleo do corpo atrofia, e o resultado, obviamente, será ruim.
-
-## O Segredo da Longevidade
-
-Não há quem não deseje uma vida longa. Sendo assim, qual seria o método mais eficaz para se alcançar a longevidade? Desde a antiguidade, muito se fala sobre o segredo da longevidade, com relatos de experiências de pessoas longevas que o associam à alimentação, ao consumo de álcool, ao banho, à vida sexual, entre outros. Embora todos esses fatores certamente tenham algum efeito, o método que agora proponho possui, a meu ver, cem por cento de eficácia, tanto do ponto de vista teórico quanto prático. Por isso, eu mesmo pretendo adotá-lo quando ultrapassar os noventa anos de idade.
-
-Como expliquei no capítulo sobre nutrição, as funções do corpo humano possuem a capacidade de produzir os nutrientes necessários. Portanto, o mais crucial é intensificar a atividade dessas funções. Na infância e na juventude, essa atividade é mais vigorosa, o que explica o rápido desenvolvimento. Por esse princípio, para alcançar a longevidade, é preciso, antes de tudo, tornar as funções nutritivas tão ativas quanto as de uma criança. Mas seria isso possível na prática? Acredito que, até certo ponto, sim.
-
-Qual seria, então, esse método? Consiste em adotar uma alimentação extremamente frugal. A menção de tal prática pode surpreender as pessoas de hoje, mas peço que ponderem bem minhas palavras. Se alguém adota uma alimentação extremamente frugal, as funções nutritivas precisam trabalhar intensamente para extrair os nutrientes necessários. Naturalmente, isso fará com que renasça uma atividade funcional semelhante à de uma criança; em outras palavras, um rejuvenescimento das funções começará a ocorrer. E se as funções rejuvenescem, o corpo como um todo inevitavelmente também rejuvenescerá. A esse respeito, vejamos alguns exemplos.
-
-Desde a antiguidade, existe a palavra sennin (仙人), ou eremita. O homem moderno talvez ria ao ouvir tal termo, mas, na realidade, eles existiram de fato. Aparentemente, havia um número considerável deles no Japão, como atestam os registros literários. Os escritos de Hirata Atsutane, como a “História de Torakichi” e as obras que relatam os feitos do Tengu de Akiba, são registros notáveis. Em tempos mais recentes, as figuras do sennin Zuikei e de seu discípulo, o Sr. Gotō Dōmei (que, creio, ainda vive), também o confirmam. No entanto, a verdadeira pátria dos sennin é, sem dúvida, a Coreia. Certa vez, li em um livro sobre o método de treinamento dos sennin coreanos. Segundo o relato, a alimentação deles consistia em folhas de pinheiro moídas finamente e farinha de trigo sarraceno, amassadas com água para formar bolinhos do tamanho de um manjū. No início, comiam três por dia. Após alguns anos nessa prática, passavam a comer dois e, finalmente, apenas um por dia. A maioria das pessoas, dizia-se, conseguia chegar até esse ponto, mas a etapa seguinte era extremamente difícil. O que era? Deixar de comer por completo, não apenas os bolinhos, mas qualquer alimento, vivendo apenas de água. Isso era tão árduo que a maioria desistia. No entanto, havia raros indivíduos que conseguiam, e eram esses que se tornavam verdadeiros sennin. Desde a antiguidade, diz-se que os sennin vivem de “comer névoa”, o que provavelmente se refere a essa prática. Com o avanço do treinamento, o corpo se tornava extremamente leve, e eles conseguiam correr por montanhas e vales como animais selvagens.
-
-Esta é uma experiência minha: em minha juventude, contraí uma doença pulmonar e, para curá-la, adotei uma dieta estritamente vegetariana por mais de três meses. Naturalmente, não usava nem mesmo katsuobushi (flocos de bonito seco). Com a dieta vegetariana, meu corpo ficou muito leve, e eu costumava saltar de lugares altos. Lembro-me até hoje que, mesmo olhando para baixo de grandes alturas, eu não sentia, curiosamente, nenhum medo. Depois, ao retornar a uma alimentação normal, meu estado gradualmente voltou ao comum. Houve também uma época em que comi muita carne, e nesse período meu corpo ficava pesado e eu adoecia com facilidade. Os resultados melhoraram quando restringi o consumo de carne.
-
-Com base nessas experiências, imagino que a força dos japoneses em combate se deva, claro, à sua força espiritual, mas também ao fato de sua alimentação ser mais vegetariana que a dos ocidentais, o que torna seus corpos naturalmente mais leves e ágeis. Essa é uma causa que não pode ser ignorada. Em especial, creio que a excelência dos aviadores japoneses, inigualável pelos ocidentais, se deve em grande parte a essa razão.
-
-A propósito dos aviadores, há outro ponto importante a ser mencionado: o bombardeio em mergulho. Diz-se que os ocidentais não conseguem demonstrar a mesma habilidade audaciosa que os japoneses nessa manobra. A razão é que, ao realizarem um mergulho vertiginoso, eles chegam a sangrar pelos poros. Isso se deve, sem dúvida, à sua dieta carnívora. Ou seja, os carnívoros desenvolvem septicemia, e, como se sabe, na septicemia os vasos sanguíneos se rompem com facilidade e o sangramento, uma vez iniciado, não cessa facilmente. Na guerra atual, contudo, apenas os aviadores alemães realizam o bombardeio em mergulho, e isso se deve ao fato de Hitler ter baseado a alimentação de suas tropas principalmente em vegetais. A Alemanha, anos antes do início da guerra, importou grandes quantidades de soja da Manchúria, e a razão, diz-se, era essa. Além disso, na batalha de Port Arthur, no passado, a rendição do general Stessel se deu, claro, pela grande eficácia do ataque do general Nogi, mas também se diz que o longo cerco ao exército russo resultou na falta de vegetais, e o aumento diário de casos de septicemia entre as tropas acelerou a rendição. No Japão, desde a antiguidade, os samurais, mesmo com o abdômen cortado ou feridos por uma lança, conseguiam segurar a lâmina e falar por algum tempo, algo que seria absolutamente impossível para um ocidental. A razão é que, enquanto o sangramento de um ocidental ferido não para facilmente, o de um japonês não só estanca com mais facilidade, como a carne se contrai e adere à lâmina. Tudo isso se deve à diferença entre uma dieta vegetariana e uma carnívora.
-
-Não se sabe ao certo quão longevos são os sennin, mas li em um livro sobre a sua expectativa de vida. O recorde de longevidade era de oitocentos anos, alcançado por um único indivíduo, mas havia vários que viveram quinhentos ou seiscentos anos. Assim, viver duzentos ou trezentos anos era considerado uma morte prematura para um sennin. Em outro livro, encontrei registros de dezenas de milhares de anos antes do Imperador Jinmu, que descreviam com considerável precisão os feitos de nobres que viveram de duzentos a seiscentos anos.
-
-Imagino que a longevidade dos japoneses esteja intimamente ligada à sua alimentação. Na mais remota antiguidade, é fato que a dieta era exclusivamente vegetariana. A introdução de seres vivos na alimentação começou com os moluscos, como provam os sambaquis encontrados em várias partes do nosso país. Os povos que habitavam a região naquela época não conheciam a arte da pesca, então provavelmente começaram com os moluscos, que eram mais fáceis de coletar. Mais tarde, aprenderam a pescar e passaram a comer peixe, mas mesmo assim, viver mais de cem anos era algo comum. No entanto, como mencionei anteriormente, a chegada da medicina chinesa encurtou drasticamente a expectativa de vida, e a partir da era Meiji, com a introdução da carne e da medicina ocidental, a vida não só se tornou mais curta, como a constituição física também se deteriorou.
-
-É também um fato que os antigos japoneses eram de grande estatura e extremamente valentes. Naquela época, o país era habitado por feras e grandes serpentes que espalhavam o terror por toda parte, e o fato de terem sido subjugadas em uma era sem pólvora nos permite imaginar sua força. A história relata que Yamato Takeru no Mikoto era de constituição imponente e que, ao passar por cima de uma grande serpente, foi envenenado e veio a falecer, o que nos dá uma ideia de sua bravura. Se fosse um homem de hoje, em vez de passar por cima de uma grande serpente, certamente fugiria apavorado ao primeiro vislumbre. A lenda de Susanoo-no-Mikoto, que derrotou a serpente de oito cabeças (Yamata no Orochi) no rio Hii, cujo sangue tingiu as águas de vermelho, também nos permite imaginar a bravura dos antigos.
-
-## Sobre a Medicina Militar
-
-Recentemente, reportagens nos jornais têm exaltado o progresso da medicina militar, que teria reduzido drasticamente as doenças infecciosas nas regiões tropicais do Sul. O público em geral, ao ler tais notícias, fica comovido, acreditando tratar-se de um avanço da medicina, o que é compreensível para quem desconhece a verdade. No entanto, ao se conhecer a realidade, percebe-se que não se trata de progresso algum, mas de um resultado com consequências terríveis.
-
-Como expliquei repetidamente, as doenças infecciosas nas regiões tropicais são a mais vigorosa forma de purificação. As diversas vacinas administradas compulsoriamente antes da partida para o front enfraquecem a força purificadora com suas toxinas medicamentosas. Por essa razão, a purificação não ocorre, e as pessoas não adoecem.
-
-No entanto, as toxinas medicamentosas que conseguem suprimir uma purificação tão intensa, uma vez que se acumulem e se condensem, resultarão, quando a purificação finalmente ocorrer, em algo naturalmente mais maligno que as doenças tropicais. Acredito que a manifestação dessas doenças ocorra justamente na época do retorno à pátria. Prova disso é o grande número de bravos soldados que, desde o Incidente da China, ao retornarem ao Japão, desenvolvem malária, doenças cerebrais e outras enfermidades. Na época das guerras Sino-Japonesa e Russo-Japonesa, isso não acontecia. Seria como ir a um lugar com uma nota promissória, esbanjar dinheiro e, em vez de pagar em espécie, entregar a nota para adiar o problema. Com o tempo, a cobrança chega, com juros que aumentam o valor da dívida, tornando o pagamento um grande esforço.
-
-Durante a Guerra Russo-Japonesa, era motivo de orgulho o fato de que, enquanto a incidência de doenças mentais entre os soldados estrangeiros não era pequena, não havia um único caso entre os soldados japoneses. Na grande guerra atual, no entanto, diz-se que houve um número considerável de casos de doenças mentais, o que, a meu ver, se deve inteiramente às vacinas.
-
-## A Loucura do Pacífico Sul
-
-Recentemente, a expressão “loucura do Pacífico Sul” (Nanyo Baka) tem sido proferida por muitas pessoas. O que ela significa? Que quem passa algum tempo no Pacífico Sul tem suas faculdades mentais gravemente afetadas, e a causa é tida como desconhecida. Gostaria de apresentar minha interpretação a esse respeito.
-
-A causa, sem dúvida, são as vacinas. Como todos sabem, não apenas os soldados e oficiais, mas todos que se dirigem ao Pacífico Sul são submetidos a vacinas compulsórias para a prevenção de doenças tropicais. A parte do corpo mais exposta ao forte sol do Pacífico Sul é a cabeça; portanto, é natural que as toxinas medicamentosas se concentrem ali. A purificação geralmente começa a ocorrer um ou dois anos depois, o que coincide com a época do retorno à pátria. Os sintomas incluem uma mente turva e dispersa, dificuldade de concentração e, consequentemente, dificuldade em realizar trabalhos que exijam precisão. Por essa razão, há um número muito grande de bravos soldados que, ao retornarem, não conseguem mais exercer as funções que desempenhavam antes de partir.
-
-Ouso afirmar: de agora em diante, quase não haverá pessoas que, após irem ao Pacífico Sul, retornem à pátria e mantenham a mesma saúde de antes. A maioria adoecerá e morrerá, ou, se sobreviver, desenvolverá doenças cerebrais. Acredito que apenas uma pequena minoria terá a sorte de levar uma vida normal.
-
-Tais fatos não são, de forma alguma, um exagero, e qualquer um que compreenda a teoria desta Arte Médica concordará. A juventude, o pilar de nossa nação imperial, que busca construir a Esfera de Coprosperidade da Grande Ásia Oriental e realizar a grande obra de Hakkō Iu (八紘為宇), está fadada a se tornar vítima dessa equivocada medicina ocidental. Não seria isso algo verdadeiramente terrível?
-
-## Sobre as Doenças Tropicais
-
-Hoje, ao se considerar o estabelecimento da Esfera de Coprosperidade da Grande Ásia Oriental do ponto de vista sanitário, a superação das doenças tropicais é, sem dúvida, a questão mais importante. Sendo assim, qual é a causa de doenças tropicais como a malária, a dengue, o calazar e outras? Permitam-me interpretá-las do ponto de vista desta Arte Médica.
-
-A saúde humana, em sua essência, foi criada para se adaptar ao clima e ao ambiente local. Portanto, quando um japonês vai para uma região tropical, seu próprio corpo inicia um processo de transformação para se adaptar àquele ambiente. Especialmente quando a temperatura é muito mais elevada que a de sua terra natal, o corpo precisa de uma saúde capaz de lidar com essa diferença. Para isso, a purificação ocorre inevitavelmente, e essa purificação é a doença tropical. Assim, se a doença for deixada seguir seu curso, ela certamente se curará em pouco tempo e gerará imunidade. No entanto, se forem usados medicamentos para interromper a purificação, mesmo que a doença se cure temporariamente, ela poderá reaparecer a qualquer momento. Por esse princípio, pode-se supor, sem grande margem de erro, que a causa de muitas outras doenças endêmicas é semelhante.
-
-## Medicina Esportiva
-
-Gostaria de discorrer sobre o esporte do ponto de vista desta Arte Médica.
-
-Este é um problema de grande gravidade, pois onde o governo e os especialistas ainda não descobriram, reside um grande perigo, e é sobre isso que escreverei agora.
-
-O propósito original do esporte é, sem dúvida, a melhoria da constituição física. No entanto, segundo minha descoberta, os métodos praticados atualmente me levam a suspeitar que os malefícios podem ser maiores que os benefícios.
-
-O aspecto mais prejudicial do esporte é a prática de uma única modalidade por pessoa. Naturalmente, em uma competição, é humano querer ser o melhor, e é aí que reside o interesse. Mas qual é o resultado disso? Como expliquei anteriormente, as toxinas acumuladas no corpo se concentram nos pontos de foco do sistema nervoso, ou seja, nos pontos de aplicação de força do movimento. Assim, elas tendem a se acumular em uma única região.
-
-A esse respeito, apresentarei alguns exemplos de minha experiência. Vejamos os nadadores: eles apresentam um acúmulo acentuado de toxinas na região dos ombros, próxima aos gânglios cervicais. Isso é inevitável devido aos movimentos da natação. E qual é o resultado? Em determinado momento, a purificação ocorre, e esse acúmulo de toxinas gera uma febre baixa, acompanhada de tosse e expectoração. O diagnóstico médico, nesses casos, é de tuberculose pulmonar em estágio inicial.
-
-Por essa razão, não são poucos os nadadores que, após abandonarem a carreira, contraem uma doença pulmonar e perdem a vida.
-
-Os amantes do golfe, por sua vez, quase invariavelmente sofrem de doenças renais. Isso ocorre, naturalmente, porque a maior força é aplicada na região da cintura, fazendo com que as toxinas se acumulem nos rins. Em minha época de tratamento, era uma condição comum em pessoas de alta posição social.
-
-Além disso, é sabido que os maratonistas desenvolvem hipertrofia cardíaca. De qualquer forma, o esporte competitivo é um problema grave que as autoridades deveriam considerar. Nesse sentido, creio que é preciso pesquisar métodos que não se concentrem em uma única modalidade, mas que produzam efeitos equilibrados em todo o corpo.
-
-## A Barbárie da Medicina Ocidental
-
-Recebi, em 30 de junho de 1942, uma carta de uma discípula minha, uma senhora que exerce a profissão em Osaka. Transcrevo-a abaixo, na íntegra:
-
-“Prezado Mestre,
-
-Gostaria de lhe contar uma notícia interessante. Recentemente, surgiu a possibilidade de um médico militar de Quioto vir observar os tratamentos. A história começou há um mês, quando um soldado de vinte e sete anos veio de Quioto. Era um ferido de guerra. Um empilhamento de tanques de guerra causou a morte instantânea de catorze ou quinze homens, e ele, atingido na medula espinhal, escapou por um triz. Foi internado no Hospital da Cruz Vermelha, onde lhe foi ordenado repouso absoluto por um ano. Havia uma febre na região da nuca até a medula, do tamanho da palma da mão. Além disso, três dedos da mão esquerda não tinham força, e ele não conseguia torcer uma toalha. Apesar de serem apenas esses os sintomas, para verificar se havia se tornado uma mielite, extraíram líquido cefalorraquidiano da extremidade inferior da medula espinhal para análise. A dor e o sofrimento nesse momento foram terríveis. Dentro da cabeça, um som estrondoso, como o de tanques rolando, e uma dor, uma dor insuportável. Quando implorou para que parassem, o médico militar gritou: ‘Vai morrer!’. Foi uma experiência terrível. E, no entanto, o resultado do exame não mostrou nada. Em seguida, três dias antes de vir ao meu consultório, disseram-lhe que fariam um novo exame, desta vez perfurando o crânio com uma broca para extrair mais líquido. Ele veio até mim sentindo que a vida lhe escapava. O pai dele, um coronel, está no campo de batalha. Com um único tratamento, metade da febre desapareceu, e no terceiro dia, a febre cessou completamente. A dor de cabeça também sumiu, e a mão esquerda, que estava menor e cujas unhas não cresciam, voltou a crescer, recuperando a força, assim como a mão direita. Em uma semana, quase todo o sofrimento desapareceu. Em um mês, ele pôde retornar ao seu posto de trabalho. Como não podia mais servir como soldado, foi dispensado do serviço militar e disse que queria voltar ao seu trabalho original. Um caso grave, condenado a um ano de repouso absoluto, que viajava de Quioto a Nishinomiya, recuperou completamente o corpo e pôde voltar a trabalhar... Ele não para de dizer que é simplesmente um milagre. Contei isso ao médico militar. Ele disse: ‘Não sei de nada, não me responsabilizo’. Mas acrescentou: ‘Que coisa estranha. Ele está realmente bem. Não tem nada, mas é muito esquisito. Se curou em apenas um mês, não devia ser uma doença... De qualquer forma, leve-me até lá um dia. Quero ouvir a história. Peça a permissão dele’. Na minha opinião, foi uma hemorragia interna que causou a febre. E eles o atormentaram com procedimentos tão drásticos.”
-
-Exemplos como este são inúmeros, mas escolhi este porque me tocou profundamente o fato de um nobre soldado, que arriscou a vida na linha de frente pela nação, ter sido submetido a um sofrimento tão atroz e inútil, e que por pouco não teve o cérebro perfurado. Submeter alguém a um sofrimento tão grande para um exame, embora o médico militar certamente não tivesse má intenção, revela de forma inequívoca a infantilidade e a crueldade do diagnóstico na medicina ocidental. O médico militar pretendia perfurar a medula e o cérebro para investigar, mas minha discípula, com um diagnóstico de um minuto, saberia dizer se havia ou não mielite. E o fato de não ser mielite ficou claro pela cura completa e rápida com um tratamento localizado. No entanto, segundo a medicina, a cura levaria um ano e exigiria repouso absoluto. E mesmo após um ano, a cura seria altamente duvidosa.
-
-Ao analisar este fato, não se pode negar a inferioridade e a barbárie do diagnóstico médico. Ao mesmo tempo, ao imaginar quantas pessoas infelizes sofrem calamidades semelhantes e são forçadas a se resignar em silêncio, só me resta olhar para o céu e suspirar profundamente.
-
-## A Terapia e a Poupança
-
-Hoje, o maior serviço que a retaguarda pode prestar para vencermos a Grande Guerra da Ásia Oriental é, sem dúvida, a poupança. E para poupar, é preciso, naturalmente, estabelecer um orçamento familiar. No entanto, na prática, embora seja possível, com esforço, manter todos os outros itens dentro do orçamento, ou até mesmo abaixo dele, a experiência de todos nos mostra que apenas os gastos com saúde são imprevisíveis. Uma família pode, com muito esforço e sacrifício, acumular algumas economias e sentir-se satisfeita, quando, de repente, um de seus membros é acometido por uma doença. O tratamento médico começa, mas a cura não vem. Se for preciso uma cirurgia ou uma internação, os gastos superam as economias, e a família acaba tendo que contrair dívidas. Exemplos como este não são, de forma alguma, raros.
-
-Diante de tais situações, um orçamento familiar sólido torna-se hoje praticamente impossível. Mesmo que se consiga, por sorte, manter os gastos com saúde dentro do orçamento por seis meses ou um ano, quem pode garantir que, em dois ou três anos, a maioria não enfrentará um grande imprevisto que estoure o orçamento, levando à decepção e ao desânimo? A razão é dupla e evidente: a constituição física dos japoneses de hoje está debilitada, tornando-os muito suscetíveis a doenças, e os tratamentos médicos são pouco eficazes.
-
-É nesse contexto que se revela a grandiosidade deste tratamento. Se houver na família ao menos uma pessoa que o domine e se todos os membros conhecerem os princípios de saúde e a origem das doenças segundo esta Arte Médica Japonesa, eles se tornarão tão saudáveis que raramente adoecerão. E mesmo que adoeçam, a cura será fácil e rápida, sem a necessidade de interromper o trabalho. Assim, não haverá um único centavo de gasto com saúde, e o benefício será imensurável. Além disso, a possibilidade de viver com constante tranquilidade é uma felicidade que não se pode comprar com dinheiro. Portanto, afirmo categoricamente: estabelecer um orçamento familiar sem conhecer esta Arte Médica não passa de um ato de especulação.
-
-Nesse sentido, também, peço ao leitor que imagine o quão imensa é a contribuição que esta terapia pode oferecer à nação no atual momento histórico.
-
-## Saúde Verdadeira e Pseudo-Saúde
-
-Afirmei anteriormente que quase todos os japoneses são, de certa forma, doentes. Ao dizer isso, muitos protestarão: “Isso está errado. Há muitas pessoas saudáveis e ativas por aí”. De fato, se olharmos apenas para a aparência, muitos parecem saudáveis, e é natural que se pense assim. Permitam-me, no entanto, explicar isso em detalhes.
-
-Minha descoberta — a de que a doença é um processo de purificação — significa, em outras palavras, que as toxinas, uma vez solidificadas, passam por um processo natural de dissolução. Portanto, antes que o processo de dissolução comece, não há sintomas de doença, e a pessoa se assemelha a um indivíduo saudável. Ou seja, mesmo quem possui toxinas, se elas estiverem solidificadas e não houver o menor sinal de dissolução, acredita ser saudável, e sua aparência, cor e constituição física também parecem sãs. Assim, mesmo que um médico realize um exame de saúde, o diagnóstico da medicina atual não consegue detectar toxinas solidificadas antes do início da purificação, sendo inevitável o erro de considerá-lo perfeitamente saudável. Por essa razão, não são raros os casos de pessoas consideradas exemplos de saúde pelo diagnóstico médico que adoecem pouco tempo depois e vêm a falecer.
-
-Portanto, chamo de pseudo-saúde o estado daquele que possui toxinas, mas cuja purificação ainda não se iniciou. No diagnóstico desta Arte Médica, no entanto, é possível identificar a totalidade das toxinas em um indivíduo com essa pseudo-saúde. O que a medicina chama de “doença latente” provavelmente se refere a essa imaginação da presença de toxinas. O diagnóstico médico prevê doenças latentes com base em sintomas revelados por esfigmomanômetros, reações à tuberculina, velocidade de hemossedimentação, exames de sangue para sífilis, etc. No entanto, como não é possível saber com precisão em qual órgão ou local o agente patogênico latente se encontra, é natural que não se consiga prevenir o surgimento da doença. Nesse sentido, a chamada medicina preventiva, tão difundida recentemente, não tem o menor significado e, a meu ver, não passa de uma prece vazia.
-
-Desde a antiguidade, diz-se que “o homem é um recipiente de doenças” e teme-se que a qualquer momento uma enfermidade possa surgir. O próprio Buda Shakyamuni incluiu a doença entre os quatro sofrimentos do homem — nascimento, doença, velhice e morte —, considerando-a inevitável. Tudo isso se deve ao fato de que, estando em um estado de pseudo-saúde, não se sabe quando a purificação começará. Portanto, à medida que o número de pessoas verdadeiramente saudáveis aumentar, tais expressões desaparecerão.
-
-Sendo assim, a saúde verdadeira só pode ser alcançada por um ser humano totalmente livre de toxinas. Um corpo tão perfeitamente saudável é, hoje, algo que talvez se encontre em uma a cada dez mil pessoas no Japão. Afinal, os longevos que ultrapassam os noventa anos são pessoas com esse tipo de saúde. Com esta Arte Médica, no entanto, é possível se tornar livre de toxinas, alcançar uma saúde perfeita e viver mais de noventa anos com grande facilidade.
-
-## Ciência e Superstição
-
-Esta Arte Médica Japonesa que criei não utiliza nenhum objeto material como máquinas ou medicamentos; ela cura todas as enfermidades apenas com a técnica das mãos. A técnica das mãos, na verdade, consiste em concentrar e irradiar a energia espiritual inerente ao ser humano, partindo do princípio de que se cura o espírito com o espírito. Sendo, portanto, uma ação do espírito, que é imaterial, não pode ser vista pelos olhos nem tocada pelas mãos. Para o homem moderno, dominado por preconceitos materialistas, é fácil considerá-la não científica. No entanto, uma vez que a técnica é aplicada, ela demonstra um poder de cura tão espantoso que, à primeira vista, não se pode deixar de se maravilhar com o seu mistério. Contudo, ao se conhecer seu princípio fundamental, não há nada de misterioso, e é possível oferecer uma explicação científica.
-
-A verdadeira ciência é, naturalmente, a manifestação da verdade, e a manifestação da verdade deve ser o fato em si, sem a menor mistura de superstição, preconceito ou consciência subliminar. Nesse sentido, meu método de cura é ciência, pois ele de fato cura as doenças, curando-as em sua raiz, sem a preocupação de uma recidiva.
-
-As terapias da medicina ocidental, por outro lado, embora em sua teoria e forma pareçam curar, na verdade não curam. A higiene e os métodos de saúde da medicina ocidental são extremamente engenhosos e detalhados, mas, mesmo que sejam seguidos, a saúde não melhora. Vejam: a constituição física dos povos civilizados está em declínio, indicando um destino de decadência. Há um abismo entre as expectativas que a humanidade deposita na medicina e a realidade. Nesse sentido, não seria a medicina ocidental uma espécie de superstição moderna?
-
-O homem moderno, sempre que fala, aponta o perigo da superstição, acreditando que ela reside apenas na religião e na tradição. Mal sabe ele que a superstição também existe no campo da ciência, tido como o mais avançado. É o fato de se acreditar como verdade aquilo que não é, e de isso, ao longo de séculos, ter se tornado gradualmente parte do senso comum.
-
-Costuma-se dizer que “a fé cura”, o que significa que a ajuda da mente fortalece o efeito. No caso da minha arte médica, no entanto, isso não tem a menor influência. O paciente que recebe o tratamento não precisa acreditar nem um pouco. Pelo contrário, mesmo que o receba com grande desconfiança, o efeito é o mesmo. A esse respeito, apresentarei um bom exemplo.
-
-Trata-se da esposa de um ilustre estadista que por duas vezes foi ministro de Estado. Uma doença crônica de longos anos foi completamente curada em pouco tempo com meu tratamento, e ela passou a ter uma confiança absoluta nesta terapia. Acontece que seu filho, formado pela Universidade Imperial e atualmente funcionário de uma empresa, contraiu um resfriado. Após mais de um mês de tratamento médico, não só não havia melhora, como a doença parecia piorar. A mãe, então, o incentivou a receber meu tratamento. Ao examiná-lo pela primeira vez, vi que o diagnóstico do médico era de pleurisia seca, mas eu disse que era um erro de diagnóstico e que, a meu ver, se tratava de uma nevralgia intercostal. O filho ficou extremamente irritado. “Como ousa dizer que o diagnóstico do maior especialista do Japão, em quem confio, está errado? Jamais receberei o tratamento de um mestre assim”, disse ele. A mãe, no entanto, convicta de que o tratamento médico não o curaria e que apenas minha terapia o salvaria, insistiu veementemente. O filho, que normalmente era muito obediente, desta vez, curiosamente, recusou-se com firmeza, dizendo: “Em qualquer outro assunto, não desobedeceria a meus pais, mas, no que diz respeito a esta doença, não consigo me sentir inclinado a receber seu tratamento”. A mãe, então, pediu ajuda ao marido e, com ambos os pais insistindo, o filho finalmente concordou em receber meu tratamento por apenas uma semana. O interessante é que ele impôs uma condição: que eu não dissesse uma única palavra sobre a doença. Eu aceitei e, em troca, impus minha própria condição: que durante aquela semana ele poderia consultar o médico, mas não poderia usar nenhum medicamento, o que foi aceito. Assim, ele recebeu o tratamento não apenas com desconfiança, mas com um sentimento de oposição. Eu, no entanto, achei a situação interessante. A atitude de oposição significava que não haveria espaço para a influência de fatores mentais, e a condição de não falar sobre a doença impedia qualquer sugestão de cura por meio da palavra.
-
-A condição do paciente, no entanto, era a seguinte: diariamente, ele tinha febre de mais de quarenta graus em crises, com calafrios intensos e suores torrenciais, e a tosse violenta o enfraquecia a cada dia. O médico responsável e o especialista consultado estavam extremamente preocupados e recomendaram a internação. Felizmente ou infelizmente, o hospital escolhido estava com todos os quartos ocupados, e ele não pôde ser internado imediatamente, ficando na lista de espera. Isso foi por volta do quarto dia, e faltavam apenas três dias para completar a semana combinada. A mãe e eu estávamos aflitos. Ela disse: “Se ele for internado neste estado, acho que não sobreviverá. Por outro lado, se a notificação do hospital chegar, não terei como não interná-lo. Por sorte, o hospital está cheio, então, por favor, faça a febre baixar antes que a notificação chegue”. Compreendendo a angústia da mãe e sentindo que era minha chance de mostrar a grande eficácia do meu tratamento, tomei uma decisão. Como a febre de mais de quarenta graus ocorria entre duas e três da manhã, eu queria observar seu estado e decidi passar a noite lá. Era a noite do quinto dia. No sexto dia, não houve grande mudança, e nenhuma notificação do hospital chegou. Finalmente, chegou o sétimo e último dia. Para minha felicidade, pela manhã, recebi o relato de que a temperatura havia caído para 36,8°C. Senti um alívio. Naquele dia, a temperatura máxima foi de 37°C e não passou de 38°C, então o médico cancelou a internação. Depois disso, a temperatura gradualmente voltou ao normal, e ele se recuperou completamente.
-
-Este é, a meu ver, um exemplo perfeito de um caso sem a menor interferência de fatores supersticiosos. Isso demonstra, sem sombra de dúvida, que esta Arte Médica é ciência.
-
-Gostaria de acrescentar minhas observações sobre o paciente acima. A história da doença começou com um resfriado comum, com febre máxima em torno de 38°C e mínima em torno de 36°C, que durou cerca de uma semana. Depois, o quadro piorou um pouco, com a febre máxima chegando a 38,5°C e a mínima a 37,5°C. Isso continuou por cerca de duas semanas, quando, de repente, a febre subiu para mais de 40°C, com tosse, calafrios, etc., como já descrito.
-
-Ao examiná-lo pela primeira vez, vi que a doença em si justificaria uma febre de cerca de 38°C, mas não uma febre tão alta. A febre de mais de 40°C era puramente uma febre de rebote, causada por antipiréticos. Portanto, se ele parasse de tomar os antipiréticos, a febre de rebote diminuiria gradualmente, restando apenas a febre da doença. Expliquei isso à mãe e ao filho. O mais surpreendente foi que, por volta do quinto dia, o médico, após examiná-lo, disse à mãe: “A pleurisia seca inicial está quase curada, mas a persistência da febre de 40°C é um sinal de que a doença avançou para as profundezas do pulmão. Este é um sintoma muito grave, e a internação é absolutamente necessária”. Ao ouvir isso, eu ri e disse: “Não há nada de anormal nos pulmões. Se a doença tivesse avançado para os pulmões, deveria haver uma alteração na respiração. Como a respiração está normal, o diagnóstico do médico está errado. Fique tranquila”. A mãe, então, respirou aliviada. Gostaria de ressaltar que este fato contém uma questão de grande importância.
-
-Começou com um simples resfriado, que deveria ter se curado em cerca de uma semana se deixado seguir seu curso. No entanto, o tratamento médico tentou baixar a febre com antipiréticos, o que causou uma febre de rebote. E essa febre alta foi erroneamente diagnosticada como uma doença pulmonar grave, e a internação foi recomendada. Na internação, naturalmente, o repouso absoluto enfraqueceria o sistema digestivo, os antipiréticos manteriam a febre de rebote, e as injeções, compressas, etc., interromperiam a purificação, levando gradualmente à morte por enfraquecimento. Imagino que a propagação da tuberculose e as mortes decorrentes dela hoje em dia não raramente se devam a esses erros de diagnóstico e tratamento.
-
-Ah, pobres cordeiros! Como poderei salvá-los?
-
-## Tuberculose e a Ação do Sistema Nervoso
-
-A medicina moderna está aumentando os casos de tuberculose pulmonar, como já expliquei. Gostaria agora de criticar essa questão de um ponto de vista diferente.
-
-A principal diferença entre os seres humanos e os outros animais é a existência da vida espiritual. Ou seja, o homem é rico em emoções como alegria, raiva, tristeza e prazer, e sua sensibilidade a estímulos externos é extremamente aguçada. A influência do espírito sobre o corpo também é imensa. Todos sabem que preocupações e ansiedade podem causar diminuição do apetite, palidez, silêncio, melancolia, insônia, dor de cabeça e vários outros fenômenos. Portanto, se esse sofrimento espiritual persistir, pode levar à neurastenia e, em casos extremos, até mesmo à loucura.
-
-Por esse princípio, ao considerarmos o problema da tuberculose hoje, a influência da ação do espírito é algo que não pode ser ignorado, e por isso a explicarei em detalhes. Refiro-me ao fato de que uma pessoa que não tem tuberculose pode desenvolvê-la verdadeiramente por meio da ação do espírito. Por exemplo, suponhamos que em uma família surja um paciente com tuberculose. É natural que todos os membros da família sintam a ansiedade de que um dia possam ser infectados, e esse pensamento fica constantemente em suas mentes. Então, por acaso, um deles pega um resfriado. O que normalmente seria um simples resfriado, facilmente curado, neste caso, faz com que a pessoa pense: “Será que finalmente fui infectado pela tuberculose?”. Nesse caso, ela procura rapidamente um médico. O médico, que também teme que os outros membros da família possam ser infectados, trata o caso com especial cuidado e cautela. O paciente, então, pensa: “É isso mesmo”, e a ansiedade surge, tornando natural que a cura demore. Com isso, ele perde o ânimo, o apetite diminui, e sintomas como palidez, emagrecimento e insônia aparecem um após o outro. Como ele sempre viu e ouviu dizer que esses são sintomas de doença pulmonar, o quadro piora. Finalmente, o médico também começa a hesitar. A ansiedade do paciente aumenta ainda mais, e ele gradualmente se torna um tuberculoso.
-
-A ideia de que se tem tuberculose pulmonar imediatamente leva à associação com a incurabilidade, e a cena final da morte surge em sua mente, transformando-o em um verdadeiro doente pulmonar. Ah! O que começou como um simples resfriado, pela força do pensamento, é impulsionado até a morte.
-
-Isso mostra o quão grande é a influência da ação do espírito. Imagino que, na realidade, o número de pacientes pulmonares que seguem esse caminho seja surpreendentemente alto. Portanto, considerar a tuberculose, que não é absolutamente contagiosa, como contagiosa, e a doença pulmonar, que é curável, como incurável, é, por mais irônico que pareça, uma tática de guerra psicológica.
-
-Entre os animais, diz-se que especialmente os bovinos contraem tuberculose. No entanto, a expectativa de vida de um boi saudável e de um boi com tuberculose não difere, o que significa que a tuberculose não os afeta. Isso também nos mostra o quão terrível é a ação do espírito nos seres humanos.
-
-## O Processo de Cura da Tuberculose
-
-Os sintomas da tuberculose no primeiro e segundo estágios incluem febre baixa, tosse, expectoração, suores noturnos, sensação de fadiga, falta de apetite, etc. Nesse nível, a doença pode ser curada até mesmo pela cura natural. O método consiste em fazer exercícios na medida em que não causem muito sofrimento. Ao fazer isso, os sintomas acima mencionados naturalmente se intensificam. No entanto, como isso promove a purificação, os sintomas gradualmente melhoram, e a cura se aproxima. Quanto à alimentação, uma dieta o mais vegetariana possível é a melhor. A esse respeito, descreverei minha própria experiência.
-
-Aos quinze anos, tive pleurisia e, com tratamento médico, me recuperei completamente em cerca de um ano. Por um tempo, estive bem, mas a doença reapareceu. Desta vez, porém, o progresso não foi bom, e a doença piorou gradualmente. Após mais de um ano, fui diagnosticado com tuberculose pulmonar em terceiro estágio. Eu tinha dezoito anos na época. O último médico que me examinou foi o falecido Dr. Irizawa Tatsukichi. Após um exame minucioso, ele concluiu que não havia mais esperança de cura. Então, tomei uma decisão. Se eu ia morrer de qualquer maneira, não havia outra opção a não ser encontrar um método diferente para me curar milagrosamente, e comecei a procurá-lo. Naquela época, meu único prazer era desenhar, e enquanto olhava álbuns de arte antigos, encontrei um livro com ilustrações de várias ervas medicinais usadas na medicina chinesa. Ao vê-lo, tive uma epifania. Até aquele momento, eu vinha consumindo uma grande quantidade de alimentos nutritivos de origem animal. Além de carne de boi e de frango, eu comia até mesmo canja de arroz cozida com leite. Naquela época, os médicos pregavam que a nutrição se limitava a alimentos de origem animal, e eu segui suas instruções à risca. No entanto, ao ver aquele livro, pensei: “Os vegetais também têm propriedades medicinais e nutritivas”. Refletindo, na era dos Estados Combatentes, a alimentação era quase que exclusivamente vegetariana, e a história nos mostra que heróis e grandes homens surgiram como nuvens. Pensei: “Talvez uma dieta vegetariana seja boa. Especialmente para os japoneses”. Decidi, então, colocá-la em prática. Para ter certeza, experimentei uma dieta vegetariana por apenas um dia e me senti muito bem. Continuei por dois, três dias, e me sentia cada vez melhor. Foi quando percebi o erro da medicina ocidental e, por volta do sétimo dia, abandonei também os medicamentos. Continuei assim por cerca de um mês, e a doença estava quase completamente curada. Mantive a dieta vegetariana por três meses. Como resultado, fiquei mais saudável do que antes de adoecer. Depois disso, tive outras doenças, mas nunca mais tive sintomas de tuberculose, o que prova que me curei completamente. Hoje, com mais de sessenta anos, sou mais vigoroso que um jovem, o que mostra que a tuberculose é uma doença perfeitamente curável. Acredito que este fato possa servir de referência para os pacientes com tuberculose. O que descrevi é o processo de cura natural. Se a esta Terapia for aplicada, não é preciso dizer que o tempo de cura será reduzido a uma fração do que foi.
-
-Agora, explicarei a tuberculose a partir do terceiro estágio.
-
-O processo de cura da tuberculose apresenta uma particularidade que não se vê em outras doenças. Isso se aplica, pode-se dizer, apenas aos pacientes a partir do terceiro estágio. Explicarei a seguir.
-
-Quando um paciente com tuberculose a partir do terceiro estágio recebe este tratamento, ele apresenta resultados muito bons, e em pouco tempo todos os sintomas da doença melhoram, fazendo-o pensar que a cura completa está próxima e se alegrar. De repente, porém, surgem sintomas como febre alta, tosse, expectoração, falta de apetite, etc., o que o surpreende. Essa recidiva é bastante persistente e, embora o tratamento ajude a expelir o veneno e a aliviar os sintomas, não são raros os casos em que o paciente sucumbe devido ao enfraquecimento.
-
-Qual é a razão disso? O paciente com tuberculose, ao ter a purificação inicial suprimida pelo tratamento médico, tem sua força purificadora gradualmente enfraquecida, o que o faz parecer que está melhorando. No entanto, não é uma cura verdadeira, e ele entra em um ciclo de altos e baixos, sem saber quando irá melhorar. É geralmente nesse ponto que ele procura esta Terapia. Nesse caso, as toxinas acumuladas após a primeira purificação são dissolvidas, e um efeito temporário aparece. O paciente recupera o apetite, começa a se exercitar gradualmente, e a força purificadora ressurge, retornando a um estado semelhante ao da primeira purificação. No entanto, se ele estivesse com a saúde que tinha na primeira purificação, sua força física seria suficiente para suportar o processo até o fim e ele se curaria completamente. Mas, como está enfraquecido por um longo período de tratamento equivocado, mesmo que melhore temporariamente, não consegue suportar a intensa purificação e morre de fraqueza.
-
-Portanto, ao tratar um paciente com tuberculose a partir do terceiro estágio, como evitar esse resultado adverso? É o que descreverei a seguir.
-
-Quando o paciente melhora temporariamente e a repurificação ocorre, ele invariavelmente apresenta os seguintes sintomas: um dos lados do bulbo raquidiano, direito ou esquerdo, está particularmente inchado, e ali há febre alta. Se o lado direito estiver inchado, há uma grande solidificação no rim direito; se o esquerdo estiver inchado, a solidificação está no rim esquerdo. Portanto, é raro encontrar alguém com ambos os lados do bulbo em equilíbrio. Naturalmente, quando há uma solidificação em um dos rins, o outro também tem alguma, invariavelmente. E se há uma solidificação nos rins, há sempre uma peritonite purulenta, que é especialmente acentuada nos pacientes com tuberculose.
-
-Essa peritonite também é a causa da falta de apetite. Portanto, quando a repurificação ocorre, na medida em que a solidificação nos rins é dissolvida e reduzida, as toxinas no bulbo e no peritônio se dissolvem com muito mais facilidade. Assim, o tratamento deve ser focado primeiro nos rins, depois no bulbo e no peritônio, e em seguida no estômago, fígado, etc., e, dependendo do caso, pode ser realizado várias vezes ao dia. Com isso, obtêm-se resultados extremamente bons, e o processo de cura se torna suave, de modo que mesmo um paciente em terceiro estágio pode ser completamente curado.
-
-Dessa forma, ao focar o tratamento nos rins, a tuberculose é completamente curada. Se os resultados esperados não aparecerem, é porque a dissolução das toxinas nos rins é insuficiente. Ao intensificar o tratamento renal, os resultados almejados finalmente se manifestarão.
-
-## O Caminho para a Felicidade
-
-Não há ser humano que não deseje a felicidade. A felicidade é, de fato, o maior anseio humano, o seu objetivo final. A maior condição para a felicidade é, sem dúvida, ser uma pessoa livre de doenças e ter uma família onde não haja doentes. Isso é por demais evidente. No entanto, no mundo até hoje, não só é impossível estar completamente livre de doenças, como, mesmo estando saudável, todos carregam a ansiedade de que, a qualquer momento, alguma doença possa surgir. E, se por acaso se adoece, não se pode prever se a cura será fácil ou difícil, o que gera uma imensa insegurança. Por essa razão, mesmo pessoas em situações favoráveis ou que alcançaram o sucesso não conseguem desfrutar da verdadeira felicidade, pois vivem com a ansiedade da doença.
-
-A raiz de toda infelicidade é a doença, como já expliquei repetidamente. A principal razão para se poupar dinheiro é a preparação para uma eventual doença. O seguro de saúde e o seguro de vida também existem por essa razão. Orfanatos, asilos, associações de auxílio mútuo, projetos de assistência social e todas as obras sociais, provavelmente, também existem por essa causa.
-
-Portanto, por mais que um Estado implemente uma política ideal, enquanto não for capaz de solucionar o problema da doença humana, a verdadeira felicidade de seu povo será inalcançável. A saúde é, de fato, o alicerce da felicidade; pode-se até dizer que é a totalidade da felicidade. No entanto, até hoje, não existiu nenhuma arte médica ou método capaz de solucionar fundamentalmente o problema da doença.
-
-Não estou sendo presunçoso. Com a Arte Médica Japonesa e o método de saúde que criei, é possível libertar o ser humano completamente da ansiedade da doença, como já expliquei. Por isso, afirmo categoricamente: apenas quem conhece minha arte médica pode se tornar verdadeiramente feliz. O “caminho para a felicidade”, que a humanidade anseia há milhares de anos, já foi aberto.
-
-## A Arte Médica Divina
-
-Esta arte médica que criei é a verdadeira Arte Médica Japonesa, uma terapia genuinamente japonesa. Gostaria de observá-la de uma perspectiva diferente: a do Xintoísmo japonês, ou seja, do Grande Caminho de Kannagara (惟神). O Grande Caminho de Kannagara é, segundo minha análise, o Caminho do Japão, ou melhor, o Caminho dos Japoneses, ou melhor ainda, o Caminho da humanidade futura. O que significa, então, Kannagara? Desde a antiguidade até hoje, muito se tem dito a respeito, mas creio que a definição mais apropriada para o Caminho de Kannagara seja “o Caminho da Grande Natureza”.
-
-Em essência, a geração, o desenvolvimento, a separação, a união, a prosperidade e o declínio de todos os fenômenos do universo seguem a lógica da natureza. É por meio dela que este mundo avança infinitamente. Ao observar essa realidade, vemos que o que parece antinatural é natural; o que parece acaso é necessidade; o que parece vago obedece a leis rigorosas. Há algo que a sabedoria e a lógica humanas não conseguem sequer perscrutar.
-
-O movimento da Grande Natureza é a própria verdade, naturalmente. E aquele que personifica a verdade e governa o universo é reverenciado como Deus. Portanto, “vontade do universo” e “vontade de Deus” são a mesma coisa. Por esse princípio, a própria Grande Natureza é a vontade de Deus, e a realidade da Grande Natureza é a manifestação da intenção divina.
-
-Nesse sentido, o ser humano respira dentro da Grande Natureza e se desenvolve pela força da Grande Natureza. Portanto, a vida e a morte também deveriam seguir o curso da Grande Natureza, ou seja, da vontade de Deus. Quem se opõe à Grande Natureza perece; quem a segue prospera. É evidente. Por esse princípio, o modelo que o homem deve seguir é a própria Grande Natureza. Seguir o curso da Grande Natureza, ou seja, aprender com a Grande Natureza, é aprender com a intenção de Deus, é avançar segundo a vontade de Deus. Isso é Kannagara. Kannagara é, de fato, uma palavra de poder espiritual (kototama) de extrema profundidade.
-
-Ao aplicar esse princípio à saúde humana, tudo se torna claro. Por que o ser humano nasceu? Naturalmente, para cumprir um propósito necessário ao plano de Deus para esta terra. O fato de cada pessoa possuir características únicas se deve a essa razão. Por isso, o “mei” de “seimei” (vida) é o mesmo “mei” de “meirei” (ordem). Enquanto houver vida, deve-se viver e agir em obediência à ordem de Deus, e essa ordem não deve ser negligenciada. Morrer — ou seja, perder a vida — significa ser liberado da ordem. Portanto, como recebedores da ordem de Deus, os seres humanos devem purificar o corpo e a mente e se empenhar no cumprimento de sua missão. Desde a antiguidade, diz-se que o homem é filho de Deus, instrumento de Deus, templo de Deus, e o significado é exatamente este.
-
-No entanto, se o ser humano, que deveria ser o principal executor da ordem de Deus, prejudica sua saúde, é porque está agindo contra a Grande Natureza, ou seja, contra a vontade de Deus. Portanto, a questão fundamental é descobrir em que pontos se está agindo de forma antinatural. Mas, na fragilidade humana, a incapacidade de descobrir isso levou ao uso de máquinas e medicamentos para tentar curar as doenças, o que não produziu mais do que um efeito temporário.
-
-Seguir Kannagara, ou seja, o curso da natureza, não é algo difícil. É, na verdade, simples e direto. No que diz respeito à saúde, por exemplo, o ser humano, uma vez nascido, alimenta-se do leite materno na infância e, à medida que cresce, passa a consumir alimentos comuns. A Grande Natureza criou, como alimento para o homem, os cinco grãos, vegetais, peixes e aves, dotando-os de formas, aparências, texturas, sabores e aromas variados para agradar ao paladar humano. Portanto, basta que o homem desfrute dos alimentos produzidos em sua terra, colhidos em cada estação. Se ele cumprir suas funções em sua respectiva área de atuação e seguir como modelo o Édito Imperial sobre a Educação, praticando-o com devoção, não há como a falta de saúde existir. A Grande Natureza também realiza um processo de purificação em todas as coisas do céu e da terra. Isso, como consta na Grande Prece de Purificação (Ōharai no Norito), é uma tarefa a cargo dos quatro deuses de Haraedo. Por exemplo, se a sujeira se acumula na terra, o vento a sopra, a chuva a lava e o sol a seca. Em uma casa, se a poeira se acumula, ela é varrida, lavada e limpa. Tudo isso é análogo à doença no ser humano, ou seja, à purificação. Portanto, neste caso, se deixada seguir seu curso, a cura é natural. Durante o período de purificação, se a febre e a dor impedirem o trabalho, deve-se repousar; se não houver apetite, não se deve comer. Isso é o natural. E a purificação humana é realizada pelo próprio corpo, o que é muito conveniente.
-
-Nesse sentido, a arte médica e o método de saúde que proponho têm a natureza como fundamento e seguem a natureza. É por isso que a chamo de Arte Médica Divina (Kannagara Ijutsu).
-
-## O Desígnio Divino
-
-O que é o universo? É um espaço de infinita vastidão onde existem o sol, a lua, a terra e as estrelas, como todos sabem. E esta terra em que vivemos é o centro e o senhor do universo. O sol, a lua e as estrelas existem para a terra, e a terra existe por meio do sol, da lua e das estrelas. Para que o Seu desígnio seja executado, o ser humano foi criado como representante de Deus, e todas as coisas foram criadas para o ser humano, naturalmente. Portanto, a missão do homem é de grande peso e importância. Tendo nascido para manifestar o ideal de Deus nesta terra, é ao tomar consciência disso que ele pode se tornar um verdadeiro ser humano. Nesse sentido, o homem não deve se prender ao egoísmo egocêntrico nem se desviar, por menor que seja, do progresso do Estado e da sociedade. Deve seguir o caminho de Kannagara, reverenciar o Soberano estabelecido por Deus como um Deus manifesto, ter a lealdade e a piedade filial como base, desprezar a ociosidade e se esforçar em suas respectivas áreas de atuação. Só então ele cumprirá seu dever como ser humano. Em especial, os japoneses devem ter consciência de que são o povo de uma nação imperial que coroa o mundo, o povo escolhido por Deus.
-
-O profundo propósito do Deus Supremo e o Seu desígnio são, naturalmente, algo que transcende a imaginação humana. No entanto, podemos imaginar que, para a execução de Seu desígnio, Deus manifesta em cada época os seres humanos necessários e lhes confere missões específicas. Heróis, grandes homens, santos, todos eles o são. As guerras e a paz também existem para esse fim. E assim, esta terra avança passo a passo, infinitamente. Essa realidade é visível aos olhos de todos. Portanto, grandes guerras, grandes catástrofes e grandes desastres naturais, que parecem não ter fim, são sombrios enquanto estamos em seu meio, mas, com o passar do tempo, a luz da paz começa a brilhar novamente, e a tranquilidade é celebrada. O mundo é, de fato, um cenário de incessantes transformações.
-
-Ao se observar com a mente serena e calma a transição da história desde os tempos antigos, percebe-se, ainda que de forma tênue, uma Providência e um propósito divinos, consistentes e rigorosos.
-
-Nesse sentido, há alguns anos, previ que o Japão unificaria o mundo e que uma nova cultura, nascida da fusão das culturas oriental e ocidental, surgiria no Japão e se expandiria para o resto do mundo. Agora, essa previsão está se concretizando passo a passo, a ponto de qualquer um poder percebê-la claramente. A Grande Guerra da Ásia Oriental, o Incidente da China, a Aliança Tripartite, a Conferência de Washington de 5-5-3, a retirada da Liga das Nações, a Primeira Guerra Mundial, a Guerra Sino-Japonesa, a Guerra Russo-Japonesa, a Restauração Meiji — tudo isso foi uma preparação. E, com reverência, o grande édito divino do Imperador Jinmu sobre Hakkō Iu (八紘為宇), proferido em tempos remotos, pode ser visto como uma grande profecia para os dias de hoje.
-
-O fato de o Incidente da China ter se estendido por vários anos foi uma preparação minuciosa para a Grande Guerra da Ásia Oriental. O desenvolvimento dos recursos do Sudeste Asiático pelos Estados Unidos, Grã-Bretanha e Holanda ao longo de dois ou três séculos também o foi. O fato de podermos lutar na Grande Guerra da Ásia Oriental com todas as nossas forças, sem nos preocuparmos com a retaguarda, deve-se ao pacto de neutralidade e ao fato de nossa aliada, a Alemanha, ter infligido um golpe tão duro à União Soviética. A proporção de 5-5-3, que forçou a marinha japonesa a um treinamento intenso, e que hoje nos permite alcançar resultados de guerra tão brilhantes — não seria tudo isso a profunda intenção de Deus? Ao ponderar sobre tudo isso, percebe-se que, para tornar o Japão o líder do mundo, Deus vem executando um profundo desígnio há milhares de anos. De fato, tudo se move pela vontade de Deus, e a história não passa do percurso do Seu desígnio.
-
-## Os Sintomas da Doença e sua Dissecação
-
-Os sintomas da doença podem ser, em linhas gerais, classificados da seguinte forma: febre, dor, prurido, desconforto, vômito, diarreia, edema, suores noturnos, tontura, insônia, melancolia, paralisia, tosse, rubor facial, zumbido, convulsão, calafrios, constipação, etc. Discorrerei sobre eles com base na teoria que desenvolvi em minhas pesquisas.
-
-### Febre
-
-Na medicina, várias teorias sobre a causa da febre foram propostas ao longo do tempo. Atualmente, a teoria geral é que existe no cérebro uma função chamada “centro da febre” e que algum estímulo a essa função gera calor. Diz-se também que a febre é causada pelo movimento dos membros e que é gerada no fígado e nos rins. A temperatura corporal, por sua vez, seria resultado da combustão dos alimentos.
-
-Supondo que essa teoria seja verdadeira, como a febre é gerada quando o veneno da doença estimula o centro da febre? Qual é a natureza dessa função chamada “centro da febre” e por que razão ela gera calor ao ser estimulada? Provavelmente, uma explicação completa é impossível. Afinal, como expliquei anteriormente, a função chamada “centro da febre” simplesmente não existe. Portanto, a ideia de um estímulo do veneno não se sustenta. Acredito que essa teoria equivocada tenha surgido porque, na maioria das doenças com febre, há uma alta temperatura no cérebro, acompanhada de dor de cabeça, o que levou à suposição errônea de que o centro da febre estaria na cabeça. Por isso, para todas as doenças febris, recomenda-se resfriar a cabeça com gelo. A ideia de que o movimento dos membros gera febre provavelmente deriva da simples inferência de que o movimento aumenta a temperatura e que a febre se deve à ocorrência de purificação. A teoria de que o fígado e os rins são a causa da febre provavelmente se deve ao fato de que, na maioria das pessoas, há sempre uma febre baixa localizada no fígado e nos rins devido à purificação de toxinas solidificadas, o que foi mal interpretado.
-
-A teoria de que a temperatura corporal é gerada pela combustão dos alimentos é, talvez, a mais risível de todas. A ideia de que os alimentos queimam dentro do aparelho digestivo é um mistério absoluto. Não seria uma analogia da temperatura corporal com um aquecedor? Ou seja, a digestão dos alimentos foi imaginada como a combustão do carvão.
-
-Ao expor a causa da febre que descobri em minhas pesquisas, gostaria de advertir que esta é, provavelmente, uma teoria inédita. Peço, portanto, que o leitor a leia com atenção e a pondere bem.
-
-Tudo no universo, todos os fenômenos, são constituídos por três elementos primordiais. A geração e o desenvolvimento de todas as coisas dependem da força desses três elementos. Quais são eles? São o sol, a lua e a terra. O sol é a fonte do elemento fogo, a lua, do elemento água, e a terra, do elemento terra. As forças desses três elementos — fogo, água e terra — fluem, se entrecruzam e se unem na vertical e na horizontal. A dimensão vertical se estende do céu à terra, em três estágios: o sol, a lua e a terra. Durante um eclipse solar, quando o sol, a lua e a terra se alinham verticalmente, isso se torna claro. O mundo celestial é o mundo do fogo, centrado no sol; o mundo intermediário é o mundo da água, centrado na lua; e o mundo terreno é o mundo da terra, centrado na terra.
-
-A dimensão horizontal é a própria realidade desta terra em que nós, seres humanos, habitamos. O que isso significa? O mundo real neste planeta é composto de espaço e matéria. A matéria pode ser percebida pelos cinco sentidos, mas o espaço foi por muito tempo considerado como o nada. Com o progresso da cultura, descobriu-se que o espaço não é o nada, mas que contém uma semi-matéria (chamo-a provisoriamente de semi-matéria) chamada ar. No entanto, descobri que no espaço, que até hoje se pensava conter apenas ar, existe outro elemento. A ele, dou o nome de “energia espiritual” (reiki). É verdade que certas religiões falam de um mundo espiritual, de espíritos vivos, de espíritos mortos, de possessão, etc., e que ascetas e mestres espirituais também mencionam o espírito. No Ocidente, com o desenvolvimento da ciência espiritual, a pesquisa sobre o espírito e o mundo espiritual tem avançado consideravelmente, com registros como a famosa obra de Sir Oliver Lodge, “A Sobrevivência do Homem”, e o “Relato da Exploração do Mundo Espiritual” do Dr. Ward, que são bastante críveis. No entanto, o escopo e o objetivo da minha pesquisa são completamente diferentes.
-
-O elemento da matéria é a terra, e é sabido por todos que todas as coisas materiais nascem da terra e a ela retornam. O elemento da semi-matéria, a água, é irradiado da lua e preenche o ar. A energia espiritual, por sua vez, é irradiada do sol e, não sendo matéria nem semi-matéria, mas sim não-matéria, permaneceu desconhecida até hoje. Portanto, para simplificar, pode-se dizer que a terra é matéria, a água é semi-matéria e o fogo é não-matéria.
-
-Assim, o elemento da matéria é a terra, o do ar é a água e o da energia espiritual é o fogo. Esses três elementos se unem intimamente, e daí surge a força. Cientificamente falando, a realidade do universo é a fusão e a atividade desses três elementos como átomos de partículas de tamanho quase inimaginável. O fato de que este espaço que respiramos tem a temperatura, a secura e a umidade adequadas para a vida se deve à fusão e harmonia dos elementos fogo e água. Se o elemento fogo desaparecesse e restasse apenas o elemento água, tudo congelaria instantaneamente. Se, ao contrário, a água desaparecesse e restasse apenas o fogo, tudo explodiria instantaneamente, e nada restaria. Esses dois elementos, fogo e água, unem-se à terra, e a terra gera força, permitindo que todas as coisas sejam geradas e se desenvolvam. Por esse princípio, o fogo queima na vertical e a água flui na horizontal. O fogo queima pela água, e a água se move pelo fogo. O diagrama a seguir ilustra isso.
-
-Desde a antiguidade, diz-se que o homem é um microcosmo, e esse princípio também se aplica ao corpo humano. O fogo, a água и a terra no corpo humano correspondem ao “coração, pulmões e estômago”. O estômago consome o que nasce da terra, os pulmões absorvem o elemento água, e o coração absorve o elemento fogo. O fato de que o coração, os pulmões e o estômago no corpo humano são os órgãos que absorvem os três elementos primordiais e ocupam a parte mais importante da constituição humana corrobora esse princípio. Até hoje, no entanto, o coração era considerado apenas um órgão do sangue, que enviava o sangue venoso para os pulmões para ser purificado pelo oxigênio e depois o recebia de volta, simplesmente porque a existência do elemento fogo era desconhecida.
-
-Dessa forma, o estômago ingere os alimentos, ou seja, o elemento terra, pela boca e pelo esôfago; os pulmões absorvem o elemento água pela respiração; e o coração absorve o elemento fogo pela pulsação.
-
-Portanto, a febre que surge quando uma doença se manifesta ocorre porque o coração absorve do mundo espiritual a quantidade necessária de calor, ou seja, de elemento fogo, para dissolver as toxinas solidificadas na área afetada. A pulsação do coração é uma ação de bombeamento que absorve o elemento fogo do mundo espiritual. O aumento da pulsação antes da febre se deve à absorção mais frequente do elemento fogo. Os calafrios nesse momento ocorrem porque, para absorver a quantidade de calor necessária para a purificação, o envio de calor para o resto do corpo é temporariamente reduzido. A febre baixa quando o processo de dissolução das toxinas termina.
-
-Dessa forma, o coração absorve o elemento fogo do mundo espiritual sem um único instante de descanso — essa é a temperatura corporal. Os pulmões também absorvem continuamente o elemento água do mundo do ar pela respiração, de modo que a quantidade de água obtida pela absorção pulmonar, além da que se bebe, é consideravelmente grande.
-
-Por esse princípio, quando uma pessoa morre, a temperatura corporal desaparece instantaneamente e o corpo esfria, a umidade se evapora, o sangue coagula e o cadáver começa a secar. A explicação é a seguinte: com a morte, o espírito se desprende do corpo e entra no mundo espiritual. Como o elemento fogo do espírito desaparece, a umidade coagula. Em outras palavras, o espírito, que é o elemento fogo, retorna ao mundo espiritual; a umidade retorna ao mundo do ar; e o corpo retorna à terra.
-
-Aqui, há um ponto que requer atenção. Para medir a febre, usa-se o termômetro. Médicos e leigos acreditam que esse método é perfeito, mas, do meu ponto de vista, é extremamente imperfeito. A razão é a seguinte:
-
-Quando há febre, a sua origem é, na verdade, localizada. As pessoas pensam que é em todo o corpo, mas isso é um grande erro. Ao examinar pacientes com febre de cerca de 40°C, vejo que a causa é a purificação de uma solidificação do tamanho da ponta de um dedo. Ao dissolver essa solidificação, a febre baixa em todo o corpo instantaneamente. Uma purificação intensa causa febre em todo o corpo, mas uma purificação fraca é localizada e radial, e não há febre fora da área afetada (que pode ser grande ou pequena). Portanto, ao colocar o termômetro na axila, se houver uma doença nas proximidades, como a purificação de uma toxina na base do braço ou uma nevralgia intercostal, a febre será detectada. No entanto, nesse momento, áreas distantes como a virilha, os rins e a cabeça não terão febre. Na prática, há uma pequena diferença entre a axila direita e a esquerda, e em algumas pessoas a diferença pode chegar a 0,5°C. Por essa razão, a medição da febre com termômetro é imperfeita.
-
-O método que utilizo, no entanto, permite detectar até mesmo a febre mais baixa. Ao colocar a palma da mão, consigo perceber claramente uma febre de um décimo de grau. Isso requer, naturalmente, bastante prática, mas qualquer pessoa pode aprendê-lo com cerca de um ano de experiência.
-
-Agora, explicarei o quão equivocada é a aplicação de gelo para febre alta. A temperatura corporal adequada é de 36 a 37°C, pois essa temperatura é ideal para as funções vitais. Ao aplicar gelo, a temperatura cai para 0°C, e a atividade das funções na área resfriada é severamente prejudicada, naturalmente. Por esse princípio, em casos de derrame cerebral, pneumonia, febre tifoide e outras doenças com febre alta, o tratamento médico invariavelmente inclui a aplicação de gelo na cabeça. Isso faz com que o cérebro entre em um estado de congelamento, levando a uma paralisia e anemia, o que prejudica a atividade das funções. Muitas vezes, a pessoa sucumbe não à doença original, mas à aplicação de gelo.
-
-A aplicação de gelo não só traz esses resultados adversos, como também interrompe a purificação de forma drástica. É algo que deveria ser absolutamente abolido.
-
-Há outro ponto importante: a ação de rebote dos antipiréticos. Provavelmente, nem os especialistas nem o público em geral sonham com isso. O que acontece é que, quando se usa um antipirético continuamente para uma determinada doença, geralmente por mais de uma semana, uma ação de rebote começa a ocorrer gradualmente. É uma reação do corpo contra a ação do antipirético. É como a força de repulsão que surge quando um objeto é pressionado. O mesmo princípio se aplica ao uso de laxantes, que acabam causando constipação, e ao uso contínuo de diuréticos, que acabam reduzindo a quantidade de urina. Assim, usa-se um antipirético porque há febre; e há febre porque se usa um antipirético. Nesse ciclo, uma febre inicial de 37-38°C pode chegar a mais de 40°C. Nesses casos, os médicos ficam em grande dificuldade, pois a causa da febre é desconhecida. A febre persistente dos pacientes com tuberculose se deve, em grande parte, a essa causa. Usar um antipirético com o objetivo de baixar a febre e, como resultado, criar a causa da febre é, embora ainda não se tenha percebido, algo verdadeiramente terrível.
-
-### Dor
-
-O que é a dor? Como já mencionei, a febre da purificação dissolve as toxinas solidificadas. A toxina líquida busca uma saída e avança em uma determinada direção. Esse movimento estimula os nervos dos músculos — essa é a causa da dor comum.
-
-Os sintomas de dor desse tipo são vistos na apendicite, peritonite aguda, nefrite aguda, dor de cabeça, dor de dente, otite média, reumatismo, várias nevralgias, etc., e são de uma variedade imensa. A causa da dor relacionada aos ossos, chamada de periostite, é a dissolução pela purificação das toxinas solidificadas no periósteo. A toxina se move do periósteo para os músculos, estimulando-os.
-
-A toxina solidificada na parte interna do periósteo, ao se dissolver pela purificação para sair, perfura o próprio osso com orifícios minúsculos. O número de orifícios depende da quantidade de toxina. Naturalmente, quanto maior o número, mais intensa a dor. A cárie das costelas, a otite média, a dor de dente e o que se chama de osteomielite são exemplos disso. Quando há esses inúmeros orifícios, os médicos dizem que o osso está apodrecendo, mas isso é um erro. Após a remoção da toxina dissolvida, o osso volta a ser perfeitamente normal. Em seguida, há dores especiais, como a do panarício nos dedos das mãos, a da gangrena nos dedos dos pés e áreas próximas, e a da fístula anal. Essas são, naturalmente, a expulsão de toxinas solidificadas pela purificação, mas como são extremamente venenosas, a dor é intensa. Nesses casos, a primeira e a segunda purificações ocorrem simultaneamente, sem esperar pela primeira, e por isso são mais comuns na juventude, quando a força purificadora é vigorosa. Os médicos dizem que essas doenças se espalham e apodrecem os tecidos adjacentes, mas isso também é um erro completo. Segundo minhas inúmeras experiências, uma vez que uma certa quantidade de toxina se acumula, ela nunca aumenta mais. Após o acúmulo e o inchaço suficientes, o orifício se abre naturalmente, e o pus e o sangue tóxico são expelidos, levando à cura completa. No entanto, a aparência dos sintomas se assemelha à decomposição, e a medicina provavelmente cometeu o erro de acreditar que era decomposição. Por isso, realizam incisões cirúrgicas, transformando as pessoas em deficientes. Repito: com base em meus longos anos de experiência, afirmo novamente que a gangrena e o panarício não apodrecem.
-
-A dor da cólica estomacal é diferente e foi explicada na seção sobre doenças do estômago, então a omitirei aqui.
-
-Há também queimaduras e ferimentos, mas como não são doenças, eles se curam naturalmente com o tempo. Se a dor persistir ou a ferida não cicatrizar, a causa é o uso de desinfetantes. Ao abandonar os medicamentos e lavar a área afetada apenas com água limpa, a cura ocorrerá naturalmente.
-
-Como se vê, as dores causadas por doenças são de uma variedade imensa, mas a causa da maioria delas é o veneno dos medicamentos. O tipo de veneno determina a diferença na dor e nos sintomas.
-
-Segundo minha experiência, os medicamentos chineses se caracterizam por uma ação de amplo alcance e uma dor surda, enquanto os medicamentos ocidentais causam principalmente uma dor aguda, do tipo relâmpago, agulhada, perfurante, etc., e são localizados, o que poderia ser chamado de sua característica.
-
-Em particular, o veneno das injeções muitas vezes se torna a causa de uma dor intensa.
-
-Além do veneno dos medicamentos, há também a dor causada pelo veneno da urina, mas esta é geralmente leve. O veneno inato, por outro lado, quase não causa dor, e a medicina provavelmente o confundiu com a sífilis congênita.
-
-### Prurido
-
-A dor física é conhecida por todos, mas o sofrimento do prurido (coceira) é difícil de entender para quem não o vivenciou. O prurido patológico é, de fato, um sofrimento não inferior à dor. As causas dessa doença são três: veneno de medicamentos, veneno inato e intoxicação alimentar. Começarei com o veneno de medicamentos. A doença de prurido mais conhecida é a urticária. A causa de quase todos os casos é a injeção de cálcio. Quem recebe essa injeção invariavelmente desenvolve alguma urticária. Ela pode aparecer de um a seis anos após a injeção. No entanto, no tratamento da urticária, os médicos usam injeções de cálcio, que têm algum efeito temporário, mas a doença invariavelmente retorna. Originalmente, para sintomas de intoxicação, o uso do próprio medicamento que causou a intoxicação tem um efeito temporário. É como um viciado em morfina que alivia temporariamente seu sofrimento com a morfina, algo que todos sabem. Portanto, a urticária é a expulsão do veneno do medicamento pela pele por meio da purificação. Se a pessoa suportar o sofrimento por um tempo e deixar a doença seguir seu curso, ela se curará. Os sintomas da urticária variam de pessoa para pessoa, mas todos são acompanhados de prurido, o que os torna fáceis de identificar. A intoxicação por antipirina e certos medicamentos injetáveis também podem ser a causa, mas todos se curam naturalmente.
-
-Em seguida, há uma doença de erupção que se assemelha à urticária, mas não é. Enquanto a urticária tem pápulas do tamanho de grãos de milho, esta tem pápulas um pouco maiores, e em casos graves, podem chegar ao tamanho de um feijão. Em casos leves, é localizada, mas em casos graves, pode se espalhar por todo o corpo. O prurido é intenso, e há uma secreção contínua de um pus ralo. Em casos raros, o pus pode se acumular localmente e causar inchaço. A doença é extremamente longa, podendo durar de seis meses a vários anos. Em casos gravíssimos, o sofrimento é tanto que o paciente chega a pensar em suicídio. É uma doença terrível. Mesmo após a cura, muitas vezes ela persiste localmente, e a cura completa pode levar anos.
-
-A causa desta doença é inteiramente o veneno inato oculto. Enquanto a varíola verdadeira é aguda, esta poderia ser chamada de varíola crônica. É o resultado do enfraquecimento da purificação pela vacinação, naturalmente. A pele de um paciente grave no auge da doença se assemelha muito à da varíola.
-
-Em seguida, há sintomas de urticária causados por intoxicação por peixe. Há vermelhidão localizada ou generalizada, febre, erupção e prurido, mas a cura ocorre invariavelmente em dois ou três dias. Isso é, naturalmente, uma intoxicação alimentar relacionada ao intestino. Os médicos, no entanto, erroneamente atribuem a causa da urticária causada pela intoxicação por cálcio ao intestino e realizam um tratamento intestinal, o que é um tiro no escuro e não tem efeito algum.
-
-### Desconforto e Vômito
-
-Existem vários tipos de desconforto, e os sintomas não são fixos, mas os principais incluem náusea, convulsão, calafrios, enjoo em barcos e carros, sensação de torpor, ansiedade, etc. O mais comum é a náusea. As causas incluem a ação reflexa do estômago devido à anemia cerebral, febre alta, intoxicação alimentar, intoxicação medicamentosa, regurgitação ácida, estenose pilórica, etc.
-
-Os três primeiros não precisam de explicação, então explicarei os três últimos. A náusea causada por intoxicação medicamentosa ocorre quando o medicamento líquido é absorvido pela mucosa gástrica e se acumula ao redor do estômago. Com o tempo, ele se torna uma toxina e retorna ao estômago, onde se solidifica. A purificação dissolve essa solidificação, causando náusea e vômito. Nesse momento, o líquido vomitado tem o cheiro do medicamento ingerido.
-
-A regurgitação ácida é a secreção de bile. A bile, que flui continuamente para o estômago, encontra um obstáculo na forma de alimentos estagnados ou medicamentos, o que impede seu papel de auxiliar a digestão, levando à sua secreção e vômito.
-
-O vômito causado pela estenose pilórica ocorre quando o alimento digerido no estômago tem dificuldade de passar para o intestino devido à estenose e tenta retornar para cima. Isso causa a náusea. O fato de que alimentos sólidos causam náusea, mas líquidos não, torna isso claro, pois mesmo com um orifício estreito devido à estenose pilórica, os líquidos conseguem passar.
-
-### Diarreia
-
-A diarreia é um sintoma muito comum e se divide em aguda e crônica. A aguda é frequentemente causada por intoxicação por alimentos e bebidas, ou seja, “intoxicação alimentar”. Costuma-se dizer que é causada por dormir com frio, mas isso é quase sempre um erro; a diarreia causada pelo frio é extremamente rara. Em caso de diarreia por intoxicação alimentar, tenta-se pará-la com medicamentos, mas isso não é correto; o certo é permitir a expulsão natural.
-
-Além da intoxicação alimentar, existe uma diarreia aguda extremamente violenta que surge de repente. Pode ocorrer mais de dez vezes ao dia, em casos graves, dezenas de vezes. Em casos raros, a frequência é tão alta que o paciente perde a consciência e evacua fezes aquosas involuntariamente. Há também diarreias com sangue, que parecem conter carne em decomposição. Tudo isso é a expulsão de pus e sangue tóxico solidificado por uma purificação intensa. Nenhuma partícula de carne ou órgão é expelida. Essa diarreia violenta quase nunca ocorre em idosos e é praticamente exclusiva de jovens, o que mostra que se trata de uma purificação vigorosa. Portanto, se deixada seguir seu curso, a cura é certa. No entanto, em casos de diarreia tão violenta, médicos e pacientes ficam com muito medo e tentam pará-la. O tratamento para pará-la, naturalmente, piora a situação e pode até levar à morte, portanto, é preciso ter cuidado.
-
-Em seguida, há a diarreia crônica, que pode durar meses ou até anos. Os médicos muitas vezes a diagnosticam como tuberculosa e, com medo, aplicam um tratamento para pará-la. Isso também é um grande erro. Na verdade, o pus acumulado no peritônio é dissolvido gradualmente por uma purificação lenta e expelido como diarreia. Esse pus é o veneno da urina que se acumula constantemente no peritônio devido à atrofia renal. Portanto, a menos que os rins sejam curados, a cura completa é impossível, naturalmente. No entanto, se deixada sem tratamento por um período muito longo, a atrofia renal se cura naturalmente, o peritônio também se cura e a diarreia cessa.
-
-### Edema e Suores Noturnos
-
-O edema (inchaço) tem duas causas: problemas nos rins e na bexiga. Quando a causa são os rins, como explicado na seção sobre doenças renais, o edema é causado pelo excesso de urina devido à atrofia renal. Em casos leves, é localizado; em casos graves, afeta todo o corpo.
-
-O edema pode ser particularmente acentuado em um dos lados do corpo. Isso ocorre porque o rim do lado mais inchado está atrofiado. A maioria dos edemas é causada por atrofia renal, mas em casos raros, a bexiga pode ser a causa. Isso acontece quando uma solidificação de pus em forma de grão obstrui a extremidade do ureter ou a saída da bexiga para a uretra, dificultando o fluxo da urina e causando edema. De qualquer forma, em ambos os casos, a dissolução da toxina acumulada leva à cura fácil e completa.
-
-O edema crônico é interessante. Enquanto o agudo é imediatamente aparente, o crônico se acumula de forma imperceptível, e nem o médico nem o próprio paciente percebem. O edema crônico se solidifica sob a pele ao longo de anos ou décadas e é mais comum em pessoas obesas. Essas pessoas têm uma obesidade patológica e, portanto, são propensas a problemas. A esse respeito, houve um caso cômico. Uma estudante era extremamente obesa e tinha uma gordura dura, parecendo, à primeira vista, ter uma excelente constituição física. No exame de saúde da escola, ela foi escolhida como uma das três pessoas com saúde exemplar em sua prefeitura. No entanto, ela sentiu uma dor no peito, uma sensação de peso em todo o corpo, o abdômen inchado e a cintura pesada, e veio me procurar. Ao examiná-la, fiquei surpreso: era uma obesidade causada pela solidificação de um edema em todo o corpo, como descrevi. Após o tratamento, a quantidade de urina aumentou drasticamente, ela perdeu mais de dois kan (cerca de 7,5 kg) e alcançou a verdadeira saúde. Sintomas como esse são bastante comuns, portanto, mesmo pessoas com uma constituição que parece saudável devem ter muito cuidado. Em pacientes com edema, mesmo que não haja proteína na urina, os médicos dizem que a causa não são os rins, mas o coração. Isso é um erro tão absurdo que o coração não tem nada a ver com a urina. Isso se deve ao fato de que o diagnóstico de doença renal se baseia apenas na presença de proteína, e eles não conhecem a existência da doença renal sem proteína.
-
-Os suores noturnos, segundo a interpretação médica, são devidos ao enfraquecimento, mas isso é o oposto da verdade. São o resultado de uma purificação vigorosa. O fato de que pacientes que não tinham suores noturnos começam a tê-los após o tratamento e então melhoram prova que se trata de purificação. O fato de serem raros em idosos e comuns em jovens também torna esse princípio claro.
-
-Aproveitando a oportunidade, falarei sobre a transpiração. Em geral, pessoas saudáveis suam mais, enquanto pessoas fracas suam pouco ou nada. No entanto, há pessoas que suam apenas em uma parte do corpo. Geralmente, é em um dos lados, direito ou esquerdo, e isso ocorre porque o rim daquele lado está atrofiado. Por isso, um veneno leve da urina se acumula constantemente naquela área e é expelido como suor. Pessoas que suam sem motivo aparente também têm a mesma causa e estão doentes.
-
-### Tontura e Insônia
-
-A tontura é uma doença muito comum, mas sua causa é considerada completamente desconhecida pela medicina. No entanto, a causa é, na verdade, simples e clara.
-
-Existem duas causas para a tontura. Uma é o acúmulo de toxinas na região do bulbo, no lado direito da parte posterior do pescoço, que comprime o vaso sanguíneo que irriga o globo ocular. A visão depende da atividade do nervo óptico, e a energia para essa atividade vem do sangue que flui continuamente. Quando o vaso que fornece esse sangue é comprimido por uma toxina solidificada, o fluxo sanguíneo diminui. Nesse momento de redução do fluxo sanguíneo, o nervo óptico enfraquece, e a visão se turva. A solidificação dessa toxina é fortalecida pela primeira purificação, mas como essa purificação é irregular, a visão enfraquece e se fortalece intermitentemente, o que causa os sintomas de tontura. Essa é a causa mais comum.
-
-A outra causa é a febre baixa constante gerada pela purificação das toxinas acumuladas na testa e ao redor dos olhos. Essa febre baixa afeta a visão, assim como a tontura que se sente durante a febre, dor de cabeça, embriaguez ou ao ser exposto diretamente ao fogo de um aquecedor ou fogueira. Essa causa é muito rara.
-
-A causa da insônia também é simples e clara. É quase a mesma da tontura. Enquanto a solidificação da tontura é intermitente, na insônia ela comprime os vasos sanguíneos de forma constante, causando anemia cerebral. A anemia cerebral causada por isso leva à hipersensibilidade nervosa e à tendência de pensar em várias coisas. Portanto, quando eu tratava, ao dissolver essa toxina acumulada, a cura era rápida e precisa, e todos os casos, sem exceção, foram bem-sucedidos.
-
-### Melancolia, Paralisia e Convulsão
-
-A melancolia tem várias causas e sintomas, mas a mais comum é a rigidez no pescoço e nos ombros. Como explicado no item correspondente, a compressão da rigidez reduz o fluxo sanguíneo para o cérebro, causando anemia cerebral.
-
-É interessante notar que crianças que estão constantemente de mau humor e irritadas, um problema cuja causa os médicos não conseguem identificar, geralmente têm os ombros rígidos. Pode parecer estranho que uma criança tenha os ombros rígidos, mas é um fato. Nesse caso, ao tratar os ombros, o humor da criança melhora instantaneamente, e ela volta ao normal, o que prova a causa. A presença de toxinas na testa e na nuca, e a febre baixa constante da purificação, também podem ser a causa da melancolia. A presença de toxinas perto do estômago e a febre baixa da purificação também podem ser a causa. A causa desses sintomas é frequentemente o veneno de medicamentos, mas em casos raros, pode haver uma causa espiritual, que será discutida no item sobre doenças espirituais.
-
-A paralisia tem várias causas e sintomas. A mais comum é o beribéri, que será discutido no item correspondente. Outras paralisias incluem as causadas pelo veneno de medicamentos de injeções (mais comuns nas mãos) e a paralisia que ocorre perto da cicatriz após a cicatrização de uma cirurgia. Todas elas se curam naturalmente, gradualmente, com o tempo, se deixadas sem tratamento. A paralisia localizada causada por um derrame também ocorre. É difícil de curar, mas em casos raros, a cura natural ocorre.
-
-A convulsão tem duas causas. Uma é a purificação mais súbita, que ocorre em casos de febre alta aguda, especialmente em doenças cerebrais. A cólica estomacal e a cólica intestinal também são purificações súbitas. Em casos de convulsão infantil, a intensidade do sofrimento pode fazer com que pareça perigoso, mas a convulsão raramente é fatal, e a recuperação geralmente ocorre com o tempo.
-
-A outra causa é espiritual e será explicada no item correspondente.
-
-### Tosse e Rubor Facial
-
-A tosse já foi explicada em detalhes anteriormente, então aqui adicionarei apenas algumas observações. A causa da tosse pode estar em qualquer parte do corpo, como já foi dito. A ideia da medicina de que a causa da tosse está na garganta é um equívoco completo. Portanto, o uso de inaladores para parar a tosse não tem efeito, como também já foi mencionado. Aqui, descreverei a causa da tosse forte e da tosse fraca. A tosse forte ocorre porque a expectoração é espessa e em grande quantidade, exigindo força para ser aspirada. A tosse fraca, por outro lado, ocorre porque a expectoração é rala e em pequena quantidade. Em casos de tosse fraca, pode-se não ver nenhuma expectoração, mas isso ocorre porque ela é em partículas minúsculas. Nesses casos, geralmente, após um tempo considerável da tosse, uma pequena quantidade de expectoração aparece.
-
-A expectoração que causa a tosse pode vir de locais inesperados, como as pernas, o cérebro e o rosto. A medicina provavelmente nem imagina isso, mas quando eu trato, ao dissolver as toxinas nessas áreas, a tosse surge imediatamente, o que não deixa margem para dúvidas.
-
-O que é o rubor facial (nobose)? Não é o sangue subindo à cabeça, como as pessoas pensam. É a febre localizada na face, causada pela purificação das toxinas acumuladas ali. A vermelhidão, naturalmente, é devida ao calor. Ao dissolver essas toxinas, a cura ocorre.
-
-### Calafrios e Constipação
-
-A causa dos calafrios é a febre localizada ou o acúmulo de toxinas localizado. Frequentemente ocorre na cintura, no baixo-ventre, nas pernas, nas pontas dos pés, etc. É o calafrio localizado causado pela febre da purificação das toxinas acumuladas nessas áreas. Assim como se sente um calafrio generalizado, em um caso localizado, sente-se um frio. Portanto, assim como não adianta se agasalhar durante um calafrio generalizado, quando a parte inferior do corpo está fria, as mulheres podem usar várias camadas de roupas na cintura e ainda sentir frio, e a razão é essa. Pessoas que sentem muito frio dos joelhos para baixo, até as pontas dos pés, têm um acúmulo de toxinas que impede a circulação sanguínea. Como essa área é facilmente exposta ao ar, o frio se intensifica e se torna crônico.
-
-A constipação é muito comum, e as pessoas sofrem com ela por anos, décadas. A causa é o acúmulo de toxinas no peritônio, da área ao redor do umbigo até o baixo-ventre, que comprime o reto, o caminho das fezes. Isso estreita a passagem, e as fezes duras têm dificuldade de passar. Portanto, ao dissolver essas toxinas, a cura é fácil. Quando eu tratava, todos os casos, sem exceção, foram curados.
-
-Pessoas com constipação conseguem evacuar com dificuldade usando laxantes. Como isso funciona? Quando há veneno nos alimentos e bebidas, o corpo se intoxica e ocorre vômito ou diarreia. É uma ação de expulsão pela purificação natural. O laxante aplica esse princípio. Ou seja, ao tomar um medicamento que causa intoxicação, o corpo se intoxica, e isso causa diarreia, ou seja, fezes líquidas. Essas fezes líquidas, por sua vez, liquidificam as fezes endurecidas e as empurram para fora. Como o reto está estreito, as fezes líquidas passam com mais facilidade. No entanto, o uso contínuo de laxantes por anos causa danos devido à intoxicação, que não devem ser subestimados. Pode se tornar a causa de doença renal e várias outras doenças, e até mesmo a causa da morte.
-
-A medicina acredita que a constipação causa doenças e a teme muito, mas isso também é um grande erro. Segundo meus experimentos, tive um paciente de cerca de quarenta anos com câncer de estômago que se curou completamente com cerca de dois meses de tratamento. Durante o tratamento, ele ficou vinte e oito dias sem evacuar, mas isso não teve o menor efeito sobre a doença. Ele está saudável até hoje e trabalha na agricultura. Outro paciente que tratei depois disse que uma vez ficou dois meses com constipação, e outro, seis meses. Ambos não tiveram nenhum problema. Isso mostra que a constipação não tem o menor efeito adverso.
-
-A medicina diz que, se a constipação for deixada sem tratamento, ocorre uma autointoxicação, que se torna a causa de alguma doença. Isso também é um erro. Não sei por que essa teoria surgiu. Talvez tenham imaginado que as fezes endurecidas invadiam a corrente sanguínea. Acredito que, quando a verdade sobre o corpo humano for revelada, a palavra “autointoxicação” desaparecerá.
-
-## Terapias Existentes
-
-Gostaria de explicar brevemente as várias terapias praticadas hoje para o tratamento de doenças.
-
-Primeiramente, o método de tratamento da medicina ocidental é a interrupção da purificação por meio de medicamentos e outros métodos, como o leitor já deve ter compreendido. No entanto, como ainda há coisas a serem ditas, falarei um pouco mais.
-
-Em minha experiência, a terapia mais terrível é a injeção, especificamente o Salvarsan, também conhecido como 606. Como é sabido, este foi por um tempo considerado um salvador no tratamento da sífilis. Mal se sabia, no entanto, que seus resultados eram terríveis. Como também é sabido, a matéria-prima deste medicamento é o arsênico, um veneno tão potente que uma pequena quantidade na ponta de uma espátula pode matar. Portanto, sua injeção tem um poder de interrupção temporária da purificação extremamente forte. Contra as erupções e inchaços da sífilis, a injeção deste medicamento os faz desaparecer instantaneamente, dando a impressão de cura temporária. No entanto, na verdade, as toxinas latentes, que haviam sido empurradas para a superfície da pele pela purificação, com a injeção do medicamento, têm a purificação interrompida e retornam ao seu estado latente anterior. Se fosse só isso, tudo bem, mas o arsênico, pela purificação contínua, se acumula gradualmente em uma parte do corpo. O local de acúmulo mais comum é o cérebro, e o resultado do acúmulo de arsênico no cérebro é, na maioria das vezes, a inevitável doença mental. Nesse momento, os médicos diagnosticam erroneamente como neurosífilis, mas como avaliar o fato de que, na verdade, é o resultado do tratamento para a sífilis? Faltam palavras. A tendência recente de aumento acentuado de doenças mentais, a meu ver, se deve em grande parte ao 606. Em seguida, o que é terrível são as doenças oculares causadas pelo 606, que na maioria das vezes levam à cegueira. Esse sintoma afeta principalmente um dos olhos e é extremamente difícil de curar. Diz-se que os médicos evitam a injeção deste medicamento em pacientes com doenças oculares, pois elas pioram. É claro que ele se torna a causa de várias outras doenças, e, em minha experiência, os sintomas de pacientes que receberam essa injeção levam mais tempo para serem curados.
-
-Em seguida, devo fazer um grande alerta não apenas aos médicos, mas também ao público em geral: os tumores causados pelo veneno das vacinas preventivas. É sabido que muitas pessoas desenvolvem tumores de vários tamanhos nas pernas, especialmente abaixo do joelho. Isso ocorre porque o veneno da vacina preventiva se acumula nas pernas com o tempo e tenta ser expelido pela purificação. Se deixados em paz, eles se curam em pouco tempo, mas como não se sabe disso, usam-se medicamentos, o que prolonga o processo consideravelmente. Em casos infelizes, a adição de mais veneno pelo tratamento médico agrava a situação, e em casos raros, a perna acaba sendo amputada.
-
-Dependendo do líquido da injeção, ele também pode causar panarício e gangrena, portanto, é preciso ter cuidado. E, naturalmente, a cirurgia nesses casos leva a deficiências de vários graus.
-
-A ação reversa dos diuréticos também é um problema a ser observado. Quando um paciente com peritonite tem o abdômen distendido por água na urina, o único método que a medicina usa é o diurético. Com isso, a quantidade de urina aumenta temporariamente, o abdômen diminui e o paciente melhora ou quase se cura. No entanto, é apenas temporário, e a distensão invariavelmente retorna. Então, usa-se novamente o diurético, e o abdômen diminui novamente. Repetindo esse processo, o paciente acaba se intoxicando com o diurético, e o efeito reverso faz com que a quantidade de urina diminua, o abdômen se distenda ainda mais e se torne extremamente resistente, dificultando a redução. Os médicos, então, não têm outra opção a não ser perfurar e drenar a água, mas o resultado é quase sempre ruim, e o paciente sucumbe. Em pacientes que sofreram o efeito reverso dos diuréticos, quanto mais diuréticos foram usados, mais tempo a cura leva, o que mostra que o uso de diuréticos deve ser evitado.
-
-Doenças como a hidrocele, que causa o inchaço dos testículos, e a retenção urinária, também são frequentemente causadas pelo efeito reverso dos diuréticos.
-
-Quando uma dor intensa e persistente, como a da nevralgia, ocorre, a injeção de morfina alivia temporariamente o sofrimento, mas isso muitas vezes se repete. Nesse caso, o apetite diminui muito e, à medida que a situação piora, vômitos frequentes ocorrem, a perda de apetite se agrava e o paciente finalmente sucumbe devido ao enfraquecimento.
-
-A injeção para difteria é considerada altamente eficaz para a doença e tem sido amplamente usada para prevenção e tratamento. No entanto, ainda há muito espaço para pesquisa. Segundo minha pesquisa, o número de pessoas que sofreram resultados adversos com essa injeção é muito grande. Em casos graves, alguns até morreram. Alguns entraram em coma por cerca de uma semana e, após despertarem, tiveram sua personalidade alterada, desenvolveram distúrbios gastrointestinais ou sintomas de neurastenia, que se tornaram extremamente persistentes, durando anos ou décadas. Portanto, mesmo que seja eficaz contra a difteria, é duvidoso se os benefícios superam os malefícios.
-
-Com esta Terapia, a difteria é completamente curada com um único tratamento de dez a trinta minutos.
-
-O iodo é amplamente usado hoje. A intoxicação por iodo também é terrível e se torna a causa de dor de cabeça, neurastenia, doenças estomacais, renais e várias outras. Em algumas pessoas, causa convulsões ou incapacidade de mover os braços e as pernas, mas parece que nem os médicos nem o público em geral sabem muito sobre isso.
-
-O iodofórmio, usado como bactericida em feridas, é o mais terrível. Feridas cirúrgicas muitas vezes levam muito tempo para cicatrizar, e os médicos ficam sem entender. Isso ocorre inteiramente devido à intoxicação pelo desinfetante. Ao abandonar os medicamentos e lavar apenas com água limpa, a cicatrização é rápida. Tive essa experiência muitas vezes e obtive bons resultados. Por que o iodofórmio é terrível? Porque, quando ele penetra nos músculos da ferida, manchas brancas-azuladas semelhantes a pus se formam ao redor ou perto da ferida. Elas aumentam gradualmente, e a aparência se assemelha à decomposição. Os médicos acreditam que é decomposição e, assustados, recomendam a amputação, no caso de braços e pernas. Além disso, a dor é intensa, e para se livrar do sofrimento, o paciente finalmente aceita a amputação. Ou seja, uma ferida que se curaria se deixada em paz, por causa de um medicamento chamado iodofórmio, leva à deficiência. É algo absolutamente espantoso. Ouve-se muito falar de soldados feridos em batalha que têm braços e pernas amputados, e eu suponho que muitos desses casos se devam à intoxicação por iodofórmio. Se for esse o caso, só posso me preocupar.
-
-Em uma palavra, teme-se a invasão de bactérias em uma ferida e, como resultado, realiza-se uma ação bactericida. Mas essa ação bactericida traz resultados muitas vezes mais terríveis que a invasão de bactérias. É o mesmo que “endireitar os chifres e matar o boi”.
-
-Agora, explicarei sobre compressas e emplastros. Eles também fazem o veneno do medicamento penetrar pela pele, interrompendo a purificação na área, o que alivia temporariamente o sofrimento. No entanto, o veneno do medicamento permanece e causa vários efeitos adversos. Apresentarei alguns exemplos de minha experiência. Havia um paciente que, devido à rigidez nas costas, usou continuamente por vários anos um famoso emplastro de venda livre. O veneno do medicamento se acumulou gradualmente na coluna vertebral e áreas próximas, e além da rigidez, uma dor intensa surgiu. Ficou claro que era uma intoxicação pelo emplastro. Outro paciente tinha uma erupção no rosto, um pouco maior que espinhas comuns, que não cicatrizava há mais de dez anos e o atormentava. No início, ele tentou curar as espinhas comuns aplicando vários medicamentos, que penetraram e aumentaram as espinhas, tornando-as persistentes. Outro caso: no início, um eczema apareceu em uma área, e o medicamento aplicado penetrou, transformando-o em um eczema tóxico que se espalhou gradualmente, atingindo todo o corpo. Mesmo assim, sem perceber, o tratamento com pomadas continuou, agravando extremamente a situação. A pele ficou em carne viva, com uma cor roxo-escura, e o paciente gemia de dor, sem que nada pudesse ser feito. Fui forçado a suspirar profundamente diante do erro da medicina. Outros casos, como a intoxicação por sedativos para dor de cabeça, soníferos para insônia, injeção de cocaína para obstrução nasal, etc., são de conhecimento geral, então os omitirei.
-
-A medicina chinesa também causa intoxicação, assim como a ocidental, mas a diferença é que a intoxicação não é tão forte. Os sintomas também não são tão complexos, provavelmente porque quase não surgem novos medicamentos chineses, e as variedades são poucas, mantendo-se presas à tradição. Os sintomas mais comuns de intoxicação por medicina chinesa são a perda de apetite e o vômito. Esse vômito é habitual e geralmente se resolve com um único episódio. No entanto, o vômito tem um cheiro característico, que é o cheiro do medicamento chinês ingerido anteriormente, o que prova a intoxicação.
-
-As pessoas intoxicadas por medicina chinesa frequentemente têm doenças renais, e sua pele é de um amarelo-escuro e sem brilho. A esse respeito, acredito que a pele dos chineses, que não é rosada, mas sim de um amarelo-esverdeado, seja o resultado do uso de medicina chinesa por seus ancestrais.
-
-Tanto na medicina ocidental quanto na chinesa, quem usa muitos medicamentos perde o brilho e a elasticidade da pele, e mesmo jovens podem parecer velhos. No entanto, mesmo essas pessoas, ao abandonarem os medicamentos, rejuvenescem à medida que os sintomas de intoxicação desaparecem com os anos, o que mostra o quão terrível é o veneno dos medicamentos.
-
-Agora, sobre a eletroterapia e a fototerapia. A base dessas terapias é a solidificação das toxinas. Portanto, elas não apenas interrompem a dissolução das toxinas, que são a causa da doença, como também fortalecem a solidificação, tornando-a mais forte do que antes da purificação. Consequentemente, o volume diminui significativamente, e a pessoa pensa que se curou até certo ponto. Na realidade, como a toxina foi solidificada, surge uma dor diferente da dor inicial da doença. A dor inicial da doença é a dor da dissolução da toxina, enquanto a dor posterior é a dor do obstáculo causado pela solidificação. A dor não é fixa e depende da localização; em alguns locais, pode não haver dor.
-
-No entanto, ouve-se falar que a eletroterapia pode ter um efeito milagroso de ressurreição em casos graves à beira da morte. A terapia de solidificação certamente pode ser eficaz quando adequada aos sintomas. Essas pessoas elogiam a eletroterapia. No entanto, em minha experiência, a radioterapia é ruim. Ela solidifica muito bem as toxinas.
-
-A crioterapia e as compressas já foram discutidas, então as omitirei. Para a tosse, usa-se a inalação, o que é ridículo. Como explicado anteriormente, a causa da tosse não está na garganta, então, por mais que se faça inalação, não há efeito algum.
-
-Há também a termoterapia, que consiste em aquecer. Dependendo da doença, pode haver uma melhora temporária, mas dependendo da doença, pode piorar. Em caso de resfriado, acredita-se que aquecer todo o corpo para suar é bom, mas isso também é um erro. Deixar o corpo em paz é melhor para a cura do que forçar o suor. O natural é sempre o melhor. Para o câncer, usa-se a radiação de rádio, mas isso também não tem efeito. Como explicação, citarei apenas um fato: para o câncer de laringe do falecido Almirante Togo, foram usados 350.000 ienes de rádio na época, e mesmo assim, ele perdeu a vida em seis meses.
-
-## Acupuntura e Moxabustão
-
-A moxabustão, que parecia ter entrado em declínio, ressurgiu e tem gozado de considerável popularidade, como é de conhecimento geral. Isso se deve, naturalmente, à ineficácia da medicina ocidental. Gostaria de explicar a respeito. A moxabustão induz as toxinas, que são a causa da doença, por meio de uma queimadura na pele. É o mesmo princípio da acumulação de pus em uma queimadura. Como uma queimadura grande causa dor e deixa uma cicatriz feia, aplicam-se várias pequenas queimaduras dispersas. As toxinas, então, se acumulam nessas pequenas queimaduras de forma dispersa, e há uma melhora temporária. Por isso, com o tempo, as toxinas retornam, e diz-se que, uma vez que se começa a usar a moxa, é preciso continuar a aplicá-la mensalmente ou algumas vezes por ano. A razão é essa. No entanto, diferentemente dos medicamentos, não deixa intoxicação, então não prejudica a saúde. Mas a dor durante o procedimento e, o que não pode ser ignorado, as cicatrizes feias na pele são problemas. O ser humano é a obra-prima do Criador, a quintessência da beleza. Especialmente a mulher, cuja beleza da pele é louvada; no Japão, é chamada de pele de jade, e no Ocidente, o corpo nu feminino é considerado o ápice da beleza. Criar artificialmente marcas de queimadura é se tornar um deficiente da pele e, a meu ver, não se pode escapar do pecado de blasfêmia contra Deus.
-
-A acupuntura, por sua vez, fere os vasos sanguíneos, causa uma hemorragia interna e, com o sangue coagulado, interrompe temporariamente a purificação. Portanto, não é um tratamento radical.
-
-## Doenças e os Equívocos da Medicina
-
-Os equívocos da medicina ocidental foram, creio, suficientemente explicados com base em fatos e de forma teórica. Gostaria, no entanto, de examiná-los de forma prática, abordando as principais doenças.
-
-### I. Amigdalite, Apendicite, Cirurgia
-
-Médicos experientes, que trataram de muitos pacientes, sabem muito bem que os erros no diagnóstico da medicina moderna são extremamente frequentes. Bastaria comparar os diagnósticos com os resultados das autópsias nas faculdades de medicina para se ter uma ideia. Começarei a explicar isso sequencialmente, com base em fatos.
-
-Recentemente, uma das doenças mais comuns é a amigdalite. Como a maioria das pessoas já a teve, começarei por ela.
-
-Qual é a função das amígdalas? E por que a amigdalite ocorre? Provavelmente, a medicina ainda não sabe. Afinal, a remoção cirúrgica é considerada o melhor método. A razão para a cirurgia é que as amígdalas não são apenas desnecessárias, mas também prejudiciais. Se fosse como a medicina diz, então o grande Criador, que criou o ser humano, teria criado uma função inútil e prejudicial. O que a medicina considera desnecessário, o Criador considerou necessário. Não é uma história extremamente incompreensível? Se assim fosse, o cérebro do médico seria superior ao do Criador. O médico moderno, um ser humano, estaria acima do Criador, ou seja, de Deus. É uma presunção espantosa. No entanto, o próprio médico não foi criado pelo Criador? Por mais que o médico use a ciência, ele não consegue criar um único cílio, um milímetro de pele. Portanto, dizer que as amígdalas são desnecessárias é o resultado de uma ilusão de que se compreendeu sua razão de ser, quando na verdade não se compreendeu, e essa ilusão deu origem à cirurgia.
-
-Então, por que as amígdalas existem? Segundo minha descoberta, elas desempenham uma missão extremamente importante. No corpo humano, o local onde as toxinas se acumulam mais facilmente é a região dos gânglios linfáticos do pescoço. Essas toxinas acumuladas precisam ser expelidas pela purificação. Como expliquei anteriormente, pela primeira purificação, as toxinas se acumulam e se solidificam nas amígdalas. Pela segunda purificação, a febre as dissolve, e elas são expelidas como líquido. Ou seja, as amígdalas são a via de expulsão das toxinas. Por esse princípio, quando a amigdalite ocorre, se deixada seguir seu curso, a purificação ocorre de forma suave, e a cura geralmente acontece em dois ou três dias. No entanto, nesse caso, o tratamento médico, com a aplicação de lugol, gelo, compressas, antipiréticos, etc., interrompe a purificação. O atrito entre a purificação e sua interrupção faz com que a cura leve um tempo considerável. E mesmo que se cure temporariamente, não é uma cura verdadeira; é apenas o retorno ao estado anterior à purificação, e a solidificação nas amígdalas permanece. Mas não é só isso. As toxinas que se acumulam depois se somam, e a solidificação aumenta gradualmente. A purificação ocorre novamente. A purificação é interrompida e a toxina retorna. Repetindo esse processo, a doença se torna crônica, e a solidificação aumenta ainda mais. Isso é chamado de hipertrofia das amígdalas. E então, recomenda-se a remoção cirúrgica. Mal se sabe que o aumento das amígdalas a ponto de precisarem ser removidas é o resultado do tratamento médico. E essas amígdalas aumentadas, quando a doença se manifesta, causam uma purificação intensa, com febre alta, inchaço grave da área afetada, fechamento da laringe e, em casos graves, a incapacidade de engolir até mesmo uma gota de água. É por temer essa amigdalite maligna que se recomenda a remoção. No entanto, com a cura natural, a amigdalite se torna cada vez mais branda, da primeira para a segunda vez, da segunda para a terceira, até que finalmente não ocorre mais.
-
-Aqui, devo explicar sobre a anemia cerebral, pois ela está relacionada à amigdalite. Se as toxinas acumuladas nos gânglios linfáticos do pescoço não tiverem as amígdalas, sua via de expulsão, o que acontece? Elas se acumulam e se solidificam nos gânglios linfáticos. Essa solidificação comprime os vasos sanguíneos que irrigam o cérebro, e o cérebro fica com falta de sangue. Isso é a anemia cerebral e também a neurastenia. O grande número de pacientes nos últimos anos que sentem a cabeça turva, com uma sensação de pressão e desconforto, se deve em grande parte a essa causa.
-
-Mas não é só isso. Quando as amígdalas são solidificadas ou removidas, as toxinas acumuladas nos gânglios linfáticos são forçadas a encontrar outra saída. Elas fluem na direção oposta, tentando ser expelidas. Ou seja, passam pelas glândulas parótidas, chegam ao ouvido médio e tentam ser expelidas rompendo o tímpano. Nesse momento, a toxina liquefeita pela febre alta tenta perfurar o osso do ouvido. A dor e a febre disso são a otite média. O aumento de pacientes com otite média nos últimos anos também pode se dever a essa causa. A medicina transforma a amigdalite, que seria uma doença branda, em otite média, que é mais grave. E na otite média, a aplicação de gelo é sempre usada, o que faz a toxina líquida mudar de direção. Ou seja, a toxina que estava fluindo em direção ao ouvido médio muda de direção e avança para o cérebro. Os médicos chamam isso de “meningite causada por otite média”. É espantoso que a amigdalite seja desenvolvida para otite média e, finalmente, para meningite.
-
-Agora, explicarei sobre a apendicite. Esta também é uma doença muito comum nos últimos anos, e, assim como a amigdalite, a remoção cirúrgica é recomendada. A medicina atribui a causa principalmente à alimentação, como a teoria da semente de uva. Eu sempre rio disso. Se uma semente de uva pode causar apendicite, engolir uma semente de caqui ou uma espinha de peixe causaria morte instantânea.
-
-No tratamento médico, tenta-se primeiro interromper a purificação com gelo e fazer a toxina retornar, ou então se realiza a cirurgia imediatamente. Diz-se que, se a cirurgia não for feita rapidamente, ocorre a supuração, o apêndice se rompe e causa peritonite aguda, mas isso também é um erro. E mesmo que o resultado da cirurgia de apêndice seja bom e o paciente retorne ao seu estado de saúde, ele se torna propenso a desenvolver peritonite crônica e doença renal. Qual é a razão disso? Explicarei em detalhes a seguir.
-
-Qual é a causa da apendicite? Para isso, preciso primeiro explicar a função do apêndice. No processo de purificação contínua do corpo, o apêndice é o local de acúmulo de toxinas na parte inferior do corpo, assim como as amígdalas na parte superior. Ou seja, pela primeira purificação, as toxinas se acumulam no apêndice. Nesse momento, ao pressionar a área com o dedo, sente-se uma dor, maior ou menor. A dor intensa indica que o acúmulo de toxinas atingiu um nível grave e que a apendicite, ou seja, a segunda purificação, está próxima. A dor leve indica que o acúmulo de toxinas é leve ou em pequena quantidade. Se, nesse momento, ao pressionar outras partes do abdômen, houver dor, significa que também há acúmulo de toxinas no peritônio, um sinal de uma peritonite aguda associada. O interessante aqui é que, quando o corpo está fraco, a segunda purificação não pode ocorrer. A segunda purificação só ocorre quando a vitalidade é vigorosa. Por isso, é mais comum ocorrer após exercícios intensos e na juventude. E o acúmulo de toxinas até que a segunda purificação ocorra geralmente leva anos, ou até mais de uma década. O fato de ser quase inexistente em bebês e crianças também torna isso claro.
-
-Por essa razão, quando a apendicite ocorre, se deixada seguir seu curso, a cura é fácil. Ou seja, a febre alta liquefaz as toxinas acumuladas, e após dois ou três dias, elas são expelidas como diarreia, e a cura ocorre. A medicina chama a dissolução das toxinas de supuração e a teme, mas, na verdade, é a supuração que leva à cura. Ou seja, quando a supuração ocorre, é um passo antes da diarreia, e pode-se considerar que a cura está a meio caminho. Portanto, no caso de apendicite, o tratamento adequado é jejuar por um dia, consumir líquidos no segundo e terceiro dias, canja de arroz no quarto e quinto dias e, a partir do sexto dia, a cura estará tão avançada que se pode voltar a uma alimentação normal. Com a terapia natural, a dor intensa dura de meio dia a um dia, a dor leve, cerca de dois dias, e a partir do quarto dia, já se pode caminhar dentro de casa. Não é, portanto, uma doença a ser temida.
-
-A causa fundamental da apendicite é a solidificação de uma toxina dura no rim direito, e o excesso de urina da atrofia renal se acumula no apêndice. Portanto, ao dissolver essa toxina solidificada, a recidiva nunca mais ocorrerá.
-
-A peritonite associada não tem relação direta com o apêndice. Ela ocorre porque o acúmulo de toxinas no peritônio entra em purificação ao mesmo tempo. Nesse momento, o tratamento médico pode recomendar a cirurgia, mas o prognóstico é ruim. Alguns médicos evitam a cirurgia e tentam interromper a purificação com outras terapias para fazer a toxina retornar. No entanto, isso leva muito tempo e, como resultado, as toxinas no abdômen se solidificam gradualmente, tornando-o duro como uma tábua. A pressão disso causa distúrbios gastrointestinais, perda de apetite e enfraquecimento grave, e muitos sucumbem.
-
-Mesmo com a terapia natural, é preciso suportar uma dor intensa por cerca de três dias e jejuar durante esse período. No entanto, em vez de arriscar a vida com um tratamento médico, a cura é certa, então suportar o sofrimento por três ou cinco dias não é nada. Como resultado, ocorre uma diarreia violenta, e a cura é completa. A cura geralmente ocorre em duas ou três semanas e, naturalmente, não há preocupação de recidiva.
-
-Aqui, gostaria de acrescentar uma palavra sobre a cirurgia. Hoje, quando se fala em progresso da medicina, sempre se orgulha do progresso da cirurgia. À primeira vista, parece fazer sentido, mas, na verdade, é um grande erro. A remoção da função da área afetada significa a perda de uma função importante do corpo, e é natural que isso tenha um efeito adverso em outras partes. É verdade que, após a cirurgia, há um período de segurança temporário, mas se o órgão de purificação for perdido, as toxinas invadirão todas as outras funções. Esse é o resultado de um método antinatural. A organização do corpo humano é extremamente sofisticada e delicada, e mesmo o menor dano inevitavelmente afetará o todo. É como uma obra de arte: mesmo que uma pequena parte da tela seja danificada, é um dano ao todo, e seu valor diminuirá muito. Em uma casa, se um pilar ou uma pedra da fundação for removida, mesmo que ela não desabe imediatamente, sua segurança será reduzida. A cirurgia não é a remoção da doença; é a remoção da função junto com a doença. Por mais que se justifique, não pode ser considerado um progresso na arte médica. Acredito que a verdadeira arte médica deve remover apenas a doença em si, deixando a função como antes, em seu estado original de nascimento. A cirurgia, se remover um dedo, que é externo, é temida como uma deficiência. Como é um órgão interno, não afeta diretamente a mobilidade ou a aparência, então não é tão temida. Portanto, acredito que o progresso da cirurgia significa que a arte médica não está progredindo. Ou seja, ela se limita a um método verdadeiramente primitivo de alcançar o objetivo do tratamento danificando a área afetada com um bisturi. Nesse sentido, o que hoje se chama de progresso da cirurgia não é um progresso na arte médica, mas um “progresso na técnica”, gostaria de dizer.
-
-### II. Doenças do Estômago
-
-A doença mais comum entre os japoneses é a doença do estômago. Como todos sabem, essa doença tem vários sintomas, mas o início é quase sempre leve. No entanto, devido a erros no tratamento e no estilo de vida, ela se torna gradualmente crônica, com um curso de altos e baixos, e na maioria das vezes, evolui para uma forma maligna.
-
-Portanto, uma vez que se contrai essa doença, mesmo em casos leves, a cura completa é extremamente rara. No início, os sintomas são leves, como indigestão, azia, dor de estômago, etc. Explicarei em detalhes a seguir.
-
-A causa da indigestão é, de forma congênita, o veneno inato, e de forma adquirida, o veneno da urina, o veneno de medicamentos e métodos de alimentação inadequados. No início, o veneno inato ou o veneno da urina se acumula na parte externa do estômago e, gradualmente, se torna uma solidificação que comprime o estômago. Com isso, o estômago atrofia, sua atividade se torna lenta e ocorre a indigestão.
-
-Outra causa, o método de alimentação inadequado, refere-se à recomendação da medicina de que a quantidade de comida e o horário das refeições sejam regulares. Isso é um grande erro. Afinal, o ser humano não é uma máquina, e os alimentos são diferentes. Entre as refeições, pode-se fazer exercícios ou não, e isso naturalmente causa uma diferença na digestão dos alimentos. Os alimentos também, dependendo do tipo, têm uma velocidade de digestão diferente; alguns são digeridos em uma hora, outros levam mais de três. Portanto, se os horários forem regulares, às vezes se está com fome na hora da refeição, outras vezes não. Se estiver com fome, o apetite é bom e a digestão é boa. Mas se ainda não se tem apetite e se come à força porque é a hora, o resultado será ruim. A comida anterior está estagnada, e ao se colocar comida nova por cima, a comida anterior, que está em decomposição e fermentação, com suas toxinas, impede a digestão da comida nova. E antes que ela seja completamente digerida, a hora da próxima refeição chega, e se come à força novamente. Assim, a indigestão se agrava gradualmente. Portanto, o método correto de alimentação é comer depois que a comida anterior foi completamente digerida. E se a comida anterior foi digerida ou não, o apetite é um indicador extremamente preciso, então não há erro. Portanto, o certo é comer quando se tem fome, ou seja, apetite, e não comer quando não se tem. O método correto de alimentação é, portanto, comer o que se quer, na quantidade que se quer, quando se quer — em outras palavras, o natural. O que se quer comer é o que o corpo está pedindo por alguma necessidade naquele momento, então basta comê-lo. A quantidade também tem o mesmo significado; deve-se comer o necessário, ou seja, o quanto se quer. Comer à força algo que não se quer porque é remédio ou nutritivo é um erro, assim como se abster de comer algo que se quer. Parar de comer quando se tem apetite porque se vai comer demais também é errado, e se empanturrar à força quando se está cheio e sem apetite também é, naturalmente, errado. O importante é ser sempre natural.
-
-No entanto, embora esse método seja bom, nem todos podem segui-lo devido às suas circunstâncias. Pessoas com horários de refeição fixos podem ajustar a quantidade. E se se estiver com fome, qualquer comida é deliciosa, e se for deliciosa, é cheia de nutrientes. Portanto, se esse método de alimentação for seguido, a indigestão nunca deveria existir.
-
-No entanto, além do método de alimentação antinatural, quando uma doença estomacal leve ocorre, a maioria das pessoas toma remédios para o estômago. Como os remédios para o estômago são digestivos, no início eles ajudam na digestão e aliviam o sofrimento, dando a impressão de cura. Mas não é uma cura verdadeira, então a doença retorna, a pessoa toma o remédio novamente, a doença melhora e retorna novamente. Nesse ciclo, a doença se torna uma doença estomacal de verdade. Os digestivos, em sua maioria, são bicarbonato de sódio e amolecem os alimentos. A função do estômago, no entanto, é amolecer os alimentos ingeridos por sua própria atividade. Como o digestivo assume parte dessa função, a atividade do estômago atrofia gradualmente. A atrofia causa indigestão, e a indigestão leva ao uso de digestivos. Nesse ciclo vicioso, o estômago enfraquece gradualmente. Além disso, o medicamento, uma vez absorvido, se transforma em veneno e retorna ao estômago, infiltrando-se na parede externa e se solidificando. Essa solidificação se torna um material que comprime o estômago, e ele atrofia ainda mais, se torna lento e relaxa. Isso é a ptose gástrica. Para dissolver o veneno do medicamento, a ação natural envia bile incessantemente para o estômago. Isso é a hiperacidez gástrica. A purificação das toxinas acumuladas no estômago é a causa da dor de estômago. No entanto, existem dois tipos de dor de estômago: a dor da compressão do estômago pela toxina solidificada e a dor da dissolução da toxina solidificada. A primeira ocorre quando o estômago está cheio, pois o estômago e a toxina solidificada se pressionam. A segunda ocorre quando a toxina dissolvida se infiltra no estômago e se acumula em uma parte da parede. A dor ocorre quando o estômago se contrai devido à fome. Geralmente, a primeira é uma dor forte, e a segunda, uma dor leve. A dor intensa da cólica estomacal pertence à primeira categoria e ocorre quando a primeira purificação atinge seu auge, ou seja, quando a solidificação da toxina está mais dura e comprime fortemente o estômago. O tratamento médico usa a injeção de morfina para anestesiar a sensação e aliviar temporariamente a dor, e o paciente repousa e consome alimentos líquidos. Com isso, a purificação enfraquece, a solidificação da toxina se torna mais lenta, e o estômago, enfraquecido pela comida líquida, tem sua resistência reduzida, e uma melhora temporária ocorre. A azia é a febre localizada causada pela dissolução das toxinas acumuladas no estômago.
-
-A causa da úlcera gástrica é, na maioria das vezes, o uso contínuo de digestivos. Em casos raros, o consumo excessivo de álcool também pode ser a causa. Os digestivos amolecem os alimentos e também a parede do estômago. Quando um alimento duro toca a parede amolecida, ela se rompe e sangra. Esse é o sangramento e a dor da úlcera gástrica. Na maioria das vezes, no início, um defeito minúsculo ocorre em uma parte da parede do estômago, e uma pequena quantidade de sangue vaza continuamente. Ele se acumula no fundo do estômago e, à medida que aumenta, pode impedir a digestão. Esse sangramento também pode se infiltrar da parede do estômago para fora, acumulando-se em um local fora do estômago ou na parte superior do intestino. Quando esse acúmulo é grande, o estômago e o peritônio se distendem, e se a purificação causar vômito, uma quantidade surpreendente de sangue é expelida. Nesse momento, o sangue tem uma cor de café e, ao observá-lo de perto, veem-se algumas partículas de sangue. Esse acúmulo de sangue também pode comprimir o piloro, causando estenose pilórica, o que promove o vômito. Isso mostra o quão terrível é o dano dos digestivos.
-
-A úlcera gástrica causada pelo consumo excessivo de álcool, na verdade, ocorre porque os grandes bebedores têm o hábito de usar remédios para o estômago após ou durante o consumo de álcool. Nesses casos, a causa é mais o remédio para o estômago do que o álcool.
-
-Em casos extremamente raros, uma pessoa pode vomitar sangue ou ter pequenas partículas de sangue no catarro sem usar remédios para o estômago, sem dor e sem nenhuma causa aparente. Os médicos têm dificuldade em diagnosticar esse sintoma, mas ele é próximo ao da úlcera gástrica. O que acontece é que um tumor minúsculo se forma em uma parte do estômago, e o sangue vaza dali. Portanto, mesmo que haja vômito de sangue temporário, se deixado em paz, a cura natural ocorrerá.
-
-### III. Doenças Renais e Diabetes
-
-Outra doença muito comum é a doença renal. Ela pode ser aguda ou crônica, mas o que se chama de doença renal é, na maioria das vezes, crônica; a aguda é extremamente rara. Os sintomas da aguda são uma febre de cerca de 40°C e uma dor intensa nos rins, em ambos os lados ou em um deles. Nesse caso, a dor intensa torna impossível mover a cintura, e o paciente geralmente se curva e geme. Uma grande quantidade de proteína é expelida com a urina. Mesmo com a cura natural, a recuperação ocorre de forma suave em uma ou duas semanas.
-
-Os sintomas da doença renal crônica, como se sabe, são a excreção de proteína na urina, edema, dor na cintura, fadiga, etc. Quando há edema, a quantidade de urina diminui. Os médicos interpretam a excreção de proteína como um agravamento da doença e, para eliminá-la, proíbem o consumo de sal, recomendam o consumo de grandes quantidades de leite e usam diuréticos. Todos esses métodos são equivocados. A seguir, apresentarei o princípio que descobri.
-
-Na doença renal, por que a proteína é expelida com a urina é algo que a medicina parece ainda não ter esclarecido. O que é a proteína? Na verdade, é o veneno inato, o veneno da urina e o veneno de medicamentos que se solidificam nos rins. Uma febre baixa, que não aparece no termômetro (mas pode ser sentida com a palma da mão), dissolve essa solidificação, que se torna um tipo de líquido que se infiltra nos rins e é expelido com a urina. Isso é, naturalmente, a purificação. Portanto, na medida em que a proteína é expelida, a doença melhora. A prova disso é que, quando eu trato muitos pacientes com doença renal, ao dissolver a toxina acumulada, uma febre baixa ocorre, e a excreção de proteína aumenta muito por um tempo. Depois, diminui gradualmente, até que finalmente a urina se torna livre de proteína, e a cura completa ocorre. Todos os pacientes com doença renal que tratei seguiram o mesmo caminho e se curaram completamente.
-
-No entanto, há um ponto que requer muita atenção: o fato de que pode haver doença renal mesmo que a urina não contenha proteína. Os médicos determinam a presença ou ausência de doença renal apenas pela proteína. Portanto, quando não há proteína, eles dizem que não há doença renal. Por isso, em casos de edema sem proteína, a causa do edema é desconhecida, e o diagnóstico não pode ser feito. Já ouvi muitos relatos de casos assim. Provavelmente, os médicos também têm essa experiência constantemente. Então, o que é a doença renal sem proteína? É porque a purificação das toxinas solidificadas nos rins não está ocorrendo. Portanto, pacientes com urina sem proteína estão em uma condição pior do que aqueles com proteína, naturalmente. E a área afetada nesses casos está invariavelmente sem febre. Como não há febre, as toxinas solidificadas não se dissolvem, e por isso não há proteína.
-
-Aqui, gostaria de ressaltar que a solidificação de toxinas nos rins tem um efeito adverso. Essa solidificação comprime os rins, e eles atrofiam. Isso é a atrofia renal. Com isso, a função dos rins de processar a urina não é realizada completamente. O processamento de toda a urina se torna difícil, e parte dela se infiltra para fora dos rins. Esse excesso de urina se acumula e se solidifica em várias partes do corpo. O local de maior acúmulo são os ombros, e a “rigidez nos ombros” é isso. O acúmulo no peritônio também é comum, e isso se torna peritonite, apendicite, doença estomacal, asma, pleurisia, a chamada tuberculose pulmonar, linfadenite, piorreia, rigidez no pescoço, doenças oculares, doenças cerebrais, etc. É a causa de todas as doenças. Na Alemanha, há um estudioso que defende a teoria de que todas as doenças são causadas pelo ácido úrico, e há uma certa verdade nisso. Portanto, a atrofia renal deve ser completamente curada, e isso só ocorre com a excreção de proteína. A excreção de proteína é, portanto, o mais necessário.
-
-A medicina, que ainda não descobriu esse princípio, teme a excreção de proteína e, por isso, proíbe o consumo de sal. No entanto, o corpo humano enfraquece significativamente se não consumir sal. O consumo de leite também aumenta o enfraquecimento, assim como o repouso. Quando esses três métodos são seguidos, o enfraquecimento é completo, a purificação é interrompida, a febre baixa nos rins desaparece e, consequentemente, a urina se torna livre de proteína, o que dá a impressão de cura. Mas não é uma cura verdadeira. Por isso, uma vez que se torna um paciente renal, a doença se torna crônica, com um curso de altos e baixos, e a cura completa é rara. Por esse princípio, para se curar rapidamente, deve-se fazer muito exercício, ter febre alta e expelir muita proteína. Esse é o melhor método de tratamento, e a alimentação, naturalmente, pode ser a normal.
-
-A tuberculose renal é extremamente rara; o erro de diagnóstico é mais comum. Nesses casos, os médicos recomendam a remoção de um dos rins.
-
-No entanto, mesmo que o resultado da cirurgia seja bom, a vitalidade geral diminui, e a atividade como uma pessoa normal se torna difícil. Os médicos parecem basear o diagnóstico de tuberculose na presença de sangue na urina. No entanto, em minha experiência, também há sangue na urina por outras causas. A razão é que a febre baixa ou leve da pielonefrite na parte superior das glândulas inguinais aquece constantemente a área do ureter. Quando a urina desce pelo ureter, ela se torna quente, e ao passar pela uretra, a mucosa da uretra, que é fina, se queima. O sangue vaza do defeito da queimadura e se torna sangue na urina. Ao dissolver as toxinas na área da febre baixa, a cura geralmente ocorre facilmente em poucos dias.
-
-No entanto, em casos raros, existe a verdadeira doença renal tuberculosa. Há dor nos rins, que se move para a bexiga, para a próstata e para os testículos. É uma doença maligna, com muita dor, e a mais difícil de tratar.
-
-O diabetes, segundo a medicina, é uma doença do pâncreas. Diz-se que a causa é a falta de um componente produzido pelo pâncreas chamado insulina. O tratamento médico usa injeções de insulina, que têm um efeito considerável por um tempo, mas não é um tratamento radical, e a recidiva é comum, e a cura completa é impossível. Para essa doença, o tratamento médico impõe restrições alimentares extremas, evitando o açúcar e fazendo o paciente comer vários tipos de alimentos. O sofrimento do paciente e o fardo financeiro são consideráveis. E como até mesmo o consumo de arroz é restringido, para um japonês, é o mais difícil.
-
-Segundo minha pesquisa, nesta doença, o acúmulo de toxinas comprime a parte inferior do pâncreas e do fígado. Ao dissolver essa toxina solidificada, a cura completa ocorre. E quando eu trato, a cura ocorre com uma alimentação normal, então não há necessidade de restrições alimentares. Recentemente, no entanto, alguns médicos têm permitido uma alimentação normal, o que significa que eles despertaram para a verdade.
-
-### IV. Pleurisia e Peritonite
-
-A pleurisia e a peritonite também são doenças bastante comuns. Começarei com a pleurisia. Na medicina, essa doença é dividida em três tipos: pleurisia úmida, pleurisia purulenta e pleurisia seca. A pleurisia úmida ocorre quando um espaço se forma entre as membranas que envolvem os pulmões, e ali se acumula água, ou seja, urina. A pleurisia purulenta ocorre quando se acumula pus. E a pleurisia seca ocorre quando há apenas o espaço, sem acúmulo de água ou pus. A causa dessa doença pode ser espontânea ou causada por outros fatores. As causas externas incluem contusões no peito ou nas costas, esforços físicos, ginástica com aparelhos, etc. A espontânea ocorre sem nenhuma causa aparente.
-
-A causa da pleurisia úmida, seja ela causada por fatores externos ou espontânea, é o acúmulo de excesso de urina devido à atrofia renal. No tratamento médico da pleurisia úmida, usam-se diuréticos e a drenagem por punção. Os diuréticos causam um efeito reverso, e o curso da doença é frequentemente ruim. A drenagem por punção tem um curso melhor. No entanto, mesmo que se cure temporariamente, a recidiva é fácil devido à urina residual.
-
-A causa da pleurisia purulenta é quase a mesma da cárie da coluna vertebral. O pus da coluna se infiltra e se acumula na pleura. A quantidade de pus é relativamente grande e, em casos malignos, o tratamento médico realiza a drenagem por punção, e por vários meses ou mais, uma quantidade considerável de pus é drenada diariamente. No entanto, há casos de pleurisia purulenta desde o início, mas também há casos em que a pleurisia úmida se torna purulenta após um longo tempo. Alguns médicos usam um tratamento de repouso sem punção. Nesse caso, com o tempo, o pus se solidifica gradualmente, e o peito fica duro como uma tábua. Ao ver esse sintoma, alguns médicos dizem que os pulmões apodreceram e desapareceram, mas isso é um erro grosseiro. Esse sintoma geralmente ocorre em um dos pulmões, direito ou esquerdo. O pulmão com o pus solidificado não consegue respirar e fica parado, então o pulmão saudável precisa trabalhar o dobro, e a respiração se torna naturalmente grande e difícil. Nesse momento, ao observar as costas, vê-se que um dos pulmões está imóvel e o outro se move fortemente, o que torna a situação clara. No entanto, ao dissolver o pus solidificado do pulmão imóvel, o pus começa a ser expelido vigorosamente como expectoração, e o pulmão começa a respirar gradualmente. Isso mostra que os pulmões não apodreceram e desapareceram. Houve um caso em que um paciente, cujos dois pulmões foram considerados podres e inúteis, foi tratado por meu discípulo e agora está completamente curado, saudável e ativo. A pleurisia purulenta é considerada quase incurável pela medicina.
-
-No entanto, seja a pleurisia úmida ou a purulenta, se a doença for deixada seguir seu curso sem tratamento médico, a purificação natural fará com que a urina acumulada e o pus sejam expelidos como expectoração, e a cura radical geralmente ocorrerá.
-
-A pleurisia úmida é a mais comum, seguida pela purulenta. A pleurisia seca é extremamente rara. Em minha experiência, a maioria dos pacientes diagnosticados com pleurisia seca, na verdade, teve uma nevralgia intercostal diagnosticada erroneamente.
-
-Aqui, é preciso falar sobre a nevralgia intercostal. Essa doença tem uma grande variação de gravidade. E é caracteristicamente fácil de ser confundida com pleurisia. Em casos graves, até mesmo respirar causa uma dor insuportável. Se deixada em paz, ela se cura completamente com febre e expectoração. No entanto, o tratamento médico usa compressas, gelo, injeções e todos os tipos de terapias de solidificação, então, mesmo que se cure temporariamente, a recidiva é certa.
-
-Os sintomas dos três tipos de pleurisia e da nevralgia intercostal incluem dor ao respirar fundo e falta de ar. Além disso, há suores noturnos, sonolência excessiva, tontura, etc.
-
-A peritonite é uma doença muito semelhante à pleurisia e também tem dois tipos: úmida e purulenta, mas não há a seca. Na úmida, a urina se acumula no peritônio. Quando se usam diuréticos, como explicado na seção sobre terapias existentes, ela se agrava gradualmente. E quando se realiza a drenagem por punção, o efeito reverso é grave; a cada vez, a situação piora, a distensão se torna cada vez mais grave e, finalmente, o abdômen fica maior do que o de uma mulher grávida. Naturalmente, quando isso acontece, a vida é perdida.
-
-Na purulenta, o abdômen não se distende muito; pelo contrário, é mais sólido. À primeira vista, parece um abdômen normal, então, no exame médico, mesmo em casos graves, pode não ser detectada. Por isso, a peritonite purulenta pode até ser diagnosticada erroneamente como tuberculose pulmonar. É algo que parece inacreditável, mas tive essa experiência muitas vezes e fiquei surpreso. É verdade que, quando a purificação ocorre na peritonite purulenta, os sintomas são febre, tosse, expectoração, perda de apetite, enfraquecimento, emagrecimento, etc., então talvez seja compreensível que seja confundida com tuberculose pulmonar. Mas é uma infelicidade para o paciente, e o método de diagnóstico da medicina precisa ser melhorado. Portanto, tive a experiência de curar completamente a tuberculose pulmonar em pacientes assim, tratando apenas o peritônio e os rins.
-
-Essa peritonite purulenta, quase todos, em maior ou menor grau, a têm. Provavelmente não há ninguém que não a tenha. Com o diagnóstico com a ponta dos dedos, fica claro: há um nódulo perto do umbigo, que é o pus solidificado. A dor de estômago ou a diarreia que ocorrem de vez em quando, mesmo sem se comer algo que cause intoxicação, são a purificação dessa solidificação. Em algumas pessoas, não há dor alguma. Quando se aponta isso para essas pessoas, elas muitas vezes se surpreendem. Pessoas com pus solidificado no peritônio invariavelmente têm uma pele ruim. Com a experiência, consigo saber a presença e a gravidade da peritonite purulenta pela cor da pele. A causa da peritonite é, naturalmente, a atrofia renal. Portanto, a menos que os rins sejam curados, a cura absoluta não ocorrerá.
-
-### V. Asma
-
-A asma é uma doença cuja causa é desconhecida pela medicina e considerada incurável. Como também é muito comum entre os japoneses, explicarei em detalhes.
-
-Na medicina, a asma é dividida em dois tipos: asma cardíaca e asma brônquica. A primeira é em crises. Quando a crise ocorre, há uma dificuldade respiratória intensa e, em casos graves, a respiração se torna tão difícil que parece que a pessoa está à beira da morte. É algo insuportável de se ver. A segunda causa um sofrimento com uma tosse forte e frequente, insônia, perda de apetite, dificuldade respiratória, etc. Ambas podem ser periódicas, ocorrendo apenas no inverno ou no verão, ou podem causar sofrimento contínuo. No tratamento médico, a injeção para aliviar temporariamente o sofrimento é o único método. De fato, com a injeção, por mais intenso que seja o sofrimento, ele desaparece como se fosse varrido. No entanto, após um certo tempo, a crise retorna. O paciente, sem suportar o sofrimento, recebe outra injeção. Mas a cada injeção repetida, o efeito diminui gradualmente, e o uso se torna mais frequente. Como resultado, alguns pacientes precisam de vinte a trinta injeções por dia. Esses são casos graves de intoxicação por injeção. No entanto, mesmo casos tão graves eu curei radicalmente. Não é preciso dizer que as crises e a tosse da asma são purificação, e a injeção, naturalmente, com seu veneno, interrompe temporariamente a purificação. Hoje, na medicina, as teorias sobre a causa da asma são confusas, mas as que eu conheço estão muito longe da causa, quase como tatear no escuro. Entre elas, há a teoria de uma anormalidade no nervo vago, que é um equívoco grosseiro.
-
-Segundo minha descoberta, a asma cardíaca tem a seguinte causa: ao examinar a parte inferior do diafragma do paciente — ou seja, a parte superior do estômago e do fígado — invariavelmente se encontra um inchaço com febre baixa. Ao pressionar, sente-se uma dureza e alguma dor, e o acúmulo de toxinas fica claro. Essa é a primeira causa. Em seguida, a parte posterior, atrás do coração, é a mesma. Ao pressionar o peito, a axila e as costelas com o dedo, sente-se uma dor considerável. Isso ocorre porque as toxinas se acumularam nessa área, e essa é a segunda causa. Em seguida, os ombros (principalmente o esquerdo), a área ao redor do umbigo, o intestino grosso (principalmente o lado direito), as glândulas inguinais (principalmente a direita), os rins (direito ou esquerdo), etc., são a terceira causa.
-
-A causa é a que mostrei, mas a primeira é a causa principal da asma, a causa fundamental. As crises são causadas principalmente pela primeira e, em seguida, pela segunda. A terceira não causa crises, apenas tosse. Por que as crises ocorrem? A primeira causa, ou seja, o acúmulo de toxinas na parte inferior do diafragma e atrás do coração, se dissolve pela purificação. A expectoração se infiltra nos pulmões e tenta ser expelida. Quando a expectoração é espessa ou quando a membrana pulmonar é grossa e a expectoração tem dificuldade de se infiltrar, os próprios pulmões tentam respirar com mais força para absorver a expectoração. Essa é a crise. A prova disso é que, após a injeção, a expectoração é invariavelmente expelida, e a crise cessa. Em minha experiência, também, durante o tratamento, a cada vez que a expectoração é expelida, a crise diminui. Esse sintoma é sempre acompanhado de perda de apetite, porque as toxinas estão constantemente pressionando o estômago. Portanto, à medida que a melhora ocorre, o inchaço na área afetada se torna mais macio e menor, o estômago começa a funcionar e o apetite aumenta gradualmente. A segunda causa, o acúmulo de toxinas nas costelas, tem uma ação semelhante à primeira. A terceira causa é apenas a tosse, mas pode agravar as crises e a dificuldade respiratória, então, naturalmente, também precisa ser removida.
-
-O fato de que qualquer tipo de asma pode ser completamente curado com esta Terapia prova que este princípio está correto e não deixa margem para dúvidas.
-
-Gostaria de falar um pouco mais sobre a primeira, a segunda e a terceira causas. A asma tem uma causa hereditária, ou seja, congênita, em um número considerável de casos, mas a causa adquirida é mais comum.
-
-Então, qual é a causa adquirida? Primeiramente, quando se contrai pneumonia, o tratamento médico suprime a expectoração abundante, que é característica da pneumonia. Por isso, embora uma parte da expectoração seja expelida, uma quantidade considerável permanece. Essa expectoração desce, infiltrando-se na parte inferior dos pulmões e se acumulando e solidificando na parte inferior do diafragma. A toxina solidificada atrás do coração é o excesso de urina da atrofia renal. Essa é a primeira causa.
-
-A segunda causa é o acúmulo de veneno da urina e de medicamentos na parte superior do estômago e do fígado, e nas costelas e áreas próximas. O veneno de medicamentos é especialmente comum e é sempre acompanhado de febre. Em algumas pessoas, há uma dor semelhante à nevralgia intercostal. A terceira causa é a mesma da tosse do resfriado.
-
-A asma infantil também existe e será explicada em detalhes na seção sobre doenças infantis.
-
-### VI. Doenças Cardíacas e Hipertensão
-
-As doenças cardíacas, na medicina, são geralmente divididas em angina de peito, doença valvar, hipertrofia, etc.
-
-A angina de peito é uma doença terrível, com uma dor súbita e intensa em todo o peito, uma sensação de compressão, dificuldade respiratória, etc., e o sofrimento é indescritível. Em casos graves, uma única crise pode ser fatal, mas a maioria se recupera temporariamente. A causa é que as toxinas acumuladas ao redor do coração, pela primeira purificação, pressionam fortemente o coração de forma centrípeta. É difícil de curar com a cura natural, e o tratamento médico apenas proporciona uma melhora temporária com injeções. Com esta Terapia, no entanto, a cura radical é fácil.
-
-A doença valvar, em casos graves, tem a mesma causa da angina de peito, mas como a primeira purificação é mais lenta, não há uma dor intensa. Os principais sintomas são palpitações, pulso irregular, leve dificuldade respiratória, etc. Em casos leves, as toxinas acumuladas nas costelas na frente e atrás do coração ou no diafragma causam uma excitação do coração devido à febre baixa da purificação.
-
-A hipertrofia cardíaca, embora rara, existe, mas a maioria dos casos é um erro de diagnóstico médico. Provavelmente, o acúmulo de toxinas perto do coração é diagnosticado erroneamente como hipertrofia cardíaca. A verdadeira hipertrofia ocorre apenas em grandes bebedores e atletas; em pessoas comuns, é quase inexistente. E essa solidificação de toxinas, pela purificação natural, é expelida principalmente como expectoração e se cura.
-
-Recentemente, a hipertensão é comum em pessoas de meia-idade e mais velhas, e diz-se que pessoas com hipertensão são propensas a derrames cerebrais. No entanto, não é tanto quanto a medicina diz. Nem todas as pessoas com hipertensão têm derrames, mas estatisticamente, é mais comum do que em pessoas com pressão baixa.
-
-A causa do derrame cerebral, como expliquei anteriormente, está no acúmulo de toxinas nos dois lados do pescoço (perto das glândulas parótidas) e nos dois lados do bulbo. A causa da hipertensão, no entanto, está em outro lugar, além desses quatro pontos. Ou seja, as toxinas se acumulam um pouco à frente do pescoço, logo abaixo das amígdalas, e comprimem a artéria. Como essa artéria está ligada ao braço, a pressão arterial aparece alta no medidor.
-
-Como prova disso, apresentarei um exemplo muito bom. Anos atrás, um homem de cerca de sessenta anos com uma pressão arterial de trezentos veio me procurar. Ele disse: “Minha pressão arterial pode ser superior a trezentos. Porque o máximo do medidor é trezentos, e sempre que meço, ele chega a trezentos imediatamente”. E apesar de ter uma pressão tão alta, ele trabalhava em uma empresa todos os dias por cinco ou seis anos desde que a hipertensão foi descoberta, sem nenhum problema. Isso ilustra claramente a diferença de localização da raiz do derrame cerebral e da hipertensão. A propósito, essa pessoa era um calígrafo por trinta anos, e a artéria mencionada era muito grossa, e a causa era inteiramente a rigidez.
-
-### VII. Doenças Cerebrais
-
-Gostaria de falar sobre as doenças relacionadas ao cérebro, que são características do homem moderno. A mais comum hoje é, sem dúvida, a neurastenia cerebral. Os sintomas incluem dor de cabeça, tontura, sensação de pressão, sensação de torpor, ansiedade, melancolia, insônia, etc.
-
-A mais comum delas é a dor de cabeça crônica. Qual é a causa? A principal causa é a aplicação de gelo na cabeça durante a febre de um resfriado ou outra doença. Quando há febre, geralmente há dor de cabeça. A dor ocorre porque as toxinas solidificadas no cérebro se dissolvem e se movem pela purificação. Ao aplicar gelo, a dissolução é interrompida, e a solidificação ocorre novamente. Contra essa nova solidificação, uma purificação lenta ocorre constantemente. Essa é a dor de cabeça crônica. Portanto, ao colocar a palma da mão na cabeça de uma pessoa assim, invariavelmente se sente uma febre baixa. Pode ser em toda a cabeça, na testa, na nuca ou em uma área localizada. Com a terapia natural, a cura completa ocorre.
-
-Há também uma dor de cabeça com uma causa diferente: a anemia cerebral. A causa, como explicado no item sobre resfriado, é que as toxinas solidificadas perto dos gânglios linfáticos comprimem os vasos sanguíneos, causando anemia. Ao colocar a palma da mão na cabeça, ao contrário, não há febre; pelo contrário, pode estar mais fria que o normal. Quando a crise ocorre, o rosto fica extremamente pálido, em casos graves, pode-se até perder a consciência, e há uma forte sensação de vômito. Para curar isso, é preciso se exercitar o máximo possível, causar a purificação, ter febre e, com isso, dissolver e expelir as toxinas solidificadas perto dos gânglios linfáticos.
-
-A sensação de pressão ocorre porque as toxinas acumuladas em todo o cérebro se solidificam pela primeira purificação e impedem a circulação sanguínea. Também pode ser devida à falta de sangue da anemia cerebral.
-
-A insônia e a sensação de torpor foram explicadas no item sobre sintomas de doença, então as omitirei. Explicarei sobre a ansiedade. A função do cérebro humano, em linhas gerais, é a razão e a emoção. A testa governa a razão, e a nuca governa a emoção. A razão inclui a sabedoria, a memória, a consideração, etc. Estudiosos, sem exceção, têm a testa desenvolvida porque fazem um trabalho racional. A emoção, ou seja, a alegria, a raiva, a tristeza e o prazer, é governada pela nuca. Pessoas com a nuca desenvolvida têm emoções superiores. O fato de que os homens têm a testa desenvolvida e as mulheres têm a nuca desenvolvida, e que os ocidentais têm a testa desenvolvida e os orientais têm a nuca desenvolvida, torna isso claro. Portanto, pessoas com toxinas e febre baixa na testa têm o pensamento disperso, dificuldade de concentração, memória fraca e se cansam facilmente das coisas. O mau desempenho dos alunos se deve a esses sintomas. Quando eu tratava, à medida que as toxinas na testa eram eliminadas, o desempenho deles melhorava notavelmente. As toxinas e a febre baixa na nuca perturbam as emoções, e a ansiedade surge facilmente.
-
-Crianças que são consideradas “temperamentais” ou que têm “vermes” têm essa causa. Ao colocar a palma da mão na cabeça de uma criança assim, invariavelmente se sente uma febre baixa. À medida que a febre baixa desaparece, o temperamento melhora e o desempenho na escola também. No entanto, como o mundo não conhece esse princípio, algumas pessoas recorrem a vermífugos ou amuletos, mas como estão mirando no alvo errado, não têm muito efeito.
-
-Agora, sobre a meningite. É a purificação da testa. Uma purificação intensa ocorre contra as toxinas densas acumuladas na membrana do osso frontal. Os sintomas são uma dor de cabeça intensa e insuportável, e o paciente não consegue abrir os olhos, porque ao abri-los, a luz é extremamente ofuscante. Portanto, a febre alta como fogo na testa e a incapacidade de abrir os olhos podem ser diagnosticadas como meningite sem problemas. É uma doença especialmente comum em bebês, mas como os bebês não sabem se queixar da dor, a meningite deve ser julgada pela febre alta e pelos olhos fechados. Nesse caso, o tratamento médico usa a aplicação de gelo como a coisa mais importante, mas isso é o pior. Por causa disso, mesmo que se cure, a pessoa se torna um deficiente, como um idiota. Qual é a razão? Se o curso da doença fosse suave, as toxinas acumuladas se liquefariam pela purificação, desceriam, seriam expelidas como remela e coriza, e a cura completa ocorreria. No entanto, ao aplicar gelo, as toxinas liquefeitas mudam de direção, de fora para dentro, penetram nos tecidos do cérebro anterior e se solidificam. É o mesmo princípio da aplicação de gelo na otite média, que faz a toxina mudar de direção para o cérebro. A interrupção de uma purificação forte como a aplicação de gelo impede o fluxo da toxina dissolvida e a faz mudar de direção. E o acúmulo de toxinas nas funções do tecido do cérebro anterior impede a atividade original das funções, e o prognóstico é de deficiência. Portanto, diz-se que a meningite é assustadora porque, mesmo que se cure, causa deficiência. Na verdade, é por causa do tratamento equivocado. Eu curei muitas pessoas com meningite, e após a cura, o cérebro se tornou mais claro do que antes da doença. As crianças melhoraram tanto no desempenho que os professores ficaram surpresos.
-
-Agora, sobre o derrame cerebral. Esta doença também é muito comum nos últimos anos, como se sabe. E assim como a doença pulmonar é comum na juventude, esta é comum na meia-idade e na velhice. Pessoas que acumularam muita experiência na sociedade, que entendem as coisas, que atingiram um estado de maturidade, que estabeleceram as bases de seus negócios, que alcançaram uma posição social e que estão prestes a contribuir muito para a nação, adoecem. É uma doença extremamente problemática. Não é apenas uma infelicidade pessoal, mas também uma perda considerável para a nação e a sociedade. E uma vez que se contrai essa doença, muitas vezes a vida é perdida instantaneamente. Se, por sorte, a vida é poupada, a pessoa fica com hemiplegia, com um dos lados do corpo paralisado. Em casos graves, a língua também é afetada, e a pessoa não consegue falar. O cérebro também pode ser afetado. E quase ninguém se cura completamente. Em casos raros, há uma melhora parcial. Além disso, a característica dessa doença é que o curso é extremamente longo, e a pessoa finalmente sucumbe. É uma doença verdadeiramente trágica. E como o corpo fica incapacitado, o cuidado e o tratamento causam grandes dificuldades e despesas para a família. É algo que desperta muita compaixão. Na medicina moderna, não há tratamento. Naturalmente, não há prevenção, e a causa exata parece não ser conhecida.
-
-A seguir, apresento o que descobri em minha pesquisa sobre essa doença. A causa é a purificação das toxinas ou do sangue tóxico acumulado em um dos lados do bulbo e em uma das artérias carótidas. Quando a purificação ocorre, as toxinas ou o sangue tóxico acumulado se dissolvem com a febre, invadem temporariamente o centro do cérebro e descem imediatamente, passando pela artéria do lado oposto e se acumulando no braço e na perna. O processo até que isso aconteça é extremamente rápido, pode-se dizer que ocorre em um instante. Portanto, quando a doença se manifesta, a hemiplegia ocorre quase que simultaneamente. Ao observar o momento da manifestação, o rosto primeiro fica vermelho e, em pouco tempo, fica pálido. A vermelhidão ocorre porque o sangue tóxico que invadiu o cérebro se espalha imediatamente para o rosto. A palidez ocorre porque ele se solidifica em algum lugar, causando anemia. Nesse caso, o tratamento médico usa a aplicação de gelo para contrair rapidamente os vasos sanguíneos e parar a hemorragia interna. No entanto, isso não tem efeito sobre o objetivo e, pelo contrário, a piora é terrível. Quando a hemorragia ocorre, o sangue que vazou desce ou se solidifica rapidamente em algum lugar, e os vasos sanguíneos se contraem naturalmente em um instante, e a hemorragia para. Ao aplicar gelo, as toxinas que permanecem no cérebro após a hemorragia se solidificam ainda mais, prejudicando as funções. E se a aplicação de gelo for prolongada, o cérebro fica paralisado, e a pessoa pode até sucumbir por causa disso. O longo período de inconsciência após um derrame também, acredito, é grandemente influenciado pela aplicação de gelo.
-
-Portanto, mesmo que se contraia essa doença, se nenhum tratamento médico ou método for aplicado e ela for deixada seguir seu curso, a cura completa pode ocorrer. A esse respeito, há um exemplo. Uma mulher de cerca de cinquenta anos que tratei no passado era a esposa de um homem rico em uma pequena cidade no nordeste. Ela teve um derrame e, por ser rica, chamou um especialista de Tóquio e recebeu todo o tratamento possível. No entanto, não houve efeito, e após cerca de dois anos, seu estado havia piorado um pouco. Naquela época, na periferia da mesma cidade, havia um homem de cerca de cinquenta anos, de uma pequena família de agricultores, que também teve um derrame na mesma época que a mulher. Um dia, ele visitou a casa da mulher por algum motivo. A mulher ficou surpresa e disse: “Ouvi dizer que você também teve um derrame e ficou com hemiplegia. Mas agora, vejo que não tem nada de anormal e está como quando era saudável. O que aconteceu? Que tratamento você fez? Que remédio você tomou?”. O velho agricultor respondeu: “Nós somos pobres e não podemos ir ao médico nem comprar remédios. Entreguei meu destino aos céus e não fiz nada, apenas fiquei deitado. Com o tempo, melhorei naturalmente”. A mulher ficou maravilhada. Ao ouvir minha explicação, ela finalmente entendeu. Não tive apenas dois ou três exemplos como esse, o que mostra que minha teoria não está errada.
-
-A encefalite letárgica é uma doença que se torna epidêmica sazonalmente nos últimos anos. A causa, entre os médicos, é motivo de várias teorias, e a verdadeira causa parece não ter sido estabelecida. Entre elas, a teoria de que “os mosquitos são o vetor” é relativamente acreditada. Se os mosquitos fossem o vetor, não deveria haver nenhum caso no inverno, mas ocasionalmente há. Qual é a razão disso?
-
-Segundo minha descoberta, quando se contrai essa doença, além da febre alta, uma quantidade violenta de toxinas se acumula constantemente em um dos lados do bulbo. As toxinas acumuladas fluem para o cerebelo. Ao tratar a área do bulbo até o cerebelo, o acúmulo no bulbo diminui gradualmente. E geralmente, após dois ou três dias, uma grande quantidade de remela e coriza começa a ser expelida. Em casos graves, pode haver sangue misturado. Com a expulsão vigorosa, a pessoa desperta gradualmente e se recupera. Seguindo esse curso, a cura completa ocorre em cerca de uma semana. Se nenhum tratamento, especialmente a aplicação de gelo, for administrado, essa doença se cura invariavelmente e não há risco de vida.
-
-Explicarei isso. A causa é que, quando a cabeça é exposta ao sol forte no verão por um longo tempo, o estímulo faz com que as toxinas nas costas e nos ombros se acumulem rapidamente no cérebro. Essas toxinas invadem o cerebelo e causam a letargia. O fato de que essa doença é comum no verão e em crianças se deve a essa razão. As toxinas que invadiram o cerebelo avançam, são expelidas pelos olhos e pelo nariz, e a cura ocorre. É, naturalmente, uma purificação violenta. No entanto, nesse caso, o tratamento médico usa principalmente a aplicação de gelo. Com isso, as toxinas se solidificam na área e não conseguem ser expelidas. A letargia continua, e a pessoa finalmente morre de enfraquecimento.
-
-Há também uma doença chamada meningite cérebro-espinhal. Há febre alta, e a pessoa se queixa de dor ou de uma rigidez como se estivesse sendo puxada da nuca até o bulbo. É um sofrimento muito grande. Essa condição persiste, o apetite diminui e a pessoa finalmente morre de enfraquecimento. A causa dessa doença é um passo antes da encefalite letárgica. Ou seja, as toxinas não chegam a entrar no cerebelo, mas se acumulam e se solidificam antes. Portanto, se expostas ao sol forte no verão, elas se tornam encefalite letárgica. A meningite cérebro-espinhal, quando se cura, também tem suas toxinas expelidas como uma grande quantidade de coriza.
-
-A concussão cerebral ocorre quando se cai de um lugar alto ou se recebe um golpe forte na cabeça. Se a hemorragia interna for grave, a vida é perdida. Se a hemorragia interna for grande, há vômitos vigorosos e pode haver sangue saindo dos ouvidos. Se houver vômitos duas ou três vezes, a vida não corre perigo, mas se houver mais de algumas vezes, deve-se temer pela vida.
-
-Para saber a gravidade de uma doença relacionada ao cérebro, o vômito é o indicador mais confiável.
-
-### VIII. Miopia
-
-Como mostrado nas estatísticas, a miopia é a doença mais comum entre os japoneses nos últimos anos. Na medicina, é considerada absolutamente incurável, e a única opção é corrigi-la com óculos. No entanto, o uso de óculos é muito ruim; o fato de que, uma vez que se começa a usar óculos, o grau da miopia aumenta é bem conhecido. Afinal, na medida em que se depende da força dos óculos, a força dos próprios olhos enfraquece. Mas não há o que fazer, pois sem óculos, não se consegue fazer nada.
-
-Qual é a causa? A medicina aponta a relação com a luz e a distância da leitura, e embora isso possa ser uma causa parcial, não é a causa fundamental. A medicina ainda não descobriu a verdadeira causa. A causa que descobri é a seguinte:
-
-As toxinas no corpo humano se acumulam e se solidificam nos locais onde os nervos se concentram, como expliquei anteriormente. A miopia é isso: o veneno inato se acumula e se solidifica na região do bulbo.
-
-A visão depende do fornecimento contínuo de energia, ou seja, de sangue, para a atividade dos olhos. O caminho do sangue, ou seja, os vasos sanguíneos, está no bulbo. Quando eles são comprimidos por uma toxina solidificada, o sangue que vai para os olhos diminui. Ou seja, a visão fica com falta de nutrientes e enfraquece, naturalmente. Como resultado, não há força suficiente para ver de longe. É o mesmo que não conseguir caminhar longe por causa da fome. Como prova disso, apresentarei o seguinte exemplo.
-
-É comum que uma criança, que não tinha nada de anormal, desenvolva miopia logo após entrar na escola primária. Isso ocorre porque, ao começar a usar o cérebro de repente, o veneno inato começa a se acumular no cérebro. E ao se curvar sobre a mesa, a toxina se acumula no pescoço — ou seja, cria-se uma rigidez. Isso se torna a causa da miopia, como expliquei. Portanto, ao examinar o pescoço de um paciente com miopia, invariavelmente se encontra uma toxina solidificada, o que torna a situação clara. Ao tratar a dissolução dessa toxina solidificada, ela se torna coriza, é expelida e eliminada, e todos se curam completamente.
-
-Por esse princípio, uma criança que tem muita coriza não desenvolve miopia. Ou seja, uma criança que tem o nariz escorrendo é saudável, e sua purificação é vigorosa. No entanto, as crianças de hoje em dia raramente têm o nariz escorrendo. Isso ocorre porque elas se tornaram fracas devido ao veneno de medicamentos, e o aumento da miopia também é inevitável. Desde a antiguidade, dizia-se que um bebê que baba e uma criança que tem o nariz escorrendo são saudáveis, e a razão é essa.
-
-Aproveitando a oportunidade, falarei sobre o astigmatismo. A causa é a mesma da miopia. Como a visão está enfraquecida, ela perde para a imagem do objeto, e o objeto parece se mover ou se duplicar. A luz do sol, por exemplo, ofusca porque a visão perde para a luz. O fato de que a miopia e o astigmatismo são frequentemente associados também se deve a esse princípio.
-
-### IX. Doenças Oculares
-
-Aqui, explicarei os equívocos da medicina sobre as doenças oculares. Começarei com o tracoma e a conjuntivite folicular, que são considerados os mais comuns. Como se sabe, o globo ocular não tem nada de anormal; a erupção ocorre na parte interna da pálpebra. No tracoma, é principalmente na pálpebra superior; na conjuntivite folicular, na inferior. Na medicina, diz-se que o tracoma é contagioso, mas acredito que ainda há muito a ser pesquisado. A cirurgia é considerada a melhor opção. No entanto, mesmo que a cirurgia melhore temporariamente, a cura radical é rara, e a recidiva ocorre na maioria dos casos após um ou dois anos. Então, faz-se uma nova cirurgia, e a doença retorna. E retorna novamente. O período de melhora se torna cada vez mais curto, e os sintomas se agravam, tornando-se uma espécie de intoxicação por cirurgia. Quando a doença se agrava assim, a dor intensa, o desconforto, etc., são insuportáveis. Ao abrir os olhos, a luz é extremamente ofuscante, e é preciso mantê-los fechados. O globo ocular fica vermelho, e lágrimas e pus escorrem continuamente. É uma feiura insuportável de se ver. Esse sofrimento grave é, sem dúvida, o resultado da cirurgia e do veneno dos medicamentos.
-
-A causa do tracoma é que um tipo de toxina tenta ser expelido pela parte interna da pálpebra, causando uma erupção. É, naturalmente, uma purificação. Se deixado em paz com paciência, a cura ocorre. Portanto, a transmissão, na verdade, é boa, pois induz e expele a toxina que se tem.
-
-A conjuntivite folicular se cura naturalmente, então não há necessidade de discuti-la.
-
-O sintoma mais comum é a conjuntivite. É chamada de blefarite ou olho vermelho. O globo ocular fica muito vermelho, e remela, lágrimas, etc., transbordam. A causa é que as toxinas acumuladas na testa tentam ser expelidas pelo globo ocular por meio da purificação. Portanto, se deixado seguir seu curso, a cura ocorre de forma suave. Após a cura, as toxinas no cérebro diminuem, e a dor de cabeça melhora. As pessoas, que não conhecem esse princípio, usam colírios ou lavam com ácido bórico, o que suprime a purificação. Isso não apenas atrasa a cura, como a infiltração do veneno do medicamento agrava a situação, e não são raros os casos em que até mesmo a visão é prejudicada.
-
-A catarata também é uma doença ocular comum. As toxinas se acumulam no globo ocular e se solidificam na superfície da pupila. Se deixado seguir seu curso, a maioria se cura. No entanto, se colírios forem aplicados, a solidificação se torna mais dura, e a cura se torna muito difícil. Em minha experiência de tratamento, pacientes que não usaram colírios se curaram facilmente com duas ou três sessões, mas quanto mais colírios o paciente usou, mais difícil e demorada foi a cura.
-
-Outras doenças oculares são todas causadas pelo acúmulo de toxinas no globo ocular por meio da purificação. A diferença nos sintomas se deve à natureza da toxina, ao estado de acúmulo, à localização do acúmulo no globo ocular, etc. O glaucoma, que é o mais temido, é a solidificação de toxinas na parte posterior do globo ocular, como é bem conhecido na medicina.
-
-Existem três tipos de glaucoma: branco, azul e preto. O preto é considerado o mais maligno. O glaucoma branco é pus branco; o azul é pus azul, mais maligno que o branco. O glaucoma preto é sangue tóxico. Se, após o início da doença, nenhum tratamento for recebido e esta Terapia for aplicada imediatamente, a maioria se cura.
-
-A nictalopia, popularmente conhecida como cegueira noturna, e o daltonismo, considerado absolutamente incurável pela medicina, têm uma causa espiritual e serão explicados no item sobre doença e espírito. Ambos são completamente curados por esta Terapia.
-
-Há pessoas que lacrimejam naturalmente, sem estarem tristes. A medicina atribui a causa a um problema no saco lacrimal ou na glândula lacrimal, mas, segundo minha pesquisa, a causa é quase sempre o uso de colírios. Anos após o uso de colírios, o líquido do medicamento se transforma em lágrimas e é expelido. Portanto, se deixado seguir seu curso, a cura ocorre quando todo o líquido do medicamento usado for expelido.
-
-### X. Doenças do Ouvido e do Nariz
-
-As doenças do ouvido incluem otite média, zumbido, otorreia, surdez, etc. A otite média já foi explicada, então a omitirei. O zumbido, na medicina, tem causa desconhecida e não há tratamento. Com esta Terapia, no entanto, a maioria dos casos de zumbido é curada. A causa é o acúmulo de toxinas no ouvido interno, na parte do cérebro próxima ao ouvido interno, nas têmporas, no bulbo, nas glândulas parótidas, etc. Uma purificação lenta dissolve essas toxinas, e o som disso ecoa. O acúmulo de toxinas nas glândulas parótidas é o mais comum, e o que é especialmente interessante é que a causa no bulbo também é comum. À primeira vista, parece uma área sem relação com o ouvido, mas ao tratá-la, a cura ocorre, e tanto o paciente quanto o terapeuta ficam surpresos. No entanto, o zumbido, se deixado seguir seu curso, geralmente se cura, mas leva muitos anos, e o paciente, aflito, tenta várias terapias, mas parece que quase não há efeito.
-
-A otorreia é a expulsão de toxinas dos gânglios linfáticos pela purificação, através das glândulas parótidas. Portanto, se deixado seguir seu curso, tudo o que precisa sair sairá, e a cura completa é certa. No entanto, o tratamento médico usa um líquido para lavar, o que é um erro grosseiro. Se o líquido tóxico que deveria ser expelido se acumular no ouvido externo, lavá-lo ou não dá no mesmo. É como limpar o tártaro dos dentes; depois de comer, ele volta ao normal imediatamente. Mas se fosse apenas a lavagem, tudo bem, mas o líquido do medicamento penetra pela mucosa, se transforma em veneno e é expelido. Ou seja, enquanto se lava a toxina expelida, adiciona-se matéria-prima para novas toxinas. Por isso, é comum que pacientes que vão ao hospital todos os dias para lavar os ouvidos não se curem mesmo após três ou cinco anos, e a razão é essa. Quando se interrompe o tratamento médico nesses pacientes e se deixa a doença seguir seu curso, tive a experiência de ver a cura natural ocorrer em poucos meses muitas vezes.
-
-A surdez pode ser congênita ou adquirida, e há uma distinção entre patológica e espiritual. A espiritual será discutida mais tarde, então falarei apenas da patológica. O veneno inato se solidifica das glândulas parótidas até o ouvido interno, no nervo auditivo, suprimindo sua função e tornando-o ineficaz. É muito difícil de curar. No entanto, dependendo da força e da localização da solidificação, há uma diferença entre o que é fácil e o que é difícil de curar. Aqui, deve-se notar que, no tratamento médico, a insuflação da trompa de Eustáquio é frequentemente realizada, mas isso é muito perigoso. Em casos raros, vi uma surdez leve se tornar uma surdez total com esse método. E não houve o menor efeito com nenhum tratamento.
-
-Pacientes com doenças mentais muitas vezes têm alucinações auditivas, ou seja, ouvem várias vozes quando não há ninguém por perto. Isso não é uma doença do ouvido, mas sim espiritual, e será discutido mais tarde.
-
-As doenças do nariz incluem sinusite, rinite hipertrófica, pólipos nasais, anosmia, etc. A causa de todas elas é a mesma: as toxinas acumuladas nos dois lados do nariz, na nuca (especialmente no bulbo) e da testa até a testa, são expelidas como coriza pela purificação. Ou seja, a sinusite é causada pelo acúmulo de toxinas sob a pele nos dois lados do nariz. Ao pressionar com o dedo, há dor, e a gravidade pode ser julgada pela intensidade da dor. Se deixada seguir seu curso, essa toxina solidificada se dissolve, sai como coriza e se cura. No entanto, o tratamento médico usa um líquido para lavar. Assim como na lavagem da otorreia, o veneno do medicamento penetra e se acumula, e a doença se torna crônica. A rinite hipertrófica ocorre porque as toxinas na coriza irritam a mucosa, causando catarro, febre baixa, pequenos tumores, dor, coceira, secura, etc. Se deixada seguir seu curso com a terapia natural, ela também se cura. Os pólipos nasais, como não sou médico, nunca operei, então não sei ao certo, mas acredito que sejam pus solidificado. De qualquer forma, como o tratamento que aplico impede o surgimento de pólipos, acredito que seja isso.
-
-Tanto na sinusite quanto nos pólipos, a cirurgia é realizada, mas mesmo que pareça curada temporariamente, a recidiva ocorre em dois ou três anos, ou em seis meses. Isso mostra que não é uma cura verdadeira, mas apenas um efeito temporário. Na sinusite, em particular, as toxinas acumuladas no nariz são removidas pela cirurgia, mas mesmo que sejam removidas temporariamente, elas se acumulam novamente. Portanto, para se curar completamente, é preciso atingir a raiz da geração de toxinas, mas como a medicina não consegue fazer isso, ela é forçada a usar um método periférico.
-
-Recentemente, ouve-se muito falar de pessoas que morrem devido a uma cirurgia de sinusite. Qual é a razão? É extremamente perigoso. É, naturalmente, um erro cirúrgico, e espero que os especialistas pesquisem muito a respeito.
-
-A causa da anosmia é o acúmulo de toxinas na ponta do nariz, que bloqueia o estímulo ao nervo olfativo, e também o acúmulo de toxinas na depressão na parte inferior da nuca. No segundo caso, em casos raros, pode ser o resultado do uso de anestésicos ou da intoxicação por gás, em que as toxinas absorvidas pelo nariz se acumulam nessa área. O primeiro caso é muito fácil de curar e geralmente se resolve com duas ou três sessões. O segundo caso leva um tempo considerável.
-
-A intoxicação por cocaína ocorre porque, no início, a absorção de cocaína para a obstrução nasal abre as narinas e causa uma sensação de alívio. Isso se torna um hábito e leva à intoxicação. Com o tempo, o cérebro é danificado, e a pessoa pode até morrer, portanto, é preciso ter cuidado.
-
-As doenças da garganta, como a faringite do resfriado, se resolvem com a cura do resfriado e não precisam ser discutidas. Falarei sobre a tuberculose da garganta. Ela começa com a tuberculose dos gânglios linfáticos, que se espalha gradualmente e finalmente atinge a laringe e as cordas vocais. Quando eu tratava, a cura era certa, mas na medicina, é considerada incurável. À medida que a doença se agrava, a boca se fecha, e a pessoa morre de enfraquecimento por não conseguir nem mesmo beber água. Mas por que a tuberculose dos gânglios linfáticos se desenvolve para a tuberculose da garganta? No início, uma solidificação se forma nos gânglios linfáticos, e quando a purificação ocorre, a supressão da purificação é feita com todas as forças, e a solidificação retorna. Com isso, as toxinas que deveriam se acumular nos gânglios linfáticos não conseguem e se acumulam na área adjacente, espalhando-se gradualmente e atingindo a laringe. No entanto, se, no início, quando a solidificação ocorre nos gânglios linfáticos e a purificação começa, ela for deixada seguir seu curso, ela aumenta gradualmente e, finalmente, com a febre, incha ainda mais, fica vermelha e se assemelha a um tomate. Nesse momento, os médicos geralmente operam, mas a cirurgia é muito ruim. Com a cirurgia, a acumulação das toxinas profundas, que estavam se acumulando, é interrompida. As toxinas que se pensa terem sido expelidas pela cirurgia não são todas; uma parte invariavelmente permanece. A prova disso é que, mesmo que se cure temporariamente com a cirurgia, a dor persiste na área por um longo tempo, ou um novo inchaço se forma na área adjacente logo depois.
-
-Apresentarei um exemplo de um paciente que perdeu a vida devido a esse erro. Era um homem de cerca de quarenta anos. No início, uma solidificação se formou nos gânglios linfáticos e, com a febre, começou a inchar. Ele foi imediatamente a um hospital especializado e foi operado. Antes que a ferida da cirurgia cicatrizasse, um inchaço se formou ao lado, e ele foi operado novamente. Outro se formou ao lado, e ele foi operado novamente. No início, era apenas no lado direito, mas depois se formou no esquerdo. Ele foi operado novamente, e outro se formou. Repetindo esse processo, ele enfraqueceu gradualmente. E como a purificação era suprimida com todas as forças, as toxinas pararam de ser expelidas para fora e finalmente começaram a se acumular e a aumentar internamente. O inchaço da boca até a garganta era grave, e finalmente a garganta inchou e se fechou, e ele perdeu a vida por não conseguir respirar.
-
-No entanto, por mais que o inchaço aumente, se for deixado seguir seu curso, ele se torna gradualmente uma esfera vermelha que pende. Nesse momento, parece um balão vermelho pendurado. Logo depois, ele se rompe naturalmente, e uma quantidade surpreendente de pus é expelida, e a cura ocorre muito rapidamente. E se a cura ocorrer dessa forma, não apenas não deixa cicatrizes, como todas as toxinas são expelidas, e não há recidiva. No entanto, quando a cura ocorre com cirurgia, uma cicatriz, ou seja, uma retração feia, permanece para o resto da vida. Isso mostra que a terapia natural é a verdade.
-
-No estágio final da tuberculose pulmonar, a tuberculose da garganta muitas vezes ocorre. É maligna e difícil de curar. Naquela época, o enfraquecimento atingiu o extremo, e os médicos, em casos assim, dão o último veredicto.
-
-### XI. Piorreia e Paralisia Facial
-
-Uma doença comum nos últimos anos é a piorreia alveolar. A medicina ainda não conhece a causa, mas, segundo minha pesquisa, a raiz está nos rins. O veneno da urina gerado nos rins se acumula nos ombros e avança para os gânglios linfáticos do pescoço. Pela purificação, ele tenta vazar e ser expelido pela gengiva. Nesse momento, o sangue também se mistura, porque o veneno da urina se mistura com o sangue e é expelido. Quando eu trato, ao tratar externamente os rins, os ombros, os gânglios linfáticos, as bochechas, a área ao redor da gengiva, etc., curei todos os pacientes completamente, o que torna a causa clara.
-
-Devido à piorreia, a gengiva amolece e os dentes ficam bambos, e eles são extraídos. Isso também é um grande erro. O dentista pensa que a causa está nos dentes, mas é o contrário; os dentes não têm nada a ver. Os dentes amolecem porque as toxinas se acumularam na raiz. Portanto, para curar a piorreia, deve-se massagear a gengiva todas as manhãs com uma escova de cerdas duras e expelir o máximo de pus e sangue possível. A cura é certa. O método antigo de colocar sal no dedo e esfregar a gengiva também tem o mesmo efeito.
-
-Há uma doença chamada paralisia do nervo facial. Um dos lados dos lábios é puxado para cima, ou os olhos são puxados para cima, e o globo ocular parece saltar. A aparência é extremamente feia e, em casos graves, é insuportável de se ver. No entanto, se deixada seguir seu curso, a maioria se cura em dezenas de dias ou meses. No entanto, nesse caso, o tratamento médico usa a eletroterapia, o que é ruim. A causa dessa doença é que as toxinas se acumulam em uma ou várias partes do rosto, tornando impossível a flexão e a extensão dos músculos. A eletroterapia solidifica ainda mais as toxinas. No entanto, com a terapia natural, essas toxinas são expelidas pela purificação lenta como coriza, expectoração, remela, etc., e a cura ocorre.
-
-Há também a nevralgia facial, em que um dos lados do rosto dói. No entanto, as toxinas acumuladas no local da dor entram em purificação, então ela também se cura com a terapia natural.
-
-### XII. Fígado, Icterícia e Cálculos
-
-Falarei sobre as doenças do fígado. O que o tratamento médico chama de doença do fígado, na maioria das vezes, o fígado não tem nada de anormal. São as toxinas acumuladas na parte externa do fígado que o comprimem, causando dor na área, icterícia, etc. No diagnóstico médico, diz-se frequentemente que o fígado está inchado, mas, na verdade, parece que o acúmulo de toxinas na parte externa do fígado é erroneamente considerado como um inchaço do fígado. Portanto, ao dissolver essa toxina solidificada, a cura completa ocorre facilmente.
-
-Quando o fígado é comprimido pela toxina solidificada, a vesícula biliar, que fica atrás dele, também é naturalmente comprimida, e a bile na vesícula transborda. Essa é a causa da icterícia. Portanto, ao dissolver essa toxina solidificada, a icterícia também se cura facilmente. A localização da toxina solidificada é principalmente na parte superior do fígado.
-
-Há a doença de cálculos biliares. Como se sabe, é uma dor intensa. Há a dor na vesícula biliar e a dor quando o cálculo passa pelo ureter. Recentemente, diz-se que um método engenhoso para remover esses cálculos foi inventado, mas apenas a remoção dos cálculos não leva à cura completa. É preciso remover os cálculos existentes e impedir que novos se formem, mas a medicina ainda não consegue fazer isso, e a causa não é conhecida.
-
-Segundo minha pesquisa, a causa da formação de cálculos é que o veneno da urina dos rins se infiltra pela parte posterior, ou seja, pela parte de trás da vesícula biliar, e se combina com a bile para formar os cálculos. Portanto, ao dissolver a toxina solidificada no rim direito, a formação de cálculos cessa. Com este tratamento, os cálculos se desfazem e são expelidos como areia na urina.
-
-Os cálculos renais e da bexiga são cálculos biliares que desceram e se acumularam, aumentando de tamanho com a ureia.
-
-### XIII. Reumatismo
-
-Esta doença também é bastante comum. É, naturalmente, a purificação, em que o sangue tóxico se acumula nas articulações das mãos e dos pés, causando inchaço vermelho. No auge, a dor é extremamente intensa. Nesse momento, o menor movimento dos membros ou o toque de um objeto causa uma dor tão forte que a pessoa salta. No tratamento médico, a área afetada é imobilizada com gesso para que não se mova e não seja tocada. Ou seja, quando se solidifica, a dor desaparece. Geralmente, leva de dois a três meses para solidificar. No entanto, ao mesmo tempo em que se solidifica, a articulação se torna imóvel como um bastão, e a flexão e a extensão se tornam impossíveis. É extremamente inconveniente. Após a imobilização, tenta-se mover a articulação com massagem, mas o efeito é quase nulo e não passa de um consolo. Esse é o curso normal no tratamento médico.
-
-No entanto, com esta Terapia, se tratada no início da doença, quando a dor é intensa, a cura completa ocorre com quatro ou cinco sessões. É um efeito tão grande que é quase inacreditável. E mesmo o que foi solidificado como um bastão pelo tratamento médico ou por outros meios, embora leve um tempo considerável, se cura invariavelmente. Naturalmente, a duração do tratamento varia de acordo com o grau de solidificação. Apenas o que foi operado, dependendo do método da cirurgia, pode ser difícil de curar, o que é inevitável.
-
-### XIV. Câncer
-
-O grande número de doenças relacionadas ao câncer também é um fato de conhecimento geral. E essa doença, diferentemente de outras, não é causada por pus, mas por uma toxina específica do câncer. E ela se espalha e se infiltra em qualquer parte do corpo, seja músculo, osso ou órgão, sem cerimônia. É uma doença verdadeiramente terrível. O fato de ser considerada asséptica na medicina se deve a não ser pus. E os tipos de doença são muitos e variados. Os principais são o câncer de estômago, esôfago, laringe, útero, mama, fígado, pulmão, intestino, língua, etc. Em casos raros, há também o câncer de bochecha, mandíbula, ânus, etc. Recentemente, a medicina diz que existem vários tipos de câncer, mas, segundo minha pesquisa, parece haver mais tipos do que a medicina diz. E há o progressivo e o não progressivo. Entre os progressivos, há os que progridem especialmente rápido e, em pouco tempo, se espalham para a maior parte da parte superior do corpo, como o peito, o abdômen, as costas, etc. Esses são os mais malignos. O não progressivo, por outro lado, é localizado, e a cura é fácil. No entanto, mesmo o progressivo, no início, é limitado a uma área, e muitos se tornam progressivos no estágio final.
-
-Há também uma doença chamada sarcoma na medicina. Ela se assemelha muito ao câncer, mas a diferença pode ser sentida pelo toque do dedo. O que deve ser notado aqui é que não há poucos casos de pseudo-câncer. Houve um número considerável de pacientes diagnosticados com câncer pela medicina que, ao examiná-los, vi que eram pseudo-câncer. E com este tratamento, oitenta por cento dos cânceres e sarcomas foram completamente curados, e cem por cento dos pseudo-cânceres foram curados. Os casos que não curei quando tratava foram porque o paciente estava muito enfraquecido e a vida não podia ser mantida até que o câncer fosse eliminado. Portanto, se o tratamento fosse iniciado desde o início, acredito que todos teriam sido completamente curados.
-
-Sendo assim, o fato de a medicina importar rádio extremamente caro do exterior é um desperdício inútil que não pode ser ignorado do ponto de vista da economia nacional.
-
-### XV. Hemorroidas
-
-Uma doença característica dos japoneses é a hemorroida. Os sintomas dessa doença também são variados, como as pessoas sabem. A mais comum é o prolapso anal. Como a medicina diz, a estrutura dos banheiros japoneses certamente é uma causa. O prolapso anal é melhor curado pelo método de evacuação. A principal causa é o longo tempo no banheiro, então isso deve ser encurtado. Ou seja, independentemente de haver ou não evacuação, uma vez deve ser de cinco minutos ou menos. Não há problema em ir várias vezes ao dia. Seguindo esse método por um ou dois anos, a cura ou a melhora é certa. Outra causa é a constipação com fezes duras, que se cura facilmente com este tratamento.
-
-As hemorroidas externas, se deixadas seguir seu curso, se curam com o tempo, mas mesmo os casos mais graves são completamente curados em pouco tempo com este tratamento. Há também o sangramento, o prurido, etc., mas estes também se curam naturalmente se deixados seguir seu curso.
-
-A fístula anal é muito temida pelas pessoas, mas não é uma doença a ser temida. Se deixada seguir seu curso desde o início, o pus é expelido por um longo tempo, e a cura é certa. No entanto, as pessoas, que não sabem disso, pensam que a cura não ocorre sem tratamento médico. O tratamento médico fecha o orifício de drenagem de pus com cirurgia. O pus, então, perfura e drena pela área adjacente. Isso também é fechado. E perfura novamente. Repetindo esse processo, finalmente se torna como um favo de mel. E como o veneno dos medicamentos se soma a isso, uma dor intensa ocorre, e a doença se torna extremamente maligna. No entanto, com este tratamento, qualquer fístula anal é completamente curada. Eu sempre digo que a fístula anal é uma doença fácil de curar. Costuma-se dizer que, se se operar uma fístula anal, é fácil desenvolver tuberculose pulmonar. Qual é a razão? A causa da fístula anal é, na verdade, uma cárie leve, e o pus é expelido pelo ânus. Portanto, se a saída no ânus for fechada, o pus se infiltra na pleura ou nos pulmões e tenta ser expelido como expectoração — essa é a razão pela qual se diz que se desenvolve tuberculose pulmonar.
-
-As pessoas temem o sangramento das hemorroidas, mas é a expulsão de sangue impuro pela purificação, então é bom. É o mesmo que as fezes com sangue da disenteria. A sensação de peso na nuca e a rigidez no pescoço e nos ombros muitas vezes se curam com o sangramento das hemorroidas.
-
-### XVI. Beribéri e Doença de Basedow
-
-O beribéri também é uma doença característica dos japoneses. A causa, como a medicina prega, é o consumo de arroz branco, naturalmente. Portanto, o método de tratamento mais simples é comer arroz 70% polido e consumir o máximo de acompanhamentos possível. A cura é rápida. Outro método é comer farelo de arroz após as refeições, ao beber chá, uma ou duas colheres de sopa. A cura completa geralmente ocorre em cerca de uma semana. Nesse momento, torrar o farelo de arroz o torna mais aromático e fácil de beber. A paralisia do beribéri, ao esfregar com a palma da mão por dez a vinte minutos, geralmente se cura, o que mostra que é uma doença muito fácil de curar.
-
-A doença de Basedow é o inchaço da tireoide, ou seja, da parte externa da garganta. Em casos leves, há uma tosse leve, uma sensação de desconforto na área, ou pode passar despercebido. Em casos graves, há uma tosse forte, expectoração ou a expulsão de um líquido branco em forma de grãos ou espuma, e os olhos podem saltar. No estágio final, ocorre uma insuficiência cardíaca, pulso irregular, dificuldade respiratória, perda de apetite, etc., e a pessoa morre de fadiga. Com esta Arte Médica, a cura completa ocorre de forma suave. Em caso de gravidez, os médicos temem o perigo e realizam um aborto induzido. Em minha experiência, no entanto, não há perigo, e o parto ocorre de forma suave.
-
-O inchaço leve da tireoide, que passa despercebido em um corpo saudável, também é comum e pode ser a causa da tosse.
-
-### XVII. Doenças Venéreas
-
-As doenças venéreas, na medicina, são classificadas em três tipos: cancro duro (sífilis), cancro mole e gonorreia. Recentemente, diz-se que outro tipo foi descoberto, mas acredito que a explicação desses três seja suficiente aqui.
-
-O cancro duro, na medicina, é causado por uma bactéria chamada espiroqueta e é transmitido por atos impuros. Diz-se que o tratamento para a sífilis progrediu, mas, como mencionei anteriormente, o próprio veneno do medicamento usado no tratamento é mais prejudicial que a sífilis, algo que as pessoas não sabem. Gostaria que os especialistas pesquisassem muito a esse respeito. Naturalmente, o veneno do 606 já foi mencionado, mas os danos do tratamento com mercúrio e iodo também não devem ser subestimados.
-
-No entanto, o que me surpreende é que, com esta Terapia, a sífilis é curada com uma facilidade incrível. Portanto, acredito que a toxina não é tão persistente quanto a medicina prega. E na medicina, teme-se a transmissão hereditária da sífilis, mas acredito que a sífilis não é hereditária. Espero que os especialistas pesquisem mais a esse respeito no futuro.
-
-O cancro mole se cura mesmo se deixado em paz, então não há necessidade de explicá-lo. Naturalmente, a medicina também o considera uma doença leve.
-
-A gonorreia, eu a considero mais maligna que a sífilis. Essa doença é considerada difícil de curar na medicina, e é verdade. No entanto, em minha experiência, o tratamento médico tem um grande erro: a injeção de um líquido pela uretra. Isso tende a empurrar os gonococos para o fundo, e a menos que o médico seja muito experiente, acredito que isso possa acontecer com frequência. Especialmente quando realizado por enfermeiras, é provável. Como resultado, é fácil desenvolver prostatite ou orquite, então é preciso ter muito cuidado. Para a gonorreia, recomendo beber o máximo de água possível. Com isso, a excreção de urina aumenta, e a uretra é naturalmente lavada com frequência, o que é um resultado muito bom e também evita o perigo de os gonococos se moverem para o fundo. É um ganho duplo. Nesse caso, ferver e beber agulhas de pinheiro com os galhos tem um efeito ainda maior. A viscosidade da resina do pinheiro impede a proliferação dos gonococos.
-
-A prostatite, a orquite, etc., também são melhores com a terapia natural, mas com esta Terapia, a cura completa ocorre facilmente.
-
-### XVIII. Doenças Mentais e Epilepsia
-
-A doença mental e a epilepsia são muito semelhantes e têm aspectos em comum, mas também têm diferenças. Ambas são causadas inteiramente por fatores espirituais, então, por mais que se aplique um tratamento físico e materialista, não haverá efeito. Portanto, explicarei isso em detalhes no item sobre doenças espirituais. Ao se entender que a causa é inteiramente espiritual, ver-se-á quão fútil foi a pesquisa materialista.
-
-### XIX. Doenças Femininas
-
-Existem várias doenças femininas, e explicarei as principais a seguir.
-
-A mais comum é a doença relacionada ao útero. A medicina a chama de endometrite, miometrite, perimetrite, etc. Como o sufixo “ite” indica, é uma doença febril, e a purificação está ocorrendo. Se deixada seguir seu curso, a cura é certa. No entanto, a curetagem uterina é realizada, mas não tem efeito. Afinal, o interior do útero secreta constantemente ou tem corrimento branco, então, após a curetagem, ele se suja novamente como antes.
-
-A disúria pode ser causada por gonorreia ou, como explicado anteriormente, pela urina quente. A doença uretral causada por gonorreia é melhor tratada da mesma forma que a gonorreia: urinando com frequência para lavar a uretra. A urina quente foi explicada anteriormente, então a omitirei.
-
-O mioma uterino também é uma doença não rara, e os sintomas são variados. Em minha experiência, os erros de diagnóstico são muito comuns.
-
-O verdadeiro mioma uterino é o inchaço do músculo que sustenta o útero. O tamanho varia, e a maioria é dura, indolor ou com dor leve. Em casos indolores, a paciente pode passar muito tempo sem perceber. Há também erros de diagnóstico. O acúmulo de toxinas na região inguinal, a pielonefrite, a parte inferior do peritônio, ou a solidificação de sangue menstrual residual são frequentemente diagnosticados erroneamente como mioma uterino. Ao tratar esses casos, as toxinas são expelidas como corrimento branco, e o sangue menstrual solidificado é expelido como menstruação. A cura é rápida. No entanto, mesmo o verdadeiro mioma uterino é invariavelmente curado por esta Terapia.
-
-O cisto ovariano ou o hidrossalpinge também são doenças bastante comuns e relativamente indolores. Em casos graves, eles se tornam muito grandes, maiores do que uma gravidez a termo, mas como não há dor, é comum ver mulheres trabalhando com um abdômen assim. A distensão abdominal se assemelha à da peritonite, mas a diferença é que, na peritonite, a distensão se estende até o peito em forma de cone, enquanto no cisto ovariano, o peito está normal e apenas o abdômen está proeminentemente distendido, o que torna a distinção clara. A cirurgia para essa doença é relativamente eficaz. O mioma uterino também tem uma alta taxa de sucesso com a cirurgia.
-
-Para doenças femininas, os médicos, após o exame, frequentemente dizem que as trompas de Falópio estão inchadas. Acredito que isso seja um erro de diagnóstico. O diagnóstico médico é feito olhando de dentro para fora, mas na verdade, o acúmulo de toxinas na parte externa, ou seja, no baixo-ventre, comprime de fora, e de dentro parece assim.
-
-Uma doença comum em mulheres é a dor menstrual. A cada menstruação, há alguma dor. Isso ocorre porque as trompas de Falópio estão estreitas ou obstruídas, e a dor ocorre quando o sangue tenta passar. A causa é a compressão de toxinas acumuladas externamente, como mencionado anteriormente. Portanto, ao dissolver essas toxinas, a cura completa ocorre. Quando eu tratava, todos os casos, sem exceção, foram curados, o que torna a causa clara.
-
-É comum que mulheres na idade adulta não menstruem. A causa é uma obstrução grave das trompas de Falópio. Portanto, ao remover a causa, a cura é certa.
-
-A infertilidade também tem a mesma causa, como a medicina prega: a obstrução das trompas de Falópio. Por isso, desde a antiguidade, diz-se que uma mulher com o baixo-ventre duro é infértil, ou que aquela mulher não terá mais filhos porque seu baixo-ventre endureceu. Isso é verdade.
-
-Uma doença comum durante a gravidez é a nefrite gestacional. Devido ao edema grave, os médicos recomendam um aborto induzido. A nefrite gestacional ocorre principalmente após o sétimo ou oitavo mês, então não é um aborto, mas um natimorto. O sofrimento mental da mulher e da família é grande. A causa é que, desde sempre, há um acúmulo de toxinas nos rins. Se fosse apenas na parte posterior, a pressão seria leve e passaria despercebida. Mas uma vez que a gravidez ocorre, a pressão também vem do abdômen. Os rins são pressionados pela frente e por trás, e a atrofia renal se torna grave, e o excesso de urina se torna edema.
-
-No entanto, com este tratamento, esse sintoma é especialmente fácil de curar e melhora em pouco tempo. Não há necessidade de aborto induzido, e o parto ocorre de forma suave, o que traz grande alegria e, do ponto de vista nacional, deve ser muito incentivado.
-
-Os enjoos matinais durante a gravidez também são um sintoma muito comum. Em casos graves, o vômito é intenso, e a mulher mal consegue comer por mais de um mês, e o aborto induzido se torna inevitável. A causa é que o acúmulo de toxinas na parte externa do estômago é comprimido pela distensão abdominal, a purificação ocorre, e a toxina é dissolvida e expelida. Isso é o vômito. Portanto, ao dissolver essas toxinas, a cura ocorre.
-
-A gravidez ectópica também é um sintoma comum e muito temido. Na medicina, não há outro método além da cirurgia. No entanto, com esta Terapia, a cura é extremamente fácil. E esse sintoma também parece ser diagnosticado erroneamente às vezes, então é preciso ter cuidado. Os sintomas característicos são dor abdominal intensa e sangramento por volta do segundo ou terceiro mês de gravidez.
-
-Há mulheres que têm uma grande quantidade de corrimento branco. A medicina considera isso anormal e aplica vários tratamentos, mas nenhum é eficaz. Diz-se que o útero está doente, mas não tem nada a ver com o útero. É simplesmente a toxina dissolvida do fundo que desce e se acumula temporariamente no útero. É um grande mal-entendido. Portanto, a curetagem uterina nesse momento não tem sentido. Segundo minha pesquisa, a causa é a peritonite purulenta que se dissolve pela purificação, e o pus é expelido. Portanto, o corrimento branco é muito bom.
-
-Outras doenças, como o inchaço da glândula de Bartholin, a vaginite, o prurido, o prolapso uterino, a frigidez, etc., serão omitidas.
-
-### XX. Sobre Tumores e sua Incisão
-
-Existem vários tipos de tumores, como furúnculos, carbúnculos, tumores tuberculosos, etc., mas todos podem ser considerados, em geral, a mesma coisa.
-
-Todos os tumores são a purificação, em que as impurezas do corpo, como sangue tóxico e pus, se acumulam sob a pele, incham, rompem a pele e são expelidas. É uma ação fisiológica natural. Portanto, se deixados seguir seu curso, a cura ocorre de forma suave. No entanto, o processo é muitas vezes acompanhado de uma dor intensa, e o paciente sente que precisa fazer alguma coisa. Com esta Terapia, com duas ou três sessões, qualquer dor, por mais intensa que seja, desaparece. O paciente fica surpreso e feliz. Portanto, mesmo com um tumor considerável que expele uma grande quantidade de pus, não há a menor dor, o que o faz pensar que é um milagre.
-
-O que deve ser notado aqui é que, quando se faz uma incisão cirúrgica em um tumor, o movimento de acumulação de pus, que estava se acumulando, para. Mesmo que se fure a pele com uma agulha, a acumulação para. Como resultado, nem todo o pus é expelido, e a cura temporária ocorre. No entanto, como o sangue e o pus residuais permanecem, um novo tumor se forma na área próxima. Isso é uma regra de ferro, baseada em inúmeras experiências. Portanto, em caso de tumor, deve-se ter o cuidado de não usar nenhum bisturi ou agulha, de forma absolutamente natural. Naturalmente, não se deve resfriar, aquecer ou usar emplastros.
-
-Costuma-se dizer que se deve “dispersar” um tumor, mas isso é um erro; não se dispersa, se empurra para dentro. O sangue tóxico que estava prestes a ser expelido é forçado a retornar. Portanto, não é a cura da doença, mas o oposto.
-
-### XXI. Doenças Infantis
-
-Por fim, explicarei brevemente as doenças características das crianças. As principais são a disenteria infantil, o sarampo, a coqueluche, a pneumonia, a asma, a hérnia, a paralisia infantil e a difteria. Há também várias outras.
-
-A disenteria infantil é a doença mais comum e mais temida em crianças. Uma criança que não tinha nada de anormal, de repente perde o ânimo, boceja muito, fica sonolenta, os olhos perdem o brilho, o apetite desaparece, há alguma febre e vômito. Se esses sintomas estiverem presentes, pode-se considerar que é disenteria infantil. Em casos graves, há vômitos frequentes, convulsões, os olhos se reviram, e a vida pode ser perdida em poucas horas, o que é assustador. A causa dessa doença é uma purificação súbita. A toxina primeiro se acumula no estômago e depois ataca o cérebro. Se a vida for poupada, após um ou dois dias, a toxina é expelida pela diarreia. Se a diarreia começar, pode-se considerar que não há mais risco de vida. No tratamento médico, a terapia com injeção é a principal nos últimos anos, mas os resultados são extremamente ruins, e provavelmente mais de noventa por cento dos casos têm um resultado ruim. E o que é absolutamente errado é dar óleo de rícino imediatamente após o início da doença. Se for administrado quando a toxina está no estômago, o óleo de rícino passa pela toxina, entra no intestino e apenas expele os resíduos e as fezes endurecidas, além de prejudicar o intestino por meios antinaturais.
-
-Quando eu tratava, todos os casos de disenteria infantil, sem exceção, foram completamente curados. E como o tratamento era de uma ou duas sessões, a cura ocorria no mesmo dia ou no dia seguinte, e a criança voltava ao normal, o que surpreendia e maravilhava os parentes. No entanto, nos casos em que se usou óleo de rícino ou injeção, a cura demorou mais. E com este tratamento, se a doença for tratada em até meio dia após o início, a cura é certa, mas se mais de dez horas se passaram, pode ser difícil de curar.
-
-#### Sarampo
-
-Esta doença geralmente ocorre após vários dias de febre, sem outros problemas. É uma purificação fisiológica, então a maioria se cura mesmo se deixada seguir seu curso. Quanto mais erupções de uma vez, melhor. Nesse momento, sair ou tomar vento impede as erupções, então é preciso ter cuidado. O sarampo em si não é perigoso; se a pessoa sucumbe, é por uma complicação, ou seja, pneumonia. Outras complicações incluem otite média, conjuntivite, etc. No entanto, se deixadas seguir seu curso, a maioria se cura.
-
-Com este tratamento, com uma única sessão, as erupções aparecem em todo o corpo, e a cura completa ocorre em dois ou três dias, e nunca há complicações.
-
-#### Coqueluche
-
-A coqueluche também é uma doença comum. Com uma tosse forte e persistente, a criança vomita vigorosamente uma espuma branca, que é a toxina específica da coqueluche. Leva cerca de cem dias para expelir toda essa toxina congênita do corpo, e por isso é chamada de coqueluche. E nesse momento, com a tosse forte e o vômito, o sofrimento é insuportável de se ver, e a mãe sofre muito. A característica da coqueluche é que, ao inspirar durante a tosse, emite-se um som característico. No tratamento médico, eles se esforçam para parar a tosse, tentando parar a expulsão da toxina e solidificá-la, mas isso é um grande erro. Se a toxina se solidificasse como o tratamento médico pretende, em algum momento a purificação ocorreria — e isso se tornaria pneumonia ou asma. A asma infantil frequentemente tem essa causa.
-
-Quando eu tratava, a cura completa ocorria em dez a vinte dias. Eu costumava dizer que não era coqueluche, mas “dez dias de tosse”.
-
-#### Asma
-
-A asma infantil, como mencionado no item anterior, frequentemente tem essa causa, mas outra causa é a hereditariedade. E a asma infantil, na maioria das vezes, é o acúmulo de toxinas do diafragma até a parte externa do estômago e do fígado. Se deixada seguir seu curso, ela se cura naturalmente à medida que a pessoa se torna adulta. Também pode ser devida ao acúmulo de toxinas nas costas e à sua purificação.
-
-#### Pneumonia
-
-A pneumonia infantil ocorre como resultado da solidificação da coqueluche, no caso do sarampo, e da purificação violenta das toxinas acumuladas ao redor ou em parte dos pulmões. Especialmente em crianças, a dificuldade respiratória, o chiado, o desconforto, etc., são acentuados, e os parentes ficam com medo e sofrem. No entanto, no tratamento médico, todos os métodos de interrupção da purificação são usados, e os resultados são frequentemente ruins. Deixar a doença seguir seu curso teria uma taxa de cura maior. Com esta Terapia, a cura completa ocorre em menos de uma semana. E como essa doença melhora na medida em que o catarro é expelido, qualquer terapia que promova a expulsão do catarro levará à cura.
-
-#### Hérnia
-
-Esta doença também é comum em crianças, mas ocasionalmente ocorre em idosos. E a gravidade varia muito de pessoa para pessoa. Em casos leves, a cura natural ocorre à medida que a pessoa se torna adulta, mas em casos graves, a cura é difícil. No tratamento médico, a cirurgia é realizada, e em casos leves, usa-se uma cinta para hérnia. A causa dessa doença é que o acúmulo de toxinas localizado no peritônio comprime o intestino, fazendo-o sair, ou quando um dos orifícios do osso púbico é congenitamente maior.
-
-Em casos graves, nos meninos, a descida do intestino atinge os testículos, e a cura é difícil. A cirurgia para essa doença tem um resultado bom na maioria dos casos, então eu também a recomendo às vezes. Com esta Terapia, como as toxinas do peritônio são dissolvidas e a atividade do intestino é revigorada, leva um tempo considerável, mas a maioria se cura. A cinta para hérnia tem um efeito considerável.
-
-Outras doenças infantis incluem eczema, doenças de pele, feridas na cabeça, feridas no rosto, etc. A cura natural é a mais certa. Especialmente no caso de feridas no rosto, os olhos podem ser afetados, e em casos graves, pode-se suspeitar de cegueira, mas mesmo esses casos são completamente curados pela natureza.
-
-Pouco depois do nascimento, um bebê pode de repente perder o apetite e vomitar. E no vômito, pode haver sangue misturado. Qual é a causa? Quando o bebê nasce, ele engole sangue antigo, e com o tempo, ele é expelido. Quando tudo for expelido, ele volta ao normal. No entanto, médicos e mães, que não sabem a causa, confundem com um vômito de sangue patológico e se assustam. É algo que se deve saber.
-
-Outros sintomas incluem mau humor, insônia, irritabilidade, meningite, etc., mas como já foram mencionados, os omitirei. Uma vez, tive a experiência de uma doença interessante: um bebê que chorava sempre que era pego no colo. Ao examiná-lo bem, vi que ele tinha nevralgia intercostal. Quando era pego no colo, a área era pressionada, e doía, e por isso ele chorava. Portanto, ao tratar a área, a cura completa ocorreu imediatamente.
-
-A paralisia infantil também é uma doença comum, mas a causa é espiritual, então explicarei em detalhes no próximo volume.
-
-A difteria é semelhante, então a deixarei para o próximo volume.
-
-Para a evacuação das crianças, o enema é frequentemente usado, mas isso é muito errado. O enema causa um efeito reverso e leva à constipação. A constipação leva ao uso de enemas. O uso de enemas leva à constipação. Isso ocorre porque é antinatural. O interessante é que a constipação causada pelo enema é uma constipação no orifício anal. Isso mostra claramente que é uma constipação causada pelo enema. O ser humano nasce com a capacidade de evacuar naturalmente, então não há necessidade de enemas. Se a evacuação não ocorresse sem enemas, como seria com as crianças de antigamente? Ninguém nunca ouviu falar que as crianças de antigamente tinham constipação. A ideologia da medicina moderna é difícil de entender.
-
-Tratei de várias crianças cujo abdômen estava distendido como na peritonite. Desde pouco depois do nascimento, a evacuação era induzida por enemas, e isso se tornou um hábito. Sem enemas, a evacuação não ocorria de forma alguma. Como resultado, o abdômen se distendeu gradualmente. E se a evacuação fosse induzida por enema, o abdômen diminuía um pouco, mas se não, ele se distendia. Isso ocorre porque o gás não é liberado. Isso mostra o quão prejudicial é o enema.
-
-## A Arte Médica dos Rins e o Método de Rejuvenescimento
-
-Esta Terapia, em uma palavra, pode ser chamada de Arte Médica dos Rins. Como expliquei em detalhes anteriormente, as causas das doenças são três: veneno inato, veneno da urina e veneno de medicamentos. E o local onde esses três venenos mais atuam é, sem dúvida, os rins. Explicarei a ordem.
-
-Quando o ser humano nasce neste mundo, a toxina congênita que mais causa doenças é o veneno inato. Ele primeiro se acumula nos rins. Naturalmente, mesmo os bebês, na maioria das vezes, o têm. E as crianças que demoram a andar, o que é comum, têm essa causa. Ao tratá-las, a cura ocorre facilmente. E à medida que o ser humano se torna adulto, os três venenos se acumulam nos rins, e a solidificação aumenta gradualmente. A pressão disso atrofia os rins e, como explicado anteriormente, o excesso de urina vaza e se soma à solidificação. Portanto, os rins são cada vez mais pressionados, e o excesso de urina aumenta, e a solidificação aumenta ainda mais. Como resultado, o excesso de urina se move gradualmente para os dois lados da coluna vertebral, se acumula, sobe e se torna rigidez nos ombros, e se espalha para o pescoço, o cérebro, os olhos, os ouvidos, o nariz, a gengiva, a garganta, etc. Em algumas pessoas, também se espalha para o peito, a base dos braços, o estômago, o fígado, o peritônio, e desce até as pernas. Nesse caso, naturalmente, o acúmulo é maior nos locais de concentração nervosa, como explicado anteriormente.
-
-Dessa forma, a insuficiência renal se torna a causa de todas as doenças. Portanto, antes de tudo, a solidificação nos rins deve ser dissolvida e removida. Ao fazer isso, todas as doenças se encaminham para a cura, naturalmente.
-
-Aqui, é preciso saber sobre a purificação de equilíbrio. Ao dissolver e remover uma toxina acumulada em um local, as outras toxinas acumuladas, para se equilibrarem com o estado de purificação, geram uma purificação espontânea. Naturalmente, como é uma purificação espontânea, é acompanhada de febre ou dor. Portanto, quando a causa raiz, os rins, é purificada, as toxinas que se espalharam para os ramos são curadas em todo o corpo pela purificação natural de equilíbrio, o que é inevitável. Por esse princípio, promover a atividade dos rins é o único método para curar todas as doenças e promover a saúde.
-
-Portanto, quando o obstáculo nos rins é removido e a atividade se torna vigorosa, vários bons efeitos começam a aparecer. O fenômeno mais notável é o rejuvenescimento. Rejuvenesce-se pelo menos dez a vinte anos. Qual é a razão? A função dos rins, além de eliminar as toxinas do corpo pela urina, é produzir hormônios. Hoje, na medicina, os hormônios são injetados externamente, mas isso apenas ilude com um efeito temporário e, pelo contrário, enfraquece os rins. É como a indústria nacional que enfraquece devido à importação de produtos estrangeiros. Nesse sentido, o efeito desta Terapia, que pode produzir uma quantidade infinita de hormônios nacionais muito superiores aos importados, é, a meu ver, verdadeiramente grande.
-
-Como resultado, a vitalidade se torna vigorosa, naturalmente, uma sensação de bem-estar surge, a pessoa se torna otimista e sua visão da vida muda. Portanto, traços de personalidade como raiva, irritabilidade, impaciência, etc., desaparecem, a pessoa se torna mais sociável e cooperativa, trabalha com prazer e tem mais perseverança, e a eficiência aumenta muito. Dizer isso pode parecer um exagero, mas afirmo que não há o menor exagero. Qualquer um que experimente saberá que não é uma mentira. Portanto, eu sempre penso: se os rins dos japoneses se tornassem saudáveis, antes de tudo, a eficiência aumentaria, a produção aumentaria, o número de pessoas pessimistas e melancólicas diminuiria, a sociedade se tornaria mais alegre e as pessoas desfrutariam da vida. Nesse sentido, não é um exagero dizer que esta Arte Médica dos Rins é um método de reforma do corpo e da mente que supera um milhão de sermões.
-
-Agora, sobre a purificação de equilíbrio, preciso explicar um pouco mais. Quando a purificação de equilíbrio ocorre repetidamente, é como se o corpo indicasse os locais onde há toxinas solidificadas. Portanto, no final, todos os locais com toxinas são revelados e todos são curados, e com isso se alcança uma saúde perfeita.
-
-Quando um paciente recebe esta Terapia pela primeira vez, no dia seguinte, ele muitas vezes se sente indisposto. Isso ocorre porque a purificação de equilíbrio ocorre em um local que não foi tratado, não no que foi tratado. É uma febre baixa, e por isso a pessoa se sente indisposta. Portanto, ao tratar o local que não foi tratado no dia anterior, a cura completa ocorre.
-
-Recentemente, as autoridades têm dito ao público em geral para “andar com o peito estufado”. No entanto, se os rins forem completamente curados, o peito se estufará naturalmente. Portanto, a causa de jovens que não conseguem estufar o peito e de idosos que ficam com as costas curvadas é inteiramente a solidificação do veneno da urina nas costas ou na cintura. Portanto, por mais que se promova o peito estufado hoje, a menos que os rins sejam curados, será um esforço artificial e forçado, e será doloroso. Pode haver um efeito temporário, mas a durabilidade será escassa.
-
-Nesse ponto também, o efeito de nossa Arte Médica dos Rins é grande.
-
-## O Problema Populacional e esta Terapia
-
-Se esta Terapia se generalizar, o grande problema do declínio populacional, que atualmente é a maior preocupação da nação, poderá ser resolvido.
-
-Qual é a causa da infertilidade? É inteiramente como explicado no item anterior. A atrofia renal leva à falta de hormônios, e a falta de hormônios leva à fraqueza sexual. Essa é a verdadeira causa do declínio da fertilidade. Naturalmente, não apenas nas mulheres, mas também nos homens. Especialmente nas mulheres, a atrofia renal faz com que o veneno da urina se solidifique no peritônio, comprimindo as trompas de Falópio ou alterando a posição do útero, como a anteversão ou a retroversão, o que impede a concepção.
-
-Sendo assim, a frigidez e a aversão ao marido em mulheres são todas o resultado da atrofia renal. O que a medicina chama de subdesenvolvimento do útero é, naturalmente, isso.
-
-Portanto, se os rins se tornarem saudáveis, a gravidez certamente ocorrerá, o casal viverá em harmonia e os problemas desagradáveis como brigas familiares e divórcios diminuirão drasticamente, o que é inevitável.
-
-Sou forçado a me elogiar. Fora desta Arte Médica, a chave para a solução do problema populacional é absolutamente inatingível.
-
-## A Aplicação desta Arte Médica
-
-Esta Arte Médica é a Arte Médica dos Rins, como expliquei anteriormente. Portanto, durante o tratamento, trata-se a cabeça, o pescoço e os ombros. Em seguida, o paciente fica de bruços, e com a palma da mão e os dedos, examina-se a quantidade de toxinas nos rins direito e esquerdo. Entre os japoneses de hoje, pode-se dizer que não há ninguém que não tenha acúmulo de toxinas nos rins. E essa toxina pode ser dolorosa ou indolor, mas a indolor é mais comum. O local mais importante é o meio do espaço entre a coluna vertebral e a extremidade da última costela, ou seja, se se desenhar um triângulo, o ponto central e a área abaixo dele. Se essa área for macia e afundar com a pressão dos dedos, está bom, mas provavelmente não há ninguém assim. A maioria das pessoas tem uma solidificação de amplo alcance e, em casos graves, há até mesmo pessoas com uma protuberância. É, naturalmente, a solidificação do excesso de urina. Ela se move para cima, para os dois lados da coluna, e especialmente entre a omoplata e a coluna, há uma grande quantidade de solidificação. Essa solidificação está relacionada ao estômago, e ao dissolvê-la, a atividade do estômago é promovida, e o apetite aumenta. Portanto, para pacientes com câncer de estômago, a dissolução dessa solidificação traz bons resultados. A toxina solidificada também se move para baixo, dos rins até o osso da cintura. Especialmente quando há uma toxina solidificada em contato com o osso da cintura, geralmente há um problema nas pernas, e ao dissolvê-la, a cura ocorre.
-
-Sendo assim, o tratamento dos rins é o primeiro, o das costas e da omoplata é o segundo, e o resto é o terceiro. Em geral, a toxina solidificada no rim direito é maior, mas a do esquerdo também é importante. A causa da apendicite, no entanto, é a atrofia do rim direito.
-
-Ao dissolver a toxina solidificada nos rins, a toxina dissolvida se infiltra nos rins e é expelida com a urina. A proteína é essa toxina dissolvida, então, nesse momento, naturalmente há alguma proteína na urina. Portanto, na medida em que as toxinas nos rins são dissolvidas, todas as doenças do corpo, pela ocorrência da purificação espontânea de equilíbrio, são curadas. E a dissolução das toxinas nos rins facilita a dissolução das toxinas em outras partes de uma forma surpreendente.
-
-A atividade completa dos rins torna a força purificadora de todo o corpo extremamente vigorosa.
-
-Portanto, se apenas os rins se tornarem saudáveis, todas as doenças serão curadas, o corpo e a mente se tornarão sadios, e a felicidade e a longevidade serão alcançadas. O ideal da humanidade, que parecia impossível, se torna aqui realidade.
-
-Portanto, acredito que a descoberta desta Arte Médica dos Rins é a maior descoberta da história da humanidade.
-
-Aqui, há um ponto a ser observado: os pacientes com peritonite purulenta. Se apenas os rins forem tratados, em muitos casos, a purificação de equilíbrio ocorre e causa dor abdominal. Portanto, para esses pacientes, o peritônio também deve ser tratado junto com os rins.
-
-## A Arte Médica do Coração
-
-O órgão mais importante depois dos rins é, sem dúvida, o coração. Portanto, explicarei que tipo de bom efeito a saúde do coração, alcançada por esta Terapia, tem sobre as doenças, as funções gerais do corpo, os aspectos mentais, etc.
-
-Primeiramente, o local onde o excesso de urina dos rins se acumula mais é entre a omoplata e a coluna, como expliquei anteriormente. Isso fica exatamente atrás do coração. Portanto, como essa toxina solidificada comprime o coração, é natural que a atividade do coração seja prejudicada. E que tipo de influência a força da atividade do coração tem? Como expliquei anteriormente, no corpo humano, o coração é o fogo, os pulmões são a água e o estômago é a terra. Por esse princípio, o efeito é o seguinte:
-
-Primeiro, ao dissolver as toxinas que comprimem o coração, a atividade do coração se torna vigorosa. Como resultado, a absorção do elemento fogo aumenta, e a atividade dos pulmões, que são a água, é fortalecida, naturalmente. É como se a força do fogo que aquece a água aumentasse. Portanto, se a atividade dos pulmões se tornar vigorosa, as toxinas solidificadas nos pulmões de um paciente com tuberculose serão dissolvidas e expelidas mais rapidamente, e a cura será acelerada. A atividade dos pulmões também promove a atividade do estômago, e o apetite aumenta. A combinação dos dois produz um efeito muito grande.
-
-Mas não é só isso. O que não pode ser ignorado é que uma mudança favorável na personalidade aparece. A função do coração, por ser a fonte do calor, é a função de onde brota o amor, em termos de personalidade. Portanto, a atividade vigorosa do coração significa que a emoção do amor se torna mais forte, e a personalidade muda. Como exemplo, a personalidade dos pacientes com tuberculose é, em geral, de um calor de amor fraco, com a razão prevalecendo. Com base em minha experiência de tratar muitos pacientes com tuberculose, este é um fato indiscutível. Quando o coração está fraco, o calor do amor é insuficiente. Por isso, a água não se aquece.
-
-Nesse sentido, com esta Arte Médica do Coração, a cura da tuberculose pulmonar é acelerada e o número de doentes diminui. Não é preciso dizer que ela é eficaz para a solução do problema da tuberculose. Na verdade, enfatizo que não há outra solução além desta.
-
-## Doenças Epidêmicas Desconhecidas pela Medicina
-
-Recentemente, entre os homens e mulheres de meia-idade e mais velhos de nosso país, há uma doença especial que não só é bastante comum, como também parece estar em uma tendência de aumento gradual. E essa doença, mesmo que seja diagnosticada por um médico, não é identificada, e o médico diz que não há doença. No entanto, a pessoa sofre muito, mas não há o que fazer. Os sintomas são: cansaço geral, cabeça pesada, rigidez nos ombros e no pescoço, cansaço fácil das coisas, falta de perseverança, falta de vontade de fazer qualquer coisa, e devido ao desconforto, a pessoa vive sem alegria, passando os dias em inércia. É um sintoma verdadeiramente lamentável. E como a aparência é saudável, as pessoas ao redor a veem como preguiçosa, e o paciente sofre ainda mais.
-
-No entanto, todos esses sintomas são causados pela atrofia renal. Ao examinar os rins do paciente, encontra-se um grande acúmulo de toxinas. E nos dois lados da coluna, nos ombros, na cabeça, perto dos gânglios linfáticos, em toda a cabeça, no peritônio, etc., também há um acúmulo considerável de veneno da urina. Portanto, ao realizar a purificação dos rins primeiro, e depois das outras partes, à medida que a toxina solidificada diminui, o sofrimento diminui gradualmente, e finalmente a pessoa recupera uma vitalidade vibrante. A alegria do paciente é indescritível.
-
-Este sintoma é mais comum em pessoas de classe média e alta, e especialmente em mulheres.
-
-## Sobre Alimentos Estranhos
-
-Expliquei em detalhes os danos do veneno de medicamentos e dos alimentos estranhos, mas preciso explicar um pouco mais. A função digestiva humana parece não ser capaz de digerir completamente nada além do que foi naturalmente dado como alimento para o homem. Portanto, os medicamentos, sejam ocidentais ou chineses, não são alimentos e bebidas dados pelo céu. São, por assim dizer, não-alimentos, corpos estranhos. E chamar de remédio e engolir cobras, lesmas, minhocas, etc., e beber o sangue de seres vivos, tudo isso é corpo estranho, e as toxinas permanecem.
-
-Recentemente, para suplementar o cálcio, recomenda-se comer ossos, mas isso também é um erro, naturalmente. De todos os peixes, o natural é comer a carne e descartar os ossos, a cauda, a cabeça, etc. Os dentes humanos não foram feitos para mastigar coisas como ossos, o que torna isso claro. Portanto, os ossos, etc., foram naturalmente designados como alimento para gatos. E a teoria simplista de comer ossos como nutrição para os ossos e beber sangue para aumentar o sangue deve ser despertada para seu erro o mais rápido possível. A seguir, apresento alguns exemplos práticos.
-
-Uma vez, ouvi de uma mulher que foi enfermeira-chefe em um hospital por muitos anos. Um homem de cerca de quarenta anos morreu subitamente sem nenhuma causa aparente. A causa da morte foi questionada, e uma autópsia foi realizada. Uma grande quantidade de pequenas partículas pretas estava acumulada em seu intestino, e descobriu-se que essa foi a causa da morte. Devido à constipação, as pílulas que ele tomou como laxante por muitos anos se acumularam. Imagina-se que isso tenha causado uma obstrução intestinal ou a parada do movimento peristáltico, mas de qualquer forma, a causa da morte foi, sem dúvida, as pílulas laxantes.
-
-Em seguida, houve um homem de cerca de cinquenta anos que morreu subitamente por uma causa semelhante. A diferença é que, neste caso, a causa não foi um laxante, mas o uso contínuo de um digestivo como um pó para o estômago. Como resultado da autópsia, o fundo do estômago e o intestino estavam gravemente acumulados com o digestivo.
-
-Em seguida, um discípulo meu tratou um paciente com doença estomacal. Havia vários pequenos nódulos na parte inferior do estômago, e ele sempre tinha um certo desconforto. No entanto, ao receber o tratamento desta Terapia, ele vomitou várias vezes logo depois. Com isso, os nódulos desapareceram, e o desconforto se foi.
-
-No entanto, durante o vômito, saiu algo como um muco, que tinha o cheiro de lesma. Essa pessoa havia engolido várias lesmas mais de dez anos antes. As lesmas não haviam sido digeridas e permaneceram.
-
-Da mesma forma, uma mulher que era cantora engoliu duas lesmas para melhorar a voz. No entanto, anos depois, um pequeno nódulo como um câncer se formou no lado esquerdo do estômago e começou a crescer. Ela foi internada e operada. Para sua surpresa, uma das lesmas estava morta e solidificada, e a outra estava viva e havia crescido muito dentro do estômago.
-
-Sendo assim, é um fato indiscutível que corpos estranhos que não são alimentos humanos são difíceis de digerir e permanecem por anos, tornando-se a causa de doenças.
-
-Portanto, como expliquei anteriormente, todos os alimentos humanos contêm sabor, e ao comê-los com prazer, eles são completamente digeridos, e a saúde é mantida. No entanto, sem saber disso, comer coisas sem sabor ou com mau cheiro pensando que são remédios, e isso se tornar a causa de doenças, e não apenas sofrimento, mas até mesmo a perda da vida, é uma tolice incomparável.
-
-## A Qualificação dos Médicos
-
-Sobre a qualificação dos médicos, gostaria de apontar uma grande falha que não pode ser ignorada. Quando as autoridades concedem a qualificação de médico, o sistema atual se baseia em três fatores: formação acadêmica, experiência e publicações. Isso é de conhecimento geral, mas acredito que, na verdade, falta o ponto mais crucial. Qual é esse ponto? É o exame de habilidade no tratamento de doenças. Ou seja, a primeira condição deveria ser a habilidade de curar várias doenças da forma mais rápida e eficaz possível. Por mais excelente que seja a formação acadêmica, a experiência e as publicações, se não houver a habilidade e a destreza para curar doenças na prática, a qualificação como médico estaria incompleta.
-
-Como afirmei repetidamente, a missão da medicina é nada mais do que curar doenças e promover a saúde. Naturalmente, a formação acadêmica, a experiência e as publicações são necessárias, mas são, em última análise, condições básicas para o objetivo de curar doenças, e não o método de cura em si, naturalmente. É como construir um avião: por mais científica que seja a explicação da máquina e da estrutura, se ele não voar na prática, não tem sentido.
-
-Nesse sentido, a qualificação dos médicos deveria ser determinada pela superioridade ou inferioridade da habilidade de cura, como mencionei. A formação acadêmica, a experiência e as publicações deveriam ser condições secundárias. Acredito que esta seria a abordagem mais correta. Ao fazer isso, a medicina curativa finalmente fará um progresso real. Como método para isso, primeiro, com a formação acadêmica, a experiência e as publicações regulares, obtém-se o título de bacharel. Para se obter a qualificação de doutor, deve-se passar por um exame rigoroso de habilidade de cura, como mencionado anteriormente, e a qualificação deve ser concedida após a confirmação da superioridade.
-
-Em seguida, há outra coisa que gostaria de dizer. O fato de que, independentemente de o paciente ser curado ou não, ele deve pagar a mesma quantia é irracional. Ao determinar o valor do tratamento médico, há uma grande diferença de valor entre a cura completa, a demora, a cura incompleta, a piora, etc., mas um cálculo preciso na prática é difícil. Portanto, acredito que o seguinte método seria uma opção no momento. Apresento-o para referência.
-
-1.  Em caso de cura completa da doença, o valor da consulta atual seria dobrado. Em caso de não cura, seria metade do valor da consulta atual.
-2.  Na primeira consulta, o número de dias para a cura completa seria determinado antecipadamente. Durante esse período, o valor da consulta atual seria dobrado. Se o número de dias for excedido, o valor seria reduzido para metade do valor da consulta atual.
-3.  Na primeira consulta, o número de dias e o valor até a cura completa seriam determinados, e o valor total seria pago. Se, contra as expectativas, o resultado não for o esperado, metade do valor seria devolvido. E este método poderia ser ajustado de acordo com a riqueza do paciente. A classificação por níveis também seria um método.
-
-Ouvi dizer que os chineses, ao receberem tratamento médico, na primeira consulta, perguntam: “Quanto custa para curar esta doença?”. Alguns japoneses riem disso, mas acredito que, em certo sentido, é mais progressista e racional. Afinal, este método corresponde à situação financeira do paciente e, para o médico, a superioridade ou inferioridade da habilidade é recompensada de forma justa.
-
-Se meu plano fosse implementado, o efeito mais notável seria que a medicina faria um progresso real em direção à cura. No entanto, os médicos podem sentir que sua dignidade é ferida por essas propostas.
-
-Mas isso é apenas superficial. Ao implementar meu plano, a dignidade intrínseca, ou seja, o respeito sincero, seria conquistado.
-
-Afinal, para o paciente, o objetivo é se livrar da doença o mais rápido possível, aliviar o sofrimento e recuperar a saúde. Não há nada além disso. Se isso for resolvido, a gratidão e o respeito surgirão naturalmente, e nada mais importará.
-
-Ouvi dizer que os médicos da era Tokugawa, que eram chamados de grandes médicos, tratavam doenças difíceis e, com isso, ganhavam fama. Isso coincide com a teoria que proponho.
-
-## Sobre a Associação Médica
-
-Aqui, gostaria de dizer uma palavra sobre a associação médica. Acredito que a união exclusiva da medicina ocidental, como tem sido até hoje, deveria ser reformada para abranger todas as terapias populares, para que as características de cada uma sejam estudadas e aprimoradas mutuamente, e como resultado, uma medicina exclusivamente japonesa seja estabelecida. A formação da associação médica, ao que parece, é bastante antiga. Naturalmente, como uma instituição da era Meiji, quando o Japão importou indiscriminadamente a cultura materialista do Ocidente, talvez fosse inevitável.
-
-No entanto, hoje, quando o Japão foi forçado a entrar no palco mundial, nós, japoneses, temos a missão de criar uma cultura exclusivamente japonesa e, com isso, nos tornarmos líderes mundiais. Portanto, na medicina também, naturalmente, chegou o momento de criar uma arte médica exclusivamente japonesa.
-
-Mas não é só isso. O fato de que, com os métodos materialistas da medicina ocidental, a solução para a constituição física do povo, o problema populacional e o problema da tuberculose é difícil, está se tornando por demais evidente. Por essas razões, proponho aqui a urgência da questão da reforma da associação médica.
-
-## Um Fato Curioso
-
-Em relação aos médicos, sempre me deparo com um fato que me deixa perplexo. Quando um caso grave, desenganado por um grande hospital ou por um grande especialista, é curado milagrosamente por esta Terapia, o paciente, de tanta alegria e pensando em como tantas pessoas poderiam ser salvas por uma arte médica tão maravilhosa, relata detalhadamente ao médico. No entanto, nesse momento, o médico não demonstra o menor interesse. E quando um membro da família do médico é curado por esta Terapia, ele apenas se surpreende e não demonstra a intenção de pesquisar. Do meu ponto de vista, ao se mostrar na realidade um efeito curativo incomparavelmente superior ao da medicina ocidental, um médico, antes de tudo, deveria assumir uma atitude positiva para pesquisá-lo, mas até hoje isso nunca aconteceu.
-
-No entanto, ao se depararem com um relatório de uma descoberta de um estudioso ocidental, eles demonstram grande interesse e imediatamente começam a pesquisá-la. Isso mostra o quão profundamente o culto ao Ocidente está enraizado nos médicos e cientistas japoneses. Acredito que os médicos e cientistas japoneses tenham decidido em seus corações que as grandes descobertas na medicina são feitas principalmente por ocidentais e que, se forem japoneses, só podem ser cientistas. Naturalmente, como a maior parte da cultura até hoje foi assim, a ideia preconcebida de que ainda é assim é provavelmente a mesma que a ideia de que o domínio mundial dos Estados Unidos e da Grã-Bretanha, que durou até hoje, era algo absolutamente imutável.
-
-Acredito que o primeiro passo para que a excelência desta Arte Médica seja amplamente conhecida seja a correção da visão estreita dos médicos, como mencionei. É a coisa mais urgente.
-
-A patologia, o diagnóstico e a terapia da medicina ocidental, como expliquei de forma prática, são tão incultos e cheios de equívocos que, por mais que se esforce e se pesquise, a solução para as doenças e a promoção da saúde são impossíveis. Não há margem para discussão. Pelo contrário, a menos que se desperte para a raiz do problema o mais rápido possível, a humanidade estará à beira de uma terrível crise de extinção, como mostrei nas estatísticas.
-
-No entanto, o fato de que uma arte médica excelente, que não requer as instalações e os métodos complexos como as máquinas e os medicamentos da medicina ocidental, mas que, com a simples técnica das mãos humanas, tem um diagnóstico e um poder de cura superiores, foi criada por um japonês, e esse fato ser ignorado, é algo extremamente incompreensível. Mesmo que se testemunhe um efeito prático tão grande, a atitude de não lhe dar a menor atenção parece ser quase religiosa em relação ao ídolo da medicina. É como a atitude de considerar como herege tudo o que não pertence à própria fé. A esse respeito, apresentarei alguns exemplos como referência.
-
-Anos atrás, tratei a doença ocular de um velho oftalmologista que exercia a profissão em um local em Tóquio por mais de quarenta anos. A causa foi a água com sabão que entrou em seus olhos durante o banho. A condição piorou gradualmente e, como não melhorava, ele veio me procurar. Ele disse: “Meu filho trabalha na oftalmologia da universidade XX e, por isso, fui lá por vários meses e recebi o tratamento mais recente, mas a condição piorou gradualmente, e agora minha visão é de 0,1”. Com um único tratamento meu, no dia seguinte a visão era de 0,4, e em uma semana, a cura completa ocorreu. Portanto, o oftalmologista ficou surpreso com o efeito desta Terapia e a estudou. Alguns meses depois, ele veio me visitar, e eu perguntei: “Você já experimentou esta Terapia em alguém?”. Ele respondeu: “De jeito nenhum. Se eu fizesse isso, seria expulso da associação médica. Por isso, mantenho em segredo absoluto e não contei nem para minha esposa nem para meu filho”. Fiquei pasmo.
-
-Quando eu tratava, tratei a asma grave de uma jovem senhora (24 anos). Era de uma violência rara. Ela passava vinte dias do mês internada e dez dias em casa. Como não se sabia quando a crise ocorreria, e era difícil ir ao médico a cada vez, o marido aprendeu a aplicar injeções, preparou uma seringa e não se afastava da esposa. Ela se tornou uma viciada em injeções. Em dias ruins, ela recebia vinte a trinta injeções por dia e, como resultado, entrava em coma, ficava à beira da morte e foi desenganada pelos médicos várias vezes. No entanto, com meu tratamento, ela melhorou rapidamente. O marido ficou extremamente comovido e, acreditando que um tratamento tão grandioso deveria ser aplicado na medicina, foi se encontrar com um médico do grande hospital onde a esposa foi tratada por muito tempo e explicou a situação. O marido fez isso por outra razão: o médico era uma autoridade em asma e era tão dedicado à pesquisa da asma que se esquecia de comer e dormir. O médico ficou surpreso e disse que queria muito pesquisar, e combinou de vir me encontrar. No entanto, no dia combinado, ele não veio. Depois disso, o marido foi combinar várias vezes, mas ele sempre ignorou o compromisso e não veio. O homem ficou extremamente irritado e disse com firmeza que era incompreensível que, com o surgimento de uma terapia tão maravilhosa, um médico não a pesquisasse, tanto do ponto de vista da missão de um médico quanto do ponto de vista da humanidade. No entanto, tudo foi em vão.
-
-Em seguida, um homem de cinquenta e poucos anos, com um câncer na bochecha, uma doença chamada carcinoma bucal, recebeu todo tipo de tratamento médico por vários anos e, finalmente, foi ao instituto de pesquisa do câncer e recebeu o veredicto de incurável. Com meu tratamento, ele se curou completamente em dois ou três meses. O instituto, mesmo depois que o paciente o deixou, costumava perguntar sobre seu estado de vez em quando. Portanto, cerca de um ano após a cura completa, em resposta a uma pergunta do instituto, ele foi lá e mostrou seu estado de cura. Os médicos ficaram surpresos e perguntaram sobre o processo, e ele contou detalhadamente que se curou com esta Terapia. No entanto, o médico não demonstrou nenhuma expressão e, pelo contrário, saiu do local parecendo de mau humor.
-
-Em seguida, uma mulher de cerca de quarenta anos teve um tumor no tornozelo do pé direito. Por vários anos, ela recebeu todo tipo de tratamento médico, mas não só não melhorou, como a condição piorou gradualmente, e finalmente ela não conseguia mais andar e ficou acamada, gemendo, por mais de um ano. No entanto, com esta Terapia, ela pôde sair livremente. Um dia, ela encontrou na rua o médico que a tratou quando estava acamada. O médico ficou surpreso e perguntou: “Como você melhorou?”. Ela respondeu: “Melhorei com esta terapia”. O médico disse: “Ah, isso é uma reza”. A mulher explicou que não era uma reza, e ele disse: “Ah, então você usa uma raposa”.
-
-Portanto, se for como este médico diz, a reza ou a raposa têm um efeito curativo superior à medicina moderna. Não pude deixar de me surpreender com o cérebro desse médico.
-
-Exemplos como este são numerosos demais para serem contados, e o resto pode ser deduzido. Há também este caso: um médico, quando acha que um paciente é difícil de tratar, o encaminha para meu discípulo. Naturalmente, ele sabe que o que a medicina moderna não pode curar, esta Terapia pode. Mesmo acreditando até esse ponto, ele não se dedica à pesquisa, o que também acho estranho. Talvez seja por temer que isso crie uma situação complexa com a associação médica, mas ao se pensar na missão de um médico, isso não apenas vai contra o progresso da cultura, como também trai a sagrada missão de lidar com a vida humana.
-
-No entanto, acredito que, em relação a esta Arte Médica, não se deve hesitar, mas sim mergulhar e pesquisar. Se, como
 
 ---
 

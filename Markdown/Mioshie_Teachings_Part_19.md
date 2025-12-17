@@ -1,9 +1,321 @@
 # Mioshie_Teachings - Part 19
 
+# O Planejamento da Sede Sagrada e do Museu de Arte de Hakone
+
+**Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S27年3月16日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
+
+## O Planejamento da Sede Sagrada e do Museu de Arte de Hakone
+
+Percebo que persistem diversas dúvidas concernentes às enfermidades; por essa razão, eu pretendia solicitar a leitura de alguns textos a esse respeito. Todavia, como nosso tempo já se tornou escasso e ainda haveria muito a ser lido, deixaremos essa parte de lado por ora e passarei a lhes dirigir algumas palavras.
+
+As obras do Museu de Arte de Hakone prosseguem em ritmo satisfatório, e é notável como o interesse por empreendimentos dessa natureza tem crescido em todo o país. Um exemplo recente foi a exposição de estátuas búdicas do templo Kofuku-ji, realizada na loja de departamentos Mitsukoshi. O evento atraiu uma multidão extraordinária; segundo relatos, era preciso aguardar mais de uma hora na fila para conseguir entrar.
+
+Naturalmente, por estar localizado em Hakone, um local de acesso menos imediato, talvez nosso museu não chegue a enfrentar um congestionamento tão extremo. Contudo, estou convicto de que receberá um público considerável. Nesse sentido, prevejo que praticamente todos os estrangeiros que visitarem Hakone farão questão de conhecê-lo. Como nosso acervo é rico em arte japonesa, o interesse do público internacional será ainda maior, e a reputação do museu, aliada à qualidade de suas obras, certamente despertará em muitos o desejo de visitá-lo.
+
+Essa perspectiva nos impõe a necessidade de um estacionamento. O local ideal é um terreno em declive, na esquina diagonal em frente ao hotel Taikanso do Sr. Shibui. Essa área, que pertence à companhia ferroviária Hakone Tozan, é a única opção viável e perfeitamente adequada para nosso propósito. O plano consiste em nivelar o terreno para criar o estacionamento, posicionando o portão principal e a bilheteria na esquina do Shinsenkyo (神仙郷), o que facilitaria o acesso dos automóveis. Apresentei à companhia a seguinte proposta: “Com a inauguração do museu, o número de passageiros de seus trens aumentará em pelo menos mil pessoas por dia. Diante desse benefício, solicito que nos doem o terreno”. A empresa, contudo, considerou a doação inviável, mas concordou em nos ceder a área em regime de empréstimo, o que já foi acertado. Com isso, a maior parte dos jardins do Shinsenkyo (神仙郷) deverá estar concluída por volta do verão.
+
+Agora, devemos voltar nossa atenção para a preparação da Sede Central, do outro lado da linha do funicular, onde adquirimos um vasto terreno de dez mil tsubo. O local é excepcionalmente bem-configurado, situado no coração de Gora, com uma montanha de configuração primorosa, em formato de uma tigela invertida, e um bosque de cedros ao fundo. É uma paisagem de uma harmonia surpreendente. Adquirimos essa propriedade, que na verdade são sete mil tsubo comprados há um ou dois anos, por um valor irrisório. O trabalho de terraplanagem será simples, pois, ao contrário do Shinsenkyo (神仙郷), o solo não é rochoso, mas composto apenas de terra. A montanha não é íngreme, mas suavemente arredondada, o que facilitará o nivelamento.
+
+Nesse platô, preservando o bosque de cedros ao fundo, pretendo edificar um auditório com capacidade para dez mil pessoas, em assentos individuais. Será, creio eu, o maior do Japão. O Teatro Internacional de Asakusa, atualmente o maior, acomoda cinco mil pessoas; o nosso terá o dobro dessa capacidade. Desconheço a existência de algo maior nas Américas, mas certamente será o maior do Oriente. A estrutura será, obviamente, de concreto armado. Em um patamar inferior, em um terreno de cinco mil tsubo que adquirimos no ano passado, construiremos alojamentos para os fiéis, organizados por províncias ou por grupos, seguindo o modelo que a Tenrikyo utiliza. A esse local dei o nome de “Komyodai”.
+
+Para se chegar ao “Komyodai” a partir do Shinsenkyo (神仙郷), contudo, há o obstáculo dos trilhos do funicular. Atravessá-los diretamente é perigoso e inviável. A solução que concebi é a construção de uma passagem subterrânea. A topografia do local é extremamente favorável, pois o ponto de partida, próximo ao estacionamento e à rua do hotel Kurata, é mais elevado, enquanto o lado do “Komyodai” é mais baixo, tornando a construção do túnel bastante simples. Ademais, a terra retirada da escavação será aproveitada para aterrar e nivelar a área do estacionamento. Por ser uma obra de curta distância, poderá ser inteiramente realizada pelas nossas equipes de dedicantes.
+
+A apreciação da arte exige um ambiente sereno; os visitantes não podem simplesmente entrar e sair em fluxo contínuo, como se estivessem em um museu qualquer. É preciso cultivar uma atmosfera agradável. Por essa razão, construiremos uma área de espera com duzentos a trezentos assentos, a fim de organizar a entrada dos visitantes em grupos controlados. Também planejamos um acesso coberto para os dias chuvosos. Atualmente, os visitantes que chegam de carro – sejam estrangeiros ou japoneses que apreciam maior conforto – precisam caminhar sob a chuva. Para solucionar isso, alargaremos o caminho existente atrás do museu, que hoje tem apenas três shaku, tomando seis shaku do terreno do hotel Taikanso. Assim, será possível desembarcar do automóvel e entrar no museu sem se expor ao tempo.
+
+Como podem ver, há um volume considerável de trabalho a ser feito, envolvendo todas essas instalações e melhorias. A área atrás do salão de chá está passando por terraplanagem e deverá ser concluída até o verão, embora a maior parte já esteja pronta. Ali, no terreno nivelado, plantaremos bordos. Também plantaremos o maior número possível de bordos ao longo do riacho, para que, no outono, a beleza das folhagens avermelhadas emoldure a paisagem. Essa área já conta com o Caminho das Hagi, tornando o outono uma estação particularmente bela. Hakone é famosa por suas cores outonais, mais do que por suas cerejeiras – que, embora belíssimas em Gora, são menos conhecidas. Portanto, creio que a oportunidade de contemplar a arte em meio ao esplendor dos bordos de outono será uma combinação perfeita e extremamente apropriada.
+
+---
+
+# Sobre a Conjuntura Mundial e a Decadência da Arte
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S27年12月5日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
+
+## Sobre a Conjuntura Mundial e a Decadência da Arte
+
+Gostaria de abordar brevemente a conjuntura atual. Conforme noticiado nos jornais, a localização de Eisenhower tornou-se desconhecida a partir do dia 28, com especulações de que teria ido à Coreia. O propósito de tal visita, também discutido pela imprensa, é bastante claro e dispensa maiores comentários. A questão coreana, que se protrai indefinidamente, sem qualquer resolução, resulta, como sempre afirmo, de uma tática de desgaste imposta pelos Estados Unidos. Por trás da China Comunista encontra-se, evidentemente, a União Soviética.
+
+Se o conflito fosse solucionado, as forças aliadas se retirariam, e com a partida dos americanos, a estratégia de atrito chegaria ao fim. Tal desfecho contraria os interesses soviéticos, e por essa razão, seu objetivo primordial sempre foi impedir a paz e a assinatura de qualquer armistício. Portanto, reitero o que venho dizendo: um acordo definitivo é inviável. A tática consiste em manter um contingente expressivo de tropas americanas e da ONU imobilizado naquela região, provocando um sangramento contínuo de recursos financeiros e vidas humanas. Atualmente, os Estados Unidos perdem cerca de mil soldados por mês em combate, um cenário perfeitamente conveniente para o bloco comunista.
+
+Nesse sentido, ainda que a recente proposta da Índia parecesse favorável à China Comunista e à União Soviética, sua aprovação levaria à indesejada cessação das hostilidades. Por isso, na votação, apenas os cinco países do bloco soviético se opuseram, enquanto as outras cinquenta nações votaram a favor. Fica claro, pois, que um acordo é impossível.
+
+Diante desse quadro, qual se torna o panorama? Embora os Estados Unidos desenvolvam novos armamentos e a bomba de hidrogênio, o que é muito positivo, o arsenal soviético continua a se expandir em quantidade. Tanto a América quanto a Europa já atingiram, pode-se dizer, o ápice de sua capacidade bélica, encontrando-se no limite do que suas economias podem sustentar. A União Soviética, por sua vez, a cada novo plano quinquenal, aumenta exponencialmente seu poderio militar.
+
+A estratégia soviética consiste, portanto, em ganhar tempo. Eles sabem que, com o passar dos anos, sua força se avolumará. Se a guerra eclodisse agora, estariam em considerável desvantagem militar, motivo pelo qual se empenham em adiar o confronto até que se sintam plenamente preparados. Os Estados Unidos, cientes disso, compreendem a urgência de uma solução. Embora eu não possa precisar a dimensão da resposta, uma ação contundente se faz necessária. A situação atual é insustentável; é preciso adotar uma abordagem muito mais enérgica. Para tanto, é fundamental inspecionar o cenário pessoalmente, e essa é a razão da viagem de Eisenhower.
+
+Como resultado, a conclusão inevitável será a de que se deve agir de forma proativa. Isso pode se traduzir em um bloqueio costeiro ou, o que é mais provável, no bombardeio da Manchúria. Tal ação poderia desencadear um grande conflito na China, momento em que, imagino, as forças nacionalistas de Chiang Kai-shek aproveitariam a oportunidade para avançar sobre o continente. Consequentemente, todo o território chinês mergulharia em uma profunda convulsão. Cedo ou tarde, esse desfecho é inevitável, e quanto antes ocorrer, melhor.
+
+No passado, elogiei a estratégia de MacArthur como sendo excelente, e o plano que agora se desenha assemelha-se em muito às suas propostas. Truman, em contrapartida, sempre adotou uma postura extremamente passiva, um homem cuja filosofia era a de evitar complicações, abstendo-se ao máximo de atitudes ousadas. Foi esse seu modo de pensar que nos conduziu a este longo impasse. Todavia, para Eisenhower, a situação é intolerável, pois quanto mais o tempo passa, mais desfavorável a posição americana se torna. Por isso, mesmo antes de ser eleito, ele já prometia ir à Coreia para resolver a questão. Dependendo das circunstâncias, podemos estar às portas de um acontecimento de grandes proporções.
+
+Ainda assim, creio que a Terceira Guerra Mundial está mais distante. A União Soviética é relutante em tomar a iniciativa; são extremamente calculistas. O princípio fundamental do comunismo é conquistar sem recorrer à guerra. Eles fortalecem seu arsenal ao máximo para estarem prontos a responder a uma provocação, mas raramente partem para o ataque. Aí reside a profundidade de seu pensamento. Portanto, mesmo que a China seja subjugada, é improvável que a União Soviética intervenha.
+
+Contudo, ainda que uma guerra mundial não ecloda, devemos prever grandes turbulências tendo a China como palco. A nação passará por uma imensa transformação. Na perspectiva do Plano Divino, tal desdobramento se faz grandemente necessário por diversas razões, e devemos esperar que esses movimentos comecem já no próximo ano. Trata-se de uma etapa crucial do grande Plano Divino e, embora pareça inadequado qualificar tais eventos como interessantes, o avanço do Plano se tornará muito mais nítido.
+
+Mudando de assunto, a edição de hoje do jornal *Yomiuri Shimbun* trazia, em letras garrafais, a manchete: “Deus é hábil em fazer dinheiro”, seguida por um subtítulo: “Lucro fácil, que até a Receita Federal tolera”. Ao ler o artigo, percebi que o foco principal recai sobre a Sekaikyuseikyou. Embora mencione também a Rissho Kosei-kai, esta figura apenas como um apêndice; o alvo central é a nossa Igreja. A tese é que nossa receita, obtida sem esforço, é excessiva. Não chegam a dizer que é ultrajante, mas insinuam que somos espertos em nossas manobras e que os fiéis são ingênuos.
+
+Isso ilustra o que sempre digo sobre “a ingenuidade de subestimar aquilo que não é ingênuo”. O artigo detalha diversas fontes de receita, calculando quanto arrecadaríamos com a venda de amuletos, chegando a um total de centenas de milhões. Há algo na mentalidade dessas pessoas que minha razão não consegue abarcar. Não haveria problema algum, qualquer que fosse a receita; a questão que deveriam ponderar é: por que essa receita existe? Não se trata de estelionato ou roubo. A totalidade desses recursos provém de donativos dos fiéis. Se eles doam, é porque existe uma razão para doar. Neste mundo tão pragmático, é concebível que algumas poucas pessoas façam doações, mas é impensável que centenas de milhares o façam gratuitamente. É sobre isso que eles deveriam refletir.
+
+Limitar-se a apontar o montante da receita, e fazê-lo com um tom de ressentimento, revela uma mentalidade medíocre. Pensei que os jornalistas de hoje precisassem renovar um pouco sua forma de pensar. O mais importante seria investigar o destino desses recursos. Supondo que a receita seja vultosa, se sua aplicação se reverte em benefício da humanidade e da nação, qual seria o problema? Existem diversas obras sociais e projetos governamentais, mas aquilo de que o Estado não se apercebe ou que não consegue realizar precisa ser feito por alguém. Como nós realizamos o que o Estado não pode, o dinheiro doado pelos fiéis, em essência, supre as deficiências do Estado, o que é algo excelente.
+
+Cito um exemplo: recentemente, os americanos têm demonstrado um enorme interesse em adquirir obras de arte japonesas, e muitos agentes se movimentam para comprá-las. Geralmente, essas peças são levadas aos museus, mas os museus não têm verba. O Japão é pródigo com gastos militares, mas de uma avareza atroz quando se trata de iniciativas pacíficas. O orçamento anual de um museu é de apenas dois mil ienes. Uma obra de arte minimamente famosa e de boa qualidade custa a partir de cinco ou seis milhões de ienes. Mesmo que destinassem todo o orçamento, poderiam adquirir apenas algumas poucas peças.
+
+Assim, os museus não podem comprá-las, e quase não há indivíduos no Japão com capacidade para adquiri-las. Antigamente, os grandes conglomerados e as famílias abastadas as compravam, mas hoje esses grupos estão praticamente arruinados. Existem novos-ricos, é claro, mas estes carecem de interesse e discernimento artístico, tornando qualquer aquisição um risco. Vivemos, pois, uma situação anômala, em que aqueles com poder de compra não compram, e aqueles com conhecimento e sensibilidade não têm dinheiro.
+
+Quando um museu recusa uma obra, a alternativa é trazê-la à Sekaikyuseikyou. Frequentemente, peças de grande valor chegam até mim. Se não as adquirimos, seu destino é a América. É a nossa Igreja que intervém para retê-las no país. Por essa razão, tanto a Comissão de Proteção ao Patrimônio Cultural quanto os museus nos são imensamente gratos. Nesse aspecto, realizamos um trabalho de suma importância, que nem mesmo o Estado consegue fazer. A religião chamada Sekaikyuseikyou executa tarefas essenciais para a nação, que estão além do alcance do governo. Se compreendessem isso, deveriam nos reverenciar. Em vez disso, ignoram completamente esses fatos e se limitam a criticar nossas finanças. É verdadeiramente lamentável que um grande jornal como o *Yomiuri* publique, de forma tão ostensiva, um artigo de nível tão baixo. Eu esperaria que tratassem o assunto com uma mentalidade mais madura e intelectual. Tal postura seria mais compreensível vinda de um jornal iniciante, mas nem mesmo estes agem assim hoje em dia. É uma atitude excessivamente vulgar, o que me causa profundo pesar.
+
+Outro ponto é que, recentemente, os grandes mestres desapareceram das mais diversas áreas. Comecei a escrever sobre os motivos disso. Pretendo abordar o tema em profundidade, mas o que apresentarei hoje foca nos atores, especialmente nos grandes nomes do teatro Kabuki, que praticamente já não existem. Em outra oportunidade, escreverei sobre o desaparecimento dos grandes pintores.
+
+O que direi agora, e que talvez fique ainda mais claro de forma oral, é que os mestres da pintura praticamente se extinguiram. Além disso, a pintura oriental, com sua força característica, desapareceu, dando lugar a uma imitação da pintura a óleo ocidental. Basta visitar uma exposição para constatar: as telas são apenas uma massa de tinta aplicada de forma grosseira. Esse método de pintura é extremamente fácil e permite dissimular os erros. Se o artista erra, basta cobrir a falha com uma camada espessa de tinta, e ninguém perceberá.
+
+A pintura oriental, contudo, que se baseia no traço, é implacável. Uma vez que a linha é traçada, o erro é permanente. Aí residem seu valor e sua arte. O método atual de apenas aplicar cores é de um nível artístico inferior. É como um discurso prolixo e superficial, em contraste com a palavra precisa, que, dita em uma ou duas sentenças, toca as fibras da alma do interlocutor e o faz compreender a verdade. É como atirar: o mestre acerta com um único disparo, enquanto o inábil utiliza uma espingarda de chumbos, espalhando-os a esmo na esperança de que um atinja o alvo.
+
+A quintessência da arte oriental reside na pincelada única. A força mais reverenciada e poderosa do pincel encontra-se nos pintores da dinastia Song, na China. Muitos devem ter visto suas obras em museus: artistas como Mokkei (牧谿), Ryokai (梁楷), Baen (馬遠) e Ganki (顔輝). O traço desses mestres é inimitável. Nem mesmo os mais célebres artistas da escola Kano, no Japão, conseguiram mais do que imitá-los. Aquele que mais se aproximou da potência da pincelada das eras Song e Yuan foi Miyamoto Musashi. Ele transpôs a destreza de sua arte marcial, a espada, para o pincel. Sua obra possui uma força extraordinária.
+
+De onde provém tal força? Os pintores da dinastia Song eram, em sua maioria, monges. E que monges eram esses! Homens que passaram por um treinamento duríssimo, isolando-se por décadas nas montanhas em regime de ascetismo e dieta estritamente vegetariana. Eram, portanto, seres humanos de uma constituição diferente. Quando um homem assim empunha o pincel, o resultado é diferente. A potência de suas pinceladas é indescritível.
+
+Hoje, poucas pessoas sabem apreciar esse tipo de arte. Mas elas existem, e a prova disso são os preços altíssimos que essas obras alcançam, muitas vezes superando os de mestres ocidentais. A questão fundamental é que o ser humano mudou. O homem contemporâneo é incapaz de manejar o pincel daquela forma. Falta-lhe força no traço. A principal causa disso reside na alimentação.
+
+Afirmo que, alimentando-se de bife e leite, é absolutamente impossível produzir a autêntica pintura oriental. O vigor necessário para o pincel não se manifesta. Observemos os artistas de hoje, como Kokei, Yukihiko ou Seison: eles apenas desenham o contorno e preenchem com tinta. Qualquer um pode fazer isso. Mas traçar uma única linha, fluida e perfeita, é algo que quase ninguém consegue, pois o pincel está enfraquecido. Falta-lhes força. Além da alimentação, as pessoas tomam remédios. Consumir medicamentos e carne inevitavelmente enfraquece o corpo.
+
+Eu já escrevi sobre a causa fundamental disso: a vacinação. Pretendo desenvolver este tema em um próximo artigo, mas quero afirmar que a vacinação impede o surgimento de mestres. E isso não se aplica apenas ao Japão, mas também ao Ocidente. Desde a introdução da vacina, os grandes mestres desapareceram também no Ocidente. Na música, Beethoven, Schubert, Bach, todos viveram há mais de cem anos. Após a disseminação da vacina, os mestres foram rareando de forma impressionante.
+
+O mesmo se aplica à dramaturgia japonesa. Costumo ouvir muito Nagauta, com a vinda do mestre Kosaburo, e noto que as grandes composições são, invariavelmente, do período anterior à Era Meiji ou, no máximo, de seu início. Como a vacinação foi introduzida tardiamente no Japão, o efeito demorou a se manifestar, mas desde que ela se tornou prática comum, os mestres desapareceram. O que ocorre é que a vacina impede a expulsão das toxinas medicamentosas, enfraquecendo o corpo. O ponto mais afetado é a perseverança. A pessoa desiste facilmente, se cansa. Sem perseverança, ela se contenta com um resultado medíocre. O ímpeto de avançar e criar uma obra superior se esvai. Assim, comendo carne e tomando remédios, a perseverança diminui, e a capacidade de criar obras de excelência se perde.
+
+Ninguém, nem em seus sonhos mais remotos, imaginaria que a causa reside aí. Mas é um fato, e contra fatos não há argumentos. Esta é a verdade. À medida que os artistas se tornam fiéis da Sekaikyuseikyou, o futuro se torna muito promissor. Chegará o tempo em que os grandes mestres surgirão de nossas fileiras. Para isso, é preciso ter paciência, mas essa é a realidade. Pouco a pouco, pretendo fazer com que todos compreendam essas questões.
+
+Para concluir com um tema distinto, eu não reverencio a Deus da maneira convencional, e nisso reside a singularidade de nossa Fé. Os fiéis mais antigos já sabem disso, mas escrevi um artigo para que os novos membros e aqueles que estão para ingressar na Fé possam compreender este ponto fundamental. O artigo foi publicado na revista *Paraíso Terrestre*.
+
+---
+
+# A Saúde como Alicerce da Verdadeira Salvação
+
+**Categoria:** kouwa | **Ano:** 昭和10(1935)年4月11日 | **Fonte:** Kenko
+**Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-04-11
+
+## A Saúde como Alicerce da Verdadeira Salvação
+
+Meu propósito é instituir a Medicina Japonesa e, concomitantemente, apresentar de forma paulatina os verdadeiros preceitos e a genuína prática da fé.
+
+Como sempre ensino, a condição primordial para a felicidade humana é, acima de tudo, a saúde. Por mais sublime que uma religião ou uma forma de salvação se apresente, se não possuir o poder de tornar o ser humano saudável, não poderá ser considerada autêntica nem efetiva.
+
+De que vale uma posição elevada ou uma vasta fortuna se a pessoa se encontra atormentada pela doença? É imperativo que a verdadeira religião ofereça uma solução definitiva para a saúde. Aqueles que, mesmo após anos ou décadas de fé, sucumbem prematuramente a enfermidades, certamente não trilharam o caminho verdadeiro.
+
+À medida que a Kannonkai (観音会) se desenvolver, nela não haverá doentes. Afirmo categoricamente que, se porventura houver alguém enfermo, será uma pessoa que abandonou a Obra ou que a ela se opõe. Com a expansão de nosso trabalho, formaremos uma organização sem doentes — algo, ouso dizer, inédito desde o início do mundo. E, quando uma sociedade se livra do flagelo da doença, metade da pobreza é naturalmente extinta.
+
+Atualmente, a causa precípua da pobreza é, na maioria das vezes, a doença. Seja pela incapacidade de trabalhar, seja pelos custos exorbitantes dos hospitais, que, embora acessíveis aos abastados, são proibitivos para as classes média e baixa. Uma enfermidade grave é capaz de aniquilar as economias de uma vida inteira de trabalho. Com efeito, uma doença um pouco mais séria pode arruinar por completo o patrimônio da maioria das famílias; essa é a triste trajetória de inúmeras pessoas.
+
+Se nos perguntarmos por que as pessoas hoje se esforçam tanto para poupar, a resposta reside no temor de uma doença inesperada e na angústia de não poder arcar com uma internação. A crença de que a saúde pode ser comprada com dinheiro torna-se, assim, uma necessidade inevitável. Numa família de quatro ou cinco pessoas, é quase certo que, em algum momento, um de seus membros adoecerá. E, quando isso ocorre, não importa quanto se tenha poupado; os recursos se esvaem rapidamente.
+
+Portanto, ao erradicar a doença e garantir a saúde, a maior parte do sofrimento causado pela pobreza será aliviada.
+
+Uma vez superada a pobreza, os conflitos desaparecem, pois a grande maioria das disputas tem origem em questões econômicas. Destarte, não é exagero afirmar que a saúde é a chave para a solução da maior parte dos três grandes sofrimentos: doença, pobreza e conflito.
+
+Por outro lado, abordando o aspecto espiritual, embora não seja de meu feitio criticar outras religiões, calar-me diante da situação atual seria inútil. Se o silêncio resolvesse os problemas, eu o manteria; contudo, ele por si só não trará a solução. É preciso chamar o bem de bem e o mal de mal.
+
+Indubitavelmente, as religiões estabelecidas trouxeram muita salvação. Se Shakyamuni e Cristo não tivessem surgido, a humanidade poderia estar em uma condição muito mais trágica. Devemos ser imensamente gratos pelo alento que trouxeram aos seres humanos até hoje.
+
+Todavia, ninguém consideraria a sociedade atual como satisfatória. É nosso dever contínuo aprimorá-la, pois o progresso incessante é a Vontade de Deus — ou, se preferirem, a Vontade do Universo.
+
+A humanidade evoluiu até certo ponto, mas é evidente que precisamos criar uma cultura ainda mais elevada e formar seres humanos mais nobres. A força das religiões preexistentes, porém, já não é suficiente para nos levar a um patamar superior.
+
+Para tal, é necessária uma força capaz de impulsionar a humanidade a um novo estágio evolutivo. Essa força é o Poder de Kannon.
+
+A título de exemplo, observemos a notável evolução humana até os dias de hoje. De fato, se compararmos com as eras de barbárie e ignorância, o progresso é imenso. No Período Tokugawa, com os testes de espadas em passantes ou os assaltos de bandoleiros, as pessoas não podiam viver em paz. Hoje, com a eletricidade iluminando as noites, tais preocupações desapareceram.
+
+Devemos ser muito gratos por essa evolução. Contudo, se removêssemos da sociedade atual a polícia e as leis, poderíamos de fato nos sentir seguros? Ninguém, em sã consciência, concordaria. Em toda parte, vemos imponentes delegacias de polícia, tribunais, prisões de concreto; em cada bairro, há postos policiais e guardas em patrulha constante. E, como se não bastasse, detetives, agentes especiais e investigadores disfarçados vasculham incansavelmente todos os cantos. Somente por meio dessa complexa rede de órgãos de repressão é que se obtém um arremedo de segurança.
+
+E mesmo isso não é o bastante. Existem inúmeras estruturas para lidar com questões cíveis e criminais, além de centros de aconselhamento. Para os desafortunados, há asilos, orfanatos e instituições de caridade como o Exército da Salvação e o Templo Honganji, que se dedicam a obras sociais. As leis, por sua vez, tornam-se cada vez mais detalhadas e minuciosas. A humanidade parece encontrar tranquilidade em meio a tudo isso, mas a verdadeira paz ainda não foi alcançada.
+
+Li no jornal de ontem sobre o surgimento de um grupo chamado Esquadrão Divino Juvenil, que tem como alvo figuras proeminentes do Estado, como o príncipe Saionji. Por essa razão, durante a recente visita do imperador de Manchukuo, a segurança era tão rigorosa que mal se podia ver seu rosto.
+
+Pode-se dizer que os mecanismos para controlar o ser humano atingiram um estado de notável aperfeiçoamento. Os custos para manter toda essa estrutura são astronômicos. E, apesar de tudo, as pessoas continuam a praticar o mal. Ainda existem muitos indivíduos perversos que encontram brechas na malha da lei.
+
+Calotes em empréstimos, inadimplência de aluguéis, estelionato, furtos, roubos, assassinatos... a lista de crimes cometidos por aqueles que burlam as leis é infindável. Até mesmo para as crianças existem reformatórios e inúmeras instituições de reabilitação moral e religiosa.
+
+Apesar de tudo, o homem se gaba de sua civilização e se sente grato por ela. Visto, porém, da perspectiva de Deus, a condição humana é lastimável. A sociedade nada mais é do que um elaborado conjunto de ferramentas intimidadoras, criadas com o único propósito de conter a prática do mal. É uma situação análoga a manter tigres e lobos enjaulados. E, diante desse quadro, não é vergonhoso que o ser humano ainda se vanglorie de ser o soberano da criação?
+
+---
+
+# A Consciência Intrínseca da Natureza e a Ordem Espiritual
+
+**Categoria:** kouwa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S29年1月15日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-02-15
+
+## A Consciência Intrínseca da Natureza e a Ordem Espiritual
+
+Já reunimos um número considerável de relatos para a edição especial sobre Agricultura, que será publicada em seguida. Gostaria, agora, de lhes apresentar o artigo que redigi para essa edição, pois ele contém pontos que diferem significativamente do que foi exposto até o momento.
+
+(Leitura dos artigos “A Grande Revolução da Agricultura Japonesa: Aumento de 10% a 50% na Produção desde o Primeiro Ano sem Adubos”, “O Princípio da Agricultura Natural” e “Aspectos Técnicos e Outros Pontos do Nosso Método Agrícola”).
+
+No final do artigo, há algo que mencionei em um recente relato de graças: uma fotografia ampliada de um grão de arroz cultivado com adubo e outro, sem. A imagem revela com clareza que o grão adubado se apresenta corroído, como que esfarelando por dentro, enquanto o grão do cultivo sem adubo está perfeitamente íntegro. A simples observação dessa imagem torna a diferença imediatamente compreensível. Dentre os cinco ou seis grãos fotografados, todos os que receberam adubo apresentam falhas; alguns estão reduzidos a quase metade do seu tamanho. Se até mesmo o arroz se encontra nesse estado, é natural que o corpo de quem o consome diariamente se torne um criadouro de vermes. Com a prática da agricultura sem adubos, doenças parasitárias de toda ordem também deixarão de existir.
+
+Conforme o que acabei de ler, um fato até então desconhecido é que não apenas o arroz, mas todas as coisas, de forma análoga aos animais, possuem razão, sentimento e até mesmo um pensamento artístico. A única diferença é que os seres que não pertencem ao reino animal não dispõem de livre-arbítrio. As plantas, por exemplo, embora tenham certa capacidade de decidir sobre seus movimentos, não possuem a mesma liberdade que os animais.
+
+A prova mais evidente disso se manifesta em uma experiência que tenho com frequência. Sendo um apreciador de flores, estou sempre a fazer arranjos. Ocasionalmente, noto um pequeno detalhe que me desagrada, mas, por estar ocupado, deixo para depois. No dia seguinte, invariavelmente, constato que o ponto que estava desarmônico se corrigiu por si só. Ontem mesmo, ao arranjar dois narcisos, percebi que a harmonia entre eles não estava boa. Tendo um compromisso, acabei me esquecendo do assunto, mas, esta manhã, ao observar o arranjo, vi que as flores haviam se ajustado em uma forma primorosa. É algo de uma sutileza extraordinária.
+
+Costumo também orientar os jardineiros a plantar árvores em posições inversas às que eles fariam, levando em conta o entorno. Já escrevi sobre isso anteriormente, referindo-me a plantá-las de costas ou de lado, pois, de outra forma, a composição não ficaria boa. Com o passar dos anos, gradualmente, a árvore desenvolve uma nova “frente”, de modo que o lado visível ao observador se torna esteticamente agradável.
+
+Costumo afirmar que tudo está vivo, e de fato, está. Portanto, quando amamos, tratamos com deferência e reverenciamos a Natureza, ela se regozija imensamente e desperta em si o sentimento de “Muito bem, irei aprimorar minha aparência ao máximo”. Essa reação é absolutamente fidedigna. O mesmo princípio se aplica ao solo que gera tais plantas. Se o tratarmos com profundo respeito e amor, ele também se alegrará e, por conseguinte, trabalhará com muito mais vigor.
+
+É como acontece com os seres humanos: se alguém é constantemente maltratado, submetido a abusos ou tratado com descaso, torna-se insatisfeito e não realiza um bom trabalho. De modo análogo, há um aspecto sutil de grande importância nesse relacionamento. Ao lançarmos sobre o solo excrementos ou produtos químicos agressivos como o sulfato de amônio, ele reage com indignação. Sua atitude passa a ser de “façam o que quiserem”, e o resultado, naturalmente, é de má qualidade. Sob essa perspectiva, compreende-se quão nefasto é o uso de adubos. Atualmente, as greves são comuns entre os homens, mas greves de outra ordem também ocorrem em grande escala na Natureza.
+
+Esse princípio se aplica a tudo. E o que mencionei sobre as plantas também é válido para objetos que consideramos inanimados, pois tudo o que possui espírito partilha dessa mesma natureza. Por essa razão, antiguidades e outras peças que foram reverenciadas e cuidadosamente preservadas ao longo do tempo absorvem esses sentimentos em sua essência. Eis por que peças antigas, com a pátina do tempo, são tão admiráveis. Entre dois objetos semelhantes, o mais antigo é sempre superior, o que é deveras misterioso. Se perguntarmos o que há de tão especial em uma peça antiga, a resposta é que ela é simplesmente boa, de uma forma inexplicável. Com o tempo, ao observar constantemente peças de cem, duzentos, quinhentos ou mil anos, passamos a discernir essa qualidade. Quando uma pessoa reverencia um objeto, seus sentimentos são continuamente direcionados a ele. O espírito do objeto, por assim dizer, amadurece gradualmente ao receber essa afeição. É essa essência que, de forma sutil, influencia a percepção de quem o observa.
+
+Antigamente, era comum atribuir uma divindade a todas as coisas. Falava-se no “deus do poço” e até mesmo que havia um deus no banheiro. Nossos antepassados estavam certos. Hoje, quem expressa tais ideias é ridicularizado como supersticioso e antiquado, mas são os que zombam que demonstram grande ignorância. A compreensão desses pontos sutis é o que nos permite ter êxito em todas as áreas da vida.
+
+Mesmo no trato com objetos inanimados, a forma como os manuseamos produz resultados muito diferentes. Ao organizar um cômodo, por exemplo, sempre levo em conta que, entre os objetos, há aqueles de nível espiritual mais elevado e os de nível mais baixo. Posiciono os de maior hierarquia nos locais de destaque e os de menor, em locais mais discretos. Como resultado, ao adentrar o ambiente, sente-se uma agradável harmonia. Até mesmo pessoas que não são membros da Igreja, ao entrarem em um aposento que arrumei dessa forma, comentam sobre a sensação de bem-estar que o local transmite. Isso ocorre porque, no Mundo Espiritual, a ordem hierárquica está correta.
+
+Saber disso é primordial. Quando a ordem espiritual está correta, o ambiente se torna agradável. É por essa razão que, em recintos onde muitas pessoas se reúnem, por vezes irrompem discussões ou até mesmo agressões físicas. Nesses casos, a disposição das pessoas no espaço está em desacordo com a hierarquia espiritual, gerando um estado de confusão no Mundo Espiritual que se reflete diretamente nos indivíduos. Quando alguém de posição superior se senta em um lugar inferior, e alguém de posição inferior ocupa um assento de destaque, a ordem espiritual do local é perturbada, gerando um mal-estar indefinível que pode facilmente culminar em irritação e conflitos. A importância desses detalhes é, na verdade, muito grande. Poderíamos falar sobre isso indefinidamente.
+
+Os relatos sobre a Agricultura Natural deste ano são, em sua totalidade, muito superiores aos do ano passado. Isso se deve à gradual transformação do Mundo Espiritual, especificamente ao aumento do Elemento Fogo em sua constituição. A prova disso se manifesta em outros fenômenos, como o clima mais ameno em toda parte. Em Atami, visitei o Jardim das Ameixeiras ontem e as árvores já estão em plena floração. Normalmente, isso só aconteceria no final do mês; este ano, porém, ao final do mês, as flores já terão caído.
+
+O aumento do Elemento Fogo torna o clima mais quente, o que favorece enormemente o desenvolvimento das colheitas. Contudo, ao interferirmos com o veneno dos adubos, obstruímos esse processo e provocamos o efeito contrário. Com a purificação do Mundo Espiritual, ou seja, com a dissipação de suas máculas, os efeitos do bem e do mal se manifestam com maior rapidez. Em outras palavras, à medida que o Mundo Espiritual se aprimora, as pessoas que persistem no erro sofrem duras consequências, enquanto as que seguem o caminho do bem são grandemente afortunadas. A distinção entre o bem e o mal torna-se, assim, cada vez mais nítida.
+
+É por esse motivo que os resultados do cultivo com o veneno dos adubos e do cultivo puro se evidenciam mais rapidamente. Neste ano, em particular, o método sem adubos se mostrará superior, e o método com adubos, inferior. Essa diferença se tornará tão acentuada a cada ano que será impossível não a reconhecer.
+
+A seguir, vem a questão das doenças. Embora ainda não tenhamos chegado a esse ponto, o mesmo ocorrerá. Como tenho repetido incessantemente, os resultados da medicina se inverterão, e somente quando isso acontecer é que a verdade se tornará finalmente compreensível. Portanto, a agricultura é a primeira a ter sua verdade revelada, e a medicina virá em seguida, nesta ordem.
+
+Aproveito para apresentar um texto que escrevi sobre religião, abordando um tema que ninguém, nem mesmo os religiosos, conhece. É um assunto de certo interesse.
+
+(Leitura do artigo “Bramanismo e Islamismo”).
+
+---
+
+# O Milagre da Regeneração e o Avanço da Obra Divina
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年8月16日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
+
+## O Milagre da Regeneração e o Avanço da Obra Divina
+
+Ontem, a convite nosso, trouxeram um menino que vivenciou um fato extraordinário: seus testículos e pênis, após caírem, regeneraram-se por completo. Graças aos esforços do senhor Okada Doichi, sete doutores em medicina compareceram para realizar um exame minucioso. Eu mesmo já o havia observado previamente e, ao inspecionar detalhadamente a forma como os órgãos haviam se reconstituído, notei que, embora já estivessem praticamente restaurados, a área apresentava certas irregularidades e reentrâncias, evidenciando claramente a sua posterior regeneração. Aliás, se a reconstituição fosse perfeita demais, poderia despertar suspeitas; da forma como se encontra, contudo, não resta dúvida de que se trata de uma nova formação.
+
+Após o exame, os médicos se reuniram nesta sala para expor suas conclusões, mas a dificuldade que sentiram para articular uma explicação era notória. Vê-los em tamanha perplexidade era, de fato, digno de compaixão. Cada doutor apresentou sua análise. Para a retenção urinária, ofereceram explicações detalhadas sobre cálculos renais e disfunções da bexiga. Todavia, quando chegou o momento de elucidar a queda e subsequente regeneração dos testículos e do pênis, o esforço tornou-se visivelmente penoso. Por fim, dois deles arriscaram uma hipótese: um sugeriu que os testículos haviam apenas se retraído para o interior do corpo; outro, que até mesmo o pênis havia se encolhido. Ambos, porém, pareciam extremamente desconfortáveis com suas próprias teorias.
+
+O cerne desta questão reside na regeneração – a criação de novos órgãos após a perda dos originais. Nesse ponto crucial, porém, suas palavras tornavam-se vagas e imprecisas. Ao final, a conclusão a que chegaram foi a de que se tratava de um “fenômeno inexplicável”, um “milagre”. No entanto, ao pronunciarem a palavra “milagre”, fizeram-no em um tom tão baixo que era quase inaudível; apenas pude deduzir o que disseram. Naturalmente, uma explicação médica para tal evento é impossível. Se simplesmente admitissem: “A medicina não pode explicar isto; é, de fato, um milagre”, o assunto estaria encerrado. Contudo, parece que lhes é vedado fazer tal afirmação, o que os leva a buscar, a todo custo, uma justificativa racional, uma atitude que se tornou perfeitamente clara para mim.
+
+Seguiram-se duas ou três perguntas dos diretores da nossa Igreja e, por fim, coube a mim oferecer uma elucidação. É evidente, porém, que nenhuma explicação seria compreensível para eles naquelas circunstâncias. Na verdade, o fenômeno é extremamente simples para quem compreende a Lei do Espírito Precede a Matéria. Em minha fala, não me furtei a usar de certa ironia. O ponto central, repeti, era a queda e posterior regeneração dos órgãos. Os médicos, por sua vez, argumentavam que, embora a bolsa escrotal pudesse se distender e a pele do pênis pudesse se regenerar, a formação de novos testículos e do corpo do pênis, incluindo a glande, era uma impossibilidade. Sustentavam, portanto, que os órgãos haviam se retraído enquanto a pele se reconstituía externamente.
+
+Ocorre que o corpo interno e a glande haviam se desenvolvido muito mais do que a pele que os recobria, que se mostrava insuficiente. Indaguei-lhes, portanto, sobre essa contradição, visto que nas crianças o prepúcio é longo e cobre a glande; no caso em questão, ocorria exatamente o inverso. Minhas palavras foram, admito, bastante incisivas. Em suma, de minha perspectiva, trata-se de um caso de regeneração. Os médicos afirmam que a regeneração é impossível, mas é precisamente por ser considerado impossível que o denominam milagre. Para nós, contudo, trata-se de um fenômeno perfeitamente possível e, portanto, destituído de qualquer estranheza. Se a ciência ainda não pode admiti-lo como possível, é apenas porque não avançou o suficiente. A esse respeito, informei-lhes que estou escrevendo um livro intitulado “A Revolução da Medicina” e que, tão logo seja concluído, lhes enviarei um exemplar para que o examinem.
+
+O princípio fundamental que rege tais acontecimentos, em essência, relaciona-se àquilo que o Dr. Yukawa denominou Teoria das Propriedades da Matéria, inspirada em seus estudos sobre os mésons. Contudo, essa teoria, em seu nível mais profundo, trata do que eu chamo de espírito das células, ou seja, o espírito dos micróbios. À medida que a Teoria das Propriedades da Matéria avançar, a ciência adentrará um domínio muito mais profundo. E ela continuará a progredir até alcançar as esferas mais sutis da existência. Meu livro abordará essas questões em detalhes, e sua leitura permitirá a compreensão do princípio por trás da regeneração dos órgãos daquele menino.
+
+O fato de hoje não acreditarem, de considerarem um milagre desprovido de lógica, é perfeitamente compreensível. É como tentar descrever a bomba atômica antes de sua descoberta; ninguém levaria a sério. Contudo, bastou que uma fosse detonada para que todos compreendessem instantaneamente. Da mesma forma, tentar explicar o caso do menino em detalhes seria inútil. Optei, portanto, por uma abordagem mais ampla, tratando apenas dos fundamentos.
+
+Posteriormente, soube que, embora os médicos provavelmente tenham compreendido a essência de minha explanação, optaram por não o admitir. Curiosamente, um jornalista do *Sangyo Keizai Shimbun* que assistia ao debate parece ter entendido tudo com clareza, assim como os demais leigos presentes. É provável que os médicos também tenham compreendido, mas a dificuldade em admiti-lo os levou ao silêncio. De qualquer modo, o simples fato de doutores desse calibre virem até aqui para ouvir minhas palavras já é um grande avanço.
+
+Recordo-me de ter dito, no passado: “Um dia, terei de ir a um anfiteatro universitário e proferir uma palestra sobre medicina para uma plateia de, no mínimo, cinquenta ou sessenta doutores. Se isso não acontecer, nossa missão terá falhado”. O evento de ontem, a meu ver, representa o primeiro e modesto passo para a concretização dessa meta. Portanto, considero-o um acontecimento muito auspicioso. O fundamental é que os médicos venham a compreender. Além disso, uma vez estabelecido este precedente, poderei escrever com muito mais liberdade sobre os mais variados temas da medicina, pois as próprias autoridades passarão a nos ver com outros olhos. Afinal, seria impossível reunir tantos especialistas para analisar um efeito milagroso se não tivéssemos absoluta confiança em nossos princípios. Nesse sentido, o saldo do encontro de ontem foi extremamente positivo. Assim sendo, muitos outros milagres surgirão daqui para frente, pois este é o caminho do progresso.
+
+Relatos recentes, de dois ou três dias atrás, provenientes do Havaí, confirmam que lá também ocorrem milagres em profusão, impulsionando uma expansão de extraordinário vigor. O senhor Higuchi partiu para Los Angeles no dia seis deste mês e, a esta altura, já deve ter chegado. Conforme mencionei anteriormente, em outubro do ano passado, uma senhora de lá, que sofria de uma doença crônica, ouviu falar de nossos ensinamentos e manifestou um forte desejo de ser curada e receber a formação. Como uma viagem ao Japão era inviável e ainda não tínhamos missionários na região, enviamos-lhe um Amuleto Sagrado e nossas Escrituras Sagradas. Após começar a usar o Amuleto e a ler os Ensinamentos, sua doença desapareceu em pouco tempo. Ela descobriu, então, que também podia curar outras pessoas e, ao fazê-lo, obteve resultados notáveis. Agora, com a ida do senhor Higuchi, já há mais de dez pessoas desejosas de receber a formação. E este era o cenário de um mês atrás; o número certamente aumentou. Ou seja, sem sequer ter passado pela formação, apenas por correspondência, essa senhora gerou mais de uma dezena de candidatos, pois o Johrei que ministra tem um efeito extraordinário. Creio que não há método mais engenhoso e eficaz que o de Deus. Desta forma, podemos difundir a fé em qualquer parte do mundo, sem a necessidade de viajar para lugares distantes. Em última análise, para salvar o mundo inteiro, o envio de correspondência pode ser suficiente.
+
+O mesmo ocorre no Havaí. Recentemente, diversas unidades religiosas foram estabelecidas em várias localidades, graças ao surgimento de membros havaianos extremamente dedicados que, um após o outro, vêm fundando novas frentes de difusão. O Johrei, naturalmente, é praticado com grande intensidade. Assim, de forma espontânea, os membros havaianos estão consolidando e expandindo sua base. Ademais, foi adquirida recentemente uma residência de excelente qualidade, não alugada, mas comprada. Trata-se de uma construção sólida e bastante espaçosa, que servirá perfeitamente como sede por um bom tempo. Dessa forma, a Providência Divina avança em um ritmo que supera todas as expectativas. Quando a chama da fé se acender plenamente nos Estados Unidos, seu alcance será muito maior que o do Havaí. Uma carta que recebi – não do senhor Higuchi, mas da senhora que formou os novos membros por correspondência – mencionava o caso do filho de um homem muito rico de Los Angeles, cuja doença lhe pediram para tratar. Certamente o senhor Higuchi irá atendê-lo. As coisas estão se tornando cada vez mais interessantes.
+
+Mudando de assunto, abordarei agora o Museu de Arte. O artigo em questão foi publicado na edição de 7 de agosto do *Tokyo Evening News*, um jornal da sucursal de Tóquio do renomado *Chicago Tribune*. A matéria veio ilustrada com fotografias de destaque, exibindo um vaso Kakiemon e uma estátua de Amida do período Kamakura. Peço que leiam a tradução do artigo.
+
+(*Lida a tradução do artigo publicado no “Tokyo Evening News” de 7 de agosto*)
+
+Hoje tenho muitos assuntos a tratar, então serei breve. Todos devem estar cientes da tragédia ocorrida ontem em Quioto, onde mais de uma centena de pessoas pereceram em decorrência de inundações. O que considero bastante singular é que o desastre ocorreu na lagoa de Taisho, que não é um lago de grandes proporções. Uma chuva um pouco mais forte foi suficiente para, em um breve intervalo, arrastar duzentas casas, causar a morte de mais de cem pessoas e deixar outras duzentas desaparecidas – as quais, em sua maioria, infelizmente não serão encontradas. Assim, trezentas vidas foram ceifadas em um piscar de olhos. Houve outros incidentes menores nas proximidades, mas um evento desta magnitude é raro. A ocorrência de tantas mortes por água em tão pouco tempo na província de Quioto, assim como os desastres em Kyushu e Wakayama, evidencia a intensificação da ação purificadora.
+
+Essa purificação visa lavar os locais impuros. A maior impureza, no caso, é a contaminação do solo pelos fertilizantes, uma mácula que, inevitavelmente, só pode ser lavada pela água. Por essa razão, prevejo que a quebra da safra de arroz este ano será colossal. As perdas causadas pelas inundações serão significativas, e, além disso, as pragas de insetos estão extraordinariamente severas. Em contrapartida, a Agricultura Natural apresenta, segundo os relatos, resultados excepcionalmente positivos. Desta forma, a diferença entre o certo e o errado se torna límpida.
+
+E esta é apenas a fase inicial da purificação. Com o passar do tempo, ela se tornará progressivamente mais rigorosa, até que a humanidade, sem alternativa, compreenda e se renda. Quando não houver mais para onde correr, as pessoas finalmente curvarão a cabeça perante Deus. Render-se a Deus significa, em última análise, tornar-se um fiel da Sekaikyuseikyou. Não haverá outra saída. Deus, pacientemente, está conduzindo as coisas nesse sentido. Portanto, eventos inesperados e surpreendentes se tornarão cada vez mais frequentes e de maior magnitude. É uma situação ao mesmo tempo lastimável e alvissareira, pois conduz a um mundo melhor. Nós, felizmente, não estamos do lado dos que são purificados, mas sim do lado dos que purificam, o que nos confere grande tranquilidade.
+
+Escrevi algo interessante que gostaria de compartilhar.
+
+(*Lido o Ensinamento “Deus e o Orbe de Vidro”*)
+
+Este também será um dos ensaios que integrarão o livro “A Revolução da Medicina”, no qual pretendo dissecar a fundo os fundamentos da ciência sob todos os ângulos, de forma a não deixar margem para dúvidas. Como acabei de ler, a medicina moderna se resume a um orbe de vidro – o microscópio. Com ele, caçam micróbios e, por isso, celebram seu próprio progresso, sentindo-se muito agradecidos. É um estelionato que não enganaria nem uma criança.
+
+Neste ano, os casos de Encefalite Japonesa já são dez vezes maiores que os do ano passado. Diz-se que a doença ocorre em anos alternados, e este deveria ser um ano de baixa incidência. Contudo, o ano de “baixa incidência” está registrando dez vezes mais casos que o ano de epidemia. Ninguém entende mais nada. Terão de inverter a lógica do ciclo bienal. Isso mostra o quão intensa a purificação se tornou.
+
+E ainda insistem na teoria da transmissão por mosquitos. De onde surgiu essa tese? O próprio nome, Encefalite Japonesa, indica que é uma doença inexistente no Ocidente. E por quê? Porque, no Ocidente, as boas condições de saneamento eliminam mosquitos e moscas. Já o Japão continua a zumbir com esses insetos; no verão, a situação nos subúrbios é calamitosa. Eu mesmo, no passado, vivi em um local infestado de mosquitos, onde, ao entardecer, era preciso enfrentar uma nuvem deles para entrar em casa. Foi por haver tantos mosquitos no Japão que eles se tornaram os principais suspeitos. Se assim fosse, os locais com maior população de mosquitos deveriam ter mais casos de encefalite, mas não é o que acontece. A doença surge igualmente em áreas com poucos mosquitos, o que demonstra a inconsistência da teoria.
+
+Como sempre afirmo, a verdadeira causa reside na concentração de toxinas na nuca, resultado da exposição da cabeça ao calor do sol. Essas toxinas provêm, em grande parte, das costas, que é a região do corpo onde mais se acumulam. E por que se acumulam nas costas? Porque os seres humanos dormem deitados de costas, não de bruços. As toxinas de toda a região dorsal e dos ombros, ao serem aquecidas pelo sol na cabeça, sobem. O corpo humano é sabiamente construído: ao chegarem à nuca, as toxinas são preparadas para serem expelidas. Elas atravessam o cérebro e saem na forma de remela e secreção nasal. Nessa secreção, há sempre a presença de sangue, que é o sangue impuro sendo eliminado. Uma vez que toda essa toxina seja expelida, a pessoa fica curada.
+
+O erro está em aplicar gelo e tomar outras medidas para impedir a eliminação, o que causa o endurecimento das toxinas no local. É por isso que, após a “cura”, surgem sequelas como retardamento mental, rigidez no pescoço ou paralisia nas mãos. A causa é o endurecimento provocado pelo tratamento. Se o processo seguir seu curso natural, a cura é certa. Isso é a Encefalite Japonesa, e não há nada mais benéfico. Passar por ela reduz consideravelmente as toxinas acumuladas nessa região. Com essa compreensão, tudo se torna simples. Por não saberem disso, fazem um grande alarde e agora estão aplicando injeções de soro em caráter experimental. É o cúmulo do improviso. Se quisessem fazer algo, deveriam ter agido muito antes, mas só começam a aplicar vacinas e soros depois que a epidemia já se instalou.
+
+---
+
+# A Mais Profunda Vingança
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年1月15日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-02-15
+
+## A Mais Profunda Vingança
+
+Certa pessoa de elevada posição social, ao tomar conhecimento da recente sentença, questionou-me: “Por que não recorre?”. Respondi-lhe: “Recorrer seria inútil, pois a vitória é improvável e, mesmo que eu vencesse, a satisfação seria ínfima. Por essa razão, desisti. Almejo uma desforra muito maior”. Diante de sua indagação sobre o que eu queria dizer com aquilo, expliquei: “Quando eu alcançar grande proeminência e me tornar uma figura mundial, eles hão de se perguntar: ‘Como pudemos tratar com tamanha crueldade uma pessoa de tal magnitude?’. Serão, então, tomados por um profundo tormento, e não seria esta uma vindita consideravelmente mais profunda?”.
+
+Há um antigo precedente para isso. Em Matsushima, existe um templo chamado Zuiganji, e a história de seu abade é bastante célebre. Em sua juventude, esse homem servia como *ashigaru* do senhor feudal de Date, encarregado de cuidar de suas sandálias. Em um dia gélido e de neve, temendo que as sandálias estivessem frias, aqueceu-as junto ao peito, sob suas vestes. Quando o senhor as calçou e sentiu o calor, presumiu que o servo as estivera usando e, aos brados de “Miserável, andou a usá-las!”, rechaçou-o com um pontapé. Consumido pela humilhação, o jovem fugiu com a intenção de tirar a própria vida, seja por enforcamento, seja atirando-se a um rio. Contudo, um monge que por ali passava o salvou e, ao inquirir sobre o motivo de tal desespero, ouviu o relato da injúria sofrida. O monge, então, ponderou: “Seu modo de pensar é muito tacanho. Uma vingança como essa, além de efêmera, logo cairia no esquecimento. Busque uma desforra muito maior”. O jovem perguntou como poderia fazê-lo, e o monge o aconselhou com veemência e sabedoria: “Torne-se um homem de tal grandeza que possa olhar seu senhor de cima”. Inspirado por essas palavras, dedicou-se arduamente aos estudos e tornou-se um dos mais notáveis monges do Japão. Sua busca por aprimoramento o levou até a China para aprofundar suas práticas — uma façanha de imensa dificuldade àquela época, muito superior a uma viagem ao exterior nos dias de hoje. Ao retornar, foi nomeado abade de um templo de prestígio. Sua reputação como erudito e homem de caráter exemplar tornou-se notória, chegando aos ouvidos do senhor de Date, em Sendai. Ao saber que o ilustre monge era oriundo de seus domínios, o senhor fez questão de convidá-lo para um encontro. Recebeu-o com grande alegria e hospitalidade. Ao final da visita, desejando oferecer-lhe uma lembrança, o abade retirou de suas vestes um belo embrulho e, respeitosamente, depositou-o diante do senhor. Ao abri-lo, este viu que se tratava de um par de sandálias e ficou perplexo. O monge, então, disse: “É natural que Vossa Senhoria se surpreenda. Contudo, há uma história por trás deste presente”. E narrou o ocorrido de tantos anos antes. Profundamente consternado, o senhor feudal declarou: “Como prova de meu arrependimento, doarei um templo em sua honra”. Assim foi erguido o Templo Zuiganji de Matsushima, e aquele homem ficou conhecido como o Abade Zuigan. Creio que essa forma de vindita é deveras fascinante.
+
+Há ainda outra história, também muito conhecida, sobre o Mestre Zen Hakuin, um monge de grande renome em sua época. Aconteceu que a filha de um abastado comerciante engravidou. Temendo a reação paterna, a jovem, em um ato de desespero, nomeou levianamente o Mestre Hakuin como o responsável. O pai, enfurecido, exclamou: “Como um monge tão venerado pode cometer tal ato? Que homem depravado e farsante!”. Após deliberar com os patronos do templo, decidiram por sua expulsão. Hakuin viu-se sem teto, iniciando uma penosa vida de errância e provações. Com o tempo, porém, a jovem confessou a verdade. Diante da terrível injustiça cometida, o mestre foi recebido de volta com as mais altas deferências, e sua reputação de santidade tornou-se ainda maior do que antes.
+
+Portanto, quando somos alvo de extrema crueldade, o melhor a fazer é silenciar. Cumpre-nos, em vez disso, engrandecer-nos. Agindo assim, o ofensor, ao testemunhar nossa ascensão, inevitavelmente se questionará: “Como pude ser tão tolo a ponto de ultrajar uma pessoa de tal valor? Sinto um remorso indizível”. Este questionamento despertará um tormento em sua consciência. Essa é, em verdade, a melhor forma de desforra. A retaliação comum, em contrapartida, é um ato de pequenez que apenas semeia novos ressentimentos. Ao compartilhar essas reflexões com meu interlocutor, ele ficou profundamente impressionado e comentou: “Compreendo perfeitamente. É um pensamento verdadeiramente condizente com um líder religioso”. Afinal, o rei Herodes, que crucificou Cristo, certamente experimenta um arrependimento incomensurável no Mundo Espiritual. Da mesma forma, Devadatta em relação a Buda, e Hojo Tokimasa em relação a Nichiren Shonin; embora talvez não sentissem o peso de seus atos em vida, não se pode mensurar o quanto sofreram ao ingressar no Mundo Espiritual.
+
+Passemos agora a outro assunto. O livro recém-publicado, “A Salvação da América”, não é ainda uma obra exaustiva. É natural, portanto, que seus leitores anseiem por algo mais completo. Não apenas por essa razão, mas também por um antigo desejo de escrever uma obra sobre medicina que fosse acessível a todos e que expusesse a verdade sem rodeios nem reservas, senti um súbito impulso de começar a escrevê-la. Ademais, há pontos em meus escritos anteriores em que me expressei com certa reserva. Isso se deveu a diversas circunstâncias, como o momento inoportuno, o fato de nossa Igreja ainda ser pouco conhecida e os equívocos que pairavam sobre minha pessoa. Eu não me sentia à vontade para escrever com total liberdade. Se eu tivesse publicado uma obra desta natureza antes da fundação da Sekaikyuseikyou, ou mesmo logo após, quando o mundo ainda nos desconhecia, correria o risco de ser ridicularizado, ou mesmo de ser visto como um insensato. Por isso, adiei o projeto. Creio, todavia, que chegou o momento em que um escrito desta envergadura pode ser compreendido. Por outro lado, há a urgência: se eu não o redigir e publicar o quanto antes, a salvação da humanidade será retardada, e muitos que sofrem não encontrarão alívio.
+
+Por todas essas razões, dei início a este trabalho. Nele, exponho de forma minuciosa e exaustiva a teoria sobre as doenças e sua cura pelo Johrei. Esta obra se tornará o verdadeiro cerne da Sekaikyuseikyou, uma espécie de “Bíblia” para nossos seguidores. Embora comece com explanações sobre as enfermidades, gradualmente, abordarei as múltiplas atuações de Deus, tornando-se, assim, o veículo mais apropriado para a compreensão de nossos ensinamentos. Pretendo publicá-la o mais breve possível, talvez dentro de seis meses. Meu plano é distribuí-la por todo o mundo, não apenas na América. A primeira parte já está concluída, e peço que a leiam agora.
+
+(Leitura do Manuscrito “O Livro da Revolução da Medicina”: “Prefácio”, “II - A Medicina é uma Superstição” e “III - O que é a Doença?”)
+
+---
+
+# A Perspicácia da Visão Estrangeira
+
+**Categoria:** kouwa | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年12月7日） | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
+
+## A Perspicácia da Visão Estrangeira
+
+Recentemente, o jornal em língua inglesa *The Nihon Times* publicou um artigo com fotografias sobre o Museu de Arte de Hakone. O texto foi escrito por aquela jornalista americana da qual lhes falei em outra ocasião. Permitam-me ler a sua tradução.
+
+A perspectiva de uma estrangeira revela pontos de vista distintos dos de um japonês, além de uma agudeza que não nos é comum. Aprecio a forma como ela observa as coisas sem se prender a ideias preconcebidas, o que torna sua análise particularmente interessante e notavelmente imparcial.
+
+Posteriormente, a jornalista conversou com seu intérprete – um membro nosso, especialista em *ukiyo-e*, que é meio comerciante, meio pesquisador – e lhe confidenciou algo revelador. Como crítica de arte, ela viajou o mundo visitando os mais importantes museus. Disse que, de todos, os que mais a impressionaram profundamente foram o Louvre, na França – um museu de fama mundial – e o Vaticano, na Itália, sede do Papa. Eu mesmo já vi fotografias de seus acervos, e o investimento financeiro neles é incalculavelmente superior ao do nosso museu em Hakone. Estão repletos de magníficas esculturas em mármore. Contudo, ela afirmou que o sentimento que experimentou no Museu de Arte de Hakone foi equivalente ao que sentiu naqueles dois lugares, colocando-os como os três mais marcantes de sua vida. Considero um feito extraordinário que o nosso museu, construído em tão pouco tempo e com recursos modestos, seja equiparado a instituições de tamanha envergadura mundial.
+
+O que distingue e eleva o Museu de Arte de Hakone em relação aos outros dois, segundo ela, é a sua composição em três níveis de beleza. Ao mesmo tempo em que se apreciam as obras em seu interior, pode-se volver o olhar para o exterior e contemplar a beleza da natureza artisticamente arranjada pelo homem – com suas árvores, rochas, grama e musgos. E, para além disso, a um terceiro nível, a visão alcança a autêntica beleza natural das montanhas e do mar. Essa estrutura tripla é algo que os outros museus não possuem. Ela descreveu a atmosfera do local como uma harmonia indescritível entre a arte, a beleza natural e a beleza artificial, possuindo um encanto verdadeiramente cativante. Embora desejasse permanecer por muito mais tempo, suas obrigações a forçaram a partir quando havia visto apenas metade do que queria. Com o sentimento de que lhe era difícil deixar o lugar, expressou o desejo de retornar com frequência.
+
+O marido dessa jornalista é locutor de língua inglesa na NHK. O casal pretende residir permanentemente no Japão; acabaram de comprar uma casa e iniciaram um estilo de vida japonês, com tatames e culinária local.
+
+Ademais, ela teceu outra observação de notável perspicácia. Ao dividir o Japão em Leste e Oeste, ponderou que, se o Oeste tem em Quioto e Nara seus centros de arte antiga, especialmente a budista, o Leste inevitavelmente consagrará Hakone e Atami como seus expoentes culturais. Essa escolha de localização, portanto, demonstra uma visão extraordinária. Acrescentou que a região possui fontes termais, clima agradável tanto no verão quanto no inverno e fácil acesso. Por tudo isso, ela concluiu que Hakone e Atami desempenharão um papel de suma importância no futuro como metrópoles culturais do Leste do Japão. Sua análise antecipou com exatidão o plano que eu mesmo havia concebido, e nesse ponto, devo dizer que os americanos possuem uma grandeza de espírito admirável.
+
+Muitos jornalistas japoneses já nos visitaram, mas parece que nenhum deles teve essa mesma percepção. Se tivessem, certamente o teriam registrado em seus jornais e revistas. Os ocidentais tendem a analisar as situações de uma perspectiva mais ampla e a criticar com imparcialidade.
+
+Os jornalistas japoneses, por outro lado, possuem o que se pode chamar de uma visão tacanha e uma perspectiva limitada. Suponho que, ao verem o museu, pensem algo como: "Vejam só, a Sekaikyuseikyou, uma religião nova, construindo algo tão suntuoso. Devem estar lucrando uma fortuna." Ou talvez: "Esse Okada, para quem lidera uma nova religião, é muito hábil em ganhar dinheiro." Ou ainda: "De fato, é uma obra magnífica. Ele não deixa de ser um monstro à sua maneira." A visão deles é extremamente mesquinha e impregnada de malignidade; está repleta de malícia. Não há muito o que fazer, pois essa é a forma como o Japão foi educado por séculos, e isso se tornou uma tradição.
+
+É imperativo que a mentalidade japonesa se expanda. A visão sobre religião, em particular, também é acanhada, excessivamente centrada no próprio Japão. O Xintoísmo é um exemplo claro, com seu forte caráter nacionalista. Embora compreensível, seus rituais, com mais de mil ou dois mil anos, persistem em formalismos arcaicos, como oferendas de arroz cru e água em vasilhas de barro. As vestes cerimoniais, que deveriam ser de cânhamo – um material de uma era anterior à seda, há mais de dois milênios –, continuam sendo utilizadas. Essa mentalidade se cristalizou em um formato restrito e perdura até hoje.
+
+Como escrevi recentemente, durante a era feudal do Japão – e isso não se restringe a este país –, quanto mais pessoas um homem matasse, mais ele era reverenciado como herói. A classe dos samurais dedicava a vida inteira a treinar a arte de matar, aperfeiçoando suas técnicas. Morrer pelo seu senhor era considerado um ato de nobreza, a honra suprema de uma família. Diante desse histórico, parece que a perspectiva ampla que mencionei simplesmente não existe entre os japoneses. Minhas críticas e análises, por outro lado, assemelham-se mais ao estilo americano. É por isso que minhas conversas com os americanos fluem tão bem. Embora eu seja japonês, sinto que não me harmonizo com meus compatriotas. Quando converso com jornalistas daqui, minhas ideias lhes parecem tão grandiosas e audaciosas que eles ficam com os olhos arregalados, incapazes de acompanhar meu raciocínio. Com os americanos, no entanto, a sintonia é perfeita. Por essa razão, fazer-se entender pelos japoneses é uma tarefa extremamente difícil. Acredito que, quando os americanos começarem a compreender, a difusão se tornará muito mais rápida.
+
+Eu escrevo constantemente, e redigir textos convencionais, que não expressam minhas ideias mais distintivas, é algo que faço com facilidade e prazer. Compor poemas também é simples; posso criar quantos desejar. A verdadeira dificuldade reside nos ensinamentos. Neles, preciso inverter por completo crenças tidas como verdades absolutas até hoje, o que é um desafio monumental. O objetivo é fazer com que as pessoas percebam que tudo o que acreditavam era falso e que a verdade está no que escrevo. Desconstruir o que está arraigado na mente delas é a parte mais árdua. Sobre isso, redigi um artigo.
+(Ensinamento "Meus Escritos e Outros Assuntos")
+
+A respeito da Arte do Johrei, escrevi um texto bastante aprofundado sobre como ela deve ser praticada e quais serão seus desdobramentos.
+(Ensinamento "A Experiência da Arte do Johrei")
+
+Em última análise, nossa missão é revelar ao mundo a excelência do povo japonês. É por meio dos métodos do Japão que a verdadeira civilização nascerá e a humanidade será salva. A verdade é que os japoneses são um povo extraordinário na história da humanidade, mas até agora, permaneceram ocultos. Isso, porém, está determinado desde o início do mundo: os japoneses liderarão a humanidade. O grande equívoco foi tentar realizar essa liderança pela força, por meio da guerra, tentando impor sua hegemonia. Foi um erro terrível, e por isso sofremos consequências tão severas. Ao utilizarem o Imperador para esse fim, quase o levaram a abdicar.
+
+Nossa missão é o oposto: liderar o mundo de forma pacífica. Todos os caminhos trilhados pela civilização atual são, em essência, obra de deuses de ramos secundários. Por isso, por mais que a civilização avance, ela jamais poderá gerar a felicidade verdadeira. Falta-lhe a qualificação essencial para tal, que é o poder espiritual. Para curar doenças, por exemplo, recorrem a meios materiais, inventando máquinas e medicamentos, pois não possuem o poder do espírito. Os japoneses, por sua vez, pertencem à mais alta hierarquia espiritual; por isso, conseguimos curar doenças desta forma. Dentro do próprio povo japonês, coexistem a etnia Yamato, que é a genuína, e outras etnias, principalmente coreanas e chinesas. Dentre elas, a etnia Yamato representa a linhagem direta de Deus. Por essa razão, possuímos poder espiritual e nossos métodos estão em consonância com a Verdade.
+
+Até agora, a civilização foi erguida pelos "gerentes" e "serviçais" de Deus. Chegou, porém, o momento em que o verdadeiro mestre, o descendente direto de Deus, ensinará e realizará a Verdade. Quando isso acontecer, um mundo maravilhoso surgirá. Para que isso fosse possível, eram necessários os instrumentos, a cultura material. Foi Deus quem permitiu que tudo isso fosse desenvolvido até agora. A partir deste ponto, o verdadeiro protagonista, o Deus da Origem, utilizará as diversas facetas da cultura existente para um novo fim. A missão da Sekaikyuseikyou é, por exemplo, transformar a bomba atômica, criada para aniquilar, em um instrumento para vivificar a humanidade, tornando a vida mais próspera e pacífica. É converter os aviões, projetados para lançar bombas, em meios de transporte para as pessoas. É, enfim, redirecionar tudo o que foi criado até hoje para ser usado em prol da paz e do bem.
+
+Sob essa ótica, tudo se torna claro. Nada do que foi feito até agora foi em vão. Deus permitiu sua criação por necessidade, mas como faltava a alma – a essência verdadeira –, essas criações não puderam manifestar uma boa função. Portanto, não devemos depreciar o passado. Se utilizarmos essas criações para o bem, elas cumprirão um papel extraordinário e necessário.
+
+O alicerce para tudo isso, o ponto mais crucial, é a erradicação da doença e a formação de seres humanos saudáveis. Uma pessoa saudável transforma-se espiritualmente. É por isso que, ao se tornarem membros da Sekaikyuseikyou, as pessoas mudam tanto.
+
+Pretendo escrever sobre isso em breve, mas o fato é que, até hoje, todas as grandes invenções acabaram sendo utilizadas para o mal. E qual é a origem do mal? As máculas que obscurecem o espírito humano. Quando o espírito se obscurece, o poder dos espíritos animais – os vice-guardiões – se intensifica, levando o indivíduo a praticar o mal. O que causa esse obscurecimento do espírito são os medicamentos. Os remédios impurificam o sangue, e o sangue impuro turva o espírito. Portanto, foram os medicamentos que criaram o mal. À medida que as máculas aumentam, a posição espiritual da pessoa declina, e é então que a infelicidade surge. A sorte de uma pessoa melhora à medida que sua posição no Mundo Espiritual se eleva.
+
+Sendo assim, a raiz da infelicidade e do sofrimento humano são as máculas no espírito, e a origem do mal são os medicamentos. A solução para construir o Mundo de Miroku é eliminar esse ponto fundamental. Dito em palavras, parece simples. Contudo, a realidade envolve a subsistência de indústrias inteiras, como a farmacêutica e a de fertilizantes. Embora a lógica seja irrefutável, na prática, é uma questão de sobrevivência para muitos, o que torna a transição complexa. Teremos que superar inúmeros obstáculos. Contudo, como é Deus Quem conduz esta Obra, a transição ocorrerá passo a passo, com o passar do tempo, tal como o sol que se eleva e gradualmente ilumina o mundo até o pleno dia.
+
+Para concluir, há algo que os senhores precisam impreterivelmente saber. Será publicado futuramente na revista *Eikō*, mas permitam-me fazer a leitura.
+(Ensinamento "Sobre a Minha Luz" e Relato de Fé "Recebendo a Capacidade de Visão Espiritual Através da Luz Divina")
+
+---
+
 # Revelações sobre o Mundo Espiritual e o Destino da Humanidade
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年4月16日） | **Status:** Published
+**Título Original:** 御講話 （S29年4月16日） | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1954-05-15
 
 ## Revelações sobre o Mundo Espiritual e o Destino da Humanidade
 
@@ -72,7 +384,7 @@ Escrevi um pouco a esse respeito.
 # A Vontade de Kannon e o Advento do Mundo de Miroku
 
 **Categoria:** kouwa | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Kenko
-**Título Original:** 大日本健康協会発会式御講話 | **Status:** Unknown
+**Título Original:** 大日本健康協会発会式御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-05-15
 
 ## A Vontade de Kannon e o Advento do Mundo de Miroku
 
@@ -141,7 +453,7 @@ Em linhas gerais, este é o significado de Miroku.
 # O Crepúsculo do Budismo e a Aurora da Nova Era
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年4月16日） | **Status:** Published
+**Título Original:** 御講話 （S28年4月16日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-05-15
 
 ## O Crepúsculo do Budismo e a Aurora da Nova Era
 
@@ -178,7 +490,7 @@ Condições como o espasmo vaginal, em que um simples toque provoca uma dor lanc
 # Diretrizes sobre Johrei e a Situação Mundial
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年11月16日） | **Status:** Published
+**Título Original:** 御講話 （S27年11月16日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
 
 ## Diretrizes sobre Johrei e a Situação Mundial
 
@@ -218,7 +530,7 @@ Observar o desenrolar dos acontecimentos sob essa ótica é fascinante. Ao conhe
 # O Alvorecer da Nova Era
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年1月3日） | **Status:** Published
+**Título Original:** 御講話 （S28年1月3日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-02-15
 
 ## O Alvorecer da Nova Era
 
@@ -277,7 +589,7 @@ Estas foram, em linhas gerais, as explanações sobre os planos e o rumo dos aco
 # O Significado Divino do Museu de Arte
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年7月7日） | **Status:** Published
+**Título Original:** 御講話 （S27年7月7日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-15
 
 ## O Significado Divino do Museu de Arte
 
@@ -322,7 +634,7 @@ Comecei a escrever um folheto sobre o museu para ser distribuído aos visitantes
 # A Transição para a Era do Dia e a Construção do Paraíso Terrestre
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年6月15日 | **Fonte:** 箱根日Hikari殿増築落成祝賀式Gokowa 昭和26
-**Título Original:** 箱根日光殿増築落成祝賀式御講話 | **Status:** Unknown
+**Título Original:** 箱根日光殿増築落成祝賀式御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1951-06-15
 
 ## A Transição para a Era do Dia e a Construção do Paraíso Terrestre
 
@@ -353,7 +665,7 @@ Seja como for, o trabalho se torna cada vez mais gratificante e fascinante. Até
 # O Alvorecer de 1954 e o Poder da Luz Divina
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年1月3日） | **Status:** Published
+**Título Original:** 御講話 （S29年1月3日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-02-15
 
 ## O Alvorecer de 1954 e o Poder da Luz Divina
 
@@ -396,7 +708,7 @@ Se a causa das doenças são as nuvens no espírito, é evidente que a cura deve
 # A Verdade sobre as Fotografias Espirituais
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年8月11日 | **Fonte:** Hikari明世界
-**Título Original:** 御講話 | **Status:** Unknown
+**Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-08-11
 
 ## A Verdade sobre as Fotografias Espirituais
 
@@ -479,7 +791,7 @@ Há, contudo, uma exceção. Pode ocorrer de um ancestral ter regredido ao reino
 # A Construção do Paraíso e a Inauguração do Museu de Arte
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 神仙郷完成兼美術館開館記念祝賀式典御講話１ | **Status:** Published
+**Título Original:** 神仙郷完成兼美術館開館記念祝賀式典御講話１ | **Status:** Published | **Edição/Página:** 11号 | **Data ISO:** 1952-07-15
 
 ## A Construção do Paraíso e a Inauguração do Museu de Arte
 
@@ -554,7 +866,7 @@ Embora não planejasse realizar Johrei hoje, atenderei democraticamente aos inú
 # O Mal como Instrumento do Plano Divino
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年7月27日） | **Status:** Published
+**Título Original:** 御講話 （S27年7月27日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-15
 
 ## O Mal como Instrumento do Plano Divino
 
@@ -597,7 +909,7 @@ Por ora, encerro minhas palavras.
 # Sobre Meus Próximos Escritos
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年8月18日） | **Status:** Published
+**Título Original:** 御講話 （S26年8月18日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Sobre Meus Próximos Escritos
 
@@ -614,7 +926,7 @@ Posteriormente, abordarei os mais variados campos do saber, como a política, a 
 # A Concretização do Paraíso e o Princípio do Johrei
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年12月27日） | **Status:** Published
+**Título Original:** 御講話 （S28年12月27日） | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
 
 ## A Concretização do Paraíso e o Princípio do Johrei
 
@@ -649,7 +961,7 @@ Creio que mesmo membros com bastante tempo de fé possam ter dificuldade em comp
 # A Superstição dos Fertilizantes e a Crise do Japão
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年10月26日） | **Status:** Published
+**Título Original:** 御講話 （S28年10月26日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
 
 ## A Superstição dos Fertilizantes e a Crise do Japão
 
@@ -686,7 +998,7 @@ Ainda haveria muitos outros pontos a serem abordados e textos a serem lidos, mas
 # As Manifestações da Intensificação da Luz Divina
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S28年9月24日） | **Status:** Published
+**Título Original:** 秋季大祭御講話 （S28年9月24日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
 
 ## As Manifestações da Intensificação da Luz Divina
 
@@ -726,7 +1038,7 @@ A execução deste projeto seguirá uma ordem, ocorrendo somente após a conclus
 # A Manifestação da Vontade Divina
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年5月26日） | **Status:** Published
+**Título Original:** 御講話 （S27年5月26日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
 
 ## A Manifestação da Vontade Divina
 
@@ -783,7 +1095,7 @@ Sinto o anseio de esclarecer a todos o mais rápido possível, mas, como tudo é
 # A Vontade Divina por Trás do Rancor Humano
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年12月25日） | **Status:** Published
+**Título Original:** 御講話 （S27年12月25日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
 
 ## A Vontade Divina por Trás do Rancor Humano
 
@@ -818,7 +1130,7 @@ Mudando de assunto, gostaria de fazer uma observação sobre a prática do Johre
 # A Força Absoluta e a Grande Transição
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年12月25日） | **Status:** Published
+**Título Original:** 御講話 （S26年12月25日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## A Força Absoluta e a Grande Transição
 
@@ -857,7 +1169,7 @@ Até agora, todo o pensamento tem sido puramente materialista. Não há necessid
 # A Superstição da Ciência e a Verdade Revelada
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年7月25日） | **Status:** Published
+**Título Original:** 御講話 （S28年7月25日） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-08-15
 
 ## A Superstição da Ciência e a Verdade Revelada
 
@@ -922,7 +1234,7 @@ Outro ponto é que os cremes atuais contêm diversos produtos químicos, cada ve
 # O Desvelar do Plano Divino
 
 **Categoria:** kouwa | **Ano:** 昭和25(1950)年3月5日 | **Fonte:** Kyusei
-**Título Original:** 御講話 | **Status:** Unpublished
+**Título Original:** 御講話 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950-03-05
 
 ## O Desvelar do Plano Divino
 
@@ -945,7 +1257,7 @@ O Plano de Deus, por sua vez, é de uma magnitude grandiosa. Anteontem, tratamos
 # A Urgência e o Propósito Divino da Agricultura Natural
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年2月26日） | **Status:** Published
+**Título Original:** 御講話 （S28年2月26日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
 
 ## A Urgência e o Propósito Divino da Agricultura Natural
 
@@ -984,7 +1296,7 @@ Encerrando por ora o assunto da agricultura, escrevi um artigo interessante que 
 # A Superstição do Sofrimento e a Expansão da Obra Divina
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年2月26日） | **Status:** Published
+**Título Original:** 御講話 （S29年2月26日） | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1954-03-15
 
 ## A Superstição do Sofrimento e a Expansão da Obra Divina
 
@@ -1031,7 +1343,7 @@ Sendo assim, é fundamental que todos compreendam os malefícios da medicina chi
 # A Restauração do Emplastro Espiritual e a Síntese das Civilizações
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年10月8日） | **Status:** Published
+**Título Original:** 御講話 （S26年10月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## A Restauração do Emplastro Espiritual e a Síntese das Civilizações
 
@@ -1070,7 +1382,7 @@ Nesse sentido, é fundamental entender os princípios Vertical e Horizontal. O c
 # Sobre o Johrei e a Divulgação da Verdade Divina
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年10月27日） | **Status:** Published
+**Título Original:** 御講話 （S27年10月27日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
 
 ## Sobre o Johrei e a Divulgação da Verdade Divina
 
@@ -1103,7 +1415,7 @@ A "Conclusão" deste ensaio, que será lida em outra oportunidade, foi redigida 
 # A Construção do Paraíso e a Dissolução dos Sofrimentos Humanos
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S26年9月26日） | **Status:** Published
+**Título Original:** 秋季大祭御講話 （S26年9月26日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## A Construção do Paraíso e a Dissolução dos Sofrimentos Humanos
 
@@ -1132,7 +1444,7 @@ No que tange a Atami, os jardins estarão, em sua maior parte, concluídos até 
 # O Protótipo do Paraíso Terrestre e o Desvelar do Plano Divino
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S27年9月26日） | **Status:** Published
+**Título Original:** 秋季大祭御講話 （S27年9月26日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
 
 ## O Protótipo do Paraíso Terrestre e o Desvelar do Plano Divino
 
@@ -1203,7 +1515,7 @@ A forma de evitar isso está no ensinamento central da Igreja Messiânica: “En
 # A Providência Divina e a Racionalidade da Fé
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年5月27日） | **Status:** Published
+**Título Original:** 御講話 （S28年5月27日） | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1953-06-15
 
 ## A Providência Divina e a Racionalidade da Fé
 
@@ -1246,7 +1558,7 @@ O vencedor do ano passado era da província de Kagawa. Como a marca a ser supera
 # Visões do Paraíso Terrestre e a Missão Divina
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 春季大祭御講話 （S27年3月23日） | **Status:** Published
+**Título Original:** 春季大祭御講話 （S27年3月23日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Visões do Paraíso Terrestre e a Missão Divina
 
@@ -1287,7 +1599,7 @@ Encerrarei minhas palavras por aqui. Eu não pretendia ministrar Johrei no dia d
 # Sobre o Inestimável Valor da Arte Japonesa
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年2月27日） | **Status:** Published
+**Título Original:** 御講話 （S27年2月27日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Sobre o Inestimável Valor da Arte Japonesa
 
@@ -1324,7 +1636,7 @@ Ainda haveria muito a dizer, mas nosso tempo se esgotou.
 # O Nascimento da Igreja Gorokushichi e o Advento do Mundo do Dia
 
 **Categoria:** kouwa | **Ano:** 昭和23(1948)年11月1日 | **Fonte:** 昭和
-**Título Original:** 五六七教会発会式御言葉 | **Status:** Unknown
+**Título Original:** 五六七教会発会式御言葉 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1948-11-01
 
 ## O Nascimento da Igreja Gorokushichi e o Advento do Mundo do Dia
 
@@ -1375,7 +1687,7 @@ O nascimento da Igreja Gorokushichi é, em minha convicção, o primeiro passo p
 # Sobre os Tufões, a Expansão da Fé e o Ponto de Encontro entre Ciência e Religião
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S28年9月27日） | **Status:** Published
+**Título Original:** 秋季大祭御講話 （S28年9月27日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
 
 ## Sobre os Tufões, a Expansão da Fé e o Ponto de Encontro entre Ciência e Religião
 
@@ -1436,7 +1748,7 @@ Ao se aprofundar a questão, chega-se à conclusão de que religião e ciência 
 # A Grande Revolução da Agricultura Japonesa
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年10月25日） | **Status:** Published
+**Título Original:** 御講話 （S28年10月25日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
 
 ## A Grande Revolução da Agricultura Japonesa
 
@@ -1471,7 +1783,7 @@ Com o avanço gradual da Obra, a partir do próximo ano, grandes transformaçõe
 # O Embate entre o Dragão Dourado e o Dragão Negro
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年8月21日） | **Status:** Published
+**Título Original:** 御講話 （S26年8月21日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## O Embate entre o Dragão Dourado e o Dragão Negro
 
@@ -1502,7 +1814,7 @@ Quanto ao “Relato da Perseguição Religiosa” original, produzimos apenas de
 # A Ciência em seu Limite e a Verdade sobre a Purificação
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年7月26日） | **Status:** Published
+**Título Original:** 御講話 （S28年7月26日） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-08-15
 
 ## A Ciência em seu Limite e a Verdade sobre a Purificação
 
@@ -1555,289 +1867,6 @@ O ato de a mulher se maquiar é, em si, uma espécie de pecado. Fundamentalmente
 O mais importante para uma mulher é ter um coração cálido. Quando o sangue se purifica, a aura da pessoa se torna agradável. De que adianta ter a pele alva se a impressão que se passa é desagradável? Uma boa aura é muito mais valiosa. Pode parecer um assunto estranho, mas, no fim das contas, tanto para homens quanto para mulheres, o mais importante é transmitir um bom sentimento. A beleza superficial pode ser útil para mulheres de certas profissões, como gueixas ou prostitutas, mas, para o convívio diário, uma aura agradável é o que nunca enfada. É a beleza que emana do âmago. Para mim, a mera beleza exterior não tem atrativo algum. Não digo isso para lisonjear, mas os fiéis realmente têm uma aura agradável. Às vezes, fico maravilhado. Falando com total imparcialidade, encontro pessoas cujos traços faciais não são admiráveis, mas o sentimento que recebo delas é tão bom que chego a pensar em como isso é misterioso.
 
 Dessa forma, como os cosméticos são também uma forma de toxina, não é preciso abandoná-los de uma vez. Recomendo a adoção de uma abordagem gradual, diminuindo o uso aos poucos até parar completamente. O resultado será imensamente positivo. Já há muitas mulheres que, felizes, relatam como ficaram mais bonitas depois de abandonar a maquiagem. Assim como no tratamento das toxinas medicamentosas, é preciso suportar uma fase transitória, mas os benefícios, como já mencionei, são enormes. À medida que essa verdade se difundir pelo mundo, trará vantagens em diversos aspectos. Talvez esta seja também uma das condições do Paraíso Terrestre.
-
----
-
-# A Edificação do Sagrado e a Purificação do Mundo
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年5月25日） | **Status:** Published
-
-## A Edificação do Sagrado e a Purificação do Mundo
-
-Faltam apenas os últimos retoques para que este local tenha sua fisionomia completamente renovada. O museu de arte, por sua vez, está programado para ser concluído até o dia dez do próximo mês, e as obras prosseguem em ritmo acelerado, inclusive com trabalho noturno. Creio que a maior parte estará finalizada a tempo. Como certamente já ouviram, a cerimônia de inauguração está marcada para o dia quinze do mês vindouro. A esse respeito, decidi registrar por escrito o percurso que trilhamos até este momento, e pedirei que lhes seja feita a leitura agora.
-
-Conforme o que acabam de ouvir, a construção transcorreu com uma celeridade impressionante. A ideia de edificar um museu de arte surgiu em minha mente no final do ano retrasado. No ano passado, por esta mesma época, este terreno era um cenário desolador, onde apenas se quebravam pedras e se transportava barro. Testemunhar essa metamorfose em menos de um ano é algo verdadeiramente notável; a rapidez com que tudo se concretizou causa-me espanto a mim mesmo. A causa primordial desse êxito reside, sem dúvida, na dedicação dos fiéis, que se entregaram ao trabalho desprovidos de interesses egoístas. Ademais, os próprios artesãos que aqui atuam converteram-se, em sua maioria, à nossa fé. Em virtude disso, trabalham com um fervor e uma sinceridade que resultam em uma obra de excelência, concluída em tempo recorde.
-
-Nesse sentido, a nossa obra difere fundamentalmente dos empreendimentos seculares. Uma construção desta magnitude, no mundo profano, demandaria no mínimo dois ou três anos para ser concluída. Durante esse período, surgiriam toda sorte de percalços: disputas orçamentárias, a presença de indivíduos desonestos que praticam o estelionato, e uma sucessão de obstáculos que impediriam o progresso tranquilo do projeto. Com frequência, os custos excedem o previsto, os pagamentos atrasam, a aquisição de matéria-prima torna-se difícil, e os empreiteiros apresentam pretextos para exigir aditivos contratuais, alegando dificuldades para reunir mão de obra ou comprar materiais. É um processo verdadeiramente penoso. Aqui, todavia, não enfrentamos nenhuma dessas adversidades; tudo avançou de forma surpreendente. A fé é, de fato, uma força prodigiosa.
-
-Por outro lado, a aquisição das obras de arte que comporão o acervo é igualmente miraculosa. Os negociantes de arte mostram-se estupefatos, pois muitas dessas peças não costumam estar disponíveis no mercado, e eles se indagam como foi possível obtê-las. Para mim, o processo é bastante simples: basta que eu conceba em minha mente a necessidade ou o desejo por uma determinada obra. A partir desse pensamento, de uma forma ou de outra, as peças começam a convergir para mim, geralmente de maneira favorável e a preços surpreendentemente acessíveis.
-
-A razão para tal fenômeno reside na atuação do Mundo Espiritual. Quando anseio por uma peça, os espíritos que a possuíam em vida, ou aqueles cujos tesouros de família elas representavam, mobilizam-se para que cheguem até mim. Ao fazê-lo, prestam um serviço de grande mérito. O mesmo ocorre com espíritos cujos descendentes foram salvos por nossa fé; em gratidão, eles também atuam para que essas obras sejam reunidas. São as múltiplas atividades no Mundo Espiritual que se manifestam dessa forma no plano material. Portanto, creio que, quando o museu for inaugurado e as obras expostas, muitos ficarão assombrados, questionando-se como foi possível que tais tesouros viessem a se encontrar aqui.
-
-Analisando em retrospecto, lembro-me de que, logo após o fim da guerra, adquiri muitas peças que me agradaram sem maiores pretensões, aproveitando os preços baixos da época. Hoje, essas mesmas obras são consideradas de valor inestimável. Há muitas cuja aquisição, em retrospecto, parece inexplicável. Esse aspecto também constitui um grande milagre. Sob a perspectiva da fé, a existência deste museu torna-se perfeitamente compreensível. Contudo, para aqueles desprovidos de fé, a sua realização será, inevitavelmente, um motivo de profunda reflexão.
-
-Ao investigar os museus estrangeiros e outros acervos, percebi que, mesmo as coleções reunidas com grande esmero, não são tão extraordinárias quanto se poderia supor. Gradualmente, compreendi que o foco desses acervos são as artes chinesas, especialmente bronzes e cerâmicas. A coleção mais notável de cerâmica chinesa pertence a um museu em Londres, reunida pelo abastado colecionador Eumorfopoulos. Em segundo lugar, vem a coleção de Sir Percival David. A coleção de Eumorfopoulos distingue-se por possuir peças de bronze de qualidade excepcional e cerâmicas Jun da dinastia Song, que estão ausentes na de David, cujo acervo é mais abrangente. Sir Percival David, por sua vez, levou um tempo considerável para formar sua coleção.
-
-Ao comparar o acervo que reuni com o dele, percebo claramente que as peças que juntei em apenas um ano são superiores, ou no mínimo não inferiores, às que ele levou uma vida inteira para colecionar. Tenho plena convicção disso, pois possuo o catálogo da coleção de David, com suas excelentes pranchas coloridas. Ao analisá-lo, constato a superioridade do nosso acervo. O fato de que minha coleção, formada em um ano, supera o que um estrangeiro levou décadas para reunir, é um verdadeiro milagre. Também sob este prisma, os conhecedores da arte não poderão deixar de se indagar como foi possível concentrar aqui cerâmicas chinesas de tão sublime qualidade.
-
-A conclusão definitiva das obras ocorrerá em julho, e a partir de então pretendemos abrir o museu ao público em geral. Prevemos um fluxo de visitantes tão grande que o sistema de transporte atual será insuficiente. Há poucos dias, o diretor da companhia ferroviária local e outras figuras proeminentes da vila vieram me expressar sua gratidão. O motivo foi uma petição, assinada por quinhentos moradores da região entre Odawara e Hakone, que me haviam entregado no ano passado, solicitando que eu antecipasse minha vinda em um mês e prolongasse minha estada por igual período. Em resposta, este ano cheguei no dia dezoito de maio, em vez do habitual primeiro de junho. Eles vieram agradecer por essa antecipação, o que me permitiu resolver duas questões de uma só vez.
-
-Na ocasião, perguntei ao diretor da companhia como eles pretendiam lidar com o grande número de visitantes após a inauguração do museu. Questionei se seria possível aumentar a frequência dos trens, ao que ele respondeu ser tecnicamente inviável sem a instalação de novos equipamentos, cujo custo seria extremamente elevado. Seria necessário, então, aumentar o número de ônibus. Indaguei se a companhia poderia fazê-lo, mas a resposta foi novamente negativa, devido aos altos custos. Diante disso, afirmei que eu mesmo estabeleceria um serviço próprio. Eles concordaram que não havia outra solução.
-
-Felizmente, a nossa Igreja tem condições de criar esse serviço de ônibus, pois contamos com um fiel, relativamente novo na fé, que é uma pessoa de grande influência no setor de transportes. Encarregá-lo-ei de todos os detalhes. Por ser um serviço direto, os visitantes poderão desembarcar na estação de Odawara e embarcar em nossos ônibus, que os trarão diretamente ao museu, proporcionando uma viagem cômoda e agradável. Os veículos terão capacidade para quarenta ou cinquenta passageiros, e pretendemos não exceder esse limite. Considero um equívoco permitir que as pessoas viajem em pé. Guardo na memória o relato de uma pessoa que residiu por muitos anos em Paris e que me dizia ser a melhor cidade para se viver. Quando lhe perguntei o que havia de melhor, ela respondeu, sem hesitar: os ônibus. Explicou que os veículos, com capacidade para quarenta pessoas, partiam pontualmente assim que todos os assentos eram ocupados, proporcionando uma sensação de grande conforto e organização. Essa imagem permaneceu em minha mente, e é o modelo que pretendo implementar. Já estamos buscando um terreno para construir o terminal. Para os que vierem de táxi, planejamos construir uma ponte sobre o rio, permitindo que desembarquem diretamente na entrada do museu, protegidos da chuva.
-
-Prevejo uma grande afluência de estrangeiros. Diferentemente dos japoneses, os estrangeiros que vêm ao Japão com o propósito de visitar um museu de arte são, em geral, pessoas de alta posição. Portanto, desejo que tudo seja impecável para que sua visita transcorra sem o menor inconveniente. Como falta apenas um mês para a conclusão, não há necessidade de me estender em mais detalhes. Por ora, encerro aqui este assunto.
-
-O livro *A Terapia da Fé para a Tuberculose* foi finalizado e seguirá para impressão. Além dele, comecei a escrever uma obra que julgo ainda mais fascinante, intitulada *Minha História*. Como sou um ser humano diferente dos comuns, minha vida é repleta de acontecimentos místicos. Em vez de deixar que as pessoas apenas imaginem tais coisas, julguei melhor revelá-las abertamente. Tenho a certeza de que, no futuro, surgirão inúmeras pessoas desejosas de conhecer a meu respeito. Refletindo sobre isso, percebo que grandes figuras como Shakyamuni, Cristo e Maomé expuseram seus ensinamentos por escrito ou oralmente, mas pouco revelaram sobre sua vida cotidiana ou seu mundo interior. Talvez não houvesse muito a ser dito a esse respeito. Eles se portavam como deuses vivos, distantes, o que, a meu ver, deixa uma grande lacuna. Em oposição a isso, desejo, com ousadia, descrever essa minha faceta e deixá-la registrada para a posteridade. Essa é a proposta do livro *Minha História*. Por tê-lo recém-iniciado, ainda não está organizado e necessita de revisões, mas farei a leitura de um pequeno trecho.
-
-Recentemente, ao observar o meu trabalho, uma pessoa comentou que eu me assemelhava a Hideyoshi. Respondi-lhe: "Que disparate dizes! Hideyoshi realizou feitos grandiosos, mas de que maneira? Foram fruto de um magnífico ato de latrocínio e assassinato. Não se sabe quantas vidas foram ceifadas, e não apenas de japoneses, mas também de coreanos naquela época. Foi assim que ele realizou suas obras e criou o que se conhece como período Momoyama. Sob esse aspecto, ele pode ter sido grandioso, mas se o alicerce de sua obra é a violência, então ela não tem valor. Eu, ao contrário, dedico-me a salvar as pessoas, e é essa diferença fundamental que deves enxergar."
-
-Então, questionaram-me sobre Ieyasu. Repliquei que Ieyasu simplesmente herdou tudo o que Hideyoshi havia conquistado. Falando sem rodeios, ele se apropriou dos despojos de um grande ladrão. Conclui-se, portanto, que as grandes figuras que realizaram obras para o Estado ou para a sociedade no passado cometeram, em paralelo, crimes atrozes. Suas realizações não são, por isso, verdadeiras. Por outro lado, os líderes religiosos pregaram seus ensinamentos, mas não realizaram obras concretas. Eu, contudo, prego e realizo. Poder-se-ia dizer que sou o mais ambicioso de todos, pois me proponho a fazer tudo. No entanto, como meu propósito é salvar as pessoas e melhorar o mundo, posso me orgulhar imensamente disso.
-
-Os jornais noticiam que a disenteria tem se alastrado bastante este ano. É surpreendente que, mesmo com o tempo ainda frio, antes da chegada do verão, já surjam tantos casos em diversas localidades. É provável que, no auge do verão, a incidência seja muito maior, talvez até quebrando recordes. Já expliquei anteriormente a causa da disenteria, mas, em resumo, ela se origina da combinação entre o uso excessivo do intelecto e a ingestão de medicamentos.
-
-O homem moderno utiliza a mente de forma intensa. A vida em sociedade impõe essa condição, somada a inúmeras dificuldades que geram preocupações e exigem grande esforço mental. Além disso, a saúde das pessoas, de modo geral, está bastante debilitada. Elas sobrecarregam a mente e, para agravar o quadro, consomem remédios. Como consequência, as toxinas medicinais, o *yakudoku*, acumulam-se invariavelmente nesta região da nuca. Embora eu não realize tratamentos gerais atualmente, quando observo familiares ou pessoas próximas que não se sentem bem, constato que a causa está sempre aqui, em nove de cada dez casos.
-
-Quando um processo de purificação se inicia nesse local, o sangue toxificado ali concentrado dissolve-se, desce pelo corpo, acumula-se no abdômen e é expelido em forma de diarreia. Isso é a disenteria. A medicina, por sua vez, gera grande alarde, concentrando-se unicamente nos germes, mas, na verdade, trata-se de um fenômeno extremamente benéfico. O acúmulo de toxinas nessa região prejudica o funcionamento da mente, e como esse sangue impuro se concentra ali constantemente, a pessoa torna-se irritadiça e mentalmente turva.
-
-Vemos um grande número de acidentes de trânsito, tanto no Japão quanto nos Estados Unidos, onde as mortes no trânsito superam as de guerra. Qual a causa disso? É o calor que se gera na nuca, deixando a pessoa aturdida e propensa a colisões. Isso ocorre porque sua mente não está em bom estado, o que significa que uma purificação está em curso naquela região. Da mesma forma, brigas e até assassinatos por motivos fúteis, como os ocorridos nos incidentes do Dia do Trabalho, têm sua origem nesse mesmo ponto. Acrescenta-se a isso uma sensação de mal-estar generalizado, que leva a pessoa a interpretar as coisas com má-vontade em vez de benevolência. Um sentimento vago de desconforto que, ao menor estímulo, pode explodir em violência, como um ato de desespero. Portanto, a causa das maiores abominações do mundo reside aí: nesse aglomerado de toxinas medicinais.
-
-Essa limpeza não é uma ação deliberada de Deus, mas um processo natural de purificação do corpo. Isso é a disenteria. Não há, portanto, nada tão benéfico quanto a disenteria. Quem passa por ela torna-se mais saudável e sua mente fica mais clara. O cômico é a insistência em lavar as mãos ao chegar em casa, como se o bacilo da disenteria fosse algo de grande porte. Por mais que se lavem as mãos, os germes aderem por toda parte. Se fosse algo visível como a lama, a lavagem talvez o removesse. Mas algo tão minúsculo como um germe adere novamente no instante seguinte. É lastimável ver as pessoas se darem a tanto trabalho.
-
-Como não dispõem de outros recursos, as autoridades sanitárias se limitam a advertir contra o excesso de comida, mas não há relação entre excessos alimentares e disenteria. O excesso de comida apenas sobrecarrega o estômago e se transforma em fezes; não se trata de uma ingestão descontrolada de sangue. A recomendação para lavar as mãos é, francamente, pueril. Diante disso, eles se veem de mãos atadas, preocupam-se e despendem enormes somas de dinheiro. Do nosso ponto de vista, é uma situação digna de pena. Pretendo escrever sobre isso nos jornais, mas sei que, embora os fiéis compreendam, as outras pessoas acharão apenas estranho. Essa é a realidade.
-
-Para os fiéis, portanto, a disenteria deve ser encarada como um processo bem-vindo. Apenas essa paz de espírito, por si só, já é algo de imenso valor.
-
----
-
-# A Sabedoria Divina no Veredito Judicial
-
-**Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年12月26日） | **Status:** Published
-
-## A Sabedoria Divina no Veredito Judicial
-
-Como devem ter visto nos jornais, o processo judicial chegou a um desfecho, por ora. Gostaria, portanto, de expor-lhes suas verdadeiras causas.
-
-Nesse sentido, surge a questão de por que Deus não nos concedeu Sua proteção. A verdade, contudo, é que para Deus seria algo trivial nos conceder a absolvição. Pode parecer estranho que Ele tenha deliberadamente permitido uma condenação tão severa, mas a realidade é que foi o próprio Deus quem a orquestrou. Dispomos de inúmeras revelações divinas que confirmam este fato.
-
-E qual seria o motivo? Atualmente, a hostilidade da sociedade contra a Sekaikyuseikyou é imensa. A vanguarda dessa animosidade é formada por ateus, jornalistas e intelectuais, que pensam: "Malditos! Aproveitando-se da confusão do pós-guerra, inventaram essa nova e engenhosa fraude para ludibriar fiéis, extorquir-lhes fortunas e viver no luxo. A renda que auferem é colossal, algo que nos é verdadeiramente insuportável". Essa hostilidade gera uma força espiritual negativa de tremenda magnitude, que obstrui sobremaneira nossa Obra.
-
-Temos também as demais religiões, tanto as novas quanto as tradicionais, que se queixam: "Os nossos fiéis, de uma hora para outra, tornaram-se seguidores da Sekaikyuseikyou. É irritante ver uma religião fraudulenta, surgida ontem, prosperar tanto". E há ainda os médicos, que dizem: "Aquela família era uma ótima fonte de renda, bons pacientes, mas subitamente deixaram de me procurar. Ao indagar, descobri que haviam aderido à Sekaikyuseikyou, que os proíbe de consultar médicos e de tomar remédios". Essas ondas de pensamento, impregnadas de rancor, são avassaladoras.
-
-Tal fenômeno não ocorre com religiões antigas e estagnadas, mas quando há um crescimento vertiginoso como o nosso, reações de animosidade são inevitáveis. Emanações de rancor, inveja e ódio nos atingem incessantemente, provenientes de uma multidão de espíritos. Logo, é imperativo que minimizemos essa oposição, pois ela constitui um grande obstáculo. Para tanto, Deus precisou criar um meio de regular e abrandar essa hostilidade.
-
-É nesse contexto que surge um veredito como o que recebemos. Diante dele, essas pessoas sentem sua ira aplacada. Embora eu mesmo, do ponto de vista humano, sinta-me irritado e indignado com tal sentença, por um lado, aflora em mim essa indignação; por outro, no recôndito da minha alma, sinto-me satisfeito. Pois, ao pensar nas inúmeras pessoas que agora exultam, dizendo "Bem feito! Que alívio!", compreendo que o rancor delas diminui. Isso não é, de forma alguma, uma justificativa para a derrota ou despeito de perdedor. Como o ressentimento do outro lado se atenua, podemos dizer que, em última análise, tal veredito é uma bênção.
-
-Portanto, embora possam imaginar que estou profundamente desgostoso, a verdade é que essa sentença me trouxe uma sensação de bem-estar. Nisto consiste o que podemos chamar de a dimensão da fé. Costuma-se falar sobre a "tristeza do vitorioso". Quando se vence em algo, atrai-se o rancor e o sofrimento do perdedor, o que, paradoxalmente, gera um sentimento desagradável. Em situações como a nossa, contudo, em vez de ódio, despertamos compaixão, e o antagonismo alheio se dissipa. Por essa razão, também nós nos sentimos bem.
-
-Analisando por esse prisma, compreendemos que os supostos crimes e as diversas acusações que nos foram imputadas foram, na verdade, um estratagema de Deus para minimizar ao máximo as interferências espirituais. Se tivéssemos sido absolvidos, esses detratores teriam pensado: "Vejam só, foram inocentados e agora devem estar com um ar de triunfo. Que ultraje!", e isso acabaria por obstruir ainda mais o nosso desenvolvimento. Portanto, embora um veredito como este possa gerar um impacto negativo temporário, trata-se de algo passageiro. Para o avanço da Obra Divina, ele não representa um prejuízo, mas sim um benefício. Também por meio disto, podemos compreender claramente a atuação de Deus.
-
-Deus detém o poder absoluto; obter uma absolvição seria para Ele algo insignificante. É por essa razão que este processo judicial transcorreu de maneira estranhamente desfavorável. Enquanto todos os outros assuntos prosperam, apenas o caso na justiça tomou um rumo peculiar. E não poderia ser diferente, pois era Deus quem estava no comando. Ele nos conduziu habilmente para que fôssemos considerados criminosos. Em última análise, a atitude correta é a de sentir gratidão.
-
-Farei agora a leitura de um artigo.
-(Artigo "A Terra Aqueceu-se", da Coletânea Glória, n.º 190)
-
-Sobre o Johrei: quando os dedos estão separados, cria-se um espaço entre eles; portanto, a eficácia é maior quando se ministra com os dedos bem juntos. Contudo, ao juntar os dedos, é fácil aplicar força inadvertidamente. Prestem atenção a este ponto: mantenham os dedos unidos, mas sem tensioná-los, e o efeito será consideravelmente mais intenso. Gostaria que anotassem essa observação.
-
----
-
-# A Comprovação da Agricultura Natural e sua Ampla Divulgação
-
-**Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年2月25日） | **Status:** Published
-
-## A Comprovação da Agricultura Natural e sua Ampla Divulgação
-
-Reunimos um número expressivo de relatórios sobre a Agricultura Natural e, por essa razão, pretendo elaborar uma edição especial dedicada ao tema. Conforme já expliquei inúmeras vezes, ainda persiste um resquício da superstição em torno dos fertilizantes. Da mesma forma que o veneno dos adubos impregna os cultivos, a crença cega acerca deles ainda contamina a mente dos agricultores.
-
-Percebe-se que há um parco reconhecimento do verdadeiro valor do solo. Quanto menos se permite que a terra manifeste sua força intrínseca, piores são os resultados. Em contrapartida, aqueles que depositam sua confiança exclusivamente no solo e o reverenciam, obtêm resultados extraordinários. Portanto, assim como ocorre com a intoxicação medicamentosa, basta que se pense de maneira exatamente oposta à convencional para se encontrar o caminho certo. Dentre os relatos de Graça, destaca-se o de uma pessoa que, ao seguir rigorosamente minhas orientações, alcançou um aumento de produção superior a sessenta por cento já no sexto ano, um resultado plenamente condizente com o que fora ensinado.
-
-Com o acúmulo de excelentes artigos e o encerramento do que considerávamos um período experimental, daremos início a uma campanha de ampla divulgação. Para tanto, ordenei a preparação de um exército de missionários. A seguir, farei a leitura de um artigo que será publicado nesta edição especial. Como os fundamentos já foram abordados anteriormente, este texto se aprofunda em pontos mais detalhados que observei em relação às práticas atuais.
-
-Embora os relatos de Graça contenham aspectos técnicos, eles não são de suma importância, pois o método que ensinamos é suficiente. Naturalmente, a época do plantio deve ser adaptada às condições de cada localidade, seja antecipando-a em climas mais quentes ou postergando-a em regiões mais frias. É preciso ajustar-se às particularidades de cada terra.
-
-Muitos observam uma prática bem-sucedida em determinado lugar e tentam replicá-la, mas se esquecem de que solos cultivados há muito tempo estão profundamente impregnados com o veneno dos adubos. Nesses casos, a eliminação dos fertilizantes, por si só, demanda um longo período para a desintoxicação da terra. Para solos assim, a adição de terra de outra localidade pode ser uma medida eficaz.
-
-Contudo, é justamente nesse ponto que reside um grave equívoco dos agricultores. Eles observam que a adição de terra nova resulta em uma melhora temporária na colheita e atribuem isso à ausência do veneno dos adubos. A interpretação convencional, porém, é muito diferente e equivocada. O agricultor de hoje acredita que, com o tempo, a terra se esgota de seus nutrientes, absorvidos pelas colheitas, tornando-se infértil. Assim, ele conclui que a terra nova, por ser rica nesses elementos, restaura a produtividade.
-
-O raciocínio é diametralmente oposto à realidade. O solo se torna improdutivo porque o excesso de fertilizantes o mata gradativamente. Ao contrário, quando se cultiva sem adubos, a cada safra o poder intrínseco do solo aumenta. E aumentar a força da terra equivale a aumentar sua fertilidade natural. A interpretação equivocada desse princípio é o que sustenta o dogma dos fertilizantes, uma superstição que tem por base o adubo e que precisa ser demolida.
-
-O Japão, por sua insuficiência na produção de arroz, depende enormemente de importações. O mais curioso é que nossos fornecedores tradicionais, como Birmânia, Tailândia e Índia, também enfrentam hoje uma grave escassez. Em virtude disso, a aquisição de arroz tornou-se uma tarefa árdua. Recentemente, fomos forçados a importar o chamado "arroz amarelado", cujo consumo causou sérios problemas de saúde à população. Até mesmo na Ásia Central a produção diminuiu. A razão para essa crise é que também naquelas regiões se disseminou o uso do sulfato de amônio. Portanto, o flagelo da intoxicação por fertilizantes não se restringe ao Japão; tornou-se um problema mundial.
-
-Ademais, a tuberculose também tem se alastrado nessas nações, impulsionando a venda de medicamentos para combatê-la. Nesse sentido, a Agricultura Natural surge não apenas como uma solução para o Japão, mas como uma salvação em escala global.
-
-O pensamento humano é, de fato, muito superficial. As pessoas aplicam o sulfato de amônio e, por obterem excelentes colheitas durante alguns anos, apaixonam-se pelo método. No entanto, com o passar do tempo, a produção começa a decair, mas elas, cegas pela memória do sucesso inicial, não percebem o declínio gradual. É um processo análogo ao vício em entorpecentes. Assemelha-se a um homem que se enamora de uma mulher de beleza estonteante e, mesmo quando ela se transforma em uma figura decrépita, ele permanece cego à sua decadência, preso à imagem do passado.
-
-Ontem, recebi a visita do senhor Komatsu Yuji, um ex-parlamentar de Atami, que desejava discutir um assunto de grande importância. Ele me contou, entusiasmado, que um conhecido seu havia inventado um fertilizante extraordinário e que ele próprio pretendia adotá-lo em larga escala. Segundo ele, o método consistia na decomposição de batata-doce e prometia aumentar a produção em quarenta a cinquenta por cento.
-
-Eu o aconselhei: "Desista dessa ideia. Ainda que traga um benefício temporário, o fracasso final é inevitável e todo o esforço será em vão." Como ele demonstrava grande interesse pela agricultura e insistia em seu plano, sugeri que adotasse a nossa Agricultura Natural. Ele partiu com um novo entendimento e afirmou que abandonaria o projeto com a batata-doce. Diante de suas perguntas, expliquei-lhe o princípio fundamental: a batata-doce foi criada por Deus como alimento para o ser humano. Deixá-la apodrecer para transformá-la em adubo é um imenso desperdício e contraria toda a lógica Divina. Oponho-me a tal prática por essa razão.
-
-Todas as coisas no Universo têm uma finalidade estabelecida por Deus. Quando o homem, com sua sabedoria limitada, tenta desviar essa finalidade para outros fins, ele age de forma antinatural, contrária à Natureza. Por isso, ainda que obtenha algum sucesso momentâneo, o resultado final será sempre o fracasso. A interpretação de todos esses fenômenos está equivocada. É nesse ponto que reside o grande erro da ciência materialista.
-
-Basta compreender o fundamento. O solo foi criado por Deus para cultivar o arroz; portanto, deve ser utilizado em seu estado puro. Adicionar-lhe substâncias estranhas significa profaná-lo, obstruindo seu trabalho. É uma interferência que impede a terra de exercer sua função. Não há equívoco maior do que este.
-
-Foi esse o princípio fundamental que compreendi durante os dez anos em que residi em Hozanso. As pesquisas que realizei nesse período comprovaram, sem margem de erro, a veracidade desse preceito, e assim determinei que os cultivos seguissem esse método até os dias de hoje.
-
-Os membros, em sua maioria, já o assimilaram. Agora, nossa missão é levá-lo à sociedade. A difusão será muito mais célere se pessoas que não professam nossa fé passarem a praticá-lo. A exigência de se tornar membro para adotá-lo retardaria enormemente sua expansão e, consequentemente, a salvação do Japão, que se encontra em uma situação crítica. Por essa razão, tenho ensinado que a eliminação dos adubos, por si só, melhora as colheitas, independentemente da fé.
-
-Nesse ponto, alguns membros ainda mantêm uma visão equivocada. Também é um erro realizar a ministração de Johrei de forma ostensiva nos campos. Isso pode levar à conclusão equivocada de que tais práticas são indispensáveis para o sucesso da colheita, o que se tornaria um obstáculo. O que devemos difundir é a verdade de que a simples ausência de fertilizantes já é suficiente para se obter bons resultados.
-
-Portanto, é inadmissível utilizar o cultivo sem adubos como um estratagema para angariar novos membros. Nossa prioridade máxima deve ser a rápida recuperação do Japão de sua crise. Isso não significa que o Johrei deva ser mantido em segredo, mas é preciso abandonar a atitude de ostentar os resultados como um produto da fé, dizendo: "Vejam o que se pode colher quando se tem fé e se age desta forma".
-
-Com esse propósito em mente, pretendo criar uma associação e já redigi a sua carta de princípios. Planejamos publicá-la em um livreto, com cerca de cento e cinquenta páginas e metade do tamanho da revista "Paraíso Terrestre", a um preço acessível para que o maior número possível de pessoas possa adquiri-lo. Os regulamentos detalhados serão elaborados e definidos pelos dirigentes.
-
-Minha visão é estabelecer uma filial em cada aldeia. Contudo, o responsável por essa filial não deverá ser o mesmo que dirige a igreja da Sekaikyuseikyou no local. Trata-se de uma entidade totalmente independente. O ideal é que a liderança seja assumida não por um membro, mas por um agricultor exemplar e respeitado da comunidade. Tendo essa figura como centro, poderemos promover palestras e sessões de orientação, o que acelerará enormemente a difusão do método. Diferentemente da revolução na medicina, seus benefícios são tangíveis e de fácil compreensão, pois se manifestam em colheitas mais abundantes.
-
-É com base nessas diretrizes que pretendo avançar. Portanto, peço que se empenhem para que os habitantes das zonas rurais compreendam nosso propósito e se mobilizem para fundar uma filial em cada aldeia.
-
-Creio que já me estendi o suficiente sobre a agricultura. Embora o tempo seja escasso, peço que ouçam a leitura de mais um artigo.
-
----
-
-# A Purificação no Indivíduo e na Sociedade
-
-**Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S29年2月25日） | **Status:** Published
-
-## A Purificação no Indivíduo e na Sociedade
-
-Recentemente, foi publicado um artigo bastante elogioso sobre a cerimônia de inauguração da Igreja do Havaí em um jornal local, o *Hawaii Hochi*. Solicitarei que façam a leitura para os senhores. A matéria inclui fotografias, que os interessados poderão apreciar posteriormente.
-
-Ademais, consta que adquiriram recentemente um terreno adjacente, evidenciando que o progresso não é meramente gradual, mas verdadeiramente assombroso. De maneira semelhante, recebi há poucos dias uma carta de Los Angeles, informando que as graças alcançadas lá são igualmente notáveis, impulsionando uma expansão contínua. A particularidade reside no fato de que as graças se manifestam de forma ainda mais proeminente que no Japão. As enfermidades, por exemplo, são curadas com notável eficácia e celeridade, e as recidivas são praticamente inexistentes. Portanto, uma vez que o desenvolvimento ganhe ímpeto, creio que superará em muito o ritmo visto no Japão. O crescimento será, sem dúvida, de uma rapidez extraordinária.
-
-Para tal fenômeno, há uma causa bem definida. No Japão, as doenças tendem a ser mais prolongadas, e as repurificações ocorrem com frequência, às vezes três ou quatro vezes no mesmo indivíduo. A razão para isso reside nos medicamentos da medicina tradicional oriental. A quantidade de toxinas acumuladas por esses fármacos é tão expressiva que o processo de sua eliminação pelo organismo se torna extremamente laborioso. Em contrapartida, no Havaí e nos Estados Unidos, onde a medicina oriental não é difundida, predomina a medicina ocidental, cujos medicamentos geram uma quantidade significativamente menor de toxinas medicinais (yakudoku). Consequentemente, estas são expelidas com maior facilidade. Por essa razão, enfermidades crônicas, que perduram por mais de uma década, frequentemente se resolvem com apenas três a cinco sessões de Johrei. A cura é definitiva, permitindo que a pessoa recupere a saúde e retorne plenamente às suas atividades. A diferença fundamental está, portanto, na quantidade de toxinas medicamentosas.
-
-Isso explica por que as repurificações são tão comuns em casos de tuberculose: a causa é a elevada carga de toxinas medicamentosas. O tratamento da tuberculose, aliás, segue um padrão peculiar. Inicialmente, recorre-se exaustivamente à medicina ocidental. Quando esta se mostra ineficaz, os pacientes geralmente se voltam para a medicina oriental. Como resultado, acumulam toxinas de ambas as vertentes terapêuticas, o que eleva substancialmente a sua quantidade e provoca as mencionadas repurificações.
-
-Nesse sentido, podemos compreender a recente afirmação de que a longevidade do povo japonês aumentou. Com o passar dos anos, o consumo de medicamentos orientais diminuiu em favor da medicina ocidental. Como esta última gera menos toxinas, a consequência natural é o prolongamento da vida. Em essência, as pessoas não morrem diretamente da doença, mas sim da debilidade que ela acarreta. A causa direta do óbito é o esgotamento do organismo, e o que provoca esse prolongado desgaste é a grande quantidade de toxinas a serem expelidas. Sob essa ótica, os fármacos da medicina oriental são, em certo aspecto, mais temíveis que os da medicina ocidental. Ainda que administrados em pequenas doses contínuas, seu volume acumulado torna-se imenso, e o tempo necessário para sua excreção durante a purificação agrava a debilidade. A medicina ocidental, por sua vez, age de forma mais incisiva, e por isso seus resultados — seja a cura ou não — manifestam-se mais rapidamente. Ademais, seus efeitos são menos propensos a se tornarem fatais, o que contribui para o aumento da expectativa de vida.
-
-A redução na taxa de mortalidade por tuberculose também está relacionada aos medicamentos. Contudo, conforme noticiado ontem pela imprensa, houve um aumento expressivo nos casos de câncer e hemorragia cerebral. Em decorrência disso, a tuberculose, que até o ano passado ocupava o terceiro lugar entre as causas de morte, agora figura na sexta posição. Essas alterações também se devem à influência dos fármacos, especialmente dos antibióticos modernos. Afirma-se que estes possuem menos efeitos colaterais. A verdade, no entanto, é que a incidência da tuberculose não diminuiu; pelo contrário, continua a crescer. Tais medicamentos apenas postergam a morte, não curam a doença. Curar a doença e adiar a morte são conceitos que, embora pareçam semelhantes, são fundamentalmente distintos. A verdadeira cura significa restaurar plenamente a vitalidade. O que ocorre, no entanto, é uma sobrevida precária, sem vigor. Eis o motivo pelo qual as curas no Havaí e nos Estados Unidos são mais eficazes. Tais fatos, embora surpreendentes e inesperados, permitem-nos compreender prontamente os relatos de graças provenientes do exterior.
-
-Passando aos assuntos atuais, o grande tema que ocupa a sociedade é o escândalo de corrupção. O caso tem se alastrado progressivamente. As notícias de hoje revelam que as investigações se estendem a outras companhias de navegação e que até mesmo figuras como Ohno Bamboku (大野伴睦) podem ser implicadas. É impossível prever até onde o processo se estenderá. Isso também é um reflexo da intensificação da Purificação em larga escala. Com efeito, esses acontecimentos são, em sua totalidade, manifestações do processo de Purificação. A doença é uma purificação do corpo físico; escândalos como este são purificações de âmbito social e nacional. Recentemente, escrevi sobre o escândalo de corrupção e, agora, elaborei um novo artigo que aborda o tema sob uma perspectiva diferente.
-
-(Artigo: “O Escândalo de Corrupção Também é uma Ação Purificadora”)
-
-Embora eu escreva com frequência sobre os equívocos da medicina, desta vez aprofundei a crítica de forma mais contundente, tocando em pontos nevrálgicos. Creio ter esgotado, com isso, os aspectos essenciais da questão.
-
-(Artigo: “Eu Confesso”)
-
-Por fim, redigi um texto que esclarece a verdadeira natureza dos medicamentos, um aspecto que muitas vezes passa despercebido.
-
-(Artigo: “Os Fármacos São Científicos?”)
-
----
-
-# O Protótipo do Paraíso e o Desígnio Divino
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S27年9月25日） | **Status:** Published
-
-## O Protótipo do Paraíso e o Desígnio Divino
-
-Tudo o que Deus realiza se manifesta por meio de um protótipo. É o protótipo primordial, um ponto infinitesimal que, gradualmente, se expande. Os diversos acontecimentos que observamos no mundo, como as guerras e os conflitos ideológicos, não se trata de eventos que surgem abruptamente. Na verdade, sua origem reside em algo que primeiro se manifesta no centro do planeta – no centro do mundo –, como a semente de uma planta, que depois se propaga. O mundo está em constante transformação, seguindo invariavelmente esse princípio.
-
-Esse ponto primordial pode ser comparado aos pontos negros do Sol, que são como sementes solares. A cada onze anos, eles se expandem, tornando-se visíveis, para depois se contraírem novamente, em um ciclo periódico. Tais pontos constituem o núcleo do Sol, o centro que governa a atividade de toda aquela imensa força ígnea. De maneira análoga, o mundo também possui um centro. Até hoje, Deus não havia revelado tal centro à humanidade. Contudo, a hora chegou, e ele pôde ser conhecido. Embora, no presente momento, eu seja o único a compreendê-lo, chegará o dia em que o mundo inteiro o conhecerá.
-
-Esse centro é o Monte Kamiyama, em Hakone. Ele se tornará o centro do mundo. Até agora, esteve oculto; no Mundo da Noite, imerso em trevas, não podia ser visto – ou melhor, não nos era permitido vê-lo. Como seria impraticável atuar em um local tão elevado, a base da montanha, em Gora, tornou-se o ponto focal. Portanto, a construção do Shinsenkyo neste local significa que está por vir a era em que o mundo inteiro se tornará um Shinsenkyo. Eis o Paraíso Terrestre. Sendo assim, o protótipo do Paraíso Terrestre se expandirá gradualmente.
-
-Para a sua construção, foi necessário transformar um terreno que era um emaranhado de mato, irregularidades e rochas espalhadas – uma paisagem desoladora. Paulatinamente, quebramos as pedras, removemos as árvores e as ervas daninhas, e purificamos o solo até que se tornasse belo. É exatamente essa a transformação pela qual o mundo passará. Ora, no mundo também existem ervas daninhas, árvores que obstruem o caminho e rochas que precisam ser partidas. Por conseguinte, a grande purificação – a Grande Limpeza – já teve início. A expansão do protótipo do Paraíso Terrestre e a purificação ocorrem simultaneamente. À medida que a limpeza avança, construímos diversas edificações e projetamos os jardins. Ao final, surgirá uma obra de sublime beleza, como o Museu de Arte.
-
-A construção do Shinsenkyo significa, em suma, que o Paraíso Terrestre já foi estabelecido. No Mundo Espiritual, ele se expande incessantemente, e em breve se refletirá no Mundo Material. É nesse contexto que a destruição e a criação se concretizarão. Assim, é provável que ocorra uma Terceira Guerra Mundial, bem como a proliferação de doenças que ceifarão vidas em massa. E será através da Igreja Messiânica que as pessoas encontrarão a salvação.
-
-Contudo, nem todos serão salvos. Tomando este jardim como exemplo, as árvores mais belas foram preservadas e cuidadas para que pudessem ser admiradas. Em contrapartida, as árvores feias ou que atrapalhavam foram cortadas. Da mesma forma, entre os seres humanos, haverá aqueles que serão sacrificados, e é possível que o número de árvores a serem cortadas seja maior. Mas deixemos o assunto do Shinsenkyo por aqui.
-
-Recentemente, conseguimos adquirir um terreno exatamente como eu desejava em Saga, Quioto, próximo ao lago Hirosawa. Como todos sabem, nossas finanças estão sempre sob pressão; portanto, embora pareça grandioso dizer que compramos um terreno tão vasto, o que fizemos foi firmar o compromisso de compra. São dezoito mil *tsubo*. Meu plano original era de trinta mil, mas acredito que conseguiremos adquirir as áreas vizinhas no futuro. Ainda assim, dezoito mil *tsubo* é uma área considerável. O Shinsenkyo possui apenas três mil *tsubo*, mas parece muito maior, não é? Esta área onde estamos representa um terço de dez mil *tsubo*, e ainda há mais seis ou sete mil *tsubo* acima de nós. A maneira como se constroem as coisas pode criar a impressão de um espaço mais amplo.
-
-Aqueles que conhecem o local em Quioto sabem que se trata de uma terra esplêndida. É uma área de campos abertos, que inspirou poemas como "O outono em Sagano". Ao seu lado, estende-se o grande lago Hirosawa. Na primavera do ano passado, visitei a região de Quioto pela primeira vez e fui ao famoso templo Shaka-do, em Saga, dedicado a Buda. Guardava uma lembrança nítida daquele lugar, pois, cerca de quarenta anos atrás, em minha primeira viagem a Quioto, fui lá especialmente para ver um dragão que o pintor Seihō acabara de pintar no teto.
-
-Na minha visita do ano passado, após o Shaka-do, fui ao Hōnen-in e conversei com todos. O Hōnen-in foi onde Hōnen Shōnin viveu e praticou seus treinamentos espirituais. Por isso, abriga uma estátua de Amida de tamanho impressionante e de excelente fatura; talvez não exista outra obra tão magnífica. Hōnen Shōnin foi o fundador da seita Jōdo Shinshū e, portanto, o primeiro a propagar o "Namu Amida Butsu". Seu discípulo foi Shinran, e foi o sucessor da sexta geração, Rennyo Shōnin, que difundiu os ensinamentos por todo o país, dando origem à atual Jōdo Shinshū, com sede no templo Hongan-ji. Desse modo, Hōnen Shōnin realizou uma obra de grande vulto no budismo.
-
-O terreno que adquirimos localiza-se exatamente entre o Shaka-do e o Hōnen-in. Assim, temos Shaka e Amida, e no centro, de nossa parte, teremos Kannon (観音), formando uma trindade. Kannon (観音) ocupará a posição central, com Amida à sua esquerda e Shaka à sua direita, que é a ordem correta. Essa disposição corresponde à trindade de Amida. Com efeito, Shaka corresponde ao Miroku de número sete; Amida, ao de número seis; e Kannon (観音), ao de número cinco. São os Miroku do Sol, da Água e da Terra, que correspondem, respectivamente, a cinco, seis e sete. Sendo assim, como sempre digo, Hakone corresponde ao número cinco; Atami, ao seis; e agora Quioto, ao sete. Dessa forma, a figura de Miroku materializou-se geograficamente no Japão; ao menos em termos de localização, Miroku manifestou-se no Mundo Material.
-
-No ano passado, após visitar o Shaka-do e a caminho do Hōnen-in – eu passava por ali pela primeira vez –, meus olhos recaíram sobre o lago Hirosawa. Fiquei encantado. Olhei ao redor e vi uma planície terminando em uma montanha baixa, o que me agradou imensamente. Pensei que, se um dia tivéssemos que construir um Paraíso Terrestre em Quioto, aquela seria a região ideal. Pouco tempo depois, surgiu a notícia de que havia uma propriedade à venda no local. Na primavera deste ano, fui vê-la e gostei muito, mas o preço era exorbitante. Deixei o assunto de lado, confiando que, se fosse necessário, Deus proveria. Recentemente, o proprietário manifestou o desejo de vender por um valor que estava ao nosso alcance, e o negócio foi fechado.
-
-Tudo já está predeterminado desde o início, mas se concretiza no momento oportuno. Eu não planejava ir a Quioto neste outono, mas há pouco tempo, representantes de um jornal de Quioto e do museu de Tóquio vieram me procurar. Eles estão organizando uma grande exposição de Ukiyo-e para celebrar a reabertura do Museu de Arte do Santuário Heian, em Quioto, que estava sob requisição militar. Como seria a primeira grande mostra, insistiram para que eu cedesse algumas obras. Acabei concordando em emprestar quatro peças. Como desejo muito ver essa exposição, que promete ser bastante abrangente, decidi ir. Acontece que a aquisição do terreno foi finalizada justamente agora. Só posso pensar que Deus agiu para que tudo se resolvesse a tempo da minha viagem. O registro provisório foi feito ontem ou anteontem.
-
-A sagacidade com que Deus atua é, de fato, notável. Há nisso uma perfeição e um encanto indescritíveis. Quando reflito sobre isso, percebo o quão desajeitadas são as ações humanas. Muitas vezes, fico perplexo. O mesmo acontece com as obras de arte. Quando desejo algo, subitamente aparece. Ultimamente, tenho recebido excelentes Ukiyo-e, e entendo que é um sinal de Deus para que eu realize uma exposição. Pretendo construir um anexo ao museu aqui, até o próximo ano, com cerca de cinco por oito *ken*, do tamanho da sala maior do museu atual. Ele será destinado a exposições especiais, e a primeira será a de Ukiyo-e.
-
-No novo terreno em Quioto, pretendo construir edifícios e jardins puramente japoneses. Embora seja um projeto para o futuro, ele se insere em um significado divino maior. Hakone, como mencionei, será o centro de tudo, e por isso combinará os estilos japonês e ocidental, pois aqui é a origem. Atami, por sua vez, será puramente ocidental. Representando o número seis, associado à água, Atami se conecta à cultura ocidental. Lá, tudo será rigorosamente ocidental: o auditório, o observatório e o museu. Não haverá elementos japoneses. Já Quioto será concebido em um estilo puramente japonês. Utilizaremos concreto armado, mas de uma forma que preserve a estética japonesa.
-
-O motivo é que, embora Quioto possua um vasto acervo de arte japonesa, uma análise atenta revela que essa arte não está sintetizada; ela se encontra dispersa e fragmentada. Não há um lugar que represente a excelência da arte japonesa em sua totalidade. O que existe são manifestações parciais e localizadas, que mudaram com o passar das épocas. Desejo criar algo que sintetize a verdadeira essência da arte japonesa, uma beleza harmoniosa.
-
-A arte que se vê hoje em Quioto e Nara é predominantemente a arte budista do período Nara. Embora seja valiosa como referência, não é algo que o público em geral possa apreciar esteticamente, a menos que se tenha um profundo conhecimento do assunto. Em seguida, temos a cultura do período Heian, que é essencialmente uma cultura aristocrática, refletindo os costumes da nobreza. Depois, vêm as criações de Ashikaga Yoshimitsu e Yoshimasa, cujos exemplos mais representativos são os pavilhões Kinkaku-ji e Ginkaku-ji. Essas obras combinam a influência chinesa da época, elementos budistas e a cultura aristocrática Heian, além de características peculiares do período Ashikaga. Segue-se a era Momoyama, com a cultura suntuosa que reflete a personalidade extravagante de Hideyoshi.
-
-Em contrapartida, surgiu a estética do *wabi*, expressa na cerimônia do chá, que se opunha a todo aquele esplendor. É uma arte de grande valor, cuja vitalidade perdura até hoje. Recentemente, a sensibilidade do chá tem sido cada vez mais compreendida nos Estados Unidos e, certamente, se tornará universal. Ainda assim, trata-se de uma manifestação parcial.
-
-Com o início do período Tokugawa, a era de maior brilho foi a Genroku e a Kyoho, quando surgiram mestres extraordinários como Kōrin, que produziram obras de um esplendor deslumbrante. Analisando essa trajetória, vemos, primeiramente, a arte budista de Nara, seguida pela cultura aristocrática de Heian, a arte Higashiyama do período Ashikaga, a arte de Momoyama e, por fim, a arte Genroku do período Tokugawa.
-
-Até a era Momoyama, as obras-primas da arquitetura e dos jardins foram criadas e desfrutadas pela classe dominante – xoguns e senhores feudais. Não havia uma cultura do povo. Foi somente na era Genroku que surgiu uma cultura plebeia, financiada por comerciantes ricos. Contudo, a arquitetura e os jardins não evoluíram muito ao longo do período Tokugawa, permanecendo no estilo dos senhores feudais. Ainda hoje, quando se fala em jardim, pensa-se no modelo com um grande lago central, rodeado por rochas, e um anexo para a cerimônia do chá. Na arquitetura, predominou o estilo de inspiração budista, com grandes pilares de madeira, telhados curvos e suntuosos, e portas de correr decoradas com pinturas.
-
-Apesar de o Japão ter se tornado um país de projeção mundial e de tudo ter sido renovado, essas formas artísticas não correspondem mais à sensibilidade contemporânea. Ao observarmos hoje um jardim no estilo dos senhores feudais, uma arquitetura de templo ou uma arte daquela época, percebemos que não se afinam com o nosso tempo. Portanto, é imperativo que criemos uma nova cultura, que expresse a essência e as características do Japão. É com esse propósito que pretendo realizar essa obra em Quioto.
-
-Tanto na arquitetura quanto nos jardins, pretendo incorporar o que há de melhor no passado, mas forjando-o com uma nova sensibilidade que dialogue com o homem moderno. Planejo também construir um museu. A arte de Quioto é, em grande parte, budista, e para vê-la é preciso percorrer templos com cheiro de incenso e obter permissão dos monges. Em vez disso, quero criar uma instituição que reúna as obras-primas da arte budista em um só lugar, para que possam ser admiradas livremente. É uma tarefa difícil, mas os espíritos dos grandes fundadores – como Shinran e Gyoki Bosatsu – estão no Mundo Espiritual, prontos para atuar. Com a ajuda desses grandes monges, creio que o projeto será bem-sucedido. Eles precisam realizar essa grandiosa obra para que eles próprios alcancem a salvação. O budismo, embora tenha salvado em certos aspectos, também cometeu grandes equívocos, ainda que sem má-fé. Por isso, eles precisam oferecer uma grande reparação. Estou certo de que, em breve, veremos isso acontecer, o que será muito interessante.
-
-Mas, por ora, encerro este assunto.
-
-Recentemente, observa-se uma notável atividade entre os grupos da vertente Nichiren, especialmente aqueles que se originaram da Reiyukai. A Risshō Kōsei Kai, por exemplo, tem demonstrado um dinamismo impressionante. Durante as celebrações do setecentésimo aniversário de Nichiren Shōnin, trinta e dois mil fiéis da Kōsei Kai peregrinaram ao templo Ryukō-ji, em Enoshima, que comemora a perseguição sofrida por ele em Tatsunokuchi. O evento causou um alvoroço sem precedentes. Além deles, muitos outros grupos da linhagem Nichiren estão em plena atividade. Enquanto as outras seitas budistas parecem adormecidas, apenas a de Nichiren demonstra grande vitalidade.
-
-Isso deve ter um profundo significado. O Sutra do Lótus ensina a fazer florescer a flor da Lei para que o fruto possa nascer. O vigésimo quinto dos vinte e oito capítulos do sutra trata justamente do fruto. A atividade da seita Nichiren visa, portanto, fazer desabrochar a flor para dar à luz a Kannon (観音), que é o fundamento da Igreja Messiânica. A hora do nascimento no Mundo Material se aproxima, e por isso é preciso que a flor desabroche rapidamente. Eis a razão da atual efervescência da seita Nichiren. Contudo, quando a flor tiver cumprido seu papel, suas pétalas cairão. É lamentável, mas este é o desígnio estabelecido pelo próprio Buda. E então, o fruto nascerá.
-
-De fato, esse processo começou a se manifestar desde o surgimento de Nichiren Shōnin. O Mundo do Dia, do qual falamos, é o mundo onde o sol nasce. Entre todos os fundadores do budismo, Nichiren Shōnin foi o primeiro a adotar o caminho do sol, e por isso se chamou Nichiren (日蓮), que contém o ideograma de "sol". Todos os budas anteriores pertenciam à linhagem da lua. Nichiren foi o primeiro a trilhar o caminho do sol dentro do budismo. O sol está contido na lua. Se observarmos o ideograma de "lua" (月), veremos que, ao remover sua parte inferior, resta o ideograma de "sol" (日). Isso ocorreu há setecentos anos, com a fundação de sua seita.
-
-O surgimento de Nichiren Shōnin há setecentos anos significou que o sol nasceu no mundo búdico – nas esferas mais elevadas do Mundo Espiritual. A partir da Era Meiji, o sol começou a nascer de fato. Como já escrevi anteriormente, o clã Tokugawa pertencia à linhagem de Susanō-no-Mikoto, que é uma divindade da linhagem da lua. A chegada da Era Meiji marcou, portanto, o início do alvorecer. Em seguida, vieram as eras Taishō e Shōwa, e agora o sol finalmente nasce no Mundo Material. O nascer do sol significa o nascimento do dia, que por sua vez significa o amadurecimento do fruto. O fruto nasce. Assim, fica claro que tudo está se movendo conforme o programa divino.
-
-O termo budista "*shinnyo jissō*" (verdade absoluta e realidade) elucida isso. "*Shinnyo*" representa a lua. "*Jissō*" significa "aspecto real", ou seja, o mundo do fruto (実). Até agora, vivemos em um mundo de aspecto temporário, um mundo provisório. Quando se compreende isso, percebe-se que tudo já está revelado, e é possível ter uma ideia clara do que acontecerá com o mundo e com a civilização.
-
-Contudo, como a palestra já se estendeu e temos o Johrei a seguir, encerrarei por aqui.
-
----
-
-# A Materialização do Paraíso e a Erradicação do Sofrimento
-
-**Categoria:** kouwa | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 秋季大祭御講話 （S26年9月25日） | **Status:** Published
-
-## A Materialização do Paraíso e a Erradicação do Sofrimento
-
-Temos uma grande afluência de pessoas hoje. A Obra Divina avança em seu desenvolvimento e, como podem observar em Shinsenkyo (神仙郷), a construção do museu de arte finalmente teve início. A previsão é que seja concluído até junho do próximo ano. Será um edifício de dois andares com um terceiro, menor, totalizando aproximadamente duzentos e sessenta tsubo. Uma vez concluído, será o maior museu de arte do Japão.
-
-Ao investigarmos os museus atualmente existentes no país, constatamos que não há nada de tão grandioso. Temos os museus nacionais, mas, como sabem, seu foco é predominantemente histórico e arqueológico, não atribuindo tanto peso ao valor artístico. Há também o Museu Nezu, em Tóquio, que realiza exposições na primavera e no outono. Estive na exposição desta primavera e percebi que seu acervo não é abrangente. A título de exemplo, sua coleção de cerâmicas chinesas da dinastia Zhou é, de fato, a melhor do Japão, mas o restante não é notável. Em Osaka, o Museu de Arte Hakutsuru possui uma coleção de cerâmica chinesa de grande importância, a mais completa do país, porém, fora isso, há pouco digno de nota. Temos ainda o Museu de Arte Ohara, na província de Okayama, que é especializado em pintura a óleo, sem grandes destaques nas demais áreas. A companhia ferroviária Kinki também planeja um museu e já reuniu um acervo considerável, mas, ao que parece, a construção enfrenta dificuldades para começar, provavelmente por questões econômicas. Existem outros, menores, em províncias como Echigo e Yamagata, e um que será inaugurado em Kanagawa — mas são basicamente estes. Portanto, não há dúvida de que o nosso museu, uma vez erguido aqui, será o maior do Japão em nome e em realidade. Já estamos pesquisando e estabelecendo contatos para adquirir diversas obras, e tenciono exibir um acervo magnífico. Afinal, é Deus quem está conduzindo tudo, e, por isso, as coisas transcorrem de maneira misteriosamente bem-sucedida.
-
-Simultaneamente à conclusão do museu, já demos início aos trabalhos nos fundos do terreno. A partir do riacho que corre ao lado do museu, em direção ao espaço aberto próximo ao parque, pretendemos plantar uma centena de bordos. A ideia é criar um cenário semelhante ao do rio Takidagawa, com uma ponte inspirada na ponte Tsuten, de Quioto, que tive a oportunidade de ver. Portanto, a minha intenção é que Shinsenkyo (神仙郷) esteja finalizado até o verão do próximo ano.
-
-Quanto a Atami, a previsão é que oitenta por cento dos jardins estejam prontos até o final deste ano. A escala lá é consideravelmente maior que a daqui. Pretendo transformar a colina central, onde fica o mirante, em uma “Montanha de Azaleias”. O formato do monte e o traçado das alamedas já estão definidos. Serão necessárias duas mil mudas de azaleias, e estas já foram adquiridas. Trata-se das azaleias que originalmente pertenciam à vila da família Iwasaki, em Ashinoko, Hakone. Sendo os Iwasaki, eles não pouparam despesas para reunir as melhores variedades de todo o Japão. Consequentemente, suas flores são absolutamente esplêndidas, incluindo tipos que não se encontram em nenhum outro lugar. Na época, eu havia comprado mil mudas, que estavam plantadas de forma dispersa em Hakone. Embora eu não tivesse um plano definido para elas, senti que Deus me inspirava a comprá-las. Ao desenterrá-las, descobrimos que cada cova continha duas ou três mudas plantadas juntas. Depois de separá-las cuidadosamente, tínhamos entre duas e três mil mudas. Eu me perguntava onde as plantaria, mas não tinha resposta, até que, nesta primavera, recebi a intuição de que deveriam ser plantadas em Atami. Percebi, então, quão previdente e meticuloso é o planejamento de Deus. Quando estiver pronto, creio que será um local sem igual, um novo ponto de referência no Japão.
-
-A construção do Seiseidai deverá começar por volta de março do próximo ano, o que demandará um grande investimento. No momento, não dispomos de tal quantia. Contudo, tenho a convicção de que, quando chegar a hora, Deus proverá os fundos necessários — não que Ele os entregue diretamente em minhas mãos, mas sei que chegarão. É uma certeza que parece incerta, mas é absolutamente sólida. Eu planejava plantar muitas cerejeiras à esquerda do muro de pedra do Seiseidai, mas sentia que o espaço era pequeno. Foi então que o proprietário do terreno contíguo nos ofereceu suas terras, e decidimos comprá-las. Agora, pretendo plantar ali mil cerejeiras. Será, verdadeiramente, a visão de mil cerejeiras em um só olhar. O monte Yoshino também tem mil, mas são dispersas; as nossas estarão concentradas, proporcionando uma paisagem distinta. Quanto às ameixeiras, o plantio está previsto para ser concluído ainda este ano, e as mudas já estão preparadas. Para as ameixeiras, quanto mais antigo e robusto o tronco, melhor. Soube que em Odawara as mudas jovens são caras, por produzirem frutos, enquanto as árvores mais velhas são mais baratas. Em breve, compraremos essas árvores mais velhas para plantá-las. Quando tudo estiver pronto em Atami, será algo grandioso.
-
-Recentemente, um professor americano de geografia esteve em Shinsenkyo (神仙郷) e afirmou que, embora tenha visto jardins por toda a Europa e outros lugares, os arranjos de rochas daqui são os melhores do mundo, e que este estilo de paisagismo é único. Ele sugeriu que seria excelente divulgar este lugar ao mundo por meio de fotografias coloridas. Se até mesmo este local recebe tais elogios, o de Atami será, sem dúvida, um sucesso. O museu daqui será o melhor do Japão. O de Atami, por sua vez, terá uma escala muito maior, e pretendo que seja o melhor museu do mundo. Eu mesmo desenharei o seu projeto arquitetônico, e tenciono criar algo inteiramente novo, de uma arquitetura surpreendente.
-
-Quanto às obras de arte que serão exibidas, tenho pesquisado os acervos da América e da Inglaterra, e parece que não possuem muitas peças de alta qualidade. Eles têm a arte ocidental, pois é sua terra natal, mas quando comparamos a arte oriental com a ocidental, a oriental é muito superior em seu nível de elevação. Por isso, os americanos estão comprando obras-primas japonesas sem se importar com o preço, o que representa um grande perigo. Recentemente, surgiu a oportunidade de adquirir uma tigela chinesa da dinastia Song, do tipo Jun. Eu a desejava há muito tempo e esperava ansiosamente poder comprá-la neste outono. Há pouco tempo, trouxeram-na para mim, explicando que se tratava de uma peça de renome mundial, e que um comprador americano havia surgido, pois eles sabem exatamente onde encontrar as melhores obras japonesas. A oferta foi de cinquenta mil dólares, o que equivale a quase vinte milhões de ienes. Acontece que possuo um prato grande que é superior a essa tigela, embora o negociante de arte o subestime. Eu disse que talvez o comprasse por menos de um milhão de ienes, e ele se retirou. Por causa disso, tanto os museus quanto o Comitê para a Proteção de Bens Culturais estão em alerta para impedir que as obras sejam levadas para os Estados Unidos. Afinal, eles compram sem se preocupar com o valor.
-
-É preciso, contudo, que um número significativo de obras vá para lá, pois, até hoje, a maior parte do que tem sido exibido nos museus e galerias americanos como arte japonesa é, na verdade, falsificação. Após o fim da guerra, eles vieram ao Japão e, ao verem as peças autênticas, perceberam sua grandeza e agora desejam adquiri-las. Um americano argumentou de forma inteligente: “O Japão é o único país do mundo que usa o termo ‘Tesouro Nacional’. Em nenhum outro lugar isso existe.” Ele disse que a designação “Tesouro Nacional” serve para impedir que as obras saiam do país, o que contraria o espírito de que a arte deve ser mostrada ao mundo inteiro. Por isso, ele considera o termo inadequado. De fato, a arte deve ser universal.
-
-Nesse sentido, a maioria dos museus de arte no Japão abre apenas duas vezes por ano, na primavera e no outono, com o objetivo de proteger seu patrimônio. Como são fundações, a lei permite que o patrimônio seja transmitido por herança, e as regras exigem essas aberturas periódicas. Assim, eles exibem as obras apenas para um círculo de conhecidos. Isso é lamentável. A arte deve ser mostrada ao público. Nossos museus estarão abertos para que pessoas de todo o mundo possam visitá-los, eliminando qualquer traço de exclusividade. É por essa razão que sinto que devo realizar este trabalho.
-
-O estandarte da Sekaikyuseikyou é a criação de um mundo isento de doença, pobreza e conflito. Sobre a doença, já tenho falado extensamente, e todos devem ter compreendido. Gostaria apenas de chamar a atenção para o método de ministrar Johrei. É importante não tremer a mão, mantê-la firme. Inevitavelmente, ao mover a mão, aplica-se força, e a aplicação de força retarda a recuperação. Para evitar isso, deve-se manter a mão imóvel e leve, relaxando-a. Desse modo, a cura ocorre de forma muito mais eficaz. Acontece o mesmo comigo: quanto mais relaxado eu estou, melhor é o resultado. Quando se aplica força, o fluxo de Luz através do abdômen é obstruído. Portanto, quanto mais relaxados estiverem, com mais intensidade a Luz se irradiará. A partir de agora, peço que adotem esta maneira. Não é preciso, contudo, abster-se completamente de mover a mão; em certas situações, pode ser apropriado. Apenas, como princípio geral, evitem-no.
-
-Em seguida, temos a pobreza. A erradicação da doença já contribui para a solução da pobreza. Mas, além disso, o aumento da produção de alimentos é o fator primordial para eliminá-la. Os agricultores representam cerca de oitenta por cento da população do Japão. Assim, o mais importante é fortalecer a sua situação financeira, pois isso levará à prosperidade do comércio e da indústria. Para que os agricultores prosperem, é fundamental que a produção aumente e que custos como os de fertilizantes sejam eliminados. Por isso, devemos promover vigorosamente a Agricultura Natural. O ponto central do nosso plano atual é apresentar exemplos concretos dos resultados da Agricultura Natural. Com a colheita deste ano, o rendimento aumentará, pois a cada ano o yakudoku (薬毒) dos solos diminui. Por volta de novembro, acredito que os relatórios serão muito mais positivos que os anteriores. Com base nesses resultados, pretendo compilar um livro e distribuí-lo por todo o Japão, para associações agrícolas, estações de pesquisa agronômica e, no caso das aldeias, para seus chefes — enfim, para todos os setores pertinentes. Adicionalmente, realizaremos palestras e debates em diversas localidades para divulgar amplamente o método. A razão é que, após cinco anos praticando a Agricultura Natural, a produção aumenta em cinquenta por cento. Atualmente, a produção anual é de sessenta e quatro milhões de koku, e o déficit é de vinte milhões de koku, pois a população é de oitenta milhões. Essa quantidade precisa ser importada, a um custo enorme. Com um aumento de cinquenta por cento, a produção alcançaria noventa e seis milhões de koku.
-
-Alguém poderia pensar que, ao eliminar a necessidade de fertilizantes, as empresas do setor seriam prejudicadas, mas não é o caso. Atualmente, a demanda externa é tão grande que as exportações superam as vendas internas, então não há motivo para preocupação. Na verdade, se eu falar demais, talvez os donos das fábricas de adubo me esperem em um beco escuro para me dar uma surra, pensando: “Aquele Okada é um insolente!”. Mas isso não acontecerá, podem ficar tranquilos. Sendo assim, a solução da pobreza é a questão mais fundamental.
-
-Por fim, o conflito. É possível eliminar a guerra. Até agora, não falei muito sobre este tema, mas pretendo escrever vários artigos a respeito. Tenho um texto que explica como eliminá-la, mas há outra razão para publicá-lo agora. Recentemente, soube que um grupo de sete ou oito americanos, aparentemente ligados às forças de ocupação, está estudando a Sekaikyuseikyou. Eles estão traduzindo nossas revistas e outros materiais, e dizem ter grande afinidade com meus escritos. Desejo que eles também leiam este artigo. Além disso, um de nossos membros obteve permissão para estudar em uma universidade nos Estados Unidos e está ministrando Johrei para pessoas de diversas nacionalidades, como indianos e tailandeses. Parece que um bom número de fiéis já surgiu por lá. Ele levou muitos Omamori, mas já pede mais. Assim, já se delineia a forma de fincarmos a primeira pá nesse solo. Deus, no tempo certo, tomará as providências adequadas. Sinto que, de uma forma ou de outra, tudo começará a se desenvolver de maneira extraordinária a partir do próximo ano. Peço agora que leiam meu artigo sobre a eliminação da guerra.
-
-(Ensinamento proferido após a leitura do artigo “A Terceira Guerra Mundial Pode Ser Evitada”)
-
-Estou planejando traduzir estes diversos escritos sobre a guerra para o inglês, a fim de divulgá-los nos países do mundo livre. Atualmente, a humanidade acredita que a Terceira Guerra Mundial é inevitável, mas a verdade é que ela pode ser evitada. Conforme o princípio da correspondência, quando a impureza se acumula, surge naturalmente uma força para purificá-la. Deus criou o mundo dessa maneira. A destruição e o colapso causados pela guerra ocorrem porque há um acúmulo de impurezas que precisam ser limpas. As tentativas atuais de prevenir a guerra pelo uso da força, como desenvolver bombas atômicas para frustrar os planos bélicos de outros, são, por ora, inevitáveis. É o mesmo que a polícia reprimir o crime pela força.
-
-A civilização moderna opera da mesma maneira em todas as áreas. Na medicina, quando surge uma purificação, ela é suprimida. Seja na guerra, no crime ou na doença, o método é o mesmo, e isso é considerado uma civilização avançada, a única opção possível. Mas é o contrário. A civilização atual pode, portanto, ser chamada de uma civilização invertida.
-
-O que fazemos é ensinar qual é a solução central e demonstrar seu poder. Basta purificar o interior, e a necessidade de suprimir pelo exterior desaparecerá. A paz imposta pela força não é eterna, não é absoluta, pois aquele que a rompe também usará a força. Ensinar à humanidade essa verdade é a missão da Sekaikyuseikyou para salvar o mundo. Em termos de magnitude, não há nada maior. E esta grandiosidade de que falo não é uma grandiosidade vazia, de fanfarronice, mas sim uma grandiosidade substancial, repleta de verdade. Eis o significado de nossa obra.
-
-Se houver tempo, gostaria de ler um texto sobre a origem do Budismo, que é muito interessante. Em breve o farei. Quem deu início ao Budismo não foi um indiano. Foi um Deus japonês que se manifestou, encarnando como um Buda — Izunome-no-Kami (伊都能売神様). Foi Izunome-no-Kami (伊都能売神様) quem ensinou a Xaquiamuni, que, maravilhado, difundiu os ensinamentos. Encarnar como Buda significa que um Deus assumiu a forma de Buda. Esse Deus japonês foi à Índia como parte dos preparativos para o advento da Sekaikyuseikyou e a criação da Era de Miroku (五六七の世). Estou escrevendo sobre isso na “Criação da Civilização” e, aos poucos, lhes darei a conhecer.
-
-Desse modo, Deus vem realizando preparativos em escala mundial há muito tempo. Cristo e Maomé também realizaram suas missões há milênios como parte dos preparativos para o Paraíso Terrestre. Pretendo escrever detalhadamente sobre esses assuntos. Primeiro, farei com que os japoneses saibam, mas, por fim, o mundo inteiro saberá. Esta é a contemplação da Verdade. E esta Verdade não é um monopólio nosso. Ela deve ser compartilhada com toda a humanidade. Quando isso acontecer, a Era de Miroku (五六七の世) se tornará realidade.
 
 ---
 

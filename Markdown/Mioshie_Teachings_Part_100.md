@@ -3,7 +3,7 @@
 # Coletânea de Teses do Mestre Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-03-20
 
 ## Coletânea de Teses do Mestre Okada Jikanshi
 ### Coletânea de Ensinamentos, Volume 7
@@ -712,7 +712,7 @@ Gostaria de falar mais, mas o tempo acabou.
 # Coletânea de Teses do Mestre Jikansai Okada
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-07-15
 
 ## Coletânea de Teses do Mestre Jikansai Okada
 ### Coletânea de Ensinamentos, Volume 11
@@ -1153,7 +1153,7 @@ O maior obstáculo para a construção do Paraíso Terrestre é o remédio. Até
 # Coletânea de Artigos do Mestre Jikan Okada – Ensinamentos, Volume 31
 
 **Categoria:** miosie | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-03-15
 
 ## Coletânea de Artigos do Mestre Jikan Okada – Ensinamentos, Volume 31
 
@@ -1685,7 +1685,7 @@ Digo coisas audaciosas, mas é inevitável. Quando todos compreenderem, não ser
 # Coletânea de Escritos do Mestre Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-11-15
 
 ## Coletânea de Escritos do Mestre Okada Jikanshi
 ### Coletânea de Ensinamentos, Volume 27
@@ -2118,7 +2118,7 @@ As coisas estão progredindo bem. No próximo ano, teremos um grupo ainda maior.
 # Ensinamento (21 de dezembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月21日） | **Status:** Published
+**Título Original:** 御教え （S26年12月21日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Ensinamento (21 de dezembro de 1951)
 
@@ -2173,7 +2173,7 @@ Minha crítica contundente a Picasso foi publicada, ao que parece, no jornal *Ch
 # Ensinamento (6 de fevereiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月6日） | **Status:** Published
+**Título Original:** 御教え （S27年2月6日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Ensinamento (6 de fevereiro de 1952)
 
@@ -2232,7 +2232,7 @@ Parece que o meu passatempo é surpreender as pessoas. Mas, mais do que os japon
 # Ensinamento (5 de setembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月5日） | **Status:** Published
+**Título Original:** 御教え （S26年9月5日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Ensinamento (5 de setembro de 1951)
 

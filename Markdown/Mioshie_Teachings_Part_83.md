@@ -1,9 +1,834 @@
 # Mioshie_Teachings - Part 83
 
+# Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
+
+**Categoria:** sasshi | **Ano:** 昭和30(1955)年4月1日 | **Fonte:** 浄霊法講座
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-04-01
+
+## Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
+
+*Publicado na edição nº 6 do “Curso sobre o Método Johrei”, em 1º de abril de 1955.*
+
+**Prefácio**
+
+Recentemente, tenho percebido a particular importância de certos aspectos concernentes ao Johrei, motivo pelo qual organizei esta compilação, destinada àqueles que se dedicam ao serviço da difusão da Fé.
+
+Fundamentalmente, todo sofrimento que acompanha a purificação se deve à intoxicação medicamentosa. No entanto, para suas manifestações mais notáveis, Meishu-Sama cunhou o termo “enfermidades por intoxicação medicamentosa”. Ao editar este material, aprofundei ainda mais minha convicção sobre a natureza aterradora dos venenos contidos nos fármacos. Portanto, se este curso contribuir, ainda que minimamente, para a derrocada da superstição em torno dos medicamentos, não haveria alegria maior.
+
+*(Coletânea de Ensinamentos nº 18, p. 44)*
+
+Após a publicação da tese “Os Medicamentos Geram a Infelicidade” (revista Paraíso Terrestre nº 44), recebemos de Meishu-Sama as seguintes palavras:
+
+“Conforme acabamos de ler, a causa primordial de toda sorte de infortúnios e aflições reside nos medicamentos. Sendo assim, se eliminarmos os fármacos, o Mundo de Miroku se concretizará. Para que isso ocorra, é imperativo que o público em geral compreenda a verdade, o que representa um enorme desafio. Com o intuito de fazer com que leiam publicações como esta, estamos gradualmente expandindo nosso movimento em escala mundial. À medida que a compreensão se difundir, creio que surgirá uma questão de proporções monumentais. Creio que será, provavelmente, um espetáculo digno de se ver.
+
+Imaginemos, por exemplo, que no Japão se chegue à conclusão: ‘De fato, a medicina é algo terrivelmente equivocado. É preciso proibi-la terminantemente. Os medicamentos são venenos potentíssimos, e também devem ser abolidos’. Se tal cenário se concretizar, todos os profissionais ligados a essa área perderão seus empregos. Contudo, uma vez compreendida a verdade, será impossível continuar a defender tais práticas. Surgirá, então, o dilema: ‘O que fazer?’. A única saída será recorrer à doutrina de Okada.
+
+Ademais, daqui para frente, à medida que o processo de purificação se intensificar, ele se manifestará em toda a população. Chegará uma era em que haverá doentes por toda parte, e as pessoas começarão a falecer em massa. Diante disso, será preciso tomar alguma providência, e é nesse ponto que o governo enfrentará um problema de extrema gravidade.
+
+Não apenas isso, mas a partir deste ano, iniciaremos gradualmente a divulgação de nossas ideias também nos Estados Unidos. Os americanos, por serem mais receptivos à compreensão, provavelmente transformarão isso em uma grande questão nacional. Consequentemente, o impacto se propagará pela Europa. Portanto, é inevitável que, no futuro, o mundo caminhe para a abolição total da medicina e dos medicamentos. Creio que estamos diante de uma questão sem precedentes na história, o que nos levará a uma era de grandes transformações.
+
+Todavia, sem tomar essa medida, será impossível salvar a humanidade. E, como Deus está ciente de tudo e age com pleno conhecimento de causa, é certo que, ao final, sairemos vitoriosos. Os diversos acontecimentos até lá serão, sem dúvida, um espetáculo à parte. Acredito, ademais, que não demorará muito. Deus, em Sua sabedoria, fará com que as pessoas compreendam e, ao mesmo tempo, criará uma conjuntura na qual elas não terão alternativa senão compreender. Por isso, por maior que se torne o problema, não há motivo para espanto. Contudo, prevejo que a situação atingirá proporções que fogem à nossa imaginação.”
+
+### I – Região da Cabeça
+
+**1. Homem de meia-idade com insônia, desmaios ocasionais e cefaleia** *(Coletânea de Ensinamentos nº 8, p. 54)*
+
+“O segundo filho de um professor (ingressou na Fé em janeiro de 1952, aos 33 anos) sofreu uma queda de bicicleta no início de dezembro de 1951. Passou a chorar, a mentir e a sofrer de insônia. No início de janeiro de 1952, começou a receber Johrei, o que resultou na eliminação de escarro com sangue, sangramento nasal, hematúria e hematoquezia, retornando a um estado quase normal. Contudo, ocasionalmente, ele desmaia, torna-se incapaz de ler e sente a cabeça estranha. O Johrei proporciona alívio imediato. Ao ministrar Johrei em sua cabeça, seu pulso, que fora fraturado, começa a doer e a tremer. Há dez anos, na Manchúria, contraiu sífilis e recebeu cerca de vinte injeções de salvarsan. Além disso, há três anos, devido a um esgotamento nervoso, recebeu aproximadamente oitenta injeções de Maazol. Onde devemos concentrar o Johrei?”
+
+Isso não é nada grave. Mesmo uma fratura pode ser curada com Johrei. O gesso foi aplicado para imobilizar ou já foi removido?
+
+“Já foi removido.”
+
+E ele treme assim?
+
+“Exatamente.”
+
+A dor e os outros sintomas são devidos à intoxicação medicamentosa. Essa pessoa tem uma quantidade considerável de medicamentos acumulados. A dor começou após o tremor?
+
+“Sim.”
+
+Inicialmente, ele recorreu a um médico, correto? Não houve cirurgia, imagino.
+
+“Não, não houve.”
+
+Foi um médico que aplicou o gesso? Aquela massa que endurece, não é?
+
+“Sim.”
+
+O veneno subiu para a cabeça, e por isso ele sente dor. Com paciência, ele será curado. O problema são as vinte injeções de salvarsan; grande parte desse veneno se acumulou na cabeça. Quanto à sífilis, poucas coisas são tão fáceis de curar. Tenho a intenção de escrever sobre isso, mas evito fazê-lo, pois se eu disser que a sífilis se cura sem dificuldade, as pessoas podem interpretar isso como um incentivo a condutas levianas. A bactéria em questão é extremamente frágil e sucumbe rapidamente ao Johrei. O salvarsan, contudo, é terrível. Quando seu veneno atinge a cabeça, a cura torna-se um processo moroso. Felizmente, nos últimos tempos, o salvarsan é administrado em doses muito mais diluídas, de modo que seus efeitos nocivos não são tão severos quanto antigamente.
+
+**2. Menina de três anos com um olho perdido devido a um abscesso** *(Coletânea de Ensinamentos nº 6, p. 61)*
+
+“A filha mais velha do meu irmão (cirurgião visceral), de três anos, começou, sem que se percebesse quando, a enxergar com apenas um olho. O diagnóstico médico foi de ‘glioma do nervo meníngeo’, uma doença rara de causa desconhecida, sem prevenção ou tratamento. Disseram que, em um prazo de seis meses a no máximo cinco anos, o cérebro e o fígado seriam afetados, levando-a inevitavelmente à morte. Alertaram que, se nada fosse feito, o globo ocular sofreria protrusão e exalaria um odor fétido, tornando os cuidados insuportáveis. Por isso, o olho direito foi removido cirurgicamente, e no esquerdo, menos afetado, inseriram rádio. Como a recuperação pós-operatória foi boa, ela recebeu alta e passou a frequentar o hospital diariamente para sessões de radioterapia. A menina está muito bem, não se queixa de muitas dores e, por usar uma bandagem em ambos os olhos, brinca tateando os objetos. Os médicos a desenganaram, afirmando que a cura é impossível. Seus pais, contudo, perguntam se ela poderá ser salva ao entronizar a Imagem de Komyô Nyorai-Sama. Pedem também orientação sobre como ministrar o Johrei.”
+
+Que lástima. Isso tem cura. Para nós, não é uma doença grave. O que ocorre é um acúmulo de pus na parte posterior do olho, e é a pressão desse pus que faz o globo ocular saltar. A previsão de seis meses é um equívoco. Não há relação direta entre uma afecção ocular e um dano ao fígado. Se assim fosse, todas as pessoas que se submetem a cirurgias nos olhos desenvolveriam problemas hepáticos.
+
+“Se nada fosse feito, exalaria um odor fétido”. Isso seria excelente, pois significaria que o pus estaria sendo expelido. A cirurgia no olho direito é um fato consumado, mas a inserção de rádio no esquerdo é um grande problema.
+
+O rádio tem a propriedade de destruir os tecidos; ele os necrosa. Sem essa intervenção, a cura seria simples. A questão agora é o rádio. A radioterapia, por sua vez, solidifica o pus. Por esses motivos, o tratamento será consideravelmente longo, mas a cura é possível. Se a dosagem da radioterapia ou do rádio for baixa, a recuperação será mais rápida. O fato verdadeiramente lamentável é que a demora na cura é diretamente proporcional à intervenção médica. No entanto, ministrar Johrei enquanto ela continua com a radioterapia e o rádio é inútil. É preciso suspender esses tratamentos. Façam uma experiência por uma ou duas semanas. Se o pus começar a ser expelido, será um ótimo sinal. A saída do pus indica que o acúmulo está se dissolvendo, e posso garantir a cura.
+
+**3. Jovem com lentidão de raciocínio após otite média** *(Paraíso Terrestre nº 8, p. 16)*
+
+“Um menino, hoje com oito anos, sofreu de otite média aos dois. Após sete meses de tratamento médico sem sucesso, o caso foi deixado de lado. Há quatro anos, quando recebi a formação de ministro, comecei a aplicar-lhe Johrei. Ele ainda elimina muito pus, tem dificuldade de audição e seu raciocínio é lento. Haveria alguma causa espiritual?”
+
+A causa não é espiritual, mas sim a grande quantidade de veneno acumulado. A expulsão do pus é um ótimo sinal e indica que ele certamente será curado.
+
+**4. Homem com um tumor do tamanho de um punho abaixo da orelha** *(Coletânea de Ensinamentos nº 1, p. 45)*
+
+“Um homem que ingressou na Fé em abril de 1949. Há cerca de dezessete anos, um pequeno nódulo surgiu abaixo de sua orelha esquerda e foi crescendo gradualmente. Na época de sua conversão, tinha o tamanho do punho de uma criança de cinco ou seis anos. Após aproximadamente seis meses de Johrei contínuo, o nódulo cresceu abruptamente em um período de dois a três meses, atingindo o tamanho de dois punhos juntos, estendendo-se da bochecha esquerda até a parte de trás da orelha. A partir do final de 1950, o nódulo, que antes era duro como osso, começou a ficar avermelhado e a inchar. Em janeiro de 1951, iniciou a drenagem de pus, que já dura mais de seis meses. Embora tenha diminuído um pouco por um tempo, parece ter voltado a crescer. As dores começaram por volta de janeiro de 1951, e há noites em que ele não consegue dormir bem. Atualmente, a área de onde o pus drena está parcialmente amolecida, mas a parte avermelhada e inchada corresponde a cerca de metade do tumor, a partir da ponta. Nesse local, uma artéria está visível na superfície da pele. Em janeiro de 1951, antes da drenagem, a dor era insuportável, e ele consultou um médico, que afirmou não haver possibilidade de cirurgia, pois o tumor envolvia a artéria, e que, se deixado como estava, sua vida estaria em risco. O paciente relata não ter tido doenças graves na juventude e, consequentemente, não ter usado muitos medicamentos. Contudo, há cerca de dez anos, sofreu de neuralgia e aplicou moxabustão (‘yaito’) continuamente em seu braço esquerdo por mais de dois anos. Essa purificação teria alguma relação espiritual? Atualmente, ministramos Johrei na área afetada, na nuca e no bulbo, mas gostaríamos de saber se está correto. Entronizamos a Imagem da Kannon (観音) de Caligrafia em abril de 1951.”
+
+Entendo. Trata-se de intoxicação medicamentosa. Os venenos dos fármacos permanecem inalterados no corpo por trinta, cinquenta anos. Nesse caso, eles se solidificaram na região do pescoço e agora estão se dissolvendo para serem expelidos. Não há nada de complicado. Desde que não haja um enfraquecimento excessivo do corpo devido à pressão do tumor ou à febre, a cura é certa. O Johrei deve ser ministrado a partir do pescoço e também do ombro. Ministrando no pescoço e no ombro, a região atrás da orelha amolecerá. A pressão interna força o pus para fora. Com perseverança, ele será curado. A causa, reitero, é a intoxicação medicamentosa. Situações como essa são comuns em ex-soldados, devido às diversas vacinas que recebem ao serem enviados para o exterior. Aqueles que foram para os mares do sul podem apresentar inchaços na testa, a ponto de o rosto inteiro se deformar. Se deixado sem tratamento por dois ou três dias, um orifício se abre e a cura acontece. É bom ter esse conhecimento.
+
+**5. Mulher de meia-idade com vertigem e angina** *(Coletânea de Ensinamentos nº 6, p. 78)*
+
+“Mulher de 38 anos. Em março de 1948, subitamente, sentiu fortes palpitações, o lado esquerdo do corpo ficou dormente e a língua enrijecida. O diagnóstico foi de esgotamento nervoso. Ela consultou vários médicos e tentou diversos tratamentos, mas seu quadro só piorava. Os médicos também sugeriram problemas ginecológicos (‘sangue estagnado’). Seus sintomas incluíam mal-estar na cabeça, rigidez e dormência nos músculos dos ombros, peito, cintura e em todo o corpo, com crises alternadas de calafrios e calor. Ao fechar os olhos, sentia como se estivesse sendo sugada; ao abri-los, o teto e os edifícios pareciam girar, e ela não conseguia encontrar uma posição confortável. Em meio a esse sofrimento, em agosto de 1950, por recomendação de um conhecido, começou a receber Johrei, passando a dormir melhor. Em outubro do mesmo ano, ingressou na Fé. Por volta de março de 1951, sua audição diminuiu, e com a contribuição do nervosismo, em novembro, voltou a sentir dores semelhantes às do início da doença. Pedimos orientação sobre os pontos de Johrei.”
+
+Isso não é esgotamento nervoso. O esgotamento nervoso não causa dormência nem enrijecimento da língua. É um diagnóstico completamente equivocado. Na verdade, seria admirável – pela honestidade – se um médico admitisse: “Não sei o que é”. A medicina, em sua essência, não tem como compreender tais fenômenos. “Problemas ginecológicos” é uma suposição que fazem por ser mulher. Ela possui nódulos na região da nuca e do bulbo. Espíritos também se encostam ocasionalmente, mas não de forma permanente. A causa fundamental é a intoxicação medicamentosa. Ela será curada e recuperará a saúde. O problema reside, basicamente, nos nódulos localizados entre a nuca e o bulbo.
+
+**6. Perda da mandíbula inferior devido a supuração** *(Ensinamento)*
+
+“Um fiel, em 2 de dezembro de 1948, a caminho de casa após uma peregrinação a Atami, sentiu uma dor aguda na mandíbula inferior, que acabou supurando e formando cinco ou seis fístulas. Em 19 de julho do ano seguinte, um objeto semelhante a uma presa surgiu em sua mandíbula inferior direita e, finalmente, na noite de 25 de outubro, todo o osso da mandíbula se desprendeu (o qual tivemos a oportunidade de ver). Os dentes, ainda presos à carne, permanecem no lugar, mas estão virados para dentro e inutilizáveis. Atualmente, resta apenas uma fístula, de onde sai uma pequena quantidade de pus. (Volume estimado de pus expelido em dois anos e quatro meses: mais de nove litros). A região da boca está contraída, dificultando a fala, e ainda há uma leve dor. As inúmeras proteções divinas recebidas nesse período são indescritíveis. Nos primeiros cinco meses da purificação, alimentou-se apenas de líquidos (ovo cru, inhame, suco de frutas, caldo de arroz). Nos cinco meses seguintes, comeu massas (udon e somen), e nos cinco meses subsequentes, apenas mochi. A partir de abril do ano passado, voltou a comer arroz, mas, por não poder usar os dentes, engolia tudo inteiro. Devido à drenagem de pus, não conseguia dormir deitado e, por mais de dois anos, viveu sentado, apoiado em almofadas. Graças à proteção divina, conseguia tomar banho e ir ao banheiro sem auxílio, seu corpo quase não emagreceu e ele se mantém bem-disposto. Em sua casa, havia um cômodo bem arrumado onde eram cultuados Shoten-sama e duas divindades auxiliares. No verão de 1946, ao ingressar na Fé (posteriormente, recebeu a Imagem Divina), sem qualquer cerimônia, ele quebrou as imagens de Shoten-sama e das divindades auxiliares e as queimou imediatamente na caldeira do banho. Na mesma ocasião, outras divindades que eram cultuadas há muito tempo (e que manifestavam considerável poder) também foram deixadas de lado. Posteriormente, alertado sobre a questão, ele pediu desculpas a Shoten-sama, mas as outras divindades permanecem negligenciadas. O que devemos fazer?”
+
+Em condições normais, ele não teria sobrevivido. Foi um verdadeiro milagre. Ainda há veneno em seu corpo; quando tudo for expelido, ele ficará curado. Quanto às outras divindades, ele deve agradecer-lhes e fazer uma oferenda uma vez por mês. No caso de divindades anteriores, após mais de um ano, deve-se expressar gratidão pela proteção recebida e realizar os procedimentos adequados. Para Inari, é melhor esperar dois ou três anos antes de fazê-lo.
+
+**7. Homem de meia-idade com dor de garganta, expectoração abundante e diarreia frequente** *(Coletânea de Ensinamentos nº 4, p. 85)*
+
+“Homem de 44 anos, ingressou na Fé em novembro de 1950. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas. Histórico médico: 1. Aos 18 anos, pleurisia seca no pulmão direito devido à prática de judô. 2. Aos 23 anos, cirurgia de otite média. 3. Aos 24 anos, cirurgia de sinusite. 4. Aos 33 anos, cirurgia de incisão de glândula inguinal. 5. Aos 39 anos, pleurisia úmida no pulmão direito, com um ano de tratamento. 6. Aos 42 anos, tratamento hospitalar para uma cavidade (diâmetro de 3 cm) no pulmão direito. 7. Aos 43 anos, afastou-se do trabalho na Ferrovia Nacional para tratamento em casa. Durante esse período, fez uso considerável de medicamentos alopáticos e fitoterápicos. Em particular, desde que foi para a China aos 32 anos até seu retorno, por oito anos, usou Seirogan constantemente. Aos 42 anos, com a doença pulmonar, submeteu-se a pneumotórax cerca de duas vezes por mês durante um ano. Em novembro de 1950, ingressou na Fé. Apesar de nossa família ser cheia de máculas, recebemos a proteção divina e, em meados de dezembro, ele pôde levantar-se da cama e frequentar a igreja. Recebendo Johrei, quase não precisou descansar, pôde participar das cerimônias mensais com Meishu-Sama e das reuniões na igreja. Desde o início de setembro, a quantidade de escarro aumentou, o apetite diminuiu e os dias acamado tornaram-se mais frequentes. Desde o início de outubro, devido à intensidade da purificação, ele tem recebido Johrei a cada dois dias. Sente uma dor especial na garganta, não tem apetite e seu enfraquecimento é visível. Atualmente, sua alimentação consiste em cerca de uma tigela de mingau de arroz, um pouco de pão, e ele só consegue beber água embebida no pão. A diarreia, embora em pequena quantidade, ocorre quatro a cinco vezes por dia. Apresenta também um leve inchaço em ambos os pés e no dorso da mão esquerda. Em relação aos aspectos espirituais: seu irmão mais velho (60 anos) morreu instantaneamente ao cair de um telhado e perfurar a garganta com uma tesoura de telhadista; seu quarto irmão (35 anos) e quinto irmão (42 anos) faleceram de tuberculose pulmonar. Embora haja muitos venenos medicamentosos e um profundo carma espiritual, ele não tem apego e entrega tudo a Deus. Pedimos orientação sobre os pontos a serem observados no Johrei.”
+
+Este homem... bem, é isso que acontece quando se confia na medicina. Não é uma família cheia de máculas, mas sim uma família cheia de medicamentos. Uma tesoura de telhadista...
+
+“É uma tesoura grande.”
+
+Ah, aquilo é uma tesoura de telhadista? Pensei que fosse para cortar telhas...
+
+Isso não é espiritual, é médico. A pleurisia úmida solidificou-se consideravelmente. É intoxicação medicamentosa. E, como a purificação desses venenos é intensa, ele elimina catarro, tem febre baixa e, consequentemente, perde o apetite. O veneno presente no catarro irrita a garganta, causando dor, o que o impede de comer e o enfraquece. Se ele conseguir suportar o enfraquecimento, a cura é certa, mas casos como este são difíceis. O Johrei intensifica ainda mais a purificação. Por outro lado, se o deixarmos sem tratamento, ele sofrerá. É preciso agir com discernimento, adaptando-se às circunstâncias. O mais importante é identificar o ponto vital e concentrar-se nele. Onde dói mais, o ponto de maior sofrimento. Existem vários pontos vitais, um, dois, três, quatro. É preciso descobrir o ponto vital número um e ministrar Johrei ali. Depois, passar para o número dois. Procedendo de forma ordenada, o resultado será bom. O sofrimento se intensifica porque se ministra Johrei nos pontos dois e três sem antes cuidar do ponto um.
+
+“Ele está em um estado de espírito de entregar tudo a Meishu-Sama.”
+
+Esse estado de espírito é excelente, não é? Vocês estão ministrando Johrei aqui (gânglios linfáticos do pescoço)? Deve haver febre nesse local. É isso que se dissolve e vai para a garganta. Há um nódulo em algum dos lados, e há febre.
+
+**8. Pessoa diagnosticada com tuberculose laríngea e aderência no pulmão direito** *(Coletânea de Ensinamentos nº 4, p. 94)*
+
+“Homem de 27 anos. No final de 1949, sua voz ficou subitamente rouca e ele passou a ter dificuldade para engolir alimentos. O diagnóstico médico foi de tuberculose laríngea. Embora nunca tivesse tido sintomas no peito, uma radiografia revelou que ambos os pulmões estavam consideravelmente afetados. Iniciou tratamento médico, mas como não melhorava, ficou internado de setembro de 1950 a abril de 1951, por cerca de sete meses. Recebeu cinquenta injeções de estreptomicina e tomou Tibione por seis meses. Disseram-lhe que, devido a uma aderência no pulmão direito, seria necessário remover cinco costelas. Por não querer se submeter à cirurgia, recebeu alta e passou a se dedicar a uma terapia alimentar. Atualmente, ele não sente dor e consegue realizar pequenos trabalhos, mas como seu exame de sedimentação de hemácias ainda está alto e a radiografia não está normal, não consegue encontrar emprego e deseja se curar com Johrei. Dizem que o Tibione afeta gravemente os rins. Podemos ministrar Johrei neste caso?”
+
+Perguntar se “podemos ministrar Johrei” é estranho. Sem Johrei, ele jamais será curado. Não há outro método de cura. Não se trata de poder ou não poder; se ele quer se curar, que receba. Se quer ir para o outro mundo, que não receba. O caso dele não é grave.
+
+É apenas intoxicação medicamentosa. Se não tivesse ingerido medicamentos, seria curado facilmente. O Johrei desencadeará um processo de purificação dos venenos dos fármacos; basta que ele esteja ciente disso. Além do mais, seu corpo ainda não está enfraquecido, então, enquanto o corpo se limpa, não haverá grandes problemas. O Johrei convencional é suficiente.
+
+### II – Região das Costas
+
+**1. Homem de meia-idade com dor no fígado após uma pancada nas costas** *(Ensinamento)*
+
+“Homem de 49 anos, ingressou na Fé em fevereiro deste ano. A doença começou em outubro de 1945, com uma dor aguda no estômago, que se tornou recorrente. Recentemente, a dor se localiza na região do fígado e irradia para as costas. Quando a dor surge, deitar-se de costas, em silêncio, por cerca de trinta minutos, proporciona alívio temporário. Sente o corpo todo gelado. Sua aparência é normal e ele se alimenta normalmente. Em 1946, sofreu uma pancada nas costas que fraturou três costelas. Inicialmente, recebeu tratamento médico e, desde janeiro deste ano, vem recebendo Johrei, mas a dor ainda aparece uma ou duas vezes por dia. Sua mãe, que sofria de uma doença semelhante, cometeu suicídio em casa em 1947. Haveria alguma relação espiritual?”
+
+Não é espiritual. É o veneno dos medicamentos que lhe foram administrados na época da lesão. Ministre Johrei nas costas, especialmente na parte superior do fígado. Os venenos dos fármacos podem permanecer no corpo por mais de trinta anos. A origem de todas as doenças está nos medicamentos. É preciso compreender o quão terríveis eles são. Onde há grande acúmulo de venenos medicamentosos, os espíritos também se encostam. O que digo em meus escritos é uma versão atenuada da verdade. É preciso que vocês compreendam isso a fundo. Se extrairmos os venenos medicamentosos da humanidade, todos se tornarão completamente saudáveis. Se eu dissesse a verdade nua e crua, seria um grande problema, por isso, compreendam nas entrelinhas.
+
+**2. Homem com um nódulo semelhante a um tumor nas costas e crescimento atrofiado** *(Ensinamento)*
+
+“Homem de 26 anos. Aos quatro anos, teve um furúnculo grave que foi tratado por um médico. Logo depois, um nódulo semelhante a um tumor surgiu em suas costas, seu crescimento foi interrompido (não passou de 121,2 cm), e sua visão começou a deteriorar-se gradualmente. Desde outubro do ano passado, ele vem recebendo Johrei e, em janeiro deste ano, ingressou na Fé. Sua evolução tem sido muito boa, mas, ocasionalmente, sente dores agudas. Ele poderá ser curado?”
+
+Certamente será curado. A presença de dor é garantia de cura. A dor é um processo de purificação; se há dor, a cura é certa. Nesse caso, ministre Johrei intensamente na cabeça, na parte superior dos olhos e no bulbo. A perda de visão pode ter duas causas: toxinas e anemia. Pode ser causada pela descida de toxinas da parte superior ou pela compressão na parte posterior, que causa anemia. A miopia, por exemplo, cura-se ministrando Johrei no bulbo. A dor aguda também diminuirá gradualmente. O nódulo nas costas formou-se porque as toxinas foram suprimidas e se solidificaram ali. O crescimento atrofiado também se deve a isso. O crescimento depende do funcionamento da coluna vertebral, que foi imobilizada pelo nódulo. Aos vinte e seis anos, é um pouco tarde, mas ele ainda deve crescer um pouco.
+
+### III – Região Lombar
+
+**1. Mulher com paralisia da cintura para baixo** *(Ensinamento)*
+
+“Mulher de 40 anos. Inicialmente, sua perna direita parou de se mover. Com o tratamento médico, a paralisia se estendeu a toda a parte inferior do corpo, da cintura para baixo, e seus membros foram se afinando. O médico diagnosticou paralisia da medula espinhal, e recentemente, o problema começou a afetar também a perna esquerda. Ela poderá ser salva?”
+
+Sim, mas a causa é a intoxicação medicamentosa. Os venenos dos fármacos se solidificaram em sua perna direita. O afinamento dos membros deve-se à falta de uso. Gradualmente, o veneno subiu. O diagnóstico de paralisia da medula espinhal é um completo disparate. Injeções de vitaminas, nesses casos, só pioram a condição das pernas. A essas afecções, eu denomino “doenças artificiais”, que não se referem ao “rim” (jinzou) do corpo, mas sim a doenças “criadas pelo homem” (jinzou-byou). O Johrei deve ser focado principalmente nos rins. Além disso, ministrando Johrei na virilha, na parte externa da coxa e na parte inferior das nádegas, ela será curada.
+
+**2. Homem com ciatalgia** *(Paraíso Terrestre nº 43, p. 13)*
+
+“Homem de 33 anos, ingressou na Fé em fevereiro de 1952. Em março, entronizou a Imagem da Kannon (観音) de Caligrafia. Sua cintura começou a doer por volta de maio de 1949. O diagnóstico médico foi de ciatalgia, e ele recebeu cerca de vinte injeções no local. Também tomou medicamentos fitoterápicos por cerca de um mês e fez cinco ou seis sessões de acupuntura e moxabustão. Em 1943, foi submetido a uma cirurgia de apendicite. Em 3 de janeiro de 1952, um parente lhe falou sobre nossa Fé. Ele foi imediatamente à igreja e começou a receber Johrei. Após uns dez dias, sentiu uma leve melhora, mas a dor gradualmente voltou a ser como antes, e agora ambas as pernas doem. Recebeu Johrei continuamente por cerca de seis meses. Depois disso, passou a receber a cada dois dias, mas não há mudanças. Atualmente, o Johrei está sendo focado nos rins e na área afetada.”
+
+Não há relação espiritual; a causa é a intoxicação medicamentosa. Os medicamentos utilizados para a neuralgia, ao mesmo tempo em que a suprimiam, solidificaram o veneno, e por isso a cura está demorando. A dor é um processo de purificação, o que é excelente. Embora seja penoso, quanto mais dói, mais rápido a cura virá. Tenha paciência.
+
+**3. Drenagem de pus na incisão de uma cirurgia renal e dor lombar** *(Coletânea de Ensinamentos nº 4, p. 62)*
+
+“Homem de 26 anos. Há seis anos, foi internado com pleurisia. Três meses depois, o diagnóstico médico não apontou anormalidades e ele retornou ao trabalho. Um ano e meio depois, desenvolveu cárie espinhal. Tratamentos com acupuntura e moxabustão trouxeram grande alívio, e após apenas dois meses de licença, trabalhou por um ano e seis meses. Durante esse tempo, sua região renal direita inchou e a dor tornou-se intensa. Recorreu novamente à acupuntura e moxabustão, mas sem efeito. Um mês depois, teve hematúria maciça e, ao consultar um médico, foi diagnosticado com tuberculose renal e submetido a uma nefrectomia. A ferida da cirurgia nunca cicatrizou completamente. Posteriormente, desenvolveu tuberculose da bexiga, do epidídimo (um lado foi removido) e peritonite. Em dezembro de 1950, seu rim esquerdo inchou, e uma incisão foi feita para drenar o pus. Recebeu alta em maio de 1951 e, atualmente, sente uma leve dor lombar e uma pequena quantidade de pus ainda drena da incisão direita. Desde o início da doença até recentemente, fez uso de grande quantidade de medicamentos e injeções (principalmente glicose, cálcio, vitaminas, penicilina – setenta a oitenta ampolas –, estreptomicina – vinte ampolas –, e PAS – setecentos gramas). Atualmente, pesa 51 kg, tem temperatura normal e bom apetite. Ele está recebendo Johrei e deseja ingressar na Fé em dezembro. Poderá ser salvo? Pedimos orientação sobre os pontos vitais para o Johrei.”
+
+Este caso foi excessivamente manipulado, e por isso não posso dar uma resposta definitiva. Continue ministrando Johrei, sem forçar, de forma natural. Não posso dizer que não há esperança, mas também não posso garantir a cura.
+
+Analisando o histórico, tudo começou com a supressão da pleurisia. O líquido desceu e se solidificou na medula espinhal. Isso foi erroneamente diagnosticado como cárie espinhal, e o tratamento com acupuntura e moxabustão solidificou ainda mais o problema. Em seguida, o líquido da pleurisia desceu para a região renal e se solidificou ali. Quando a purificação começou, o ideal teria sido não fazer nada. O líquido teria sido absorvido e expelido pela urina. O fato de o tratamento não ter surtido efeito significa que a purificação era forte demais para ser suprimida. A hematúria maciça, um mês depois, foi um excelente sinal: o acúmulo estava se dissolvendo e sendo eliminado pela urina. Se tivessem deixado a natureza seguir seu curso, ele teria se curado completamente. Foi a intervenção médica que criou toda essa situação. É uma grande lástima.
+
+O fato de a ferida não cicatrizar é bom. É melhor que tudo seja expelido. A causa é a intoxicação pelos antissépticos, que impede a cicatrização. A tuberculose do epidídimo foi causada pelos antissépticos usados na nefrectomia, que se infiltraram e desceram. É um milagre que ele esteja vivo. Com a remoção do rim direito, o veneno se concentrou no esquerdo. Não adianta nada. No final, seria preciso remover ambos os rins, mas isso seria fatal, então não há o que fazer. É uma situação lamentável. A medicina desconhece o processo de eliminação natural. Não era preciso remover nada. Eles ignoram completamente as leis da natureza.
+
+O fato de uma pequena quantidade de pus continuar a sair é um ótimo sinal. Ele está vivo porque sua temperatura está normal e ele tem apetite. Ministrando Johrei com paciência, cerca de duas vezes por semana, ele provavelmente conseguirá sobreviver. Não posso fazer promessas ou dar garantias. Não sei a quantidade exata de medicamentos que ele usou nem como a cirurgia foi realizada; não fui eu que a fiz.
+
+“Não há problema em ele ingressar na Fé?”
+
+Claro que não. Que tipo de pergunta é essa? De qualquer forma, sem ingressar na Fé, ele não tem chances. Se ingressar, talvez viva um pouco mais. Se não ingressar, sua vida durará apenas alguns anos. A recomendação de Johrei duas vezes por semana é para o caso de ele ingressar. Se não ingressar, nem mesmo duas vezes por semana adiantará.
+
+### IV – Região dos Braços e Pernas
+
+**1. Homem com dormência e incapacidade de mover os braços e pernas** *(Coletânea de Ensinamentos nº 1, p. 49)*
+
+“Meu pai, de 62 anos, ingressou na Fé em 1948. Em 13 de julho de 1951, foi dormir após beber e acordou cerca de duas horas depois sem conseguir mover o pulso esquerdo. Não sentia dor, apenas uma leve dormência do cotovelo aos dedos. Não conseguia mover o pulso para cima e para baixo, mas conseguia segurar objetos levemente. Desde então, temos ministrado Johrei diariamente, sem mudanças. Há vinte e oito anos, ele caiu de bicicleta e quebrou um osso do ombro, mas não usou medicamentos na época. Há nódulos no cotovelo e no ombro que doem quando pressionados. Antes de ingressar na Fé, recebeu várias vacinas. Onde devemos focar o Johrei?”
+
+Isso não tem relação com a queda de bicicleta. É impossível que aquela fratura comece a doer agora. A causa são as vacinas. O medicamento se solidificou nos locais que doem quando pressionados. Ministre Johrei nesses pontos. Não é nada sério. Ele certamente será curado. Não aplique força. Se não aplicar força, a cura será rápida. Em todos os casos de dor nos braços ou pernas, pensem em injeções. É provável que a pessoa tenha recebido uma injeção no passado. Não há outra explicação.
+
+**2. Homem com um braço paralisado e hematúria** *(Coletânea de Ensinamentos nº 8, p. 45)*
+
+“Homem de 53 anos, ingressou na Fé em abril de 1949. Em fevereiro de 1948, entronizou a Imagem de Komyô Nyorai-Sama. Na manhã de 9 de janeiro, teve calafrios por quatro ou cinco horas e, por volta do meio-dia, vomitou uma grande quantidade de um líquido leitoso com substâncias amarronzadas. Na noite do dia 11, teve soluços por cerca de duas horas, que pararam temporariamente com Johrei, mas voltaram por uma hora após quarenta minutos. O mesmo ocorreu no dia seguinte. Não conseguia comer, apenas bebia água quente. Não tinha muita febre, apenas um pouco na região dos rins. Após uma semana, o apetite voltou. No décimo quinto dia, os ombros, as omoplatas e a região abaixo das costelas incharam, numa área de 12 a 15 cm de altura por 15 cm de largura. O braço direito, do úmero (entre o cotovelo e o ombro) e do pulso aos dedos, também inchou. A articulação do ombro direito ficou imóvel, e ele só se levantava para ser alimentado (cerca de uma tigela de arroz). Teve hematúria três ou quatro vezes. No trigésimo sétimo dia, uma protuberância do diâmetro de 3 cm surgiu no bíceps, com a ponta avermelhada. No dia seguinte, um pus espesso foi expelido, trazendo um pouco de alívio. A drenagem de pus continuou por cerca de dez dias, e o inchaço diminuiu consideravelmente, mas um nódulo do tamanho de um punho se formou no fígado, ele perdeu o apetite, ficou muito fraco e a drenagem de pus cessou. Com Johrei, voltou a se alimentar. A hematúria ocorre quatro ou cinco vezes por dia. O pus tornou-se sanguinolento, e ainda há um pouco de pus abaixo da omoplata. Ele está recuperando a energia, mas a base do braço continua imóvel. Pedimos orientação sobre os pontos de Johrei.”
+
+Isso não é excelente? O processo está ocorrendo de forma順調 (junchō –順調). Este homem tem uma grande quantidade de toxinas. O sangue impuro está sendo expelido de várias formas por diferentes partes do corpo e, no final, ele será curado. Tenha paciência. Os pontos vitais para o Johrei são os locais inchados, doloridos ou com febre. Os sintomas indicarão onde ministrar.
+
+**3. Jovem com rouquidão, dormência nos braços e pernas, dificuldade de locomoção e febre alta** *(Paraíso Terrestre nº 40, p. 13)*
+
+“Meu irmão mais novo, Mitsugi (24 anos), teve uma purificação com sintomas de pleurisia em meados de outubro de 1951, mas, graças ao Johrei, recuperou-se completamente. Em meados de abril de 1952, começou uma purificação na cabeça, com febre alta na testa, na nuca e ao redor do pescoço, e sua voz ficou especialmente rouca. Sentia também dor na lateral direita do abdômen, com dificuldade para virar-se na cama. Com o Johrei, recebeu a proteção divina e melhorou temporariamente. Em 28 de maio, a mesma purificação retornou e continua até hoje. Atualmente, tem febre alta na cabeça, ao redor do pescoço, nos rins, no cóccix e nas canelas. Sua voz ainda é fraca, sente falta de ar e cansa-se muito ao andar um pouco. A dor nas pernas, especialmente nas canelas, dificulta a locomoção. Os tornozelos e os polegares das mãos também estão dormentes. Mesmo com Johrei, a febre não cede. Seu apetite se resume a cerca de uma tigela de arroz por refeição. Todos os dias, entre 11 e 15 horas, tem febre e, por vezes, sente tanto frio que precisa se cobrir com um cobertor. Meu irmão foi registrado para suceder uma família de parentes com a qual rompemos relações (a família Hotta). O pai da família Hotta morreu de catarro intestinal; a mãe, de derrame, há três anos; e o filho, de tuberculose, há quinze ou dezesseis anos, e a família se extinguiu. Meu irmão, desde que ingressou na Fé em 1949, não era muito dedicado e, por um tempo, não usou o Ohikari. Atualmente, sentindo-se arrependido, está usando-o. Pedimos sinceras desculpas. Em 5 de julho, entronizamos a Imagem da Kannon (観音) de Caligrafia na casa da família Hotta, mas como ele está em purificação na casa de seus pais, o culto está sendo feito lá. A purificação do meu irmão tem relação com esses fatos? Pedimos orientação sobre os pontos de Johrei.”
+
+Não há relação espiritual; é uma enfermidade causada pela intoxicação medicamentosa. A febre persistente indica que o Johrei não está sendo aplicado no ponto vital. Toque seu corpo e encontre o local mais quente; ministrando Johrei ali, a febre diminuirá gradualmente. Além disso, ministre Johrei nos locais que doem quando pressionados. Sua alimentação deve ser rica em vegetais. O mais importante é evitar o agravamento do enfraquecimento, o que pode ser alcançado com repouso normal. Dessa forma, ele deverá se curar.
+
+**4. Jovem com nódulos do tamanho de ovos na perna esquerda** *(Paraíso Terrestre nº 36, p. 14)*
+
+“Um fiel de 22 anos. Desde os cinco ou seis anos, tem dois nódulos do tamanho de ovos e quatro ou cinco do tamanho de um dedo mínimo na parte posterior da coxa esquerda, até o tornozelo. Eles permaneceram inalterados até hoje. Sentia apenas uma leve dor após o trabalho, por isso não deu importância. Nos últimos quatro ou cinco anos, tentou vários tratamentos. Um pequeno nódulo no tornozelo foi removido cirurgicamente, mas voltou a se formar. Ele começou a receber Johrei há apenas uma semana e não há mudanças significativas. Ele afirma nunca ter usado medicamentos antes do surgimento dos nódulos. Qual seria a causa? Estamos ministrando Johrei com um fiel dedicado.”
+
+É a intoxicação medicamentosa dos pais. Com Johrei persistente, embora demore, ele certamente será curado. É melhor que ele se exercite o máximo possível.
+
+**5. Pessoa com dedos das mãos e pés arroxeados e dor intensa** *(Coletânea de Ensinamentos nº 2, p. 10)*
+
+“Homem de 30 anos, não-fiel. Por volta de maio de 1950, as pontas dos dedos da mão e do pé esquerdos, da unha à polpa, em formato triangular, ficaram arroxeadas e muito doloridas, sem anomalias nas unhas. Após cerca de seis meses de tratamento médico, foi submetido a uma cirurgia. A dor desapareceu temporariamente e a cor roxa sumiu, mas as articulações dos dedos da mão e do pé esquerdos se contraíram, ficando em forma de gancho. Por volta de maio de 1951, os dedos da outra mão e do outro pé apresentaram os mesmos sintomas, impedindo-o de andar. Para aliviar a dor, ele precisa coçar os dedos constantemente. Recebeu Johrei três ou quatro vezes, e a dor diminuiu um pouco. Não há supuração. Seu irmão faleceu de osteomielite em 1949 e, exatamente um ano depois, ele desenvolveu esses sintomas. Haveria alguma relação espiritual? Ou qual seria a causa?”
+
+Osteomielite em que osso?
+
+“Na perna.”
+
+A mão não era osteomielite, certo?
+
+“Certo.”
+
+Então, não há relação com o espírito do irmão. Se houvesse alguma relação, seria com o próprio irmão. É intoxicação medicamentosa. A cor roxa indica sangue impuro; é panarício. O veneno medicamentoso se solidificou ali, e ele tentou vários tratamentos. Se tivesse deixado como estava, o veneno teria se acumulado e sido expelido em um único ponto. Como tentou várias coisas, o veneno não se acumulou ali, mas em outros lugares. É mais uma vítima dos medicamentos. É, sim, intoxicação medicamentosa. Com Johrei paciente, ele será curado. Aplicar pomadas, fazer cirurgias... tudo isso faz o problema se espalhar. No fim, são os medicamentos e os médicos que criam as doenças. A tentativa de curar não cura, mas agrava. Se compreendermos isso, a causa das doenças se torna algo simples.
+
+Outro dia, li no jornal "San" sobre uma senhora de 105 anos, que, somando netos e bisnetos, tinha mais de cem descendentes. E ela dizia: “Detesto remédios e injeções”. Se alguém que gosta de remédios e injeções vivesse muito, tudo bem, mas são as pessoas que evitam essas coisas que vivem mais. As pessoas não percebem a contradição entre os fatos e a teoria científica. A mente delas é muito limitada. Interpretam as coisas ao contrário. Nesse ponto, são como bárbaros.
+
+### V – Sistema Urinário
+
+**1. Homem com desconforto na bexiga e uretra, e dor aguda ao trabalhar** *(Paraíso Terrestre nº 37, p. 11)*
+
+“Desde os 20 anos, passei a urinar com mais frequência, cerca de dez vezes por dia. No exército, disseram que era gonorreia e fui internado três vezes. Usei uma grande quantidade de Salvarsan 606, medicamentos fitoterápicos e outros remédios para gonorreia. Devo ter tomado centenas de injeções. Depois disso, pareceu que eu tinha melhorado um pouco, mas sentia uma sensação incômoda, como se meu pescoço estivesse sendo apertado. Após ingressar na Fé, cerca de dois meses depois, essa sensação desapareceu completamente. Na época do exército, na China, eu havia cortado a cabeça de um boi com uma espada japonesa, e imaginava que pudesse ser o espírito do boi. No entanto, desde o Ano Novo deste ano, sinto desconforto na bexiga e na uretra, e uma dor aguda na uretra, especialmente durante o trabalho. Minha cintura esquerda dói ocasionalmente. Atualmente, recebo Johrei de um professor de vez em quando, mas a purificação parece estar se intensificando. Nos momentos mais intensos, sinto uma coceira forte na uretra e não consigo trabalhar. Ficar sentado em casa, sem me mover, é muito mais confortável. Acredito que minha purificação seja dos venenos dos medicamentos para gonorreia, mas a dor é constante e vivo em um estado de desconforto diário. Desejo me libertar desse sofrimento o mais rápido possível e peço orientação sobre os pontos vitais do Johrei. Além disso, há quatro anos, fui diagnosticado com cárie na coluna, mas deixei sem tratamento e o problema desapareceu. Aos 19 anos, fiz uma cirurgia de sinusite. Aos 23, tive ptose gástrica e, aos 28, fiz uma cirurgia de hemorroidas. Também tive um grande furúnculo na lateral esquerda e na cintura, para o qual usei uma pomada para extrair o pus.”
+
+Este homem é uma vítima da medicina e dos medicamentos. No futuro, outros sofrimentos surgirão, então esteja preparado. Ministrando Johrei nos locais doloridos, a quantidade de veneno medicamentoso diminuirá pouco a pouco, e a cura progredirá na mesma medida. Contudo, há uma quantidade considerável de veneno, então a cura levará muito tempo. Esteja ciente disso. O espírito do boi não tem relação.
+
+**2. Mulher obesa com incapacidade de sentir a necessidade de evacuar** *(Coletânea de Ensinamentos nº 1, p. 4)*
+
+“Fiel de 28 anos, ingressou na Fé em fevereiro de 1950. Em 5 de junho de 1951, durante o parto, teve dificuldades e sofreu com as dores por dois dias e duas noites. Quando a cabeça da criança havia saído um terço, a parteira, alegando que o corpo da mãe estava fraco devido ao longo trabalho de parto, aplicou duas injeções para induzir as contrações, uma em cada coxa, para facilitar o parto. Por ter acreditado na parteira e permitido as injeções, ela teria perdido a proteção divina? Depois disso, as contrações cessaram, e apenas metade da cabeça saiu. A parteira insistiu várias vezes para usar instrumentos, mas, acreditando que as contrações haviam parado por causa das injeções, ela continuou recebendo Johrei. No entanto, no terceiro dia à tarde, como a criança não nascia, ela foi finalmente retirada com instrumentos. A criança respirou uma vez ao nascer e faleceu. Depois do parto, uma grande quantidade de sangue impuro foi eliminada, mas atualmente ela não sente quando precisa urinar ou evacuar. Ela continua recebendo Johrei desde então. Graças à proteção divina, pôde se levantar após três semanas. Por um tempo, um furúnculo surgiu entre a vagina e o ânus, impedindo-a de se sentar. Com Johrei, ele se transformou em corrimento, o pus foi eliminado e ela foi curada. Quanto à urina e às fezes, ela se esforça para ir ao banheiro em horários determinados e, quando vai, elimina uma grande quantidade de urina. Qual seria a causa? Atualmente, ela sente a virilha repuxar, está obesa em todo o corpo e diz que a nuca dói. Seu marido ingressou na Fé há cinco anos, mas se separou da primeira esposa porque ela o traiu. Ele ficou com a filha do primeiro casamento. A ex-esposa parece ter um forte apego à criança. A esposa atual casou-se com ele em 1949, e este era seu primeiro filho. Ela também se divorciou do primeiro marido devido à má conduta dele. Haveria o ressentimento da ex-esposa? E onde devemos focar o Johrei?”
+
+Ela tem uma enorme quantidade de veneno medicamentoso. É estranho, mas quando se aplicam injeções para contrações fracas, elas se tornam ainda mais fracas. A perda da sensação de urinar e evacuar deve-se à solidificação do veneno medicamentoso na parte inferior do corpo. Com paciência, o veneno será expelido e, à medida que for eliminado, ela melhorará. A obesidade generalizada indica que o veneno está solidificado nos rins. Tudo é intoxicação medicamentosa, provavelmente de fitoterápicos. Os fitoterápicos causam esse tipo de problema; são terríveis. Não há relação espiritual. Portanto, como eu disse, o foco é na parte inferior. O veneno medicamentoso desce constantemente e se solidifica no ânus e na vagina. É preciso ministrar Johrei nesses locais para eliminá-lo. A dormência também é causada pelo veneno. Continuando assim, ela melhorará gradualmente.
+
+### VI – Ginecologia
+
+**1. Mulher de meia-idade com cisto ovariano, cirurgia de aborto e purificação geral com altos e baixos** *(Coletânea de Ensinamentos nº 7, p. 68)*
+
+“A esposa de um professor (33 anos), antes de ingressar na Fé, usava Norshin com frequência. Em 1947, foi operada de um cisto ovariano. Antes de se recuperar completamente, engravidou e, devido aos fortes enjoos e ao enfraquecimento do corpo, submeteu-se a um aborto. Depois disso, teve pleurisia e ficou em tratamento por dois anos, sem melhora. Seguindo o conselho de outras pessoas, tentou de tudo, inclusive beber um chá de ossos humanos por cerca de dois meses. Recebeu algumas injeções de Salbro e vitaminas, que lhe trouxeram um pouco de alívio. Então, seu marido adoeceu com asma, e a partir daí ela voltou a receber Johrei. Graças à proteção divina, seu marido deixou o emprego na repartição de finanças e passou a se dedicar à Obra Divina. Entronizamos a Imagem de Dai-Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Pela primeira vez, ela conseguiu ajudar no trabalho agrícola, o que foi um milagre. No entanto, inúmeros nódulos surgiram em seu pescoço, que supuraram várias vezes. Agora, as feridas fecharam, mas os nódulos permanecem. Em outubro de 1951, recebeu o Ohikari ‘Dai-Komyô’ e teve uma purificação com sangramento hemorroidário. Por volta de janeiro de 1952, uma dor aguda surgiu em sua mão esquerda, a pele ficou com uma cor de cera, pálida, e o corpo, cambaleante. Ela tem recebido Johrei diariamente, mas oscila entre melhora e piora, com neuralgia na mão, dor e inchaço abdominal, dor no peito e purificação nas pernas. Em 11 de fevereiro, ao receber o Gaku ‘Dai-Jôkô’, teve uma purificação no estômago, com tosse e eliminação de grande quantidade de um líquido semelhante a catarro ou saliva, viscoso e amargo. Sentiu o coração apertado e ficou de cama. Atualmente, sente a cabeça pesada, o peito oprimido, o estômago vazio, a boca amarga, as pernas e a cintura fracas e cambaleantes. O Johrei provoca febre e tosse, mas o catarro não sai, o que a faz sofrer. Ela come uma tigela pequena de arroz três vezes ao dia, urina bem e tem o intestino regular. Pedimos orientação.”
+
+Esta é uma purificação dos venenos dos medicamentos. Várias substâncias estão sendo eliminadas de várias formas. Se ela tiver paciência durante esse processo, melhorará gradualmente. Casos como este melhoram aos poucos, sem que se perceba. Basta ter paciência. Não é nenhuma doença específica. O que foi introduzido está saindo, é só isso. O fato de o catarro não sair indica que o Johrei não está sendo aplicado no ponto certo. É preciso investigar melhor. Ela mesma pode apalpar o corpo e encontrar o local com febre; é de lá que o catarro se origina. Se não conseguir encontrar, peça ao marido para apalpar seu corpo. Ela já passou do pior momento; falta pouco.
+
+**2. Pessoa que se submeteu a uma ooforectomia** *(Coletânea de Ensinamentos nº 3, p. 91)*
+
+“Minha esposa (23 anos), no final de abril de 1951, sentiu o baixo-ventre inchar e uma dor aguda. Um ginecologista e um cirurgião deram o mesmo diagnóstico de ‘cisto ovariano’. Em 2 de maio, ela foi submetida a uma cirurgia de laparotomia, na qual o ovário esquerdo inteiro e a maior parte do direito foram removidos. Recebeu alta sem complicações e logo voltou a lecionar na escola de corte e costura de seu pai. No outono, parecia cansada com as aulas diurnas e noturnas, e uma dor aguda começou na região do ovário direito. O diagnóstico médico foi de ‘recidiva, pois o cisto anterior era maligno’, e disseram-lhe para operar novamente, sem garantia de resultado. Eu havia ingressado na Fé em meados de junho de 1951 e, acreditando que não havia outro caminho para a salvação, e como estávamos noivos na época, senti a necessidade de nos casarmos imediatamente e a trouxe para morar comigo à força. Desde então, ela tem recebido Johrei dos professores Nishiya e Sugiyama, e eu também. A dor desapareceu primeiro e, uma semana depois, ela já estava de pé, fazendo pequenos trabalhos de costura. No entanto, alguns dias depois, o inchaço abdominal aumentou, acompanhado de uma sensação de peso e dor aguda. Devido à dor e às náuseas, seu apetite diminuiu e o enfraquecimento se acentuou. Há dois dias, fezes estranhas e um pouco de sangue começaram a ser eliminados. Hoje, a pressão abdominal subiu para o peito, e ela se queixa constantemente de aperto no coração e vomita com frequência. Há vários anos, sua menstruação ocorria apenas três ou quatro vezes por ano, mas após a cirurgia, tornou-se mensal, embora leve. Este mês, já terminou há cerca de dez dias. Além disso, há três ou quatro anos, ela sofria de urticária severa e, a cada crise, o médico lhe aplicava injeções fortes. A família de minha esposa pertence a um templo da seita Jodo, e seu pai é filho adotivo. A avó materna dela faleceu de câncer de útero há oito anos. Após o diagnóstico, ela foi isolada em uma casa de campo, sem ninguém que cuidasse dela com carinho. Apenas no momento da morte, os pais de minha esposa a levaram de volta para casa para manter as aparências. Até hoje, seu túmulo está separado do de seu avô. Na infância, minha esposa era a neta mais querida dessa avó. Alguns dias após o início desta purificação, o espírito da avó apareceu em uma forma assustadora e a ameaçou repetidamente. Hoje, em um momento de dor, ela disse: ‘Comparada a mim, que sou cuidada por todos e feliz, penso com compaixão em minha avó, que não teve ninguém para cuidar dela e deve ter se sentido tão solitária’. Os pais de minha esposa odiaram profundamente nosso relacionamento e casamento por muito tempo, chegando a dizer que nos amaldiçoariam até a morte. Embora agora tenham consentido relutantemente, não compreendem nossa Fé e continuam a se opor. Em 7 de outubro, minha esposa e minha mãe receberam o Ohikari do professor Nishiya. Desejo que ela seja salva o mais rápido possível. O que devemos fazer?”
+
+Se o ovário foi removido, não é uma recidiva. Isso é estranho. Isolada em uma casa de campo... que pessoas cruéis. O ovário foi removido? Antigamente, isso resolveria o problema, mas hoje, com a intensificação da purificação no Mundo Espiritual, o veneno não se solidifica mais. É por isso que surgem essas complicações. Por um tempo, o veneno se solidificou e ela pôde até lecionar, mas a purificação fez a dor aguda retornar. Essa dor, diferente da anterior, é causada pelos antissépticos. Antes, os antissépticos também se solidificavam, mas agora não mais. Uma nova cirurgia seria um desastre. Desde que ela não se enfraqueça, será curada. O inchaço abdominal e as náuseas são o corpo expelindo o veneno dos medicamentos. A dor aguda é a purificação dos antissépticos. O inchaço também é o veneno dissolvido. As fezes estranhas são as impurezas da cirurgia. No entanto, a situação não é tão ruim. A pressão no peito ocorre porque o veneno está subindo para ser expelido pelo vômito. O vômito frequente é excelente. A causa original são as injeções para urticária. Esse veneno se acumulou nos ovários e causou a dor. Normalmente, os ovários não doem. A dor é causada pela intoxicação medicamentosa. A relação espiritual não é significativa. Quando o corpo enfraquece, os espíritos se encostam, mas não foi ela quem fez a avó sofrer, então não há ressentimento, apenas uma saudade que a faz se aproximar. O sentimento de compaixão pela avó é compreensível, mas não tem relação com a doença. No momento, não posso dizer muito mais. O fato de a família ser da seita Nitiren e se opor também causa alguma interferência espiritual. Faça-a ler os Ensinamentos o máximo possível. Pessoas nessas condições podem receber Johrei o quanto quiserem; quanto mais, melhor. É isso. Eles se amam tanto que eu gostaria de ajudá-los. Seria bom entronizar a Imagem de Komyô Nyorai-Sama e orar com fervor. Ministrem Johrei o máximo possível e façam-na ler os Ensinamentos. Façam isso com dedicação. Não há outra forma de salvação.
+
+**3. Purificação de uma mulher de meia-idade após cirurgia de câncer de útero** *(Coletânea de Ensinamentos nº 3, p. 26)*
+
+“Uma fiel de 45 anos. Aos 41, em fevereiro, submeteu-se a uma cirurgia de câncer de útero e, desde então, sofre de constipação. Em julho do ano seguinte, ingressou na Fé e recuperou a saúde. No entanto, sua frequência urinária aumentou gradualmente, chegando a intervalos de quinze minutos, e às vezes ela urinava sem perceber. Em setembro de 1950, um grande furúnculo surgiu em suas nádegas, que se rompeu em outubro, começando a drenar pus. A ferida foi se alargando e a drenagem continuou. Em seguida, vários outros orifícios se abriram nas nádegas e na região lombar, dificultando a locomoção e a posição deitada. A micção frequente persiste. Há sinais de cárie, e alguns pontos da coluna doem ao serem tocados. O orifício mais recente é muito profundo (cabe um polegar) e extremamente doloroso, expelindo um pus sanguinolento e espesso. Ao redor da primeira ferida, uma fina camada de pele está se formando, e o pus está mais ralo. O marido e toda a família são fiéis. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas. Ministramos Johrei na cabeça, nas costas (especialmente na coluna e nos rins), no baixo-ventre, na bexiga, na uretra e nas áreas de drenagem, e ela lê os Ensinamentos com frequência. Pedimos orientação.”
+
+A causa é a cirurgia de câncer de útero. Como foi o corte?
+
+“Havia um nódulo consideravelmente grande, que foi removido.”
+
+Em que região? Perto do útero, imagino. E qual foi a extensão da remoção? O útero foi retirado?
+
+“Não.”
+
+Então, a causa são os antissépticos. É uma intoxicação por antissépticos. Já se passaram quatro anos. O pus que está saindo agora é o antisséptico. A abertura de vários orifícios é excelente. A dificuldade de locomoção é inevitável por enquanto. A micção frequente é causada pelo esfíncter uretral, onde o antisséptico se infiltrou, solidificou e está pressionando. O Johrei deve ser focado na parte superior da virilha, em direção à uretra. Isso a curará. A abertura de orifícios para a eliminação do pus é ótima. A maioria das pessoas sente dor ao tocar a coluna; não chega a ser cárie. A profundidade do orifício é um bom sinal, pois indica que a purificação está atingindo as camadas mais profundas. A dor intensa é inevitável. A formação de pele ao redor da ferida mostra que está cicatrizando. Não há motivo para preocupação. É preciso ter paciência por mais um tempo.
+
+**4. Pessoa diagnosticada com câncer de útero** *(Paraíso Terrestre nº 37, p. 13)*
+
+“Meu marido ingressou na Fé em julho de 1950, e eu, em agosto. Em fevereiro de 1951, entronizamos a Imagem de Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Antes de ingressar na Fé, disseram-me que eu tinha uma ferida no útero e fiz cerca de dez aplicações de um medicamento tópico. Em novembro de 1950, fui diagnosticada com câncer de útero. Desde então, não fiz mais tratamento médico e tenho recebido Johrei. Dez meses após o início do Johrei, comecei a sentir dor na região lombar, que foi se intensificando. Sofri com dores agudas por sete meses. Desde novembro de 1951, mesmo em purificação, tenho saído para difundir a Fé em minha cidade natal. No dia seguinte a uma dessas viagens, tive a graça de expelir cerca de dez coágulos de sangue do tamanho de um polegar. O corrimento já existia antes do diagnóstico de câncer. Por um tempo, teve um odor forte, mas agora não mais. Certa vez, expeli uma secreção viscosa de cerca de trinta centímetros de comprimento. Meu primeiro marido era médico e faleceu de icterícia hemorrágica há sete anos. Durante os partos de nossos oito filhos, fiz lavagens e desinfecções no hospital umas cento e quarenta ou cinquenta vezes. Também fiz dois abortos no quarto mês de gestação. A dor é bastante intensa. Haveria alguma relação espiritual? E quais os pontos para o Johrei?”
+
+Isso não é espiritual, nem é câncer. É tudo causado pela intoxicação medicamentosa. Embora demore, a cura é certa, então fique tranquila. O Johrei pode ser focado apenas nos locais doloridos.
+
+### VII – Corpo Inteiro
+
+**1. Bebê com convulsões diárias** *(Paraíso Terrestre nº 41, p. 13)*
+
+“Meu segundo filho, desde os 110 dias de vida, começou a ter convulsões diárias. Agora, com mais de 140 dias, seu pescoço ainda não firma. O lado direito do pescoço está um pouco mais alto e levemente febril. Meu irmão mais novo faleceu com um e dois anos (causa desconhecida), e não cultuávamos seu espírito. Começamos a fazê-lo imediatamente. Tenho também um primo que se enforcou e um que morreu afogado. A purificação do meu filho teria relação com eles? Além disso, seu peito é muito afundado (um pouco acima do plexo solar), o que a medicina chama de constituição raquítica adenopática. Qual seria a causa? Onde devemos ministrar o Johrei? A Imagem da Kannon (観音) de Caligrafia foi entronizada em junho do ano passado, mas ainda não temos a Imagem Divina.”
+
+Não é espiritual. É devido à intoxicação medicamentosa. Apalpe todo o corpo dele e encontrará locais com febre. Ministre Johrei nesses pontos, e ele melhorará gradualmente. Há duas possíveis causas: uma injeção logo após o nascimento, ou o uso excessivo de medicamentos ou injeções pela mãe durante a gravidez ou pouco antes dela.
+
+**2. Pessoa com calafrios, tosse, constipação, bastante enfraquecida, com dormência constante na região lombar, falta de ar e um nódulo no plexo solar que sobe para o peito** *(Coletânea de Ensinamentos nº 2, p. 88)*
+
+“Em fevereiro de 1951, tive uma purificação de gripe. Em meados de março, repousei em casa e, sentindo-me um pouco melhor, voltei a difundir a Fé. Desde o início de setembro, sinto muito frio, tenho tosse intensa, muito catarro e constipação. Desde outubro, estou novamente em repouso em casa. Atualmente, estou bastante enfraquecido. Embora minha aparência seja de quem está bem, minhas pernas afinaram bastante. Consigo ir ao banheiro sozinho. O apetite varia; mesmo quando não tenho, consigo comer cerca de meia tigela de arroz se me esforçar. Ao receber Johrei nos ombros, costas e atrás do estômago, às vezes tinha febre e delírios, mas agora isso raramente acontece. Até novembro, sentia muito frio, mas agora não tanto. A região lombar está constantemente dormente e sinto falta de ar, não consigo conversar por muito tempo. Quando a falta de ar é mais intensa, sinto como se o nódulo do plexo solar subisse e pressionasse o peito. Desde criança, tenho o estômago fraco e tomei Wakamoto, antiácidos e outros medicamentos em pó. A cada gripe, tomava muito xarope para tosse. Aos 24 anos, tive beribéri com dormência e fiz tratamento médico por 75 dias. Atualmente, sinto febre na cabeça (topo e nuca), no bulbo, nos ombros, nas costas, atrás do estômago e no rim esquerdo. Estamos ministrando Johrei nesses locais. Está correto? Ou seria espiritual? Toda a família é fiel. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia estão entronizadas.”
+
+Não é espiritual. É intoxicação medicamentosa. Esta pessoa tem uma quantidade enorme de medicamentos no corpo. Por isso, é preciso ter paciência e perseverança. Antigamente, o veneno estava solidificado e a purificação ocorria aos poucos, de forma disfarçada. Agora, ela se manifesta de forma generalizada. Não é em um único lugar; a purificação está ocorrendo no corpo todo. A febre causa a falta de apetite, que leva à constipação, à tosse e ao catarro. Como ele tem 53 anos, a purificação não vem de uma vez só. Se viesse com grande intensidade, a cura seria rápida, mas ele não tem força purificadora suficiente para isso, por isso o processo é longo. É só isso. Ao ministrar Johrei, o mais importante é encontrar o ponto vital. Ao examinar o próprio corpo, ele encontrará o local com mais febre. Esse é o ponto vital principal. Ministre Johrei ali. Ao aplicar em si mesmo, também é preciso relaxar. Não há nada de complicado.
+
+**3. Mulher enfraquecida com diarreia intensa e grande eliminação de muco (filha com os mesmos sintomas)** *(Paraíso Terrestre nº 39, p. 11)*
+
+“Minha irmã, de 30 anos. Em outubro de 1950, teve uma purificação e, em novembro, ingressou na Fé. Em dezembro, entronizou a Imagem da Kannon (観音) de Caligrafia. Em 10 de abril de 1952, deu à luz prematuramente a sua terceira filha, com nove meses. Cerca de quatro meses antes do parto, ela vinha tendo uma tosse forte. Cerca de um mês antes, teve diarreia várias vezes ao dia por uns dez dias. Em 5 de maio, o bebê faleceu. Por volta dessa época, a diarreia intensa voltou, ela perdeu o apetite, enfraqueceu dia a dia e ficou de cama. Todos os dias, por volta das 15 horas, tinha calafrios e febre. À noite, vomitava um líquido incolor e viscoso. Após o Johrei, teve uma melhora temporária, mas por volta de 20 de junho, voltou a ficar de cama, mais fraca, e a diarreia continuou. A tosse também é intensa, e o líquido incolor continua a ser eliminado. Por volta de abril, sua filha mais velha (seis anos) também começou a tossir e a enfraquecer dia a dia, com uma purificação semelhante à da mãe. Apesar dessa purificação intensa, minha irmã tem se apegado fervorosamente a Komyô Nyorai-Sama. Haveria algo espiritual? Na família do marido de minha irmã, o pai dele faleceu quando ele tinha três anos. Aos doze, o irmão mais velho morreu na guerra. Em seguida, duas irmãs mais velhas morreram de tuberculose e, depois, a mãe também. Quatro pessoas morreram em três anos, restando apenas o marido, que foi criado por parentes e se casou com minha irmã.”
+
+Não é espiritual, é intoxicação medicamentosa. O corpo desta mulher tem uma grande quantidade de veneno medicamentoso, que foi transmitido à criança. Apalpando bem o corpo dela, encontrarão locais com febre baixa, onde o veneno está solidificado. Ministrem Johrei nesses pontos. No entanto, a cura completa levará muitos anos. Estejam cientes disso, orem fervorosamente a Deus, leiam os Ensinamentos o máximo possível e aprofundem sua fé.
+
+**4. Jovem enfraquecido com cefaleia, dor de dente, dor lombar, surdez, febre e tosse** *(Paraíso Terrestre nº 43, p. 14)*
+
+“Eu, um fiel de 26 anos, ingressei na Fé em fevereiro de 1949. Por volta de novembro de 1951, comecei a ter uma purificação de dor lombar e, a cada vez, recebi a proteção divina. A partir de junho de 1952, somaram-se a purificação de febre, tosse e catarro. Como meu pai se opõe à nossa Fé, continuei a trabalhar à força e fui enfraquecendo gradualmente. Por volta de 15 de setembro, tive uma dor lombar intensa (na parte interna, a 4,5 cm à direita do umbigo), febre, tosse e purificação nas amígdalas. Atualmente, os gânglios linfáticos do lado esquerdo do pescoço estão inchados, os dentes doem, o ouvido esquerdo está completamente surdo, e sinto uma pressão pesada nos ombros, na glândula parótida direita, no bulbo e em toda a cabeça. Devido à purificação da tosse e da febre, meu apetite se resume a duas tigelas de mingau de arroz, e o enfraquecimento aumenta. Minha primeira esposa faleceu de tuberculose em abril de 1949, e me casei novamente em outubro de 1950. A Imagem da Kannon (観音) de Caligrafia foi entronizada em abril de 1949, e a Imagem Divina está sendo solicitada à Sede. Em 1º de outubro, pegamos emprestada a Imagem de Komyô Nyorai-Sama de um parente e a entronizamos. Recebo Johrei diariamente de minha mãe e esposa, e a cada dois dias, alguém da igreja vem. Gostaria de saber os pontos vitais do Johrei e se há alguma relação com minha falecida esposa.”
+
+Não há relação espiritual. É tudo intoxicação medicamentosa, e não há outra forma de cura senão a eliminação paciente do veneno através do Johrei. Os pontos vitais são os locais doloridos, com febre ou com nódulos. Encontre-os e ministre Johrei.
+
+**5. Homem com cefaleia, dormência facial e perda de sensibilidade na região lombar e nos pés** *(Paraíso Terrestre nº 41, p. 12)*
+
+“Meishu-Sama, com todo o respeito, gostaria de perguntar sobre minha longa purificação. Em 9 de fevereiro de 1939 (meu 19º aniversário), ao voltar da escola, senti um cansaço e tirei uma soneca. Ao acordar, duas ou três horas depois, minhas pernas estavam dormentes, especialmente a direita, e eu não conseguia urinar nem evacuar (sem febre). Nos três meses anteriores, minhas mãos tremiam levemente. Fui do médico da cidade para o hospital universitário, onde disseram ser sífilis congênita. Depois, no Hospital Sanraku, o diagnóstico foi de tumor na medula espinhal, e fui operado. Segui o curso habitual dos doentes crônicos: medicina chinesa, águas termais, moxabustão. Em 22 de março de 1946, meu pai faleceu. Na noite do funeral, meu cunhado (fiel) me falou sobre a Fé. Fui imediatamente à casa do professor Horiuchi em Nishiogi e recebi Johrei. Com as palavras do professor para ter paciência, minha mãe e eu recebemos o Ohikari. Desde então, recebemos Johrei com dedicação na igreja e em casa. Seis meses depois, tive soluços ininterruptos por onze dias (com saliva com cheiro dos remédios chineses que havia tomado). Embora fôssemos um ramo da família, recebemos a Imagem da Kannon (観音) de Caligrafia. Meu avô ficou acamado por dezoito anos antes de falecer, então cultuamos sua placa memorial. Também cultuamos o espírito do irmão de minha mãe, que morreu subitamente no trabalho (causa desconhecida). Nesse período, perdi a consciência duas vezes, uma fora de casa e outra em casa, e senti como se minha cintura tivesse se partido. Por volta de abril de 1949, minha perna esquerda ficou pesada e tive dificuldade para andar (também sem febre). Em 1º de fevereiro de 1950, entronizamos a Imagem de Komyô Nyorai-Sama. Com as palavras do presidente da igreja, cavamos um lago no jardim, construímos um pequeno santuário e passamos a cultuar Ryujin-sama. Na verdade, antes da doença (agosto de 1938), durante as férias em Kamakura, eu e um amigo matamos uma cobra em uma casa. Quando recebo Johrei (especialmente da nuca à medula espinhal), sem que eu queira, minha cabeça se inclina para trás e, pouco depois, para frente e para baixo. Também balanço os ombros para os lados, mas os movimentos param quando o Johrei cessa. Não consigo controlar. Por volta de março de 1952, focamos o Johrei na cabeça. O centro da cabeça doía, o rosto ficava dormente e eliminei uma quantidade considerável de remela por uns dez dias. Também eliminei muito pus pelo joelho esquerdo. Atualmente, não tenho força na cintura, e minhas pernas parecem pesadas, como se não fossem minhas. Minha mãe e eu vivemos com dificuldades. Peço orientação sobre a causa desta purificação e os pontos de Johrei. Peço, mais uma vez, sua proteção.”
+
+Isso é intoxicação medicamentosa. Apalpe todo o corpo e encontrará locais com febre, nódulos ou dormência. Ministre Johrei nesses pontos, e você melhorará pouco a pouco. Ore a Deus, leia os Ensinamentos o máximo possível e tenha paciência. Com isso, na maior parte, você será curado.
+
+**6. Mulher com menstruação irregular, leucorreia abundante e purificação geral** *(Paraíso Terrestre nº 39, p. 11)*
+
+“Ingressei na Fé em maio de 1948. A Imagem Divina e a Imagem da Kannon (観音) de Caligrafia foram entronizadas em abril de 1949. Agradeço profundamente pelas inúmeras proteções recebidas. Desta vez, gostaria de perguntar sobre a purificação de minha esposa. Casei-me com minha esposa (27 anos) em 1947. Antes do casamento, ela menstruava cerca de dez vezes por ano. Depois, passou a ser uma vez a cada seis meses. Seguindo a recomendação médica, ela tomou trinta injeções de hormônio e fez uma curetagem. Sua menstruação parou por treze meses. Após uma purificação de sarna, voltou a menstruar a cada mês, e em abril de 1951, engravidou. No entanto, em outubro do mesmo ano, com cerca de sete meses, teve um aborto espontâneo. Desde o início da gravidez, sentia dores abdominais, e seu abdômen endurecia a cada hora. O Johrei aliviava em dois ou três minutos, mas na época do aborto, as contrações se intensificaram, o endurecimento não passou e ela perdeu o bebê. A criança nasceu com o corpo todo roxo. Chorou três vezes, viveu por cerca de uma hora e faleceu. Após a morte, ficou com uma aparência muito bonita, como um bebê dormindo tranquilamente. Graças à proteção divina, ela engravidou novamente no final de dezembro do ano passado e está agora no oitavo mês. Recentemente, seu abdômen voltou a endurecer, até seis vezes nos dias de maior frequência. A dor não é tão intensa quanto da outra vez. No terceiro mês de gestação, teve um pequeno sangramento, e desde então, tem tido corrimento (leucorreia). Ao receber Johrei, sente o corpo todo cansado, e o estômago, o abdômen e a cintura doem, mas melhora em cerca de três horas. Além disso, os músculos entre o osso da cintura e a base da perna ficam contraídos por umas três horas enquanto dorme, impedindo-a de se virar. Depois disso, alivia. Suas pernas também estão inchadas. Pedimos a proteção divina para um parto seguro. Qual a causa do endurecimento do abdômen, da dor no estômago, abdômen e cintura, e da contração muscular? E quais os pontos para o Johrei?”
+
+O caso de sua esposa é inteiramente devido à intoxicação medicamentosa. Ministrando Johrei nos locais doloridos, embora demore, ela certamente será curada, então fique tranquilo. Você parece ainda não conhecer a gravidade da intoxicação medicamentosa. Leia todas as publicações da nossa Fé, uma por uma.
+
+**7. Mulher enfraquecida com sintomas de tuberculose** *(Paraíso Terrestre nº 37, p. 9)*
+
+“Mulher de 36 anos. Por volta de setembro de 1945, desenvolveu pleurisia, problemas ginecológicos e doença uterina. Fez tratamento médico por três anos sem sucesso. Em 1947, recebeu a proteção divina através do Johrei e, no mesmo ano, ingressou na Fé. Entronizamos a Imagem de Dai-Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Diariamente, tenho me dedicado, dentro de minhas limitações, à salvação da humanidade, à orientação de pessoas e ao serviço divino. Em 1949, uma purificação de peritonite foi aliviada em um mês. Em janeiro de 1952, comecei a sentir falta de ar, febre, tosse e catarro intensos, e fiquei de cama. Atualmente, ao me levantar, a tosse e o catarro se intensificam, sinto as costas cansadas e com uma dor surda. A purificação é mais intensa no lado esquerdo do corpo. Sinto febre no bulbo, no peito e no útero. Ambos os lados do peito doem quando pressionados. Ao receber Johrei na virilha e na região do útero, o pescoço e os ombros enrijecem. Recentemente, ao receber Johrei no abdômen, sinto duas ou três esferas se moverem para cima e para baixo, fazendo um barulho de bolhas, e depois desaparecem. A menstruação parou desde abril e o enfraquecimento aumentou, mas consigo comer duas tigelas pequenas de arroz três vezes ao dia. Meu marido era filho adotivo e herdeiro da família. Ele morreu na guerra em junho de 1945. Meu pai adotivo morreu de doença. Minha mãe adotiva se enforcou no beiral de um armazém em junho de 1936. Meu filho faleceu aos três anos, em março de 1943, e está enterrado junto com meu marido. Atualmente, vivo com minhas duas filhas (ambas fiéis), vendendo nossos bens para sobreviver. Até agora, nós três nos revezávamos nas purificações, mas desde que comecei esta purificação, minhas filhas estão bem. Haveria alguma relação espiritual com esses fatos? O Johrei está sendo focado nos locais com febre, mas oscilo entre melhora e piora. Pedimos orientação sobre os pontos de Johrei.”
+
+As diversas doenças desta mulher são todas purificações da intoxicação medicamentosa. Há um pouco de influência espiritual, mas não a ponto de ser preocupante. Ministrar Johrei nos locais com febre está correto, mas acredito que quem está aplicando está usando muita força. É preciso relaxar o máximo possível.
+
+**8. Homem com dores generalizadas e constipação** *(Coletânea de Ensinamentos nº 4, p. 29)*
+
+“Homem de 50 anos. Por volta de junho de 1947, começou a sentir as costas enrijecidas e uma dor aguda. Enquanto fazia tratamentos com acupuntura e moxabustão, em dezembro do mesmo ano, seu quadro piorou e ele ficou com o corpo paralisado do pescoço para baixo, sendo internado (no Hospital da Universidade de Tóquio). O diagnóstico foi de síndrome pós-mielite. Recebeu injeções de penicilina por três meses, vinte injeções de salvarsan (nº 3), massagem elétrica, e retiraram líquido de sua medula espinhal quatro vezes para exames. Cerca de três meses após a internação, seu corpo começou a se mover gradualmente e, após oito meses, recebeu alta. Desde então, quase não usou medicamentos. Atualmente, está trabalhando, mas sente dores nas costas e no peito, semelhantes às do início da doença. A cintura e as pernas estão enrijecidas, principalmente do lado esquerdo. Tem dificuldade para urinar e evacuar, e não sente dor ao pressionar fortemente as costas, os rins ou as pernas. Acredito que seja uremia, e ele está obeso. Há um mês, começou a receber Johrei, e a dor tem se intensificado. Pedimos orientação sobre a causa da doença e os pontos de Johrei.”
+
+Síndrome pós-mielite é um diagnóstico estranho. O veneno medicamentoso está solidificado em suas costas. Além disso, os rins estão sendo pressionados. Ministre Johrei principalmente nos rins e nos locais doloridos das costas, e ele certamente será curado. O aumento da dor é um ótimo sinal. Significa que a purificação começou. A dor deve ser considerável, mas explique-lhe bem que a dor é o processo de cura. Dê-lhe meus livros que tratam desse assunto para que ele possa se convencer.
+
+**9. Homem com variações bruscas de febre e dor no peito** *(Coletânea de Ensinamentos nº 2, p. 32)*
+
+“Um fiel de 51 anos. Sua esposa ingressou na Fé em 1948. Ele, que era fraco desde a infância, melhorou muito com o Johrei e, em julho de 1950, entronizou a Imagem de Komyô Nyorai-Sama e a Imagem da Kannon (観音) de Caligrafia. Em fevereiro de 1951, teve uma purificação de neuralgia facial, ingressou na Fé e melhorou muito, podendo voltar a trabalhar. Anteontem (dia 9) de manhã, sentiu a cabeça pesada. Com Johrei, melhorou imediatamente. Na tarde do mesmo dia, sentiu uma dor forte do pulso ao cotovelo do braço direito e calafrios. Com cerca de vinte minutos de Johrei, os calafrios passaram e a dor no braço diminuiu, mas sentia febre alta nas costas e nos pés, e o coração e todo o peito oprimidos. Ele alterna entre frio e calor intensos. Qual seria a causa? Há anos, ele tem uma hérnia e recebe purificações frequentes por causa dela, mas sem grande melhora. Haveria alguma relação espiritual?”
+
+Não é espiritual. O veneno medicamentoso está espalhado por todo o corpo dele. Os acúmulos em vários lugares estão se dissolvendo em sequência. É essa a purificação. Portanto, com perseverança, ele será completamente curado. Os calafrios indicam febre no local. A febre alta nos pés é o veneno solidificado se dissolvendo. A purificação no coração causa febre, o que gera a opressão no peito. A hérnia é causada por um nódulo no abdômen que está pressionando. Relação espiritual é algo raro. E os espíritos só se encostam onde há máculas. Se não houver máculas, eles não conseguem se encostar. A mácula é o veneno dos medicamentos. Se houver alguma doença ou dor, pensem: “Quando tomei remédio? Ah, é aquele remédio daquela época”, e a resposta virá. Considerem que todas as doenças são causadas por medicamentos, e não errarão. Dizer que tudo é espiritual é um exagero. Doenças mentais e epilepsia são absolutamente espirituais, mas outras coisas – dor, coceira, febre – são todas causadas por medicamentos. Quando sentir dor em um lugar, pense: “De qual remédio é isso?”, e a resposta virá.
+
+Os fitoterápicos também são perigosos. Eles afetam a cabeça. Pensem: “Ah, é aquele remédio chinês daquela época”, e entenderão. Eu escrevo constantemente sobre os medicamentos, mas a mensagem demora a penetrar. As pessoas estão há muito tempo sob o feitiço da superstição medicamentosa.
+
+**10. Mulher diagnosticada com câncer de estômago, com vômitos, constipação, falta de apetite, confusão mental e enfraquecimento** *(Paraíso Terrestre nº 43, p. 12)*
+
+“Minha esposa (53 anos, não-fiel), desde a primavera de 1952, perdeu o apetite e vomitava (um líquido amarelo) duas ou três vezes por dia. No início de abril, consultou um médico que diagnosticou ptose gástrica. Tomou um medicamento (um líquido tão forte que manchava o tatame de preto) por uns dez dias, sem melhora. Em 19 de maio, foi internada em um hospital próximo (por um mês). Nesse período, recebeu quatro injeções do novo medicamento Nitromin, cerca de trinta injeções de glicose, sete transfusões de sangue e três injeções de Ringer. Não houve muita melhora, o apetite não voltou, ela vomitava ocasionalmente (líquido amarelo) e não evacuava, precisando de enemas (mais de dez vezes). Uma radiografia diagnosticou câncer de estômago, e disseram que mesmo com cirurgia, o resultado era incerto. Ela recebeu alta e ficou em repouso em casa (após a alta, teve uma melhora temporária com a fé em Yutaki Daijin), e seu apetite melhorou um pouco. Em agosto, o apetite piorou novamente, ela voltou a vomitar e enfraqueceu muito. Um conhecido nos falou sobre as graças de nossa Fé. Fomos imediatamente à igreja de Katakami e ela recebeu Johrei. Sentiu-se muito bem, parou de usar enemas e, continuando a receber Johrei, alguns dias depois, conseguiu evacuar (fezes como um pó preto solidificado). Ela ficou muito feliz, compreendeu pela primeira vez a grandeza do poder divino, pôde ir à igreja duas vezes e, ouvindo as explicações do professor, em 22 de setembro, eu e minha filha (Fuuko) ingressamos na Fé na igreja principal de Ogaki. Além disso, recebemos a Imagem de Komyô Nyorai-Sama e, em 25 de setembro, participamos da Grande Cerimônia em Hakone. Em 5 de outubro, entronizaremos a Imagem de Komyô Nyorai-Sama, e estamos muito felizes com as graças recebidas. Atualmente, ela tem nódulos especialmente no lado direito do bulbo e do pescoço, e sua cabeça está constantemente confusa, como se estivesse coberta por algo. O abdômen, especialmente o estômago, está todo endurecido e um pouco inchado. A região do reto também está dura e dói um pouco ao ser pressionada. Graças à proteção divina, ela consegue comer frutas e outros alimentos em pequenas quantidades e dorme muito bem à noite, o que a deixa muito feliz. Vomita ocasionalmente e sente um aperto abaixo do peito após as refeições, mas melhora em pouco tempo. Embora esteja muito fraca, consegue até passear. O endurecimento do estômago é devido à intoxicação medicamentosa? Ou é espiritual? Onde é mais importante ministrar o Johrei? O que devemos fazer para que ela seja salva o mais rápido possível? Ela, aos 30 anos, teve febre puerperal e fez tratamento com injeções por oito meses. Aos 32 ou 33 anos, teve asma e tomou cerca de cinquenta comprimidos de efedrina. Aos 36 ou 37 anos, foi operada de um mioma uterino e ficou internada por uns vinte dias.”
+
+Esta mulher é um exemplo clássico de vítima da intoxicação medicamentosa. Todas as suas doenças são nódulos de veneno de medicamentos. Através da eliminação de diversas secreções, ela melhorará gradualmente. Portanto, embora demore, a cura é certa. O Johrei deve ser focado nos locais onde o veneno está solidificado. Naturalmente, ministrando Johrei com o mínimo de força possível, o veneno se dissolverá mais rápido, e quanto maior a frequência, mais rápida será a cura.
+
+### VIII – Outros
+
+**1. Pessoa que se sente cansada ao falar** *(Registro de Orientações nº 13, p. 13)*
+
+“Um jovem de 20 anos se sente cansado depois de conversar. Quando não fala, não sente nada.”
+
+Ele deve ter febre. Falar causa febre em seu corpo.
+
+“Onde devemos ministrar o Johrei?”
+
+Ao redor do pescoço.
+
+“Não há relação espiritual?”
+
+Provavelmente não. As doenças atuais são relacionadas à intoxicação medicamentosa. Considerem que todas as doenças são causadas por medicamentos, e não errarão.
+
+**2. Doença em que os ossos engrossam** *(Registro de Orientações nº 1, p. 34)*
+
+“Em Okayama, há uma pessoa com uma doença em que os ossos engrossam, com o surgimento de protuberâncias semelhantes a chifres em algumas partes e o engrossamento dos dedos das mãos. O médico diz que a cirurgia resolveria. Há umas doze ou treze protuberâncias, o pescoço se alonga, e uma das pernas fica mais comprida que a outra. Ao tocar, parece osso, bem duro. Qual seria a causa? Até os cinco ou seis anos, ele era normal.”
+
+Provavelmente intoxicação medicamentosa. Ocorre apenas naquela região?
+
+“Em Okayama, é apenas essa pessoa.”
+
+Algum dos pais ou avós deve ter tomado algo estranho, e o efeito persistiu. Com Johrei, as protuberâncias devem diminuir. É algo estranho, uma toxina.
+
+**3. Mulher com ossos e unhas amolecidos** *(Ensinamento)*
+
+“Uma mulher de 47 anos, enfraquecida há muitos anos, com a cintura instável e o andar cambaleante. Os dedos de suas mãos e pés, especialmente as unhas, estão moles, a ponto de se dobrarem facilmente quando pressionados. Dizem que ela também tem cárie. O amolecimento das unhas seria por causa disso? E pode ser curado com Johrei?”
+
+Não tem relação com a cárie. A cárie afeta a coluna, não a cintura ou as unhas. Ela nasceu com essa condição?
+
+“Não.”
+
+É intoxicação medicamentosa. Por causa dela, o desenvolvimento dos ossos e das unhas é prejudicado.
+
+**4. Pessoa que incha ao tocar em coisas frias** *(Coletânea de Ensinamentos nº 2, p. 9)*
+
+“Um fiel de 33 anos. Desde os doze ou treze anos, sempre que entra em água fria, surgem erupções semelhantes a urticária nas partes do corpo que tiveram contato com a água. Logo depois, a área incha e ele sente dor de cabeça e tontura. Além disso, se comer um pouco a mais de frutas ou doces gelados, seus lábios e o interior da boca incham. E se for exposto a um vento frio, as bordas dos olhos incham. Ao aquecer o corpo, os sintomas desaparecem. Qual seria a causa?”
+
+É tudo intoxicação medicamentosa. Pode ser um medicamento incomum. Pode ser o veneno dos medicamentos dos pais. Pode ser um remédio que ele tomou quando era bebê. Com Johrei paciente, isso também será curado.
+
+---
+
+# Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
+
+**Categoria:** sasshi | **Ano:** 昭和25(1950)年4月23日 | **Fonte:** 御Hikari話録
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-04-23
+
+## Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
+
+**Pergunta: Gostaria de indagar sobre as formalidades nas cerimônias, especialmente no que tange ao vestuário.**
+
+Quanto à formalidade, ela já vem sendo praticada de diversas maneiras em todos os lugares, e isso é suficiente. Eu não estabeleço regras específicas sobre como os cultos devem ser conduzidos, pois a forma apropriada deveria emergir naturalmente. Portanto, não há, neste momento, necessidade de se discutir detalhadamente o assunto. Durante as cerimônias, basta que cada um, de acordo com sua condição, mantenha uma atitude que não desvirtue a reverência devida. Trajes de trabalho ou casacos curtos, como o *shikiribanten*, são evidentemente inadequados. Contudo, quem possui um *hakama* (袴) pode vesti-lo, e quem não o possui não precisa se preocupar com isso.
+
+**Pergunta: Há um ditado que diz: “O primogênito é um tolo”. Isso se deve ao fato de que os filhos nascidos quando o casal é jovem e a paixão é intensa tendem a ser tolos, enquanto os filhos mais novos, concebidos quando os pais são mais velhos e o amor é mais sereno, são melhores? Qual a razão para isso?**
+
+Na realidade, não é bem assim. O fato é que, quando nasce o primeiro filho, os pais geralmente ainda são jovens e possuem pouca experiência de vida. Por conseguinte, se há alguém que se assemelha a um tolo, seriam os próprios pais. (risos) À medida que enfrentam dificuldades e acumulam vivências, os filhos que vêm mais tarde tendem a ser mais bem-sucedidos. Além disso, é inevitável que o primogênito seja excessivamente mimado, o que é prejudicial. Todavia, conforme a prole aumenta, não é que o carinho diminua, mas a atenção se torna mais difusa e não alcança a todos da mesma forma. Esse cenário, contudo, é benéfico para as crianças, pois fomenta nelas o espírito de independência.
+
+É por essa razão que, como escrevi anteriormente em um jornal, as personalidades notáveis emergem de famílias com muitos irmãos. Por terem muitos irmãos, elas não são superprotegidas. Em suma, desenvolvem a independência. A convicção de que devem valer-se por si mesmas é fortalecida intensamente. Entre os filhos únicos, raramente encontramos pessoas de grande destaque. Portanto, uma criança constantemente mimada não se tornará grandiosa. Em certos aspectos, é preferível não ser alvo de um amor excessivo.
+
+**Pergunta: Sendo assim, isso representa um grande alívio para os pais.**
+
+Sim, de fato. Há equívocos no conceito tradicional de amor parental. Por exemplo, no Japão, quando uma criança cai, os pais a levantam imediatamente. No Ocidente, porém, eles a instruem a se levantar por conta própria. Nesse caso, a atitude ocidental representa o verdadeiro amor.
+
+**Pergunta: Então, é preferível educar os filhos com rigor?**
+
+Sim, pois, em essência, essa é a manifestação de um amor mais profundo.
+
+**Pergunta: Contudo, não me parece que as crianças que não conhecem o afeto dos pais tendem a ser um tanto obstinadas?**
+
+Isso já seria um extremo. Por mais que o espírito de independência seja valioso, a ausência total de amor é inaceitável. Uma criação assim pode levar a criança a sentir que jamais conheceu o afeto dos pais.
+
+A questão central é que o excesso de zelo, o que se chama de “mimar como a um gato”, é o que se deve evitar. É por isso que se diz que os grandes homens vêm de famílias com muitos irmãos. O amor também possui uma dimensão superior e uma inferior. Apenas proteger e cuidar representa o amor inferior. Ver um filho sofrer e, ainda assim, abster-se de intervir, isso é o amor em sua dimensão superior. Por essa razão, mesmo quando vejo um fiel cometer um erro, limito-me a uma breve advertência. Sei que, ao persistir no erro, ele certamente fracassará. Nesse momento, ao debater-se em sofrimento, ele por fim compreenderá: “Ah, o caminho que eu vinha trilhando estava equivocado”. Essa é a verdadeira tomada de consciência. Tentar corrigir alguém no meio do processo é, na maioria das vezes, ineficaz.
+
+**Pergunta: Em meio à Grande Transição, ao escolhermos uma instituição de ensino superior para os filhos dos fiéis, que critérios devemos adotar?**
+
+Isso é bastante simples, pois atualmente já não existem escolas que formam militares. (risos) Portanto, o ideal é permitir que o jovem siga a carreira que mais lhe agrada.
+
+**Pergunta: No que tange à escolha das disciplinas, gostaria de saber quais áreas do conhecimento se tornarão mais proeminentes no futuro próximo e quais entrarão em declínio.**
+
+Bem, também não há grandes mistérios aqui. Com exceção das áreas relacionadas à arte militar, a maioria dos saberes continuará a ser necessária. Tanto a engenharia quanto as ciências serão indispensáveis. Apenas o direito, embora não de forma abrupta, tenderá a diminuir gradualmente. A medicina, naturalmente, está fadada ao desaparecimento. Portanto, seria prudente evitar os cursos de medicina e direito.
+
+**Pergunta: E a economia?**
+
+A economia continuará a ser necessária no futuro, mas sua forma passará por certas transformações. A literatura também mudará consideravelmente, mas não a ponto de desaparecer por completo. Em breve, escreverei sobre esses assuntos no ensaio intitulado “A Cultura do Século XXI”. (Vide *Registro dos Colóquios de Luz*, nº 18)
+
+**Pergunta: Presumimos que o interesse pela arte aumentará. Como uma pessoa sem base em apreciação artística pode cultivar essa sensibilidade?**
+
+O cultivo dessa sensibilidade é exatamente o que estou realizando neste momento. Em breve, construirei um museu, onde reunirei diversas obras de arte e oferecerei explicações sobre elas. Pretendo também, gradualmente, desenvolver atividades de cunho literário. A poesia *waka*, por exemplo, é um dos alicerces da literatura japonesa. Quando se tem o *waka* como base, a literatura do Japão ganha muito mais vigor. Além disso, temos as flores. No futuro, plantarei uma vasta gama de flores. E, por fim, as artes cênicas. Estas, contudo, passarão por grandes transformações. Dentre as artes cênicas japonesas atuais, o *gidayu*, por exemplo, certamente desaparecerá. O *bunraku* de Osaka, ao que parece, já enfrenta dificuldades por falta de público.
+
+**Pergunta: O *gidayu* desaparecerá por ser incompreensível para os estrangeiros?**
+
+Não, não apenas para os estrangeiros; é incompreensível até mesmo para os japoneses. (risos) E, quanto mais se tenta compreender, mais confuso se fica. (risos)
+
+**Pergunta: E quanto ao *utai*?**
+
+Também acabará por desaparecer. É uma arte feudal. Na verdade, submeter alguém a ouvir aquilo é, por si só, uma maldade. (risos) Digo isso porque, ao ouvi-lo, em vez de prazer, sente-se um tormento, um desconforto. (risos) Quando o rádio começa a transmitir *utai*, eu sempre desligo o aparelho. O *utai* não é um canto, é um gemido. (risos) As transmissões de *utai* e de lutas de sumô, eu sempre as interrompo.
+
+**Pergunta: E o kabuki?**
+
+Aí reside um problema. O *kabuki* parece já ter esgotado seu ciclo de vida. Ademais, as peças encenadas são, em sua maioria, baseadas em ideologias ultrapassadas de lealdade ao soberano e patriotismo, o que as torna mais tolas do que interessantes. E por quê? Porque os personagens, em vez de resolverem suas questões por meio do diálogo, algo que seria perfeitamente possível, optam por morrer ou cometer suicídio ritual. (risos) Por isso, digo que o *kabuki* é mais estético do que propriamente artístico. Nesse sentido, eu gostaria que ele fosse preservado, mas creio que não será possível. O futuro, inevitavelmente, pertence ao cinema. Não há como evitar. Os teatros que se dedicam exclusivamente a peças dramáticas não são lucrativos, ao passo que os cinemas o são. Naturalmente, se surgisse um grande mestre do *kabuki*, a arte poderia reviver por um tempo, mas é improvável que isso aconteça. Se aparecesse alguém do calibre de Danjuro, eu mesmo voltaria a frequentar o teatro. Os grandes mestres já se foram; hoje, os principais nomes são Kichiemon e Ennosuke, mas com apenas dois atores não se faz uma peça. (risos)
+
+**Pergunta: E a ópera?**
+
+A ópera se tornará ainda mais popular no futuro.
+
+**Pergunta: Contudo, ela parece ser de difícil compreensão.**
+
+Sim, de fato. É um pouco complexa. Mas o que é verdadeiramente incompreensível é o jazz. (risos)
+
+**Pergunta: Então, e artistas como Shizuko Kasagi? (risos)**
+
+Ah... (risos) Bem, o jazz é como o *yagibushi* do Japão.
+
+**Pergunta: O senhor mencionou há pouco que o *kabuki* é mais estético do que artístico. O estético não seria também uma forma de arte?**
+
+Sim, é verdade. Contudo, o conceito de arte é muito mais amplo do que a mera beleza.
+
+O cinema é arte; é a síntese de todas as artes. Primeiramente, temos o roteiro, que é a base de tudo. Depois, a técnica dos atores, os cenários, os trajes e a atmosfera de cada época, as paisagens escolhidas para as locações, a iluminação, a música, o ritmo de cada cena e a maneira como elas são interligadas. Há ainda os enquadramentos do rosto, de perfil, de frente, em close-up. Existem, de fato, inúmeros elementos, e o cinema é a integração de todos eles.
+
+Recentemente, em um jornal (Nota), Junichiro Tanizaki elogiou imensamente o filme “Fuga ao Amanhecer”, uma obra dirigida por Senkichi Taniguchi. O primeiro filme de Taniguchi, “No Limite das Neves”, foi excepcionalmente bem-realizado. Fiquei verdadeiramente comovido ao assisti-lo, tamanha a sua qualidade. Escrevi-lhe uma carta e, como uma forma de prêmio, enviei-lhe uma quantia em dinheiro. Mais tarde, o senhor Taniguchi veio me visitar para agradecer.
+
+**Pergunta: Que grande honra! O senhor agiu como se estivesse concedendo um prêmio Nobel. (risos)**
+
+Sim, exatamente. (risos) Senkichi Taniguchi e Akira Kurosawa são como irmãos de ofício, mas eu prefiro as obras de Taniguchi. Seu filme seguinte, “Jakoman e Tetsu”, também é bom, embora ainda lhe faltem alguns retoques. A análise que Tanizaki fez de “Fuga ao Amanhecer” no jornal foi muito semelhante à minha própria percepção. Nunca antes eu havia premiado um artista, mas “No Limite das Neves” realmente me cativou. Enfim, o cinema abrange uma infinidade de elementos. (Nota: *Tokyo Shimbun*, 9 de fevereiro)
+
+**Pergunta: Em um futuro próximo, a televisão se popularizará. Mesmo assim, o cinema continuará a existir?**
+
+Sim, creio que o cinema prevalecerá. É a grande arte nascida no século XX. Portanto, é difícil mensurar o poder de atração que o cinema exerce sobre as pessoas. Ao assistirmos a um filme, a princípio julgamos apenas se é interessante ou entediante. Contudo, à medida que aprofundamos nosso olhar, descobrimos novas nuances na direção e na performance dos atores. Quando me deparo com uma obra verdadeiramente bem-feita, sinto uma admiração genuína e um prazer indescritível. No entanto, obras que provocam tal sentimento são raras; talvez uma em cada dez.
+
+A qualidade de um filme é determinada por sua força expressiva e pela coesão de suas cenas. E, no cenário mundial, o cinema japonês é o melhor. Está cerca de um século à frente do cinema estrangeiro. Embora tecnicamente inferior devido a equipamentos de menor qualidade, seu conteúdo é muito mais profundo. Aqueles que desprezam o cinema japonês, afirmando que não tem valor, ainda não conhecem seu verdadeiro sabor; sua percepção é limitada. Dentre os filmes estrangeiros, os britânicos possuem um conteúdo mais profundo que os americanos. Atualmente, a Europa não está mais importando filmes americanos. Por isso, a indústria cinematográfica americana está no vermelho. O motivo é que o cinema americano não evolui, é sempre a mesma coisa; é um entretenimento puramente infantil. As comédias, na verdade, parecem ter regredido. Os filmes antigos de Chaplin ou Keaton eram muito superiores a essas comédias recentes de duplas cômicas. Já os faroestes se resumem a tiroteios. Por isso, eu dispenso os filmes americanos de romance e de faroeste. Eles me dão sono. Em vez de uma sessão de cinema, torna-se uma sessão de sono. (risos) Alguns chegam a ser uma sessão de ira, pois me deixam irritado enquanto assisto. (risos)
+
+**Pergunta: O senhor considera a possibilidade de construir um estúdio de cinema no futuro?**
+
+Sim, creio que isso acontecerá. Quando esse dia chegar, os fiéis com talento para a área poderão atuar nos filmes. (risos) Os atores japoneses também evoluíram muito, superando os americanos. Suas expressões faciais são superiores. Os japoneses são afortunados por terem o melhor cinema do mundo em seu próprio país.
+
+**Pergunta: Atualmente, a maioria das pessoas parece preferir os filmes americanos. Seria por causa da grande quantidade de beijos? (gargalhadas)**
+
+Eu detesto isso. (risos)
+
+**Pergunta: Acredito que a maneira como beijam é deselegante. (risos)**
+
+Além de deselegante, o beijo, embora possa ser aceito como uma expressão de afeto, quando transformado no principal atrativo de um filme, serve apenas para agradar aos jovens espinhentos. (risos) Ademais, os japoneses, desde a antiguidade, nunca tiveram o costume de se beijar. Por isso, ao ver cenas de beijo nos filmes de hoje, sinto que é algo ridículo. Se ocorresse no clímax de uma grande paixão, até seria compreensível, mas a repetição excessiva é simplesmente descabida. (gargalhadas)
+
+**Pergunta: Dentre os atores atuais, há algum que o senhor considere especial?**
+
+Existem muitos atores com grande talento para a interpretação, mas não creio que haja alguém que se destaque de forma excepcional. Todos são bons e desempenham bem seus papéis. Além disso, há diferenças entre atuar em filmes contemporâneos e em filmes de época. Cada ator possui suas características. Aqueles que se adaptam bem a qualquer papel são os populares Uehara, Hasegawa, Okochi, Bantsuma, entre outros. Mesmo entre eles, porém, há especialidades. Para cenas de luta com espadas, Okochi é provavelmente o melhor. O problema é que, entre as atrizes japonesas, não há nenhuma que seja verdadeiramente bela. (risos)
+
+**Pergunta: E quanto a Setsuko Hara? (risos)**
+
+Ah, não. (risos)
+
+**Pergunta: E Kinuyo Tanaka? (risos)**
+
+Também não gosto dela. A sua atitude de quem se acha muito inteligente me desagrada. Na atuação, a naturalidade é o ideal. Não aprecio o uso de artifícios técnicos. O ator em início de carreira, ainda com certa rusticidade, é melhor. Quando começa a dominar a técnica, ele passa a “atuar”, e nesse ponto se torna desinteressante. Há muitos casos assim.
+
+**Pergunta: Seria a alta umidade do Japão um empecilho técnico para a produção de filmes de boa qualidade?**
+
+Sim, esse é um fator relevante. Hollywood e, de modo geral, os Estados Unidos, por serem mais secos que o Japão, possuem condições mais favoráveis para a produção cinematográfica. Hollywood, nesse aspecto, oferece as melhores condições. Os produtores japoneses, no entanto, parecem indiferentes a essa questão. A falta de grandes capitais provavelmente os levou a aceitar a situação atual. A umidade tem um impacto significativo na fotografia.
+
+**Pergunta: Dizem que Hokkaido seria um bom local no Japão.**
+
+Sim, justamente por causa da umidade. Hokkaido é muito semelhante aos Estados Unidos nesse aspecto.
+
+Originalmente, o povo japonês possuía uma predisposição para apreciar a arte. Contudo, desde o Período dos Reinos Combatentes, o interesse se voltou quase que exclusivamente para a guerra, o que impediu o florescimento da arte. Agora que as guerras cessaram, é natural que a arte prospere.
+
+**Pergunta: E quanto às artes folclóricas regionais?**
+
+Algumas permanecerão, mas, à medida que o estilo de vida das áreas rurais se assemelha ao das cidades, poucas sobreviverão. A urbanização se dá por meio de livros, rádio e outros meios. A própria linguagem está mudando. Embora o dialeto “zuzu” da região de Tohoku ainda apresente um desafio. (risos)
+
+**Pergunta: Diz-se que morar em uma casa triangular traz infortúnios. Por que isso acontece?**
+
+Isso é uma superstição infundada. O problema de uma casa triangular é que ela carece de um dos pontos cardeais, seja leste, oeste, sul ou norte. A forma e a localização de uma casa influenciam o destino de seus moradores.
+
+**Pergunta: E uma casa construída sobre um rio?**
+
+Isso também é um disparate. Estar sobre a água... só se for um barco. (gargalhadas) Uma casa precisa de estabilidade.
+
+**Pergunta: E se o rio for pequeno?**
+
+Se for pequeno, o infortúnio será menor, mas ainda assim não é o ideal. A Pousada Shinsen em Hakone, do ponto de vista da fisionomia das casas, é perfeita. A entrada está na direção sudeste; sobe-se uma escadaria para o hall, onde se sobe mais três degraus, e o fundo do hall é ainda mais elevado. À direita, temos a ala ocidental e, à esquerda, a ala japonesa. Essa configuração é chamada de “Formação da Garça com as Asas Abertas” e é extremamente auspiciosa na fisionomia das casas. Assemelha-se a uma garça de asas abertas. A sala ocidental é triangular, representando um navio cortando as ondas, e o fato de estar sobre rochas é também excelente. A Pousada Higashiyama em Atami é um pouco mais baixa que a rua, mas está no topo de uma encosta, e a subida é mais longa que a descida, o que a torna favorável.
+
+**Pergunta: É comum no mundo não se concluir uma construção por completo.**
+
+Sim, essa é uma prática comum. Diz-se que a perfeição atrai o mal. Conta-se que Hidari Jingoro, ao construir o templo Chion-in, deixou deliberadamente um guarda-chuva embutido na estrutura. Isso se baseia no ditado “o que está cheio começa a vazar”, pois a perfeição é o ponto máximo, como a lua cheia. Em outra ocasião, um famoso mestre carpinteiro construiu o templo Kotoku-ji, no bairro de Shimonoseki, em Tóquio, mas o portão é cerca de trinta centímetros mais baixo do que deveria. O terceiro xogum teria elogiado o portão, e a obra era tão magnífica que deu origem ao trocadilho “o bom portão (iimon) é o do Kotoku-ji”. O fato de ser mais baixo foi proposital, para não atingir a perfeição. Contudo, todas essas precauções eram necessárias porque o Mundo Espiritual vivia na noite. No futuro Mundo do Dia, tudo será perfeito, e essas preocupações se tornarão obsoletas.
+
+**Pergunta: Sobre a relação entre religião e ciência... no futuro, pretendo me especializar em ciências naturais, especialmente na área técnica. O que o senhor pensa a respeito?**
+
+Em última análise, religião e ciência são a mesma coisa. Já escrevi sobre isso nos jornais, e a leitura desses artigos deve esclarecer o assunto. A ciência atual ainda não alcançou o patamar da religião; está muito atrasada. Evidentemente, as religiões estabelecidas até hoje estão mais ou menos no mesmo nível da ciência. Esta fé, no entanto, está mil anos à frente da ciência atual. Como escrevi no jornal, o Johrei está mil anos adiantado em relação à ciência; a distância é colossal. Portanto, a menos que a ciência se esforce diligentemente, ela não nos alcançará. Afinal, problemas que os doutores não conseguem resolver, mesmo quebrando a cabeça, são curados rapidamente pelo Johrei. Na verdade, a medicina nem sequer se enquadra como ciência; é uma espécie de ciência anômala. (risos)
+
+**Pergunta: Mesmo na Era de Miroku, gostaria de continuar estudando. Que método de estudo devo adotar?**
+
+Essa pergunta é um pouco prematura. (risos) Na Era de Miroku, o saber será muito diferente do atual; será muito mais simples. Grande parte do conhecimento de hoje, assim como a medicina, segue uma direção completamente equivocada. Por isso, sempre digo que a educação consistirá em três anos de ensino fundamental, três de ensino médio e três de universidade, totalizando nove anos, e formará indivíduos com uma mente muito mais brilhante do que a dos universitários de hoje.
+
+Na Era de Miroku, a medicina desaparecerá, a física será reduzida pela metade e o direito também diminuirá consideravelmente. Leis como o “Artigo X do Código Penal” se tornarão desnecessárias. O tão falado Código de Processo Civil também não será mais preciso. Essa lei só existe porque as pessoas tentam se esquivar de pagar suas dívidas; se todos pagassem o que devem, ela seria inútil. A redução da medicina e do direito, por si só, já fará uma enorme diferença. A economia também, embora não desapareça, se tornará muito mais simples. E, claro, a legislação tributária será extinta. As leis fiscais de hoje são absolutamente ridículas. (risos) Na Era de Miroku, todas as empresas, corporações e indivíduos contribuirão voluntariamente com cerca de um terço de seus lucros ao governo, tornando os fiscais desnecessários.
+
+Nessa época, as pessoas serão íntegras, agirão corretamente e não praticarão o engano. Os cidadãos pagarão seus impostos por iniciativa própria, e leis como o Código de Cobrança de Impostos Nacionais ou a Lei do Imposto de Renda se tornarão obsoletas. O montante arrecadado será exatamente o necessário para administrar as finanças do país. A sonegação fiscal em dupla ou tripla camada que vemos hoje ocorre porque os impostos são excessivos, uma herança da época em que se arrecadava dinheiro para o armamento militar. Os gastos com o exército foram astronômicos. Esse equívoco evoluiu para a situação atual. O déficit da Ferrovia Nacional é outro exemplo. Ela não deveria ter déficit algum; foi criada com a intenção de ser lucrativa. A estatização teve fins militares: em caso de emergência, quando os impostos não fossem suficientes, pretendia-se usar os lucros da ferrovia. O mesmo se aplica às empresas estatais de monopólio. O Japão do passado agia como um criminoso. A invasão da Ásia foi como uma gangue expandindo seu território por meio da violência. E, para a violência, é preciso dinheiro, então eles extorquiam a população. O sofrimento atual do Japão é o castigo por esses atos. O povo está sendo sacrificado. Contudo, aqueles que agem corretamente não são punidos. Mesmo durante e após a guerra, houve pessoas que não sofreram dano algum, inclusive entre os nossos fiéis.
+
+**Pergunta: Atualmente, há muitas pesquisas sobre a Ciência da Palavra Divina (Kototama-gaku), mas muitas delas não parecem corresponder à verdadeira ciência. Qual a sua opinião?**
+
+Concordo plenamente. Ao ouvir as palestras sobre budismo no rádio, por exemplo, percebo que as distorções são extremas. Apresentam-se interpretações absurdas e arbitrárias. Pretendo, gradualmente, expor a verdade. A Ciência da Palavra Divina é extremamente complexa. Diz-se que existiu na antiguidade remota, mas foi interrompida. Foi Motoori Norinaga quem, com base na literatura clássica japonesa, a pesquisou a fundo, tornando-se, assim, o fundador da Ciência da Palavra Divina. Um sacerdote xintoísta de Gifu, chamado Nagasawa, aprendeu com Norinaga e promoveu certo avanço. E o discípulo de Nagasawa foi Onisaburo Deguchi. Portanto, o Mestre Deguchi também tinha um conhecimento considerável sobre a Palavra Divina. Eu aprendi tanto com o Mestre Deguchi quanto com o que me foi revelado por Deus. Por isso, considero-me o maior conhecedor da Ciência da Palavra Divina.
+
+Contudo, mesmo conhecendo a Palavra Divina, não posso revelá-la por completo. A razão é que, ao compreender a verdadeira Palavra Divina, tudo se torna claro. Recentemente, a situação melhorou, mas antes do fim da guerra, eu jamais falava sobre a Palavra Divina em detalhes. Por meio dela, é possível compreender claramente a linhagem imperial, desde o Imperador Jimmu até os Imperadores Meiji, Taisho e o atual. Se as autoridades da época soubessem disso, seria um grande problema. O nome da era, “Showa” (昭和), por exemplo, pode ser perfeitamente decifrado. Hoje posso dizer: “Showa” indica claramente o advento do Mundo do Dia. Não há o que contestar. A Palavra Divina é algo verdadeiramente extraordinário. Ao compreendê-la, todos os mistérios se revelam. Pretendo escrever sobre ela até certo ponto, mas tenho muitas outras tarefas que me consomem o tempo.
+
+**Pergunta: Uma teoria afirma que a ilha principal de Okinawa é o berço do povo japonês. A expressão okinawana “usogamisourahe”, que significa “por favor, sirva-se”, parece ter alguma relação com a história antiga do Japão. O que o senhor pensa a respeito?**
+
+Okinawa não é o berço do povo japonês. O local de origem é a leste do Lago Biwa. Okinawa era o lugar onde habitavam os deuses-dragão. “Nawa” significa dragão, e “oki” se refere a algo grande, portanto, “grande deus-dragão”. O centro daquela região é a ilha principal de Ryukyu, onde havia uma joia do dragão. Por isso se chama Ryukyu (龍球 – “esfera do dragão”). Essa joia tem um significado profundo. Os japoneses da antiguidade migraram para lá, e é por isso que ainda existem vestígios da cultura japonesa.
+
+**Pergunta: Diz-se que, no Mundo Espiritual, a idade é de trinta e sete anos para os homens e dezoito para as mulheres. Essa idade é alcançada após a purificação ou imediatamente após a morte?**
+
+Não é algo que acontece imediatamente. E isso se aplica apenas aos espíritos que ascendem ao Paraíso, não àqueles que estão no nível de Yachimata (八衢) ou inferior. Cerca de cinco ou seis anos após a morte, o espírito rejuvenesce.
+
+**Pergunta: Quando uma criança morre e vai para o Paraíso, existe algo como uma escola?**
+
+Não há escolas no Mundo Espiritual. Em vez disso, os espíritos são naturalmente guiados para adquirir sabedoria e iluminação. Nos níveis inferiores a Yachimata, a situação é um pouco diferente; há instrutores que ministram sermões. Mas não se trata de aprimoramento moral ou conhecimento acadêmico como no mundo humano; ensina-se a abandonar os apegos e a compreender a essência da fé. Já no Paraíso, como mencionei, a sabedoria e a iluminação são adquiridas naturalmente, de acordo com o nível de cada um. Quanto mais elevado o nível, menos se utiliza a palavra. Nos níveis superiores, a comunicação se dá pelo olhar. E, em níveis ainda mais altos, nem mesmo o olhar é necessário; a comunicação ocorre apenas pela mente, pelo pensamento. Nesse estado, é possível compreender livremente coisas que estão a grandes distâncias ou que acontecerão décadas ou séculos no futuro.
+
+Esse princípio se aplica também aos seres humanos. Tentar explicar algo com muitas palavras é um sinal de um nível inferior. Quanto mais elevado o nível, mais concisa é a comunicação. Falar de forma sucinta e, ainda assim, ser perfeitamente compreendido é o mais alto grau de comunicação. Pessoas que falam de maneira prolixa geralmente demonstram um nível inferior e uma inteligência limitada. Por terem dificuldade em compreender as coisas de forma simples, presumem que os outros também não entenderão e, por isso, se estendem em explicações. Na religião, o mesmo se aplica: quanto mais insistente e repetitiva, mais inferior é a religião; quanto mais sucinta, mais elevada. Por isso, na nossa fé, não há sermões. Religiões que repetem incessantemente a mesma coisa ou que se prolongam em sutras e pregações são de nível inferior. Há cerimônias que duram meio dia. A verdade é simples. O que é complicado não é a verdade. A obra “O Capital” de Marx é provavelmente o exemplo máximo de complicação. Bem, como se destina aos trabalhadores, talvez não precise ser muito elevada. Por exemplo, “o sol nasce no leste”. Isso é uma verdade. Não muda, seja onde for, no passado ou no presente, e não há como expressá-la de outra forma. Nós ensinamos que, para ser feliz, basta fazer os outros felizes, e assim nos tornamos felizes na mesma medida. Como as pessoas não compreendem isso, damos vários exemplos para explicar. As pessoas de hoje têm a mente muito limitada. Por isso, levam mais de dez anos entre a escola primária, o ginásio e a universidade. Suas mentes são realmente obtusas. Ou melhor, foram tornadas obtusas.
+
+**Pergunta: Qual o mecanismo por trás das fotografias de espíritos?**
+
+Essa é uma pergunta natural. A lente de uma câmera possui uma acuidade cinco vezes maior que a do olho humano. Sua capacidade de “ver”, por assim dizer, é mais intensa. A expressão “capacidade de ver” não é a mais adequada; seria melhor dizer que sua capacidade ou densidade de registro é maior. As fotografias de espíritos registram, de fato, a presença de espíritos. Já vi muitas delas, algumas bastante nítidas. As minhas próprias fotografias costumam ser bem claras. Geralmente, são espíritos humanos que aparecem, mas também existem fraudes. Não parecem ser comuns no Japão, mas já vi uma fotografia ocidental que supostamente mostrava Cristo; era uma farsa. A imagem etérea, semelhante a fumaça, fora criada com algodão. Quanto aos espíritos humanos, às vezes apenas o rosto aparece, ou eles estão sobre os ombros de alguém, ou pairando acima da pessoa. Parece que câmeras com maior sensibilidade conseguem captar melhor os espíritos. O Mundo Espiritual está repleto deles; é como uma procissão noturna de cem demônios. Certa vez, conheci uma pessoa com uma vidência muito aguçada, e ela me disse que era uma sensação terrível. Via fantasmas, espíritos de animais e demônios por toda parte. Ela chegou a procurar o Mestre Deguchi, na época em que eu era membro da Oomoto, para pedir que sua vidência fosse retirada. Conheci também um praticante de outra religião que, sempre que viajava de trem, via os espíritos das pessoas que haviam sido atropeladas e se sentia muito perturbado. Assim, enquanto alguns sofrem por ver demais, outros sofrem por não conseguir ver nada. (risos)
+
+**Pergunta: Quando recebo Johrei, não bocejo nem arroto. Contudo, quando ministro Johrei, algumas pessoas apresentam essas reações. Qual a razão para isso?**
+
+Isso é realmente curioso, pois normalmente é quem recebe que manifesta essas reações. Não estaria a pergunta escrita ao contrário?
+
+**Pergunta: Não, está correta.**
+
+Entendo. Então, você está assumindo a condição do outro. A toxina está se transferindo para você. Existem pessoas que assumem a doença do outro e pessoas que não o fazem. Isso se deve à diferença entre as linhagens do Sol e da Lua.
+
+**Pergunta: Nesse caso, assumir a doença não é prejudicial para o corpo?**
+
+Bem, se for apenas um bocejo, não há problema. Mas se a carga assumida for pesada, pode ser prejudicial. É o que acontecia com Tokuharu Miki, da Hitonomichi. Ele absorvia a doença das pessoas.
+
+**Pergunta: Como se explica cientificamente esse ato de “assumir”?**
+
+Por ser da linhagem da Lua, ele purifica com o elemento hidrogênio. O espírito de Miki vai até o doente e lava suas impurezas, e, ao fazê-lo, também se contamina. É como lavar roupa.
+
+**Pergunta: E a toxina do paciente é completamente removida?**
+
+Pode ser removida por completo, pela metade ou em um terço. Portanto, nem todas as doenças são curadas; algumas persistem. Quando Tokumitsu tratou o Sr. Miki, ele removeu completamente a toxina da asma dele, mas, em contrapartida, o próprio Tokumitsu sofreu por um mês. Pessoas com essa constituição, se assumirem repetidamente a doença dos outros sem transferi-la a Deus, acabarão morrendo de tanto sofrimento.
+
+**Pergunta: Quando o senhor diz “Deus”, a qual Deus se refere?**
+
+Ao líder da linhagem da Lua.
+
+**Pergunta: Seria Susanoo-no-Mikoto?**
+
+Sim, Susanoo-no-Mikoto... ou melhor, Tsukuyomi-no-Mikoto. A cura se dá pela Lua, lavando com água. O meu método é queimar com fogo, pois sou do elemento fogo.
+
+**Pergunta: Sendo assim, perdoe-me a pergunta, mas Tsukuyomi-no-Mikoto não ficaria coberto de toxinas? (risos)**
+
+Se fosse Tokuharu Miki, sim. Mas Tsukuyomi-no-Mikoto é um deus de primeira classe, com um poder espiritual completamente diferente. Isso não acontece com ele.
+
+**Pergunta: Nesse caso, o que acontece com a toxina assumida?**
+
+No final, ela vai para o Sol; é queimada pelo elemento fogo.
+
+**Pergunta: Ao se tornar um fiel deste Caminho, a pessoa que assume a doença dos outros pode ser gradualmente curada?**
+
+Sim, gradualmente, ela será curada. Mas aquele homem, Tokumitsu Kaneda, era uma pessoa notável. Contudo, a polícia o via com maus olhos e o perseguiu implacavelmente, de modo que ele não pôde fazer nada. Se estivesse vivo hoje, seria uma figura de grande importância. Era um homem de imenso poder espiritual.
+
+**Pergunta: O que significa, espiritualmente, “passar o sermão final”?**
+
+É aquele ritual em que se diz: “Tu és, em tua origem, como uma árvore seca”. É uma forma de admoestar o espírito, de fazê-lo arrepender-se.
+
+**Pergunta: Quando um espírito atrai uma pessoa deste mundo para o Mundo Espiritual, ele o faz com a permissão do deus supervisor?**
+
+Não, ele o faz sem permissão. Tais atos não são permitidos. Esse espírito não sabe que, ao atrair um humano e tirar-lhe a vida, ele cairá um nível no Mundo Espiritual como punição por seu crime. Por isso, é bom admoestá-lo. E a pessoa que foi atraída também vai para o inferno. É, em suma, um suicídio forçado, uma situação verdadeiramente lamentável. Assim como no mundo humano, no Mundo Espiritual também existem espíritos meticulosos e outros ardilosos. Há os que obedecem aos deuses supervisores e os que desobedecem e transgridem as proibições. Os que atraem os humanos são os que transgridem. Diz-se que eles vêm em carruagens de fogo, mas parece que é relativamente fácil escapar do inferno.
+
+**Pergunta: Diz-se que crianças inteligentes morrem cedo. Haveria uma causa espiritual para isso?**
+
+Isso é absolutamente verdade. Aqueles a quem se diz “moleque, morra logo!” costumam viver muito (gargalhadas), enquanto as crianças boas e admiráveis tendem a morrer cedo. Podemos pensar da seguinte forma: um espírito, mesmo no Mundo Espiritual, sente uma solidão imensa e, ao desejar um companheiro, aproxima-se de uma pessoa de bom coração. Pessoas de má índole não são dóceis. É mais fácil atingir o objetivo com uma pessoa dócil. Por isso, acabam matando a criança de boa índole, e a que não tem grande valor sobrevive. Além disso, uma criança boa e preciosa, ao menor sinal de mal-estar, recebe tratamento médico, o que a enfraquece. Esse fator é muito relevante. Ao ingressar nesta fé e compreender a verdade sobre doenças e medicamentos, tais ocorrências cessam. Outra causa pode ser a falta de virtude dos pais. Um ancestral pode ter reencarnado naquela criança boa, e ela, para assumir os pecados dos pais, parte para o Mundo Espiritual. Existem outras razões, mas geralmente são essas as principais.
+
+**Pergunta: Tenho dois filhos, um menino e uma menina. Sinto uma aversão incontrolável pela menina em qualquer situação, enquanto sinto um amor imenso pelo menino. Haveria alguma razão espiritual para isso?**
+
+Sim, há uma forte razão para isso. Deve-se à relação que tiveram em uma vida passada. Sendo todos reencarnações da mesma linhagem familiar, é provável que, em uma vida anterior, essa mãe tenha sido maltratada por um deles e bem tratada pelo outro, e esse sentimento persiste. Em uma vida passada, eles podem ter sido seus filhos, irmãos ou parentes, e um era detestável enquanto o outro era amável.
+
+Sentimentos como amor e ódio são apegos. Ao ingressar nesta fé, os apegos se desvanecem, e esses sentimentos diminuem gradualmente. O apego é a coisa mais temível. O principal objetivo da fé é eliminar o apego. Somente quando o apego é verdadeiramente eliminado pela fé é que se pode alcançar a felicidade.
+
+**Pergunta: A índole e a aparência de uma criança às vezes se assemelham a um dos pais, e às vezes a nenhum deles. Qual a razão para isso?**
+
+Isso depende das circunstâncias. Por exemplo, se durante a gravidez a mãe convive muito com o pai dentro de casa, a criança se parecerá com ele. Mas se o pai passa muito tempo fora, a criança pode se assemelhar a alguém que esteja sempre por perto da mãe. Durante a gestação, costuma-se pendurar quadros de pessoas belas ou de grandes personalidades. Isso se deve ao fato de que, ao olharmos constantemente para uma imagem, acabamos nos assemelhando a ela. Por isso, a crença na educação pré-natal, de que a mãe, ao contemplar rostos belos, dará à luz um filho bonito, tem seu fundamento. A leitura das coletâneas “Diálogos da Fé” e “Paraíso Terrestre” durante a gravidez é extremamente benéfica. Isso influencia a alma da criança, resultando em um filho de bom coração. Claro, às vezes o pai pensa: “Esta criança deveria ser minha, mas não se parece nada comigo. Que estranho...”, mas isso é outra história. (gargalhadas)
+
+**Pergunta: Tenho cinquenta e dois anos e minha esposa, cinquenta e seis. Não temos filhos e gostaríamos de adotar. O que o senhor aconselha? E, caso adotemos, seria melhor um menino ou uma menina?**
+
+Nesses casos, o melhor a fazer é pedir com fervor a Komyō Nyorai-Sama. Se pedirem, não precisarão escolher; Ele lhes concederá uma boa criança que será benéfica para o futuro de vocês. Não há necessidade de se preocupar com isso.
+
+**Pergunta: Algumas pessoas afirmam que os animais não possuem atividade mental. O que o senhor pensa a respeito?**
+
+A atividade mental humana é rica em intelecto, emoção e vontade. Afirmar que os animais são completamente desprovidos disso não é correto. Os animais também têm sentimentos. Desejos de fazer isto ou aquilo, sentimentos de dor, alegria, tristeza – eles os possuem. Um ser humano que reencarna como animal, por exemplo, tem os mesmos sentimentos de um humano. E diz-se que os animais não riem, mas isso não é verdade. A raposa ri; ela abre a boca e ri. O tanuki, especialmente, ri muito. Eles também podem se enfurecer e morder, e sentir tristeza. Diz-se que, quando Taisuke Shiobara se despediu de seu cavalo, “Ao”, o animal chorou. Bem, isso provavelmente é uma lenda, mas até mesmo um cavalo pode expressar tristeza.
+
+Naturalmente, a atividade mental dos animais é de nível inferior, enquanto a dos humanos é superior. Um cão persegue uma fêmea, fareja-a, morde-a. Se um homem fizesse isso com uma mulher no meio da rua, seria um grande problema; ele seria imediatamente levado para um hospital psiquiátrico. (risos) Os seres humanos, ao contrário dos animais, possuem um espírito mais elevado e autocontrole. Somos superiores, sim. Contudo, entre os humanos, os de nível inferior são como animais, pois seu espírito guardião principal não consegue controlar os instintos do espírito guardião secundário.
+
+**Pergunta: Diz-se que tudo na criação possui espírito. Humanos e animais, após a morte, vão para o Mundo Espiritual, passam pela purificação e reencarnam. O que acontece com as plantas depois que morrem?**
+
+Humanos e animais são seres espirituais, enquanto as plantas estão em um estado intermediário entre as substâncias inorgânicas, como pedras e terra, e os animais. São, em suma, seres semiespirituais. Portanto, quando uma planta morre, é o seu fim. Contudo, há casos em que um espírito se apossa de uma planta. Nessas situações, a planta adquire mais características animais. Existem também as plantas-animais.
+
+As plantas conseguem entender a linguagem humana. Certa vez, um jardineiro me ensinou que, se uma árvore se recusa a florescer, basta dizer a ela: “Se não florescer este ano, vou cortá-la”. E ela florescerá. Naquela época, havia uma árvore em meu jardim que não florescia de jeito nenhum. Perguntei ao jardineiro o que fazer, e ele me sugeriu que eu “falasse com ela”. Segui seu conselho e, de fato, a árvore floresceu. (risos) Isso mostra que ela compreendeu a linguagem humana. E quando se fala que uma planta assombra, é porque um espírito se apossou dela.
+
+**Pergunta: Em uma certa família na província de Tochigi, várias crianças nasceram mudas. Que tipo de carma espiritual estaria por trás disso?**
+
+Isso é obra de um dragão de madeira. É a maldição por terem derrubado uma árvore indevidamente. E não uma árvore qualquer, mas uma de grande porte. Geralmente, pinheiros, salgueiros, ginkgos e até mesmo ameixeiras podem amaldiçoar. Certa vez, curei uma pessoa que ficou surda após cortar uma ameixeira. Portanto, para casos como esse, não há outro método de cura senão a fé. Alguns se curam rapidamente, outros são mais resistentes, mas, por mais grave que seja o caso, com perseverança, cerca de metade deles pode ser curada.
+
+**Pergunta: Uma cobra-rateira que vive na casa de um membro tem causado problemas, comendo ovos e matando galinhas. Tentei repreendê-la com a Palavra Divina, mas seu comportamento não mudou. Posso me livrar dela?**
+
+Ah, bem, assim como os humanos, existem cobras de boa e de má índole. Entre os humanos, há os honestos e dóceis, e os que praticam estelionato, assassinato e roubo. Essa cobra pertence à categoria dos assassinos e ladrões. Nesse caso, o que se deve fazer é oferecer-lhe uma certa quantidade de alimento em um local fixo. As cobras gostam muito de arroz cru. Esta parece ser bem gulosa. Se você matar uma cobra de má índole, ela o amaldiçoará. Criaturas como essa têm um poder considerável. Já que não há outra solução, ofereça-lhe comida e reverencie-a. Se você entoar a Oração Amatsu Norito constantemente, ela gradualmente se tornará uma cobra de boa índole. E, então, passará a protegê-lo. Por exemplo, ela pode fazer com que você obtenha mais alimento do que o necessário para o seu sustento. Se for em uma área rural, a colheita pode ser abundante; se for no comércio, o negócio pode prosperar. Ela tem poder para fazer isso.
+
+**Pergunta: Gostaria de perguntar sobre a relação entre os tipos sanguíneos, conforme definidos pela medicina, e as toxinas, e sobre as mudanças nas toxinas por meio do Johrei.**
+
+O tipo sanguíneo está relacionado à etnia. O povo japonês possui diversas linhagens espirituais, e essa diferença se manifesta nos tipos sanguíneos. Pode-se dizer que não há relação com as toxinas. Ou, se houver, é mínima. As toxinas, em sua maioria, são originárias de medicamentos. Se os ancestrais tomaram muitos remédios, a quantidade de toxinas será maior. Portanto, não há uma relação significativa com o tipo sanguíneo.
+
+Com o Johrei, a quantidade de toxinas diminui. Um caso interessante foi o de uma pessoa com pus saindo do ouvido, um paciente com otite média. No início, o pus era amarelado. Com o Johrei, ele foi clareando gradualmente, até se tornar uma água transparente. Isso demonstra claramente a redução das toxinas. O Johrei dilui as toxinas concentradas, eliminando a dor. Quando a toxina se dissolve pelo calor e tenta sair por algum lugar, causa inchaço. Nesse momento, ela pressiona e irrita os nervos, causando dor. Quando o pus se dilui, a pressão cessa, e a dor desaparece.
+
+**Pergunta: O suor frio também é uma ação purificadora?**
+
+Sim, certamente. A sensação de embaraço também é uma forma de purificação. Como não é algo que se possa provocar intencionalmente, deve-se, ao contrário, alegrar-se com isso.
+
+**Pergunta: Eu sou uma pessoa um tanto desinibida e raramente tenho suor frio. (risos)**
+
+Mas o suor frio não está ausente apenas porque se é desinibido. Mesmo uma pessoa assim, se sentir que está em perigo, terá suor frio.
+
+**Pergunta: Cerca de seis meses após o casamento, comecei a ter febre. Pela manhã, a temperatura é de 37 graus; à tarde, sobe para quase 38 ou 39. O médico disse que não há nada de anormal e que a febre é causada pela gravidez. É possível ter febre por causa da gravidez?**
+
+Não, isso não se deve à gravidez. O que esse médico está pensando? Se a cada gravidez se tivesse tanta febre, seria insuportável. A gravidez é um processo fisiológico, não uma doença. Portanto, essa febre não tem relação com a gestação. Coincidentemente, no momento em que engravidou, iniciou-se uma purificação, e as toxinas do seu corpo começaram a se dissolver. Se há febre, certamente existe um acúmulo de toxinas em algum lugar. É preciso ministrar Johrei nesse local.
+
+Quando não há febre nem dor, não é necessário ministrar Johrei. Receber Johrei quando se sente algum desconforto é bom, mas não há por que provocar uma purificação quando não se sente nada. Seria apenas um trabalho desnecessário. Isso é um equívoco.
+
+**Pergunta: Um homem de setenta e quatro anos, há cerca de seis meses, tem dificuldade para evacuar, mesmo sentindo vontade. O médico diagnosticou câncer retal. Ele pode ser salvo pelo Johrei?**
+
+A dificuldade para evacuar ocorre porque o canal por onde as fezes passam no reto se estreitou, dificultando a passagem. Nesses casos, os médicos prescrevem laxantes ou enemas, o que não é muito bom. O reto de uma pessoa nessas condições fica fino como um incenso, o que exige um tratamento mais demorado. Embora digam que é câncer, na maioria das vezes, são toxinas que pressionam o reto, causando essa condição. Em caso de câncer retal, os médicos realizam uma cirurgia para remover a parte afetada e criam um ânus artificial na lateral do abdômen. Contudo, a evacuação ocorre sem aviso, e o paciente precisa usar fraldas. Além disso, o intestino, se exposto, leva à morte, então é preciso mantê-lo firmemente amarrado. Há também o problema dos gases e do odor fétido das fezes. É uma situação verdadeiramente trágica. Geralmente, esse é o resultado da cirurgia. Mesmo que digam que é câncer, o verdadeiro câncer é raro. Pessoas nessas condições certamente têm um nódulo de toxinas na região entre o umbigo e a lateral do abdômen. É preciso ministrar Johrei nesse local e também nos rins. Os nódulos abdominais se originam nos rins. Com Johrei, o câncer retal geralmente pode ser curado.
+
+**Pergunta: Há pessoas cujas mãos tremem muito ao segurar uma caneta ou papel. Qual a razão para isso?**
+
+Isso ocorre porque há um nódulo de toxinas na região da articulação do braço. Quando a pessoa tenta aplicar força e concentra os nervos, a mão treme. É um caso comum. E quanto mais ansiosa a pessoa fica, mais ela treme. Ministrando Johrei do pescoço aos ombros e na articulação do braço, a condição pode ser curada.
+
+**Pergunta: Após receber Johrei, o número de verrugas em meu rosto aumentou. Por quê?**
+
+Isso é excelente. O que deveria sair de qualquer maneira apenas saiu um pouco mais rápido. Portanto, assim que tudo tiver saído, você estará curado. O que sairia aos poucos, em pequenas quantidades, saiu de uma vez. É motivo de grande alegria.
+
+**Pergunta: O poço da minha casa tinha a melhor água da aldeia, mas, devido ao terremoto de Nankai em dezembro de 1937, a água secou. Há dois anos, a água voltou a se acumular, mas tornou-se dura. Desde que ingressei na fé, em março do ano passado, tenho ministrado Johrei, e a água ficou mais clara, mas continua dura. Como posso receber essa graça mais rapidamente?**
+
+Não é que não haja um método, mas se a fé for superficial, pode ser difícil. O melhor método é ajudar as pessoas por meio da fé. Além disso, e isso é um detalhe, quando ganhar dinheiro, use-o da melhor forma possível. Assim, a qualidade da água melhorará. A razão é que a água e os bens materiais estão interligados. Por isso se diz “gastar dinheiro como água”; é uma expressão muito acertada. Usar o dinheiro para fins egoístas não adianta nada. Ao mesmo tempo, é preciso pedir com fervor a Komyō Nyorai-Sama e ministrar Johrei.
+
+**Pergunta: Em uma certa casa, a água do poço normalmente é avermelhada e enferrujada, mas, quando alguém na casa adoece, a água fica limpa. Qual a razão para isso?**
+
+Isso é curioso. É como se o doente estivesse absorvendo a ferrugem. Deve ser um deus-dragão. Esse deus-dragão deve ter pecados e impurezas, e, ao purificá-los constantemente, turva a água. Em certas ocasiões, por algum motivo, ele se aproxima de um humano, e, nesse intervalo, a água fica limpa. É esse o significado. Contudo, isso não durará para sempre. Chegará um momento em que a água ficará limpa permanentemente.
+
+**Pergunta: Qual a direção ideal para cavar um poço? E a presença ou ausência de água tem alguma relação espiritual com o chefe da família?**
+
+O ideal para um poço é a direção sudoeste (*hitsujisaru*). A partir da posição do chefe da casa, a direção nordeste (*ushitora*), o “portão do demônio”, corresponde ao fogo e à água, enquanto a direção sudoeste, o “portão traseiro do demônio”, corresponde à água e à pedra. Portanto, colocar água e pedra na direção sudoeste é extremamente benéfico. Bens materiais, dinheiro e riquezas vêm da direção sudoeste. Em contrapartida, a direção nordeste deve ser purificada. Doenças espirituais muitas vezes são curadas ao se purificar o nordeste. Do “portão do demônio” emana uma energia espiritual pura e benéfica que enfraquece os espíritos malignos. Por isso, os projetos que estou conduzindo atualmente envolvem a construção de um salão na montanha que corresponde ao nordeste, e, na direção sudoeste, que corresponde à água e à pedra, estou criando elementos com essas características. Ali há um riacho esplêndido, que, após uma análise cuidadosa, revelou-se algo extraordinário, e eu o batizei de Yabakei de Atami. É de uma beleza indescritível. Deus o preservou para nós. As margens do riacho são de rocha, combinando água e pedra. Assim, tudo está perfeitamente alinhado com a Vontade Divina. Quando estiver concluído, será um lugar de grande renome. (Vide *Registro dos Colóquios de Luz*, nº 10)
+
+Quanto a encontrar água ao cavar um poço, isso tem uma grande relação com o chefe da família. Pessoas abençoadas com bens materiais encontrarão água; são pessoas que possuem virtude. As que não têm virtude não encontrarão água e também não serão abençoadas com bens materiais. É a lei da correspondência, e não há o que fazer.
+
+**Pergunta: O mesmo se aplica ao ouro?**
+
+Sim, o mesmo se aplica ao ouro. Uma pessoa sem virtude jamais encontrará ouro. Isso se aplica a tudo, mas especialmente ao ouro. Em minas de ouro, é comum que não se encontre nada por muito tempo, mas, quando o dono muda, o ouro aparece subitamente. O princípio é o mesmo.
+
+**Pergunta: Ao cavar um poço, como posso encontrar um local com água abundante?**
+
+Peça com fervor a Komyō Nyorai-Sama. Antes de cavar, ore: “Por favor, indique-me um local com água abundante”. Em seguida, caminhe pela propriedade. O lugar onde você sentir “quero cavar aqui” é o local indicado pela proteção divina. Cave ali.
+
+**Pergunta: Um homem de trinta e nove anos, que sempre dependeu da água dos vizinhos, decidiu cavar um poço em cooperação com eles no canto nordeste da propriedade. Assim que inseriu o tubo de bambu e se sentou na soleira da porta, ele caiu, seu abdômen superior enrijeceu, e ele gritava de dor: “Tenho uma caixa no peito, tirem-na!”. Após cerca de quarenta minutos de Johrei, ele voltou ao normal. Isso se deve à má localização do poço?**
+
+Uma caixa, que interessante. Sim, cavar um poço no canto nordeste foi um erro grave. É preciso mudar de lugar. O ideal para um poço é o sudoeste. O buraco deve ser coberto com terra, e um pinheiro deve ser plantado no local.
+
+**Pergunta: Em minha aldeia (em uma certa vila na província de Mie), os moradores fizeram uma coleta de fundos para cavar um poço de irrigação. A profundidade era de 180 metros, o diâmetro do cano de ferro era de 30 centímetros, e o peso total era de 15 toneladas. No momento de inserir o último cano, o eixo da roldana se partiu subitamente, e o cano caiu cerca de 7 ou 8 metros. Estou preocupado que dois meses de trabalho e um custo de 700 a 800 mil ienes tenham sido em vão. Isso foi resultado de se ignorar a natureza ou há alguma outra causa espiritual?**
+
+Sim, há algo de espiritual nisso. É uma história absurda. Talvez algo esteja obstruindo o caminho. A aldeia deve ter um acúmulo considerável de pecados e impurezas. Por isso, era necessário ter essa perda. Ao fazer isso, os pecados são purificados. O dinheiro usado no projeto estava impuro. Se uma certa quantia de dinheiro impuro não for removida, a água não será concedida. Portanto, basta recomeçar. Desta vez, a água aparecerá. Parece uma perda, mas, no fim, não é, pois uma parte dos pecados é eliminada. Ao compreender isso, deve-se alegrar com a purificação dos pecados. A queima de santuários e templos também ocorre por esse motivo. Grandes templos geralmente foram reconstruídos duas ou três vezes. O Templo Horyu-ji em Nara é um exemplo. Isso acontece porque o dinheiro usado na construção era impuro, não era uma oferenda pura. Foi construído com dinheiro que não foi pago devidamente ou com dinheiro obtido de forma desonesta. E, como era mantido com esse tipo de dinheiro, inevitavelmente precisava ser purificado. Por isso, queimava.
+
+Na nossa organização também, todos os anos, misteriosamente, uma quantia considerável de dinheiro desaparece. Isso acontece porque, entre as muitas doações que recebemos, há dinheiro extremamente impuro, que Deus não pode utilizar e que precisa ser descartado. Ele desaparece de forma estranha e inesperada. Na verdade, não é que desapareça, mas precisa ser liberado. É esse o significado.
+
+A interpretação humana muitas vezes é o oposto da realidade. Até agora, as pessoas se entristeceram com o que deveriam se alegrar e se alegraram com o que deveriam se entristecer, agindo de forma confusa. Por isso, a confusão só aumenta. Com o dinheiro, por exemplo, pensa-se que todo dinheiro é igual, mas, espiritualmente, há uma grande diferença. O dinheiro também tem suas máculas. Isso ocorre porque o pensamento humano penetra facilmente no dinheiro. Atualmente, as ações estão em alta, e muitas pessoas querem lucrar com elas. O verdadeiro objetivo das ações é receber dividendos, mas hoje o objetivo é a especulação, o que não é correto. Por causa disso, o dinheiro que circula no mercado de ações está impregnado do ressentimento daqueles que vivem da especulação. No mercado de ações, para cada um que ganha, noventa e nove perdem. Portanto, o dinheiro que se traz da bolsa de valores vem carregado do ressentimento dos que perderam. A frustração da perda, o apego, o ressentimento e a inveja em relação aos que ganharam vêm junto e se apegam às notas de dinheiro. O dinheiro do mercado de ações é algo terrível; está impregnado de apego. Uma pessoa com vidência me disse que, ao olhar para as notas, vê muitos rostos pequenos, todos chorando ou com expressões de ressentimento e ódio. E as pessoas guardam esse dinheiro no bolso, felizes por terem lucrado. (risos) Esse dinheiro nunca permanece por muito tempo; ele sempre vai embora. Há um ditado que diz: “Dinheiro sujo não para na mão”, e é perfeitamente verdadeiro.
+
+Em Kabutocho, o distrito financeiro, nenhuma corretora de ações dura duas ou três gerações. Eu mesmo, no passado, especulei bastante. Cheguei a criar minha própria sociedade em comandita; gostava muito do mercado. Mas, no fim, perdi dinheiro. (risos) Perdi porque ganhei. No mercado, é melhor perder desde o início. Ganhar parece ser bom, mas, no fim, leva à perda. É como com as mulheres. Se você é rejeitado desde o início, desiste. (risos) Mas se uma mulher gosta de você e você se apaixona, mesmo que se separe dela, você pensa “eu sou desejado” e se torna vaidoso (gargalhadas), e acaba não conseguindo levar uma vida séria. O mesmo acontece com o mercado: perder desde o início é muito bom. Se você ganha, fica empolgado e quer ganhar mais. Se perde, quer recuperar o prejuízo. De qualquer forma, você não consegue se afastar. E mesmo que ganhe, é um dinheiro cheio de ressentimento; ele nunca permanecerá com você. Depois que compreendi essa realidade espiritual, nunca mais fiz algo do tipo. Não é que eu não faça, eu não consigo fazer; é ridículo demais. Mesmo que eu ganhasse, estaria adquirindo o ressentimento dos outros, e o dinheiro iria embora rapidamente. E se fosse embora para uma boa causa, tudo bem, mas ele sempre vai embora por meio de doenças, desastres ou outras coisas ruins.
+
+Assim, não apenas as doenças, mas tudo na vida deve ser interpretado espiritualmente. As grandes corretoras de ações não sobrevivem à segunda geração. Em Izusan, a mansão O está à venda. Uma pessoa chamada O ganhou muito dinheiro com as ações da NYK durante a Primeira Guerra Mundial. Para proteger seu lucro, ele criou a O Trust, pensando que estaria seguro. O pai morreu, e agora é a vez do filho, mas a família está em declínio, vendendo suas propriedades uma a uma, até restar apenas aquela mansão, que agora também está à venda. E como não conseguem vendê-la, decidiram dividi-la em lotes. Creio que estão sendo enganados e explorados pelos corretores. Enfim, por mais que se tome cuidado, não adianta. O dinheiro do mercado de ações se dissipa como fumaça. M, o homem que mais lucrou em Kabutocho, fez um curso conosco na época da Terapia Purificadora. Ele achava que o erro era manter o dinheiro em ações e que seria melhor investir em terras. Ele comprou terras, que se valorizaram enormemente. Antes da guerra, sua fortuna era de quase cem milhões de ienes. Contudo, ele perdeu tudo com o imposto sobre a propriedade. Se fossem pinturas ou antiguidades, ainda seria possível escondê-las, mas com terras não há o que fazer. Ele perdeu tudo. E K também faliu; a atual sede da Tengoku-kai era sua casa. Ele também lucrou com as ações da NYK. E assim por diante... Bem, não adianta falar tanto sobre corretores de ações. (risos) A questão é que todos eles acabam mal, como diz o ditado: “Dinheiro sujo não para na mão”. Pode-se pensar que não haveria problema em usar o dinheiro ganho no mercado de ações para a Obra Divina, mas isso também não é correto. Falei sobre isso porque imaginei que alguns pudessem ter essa ideia.
+
+E há também o seguinte: a organização precisa de dinheiro. De vez em quando, alguém aparece oferecendo dez ou vinte milhões de ienes. Eu sempre recuso. Por quê? Porque Deus precisa salvar muitas pessoas. E, para que muitas pessoas sejam salvas, o maior número possível de pessoas deve servir à Obra Divina, receber virtude e ser purificado. Por meio dessa virtude, seus pecados são eliminados. Se apenas uma pessoa servir, apenas ela acumulará virtude, e as outras não serão salvas. Dez milhões de ienes podem parecer a mesma coisa, não importa de onde venham, mas a diferença é enorme. E, na verdade, doações de valores tão altos raramente acontecem. Se acontecerem, certamente há uma ambição oculta por trás. A pessoa quer obter algo com esse dinheiro. Recentemente, um novo-rico do setor de construção veio oferecer dez ou vinte milhões de ienes. Ele certamente tem a ambição de conseguir os contratos de construção da Igreja Kannon ou da Igreja Miroku e abater o valor da doação. Eu percebo essas coisas. Por isso, é melhor não aceitar esse tipo de dinheiro. Na verdade, não se “faz” uma doação; “tem-se a permissão de doar”. Ter a permissão de doar e de ter seu dinheiro usado por Deus é uma grande graça.
+
+---
+
+# Coletânea de Ensaios do Mestre Okada Jikanshi
+
+**Categoria:** sasshi | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** 箱根美術館特別展パンフレット
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-26
+
+## Coletânea de Ensaios do Mestre Okada Jikanshi
+Uma Visita ao Museu de Arte de Hakone
+Por Tanigawa Tetsuzo
+— Um diálogo com foco em peças de artesanato —
+Publicado no panfleto da Exposição Especial do Museu de Arte de Hakone, 26 de agosto de 1953
+
+Visitante: Ainda não consegui ir este ano. Há muitas peças novas em exposição?
+
+Anfitrião: Eu aguardava ansiosamente a reabertura, em 21 de abril, mas um compromisso me impediu de ir; só consegui visitar o museu ontem. Há, de fato, um número considerável de novas obras em exibição. Logo na primeira sala, deparei-me com a série completa das “Cinquenta e Três Estações da Tōkaidō”, de Hiroshige, alinhadas em todo o seu esplendor. Trata-se da primorosa edição Hoeido. Ademais, há um biombo com a temática *De Quem São Estas Mangas?*. No campo da cerâmica, destacam-se uma tigela quadrada, obra colaborativa entre Korin e Kenzan, e uma outra de Kenzan, vazada, com motivos de juncos e gansos. Nenhuma dessas peças pôde ser vista no ano passado, e há ainda muitas outras obras exibidas pela primeira vez.
+
+Visitante: E quanto às belas peças de Kutani, Kakiemon e Nabeshima que estavam expostas no ano passado? Como estão este ano?
+
+Anfitrião: Elas permanecem quase todas na mesma sala. Pessoalmente, nunca senti grande atração pelas cerâmicas de Imari ou Nabeshima; contudo, devo admitir que, dispostas daquela forma, elas não deixam de ter seu encanto. O museu é um lugar curioso. Uma tigela de chá que, em um salão de chá, nos parece primorosa ao sermos servidos, perde completamente o seu fascínio quando isolada em uma vitrine de exposição. A tigela de chá, por sua vez, só ganha vida na penumbra de um salão de chá, quando a acolhemos com ambas as mãos, sentindo o calor do líquido esverdeado e cremoso que ela contém, e a levamos aos lábios. Observá-la através de um vidro, sob uma luz ofuscante, de cima e de lado, é sentenciá-la à morte. Já as peças de Imari e Nabeshima possuem uma suntuosidade algo distante para serem apreciadas no manuseio íntimo. Nesse sentido, elas ganham vida justamente em vitrines como estas, onde sua beleza visual pode ser plenamente contemplada. Claro que não se pode generalizar, pois peças de Kutani ou Kakiemon, igualmente suntuosas em suas cores, são magníficas tanto no museu quanto na intimidade do nosso lar.
+
+Visitante: Para mim, as peças de Kutani superam até mesmo as cerâmicas chinesas com esmalte vermelho. Em se tratando de cerâmica pintada, acredito que sejam as melhores do mundo.
+
+Anfitrião: Naquela sala, há algumas obras-primas de Kutani. Em especial, o grande prato com a cena de um banquete, classificado como Objeto de Arte de Importância, é uma peça imponente, com uma pintura incomum também no verso.
+
+Visitante: E como está a segunda sala este ano?
+
+Anfitrião: No ano passado, se bem me lembro, este espaço era dedicado a artistas contemporâneos. A escultura “Gato” de Sato Gengen também estava aqui, creio eu. Neste ano, a maior parte do acervo é composta por antiguidades ocidentais. Há também cerâmicas chinesas muito antigas e de grande valor, como uma peça de cerâmica negra do Período dos Reinos Combatentes e um conjunto de mais de dez figuras de músicos e dançarinos policromados da Dinastia Han. Contudo, a maioria das obras é do Egito e da Grécia.
+
+Visitante: Peças egípcias e gregas não estavam em exibição no ano passado, certo?
+
+Anfitrião: Exato, não havia nenhuma. Em outro local, havia uma estatueta de Buda de Gandara, de período inicial, que ainda retinha traços da influência grega, mas era, inegavelmente, uma obra oriental. Por essa razão, sou favorável a essa expansão do acervo. Obras desse tipo são raras no Japão e despertam pouco interesse no público em geral, mas são mundialmente apreciadas. Seria muito valioso se pudéssemos vê-las reunidas aqui. Todavia, para tal, seria necessário ouvir a opinião de especialistas e fazer uma seleção mais criteriosa das peças.
+
+Visitante: Mas quantos peritos nessa área temos hoje no Japão?
+
+Anfitrião: No que tange à arte grega, ainda temos alguns, mas quando se trata do Egito, o cenário é desolador. Além disso, poucos comerciantes de arte se dedicam a esse campo.
+
+Visitante: Eu diria que, mais do que poucos, eles eram praticamente inexistentes até agora.
+
+Anfitrião: Durante o período de inflação na Europa após a Primeira Guerra Mundial, a galeria Yamanaka Shokai chegou a importar um número considerável de peças, mas hoje elas se encontram dispersas, uma aqui, outra acolá, e quase não há oportunidade de vê-las em conjunto. Existem um ou dois comerciantes dedicados, é verdade, mas a escassez de obras é um grande empecilho.
+
+Visitante: Contudo, o Japão é um lugar onde, por vezes, tesouros extraordinários surgem nos lugares mais inesperados. Ainda não sabemos o que pode vir à tona.
+
+Anfitrião: Desde muito tempo, acalento o desejo de reunir, sob um mesmo teto, todas as peças egípcias e gregas que se encontram no Japão.
+
+Visitante: E a terceira sala?
+
+Anfitrião: Ali também há muitas obras novas. Das que já estavam, a jarra *meiping* em estilo *kakiotoshi*, com decoração de peônias sobre fundo branco, da cerâmica de Cizhou — também classificada como Objeto de Arte de Importância —, continua sendo esplêndida. Desta vez, há três obras de caligrafia na sala. O pergaminho horizontal com grandes caracteres de Wuzhun Shifan, intitulado “Nuvem que Retorna”, creio que já estava exposto no ano passado. As novidades são obras de Mokuan e Sesson Shōchō. Desde jovem, nutro uma admiração especial pelas caligrafias de Mokuan, Sesson e Mugaku Sogen. Sempre sonhei em possuir ao menos um pergaminho de um deles, um desejo que até hoje não realizei. Por isso, pedi que abrissem a vitrine para que eu pudesse examinar os três pergaminhos de perto. São todos verdadeiramente magníficos. A montagem do pergaminho de Mokuan, em particular, é esplêndida. A parte central é de seda amarela com brocado de ouro, e a moldura superior é de gaze antiga. Lembra-se daquele pergaminho de Daehye que vimos na reunião do Daishikai em Osaka? A montagem era muito semelhante em estilo e sensação, com a parte central em gaze antiga e a moldura em brocado de ouro. Segundo uma anotação de Shinju-an Soken, datada de alguns anos da era Bunmei, a montagem daquele Daehye é a original da época. Ou seja, trata-se de uma montagem do período Muromachi. Minha impressão é que este pergaminho de Mokuan também conserva sua montagem original daquele período.
+
+Visitante: Vejo que você passou a se interessar até mesmo pela montagem das obras.
+
+Anfitrião: Não é um interesse à parte. A montagem é, em grande medida, parte integrante da pintura ou da caligrafia. Uma montagem inadequada pode arruinar a mais bela das obras. Fico indignado quando vejo pinturas ou caligrafias primorosas emolduradas de maneira desastrosa. Sinto como se algo belo estivesse sendo profanado. Em contrapartida, quando me deparo com uma montagem que harmoniza perfeitamente com a obra, sinto uma alegria imediata.
+
+Visitante: E a quarta sala?
+
+Anfitrião: É a sala das peças em *maki-e*, que, em sua maioria, parecem ser as mesmas do ano passado. Uma novidade é a caixa para papéis de carta com incrustações em madrepérola de motivos florais e de uma cruz, que, segundo me informaram, é um Objeto de Arte de Importância e de fato notável. Há também muitas novas pinturas *ukiyo-e* de pincel dispostas ao redor. Com exceção das obras do período inicial, esse gênero não me atrai muito, então passei por elas sem grande demora.
+
+Visitante: A famosa pintura da “Banhista” não está em exposição desta vez?
+
+Anfitrião: Ela está nos Estados Unidos no momento.
+
+Visitante: Ah, então foi incluída na exposição de arte japonesa. Falando nisso, parece que essa exposição está sendo um sucesso estrondoso por lá. Em Washington, dizem que mais de duzentas mil pessoas a visitaram em três semanas. Na edição de maio da revista “Kokoro”, Nagayo Yoshirō escreveu em suas “Cartas da América” que, ao ver a exposição em Nova York, sentiu-se tão orgulhoso que “teve vontade de se gabar um pouco e ficou até um tanto emocionado”. Isso se deve ao fato de terem enviado muitas obras de primeira linha. Segundo o mesmo Nagayo, o diretor do Metropolitan Museum of Art, uma autoridade no mundo da arte americano — Taylor, se não me engano —, teria dito: “Até agora, pensávamos que a arte japonesa era apenas uma derivação da chinesa, sem originalidade. Percebemos que isso foi um erro crasso, fruto do nosso desconhecimento. É espantoso que, já no século XII — quando o Ocidente ainda vivia a Idade Média —, um humor como o do ‘Chōjū Giga’ de Toba Sōjō já se manifestasse na arte japonesa”. Ouvir isso, embora seja apenas o reconhecimento do óbvio, enche-nos de alegria.
+
+Anfitrião: Sem dúvida. A “Banhista” é um excelente exemplo dessa originalidade japonesa. É uma pena não podermos vê-la este ano, mas me conforta saber que ela está sendo apreciada por um público muito mais amplo, por pessoas de todo o mundo.
+
+Visitante: Há mais alguma peça digna de nota na quarta sala?
+
+Anfitrião: Sim, há algumas. Um quadro de Shiba Kōkan, “Caçador Ocidental”, e um rolo de poemas *waka* de Kōetsu. Este último apresenta um belo desenho de cervos ao estilo de Sōtatsu, e a caligrafia também é excelente. Há também peças de *maki-e* de considerável valor. No geral, porém, a quarta sala me pareceu menos atraente este ano, talvez por meu pouco interesse por *maki-e*. Em contrapartida, a quinta sala está magnífica. A maior parte das obras já estava em exibição no ano passado, mas é um desfile de obras-primas da cerâmica chinesa.
+
+Visitante: Aquela bilha com cabeça de galo da cerâmica de Yue também está lá?
+
+Anfitrião: Sim, está. E, assim como no ano passado, ocupa um lugar de destaque logo à direita da entrada. A imponência e o vigor daquela peça são verdadeiramente singulares. É, sem dúvida, a obra máxima em seu gênero.
+
+Visitante: A bilha com bico de galo em esmalte preto, também da cerâmica de Yue, da coleção Yokogawa, não é igualmente boa?
+
+Anfitrião: Aquela também é excelente, mas o esmalte está bastante danificado e a superfície, áspera. Já esta aqui não apresenta tais desgastes e, ademais, sua forma geral é mais robusta e majestosa. Embora seja de um período um pouco posterior, provavelmente já na Dinastia Tang, em termos de vigor, eu definitivamente prefiro esta.
+
+Visitante: Sendo uma peça consideravelmente maior, talvez isso também contribua para a sensação de força que ela transmite.
+
+Anfitrião: Existem peças que, por maiores que sejam, não transmitem vigor algum, enquanto outras, mesmo pequenas, o fazem. Esta bilha não apenas possui uma forma intrinsecamente vigorosa, como também é grande, o que duplica o impacto que sentimos ao contemplá-la.
+
+Visitante: Entre essas bilhas com cabeça de ave, como as de bico ou cabeça de galo, a minha preferida é a jarra com gargalo de fênix em porcelana branca, da cerâmica de Xing, que pertence à coleção Yokogawa.
+
+Anfitrião: Aquela é uma peça primorosa. Do ponto de vista da beleza, talvez seja a número um. Contudo, como a tenho visto repetidamente ao longo dos anos, tenho a impressão de que a superfície da porcelana branca vem se tornando cada vez mais suja. E é uma sujeira de gordura das mãos. Por ter permanecido enterrada por tanto tempo a ponto de o esmalte se desgastar, é natural que ainda retenha algumas manchas da terra. Mas não é só isso. Há, inegavelmente, marcas de gordura humana, que se tornaram mais evidentes nos últimos anos. Por ser uma peça famosa, o simples ato de manuseá-la para exibi-la já a suja. Além disso, quando alguém aprecia uma obra como essa, sente um desejo irresistível de acariciá-la. Eu mesmo já passei por isso, então compreendo perfeitamente. No entanto, trata-se de um tesouro nacional, e todos deveriam ter mais cuidado, manuseando-a com um tecido ou tomando outras precauções. A beleza daquela jarra de fênix reside, primeiramente, na fluidez de suas linhas, mas a textura única da porcelana branca de Xing é também um elemento crucial de sua beleza. É uma lástima vê-la ser deteriorada dessa forma.
+
+Visitante: Nesse aspecto, a bilha com cabeça de galo de Hakone leva vantagem. O esmalte está intacto, então ela provavelmente suportaria ser manuseada por mãos engorduradas sem problemas.
+
+Anfitrião: De fato, com aquele tipo de esmalte, a gordura das mãos talvez até a deixasse mais bonita. Contudo, de modo geral, parece que o manuseio de pinturas, cerâmicas e peças de *maki-e* tornou-se mais negligente nos últimos tempos. Antigamente, nos museus, havia figuras temíveis como Mizoguchi Teijirō, um verdadeiro guardião do museu, que, segundo dizem, era extremamente rigoroso até com a maneira de enrolar um pergaminho. Hoje, creio que não existam mais pessoas tão exigentes. Isso, por um lado, nos deu mais liberdade para apreciar tudo, mas, se encararmos essa liberdade apenas como um benefício, podemos ter consequências desastrosas. Em uma época em que se observa uma tendência crescente de transferência de obras de arte de coleções particulares para instituições públicas, devemos ter um cuidado redobrado com essa questão. Tratamos com desvelo o que é nosso, mas tendemos a ser descuidados com o que pertence a outros ou ao público. Talvez seja um impulso natural, mas é um impulso que devemos superar por meio da nossa disciplina social.
+
+Visitante: Sinto como se estivesse recebendo um sermão. Mas o que você diz é a mais pura verdade. Tendo eu mesmo algumas peças, compreendo perfeitamente. Às vezes, recebo visitas que me deixam apreensivo com seu modo de manusear as obras. Mas, por favor, continue a me guiar pela quinta sala.
+
+Anfitrião: Você deve se lembrar da bacia de cerâmica Jun, que também estava em exposição no ano passado. E da tigela da cerâmica Xiuneisi, e da jarra de boca estreita com motivo de peônias da cerâmica Ru. Você certamente se recorda dessas peças de celadon Song, pois são obras-primas. E também da tigela quadrada do período Jiajing, aquela com fundo vermelho e decoração azul de crianças brincando. É uma peça que me deleita a cada vez que a vejo. Outra de minhas favoritas é a bilha de água octogonal em estilo *qingbai*. Para o meu gosto, aprecio mais essas peças do que a jarra quadrilobada em estilo *kinrande*, que é Objeto de Arte de Importância, ou a taça elevada, também em *kinrande*, do período Jiajing.
+
+Visitante: E quais são as novidades?
+
+Anfitrião: As peças que mais merecem atenção são um incensário com base em forma de *hakama* da cerâmica Ge e um incensário de três pés em forma de vaso de bronze, de celadon Goryeo. O incensário da cerâmica Ge está longe de ser uma peça perfeita, com lascas e reparos, mas a cor do esmalte é belíssima. Já o celadon Goryeo, embora não seja do meu gosto pessoal, é uma raridade e, segundo a avaliação geral, uma obra de considerável valor. Além disso, há novas pinturas nesta sala, como uma paisagem de Ma Yuan e uma garça de Muqi. A paisagem de Ma Yuan é um Bem Cultural de Importância, e a garça de Muqi também é famosa. Deste último, no entanto, a pintura de Kanzan e Jittoku, que está em exposição desde o ano passado, é, a meu ver, superior.
+
+Visitante: Esse pintor, Muqi, era realmente formidável.
+
+Anfitrião: Absolutamente formidável. O falecido Tanaka Toyozō — sim, o Tanaka que foi diretor do Instituto de Pesquisa de Arte, um grande erudito que viu arte do mundo inteiro — disse uma vez que o tríptico de Muqi, com a cena de “Shaka Descendo da Montanha” ao centro (uma das paisagens de neve que o compõem está no Museu Nacional), era a maior obra de arte do mundo. E não considero isso um grande exagero.
+
+Visitante: A pintura “Bela Mulher Sob uma Árvore”, da Ásia Central, não está exposta este ano?
+
+Anfitrião: O original não está, mas há uma réplica da Ōtsuka Kōgeisha. É tão bem-feita que, à primeira vista, pode ser confundida com a obra autêntica.
+
+Visitante: Que pena não poder ver a original.
+
+Anfitrião: Imagino que a exibirão de tempos em tempos. Assim espero. E, se possível, gostaria que um dia a expusessem ao lado da pintura do homem que pertence ao acervo do museu. Se não for possível em Hakone, que seja no museu de Ueno.
+
+Visitante: Na última edição da “Yamato Bunka”, publicaram as duas lado a lado em cores, com um comentário de Yashiro Yukio.
+
+Anfitrião: Eu também li, e achei a opinião dele bastante interessante. E você? Concorda com os doutores Haneda e Kobayashi Taichirō, que veem as obras como representações de um encontro amoroso ou secreto entre um homem e uma mulher, ou pende para a interpretação de Yashiro, que não as vê como um díptico, mas como fragmentos de um biombo maior, que retrataria um passeio por um bosque ou uma cena de lazer sob as árvores, e cujas outras partes teriam se perdido?
+
+Visitante: Não tenho o direito de me intrometer nas interpretações desses eruditos, mas, se tivesse que escolher, inclinar-me-ia para a tese de Haneda.
+
+Anfitrião: Eu também. Na pintura que está em Hakone, o fato de a serva olhar para trás não precisa ser interpretado como um ato de vigilância, nem como uma indicação de continuidade para outra cena. Se a serva estivesse na mesma direção da dama, a composição de ambas as pinturas seria muito semelhante. Para quebrar essa monotonia, apenas a serva foi retratada olhando para trás. Embora a pintura possua um charme rústico em suas linhas e cores, quando as duas obras são vistas em conjunto, percebe-se um esmero notável na postura de cada uma das quatro figuras, na posição de suas mãos, no desenho dos galhos do pinheiro e na disposição das rochas. Enquanto a dama está ligeiramente à esquerda do centro da tela, o homem está posicionado quase no centro. Ele está parado, tirando o capuz preto com a mão direita, ao passo que seu servo ainda mostra movimento para a frente, com os pés na posição de quem estava caminhando. Já no outro quadro, embora a serva esteja parada ao olhar para trás, a própria dama, ao puxar na diagonal o véu que pende de seus ombros com as mãos postas sobre o peito, revela em sua postura um movimento para a frente, ecoando o movimento de seu coração. Esse jogo de quietude e movimento harmoniza-se perfeitamente entre as duas telas, como se os sentimentos respirassem em uníssono. Sob essa perspectiva, a postura da serva adquire uma necessidade composicional clara dentro do díptico. É assim que eu penso.
+
+Visitante: Entramos em uma discussão bastante detalhada, mas, no geral, concordo com você. É notável, no entanto, que esta pintura tenha sido trazida pela missão Ōtani. Em uma época em que a maior parte da preciosa arte da Ásia Central trazida pela mesma missão foi deixada em Lushun e Keijō, e seu paradeiro é hoje incerto, é uma grande felicidade que ao menos uma obra tão magnífica tenha permanecido no Japão.
+
+Anfitrião: Resta apenas uma sala para lhe mostrar. Na sexta sala, há três novas estátuas de Buda Shakyamuni em bronze dourado, incluindo a famosa peça que pertenceu à coleção de Koizumi Sanshin. Todas são datadas entre os períodos Asuka e Nara, e pretendo examiná-las com mais calma em outra oportunidade.
+
+Visitante: Eu também gostaria de apreciá-las com vagar.
+
+Anfitrião: Há também uma nova estátua de Enma, do período Kamakura, que é excelente. Dentro do pedestal, há um boi. Pedi que o retirassem, por curiosidade, e a escultura é notável. É um boi agachado, com olhos de cristal, e a musculatura proeminente das costas e das coxas, de forma roliça e vigorosa, lembra as pinturas de touros velozes. Confesso que senti o desejo de possuir apenas aquela pequena peça.
+
+Visitante: Finalmente revelou suas verdadeiras intenções. Bem, o melhor a fazer é visitá-lo com frequência. Da próxima vez, iremos juntos. A propósito, quando estive aqui no ano passado, estavam trabalhando intensamente no jardim. Ele já está pronto?
+
+Anfitrião: Parece estar praticamente concluído. O musgo já se fixou bem, e em dois ou três anos, ele se tornará ainda mais sereno e um jardim esplêndido. Não o percorri por completo, mas notei que utilizaram abundantemente pedras de grande porte. Nesse sentido, é um jardim que demandou um esforço humano imenso. Antigamente, os senhores feudais criavam grandes jardins sem poupar mão de obra. A partir da era Meiji, políticos e empresários usaram seu poder e fortuna para construir grandes jardins. Hoje, porém, a criação de um jardim tão vasto por um particular tornou-se um luxo quase impossível. Construir uma casa é uma necessidade e, em último caso, pode ser vendida. Mas um jardim está longe de ser uma necessidade imediata, e sua manutenção sazonal é extremamente trabalhosa. Manter um grande jardim como os de antigamente já se tornou cada vez mais difícil para um indivíduo. Por isso, ao ver um jardim como este, com tantas pedras enormes e um esmero tão evidente, tenho uma sensação peculiar. Presumo que tenha sido construído com o serviço devocional dos fiéis. Se for o caso, isso significa que, hoje em dia, somente o poder da fé pode tornar possível o que, de outra forma, seria impossível. O próprio acervo do museu é um exemplo disso. Nos tempos atuais, seria impossível reunir uma coleção desta magnitude em tão pouco tempo em qualquer outro lugar. No ano passado, fiquei maravilhado ao ver a exposição da coleção do Museu Yamato Bunkakan no Museu de Nara, mas aquela coleção, com o apoio de uma grande empresa como a Kinki Nippon Railway, levou mais de uma década para ser formada. É algo muito diferente de reunir tantas obras em apenas dois ou três anos.
+
+---
+
 # O Problema da Tuberculose e sua Solução (Reedição)
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## O Problema da Tuberculose e sua Solução (Reedição)
 
@@ -807,2076 +1632,6 @@ Reeditado em 5 de maio do 18º ano da era Showa, formato B6, 180 páginas, preç
 (O índice da primeira edição de “O Problema da Tuberculose e sua Solução” era o seguinte: “Introdução”, da Primeira Parte de “Ashita no Ijutsu”: “Introdução”, “O Problema Populacional”, “A Questão do Declínio da Taxa de Crescimento Populacional”, “A Verdadeira Causa da Doença”, “Tuberculose Pulmonar”, “A Tuberculose Não é Absolutamente Contagiosa”, da Segunda Parte de “Ashita no Ijutsu”: “Recursos Humanos e a Medicina Moderna (1)”, “A Crise dos Recursos Humanos”, “Germes e Doenças Infecciosas”, “Nutrição”, “Febre”, “Pleurisia e Peritonite”, “Saúde Verdadeira e Pseudo-saúde”, “Tuberculose e a Ação do Espírito”, “A Arte de Curar os Rins e o Método de Rejuvenescimento”, “O Problema Populacional e Esta Terapia”, “A Arte de Curar o Coração”, “O que é a Medicina?”, “Conclusão”, “O Processo de Cura da Tuberculose Pulmonar”, “Sobre a Vacina BCG”)
 
 (Nota) O texto diz “Da Segunda Parte de ‘Ashita no Ijutsu’: Recursos Humanos e a Medicina Moderna (1)”, mas na reedição de “Ashita no Ijutsu”, esta parte está incluída na Primeira Parte. O título também não tem a indicação “(1)”. A fonte do ensaio “Sobre o Elemento-Fogo, o Elemento-Água e o Elemento-Terra” nos Escritos Divinos (Parte Religiosa) é indicada como “Ashita no Ijutsu, pp. 19-25”, mas na reedição, é uma passagem dentro de “Febre” na página 72 da Segunda Parte. Como a primeira edição não está disponível, não foi possível confirmar, mas é possível que a edição da primeira e da segunda edições seja diferente.
-
----
-
-# Coletânea de Teses do Reverendo Okada Jikanshi
-
-**Categoria:** sasshi | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Reverendo Okada Jikanshi
-
-## Explanação sobre a Agricultura Natural e seu Aumento Revolucionário de Produção
-
-Publicado em 5 de maio de 1953
-
-### Prefácio
-
-Este opúsculo expõe um método de solução incondicionalmente vantajoso para a questão do arroz, que constitui, atualmente, a maior aflição de nosso país. Como é do conhecimento de todos, a quantidade de arroz que colhemos é absolutamente insuficiente para alimentar a nação, havendo hoje um déficit anual superior a vinte milhões de *koku*, o que representa, em verdade, uma questão de gravíssima magnitude. A causa desse problema reside no uso de fertilizantes químicos e de dejetos humanos — um fato tão surpreendente que nem em sonhos poderíamos conceber. Posso afirmar categoricamente que, enquanto não despertarmos para essa realidade, qualquer aumento na produção será impossível.
-
-Contudo, este trabalho explana detalhadamente o princípio pelo qual, ao adotarmos a nossa Agricultura Natural, é possível alcançar o resultado revolucionário de cinquenta por cento de aumento na produção em um período de cinco anos. E, para corroborar tal princípio, anexamos dezenas de relatórios de experiências, redigidos pelos próprios agricultores. Diante disso, não restará a menor margem para dúvidas.
-
-Ademais, este método agrícola não apenas dispensa qualquer gasto com fertilizantes, como também poupa mão de obra, minimiza os danos causados por intempéries e reduz drasticamente as pragas a uma fração do que eram. Seus benefícios são múltiplos, como se abatessem várias aves com uma só pedra. A sua prática, portanto, não só eliminará por completo os problemas econômicos dos agricultores, mas também trará ao país um benefício anual que se eleva a centenas de bilhões, uma cifra incalculável.
-
-Nesse sentido, não há palavras que possam descrever quão grandioso é este evangelho, esta descoberta quase inacreditável, para a nação em sua premente situação. Com o fito de alcançar esse objetivo, empreenderemos, naturalmente, uma vasta campanha de divulgação e, para assegurar sua plena implementação, fundamos a “Associação para a Difusão da Agricultura Natural”. Inicialmente, estabeleceremos uma filial em cada vilarejo, buscando disseminar o método por meio de ações coletivas. Rogo, pois, que compreendam profundamente o significado desta iniciativa e, ao se filiarem, ponham-na em prática o mais breve possível.
-
-Todos os artigos a seguir foram compilados das edições especiais sobre agricultura, publicadas nos últimos três anos pelo jornal semanal *Eikou*, órgão de nossa Igreja.
-
-Abril de 1953
-
-## Explanação sobre a Agricultura Natural
-
-### A Vitória da Agricultura Natural
-
-### O Grandioso Poder da Terra
-
-### O Princípio da Agricultura Natural
-
-O princípio da Agricultura Natural consiste, fundamentalmente, em permitir que o grandioso poder da terra se manifeste plenamente. Ocorre que, até hoje, o ser humano desconhecia a verdadeira essência do solo; ou melhor, não lhe foi permitido conhecê-la. Essa concepção errônea levou ao uso de fertilizantes, e, com o tempo, gerou-se uma dependência em relação a eles, a ponto de se transformar, na verdade, em uma espécie de superstição. Prova disso é que, no início, por mais que eu explicasse sobre o cultivo sem fertilizantes, ninguém me dava ouvidos; minhas palavras eram recebidas com desdém.
-
-Paulatinamente, porém, meus esforços foram recompensados. Nos últimos anos, o número de praticantes da Agricultura Natural vem crescendo a cada ano, e os resultados obtidos em toda parte têm sido extraordinários. Embora, por ora, a prática se restrinja ao círculo de nossos fiéis, já começam a surgir simpatizantes entre os não membros em diversas regiões. O número de praticantes aumenta com um ímpeto impressionante, o que me leva a prever que não está distante o dia em que este método se difundirá por todo o Japão. Assim sendo, a divulgação da Agricultura Natural pode ser descrita, em suma, como um movimento para a erradicação da superstição dos fertilizantes.
-
-E, por se tratar de um cultivo que emprega exclusivamente o composto orgânico, sem recorrer a dejetos humanos ou a fertilizantes químicos, é denominado, como o próprio nome sugere, Agricultura Natural. Evidentemente, a matéria-prima do composto orgânico, as folhas e as ervas secas, é algo que surge naturalmente. Em contrapartida, os fertilizantes químicos e os dejetos humanos, bem como o esterco de cavalo, o excremento de galinha, a torta de peixe, as cinzas de madeira e outros insumos, não caem do céu nem brotam da terra; são transportados pelo homem e, portanto, inquestionavelmente antinaturais.
-
-Em verdade, não há nada em toda a Criação que não se banhe nas bênçãos da Grande Natureza. Tudo é gerado e nutrido pelos três elementos primordiais: Fogo, Água e Terra. Do ponto de vista científico, esses três elementos correspondem ao oxigênio do Fogo, ao hidrogênio da Água e ao nitrogênio da Terra. Nenhuma cultura agrícola foge a essa regra. Deus, ao criar o ser humano, concebeu um sistema que produz, sem excesso nem falta, os cinco grãos e as verduras que constituem o sustento de sua vida. Refletindo sobre essa lógica, torna-se claro que Deus não traria o homem à existência sem lhe prover o alimento necessário para manter sua vida. Se um país não consegue produzir alimento suficiente para sua população, é porque, em algum ponto, está a desrespeitar as leis da Natureza estabelecidas por Ele. Enquanto não se der conta disso, a solução para o problema alimentar permanecerá inalcançável.
-
-Ignorando essa grandiosa lei natural, o ser humano chegou aos dias de hoje considerando os fertilizantes artificiais como a única via possível. É natural, portanto, que sofra com a escassez de alimentos. Poder-se-ia dizer que essa é a justa retribuição por sua cegueira ante as leis da Natureza. E, como se não bastasse, a ciência materialista veio a agravar ainda mais a situação, culminando na era de crise alimentar que hoje vivemos. Nesse sentido, o método agrícola atual, longe de representar um progresso, pode ser considerado, na verdade, um retrocesso.
-
-Por conseguinte, sendo a agricultura que reverencia a Natureza a expressão da Verdade, é certo que, por pior que seja a safra, deveríamos produzir no mínimo um *koku* de arroz por pessoa ao ano. Considerando a população de nosso país em oitenta e três milhões de habitantes, a produção deveria ser, invariavelmente, de oitenta e três milhões de *koku*. Ainda que o martelo erre a bigorna, este princípio jamais falhará.
-
-A Agricultura Natural que preconizo fundamenta-se nesse princípio. O esgotamento e a miséria dos agricultores japoneses, decorrentes da escassez de alimentos, podem ser solucionados sem dificuldade, bastando que se coloque o método em prática. Deus, em Sua infinita misericórdia e amor, não podendo ignorar esse equívoco, manifesta através de mim o princípio da Agricultura Natural para que seja amplamente conhecido por todos. É imperativo, pois, que as pessoas despertem o quanto antes para essa verdade e adotem este método, pois, agindo assim, os agricultores serão plenamente salvos.
-
-Conforme mencionei, se os três elementos — Fogo, Água e Terra — são a força motriz que nutre as colheitas, é certo que, ao cultivá-las em solo purificado, com boa exposição solar e farta irrigação, obteremos resultados muito superiores aos de até então. Em algum momento da história, o ser humano cometeu um erro terrível: o uso de fertilizantes. Foi um equívoco nascido do completo desconhecimento da verdadeira essência do solo.
-
-### O Efeito Reverso dos Fertilizantes
-
-É verdade que, ao se aplicar um fertilizante, obtém-se um efeito considerável em um primeiro momento. Contudo, com o uso prolongado, surge gradualmente uma ação contrária. As plantas, enfraquecidas em sua capacidade inata de absorver os nutrientes do solo, acabam por se modificar, tornando-se dependentes dos fertilizantes como fonte de nutrição.
-
-A analogia com o vício em drogas no ser humano torna essa compreensão mais clara. Ao usar uma droga pela primeira vez, a pessoa experimenta uma sensação de prazer ou clareza mental, e, incapaz de esquecer esse efeito, afunda-se cada vez mais no vício, caindo em um abismo do qual não consegue mais sair. Nesse estágio, a abstinência provoca torpor e dores intensas, incapacitando-a para qualquer atividade. Finalmente, incapaz de suportar o sofrimento, mesmo sabendo do mal que lhe causa, a pessoa recorre à droga novamente, tornando-se incapaz de se libertar do vício, chegando ao ponto de roubar para obtê-la. Os jornais estão repletos de exemplos que demonstram o quão terrível é essa condição.
-
-Se aplicarmos esse mesmo princípio à agricultura, a verdade se revela de imediato. Podemos afirmar que, hoje, todo o solo do Japão está acometido por uma grave enfermidade: o vício em drogas, ou melhor, o vício em fertilizantes. Os agricultores, contudo, por terem sido por tanto tempo crentes cegos nos fertilizantes, demoram a despertar. Ocasionalmente, alguns ouvem nossa explanação e decidem abolir os adubos artificiais, adotando a Agricultura Natural. No entanto, como os resultados nos primeiros meses não são satisfatórios, eles concluem apressadamente que é preciso continuar fertilizando como antes e abandonam o método.
-
-A nossa Agricultura Natural, todavia, por ter como base a fé, é praticada por aqueles que seguem minhas palavras sem qualquer dúvida. É por essa razão que o verdadeiro valor do método se revela com facilidade. Descreverei aqui o processo: logo após o transplante das mudas do viveiro para o arrozal, por um tempo, as folhas apresentam uma cor desvitalizada e os caules, finos, parecendo de fato inferiores aos dos campos vizinhos. Diante disso, o agricultor é alvo de zombaria e, ele próprio, sente-se apreensivo, remoendo-se em preocupações e orando a Deus, questionando se está no caminho certo.
-
-Passados dois ou três meses, contudo, as plantas começam a se recuperar e, na época da floração, já apresentam uma melhora considerável, o que traz um tênue alívio. Próximo à colheita, o desenvolvimento atinge o nível normal ou até o supera, e o agricultor respira, por fim, aliviado. Chegado o momento da colheita, a surpresa é ainda maior: a quantidade é muito superior à esperada, a qualidade é excelente, os grãos são lustrosos, de grande viscosidade e extremamente saborosos. Geralmente, classificam-se como de primeira ou segunda categoria, sendo raro encontrar algo abaixo da terceira. Ademais, o peso é de cinco a dez por cento superior ao do arroz cultivado com fertilizantes. E o mais interessante é que, por ser um arroz substancioso, longe de encolher ao ser cozido, seu volume aumenta em vinte a trinta por cento. No estômago, ele satisfaz por mais tempo, de modo que se pode comer cerca de trinta por cento a menos para se sentir igualmente saciado, o que o torna extremamente vantajoso do ponto de vista econômico.
-
-Portanto, se toda a população japonesa consumisse o nosso arroz de cultivo natural, o resultado seria um aumento de trinta por cento na disponibilidade de alimento. Assim, mesmo com a produção atual, não haveria necessidade de importar arroz, o que representaria um benefício extraordinário para a economia nacional.
-
-### A Superstição dos Fertilizantes
-
-A explicação para o processo descrito acima é a seguinte: a aparência inferior das plantas nos primeiros dois ou três meses deve-se às toxinas dos fertilizantes que ainda persistem nas sementes e no solo. Com o passar do tempo, tanto o solo quanto o arroz vão se purificando dessas toxinas, recuperando sua força original e melhorando gradualmente. Creio que mesmo os agricultores podem compreender essa lógica. De fato, após uma irrigação com água limpa ou uma chuva forte, até mesmo um campo de má qualidade melhora um pouco. Isso ocorre porque o excesso de toxinas de fertilizantes é lavado, diminuindo sua concentração. Quando o crescimento das plantas é insatisfatório, os agricultores costumam adicionar terra de outra área. Se com isso obtêm uma ligeira melhora, interpretam que o solo estava empobrecido por ter tido seus nutrientes absorvidos pelas colheitas ao longo do tempo, e que a adição de terra nova o revigorou. Essa interpretação, no entanto, é equivocada. Na verdade, o solo estava debilitado e empobrecido pelas toxinas dos fertilizantes acumuladas ano após ano. A interpretação dos agricultores revela o quão profundamente eles estão imersos na superstição dos fertilizantes.
-
-### A Eficácia do Composto Orgânico
-
-Passo agora a explicar a prática da fertilização natural. No cultivo de arroz, a palha de arroz é cortada o mais fino possível e bem misturada à terra. O objetivo é aquecer o solo. Para as hortas, folhas e ervas secas são deixadas em decomposição até que suas nervuras se tornem macias e, então, são bem incorporadas ao solo. A razão para isso é que, se a terra estiver compactada, as pontas das raízes das plantas encontrarão resistência e terão dificuldade para crescer; o composto evita essa compactação. Recentemente, tem se falado muito sobre os benefícios de aerar as raízes, mas o benefício não vem do ar em si. O fato de o ar conseguir penetrar até as raízes indica, simplesmente, que o solo não está compactado. Também nesse ponto a interpretação dos agrônomos é equivocada.
-
-Idealmente, para culturas de raízes superficiais, bastaria misturar o composto de folhas e ervas à terra da horta. Para as de raízes profundas, contudo, é benéfico criar uma camada de composto de folhas a cerca de trinta centímetros de profundidade. Isso aquece o solo. A espessura dessa camada deve ser ajustada de acordo com o tipo de planta, pois mesmo entre as de raízes profundas há variações.
-
-As pessoas tendem a pensar que o composto orgânico possui nutrientes, mas não é o caso. A eficácia do composto reside em três pontos: evitar a compactação do solo, aquecê-lo e, por fim, reter a umidade, prevenindo o ressecamento da terra ao redor das raízes. Como se pode ver, o fundamento da Agricultura Natural é vivificar o próprio solo. Vivificar o solo significa mantê-lo sempre puro, sem utilizar impurezas como os fertilizantes artificiais. Desse modo, livre de obstáculos, o solo pode manifestar plenamente sua força original.
-
-É interessante notar que os agricultores falam em "descansar a terra", o que também é um engano. Quanto mais se cultiva, melhor o solo se torna. É como no ser humano: quanto mais se trabalha, mais a saúde aumenta; o repouso excessivo enfraquece. Também nesse aspecto a interpretação dos agricultores é inversa: eles deixam a terra descansar por achar que o cultivo contínuo esgota os nutrientes. Tudo está, de fato, equivocado. Por causa desse erro, consideram a rotação de culturas indispensável e mudam o local de plantio a cada ano, o que é uma prática sem fundamento e de uma ingenuidade digna de pena.
-
-### Colheitas Abundantes em Cultivo Contínuo
-
-Portanto, em nossa agricultura, o cultivo contínuo é preconizado. Um exemplo prático que tenho seguido é o do milho, que cultivo há sete anos consecutivos no mesmo local. E isso em um solo de Hakone-Gora, cheio de pedregulhos, que poderia ser considerado o exemplo perfeito de terra de má qualidade. Apesar disso, a safra deste ano foi esplêndida: as espigas cresceram densas e bem formadas, os sabugos são mais longos que o normal, e o milho é doce, macio e de um sabor inigualável.
-
-Mas por que o cultivo contínuo é benéfico? Porque o solo desenvolve naturalmente características adequadas à espécie que nele é cultivada. A analogia com o ser humano torna isso claro: o trabalho físico desenvolve os músculos, enquanto um escritor, que usa constantemente o cérebro, desenvolve a capacidade intelectual. Da mesma forma que uma pessoa que muda constantemente de profissão ou de residência não prospera, o mesmo princípio se aplica ao solo. Isso mostra o quão equivocados estávamos até hoje.
-
-### Um Evangelho para a Sericicultura
-
-Para concluir, há algo que gostaria de ressaltar. Trata-se da criação do bicho-da-seda com folhas de amoreira cultivadas sem fertilizantes. Os casulos não contraem doenças, e a seda produzida é extremamente resistente, lustrosa e de alta qualidade. Além disso, o aumento na produção é garantido. Se essa prática for adotada em todo o país, certamente causará uma grande revolução na indústria da seda, e os benefícios para a economia nacional serão, sem dúvida, imensuráveis.
-
-Publicado no jornal *Eikou*, edição 79, de 22 de novembro de 1950.
-(Nota) Irrigação com água limpa: Prática de inundar um campo em pousio para remover o excesso de nutrientes, o que restaura a produtividade.
-
-## A Grande Revolução na Agricultura
-
-### Aumento de Cinquenta por Cento na Produção de Arroz em Cinco Anos é Garantido
-
-(I)
-
-Há mais de uma década, venho preconizando um método que chamo de Agricultura Natural, o qual, utilizando apenas adubos naturais e prescindindo de fertilizantes químicos e dejetos humanos, permite obter grandes colheitas. Naquela época, por mais que eu tentasse explicar e convencer os agricultores, poucos me davam ouvidos. Esforcei-me consideravelmente, mas não obtive os resultados desejados. Contudo, minha convicção inicial era de que, por se tratar de uma verdade absoluta, chegaria o dia em que todos a compreenderiam. Além disso, ciente de que, sem este método, os agricultores jamais seriam salvos e de que ele teria um impacto crucial no destino da nação, persisti, sem me dobrar nem desanimar, até os dias de hoje.
-
-Para o bem ou para o mal, a grave situação que eu previa se concretizou. Sinto agora a urgência de conscientizar não apenas os agricultores, mas todos os japoneses. Ao mesmo tempo, uma luz começa a despontar no horizonte da Agricultura Natural. Considerando, pois, que o momento é chegado, decidi dar início a esta grande campanha de divulgação.
-
-O fato de eu ser um líder religioso foi, nesse sentido, um fator favorável. Muitos fiéis, embora achassem a teoria estranha, acreditaram em mim e a puseram em prática, o que permitiu que os resultados se manifestassem com relativa rapidez. O número de simpatizantes foi crescendo gradualmente e, nos últimos tempos, até mesmo agricultores não religiosos começaram a prestar atenção ao método. Ademais, como se pode ver em outro artigo, o técnico agrícola do Ministério da Agricultura e Florestas, Sr. Sadao Kanazaki, após anos de pesquisa dedicada do ponto de vista técnico, reconheceu os resultados surpreendentes e decidiu publicá-los, o que me enche de alegria. Digo isso porque a origem religiosa deste método de cultivo muitas vezes o faz ser visto como superstição, e creio que a publicação do Sr. Kanazaki terá grande força para dissipar essa impressão.
-
-É inegável que o maior problema do Japão hoje é a escassez do alimento básico. Com um território reduzido após a guerra e uma população que não para de crescer, já atingindo oitenta e quatro milhões de habitantes, a questão tornou-se premente. Neste ano, o déficit será de mais de vinte milhões de *koku*, e só conseguimos manter uma tênue estabilidade graças às importações, cujo valor já ultrapassa a casa das centenas de bilhões de ienes. Do ponto de vista da economia nacional, a situação é gravíssima. Se não encontrarmos uma solução, o futuro de nosso país será motivo de grande apreensão. Ademais, dependendo da conjuntura mundial, não sabemos que tipo de crise pode eclodir a qualquer momento. É, portanto, imperativo garantir a quantidade de alimento necessária para toda a população.
-
-O governo e os agricultores têm empregado todos os meios e métodos possíveis, mas os resultados estão longe do esperado, havendo até uma tendência de queda na produção. Neste ano, a colheita foi cerca de três milhões de *koku* menor que a do ano passado. As políticas de controle de natalidade também não parecem promissoras, e o aumento populacional deve ser estimado em mais de um milhão de pessoas por ano. Para resolver esta grave crise, a menos que ocorra um grande e revolucionário milagre, não há o que fazer.
-
-Mas por que nosso país não consegue produzir arroz suficiente para alimentar toda a sua população? Eis aqui a razão fundamental que quero expor. É porque o método agrícola praticado até hoje possui uma falha colossal, e essa falha reside no uso de fertilizantes artificiais, como os químicos e os dejetos humanos. Ninguém se deu conta disso. E por que um erro de tamanha magnitude permaneceu despercebido por tanto tempo? Porque, ao longo dos anos, caímos, sem perceber, em uma espécie de superstição dos fertilizantes.
-
-Eu, porém, tendo descoberto essa verdade, senti a urgência de despertar as pessoas desse sonho ilusório e de promover uma grande revolução na agricultura. Foi por isso que iniciei este movimento.
-
-Apresentarei agora, em detalhe, o princípio e o método pelos quais a nossa Agricultura Natural permite obter grandes colheitas utilizando apenas composto orgânico. Antes, porém, falarei sobre seus efeitos. Se este método for praticado por cinco anos, é fácil obter, em média nacional, um aumento de cinquenta por cento na produção. Sei que, para a maioria das pessoas, isso soará inacreditável.
-
-Considerando a produção média atual de sessenta e três milhões de *koku*, um aumento de cinquenta por cento resultaria em noventa e quatro milhões e quinhentos mil *koku*. Com isso, mesmo que os japoneses comam à vontade, ainda haveria um excedente de dez milhões de *koku*, e teríamos, ao contrário de hoje, que exportar arroz. E não é só isso. Não há gastos com fertilizantes, as pragas são reduzidas a uma fração, e os danos por intempéries diminuem para menos da metade. A mão de obra também será reduzida pela metade. É, de fato, um método agrícola surpreendente.
-
-O que expus até aqui refere-se apenas ao arroz, mas a Agricultura Natural se aplica igualmente a todas as outras culturas, com resultados igualmente notáveis. Mencionarei alguns exemplos. Todas as hortaliças produzem resultados esplêndidos. A batata-doce, por exemplo, atinge tamanhos surpreendentes, sendo comum colher exemplares de quinhentos a seiscentos *monme*. A produção total é, no mínimo, o dobro da obtida com fertilizantes. Os feijões também produzem grãos maiores e em maior quantidade, sendo fácil triplicar a colheita. Os nabos são mais brancos, de textura fina e macia, sem serem fibrosos, e de um sabor excepcional. As verduras de folhas também apresentam cores vibrantes, são macias, livres de furos de insetos e deliciosas. Milho, abóbora, melancia — todas as hortaliças se desenvolvem magnificamente. Seria exaustivo listar todas, mas os resultados são simplesmente inimagináveis.
-
-E o que merece destaque especial é o sabor maravilhoso dos produtos cultivados pela Agricultura Natural. Seja arroz, trigo ou hortaliças, uma vez que se prova o seu sabor, não se tem mais vontade de comer os produtos cultivados com fertilizantes. Eu mesmo só como alimentos cultivados sem adubos e, felizmente, como o número de praticantes não para de aumentar, recebo mais do que consigo consumir. O mesmo se aplica às frutas: desde que se aboliu o uso de fertilizantes artificiais, a colheita aumenta a cada ano, a qualidade melhora, a renda cresce e todos expressam sua gratidão. No caso das flores, elas se tornam maiores, de cores mais vivas e belas, e são muito apreciadas em arranjos florais por sua longa durabilidade.
-
-Outro ponto é que, na Agricultura Natural, os insetos nocivos diminuem drasticamente. Em sua essência, as pragas surgem dos fertilizantes artificiais; portanto, se os abolirmos, é natural que elas não apareçam. Atualmente, para combatê-las, usam-se inseticidas e desinfetantes em abundância. Na verdade, porém, são essas substâncias que, ao se infiltrarem no solo, tornam-se a causa da proliferação de pragas. É uma ignorância digna de pena.
-
-Além disso, nos últimos anos, quase todos os anos temos sofrido com desastres causados por ventos e inundações. Com a Agricultura Natural, os danos são consideravelmente menores. A razão é a seguinte: quando as plantas absorvem fertilizantes artificiais, elas se tornam surpreendentemente fracas. Descobri que isso acontece porque, ao serem absorvidos, tanto os dejetos humanos quanto os fertilizantes químicos se tornam tóxicos, e essa toxina serve de alimento para as pragas, que então se multiplicam. Ademais, alguns fertilizantes geram, por si sós, microorganismos que se proliferam ao se alimentar da própria planta. Se surgem nas raízes, eles devoram as radículas, enfraquecendo a planta. A queima das folhas, a quebra dos caules, a queda das flores, o amadurecimento incompleto dos frutos e a atrofia da batata são também causados por isso. Microorganismos nocivos podem surgir em outras partes da planta também. Se a planta estiver saudável, ela tem força para eliminá-los, mas, como já mencionado, enfraquecida pelos fertilizantes, ela sucumbe.
-
-Quando atingidas por ventos e inundações, as plantas cultivadas sem fertilizantes são mais resistentes, acamam menos e, mesmo que tombem, logo se reerguem. Já as cultivadas com fertilizantes permanecem tombadas, sofrendo grandes perdas. A razão para isso fica clara ao se observar as raízes: as plantas sem fertilizantes possuem muito mais radículas e mais longas, o que lhes confere uma ancoragem mais forte. Outra característica do arroz e das hortaliças cultivadas naturalmente é o encurtamento das folhas. Como os agricultores sabem, para todas as culturas, quanto mais baixa a planta e mais curtas as folhas, mais frutos ela produz. Em contraste, as plantas cultivadas com fertilizantes são mais altas e têm folhas maiores, o que lhes confere uma aparência imponente, mas a produção de frutos é, surpreendentemente, menor.
-
-Quanto ao bicho-da-seda, se criado com folhas de amoreira cultivadas sem fertilizantes, ele se torna extremamente saudável. A seda produzida é resistente, lustrosa e de altíssima qualidade, e, naturalmente, a produção aumenta, pois não há ocorrência de doenças. Como se vê, em todos os aspectos, o cultivo sem fertilizantes é incomparavelmente mais vantajoso que o cultivo com fertilizantes.
-
-Para compreender isso, é preciso conhecer, em primeiro lugar, a natureza do solo. O solo foi criado pelo Criador para produzir as culturas que alimentam os homens e os animais. Sendo assim, a essência do solo é ser tão rico em nutrientes que se poderia dizer que é um amontoado de fertilizantes. Por desconhecerem completamente essa verdade, as pessoas passaram a ver os fertilizantes como o alimento das plantas e, como resultado da aplicação de diversos adubos artificiais, acabaram, surpreendentemente, por enfraquecer a força original do solo. Diz-se com frequência que o solo japonês é ácido, e essa é exatamente a causa. Que erro espantoso!
-
-Nesse sentido, para aumentar a produção agrícola, é preciso fortalecer ao máximo a força do próprio solo. E como fazer isso? Mantendo-o o mais puro possível, sem misturar-lhe nenhuma impureza além do composto orgânico. Apenas com isso, é possível obter resultados esplêndidos — algo que a mentalidade de até hoje simplesmente não consegue acreditar.
-
-Com base nesse princípio, a filosofia fundamental da Agricultura Natural é o respeito absoluto à Natureza, algo que a própria Natureza nos ensina com clareza. Basta observar a geração e o desenvolvimento de todas as coisas do universo para compreender que nada existe sem a força da Grande Natureza, ou seja, sem os três elementos primordiais do Fogo, da Água e da Terra, que correspondem ao Sol, à Lua e à Terra. O mesmo se aplica, obviamente, às culturas agrícolas. Proporcionando-lhes boa exposição solar, farta irrigação e um solo mais puro, elas produzirão em abundância, mais do que o necessário para o ser humano.
-
-Vejam! A terra nos oferece ervas secas e folhas caídas em profusão. A cada outono, elas cobrem o solo. Isso nada mais é do que um ensinamento para que as utilizemos como adubo, para tornar a terra mais fértil. Os agricultores pensam que o composto orgânico possui nutrientes, mas não é o caso. A verdadeira função do composto é evitar o ressecamento, aquecer e impedir a compactação do solo. Em outras palavras, ele absorve a umidade e o calor, e mantém a terra fofa.
-
-Por esse princípio, o adubo a ser dado ao arroz é a própria palha. Basta cortá-la o mais fino possível e misturá-la bem à terra. Isso é o natural, pois a palha é um produto do próprio arroz. Ela tem o efeito de aquecer as raízes. Para as hortaliças, as ervas e folhas secas são ideais, pois perto de uma horta sempre há um bosque com folhas caídas e ervas secas, o que indica que devemos usá-las.
-
-O centro da Terra é uma gigantesca massa de fogo que irradia constantemente calor, ou seja, espírito da terra. Isso é o nitrogênio. Este nitrogênio é o adubo dado por Deus. Ele atravessa a superfície terrestre, atinge uma certa altura, acumula-se e, com a chuva, desce à terra e se infiltra no solo. Este é o adubo de nitrogênio natural, que vem do céu e, naturalmente, em quantidade exata, nem em excesso nem em falta.
-
-Mas por que se começou a usar o adubo de nitrogênio? Há uma razão para isso. Durante a Primeira Guerra Mundial, a Alemanha, enfrentando escassez de alimentos, precisou aumentar a produção rapidamente. Descobriu-se então um método para extrair nitrogênio do ar, e seu uso resultou em um grande aumento da produção. Desde então, a prática se difundiu pelo mundo. No entanto, esse é um efeito temporário e que não se sustenta a longo prazo. Inevitavelmente, o excesso de nitrogênio enfraquecerá o solo e levará à diminuição da produção, mas esse princípio ainda não é compreendido. Basta pensar nisso como algo semelhante ao vício em drogas.
-
-Há um ponto que requer atenção. Mesmo ao se mudar para a Agricultura Natural, a quantidade de toxinas de fertilizantes remanescentes no solo do arrozal e nas sementes tem uma grande influência. Por exemplo, há campos que, já no primeiro ano, apresentam um aumento de dez por cento na colheita, enquanto outros, no primeiro e segundo anos, têm uma queda de dez a vinte por cento, e só no terceiro ano começam a ter um aumento de dez a vinte por cento, alcançando gradualmente os resultados esperados. De modo geral, pode-se prever o seguinte: no primeiro ano, a produção será semelhante à anterior; no segundo, um aumento de dez por cento; no terceiro, de vinte por cento; no quarto, de trinta a quarenta por cento; e, a partir do quinto ano, um aumento de cinquenta por cento. Portanto, se os resultados forem muito ruins, é porque há uma grande quantidade de fertilizantes artificiais remanescentes. Nesse caso, a situação pode ser atenuada temporariamente com a adição de terra de outra área.
-
-Há outra questão importante. Fertilizantes químicos como o sulfato de amônio, ao serem absorvidos pelo arroz, introduzem suas toxinas, ainda que em quantidades mínimas, no corpo humano, que o consome três vezes ao dia. É natural que, sem que se perceba, isso cause danos à saúde. O aumento da incidência de doenças no homem moderno pode muito bem ter essa como uma de suas causas.
-
-Para concluir, listarei brevemente os benefícios econômicos da Agricultura Natural:
-(I) Eliminação dos gastos com fertilizantes.
-(II) Redução da mão de obra pela metade.
-(III) Aumento expressivo da colheita.
-(IV) Aumento do peso, ausência de perda de volume no cozimento e sabor superior.
-(V) Praticamente eliminação das pragas.
-(VI) Solução completa para o problema dos vermes, como a lombriga, e outros parasitas, que atualmente são uma grande preocupação.
-
-Como se pode ver, este método de cultivo é revolucionário e constitui um verdadeiro evangelho. Sua prática não só resolverá de uma vez por todas a questão alimentar do Japão, mas também, a partir disso, influenciará positivamente todas as outras questões, especialmente a saúde humana. Se este método de cultivo se difundir por todo o Japão, não há dúvida de que acelerará a reconstrução do país e de que chegará o dia em que seremos admirados pelo mundo inteiro como uma nação de alta cultura. É com esse sentimento que desejo que o maior número possível de japoneses leia esta edição especial.
-
-Por fim, gostaria de deixar claro que não tenho a menor intenção de usar isso para fins de propaganda religiosa. A prova disso é que qualquer pessoa, mesmo sem fé, obterá os mesmos bons resultados ao praticar este método.
-
-(II)
-
-Ao analisar os resultados do ano passado, relatados de diversas regiões, lamento que alguns não tenham chegado até a colheita por ter sido cedo demais. No entanto, a tendência geral ficou clara, e gostaria de expressar minhas impressões. Acima de tudo, a Agricultura Natural nega o uso de fertilizantes, que até então eram considerados a própria vida das culturas. Por isso, no início, os praticantes enfrentaram críticas e ataques inesperados de suas famílias e vizinhos, tornando-se alvo de zombaria. Ler sobre como eles perseveraram em silêncio, com resignação e lágrimas de sangue, enche meus olhos de lágrimas. Sinto profundamente que isso só foi possível através da fé. Afinal, para pessoas que, por gerações, foram mergulhadas na superstição dos fertilizantes, é natural que se oponham.
-
-Isso me faz pensar que, ao longo da história, todas as invenções e descobertas que hoje contribuem imensamente para a humanidade foram, em seu início, sem exceção, alvo de mal-entendidos e perseguições. Os inúmeros registros de como seus autores superaram sofrimentos indizíveis para seguir em frente não deixam de abalar nossa alma.
-
-Assim, eu já estava preparado para que a Agricultura Natural também enfrentasse considerável oposição por um tempo. Contudo, como os resultados práticos são surpreendentes, eu sabia que era uma questão de ter paciência até um certo ponto. E, como esperado, o método finalmente começou a atrair a atenção de diversos setores, como se pode ver pelos relatórios que reunimos.
-
-No início, no entanto, as circunstâncias eram desfavoráveis e mesmo os próprios praticantes não tinham plena convicção. Por isso, poucos começaram de forma ousada e convicta; a maioria iniciou de maneira hesitante e experimental. Além disso, como o solo e as sementes estavam impregnados de toxinas de fertilizantes, no primeiro ano as plantas apresentavam folhas amareladas e caules finos, a ponto de parecerem que iriam morrer. Diante disso, os agricultores sentiam-se ansiosos e aflitos, orando a Deus. No momento da colheita, porém, os resultados eram surpreendentemente bons, e todos diziam sentir um grande alívio. É superando essa difícil fase que se conquista a coroa da vitória.
-
-Na verdade, eu gostaria de ter publicado os relatórios de diversas regiões após quatro ou cinco anos de prática, quando o aumento da produção atingisse cerca de cinquenta por cento. Contudo, a situação atual não nos permite esperar tanto. Além disso, creio que os resultados obtidos até agora já são suficientes para comprovar a eficácia deste método. Por isso, decidimos publicar esta edição especial para informar o mais rápido possível não apenas os agricultores, mas o público em geral.
-
-Nesse sentido, para que a informação chegue tanto pelos olhos quanto pelos ouvidos, esta edição especial será distribuída a todos os ministros, parlamentares, principais jornais, estações experimentais agrícolas, associações agrícolas e pessoas ligadas à agricultura em todo o país. Além disso, assim que os preparativos estiverem concluídos, planejamos realizar palestras em todo o país. Portanto, peço não apenas aos fiéis das áreas rurais, mas a todos os fiéis, que divulguem e recomendem este método com grande empenho.
-
-Segundo notícias recentes, o governo, aparentemente sem alternativas, planeja investir uma quantia enorme a partir deste ano para implementar todas as medidas possíveis em um plano de aumento de três milhões de *koku* na produção anual. Isso é bom, mas se continuarem a usar fertilizantes químicos e dejetos humanos, mesmo com outras melhorias agrícolas e diversas medidas, um aumento de três milhões de *koku* não passará de um sonho. Minha previsão é que, na melhor das hipóteses, teremos uma safra normal e, na pior, talvez até uma redução, como no ano passado.
-
-Portanto, desejo de todas as formas despertar as pessoas da superstição dos fertilizantes e fazer com que mudem para a Agricultura Natural o mais rápido possível. No entanto, mesmo que as pessoas compreendam e comecem a praticar, é obviamente impossível que todo o Japão mude de uma vez. Por isso, devemos proceder com a máxima cautela. Um bom plano seria implementar a mudança em dez por cento da área a cada ano, ao longo de dez anos. Dessa forma, não haverá preocupação com a redução da produção. Nos primeiros um ou dois anos, a safra será normal; após três anos, a produção começará a aumentar gradualmente e, após cinco ou seis anos, um aumento de mais de cinquenta por cento é absolutamente garantido.
-
-Há algo que gostaria de ressaltar aqui, algo que talvez seja difícil para os não-fiéis compreenderem. O arroz, sendo o alimento básico do ser humano, foi criado por Deus para nos sustentar. Portanto, por mais que a população aumente, a quantidade necessária deveria ser sempre produzida. O fato de atualmente haver um déficit de vinte milhões de *koku* por ano deve-se inteiramente a um método agrícola equivocado, ou seja, ao uso de fertilizantes artificiais. Se, como mencionei, a produção aumentar em mais de cinquenta por cento, o que acontecerá com a economia japonesa? O indesejável título de "reino endividado" será revertido, e é certo que viveremos uma era em que, literalmente, "o povo, de barriga cheia, baterá no chão satisfeito".
-
-Falar assim pode parecer bom demais para ser verdade e talvez desperte suspeitas, mas não digo coisas sem fundamento. Como se pode ver nos relatórios de experiências, com a Agricultura Natural, à medida que as toxinas dos fertilizantes desaparecem, o arroz produz "espigas sobre espigas". Ou seja, de um único caule saem vários ramos, e todos eles produzem grãos. Assim, é certo que um único caule produzirá de trezentas a quinhentas sementes. Se, além disso, não houver pragas e os danos por intempéries forem drasticamente reduzidos, nosso país fará jus ao seu antigo nome de "Terra das Férteis Planícies de Juncos e das Vigorosas Espigas de Arroz".
-
-Diante disso, posso afirmar sem hesitação que, mesmo que a população do Japão chegue a cem, duzentos ou trezentos milhões de habitantes, a área cultivada atual será suficiente para alimentar a todos.
-
-Há mais um ponto que gostaria de abordar. É a palavra "Jorei", que aparece em vários pontos dos relatórios. Para os não-fiéis, isso pode ser difícil de entender, mas, independentemente da compreensão, farei uma breve explicação. Em suma, Jorei é um método para eliminar as toxinas dos fertilizantes. O simples ato de impor as mãos produz um efeito maravilhoso, algo que uma mente presa ao pensamento materialista jamais poderia compreender. No entanto, este é o cerne de nossa fé, mas aqui o abordarei de forma sucinta.
-
-Façamos uma análise do solo. Em sua essência, o solo é composto por dois elementos: espírito e matéria. A matéria é o solo em si, e o espírito, embora invisível, é a sua verdadeira essência. Pode-se dizer que a matéria é a face visível, e o espírito, a invisível. Como os fertilizantes são toxinas, eles enfraquecem o corpo do solo, e isso se reflete no espírito, obscurecendo-o. Isso ocorre porque a lei universal é que o espírito é o principal e a matéria o secundário. O Jorei é, por assim dizer, um método de dissolução das toxinas dos fertilizantes. Durante o Jorei, uma espécie de onda de luz poderosa é irradiada da palma da mão, dissipando a mácula do espírito. Isso se reflete na matéria, e as toxinas diminuem. Esta é a verdade. A ciência, que desconhece este princípio, lida apenas com um dos lados, a matéria; é, portanto, um saber incompleto.
-
-Foi por causa dessa ciência imperfeita e de um pensamento tradicional que o solo cultivado foi enfraquecido pelos fertilizantes. Eu descobri este princípio, e dele nasceu a Agricultura Natural. Esta é a verdadeira ciência, uma grande descoberta mundial. Portanto, não é de se estranhar que possamos obter um aumento revolucionário na produção.
-
-Para finalizar, há um ponto que requer atenção. Quando digo "cinquenta por cento de aumento em cinco anos", estou tomando como padrão um campo que recebeu uma quantidade normal de fertilizantes artificiais. Em cerca de cinco anos, os resíduos de fertilizantes desaparecem completamente. Recentemente, porém, na tentativa de aumentar a colheita, o uso de fertilizantes químicos como o sulfato de amônio tornou-se excessivo em muitas áreas rurais. Por isso, mesmo que se mude para a Agricultura Natural hoje, levará mais tempo para que as toxinas dos fertilizantes desapareçam completamente, talvez mais de cinco anos. Como se pode ver nos relatórios, há uma diferença considerável nos resultados da Agricultura Natural, e isso se deve precisamente à quantidade de toxinas. Isso também se torna evidente logo. Durante a formação das espigas, se elas apresentarem uma cor amarelada, é porque ainda há toxinas. À medida que as toxinas desaparecem, as espigas se formam já verdes desde o início. O Jorei serve para esse fim. Portanto, após cinco anos ou mais, quando as toxinas tiverem desaparecido completamente, o Joreto não será mais necessário.
-
-O fato de a adição de terra de outra área melhorar temporariamente os resultados deve-se à introdução de solo sem toxinas. Apenas isso já deveria ser suficiente para que as pessoas compreendessem os danos das toxinas, mas se não compreendem, é porque estão completamente imersas na superstição dos fertilizantes.
-
-Publicado no jornal *Eikou*, edição 141, de 30 de janeiro de 1952.
-
-## Sobre a Agricultura Natural
-
-Esta é a terceira vez que publicamos uma edição especial sobre agricultura em nosso jornal, contando com as edições de anteontem e do ano passado. À medida que o número de praticantes da Agricultura Natural aumenta a cada ano, os relatórios também se multiplicam. Nesta edição, tivemos que adicionar um suplemento de quatro páginas.
-
-Ao ler os relatórios, um por um, vejo que os resultados estão cada vez melhores. Não só a colheita aumenta, mas a qualidade também melhora, o que, embora seja natural, me enche de alegria. Por causa disso, agricultores que antes estavam hesitantes, ao verem esses resultados práticos, estão mudando para a Agricultura Natural um após o outro. Houve um caso em que, de uma só vez, trinta e uma famílias de uma mesma aldeia adotaram o método. Os resultados na ilha de Sado, na província de Niigata, também têm sido excelentes desde o primeiro ano, e o número de praticantes não-fiéis está aumentando rapidamente. Nesse ritmo, é praticamente certo que, em poucos anos, toda a ilha estará praticando a Agricultura Natural.
-
-Além disso, como se pode ver em outro artigo, o Sr. Tatsuo Yamakawa, chefe da segunda seção de operações do escritório de alimentos de Tóquio, do Ministério da Agricultura e Florestas, desde que tomou conhecimento da Agricultura Natural, há dois anos, investigou minuciosamente a situação em campo e ficou surpreso, como se estivesse em um sonho, com os resultados inesperadamente bons. Como o método é completamente oposto à teoria acadêmica de até então, ele disse ter sofrido com a confusão mental por não conseguir compreendê-lo de imediato, o que é perfeitamente compreensível.
-
-Diante de tudo isso, pode-se dizer que a fase de discutir se o método é bom ou ruim já passou. Portanto, se ainda houver alguém que duvide, só posso pensar que essa pessoa é um excêntrico desprovido de ambição. O que devemos considerar seriamente é a tendência de aumento populacional em nosso país. A população continua a crescer, ignorando os esforços de controle de natalidade. Quando pensamos também no território que foi reduzido pela derrota na guerra, não deveríamos poder ficar de braços cruzados. No entanto, embora eu tenha distribuído esta edição especial no ano passado e no antepassado ao Ministro da Agricultura e Florestas e a outros ministros, parlamentares, jornais e principais entidades agrícolas do país, parece que não demonstraram muito interesse e continuam com o método agrícola equivocado.
-
-Por causa disso, além das centenas de bilhões de ienes gastos anualmente com fertilizantes químicos, as despesas com melhoramento de terras agrícolas, subsídios e outros somam um montante gigantesco. Estão empenhados em planos de aumento da produção para vários anos, mas o fato é que não há nenhum resultado. Tais planos foram repetidos inúmeras vezes, mas sempre terminaram em fracasso. Prova disso é que, no ano passado, embora se tenha falado em safra abundante, a produção mal superou a média. Isso é um selo de que, com o método agrícola tradicional, por mais que se invente e se esforce, não há mais o que fazer. E, mesmo quando lhes mostramos a nossa Agricultura Natural, que pode, de fato, aumentar grandemente a produção, eles a desprezam ou nem se dão ao trabalho de investigá-la. Talvez seja pela razão insignificante de que o método veio da religião, mas é uma situação lamentável.
-
-Assim, o governo estabelece diversas medidas, fracassa, e desperdiça ano após ano enormes quantias dos impostos do povo. Além disso, a importação de arroz também aumenta a cada ano. Atualmente, importamos mais de vinte milhões de *koku* anualmente, pagando por isso mais de cem bilhões de ienes. É uma tragédia nacional de causar grande apreensão. A causa dessa tragédia é a longa superstição dos fertilizantes, o que pode ser plenamente compreendido pelos numerosos relatórios em outro artigo. E, mesmo vendo os fatos diante dos olhos, há muitas pessoas, até mesmo entre os fiéis, que hesitam e relutam. A força dessa crença arraigada é surpreendente. Aqueles que, desde o início, seguiram minhas palavras com determinação, obtiveram os resultados esperados e se arrependem de não terem começado antes.
-
-Como este método é completamente oposto à prática tradicional, é compreensível que a mudança não seja fácil. No entanto, com tantos fatos que o comprovam, não há como não acreditar. A seguir, explicarei esses pontos com mais detalhes.
-
-Como resultado da aplicação de fertilizantes por nosso povo, de geração em geração, por um longo período, toda a terra agrícola de nosso país está completamente contaminada. Por isso, o solo se tornou ácido e perdeu sua força original, estando em uma condição semelhante à de uma pessoa com uma doença crônica grave. Como resultado, as plantas não conseguem absorver os nutrientes do solo e se modificaram para crescer absorvendo os fertilizantes. É exatamente como o vício em drogas.
-
-Até hoje, tanto nas estações experimentais agrícolas quanto entre os agricultores, houve tentativas de cultivo sem fertilizantes. No entanto, como os resultados no primeiro ano eram extremamente ruins, eles desistiam, desanimados. Ouvi falar disso várias vezes, e isso, claro, reforçou ainda mais a superstição dos fertilizantes. Assim, os agricultores chegaram a ter a percepção errônea de que os fertilizantes são o alimento das plantas.
-
-De fato, no primeiro ano da Agricultura Natural, as folhas ficam amareladas, os caules, finos e tão frágeis que as pessoas da vizinhança proferem zombarias e insultos, e há até quem dê conselhos. Isso porque eles nem sonham que a causa é a toxina dos fertilizantes. No entanto, como o praticante é um fiel, ele acredita absolutamente e espera pacientemente, suportando a situação difícil. A partir do segundo ou terceiro ano, o arroz começa a se parecer com arroz, a colheita aumenta e a qualidade também melhora. Então, aqueles que antes zombavam baixam a cabeça e se juntam ao grupo da Agricultura Natural. O número dessas pessoas aumentou consideravelmente nos últimos tempos.
-
-Para que as toxinas dos fertilizantes desapareçam completamente, é preciso contar com pelo menos cinco anos. Ao final desse período, o aumento de cinquenta por cento na produção que eu preconizo é garantido. E, à medida que se chega ao sexto, sétimo ano, o aumento da colheita será surpreendente, e não é de modo algum impossível que se chegue a um aumento de cem por cento, ou seja, o dobro. Isso porque o perfilhamento será mais que o dobro e, além disso, haverá "espigas sobre espigas". Se isso acontecer, não será apenas o dobro. Uma única haste poderá ter mais de mil grãos, algo que é simplesmente inacreditável.
-
-Gostaria de escrever aqui sobre o significado fundamental do arroz. O Criador, ao criar o ser humano, deu-lhe também o alimento básico para que pudesse viver. Para a raça amarela, foi o arroz; para a branca, o trigo. O solo foi criado para o cultivo desses alimentos, algo que ninguém pode negar. Sendo assim, por mais que a população aumente, a quantidade necessária deveria ser sempre produzida. Se não for assim, deve haver, sem dúvida, um grande erro em algum lugar. Basta descobrir esse erro e corrigi-lo. Fora isso, não há absolutamente nenhum outro caminho para aumentar a produção.
-
-Nesse sentido, se a população de nosso país é de oitenta e quatro milhões de habitantes, considerando um *koku* por pessoa, deveríamos colher oitenta e quatro milhões de *koku*. No entanto, se a produção média atual é de sessenta e quatro milhões de *koku*, há um déficit de vinte milhões. A causa disso são os fertilizantes químicos e os dejetos humanos. A ignorância a esse respeito é espantosa.
-
-Mas, felizmente, eu descobri esse ponto cego, e daí nasceu a Agricultura Natural. Com ela, em cinco anos, a produção aumentará em cinquenta por cento, chegando a noventa e seis milhões de *koku*, o que resultará em um excedente de doze milhões de *koku*. Se, além disso, não houver necessidade de fertilizantes, a mão de obra for poupada, os danos por intempéries forem mínimos e as pragas, que hoje são o problema mais difícil, se tornarem praticamente inexistentes, o benefício econômico será de centenas de bilhões de ienes, um valor difícil de estimar. Este método de cultivo de arroz, que parece um sonho, pode ser chamado de a maior salvação desde o início dos tempos. Para provar isso, há vários anos venho mobilizando muitos agricultores e incentivando a prática. Como obtive os resultados esperados, agora o anuncio ao mundo com total confiança. Além disso, como o endereço e o nome dos relatores estão detalhados, se houver alguma dúvida, o melhor é perguntar diretamente a eles.
-
-Como se vê, tanto do ponto de vista teórico quanto prático, não há a menor margem para dúvidas. Portanto, os agricultores deveriam, acima de tudo, começar a praticar o mais rápido possível.
-
-Há aqui outra questão importante que ninguém percebe. Ao se usar fertilizantes químicos como o sulfato de amônio e dejetos, suas toxinas são, obviamente, absorvidas pelo arroz. Assim, o homem de hoje come, três vezes por dia, um arroz com veneno. Não se sabe o quanto esse veneno afeta a saúde. De fato, quando se considera a fraqueza do homem moderno, sua propensão a adoecer e, especialmente, a alta incidência de parasitas nas áreas rurais, não há dúvida de que essa é a principal causa. Com isso, creio que a compreensão se tornou clara. A descoberta dessa superstição dos fertilizantes é, para a nação e para o povo, um evangelho de valor incalculável.
-
-A seguir, como parece haver muitos equívocos sobre o método de cultivo, vou escrevê-los aqui. Mesmo entre os que se tornaram fiéis de nossa Igreja, leram ou ouviram minhas explanações, há quem não as aceite prontamente. Como estão, por gerações, prisioneiros da superstição dos fertilizantes, isso é compreensível. No entanto, é hora de descartar isso completamente e fazer como eu digo.
-
-Quanto às sementes, nos relatórios aparecem nomes como "Norin nº tal" ou "Asahi tal", mas isso não tem nenhum significado. Na Agricultura Natural, qualquer semente de uso geral serve. Em outras palavras, uma vez que as toxinas dos fertilizantes sejam eliminadas, qualquer semente se tornará uma semente de primeira qualidade. O importante é a presença ou ausência de toxinas. O melhor seria obter de um fiel sementes sem fertilizantes de alguns anos. Nesse caso, quanto mais próxima a origem da semente, melhor. Dentro da mesma província, tudo bem, mas de uma província distante, os resultados são ruins, então é melhor evitar.
-
-Quanto às toxinas do solo, à medida que elas desaparecem, ele adquire uma agradável cor azulada, os caules se tornam firmes e fortes, o perfilhamento aumenta, as radículas se multiplicam e as raízes se aprofundam no solo, tornando a planta menos propensa a tombar. Por esses pontos, a melhora é evidente.
-
-Sobre o composto orgânico, parece que ainda não há uma compreensão completa. O pior é colocar folhas e ervas no arrozal. Isso deve ser abolido por completo. Para o cultivo de arroz, como sempre digo, basta cortar a palha em pedaços pequenos e incorporá-la profundamente no solo. Em excesso também não é bom, pois impede o crescimento das raízes. E, como digo repetidamente, a palha não tem nutrientes. Não se deve esquecer que os nutrientes estão no próprio solo. O uso da palha serve para aquecer o solo. Em regiões frias, pode-se usar, mas em regiões quentes, não é necessário. Este é o verdadeiro cultivo sem fertilizantes.
-
-Quanto à qualidade do solo, se é bom ou ruim, também não é algo com que se deva preocupar muito. Porque mesmo um solo ruim, sem fertilizantes, melhora a cada ano. É por isso que o cultivo contínuo é recomendado. O Jorei serve para eliminar as toxinas dos fertilizantes. Quando as toxinas desaparecerem, ele não será mais necessário.
-
-Escrevi aqui os pontos que me ocorreram. Outras questões, como o clima, o ambiente, a localização, a exposição solar, a irrigação, a época de semeadura e plantio, devem ser ajustadas conforme a conveniência de cada local.
-
-Por fim, há um ponto que requer atenção especial. É preciso separar a Agricultura Natural da fé. Digo isso porque, mesmo sem se tornar um fiel, obtém-se o aumento da produção esperado. Se houver o mal-entendido de que só os fiéis conseguem bons resultados, isso prejudicará a difusão deste importante método. É preciso ter em mente que o efeito é o mesmo, independentemente de se ser fiel ou não. Portanto, o Jorei também não precisa ser realizado com muita frequência. Duas ou três vezes por dia, de preferência sem ser visto, é suficiente. Em suma, não se esqueçam de, na medida do possível, manter a prática separada da fé.
-
-Publicado no jornal *Eikou*, edição 198, de 4 de março de 1953.
-
-## Pesquisa, Estudo e Análise da Agricultura Natural do Arroz
-
-*Eikou*, nº 141, 30 de janeiro de 1952.
-Kanazaki Sadao, Técnico Agrícola
-Chefe do Posto de Ominato, Escritório de Pesquisa Estatística de Aomori, Ministério da Agricultura e Florestas
-
-(I)
-
-1.  **Local da Pesquisa**
-    Aomori-ken, Shimokita-gun, Ohata-machi, Oaza Ohata, Aza Tsutsumibanzaka, nº 1
-
-2.  **Agricultor**
-    Kumakichi Kabasawa
-
-3.  **Área Cultivada**
-    1 *chō* e 1 *tan*.
-    Tono nº 1: 9 *tan*
-    Akage Mochi: 2 *tan*
-
-4.  **Variedades**
-    Tono nº 1 (precoce), arroz não glutinoso
-    Akage Mochi (precoce), arroz glutinoso
-
-5.  **Período de Imersão das Sementes**
-    8 a 22 de abril (15 dias)
-
-6.  **Data de Semeadura**
-    25 de abril (semeadura direta em viveiro aquático comum)
-
-7.  **Quantidade de Sementes**
-    5 a 6 *gō* (por *tsubo*)
-
-8.  **Quantidade de Adubo**
-    No viveiro: no outono; no campo principal: antes do preparo do solo. Tanto no viveiro quanto no campo principal, foi aplicado apenas palha de arroz finamente picada, na quantidade de 70 a 80 *kanme* (por *tan*). A palha foi umedecida com água adequada, e utilizou-se o material que, após fermentação, adquiriu uma tonalidade esbranquiçada, aplicado antes do preparo do solo.
-
-9.  **Data de Transplante**
-    5 a 8 de junho
-
-10. **Número de Touceiras**
-    100 a 105 touceiras (por *tsubo*)
-
-11. **Número de Plantas por Touceira**
-    5 a 7 plantas
-
-12. **Período da Primeira Capina**
-    20 a 24 de junho
-
-13. **Período da Segunda Capina**
-    7 a 10 de julho
-
-14. **Período da Terceira Capina**
-    15 a 19 de julho (leve)
-
-15. **Estado da Cultura em 15 de agosto**
-    (1) Altura da planta: 2 *shaku* e 2 *sun* a 2 *shaku* e 6 *sun*
-    (2) Número de espigas por touceira: 12 (média de 20 touceiras)
-    (3) Número de grãos por espiga: cerca de 150 (na espiga maior) (média de 20 touceiras)
-    (4) Situação da floração: 80% das espigas florescidas, sem danos por pragas ou doenças.
-
-16. **Resultados da Colheita por Amostragem em 30 de setembro**
-    (1) Data e hora da amostragem: 30 de setembro de 1951, 13:00
-    (2) Condições climáticas: Manhã com chuva leve, tarde nublada. Dia anterior chuvoso.
-    (3) Ferramenta de amostragem: Utilizado um cortador circular de *tsubo*.
-    (4) Método de amostragem: Três locais de qualidade média (um *tsubo* cada).
-    (5) Responsável pela amostragem: Pesquisador Kanazaki Sadao.
-    (6) Testemunhas: Prefeito de Ohata, Sr. Kikuchei Satome, e mais uma pessoa. Presidente da Comissão Agrícola de Ohata, Sr. Nishikawa Renzo, e mais uma pessoa.
-    (7) Número de touceiras: 100 a 105 (por *tsubo*), média de 102 touceiras.
-    (8) Peso do arroz em casca úmido e não beneficiado:
-        Tono nº 1 (por *tsubo*): 550 *monme* (por *tan*): 165 *kan*
-        Akage Mochi: 600 *monme* - 180 *kan*
-    (9) Período de maturação completa:
-        Tono nº 1: 1º de outubro
-        Akage Mochi: 6 de outubro
-    (10) Peso do arroz em casca seco e não beneficiado:
-        Tono nº 1 (por *tsubo*): 367 *monme* (por *tan*): 110 *kan*
-        Akage Mochi: 393 *monme* - 118 *kan*
-    (11) Peso do arroz em casca beneficiado:
-        Tono nº 1 (por *tsubo*): 360 *monme* (por *tan*): 108 *kan*
-        Akage Mochi: 377 *monme* - 110 *kan*
-    (12) Peso das impurezas:
-        Tono nº 1 (por *tsubo*): 3 *monme* (por *tan*): 90 *monme*
-        Akage Mochi: 6 *monme* - 1 *kan* e 800 *monme*
-    (13) Perda na joeira:
-        Tono nº 1 (por *tsubo*): 4 *monme* (por *tan*): 1 *kan* e 200 *monme*
-        Akage Mochi: 10 *monme* - 3 *kan*
-    (14) Volume beneficiado:
-        Tono nº 1 (por *tsubo*): 1 *shō* e 5 *gō* (por *tan*): 4 *koku* e 5 *to*
-        Akage Mochi: 1 *shō* e 8 *gō* - 5 *koku*, 0 *to* e 4 *shō*
-    (15) Peso por *shō* de arroz em casca beneficiado:
-        Tono nº 1: 280 *monme* / Tono nº 1: 300 *monme*
-        Akage Mochi: 240 *monme* / Akage Mochi: 280 *monme*
-    (16) Qualidade:
-        Tono nº 1: Superior-média
-        Akage Mochi: Superior-baixa (devido à colheita precoce, com alguns grãos verdes misturados)
-    (17) Volume estimado de arroz integral por *tan*:
-        Tono nº 1: 2 *koku*, 2 *to* e 2 *shō*
-        Akage Mochi: 2 *koku*, 5 *to* e 1 *shō*
-    (18) Peso estimado de arroz integral por *tan*:
-        Tono nº 1: 87 *kan*
-        Akage Mochi: 96 *kan* e 320 *monme*
-    (19) Sabor:
-        Tono nº 1: Bom
-        Akage Mochi: Alta viscosidade
-
-Características importantes:
-(1) Raízes longas e bem distribuídas (mais do que o dobro do cultivo com fertilizantes).
-(2) A terceira capina é desnecessária. Na Agricultura Natural, o crescimento se dá pelo desenvolvimento das raízes, conforme mencionado anteriormente. A terceira capina, ao contrário, prejudica as raízes e atrapalha o crescimento.
-
-**Adendo**
-1.  **Produção por *tan* ao longo dos anos:**
-    1948: 1 *koku* e 2 *to* (último ano com aplicação de fertilizantes químicos)
-    1949: 1 *koku* e 4 *to* (com Agricultura Natural)
-    1950: 1 *koku* e 8 *to* (com Agricultura Natural)
-    1951: 2 *koku* e 2 *to* (com Agricultura Natural)
-    (Nota) Valores abaixo de *to* foram arredondados.
-
-2.  **Solo:** Argiloso preto (próximo à turfa)
-3.  **Drenagem:** Ligeiramente deficiente
-4.  **Água de irrigação:** Não abundante, mas com temperatura média
-
-Por não se utilizar fertilizantes químicos há três anos (custo zero com fertilizantes e pesticidas), o solo está vívido, com minhocas, micorrizas e mofo *Penicillium* prosperando, o que, a meu ver, leva ao aumento da produção, à alta qualidade, ao bom sabor e a um alimento saudável. É digno de nota que este método se assemelha um pouco à agricultura de J.I. Rodale, autor de "Pay Dirt".
-
-Na Agricultura Natural, a aplicação de fertilizantes químicos, ao contrário do que se pensa, diminui a fertilidade do solo, transformando-o, com o tempo, em terra infértil. Parece ser considerado "um crime grave, equivalente a sentenciar a terra agrícola à morte".
-
-De acordo com minha pesquisa, o solo não é um material inorgânico; é vivo e muito ativo, rico em bactérias, actinomicetos, mofos, leveduras, protozoários, algas e outros microorganismos. Entre os animais, há apenas protozoários; o resto são todos microorganismos. Esses animais e plantas inferiores vivem em comunidade, sustentando a vida biológica do solo. (Omissão)
-
-Ou seja, parece existir uma pequena sociedade bem organizada. Para que essa sociedade prospere, as seguintes condições são necessárias: (Omissão)
-1.  É necessária uma circulação de ar suficiente. (Omissão)
-2.  É necessária umidade. (Omissão)
-
-Pelo exposto, não há dúvida de que compostos químicos potentes estão matando os aliados de centenas de milhares de agricultores. (continua)
-
-15 de novembro de 1951
-Pesquisador da Agricultura Natural
-(por três anos)
-
-(II)
-
-**Micorrizas**
-
-Mencionei o trabalho das bactérias do solo e das minhocas no aumento e manutenção da fertilidade do solo. O terceiro elemento no crescimento das plantas é a contribuição de fungos microscópicos que vivem no solo.
-
-Biólogos do passado notaram que as raízes das plantas eram invadidas por fungos microscópicos, mas geralmente os consideravam prejudiciais. No entanto, cientistas do solo modernos, após árduas pesquisas e experimentos nesta área, descobriram que esses fungos ajudam seu hospedeiro de uma maneira notável e são indispensáveis para sua vida segura.
-
-O Dr. Gunning, em seu livro "Botânica", descreve essa ação da seguinte forma:
-Certos fungos microscópicos, que se desenvolvem em contato com as pontas das raízes de muitas plantas que crescem em solos ricos em húmus, entrelaçam seus micélios ao redor das raízes, substituindo os pelos radiculares. Acredita-se que as micorrizas, como seu nome indica, absorvem água e matéria orgânica solúvel separada pela decomposição de minerais.
-
-Sir Howard, em seu livro "O Testamento Agrícola", afirma:
-A associação micorrízica é a ponte viva que conecta diretamente um solo fértil — rico em húmus — com a cultura, transportando alimento pronto para uso do solo para a planta. Como essa associação afeta a função das folhas verdes da planta é uma das questões mais interessantes que a ciência atual deve investigar.
-
-A Lady Eve Balfour, analisando a pesquisa de Sir Howard, disse: "As culturas feitas com composto orgânico sempre apresentaram um desenvolvimento abundante de micorrizas, em nítido contraste com as feitas com fertilizantes químicos".
-
-Há alguns anos, ao viajar por uma região vinícola da França, Sir Howard procurou por videiras vigorosas como as que se veem na Ásia Central. Ao perguntar à proprietária do local, ela disse que nunca havia aplicado fertilizantes químicos e que a qualidade de seu vinho era muito apreciada. Ele examinou as raízes e descobriu a associação micorrízica.
-
-Ele também pesquisou a agricultura de composto orgânico em grande escala para várias culturas e argumentou a necessidade de agricultores e estações experimentais agrícolas estudarem o valor das micorrizas e sua relação com as culturas.
-
-**Mofo *Penicillium***
-
-O histórico da atividade e da vida dos microorganismos do solo é obscuro, mas um tipo de micorriza é o mofo *Penicillium*.
-Foi descoberto por acaso há cerca de quinze anos pelo cientista britânico Dr. Fleming. Quando este mofo contaminou um meio de cultura de bactérias, formou-se um claro espaço vazio ao seu redor. Sua curiosidade o levou a aprofundar a pesquisa, resultando na descoberta da penicilina. Ela é secretada por um microorganismo do solo de poder surpreendente.
-
-Lady Eve Balfour, em seu livro "O Solo Vivo", descreve como muitas bactérias do solo atacam e comem protozoários prejudiciais às plantas. "Muitas das espécies que comem nematoides (vermes cilíndricos) criam armadilhas ou invólucros com seus micélios, ou secretam substâncias adesivas. Quando um nematoide entra no invólucro, ele o envolve e o prende, mesmo que se debata, por até duas horas", afirma. Leitões são muito suscetíveis à diarreia por enterite, mas se lhes for dado um solo de gramado rico em húmus, eles se curam completamente. A razão pela qual os pássaros selvagens diminuíram drasticamente nas fazendas é o uso excessivo de fertilizantes químicos e a prática habitual de pulverização de produtos químicos.
-
-Os pássaros gostam de cavar o solo para capturar larvas de insetos. Se eles bicarem um solo que se tornou ácido pela aplicação de sulfato de amônio, perceberão imediatamente que vieram ao lugar errado e voarão para pastagens verdes e profundas. Assim, o agricultor perde um importante aliado que o protege das pragas.
-
-Os cientistas, sabendo que os microorganismos do solo têm um grande poder de curar doenças humanas, começaram a estudar os microorganismos para erradicar as doenças das plantas.
-Foi revelado que a comunidade de microorganismos do solo tem uma relação complexa de elementos positivos e negativos. Quando o solo está nas condições corretas, a vida transcorre em um estado equilibrado e harmonioso, e os microorganismos benéficos controlam os prejudiciais. É encorajador que os cientistas que dependiam da química estejam tendo sucesso no uso de microorganismos do solo.
-
-Sinto que me desviei um pouco do assunto. Voltemos à pesquisa e ao estudo do princípio e da teoria da Agricultura Natural.
-
-**O Princípio da Agricultura Natural**
-
-O autor argumenta que o princípio da Agricultura Natural é fazer com que o grande poder do solo se manifeste. Acredito que há muita verdade nisso. Ele também afirma que, até hoje, o homem não conhecia a verdadeira essência do solo, ou melhor, não lhe foi permitido conhecer. Essa concepção levou ao uso de fertilizantes, e, com o tempo, criou-se uma dependência deles. Além disso, nos últimos anos, o número de praticantes da Agricultura Natural tem aumentado, e os resultados obtidos em todos os lugares têm sido extraordinários. No entanto, por enquanto, parece que a prática se restringe ao círculo de fiéis, mas gradualmente simpatizantes estão surgindo entre os não-fiéis em várias regiões, e o método está se expandindo com grande ímpeto.
-
-O que o autor chama de "movimento para a erradicação da superstição dos fertilizantes" também tem, a meu ver, uma certa verdade. O fato de não se usar dejetos humanos nem fertilizantes químicos, mas apenas composto orgânico, assemelha-se à teoria do livro de Rodale ("Pay Dirt"). No entanto, enquanto na Agricultura Natural se usa matéria orgânica natural como ervas e folhas secas como matéria-prima para o composto, o não uso de fertilizantes químicos, dejetos humanos e animais, esterco, adubo de peixe e cinzas de madeira como matéria não natural difere um pouco da teoria de Rodale.
-
-Ademais, os praticantes da Agricultura Natural afirmam que não há nada em toda a Criação que não se banhe nas bênçãos da Grande Natureza. Ou seja, os "três elementos" — Fogo, Água e Terra — correspondem ao oxigênio do Fogo, ao hidrogênio da Água e ao nitrogênio da Terra, e nenhuma cultura agrícola foge a essa regra.
-
-Eles também afirmam que a "lei da Grande Natureza" foi ignorada. E que o método agrícola atual não é progressista, mas regressivo, o que também se assemelha, em sua raiz, à teoria de Rodale.
-
-Além disso, se os três elementos — Fogo, Água e Terra — são a força motriz que nutre as culturas, ao se cultivar em solo puro, com boa exposição solar e água abundante, é certo que se obterá um grande resultado. A causa dos maus resultados seria o desconhecimento da verdadeira essência do solo.
-
-Quanto ao efeito reverso dos fertilizantes, diz-se que, embora tenham um efeito considerável no início, com o uso prolongado ocorre uma ação contrária. Ou seja, a capacidade original da planta de absorver os nutrientes do solo se enfraquece, e ela se modifica, passando a depender do fertilizante como nutriente. A analogia com o vício em drogas no ser humano torna isso mais claro. Quando uma pessoa usa uma droga pela primeira vez, ela sente prazer ou clareza mental, e, incapaz de esquecer essa sensação, afunda-se cada vez mais, tornando-se incapaz de se libertar. O resultado é o vício em drogas, ou melhor, o vício em fertilizantes. Isso também tem uma certa verdade.
-
-Desde a primavera de 1949, por curiosidade, venho pesquisando e estudando o caso do Sr. Kabasawa, praticante da Agricultura Natural em Ohata, aproveitando meu tempo livre. Na época do transplante, as folhas estavam com uma cor ruim, as mudas eram curtas e visivelmente inferiores às dos outros campos. No entanto, notei que, em proporção às folhas e caules, as raízes eram longas e grossas. Em agosto, o crescimento foi notável; em setembro, superou a média; e em outubro, tornou-se excelente. Fiquei completamente surpreso com a maturação. A colheita também foi maior do que o esperado, e a qualidade e o sabor eram bons. O aumento de volume no cozimento também foi surpreendente. O arroz glutinoso também tinha uma viscosidade muito forte, o que foi outra surpresa.
-
-Os praticantes da Agricultura Natural também dizem que, ano após ano, as toxinas dos fertilizantes enfraquecem o solo e o tornam estéril. Isso também tem uma certa verdade. Ao ouvir a explicação sobre a prática da fertilização natural, eles dizem que, para o arroz, corta-se a palha em pedaços pequenos e se mistura bem com a terra para aquecer o solo.
-
-Para as hortas, folhas e ervas secas são deixadas em decomposição até que suas nervuras se amoleçam e, então, são bem misturadas ao solo. A razão para isso é que, se a terra estiver compactada, as raízes das plantas não conseguem se estender bem. Por isso, o objetivo é evitar a compactação.
-
-Idealmente, para culturas de raízes superficiais, bastaria misturar o composto de folhas e ervas à terra da horta. Para as de raízes profundas, seria bom criar uma camada de composto de folhas a cerca de um *shaku* de profundidade.
-
-As pessoas tendem a superestimar o valor nutritivo do composto orgânico, mas sua principal função é, primeiro, evitar a compactação do solo; segundo, aquecê-lo; e terceiro, prevenir os danos da seca. O fundamento da Agricultura Natural é "vivificar o próprio solo. Vivificar o solo significa manter a terra sempre pura, sem usar impurezas como os fertilizantes artificiais. Assim, livre de obstáculos, o solo pode manifestar plenamente sua força original", afirmam. Como um adendo, eles mencionam que, ao se criar o bicho-da-seda com folhas de amoreira cultivadas naturalmente, os casulos não adoecem, a seda é forte e lustrosa, e o aumento da produção é garantido.
-
-As teorias e as pesquisas práticas dos praticantes da Agricultura Natural parecem, a meu ver, ter uma conexão com a tese do americano Rodale.
-
-Escrito em 18 de novembro de 1951 (continua)
-
-## Conto de Fadas? Milagre?
-
-*Eikou*, nº 198, 4 de março de 1953
-Yamakawa Tatsuo, Técnico Agrícola
-Chefe da Segunda Seção de Operações, Escritório de Alimentos de Tóquio, Ministério da Agricultura e Florestas
-
-“Como pode um bacharel em agronomia dar atenção a um assunto tão fantasioso e anticientífico? Que sujeito insensato!”, repreenderam-me, em uníssono, muitos de meus superiores e colegas.
-
-A isso, eu sempre respondia, com o rosto corado de timidez: “Eu também estudei um pouco de agronomia e fertilizantes, e, quando ouvi essa história pela primeira vez, reagi da mesma forma que o senhor, afirmando que algo tão fantasioso não poderia existir. Mas meu interlocutor, sem se abalar, insistiu: ‘Os fatos comprovam, não há o que fazer. Veja a realidade com seus próprios olhos.’ E assim, nos últimos dois anos, venho, secretamente, visitando os locais em Chiba, Kanagawa, Saitama e Tochigi. É algo tão misterioso que meu conhecimento de agronomia e fertilizantes não consegue explicar. Por isso, engolindo meu orgulho, venho lhe falar. Estou perdido sobre como lidar com este fato solene. Por favor, veja a realidade e me empreste sua sabedoria para decifrar esta história que parece um conto de fadas.”
-
-Essa é a conversa que invariavelmente se desenrola no início, sempre que falo com meus superiores e amigos sobre um método de cultivo chamado Agricultura Natural, no qual as culturas aumentam de produção à medida que os anos passam, quatro, cinco anos, sem a aplicação de qualquer fertilizante artificial.
-
-Permitam-me, então, explicar o que é essa Agricultura Natural, que é logo rotulada como um conto de fadas. Acredito que a maioria dos leitores, ao ler com base em suas ideias preconcebidas, pensará: “Que absurdo! Como algo assim poderia acontecer? Não existe almoço grátis!”, e simplesmente não acreditará. E eu também acho que é natural não acreditar.
-
-O que me despertou um interesse especial pela Agricultura Natural e me levou a pesquisá-la foi um relatório do Sr. Sadao Kanazaki, técnico agrícola e chefe do posto de Ominato do escritório de pesquisa estatística de Aomori, intitulado “Pesquisa, Estudo e Análise da Agricultura Natural do Arroz”. Em seu tempo livre, ele investigou por três anos a realidade dos praticantes da Agricultura Natural em sua vizinhança e relatou os resultados.
-
-Vejamos o que se poderia chamar de princípio da Agricultura Natural: “O solo foi criado pelo Criador para produzir as culturas que alimentam os homens e os animais. Sendo assim, a essência do solo é ser tão rico em nutrientes que se poderia dizer que é um amontoado de fertilizantes. Por desconhecerem completamente essa verdade, as pessoas passaram a ver os fertilizantes como o alimento das plantas e, como resultado da aplicação de diversos adubos artificiais, acabaram, surpreendentemente, por enfraquecer a força original do solo. Portanto, para aumentar a produção, é preciso fortalecer ao máximo a força do próprio solo. Para isso, basta parar de aplicar qualquer impureza além do composto orgânico (ervas secas, folhas caídas e palha), ou seja, dejetos humanos, fertilizantes químicos, esterco de gado e cavalo, excremento de galinha, adubo de peixe e cinzas de madeira. Assim, o solo se tornará puro e manifestará sua força original, e as culturas aumentarão de produção.”
-
-O leitor pode pensar que isso é possível porque o composto orgânico tem nutrientes, e que bastaria aplicá-lo em grande quantidade. Mas não é o caso. Dizem que a função do composto é evitar o ressecamento, aquecer e impedir a compactação do solo, ou seja, absorver a umidade e o calor e manter a terra fofa, e não o usam como fertilizante. A quantidade aplicada é de apenas quarenta a cinquenta *kan* por *tan*.
-
-Esse é o princípio da Agricultura Natural. Em suma, não se usa nenhum fertilizante artificial e se pratica o cultivo contínuo. O mais importante é usar sementes colhidas pelo método da Agricultura Natural. Os outros métodos de cultivo podem ser os mesmos de sempre.
-
-Segundo o relatório do técnico Kanazaki, um campo que, em 1948, com a aplicação de fertilizantes químicos, produziu 1 *koku* e 2 *to* por *tan*, desde que começou a praticar a Agricultura Natural em 1949, aumentou a produção para 1 *koku* e 4 *to* em 1949, 1 *koku* e 8 *to* em 1950, e 2 *koku* e 2 *to* em 1951.
-
-Um praticante da Agricultura Natural em Utsunomiya, que visitei em 10 de outubro deste ano e que está no quarto ano, disse com confiança: “Há cinco anos, quando eu usava fertilizantes, por melhor que adubasse, este campo não passava de sete fardos por *tan*. No ano passado, no terceiro ano da Agricultura Natural, colhi oito fardos e meio. Este ano, acho que colherei um pouco mais.” A altura da planta, a cor da palha, o número de perfilhos, o número de grãos por espiga e a forma como as espigas se formaram eram claramente diferentes das do arroz dos campos vizinhos.
-
-De acordo com uma tabela comparativa entre a Agricultura Natural e a agricultura convencional (comparação da mesma variedade sob as mesmas condições, com e sem adubação, sendo a única diferença a presença ou ausência de fertilizantes), no primeiro e segundo anos, a altura da planta é cerca de dez por cento menor. No terceiro ano, a altura é aproximadamente a mesma e, a partir do quarto ano, é, ao contrário, mais de dez por cento maior. E este arroz, no quarto ano, era mais alto que o arroz cultivado com fertilizantes dos vizinhos.
-
-Quanto ao perfilhamento, a tabela mostra que, no primeiro e segundo anos, há uma diminuição de cerca de quinze por cento. No terceiro ano, o número é igual ou maior e, a partir do quarto ano, há um aumento de mais de dez por cento. E este arroz tinha, de fato, cerca de três perfilhos a mais. Mas, mais do que isso, ao segurar um feixe na mão, senti que era firme e sólido como junco, enquanto o arroz com fertilizantes era mole e flexível. Fiquei surpreso. Lembrei-me de ter lido em um relatório que “não tomba com tufões, é resistente a pragas e doenças, e, embora o campo vizinho tenha sido atacado por cigarrinhas, o meu não sofreu nenhum dano”. Pela sensação em minhas mãos, pensei que, com essa resistência, talvez algo assim fosse possível.
-
-O número de grãos por espiga, segundo a tabela, diminui menos de dez por cento no primeiro ano, é quase o mesmo no segundo, aumenta mais de dez por cento a partir do terceiro e mais de trinta por cento a partir do quarto. E o arroz desta casa estava, de fato, tão farto e carregado que se poderia descrevê-lo como exuberante. Mas o que devo ressaltar é que, enquanto no arroz com fertilizantes os grãos da espiga se formam de maneira desigual, de baixo para cima, neste arroz sem fertilizantes, os grãos de todas as espigas estão na mesma altura e se formam uniformemente, quase sem grãos chochos.
-
-Quanto à cor, a casca do arroz é de um dourado puro, e a palha é de um verde-amarelado brilhante. A diferença é mais nítida do que o contraste entre o rosto de uma pessoa doente e o rosado de uma pessoa saudável. Por isso, mesmo de longe, é possível distinguir os campos com e sem fertilizantes, como se fossem cobertos por mantas de cores diferentes, qualquer um pode ver à primeira vista.
-
-Outra característica que se percebe imediatamente ao olhar são as raízes longas e numerosas. O comprimento e o número são de duas a três vezes maiores que os do arroz com fertilizantes. Quando as mudas são transplantadas do viveiro para o campo principal e o arroz com fertilizantes cresce vigorosamente, as mudas sem fertilizantes ficam avermelhadas e quase não crescem, tornando-se alvo de zombaria dos vizinhos todos os anos. Mas, nesse momento, as raízes, em busca dos nutrientes originais do solo, estão se estendendo para baixo, cada vez mais para baixo.
-
-Como você deve ter imaginado pelo número de perfilhos e de grãos por espiga mencionados acima, a colheita diminui no primeiro e segundo anos. De fato, a tabela mostra uma queda de cerca de dez por cento no primeiro ano. Os agricultores que visitei também disseram que, até a debulha e o beneficiamento, pensavam que a safra seria muito ruim, mas, ao beneficiar, viram que havia mais do que esperavam, e a queda na produção por *tan* foi de cerca de dez por cento.
-
-A taxa de rendimento do arroz da Agricultura Natural é normalmente de sessenta e cinco por cento, com relatos de até setenta e cinco por cento. Isso provavelmente se deve à casca fina e ao conteúdo denso do grão.
-
-A partir do segundo ano, a safra se torna normal e, no terceiro, quarto e quinto anos, a tabela mostra um aumento de dez, vinte e mais de trinta por cento. As fazendas que visitei também apresentaram um aumento de produção semelhante, confirmando a veracidade da tabela.
-
-Quando falo sobre a Agricultura Natural, há quem afirme: “Isso se deve aos fertilizantes residuais.” Mas como explicar o fato de que a produção diminui no primeiro ano e aumenta à medida que os anos passam? Eu não consigo entender, mas o descobridor da Agricultura Natural explica: “A aplicação de fertilizantes químicos nas culturas teve um efeito considerável em um primeiro momento, então as pessoas continuaram a aplicá-los ano após ano, o que resultou em uma ação contrária. Ou seja, a capacidade original da cultura é absorver os nutrientes do solo, mas, ao ser fertilizada, ela se modificou, passando a depender do fertilizante como nutriente. É como o vício em drogas no ser humano. Quando se usa uma droga pela primeira vez, sente-se prazer ou clareza mental, e, incapaz de esquecer essa sensação, a pessoa se afunda cada vez mais e se torna viciada. Da mesma forma, as sementes das culturas atuais estão todas viciadas em fertilizantes. Assim como um viciado em álcool, fumo ou drogas não consegue suportar a interrupção súbita, se não se aplicar nenhum fertilizante, a planta, como um viciado em nicotina que para de fumar e fica apático, terá uma aparência pobre e, consequentemente, a produção diminuirá. No entanto, como mencionado, as raízes, por não encontrarem nutrientes na superfície, retornam à sua capacidade original e se estendem profundamente em busca de nutrientes no solo. Após um ano, o vício em fertilizantes melhora um pouco, mas não completamente. Usando essas sementes, planta-se no segundo ano, no terceiro, e assim o vício é curado, e a cultura manifesta sua capacidade original. Após dois, três anos sem fertilizantes, o solo se purifica, e a cultura, absorvendo os nutrientes do solo purificado, aumenta de produção.”
-
-Houve quem dissesse: “O cultivo sem fertilizantes já foi testado e comprovado nas estações experimentais agrícolas. Para que falar disso agora?” Eu gostaria de perguntar se nos experimentos das estações agrícolas eles usaram as sementes colhidas do cultivo sem fertilizantes para plantar no mesmo local no ano seguinte.
-
-A importância de usar como semente o que foi colhido do cultivo sem fertilizantes foi algo que vi claramente com meus próprios olhos quando visitei um agricultor em Saitama que pratica a Agricultura Natural há quatro anos. Um campo que começou a ser cultivado sem fertilizantes este ano foi dividido ao meio. Em uma metade, foram plantadas mudas que vinham sendo cultivadas sem fertilizantes há quatro anos. Na outra, mudas que estavam sendo cultivadas sem fertilizantes pela primeira vez este ano. No final de setembro, o desenvolvimento era tal que a diferença na colheita era claramente distinguível. As sementes e o solo sem fertilizantes, juntos, aumentam a produção, mas o exemplo de que apenas as sementes que retornaram à sua capacidade original já produzem bons resultados me fez reconhecer a grandiosidade das sementes sem fertilizantes.
-
-Por fim, quanto à qualidade, no caso do agricultor de Saitama, no ano passado, com uma área de um *chō* e cinco *se*, ele colheu oitenta e quatro fardos. Sua cota de entrega era de trinta fardos. O resultado da inspeção foi: um fardo de segunda classe e vinte e nove de terceira. Outro agricultor, com uma cota de cinquenta e sete fardos, teve vinte e oito de segunda classe e vinte e sete de terceira. Naquela região, no ano passado, quase não houve arroz de segunda classe; os de terceira foram menos de 30%, os de quarta mais de 50%, e o resto de quinta. Comparado a isso, pode-se dizer que foi um resultado muito bom. O arroz integral também era bem lustroso, e o peso por *shō* era de três a quatro por cento maior que o do arroz com fertilizantes. Houve casos em que um fardo foi preenchido com apenas três *to* e oito *shō*.
-
-Quanto ao sabor, provei o arroz novo em Utsunomiya e era maravilhoso. Também provei acelga, melancia e batata-doce cultivadas sem fertilizantes, e não posso negar que são deliciosas. O *mochi* feito do arroz beneficiado também é suave ao paladar, muito viscoso, como um *habutae-mochi*.
-
-“Sem gastos com fertilizantes, com economia de mão de obra e ainda por cima com colheita maior. E o sabor e a qualidade são incomparáveis! Uma história tão boa assim só pode ser um conto de fadas; não se pode pensar que exista neste mundo. Fale sério!” Acredito que quase todos pensam assim. Mas minha peregrinação por vários países em busca deste conto de fadas já dura dois anos, e este sonho (?) ainda não acabou. Para mim, não consigo deixar de pensar que é um milagre contemporâneo. Se for um sonho, que eu acorde o mais rápido possível! Se for um milagre, que apareça logo um amigo que o analise com o bisturi da ciência!, é o que eu gostaria de gritar.
-
-(Nota) Este pequeno artigo foi publicado na edição de Ano Novo do "Movimento Mensal", publicado pelo Escritório de Alimentos de Tóquio. Na ocasião, os dados da Agricultura Natural (fornecidos por nossa Igreja) foram incluídos como um suplemento. Para referência, publicamos na página seguinte.
-
-**Arroz da Agricultura Natural**
-Resultados de 1951
-
-| | Primeiro Ano | Segundo Ano | Terceiro Ano | Quarto Ano | Quinto Ano | Sexto Ano |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Variação da colheita (Natural vs. Com Fertilizante)** | +4,7% | +20,2% | +30,6% | +31,0% | +63,0% | +74,0% |
-| **Variação da altura da planta** | -8,3% | -9,9% | -0,8% | +1,0% | +0,5% | +0,5% |
-| **Variação do perfilhamento** | -16,8% | -16,1% | -3,0% | +11,5% | +16,0% | +25,5% |
-| **Variação do nº de grãos por espiga** | -4,9% | -1,5% | +12,9% | +30,0% | +44,0% | +50,0% |
-| **Variação do peso por *shō* de arroz integral** | +4,4% | +4,4% | -4,5% | +2,5% | +3,8% | +20,0% |
-| **Variação da taxa de rendimento** | +12,3% | +16,3% | +13,9% | +18,5% | +17,0% | Incerto |
-| **Número de casos pesquisados (106 famílias)** | 68 | 26 | 15 | 2 | 2 | 1 |
-
-◎ Esta tabela mostra a porcentagem de aumento ou diminuição em comparação com os resultados obtidos sob as mesmas condições e com a mesma variedade, mas com fertilizantes.
-
-## "A Agricultura Natural de Sado" - Mesa-Redonda
-
-*Eikou*, nº 198, 4 de março de 1953.
-
-**Local:** Igreja Koyo-Tyu, Posto de Kawaharada da filial de Sanjo, Suwa-cho, Kawaharada-machi, Sado-gun, Niigata-ken
-**Data:** 15 de fevereiro de 1953
-**Moderador:** Ishii Tomizo
-**Participantes:** Oda Tatsu, Kataoka Kansaku, Uesaka Tatsuo, Matsumoto Tomizo, Yamamoto Shika, Nahata Teiichi, Tsuchiya Shusaburo, Tsuchida Nao, Tsuchiya Sue, Ito Masao, Kitami Shintaro (e mais de 40 outros participantes)
-**Transcrição:** Imai Naoko
-
-**Média de produção de 18 campos de Agricultura Natural (incluindo os de primeiro ano):** 3 *koku*, 1 *to* e 1 *shō*
-**Média de produção de campos de controle com fertilizantes:** 2 *koku*, 7 *to* e 2 *shō*
-*Jorei não realizado, apenas o método da Agricultura Natural foi aplicado.*
-
-Sado, a ilha turística no Mar do Japão, famosa pela canção "Sado Jowa". Nos quatro mil *chō* da planície de Kuninaka, que produz mais de oitenta e cinco por cento dos duzentos e quarenta mil *koku* de arroz da ilha, as douradas ondas de arroz da Agricultura Natural aumentam a cada ano. E, sem a prática do Jorei, não houve um único caso de queda na produção desde o primeiro ano. A partir do ano passado, muitos não-fiéis também começaram a praticar, e, surpreendentemente, todos obtiveram bons resultados. Naturalmente, a cota de entrega foi cumprida em 100%. Pragas, doenças, mão de obra, alto custo dos fertilizantes — nada disso é problema. Mulheres, crianças, qualquer um pode fazer. Não é preciso técnica, nem truques. Só traz benefícios, nunca prejuízos. Apresentamos a mesa-redonda destes praticantes de uma agricultura celestial.
-
-**◎ A Conversão do Presidente da Comissão Agrícola**
-
-**Moderador:** Realizamos uma mesa-redonda anteriormente. Qual foi o impacto da Agricultura Natural no ano passado?
-
-**Ito:** Por muito tempo, tentei praticar a Agricultura Natural, mas meu pai, que é o presidente da comissão agrícola e age como um porta-voz das empresas de fertilizantes, se opunha firmemente. No ano passado, depois que a edição especial sobre agricultura foi distribuída em Sado, a atitude de meu pai mudou. Peço desculpas por dizer que foi a título de teste, mas dividimos um campo ao meio, metade com Agricultura Natural e metade com fertilizantes. O resultado foi mais do que claro. A parte com fertilizantes sofreu com pragas e doenças e quase toda acamou. A parte natural teve mais perfilhos, mais grãos por espiga e nenhum grão chocho. Naturalmente, não houve pragas, doenças nem acamamento, e todos garantiram que a produção era, sem dúvida, trinta a quarenta por cento maior que a da parte com fertilizantes. Diante da enorme diferença entre os dois, ele disse que, a partir deste ano, mudaria tudo para a Agricultura Natural. Quanto aos números da colheita, acho que ele misturou o arroz da parte com fertilizantes por ter se convencido da superioridade da Agricultura Natural e por vergonha de ter se oposto por tanto tempo.
-
-**Oda:** Há cinquenta e quatro famílias de agricultores em Kawaharada. A entrega de arroz é de cerca de mil fardos. Desses, na parte com fertilizantes, apenas cinco fardos foram de segunda classe. E então, a Sra. Tsuchida, de cinquenta e cinco anos, entregou quatorze fardos, e todos foram de segunda classe. Diante disso, até mesmo o presidente da comissão agrícola teve que se render.
-
-**Moderador:** Em Niigata, uma única família pode entregar cem, duzentos fardos, mas, de dez mil fardos reunidos, quase não houve arroz de segunda classe no ano passado.
-
-**Yamamoto (esposa do prefeito da vila K):** No ano passado, em nossa propriedade, o fertilizante que aplicamos fez com que as plantas de arroz desaparecessem. Todas as espigas ficaram pretas e se dissolveram. Cultivamos oito *tan*, e conseguimos colher apenas um fardo. O resto, nem as vacas, nem as galinhas, nem os porcos comem.
-
-**Moderador:** Com a transição do dia para a noite, a purificação se intensifica, e creio que isso seja um ensinamento de Deus sobre a purificação das toxinas dos fertilizantes. Mostre o jornal sobre a Agricultura Natural para sua família.
-
-**Yamamoto:** Meu marido dizia que este ano venderia o que fosse preciso para comprar fertilizantes, mas recentemente ele tem dito que este ano não usará fertilizantes de jeito nenhum.
-
-**Todos:** Este ano, usar fertilizantes é absolutamente impensável.
-
-**◎ Sem Jorei**
-
-**Moderador:** Na última mesa-redonda, foi dito que este ano o Jorei seria praticado de forma completa...
-
-**Matsumoto:** Isso é a primeira coisa pela qual devo me desculpar.
-
-**Sue:** Como eu recomendei o método a pessoas que não são fiéis, dizendo que qualquer um pode fazer, seria estranho se só eu praticasse o Jorei. É sem Jorei, tudo natural. Além disso, os campos dos praticantes em geral ficam ao redor do meu, então não posso impor as mãos.
-
-**Moderador:** E como estão os resultados das pessoas em geral?
-
-**Sue:** O inspetor de arroz que cultiva o campo acima do meu obteve resultados muito bons.
-
-**Kataoka:** O irmão da minha esposa não é fiel, mas praticou a Agricultura Natural pela primeira vez no ano passado e obteve resultados superiores aos da agricultura convencional com fertilizantes. Ele está muito feliz.
-
-**Kitami:** Eu também estou no primeiro ano, mas tive um aumento de dois fardos por *tan*.
-
-**Uesaka:** Eu também estou no primeiro ano, e a diferença em relação ao cultivo com fertilizantes é enorme.
-
-**Matsumoto:** O cultivo com fertilizantes tem fracassado completamente nos últimos dois ou três anos.
-
-**Moderador:** Em Niigata também, a melhor colheita foi há quatro anos, e desde então a produção vem caindo gradualmente a cada ano. O ano passado foi especialmente ruim. Muitos lugares colheram apenas cerca de seis fardos por *tan*.
-
-**Nahata:** As pessoas em geral dizem que este ano não usaram fertilizantes e fizeram um bom trabalho.
-
-**◎ Um Método Agrícola Simples e Seguro para Todos**
-
-**Matsumoto:** A Agricultura Natural é o método de cultivo mais seguro e confiável. Não há necessidade de se preocupar com pragas, doenças ou mau tempo. As pessoas que usam fertilizantes, assim que terminam o transplante, já se preocupam com a adubação de cobertura. Para nós, da Agricultura Natural, assim que o transplante termina, é como se o arroz já estivesse colhido.
-
-**Moderador:** Muitas das fiéis mulheres estão cultivando, e parece que os resultados delas são melhores que os dos homens.
-
-**Oda:** Para as viúvas, é uma chuva de misericórdia celestial. Criar os filhos, cuidar da lavoura, das tarefas domésticas, carregar e espalhar fertilizantes, as obrigações da aldeia... é preciso estar preparada para fazer o trabalho de três pessoas. Mesmo em famílias grandes, na época de maior movimento, da primavera ao outono, não há tempo livre. É graças à Agricultura Natural que conseguimos dar conta de tudo sem tanto esforço.
-
-**Tsuchiya:** O cultivo com fertilizantes não pode ser feito sob as mesmas condições em todos os lugares. O método de Tohoku não pode ser simplesmente copiado em Kansai. Mas a Agricultura Natural pode ser praticada sob as mesmas condições em todo o Japão, ou melhor, em todo o mundo.
-
-**◎ Natural vs. Com Fertilizantes**
-
-**Moderador:** Na pesquisa que vocês fizeram a cada dez dias no ano passado sobre a Agricultura Natural, houve algum ponto que chamou a atenção, alguma comparação entre o natural e o com fertilizantes, algum relato de fracasso ou nova descoberta? Por favor, compartilhem o que quiserem.
-
-**◎ O Uso de Mudas de Cultivo com Fertilizantes em Campos Naturais**
-
-**Sue:** Como me faltaram mudas naturais, peguei mudas de cultivo com fertilizantes para completar as falhas. Todas as mudas com fertilizantes foram acometidas pela brusone. Havia também alguns lugares no campo natural onde mudas com fertilizantes estavam misturadas, e essas duas ou três touceiras foram todas atingidas pela brusone. É assustador. O campo onde usei mudas com fertilizantes teve uma queda de um fardo por *tan*.
-
-**Matsumoto:** Por menor que seja, a muda natural é melhor. As com fertilizantes, no início, parecem vigorosas, mas depois de um mês, perdem gradualmente o vigor.
-
-**◎ Sobre o Composto Orgânico**
-
-**Matsumoto:** Quando comecei a Agricultura Natural, dei muita importância ao composto orgânico e usei em excesso. As plantas ficaram fracas, com perfilhamento excessivo e má formação de grãos. Atualmente, faço cordas, fardos, esteiras e outras coisas necessárias para a agricultura, e o que sobra eu devolvo ao campo.
-
-**Tsuchiya:** Este é um relato de meu fracasso. No verão, eu capino as ervas daninhas da horta. Pensei que era um desperdício jogar fora essas ervas, que poderiam ser usadas como composto no arrozal, então recolhi até as ervas que outros jogaram fora e as coloquei no campo. O campo estava no quarto ano, e eu esperava ansiosamente pela colheita do outono, mas, ao contrário de minhas expectativas, a safra foi ruim. Por ter esquecido descuidadamente o ensinamento de que "a erva vai para a horta, a palha vai para o campo", e por ter usado ervas que absorveram as toxinas dos fertilizantes da horta, cerca de três *tan* tiveram uma safra ruim. O ensinamento é a verdade, e quando se vai contra ele, o resultado é imediato. Mesmo assim, recebi a proteção divina, e, na média, a produção superou a dos campos com fertilizantes da aldeia, e consegui entregar cerca de um *koku* a mais.
-
-**◎ Capina**
-
-**Matsumoto:** Após o transplante, a tarefa mais árdua é a capina do arrozal, mas, graças à Agricultura Natural, é um verdadeiro paraíso. Em Sado, normalmente se capina de quatro a cinco vezes. Com a Agricultura Natural, após três ou quatro anos, as ervas daninhas quase não crescem mais, então duas capinas são suficientes. Normalmente, levaria quatro dias para uma família inteira capinar todo o campo uma vez. Na época mais movimentada do verão, em vez de quatro, fazemos duas capinas, o que nos dá oito dias inteiros de paraíso para toda a família. A família, que no início se opunha à Agricultura Natural, agora diz que não voltaria a usar fertilizantes nem por um milhão de ienes.
-
-**Uesaka:** Para os praticantes da Agricultura Natural, não existe a desculpa de não poder ir à cerimônia mensal por estar ocupado.
-
-**Todos:** É verdade.
-
-**◎ A Temperatura do Solo Antes e Depois do *Doyō* e sua Relação com o Arroz**
-
-**Nahata:** No ano passado, durante a pesquisa dos campos a cada dez dias, medi a temperatura do solo com um termômetro de solo e gostaria de relatar a estreita relação entre a temperatura do solo e a cultura.
-Ao inserir o termômetro de solo até o fundo da camada arável, a temperatura do campo natural é de um grau e meio a três graus mais alta que a do campo com fertilizantes, e essa condição continua até o *Doyō* (meio do verão). Um atraso de cerca de uma semana no crescimento é compensado no caso natural devido à temperatura mais alta do solo.
-A partir do meio do *Doyō*, quando o arroz entra na fase de formação da espiga jovem, a temperatura do solo se inverte: a do campo com fertilizantes se torna mais alta, e a do natural, mais baixa. O fenômeno é o oposto do que ocorre antes do *Doyō*. No campo com fertilizantes, devido à alta temperatura do solo e do ar, começa o perfilhamento ineficaz. A altura da planta cresce em excesso. Em contraste, no campo natural, embora a temperatura do ar seja alta, a do solo é mais baixa que a do campo com fertilizantes. Por isso, o arroz, que entrou na fase de formação da espiga jovem, para de perfilhar e de crescer em altura, e sua atividade se concentra na formação dos grãos. O arroz com fertilizantes, ao ser colhido, tem muita palha e pouco grão. O fato de o arroz natural ter grãos que parecem prestes a explodir é porque a Agricultura Natural é um método que está em perfeita harmonia com a lógica da natureza, foi o que aprendi.
-O fato de todas as coisas frutificarem no outono, quando a temperatura é mais baixa, é uma lei da natureza. É por estarmos em harmonia com a grandiosa Vontade de Deus que podemos receber o arroz, foi o que aprendi com a temperatura do solo.
-Quem quer trabalho, preocupação e palha, por favor, cultive com fertilizantes. Quem quer arroz, recomendo a Agricultura Natural.
-
-**Sue:** Ao arrancar uma touceira, as raízes do arroz natural se espalham radialmente, enquanto as do arroz com fertilizantes se espalham horizontalmente. É natural que tombem com o vento.
-
-**◎ Comparação de Pragas e Doenças (A Agricultura Natural é o Método Divino de Prevenção)**
-
-**Tsuchiya:** Ficou claro para mim que a causa das pragas e doenças é a toxina dos fertilizantes. No ano passado, em Sado, não houve um único campo com fertilizantes que não tenha sofrido danos por pragas e doenças. Ao redor do meu campo natural também foi assim. Houve uma grande infestação de *Kurochinzo-mushi*, lagartas e *Tsumaguro-yokobai*. O inseticida BHC foi aplicado em todos os campos, e eu esperava que todos os insetos atacassem o meu, mas nenhum veio. O campo com fertilizantes a apenas cinco *sun* de distância estava em um estado lamentável. Assim como os germes no corpo humano, eles nunca se aproximam do que é puro.
-
-**Kitami:** Mesmo ao cultivar hortaliças, no início os insetos aparecem, mas com o tempo eles desaparecem. Parece que o sabor natural é desagradável para os insetos que nascem dos fertilizantes.
-
-**Kataoka:** É daí que vem a expressão "o inseto não gosta" (risos). A Agricultura Natural em Sado este ano não teve nenhuma praga ou doença. O comissário agrícola que inspecionou os campos sabe bem disso.
-
-**◎ A Influência Geral**
-
-**Kataoka:** Ao lado do campo de um agricultor experiente, sempre há um campo natural. O agricultor experiente, para não perder, aplica mais fertilizantes. E o resultado é que ele tem problemas com pragas e doenças, o que o deixa em apuros.
-
-**Tsuchiya:** As pessoas cultivam com fertilizantes no mesmo campo e, quando colhem, a produção é pequena. Elas dizem que precisam tentar outro método.
-
-**Matsumoto:** Muitas pessoas estão dizendo: "É um absurdo que aqueles que não usam fertilizantes colham mais arroz do que aqueles que usam. Este ano, não vou usar fertilizantes". O número dessas pessoas aumentou consideravelmente.
-
-**Kataoka:** O comissário agrícola que vem à minha casa também não fala, mas reconhece que os campos naturais são muito superiores aos campos em geral.
-
-**Tsuchiya:** Vendo os campos de Agricultura Natural recentemente, as pessoas em minha aldeia estão evitando comprar fertilizantes. A razão é que, como há pessoas que cultivam sem fertilizantes, elas sentem uma certa tranquilidade de que podem colher arroz mesmo sem usar muito adubo. No final, eles se comparam com o natural, e as pessoas em geral dizem que tiveram prejuízo econômico. A influência da Agricultura Natural este ano é realmente grande, e estou ansioso para ver os resultados.
-
-**◎ O Caminho do Agricultor é Usar Fertilizantes?**
-
-**Tsuchiya:** A superstição dos fertilizantes é algo assustador. As pessoas em geral têm a crença de que o caminho do agricultor é aplicar fertilizantes para fazer as plantas crescerem e, se houver pragas, prevenir. A colheita do que sobra é o caminho do agricultor. Quem faz algo diferente é visto como um herege.
-
-**Matsumoto:** Quando a safra é ruim, o homem culpa a natureza: o tempo estava ruim, choveu demais, o sol brilhou demais. Quando a colheita é boa, ele atribui ao seu próprio esforço: a quantidade de fertilizante foi boa, o método de cultivo foi bom. Pobre de Deus, que leva a culpa por tudo.
-
-**Kataoka:** Mais importante do que esgotar os esforços humanos é esgotar os esforços divinos. Desde a antiguidade, se fala em "cinco grãos" (*gokoku*, que também pode significar "cinco *koku*"). Portanto, a Agricultura Natural também precisa produzir no mínimo cinco *koku*.
-
-**Matsumoto:** Sinto que a base da Agricultura Natural em Sado finalmente se consolidou no ano passado. Este ano, vamos nos esforçar para atingir a meta mínima de cinco *koku*.
-
-**Moderador:** Nosso tempo está se esgotando, então vamos encerrar por aqui.
-
-**Nahata:** Para finalizar, um verso do "Okesa":
-Ah... "O veneno é adubo, e o adubo é veneno, ah... quem o utiliza, que pena!"
-Ah... "O Okesa de Sado e o arroz natural, ah... não há quem não os conheça!"
-
-## Conversa com o Sr. Ino, Produtor de uma Colheita Estimada em Dezoito Fardos por *Tan*
-
-**Igreja Shinko-Tyu**
-*Eikou*, nº 198, 4 de março de 1953
-
-**Data:** 22 de outubro de 1952. Manhã: visita ao campo. Tarde: mesa-redonda.
-**Local da Visita:** Hitoichiba, Mizunami-Toki-cho, Toki-gun, Gifu-ken. Propriedade de Ino Masao.
-**Local da Mesa-Redonda:** 3-11 Shumoku-cho, Higashi-ku, Nagoya-shi.
-**Moderador:** Taki Harunosuke
-**Palestrante:** Ino Masao e outros.
-**Participantes:** Mais de 50 pessoas.
-
-**Espigas sobre Espigas, Dezoito Fardos**
-
-**Moderador:** Vamos dar início à mesa-redonda sobre o cultivo de arroz pelo método da Agricultura Natural que acabamos de visitar. Serei o moderador. Sr. Ino, este é o seu quarto ano de Agricultura Natural, correto?
-
-**Ino:** Sim, é o quarto ano.
-
-**Moderador:** Qual foi a sua produção real no ano passado?
-
-**Ino:** Cerca de dezesseis fardos por *tan*.
-
-**Moderador:** Entendo. E qual é a sua previsão para este ano?
-
-**Ino:** Estimo dezoito fardos. Nos campos vizinhos com fertilizantes, a média é de sete a oito fardos.
-
-**Moderador:** No início, você foi ridicularizado pelos vizinhos? Houve oposição em casa?
-
-**Ino:** Sim, bastante. Fui chamado de louco e coisas do tipo, e em casa cheguei a ser quase deserdado. Mas eu orei a Deus e insisti, pedindo que esperassem três anos, e os resultados foram esplêndidos, como se pode ver.
-
-**Moderador:** Você começou depois que seu marido voltou da guerra?
-
-**Ino:** Comecei um ano antes de ele voltar para casa.
-
-**Moderador:** Então você enfrentou toda a oposição sozinha.
-
-**Ino:** Sim.
-
-**Moderador:** E hoje, como está a produção? Quantos perfilhos, em média?
-
-**Ino:** De trinta a quarenta, mas pode-se considerar uma média de trinta.
-
-**Moderador:** Entendo. Este caule (segurando uma touceira de arroz da Agricultura Natural) parece capim-dos-pampas. É um pouco diferente da palha comum.
-
-**Ino:** Por isso, os carroceiros dizem que uma palha tão dura assim não serve... que precisa ser mais macia...
-
-**Moderador:** E quantos grãos tem aqui?
-
-**Ino:** Bem, em casa contamos de duzentos e oitenta a noventa...
-
-**Moderador:** E hoje, quantos vocês contaram? Quem contou, por favor, diga.
-
-**A:** De cento e noventa a duzentos grãos.
-
-**B:** Eu contei de cento e sessenta a duzentos e vinte.
-
-**C:** Cerca de duzentos e trinta.
-
-**Moderador:** Observando de perto, vemos que saem ramos da bainha da folha, e neles há de cinquenta a setenta grãos. Isso é algo provavelmente inédito. O fato de saírem ramos da bainha e darem espigas é algo que, sem erro, nunca aconteceu antes... E todos são assim, o que concretiza o antigo ditado de que "em um ano de fartura, as espigas dão sobre espigas". Acredito que, com o tempo, se tornará ainda mais esplêndido.
-
-**A Sabedoria no Plantio**
-
-**Moderador:** E como é o plantio?
-
-**Ino:** Planto uma muda por cova. Onde as mudas eram muito pequenas, plantei duas. Mas a maioria é de uma só.
-
-**Moderador:** E qual foi o espaçamento?
-
-**Ino:** Um *shaku* e três *sun* por um *shaku*.
-
-**Moderador:** E no ano passado?
-
-**Ino:** Um *shaku* e dois *sun* por um *shaku*.
-
-**Moderador:** Então este ano você aumentou o espaçamento. Qual foi o resultado prático dessa mudança?
-
-**Ino:** No primeiro ano, plantei com um espaçamento de um *shaku* por oito *sun*, e as espigas das bordas e do centro ficaram muito diferentes. As do centro estavam espaçadas, e as das bordas, bem densas. Então pensei: "E se eu plantar mais espaçado?". No terceiro ano, aumentei o espaçamento, pensando que, com mais espaço, o perfilhamento seria melhor. Em 1952, decidi aumentar um pouco mais o espaçamento e o fiz.
-
-**Moderador:** E o resultado foi melhor?
-
-**Ino:** Sim.
-
-**O:** O mofo, ou o que chamam de *kōji*, está bastante presente em outros lugares. No campo que visitamos, parece que havia um pouco, mas não há desinfecção das sementes, certo?
-
-**Ino:** Não, não desinfeto.
-
-**Moderador:** O mofo aparece devido às toxinas de fertilizantes residuais.
-
-**Ino:** Parece ser bem menos que no ano passado.
-
-**Moderador:** Diminui a cada ano. Se desinfetar, os insetos surgirão do próprio produto químico.
-
-**Okumura:** E se não aplicar no solo, mas apenas nas folhas ou sementes, tudo bem?
-
-**Moderador:** O Jorei também cumpre a função de desinfecção. Há um poder absoluto e infinito, então não há problema. Há uma história sobre isso. Um agricultor estava com muitos problemas com insetos, então foi à igreja e perguntou ao ministro, que lhe disse: "Faça Jorei". O agricultor fez Jorei no campo, e os insetos diminuíram muito. Ouço muito isso. A desinfecção de hortaliças ou de campos é absolutamente proibida. Mesmo nas folhas...
-
-**Ota:** Você faz Jorei no viveiro?
-
-**Ino:** Sim, faço.
-
-**Ota:** Em que medida?
-
-**Ino:** Como passo por lá todos os dias, faço um pouco de cada vez, de pé na borda do campo. As mudas ficam amareladas, com uma ferrugem avermelhada. Uma pessoa comum, ao ver, diria: "Como podem plantar mudas assim?", mas nós, por experiência, plantamos sem a menor preocupação.
-
-**Ota:** E quanto arroz em casca é preciso para um *tan*?
-
-**Ino:** Até agora, eu usava um pouco a mais, com medo de não brotar, mas com aquela quantidade, foram cerca de dois *shō* e meio para um *tan* e cinco *se*.
-
-**Adachi:** E qual é a área do viveiro?
-
-**Ino:** Cinco *se* para um *tan*.
-
-**Araki:** Sr. Ino, a água do viveiro está sempre presente?
-
-**Ino:** Sim, está sempre lá.
-
-**Okumura:** Voltando um pouco, em minha casa não temos viveiro. Até agora, temos usado mudas de sequeiro ou alugado um viveiro. Fazer mudas de sequeiro é contrário à Agricultura Natural?
-
-**Moderador:** Sim, não é bom. Em lugares sem viveiro, não há outra opção a não ser a semeadura direta. Isso economiza uma etapa do transplante.
-
-**Okumura:** Então, a semeadura direta seria feita na mesma época em que se semeia o arroz no viveiro?
-
-**Moderador:** Sim.
-
-**Nakajima:** A semeadura no viveiro é feita cedo?
-
-**Ino:** Cerca de dez dias antes das outras pessoas.
-
-**A:** Então o plantio também é mais cedo?
-
-**Ino:** Onde não semeio trigo, plantei em 10 de junho. Onde há a segunda safra de trigo, foi em 21 de junho. A diferença no crescimento é enorme, mas as espigas saíram todas ao mesmo tempo.
-
-**Nakajima:** E qual a diferença nos resultados da colheita entre o plantio precoce e o tardio?
-
-**Ino:** É uma diferença muito grande.
-
-**Nakajima:** A diferença persiste até o final?
-
-**Ino:** Sim.
-
-**O Composto Orgânico Natural Apenas Amolece e Aquece o Solo**
-
-**Onojima:** E naquele campo, quanto material orgânico já foi incorporado até agora?
-
-**Ino:** Nos últimos três anos, coloquei toda a palha que colhi. Mas este ano, achei melhor não colocar muito, então coloquei cerca de metade da palha, cortada em pedaços pequenos...
-
-**Onojima:** E qual a razão para isso?
-
-**Moderador:** Para aquecer o solo e facilitar o crescimento das raízes. Aqui temos um exemplo de com e sem fertilizantes. O com fertilizantes tem um mau desenvolvimento das raízes, por isso tomba. O da Agricultura Natural cresce com a força da terra, por isso as raízes são longas. É por isso que se coloca a palha. Não com a ideia de fertilizar, mas com o objetivo de aquecer e amaciar o solo. A causa do mau desempenho é que parte dos fertilizantes aplicados no passado ainda permanece no solo, ou seja, o solo está um tanto ácido. À medida que se cultiva por muitos anos sem aplicar fertilizantes, a acidez do solo é removida e a produção aumenta gradualmente. Portanto, as culturas de arrozais e hortas são feitas com o esforço humano, mas, fundamentalmente, são fruto da graça do Céu e da Terra. Não é pela força dos fertilizantes. Por isso, se o solo for purificado, ele manifestará sua força e produzirá em abundância. Portanto, pode-se fazer o composto, mas tendo em mente a pureza, não se deve usar água do banho ou dejetos... Quando visitei no ano passado, em um lugar onde uma vaca urinou, a planta cresceu cerca de um *shaku* a mais e tinha muitas espigas secas. Rimos de como a urina de uma vaca pôde ser tão notada, mas isso também me fez entender que as colheitas são recebidas pela força de Deus. É porque as tornamos impuras que a safra é ruim. Se tiverem isso em mente, será fácil de entender.
-
-**Kojima:** A rizicultura da sua casa, Sr. Ino, é de safra única ou dupla?
-
-**Ino:** Faço as duas, safra única e dupla.
-
-**Moderador:** Qual tem o melhor resultado?
-
-**Ino:** A de safra única é muito melhor.
-
-**Moderador:** E na sua previsão, qual a diferença em fardos entre a safra única e a dupla?
-
-**Ino:** Acredito que a diferença seja de cerca de três fardos.
-
-**Moderador:** Então, a safra dupla dá cerca de quinze fardos e a única, dezoito. No final, fazer a safra dupla dá prejuízo.
-
-**Ino:** É um trabalho árduo para nada (risos). Realmente, a diferença entre semear trigo e não semear é enorme. É muito mais fácil.
-
-**Moderador:** Na época da colheita, é preciso semear o trigo, então a colheita do arroz acaba sendo apressada. Na Agricultura Natural, com safra única, não há pressa depois, então se pode deixar os feixes de arroz no campo até que amadureçam completamente. Nesses últimos dias, eles crescem e enchem os grãos em uma proporção considerável, o que é um grande ganho. O arredondamento era completamente diferente.
-
-**Ota:** E a palha, ela é colocada no campo logo após a colheita? Em que estado ela é incorporada?
-
-**Ino:** Eu empilho a quantidade que vou usar e a coloco depois. Se ficar muito úmida, é difícil de manusear, então eu a deixo secar um pouco e a coloco quando está meio decomposta.
-
-**Ota:** E em que época?
-
-**Ino:** Eu fiz em março. Na época mais livre, quando chove ou não há trabalho, eu vou, corto e empilho.
-
-**Ota:** A palha, quando está um pouco decomposta, é mais fácil de cortar.
-
-**Ino:** Quando está nova, escorrega e é difícil de cortar.
-
-**Okumura:** E até então, o campo fica sem ser arado?
-
-**Ino:** A vegetação que cresce naturalmente, eu a deixo crescer.
-
-**Okumura:** Depois de colher o arroz, os restolhos são deixados sem serem arados?
-
-**Ino:** Sim, deixo como está.
-
-**Okumura:** E em março, tudo é revolvido?
-
-**Adachi:** E a profundidade da água no momento do transplante?
-
-**Ino:** Como a água é controlada, eu a mantenho no nível mínimo.
-
-**Moderador:** Na Agricultura Natural, mesmo que a água cubra as plantas, elas não apodrecem.
-
-**Ino:** O campo que vocês viram hoje ficou coberto de água por três ou quatro dias, como um mar, mas não aconteceu nada.
-
-**O Segredo do Sucesso é Simplesmente Praticar com Humildade**
-
-**Onojima:** O que me dá grande esperança é que, mesmo que um homem pesquise e se dedique de corpo e alma, é muito difícil chegar a quinze fardos. Mas uma mulher conseguir chegar a esse ponto, acho que há algo de místico nisso.
-
-**Moderador:** Então, vamos revelar o segredo.
-É simples. É apenas entregar-se a Deus. A Sra. Ino não é agricultora, é uma leiga. Como ela não entendia nada de agricultura, apenas fez, com humildade, o que Meishu-Sama disse. Ela apenas está praticando com humildade o que Meishu-Sama disse e que nós transmitimos. Há agricultores que mudaram completamente para a Agricultura Natural, mas ainda há muitos que pensam que o que seus antepassados fizeram é o correto, e essa ideia está arraigada em suas mentes. E, por isso, eles pensam: "Nós sabemos um pouco mais sobre agricultura do que Meishu-Sama e os ministros, então, neste ponto, seria melhor fazer assim", e não tentam praticar com humildade o que Meishu-Sama diz. E, por isso, depois se arrependem. Se eles se tornassem menos espertos e mais simples, conseguiriam resultados esplêndidos como os da Sra. Ino. Nós não gostamos de pesquisadores que seguem seu próprio estilo. Fazemos como o ensinamento diz.
-
-**Okumura:** Em nossa região, dizem que o solo precisa congelar, senão não produz... Se o campo for arado em março, acho que o solo não congela o suficiente.
-
-**Moderador:** Na planície de Nobi, nas áreas mais frias, congela, mas nas mais quentes, não. Não é que onde não congela não se produza arroz. Há quatro ou cinco dias, saiu no jornal Chubu Nippon que "na fria província de Gifu, há lugares com uma queda de trinta a cinquenta por cento na produção. Houve danos por insetos". A causa são os fertilizantes e os desinfetantes, e é deles que os insetos surgem naturalmente. Portanto, se eliminarmos completamente os fertilizantes, ano após ano, os danos por insetos desaparecerão, então não é necessário congelar o solo especialmente. Em outra questão, no cultivo de trigo, quando o solo congela, é preciso pisoteá-lo. Quando congela, as raízes sobem, por isso se pisoteia o trigo. Onde não congela, não é preciso pisoteá-lo. No cultivo de arroz, não é preciso congelar especialmente. Basta fazer o de sempre. É melhor não desperdiçar mão de obra, certo?
-
-**Ito:** Qual a profundidade média do solo arado?
-
-**Ino:** Em média, não chega a um *shaku*.
-
-**A:** Em geral, tem cerca de um *shaku* e dois *sun*. Como só se trabalha metade disso, não seria cerca de seis *sun*?
-
-**Ino:** Em meu lugar, eu passo a máquina duas vezes. Os outros passam uma vez e meia.
-
-**Miyata:** Ao incorporar toda a palha colhida em um *tan*, se for de uma só vez, acho que não se mistura bem com o solo.
-
-**Ino:** Não é o caso. Se cortar em pedaços pequenos, parece até que falta. Se cortar em pedaços de cinco *bu* (originalmente, seria um ou dois *bu*), onde quer que se cave, não se percebe a diferença entre onde a palha foi incorporada e onde não foi.
-
-**Moderador:** Como também se precisam de fardos, é melhor reservar a palha necessária.
-
-**Miyata:** A incorporação da palha melhora um campo frio? Ou um campo frio continua sendo um campo frio? A água sobe...
-
-**Moderador:** A água sobe de um lugar específico ou de todo o campo?
-
-**Miyata:** De um lugar específico.
-
-**Moderador:** A água é levada ao campo por um único ponto, e a partir daí se fazem os canais. Onde a água brota, ela é muito fria. É preciso fazer um canal para que ela dê uma volta completa e não entre diretamente no campo. Assim, a água se aquece e a colheita melhora.
-
-**Ino:** O campo foi arado duas vezes, e a capinadeira foi usada umas duas vezes. Primeiro, revolvo o campo com um *sanpo-bitchu*, como se diz, e deixo a vegetação apodrecer por um tempo. Depois, passo a capinadeira e, só então, capino o campo à mão.
-
-**Sobre a Semeadura Direta**
-
-**Miyata:** No caso da semeadura direta, ao se fazerem os sulcos, semeia-se como no arroz de sequeiro comum, ou com o espaçamento de um *shaku* e dois ou três *sun*, como no campo de agora?
-
-**Moderador:** Se for um lugar onde a água entra, seria melhor arar e colocar um pouco de água, ou, mesmo em local seco, nivelar o terreno. Há lugares onde se fazem pequenos furos com um bastão de madeira e se colocam um ou dois grãos, mas, em geral, acho que um grão é o mais comum. Em Ogaki, estão fazendo isso agora, mas lá todos os campos são irrigados. Eles fazem um sulco e semeiam na lateral, e os resultados são muito bons. Fazem um pequeno buraco com algo como uma pinça de brasa, colocam um grão e cobrem com uma fina camada de terra. O resultado é melhor. Semear como o Sr. Ito disse, acho que é um grande desperdício.
-
-**Ito:** Dá muito trabalho.
-
-**Moderador:** O objetivo principal é não dar trabalho. A graça divina precisa ser recebida com menos esforço e mais retorno, senão não é graça (risos).
-
-**Miyata:** No caso de aprofundar o solo, quando seria melhor fazê-lo: ao arar em março ou logo após a colheita do arroz?
-
-**Moderador:** Pode ser a qualquer momento. Só se pode fazer quando se tem tempo livre, então, quando houver tempo, não há problema.
-
-**Miyata:** No caso da semeadura direta, ao se fazerem os sulcos, qual seria a largura deles?
-
-**Ito:** Um *shaku*. Como foi dito, um espaçamento maior resulta em um melhor perfilhamento.
-
-**Moderador:** Em geral, um *shaku* e três *sun* ou um *shaku* seria bom. Um *shaku* por um *shaku* e um *sun*, de qualquer forma, é bom deixar a luz do sol entrar bem na base da planta.
-
-**Okumura:** E a altura dos sulcos?
-
-**Ito:** Não há diferença em relação ao método comum de cavar um sulco e cobrir com terra.
-
-**A Toxina da Semente tem Grande Influência**
-
-**Moderador:** Ao praticar a Agricultura Natural, gostaria que continuassem com a mesma semente. Se a semente mudar, a qualidade do solo precisa mudar para nutri-la, e nesse ano haverá uma ação de purificação, o que dificulta a produção e causa uma queda na colheita. Se a semente for a mesma, a produção não cai e melhora continuamente. Qualquer semente serve, mas é melhor continuar com a que se começou. Os agricultores experientes são muito estudiosos e colecionam esta e aquela semente, mas muitos já fracassaram por causa disso. O princípio é não mudar a semente. E praticar o cultivo contínuo.
-
-**Onojima:** O campo que visitamos hoje é de cultivo contínuo ano após ano?
-
-**Moderador:** Sim. E qual é a variedade?
-
-**Ino:** Shin Tokai Asahi.
-
-**Moderador:** Quanto mais experiente o agricultor, maior a queda na produção. Porque os agricultores experientes usam muitos fertilizantes. Nos arredores das grandes cidades, usa-se muito fertilizante. E, entre eles, os agricultores experientes usam ainda mais, então a queda na produção no primeiro ano é inevitável. Nas regiões montanhosas, como é difícil levar os fertilizantes, não se usa muito.
-
-**Nakajima:** Nesse caso, não há uma maneira de reduzir, mesmo que um pouco, a queda na produção?
-
-**Moderador:** Não, não há.
-
-**Nakajima:** É preciso purificar o que foi fertilizado?
-
-**Moderador:** Sim. Assim como, ao se tomar um remédio, a toxina do remédio precisa ser purificada como doença... Claro que a graça divina varia de acordo com o grau de fé.
-
-**Okumura:** Mesmo que eu queira praticar a Agricultura Natural em minha propriedade, o campo acima do meu, de onde vem a água, usa muito sulfato de amônio e superfosfato. Como são solúveis, eles se dissolvem na água e entram em meu campo. Nesse caso, se a minha convicção em praticar a Agricultura Natural não for abalada, não haverá grandes danos?
-
-**Moderador:** Haverá alguns danos, mas não a ponto de comprometer o resultado. Seria maravilhoso se toda a nação se tornasse de Agricultura Natural, não é? Se os homens de hoje vivessem para ver isso, ficariam de queixo caído.
-
-**Ino:** Gostaria de expressar meu pensamento sobre isso. O campo de segundo ano de Agricultura Natural que vocês viram depois, as sementes plantadas foram as mesmas do campo de quatro anos. Aquele campo, o agricultor anterior era uma pessoa muito dedicada e usou bastante fertilizante, então eu já esperava que houvesse bastante toxina. Mas eu levei as sementes do campo de quatro anos de Agricultura Natural para lá e as plantei. Por isso, em dois anos, a produção aumentou tanto. Acredito que não seja apenas a toxina do solo, mas que a toxina da semente também tenha uma grande influência.
-
-**Moderador:** Claro que sim. A toxina da semente também é considerável. A comparação com o ser humano torna isso claro. Um filho nascido na juventude é mais forte que um nascido na velhice. Porque, à medida que envelhecem, as pessoas tomam muitos remédios, e os filhos nascem com as toxinas dos remédios do pai e da mãe, por isso os filhos da velhice são mais fracos. É a mesma coisa. Se a semente não tiver toxinas, a purificação será menor. Eu falo sobre isso em vários lugares, mas, para quem vai começar a Agricultura Natural, a recomendação é obter sementes sem toxinas de alguém e começar com elas.
-
-Aqueles que ainda não praticam a Agricultura Natural, acredito que agora tenham adquirido convicção. O que acham? Surgiu o desejo de tentar, mesmo que em um ou dois *tan*? Bem, mesmo sem fé, se fizerem como Meishu-Sama diz, obterão resultados esplêndidos. É absolutamente científico, então, mesmo sem fé, é possível aumentar a produção. E Meishu-Sama também diz isso, então, por favor, tentem. Especialmente por isso, agora vocês vão colher o arroz, mas, se tiverem o desejo de mudar para a Agricultura Natural, peço que não cultivem trigo logo em seguida. Com safra única, acho que não haverá queda na produção desde o primeiro ano. A economia rural domina a nação, por isso é importante. A parte que vocês entregam ao governo não se torna, em grande parte, o custo dos fertilizantes?
-
-**Onojima:** Não a maior parte, mas atualmente é preciso considerar que dois terços são para o custo dos fertilizantes.
-
-**A Grande Revolução na Economia Rural**
-
-**Moderador:** Se não houver mais custo com fertilizantes, a economia rural mudará drasticamente. Será uma grande revolução. Gostaria que todos vocês se tornassem bravos guerreiros de uma revolução sem sangue e a divulgassem amplamente. Não é apenas para vocês, é para toda a humanidade. O tempo já se estendeu bastante, então gostaria de encerrar por aqui. O ensinamento da Igreja Messiânica é o cultivo contínuo. Ou seja, quanto mais o solo se acostuma, melhor a produção. O trigo é colhido na horta, e o arroz, no arrozal. Se houver uma separação completa, a produção será esplêndida. Se o arroz for o homem e a mulher, o trigo, e se se cultivar ora o homem, ora a mulher, o tempo todo, a força terá que ser mudada constantemente, e o arroz não poderá manifestar plenamente seu potencial. Por isso, é melhor fazer safra única e deixar a terra descansar nos outros seis meses. O homem também trabalha de dia e dorme à noite. Metade da vida é passada dormindo. Da mesma forma, é melhor deixar o arrozal ou a horta descansar. Mesmo que cultivem com essa mentalidade, a economia rural de modo algum se enfraquecerá. Pelo contrário, a produção será muito maior, e a economia rural se tornará mais próspera. Esse é o ensinamento da Igreja Messiânica, então, por favor, pratiquem-no com humildade. Muito obrigado por seu tempo. Encerramos aqui a mesa-redonda de hoje sobre a Agricultura Natural.
-
-A título de referência, informo que os dezoito fardos se referem a uma estimativa de um campo de nove *se*, de quatro anos, de safra única. A razão é que, de um total de dois *tan* e seis *se*, o resto era um *tan* e um *se* de quatro anos, de safra dupla, e cinco *se* de dois anos, de safra dupla, e um *se* foi usado como viveiro, e tudo foi misturado, então não foi possível calcular com precisão. Por esse motivo, o total foi de treze *koku* e sete *shō*, o que dá uma média de doze fardos e um *shō* por *tan*. Portanto, no próximo ano, faremos o cálculo com precisão.
-
-**(A) A Produção Aumenta a Cada Ano com Este Método**
-Mesmo ao mudar para este método, a quantidade de toxinas de fertilizantes remanescentes no solo do arrozal e nas sementes tem uma grande influência. Em geral, o progresso é o seguinte. Se os resultados forem muito ruins, é porque há uma grande quantidade de fertilizantes artificiais remanescentes. Nesse caso, a situação pode ser atenuada temporariamente com a adição de terra de outra área.
-(*Eikou*, nº 141)
-- **Primeiro ano:** Safra normal
-- **Segundo ano:** Aumento de 10%
-- **Terceiro ano:** Aumento de 20%
-- **Quarto ano:** Aumento de 30 a 40%
-- **Quinto ano:** Aumento de 50%
-
-Na edição especial do ano passado, publiquei um artigo dizendo "cinquenta por cento de aumento em cinco anos". O relatório a seguir é a prova concreta disso, então não há mais a menor margem para dúvidas. E, como essa pessoa é a única com mais de cinco anos de prática, pode-se dizer que é o pioneiro deste método.
-
-## Aumento de 50% em Cinco Anos e Mais um Fardo no Sexto Ano
-
-*Eikou*, nº 198, 4 de março de 1953
-Mori Toshio (36)
-Igreja Zen-ei-Tyu, Niu-gawa-mura, Ono-gun, Gifu-ken
-
-É com grande alegria que recebo a permissão de saudar a sétima primavera desde que recebi a fé. Durante esse tempo, recebi inúmeros e grandiosos benefícios divinos e vivo todos os dias em gratidão. No mundo de hoje, repleto de dificuldades, sinto-me tão feliz que gostaria de dizer que sou o único no mundo a viver com tanta alegria e esperança, dedicando-me à Agricultura Natural.
-
-Como ensinado por Meishu-Sama, do primeiro para o segundo ano, do segundo para o terceiro, ficou provado que um aumento de cinquenta por cento em cinco anos é garantido. E, no outono passado, no sexto ano, a colheita aumentou em quatro *to* e um *shō* por *tan*. Agradeço a Meishu-Sama por essa dádiva de sua vasta e ilimitada proteção. Muito obrigado.
-
-Neste sétimo ano, prometo dedicar todos os meus esforços e me empenhar de corpo e alma na difusão deste método, para assim retribuir à Sua Vontade.
-
-Apresento abaixo um resumo dos meus resultados:
-
-| Ano | Safra Anual | Produção por *tan* | Maior Produção por *tan* em Campo Vizinho com Fertilizante |
-| :-- | :-- | :-- | :-- |
-| Quinto | 1951 | 4 *koku*, 5 *to*, 8 *shō* | 3 *koku*, 5 *to*, 1 *shō* |
-| Sexto | 1952 | 4 *koku*, 9 *to*, 9 *shō* | 3 *koku*, 4 *to*, 8 *shō* |
-
-(Enviado em 16 de fevereiro de 1953)
-
-## Aumento de 60% com Quatro Anos de Agricultura Natural; Campo de Segundo Ano com 4 *Koku*, 5 *To* e 7 *Shō* Ganha Segundo Prêmio
-
-*Eikou*, nº 198, 4 de março de 1953
-Furusawa Kikuo (51)
-Igreja Nyoirin-Tyu, Takeda-mura, Naoiri-gun, Oita-ken
-
-Com esta humilde carta, gostaria de relatar e agradecer a Meishu-Sama por sua proteção. Nasci em uma família de agricultores, recebi educação especializada em agricultura e sou uma pessoa que vive seus dias desfrutando da agricultura. Recebi a fé em 1946, sob a orientação do Reverendo Maki, e desde então tenho recebido diversas proteções divinas. Gostaria de relatar a proteção que recebi em minha área de especialidade, a agricultura, ou seja, a Agricultura Natural.
-
-Na época em que recebi a fé, ouvia ocasionalmente dos ministros que me orientavam que "as culturas podem crescer bem sem a aplicação de fertilizantes". No início, com a ciência dos fertilizantes gravada em minha mente e imerso na superstição dos fertilizantes, eu não conseguia acreditar. No entanto, graças à orientação dedicada do Reverendo Maki, decidi praticar a Agricultura Natural no cultivo de arroz a partir da safra de 1948. Não consegui praticar a Agricultura Natural completa, e comecei a praticá-la de fato a partir da safra de 1949.
-
-No primeiro ano, devido às toxinas dos fertilizantes e à falta de composto natural, as mudas eram pequenas e amareladas, e, em comparação com as mudas verdes e grossas dos campos com fertilizantes, pareciam muito inferiores. Os vizinhos riam, e minha família dizia: "Que tolice!". Senti vontade de aplicar um pouco de fertilizante (sulfato de amônio), mas me contive e, após o transplante, o crescimento não foi como o esperado, e fui ridicularizado pelos vizinhos. Mas me apeguei de todo o coração a Meishu-Sama e ao Komyō Nyorai e, a partir daí, entreguei tudo a Deus. Como resultado, como mostra a tabela abaixo, a colheita foi apenas um pouco abaixo da média, mas, em proporção à altura das plantas, foi grande. Agradeci a Meishu-Sama e, continuando por dois, três anos, os resultados foram melhorando gradualmente. Os vizinhos, ao passarem por lá, olhavam com atenção e diziam: "É estranho. Será que ele não aplica fertilizantes à noite?".
-
-Na safra de 1952, o quinto ano, obtive o excelente resultado de 3 *koku* e 8 *to*. E em um campo separado, um campo de segundo ano de qualidade superior, participei do concurso de alta produção de arroz promovido pela cidade de Takeda e obtive o excelente resultado de 4 *koku*, 5 *to* e 7 *shō*, ganhando o segundo prêmio. Tudo isso é graças a Meishu-Sama, e agradeço todos os dias.
-
-Apresento aqui parte de minha gestão agrícola. Tenho um *chō* e cinco *tan* de arrozais e um *tan* de horta. A partir de 1948, comecei a praticar a Agricultura Natural em oito campos, aumentando gradualmente a área e, a partir de 1951, toda a área cultivada se tornou de Agricultura Natural. Sem usar dejetos humanos, fertilizantes químicos ou esterco, obtive um aumento de 25% na produção.
-
-A tabela a seguir relata os resultados de cinco anos em um solo de cinzas vulcânicas (campo de qualidade média-baixa). (Os valores são por *tan*)
-
-- **Média Anual:** 2 *koku*, 4 *to*, 5 *shō*
-- **1948:** 2 *koku*, 2 *to*, 5 *shō*
-- **1949:** 2 *koku*, 4 *to*
-- **1950:** 2 *koku*, 6 *to*, 2 *shō*
-- **1951:** 3 *koku*, 1 *shō*
-- **1952:** 3 *koku*, 8 *to* (aumento de 60%)
-
-Obtive os resultados acima. Não tenho palavras para expressar minha gratidão. Meishu-Sama, muito obrigado. Agradeço profundamente.
-
-(Enviado em 2 de janeiro de 1953)
-
-## A Solução para a Questão Alimentar é Muito Fácil: 5 *Koku* e 1 *To* por *Tan* no Terceiro Ano (Média de 3 *Koku* e 2 *To*)
-
-*Eikou*, nº 198, 4 de março de 1953
-Abe Shigekichi (39)
-Igreja Kakumei-Tyu, Saigo-mura, Nishi-Tagawa-gun, Yamagata-ken
-
-Meishu-Sama, obrigado pela proteção de todos os dias.
-Eu, que recebi a fé em 14 de abril de 1948, vivo desde então dias de alegria.
-Desta vez, o Presidente Yumoto me pediu para relatar alguma experiência sobre a Agricultura Natural do arroz. É para mim uma honra sem igual, como um qualificado, e, embora seja um relatório humilde, gostaria de apresentá-lo para referência de todos, sobre os resultados práticos da Agricultura Natural do arroz.
-
-Nós, agricultores, por uma tradição ancestral, caímos, sem perceber, em uma espécie de superstição dos fertilizantes artificiais, acreditando que eles são algo absoluto.
-Desde que Meishu-Sama nos ensinou que a causa da queda na produção reside, na verdade, na aplicação de fertilizantes, senti a urgência de despertar desse sonho ilusório e de promover uma grande revolução na agricultura. Comecei com um teste de seis *tan* em 1950 e, a partir de 1951, estou praticando em toda a minha área de dois *chō* e três *se*.
-
-Na fase do viveiro, com as mudas amareladas como agulhas de pinheiro, os vizinhos diziam: "Ele é um homem que produz bem quando usa fertilizantes, mas com essas mudas...". Eu, porém, pensando que não havia o que fazer a não ser esperar pelo outono, apenas sorria.
-E, de fato, mesmo sendo o primeiro ano, em um lugar onde a média era de 3 *koku* e 2 *to*, colhi 3 *koku* e 8 *to*.
-No segundo ano, onde o cultivo com fertilizantes produziu 2 *koku* e 7 *to*, a Agricultura Natural produziu 2 *koku*, 8 *to* e 3 *shō*.
-Neste terceiro ano, foram 5 *koku* e 1 *to*.
-
-Como dizem as palavras, ficou claro para mim que, no terceiro ano, a produção aumenta de forma absoluta.
-A cor das mudas também melhorou gradualmente, do primeiro para o segundo, do segundo para o terceiro ano. Neste ano, os vizinhos perguntavam: "Você não aplicou torta de peixe ou de oleaginosas?". Eu respondia: "Não apliquei nada de especial. O que apliquei foi a irradiação da Luz Divina de Deus, o Jorei". Eles me olhavam com as sobrancelhas arqueadas. Eu continuava: "Eu planto sete ou oito dessas mudas por cova. Observem bem o resultado que terei no outono".
-No ano passado, o tempo foi especialmente favorável à Agricultura Natural, e a produção foi muito boa. Os vizinhos ainda perguntavam: "Você não colocou torta de peixe?".
-Naquele momento, eu respondi com firmeza: "Para aqueles que não acreditam no Deus invisível e estão presos ao pensamento materialista e à superstição dos fertilizantes, talvez seja difícil de entender, mas quando se coloca algo sujo, o resultado é sujo. Se não se colocar uma sujeira como os fertilizantes artificiais, o arroz cresce belo assim. Esta cor de arroz, existe em algum outro lugar nos duzentos *chō* de nossa aldeia?". Eles concordaram com a cabeça.
-
-No ano passado, muitos fiéis e não-fiéis vieram me pedir para ver o arroz da Agricultura Natural. Em 19 de setembro, o Presidente Yumoto, o chefe de filial Shimokawa e o chefe de filial Kyoda vieram me visitar. Eu os guiei primeiro ao campo de terceiro ano. Eles ficaram simplesmente maravilhados. Naquele momento, o arroz com fertilizantes do vizinho, o Sr. Fulano, estava tombado, sofrendo grandes perdas. Usar mais de dois mil ienes em fertilizantes por *tan* para ter um resultado desses... Senti uma profunda gratidão pela minha felicidade de ser guiado.
-Em seguida, eles viram o campo de segundo ano, onde não apliquei nem composto orgânico nem nada. O presidente disse: "Mesmo sem colocar nada, cresce de forma esplêndida, não é? Este é o que está melhor". Os outros também disseram: "A formação dos grãos é boa, é realmente esplêndido". Todos contemplaram o ensinamento silencioso. O comprimento da espiga, o número de grãos, a formação perfeita sem um único grão chocho... Naquela ocasião, peguei duas ou três amostras. O número de grãos era de cento e setenta, o comprimento era de sete *sun*; uma de seis *sun* e meio tinha cento e sessenta grãos.
-
-Em seguida, como referência, eles viram um lugar onde fiz melhoramento do solo no ano passado. Havia uma diferença de três *sun* e meio de altura entre o campo que recebi de outra pessoa (com fertilizantes) e o meu (natural). Adicionei três *sun* e meio de terra de outra área ao meu campo para nivelar a altura. O resultado foi que a diferença entre o meu campo e o campo que recebi de outra pessoa apareceu claramente, como se uma linha tivesse sido traçada, mostrando de forma vívida a excelência da adição de terra e o terror das toxinas dos fertilizantes.
-
-Em seguida, eles viram o arroz do viveiro. A variedade era "Akatsuki", que, por ter um número relativamente grande de grãos, é boa para aumentar a produção, mas, por ter um caule longo, era considerada inadequada para nossa região, que é muito ventosa.
-No entanto, como resultado da Agricultura Natural, o caule se tornou forte, não havendo preocupação com o acamamento, e obtive um resultado excelente. Também peguei duas ou três amostras. O perfilhamento era de treze, catorze hastes, o comprimento da espiga era de nove *sun* e meio, e o número de grãos era de trezentos e trinta e cinco.
-O presidente disse: "É uma referência muito boa. Vamos tirar uma foto e publicar no jornal *Eikou*". Naquele momento, fiquei tão feliz que chorei.
-
-Apresento abaixo uma comparação dos resultados da colheita por amostragem do ano passado com o cultivo com fertilizantes.
-(Local com adição de três *sun* e meio de terra)
-
-| | Segundo Ano (Agricultura Natural) | Terceiro Ano (Agricultura Natural) | Cultivo com Fertilizante (Abe Kiichi) |
-| :-- | :-- | :-- | :-- |
-| **Variedade** | Tojiro (precoce) | Mesma | Mesma |
-| **Nº de Touceiras** | 55 | 55 | 53,5 |
-| **Peso por *shō*** | 290 *monme* | 310 *monme* | 285 *monme* |
-| **Peso Total** | 840 *monme* | 650 *monme* | 580 *monme* |
-
-Com resultados como esses, a testemunha, Sr. Abe Kamekichi, ficou surpreso e disse: "Eu vi a edição especial sobre agricultura que você me mostrou, e, como diz no artigo, a adição de terra é boa. E é verdade que no terceiro ano melhora. Nunca vi um resultado tão bom. É possível aumentar a produção de forma garantida", e ficou muito feliz.
-
-Fortalecer ao máximo a força do próprio solo, mantendo-o o mais puro possível, sem misturar-lhe nenhuma impureza além do composto orgânico. Com isso, obtém-se resultados esplêndidos, algo que a mentalidade de até hoje simplesmente não consegue acreditar, mas é preciso fazer uma grande mudança de 180 graus. Eu, sem gastar com fertilizantes e mão de obra, sou abençoado também economicamente, e toda a minha família sente, com renovada gratidão, a grandeza da graça de Deus. Juro em meu coração me esforçar ainda mais e relato isso para que sirva de referência, mesmo que pequena, para todos.
-Meishu-Sama, agradeço profundamente.
-
-E, como uma história à parte, um comerciante de torta de peixe da cidade de Oyama colocou em sua loja uma amostra do meu arroz e do arroz cultivado com torta de peixe, explicando: "Com o adubo de torta de peixe, não há os danos de outros fertilizantes, e o arroz fica tão bom quanto o da Agricultura Natural". Dei uma boa risada com essa história tão complicada.
-
-(Enviado em 1º de dezembro de 1952)
-
-## Surpreendente! Aumento de Quatro Vezes na Produção com Três Anos de Agricultura Natural
-
-*Eikou*, nº 198, 4 de março de 1953
-Kito Akira (40)
-Igreja Myorin-Tyu, Takehisa-cho, Shimonoseki-shi, Yamaguchi-ken
-
-Meishu-Sama, apresento com reverência o relatório dos resultados da Agricultura Natural deste ano. No ano retrasado, como segundo ano de Agricultura Natural, recebi a graça de um aumento de 60% na produção em comparação com o primeiro ano e chorei de emoção pela vastidão e imensidão da virtude divina. No ano passado, recebi ainda mais proteção e, com três anos de Agricultura Natural, recebi a bênção surpreendente de uma produção mais de quatro vezes maior que a da época dos fertilizantes. Não tenho palavras para agradecer.
-
-Olhando para trás, já se passaram três anos desde que a "primeira semente" da Agricultura Natural foi plantada nesta região. No início, as portas dos corações dos agricultores teimosos estavam fechadas. Eles se apegavam à casca da tradição de centenas e milhares de anos, que dizia: "Para se cultivar, é absolutamente necessário aplicar fertilizantes", e eram inflexíveis em sua superstição. Para iluminar essa ignorância e receber a preciosa salvação de Meishu-Sama, pensei que não havia outro método a não ser mostrar na prática. Então, peguei emprestado cerca de cinco *se* de um antigo campo de lótus que o fiel Sr. Ono havia convertido em terra cultivável e comecei a praticar em 1950.
-
-Na época dos fertilizantes, a produção real era de 5 *to* por *tan*, o que não era suficiente para a cota de entrega. Mas, com a proteção divina, obtive o resultado de 1 *koku*. E em 1951, recebi a esplêndida proteção de 1 *koku* e 8 *to* por *tan*. Por isso, as pessoas teimosas gradualmente baixaram a cabeça para a grandiosidade da Agricultura Natural, e o número de praticantes aumentou, um, dois. No ano passado, o número de praticantes saltou para trinta e uma famílias, com uma área de quatro *chō*, um *tan* e nove *se*. Agradeço profundamente por essa proteção.
-
-Olhando para os resultados dos últimos três anos, recebi uma proteção imensa e os resultados foram melhorando constantemente. No entanto, havia pontos que não me satisfaziam, e, ao refletir sobre eles, percebi o seguinte. O arrozal em questão era, naturalmente, um campo de Agricultura Natural, mas a irrigação era ruim e era inconveniente fazer o viveiro. Por isso, eu alugava um terreno separado, que antes era de cultivo com fertilizantes, e instalava o viveiro lá. Todos os anos, os pardais entravam e causavam danos consideráveis, e eu sentia que isso era um aviso de Deus. Percebi que, por mais que o viveiro fosse de Agricultura Natural, o fato de ser em um terreno que antes era de cultivo com fertilizantes era o problema. Decidi, então, ignorando a dificuldade de irrigação e os conselhos gentis dos vizinhos, que diziam: "A irrigação ali é ruim, não é adequado para um viveiro", instalar o viveiro no arrozal de Agricultura Natural.
-
-Como as pessoas que vivem na região há muito tempo diziam, eu esperava que a gestão do viveiro fosse difícil, mas, com a proteção divina, recebi água de forma regular, as mudas cresceram vigorosamente e já no viveiro obtive o excelente resultado de duas a três, e em alguns casos cinco, perfilhos. Na época do transplante, até os agricultores experientes ficaram surpresos.
-
-Com três anos de Agricultura Natural, os resultados se destacaram completamente, e, ignorando a inveja dos vizinhos, o crescimento foi vigoroso. No ano passado, houve uma grande infestação de pragas, e, enquanto outros se desdobravam com desinfecção e controle de pragas, o meu cresceu vigorosamente, e pude saudar um outono de colheita abundante. Os fiéis também vinham ver de vez em quando e, dizendo: "O arroz da Agricultura Natural é realmente diferente", voltavam para casa com ainda mais confiança.
-
-Os resultados foram:
-- **1949 (com fertilizantes):** 5 *to* (por *tan*)
-- **1950 (Agricultura Natural, 1º ano):** 1 *koku* (por *tan*)
-- **1951 (Agricultura Natural, 2º ano):** 1 *koku* e 8 *to* (por *tan*)
-- **1952 (Agricultura Natural, 3º ano):** 2 *koku* e 4 *to* (por *tan*)
-
-O resultado foi mais de quatro vezes maior que o da época dos fertilizantes. Peço que continue a me proteger e me esforçarei para difundir a Agricultura Natural para o maior número possível de pessoas, para que eu possa ser usado na construção do Paraíso Terrestre.
-Meishu-Sama, muito obrigado.
-
-(Enviado em 16 de fevereiro de 1953)
-
-## Retrospectiva da Agricultura Natural
-
-*Eikou*, nº 198, 4 de março de 1953
-Soma Shigeo (46)
-Igreja Aishin-Tyu, Hanashi-mura, Shida-gun, Shizuoka-ken
-
-Meishu-Sama, muito obrigado pela proteção de todos os dias.
-Olhando para os últimos seis anos desde que recebi a fé, sinto-me comovido pela imensidão da virtude divina e, com esta humilde pena, apresento meu relatório sobre a Agricultura Natural.
-
-Em 1948, tentei pela primeira vez a Agricultura Natural em uma parte de minha rizicultura. Por não conseguir seguir os ensinamentos, fracassei. No ano seguinte, 1949, recomecei e agora pratico a rizicultura em toda a minha área cultivada. O erro inicial foi pensar em fazer um teste. Deveria ter seguido os ensinamentos desde o início, é o que percebo agora.
-
-Por cerca de dois anos, os resultados não melhoraram muito, e os fiéis da vizinhança estavam mais ou menos no mesmo ritmo. Eu pensava que isso se devia apenas às toxinas dos fertilizantes aplicados até então. No entanto, ouvi do presidente da igreja que "a safra dupla é proibida nos ensinamentos de Meishu-Sama". Preparei-me imediatamente para mudar para a safra única. No ano passado, tive áreas de terceiro e quarto ano. A área de quarto ano sofreu danos de cerca de trinta por cento devido às inundações de julho e agosto, mas, com a proteção divina, consegui colher cerca de um fardo (por *tan*) a mais do que os campos vizinhos com fertilizantes e da mesma variedade.
-
-A área de terceiro ano, o viveiro foi feito em um arrozal no início de abril. Não apliquei nenhum composto orgânico e, logo antes da semeadura, preparei o solo e, em 28 de abril, semeei um *gō* e meio por *tsubo*, ou seja, um *shō* e oito *gō* por *tan*. As sementes foram selecionadas por imersão em água, receberam Jorei, foram imersas em água fria por quinze dias, receberam Jorei novamente e foram semeadas. A variedade é a tardia Mikaeri nº 1. O desenvolvimento das mudas foi bom, um pouco mais curtas que as dos campos com fertilizantes, cerca de sete a oito *sun*, mas grossas e fortes.
-
-No campo principal, incorporei palha cortada em pedaços de dois *bu* e composto orgânico semi-curado, cerca de cento e cinquenta *kan* (por *tan*). Arei o campo em 20 de abril, arei novamente em 10 de junho, nivelei em 17 de junho e transplantei em 21 de junho. O desenvolvimento no campo principal também não foi diferente do dos campos com fertilizantes. O perfilhamento foi um pouco menor, mas os caules e as folhas eram fortes, grossos e de um verde-escuro agradável. A capina foi feita duas vezes com um ancinho, em 14 e 17 de julho, e uma vez à mão em 30 de julho, totalizando três vezes. O espaçamento foi de nove por nove *sun*, e o perfilhamento foi de cerca de dezenove hastes por touceira, em média.
-
-A colheita, em um lugar onde a média era de 2 *koku* e 8 *to*, foi de 3 *koku* no primeiro ano, 3 *koku*, 2 *to* e 5 *shō* em 1951 (segundo ano) e 3 *koku*, 5 *to* e 7 *shō* no ano passado, um aumento constante.
-
-No cultivo convencional com fertilizantes, o custo com adubos, desinfetantes, etc., é de mais de dois mil ienes por *tan*. Atualmente, tive um aumento de vinte por cento na produção. Na Agricultura Natural, calculando o preço do arroz em quatro mil ienes e somando os custos com fertilizantes, a diferença é de cerca de seis mil ienes. Além disso, a qualidade é boa e a mão de obra é economizada, então a diferença é realmente grande.
-
-No início, fui muito criticado e visto com maus olhos pelos vizinhos, mas, com a melhora real a cada ano, as pessoas em geral mudaram sua percepção, e surgiram simpatizantes. Eu mesmo, olhando para trás, percebo que, se tivesse seguido os ensinamentos, teria obtido bons resultados mais cedo. Em vez disso, agi por conta própria, cortando a palha em pedaços grandes ou me apegando a técnicas, e não segui os ensinamentos.
-
-De agora em diante, pretendo seguir fielmente os ensinamentos e, com a determinação de retribuir, nem que seja uma pequena fração da imensa graça recebida, transmitir este grande evangelho aos agricultores, para que despertem o mais rápido possível.
-
-(Enviado em 9 de fevereiro de 1953)
-
-## Arroz que Parecia Inferior Produz um Fardo a Mais por *Tan* no Primeiro Ano
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Nagatsuma Fuji (48)
-Igreja Hosho-Tyu, Juyoshima-mura, Inashiki-gun, Ibaraki-ken
-
-Tive a permissão de cultivar um *tan* de arroz pelo método da Agricultura Natural de Meishu-Sama desde o primeiro ano. No início, após o transplante, o arroz estava amarelado e seu desenvolvimento era inferior ao do arroz dos campos com fertilizantes, o que me deixou preocupada. No entanto, na época da formação das espigas, o desenvolvimento melhorou gradualmente. Nos campos com fertilizantes, a colheita foi de seis fardos por *tan*. Na Agricultura Natural, a colheita foi de sete fardos por *tan*, um fardo a mais que no cultivo com fertilizantes. Agradeço com reverência. No próximo ano, gostaria de cultivar quatro ou cinco *tan*. Meishu-Sama, muito obrigado.
-
-(Enviado em 23 de julho de 1952)
-
-## Esta Graça no Primeiro Ano da Agricultura Natural
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Omae Seijiro (41)
-Igreja Shinsho-Tyu, Hirano-cho, Tarumi-ku, Kobe-shi
-
-Recebi a fé em maio de 1951. Ao ouvir os diversos ensinamentos de Meishu-Sama sobre a Agricultura Natural e ver os relatórios práticos dos fiéis, compreendi os erros da agricultura atual, suas desvantagens para a economia agrícola, etc., e decidi mudar toda a minha área de cultivo de arroz para a Agricultura Natural.
-
-Semeei em 6 de maio de 1951 e, depois disso, fiz Jorei todas as manhãs e tardes. A germinação ocorreu de forma muito regular, mas, à medida que as mudas cresciam, tornavam-se gradualmente amareladas, e as folhas inferiores começaram a secar. Por volta de 20 de maio, as mudas com fertilizantes tinham sete ou oito *sun*, mas as da Agricultura Natural tinham apenas quatro ou cinco *sun*. Por isso, ao transplantar, apenas as pontas das folhas, com cerca de um *sun*, ficavam visíveis. Após o transplante, o enraizamento foi ruim, e, mesmo depois de vinte dias, as mudas, como agulhas amareladas, apenas balançavam ao vento. Era uma visão de cortar o coração.
-
-As pessoas diziam: "Ele enlouqueceu com a religião, a fé em excesso faz mal", e alguns, com boa intenção, vieram me pedir para parar de acreditar. Havia até quem se preocupasse com a minha cota de entrega ao governo.
-Após a capina, o crescimento se tornou visível, e as plantas começaram a se desenvolver, tornando-se verdes. O arroz com fertilizantes começou a secar devido ao tempo instável e às pragas e doenças. Com um olhar, era possível distinguir a Agricultura Natural do cultivo com fertilizantes. Quando olhei de um lugar alto, as palavras "Meishu-Sama, muito obrigado" brotaram espontaneamente, e as lágrimas correram.
-
-Depois disso, o arroz da Agricultura Natural, sem ser derrubado por pragas, doenças, vento ou chuva, cresceu com uma aparência orgulhosa, formando ondas douradas. O arroz com fertilizantes foi derrubado pelo vento e pela chuva. Comecei a colheita em 20 de outubro e, como não havia arroz tombado, terminei com facilidade. O som da debulhadora também parecia mais leve. O ouro, um fardo por *se* (sinal de boa colheita), foi transportado para casa com passos leves. A sensação de saber pela primeira vez que a colheita seria, sem dúvida, acima da média, é algo que não se pode comparar a nada.
-
-Apresento abaixo a colheita real:
-
-| Variedade | Produção por *tan* | Variação |
-| :--- | :--- | :--- |
-| Norin nº 32 | 2 *koku*, 4 *to* | Acima da média (aumento de 4 *to*) |
-| Norin nº 37 | 2 *koku*, 8 *to* | Safra normal |
-| Norin nº 5 | 2 *koku* | O mesmo |
-| Nakura | 3 *koku*, 2 *to* | Acima da média (aumento de 1 *to*) |
-
-Além disso, o cultivo com fertilizantes teve uma grande queda na produção devido a danos por insetos.
-Incapaz de conter a alegria de ter aprendido sobre este grandioso método da Agricultura Natural, tomei a liberdade de escrever com minha humilde pena.
-Meishu-Sama, agradeço profundamente.
-
-(Enviado em 28 de dezembro de 1951)
-
-## Resultados do Segundo Ano da Agricultura Natural
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Oka Sakae (43)
-Igreja Hoho-Dai, Taguchi-mura, Mizuma-gun, Fukuoka-ken
-
-Gostaria de relatar os resultados do segundo ano da Agricultura Natural.
-Semeei em 10 de maio, e no início o crescimento foi bom. Transplantei em 13 de junho e continuei a fazer Jorei, mas o Jorei estava sempre insuficiente. Na época da formação das espigas, a área perto da estrada começou a ficar um pouco avermelhada. No início, não me preocupei e continuei a fazer Jorei, mas, depois de me ausentar por quatro ou cinco dias, ao voltar, vi que a área havia se expandido. "Ah, fui atacado por insetos", pensei, sentindo uma agitação interior. Por falta de Jorei, pedi perdão imediatamente e continuei a fazer Jorei todos os dias. No entanto, os danos por insetos não pareciam diminuir, e o campo inteiro começou a clarear. Decidi, então, colher dezessete dias antes do normal.
-
-Minha estimativa era de cerca de sete fardos por *tan*. Mas, ao beneficiar o arroz, fiquei surpreso. Eram oito fardos e meio. Mesmo com os danos por insetos e a colheita muito antecipada, foram oito fardos e meio. Isso foi muito mais do que o arroz com fertilizantes dos vizinhos, que foi de cerca de sete fardos. Se não tivesse sofrido danos por insetos e o crescimento tivesse sido normal, tenho certeza de que teria colhido nove fardos.
-
-De agora em diante, vou me dedicar ainda mais à Agricultura Natural e oro para poder, nem que seja um pouco, seguir a Vontade Divina.
-Meishu-Sama, muito obrigado. Agradeço profundamente.
-
-(Enviado em 22 de janeiro de 1952)
-
-## Cultivo com Fertilizante de 3.000 Ienes por *Tan* Resulta em Perda; Agricultura Natural Aumenta a Colheita em Mais de Dois Fardos
-
-*Eikou*, nº 198, 4 de março de 1953
-Shiga Yasutaro (55)
-Igreja Shinmei-Tyu, Koda-cho, Nukata-gun, Aichi-ken
-
-Minha família, desde que recebeu a fé em abril de 1945, tem recebido ilimitada proteção e graça divina, e vivemos dias de profunda gratidão. Gostaria de relatar uma parte dessa graça.
-Em 1948, recebemos o ensinamento da excelência da Agricultura Natural e a praticamos de uma só vez em toda a nossa área cultivada de oito *tan* e quatro *se*. Gostaria de relatar os resultados do quarto ano.
-
-Quando as espigas balançavam ao vento do outono, os campos vizinhos com fertilizantes foram infestados pela broca-do-colmo e, em uma terra onde a média é de 2 *koku* e 4 *to*, a colheita real foi de cerca de 2 *koku*, uma queda na produção. Em minha casa, não houve nenhum dano, e a colheita real foi de 2 *koku* e 7 *to* por *tan*. Ao cozinhar o arroz, o volume aumenta em dez por cento, o que, convertido para arroz para consumo próprio, dá um cálculo de 2 *koku*, 9 *to* e 7 *shō* por *tan*. Em comparação, o campo com fertilizantes, com um custo de cerca de três mil ienes em adubo por *tan*, teve a queda na produção mencionada.
-
-A Agricultura Natural me trouxe tantos benefícios que nem sei contar. Consegui entregar um *koku* e sete *to* a mais. Por essa preciosidade, não tenho senão gratidão.
-Meishu-Sama, muito obrigado.
-
-(Enviado em 16 de fevereiro de 1953)
-
-## Experiência de Três Anos na Rizicultura com Agricultura Natural
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Motomatsu Kasaku (60)
-Igreja Juzen-Tyu, Shitori-son, Kume-gun, Okayama-ken
-
-Gostaria de relatar sobre o terceiro ano da rizicultura com Agricultura Natural.
-Em fevereiro de 1949, tive a oportunidade de visitar a Sede em Atami pela primeira vez e, na volta, também visitei a antiga Sede do Paraíso, onde ouvi as palavras do Reverendo Nakajima. Naquela ocasião, ele me explicou detalhadamente sobre a Agricultura Natural, e voltei para casa com a firme intenção de praticá-la.
-
-Eu tinha cinquenta e oito anos na época, vivia sozinho e cultivava dois *tan* e seis *se* de arrozais e quatro *se* de horta, totalizando três *tan*. Ao ouvir sobre a Agricultura Natural e refletir, decidi mudar toda a minha rizicultura daquele ano para a Agricultura Natural. Na época, eu cultivava trigo em uma parte do campo e havia aplicado uma pequena quantidade de sulfato de amônio como adubação de base, mas, a partir de então, parei completamente e dei a outra pessoa o que havia preparado como adubação de cobertura.
-
-No primeiro ano da rizicultura, não consegui aplicar uma grande quantidade de composto orgânico no arrozal ou no viveiro. A quantidade foi a mesma de sempre, cerca de cento e quarenta a cinquenta *kan* por *tan*. O viveiro foi feito no estilo convencional, e as sementes, após receberem Jorei e serem imersas em água, foram semeadas no final de abril em um viveiro inundado. Não fiz Jorei no viveiro por falta de tempo. As mudas estavam sempre amareladas e, na hora de transplantar, eram tão curtas que mal passavam da mão fechada, finas e frágeis como agulhas de pinheiro. Fiz Jorei nas mudas antes de transplantá-las para o campo principal.
-
-Depois de transplantar, olhando de longe, mal se via se as mudas estavam plantadas ou não. Por isso, o crescimento pós-transplante foi muito lento, e por um momento fiquei um pouco pessimista. Em agosto, a aparência melhorou e, na época da formação das espigas, o arroz já parecia arroz, o que me deixou um pouco mais tranquilo. De qualquer forma, em comparação com o arroz com fertilizantes, a altura era menor, e a aparência era pobre.
-
-Ao colher, a palha estava dura e as espigas, surpreendentemente pesadas, o que me fez pensar que haveria arroz. Foi então que senti profundamente a preciosidade da Agricultura Natural. O resultado da colheita foi surpreendentemente bom. Pela aparência das plantas, eu estava preparado para uma queda de vinte por cento na produção, mas o resultado foi de cinco fardos por *tan*, em média. O dos que usaram fertilizantes não parecia muito diferente. A média na região é de cerca de cinco fardos por *tan*. Quem tem muitos campos de baixa qualidade colhe menos de cinco fardos. Um terço dos meus campos são úmidos ou em áreas sombreadas, de baixa qualidade, então agradeci por ter sido um grande resultado.
-
-No segundo ano, já com confiança, não me preocupei nem um pouco. A aparência das plantas parecia melhor que a do primeiro ano, mas o resultado da colheita foi semelhante.
-No ano passado, o terceiro, a cor das mudas estava um pouco mais verde que no primeiro, e, após o transplante, a diferença em relação ao arroz com fertilizantes não era tão grande quanto no primeiro ano. O desenvolvimento geral no ano passado foi comparável ao do arroz com fertilizantes.
-
-Para referência, pedi a um técnico da cooperativa agrícola para fazer uma colheita por amostragem em um campo de qualidade superior (quatro *se*), e o resultado foi de 2 *koku* e 7 *to* (por *tan*). Em outro campo, o arroz glutinoso produziu 2 *koku* e 1 *to*.
-Um terço da minha área cultivada fica em uma região de reforma agrária, onde hortas foram convertidas em arrozais, e um reservatório foi construído como a única fonte de água, sem nenhuma outra forma de irrigação. Este ano, a partir de 20 de julho, a seca foi contínua, com pouquíssima chuva. Por volta de 15 de agosto, a água faltou e o solo rachou. A seca continuou, com uma pequena chuva em 26 de setembro, e, depois disso, até o tufão de 14 de outubro, não houve chuva significativa. A seca foi severa, e, por isso, a produção média foi de cinco fardos e meio, um aumento de dez por cento. Se não fosse por essa seca, tenho certeza de que o aumento teria sido de mais de vinte por cento.
-
-Quanto ao Jorei, nos três anos, não o fiz no viveiro por falta de tempo. Após o transplante, exceto nos dias de chuva ou quando eu estava ausente, pratiquei quase todos os dias. A partir de meados de agosto, comecei a fazer com menos frequência e, gradualmente, parei.
-O solo é de granito, com areia grossa. O campo de arroz glutinoso onde foi feita a colheita por amostragem tem um subsolo de areia com pedras, então não é possível arar profundamente.
-
-Pensando nesses três anos, vejo que as toxinas dos fertilizantes estão sendo gradualmente purificadas, e a colheita aumenta a cada ano. Não há mais dúvida sobre isso. Estou ansioso pelos resultados do quarto e quinto anos.
-A variedade é sempre a Norin nº 22. Por enquanto, as pessoas ao redor ainda não conseguem acreditar que se possa aumentar a produção cultivando sem fertilizantes químicos, mas os fatos são inegáveis.
-O acima é um breve relatório dos meus três anos.
-Meishu-Sama, muito obrigado. Por favor, continue me protegendo.
-
-(Enviado em 17 de janeiro de 1952)
-
-## Este Esplêndido Resultado no Primeiro Ano da Agricultura Natural
-
-Igreja Shinzan-Tyu, Nirayama-mura, Tagata-gun, Shizuoka-ken
-Kimura Takashi (38)
-
-A Meishu-Sama, apresento com reverência meus agradecimentos pela proteção recebida.
-Desde que recebi a fé, sob a grande Luz que não se pode louvar o suficiente, tenho recebido inúmeras virtudes divinas e vivido dias verdadeiramente luminosos. Agradeço do fundo do meu coração.
-E, desta vez, pela Agricultura Natural, recebi um resultado grandioso. Por essas graças sobrepostas, muito obrigado.
-
-Eu, que antes trabalhei como técnico da associação agrícola da província, com um conhecimento superficial da agricultura convencional, e que atualmente trabalho na comissão agrícola, pensava que, na agricultura de hoje, nada se pode fazer sem fertilizantes e produtos químicos. A melhoria da adubação e o controle de pragas e doenças eram considerados um dos pilares da agricultura, e eu mesmo orientei nessa direção. Especialmente nos últimos anos, pragas e doenças têm surgido em todas as culturas, e os danos aumentam a cada ano. A perda de produção agrícola devido a pragas e doenças é enorme. Na província, em 1951, os agricultores gastaram mais de duzentos milhões de ienes em produtos químicos, e, além disso, a perda econômica para os agricultores devido aos danos nas colheitas atingiu a cifra gigantesca de mais de dois bilhões de ienes.
-
-O governo, com um orçamento enorme, promulgou a Lei de Proteção de Plantas, e foram organizadas equipes de controle até o nível das aldeias. As cooperativas agrícolas (seguro contra desastres) foram expandidas e fortalecidas, e todos os esforços foram feitos, mas, assim como as doenças humanas, a situação só piora.
-
-Neste momento, a edição especial sobre agricultura de Meishu-Sama foi como uma luz na noite escura. Para superar esta difícil situação, não há outro caminho a não ser este. Imediatamente, pedi à Sede vinte cópias para os membros da comissão agrícola e as distribuí.
-Agora que penso, foi extremamente presunçoso da minha parte, mas pensei que precisava experimentar para saber. Imediatamente, de dois *tan* de campo, dediquei um *tan* e cinco *se* à Agricultura Natural e cinco *se* ao cultivo com fertilizantes. Com a cooperação da equipe de fotografia da Sede, realizei um cultivo comparativo.
-
-Naquele momento, em minha mente, surgia o pensamento: "Fertilizante é o alimento das plantas. O que se pode fazer sem alimento?". Mas eu me controlava: "Não, não. Se eu seguir os ensinamentos de Meishu-Sama, com certeza dará certo. Afinal, não só os seres humanos, mas até os animais, são curados de suas doenças com a imposição das mãos. Quanto mais as plantas. O solo deve ser o alimento. Se eu me entregar completamente, com certeza dará certo". Houve momentos em que me contive assim.
-
-E, sob a orientação do presidente da igreja e do Sr. Kubota, semeei em 4 de maio. Como não havia viveiro aquático, fiz um viveiro de sequeiro. Em maio do ano passado, choveu pouco e, devido às toxinas dos fertilizantes do ano anterior, as mudas foram bastante atacadas por grilos-toupeira. As mudas eram finas e curtas, a ponto de eu me perguntar se dariam em alguma coisa. As pessoas da aldeia me provocavam, dizendo: "Você aprendeu a fazer mudas assim na escola?". Eu respondia rindo: "Não, se as mudas não forem assim, não se colhe". Mas, em meu coração, eu pedia a Meishu-Sama que me protegesse.
-
-No transplante de 22 de junho, as pessoas que vieram ajudar, ao plantarem as mudas finas e pequenas, uma ou duas por cova, algumas até afundavam na água e desapareciam. Em meio a sorrisos contidos, o transplante foi concluído.
-Depois disso, o enraizamento foi especialmente bom, e, após a primeira capina, as plantas cresceram rapidamente, a cor ficou muito boa, e o perfilhamento aumentou consideravelmente. "Ah, que bom. Meishu-Sama, muito obrigado", repeti várias vezes, andando pelo campo inúmeras vezes. No final da segunda capina, quando os outros diziam: "É preciso aplicar adubação de cobertura", no meu caso, a cor das folhas estava boa e a altura era quase a mesma.
-
-Então, para os funcionários da prefeitura e as pessoas da aldeia, eu explicava e divulgava, pouco a pouco, a grandiosidade da Agricultura Natural. Depois disso, sem danos por pragas, doenças ou acamamento, o crescimento foi bom, e saudei a colheita do outono, obtendo uma produção de mais de 2 *koku* e 8 *to* por *tan*. Muito obrigado.
-
-Mesmo sendo inexperiente e usando sementes com fertilizantes, obter este resultado no primeiro ano... Se eu continuar por três, quatro anos, "um aumento de cinquenta por cento é o mínimo", como ensina Meishu-Sama. Fui ensinado que não há a menor dúvida sobre isso. Pretendo transmitir isso a todos e, seguindo os ensinamentos, continuar a acumular experiências e me dedicar à sua difusão e divulgação.
-Meishu-Sama, muito obrigado.
-
-(Enviado em 16 de fevereiro de 1953)
-
-## Aumento de 70% na Produção com Dois Anos de Agricultura Natural
-
-*Eikou*, nº 79, 22 de novembro de 1950
-Honda Toranosuke (37)
-Igreja Myorin-Tyu, Shiida-machi, Chikujo-gun, Fukuoka-ken
-
-Eu, que recebi a fé em abril de 1948, vivo dias de emoção com as inúmeras proteções recebidas. Agradeço profundamente a Meishu-Sama por sua graça.
-A partir de 1949, seguindo os ensinamentos de Meishu-Sama, mudei completamente minha área cultivada de cinco *tan* para a Agricultura Natural. Este ano, obtive resultados inesperadamente bons, e gostaria de relatar um resumo a seguir.
-
-Meishu-Sama ensina que "a verdadeira colheita da Agricultura Natural só se conhece após três anos", e, de fato, é assim. Em comparação com a colheita do ano passado, a previsão para este ano é de um aumento de 70%. Como ainda não terminei toda a debulha, não posso apresentar um relatório numérico preciso. Na região, a produção média é de cinco fardos por *tan* (com fertilizantes). No ano passado, colhi quatro fardos e meio, uma queda de cerca de meio fardo.
-
-Embora a contagem mostre uma queda de meio fardo, Meishu-Sama ensina que o arroz da Agricultura Natural é de cinco a dez por cento mais pesado que o arroz com fertilizantes, e de fato é diferente. No ano passado, ao verificar, o peso por *shō* era de 430 *monme*, enquanto o arroz comum com fertilizantes é de 380 a 400 *monme*. Além disso, o rendimento na debulha é bom, e, ao cozinhar, o volume aumenta em cerca de vinte por cento, e o sabor é delicioso como o do arroz glutinoso. Calculando tudo detalhadamente, vejo que não foi uma queda, mas sim um aumento na produção.
-
-E este ano? Recebi um aumento de mais 70%, com uma colheita de cerca de oito fardos por *tan*, e a qualidade do arroz está ainda melhor que a do ano passado.
-Quando o tufão Kijiya chegou, no mesmo local e sob as mesmas condições, o campo vizinho com fertilizantes tombou como se um rolo compressor tivesse passado, mas o meu não sofreu nenhum dano. Fiquei surpreso com a enorme diferença. Muito obrigado.
-
-As pessoas em geral, que no início se alegraram com a previsão de uma boa colheita, no final foram traídas pelos danos do tufão, pela infestação de pragas, etc. Acho realmente estranho que as pessoas não investiguem a fundo por que o arroz tomba com o tufão ou por que as pragas surgem.
-
-E no cultivo de milhete, de uma pequena área de cerca de dez *tsubo*, com a Agricultura Natural, colhi um *to* e cinco *shō*, o que, convertido para a produção por *tan*, dá a surpreendente colheita de quatro *koku* e cinco *to*. Agradeço por isso. Muito obrigado.
-
-(Enviado em 22 de novembro de 1950)
-
-## Fiel que Entrega Cota Extra com Agricultura Natural
-
-*Eikou*, nº 79, 22 de novembro de 1950
-Ogawa Eitaro (37)
-Presidente da Igreja Koyo-Tyu, Terauchi-dori 2-bancho, Niigata-shi
-
-Os membros voluntários da Igreja Koyo-Tyu já estão no terceiro ano de experiência com a Agricultura Natural e, tendo recebido diversas proteções milagrosas, estão maravilhados com o grandioso poder divino. Relatórios estatísticos detalhados serão apresentados por cada membro, mas eu, que experimentei desde o transplante até a colheita junto com os membros, estou firmemente convencido de que a Agricultura Natural de nossa Igreja é o único caminho de salvação para as aldeias rurais em dificuldades. Com base nessa experiência, gostaria agora de, em voz alta, dar a conhecer a Agricultura Natural ao maior número possível de pessoas, e, sem me importar com a humildade de meu texto, apresento este relatório.
-
-Um fiel, o Sr. Yamagishi Shinjiro, de Ohara-mura, Nishi-Kanbara-gun, Niigata-ken, além de cumprir sua cota, entregou um excedente de vinte fardos, um resultado excelente, e ainda teve um excedente de dez fardos.
-A colheita do Sr. Yamagishi no primeiro ano da Agricultura Natural estava entre as mais baixas da aldeia. No segundo ano, estava na média, e, neste terceiro ano, está entre as mais altas. Ele competiu com o melhor rizicultor da aldeia, mas as plantações de todos foram atingidas pela brusone, e ninguém conseguiu competir com ele. O técnico agrícola da aldeia, ao ver o estado do arroz do Sr. Yamagishi, ficou maravilhado, dizendo que era o estado de crescimento mais ideal. O Sr. Yamagishi, sendo um ministro de nossa Igreja e ocupado com o Jorei, com falta de mão de obra, chegou ao terceiro ano quase sem usar palha. As pessoas, que no início o tratavam como um louco, agora dizem que é algo simplesmente misterioso.
-
-Um fiel, o Sr. Yamaguchi Reiji, de Muikamachi, Minami-Uonuma-gun, Niigata-ken, desde o primeiro ano, com uma área de nove *tan* e três *se*, onde a média era de sessenta e dois fardos (com um custo de trinta mil ienes em fertilizantes), colheu sessenta e seis fardos com a Agricultura Natural (e três *tan* foram atingidos por inundações).
-Além disso, o Sr. Ishihara Tokuhei, de Kameda-machi, Naka-Kanbara-gun, e o Sr. Izuka Saburo, de Yoshida-machi, Nishi-Kanbara-gun, colheram oito ou nove fardos por *tan*. Há muitos outros que praticam a Agricultura Natural em dois ou três *tan* e estão obtendo colheitas consideráveis.
-
-Há diferenças devido à quantidade de toxinas no solo, então o número de *koku* por *tan* não é um padrão, mas, como experiência da Igreja Koyo-Tyu, os resultados são os seguintes:
-- **Agricultura Natural, 1º ano:** 10% de queda - safra normal
-- **Agricultura Natural, 2º ano:** Safra normal - 20% de aumento
-- **Agricultura Natural, 3º ano:** 20% de aumento - 30% de aumento
-(Tendo a safra normal como padrão)
-
-Com os resultados acima, e economicamente, sem custo com fertilizantes e com um terço da mão de obra, os benefícios são múltiplos, e eles estão muito felizes, sem nenhuma dificuldade financeira.
-Um fiel, o Sr. Watanabe Sansaku, de Niigata-shi, cuja esposa há três anos cultiva hortaliças com Agricultura Natural e as vende na cidade, mesmo pessoas que não sabem de nada, por serem tão deliciosas em comparação com as comuns, assim que ela abre a barraca, tudo é vendido em um piscar de olhos. Normalmente, ela vende até as oito da manhã, mas às seis já vendeu tudo e volta para casa. Agora, ela é conhecida por todos, e, quando vai com seu carrinho, os clientes a esperam e compram seus produtos como se os estivessem disputando, e ela ainda os vende por um preço mais alto que os outros.
-
-A rizicultura, por ser feita ao lado da cooperativa agrícola, tornou-se o centro das atenções da aldeia. Mas, ao colher, a quantidade era boa e, especialmente, a qualidade era excelente. Enquanto o arroz comum era todo de quarta ou quinta classe, o do Sr. Watanabe era de primeira ou segunda, e o inspetor que estava presente ficou surpreso, dizendo que era o melhor do distrito. Isso também foi publicado no quadro de avisos da Escola Primária Ishiyama.
-
-Muitas vezes, os praticantes da Agricultura Natural são questionados se conseguirão cumprir a cota de entrega, mas, longe de não cumprirem, todos cumprem ou entregam um excedente.
-E, nos desastres de vento e água que vêm como um evento anual, eles não sofrem danos, e, a cada vez, chorei de emoção por tanta gratidão.
-Na área da saúde, os efeitos também são esplêndidos. A melhora na saúde dos praticantes da Agricultura Natural de nossa Igreja é notável, a ponto de se poder ver pela cor do rosto, que melhora. Eles dizem que, por mais que trabalhem, nunca se cansam. E, por ser altamente nutritivo e aumentar de volume no cozimento, o arroz para consumo próprio sobra, de dez a vinte por cento a mais do que o planejado, todos os anos.
-
-Oh, quão grande é a Agricultura Natural! De fato, como se diz, quem segue a natureza prospera, e quem vai contra a natureza perece. Se praticarmos com humildade a Agricultura Natural, de acordo com a própria natureza, viveremos a fé em nosso dia a dia, sem doença, sem pobreza e, consequentemente, sem conflitos. Com a mente e a economia satisfeitas, deixando para trás as ondas turbulentas do mundo, poderemos prosperar em paz junto com o Céu e a Terra. Por essa alegria, sinto apenas gratidão e um profundo desejo de retribuir a Meishu-Sama.
-O acima é um modesto relato de experiência.
-
-(Enviado em 22 de novembro de 1950)
-
-**(B) A Qualidade Também Melhora a Cada Ano**
-Qualidade excelente, lustroso, de grande viscosidade e extremamente saboroso. Geralmente, classifica-se como de primeira ou segunda categoria, sendo raro encontrar algo abaixo da terceira.
-(*Eikou*, nº 79)
-
-## Arroz da Agricultura Natural Vence Concurso com Prêmio Especial
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Ishizaka Takaaki (29)
-Presidente da Igreja Ryuko-Tyu, Otsu-machi, Izumo-shi, Shimane-ken
-
-Meishu-Sama, por nos salvar de nossas inúmeras aflições, sofrimentos e erros com a Grande Luz e a Grande Sabedoria Divina, muito, muito obrigado. Os maiores de nossos erros são o uso de medicamentos e de fertilizantes. A Agricultura Natural não é uma graça apenas para os agricultores, mas, especialmente para os que trabalham na agricultura, não há evangelho maior, não há benefício maior. Fomos salvos da beira do precipício da crise rural, ou melhor, da ruína da agricultura (o que significa a ruína da humanidade). A gratidão e a emoção são tais que não encontro palavras para expressá-las.
-Os recentes resultados da Agricultura Natural que relato abaixo são graças a Meishu-Sama, e agradeço profundamente.
-
-**A Alegria de Três Prêmios Especiais**
-
-A aldeia de Shutto, no distrito de Hikawa, província de Izumo, é conhecida como o celeiro da província, uma região onde a rizicultura é especialmente próspera. A aldeia também possui uma associação de jovens com uma organização forte e grande para uma aldeia rural, com quatorze divisões e quatrocentos membros. É uma aldeia muito ativa culturalmente, com concursos de pecuária, exposições de produtos agrícolas, eventos esportivos e de entretenimento, exposições, etc.
-Foi graças aos esforços do Sr. Ueda Sakae, membro dessa associação de jovens e um fervoroso fiel da Igreja Messiânica, que surgiu a proposta de receber inscrições de produtos da Agricultura Natural em 29 de novembro. A exposição seria em 2 de dezembro, e a inscrição, no dia anterior. Olhando para as datas, tínhamos apenas um dia. Não podíamos reclamar do tempo. "É a nossa chance!", "Vamos entrar em contato!". Por mais que nos apressássemos, com apenas um dia e, bem naquela época, no meio de um blecaute, a maioria dos fiéis que queria se inscrever não conseguia debulhar o arroz. No final, os itens inscritos foram:
-- Arroz: 5
-- Soja branca: 1
-- Soja preta: 1
-- Nabo: 1
-
-Por um lado, preparávamos os itens para a exposição; por outro, para aproveitar a oportunidade para difundir um pouco a Agricultura Natural, imprimimos uma breve explicação, preparamos um jornal de parede... Em meio à correria, o dia chegou.
-A avaliação dos itens foi muito criteriosa, decidida por três técnicos agrícolas em consulta mútua. Embora tivéssemos confiança, ainda estávamos ansiosos. Que classificação receberíamos? Que seja uma boa classificação... não podíamos deixar de orar.
-
-Em 2 de dezembro, às nove horas, corremos para o local da exposição, o auditório da escola primária da aldeia, com o coração batendo forte. A avaliação já havia terminado. "E então, qual foi a classificação?"
-- Arroz: Prêmio Especial (3)
-- Arroz: Primeiro Prêmio (1)
-- Arroz: Segundo Prêmio (1)
-- Soja (preta e branca): Primeiro Prêmio (2)
-- Nabo: Segundo Prêmio (1)
-
-"Ah, que bom! É graças a Ele! Meishu-Sama, muito obrigado! Ah, com isso, todo o nosso esforço foi recompensado." Tentei ao máximo não deixar que as pessoas vissem as lágrimas de alegria em meus olhos. "Vamos, o jornal de parede!", "Vamos, os impressos!". Imediatamente, preparamos a propaganda. Os visitantes, atraídos pela placa de "Prêmio Especial", pegavam o arroz, a soja, e seus olhos, boca, rosto e mãos expressavam espanto, como se fossem amantes da arte diante de uma obra-prima. Eles contemplavam o brilho, a plenitude dos grãos, o peso, e, depois de ler o jornal de parede, concordavam com a cabeça. Os impressos eram pegos como se voassem. "Meishu-Sama, por favor, permita que essas pessoas se tornem praticantes da Agricultura Natural o mais rápido possível...", não pude deixar de orar.
-
-As variedades e os nomes e endereços dos fiéis que receberam o Prêmio Especial são os seguintes:
-- Nakate Asahi - Hikawa-gun, Shussai-mura - Kanayama Yoshio (2º ano)
-- Nakate Asahi - Izumo-shi, Satokata-cho - Kanayama Takeyoshi (2º ano)
-- Norin nº 23 - Yatsuka-gun, Shinji-cho - Mototsune Kinzo (1º ano)
-
-**A Esplêndida Soja de Dois Anos sem Fertilizantes**
-
-A qualidade do arroz natural é inquestionável, mas, naquele dia, a soja branca e preta de dois anos de Agricultura Natural, inscrita pelo Sr. Kanayama Takeyoshi, de Satokata-cho, Izumo-shi, com o tamanho de seus grãos e a beleza de seu brilho natural, foi, pode-se dizer, o destaque do dia. As pessoas que se aglomeravam para ver elogiavam em uníssono.
-
-**Adendo**
-
-O Sr. Ueda Sakae, que se encarregou da inscrição para esta exposição, e sua família são fiéis muito dedicados. Eles consagraram o Komyō Nyorai, e seu irmão mais novo, Kazuo, também está servindo no Shinsenkyo. Segundo ele me contou naquele dia, o campo de Agricultura Natural que ele cultiva com esmero ganhou o primeiro prêmio no concurso de alta produção de arroz dos seis municípios da região de Hikawa. Diante da vitória esmagadora e sucessiva da Agricultura Natural, não pude deixar de gritar "Banzai!". Ele mesmo relatará isso em detalhes.
-Com isso, encerro meus agradecimentos e meu relatório.
-
-(Enviado em 5 de janeiro de 1952)
-
-## A Gratidão pela Proteção na Agricultura Natural, Superior à do Ano Passado
-
-*Eikou*, nº 198, 4 de março de 1953
-Igreja Ryuko-Tyu, Otsu-machi, Izumo-shi, Shimane-ken
-
-Sob a ilimitada proteção de Meishu-Sama, obtivemos resultados esplêndidos na Agricultura Natural no ano passado, que foram publicados no jornal *Eikou*, nº 163, como uma vitória esmagadora. Este ano, obtivemos resultados igualmente bons. Agradecemos profundamente pela proteção e apresentamos com reverência nosso relatório.
-
-Os seis municípios da região de Shutto, no distrito de Hikawa, são conhecidos como o celeiro da província de Shimane, e, entre eles, as aldeias de Shutto e Kugi são as áreas de rizicultura mais prósperas. Portanto, a quantidade de arroz integral inscrita foi considerável, mas o arroz natural do Sr. Takada superou completamente os outros, ganhando o primeiro e o segundo prêmios.
-Como de costume, também participamos da exposição da aldeia de Shutto. Infelizmente, como a exposição da aldeia é uma competição entre as divisões da associação de jovens, não recebemos prêmios individuais, mas os resultados foram excelentes, como se segue:
-
-- **Primeiro Prêmio:** Arroz Integral - Nishio Kyoichi
-- **Segundo Prêmio:** Arroz Integral - Kanayama Takeyoshi
-- **Primeiro Prêmio:** Soja Branca - Kanayama Takeyoshi
-- **Segundo Prêmio:** Soja Branca - Ikejiri Yutaka
-- **Segundo Prêmio:** Soja Branca - Kawashima Ryuichi
-
-Como é uma competição entre as divisões da associação de jovens, mesmo que os produtos do outro grupo sejam ruins, eles inevitavelmente recebem o primeiro prêmio. O que ficou em primeiro lugar era pior do que o nosso segundo prêmio.
-Meishu-Sama, muito obrigado.
-Por favor, continue nos protegendo no próximo ano de 1953.
-
-(Enviado em 29 de janeiro de 1953)
-
-## Arroz da Agricultura Natural de Três Anos Ganha o Prêmio do Governador de Chiba
-
-*Eikou*, nº 198, 4 de março de 1953
-Inoue Chiyoji (51)
-Igreja Hakuai-Tyu, Kokubu-machi, Ichikawa-shi, Chiba-ken
-
-Em 24 de novembro de 1952, participei da exposição de produtos agrícolas promovida pela cidade de Ichikawa e co-promovida pelas cooperativas de Ichikawa e Okashiwa (cerca de 1.600 famílias). Como resultado da avaliação entre 27 ou 28 participantes, ganhei o prêmio especial, o Prêmio do Governador de Chiba. Gostaria de relatar sobre a exposição.
-
-**1. Sobre a Inscrição**
-Logo que recebi a fé, comecei a praticar a Agricultura Natural. No primeiro ano, tive um aumento de 58% na produção, o que relatei e foi publicado no "Guia da Agricultura Natural". Continuei a praticar e, no ano passado, colhi a terceira safra. Com a confiança adquirida, decidi participar.
-Os itens inscritos, como é comum em todos os lugares, são selecionados um a um. Especialmente o arroz integral é uma seleção especial. Eu beneficiei meu arroz na tarde do dia anterior à entrega e, na noite anterior, selecionei os grãos pequenos e quebrados. Não foi uma preparação completa.
-
-O dia da entrega chegou. Fiz Jorei e, pedindo a Meishu-Sama que este arroz ajudasse os ateus a entenderem um pouco, o entreguei.
-Ao entregar no local, entre as muitas inscrições, a minha se destacava pelo brilho e pelo tamanho dos grãos, que eram maiores que os outros. Antes mesmo de a avaliação começar, a vitória já parecia decidida.
-
-**2. Sobre a Avaliação**
-A avaliação levou em conta o brilho, o tamanho do grão (qualidade do grão), a secagem e outros fatores. Meu arroz foi seco por apenas um dia e não era da variedade recomendada pela província, o que era uma desvantagem.
-A avaliação foi feita por especialistas. Primeiro, meu arroz foi selecionado entre os premiados. Então, a questão se tornou a classificação, ou seja, se seria o prêmio especial ou o primeiro prêmio. Como a província dá muita importância à secagem, a decisão dependia de qual era melhor. Ao cortar com uma lâmina, o Norin nº 1, a variedade recomendada pela província, se partiu, mas o meu, Kanto nº 34, saltou intacto. Assim, meu arroz, que não era da variedade recomendada, foi decidido como o prêmio especial.
-
-Em comparação com o cultivo com fertilizantes, tanto em quantidade quanto em qualidade, obtive resultados acima do esperado. Não tenho senão gratidão. Meishu-Sama, muito obrigado.
-
-(Enviado em 5 de fevereiro de 1953)
-
-## Relato da Experiência de Quatro Anos na Rizicultura com Agricultura Natural (Arroz da Agricultura Natural que Ganhou Prêmio Especial)
-
-*Eikou*, nº 198, 4 de março de 1953
-Shimonō Yasutaro (53)
-Igreja Toyama-Tyu, Asakawa-mura, Kahoku-gun, Ishikawa-ken
-
-Comecei a praticar a Agricultura Natural em 1949 e acumulei quatro anos de experiência. Ainda não consegui obter resultados totalmente satisfatórios, o que me envergonha muito, mas, se puder servir de alguma referência para os agricultores, ficarei feliz em relatar um pouco de minha experiência.
-
-**1. Sobre o Agricultor e sua Família**
-Perdi meu pai na infância, e todos os nossos arrozais estavam arrendados, então eu não tinha nenhuma experiência com rizicultura. Minha mãe é agricultora, mas tem mais de oitenta anos e não pode trabalhar no campo. Minha esposa também não tem experiência. Após a guerra, fui expurgado e, sem outra opção, comecei a cultivar sete *tan* de arrozais em 1947. Sou um completo amador, e, portanto, meus equipamentos e instalações são incompletos, e meu trabalho é insuficiente.
-
-**2. Condições Locais**
-Minha aldeia fica nos arredores a leste da cidade de Kanazawa, uma aldeia nas montanhas, com uma mistura de planícies ao longo do rio Asano e terraços nas montanhas. O cultivo é feito principalmente com dejetos de Kanazawa, e, há vinte ou trinta anos, também se usa bastante fertilizante químico. A média de produção é de seis fardos por *tan*.
-Meus campos são muito irregulares, com má exposição solar, e muitos ficam no final do sistema de irrigação. Não são terras com boas condições para a Agricultura Natural. O solo é principalmente argilo-arenoso, e em alguns lugares a camada arável tem até um metro de profundidade. Tenho três campos que são metade úmidos. No cultivo com fertilizantes, a parte úmida sempre tinha um desenvolvimento ruim, e, se eu não aplicasse bastante adubação de cobertura, o arroz não ficava uniforme. Desde que mudei para a Agricultura Natural, o arroz cresce de forma uniforme, o que me parece estranho.
-
-**3. Sobre as Sementes**
-Usei uma parte do método Kurosawa para as sementes. Esfreguei a primeira metade da espiga com as mãos, pendurei as sementes no teto do armazém e, antes da semeadura, na cerimônia regular ou em uma cerimônia especial, as alinhei diante do altar para purificá-las.
-
-**4. Viveiro**
-Em minha aldeia, a semeadura é feita por volta de 15 de abril, em um viveiro aquático comum. Eu faço como as outras pessoas da aldeia.
-Na Agricultura Natural, o viveiro parece ser a parte mais difícil. A cada ano melhora um pouco, mas, mesmo no quarto ano, muitas folhas ainda não se abrem. As mudas com fertilizantes tinham em média oito *sun*, enquanto as minhas tinham cinco. A espessura também era proporcional, então a aparência era realmente pobre, e o transplante era inconveniente. No entanto, as raízes eram muito boas. E, embora rissem de mudas como essas, na hora da colheita, elas superavam as com fertilizantes, o que era gratificante.
-
-**5. Campo Principal**
-O trabalho no campo principal também foi feito como o das pessoas que usam fertilizantes. O transplante foi feito com o padrão de três mudas por cova. Tentei com sete ou oito, mas o resultado foi pior. O espaçamento foi de sete por oito *sun*. No primeiro ano, o perfilhamento foi de treze hastes em média (com fertilizantes, de vinte e cinco a trinta). A altura era, em média, vinte centímetros menor que a das com fertilizantes. A aparência era realmente pobre, e era natural que se tornasse alvo de zombaria. Mas, ao colher, a qualidade do arroz era excelente, e a produção foi apenas dez por cento menor que a média, o que me surpreendeu.
-
-No segundo ano, a altura era maior que a das com fertilizantes, e o perfilhamento foi o dobro do primeiro ano. Consequentemente, a quantidade de palha também foi mais que o dobro, mas a quantidade de arroz foi a da média. Com essas duas experiências, aprendi na prática que, na Agricultura Natural, não é preciso se alegrar ou se entristecer com a aparência das plantas.
-Nesse ano, com o tufão Jane, o arroz com fertilizantes foi tão danificado que não foi possível colhê-lo com a foice. O meu arroz apenas se inclinou de quarenta e cinco a sessenta graus, o que, ao contrário, facilitou a colheita. Fiquei muito grato.
-
-No terceiro ano, em comparação com o segundo, a altura era um pouco menor e o perfilhamento também, mas a cor das plantas superou a das com fertilizantes, e surgiu uma sensação de frescor indescritível. A produção foi a da média. Os campos com fertilizantes sofreram bastante com pragas e doenças, então os aldeões que riam começaram a se surpreender.
-
-No quarto ano, o viveiro também se desenvolveu melhor que nos três anos anteriores, e parte dele não era inferior ao com fertilizantes. Não faltaram mudas, e eu esperava que este ano superasse em muito a média. Mas, novamente, a produção foi a da média. No entanto, talvez minha expectativa tenha sido excessiva. Afinal, a região teve uma safra excepcionalmente ruim. Até mesmo agricultores experientes tiveram uma grande queda na produção, menos da metade, e a qualidade era de quarta ou quinta classe. E eu, um amador, tive uma produção normal, e um técnico da província, ao ver a qualidade, disse que era tudo de primeira classe. Participei de uma exposição e recebi o prêmio especial. As pessoas que riam agora me elogiavam em uníssono e começaram a ouvir com atenção minhas explicações sobre a Agricultura Natural.
-O que notei durante o trabalho no campo principal é que, à medida que o desenvolvimento do arroz melhora a cada ano, as ervas daninhas diminuem, e a capina se torna mais fácil.
-
-**6. Colheita e Secagem**
-O arroz da Agricultura Natural, por ter os grãos bem cheios, não precisa ser seco como o arroz com fertilizantes. Se seco da mesma forma, os grãos quebram na debulha, o que é pior. Eu tomo cuidado para não secar demais, e, mesmo assim, para o arroz de inspeção, um fardo fica cheio com três *to* e oito ou nove *shō*.
-Nossa região é muito chuvosa, e, se chove continuamente na época da colheita, é muito difícil. Mas o arroz da Agricultura Natural, mesmo que a colheita atrase uma semana ou dez dias, não há problema. Em 1952, choveu por cerca de uma semana bem na época da colheita do Norin nº 1. Eu esperei tranquilamente a chuva passar e comecei a colher. Graças a isso, a palha ficou bonita e não se comparava à palha meio podre do arroz com fertilizantes. E, ao debulhar o arroz, não houve nenhuma perda de grãos. O arroz com fertilizantes perdia muitos grãos, e era preciso embrulhar as espigas em esteiras e amarrá-las com cordas para transportá-las.
-Antes da colheita, a cor do arroz se torna completamente diferente, então, quando visitantes de longe vinham pela primeira vez e eu lhes dava uma direção geral, dizendo: "É por ali", eles encontravam meu campo sem erro.
-
-**7. Palha**
-Nas duas primeiras vezes, cortei a palha em quatro partes, empilhei-a como composto orgânico e a apliquei. No terceiro ano, cortei-a em pedaços de um ou dois *sun* e a espalhei diretamente. Tentei espalhá-la no final do ano e na primavera, mas o resultado não mudou. No quarto ano, recebi o ensinamento de cortar em pedaços de um ou dois *bu*, então cortei o mais fino possível. Mas, como não tinha uma máquina de cortar, cortei com uma tesoura, e não consegui cortar mais fino que quatro ou cinco *bu*, em média. Também tentei aplicar muito e quase nada, mas não houve grande diferença na colheita.
-
-**8. A Toxina do Coração**
-Através de meus quatro anos de experiência, fiquei surpreso com a grande quantidade de toxinas não apenas no solo e nas sementes, mas também em meu próprio coração. Até o terceiro ano, não consegui me livrar do sentimento de dependência da palha. Mas, no quarto ano, finalmente não senti mais nenhuma preocupação. Senti que era natural praticar a Agricultura Natural, não me deixei mais levar pela aparência das plantas e consegui trabalhar com um sentimento de tranquilidade.
-
-**9. Sobre o Jorei**
-Eu não faço rodadas especiais de Jorei. Quando vou verificar a água, faço o máximo de Jorei possível. E, em outras ocasiões, como ao preparar as bordas do campo ou capinar, trabalho com a intenção de estar fazendo Jorei.
-
-**10. Conclusão**
-Nos quatro anos em que pratiquei a Agricultura Natural, na nossa região, talvez por causa do tempo instável, até mesmo agricultores experientes e com conhecimento sofreram com a queda na produção e na qualidade. E eu, um amador, sem os custos e o trabalho de usar fertilizantes e produtos químicos, sempre tive uma produção maior que a dos agricultores vizinhos, e a qualidade foi incomparavelmente superior, a ponto de pessoas de longe virem inspecionar. Isso prova, mais do que o suficiente, a verdade absoluta deste método. Diante da imensa graça de Meishu-Sama, que nos ensinou uma verdade tão grandiosa, só posso chorar de emoção. Desejo ardentemente que este método se difunda o mais rápido possível.
-
-(Enviado em 9 de fevereiro de 1953)
-
-## Participa de Exposição de Produtos Agrícolas e Ganha o Prêmio do Governador
-
-*Eikou*, nº 198, 4 de março de 1953
-Ueda Tokumachi (41)
-Igreja Jintsu-Tyu, Johana-machi, Higashi-Tonami-gun, Toyama-ken
-
-Nos últimos anos, especialmente os agricultores conscientes, têm se esforçado dia e noite para encontrar uma solução em meio à escuridão, seja pelo fardo econômico da compra de desinfetantes devido à ocorrência de pragas e doenças, pelos custos de mão de obra, pela deterioração da situação alimentar doméstica devido à queda na produção, pela prevenção da acidificação do solo, ou pela ocorrência de parasitas humanos devido à aplicação de dejetos, entre outros.
-
-Eu, que recebi a fé em 1949, despertei para o evangelho definitivo da Agricultura Natural de Meishu-Sama. Pratiquei-a nos últimos três anos e, com reverência, apresento aqui um resumo.
-No primeiro ano (1950), embora soubesse que era a verdade, o conceito de adubação, que me fora ensinado com tanto afinco até então, não saía de minha mente. Além disso, a preocupação em cumprir a cota de entrega me desanimava. Assim, comecei com um teste de apenas dois *tan* e cinco *se*.
-No entanto, a colheita foi inesperadamente boa (peço desculpas por não ter dados de pesquisa). Então, em 1951, pensando que o bem deve ser feito com pressa, decidi praticar em toda a minha área cultivada de um *chō*, três *tan* e cinco *se* de arrozais e oito *se* de horta.
-
-No início, por ser o primeiro ano, as mudas estavam amareladas, finas e curtas, e, após o transplante, eram tão pobres que não se comparavam às dos campos com fertilizantes. Em pouco tempo, a má fama se espalhou até a aldeia vizinha, e eu era alvo de críticas por toda parte.
-Mas eu, que conhecia a verdade, acreditava que chegaria o dia em que todos entenderiam. Minha convicção não foi abalada nem um pouco. Mesmo que a produção diminuísse por um ou dois anos, eu perseverei.
-Quando o "doyo" (meio do verão) se aproximou, as plantas começaram a crescer vigorosamente, a ponto de, à primeira vista, não se notar diferença em relação aos campos com fertilizantes. Na época da colheita, até mesmo o pior campo, pela plenitude dos grãos e pela pequena quantidade de grãos chochos, teve uma colheita inesperada. Consegui cumprir a cota de entrega, e as críticas da fase de crescimento desapareceram.
-
-Comparação de 1951:
-- **Agricultura Natural:** 2 *koku*, 3 *to*, 5 *shō* por *tan* (primeiro ano)
-- **Com Fertilizante:** 2 *koku*, 5 *to* por *tan*
-
-Em 1952, quase toda a área cultivada estava no segundo ano. Com a expectativa de que seria ainda melhor que no ano anterior, pude praticar com uma esperança e alegria ainda maiores. Graças a isso, as mudas foram muito boas, e a opinião geral era de que estavam melhores que no ano anterior. O primeiro passo foi um sucesso.
-O desenvolvimento posterior também foi bom. Em julho, na época da infestação da broca-do-colmo, não tive nenhuma preocupação. Os agricultores em geral se desdobravam para aplicar os produtos químicos, que eram difíceis de obter. Mas a Agricultura Natural quase não teve danos, e as folhas verdes e fortes cresciam a cada dia. Fiquei muito feliz e grato.
-
-Na época da maturação, os campos com fertilizantes sofreram com a segunda geração da broca-do-colmo e com o acamamento, um verdadeiro caos, uma situação realmente trágica e digna de pena.
-Na época da colheita (meados de outubro), pedi a um técnico do escritório de difusão, o Sr. Kaneda, e mais uma pessoa, para fazerem uma colheita por amostragem em um campo de qualidade média. Eles gentilmente o fizeram, e o resultado de 2 *koku* e 7 *to* (a média é de 2 *koku* e 5 *to*) os deixou surpresos.
-Além disso, o arroz integral (safra de 1952) que inscrevi na exposição de produtos agrícolas ganhou o primeiro prêmio, o que também deve ser considerado um orgulho da Agricultura Natural.
-
-A referida exposição é algo especial, e é uma manifestação de entusiasmo pela gestão agrícola, sem dúvida. Ao mesmo tempo, o que se deve notar é que as autoridades, embora se esforcem constantemente para melhorar as variedades do ponto de vista científico, o fato de que a Agricultura Natural provou o que provou hoje causou uma grande sensação na melhoria da agricultura.
-Isso nada mais é do que a manifestação da revolução completa da superstição dos fertilizantes, uma das infelicidades da humanidade, como Meishu-Sama sempre preconiza.
-
-Comparação de 1952:
-- **Agricultura Natural:** 2 *koku*, 7 *to* por *tan*
-- **Com Fertilizante:** 2 *koku*, 4 *to* por *tan*
-
-Pela experiência dos últimos três anos, sei que, quanto menos fertilizantes se usava antes, maior a taxa de aumento da produção. Consequentemente, mesmo que haja uma infestação de pragas e doenças nos campos vizinhos, não há nenhuma preocupação. Ao mesmo tempo, experimentei bem que a ação das toxinas contidas nos fertilizantes é realmente terrível, como os efeitos colaterais das toxinas contidas nos medicamentos.
-No entanto, ainda há pontos em que não consigo seguir os ensinamentos de Meishu-Sama, o que lamento sinceramente e peço perdão. Este ano, com base na experiência passada, pretendo me esforçar ainda mais para não errar na prática dos ensinamentos e espero ansiosamente pela chegada da primavera.
-Meishu-Sama, muito obrigado. Com este texto humilde, apresento meu relatório e peço sua proteção para este ano.
-
-(Enviado em 17 de fevereiro de 1953)
-
-## Agricultura Natural Aumenta a Produção Anualmente e Ganha o Primeiro Prêmio
-
-*Eikou*, nº 198, 4 de março de 1953
-Tokimoto Shigetoshi (39)
-Igreja Myorin-Tyu, Kamibeppu, Tsuiki-mura, Chikujo-gun, Fukuoka-ken
-
-Há quatro anos, desde que recebi o Ohikari, abandonei os medicamentos e, como ensinado, considero todas as doenças como "ação de purificação". Sem nenhuma ansiedade, minha família de nove pessoas está cada vez mais saudável e se dedica à agricultura.
-Na agricultura, também ouvi o ensinamento de que a Agricultura Natural aumenta a produção, mas, por ser algo tão inédito e por eu ser uma pessoa com muitas máculas, não consegui romper com os velhos costumes. Com a oposição da família, hesitei em praticar. Mas, com a orientação dedicada do presidente da igreja, do Reverendo Honda e de outros professores, finalmente, a partir da safra de arroz de 1950, pratiquei em toda a minha área cultivada de mais de nove *tan*.
-
-A terra que possuo é fraca, muito dependente de fertilizantes, e o solo é de argila ou terra vermelha. Na região, são terras de qualidade média a baixa, com uma média de cinco fardos por *tan*. Meu pai dizia: "Use bastante composto orgânico por dois ou três anos para melhorar a fertilidade e comece depois". Mas eu decidi começar de qualquer maneira.
-No início, por causa da grande quantidade de toxinas de fertilizantes, o desenvolvimento das mudas foi ruim. Após o transplante, mesmo depois da segunda capina, as plantas estavam amareladas e finas. A preocupação de minha família era enorme, e toda a aldeia ria. Mesmo assim, com a proteção divina, a cor melhorou e, no outono, surgiram belas espigas. Mas, como o perfilhamento foi tardio, houve muitos perfilhos ineficazes, e eu esperava uma queda considerável na produção.
-
-No entanto, o resultado da colheita foi melhor do que o esperado. A qualidade do arroz também, enquanto o arroz com fertilizantes era principalmente de terceira ou quarta classe, o nosso foi de segunda. Senti profundamente a proteção divina e toda a família se alegrou.
-Em 1951, o desenvolvimento das mudas foi muito bom, e os resultados foram excelentes. Os campos com fertilizantes foram atacados por pragas e doenças, e eles sofreram com a desinfecção e prevenção. Graças a Deus, nosso campo não teve essa preocupação, e os danos por pragas e doenças foram mínimos. As risadas dos aldeões diminuíram gradualmente.
-
-No ano passado, 1952, foi o terceiro ano da Agricultura Natural. O desenvolvimento das mudas foi muito bom desde o início, e, após o transplante, não havia diferença em relação aos campos com fertilizantes. Os aldeões, que no início riam, agora diziam com inveja: "Se pode crescer tão bem sem fertilizantes...".
-A variedade é "Asahi", e até agora havia muita perda de grãos, a ponto de muitas pessoas não gostarem dessa variedade. Mas, no ano passado, na colheita, a pequena perda de grãos surpreendeu até meu pai. A qualidade do arroz também foi incomparavelmente superior. Na entrega, o presidente da cooperativa e os funcionários do armazém ficaram surpresos e elogiaram a boa qualidade. O resultado da inspeção foi que, enquanto o arroz com fertilizantes mal chegava à segunda classe, o nosso se destacou e foi classificado como de primeira. Agradeço profundamente por isso, que é, sem dúvida, um presente do cultivo sem fertilizantes.
-
-Apresento abaixo um breve relatório da produção média por *tan* por ano.
-
-| Ano | Tipo | Classificação | Produção |
-| :-- | :--- | :--- | :--- |
-| 1949 | Com Fertilizante | 3ª classe | 2 *koku* |
-| 1950 | Natural (1º ano) | 2ª classe | 1 *koku* e 6 *to* |
-| 1951 | Natural (2º ano) | 3ª classe | 1 *koku*, 8 *to*, 5 *shō* |
-| 1952 | Natural (3º ano) | 1ª classe | 2 *koku*, 2 *to*, 5 *shō* |
-
-O acima é a produção média por *tan* de toda a área cultivada.
-No cultivo, não tenho a menor intenção de ir contra os ensinamentos, mas, no aspecto técnico, ainda sou muito negligente, o que lamento sinceramente e peço perdão.
-Com a alegria de ter recebido a vida, com saúde e vivendo dias felizes, que pessoas afortunadas somos nós! E, na agricultura, com a Agricultura Natural, a produção aumenta a cada ano, como visto acima. Não tenho palavras para agradecer. Desejo ardentemente dar a conhecer este precioso caminho às pessoas sofredoras do mundo e transmitir os grandiosos resultados da Agricultura Natural. Com isso, apresento um breve relatório. Meishu-Sama, muito obrigado.
-
-(Enviado em 16 de fevereiro de 1953)
-
-## "É um Arroz Quase de Primeira Classe", Dizem, e se Torna Amostra: Arroz de Segunda Classe no Segundo Ano da Agricultura Natural
-
-*Eikou*, nº 198, 4 de março de 1953
-Iijima Shin-ichi (45)
-Igreja Hosho-Tyu, Matsubushi-ryo-mura, Kita-Katsushika-gun, Saitama-ken
-
-Gostaria de relatar os resultados do segundo ano da Agricultura Natural. Com a experiência do ano anterior e a fé nos ensinamentos de Meishu-Sama, dediquei-me à prática este ano com grande entusiasmo. Tenho oito *tan* e três *se* de arrozais e seis *tan* de horta, e trabalhamos em dois. Por isso, apliquei apenas uma pequena quantidade de palha, cerca de quarenta *kan*.
-No ano passado, toda a nossa região sofreu com uma infestação severa de pragas e doenças, o que me deixou muito preocupado. Mas, com a variedade precoce, colhi cerca de cinco fardos. A média geral foi de três ou quatro fardos, mas obtive um resultado superior. Com a variedade de meia-estação, colhi seis fardos, com um máximo de sete. A qualidade foi especialmente boa, e a classificação na entrega foi toda de segunda e terceira classe. Especialmente a segunda classe, não houve muitos fardos em nossa aldeia, e o inspetor de arroz disse: "É um arroz quase de primeira classe", e levou uma amostra. Entreguei o arroz de pior qualidade que colhi, e todo ele foi classificado como de segunda e terceira classe. As pessoas começaram a dizer: "É raro, é estranho", e recentemente começaram a se interessar.
-
-Nos últimos anos, a purificação das culturas se tornou especialmente forte, e a questão alimentar futura está coberta por nuvens escuras. Com este método de Meishu-Sama, renovo minha determinação de me esforçar para superar a crise rural. Peço sua proteção para que eu possa atuar.
-
-(Enviado em 16 de fevereiro de 1953)
-
-## Agricultura Natural Produz Arroz de Segunda e Terceira Classe; Cultivo com Fertilizante, de Quarta Classe: A Produção da Agricultura Natural Aumenta Anualmente
-
-*Eikou*, nº 198, 4 de março de 1953
-Omae Seijiro (42)
-Igreja Shinsho-Tyu, Hirano-cho, Tarumi-ku, Kobe-shi
-
-Gostaria de relatar os resultados da Agricultura Natural. Estou no segundo ano da Agricultura Natural. No viveiro, em 10 de janeiro, incorporei palha crua picada na primeira aração. A segunda aração foi em 3 de abril. A semeadura foi em 28 de abril. Depois disso, fiz Jorei uma vez todas as manhãs. O crescimento foi melhor que no ano anterior, e em 20 de junho transplantei para o campo principal.
-
-Após o transplante, este ano o crescimento foi muito bom, não muito diferente do cultivo com fertilizantes, e começou bem desde o início. Não houve nenhuma praga ou doença, e, por volta de 7 de setembro, o perfilhamento era de dezessete a vinte hastes, e as espigas começaram a se formar. A formação das espigas estava dois ou três dias atrasada em relação ao cultivo com fertilizantes, mas a uniformidade das espigas foi um ou dois dias mais rápida. O comprimento da espiga era de sete *sun*, com um máximo de cento e setenta grãos (no cultivo com fertilizantes, o máximo era de cento e cinquenta). Colhi no final de outubro, e a produção foi de 3 *koku* e 2 *to* por *tan*, um aumento de dez por cento em relação ao ano anterior.
-
-O cultivo com fertilizantes teve uma colheita relativamente boa, mas em um campo nas mesmas condições foi de 3 *koku* e 2 *to*. No entanto, a qualidade era ruim, de quarta classe. A Agricultura Natural produziu arroz de segunda e terceira classe, com um sabor muito bom e grãos grandes. Toda a família está muito grata.
-Ocasionalmente, quando como arroz em outras casas, o sabor é ruim e não consigo comer, é o que todos em casa dizem. Este ano, o terceiro, estou confiante de que terei uma grande colheita, e toda a família acredita na proteção de Meishu-Sama.
-Meishu-Sama, muito obrigado.
-
-(Enviado em 9 de fevereiro de 1953)
-
-**(C) Vento, Água e Pragas não são Problema**
-No cultivo sem fertilizantes, as radículas são muito mais numerosas e longas do que no cultivo com fertilizantes, o que confere uma ancoragem mais forte. (*Eikou*, nº 141)
-Tanto os dejetos humanos quanto os fertilizantes químicos, ao serem absorvidos pelas plantas, tornam-se tóxicos, e essa toxina serve de alimento para as pragas, que então se multiplicam. (*Eikou*, nº 141)
-
-## Arroz que não Acamou com o Tufão e Produziu Mais de Nove Fardos por *Tan*
-
-*Eikou*, nº 79, 22 de novembro de 1950
-Kusugaya Tatsuo (38)
-Igreja Eisho-Tyu, Hijikata-mura, Ogasa-gun, Shizuoka-ken
-
-Gostaria de relatar minha experiência e impressões sobre a rizicultura com Agricultura Natural que pratiquei. Na verdade, no momento em que recebi o ensinamento da Agricultura Natural, o que me veio à mente foi a palavra assustadora "plantas sem fertilizantes". De fato, nós acreditávamos que os fertilizantes eram, para as plantas, o equivalente ao alimento para os seres humanos. Mas isso, embora parecesse bom, era ruim e ia contra a vontade da Grande Natureza, ou seja, de Deus.
-
-Recebi o ensinamento de que, com a Agricultura Natural, poderíamos receber a graça de sermos protegidos de qualquer dano por vento, água e pragas. No ano passado, em um campo de safra única, de solo macio, onde dois terços do arroz haviam acamado, decidi praticar. Escolhi a variedade tardia "Taisho Akaho", que tem o caule mais longo e é fraca contra doenças. A época de semeadura no viveiro estava se aproximando. Coloquei palha cortada em pedaços de um *sun* no viveiro, fiz Jorei nas sementes e, em 7 de maio, semeei um *gō* por *tsubo*. O viveiro era, naturalmente, um viveiro aquático. Alguns dias depois, as sementes germinaram. Mas, por estarem muito ralas, já comecei a me preocupar com o futuro.
-
-Aos poucos, as mudas foram crescendo, mas estavam um pouco amareladas, e, em meio à ansiedade, a época do transplante se aproximou.
-A área do campo era de três *se* e um *bu*. Nele, incorporei dez feixes de capim verde. Enquanto fazia esse trabalho, lembro-me de sentir uma clareza de espírito inexplicável. A estação chuvosa já havia começado, e, em um dia de chuva fina, perfeito para o transplante, em 2 de junho, concluí o trabalho. Ajoelhei-me diante do altar e orei fervorosamente. O método de transplante foi em fileiras, com espaçamento de um *shaku* e três *sun* entre as fileiras e cinco *sun* entre as covas, plantando principalmente uma muda por cova.
-
-A primeira capina foi em 3 de julho. Nessa época, a aparência não era diferente da do campo vizinho com fertilizantes, e eu estava me preparando mentalmente para a grande purificação que viria. Após essa primeira capina, apliquei composto orgânico feito com água limpa (semi-curado, na época de melhor aroma), cerca de setenta *kan* por *tan*. A partir de 10 de julho, as plantas foram gradualmente ficando amareladas, e por volta de 20 de julho, a purificação foi mais intensa. Achei que era o momento de maior sofrimento e fiz Jorei todos os dias.
-
-Naquela época, minha mente vacilou, e houve momentos em que pensei em aplicar fertilizantes. Mas, a cada vez, eu me lembrava de Meishu-Sama e de seus ensinamentos, acreditando que a purificação era devido às toxinas dos fertilizantes e imaginando as ondas douradas que amadureceriam. Não me desviei do caminho. Em 23 de julho, fiz a segunda capina. Cerca de uma semana depois, as plantas foram gradualmente recuperando a cor verde e voltando à sua aparência original.
-
-Gostaria de registrar sobre o perfilhamento: em 18 de julho, eram de dez a treze hastes; em 7 de agosto, de quinze a vinte. Eu havia ouvido que, com fertilizantes, o perfilhamento tardio é ineficaz. Para testar, contei e memorizei uma touceira. Na colheita, vi que não havia nenhum perfilho ineficaz, e todos os grãos estavam bem formados. Com o final de julho, o trabalho de capina terminou, e eu só precisava esperar pelo outono da colheita. Nessa época, a mais temida pelos agricultores, a temporada de tufões, a preocupação aumentou. Como previsto, fomos atingidos, e ouvi gritos de dor de pessoas cujos campos haviam acamado. Mas, que graça! O arroz, que certamente teria acamado se fosse cultivado com fertilizantes, não tombou uma única touceira. Este arroz, com três *shaku* e oito ou nove *sun* de altura, não ter tombado nenhuma touceira, se não for um milagre, o que seria?
-
-O tempo em que, sob o sol escaldante do meio-dia, eu suava e capinava, e as folhas de arroz ficavam avermelhadas, e meu corpo e minha mente sofriam, passou. A época da colheita, com a brisa fresca da manhã e da noite, chegou. Ao colocar a foice para cortar, o caule estava tão duro, como capim. Foi então que percebi. Com um arroz assim, não há preocupação com acamamento ou pragas e doenças.
-
-Apresento abaixo a produção real:
-1.  **Variedade:** Taisho Akaho
-2.  **Viveiro:**
-    a. Viveiro aquático
-    b. Semeadura de 1 *gō* por *tsubo*
-    c. Área do viveiro por *tan*: 12 *tsubo*
-3.  **Composto Orgânico:** 70 *kan* por *tan* (composto feito com água limpa)
-4.  **Transplante:**
-    a. Em fileiras, 1 *shaku* e 3 *sun* x 5 *sun*
-    b. Data: 20 de junho
-    c. Número de mudas: 1 ou 2 por cova
-5.  **Capina:** Primeira em 3 de julho, segunda em 22 de julho
-6.  **Perfilhamento:**
-    a. 18 de julho: 10-13 hastes
-    b. 7 de agosto: 15-20 hastes
-7.  **Colheita:**
-    a. Produção bruta por *tsubo*: 2 *shō* e 1 *gō*
-    b. Produção de arroz integral por *tsubo*: 1 *shō* e 2 *gō* e 5 *shaku*
-    c. Produção por *tan*: 9 fardos, 1 *to* e 5 *shō*
-    d. Aumento de 2 fardos, 1 *to* e 5 *shō* em relação à maior produção anterior.
-
-Com resultados como esses, fiquei surpreso com a produção inesperada. A razão pela qual a produção é maior do que a aparência sugere é que o caule é mais duro que o do arroz com fertilizantes, e, portanto, a espiga, mesmo com o mesmo peso, não se inclina tanto, e todos os grãos amadurecem completamente. Acredito firmemente que este método da Agricultura Natural, que não teme vento, água, doenças ou pragas e produz uma colheita inesperada, é o segredo para o aumento da produção de alimentos, revelado por Deus. E, mais do que a teoria, acredito na prática.
-Meishu-Sama, muito obrigado.
-
-(Enviado em 22 de novembro de 1950)
-
-## O Brilhante Canto de Vitória do Terceiro Ano da Agricultura Natural
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Nagatomo Toshiyuki (27)
-Igreja Hoho-Dai, Kiyotake-cho, Miyazaki-gun, Miyazaki-ken
-
-Gostaria de relatar em linhas gerais o andamento do terceiro ano da rizicultura.
-O transplante correu bem, e o desenvolvimento não foi muito diferente do geral. No primeiro e segundo anos, nesta época, a cor desbotava especialmente, e eu sofria críticas e ataques terríveis do público.
-No terceiro ano, os aldeões diziam: "Se produzir este ano, é de verdade. Se não, use fertilizantes". Outro dizia com ódio: "Se produzir este ano, eu te dou minha cabeça".
-
-Hoje, o sangue e o suor dos agricultores são usados para pagar os fertilizantes. "O que é isso de cultivo sem fertilizantes, Agricultura Natural? Para onde vai o nosso senso comum de que a produção aumenta com fertilizantes?", deve ser a raiz do ódio deles.
-Eu acreditei que a Agricultura Natural era a manifestação da verdade. Este é o único caminho para o qual os agricultores do futuro convergirão. Eu estava recebendo a honra de mostrar, através dos fatos, as palavras de Deus. Quando percebi isso, a oposição violenta apenas me deu mais coragem.
-Meishu-Sama, muito obrigado. Eu me prostrava diante do altar e pedia sua proteção.
-
-Até o final da capina, a altura era menor que a geral, mas, na época da formação das espigas, a condição se tornou muito melhor que a dos outros. Nessa época, houve uma grande infestação de pragas e doenças nos campos com fertilizantes. Eles se lamentavam de que os produtos químicos estavam encomendados, mas não chegavam como esperado, e os danos se espalhavam cada vez mais. A previsão geral era de uma queda de cinquenta por cento na produção. O meu arroz estava com uma cor vibrante e se destacava claramente.
-
-Além disso, em 14 de outubro, fomos atingidos pelo tufão Ruth. Fomos assolados por ventos de mais de cinquenta metros por segundo, e os campos com fertilizantes foram devastados, uma visão lamentável. E, em meio a isso, os campos de Agricultura Natural se distinguiam de longe, com sua cor vibrante, e todos erguiam a cabeça com orgulho. Diante dessa condição de crescimento firme, o que os aldeões, que elogiavam em uníssono, sentiram? Será que eles continuarão a pensar que a ocorrência de pragas e os danos do tufão são apenas danos acidentais? Nós recebemos a graça e a orientação de Deus em nosso entorno.
-
-| | Agricultura Natural (3 anos, sem fertilizante) | Agricultura Convencional (com fertilizante) |
-| :-- | :--- | :--- |
-| **1. Desenvolvimento das mudas** | Cor vibrante, caule duro, raízes grossas e fortes. | Cor preto-azulado, desenvolvimento irregular, caule fraco e comprido, raízes finas e fracas. |
-| **2. Método de transplante** | Transplante retangular. | Largura 1 *shaku* e 1 *sun*, comprimento 5 *sun*. |
-| **3. Desenvolvimento pós-transplante** | Enraizamento bom devido às raízes vigorosas, crescimento regular. A cor fica temporariamente azul-clara. | Enraizamento ruim devido à fraqueza, muito dano no transplante, é comum deixar mudas de reserva. |
-| **4. Capina e cuidados** | Solo macio (no meu caso, por motivos familiares, não coloquei nem uma palha), fácil de capinar, poucas ervas daninhas. | Solo duro (o fertilizante endurece o solo), muitas ervas daninhas. |
-| **5. Perfilhamento (por touceira)** | Cerca de 20 hastes. | Cerca de 22 hastes. |
-| **6. Formação das espigas** | Nenhum perfilho ineficaz. | Muitos perfilhos ineficazes (cerca de 10% ineficazes). |
-| **7. Número de grãos por espiga** | Cerca de 135 grãos. | Cerca de 70-90 grãos. |
-| **8. Pragas e doenças** | Nenhuma. | Cigarrinhas, bacteriose, brusone. Onde houve pouca infestação, 30% de dano; onde houve muita, 80%. |
-| **9. Danos pelo vento (tufão Ruth, 14 de outubro)** | Inclinação de cerca de 50%. (Especialmente em uma área de cinco *tsubo* onde um aldeão jogou dejetos, o arroz tombou claramente). | Muitos caules quebrados, 80-90% de dano. |
-| **10. Colheita** | 11 fardos de arroz em casca por *tan* (média de 10 fardos). | 6-7 fardos de arroz em casca por *tan* (média de 10 fardos). |
-| **11. Qualidade** | Excelente, grãos quebrados raros, rendimento na debulha de mais de 60%. Sabor bom, diferença notável em relação ao arroz com fertilizantes. | Muitos grãos quebrados, rendimento na debulha de 40-50%. |
-
-(Enviado em 22 de janeiro de 1952)
-
-## Relato sobre a Situação da Rizicultura que não Acamou com a Chuva e o Tufão Ruth
-
-*Eikou*, nº 141, 30 de janeiro de 1952
-Takematsu Yasuo (46)
-Igreja Nanko-Tyu, Ishida-Higashi-fure, Ishida-cho, Iki-gun, Nagasaki-ken
-
-Gostaria de relatar minha experiência e impressões sobre a rizicultura com Agricultura Natural que pratiquei no outono de 1951.
-Na verdade, no momento em que recebi o ensinamento da Agricultura Natural, o que me veio à mente foi a palavra abençoada "plantas sem fertilizantes". De fato, nós acreditávamos que os fertilizantes eram, para as plantas, o equivalente ao alimento para os seres humanos. Mas isso, embora parecesse bom, era ruim e ia contra a vontade da Grande Natureza, ou seja, de Deus.
-
-Recebi o ensinamento de que, com a Agricultura Natural, poderíamos receber a graça de sermos protegidos de qualquer dano por vento, água e pragas. Eu tenho praticado os ensinamentos por três anos. Como de costume, meu arroz tem cerca de dois *shaku* e cinco *sun* de altura e uma cor amarelada. O arroz do campo vizinho com fertilizantes, separado apenas por uma borda, é preto e tem de três a quatro *shaku* de altura. Mas surgiram várias pragas, e eles aplicaram vários produtos químicos, dizendo: "Ele não usa um centavo de fertilizante e só impõe as mãos. O que pode produzir? Olhe a cor. Que cor é essa antes mesmo de as espigas se formarem?", ou "É o campo de Deus, então não tem insetos. Ele só viaja para a filial, a igreja, a sede. O que pode produzir?". Eu ouvi tudo isso, mas, como entreguei tudo a Deus, pensei que, na hora da colheita, o bom e o ruim ficariam claros.
-
-E então, em 14 de outubro, o tufão Ruth, com chuva. Em uma noite, o arroz com e sem fertilizantes foi separado. O arroz com fertilizantes, antes mesmo de as espigas se formarem completamente, foi quebrado desde a raiz. A palha apodreceu, o arroz em casca queimou, e as espigas tardias eram apenas grãos verdes. Depois, com a chuva, as pessoas que até recentemente me criticavam, agora diziam: "O que será de nós? Tinha insetos, e o vento forte acabou com tudo. O arroz em casca está verde, e a palha, nem as vacas comem". Mas meus sete *tan* de arroz, graças a Deus, não mudaram em nada em relação a antes do tufão. Que graça! O arroz, que certamente teria acamado se fosse cultivado com fertilizantes, não ter tombado, se não for um milagre, o que seria? À primeira vista, parece uma postura de atenção, uma onda dourada. Hoje, parece que as espigas me convidam para colhê-las logo.
-
-As pessoas que não conhecem a Agricultura Natural pensam que o arroz deste ano foi danificado por insetos e acamou com o tufão. Mas Meishu-Sama nos ensina que as pragas surgem dos fertilizantes, e que, com o aumento dos tipos de fertilizantes, os tipos de insetos também aumentam.
-É um fato que experimentei na rizicultura deste ano. Minha esposa, sem ter onde jogar os dejetos do banheiro, usou um campo de cerca de três *se* como depósito. Ela os carregou antes e depois do transplante. Na época da formação das espigas, uma grande infestação de cigarrinhas e outras pragas ocorreu e, em dois ou três dias, o campo foi completamente destruído. Pedi perdão a Deus, queimei tudo e tive essa experiência. De agora em diante, penso em cavar um poço na montanha para jogar os dejetos do banheiro.
-
-Nós, agricultores, recebemos de Meishu-Sama uma verdade grandiosa. Acredito que é nossa missão utilizar e pesquisar essa verdade para avançar cada vez mais. Em terras sem fertilizantes por três anos, estou realizando vários experimentos de cultivo, e relatarei os resultados em outra ocasião.
-Minha Agricultura Natural finalmente se tornou o centro das atenções na região. As pessoas de bom senso estão observando com muita atenção. Não demorará muito para que eles também se rendam a essa verdade da natureza. Espero que esta grande revolução na agricultura chegue até as aldeias remotas das montanhas e que haja um grande salto e desenvolvimento. Estou me esforçando ao máximo. Desejo ardentemente que os agricultores do mundo pratiquem o mais rápido possível esta grandiosa Agricultura Natural baseada na verdade de Meishu-Sama e se banhem nas bênçãos da Grande Natureza. Muito obrigado por toda a proteção.
-
-(Enviado em 8 de novembro de 1951)
-
-## Arroz da Agricultura Natural de Quatro Anos, Forte contra o Mau Tempo, Assume a Cota de Entrega de Arroz da Cidade
-
-*Eikou*, nº 198, 4 de março de 1953
-Kabasawa Kumakichi (68)
-Igreja Jukko-Tyu, Higashi-machi, Ohata-machi, Shimokita-gun, Aomori-ken
-
-Em 6 de dezembro de 1947, aos sessenta e dois anos de idade, recebi o precioso Ohikari. Seguindo os ensinamentos de Meishu-Sama, pratiquei a Agricultura Natural por quatro anos em toda a minha área cultivada, ou seja, um *chō* e um *tan* de arrozais e dois *tan* e cinco *se* de horta. Apresento aqui meu relatório.
-No ano de 1952, a purificação do tempo foi severa. Na região de Shimokita, os campos com fertilizantes tiveram uma safra tão ruim que nem as sementes puderam ser colhidas. Na cidade de Ohata, a produção foi, em média, metade da normal, com cerca de seis ou sete *to* por *tan*. No entanto, em minha propriedade, com a Agricultura Natural, em uma área de quatro *tan* e nove *se*, a falta de água fez com que o solo endurecesse e rachasse, e a capina não pôde ser feita adequadamente. A produção foi um pouco menor que no ano anterior. Mas, na outra área de seis *tan* e um *se*, a produção foi maior que no ano anterior, com uma média de mais de dois *koku* por *tan*, uma colheita esplêndida.
-
-E eu assumi a maior parte da cota de entrega de arroz da cidade de Ohata e fui o primeiro no distrito a concluí-la. Recebi do prefeito uma carta de agradecimento e uma lembrança, em nome de todos os que entregaram.
-Meishu-Sama, muito obrigado.
-Este ano, o quinto, vou me esforçar ainda mais para seguir os ensinamentos e para que os agricultores que usam fertilizantes, que estão perdidos e sofrendo, despertem o mais rápido possível. E quero resolver o problema da escassez de alimentos o mais rápido possível e que as pessoas possam comer à vontade alimentos deliciosos e sem toxinas.
-
-Ao praticar a Agricultura Natural, os agricultores economizam com fertilizantes e mão de obra e, com o aumento da produção, são libertados das dificuldades econômicas. Além disso, podemos deixar para nossos descendentes campos e hortas puros e sem toxinas, o que acredito ser a maior felicidade e alegria. Diante da preciosidade da Agricultura Natural, estou cheio de lágrimas de alegria.
-
-Em 9 de setembro do ano passado, com a orientação dos ministros, pessoas de Kamikita-gun, Shimokita-gun, Ominato, Sannohe, Tako, Tanabu, na província de Aomori, de Yoichi, em Hokkaido, e de Odate, na província de Akita, vieram até aqui, o extremo norte de Honshu, para ver o estado de crescimento do arroz de quatro anos de Agricultura Natural. Fiquei muito grato e agradeço do fundo do meu coração.
-Após a visita, tivemos uma mesa-redonda. Naquela ocasião, uma figura proeminente da cidade de Ohata e um agricultor experiente em cultivo com fertilizantes, o Sr. Yoshida Tetsunosuke, disse:
-"Hoje, ao ver o arroz da Agricultura Natural do Sr. Kabasawa, fiquei realmente impressionado. Em um ano de tempo ruim como este, o campo vizinho com fertilizantes, separado apenas por uma borda, teve uma safra de metade ou um terço, enquanto o arroz da Agricultura Natural do Sr. Kabasawa não teve nenhuma doença e produziu mais do que o dobro da média. Fiquei completamente surpreso. Na verdade, quando o técnico Kanazaki, do escritório de estatísticas do Ministério da Agricultura e Florestas, estava aqui, ele me recomendou a Agricultura Natural por três anos, mas eu sempre rebatia, dizendo: 'Como pode o cultivo sem fertilizantes vencer o com fertilizantes?'. Pesquisei vários métodos de cultivo, mas hoje, com meus próprios olhos, vi que não se compara ao cultivo sem fertilizantes e me rendo de todo o coração. Se o Sr. Kanazaki estivesse aqui agora, eu lhe compraria saquê e pediria desculpas, mas como ele foi transferido para Hokkaido, não há o que fazer. Vou lhe escrever imediatamente para pedir desculpas e, a partir do próximo ano (1953), também mudarei para a Agricultura Natural. Por favor, façam o mesmo". Ele repetiu isso duas ou três vezes.
-
-O Sr. Yoshida não é fiel, mas, ao ouvir suas palavras, meus olhos se encheram de lágrimas. Como ensinado por Meishu-Sama, o mundo é uma batalha entre o bem e o mal. Ambos os lados estão ganhando força e se enfrentando. Mas, ao praticar os ensinamentos de Meishu-Sama, percebi pela primeira vez que o bem salva o mal.
-Meishu-Sama, muito obrigado.
-
-Os ensinamentos de Meishu-Sama são sempre naturais. Portanto, seguindo o ensinamento de que arar o campo no outono é melhor, em 1951, quis de alguma forma arar um local (os campos estão divididos em quatro) no outono. Cortei a palha no final de novembro e, com a ajuda de trabalhadores, comecei a arar. Naquela noite, nevou, e pensei que um campo ficaria sem ser arado, mas os trabalhadores se esforçaram e conseguiram terminar. Logo depois, a neve se acumulou. O lugar que foi arado no outono teve um resultado especialmente bom no ano passado.
-No ano passado, com a intenção de arar toda a área no outono, debulhei metade do arroz, cortei a palha com uma máquina, incorporei-a em cerca de metade dos campos e arei. Depois, nevou um pouco, mas, enquanto eu debulhava o resto, a neve derreteu, e, por volta de 25 e 26 de novembro, o tempo ficou bom. Pensei que conseguiria arar toda a área no outono. Contratei trabalhadores enquanto cortava a palha e trabalhei nos dias 28, 29 e 30. Na noite do dia 30, nevou nas montanhas ao redor, mas não nos campos. Em 1º de dezembro, fui aconselhado: "Se você não contratar mais dois ou três trabalhadores, este bom tempo pode não durar". Contratei mais trabalhadores. Naquela noite, congelou muito, e a terra grudava na enxada, a ponto de ser difícil trabalhar. Mas, finalmente, até o final da tarde, consegui arar toda a área. No dia seguinte, nevou mais de um *shaku*, e a neve se acumulou.
-
-Nos dois anos, o tempo para arar no outono foi bom, e os trabalhadores ficaram surpresos.
-Meishu-Sama, por permitir que até mesmo os trabalhadores não-fiéis sentissem a grandeza de seu poder, muito obrigado. Diante da grandeza dos preciosos ensinamentos e do poder, uma, duas pessoas ao redor são salvas, e eu choro de emoção. Peço que perdoe ainda mais meus pecados e que eu possa ser usado na obra divina de construção do Paraíso Terrestre através da Agricultura Natural.
-
-(Enviado em 15 de janeiro de 1953)
-
-## Outono Feliz
-
-*Eikou*, nº 198, 4 de março de 1953
-Takada Koichi (40)
-Igreja Shinko-Tyu, Yoshifuji-cho, Matsuyama-shi, Ehime-ken
-
-Meishu-Sama, desde que recebi a fé, tenho recebido inúmeras proteções e agradeço profundamente. Desta vez, obtive um resultado excelente com a Agricultura Natural e apresento com reverência meu relatório.
-Em 18 de maio de 1952, a Reverenda Harada Kiyoko, da filial de Komaki, em Nagoya, veio nos visitar e nos falou detalhadamente sobre a preciosidade da Agricultura Natural, recomendando que mudássemos toda a nossa área. Eu, no entanto, sentia uma certa ansiedade. Depois de muito pensar, decidi entregar tudo a Deus e prometi à Reverenda mudar toda a minha área de quatro *tan* e três *se* para a Agricultura Natural.
-
-Preparei a terra e semeei no viveiro. O crescimento das mudas foi ruim, e, em comparação com as com fertilizantes, eram tão pequenas que dava pena. Fui ridicularizado pelos vizinhos e, por vezes, também fiquei ansioso, preocupado se conseguiria transplantar. Li o jornal *Eikou*, perguntei várias coisas à Reverenda e me apeguei de todo o coração a Meishu-Sama.
-O transplante estava se aproximando, mas as mudas eram pequenas e não parecia que dariam para amarrar. Todos os dias, eu ia ao viveiro e fazia Jorei com toda a minha alma. Os vizinhos riam pelas costas, mas eu pensava: "Esperem para ver". E, graças a Deus, finalmente as mudas puderam ser amarradas. Na hora do transplante, fiquei surpreso com o bom desenvolvimento das raízes.
-
-Os dias foram passando. Os campos com fertilizantes cresciam verdes, mas o meu estava amarelado e se tornou motivo de riso para os vizinhos. Alguns, com ar de bons samaritanos, me recomendavam fertilizantes. Mas eu, lembrando-me do que a Reverenda havia dito sobre a purificação das toxinas dos fertilizantes, entendi que era isso e fiz Jorei sem medo.
-Em agosto, finalmente o crescimento se tornou visível. O arroz também, em comparação com o com fertilizantes, era muito mais duro e forte. Em 1952, os campos com fertilizantes foram atacados sucessivamente pela segunda e terceira gerações da broca-do-colmo, e foi uma correria para aplicar desinfetantes. Meu campo também teve um pouco da segunda geração da broca-do-colmo. Perguntei ao Reverendo Funabashi, que me disse: "A desinfecção é ruim, é melhor não fazer de jeito nenhum". E eu não fiz.
-
-O outono chegou, e os grãos começaram a dourar. Os campos com fertilizantes estavam com uma cor esbranquiçada e muito ruins. O meu estava com uma cor verdadeiramente dourada, e os vizinhos começaram a notar: "O seu arroz está bonito, não tem insetos".
-As pessoas que usaram fertilizantes e desinfetantes caros tiveram mais insetos, enquanto o campo que não foi desinfetado teve menos. Compreendi claramente, como ensinado por Meishu-Sama, o quão ruins são as toxinas dos fertilizantes.
-A colheita começou. Ao colher, a beleza do arroz em casca surpreendeu as pessoas com fertilizantes: "O seu arroz está bonito", diziam, surpresos. Havia tanto arroz em casca quanto no ano anterior. Nos campos vizinhos com fertilizantes, os bons produziram sete fardos e meio, oito era raro, e os ruins, cerca de cinco.
-
-Eu também beneficiei o meu. E qual não foi a surpresa? A beleza do arroz... As pessoas que me ajudaram elogiaram: "Que arroz bonito!". Terminei de beneficiar e, ao verificar, havia oito fardos por *tan*. A alegria daquele momento... eu apenas chorei de alegria, ajoelhei-me diante do altar e agradeci a Meishu-Sama.
-Na entrega, as pessoas com fertilizantes tiveram arroz de quarta ou quinta classe. O meu foi todo de terceira. Com mais este benefício, apenas chorei de emoção.
-
-De agora em diante, para retribuir, nem que seja uma pequena fração da graça recebida, vou transmitir este precioso caminho e método ao maior número possível de pessoas. Por favor, agricultores, abandonem o mais rápido possível os fertilizantes caros e mudem para a Agricultura Natural. Não há absolutamente nenhum outro caminho para a salvação dos agricultores, é o que eu gostaria de dizer.
-Lamento não conseguir expressar nem uma pequena parte do que sinto. Meishu-Sama, muito obrigado. Agradeço. Por favor, continue me protegendo.
-
-(Enviado em 26 de janeiro de 1953)
-
-## Sem Pragas; Entrega Super-Extra, a Maior da Aldeia; "Cultivadores com Fertilizante" Lamentam Danos por Brusone
-
-*Eikou*, nº 198, 4 de março de 1953
-Nagai Genji (31)
-Igreja Shinmei-Tyu, Gokasho-mura, Shimo-Niikawa-gun, Toyama-ken
-
-Recebi a fé em maio de 1948 e, desde então, tenho recebido uma proteção que excede minhas posses, vivendo dias de gratidão.
-Na época em que recebi a fé, ouvi falar da Agricultura Natural (em 1948, como nossa região é de arroz precoce, o viveiro já havia sido feito no início de abril). No ano seguinte, 1949, mudei toda a minha área cultivada de mais de um *chō* e dois *tan* para a Agricultura Natural. Durante esse tempo, recebi inúmeras proteções e, especialmente em 1952, apesar da má safra na região, obtive uma colheita normal (cerca de 2 *koku* e 4 *to* por *tan*), o que relato aqui.
-
-No ano passado, nossa região sofreu os piores danos por brusone da província. A situação foi trágica, com uma queda de oitenta a trinta e cinco por cento na produção (segundo investigação das autoridades). Alguns agricultores não tinham nem arroz para consumo próprio, quanto mais para entrega.
-Devido à má safra, foi inevitável que a cota de entrega fosse reduzida, e as dificuldades econômicas dos agricultores só aumentaram.
-Os campos onde pratiquei a Agricultura Natural, seguindo os ensinamentos, quase não sofreram danos (embora houvesse mais grãos chochos que o normal). Os aldeões paravam para pegar as espigas nas mãos, me faziam várias perguntas, e eu me tornei o centro das atenções da aldeia.
-
-Graças a Deus, entreguei o arroz antecipadamente, com uma estimativa modesta em relação ao ano anterior. O resultado superou a cota da aldeia, e obtive o resultado espetacular de mais de sete *koku* de entrega extra, o maior da aldeia.
-Junto com o desejo de ajudar, nem que seja uma pequena parte, na construção do Paraíso Terrestre, como idealizado por Meishu-Sama, e para aqueles que ainda não praticam, sejam fiéis ou não, desejo ardentemente que a Agricultura Natural, que demonstrou resultados tão grandiosos na prática, seja a solução para a criação de um paraíso rural e um grande evangelho para o mundo.
-O acima é um breve relatório de meus resultados.
-Meishu-Sama, obrigado pela proteção.
-
-(Enviado em 13 de fevereiro de 1953)
-
-## Apesar de Inundado por Mais de Dez Dias, Recebe o Dobro da Graça do Cultivo com Fertilizante
-
-*Eikou*, nº 198, 4 de março de 1953
-Hirose Masayuki (44)
-Igreja Seirei-Tyu, Hozumi-cho, Motosu-gun, Gifu-ken
-
-Nossa localidade é uma aldeia que se estende ao norte e ao sul da estação de Hozumi da JNR. A região é nacionalmente famosa pela produção de sementes de astrágalo. Após a guerra, com o cultivo de hortaliças para consumo e de trigo, a maioria dos campos da aldeia é de safra dupla.
-O arroz natural de 1952, logo após o transplante, ficou inundado por mais de dez dias. Pensei que a colheita seria nula, mas, com o bom tempo posterior, pude colher um pouco. Agradeço por isso.
-
-Estou no quarto ano da Agricultura Natural. Graças a Deus, meu pai está forte e trabalhando, então eu deixo a maior parte da agricultura para ele e para as crianças. Eu mesmo viajo para as regiões de Chugoku e Shikoku e ajudo apenas quando volto para casa.
-As pessoas que usam fertilizantes devem ter aplicado adubos de ação rápida assim que o tempo melhorou. Eu apenas incorporei palha cortada na aração.
-Tenho um *chō* e dois *tan* de área cultivada. Recebi a graça de uma média de mais de seis fardos. Ouvi dizer que as pessoas com fertilizantes tiveram uma média de três fardos e meio. Elas sofreram com a inundação e com as pragas do início do outono, uma situação lamentável. Foi graças à Agricultura Natural.
-
-Especialmente o campo de safra única, recebi a graça de sete fardos. Fui claramente ensinado que, de agora em diante, só a safra única funciona.
-Ao ouvir sobre as grandes colheitas em vários lugares, senti-me envergonhado. Mas, na cerimônia de início da primavera, ao ouvir Meishu-Sama dizer: "Pode-se colher cerca do dobro do que com fertilizantes", percebi que, para esta região, recebi cerca do dobro da colheita. Peço desculpas pela demora em perceber, mas relato como foi. Meishu-Sama, muito obrigado.
-
-(Enviado em 10 de fevereiro de 1953)
-
-**(D) Eu Fiz sem Composto Orgânico**
-O pior é colocar folhas e ervas no arrozal. Isso deve ser abolido por completo. (*Eikou*, nº 198)
-O uso da palha serve para aquecer o solo. Em regiões frias, pode-se usar, mas em regiões quentes, não é necessário. (*Eikou*, nº 198)
-
-## Com Quatro Anos de Agricultura Natural, até o Composto Orgânico se Torna Desnecessário
-
-*Eikou*, nº 198, 4 de março de 1953
-Kusugaya Tatsuo (42)
-Igreja Eisho-Tyu,
-
----
-
-# byohin
-
-**Categoria:** sasshi | **Ano:** 昭和10(1936)年9月15日 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-Coletânea de Ensaios do Mestre Okada Jikan
-O que é o Movimento de Kannon para a Criação de um Mundo sem Doença, Pobreza e Conflito?
-Publicado em 15 de setembro de 1936 (Ano 10 da Era Showa)
-
-## O Movimento de Kannon e sua Declaração
-
-Nos dias de hoje, em que a civilização oriental já sucumbiu e a ocidental se encontra em um completo impasse, a questão sobre em que direção o mundo haverá de se converter constitui a angústia fundamental de toda a humanidade. Contudo, tal cenário nada mais é do que o sofrimento do parto da nova Civilização Divina que está prestes a nascer. As sucessivas guerras, revoluções e incidentes não passam das dores desse alumbramento. E o que seria, então, essa nova Civilização Divina? É aquela que, após um recolhimento de três mil anos, está prestes a dar seu primeiro vagido em nossa nação, o Japão, país da linhagem imperial ininterrupta por toda a eternidade. Observai! Esta nação, que em pouco mais de sessenta anos assimilou a cultura ocidental e em mais de mil anos digeriu a cultura chinesa sem deixar vestígios, agora desperta resolutamente para sua missão celestial. Não, mais do que isso: ela já começou a se mover, ciente de sua incumbência de despertar o mundo inteiro. Contemplai a majestade do Exército Imperial, o avanço vigoroso da indústria e as manifestações em todas as áreas, como as artes, a educação e os esportes! Tudo o que fora uma vez absorvido e purificado, ressurge agora sob uma nova e revigorada forma cultural, irrompendo para o exterior com um ímpeto irresistível. Ademais, o espírito tradicional de grande harmonia desta nação é tal que o comunismo foi forçado a capitular, e o fascismo não encontrou meios de se impor; assemelha-se, com efeito, a um vasto oceano que absorve as águas turvas de todos os rios, mantendo-se em sua serena imensidão.
-
-Nesta conjuntura, a própria arte médica, à qual o povo desta nação confia sua única e preciosa vida, resume-se a apenas duas vertentes: uma, criada pelos chineses há mais de dois mil anos, e outra, iniciada por cientistas judeus há algumas centenas de anos. A saúde e a longevidade de nós, japoneses, encontram-se atualmente à mercê desses dois métodos terapêuticos. Diziam os antigos que a vida humana dura apenas cinquenta anos; lamentavelmente, porém, as estatísticas demonstram que a medicina atual sequer nos permite alcançar essa breve marca. O que fazer diante do declínio anual do porte físico dos jovens e da alarmante taxa de mortalidade infantil? Caros leitores, reflitam: ao visitarmos hoje o lar de um conhecido, em quantas casas não encontraremos um único doente? Pode-se afirmar, sem exagero, que são raras as famílias sem uma ou duas pessoas acamadas ou hospitalizadas. Se diagnosticarmos rigorosamente a condição física dos japoneses de hoje, deveremos nos conscientizar de que menos de um terço da população goza de saúde plena.
-
-Contudo, voltemos nosso olhar para a história de nossa nação há três mil anos e lá descobriremos um fato assombroso: a longevidade de Sua Majestade o Imperador Jimmu e a de mais de uma dezena de seus sucessores imperiais, que, em sua maioria, ultrapassaram os cem anos de vida. A idade de trezentos e seis anos de Takenouchi no Sukune (たけのうちのすくね) é um caso notório. E, naquela época, não existia medicina nem higiene fisiológica como as conhecemos hoje. Alguém poderia objetar, com certa razão, que o modo de vida da Antiguidade não se compara à vida cultural de hoje. Todavia, e se fosse possível manter uma vida de cem anos mesmo em meio à atmosfera da cultura contemporânea? Haveria para a humanidade acontecimento mais extraordinário? Seria, em verdade, um grande milagre, um evento de proporções monumentais. E eu afirmo categoricamente: isso é perfeitamente possível.
-
-Examinemos, primeiramente, a medicina moderna. A medicina ocidental, fundamentada na patologia celular proposta por Virchow em 1855, entrincheirou-se no materialismo e, até hoje, prossegue com suas pesquisas minuciosas e detalhistas. Consequentemente, embora aparente ter progredido e se desenvolvido, ela se perde, lastimavelmente, em minúcias e pormenores, apegando-se em demasia à teoria, de modo que sua eficácia prática na cura de doenças permanece estagnada, como se dez anos fossem um só dia. O surgimento diário de novos medicamentos é prova cabal da ineficácia dos fármacos anteriores. Por conseguinte, hoje, os mais esclarecidos da classe médica lamentam o beco sem saída da medicina ocidental. Tenho conhecimento fidedigno de que uma renomada autoridade da área chegou a declarar publicamente, sem qualquer hesitação, que a medicina não cura doenças.
-
-Foi nesse contexto que a sociedade se viu forçada a ressuscitar a medicina tradicional chinesa, a qual já havia sido descartada e sequer merecia um olhar. Mesmo o homem moderno, que se orgulhava de sua esplendorosa cultura e reverenciava com entusiasmo os avanços da medicina ocidental, ao perceber o abismo entre o poder curativo desta e a eficácia de outras criações científicas, viu-se compelido a confiar novamente sua preciosa vida à terapia de raízes e cascas de árvores — um legado dos chineses de mais de dois mil anos, que mal subsistia até o final do período do Shogunato. É uma empresa tão trágica quanto desenterrar um esqueleto que já fora sepultado.
-
-O que nos revela o cenário atual, em que, apesar da rigorosa fiscalização das autoridades, proliferam incontáveis terapias populares, como as elétricas, de moxabustão, acupuntura, shiatsu, imposição de mãos e tantas outras? E qual a razão para o avanço impetuoso das novas religiões, ainda que sejam vistas como heresias e tratadas como superstição? Certamente, deve haver uma explicação para tal fenômeno. Concluir apressada e cegamente que todas as novas religiões são malignas e supersticiosas seria um julgamento dogmático, ditado por sentimentos convencionais, para o qual não haveria defesa. Porque, mesmo as religiões estabelecidas que os senhores tanto veneram foram, em seus primórdios, igualmente menosprezadas como novas religiões pelos fariseus e sofreram toda sorte de perseguições, tachadas de heréticas e supersticiosas. A história das perseguições religiosas narra esse fato com eloquência irrefutável.
-
-Ponderemos um instante: se a medicina moderna e as religiões estabelecidas oferecessem resultados curativos eficazes e precisos, por que alguém se aventuraria a adentrar o portal incerto das terapias populares? Por que se voltaria para as novas religiões, mesmo tendo de suportar o desprezo e as injúrias de parentes e amigos e de resistir à perseguição de seu círculo social? É porque ali existe algo que os impele de forma irresistível. E o paradoxo é que essas pessoas, surpreendentemente, não são em sua maioria idosos buscando conforto na velhice ou um paraíso após a morte, mas sim jovens com educação moderna e intelectuais. Isso se deve, evidentemente, ao fato de terem tomado conhecimento de não poucos casos em que doentes graves, desenganados pelos médicos, alcançaram curas prodigiosas por meio de terapias populares e novas religiões.
-
-Por isso, ouso dizer: que os profissionais da medicina moderna desviem por um momento o olhar das terapias populares e se dediquem integralmente à pesquisa de uma arte médica focada exclusivamente na cura. Se, como resultado, descobrirem uma medicina verdadeiramente eficaz, que de fato cure, e com ela salvarem a humanidade, as terapias populares serão naturalmente eliminadas, sem a necessidade de qualquer intervenção. Isso é mais claro que a luz do dia.
-
-Afinal, quem, eu pergunto, fez com que tantos doentes na sociedade recorressem às novas religiões e às terapias populares? Peço que ouçam o que dizem os pacientes que nos procuram diariamente. Todos, sem exceção, relatam que, ao adoecerem, procuraram primeiramente um médico ou um hospital. Felizes os que se curaram em poucos dias. Mas para aqueles cujo mal, por infortúnio, se prolongou, somou-se ao fardo das despesas médicas e hospitalares a impossibilidade de trabalhar. Assim, as economias acumuladas com o suor de longos anos se esgotaram, e mesmo depois de contraírem todas as dívidas possíveis com parentes e amigos, a doença não só persistiu como, naturalmente, se agravou com o enfraquecimento decorrente do longo padecimento.
-
-Chegados a esse ponto, já não há perspectiva de quando a cura virá, mesmo que continuem o tratamento médico. Ademais, o colapso financeiro torna a continuidade do tratamento impossível. Encontram-se, pois, em um beco sem saída, uma situação que não se pode ouvir sem lágrimas. Nesses momentos, o que aquece o coração gélido dessas pessoas são, sem dúvida, os fiéis das novas religiões, pois é característico delas o fervor missionário para expandir sua doutrina. E, por meio desse fervor, dessa sinceridade e da proteção espiritual de Deus, é possível que ocorram prodígios, como a cura de doenças graves. O desenvolvimento da Tenrikyo, por exemplo, comprova esse fato.
-
-Gostaria de falar em detalhes sobre as terapias populares, mas o temor de infringir a Lei Médica me impede. Falarei, portanto, apenas dentro dos limites permitidos. É raro que alguém nos procure imediatamente após adoecer; a grande maioria busca primeiro o tratamento médico. Não obtendo a melhora desejada, recorrem a diversas outras terapias. Somente quando estas também falham é que vêm até nós. Por essa razão, curar esses pacientes exige o dobro, ou mesmo o triplo, de poder curativo. Apesar disso, nossos resultados alcançam uma taxa de cura superior a sessenta ou setenta por cento. Quem lê isso talvez ache difícil de acreditar, mas, sendo um fato, nada há a fazer. Portanto, se houver quem duvide, não hesitarei em oferecer provas concretas a qualquer momento.
-
-O objetivo final da medicina é, sem dúvida, erradicar as doenças da humanidade. Para isso, a medicina básica, a patologia, os testes em animais e a bacteriologia são, por certo, necessários. No entanto, não haverá um excesso de foco apenas nessas pesquisas fundamentais? Suponhamos, por exemplo, a construção de uma casa. As obras de fundação não são um fim em si mesmas, mas um meio para o objetivo principal: a edificação que se erguerá majestosamente a dezenas de metros do solo. Ou seja, a fundação existe em função da construção. Embora seu papel seja crucial, de nada adianta se a fundação se prolongar indefinidamente e a casa jamais for construída. Enquanto o especialista observa atentamente a atividade das bactérias ao microscópio, dezenas de milhares de doentes gemem de dor, ansiando por uma medicina que cure. Portanto, o que desejamos é simples: que alguém, não importa quem, erradique as doenças da humanidade o mais rápido possível. É só isso.
-
-Tudo depende do tempo oportuno. O tempo é absoluto. Nem mesmo Deus pode se opor a ele, assim como é impossível fazer o sol, que se põe a oeste, retornar ao céu do leste. O fato de nosso grande Império do Japão ter começado a revelar sua imponente figura no horizonte do mundo também se deve ao tempo oportuno. Não seria surpreendente se no Japão, pelas mãos de japoneses e pelo intelecto de japoneses, nascesse uma nova arte médica. Mesmo que a medicina ocidental, de essência materialista, seja considerada absoluta, não se pode decretar que uma arte médica superior a ela jamais surgirá. Diante dos fatos, toda e qualquer teoria se torna impotente. O novo liquida o antigo, pois o novo é superior.
-
-A erradicação das doenças e o prolongamento da vida humana seriam acontecimentos assombrosos. Sei bem que, ao dizer tais coisas, corro o risco de ser taxado de louco. Mas assim também foi, em seus primórdios, com a teoria heliocêntrica de Copérnico, a lei da gravitação de Newton e a teoria da evolução de Darwin. Que o povo japonês é a mais excelsa estirpe do mundo é um fato que começa, gradualmente, a se revelar em toda a sua plenitude. O costume de enaltecer o próprio país e o próprio povo não é raro em outras nações, mas qualquer pessoa de discernimento perceberá que aqui se trata de algo completamente diferente. Devemos reconhecer que sobre nós repousa a missão de fazer a civilização do sofrimento dar um salto para uma civilização de amor e paz. Creio também que, para este mesmo propósito, surgirão outras pessoas com diferentes dons além de mim.
-
-Considero um destino misterioso que o Bodhisattva Kanzeon tenha escolhido alguém de talento tão modesto e pouca força como eu para iniciar a arte médica japonesa. E posso afirmar que, quando a força de Kannon, manifestada através do meu corpo espiritual, se expandir pela sociedade, em poucos anos o número de doentes diminuirá para menos de um terço do atual. Nessa alvorada, a expectativa de vida média dos japoneses, que hoje é de quarenta e cinco anos, será estendida para sessenta ou setenta. Segundo as estatísticas, cada ano de aumento na longevidade do povo japonês acrescenta três bilhões à riqueza nacional. Portanto, um aumento de dez anos resultará em trinta bilhões, e de vinte anos, em sessenta bilhões a mais de riqueza.
-
-A diminuição do número de doentes não representa apenas a felicidade dos próprios enfermos; como mencionado, traz um benefício extraordinário para a economia nacional. No que tange à defesa do país, seu poder será de uma magnitude inimaginável. Naturalmente, todas as dificuldades nacionais serão solucionadas. O que aconteceria se a expectativa de vida dos japoneses aumentasse em vinte anos, chegando aos sessenta e cinco? É evidente que o Japão se tornaria, de forma incontestável, a principal nação do mundo. Portanto, o movimento de expansão da arte médica japonesa é o que, em breve, levará o mundo a ser salvo pelo Japão. Banhado pela luz do magno poder e prestígio de Sua Majestade o Imperador do Japão, o Mundo de Grande Luz será então construído.
-
-Não estou, de modo algum, proferindo palavras vãs e grandiloquentes. Se houver quem duvide, convido-o a experimentar na prática. Ao crer no Bodhisattva Kanzeon e praticar a higiene fisiológica segundo a arte médica japonesa, em um período de seis meses a um ano, o demônio da doença será expulso do lar, e a ansiedade em relação às enfermidades será eliminada.
-
-Para concluir, faço um apelo aos especialistas em medicina de todo o país: que estudem quão imensa é a força de Kannon e quão assombroso é seu poder curativo. Terei grande satisfação em fornecer o material para tal estudo.
-
-(Okada Jinsai)
-
-## A Construção do Mundo de Grande Luz
-
-### Introdução
-
-Desde a antiguidade, aqueles que propagaram grandes religiões como santos foram, inegavelmente, Shaka, Cristo e Maomé. Dentre eles, Maomé fundou o Islamismo, que, centrado na Ásia Central, conta com centenas de milhões de fiéis, mas como tem pouca relação conosco, japoneses, não o abordarei aqui. De todo modo, examinarei as religiões que têm uma relação estreita conosco e, ao mesmo tempo, anunciarei ao mundo as razões pelas quais o Movimento de Kannon e a Associação Kannon foram fundados.
-
-Atualmente, no Japão, existem treze escolas xintoístas, treze seitas e cinquenta e seis ramos budistas, e mais de vinte denominações cristãs. Além disso, há inúmeras novas religiões e movimentos similares. No entanto, pode-se dizer que o budismo constitui o corpo principal, enquanto no xintoísmo a Tenrikyo se destaca, e o cristianismo se encontra em uma situação de relativa estagnação.
-
-Ao longo de três mil anos, santos e sábios surgiram como nuvens, pregando o caminho, exaltando o amor, ensinando a compaixão e recomendando o bem, com o intuito de construir um mundo livre da infelicidade, ou seja, o ideal da humanidade: o Paraíso Terrestre, o Mundo de Miroku, o Mundo do Kanrodai, o Mundo do Gino. Quantos esforços não foram envidados para tal fim? No entanto, não apenas esse ideal ainda não se concretizou, como a situação atual nos faz sentir que o futuro está cada vez mais distante. Por que será? Observai: os gritos de sofrimento ecoam por toda parte. As nações e os indivíduos poderosos aumentam seu poder para satisfazer ainda mais seus instintos egoístas, enquanto as nações e os indivíduos fracos afundam cada vez mais no abismo da exaustão e da miséria. Para cada pessoa satisfeita, há dez mil desesperadas. É um cenário de pura tragédia.
-
-Contemplai a corrida armamentista entre as nações, as dificuldades econômicas, o impasse político, a confusão ideológica, o fracasso da diplomacia de conferências, as dificuldades da vida. O que encontramos aí é desespero, suspiros e autodepreciação. É um mundo de trevas absolutas. Em um mundo tão desprovido de luz, o que a religião tem feito? Quando chegará o mundo ideal profetizado e prometido pelos fundadores de cada seita? Qual será o destino das promessas emitidas por tantos santos? Não estarão todas elas prestes a serem desonradas? Ah, humanidade! "Para onde ides vós?"
-
-O que foi dito acima é de conhecimento geral. Religiosos, políticos, jornalistas, intelectuais, todos sabem disso perfeitamente. Contudo, mesmo sabendo, nada podem fazer. E por quê? Porque não há um plano. Porque não há um líder. Porque não há força. Mas, e se surgisse um líder com esse plano, um ser humano dotado de uma força inimaginável? Que aconteceria então? Chamemos, por ora, o detentor dessa força de super-homem.
-
-Esse super-homem iniciou a obra de salvação da humanidade no primeiro dia de janeiro do décimo ano da Era Showa (1935). Pois bem, qual é a força que esse super-homem manifesta? É, precisamente, a força de Kanzeon. Abreviando, chamamo-la de Força de Kannon. Descreverei a seguir, em tópicos, o esboço do trabalho que esse super-homem se propõe a realizar, tal como o ouvi dele.
-
-Devo advertir que o que se segue contém, em grande parte, ensinamentos inéditos e, por vezes, tão surpreendentes que talvez seja difícil acreditar de imediato. Portanto, para aqueles que tiverem a menor dúvida, não haverá outro recurso senão ver com os próprios olhos. Na verdade, não há nada mais difícil do que escrever este livro. Se descrevo a realidade, serei desacreditado; se escrevo de forma a ser crível, desvio-me da verdade. É como tentar explicar um avião e um rádio a alguém da era Tokugawa; não, é ainda mais difícil.
-
-(Nota) Jornalista (操觚者, sōkosha): O ideograma 觚 (ko) refere-se a uma tabuleta de madeira quadrada usada para escrever. Daí, o termo passou a designar aqueles que se dedicam à escrita, como escritores, editores e repórteres.
-
-### O Mundo sem Doença, Pobreza e Conflito
-
-Ao falar de um mundo sem doença, pobreza e conflito, as pessoas certamente dirão que isso é um ideal, algo absolutamente irrealizável. No entanto, nosso movimento afirma, com inabalável convicção, que isso é possível. Qual é, então, o fundamento para erradicar a doença, a pobreza e o conflito? É, sem dúvida, a eliminação das doenças. Suponhamos que uma pessoa adoeça. As despesas com o tratamento e a perda de renda por não poder trabalhar representam um fardo duplo que, quanto mais se prolonga a doença, mais se agrava, a ponto de consumir a maior parte do patrimônio. As economias acumuladas com o suor de longos anos se esgotam, todas as dívidas possíveis são contraídas com parentes e amigos, e um lar que até o ano anterior era próspero, pacífico e feliz, agora se encontra irreconhecível, mergulhado na miséria e no sofrimento da doença e da pobreza. São inúmeros os exemplos disso na sociedade.
-
-Ademais, quando surge um doente grave, não apenas ele, mas toda a sua família assume uma responsabilidade ilimitada. Parentes e amigos, e por vezes até o local de trabalho, sofrem prejuízos, maiores ou menores. Portanto, o sofrimento não se limita ao doente; o resultado é um terrível golpe que atinge quatro, cinco ou mais membros da família e até pessoas de fora. A ocorrência de dois ou três casos de doença grave em sequência é suficiente para que mesmo uma família abastada se veja forçada a mudar-se para um casebre, como demonstram incontáveis exemplos.
-
-As pessoas poupam com dois objetivos: um, construir patrimônio; outro, custear tratamentos em caso de doença. O primeiro é proativo; o segundo, reativo. E todos sabem que a poupança reativa é, de longe, a mais comum. Logo, não se pode negar a afirmação de que a maior causa da pobreza é a doença. Em seguida, vem o conflito. Tanto entre nações quanto entre indivíduos, a principal causa é de ordem econômica, o que também é de conhecimento geral. Portanto, para erradicar a doença, a pobreza и o conflito, a ordem correta é começar pela raiz do problema: a doença. Seres humanos livres de doenças — esta é a questão primordial. Qualquer forma de salvação que não parta daí é inconcebível. E a força para realizar isso é, inquestionavelmente, a Força de Kannon, e nenhuma outra. Assim, uma obra tão maravilhosa é algo que nem mesmo Shaka ou Cristo jamais sonharam. Aquele que puder crer nisso é, em verdade, um bem-aventurado como jamais houve.
-
-### A Verdadeira Natureza do Bodhisattva Kanzeon
-
-Até hoje, o Bodhisattva Kanzeon foi considerado uma entidade completamente secreta, e sua verdadeira natureza permaneceu desconhecida por todos, o que é, de fato, um grande mistério. Consequentemente, muitos budistas, iludidos pelo título de "Bodhisattva", consideraram-no inferior a Amida Nyorai ou Shaka Nyorai. Alguns chegaram ao ponto de fazer interpretações absurdas, como a de que Amida é a entidade original e Kannon é sua manifestação, ou mesmo de que Kannon é um assistente de Shaka, o que é o cúmulo do descabimento. Qual é, então, a verdadeira natureza do Bodhisattva Kanzeon? Com o devido respeito, trata-se da divindade que representa e age em nome de Deus Amaterasu Omikami na salvação pela compaixão.
-
-Deus Amaterasu Omikami é a manifestação do Deus Supremo. Possuindo a mais nobre e sagrada divindade, é um Deus único e sem igual. Por ocasião da descida de Seu neto celestial, Sua Majestade Ninigi-no-Mikoto (ににぎのみこと), Ele lhe outorgou o decreto divino de que o país de Toyoashihara-no-Mizuho-no-Kuni (a Terra inteira) perduraria eternamente junto com o céu e a terra, confiando para sempre o grande poder de governar aos Imperadores de linhagem ininterrupta. Posteriormente, por desígnios da providência divina, o poder do julgamento foi concedido ao deus terreno Kunitokotachi-no-Mikoto (くにとこたちのみこと), que se tornou o soberano do mundo invisível, o Grande Rei Emma. Por outro lado, o poder da salvação foi concedido à Deusa Izunome-no-Okami, que, manifestando-se como o Bodhisattva Kanzeon, fez o voto de salvar todos os seres vivos com absoluta compaixão, e assim permanece até hoje. Para explicar de forma mais clara: por mais que Deus Amaterasu Omikami deseje salvar o mundo, Sua posição divina O impede de salvar a humanidade diretamente. Com o devido respeito pela comparação, é o mesmo princípio pelo qual um grande soberano, que governa todo o império, dificilmente poderia intervir pessoalmente para cuidar de seu povo, delegando essa tarefa a seus ministros. Por essa razão, Ele desceu à posição inferior de um Bodhisattva, para conceder a salvação a todos, sem discriminação, por mais humilde que seja a classe social. Ao ponderar sobre isso, sentimo-nos profundamente comovidos pela imensa compaixão de nosso Deus Ancestral.
-
-Há dois mil e quinhentos anos, como mencionado, a Deusa Izunome-no-Okami, a quem o Deus Ancestral conferiu a autoridade da salvação, viajou para a terra de Gesshi, a atual Índia, e estabeleceu-se no Monte Fudaraku, no sul do país, onde pregou a Lei a todos os seres celestiais e justos daquela época. Sobre isso, o Sutra Kegon relata: "Ao sul, há uma montanha chamada Fudaraku, onde reside o Bodhisattva Kanjizai. Certa vez, o jovem Zenzai Doji (Shaka), em peregrinação, subiu ao cume da montanha e conseguiu encontrar-se com Kannon. Ali, as árvores eram frondosas, e havia fontes e lagos por toda parte. Sobre um assento de diamante em um gramado macio do jardim, o Bodhisattva Kanjizai estava sentado em posição de lótus, sendo reverenciado por muitos santos, enquanto discursava sobre o Sutra da Grande Compaixão. Naquela ocasião, os Vinte e Oito Guardiões serviam como assistentes de Kannon." (A propósito, Kanjizai Bosatsu é outro nome para Kanzeon Bosatsu).
-
-Além disso, o Grande Mestre Nangaku, fundador da escola Tendai na China, disse: "Antigamente, no Monte Ryoju, ele pregou o Sutra de Lótus; agora, na Terra Pura do Oeste, é chamado de Buda Amida. E, ao se manifestar no mundo humano, torna-se o Bodhisattva Kanzeon, o salvador. Os benefícios das três eras — passado, presente e futuro — convergem todos para a única entidade de Kannon." Como se pode depreender disso, um de seus discípulos, Zenzai Doji, exultou com essa sublime pregação e, subitamente iluminado, subiu ao Monte Dantoku, onde praticou sete anos de ascetismo (esses sete anos foram uma indicação espiritual de Kannon) e, como Shaka, o iluminado, finalmente pregou a Lei de Buda. Diante disso, é um fato incontestável que o verdadeiro fundador da Lei de Buda foi o Bodhisattva Kanzeon, e Shaka foi seu discípulo.
-
-### O Amida das Três Deidades
-
-Desde a antiguidade, existem as expressões "o Amida das Três Deidades", "os Três Miroku" e "a Trindade". Em termos búdicos, referem-se a Kannon, Amida e Shaka. Para facilitar a compreensão, farei uma classificação aplicando esses conceitos a diversos assuntos, como segue:
-
-*   **Cinco:** Japão, Sol, Fogo, Joia, Vertical, Liberdade, Pureza, Verdade, Unificação, Kanzeon
-*   **Seis:** Ocidente, Lua, Água, Espada, Horizontal, Feminino, Mal, Beleza, Corpo, Amida
-*   **Sete:** Oriente, Terra, Solo, Espelho, Sutra, Masculino, Bem, Bondade, Espírito, Shaka
-
-A explicação detalhada de cada um desses itens pode ser encontrada na revista mensal "Komyo Sekai", publicada por nossa associação. Portanto, aqui me limitarei a uma ou duas explanações. Kannon é o Miroku do Japão, por isso seus cabelos são lisos. Shaka e Amida são de origem estrangeira, por isso seus cabelos são encaracolados. A alta posição de Kannon é evidenciada pela coroa incrustada de joias, pelo colar e pelas pulseiras. Sua divindade sublime também pode ser inferida por Sua nobre aparência, dotada das Trinta e Três Formas. O fato de Sua imagem original ser uma estátua de ouro maciço de 1 sun e 8 bu (cerca de 5,4 cm) simboliza a raça de pele dourada, o povo japonês. Amida e Shaka, por sua vez, não possuem adornos e estão envoltos em um pano branco sobre o corpo nu. O material de suas estátuas, madeira folheada a ouro, bronze dourado, ou, no caso das maiores, bronze, também nos permite imaginar sua divindade.
-
-É uma história famosa que Amida, como o Bodhisattva Hozo, manifestou-se uma vez em corpo físico e prometeu a Shaka a Terra Pura do Oeste. Portanto, o Miroku do Corpo da Lei é Amida, o Miroku do Corpo da Recompensa é Shaka, e o Miroku do Corpo da Manifestação é Kannon.
-
-### A Verdade sobre Miroku
-
-Como mencionado no item anterior, Amida é o Miroku da Lua, também chamado de Bodhisattva Gakko, e Shaka é o Miroku da Terra. A atividade salvadora desses dois grandes seres, baseada em suas respectivas leis búdicas e comissionada pela Deusa Izunome, já chegou ao fim. A profecia de Shaka sobre a era da extinção do budismo tornou-se clara nos dias de hoje. Por que Kannon, o Miroku do Sol, permaneceu como uma entidade secreta por dois mil e quinhentos anos, atuando de forma oculta e contentando-se com uma posição inferior à de Amida e Shaka? Porque esse foi o período do mundo da noite. É o mesmo princípio pelo qual o sol físico, estando do outro lado da Terra, ilumina a lua enquanto aguarda a chegada da aurora. Portanto, o fato de Amida, o da Lua, ter brilhado até hoje, deve-se a ter sido o mundo da noite. Se pensarmos que a escuridão da noite favorece a atividade do mal, compreenderemos a história do mundo até hoje, marcada pelo domínio dos malfeitores.
-
-Agora, a aurora chegou. O Sol, o Miroku do Sol, surgiu. A luz romperá as trevas de todos os mundos, e o mundo se tornará como em pleno dia. O órgão de transmissão dessa luz é o nosso Movimento de Kannon. Cinco é fogo e sol. Seis é água e lua. Sete é terra. Até hoje, a ordem era inversa: sete, seis, cinco. A lei de Buda pregada por Shaka, o Miroku do sete, era a principal; Amida, o Miroku do seis, vinha em segundo; e Kannon, o Miroku do cinco, ficava em último lugar.
-
-O mundo de Miroku (五六七, Go-Roku-Shichi), profetizado por Shaka, ocorreria após a extinção do budismo. Sendo assim, o período até a extinção do budismo corresponde a sete-seis-cinco, e o período posterior, a cinco-seis-sete. Portanto, sete-seis-cinco é o inverso de cinco-seis-sete. Ou seja, é o contrário. Em kotodama (a ciência espiritual da linguagem), Shaka soa como "saka", que significa "inverso". O nome Shaka também deriva desse significado. É contrário à razão que o povo do País do Sol venere a terra e a lua. O mesmo princípio se aplica a venerar o oeste estando no leste. Contudo, durante o período do mundo da noite, não havia alternativa. O fato de nós, japoneses, exaltarmos a cultura estrangeira e louvarmos os deuses e budas estrangeiros também tinha sua razão de ser e era inevitável.
-
-Sem qualquer aviso, quando chega a hora, o sol se eleva tranquilamente no céu do leste. Por ser o sol material, todos podem vê-lo. Mas o sol espiritual, infelizmente, não pode ser visto a olho nu. No entanto, a força do tempo não deixará de se fazer compreender por todos os povos do mundo. Não importa quem negue ou tente obstruir, assim como o sol material se eleva alto no céu, a luz do sol espiritual aumentará seu brilho a cada dia. Que coisa maravilhosa! A noite de milênios está chegando ao fim.
-
-Permitam-me dizer mais uma coisa. Shaka disse que a essência do budismo é o "shinnyo" (verdade tal como é). "Shinnyo" refere-se à lua do "shinnyo". Isso porque, no momento da iluminação, o céu da mente é como se fosse iluminado pela resplandecente lua do "shinnyo". Contudo, essa lua do "shinnyo" agora se tornou uma lua pálida da madrugada, começando a se pôr no oeste. É por isso que o budismo está perdendo sua força.
-
-Há budistas que, tranquilamente, se apegam à afirmação de Shaka de que o mundo de Miroku virá daqui a cinquenta e seis bilhões e setecentos milhões de anos. Pensem bem. Hoje, apenas dois mil e quinhentos anos depois daquela época, o mundo já mudou tanto. Que necessidade haveria de profetizar sobre um futuro tão inimaginavelmente distante como cinquenta e seis bilhões e setecentos milhões de anos? Isso foi, na verdade, um enigma para ocultar o mistério de Miroku (五六七, Go-Roku-Shichi).
-
-### A Santíssima Trindade
-
-O significado deste termo não foi revelado em sua verdade até hoje. Isso porque o tempo ainda não era oportuno. Na verdade, refere-se à realização do Mundo de Grande Luz, o objetivo do Movimento de Kannon. Explicarei de forma simples. A harmoniosa união do Oriente, do Ocidente e do Japão é a Trindade mundial. A união do espírito ocidental, nascido da cultura judaica, do espírito oriental, nascido do bramanismo, e do espírito Yamato, nascido da raça descendente dos deuses, é a Trindade ideológica. A reunião de Shaka, Amida e Kannon é a Trindade búdica. A harmonização do Cristianismo, Islamismo e Budismo é a Trindade religiosa. A unificação do Xintoísmo, Budismo e Cristianismo dentro do Japão é a Trindade religiosa japonesa. Contudo, a nação que possui a autoridade e a força para se tornar o centro dessa Trindade é, nada mais, nada menos, que o nosso Japão. Em outras palavras, o Japão é o filho nascido do pai oriental e da mãe ocidental. O mundo inteiro se tornará uma grande família, unificada pela raiz do "Su" (○丶), ou seja, pelo Japão (Hi-no-moto, a raiz do Sol). Esse é o significado da Trindade. O mundo após a realização dessa Trindade será a terra de paz e felicidade eternas, o Mundo de Grande Luz. Isso foi determinado por Deus desde a criação do céu e da terra.
-
-### A Luz do Oriente
-
-No budismo, diz-se: "Este mundo passageiro é, em si, a Terra Pura da Luz Serena". As pessoas valorizam essa expressão "luz serena", mas isso é um grande erro. Porque "luz serena" (寂光, jakko) significa uma luz solitária, melancólica. Refere-se à luz da lua. Só por este fato, compreende-se que a era do budismo foi o mundo da noite. Portanto, expressões como "Terra Pura da Luz Solar" ou "Terra Pura da Luz Brilhante" é que descrevem o verdadeiro mundo luminoso.
-
-Desde a antiguidade, diz-se "Bodhisattva Kanzeon do Oriente" e "Buda Amida do Ocidente". Isso é um enigma que indica que Kannon surgirá do país do Oriente, o Japão. Há também a expressão "a luz do Oriente". Esta é igualmente uma profecia de que a luz surgirá do Japão. A luz que surge do leste é, obviamente, o sol. Apenas considerando cada um desses pontos, entender-se-á que Kannon e a luz do Oriente estão destinados a surgir do Japão.
-
-Quando o grande sol surge, a lua perde seu brilho e as estrelas se ocultam. É um fenômeno natural dos corpos celestes. Imaginando a partir desse fenômeno celestial, podemos julgar os acontecimentos futuros. O Sutra de Lótus diz: "Todo o universo retornará à Lei Maravilhosa". O ideograma "maravilhoso" (妙, myo) na verdade oculta o ideograma "brilhante" (明, myo). Isso porque Kannon ainda não havia se manifestado. Portanto, o significado é: "Todo o universo retornará aos ensinamentos de Kannon, o Deus do Sol e da Lua". Ou seja, é a profecia de que, por meio disso, todas as religiões se unificarão.
-
-Compreenderão, então, que não foi mera coincidência o fato de o jornal de nossa associação, "A Luz do Oriente", ter sua primeira edição publicada no auspicioso dia 23 de dezembro do nono ano da Era Showa (1934), aniversário de um ano de Sua Alteza o Príncipe Herdeiro.
-
-### A Unificação do Mundo
-
-Que o nosso Japão tem a missão de governar o mundo no futuro é algo que pode ser afirmado sob qualquer ponto de vista. A característica mais distintiva é o fato de possuirmos uma Casa Imperial de linhagem ininterrupta e invulnerável. Outra é a misteriosa índole nacional de absorver e harmonizar plenamente as culturas oriental e ocidental. O "Terceiro Império" defendido por Ibsen pode ser interpretado como uma predição do futuro do Japão. Contudo, a unificação do mundo pelo Japão não será, de forma alguma, hegemônica ou invasiva. Será uma unificação moral, em conformidade com as leis do céu e da terra. As nações não se submeterão, mas se renderão com alegria.
-
-Muitos duvidarão se algo tão extraordinário pode de fato ser realizado. E quem realizará um feito tão grandioso? Pelas mãos de quem essa obra, esse movimento, será executado? O Japão é, originalmente, a pátria-mãe do mundo. Na criação do céu e da terra, o país formado primeiro como o envoltório fetal foi o Japão. Portanto, ele é o protótipo do mundo inteiro. Por exemplo, nossa ilha principal, Honshu, corresponde ao continente eurasiano; Hokkaido, à América do Norte; Taiwan, à América do Sul; Kyushu, à África; e Shikoku, à Austrália. Além disso, se examinarmos detalhadamente as montanhas, rios e ilhas, veremos que tudo é um protótipo.
-
-A Restauração Meiji não foi, na verdade, um evento restrito ao Japão. Ela acabará por se desenvolver em uma Restauração Imperial mundial. Antes que o Japão e o Imperador do Japão governem o mundo, isso deve se manifestar primeiro no protótipo do mundo, o Japão. A Restauração Imperial foi o retorno à forma original, quando o poder político, por centenas de anos exercido arbitrariamente pela classe guerreira, foi devolvido ao Imperador, fazendo com que o sol voltasse a brilhar. Se aplicarmos este fato ao futuro do mundo, compreenderemos claramente.
-
-Observando como o Japão se uniu à Manchúria e agora avança para a pacificação sino-japonesa, revelando concretamente sua majestade como líder da Ásia, e, por outro lado, como a Europa caminha dia a dia para a desintegração, poderemos ter uma ideia aproximada. Se Sua Majestade o Imperador do Japão governar o mundo, o ponto central dessa unificação será, naturalmente, nossa Tóquio.
-
-Para que o Deus Ancestral Amaterasu Omikami, no tempo oportuno, execute o grande plano de governo do mundo, são necessários um órgão executor e dezenas de milhares de pessoas escolhidas. Militares, políticos e industriais devem unir suas forças. Salvar e subjugar moralmente a humanidade é uma obra verdadeiramente sublime e sagrada. Para isso, a atividade dos religiosos é absolutamente necessária.
-
-A unificação do mundo se dará pelo magno poder e prestígio de Sua Majestade o Imperador do Japão. Magno poder e prestígio significam a luz sublime que brilha sobre os oito cantos do mundo. Nosso Movimento de Kannon nasceu como a atividade do povo para transmitir essa luz ao mundo inteiro. O Imperador, solene e inviolável, brilha como o sol e a lua acima das nuvens. Sentimos que Sua preocupação com a unificação do mundo é inabalável. Isso se realizará através do profundo plano do Deus Ancestral e da atividade abnegada e leal do povo.
-
-Sendo a unificação do mundo uma obra sem precedentes, por mais que seja feita com amor e compaixão, não se pode garantir que não haverá, ocasionalmente, alguma nação ou povo insatisfeito. Por isso, o povo deve assumir a responsabilidade até o fim.
-
-### O Ponto de Origem da Grande Religião
-
-Nossa Associação Kannon nasceu em 1º de janeiro do décimo ano da Era Showa (1935), em Hanzomon, no centro do distrito de Kojimachi, que é o centro de Tóquio, o centro do Japão. Este local está a um passo do Palácio Imperial, onde reside o grande soberano, sendo verdadeiramente aos Seus pés. Isso tem um significado de extrema importância. Como mencionado anteriormente, a unificação do mundo pelo Japão consiste em expandir o magno poder e prestígio do Imperador do Japão a todo o mundo.
-
-Hi-no-moto (Japão) significa a raiz do "Su" (○丶). O ideograma para "sol" (日) originou-se do pictograma de ○丶. A raiz do "Su" é "Su". A letra "Su" é formada pela união de "um" e "pessoa". Significa o Soberano único. "Su" também é "unificar" (統, su). É "governar" (皇, sumeru) e "ser límpido" (澄, sumi). Significa o centro da unificação. Quando o sol se eleva e atinge o centro do céu, sua luz é mais forte. Esse é o momento do meio-dia. Ao olharmos para cima nesse momento, o céu tem a forma de ○丶. É a forma pela qual o mundo inteiro é iluminado pela luz do grande sol, e toda a humanidade é banhada por essa luz.
-
-Por essa razão, é um princípio evidente que uma salvação de grande luz, como a do sol, deve nascer do centro da unificação, Tóquio, aos pés do Imperador. Até hoje, surgiram inúmeras religiões e salvadores, mas todos estavam fora do ponto central. Só por isso, pode-se imaginar a imensa missão com que a Associação Kannon nasceu.
-
-### Tóquio como Centro
-
-Alguém pode duvidar do que foi dito no item anterior sobre o Japão ser o centro, talvez argumentando que o Japão se localiza no extremo oriente do mundo. Explicarei a esse respeito. Basta olhar para o cume do Monte Fuji. Visto de cima, de um avião, o cume é o centro, com a forma de ○丶. No entanto, visto de lado, o cume está na extremidade. Se considerarmos a base da montanha como o oeste, o cume se torna o extremo leste.
-
-Todas as religiões até hoje nasceram no Ocidente. Budismo, Cristianismo, Islamismo, Confucionismo, Taoísmo, Bramanismo, Judaísmo, todas. O mesmo se aplica dentro do Japão. Tenrikyo, Konkokyo, Oomoto, Hito no Michi, Butsuryuko, Seicho-no-Ie, todas são assim. É o mesmo que com a cultura. As diversas religiões e culturas se concentraram no centro, o leste, a partir do oeste, da mesma forma que muitas pessoas sobem da base para o cume do Monte Fuji. Foi um movimento centrípeto. Agora, o que foi reunido será sintetizado e controlado para se tornar uma cultura perfeita e, de forma centrífuga, será irradiado para todo o planeta.
-
-O crisântemo de dezesseis pétalas simboliza a luz do magno prestígio, irradiada para os oito cantos do mundo, tendo como centro o Imperador do Japão, descendente direto de Deus Amaterasu Omikami, a Deidade Solar. Os oito cantos do mundo (八紘, hakko), duplicados em espírito e corpo, tornam-se dezesseis.
-
-### O Mundo da Luz
-
-Com base no que foi exposto, o mundo até hoje foi um mundo da noite. Foi uma religião da noite e uma civilização da noite. Uma noite de estrelas e uma noite de lua. A história mundial, cheia de reviravoltas e inconstâncias, reflete perfeitamente as fases da lua, o que a torna evidente. A noite termina, e nasce a civilização do dia, iluminada pelo sol. A civilização do sol e a da lua se unem, e nasce a civilização da luz (明, myo). Este é o Mundo de Grande Luz. Esta é a verdadeira civilização. A história do mundo foi o plano do Deus Supremo para criar esta civilização. O Movimento de Kannon é o que dá sentido e vida à longa, longa história do mundo.
-
-### A Busca Cega na Escuridão
-
-Qualquer pessoa que leia as escrituras sagradas de até hoje, como os sutras, a Bíblia e os "Ofudesaki", perceberá que todas elas são extremamente ambíguas e obscuras, com muitas partes enigmáticas e incompreensíveis. No entanto, ninguém até hoje estranhou esse fato. Pior ainda, alguns chegam ao ponto de dizer: "É valioso porque não se entende", o que é verdadeiramente ridículo. Isso se deve a uma estranha tendência da humanidade, aprisionada por uma espécie de ação psicológica fatalista, de aceitar acriticamente, cegamente e como verdade absoluta os escritos e escrituras deixados por sábios e santos. Tanto nos sutras quanto na Bíblia, há trechos que se desviam da verdade, mas não houve quem os discernisse. Isso é, de fato, muito estranho. Mesmo entre as palavras ditas por esses santos, há erros. O fato de as gerações posteriores terem forçado uma interpretação de verdade e as venerado é, na verdade, algo estúpido. Ao dizer isso, sei que rirão de minha audácia, como a de um louco. Mas eu afirmo: se tudo o que os santos disseram fosse verdade, a humanidade já teria sido muito mais salva, e o Paraíso Terrestre talvez já tivesse se manifestado.
-
-Shaka disse que a essência do budismo é o "shinnyo" (真如). "Shinnyo" significa "como a verdade" (真の如し), ou seja, algo semelhante à verdade, mas não a própria verdade. Em outras palavras, era algo provisório, de segunda ordem, até que a verdade se manifestasse.
-
-Além disso, o sentido de todas as escrituras sagradas é terrivelmente carente de clareza. São fáceis de interpretar de várias maneiras, enigmáticas, alegóricas, e repletas de frases desnecessárias, incompreensíveis e supérfluas. É verdade que há textos notáveis, verdades solares e frases preciosas, mas a quantidade de palavras desnecessárias é excessiva. Por que cada religião, com o passar dos anos, se divide em várias seitas e dezenas de ramos? Porque se baseiam em escrituras inconsistentes. Se fossem explicadas de forma clara e límpida, sem deixar margem para a menor dúvida, como poderia surgir a confusão? Como são expostas de modo que cada leitor pode interpretar de várias maneiras, é mais do que natural que se dividam em múltiplos ramos.
-
-A essência dos textos budistas e a verdade da Bíblia, mesmo após mais de dois mil anos e os esforços de dezenas de milhares de pessoas, ainda não foram compreendidas em seu significado mais profundo. Até a ciência tem suas equações. Portanto, uma escritura que possa ser lida por estudiosos, políticos, educadores, comerciantes, agricultores e todas as massas, permitindo-lhes compreender a verdade do céu e da terra de forma simples e direta, sem gerar a menor confusão, é o que possui o verdadeiro poder salvador.
-
-### A Missão da Religião
-
-É lamentável que a maioria das coisas hoje chamadas de religião tenham perdido de vista sua missão original. Muitas grandes organizações religiosas se concentram em obras sociais, administrando hospitais, asilos e orfanatos. Mas, a rigor, essas são tarefas do serviço público municipal ou da filantropia dos ricos. Quando a religião se dedica a obras sociais, ela deixa de ser religião. A religião também não é um trabalho de edificação moral; isso é tarefa do Ministério da Educação. A religião também não é moralidade. A ética e a moral são deveres dos educadores. A religião também não é filosofia. Existem termos como "filosofia da religião", "Ciência Cristã" e "teologia", mas são erros crassos. Religião é religião. Filosofia é filosofia. Ciência é ciência. A religião deve se posicionar, transcendente, no cume de todos os campos, possuindo a máxima autoridade e força para salvar toda a humanidade. No entanto, é inegável que, como parte da religião, a edificação, a moral, a filosofia e a ciência estão incluídas. Portanto, a religião tem sua própria missão: libertar para sempre o espírito de todos os seres do infortúnio. A edificação, a moral, a ética e a filosofia oferecem uma salvação temporária. Elas não podem salvar a alma de forma ilimitada e infinita.
-
-### A Verdadeira Salvação
-
-A verdadeira salvação é salvar a alma eternamente. É também eliminar o sofrimento e conceder a alegria ao longo de toda a vida. Se não for capaz disso, não tem valor como religião. Em vez de consolar alguém que está doente, a verdadeira salvação é curar a doença e restaurar a saúde. Em vez de dizer para suportar a pobreza e encontrar paz de espírito, a verdadeira saliativa é fazer com que a pessoa não dependa de dinheiro. Em vez de dizer para desistir, suportar e se iluminar porque este mundo é uma terra impura a ser rejeitada, uma casa em chamas e um mundo de sofrimento, a verdadeira salvação é agir positivamente para transformar este mundo de sofrimento em um paraíso terrestre. O valor de uma religião é determinado pela manifestação efetiva dessa salvação.
-
-Contudo, os religiosos do mundo sabem de tudo isso, mesmo que eu não o diga. Mas, por mais que saibam e se esforcem, como não conseguem fazer nada, não lhes resta outra opção a não ser pregar para que as pessoas desistam em meio ao sofrimento e encontrem paz de espírito. É uma espécie de escapatória. Por mais que toquem a flauta do conformismo, as massas não dançam; por mais que batam o tambor, não se reúnem. É nesse ponto que a sociedade critica a religião como algo inútil. E isso é doloroso. Como é doloroso, precisam fazer algo. A gestão de obras sociais pelas organizações religiosas é o colete à prova de balas para se protegerem. Embora seja digno de compaixão, desejo que despertem o mais rápido possível para a missão original da religião e se dediquem à verdadeira salvação.
-
-Para finalizar, a religião feita com a sabedoria humana termina em obras sociais. A religião que avança com a força e a sabedoria de Deus vai de milagre em milagre, salvando verdadeiramente o mundo.
-
-### Uma Salvação Paliativa
-
-As instituições que ajudam os doentes que não podem ir ao médico, os pobres que não têm o que comer, os idosos e os órfãos dignos de pena, estão cada vez mais completas socialmente. O Exército da Salvação alegra os pobres com sua panela de caridade. Essas coisas são, sem dúvida, boas. É infinitamente melhor que existam do que não. No entanto, não seria mais importante purificar a origem que faz com que essas pessoas infelizes surjam uma após a outra, em número incontrolável?
-
-Aí reside a missão da religião. Diz-se que o número de policiais aumenta a uma taxa maior que a da população. Os juízes estão tão sobrecarregados que adotaram a política de proferir sentenças o mais rápido possível. Prisões e hospitais psiquiátricos são constantemente ampliados. Embora essas sejam medidas inevitáveis em resposta à situação social, não são motivo de honra.
-
-Ao observar esses fenômenos sociais, um religioso não deveria ficar de braços cruzados. Onde está a verdadeira causa do mal social? Tudo tem uma causa e um resultado. No entanto, salvar o resultado, e não a causa, é o trabalho especializado das obras sociais, da polícia e dos tribunais. Qual é a causa de todos os crimes e infortúnios? É a alma humana. Somente purificando a alma é que a sociedade melhorará. A missão da religião também reside aí. Esta é uma autoridade que nada mais pode aspirar alcançar, e é o nobre sentido da existência da religião. Fora disso, a religião não tem significado.
-
-Dito isso, os religiosos de hoje também estão bastante ativos. Locais de pregação, igrejas, templos, missionários, capelães, pregadores... são centenas de milhares, incontáveis. Mesmo assim, é estranho que o mal social aumente cada vez mais. Será que falta esforço aos que ensinam, ou são preguiçosos? Não, de modo algum. Eles se esforçam nos púlpitos, nas ruas, individualmente, até ficarem roucos. O fato de não obterem os resultados esperados significa que algo está faltando.
-
-A religião da força, que resolve todas essas questões difíceis, é a nossa Associação Kannon e o Movimento de Kannon.
-
-### A Força de Kannon
-
-Alguém poderia dizer: "Não precisamos que nos falem sobre o Bodhisattva Kanzeon como se fosse algo novo. Desde a antiguidade, nos países do Oriente, e especialmente em nosso Japão, templos foram construídos em vários lugares para consagrá-lo, e ele é venerado em templos, onde inúmeras pessoas o reverenciam e recebem seus benefícios." À primeira vista, isso parece razoável.
-
-A fé em Kannon até hoje se deu através de obras criadas por escultores budistas, monges e pintores. A salvação ocorria por meio dessas imagens, sendo, portanto, uma salvação provisória e indireta. Ou seja, apenas uma parte da Força de Kannon era manifestada. Para manifestar a verdadeira Força de Kannon, é indispensável usar um ser humano encarnado como instrumento, assim como Shaka, Cristo e Amida realizaram a obra de salvação uma vez em corpo físico.
-
-Se fizermos uma pergunta a uma estátua de madeira, ela não responderá. Se mostrarmos onde dói, ela não estenderá a mão para curar. Aqui reside a necessidade de um ser humano vivo. Não se deve estranhar que, no mundo caótico de hoje, para salvar a humanidade que perdeu seu rumo, surja uma força sem precedentes. O desenvolvimento da civilização uniu o mundo, e a forma de unificação mundial tornou-se excessivamente clara. A humanidade, presa demais à história e à experiência, tem desde a antiguidade a fraqueza de aceitar com dificuldade o que é demasiado grande e demasiado novo.
-
-Além disso, o hábito de venerar excessivamente os santos do passado e de adorar pinturas e estátuas de madeira está tão fortemente arraigado que, mesmo que se anuncie o surgimento de um ser humano com algo como a Força de Kannon, é natural que, a princípio, o desprezem, o considerem uma fraude ou um impostor.
-
-No entanto, quer as pessoas reconheçam ou não, quer interfiram ou não, a grande luz e força, indiferente a tudo, se eleva momento a momento, como o sol. Contudo, aqueles que, o mais rápido possível, se abrirem com sinceridade à luz, naquele instante darão um passo para o mundo da felicidade e, é claro, serão salvos em espírito e corpo, tornando-se eternamente protegidos por Deus.
-
-Hoje, quando tudo se tornou mundial, é lógico que aquele que surge com o selo de um santo possua, por um princípio correspondente, uma grandeza e uma força igualmente mundiais.
-
-### O Senhor da Luz
-
-A força que cura todas as doenças, elimina a pobreza e acaba com os conflitos; a força que esclarece a causa do infortúnio e do pecado e a remove — essa é a purificação pela luz e pela força. O fato de a luz do sol e da lua atuar através do corpo físico de um único ser humano é um fenômeno verdadeiramente sem precedentes. É uma luz que a ciência não pode, de forma alguma, compreender, mas é uma luz real. Essa luz está, agora, realizando inúmeros milagres surpreendentes.
-
-Pois bem, onde se encontra essa luz? Ela é possuída pelo Bodhisattva Kanzeon, que, usando um super-homem como instrumento, se empenha em cumprir Seu grande voto de salvação. Essa força é chamada de Força de Kannon. Quando essa Força de Kannon atua, todo o infortúnio se dissolve. É um grande milagre surpreendente. Diante dessa força, a teologia, a filosofia, a teoria e a ciência não podem oferecer nenhuma explicação. Por quê? Porque é algo nunca antes experimentado na história da humanidade. O conhecimento e a experiência baseados nos fenômios do mundo passado não podem explicá-la. Assim, o único meio de conhecer essa força é a experiência direta.
-
-### Salvador e Redentor
-
-Muitas vezes, confunde-se salvador com redentor. No entanto, na realidade, a diferença entre eles é tão grande quanto a do céu e da terra. Redentor é aquele que redime os pecados. O santo de Nazaré, Jesus, que foi crucificado para redimir os pecados de todos os povos do mundo, foi isso. Ele foi um grande redentor. Redimir significa, como representante ou substituto dos pecadores, implorar o perdão dos pecados a Deus. Em outras palavras, é aquele que pede desculpas, o lado que é perdoado.
-
-Em contraste, o salvador é a autoridade que perdoa os pecados, em resposta ao pedido de perdão do redentor. No entanto, até hoje, surgiram vários santos, grandes e pequenos, como redentores, mas um salvador, aquele que perdoa, ainda não havia aparecido. É preciso compreender plenamente este ponto.
-
-### Benefícios Imediatos
-
-Muitas pessoas interpretam os benefícios imediatos como uma forma de fé inferior, mas isso é um grande erro. Explicarei este ponto. Na verdade, não deve haver uma única pessoa no mundo que, de coração, não goste de benefícios imediatatos. Se houvesse, essa pessoa seria louca. Não creio que haja alguém que não goste de ser curado de uma doença. Nem uma única pessoa recusaria dinheiro dizendo que não o quer. Garanto que, neste mundo, não há absolutamente ninguém que diga: "Eu gosto do infortúnio e detesto a felicidade".
-
-No mundo religioso, figuras proeminentes costumam dizer que os benefícios imediatos são de nível inferior e que a verdadeira fé consiste em transcender a doença e o infortúnio para alcançar a paz de espírito. Eu digo: se houvesse no mundo pessoas capazes de manter a paz de espírito enquanto sofrem de doenças e estão cercadas por infortúnios e calamidades, não seriam mais de dez em sessenta milhões. É absolutamente impossível salvar as massas com uma fé puramente teórica como essa. Se uma religião só pode salvar uma pequena minoria e não as massas, então ela é inútil.
-
-As religiões que rejeitam os benefícios imediatos o fazem como um sofisma para encobrir sua falta de poder, ou seja, de milagres, para conceder tais benefícios. É a prova de que essa religião já perdeu sua vida. São precisamente essas religiões que mal justificam sua existência por meio de obras sociais. Qualquer religião, em seus primórdios, deve ter tido benefícios imediatos consideráveis, como a história atesta; se não, já teria desaparecido naquela época. Então, por que, diferentemente de quando foi fundada, hoje ela não tem mais esse poder? A verdade é esta: todos os fundadores eram pessoas sérias, sinceras e dignas de serem representantes de Deus e dos budas. Mas, infelizmente, como era a era da noite, com o passar dos anos, sua força foi minada por espíritos malignos, e elas acabaram no estado sem vida que vemos hoje.
-
-Eles também pregam que, embora o sofrimento nesta vida seja inevitável, no futuro seremos salvos no céu ou na Terra Pura. Isso também é estranho. Como algo que não pode salvar no presente poderia salvar no futuro? O futuro é o mundo invisível após a morte. Se, por acaso, não se conseguir ir para o céu ou a Terra Pura, não se pode voltar de lá para reclamar. É uma pregação extremamente segura para quem a faz.
-
-Originalmente, os mundos visível e invisível são as duas faces da mesma realidade. Eles são ignorantes a esse respeito. O mundo invisível é uma extensão do mundo visível. Portanto, aquele que termina sua vida no mundo visível com saúde e felicidade, vai diretamente para o paraíso. Mas aquele que morre sofrendo de doença, esse sofrimento continua, e ele, naturalmente, vai para o inferno. Há muitas pessoas que, mesmo sofrendo de doença ou outro infortúnio, acreditam nas palavras de um capelão e confiam que serão salvas no céu. São verdadeiramente dignas de pena. As teorias proferidas dogmaticamente por religiosos que desconhecem a realidade dos três mundos — visível, invisível e divino — são extremamente perigosas, e seu pecado não é leve.
-
-Ademais, embora Shaka, Cristo e Nitiren tenham revelado claramente a verdade sobre o céu, o paraíso e o inferno, os monges e pastores dos últimos dias a negam, cometendo um grande pecado de deslealdade para com seus fundadores.
-
-### Religiões de Nível Inferior
-
-Como mencionei no item anterior, os benefícios imediatos em si não caracterizam necessariamente uma religião de nível inferior. No entanto, religiões de nível inferior de fato existem, e seus efeitos venenosos são terríveis, a ponto de eu desejar a intervenção das autoridades.
-
-São aquelas que, como os médiuns de Inari ou os usuários de Izuna, praticam a incorporação divina por meio de orações e outros métodos. Observando seus métodos, sob o pretexto de incorporação divina, eles agitam as mãos vigorosamente, reviram os olhos, e sua aparência bizarra é tal que não parece ser de alguém em sã consciência. No entanto, eles se alegram imensamente com o aparecimento desse estado estranho, chamando-o de incorporação divina. Nesse momento, usando o nome de uma divindade de alto escalão, como "Fulano de Tal" ou "Deus Ciclano", eles fingem ser um espírito divino superior, adotando uma atitude deliberadamente intimidadora e proferindo várias palavras enganosas de forma autoritária para as pessoas ao redor.
-
-As pessoas ignorantes reunidas ao redor, acreditando ser um deus verdadeiro, prostram-se repetidamente e derramam lágrimas de alegria com suas revelações. Mas, curiosamente, as previsões dessas incorporações às vezes se cumprem, mas muitas vezes falham. Se analisadas com uma mente calma e bom senso, a fraude seria imediatamente descoberta. No entanto, as pessoas enganadas valorizam apenas os acertos e fecham os olhos para os erros, caindo em um tipo de psicologia anormal. Aqueles que se dizem ser "Deus tal" nessas incorporações são, sem exceção, espíritos de raposas e texugos, o que é alarmante.
-
-A verdadeira possessão divina não difere em nada do estado normal; não há agitação das mãos nem atitudes estranhas. É quase impossível distinguir se um deus se manifestou ou não. Além disso, as palavras proferidas não se desviam em nada do bom senso, sendo sempre calmas, humildes e discretas. Portanto, pode-se ter certeza de que aparências estranhas e atitudes e palavras diferentes das de uma pessoa comum são todas manifestações de espíritos de raposas e texugos enganando e iludindo os seres humanos tolos.
-
-Esse tipo de possessão espiritual é comum em mulheres. Uma vez que são invadidas por esses espíritos, elas se iludem, acreditando ter alcançado um status divino elevado. As mulheres, em particular, abandonam o lar, se rebelam contra o marido, negligenciam os próprios filhos e, agindo como se fossem deuses, olham para os outros com desprezo, tornando-se incontroláveis. Se parasse em um certo ponto, seria bom, mas, se avançar, evolui para um estado de pura loucura.
-
-Esse tipo de fé é bastante comum na sociedade, e seu efeito corruptor sobre as pessoas não pode ser subestimado. Isso, sim, pode ser chamado de religião de nível inferior, sem erro.
-
-Outro tipo é a fé que venera raposas, tengus e outros seres semelhantes. É uma fé focada unicamente em benefícios, onde o objetivo é apenas o próprio lucro. As pessoas rezam por prosperidade nos negócios, para ganhar na bolsa de valores, para acertar na loteria de cavalos, ou, no caso de mulheres do mundo do entretenimento, para encontrar um patrono ou um amante. Não é uma fé baseada em uma vontade altruísta de melhorar a sociedade ou salvar os outros. Isso também pode ser considerado uma religião de nível inferior.
-
-### A Conversão da Classe Dominante
-
-O mal social e o infortúnio são todos resultados, como mencionei na seção sobre a salvação paliativa. É o mesmo princípio pelo qual a água de um rio se torna turva porque sua nascente está turva. Portanto, a corrupção da sociedade não pode ser corrigida, mesmo que se espere cem anos, a menos que a classe alta, que deveria ser a líder de toda a sociedade, se purifique.
-
-Ministros sendo presos, escândalos intermináveis nas assembleias municipais e provinciais, corrupção de educadores, depravação de religiosos... a lista é infinita. Nesse ritmo, por mais que as organizações de edificação moral se esforcem e as religiões estabelecidas atuem, é natural que não haja resultados. Criar as causas do mal social e depois se esforçar para erradicá-lo é como um pai que, enquanto tem amantes e se envolve com mulheres, prega ética e moral para o filho.
-
-É preciso ser mais sério, mais sincero. Se o governo quer salvar as finanças em tempos de emergência, deveria, em primeiro lugar, dar o exemplo, doando uma parte de seus próprios salários à nação. Os ricos poderiam tornar públicos seus lucros e doar cerca de metade como fundos de defesa nacional. As empresas com dividendos acima de cinco por cento poderiam oferecer uma parte para cobrir o déficit do Estado. A reforma eleitoral também é louvável, mas recorrer apressadamente a sacerdotes xintoístas para apoiar o movimento é um improviso de última hora.
-
-Em vez disso, o Gabinete deveria, habitualmente, consagrar o espírito de Deus Amaterasu Omikami, realizar cerimônias de adoração antes e depois das reuniões e recitar respeitosamente as preces. Indo além, todos os órgãos governamentais, escolas, empresas e fábricas deveriam consagrar o espírito do Deus Ancestral e fazer com que as preces fossem recitadas antes e depois do trabalho. Quão purificada a sociedade se tornaria! Sem a necessidade de campanhas de reforma eleitoral, as eleições seriam conduzidas de forma justa, sem a menor dúvida.
-
-Portanto, a condição fundamental para eliminar o infortúnio e o crime da sociedade é a conversão da classe dominante. Afirmo que, fora da conversão, não há outro método.
-
-### O Lar da Felicidade
-
-A imagem sagrada de Kanzeon concedida por nossa associação pode ser considerada como sendo escrita pelo próprio Bodhisattva Kanzeon. Portanto, ao ser consagrada, a imagem irradia luz. Várias pessoas da família certamente verão essa luz. A cor da luz pode ser como platina, dourada ou violeta, e a surpresa daqueles que a veem pela primeira vez é imensa.
-
-A existência de infortúnio e doentes em uma família se deve à escuridão no mundo espiritual dessa casa. É na escuridão que os espíritos malignos mais se agitam. A escuridão no mundo espiritual significa que há nuvens. E a existência de nuvens significa que os pecados e impurezas dos antepassados se acumularam naquela família. Costuma-se dizer que uma casa é "sombria", e isso é percebido pela intuição espiritual humana.
-
-As nuvens da família se dissipam pela luz irradiada da imagem sagrada. Dia a dia, a escuridão se desfaz e a claridade aumenta. Assim, as coisas que antes eram infelizes ou não corriam como o desejado, misteriosamente se invertem. Isso ocorre porque os demônios, temendo a luz, fogem. A maravilha de não haver mais doentes após seis meses de consagração é algo que só quem experimenta pode acreditar. Pode-se dizer que nunca antes houve uma religião que concedesse um poder tão grande.
-
-As religiões até hoje foram muito caras, exigiram sacrifícios demais. A eliminação dos pecados e obstáculos consumia tempo e dinheiro em excesso. Na nossa fé em Kannon, com pouco tempo e pouco dinheiro, recebemos uma virtude divina imensa. É algo verdadeiramente surpreendente. Portanto, consagre-a imediatamente. Com isso, tudo se resolverá.
-
-A propósito, este mundo é composto por três níveis: o mundo material, o mundo do ar e o mundo espiritual. Os "três mundos" ou "três mil mundos" se referem a isso.
-
-### A Causa das Doenças e sua Solução
-
-O ser humano que vive hoje não é uma existência isolada, mas uma continuação de seus antepassados. Em outras palavras, cada indivíduo é a síntese de inúmeros antepassados. Inúmeras linhas espirituais dos antepassados estão conectadas ao espírito de cada um. Pode-se imaginar a forma dos fios de uma lanterna de papel para entender.
-
-Portanto, os diversos pecados e impurezas carregados pelos antepassados, através da purificação regida pela lei celestial no mundo espiritual, fazem com que seus resíduos, as toxinas espirituais, fluam constantemente para o espírito dos descendentes. Essa é a causa que turva o espírito humano. Quando essa turvação ultrapassa um certo nível, ela se manifesta no corpo físico como doença.
-
-A medicina ocidental tenta curar a doença que se manifestou no corpo com medicamentos e equipamentos. No entanto, mesmo que se obtenha a cura, enquanto a turvação do espírito não for dissipada, é natural que a doença retorne ao corpo. Isso, assim como as obras sociais, é um método paliativo que trata apenas o resultado e ignora a causa. É apenas uma solução temporária.
-
-A luz de Kannon é uma luz dezenas de vezes mais valiosa que o rádio. Quando o espírito a recebe, a turvação se dissipa. Se a turvação do espírito desaparece, a doença do corpo certamente se cura.
-
-Kannon é o Salvador. É Aquele que perdoa os pecados. Dissipar a turvação do espírito causada pelos pecados e impurezas dos antepassados significa perdoar esses pecados e impurezas. Este é o método fundamental de cura da doença, por isso não há receio de reincidência. Pelo contrário, a saúde melhora cada vez mais, o que não é nada estranho.
-
-A purificação da turvação do espírito significa, retroativamente, o perdão dos pecados dos antepassados. Assim, os espíritos dos antepassados que sofriam no inferno são elevados e salvos no céu. A virtude dessa fé é de uma magnitude imensurável.
-
-### Religião e Ciência
-
-Até hoje, religião e ciência estiveram em posições completamente opostas, mas isso estava errado. Em um futuro próximo, religião e ciência estão destinadas a se unir e se fundir. Isso porque o avanço da ciência acabará por levar ao reconhecimento da existência de Deus.
-
-A esse respeito, não podemos ignorar duas descobertas notáveis recentes. Uma é a investigação ilimitada dos elementos materiais. A descoberta havia chegado ao ponto em que um único pósitron no centro, com oito elétrons girando ao redor, formava uma célula elementar. Recentemente, com o desenvolvimento do microscópio, atingiu-se uma escala de três centésimos de milionésimo de milímetro. Isso levou à descoberta do nêutron, ainda menor que o elétron, e a descoberta do próton tornou-se uma questão de tempo.
-
-A outra é o avanço do cinema sonoro. Nele, os átomos do som, em várias formas e cores, dançam e são projetados na tela em número incontável. Há formas de girino, de bastão, circulares, de anel, e não apenas isso, mas cada uma tem cores como amarelo, violeta, vermelho, azul, e sua própria luz. E, de acordo com a mudança do ritmo da música, elas executam vários movimentos. É algo verdadeiramente surpreendente.
-
-O espírito divino é luz e calor. Portanto, a comprovação científica da luz de Deus está a um passo de distância. Quando a ciência conseguir provar a existência do espírito humano, da turvação como causa da doença e da atividade da luz de Deus que a cura, então, pela primeira vez, religião e ciência se unirão para criar um conhecimento completo. E sua verdadeira missão será dar uma nova luz à humanidade.
-
-Editado pela Dai Nippon Kannon Kai, publicado em 15 de setembro de 1936, formato 12,7 x 18,8 cm, 94 páginas, preço 10 sen.
 
 ---
 

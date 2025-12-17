@@ -3,7 +3,7 @@
 # kiseki
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Com a devida vênia e o mais profundo respeito, apresento a tradução do sagrado texto, buscando ser fiel não apenas à letra, mas, sobretudo, ao espírito e à luz contidos nas palavras de Meishu-Sama.
 

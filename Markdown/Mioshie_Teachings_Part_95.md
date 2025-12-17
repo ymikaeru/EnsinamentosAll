@@ -3,7 +3,7 @@
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
 
 ## Publicações Relacionadas
 ## A Messhiya-kyō Odiada pelo Mundo
@@ -639,7 +639,7 @@ E, quando lidam com nós, religiosos, eles não nos tratam apenas como pessoas c
 # Crônica das Flores
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Shinko Zatsuwa
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Crônica das Flores
 
@@ -970,7 +970,7 @@ A lua havia surgido. Fiquei a contemplar, por um longo tempo, os botões da cere
 # kouwa1
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Publicações Relacionadas — A partir da Coletânea de Ensaios do Mestre Okada Jikan
 
@@ -1096,7 +1096,7 @@ Acesso Direto ao Texto por Categoria
 # Nove. Orientações ao substituir a Imagem Sagrada
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 7号, 1号, 21号, 30号 | **Data ISO:** 1949
 
 ## Nove. Orientações ao substituir a Imagem Sagrada
 
@@ -1683,7 +1683,7 @@ Distribuir as oferendas aos membros é um gesto excelente. Contudo, não se deve
 # Publicações Correlatas — Mestre Nakasima Issei: Sua Fé e Sua Vida
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Correlatas — Mestre Nakasima Issei: Sua Fé e Sua Vida
 

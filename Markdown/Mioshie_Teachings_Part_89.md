@@ -1,9 +1,388 @@
 # Mioshie_Teachings - Part 89
 
+# Coletânea de Teses do Mestre Okada Jikan — Registro das Sagradas Orientações, nº 25 (Publicado em 15 de outubro de 1953) — Vigésimo Quinto Número (Vigésimo Oitavo Ano da Era Showa) [Primeiro de outubro]
+
+**Categoria:** gosuiji | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Gosuiiji録
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-10-15
+
+## Coletânea de Teses do Mestre Okada Jikan — Registro das Sagradas Orientações, nº 25 (Publicado em 15 de outubro de 1953) — Vigésimo Quinto Número (Vigésimo Oitavo Ano da Era Showa) [Primeiro de outubro]
+
+Hoje não preparei nenhum sermão em particular, portanto, procederemos diretamente às perguntas.
+
+“A respeito do recente problema com o chefe da filial Aoyagi, da Igreja Aiwa-Naka, apresento minhas mais profundas desculpas. Os jornais noticiaram que ele teria dito ‘vou matá-lo’, mas, segundo o próprio, seu sentimento era de que, mesmo vivo, sentia-se solitário e por isso desejava morrer.”
+
+Quando essa pessoa se tornou fiel?
+
+“Há cerca de cinco anos.”
+
+Sendo assim, há algo de estranho. Deve haver algum motivo oculto, pois não é algo que devesse ocorrer.
+
+“Ele havia perdido quatro de seus seis filhos. Após essa tragédia, vivia com a esposa e os dois filhos restantes quando o procurei para difundir a fé. Sua filha mais velha, que sofria de tuberculose, obteve a melhora, e esse foi o motivo que o levou a ingressar na fé, dedicando-se até hoje como chefe de filial. Contudo, essa mesma filha veio a falecer. O outro filho faleceu em julho do ano passado, e sua esposa, em março deste ano, sucumbiu à asma. A partir daí, embora eles se considerassem possuidores de uma fé profunda, algo parece ter se desvirtuado. Ele era, originalmente, um trabalhador braçal, e sua casa tinha ares de um local de jogatina. Desde que começou a servir na Obra Divina, tornou-se um dos membros mais destacados da minha jurisdição, e eu o tinha em alta estima. Sua natureza é, em geral, taciturna, mas suspeito que sua antiga enfermidade possa ter ressurgido.”
+
+O que quer dizer com isso?
+
+“Ele era uma pessoa de temperamento explosivo e envolvia-se em brigas.”
+
+Quantas pessoas faleceram após ele ingressar na fé?
+
+“Três pessoas.”
+
+E antes de ingressar na fé?
+
+“Quatro pessoas.”
+
+Ele formou novos fiéis após se tornar membro?
+
+“Depois que se tornou chefe de filial, formou um número considerável.”
+
+E antes de se tornar chefe de filial?
+
+“Creio que tenha encaminhado mais de cinquenta pessoas.”
+
+Mesmo assim, a situação é anômala. Se tais infortúnios ocorressem antes de ele abraçar a fé, seria compreensível; todavia, que se acumulem dessa maneira após seu ingresso é algo que não consigo entender. Quando o senhor ingressou na fé?
+
+“No décimo oitavo ano da Era Showa.”
+
+Por intermédio de quem?
+
+“Do reverendo Shibui.”
+
+O senhor reside há muito tempo nessa localidade?
+
+“Em mil novecentos e quarenta e três, evacuei para lá, mas mantive minhas atividades em Tóquio, permanecendo na região por cerca de dois anos.”
+
+Gostaria de me encontrar com essa pessoa. Ele está aqui hoje?
+
+“Não está presente.”
+
+Ele não vem pelo menos uma vez por mês?
+
+“Não tem vindo.”
+
+Por qual motivo?
+
+“Imagino que seja por diversas conveniências pessoais.”
+
+Ainda que se trate de conveniências, é inadmissível que um chefe de filial não compareça sequer uma vez ao mês. Desde quando ele não vem?
+
+“Há uns quatro ou cinco meses.”
+
+Nesse caso, não há o que fazer. A fé dele se turvou. Assim, encontrá-lo seria inútil.
+
+“Procedi com o cancelamento de sua qualificação e o fechamento da filial.”
+
+Pessoas assim são aquelas que, ao se depararem com as provações de Deus, acabam por fracassar. É imprescindível ser alguém capaz de suportar e perseverar firmemente diante de qualquer adversidade. Tentar cometer um ato extravagante em um momento de aflição como esse é prova de uma fraqueza de vontade absoluta. Isso revela que, desde o princípio, sua fé não era genuína. Essa pessoa já não pode ser salva. É mais sensato deixá-la em paz e voltar sua atenção aos demais. O senhor não precisa se afligir tentando recuperá-la. Aquele cujo fio foi cortado por Deus, por mais que o homem se esforce, nada poderá fazer. Deus está se tornando cada vez mais rigoroso; portanto, tentar salvar alguém de quem Ele já se desligou é um esforço vão. É mais proveitoso concentrar suas energias em novas pessoas promissoras.
+
+“Perdoe-me a demora em informar, mas estou cogitando solicitar a permissão para abrir uma filial sob a responsabilidade de uma pessoa muito dedicada que reside a cerca de quatro quilômetros de distância.”
+
+Isso é excelente.
+
+“Recebemos o Ensinamento de que é o Espírito Guardião Primordial quem cura as doenças. Gostaria de saber se é também o Espírito Guardião Primordial quem gera a purificação e se esta ocorre em uma ordem decrescente, começando por aquele que possui dez pecados e máculas, depois nove, e assim por diante, ou se independe dos pecados e máculas, ocorrendo de acordo com a individualidade de cada um…”
+
+Quando o senhor ingressou na fé?
+
+“No vigésimo quarto ano da Era Showa.”
+
+E ainda não compreende? Sua linha de raciocínio está completamente equivocada. O senhor tem lido as Escrituras Sagradas?
+
+“Sim, tenho feito a leitura reverente.”
+
+Está escrito que a doença é o processo de purificação das toxinas medicinais, não está? Isso basta.
+
+“Mas recentemente…”
+
+Não há “recentemente” nem nada. A doença é um processo de purificação, uma limpeza. É só isso.
+
+“Na última audiência especial, foi dito que a doença é um processo de purificação e que, ao mesmo tempo, é o Espírito Guardião Primordial quem a cura.”
+
+O espírito guardião pode, de fato, auxiliar. Em casos de natureza espiritual, por exemplo, ele atua de diversas formas para expulsar o espírito obsessor. Contudo, a causa fundamental não é essa. A possessão por tais espíritos malignos ocorre porque há máculas, e essas máculas são as toxinas dos medicamentos. Portanto, em última análise, a raiz de tudo são as toxinas medicinais. Assim, toda doença provém do veneno dos remédios.
+
+“Considero que a verdade reside no fato de que o dinheiro necessário a Deus para a salvação da humanidade deve ser gerado pela própria humanidade e ofertado a Ele para Sua utilização. Realizar isso seria a materialização da verdade.”
+
+Isso está correto.
+
+“Meishu-Sama afirmou, a respeito do dinheiro necessário, que ‘não mede esforços para ganhar dinheiro’.”
+
+Eu não tenho conhecimento de ter dito tal coisa.
+
+“O senhor o disse durante uma cerimônia em Saginomiya.”
+
+Não me recordo. Não sou um empresário; minha missão é salvar a humanidade. Falar em “ganhar dinheiro” é inadequado. Soaria como uma empresa com fins lucrativos. Do contrário, a Sekaikyuseikyou se tornaria uma sociedade anônima.
+
+“Meishu-Sama está envolvido com a Mina de Minakami, o que, a meu ver, tem o objetivo de gerar receita.”
+
+Exato.
+
+“Portanto, creio que Meishu-Sama está, Ele próprio, engajado em ganhar dinheiro.”
+
+A Mina de Minakami, sim, destina-se a gerar receita. Contudo, não estou engajado em obter lucro de forma generalizada. Analisar a questão de maneira ampla leva a equívocos. Sua afirmação se torna estranha por ser vaga. Se tivesse mencionado a Mina de Minakami desde o início, não haveria problema algum.
+
+“Peço desculpas. O fato de o senhor mesmo se dedicar a ganhar dinheiro…”
+
+Não sou eu mesmo. Deleguei a responsabilidade a outras pessoas.
+
+“Reformulo minhas palavras. Considero uma grande honra que o senhor utilize seres humanos para gerar receita.”
+
+Pode pensar assim, se desejar.
+
+“Sendo assim, a falta de recursos financeiros na Obra Divina…”
+
+Não há falta. Deus providencia exatamente o necessário.
+
+“Atualmente, com relação ao Salão da Sede Geral, ouvi dizer que, na época de Saginomiya, a previsão era de que ficasse pronto muito antes. O fato de a construção estar atrasada, na prática, me leva a crer que a causa seja a falta de recursos.”
+
+Não é apenas isso. Ademais, a falta de recursos é algo que Deus permite, pois o objetivo é adiar a conclusão; logo, não há o que fazer. Minha intenção era que fosse mais rápido, mas Deus determinou o adiamento, e assim está bom. Nas Escrituras da Oomoto-kyo, está dito: “Atrasar ou adiantar, tudo depende da conveniência de Deus”. Para Deus, todos os prazos já estão definidos. Portanto, o momento da conclusão do Salão também já está determinado. Contudo, como Deus realiza Sua obra enquanto luta contra os espíritos malignos, ocorrem adiantamentos e atrasos. No final, porém, tudo se ajusta para ser concluído no momento exato. O Plano Divino de Deus funciona dessa maneira. Sua pergunta nasce de um pensamento excessivamente humano. Por isso, há momentos em que até eu mesmo sinto vontade de questionar a Deus por que Ele demora tanto. Para os seres humanos, adiantamentos e atrasos são constantes. Por essa razão, nem sempre há uma sincronia perfeita com o tempo de Deus. Afinal, por se tratar de uma batalha contra os espíritos malignos, é um jogo de aparências e realidades, o que gera avanços e recuos.
+
+“Creio que o dever do ser humano é oferecer o dinheiro de que Deus necessita para que Ele o utilize.”
+
+Exato.
+
+“Nós, que servimos em nossa Organização Religiosa, acreditamos que pensar em ganhar muito dinheiro e colocar isso em prática é a manifestação da Verdade, do Bem e do Belo.”
+
+Isso é excelente.
+
+“E, ao observar a Organização, vejo que há inúmeras oportunidades para gerar receita.”
+
+Isso não se restringe à Organização; o mundo está repleto de oportunidades.
+
+“Sendo assim, eu, que sirvo na Organização…”
+
+A expressão “servir na Organização” está equivocada. O correto é “prestar serviço voluntário”. O termo que usou é empregado por funcionários públicos ou de empresas.
+
+“Eu, que tenho a permissão de servir, gostaria de saber se seria um ato de visão limitada aconselhar os dirigentes da Organização sobre como gerar receita com base em tais oportunidades. E, neste caso, qual seria a maneira de atuar segundo o princípio de Izunome (伊都能売)?”
+
+O senhor deve permanecer alheio a isso. O que quer que os dirigentes da Organização façam, Deus cuidará de tudo adequadamente, portanto, é uma preocupação desnecessária. Se assim não fosse, Deus pareceria desprovido de iniciativa. Mesmo que o senhor permaneça em silêncio, Deus conduzirá tudo da melhor forma. Em vez disso, sua missão é formar o maior número possível de fiéis. Ao se propor a aconselhar os dirigentes, o senhor está se colocando em uma posição de grande importância. Não há necessidade alguma de ponderar sobre tais assuntos. Sua função é a de chefe de filial; portanto, basta que se dedique a formar cada vez mais fiéis e a promover o desenvolvimento de sua área. Afinal, a intenção de advertir alguém surge porque se percebe uma falha ou porque se julga que o pensamento do outro difere do seu, não é mesmo?
+
+“Não se trata de uma advertência. Meu pensamento é que, por exemplo, se eu trabalhasse em uma empresa, e o presidente ou os diretores…”
+
+Aqui não é uma empresa, é uma Organização Religiosa. Não se pode pensar de forma empresarial.
+
+“Foi por ter pensado dessa forma que me manifestei.”
+
+Ocorre que é Deus quem está no comando. Portanto, os dirigentes são supervisionados por Deus. Pode parecer que eles estejam cometendo erros — e há momentos em que eu mesmo me pergunto por que agem de determinada maneira —, mas não há o que fazer. Como é Deus quem os dirige, eu apenas confio que Ele resolverá a questão e não interfiro.
+
+“Como também estou a serviço, posso considerar que é Deus quem está no comando?”
+
+Exato. A atitude correta é entregar tudo nas mãos de Deus, como escrevi extensamente em meus livros. Será que o senhor não está lendo as Escrituras Sagradas?
+
+“Não consigo discernir a diferença entre entregar a Deus e me esforçar de acordo com meu tempo, lugar e posição no serviço que presto.”
+
+É por isso mesmo. Deve-se esforçar entregando tudo a Deus. O senhor está separando as duas coisas, e aí reside o erro. Como diz o ditado, “faça tudo o que estiver ao seu alcance e espere a Vontade do Céu”. Esforce-se confiando em Deus, e assim estará correto.
+
+A pergunta que acabou de fazer é excelente. É possível que outras pessoas nutram o mesmo pensamento, portanto, é muito importante que questionem abertamente sobre tais assuntos para que possam trabalhar com uma compreensão verdadeiramente profunda.
+
+“Devido ao tufão número 13, a fotografia de Meishu-Sama aderiu ao vidro e não se solta. O fotógrafo disse que, se forçarmos, a imagem poderá ser danificada. Como esta fotografia é antiga, gostaríamos de, nesta ocasião, fazer um pedido especial para que nos seja concedida a permissão de receber uma nova.”
+
+Evidentemente, é melhor ter uma nova.
+
+“Outros fiéis ainda possuem a fotografia antiga. Seria o caso de trocá-la?”
+
+Se não houver nenhum dano, não há necessidade.
+
+“Além disso, algumas fotografias ficam avermelhadas, talvez por uma lavagem inadequada. O que devemos fazer nesses casos?”
+
+Preciso ver para avaliar. Traga também essa que está presa ao vidro.
+
+“O chefe da filial de Onsen, Tanabe (29 anos), por quem enviamos um telegrama de agradecimento no dia 28, retornou ao Mundo Espiritual no dia 24. Agradecemos imensamente. Ele vinha recebendo purificação no peito e no abdômen. O fato de uma família de quatro pessoas ter sido extinta nos faz refletir sobre a grande quantidade de pecados.”
+
+Mas ele ainda era um jovem, não? Foi uma repurificação de tuberculose? Certamente houve algum equívoco em algum ponto. As purificações estão se tornando progressivamente mais intensas.
+
+Com frequência, recebo telegramas de agradecimento pela Proteção Divina que, por serem telegramas, descrevem de forma sucinta os sintomas: febre alta, diarreia, dores em determinado local. São sintomas que, aparentemente, deveriam ser curados com facilidade. Contudo, tenho a impressão de que o Johrei não está sendo tão eficaz quanto deveria. Acredito que, no fim das contas, a causa seja a aplicação de força. Ou seja, quando o Johrei não parece surtir o efeito desejado, é certo que se está aplicando força. Se conseguirem eliminá-la ao máximo, a cura se tornará muito mais efetiva. Afinal, a Luz Divina emana do Ohikari e sai pela palma da mão. Se houver o mínimo de força, essa luz é obstruída. O esforço humano acaba por obstruir, ou melhor, atenuar a Luz Divina. É fundamental que percebam isso. Portanto, a atitude de ministrar Johrei “com afinco” é inadequada. Como já disse antes, não se deve ministrar Johrei com afinco; pelo contrário, uma atitude relaxada produz resultados muito superiores. Assim, quando os resultados não são os esperados — embora isso dependa da expectativa de cada um —, a principal razão é, sem dúvida, a aplicação de força. O ideal é ministrar Johrei com um estado de espírito tão leve que se sinta vontade de cantarolar. Por outro lado, ao orar a Deus, pode-se fazê-lo com toda a intensidade possível. Isso não há problema. Contudo, no momento de ministrar Johrei, não é você quem cura, mas sim Deus. Você é apenas um instrumento. Basta manter essa consciência. Comigo acontece o mesmo. Se aplico a mínima força, a cura se torna mais lenta. A força a que me refiro é a força física, que obviamente emana também do braço, atenuando a Luz. Por isso, é comum ouvir em relatos de graças que “ministrei Johrei com todo o meu empenho e…”, mas essa atitude não é a mais correta. Dito isso, é preciso permitir que o espírito flua sem aplicar força, e aí reside a dificuldade. Tentar fazer o espírito fluir acaba gerando força. O desafio, que é em si um treinamento, está em conseguir canalizar o espírito sem o uso da força.
+
+“Na minha propriedade, havia duas árvores bastante antigas e um bambuzal. Para organizá-los, meu filho trabalhou no local nos dias 19 e 20 do mês passado. No dia 21, realizamos uma cerimônia religiosa e, desde então, todas as noites, por volta das oito ou nove horas, ele sente uma dor do tamanho de uma moeda de dez ienes na altura da quarta ou quinta vértebra. Ao tocar, não há sensação alguma. O Johrei parece ser mais eficaz quando ministrado da cabeça para a cintura e no local da dor, proporcionando um alívio mais rápido. Contudo, há momentos em que sua respiração parece parar por cerca de uma hora. No passado, quando eu estava cavando um poço, senti dor no mesmo local, e foi esse o motivo que me levou a ingressar na fé.”
+
+Ele tem febre?
+
+“Não tem.”
+
+É de natureza espiritual. Está relacionado à limpeza que fizeram. Um espírito se apossou dele. Ele tem lido as Escrituras Sagradas?
+
+“Lê constantemente.”
+
+Que ele leia intensamente as Escrituras Sagradas. Isso o curará. Esse espírito é um Deus Dragão. Aparentemente, ele deseja ouvir sobre os Ensinamentos de Deus. Ele quer que as Escrituras Sagradas sejam lidas para ele. Portanto, a melhor solução é a leitura. Quando atingir um certo ponto, ele melhorará.
+
+Atualmente, no Mundo Espiritual, há uma infinidade de espíritos ansiosos por conhecer a Sekaikyuseikyou. Por isso, ler as Escrituras Sagradas para eles é a melhor forma de auxílio. E, ao ler, é preferível que se faça em voz alta, mesmo que baixa. Quando não há nenhuma anormalidade, isso não é necessário, mas se você ou um familiar não estiver se sentindo bem, pode ser que um espírito desejoso de conhecer a fé esteja se manifestando. Nesses casos, é melhor ler em voz alta.
+
+“Com o tufão número 13, devido à maré alta, eu recebi a Proteção Divina, mas da Imagem de Komyo Nyorai só restou a parte superior da moldura, e o Biombo de Kannon (観音) desapareceu. Apresento minhas mais sinceras desculpas.”
+
+Isso pode ser interpretado como um ato de substituição, em que os objetos sagrados receberam o infortúnio em seu lugar.
+
+“Talvez riam da minha pergunta, mas gostaria de saber sobre as cores. Li em um jornal um artigo que dizia: ‘Ao pedir para crianças de jardim de infância desenharem, aquelas que preferem o roxo não estão bem de saúde. As que pintam a região do peito de roxo frequentemente têm doenças torácicas’. Por experiência própria, sinto que o roxo é uma cor suave. Conheci um pintor que gostava muito dessa cor, mas morreu jovem. Pergunto-me se há algo de espiritual nisso.”
+
+Essa é uma teoria nova.
+
+“Contudo, o artista Hiroshi Yoshida, a quem Meishu-Sama recomenda, embora não tanto em suas xilogravuras, parece usar o roxo com frequência em suas pinturas a óleo.”
+
+No caso da pintura a óleo, a relação é outra. Ele pertence à chamada Escola Púrpura, sendo tratado como uma existência particular dentro do meio artístico. Um pintor que usa muito o roxo ou pertence a essa escola ou foi influenciado por ela. A cor do ar é o roxo. Por isso, ao observar atentamente um local onde o ar é denso, ele aparenta ser roxo. Crianças debilitadas possuem uma sensibilidade aguçada, ou seja, seus nervos são mais aflorados, e por isso, devido a essa percepção aguçada, elas sentem o roxo do ar.
+
+“O senhor tem dito que os pintores recentes são frágeis e que há poucas obras saudáveis. Não sei se Yoshida era saudável, mas gostaria de entender por que Meishu-Sama o aprecia tanto.”
+
+Porque ele é talentoso. Sua especialidade é a xilogravura, mas, de qualquer forma, ele pinta muito bem. O fato de transformar suas pinturas em xilogravuras, tornando-as acessíveis a todos, faz dele uma pessoa de grande valor. Foi por isso que, na exposição de Ukiyo-e, dediquei uma vitrine inteira somente a ele. Ele é extremamente habilidoso; não há ninguém como ele hoje em dia. E o mundo, especialmente o estrangeiro, passou a reconhecer enormemente a nova xilogravura moderna. Por isso, as obras de Yoshida são caras e vendem muito bem. Dizem que, atualmente, entre as xilogravuras modernas, as dele são as mais apreciadas pelos estrangeiros. Nos Estados Unidos, por exemplo, suas obras atingem valores muito altos. Embora sejam paisagens, há nelas uma grande maestria. Eu mesmo consigo apreciar apenas as obras dele.
+
+“Então, as cores também possuem uma hierarquia?”
+
+Sim, elas possuem uma ordem de importância.
+
+“Qual seria a ordem de hierarquia entre o branco e o roxo?”
+
+O roxo é a cor da conclusão, a cor final. Ela dá um desfecho às coisas. Antigamente, o cordão usado para amarrar caixas de tesouro era roxo. Quanto às vestes divinas, a mais elevada é a branca, seguida pela amarela e pela roxa. O amarelo representa a cor do ouro. O roxo, por sua vez, é a cor complementar ao ouro, seu reverso. As cores têm um anverso e um reverso. Por isso, o amarelo e o roxo formam um par reverso, e sua combinação é extremamente harmoniosa. No futuro, criarei trajes para as cerimônias, e eles serão brancos com ornamentos em dourado. Essa é a melhor combinação. A ordem é branco, amarelo, roxo, e as demais cores estão em um nível muito inferior. Até mesmo sobre as nuvens se diz “nuvens púrpuras se estendem”, referindo-se a um bom presságio, ao contrário de “nuvens negras se agitam”. O ouro simboliza a cor do sol. A cor da lua, por sua vez, é o roxo. Significa que o Sol é o anverso, e a Lua, o reverso.
+
+“Os postos de amuletos dos templos de Kannon (観音) parecem usar a cor roxa.”
+
+Exato.
+
+“No artigo ‘As Grandes e Pequenas Três Calamidades’, consta a frase ‘maculando o Mundo do Verbo, que é o plano seguinte ao Mundo do Pensamento’. Qual o significado de ‘plano seguinte’?”
+
+Significa o plano que vem depois.
+
+“A ordem seria: algo surge primeiro no Mundo do Pensamento, depois é expresso no Mundo do Verbo e, por fim, manifesta-se no Mundo Fenomênico?”
+
+Exato.
+
+“No capítulo ‘A Criação da Civilização’, na seção sobre cirurgia, está escrito: ‘a função do apêndice cego está na parte posterior do corpo’.”
+
+A expressão “parte posterior” não é precisa. Se dissesse “os rins, na parte posterior”, estaria correto.
+
+“No artigo ‘Salvar os Estados Unidos’, está escrito ‘toxinas da parte inferior do corpo’.”
+
+Exato. A sequência é: as toxinas da parte inferior do corpo se acumulam na região dos rins, na parte posterior, e de lá se manifestam no apêndice.
+
+“Meu irmão mais velho recebeu o Goshintai, mas, como a moldura ainda não está pronta, não pôde entronizá-lo. Enquanto isso, o irmão mais novo abriu um posto de difusão. Se, por algum motivo, o responsável pelo posto mudar, o Goshintai pode permanecer o mesmo?”
+
+E o seu irmão mais velho, como está?
+
+“Devido a circunstâncias familiares, não pode entronizá-lo.”
+
+E por isso o Goshintai foi para o posto de difusão? Seu irmão é chefe de filial?
+
+“É um fiel comum.”
+
+Ele continua na fé?
+
+“Continua.”
+
+Se seu irmão continua na fé, não há problema.
+
+“E se meu irmão receber a permissão para entronizá-lo?”
+
+Ele precisará de um novo Goshintai. O do posto de difusão não pode ser movido.
+
+“O Goshintai que está atualmente no posto pode permanecer lá?”
+
+Sim. Além disso, o tratamento que se dá à minha fotografia e ao Goshintai é distinto. E qual a diferença? É que a fotografia está em um nível superior, portanto, com ela não pode haver a menor flexibilidade. Foi por isso que fui tão rigoroso sobre o incidente recente. E é lógico que seja assim: afinal, sou eu quem escreve o Goshintai; portanto, aquele que escreve está acima.
+
+“Gostaria de perguntar sobre os sintomas da febre tifoide e os locais para ministrar Johrei.”
+
+Como soube que se tratava de tifoide? Foi um médico quem disse?
+
+“Como não há menção nas Escrituras Sagradas, pergunto de forma geral…”
+
+A causa da febre tifoide é a perfuração do intestino grosso. Os sintomas são febre alta e dor de cabeça. O intestino em si não apresenta sintomas; não há diarreia ou algo do gênero. Por isso se chama febre tifoide intestinal, mas as pessoas nem entendem por que o intestino estaria afetado. As características da tifoide são a febre alta e a dor de cabeça. Os médicos dizem que a febre e o pulso não são proporcionais — a febre é alta, mas o pulso não acelera tanto —, e essa é a principal característica da doença. Para nós, ao ministrar Johrei, como não podemos usar um microscópio para confirmar, consideramos ser tifoide quando há febre alta, dor de cabeça e, principalmente, quando a febre não cede mesmo após ministrarmos Johrei na cabeça. Se suspeitar de tifoide, mude imediatamente a alimentação para uma dieta líquida. Leite ou canja de arroz são boas opções, desde que não haja alimentos sólidos. E, obviamente, ministre Johrei no abdômen. Basta concentrar-se ao redor do umbigo. Se for tifoide, a cura virá em dois ou três dias. Em casos rápidos, a pessoa já está curada no dia seguinte. Não é nada grave. O que acontece é que as toxinas medicinais se acumulam no intestino, e o que os médicos chamam de bactérias — que na verdade são vermes — se proliferam e corroem o tecido. Isso causa perfurações na parede intestinal. Ao mesmo tempo em que a toxina se torna maligna a ponto de perfurar a parede, a febre a dissolve, permitindo sua eliminação. À medida que a toxina se dissolve, a perfuração se torna mais evidente. Se um alimento sólido encostar ali, causará uma ruptura. A morte por febre tifoide ocorre devido à hemorragia intestinal. Por isso os médicos temem tanto essa complicação. Mas, para nós, como o tecido se regenera rapidamente, não há motivo para temer. Portanto, com Johrei, a febre tifoide é curada sem dificuldade. Como eu disse, comece pela cabeça. Se a febre não ceder como o esperado, considere ser tifoide e ministre Johrei no centro do abdômen, na região do peritônio. Isso deve ser suficiente. Não é preciso saber mais detalhes para que a cura ocorra. A dieta líquida também só é necessária por um ou dois dias. Assim que a febre baixar, pode-se passar para um mingau de arroz. Aliás, mesmo sem alterar a alimentação, a cura virá apenas com o Johrei. A dieta líquida simplesmente acelera o processo.
+
+“Houve um caso em uma família onde apenas a mãe é uma fiel dedicada, e os demais não compreendem a fé. Com purificação de dor abdominal e febre, o diagnóstico foi de febre tifoide. A família recebeu o Papel com a Escrita Divina e…”
+
+A expressão “Papel com a Escrita Divina” não deve ser usada com “também”. Esse “também” denota desprezo. Há um ditado antigo que diz: “Não aceite um chá oferecido com desdém”. Quando alguém diz “tome um chá ‘qualquer’”, é melhor não beber. É comum ouvir “um Goshintai ‘qualquer’” ou “um Papel com a Escrita Divina ‘qualquer’”, mas isso é uma grande falta de respeito.
+
+“A família recebeu o Papel com a Escrita Divina e seguiu as orientações médicas, repousando. No meio da noite, a pessoa teve uma diarreia violenta e, pela manhã, estava completamente restabelecida, comendo arroz e foi à filial para agradecer. Contudo, o médico, embora o exame não mostrasse mais nada, disse que os trâmites já haviam sido iniciados e que ela deveria ir para o hospital de isolamento. Acredito que foi para não admitir que seu diagnóstico estava errado.”
+
+Exato. A vida humana é menos importante que a própria reputação.
+
+“E assim, mesmo não sendo um lugar para onde se vai por vontade própria, ela foi e ficou por cinco dias. Agradecemos imensamente pela Proteção Divina.”
+
+Essa questão da reputação é algo tremendo. Eu mesmo sofri tanto no incidente de Shizuoka por causa da reputação alheia. Fui vítima da necessidade que tinham de manter as aparências, de criar um culpado. Para os funcionários do governo, a reputação é a vida. Para mantê-la, não importa se o país é prejudicado ou se o povo sofre; isso fica em segundo ou terceiro plano. Se os funcionários públicos do Japão se curassem da doença da reputação, o povo viveria com muito mais tranquilidade. O caso que relatou é um exemplo da reputação dos médicos.
+
+“Ontem, visitei a plantação de Agricultura Natural de Gifu, ligada à Igreja Shinko-Naka, e fiquei imensamente grato. Eu mesmo venho tentando há cinco anos, mas os resultados não eram bons…”
+
+Se em cinco anos não obteve bons resultados, é porque seu método está errado.
+
+“Percebi que o preparo do solo e o manejo das mudas estavam muito equivocados.”
+
+De que forma estavam equivocados?
+
+“Descobri que aprofundar a camada de solo arável produz melhores resultados.”
+
+Aprofundar a camada de solo arável não é nenhuma novidade. Durante o governo do primeiro-ministro Konoe, foi emitida uma ordem para todo o Japão para que se aprofundasse o solo.
+
+“Eu estava plantando com um espaçamento muito amplo, de forma muito relaxada.”
+
+Mas isso é uma questão técnica, não um problema fundamental da Agricultura Natural. Um espaçamento muito pequeno prejudica a insolação. Ao aumentar a distância, a luz solar penetra melhor, e os resultados melhoram significativamente. E quanto aos fertilizantes?
+
+“Não utilizei nenhum.”
+
+Desde o início?
+
+“Sim. Acredito que estava usando palha em excesso.”
+
+Aí está o problema. É a superstição dos fertilizantes. É melhor não usar nem mesmo a palha. Ela só deve ser usada em locais frios, para aquecer o solo. De onde o senhor é?
+
+“Da região de Toyohashi.”
+
+Em Toyohashi, a palha é totalmente desnecessária. Seu maior erro foi usar palha. Foi por isso que, no início, eu disse para usar uma ou duas partes de palha. Mas houve quem usasse cinco partes; é uma total falta de inteligência.
+
+“A colheita do terceiro ano foi melhor que a do quinto…”
+
+Isso não é estranho? É ilógico que o terceiro ano seja melhor que o quinto. Certamente o senhor está fazendo algo de errado.
+
+“Acredito que seja o resultado de ter mudado os métodos diversas vezes.”
+
+De qualquer forma, embora eu não tenha sido muito rigoroso sobre isso até agora, o ponto central é melhorar o solo, despertar sua força vital. E como se desperta a força vital do solo? Através do cultivo contínuo. Seja arroz ou soja, não importa; à medida que se planta a mesma cultura ano após ano no mesmo local, o solo desenvolve gradualmente a capacidade de nutri-la. Portanto, ao eliminar os fertilizantes, a quantidade de adubo diminui e a força vital do solo aumenta, tornando natural que a produção cresça exponencialmente a cada ano. Contudo, não é só isso. O clima da região também influencia. Anos com mais chuva ou mais sol também têm um impacto considerável. Portanto, se a colheita deste ano foi pior que a do ano passado, pode ter sido por essa razão. Mas é certo que, em comparação com outras plantações, o impacto negativo desses fatores é menor.
+
+“A falta de bons resultados se deve à estagnação de antigas toxinas de fertilizantes. Creio que um método eficaz seja arar o solo durante o inverno e deixá-lo exposto às intempéries. Assim, a chuva lava o solo, reduzindo as toxinas, e a partir daí a produção aumenta drasticamente.”
+
+Isso é, sem dúvida, um método excelente. Uma ótima referência. Deve ser amplamente incentivado.
+
+“Na minha plantação, revolvi completamente a terra e a deixei exposta. No ano passado, colhi cinco sacas e meia. Neste primeiro ano com o novo método, tenho certeza de que colherei pelo menos dez sacas. Um aumento de 80% já no primeiro ano. Muito obrigado.”
+
+Isso é formidável.
+
+“Agora que foram confeccionados os saquinhos de brocado para o Ohikari, e como os antigos não eram desse material, foi anunciado que eles seriam trocados. Em nossa jurisdição, recebemos um comunicado para que cada filial colete os nomes dos membros e, quando o presidente da Igreja vier, a troca seja feita. Isso significa que, durante esse período, ficaremos sem o Ohikari. Está correto?”
+
+Isso é um equívoco. Continuem usando o Ohikari como sempre e, quando o presidente da Igreja vier, recebam o saquinho de brocado. Não é porque não se tem o saquinho que não se pode usar o Ohikari. Como chegaram a essa conclusão? Esse comunicado veio da Sede?
+
+“A Sede da Sekaikyuseikyou não emite mais tais comunicados.”
+
+De qualquer forma, é inadmissível ficar sem o Ohikari. Deixar de usá-lo por causa do saquinho de brocado é um erro grave.
+
+Podem fazer da seguinte forma: quem tem o Ohikari pode confeccionar seu próprio saquinho de brocado. Não importa se é o presidente da Igreja ou qualquer outra pessoa que o entregue. Não se deve dar tanta importância ao saquinho em si. Afinal, é apenas um tecido, não é mesmo? Não que seja algo ruim, mas pode-se pensar que não é necessário tanto alvoroço. Portanto, vocês mesmos podem fazer o saquinho. É como o Goshintai: o saquinho é a vestimenta de Deus. Como a seda branca anterior era muito simples, a ideia é que Ele use uma vestimenta mais nobre. Não é algo que precise ser padronizado. Aliás, se for um tecido mais nobre que o trazido pelo presidente da Igreja, melhor ainda. O anterior era apenas de seda branca, mais simples que as roupas que os humanos vestem. Até mesmo entre os sacerdotes xintoístas, apenas os de menor escalão vestem branco. Os de hierarquia superior usam trajes com ornamentos.
+
+“A cor de fundo do brocado pode ser qualquer uma?”
+
+Sim. Geralmente, os tecidos de brocado já possuem cores nobres.
+
+“Fiquei um pouco preocupado por causa do Ensinamento sobre as cores que o senhor deu há pouco.”
+
+Não interprete as coisas de forma tão restrita.
+
+“Existem brocados de fio de ouro falso e de fio de ouro legítimo. Qual é o melhor?”
+
+O de ouro legítimo é melhor. O senhor não sabe a diferença? Entre um diamante verdadeiro e uma imitação, qual o senhor prefere?
+
+“Mas o de fio de ouro falso também serve?”
+
+Para os que são pobres e não têm condições de comprar o de ouro legítimo, serve.
+
+“Aqui é Azabu Shin. Fui mencionada em um artigo na revista ‘Fujin Seikatsu’, mas o que eu disse foi um pouco diferente. Eu afirmei: ‘Como compreendi o princípio, não devo mais ir ao médico’. Mas escreveram: ‘Não sei bem por que, mas fiz e fui curada’. Talvez tenham achado que assim ficaria mais interessante.”
+
+Ficou mais eficaz e melhor assim. Ministrar Johrei compreendendo o princípio ou sem compreendê-lo leva ao mesmo resultado. Portanto, se a cura ocorre mesmo sem a compreensão, uma pessoa que está pensando em ingressar na fé, mas que hesita por não entender a lógica, ao ler isso, pode pensar: “Se não preciso entender o princípio para que funcione, vou tentar”. Isso tem um grande poder de divulgação. O efeito inverso acabou sendo mais benéfico.
+
+“Observando as flores do altar, lembrei-me de que, outro dia, havia bambu. A absorção de água era tão impressionante que perguntei como faziam, e me disseram que era só cortar e colocar no vaso. Quando nós fazemos, o bambu murcha rapidamente. O que estamos fazendo de errado?”
+
+Depende do tipo de bambu. O do outro dia era da espécie kanchiku. Ele é resistente. Já o madake, de folhas grandes, não dura. Mesmo assim, aguenta uns dois ou três dias. A durabilidade das flores depende do seguinte: assim que se corta a flor, deve-se colocá-la imediatamente na água. Quando estou no jardim, peço a um assistente que me acompanhe com um balde para colocar as flores. Deixá-las ao ar livre, mesmo que por pouco tempo, é prejudicial. Depois, ao arranjá-las, o movimento deve ser rápido e preciso. Ficar ajeitando e torcendo o caule as enfraquece. Se cortar e arranjar com um gesto rápido, elas duram. Às vezes, as minhas duram tanto que me causam problemas. Passam-se dez dias e não murcham. Não sei o nome, mas era uma folhagem que se tornou branca e não murchou em parte alguma. Apenas parecia um pouco ressecada. Depois de dez dias, eu mesmo me cansei e quis arranjar outras flores, então as descartei. Mas elas duram excessivamente. O segredo é tocar o mínimo possível nas flores. Se mexer muito, elas morrem. O arranjo deve ser feito de uma só vez. Assim, elas duram mais.
+
+“Então, seria como arranjá-las antes que elas percebam que foram cortadas…”
+
+As flores sabem. Elas sentem dor ao serem cortadas. Mas as flores arranjadas dessa maneira ficam esplêndidas. Há uns quatro ou cinco dias, arranjei folhas de bordo. Cortei dois galhos, os melhores que encontrei em todo o jardim, e os coloquei em um vaso grande. As dimensões dos galhos cortados se encaixaram perfeitamente; ficou excelente. Um arranjo que considero verdadeiramente bem-sucedido leva cerca de um minuto. Se demorar cinco minutos, a flor morre. O segredo é mirar no galho, cortá-lo com um gesto rápido e arranjá-lo imediatamente. O resultado é maravilhoso. Isso é algo que os floristas não conseguem fazer. No entanto, hoje em dia, há flores muito boas nas floriculturas. Portanto, mesmo com flores compradas, o princípio é o mesmo: corte o caule na altura desejada e coloque-o imediatamente no vaso. Se, ao arranjar, achar que a forma não está boa e começar a corrigir, a flor morrerá. Em vez de torcer o galho, mude sua direção ou encurte-o para melhorar a composição. Jamais se deve ficar ajeitando-o de várias maneiras.
+
+“Mas essa habilidade de fazer tudo com um gesto rápido é bastante difícil.”
+
+É por isso que, ao visitar constantemente o museu e apreciar pinturas, desenvolve-se essa mentalidade. O arranjo floral é, na verdade, uma pintura feita com flores. É como expressar a força da pincelada através delas. Por isso todos elogiam meus arranjos: porque eu pinto com as flores. Para isso, é preciso ter um senso artístico, e o senso artístico se desenvolve apreciando arte continuamente. Assim, o museu também tem esse efeito benéfico.
+
+---
+
 # Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Ensinamentos nº 13 (Publicado em 25 de setembro de 1952)
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-09-25
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Ensinamentos nº 13 (Publicado em 25 de setembro de 1952)
 
@@ -349,7 +728,7 @@ Como assim? Vocês vão ao templo xintoísta local, certo? Então, primeiro, agr
 # Publicações Correlatas
 
 **Categoria:** kanren | **Ano:** 昭和29年8月10日 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-10
 
 ## Publicações Correlatas
 
@@ -373,7 +752,7 @@ Trata-se do primeiro romance a tomar por temática a Sekai Kyusei Kyo. A obra fo
 # Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, Volume 9
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-05-15
 
 ## Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, Volume 9
 Publicado em 15 de maio de 1952 (Ano 27 da Era Showa)
@@ -726,7 +1105,7 @@ Sim, está correto.
 # Publicações Relacionadas em Inglês
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas em Inglês
 
@@ -755,7 +1134,7 @@ Esta coletânea de Salmos inclui também poemas de autoria de Nidai-Sama, e muit
 # Compêndio de Teses do Mestre Jikan Okada
 
 **Categoria:** kanren | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** Ⅱ －
-**Título Original:** 伝道の手引き | **Status:** Published
+**Título Original:** 伝道の手引き | **Status:** Published | **Edição/Página:** 237号, 7号 | **Data ISO:** 1947-02-05
 
 ## Compêndio de Teses do Mestre Jikan Okada
 Guia de Preleção II - 3 - 1
@@ -1135,7 +1514,7 @@ Mas será que quem doa seguindo a segunda perspectiva sofre? De modo algum. Se f
 # Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida
 
@@ -1480,7 +1859,7 @@ Aqueles que não compreendiam essa prudência o criticavam, dizendo que ele “a
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和29(1954)年8月15日 | **Fonte:** Hikariは大地に
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-15
 
 ## Publicações Relacionadas
 A Luz sobre a Terra, por Asō Etsu
@@ -1522,7 +1901,7 @@ Pleno Dia
 # Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão
 
 **Categoria:** kanren | **Ano:** 昭和27(1952)年10月22日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 179号, 28号 | **Data ISO:** 1952-10-22
 
 ## Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão
 
@@ -1557,7 +1936,7 @@ Repliquei: “Que absurdo! Do Mundo Espiritual, exercerei esse poder ilimitadame
 # Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: help / Pesquisa de Documentos: Guia de Difusão II-1-1
 
 **Categoria:** kanren | **Ano:** 昭和29(1954)年4月7日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 255号 | **Data ISO:** 1954-04-07
 
 ## Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: help / Pesquisa de Documentos: Guia de Difusão II-1-1
 
@@ -2091,7 +2470,7 @@ Como há espíritos de falecidos no cemitério, é possível que eles venham se 
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和24年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
 
 ## Publicações Relacionadas
 
@@ -2107,7 +2486,7 @@ Editora: Departamento Editorial Infinito, do Instituto Internacional de Pesquisa
 # Obras Correlatas à Coletânea de Dissertações do Mestre Okada Jikan
 
 **Categoria:** kanren | **Ano:** 昭和42年10月10日 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1967-10-10
 
 ## Obras Correlatas à Coletânea de Dissertações do Mestre Okada Jikan
 
@@ -2138,7 +2517,7 @@ Terceiro Volume: 15 de agosto, 25 de agosto, 5 de setembro, 1º de outubro e 10 
 # Publicações Correlatas
 
 **Categoria:** kanren | **Ano:** 昭和31年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1956
 
 ## Publicações Correlatas
 
@@ -2158,7 +2537,7 @@ Esta obra consiste em uma compilação adicional à "Coletânea de Hinos (ediç�
 # Crítica à Igreja Messiânica
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
 
 ## Crítica à Igreja Messiânica
 Um relato de Tokugawa Musei
@@ -2278,7 +2657,7 @@ Seja como for, acredito que, quando a ciência avançar mais alguns degraus, o e
 # namaji02
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 --- Publicações Relacionadas ---
 
@@ -2691,7 +3070,7 @@ Continua no capítulo doze
 # O que Espero de Okada Jikan
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## O que Espero de Okada Jikan
 Yamaoka Sohachi
@@ -2745,7 +3124,7 @@ Para mim, que concordo inteiramente com ele no que tange a ver a Vontade do Univ
 # Coleção de Ensaios de Okada Jikanshi — Consulta aos Ensinamentos: help; Consulta de Materiais: Guia para a Prática Missionária I-2-3; Qualificados, Igrejas e Diversas Questões da Fé; Capítulo 3: Assuntos a serem compreendidos
 
 **Categoria:** kanren | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** 19号, 8号 | **Data ISO:** 1950-06-13
 
 ## Coleção de Ensaios de Okada Jikanshi — Consulta aos Ensinamentos: help; Consulta de Materiais: Guia para a Prática Missionária I-2-3; Qualificados, Igrejas e Diversas Questões da Fé; Capítulo 3: Assuntos a serem compreendidos
 
@@ -3080,7 +3459,7 @@ Contudo, mesmo que morra, ela vai para o Mundo Espiritual e, embora seja julgada
 # Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida — por Aso Eizo
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida — por Aso Eizo
 
@@ -3534,650 +3913,11 @@ Continua no capítulo trinta e oito.
 # Agricultura Natural (Edição Inaugural)
 
 **Categoria:** kanren | **Ano:** 昭和29年11月 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-11
 
 ## Agricultura Natural (Edição Inaugural)
 
 Órgão oficial de divulgação mensal da Associação para a Divulgação da Agricultura Natural. A edição inaugural foi publicada em 1º de novembro de 1954, em formato A5 com 144 páginas, ao preço de 80 ienes. A editoria e a publicação estiveram a cargo do senhor Yodo Fujii, através da Editora Agricultura Natural.
-
----
-
-# Coletânea de Ensaios do Reverendo Okada Jikanshi – Pesquisa nos Ensinamentos: help; Pesquisa de Materiais: Guia para a Difusão I-1-2 | Fundamentos da Fé – Capítulo Dois: Sabedoria e Discernimento Espiritual
-
-**Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** Published
-
-## Coletânea de Ensaios do Reverendo Okada Jikanshi – Pesquisa nos Ensinamentos: help; Pesquisa de Materiais: Guia para a Difusão I-1-2 | Fundamentos da Fé – Capítulo Dois: Sabedoria e Discernimento Espiritual
-
-## Um. Sobre a importância de aprimorar o Discernimento Espiritual
-
-### 1. O que é o Discernimento Espiritual
-*(Orientação de 1º de julho de 1953)*
-
-A elevação espiritual consiste, primordialmente, em alcançar o Discernimento Espiritual, ou seja, a capacidade de compreender a essência de todas as coisas. Contudo, essa compreensão não pode ser equivocada. O referencial para a correta compreensão são os Escritos Divinos. Se, ao lê-los, o que está escrito soa como “de fato, é assim”, isso indica que seu Discernimento Espiritual já se elevou consideravelmente. Há também aqueles que afirmam “não consigo compreender”, e outros que, embora compreendam no momento da leitura, esquecem-se de tudo ao voltar para casa. A capacidade de, subitamente, ter um insight sobre os mais variados assuntos é um sinal de que o Discernimento Espiritual está progredindo. A habilidade de, ao observar um doente, diagnosticar sua enfermidade com precisão, exige um grau notavelmente elevado de Discernimento Espiritual. Portanto, se antes compreendíamos cinco aspectos de uma questão e agora compreendemos seis ou sete, isso evidencia a progressão de nosso Discernimento Espiritual.
-
-### 2. Aprimorando a Sabedoria, Compreende-se a Causa dos Impasses
-*(Palestra de 7 de setembro de 1953)*
-
-Conforme já mencionei, tudo deve estar em conformidade com o Princípio Divino; por conseguinte, devemos refletir sobre tal Princípio. Ao refletir, a compreensão se manifesta. Se não a alcançamos, é sinal de que nosso Discernimento Espiritual está embotado, o que indica a presença de máculas no espírito. Para remover tais máculas, a leitura assídua dos Escritos Divinos é o caminho mais eficaz. À medida que as nuvens se dissipam, o Discernimento Espiritual se desenvolve, aguçando nossa percepção e facilitando a compreensão do Princípio. Agindo em consonância com esse Princípio, tudo em nossa vida flui harmoniosamente. Frequentemente, recebo perguntas sobre diversos assuntos e, ao investigar, constato que invariavelmente há um desvio em relação ao Princípio. É fundamental, portanto, conhecer esse Princípio, o que, em essência, significa estar atento e perceptivo.
-
-Foi por essa razão que Buda pregou: “Despertem para a Iluminação”, “Tornem-se Iluminados”. Tornar-se um Iluminado significa, pois, desenvolver o Discernimento Espiritual a um determinado patamar. Por isso, no budismo, a palavra “sabedoria” é frequentemente mencionada. O cerne dos ensinamentos de Buda reside, em grande parte, no conceito de “sabedoria”. Essa sabedoria é o Discernimento Espiritual do qual falo; em outras palavras, é o “Despertar”. E o Despertar não se limita à resignação, mas abrange a “autoconsciência” e o estado de “Iluminado”. Assim sendo, independentemente da magnitude da questão, tudo deve ser alinhado ao Princípio. Quando uma pessoa age dessa forma, tudo o que ela faz prospera, sem a necessidade de esforços extenuantes.
-
-**Referência: A Relação entre a Salvação e a Lei Divina**
-*(Palestra de 26 de maio de 1953)*
-
-Quando há conformidade com o Princípio Divino, Deus é amor. No entanto, se não há essa conformidade, Deus nada pode fazer. Deus deseja conceder infinitas graças, mas as pessoas não possuem a qualificação para recebê-las. É como o dinheiro: Deus gostaria de encher cestos e carteiras, mas não pode fazê-lo se dentro dessas carteiras houver imundícies. Basta limpá-las. Portanto, se o ser humano deseja ser salvo, ele mesmo deve criar as condições para a sua salvação. Se não o fizer, Deus, que também segue Suas próprias leis e não pode transgredi-las, fica impossibilitado de ajudar, ainda que o deseje.
-
-### 3. Aprimorando a Sabedoria, Tudo se Resolve com Leveza e Fluidez
-*(Palestra de 5 de dezembro de 1953)*
-
-Conforme o trecho que acabamos de ler, minha forma de trabalhar se assemelha mais a uma atividade lúdica do que a um labor penoso. Não sinto que realizo minhas tarefas com sofrimento; é quase como um passatempo. Existe, no panteão de Kannon, uma representação chamada “Yugyō Kannon”, a Kannon que age em peregrinação lúdica, e minha postura é semelhante a essa. E é agindo assim que tudo corre bem. Quando nos afligimos e nos forçamos a fazer algo que nos é desagradável, os resultados são invariavelmente insatisfatórios. Este é um ponto que se contrapõe diametralmente à mentalidade predominante no mundo até hoje, e o mesmo se aplica aos nossos fiéis. Portanto, quando se faz algo a contragosto ou com sofrimento, nada de bom pode advir. Mesmo ao visitar um doente a pedido, se vou com alegria, a cura certamente será mais eficaz; vou porque sei que ele será curado, e por isso o resultado é positivo. Sendo assim, quanto mais leveza houver em nossas ações, maior será nosso progresso. É nisso que nossa senda difere do mundo convencional.
-
-Todavia, o ser humano parece ter se acostumado com diversos hábitos e encara o sofrimento como algo natural, quase como se fosse a norma. Comigo também ocorre, por vezes: quando sinto que as coisas não fluem como deveriam, percebo que estava agindo sob o peso do sofrimento. Nesses momentos, simplesmente abandono a tarefa e me dedico a outra coisa.
-
-Ademais, o tempo oportuno, a estação correta para cada coisa, é um fator de imensa magnitude. Mesmo que um plano seja excelente e destinado ao sucesso, se o momento for prematuro, ele não prosperará como o esperado. O erro não está na ação em si, mas na ausência do tempo certo. É preciso ter o Discernimento Espiritual para enxergar essa realidade.
-
-Outro aspecto de suma importância é a ordem correta das coisas. Há situações em que algo deveria prosperar, deveria se concretizar, mas encontra-se estagnado. Nesses momentos, ao refletir profundamente, muitas vezes percebo que a sequência dos atos está equivocada. Ao corrigir a ordem, tudo passa a fluir com leveza. O Discernimento Espiritual é, precisamente, a capacidade de perceber essas nuances com presteza. Este Discernimento Espiritual tem um significado – ou melhor, um impacto – tremendo sobre os acontecimentos. Quem o possui, torna-se mais atento.
-
-Um exemplo claro é o Johrei: quando a cura não progride como esperado, ao refletir, percebemos que o ponto vital está incorreto, ou a ordem da ministração está equivocada. A ordem, por sua vez, deve seguir o Princípio Divino, deve ser racional. Assim, se o doente ainda enfrenta oposição de familiares ou se seus próprios pensamentos estão em grande conflito, a cura não se efetiva. E, nessa dificuldade, reside outra razão: enquanto o doente nada sabe, é natural que duvide, se oponha ou aceite o Johrei apenas como uma experiência. Isso é perdoado por Deus, pois é compreensível. Contudo, quando a pessoa já ouviu explanações, leu os Escritos Divinos e até ingressou na Fé, mas ainda recebe o Johrei com pensamentos que não condizem com os ensinamentos, a cura se torna mais lenta e difícil. Para tudo isso, há uma lógica racional e precisa.
-
-É por essa razão que, por vezes, uma pessoa cética se cura de forma surpreendente, enquanto um fiel devoto apresenta uma recuperação mais lenta. Quem desconhece totalmente a nossa Fé pode duvidar à vontade, pois isso é natural e perdoado, está de acordo com o Princípio. Já aquele que presenciou inúmeros fatos e, ainda assim, duvida, não obterá os resultados desejados. Refletindo sobre isso, vemos que tudo está em perfeita conformidade com o Princípio. O Discernimento Espiritual é a capacidade de descobrir e compreender rapidamente esse Princípio que rege todas as coisas. É o reflexo no espelho da alma. Se o espelho estiver embaçado, a imagem será turva. Por isso, ao mantê-lo sempre polido, a reflexão se torna nítida, permitindo-nos identificar a verdade com rapidez.
-
-Neste ponto reside um aspecto da Fé que, embora muitas vezes subestimado, é de suma importância. O budismo, através de Buda, deu grande ênfase à “sabedoria”, referindo-se exatamente a isso. Aquele cuja sabedoria atua até certo grau é chamado de Iluminado. O Grande Iluminado é o mais elevado de todos. Buda disse: “Aquele que alcança a Iluminação se torna um Bodhisattva; o Iluminado é um Bodhisattva, e o Grande Iluminado é um Tathagata”. Isso mostra que o Despertar Espiritual é, em si, sabedoria. Portanto, pessoas que são rápidas em perceber e descobrir as coisas são Iluminadas, pois possuem poucas máculas em seu espírito. Para reduzir essas máculas e manter o espelho da alma límpido e cristalino, a melhor prática é a leitura abundante dos Escritos Divinos. Por isso, pode acontecer de, ao ler os Escritos Divinos, não compreendermos bem um trecho em uma primeira leitura, mas, ao relê-lo em outra ocasião ou após algum tempo, exclamarmos: “É isto!”, “Que ensinamento maravilhoso!”, “Como pude não entender algo tão claro?”. Isso ocorre porque, na leitura anterior, nosso espírito estava encoberto por nuvens. A melhora gradual da compreensão à medida que as máculas são removidas se explica, pois, dessa maneira.
-
-### 4. Sem Sabedoria, a Sinceridade por si só não pode Salvar as Pessoas
-*(Palestra de 13 de abril de 1949)*
-
-*Questionamento: Frequentemente vemos casos em que uma pessoa se dedica de corpo e alma a outra ou a uma família, mas, no final, o resultado é negativo...*
-
-O que ocorre é a ausência de sabedoria por parte de quem age. Mesmo no ato de salvar uma única pessoa, existem o momento e a oportunidade certos. Por mais que nos esforcemos com toda a sinceridade, se o tempo, a oportunidade e a disposição da outra pessoa não estiverem em perfeita sintonia, não teremos êxito. Quando alguém está cometendo um erro, a lógica nos diz que basta adverti-lo para que ele pare. Contudo, o ser humano é apegado e, por mais que se fale ou se chame a atenção, dificilmente abandona seus hábitos. Por isso, eu prefiro deixar a pessoa entregue a si mesma e aguardar que ela fracasse. Mesmo que eu pense “que pena, esta pessoa está errando neste ponto”, eu não a impeço e a deixo seguir seu caminho.
-
-Pode parecer uma atitude desprovida de compaixão, mas, para salvar verdadeiramente essa pessoa, não há outra forma. Quando ela se encontrar em um beco sem saída, completamente desesperada, virá em busca de ajuda. Nesse momento, se eu lhe disser “você errou aqui e aqui”, ela, já escarmentada pela experiência, compreenderá do fundo do coração e se corrigirá de verdade. Tentar dar conselhos no meio do caminho, na maioria das vezes, gera o efeito contrário. O apego é muito forte. Isso é especialmente verdadeiro nas relações amorosas. Tentar impedir um romance acaba por inflamar ainda mais a paixão. (risos) Por isso, quando me procuram com problemas de relacionamento, eu digo: “Deixe nas mãos de Deus”. Basicamente, transfiro a responsabilidade para Ele. (risos) E, na prática, os resultados são muito melhores assim.
-
-É como uma pedra que rola por uma encosta. Tentar detê-la no meio do caminho é inútil e arriscado; podemos acabar nos ferindo. O caso da “dedicação intensa com resultado negativo” que mencionaram se encaixa perfeitamente aqui. Portanto, é preciso esperar que a pedra chegue até o sopé da encosta. Lá, ela parará por si mesma. O Discernimento Espiritual consiste, então, em saber identificar onde termina a encosta e onde se encontra o seu sopé. Aprimorar a sabedoria significa exatamente isso.
-
-### 5. As Pessoas sem Sabedoria são Infelizes
-*(Palestra de 26 de junho de 1952)*
-
-A felicidade e a infelicidade humanas dependem, fundamentalmente, da mente. A infelicidade advém da falta de inteligência. E os mais desprovidos de inteligência são os homens maus. Eles vivem na ilusão de que terão sucesso ou encontrarão a felicidade através da maldade. É uma falta de inteligência que os impede de perceber que praticar o mal leva à ruína. Por isso, considero os malfeitores pessoas de inteligência extremamente limitada. A posição social, a fama ou o anonimato de uma pessoa são irrelevantes. O que importa é a felicidade. Ser famoso não é sinônimo de ser feliz. E, mesmo entre os que carecem de inteligência, existem diferentes graus de maldade. Há os extremamente maus e os nem tanto. As pessoas que hoje ocupam posições de destaque ou são famosas, embora não se possa dizer que sejam boas, ao menos possuem um grau menor de maldade.
-
-### 6. Quem Vive Atarefado não é Inteligente
-*(Orientação de 1º de agosto de 1953)*
-
-Deus nunca está ocupado. Isso é uma condição humana. Um pensamento de Deus não leva nem um segundo. A noção de estar ou não ocupado existe porque há tempo e espaço. Deus, porém, transcende o tempo e o espaço. Onde não há tempo, não pode haver pressa. Portanto, aqueles que vivem sobrecarregados e sem fôlego são pessoas de pouca inteligência. As pessoas costumam me perguntar se sou muito ocupado, mas eu nunca estou. O que uma pessoa leva uma hora para fazer, eu faço em um minuto.
-
-## Dois. Métodos para Alcançar o Discernimento Espiritual
-
-### (Um)
-
-### 1. Dissolver as Toxinas da Mente e Retificar os Pensamentos
-*(Palestra de 5 de setembro de 1953)*
-
-Dessa forma, na fé e em todas as coisas, o ponto vital é tudo. Portanto, é preciso desenvolver a capacidade de encontrar esse ponto vital, e para isso a mente deve ser perspicaz. Para que a mente se torne perspicaz, é necessário eliminar o quanto antes as toxinas medicamentosas nela acumuladas. Por isso, ter febre e uma dor de cabeça lancinante é algo excelente, pois essa dor intensa ocorre quando as toxinas alojadas nas profundezas do cérebro se dissolvem para serem expelidas. A dor é aguda porque a região está próxima aos nervos. Quando o problema é mais superficial, a dor não é tão forte. Uma dor de cabeça que parece que vai rachar o crânio indica que a purificação ocorre nas partes mais profundas, o que é muito bom. A medicina, por desconhecer isso, aplica gelo para endurecer as toxinas, arruinando o processo. Por isso, a encefalite japonesa, por exemplo, é algo extremamente benéfico. Uma criança que a contrai certamente terá um desempenho escolar muito melhor depois.
-
-Assim, também no Johrei, o ponto vital é fundamental. Todas as doenças têm um ponto vital, e muitas vezes ele se encontra em locais inesperados. Um exemplo surpreendente é a dificuldade de articular as palavras, com a língua travada. A causa se encontra nas profundezas do nariz, atrás das adenoides. Nesses casos, ministrar Johrei visando essa região promove a cura. Outros problemas relacionados ao nariz, como a perda do olfato, o corrimento nasal constante em resfriados ou a obstrução nasal, podem ser tratados ministrando Johrei aqui (nas laterais das narinas). Pode-se ministrar pela frente e, ao pressionar, o local estará dolorido. A sinusite, por exemplo, tem sua causa aí. As toxinas tentam sair pelo nariz e se acumulam nesse ponto. A obstrução nasal frequentemente se origina aí. Outros problemas nasais têm seu ponto vital aqui (na nuca). Ministrando Johrei da nuca em direção à parte frontal, a energia espiritual flui.
-
-Como se vê, a causa pode estar em lugares inimagináveis. Portanto, existem pontos vitais fáceis de identificar e outros de difícil percepção. E não apenas nas doenças; as mais diversas circunstâncias também possuem seus pontos vitais em locais inesperados, e é preciso descobri-los. Para isso, é imprescindível o Discernimento Espiritual. A sabedoria deve atuar. E a atuação da sabedoria depende da eliminação das toxinas cerebrais e do estado mental da pessoa. A mínima ambição impura ou distorcida turva a sabedoria, impedindo-a de se manifestar. Por outro lado, se os pensamentos da pessoa são puros, com o genuíno desejo de servir ao mundo e à humanidade, a sabedoria se manifesta. É por isso que as pessoas de mau coração invariavelmente fracassam.
-
-Foi o que mencionei anteriormente sobre o comunismo: seu fracasso é inevitável. E a razão é sua impureza. Não há nele o pensamento de verdadeiramente beneficiar o mundo e trazer felicidade a muitos; pelo contrário, para benefício próprio, matar alguém não é problema algum. Sob o pretexto de “expurgos”, assassinaram um número imenso de pessoas. A China comunista também pratica isso e, por essa razão, certamente cairá. Não durará muito mais. Assim, no que tange à questão da Coreia, a conclusão é que foi um grande fracasso para a China comunista e um grande sucesso para os Estados Unidos. Quando a Coreia do Sul estava por um fio, a um passo da derrota, a América, agindo com audácia, enviou reforços de longe, chegando a tempo de reverter a situação e conter o avanço. Isso aconteceu porque a América estava do lado da justiça, e a China comunista, da injustiça.
-
-As pessoas temem o comunismo, mas não há necessidade de temê-lo. Ideologias como essa jamais triunfarão; seu sucesso é apenas temporário. Se o inimigo agisse com base na verdadeira justiça, aí sim seria temível. Digo “temível”, mas não para nós; seria temível para os malfeitores. Assim, os maus não são tão assustadores quanto parecem. Essa perspectiva também é um ponto vital: discernir qual lado representa a injustiça. O Japão perdeu a guerra porque não estava do lado da justiça. Nas guerras sino-japonesa e russo-japonesa, por outro lado, o Japão venceu porque estava do lado da justiça. Portanto, por mais que se dissesse que o Japão era uma “terra divina”, essa era uma interpretação conveniente aos homens. Na verdade, o lado da justiça venceu. E, se pensarmos assim, como a justiça é Deus, não há dúvida de que o Japão é uma terra divina. Esse é o ponto vital para o julgamento das coisas.
-
-### 2. Cultivar uma Mente Capaz de Discernir o Ponto Vital
-*(Palestra de 5 de julho de 1953)*
-
-Vocês mesmos devem ter essa experiência: a capacidade de descobrir o ponto vital é a condição mais importante na vida de uma pessoa. A política, a economia e a diplomacia atuais, por estarem desfocadas do ponto vital, cometem inúmeras tolices. Ouço com frequência no rádio e leio nos jornais sobre políticos que se reúnem diariamente para discutir diversos assuntos, mas sempre fora do ponto vital. Homens importantes se congregam e deliberam, mas discutem tudo, exceto o essencial. Por isso, nenhuma boa solução emerge. Não é que lhes falte inteligência; são inteligentes, mas apenas superficialmente. O cerne da questão é falho. Discutem exaustivamente a periferia, mas ninguém debate o núcleo. Em suma, não compreendem o ponto central.
-
-Portanto, o ser humano deve cultivar uma mente capaz de descobrir o ponto vital. A fé é um treinamento para isso. A Sekai Kyuseikyo baseia-se na compreensão e na centralidade desse ponto, que até hoje ninguém entendia. Quando se observa e se age no mundo com essa mentalidade, os resultados são extraordinários. Não é fácil, mas já seria excelente se conseguíssemos ao menos identificar rapidamente o que está próximo ao ponto vital.
-
-### 3. Mudar o Foco do Pensamento
-*(Palestra de 5 de junho de 1952)*
-
-Isso se aplica a tudo, inclusive ao Johrei. Ao ministrar por trinta minutos ou uma hora, em vez de fazê-lo continuamente, é mais eficaz concentrar a energia por um momento e então prosseguir. Às vezes, esforçamo-nos para encontrar o ponto vital, mas não conseguimos. Se relaxarmos por um instante, o encontramos imediatamente. Isso também é uma forma de mudança de foco, e essa mudança é extremamente benéfica. Se algo flui com leveza, ótimo. Mas se encontramos um obstáculo, se a mente se confunde ou não encontramos a solução, o melhor a fazer é abandonar completamente o problema e se dedicar a outra coisa. Frequentemente, a solução para o problema anterior surge justamente nesse momento.
-
-Por isso, evito me dedicar a uma única tarefa por muito tempo. Ultimamente, é raro eu passar mais de uma hora em uma mesma atividade. Ao confeccionar Omitama ou ao fazer caligrafia, geralmente trabalho por uma hora. Depois disso, a eficiência cai, e o resultado não é bom. O mesmo se aplica às diversas orientações que dou, que geralmente duram de trinta minutos a uma hora. Vou mudando de atividade constantemente. Assim, cada uma delas sai razoavelmente bem-feita. Pode parecer um detalhe insignificante, mas isso tem um grande impacto sobre o trabalho.
-
-Da mesma forma, ao ponderar sobre algo, se nos fixamos em um único pensamento, acabamos por não encontrar a solução. Portanto, não se deve pensar em demasia. O ideal é refletir um pouco e, se uma boa ideia não surgir, abandonar o assunto e se ocupar com outra coisa. As boas ideias surgem num átimo, subitamente. Elas não são fruto de um pensamento exaustivo.
-
-As reuniões são um bom exemplo disso. Ouço frequentemente sobre reuniões que duraram horas. Jamais sairia uma boa ideia de algo assim. Certa vez, eu disse a alguns dirigentes de nossa Igreja que haviam realizado uma reunião de três ou quatro horas: “Isso não funciona. Reuniões devem durar no máximo trinta minutos, uma hora. Se não surgir uma solução nesse tempo, é melhor encerrar”. A boa solução é sempre uma só. Não existem três ou quatro. Só existe uma. Toda aquela deliberação acontece porque essa única solução não foi encontrada. No parlamento e nas assembleias, vemos debates infindáveis sobre um mesmo tema. Isso ocorre porque não conseguem descobrir a única boa solução, e isso, por sua vez, é resultado da falta de inteligência. A mente está enevoada. E a causa disso é que as pessoas de hoje tomam muitos remédios, e por isso as boas ideias não surgem.
-
-É interessante observar os debates. O mais divertido são os simpósios políticos no rádio. Homens importantes da política se reúnem, e cada um defende seu ponto de vista com sua própria lógica, acreditando que é a melhor. Quando comparamos essas lógicas, ao final, vemos que uma delas é superior. Todos falam muito, mas são incapazes de comparar e discernir qual é a melhor. Cada um, convicto de sua própria razão, debate acaloradamente, a ponto de parecer que uma briga vai começar. No rádio não podemos ver, mas na televisão ficaria bem claro. O que se ouve não é um debate, é uma discussão acalorada. Observando tais cenas, percebemos que o intelecto dessas pessoas não é digno de muitos elogios.
-
-E assim, perdem tempo e energia em vão. O parlamento vive adiando sessões por motivos triviais e inúteis. É de se espantar que tenham tanto tempo livre. Os parlamentares devem ser pessoas bastante ociosas. Toda essa confusão que promovem é, para dizer o mínimo, uma espécie de passatempo para eles. Debater e argumentar deve ser divertido. E o povo é quem paga o pato. Diante desse quadro, a coisa mais importante para as pessoas de hoje seria melhorar um pouco a sua inteligência.
-
-Nesse sentido, os políticos do início da Era Meiji talvez fossem mais inteligentes. E a razão de sua inteligência era a maior sinceridade que possuíam. Argumentos que nascem da sinceridade são bons. Argumentos impuros são distorcidos. O mais interessante são as opiniões vindas do partido comunista. Elas sempre soam estranhas. Parecem muito lógicas, mas, no fundo, não são. Nos debates e simpósios políticos do rádio, percebemos que os argumentos dos comunistas são incoerentes. Eles se esforçam, convictos de que estão certos, mas ouvi-los é simplesmente ridículo. Isso provavelmente se deve à falta de sinceridade. Palavras proferidas com um verdadeiro sentimento pela nação, pela sociedade e pela felicidade do povo inevitavelmente tocam as pessoas e delas emanam coisas boas.
-
-Divaguei um pouco, mas, no final, tudo se resume ao funcionamento da mente humana. A chamada sabedoria nasce daí. Por isso, na religião, deve-se dar grande importância à sabedoria. Nesse ponto, o budismo, nos ensinamentos de Buda, valoriza imensamente a sabedoria, o que é excelente. Falamos em Discernimento Espiritual; Buda falava em Iluminado, aquele que alcançou o Despertar. De fato, ao se tornar um Iluminado, a boa sabedoria se manifesta. Monges de alta hierarquia são chamados de “Daichi”, ou grande sabedoria. Para possuir tal sabedoria, a mente precisa ser perspicaz. E, para torná-la perspicaz, é preciso, como eu disse, mudar o foco do pensamento. Assim, a mente se torna extremamente aguçada. Foi sobre isso que falei agora.
-
-### 4. Entregar a Deus
-*(Palestra de 15 de novembro de 1951)*
-
-Não se deve pensar nas coisas de forma complicada, nem de forma simplista demais. Digo isso porque, às vezes, pensar em excesso leva a maus resultados. Portanto, o ideal é pensar da maneira mais simples possível. Eu mesmo, por vezes, me deparo com situações complexas, mas procuro pensar de forma muito simples e, depois, entrego nas mãos de Deus. Por isso, estou sempre com o espírito leve. Quando o ser humano está com o espírito leve, boas ideias surgem. Se não está, não há espaço para que elas apareçam. Portanto, manter a mente sempre vazia facilita o surgimento de boas ideias.
-
-Ademais, as boas ideias são inspirações dadas pelo Anjo da Guarda. Deus não se comunica diretamente com o ser humano; Ele informa o Anjo da Guarda, e a inspiração vem através dele. Contudo, se a mente está cheia, mesmo que a informação seja enviada, a antena não funciona bem. É por isso que as boas ideias não surgem. É uma espécie de inspiração. Deve-se manter sempre um estado de espírito tranquilo. No entanto, quando há preocupações e questões que nos afligem, isso não é fácil. Mas, com a prática, é possível. Antigamente, quando eu tinha muitas preocupações, não conseguia pensar em mais nada. Porém, à medida que aprofundei na fé, passei a entregar tais assuntos a Deus e a esquecê-los. É um hábito que se adquire. É uma forma de treinamento. Muitas pessoas me contam suas preocupações, e eu as ouço sorrindo, o que as deixa espantadas. Uma pessoa comum não consegue fazer isso. Eu já escrevi a esse respeito.
-
-*(Ensinamento após a leitura do artigo “Entregar a Deus”)*
-
-### 5. Esperar o Tempo em que a Sabedoria Aflora
-*(Palestra de 7 de outubro de 1952)*
-
-Quando estou pensando em algo e a ideia não vem, eu simplesmente paro. Não me forço a continuar pensando. Eu paro e, quando já me esqueci do assunto, em algum outro momento, a solução surge de repente. “Ah, é isto!”, percebo. Portanto, se reflito um pouco e uma boa ideia não aflora, eu desisto. O fato de a ideia não vir significa que o tempo certo ainda não chegou. Quando o tempo chega, Deus me informa subitamente, e tudo se torna fácil. Assim, sem sofrimento, tudo flui de maneira suave e ordenada. Esse sabor, essa forma de ser, é algo inacreditável para a mentalidade antiga. Por isso, eu não faço nada que me cause sofrimento.
-
-### (Dois)
-
-### 1. Ler os Escritos Divinos
-*Para este capítulo, é imprescindível a leitura atenta da parte sublinhada no capítulo (Um) desta seção, “Sobre a importância de aprimorar o Discernimento Espiritual”.*
-
-**Apêndice 1: Recebemos Luz ao Ler os Escritos Divinos**
-*(Palestra de 15 de novembro de 1952)*
-
-Portanto, o melhor a fazer é incentivar as pessoas a lerem os jornais “Eiko” e “Tijō Tengoku”. Ao lerem, não apenas compreendem o significado, mas também são purificadas. A alma da pessoa se purifica na mesma medida. Mesmo que ela se esqueça do que leu, um poder purificador permanece. É como se pequenas sementes de plantas fossem semeadas, e um dia elas germinarão. Por isso, o essencial é fazer com que leiam. Quando alguém disser que quer ouvir uma explanação, a explanação é boa, mas ofereça-lhe um exemplar do jornal. Ao lê-lo, ela receberá uma purificação inicial, e o efeito pode ser surpreendente.
-
-**Apêndice 2: Quando a Alma Desperta com os Escritos Divinos, Recebemos Luz de Dentro**
-*(Orientação de 8 de setembro de 1951)*
-
-*Pergunta: No artigo “O Tratamento Revolucionário da Tuberculose”, é dito que as máculas do corpo espiritual têm duas causas, uma externa e outra interna. Há diferença na forma de purificá-las, seja pelo Johrei ou pela leitura dos Escritos Divinos?*
-
-O Johrei atua de fora para dentro. A leitura dos Escritos Divinos atua na alma. A alma em si é imaculada, mas quando o corpo espiritual se enevoa, a alma é afetada. Diz-se que a alma dorme ou se enevoa. A influência externa faz com que ela se contraia. Ao ler os Escritos Divinos, a alma desperta com um sobressalto. Assim, as máculas são removidas a partir do centro. O âmago da alma é absolutamente puro. Em certas circunstâncias, até mesmo um malfeitor pode despertar ou praticar um bom ato em um momento decisivo. A natureza humana – existem teorias da bondade e da maldade inatas – em seu cerne mais profundo, é assim. Apenas o seu entorno se altera. Por isso, a alma se expande ou se contrai. “Mitama no fuyu o” [Aumento da alma] significa o crescimento da alma.
-
-### 2. Três Métodos para Aprimorar o Discernimento Espiritual
-*(Sobre a coletânea de poemas “A Montanha e a Água”, 6 de maio de 1950)*
-
-O objetivo da fé é polir a alma e purificar o coração. Para isso, existem três métodos: o primeiro é através do sofrimento causado por práticas ascéticas, provações e calamidades; o segundo é pela acumulação de virtudes; e o terceiro é pela elevação da alma através da arte sublime.
-
-### 3. (Salvando Pessoas) a Elevação da Alma Aumenta o Discernimento Espiritual
-*(Orientação de 1º de dezembro de 1952)*
-
-É uma questão de posição no Mundo Espiritual. Não há o que fazer a não ser elevá-la. E para elevar a posição, é preciso se purificar. Isso se dá através do próprio sofrimento ou pelos méritos e esforços em ajudar os outros. Assim se ascende mais rapidamente. Ao atingir um determinado nível, chega-se a um mundo de abundância material e de coisas boas. Se o tempo ainda não permitiu chegar tão alto, pode-se alcançar um nível um pouco inferior. Em suma, o mais importante é a elevação do estado e da posição espiritual.
-
-*“Mestre, o senhor frequentemente fala sobre pessoas que não são inteligentes...”*
-
-Isso também se relaciona a isso. Pense como se fosse uma montanha. Daqui (um pouco mais acima), a visão é melhor. Não ser inteligente significa estar aqui (em um nível inferior), de onde se vê muito pouco. Do topo, pode-se ver tudo, e por isso se é inteligente.
-
-*“Frequentemente me perguntam como acumular mais virtudes. A melhor forma seria ajudar no trabalho do Messias, Meishu-Sama, não é?”*
-
-Essa é uma forma indireta de dizer. Diretamente, significa fazer as pessoas felizes. Em essência, é acumular virtudes. E isso se torna uma ajuda ao trabalho do Messias.
-
-**Apêndice 3: Espíritos Malignos Atrapalham a Escrita de “A Criação da Civilização”**
-*(Orientação de 5 de setembro de 1951)*
-
-Pelo que ouço, já passamos da parte mais difícil. O que ocorre é uma batalha, uma batalha contra os espíritos malignos. Por isso digo que sou um guerreiro. Não é uma batalha visível, mas invisível. Luto todos os dias. Comecei a escrever “A Criação da Civilização”, e isso é o que eles mais temem. A interferência é tremenda. A obstrução vem até mesmo de dentro de casa. As pessoas da minha casa não sabem; não têm a intenção de atrapalhar, mas são usadas pelos espíritos malignos. Ultimamente tem estado um pouco melhor, mas no início era terrível.
-
-### 4. O Contato com Obras de Arte Superiores Eleva o Discernimento Espiritual
-*(Palestra de 7 de junho de 1952)*
-
-Ao contemplar a obra-prima de um mestre, a alma se eleva em direção a ela, e o olhar se aprimora. Esse olhar mais elevado se estende a outras coisas, e o senso crítico se desenvolve. Não apenas em relação à arte, mas o senso crítico para todas as coisas se aguça, e, consequentemente, o Discernimento Espiritual da pessoa aumenta. O Discernimento Espiritual é o senso crítico. É a capacidade de olhar para algo e julgar se é bom ou ruim, verdadeiro ou falso. Esse discernimento depende do senso crítico. Portanto, o senso crítico é o mais importante para o ser humano. Pessoas que apreciam obras de arte como as de nosso museu encontram nele esse valor.
-
-## Três. Outros Tópicos Relacionados ao Discernimento Espiritual
-
-### 1. Aprimorar o Discernimento Espiritual com Alegria
-*(Palestra de 6 de outubro de 1952)*
-
-Como acabamos de ler, todo sofrimento é purificação. Através dele, as máculas do espírito são removidas. As práticas ascéticas e as provações das religiões do passado eram métodos para isso. O sofrimento comum, do dia a dia, é inevitável; ele vem ao nosso encontro. Já as práticas ascéticas são um esforço autoinfligido. Mesmo assim, a alma é polida. O bramanismo prega que a iluminação é alcançada através do sofrimento, e isso acontece porque, com a remoção das máculas, a iluminação se abre. Sem máculas, compreende-se melhor as coisas, e assim se atinge o despertar. Despertar significa compreender as coisas, ou seja, compreender a verdade.
-
-No entanto, existem diversos níveis de verdade: superior, médio e inferior. O que a maioria das pessoas considera como verdade é, muitas vezes, uma verdade de nível muito baixo. Com a purificação, a alma se eleva em relação ao seu estado anterior. As ilusões diminuem, e o poder de discernimento aumenta. Contudo, a ilusão nunca desaparece por completo. Mesmo as pessoas mais elevadas a têm... eu também. A diferença está na rapidez com que a ilusão se dissipa. No meu caso, uma ilusão não dura mais que meio dia.
-
-Eu, ao olhar para as coisas, compreendo imediatamente a sua conclusão. Seja observando um jardim, uma construção ou qualquer outra coisa, a compreensão é instantânea. Não preciso ficar ponderando. Se a resposta não surge de imediato, eu simplesmente deixo de lado, sem pensar no assunto. É que há um tempo certo para tudo, e em algum momento, a compreensão vem de repente. Há uma ordem, e Deus não me revela as coisas antes da hora. Quando o tempo chega, eu compreendo. Assim, sei das coisas sem me iludir.
-
-As pessoas de hoje, porém, têm o espírito enevoado. Por mais elevadas que sejam, vivem mergulhadas em ilusões e pensamentos constantes. De tanto pensar, nenhuma sabedoria real emerge. E assim, cometem erros e criam seus próprios fracassos. Isso é especialmente verdadeiro no mundo da política. Lendo os jornais, sinto com frequência a espantosa falta de sabedoria, e isso se deve às máculas no espírito.
-
-O ser humano, ao remover o máximo possível essas máculas, não só se torna saudável, como também mais inteligente. E para se tornar mais inteligente, para remover as máculas, sem a necessidade de práticas ascéticas, creio que só a Sekai Kyuseikyo oferece o caminho. Isso porque somos uma religião celestial, a religião do Dia. Por ser uma era de Luz, as máculas são removidas rapidamente, a alma é polida e o Discernimento Espiritual é alcançado.
-
-### 2. Tornar-se um Iluminado com Alegria
-*(Palestra na Cerimônia de Comemoração da Conclusão do Shinsenkyo e do Museu de Arte, 1952)*
-
-Graças à proteção de Deus e ao esforço de todos, o Shinsenkyo está, em suas linhas gerais, concluído. Estou especialmente feliz com a finalização do Museu de Arte. Com isso, demos o primeiro passo em direção ao Paraíso Terrestre. Este modelo se expandirá gradualmente, até se tornar um Paraíso Terrestre mundial. Não há nada mais maravilhoso. Por enquanto, é um modelo em pequena escala, mas acredito que o Museu de Arte terá uma repercussão mundial considerável. Digo isso porque, como sempre afirmo, é algo de que podemos nos orgulhar perante o mundo.
-
-Um museu como este ter sido construído em poucos anos – ou melhor, a construção em si levou menos de um ano, cerca de oito meses – é uma velocidade sem precedentes. Quando o virem, tenho certeza de que não parecerá algo construído em tão pouco tempo. Se olharmos para o cenário mundial, vemos o mundo à beira de uma grande destruição. Não se sabe quando ela começará. Nós, por outro lado, estamos empenhados na construção. Ao contrastar as duas realidades, temos a destruição e a construção, o inferno e o paraíso.
-
-As religiões do passado visavam formar seres humanos virtuosos – os Iluminados, como disse Buda. Ou seja, pessoas que alcançaram o despertar, ou, para simplificar, pessoas de caráter elevado, com uma certa qualificação espiritual. Tornar-se ou formar tais pessoas foi uma busca humana desde tempos imemoriais, mas o método sempre foi o sofrimento. Práticas ascéticas, jejuns, retiros em montanhas, tudo com o objetivo de se tornar um Iluminado.
-
-O método da Sekai Kyuseikyo, no entanto, é novo e oposto: pode-se alcançar a iluminação através da alegria. É um caminho para elevar a alma em um estado de bem-estar. Isso é o contrário do que existiu até hoje e é algo inédito. Como a Sekai Kyuseikyo se propõe a construir o Paraíso, nosso método é, por excelência, paradisíaco. Há uma diferença colossal. É o inverso do passado. É preciso reconhecer isso. E o Museu de Arte é uma expressão desse método. É o caminho para elevar a alma através da apreciação da arte.
-
-### 3. O Polimento da Alma através da Arte
-*(Palestra de 6 de junho de 1952)*
-
-**① Atingindo a maestria em uma arte, sobressai-se em outras áreas**
-
-Há dois ou três dias, adquiri uma pintura de Miyamoto Musashi, que será exibida no novo museu. É uma pintura de Daruma. É primorosa, fiquei impressionado. Não fica nada a dever às obras-primas das dinastias Song e Yuan da China. Há, inclusive, um Tesouro Nacional entre as pinturas de Miyamoto Musashi. Quando se atinge a maestria em uma arte marcial, atinge-se também a essência de todas as outras coisas. É algo muito importante de se saber. Existem diversos campos de atuação: pintura, escultura, artes cênicas, literatura, e também a vida cotidiana. Em todas as esferas da vida humana, se você se aprofunda em uma delas, alcançará o mesmo nível nas outras, mesmo que nelas seu nível seja mais baixo. Isso é fascinante. Assim, ao se tornar um mestre nas artes marciais, ao pintar, a pintura atingirá o mesmo nível de sua maestria marcial. Quem tem boa caligrafia, pinta bem. Quem pinta bem, tem boa caligrafia. É assim que funciona. O fato de eu ter sucesso em tudo o que faço se deve à elevada posição espiritual da minha alma. Assim, tudo o que faço atinge um nível superior. Seja projetando jardins ou edifícios, eles se tornam os melhores jardins, os melhores edifícios. Não preciso ser ensinado; naturalmente, chego a esse patamar.
-
-**② O contato com a arte superior pole a alma**
-
-É por isso que construir um museu e expor obras de grandes mestres tem tanto significado. Ao contemplar uma obra de arte de alta qualidade, a mente da pessoa se aproxima desse nível, e o resultado é o mesmo que polir a alma através da fé. Antigamente, as pessoas se submetiam a diversas práticas ascéticas para elevar suas almas. Era a fé do inferno, a fé do mundo da Noite. Eu, por outro lado, represento uma religião celestial. O que os antigos alcançavam com banhos de água fria e jejuns, nós alcançamos de outra forma. A ação deles era louvável, mas, ao contrário dos remédios alopáticos, nosso método é seguro.
-
-Sendo assim, Deus utilizou grandemente a arte. O Príncipe Shotoku tinha essa mesma ideia, mas sua época era prematura. Teve efeito para salvar as pessoas daquele tempo, mas depois o mundo continuou sendo o mundo da Noite. A arte permaneceu, mas, ideologicamente, o efeito não foi tão duradouro – embora, sem dúvida, a existência daquelas obras de arte em Nara tenha gerado algum efeito benéfico, estimulando as pessoas que as visitavam ao longo do tempo. Contudo, o momento foi, por assim dizer, prematuro. Aconteceu antes do fim da Noite. O que eu faço agora, no entanto, ocorre exatamente na aurora, no momento certo. Portanto, a grandiosidade de Miyamoto Musashi, e de todos os mestres, reside nisso.
-
-### 4. Sobre a estratégia de MacArthur, a moção de censura do Partido Socialista, as atividades destrutivas do Partido Comunista e o futuro do comunismo
-*(Palestra de 26 de junho de 1952)*
-
-Recentemente, percebi que MacArthur tem recebido muitos elogios. A origem desses elogios está no recente bombardeio das forças da ONU às áreas além do rio Yalu. Essa era a estratégia que MacArthur defendia. Na época, disseram que era errado e o reprimiram. Mas agora, eles executaram sua tática. E então se reconheceu que MacArthur, afinal, era brilhante. O fato de ele ter defendido esse plano um ano antes elevou enormemente sua popularidade. Atualmente, ele apoia Taft, mas há rumores de que ele mesmo possa concorrer à presidência. Eu, desde aquela época, elogiava MacArthur, dizendo que sua política era excelente. E, de fato, as coisas estão se encaminhando para isso. Truman também é um grande homem, mas nesse ponto, sua inteligência foi falha. Depois de encurralar o exército comunista daquela forma, ele impediu o audacioso plano de MacArthur de bombardear a Manchúria, deixando a cobra meio morta. Por isso as negociações de cessar-fogo se arrastam até hoje.
-
-Havia pessoas importantes na América que diziam que um acordo seria alcançado em breve, mas desde o início eu afirmei que não daria em nada. É uma tática de desgaste da União Soviética. Se parassem, a América se retiraria, e o desgaste americano cessaria. Como não têm chance de vencer em combate, eles evitam o confronto e mantêm o exército americano ali, desgastando suas forças. Era de se esperar que percebessem isso, mas não perceberam, achando que um acordo era possível. Só agora estão começando a se dar conta. É uma grande falta de inteligência.
-
-E isso se aplica a tudo. Não só na América, mas no Japão a falta de inteligência é a mesma. Continuam a defender a dissolução do parlamento. Talvez o façam de propósito, mas tanto o Partido Progressista quanto o Partido Socialista carecem de inteligência. Eles alegam que o governo falhou, que a política vai mal e que a situação é insustentável. Se a opinião pública estivesse em polvorosa e a situação fosse caótica, defender a dissolução faria o povo apoiá-los. Mas, com a situação atual tranquila – e Yoshida é bastante hábil em sua gestão –, e sem um sucessor à vista, o povo não seguirá essa ideia. É como tocar flauta para si mesmo; o povo vira as costas.
-
-O Partido Comunista, por sua vez, incendeia fábricas e ataca policiais, mas tais atos são contraproducentes. O governo reforçará a polícia e as forças de segurança, e o Partido Comunista ficará cada vez mais encurralado. Eles são bons em se esconder na clandestinidade, é verdade – Tokuda e outros continuam foragidos, e nisso são muito espertos. Mas seu objetivo é causar desordem social através de tumultos. E quem se deixa levar por isso são operários e jovens estudantes. É a concretização de uma doença infantil. É uma grande falta de inteligência. Se quisessem agir, deveriam baixar a guarda do adversário, ficar quietos e atacar de uma só vez. Isso sim teria efeito. Mas seria um problema se o fizessem. Fazer todo esse alarido por conta própria não tem eficácia. Aí reside sua grande falta de inteligência.
-
-O comunismo ganha força em países mais bárbaros e ignorantes, ou onde o governo é péssimo e o povo vive na miséria, passando fome. Nesses lugares, o comunismo desperta interesse. Mas o Japão não está em tal estado de miséria, e o povo japonês tem um bom nível de discernimento para julgar se uma ideologia é boa ou ruim. Por mais que tentem incitar o povo com o comunismo, ele não se deixa enganar. Em países culturalmente desenvolvidos, como na Europa e no Japão, o Partido Comunista é amplamente rechaçado pela sociedade, e o número de seus parlamentares diminui. Na Itália, por um tempo, eles tiveram força, mas a cada ano perdem assentos. Assim, as chances de sucesso diminuem. Um povo culturalmente desenvolvido tem poder de discernimento; não engole as coisas, mas as critica. E, ao criticar, percebem que o comunismo não é interessante, que não levará a uma sociedade feliz. E assim, sua popularidade diminui.
-
-Quem teve sucesso nisso foi a China comunista. Mas a China ainda tem um baixo nível educacional e essa brecha permitiu seu sucesso. Trazer esse método para o Japão não funcionará. Stálin parece ter percebido isso, e recentemente adotou uma política de favorecimento em relação ao Japão. Por um lado, tenta semear a confusão na sociedade; por outro, adota uma política de conciliação com o governo e a classe intelectual. Observando essa política, percebe-se a falta de inteligência. Portanto, pode-se afirmar que o comunismo não terá sucesso no Japão.
-
-Outro dia, encontrei-me por cerca de uma hora no Hotel Gora com um americano chamado Braden, que veio pesquisar sobre religiões. Ele me perguntou o que eu pensava sobre o comunismo. Respondi que ele se extinguirá em um futuro próximo, e que, portanto, não o considero um problema. Ele ficou chocado. Provavelmente ninguém lhe dissera algo assim. Quando ele perguntou por que se extinguiria, eu expliquei que sua base é o mal. Ele visa apenas o benefício de seu próprio grupo e classe, e não a felicidade de toda a humanidade. Sendo o mal, não há outro destino senão a ruína. Por isso, para mim, não é um problema.
-
-Assim, para saber se algo terá sucesso ou não, basta entender claramente o fundamento dessa ideologia ou questão. Se for algo que verdadeiramente beneficia a humanidade e traz felicidade ao mundo inteiro, certamente terá sucesso. Caso contrário, mesmo que pareça bom por um tempo, fracassará. Julgando por esse critério, não há erro. No entanto, essa lógica simples é de difícil compreensão para a maioria. A causa da falta de inteligência, como sempre digo, é a ingestão indiscriminada de toxinas medicamentosas e a preocupação constante. As toxinas sobem para a cabeça, e a pessoa se torna menos inteligente. A educação e o estudo tentam melhorar a inteligência, e até conseguem, mas, para isso, a pessoa usa a cabeça e ingere remédios, cujas toxinas afetam o cérebro, tornando-o pior.
-
-Por isso, o homem de hoje é bom com argumentos, mas seus argumentos são superficiais. É um método de adquirir conhecimento de fora para dentro. A superfície se desenvolve muito, mas o interior, com as toxinas injetadas na cabeça, se deteriora. Assim, temos muitos seres humanos “espertos por fora, tolos por dentro”.
-
-## Quatro. A Sabedoria Divina (O caso de Meishu-Sama)
-
-### 1. Do Cotidiano de Meishu-Sama
-*(Palestra de 26 de maio de 1952)*
-
-O Príncipe Shotoku era extremamente inteligente. Diz-se que ele conseguia ouvir e compreender oito pessoas falando ao mesmo tempo. Embora isso seja provavelmente um exagero, não há dúvida de que ele era muito inteligente. Eu não me considero especialmente inteligente, mas as pessoas em geral são tão pouco inteligentes que, em comparação, percebo que sou muito bom. Nesse ponto, acho que somos parecidos.
-
-**① Aversão a conversas prolixas**
-
-Esta manhã, comentei isso com o Sr. Fujieda. Eu detesto conversas prolixas. Não suporto que me repitam a mesma coisa várias vezes. Por isso, evito encontrar ou conversar com pessoas prolixas. A razão pela qual uma pessoa é prolixa é que sua própria mente é lenta, e ela precisa ouvir as coisas várias vezes para entender. E, por isso, ela acha que os outros também precisam que se repita tudo muitas vezes. Comigo fazem o mesmo, e eu acabo cedendo. Portanto, pode-se assumir que uma pessoa prolixa não é muito inteligente.
-
-**② Ao fazer compras**
-
-Isso pode soar como autoelogio, mas eu não costumo hesitar. Diante de um problema, raramente, ou quase nunca, fico em dúvida sobre o que fazer. Ao ouvir ou ver algo, decido imediatamente. Por isso, sou rápido para fazer compras. Vou a uma loja de departamentos e aponto: “isto e isto”. Minha esposa, depois de revirar inúmeros outros produtos, acaba escolhendo o que eu indiquei no início. Isso acontece com frequência. Recentemente, adquiri uma obra de Yushō, que também é um Tesouro Nacional, e que será exibida no museu...
-
-**③ A aquisição de obras de arte**
-
-Recebi um aviso de que seis biombos estavam guardados no Museu de Quioto e me convidaram para vê-los e, quem sabe, comprá-los. No ano passado, quando fui a Quioto, pedi que os abrissem no museu. De cada par, pedi que abrissem apenas um. Para mim, é o suficiente. Peço para abrirem uma ou duas folhas. Para ver um biombo de seis folhas, levei cinco minutos. E decidi a compra. Não levou mais que cinco minutos. E voltei. Eu mesmo me acho rápido.
-
-**④ Arquitetura, design e paisagismo**
-
-Sendo assim, seja na construção do museu ou na criação dos jardins, não há hesitação. Não fico pensando “o que devo fazer, como devo fazer?”. Eu sei imediatamente. Por isso, às vezes, as outras pessoas não conseguem acompanhar. E não só não acompanham, como interpretam que, por eu ter decidido tão rápido, não devo ter pensado o suficiente. Sou muito rápido. E ser rápido significa ser inteligente. Do meu ponto de vista, os outros é que são lentos. E, por eu poder trabalhar rápido, consigo fazer muitas coisas.
-
-**⑤ A supervisão da construção do Zuiunkyō**
-
-Em Hakone, o trabalho prossegue assim. Em Atami, tento ouvir os relatórios tanto quanto possível e vou lá cerca de uma vez por mês. E isso é o suficiente. Ao ouvir os relatórios, consigo ter uma boa ideia de como as coisas estão.
-
-**⑥ Escrita**
-
-E assim, escrevo meus artigos, e leio todos os testemunhos de fé para os jornais e revistas. Leio-os e peço para esta pessoa aqui ler em voz alta para mim. Faço algumas correções, adiciono algumas frases. E também componho poemas – poemas são fáceis, consigo fazer uns cinquenta em uma hora. O mais difícil são as sátiras curtas. Elas precisam fazer rir. Tenho que atingir o ponto vital com precisão, fazer a pessoa pensar “ah, é verdade” e rir. Isso é o mais difícil. O resto não tem segredo.
-
-### 2. A Sabedoria Divina em Meishu-Sama
-
-**① Definição básica (A sabedoria que aflora naturalmente)**
-*(Palestra de 5 de março de 1954)*
-
-Quando se fala em “poder intelectual”, as pessoas imaginam algo como o pensamento humano, mas não é o caso. Objetivamente, pode parecer poder intelectual, mas, para mim, não há poder intelectual algum, pois eu não penso. Simplesmente, quando chego a um lugar, as ideias surgem, uma após a outra. Dizer que “afloram” ainda é uma forma indireta de explicar. Eu simplesmente sei. Portanto, não é realmente poder intelectual; é poder divino. Sendo assim, é inexplicável. Em suma, é um poder misterioso. É o que Kannon chama de “Myōchiryoku”, o poder da sabedoria sutil. Poder misterioso, poder da sabedoria sutil... de fato, é uma sabedoria sutil. Se não fosse, seria impossível realizar tanto em tão pouco tempo.
-
-**② Relacionado à escrita de seus artigos**
-*(Orientação de 1º de dezembro de 1952)*
-
-Estou sempre escrevendo artigos. No início, na época do jornal “Hikari”, Kinchika e mais uma pessoa comentaram que, normalmente, depois de trinta edições, as ideias se esgotam, e era raro alguém que não ficasse sem assunto. Naquela época, estávamos na quinquagésima edição; hoje, estamos na 184ª. As ideias continuam a surgir, uma após a outra. E por quê? Porque o mundo está tão cheio de falhas que o material é inesgotável. Assim, percebe-se quão grande é a quantidade de equívocos existentes.
-
-*“Mestre, quando o senhor escreve, o senhor pensa sobre o tema?”*
-
-Longe de pensar, as ideias vêm uma atrás da outra, a ponto de ser um problema. Portanto, não há o ato de pensar. Mesmo no caso das construções, quase nunca penso sobre o que fazer, como fazer, qual seria a melhor forma. Quando chega o momento, a ideia simplesmente surge na minha mente. Ao ir para o “Paraíso Terrestre”, o que fazer aqui e ali me vem à mente instantaneamente. Se reflito um pouco e não encontro a resposta, eu simplesmente paro. É muito rápido. Neste momento, o Salão Messiânico já está pronto na minha cabeça, até o padrão das cortinas. Apenas, dependendo do momento, se penso sobre o que fazer em um determinado lugar e a ideia não vem, eu deixo como está. Quando o tempo certo chega, a ideia aflora.
-
-**③ Uma vez decidida a diretriz, o projeto geral surge na mente**
-*(Palestra do Grande Culto da Primavera, 27 de março de 1952)*
-
-Mudando de assunto, o Shinsenkyō é um modelo do Paraíso Terrestre. Foi construído com esse objetivo. Na verdade, precisamos de uma Sede. Para construí-la, há um terreno de cerca de dez mil tsubo [aprox. 33.000 m²] à esquerda, depois de passar o teleférico, onde há muitas azaleias plantadas. Eu o adquiri há três ou quatro anos. Comprei-o com essa intenção. Naquela época, era muito barato. É uma montanha suave e agradável, com o formato de uma tigela virada para baixo. De ambos os lados, correm riachos. E atrás, há um bosque de cedros. Ali, um palácio de alvenaria branca. A paisagem será de uma beleza indescritível. Uma casa branca em frente a uma floresta verde. E a arquitetura será de um estilo completamente diferente do Salão Messiânico de Atami. Quando vou fazer algo, o projeto se forma na minha cabeça muito antes. Pode parecer lento, mas, em compensação, tenho uma visão muito clara do resultado.
-
-**④ Quando o tempo chega, os detalhes do projeto afloram (Relação com a preparação divina no Mundo Espiritual)**
-*(Palestra de 27 de dezembro de 1953)*
-
-Dei várias orientações sobre o terreno onde o Museu de Arte está sendo construído, e foi muito simples. Fui lá duas vezes, por trinta minutos ou uma hora cada vez, e dei todas as diretrizes. Quanto ao caminho, quando estiver pronto, vocês verão, mas era um lugar bastante difícil. No entanto, ao ir lá, vi que o terreno já tinha a forma natural para isso. Deus já havia preparado tudo há muito tempo. Por isso, todos se espantam e perguntam como um caminho tão esplêndido pôde ser feito ali, mas é que a topografia já era assim. Foi simples.
-
-Como foi lido agora, até mesmo a altura do teto... ao olhar, a altura ideal simplesmente me veio à mente. Não foi nada de especial, era como se já estivesse decidido. Nem alto, nem baixo. As colunas, nem grossas, nem finas... a medida certa simplesmente apareceu. E o corrimão da escada, seu formato é único. Quando me perguntaram como deveria ser, eu não tinha a menor ideia, nem havia pensado nisso. Mas, ao chegar lá, a forma surgiu, e foi assim que foi feito. O trabalho de Deus é sempre muito fácil e não requer muito esforço. Aquele corrimão é extremamente simples. Deve ser o mais barato de se fazer. No entanto, seu formato é muito interessante e tem sido muito elogiado. É algo que só pode ser descrito como maravilhoso.
-
-Mas as ideias só surgem no momento certo. Não adianta pedir o projeto com antecedência. Se eu penso sobre algo e a ideia não vem, eu simplesmente paro. Em compensação, quando o tempo chega, tudo se torna claro. Nisso também, como diz o ditado “Deus é ordem”, há uma ordem precisa. O mesmo acontece com os terrenos. Por mais que eu queira um terreno vizinho, não consigo adquiri-lo. É porque, naquele momento, não é necessário. Mas, quando se torna necessário, a outra parte vem me oferecer a compra. É muito interessante. Consigo ter uma ideia geral das coisas com antecedência, mas os detalhes mais concretos só surgem no momento certo.
-
-Assim, só com a conclusão do Salão e do mirante neste outono, o mundo já ficará bastante surpreso. O mirante também ficou consideravelmente maior do que o planejado inicialmente. Quando for inaugurado, acredito que muitas pessoas virão.
-
-### 3. Ken Shin-Jitsu (Ver a Verdade)
-
-### 1. O que é Ver a Verdade
-
-**① *(A Porta do Mistério foi Aberta, agosto de 1949)***
-
-Até hoje, a religião, a filosofia, a educação, o pensamento e todas as outras áreas do conhecimento não conseguiam ir além de uma certa interpretação de todas as coisas, sendo incapazes de tocar o cerne mais profundo da verdade. Diz-se que Sidarta Gautama, aos 72 anos, e Nichiren, com mais de 50, alcançaram o estado de “Ken Shin-Jitsu”, ou seja, “Ver a Verdade”. Ver a Verdade significa ter tocado esse cerne do qual falei. O que se tornou claro para Sidarta foi a extinção da Lei Búdica e a vinda de Maitreya. Para Nichiren, foi o advento do Bodhisattva Jōgyō 650 anos depois, inaugurando uma era de virtude. Cristo não usou a expressão “Ver a Verdade”, mas suas palavras “O Reino dos Céus está próximo” e a profecia de seu retorno não poderiam ter sido proferidas sem esse estado de consciência. Podemos imaginar que, ao longo da história, existiram outros santos que, mesmo sem atingir plenamente o estado de Ver a Verdade, chegaram perto dele.
-
-Para explicar de forma simples, Ver a Verdade é como subir ao topo de uma pirâmide. Do cume, ao olhar para baixo, quanto mais alto se está, mais amplo é o campo de visão e mais se pode ver.
-
-Aqui, não posso deixar de falar sobre mim. Eu, aos 45 anos, alcancei o estado de Ver a Verdade. Uma vez nesse estado, tudo, do passado ao futuro, se torna claro. Naturalmente, todos os erros do passado vêm à tona, e o mundo futuro, bem como a condição humana daquela época, podem ser vistos com clareza. Contudo, não posso revelar tudo o que sei agora, pois Satanás, Devadatta e os fariseus ainda continuam a me obstruir. Por isso, sou forçado a revelar apenas uma parte, e não nego a aflição de não poder ser totalmente explícito, mas isso é inevitável do ponto de vista do Plano Divino. No entanto, mesmo o que revelei até agora já demonstra uma diferença abissal em relação ao que foi dito por meus predecessores, como devem ter percebido aqueles que leem meus escritos.
-
-**② *(Palestra de 23 de julho de 1949)***
-
-Na sua essência, trata-se do “Despertar”. À medida que se aprofunda a compreensão da fé, o poder espiritual também se fortalece. Claro que essa profundidade é infinita. É como uma pirâmide. (Mostra com dois cigarros o formato de um triângulo). Este nível aqui é o das pessoas comuns em suas atividades diárias. Neste nível, já se adquire uma posição espiritual, e o poder espiritual é muito diferente. Deste ponto para cima, já se compreende o mistério, e alcança-se o estado de “Ver a Verdade”. O topo é o Deus Supremo, e nesse ponto, não há nada que não se saiba. Buda estava mais ou menos por aqui. Ninguém ainda subiu até o topo...
-
-### 2. Sobre a Descoberta da Transição da Noite para o Dia
-*(Palestra de 25 de dezembro de 1953)*
-
-O universo funciona assim. Assim como há a distinção entre noite e dia, tudo é determinado por ciclos: de um ano, dez anos, cem anos, mil anos, dez mil anos. A era do Dia que se inicia agora ocorre após três mil anos. O universo é um mistério infinito, algo que as palavras não conseguem expressar. E, embora seja eterno, dentro dessa eternidade, ocorrem mudanças em ciclos maiores e menores. Desta vez, a transição para o Dia ocorre após três mil anos. Um ciclo completo leva três mil anos. E três mil anos podem ser considerados uma eternidade. Pode parecer pouco, mas é muito mais longo que a vida de um indivíduo. Durante esses três mil anos, renascemos e morremos inúmeras vezes. Portanto, a mudança atual é uma grande mudança, algo que não ocorre desde os tempos de nossos ancestrais. As pessoas que nasceram nesta época e participam deste trabalho são imensamente afortunadas.
-
-Por ser uma mudança tão grandiosa, é difícil de ser compreendida. Mas, ao ouvir a explicação, pode-se entender que, de fato, algo assim é possível. O que falo não é filosofia nem religião, é algo novo. Se fosse para classificar, seria uma espécie de filosofia da religião. E conhecer isso é alcançar o despertar. Contudo, o despertar do passado só ia até certo ponto... Aqueles que compreenderam isso de forma vaga foram Cristo e Buda. O fato de Buda ter dito que “virá uma era de extinção da Lei Búdica” só foi possível porque ele compreendeu até certo ponto. E as palavras de Cristo, “O Reino dos Céus está próximo”, também indicam uma compreensão parcial. No entanto, eles não compreenderam tanto quanto eu. Se tivessem compreendido, teriam manifestado milagres e um poder muito maior naquela época.
-
-A Sekai Kyuseikyo, vista pela ótica convencional, pode parecer muito difícil. Mas, quando se compreende, torna-se muito mais clara que as religiões do passado. Isso porque se compreende a sua base. Parece difícil, mas é muito simples. É como curar doenças. Um caso que os médicos consideram insolúvel, nós curamos com um simples gesto. A lógica é a mesma. A dificuldade reside na enorme diferença entre os dois paradigmas.
-
----
-
-# O Agrupamento dos Bons (I)
-
-**Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## O Agrupamento dos Bons (I)
-
-Quando desembarquei na estação de Numazu, a penumbra já se adensava. Convidei Tie para entrarmos no Momotyu-ken, em frente à estação. Enquanto cortava um bife, Tie comentou:
-— Aquele monge, Genkai, foi seu colega no primário, não é mesmo?
-— Sim. E também no ginásio. Depois, fomos para Tóquio. Genkai ingressou na universidade para monges, enquanto eu era um estudante negligente de Letras Francesas, mal conseguindo ler o idioma. Naquela época, raramente nos encontrávamos. Mais tarde, ele retornou a Shizuoka para assumir a função de sacerdote principal de um templo. Veio para Numazu há uns dois ou três anos.
-— Dizem que ele é um monge um tanto peculiar.
-— De fato, é bastante peculiar — respondi, rindo. — Sua especialidade é o Zen-Budismo, mas ele é como o dono de um armazém; interessa-se por tudo. Aprecia tanto o “Namu Myoho Renge Kyo” quanto o “Amém”. Chega a dizer, entre gargalhadas, que prefere o mestre Honen ao mestre Dogen. Também tem noções de Xintoísmo e de Tenrikyo. Embora afirme detestar as novas religiões, parece que as estuda às escondidas.
-— Ele conhece a Sekaikyuseikyou?
-— Outro dia, quando mencionei o assunto, ele me cortou, dizendo: “Deixe isso para lá, não perca tempo com essas coisas”. No entanto, parece que já fez sua própria pesquisa sobre o Fundador, pois chegou a elogiá-lo, afirmando que “o que há de notável em Mokiti Okada é a sua pureza de coração ilimitada”.
-— Gostaria de conhecê-lo um dia — disse Tie, ao terminar seu café.
-— Ah, vá vê-lo, mas esteja preparada. Se ficar em silêncio, não se sabe qual sermão ele começará a proferir. Certa vez, sem que eu pedisse absolutamente nada, fui submetido a uma preleção ininterrupta de duas horas sobre o Tannisho. Foi uma provação. Mesmo que eu dissesse que já era o bastante, ele não parava de jeito nenhum.
-— Tannisho? Mas isso não é da escola Jodo Shinshu? — indagou Tie, com uma expressão confusa.
-— Exatamente. E o mais curioso é que, sem que eu fizesse qualquer pergunta, ele começou abruptamente: “Acreditando que seremos salvos pelo misterioso juramento de Amida e alcançaremos o renascimento na Terra Pura, no momento em que surge em nosso coração o desejo de entoar o Nembutsu, nesse exato instante já somos agraciados com o benefício de sermos acolhidos sem jamais sermos abandonados”. E ele dissertou sobre essa única passagem por duas horas. Qualquer um ficaria exausto.
-— Então, é preciso ir com um bom preparo de espírito para encontrá-lo — concluiu Tie, com um ar sério.
-— E houve outra ocasião. Do nada, ele me disse: “Cristo é um sujeito detestável; ele simplesmente castrou o Deus do Antigo Testamento”.
-— E qual a explicação para isso?
-— Em suma, segundo Genkai, o Deus do Antigo Testamento é um Deus de ira e de vingança, mas Cristo O transformou em um Deus enfraquecido e efeminado.
-— Não compreendo bem, mas também acho o Antigo Testamento mais interessante.
-— Concordo. Se eu fosse exilado em uma ilha deserta e pudesse levar apenas um dos dois, certamente deixaria o Novo Testamento para trás.
-— Pela primeira vez, chegamos a um consenso — disse Tie, sorrindo.
-No ponto de ônibus em frente à estação, despedi-me de Tie.
-
-## (II)
-
-Anunciei minha chegada, e Genkai veio me receber.
-— Olá! Que bom que veio. Chegou em ótima hora, um velho amigo seu também está aqui.
-Ao entrar no cômodo, vi um homem de testa calva e olhos salientes, sentado de pernas cruzadas.
-— É Tomita Seifu. Tornou-se pintor — apresentou Genkai.
-Contudo, eu não o reconheci. Não me recordava de ter tido um amigo com tal fisionomia.
-— Perdoe-me, mas já nos encontramos antes? — perguntei polidamente.
-O pintor, Seifu, também inclinava a cabeça, confuso. Vendo a cena, Genkai soltou uma gargalhada alta e divertida.
-— Francamente! Como pode alguém se esquecer de um colega de primário? Vamos, lembra-se daquele valentão da nossa turma mista? É o Tomita. Tomita Ichiro.
-Então, a lembrança me veio à mente. Claro, aquele Tomita. Eu também havia sofrido bastante com suas intimidações.
-Nesse momento, Tomita Seifu também pareceu se recordar.
-— Ora, Genkai! Que brincadeira de mau gosto. Poderia ter dito logo quem era.
-Eu havia ouvido dizer que esse Tomita fora para os Estados Unidos logo após terminar o ginásio. Também me disseram que agora vivia no Havaí. Quando teria retornado?
-— Tomita é um sujeito astuto. Juntou um bom dinheiro lavando pratos na América. Casou-se com a filha de um homem rico, de segunda geração japonesa, e mudou-se para o Havaí. Deixou a esposa administrando um salão de beleza e passou a viver tranquilamente, dedicando-se à sua paixão, a pintura. Claro, ele me contou que passou um grande susto durante o ataque a Pearl Harbor.
-Assim, Genkai resumiu habilmente a trajetória de Tomita.
-Eu, por minha vez, contei que havia tido uma editora em Tóquio, mas que a guerra destruíra tudo, forçando-me a refugiar-me em Shizuoka. Atualmente, para sobreviver, eu me dedicava a uma espécie de arremedo de romancista.
-— Nossos caminhos foram distintos e nossos estilos de vida hoje são diferentes, mas, no fim das contas, somos homens afortunados — murmurou Genkai, com um tom pensativo.
-— E isso se deve ao fato de sermos todos homens de bem. Ser uma pessoa boa e ser uma pessoa feliz são, na verdade, uma e a mesma coisa — afirmou Tomita.
-— É verdade. Este aqui também é um homem de bem — disse Genkai, apontando para mim com o queixo. — É por ser tão bom que se deixa ludibriar por essas novas religiões.
-— Calma lá! Por mais que sejamos velhos amigos, não fale de forma tão direta na frente de um homem que não vejo há trinta anos. Ele pode levar a sério — retruquei, fingindo irritação.
-— O que é essa história de nova religião? — perguntou-me Tomita.
-— Nas proximidades, fica a sede da Sekaikyuseikyou. Por uma estranha providência do destino, estou estudando seus ensinamentos — respondi, com seriedade.
-Tomita Seifu então bateu no joelho e exclamou:
-— Eu conheço! A Sekaikyuseikyou tem fiéis até no Havaí. Tive contato com vários deles.
-
-## (III)
-
-O Havaí da eterna primavera.
-Em noites de luar, os jovens se reúnem nas praias de Waikiki, sob a sombra dos coqueiros, para tocar violão, enquanto as moças soltam a voz em canções. O mar é azul, o céu também, e a vida é aprazível.
-Por que, então, buscariam eles a religião? Vivendo em um país cristão, por que adeririam à fé de uma pequena nação do Extremo Oriente?
-Senti o desejo de perguntar isso a Tomita Seifu.
-— O que dizem esses fiéis da Sekaikyuseikyou com quem você conviveu? — indaguei.
-— Eles afirmam que o Cristianismo foi a mais magnífica das religiões do mundo. Contudo, já não possui o mesmo encanto. Porque Cristo ascendeu aos céus prometendo seu retorno, mas passaram-se dois milênios sem qualquer notícia. Apenas os fiéis, com sua paciência inesgotável, aguardam sua vinda, repetindo incansavelmente “Cristo, Cristo”. É isso que dizem os membros da Sekaikyuseikyou.
-— E o que mais? — incentivei-o a prosseguir.
-— Eles prosseguem: a Sekaikyuseikyou parte do ponto em que o Cristianismo se encerrou. A religião também deveria evoluir. A ciência, a arte, a política e a economia se esforçam constantemente para superar o presente. Por que apenas a religião encara o progresso como uma forma de degeneração? Cristo disse “o Reino do Céu está próximo” e partiu para além das nuvens. Nós aguardamos, já impacientes, a concretização desse Reino. Em um momento como este, se alguém nos apontasse o dedo e dissesse “o Paraíso está ali”, quem não desejaria segui-lo? Foi o que me disse um dos fiéis no Havaí.
-— Qual a diferença entre o ensinamento de Cristo, de que “o Reino de Deus está dentro de vós”, e o da Sekaikyuseikyou, que afirma “o Paraíso está aqui, basta olhar bem”? — provoquei, de propósito.
-— Bem, não sou fiel, então não sei ao certo. Mas o meu amigo fiel deu uma resposta surpreendente. Ele disse: “No instante em que guardei junto ao peito um ideograma caligrafado pelo Fundador, um milagre se manifestou. O Paraíso estava, de fato, aqui”. E sorriu, radiante.
-Genkai fez uma expressão de quem dizia: “Ah, é só isso?”.
-A Sekaikyuseikyou parte do ponto em que o Cristianismo se encerrou. O que isso significava, afinal?
-Eu mesmo formulei a pergunta e a resposta.
-“Quando um dos discípulos de Cristo não conseguiu curar uma criança possuída por um espírito maligno, ele perguntou ao Mestre: ‘Por que não consegui expulsá-lo?’. Cristo respondeu: ‘Porque a vossa fé é pequena’. O Fundador da Sekaikyuseikyou, todavia, não diz tal coisa. Ele ensina: ‘Se guardardes junto ao peito a caligrafia que eu escrevi, sereis diretamente conectados a Komyoo Nyorai’. Independentemente de haver fé ou não, milagre é milagre. Por isso, a Sekaikyuseikyou é, antes, uma ciência que uma religião.”
-
-## (IV)
-
-— Ei, deixem que eu fale um pouco também — interveio Genkai.
-— Fale o que quiser. Só peço que não me submeta a um sermão de duas horas sobre o juramento de Amida no Tannisho, como da outra vez — comentei, com malícia.
-— Não seja assim. Pretendo, na verdade, tecer elogios à Sekaikyuseikyou.
-E, dizendo isso, Genkai começou a discorrer:
-— O politeísmo japonês, sob a influência da Índia e da China, foi adquirindo gradualmente uma tendência panteísta, mas nunca chegou a perder seu caráter fundamentalmente monoteísta. Isso porque os deuses do Japão são extremamente personalistas. E, enquanto se enfatiza essa natureza personalista, não há como se tornar uma religião panteísta. Contudo, embora se afirme que existe um único Deus fundamental entre os oito milhões de deuses, foram os estudiosos nacionalistas, a partir de Kamo no Mabuchi e Motoori Norinaga, que determinaram ser Ele Amenominakanushi-no-Mikoto. Antes disso, a questão era vaga, e as antigas escrituras não a esclareciam. Nesse ponto, a Sekaikyuseikyou é excelente. Independentemente do que digam, o Deus Supremo é o Deus Supremo. E, abaixo Dele, existem inúmeros espíritos divinos e também inúmeros espíritos malignos. Até agora, a força dos espíritos malignos prevaleceu, mas, de agora em diante, a força dos espíritos divinos se tornará preponderante. Não é preciso esperar pela vida após a morte; a própria Terra se tornará o Paraíso. E, se você não viver até lá, vá ao Mundo Espiritual, purifique sua alma maculada e retorne. De qualquer forma, a Sekaikyuseikyou é clara e estimulante.
-Fiquei atônito. Não imaginava que Genkai tivesse pesquisado a Sekaikyuseikyou com tamanha profundidade. Pensei que era um desperdício mantê-lo naquele pequeno e antigo templo, dedicando-se apenas a oficiar cerimônias fúnebres.
-Tomita Seifu, que ouvia enquanto fumava, acrescentou:
-— Minha família segue a Tenrikyo desde a geração do meu avô. Fui criado sob o ensinamento de que o Deus-Pai é Tenri-O-no-Mikoto. Ainda hoje, ao ler a primeira frase das escrituras da Tenrikyo, sinto meu corpo estremecer. Querem que eu a recite? “Eu sou o Deus da Origem, o Deus Verdadeiro. Há um laço predestinado com esta residência. Desta vez, desci a este mundo para salvar toda a humanidade. Desejo receber Miki como santuário de Deus.” Li essa passagem centenas de vezes e, a cada leitura, reflito sobre o assombro que Nakayama Miki deve ter sentido no dia em que ouviu essa voz celestial. Creio que ela tenha ficado à beira de um desmaio.
-— E o que quer dizer com isso? — perguntou Genkai.
-— Nada, na verdade. Apenas queria expressar o seguinte: a fé é assombro — respondeu Tomita, serenamente.
-— Exato. O assombro é a própria essência da fé — concordou Genkai, sem hesitar.
-— Na Sekaikyuseikyou, os milagres são frequentes — eu disse. — Há o caso de uma camponesa que segurou um fio de cem volts que pendia sobre um arrozal e não morreu. Na água, a voltagem triplica, o que significa que uma corrente de trezentos volts atravessou seu corpo. Há o jovem que foi arremessado de um trem em movimento para debaixo de uma ponte férrea e não sofreu um único arranhão. E há inúmeros fiéis que, mesmo tendo recebido o batismo da bomba atômica, nove anos depois, vivem sem qualquer sequela. Uma religião como esta jamais existiu.
-
-## (V)
-
-Então, Tomita Seifu nos contou a seguinte história:
-— Falando nisso, algo curioso aconteceu no Havaí. Entre as clientes do salão de beleza administrado por minha esposa, havia a mulher de um empresário. Essa senhora era fiel da Sekaikyuseikyou e me pediu que pintasse uma imagem de Kannon (観世音菩薩). Eu não tinha muita confiança em minhas pinturas de temática budista, mas a executei com toda a dedicação. A senhora mandou emoldurá-la em um quadro longo e estreito e, como sua casa era de estilo ocidental e não possuía um tokonoma, pendurou-a na parede da sala de visitas, reverenciando-a dia e noite. Algum tempo depois, ao vir ao salão para fazer um permanente, ela disse à minha esposa que aquela imagem de Kannon estava viva e que, por vezes, exibia um sorriso etéreo e sutil. Naturalmente, eu desdenhei da história. Já tinha ouvido a lenda do jovem Sesshu que, repreendido por um monge, desenhou um rato no chão com suas lágrimas e o viu ganhar vida, mas disse à minha esposa que, se a Kannon que um pintor medíocre como eu desenhou sorrisse, uma baleia-do-ártico apareceria na praia de Waikiki. Tempos depois, essa senhora sofreu um grave acidente de carro, mas, felizmente, sobreviveu. Contudo, ao examinar a pintura, notou que a região do ombro da Kannon estava rasgada, como se tivesse sido cortada por uma navalha. Ninguém teria feito tal maldade, e a senhora agradeceu, convicta de que Kannon-Sama atuara como sua substituta. O que se pode concluir de um fato como este? Tenho certeza de que meu pincel não possui tal poder. Mas será que, mesmo sendo uma imagem imperfeita, quando um fiel devoto a reverencia diariamente, surge entre a imagem e o fiel alguma força de influência mútua?
-Bebi um gole de chá amargo e respondi com firmeza:
-— Sim, essa força existe. Na Sekaikyuseikyou, chamamos de linha espiritual. Ensinamos que o poder espiritual que une os seres humanos, como nos laços entre pais e filhos ou entre marido e mulher, também interage com objetos inanimados. Por exemplo, afirma-se que a atividade da linha espiritual se manifesta nos objetos de estimação de uma pessoa, na casa em que ela vive, nas roupas que veste.
-— Nesse caso, não seria estranho que minha modesta pintura budista, ao ser reverenciada dia e noite por aquela senhora, começasse a manifestar a atividade da linha espiritual — disse Tomita, com um ar de admiração.
-Ao que Genkai interveio:
-— Isso eu também consigo compreender. Na véspera do ataque, Akagaki Genzo foi se despedir de seu irmão mais velho, mas não o encontrou. Então, pendurou o haori do irmão na parede, colocou uma garrafa de saquê diante dele e fez sua despedida eterna. Não quero pensar naquele haori como uma simples peça de vestuário. Portanto, embora eu não goste do nome “linha espiritual” ou algo do gênero, concordo com a ideia de reconhecer uma interação que não distingue entre seres vivos e inanimados.
-A noite avançava. O vento começava a soprar.
-Da sua sala, Genkai perguntou à senhora idosa que cuidava da cozinha:
-— A água do banho ainda não esfriou?
-— Não, senhor. Não esfriou nem um pouquinho — respondeu a velha, com voz sonolenta.
-
-## (VI)
-
-— Então, pode ir tomar seu banho. Nós já tomamos o nosso — disse Genkai.
-— Convidar-me para um banho a esta hora significa que devo pernoitar, não é? — comentei, com um ar malicioso.
-— É claro! O monge Genkai não seria tão insensível a ponto de mandá-lo embora a esta hora da noite — respondeu ele, estufando o peito.
-— É essa compaixão que o torna digno de servir a Buda. Afinal, depois de cruzar os oito ri de Hakone e ouvir a conversa de vocês, estou exausto de corpo e alma — retruquei.
-— Veio de ônibus e trem, que travessia é essa?
-— Ah, ah, ah! É verdade. Cansaço de viagem.
-Rindo, levantei-me.
-A tina de banho ficava em um canto do piso de terra batida, contíguo à cozinha. Mergulhei nela, recordando as pessoas com quem passara o dia.
-A lua já se inclinava no horizonte. Do lado de fora da janela, ouvia-se o cricrilar dos insetos.
-“São todos pessoas de bem. O Dr. Yuasa, a quem encontrei pela primeira vez; Yoko, a quem não via há sete anos; e também Tie. Será que o Dr. Yuasa já chegou em casa? Yoko já estará dormindo? Ao nos despedirmos, ela disse que me escreveria. O que será que vai contar? Disse que estava separada do marido. Como pode uma mulher tão boa ser infeliz? E aquele menino travesso do primário, a quem encontrei aqui por acaso — agora o pintor Tomita Seifu, com os cabelos já rareando. E o monge Genkai, ao mesmo tempo irritante e cativante. São todos pessoas de bem. Se o número de pessoas boas como eles aumentar, ainda que seja apenas uma, o mundo se tornará mais feliz. Pensar que uma ou duas pessoas a mais não fazem diferença é um cálculo meramente humano. No mundo de Deus, não existe um nem dez. Um é o todo, e dez também é o todo. Quando um espelho se estilhaça em inúmeros fragmentos, cada um deles reflete o Sol por inteiro. Mesmo sendo um fragmento, o Sol lhe concede, sem reservas, a totalidade de sua luz. Não foi Millet, o pintor de ‘O Angelus’, quem disse que, mesmo que nove sejam maus, se o décimo for bom, ele poderá viver com coragem? Mas esse um que resta é, na verdade, o todo. A aritmética de Deus é a aritmética dos bons.”
-Saí do banho e voltei para o quarto. Tomita e Genkai já dormiam, com os futons lado a lado. Apaguei a luz e deitei-me também no leito que me fora preparado.
-O quarto mergulhou em completa escuridão. E, naquela escuridão, pensei na água da represa, que caía com um rugido contínuo. O teto deste quarto está escuro, mas a fonte de energia jamais descansa. Não é preciso pensar em algo tão distante como a fonte de energia. A corrente elétrica chega até o interruptor. O ser humano é livre para negar a Deus. Assim como eu apaguei a luz, pode-se excluí-Lo. Contudo, por mais que O excluamos, Deus está sempre presente, logo acima de nós. A represa continua a operar com seu rugido incessante...
-Com a mente desperta, o sono tardava a chegar.
-Tomita e Genkai dormiam, respirando tranquilamente.
-
-## (VII)
-
-Na manhã seguinte, enquanto tomávamos a sopa de missô, Tomita disse:
-— Tornamo-nos progressivamente humildes.
-— O que quer dizer com isso? — perguntou Genkai, pegando um pedaço de conserva de nabo.
-— Imagine se a torneira da pia dissesse à mangueira de um carro de bombeiros: “É impossível jorrar água a dez ou doze metros de altura”. Não seria cômico? Agora, imagine se essa mesma mangueira dissesse a uma bomba de hidrogênio: “É impossível que a água do Pacífico seja arremessada a três ou quatro mil metros de altura”. Não acha que isso também seria igualmente cômico? — explicou Tomita, com serenidade.
-— Eu tive uma experiência semelhante. Fiquei impressionado com a altura imponente do Monte Fuji visto da estação de Ashigara, na linha Gotemba. Mas, ao chegar ao passo de Ashigara, tive a sensação assustadora de que a montanha desabaria sobre mim. É a mesma coisa — comentei, olhando para Genkai.
-Então, Genkai dirigiu-se a Tomita com um sorriso maroto:
-— Gostaria que falasse de forma mais concreta. Não estou entendendo bem.
-— Na verdade, eu estava pensando em pintura. Quando jovem, eu menosprezava artistas como Tomioka Tessai. No entanto, acabei tendo que me curvar à sua grandeza. Eu, como pessoa, tornei-me humilde. É verdade que o próprio Tessai se tornou cada vez mais extraordinário com o passar dos anos... — respondeu Tomita.
-— Se não me engano, ele faleceu aos oitenta e nove anos — acrescentei.
-— Eu também gosto de Tessai. Há uma afinidade entre a arte daquele homem e o nosso ofício. É a forma que transcende a forma, a lei que está acima da lei — disse Genkai, pousando os hashis em sinal de concordância.
-— Outro dia, Mokiti Okada disse algo parecido — comentei com Genkai.
-— Ouvi dizer que o senhor Okada é um especialista em pintura, não é? — perguntou-me Genkai.
-— Hoje ele não pinta mais, mas seu olhar para a arte é notável. Parece que gosta de pintura desde criança. Contou-me que, na juventude, frequentou brevemente uma escola de inglês, mas escondia um livro de arte debaixo do livro de leitura e passava o tempo todo a olhá-lo. O professor o descobriu e disse: “Você deveria largar a escola de inglês e ir para uma escola de belas-artes”. Ele mesmo me contou essa história, rindo.
-— De que pintores ele gosta? — quis saber Tomita.
-— Aparentemente, admira muito Ogata Korin. Ele o elogiava, dizendo que é raro encontrar outro pintor que, com pinceladas tão simplificadas, consiga captar a essência das coisas. Dizia também que os grandes mestres da era moderna foram provavelmente Kano Hogai e Hashimoto Gaho. Ele aprecia também o ukiyo-e; lembro-me de ele ter citado os nomes de Moronobu, Harunobu e Utamaro.
-— Na escola Korin, há um pintor chamado Kenzan. Gosto muito dele — disse Tomita, em voz baixa.
-— Ah, eu também gosto muito de Kenzan. Gosto de sua pintura e de sua pessoa. “Passados os dissabores e as amarguras, resta apenas o sonho do alvorecer e do crepúsculo...” Este é um poema de Kenzan — recitei.
-— Apenas o sonho do alvorecer e do crepúsculo... É a mais pura verdade — murmurou Genkai, pensativo.
-
-## (VIII)
-
-Após o desjejum, Genkai propôs:
-— Três moleques dos tempos de escola se reencontraram depois de décadas. Que tal um passeio de barco no rio Kano?
-Do templo Shunjuji até o rio Kano, eram cinco minutos de caminhada tranquila.
-Os três saíram. Ao cruzar o portão do templo, lembrei-me de que, na minha última visita, as cerejeiras ainda estavam apenas parcialmente floridas. Agora, suas folhas verdes balançavam ao sabor da brisa matinal da montanha.
-Chegamos à margem do rio Kano e alugamos um barco a remo.
-— Quem vai remar? — perguntei, já me abstendo dos remos.
-— O que está dizendo? Fui remador no ginásio! — respondeu Genkai, com ar de superioridade.
-— Se fosse para surfar em uma canoa, eu seria bom nisso. Pratiquei muito no Havaí — disse Tomita, rindo.
-O barco, com os três a bordo, avançou para o meio do rio cintilante. Vistas do barco, as montanhas pareciam mais altas e ainda mais belas.
-— Como é bom... — comentei, sem me dirigir a ninguém em particular.
-“Como é bom... A Natureza é boa. É boa porque tem vida. A cultura atual está tornando o ser humano feliz? Sob o jugo da matéria, o espírito agoniza. Nela, não há alegria de viver. Há a sombra da morte. O odor da morte. O ser humano, que tanto exaltou a cultura material, hoje treme diante do terror da bomba de hidrogênio. O destino do homem, prestes a ser aniquilado pelo robô que ele mesmo criou. Isso não é motivo para riso. É preciso reintroduzir a Natureza na política, na economia, na educação e na arte. O homem não pode se asfixiar em um quarto de janelas fechadas. É preciso criar uma cultura transbordante de vida. E a religião deve ser a criadora dessa cultura. O Cristianismo, o Budismo, o Islamismo, o Hinduísmo e todas as outras religiões pregaram, até hoje, a salvação do espírito humano. E continuam a pregar. Mas os sermões já não são suficientes. A atmosfera do espírito humano está completamente poluída. Assim como a radioatividade da bomba de lítio poluiu a atmosfera que envolve a Terra. Se os sermões não bastam, o que é mais necessário? O poder. O poder do milagre. Uma religião que possua o poder do milagre deve, por meio desse poder, converter a cultura infernal em uma cultura paradisíaca. Uma religião capaz não apenas de anunciar ‘o Reino do Céu está próximo’, mas de apresentar a realidade concreta e dizer: ‘Isto é o Reino do Céu’. Uma religião do poder, do milagre, do concreto.”
-Quando me dei conta, o barco já havia descido o rio e se aproximava da foz. A montanha Ushi-buse se erguia, imponente, diante de nós.
-Genkai manejava os remos enquanto conversava com Tomita.
-Eu, novamente, mergulhei em pensamentos.
-“Um milionário americano, em sua sala de jantar com lustres reluzentes, acha sem graça a comida suntuosa preparada pelo cozinheiro. Então, sobe a montanha de carro, junta gravetos e assa sua própria carne. Ele a rasga com as mãos, sem usar faca ou garfo, e a come, quase queimando os dedos. E, dizendo ‘ah, que delícia’, volta para o mundo lá embaixo. Longe da Natureza, o homem não pode viver. E essa é a verdade.”
-
-## (IX)
-
-Eu estava imerso nesses pensamentos quando a voz aguda de Genkai me atingiu os ouvidos:
-— É uma emergência! É uma emergência!
-O rosto enorme de Genkai surgiu diante dos meus olhos, que até então contemplavam apenas a encosta verdejante da montanha.
-Tomita também se ergueu no meio do barco e gritou:
-— Alguém caiu na água!
-Virei-me. No ponto onde a água do mar refluía e se misturava com a do rio, formando um redemoinho, algo escuro flutuava e afundava intermitentemente. Senti meu rosto empalidecer. Mas, naquele instante, Genkai já havia entregado os remos a Tomita e, vestido apenas com camisa e calça, mergulhou de um só ímpeto no rio.
-A mancha escura ora emergia, ora submergia, parecendo ser tragada pelo vórtice.
-Genkai nadava em linha reta em sua direção.
-Eu e Tomita observávamos, com o fôlego suspenso.
-Dez metros, cinco metros... Pouco antes de alcançá-la, a mancha escura desapareceu subitamente. E, quase ao mesmo tempo, a figura de Genkai também sumiu.
-Involuntariamente, gritamos: “Ah!”.
-Tomita, preparando-se para ser o segundo a pular, entregou-me os remos e apoiou as mãos na borda do barco.
-Mas não foi preciso.
-Duas formas escuras emergiram do redemoinho, agora unidas. Assim que apareceram, Genkai, abraçando o corpo, começou a nadar com um só braço.
-Soltamos, ao mesmo tempo, um suspiro de alívio.
-Liberto do redemoinho, seu nado tornou-se calmo e regular.
-Quando Genkai se aproximou do barco, estendi-lhe um remo. Ele o agarrou com uma mão, e eu o puxei para perto. Tomita içou a vítima para dentro do barco.
-Era um menino de uns sete anos.
-“Por favor, que ele sobreviva”, pensei.
-Eu precisava voltar ao ancoradouro o mais rápido possível e remava com todas as minhas forças.
-Tomita, com a ajuda de Genkai, aplicava-lhe respiração artificial com total concentração.
-Assim que atracamos, Tomita me disse:
-— Chame um médico!
-Perguntei a Genkai como chegar ao consultório e saí correndo.
-Quando voltei com o médico, o menino já havia recuperado a consciência. A mãe também chegara e, com a voz embargada, massageava as pernas do filho.
-O médico, guardando o estetoscópio na maleta, disse:
-— Ele está fora de perigo.
-Ao ouvir aquilo, senti os olhos marejarem. Genkai e Tomita também estavam com os olhos avermelhados.
-— Eu o vi rolar do barranco — contou Genkai.
-— Que sorte o nosso barco estar por perto naquele exato momento — comentei.
-— Os homens usam muito a palavra “acaso”, mas isso é porque não conseguem compreender bem o conceito de “inevitabilidade”. No dicionário de Deus, a palavra “acaso” decerto não existe — disse Tomita.
-
-## (X)
-
-Após nos despedirmos de Genkai, eu e Tomita Seifu caminhávamos em direção à estação de Numazu. Nossas mentes ainda estavam tomadas pelo incidente com o menino.
-— A mãe dele, que chegou correndo, nos disse: “Eu o avisei para não ir para perto do barranco”. Mas a criança subiu mesmo assim. Tentou colher uma flor na beira e caiu. Felizmente, um barco estava por perto. Mas, se fosse apenas um barco, talvez ele não tivesse sido salvo. Havia Genkai, um nadador experiente. E havia você, com prática em respiração artificial. Mas o mais misterioso é: por que decidimos passear de barco? Se eu não o tivesse encontrado depois de tantos anos, creio que eu e Genkai não teríamos saído para remar logo de manhã. Sendo assim, pode-se dizer que a vida daquela criança já estava salva desde o momento em que, ontem à tarde, voltando de Hakone, decidi passar no templo Shunjuji. Ou melhor: a salvação dela já estava determinada desde que você, ontem de manhã, embarcou no trem de Tóquio para Numazu. As pessoas estão interligadas, e cada uma, por sua vez, conecta-se a outras.
-Foi o que eu disse.
-— A visão de mundo comum a todas as religiões é, provavelmente, a de que todos os seres estão conectados, vertical e horizontalmente. Imagino que a Sekaikyuseikyou também ensine isso... — comentou Tomita.
-— Sim. Nessa religião, isso é explicado pelo símbolo da cruz. A haste vertical representa o espírito, e a horizontal, a matéria. Ensinam que o mundo da Sekaikyuseikyou reside nessa intersecção — respondi.
-— E as pessoas estão conectadas não apenas umas às outras, mas também às coisas?
-— Acredito que sim. Na Sekaikyuseikyou, as coisas não são vistas como meros objetos. A base de tudo é o espírito, que adquire um corpo — uma forma. Tudo é concebido como algo que recebeu um corpo. O princípio é sempre o mesmo: o espírito é o principal, e o corpo, o secundário.
-De pessoa para pessoa, para pessoa...
-Ao pensar na grandiosidade da estrutura do universo, interligada de formas vertical e horizontal tão complexas que superam a imaginação, senti uma vertigem.
-Tomita, que parecia refletir sobre o mesmo, disse, como num suspiro:
-— Felizes são aqueles que podem afirmar com convicção que o universo é composto unicamente de matéria.
-— Em breve, passaremos da civilização demoníaca, que busca aniquilar o homem desintegrando o núcleo atômico, para a civilização divina, que, aplicando o que poderíamos chamar de partícula espiritual que constitui esse mesmo núcleo, trará bem-estar infinito à humanidade. Se isso não acontecer, a raça humana perecerá — repliquei.
-— Não tenho dúvidas de que isso ocorrerá em breve. O ser humano não pode ser tão insensato — disse Tomita, com convicção.
-— De qualquer forma, aquele homem, Genkai, pode ser ríspido ao falar, mas seu coração é de uma bondade imensa — comentei, enquanto nos dirigíamos à bilheteria.
-— É um homem bom. Sempre foi, desde criança.
-Tomita também o disse, com um sorriso terno nos olhos.
-
----
-
-# Publicações Relacionadas
-
-**Categoria:** kanren | **Ano:** 昭和31年 | **Fonte:** 天国の福音
-**Título Original:** - | **Status:** -
-
-## Publicações Relacionadas
-
-**O Roteiro da Felicidade**
-
-Publicado em 15 de outubro de 1956
-Formato A5, 75 páginas
-Edição: Departamento Doutrinário da Igreja Messiânica Mundial
-Publicado por: Omori Chizuru
-Editora: Sede Central da Igreja Messiânica Mundial
-
-Esta obra compila 27 Ensinamentos de Meishu-Sama dedicados ao tema da saúde.
-
-O prefácio desta publicação inclui a "Introdução" e o Ensinamento "O Caminho da Felicidade", ambos extraídos da obra "O Evangelho do Paraíso". Ademais, a coletânea é composta pelos seguintes Ensinamentos: O Homem, um Recipiente de Saúde; Os Equívocos da Medicina; A Verdade sobre a Saúde; O Ser Humano como Recipiente de Saúde; A Saúde Verdadeira e a Saúde Ilusória; yakudoku (薬毒); A Comédia da Nutrição; A Medicina Espiritual Divina como Medicina Democrática; O que se Espera da Medicina; A Edificação do Paraíso por meio da Saúde; O Método para a Criação de Filhos Saudáveis; Os Japoneses e as Doenças Mentais; A Saúde de Bebês e Crianças; O Corpo Humano é um Todo Integrado; A Encefalite Japonesa é Realmente Transmitida por Mosquitos?; O Prejuízo ao Corpo Físico; O Resfriado Adquirido durante o Sono; Disenteria; Devemos Temer as Bactérias?; Exemplos dos Males Causados pela Medicina Moderna (Vacinas); Vacinação Preventiva e Tuberculose; O Destino Pode Ser Livremente Moldado; O Segredo da Felicidade; Existem Deuses e Budas?; Uma Análise das Assim Chamadas Superstições; Basta que a Doença Seja Curada?; Conclusão (com acréscimos ao Ensinamento "O Juízo Final"); e Uma Advertência aos Profissionais da Medicina.
-
----
-
-# Publicações Relacionadas
-
-**Categoria:** kanren | **Ano:** 昭和25年 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Publicações Relacionadas
-
-Kouhou (光宝) (Edição nº 3)
-Boletim da Associação Kouhou da Igreja Kannon (観音) do Japão
-
-Publicado em 1º de janeiro de 1950
-Formato A5, 64 páginas
-
-Edição: Departamento Juvenil da Associação Kouhou
-Publicação: Associação Kouhou
-Local de Publicação: Sede Central da Associação Kouhou da Igreja Kannon (観音) do Japão
-
----
-
-# Rescue Rescue: O Livro da Salvação
-
-**Categoria:** kanren | **Ano:** 昭和30年 | **Fonte:** 明主様の御教え
-**Título Original:** - | **Status:** -
-
-## Rescue Rescue: O Livro da Salvação
-
-Publicado em 18 de junho de 1955
-Formato A5, 55 páginas, Venda proibida
-Editado pela Sede Geral da Igreja Messiânica Mundial
-Publicado por: Omori Chizuru
-Editora: Departamento de Publicações da Igreja Messiânica Mundial
-
-Esta obra reúne 24 dissertações sobre o tema da saúde.
-
-### Prefácio
-
-Ao publicarmos esta obra, nossa Igreja sente o dever de dirigir uma palavra franca e direta a Vós, prezados leitores. Ao observarmos atentamente a atual conjuntura mundial, deparamo-nos com uma realidade na qual este mundo se converteu em um verdadeiro caldeirão de doença, pobreza e conflito. Diante de tal cenário, não nos é possível permanecer em silêncio.
-
-Nesse sentido, almejamos que, havendo a ventura de um vínculo espiritual convosco, possais, por meio da própria vivência e com base nos fatos irrefutáveis aqui apresentados, dar o primeiro passo rumo ao despertar. Foi com este propósito que compilamos os “Ensinamentos de Meishu-Sama”.
-
-### Dissertações Inclusas
-
-O Homem é um Vaso de Saúde
-Os Equívocos da Medicina
-A Verdade sobre a Saúde
-O Ser Humano é um Vaso de Saúde
-A Verdadeira Saúde e a Pseudo-Saúde
-Yakudoku
-A Comédia da Nutrição
-A Medicina Espiritual Divina é uma Medicina Democrática
-O que se Espera da Medicina
-A Edificação do Paraíso por meio da Saúde
-Um Método de Saúde para a Formação de Crianças Felizes e Vigorosas
-Os Japoneses e as Doenças Mentais
-A Saúde de Bebês e Crianças
-O Corpo Humano é um Todo Integrado
-A Encefalite Japonesa é Realmente Transmitida por Mosquitos?
-O Adoecimento do Corpo
-O Resfriado Noturno
-A Disenteria Infantil
-Devemos Temer as Bactérias?
-Exemplos Reais dos Males da Vacina
-Vacinação Preventiva e Tuberculose
-O Destino Pode ser Moldado Livremente
-O Segredo da Felicidade
-Deus e os Budas Existem?
-
----
-
-# Publicações Correlatas
-
-**Categoria:** kanren | **Ano:** 昭和26年 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Publicações Correlatas
-
-Crítica à Igreja Messiânica
-
-Publicado em 25 de setembro de 1951
-Formato B6, 226 páginas, 200 ienes
-
-Autores:
-Tokugawa Musei, Togawa Sadao, Nii Itaru, Yamaoka Souhachi, Endo Shingo, Ooba Sachiko e Iwasaki Sakae
-
-Editor e Diretor de Publicação:
-Kitamura Hiroshi
-
-Editora:
-Imprensa Religiosa do Japão
 
 ---
 

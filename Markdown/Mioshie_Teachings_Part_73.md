@@ -1,9 +1,743 @@
 # Mioshie_Teachings - Part 73
 
+# Coletânea de Teses do Mestre Okada Jikanshi – Curso sobre o Método Johrei (Oitava Aula) – Enfermidades do Estômago e do Intestino
+
+**Categoria:** sasshi | **Ano:** 昭和30(1955)年5月1日 | **Fonte:** 浄霊法講座
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-05-01
+
+## Coletânea de Teses do Mestre Okada Jikanshi – Curso sobre o Método Johrei (Oitava Aula) – Enfermidades do Estômago e do Intestino
+Publicado na 6ª edição do 'Curso sobre o Método Johrei', em 1º de maio de 1955.
+
+### Uma, Enfermidades Gástricas
+
+**1. Homem de meia-idade com sensação de pressão e dor surda no estômago, e falta de apetite (Ensinamento)**
+
+(Consulta)
+Trata-se de um homem de 59 anos que, desde o ano passado, sente dores quando está com o estômago vazio e, de modo geral, uma sensação de pressão e dor surda na região gástrica. Atualmente, passa a maior parte do tempo acamado. Antes do almoço, invariavelmente, o estômago dói, e por vezes ele vomita um líquido aquoso, incolor, inodoro e insípido. Por volta das quatro horas da tarde, a dor ressurge, mas cessa assim que ele se alimenta. No início, a dor sempre desaparecia após as refeições; contudo, ultimamente, mesmo que tente comer nesse horário, não sente apetite algum e a comida simplesmente não passa, o que lhe causa grande aflição. À noite, a dor pode ocorrer ocasionalmente após as nove horas, quando o estômago está vazio. Se, ao sentir dor, ele se deita de costas, o incômodo geralmente passa em vinte a trinta minutos; se permanece sentado ou em pé, a dor não cessa. O período de maior bem-estar é entre uma da manhã e o amanhecer, sendo raras as ocorrências de dor nesse intervalo.
+
+(Orientação)
+A causa está nas costas. Talvez não sinta muita dor nesse local. É o yakudoku acumulado nas costas que está refluindo.
+
+**2. Jovem com endurecimento no abdômen, que vomita uma substância viscosa e ácida, em acentuado estado de debilidade (Ensinamento)**
+
+(Consulta)
+Um jovem de dezessete anos adoeceu em novembro do ano retrasado e recebeu tratamento médico. Desde o dia 25 de julho do ano passado, vem recebendo Johrei. No início, estava extremamente magro, sem apetite, e apresentava um endurecimento fibroso no abdômen. Vomitava várias vezes ao dia uma substância viscosa, pálida e ácida. Com o Johrei, recuperou temporariamente o apetite e sentiu-se melhor. Em setembro, sua mãe ingressou na fé e passou a ministrar-lhe Johrei três vezes ao dia. Todavia, a partir do final de outubro, embora sinta apetite, ao começar a comer, seu estômago incha e ele se torna incapaz de prosseguir. Se insiste, vomita, e seu corpo todo fica debilitado, levando-o a um estado de grande fraqueza. Ademais, costuma passar mais de dez dias sem evacuar. Ele já matou um gato e certa vez sonhou que era atormentado por macacos. Haveria alguma causa espiritual?
+
+(Orientação)
+O caso é análogo ao anterior: a causa é o yakudoku nas costas. A substância viscosa, pálida e ácida é o próprio yakudoku. O fato de ter matado um gato não tem relação com o quadro atual.
+
+**3. Homem de meia-idade com problema de estômago que vomita o alimento duas vezes ao dia, em avançado estado de debilidade (Coletânea de Ensinamentos, vol. 1, p. 21)**
+
+(Consulta)
+Meu marido, de 50 anos, há tempos padece de uma enfermidade gástrica. Em abril de 1949, após vomitar uma grande quantidade de sangue, seu estado se agravou. Desde então, recorremos a médicos e medicamentos, mas sem resultado. Por volta de janeiro de 1951, a situação piorou ainda mais, e ele ficou acamado. Em março de 1951, recebi o Ohikari e passei a lhe ministrar Johrei diariamente. Devido às circunstâncias familiares, não temos o Altar do Lar. Desde março, ele sofreu com dores intensas, mas, felizmente, estas diminuíram um pouco. Contudo, vomita o alimento duas vezes ao dia, o que talvez explique a escassez de evacuações. Seu corpo enfraquece a cada dia e ele emagreceu consideravelmente. Embora esteja mais animado do que em abril, quando as dores eram lancinantes, o calor recente parece tê-lo debilitado subitamente. O fato de vomitar duas vezes ao dia teria alguma relação espiritual?
+
+(Orientação)
+Este é um caso de yakudoku muito intenso. Pessoas com problemas de estômago costumam ter grande acúmulo de yakudoku. A debilidade progressiva e o vômito do alimento não são bons sinais. A ausência do Altar de Komyō Nyorai também é um problema. É preciso fazer o possível para entronizá-lo. O Johrei deve ser focado nas costas, como mencionei anteriormente, principalmente na região posterior ao estômago. Em seguida, nos rins. O Johrei se resume a isso. É preciso entronizar o Altar de Komyō Nyorai.
+
+"Somos repatriados, moramos no andar de baixo de um apartamento e meu marido está doente há muito tempo, vivemos em extrema pobreza..."
+
+Entendo, mas morando no andar de baixo, é impossível entronizar o Altar... É uma situação difícil. O vômito indica um yakudoku muito forte. Existem vários tipos de yakudoku, e este parece ser proveniente de um medicamento potente e nocivo. Ele vomita justamente pela presença desse veneno. Creio que será um caso um tanto difícil.
+
+**4. Jovem com gastroptose, febre, dor de estômago, falta de apetite, diarreia diária e fadiga acentuada (Coletânea de Ensinamentos, vol. 6, p. 64)**
+
+(Consulta)
+Um jovem de dezoito anos. Devido à gastroptose, submeteu-se a dois anos de medicamentos e injeções, o que o debilitou progressivamente. No verão de 1951, começou a receber Johrei, sentiu-se muito melhor e ingressou na fé. Posteriormente, seu pai também se tornou membro e passou a receber Johrei dele em casa. No dia de Ano Novo de 1952, ele foi à Igreja e, à tarde, sentiu um frio vindo do baixo-ventre e um mal-estar. Naquela noite, teve febre, perdeu o apetite, sentiu dor de estômago e sofreu por cerca de quatro horas. Desde então, tem diarreia todos os dias, dores abdominais recorrentes, falta de ânimo e uma facilidade para se cansar. Gostaria de uma orientação a esse respeito.
+
+(Orientação)
+Isso é excelente. A febre indica que o nódulo de yakudoku começou a se dissolver; é uma febre de purificação. A dor de estômago também é o sofrimento decorrente da dissolução do yakudoku, e a falta de apetite é uma consequência natural. A diarreia diária é ótima, pois é por meio dela que as toxinas são eliminadas. Quanto ao cansaço, é inevitável. Sem apetite e com diarreia, é normal sentir-se um pouco fatigado. É preciso suportar isso. No Johrei, concentre-se no nódulo que há nas costas para dissolvê-lo. Os medicamentos ingeridos, por se deitar de costas, acumulam-se nessa região. É preciso dissolver esse acúmulo. Há também um endurecimento na parte frontal que deve ser tratado.
+
+A gastroptose é causada pelo excesso de medicamentos. Como sempre digo, a ingestão excessiva de remédios faz com que o estômago, pesado, "caia". Isso não é nada de mais. Para pessoas nessas condições, o ochazuke é muito benéfico. Pique um pouco de conserva japonesa e prepare o ochazuke. O ochazuke com salmão também é uma boa opção. Ou seja, ao contrário do que se pensa, para a gastroptose, alimentos de fácil digestão ou muito mastigados não são bons. Quem tem estômago fraco deve comer ochazuke. Só isso basta para curar. Para a gastroptose, o ochazuke é infalível, cem por cento eficaz.
+
+**5. Criança de aproximadamente um ano que, ao ser amamentada, vira a cabeça para o lado oposto e tem convulsões, rejeitando todo alimento e sendo nutrida com leite de outra mulher.**
+
+(Registro de Orientações, vol. 1, p. 18)
+
+(Consulta)
+Sou um membro de Shikoku. Meu primeiro filho, um menino, está crescendo bem. No entanto, minha filha, que tem cerca de um ano e é a segunda criança, ao ser amamentada, vira a cabeça para o lado oposto e tem convulsões. Ela parece querer o leite. Fica bem-humorada quando a avó a segura no colo, então a avó a segura para que eu possa amamentá-la. Ela rejeita qualquer outro tipo de alimento, mas não vomita.
+
+(Orientação)
+Após um ano de idade, não se deve mais amamentar. A criança não está desejando o leite. Existe um endurecimento no estômago ou ao redor do umbigo, que deve ser tratado com Johrei. As costas também devem ser bem cuidadas.
+
+**6. Senhora idosa que, a cada sessão de Johrei, vomita uma substância marrom-escura de quinze a dezesseis vezes, enfraquecendo visivelmente e sem apetite (Coletânea de Ensinamentos, vol. 7, p. 14)**
+
+(Consulta)
+Uma mulher de 56 anos, não-membro, começou a receber purificação em 12 de dezembro de 1951, e eu lhe ministrava Johrei a cada dois ou três dias. Durante todo o mês de dezembro, sentia um mal-estar, alternando entre ficar deitada e levantar-se. A partir do dia 21, a purificação se intensificou e ela ficou acamada. Ao receber Johrei, vomitava cerca de 900 ml de uma substância marrom-escura. A partir de então, passou a vomitar de 540 a 900 ml diariamente, de quinze a dezesseis vezes a cada sessão de Johrei. Ela, que era obesa, enfraqueceu visivelmente. Havia dois grandes endurecimentos, um na boca do estômago e outro um pouco abaixo, mas atualmente resta apenas um pequeno na boca do estômago. Ao ministrar Johrei nas costas, ela vomita. Não tem apetite e consome apenas uma pequena quantidade de mingau de arroz e de araruta. Não sente dor no estômago, mas o lado esquerdo do umbigo dói ocasionalmente. Ela não usa medicamentos, mas fez bastante tratamento com agulhas e moxa. É também instrutora de uma seita derivada da PL Kyodan, a Akatsuki-kyo, mas tem se apegado com afinco à nossa fé. Rogo por uma orientação.
+
+(Orientação)
+Isso é um processo excelente. Essa senhora tem, na verdade, uma pequena perfuração no estômago. Por ali, a substância vinha se acumulando e formando nódulos, que agora, com o Johrei, estão se dissolvendo e sendo expelidos. Por isso, ela ficará sem apetite por um período, o que é inevitável. Para que não enfraqueça de forma abrupta, deve-se interromper o Johrei por um tempo. Assim, o apetite retornará um pouco, ela poderá se alimentar e fortalecer o corpo. Depois, retoma-se o Johrei. Proceder com paciência torna o processo mais tranquilo. Portanto, embora seja um ótimo sinal, a causa está nos medicamentos que ela tomou no passado – talvez na infância –, que se transformaram em sangue tóxico e se solidificaram nas costas. Por isso, quando se ministra Johrei nas costas, a toxina se dissolve e é expelida. É realmente um bom processo. Embora ela enfraqueça bastante, geralmente não há perigo. Em casos de debilidade extrema, pode surgir inchaço, mas mesmo isso não representa um problema sério. Normalmente, a situação se resolve antes de chegar a esse ponto. Como os grandes nódulos já diminuíram, falta pouco. Por enquanto, ofereça-lhe alimentos como mingau de arroz e evite comidas sólidas. É só isso.
+
+**7. Senhora idosa diagnosticada com câncer de estômago, gastroptose e úlcera gástrica, com histórico de hematêmese, seguida de diarreia, náuseas, falta de apetite, constipação e debilidade (Coletânea de Ensinamentos, vol. 6, p. 85)**
+
+(Consulta)
+Minha sogra, de 62 anos, começou a se sentir mal do estômago por volta de fevereiro de 1951. Embora indisposta, continuava a fazer pequenos trabalhos domésticos. Gradualmente, as dores aumentaram e ela perdeu o apetite. Em abril, foi ao hospital e o raio-X revelou indícios de câncer de estômago. Disseram que uma cirurgia a curaria em um mês, mas, devido à sua idade avançada, recusamos. Durante um mês, ela tomou medicamentos e injeções, sem melhora. Também recorreu à medicina chinesa. Outro médico a diagnosticou com gastroptose e a tratou por um mês, mas sem sucesso. Um especialista em estômago, então, diagnosticou úlcera gástrica, afirmando que a entrada do estômago estava inflamada. Ela continuou com injeções, medicamentos e visitas ao médico. Havia um endurecimento do tamanho de uma ameixa no lado direito do estômago, a dor não cessava e o sofrimento só aumentava. Em 24 de agosto, vomitou uma grande quantidade de sangue e coágulos, ficando completamente debilitada e incapaz de se levantar. A partir de 1º de outubro, começou a receber Johrei. Após cerca de um mês e meio, teve purificações de diarreia ocasionais, que lhe trouxeram grande alívio. Em meados de dezembro, teve diarreia quatro vezes ao dia durante uma semana, o que a fez perder ainda mais o apetite. Mesmo um mingau ralo lhe causa náuseas e, às vezes, seu estômago o rejeita, por isso sua alimentação é predominantemente líquida. Há um endurecimento rígido como uma tábua abaixo do lado direito do estômago e do fígado, que dói mesmo com um leve toque. Sua dieta diária consiste em cerca de 540 ml de leite, um pouco de caldo de galinha e uma pequena quantidade de mingau ralo. Ocasionalmente, sente náuseas e um líquido azedo sobe à boca. Evacua com dificuldade uma vez a cada três dias, com fezes endurecidas. Seu cérebro também não está bem e sua audição diminui progressivamente. Minha sogra tem dois irmãos. A irmã mais velha morreu afogada aos onze anos. O segundo filho da minha sogra teve meningite aos trinta anos e, atualmente com a mesma idade, foi internado há dois meses em um hospital psiquiátrico por querer sair de casa constantemente. Minha filha mais velha faleceu de meningite em 1950, aos sete anos. Haveria alguma relação entre esses fatos?
+
+(Orientação)
+Não há relação espiritual. É yakudoku. É uma doença criada pelos médicos. Assim que todos os medicamentos forem eliminados, ela se curará, mas esse é um processo árduo. As náuseas ocasionais e o líquido azedo indicam que ainda há yakudoku acumulado no estômago. Parte do veneno que havia se infiltrado nos tecidos está retornando ao estômago. Quanto às evacuações, é normal que sejam escassas, pois sua dieta é líquida. A dificuldade para evacuar não deve ser motivo de preocupação. Ficar uma ou duas semanas sem ir ao banheiro não é problema. Basta aguardar com tranquilidade que a evacuação ocorra naturalmente; uma hora acontecerá. Com a falta de apetite e a alimentação líquida, é natural não evacuar. Trata-se de uma doença causada por yakudoku, portanto, é preciso ter paciência. A diarreia e a eliminação de sangue são excelentes sinais. Persistindo nesse caminho, ela melhorará gradualmente.
+
+**8. Mulher com ombros e rins enrijecidos, dores no estômago e baixo-ventre que, após o alívio da dor gástrica, vomitou intensamente uma substância viscosa e achocolatada, desenvolveu um nódulo no baixo-ventre que cresceu progressivamente e faleceu (Coletânea de Ensinamentos, vol. 8, p. 5)**
+
+(Consulta)
+Minha esposa (que veio a falecer em 30 de novembro de 1951), eu sou ministro, tinha os ombros e os rins enrijecidos, mas não chegava a ficar acamada e, em geral, não recebia Johrei como as outras pessoas. Queixava-se de dores no estômago e no baixo-ventre, que eram aliviadas a cada vez com Johrei. No sexto dia, a dor no baixo-ventre se intensificou. Durante o Johrei, as dores no estômago e no baixo-ventre se alternavam, até que, finalmente, a dor no estômago cessou, e ela vomitou uma substância viscosa e achocolatada que encheu cerca de um terço de uma bacia. Vomitou cerca de dez vezes em uma hora. O baixo-ventre não doía, mas ela se queixava de uma sensação de peso. Havia uma massa redonda e dura, com cerca de doze centímetros de diâmetro, no lado direito do baixo-ventre, que, segundo ela, vinha crescendo e doendo nos últimos três meses. A dor no baixo-ventre direito foi diminuindo gradualmente e, queixando-se de fraqueza generalizada, ela faleceu na manhã seguinte. Após a morte, o baixo-ventre direito e as pontas das mãos ficaram com uma coloração escura. Rogo por uma orientação sobre esta purificação.
+
+(Orientação)
+A coloração achocolatada indica sangue antigo, algo que é comumente vomitado. Essa mulher desenvolveu um abscesso na parte inferior do estômago. Desse abscesso, pequenas quantidades de sangue vazavam continuamente e foram se acumulando. Parte desse acúmulo desceu para o baixo-ventre, formando um nódulo. O que estava no estômago, ela vomitou e expeliu. Não era para ela ter morrido por causa disso.
+
+É preciso estar atento a isso. E isso vale para todos. Pessoas com os ombros enrijecidos tendem a ter uma vida curta. Aparentam ser saudáveis, mas podem falecer subitamente. Portanto, não se pode estar tranquilo tendo os ombros rígidos. Ela não morreu de uma doença comum. Há uma razão espiritual por trás disso, que será compreendida em um determinado momento. A causa de sua morte se tornará clara. Não posso revelar agora, mas com o passar de alguns anos, haverá um tempo em que se entenderá. Há uma razão por parte de Deus neste acontecimento.
+
+Por isso, mesmo que se esteja saudável, é fundamental receber Johrei e manter os ombros flexíveis. Pacientes com ombros rígidos têm um prognóstico desfavorável. Já aqueles com ombros flexíveis têm muito mais chances de se recuperar. A rigidez ou flexibilidade dos ombros tem uma correlação muito significativa. Quem tem os ombros flexíveis possui uma força interior em algum aspecto.
+
+**9. Homem de meia-idade que se mantém com vigor apesar de uma dieta extremamente reduzida por cerca de dez anos, consistindo em um peixe (sanma) e cinco biscoitos (karinto) por dia (Registro de Orientações, vol. 5, p. 52)**
+
+(Consulta)
+Trata-se de um homem de aproximadamente 42 anos que, há cerca de dez anos, consegue passar o dia com um único peixe sanma. Ele diz que cinco biscoitos karinto são o ideal; se comer sete, seu estômago incha.
+
+(Orientação)
+Seu estômago deve ter encolhido.
+
+"Ele é pálido, mas fala com muita energia. Seria espiritual...?"
+
+Basicamente, ele tem força física, é vigoroso. Não é espiritual. Toxinas se solidificaram ao redor do estômago, comprimindo-o. Uma grande quantidade de yakudoku foi ingerida e se solidificou. E as costas dele...
+
+"São curvadas."
+
+Aí está a toxina. Se for dissolvida, o estômago se expandirá.
+
+**10. Pessoa que não consegue se alimentar normalmente, exceto nos primeiros trinta minutos após se levantar (Registro de Orientações, vol. 10, p. 19)**
+
+(Consulta)
+Esta pessoa não consegue se alimentar em condições normais. No entanto, nos primeiros trinta minutos após acordar, depois de beber um copo d'água, ela consegue comer. Em qualquer outro momento, não consegue ingerir nada; se tentar forçar, mesmo um copo d'água a faz transpirar profusamente, ficar agitada e sofrer.
+
+(Orientação)
+O fato de conseguir comer logo após se deitar significa que há toxinas acima do cárdia. Quando a pessoa está deitada, essas toxinas se deslocam para a parte de trás, liberando a passagem do cárdia. Ao se levantar, elas descem e obstruem a passagem. Portanto, há um endurecimento na parte posterior do estômago. Tratando esse ponto, juntamente com a parte frontal, na região do cárdia, o problema será resolvido.
+
+**11. Pessoa que sente dor no estômago e em toda a região posterior durante o dia todo, com algo semelhante a uma pedra no abdômen (Coletânea de Ensinamentos, vol. 1, p. 14)**
+
+(Consulta)
+Desde os dezessete anos, sofro de hiperacidez gástrica. Na primavera de 1948, comecei a sentir dores no estômago, que se tornaram progressivamente mais intensas. Em setembro do mesmo ano, ingressei na fé, mas meu estado de saúde não melhorou como eu esperava. Recentemente, tenho recebido Johrei todos os dias, mas a dor persiste. Segundo o diagnóstico médico, tenho úlcera duodenal, atonia gástrica e gastroptose. Sinto dor no estômago e em toda a região posterior praticamente o dia inteiro.
+
+(Orientação)
+Quem está ministrando o Johrei? Um caso como este não deveria demorar tanto para resolver. A dor é um bom sinal, pois é uma purificação em andamento. Dor de estômago não é algo tão grave. Será que não está sendo aplicada força excessiva no Johrei? Além disso, em casos assim, o foco deve ser inteiramente nas costas. Não há necessidade de tratar a parte da frente. Embora a dor seja sentida na frente, a causa está nas costas, de onde o yakudoku dissolvido se move em direção ao estômago.
+
+"Há algo como uma pedra no meu abdômen."
+
+Engana-se quem pensa que essa "pedra" é a causa da doença. A origem está um pouco acima e atrás dela. Se ministrar Johrei nesse ponto, a cura virá rapidamente. Mesmo em casos de espasmo estomacal, o alívio é imediato ao se tratar as costas, e não a frente. Tudo isso é causado por yakudoku.
+
+**12. Pessoa com endurecimentos nas regiões do estômago e do fígado, falta de apetite e sensação de pressão ascendente (Registro de Orientações, vol. 4, p. 34)**
+
+(Consulta)
+Eu havia pedido proteção divina por este caso, suspeitando de um pseudo-câncer de estômago. A pessoa usou uma grande quantidade de bactericidas e, na juventude, medicamentos para doenças venéreas. Ficou internada no exército por cerca de um ano e usou Albazir...
+
+(Orientação)
+Albazir é terrível. Muitas pessoas morrem por intoxicação de Albazir.
+
+"O endurecimento está na região do fígado."
+
+É yakudoku.
+
+"Há outro na região do estômago. Quando começo o Johrei, ele sente muita dor. Depois de um tempo, a dor desce e ele se sente aliviado. A excreção, tanto de urina quanto de fezes, é considerável. Ele tem febre baixa contínua, falta de apetite e está debilitado. Devo continuar ministrando Johrei nesses endurecimentos?"
+
+Sim. Mas faça-o sem aplicar muita força, pois se trata de yakudoku. O problema principal é a debilidade. Se a recuperação da fraqueza superar a velocidade de dissolução das toxinas, tudo correrá bem. As costas são especialmente importantes. A parte posterior.
+
+"Devo ministrar Johrei nas costas, na região correspondente ao endurecimento?"
+
+Exato. A origem desse endurecimento está, na verdade, nas costas. Ele se dissolve ali e se desloca para cá (fígado).
+
+"Durante a guerra, ele diz ter usado creosoto."
+
+É uma substância para impedir o apodrecimento da madeira, aplicada em postes telegráficos. É uma insensatez ingerir algo assim.
+
+"Ao se deitar, ele sente como se estivesse caindo em um abismo. Nessa hora, pede que pressionem o topo de sua cabeça com o polegar e soltem quando ele começar a cochilar. A relação entre a cabeça e as costas..."
+
+Até agora, o yakudoku estava solidificado na cabeça. O ser humano pensa, se preocupa... ao usar a mente, as toxinas das costas se movem para lá. Ocorre uma purificação equilibradora. A cabeça se dissolve, e por isso as costas também se dissolvem. A cabeça é um local onde as toxinas se solidificam facilmente. Nesses casos, a região occipital é especialmente importante.
+
+"Quando isso acontece, parece difícil encontrar o ponto vital, como se houvesse vários."
+
+Há vários, mas entre eles existe o ponto vital principal. É o yakudoku. A pessoa toma o medicamento e se deita de costas, certo? Por isso, ele não se solidifica no estômago, mas nas costas. Não se solidifica no estômago, embora possa se acumular no fundo gástrico. Onde ele se solidifica? Ele se infiltra através da parede do estômago. Como a pessoa está deitada, ele é empurrado para as costas e se solidifica ali. As costas não são como o estômago, então a solidificação permanece. Quando atinge um certo grau de acúmulo, ocorre a purificação, e ele retorna ao estômago. Esse retorno se torna um veneno terrível, que se solidifica aqui (no estômago). Uma vez solidificado, curiosamente, não sai mais. Vindo das costas, ele se solidifica por completo, e rapidamente. Dependendo da pessoa, esse endurecimento se forma mais abaixo, ou na região do umbigo. O câncer, por exemplo, é sempre assim.
+
+"Ele sente uma pressão ascendente..."
+
+Isso é a purificação. É a dissolução. Quando o que estava solidificado se dissolve, seu volume aumenta. Em vez de descer, ele provoca o vômito. Do estômago para o intestino... o piloro... isso mesmo. Não desce. A massa pastosa de yakudoku obstrui o piloro. Uma pequena parte desce, mas a maior parte sobe. É uma estenose pilórica. Há toxinas ao redor do piloro que o comprimem, e o conteúdo gástrico, sem conseguir passar, é forçado para cima. Por isso, a estenose pilórica causa vômito. O vômito crônico é sinal de estenose pilórica.
+
+"O abdômen está inchado, como se fosse uma peritonite."
+
+É porque o conteúdo não sai pelo piloro. Ele se espalha para outros lugares. As pessoas, em geral, não compreendem a gravidade dos medicamentos. Remédios comuns são vistos como inofensivos. Há quem diga que nunca tomou remédios, referindo-se aos da medicina ocidental. Não consideram os medicamentos chineses que tomam por conta própria, como a swertia ou o "gen-no-shoko". Quando pergunto sobre chás medicinais, admitem que tomaram. Da mesma forma, acham que os desinfetantes usados em queimaduras e ferimentos são inócuos. Mas esse desinfetante penetra pela pele e se torna uma causa terrível de doença. O Sr. Inoue, por exemplo, sentia dores constantes na nuca e, uma vez por ano, algo surgia em sua perna. Isso vinha de um furúnculo que ele teve nas costas e que foi operado. Não era um medicamento oral, era um desinfetante. Ele se queixava sempre de dor nas costas, mas a toxina subiu para a cabeça e depois desceu para a perna.
+
+**14. Ponto vital do Johrei para úlcera gástrica e gastroptose com calafrios persistentes, e o tempo necessário para a febre baixa ceder (Registro de Orientações, vol. 8, p. 28)**
+
+(Consulta)
+No caso de úlcera gástrica e gastroptose, quando os calafrios não melhoram mesmo após mais de uma hora de Johrei...
+
+(Orientação)
+Onde você está ministrando o Johrei?
+
+"Entre as omoplatas e a coluna, na região posterior ao estômago."
+
+É um pouco mais abaixo. De qualquer forma, há um endurecimento na parte de trás. É possível senti-lo mesmo por cima da roupa. Há um ponto que é o mais quente; a toxina está ali. Basta ministrar Johrei nesse local. Você está mirando no lugar errado. Mesmo por cima da roupa, há um ponto mais quente. Ministre Johrei ali.
+
+"Os calafrios teriam outra causa?"
+
+A causa dos calafrios está nesse ponto.
+
+"A febre baixa também pode ter várias origens?"
+
+Sim, pode ter várias. Nesse caso, há outras causas, mas a principal é essa.
+
+"Em quantos minutos a febre deve ceder?"
+
+Varia. Pode ceder em cinco minutos, ou pode levar trinta. Depende da quantidade e da intensidade da toxina.
+
+**14. Homem de meia-idade com úlcera gástrica, purificação intensa com dor contínua, vômito de substâncias estranhas, vômito induzido frequente e dieta restritiva (Coletânea de Ensinamentos, vol. 7, p. 34)**
+
+(Consulta)
+Trata-se de um membro de 53 anos (homem), que tem em seu lar o Altar, a Imagem da Deusa Kannon e a Caligrafia Divina. Ele já recebeu orientações sobre sua úlcera gástrica em outras ocasiões, mas desde outubro de 1950, a purificação se tornou especialmente intensa. Até hoje, ele sente dor todos os dias e, em média, três vezes por mês, vomita de 1,8 a 2,7 litros de uma substância estranha. A cor varia entre um branco purulento e um verde-escuro, como chá forte. Antes de entrar na fé, ele tomou "gen-no-shoko" por cerca de seis meses, cinco frascos de Seirogan, além de digestivos e analgésicos. Recebeu duas ou três injeções de morfina, dez de Salvarsan, e algumas doses de quinino. Há trinta anos, tratou gonorreia com Kengoru e outro medicamento por três meses. Também recebeu vacinas preventivas durante o serviço militar. Atualmente, a dor nas costas se concentra na região posterior ao estômago esquerdo e se estende até os rins, com dores ocasionais também no lado direito. A dor acima dos rins é particularmente severa. No abdômen, a dor é mais intensa do umbigo para baixo, na região do diafragma esquerdo e na boca do estômago, com picos de dor aguda no diafragma esquerdo. Ele não tem febre, ou apenas febre baixa. A dor é especialmente aguda quando vomita a substância branco-purulenta. A quantidade total de matéria estranha vomitada desde que ingressou na fé é considerável. Nos momentos de dor intensa, seu abdômen fica rígido como uma tábua e uma secreção viscosa sobe constantemente. Ao urinar, sente dor no canal urinário, que irradia para os rins e para a região do diafragma. A urina está sempre turva como pus. Seu apetite é seletivo. Devemos permitir essa alimentação seletiva? Em 1950, ele recebeu o amuleto "Jōriki" e, desde então, a purificação se intensificou. Ele ainda não recebeu o amuleto "Kōmyō". A dor tem sido incessante, com breves intervalos, desde que ingressou na fé. Seria porque o ponto vital do Johrei está sendo negligenciado? Quando a purificação é intensa, o Johrei invariavelmente agrava a dor por um tempo. Como o vômito da substância estranha durante a dor aguda traz alívio temporário, ele induz o vômito colocando o dedo na boca. Isso é apropriado? Não estaria prolongando a purificação com essa prática? Ele usa o Papel Sagrado diariamente. Nos dias de dor intensa, recebe Johrei mais de dez vezes. Isso é correto? Normalmente, são duas ou três vezes ao dia. Rogo por uma orientação.
+
+(Orientação)
+A dor no canal urinário... as toxinas na urina irritam a mucosa. A alimentação seletiva é vista como algo ruim, mas não é, de forma alguma. A seletividade alimentar é excelente. A medicina a condena, mas, na verdade, ela é benéfica para a saúde. O melhor exemplo são os pássaros. O canário, por exemplo, come apenas painço. A seletividade ocorre porque o corpo pede. E se pede, é porque precisa. Portanto, a seletividade alimentar é ótima e deve ser praticada. O ser humano se torna mais saudável sendo seletivo.
+
+As plantações são um bom exemplo. Ao se plantar a mesma cultura repetidamente, a produção aumenta. O solo desenvolve os componentes que aquela planta requer, e a colheita se torna abundante.
+
+É bom trocar o amuleto. A purificação atual é forte, e isso o afeta intensamente. Induzir o vômito... na verdade, não é o ideal. Forçar o vômito não é bom. No entanto, não chega a ser algo tão prejudicial. O problema é que isso pode se tornar um hábito e dificultar o vômito natural no futuro. Johrei... pode-se ministrar quantas vezes for necessário. Apenas no caso de tuberculose há algumas ressalvas, mas para outras doenças, quanto mais Johrei, melhor.
+
+"A dor é tão intensa que é insuportável de se ver, e às vezes dura um dia e uma noite."
+
+Não deveria ser assim. Quem está ministrando o Johrei? O Altar de Komyō Nyorai está entronizado, certo?
+
+"Sim, temos o Altar de Dai Komyō Nyorai."
+
+Já era para ele estar curado. Algo está errado. A causa é, sem dúvida, o yakudoku. Ele tem uma quantidade imensa de yakudoku. Será que não estão aplicando força no Johrei? Eu já o alertei sobre isso, não? Estão tratando as costas, certo? A causa está, sem dúvida, nas costas.
+
+"Tenho explicado bem o novo método de Johrei."
+
+Mas ainda assim, aplicam força. Do contrário, ele já estaria curado. Diga para relaxarem ainda mais a mão. A causa está nas costas, então o foco é ali. Sem aplicar força, de modo que a luz penetre. Isso é difícil. Ministrar sem força, mas fazendo a luz atravessar. A seletividade alimentar é excelente. Comer apenas uma coisa é ótimo.
+
+"Houve uma vez em que ele comeu chocolate e pareceu que a dor veio por causa disso."
+
+Não é por causa do alimento. É o yakudoku que se manifesta naquele ponto. Isso não tem a menor importância. A questão é que ele tem um medicamento de péssima qualidade no organismo.
+
+"Quando a purificação não está tão intensa, ele pode fazer uma refeição normal?"
+
+Sim, pode. Casos como este são comuns. Geralmente, a causa são os medicamentos chineses.
+
+"No início, ele encheu seis bacias com o vômito."
+
+É uma quantidade impressionante. Existe um ponto de virada; depois de ultrapassá-lo, a melhora é progressiva. Ele ainda não atingiu esse ponto. Pessoas como ele têm vários pontos de virada. Procedendo dessa forma, ele melhorará gradualmente. Não é um caso tão difícil.
+
+**Quinze, Homem de meia-idade com recaída de purificação de úlcera gástrica, que sente dor intensa no estômago todas as noites, perdeu o apetite e está debilitado (Coletânea de Ensinamentos, vol. 7, p. 32)**
+
+(Consulta)
+Um homem de 48 anos, membro desde abril de 1950, teve uma purificação no estômago em abril de 1951. Em 26 de dezembro, obteve uma melhora parcial e pôde voltar ao trabalho. Contudo, em 4 de janeiro, teve uma nova purificação, perdeu o apetite e sua debilidade vem se acentuando. Ele sente uma dor lancinante no estômago todas as noites, especialmente entre uma e duas da manhã, que por vezes é insuportável. O fato de a dor ocorrer em um horário fixo todas as noites teria alguma causa espiritual? A família toda é membro, e temos o Altar e a Imagem da Deusa Kannon. Ele sempre foi extremamente saudável, mas em 1943, teve uma úlcera, ficou internado por duas semanas no hospital universitário, onde lhe indicaram cirurgia. Ele recusou, saiu do hospital e se curou completamente com uma terapia de jejum.
+
+(Orientação)
+Que quantidade de medicamentos essa pessoa usou?
+
+"Parece que quase não tomou."
+
+É estranho ter úlcera gástrica sem ter tomado medicamentos. A úlcera é criada por remédios. Uma causa espiritual não é impossível, mas é muito raro que se manifeste como dor de estômago. Será que ele não tomou remédios na infância?
+
+"Não sei os detalhes..."
+
+Com certeza tomou. Pergunte a ele. Estão ministrando Johrei nas costas, certo? É um caso que se cura sem dificuldade. Há um endurecimento nas costas, não?
+
+"Ele é um membro da província de Nagasaki e, por não haver um ministro dedicado, outros membros estão cuidando dele."
+
+Será que não estão aplicando força no Johrei? Se ministrarem com a mão relaxada, ele se curará sem problemas.
+
+Isso é certamente yakudoku. Ele deve ter tomado remédios, talvez na infância. Pode ter sido um medicamento chinês.
+
+**16. Sobre a diarreia e os alimentos, e sobre a causa da úlcera e os alimentos (Coletânea de Ensinamentos, vol. 13, p. 51)**
+
+Em caso de diarreia, pode-se adaptar a alimentação, mas isso depende do tipo de diarreia. Eu mesmo, outro dia, tive uma diarreia fortíssima, mas continuei comendo normalmente. Isso porque eu sabia a origem da diarreia. A toxina daqui (nuca) estava se dissolvendo e se manifestando como diarreia, então a alimentação não tinha relação. Apenas em um caso é preciso ter cuidado: a úlcera. Pessoas que tomam remédios para o estômago constantemente – e esses remédios são basicamente digestivos, à base de bicarbonato de sódio – acabam por ter as paredes do estômago e do intestino amolecidas. A mucosa gástrica se torna tão frágil que se rompe ao menor toque. Se um alimento sólido encosta ali, pode causar um ferimento, sangramento e dor. O mesmo vale para a úlcera duodenal. O cuidado é necessário apenas nessas situações, que são facilmente identificáveis. Ocorre sangramento, como na hematêmese da úlcera gástrica, ou sangue nas fezes. Nesses momentos, sabe-se que há uma úlcera, e deve-se consumir alimentos que não a agridam.
+
+**17. Homem de meia-idade com câncer de estômago, perda de apetite, debilidade, vômito de substância viscosa, insônia, incapacidade de deitar e dormência nas pernas (Coletânea de Ensinamentos, vol. 8, p. 20)**
+
+(Consulta)
+Um homem de 53 anos, com úlcera gástrica desde outubro de 1950, após um período de repouso em casa, foi diagnosticado com câncer de estômago em janeiro de 1952. Em fevereiro, entronizamos o Altar de Komyō Nyorai. Recentemente, sua perda de apetite se acentuou e a debilidade aumentou. Mal consegue comer uma tigela de arroz e, ocasionalmente, vomita cerca de 540 ml de uma substância viscosa, às vezes espumosa. Não consegue dormir de dia nem de noite, permanecendo sentado. Sente um desconforto na região do estômago e as pernas estão dormentes. Evacua uma pequena quantidade a cada três ou quatro dias. Em 2 de março, sentiu uma forte pressão ascendente e sofreu muito. Ele já teve fé anteriormente e não usou muitos medicamentos. O que devemos fazer?
+
+(Orientação)
+Este caso é inviável. Seria mais apropriado que nos escusássemos de prosseguir. Trata-se de um câncer verdadeiro. O vômito da substância viscosa... é um câncer clássico. E a alimentação de uma tigela por dia... não há mais o que fazer. Portanto, o mais sensato é comunicar à família que não há esperança de recuperação e, com o devido respeito, encerrar o acompanhamento.
+
+**18. Mulher debilitada que usou grande quantidade de yakudoku, atualmente vomitando uma substância viscosa, com nódulos acima do seio, na boca do estômago e sob o braço (Registro de Orientações, vol. 21, p. 29)**
+
+(Consulta)
+Uma mulher de 34 anos, que ingressou na fé em fevereiro de 1951, vem se dedicando à Obra Divina. Desde 2 de maio de 1953, devido a uma purificação, passa a maior parte do tempo acamada, vomitando uma substância semelhante a uma mucosidade. Ela tem nódulos duros, os maiores do tamanho da ponta de um dedo e os menores do tamanho de um feijão azuki, localizados acima do seio, na boca do estômago e sob o braço.
+
+(Orientação)
+Dói quando pressiona?
+
+"Não dói muito."
+
+Tem febre?
+
+"Não. Raramente chega a 38 ou 39 graus. O apetite é de meia tigela de arroz e sua força física está diminuída. Ela recebe Johrei duas ou três vezes ao dia, sem alteração. Pouco depois de ingressar na fé, um espírito de dragão se manifestou. Seu irmão de 32 anos, o filho mais velho, também é membro, mas os pais ainda não. Eles não se opõem fortemente, mas não querem entrar na fé. A pedido dela, conversei com o pai, mas ele ainda não compreendeu. Haveria alguma relação entre o espírito de dragão e a purificação atual? Como devemos proceder daqui para frente?"
+
+Qual a quantidade de yakudoku que ela ingeriu?
+
+"Foi uma quantidade considerável. Ela não usou medicamentos novos como a 'micina', mas tomou cerca de quinze doses de Salvarsan, e o restante foram soluções de glicose com nutrientes."
+
+Você diz "o restante", mas é justamente isso que é prejudicial. Pode parecer inofensivo, mas a glicose é ruim. Este caso é, muito provavelmente, sem esperança. Ela chegou a melhorar em algum momento?
+
+"Houve um período em que pareceu melhorar."
+
+É um caso difícil. Já que me perguntam, minha resposta é: "Entrem na fé quando sua filha se curar. Enquanto ela não se curar, não o façam."
+
+**19. Idoso diagnosticado com câncer de estômago, com inchaço nas pernas, abdômen e rosto, que não vomita substância viscosa, mas está debilitado (Registro de Orientações, vol. 1, p. 20)**
+
+(Consulta)
+Trata-se de uma pessoa de 67 anos que recebe Johrei desde janeiro de 1951. Tem câncer de estômago e apresenta inchaço em todas as pernas, no abdômen e no rosto. Não vomita a substância viscosa. Não sente dor, mas o apetite tem diminuído recentemente. Em julho de 1951, entronizou o Altar de Komyō Nyorai e, desde então, tem tido diarreia e está debilitado.
+
+(Orientação)
+Se não há eliminação da substância viscosa, não é câncer. O inchaço não é um bom sinal. É um caso difícil; leve-o a um médico. Provavelmente não se salvará.
+
+**20. Idoso diagnosticado com câncer de estômago, que vomita substância viscosa, sente o nódulo gástrico se mover, questiona a relação com um dragão de um poço e busca usar glicose para combater a debilidade (Ensinamento)**
+
+(Consulta)
+Um homem de 68 anos, diagnosticado com câncer de estômago em meados de fevereiro deste ano, vem recebendo Johrei desde então. Recentemente, tem eliminado cerca de 900 ml de uma substância viscosa por dia. O nódulo no estômago se move durante o Johrei. Fomos informados de que o câncer de estômago está relacionado a reencarnações de dragões. Seria o nódulo gástrico o espírito de um dragão? Ou seria o ressentimento de seres que o dragão, em vidas passadas, engoliu vivos, formando esse nódulo que se move? Ademais, havia um poço antigo na propriedade, que foi aterrado para a construção de um depósito. Haveria relação com o dragão desse poço? Devido à falta de apetite, ele está debilitado e, temendo a fraqueza, pede glicose para beber. Qual a sua orientação? Gostaríamos também de saber os pontos a focar no Johrei.
+
+(Orientação)
+A substância viscosa é o veneno do dragão. Isso se deve ao pecado de ter engolido vários animais vivos em vidas passadas. Se o poço foi aterrado recentemente, o dragão do poço também pode ter relação. A glicose pode conter a debilidade temporariamente, mas depois ela retornará. Quanto à alimentação, ofereça o que ele desejar, tentando estimular o apetite. Ministre Johrei intensamente nas costas.
+
+**21. Homem de meia-idade diagnosticado com câncer de estômago, com endurecimento móvel na parte superior do estômago, dor, vômito de líquido aquoso, e atualmente apenas náuseas, falta de apetite e debilidade (Paraíso Terrestre, ed. 50, p. 10)**
+
+(Consulta)
+Um homem de 45 anos (membro) começou a se sentir mal do estômago por volta de junho de 1952. Até o final de outubro, enquanto continuava a trabalhar, tomou cinco frascos de Creosoto Maru com 200 comprimidos, dois frascos de Normosan com 180 comprimidos, quatro frascos de Neoyohso com 100 comprimidos e um frasco de Aureomicina com 16 comprimidos. Seu estado piorou gradualmente e, no início de novembro, um médico o diagnosticou com câncer de estômago em estágio inicial. No início de dezembro, um cirurgião confirmou o diagnóstico. A partir de 19 de dezembro, ele começou a receber Johrei. Após cerca de trinta sessões, embora o endurecimento no estômago não tivesse mudado, a sensação de pressão diminuiu um pouco, o apetite melhorou e ele se sentiu muito bem. Em 6 de fevereiro, ele e sua esposa ingressaram na fé. Depois disso, a dor voltou a se intensificar. A dor se move para cima e para baixo, da parte superior do estômago até a região do umbigo, e ele sente uma dor lancinante por cerca de duas horas quase todas as noites, por volta das nove. Há um endurecimento do tamanho de um punho na parte superior do estômago, que parece ter aumentado de tamanho. Esse endurecimento se move quando ele recebe Johrei. Há também um menor na parte de trás, sob as costelas esquerdas, que também dói. Ele se queixa de desconforto na região lombar e não consegue endireitar o tronco. No final de maio, um nódulo do tamanho de uma ameixa seca saiu pelo ânus, causando alguma dor ao evacuar. Aplicamos o Papel Sagrado, e o nódulo diminuiu sem supurar. Resta apenas um pequeno resquício, quase sem dor. Recentemente, ele tem tido altos e baixos, mas a perda de apetite se acentuou e a debilidade aumentou. Ele mal consegue se levantar para ir ao banheiro. Antes, vomitava pequenas quantidades de um líquido aquoso, mas agora sente apenas náuseas, sem conseguir expelir nada. Tem um pouco de febre na cabeça e no estômago. Os pontos de Johrei têm sido principalmente a frente e as costas do estômago, nuca, pescoço, ombros, rins, região lombar e cóccix. Ele mencionou que, quando estava em Hokkaido, comeu uma cobra-rateira-japonesa, que lhe disseram ser um remédio para o estômago. Seu irmão mais novo faleceu de câncer de estômago.
+
+(Orientação)
+Este é um câncer causado por yakudoku. Esta pessoa tem um endurecimento nos ombros. Ministre Johrei prioritariamente nos ombros; à medida que eles amolecerem, ele se curará.
+
+**22. Homem de meia-idade com câncer de estômago que, após uma melhora temporária, piorou, sem vitalidade na pele, vomitando substância viscosa e sem apetite (Sobre o som que emana do Ohikari) (Ensinamento)**
+
+(Consulta)
+Um homem de 48 anos, com câncer de estômago, ao deitar-se em silêncio, ouve ao seu redor um som crepitante, como "jiji", semelhante ao de uma bateria sendo carregada. Intrigado, olhou para o peito e viu o cordão de seu Ohikari vibrando finamente. Ao retirar o Ohikari do peito e segurá-lo na mão, percebeu que o som emanava dele. Esse som foi ouvido claramente não apenas por ele, mas também por sua esposa, que cuidava dele. Dias depois, ao contar essa experiência a outra pessoa, uma mulher de 42 anos disse que o mesmo lhe acontecia e que também estava intrigada. Essa mulher, ao ingressar na fé, tinha frequentes manifestações espirituais, mas atualmente está normal e saudável. Esse som ocorre de forma intermitente. Que tipo de aviso seria este?
+
+(Orientação)
+Ah, que interessante. É a primeira vez que ouço algo assim. Qual foi a evolução do caso dele?
+
+"Ele melhorou por um tempo, mas depois piorou."
+
+O câncer de estômago precisa ser curado de forma direta e rápida, senão não tem jeito. Qual a sua condição atual?
+
+"Ele está pálido, com a pele sem vida, elimina a substância viscosa e não tem apetite."
+
+Bem, é um caso perdido. O fato de a luz emitir som é prova de uma grande quantidade do elemento fogo.
+
+**23. Idoso diagnosticado com câncer de estômago que foi operado e, posteriormente, apresentou um inchaço abdominal extraordinário, prolapso anal e inchaço nas pernas (Ensinamento)**
+
+(Consulta)
+Um membro de 60 anos (homem), há cerca de três anos, foi diagnosticado por vários médicos como tendo provável câncer de estômago e foi submetido a uma cirurgia. Durante a operação, encontraram nódulos dispersos, semelhantes a gordura de galinha, com cerca de 3 a 4 centímetros, entre a parede do estômago, o intestino, a região posterior dos rins e a parede abdominal. O médico não pôde remover todos, operando apenas uma parte, realizando uma anastomose gastrointestinal e suturando. Depois disso, o abdômen começou a inchar gradualmente. No final de março do ano passado, ele começou a receber Johrei continuamente, mas nos últimos dois ou três meses, o inchaço aumentou progressivamente, atingindo proporções extraordinárias na frente, atrás e nos lados (parece mais do que o dobro do abdômen de uma gestante em fim de gravidez). Como consequência, ele teve prolapso anal e inchaço nas pernas. Além disso, junto com o inchaço abdominal, a massa endurecida também aumentou. Ele tem apetite, mas devido ao desconforto, não come muito. Gostaríamos de uma orientação sobre a causa e as medidas a serem tomadas.
+
+(Orientação)
+A cirurgia de estômago não deveria ser feita.
+
+**24. Pessoa que deseja recorrer à nossa fé após uma cirurgia de câncer de estômago (Registro de Orientações, vol. 3, p. 18)**
+
+(Consulta)
+Uma pessoa foi diagnosticada com câncer de estômago e tem uma incisão de cerca de 24 centímetros a partir da boca do estômago. Atualmente, está se alimentando com líquidos. Ela diz que gostaria de recorrer à Igreja Messiânica. Qual a sua orientação?
+
+(Orientação)
+Após uma cirurgia como essa, a sobrevida média é de dois anos e meio. Na melhor das hipóteses, talvez se estenda para três ou quatro anos. Nesses casos, o Johrei não tem muito efeito. Uma vez operado, não há o que fazer. É um crime médico.
+
+"Mesmo com Johrei, não há chance de prolongar a vida?"
+
+Com sorte, talvez cinco anos. E isso seria um excelente resultado. Com um corte desse tamanho, nem três anos devem ser fáceis. Talvez um ou dois. Isso é com os médicos. Nós não podemos intervir. Para pessoas assim, o melhor é que conheçam bem as questões do Mundo Espiritual e se preparem para a morte. Essa seria a maior salvação.
+
+"O médico operou dizendo que ele teria cerca de dois meses de vida."
+
+Um médico assim está equivocado. Em suma, é um crime cometido com boas intenções.
+
+### Duas, Enfermidades Abdominais
+
+**1. Pessoa cujo endurecimento no baixo-ventre se dissolveu, resultando em inchaço em todo o abdômen, sem melhora aparente (Ensinamento)**
+
+(Consulta)
+Tenho 36 anos e ingressei na fé em 1947. No final de novembro do ano passado, comecei a ter uma purificação de peritonite. Inicialmente, havia um endurecimento no baixo-ventre, que se dissolveu e fez todo o meu abdômen inchar. Atualmente, está do tamanho de uma barriga de fim de gravidez. Em geral, não sinto muita dor. Tenho recebido Johrei continuamente até hoje, mas não vejo melhora significativa. O volume de urina é normal, cerca de cinco a seis vezes por dia. A alimentação consiste em duas tigelas infantis rasas de arroz. Estou grávida.
+
+(Orientação)
+Ministre Johrei intensamente nos rins e aprofunde sua fé, e você será curada.
+
+**2. Jovem que, após melhora de uma purificação nos rins e peritônio, teve uma recaída com febre, inchaço e dor abdominal, vômitos ocasionais, perda de apetite e debilidade severa (Coletânea de Ensinamentos, vol. 3, p. 84)**
+
+(Consulta)
+Uma jovem de 20 anos, a partir de meados de abril de 1951, teve uma purificação nos rins e no peritônio. Por cerca de dois meses, a evolução foi favorável, o abdômen diminuiu de tamanho e o inchaço cedeu, o que a deixou muito feliz. Contudo, depois disso, ela passou a ter febre de 38 a 39 graus todas as noites, o que tornou seus ombros e pescoço extremamente flexíveis. Atualmente, a febre não é tão alta, mas desde que começou, ela perdeu o apetite. Ao comer, seu abdômen incha e ela ocasionalmente vomita. Sente dor constante em todo o abdômen, e essa condição persiste até hoje. Por causa disso, sua debilidade é severa e agora se tornou penoso para ela ficar de pé. Ela raramente ficou doente na infância, mas sempre teve menstruação irregular. Após a purificação, teve um pequeno fluxo no início de junho e, desde então, não menstruou mais. A mãe, durante o parto dela, teve nefrite gestacional e esteve à beira da morte. A família é muito devota; todos são membros e têm o Altar e a Imagem da Deusa Kannon. Eles encaram a purificação da filha como uma purificação dos pecados de toda a família, entregando a situação a Deus com gratidão. Rogo por uma orientação sobre esta purificação.
+
+(Orientação)
+Quem está ministrando o Johrei? Há um endurecimento na região dos rins, não?
+
+"No início havia, mas recentemente amoleceu."
+
+Mas ainda há uma quantidade considerável. A perda de apetite também se deve à febre. Há um endurecimento no abdômen, certo? Falta um pouco de poder espiritual. Um caso como este deveria se dissolver rapidamente. Dói quando pressiona, não é?
+
+"Sim, ela sente dor quando o abdômen é pressionado. Está sempre com as mãos sobre a barriga."
+
+Ainda há toxinas. Elas estão se dissolvendo.
+
+"As pessoas da família estão ministrando o Johrei..."
+
+A família ainda não tem força suficiente. É preciso ministrar com mais frequência. Se continuar assim, ela pode perder a vida. Ela precisa ter mais diarreia.
+
+"Ela evacua fezes endurecidas cinco ou seis vezes ao dia."
+
+Fezes endurecidas... não deveria ser assim. Será que não estão aplicando força no Johrei? A dissolução está lenta.
+
+"No início, ela ia à Igreja, mas depois ficou penoso para ela se levantar."
+
+Isso é porque está debilitada, perdeu o apetite. Para os médicos, isso seria tuberculose intestinal. As toxinas estão solidificadas no abdômen. Um caso como este deveria se curar sem problemas. Desta vez, peça que ministrem com o máximo de relaxamento, para que a luz penetre profundamente. Isso é difícil. A origem está nos rins. Ela é membro, não é?
+
+"Sim, é."
+
+Ela mesma deve ministrar Johrei em si constantemente. Ela está fazendo isso, certo? A irregularidade menstrual também se deve a isso. O resultado depende do poder espiritual de quem ministra o Johrei. Se o poder espiritual for forte, ela se curará rapidamente. O poder espiritual é fraco quando se aplica força. Sem aplicar força alguma, ele se torna extremamente forte. Assim, a dissolução ocorrerá rapidamente.
+
+**3. Mulher com um nódulo do tamanho de um punho no baixo-ventre (Paraíso Terrestre, ed. 40, p. 11)**
+
+(Consulta)
+Um nódulo do tamanho de um punho (semelhante a uma bola de esponja) se formou no meu baixo-ventre (abaixo do umbigo, à direita). Pedi Johrei, mas ele parecia apenas aumentar de tamanho, embora não houvesse dor. Em fevereiro de 1951, após receber uma orientação de Meishu-Sama, segui suas palavras e recebi Johrei diariamente. Nesse período, tive episódios de diarreia, mas continuei sem interrupções, recebendo a proteção divina. Contudo, o nódulo não mudou muito e, consequentemente, não tenho filhos. Em julho de 1952, servi em Gora e, ao retornar para casa, em 8 de agosto, senti dor no baixo-ventre, perdi o apetite e fiquei constipada. No dia 9, não consegui urinar e tive uma purificação tão intensa que cheguei a ter dificuldade para respirar. No dia 10, graças à proteção divina, senti-me aliviada, mas ainda não vejo muita mudança no nódulo. Seria por falta de Johrei? Levará mais dois ou três anos?
+
+(Orientação)
+O fato de o nódulo ter aumentado um pouco é um excelente sinal. Normalmente, ele cresce, abre-se um orifício, o pus é drenado e a cura acontece. Mas, em alguns casos, ele incha até um certo ponto e depois se resolve através da diarreia. Esta pessoa tem um endurecimento na região do rim direito; deve-se ministrar Johrei intensamente nesse local. Durante o Johrei, é preciso relaxar a mão o máximo possível. Levará mais tempo, mas a cura é certa.
+
+**4. Senhora idosa com peritonite e abdômen inchado como o de uma gestante em fim de gravidez devido ao uso contínuo de medicamentos chineses (Coletânea de Ensinamentos, vol. 1, p. 8)**
+
+(Consulta)
+Uma mulher de 61 anos. Desde jovem, sofria de dores abdominais constantes, com menstruação escassa e dor no baixo-ventre. Aos 37 anos, teve uma doença gastrointestinal, ficou em jejum por dezenas de dias e esteve em estado crítico. Por volta dos 46 anos, desenvolveu peritonite crônica e usou chás medicinais continuamente até ingressar na fé. A partir de janeiro de 1949, recebeu Johrei de forma contínua. Nos dias 4 e 5 de agosto de 1950, ficou incapaz de urinar, perdeu a consciência, seu corpo todo inchou e o abdômen ficou do tamanho de uma gestante em fim de gravidez. Mas, recebendo a proteção divina, no dia 6 conseguiu urinar bastante e no dia 8 pôde se levantar. Em fevereiro de 1951, ingressou na fé. Em 15 de maio, após peregrinar a Atami, a purificação se intensificou, o corpo todo inchou e a micção tornou-se escassa. No início de junho, após pedir ajuda ao ministro da Igreja, a micção se tornou mais fácil e o volume diminuiu, e o inchaço geral cedeu, mas o abdômen permanece do tamanho de uma gestante em fim de gravidez. Apesar dessa condição, ela acha qualquer alimento delicioso e deseja especialmente peixe e carne. Se come demais, a micção diminui e ela piora, então come apenas uma tigela rasa por dia. A pulsação está constantemente entre 30 e 40, mas durante o dia ela consegue ficar sentada na cama. Desde antes dos 40 anos, sua visão vem diminuindo e atualmente está quase cega. Temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre a causa desta purificação e os pontos vitais do Johrei.
+
+(Orientação)
+Não há "ponto vital" nenhum. É yakudoku. Ela ingeriu uma quantidade enorme. Medicamentos chineses. A causa é essa. Não há mais nada. Muitas pessoas perderam a vida por causa de medicamentos chineses. Se for para apontar um ponto vital, seriam os rins.
+
+**5. Pessoa com peritonite que sente apetite, mas não consegue comer, e tem nódulos abdominais que se movem ou desaparecem (Coletânea de Ensinamentos, vol. 5, p. 31)**
+
+(Consulta)
+Uma mulher de 39 anos. Desde a primavera de 1951, não se sentia bem, com fraqueza generalizada, falta de apetite e tendência à debilidade. Por volta de maio, seu baixo-ventre ficou duro e inchado, mas após cerca de um mês, amoleceu um pouco. Em seguida, todo o abdômen inchou, com sintomas de peritonite. No final de agosto, o inchaço diminuiu, mas o apetite não voltou e ela sentia dores abdominais ocasionais. Em setembro, teve febre alta repentina, fraqueza generalizada, falta de apetite e ficou "pele e osso". Recentemente, sente apetite, mas ao tentar comer, o estômago fica cheio e a comida não entra. Se força, o estômago dói e ela sofre. O Johrei alivia a dor, mas se para, a dor retorna por três ou quatro horas. Há três nódulos alongados de tamanhos diferentes no abdômen, que se movem ou desaparecem. Desde jovem, ela tem cerca de cinco vértebras salientes na região posterior ao estômago, que não doem, mas ocasionalmente causam uma fadiga lancinante e um sofrimento indescritível. O Johrei tem sido focado na parte posterior do estômago, nas vértebras salientes, no rim esquerdo, no pescoço e nas glândulas parótidas. A família toda é membro e temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre os pontos de Johrei, os nódulos abdominais e o fato de sentir apetite, mas não conseguir comer.
+
+(Orientação)
+Há um nódulo no abdômen. Se ele se move, é uma serpente. Uma serpente está agindo com más intenções. No entanto, ela já deveria estar conseguindo comer, tendo melhorado tanto. Há um excesso de toxinas nessa região. A presença de toxinas facilita a possessão por espíritos malignos. São as duas coisas. As costas são importantes, mas o abdômen também precisa ser tratado pela frente. Será que não estão aplicando força? Ao relaxar a mão, a dissolução se torna muito mais fácil. Tente ministrar com a mão relaxada. Falta pouco para a cura. As vértebras salientes... não têm muita relação. Isso pode ser tratado depois que o outro problema se resolver. A sensação lancinante... é uma purificação ocorrendo. É melhor tratar nesses momentos, pois a cura é mais rápida. E a cabeça. A cabeça pode estar relacionada ao apetite. A nuca. Tente ministrar Johrei na cabeça; se houver um endurecimento, dissolva-o. E nos pontos quentes. Fazendo isso, falta pouco para ela melhorar.
+
+**6. Criança com o abdômen inchado, em estado de altos e baixos (Paraíso Terrestre, ed. 48, p. 15)**
+
+(Consulta)
+Uma criança de quatro anos e sete meses. Desde o final de 1952, seu abdômen foi inchando gradualmente. Percebemos em 11 de janeiro e começamos a ministrar Johrei, mas o inchaço aumentou, ficando muito grande e com as veias azuladas visíveis. No final de fevereiro, seu estado se tornou preocupante, mas graças à proteção divina, o volume de urina aumentou um pouco e ela recuperou o ânimo. Desde então, tem tido altos e baixos, e o inchaço abdominal permanece inalterado. A micção ocorre a cada duas horas, com um volume de um copo e meio a dois copos de uísque. O suor noturno é tão intenso que chega a escorrer. O apetite é relativamente bom. Eu ministro Johrei uma vez a cada dez dias, e o restante é feito várias vezes ao dia por membros antigos e pelos pais. Por um tempo, reduzimos o Johrei para uma vez ao dia, mas o volume de urina diminuiu, então voltamos a ministrar várias vezes. Recentemente, a debilidade se tornou evidente e, há dois ou três dias, a criança começou a dizer "não quero morrer", "vou morrer", com os olhos cheios de lágrimas, de forma triste. Outras vezes, diz isso como se estivesse provocando a mãe, com um sorriso malicioso, de uma maneira que não parece de criança. Rogo por uma orientação sobre os pontos de Johrei e o número de sessões diárias.
+
+(Orientação)
+Os pontos vitais são os rins e a bexiga. Este é um caso que se cura sem dificuldade, mas quem está ministrando o Johrei deve estar errando o ponto vital. É preciso ministrar Johrei nesses locais várias vezes e, ao fazê-lo, relaxar a mão o máximo possível.
+
+**7. Homem com dormência em ambas as pernas e sensação de inchaço e desconforto abdominal após as refeições (Coletânea de Ensinamentos, vol. 2, p. 40)**
+
+(Consulta)
+Um homem de 26 anos (que tem o Altar de Komyō Nyorai). Por volta de janeiro de 1951, ele teve uma purificação de yakudoku com tosse, expectoração, dor abdominal, diarreia e fissura anal. Felizmente, a evolução foi favorável, mas no final de julho, começou a sentir dormência em ambas as pernas. No final de agosto, a dormência piorou e atualmente está tão paralisado na área coberta pelos sapatos que quase não sente quando o beliscam. Ele diz que é muito perigoso ir ao banheiro. Além da dormência nos pés, seus outros sintomas são um abdômen duro e uma sensação de inchaço e desconforto após as refeições. A debilidade é considerável. A febre é baixa e o pulso está entre 80 e 90. A dormência nos pés seria causada por um yakudoku pesado que desceu para essa parte? Ou teria outro significado? O yakudoku que ele usou foi quarenta ampolas de cálcio, trinta de Salbro e cerca de trinta dias de medicamentos orais. O pai está ministrando o Johrei.
+
+(Orientação)
+O medicamento está descendo. Portanto, não é nada de mais. Com paciência, ele se curará. O inchaço abdominal também é causado pelo acúmulo de medicamento no abdômen. O estômago se expande, e por isso o abdômen incha. A debilidade é porque ele não consegue se alimentar adequadamente. A febre não é um problema. O medicamento simplesmente desce e se acumula na parte inferior. Por mais que se remova, ele continua se acumulando. É preciso persistir. Se a remoção superar o acúmulo, a cura virá. Ministre Johrei várias vezes ao dia. Assim, ele se curará mais rápido. Os medicamentos são um problema. Um caso como este, se for a um médico, será confundido com beribéri. E se ele receber injeções de vitamina B, aí sim sua vida correrá perigo. É como um suicida pedindo ajuda para se matar. E custa caro.
+
+**8. Pessoa que urina pequenas quantidades mais de dez vezes ao dia, com dor no fígado e constipação, que recebeu injeções para amebíase e agora, ao receber Johrei, tem o abdômen inchado e sente náuseas (Ensinamento)**
+
+(Consulta)
+Um homem de 34 anos. Há sete anos, sentia uma leve dor na região do estômago ao caminhar e urinava pequenas quantidades mais de dez vezes ao dia. Gradualmente, o fígado também começou a doer e ele ficou constipado. O médico disse que uma ameba havia entrado no fígado e aplicou uma quantidade considerável de injeções, sem efeito. Em novembro de 1947, ele ingressou na fé. Atualmente, sente dor em ambos os lados da coluna, entre as omoplatas, e no fígado. Ao receber Johrei, todo o abdômen incha e ele sente náuseas, o que o leva a induzir o vômito. Gostaria de saber a causa do inchaço abdominal rápido.
+
+(Orientação)
+Bem, a toxina está nas costas e, ao caminhar, ela reflui para o estômago. A origem é o medicamento que ele tomou no passado. Urinar mais de dez vezes ao dia é um pouco excessivo, mas não deve ser nada grave.
+
+"Ele urina em pequenas quantidades."
+
+Ele sente vontade de urinar, é isso?
+
+"Sim, sente vontade, mas sai pouco."
+
+Isso indica que há toxinas entre a bexiga e a uretra. Mas isso não é nada de mais. A dor no fígado também é causada pela toxina local, e a constipação... como está a alimentação dele?
+
+"Ele come pouco."
+
+Ah, ele está constipado porque come pouco. Mas a constipação não é um problema. Pelo contrário, dá menos trabalho, não é? (risos) A medicina diz que a constipação é ruim, mas não é verdade. Eu mesmo, achando um incômodo ir ao banheiro todos os dias, tentei ficar constipado, mas não consegui. (risos) Amebíase é um disparate. Essa pessoa vai sofrer por um tempo. Não sei a natureza nem a concentração do medicamento, mas ele está purificando. A dor intensa é purificação. E, mesmo que a toxina se dissolva, se for muito concentrada, ela fica acumulada por um tempo, e por isso o abdômen incha.
+
+**9. Pessoa que usou Albazir, Gen-no-shoko, etc., e recentemente, com uma purificação intensa, geme de dor com náuseas e dor abdominal contínua (Coletânea de Ensinamentos, vol. 3, p. 18)**
+
+(Consulta)
+Toda a família é membro, e temos o Altar e a Imagem da Deusa Kannon. Gostaria de uma orientação sobre a purificação de meu pai. Até os 54 ou 55 anos, ele ocasionalmente pegava um resfriado, mas nunca faltou à escola. Há cerca de três anos, começou a sentir dor no estômago quando estava com fome, que parava ao comer. Na época, tomou "Wakamoto", "Normosan", "Tomosan", etc. Também, por causa de uma periodontite, tomou medicamentos de venda livre como Albazir e Dizeptal. Depois, com um medo extremo de diarreia, tomou continuamente "Gen-no-shoko" concentrado para pará-la. A diarreia parou, mas ele ficou pálido e perdeu o apetite. Percebendo o perigo dos medicamentos, recebeu o Ohikari em janeiro de 1949. Nos três anos seguintes, recebeu Johrei diariamente. Nesse período, a purificação foi lenta, mas não houve um dia sem dor. Atualmente, com o Johrei, ele se sente muito aliviado. A partir de 27 de setembro, a dor abdominal se intensificou, e em 1º de outubro, a purificação se tornou especialmente forte. A partir do dia 2, começou a sentir náuseas e geme de dor com uma dor abdominal quase contínua. Vomita grandes quantidades de uma água marrom-clara quatro ou cinco vezes ao dia. Como não come, mesmo o suco de maçã que toma com o Papel Sagrado e o Arroz Divino é todo vomitado. Na tarde do dia 4, a água vomitada era como uma lama marrom-escura e a urina também ficou marrom. Atualmente, sente uma queimação intensa no peito e um desconforto indescritível em todo o abdômen.
+
+(Orientação)
+Ele ia à escola, então... era professor? Isso é yakudoku. "Wakamoto", "Normosan" e "Tomosan" não são tão graves, mas "Albazir" é péssimo. Muitas pessoas morrem por tomar "Albazir" por um período. É extremamente prejudicial. E o Gen-no-shoko... esse é o pior de todos. Gen-no-shoko é suicídio. Pessoas que tomaram muito, no final, não se curam. No passado, tratei muitas pessoas assim e cheguei a alertar para não aceitar casos de quem tomou muito Gen-no-shoko. A purificação desta pessoa é de yakudoku. A purificação de hoje é mais forte e diferente da de antigamente, então a eliminação é mais rápida. Ele está eliminando bastante rápido. Não digo que não se curará, mas se sua vida resistir aos vômitos e eliminações, ele se curará. Se conseguir suportar a debilidade, certamente se curará. A alimentação dele é normal ou líquida?
+
+"Ele não come nada."
+
+Isso é muito ruim. O Johrei deve ser focado principalmente nas costas. Há um endurecimento nas costas. A toxina das costas se dissolve e vem para o peito. Vocês estão usando o método sem aplicação de força, certo? Não se deve mover a mão. Ministrando sem força, a dissolução é mais rápida. Na frente, a boca do estômago é o melhor ponto. Como está a diarreia?
+
+"Ele está completamente constipado."
+
+Por quanto tempo ele tomou o Gen-no-shoko?
+
+"Por cerca de dez dias."
+
+É yakudoku. Como eu disse, sem mover a mão, com a mão relaxada, apalpe as costas e encontre o ponto mais duro. Trate ali. E os ombros?
+
+"São flexíveis. Ele diz que nunca teve os ombros rígidos."
+
+Então, ele tem um corpo basicamente forte.
+
+"Ele não tomou muitos remédios, apenas vacinas preventivas."
+
+É por isso que ele está resistindo. Ter os ombros flexíveis nessa idade é sinal de saúde. Se, com o método atual, o apetite dele melhorar, por menor que seja, pode-se considerar que o pior já passou.
+
+"E o nome dele?"
+
+Sumihiro Yoshimine... o nome é bom. Sumihiro Kaneko... lê-se Kane? Sua linhagem é bem complicada. No futuro, seria bom mudar seu nome, mas por enquanto não há problema. Como eu disse, a purificação é forte, então talvez a dissolução seja surpreendentemente rápida e ele supere a crise. De qualquer forma, a causa é o endurecimento nas costas. Tente removê-lo o mais rápido possível, ministrando Johrei quantas vezes forem necessárias. Foque em remover o endurecimento das costas.
+
+**10. Mulher que passou por uma cirurgia abdominal e ocasionalmente sente dor intensa na região do osso púbico, com incontinência urinária e constipação (Ensinamento)**
+
+(Consulta)
+Uma mulher veio com dor ciática na nádega esquerda. A dor ciática sarou, mas sua constipação crônica não melhorou; pelo contrário, piorou recentemente. Ela sente dor intensa na região do osso púbico ocasionalmente e tem perdas de urina. Ela passou por uma cirurgia abdominal no passado e recebeu uma quantidade considerável de anestesia geral. Por favor, oriente sobre a causa da constipação.
+
+(Orientação)
+A causa é o yakudoku daquela época. Vai levar um bom tempo. O yakudoku da cirurgia está descendo. Ministre Johrei intensamente, de forma que a luz alcance as profundezas. As causas da constipação são variadas: pessoas que comem pouco, pessoas que mastigam muito bem os alimentos, ou um estreitamento do reto. Este último caso é devido a um nódulo de toxina, que, ao ser dissolvido, resolve o problema. A ingestão insuficiente de líquidos também causa constipação.
+
+**11. Ponto vital do Johrei em caso de dor abdominal (Coletânea de Ensinamentos, vol. 3, p. 50)**
+
+Quando o abdômen dói, há um endurecimento na parte de trás, um pouco acima. Existe em ambos os lados. Um dos lados estará mais inchado. Geralmente, o esquerdo é maior. Em algumas pessoas, pode ser o direito, mas deve-se ministrar Johrei no lado mais inchado. Isso requer paciência. A melhora virá gradualmente.
+
+**12. Homem que usava analgésicos e adesivos, foi internado por dor de estômago que se tornou intensa, foi sedado com injeções e ficou debilitado. Atualmente, tem inchaço localizado nas costas, especialmente no lado esquerdo, e está extremamente fraco (Coletânea de Ensinamentos, vol. 1, p. 24)**
+
+(Consulta)
+Gostaria de uma orientação sobre um homem de 52 anos, não-membro, que está passando por uma grande purificação abdominal. Ele sofria de dores nos ombros e de cabeça e, sempre que doía, tomava analgésicos e usava adesivos Tokuhon. Por volta de novembro de 1949, teve um espasmo estomacal violento e passou o ano seguinte sem grandes alterações. Por volta de dezembro de 1950, a parte superior esquerda do estômago começou a doer de forma latejante e, a partir de abril de 1951, a dor aumentou dia a dia, levando-o a ser internado no final de maio. O médico disse que havia água na pleura e aplicou quatorze injeções de estreptomicina, sem nenhuma mudança. Em 7 de junho, ele teve alta e, no dia seguinte, foi internado em um hospital nacional. A partir de então, passou a ter uma dor violenta no estômago cerca de uma vez por dia. No início de julho, as crises se tornaram de cinco a seis por dia, e a única solução era sedá-lo com injeções. A causa da doença era desconhecida e os médicos, sem mais o que fazer, apenas aplicavam injeções para a dor. Ele foi enfraquecendo gradualmente e, no início de julho, recebeu um prognóstico de apenas um mês de vida. A partir de 7 de julho, começou a receber Johrei diariamente e, desde aquele dia, a dor intensa se afastou. Muito feliz, sua esposa e sobrinha ingressaram na fé. Cerca de dez dias depois, ele teve alta, mesmo em estado grave e debilitado. Desde então, tem recebido Johrei diariamente, mas está extremamente fraco. Atualmente, os endurecimentos na parte superior esquerda do estômago, na boca do estômago e no fígado direito foram consideravelmente dissolvidos. No entanto, recentemente, ao tomar um pouco de água ou comida, seu abdômen incha imediatamente, a ponto de parecer que vai explodir, e às vezes ele regurgita o alimento ao arrotar. Quando o abdômen incha, o Johrei o alivia, mas não há outra purificação clara. Atualmente, as costas e a lateral do corpo, especialmente o lado esquerdo, estão com inchaço localizado. O peito do lado do pulmão esquerdo está tão inchado que quase não se move ao respirar. O sofrimento do inchaço estomacal, graças à proteção divina, vem em dias alternados, o que o torna um pouco mais suportável, e ele está grato. A família toda está se apegando à fé com todo o coração. Rogo por sua proteção.
+
+(Orientação)
+É um ministro intermediário? A essa altura, perguntar como ministrar Johrei é inaceitável. As toxinas estão acumuladas nas costas, especialmente na região dos ombros. Como sempre digo, quando o abdômen dói, a tendência é tratar o abdômen, mas não é isso. As costas são os bastidores; a frente é o palco. Tratando as costas, ele se curará. Isso é yakudoku. É uma doença criada pelos médicos, nada mais. Vivemos em um mundo realmente terrível. Uma situação como esta pode custar uma vida. Criam-se doenças, gasta-se dinheiro... é um suicídio pago. Em vez de gastar tanto dinheiro, seria mais inteligente ir para o Monte Mihara. Acabaria tudo de uma vez, sem sofrimento. É tolo se submeter a algo tão absurdo. Não se trata de superstição religiosa. A superstição médica é a grande superstição mundial. Portanto, neste caso, pode-se tratar quase que exclusivamente as costas. E os rins. Os rins também estão bastante atrofiados. O inchaço abdominal é devido à dissolução do medicamento. É comum o yakudoku dissolvido causar inchaço. Há muitos casos em que apenas o braço incha. Outros, em que o medicamento desce para as pernas e elas incham. Esta pessoa tomou muitos remédios para o estômago, que se dissolveram e se solidificaram. Vai levar um tempo considerável. Se ele conseguir suportar a debilidade, certamente se curará. É claro que ele também vomitará; ele está expelindo o medicamento. E ainda por cima, recebeu injeções de morfina. Ele ficará bastante debilitado. Portanto, não posso prever se ele vai se curar ou não. Se eu tivesse lhe dado o remédio, eu saberia, mas foi outra pessoa. Se a quantidade de medicamento for pequena, tudo bem. Ele precisa resistir o tempo necessário para eliminar um determinado medicamento. Se não conseguir, não haverá salvação. Mas casos como este costumam se salvar. Ao contrário das doenças pulmonares, nas doenças de estômago o corpo tende a resistir mais. E, na medida do possível, as pessoas ao redor devem ler os Ensinamentos para ele. Isso o purificará espiritualmente.
+
+**13. Homem de meia-idade que passou por cirurgia nos olhos, teve problemas cerebrais, operou o intestino, teve pneumonia, tomou todos os tipos de remédios e, após ingressar na fé, teve sangramento hemorroidário contínuo, anemia, desmaio e, posteriormente, instabilidade nas pernas, cabeça confusa e rosto inchado (Coletânea de Ensinamentos, vol. 4, p. 49)**
+
+(Consulta)
+Um homem de 52 anos. Aos treze, operou o olho direito e, desde então, passou por mais três cirurgias no mesmo olho. Aos dezenove, teve um problema cerebral que foi curado com tratamento médico. Aos 29, ao levantar um saco de arroz, teve algo como uma fissura no intestino e, após uma cirurgia, começou a sentir dor na lombar. Até conhecer nossa fé, pedia aos familiares que batessem em suas costas com um bastão de madeira. Aos 35, teve algo parecido com pneumonia e se curou com remédios de venda livre. Aos 42, teve apendicite e se curou sem cirurgia. Aos 48, em maio, ingressou na fé. Em novembro, toda a família teve uma purificação de sarna, que melhorou em setembro do ano seguinte. Ele foi ao Solo Sagrado para agradecer e, desde então, começou a ter sangramento hemorroidário. Nos três anos seguintes, o sangramento foi esporádico, mas em março, abril e maio de 1951, passou a sangrar cerca de cinco vezes por dia. Em junho, teve anemia e desmaiou. Depois, com o Johrei, o sangramento parou, ele recuperou um pouco a cor e o ânimo, e em 15 de outubro, peregrinou ao Solo Sagrado. Ao retornar, teve uma nova purificação com um pequeno sangramento. Sua pele está pálida devido à anemia e, embora o apetite seja excelente e ele não emagreça, suas pernas estão instáveis e ele diz que, ao se levantar, tudo fica amarelo. Sua cabeça está confusa e, há dois ou três dias, o volume de urina diminuiu e o rosto está inchado. Ele diz que, antes de ingressar na fé, tomou todos os tipos de remédios. Sua esposa ficou viúva de dois maridos anteriores e, recentemente, mandou fazer as tabuletas memoriais deles e as colocou no altar budista da família. Desde então, ele parece ter ficado com a cabeça mais confusa e o rosto inchado. Haveria relação com as tabuletas dos ex-maridos?
+
+(Orientação)
+Fissura no intestino... como se fosse um objeto de cerâmica. A cirurgia no olho... foi isso que causou o problema cerebral. Com tudo isso, ele ingeriu uma quantidade considerável de medicamentos. Eles se acumularam no intestino e, ao levantar o saco de arroz, o nódulo de yakudoku... iniciou uma purificação. Em seguida, a lombar também começou a purificar. Os remédios de venda livre também são prejudiciais. O sangramento hemorroidário é sangue da cabeça. Tudo isso foi a eliminação de sangue tóxico. Quem está ministrando o Johrei? Será que não estão errando o ponto vital? Ele tem algum endurecimento?
+
+"Antes tinha. Atualmente, recebe Johrei cerca de três vezes ao dia. Quando se ministra nos rins, ele sente um calor muito grande, a visão melhora e a instabilidade na lombar também."
+
+Então, o ponto agora são os rins. E ele está melhorando, não é? Não tem febre?
+
+"A temperatura está normal."
+
+Há um endurecimento nos rins?
+
+"Um pouco."
+
+Mas não a ponto de doer quando pressiona, certo?
+
+"Exato."
+
+E o abdômen?
+
+"Parece estar flexível."
+
+Ele se curará em breve. Não é nada grave. Os rins e as costas... é isso. A relação com as tabuletas dos ex-maridos... não é que não exista. Nesses casos, os espíritos se aproximam dele querendo receber Johrei. Isso não vai demorar muito para se resolver. A solução virá rapidamente.
+
+**14. Pessoa com dor na cicatriz de uma úlcera gástrica, diagnosticada com gastroptose, com o abdômen rígido como uma tábua, dor intestinal contínua, dificuldade para andar e crises de dor intensa, durante as quais surge uma protuberância em forma de bastão no baixo-ventre (Coletânea de Ensinamentos, vol. 3, p. 49)**
+
+(Consulta)
+Desde janeiro de 1947, sofro com uma purificação abdominal. Fui diagnosticada com "dor na cicatriz de úlcera gástrica" ou "gastroptose". Até por volta de maio, minha condição piorou drasticamente. Meu abdômen ficou como uma tábua, dormente e sem sensibilidade. Não conseguia reter os alimentos e vomitava todos os remédios, além da substância viscosa. Evacuava fezes pretas a cada cinco ou seis dias e, devido à dor lancinante, como se meu intestino estivesse sendo arranhado por dentro, cheguei a me preparar para a morte. Por volta de junho, tive uma melhora parcial. Em dezembro de 1947, ingressei na fé e, no ano seguinte, entronizei o Altar. No entanto, incapaz de suportar o sofrimento, recorri a tratamentos médicos. A dor interna no intestino continua até hoje e tenho dificuldade para andar. Ocasionalmente, tenho crises de dor intensa e, nesses momentos, uma protuberância em forma de bastão surge no baixo-ventre, pulsando vigorosamente. Recentemente, tenho recebido Johrei, entronizei um altar para o espírito de dragão e consigo comer cerca de uma tigela e meia de arroz com apetite. Minha mãe faleceu há alguns anos e sua aparência no leito de morte era a de um dragão. Minha doença teria alguma relação espiritual? E qual o significado da pulsação no baixo-ventre?
+
+(Orientação)
+Isso não é espiritual. É yakudoku. O abdômen como uma tábua... também é yakudoku. Tudo é yakudoku. As fezes... como a alimentação é escassa, as fezes se ressecam e ficam escuras. No entanto, há um pouco de sangue misturado, da úlcera gástrica. A sensação de arranhão... é o yakudoku irritando o intestino. A toxina, ao passar pelo intestino, o irrita. A dor interna contínua... o yakudoku flui constantemente para o intestino, deixando a mucosa intestinal inflamada. A protuberância em forma de bastão que pulsa... é comum em pessoas magras. À medida que a cura progride e o corpo ganha peso, isso se normaliza. O espírito de dragão também tem sua relação, mas a causa principal é o yakudoku. Quem toma muitos remédios para o estômago, invariavelmente, chega a esse estado. Há um endurecimento nas costas, então o Johrei deve ser focado principalmente nessa região. Quando o abdômen dói, há um endurecimento na parte de trás, um pouco acima. Existe em ambos os lados. Um dos lados estará mais inchado. Geralmente, o esquerdo é maior. Em algumas pessoas, pode ser o direito, mas deve-se ministrar Johrei no lado mais inchado. Isso requer paciência. A melhora virá gradualmente.
+
+**15. Mulher que, após o parto, tomou grande quantidade de vários medicamentos e recentemente apresenta expectoração com sangue, inchaço e debilidade acentuada (Coletânea de Ensinamentos, vol. 7, p. 79)**
+
+(Consulta)
+Uma mulher de 48 anos. Desde a infância, sofria de dores abdominais e usou Kumitinki continuamente até os dez anos. Casou-se aos 24 e deu à luz uma menina aos 25. Desde então, sua saúde ficou debilitada. Tomou cerca de dois frascos e meio de Albazir. Como a família era dona de uma farmácia, ela tomou uma grande quantidade de outros medicamentos e usou Gen-no-shoko como remédio habitual por dois ou três anos. Há dois ou três anos, começou a ter uma purificação na região lombar, com altos e baixos. A partir de outubro de 1951, a purificação se intensificou e, em 1952, teve um sangramento hemorroidário abundante e expectoração com sangue. Recentemente, seu corpo está inchado, ela sente um mal-estar generalizado e tem dificuldade para expelir o catarro. Não tem apetite, comendo cerca de meia tigela duas vezes ao dia, e sua debilidade se acentuou. À noite, o abdômen incha e ela não consegue dormir. Temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre o foco do Johrei.
+
+(Orientação)
+Albazir é terrível. Muitas pessoas morrem por causa dele. Gen-no-shoko também é ruim. Mas essa mulher ter sobrevivido é impressionante. Ela deve ter nascido muito forte para aguentar tudo isso. Não há um "foco" específico para o Johrei. Trata-se de yakudoku, então o corpo todo está afetado. Apenas o Gen-no-shoko se concentra no abdômen. Mas a intoxicação por Gen-no-shoko é muito persistente. Portanto, o problema principal é a debilidade. O Johrei diminui a quantidade de medicamento, e nesse sentido ela melhora, mas isso pode causar perda de apetite e, consequentemente, debilidade. Se ela conseguir suportar a fraqueza, se curará. Se a debilidade a vencer, a situação é perigosa. O resultado depende da quantidade de medicamento que ela tomou. Por isso, não posso prever. Se eu tivesse lhe dado o remédio, eu saberia. E para piorar, Gen-no-shoko e Albazir são dos piores tipos. O inchaço abdominal... é o medicamento que estava solidificado e agora está se dissolvendo. Se a micção for boa, ótimo. O abdômen e os rins... trate bem esses pontos. Focando neles, o apetite aumentará, a debilidade diminuirá e as chances serão melhores.
+
+**16. Jovem que, antes de evacuar, sempre elimina muco e sangue, e foi diagnosticado com amebíase (Coletânea de Ensinamentos, vol. 8, p. 38)**
+
+(Consulta)
+Um jovem de 18 anos. Há três anos, antes de evacuar, sempre elimina muco e sangue. Tomou vários remédios e injeções. Há cerca de um ano, foi diagnosticado com amebíase e úlceras em todo o reto. Em fevereiro de 1952, prestes a ser operado, teve a oportunidade de receber Johrei. Nos primeiros dez dias, o abdômen não acumulou gases, o sangramento e o muco diminuíram, o apetite aumentou e ele recuperou um pouco o ânimo. Contudo, depois disso, o sangramento e o muco aumentaram, e os outros sintomas voltaram ao estado anterior ao Johrei. Essa situação perdura por mais de vinte dias. Ele tomou estreptomicina, cloranfenicol, hemostáticos e muitas outras injeções e medicamentos. Ele está extremamente pálido, com uma cor azulada. Rogo por uma orientação sobre o ponto vital do Johrei, a amebíase e a causa das úlceras.
+
+(Orientação)
+Muco e sangue... isso é excelente. Se ele tivesse simplesmente ignorado isso com alegria, já estaria curado há muito tempo. Mas, achando que era algo ruim, foi ao médico. O médico, também achando que era ruim, prescreveu remédios e injeções. Aí está o erro. Úlceras... isso é mentira. Isso absolutamente não existe. Os médicos não entendem as doenças. Mas se disserem que não entendem, sua credibilidade fica em jogo, então fingem que entendem. Isso é o que é ruim. É claro que, se admitissem a ignorância, prejudicaria o negócio, então são forçados a mentir. É uma mentira comercial. Amebíase... se deixada em paz, cura-se sozinha. Úlceras... são criadas por remédios. Se não tomar remédios, elas saram. Este caso também, se deixado em paz, se resolveria. O ponto vital do Johrei... a origem está aqui (nuca). Há um endurecimento aqui (nuca), então basta ministrar Johrei neste local. Isso também, se deixado em paz, se cura. Isso nem entra na categoria de doença. As pessoas vão ao médico para agravar o problema e criar novas doenças. É realmente uma situação terrível. Estreptomicina, cloranfenicol, hemostáticos... por causa disso, esse yakudoku certamente se manifestará em algum lugar no futuro. É bom que ele esteja preparado. Haverá febre baixa, diarreia, vômitos... quando isso acontecer, ele deve se alegrar.
+
+**17. Homem de meia-idade que passou por cirurgia, usou remédios para o estômago e recentemente tem uma purificação intensa de dor abdominal (Paraíso Terrestre, ed. 40, p. 14)**
+
+(Consulta)
+Um homem de 45 anos, que atualmente trabalha na mina de carvão de Sakito, na província de Nagasaki. Desde que ingressou na fé, em novembro de 1951, tem recebido a proteção divina. Embora sofra de dores abdominais à noite, ele trabalha todos os dias e, ao voltar para casa, se dedica com fervor ao Johrei. Desde então, orientou cerca de vinte pessoas e atualmente é responsável por um grupo de 24 colaboradores, auxiliando com grande empenho na Obra Divina. Recentemente, a purificação se tornou especialmente intensa. Ele recebe Johrei e, enquanto está ministrando em outras pessoas, sente-se aliviado, por isso continua a se dedicar ao Johrei diariamente. Até o momento, ele passou por quatro cirurgias e vários outros tratamentos, então acredito que seja uma purificação de remédios para o estômago e desinfetantes. Gostaria de uma orientação sobre o método e os pontos do Johrei.
+
+(Orientação)
+É, sem dúvida, yakudoku. O ponto vital do Johrei é principalmente a região dos rins. Em seguida, o local da dor no abdômen, ministrando com o máximo de relaxamento possível.
+
+**18. Mulher que, por quatro anos, repete uma purificação de dor abdominal aproximadamente uma vez por mês (Paraíso Terrestre, ed. 36, p. 12)**
+
+(Consulta)
+Eu ingressei na fé no outono de 1946 e tenho o Altar e a Imagem da Deusa Kannon. Na primavera de 1949, minha mãe (membro) faleceu após apenas três dias de dor abdominal. Na noite do décimo quarto dia após sua morte, tive uma dor abdominal repentina (com os mesmos sintomas de minha mãe falecida). Sofri por cerca de dez dias e, por fim, como todos ao redor estavam preocupados, tomei uma injeção. Desde então, aproximadamente uma vez por mês, tenho uma purificação de dor abdominal, com uma dor intensa no estômago que dura uma semana ou dez dias. Quando a dor cessa, volto ao meu estado normal de forma surpreendentemente rápida. Nas primeiras três ou quatro vezes, consultei um médico e tomei injeções. No entanto, não houve nenhuma reação à dor abdominal e, finalmente, percebendo meu erro, pedi perdão a Deus e parei completamente com os tratamentos. Quando a dor abdominal começa, meu ombro direito fica muito rígido e sinto um pouco de dor. Graças à proteção divina, a dor não é tão violenta como no início, mas como venho repetindo uma dor abdominal muito semelhante por um longo período de quatro anos, me pergunto se não há uma causa espiritual. Se for espiritual, o que devo fazer?
+
+(Orientação)
+É yakudoku. Esta pessoa tem um endurecimento que vai do ombro às costas. Ministrando Johrei nesse local com paciência, ela certamente se curará.
+
+**19. Pessoa que desenvolveu um nódulo do tamanho de uma xícara de chá no abdômen e passou por uma cirurgia de remoção (Coletânea de Ensinamentos, vol. 5, p. 32)**
+
+(Consulta)
+Um membro de 53 anos. No outono de 1950, um nódulo do tamanho de uma xícara de chá se formou em seu abdômen. Na primavera de 1951, um médico o diagnosticou com "algo no mesentério" e, através de uma cirurgia, removeu vinte e um nódulos, grandes e pequenos. No verão de 1951, um grande nódulo se formou novamente no mesmo local. Em novembro de 1951, ele ingressou na fé e, ao receber Johrei, teve uma crise de dor intensa, a urina ficou turva, a constipação desapareceu e passou a ouvir um som de "gō-gō" dentro do abdômen. Movimentar-se é penoso e ele tem dificuldade para andar. Na época em que o nódulo apareceu, ele recebeu a notícia da morte de seu filho mais velho em combate no sul. Qual seria a causa disso?
+
+(Orientação)
+A constipação desapareceu... que estranho. Isso não tem relação com causas espirituais. Os vinte e um nódulos no abdômen... são o que os médicos chamam de peritonite tuberculosa ou algo do tipo. São acúmulos de pus. Com o Johrei, eles seriam removidos um a um, mas a cirurgia interrompeu o processo. Interromper causa uma reação contrária, e o grande nódulo é o resultado disso. O som de "gō-gō"... significa que está se dissolvendo. Com paciência, não é impossível curar. A origem, no final das contas, é o yakudoku. Ministre Johrei intensamente nos rins. As doenças são coisas simples.
+
+**20. Idoso que sente vontade de evacuar, mas tem dificuldade, e foi diagnosticado com câncer de reto (Ensinamento)**
+
+(Consulta)
+Um homem de 74 anos. Há cerca de seis meses, sente vontade de evacuar, mas tem dificuldade. O médico diz que é câncer de reto. Ele pode ser salvo com o Johrei?
+
+(Orientação)
+A dificuldade para evacuar ocorre porque a passagem das fezes no reto se estreitou, dificultando o trânsito. Nesses casos, os médicos usam laxantes ou enemas, o que não é muito bom. O reto de pessoas assim fica fino como um incenso, então levará um certo tempo. Dizem que é câncer, mas na maioria das vezes, são toxinas que pressionam o reto, causando essa condição. Em caso de câncer de reto, os médicos operam, cortam a parte afetada e abrem um orifício na lateral do abdômen para criar um ânus artificial. No entanto, as fezes são expelidas sem aviso, então a pessoa precisa usar uma espécie de fralda. Além disso, o intestino morre se ficar exposto, então precisa estar sempre bem coberto. Para completar, há os gases e o odor fétido das fezes, uma situação verdadeiramente trágica. O resultado dessa cirurgia é geralmente esse. Mesmo que digam que é câncer, o câncer verdadeiro é raro. Pessoas assim certamente têm um nódulo de toxina na região entre o umbigo e a lateral do abdômen. Ministre Johrei intensamente nesse local e, em seguida, nos rins. O nódulo abdominal vem dos rins. Com Johrei, até o câncer de reto, na maioria dos casos, se cura.
+
+**21. Pessoa diagnosticada com câncer de reto que, ao receber Johrei, teve sangue nas fezes por um tempo, mas depois o sangramento parou, ficou constipada e sente desconforto no peito (Coletânea de Ensinamentos, vol. 4, p. 82)**
+
+(Consulta)
+Desde junho de 1951, ele tinha problemas intestinais e, enquanto recebia tratamento médico, foi diagnosticado com câncer de reto. Disseram que a única solução era a cirurgia. A partir de 1º de outubro, começou a receber Johrei e, por um tempo, a evolução foi boa, com evacuações e sangue nas fezes. Em 21 de outubro, ingressou na fé. Em meados de novembro, o sangramento nas fezes parou, as evacuações se tornaram escassas e ele começou a sentir desconforto no peito. Haveria alguma relação espiritual?
+
+(Orientação)
+Não é espiritual. É yakudoku. Vai se curar. O fato de sair sangue nas fezes é excelente. Há um abscesso ao lado do reto. Ele pressiona o reto, e por isso a evacuação é difícil. O sangue nas fezes é, na verdade, sangue e pus sendo eliminados. Portanto, isso não levará muito tempo, mas com um pouco de paciência, ele se curará completamente. Não é câncer de reto. É um abscesso comum.
+
+**22. Pessoa diagnosticada com câncer de fígado, com um nódulo do tamanho de um ovo na região do fígado, e cujo abdômen ronca durante o Johrei (Ensinamento)**
+
+(Consulta)
+Uma mulher de 62 anos. O diagnóstico médico foi câncer de fígado. Disseram que não adiantaria operar, nem deixar de operar. Há cerca de uma semana, ela perdeu o apetite subitamente...
+
+(Orientação)
+Ah, isso é nervoso.
+
+"Há quatro dias, ela começou a se apegar à fé e a dor parou. Mas, quando recebe Johrei, o abdômen ronca como "gō-gō" e ela vomitou cerca de 540 a 720 ml de uma substância como água turva. Ela come duas tigelas de araruta ou mingau ralo por dia e tem um nódulo do tamanho de um ovo na região do fígado."
+
+Esse ronco de "gō-gō" é excelente. Significa que as toxinas estão se dissolvendo. Portanto, ministre Johrei pacientemente e de forma abundante nas costas. A toxina dos rins está indo para o fígado. Tratando bem a região dos rins e a parte posterior ao fígado, ela se curará.
+
+**23. Idoso que percebeu uma hérnia, usou uma cinta, mas o inchaço acima da virilha esquerda aumentou gradualmente, sem dor, e que se retrai ao deitar de costas (Coletânea de Ensinamentos, vol. 4, p. 98)**
+
+(Consulta)
+Um homem de 62 anos. Por volta de 1943, ao levantar um objeto, sentiu uma fraqueza no baixo-ventre. Desde então, um pequeno inchaço apareceu um pouco acima da virilha esquerda. Percebendo que era uma hérnia, ele começou a usar uma cinta e a usa até hoje, mas o inchaço aumentou gradualmente. No entanto, não há dor alguma. Ele se retrai quando a pessoa se deita de costas. Por volta de agosto, seu filho ouviu que, se a cor da hérnia mudasse, seria fatal, e, por precaução, ele foi examinado. O médico disse a mesma coisa. Acrescentou que era raro ter uma hérnia nessa idade e que uma cirurgia poderia resolver, mas que poderia voltar. Se a hérnia saísse e não voltasse, seria preciso operar imediatamente, senão seria fatal. Eu, minha esposa, meu filho mais velho e sua esposa somos membros. Entronizamos a Imagem da Deusa Kannon em 1948 e o Altar em outubro de 1950. Ele tem recebido Johrei diariamente (por cerca de três meses). Não houve nenhuma mudança na hérnia. Por ser agricultor, ele faz algum trabalho de força. Isso é um problema? Rogo por uma orientação sobre o ponto vital do Johrei.
+
+(Orientação)
+A hérnia é comum em idosos. É mais frequente em bebês e idosos. Nesses casos, a toxina se acumula no peritônio e causa pressão. Na infância... o ser humano tem uma abertura na região da virilha. Se essa abertura for grande, o intestino sai. Em idosos, a abertura não existe, então a causa é a pressão. Com a pressão, o intestino tende a sair pelo ponto mais fraco. Quanto à mudança de cor ser fatal... isso não existe. A causa é outra. A extrusão do intestino através de um ferimento no abdômen é fatal, mas se for um ferimento interno, sob a pele, não há risco de vida. Não precisa se preocupar. Há um endurecimento no abdômen; com Johrei, ele será removido. E não se deve apertar a cinta com força. Isso pressiona o intestino e o faz sair. A cinta não deve ser apertada. A parte posterior dos rins também é importante, então trate das costas até o cóccix. E, neste caso também, ministre com o máximo de relaxamento. Não há motivo para preocupação. No entanto, vai levar um bom tempo. Em idosos, a... tonicidade está um pouco enfraquecida. Mas ele se curará gradualmente. Tente proceder como eu disse.
+
+**24. Sobre a diarreia, constipação e o consumo de frutas, e sobre a febre tifoide e o antraz (Registro de Orientações, vol. 2, p. 49)**
+
+(Consulta)
+Em caso de diarreia, não se deve comer frutas?
+
+(Orientação)
+Em caso de diarreia, sim. Isso vale para todas as frutas.
+
+"Mesmo maçã descascada...?"
+
+Não se deve comer. Não é a forma de preparo, é o alimento em si.
+
+"Mestre, com licença. Como somos de Kansai, acho que não entendemos o termo 'mizugashi' (frutas)."
+
+Ah... em Kanto, chamamos as frutas de 'mizugashi'.
+
+"O suco das frutas também, então?"
+
+Não é que seja tóxico, mas aumenta o número de evacuações. É melhor se curar com menos evacuações, não é? Frutas são para pessoas saudáveis. Comer maçã ralada não é o ideal. É mais saboroso comer mastigando.
+
+"Então é melhor não dar frutas a pessoas doentes?"
+
+Não é bem assim. Se não estiver relacionado à diarreia, não há problema.
+
+"Para um doente constipado...?"
+
+É excelente. Mas para febre tifoide, não é bom. Aumenta a febre.
+
+**25. Sobre a causa da disenteria e o fato de que os germes surgem no próprio corpo (Coletânea de Ensinamentos, vol. 1, p. 8)**
+
+Dizem que a disenteria será epidemia este ano, e há um grande alvoroço. Se eu dissesse que a causa da disenteria está na cabeça, o mundo da medicina ficaria chocado. Está estabelecido que a disenteria é causada por germes, mas, na verdade, os germes surgem no próprio corpo. Há casos de contágio, como nos surtos coletivos. Nesses casos, os germes são criados e transmitidos a todos. Portanto, eles cumprem um bom papel. Fazem um grande alarde sobre de onde vêm os germes, mas no final, não conseguem descobrir. Eles surgem dentro da cabeça. E se manifestam como disenteria. Portanto, não há nada mais excelente. Por não saberem disso, os seres humanos praticam o mal. Curar a alma de quem pratica o mal significa remover as nuvens que a obscurecem, pois a alma está encoberta.
+
+**26. Sobre a disenteria ser causada por yakudoku recente (Coletânea de Ensinamentos, vol. 13, p. 14)**
+
+A causa da disenteria está na cabeça, e é mais fácil quando essa toxina se manifesta como disenteria do que em outra forma de purificação. Isso porque, na disenteria, o yakudoku é relativamente recente. Em outros casos, o yakudoku é antigo. O sangue tóxico, ao envelhecer, gradualmente se torna pus. Enquanto é novo, é vermelho. Como na disenteria o yakudoku é recente, na verdade, é melhor, pois o processo se resolve mais rapidamente.
+
+**27. Sobre a causa, o processo e o Johrei na disenteria (Coletânea de Ensinamentos, vol. 1, p. 64)**
+
+A disenteria está se espalhando bastante agora, com surtos coletivos em vários lugares. O melhor método que as autoridades estão promovendo insistentemente é lavar as mãos. Bem... se isso resolvesse, não haveria nada mais simples. Seria como ir a vários templos e santuários e ficar lavando as mãos. Nós dizemos que a disenteria é algo excelente. Se eles ouvissem, talvez nos achassem loucos, mas a causa da disenteria é a toxina da cabeça. O ser humano toma remédios e usa constantemente a cabeça. Assim, todo o yakudoku sobe para a cabeça. Se olharmos a cabeça das pessoas de hoje, não há uma que não esteja quente. A cabeça deveria ser fria. Mas não há ninguém com a cabeça fria. Quando ministro Johrei, a primeira coisa que faço é verificar a cabeça e sinto o calor. Assim, sei a quantidade de toxina. É uma forma simples de avaliar. Um pouco não é problema, mas em excesso não é bom. Em seguida, verifico aqui (pescoço). Se estiver frio, está bom. Se estiver quente, não está. Esse sangue tóxico... essa toxina solidificada... se dissolve e sai pelo ânus. Nesse processo, ela se dissolve, infiltra-se no abdômen, acumula-se ali e é expelida pelo ânus. Isso é a disenteria. Portanto, a disenteria é uma doença da cabeça. Se eu disser isso, os médicos me tratarão como louco. Por isso, ministrando Johrei na toxina da cabeça, a pessoa não terá disenteria. Quando se tem disenteria, o sangue tóxico se solidifica no peritônio. Ele se dissolve e se torna a causa da disenteria. Portanto, é algo excelente. Quem tem disenteria deve se alegrar muito. A toxina solidificada diminui. Em caso de disenteria, ministre Johrei no abdômen. Já examinei casos assim: enquanto o abdômen está quente, há sangue tóxico. Com o Johrei, ele vai sendo removido e o abdômen esfria. Aí a cura aconteceu. No dia seguinte, a pessoa já pode comer mingau de arroz e, no outro, comida normal. Portanto, a disenteria é algo que se cura em dois ou três dias. Com vocês, será da mesma forma. E eles fazem um grande alarde sobre isso... é lamentável. É bom que saibam disso. A maioria dos membros já sabe.
+
+**28. Sobre a causa da disenteria e os métodos de prevenção atuais (Coletânea de Ensinamentos, vol. 10, p. 61)**
+
+Os jornais e o rádio estão anunciando que a disenteria parece que vai se espalhar este ano. Como já disse antes, a disenteria é uma toxina da cabeça. É o sangue tóxico da nuca que é eliminado. A causa disso é que as pessoas de hoje usam muito a cabeça. Desde crianças, na escola, usam a cabeça. E na vida social, também, só há atividades que exigem o uso da cabeça. Mesmo os agricultores e trabalhadores de hoje, diferentemente dos de antigamente, têm a mente bem desenvolvida. Costumo ouvir as gravações de rua na rádio, e eles fazem isso em vilas rurais. Há agricultores que apresentam argumentos muito bons. Fiquei surpreso. O mesmo com os trabalhadores. Não dá para ver na rádio, mas há pessoas que falam coisas mais inteligentes que os políticos. Fico admirado. Percebe-se que elas leem livros e refletem no dia a dia. Portanto, entende-se que o homem moderno usa a cabeça. Ao usar a cabeça, o sangue sobe para lá. Se fosse sangue bom, tudo bem, mas é sangue tóxico, por causa dos remédios e injeções. Antes de o sangue chegar aqui (testa), ele se acumula na nuca. Ele passa pela nuca para chegar à testa. Mas se solidifica aqui (nuca) antes de chegar lá. Ao escrever ou usar as mãos... o sistema nervoso é muito solicitado, então o acúmulo aqui é fácil. Quando ocorre a purificação, ele se dissolve, vai para o abdômen e sai pelo ânus. Isso é a disenteria. Portanto, a causa da disenteria é essa que eu disse. Os germes são necessários para induzir esse processo. O sangue tóxico precisa ser eliminado rapidamente. Por isso, os germes surgem no sangue tóxico. Eles se espalham e muitas pessoas purificam. É algo excelente. O caminho da doença é esse que acabei de descrever. Mas o que é cômico são os métodos de prevenção atuais. "Lave as mãos ao voltar da rua", "Lave as mãos antes das refeições", "Não coma nem beba em excesso", "Não coma alimentos crus". Lavar as mãos é o que acho mais cômico. Se os germes fossem grandes como areia ou lama, lavar as mãos os limparia, mas será que algo tão pequeno, visto ao microscópio, realmente sai? E mesmo que saia, adere novamente em seguida. É apenas um consolo. E não comer alimentos crus... parece que eles consideram a água perigosa. A água de poço talvez, mas a da rede de abastecimento não. Lavar alimentos crus com água da torneira... não há problema. Talvez facilite a diarreia, mas eles não sabem que a diarreia é excelente. Por não saberem mais nada, ficam se debatendo no escuro. É uma história cômica e lamentável. É realmente triste. Se eles entendessem essa lógica, estaria tudo bem. Os membros que entenderam isso já são felizes só por esse ponto. É algo extraordinário. Do contrário, teriam que lavar as mãos com medo toda vez que voltassem da rua, que incômodo. E viver sempre com medo. E se tivessem um pouco de diarreia, se preocupariam se não era disenteria. Como sempre digo isso, não preciso repetir, mas penso que é preciso fazê-los entender o mais rápido possível. De qualquer forma, como é algo que Deus está fazendo, à medida que o tempo avança, todos terão que entender. Não há outra opção a não ser esperar o tempo.
+
+**29. Sobre a causa da disenteria e os acidentes (Coletânea de Ensinamentos, vol. 10, p. 54)**
+
+Os jornais estão noticiando que a disenteria está se espalhando bastante este ano. E, apesar do frio... ainda nem chegou o verão, mas já há surtos em vários lugares. No auge do verão, deve haver muitos casos. Talvez quebremos um recorde. Já falei sobre a causa da disenteria antes, mas, em suma, é: usar a cabeça e tomar remédios. Essa é a causa da disenteria. As pessoas de hoje usam muito a cabeça. Na vida social, é impossível não usar a cabeça. E há muitas dificuldades, então elas se preocupam e precisam usar a inteligência. E, para completar, a cabeça está em péssimo estado. Estão sobrecarregando a cabeça. E ainda tomam remédios, então o yakudoku inevitavelmente se acumula aqui (nuca). Ultimamente, eu não atendo o público em geral, mas quando examino familiares ou pessoas próximas que estão mal, a causa em todos é aqui (nuca). Em nove de cada dez pessoas. Quando ocorre a purificação aqui, o sangue tóxico se dissolve, desce, acumula-se no abdômen e sai como diarreia. Isso é a disenteria. A medicina foca apenas nos germes e faz um grande alarde, mas, na verdade, é algo excelente. Ou seja, quando a toxina se acumula aqui, a cabeça fica ruim, e não só a cabeça. Como o sangue tóxico está sempre se acumulando aqui, a pessoa fica irritada, confusa. Há muitos acidentes de trânsito. Nos Estados Unidos também <o número de mortos em acidentes de trânsito nos EUA é maior que o de mortos na guerra>. No Japão também, as estatísticas mostram que muitas pessoas morrem em acidentes de trânsito. Qual a causa? O calor que sobe para aqui (nuca) deixa a pessoa confusa. E ela colide. É porque a cabeça não está bem. E "cabeça não estar bem" significa que está ocorrendo uma purificação aqui (nuca). E por qualquer coisinha, as pessoas brigam, matam... o que aconteceu no Dia do Trabalho, a causa também foi aqui (nuca). E a sensação de mal-estar. As pessoas não interpretam as coisas com boa intenção, mas com malícia. Sentem-se mal sem motivo. E se forem um pouco provocadas, explodem. A explosão é uma espécie de desespero. Portanto, a coisa mais abominável do mundo tem como causa isso aqui (nuca). Ou seja, o acúmulo de toxinas. Mais do que ser algo feito por Deus, é uma limpeza feita pela natureza. Isso é a disenteria. Portanto, não há nada mais excelente que a disenteria. Quem tem disenteria se torna saudável, a mente fica mais clara. E o que é cômico é que dizem para lavar as mãos ao voltar da rua. Ao dizer isso, eles devem pensar que o bacilo da disenteria é algo bem grande. Mesmo lavando as mãos, o germe adere aqui e ali. Se fosse algo visível, como lama, talvez saísse ao lavar, mas algo tão pequeno como um germe, mesmo lavando, adere novamente em seguida. É lamentável que se submetam a algo tão incômodo. E, como não têm outra solução, a recomendação para a disenteria acaba sendo não comer em excesso. Mas comer em excesso não tem relação com a disenteria. O excesso de comida apenas dilata o estômago; não se bebe sangue em excesso. Mesmo comendo demais, isso vira apenas fezes. E lavar as mãos é algo realmente infantil. E, fora isso, eles ficam de mãos atadas. E se preocupam e gastam uma fortuna. Do nosso ponto de vista, é realmente lamentável. Vou escrever sobre isso no jornal, mas os membros entenderão, e os de fora pensarão, no máximo, que é algo curioso. Enfim, essa é a situação. Portanto, para os membros, a disenteria é algo que, se acontecer, é excelente. Só essa tranquilidade já é algo extraordinário.
+
+**30. Sobre o diagnóstico e a alimentação na febre tifoide e na disenteria (Registro de Orientações, vol. 2, p. 50)**
+
+(Consulta)
+No caso de febre tifoide ou disenteria, examinamos o abdômen. Consigo identificar a disenteria, mas não a febre tifoide.
+
+(Orientação)
+Tanto na febre tifoide quanto na disenteria, o abdômen invariavelmente está quente. Na febre tifoide, a cabeça dói. Na disenteria, não. Na febre tifoide, o pulso é baixo em relação à febre alta. Para determinar se é febre tifoide, observe a relação entre a febre e o pulso, a dor de cabeça e o fato de a febre subir por volta das quatro da tarde. Se for o caso, mude a alimentação para líquidos e ministre Johrei. Em dois ou três dias, a pessoa estará curada.
+
+"A alimentação líquida pode ser mingau ralo?"
+
+Sim. Quando a febre baixar, dê mingau de arroz.
+
+"Um médico chamado Nagase disse que na febre tifoide o baço incha."
+
+O baço incha no diabetes. Na febre tifoide, o local é outro. É no intestino. Ele deve pensar assim por ter tido dois ou três pacientes com essa característica.
+
+"Tive um caso de febre tifoide, e a pessoa se curou antes do exame de fezes."
+
+Cura-se, sim. Basicamente, na febre tifoide, formam-se perfurações no intestino. Se um alimento sólido encosta ali, a febre sobe. Com o Johrei, a pessoa se cura mesmo sem uma dieta líquida. Apenas, com a dieta líquida, a cura é mais rápida.
+
+**31. Sobre a causa, os sintomas, os pontos de Johrei e os cuidados com a alimentação na febre tifoide (Registro de Orientações, vol. 25, p. 19)**
+
+(Consulta)
+Gostaria de uma orientação sobre os sintomas e os pontos de Johrei na febre tifoide.
+
+(Orientação)
+Como você soube que era febre tifoide? Foi um médico que disse?
+
+"Como não há nos Ensinamentos, pergunto de forma geral..."
+
+A causa da febre tifoide é a perfuração do intestino. Os sintomas são febre alta e dor de cabeça. Não há sintomas no intestino. Não há diarreia ou algo do tipo. Por isso, é chamada de febre tifoide intestinal, mas as pessoas não entendem por que o intestino está mal. A característica da febre tifoide é a febre alta e a dor de cabeça. Os médicos dizem que a febre e a temperatura não são paralelas; a febre é alta, mas o pulso não é tão acelerado. Essa é a principal característica da febre tifoide. Quando nós ministramos Johrei, ou seja, para diagnosticar a febre tifoide, a medicina precisaria de um microscópio, mas do nosso lado, se a febre está alta, a cabeça dói e, mesmo ministrando Johrei na cabeça, a febre não baixa como deveria, pode-se considerar que é febre tifoide. Se suspeitar de febre tifoide, mude imediatamente a alimentação para líquidos. Leite ou mingau ralo, qualquer coisa sem pedaços. E, claro, ministre Johrei no abdômen. No centro, ao redor do umbigo. Se for febre tifoide, a cura virá em dois ou três dias. Em casos rápidos, no dia seguinte já estará curado. Não é nada. O yakudoku se acumula no intestino e os germes, como os médicos dizem, que na verdade são vermes, surgem e corroem o local. Assim, a parede intestinal é perfurada. Quando a toxina se torna tão maligna a ponto de perfurar a parede intestinal, ela também se dissolve com o calor e é eliminada. Nesse momento, à medida que a toxina se dissolve, a perfuração fica mais evidente. Se um alimento sólido bate ali, causa uma fissura. A morte por febre tifoide ocorre por hemorragia intestinal. Por isso, os médicos temem muito a hemorragia intestinal na febre tifoide. Mas, do nosso lado, o local se regenera imediatamente, então não há o que temer. Portanto, com o Johrei, a febre tifoide se cura sem dificuldade. Como eu disse, primeiro trate a cabeça. Se a febre não baixar como esperado, considere febre tifoide e ministre Johrei no centro do intestino, na região do peritônio. Só isso basta. Não precisa saber detalhes; assim se cura. A dieta líquida também é por um ou dois dias. A febre baixará, e depois pode-se dar mingau de arroz. E mesmo sem mudar a alimentação, só com o Johrei a pessoa se cura. Apenas, com a dieta líquida, a cura é mais rápida.
+
+**32. Sobre os cuidados com a alimentação e a hemorragia intestinal na febre tifoide (Coletânea de Ensinamentos, vol. 1, p. 48)**
+
+(Consulta)
+Sobre a purificação de febre tifoide:
+1. Em uma orientação anterior, Meishu-Sama disse que dar refrigerante a um paciente com febre tifoide pode ser fatal. Como devemos selecionar os alimentos?
+2. Ocasionalmente, ocorre hemorragia intestinal. Os médicos dizem que é porque o intestino se perfura. Seria a eliminação do sangue turvo da cabeça?
+
+(Orientação)
+Febre tifoide se diz "chifusu". Não se fala assim. Ah, que grande erro. Hemorragia intestinal é fatal. Os médicos confundem e chamam assim. É apenas a eliminação de sangue. A dieta líquida é correta. E a febre é o melhor indicador. Na febre tifoide, se a alimentação for inadequada, a febre sobe, então se percebe imediatamente. Se a febre não subir, está tudo certo. O intestino se perfura... um alimento sólido encosta. Então a febre sobe. A dieta líquida não encosta, passa direto. Por isso a febre não sobe. A medicina... faz uma dieta líquida e, se a febre não aparecer por uma semana, dá mingau de arroz. Se não aparecer, dá arroz normal. Observando isso, fica fácil de entender. Há casos em que se confunde com outra coisa, então comparando com a febre, a identificação é simples. Se houver hemorragia intestinal, não há salvação. Mas isso é um engano, então não se preocupe. O sangue turvo da cabeça... normalmente, não é hemorragia intestinal, ele sai pelo abdômen. Em casos graves, é a disenteria. E quando não passa pelo abdômen, mas sai pelo ânus... é o sangramento hemorroidário. É excelente. Tudo isso é sangue turvo da cabeça, então pense assim.
+
+**33. Sobre a patologia da febre tifoide e a seleção de alimentos (Coletânea de Ensinamentos, vol. 13, p. 51)**
+
+Na febre tifoide, a mucosa intestinal também amolece. Aí, surgem vermes. E a perfuração acontece. Se um alimento sólido entra nessa perfuração, a febre sobe. Por isso, a medicina também adota a dieta líquida. Mas com o Johrei, a cura é rápida. A febre tifoide, para quem não está internado, cura-se sem dificuldade. Para os internados, como a perfuração no intestino não cicatriza facilmente, a dieta é líquida. Portanto, é bom escolher alimentos que se adequem aos sintomas.
+
+**34. Sobre a causa do pulso baixo apesar da febre alta na febre tifoide (Registro de Orientações, vol. 20, p. 7)**
+
+(Consulta)
+Qual a causa do pulso baixo apesar da febre alta na febre tifoide?
+
+(Orientação)
+Eu não havia pensado nisso. Basicamente, os médicos e os livros dizem que o pulso está relacionado ao coração. A febre pode vir de qualquer lugar, mas quanto mais perto do coração, mais a febre afeta o pulso. E há outra lógica. Os problemas da parte inferior do corpo têm pouca influência na parte superior. Em contrapartida, as doenças da parte superior afetam fortemente a parte inferior. Isso se observa também em um país. As más ações da classe dirigente, como líderes, ministros e políticos, afetam enormemente a base, mas se alguém da base faz algo errado ou tem maus pensamentos, o efeito é localizado. É como uma pirâmide: quanto mais alto, menor em tamanho, mas maior em poder. A febre tifoide é uma doença da parte inferior, então a influência que chega ao coração é menor.
+
+**35. Pontos vitais do Johrei (no caso de apendicite, problemas de fígado, dor no baixo-ventre, espasmo estomacal) (Ensinamento)**
+
+(Consulta)
+E no caso de apendicite ou problemas de fígado?
+
+(Orientação)
+Claro que é na parte de trás. Tratando pelas costas, a cura virá. Para dor no baixo-ventre, é na concavidade um pouco acima do osso do quadril. Para espasmos estomacais, é na região das omoplatas.
+
+**36. Patologia da apendicite (Registro de Orientações, vol. 25, p. 18)**
+
+(Consulta)
+No livro "A Criação da Civilização", no capítulo sobre cirurgia, está escrito que "a função do apêndice está nas costas".
+
+(Orientação)
+"Nas costas" está um pouco incorreto. Se fosse "nos rins, nas costas", estaria correto.
+
+"No livro 'Salvar a América', está 'as toxinas da parte inferior do corpo'."
+
+Exato. As toxinas da parte inferior do corpo se acumulam na região dos rins, nas costas, e se manifestam no apêndice. Essa é a sequência.
+
+---
+
 # Registro de Ensinamentos (Suplemento)
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年8月15日 | **Fonte:** Hikariは大地に
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-15
 
 ## Registro de Ensinamentos (Suplemento)
 
@@ -1584,1370 +2318,6 @@ São salvas pelo Johrei. Mas se o pecado for grave, vão para o inferno; se for 
 — Entre os espíritos do inferno e os do paraíso, quais reencarnam mais rápido?
 
 Os que têm mais apego a este mundo nascem mais rápido... Há pessoas que se alegram com o outro mundo
-
----
-
-# Coleção de Teses do Mestre Jikan Okada – Salvar a América (Publicado em 1º de janeiro de 1953)
-
-**Categoria:** sasshi | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Coleção de Teses do Mestre Jikan Okada – Salvar a América (Publicado em 1º de janeiro de 1953)
-
-### Introdução
-
-Recentemente, o senhor Fumiji Tatematsu, um fiel de nossa Igreja que esteve por um ano em intercâmbio na Universidade de Notre Dame — instituição católica nos Estados Unidos —, retornou temporariamente ao Japão. Conforme eu havia solicitado, ele trouxe consigo um minucioso levantamento estatístico das principais enfermidades que acometem a nação americana. Ao examiná-lo, fui tomado por um profundo espanto, pois a alarmante proliferação de doentes naquele país comprova, de forma irrefutável, as teses que venho defendendo.
-
-Atualmente, prevalece entre os japoneses a impressão de que a medicina americana, tendo suplantado a da Alemanha — que até pouco tempo detinha a hegemonia mundial —, avança de forma esplêndida. Eu mesmo compartilhava dessa opinião. Todavia, os fatos revelaram uma realidade diametralmente oposta. A situação é tão desoladora que se torna penoso contemplá-la. Portanto, se esta tendência persistir, quem poderá negar que o país enfrentará, um dia, uma crise de proporções nacionais?
-
-Ademais, os Estados Unidos empregam hoje todos os seus recursos e esforços para conter a ameaça representada pelo poderio militar soviético e pelo comunismo. Embora se trate, inegavelmente, de uma questão de suma importância, o problema da saúde pública adquire uma gravidade ainda maior, embora de natureza distinta. Afinal, por mais que o comunismo estenda suas garras expansionistas, a união das nações do mundo livre e o fortalecimento de suas forças armadas podem contê-lo. O mesmo não se pode dizer do flagelo das doenças, pois a medicina moderna revela-se impotente. Ela não apenas desconhece as causas fundamentais das enfermidades, como, mesmo que as conhecesse, não disporia dos meios para solucioná-las. Diante de tal quadro, o futuro se afigura absolutamente sombrio.
-
-Do nosso ponto de vista, a medicina moderna padece de uma falha colossal e latente. No entanto, ignorando por completo essa deficiência, ela avança em uma direção diametralmente oposta à correta. Como se pode constatar pelas estatísticas que serão apresentadas, a incidência de todas as doenças vem aumentando em ritmo acelerado, ano após ano. Se essa progressão se mantiver, posso afirmar categoricamente que, antes de um século, até mesmo a poderosa nação americana de hoje entrará em um inexorável e rápido declínio.
-
-Basta observar o exemplo de nações europeias de alta civilização, como a Inglaterra e a França. Qual não é o estado de seu enfraquecimento recente? Ao compararmos o vigor de seus povos com o que possuíam na época da Batalha de Trafalgar, no caso britânico, ou das Guerras Napoleônicas, no caso francês, a diferença é estarrecedora. A causa de tal decadência reside, unicamente, nos equívocos da medicina, como ficará claro na explanação que se segue.
-
-Ao analisar as nações civilizadas do mundo, devo reconhecer os Estados Unidos como o principal país que adota o cristianismo como pilar de sua fundação, cujo povo, em geral, crê em Deus e onde a justiça prevalece. Essa é a base de sua prosperidade e a força motriz que os transformou na grandiosa nação que são hoje. Nesse sentido, é inegável que, se existe um país com poder para manter a paz mundial, este é os Estados Unidos. Por conseguinte, melhorar a saúde de seu povo é a tarefa de maior premência, constituindo a condição primordial para a paz global e a felicidade da humanidade.
-
-É meu desejo, portanto, através desta obra, promover uma tomada de consciência, a fim de que se possa, o mais breve possível, deter o avanço das doenças naquele país e, mais além, transformá-lo em uma nação livre de enfermidades. Para tanto, analisarei cada doença seguindo a ordem das estatísticas, detalhando suas causas, métodos de cura e prevenção, e apresentando resultados concretos de tratamentos. Este material será traduzido para o inglês e distribuído ao Presidente, a intelectuais de diversas áreas e a profissionais da saúde.
-
-Gostaria, ainda, de dirigir uma palavra aos japoneses. Apesar da realidade da medicina americana, nosso povo acredita erroneamente que ela é a mais avançada e busca adotá-la, o que constitui uma terrível ilusão. Tal equívoco se deve, provavelmente, a um deslumbramento com o progresso aparente da medicina americana, fruto de uma adesão cega à ciência materialista. Diante disso, o Japão corre o mesmo grave perigo que os Estados Unidos. Anseio, pois, que as autoridades japonesas leiam esta obra e despertem o quanto antes.
-
-Para concluir, uma palavra final: o fato irrefutável de que, quanto mais a medicina progride, mais aumenta o número de doentes, está sendo, lamentavelmente, demonstrado pelos Estados Unidos ao mundo inteiro.
-
-O Autor
-
-(Nota) Como mencionado anteriormente, acima.
-
-### O que é a doença?
-
-Conforme abordado na introdução, cumpre agora explicar, desde sua origem, o motivo do aumento gradual das enfermidades nos Estados Unidos. A causa primordial das doenças, por mais surpreendente que pareça, reside no fato de que elas são criadas pelos próprios tratamentos médicos, tendo os medicamentos como seu principal agente. Em outras palavras, o método que visa curar as doenças e reduzir o número de enfermos está, paradoxalmente, agindo no sentido contrário: impede a cura e multiplica as enfermidades. Trata-se de uma ilusão tão inacreditável que poderia ser considerada o grande enigma do século XX, pois, embora a verdade seja evidente a ponto de dispensar explicações, ninguém parece percebê-la. Pelo contrário, a confiança na medicina só aumenta, e acredita-se firmemente que seu progresso resolverá o problema das doenças.
-
-Onde reside, então, a causa de tão incompreensível equívoco? A resposta está na inversão do pensamento médico, que interpreta a doença de forma negativa. Passo agora a elucidar esta questão de maneira exaustiva.
-
-Originalmente, todo ser humano, sem exceção, nasce portador de toxinas congênitas e adquire outras ao longo da vida. As toxinas congênitas são, evidentemente, herdadas dos pais, enquanto as toxinas adquiridas correspondem aos `yakudoku` (toxinas medicinais) introduzidos no organismo após o nascimento. Tal afirmação certamente causará espanto, pois o senso comum, estabelecido desde tempos imemoriais, considera os remédios como agentes de cura e promotores da saúde. Acredita-se que a descoberta de bons medicamentos solucionará o problema das doenças, e essa é a meta principal da medicina. Os Estados Unidos, em particular, conferem enorme importância aos remédios, empregando notáveis esforços na descoberta de novas drogas, como é de conhecimento geral. Ora, se os medicamentos de fato curassem, o número de doentes deveria diminuir progressivamente. Contudo, o que se observa é o seu aumento contínuo. Haverá algo mais ilógico?
-
-Na verdade, não existe um único remédio sobre a face da Terra; todos são substâncias tóxicas, e é justamente por serem tóxicos que produzem efeito. O que isso significa? A ação tóxica do medicamento atenua os sintomas da doença, criando a aparência de cura, mas, na realidade, a cura não ocorre.
-
-Para entender por que os medicamentos são tóxicos, é preciso considerar que, entre tudo o que o ser humano ingere, o Criador, ao nos criar, proveu-nos do alimento como meio de sustento. Os alimentos, por sua vez, dividem-se naturalmente entre aqueles que nos são próprios e os que não o são. Nos alimentos adequados, Ele infundiu o sabor e, em nós, o paladar. Assim, ao comermos com prazer aquilo que desejamos, obtemos nutrição suficiente. Apenas essa reflexão já revela a minúcia do plano do Criador. Nesse sentido, não é que comemos para viver, mas sim que vivemos por nos alimentarmos. O processo é análogo à reprodução: o casal não se une com o objetivo de gerar filhos; a concepção ocorre como uma consequência eventual de um ato com outro propósito, o que o torna um profundo mistério.
-
-As funções do organismo humano são projetadas de tal forma que não conseguem processar completamente substâncias estranhas, ou seja, tudo aquilo que não foi designado como alimento. Sendo o medicamento uma substância estranha, apenas os nutrientes que porventura contenha são absorvidos; o restante permanece no corpo. Eis o `yakudoku`. O mais problemático é que essas toxinas se acumulam em diversas partes do corpo e, com o tempo, solidificam-se.
-
-Os locais de acúmulo restringem-se às áreas de maior atividade nervosa. Naturalmente, trata-se da parte superior do corpo, especialmente da cabeça e do pescoço, abrangendo o cérebro, os olhos, os ouvidos, o nariz e a boca. As toxinas tendem a se concentrar nessas regiões, solidificando-se inicialmente ao redor do pescoço. Qualquer pessoa, ao examinar a área do pescoço e dos ombros, encontrará nódulos endurecidos. São os chamados “nódulos de tensão”. Quando atingem certo grau de acúmulo, manifesta-se a ação de eliminação natural, ou seja, a ação purificadora. Nesse processo, a febre dissolve os nódulos tóxicos, transformando-os em líquido, que é então expelido através de tosse, catarro, coriza, suor, diarreia, urina febril, entre outros. A esse fenômeno dá-se o nome de resfriado.
-
-Portanto, o resfriado é um processo de eliminação de toxinas. Embora cause um leve desconforto, se o suportarmos e deixarmos a natureza seguir seu curso, a eliminação ocorrerá de forma harmoniosa, purificando o organismo e trazendo a cura. É um mecanismo esplêndido. O resfriado nada mais é do que uma simples função fisiológica, uma providência Divina pela qual deveríamos ser imensamente gratos. Contudo, o ser humano, por desconhecer essa verdade, interpreta negativamente o desconforto da purificação e, para detê-la, concebeu o tratamento médico. Percebe-se, assim, o quão equivocado é esse pensamento.
-
-A ação purificadora ocorre com maior facilidade quanto mais vigoroso for o organismo. Para detê-la, é preciso enfraquecer essa vitalidade. Foi para esse fim que se empregaram venenos, denominados medicamentos. Desde a antiguidade, substâncias extraídas de raízes, cascas de árvores, minerais e órgãos de animais foram pesquisadas e preparadas em diversas formas — decocções, pós, extratos — para serem usadas como remédios líquidos, pílulas, pomadas, injeções, etc., com o objetivo de paralisar a purificação. Como um veneno potente poderia ameaçar a vida, ele é administrado em doses fracas e graduais. Daí a prescrição de tomá-lo várias vezes ao dia. Um remédio considerado “eficaz” nada mais é do que um veneno cuja toxicidade foi elevada ao limite de não causar uma intoxicação aguda.
-
-Dessa forma, as toxinas que deveriam ser dissolvidas e eliminadas acabaram sendo solidificadas pelo `yakudoku`. O ser humano de hoje tornou-se um depósito de venenos, propenso a doenças. O alarde em torno da higiene preventiva e o temor do resfriado são reflexos dessa realidade. Além disso, celebramos o fato de a expectativa de vida ter alcançado pouco mais de sessenta anos, o que também é um grande engano. Se não houvesse doenças, o ser humano viveria facilmente mais de cem anos. As mortes abaixo dessa idade são mortes não naturais, causadas por enfermidades. Sem doenças, a morte seria natural, e a longevidade, uma consequência óbvia.
-
-Como se vê, o tratamento médico não cura a doença; é um meio de aliviar temporariamente o sofrimento. O repouso absoluto, as compressas, as pomadas, as bolsas de gelo, a eletroterapia, a fototerapia — todas as terapias, sem exceção, são métodos de solidificação. A moxabustão e a termoterapia são um tanto diferentes, pois o estímulo térmico localizado atrai as toxinas para a área, proporcionando alívio, mas, com o tempo, o problema retorna, não resolvendo nada. Existe também o método de destruir o câncer com radiação de rádio, o que seria excelente se destruísse apenas o tumor. Na realidade, porém, os tecidos sadios também são danificados, de modo que o prejuízo supera o benefício.
-
-Assim, todas as terapias até hoje existentes são, invariavelmente, métodos de solidificação. O único método de cura consiste em dissolver e eliminar as toxinas. Ademais, os próprios médicos não dizem “curar”, mas sim “estabilizar”, o que torna tudo mais claro. Dentre os métodos de solidificação, o mais eficaz é o medicamento, e é justamente ele que gera a causa das doenças. Portanto, quanto mais tratamentos médicos uma pessoa recebe, mais suscetível ela se torna a outras enfermidades e ao agravamento de sua condição, culminando, por fim, em risco de vida.
-
-Há um fato curioso a esse respeito, frequentemente relatado por médicos: os pacientes que, em seu afã de se curarem, utilizam medicamentos caros e potentes, obtêm os piores resultados. Em contrapartida, aqueles que se mostram indiferentes ao tratamento tendem a se recuperar melhor. Ouve-se também com frequência que as pessoas mais cuidadosas com a higiene são as mais frágeis, enquanto as mais displicentes são as mais saudáveis, e que familiares de médicos e enfermeiras de hospitais costumam adoecer com frequência. Curiosamente, ao se perguntar a pessoas de saúde e longevidade raras, a resposta costuma ser: “Nunca fiquei doente, por isso nunca precisei de médicos ou remédios”. Do nosso ponto de vista, é justamente por isso que são saudáveis, e por serem saudáveis é que se expressam assim. Este é um ponto que merece profunda reflexão.
-
-### A varíola e o `yakudoku`
-
-Passo a explicar agora as toxinas congênitas. Conforme mencionado, as toxinas adquiridas são os `yakudoku` introduzidos no organismo após o nascimento. Mas o que são as toxinas congênitas? São os `yakudoku` herdados de nossos ancestrais. Um provérbio japonês diz: “Não há quem não tenha vaidade e mácula sifilítica”. Essa mácula, conhecida popularmente como “toxina fetal”, é o que a medicina moderna chama de sífilis hereditária. Trata-se, na verdade, de `yakudoku` antigo, cuja eliminação, em algum momento, torna-se inevitável. A varíola é precisamente essa ação de eliminação.
-
-Por desconhecer esse princípio, o renomado erudito inglês Edward Jenner descobriu, em 1796, a vacinação. Desde então, a humanidade, por ter se livrado da varíola, o reverencia como um salvador, e ele continua a ser alvo de gratidão até os dias de hoje.
-
-É preciso compreender, contudo, que a vacinação não elimina as toxinas da varíola. Ela apenas enfraquece a força de eliminação, de modo que as toxinas permanecem no corpo, tornando-se a causa de diversas outras doenças. Descreverei o processo: com o tempo, as toxinas da varíola acumulam-se e solidificam-se em algum local do corpo. A ação purificadora que se segue manifesta-se como resfriados, diversas doenças de pele, pseudoparalisia infantil, meningite, escrofulose infantil, entre outras, podendo também originar outras enfermidades. Acima de tudo, como mencionei no início, o declínio do vigor dos povos inglês e francês começou após a descoberta da vacinação, fato que uma análise atenta revelará.
-
-Com base nesse princípio, para erradicar a varíola da humanidade, não haveria outra solução senão descartar todos os medicamentos no mar. Mesmo assim, os efeitos não seriam imediatos. Afinal, o ser humano vem sendo impregnado de medicamentos há séculos. Seriam necessárias, no mínimo, duas ou três gerações para uma eliminação completa. Contudo, como a quantidade de `yakudoku` diminuiria gradualmente, mesmo que as doenças se manifestassem, seriam cada vez mais brandas. Com o nosso método de Johrei, a purificação pode ser concluída em uma única geração.
-
-Portanto, a população em geral não precisa abolir a vacinação imediatamente. Se uma pessoa deixar de usar medicamentos por toda a sua vida, a geração de seus filhos terá uma purificação mais branda, e a de seus netos provavelmente já não a terá. O único efeito da vacinação é evitar as cicatrizes da varíola, mas as consequências negativas que ela acarreta são muito maiores.
-
-Um exemplo disso é a injeção, tão em voga atualmente, que certamente foi inspirada na vacinação. Os danos causados pelas injeções são de uma gravidade assustadora, como o leitor poderá constatar ao longo desta obra.
-
-A seguir, abordarei as principais doenças causadas pelo `yakudoku`. O mais temível deles é o Salvarsan 606. A intoxicação por essa substância quase sempre afeta o cérebro, causando distúrbios cerebrais e, nos casos mais graves, até mesmo doenças mentais genuínas. Além disso, esse `yakudoku` é extremamente maligno. A medicina atribui as doenças mentais à sífilis e, para tratar a sífilis, administra injeções de Salvarsan 606. Com isso, acaba por levar à loucura pessoas que não tinham qualquer anomalia cerebral. Que terrível equívoco!
-
-Dentre as doenças causadas por `yakudoku`, as mais comuns são provavelmente as relacionadas ao estômago. Elas começam com um leve mal-estar, como excesso de comida, azia ou indigestão. A ingestão de um remédio gástrico proporciona alívio temporário, mas, com o passar dos dias, a recorrência é inevitável. Novamente, recorre-se ao remédio, e o ciclo de melhora e recaída se repete até que a condição se cronifique, transformando-se em uma doença estomacal diagnosticável. Se, no início, o problema tivesse sido deixado à natureza, teria se resolvido em uma ou duas ocorrências. Mas, pela repetição de um método equivocado, a doença se instala de vez. É uma ignorância sem limites.
-
-Vejamos outros exemplos. As cólicas estomacais, muito comuns, são dores decorrentes da purificação. Frequentemente, são suprimidas com analgésicos temporários, o que acaba por viciar o organismo e transformar o problema em uma doença crônica. Quanto à úlcera gástrica, sua origem no `yakudoku` é claríssima. Os remédios para o estômago contêm, invariavelmente, bicarbonato de sódio, que amolece não apenas os alimentos, mas também a parede do estômago. Quando alimentos sólidos entram em contato com essa parede fragilizada, causam fissuras e sangramento, que se manifesta como vômito de sangue.
-
-Há, contudo, um sintoma diferente, que é o acúmulo de sangue no fundo do estômago. Isso ocorre porque a mucosa gástrica perde sua resistência, permitindo um vazamento contínuo de sangue. Quando esse sangue se mistura às fezes, forma pequenos coágulos escuros, facilmente identificáveis. O sangue, quando recente, é vermelho, mas escurece ao envelhecer.
-
-Outro problema muito comum é a fraqueza estomacal. Sua causa reside no uso de digestivos, na ingestão de alimentos de fácil digestão e na mastigação excessiva, que privam o estômago de sua atividade natural, enfraquecendo-o. A repetição desse ciclo agrava gradualmente a condição, resultando em uma fraqueza estomacal crônica. Portanto, a fraqueza estomacal também é uma criação humana.
-
-O mesmo princípio se aplica a tudo: analgésicos para dor de cabeça, cocaína para o nariz, colírios para os olhos, lugol para amigdalite, todo tipo de unguentos e pomadas. Todos buscam um efeito temporário e, invariavelmente, causam intoxicação. O mesmo ocorre com a febre. Se deixada à natureza, ela cede gradualmente de forma harmoniosa. O uso de antitérmicos, porém, baixa a temperatura momentaneamente, mas provoca uma reação que a faz subir novamente. O ciclo de baixar a febre com remédios se repete, até que ela se torna extremamente persistente. O médico, perplexo, a diagnostica como febre de causa desconhecida, quando, na verdade, foi ele mesmo quem a criou.
-
-O uso de laxantes e enemas, tão comum, também gera um efeito contrário de dependência, agravando a constipação e tornando-a um hábito. No caso de edemas, o uso de diuréticos aumenta temporariamente o volume de urina, mas a reação subsequente piora o inchaço. O ciclo se repete, o edema se agrava e, como último recurso, realiza-se a drenagem por punção, que também é uma solução temporária. No fim, o inchaço pode superar o de uma gestante em fim de gravidez, e o médico se vê obrigado a desistir.
-
-Entre os `yakudoku`, um dos mais graves, embora muitas vezes ignorado, é o desinfetante usado em cirurgias. Trata-se de um veneno potente, com poder bactericida, que penetra diretamente nos músculos, causando danos terríveis. Ele se torna a origem de diversas doenças malignas, sendo as mais comuns as de dor intensa e persistente, que levam muito tempo para sarar. As doenças da mucosa bucal também têm sua causa na infiltração de `yakudoku` proveniente de medicamentos tomados repetidamente. Quando o corpo tenta eliminá-los, surgem catarros e inflamações.
-
-Pelo que foi exposto sob diversos ângulos, deve ter ficado claro que a causa de todas as doenças é o `yakudoku`. Cientes disso, os médicos, ao realizarem seus diagnósticos, deveriam perguntar aos pacientes quando e que remédios tomaram, que injeções receberam e quando e onde foram operados. Isso lhes daria uma boa ideia da origem do problema.
-
-A propriedade do `yakudoku` é a de se solidificar com extrema facilidade e ser de difícil eliminação. Na maioria dos casos, ele permanece solidificado por décadas, ou mesmo por toda a vida. Eu mesmo ainda carrego `yakudoku` de medicamentos que tomei há cerca de cinquenta anos, quando sofri de pleurisia e tuberculose, e também de um remédio que apliquei diariamente por um ano para dor de dente, há mais de trinta anos. Até hoje, realizo Johrei em mim mesmo todos os dias para eliminá-los.
-
-`Yakudoku` não se refere apenas a medicamentos ocidentais; os da medicina chinesa também o são. A diferença reside nos sintomas: o sofrimento causado pela medicina ocidental é agudo, enquanto o da medicina chinesa é mais brando. A causa de toda dor e coceira é, invariavelmente, o `yakudoku`. Se o ser humano não introduzisse medicamentos em seu corpo, poderia viver a vida inteira sem conhecer o sofrimento da doença.
-
-Em suma, afirmo categoricamente que, enquanto não se derrubar a superstição dos medicamentos, o sofrimento causado pelas doenças jamais será erradicado da humanidade.
-
-(Nota) Erudito, grande acadêmico.
-
-### Sobre a cirurgia
-
-Tanto no Japão quanto, especialmente, nos Estados Unidos, a cirurgia tem sido exaltada e praticada em larga escala como um grande avanço. Trata-se, contudo, de um erro colossal. O progresso da cirurgia não representa um avanço da arte médica, mas sim um retrocesso. A verdadeira arte médica não consiste em remover o órgão enfermo, mas sim em eliminar a enfermidade, preservando o órgão intacto. Pelo contrário, corta-se a carne, provoca-se sangramento e inflige-se um sofrimento atroz, transformando o indivíduo em um mutilado interno. Isso não é arte médica, mas sim anti-arte médica. E, no entanto, acredita-se que se trata de um método avançado. É uma ignorância para a qual não há palavras.
-
-Ademais, é impossível que a mutilação de qualquer parte do corpo, por menor que seja, não acarrete consequências. No caso da apendicite, por exemplo, se apenas o pus fosse removido, tudo bem. Mas como a medicina é incapaz de fazê-lo, ela extirpa também o apêndice vermiforme, um ato de extrema barbárie. Afinal, o Criador não teria criado no corpo humano nada que fosse desnecessário. A esse respeito, os médicos costumam dizer que o apêndice é inútil ou que se pode viver sem os dois rins. Tais afirmações derivam unicamente do desconhecimento de suas funções e revelam não apenas a imaturidade da medicina atual, mas também uma afronta a Deus. Afinal, os próprios médicos que proferem tais absurdos não foram eles mesmos criados por Deus?
-
-O mais importante é que, embora o paciente pareça se recuperar temporariamente após a cirurgia de apêndice, invariavelmente, outras doenças surgem com o tempo. Isso porque a função do apêndice é ser o órgão de eliminação das toxinas da parte inferior do corpo. Explicarei em detalhes: as toxinas se acumulam e solidificam inicialmente na região do rim direito, na parte posterior do corpo. Aos poucos, dissolvem-se e migram para a região do apêndice, onde se solidificam novamente. Quando atingem um certo acúmulo, ocorre a purificação: a febre as dissolve, e o sofrimento resultante é a apendicite. Nesse momento, ao se examinar a região do rim direito, encontra-se invariavelmente um nódulo endurecido que, ao ser pressionado, causa dor. Ao se aplicar Johrei nesse local, a dor do apêndice cessa imediatamente e, logo em seguida, ocorre uma diarreia, seguida da cura.
-
-Com base nesse princípio, se, ao se manifestar a apendicite, nenhum tratamento for aplicado e o paciente apenas repousar, a cura completa ocorrerá invariavelmente em três a sete dias, sem o menor risco de vida. Os médicos, porém, recomendam a cirurgia, alegando que a demora pode ser fatal. De nossa parte, ficamos perplexos com tamanha cegueira. Se o apêndice, com sua função de eliminar toxinas, é removido, as toxinas que deveriam se acumular ali são forçadas a se depositar no peritônio ou nos rins. Isso, por sua vez, origina doenças ainda mais difíceis de tratar do que a própria apendicite. Além disso, o desinfetante usado na cirurgia pode se transformar em pus e, ao tentar ser eliminado, causar diversas outras enfermidades, como dores de dente malignas, otite média, conjuntivite e furúnculos faciais.
-
-### A Arte Médica do Johrei
-
-A seguir, apresentarei, juntamente com o levantamento da situação atual das doenças nos Estados Unidos, os relatos de gratidão de pessoas que alcançaram a cura completa através do método terapêutico que criei (o método de Johrei). Todos são relatos de próprio punho, absolutamente verídicos. Caso haja alguma dúvida, basta entrar em contato com os autores, cujos endereços e nomes estão detalhados.
-
-Tanto os especialistas quanto o público em geral, ao lerem estes relatos, provavelmente não acreditarão no poder de cura tão extraordinariamente superior ao da medicina moderna. O método de tratamento consiste em simplesmente estender a mão a uma certa distância do paciente, no espaço, por um breve período de dez a trinta minutos. Não requer nenhum instrumento ou custo, e uma única pessoa pode tratar dezenas de pacientes por dia. Eis, portanto, a mais avançada e ideal arte médica. A expressão "Meishu-Sama", que aparece nos textos, refere-se, evidentemente, a mim.
-
-Outro fato surpreendente é que qualquer pessoa com instrução básica, sem nenhum conhecimento médico — seja comerciante, operário, agricultor, funcionário público ou de empresa —, pode dominar esta técnica após alguns dias de curso. Como resultado, pacientes desenganados por grandes hospitais ou sentenciados à morte por doutores são curados de forma definitiva, não apenas temporária. Trata-se, porventura, não apenas do maior milagre do século XX, mas do maior prodígio jamais visto desde a alborescência do mundo. Se compararmos a eficácia deste tratamento com a da medicina, não seria exagero dizer que, se a medicina é um, este é cem. Portanto, se esta arte médica se difundir pelo mundo, a realização de um mundo sem doenças poderá ser esperada com certeza.
-
-Por que um método de cura tão esplêndido nasceu neste século? Para explicá-lo exaustivamente, é inevitável recorrer à religião, e não há outro caminho senão tornar-se um fiel de nossa Igreja. Deixando isso de lado, o objetivo deste livro é, diante da situação atual dos Estados Unidos, que não posso mais ignorar, dar o primeiro passo de um alerta.
-
-Há um ponto de suma importância a ser considerado: a razão pela qual me foi concedida a descoberta de uma patologia tão surpreendente e o poder de cura que a acompanha. Isso nada mais é do que a manifestação da Vontade Divina de Deus Jeová, que me incumbiu de realizar a salvação final. Desejo que este ponto seja profundamente gravado em suas mentes. Como prova, temos os milagres de cura realizados por Cristo. Os milagres que minhas dezenas de milhares de discípulos manifestam diariamente incluem inúmeros exemplos que, em comparação com os de Cristo, são iguais ou até superiores. Destes muitos milagres, apresento aqui uma parte.
-
-Atualmente, recebemos de cento e poucas a duzentas cartas de agradecimento por mês, e esse número aumenta a cada mês. Elas são publicadas em nosso jornal semanal "Eikô" e na revista mensal "Tijô Tengoku", mas, recentemente, o espaço se tornou insuficiente, e estamos, por assim dizer, soltando gritos de alegria com o problema. Dentre os exemplos, selecionei seis casos para cada uma das quatro doenças que mais afligem os Estados Unidos atualmente — câncer, tuberculose, doenças mentais e paralisia infantil — e três casos para as demais. Não escolhi os casos mais notáveis; peguei-os aleatoriamente, pois são todos muito semelhantes e não havia necessidade de seleção.
-
-Lamento que, ao ler este livro, muitos americanos sintam o desejo de receber Johrei imediatamente, mas, por ora, isso é impossível, e peço que aguardem um pouco. Estamos nos preparando para enviar o mais rápido possível excelentes ministrantes de Johrei, e planejamos concretizar isso até o primeiro semestre do próximo ano. No entanto, a simples leitura atenta e reflexiva deste livro já permitirá uma compreensão da natureza das doenças e dos fundamentos da medicina, o que, por si só, deverá trazer consideráveis benefícios. A partir de agora, passarei a explicar cada doença individualmente.
-
-### A Situação das Doenças nos Estados Unidos
-
-**Relatório de Fumiji Tatematsu, Fiel Residente nos Estados Unidos**
-
-Com 6.430 hospitais bem equipados e 1.456.912 leitos em todo o país (dados de 1950), quase não há dia em que os jornais não anunciem novas teorias, terapias ou medicamentos em algum campo da medicina. A conscientização sobre a higiene atingiu um nível surpreendente: a desinfecção de utensílios com água fervente, a erradicação de moscas e mosquitos considerados vetores de germes, as vacinas preventivas, o isolamento de pacientes com doenças infecciosas — tudo isso é implementado de forma quase perfeita, com o respaldo de orçamentos vultosos. Qual é, então, a real situação das doenças nos Estados Unidos? De que forma a sequência de fenômenos como a transição gradual do Mundo Espiritual, o aumento do elemento fogo e a intensificação do poder de purificação se manifesta neste reino da medicina? Vejamos um breve panorama.
-
-Malária, ancilostomíase, tracoma, tifo, cólera, varíola, febre amarela, peste e outras doenças coletivas estão, de fato, desaparecendo dos Estados Unidos e de outras nações civilizadas, em proporção direta ao avanço da medicina. Ao mesmo tempo, porém, como que a zombar do orgulho de sua própria medicina, o número de pacientes com as chamadas "doenças da fartura" ou "doenças da civilização", inerentes às sociedades modernas, é elevado até mesmo nos Estados Unidos e, na verdade, aumenta a cada ano. Não seria exagero dizer que a medicina moderna substituiu as doenças coletivas agudas por doenças crônicas da civilização.
-
-Tomemos o câncer como exemplo. Atualmente, existem mais de setecentos mil pacientes com câncer nos Estados Unidos, e tanto o número de mortes quanto o de novos casos seguem uma trajetória de aumento constante. Em 1900, a taxa de mortalidade era de 64 por 100 mil habitantes, ocupando o oitavo lugar entre as causas de morte. Esse número aumentou gradualmente a cada ano, chegando a 136 por 100 mil habitantes em 1948, o que o colocou em segundo lugar, logo após as doenças cardíacas. Em 1900, as mortes por câncer totalizaram 41 mil; em 1948, foram 190.742; e em 1951, 215 mil pessoas sucumbiram à doença, estabelecendo um novo recorde desde a fundação do país. A Sociedade Americana do Câncer (The American Cancer Society) dedica-se a diversas contramedidas. Através de panfletos, jornais, rádio e palestras públicas, ela promove e incentiva o diagnóstico precoce e o tratamento imediato por médicos qualificados (principalmente com radioterapia, raios-X e cirurgia de remoção). Ao ler os jornais diários, tem-se a impressão de que os americanos estão tomados por uma fobia do câncer.
-
-Quanto à tuberculose, a taxa de mortalidade tem, de fato, diminuído a cada ano. Em 1900, com 194 mortes por 100 mil habitantes, era a principal causa de morte. Em 1948, caiu para 30 por 100 mil, ocupando o sétimo lugar. "No entanto, em 1951, o número de pacientes com tuberculose foi maior do que em qualquer ano anterior" (Liga contra a Tuberculose do Condado de St. Joseph). O fenômeno irônico da diminuição do número de mortes e do aumento do número de doentes pode ser visto como uma consequência natural do conflito entre dois fatores contraditórios: o avanço da medicina como terapia de solidificação e a intensificação do poder de purificação. A interrupção da purificação pela medicina parece servir apenas para produzir cada vez mais pessoas socialmente inválidas e acamadas. Embora a taxa de mortalidade esteja em declínio, o número de mortes por tuberculose em 1948 foi de 43.833, o que corresponde a 220 mortes por dia, ou uma a cada doze minutos, superando o total de mortes de todas as outras doenças infecciosas somadas. Estima-se que, no mundo todo, a tuberculose cause entre três e cinco milhões de mortes por ano, um número assustador. Atualmente, nos Estados Unidos, há quinhentas mil pessoas diagnosticadas com tuberculose (principalmente entre 14 e 35 anos), o que significa uma em cada 225 adultos.
-
-Uma das grandes ameaças à sociedade americana é a doença mental. O número de pessoas com esquizofrenia e outras doenças mentais chega à espantosa cifra de nove milhões. A Associação Nacional para a Saúde Mental (National Association for Mental Health) relata que "uma em cada doze crianças nascidas nos Estados Unidos este ano precisará ser internada em um hospital psiquiátrico em algum momento de sua vida".
-
-Em número de doentes, logo após as doenças mentais, vem a artrite, que se manifesta com dor intensa, febre, inchaço e rigidez nas articulações dos membros. O número de pacientes em todo o país varia de sete a oito milhões, com cerca de 147 mil novos casos a cada ano. Esta, que é uma das doenças mais antigas da história da humanidade, é também considerada uma das mais misteriosas.
-
-As mortes por doenças cardíacas aumentam a cada ano de forma incontrolável. Em 1900, com 137 mortes por 100 mil habitantes, ocupava o quarto lugar entre as causas de morte. Em 1948, subiu para o primeiro lugar, com 323 mortes. Em 1950, a taxa chegou a 354,4 por 100 mil, totalizando 535.920 mortes. O número de pessoas com doenças cardíacas é estimado em 3,7 milhões.
-
-Também é digno de nota o grande número de pessoas com dor de cabeça crônica nos Estados Unidos. O Dr. Clarence Woodbury, na edição de maio da revista American Magazine, escreveu: "Fiquei surpreso ao saber que cerca de doze milhões de americanos sofrem de dor de cabeça crônica".
-
-A paralisia infantil, considerada uma típica "doença da fartura", tem um número de casos incerto, mas é mais comum nos países europeus e nos Estados Unidos, onde o nível de civilização é relativamente alto, e afeta principalmente as classes mais abastadas. Campanhas de arrecadação de fundos nas ruas para essas infelizes crianças são frequentemente vistas nos Estados Unidos.
-
-O número de doentes com outras enfermidades nos Estados Unidos é aproximadamente o seguinte: arteriosclerose e hipertensão, 3,7 milhões; asma, 3,5 milhões; bronquite crônica, 1,7 milhão; nefrite ou doença renal, 1,55 milhão; hérnia, 2 milhões; hemorroidas, 2 milhões. Estima-se ainda que pelo menos nove milhões de pessoas sofram de alguma doença do coração ou dos vasos sanguíneos.
-
-Segundo o Dr. Iago Galdstone, do Bureau de Informação Médica da Academia de Medicina de Nova York, "o problema das doenças crônicas nos Estados Unidos é de uma gravidade que transcende palavras e imaginação".
-
-Assim, o número de pacientes que recebem tratamento médico aumenta a cada ano: 7.155.976 em 1931; 10.875.548 em 1940; e 17.023.513 em 1950, o que representa mais de 10% da população total dos Estados Unidos. Se incluirmos os que não recebem tratamento, pelo menos 25 milhões de pessoas, ou um sexto da população, são vítimas de doenças crônicas. E, o que é ainda mais sugestivo, mais da metade delas tem menos de 45 anos. Essas pessoas, que constituem uma grande parcela da população, não podem trabalhar ou têm sua capacidade de trabalho reduzida, não recebendo a devida remuneração da sociedade e contribuindo muito pouco para ela. São, por assim dizer, um grupo de infelizes parasitas sociais.
-
-Citando novamente o Dr. Iago Galdstone: "Tal fenômeno se deve ao progresso da medicina moderna. Como mencionei antes, a medicina moderna reduziu maciçamente o número de mortes, mas, em contrapartida, aumentou maciçamente o número de doentes". E conclui: "A menos que se faça uma nova e mais adequada reavaliação da natureza da saúde e da doença, a medicina, enquanto continua seus esforços terapêuticos, se perderá cada vez mais em um labirinto e jamais conseguirá superar o fardo da doença, que pesa sobre o doente, a sociedade e a profissão médica".
-
-América, América! Deus derramou sobre ti Suas graças, canta o hino. Mas a América, país da brilhante civilização mecânica e do cristianismo, também está doente. Diante do gemido de mais de vinte milhões de doentes, cujo número não para de crescer, a medicina moderna parece estar de mãos atadas, perplexa. Não terá chegado a hora de ela se ajoelhar perante a Medicina Espiritual Divina, que é a materialização do pensamento de Grande Amor e Misericórdia de Deus?
-
-Fim do relatório. 20 de setembro de 1952.
-
-### Câncer
-
-Esta doença poderia ser chamada de "doença da carne", e sua explicação fundamental é a seguinte: quando o Criador fez o homem, proveu-o de alimentos adequados ao seu corpo, como cereais, vegetais, carne de animais e peixes. Ao consumi-los, o homem poderia viver com saúde. Naturalmente, esses alimentos foram adaptados às diferentes condições climáticas, geográficas e raciais, o que constitui a ordem natural das coisas. As vastas e férteis planícies dos Estados Unidos e a abundância de cereais, vegetais e carnes que nelas se produzem significam que os alimentos de origem vegetal e animal devem ser consumidos de forma equilibrada. No Japão, por sua vez, a terra é escassa e o país é cercado pelo mar, o que indica que se deve consumir mais peixe.
-
-No entanto, essa realidade natural foi subvertida por um feiticeiro chamado "ciência", que passou a tratar o corpo humano como mera matéria. Como resultado, houve um progresso no plano físico, mas a vida humana, que é uma existência metafísica, foi rebaixada a esse mesmo plano. Criou-se uma disciplina absurda chamada "nutrição", que, com base em análises superficiais, recomendou o consumo de carne, levando ao excesso que vemos hoje.
-
-A carne de animais contém um tipo de toxina que, ao se acumular e solidificar gradualmente, dá origem ao câncer verdadeiro. É para neutralizar essa toxina que a natureza proveu os vegetais. Além dos cereais, as refeições devem incluir uma quantidade considerável de vegetais. Se assim for, o câncer jamais ocorrerá. Nos Estados Unidos, o ideal seria uma proporção de metade carne, metade vegetais. Os povos que consomem muitos vegetais certamente não têm câncer. No Japão, embora existam casos de câncer, são em número incomparavelmente menor que nos Estados Unidos, precisamente porque o padrão de vida é mais baixo e o consumo de carne é menor.
-
-É importante notar que o câncer se divide em verdadeiro e pseudo-câncer. O que descrevi acima é o verdadeiro, mas, na realidade, o pseudo-câncer é muito mais comum, e, nesse aspecto, não deve haver grande diferença entre o Japão e os Estados Unidos. A causa do pseudo-câncer é, sem dúvida, um tipo de `yakudoku` maligno. Abolindo-se os medicamentos, ele desaparecerá. Mesmo que a doença se manifeste, se a pessoa deixar de tomar remédios e aumentar o consumo de vegetais, ela se curará gradualmente, embora leve tempo. Portanto, não há motivo para grande preocupação.
-
-(Nota) A expressão "Daikomyo Nyorai-Sama" que aparece nos relatos de graças refere-se à Imagem Sagrada de nossa Igreja, uma caligrafia de próprio punho de Meishu-Sama.
-
-#### Câncer de estômago curado, vinte meses depois
-
-**Noriyuki Nagayoshi (47), Igreja Chu de Kiitsu, Takeo, Distrito de Kishima, Província de Saga**
-
-Em 26 de março de 1950, enquanto conversava com uma visita inesperada, ouvi dizer que o Sr. Hideichi Hara (58), de Kitagata, no mesmo distrito, sofria de câncer de estômago. Disseram-me: "Por favor, vá vê-lo". Fui, e ele parecia estar em estado grave. Talvez por pensar "Como algo assim pode me curar?", após um único Johrei, ele recusou o tratamento. Como ele não era membro, fiquei aliviado, pois não queria problemas caso algo acontecesse.
-
-Quatro dias depois, na noite do dia 30, os dois filhos do Sr. Hideichi vieram à nossa sede e disseram: "É muito embaraçoso pedir, mas desde o dia 27 meu pai está aos cuidados de um médico. Sua fraqueza avançou tão rapidamente em quatro dias que o médico, espantado, pediu para nos reunirmos com ele. Perguntamos o que aconteceria se nos reuníssemos, e ele disse que seria necessário interná-lo e operá-lo. 'A cirurgia garante a cura?', perguntamos. 'Não há garantia', respondeu ele. 'Então, se não há esperança de salvação com ou sem cirurgia, preferimos não operar'. E assim, dispensamos o médico. Meu pai disse que, se é para morrer, que seja sem arrependimentos, e que desta vez quer se apegar a Deus. Sabemos que é um pedido egoísta, mas, por favor, ajude-nos".
-
-No dia 31, fui até lá e disse: "Virei por três dias. Se depois disso ainda quiser que eu continue, por favor, me diga. Caso contrário, não virei mais". No terceiro dia, ele pediu: "Por favor, continue vindo". Combinei mais três dias. Nesses dois primeiros dias, ele não conseguia engolir nem 90 ml de leite por dia e suava frio incessantemente. A cada visita, eu temia encontrar um aviso de luto na porta. Mas, no terceiro dia, totalizando seis dias de Johrei, ele estava muito melhor. Senti um grande alívio e pensei que talvez ele sobrevivesse. Ao mesmo tempo, senti profundamente a virtude espiritual de Meishu-Sama e a grandiosidade do Johrei, algo que a inteligência humana não pode sequer conceber.
-
-Ele melhorava a cada dia. Continuei por mais quatro dias, totalizando dez. No décimo dia, eu disse: "Amanhã irei a Beppu em peregrinação, então não virei por três dias. Mas, quando eu voltar, o senhor provavelmente não sentirá mais vontade de ficar deitado". E fui embora. No dia 13 de abril, voltei. Ao me aproximar da casa, vi-o de pé, apoiado na esposa, indo urinar. Fiquei feliz, pois ele estava muito melhor do que eu imaginava. Ao encontrá-lo, a alegria dele e de sua família era indescritível.
-
-Naquele mesmo dia, um vizinho, que também tinha câncer de estômago e sobre quem se comentava "Quem morrerá primeiro, o Sr. Hara ou ele?", faleceu no hospital pela manhã, após uma cirurgia, e foi trazido para casa em uma maca. A vida humana é mesmo imprevisível.
-
-Continuei a ministrar Johrei ocasionalmente. No outono daquele ano, ele já trabalhava como antes da doença. Passados um ano e oito meses desde a cura completa, ele continua a trabalhar com saúde e sem problemas, o que prova que a recuperação pelo Johrei não deixa margem para recidivas. Eu deveria ter relatado esta graça imediatamente, mas, por desejo do próprio paciente, que queria confirmar que nada aconteceria após um ano, adiei o relato até hoje, quase vinte meses depois. Peço sinceras desculpas pelo atraso e espero que este relato sirva de referência para os membros de pouca fé.
-
-Meishu-Sama, muito obrigado.
-
-(1º de fevereiro de 1952)
-
-#### A alegria de ser salvo de um câncer de estômago tido como terminal
-
-**Saburo Furukawa (54), Igreja Chu de Kiitsu, Higashisefuri, Distrito de Kanzaki, Província de Saga**
-
-Sou um simples agricultor do interior. Em minha juventude, trabalhei em diversos cargos públicos, mas desde 1933 dedico-me à agricultura em minha terra natal. Talvez pelo trabalho pesado a que não estava acostumado, ou pelo excesso de álcool na juventude, sofria de problemas de estômago e nunca larguei os remédios. Em junho de 1950, a doença piorou subitamente, e eu já não conseguia trabalhar. Frequentei vários hospitais, tomei chás de ervas e raízes que nem ouso mencionar e fiz peregrinações a templos, mas nada adiantou. Meu corpo definhava e meu espírito se abatia.
-
-Um dia, lendo um livro sobre remédios caseiros, percebi que meus sintomas eram idênticos aos do câncer de estômago. Em agosto de 1950, fiz um exame em um posto de saúde e recebi o diagnóstico direto: câncer de estômago. Fiquei atônito, como se tivesse recebido uma sentença de morte. É uma tristeza que só quem passou por isso pode compreender.
-
-Nesse estado, embora me sentisse sem esperança, a preocupação com o futuro de meus filhos não me abandonava. O amor de um pai por seus filhos é universal, mas o coração de um pai com uma doença terminal é particularmente aflito. Decidi, então, registrar todos os meus bens — campos, florestas, casa — e escrever uma crônica da família, para que servisse de referência a meus filhos no futuro.
-
-Contudo, sendo por natureza uma pessoa de fibra, lutei de todas as formas para vencer a doença, chegando à beira de um esgotamento nervoso. Mas os deuses e budas ainda não me haviam abandonado. Em janeiro de 1951, visitando o Sr. Nakamuta, na aldeia vizinha, ouvi falar, por acaso, das graças de Komyo Nyorai-Sama. O Sr. Nakamuta já era membro e, felizmente, o Reverendo Yagawa, da Sede de Sasebo, estava presente. Pedi imediatamente Johrei e, após sete sessões contínuas, já me sentia quase recuperado. Recebi mais quatro sessões intermitentes e fiquei completamente curado.
-
-Neste ano, trabalhei na lavoura de primavera, na colheita do trigo e no plantio do arroz. Meu peso voltou ao que era antes da doença. Ao pensar no passado de sofrimento, vejo que foi tudo em vão. As graças de Komyo Nyorai-Sama são tão maravilhosas que meu coração transborda de gratidão. Hoje, vivo em paz com minha família, dedicando-me à agricultura. Komyo Nyorai-Sama reconstruiu meu corpo e transformou meu desespero em alegria. Sendo um homem simples do campo, não encontro palavras para expressar minha gratidão. De agora em diante, apegando-me a este maravilhoso Komyo Nyorai-Sama, quero contribuir para a construção de um país livre, sem os problemas de doença e pobreza.
-
-Para concluir, agradeço ao Sr. Nakamuta e ao Reverendo Yagawa, que me guiaram a Komyo Nyorai-Sama, e recomendo a todos que sofrem da mesma doença que eu que recebam esta graça o mais rápido possível.
-
-Meishu-Sama, sinceramente, muito obrigado.
-
-(1º de dezembro de 1951)
-
-#### A alegria de ver minha irmã salva de um câncer de útero em estado terminal
-
-**Matsuko Kado (43), Igreja Chu de Kyokko, Makubetsu, Distrito de Nakagawa, Hokkaido**
-
-Dentre as inúmeras proteções que recebi, gostaria de, em nome de minha irmã, expressar minha gratidão pela alegria de sua salvação. Se não fosse por este encontro com a salvação, ela já não estaria neste mundo.
-
-Ah, só de lembrar me causa pavor! Minha irmã, com câncer de útero, quatro filhos, o mais velho com sete anos, e o marido na guerra... As lágrimas que me sobem aos olhos, não consigo contê-las. Longos meses se passaram. Em 20 de outubro de 1948, meu irmão mais novo retornou da Sibéria, doente. Durante todo esse tempo, o sofrimento de minha irmã foi indizível. Mal havíamos sentido um alívio, e ela começou a definhar devido ao câncer. Após o diagnóstico de quatro ou cinco médicos — "É um câncer de útero completo e já avançado" —, eu mal conseguia viver.
-
-Depois de consultar a família, decidimos interná-la no Hospital da Universidade de Sapporo. Embora eu sentisse no coração que os médicos não a curariam, sozinha nada podia fazer. Em dezembro daquele ano, ela foi submetida a uma grande cirurgia, na qual foram removidos o útero, as trompas e os ovários, e parte da bacia esquerda foi raspada. Em março do ano seguinte, ela voltou para Obihiro e foi internada em uma clínica especializada, recebendo todos os tratamentos considerados bons. Mas o câncer voltou. Ela foi internada novamente no Hospital da Universidade de Sapporo, e a partir daí só piorou.
-
-Pensando no sofrimento dos dois, rezei a todos os deuses para que lhe dessem mais seis meses, um ano de vida. Mas a resposta era sempre a mesma: "Nem mesmo os deuses podem salvar uma pessoa assim. Ela já deveria ter partido deste mundo". Meu peito se apertava, e eu não conseguia nem agradecer. Saí para a rua de cabeça baixa, sem forças para enxugar as lágrimas que escorriam sem parar. Voltei para casa ao entardecer. Moro a cerca de doze quilômetros da casa de minha irmã (em Obihiro). Meu marido trabalha nos correios, e eu tenho uma pequena loja de roupas e miudezas.
-
-Naquela noite, por acaso, o Sr. Oka, um membro da Igreja que sempre vai aos correios, pernoitou em minha casa. Após o jantar, começamos a falar de minha irmã. Ele disse: "Há um excelente Mestre de Honshu em Obihiro. Dizem que ele cura tudo, exceto defeitos de nascença. Eu avisei alguns doentes, e todos estão melhorando e muito felizes". Percebi que se tratava de um Deus verdadeiramente grandioso e acreditei que minha irmã poderia ser curada.
-
-Logo recebi um aviso de que minha irmã voltaria de Sapporo, pois no hospital não havia mais esperança. Com o coração na mão, fui pedir ajuda ao Mestre em Obihiro. Expliquei a situação em detalhes, e ele disse: "Ela ficará bem. No dia 29, um Mestre da Sede estará aqui, venha nesse dia". Senti uma alegria imensa, como se pudesse voar. Contei ao meu irmão e enviei um telegrama à minha irmã, pedindo que voltasse a Obihiro no dia 29. Os dois dias de espera pareceram um ou dois meses. Senti uma força renovada, como se minha irmã já estivesse salva.
-
-No dia 29, pela manhã, cheguei a Obihiro. A aparência dela... mal parecia minha irmã, tão magra e fraca, como alguém que já não pertencia a este mundo. Fomos de táxi para a Sede. Ouvimos uma palestra maravilhosa e, como o estado dela era grave, ela recebeu Johrei antes de todos. Os cerca de sessenta membros presentes olhavam para ela espantados, como se não acreditassem no que viam.
-
-Como ela pareceu se sentir um pouco melhor, pedi aos Mestres Miyamuro e Ono que a visitassem todos os dias. Mas eu estava muito preocupada e sempre ligava ou ia até lá para saber notícias. O Mestre disse: "Se a senhora se preocupa tanto com sua irmã, por que não recebe um Ohikari e ministra Johrei nela cada vez que vier a Obihiro? Isso a aliviará ainda mais. Qualquer um pode fazer isso". Eu, que nada sabia, achei estranho, mas me tornei membro.
-
-Minha irmã estava há onze dias sem evacuar e sofria muito. Ministrei Johrei por vinte ou trinta minutos, e imediatamente ela evacuou em grande quantidade. Que poder sublime eu, uma pessoa comum, havia recebido! Senti como se tivesse renascido, dado o primeiro passo da escuridão para a luz. Meu coração transbordava de gratidão.
-
-Naquela época, ela ainda sentia dores da grande cirurgia. O rádio e os raios-X haviam queimado seus intestinos e uretra, e seu ânus estava endurecido, sem conseguir expelir líquidos. Urina e fezes se misturavam internamente e saíam pela vagina.
-
-Depois disso, minha irmã passou por várias mudanças. Duas semanas depois, teve três grandes hemorragias. Pensei com alegria que o câncer estava saindo. Mas a família e os parentes, que não entendiam nada de Johrei, entraram em pânico, falando em médicos e remédios. Eu aproveitava qualquer oportunidade para ministrar Johrei. Se eu pedia ao Mestre para vir e depois ia embora, minha irmã recusava o tratamento. As dores pioraram, e ela não conseguia dormir nem de dia nem de noite. Com uma perna paralisada, ela se arrastava pelo quarto de tanta dor. Remédios fortes para dormir e morfina não faziam efeito. Ela sofria como uma sonâmbula e dizia: "Não quero viver com tanto sofrimento, não preciso de Johrei". Já se passavam uns setenta dias desde que as dores começaram, e ela era só pele e osso.
-
-Pela quarta vez, recebi um telegrama de "estado crítico". Fui no dia 4 de novembro. Ela estava com o último suspiro. Ministrei Johrei com todas as minhas forças e decidi firmemente em meu coração que naquela noite iria ao encontro de Meishu-Sama, acompanhada do Mestre Miyamuro, para lhe pedir ajuda. Preparei-me para a viagem, mas, por outro lado, preocupava-me que algo pudesse acontecer em minha ausência. Então, para minha surpresa, minha irmã recuperou as forças e disse: "Irmã, pode ir tranquila, não se preocupe". Fiquei atônita. Que proteção maravilhosa! E parti.
-
-No encontro do dia 8, fiz uma pergunta a Meishu-Sama, e ele me ensinou o método de Johrei. Meu peito se encheu de uma alegria e gratidão indescritíveis. Como a viagem durou mais de uma semana, e da vez anterior eu havia ficado um mês de cama de tanto cansaço, desta vez voltei para a casa de minha irmã sem sentir nada, pelo contrário, sentia-me revigorada. Perguntei à minha mãe como ela estava, e ela respondeu: "Sua irmã, que não comia nada, agora mal pode esperar pelas três refeições e ainda come entre elas". Fiquei tão feliz, tão feliz! Agradeci imediatamente a Meishu-Sama. Olhei para minha irmã: em uma semana, ela havia engordado e recuperado o vigor. Fiquei sentada em silêncio, e lágrimas quentes escorreram dos meus olhos fechados.
-
-A partir daí, ela melhorou a cada dia. Ainda deitada, tricotou suéteres para o marido e os quatro filhos, costurou um casaco acolchoado e preparou tudo para o inverno. Passamos um feliz Ano Novo. Mas seu ânus continuava atrofiado, e as fezes saíam apenas pela vagina. O acúmulo de excrementos causava inchaço, feridas e dor. Fui novamente a um encontro com Meishu-Sama, fiz uma pergunta e ele me ensinou os pontos de Johrei. Voltei e ministrei Johrei duas ou três vezes. No terceiro dia, ela conseguiu evacuar pelo ânus. As graças se sucediam, e vivíamos em constante gratidão.
-
-Minha irmã agora pode trabalhar e participa das cerimônias mensais na Sede. De agora em diante, com gratidão a Meishu-Sama e a Daikomyo Nyorai-Sama, dedicarei minha vida a retribuir, ainda que minimamente, este grande favor. Muito obrigada. Em nome de minha irmã, agradeço. Obrigada. Com esta humilde carta, relato uma parte das graças recebidas. Muito obrigada. Agradeço repetidas vezes.
-
-(23 de dezembro de 1951)
-
-#### Ressuscitada de um câncer de útero sentenciado à morte
-
-**Katsu Fukushima (58), Igreja Chu de Ryuko, Hirano, Izumo, Província de Shimane**
-
-Costuma-se dizer que a vida é o bem mais precioso, e eu sou uma felizarda a quem foi concedida uma vida inestimável, que nem muitas vidas poderiam substituir. Graças a Deus, hoje vivo feliz, rodeada pelo carinho de meus netos. Com esta humilde pena, relato como fui ressuscitada de uma sentença de morte médica, algo que me arrepia só de lembrar.
-
-Eu sentia dores lombares há algum tempo, e, se me esforçava um pouco mais, às vezes não conseguia endireitar as costas. Tratava-me com acupuntura e moxabustão, que me aliviavam temporariamente. No outono de 1950, comecei a ter um corrimento abundante, com coágulos, mas, como não sentia dores fortes, não me preocupei. Pensei que, mesmo na minha idade, estava rejuvenescendo e que a menstruação havia voltado. Após dois ou três meses, o corrimento cessou.
-
-No final de abril de 1951, meu baixo-ventre ficou subitamente rígido e a região lombar começou a doer. Minha filha, que veio me visitar, disse: "Se está tão mal, deve ser algo no útero. Vá ao médico. A vizinha aqui de casa tinha os mesmos sintomas que a senhora e, quando foi ao médico, já era tarde demais. Ela morreu há pouco tempo. Por favor, vá o mais rápido possível".
-
-No dia 23 de abril, dia de eleição, fui de bicicleta com meu filho votar e, à tarde, fomos ao hospital. O médico me disse: "A senhora tem um pequeno tumor no útero, mas não é nada grave. Há outra doença ajudando". Mas, em segredo, disse ao meu filho e à família: "É câncer de útero, e já é tarde demais. A cirurgia não adiantará, e, mesmo sem ela, ela não viverá mais de seis meses". Ele me deu uma sentença de morte. Ignorante da verdade, voltei para casa tranquila. Mas a trepidação da bicicleta deve ter sido muito forte, pois senti uma dor aguda no baixo-ventre.
-
-A evacuação tornou-se difícil, e eu precisava de laxantes e enemas. Por fim, meu ânus se abriu e o enema saía como entrava; os laxantes também não faziam mais efeito. Perdi o apetite. Parentes preocupados sugeriam videntes e rezadores. Nesse momento de desespero, a Sra. Inoue, uma vizinha membro da Igreja Messiânica, veio me visitar e disse com gentileza: "A senhora pode receber uma graça através da fé. Quer que eu lhe ministre Johrei?". Em meu desespero, agarrei-me a essa esperança e disse: "Se for uma boa fé, por favor, me conceda essa graça". E assim recebi Johrei pela primeira vez.
-
-Ela apenas mantinha as mãos a trinta ou sessenta centímetros do meu corpo, mas, após dois ou três dias de tratamento, senti um bem-estar inexplicável. Pedi, então, que chamassem o Mestre da Sede de Taisha. Apesar de sua agenda lotada, ele veio no dia 22 e me ministrou Johrei. E que maravilha! A vontade de urinar, que antes era incontrolável, espaçou-se para mais de duas horas após uma única sessão. Ele ministrou Johrei intensamente na região dos rins, e senti um grande alívio. Na manhã seguinte, evacuei fezes acumuladas de catorze ou quinze dias. A dor aguda antes e depois de urinar diminuiu muito. E o apetite, que eu não tinha apesar da insistência do médico, voltou de uma vez. A comida tornou-se deliciosa.
-
-Na terceira visita do Reverendo Sakunaka, eu já estava muito melhor. Ao se despedir, acompanhei-o até o portão. Ele veio oito vezes até o dia 8 de junho, e a cada visita eu melhorava visivelmente, para sua grande alegria. Meu filho iria receber um Ohikari para que eu pudesse receber Johrei em casa, mas no dia 8, fui de bicicleta com a Sra. Inoue até a Sede da Igreja para agradecer e eu mesma recebi um Ohikari. Naquele dia, recebi Johrei do Presidente da Igreja e contei a todos os presentes sobre a grande graça que havia recebido.
-
-Voltei para casa e continuei a melhorar. Nos dois ou três meses seguintes, tive ocasionalmente um corrimento amarelado e malcheiroso, mas não tive hemorragias fortes. No terceiro mês, já ia de carrinho vender verduras na cidade vizinha. As pessoas que comentavam que eu não sobreviveria ficaram espantadas e me perguntavam como eu havia me curado. Minha filha, ao ir ao hospital onde recebi o diagnóstico, foi questionada pelo médico: "Como está sua mãe?". Ela respondeu: "Graças a Deus, está muito bem e trabalhando". O médico, por um momento, parou o que estava fazendo e, de olhos arregalados e boca aberta, ficou sem palavras.
-
-Graças a Deus, estou mais saudável do que antes de adoecer. Minha família está maravilhada com minha recuperação e muito grata. Agradeço profundamente a misericórdia de Meishu-Sama.
-
-(1º de julho de 1952)
-
-#### Reumatismo articular curado e paciente com câncer retal em estado terminal recupera a saúde
-
-**Tatsuo Kimura (26), Igreja Chu de Ohara, Komatsu, Distrito de Oshima, Província de Yamaguchi**
-
-Embora eu seja um membro recente da Igreja, ouso tomar a pena, sem me importar com minha inexperiência, movido pelas inúmeras e sublimes graças e milagres que recebi. Seria um desperdício guardar tais experiências apenas para mim. Ao relatar minhas vivências, que mais parecem uma sucessão de milagres, espero poder contribuir, ainda que minimamente, para a fé e dedicação de todos. Além disso, desejo, com base na minha experiência, mostrar aos jornalistas adeptos do cientificismo e aos materialistas ateus a essência da fé e a superioridade do Johrei da nossa Igreja sobre a ciência, para que possam reconhecer, ainda que em parte, a verdadeira natureza e existência da religião.
-
-Conheci a Igreja quando estava acamado há mais de um ano, sofrendo de neuralgia intercostal e ciática, e reumatismo articular. Tentei de tudo: médicos, eletroterapia, acupuntura, moxabustão, massagem... mas nada adiantou. Minhas mãos e pés ficaram paralisados e arroxeados, minha memória falhou, minha visão ficou turva. A dor intensa e a febre alta, dia e noite, roubaram-me os sonhos e as esperanças da juventude, levando-me a um mundo de escuridão onde até a vontade de viver se esvaiu. Caí em um estado de torpor. Apenas repetia, como um ritual diário, injeções, massagens e eletroterapia, para suportar a dor e a febre.
-
-Foi em meados de fevereiro do ano passado. O Reverendo Takamoto veio me visitar, a pedido da mãe de minha cunhada. Ele me falou sobre a maravilha do Johrei e disse: "Por que não interrompe todos os tratamentos por uma semana e experimenta o Johrei? Com certeza vai melhorar". Sendo eu um admirador de Marx e um ateu que detestava até a palavra "fé", pensei, com uma arrogância que hoje me envergonha: "Por mais maravilhoso que seja, como pode uma doença que a mais alta tecnologia médica não consegue curar ser curada apenas com o passar das mãos? Isso é superstição, uma religião maligna". Não acreditei, mas decidi experimentar.
-
-E então, no terceiro dia, chegou o momento em que eu, o ateu, veria com meus próprios olhos a existência de Deus e a realidade dos milagres. O médico, que vinha me visitar todos os dias, faça chuva ou faça sol, há mais de um ano, não podia ser dispensado de forma rude. Eu disse, tentando ser sutil: "Ultimamente, sinto menos dor e estou bem melhor. Gostaria de tentar parar com as injeções e os remédios por um tempo, o que o senhor acha? Será que o excesso de remédios e injeções não está causando uma reação, provocando a paralisia e a rigidez dos meus membros?". Ele respondeu: "Isso é pensamento de leigo. O que o médico faz está certo. Não vou fazer nada que o prejudique, deixe a doença comigo". E continuou a me visitar e a aplicar injeções.
-
-Mas, talvez a fé do Reverendo A. tenha chegado a Deus, ou talvez houvesse algo no meu corpo, agora preenchido pela Luz Divina, que nem mesmo um cientista como o médico pudesse violar. A agulha da injeção, ao ser inserida, entortava ou quebrava, e ele mal conseguia aplicá-la. Na sexta ou sétima tentativa, quando finalmente conseguiu inserir a agulha, o líquido da injeção vazou e não fez efeito. O médico e a enfermeira ficaram perplexos e olhavam fixamente para um ponto. Lá, havia um prego que o Reverendo Takamoto havia colocado para pendurar o pergaminho sagrado.
-
-Naquele dia, eles foram embora. No dia seguinte, debaixo de chuva, o médico veio, mandou a enfermeira preparar a injeção, pegou a seringa cheia e ficou pensativo. De repente, disse: "Você disse que estava melhorando, não é? Hmm, hoje não vou aplicar a injeção". E começou a se preparar para ir embora apressadamente. A enfermeira e todos nós ficamos surpresos. E, ao se despedir, ele disse formalmente: "Cuide-se bem. Se piorar, me avise imediatamente que eu venho". Então, ao ver o prego onde o pergaminho sagrado seria pendurado, ele acrescentou, como se fugisse: "Não, não, não precisará me chamar. Você ficará bom e virá ao hospital andando. Não, não, nunca mais precisará de um médico, pode ficar tranquilo".
-
-Ah! Se isso não é um milagre, o que é? A grandiosidade da proteção divina! Naquele momento, vi com meus próprios olhos a existência de Deus e a realidade dos milagres. Minha família e eu choramos de gratidão pela imensa graça divina.
-
-A partir daquele dia, meu coração obstinado mudou. As palavras de louvor que antes eu ouvia com indiferença, agora eu as recitava. Ao ler atentamente os Escritos Divinos, senti uma paz de espírito que nunca havia experimentado e saboreei a essência da fé. Recuperei os sonhos e as esperanças da juventude, e dias felizes e alegres chegaram.
-
-Com o Johrei, minhas mãos e pés arroxeados, minha visão turva e minha perda de memória melhoraram a cada dia. Em uma semana, meu corpo, que esteve acamado por mais de um ano, recuperou a saúde a ponto de parecer inacreditável. As articulações, que antes eu não conseguia dobrar, agora se moviam livremente. Eu conseguia ficar sentado por uma hora e andar dois quilômetros sem sentir muita dor. Compreendi que a paralisia e a descoloração dos membros, a visão turva e a perda de memória eram todas causadas pelo `yakudoku`. Ao perceber o quão terrível é o `yakudoku` e pensar que antes o recebia com gratidão, estremeci.
-
-No dia 20 daquele mês, fui com minha mãe à cerimônia, tornei-me membro imediatamente e, desde então, tenho cooperado diariamente, com minhas humildes forças, com a grande Obra Divina de salvação da humanidade para a construção do Paraíso Terrestre. Ao ministrar Johrei, os milagres se sucedem, um gerando o outro, e eu me conscientizo cada vez mais da grandiosidade da Obra Divina, aprofundando meu sentimento de gratidão.
-
-Para concluir meu relato, cito um exemplo. Uma senhora idosa, com câncer retal, estava acamada há um ano e meio. Sem apetite, seu rosto pálido não tinha vida. Médicos renomados tentaram de tudo, com remédios caros e raros, mas ela só piorava. Sua morte era uma questão de tempo. Mas o Reverendo Takamoto foi visitá-la e, após dois dias de Johrei, ela já conseguia comer e ir ao banheiro andando. Em uma semana, levantou-se da cama e já cozinhava. Quando fui visitá-la, uma semana depois, o médico estava lá, implorando à paciente, de mãos postas: "Isto é um milagre, o nódulo no abdômen desapareceu! Não era câncer. Coisas estranhas acontecem. Como médico, já tratei muitos pacientes com câncer, mas nunca vi um caso como este. Por favor, deixe-me examiná-la, para fins de pesquisa". Diante dessa cena inusitada, agradeci do fundo do meu coração: "Meishu-Sama, muito obrigado".
-
-Meishu-Sama, muito obrigado.
-
-(1º de abril de 1952)
-
-#### Salvo de um câncer retal
-
-**Masago Toyoda (58), Igreja Chu de Chosei, Todoroki, Tamagawa, Setagaya, Tóquio**
-
-Meishu-Sama, recebi uma grande proteção e expresso minha sincera gratidão. Ao mesmo tempo, relato que, assim como minha filha foi curada de sua doença, eu também, acometido pela terrível doença do câncer, fui banhado pela Luz Divina e salvo.
-
-Em julho passado, quando o médico me diagnosticou com câncer retal, o choque da família foi imenso. Tendo ainda tantas tarefas a cumprir, era difícil para mim encarar a morte. O médico disse: "Este câncer já está avançado. Mesmo com cirurgia, não posso garantir mais de três meses de vida". Peço desculpas, mas, mesmo tendo visto minha filha ser salva, eu ainda não compreendia o verdadeiro poder de salvação da Igreja Messiânica. Em uma reunião de família, hesitei entre outros hospitais. Mas, diante da insistência de minha esposa e filha, finalmente disse: "Eu também gostaria de pedir Johrei". Foi o que me levou a receber esta grande proteção. Só tenho palavras de gratidão.
-
-O sentimento de poder hoje trabalhar em meus negócios sem nenhuma dificuldade é algo que as palavras não podem expressar. Apenas escrevo o que sinto. Como diz o poema de Meishu-Sama: "Não há no mundo nada mais efêmero que a cegueira, / Incapaz de ver o tesouro que está tão perto". Que caminho tortuoso eu trilhei, quando a salvação estava tão perto e sem preocupações!
-
-Hoje, estou tão bem que até os vizinhos se espantam, e já posso fazer trabalhos leves. De agora em diante, quero compartilhar a grande felicidade que recebi com outras pessoas que sofrem de doenças, para que possamos nos alegrar juntos.
-
-Meishu-Sama, muito obrigado por sua proteção. Agradeço-lhe sinceramente.
-
-(11 de dezembro de 1951)
-
-### Tuberculose
-
-Esta doença também é, na verdade, uma criação da medicina. Como expliquei anteriormente, o `yakudoku` acumula-se e solidifica-se em várias partes do corpo. A ação purificadora que se segue, o resfriado, através da febre, dissolve essas toxinas em um líquido que, na forma de catarro, tenta ser expelido através dos pulmões. Os pulmões, portanto, funcionam como uma estação de passagem para a eliminação do escarro. O catarro acumula-se temporariamente nos pulmões e é expelido pela garganta através da ação de bombeamento da tosse. Assim, quanto mais tosse e catarro houver, melhor será a purificação.
-
-A medicina, porém, interpreta isso de forma inversa e se esforça ao máximo para deter a tosse e o catarro, o que constitui um erro espantoso. Como resultado, o catarro permanece estagnado nos pulmões e, com o passar do tempo, solidifica-se gradualmente. Após algum tempo, uma nova purificação ocorre, e a pessoa pega um resfriado. Ao consultar um médico, este, com base na febre, nos nódulos de catarro nos pulmões, na tosse, no escarro e nos ruídos respiratórios, diagnostica o início da tuberculose. Além disso, se houve uma pleurisia leve anteriormente, os nódulos resultantes se dissolvem e tentam sair pelos pulmões, o que é chamado de infiltração pulmonar. Os nódulos do pescoço e dos ombros, ao se dissolverem e penetrarem pela parte superior dos pulmões, são diagnosticados como linfadenite hilar ou catarro do ápice pulmonar.
-
-Observando essa sequência, fica claro que a tuberculose é inteiramente criada por tratamentos médicos equivocados. Em uma palavra, a medicina impede a eliminação das impurezas do corpo que a purificação natural tenta expelir. Medicamentos, injeções, repouso — tudo são métodos de solidificação. O progresso da medicina nada mais é do que o progresso dos métodos de solidificação de toxinas, um fato por demais evidente.
-
-Quanto ao bacilo da tuberculose, ele não é contagioso como afirma a medicina, mas de geração espontânea. O catarro solidificado nos pulmões, com o tempo, entra em putrefação. É um princípio da matéria que a putrefação gere microorganismos, e a temperatura corporal acelera ainda mais esse processo. Se a tuberculose é criada pela medicina, posso afirmar, sem hesitar, que, enquanto este fato não for compreendido, o número de casos só aumentará, jamais diminuirá.
-
-Os fatos falam por si. Recentemente, tanto nos Estados Unidos quanto no Japão, diz-se que a taxa de mortalidade por tuberculose diminuiu muito, mas o número de pacientes não diminui, uma contradição. Isso se deve ao progresso dos métodos de interrupção da purificação, como novos medicamentos mais tóxicos e cirurgias. Embora a vida possa ser temporariamente salva, não se trata de uma cura completa. O número de pessoas que não morrem, mas também não podem trabalhar, aumenta cada vez mais, e o número de novos casos permanece o mesmo. A situação atual, em que se clama pela falta de leitos, especialmente no Japão, ilustra bem essa realidade.
-
-Explicarei agora em detalhes a questão do bacilo da tuberculose. A medicina da tuberculose, nos últimos tempos, alega ter progredido muito, mas, do nosso ponto de vista, ela nem sequer chegou à porta de entrada. A medicina está obcecada pelo bacilo e acredita erroneamente que, se conseguir matá-lo, resolverá o problema da tuberculose. No entanto, o bacilo não surge do nada no ar nem aparece sem motivo no corpo humano. Sua origem deve estar em algum lugar.
-
-Essa origem foi, finalmente, descoberta por mim. Explicarei em detalhes a seguir. Para tanto, é preciso primeiro compreender a constituição do corpo humano. A ciência vê o corpo como mera matéria, o que é um grande erro. Se assim fosse, como se explicaria a vida e a morte? O ponto crucial aqui é o espírito humano, a mente. Embora invisível, nem mesmo a ciência pode negá-lo. O ser humano possui, além do corpo físico, uma entidade quase imaterial, o espírito, que tem a mesma forma do corpo e existe de fato. Espírito e corpo mantêm uma relação de união inseparável. A morte é a separação do espírito, com a cessação da atividade do corpo.
-
-A mente está em constante atividade. Quando um desejo surge no ser humano, ele é imediatamente transferido para o corpo, que age. O corpo não se move por si só. Portanto, a essência do ser humano está na mente, ou seja, no espírito. O espírito é o senhor, e o corpo, o servo. O espírito é primário, e o corpo, subordinado. Com base nesse princípio, a doença também se origina primeiro no espírito e depois se reflete no corpo. Esta é a verdade. Portanto, a cura fundamental consiste em tornar o espírito saudável.
-
-Explicando mais detalhadamente, a natureza do espírito é de uma transparência incolor. A doença se origina quando essa transparência se turva. Cientificamente falando, a materialização do espírito é o sangue, e a desmaterialização do sangue é o espírito. Assim, a turvação do espírito se reflete no corpo como sangue impuro, e o sangue impuro se reflete no espírito como turvação. É uma relação de unidade entre espírito e corpo.
-
-Qual é, então, a causa da turvação do espírito? Religiosamente falando, é o acúmulo de pecados e máculas. Materialmente falando, é o acúmulo de `yakudoku`. Mas qual é a natureza dessa turvação? É o hidrogênio impuro. Com o passar do tempo, sua densidade aumenta e ele se contrai. Então, nele, surgem bactérias. Essas bactérias, que podem ser consideradas uma matéria inorgânica vegetal, transformam-se gradualmente em matéria orgânica, tornando-se animais. São os óvulos dos bacilos. Quando esses óvulos crescem e se tornam indivíduos, ou seja, adultos, são os bacilos visíveis ao microscópio. O vírus, portanto, é uma partícula intermediária entre o óvulo do bacilo e o bacilo adulto. Embora invisível ao microscópio, sua existência é reconhecida pela medicina. Um exemplo claro é a larva que surge no lixo. A medicina tenta matar a larva, mas não presta atenção ao lixo.
-
-Com base nesse princípio, para erradicar a tuberculose, não há outra solução senão eliminar a turvação do espírito, que é a fonte de geração dos bacilos. Como a pesquisa da medicina moderna não alcançou esse nível, ela se concentra apenas no resultado, o bacilo, e, enquanto não tocar na causa fundamental, por mais que se esforce, seu trabalho será em vão. É verdade que os microscópios atuais não conseguem ver partículas menores que o vírus. Felizmente, porém, como a causa fundamental foi descoberta por mim, o problema da tuberculose está resolvido.
-
-Como, então, eliminar a turvação do espírito? Para explicar isso, preciso primeiro descrever a natureza da turvação. Como mencionei, o hidrogênio impuro contém moléculas impuras, partículas ultrafinas, invisíveis até mesmo ao microscópio. O método de Johrei elimina essas micropartículas, queimando apenas as micropartículas tóxicas e deixando o hidrogênio puro. A causa da doença é, assim, completamente eliminada.
-
-Este tratamento é realizado pela luz invisível que irradia da palma da mão humana. A essência dessa luz é o elemento fogo, o espírito do fogo. O corpo do fogo é o calor, mas seu espírito não é quente e possui uma força maravilhosa, superior à do corpo. É estranho que a ciência, há tanto tempo, fale do hidrogênio, mas não do elemento fogo.
-
-Por que, então, o elemento fogo irradia da palma da mão? A explicação para isso é necessariamente religiosa, e peço ao leitor que a leia com essa disposição. A ciência moderna ignora o espírito e reconhece apenas a matéria, por isso será difícil de acreditar. A ciência progrediu apenas no aspecto do corpo, um progresso manco, deficiente. É natural, portanto, que não consiga descobrir a verdadeira patologia e o método de cura. É por isso que sempre digo que a medicina é mecânica, mas não científica. Prova disso é que, quando um paciente pergunta ao médico a causa de sua doença, a resposta é sempre vaga e evasiva, como os próprios médicos bem sabem. Em contrapartida, nós podemos responder a qualquer pergunta, por mais profunda que seja, com uma teoria científica sólida, de modo que qualquer paciente se convence e se tranquiliza.
-
-Voltando ao assunto, esse poder de purificação me foi concedido por Deus Jeová, que me deu uma esfera de luz espiritual, a fonte do elemento fogo (localizada no centro do abdômen, com cerca de seis centímetros de diâmetro, visível a olho nu por algumas pessoas). Dessa esfera, irradiam-se ondas de luz infinitas. Como método de transmissão, um pedaço de papel de cerca de meio metro, com o ideograma "luz" escrito com pincel e tinta, é dobrado e colocado no peito do ministrante. As ondas de luz que emanam de mim são transmitidas ao ministrante através de uma linha espiritual e irradiam da palma de sua mão. Este é o método de Johrei. É como uma estação de rádio, uma antena e um receptor. O "Omamori" mencionado nos relatos de graças é isso.
-
-Por que Deus me concedeu tal método? Porque chegou a época profetizada por Cristo quando disse: "O Reino dos Céus está próximo". O primeiro passo para isso é erradicar a doença da humanidade, e Deus me ensinou o método para a eliminação das doenças.
-
-O que se segue é uma explicação sobre o bacilo da tuberculose e outros assuntos. A seguir, abordarei brevemente os bacilos das doenças infecciosas.
-
-#### Eis a salvação — A terrível experiência com a medicina
-
-**Masashi Matsui (32), Igreja Chu de Hakuai, Sakai, Musashino, Tóquio**
-
-Após sobreviver aos horrores do cativeiro na Sibéria, a alegria do retorno ao lar foi breve. Acometido por uma doença, perdi a esperança de viver e, acreditando que Deus não existia, cheguei a planejar o suicídio de minha família. Foi então que uma luz de salvação brilhou diante de mim. Recebi Johrei com desconfiança e, milagrosamente, recuperei a alegria de viver. Movido por uma gratidão imensa, ouso relatar minha história, apesar de minha escrita humilde.
-
-Há seis anos, com o fim da guerra, fui levado para as profundezas da Sibéria, uma terra de densa vegetação, e ali começou uma vida de prisioneiro que eu jamais poderia ter imaginado. Em meados de setembro, a neve já caía, e a temperatura despencava. Em cada refeição, recebíamos uma tigela de sorgo ou milho cozido com sal, uma sopa salgada e peixe salgado. A comida estranha, que a princípio não descia, com o tempo tornou-se palatável. Em outubro e novembro, já adaptado à vida no cativeiro, as verduras desapareceram. A relva que comíamos secou, e a neve cobriu tudo. Com a falta de comida e a desnutrição, meu corpo enfraqueceu. O frio se intensificou, e, incapazes de suportar o rigor do inverno, meus companheiros começaram a cair, um a um.
-
-"Vamos aguentar! Paciência! Resistência! Até voltarmos para casa!", era nosso lema. Mas a força de vontade se esvaiu. Pensando em nossas esposas, filhos e na terra natal, um a um, sucumbimos sob o céu estrangeiro. No hospital, que abrigava quinhentas ou seiscentas pessoas, mais de dez por cento morriam a cada dia. Os corpos eram empilhados do lado de fora e, quando congelavam, um médico militar vinha com um machado, abria-os da cabeça ao abdômen e, sem examinar nada, declarava a autópsia feita e escrevia o atestado de óbito. Depois, soldados japoneses colocavam os corpos em sacos de aniagem e os levavam de trenó para serem jogados em valas. Quem poderia conter as lágrimas diante de tão dolorosa cena?
-
-Assistindo a essa tragédia, eu me perguntava se Deus existia. Sentindo uma profunda solidão, mas pensando em minha família que aguardava ansiosamente meu retorno, eu me esforçava para continuar. Nas profundezas da floresta, com a neve até os joelhos, apoiado em um cajado, eu continuava a trabalhar no corte de madeira.
-
-Após dois anos de sofrimento indizível, a voz dos grupos democráticos chegou até os confins da Sibéria. O trabalho e a comida melhoraram. Como "bom trabalhador", recebi uma ordem secreta de repatriamento do departamento político e, incluído no grupo de doentes, pude retornar são e salvo à minha amada pátria.
-
-Eu, que não havia ficado doente um único dia na Sibéria, mal havia retornado e relaxado quando, em dezembro de 1947 (havia retornado em setembro), um gânglio na virilha esquerda inchou. No hospital de Mitaka, diagnosticaram-me com uma possível doença venérea em quarto estágio. Apliquei compressas de ácido bórico e tomei sulfamida. Em uma semana, o inchaço desapareceu, e eu respirei aliviado. Mas, no janeiro seguinte, abriu-se um buraco entre a uretra e o reto, e metade da urina ia para o ânus. Enquanto era tratado no Hospital Keio, em fevereiro, o testículo esquerdo inchou e começou a doer intensamente. Esperei três semanas por um leito vago e fui operado (remoção). Durante esse tempo, recebi cinco injeções de 300 mil unidades de penicilina e dez de 20 cc de Salvarsan.
-
-A cicatriz da cirurgia ainda não havia sarado quando desenvolvi uma pleurisia úmida à esquerda. Recebi trinta injeções de Salvarsan e, após três meses, parecia curado. Voltei ao trabalho por um mês, e então o testículo direito inchou. Querendo salvar pelo menos um, recebi cinco injeções de 300 mil unidades de penicilina e quinze de Salvarsan, mas a dor e o inchaço só pioraram. O testículo inchou até o tamanho de um ovo, e novamente me disseram que a cirurgia era necessária. Na esperança de evitar a operação, tomei cerca de cinquenta comprimidos de Diazina, mas o inchaço e a dor não cederam. Fui forçado a me internar e operar. Eu já tinha um filho, mas ao ver meu testículo mutilado, a ideia de que nunca mais teria outro filho me fez chorar.
-
-Três meses depois, a pleurisia esquerda voltou. Após seis meses de repouso, voltei ao trabalho por cinco meses, e ela voltou novamente. O médico me ordenou repouso absoluto, e eu fiquei acamado. Em dezembro de 1949, o pulmão direito também foi afetado, e, ao mesmo tempo, recebi o diagnóstico de tuberculose intestinal. Minha esperança se desvaneceu, e eu chorei de desespero.
-
-As crianças da vizinhança me apontavam, dizendo "tuberculoso, tuberculoso", e meu filho, inocente, era evitado e brincava sozinho. Pensar que era por minha causa me fazia chorar. Eu não havia suportado os sofrimentos do cativeiro sonhando com uma vida feliz em família, por causa deste filho? Eu queria viver, queria ficar bom de novo. Com esse desejo, gastei minhas últimas economias em cinco ampolas de estreptomicina. Com duas injeções por dia, a febre começou a ceder. Com oitenta injeções intravenosas de Salvarsan e Salvarsan-P, em março e abril de 1950, a febre desapareceu. "Ah, estou salvo!", pensei. "Agora é só esperar a recuperação". Minha esposa e eu choramos de alegria.
-
-Mas, em maio, a febre voltou. A dor no intestino e a diarreia aumentaram, e eu sentia dores insuportáveis nas costas e no peito. Não largava a bolsa de gelo. Uma caverna se abriu no pulmão direito, e me disseram que a única solução era a cirurgia. Abalado, pedi para ser internado, mas nunca havia um leito vago.
-
-A esperança de recuperação se desvaneceu. "Vou morrer logo, para não dar mais trabalho a ninguém", pensei. As roupas, vendidas uma a uma para comprar remédios, haviam acabado. Atormentado pela doença e pela pobreza, o futuro era a morte. Comecei a procurar uma oportunidade para me suicidar.
-
-"Perdoe seu pai", eu dizia em meu coração. Com um pão recheado com cianeto na mão, eu oferecia ao meu filho: "Filho, tenho uma coisa boa para você". Ele vinha correndo, feliz. Mas como eu poderia dar aquilo a ele? Minha mão tremia. "Pare!", gritou uma voz em meu coração. Voltei a mim, como se despertasse de um pesadelo. A culpa me fez chorar. "Hoje eu morro", "Amanhã eu morro", eu me preparava, mas ao ver o rosto de meu filho dormindo inocentemente, minha determinação vacilava. "Mais um dia, mais um dia como pai", eu dizia, e minha esposa e eu chorávamos.
-
-Mesmo resignado à morte, eu queria viver. Continuei a tomar PAS. Em 16 de março de 1951, a Sra. Shinohara, que mora em frente à casa de meus pais, veio me visitar. Minha mãe havia lhe pedido para me ajudar. Ela me falou da Igreja da Salvação Mundial. Eu, que desde a Sibéria não conseguia mais rezar, não acreditei em suas palavras. Mas a sinceridade com que ela falou a noite toda me comoveu. "Já que estou pronto para morrer, não me custa nada parar com os remédios", eu disse. "Posso não acreditar?". A noite já clareava. "Claro", ela respondeu. "Mas, ao receber Johrei, você passará por várias mudanças. Não se assuste nem faça nada errado, para não cavar sua própria cova". Eu queria viver, ficar bom de novo, por meu filho...
-
-Recebi Johrei e dormi profundamente, como há muito não fazia. Na manhã seguinte, levantei-me e consegui comer. Antes, eu mal conseguia respirar e ir ao banheiro era um esforço. Agora, eu podia ficar sentado por vinte, trinta minutos sem me cansar. "É um milagre!", eu disse à minha esposa.
-
-Recebi Johrei todos os dias. Uma semana depois, eu já podia passear no jardim. "Ah, estou salvo! A doença incurável está sendo curada!", senti. Do fundo do meu coração, agradeci. Passei por três ou quatro purificações intensas, com vômitos e diarreia, e a cada dia me sentia mais forte.
-
-"Receba o sagrado Ohikari", disse a Sra. Shinohara, emprestando-me o de sua esposa. Graças à sua gentileza, minha esposa e eu pudemos participar do curso de formação em Mitaka. Na ida, eu me sentia fraco, mas, ao final do dia de curso, ao sair, minhas pernas estavam firmes, e eu andava com leveza. Que milagre! Subi e desci as escadas da estação como se estivesse são. Só podia agradecer pela maravilhosa proteção.
-
-Os três dias de curso foram de lágrimas. Ao receber o Ohikari, minhas mãos tremeram. A união entre Deus e o homem! O Deus que eu concebia não era real, o Deus real estava ali, neste mundo! A alma de Deus habitava até mesmo em meu corpo impuro! Chorei de alegria e me prostrei. "Nunca mais pensarei em morrer. Por favor, me salve!", eu disse, e as lágrimas me sufocaram. A Sra. Shinohara disse "Parabéns", mas eu não consegui responder. Todos os presentes choravam de alegria.
-
-A guerra, o cativeiro, a doença, a decisão de morrer com meu filho... o passado desfilava como um carrossel. Por não conhecer a verdade, eu me atormentava. No início, era apenas um gânglio inchado. Por interromper a purificação, a doença voltou, e voltou, e eu fui mutilado, até ser desenganado pelos médicos. Por que não desconfiei da medicina? O crime, a guerra... tudo causado por medicamentos. A semente da infelicidade está plantada no mundo, sem que a humanidade saiba. Quanto mais eu aprendia, mais me surpreendia. A verdade foi revelada, e a civilização que gerou a infelicidade está sendo substituída por uma que gera a felicidade. O Paraíso, onde reinam a verdade, o bem e a beleza, está surgindo... Como o sofrimento foi grande, a alegria da salvação também o foi.
-
-No dia seguinte à minha entrada na Igreja, comecei a ministrar Johrei em três, cinco pessoas por dia. Era como um sonho. Apeguei-me a Komyo Nyorai-Sama, passei por várias purificações e, a cada dia, minha saúde melhorava.
-
-Não falto a nenhuma cerimônia mensal na Sede de Kokubunji. Antes de sair, sempre tenho uma ou duas purificações com vômito, como se meu corpo impuro fosse purificado para a cerimônia. A cada vez, minha gratidão a Meishu-Sama se aprofunda.
-
-Em 1º de maio, fui a Atami, e em 1º de julho, a Gora. Vi o rosto de Meishu-Sama e, do fundo do meu coração, agradeci por ter sido salvo do inferno. Senti-me envergonhado por ter sido um ateu tão teimoso e desconfiado. Prometi firmemente a Meishu-Sama que levaria esta grande salvação a todos que ainda não a conhecem, para que o maior número possível de pessoas a receba o mais rápido possível.
-
-(15 de setembro de 1951)
-
-#### Salvo de tuberculose pulmonar após dois anos de pneumotórax
-
-**Takeo Nakajima (24), Igreja Chu de Hakuai, Oji, Kita-ku, Tóquio**
-
-Com imensa alegria, relato minha história para aqueles que sofrem de tuberculose, para que possam trocar o abismo do sofrimento por uma vida de júbilo. Em fevereiro de 1946, embora me sentisse resfriado, continuei a trabalhar na Agência de Poupança de Tóquio. No exame coletivo anual, o raio-X revelou uma mancha. Eu, que nunca havia ficado doente, fiquei desolado. O médico do trabalho me mandou para casa. Fui ao Hospital da Casa Imperial para um segundo exame: infiltração pulmonar esquerda.
-
-Começaram três meses de repouso, olhando para o teto. Embora soubesse que a doença era considerada incurável, segui à risca as ordens do médico: repouso e boa alimentação. Mas meu estado oscilava. Ansioso para melhorar, após três meses, um novo raio-X revelou uma caverna. Fui aconselhado a fazer um pneumotórax. Eu era contra, mas meus pais insistiram, e eu cedi. A aplicação do pneumotórax era dolorosa, e eu temia o dia do procedimento. Injetavam cerca de 300 cc de ar para fechar a caverna. Meu peito doía, mas eu perseverei. A caverna fechou, mas o excesso de ar causou um efeito colateral: acúmulo de líquido, que evoluiu para pleurisia. Continuei o pneumotórax, drenando o líquido. Foram dois anos, cerca de setenta sessões.
-
-Então, o coração se deslocou para a direita, e o líquido acumulado infeccionou. Fui internado por uma semana para exames, mas o cirurgião disse que não havia infecção. Tive alta, mas o local do pneumotórax inchou e começou a infeccionar, como um furúnculo. Vários pontos infeccionaram. A pele se rompeu, e meu peito ficou coberto de úlceras. Fui ao hospital e me encaminharam para a cirurgia. Mas a ferida era tão feia que o médico, por fim, disse que era melhor operar. Perguntei se a cirurgia me curaria. "Não sei", ele respondeu. "É como andar na rua e ser atropelado. É um acidente. A cirurgia é a mesma coisa". Uma resposta tão displicente para algo que envolvia a vida humana me deixou atordoado. O clínico disse que, às vezes, não operar dava melhores resultados. Eu mesmo não estava convencido, e cancelei a cirurgia, optando pelo tratamento em casa. Naquele momento, sentindo-me abandonado pela medicina, caí em desespero e entreguei meu destino aos céus.
-
-Foi então que, em 16 de janeiro de 1949, por acaso, fui à casa de meu vizinho, o Sr. Karasawa, que era membro da Igreja. Ali, a mão do grande amor de Deus se estendeu a mim. Ouvi a história do caminho e decidi experimentar o Johrei. Passei a ir à casa do Sr. Asano, em Akabane, para receber Johrei. Ouvi relatos de milagres e a explicação do princípio do Johrei, mas, na época, eu era cético.
-
-No início, não houve mudanças. Em maio, tive uma purificação: diarreia com sangue por uma semana. Depois disso, meu corpo ficou leve. Pensei que o líquido da pleura havia saído. Melhorei a cada dia. As úlceras secaram. No segundo ano, a ferida do pneumotórax, que o cirurgião havia dito que nunca fecharia, cicatrizou. Fiquei emocionado.
-
-Em 28 de junho de 1951, dois anos após parar o tratamento médico, quis fazer um raio-X. Fui ao Hospital da Casa Imperial. A sala de espera estava lotada de doentes. Entre eles, alguns que eu conhecia de dois anos antes, ainda doentes, com o rosto pálido. Encontrei o Dr. XX, que havia cuidado de mim. Ele demorou a me reconhecer, de tão mudado que eu estava. E não era para menos: dois anos antes, eu havia deixado o hospital à beira da morte, em um estado lastimável.
-
-No consultório, o Dr. XX disse: "Pensei que você era um fantasma" e "Já não deveria ser seu terceiro ano de falecimento?". Eu brinquei: "Fantasmas falam?". Naquele momento, senti profundamente a grande salvação que havia recebido, e meu coração se encheu de gratidão. O exame revelou um estado tão bom que o médico, espantado, perguntou como eu havia melhorado tanto. Contei-lhe tudo: que havia entrado para a Igreja da Salvação Mundial e sido curado pelo Johrei. O médico, auscultando-me, apenas murmurava "hmm", balançando a cabeça. "Não há mais líquido. A área de estertores diminuiu".
-
-A fluoroscopia confirmou: "Não há líquido, e os pulmões estão muito limpos". Ele ficou ainda mais espantado. Nunca senti tanto a diferença entre o poder da medicina e o poder divino do Johrei. "Ah, assim eu fui salvo!", pensei. "Tudo graças a Meishu-Sama". Agradeci profundamente. Peço desculpas pelo atraso em relatar esta graça.
-
-Meishu-Sama, muito obrigado.
-
-(25 de abril de 1952)
-
-#### Salvo de uma cirurgia ortopédica na véspera
-
-**Yoshio Iseri (34), Grande Igreja de Hotakaradera, Kengun, Kumamoto**
-
-Em 1944, tive pleurisia. Em 1947 e 1950, a doença voltou, cada vez mais grave. No final de 1950, fui diagnosticado com tuberculose pulmonar e, em julho de 1951, estava prestes a ser internado para uma cirurgia ortopédica.
-
-Ateu convicto, quando ouvi falar da Igreja Messiânica pela primeira vez, não apenas duvidei, como achei impossível. Mas a pessoa insistiu tanto que decidi adiar a internação por uma semana ou dez dias e experimentar. Pensei que logo descobriria a farsa. Comecei a receber Johrei todos os dias. Seguindo as palavras do Mestre, abandonei o repouso e passei a agir como bem entendia. Parei de tomar PAS e troquei a alimentação rica em carne por uma dieta vegetariana. Na época, eu só tinha uma febre baixa, então pensei que uma semana ou dez dias de "loucura" não afetariam muito minha condição.
-
-Mas que milagre! Do ponto de vista médico, ao abandonar o repouso, me esforçar e não comer alimentos nutritivos, eu deveria ter piorado, com febre, dor de cabeça, tontura e fraqueza. Mas, em dois dias, meu rosto corou, meu apetite aumentou e, em menos de uma semana, eu me sentia muito mais forte. Percebi que o Johrei, que consiste em apenas passar as mãos, não era algo trivial.
-
-Ao mesmo tempo, li os registros das palavras de Meishu-Sama e seus vários livros. No início, fiquei apenas chocado com suas ideias revolucionárias. Sobre seus ensinamentos políticos e suas críticas aos funcionários públicos (eu trabalho na prefeitura de Kumamoto), pensei que eram o idealismo típico de um líder religioso, uma teoria vazia sem aplicação na sociedade real. Mas, refletindo sobre suas críticas, percebi que elas me incomodavam porque tocavam em minhas feridas, em coisas que eu não queria que os outros soubessem.
-
-Lendo seus vários ensinamentos e ouvindo as palavras do Mestre, compreendi que Meishu-Sama ensina a mais alta moralidade humana em todas as áreas da sociedade e mostra claramente o caminho para praticá-la. Percebi também que é impossível para um ser humano ensinar com tantos detalhes sobre política, sociedade, religião, medicina, filosofia, arte, etc.
-
-Penso no dia 13 de julho de 1951, quando fui comprar as coisas para a internação. Aquele foi o dia do meu renascimento no mundo da luz. Foi no dia de Finados. Não teria sido a orientação de meus antepassados? Foi por um triz. Se eu tivesse me internado, o que seria de mim agora? Mesmo que a cirurgia ortopédica corresse bem, eu teria que ficar em repouso absoluto por seis meses, e mais um ano sem fazer nada. E, quando pudesse voltar a trabalhar, seria com um corpo mutilado, sempre com medo de uma recaída, e terminaria minha curta vida em constante apreensão.
-
-Três meses se passaram desde que entrei na Igreja. Apenas por ter aprendido a verdade de que "a doença é uma ação purificadora", minha vida diária se tornou incrivelmente mais leve e cheia de paz. Antes, se meu filho pegava um resfriado, eu entrava em pânico: "Rápido, para o médico, antes que vire pneumonia!". "Ah, está com um pouco de febre!", "Está com dor de barriga, o que será que ele comeu?". Pensando agora, eram preocupações inúteis. E sinto profundamente que, por mais de trinta anos, vivi sem acreditar na existência de Deus. Peço perdão.
-
-É graças a Meishu-Sama que posso olhar para o passado e me sentir tão grato. Quero retribuir, ainda que minimamente, esta imensa graça divina e peço que me permitam ser útil na sagrada obra de construção do Paraíso Terrestre.
-
-Meishu-Sama, muito obrigado.
-
-(1º de novembro de 1951)
-
-(Nota) Este relato de graças não está incluído no volume suplementar 3 das Obras Completas de Mokichi Okada, sendo substituído pelo seguinte, de título desconhecido. Não se sabe se se trata de uma edição diferente ou de um erro.
-
-**S. T., Província de Saga**
-
-Na primavera de 1951, em meio à agitação do mundo, meu filho mais velho, H. (17 anos), ingressou no Colégio A, na província de Fukuoka. Ele nunca pareceu estudar muito, e eu achava que não apenas seria difícil, mas impossível ele ser aprovado. Mas, ao vê-lo sair de casa, orgulhoso de sua aprovação milagrosa, minha mente voltou a uma lembrança de treze anos atrás.
-
-Meu filho nasceu em 23 de julho de 1935. Logo depois, um médico examinou suas fezes e o diagnosticou com indigestão. Injeções de nutrição artificial e outros tratamentos só pioraram seu estado. Eu, com um salário mensal de trinta e cinco ienes, enfrentei dificuldades financeiras, e os tratamentos se tornaram cada vez mais escassos. Cheguei a um ponto em que só podia esperar pela morte de meu filho. Nesse ínterim, ele teve pneumonia. O médico disse para comprar um inalador, mas eu não tinha dinheiro nem para isso. Com o coração partido, muitas vezes saí de casa e vaguei sem rumo pelas margens de um riacho.
-
-Alguém sugeriu que eu trocasse de médico. Deixei o pediatra e procurei um ginecologista. Para minha surpresa, seu método era o oposto do anterior: ele defendia a não intervenção. "Meus filhos comem até banana podre, aos poucos. Com o tempo, o estômago se acostuma. Olhe para os filhos dos mendigos. Eu, quando pego um resfriado e tenho febre, sempre tomo um banho quente", ele disse. Fiquei chocado, mas, como já havia desistido da vida de meu filho, adotei a mesma atitude. Ele não melhorava, mas também não morria.
-
-Nesse estado, o bebê gordinho e saudável que ele fora ao nascer era agora uma sombra de si mesmo. Aos quatro anos, ele teve uma recaída. Naquela época, eu já podia pagar uma ou duas consultas com um famoso especialista em diagnóstico precoce de Tóquio. Mas o doutor disse: "É tuberculose infantil, e já está bem avançada. Sendo franco, ele não viverá mais de dois anos". Foi como receber outra martelada. Não havia mais nada a fazer. Mais dois anos... Foi então, ah, foi então que encontrei a Luz.
-
-Meu filho, criado com todos os mimos, era tão mimado que às vezes me irritava. Mas Meishu-Sama sempre o tratava com um rosto de amor e lhe ministrava Johrei. Como pai, eu só podia sentir gratidão. Desde então, ele passou por várias grandes purificações, algumas de franzir a testa. Nesse meio tempo, meu segundo filho, K. (hoje com 14 anos), passou por três crises de disenteria e uma meningite desesperadora, das quais também foi salvo. Hoje, tenho cinco filhos, e cada um deles, salvo por milagres, vive com saúde.
-
-Quero dizer em voz alta a todos os pais do mundo: olhem para este meu filho, que foi dito que não passaria dos seis anos! E milagres como este não acontecem só conosco. Há quem tenha sido salvo à beira do suicídio familiar, quem tenha sido arrancado, passo a passo, pelo poder da salvação, do turbilhão das ideologias mais condenáveis do Japão de hoje e agora vive uma vida de sonho. Gostaria que olhassem para estes inúmeros e contínuos milagres de proteção.
-
-Meu filho hoje é até jogador de vôlei. Já é mais alto que eu, com 1,60 m, e seus pés calçam 42. Gostaria que vissem este fato.
-
-Uma vida milagrosa, um desenvolvimento milagroso e, por fim, uma aprovação milagrosa... Meishu-Sama, muito obrigado. Rogo que, de agora em diante, permita que eu e meus filhos sejamos úteis, ainda que minimamente, na sagrada obra de construção do Paraíso Terrestre.
-
-(4 de julho de 1951)
-
-#### Salva de uma cirurgia ortopédica
-
-**Misako Harada (28), Igreja Chu de Chosei, Koyasudori, Kanagawa, Yokohama**
-
-Com o coração transbordando de gratidão, expresso aqui meu sincero agradecimento. Faltando menos de um mês para o final de 1950, um nódulo no meu pescoço começou a inchar. Fui a um hospital e fui diagnosticada com escrófula. Disseram-me que eu precisava tratar o corpo como um todo e me encaminharam para a clínica médica. Lá, um raio-X revelou uma infiltração pulmonar. Enquanto eu pensava no meu futuro, meu filho (um ano e nove meses) pegou sarampo. O Ano Novo, que deveria ser feliz, foi passado em uma casa sombria.
-
-Meu filho não se recuperou bem do sarampo. Eu, que deveria estar em repouso, o carregava nas costas e ia ao médico dia sim, dia não. Após um mês sem melhora, fizemos um raio-X. Minha tuberculose havia piorado, e eu precisava de repouso absoluto. Mas, como meu filho ainda não havia sido contagiado, e temendo que isso acontecesse, eu o deixei em um lar. Pensei que agora poderia descansar e que meu marido, que estava de licença, poderia voltar a trabalhar. Mas, no segundo dia de trabalho, ele machucou o pulso e voltou para casa sem poder trabalhar. "Até quando essa desgraça vai nos seguir?", pensei, querendo morrer.
-
-O ferimento do meu marido não sarava, mesmo depois de uma semana. Preocupada, pedi um raio-X. Felizmente, não havia fratura, mas o médico alertou sobre o risco de periostite e recomendou que ele não se esforçasse por um tempo. Sem saber quando ele poderia voltar a trabalhar, senti um grande desamparo (naquela época, pegávamos dinheiro emprestado de parentes para as despesas médicas).
-
-Lembrei-me de que, três anos antes, meu marido havia curado uma dor nas costas. Decidi procurar o Reverendo Ota, da Igreja da Salvação Mundial, em Koyasu. Em 23 de março, recebi Johrei pela primeira vez. No dia 24, meu marido foi sozinho à cerimônia mensal na Sede de Tsurumi, recebeu Johrei do Diretor da Sede, Takeuchi, e foi muito encorajado.
-
-Graças à proteção divina, a mão dele melhorou muito e, no dia 25, ele pôde voltar a trabalhar. A partir daí, mesmo com nosso orçamento apertado, lemos com afinco os Escritos Divinos e o jornal "Eikô". O Reverendo Ota, pensando em mim e no meu marido que trabalhava, vinha à noite nos ministrar Johrei. Graças a ele, o ferimento do meu marido sarou enquanto ele trabalhava e, após uma semana de trabalho pesado, ele estava completamente curado.
-
-Em 8 de abril, meu marido recebeu o sagrado Ohikari na cerimônia mensal da Sede de Matsuda. A partir daí, ele me ministrava Johrei de manhã e à noite. Meu corpo melhorou a cada dia, e eu já podia cuidar de mim mesma. Meio mês depois, já podia ir à Sede de Tsurumi. Melhorei ainda mais, e a escrófula desapareceu completamente em quatro meses.
-
-Naquela época, meu marido foi visitar nosso filho e o encontrou com tuberculose infantil, sem apetite, sendo mantido com injeções nutritivas, só pele e osso. Meu marido voltou chocado, e decidimos trazê-lo de volta. Pedi ao Reverendo Ota que intercedesse por nós e pedisse a proteção de Meishu-Sama.
-
-Mas, como a internação havia sido complicada, a alta também o foi. Disseram-nos que, enquanto eu não estivesse completamente curada, havia o risco de ambos adoecermos. Tive que fazer um raio-X em um posto de saúde. "Está bem ruim, é melhor operar logo", disseram. Com esse raio-X, eu não podia ir buscar meu filho. Desesperada, fui à Sede de Tsurumi e pedi conselho ao Reverendo Ota. Ele disse, sorrindo: "Peça com fé a Daikomyo Nyorai-Sama e vá. Com certeza Deus fará o melhor". Eu, uma leiga, via claramente a gravidade no raio-X, mas acreditei que as palavras do Mestre eram as palavras de Deus. Pedi proteção a Daikomyo Nyorai-Sama e levei o raio-X. "Ah, assim está tudo bem", disseram. Não soube o que dizer, tamanha a alegria e a gratidão. Por favor, imaginem! Quando falei da cirurgia, disseram: "Não está tão avançado. Com um pouco de cuidado, ficará bem". E assim, após três meses, pude reencontrar meu filho. Senti como se estivesse no céu.
-
-E que milagre! A partir do dia em que pedi proteção a Meishu-Sama, meu filho recuperou o apetite. Quando fui buscá-lo, ele já comia comida normal e havia recebido apenas uma injeção. As proteções se sucediam, e eu só podia chorar.
-
-A partir daí, fomos todos os dias, eu e meu filho, à Sede de Tsurumi. Melhoramos a cada dia. Em 18 de junho, na cerimônia mensal, eu também recebi o sagrado Ohikari, com lágrimas de alegria. Em 25 de junho, pudemos entronizar a Imagem de Kannon em nosso lar.
-
-Hoje, meu filho é um menino travesso como qualquer outro, meu marido trabalha com saúde todos os dias, e conseguimos pagar todas as nossas dívidas. Nossa família se tornou verdadeiramente uma família de luz. Prometo retribuir, ainda que minimamente, esta grande graça de Daikomyo Nyorai-Sama.
-
-Meishu-Sama, muito obrigado.
-
-(5 de maio de 1952)
-
-#### Salvo de tuberculose laríngea
-
-**Chiyomatsu Sakamoto (35), Igreja Chu de Nanko, Numazu, Distrito de Iki, Província de Nagasaki**
-
-Recebi meu Ohikari em 15 de junho de 1951. Minha esposa, Shizuko (34 anos), adoeceu no início de abril e ficou de cama. Em maio, um médico a diagnosticou com tuberculose laríngea e pulmonar. "Remédios e injeções podem ajudar, mas será apenas temporário", ele disse, e eu perdi as esperanças. Meu avô, Kichitaro, perdeu a esposa aos quarenta anos. Minha mãe, Kuni Sakamoto, morreu aos quarenta e três. E agora, na terceira geração, eu também ficaria viúvo? Eu me atormentava dia e noite.
-
-Minha esposa enfraquecia e sofria a cada dia, à beira da morte. Vizinhos e parentes que nos visitavam não tocavam no chá que lhes oferecíamos. As visitas diminuíram, a casa ficou sombria, meu coração pesado. Eu não conseguia trabalhar, tinha que cuidar dos filhos e dos animais. Briguei com meu pai. Perdi a esperança e caí em desespero. Mas eu queria salvar minha esposa de qualquer maneira. "Em tempos de aflição, recorre-se a Deus", diz o ditado. Visitei vários templos, meu coração confuso. Tentei ervas medicinais, até carne de cobra, tudo o que me diziam. Mas ela só piorava.
-
-Naquela época, meu vizinho, Toshimitsu Yanagihara, que era membro da Igreja, estava falando sobre o caminho em uma loja. Deixei o que estava fazendo e ouvi. Tendo uma pessoa doente em casa, senti-me atraído. Ele não falava apenas de fé, mas também de ciência e do mundo espiritual. Pareceu-me superior à medicina moderna. Pedi que ele viesse à minha casa. "Se minha esposa for curada, eu também colaborarei com o caminho", prometi.
-
-Na manhã seguinte, o Sr. Yanagihara veio. Após o Johrei, ele disse à minha esposa: "Não acho que a senhora tenha tuberculose. Se continuar a receber Johrei e tiver fé, será salva, será curada". Nem eu nem minha esposa acreditamos que uma doença tão grave pudesse ser curada apenas com o passar das mãos. Um agricultor como eu, que havia tido fé por apenas seis meses, falando com tanta certeza sobre uma paciente desenganada pelos médicos... não consegui acreditar. Mas lembrei-me da conversa na loja e pedi que ele voltasse.
-
-Ele veio todos os dias. Deu-nos também o papel sagrado. Após quatro ou cinco sessões de Johrei, a febre baixou, a tosse parou, e ela se sentiu muito melhor. A alegria foi indescritível. O Sr. Yanagihara disse: "Como sou seu vizinho, posso vir todos os dias, mas como o tratamento pode demorar um pouco, por que não se tornam membros?". Agradecido, em 15 de junho, recebi o Ohikari e me tornei membro.
-
-Comecei a passar as mãos, sem saber direito o que estava fazendo. O Sr. Yanagihara vinha a cada dois ou três dias me orientar. Continuei a ministrar Johrei. Ela teve diarreia quinze vezes em um dia. Depois de um tempo, teve diarreia dez vezes. Com a diarreia e o catarro, ela melhorava a cada dia. Em 8 de agosto, recebemos a Imagem de Kannon. Minha esposa recuperou a saúde, mas, na noite do dia 8, nosso filho de dois anos, Osamu, teve uma febre de mais de quarenta graus. Ficou como morto, com o pulso fraco. Parecia encefalite japonesa. Ministrei Johrei a noite toda, mas ele não melhorou muito.
-
-De manhã, envolvi-o em um cobertor e o levei à casa do Sr. Yanagihara. Rezei com fervor a Komyo Nyorai-Sama e pedi Johrei. Voltei para casa e, à tarde, minha esposa o levou novamente para receber Johrei. No dia seguinte, ele começou a melhorar e foi curado. Em 11 de agosto, minha esposa, pela primeira vez, foi à Sede, a seis quilômetros de distância, recebeu o Ohikari e voltou a pé, sã e salva. Imaginem minha alegria naquela noite!
-
-Na noite de 26 de setembro, meu filho mais velho, Mikiharu (oito anos), inchou todo, como se tivesse nefrite. Ministrei Johrei todos os dias e o levei à casa do Sr. Yanagihara. Naquela época, fomos à cidade natal de minha esposa para uma cerimônia fúnebre. Os parentes disseram em coro: "Leve-o logo ao médico!". "É uma purificação abençoada", eu disse, tranquilo. Mas, como ele não melhorava, em 5 de outubro, o levei de carro à cerimônia da Sede. Lá, ele recebeu um Johrei especial do Reverendo Takematsu. Em dois ou três dias, ele melhorou e foi curado. Em 18 de outubro, por recomendação do Reverendo Tahara, meu filho Mikiharu também se tornou membro.
-
-Em 13 de janeiro de 1952, recebi a Imagem Sagrada. A luz entrou em nossa casa antes escura. O futuro tornou-se brilhante. Em 15 de fevereiro, fui à Sede de Karatsu e recebi o Ohikari da Luz.
-
-Eu também falo às pessoas sobre a maravilha do caminho e trabalho para a salvação. A partir da colheita de trigo deste ano, comecei a praticar a Agricultura Natural. Povo do mundo, esta é a minha história. Rogo para que o maior número possível de pessoas compreenda o caminho e seja salvo.
-
-Meishu-Sama, Daikomyo Nyorai-Sama, muito obrigado por suas inúmeras proteções. Por favor, continuem a nos salvar. Relatei fielmente as proteções que recebi após me tornar membro. Mestres Miyaguchi, Takematsu e Tahara, que me orientaram, muito obrigado.
-
-*Sem a salvação de Kannon, eu ainda estaria agora / Sofrendo em um pântano sem fundo.*
-
-(29 de março de 1952)
-
-#### Em repouso absoluto, agora vou trabalhar com alegria
-
-**Itsuo Chimura (37), Igreja Chu de Shinsei, Otani, Nishinomiya, Província de Hyogo**
-
-Com todo o respeito, apresento meu relatório de agradecimento pela proteção recebida. No início de fevereiro de 1949, fui diagnosticado com infiltração pulmonar direita. Disseram-me que a recuperação levaria mais de um ano e meio. Tive que me afastar do trabalho e ficar em repouso absoluto em casa. Fiz pneumotórax e recebi injeções de vitaminas, mas a febre não cedia, oscilando entre 37 e 39 graus.
-
-Novembro passou, chegou dezembro. Dias e noites olhando para o teto. Com um salário baixo, eu precisava me alimentar bem. Com seis pessoas na família, o Ano Novo se aproximava, e a ansiedade de estar acamado me consumia. Era uma vida de doença, pobreza e conflito.
-
-Em meados de dezembro, um amigo que veio me visitar (ele não era membro) me disse: "Existe uma fé que cura doenças passando as mãos". Não entendi nada, mas pensei: "E se for verdade?". Como um náufrago que se agarra a uma palha, em 20 de dezembro, pedi que a Sra. Fujiwara, que era membro, viesse me ver. Ver pela primeira vez o gesto de passar as mãos... "Como isso pode curar uma doença?", pensei, cheio de dúvida e espanto. Hoje, penso em como fui desrespeitoso e peço perdão.
-
-A Sra. Fujiwara, que me ministrava Johrei, havia sido curada de uma infiltração pulmonar bilateral e, às vezes, trabalhava na lavoura. Vendo isso, acreditei que também poderia ser curado por essa fé e recebi Johrei todos os dias. Mas, como minha fé era recente, eu estava dividido. Uma vez por semana, ou a cada dez dias, eu fazia pneumotórax e também recebia Johrei.
-
-Naquela época, eu estava completamente perdido. Eram dois caminhos: o da fé absoluta ou o da medicina. Mas, sem que eu percebesse, a febre baixou, meu corpo ficou leve e, ao ouvir sobre o caminho, o termômetro se tornou desnecessário. No entanto, até meados de janeiro, eu havia feito quinze sessões de pneumotórax.
-
-No final de janeiro, firmei minha convicção e me entreguei a este caminho. Passei a receber a orientação da Reverenda Yoko Toshimi, da Sede de Shinnozka. Em 12 de fevereiro, na então Grande Igreja de Shinsei, recebi o Ohikari do Reverendo Sohsai Shibui e dei meu primeiro passo na fé.
-
-Durante o Johrei, tive purificações. Uma noite, a diarreia começou no meio da noite e, até a manhã seguinte, fui dez vezes ao banheiro. Tive também uma longa purificação de gases e catarro, que me surpreendeu.
-
-Mesmo tendo me entregado a este caminho, por questões de trabalho, eu precisava de um atestado médico para justificar minha ausência. A cada dez dias, eu ia ao médico. Por ter interrompido o pneumotórax, o médico ficou irritado. "Como você espera se curar sem continuar o pneumotórax?", ele me repreendeu, não uma, mas várias vezes. Mas, por fim, ele cedeu à minha insistência e, talvez por desistir de mim, parou de me importunar.
-
-No final de fevereiro, fiz uma fluoroscopia. "Há líquido na pleura", disse o médico. "Na próxima vez, teremos que drená-lo". Mais uma preocupação. "Como esse líquido vai sair?", eu me perguntava, voltando do hospital. Perguntei à Reverenda Toshimi, e ela disse, com naturalidade: "O líquido da pleura sai como suor noturno ou urina, com o Johrei. Não se preocupe".
-
-Acreditei em suas palavras e continuei a receber Johrei todos os dias. Dez dias depois, fui ao hospital. Outra fluoroscopia. Meu coração batia forte. Chegou a minha vez. Na sala escura, dez, vinte segundos se passaram. "Opa!", disse o médico. Ele perguntou meu nome duas vezes. "O líquido sumiu. O que aconteceu?". O médico estava espantado, mas eu estava muito mais. Fiquei tão feliz que não cabia em mim. Senti na pele a grandiosidade do Johrei.
-
-No final de março, entronizei a Imagem de Kannon. Logo depois, minha esposa também recebeu o Ohikari, e nos tornamos uma família de luz. O tempo voa. Chegou maio. No início de junho, verdejante, fiz um raio-X. Para minha surpresa, eu estava quase curado. O médico disse: "Amanhã você pode voltar ao trabalho". Fiquei chocado. Agradeci a Meishu-Sama por me ter curado tão rapidamente e aos Reverendo Hayakawa, Toshimi, Fujiwara e Nishiyama pela orientação tão carinhosa. Foi um dia inesquecível.
-
-Em 30 de julho, entronizei Komyo Nyorai-Sama. Lembro-me de quando estava doente. Minha casa, que nunca ficava sem remédios, agora vive há dois anos sem médicos nem remédios, com seis pessoas. Se eu não tivesse conhecido este grande poder de salvação, o que seria de mim agora? Vivo ou morto, em sofrimento?
-
-Pensando nisso, quero levar este grande Johrei a todos que sofrem de doenças, para que o mundo sem doença, pobreza e conflito, pregado por Meishu-Sama, o Paraíso Terrestre, chegue o mais rápido possível. E, se puder ajudar, ainda que minimamente, nesta grande obra divina, será para mim uma honra imensa.
-
-*Sem a salvação de Kannon, eu ainda estaria agora / Sofrendo em um pântano sem fundo.*
-
-Meishu-Sama, muito obrigado. Com esta humilde carta, expresso minha sincera gratidão.
-
-(1º de janeiro de 1952)
-
-### Doenças Infecciosas
-
-Diz-se que as doenças infecciosas diminuíram muito nos Estados Unidos recentemente, mas no Japão ainda grassam consideravelmente. Aproveitarei a oportunidade para falar sobre elas, começando pelo bacilo da doença infecciosa. A este respeito, fiz uma descoberta tão inédita que ninguém jamais sonhou, e provavelmente será difícil de acreditar.
-
-Como escrevi repetidas vezes, o sangue turvo pelo `yakudoku` inevitavelmente desencadeia uma purificação. Esta é a lei da natureza. E para as doenças infecciosas, Deus criou um método engenhoso. No sangue das pessoas com o sangue mais turvo, surge inicialmente um microorganismo: o bacilo da doença infecciosa. Este bacilo é transmitido para o sangue de outra pessoa com sangue turvo, através de algum meio material. Ou seja, o bacilo penetra nos vasos sanguíneos. E, alimentando-se das micropartículas de impureza no sangue, ele se multiplica. A impureza no sangue é o alimento do bacilo. Quando ele a consome por completo, o sangue se purifica, e a pessoa se cura.
-
-Portanto, o bacilo da doença infecciosa foi criado por Deus com a função de limpar o sangue humano. Ele é, por assim dizer, o faxineiro do sangue. E quem o transporta é a mosca. Este inseto também desempenha um papel importante para o ser humano, e não devemos odiá-lo tanto.
-
-Com base neste princípio, para erradicar as doenças infecciosas da humanidade, basta não criar pessoas com sangue turvo. Esta é a solução fundamental. Mas como isso não é possível de imediato, por enquanto, quando uma doença infecciosa surge, se o paciente repousar e deixar a natureza seguir seu curso, a maioria se curará. Não há motivo para tanto pavor. Os casos leves podem ser tratados adequadamente, com base neste princípio. E os casos graves, se receberem o Johrei da nossa Igreja, serão todos curados, sem exceção. Não há método mais seguro.
-
-As doenças infecciosas são as ações purificadoras mais intensas, e por isso se curam muito bem com o Johrei. No Japão, as principais são a disenteria, o tifo e a encefalite japonesa. A medicina, por impedir a purificação, tem resultados ruins. Mas, como expliquei, com a terapia natural, oito ou nove em cada dez casos são curados, e com o Johrei, a cura é ainda mais certa. Entre os membros da nossa Igreja, embora raramente, há quem contraia doenças infecciosas, mas até hoje não houve um único caso de morte.
-
-A disenteria, por exemplo, deixa o cérebro muito mais claro após a cura. Dores de cabeça crônicas e sensação de peso na cabeça desaparecem quase que por completo. Isso porque esta doença elimina o sangue tóxico do cérebro através da diarreia. A encefalite japonesa, por sua vez, é causada pela purificação das toxinas solidificadas nas costas e nos ombros. Elas se dissolvem, passam pela nuca, atravessam a testa e são eliminadas como uma grande quantidade de pus e sangue pelos olhos e nariz. Após a cura, o cérebro fica mais claro do que antes. Crianças em idade escolar chegam a ter uma melhora radical em seu desempenho. E, com certeza, não se tornam deficientes, como se teme. O tifo, geralmente, cura-se com duas ou três sessões de Johrei, e não há necessidade de mais explicações.
-
-### Doença Mental
-
-A causa desta doença é a insônia. A insônia prolongada é perigosa. A causa da insônia, por sua vez, é a anemia cerebral na região frontal. Toxinas medicinais solidificam-se no bulbo raquidiano e comprimem os vasos sanguíneos que levam sangue à cabeça. Ao se examinar o bulbo de um paciente, invariavelmente se encontrará um nódulo. Se a pessoa conseguir dormir, a doença mental certamente começará a se curar.
-
-Esta doença tem causas tanto materiais quanto espirituais. A primeira já foi explicada. A segunda é de natureza espiritual, religiosa, e peço que a leiam com essa disposição. Esta conclusão baseia-se na minha longa experiência com muitos pacientes e não contém o menor erro.
-
-Como escrevi anteriormente, o ser humano é a união do espírito invisível e do corpo visível. Quando a região frontal do cérebro fica anêmica, espíritos podem se apossar dela com mais facilidade. A materialização do espírito é o sangue, e a espiritualização do sangue é o espírito. Quando o sangue é abundante, o espírito também o é, e nenhum espírito pode se apossar. Mas, com a anemia, isso se torna possível.
-
-Se a plenitude do sangue for dez, com a anemia, se cair para nove, um décimo do espaço pode ser ocupado por um espírito. Se cair para oito, sete, o espaço ocupado aumenta, e a atividade do espírito também. Até cinco, geralmente não há problemas. Mas, acima de cinco, entra-se na zona de perigo. O espírito possessor assume o controle e pode manipular a pessoa à vontade. É isso que é a doença mental.
-
-Os espíritos são, naturalmente, espíritos de animais. No Japão, são principalmente raposas, texugos, tengus, cobras, cães, gatos, bois, cavalos, pássaros, etc. Nos Estados Unidos, ainda não pesquisei, mas acredito que não seja muito diferente. No Japão, os casos de doença mental são causados principalmente por espíritos de raposa, seguidos pelos de texugo.
-
-É importante notar que o estado de anemia cerebral não é constante. Ele flutua a cada instante. Pessoas normais geralmente têm um nível de dois a três. Mas, em caso de um choque emocional muito forte, pode-se ultrapassar cinco instantaneamente. É por isso que, às vezes, pessoas normalmente calmas fazem coisas fora do comum. A histeria feminina também se enquadra nesta categoria. Pessoas respeitadas pela sociedade geralmente têm um nível de um a dois. Mas mesmo essas pessoas, às vezes, cometem gafes ou erros. É porque, por algum motivo, ultrapassam momentaneamente o nível três.
-
-Isso mostra que desvios de conduta e crimes ocorrem quando se ultrapassa o nível cinco, e a pessoa age sob o controle do espírito possessor, cometendo atos animalescos. Muitas vezes, após o crime, a pessoa se arrepende, dizendo: "Por que eu me senti daquele jeito naquela hora?". É isso. Suicídio e assassinato também se enquadram na mesma categoria. Portanto, não há nada mais perigoso para o ser humano do que a anemia cerebral.
-
-O grande número de casos de doença mental nos Estados Unidos recentemente se deve à compressão dos vasos sanguíneos do cérebro por toxinas medicinais solidificadas. Se os medicamentos forem abolidos, esta doença naturalmente desaparecerá.
-
-#### Loucura curada em uma semana e milagre em acidente
-
-**Yasushi Nakazawa (20), Igreja Chu de Jukko, Niida, Distrito de Kita-Akita, Província de Akita**
-
-Fui possuído por uma raposa e cheguei a ser chamado de "louco de carteirinha". As pessoas diziam: "Coitado, tão jovem...". Normalmente, eu teria sido internado em um hospital psiquiátrico, mas, por recomendação de meu primo, Sr. Takeda, fui curado em cerca de uma semana pela Igreja da Salvação Mundial, que cura até mesmo a loucura com simplicidade. Não me lembro de nada do que fiz ou disse quando estava louco. Com base no que meus pais, irmãos e parentes me contaram, relato aqui o que aconteceu, na esperança de que outras pessoas em meu estado possam voltar à normalidade o mais rápido possível e de que a Igreja da Salvação Mundial, com seus milagres, pode salvar de qualquer doença ou desastre.
-
-Sou rebocador e ia todos os dias trabalhar na casa de meu mestre, na cidade vizinha. Foi no início de outubro de 1950. Ao voltar para casa após o trabalho, percebi que minha bicicleta, recém-comprada, havia sumido. Fui imediatamente à polícia. O policial disse: "Se aconteceu agora, o ladrão ainda deve estar por perto. Vou avisar por telefone e procurar". Mas a bicicleta estava na casa do meu mestre, onde eu a havia deixado de manhã. Eu voltei de bicicleta e, no caminho, em Ogi Shindo, tive a certeza de que havia sido roubado. A partir daí, minha cabeça virou. O jornal "Hokuroku Shimbun" até publicou uma matéria zombando de mim. Minha família disse que, por minha causa, não podiam mais encarar as pessoas. Foram dias de constrangimento.
-
-O que eu dizia e fazia não tinha pé nem cabeça. As pessoas diziam: "Coitado do Yasushi, se a loucura se instalou, não vai sarar tão cedo. Tão jovem...". Minha família e parentes ficaram muito preocupados. Levaram-me a vários médiuns e videntes, mas nada adiantou.
-
-Um parente rico sugeriu: "Não podemos ficar parados. Leve-o ao hospital da universidade para um bom exame. Dizem que o tratamento com eletrochoque cura". E ofereceu-se para emprestar o dinheiro. "É bom ter fé, mas também é preciso consultar um médico", diziam. Fui levado ao Hospital Público de Odate. Mas disseram: "Não há remédio para isso", e me mandaram de volta.
-
-Em uma reunião de família, decidiram me levar ao hospital da universidade em Hirosaki. Foi então que meu primo, Sr. Takeda, disse: "Ir a Hirosaki é uma opção, mas a Igreja da Salvação Mundial, da qual fazemos parte, cura tudo, até loucura. Por que não o levam à Sede em Kodatehana para um exame com o Mestre?". Alguns parentes foram contra, mas decidiram: "Se a Igreja da Salvação Mundial não curar, vamos a Hirosaki. Vamos tentar em Kodatehana".
-
-Fui levado por cinco ou seis pessoas à Sede em Kodatehana. O Sr. Takeda já havia explicado a situação ao Mestre, e logo recebi Johrei diante do Altar. O Reverendo Suzuki recitou a Oração e fez uma análise espiritual. Naquele momento, dizem que eu plantei bananeira e caí. Gritei coisas sem sentido e olhei para o Mestre com um olhar estranho e assustador. O Mestre, através de minha mãe, identificou os espíritos: uma raposa e um gato. Outros médiuns também haviam dito: "Três raposas antigas o possuem, é um caso difícil. Ele precisa vir aqui para um ritual de exorcismo".
-
-O Mestre explicou: "A maioria dos casos de loucura é causada por raposas. Com o Johrei, a turvação do corpo espiritual se dissipa, a raposa não consegue mais ficar e vai embora, e a pessoa se cura. Não há necessidade de trancá-los em hospitais psiquiátricos e fazê-los sofrer". Ele também disse aos acompanhantes: "Os loucos, mesmo nus no frio, raramente pegam resfriado. E não têm diarreia, não importa o que comam. Se tiverem diarreia ou pegarem um resfriado, é um bom sinal, significa que estão se curando. O Yasushi também pode ter diarreia com o Johrei. Não se preocupem, pelo contrário, alegrem-se, pois é sinal de cura".
-
-No dia seguinte, e no outro, continuei a ir para o Johrei. Cada vez, eu ficava violento, gritava coisas sem sentido e dava muito trabalho aos Mestres e acompanhantes. Uma vez, dizem que cinco ou seis homens não conseguiram me segurar. Mas, após a terceira ou quarta sessão de Johrei, comecei a ter uma diarreia intensa. A partir daí, comecei a entender as coisas.
-
-No dia seguinte à minha primeira visita à Sede, houve um curso. Meu irmão participou, recebeu o Ohikari e, em casa, me ministrava Johrei com fervor. Cerca de uma semana depois de começar a receber Johrei, eu já estava são. Eu, que diziam que estava louco e não tinha mais cura, fui salvo tão rapidamente pela Igreja da Salvação Mundial! Parecia um sonho, e eu só podia chorar de gratidão.
-
-Uma semana depois, quando voltei à Sede para agradecer, todos ficaram espantados. Minha família é pobre, vivemos com o que ganhamos no dia. Mas eu queria muito receber o sagrado e absoluto Ohikari. Com meu corpo são, trabalhei todos os dias com afinco. Graças à proteção divina, logo pude participar do curso e receber o absoluto Ohikari.
-
-Desde então, recebi muitos outros grandes milagres e vivo todos os dias sem preocupações. Sou um felizardo. Uma vez, voltando do trabalho, eu estava em um carrinho de mão com ferramentas. O carrinho parou de repente, e das dezoito pessoas que estavam nele, dezessete ficaram feridas, algumas gravemente. Só eu não tive um arranhão e estava de pé em um lugar seguro. Foi um milagre que eu mesmo não conseguia entender. Outra vez, eu estava rebocando a parede de uma escola, em um andaime alto. Quando ia começar a rebocar, a corda do andaime se rompeu, e ele se desfez. Ferramentas e reboco caíram. Mas eu, inconscientemente, me agarrei ao parapeito da janela do segundo andar. Meu irmão, que trabalhava logo abaixo, também escapou ileso, apesar do susto.
-
-Fui curado da loucura, tornei-me membro e fui salvo de vários acidentes que poderiam ter me custado a vida. Nós, membros da Igreja da Salvação Mundial, ao orarmos "Meishu-Sama", somos salvos por grandes milagres. Quero retribuir esta graça ajudando na construção do Paraíso Terrestre de Meishu-Sama.
-
-(15 de maio de 1952)
-
-#### Filho louco recupera a saúde
-
-**Toshio Aoyagi (48), Grande Igreja de Hotakaradera, Aoyagi, Distrito de Kasuya, Província de Fukuoka**
-
-Com todo o respeito, apresento meu relatório de agradecimento a Meishu-Sama. Minha família, composta por mim, minha esposa e nosso filho adotivo, vivia em harmonia. Mas, por volta de fevereiro de 1949, percebemos que o comportamento de nosso filho (17 anos) estava estranho. Dois meses depois, eu estava em uma fonte termal quando recebi um telegrama da família de nosso filho: "Seu filho enlouqueceu, volte logo". Voltei correndo e o encontrei completamente diferente, violento. Em uma reunião de família, decidimos interná-lo.
-
-O diagnóstico foi "esquizofrenia". "Um mês de internação e ele voltará ao normal, em dois meses terá alta", disseram. Mas dois, três meses se passaram, e ele não melhorava. Pelo contrário, seu corpo definhava. Após quatro meses, ele estava tão fraco que sua vida corria perigo. Em outra reunião de família, decidimos tirá-lo do hospital e colocá-lo em uma cela.
-
-Foi então que a Sra. Ayako Mori, uma conhecida, veio nos visitar. "A única solução é se apegar à Igreja da Salvação Mundial, da qual fazemos parte", ela nos disse com fervor. Minha esposa e eu participamos do curso, recebemos o Ohikari e começamos a ministrar Johrei em nosso filho. Ele mudou drasticamente. Em quinze dias, já podia sair da cela. A alegria foi imensa! Nós, que havíamos recebido apenas três dias de curso, jamais imaginamos receber tanto poder. Não há palavras para agradecer.
-
-Um mês depois, ele parou de fazer coisas ruins e passou a nos obedecer. Em novembro, como somos agricultores e estávamos na época da colheita do arroz, o levamos para o campo, e ele ajudou. Desde então, ele melhorou muito e hoje não é muito diferente de uma pessoa normal. Apenas ocasionalmente tem pequenas purificações do `yakudoku` das injeções que recebeu. Graças a Deus, um homem que era considerado um louco incurável, um inválido, foi completamente salvo.
-
-Meishu-Sama, muito obrigado. Só tenho gratidão. De agora em diante, embora eu seja humilde, desejo levar o evangelho do Paraíso a todos e agradeço.
-
-(1º de janeiro de 1952)
-
-#### Salvo de uma doença mental desesperadora
-
-**Shigeto Yashiki (37), Grande Igreja de Shinsei, Minashi, Distrito de Saeki, Província de Hiroshima**
-
-Minha esposa, Hatsuko, deu à luz nossa segunda filha, Mariko, em 22 de outubro de 1950. Quarenta dias depois, no meio da noite, ela deu um grito e, a partir daí, enlouqueceu. Cantava, dançava e piorava a cada dia. À noite, aproveitava qualquer descuido para fugir de casa. Dentro de casa, rasgava as portas de papel, era uma violência de dar pena. Eu não dormia, chorava dia e noite.
-
-Levei-a a todos os médicos da região, a hospitais psiquiátricos, tentei tudo o que me diziam, mas nada adiantou. Ela só piorava. Ia ao templo xintoísta, ao cemitério, fazia coisas ruins e ria. "Será que nem mesmo com tanto esforço ela vai se curar? Será que não há deuses nem budas neste mundo?", eu me perguntava, amaldiçoando o mundo e odiando a Deus.
-
-Foi então que uma tia veio e disse: "Há quem cure uma doença como esta em uma noite". Acreditei que era a palavra de salvação de Deus e pedi que a trouxessem. No dia seguinte, veio uma senhora de mais de setenta anos. Ela e toda a família rezamos a noite toda. Depois, ela disse: "Sinto muito, mas não há esperança. Ela, impura após o parto, chutou um deus importante, o deus do vento. A ira desse deus é grande, ela não se salvará".
-
-Naquele momento, chorei alto. Tentei de tudo e, por fim, acreditei na palavra de salvação de Deus, mas o resultado foi "não se salvará". "Ah, será que minha sinceridade não chega a Deus?", pensei, caindo em um abismo de escuridão. Mas, determinado a curá-la, recuperei as forças e tentei acupuntura, moxabustão, massagem... nada mudou.
-
-Quando eu já achava que não havia mais nada a fazer senão esperar, a Sra. Hayano Sakamoto, da aldeia vizinha, veio e disse: "O Mestre que está em minha casa cura qualquer doença passando as mãos. Por que não o chama?". Eu, que já havia tentado de tudo, pensei: "Como algo assim pode curar? De jeito nenhum!". Mas, querendo curar minha esposa a todo custo, decidi me iludir mais uma vez. E assim, a Reverenda Hanako Namekawa veio. Ela me ministrou Johrei imediatamente e pernoitou em minha casa. Ouvi a história da grandiosidade da Igreja Messiânica e decidi me tornar membro. Em 3 de abril de 1951, tornei-me membro.
-
-A Reverenda Hanako Namekawa continuou a me ministrar Johrei com fervor. Eu, recém-convertido, também ministrava com fervor. E a doença, que estava tão grave, melhorava a cada dia. Vendo minha esposa melhorar, eu só podia pensar: "Que poder grandioso!", e me curvar. Senti-me envergonhado por ter duvidado no início. No final de abril, ela já estava praticamente sã. Continuei a ministrar Johrei com afinco e, na época da colheita, quando precisávamos de toda a ajuda possível, ela estava completamente curada e até me ajudou. Vendo-a assim, gritei: "Meishu-Sama, muito obrigado!".
-
-Após mais de seis meses de escuridão, fui salvo e levado para o mundo da luz. Minha alegria é indescritível, e toda a minha família agradece o grandioso poder de Meishu-Sama. Muito obrigado. De agora em diante, com minhas humildes forças, esforçar-me-ei ao máximo no caminho da luz deste ensinamento. Eu, um homem de pouca cultura, não sei que palavras de agradecimento dirigir a este grandioso Meishu-Sama. Só posso sentir uma imensa gratidão.
-
-Meishu-Sama, muito obrigado.
-
-(7 de janeiro de 1952)
-
-#### Salva da doença mental pela virtude divina
-
-**Tokiko Asano (26), Igreja Chu de Toyama, Higashi-Shinmachi, Fukumitsu, Distrito de Nishitonami, Província de Toyama**
-
-Meishu-Sama, obrigada pela proteção diária. Desta vez, fui salva de uma situação desesperadora e compreendi a sublime Obra Divina. Com o coração transbordando de alegria, tomei a pena para compartilhar minha história com o mundo.
-
-Estou casada há sete anos. Meu marido sempre foi muito fraco e, a cada mudança de estação, ficava de cama por uma ou duas semanas, às vezes mais de um mês. O médico era uma visita constante. No final do ano passado, ele adoeceu novamente. Teve febre de 37 a 38 graus por mais de quatro semanas. O médico disse: "É febre de tuberculose. Há injeções, mas tomar PAS deve resolver". Por três semanas seguidas, ele tomou o remédio cinco vezes ao dia. Além disso, íamos a um templo xintoísta, e ele tomava o remédio de lá mais de dez vezes por dia.
-
-Tudo isso custava dinheiro. Meu sogro dizia: "Não adianta tomar tanto remédio. Se está com o médico, está tudo bem". Mas minha sogra, preocupada, foi novamente ao templo. "Tome por mais dez dias, mais uma semana", disseram. Acreditando que as palavras de um deus não poderiam estar erradas, tomei coragem e pedi dinheiro ao meu sogro. Eu, enquanto cuidava dele, fazia bicos para juntar dinheiro. Quantos remédios comprei e dei a ele! Mas a febre não baixava.
-
-"Não adianta ficar com um médico só. Tente outro", disseram. Mudei de médico. A febre baixou em um dia, mas agora ele não conseguia dormir à noite. O médico disse: "Vou dar um remédio para isso". No templo, disseram: "É esgotamento nervoso. Não o deixe ter preocupações, converse com ele. Agora é o momento mais importante de cuidá-lo". Tentei conversar, mas ele, com o peito apertado, não me ouvia. Fui novamente ao templo. "Existem injeções para esgotamento nervoso. Tente isso", disseram. Mas não havia esse remédio por perto.
-
-Meu marido dizia: "Sinto o peito apertado, é o fim, não vou sobreviver. Salve-me, mesmo que eu vá para o inferno. Ah, que medo! É o fim, é o fim!". Ele se comportava como um animal, comia de forma desumana. Ninguém em casa conseguia comer.
-
-Minha sogra já havia ouvido falar da Igreja da Salvação Mundial. "Se é o fim, vamos pelo menos tentar o Reverendo Mizoguchi. Se não der certo, pelo menos teremos tentado de tudo", ela disse, e foi procurá-lo. O Mestre veio prontamente. Eu, que nunca tinha ouvido falar nem visto aquilo, olhei espantada. Contei tudo o que havia acontecido. O Mestre disse com firmeza: "Seu marido vai se curar". Naquele momento, meu peito se encheu de emoção. Nunca antes alguém havia dito com tanta certeza "vai se curar". Fiquei muito feliz e contei ao meu sogro. Ele não permitiu que nos tornássemos membros, mas pensei: "Se ele se curar, o dinheiro não importa". Corri para a casa de meus pais e contei tudo. "Se você pede com tanto fervor, não posso negar o empréstimo. Mas a Igreja da Salvação Mundial (na época, Kannon Kyo) foi muito perseguida no ano passado. Não faça nada que chame a atenção", eles disseram, e me emprestaram o dinheiro.
-
-Pedi ao Mestre, e meu marido e eu nos tornamos membros. O Mestre disse: "Vocês precisam ir à Sede em Takaoka para receber o Ohikari. Em casos inevitáveis, o Mestre da Sede pode vir". Pedi, e o Vice-Presidente veio até nossa casa. Em 23 de fevereiro, tornamo-nos membros. Quando o Mestre chegou à estação, meu marido começou a fazer gestos de se enforcar com toalhas e cordas. Após receber o Ohikari e o Johrei do Mestre, ele gritou: "Fiz algo de ruim ao deus de Sumiyoshi, preciso ir me desculpar!". Seus gestos ficaram mais violentos, e ele gritava coisas sem sentido. À noite, piorava. Nós não entendíamos nada do que ele dizia e ficamos muito aflitos.
-
-Quando o Reverendo Mizoguchi vinha, ele conversava com meu marido de forma que ele se acalmava. Mas, algumas horas depois, tudo recomeçava. Eu não dormia, e com as crianças para cuidar, um dia disse ao Mestre: "Ah, que sofrimento!". Ele riu e disse: "A senhora trocaria três ou seis meses por uma vida inteira?". "É verdade", pensei.
-
-O Mestre disse ao meu sogro: "A irmã tem filhos. Como pai, o senhor deveria se tornar membro e ministrar Johrei com fervor. Eu também tenho família e preciso voltar para casa". Mas meu sogro não quis ouvir. Meu pai veio nos visitar e, ao ouvir a história, disse: "É preciso ter muita fé". E meu sogro se convenceu. Ele se tornou membro e começou a ministrar Johrei. Mas meu marido, em vez de melhorar, parecia piorar. Ninguém em casa dormia.
-
-Meu sogro foi a um parente e contou tudo. "Isso é coisa do passado. Com a medicina tão avançada, é melhor interná-lo", disseram. Um dia, ele foi a um hospital se informar. Meu marido ficou ainda mais violento. "Vão me levar para o hospital, vocês estão me enganando!", ele gritava, inquieto. O Mestre disse: "Em uma semana, ele deve se acalmar". "Por favor, aguente mais uma ou duas semanas", eu implorei ao meu sogro.
-
-Depois disso, houve dias em que ele estava de melhor humor. Ficamos dois ou três dias na casa do Reverendo Mizoguchi, recebendo Johrei diante de Daikomyo Nyorai-Sama. Ele melhorava a cada dia. Pela primeira vez, senti uma luz na escuridão. Antes do plantio do arroz, ele já podia ajudar no campo. Eu estava tão feliz e grata! Agradeci o grandioso poder de Deus.
-
-Ele é membro há dez meses. Meu sogro, que segundo os médicos precisava de uma cirurgia para câncer de intestino, foi curado sem operar, tornou-se membro, recebeu Johrei e agora está muito feliz. Em novembro, entronizamos a Imagem de Kannon. Recebemos muitas graças, e, pela primeira vez desde que me casei, dias felizes, como a luz do sol da primavera, chegaram. Rogo para que todos os infelizes do mundo se apeguem a este sublime ensinamento.
-
-Meishu-Sama, obrigada pela proteção. Agradeço-lhe sinceramente.
-
-(18 de dezembro de 1951)
-
-#### Filha com doença mental é salva
-
-**Hisako Tsuji (43), Igreja Chu de Yoko, Notani, Distrito de Mitsu, Província de Okayama**
-
-Em janeiro de 1951, casei minha filha. Ela sempre foi saudável e trabalhadora, e a família do noivo gostava muito dela. Mas, na manhã de 17 de setembro, o pai do noivo veio e disse: "Fukuko sempre trabalhou bem. No dia 16, ela foi para a montanha cortar capim, toda animada. Mas, quando voltou, estava completamente diferente. A alegria da manhã havia sumido. Estava pálida, e a família ficou muito preocupada. Ela não respondia a nada, ficava de cabeça baixa, pensativa, sem se mover. Por favor, venha logo".
-
-Ao ouvir isso, senti como se tivesse levado um soco. Levei a mão ao peito. "Ah, neste momento, se eu pedir a Deus, serei protegida!", pensei, e respirei aliviada. "Vou imediatamente", eu disse ao pai do noivo. Consultei a Sra. Kawamoto, uma vizinha muito devota, e fomos juntas. Eram cerca de duas da tarde. Pegamos um ônibus e viajamos por uns cinco quilômetros.
-
-Chegando lá, vi minha filha exatamente como me haviam descrito. A Sra. Kawamoto e eu ministramos Johrei várias vezes. Minha filha, ao me ver, pareceu me reconhecer. E demonstrou uma vontade súbita de voltar para casa. A família do noivo disse: "Desde que a senhora chegou, ela quer voltar. Por favor, leve-a e peça a Deus para curá-la logo".
-
-Consultei a Sra. Kawamoto. "Se eles estão dizendo isso, é porque ela não pode ficar aqui. O melhor é ministrar Johrei diante de Deus", ela disse. "Então, vamos", decidi, e resolvi levar minha filha.
-
-Na manhã do dia 19, partimos com minha filha, que não entendia nada. Ela não queria andar. A família a ajudou por alguns quarteirões, para não perdermos o trem, mas ela se recusava a andar, tirava os sapatos e se jogava para trás. Duas pessoas a seguravam pelos braços, levantando-a, e outra a empurrava por trás, mas não adiantava. Tentei carregá-la nas costas, mas ela era pesada. O tempo estava passando. "Será que vamos conseguir pegar o trem?", perguntei à Sra. Kawamoto. "Eu pedi a Deus, vai dar tudo certo", ela respondeu.
-
-E, de repente, chegamos à estação. O relógio marcava quase sete horas. "Obrigada, Deus!", agradeci em meu coração. O trem estava lotado, mas, por proteção divina, havia um lugar para minha filha. Chegamos à estação de Kanagawa. Fomos para o ponto do ônibus e, em cinco minutos, ele chegou. No ônibus, também conseguimos um lugar. Graças à proteção, a viagem foi tranquila.
-
-Minha filha pareceu entender que havia voltado para casa. Descansamos um pouco. "Vamos agora ao Altar", disse a Sra. Kawamoto. Ela pegou a mão de minha filha, mas ela não queria ir. Tivemos que arrastá-la. Diante de Deus, ministramos Johrei.
-
-A partir daquele dia, minha filha e eu dormimos na casa da Sra. Kawamoto, diante do Altar. Todos os dias, ela recebia Johrei de várias pessoas. Que graça! Aos poucos, ela começou a beber água e chá, mas não comia nada. À noite, suava tanto que eu tinha que trocar suas roupas várias vezes. Isso durou sete dias.
-
-Ela entrou em coma. As maçãs do rosto saltaram, as costelas ficaram visíveis. A barriga afundou, os ossos do quadril saltaram. As pernas ficaram finas como as de um louva-a-deus, só pele e osso. O rosto estava pálido. Ela não parecia deste mundo. "Será o fim da minha querida filha? Será que sua vida termina aqui?", pensei.
-
-No nono dia, ela começou a mexer a boca. Pensei que talvez quisesse algo. Com uma colher pequena, levei um pouco de água à sua boca. E, pela primeira vez, Deus permitiu que ela engolisse. Que gratidão! A partir daí, ela começou a beber chá e água, e depois, aos poucos, frutas e comida. A quantidade aumentava a cada dia. Agradeci a Deus. A Sra. Kawamoto ministrava Johrei dia e noite, incansavelmente.
-
-Seu corpo ganhava força a cada dia. O corpo esquelético começou a ganhar forma. Ela começou a andar pela casa. À noite, dormia melhor. Mas, às vezes, levantava-se no meio da noite, com as mãos para a frente, os pulsos para baixo, tremendo, e andava pela casa de camisola. Parecia um fantasma. Foram noites assustadoras. Acreditamos que eram os espíritos dos antepassados não salvos. Ela murmurava coisas que duraram vários dias. Às vezes, desenhava linhas no tatame com o dedo.
-
-O tempo passa rápido. Quase um mês se passou. As festividades do templo xintoísta, nos dias 14 e 15 de outubro, estavam próximas. Após quase um mês na casa da Sra. Kawamoto, levei minha filha para casa para as festas. Ela não piorou. Os Mestres da Igreja também ministraram Johrei várias vezes. Em 5 de fevereiro, recebemos Komyo Nyorai-Sama. Muitas pessoas vieram de longe para ministrar Johrei. "Minha filha, que não comia nada, foi salva e está bem. Por favor, Deus, ajude-a", eu rezava com todo o meu coração.
-
-A Sra. Kawamoto, às vezes, dizia coisas engraçadas, e minha filha ria alto, mas ainda não falava. Se ia ao banheiro, não conseguia voltar. Fomos à Igreja de Higashi-Furumatsu, em Okayama. Foi a primeira vez que fomos a uma igreja. Lá, recebemos Johrei do Reverendo Nakahashi. Fomos quatro vezes. Na quarta vez, recebemos Johrei do Presidente da Igreja, Yashiro. A partir daí, ela, que nunca havia tido coriza, começou a ter um corrimento nasal espesso.
-
-Mudando de assunto, a família do noivo, que no início agradecia a Deus e vinha nos visitar, com o tempo, parou de vir. Eles passaram a pensar mal de Deus. "Assim não dá", pensei. "Se eu não a mandar de volta de uma vez, será uma falta de respeito com Deus". Em janeiro de 1952, anulei o casamento na prefeitura.
-
-Depois disso, ela começou a comer melhor, mas não queria comer com a família. Comia sozinha, depois de todos. E comia por dois. Fiquei muito preocupada. Pensei que não faria bem para a saúde dela e cheguei a esconder a comida. Mas seu corpo engordou muito. A cintura ficou como um pilão enrolado em palha.
-
-Um dia, estávamos fazendo mochi. Ela, em silêncio, começou a ajudar. Naquele momento, senti uma emoção indescritível. "Obrigada, Deus!", eu disse, e as lágrimas rolaram.
-
-A cada Johrei, ela recebia um milagre. Em vinte dias, foi completamente salva. No final de fevereiro, ela estava com a mente e o corpo sãos. Agora, também entronizamos a Imagem Sagrada, e toda a família vive feliz e em paz. As pessoas da aldeia de Yoshimune estão maravilhadas com o poder de Deus.
-
-Meishu-Sama, muito obrigado. Com esta humilde carta, agradeço-lhe profundamente.
-
-(29 de julho de 1952)
-
-#### Salvo da esquizofrenia pelo Johrei
-
-**Akira Kai (23), Igreja Chu de Nyoirin, Imaichi, Distrito de Ono, Província de Oita**
-
-No final de fevereiro de 1951, enquanto cortava madeira para carvão, caí em um vale de cerca de vinte metros e perdi a consciência. Fui socorrido por meus companheiros de trabalho. Como não sentia muita dor, continuei a trabalhar pela manhã. Mas, depois do almoço, comecei a sentir dores por todo o corpo. Fiquei de cama e entrei em um estado de loucura.
-
-Cinco ou seis dias depois, por orientação ou graça de Deus, o Reverendo Seri, da Sede de Ono da Igreja da Salvação Mundial, veio me visitar e me ministrou Johrei. Minha cabeça clareou, e eu senti como se tivesse voltado a mim. Dois ou três dias depois, o Mestre veio novamente e me ministrou Johrei. Fiquei completamente curado. Por cerca de um mês, ainda senti a cabeça pesada, mas não tive mais crises de esquizofrenia. Aos poucos, recuperei-me e pude voltar ao trabalho.
-
-Com a medicina moderna, eu jamais teria me recuperado em tão pouco tempo. Teria sido considerado um louco, e minha família e eu teríamos tido uma vida de infelicidade. Com uma gratidão imensa, em 8 de março, tornei-me membro. Agora, ministro Johrei em minha família todos os dias. E, às vezes, nos vizinhos. Tenho recebido inúmeras graças, que relatarei em outra oportunidade.
-
-Meishu-Sama, Daikomyo Nyorai-Sama, muito obrigado. De agora em diante, além da agricultura, dedicarei-me a guiar o maior número possível de pessoas que sofrem de doenças, para retribuir, ainda que minimamente, a graça divina. Com esta humilde carta, relato uma parte das graças recebidas.
-
-(1º de outubro de 1951)
-
-### Artrite
-
-Como escrevi anteriormente, o `yakudoku` se acumula onde há maior atividade nervosa. Como as articulações das mãos e dos pés estão em constante movimento, ele se acumula ali. E, diferentemente do passado, hoje em dia se aplicam injeções para qualquer doença ou prevenção, o que aumenta a propensão à artrite. Por este motivo, se os medicamentos forem abolidos, a doença diminuirá gradualmente.
-
-#### Perna que não dobrava curada com duas sessões de Johrei
-
-**Kinojo Ogikubo (65), Igreja Chu de Nanko, Shikine, Distrito de Aira, Província de Kagoshima**
-
-Com todo o respeito, agradeço a Meishu-Sama e relato a alegria de minha recuperação. Lembro-me de que, por volta de abril de 1948, por um motivo banal, meu joelho direito começou a doer e, aos poucos, parou de dobrar. Apliquei moxabustão, aqueci no banho, repeti o tratamento todos os dias, mas nada adiantou. Injeções e pomadas só pioraram a situação. Eu não conseguia mais me sentar no chão para comer, tinha que me sentar na beira da soleira, com a perna esticada. Se recebia visitas, era uma vergonha. E, para rezar aos deuses e budas de manhã e à noite, eu tinha que fazê-lo com a perna esticada.
-
-"Será que não consigo mais me sentar como antes?", eu me perguntava. E, por outro lado, pensava que, por causa da minha idade, talvez não tivesse mais cura. Muitas vezes, chorei. "Com a medicina e os remédios tão avançados, por que não conseguem me curar?", eu me perguntava, desanimado. "Só a morte vai me curar", eu pensava, resignado. E assim, três anos se passaram.
-
-Uma primavera inesquecível chegou para mim. Em 17 de abril de 1951, o filho de meu vizinho, Toru Kiba (13 anos), estava com febre e dor de barriga há quatro ou cinco dias. Não comia nada. Seus pais e seis vizinhos o levaram de maca ao médico da aldeia (a cerca de dois quilômetros, por uma estrada de montanha íngreme). O diagnóstico foi: "É um caso complicado. É a mesma doença que a minha, colecistite aguda". Recebeu duas injeções e a ordem de repouso absoluto. Foi como receber uma sentença de morte. Desanimados, com a febre sem baixar, voltamos para casa.
-
-Na aldeia vizinha, a esposa de Takemi Suemitsu (hoje membro da Igreja) nos disse: "O Reverendo Inada, da Sede de Miyakonojo, está aqui para salvar as pessoas através da fé em Komyo Nyorai-Sama. Por que não pedem a ele?". Fomos imediatamente até lá e pedimos. O Mestre disse: "Tragam-no para a sala". Com receio, levamos o menino gravemente doente. "A febre é uma ação purificadora, é uma bênção", ele disse. E acrescentou, com uma confiança que nos surpreendeu: "Em alguns minutos, ele estará bem".
-
-Com trinta minutos de Johrei, a febre de quarenta graus baixou, e ele se sentiu melhor. Agradecidos por este grande poder, pedimos que ele viesse à nossa aldeia para ministrar Johrei. Minha esposa também sofria de problemas de estômago há anos. Minha filha, minha nora, toda a minha família era um hospital. Trinta a quarenta pessoas da aldeia recebiam Johrei todos os dias.
-
-Minha perna, com apenas duas sessões de Johrei, voltou a dobrar. Fiquei atônito, sem saber o que fazer. Não há palavras para agradecer. Minha família e as pessoas da aldeia receberam inúmeras proteções. Sob a orientação carinhosa do Reverendo Kuroki, da Sede de Miyakonojo, minha esposa se tornou membro em 1º de maio, e minha filha, em 8 de junho. Continuamos a receber Johrei dos Reverendo Inada e Sunada. Em 5 de agosto, entronizamos a Imagem de Kannon, e a família está muito feliz. Em um mês e meio, dezessete pessoas se tornaram membros. Todos se esforçam para serem salvos.
-
-Todos os meses, os Reverendo Onishi e o Presidente da Igreja vêm de Miyakonojo para nos orientar. A cada visita, recebemos uma proteção ainda maior. Estou muito grato. Quero entronizar Komyo Nyorai-Sama o mais rápido possível e levar este ensinamento às pessoas que não o conhecem, em minha aldeia e em outros lugares, para cooperar, ainda que minimamente, com a construção do Paraíso Terrestre e retribuir a graça recebida.
-
-Meishu-Sama, muito obrigado. Agradeço profundamente a orientação de todos os Mestres. Relato aqui os fatos como aconteceram.
-
-(1º de setembro de 1951)
-
-#### Salvo de reumatismo articular generalizado após treze anos acamado
-
-**Kunji Kobayashi (29), Igreja Chu de Hakuai, Rokukawa, Miyako, Distrito de Shimotakai, Província de Nagano**
-
-Com todo o respeito, agradeço a Meishu-Sama por minha salvação e relato a alegria de minha conversão. Há treze anos, quando eu tinha dezesseis anos, meu tornozelo esquerdo começou a doer de repente. Assustado, fui ao médico. O diagnóstico foi reumatismo articular. O tratamento não fez efeito e, em dez dias, a dor se espalhou por todo o corpo. Em pouco tempo, eu não conseguia mais sair da cama. As articulações de cada um de meus dedos incharam e se deformaram. Cotovelos, ombros, pescoço, cintura... tudo doía. Os dedos dos pés, os joelhos... tudo inchou. O peito do pé ficou saliente. Eu não conseguia nem me sentar. Eu ainda podia andar um pouco, mas com muita dificuldade. Eu não conseguia mais cuidar de mim mesmo.
-
-No início, como todo mundo, confiei nos médicos. Tentei todas as injeções e remédios, mas o inchaço só piorou e as articulações endureceram. Desisti dos remédios e, com a ajuda de minha mãe, tentei acupuntura, moxabustão, eletroterapia, massagem... nada me curou. A dor diminuía por um tempo, mas no ano seguinte voltava, e eu ficava de cama. Tentei religiões, rezas... nada adiantou. Só me restou o sentimento de ter sido enganado.
-
-Todas as minhas articulações ficaram nodosas e deformadas. "Minha doença não tem cura com a medicina e a fé de hoje. Vou terminar minha vida na escuridão?", eu me perguntava, chorando na cama. Por não me mover, desenvolvi problemas de estômago e intestino, problemas de coração e asma. Na época da colheita, na primavera e no outono, eu só dava trabalho a meus pais e irmãos.
-
-E assim, treze anos se passaram. Eu já não acreditava em nenhum tratamento e já havia me resignado a não ter cura. Mas, em maio deste ano, meu vizinho, Shigemi Kobayashi, que havia curado uma sinusite crônica, veio à minha casa e me falou sobre o Johrei e o caminho. Eu, que já não acreditava em nada, pensei: "Como algo tão simples pode curar?". Mas, após três dias de hesitação, decidi: "Se não curar, não perco nada. Se curar, será uma bênção. Vou tentar". Em 2 de maio, ele me levou a Susaka.
-
-Pensando agora, se eu tivesse recusado, como fiz com outros tratamentos, teria perdido a chance. Foi por um fio que fui salvo. Sinto isso profundamente.
-
-Recebi Johrei de corpo inteiro da Sra. Shinozaki. Quando fui embora, ao pedalar a bicicleta, a estrada de dois quilômetros, que na ida eu havia percorrido com dificuldade, parando várias vezes, na volta, fiz quase sem dor. "Que milagre, que milagre!", eu pensava. Não conseguia entender. Só sabia que meu corpo estava mais leve. Meu corpo, que por mais de dez anos eu não conseguia mover, ficou tão leve com uma única sessão de Johrei! Por mais que eu pensasse, era um milagre.
-
-Na manhã seguinte, acordei e consegui me levantar com facilidade, o que não era normal. Após treze anos de escuridão, vi pela primeira vez a luz. Cheio de alegria, no segundo dia, fui de bicicleta até Susaka. No terceiro dia, na cerimônia mensal na casa da Sra. Shinozaki, encontrei o Reverendo Nishimura. Ouvindo suas palavras, meu coração se encheu de luz. E o que mais me surpreendeu foi que todas as pessoas que estavam lá eram muito saudáveis e alegres. Nunca havia visto uma reunião tão iluminada. Pensei: "Aqui, até a doença vai embora".
-
-Na volta, recebi um Johrei atencioso e voltei para casa de bicicleta, pedalando com leveza. Meu corpo ficava mais leve a cada dia, a escuridão se dissipou, e a esperança de uma vida iluminada brotou em mim. Como posso expressar esta alegria? Com minha pouca instrução, não consigo encontrar palavras.
-
-No dia seguinte, participei de um curso de três dias em Shibu Onsen, na aldeia de Hiraon, e ouvi as palavras do Mestre. Eu queria participar do curso o mais rápido possível, mas, por vários motivos, decidi primeiro me curar. Recebi Johrei todos os dias de meu vizinho, o Sr. Kobayashi, e a dor em minhas articulações diminuía a cada dia.
-
-Um mês e meio depois de começar a receber Johrei, meu corpo, que por vinte e dois anos não conseguia fazer nada, pôde pegar uma foice e ceifar o trigo. Antes, eu conseguia segurar a foice, mas não tinha força. Agora, embora minhas articulações ainda estivessem inchadas e meus dedos e palmas deformados, eu podia segurar com força e ceifar. A alegria foi indescritível.
-
-Trabalhei com afinco e, com as economias, no final de julho, participei de um curso itinerante na casa do Sr. Masumitsu e recebi o tão esperado Ohikari. Durante os três dias de curso, pessoas viam a luz do Johrei, a Imagem Sagrada brilhando em dourado, uma luz redonda saindo dos ombros do Mestre... milagres aconteciam um após o outro. Fiquei espantado. No final, ao receber o Ohikari, meu corpo todo esquentou, e eu só podia chorar de gratidão.
-
-Após receber o Ohikari, meu corpo ficou ainda mais leve. Tenho a certeza de que um dia este inchaço desaparecerá e meu corpo, do qual eu havia desistido, voltará ao normal.
-
-Três meses se passaram desde que me tornei membro. Agora, já consigo fazer quase todo o trabalho da lavoura. Meu único desejo é levar este caminho ao maior número possível de pessoas e contribuir, ainda que minimamente, para a construção do Museu de Arte.
-
-Movido pela alegria, escrevi este relatório.
-
-(21 de fevereiro de 1951)
-
-#### Salva de uma doença incurável, o reumatismo, e minha casa se torna um paraíso
-
-**Koyoshi Kobayashi (43), Igreja Chu de Zuiun, Iri, Distrito de Wake, Província de Okayama**
-
-Meishu-Sama, obrigada pela proteção diária. Com todo o respeito, relato aqui uma parte de sua imensa proteção. Minha família tem oito pessoas, mas éramos um hospital. Quando um sarava, outro adoecia. Sempre havia dois ou três de cama. Grande parte de nossa renda mensal ia para despesas médicas. A casa era sempre sombria. Era como se tivéssemos assumido toda a doença, pobreza e conflito da aldeia. Um verdadeiro inferno na terra.
-
-E, para piorar, eu, que cuidava da casa, contraí uma doença incurável, o reumatismo. Ansiosa para me curar, tentei de tudo. Injeções, acupuntura, moxabustão... mas nada adiantou. A dor só piorou, e meu tornozelo direito ficou duro como uma vara, sem dobrar. Não há nada pior do que ter problemas nas pernas. Sem uma mulher para cuidar da casa, o lar ficou ainda mais sombrio. As crianças choravam, eu não podia lavar roupa nem cozinhar. E, ao ver o rosto de meu marido, que voltava para casa exausto após um dia de trabalho, meu coração se partia. "Se minhas pernas estivessem boas, eu não o faria sofrer tanto", eu pensava. O desespero quase me enlouqueceu.
-
-Em meio ao barulho das crianças, a situação financeira piorava a cada dia. O ar pesado pairava sobre a família. Não havia o que fazer. Eu só podia lamentar minha má sorte, com meus filhos inocentes nos braços.
-
-Mas, na época da colheita do trigo, no ano passado, minha vizinha, a Sra. Ozeki, me disse: "Há um Mestre que cura doenças. Por que não vai vê-lo?". Como um náufrago que se agarra a uma palha, eu fui. Um Mestre jovem passou as mãos em mim. Senti-me um pouco desconfiada, mas ele disse: "Com certeza vai melhorar. Continue a vir". Obedeci e fui todos os dias, mas não vi melhora. E ele não me explicava nada. Eu não entendia nada e pensei em desistir. Mas a Sra. Ozeki disse: "Tenha um pouco mais de paciência". Por consideração a ela, continuei a ir, a contragosto, cada vez que o Mestre vinha.
-
-Cerca de um mês depois, a cada Johrei, minha perna começou a dobrar um pouco. A partir daí, eu mal podia esperar pela vinda do Reverendo Harada. A cada Johrei, eu melhorava muito. "Hoje dobrou até aqui. Agora, até aqui", eu dizia, e mostrar ao Mestre era minha maior alegria. Minha felicidade era indescritível.
-
-No outono, eu já conseguia me sentar para receber Johrei. Era como estar no céu. A dor quase desapareceu. Na colheita do outono, trabalhei como nos outros anos, ou até mais. Eu podia ir para a montanha, para o campo, fazer qualquer trabalho pesado. Eu estava completamente curada.
-
-Em 1º de dezembro, fui à Sede em Okayama e recebi o tão esperado Ohikari do Presidente da Igreja. Naquela época, minha casa, antes um hospital, havia se tornado um lar feliz, sem doenças.
-
-*Olhando para trás, que medo! / Andei por um caminho escuro, sem bengala. / Louvando, louvando sem fim, a grande felicidade, / Nem pena nem palavras podem expressar.*
-
-Meishu-Sama, muito obrigado.
-
-(7 de agosto de 1952)
-
-### Doença Cardíaca
-
-Quando se fala em doença cardíaca, geralmente se refere à valvulopatia. A causa é o `yakudoku` que se solidifica ao redor do coração, comprimindo-o e causando pulso irregular, palpitações, dificuldade para respirar, etc. A forma mais intensa disso é a angina de peito. A característica da angina é uma dor intensa e uma sensação de sufocamento. O sofrimento é de cortar o coração. A dor é o estímulo nos nervos quando o nódulo se dissolve e o líquido tenta sair. A sensação de sufocamento é a compressão do coração pelo líquido tóxico. Se a pessoa parar de tomar remédios e deixar a natureza seguir seu curso, certamente se curará.
-
-#### Valvulopatia cardíaca incurável curada — O erro da medicina conhecido através da dúvida
-
-**Yoko Yoshida (23), Igreja Chu de Nanko, Maruyama, Miyazaki**
-
-*Louvando, louvando sem fim, a grande felicidade, / Nem pena nem palavras podem expressar.* (Poema Divino)
-
-Não há palavras para agradecer a Deus. Desde criança, eu era fraca. Se adoecia um pouco, era logo médico e remédio. Como filha única, fui criada com mais cuidado do que as outras crianças, totalmente dependente da medicina.
-
-Na escola secundária, em Quioto, durante as aulas de educação física, meu coração doía muito, e eu não conseguia correr com minhas amigas. Foram anos de tristeza. Lembro-me apenas de momentos tristes.
-
-Após me formar, como não praticava mais esportes, não sentia tanta dor no coração (embora não fosse um coração saudável). Voltei com meus pais para Miyazaki, terra natal deles, e comecei a trabalhar nos correios. No posto médico do trabalho, o médico me disse: "Você tem valvulopatia cardíaca. Mesmo no trabalho de escritório, não faça nenhum esforço". "Será que estou tão mal assim?", pensei, e o mundo escureceu. Fiquei inquieta. E voltei a tomar remédios e injeções. Entrei para a Seicho-no-Ie, mas nada adiantou. As batidas do meu coração ficaram cada vez mais fortes. Tive que pedir demissão dos correios e, após um ano e meio, me afastei para me tratar.
-
-O médico em quem eu tanto confiava disse a um amigo: "O coração da Yoko só se cura com a morte". Que dor eu senti! Por favor, imaginem. Lembro-me que, na época, cheguei a pensar em suicídio. "Será que não há ninguém que possa salvar meu coração? Se o médico não pode, talvez haja alguma erva medicinal", pensei. E lembrei-me de minha amiga de Quioto, Tsuneko Hirosaki. "Vou perguntar a Tsuneko se ela conhece alguma erva boa", pensei. Escrevi-lhe uma carta, depois de muito tempo, contando meu sofrimento. A mãe de Tsuneko era uma pessoa muito gentil, ex-enfermeira-chefe da Cruz Vermelha. Pensei que talvez ela conhecesse algum bom remédio.
-
-Mas a resposta de Tsuneko foi inesperada: "Apegue-se ao caminho de Deus". "De novo não", pensei. Por causa da Seicho-no-Ie, não consegui me apegar imediatamente. Mas, com a insistência de Tsuneko, comecei a ler as revistas "Tijo Tengoku" e "Eikô" que ela me enviou. Lendo, senti vontade de me apegar. "Por favor, me informe o endereço da Sede em Miyazaki", pedi.
-
-Quando se tem vontade de se apegar, a espera pela resposta é uma eternidade. A tão esperada resposta chegou. Ela me indicou a casa do Reverendo Masayoshi Kawasaki, em Uchi-Yodogawa. Em 5 de outubro, decidi ouvir a história. Fui à Sede de Yodogawa com o coração aos pulos.
-
-Minha mãe e eu ouvimos a história do Mestre e, pela primeira vez, recebi Johrei. A partir daí, comecei a ir de ônibus todos os dias. No décimo sétimo ou décimo oitavo dia, o Mestre disse: "Seu coração vai se curar, mas talvez você fique com o lado esquerdo paralisado". "Uma jovem como eu, paralisada?", pensei, duvidando.
-
-Na manhã do dia 25 de outubro, acordei normalmente, tomei café da manhã e, logo depois, senti um sono incontrolável. Pedi à minha mãe para arrumar a cama e dormi profundamente. Acordei por volta das dez horas. Tentei me levantar, mas não consegui. Minha mão e perna esquerdas não tinham força. Por mais que eu tentasse, não conseguia me levantar. Chamei minha mãe e perdi a consciência.
-
-Pensando agora, foi uma ótima purificação. Fiquei de cama, uma doente grave. Minha mãe me dava comida, me ajudava a ir ao banheiro. Eu me irritava e reclamava com o Reverendo Kawasaki, dando-lhe muito trabalho. Eu não conseguia mover um dedo, quanto mais o braço! Era natural que eu ficasse triste. "Paralisada! Os idosos ficam paralisados por três, seis anos, dependendo dos outros. O que será de mim? Terei que sofrer por três anos? Um cadáver vivo? Ah, o que será de mim?", a ansiedade me consumia.
-
-Dois ou três dias depois que adoeci, meu pai disse ao Mestre: "Foi Deus quem fez isso com minha filha, então quero que a cure em uma semana. Se não curar, vou à polícia". O Mestre, com um sorriso calmo, disse: "As toxinas dissolvidas pelo Johrei foram para o lado esquerdo. Com isso, ela escapou de uma parada cardíaca. Não se preocupe. Eu assumo total responsabilidade. Eu sou daqui, meus pais e irmãos moram aqui. Não vou fugir. Por favor, confie e se apegue". E, com suas palavras gentis, convenceu meu pai teimoso, e eu pude continuar a receber Johrei todos os dias.
-
-Dizem que a melhora é como descascar uma folha fina de papel, mas no meu caso foi como descascar uma folha grossa a cada dia. A dor de cabeça passou, a dor no braço passou. Primeiro, a ponta dos dedos começou a se mover, depois um dedo de cada vez, e logo eu conseguia fechar a mão com os cinco dedos. "A perna esquerda também se moveu, a ponta dos pés tem força. Mãe, Mestre, estou tão feliz!", eu dizia. A gratidão a Deus era infinita, e cada dia era uma alegria. "Quando poderei me sentar? Quando poderei andar? Quando poderei segurar uma tigela de chá?", a esperança brotava.
-
-Cada dia era uma alegria, e a cada Johrei eu melhorava. O Mestre também se alegrava com a rapidez da minha recuperação. "Que grande proteção!", ele dizia, e vinha me visitar no frio. A figura do Mestre, toda amor e sinceridade, era como a de um deus para mim, e eu o esperava ansiosamente todos os dias. Se até os médicos, em quem eu confiava, pareciam deuses, não é de se estranhar que eu pensasse assim.
-
-Minha mãe se tornou membro em 3 de novembro. Em seguida, entronizamos a Imagem de Kannon. A rapidez das graças surpreendeu meu pai, e em 15 de dezembro ele também se tornou membro. No dia 18 do mesmo mês, eu também tive a honra de me juntar aos fiéis. Naquela época, eu já conseguia andar com a ajuda de minha mãe.
-
-Dois meses depois, eu já podia ir ao banheiro sozinha. No Ano Novo, nós três nos sentamos à mesa, e eu pude segurar a tigela com a mão esquerda e comer. Foi um Ano Novo muito feliz. Um momento inesquecível de alegria.
-
-No dia 10 de janeiro, por volta das dez da noite, meu coração começou a doer muito, depois de muito tempo. Pedi a meu pai para ir de bicicleta até a igreja do Mestre (a dois quilômetros). Ele foi correndo no frio. Naquela hora, o Reverendo Kawasaki estava em uma festa com os vizinhos, com três ou quatro convidados. Ao ver meu pai, ele disse: "Sr. Yoshida, a Yoko está mal de novo? Mas não se preocupe mais. O fato de o senhor ter vindo pedir à Sede já chegou a Deus. Não há mais com o que se preocupar. A Yoko já está bem. Por favor, faça uma oração e volte. Eu não acho que seja nada grave, mas irei logo. Mas que tal uma bebida?". Meu pai pegou o copo que o Mestre lhe ofereceu, mas não conseguiu beber. Preocupado, ele orou e voltou.
-
-Como o Mestre havia dito, quando meu pai chegou à Sede, eu já estava melhor e descansando. Meu pai também sentiu a grandiosidade de Deus e aprofundou sua fé. "Quero entronizar a Imagem Sagrada o mais rápido possível", ele disse à minha mãe. Naquela noite, o Mestre veio logo depois de meu pai, me ministrou Johrei e voltou para casa no frio.
-
-Até então, eu havia recebido muita proteção. Mas, em fevereiro, comecei a me sentir estranha. Com todo o respeito, passei a não gostar de Deus, do Johrei e do próprio Mestre. "O Mestre é quem eu mais odeio", eu dizia a ele. "O que deu na Yoko? O que ela está dizendo?", minha mãe se preocupava e chegou a me beliscar. (Segundo o Mestre, como meu pai queria entronizar a Imagem Sagrada, um espírito maligno que não queria que isso acontecesse começou a me perturbar).
-
-"Só a medicina resolve!", eu dizia, enlouquecida. Minha mãe, que havia sido minhas mãos e meus pés, que havia cuidado de mim com tanto carinho, sofria muito. E eu, que devia tanto ao Reverendo Kawasaki, passei a odiá-lo. Naquele momento, minha mãe, chorando, pedia desculpas ao Mestre. "Não é ela quem está falando, ela está sendo forçada a falar. Não se preocupe", ele a consolava.
-
-Eu dizia: "Que Deus o quê! Doença só se cura com a medicina moderna!". "Então, como você conseguiu andar em tão pouco tempo?", me perguntavam. "Foi natural, não foi por causa do Johrei. Se a medicina me curar, eu faço o Mestre, não, você, se ajoelhar e raspar a cabeça!". Meus insultos pioravam a cada dia. "Pare com o Johrei!", eu dizia. O Mestre, em acordo com minha mãe, decidiu esperar um pouco e se afastou. Minha mãe ficou muito triste.
-
-Eu exigi um médico. Meu pedido foi atendido, e meu pai chamou o Dr. T, da cidade de K. O Dr. T diagnosticou: "O coração se rompeu, por isso ela ficou paralisada. Com repouso, ela vai melhorar". Ele me deu uma injeção e foi embora. Na segunda visita, deu outra injeção. A partir daí, tive febre alta, perdi o apetite, não conseguia mais andar, nem mesmo ficar de pé.
-
-A febre alta continuou por dias. Minha mãe não dormia, trocando a bolsa de gelo, cuidando da comida e do banheiro. Eu estava mais ocupada do que quando fiquei paralisada. A febre não baixava. Chamei o Dr. A, da cidade de T. "A válvula se rompeu e a paralisia se espalhou. Se piorar, teremos que amputar a perna", ele me assustou.
-
-Não me conformei e pedi a visita de um terceiro médico, o Dr. C, da cidade de A. Ele veio duas vezes por dia, só me dando injeções, por mais de dez dias. Eu só piorava. Por fim, ele disse: "Sinto muito, senhora, mas sua filha não vai sobreviver. A perna também inchou. Desista". Ele repetiu isso por dois dias. Meu pai, achando que eu não viveria muito, já havia preparado meu funeral. Hoje é uma história engraçada, mas meus amigos já haviam preparado o dinheiro para o enterro.
-
-Como um último presente, pedi o Dr. M, do hospital provincial. "A pleura e o peritônio estão ruins. Coloque uma compressa quente de konjac no baixo-ventre", ele disse. Fiz o que ele mandou, mas me senti mal e parei. Comprei quase mil ienes de um emplastro e colei no flanco, mas meu peito apertou e meu coração doeu. Parei com isso também.
-
-Em cerca de um mês, meu corpo, que estava tão gordo, emagreceu assustadoramente. Eu estava à beira da morte. Em março, quando os médicos já não sabiam o que fazer, comecei a pensar: "Será que a medicina não funciona mesmo? Será que só o Johrei resolve?". "Mãe, por favor, vá pedir desculpas ao Reverendo Kawasaki. Acho que só o Johrei resolve", eu pedi. "Como posso pedir um favor ao Mestre agora?", ela me repreendeu. Mas eu insisti tanto que ela pensou: "Talvez ela se salve". E foi correndo à Sede, pedir desculpas ao Mestre e que ele voltasse a me visitar.
-
-Eu estava preocupada com o que dizer ao Mestre quando ele viesse. Mas, ao ver seu rosto familiar, as lágrimas rolaram e eu não consegui dizer nada. O Mestre, sorrindo, disse: "Yoko, eu também não precisei raspar a cabeça, não é?". Eu queria me enfiar em um buraco. "Você emagreceu bastante. Mas não se preocupe, logo vai engordar de novo. Não duvide mais. Agora você sabe como é a medicina, não é?", ele me disse com gentileza. "Por que eu odiei um Mestre como este?", eu me perguntava. Decidi que nunca mais duvidaria da medicina.
-
-A partir daí, comecei a receber o Johrei fervoroso do Mestre todos os dias. Meu apetite voltou, a febre baixou, minhas mãos e pés ganharam força. Em menos de um mês, eu já conseguia me levantar e andar novamente. Fiquei emocionada. Tive purificações, vomitei sangue, tive catarro por duas semanas, cerca de um litro por dia. A cada vez, eu me sentia mais forte, e o lado esquerdo do meu corpo ficou mais leve. Continuo a fazer exercícios todos os dias.
-
-Agora, por mais longe que eu ande, nunca mais senti dor no coração. Não sou diferente de uma pessoa saudável. Não falto a nenhuma cerimônia na Sede de Miyazaki e na Sede de Minami-Miyazaki. Apego-me com fervor.
-
-As pessoas que me viram à beira da morte e agora me veem curada dizem: "Você engordou, seu rosto está corado, está bonita". Mas não se apegam ao caminho de Deus. Que gente lamentável!
-
-Agradeço a Tsuneko, que me guiou a este caminho maravilhoso. E agradeço profundamente aos Reverendo Kawasaki e Ozaki, que me orientaram diretamente.
-
-Meishu-Sama, Daikomyo Nyorai-Sama, muito obrigado. Comparando o Johrei com a medicina em meu próprio corpo, compreendi claramente o erro da medicina. Rogo que continue a me proteger. Embora eu seja humilde, desejo retribuir, ainda que minimamente, sua graça. Por favor, perdoe minha escrita humilde.
-
-(1º de março de 1952)
-
-#### Doença cardíaca de dez anos melhora em um mês
-
-**Iyo Kikuchi (37), Igreja Chu de Nyoirin, Ueki, Taketa, Distrito de Naoiri, Província de Oita**
-
-Pela sublime salvação de Deus, fui salva de uma morte iminente e hoje vivo dias de gratidão. Fui abençoada com cinco filhos, o mais velho com dezoito anos. Durante a gravidez do caçula, peguei um resfriado e tossi muito. Mas, como as outras gestações foram tranquilas, não me preocupei e continuei a trabalhar na lavoura. Mas meu corpo ficava cada vez mais pesado, a tosse piorava. A família e os vizinhos diziam que eu melhoraria depois do parto, e eu esperava ansiosamente.
-
-Mas, com a proximidade do parto, comecei a sentir falta de ar, e da cintura para baixo, tudo inchou. A tosse e a falta de ar pioraram a ponto de eu não aguentar mais. Fui ao médico. "Você tem um problema no coração. Tome este remédio por um tempo", ele disse. Peguei o frasco de remédio, que eu detestava, pensando que era minha única salvação, e comecei a ir ao médico todos os dias.
-
-Tomei remédios por um, dois meses, como se bebesse água, mas não vi melhora. Pelo contrário, parecia piorar. Mudei de médico, mas foi a mesma coisa. Fui a vários lugares, mas nada mudou. Dei à luz.
-
-Pensei que, com o alívio do parto e a ajuda dos remédios, eu melhoraria com o repouso. Mas não foi como eu esperava. Eu, que já era fraca, fui internada. Recebi cuidados atenciosos, segui as ordens do médico e fiquei deitada de costas. Pensei que agora a doença seria curada. Fiquei um mês na cama. A tosse parou, e eu me senti melhor. Pensei que estava curada e tive alta.
-
-Voltei a trabalhar na lavoura, pensando que estava como antes. Mas a falta de ar voltou, e eu não conseguia trabalhar como queria. Se me esforçava um pouco, tudo voltava. Eu me odiava. "Por que eu peguei uma doença como esta?", eu me perguntava, em dias de ansiedade. À noite, olhava para o rosto de meus filhos dormindo e pensava no futuro. O medo da morte me assombrava. Eu não me importava em morrer, mas, pensando em meus filhos e em meu marido, eu queria ficar boa de qualquer maneira. Mas não havia o que fazer. Eu só podia me entregar à doença. Meu marido também se preocupava, mas oito anos se passaram sob o capricho do destino.
-
-Em novembro de 1948, recebi a mão da salvação. Um conhecido me falou de uma cura passando as mãos. "Como uma doença pode se curar com algo tão simples?", eu pensei, sem acreditar. "Minha doença de tantos anos, será que se cura?", perguntei. "Uma doença longa se cura com um tratamento longo", ele respondeu. Como um náufrago que se agarra a uma palha, ouvi a história e imediatamente fiz minha filha mais velha, Kimiko, se tornar membro. Todos os dias, eu esperava ansiosamente que ela voltasse da escola para me ministrar Johrei.
-
-Um mês depois, eu melhorava a cada dia. Sem perceber, esqueci a doença. E então, compreendi que, diante do imenso poder divino, qualquer doença, por mais grave que seja, pode ser curada.
-
-Depois disso, meu marido teve um problema nos olhos, e meu caçula pegou coqueluche. O Johrei de Kimiko não era suficiente. Eu queria muito receber o Ohikari. Pedi com insistência a meu marido e me tornei membro. Pensei: "Se eu receber o Ohikari, vou passar as mãos em toda a minha família e em quem mais estiver doente". Comecei a ministrar Johrei nos olhos de meu marido e na coqueluche de meu filho, duas, três vezes por dia, em um frenesi.
-
-Os olhos de meu marido sararam em catorze ou quinze dias. A coqueluche de meu filho era muito forte. Eu, sozinha, não me sentia segura. Quando ele sofria muito, mesmo doente, eu o carregava nas costas e corria para a Igreja. Cada vez, o Presidente da Igreja e sua esposa me ministravam um Johrei atencioso e me falavam do caminho. Naquela época, com minha mente turva, eu não entendia nada.
-
-Recebendo Johrei todos os dias, após quarenta dias, a coqueluche teimosa que tanto o fez sofrer foi curada. Compreendi a grandiosidade do poder do Johrei. E, continuando a ir à Igreja, as palavras "Tudo é banhado pelo grande amor da natureza" se gravaram em meu coração. "Com esta fé, eu atravessaria até o fogo", decidi, e compreendi que não havia outro caminho senão dissipar a turvação, uma a uma, com o Johrei.
-
-Depois disso, enquanto servia na Obra, recebi Johrei e tive várias purificações. A cada purificação, sentia meu corpo e alma se purificarem. Paguei pelos pecados e máculas de meus antepassados. Com minha saúde, a luz brilhou em minha casa. Vendo o sorriso de meu marido e de meus filhos, senti na pele a bênção da purificação. "Se eu não conhecesse este caminho...", pensei, e um arrepio percorreu meu corpo.
-
-Hoje, além do trabalho na lavoura, gosto de levar verduras em um carrinho para a cidade e receber Johrei na Sede. Nesse meio tempo, meu marido e minha segunda filha também se tornaram membros. Em fevereiro de 1949, recebemos Komyo Nyorai-Sama. Sob sua imensa proteção, embora eu não consiga retribuir nem uma pequena parte de sua graça, quero servir ao caminho, à construção do Paraíso Terrestre. Com todo o respeito, agradeço e apresento meu relatório.
-
-Meishu-Sama, muito obrigado.
-
-(1º de setembro de 1951)
-
-#### Minha doença cardíaca curada e a apendicite de minha irmã também
-
-**Kiyoshi Kageyama (27), Igreja Chu de Kamikaze, Kominato, Distrito de Awa, Província de Chiba**
-
-Fui salvo do sofrimento da doença, tornei-me membro e, recebendo inúmeras proteções, vivo dias iluminados. Desta vez, minha irmã foi salva de uma apendicite. Com esta humilde carta, agradeço.
-
-Minha família é composta por minha avó, eu, minha esposa, minha irmã e meu filho de quatro anos. Somos agricultores. Em 21 de março de 1951, quando ia para o trabalho na montanha, ao sair de casa, meu coração falhou. As batidas eram fortes, e o pulso, irregular. Pensei que ia parar.
-
-Uma semana depois, no hospital, o diagnóstico foi "espasmo do músculo cardíaco". E disseram: "O átrio está inchado para o lado esquerdo, é melhor se internar logo". Eu nunca havia tido uma doença séria, então pensei que em duas ou três semanas estaria de volta. Em 17 de abril, me internei.
-
-Todos os dias, injeções de "Canfenal" e remédios em pó, três vezes ao dia. As duas ou três semanas que eu esperava se tornaram um, dois meses, e eu não melhorava. Pelo contrário, parecia piorar. A doença me consumia. Deitado na cama do hospital sombrio, eu pensava na falta de mão de obra na lavoura, e meus nervos ficavam à flor da pele. Eu mal dormia. Dia sim, dia não, entre onze da noite e uma da manhã, eu sofria.
-
-Naquela época, um parente, o Sr. Shimano, veio me visitar e me falou da Igreja da Salvação Mundial. "Por que não ouve a história?", ele disse. Na época, eu só respondia "sim, sim", mas, por dentro, eu ria e não dava a mínima.
-
-Um mês depois, dependendo dos médicos e dos remédios, sem efeito, eu me atormentava dia e noite. Um dia, minha esposa apareceu com as revistas "Tijo Tengoku" e "Eikô". "Peguei emprestado, por que não lê?", ela disse. Eu ri e não dei atenção.
-
-Em 24 de junho, o Sr. Takahashi, que morava perto do hospital, veio me visitar. "As doenças se curam fazendo assim com as mãos", ele disse, gesticulando. "Eu vou todos os dias à escola (de pesca) e curo os pequenos ferimentos dos meus amigos. É incrível. Até quem não é membro e meus amigos acreditam muito". E concluiu: "Minha casa é uma livraria. Por que não vem ler umas revistas?".
-
-Senti vontade de ir. À tarde, fui. Eram duzentos ou trezentos metros até a casa do Sr. Takahashi. Foi a primeira vez que andei desde que me internei. Chegando lá, eu mal conseguia ficar de pé. Como estava sofrendo muito, pedi o tal Johrei. Em quarenta minutos, as batidas do meu coração se acalmaram. Na volta, não senti dor alguma. A religião, da qual eu tanto ria, a partir daquele dia, senti que "havia algo ali".
-
-Querendo melhorar, fui todos os dias. Um mês depois, eu já podia ficar de pé por bastante tempo, sem sentir muita dor ou preocupação. Em 26 de julho, fui à Sede. Mesmo com o balanço do carro, meu coração não disparou. Foi um milagre.
-
-Graças a Deus, compreendi o caminho da verdade, o caminho da felicidade humana. Sem nenhuma ansiedade, com gratidão, recebi o sagrado Ohikari. E, salvo, já posso fazer trabalhos leves na lavoura. Quero salvar o maior número possível de pessoas. Ministro Johrei nos vizinhos.
-
-Em 10 de março, fui à Sede para receber Johrei. Ao voltar para casa, minha irmã estava com dor de barriga há uma hora. Pensei que era uma dor de barriga comum e ministrei Johrei por cerca de trinta minutos. "A dor está se concentrando no lado direito inferior do abdômen, sinto náuseas, e o lado direito inferior está duro e dolorido. O estômago também dói bastante", ela disse. "Deve ser apendicite", pensei. Orei com fervor e ministrei Johrei no local.
-
-Ela melhorou. Como estávamos na montanha, e era noite, no dia seguinte fui à Sede e pedi que o Sr. Nonaka viesse. Preocupado que ela pudesse ter dor ou sofrer durante a noite, ele pernoitou em nossa casa e ministrou Johrei. Na tarde do dia 4, ela estava completamente curada.
-
-Minha família dizia: "É tão milagroso que é difícil de acreditar". Se não tivéssemos recebido este poder, se não conhecêssemos a ação purificadora, teria sido médico, cirurgia... Pensando nisso, que felicidade! Eu, salvo da vida no hospital, vivia todos os dias com gratidão. E, além disso, meu corpo se tornou capaz de curar os outros. Senti na pele a grandiosidade deste poder.
-
-Meishu-Sama, muito obrigado. Agradeço-lhe profundamente. De agora em diante, trabalharei para salvar o maior número possível de pessoas. Muito obrigado.
-
-(15 de abril de 1952)
-
-### Dor de Cabeça Crônica
-
-Como escrevi anteriormente, o homem moderno ingere remédios indiscriminadamente e usa muito o cérebro. Por isso, as toxinas solidificadas na cabeça e em suas proximidades, ao se dissolverem com a febre da purificação, irritam os nervos. A dor, portanto, é um sinal de cura. Se a pessoa parar de tomar remédios e aguentar, embora leve tempo, a cura virá gradualmente.
-
-#### Curada de dor de cabeça de longa data
-
-**Sada Nagai (39), Igreja Chu de Kosei, Yoshio, Distrito de Awa, Província de Chiba**
-
-Em 16 de abril de 1948, em um dia chuvoso e frio de primavera, tive a honra de me tornar membro da então Associação Yamato da Igreja Kannon do Japão, Sede de Yoshio. Sou uma simples agricultora.
-
-Desde que me tornei membro, recebi inúmeras proteções, mas, por mais que eu tente, não consigo expressar em palavras nem uma pequena parte do que sinto. Com todo o respeito, relato aqui duas ou três graças e agradeço a Meishu-Sama. Peço que perdoem minha escrita.
-
-Minha cunhada já era membro e, vendo meu sofrimento com a dor de cabeça, dizia: "Irmã, torne-se membro também. Com certeza vai se curar". Ela insistiu várias vezes, mas eu não me animava. A dor de cabeça me atormentava dia e noite. Na época da criação do bicho-da-seda, na primavera, a dor era constante. Norshin, Hareyaka... nada adiantava. Eu não conseguia comer, vomitava muito. Meu único consolo era tomar um remédio para dor de cabeça e ir para a cama.
-
-Mas os dias passavam, e a dor não diminuía. Um dia, fui a um templo próximo onde leem a sorte. Disseram-me: "Seu útero e ovários estão inchados. Mantenha o baixo-ventre sempre aquecido". Mas, como esposa de agricultor, com um bebê de colo, o trabalho na lavoura, a criação do bicho-da-seda, os filhos, a roupa... eu não podia parar um dia sequer. Sofri muito. "Será que não há como me curar?", eu me perguntava, tomando vários remédios. Mas a dor só aumentava.
-
-Minha cunhada insistiu novamente para que eu me tornasse membro. "Será que esta dor de cabeça vai mesmo se curar?", perguntei, duvidando. "Com certeza vai", ela disse com fervor. "Será que uma pessoa sem instrução como eu pode se tornar membro?", eu me perguntava. Eu, que não conhecia a fé, imaginava um mundo intelectual e rígido. Mas me convenci e, com minha cunhada, fui, com receio, à Sede de Yoshio.
-
-Ouvi o curso de dois dias. No terceiro dia, recebi a orientação do Reverendo Otsuki, que veio de Kamakura, e recebi o sagrado Ohikari. Ah, que emoção! Naquele instante, minha cabeça ficou leve.
-
-Depois disso, tive várias purificações. A cada vez, eu me sentia mais leve. Neste ano, quase esqueci que tinha dor de cabeça. Estou saudável, imersa em uma felicidade que nada pode substituir.
-
-Após me tornar membro, ir à Sede e ouvir as palestras se tornou minha maior alegria. Em casa, no intervalo do trabalho na lavoura, eu contava ao meu marido as histórias que ouvia do Reverendo Fukasawa. A cada vez, nos emocionávamos. Em 29 de dezembro do mesmo ano, meu marido também teve a honra de se tornar membro. Minha alegria foi tão grande que não consegui conter as lágrimas. Decidimos, de mãos dadas, nos apegar a este caminho e viver nele.
-
-Depois disso, a atitude de minha sogra em relação a mim mudou. A harmonia se instalou em nossa casa. O trabalho se tornou prazeroso. Cheios de felicidade, nos dedicamos à produção de alimentos.
-
-Em abril do ano seguinte, recebemos a Imagem de Kannon e, em 16 de julho, Komyo Nyorai-Sama. Minha sogra também se tornou membro após uma purificação de resfriado. Meu sogro ainda não. Quero muito que ele se torne membro, mas ele é muito teimoso.
-
-Meus quatro filhos, graças a Deus, estão todos saudáveis, a ponto de serem invejados pelos vizinhos. E, por iniciativa própria, fazem suas orações de manhã e à noite.
-
-Meishu-Sama, muito obrigado. Com uma oração sincera de gratidão...
-
-(21 de outubro de 1951)
-
-#### Dor de cabeça crônica de longa data curada em quatro ou cinco dias
-
-**Haruta Oda (48), Igreja Chu de Myorin, Onoura, Miyata, Distrito de Kurate, Província de Fukuoka**
-
-Com todo o respeito, agradeço pela proteção diária. Recebi o sagrado Ohikari em 16 de maio. Relato aqui o motivo de minha conversão e agradeço.
-
-Desde 1940, sofro de dor de cabeça intensa. Cada vez, tomo Norshin. Melhora por um tempo, mas depois piora. Nunca saio de casa sem Norshin no bolso. Cheguei a pensar em suicídio.
-
-Atualmente, trabalho como cozinheiro em um dormitório da mina de carvão de Kaijima, em Onoura. Em 6 de abril, casei-me com a filha do Sr. Abe, de Kokura. Minha esposa me falou da maravilha deste caminho, mas, no início, não acreditei. Ela já era membro e, embora eu duvidasse, recebi Johrei. Senti um alívio, e em apenas quatro ou cinco dias, a dor de cabeça teimosa desapareceu. Recentemente, meu rosto mudou completamente. A cor escura e doentia deu lugar a um brilho. E meu trabalho diário se tornou um prazer.
-
-Pedi permissão para me tornar membro. Nos dias 14, 15 e 16 de maio, o Reverendo Honda, da Sede, veio de longe, e eu recebi o Ohikari. A mim, um pecador, não apenas foi curada uma doença tão grave, como me foi permitido ajudar na obra de salvação. É uma honra imensa.
-
-De agora em diante, quero salvar o maior número possível de pessoas que sofrem e ajudar, ainda que minimamente, na sagrada obra de construção do Paraíso Terrestre. Rogo que continue a me proteger.
-
-Meishu-Sama, agradeço-lhe novamente. Muito obrigado.
-
-(25 de maio de 1952)
-
-#### Salva de dor de cabeça que não me largava nem com bolsa de gelo
-
-**Tei Kosakai (54), Igreja Chu de Hakko, Nagamori-Mizukaido, Gifu**
-
-Desde meados de maio de 1950, eu sofria de neuralgia, com dores nas mãos e nos pés. Frequentei um tratamento com moxabustão de alho por mais de dois meses, mas não obtive grande resultado. A cabeça pesada e o corpo indisposto me deixavam aflita.
-
-Em 7 de agosto, às quatro da manhã, comecei a sangrar pelo nariz de repente. Fiquei de cama, tremendo de frio, o rosto pálido. O sangramento durou cerca de quarententa minutos, sem parar. Pensei que era o fim. Em uma semana, sangrei pelo nariz quatro vezes. O menor barulho me incomodava. Eu precisava ficar em um quarto escuro e silencioso. Foi um sofrimento que eu nunca havia experimentado.
-
-Naquela época, eu ainda não conhecia este caminho maravilhoso. Mudei de médico várias vezes, mas não melhorei. Meus dias eram como se eu tivesse sido jogada em um abismo. Por três meses, resfriei a nuca com um quilo e meio de gelo por dia. Depois, usei uma bolsa de gelo constantemente. Quando eu achava que podia dar uma caminhada, piorava. O médico não sabia o nome da minha doença. "É dos nervos, é dos nervos", ele dizia, sem me dar esperança.
-
-Em 20 de julho do ano passado, a mãe do Reverendo Hirako começou a me ministrar este maravilhoso Johrei. A partir daí, melhorei muito. A mãe do Reverendo Hirako, sem se importar com o calor escaldante, veio me visitar todos os dias por quarenta dias, sem faltar um. Sua dedicação me comoveu. Só tenho a agradecer.
-
-Em 28 de julho, minha filha (20 anos), que sofria de problemas de estômago e intestino há mais de um ano, tornou-se membro. Eu me tornei membro em 12 de outubro. Mãe e filha estamos muito felizes.
-
-A bolsa de gelo, da qual eu não conseguia me livrar, com o Johrei, em setembro, pude finalmente tirar. Aos poucos, consegui sair da cama. A primeira vez que, apoiada em uma bengala, fui à casa do Reverendo Hirako para agradecer, em 2 de setembro, foi uma alegria inesquecível.
-
-Meishu-Sama, muito obrigado. A cada dia, eu me sinto melhor. A casa, antes sombria, ficou iluminada. Por tudo, sinto uma gratidão imensa.
-
-Em 31 de outubro, quando Meishu-Sama esteve em Nagoya, a mãe do Reverendo Hirako me levou para vê-lo. Por cerca de meio mês, eu estava com os ombros pesados, as mãos e os pés doíam, e eu não me sentia bem. Mas, que graça! Naquele momento, como se um peso tivesse sido tirado de mim, meu corpo ficou leve.
-
-Recebendo tantas graças, o sofrimento da internação parece um sonho. Só tenho a agradecer.
-
-Meishu-Sama, muito obrigado. Agradeço-lhe sinceramente.
-
-(26 de janeiro de 1952)
-
-### Paralisia Infantil
-
-Esta doença pode ser de origem espiritual ou física. A paralisia infantil comum nos Estados Unidos parece ser, em sua maioria, de origem física. Explicarei em detalhes. A dificuldade de locomoção desde o nascimento é, sem dúvida, causada pelo `yakudoku` herdado dos pais e pelo `yakudoku` adquirido após o nascimento, que se solidifica em alguma parte da perna. Um exame atento revelará um nódulo que, ao ser pressionado, causa dor. Geralmente, ele se localiza na sola, no peito, no calcanhar ou nos dedos do pé, e, raramente, na virilha. Se não for tratado, embora leve tempo, a cura virá gradualmente. Mas, por ignorância, aplicam-se injeções, pomadas, eletroterapia, fototerapia, etc., o que torna a doença incurável.
-
-A causa espiritual é mais comum no Japão e, aparentemente, rara nos Estados Unidos. É a hemiplegia, ou seja, um lado do corpo, mão e pé, fica paralisado, com declínio da inteligência e incapacidade de falar, como em um derrame. Pode se manifestar após dois ou três dias de febre alta ou de repente. Uma criança que foi para a escola normalmente pode acordar com esses sintomas, uma doença terrível. A causa é a possessão pelo espírito de um idoso que morreu de derrame. É o mesmo que um derrame.
-
-Por que isso acontece? Quando uma pessoa morre subitamente de derrame, ela vai para o Mundo Espiritual sem conhecimento espiritual sobre a morte e pensa que ainda está viva. Sem um corpo físico, ela o procura desesperadamente. Mas, como regra, não se pode possuir quem não tem parentesco. Ela procura sua linhagem espiritual e, como as crianças são mais fáceis de possuir, geralmente possui um neto. Os fatos comprovam isso. Portanto, em casos de paralisia infantil espiritual, uma investigação revelará o espírito de um avô ou avó que morreu de derrame ou, raramente, o de um parente idoso. A paralisia infantil espiritual só pode ser curada pela fé.
-
-#### Doença de Landry (paralisia infantil maligna) incurável pela medicina
-
-**Kenichi Koshima (32), Igreja Chu de Myorin, Nishi-Hosoe, Shimonoseki, Província de Yamaguchi**
-
-Na manhã de 12 de abril deste ano, um dia que jamais esquecerei, minha segunda filha, Junko (dois anos e três meses), que estava bem na noite anterior, não acordava. Pensando que era uma de suas brincadeiras, não me preocupei. Mas ela disse: "Mãe, não consigo me levantar". Minha esposa foi vê-la e a encontrou se debatendo, com as pernas moles. "É grave, vamos ao médico!", dissemos.
-
-O médico da vizinhança balançou a cabeça. "É grave. Não posso me responsabilizar. Leve-a a um ortopedista". Fomos a um ortopedista. Ele disse o mesmo que o primeiro médico. Meu mundo desabou. Como último recurso, consultei o Dr. T, um pediatra renomado e cliente meu.
-
-O Dr. T me levou a uma sala separada, abriu um grosso livro de medicina e, com um suspiro profundo, disse: "Sr. Koshima, ainda existem muitas doenças que a medicina não consegue curar. Sua filha tem a doença de Landry, uma forma maligna de paralisia infantil. A medicina não conhece a causa nem o tratamento. A maioria dos casos leva à morte. Mas milagres acontecem, e novos remédios surgem. Eu farei tudo o que puder. Mas, viva ou morra, é uma questão de sorte. Confie em mim".
-
-Foi como ser jogado em um abismo. Mas, sem outra opção, aceitei. Internamos Junko e a família toda se revezou para cuidar dela. O Dr. T usou todos os novos remédios, mas sem efeito. No segundo dia, ela perdeu o movimento dos braços. No terceiro dia, começou a babar, e a respiração ficou difícil. A atitude do Dr. T não era nada boa. "A triste sina desta criança foi ser acometida por uma doença incurável e inexplicável pela medicina", pensei, resignado. Avisei minha esposa para se preparar para o pior.
-
-Mas, ao olhar para o rosto de minha querida Junko, eu queria salvá-la de qualquer maneira. Mas não havia o que fazer. Eu estava atordoado. A esposa de meu colega de trabalho, o Sr. Anmori, veio nos visitar. "Neste ponto, só nos resta nos apegarmos a Deus. Eu tenho fé em Ishizuchi Daigongen, e ele acerta muito. Por que não vai amanhã e pede para o Mestre ver a menina?", ela disse, com gentileza.
-
-Movido por seu carinho e pelo amor a minha filha, no dia seguinte fui ao templo. Ouvi a história do Mestre, mas não entendi nada. Voltei ao hospital. A doença havia atingido o cérebro. Ela rangia os dentes e respirava com dificuldade. "É o fim", pensei.
-
-Naquele momento, algo me veio à mente. Em uma de minhas viagens de negócios, o Sr. Takeya, gerente de uma loja de cerâmica em Kokura, membro da Igreja, havia me falado da Igreja da Salvação Mundial. Eu, que na escola normal e no exército me interessei por "fé e o ser humano" e li e ouvi sobre religião, não concordava com tudo o que o Sr. Takeya dizia e não lhe dei muita atenção. Mas, com Junko à beira da morte, desenganada por todos, como um náufrago que se agarra a uma palha, entrei em contato com o Sr. Takeya. Ele estava viajando. Fiquei desapontado, mas, tomando coragem, através do Sr. Ueda, que o Sr. Takeya havia me indicado, entrei em contato com o Reverendo Muramae, da Sede de Hikoshima.
-
-Ele, com muita gentileza, veio ao hospital naquela mesma noite e me ministrou Johrei. "Com certeza ela receberá proteção. Mas, assim, com os remédios, não vai dar certo", ele disse. Hesitei por um momento. "Já que os médicos a desenganaram, se é para morrer, que morra em casa. Ela ficará mais feliz. Não sei se o Johrei cura ou não, mas vou tentar", decidi, e convenci minha esposa.
-
-Apesar da forte oposição dos parentes (o marido de minha cunhada é cirurgião) e da insistência do Dr. T, no dia 17, seis dias após o início da doença, tivemos alta. No dia 18, fomos à Igreja de Hatao. Ouvimos a história do Reverendo Kito e recebemos Johrei. "Não se preocupe, ela vai se curar", ele disse com firmeza. Na verdade, eu tinha seis décimos de esperança e quatro de descrença.
-
-Recebemos a visita diária do Reverendo Muramae, com suas palavras de amor e o Johrei. Por volta do dia 20 de abril, ela teve uma grande purificação. Espumou pela boca e teve dificuldade para respirar. A família entrou em pânico. "É uma grande purificação do Johrei", eu disse, e rezei com fervor a Meishu-Sama. O milagre aconteceu. Ela se acalmou e, a partir daquela noite, dormiu bem. Dois ou três dias depois, começou a comer.
-
-"Agora ela está salva", disse o Reverendo Muramae, e eu me senti fortalecido. Em 28 de abril, minha esposa, Tsuruko, recebeu o Ohikari. Em 8 de maio, eu também me tornei membro. Continuamos a ministrar Johrei. O apetite aumentou, a baba e a espuma pararam. Um mês após o início da doença, os ombros começaram a se mover. Quarenta dias depois, as mãos. Cinquenta dias depois, as pernas. Hoje, dois meses depois, só falta força na ponta dos dedos e dos pés. Os vizinhos estão espantados.
-
-Dois ou três dias atrás, minha esposa encontrou o Dr. T. Ele, ao ver o estado de Junko, ficou muito surpreso. "Como ela melhorou tanto? É um milagre! Foi com moxabustão ou massagem?", ele perguntou. "Não, nada disso", respondeu minha esposa. "Que estranho! É um caso para pesquisa médica. Quero publicá-lo em uma revista científica. Por favor, traga-a de vez em quando para eu ver".
-
-O marido de minha cunhada, o cirurgião Y, que foi tão contra a alta, agora diz: "É um milagre, é um milagre!". E até pediu: "Por favor, me mostre o livro de medicina da Igreja da Salvação Mundial".
-
-Minha mãe, que por anos foi devota da Tenrikyo, após este acontecimento, ouviu a história do caminho e se tornou muito fervorosa. Agora, ela está passando por uma purificação de câncer de mama, mas vai à Igreja, recebe Johrei e tenho certeza de que receberá a graça divina.
-
-E assim, a nuvem escura que pairava sobre minha casa se dissipou. A luz de Meishu-Sama brilha, e a esperança e a alegria transbordam. Corrigi os excessos de meu negócio e, embora pequeno e pobre, meu lar se tornou um lugar feliz, de paz de espírito. De agora em diante, toda a família se esforçará para seguir os ensinamentos de Meishu-Sama e ajudar, ainda que minimamente, na grande obra divina de construção do Paraíso Terrestre, para retribuir sua imensa graça.
-
-Meishu-Sama, muito obrigado. Rogo que continue a nos proteger.
-
-(15 de julho de 1952)
-
-#### Perna de criança paralisada por cinco anos move-se com quinze minutos de Johrei
-
-**Sosaku Tabata (48), Grande Igreja de Hotakaradera, Kosasebo, Sasebo, Província de Nagasaki**
-
-Meu terceiro filho, hoje com oito anos e oito meses (terceiro ano do primário), contraiu paralisia infantil em agosto de 1947. Ambas as pernas ficaram paralisadas, e ele não conseguia mais se levantar. Após mais de um ano de internação, sem melhora, procurei os melhores médicos, apeguei-me a deuses e budas, fui até Kagoshima, andei por toda a cidade... nada adiantou.
-
-A partir de 1950, a única solução era o tratamento natural. No primeiro ano, eu o carregava nas costas para a escola. No segundo ano, ele passou a usar muletas. Vendo-o assim, eu chorava todos os dias.
-
-Mas a Sra. Miyazaki, sogra de minha filha, disse: "Eu estava prestes a ser internada com câncer de útero e fui salva pelo Johrei. Por que você não tenta?". Em 18 de maio, fui pela primeira vez. Era o dia da inauguração da Sede de Sasebo. Com o coração dividido, pedi Johrei.
-
-Quinze minutos depois, o Mestre disse: "Opa, parece que está se movendo. Tente esticar a perna". E o menino esticou a perna. Que surpresa! A perna, que não se movia há cinco anos! Eu mal podia acreditar no que via e ouvia. Todos os presentes exclamaram: "Ah!", "Hmm!". A Sra. Miyazaki, que nos havia levado, chorava de alegria. "Como ele deve estar feliz!", pensei, e meu coração se encheu de alegria.
-
-Após quatro ou cinco sessões de Johrei, ele já conseguia se sentar de pernas cruzadas. Agora, já tem bastante força nas pernas e tenta se levantar sozinho. E, deitado, já consegue levantar a perna, o que antes era impossível. A perna, que era muito fria, durante o Johrei, ficava quente como fogo.
-
-Ele adora receber Johrei. Eu sempre o levo nas costas, mas, às vezes, ele não consegue esperar e vai sozinho, de muletas. E, antes, ele dormia encolhido como um camarão. Agora, dorme de braços e pernas abertos, todo feliz.
-
-Pensando em tudo isso, agradeço do fundo do meu coração a profunda vontade de Deus e me emociono com a grandiosidade da Obra Divina.
-
-Meishu-Sama, muito obrigado. Agradeço-lhe sinceramente.
-
-(17 de julho de 1952)
-
-#### Ah, a alegria da cura da paralisia infantil!
-
-**Minoru Ueda (41), Igreja Chu de Ryuko, Sanbuichi, Shutto, Distrito de Hikawa, Província de Shimane**
-
-Meishu-Sama, recebi sua graça e apresento meu relatório de agradecimento. No terceiro mês de gravidez, comecei a ficar pálida e com as pernas pesadas. O médico diagnosticou beribéri cardíaco. Tomei remédios todos os dias, mas não melhorei. Eu não conseguia trabalhar fora, mal me movia dentro de casa. "Será que não vou conseguir ter um parto normal?", eu me preocupava. Mas, para minha surpresa, dei à luz um menino com facilidade.
-
-Mas, um mês depois, meu leite secou. Tive que criá-lo com o leite em pó da época. Acredito que o leite secou por causa dos remédios que tomei durante a gravidez. Eu, doente após o parto, e o bebê, sem se desenvolver bem... foram meses sombrios para nós dois. Nós, que sempre fomos uma família saudável, ficamos desolados.
-
-O tempo passa rápido. Ele completou três anos, mas não andava nem falava. Fomos ao médico. Ele não deu um diagnóstico. "É difícil que se cure", ele disse. "Será que ele vai ser deficiente para sempre?", pensei, preocupada e com pena. Eu não dormia nem de dia nem de noite. Meu corpo e minha mente enfraqueceram. Foi um sofrimento imenso.
-
-Um dia, minha tia, que veio nos visitar, disse: "A Igreja da Salvação Mundial, uma religião de graças, está se espalhando muito em Izumo. Dizem que doenças que os médicos não curam estão sendo curadas. Por que não tenta?". "Então, vamos", decidi. Em 15 de março de 1949, com a ajuda de um conhecido de minha tia, o Sr. Sadaichi Ikeda, um membro fervoroso, o Reverendo Sugitani veio à minha casa. Ele nos explicou o caminho da salvação, e imediatamente nos tornamos membros.
-
-Em 17 de maio, na cerimônia mensal, meu marido nos levou, a mim e ao filho, à Sede de Otsu, em Izumo. Ouvimos a palestra do Reverendo Ishizaka, recebemos o Ohikari e o Johrei. Quando ele ministrou Johrei nas minhas costas, senti como se um vento soprasse no meu bulbo, e depois ficou quente. Foi uma sensação maravilhosa. "Com certeza nós dois receberemos a graça divina", tive certeza.
-
-Sobre a doença de meu filho, ele nos explicou com gentileza: "É paralisia infantil causada pelo `yakudoku` dos remédios que a senhora tomou durante a gravidez. Se receberem Johrei todos os dias, com paciência, com certeza os dois se curarão".
-
-Continuamos a receber Johrei todos os dias e a participar das cerimônias mensais. Graças a Deus, eu melhorei a ponto de poder ajudar nos afazeres domésticos. Em outubro, entronizamos a Imagem de Kannon. Aos poucos, toda a família se tornou membro. Em janeiro de 1950, recebemos Komyo Nyorai-Sama.
-
-A família toda, unida, pediu a Komyo Nyorai-Sama pela proteção de meu filho. E o menino, que aos quatro anos nem engatinhava, começou a se arrastar. A alegria da família foi imensa! Em abril, ele começou a se levantar sozinho. Em agosto, a andar. Em 15 de novembro, na cerimônia de passagem, ele foi ao templo xintoísta de sapatos. A alegria é indescritível. A família toda, diante do Altar, chorou de gratidão.
-
-A paralisia infantil, uma doença amaldiçoada que condena tantas pessoas no mundo a uma vida de deficiência e escuridão... a medicina moderna não sabe o que fazer. E esta doença terrível, que dura a vida toda, foi curada em menos de um ano!
-
-Leio na "Seleções" sobre casos de paralisia infantil curados com tratamentos extremamente complexos no exterior, mas esses métodos são impossíveis para uma família comum e, mesmo que fossem, não há garantia de cura completa. O poder de salvação e o ensinamento de Meishu-Sama são simples, prazerosos e cem por cento eficazes em pouco tempo. A gratidão é ainda maior.
-
-Ah! Por que as pessoas do mundo zombam de um caminho tão maravilhoso, de uma pessoa tão sublime? É porque a sinceridade de nós, que fomos salvos, ainda é pouca. Sinto muito.
-
-Neste ano, também recebemos Daikomyo Nyorai-Sama. Meu filho, Kazu, está servindo em Shinsenkyo. Recebemos grandes graças na Agricultura Natural. De um a dez, é uma sucessão de proteções. A família, que vivia no inferno da doença, agora vive no paraíso. Muito obrigado.
-
-(2 de fevereiro de 1952)
-
-#### Filho com paralisia infantil salvo e o perigo do `yakudoku` compreendido
-
-**Tadao Watanabe (38), Igreja Chu de Yoko, Shiraraku, Kurashiki, Província de Okayama**
-
-Tenho três filhos, dois meninos e uma menina. O caçula, Yukinori (quatro anos), nasceu mais saudável e gordinho que os outros. Mas, no segundo dia do Ano Novo lunar deste ano, ele teve febre. A febre subiu rapidamente. Chamei o médico da vizinhança. "A febre está muito alta, pode virar pneumonia. Uma injeção de penicilina resolve", ele disse. Pensando em prevenir, mandei aplicar.
-
-O efeito do novo remédio foi imediato. A febre baixou, e ele dormiu profundamente. "Que remédio maravilhoso! A doença não é mais um problema. Pneumonia? Que nada!", pensei, e fui dormir tranquilo.
-
-Mas, de manhã, que susto! A febre havia passado, mas o rosto dele ao chorar era assustador. O olho esquerdo, aberto, sem piscar. O direito, fechado. A boca, torcida para a direita, como um "v" de cabeça para baixo. O lado direito do rosto chorava, o esquerdo, sem expressão, como o de uma boneca. Fiquei olhando, sem entender. A mudança foi tão grande que eu não sabia o que fazer.
-
-"O que vamos fazer?", minha esposa perguntou. A única solução era o médico. Sem nem tomar café, fomos ao médico. Ele balançou a cabeça. "É a primeira vez que vejo isso em uma criança. É o mesmo que a paralisia facial de um adulto. Com injeções, com o tempo, cura". E deu uma injeção.
-
-Fomos por dois ou três dias, mas fiquei com o coração na mão e o levei ao hospital central. Lá, ele foi diagnosticado com paralisia infantil. Todos os dias, faça chuva ou faça sol, era injeção subcutânea, injeção na medula, eletroterapia... De manhã, a criança já chorava. Doces, brinquedos... nada o consolava. "Não quero roupa bonita. Mãe, tira a roupa e me pega no colo...", "Só injeção na mão, não nas costas", ele implorava.
-
-Os pais que o levavam e a criança que era levada não aguentavam mais. Sem muito efeito, e com o custo das injeções e da eletroterapia, o hospital também se tornou um fardo. Um dia, perguntei ao médico. "As crianças que melhoram, melhoram em três ou cinco semanas. Se vier por um ano, talvez se cure. Mas não garanto", ele respondeu, sem me dar certeza. Desisti e parei de ir ao hospital.
-
-Naquela época, quando ele chorava ou ria, metade do rosto se contorcia, a fala era arrastada, e ele andava cambaleando.
-
-Foi então que eu, que sofria de dor de estômago há mais de dez anos, recebi Johrei do Sr. Maruyama, um membro da Igreja. Com uma única sessão, a dor diminuiu. Fui à Igreja. No segundo dia (30 de abril), falei sobre a doença de meu filho. "A minha dor de estômago, talvez se cure. Mas paralisia infantil, não", pensei. Mas, para minha surpresa, me disseram: "Cura sim. Traga-o amanhã".
-
-Naquele dia, a criança estava com diarreia. "Pelo menos a diarreia, talvez se cure", pensei, e o levei todos os dias. Meu estômago melhorava a cada dia. Comecei a acreditar que meu filho também se curaria.
-
-Em 3 de maio, tornei-me membro e recebi o sagrado Ohikari. De manhã, na Igreja, à noite, em casa, eu ministrava Johrei. Mas a diarreia da criança piorou, o corpo emagreceu, o rosto ficou pálido. Os vizinhos falavam pelas costas. Muitas vezes, duvidei. Mas o fato de que meu corpo estava melhorando era inegável. A dor de meu estômago diminuía a cada diarreia. Não podia negar a existência de Deus. As fezes da criança tinham um cheiro forte e estranho, um cheiro de remédio.
-
-"Vai se curar. Com certeza vai se curar", acreditei. E, para convencer minha mãe e minha esposa, falei sobre o perigo do `yakudoku`.
-
-Depois que ele piorou, o Reverendo Ogawa vinha todos os dias. Vendo a criança melhorar a cada Johrei, recuperar a cor e a força, e vendo a atitude do Mestre, sua sinceridade desinteressada, a família toda acreditou.
-
-Depois disso, os vizinhos, preocupados, diziam: "Os pais podem se curar com a fé, mas a criança, se não for ao médico, pode ser tarde demais. Avó, por que deixa isso acontecer?", ou "Mãe, você vai deixar uma criança tão doente morrer?". Muitas vezes, davam conselhos, mas nós não nos abalávamos.
-
-Houve uma época em que ele não conseguia chorar, nem se sentar. Eu colocava o ouvido em seu nariz para ver se estava vivo ou morto. Por dois ou três dias, ele pareceu estar entre a vida e a morte. Mas, quatro, cinco dias depois, sua voz ficou mais forte, seu rosto corou, e um mês depois, ele estava mais forte do que antes. A contorção do rosto diminuiu pela metade, a fala mudou completamente. E ele engordou, e seus movimentos se tornaram normais.
-
-No mês retrasado, ele teve uma purificação de fezes com sangue por três dias seguidos. Mas, mesmo com as fezes com sangue, ele corria e brincava. Ainda hoje, de vez em quando, ele tem uma purificação de diarreia. A cada vez, sua saúde melhora. A paralisia infantil foi completamente curada. Sua fala é como a de um adulto. Diante do Altar, ele agradece e reza.
-
-Vendo-o assim, o passado parece distante, como se tivesse acontecido ontem ou anteontem. A grande proteção, a graça de Meishu-Sama... sinto um nó na garganta, e as letras da Imagem Sagrada ficam turvas.
-
-Relatei aqui a graça que meu segundo filho, Y, recebeu, entre as muitas que recebi desde que me tornei membro.
-
-Meishu-Sama, muito obrigado.
-
-(18 de novembro de 1951)
-
-#### Paralisia infantil curada em apenas um mês — A grandiosidade do Johrei e a ineficácia da medicina
-
-**Den Inaba (30), Igreja Chu de Shomei, Koenji, Suginami, Tóquio**
-
-Tornei-me membro em 1949, quando ainda morava no interior. Em agosto de 1949, vim para cá e perdi o contato com a Sede do interior. E, como era novo em Tóquio e não sabia onde ficava a Igreja, acabei praticando a fé sozinho, e minha conexão com Meishu-Sama foi se enfraquecendo.
-
-Na noite de 28 de abril, Hiroshi, que estava bem, teve febre e começou a sofrer. Em uma única noite, sua perna direita ficou paralisada. Ele, que havia crescido saudável por três anos e meio... "Será que vai ficar deficiente para sempre?", pensei, e não dormi à noite. Pensando no futuro de meu filho, eu não conseguia comer. Olhando para a perna paralisada, a preocupação me consumia, o mundo escureceu, e eu me senti como se tivesse batido em um muro.
-
-Eu já havia recebido muitas e sublimes proteções, e, embora praticasse a fé sozinho, achava que era fervoroso. Mas, diante de uma grande purificação, a tristeza da fé solitária, a ansiedade, a dúvida... tudo veio à tona. Meu coração se agitou, e a dúvida surgiu. Mas, de um canto de meu coração, uma voz me dizia: "Não se deixe abater pela dúvida. Se se apegar com fervor, tudo ficará bem".
-
-Mas os vizinhos diziam em coro: "Pode ser paralisia infantil. É melhor levá-lo ao médico o mais rápido possível". E, ouvindo que "há quem tenha se curado", minha mente foi sendo tomada pelo espírito maligno. E, por fim, fui ao médico.
-
-O médico também diagnosticou paralisia infantil e deu uma injeção. Mas que medicina bárbara e cruel! Três ou quatro adultos segurando uma criança que chora, e aquela agulha assustadora sendo enfiada sem dó, como se fosse em um rabanete! A criança, no auge do terror, chora a ponto de perder o fôlego. Eu, que não aguentava ver aquilo, tive uma tontura e desmaiei.
-
-Quando a injeção acabou, Hiroshi, ainda apavorado, veio nos braços de minha esposa me acordar. "Que idiota eu fui, fazendo meu querido filho passar por isso!", pensei. E, pela primeira vez, percebi que a medicina jamais o faria andar. Mas, para ter certeza, perguntei ao médico:
-
-Eu: "Com esta injeção, ele vai se curar com certeza?".
-Médico: "Não posso afirmar, mas se o corpo dele aceitar, sim".
-Eu: "E se não aceitar?".
-Médico: "Aí, não há o que fazer".
-Eu: "E se aceitar, quantas injeções serão necessárias?".
-Médico: "Não posso dizer agora. Vamos observando e, quando acharmos que está bom, paramos".
-Eu: "Ah, entendi (naquele momento, senti a ignorância e a falta de rigor da medicina). Mas, mesmo assim, não será uma cura completa. O que fazemos depois?".
-Médico: "Depois, a única solução é continuar com a massagem, com paciência".
-
-Ouvindo isso, compreendi claramente a ineficácia da medicina moderna. "Agora, preciso me apegar a Meishu-Sama. Tenho que encontrar uma Igreja de qualquer maneira", pensei. E, que graça! A fé move montanhas. Por acaso, vi no jornal "Tokyo Shimbun" um artigo intitulado "Aos fiéis da Igreja da Salvação Mundial". O jornalista, muito atencioso, havia anotado até o endereço. E era a Igreja que procurávamos, a casa do Presidente da Igreja Chu de Shomei.
-
-Minha esposa recortou o artigo e foi procurá-la. Perguntou a duas pessoas no caminho e a encontrou sem dificuldade.
-
-A Imagem Sagrada, que eu não via há dez meses! Como uma criança que encontra a mãe no meio do campo, a alegria me tomou, e por um tempo, fiquei olhando, sem me mover, para os ideogramas de Daikomyo Nyorai. Esta emoção, esta alegria... só as lágrimas escorrendo pelo rosto. Uma alegria que só quem é membro pode sentir.
-
-Cumprimentei o Presidente da Igreja e os membros. As pessoas do caminho são todas iguais, em qualquer lugar. Pessoas de coração aberto e gentil. Embora fosse a primeira vez, senti uma intimidade como se os conhecesse há dez anos.
-
-Pedi ao Mestre para ver meu filho. "Fique tranquilo, ele será salvo. Com umas dez sessões de Johrei, ele vai andar", ele disse com simplicidade e firmeza. Ah, que palavras fortes e cheias de confiança! O médico, em quem a sociedade moderna tanto confia, não pôde dizer com certeza "vai se curar". Só quem serve a Deus pode falar assim, pensei, e me curvei diante do poder divino.
-
-"Ele vai ser salvo", "Agora está tudo bem", pensei, e entreguei tudo a Deus. Era 6 de maio, oito dias após a paralisia. Até então, em vez de melhorar, ele havia piorado com as injeções. Chorava de dor ao menor movimento e não conseguia nem urinar. Com uma única sessão de Johrei, naquela noite, ele não se queixou de dor e dormiu bem.
-
-Na segunda sessão, ele se sentou. Na terceira, ficou de pé. "Estou de pé, estou de pé!", ele dizia, feliz, e nós choramos de alegria com ele. Na quarta, ele começou a andar, segurando na janela. "Assim, ele vai andar antes da décima sessão!", minha esposa e eu nos alegramos. Na quinta, ele largou a janela e deu três ou quatro passos. "Ah, que bom!", pensamos, e a casa se iluminou. Como quando um bebê começa a andar, pais e filho ficamos encantados com a caminhada.
-
-Na sétima, ele já andava pela casa. "Hiroshi consegue andar!", ele dizia, feliz. Na oitava, nona, a cada vez, seus passos ficavam mais firmes. E, como o Mestre havia dito, ao final da décima sessão, ele mancava um pouco, mas já brincava com os amigos, de trem, de pega-pega, o dia todo.
-
-Que poder grandioso! A cada sessão, ele melhorava visivelmente. Fomos mais ou menos a cada dois dias e, em menos de um mês, ele estava assim, saudável, brincando sob o sol do início do verão, com o suor escorrendo pela testa.
-
-Olhando para trás, nossa família, que há um mês estava na escuridão, agora vive feliz e iluminada. Tudo graças a Meishu-Sama. E também agradeço profundamente ao Presidente da Igreja e a todos os membros pelo empenho.
-
-De agora em diante, quero levar este grande evangelho ao maior número possível de pessoas e retribuir, ainda que minimamente, a grande vontade divina.
-
-Movido pela alegria, e sem me importar com minha escrita humilde, relato aqui minha história.
-
-Meishu-Sama, muito obrigado.
-
-(27 de junho de 1952)
-
-#### Paralisia infantil generalizada, tida como incurável, cura-se em pouco tempo — um milagre
-
-**Fujiko Ebata (35), Igreja Chu de Nyoirin, Mie, Distrito de Ono, Província de Oita**
-
-Dois ou três dias antes, Kyoko pegou um resfriado forte. Fomos ao médico. "É coqueluche. A criança é pequena, tome muito cuidado", ele disse. Todos os dias, injeções e remédios. Ela se curou relativamente rápido, mas, depois disso, começou a ter febre alta e convulsões. Assustada, chamei o médico. Injeções, laxantes, enemas... de tudo.
-
-Kyoko, que até adoecer era gordinha e saudável, ficou com o corpo debilitado. As convulsões frequentes a deixaram sem forças. O rosto sempre pálido, a aparência de doente. Mas, para nossa surpresa, ela começou a andar cedo. Um ano depois do nascimento, já dava dois ou três passos e falava. Cinco, dez passos... olhando-a de costas, eu via que ela arrastava um pouco a perna direita, mas não me preocupei.
-
-Um mês depois, ela ainda andava do mesmo jeito. Sem avós e sendo minha primeira vez criando um filho, eu não sabia que o jeito dela andar era diferente. Assustada, levei-a a um médico local. "Falta cálcio", ele disse. Ou "Com o tempo, melhora". Preocupada, mas ocupada com os afazeres domésticos, deixei o tempo passar.
-
-Aos três anos, ela andava pior do que antes e balançava a cabeça. Levei-a imediatamente a um hospital em Beppu. "Vocês são parentes de sangue, por isso. Não há o que fazer, a não ser se conformar", disseram. Perdi a esperança de viver. Mas, tomando coragem, no dia seguinte fui ao Hospital Nacional de Kamegawa. Na pediatria, fizeram um raio-X. "Com injeções na medula, hidroterapia e massagem, ela vai melhorar", foi o diagnóstico.
-
-Começamos a frequentar o hospital. Mas, a cada injeção na medula, ela tinha febre e convulsões. Após cerca de oito meses, quando paramos, ela não andava mais. Perdeu a inteligência. A imagem da menina saudável que andava havia desaparecido. Gastamos tudo o que tínhamos com o médico, vendemos os pertences de meu marido, minhas roupas... e no final, ela se tornou uma deficiente que não podia ser vista.
-
-Eu queria me conformar, mas não conseguia. Tentei de tudo para curá-la. Depois disso, ela chorava muito, tinha febre e convulsões por qualquer coisa. Eu a tratava como se fosse de vidro.
-
-Três anos sem ir ao médico. "Que se dane. Você não precisa viver com um corpo assim. Morra, vá para junto de seu pai", eu dizia, com raiva. Eu me irritava e me sentia ressentida todos os dias. Em 1º de janeiro de 1951, Kyoko chorou o dia todo. Quando se acalmou, seu corpo estava mais deformado do que antes.
-
-Seria um aviso de nossos antepassados? No dia 11, minha tia, que mora nos fundos, veio e disse: "Há uma pessoa em casa que cura doenças passando as mãos. Por que não traz a Kyoko?". "De novo não", pensei. Mas levei Kyoko. E que surpresa! Era um jovem de dezoito ou dezenove anos, o Reverendo Sakurai. "Voltei do serviço divino em dezembro", ele disse, e, passando as mãos no rosto de Kyoko, falou sobre nossos antepassados.
-
-Após cerca de quarenta minutos, quando ofereceram maçãs, Kyoko pegou uma e a levou à boca. Ela nunca havia feito isso antes! Foi um milagre. "Como pode um milagre como este acontecer com uma única sessão de Johrei?", pensei, espantada.
-
-No dia seguinte, fui a Haya. O Reverendo Tomita nos falou do caminho. "Os mortos, por causa de seus pecados e máculas em vida, continuam a sofrer no Mundo Espiritual", ele disse. Vendo aquilo com meus próprios olhos, as lágrimas rolaram, e eu fiquei maravilhada.
-
-Fui todos os dias para receber Johrei. Kyoko começou a ter purificações. "O que foi colocado tem que sair. E assim ela se purifica", disse o Mestre. Continuei a ir. Uma semana depois, encontrei o Reverendo Tujiura, de Mie. Ouvi a história do caminho, e algo em meu coração se moveu. Queria receber o Ohikari o mais rápido possível. Pedi, e em 29 de janeiro, na Sede de Mie, recebi-o do Reverendo Tujiura. A alegria foi indescritível, e as lágrimas rolaram.
-
-Eu, que não gostava de sair de casa, depois de entrar no caminho, ir às reuniões se tornou minha maior alegria.
-
-O Sr. Oishi, da aldeia, disse: "Tenho asma, por favor, me ministre Johrei". Sem saber nada, pedi proteção a Komyo Nyorai-Sama e passei as mãos com fervor. O filho dele, que ia para o ensino médio, não conseguia ir à escola. E a mãe, por sessenta dias, passava as noites encostada em um futon enrolado. Com uma única sessão de Johrei, ela se sentiu melhor. Quando me agradeceram, eu, com alegria e gratidão, disse: "Meishu-Sama, muito obrigado".
-
-Kyoko teve várias purificações e ficou bem. Em julho, a mãe de meu marido teve uma purificação nos rins e caiu. O médico a desenganou. Pedi proteção e passei as mãos. Ela suou em bicas e recuperou a consciência. À noite, o Reverendo Ozuru veio, e ministramos Johrei juntos. Em cerca de uma semana, ela já podia se levantar. A família dizia: "Não sei se foi o médico ou o Johrei". Fui imediatamente à Igreja de Kiitsu para agradecer.
-
-Ouvindo a história, compreendi que eu tinha uma grande missão. E passei a desejar, como única alegria, que minha família compreendesse este caminho maravilhoso. Em setembro do ano passado, fomos atingidos pelo terrível tufão Ruth. Minha casa, às margens do rio Oita, logo se transformou em um mar de lama. Pedi com fervor a proteção de Meishu-Sama e de Komyo Nyorai-Sama. A água baixou, mas meus campos se tornaram um areal. Vendo a devastação, pensei: "Ah, com isso, a grande nuvem da família Kuge foi dissipada. Com isso, seremos purificados". A gratidão me encheu de lágrimas.
-
-A prefeitura distribuiu cloro para desinfetar a água do poço. Mas, em casa, recitei a Oração duas vezes em direção ao poço e ministrei Johrei por cerca de dez minutos. E, por quatro ou cinco dias seguidos, ministrei Johrei. Pegamos água de fora por apenas um dia. Depois, a água de nosso poço ficou limpa. Mas minha família, que é contra este caminho, não considerou um milagre, por mais proteção que recebêssemos.
-
-Para mim, que recebi tantas proteções, este tufão foi a chegada de uma primavera amena. Sentia-me mal por estar sempre dando trabalho e queria ir servir em algum lugar, me dedicar à Obra. No início de dezembro, fui à Sede. A esposa do Mestre, gentil como sempre, me ministrou Johrei e disse: "A Sede de Mie também precisa de uma serva. Se a Sra. Ebata fosse, seria ótimo". Meu coração se moveu.
-
-Com uma criança, não sei se consigo servir direito, mas pedi ao Reverendo Tomita e, no dia da cerimônia, 14, tive a honra de ir servir na Sede de Mie. Recebo a orientação especial da Presidente da Igreja, que é mais que uma mãe, e do Reverendo Abe.
-
-Com a luz forte e repentina, Kyoko e eu começamos a ter purificações. Dois dias antes de ir servir, Kyoko queimou gravemente a mão direita. Devem ser os antepassados que queriam vir. Coloquei imediatamente o papel sagrado e ministrei Johrei todos os dias. A ferida infeccionou, e saiu pus por cerca de vinte dias.
-
-Em janeiro, Kyoko também recebeu o Ohikari. Ela melhora a olhos vistos. No inverno, ela ficava grudada no aquecedor e mal se levantava. A fala era ininteligível, só eu entendia. Mas, com as purificações diárias, seu corpo, antes rígido como o de um morto, amoleceu. Kyoko, que dormia no Altar com um aquecedor, em apenas cinco meses, já consegue ficar de pé sozinha.
-
-A fala melhorou, e ela consegue dizer tudo. Antes, dormia muito pouco. Agora, dorme cerca de dez horas. Come muito. E, embora seja uma criança, baba muito e tem corrimento.
-
-Cinco meses de serviço. Vendo a mudança em Kyoko, com alegria e gratidão, sirvo com fervor e, como uma folha em branco, passo as mãos. Para mim, é uma grande colheita. O caminho de espinhos que percorri por sete anos foi resolvido em pouco mais de um ano. Agradeço a cada dia pela proteção.
-
-Mães que sofrem, a Igreja da Salvação Mundial não é uma religião maligna. É a verdadeira religião da salvação, que salva as pessoas perdidas em superstições e religiões malignas. Minha escrita humilde não consegue expressar tudo, mas espero que sirva de referência.
-
-Com gratidão, agradeço ao grande e misericordioso Meishu-Sama.
-
-Meishu-Sama, muito obrigado.
-
-(1º de junho de 1952)
-
-### Arteriosclerose e Hipertensão
-
-As causas da arteriosclerose e da hipertensão são semelhantes, mas não idênticas, e por isso as explicarei separadamente. A arteriosclerose ocorre quando o `yakudoku` se solidifica próximo a uma artéria, comprimindo-a, ou quando o sangue tóxico se acumula e solidifica em uma parte da artéria. Neste último caso, o nódulo tóxico se expande gradualmente, formando um aneurisma. Este sangue tóxico é causado pelo `yakudoku` e pela impureza do sangue decorrente do consumo de carne. Pacientes com esta condição, se pararem de tomar remédios e adotarem uma dieta vegetariana, se curam com surpreendente rapidez.
-
-A causa da hipertensão, por sua vez, são os nódulos sob a mandíbula. Pessoas com esta condição geralmente escrevem muito ou fazem trabalhos manuais minuciosos. Uma investigação revelará isso. A medicina considera a hipertensão um precursor do derrame, mas isso é um erro. Embora possa haver uma influência indireta, não há uma relação direta, e não há motivo para preocupação. Uma vez, uma pessoa com pressão de trezentos me procurou. O médico a havia alertado há seis anos, mas, como não podia parar de trabalhar, ela continuou e não sentiu nada. Ela trabalhava como calígrafa e tinha mais de sessenta anos. Eu lhe disse que não havia com o que se preocupar e que podia continuar a trabalhar.
-
-#### Salvo de arteriosclerose, tida como incurável
-
-**Kanichiro Nakamura, Igreja Chu de Eisho, Hirosawa, Hamamatsu, Província de Shizuoka**
-
-Com a alegria da salvação, e sem me importar com minha escrita humilde, agradeço a Meishu-Sama. Trabalhei por muitos anos na empresa de instrumentos musicais XX. No ano passado, no meio do trabalho, tive uma tontura. As crises se tornaram mais frequentes. Fui ao hospital da empresa e fui diagnosticado com arteriosclerose. Fui aconselhado a repousar e me afastar do trabalho. Meus dias se resumiam a ir ao hospital.
-
-Recebi injeções e tomei remédios por um bom tempo, mas não melhorei. Três ou quatro meses se passaram rapidamente. Como o hospital era da empresa, eu não tinha dificuldades financeiras, mas a tristeza de não poder trabalhar e a insônia que me atormentava todas as noites me consumiam. O sofrimento era indizível. Querendo me curar logo e voltar ao trabalho, eu seguia à risca as ordens do médico.
-
-Mas o resultado foi o oposto. A insônia piorou, e eu tinha tonturas ao menor esforço. Mesmo assim, a empresa me pagava o salário, que eu recebia na volta do hospital. Mas Deus não permitiria que alguém que não trabalha e não contribui para o mundo continuasse assim para sempre. A empresa perguntou ao médico sobre minha condição. "É arteriosclerose, não tem cura. Vamos observar por mais um tempo", ele disse. E eu entrei para a lista de demissão.
-
-Sabendo ou não disso, eu recebia meu salário mensal. Um dia, na volta, meu colega de trabalho, Yasutomo Suzuki, me disse: "Você está afastado há muito tempo, como está? ... Nessa situação... eu sou membro da Igreja da Salvação Mundial, acho que podemos dar um jeito". Agradeci sua gentileza e pedi que me ajudasse. No dia seguinte, ele veio à minha casa, me falou sobre o caminho e me ministrou Johrei. No outro dia, me levou à Igreja.
-
-O Mestre da Igreja apontou todos os pontos doentes no meu bulbo, pescoço, ombros e costas. Após o Johrei, ele me explicou tudo em detalhes. "Assim, com certeza vai se curar", ele disse com firmeza, e eu me senti fortalecido.
-
-Mas, ao voltar para casa, a dúvida surgiu. "Será que isso realmente cura? Abandonei os remédios, mas será que vai dar tudo certo?". No dia seguinte, não fui à Igreja. Fiquei dois ou três dias atordoado. E o gentil Sr. Suzuki apareceu novamente.
-
-Suzuki: "Como você se sentiu quando recebeu Johrei na Igreja? Foi muito bom?".
-Eu: "Foi ótimo, nunca me senti assim antes".
-Suzuki: "Então por que não continuou? Você se tratou com o médico tantas vezes e nunca se sentiu assim. Comparando, não acha que o Johrei pode te curar?".
-Eu: "É verdade, mas será que só passando as mãos assim, cura? E também, se eu não for ao hospital, fica ruim para mim na empresa. E preciso apresentar um atestado médico todo mês para receber o salário. Por causa disso, ainda não voltei à Igreja".
-Suzuki: "Ah, entendi. É compreensível. Eu também trabalho na empresa e tenho que seguir as regras".
-Eu: "Será que dá certo, fazendo as duas coisas? Será que Deus vai me proteger?".
-Suzuki: "Por enquanto, não há o que fazer. Talvez Deus permita por um tempo. Vamos consultar o Mestre mais uma vez".
-Eu: "Eu estava preocupado com isso e me senti mal de ir à Igreja, como se estivesse mentindo. Então, podemos ir agora e perguntar? Ha ha ha...".
-Suzuki: "Ah, era isso! Que medroso! Você é mais velho que eu, ha ha ha".
-
-A conversa se tornou descontraída. Fomos imediatamente à Igreja e perguntamos ao Mestre. Ele nos falou sobre a liberdade de ação de Deus. "Não podemos decidir o que é certo ou errado. Decidir as coisas de forma rígida é perigoso", ele disse. "Peça a Deus. Se for permitido, você receberá proteção. Se estiver errado, não receberá. Quando achar que algo é certo, peça e continue a receber Johrei".
-
-Naquela época, não havia outra opção. Comecei a receber Johrei todos os dias. Cada vez, muitas lágrimas escorriam de meus olhos, e eu precisava de um lenço para enxugá-las. Disseram-me que a grande quantidade de nódulos tóxicos no meu bulbo causava a insônia e as tonturas. Melhorei a cada dia e fiquei muito feliz.
-
-Cerca de uma semana depois, o Mestre me perguntou: "Sr. Nakamura, você já teve alguma doença e se tratou com um médico? Parece que há muitos nódulos". Na hora, não me lembrei, mas há muito tempo, caí de uma escada e bati a nuca e as costas com força, quase morri. Na época, fui ao médico apenas uma vez. Contei isso. "O sangue da contusão deve ter coagulado, e as toxinas do corpo se acumularam ali, causando a purificação", ele disse. Pensando bem, o local da contusão era o mesmo dos pontos doentes.
-
-A partir daí, minha insônia desapareceu. Agora, trabalho sem problemas. Se o Sr. Suzuki não tivesse me visitado pela segunda vez, eu ainda estaria sofrendo. Pensando no que teria acontecido se eu não tivesse recebido Johrei, não posso deixar de agradecer a salvação de Meishu-Sama. E não tenho palavras para agradecer ao Sr. Suzuki, que me guiou.
-
-Depois de melhorar, fui ao médico, contei minha situação e pedi um atestado para poder voltar ao trabalho. "A arteriosclerose não tem cura. Mesmo que você se sinta bem, não está curado. Não posso dar o atestado. Se acontecer algo no trabalho, a responsabilidade será minha, e a empresa terá problemas", ele disse, e não me deu o atestado.
-
-Eu podia fazer qualquer trabalho, mas me senti desamparado. A partir daquele momento, senti raiva da medicina. "Devo salvar outras pessoas que sofrem como eu", pensei. Recebi o Ohikari e me tornei membro.
-
-Dois meses depois, a empresa me chamou. "Você tem arteriosclerose, e o médico diz que não tem cura. E falta apenas um ano para sua aposentadoria. Que tal entrar na lista de demissão no final do ano? A indenização será maior do que o normal". Mas eu disse: "Eu estou bem, posso fazer qualquer coisa. Quero trabalhar". "Mas o médico diz que não há esperança. Se acontecer algo, teremos problemas", eles disseram, e, com essa desculpa, me demitiram.
-
-Mas eu fui salvo, compreendi o grande erro em que vivia e recebi o ensinamento de Deus para me dedicar a salvar as pessoas. Pensando que esta foi uma oportunidade para uma nova vida, uma nova esperança, sinto uma imensa gratidão. Rogo que me proteja para que eu possa salvar o maior número possível de pessoas e agradeço-lhe sinceramente.
-
-(16 de maio de 1952)
-
-#### Salva na véspera de uma cirurgia renal e a arteriosclerose de minha mãe também curada
-
-**Keiko Yoshida (21), Igreja Chu de Toko, Honcho, Kanegasaki, Distrito de Isawa, Província de Iwate**
-
-Com todo o respeito, agradeço. Peço desculpas pelo atraso no relatório. Poder trabalhar com saúde hoje parece um sonho. Lembro-me de que, há dois ou três anos, eu tinha problemas nos rins. Se me cansava um pouco, meu rosto inchava, minhas pernas ficavam pesadas, e eu me sentia muito mal.
-
-No final do ano retrasado, meu rim direito começou a doer de repente. Eu não conseguia ficar de
 
 ---
 

@@ -1,9 +1,945 @@
 # Mioshie_Teachings - Part 77
 
+# Coletânea de Teses do Mestre Okada Jikan
+
+**Categoria:** sasshi | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-04-20
+
+## Coletânea de Teses do Mestre Okada Jikan
+
+## O Método Divino de Saúde
+
+Coleção Jikan, Volume 10: ‘O Método Divino de Saúde’ — Publicado em 20 de abril de 1950
+
+### Prefácio
+
+Há mais de vinte anos, venho me dedicando à sagrada obra de salvação da humanidade; contudo, esta não foi uma iniciativa concebida ou planejada por minha própria consciência. Foi Deus quem me escolheu como instrumento para desvendar os erros, as injustiças e a ignorância subjacentes a todos os campos da cultura, incumbindo-me da missão de tudo retificar.
+
+Apesar do notável progresso da cultura moderna, que resplandece com um brilho ofuscante, no que tange à saúde — a maior causa da infelicidade humana —, não apenas permanecemos no mesmo patamar que os antigos, como, na realidade, retrocedemos. E o mais grave é que, não só ninguém questiona tal realidade, como muitos caem na falácia de acreditar que houve progresso, o que constitui um problema de enormes proporções.
+
+Observem: tuberculose, doenças infecciosas, crianças debilitadas, enfermidades mentais, paralisia infantil, parasitoses, esgotamento nervoso e tantas outras moléstias continuam a proliferar. Suas variedades, aliás, tendem a aumentar ano após ano. Se a falta de hospitais é uma queixa constante, eu pergunto: onde está o progresso da medicina? Em verdade, o autêntico avanço médico se manifestaria na diminuição anual dos tipos de enfermidades, na redução do número de pacientes internados, levando hospitais a dificuldades financeiras, e no declínio gradual da venda de medicamentos. Contudo, não se vislumbra nem sequer um fragmento dessa realidade. Ao contrário, o que se observa é o oposto, o que nos leva a concluir que o suposto progresso não passa de uma ilusão. Ademais, constata-se uma tendência de aumento no número de pessoas sem saúde, sem qualquer indício de redução.
+
+Refletindo criteriosamente sobre esses fatos, percebe-se que o progresso da medicina é meramente superficial e periférico; fomos apenas ofuscados pela beleza de sua aparência externa. Conforme mencionei, a medicina se distanciou de seu fundamento por milhas e milhas. A própria existência do termo “tratamento sintomático” na medicina é a maior prova disso. Tal método consiste em aplicar gelo para baixar a febre, administrar analgésicos para aliviar temporariamente a dor e remover cirurgicamente órgãos doentes. Em todos os casos, não passam de medidas paliativas, pois a verdadeira causa da doença permanece desconhecida. Sob nossa ótica, toda e qualquer enfermidade surge por uma causa específica. A missão primordial da medicina deveria ser, portanto, a descoberta dessa causa. No entanto, por não a terem encontrado, os médicos se veem forçados a recorrer a meios bárbaros, como a extração de órgãos. Sendo assim, isso não é arte médica, mas um mero método de alívio temporário do sofrimento. A verdadeira medicina, portanto, é aquela que remove apenas a doença em si, preservando intactos e em sua forma original os órgãos concedidos por Deus.
+
+Pois bem, não apenas tive êxito em descobrir essa autêntica arte médica, que parecia um sonho, como também venho obtendo resultados concretos dia após dia.
+
+Esta obra, nesse sentido, tem o propósito de elucidar o verdadeiro método de saúde, que me foi revelado, evidentemente, por indicação Divina.
+
+20 de março de 1950
+O Autor
+
+### A Falácia da Medicina
+
+Para dissertar sobre a saúde, é imperativo, antes de mais nada, apreender a real natureza da doença. Contudo, a interpretação da medicina moderna sobre as enfermidades incorre em um erro surpreendente. A maior prova disso é que, apesar de todo o alardeado progresso médico, a causa de um simples resfriado permanece desconhecida até hoje. A partir desse ponto, explicarei tudo em detalhes.
+
+A causa primordial das enfermidades é, na verdade, uma ação fisiológica natural, um princípio que se aplica a todas as coisas. Por exemplo, em tudo o que existe, tanto no plano material quanto no espiritual, acumulam-se impurezas. Proporcionalmente a esse acúmulo, surge uma atividade natural de purificação. É um princípio da Natureza que não admite a menor variação. Em grande escala, quando as impurezas se depositam entre o Céu e a Terra, ocorrem tempestades: o vento as varre, a chuva as lava e o sol as seca. Em pequena escala, quando a poeira se acumula em uma casa, usa-se um espanador, uma vassoura para varrê-la, joga-se no lixo, que, por sua vez, é reunido em um local para ser incinerado.
+
+O mesmo se aplica ao corpo humano. Por diversas causas, impurezas acumulam-se no espírito e na carne, gerando uma ação purificadora natural: a doença. A maior evidência disso é a febre que surge com o início da purificação. As toxinas acumuladas solidificam-se com o tempo, e o calor serve para dissolver essa solidificação. Uma vez dissolvidas e liquefeitas, as toxinas são expelidas do corpo através do escarro, da coriza, do suor, da urina, da diarreia, etc. Todavia, como esse processo de purificação é acompanhado de sofrimento, a esse sofrimento deu-se o nome de doença.
+
+Portanto, por meio desse processo, o corpo se purifica e a saúde aumenta. A doença nada mais é que uma ação fisiológica natural para o aprimoramento da saúde, sendo, pois, algo extremamente benéfico. Deveríamos considerá-la a maior das graças de Deus.
+
+Como esse significado permaneceu completamente ignorado até hoje, interpretou-se o fenômeno de maneira oposta, e dessa interpretação nasceu a medicina moderna. É um equívoco de proporções inimagináveis, e o fato de que, por tanto tempo, ninguém sequer tenha se dado conta disso, é, no mínimo, assombroso. Quando penso nos bilhões de vidas preciosas que foram sacrificadas por essa razão, não posso deixar de sentir uma profunda consternação. Partindo de uma premissa tão falaciosa, é natural que, quanto mais a medicina avança, mais ela se aprofunda no caminho equivocado, afastando-se cada vez mais da via correta. A discrepância entre a teoria médica e a realidade é gritante. Diante disso, os que vivem na ignorância acreditam que, para resolver o problema, é preciso fazer a medicina progredir ainda mais, e assim se esforçam e se dedicam com afinco, o que agrava enormemente a situação. Ah, que tragédia! Ao contemplar essa realidade, se a descoberta desse erro não tivesse ocorrido, qual não seria o futuro da humanidade? É algo verdadeiramente impossível de prever. A seguir, passarei a explicar essa teoria em detalhes.
+
+(Nota) 転た (utata): cada vez mais, progressivamente. Indica um avanço acentuado que se desvia do estado normal.
+
+### A Verdade sobre a Saúde
+
+Para dissertar sobre a saúde, a primeira coisa a se compreender é que a essência da saúde reside na adaptação e no respeito à Natureza. Nesse sentido, devemos primeiramente refletir sobre qual é o objetivo do Criador, ou seja, de Deus, ao criar o ser humano. Segundo nossa interpretação, o objetivo é a criação de um mundo pleno de Verdade, Bem e Belo. É provável que uma teoria de tão grande envergadura não seja facilmente aceita. Naturalmente, não se sabe se a concretização de um mundo ideal como esse levará dezenas de milhares, centenas de milhares ou milhões de anos. Contudo, ao observar o fato irrefutável de que o mundo, ao longo da história, vem avançando e evoluindo passo a passo nessa direção, torna-se impossível negá-lo. A realidade é que Deus é espírito e o ser humano é matéria, e ambos, em mútua colaboração, caminham rumo a um progresso infinito. E é desnecessário dizer que o ser humano é o responsável por essa tarefa.
+
+Sendo assim, a responsabilidade do ser humano é imensa. Ao mesmo tempo, a condição primordial para a execução dessa grandiosa obra é a saúde. Nesse sentido, é natural que Deus tenha concedido a cada pessoa uma missão e a saúde necessária para cumpri-la, pois, se a saúde for prejudicada, o objetivo de Deus não poderá ser alcançado. Se partirmos desse princípio e refletirmos profundamente, concluiremos que a saúde deve ser o estado original e normal do ser humano. No entanto, misteriosamente, as pessoas são facilmente acometidas por doenças, ou seja, entram em um estado anormal. Portanto, se a causa fundamental desse fato for esclarecida e o corpo anormal for restaurado à sua condição normal, estaremos agindo em conformidade com o propósito de Deus.
+
+Sob essa ótica, ao investigarmos a anormalidade do corpo humano, o que descobrimos? Descobrimos, antes de tudo, que ela se deve a uma violação da Natureza. Portanto, a verdadeira medicina consiste em apreender a realidade dessa antinaturalidade, corrigi-la e restaurar o estado normal. A possibilidade de tal restauração é o que define a medicina correta. A seguir, explicarei em detalhes o que constitui essa antinaturalidade.
+
+Ao nascer nesta terra, o ser humano alimenta-se inicialmente de leite materno ou animal, pois seus dentes ainda não nasceram e seu sistema digestivo é frágil e recém-formado. Gradualmente, à medida que os dentes se desenvolvem e as funções internas amadurecem, ele passa a ingerir alimentos adequados a essa nova fase. Existem inúmeros tipos de alimentos, cada um com seu sabor característico, e o corpo humano foi dotado do paladar para que possa se alimentar com prazer. Além disso, o ar, o fogo e a água existem na medida exata necessária à saúde humana. Tudo foi criado de forma absolutamente perfeita. Do cérebro humano nascem a razão, a memória e a emoção; com as mãos, criam-se objetos; com os pés, o corpo se move livremente. Cabelos, pele, unhas, olhos, nariz, boca, ouvidos — tudo o que é necessário está perfeitamente provido. Acrescente-se a isso a pele, que envolve o corpo do rosto aos pés, manifestando a beleza de cada um. Mesmo em uma análise superficial, vemos essa perfeição. Ao examiná-la em detalhe, deparamo-nos com uma proeza da Criação que as palavras não podem expressar. Uma única flor, uma única folha, a beleza das paisagens, até o menor dos pássaros, feras, insetos e peixes — somos forçados a nos maravilhar com a genialidade da obra Divina. O ser humano, em particular, é a obra-prima do Criador. Especialmente o mecanismo sublime da reprodução, que garante a preservação da espécie, está além de qualquer descrição. Sendo o corpo humano uma obra-prima de Deus, devemos refletir sobre o quão antinatural é o erro que cometemos para que ocorra uma anomalia como a doença, que impede a atividade humana. Como seres humanos, é sobre isso que mais devemos refletir.
+
+### O Ser Humano, um Recipiente de Saúde
+
+É comum ouvir-se desde a antiguidade que o ser humano é um recipiente de doenças, mas não há afirmação mais equivocada. Nós a corrigimos, dizendo que o ser humano é um recipiente de saúde, pois, como expliquei no item anterior, ele foi originalmente criado para ser saudável. Na realidade, porém, a doença parece ser inerente ao ser humano, um problema que não conseguimos resolver, e acabamos por nos resignar a ela como se fosse nosso destino. De fato, uma vez que se adoece, a cura nem sempre é simples. A doença pode se prolongar, ocorrer com frequência, e para algumas pessoas, o tempo que passam doentes chega a ser maior do que o tempo que passam sadias. Por isso, é natural que pensem ser um recipiente de doenças. Foi a persistência desse estado por longo tempo que provavelmente deu origem a essa expressão. Isso se deve ao fato de que a verdadeira natureza da doença era desconhecida. Assim, era inevitável que tanto a doença quanto a morte fossem consideradas destinos inescapáveis. A resignação de Shakyamuni perante o nascimento, a doença, a velhice e a morte deriva daí. Atualmente, fala-se em medicina preventiva, mas isso me parece um recurso desesperado, nascido da incapacidade de curar facilmente uma doença já instalada. Afinal, se a medicina tivesse a capacidade absoluta de curar, a medicina preventiva seria inconcebível.
+
+Retornemos, agora, ao tema principal. Explicarei em que pontos reside a antinaturalidade, que é a causa das doenças. Em primeiro lugar, quando uma pessoa adoece, o único recurso utilizado é o medicamento, e este é o erro fundamental. Os medicamentos, na medicina oriental, são extraídos de raízes, cascas de árvores, e na ocidental, de minerais, plantas, etc. Isso é fundamentalmente antinatural. Pensem bem: as propriedades desses medicamentos, sem exceção, possuem sabores amargos, odores fortes, acidez, entre outros, que são repelidos pelo ser humano. O antigo ditado “tomar algo para tirar o gosto do remédio” ilustra bem essa realidade. Devemos nos perguntar por que eles são tão difíceis de ingerir. A resposta é que Deus nos indica que não devemos tomá-los, pois são tóxicos. O ópio, um analgésico usado para aliviar a dor, é extraído da flor da papoula. Originalmente, a papoula foi criada por Deus para o deleite dos olhos humanos, e não para ser ingerida. A penicilina, um dos medicamentos em voga atualmente, tem como matéria-prima o mofo de plantas, mas este também não foi criado para ser levado à boca. Sua finalidade é embelezar pedras e a terra.
+
+Segundo esse princípio, todos os alimentos foram criados para se adequarem ao paladar humano, e basta que os comamos. Isso é o natural. Discussões sobre o que tem ou não valor nutritivo são, obviamente, um equívoco. Todos os alimentos, embora apresentem pequenas diferenças de acordo com o clima e as características de cada região, são produzidos para se adequarem às pessoas que ali nasceram. O fato de os povos de pele amarela comerem arroz e os de pele branca comerem trigo é um exemplo disso. O Japão ser um país insular significa que devemos consumir mais peixe, enquanto os povos continentais consomem mais carne, e isso está correto. Sob essa ótica, a alimentação vegetariana dos agricultores também se adequa à Natureza. O fato de eles poderem suportar o trabalho ininterrupto vinte e quatro horas por dia se deve à adequação da dieta vegetariana. A nutrição, desconhecendo esse princípio, recentemente tenta fazer com que os agricultores comam peixe e carne, mas se o fizerem, sua capacidade de trabalho diminuirá. Em contrapartida, os pescadores, por comerem peixe, não conseguem realizar trabalhos contínuos; trabalham de forma intermitente. Além disso, o consumo de peixe aumenta a sensibilidade, o que é adequado à pesca. A Natureza é, de fato, perfeitamente concebida.
+
+Até aqui, esbocei de forma geral a falácia antinatural dos medicamentos e da alimentação. A seguir, explicarei gradualmente o princípio fundamental que levou ao uso de medicamentos, apesar de sua toxicidade.
+
+### Saúde Verdadeira e Pseudo-Saúde
+
+Como mencionado anteriormente, a medicina, tendo partido de uma premissa equivocada, desconhece por completo tanto a verdadeira causa da doença quanto a essência da saúde. Suas explicações sobre a patologia não passam de meras conjecturas. A medicina chinesa, por exemplo, atribui a doença à desarmonia dos cinco órgãos e das seis vísceras, enquanto a medicina ocidental a atribui à “invasão de micróbios”. Sob nossa ótica, a primeira teoria está invertida. Se os cinco órgãos e as seis vísceras estivessem em desarmonia, não haveria força para gerar a ação purificadora, e, portanto, a doença não se manifestaria. Quanto à segunda, a invasão de micro-organismos, embora tenha um fundo de verdade, não é a única causa das doenças; existem muitas outras que não têm relação com micróbios. Ademais, o fato de a invasão de micróbios desencadear uma doença significa que o corpo não está verdadeiramente saudável. Em um corpo genuinamente saudável, mesmo que os micróbios o invadam, a doença não se manifestaria.
+
+Nos dias de hoje, teme-se enormemente os micróbios e empregam-se todos os tipos de métodos para preveni-los. Isso ocorre porque são poucas as pessoas com saúde verdadeira, e a grande maioria adoece por invasão microbiana. Nós distinguimos essas duas condições, chamando a primeira de saúde verdadeira e a segunda de pseudo-saúde. Explicarei agora por que surge essa distinção.
+
+Conforme exposto no item anterior, quando a ação purificadora natural se manifesta, a medicina, por interpretá-la de maneira oposta, considera correto suprimi-la ao máximo e utiliza todos os meios para isso. A manifestação da purificação é, na verdade, um sinal de que a pessoa está saudável; se estivesse debilitada, a força purificadora não surgiria. É como em uma casa: se poeira e lixo se acumulam, os moradores saudáveis conseguem fazer a limpeza, mas se todos estiverem doentes, a limpeza não pode ser feita. Evidentemente, a ação purificadora é acompanhada de sofrimento. Interpretando isso erroneamente e temendo que seja o início de uma doença grave, busca-se detê-la o mais rápido possível. Para isso, é preciso enfraquecer a força purificadora, o que requer a debilitação do corpo. O primeiro recurso é o medicamento. Em sua essência, não existe remédio; tudo é veneno. Os farmacologistas sabem bem disso. Assim, tenta-se debilitar o corpo através do veneno. O fato de as injeções estarem em voga se deve a isso. Como o veneno é forte, ingeri-lo causaria intoxicação, então ele é injetado através da pele. Além disso, o repouso absoluto, as compressas de gelo e os emplastros são todos métodos de debilitação. A radioterapia, por sua vez, solidifica novamente as toxinas que começaram a se dissolver, tornando-as ainda mais rígidas do que antes.
+
+Por meio de todos esses métodos de debilitação, a purificação, conforme o esperado, enfraquece, e as toxinas retornam ao seu estado de solidificação anterior, fazendo com que o sofrimento temporário desapareça. Isso é confundido com a cura da doença. Contudo, a prova de que não se trata de cura é que, após algum tempo, a doença reaparece. Isso ocorre porque as toxinas que haviam se solidificado voltam a sofrer a ação purificadora com a recuperação da saúde. Então, recorre-se novamente aos métodos de debilitação, ou seja, ao uso de venenos medicamentosos, que se acumulam progressivamente.
+
+Explicarei brevemente sobre as toxinas medicamentosas. Se, como afirmei, a causa da doença é a ação purificadora sobre toxinas solidificadas, o que são, afinal, essas toxinas? Para nossa surpresa, são quase que inteiramente toxinas de medicamentos. As toxinas congênitas são as herdadas de ancestrais e pais, enquanto as toxinas adquiridas são os medicamentos ingeridos após o nascimento. Com o acréscimo das toxinas adquiridas às congênitas, a quantidade de toxinas aumenta gradualmente, transformando a pessoa em uma portadora de grande volume de toxinas. Como resultado, ocorre uma grande purificação de uma só vez, que é a causa da pneumonia, da encefalite, de todos os tipos de tumores e de diversas doenças graves e de difícil tratamento. No entanto, a medicina, invariavelmente, considera correto deter a purificação e aplica seus métodos de debilitação. Nesse caso, para que surtam efeito, é preciso um método de debilitação muito potente. A medicina comprova bem esse ponto. Os medicamentos de efeito rápido para pneumonia são um exemplo. Nessas ocasiões, os médicos costumam dizer que, se tudo correr bem, o remédio, por ser muito eficaz, pode curar em pouco tempo, mas se não correr bem, pode levar à morte. A razão é que, para deter uma purificação violenta, é necessário um medicamento tão tóxico que ponha a própria vida em risco.
+
+Com base no exposto, creio que ficou claro que a doença é uma ação purificadora e que o tratamento médico é um método para detê-la. Em suma, o tratamento médico é um método para não curar a doença, e o progresso da medicina é o progresso de métodos que não curam. Fica evidente quando vemos que os médicos não dizem que curam a doença, mas que a “solidificam”. E para solidificá-la, como já mencionado, aplicam-se métodos de debilitação, como evitar esforços, não se resfriar, cuidar-se, dormir o suficiente e usar medicamentos sempre que possível. Essa é a saúde passiva. Como resultado do enfraquecimento da purificação, a ocorrência de doenças diminui, o que foi erroneamente interpretado como um método de saúde, dando origem à medicina preventiva de hoje.
+
+Nós chamamos os portadores dessa saúde passiva de pseudo-saudáveis. Os intelectuais pálidos e as crianças de constituição linfática de hoje são exemplos representativos desse tipo. Sobretudo, são os que seguem fielmente a higiene e a medicina atuais os que mais se enquadram nessa categoria. Quando um micróbio invade um desses pseudo-saudáveis, a doença invariavelmente se manifesta, pondo a vida em risco. Essa é também a causa do medo extremo que se tem dos micróbios hoje em dia.
+
+Em contrapartida, a Medicina Espiritual Divina que descobrimos é totalmente oposta. Quando a doença se manifesta, intensificamos a purificação para que as impurezas sejam expelidas do corpo o mais rápido possível. Consequentemente, a cura é verdadeira e completa, e a saúde após a recuperação é maior do que antes da doença. Naturalmente, a pessoa se torna um corpo saudável no qual, mesmo que os micróbios invadam, a doença não se manifesta. Essa é a saúde verdadeira. A maior prova disso é que, após alguns anos de ingresso em nossa fé, os micróbios deixam de ser um problema, pois não há risco de contágio. Tal felicidade é uma dádiva de Deus concedida unicamente a nós.
+
+Creio que compreenderão que a descoberta de uma arte médica tão autêntica é o princípio fundamental para a salvação da humanidade.
+
+### Yakudoku (観音)
+
+Como vimos no item anterior, até hoje, desconhecendo-se a natureza purificadora da doença, concentrou-se apenas em solidificá-la. Solidificar, obviamente, significa fazer com que as toxinas retornem ao estado anterior à purificação. Visto com os olhos de quem conhece a verdade, tal procedimento se resume a uma única palavra: estupidez. Confundiu-se o método de cura com o esforço diligente para impedir que a Natureza expelisse as toxinas, o que é o exato oposto do que deveria ser feito. Portanto, a medicina, até hoje, empenhou-se arduamente para que as pessoas não se tornassem saudáveis.
+
+Mas como se chegou a tal equívoco? Como a purificação é acompanhada de sofrimento, o uso de medicamentos aliviava um pouco essa dor, o que levou à crença de que isso curava a doença. Em suma, ofuscados por um efeito temporário, os médicos, sem se darem conta, desviaram-se do verdadeiro caminho da medicina e assim permaneceram até hoje. Por isso, era natural que considerassem os medicamentos como o único recurso.
+
+A medicina, tendo avançado por tanto tempo com base nos medicamentos, não é a verdadeira arte médica. Por isso, as doenças parecem que vão sarar, mas não saram, e novos remédios surgem incessantemente. Como resultado, a variedade de medicamentos hoje existentes deve chegar a centenas, talvez milhares. E o fato de que novos remédios continuam a aparecer sem cessar ilustra bem essa realidade.
+
+Como a medicina caiu na superstição dos medicamentos, hoje, quando explicamos que a causa das doenças são os próprios medicamentos, a ideia é tão inesperada que as pessoas simplesmente não conseguem acreditar.
+
+É comum ouvir de pacientes crônicos a frase: "Por mais que eu tome remédios e injeções, não fazem efeito algum". Sempre que ouço isso, respondo da seguinte forma: "Dizer que os remédios não fazem efeito é um tremendo engano. Se não fizessem efeito, não haveria com o que se preocupar. A verdade é que eles fazem efeito até demais. O problema é que o efeito não é bom, é ruim. Ou seja, os remédios criam doenças. Se a humanidade parasse de usar medicamentos, as doenças desapareceriam". Se assim for, não haverá na história da humanidade questão mais surpreendente e de maior magnitude. Por isso, acredito que conscientizar as pessoas sobre o *yakudoku* (薬毒) é o primeiro passo para a salvação da humanidade, e por isso o explico exaustivamente.
+
+Portanto, não existe um único remédio neste planeta. Tudo é veneno. Um remédio é considerado tanto mais eficaz quanto mais forte for o veneno que, ao debilitar o corpo, interrompe a purificação. Costumo dizer que não há segredo para ganhar dinheiro fabricando novos remédios: basta criar um veneno forte, que não chegue a matar. Por ser eficaz, será considerado de grande efeito, e com certeza se tornará um medicamento popular. Com base nesse princípio, ouso afirmar que, por mais que novos remédios surjam no futuro, não haverá um único que possa curar verdadeiramente as doenças. As injeções estão em voga ultimamente porque são venenos tão potentes que, se ingeridos, causariam intoxicação. Por isso, são mais eficazes que os remédios orais.
+
+E qual é o resultado do alívio temporário do sofrimento causado pelo *yakudoku* (薬毒)? Esse veneno medicamentoso permanece no corpo. A medicina alega que, embora existam medicamentos com efeitos colaterais, as toxinas medicamentosas se dissipam por completo, mas não há erro maior. Isso se deve ao fato de que a medicina ainda não progrediu ao ponto de descobrir o *yakudoku* (薬毒). As funções digestivas do corpo humano foram projetadas para processar apenas os alimentos concedidos pela Natureza; substâncias estranhas não são processadas. A maravilha da Criação se resume a uma palavra: natural. Sendo uma substância estranha que não pode ser processada, o *yakudoku* (薬毒) permanece quase que integralmente no corpo. Com o passar do tempo, ele se acumula e se solidifica em diversas partes, tornando-se a causa de todas as doenças.
+
+Fica evidente quando observamos que, quanto mais tratamentos médicos se recebe, mais as doenças aumentam e pioram. A ocorrência de doenças secundárias também se deve a isso. Ou seja, ao tentar curar uma doença, surgem duas, depois três. Os próprios médicos devem vivenciar isso constantemente. Se os medicamentos realmente curassem, a ordem não deveria ser de três doenças para duas, de duas para uma e de uma para zero? É verdadeiramente espantoso que não tenham percebido algo tão óbvio até hoje.
+
+Por essa razão, quando se adoece, se deixarmos a doença seguir seu curso, na maioria dos casos ela se cura. Se a cura não é fácil, é porque há grande quantidade de *yakudoku* (薬毒). Nesses casos, com paciência, a cura gradual é o curso natural. No entanto, a medicina, desconhecendo esse princípio, quanto mais se esforça para curar artificialmente, mais obtém o efeito contrário, levando o paciente a um estado cada vez mais grave, até a morte.
+
+Ah, como descrever o erro da medicina? Não há palavras. É incalculável quantos bilhões de seres humanos foram sacrificados ao longo de milhares de anos por desconhecerem esse princípio. O fato de eu ter feito essa descoberta significa que chegou o tempo em que Deus, para salvar a humanidade, a revelou por meu intermédio. Isso significa que o mundo sem doenças, ideal da humanidade, finalmente se realizará.
+
+### A Comédia da Nutrição
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 13, de 18 de junho de 1949.*
+
+“A Comédia da Nutrição” — muitos devem achar este título bastante estranho. Eu mesmo não gostaria de usar tal expressão, mas, não encontrando outra mais adequada, peço a compreensão dos leitores.
+
+A ciência da nutrição, na qual hoje se acredita e se pratica sem a menor dúvida, nada mais é do que uma completa falácia. E embora essa ciência nutricional equivocada seja uma existência prejudicial e inútil, ela é amplamente difundida como se fosse um dos aspectos mais avançados da cultura. O esforço e o custo despendidos com isso são tão imensos que é de se lamentar. A razão pela qual apresento uma teoria tão audaciosa e que pode me fazer parecer um louco é que simplesmente não posso permanecer em silêncio diante da situação atual. A seguir, tentarei explicar com o máximo de detalhes possível.
+
+Hoje, entre os nutrientes, as vitaminas A, B, C ocupam o trono, seguidas por aminoácidos, glicogênio, carboidratos, gorduras, proteínas e uma vasta gama de outras substâncias. Como todos sabem, os tipos de vitaminas aumentam a cada ano. Quando ingeridos ou injetados no corpo, produzem um efeito temporário, mas sem durabilidade. No final, o efeito é reverso, de modo que, quanto mais nutrientes se consome, mais o corpo se debilita.
+
+Qual a razão disso? O ser humano ingere alimentos para manter a vida e manifestar sua vitalidade. Isso não requer maiores explicações. O problema é que a interpretação da ciência atual sobre este ponto diverge da realidade.
+
+Vejamos: quando uma pessoa ingere alimentos, eles são mastigados pelos dentes, passam pelo esôfago, chegam ao estômago e descem para o intestino. As partes desnecessárias são expelidas como fezes e urina, e apenas as necessárias são absorvidas. Durante esse processo, a atividade de todas as funções nutritivas — fígado, vesícula biliar, rins, pâncreas, etc. — produz, extrai e distribui os nutrientes necessários para o sangue, músculos, ossos, pele, cabelo, dentes, unhas e todas as outras funções. É uma atividade insondável que sustenta a vida, uma maravilha da Criação tão misteriosa e sutil que não pode ser expressa em palavras. Esta é a verdadeira face da Natureza.
+
+Os nutrientes necessários para a vida humana estão contidos em todos os alimentos. A imensa variedade de alimentos existe porque cada um serve como fonte de nutrientes necessários. O fato de o paladar e a quantidade variarem de pessoa para pessoa e de acordo com a ocasião, e de os tipos de alimentos não serem os mesmos, deve-se às necessidades do corpo que os recebe. Por exemplo, quando se tem fome, come-se; quando se tem sede, bebe-se; quando se deseja algo doce, é porque falta açúcar; quando se deseja algo salgado, é porque falta sal. A necessidade natural do ser humano explica bem esse princípio. Acima de tudo, o que o ser humano deseja é sempre saboroso. Por isso, percebe-se quão errado é forçar-se a comer algo sem sabor, que não se tem vontade, sob o pretexto de ser um remédio. O antigo ditado “o bom remédio é amargo na boca” mostra o quão equivocado se estava. O amargor é um sinal do Criador de que algo é tóxico e não deve ser ingerido.
+
+Por esse princípio, quanto mais saboroso, mais nutritivo. O sabor indica que a energia espiritual do alimento é densa e que há mais nutrientes. O fato de peixes e vegetais serem mais saborosos quando frescos se deve à densidade de sua energia espiritual; com o tempo, o sabor diminui porque essa energia se dissipa.
+
+Agora, explicarei sobre os suplementos nutricionais. As funções nutritivas do corpo são capazes de produzir a quantidade exata de nutrientes necessários — sejam vitaminas ou qualquer outra coisa — a partir de qualquer alimento, de forma livre e espontânea. Ou seja, mesmo de um alimento que não contenha vitaminas, o poder misterioso das funções nutritivas produz a quantidade necessária delas. O processo de produzir nutrientes a partir dos alimentos, essa atividade em si, é a força vital humana. Em outras palavras, a atividade de transformar uma substância inacabada em uma substância completa é a própria vida.
+
+Seguindo essa lógica, ao ingerir um suplemento nutricional, que é uma substância já completa, as funções de produção de nutrientes do corpo não têm o que fazer e, naturalmente, atrofiam. Se as funções nutritivas atrofiam, é natural que as outras funções, que têm uma responsabilidade solidária, também atrofiem, e o corpo se enfraqueça gradualmente. Darei dois ou três exemplos.
+
+Houve um método alimentar popular nos Estados Unidos chamado Fletcherismo. Ele preconizava mastigar os alimentos o máximo possível, até que se tornassem pastosos. Eu o pratiquei rigorosamente por um mês. No entanto, minha força física foi diminuindo gradualmente, e eu não conseguia mais ter a energia que desejava. Surpreso, abandonei o método e voltei a comer normalmente, e minha força se restabeleceu. Foi então que percebi o quão errada era a ideia de mastigar bem. A razão é que, se os dentes fazem todo o trabalho de mastigação, não há o que o estômago fazer, e ele se enfraquece. Assim, aprendi que o ideal é mastigar os alimentos pela metade. Desde a antiguidade se diz que quem come e defeca rápido é saudável. Nesse ponto, as pessoas de antigamente eram mais evoluídas que os intelectuais modernos.
+
+Tomar remédios digestivos também enfraquece o estômago, pois diminui sua atividade. Consequentemente, a pessoa toma mais remédio, e o estômago enfraquece ainda mais. É um fato inegável que a causa das doenças gástricas é o uso de remédios para o estômago. É comum ouvir histórias de pacientes com problemas gastrointestinais crônicos que não melhoravam comendo alimentos de fácil digestão, mas que se curaram ao comerem, por acaso, arroz com chá e conservas.
+
+Como mencionei, comer alimentos inacabados e transformá-los em nutrientes completos — essa atividade é a força vital humana. Façamos uma analogia com uma fábrica de máquinas. Primeiro, as matérias-primas são levadas para a fábrica. A fábrica queima carvão, move as máquinas, os operários trabalham e, gradualmente, as máquinas completas são produzidas. Esse processo é a razão de ser da fábrica. Se, ao contrário, levarmos máquinas já prontas para a fábrica, não haverá necessidade de trabalho. O carvão não será queimado, as máquinas não serão movidas e os operários serão dispensados. A única opção será fechar a fábrica.
+
+Tentei explicar da forma mais clara possível. Se pensarmos com base nesse princípio, gastar uma grande quantia de dinheiro com suplementos nutricionais sem sabor algum, para, ao contrário, enfraquecer o corpo, é uma tolice que só pode ser descrita como uma comédia. Eis o porquê do título peculiar.
+
+(Nota) Fletcherismo: Proposta feita em 1899 pelo comerciante americano Horace Fletcher de “mastigar bem os alimentos”. Fletcher era tão obeso que não conseguiu fazer um seguro de vida. Estimulado por isso, ele praticou um método de saúde focado em mastigar bem para reduzir sua ingestão calórica para cerca de 1600 calorias. Na década de 1930, devido à situação alimentar do Japão na época, “a importância de mastigar bem os alimentos” tornou-se um slogan nacional e uma moda, mas sua origem é um método para prevenir a obesidade.
+
+### O que Aprendi com os Relatos de Graças
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 36, de 19 de novembro de 1949.*
+
+Os relatos de graças publicados até hoje em nossas publicações devem chegar a mais de mil e setecentos, e a tendência é de que aumentem cada vez mais. Isso por si só comprova, de forma irrefutável, a eficácia extraordinária da terapia pela fé, que é uma característica única de nossa Igreja. No entanto, há aqui um ponto sobre os méritos e deméritos da medicina que não pode ser ignorado.
+
+É verdade que ninguém desconhece o fato de que as nações civilizadas se regozijam com os benefícios do progresso da medicina moderna, confiando nela sem qualquer dúvida. No entanto, nossa atitude de expressar opiniões francas sobre a medicina, que ocupa uma posição inabalável de suma importância na cultura, é algo quase sem precedentes. É claro que, se a medicina moderna, como se acredita, produzisse efeitos precisos e fosse verdadeiramente útil para a saúde humana, por que nos daríamos ao trabalho de empunhar a pena da crítica? E isso em uma situação em que, de acordo com as leis vigentes, corremos até o risco de sermos acusados de obstrução à prática médica.
+
+Contudo, quanto mais aprofundamos nossa pesquisa na prática, com base na medicina concedida por Deus, mais sentimos o quanto a medicina moderna avança por um caminho equivocado. Portanto, enquanto não se despertar para esse fato, por mais que a medicina se esforce e se aprimore, do ponto de vista dos resultados, não haverá progresso algum; ela continuará a andar em círculos, como tem feito há séculos. A prova maior é a proliferação de doentes e o mau estado de saúde que vemos atualmente. É comum observarmos que, enquanto uma doença diminui, outra, nova, surge em seu lugar.
+
+Isso ocorre porque existe um grande erro latente na base da medicina. Em contrapartida, a eficácia de nossa terapia espiritual divina na prática é demonstrada pelos relatos de graças, que são uma realidade viva. Não há prova mais contundente do que essa, pois, sendo escritos pelos próprios beneficiados, não há margem para a menor dúvida.
+
+Ao lermos os relatos de graças, o que nos surpreende é o fato de que, invariavelmente, ao adoecer, as pessoas buscam tratamento médico imediato. No entanto, quanto mais tratamentos recebem, mais seu estado piora. Mesmo recorrendo a grandes hospitais, médicos renomados e todos os tipos de medicamentos, sem poupar despesas ou tempo, já que se trata da própria vida, o resultado é uma piora que as leva à beira da morte. Não há problema maior do que este. A teoria e os resultados da medicina são quase sempre opostos. Por exemplo, como vemos nos relatos, os médicos dizem que a cura é certa, garantem-na, mas o resultado é totalmente contrário ao esperado.
+
+Essa contradição entre a teoria acadêmica e o resultado prático é algo que os próprios médicos devem vivenciar constantemente. Também é comum ouvir sobre a grande discrepância entre o diagnóstico em grandes hospitais e os resultados da autópsia. Nesses casos, os médicos nem sonham em atribuir a causa ao erro da medicina; ao contrário, interpretam-na como uma consequência do seu atraso. Eles acreditam que promover o avanço da medicina é o que salvará a humanidade. Visto de nossa perspectiva, o erro é tão grande que nos faltam palavras. Por isso, eles se dedicam à descoberta de micróbios, a testes em animais, à criação de novos medicamentos, à radioterapia, à melhoria da nutrição e a todo tipo de pesquisa para aumentar o poder de cura. Como resultado, o campo da medicina se torna cada vez mais complexo e diversificado, os nomes e o número de doenças aumentam, as especialidades se multiplicam, a pesquisa se aprofunda nos mínimos detalhes, e as teorias e métodos de tratamento parecem estar fazendo um progresso esplêndido. O público, iludido, deposita na medicina a confiança extrema que vemos hoje. No entanto, no que diz respeito ao resultado crucial — a cura das doenças —, não há o menor avanço; apenas o tratamento sintomático, que alivia temporariamente o sofrimento, tornou-se mais engenhoso.
+
+E como se acredita erroneamente que esse é o caminho do progresso, ao analisarmos friamente a medicina moderna, não podemos deixar de suspirar profundamente. Em suma, esforçam-se para aplicar na prática teorias acadêmicas desvinculadas da realidade; portanto, é natural que não se obtenham os resultados esperados. Por se dedicarem apenas à pesquisa, se as cobaias fossem apenas isso, ainda vá lá, mas é incalculável o número de seres humanos que se tornam vítimas. Se a teoria acadêmica fosse a verdade, a medicina preventiva já estaria gradualmente resolvendo problemas como parasitoses, tuberculose, doenças infecciosas, derrames e paralisia infantil, e eles não estariam proliferando como hoje. Em suma, o verdadeiro socorro é despertar para o erro da medicina moderna.
+
+Sendo assim, o grande amor de Deus, no final dos tempos, nos impele a realizar essa correção, revelando-nos a verdadeira arte médica. Como se trata de uma medicina que perdura por dezenas de séculos, despertá-la da noite para o dia é extremamente difícil. Mas nós, que cremos no poder absoluto de Deus, avançamos sem a menor dúvida em direção à luz do futuro.
+
+### Como Encarar Este Fato
+
+*Reedição do artigo publicado na revista ‘Hikari’ nº 11, de 31 de maio de 1949.*
+
+Como mencionado no item anterior, damos instruções rigorosas para que todos os relatos de graças sejam escritos exatamente como os fatos ocorreram; portanto, é desnecessário dizer que não há o menor exagero. Esses relatos de gratidão e emoção aumentam dia a dia, mês a mês, e recentemente chegam a centenas por mês, tornando difícil a publicação de todos. A situação atual é que estamos buscando uma solução para isso, o que mostra o quanto o número de pessoas salvas está crescendo. Como os leitores podem ver, ao lerem os textos repletos de gratidão, seus olhos se enchem de lágrimas, e não sei quantas vezes as enxugo.
+
+O que surpreende, no entanto, são os resultados de cura para todos os tipos de doenças. Ao analisá-los de vários ângulos, vemos que, invariavelmente, os tratamentos médicos e todas as outras terapias praticadas atualmente, de forma geral, não surtem efeito em cerca de um terço dos casos, e em dois terços, na verdade, pioram a condição. Não há problema maior do que este. Os especialistas que lerem este relatório, e mesmo o público em geral, ficarão tão surpresos que não haverá um só que não se sinta perplexo.
+
+Hoje, todas as nações que se dizem civilizadas acreditam no progresso da medicina moderna e consideram que confiar suas vidas a ela é o melhor método, o que se tornou praticamente um senso comum. No entanto, com a intenção de corrigir a medicina estabelecida, há mais de dez anos, escrevi três livros para divulgar amplamente este fato, mas os três foram proibidos, e eu desisti. Hoje a situação está bem mais branda, mas antigamente não se permitia sequer mencionar a palavra "medicina". Por exemplo, mesmo que não fosse um tratamento médico, se eu dissesse a um paciente que ele seria curado por nosso método, essa simples palavra era considerada uma violação da Lei Médica. Certa vez, fui detido por três dias por causa disso. Em outra ocasião, escrevi em um panfleto que a cirurgia praticada pela medicina moderna, por cortar a carne, consumir sangue e causar sofrimento para remover a parte doente, era um método bárbaro, enquanto nossa terapia, sem causar a menor dor ou ferir o corpo, conseguia remover a raiz da doença, por mais profunda que fosse. Isso foi considerado ofensivo, fui convocado à polícia e, após um longo sermão, ainda tive que pagar uma multa. Por isso, o resto pode ser imaginado. Como vivíamos em tal época, não tive outra escolha a não ser manter o silêncio e mostrar a verdade ao mundo através dos fatos.
+
+Contudo, chegou o momento de quebrar o silêncio, e decidi tornar isso público através desta obra.
+
+De fato, a Vontade Divina indica que chegou a hora de pôr fim ao sofrimento humano causado pelas doenças. Como repito constantemente, a raiz de todo sofrimento está na enfermidade humana. Se o ser humano se tornar saudável de corpo e espírito, a maior parte de todas as outras dificuldades será resolvida. Quando isso acontecer, não haverá a menor dúvida de que o nosso objetivo, o Paraíso Terrestre, se manifestará.
+
+A grande profecia de Cristo, “O Reino dos Céus está próximo”, e o Mundo de Miroku, anunciado por Shakyamuni, não são outra coisa senão isso. Embora eu não seja médico nem tenha estudado medicina, por revelação Divina, pude compreender tudo sobre as doenças em sua raiz. Tendo percebido claramente o quão equivocada a medicina moderna se tornou, sinto profundamente que a sua correção é a primeira e mais importante missão para a salvação da humanidade, e que Deus me confiou a grande incumbência de criar um mundo sem doenças.
+
+### A Medicina Espiritual Divina é uma Medicina Democrática
+
+*Artigo publicado na revista ‘Hikari’ nº 22, de 13 de agosto de 1949.*
+
+A medicina moderna, embora as pessoas não percebam, é na verdade extremamente discriminatória e antidemocrática. Os pobres não podem comprar remédios caros, é difícil serem internados em hospitais e não conseguem arcar com os custos de um tratamento prolongado. Consequentemente, a igualdade de oportunidades de tratamento é algo inalcançável. Por isso, o governo, não tendo outra opção, tenta resolver o problema com a lei do seguro de saúde, mas isso também não funciona como deveria. É comum ouvir que, quando um paciente segurado adoece e vai a um médico conveniado, o tratamento é diferente do de um paciente particular. Como resultado, mesmo sendo segurado, a pessoa acaba se passando por paciente particular e pagando o valor integral, o que é um absurdo. Sendo assim, a medicina moderna é uma existência muito distante do ideal democrático. Contudo, dada a realidade econômica da sociedade atual, isso também é inevitável, e não se encontra uma solução imediata.
+
+Nossa terapia espiritual divina, no entanto, não faz distinção entre ricos e pobres. A razão é que não utilizamos nada material. É apenas a ação do espírito invisível, um contato direto através da onda de luz que irradia do corpo humano. E com isso, obtemos um efeito muitas vezes superior ao do tratamento médico, o que a torna verdadeiramente ideal. Sendo assim, nossa terapia pode ser chamada, literalmente, de medicina democrática.
+
+Recentemente, no jornal Mainichi, o diretor da Associação Médica Japonesa, Sr. Sekizen Furuhata, disse:
+
+“Para um paciente comum, o tratamento depende do que seu bolso permite. Alguns tomam uma injeção por qualquer coisinha, enquanto muitos outros, mesmo precisando desesperadamente de uma, não podem recebê-la por falta de dinheiro. A atitude que o médico deve tomar nesses casos, infelizmente, é decidida pelo paciente, e raramente a situação é fácil...”
+
+Isso corrobora totalmente a teoria que apresentei.
+
+### Um Apelo à Medicina
+
+*Artigo publicado na revista ‘Chijo Tengoku’ nº 2, de 1º de março de 1949.*
+
+Em 25 de agosto de 1948, na coluna “Hissen” do jornal Tokyo Shimbun, havia o seguinte artigo:
+
+“A maioria das pessoas sabe que os médicos evitam examinar seus próprios familiares. Isso ocorre porque, no fundo, eles ficam em dúvida quanto ao diagnóstico.”
+
+É apenas isso, mas, se pensarmos bem, há algo de muito sério oculto nessas palavras. O fato mencionado é algo que também ouvimos com frequência, e revela uma total ausência de cientificidade. Diz-se que a medicina progrediu, e hoje ninguém pensaria que ela está fora do âmbito da ciência. No entanto, se ao diagnosticar um familiar surge a dúvida, isso não apenas denota falta de cientificidade, como também é extremamente perigoso. Se a medicina fosse confiável, o natural seria que o médico se sentisse inseguro em deixar um familiar ser tratado por outro e insistisse em cuidar dele pessoalmente para ficar tranquilo. Mesmo que não fosse o caso, o padrão científico exigiria que o mesmo diagnóstico fosse obtido tanto para familiares quanto para estranhos.
+
+Observando por esse ângulo, o diagnóstico médico parece ser algo muito pouco confiável, e não haveria o que contestar se fosse comparado à previsão do futuro de um adivinho. Não temos a menor intenção de criticar a medicina, mas, por mais que raciocinemos, não conseguimos chegar a outra conclusão.
+
+Segundo se ouve, até mesmo a causa do resfriado, a mais comum e considerada a mais leve das doenças, ainda é desconhecida pela medicina. Portanto, o que desejamos é que a medicina progrida ao menos ao ponto em que os médicos se sintam compelidos a diagnosticar seus próprios familiares e em que a causa do resfriado seja claramente identificada. É isso que esperamos ardentemente.
+
+### A Edificação do Paraíso por Meio da Saúde
+
+*Versão revisada do artigo publicado na edição extra da revista ‘Hikari’, de 30 de maio de 1949.*
+
+A grande profecia de Cristo, o brado de leão “O Reino dos Céus está próximo”, assim como o objetivo de todas as religiões, é, sem dúvida, a criação de um mundo melhor, ou seja, a eliminação do sofrimento humano e a realização de um mundo de alegria. Apesar desse ideal comum, a realidade, infelizmente, está longe de se concretizar, e a sensação é de que ainda temos um longo caminho a percorrer para sequer escaparmos de um estado infernal. Tanto no Oriente quanto no Ocidente, apesar dos esforços incessantes da religião, filosofia, ciência, moral, educação, etc., ainda não se vê progresso algum. Por quê? E no que diz respeito à saúde humana, que pode ser considerada a raiz da tragédia, a realidade é que não se vislumbra nem mesmo a aurora de uma solução.
+
+Sobre este assunto, já falamos tanto que os ouvidos devem estar cansados, mas acredito que, neste caso específico, nunca é demais falar. A razão é que, enquanto o problema da saúde não for devidamente resolvido, todas as outras condições, mesmo que se concretizem, não terão significado algum. No entanto, a terapia espiritual divina, que foi por mim completada, é capaz de eliminar todas as enfermidades humanas e possibilitar um corpo perfeitamente saudável.
+
+Uma descoberta de tal magnitude, por estar muito acima do nível da cultura atual, pode facilmente gerar mal-entendidos. É como uma pessoa no chão que não consegue ver o topo da cabeça de alguém que está no telhado.
+
+Observem: ao investigarmos a raiz de todas as tragédias, invariavelmente encontramos a doença como causa. Jovens que sucumbem à tuberculose; estudantes prestes a se formar em uma instituição de ensino superior que são acometidos pela mesma doença, fazendo com que não apenas eles, mas também seus pais, percam sua única esperança e sejam lançados a um destino sombrio; pessoas de meia-idade que veem seus negócios fracassarem no meio do caminho ou que, no momento de grande entusiasmo por terem finalmente estabelecido suas bases, caem em um impasse devido a um mal súbito. A maior parte das tragédias sociais tem a doença como causa. Diante disso, tanto a medicina avançada quanto as religiões estabelecidas continuam seus esforços, mas a verdade é que não conseguem encontrar nenhuma luz.
+
+Em meio a uma situação tão trágica, surgiu repentinamente a terapia espiritual divina. Aqueles que ingressam em nossa fé e compreendem sua essência podem facilmente entender o quão revolucionária é essa grande medicina.
+
+### O Método de Saúde que Cria Meninos Mimados
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 20, de 30 de julho de 1949.*
+
+Os métodos de higiene e saúde da medicina moderna são, em outras palavras, métodos para criar “meninos mimados”. Parece uma afirmação estranha, mas a razão é a seguinte.
+
+O que a medicina moderna prega como método de saúde é: não se esforce demais, não durma pouco, coma alimentos de fácil digestão, mastigue bem, não passe frio, use uma faixa abdominal para não resfriar a barriga, faça gargarejo sempre que voltar da rua, etc.
+
+Mas, se seguirmos à risca esse método, será que realmente nos tornaremos saudáveis? Afirmo que o resultado será o oposto: nos tornaremos fracos. Explicarei brevemente.
+
+Primeiro, sobre o esforço. O ser humano se torna mais saudável na medida em que se esforça. A prova disso é que os atletas, para quebrar recordes, fazem um esforço extremo, e com isso suas habilidades se desenvolvem. O nadador Furuhashi é o maior exemplo disso. Por esse princípio, ao nos esforçarmos, nossa saúde aumenta na proporção do esforço que fomos capazes de fazer. Eu mesmo, aos sessenta e sete anos, quando caminho por montanhas e campos, os jovens não conseguem me acompanhar. A causa, obviamente, é que eu me esforço.
+
+Dizem que a falta de sono causa tuberculose, mas isso também é o contrário. Para entender a razão, basta observar as classes que menos dormem: empregadas de pousadas, restaurantes e casas de chá, gueixas, etc. De fato, a própria medicina reconhece que a incidência de tuberculose nessa classe é a menor. Por isso, eu adoto a política de dormir o mínimo possível.
+
+Comer alimentos de fácil digestão diminui a atividade do estômago. O mesmo vale para mastigar bem. O Criador criou uma grande variedade de alimentos, alguns de fácil digestão, outros de difícil. A intenção é que os comamos de forma adequada. Lulas, pepinos-do-mar, polvos, conservas de nabo, ameixas em conserva, berinjelas, feijões — todos podem parecer de difícil digestão, mas o certo é comer tudo o que se tem vontade.
+
+As pessoas temem pegar um resfriado, mas o resfriado é o método mais simples de aprimoramento da saúde, uma graça única concedida por Deus, como sempre digo. Eu mesmo procuro me resfriar constantemente.
+
+Usar uma faixa abdominal torna a pele da barriga mais fraca. Por isso, quando se deixa de usá-la por acaso, sente-se frio. Se não se usa a faixa, a pele da barriga se fortalece e não se sente frio. Por isso, nem eu nem minha família jamais usamos faixa abdominal.
+
+É melhor não fazer gargarejo. A saliva humana tem uma poderosa ação bactericida. Existem insetos que enfraquecem com a saliva humana. A prova disso é que, para pegar uma pulga, se você molhar o dedo com saliva e a pressionar, ela enfraquece. Eliminar temporariamente uma saliva com tanto poder bactericida através do gargarejo torna o momento do gargarejo, na verdade, perigoso.
+
+As explicações acima não são meras teorias; são baseadas na prática, e creio que qualquer um poderá concordar. Portanto, o método de saúde da medicina é como criar um “menino mimado”, sem deixá-lo passar por dificuldades, tratando-o com doçura. Assim como essa criança se torna um adulto sem resistência e inútil na sociedade, o mesmo princípio se aplica aqui.
+
+(Nota) Furuhashi-kun (Hironoshin Furuhashi): Nascido em 1928. Presidente da Federação Japonesa de Natação. Em 1948, a natação japonesa, que não foi autorizada a participar das Olimpíadas de Londres, realizou o Campeonato Japonês nas mesmas datas dos Jogos. Furuhashi venceu os 1500m livre com o tempo de 18:37.0, um novo recorde mundial na época. O recorde vencedor nas Olimpíadas de Londres foi de 19:18.5. Posteriormente, ele estabeleceu vários outros recordes mundiais e foi apelidado de “o peixe voador do Fujiyama”.
+
+### Os Japoneses e a Doença Mental
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Chijo Tengoku’ nº 8, de 25 de setembro de 1949.*
+
+No mundo de hoje, as pessoas vivem a falar da degradação do pensamento, do aumento da criminalidade, da pobreza da política, etc. Escreverei sobre como a causa disso está intimamente ligada à doença mental.
+
+Primeiramente, qual é a verdadeira causa da doença mental? A razão é algo tão inédito que ninguém jamais sonhou. Sendo a própria verdade, qualquer um que não seja um doente mental em estado grave deveria ser capaz de compreendê-la. A verdadeira causa da doença mental é física e, ao mesmo tempo, um fenômeno de possessão espiritual. Para o homem moderno, educado sob o materialismo, isso pode ser um pouco difícil de entender. Tendo sido exaustivamente doutrinado a não acreditar no que não se pode ver, é compreensível que não seja tão simples de aceitar. Nós mesmos estamos cientes disso. No entanto, a verdade é a verdade, por mais que se negue. Se o que não se vê não existe, então o ar não existe, e o coração humano também não.
+
+Este argumento não pode ser desenvolvido sem a premissa de que o espírito existe, e, portanto, o fenômeno da possessão também existe. Assim, da mesma forma que aqueles que negam veementemente a existência do espírito nos veem como supersticiosos, de nossa perspectiva, são eles os lamentáveis supersticiosos.
+
+Vamos agora ao assunto principal. Se a doença mental é um fenômeno de possessão, qual a razão? É um fato que muitas pessoas se queixam de rigidez no pescoço e nos ombros. Pode-se dizer que isso afeta praticamente todos os japoneses. Com base em minha longa experiência, posso afirmar que todas as pessoas têm rigidez no pescoço e nos ombros. Raramente encontro alguém que diz não ter, mas nesses casos, a rigidez é tão extrema que a pessoa se tornou insensível à dor. Pode-se dizer que se tornou parte de sua constituição. Se eu disser que essa rigidez é a verdadeira causa da doença mental, muitos ficarão chocados com a surpresa, mas à medida que eu explicar, hão de concordar.
+
+A rigidez no pescoço e nos ombros comprime os vasos sanguíneos que levam sangue ao cérebro, causando anemia na parte frontal da cabeça. E aqui reside o problema. A anemia no cérebro não é apenas anemia. O sangue é a materialização do espírito; portanto, a anemia cerebral se torna uma “pobreza espiritual” (貧霊, *hinrei*) nas células espirituais que preenchem o cérebro. Essa pobreza espiritual é a causa da doença mental. Os espíritos possessores miram as áreas de rarefação espiritual para se apossarem. E que espíritos são esses? Na maioria das vezes, são espíritos de raposa, seguidos por espíritos de tanuki (cão-guaxinim), e, mais raramente, de cães e gatos. Todos, é claro, são espíritos de animais mortos. Há também casos de possessão conjunta de espíritos humanos e animais.
+
+Analisemos o pensamento humano. Ele é composto de razão, emoção e da vontade que transforma ambos em ação. A razão disso é que as funções da parte frontal do cérebro governam a razão, enquanto as da parte posterior governam a emoção. A prova disso é que os caucasianos têm a parte frontal da cabeça larga e desenvolvida, o que indica abundância de razão, enquanto os povos de pele amarela têm a parte frontal estreita e a posterior desenvolvida, o que indica abundância de emoção. É de conhecimento geral que os brancos são mais racionais e os amarelos, mais emocionais. Assim, no ser humano, a razão e a emoção estão em constante conflito. Se a razão vence, não há erros, mas a pessoa se torna fria. Se a emoção vence, a pessoa age por instinto, o que pode ser perigoso. O essencial é que ambas estejam em harmonia, sem pender para nenhum dos lados, mas o ser humano tende a ser parcial. Seja a razão ou a emoção, para manifestá-las em ação, é necessária a vontade, em maior ou menor grau. A fonte dessa vontade é a capacidade espiritual localizada no centro do abdômen, na região do umbigo. É, por assim dizer, a origem da ação. A colaboração desses três elementos constitui a trindade do pensamento.
+
+A pobreza espiritual na parte frontal do cérebro causa insônia. A causa da insônia, na maioria dos casos, é uma solidificação na região do bulbo, no lado direito da parte posterior da cabeça, que comprime os vasos sanguíneos. A insônia agrava a pobreza espiritual, e os espíritos animais, aproveitando-se da oportunidade, se apossam. A parte frontal do cérebro é o centro de comando do corpo humano; ao ocupá-la, eles podem manipular a pessoa à vontade. Os espíritos de raposa, em particular, têm interesse em controlar os humanos, e isso lhes confere prestígio entre seus pares, algo que a imaginação humana não consegue conceber. Pretendo escrever em detalhes sobre esses espíritos de raposa em breve, com base em minhas experiências, portanto, peço que aguardem.
+
+A função da razão é a de um instinto que constantemente reprime a emoção, que é o instinto primário, para evitar erros. O ser humano consegue manter um estado de normalidade graças à força dessa lei chamada razão, que controla a emoção. Portanto, se essa força se perde, a emoção se torna livre e desenfreada, saindo dos trilhos. Isso é a doença mental.
+
+Enquanto a força dessa lei brilha na parte frontal do cérebro, o espírito possessor, ciente disso, não consegue ocupá-la. Mas, uma vez que o espírito se rarefaz, o espírito maligno aproveita a oportunidade para se apossar. A rarefação tem diferentes graus, e a atividade do espírito possessor corresponde a esses graus. Por exemplo, se a plenitude do espírito na parte frontal do cérebro for dez, a possessão é impossível. Se for nove, o espírito pode se apossar com a força de um. Se se tornar dois, três, quatro, cinco, seis, o espírito pode manifestar uma força de seis. Com uma força de quatro da razão, não se pode vencer a força de seis da emoção, e o espírito pode dominar a pessoa livremente.
+
+Como mencionei no início, a rigidez comprime os vasos sanguíneos, causando pobreza espiritual. Se o espírito possessor pode atuar na proporção dessa pobreza, e como não há ninguém na atualidade sem rigidez, pode-se dizer que não há uma única pessoa com plenitude espiritual de dez. Mesmo pessoas respeitadas pela sociedade têm uma falha de dois ou três. Quando se diz “como uma pessoa tão importante cometeu tal erro?”, “como não percebeu algo tão óbvio?” ou “por que fracassou?”, é por causa dessa falha de dois ou três. Contudo, essa falha não é constante; ela flutua. Quando uma pessoa realiza um ato admirável, é quando sua falha é de cerca de dois. Mas, quando algum gatilho desperta um pensamento maligno e ela comete um crime, é porque sua condição atingiu quatro ou mais. Isso é comum na sociedade. A maioria se arrepende depois de cometer o crime, mas nesse momento, sua condição já retornou a cerca de dois. A expressão “ser possuído pelo demônio” se refere a isso.
+
+A pessoa comum geralmente está em um nível de três ou quatro, e dependendo do gatilho, não se sabe quando ultrapassará a linha de cinco. Nesse caso, ela comete crimes inesperados. Um exemplo é a histeria, cuja causa é quase sempre um espírito de raposa que se aloja na parte frontal do cérebro. O gatilho é o ciúme ou a raiva, que rompe a linha de cinco. Quando isso acontece, a pessoa diz coisas absurdas que não quer dizer e se comporta de forma descontrolada, mas isso não dura muito. A razão é que a linha de cinco retorna para um nível inferior. Portanto, o ser humano deve se manter na linha de três; acima disso, é perigoso. O grande número de criminosos hoje em dia pode ser bem compreendido se se conhece esse princípio. Sendo o espírito possessor um espírito animal, ao ultrapassar a linha de cinco, embora a forma seja humana, a mente não difere em nada da de um animal. Por isso, a pessoa comete atos animalescos sem hesitar. A grande diferença entre humanos e animais é que os humanos têm amor, enquanto nos animais, embora exista o amor entre pais e filhos e entre casais, o amor ao próximo é extremamente fraco. Aves e insetos, ao contrário, o possuem em maior grau. Mas a maioria dos animais não tem amor nem mesmo entre casais ou pais e filhos. Por isso, quando o ser humano manifesta sua animalidade, revela uma crueldade inimaginável.
+
+Como afirmei, se não há portadores de plenitude espiritual de dez, todos os outros são, em maior ou menor grau, afetados pela possessão, e, portanto, podem ser considerados doentes mentais. Sendo franco, pode-se dizer que todos os japoneses são, em certa medida, doentes mentais.
+
+Contarei uma experiência minha. Todos os dias, encontro de várias a dezenas de pessoas e converso sobre diversos assuntos. Posso dizer que não há uma única pessoa sem alguma falha. Qualquer um, por mais respeitado que seja pela sociedade, tem uma falha, ainda que imperceptível para a maioria. Vendo isso, posso dizer que a doença mental de grau leve é praticamente geral.
+
+Não se trata apenas da linguagem; o mesmo se aplica às ações. É claro que, em todos os atos da vida diária, quase ninguém está livre de cometer absurdos. As pessoas não se importam com as regras de etiqueta. A maioria, ao entrar em uma sala e fazer uma reverência, o faz de forma errada. Alguns se curvam para a parede, outros para as portas de correr. É uma variedade imensa. Há pessoas excessivamente cerimoniaiosas e outras excessivamente simples. Todas elas devem ser consideradas doentes mentais de grau leve.
+
+Para concluir, escreverei sobre o método de solução fundamental. Ele consiste em eliminar a rigidez, que obstrui o fluxo sanguíneo para o cérebro. E para eliminar a rigidez, afirmo aqui que, em todo o vasto mundo, não há outro método senão o Johrei de nossa Igreja. Por isso, os membros de nossa Igreja geralmente estão no nível dois ou três, e é raro encontrar alguém que se desvie da linha de três. Isso pode ser bem compreendido ao se observar o caráter dos nossos membros. Nesse sentido, vê-se o grande mérito de nossa Igreja na prevenção do mal social de hoje. E qual é a essência da rigidez? É, desnecessário dizer, o *yakudoku* (薬毒).
+
+(Nota) 行住座臥 (*gyojuzaga*): Termo budista que se refere a andar, parar, sentar e deitar. Refere-se às ações cotidianas em conformidade com os preceitos. Por extensão, as ações do dia a dia.
+
+### A Saúde dos Lactentes e das Crianças
+
+*Artigo publicado na revista ‘Chijo Tengoku’ nº 4, de 25 de maio de 1949.*
+
+Recentemente, a saúde dos lactentes e das crianças no Japão está muito ruim. Diz-se que a taxa de mortalidade é trinta e cinco vezes maior que a dos Estados Unidos, o que é alarmante e constitui um problema grave que exige uma solução o mais rápido possível. Para isso, é preciso primeiro descobrir onde está a causa, mas como as causas apontadas pela medicina atual estão, na maioria, equivocadas, por mais que se esforcem, não conseguirão obter os resultados esperados.
+
+Então, onde está a causa? Escreverei sobre o que descobri. Com base em minha experiência tratando crianças doentes desde a lactância até os cinco ou seis anos, a fragilidade das crianças da cidade é surpreendente, uma diferença gritante em relação às do campo. A interpretação da medicina é que a cidade tem ar ruim, falta de espaços para brincar, e os meios de transporte e o barulho estimulam os nervos, criando condições desfavoráveis, enquanto o campo, ao contrário, é abençoado com boas condições. É verdade que essas razões têm seu peso, mas a maior causa está em um lugar que passa despercebido.
+
+Naquela época, eu dizia às mães das crianças doentes ou fracas que tratava: “Seu filho é japonês ou ocidental?”. E continuava: “As crianças japonesas foram criadas por gerações com alimentos japoneses. A mudança repentina para os alimentos e o modo de criar das crianças ocidentais é a causa de sua fraqueza”. O mais cômico era ver mães que não davam aos filhos os doces tradicionais japoneses, especialmente o *an* (餡). Quando eu perguntava por que não davam *an*, respondiam: “O médico disse que causa disenteria”. E eu rebatia: “Isso não faz sentido. O feijão azuki é conhecido por ser bom para o intestino, a ponto de ser cozido e comido de propósito. E o *an* é o feijão refinado, misturado com açúcar e liquefeito. Onde está o problema?”. E acrescentava: “Os médicos leem os livros ocidentais e traduzem literalmente. Como no Ocidente não existe *an*, não está escrito nos livros, e é por isso que dizem isso. O fato de os alimentos para doentes que os médicos recomendam serem todos alimentos que existem no Ocidente — leite, aveia, manteiga, maçã, batata, etc. — comprova isso”.
+
+Por essa razão, à medida que a criança cresce, pode-se ir misturando gradualmente os alimentos ocidentais. Mas, da lactância até os cinco ou seis anos, criá-las com alimentos japoneses é, sem dúvida, melhor para a saúde. Posso afirmar isso com base em minhas inúmeras experiências.
+
+Outro ponto da minha experiência: dar muitas injeções em lactentes e crianças pequenas causa a interrupção ou a incapacidade de desenvolvimento. O pescoço fica mole, a criança fica magra, sem força e anêmica. Se essas crianças ficarem sem medicamentos por dois ou três anos, atingem um estado de saúde semelhante ao de uma criança normal.
+
+(Nota) 那辺 (*nahen*): Onde, em que lugar.
+
+### O Corpo Humano é uma Unidade Integrada
+
+*Artigo publicado na revista ‘Hikari’ nº 38, de 3 de dezembro de 1949.*
+
+Escreverei sobre o quão equivocada está a medicina moderna.
+
+O erro reside na sua divisão em diversas especialidades: medicina interna, cirurgia, neurologia, otorrinolaringologia, oftalmologia, urologia, ginecologia, pediatria, etc. Mas pensem bem: o corpo humano não é como uma boneca, com braços, pernas e tronco feitos separadamente e depois montados. O todo é constituído por relações mútuas. Darei dois ou três exemplos.
+
+Certa vez, tive um sangramento anal ao evacuar, tão intenso que o banheiro ficava todo vermelho. Durou uma semana e parou de repente. Até então, eu sentia um peso constante na parte de trás da cabeça, e se falasse por muito tempo, a pressão aumentava a ponto de se tornar insuportável. Com o sangramento, essa sensação aliviou muito. Na época, eu já conhecia o erro da medicina, então deixei seguir seu curso. Se tivesse ido a um médico, talvez diagnosticassem como hemorroidas e tentassem parar o sangramento. Isso me fez perceber que o sangramento hemorroidário tem relação com o cérebro.
+
+Outro caso foi o de uma jovem com dor de dente. Ao receber Johrei, a dor passou imediatamente, mas no dia seguinte, voltou. Olhei e vi que ela tinha uma rigidez nos gânglios linfáticos. Apliquei Johrei ali, e a dor passou, mas no dia seguinte, voltou novamente. Olhei com mais atenção e encontrei uma solidificação nas costelas. Apliquei Johrei ali, e a dor passou, mas no dia seguinte, ela voltou dizendo que doía. Pensei que o problema deveria estar mais abaixo e, ao examinar a região do apêndice, encontrei uma solidificação. Apliquei Johrei ali, e desta vez a dor desapareceu de vez. Qual a razão disso? Essa jovem havia operado o apêndice. O desinfetante usado na época permaneceu, purulou, e estava tentando sair pela gengiva, causando a dor. Se ela tivesse ido a um dentista, a dor não teria passado. Isso também mostra que o corpo humano é uma unidade integrada.
+
+Houve ainda outro caso: um paciente com sintomas de febre alta, tosse e escarro, diagnosticado por um médico como tuberculose pulmonar. Ao examiná-lo, para minha surpresa, encontrei uma solidificação na virilha direita. Pensei: “É isso”, e apliquei Johrei ali. Em pouco tempo, ele estava completamente curado. Eu disse: “Seu pulmão estava na virilha”, e rimos muito. O que aconteceu foi que a solidificação na virilha, ao passar por um processo de purificação, transformou-se em escarro, migrou para os pulmões, causando tosse e expectoração, e foi erroneamente diagnosticada como tuberculose. Casos como esse são comuns e são um bom exemplo de como o corpo humano é uma unidade integrada.
+
+Façamos uma analogia com um país. Se fosse o Japão, por exemplo, não seria possível que a região de Kanto estivesse próspera e a de Kansai, em declínio. O país inteiro é uma cadeia de relações, e as partes se influenciam mutuamente. Enquanto não se despertar para esse princípio, por mais que se pesquise, a verdadeira medicina que salva as pessoas jamais surgirá.
+
+### A Encefalite Japonesa é Realmente Transmitida por Mosquitos?
+
+*Versão revisada do artigo publicado na revista ‘Hikari’ nº 30, de 8 de outubro de 1949.*
+
+Recentemente, a medicina atribui a causa da encefalite japonesa à transmissão por mosquitos, mas isso é um completo equívoco. Apresentaremos aqui nossa pesquisa sobre o assunto.
+
+A encefalite japonesa acomete principalmente crianças, e as estatísticas mostram que a maior incidência ocorre entre os seis e os dez anos de idade. Além disso, a estação de maior ocorrência é do final do verão ao início do outono. Esses fatos devem ser considerados com especial atenção. No entanto, para a medicina, como esse período coincide com a proliferação e a maior atividade dos mosquitos, não é de se estranhar que tenham concluído que a transmissão se dá por eles. Há também os resultados de pesquisas em que mosquitos foram esmagados em grande número e injetados em camundongos, que desenvolveram encefalite, o que deve ter reforçado essa crença.
+
+Nossa interpretação, porém, é totalmente diferente. Camundongos e humanos não são a mesma coisa, e, na verdade, acredito que há mais diferenças do que semelhanças entre humanos e animais. Na medicina revelada por Deus, a causa da encefalite japonesa é excessivamente clara, e, na prática, todos os casos, sem exceção, podem ser curados completamente em um curto período. Mesmo que a transmissão fosse, de fato, por mosquitos, como todos são curados, os mosquitos deixam de ser um problema.
+
+Explicarei aqui a verdadeira causa da encefalite japonesa.
+
+Todo ser humano, sem exceção, possui em seu corpo, em maior ou menor grau, toxinas congênitas e adquiridas. Essas toxinas são, obviamente, sangue impuro e pus. Quando o corpo sofre algum tipo de estímulo, as toxinas invariavelmente se concentram nessa área. Para facilitar a compreensão, tomemos como exemplo a moxabustão. Ao se aplicar a moxa, a área fica vermelha e inchada, e em casos extremos, chega a purular. Da mesma forma, quando o corpo sofre um golpe ou o impacto de um objeto, a área fica vermelha e inchada porque, como mencionado, as toxinas se concentram ali. Seguindo esse raciocínio, a causa da encefalite japonesa se torna fácil de entender.
+
+As crianças, em sua maioria, brincam sob o sol forte sem chapéu, especialmente entre os seis e os dez anos, quando essa tendência é acentuada. Por isso, o cérebro se aquece, de forma análoga à aplicação de moxa. Nesse momento, as toxinas presentes em toda a região das costas iniciam um movimento de concentração em direção ao cérebro. A maior prova disso é que, com o início da doença, a região do bulbo, em ambos os lados, endurece como um bastão, acompanhada de febre alta. Isso ocorre porque as toxinas avançam em direção ao cérebro e se acumulam temporariamente um passo antes. Em seguida, quando as toxinas iniciam o movimento de invasão do cerebelo, a pessoa entra em estado de sonolência.
+
+Mas aqui há um problema. O tratamento médico invariavelmente aplica compressas de gelo. A ação do gelo faz com que as toxinas se solidifiquem nesse local. Em outras palavras, impede-se que algo que se curaria naturalmente se cure. Este é um erro espantoso. A maior prova é que, nesses casos, ao se aplicar o Johrei de nossa Igreja, as toxinas começam a ser expelidas do cerebelo, passando pelo cérebro e saindo pelos olhos e narinas. E, claro, quanto mais grave o caso, maior a quantidade expelida. Em geral, em dois ou três dias, tudo é expelido, e com isso, a pessoa se recupera. É algo muito simples. Em menos de uma semana, sem exceção, a cura é completa. Como resultado, o cérebro se torna mais claro do que antes da doença, e os estudantes invariavelmente melhoram seu desempenho acadêmico. O que descrevo é o processo exato dos fatos, sem o menor exagero.
+
+Na medicina, no entanto, teme-se que, como sequela, o cérebro seja afetado, deixando problemas como demência leve, deficiências nos braços e pernas, entre outros. Qual a razão disso? Como mencionei, as toxinas, que seriam expelidas naturalmente, ao tentarem passar pelo cerebelo, são solidificadas pelo gelo. Essa solidificação se torna um obstáculo para a atividade cerebral. O erro da medicina moderna é tão grande que faltam palavras para descrevê-lo.
+
+Aproveitando o ensejo, explicarei também a meningite espinhal. Pode-se dizer que ela é um passo antes da encefalite japonesa. As toxinas se concentram e se solidificam apenas na região do bulbo. A razão é que é uma doença que ocorre no inverno, quando a cabeça não é exposta ao sol forte como no verão. No entanto, os sintomas são uma solidificação na região do bulbo ainda mais intensa que na encefalite japonesa, e o movimento de flexão e extensão do pescoço se torna totalmente impossível. Isso ocorre porque, ao contrário da encefalite japonesa, as toxinas não invadem o cerebelo.
+
+Com base no exposto, creio que ficou claro que a encefalite japonesa não tem relação alguma com mosquitos, sendo uma ação purificadora natural.
+
+(Nota) 晏如 (*anjo*): Calmo e tranquilo.
+
+### Danificar o Corpo
+
+*Reedição da nota publicada na revista ‘Hikari’ nº 20, de 30 de julho de 1949 (com uma letra corrigida).*
+
+É comum ouvir-se a expressão “danificar o corpo”, mas não há nada mais cômico. O corpo humano não é um objeto material como vidro ou porcelana. Isso se deve a um total desconhecimento da verdade. Na realidade, a doença, longe de danificar o corpo, serve para ajustá-lo. Quando se tem diarreia, diz-se que se “estragou a barriga”, mas na verdade é algo muito bom, pois as toxinas prejudiciais à saúde estão sendo expelidas.
+
+### Resfriado por Dormir Descoberto
+
+*Reedição da nota publicada na revista ‘Hikari’ nº 20, de 30 de julho de 1949.*
+
+Quando uma criança tem diarreia, costuma-se dizer que foi porque dormiu descoberta e se resfriou, mas isso também é uma história engraçada. Se a diarreia é uma ação de eliminação de toxinas, então resfriar-se ao dormir é algo bom. Como exemplo, desde jovem, nunca usei faixa abdominal. E meus seis filhos também não a usam. Eles dormem com a barriga de fora e estão sempre saudáveis o ano todo.
+
+### Disenteria
+
+*Reedição da nota publicada na revista ‘Hikari’ nº 20, de 30 de julho de 1949.*
+
+Entre as doenças infantis, a disenteria é considerada a mais temível. No entanto, como causa, costuma-se culpar a banana, alimentos com *an* (餡) ou outros alimentos, mas isso é absolutamente falso. A disenteria é uma purificação violenta, e o que acontece é que se culpa o alimento que foi ingerido imediatamente antes do início da purificação. Isso se deve a um total desconhecimento da verdadeira causa.
+
+### Devemos Temer as Bactérias?
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 15, de 30 de junho de 1949.*
+
+O medo que as pessoas em geral têm das bactérias hoje em dia é surpreendente. Nesse ponto, o homem moderno é verdadeiramente infeliz. Vistos de nossa perspectiva, eles vivem em constante ansiedade e apreensão, e não podemos deixar de vê-los como cordeirinhos dignos de pena.
+
+Pensem bem. Ao entrar em um trem ou bonde, não se sabe quantos milhares ou milhões de micróbios estão no ar. É inevitável tocar nas maçanetas das portas ou nas alças, mas talvez um paciente com tuberculose as tenha tocado momentos antes. Ao ir ao barbeiro, um pequeno corte pode ser a porta de entrada para o micróbio da escarlatina. Ao tomar banho, não se sabe quando espiroquetas ou gonococos podem se fixar e invadir o corpo; se entrarem nos olhos, podem causar uma conjuntivite terrível. Ao comer fora, o bacilo da febre tifoide pode estar nos talheres ou na comida. Ao conversar com alguém, o bacilo da tuberculose ou o vírus da gripe podem entrar em nosso corpo. E ao voltar da rua, é um grande trabalho fazer gargarejo e lavar as mãos. Vive-se, portanto, em uma espécie de fobia de bactérias. Se fosse possível se libertar completamente desse sofrimento, como seria? A felicidade seria, sem dúvida, inimaginável.
+
+Existe, então, neste mundo, um método tão maravilhoso? Tenho o prazer de informar que sim, ele existe.
+
+Não se trata de construir uma casa isolada em alto-mar, longe da terra, ou nas profundezas de uma montanha intocada. É claro que esse seria um método perfeito, mas algo tão absurdo é impraticável. É preciso poder viver com tranquilidade, mantendo o mesmo estilo de vida. Então, como se consegue um método tão bom? Antes de mais nada, basta se tornar um corpo saudável, no qual, mesmo que as bactérias se fixem, a doença absolutamente não se manifeste. É como um país com armamento fraco que teme a guerra; se as forças armadas forem fortes o suficiente para repelir o inimigo, não há com o que se preocupar.
+
+Aqui reside a grandeza do Johrei de nossa Igreja. Com o Johrei, a pessoa se torna um corpo verdadeiramente saudável, e a invasão de bactérias deixa de ser um problema. O medo desaparece por completo. É uma história que parece mentira, mas é a mais pura verdade. Ao se tornar um membro de nossa Igreja, pode-se confirmar que o que digo não é falso.
+
+Só por este ponto, já se pode ver o quão imensa é a salvação de nossa Igreja. Se não for a verdadeira salvação de Deus, o que mais poderia ser?
+
+### Um Fato que Não Pode Ser Ignorado
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 27, de 17 de setembro de 1949.*
+
+O resultado do Campeonato Nacional de Natação dos Estados Unidos desta vez foi verdadeiramente inesperado. Quem teria imaginado que o Japão seria tão forte e que a diferença para os Estados Unidos seria tão marcante? É verdade que o gigante Furuhashi estabeleceu um recorde surpreendente no ano passado, então havia uma certa expectativa, mas não a esse ponto. Até então, o campeonato mundial de natação era dominado pelos EUA.
+
+Diante desse fato, os especialistas americanos atribuem a causa ao treinamento intenso dos atletas japoneses, dizendo-se surpresos por eles treinarem continuamente por oito horas. Sobre isso, apresentarei nossa visão.
+
+A verdadeira causa é a diferença na força física. Parece estranho, pois até agora todos pensavam que os americanos eram fisicamente superiores aos japoneses. Mas, a julgar pela competição desta vez, não há como não admitir que a força física dos japoneses é superior. Sendo assim, é necessário investigar a fundo essa causa. A verdade é que, em primeiro lugar, está a alimentação. É o fato de que, em contraste com o alto consumo de carne dos americanos, os japoneses comem mais vegetais. A razão é que, nos carnívoros, a força física se concentra na parte externa, enquanto a interna se enfraquece. Como prova disso, em provas de curta distância, os EUA são fortes, mas em longa distância, os japoneses são mais fortes, devido à sua maior resistência, ou seja, menos falta de ar. O seguinte artigo ilustra bem esse ponto, publicado no Mainichi Shimbun de 20 de agosto (telefone de Los Angeles): “No início, os atletas estrangeiros nadam rápido, mas depois dos cem metros, seu ritmo cai visivelmente. A técnica é boa, mas Blum, Jones e outros, nos quatrocentos metros, são impressionantes nos primeiros cinquenta, cem metros, mas depois dos duzentos, não rendem nada. Acredito que isso não seja outra coisa senão falta de treinamento. No revezamento de oitocentos metros, Maruyama e Murayama estavam em ótima forma. Hamaguchi também saiu com muita confiança. Furuhashi, mesmo depois da final dos quatrocentos metros, fez um tempo incrível de um minuto, um segundo e quatro décimos na primeira metade, e um minuto, seis segundos e três décimos na segunda, o que, acredito, foi o principal fator para o estabelecimento do recorde mundial”.
+
+Dizer que a causa é o treinamento não está errado, mas suportar longas horas de treino também se deve à força física. Há um fato interessante sobre isso.
+
+É uma história de alpinistas estrangeiros. Eles dizem que, uma semana antes de uma escalada, adotam uma dieta estritamente vegetariana. Em um de meus livros anteriores, escrevi que os agricultores japoneses suportam todo aquele trabalho porque são vegetarianos; se comessem carne, sucumbiriam rapidamente. Além disso, é um fato que os vegetarianos vivem mais. O famoso escritor britânico Bernard Shaw, que este ano completa noventa e três anos e está vigoroso, é vegetariano. A longevidade dos monges Zen também é um exemplo. O monge Tossu Etsuzan, que morreu há mais de dez anos aos cento e doze anos, estava vigoroso até o momento de sua morte, como prova o fato de ter deixado um testamento para mais de dez pessoas pouco antes de falecer.
+
+Esses e muitos outros fatos mostram o quão benéfico o vegetarianismo é para a saúde humana. Fica claro o quão errada é a ideia de que a carne é mais nutritiva.
+
+### Um Exemplo Real da Calamidade das Vacinas
+
+*Revisão e acréscimo ao artigo publicado na revista ‘Hikari’ nº 31, de 15 de outubro de 1949.*
+
+Em 21 de setembro de 1949, na seção de cartas do jornal Mainichi Shimbun, havia um artigo intitulado “A Calamidade das Vacinas”, com o seguinte conteúdo:
+
+◇… Nós, os pais das vítimas do incidente da vacina contra a coqueluche em Igasaki-cho, distrito de Kurihara, província de Miyagi, apelamos a todos. Em novembro do ano passado, a prefeitura emitiu um comunicado sobre a aplicação da vacina preventiva contra a coqueluche. Os pais, desejando a felicidade de seus filhos, seguiram fielmente o comunicado. Quem, senão Deus, poderia imaginar que, entre as crianças em pleno desenvolvimento que receberam a vacina, sessenta e quatro seriam injetadas com o bacilo da tuberculose?
+
+◇… No início, o local da injeção começou a purular, mas os pais pensaram levianamente: “Logo passa…”. No final de janeiro deste ano, no entanto, descobriu-se que se tratava da terrível tuberculose, e o pavor tomou conta de nós. Felizmente, com a compaixão do Comando Geral e a boa vontade das instituições envolvidas, no início de março, todos os pacientes foram internados para tratamento. No entanto, uma vida preciosa foi perdida. A ansiedade dos pais atingiu o auge, e nossos dias e noites foram sombrios, sem o som de risos em casa. Em 2 de agosto, com exceção de três casos mais graves, todos receberam alta para tratamento em casa. No entanto, metade dos que receberam alta está passando por tratamento cirúrgico para tuberculose dos gânglios linfáticos axilares com médicos locais.
+
+◇… O tratamento futuro exige o profundo amor dos pais e uma vida de luta acompanhada de dificuldades financeiras para garantir uma nutrição adequada. Mais uma vez, nos deparamos com um grande obstáculo. Embora tenhamos recebido algum auxílio até agora, a economia familiar está completamente arruinada com o tratamento de longo prazo.
+
+◇… Apelamos e clamamos à cidade, à província e ao governo, suplicando por ajuda em nosso sofrimento. No entanto, a resposta é sempre a mesma: “Não podemos fazer nada até que a causa seja investigada em um futuro próximo e a responsabilidade seja esclarecida”. É claro que a responsabilidade deve ser esclarecida, mas é um fato inegável que a causa foi a vacinação preventiva. Sendo assim, socorrer aqueles que sofreram tal infortúnio não é uma questão de grande importância humanitária? Ficaríamos felizes em ouvir a opinião do Ministro da Saúde e Bem-Estar.
+(Yoshio Mori, representante dos pais das crianças vítimas da calamidade da vacina contra a coqueluche em Miyagi)
+
+Neste caso de vacinação, as dúvidas são: (1) a desinfecção da seringa foi incompleta? (2) o problema foi o próprio medicamento? (3) o bacilo da tuberculose estava misturado ao medicamento? Não há outras possibilidades a considerar. No entanto, (1) é improvável que a desinfecção da seringa tenha sido incompleta. Se fossem duas ou três pessoas, talvez, mas é difícil acreditar que a invasão do bacilo da tuberculose em sessenta e quatro pessoas tenha sido por desinfecção inadequada. (2) não pode ser o próprio medicamento, pois nenhum medicamento causaria sintomas semelhantes aos da tuberculose devido à sua toxicidade. (3) é absolutamente impossível que o bacilo da tuberculose pudesse sobreviver em grande número dentro do medicamento. Sendo assim, qual a causa? É totalmente impossível saber, o que torna a situação extremamente preocupante. Se a verdadeira causa fosse conhecida, medidas poderiam ser tomadas no futuro, mas como não é o caso, não se pode dizer que não há perigo. Provavelmente, ninguém mais permitirá que seu precioso filho receba essa vacina. Portanto, acredito que o mais sensato seria suspender temporariamente essa vacinação, recomeçar a pesquisa do zero e só retomá-la quando houver garantia absoluta de que não há perigo.
+
+É comum ouvir falar de danos coletivos causados por diversas injeções. E também é comum ouvir que, quando se recusa a injeção por medo, os funcionários responsáveis a aplicam à força.
+
+Diante disso, esperamos que, no futuro, a vacinação preventiva seja objeto de pesquisa aprofundada, para que se estabeleçam medidas infalíveis que não causem uma única vítima de calamidades vacinais.
+
+### Vacinação Preventiva e Tuberculose
+
+Este artigo pode ser interpretado como uma crítica a uma medida médica que o governo atual implementa com fé absoluta, e por isso eu preferiria não escrevê-lo. No entanto, a ignorância é tamanha que não posso ignorá-la. Peço que o leiam não com preconceitos, mas como uma teoria acadêmica para referência. A decisão de acreditar ou não é livre.
+
+Existem hoje muitas doenças chamadas infecciosas, como varíola, sarampo, coqueluche, difteria, febre tifoide, entre outras. Como medida de prevenção, aplica-se a vacinação. É verdade que ela pode impedir temporariamente o aparecimento da doença, mas é impossível evitar que ela se manifeste de forma absoluta.
+
+Nossa tese é que a doença é uma ação de eliminação das toxinas que todos possuem no corpo. Portanto, a doença é um método de aprimoramento da saúde concedido pelo Céu para purificar o corpo. A medicina, no entanto, interpreta isso ao contrário e considera correto interromper essa atividade purificadora. Isso é a vacinação preventiva. As doenças infecciosas são, em sua essência, uma purificação vigorosa, e por isso são mais comuns em jovens. Como as crianças em fase de crescimento têm um metabolismo intenso, é natural que a atividade purificadora para eliminar as toxinas, que são um obstáculo ao desenvolvimento, ocorra com mais facilidade. É verdadeiramente uma bênção do Céu. Mas o que faz a medicina? Tenta enfraquecer essa benéfica atividade purificadora. Para isso, injeta medicamentos e outras substâncias estranhas no corpo para debilitá-lo. As crianças assim debilitadas, como se esperava, não conseguem mais manifestar a ação purificadora, ou seja, a doença. A medicina, então, interpreta isso erroneamente como um sucesso, e a vacinação preventiva passou a ser praticada em larga escala como hoje. O erro é tão grande que faltam palavras para descrevê-lo.
+
+Consequentemente, não apenas se preservam as toxinas que deveriam ser eliminadas, como se adicionam novas toxinas medicamentosas, aumentando ainda mais seu volume. As crianças debilitadas, porém, não conseguem manifestar uma purificação forte, e o que ocorre com frequência são, no máximo, resfriados. Se fosse só isso, ainda vá lá, mas a verdade é que isso se torna a terrível causa da tuberculose. E aqui, uma observação: o resfriado é uma purificação fraca, mas, de qualquer forma, as toxinas do corpo são eliminadas lentamente através do escarro, da coriza, do suor, etc. A medicina, no entanto, interpreta ao contrário e aplica medidas para interrompê-lo. O resultado é a transformação em tuberculose, como expliquei no item sobre o assunto.
+
+Sendo assim, a vacinação preventiva, tão praticada hoje em dia, nada mais é do que semear a tuberculose. Enquanto não se despertar para esse fato, a tuberculose, longe de diminuir, se alastrará cada vez mais.
+
+No entanto, com o Johrei de nossa Igreja, a cura é surpreendentemente rápida, e é muito raro que haja risco de vida. A precisão e a rapidez do efeito são tais que, por exemplo, a disenteria é curada com duas ou três sessões de Johrei de vinte a trinta minutos cada, ou seja, em meio dia. A febre tifoide é curada em um a três dias. Disenteria, escarlatina, etc., da mesma forma. A difteria, se não se tomar a injeção, é curada em uma ou duas sessões. A coqueluche, em uma ou duas semanas. Quem ler isso provavelmente não acreditará, mas é a verdade, e não há o que fazer. Pode-se ter uma ideia disso ao ler os relatos de graças. Portanto, se o Johrei se difundisse, as doenças infecciosas diminuiriam a uma fração do que são.
+
+Esta revolucionária medicina Divina, tanto em sua patologia quanto em seu método de tratamento, já está completa. Aqueles que não a conhecem a rotulam de superstição e não lhe dão a menor atenção. De nossa perspectiva, são eles que estão presos a uma terrível superstição. Ah, como é difícil essa conscientização! Pois eles estão convencidos de que o que não é superstição é superstição, e essa crença está profundamente arraigada.
+
+### Meu Método de Saúde
+
+*Artigo publicado na revista ‘Hikari’ nº 43, de 1º de janeiro de 1950.*
+
+Para concluir, escreverei sobre meu método de saúde. Este ano, segundo a contagem ocidental, faço sessenta e sete anos, mas estou tão vigoroso que supero os jovens. Costumo subir a montanha que estamos desenvolvendo, e os jovens têm as pernas mais fracas, então sou eu que tenho que diminuir o ritmo. Muitas vezes me perguntam: “Meishu-Sama, o senhor não se cansou?”, e para ser sincero, como não estou cansado, fico sem saber o que responder.
+
+Durmo por volta das duas e meia ou três da manhã e me levanto entre sete e sete e meia. Durmo cerca de quatro a quatro horas e meia. Quanto ao trabalho, meus assistentes sabem bem, faço o trabalho de umas dez pessoas, e parece que os jovens têm dificuldade em me acompanhar, mas peço que tenham paciência, pois não há o que fazer.
+
+Isso se deve em parte aos meus cuidados com a saúde, mas como eles são o oposto dos do homem moderno, quero compartilhá-los para que sirvam de referência.
+
+O cuidado com a saúde da medicina moderna prega, em primeiro lugar, não se esforçar, dormir bem, ter uma nutrição adequada, mastigar bem os alimentos, não usar muito a cabeça, etc. Eu faço praticamente o oposto.
+
+Meu primeiro cuidado com a saúde é me esforçar. O ser humano se torna mais saudável na medida em que se esforça. Mas como o esforço excessivo é penoso, eu faço um certo ajuste. O sono varia com a idade, mas para alguém da minha idade, quatro a cinco horas é o ideal.
+
+Quanto à alimentação, o interessante é que estou sempre preocupado em estar comendo nutrientes demais. Recebo tantas oferendas de alimentos dos fiéis que seria um desperdício não comer. Para comer um pouco da sinceridade de cada um, acabo me tornando um gourmet. Para regular isso, depois do café da manhã, sempre como uma quantidade razoável de batata-doce. E antes de dormir, costumo comer arroz com chá e nunca dispenso uma tigela de sopa de feijão doce.
+
+Os alimentos também têm yin e yang, e não é bom pender nem para um lado nem para o outro. O yin são os vegetais, e o yang, os peixes e carnes. Eu os equilibro para não haver excessos. De manhã, setenta por cento yin e trinta por cento yang; ao meio-dia, meio a meio; e à noite, setenta por cento yang e trinta por cento yin. As conservas também têm yin e yang. O yin são as folhas verdes, e o yang, as raízes brancas como o nabo e o rabanete. Também os mantenho em equilíbrio. E não mastigo muito, mais ou menos pela metade. Mastigar demais enfraquece o estômago.
+
+Eu também não faço a sesta. Depois de comer, levanto-me imediatamente e começo a me movimentar. Este é um método para fortalecer o estômago. Foi assim que curei meu problema de estômago. E nunca determino a quantidade. O princípio da minha dieta é: “comer o que quero, quando quero, na quantidade que quero”. Mas na vida real, não posso ser tão egoísta, então me adapto.
+
+Aqui, algo que pode parecer surpreendente: é melhor usar a cabeça o máximo possível. É uma forma de saúde. Pessoas que usam o cérebro vivem mais. Mas usá-lo para se preocupar, isso não é bom. É preciso usá-lo com prazer e alegria. Aqui também se encontra o valor da fé. Quando se tem uma preocupação, surge o sentimento de entregá-la a Deus. Com isso, a maior parte da preocupação diminui. É como se Deus assumisse uma parte dela. Parece uma atitude muito folgada, mas Deus, ao contrário, se alegra com essa folga.
+
+Desde sempre, saio de casa pelo menos uma vez por dia. Chova ou faça vento, nunca falhei. E caminho o máximo que posso. É algo que ouço com frequência de pessoas que se mantêm saudáveis na velhice. Bebo cerca de três cálices de saquê, um copo de cerveja e fumo moderadamente.
+
+Este é o meu método de saúde. É claro que não me preocupo com micróbios. Para a maioria das pessoas, pode parecer descuidado, mas na verdade, este é o verdadeiro cuidado com a saúde. Acima de tudo, garanto que qualquer um que pratique este método se tornará saudável. Não se tornará um intelectual pálido, então recomendo que o pratiquem com confiança.
+
+*Coleção Jikan, Volume 10*
+*O Método Divino de Saúde*
+*Publicado em 20 de abril de 1950*
+*Formato B6, 72 páginas, não comercializável*
+*Autor: Okada Jikan*
+*Editor: Kojiro Migiroki*
+*Publicação: Departamento de Publicações do Jornal Kyusei*
+
+---
+
+# Coleção de Teses do Mestre Okada Jikanshi — Curso sobre o Método do Johrei (Dois)
+
+**Categoria:** sasshi | **Ano:** 昭和28(1953)年10月1日 | **Fonte:** 浄霊法講座
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-10-01
+
+## Coleção de Teses do Mestre Okada Jikanshi — Curso sobre o Método do Johrei (Dois)
+
+*Publicado no periódico “Curso sobre o Método do Johrei” nº 2, em 1º de outubro de 1953.*
+
+A cura das doenças constitui nosso princípio fundamental. Nesse sentido, é imprescindível que enriqueçam gradualmente seus conhecimentos sobre as enfermidades — não sob a ótica da medicina convencional, mas sim da sabedoria Divina. Conforme sempre oriento, a identificação do ponto vital de cada caso depende de um vasto conhecimento; sem ele, torna-se impossível fazer uma avaliação correta. Portanto, considero de grande valia a realização de grupos de estudo ou debates sobre as doenças. Ademais, incentivem-se a questionar, por escrito se necessário, tudo aquilo que não compreenderem. Nosso objetivo é, em essência, edificar a verdadeira medicina: uma medicina espiritual e inovadora.
+
+Diferentemente da medicina terrena, esta não exige um conhecimento anatômico minucioso. Naturalmente, a cura pode ser alcançada apenas pela dimensão espiritual, mas o processo tende a ser mais demorado. Ao ministrar o mesmo Johrei, se o ponto vital for identificado com precisão, a recuperação será significativamente mais rápida. Contudo, quando o foco se desvia do ponto essencial, o tempo necessário para a cura prolonga-se consideravelmente. Assim, é de suma importância que compreendam bem tanto os aspectos espirituais quanto os físicos.
+
+Ocasionalmente, recebo perguntas sobre questões que já deveriam ser de pleno conhecimento. Em uma recente sessão de perguntas, por exemplo, surgiram indagações que qualquer chefe de igreja seria capaz de responder. A esses, orientei que buscassem seus respectivos superiores. Há também quem questione pontos já elucidados inúmeras vezes nos Escritos Divinos ou formule perguntas de uma simplicidade desconcertante, semelhantes às de um aluno do primeiro ano. Tais situações revelam a alarmante precariedade do entendimento sobre as doenças. Por conseguinte, é imperativo que os ministros e membros em posição de liderança se dediquem a aprimorar, ao máximo, seus conhecimentos nessa área.
+
+### I. A Racionalidade do Johrei
+
+O aspecto primordial é a Sabedoria e Iluminação. Trata-se da capacidade de compreender as diversas facetas da existência, e compreendê-las de forma correta. O padrão para essa correta compreensão são os Escritos Divinos. Se, ao lê-los, a maior parte de seu conteúdo lhes parece lógica e clara, isso indica que sua Sabedoria e Iluminação já atingiu um grau considerável. Haverá momentos de dúvida e outros em que, mesmo compreendendo durante a leitura, a ideia se dissipa ao retornar para casa. A capacidade de apreender subitamente as verdades contidas nos ensinamentos é um sinal de que a Sabedoria e Iluminação está em franca ascensão.
+
+Para conseguir, apenas ao observar os sintomas, diagnosticar com exatidão a enfermidade de uma pessoa, é preciso ter alcançado um nível muito elevado de Sabedoria e Iluminação. Portanto, se antes compreendiam cinco pontos e agora compreendem seis ou sete, podem estar certos de que sua evolução espiritual está progredindo.
+
+*(1º de julho)*
+
+Tudo na vida se resume ao ponto vital. Contudo, é muito comum que as pessoas se desviem dele. Isso não se aplica apenas às doenças, mas também às questões cotidianas, às conversas e às diversas atividades, incluindo a difusão da fé. Quando alguém hesita, sem saber se deve ou não ingressar na fé, uma palavra precisa, que atinja o ponto vital de sua dúvida, pode levá-lo à decisão: “Então, ingressarei”. Encontrar esse ponto crucial, todavia, é uma tarefa árdua. À medida que a Sabedoria e Iluminação de uma pessoa avança, a descoberta do ponto vital torna-se mais rápida.
+
+Seja qual for a situação, o segredo é atuar sobre seu ponto vital. Quando não conseguirem encontrá-lo, não ajam com afobação. Isso pode significar que o momento oportuno ainda não chegou ou que existem outras circunstâncias a serem consideradas. Se mantiverem a questão em mente, perseverando, o ponto vital certamente se revelará quando o tempo for propício. No tratamento de doenças, por exemplo, quando uma febre insiste em não ceder, basta que o Johrei atinja o ponto vital para que ela baixe. Muitos de vocês já devem ter vivenciado essa experiência. A capacidade de descobrir o ponto vital é a condição máxima para o sucesso na vida humana.
+
+*(5 de julho)*
+
+O ser humano precisa desenvolver uma mente capaz de identificar o ponto vital. A fé é o treinamento para isso. A Sekaikyuseikyou se fundamenta no princípio do ○ヽ (Su), um princípio que, até hoje, ninguém havia compreendido. A essência de nossa Obra é compreender esse princípio e, com base nele, salvar a humanidade. Quando passamos a observar o mundo e a agir sob essa ótica, os resultados são extraordinários. Embora seja um caminho difícil, já será um grande avanço se conseguirem, ao menos, identificar rapidamente o que se aproxima do ponto vital.
+
+*(5 de julho)*
+
+Como já afirmei, tudo o que contraria a lógica não pode prosperar. Por mais que se esforcem com afinco, se as condições para que determinada pessoa seja purificada pelo Johrei forem irracionais, ela não obterá a cura. Creio que já compreenderam o essencial sobre este assunto, pois o abordei anteriormente. Uma das condições que tornam uma situação desprovida de lógica é a enorme diferença que existe entre alguém que já conheceu a Deus e alguém que O ignora por completo. Uma pessoa que nada sabe pode cometer graves ofensas e ser perdoada por sua ignorância. Todavia, quando alguém que já está na fé há tempo considerável, e que deveria saber discernir, age de maneira irracional, a graça Divina não se manifesta.
+
+É preciso refletir profundamente sobre tais questões. Quando, ao ministrar Johrei, não obtêm o resultado esperado, muitos tendem a pensar que seu poder espiritual é fraco ou a buscar outras explicações. Contudo, raramente esse é o caso. Na verdade, os motivos mais comuns são o desvio do ponto vital e a existência de condições que ferem a lógica espiritual. É fundamental que desenvolvam a sensibilidade para perceber isso, o que depende diretamente da Sabedoria e Iluminação de cada um. Portanto, aprimorar a Sabedoria e Iluminação é a prioridade máxima. Com ela, a descoberta do ponto vital torna-se rápida, o que influencia positivamente todas as esferas da vida, inclusive aquelas que parecem não ter relação com a fé. Em uma escala maior, o mesmo se aplica à política e à economia. Vemos homens notáveis em posições de liderança se esforçando, mas, com enorme frequência, suas ações se desviam do ponto vital.
+
+*(6 de julho)*
+
+“Tenho o caso de uma estudante de dezessete anos, jogadora de balé, que subitamente começou a ter convulsões por todo o corpo. Na Faculdade de Medicina de Nagoya, foi diagnosticada com coreia. Ela apresenta um nódulo terrivelmente endurecido que vai do ombro até o lado direito da medula oblonga. A família tem a Imagem da Luz Divina entronizada, e tanto a mãe quanto a filha ingressaram na fé. O marido, porém, ainda não. Devido a pressões externas, a família está sendo aconselhada a interná-la, mas a esposa me pede que vá ao hospital para ministrar Johrei.”
+
+Absolutamente não. O simples fato de você me fazer uma pergunta como essa é estranho. É inconcebível que, a esta altura, ainda não saiba como proceder. Ir a um hospital para ministrar Johrei é, em princípio, um erro, pois a família confiou o tratamento aos médicos. O correto é não interferir. A exceção seria um caso em que, por alguma circunstância, o paciente foi hospitalizado, mas agora manifesta o desejo de abandonar o tratamento médico e entregar-se a Deus, e não haja oposição de ninguém próximo. Se houver uma única pessoa contrária, não se deve ir. Se o chefe da família, arrependido por sua decisão, vier pessoalmente suplicar por sua ajuda, então você poderá ir. Fora dessa condição, jamais vá. Isso se aplica às relações humanas em geral, mas é especialmente verdadeiro no que tange às coisas de Deus: tudo deve seguir a ordem correta. Jamais se deve praticar atos que não estejam em conformidade com essa ordem. Como já explanei em palestras e teses, tudo se baseia na racionalidade; deve haver lógica. O caso apresentado é ilógico, portanto, inaceitável. A situação precisa ser lógica sob todos os pontos de vista. Se o chefe da família, que é a figura central, deposita sua confiança nos médicos, a ordem correta está completamente rompida.
+
+“Um paciente tem um câncer localizado entre o cárdia e o esôfago. Pela garganta, consegue ingerir apenas cerca de dois copos de leite. O restante da alimentação é administrado por um orifício na lateral do abdômen, que leva a uma sonda no estômago. Ao receber Johrei, a região do cárdia fica congestionada, e a passagem se obstrui. Como devo proceder em um caso como este?”
+
+Pare imediatamente. É impossível que alguém se salve por meio de um procedimento tão equivocado. Envolver-se com um caso desses é um grande esforço para nenhum resultado, um verdadeiro desperdício de tempo e energia. Portanto, não o faça em hipótese alguma.
+
+Como escrevi recentemente, já está determinado quem será salvo e quem perecerá. Assim, por mais que se esforce, uma pessoa destinada a perecer não será salva. O caso do paciente com o problema no esôfago e no cárdia é um exemplo de alguém que já se encontra no lado dos que não serão salvos. Se estivesse destinado à salvação, teria encontrado a fé antes de chegar a tal estado. Tentar salvar pessoas assim é um esforço inútil. Não é algo difícil de discernir; basta observar. Uma pessoa que está destinada a ser salva, cujo tempo chegou, trilhará o caminho da fé com fluidez e facilidade. Aquela cujo caminho é árduo pertence ao grupo dos que não serão salvos. Como mencionei em minha tese, o número de pessoas que não serão salvas é muito maior; talvez menos de uma em cada dez encontre a salvação. No início, acreditamos que todos podem ser salvos e nos dedicamos a todos igualmente. Contudo, o grande erro é despender um esforço imenso com aqueles que não podem ser salvos, negligenciando os que poderiam.
+
+A capacidade de fazer essa distinção também depende do avanço da Sabedoria e Iluminação de cada um. Ao aprimorá-la, o poder de discernimento se desenvolve. E a pessoa que possui a Sabedoria e Iluminação apurada é capaz de responder com precisão às dúvidas dos outros, o que, por sua vez, facilita o ingresso de novas pessoas na fé.
+
+*(1º de julho)*
+
+### II. O Poder Espiritual do Johrei
+
+Em qualquer enfermidade, a cura ou a sua ausência pode depender da intensidade do poder espiritual do Johrei.
+
+Esse poder espiritual se torna mais forte à medida que relaxamos a força física. Portanto, o essencial é ministrar Johrei sem tensionar o corpo. Quem consegue relaxar por completo adquire um poder extraordinário. Ademais, o poder espiritual se intensifica de acordo com a profundidade da fé da pessoa, o que, em sua essência, está ligado à Sabedoria e Iluminação.
+
+Há um ponto que requer atenção especial: a arrogância reduz drasticamente o poder espiritual.
+
+É por isso que, no início da fé, quando a pessoa se sente insegura e pensa “eu não sou capaz”, os resultados costumam ser melhores. No momento em que ela começa a pensar “agora sim, estou me tornando bom nisso”, a cura se torna mais difícil. O motivo é a arrogância. Assim, ministrar Johrei com um sentimento de temor e reverência produz bons resultados. Isso não significa que se deva agir com hesitação, mas sim com uma profunda humildade, reconhecendo-se como um instrumento a serviço de Deus. A postura interior deve ser a de enxergar o doente, mesmo que seja a pessoa mais insignificante do mundo, como se não fosse mais que um inseto. Se pensarmos que se trata de alguém importante, nosso poder espiritual será subjugado.
+
+A Sekaikyuseikyou está em um nível completamente diferente das outras religiões. Se temos consciência de que recebemos o poder que nos é outorgado, então, os seres humanos deste mundo são como meros insetos. Contudo, essa percepção não deve ser externalizada. Exteriormente, devemos agir com a máxima humildade. Eis aí a dificuldade.
+
+O ponto mais importante é: quanto mais rígido for um nódulo, menos força física se deve empregar. A tendência natural, porém, é a de aplicar mais força na tentativa de dissolver algo muito duro. É por isso que o nódulo não se dissolve. Quando sentirem que algo não está se dissolvendo, podem ter certeza de que estão aplicando força. A força deve ser tão sutil que mal se perceba se está sendo aplicada ou não, como um toque suave e flutuante. A intenção, esta sim, deve ser forte e penetrante. Ao relaxar a força física, a cura se acelera consideravelmente.
+
+*(6 de julho)*
+
+### III. A Ordem e os Pontos Vitais do Johrei
+
+Em tudo na vida, o primeiro passo é identificar o ponto vital. No Johrei, o mesmo se aplica. A descoberta do ponto vital torna-se muito mais fácil quando se tem um conhecimento geral dos princípios que venho explicando. Ao fazer um autodiagnóstico, por exemplo, apalpem todo o corpo. Onde houver calor, há toxinas. Se o corpo estiver uniformemente frio, ótimo. Mas geralmente encontrarão pontos de calor; esses são os pontos vitais. Em seguida, pressionem e encontrarão, invariavelmente, pontos doloridos. Existem pessoas que não sentem dor alguma, mas é improvável que isso se deva à ausência de toxinas. O mais provável é que as toxinas estejam tão solidificadas que nenhuma purificação esteja ocorrendo. A dor, na verdade, indica que o nódulo de toxinas está passando por algum grau de purificação. A ausência total de dor, quando não há purificação, pode ser um sinal de perigo. Pessoas assim, ao ingressarem na fé, podem começar a sentir dores onde antes não sentiam, o que significa que a atividade purificadora naquela área começou. Casos como esse, porém, são raros. A maioria das pessoas sente dor em algum lugar. Ao receber Johrei nesses pontos, ou pedir que alguém o faça nas costas, a saúde será restabelecida.
+
+Para a maioria dos doentes, o ideal é começar pedindo que inclinem a cabeça e ministrando Johrei no centro dela, em sua parte mais profunda. Esse é o centro primordial do ser humano, e o que ocorre ali afeta o corpo inteiro. Após purificar essa área, passa-se para os ombros. Deve-se focalizar o Johrei nos ombros pela frente e, em seguida, por trás. Em casos de grande enrijecimento, pode-se ministrar Johrei por cima do ombro, mesmo sobre a roupa. Ao flexibilizar os ombros, os nódulos ao redor do pescoço também se dissolvem com muito mais facilidade. Problemas nos braços e pernas também estão relacionados aos ombros. Por isso, uma pessoa com problemas nas pernas pode sentir uma melhora significativa ao receber Johrei nos ombros.
+
+*(5 de julho)*
+
+Eu mesmo carrego uma quantidade considerável de venenos medicamentosos antigos, que vêm sendo eliminados gradualmente. Desde o outono do ano passado, comecei a ministrar Johrei em meus próprios ombros para torná-los mais flexíveis. Nos pontos mais endurecidos, concentro a luz pela ponta dos dedos. À medida que eles se tornam mais macios, meu apetite, em comparação com o ano passado, praticamente dobrou. E a comida tornou-se extremamente saborosa.
+
+Recentemente, afirmei que “para curar a tuberculose, deve-se focar o Johrei nos ombros”. Isso não se aplica apenas à tuberculose, mas também é extremamente eficaz para cardiopatias e doenças estomacais. Pessoas com problemas cardíacos invariavelmente têm o ombro esquerdo enrijecido. As toxinas que se dissolvem dali se acumulam ao redor do coração, pressionando-o. Isso é a cardiopatia. A asma, evidentemente, tem a mesma origem, com a diferença de que os nódulos se formam na região do diafragma. Não é à toa que os médicos falam em “asma cardíaca”. O mau funcionamento do coração prejudica a atividade dos pulmões. Como todos devem saber, os pulmões são água e o coração é fogo. Quando o fogo se intensifica, a água se movimenta melhor, o que beneficia os pulmões.
+
+Dessa forma, ao flexibilizar os ombros, os pulmões melhoram porque o coração melhora. E, com os ombros flexíveis, a fome aumenta consideravelmente.
+
+O aumento do apetite, por sua vez, significa que a atividade do estômago está melhorando. Portanto, flexibilizar os ombros beneficia os pulmões, o coração e o estômago. Se essa trindade estiver bem, o resto não é um grande problema; as outras questões são como um apêndice. Mesmo as doenças hepáticas são causadas por toxinas que descem dos ombros e se acumulam no fígado. As doenças renais se manifestam com acúmulos nesta região (lombar), mas as toxinas também vêm dos ombros. O diabetes está relacionado ao pâncreas, localizado do lado esquerdo. O mecanismo é semelhante ao do fígado: o mau funcionamento do fígado pressiona os órgãos vizinhos, causando problemas na vesícula biliar e icterícia. Em suma, se a trindade composta por pulmões, coração e estômago estiver saudável, não há com o que se preocupar.
+
+Resta a cabeça. Na vida moderna, somos obrigados a usar muito o cérebro. Não vivemos mais em uma era tranquila como antigamente. O uso excessivo do cérebro atrai nódulos de toxinas para a cabeça. Geralmente, são toxinas acumuladas nos ombros que sobem para lá devido ao esforço mental. Portanto, ao flexibilizar os ombros, a cabeça também se torna mais leve. Quando os nódulos acumulados na nuca se dissolvem, ocorre a disenteria. Atualmente, há um grande alarde sobre um surto de disenteria, e a principal recomendação das autoridades é lavar bem as mãos. É verdadeiramente cômico.
+
+*(7 de julho)*
+
+A disenteria, como sempre digo, nada mais é do que o sangue tóxico da nuca que se dissolve e é expelido pelo ânus.
+
+*(5 de julho)*
+
+Com a melhora do estômago, o fígado, o pâncreas e a vesícula biliar também se recuperam.
+
+*(25 de julho)*
+
+Além disso, todos possuem nódulos ao redor do pescoço, que são a causa de diversas doenças. Essas toxinas se acumulam primeiro nos ombros e depois sobem para o pescoço. Portanto, ao tratar os ombros, os nódulos no pescoço se dissolvem com muito mais facilidade. Assim, os ombros são o ponto vital para todas as enfermidades. A única exceção é o derrame. Pessoas propensas ao derrame, ao contrário, costumam ter os ombros flexíveis.
+
+Em compensação, as toxinas se acumulam em seus pescoços. Quando esses nódulos se dissolvem, as toxinas penetram no cérebro.
+
+*(6 de julho)*
+
+Pessoas com propensão ao derrame sempre têm nódulos ao redor do pescoço, seja do lado direito ou esquerdo. O mesmo ocorre na nuca, à direita ou à esquerda. As toxinas, que deveriam descer, sobem e se solidificam nesses locais. Isso ocorre devido à maneira como a pessoa utiliza o corpo em sua profissão. Quando esses nódulos se dissolvem abruptamente e as toxinas entram no cérebro, ocorre a hemorragia cerebral. Se o enrijecimento for do lado direito, os membros do lado esquerdo ficam paralisados. No caso do derrame, o ponto vital não são os ombros, mas sim os nódulos no pescoço, como acabei de explicar. Felizmente, esses casos são raros. As doenças mais comuns são a tuberculose — que afeta pulmões, coração, estômago e intestinos — e a disenteria, tão em voga atualmente.
+
+*(5 de julho)*
+
+O motivo pelo qual atletas costumam morrer jovens é o enrijecimento dos ombros. Arremesso de peso, salto com vara, natação — todos são esportes que exigem força nos ombros, tornando-os rígidos. E é comum que atletas desenvolvam tuberculose. As toxinas solidificadas nos ombros, ao passarem por uma febre purificadora, dissolvem-se e geram tosse e catarro. Se procurarem um médico, serão diagnosticados com tuberculose. Diante disso, a condição ideal é ter os ombros flexíveis.
+
+Crianças com baixo rendimento escolar invariavelmente têm os ombros rígidos. Aquelas de constituição linfática, com rosto pálido e corpo franzino, sofrem todas de problemas nos ombros. Em crianças, basta ministrar Johrei nos ombros de forma simples.
+
+Durante o Johrei, deve-se focar nos ombros pela frente, depois por trás e, em casos graves, por cima. Gradualmente, eles se tornarão mais flexíveis. Geralmente, o próprio paciente se queixa de rigidez nos ombros, o que facilita a identificação. Em crianças, basta apalpar para perceber. Bebês também apresentam muito esse problema. Irritabilidade, birra e choro excessivo são, na maioria das vezes, causados por ombros rígidos. O mesmo se aplica a febres frequentes. A amigdalite, comum em crianças, também é causada por toxinas provenientes dos ombros. Em resumo, na parte superior do corpo, o foco principal são os ombros, seguidos pela região ao redor do pescoço.
+
+Quanto à cabeça, muitas pessoas acumulam toxinas no fundo do topo da cabeça (fontanela). Preocupações constantes fazem com que as toxinas se concentrem ali. O esforço intelectual também as atrai para esse ponto. Como está escrito nos livros, as funções de memorização, leitura e estudo, ou seja, o pensamento racional, concentram-se na parte frontal da cabeça. A parte posterior está ligada às emoções. As preocupações, por envolverem tanto a razão quanto a emoção, afetam o topo da cabeça. Muitas pessoas sentem peso ou desconforto nesse ponto central, e a causa é essa. A partir daí, a ordem do Johrei deve ser: nuca e medula oblonga. Seguindo essa sequência, qualquer doença pode ser curada.
+
+*(7 de julho)*
+
+Problemas nos braços e pernas também estão, como já disse, ligados aos ombros. Portanto, uma pessoa com dificuldades nas pernas sentirá uma melhora significativa ao receber Johrei nos ombros.
+
+Tendo isso em mente, podem considerar que flexibilizar os ombros é o ponto vital mais importante. Para fazer um diagnóstico de saúde, basta verificar os ombros. Se estiverem flexíveis, a pessoa certamente é saudável.
+
+*(6 de julho)*
+
+Recentemente, falei sobre a importância de flexibilizar os ombros. O principal benefício, como disse, é o aumento do apetite. Mas qual o grau de flexibilidade ideal? Ao apalpar, ou a própria pessoa pode verificar, os ombros devem estar macios como algodão. Alcançar esse estado, porém, é uma tarefa árdua. É quase certo que encontrarão pontos endurecidos em algum lugar. Na verdade, é raro encontrar uma área que seja completamente macia. Como o enrijecimento é uniforme, as pessoas acabam achando que essa é a condição normal. Quando cerca de metade desses nódulos se dissolve, o apetite aumenta consideravelmente, e a pessoa começa a ganhar peso. A magreza está diretamente ligada aos ombros. Já disse antes que é possível engordar ou emagrecer à vontade, e o segredo para engordar é simplesmente flexibilizar os ombros. Saber disso é uma grande ajuda para as pessoas magras.
+
+Em geral, não é preciso que outra pessoa faça isso; podemos dissolver os nódulos nós mesmos. A mão deve ser mantida ligeiramente afastada, sem tocar a pele. Eu mesmo faço isso constantemente e meus ombros já estão bem mais flexíveis. Também se pode ministrar Johrei por cima. O fundamental é que, havendo apetite, qualquer doença pode ser curada. O Johrei cura todas as enfermidades, mas o risco é que a pessoa sucumba à debilidade antes da cura completa. A debilidade está ligada à alimentação. Portanto, ao estimular o apetite, prevenimos a debilidade, tratando assim a raiz do problema.
+
+O ponto mais problemático, no entanto, é a medula oblonga, onde invariavelmente há um nódulo. Não há quem não o tenha. Pode ser maior ou menor, mas sempre haverá algo ali, como uma barra ou uma pedra. Ninguém tem essa região completamente macia. Isso significa que, hoje em dia, todas as pessoas estão doentes. Atualmente, mesmo os que vivem muito, raramente passam dos setenta ou oitenta anos. Contudo, se esses nódulos fossem eliminados, todos viveriam certamente mais de cem anos. É algo realmente extraordinário. Prolongar a vida não é nada difícil. A questão é que a história parece boa demais para ser verdade, e as pessoas acabam não acreditando. Enfim, o ponto é este aqui (medula oblonga).
+
+*(17 de julho)*
+
+Neste ano, os casos de encefalite japonesa já são dez vezes maiores que no ano passado. Como sempre explico, isso ocorre porque, para que o cérebro seja exposto à luz do sol, as toxinas se concentram na nuca. Essas toxinas vêm, em grande parte, das costas. O ser humano acumula muito mais toxinas nas costas. E por que isso acontece? Porque ninguém dorme de bruços; as pessoas dormem de costas, e as toxinas se depositam ali. As toxinas espalhadas pelas costas e ombros sobem para a cabeça quando esta é exposta ao sol. O corpo humano é sabiamente projetado para que, ao chegarem à nuca, essas toxinas sejam expelidas. Elas atravessam o cérebro e saem na forma de remela e coriza. Durante esse processo, sempre há presença de sangue, pois é o sangue tóxico daquela região que está sendo eliminado. Uma vez que tudo seja expelido, a pessoa fica curada.
+
+O problema é que a medicina tenta impedir essa eliminação com compressas de gelo e outros métodos, o que acaba criando um nódulo de toxinas solidificadas na cabeça. É por isso que, após a “cura”, a pessoa pode ficar com sequelas mentais, com o pescoço rígido ou com as mãos dormentes. Isso acontece porque a purificação foi suprimida. Se deixada em paz, a doença se curaria por si só. Essa é a verdadeira natureza da encefalite japonesa, e não há nada mais benéfico. Passar por uma encefalite japonesa reduz consideravelmente as toxinas da região da cabeça.
+
+*(16 de agosto)*
+
+Essas toxinas, provenientes principalmente dos ombros e das costas, sobem para a cabeça devido à exposição ao sol. Elas se concentram na nuca, atravessam o cérebro e são expelidas como remela e coriza. A medicina, ao aplicar gelo, faz com que essas toxinas se solidifiquem em alguma parte da cabeça. É isso que causa sequelas, como a hemiplegia. Se o nódulo se forma na parte frontal, a pessoa pode perder a visão; se na lateral, a audição; se na região do pescoço, as mãos podem ficar dormentes. Portanto, se nada fosse feito, as toxinas seriam expelidas e a cura seria certa. A taxa de mortalidade, no entanto, é considerável, parecendo ser superior a 10%. Se a causa fosse a picada de um mosquito, os bairros de Honjo e Fukagawa, em Tóquio, deveriam ter a maior incidência. No entanto, são justamente as áreas com menos casos. Outras regiões têm mais. Ademais, se os mosquitos fossem os vetores, a doença não ocorreria no inverno, mas ela ocorre. É realmente risível. Como vemos com frequência nos relatos de graças, a encefalite japonesa é facilmente identificável, pois a medula oblonga fica paralisada. Sendo assim, seria até bom que as pessoas contraíssem encefalite japonesa. A mente fica mais clara. Um estudante que passa por isso certamente terá um desempenho escolar melhor depois. Tornar-se-á um aluno de destaque. Na verdade, seria mais benéfico para os adultos do que para as crianças.
+
+*(17 de agosto)*
+
+A flexibilização dos ombros também é extremamente eficaz para indigestão, gastrite e espasmos estomacais. Portanto, sabendo que a melhor forma de tratar as doenças da parte superior do corpo é flexibilizar os ombros, devem concentrar o Johrei ali. Em seguida, vem a região ao redor do pescoço, especialmente a medula oblonga e os gânglios linfáticos, que devem ser intensamente purificados.
+
+Houve um caso interessante recentemente: uma pessoa cuja língua travava e tinha dificuldade para articular as palavras. A causa estava no fundo do nariz. Normalmente, a língua trava lateralmente, a partir desta região (sob o queixo), mas há casos em que ela trava verticalmente. Isso ocorre a partir da área que a medicina chama de adenoide. Para esses casos, ministrar Johrei neste ponto (no fundo, entre o nariz e a boca) e no centro da nuca melhora muito a condição. A causa, como veem, pode estar em lugares realmente inesperados.
+
+Há também muitas pessoas com problemas nas pernas e na lombar que melhoraram após receberem Johrei no pescoço. Para a parte superior do corpo, como já disse, o centro é o ombro.
+
+*(26 de julho)*
+
+Doenças oculares como miopia e tracoma são causadas por um nódulo invariavelmente presente na nuca. Dissolvendo-o, até mesmo um cego pode voltar a enxergar. As toxinas que se acumulam ali vêm dos ombros, seguindo este trajeto. Há muitas pessoas que perderam a visão devido a esses nódulos. Para tratá-las, deve-se localizar o centro por trás dos olhos; há um ponto de intersecção ali. Removendo o nódulo nesse ponto central, a visão certamente retornará. Dissolvê-lo, porém, leva um tempo considerável. É preciso ministrar Johrei com o mínimo de força física, focando no centro. Gradualmente, o nódulo se dissolverá e a visão melhorará. Curar a cegueira, portanto, não é particularmente difícil.
+
+Quanto aos ouvidos, o zumbido é um problema comum. Ele é causado por um nódulo que sempre existe aqui (medula oblonga, músculos do pescoço). Pessoas com audição deficiente devido a uma otite média passada têm um problema nas glândulas parótidas. Esse é o canal da otite média, e há nódulos residuais ali. Basta dissolvê-los.
+
+Ademais, todas as pessoas têm calor na parte frontal da cabeça. Aqueles com anemia cerebral têm a testa fria, mas em pessoas normais, ela está sempre quente. Certo grau de calor é inevitável, mas há uma diferença entre o calor superficial e o calor que vem do núcleo. Pessoas com calor no núcleo sentirão um calor profundo e persistente ao toque, enquanto o calor superficial não é percebido por muito tempo. Embora o calor superficial também não seja ideal, pode-se dizer que não é um grande problema. O fato é que, ao pensar em diversas coisas, as toxinas se acumulam nessa região. Se não houvesse toxinas do pescoço para cima, poderíamos pensar à vontade sem que elas se acumulassem, mas ninguém está livre delas. Assim, pensar e se preocupar concentra as toxinas na parte frontal da cabeça. Nos homens, isso não é tão pronunciado, mas o ciúme feminino é o que mais concentra toxinas ali. Não é ciúme, é “cabeça quente”.
+
+Devemos também considerar o seguinte: a parte superior e a inferior do corpo humano correspondem ao céu e à terra. O ponto entre as sobrancelhas (céu) corresponde à parte frontal feminina (terra). Aprofundando ainda mais, o significado sexual está relacionado a esta área da fronte. Isso é mais comum nos homens: ao assistir a um espetáculo de strip-tease, o estímulo visual atinge o interior da parte frontal da cabeça e desce imediatamente para a parte inferior. Isso é ciência sexual. A causa do desejo sexual masculino está na parte frontal da cabeça. (A medicina de Deus também abrange a ciência sexual, tão em voga hoje em dia.) Portanto, para pessoas com calor na parte frontal da cabeça, é essencial purificar também a parte inferior. Alguém que sofre de dores de cabeça e mal-estar pode ser curado ao receber Johrei no ponto vital inferior. Existe, portanto, uma correspondência entre céu e terra.
+
+As doenças também têm um ponto vital. Existe o palco e os bastidores. A doença é o que se vê no palco, mas a causa está nos bastidores. É preciso tratar os bastidores para alcançar a cura fundamental. No caso dos problemas de visão, as toxinas que se acumulam aqui (nuca) vêm dos ombros. E as toxinas dos ombros, por sua vez, vêm em grande parte dos rins. Quando venenos medicamentosos e outras substâncias são introduzidos no corpo, eles vão primeiro para os rins, onde são processados. Os rins têm a função de transformá-los em urina para serem expelidos. No entanto, substâncias antinaturais, como os venenos medicamentosos, não podem ser totalmente processadas pelos rins e acabam sobrando. Esse excedente sobe gradualmente para os ombros. Os ombros humanos enrijecem porque não usamos os braços o suficiente. As pernas não enrijecem tanto, pois estamos sempre caminhando. Atividades que mantêm o corpo parado, mas usam as mãos, fazem com que as toxinas se acumulem nos ombros. Se os braços estivessem em constante movimento, não seria tanto o caso, mas como usamos principalmente as pernas, as toxinas sobem para os ombros.
+
+E como usamos a cabeça e diversas ferramentas, as toxinas chegam ao pescoço e à cabeça. Quando as toxinas dessa região se dissolvem através da purificação e descem, surgem várias doenças. Já as doenças do fígado, pâncreas e intestinos são diferentes. Elas são causadas por substâncias que, após entrarem no estômago, se infiltram e se solidificam na região abdominal antes de chegarem aos rins.
+
+*(17 de julho)*
+
+Na parte inferior do corpo, quem tem problemas na lombar tem problemas nas pernas. Queixas como cansaço fácil e pernas pesadas são comuns. Problemas na lombar também causam falta de ar. Em repouso, não se sente nada, mas ao caminhar ou subir uma ladeira, a respiração fica ofegante. A causa é a lombar. Quando a lombar está ruim, o sangue tóxico do coração se acumula ali. Para pessoas com problemas nas pernas, o Johrei no cóccix traz uma melhora infalível. Deve-se focar no cóccix e, em seguida, nos rins. Nesses casos, o problema geralmente está na parte inferior dos rins. Pessoas com o abdômen inchado certamente têm problemas renais. Outro ponto é que quem tem o abdômen inchado urina pouco. Nesses casos, deve-se ministrar Johrei no centro do baixo-ventre, abaixo do umbigo. As toxinas uremicas de ambos os lados se acumulam ali. Purificando esse ponto central, o abdômen ficará muito mais leve. A parte mais baixa é ainda melhor, na região do osso púbico, onde crescem os pelos. Isso eliminará as toxinas da bexiga. Pessoas com dificuldade para levantar as pernas devem pressionar a parte externa das coxas; se estiver dura, é ali que se deve ministrar Johrei.
+
+*(7 de julho)*
+
+Na parte inferior do corpo, o ponto principal é o centro da lombar. Ministrar Johrei ali torna as pernas muito mais leves e melhora enormemente a falta de ar. Falo por experiência própria. Antigamente, eu ficava bastante ofegante ao subir ladeiras. Como as costelas não pareciam ser a causa, achei estranho e comecei a ministrar Johrei em mim mesmo, na região da lombar e do cóccix. As pernas ficaram incrivelmente leves e a falta de ar desapareceu. Até hoje, ao subir as muitas ladeiras de Hakone, sou muito rápido. Não perco para os jovens. Aliás, há jovens em pior estado, e sou eu quem tem que moderar o passo para acompanhá-los. Alguns me dizem: “Meishu-Sama, o senhor é muito rápido, não consigo acompanhá-lo”. Eu respondo: “É a idade”. Apenas por tratar este ponto da lombar, a diferença é enorme.
+
+*(26 de julho)*
+
+### IV. O Processo de Acumulação e a Ordem de Excreção das Toxinas
+
+Na cabeça, a parte frontal e a posterior são diferentes. As toxinas da parte posterior são expelidas como disenteria ou hemorroidas. O que se deve ter em mente é que, ao ministrar Johrei nos ombros, o peito pode ficar ruim. Pode haver náuseas ou uma leve sensação de vômito. Isso ocorre porque as toxinas dissolvidas se acumulam no estômago. O passo seguinte é ministrar Johrei nessa região. Mesmo sem Johrei, as toxinas descerão, mas então surgirá a dor de barriga. Portanto, ao tratar os ombros ou o pescoço, é preciso saber que, quando as toxinas se dissolvem, podem ocorrer náuseas, seguidas de dor de barriga. Se alguém se queixa de dor de barriga quando o problema era no pescoço, não se deve estranhar. É que as toxinas dissolvidas desceram para o abdômen e estão sendo expelidas como diarreia.
+
+Nos homens, esse é o caminho. Nas mulheres, em vez de diarreia, as toxinas podem sair pela frente, na forma de corrimento, ou através da pele e das mucosas. Nesses casos, pode haver uma sensação de formigamento ou coceira. Nos homens, a única via é a diarreia. Tendo esse conhecimento, o processo ocorrerá sem maiores problemas.
+
+Essa é a rota comum, mas em algumas pessoas as toxinas podem se acumular na lombar. A primeira parada dos venenos medicamentosos é nos rins, que são responsáveis por processá-los. No entanto, apenas uma pequena parte é expelida, e o restante sobe para os ombros e se solidifica. Em outros casos, as toxinas vão para a lombar. A rota depende da profissão da pessoa. Quem usa muito as mãos ou faz trabalhos que exigem concentração acumula toxinas nos ombros. Já os agricultores, que se curvam muito, ou pessoas que trabalham sentadas e forçam a lombar, acumulam toxinas nessa região. Essas toxinas acumuladas na lombar se dissolvem aos poucos e descem para as pernas, causando problemas. O beribéri tem essa origem. Cãibras, dormência, peso e fraqueza nos joelhos — todos os problemas relacionados às pernas são causados por toxinas que, após se acumularem na lombar, descem para os membros inferiores. Portanto, para problemas nas pernas, deve-se primeiro mirar no centro da lombar, no cóccix, e ministrar Johrei pelas costas. As pernas ficarão muito mais leves, mesmo sem receber Johrei diretamente.
+
+Isso também está relacionado à falta de ar. Pessoas com problemas na lombar e nas pernas se cansam muito ao caminhar ou subir ladeiras. O movimento não é leve. Essa dificuldade de locomoção se transforma em falta de ar. O esforço excessivo para se mover sobrecarrega o coração. Essa é a causa da falta de ar. A falta de ar é um fenômeno pulmonar, uma respiração acelerada. O coração é fogo e os pulmões são água. Quando os rins (aqui referindo-se à região lombar) estão sobrecarregados, o fogo do coração, seu calor, perde a força para ativar os pulmões, e a atividade pulmonar diminui. Essa é a lógica. Os médicos desconhecem completamente esses princípios. Eles se limitam a anunciar os resultados de suas pesquisas parciais, o que é extremamente infantil. O que acabei de expor é uma visão geral, mas se a compreenderem, poderão interpretar os outros fenômenos, pois conhecerão a origem. Isso facilitará muito a ministração do Johrei.
+
+*(5 de julho)*
+
+A causa de uma doença raramente está na própria parte afetada. No caso de um furúnculo, a causa é local, mas nas doenças dos órgãos internos, a origem não está onde a doença se manifesta. Como em tudo, há uma raiz. É como uma peça de teatro: o que acontece no palco é resultado do que foi preparado nos bastidores. A causa está nos bastidores. É lá que tudo é preparado para que, no palco, a peça seja boa ou ruim. Portanto, devemos encontrar os bastidores e tratar ali.
+
+Em geral, a localização da causa é fixa. A única exceção são os pulmões, para onde todas as toxinas, de qualquer parte do corpo, convergem. Nódulos da cabeça, dos braços, das pernas — de onde quer que sejam, ao se dissolverem, as toxinas vão primeiro para os pulmões e são expelidas como catarro. Por isso, diz-se que a tuberculose é uma doença do peito. Como ela se manifesta no peito, as pessoas pensam que a causa está ali, mas não é verdade. Pode-se dizer que é uma doença do corpo inteiro. Toxinas dissolvidas do pescoço, ombros, abdômen e costas — todas vão para os pulmões. A única diferença é que alguns locais têm mais toxinas acumuladas do que outros. Na tuberculose, o maior acúmulo está ao redor do pescoço. Por isso, creio que seria mais correto dizer que a tuberculose é uma doença do pescoço.
+
+As toxinas acumuladas ao redor do pescoço invariavelmente causam febre. Elas se dissolvem e se transformam em catarro. O pescoço é, portanto, uma parte vital do corpo humano. Dívidas se acumulam no pescoço; assalariados se preocupam com o pescoço. Diz-se “segurar pelo pescoço”, “o pescoço está por um fio”, “cortar o pescoço”. O pescoço é o ponto mais crucial. E dentro do pescoço, também há pontos vitais. Na tuberculose laríngea, as toxinas desta região se dissolvem, entram nos pulmões e, ao serem expelidas como catarro, a toxicidade irrita a garganta, causando dor e outros sintomas. A dificuldade para engolir e a rouquidão, classificadas como tuberculose laríngea, são causadas pela toxicidade do catarro proveniente dos pulmões, que por sua vez contém as toxinas dissolvidas do pescoço. Há também casos em que a própria toxina do pescoço causa diretamente a tuberculose laríngea. Pessoas com dificuldade de fala ou com feridas na língua têm um problema de toxinas na garganta. As toxinas, em vez de tomarem o caminho mais longo (passando pelos pulmões), tentam sair diretamente por ali. Nesses casos, um nódulo considerável se forma na língua, impedindo a fala. Portanto, a garganta é um ponto-chave.
+
+Para o apetite, basta lembrar que a causa está nos ombros. Quanto aos gânglios linfáticos, quando a febre se manifesta neles, ela se transfere imediatamente para a parte frontal da cabeça. O calor dos gânglios é o que mais afeta a fronte, pois as toxinas dessa região fluem constantemente para lá. Por isso, dores de cabeça, melancolia, irritabilidade e mal-estar geral são todos sintomas relacionados a isso. O que se costuma chamar de neurastenia tem como causa principal os gânglios linfáticos. O derrame também pode ter origem tanto na lateral do pescoço quanto na parte posterior da cabeça (medula oblonga). O nódulo se dissolve e causa a hemorragia cerebral. Mesmo antes do derrame, essas pessoas já apresentam um endurecimento semelhante a uma barra, que é facilmente identificável.
+
+*(16 de julho)*
+
+### V. A Atividade Cerebral e os Venenos Medicamentosos
+
+Creio que já compreenderam que “para curar a tuberculose, é preciso flexibilizar os ombros”. Ao fazer isso, o apetite aumenta, o que previne a debilidade. As toxinas da cabeça, pescoço e ombros, ao se dissolverem, descem primeiro para o estômago e depois são expelidas como diarreia. Essa é a sequência. As toxinas podem se acumular temporariamente no abdômen. Nos homens, elas são expelidas pelo ânus, mas nas mulheres, é mais comum que se transformem em corrimento vaginal. Os homens têm um orifício, as mulheres têm dois, o que é muito conveniente.
+
+A natureza das toxinas varia, e isso afeta a velocidade com que se dissolvem e descem. Isso também está relacionado ao peso das toxinas; as mais pesadas demoram mais para descer. E quando a descida é lenta, as toxinas tendem a se acumular nas partes do corpo que mais usamos. Quem ministra Johrei constantemente usa os nervos dos ombros, por isso as toxinas tendem a se acumular nos braços. Elas também se acumulam com relativa facilidade nas costas e, descendo, na lombar. Isso causa falta de ar. A causa da falta de ar está nas costas, sob as axilas, na região intercostal. Também pode ser a causa da asma. Portanto, mesmo na asma, a cabeça e o pescoço são causas importantes, e o Johrei deve ser ministrado com isso em mente.
+
+Como já mencionei, as toxinas acumuladas na região do cóccix também causam falta de ar. Pessoas que ficam ofegantes ao caminhar, especialmente ao subir ladeiras, têm toxinas acumuladas ali. A lombar pesada torna as pernas pesadas, o que exige mais esforço e causa a falta de ar. Apesar da minha idade, subo montanhas e ladeiras com grande rapidez, mais rápido que muitos jovens. Quando estou com jovens mais fracos, sou eu quem precisa diminuir o ritmo. O segredo é que ministro Johrei constantemente na minha lombar, por isso ela é muito leve. A incapacidade de subir ladeiras rapidamente se deve à falta de ar, que por sua vez é causada pela dor ou pressão na lombar. O esforço para se mover causa a falta de ar. Pessoas nessa condição devem ministrar Johrei no centro da lombar. A melhora será enorme. Ao pegar um trem ou ônibus, devemos ser capazes de embarcar antes dos outros. Dizer isso pode parecer mesquinho, mas não é. As pessoas de hoje têm a lombar pesada, por isso não são ágeis. Como minha lombar é leve, meu corpo se move com agilidade, e consigo embarcar mais rápido, o que é uma vantagem. Mas isso é natural, não há o que fazer. Não é que eu empurre os outros; são eles que são lentos, e por isso eu pareço rápido.
+
+Outro ponto é que as pessoas de hoje não são necessariamente menos inteligentes, mas sua atividade cerebral é lenta, não funciona com agilidade. Isso se deve às toxinas no pescoço e na cabeça, que embotam a atividade cerebral. A mente também precisa ser ágil. Assim como meu corpo é leve, minha mente também funciona com rapidez. Agora mesmo, ao vir para cá, vesti um outro *haori* e senti uma sensação estranha. A gola parecia um pouco larga. Comentei com a empregada, que comparou e disse: “Não, é igual, não há diferença”. Eu insisti: “Não pode ser, meça com uma régua”. Ela mediu e havia uma diferença de cerca de três milímetros. O que isso mostra? Que os nervos dela não são ágeis. Situações como essa acontecem o tempo todo.
+
+Portanto, à medida que o corpo se torna ágil, a mente também deve se tornar ágil. Sempre digo que as mulheres precisam ser perspicazes, mas as mulheres de hoje não são ágeis; são obtusas. Felizmente, as mulheres da Sekaikyuseikyou não são assim. Ter um corpo e uma mente ágeis é uma grande vantagem. Entende-se as coisas mais rápido, basta um olhar para compreender, e os erros diminuem. No final, a causa de tudo são as toxinas. Os acidentes de trânsito são tão frequentes hoje porque a mente das pessoas não funciona com agilidade. Os venenos medicamentosos subiram para a cabeça.
+
+### VI. As Mulheres e o Calor na Parte Frontal da Cabeça
+
+Pode parecer um assunto estranho, mas o corrimento vaginal feminino tem diversas naturezas. Quando o corrimento se acumula, ele gera febre. E nas mulheres, a febre na parte inferior se reflete na parte frontal da cabeça. A fronte e a região genital estão intimamente ligadas. Por isso, quando uma mulher se sente deprimida, é sinal de que há calor em sua região genital. Nesses casos, além de ministrar Johrei na cabeça, é preciso purificar também a parte inferior para se obter uma melhora significativa.
+
+*(15 de julho)*
+
+Os ombros são como uma entrada para a cabeça. Deixar os ombros enrijecidos é como deixar a entrada cheia de lixo. Se o portão não for bem limpo, o vento sopra o lixo para dentro de casa. Os ombros também são a conexão entre a parte superior e a inferior do corpo. Por isso, flexibilizá-los é da mais alta importância. As toxinas dissolvidas do pescoço e da cabeça descem para serem expelidas. Nos homens, a via é o ânus, mas as mulheres têm mais um orifício na frente. O corrimento vaginal feminino, em grande parte, é composto por toxinas que descem da cabeça. Outras toxinas também descem, mas em menor quantidade. A maior parte vem da cabeça. Nos homens, as toxinas saem como disenteria ou hemorroidas. As hemorroidas são quase sempre causadas por toxinas da nuca.
+
+Outro ponto importante é que as mulheres são mais propensas a crises de histeria, melancolia, irritabilidade, peso na cabeça e falta de clareza mental. Embora a falta de liberdade em comparação com os homens possa ser um fator, a irritabilidade feminina é, em grande parte, causada pela atitude do marido. Contudo, mais do que a atitude do marido, a forma como a esposa se dedica a ele, com um coração alegre, faz uma enorme diferença. Quando a esposa o trata com má vontade ou cumpre suas obrigações a contragosto, o marido também fica insatisfeito, e isso afeta profundamente a relação do casal. A causa disso está no fato de que essas mulheres invariavelmente têm calor na parte frontal da cabeça. O calor na fronte causa irritabilidade. Esse calor indica a presença de toxinas, que, por sua vez, vêm da parte inferior. Portanto, além de ministrar Johrei na parte frontal da cabeça, é preciso purificar a região genital. Ao purificar a região genital, o calor da fronte também diminui. Como o Johrei é ministrado à distância, não há problema algum. Em casos assim, lembrem-se de tratar tanto a cabeça quanto a parte inferior. O efeito será dobrado.
+
+O centro da cabeça também é um local onde as toxinas se acumulam facilmente. Como sempre digo, a nuca é a emoção, a fronte é a razão, e o topo da cabeça é o ponto central entre os dois. Por isso, é necessário tratar essa área. Muitas pessoas se queixam de dor ou desconforto no âmago da cabeça; a causa está ali. Isso também é comum na tuberculose. Uma febre persistente na tuberculose é, na maioria das vezes, febre da cabeça. Portanto, a causa da tuberculose não está nos pulmões.
+
+*(16 de julho)*
+
+### VII. A Intoxicação por Cosméticos
+
+Recentemente, as mulheres da nossa Igreja têm usado cada vez menos cosméticos. Gostaria de falar um pouco sobre o quão terrível é a intoxicação por cosméticos. Pode ser que essa pessoa esteja aqui hoje, mas ela tem os dentes moles. Se fosse a um dentista, certamente teria todos os dentes extraídos e usaria uma dentadura. A causa está no fato de que seu rosto está sempre quente. Ministro Johrei para tirar o calor, mas ele é persistente. À medida que o calor diminui, os dentes ficam mais firmes. Esse calor é a intoxicação por cosméticos. Antigamente, falava-se em “congestão ascendente”. A palavra sugere que o sangue sobe de baixo para cima, mas não é o caso. Antigamente, as mulheres usavam pó de arroz, que continha chumbo. O veneno do chumbo penetrava na pele, causando uma intoxicação subcutânea. A purificação dessa intoxicação gerava calor, o rosto esquentava e ocorria a tal “congestão ascendente”. Isso não acontecia com os homens, apenas com as mulheres. Era a intoxicação pelo pó de arroz. Hoje, com cremes e outros produtos, novos e mais fortes venenos medicamentosos são adicionados. Os produtos importados, em especial, contêm muitos produtos químicos. Os jornais anunciam cosméticos que são moda nos Estados Unidos, e as japonesas, ignorando os venenos, pagam caro por eles, achando que, por serem americanos, devem ser bons. No entanto, nos Estados Unidos, a irritação da pele facial nas mulheres se tornou um problema sério. Na tentativa de evitar a irritação, usam-se produtos químicos cada vez mais fortes, o que só piora a situação. É a mesma lógica dos remédios para tuberculose.
+
+Na prática, ao abandonar os cosméticos, o rosto fica temporariamente com uma cor escura, como casca de noz. Mas, superando essa fase, a pele se torna extremamente bonita, com sua cor natural. Como o sangue dos membros se torna puro, a beleza natural se manifesta ainda mais. As pessoas de hoje, no entanto, introduzem medicamentos não apenas no rosto, mas em todo o corpo, o que torna a pele feia e sem vida. E isso as leva a usar ainda mais cosméticos. O que mais prejudica a cor da pele são os remédios da medicina chinesa. Se perguntarem a alguém com o rosto pálido, sem brilho e ressecado, certamente descobrirão que essa pessoa toma remédios chineses. Mulheres com o rosto muito escuro estão intoxicadas por eles. Nesse aspecto, os remédios ocidentais não afetam tanto a cor do rosto, mas deixam a pele ressecada. Por isso, a pele das mulheres de hoje é invariavelmente ressecada, sem maciez.
+
+Não estou dizendo para pararem de usar cosméticos imediatamente, mas para diminuírem gradualmente e, em certo momento, com coragem, abandoná-los por completo. O primeiro benefício é que, uma vez eliminada a intoxicação, o rosto ficará mais bonito do que quando se usava maquiagem. Além disso, os benefícios em todas as áreas são enormes. Não se gasta mais com cosméticos e economiza-se tempo. O tempo que as jovens, em especial, dedicam a isso é impressionante. Uma mulher mais vaidosa pode passar duas ou três horas se maquiando. É uma forma de apego. Pode ser que não percebam se eu não falar claramente, mas as mulheres que trabalharam no mundo do entretenimento não são assim, são rápidas. São as amadoras que demoram. As profissionais precisam estar prontas rapidamente quando são chamadas para um compromisso de trabalho. Já as mocinhas e as mulheres vaidosas demoram uma eternidade. Em lugares públicos, como teatros, quando uma mulher demora no banheiro, pode-se apostar que ela está em frente ao espelho, retocando a maquiagem. Pessoas assim provavelmente não entendem o início das peças, pois só assistem a partir do meio.
+
+Existe uma superstição de que, ao parar de usar maquiagem, o rosto ficará feio, e por isso as mulheres se esforçam tanto. Nosso papel é ensiná-las que isso não é verdade. Quando a intoxicação for completamente eliminada, o rosto ficará mais bonito do que quando se usava maquiagem. Sabendo disso, poderão se libertar com tranquilidade da superstição da maquiagem. Isso também é uma forma de salvação.
+
+Outro ponto sobre a maquiagem feminina é que ela causa diversos problemas. Ao parar de usar cosméticos, como pó de arroz e cremes, o rosto pode ficar escuro por seis meses a um ano, parecendo um nativo dos mares do sul. Mas, superando essa fase com paciência, a pele se torna extremamente bonita. Há um relato de graça recente sobre isso. Não é uma beleza artificial, mas uma beleza translúcida. Além disso, os cosméticos de hoje contêm diversos venenos medicamentosos que penetram na pele e causam doenças cutâneas em muitas mulheres.
+
+O fenômeno da “congestão ascendente”, em que o rosto esquenta, não é o sangue subindo, como a palavra sugere, mas uma purificação ocorrendo no rosto. Desde a antiguidade, as mulheres usam pó de arroz, que continha muito chumbo. A purificação desse veneno causava o calor. Um caso interessante é o de um respeitável chefe de igreja intermediária cujos dentes estavam moles e um pouco doloridos. Eu lhe ministrei Johrei. Seu rosto estava muito quente, febril. Ao ministrar Johrei para baixar o calor, os dentes foram firmando. A causa dos dentes moles era a intoxicação por cosméticos. É algo terrível. Se tivesse ido a um dentista, teria todos os dentes extraídos e usaria uma dentadura.
+
+Um caso ainda mais assustador ocorreu recentemente com uma senhora de idade. Ela foi fazer um permanente e aplicaram um produto químico estranho. Ultimamente, usam-se produtos estranhos. O produto penetrou em seu couro cabeludo, e a dor foi tão intensa que ela se assustou. A purificação começou, e o Johrei não fazia efeito. Surgiram diversos sintomas, e ela veio me perguntar se não seria algo espiritual. Ao ouvir a história, concluí que era, sem dúvida, uma intoxicação pelo produto do permanente. Disse a ela que, se sobrevivesse por um certo número de dias, ficaria bem. Dois ou três dias depois, ela faleceu. Era uma membro antiga.
+
+Com o uso de produtos químicos cada vez mais fortes, chegamos a uma situação perigosa. Portanto, o ideal é não usar cosméticos e pedir que façam o permanente sem produtos químicos. O processo usa apenas calor elétrico para ondular o cabelo, então é possível fazê-lo sem química. Eles provavelmente usam os produtos para que dure mais. De qualquer forma, ao parar de usar cosméticos, a beleza que surge é notável. É preciso apenas um pouco de paciência.
+
+Além disso, o tempo gasto com maquiagem é uma perda enorme. E também é uma causa de brigas de casal. Eu mesmo já passei por isso: esperando na entrada, e a pessoa não sai nunca. Farto de esperar, vou ver o que está acontecendo e a encontro grudada no espelho, retocando aqui e ali, até ficar satisfeita. Quando saem, vão a um teatro, entram no banheiro e, mesmo depois que a cortina sobe, não voltam. Se for procurá-las, estão lá, batendo o pó no rosto. A maquiagem feminina é uma espécie de crime. A intenção fundamental é parecer mais bonita artificialmente. Antigamente, isso era chamado de “adorno feminino” e considerado uma virtude, mas, na realidade, é uma forma de enganação, um tipo de estelionato. Como se trata do rosto, parece aceitável, mas a lógica é a mesma de um tolo querendo parecer inteligente ou um pobre querendo parecer rico.
+
+O essencial para uma mulher é ter um coração caloroso. Com o sangue puro, a impressão que ela causa se torna boa. Apenas ter a pele branca não se compara a transmitir uma boa impressão. A conversa tomou um rumo estranho, mas, no final, tanto para homens quanto para mulheres, o mais importante é causar uma boa impressão. A beleza superficial pode ser útil para profissionais como gueixas, prostitutas e acompanhantes, mas para o convívio diário, uma boa impressão é o que perdura. É a beleza que vem de dentro. Para mim, a beleza por si só não tem atrativo algum. Não estou elogiando por elogiar, mas os membros da nossa Igreja realmente causam uma boa impressão. Muitas vezes fico maravilhado. Falando com imparcialidade, há pessoas cujo formato do rosto não é dos mais admiráveis, mas a sensação que recebo delas é tão boa que acho extraordinário.
+
+Os cosméticos também são uma forma de veneno medicamentoso. Não se pode parar de uma vez, mas creio que o melhor caminho é reduzir gradualmente até a eliminação completa. O resultado será imensamente positivo. Já há pessoas que pararam de usar cosméticos e estão felizes, dizendo que ficaram mais bonitas. Assim como na cura de outras intoxicações, há um período de transição inevitável. Mas os benefícios, como já disse, são enormes. À medida que isso se espalhar pelo mundo, creio que trará benefícios em muitos aspectos. Talvez esta seja uma das condições do Paraíso Terrestre.
+
+*(26 de julho)*
+
+### VIII. A Beleza Natural do Rosto e o Triplo Benefício
+
+Recentemente, as mulheres da nossa Igreja têm se maquiado cada vez menos. O número daquelas que não usam pó de arroz ou creme tem aumentado. Com o tempo, todas farão o mesmo. Mantendo essa prática por pelo menos seis meses a um ano, a pele se torna extremamente bonita. Não se gasta mais com maquiagem e não há necessidade de todo esse trabalho. Quando se é convidado para um evento, é comum ir ao banheiro retocar a maquiagem. Isso é um ato de desonestidade, uma forma de fraude. Querer parecer mais bonita não é errado, mas tentar parecer valer mais do que o real é um estelionato de boa-fé, um crime que não é punido.
+
+Ao praticar o Johrei e parar de usar maquiagem, o rosto fica escuro por um tempo, parecendo um nativo dos mares do sul ou um negro americano. (Eu mesmo vi uma pessoa assim recentemente e me assustei, mas imaginei que fosse por ter parado de usar pó de arroz. É preciso estar preparado para isso.) Passada essa fase, porém, a beleza que surge é notável. É uma beleza agradável, que transmite bem-estar. Como o sangue está sendo constantemente purificado, o sangue limpo transparece através da pele, criando uma beleza de impressão muito agradável.
+
+A verdade é que não existem mulheres bonitas no mundo de hoje. O formato do rosto também parece ter mudado. Perdeu-se a delicadeza feminina no caráter. As mulheres de hoje argumentam sobre tudo, se vangloriam da igualdade de gênero e se tornaram arrogantes. Ao olharmos fotos de mulheres das eras Meiji e Taisho, vemos beleza. Mas as fotos das mulheres de hoje não são belas. A pele tem espinhas, é áspera, e sem maquiagem, não se pode olhar. Vistas de perto, sem maquiagem, não há beleza, apenas feiura. Perdeu-se gradualmente a beleza natural, a beleza da natureza. É preciso resgatar essa beleza natural.
+
+Outro ponto é que os cremes de hoje contêm diversos produtos químicos, que estão se tornando cada vez mais fortes. Li no jornal que as mulheres americanas estão sofrendo com a pele do rosto irritada. Pensei que devia ser porque nos Estados Unidos se usam produtos químicos ainda mais fortes. Sabendo disso, as mulheres da nossa Igreja podem reduzir o uso de cosméticos e, em certo momento, abandoná-los de vez para se tornarem belezas naturais. A economia de tempo e dinheiro será enorme, e o amor do marido aumentará. É um triplo benefício.
+
+*(25 de julho)*
+
+---
+
+# Coleção de Teses do Mestre Okada Jikanshi
+
+**Categoria:** sasshi | **Ano:** 昭和26(1951)年6月1日 | **Fonte:** 世界Kyusei教教義解説（病貧争の巻）
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-06-01
+
+## Coleção de Teses do Mestre Okada Jikanshi
+
+## Explicação da Doutrina da Sekaikyuseikyou (Volume sobre a Doença, a Pobreza e o Conflito)
+
+Publicado em 1º de junho de 1951
+
+### Prefácio
+
+Recentemente, o senhor Seikun Matsui, membro convidado do nosso departamento editorial, concluiu um manuscrito no qual empreende uma análise crítica e uma explanação de nossa doutrina, sob uma perspectiva inteiramente particular. Solicitado a avaliá-lo, procedi à sua leitura e constatei que se trata de uma obra de excelência, que capta com precisão os pontos essenciais do nosso ensinamento. Com grande satisfação, recomendei, portanto, a sua publicação.
+
+De modo especial, a seção final, que aborda a medicina por meio de depoimentos diretos de especialistas de diversas nações, revelou uma pesquisa tão minuciosa que me senti compelido a recomendá-la, no anseio de que seu conteúdo chegue ao conhecimento de todos. Em uma época na qual o povo japonês ainda não se libertou por completo do hábito de venerar tudo o que é importado, esta obra se apresenta como a mais oportuna das leituras.
+
+Quinze de maio de mil novecentos e cinquenta e um.
+Jikan
+
+### Prefácio do Autor
+
+No ano passado, recebi do Fundador da Sekaikyuseikyou a incumbência de compilar seus ensinamentos. Contudo, ao iniciar a tarefa, deparei-me com a profundidade abissal de sua doutrina, cujas explanações abrangem não apenas os Mundos Espiritual e Material e suas inter-relações, mas se estendem por uma vasta gama de campos, como a arte e a cultura. Percebi que seria necessário examinar a totalidade desses temas, o que se revelou uma empreitada de enorme complexidade. Além disso, como o Fundador continua a proferir novos ensinamentos incessantemente, compreendi que sintetizar, analisar e ponderar cada um deles exigiria muitos anos de dedicação. Tentar concluir tal obra à força resultaria inevitavelmente em um retrato incompleto, e eu não escaparia do sacrilégio de desvirtuar a sua essência.
+
+Refletindo, observo que tanto no cristianismo quanto no budismo, as doutrinas foram compiladas, no mínimo, cem anos após a morte de seus fundadores, quando não séculos mais tarde. Para um homem de meu modesto talento, a tentativa de consumar tão grandiosa obra em um curto período seria uma temeridade. Enganar a mim mesmo e produzir um trabalho superficial, fruto de artifícios, em detrimento da virtude do Fundador, é algo que a minha consciência jamais permitiria.
+
+Por seis meses, vivi em um contínuo tormento: pesquisava, refletia; tomava a pena, e em seguida descartava o escrito; voltava a pesquisar e a refletir. Decidi, então, com toda a sinceridade, confessar essa dificuldade e dedicar a minha vida inteira a esta magna obra.
+
+Entretanto, as vozes dos fiéis que anseiam por uma explanação da doutrina tornam-se cada vez mais intensas, e o mesmo incentivo provém de pessoas de fora de nossa Igreja. Encontrando-me em um dilema, decidi cumprir com minha responsabilidade de outra forma. Comprometo-me a atender a esses anseios publicando, inicialmente, uma explanação sobre o propósito fundamental da construção de um mundo sem doença, pobreza e conflito — o Paraíso Terrestre —, que é o foco de maior ênfase e dedicação de nossa Igreja na atualidade. Posteriormente, de forma gradual, publicarei um segundo e um terceiro volumes.
+
+Explicação da Doutrina da Sekaikyuseikyou (Volume sobre a Doença, a Pobreza e o Conflito)
+Seikun Matsui
+
+### Um
+
+### A Proclamação do Fundador
+
+Eliminar deste mundo a doença, a pobreza e o conflito, e construir um mundo sem doença, sem pobreza e sem conflito — em outras palavras, o “Paraíso Terrestre”.
+
+Esta é uma ordem de Deus.
+
+**Explanação**
+
+Nosso Fundador declara solenemente: “Eliminar deste mundo a doença, a pobreza e o conflito, e construir um mundo sem doença, sem pobreza e sem conflito, ou seja, o Paraíso Terrestre. Esta é uma ordem de Deus”. Por conseguinte, as atividades de nossa Igreja, a Sekaikyuseikyou, estão atualmente centradas na concretização dessa proclamação.
+
+É natural que, em um mundo onde tantos sofrem com enfermidades, em uma era de conflitos incessantes e, no Japão de hoje, em meio à carência de recursos, as pessoas recebam tal declaração com assombro.
+
+Todavia, esta proclamação do Fundador não é, de forma alguma, mera grandiloquência ou uma promessa vã. Quando a examinamos com a mente serena e em detalhe, percebemos que ela encerra um profundo mistério e uma lógica irrefutável, o que nos inspira uma reverência natural.
+
+Evidentemente, o Fundador faz essa proclamação com base na inspiração divina que recebe; assim sendo, bastaria que simplesmente crêssemos. No entanto, as pessoas de maior erudição frequentemente desejam uma explanação e não se convencem sem ela. Tentar explicar a inspiração divina, por sua vez, já seria rebaixá-la a uma compreensão secundária. O ideal é que cada um, por meio de profunda reflexão, alcance por si mesmo o entendimento. Contudo, se nos limitássemos a dizer isso, não estaríamos respondendo ao anseio por uma explanação. Por essa razão, decidi empreender esta análise, estabelecendo um paralelo com as teorias de cientistas modernos — um tema de interesse para muitas pessoas, especialmente para os intelectuais. Antes, porém, é necessário esclarecer o conceito de “Deus” ensinado por nosso Fundador.
+
+### Dois
+
+### Deus é Amor e Sabedoria
+
+O Fundador reconhece a existência de um Deus Supremo, Criador e Regente do Universo. Ele crê no Plano Divino desse Deus e reconhece igualmente a existência de muitas outras divindades que participam desse mesmo Plano.
+
+O Fundador ensina que o Deus Supremo em que crê é personificado no Supremo Amor. Não apenas nós, seres humanos, mas absolutamente tudo no mundo nasce desse Supremo Amor, é nutrido por ele e por ele é vivificado. Este Supremo Amor, todavia, não é como o amor humano, parcial e limitado, mas um amor universal, equânime e infinito. Portanto, em nossa Igreja, a Sekaikyuseikyou, consideramos de suma importância crer no Supremo Amor de Deus e manifestá-lo em nossa vida cotidiana. A prática da ética e o empenho na moralidade, que tradicionalmente são vistos como restritivos, em nossa fé são realizados com um sentimento espontâneo de gratidão e alegria, que brota da crença nesse Supremo Amor. Nisto reside uma das grandes características da Sekaikyuseikyou. Em outras palavras, ao crerem no Deus ensinado pelo Fundador e ao se imergirem no Seu Supremo Amor, as palavras e ações de nossos fiéis se alinham, natural e inconscientemente, ao caminho da retidão.
+
+Ademais, o Supremo Amor de Deus ensinado pelo Fundador não é de modo algum cego. O filósofo Schopenhauer postulou a existência de uma “vontade cega no universo”, mas não se trata disso.
+
+Juntamente com o Supremo Amor de Deus, o Fundador reconhece a Sua Sabedoria. Ele ensina que o Supremo Amor e a Sabedoria de Deus são como as duas faces de um mesmo escudo, inseparáveis.
+
+### Três
+
+### A Harmonia da Verdade, do Bem e do Belo é o Plano Divino
+
+O Fundador nos ensina que a harmonia da Verdade, do Bem e do Belo constitui o Plano Divino. Em uma noite límpida, ao contemplarmos o céu, não vemos ali incontáveis estrelas que, sem jamais se desviarem de suas trajetórias, brilham em perfeita ordem? Isso, ele afirma, é a manifestação do Plano Divino, o símbolo da grande harmonia da Verdade, do Bem e do Belo. Da mesma forma, em uma única flor existe essa mesma harmonia, por meio da qual podemos vislumbrar o Plano Divino. Ele ensina que há harmonia em todo o universo e em toda a criação.
+
+Se refletirmos, os mais de dois bilhões de seres humanos no mundo, todos com feições e personalidades distintas, exercendo as mais variadas ocupações, formam um único mundo, mantendo uma grande harmonia de interdependência. Também em relação à estrutura do corpo humano, os cientistas, ao dissecá-lo e analisá-lo, descobriram que ele é composto por mais de um quatrilhão de células. E mais: cada uma dessas células é um ser vivo com individualidade própria, e todas elas atuam em perfeita harmonia, cada qual cumprindo sua função. Esta magnífica harmonia, podemos dizer, é a maior prova de que o Plano Divino de Deus se manifesta em toda a criação.
+
+### Quatro
+
+### Os Cientistas Modernos Descobriram que a Origem de Todas as Coisas é a Vida
+
+Mencionei anteriormente que o corpo humano é constituído por mais de um quatrilhão de células. A análise dessas células revela que elas são formadas por incontáveis moléculas; a análise das moléculas mostra que são compostas por incontáveis átomos; e, por sua vez, a análise dos átomos revela que eles são formados por elétrons. Descobriu-se, ademais, que o próprio elétron já não é matéria, mas algo de natureza espiritual. O engenheiro e doutor Tatsuo Tanaka, autor de “A Revolução na Concepção da Matéria”, afirma que, para não usar o termo vago “espírito”, ele prefere chamar esse elétron de “essência” — no sentido que se atribuía antigamente à essência do salgueiro, por exemplo.
+
+Os cientistas modernos derrubaram o materialismo, a teoria de que “todas as coisas são constituídas de matéria”, na qual se acreditou até o final do século XIX, e descobriram que tudo é composto por essa essência chamada elétron, ou seja, que tudo é vivo. Eles demonstram que esses incontáveis elétrons vivos estão em constante movimento e, ao se combinarem de diversas formas, geram eternamente o ser humano e inúmeras outras formas de vida.
+
+Sendo assim, de onde surgem esses elétrons que, vivos e em movimento, geram inúmeras vidas? A ciência ainda não consegue explicar. Contudo, o Dr. Yukawa (laureado com o Prêmio Nobel) faz a seguinte confissão:
+
+“A ciência é algo que se desenvolve gradualmente, e o destino do cientista é que sempre reste algo desconhecido para além de um certo limite. E não podemos deixar de acreditar que aquilo que já conhecemos está conectado a algo maior. No entanto, o que é esse algo, o próprio cientista não pode responder. Se insistir em responder, ele deixará de ser ele mesmo. Somos forçados a admitir que há uma conexão com alguma verdade absoluta, uma realidade absoluta, mas não podemos dizer claramente o que ela é. Por outro lado, também não podemos afirmar que ela não existe. Não seria mais sensato pensar que é justamente aí que reside não apenas a diferença, mas também a mais profunda conexão entre ciência e religião?”
+
+Conforme o exposto, os cientistas reconhecem, na essência de todas as coisas, algo vivo, uma forma de vida, e admitem que ela está conectada a “algo mais”, embora não consigam dizer o que é. Se o dissessem, teriam que abandonar sua posição de cientistas. Sob essa ótica, parece que os próprios cientistas já reconhecem a existência de Deus. Contudo, nas palavras do Dr. Yukawa, podemos perceber o dilema que enfrentam: no momento em que pronunciassem a palavra “Deus”, perderiam instantaneamente seu prestígio e sua autoridade como cientistas e teriam de se tornar religiosos. Esse “algo” que os cientistas reconhecem, mas não conseguem nomear, é o que nosso Fundador denomina “Deus Supremo, Regente do Universo”.
+
+### Cinco
+
+### Os Cientistas Modernos Descobriram que Existe Lei e Harmonia na Essência de Todas as Coisas
+
+Os cientistas modernos, em sua análise progressiva da matéria para a molécula, da molécula para o átomo, e do átomo para o elétron, ao investigarem o movimento e a forma de combinação desses elétrons, reconheceram a existência de uma lei definida e de uma harmonia rigorosa. Omitirei a explanação técnica sobre este ponto, mas o estudo dos muitos livros recentemente publicados sobre o átomo poderá elucidá-lo.
+
+A esse respeito, o Dr. Yukawa afirma: “A realidade, em sua base, move-se sempre de acordo com uma lei. [...] Apenas os mestres podem percebê-la”. E acrescenta: “A realidade, em sua base, está sempre em harmonia. [...] Apenas os poetas a descobrem”. Continuando, ele diz: “Nós, pessoas comuns, temos uma tendência a nos prender demais à realidade. E, assim como a realidade, tornamo-nos inconstantes e inseguros. E não percebemos que, por trás da realidade, estende-se um mundo mais vasto, de verdade e beleza”.
+
+O célebre Dr. Einstein, proponente da teoria da relatividade e expoente da física atômica, também expressa sua crença na existência de uma lei de realidade e harmonia na essência deste mundo. Em sua obra conjunta “A Evolução da Física”, ele afirma: “Sem a convicção de que é possível apreender a realidade por meio de nossas construções teóricas, e sem a crença de que nosso mundo possui uma harmonia interna, a ciência simplesmente não poderia existir”. Ele denomina essa lei de “a lei da harmonia interna do mundo”.
+
+No século XVI, Giordano Bruno, ao explicar a mônada, disse o seguinte: “Cada uma das mônadas contém em si mesma a totalidade, desempenha seu papel no universo de uma maneira única e, através do desenvolvimento de sua própria vida, contribui para a perfeição do universo”.
+
+Ao ponderarmos sobre essas diversas teorias, torna-se evidente quão sublime é a visão de nosso Fundador que, crendo em um Deus Supremo Criador, afirma que “a grande harmonia da Verdade, do Bem e do Belo é o Plano Divino”.
+
+### Seis
+
+### Um Mundo sem Doença, Pobreza e Conflito é o Mundo da Grande Harmonia da Verdade, do Bem e do Belo e, Portanto, é o Plano Divino
+
+Nosso Fundador declara: “Devemos construir um mundo sem doença, sem pobreza e sem conflito (o Paraíso Terrestre). Esta é a missão que me foi confiada por Deus”. É perfeitamente natural, a nosso ver, que o Fundador, possuidor de uma elevada capacidade espiritual, receba tal inspiração.
+
+Afinal, um mundo sem doença, pobreza e conflito é, em última análise, o mundo da grande harmonia da Verdade, do Bem e do Belo. As palavras do Fundador, “a grande harmonia da Verdade, do Bem e do Belo é o Plano Divino”, são sinônimas da “lei da harmonia interna do mundo” dos cientistas; a diferença reside apenas na expressão utilizada por quem crê em Deus e por quem não crê. Aquele que não crê em Deus vê apenas uma lei e, por isso, não sente o ímpeto de segui-la — embora algumas pessoas de grande discernimento possam sentir que, por ser uma lei intrínseca ao mundo, devem obedecê-la. Contudo, quando se passa a crer em Deus e a acreditar que essa lei é o Seu Plano Divino, é inevitável que surja uma vontade fervorosa de segui-la fielmente. E, no caso do Fundador, que recebe a inspiração divina, é natural e compulsório que ele pregue e se empenhe na realização desse Plano.
+
+Se examinarmos por que o Fundador destaca especificamente a doença, a pobreza e o conflito, e proclama a sua eliminação, veremos que dizer apenas “vamos criar um paraíso de grande harmonia da Verdade, do Bem e do Belo no mundo humano” seria algo muito vago e difícil de compreender. Mas, se pensarmos bem, ao eliminarmos a doença, a pobreza e o conflito do mundo humano, o que resta é, precisamente, um mundo de grande harmonia da Verdade, do Bem e do Belo. Inversamente, quando o Plano Divino da harmonia da Verdade, do Bem e do Belo se concretizar plenamente, é lógico que a doença, o conflito e a pobreza desaparecerão do mundo.
+
+Acrescento uma breve explanação sobre este ponto. O ser humano é constituído por um corpo espiritual e um corpo material. Isso se torna claro, como já mencionado, pelo fato de os cientistas, ao dissecarem o corpo físico e analisarem suas células, chegarem finalmente a uma entidade de natureza espiritual, concluindo que a origem do corpo é espiritual. Isso também é corroborado pelas conclusões unânimes das pesquisas psíquicas, que, desde o século XX, vêm sendo conduzidas com rigor experimental em diversas universidades renomadas da Europa e da América. Portanto, já não há espaço para dúvidas. Assim, quando ocorre uma desarmonia no corpo espiritual, surge uma desarmonia entre o corpo espiritual e o corpo material. A isso damos o nome de doença. A desarmonia no corpo espiritual manifesta-se como nuvens espirituais, que precisam ser eliminadas. Em nossa Igreja, chamamos esse processo de Johrei.
+
+Quando há harmonia entre as pessoas, não há conflito. O mesmo se aplica entre as nações: quando há harmonia entre elas, as guerras cessam.
+
+Da mesma forma, quando há harmonia entre as pessoas e os bens materiais, não há carência, ou seja, não há pobreza. A carência surge quando os bens se concentram em um único lugar, deixando outras partes desprovidas. O Deus Supremo, Criador do mundo, proveu neste mundo recursos suficientes para suprir as necessidades de vestuário, alimento e moradia de todos os seres humanos que o habitam. As palavras de Jesus: “Olhai para as aves do céu, que nem semeiam, nem segam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta” (Mateus 6:26), expressam exatamente esse mesmo princípio.
+
+Portanto, quando as pessoas seguirem os ensinamentos de nosso Fundador, crerem em Deus, despertarem para o Seu amor e compreenderem que a grande harmonia da Verdade, do Bem e do Belo é o Seu Plano Divino, surgirão naturalmente o sentimento de compaixão e a prática da ajuda mútua como expressão da Vontade Divina. E assim nascerão lares pacíficos, uma sociedade pacífica e, por extensão, nações pacíficas e um mundo de paz.
+
+Existe a expressão: “A fé é poder”. Nada é mais poderoso que a fé. Se um grande número de pessoas em todo o mundo dedicar uma fé fervorosa ao “Deus” ensinado por nosso Fundador, é lógico que a paz mundial poderá ser alcançada. É nisto que podemos encontrar a verdadeira essência da Sekaikyuseikyou.
+
+### Sete
+
+### Sobre o Johrei
+
+O Johrei, praticado pela Sekaikyuseikyou, é uma arte sagrada concedida por Deus ao nosso Fundador, e não é possível explicá-lo com palavras. Resta-nos apenas crer, diante do fato de que centenas de milhares de pessoas em todo o país tiveram suas doenças curadas pelo Johrei, e de que muitas outras continuam sendo curadas. Isso nos faz recordar os milagres de Jesus registrados na Bíblia: “E Jesus, entrando na casa de Pedro, viu a sogra deste jazendo com febre. E tocou-lhe na mão, e a febre a deixou; e levantou-se, e servia-os. E, chegada a tarde, trouxeram-lhe muitos endemoninhados, e ele com a sua palavra expulsou deles os espíritos, e curou todos os que estavam enfermos” (Mateus 8:14-16), entre muitos outros milagres de cura.
+
+Há quem diga que não é possível crer nos milagres da Bíblia, mas o mestre Kanzo Uchimura afirmou que, se retirarmos os milagres da Bíblia, ela perde seu valor. Mesmo que alguém acredite nos milagres de Jesus, mas não nos do Fundador da Sekaikyuseikyou, essa pessoa não poderá negar o fato incontestável de que centenas de milhares de pessoas em todo o país foram curadas de suas doenças.
+
+Pessoalmente, ao relacionar a lei da harmonia descoberta pelos cientistas com o ensinamento do Fundador de que a harmonia da Verdade, do Bem e do Belo é o Plano Divino, sinto que consigo vislumbrar uma parte do princípio pelo qual as doenças são curadas através do Johrei.
+
+(Fim)
+
+### Apêndice
+
+### Dissipando Equívocos Comuns
+
+Há quem espalhe por aí que a nossa Igreja, a Sekaikyuseikyou, tenta impedir as pessoas de consultarem médicos ou de tomarem remédios. Isso só pode ser fruto de um completo mal-entendido ou, então, de uma tentativa deliberada de difamar nossa Igreja. Nosso Fundador jamais ensinou tal coisa; pelo contrário, ele está sempre atento para que não se incorra em tais equívocos.
+
+É verdade que, em nossa Igreja, muitas doenças que os médicos não conseguiram curar são sanadas pelo Johrei, e nós divulgamos esses casos reais. No entanto, é proibido dizer às pessoas em geral que não consultem médicos ou que não tomem remédios.
+
+### Sobre a Primazia do Espírito sobre a Matéria
+
+Nosso Fundador ensina que, no ser humano, o espírito é o agente primordial e o corpo, o agente secundário. A ciência moderna, por sua vez, demonstrou que a origem da matéria não é material, mas sim uma forma de vida.
+
+O eminente monge da era Meiji, Tanzan Hara, que lecionou filosofia indiana na Universidade Imperial, pregava em suas aulas a “Teoria da Origem Comum da Ilusão e da Doença”, ensinando a seus alunos que as doenças surgem da ilusão da mente e que sua raiz está no coração.
+
+Desde a antiguidade, os religiosos afirmam que o espírito é primordial, enquanto os cientistas do passado, sustentando que o corpo é primordial, se opunham a essa visão. Consequentemente, no tratamento das doenças, os religiosos dão ênfase ao espírito, ao passo que a antiga ciência médica se baseia exclusivamente em cirurgias, injeções e medicamentos.
+
+Contudo, mesmo no meio médico, há muito tempo não são poucos os que questionam a eficácia de um método de tratamento tão focado apenas no corpo físico. Com a ciência moderna demonstrando que até mesmo as células que compõem o corpo, quando analisadas, são, em última instância, formas de vida, ou seja, espírito, passou-se a dar mais importância à mente humana, ou seja, ao espírito. Recentemente, tanto no exterior quanto no Japão, têm surgido renomados doutores em medicina que valorizam a cura espiritual. Um deles é o Dr. Nobuo Shioya, de Shibuya, Tóquio. Há bastante tempo, o Dr. Shioya defende a terapia sem medicamentos e dedica-se a curar doenças tendo a mente e o espírito humano como foco principal, obtendo excelentes resultados.
+
+Existem também ensinamentos que reconhecem apenas o espírito e negam completamente o corpo físico. No Japão, a Seicho-no-Ie e, nos Estados Unidos, a Ciência Cristã são exemplos disso. A Seicho-no-Ie ensina que o corpo físico não existe, sendo apenas uma sombra do pensamento; que o mundo visível não existe, sendo apenas uma imagem da verdadeira realidade. Ou seja, o mundo da realidade — o mundo espiritual — projeta sua sombra no tempo e no espaço, criando o mundo que vemos. Em uma analogia com o cinema, o mundo espiritual seria o filme, o tempo e o espaço seriam a tela, e nosso mundo e tudo o que nele existe seriam as imagens do filme projetadas na tela do tempo e do espaço.
+
+Em suma, o ensinamento da Seicho-no-Ie é uma teoria radical da existência do espírito e da não existência da matéria. Consequentemente, como não pode haver doença em uma sombra, o ser humano é, por natureza, isento de doenças; a doença é apenas a crença de que se está doente. Se a pessoa mentalizar que não existe corpo físico e não existe doença, a enfermidade desaparecerá.
+
+A Ciência Cristã também é uma religião que prega a existência do espírito e a não existência da matéria. Fundada em 1879, em Lynn, Massachusetts, EUA, pela Sra. Mary Baker Eddy, hoje possui muitos seguidores não só nos Estados Unidos, mas também em vários países da Europa. Seu periódico, o Christian Science Monitor, com uma tiragem de centenas de milhares de exemplares, é uma força influente no mundo da comunicação. A Sra. Eddy declarou que no universo existem apenas a mente, Deus e Cristo, e que nada existe de real fora da mente. Toda matéria e doença são estados subjetivos de uma ilusão e não existem de fato. Ela ensina que, ao crer nesse princípio, as doenças são curadas.
+
+A questão do espírito e da matéria tem sido debatida por milhares de anos. A argumentação dos cientistas que reconheciam apenas a matéria e negavam o espírito — o materialismo — foi destruída pelas pesquisas da física atômica. No entanto, negar completamente a existência do corpo físico, da matéria, é um tanto exagerado. O budismo descreve a relação entre espírito e matéria como “unidade indissolúvel de espírito e matéria”, mas nosso Fundador ensina a “primazia do espírito e a subordinação da matéria”. Esta nos parece a visão mais correta.
+
+Sendo o ensinamento de nosso Fundador o da primazia do espírito sobre a matéria, é natural que, no tratamento de doenças, a ênfase seja dada ao espírito. E, de fato, muitas doenças estão sendo curadas pelo Johrei.
+
+### Sobre as Toxinas Medicinais (*Yakudoku*)
+
+Na Sekaikyuseikyou, como já mencionado, não impedimos que as pessoas consultem médicos ou tomem remédios, mas reconhecemos a existência das toxinas medicinais. Isso é inevitável, pois tanto as injeções quanto os medicamentos de fato causam efeitos colaterais. Nem mesmo o maior defensor da onipotência da medicina poderia afirmar que os remédios são completamente isentos de efeitos adversos. De fato, nas faculdades de medicina, não são poucos os que expõem publicamente os malefícios das toxinas medicinais. A seguir, apresentamos alguns exemplos.
+
+O Dr. Alonzo Clark, professor da Faculdade de Medicina de Nova York, afirma: “Todos os medicamentos possuem toxicidade. Portanto, quanto mais se ingere, mais a vitalidade do paciente diminui”. O professor Joseph M. Smith, da mesma instituição, também declara: “A maioria dos medicamentos, ao ser absorvida pela corrente sanguínea e circular pelo corpo, produz em suas toxinas um efeito semelhante ao da ingestão de um veneno, enfraquecendo a vitalidade dos glóbulos vermelhos”.
+
+O professor Alexander H. Stevens, também da mesma faculdade, publicou o seguinte: “Os jovens médicos recém-formados são as pessoas mais promissoras da sociedade. No início de suas carreiras, eles começam com grande entusiasmo, equipados com cerca de vinte tipos de novos medicamentos para cada doença. No entanto, após quase trinta anos de prática, tornam-se capazes de prescrever, com toda a tranquilidade, o mesmo tipo de medicamento para cerca de vinte doenças diferentes. Quanto mais experiente clinicamente é um médico, menos ele confia na eficácia dos medicamentos e mais passa a confiar na força da natureza, na força da vida”.
+
+O grande médico francês Dr. René Allendy apontou que a vacinação contra a varíola, embora reduza o risco de contrair a doença, por outro lado, torna as pessoas mais suscetíveis à tuberculose. Ele disse: “É um fato inegável que a tuberculose aumentou curiosamente a partir de um certo período — desde que a vacinação se tornou difundida e obrigatória como método de prevenção da varíola”. Esta questão já era debatida no final do século XIX. Em 1885, na Itália, o boletim da Associação Médica de Viena citou o caso de catorze em cada mil crianças que desenvolveram escrofulose devido à vacinação.
+
+Na França, o Dr. Pierron, de Bordeaux, publicou uma tese afirmando que a suscetibilidade dos adultos à tuberculose é resultado da vacinação na infância.
+
+Na Holanda, o Dr. Stratemaker, quando era Ministro do Trabalho, ciente dos malefícios da vacinação, propôs em uma conferência a suspensão nacional do procedimento. Em uma reunião realizada em Haia, em 1927, o Dr. Hoffmann apresentou cento e dezoito casos de crianças que desenvolveram graves distúrbios do sistema nervoso devido à vacinação.
+
+No passado, o governo britânico também consultou vários comitês sobre esta questão. Como resultado, em uma reunião do Departamento de Saúde da Liga das Nações em Genebra, foi confirmado que a encefalite letárgica era uma consequência da vacinação. No entanto, embora confirmado, como a porcentagem de casos era baixa, não se chegou à decisão de abolir a vacinação.
+
+Além disso, o professor Charles Tyrrell, dos Estados Unidos, quando diretor do Hospital de Higiene de Nova York, defendeu a inutilidade dos medicamentos, afirmando categoricamente: “Os remédios não curam doenças. Eles não apenas não auxiliam a função de cura natural, como a retardam”.
+
+O Dr. Ames, um renomado médico do Alabama, EUA, publicou certa vez no “Jornal Médico e Cirúrgico de Nova Orleans” sua experiência e observação clínica: “No tratamento da pneumonia, o uso de medicamentos convencionais resultou em maior sofrimento para os pacientes, agravamento da doença e retardo da recuperação completa. Tais pacientes enfraqueciam subitamente, desenvolviam complicações ou, mesmo mostrando sinais de melhora, tinham uma reviravolta súbita para a morte”.
+
+Em uma transcrição de palestra do Dr. William Tully, professor de medicina da Universidade de Yale, encontramos um relato particularmente notável: “Certa vez, uma epidemia de pneumonia tifoide se espalhou por uma aldeia perto do rio Connecticut, e todos os pacientes que procuraram tratamento médico morreram. Como resultado, os aldeões, dizendo que os médicos estavam piorando suas doenças, se opuseram ao tratamento e, apesar das leis estaduais, passaram a recusar assistência médica. Acontece que, desde que os aldeões decidiram categoricamente não receber tratamento médico, não houve mais nenhuma morte entre os doentes”.
+
+O que apresentamos aqui é apenas uma pequena amostra. Se investigarmos em diversos países do mundo, certamente encontraremos inúmeras opiniões semelhantes. A Sekaikyuseikyou não é a única a apontar a existência de toxinas medicinais. Desejamos que aqueles que nos criticam por falar sobre este assunto reflitam profundamente a respeito.
+
+---
+
+# RandA
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+— Coletânea de Ensaios do Mestre Jikan Okada —
+Publicado originalmente na revista *Religion and Art*
+
+## Religion and Art (Religião e Arte)
+
+Esta obra compila doze ensaios em inglês.
+Formato A5, 28 páginas, acrescidas de um catálogo ilustrado.
+
+de Jikan Okada
+Igreja Messiânica Mundial
+112 Tawara-Machi, Cidade de Atami, JAPÃO
+Impresso no Japão, 1955
+
+Verdade, Virtude e Belo
+A Missão da Arte
+Considerações sobre a Arte
+Religião e Arte
+A Religião Artística
+Os Jardins do Shinsenkyo (神仙郷)
+Zuiun-kyo como um Local de Renome Mundial
+O Auxílio Divino Recebido
+A Socialização da Arte
+O Paraíso é um Mundo de Belo
+A História de Meus Estudos sobre a Arte
+A Singularidade da Cultura Japonesa
+
+Ao final do volume, na seção intitulada "Algumas Obras de Arte Pertencentes ao Museu de Hakone", encontram-se fotografias e comentários sobre doze peças do acervo.
+
+---
+
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年 | **Fonte:** 岡田自観氏の横顔
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 
@@ -440,7 +1376,7 @@ Ah, aniquilação ou paz! Não estamos agora na véspera do fim do mundo, o per�
 # RandS2
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 Coletânea de Teses do Mestre Jikan Okada
 
@@ -590,7 +1526,7 @@ Mencionarei agora outro erro desta ciência da nutrição. As pessoas modernas e
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年8月10日 | **Fonte:** 或る日の公判スケッチ
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-08-10
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 ## Um Esboço de Certo Dia no Tribunal
@@ -705,7 +1641,7 @@ Editora: Suginami Shobo
 # joreiho3
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年10月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-10-01
 
 Coletânea de Teses do Mestre Okada Jikanshi
 Curso sobre o Johrei (III)
@@ -1052,948 +1988,6 @@ O Johrei é, em essência, uma atividade de embelezamento. É o ato de purificar
 À medida que o Mundo Espiritual se torna mais claro, como o dia que amanhece, o corpo espiritual do ser humano passa por uma purificação geral. Por causa disso, surgem diversas doenças. Assim, Deus provoca o surgimento generalizado de doenças, e os seres humanos — os fiéis da Sekaikyuseikyou — as curam, eliminando e expelindo as impurezas. É uma obra conjunta entre Deus e o homem. (Omissão)
 
 É praticamente impossível que as toxinas de medicamentos sejam eliminadas naturalmente. Ocasionalmente, um resfriado, uma diarreia ou uma febre reduzem um pouco as toxinas, mas é uma quantidade ínfima. Já com dezenas ou centenas de sessões de Johrei, uma quantidade considerável é eliminada.
-
----
-
-# kyosyu00
-
-**Categoria:** sasshi | **Ano:** 昭和29(1954)年10月10日 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-――― Coletânea de Teses do Mestre Okada Jikan ―――
-Manual de Aprimoramento
-Edição revisada e publicada em 10 de outubro de 1954 (Ano 29 da Era Showa)
-
-## Índice
-
-**[Primeira Aula]**
-A Composição do Universo
-A Transição da Noite para o Dia
-A Força da Grande Natureza
-A Lei da Grande Natureza (O Espírito Precede a Matéria)
-O que é a Morte?
-O que é a Vida?
-
-**[Segunda Aula]**
-Sobre o Johrei
-O que é a Doença? (A Ação Purificadora)
-Sobre o Yakudoku
-Sobre os Micróbios
-Sobre a Nutrição
-A Doença e a Grande Natureza
-As Três Grandes Funções dos Órgãos Internos
-Sintomas das Doenças
-Febre, Dor, Coceira e Sofrimento, Desconforto, Vômito, Diarreia, Edema, Suores Noturnos, Tontura, Insônia, Melancolia, Paralisia, Tosse, Calafrios, Constipação, Escarro com Sangue, Hemoptise
-A Doença e o Espírito
-Tuberculose Pulmonar, Doença Mental, Epilepsia, Sonambulismo, Paralisia Infantil, Câncer de Estômago, Cárie Óssea, Doenças Oculares
-Sobre a Purificação de Nivelamento
-O Método de Rejuvenescimento
-O Verdadeiro Método de Saúde
-Recomendações sobre o Johrei
-O Método para Aferir a Saúde do Ser Humano
-
-**[Terceira Aula]**
-O Objetivo da Vida
-O Espírito Divino
-Vida e Morte
-A Composição do Mundo Espiritual
-Fantasmas
-A Fisionomia dos Seres do Mundo Espiritual
-A Inseparabilidade entre o Mundo Material e o Mundo Espiritual
-O Mundo dos Tengu
-O Mundo dos Dragões
-O Mundo dos Espíritos Malignos (Mundo dos Facínoras)
-O Bem e o Mal
-Os Resultados da Fé nos Deuses Benignos e nos Deuses Malignos
-O Espírito Guardião
-A Advertência dos Antepassados
-Sobre não Falar Mal dos Mortos
-Os Planos do Mundo Espiritual
-A Agricultura Natural (Método de Cultivo sem Adubos)
-A Organização e a Administração da Nossa Igreja
-Conclusão
-(Apêndice) Sobre a Prática do Johrei
-
-**[Primeira Aula]**
-
-Iniciaremos, agora, o Aprimoramento.
-
-A Igreja Messiânica Mundial é uma instituição que, em consonância com o avanço da cultura material, tem por finalidade promover a edificação de uma cultura espiritual, visando à construção do Paraíso Terrestre — o magno objetivo do Criador e, igualmente, o mundo ideal almejado por toda a humanidade.
-
-Mas o que significa, afinal, construir o Paraíso Terrestre? Em suma, trata-se de erradicar por completo a doença, a pobreza e o conflito da face da Terra, a fim de criar um mundo onde toda a humanidade possa viver em plena paz de espírito, livre de quaisquer apreensões. Ou seja, um mundo habitado unicamente por pessoas felizes, sem que haja um único indivíduo sequer a sofrer de infortúnios.
-
-Contudo, é provável que muitos escarneçam de tais palavras. “Uma história tão fantástica não pode ser verdade”, dirão. “Basta observar os milhares de anos de história e a presente condição do mundo para perceber quão distante essa ideia está da realidade. Diante das transformações culturais que se sucederam desde os primórdios da civilização, uma transição de tamanha magnitude é inconcebível. Nós somos dotados de bom senso. Se algo assim se realizasse, seria um ato de pura magia. Uma quimera dessas só poderia existir em um sonho fugaz, induzido pela hipnose. Por isso, a Igreja Messiânica Mundial não é digna de crédito.” Esse ceticismo, todavia, é perfeitamente compreensível. Na verdade, quase todos os que ingressam na Fé partilham, de início, de um pensamento semelhante. É natural que a totalidade das pessoas assim pense. De fato, trata-se de um grandioso portento. E o que seria, senão um portento?
-
-No entanto, para que um grandioso portento se manifeste, é preciso que haja um artífice. A força humana jamais seria capaz de concretizar esse mundo ideal. Cumpre-nos, portanto, investigar a fundo a identidade desse grande artífice. Ele é Kannon (観音)-Sama, ou seja, Komyo Nyorai-Sama, isto é, Miroku Oomikami, o Messias. É unicamente pelo Poder que esse Deus Salvador manifesta que o mundo ideal se tornará realidade. Esse Poder Divino é a força que salva todos os seres vivos. Em outras palavras, uma força magnânima para a salvação da humanidade manifesta-se, hoje, neste mundo real.
-
-Em síntese, a transformação do mundo em Paraíso Terrestre, que é o objetivo do Criador — o Deus Supremo — e o ideal da humanidade, somente se tornará possível com o advento do Poder Divino, que é a força da salvação. É imperativo que os senhores guardem bem essa verdade em sua consciência.
-
-Analisando a situação atual, se uma grande transição pudesse ocorrer de imediato, transformando o mundo em Paraíso Terrestre, seria algo extremamente conveniente para a humanidade, que não precisaria se preocupar com nada. Todavia, na vida, não existem benesses que caem do céu. Antes que o novo mundo ideal, o Paraíso Terrestre, possa ser construído, é imprescindível que haja uma grande depuração do velho mundo que existiu até hoje. Tal como a construção de uma nova casa exige a prévia demolição da antiga e a purificação do terreno. Evidentemente, muitos elementos da casa antiga ainda poderão ser úteis e, portanto, serão preservados. A seleção do que será mantido ou descartado é, naturalmente, uma tarefa executada por Deus. O mesmo se aplica aos seres humanos: aqueles que forem úteis ao novo mundo que se aproxima serão preservados, enquanto os inúteis serão extintos. Dito de outra forma, nós, seres humanos, devemos sobreviver como indivíduos úteis ao novo mundo vindouro. A era da transição do velho mundo (mundo infernal) para o novo mundo (mundo paradisíaco) chegou. Isso nos remete às palavras de Cristo sobre o “fim dos tempos” e o “Juízo Final”, cuja hora parece iminente. De igual modo, os conceitos de “extinção do budismo” e “desaparecimento da Lei”, pregados por Buda, parecem finalmente ter chegado aos dias de hoje. A batalha do Armagedom, descrita na Bíblia, pode ser interpretada como um prenúncio dos tempos atuais.
-
-É imperativo que todos nós corrijamos nossas falhas passadas — sejam elas conscientes ou inconscientes, ou ainda as herdadas de nossos antepassados —, operando uma conversão de cento e oitenta graus para nos tornarmos pessoas íntegras e justas, tementes a Deus e dignas de Sua aprovação. Para tanto, não há outro caminho senão o da fé no Deus verdadeiro. As qualificações necessárias para ser aprovado por Ele consistem em ser um indivíduo capaz de viver em um mundo isento de doença, pobreza e conflito. Em outras palavras, devemos nos tornar pessoas verdadeiramente sadias, livres de enfermidades; pessoas prósperas, que superaram a pobreza; e pessoas que amam a harmonia e abominam os conflitos. Se um ser humano possuir essas três qualificações, não apenas não haverá necessidade de Deus o eliminar, como também será tratado como uma pessoa de valor (útil) no novo mundo que se aproxima. E se me perguntarem se existe um método para obter essas três qualificações, que nos habilitam a viver e servir no novo mundo, a resposta é que a Igreja Messiânica Mundial nasceu justamente para formar pessoas com tais atributos.
-
-A partir de agora, explicarei em ordem as graças concedidas por Deus.
-
-Ao observarmos a vastidão do mundo de hoje, não seria exagero afirmar que praticamente ninguém vive seus dias em completa tranquilidade e livre de qualquer tipo de apreensão. Dentre todas as preocupações, a que primeiro nos vem à mente é, sem dúvida, o sofrimento e a angústia causados pelas doenças. Por essa razão, o Aprimoramento de três dias que ora se inicia terá como foco principal a elucidação desta questão. Sendo um período de apenas três dias, é natural que não seja possível apreender a totalidade dos ensinamentos de nossa Igreja. Assim, ao final do Aprimoramento, ser-lhes-á outorgado o Omamori, que lhes permitirá intermediar o Poder de Deus. A partir de então, os senhores poderão, na prática, curar doenças e, ao mesmo tempo, frequentar as igrejas, visitar as Sedes de Atami e Hakone e aprofundar seus estudos através da leitura das diversas obras sagradas. Desse modo, gradualmente, alcançarão a compreensão integral de nossa Fé.
-
-Iniciarei, portanto, a explanação pela solução do problema da doença, que é o tema central deste Aprimoramento.
-
-Gostaria de tecer aqui algumas considerações sobre o saber acadêmico. No campo do saber, existem o conhecimento vivo e o conhecimento morto. Para simplificar, o conhecimento pelo conhecimento é um saber morto, enquanto a sua aplicação prática na sociedade constitui o saber vivo. A busca pela verdade, contudo, é uma categoria à parte e, evidentemente, de suma importância. O saber acadêmico é hoje transmitido nas escolas, tendo os livros didáticos como eixo vertical (a teoria) e a prática como eixo horizontal (a aplicação), sob a orientação dos professores. A base desse ensino, no entanto, é formada pelo conjunto de resultados das pesquisas de filósofos e estudiosos do passado, que constituíram o alicerce do saber em sua forma atual. Como os senhores bem sabem, novas descobertas e teorias surgem e desaparecem, são propostas e refutadas, e, nesse processo, apenas as parcelas de real valor sobrevivem.
-
-Muitas ideias que em sua época foram aceitas como verdades absolutas desapareceram sem deixar vestígios com o advento de novas teorias e descobertas mais avançadas. Outras, por sua vez, continuam a servir à humanidade, promovendo o bem-estar social até os dias de hoje. O valor de todas elas é determinado pelo “tempo”. Nesse sentido, mesmo aquilo que hoje temos como verdade absoluta e imutável pode, a qualquer momento, ser refutado por uma nova teoria, proposta por alguém que ainda não conhecemos. Embora exemplos disso não sejam raros ao longo da história, é comum que, diante de uma nova descoberta, esta não apenas se desvie dos padrões estabelecidos pela ciência vigente, mas também apresente uma tese diametralmente oposta. É justamente aí que reside o seu valor, e este é tanto maior quanto mais profunda for a ruptura com os antigos paradigmas. O gradual enfraquecimento de uma teoria antiga ocorre porque uma nova surgiu, e o sepultamento do que antes era considerado verdade acontece porque uma verdade superior nasceu. Assim se dá o incessante progresso da civilização. No campo da energia, por exemplo, acreditava-se que a eletricidade e a gasolina representavam o ápice e que nada superior surgiria por um bom tempo. No entanto, com a descoberta da energia atômica, iniciaram-se as pesquisas para sua aplicação. De modo análogo, poderíamos asseverar que os métodos de cura se restringem unicamente à aplicação dos preceitos da medicina ocidental? Assim como surgiu uma energia baseada na aplicação da força atômica, não seria surpreendente se uma nova teoria médica nascesse agora. Portanto, mesmo que uma nova teoria sobre a medicina surja, seria natural que ela fosse examinada. Contudo, a sociedade não apenas se recusa a pesquisar, como também a encara com desconfiança, rotulando-a de antemão como superstição, seita maligna, heresia ou doutrina perversa.
-
-Há mais de vinte anos, Meishu-Sama vem preconizando uma nova teoria sobre a medicina. Quando a publicou em seus escritos, despertou de imediato a hostilidade das autoridades, e suas obras foram proibidas por três vezes. Para nós, foi algo extremamente lamentável, mas não nos restava outra alternativa senão aguardar o momento oportuno, resignados ao dito popular: "Contra a força não há resistência". Naquela época, Meishu-Sama dizia: “Se eu escrevesse tudo o que penso agora, quão grande não seria a perplexidade e a repressão? É quase impossível prever. Por outro lado, ao olhar para o mundo, vejo um número incontável de pessoas desafortunadas gemendo sob o jugo de doenças graves e de difícil tratamento, vítimas de uma medicina equivocada. Neste momento, não posso salvá-las como gostaria. Mas tampouco posso ficar de braços cruzados, como um mero espectador. Em verdade, uma sensação de profunda impaciência me assalta.”
-
-Que afortunados, porém, somos nós hoje! Podemos agora erguer bem alto o coração e os ensinamentos de Meishu-Sama — uma compaixão mais alta que as montanhas e mais profunda que os oceanos — e transmitir amplamente sua verdade ao mundo.
-
-Permitam-me discorrer brevemente sobre o que é a verdade.
-
-A verdade é algo simples, jamais complexo. Quanto mais complexa uma ideia, mais distante ela se encontra da verdade. É estranho dizer que a verdade só pode ser compreendida por meio de estudos acadêmicos; ela deve ser acessível a todos. Por isso, os ensinamentos de nossa Igreja, ou seja, a verdade, podem ser compreendidos até mesmo por pessoas sem instrução.
-
-Adentraremos, agora, o tema principal.
-
-**A Composição do Universo**
-
-Primeiramente, é necessário que falemos sobre a composição do Universo. Este Universo é constituído por três mundos:
-- O mundo material visível.
-- O mundo invisível do ar.
-Ambos são de natureza material e, juntos, formam o que chamamos de Mundo Físico.
-- O mundo invisível e desconhecido, ou seja, o Mundo Espiritual.
-
-O Universo é, portanto, formado por esses três mundos. Em épocas de menor desenvolvimento intelectual, a humanidade conhecia apenas o mundo material. Com o avanço do conhecimento, descobriu-se o mundo invisível do ar, ou seja, o espaço. Todavia, o homem moderno desconhece a existência real do Mundo Espiritual. Embora palavras como “espírito”, “energia espiritual”, “espírito divino” ou “fantasma” sejam bastante utilizadas, seu uso tem se restringido, em grande parte, aos âmbitos da religião e da ciência psíquica. Por essa razão, o emprego do termo “espírito” é frequentemente visto como superstição, a ponto de, nos dias de hoje, a negação do espírito ser considerada um pré-requisito para se ser um intelectual. Foi Meishu-Sama, entretanto, quem nos ensinou de forma clara a existência desse mundo desconhecido, o Mundo Espiritual.
-
-Assim, o mundo material e o mundo do ar constituem o mundo conhecido (aquele que já reconhecemos), ao qual damos o nome de Mundo Físico. Por sua vez, o reverso desse mundo, por assim dizer, o mundo invisível, é chamado de Mundo Espiritual. Em suma, o Universo é composto pelo Mundo Espiritual e pelo Mundo Físico.
-
-Doravante, discorrerei sobre diversos assuntos, mas, a menos que se reconheça a existência do Mundo Espiritual, será impossível compreender minhas palavras. Da mesma forma, o termo “espírito” será empregado com frequência e, sem o devido reconhecimento de sua existência, a compreensão se tornará igualmente difícil.
-
-Como mencionei há pouco, neste Universo, o Mundo Espiritual e o Mundo Físico mantêm uma relação íntima e inseparável; não existe um Mundo Espiritual isolado, nem um Mundo Físico isolado. Ademais, todos os fenômenos do Universo, tudo o que existe, é constituído por três elementos. Não há uma única coisa que exista à parte desses três elementos. Toda a geração, criação e desenvolvimento de todas as coisas dependem da “força desses três elementos”. Quais são, então, esses três elementos fundamentais? São o Elemento Fogo, o Elemento Água e o Elemento Terra. Em outras palavras, são as energias espirituais do Sol, da Lua e da Terra. O Sol é a origem do Elemento Fogo; a Lua, do Elemento Água; e a Terra, do Elemento Terra. Fogo, Água e Terra são, portanto, os três grandes elementos. A força desses três elementos se entrelaça em uma trama vertical e horizontal.
-
-A trama vertical se estende do Céu à Terra, em três níveis: Sol, Lua e Terra. A trama horizontal é a própria substância do plano terrestre em que vivemos. O que isso significa? O mundo real, sobre a superfície da Terra, existe pela interação do espaço e da matéria. A existência da matéria pode ser percebida pelos cinco sentidos humanos, mas o espaço foi por muito tempo considerado como o “nada”. Com o progresso da civilização, porém, descobriu-se a existência do ar, uma semimatéria. Contudo, foi Meishu-Sama quem descobriu que, no espaço que se acreditava conter apenas ar, existe ainda um outro elemento. Esta é uma descoberta de magnitude mundial, e Meishu-Sama denominou essa existência invisível de “energia espiritual”.
-
-Cabe aqui um esclarecimento: a teoria de nossa Igreja sobre o Mundo Espiritual e o espírito difere fundamentalmente das concepções de outras religiões sobre o mundo dos espíritos, espíritos vivos, espíritos mortos e possessão, assim como das teorias dos pesquisadores da ciência psíquica e das ideias de estudiosos como o Dr. Ward ou Sir Oliver Lodge. A energia espiritual que pregamos é um conceito extraordinariamente avançado e constitui a base da cultura do Dia, que está por vir.
-
-Este assunto é tratado com bastante detalhe nos escritos de Meishu-Sama, sendo de leitura indispensável em momento oportuno. Reitero: todas as coisas são formadas pela fusão e harmonização de partículas infinitesimais dos elementos Fogo, Água e Terra, em uma escala que transcende a nossa imaginação. Essa é a verdadeira constituição do Universo.
-
-**A Transição da Noite para o Dia**
-
-Prosseguirei com a explanação, partindo do pressuposto de que os senhores já reconheceram a existência do Mundo Espiritual. Digo isso porque, sem a compreensão de que o Mundo Espiritual está atualmente em transição do “mundo da Noite para o mundo do Dia”, será impossível entender o princípio da cura das doenças. Este é o ponto mais crucial. Ao compreender o fenômeno da Transição da Noite para o Dia, não apenas o princípio da cura das doenças se tornará claro, mas também os equívocos da civilização milenar e as futuras tendências mundiais, o que lhes trará paz de espírito. Rogo-lhes, portanto, que prestem a máxima atenção.
-
-Como princípio universal, todos os fenômenos do Mundo Físico já ocorreram e se manifestaram previamente no Mundo Espiritual. É o mesmo princípio pelo qual, quando um ser humano move suas mãos e pés, a intenção já se moveu primeiro. Ou seja, os acontecimentos do Mundo Físico são um reflexo dos acontecimentos do Mundo Espiritual. E, no Mundo Espiritual, uma grande transição vem ocorrendo nos últimos tempos. A ela, nós nos referimos como a “Transição da Noite para o Dia”.
-
-Assim como um dia se divide em dia e noite, também um ano, uma década, um século, um milênio e dez mil anos possuem suas fases de dia e de noite. No entanto, esses ciclos ocorrem no Mundo Espiritual. No Mundo Físico, apenas a alternância diária é claramente perceptível. Contudo, pelas razões que já expus, o reflexo desses ciclos maiores inevitavelmente se manifesta no Mundo Físico de diversas formas.
-
-Pois bem, no Mundo Espiritual, chegou o momento da transição entre o dia e a noite, um evento que, por desígnio do destino, ocorre a cada milhares ou dezenas de milhares de anos. Como sabemos disso? É algo que Meishu-Sama soube diretamente por meio de sua percepção espiritual. Para nós, que não temos como conhecer o Mundo Espiritual, não resta outra opção senão crer. Contudo, ao sermos informados sobre este fato e observarmos o mundo real, compreendemos gradualmente que se trata de uma verdade inquestionável.
-
-Até agora, o mundo no plano espiritual viveu um longo período de noite. O mundo da Noite, assim como no plano físico, é escuro, e a luz da lua é vista apenas periodicamente. Predomina, evidentemente, o Elemento Água. Quando a lua se oculta, restam apenas as estrelas e, se as nuvens as encobrem, a escuridão é total. Isso se torna claro ao observarmos os acontecimentos que se refletem no Mundo Físico. A história das nações, com seus ciclos de ordem e caos, ascensão e queda, e a alternância contínua entre guerra e paz, assemelha-se ao ciclo da lua, que cresce e mingua incessantemente. Agora, porém, o ciclo celeste gira e está prestes a se converter em Dia. É como se a noite estivesse terminando e o sol começasse a despontar no horizonte. O reflexo dessa grande transição do Mundo Espiritual no Mundo Físico se manifestará como uma mudança monumental — surpreendente, temível e, ao mesmo tempo, jubilosa —, algo jamais experimentado pela humanidade, começando pelo Japão, no Extremo Oriente. No Japão, o colapso da cultura da Noite, ou seja, da cultura estabelecida, já se iniciou. É por essa razão que observamos um impasse fatal em todas as áreas: política, economia, artes, educação, religião, etc. E, em seguida, já podemos sentir os primeiros movimentos da construção de uma nova cultura, a cultura do Dia. O nascimento e o desenvolvimento de nossa Igreja constituem o cerne desse movimento.
-
-O mundo da Noite é, por natureza, uma era de escuridão, repleta de conflitos, fome e sofrimento causado por doenças. O mundo do Dia, por sua vez, é uma era de luz, dotada de paz, prosperidade e saúde. O sol que começou a nascer no leste, contudo, chegará em breve ao centro do céu. O que isso significa? Significa o colapso total da cultura da Noite e, ao mesmo tempo, a construção da cultura do Dia. E isso não levará muito tempo. Pode ocorrer, quiçá, em um futuro muito próximo.
-
-Acredito que, quando chegar o momento, Meishu-Sama anunciará todas as obras da cultura do Dia, nos campos da religião, política, economia, educação, artes, entre outros. Nossa Igreja não é uma mera religião; é também uma nova ciência. É uma suprarreligião que avança firmemente para concretizar o ideal humano da união perfeita entre religião e ciência. Estamos, no entanto, preparados para a opressão decorrente da incompreensão do homem moderno. À medida que o mundo do Dia pleno se aproxima, o atrito entre a destruição e a construção se tornará não apenas mais intenso, mas verdadeiramente violento. Podemos prever que o número de pessoas aflitas por toda sorte de problemas aumentará drasticamente, e uma era terrível se avizinha. No que tange ao corpo físico, as toxinas acumuladas começarão a se dissolver pelo Elemento Fogo, que aumenta gradualmente, e o número de doentes crescerá de forma assustadora. Não podemos afirmar que consequências terríveis não advirão. Será algo incomparável a guerras ou bombardeios. Acredito que o “batismo de fogo” mencionado por Cristo se refira a essa purificação pelo Elemento Fogo. Atualmente, as doenças ainda são localizadas, mas, ao imaginarmos que em breve se tornarão doenças graves e generalizadas, não nos restará outra alternativa senão nos apegarmos a Deus. Para atravessar essa grande transformação, é preciso conhecer o princípio fundamental da doença. Caso contrário, as consequências são deixadas à sua imaginação e julgamento. Para superar este período de transição, é essencial que cada um domine o método do “Johrei”. Este Aprimoramento foi organizado com o intuito de lhes proporcionar um meio de sobreviver aos dias de hoje, de superar a grande provação que se aproxima e, ademais, de ajudar o maior número possível de parentes e pessoas de sua comunidade. O “Johrei” será explicado em detalhes mais adiante.
-
-**A Força da Grande Natureza**
-
-O espírito também possui o “espírito do espírito” e o “corpo do espírito”. O que os cinco sentidos humanos podem perceber pertence ao domínio do “corpo do espírito”, como, por exemplo, as ondas elétricas, as ondas de luz e as ondas sonoras. O “espírito do espírito”, por sua vez, é aquilo que não pode ser captado pelos cinco sentidos; é a “Luz” e a “Força” invisíveis. Essa existência invisível e intangível, que é o nada e ao mesmo tempo não o é, nós a chamamos de “Força Misteriosa”. Também a denominamos “Força da Grande Natureza”. Essa Força da Grande Natureza, ou Força Misteriosa, é a fonte de todo o poder, e seu impulso central é a Vontade do Universo, o Poder do Deus Supremo. É Meishu-Sama quem recebe e manifesta esse Poder. A Força Misteriosa é absoluta, infinita e é o poder criador de tudo o que existe no Universo. Somente através do conhecimento dessa Força da Natureza, dessa Força Misteriosa que é o Poder de Deus, é que a construção de uma cultura humana ideal e a concretização do Paraíso Terrestre se tornam possíveis e críveis. Pode-se dizer que se trata de uma supraciência, que transcende a ciência atual, e de uma suprarreligião, que transcende as religiões existentes.
-
-Até hoje, o ser humano acreditava que a força material era a maior de todas as forças, mas isso é um grande engano. É preciso tomar consciência de que toda e qualquer força material possui um limite. É uma força finita, não infinita. A “Força Misteriosa” é a força infinita.
-
-A cura de doenças que praticamos, ou seja, o “Johrei”, nada mais é do que uma manifestação parcial dessa Força Misteriosa. A razão pela qual um poder curativo tão surpreendente, verdadeiramente milagroso, pode ser exercido é precisamente porque se trata dessa Força Misteriosa. Não é simplesmente por uma pessoa impor as mãos no espaço que as doenças são curadas.
-
-O alarde que jornais, rádios e revistas têm feito recentemente sobre nossa Igreja se deve ao fato de que a verdadeira natureza dessa Força Misteriosa, por ser invisível, não é compreendida. Chegará o dia em que, sem saberem do que se tratava, aqueles que se opuseram e falaram mal certamente se arrependerão. Para nós, ao recebermos neste Aprimoramento o ensinamento sobre a “Força da Grande Natureza” e compreendermos que ela é o sublime “Poder de Deus”, a alegria que sentimos é tamanha que não pode ser expressa em palavras ou pela escrita.
-
-Senhores, rogo encarecidamente que reflitam profundamente e compreendam que a Força da Grande Natureza, a Força Misteriosa, é o Poder de Deus.
-
-Até hoje, nem mesmo as mentes mais brilhantes, que acreditavam poder decifrar qualquer mistério do mundo através da ciência, foram capazes de compreender a essência da Força Misteriosa. Contudo, compreendê-la é, na verdade, muito simples. Basta refletir profundamente sobre a força capaz de curar as doenças, que são o maior sofrimento da humanidade.
-
-O ser humano foi criado pelo Criador, ou seja, pela Força da Grande Natureza. Logo, a força que cura a doença, que pode ser considerada um dano ao ser humano, também deve ser a Força da Grande Natureza. Com essa linha de raciocínio, a compreensão se torna evidente. É uma verdade inquestionável que, se existe uma força para criar algo, também existe a força para consertar suas falhas.
-
-**A Lei da Grande Natureza (O Espírito Precede a Matéria)**
-
-Como já mencionado, todos os acontecimentos do Mundo Físico ocorrem primeiro no Mundo Espiritual e depois se refletem aqui. A ciência, até hoje, no entanto, baseou sua filosofia em tentar resolver os problemas tendo como objeto de estudo apenas os acontecimentos do Mundo Físico. É por essa razão que, apesar do alardeado progresso da civilização, a felicidade humana não o acompanhou. Portanto, para solucionar as questões do Mundo Físico, é preciso primeiro solucionar as questões correspondentes no Mundo Espiritual. A isso chamamos de Lei do Espírito Precede a Matéria. Nesse sentido, o tratamento das doenças também deve partir de uma solução no plano espiritual, ou seja, o verdadeiro método de cura deve ser a cura do espírito através do espírito. Assim sendo, é evidente que, no corpo humano, o corpo espiritual pertence ao Mundo Espiritual e o corpo físico, ao Mundo Físico. Portanto, no que tange às doenças humanas, se eliminarmos as máculas do espírito, como essas máculas se manifestam como acúmulo de toxinas no corpo físico, estas se dissolverão e a doença será curada.
-
-**O que é a Morte?**
-
-O que é, então, o corpo espiritual do ser humano? Para compreendê-lo, é preciso antes entender a questão da vida e da morte. A morte ocorre quando o espírito se desprende do invólucro que é o corpo físico e retorna ao Mundo Espiritual. O corpo físico, por sua vez, retorna à terra. Isso é a morte.
-
-**O que é a Vida?**
-
-Nascer significa que o espírito que foi para o Mundo Espiritual, após um certo período, retorna ao Mundo Físico. Portanto, o espírito é uma entidade de vida infinita, enquanto o corpo físico é finito. Por isso, ao lidarmos com o ser humano, é fundamental saber que o espírito é o objeto principal.
-
-O que foi exposto até aqui serve como conhecimento prévio para o método de cura de doenças que explicarei a seguir. É imprescindível que os senhores compreendam bem esses fundamentos. Sem esse conhecimento, será difícil entender o princípio da cura das doenças que apresentarei.
-
-**[Segunda Aula]**
-
-**Sobre o Johrei**
-
-O Johrei é algo que não pode ser compreendido pela lógica ou pela ciência atuais. Quando alguém que foi curado pelo Johrei conta sua experiência a outros, a maioria das pessoas provavelmente dirá: “Como pode haver algo tão absurdo? Em um mundo com tanto avanço científico, é impossível que uma doença se cure de forma tão simples. Se fosse verdade, não precisaríamos de médicos nem de remédios. E se curasse tanto assim, o governo já teria adotado o método, considerando o grande número de doentes que existem hoje”. De fato, é uma observação muito pertinente. Contudo, a situação atual é tal que todos os sistemas e instituições foram construídos com base na ciência materialista, erigida ao longo de séculos. Portanto, não há o que fazer. A tarefa de difundir nosso caminho no mundo não é, de forma alguma, fácil. Por outro lado, como os senhores sabem, o número de doentes aumenta, e há muitas pessoas que, mesmo indo aos médicos e tomando remédios aos montes, ou recorrendo a outras religiões e terapias populares, não conseguem se curar. Nós não depreciamos, de forma alguma, outras terapias. Se houver um lugar onde possam se curar, sintam-se à vontade para ir aonde sua fé os levar ou para fazer o que acreditam, sem qualquer objeção. Deixamos claro, desde já, que não interferimos nas crenças de ninguém. Este Aprimoramento, no entanto, foi organizado para aqueles que, tendo tentado de tudo sem sucesso, buscam a verdade, pensando: “Em um mundo tão vasto, deve haver um lugar onde minha doença possa ser curada; deve haver uma verdade que cure”.
-
-Até hoje, como já mencionado, tudo foi construído com base na ciência. Por isso, tudo o que não se enquadra nela é descartado como superstição ou doutrina perversa. Eu, porém, não penso assim. É preciso saber que existe uma distinção entre o que pode ser resolvido pela ciência e o que não pode.
-
-O progresso da ciência moderna é algo relativo, se comparado à história desde os tempos primitivos. Daqui a algumas centenas ou milhares de anos, quando as pessoas do futuro criticarem a ciência do século XX, certamente rirão de quão infantil ela era. É o mesmo que nós rirmos hoje da cultura da era primitiva ou da cultura de mil anos atrás. Nossa teoria talvez seja uma cultura mil anos à frente da cultura atual. Afirmo com clareza: no que tange à vida humana, a lógica da ciência moderna é incapaz de oferecer uma solução. Por quê? Porque o ser humano não é um amontoado de carne. Não é feito apenas de corpo físico. Não é um boneco. Dentro do invólucruo que é o corpo físico, habita uma alma espiritual invisível. Sem a compreensão deste ponto fundamental, o princípio do Johrei não poderá ser entendido. Repito: dentro do invólucro que é o corpo físico, habita uma alma espiritual invisível. É a união íntima entre espírito e matéria que gera a vida. Se o espírito e o corpo se separam, isso é a morte.
-
-Segundo essa lógica, como já foi dito, a porção de toxinas existente no corpo físico corresponde a uma “mácula” idêntica na alma espiritual. Portanto, o princípio fundamental da cura de doenças em nosso caminho reside em como eliminar essa mácula existente na alma.
-
-Meishu-Sama, o Mestre da Igreja Messiânica Mundial, alcançou a iluminação de que a eliminação da mácula da alma espiritual — “Como essa eliminação pode ser feita? Se for possível eliminá-la, todas as doenças poderão ser curadas” — representa a conclusão da arte médica. Este é o ponto fundamental. Essa mácula, que é a origem da doença, não é matéria; é algo espiritual e invisível. Consequentemente, a ciência moderna nada pode fazer a respeito. Por quê? Porque é impossível agir sobre o que é invisível usando a matéria. Seria possível eliminá-la através de preces a deuses e budas ou por meio de rituais de exorcismo? Tampouco. Então, como é possível eliminá-la? Através da força espiritual, que é uma força invisível. Através de um raio de luz misterioso e invisível. E Meishu-Sama é o mestre dessa força.
-
-Se analisarmos mais a fundo essa “Luz” invisível, veremos que ela é a Luz de Deus, o Poder Divino. E quais são os elementos desse Poder Divino? São:
-O Elemento Fogo, que é a energia espiritual do Sol;
-O Elemento Água, que é a energia espiritual da Lua;
-E o Elemento Terra, que é a energia espiritual da Terra.
-É um conjunto desses três elementos. Dentre eles, o que se encontra em maior quantidade e é o principal é o Elemento Fogo. Portanto, podemos dizer que o Poder Divino é, em essência, o Elemento Fogo. É através da irradiação desse Elemento Fogo invisível que a mácula, a impureza da alma espiritual, é eliminada.
-
-Eis que, pela primeira vez, foi encontrada a solução para a doença, um problema que afligia a humanidade há milhares de anos. Oh, que descoberta sublime e abençoada! Pelo contrário, se essa grande descoberta não tivesse ocorrido, toda a humanidade continuaria a sofrer com as doenças, o número de doentes aumentaria cada vez mais, e qual seria o resultado? Só de pensar, arrepio-me. Basta observar a sociedade moderna, atormentada por doenças, para compreender. Refletindo profundamente sobre as pessoas do mundo, não é exagero dizer que quase ninguém vive seus dias em completa tranquilidade e livre de qualquer apreensão. Dentre essas apreensões, a primeira que nos vem à mente é, sem dúvida, a doença. Qualquer pessoa, a qualquer momento, pode adoecer. Daqui a uma hora, pode pegar um resfriado; se pegar um resfriado, pode evoluir para uma pneumonia; ou pode ser o início de uma tuberculose. Esta noite, pode ter uma crise de apendicite e sofrer com dores excruciantes. Amanhã, pode contrair febre tifoide ou alguma doença de causa desconhecida. As crianças podem contrair doenças graves e fatais como a disenteria infantil, a difteria ou a meningite, e partir para o outro mundo em dois ou três dias. Os idosos, por sua vez, podem a qualquer momento sofrer um derrame cerebral, ficar com o corpo paralisado e passar anos confinados a um leito em um destino trágico. E se alguém da família contrair uma doença contagiosa e for hospitalizado e isolado? Além disso, com os custos médicos tão elevados hoje em dia, não se sabe quanto custará o tratamento e a internação. Se a cura for rápida, tudo bem, mas se a internação se prolongar, as economias guardadas com tanto esforço ao longo de anos podem se esgotar e, mesmo que a doença seja curada, a pessoa pode acabar na miséria. E se, ao menos, a vida for poupada, ainda há como ganhar o sustento, mas se, por azar, a pessoa ficar com alguma deficiência ou morrer, o que acontecerá? Se for o chefe da família, como os seus entes queridos viverão após sua morte? E para a própria pessoa, seus planos e empreendimentos terminam pela metade. É realmente lamentável deixar este mundo no auge da vida. E ter que romper os laços de amor com a esposa e os filhos é algo insuportável. Não se pode garantir que tais situações não ocorrerão. Ao pensar em todas essas coisas, o medo da doença paira constantemente sobre nós, pesado como chumbo, e quase ninguém é exceção.
-
-Diante de uma vida tão terrível, se não for possível se libertar dessa angústia, então é como disse Buda: “Este mundo é uma casa em chamas, e o ser humano não pode escapar dos quatro sofrimentos — nascimento, velhice, doença e morte —, portanto, resignem-se. Essa é a iluminação”. E, ao olharmos para os milhares de anos de história, vemos que é exatamente assim.
-
-Se eu disser agora que nasceu uma religião, uma força de salvação que liberta completamente dessa angústia da doença, as pessoas certamente dirão: “Isso é impossível. Estamos em uma era tão esclarecida, a ciência avançou tanto, com bombas atômicas, televisão, raios da morte... Não pode haver uma história tão conveniente, como a de um mágico, para enganar as pessoas. Você deve estar louco”. E me considerarão, no mínimo, à beira da loucura. Mas, para sua surpresa, tal religião, tal força de salvação, de fato nasceu. Mesmo que eu diga isso, as pessoas certamente não apenas duvidarão uma ou duas vezes, mas negarão categoricamente. Contudo, eu gostaria de perguntar: e se for verdade? O que fariam se soubessem que é verdade? Seria uma comoção indescritível. O mundo viraria de cabeça para baixo. Dentre todos, os senhores, que são afortunados, talvez pensem: “Bem, se aquela pessoa recomenda com tanto fervor, vou pelo menos pesquisar uma vez”, e assim decidiram ingressar na Igreja Messiânica Mundial. Outros, a maioria, provavelmente rirão com desdém e dirão: “Como pode haver algo tão absurdo? Eu não sou tão tolo nem tão ingênuo”. Essas pessoas, na verdade, não são muito diferentes daquelas que se atiram da cachoeira de Kegon ou do Monte Mihara; são pessoas verdadeiramente desafortunadas. Ao pensar em tudo isso, uma após outra, pergunto-me: será que posso guardar algo tão abençoado só para mim? No mundo, deve haver muitas pessoas sofrendo e se afligindo como eu. Será que posso deixar de contar a elas sobre isso? E, pensando assim, não consigo mais ficar parado. Os ensinamentos da Igreja Messiânica Mundial podem ser compreendidos mesmo por quem não conhece a palavra “religião”; esta arte médica pode ser compreendida mesmo por quem não conhece a palavra “medicina”. É um ensinamento tão simples que qualquer um pode entender e qualquer um pode praticar. Pensando assim, fico ainda mais inquieto. Sinto-me compelido a tomar a decisão de dedicar minha vida a servir a este caminho.
-
-Curar doenças, como já mencionei, é extremamente simples. Uma vez recebido o Poder, qualquer pessoa pode, imediatamente, curar todas as doenças. Para aqueles que duvidam, não há o que fazer. São como pessoas que, ao ouvirem que o açúcar é doce, dizem “isso é impossível” e nem sequer tentam prová-lo. A atitude mental necessária para compreender este princípio simples é abandonar a própria lógica (preconceitos) e se tornar como uma folha de papel em branco. É por isso que mesmo pessoas com pouca instrução conseguem apreender o princípio rapidamente. Creio que não há nada mais maravilhoso. Se fosse uma arte médica que só pudesse ser compreendida por quem tem conhecimento acadêmico, como os médicos, jamais seria possível salvar as massas.
-
-A medicina tenta curar o corpo humano com a força do saber.
-Este Johrei tenta curar o espírito e o corpo humanos com a força de Deus.
-
-A partir de agora, ministrarei Johrei na prática. Peço que observem. E, para o aprendizado do Johrei, é necessário que os senhores mesmos o recebam. Por quê? Porque é como tentar explicar o sabor de um caqui ou de uma maçã; se não provar, não se pode saber.
-
-(A seguir, explica-se sobre o Johrei.)
-
-1.  Método de irradiação da Luz Espiritual (Radioatividade Espiritual Divina): (Estender a palma da mão a uma distância de aproximadamente 60 centímetros do corpo da pessoa, de forma natural e relaxada.)
-2.  A pessoa que ministra Johrei deve sentar-se em uma posição mais elevada e ter o sentimento de ser um representante do Deus Messias.
-3.  Purificar a fronte do paciente.
-4.  Ensinar o Johrei básico nas costas, na região dos rins, no dorso, nos ombros, na nuca, etc.
-5.  Ensinar a identificar os pontos de febre.
-6.  Método para identificar as toxinas: observar a cor da pele, as partes do corpo com aparência anormal, os locais com febre e perguntar ao paciente onde ele sente dor.
-7.  Para doenças de origem espiritual ou em casos de doentes graves, entoar a Oração ou o Hino de Louvor (pode-se entoar várias vezes).
-
-(A partir da segunda pessoa, inicia-se a prática do Johrei.)
-
-Quando a mácula, que é a impureza da alma espiritual, se dissolve pela irradiação do Poder Divino, ou seja, do Elemento Fogo, as toxinas do corpo físico são expelidas para o exterior. Isso ocorre das seguintes formas:
-- Misturadas à urina ou à diarreia.
-- Através da tosse, na forma de escarro.
-- Na forma de furúnculos, remela, coriza, sangramentos, suores noturnos, etc.
-- O corrimento branco nas mulheres também é uma forma de eliminação de toxinas.
-
-Enfim, tudo o que sai é bom. Gostaria que soubessem que o que é bom não sai do corpo.
-
-Gostaria de fazer uma observação aqui. Há quem diga que, quando surgem furúnculos, o osso apodrece, mas gostaria que soubessem que o que está vivo jamais apodrece.
-
-As toxinas são de dois tipos: pus e sangue tóxico. Explicarei os detalhes a seguir.
-
-**O que é a Doença? (A Ação Purificadora)**
-
-A doença, em poucas palavras, é a limpeza do corpo humano.
-- Se moramos em uma casa, fazemos a limpeza todas as manhãs e, de vez em quando, uma grande faxina.
-- Relógios e máquinas também precisam de limpeza.
-- No universo, também há limpeza. A chuva lava a sujeira, o sol a seca, o vento sopra, os raios caem, a neve cai — tudo isso é limpeza.
-
-Da mesma forma, o ser humano também precisa de limpeza. Primeiro, a sujeira acumulada externamente é lavada no banho. A limpeza da sujeira acumulada internamente é feita pela Grande Natureza.
-
-Ao longo da vida, é inevitável que o ser humano acumule impurezas. Essas impurezas, ou seja, as toxinas humanas, são de dois tipos: congênitas e adquiridas. As toxinas congênitas são aquelas herdadas de antepassados distantes ou, mais proximamente, dos pais, bem como as impurezas da mãe absorvidas pelo cordão umbilical durante a gestação. A estas últimas, chamamos de toxinas inatas. As toxinas adquiridas são as toxinas da urina, decorrentes da atrofia dos rins, e as toxinas dos medicamentos ingeridos a cada vez que se adoece, ou seja, o yakudoku, que é o mais temível de todos.
-
-Essas três toxinas se acumulam no interior do corpo. Os locais de acúmulo são as áreas onde os nervos são mais utilizados e a região das costas. O corpo humano possui uma constante ação purificadora, que faz com que essas toxinas se acumulem e se solidifiquem em pontos específicos. A isso, chamamos de primeira ação purificadora. Essa primeira ação purificadora não é acompanhada de febre, portanto, a dor não é intensa e não se tem a sensação de estar doente.
-
-Em seguida, quando uma certa quantidade de toxinas se acumula em um local, ocorre uma ação para eliminá-las do corpo. A isso, chamamos de segunda ação purificadora. Para que essa segunda ação purificadora ocorra, é preciso dissolver e liquefazer as toxinas solidificadas para que possam ser expelidas. Para isso, a “febre” é necessária.
-
-A febre dissolve e liquefaz as toxinas que estavam solidificadas no corpo. Quando essas toxinas liquefeitas são expelidas do corpo, elas estimulam os nervos, causando dor, desconforto ou perda de apetite. Por isso, as pessoas em geral temem esse processo, chamando-o de doença.
-
-Na Igreja Messiânica Mundial, consideramos a doença como um sofrimento temporário que ocorre desde o momento em que a febre dissolve as toxinas até a sua eliminação do corpo. Com o Johrei, o processo se torna muito mais ameno. Se suportarmos um pouco de dor, as toxinas serão eliminadas, a febre baixará, a dor desaparecerá e a quantidade de toxinas no corpo diminuirá. Portanto, a pessoa se torna mais saudável do que antes da doença e, consequentemente, poderá viver mais. Por isso, dizemos que não há nada mais abençoado e precioso do que a febre.
-
-Quanto mais alta a febre e mais intensa a dor, maior a quantidade de toxinas que se dissolve, o que é ótimo. Assim, o medo da doença não apenas desaparece, como passamos a desejar adoecer para eliminar rapidamente as toxinas do corpo e alcançar a verdadeira saúde.
-
-Originalmente, o que encurta a vida são as toxinas no corpo. A eliminação dessas toxinas prolonga a vida na mesma proporção. Por isso, em nossa Igreja, é possível prolongar a vida das pessoas. Que coisa maravilhosa! Com isso, chegamos a desejar adoecer, a querer receber a purificação. Passamos a desejar ter febre alta, diarreia, a pegar um resfriado. Assim, nos livramos completamente do medo da doença. Por outro lado, o desejo geral é também que essa purificação seja leve.
-
-A purificação mais leve e benéfica é o resfriado. Com o resfriado, as toxinas são eliminadas através da coriza, do escarro e da urina. Isso previne o surgimento de todas as doenças, razão pela qual não há doença mais benéfica e abençoada que o resfriado. No entanto, as pessoas temem esse resfriado tão valioso e, em vez de permitirem a eliminação das toxinas, esforçam-se ao máximo para impedi-la, suprimindo o processo com medicamentos ou solidificando-as com gelo. Que ignorância, que tolice! É como na era primitiva, quando, por não conhecerem o uso do fogo, não sabiam cozinhar ou assar os alimentos. Da mesma forma, o homem moderno, por não ter descoberto o Elemento Fogo, não conhece o método de curar doenças com ele. Ao conhecer o uso do fogo, pode-se cozinhar facilmente e saborear os alimentos. Da mesma forma, com a descoberta do Elemento Fogo, ao se adoecer, os venenos da doença são eliminados pela irradiação desse elemento, e a doença é curada com facilidade. Assim como se pode cozinhar sem conhecimento acadêmico ou teorias, também se pode curar doenças sem eles. O homem moderno, que se orgulha de sua civilização avançada, não pode rir tanto assim dos povos primitivos. Por isso, não seria um desrespeito ao homem moderno dizer, como já afirmei, que nossa cultura está mil anos à frente.
-
-Em suma, a cada vez que se adoece, a pessoa se torna mais saudável e sua vida se prolonga. Como isso é o oposto das teorias vigentes, alguns podem se surpreender. Outros podem chamar de heresia ou doutrina perversa. E ainda outros podem dizer que é um absurdo. No entanto, os afortunados podem se admirar e dizer: “Isto é a verdade. É uma teoria que a inteligência humana jamais conseguiu descobrir até hoje. Esta é a voz de Deus”. Cada um interpretará de acordo com seu estado de espírito.
-
-Agora, há um ponto de extrema importância a ser discutido. O fato de as toxinas serem eliminadas do corpo através da doença, ou seja, da ação purificadora, significa que a “mácula” na alma espiritual, que é a base do corpo, diminuiu. Quando a mácula da alma diminui, a alma começa a brilhar, a pessoa se torna de bom coração e seu caráter muda para melhor. Por exemplo:
-- Quem bebia em excesso passa a se contentar com pouco.
-- A pessoa que se irritava facilmente torna-se calma.
-- A compaixão aumenta e surge o desejo de amar o próximo.
-- Passa a detestar conflitos e a amar a paz, a odiar o mal e a apreciar o bem.
-- A mente se torna mais clara, a distinção entre o bem e o mal se torna nítida e, consequentemente, o trabalho prospera e o lar se torna harmonioso.
-- A pessoa passa a conhecer, pela primeira vez, um sabor que nunca havia provado antes: o sabor da própria felicidade ao fazer os outros felizes. (Citar exemplos.)
-
-É interessante observar como, sem que se perceba, o próprio caráter vai se transformando. E, à medida que nos purificamos, nossos antepassados também se purificam. Quando os antepassados se purificam, os descendentes se tornam felizes. Por quê? Porque antepassados e descendentes estão ligados por um fio invisível do destino, chamado de linha espiritual. Além disso, a pessoa passa a ser protegida de acidentes de trânsito, acidentes de trabalho com máquinas, desastres, roubos, terremotos, inundações, etc. Isso ocorre porque tais incidentes também são uma forma de purificação da mácula da alma.
-
-Repetindo o que acabei de dizer, adoecer (ou seja, purificar) significa que:
-- As toxinas do corpo diminuem, tornando-o mais saudável e, consequentemente, prolongando a vida.
-- A alma se purifica, e o espírito se torna bom.
-- Com a purificação da alma, o corpo espiritual se eleva, e a pessoa escapa de diversos infortúnios.
-- Os antepassados são salvos, e os descendentes se tornam felizes.
-- A pessoa passa a amar e a ser gentil com os outros e, por isso, é abençoada materialmente e amada por todos.
-- Torna-se saudável e, portanto, diligente e capaz de trabalhar bem.
-- Passa a crer em Deus e, por isso, não há mais duplicidade em suas ações.
-- O lar se torna harmonioso, livre de doença, pobreza e conflito, e um pequeno paraíso se manifesta. E a pessoa escapa de todos os tipos de infortúnios.
-
-Se enumerarmos, ainda há muitos outros benefícios. Quando esses benefícios se estendem a toda a nação, a reconstrução do Japão se torna possível. Primeiro, o Japão inteiro se torna um paraíso e, ao estender isso ao mundo todo, o Paraíso Terrestre se manifestará. Aqui, se a interpretação da doença for equivocada, o resultado será terrivelmente oposto.
-
-Se a doença for interpretada como um processo de deterioração, como se faz até hoje, nascerá uma sociedade infernal como a de hoje. Que questão de suma importância! Se interpretarmos a doença como deterioração, ou seja, se, quando a Grande Natureza tenta realizar a ação purificadora chamada doença para expelir as toxinas do corpo, essa purificação for suprimida com medicamentos e outros métodos para impedir a eliminação, então as toxinas liquefeitas pela febre se solidificarão novamente, o yakudoku será adicionado e, a cada doença, a quantidade de toxinas aumentará cada vez mais, o corpo se enfraquecerá, a vida se encurtará e, do ponto de vista nacional, a vitalidade do povo diminuirá e o número de pessoas com deficiências, como surdos, cegos e coxos, aumentará.
-
-Isso se refere apenas ao aspecto físico. E que má influência haverá no aspecto espiritual?
-- Como a alma se macula, a consciência se ofusca e a maldade prevalece. A pessoa se torna alcoólatra, gosta de conflitos e de praticar o mal. Odeia o bem, torna-se preguiçosa, a mente se enfraquece e o trabalho não progride. Do ponto de vista nacional, a produtividade cai, a moralidade se deteriora e surge um mundo de trevas onde, desde que a própria pessoa esteja bem, não se importa com os outros. Consequentemente, os antepassados também se maculam, os descendentes se tornam infelizes, a família não tem fim para a doença, a pobreza e o conflito. Isso se espalha por toda a nação e, por fim, pelo mundo inteiro, resultando na sociedade infernal de hoje. Isso não é uma teoria. É a realidade. A situação atual do Japão e do mundo inteiro, embora não haja guerra declarada, é de uma grande guerra ideológica. As nações vitoriosas estão cada vez mais fortalecendo seu poderio militar. Repito: a criação de um mundo infernal ou de um mundo paradisíaco depende unicamente da interpretação da doença. Gostaria que se lembrassem bem disso.
-
-Interpretar a “doença como ação purificadora” leva ao surgimento do Paraíso Terrestre. Interpretar a “doença como deterioração” leva ao mundo infernal de hoje. Haverá algo mais importante do que isso?
-
-Por favor, despertem rapidamente. Esta é a mais urgente das urgências. E despertar significa apenas entender que “a doença é uma ação purificadora”. É só isso.
-“A doença é uma ação purificadora.” “A doença é uma ação purificadora.” Apenas isso constitui a “base para a construção do Paraíso Terrestre”.
-
-Se não estiverem convencidos do que eu disse até agora, ao receberem o Poder Divino, ou seja, o “Omamori”, e ministrarem Johrei a outras pessoas na prática, compreenderão melhor este fato.
-
-Portanto, como disse no início, este Aprimoramento é simples. Idosos e crianças, qualquer um pode entender imediatamente. Por outro lado, por ser tão simples, pode haver pontos de difícil compreensão. Se se tornarem como uma folha de papel em branco, entenderão imediatamente. Não se trata, de forma alguma, de um engodo. Creio que entenderão ao verem, diante de seus olhos, a realidade de pessoas doentes se curando. Por curar tão bem, pode parecer mágica, mas nós estamos ensinando o “truque”. E o “truque” é que “a doença é uma ação purificadora” e, para dissolver rapidamente as toxinas durante essa purificação, utiliza-se o Poder Divino, ou seja, o Elemento Fogo.
-
-Esse Elemento Fogo é o Poder Divino que emana do “Omamori” que lhes será entregue no terceiro e último dia pelo professor [ ].
-
-Ao pendurar este Omamori no pescoço e ministrar Johrei, a Luz de Deus é irradiada pelas mãos, através do corpo espiritual da pessoa. Assim, os senhores se tornam instrumentos de Deus, capazes de curar todas as doenças.
-
-É como uma estação de rádio que faz com que aparelhos de rádio sejam fabricados para que o público em geral possa ouvir a transmissão. Nós somos como os fabricantes de rádio, e os fiéis são como os aparelhos de rádio que temos a permissão de fabricar.
-
-Portanto, as ondas espirituais emanam de Meishu-Sama, passam pelo Omamori que os senhores recebem e são transmitidas a vocês. Por isso, peço que se tornem bons aparelhos.
-
-Peço que compreendam plenamente este ponto.
-Com isso, concluo a explicação geral sobre a interpretação da doença e o princípio da cura.
-
-**Sobre o Yakudoku**
-
-Como explicado no item anterior, a doença é o processo de eliminação das toxinas do corpo. No entanto, quer se trate de toxinas congênitas ou adquiridas, as primeiras são a herança do yakudoku usado pelos antepassados, e as segundas são o yakudoku introduzido no corpo desde o nascimento. Em outras palavras, a tese de nossa Igreja Messiânica Mundial é que a doença é criada pelo tratamento médico, e os medicamentos são o seu elemento central. Até agora, parecia que a doença era curada porque os sintomas diminuíam devido à ação do veneno chamado remédio, mas, na realidade, não era uma cura. Além disso, o corpo humano é feito de tal forma que não consegue processar completamente substâncias estranhas que não sejam os alimentos a ele destinados, e esses remédios permanecem no corpo. Isso é o yakudoku, que, com o passar do tempo, acumula-se e se solidifica em locais onde os nervos são mais utilizados. E, em alguma oportunidade, ocorre a ação de eliminação natural. Isso é a ação purificadora, ou seja, a doença. Pensando bem, o ser humano suprime a ação purificadora, que é uma bênção do Céu, com o yakudoku, solidificando-o. Mas, com o tempo, a purificação desse yakudoku, ou seja, a doença, ocorre novamente. Se este princípio for compreendido, creio que se entenderá por que, apesar do avanço da medicina e da criação de novos medicamentos, o número de doentes não diminui, mas, pelo contrário, aumenta cada vez mais.
-
-Além disso, quando se fala em yakudoku, o homem moderno tende a pensar apenas nos potentes medicamentos ocidentais de hoje. No entanto, os remédios da medicina oriental são igualmente prejudiciais. Aliás, por serem usados em maiores quantidades, tendem a causar purificações persistentes e a encurtar a vida, algo de que devemos nos conscientizar.
-
-Nossa Igreja Messiânica Mundial prega veementemente a terrível natureza do yakudoku. Afirmamos que, se o ser humano não introduzisse remédios em seu corpo, poderia passar a vida inteira sem conhecer o sofrimento da doença. O efeito do Johrei reside na eliminação desse yakudoku. E, clamando para que os remédios desapareçam deste mundo, enfrentamos toda sorte de perseguições e chegamos até aqui.
-
-**Sobre os Micróbios**
-
-Se o ser humano é a coroa da criação, então nada do que existe neste mundo deveria ser desnecessário para ele.
-
-A “verdade” é que aquilo que se torna desnecessário para o ser humano é naturalmente selecionado e extinto. Portanto, quando o homem diz que algo é inútil ou prejudicial, é porque não conhece a razão da sua existência. Nesse sentido, mesmo os micróbios, todos eles, existem porque são necessários para a sobrevivência da humanidade.
-
-A razão da sua existência é que os micróbios são faxineiros. Assim como, ao varrer uma sala, se espalha jornal molhado ou folhas de chá para que a poeira seja absorvida, os micróbios existem para acelerar ainda mais a ação purificadora do sangue humano, cumprindo o papel de faxineiros. Se o sangue for puro, ou seja, se não houver toxinas, os micróbios não atuam. Portanto, a esterilização é prejudicial ao corpo. Para esterilizar, é preciso usar veneno e, além disso, a esterilização interna do corpo é impossível.
-
-**Sobre a Nutrição**
-
-Para os japoneses, o arroz é o alimento mais nutritivo. Os acompanhamentos existem para tornar o arroz mais saboroso. Os acompanhamentos devem ter como base os vegetais, e o peixe e a carne devem ser secundários. O erro da nutrição moderna é que ela se concentra apenas no estudo dos alimentos e se esquece de estudar as funções do corpo humano que os recebe e processa. Portanto, se praticarmos a nutrição acadêmica, o corpo se enfraquecerá. Além disso, não é algo fácil de se praticar. Em suma, basta comer o que o corpo naturalmente pede. É uma tolice forçar-se a comer o que não se gosta e abster-se de comer o que se gosta. O ser humano se torna mais forte quanto mais simples for sua alimentação. Isso porque as funções digestivas do corpo se tornam mais ativas, tentando produzir todos os nutrientes necessários.
-
-Para os doentes, deve-se dar o que eles querem comer, mas, no caso de doentes graves, é melhor que tenham uma dieta vegetariana, pois o sangue se purifica mais rapidamente e os resultados são melhores.
-
-Falemos sobre a “saúde verdadeira e a saúde aparente”.
-Hoje em dia, quase não existem pessoas verdadeiramente saudáveis. São todos doentes. A diferença é que há pessoas cuja doença já se manifestou e pessoas cuja doença ainda não se manifestou. Aqueles cuja doença ainda não se manifestou são comumente chamados de saudáveis. Nós os chamamos de pessoas com saúde aparente. Portanto, não se sabe que tipo de doença pode surgir a qualquer momento.
-
-Costuma-se dizer que “o homem é um receptáculo de doenças” ou que “tem quatrocentas e quatro doenças”, e, em certo sentido, isso é verdade. No entanto, se as toxinas desaparecerem, o homem deveria se tornar um “receptáculo de saúde”.
-
-Por isso, se recebermos Johrei regularmente, quando uma doença surgir, ela será curada facilmente. Portanto, é bom receber Johrei com frequência. Assim, é muito bom que as pessoas ministrem Johrei umas às outras, mas, como a purificação varia em intensidade, é importante ir à igreja e receber orientação gradualmente.
-
-**A Doença e a Grande Natureza**
-
-O ser humano, que nasceu neste mundo com uma nobre missão de Deus, adoece porque está contrariando as leis da Grande Natureza, ou seja, a Vontade Divina. Investigar e descobrir em que pontos está havendo essa contradição é o que constitui a solução fundamental.
-
-O que é, então, essa ação contrária à natureza? É a interrupção da “ação purificadora” realizada pela Grande Natureza. Ao observarmos os fenômenos celestes, vemos que, quando a sujeira se acumula na Terra, o vento a varre, o raio a queima, a chuva a lava e o sol a seca. Portanto, a saúde e a doença humanas também devem ser pensadas e resolvidas com base nos princípios da Grande Natureza. Essa é a “manifestação da verdade”.
-
-Por isso, o nosso Johrei é um método que tem a Grande Natureza como base. É uma terapia natural, uma terapia espiritual divina.
-
-**As Três Grandes Funções dos Órgãos Internos**
-
-Dentre os órgãos internos, há três funções essenciais: as do coração, dos pulmões e do estômago.
-
-O ser humano tem uma relação íntima com a Grande Natureza; aliás, respira, cresce e morre dentro dela — é parte dela. É por isso que o ser humano também é chamado de microcosmo.
-
-A composição do Universo, como explicado no início, é formada por três mundos: o Mundo Espiritual, o mundo do ar e o mundo material. Assim:
-- O “coração” absorve o Elemento Fogo do Mundo Espiritual para manter a temperatura corporal. O batimento do coração se deve à absorção do Elemento Fogo.
-- Os “pulmões” absorvem o ar (na verdade, o Elemento Água) do mundo do ar.
-- O “estômago” come os alimentos que nascem na Terra, absorvendo o Elemento Terra para manter a nutrição do corpo físico.
-
-O homem moderno conhece o ar e os alimentos, mas não conhece o Elemento Fogo, que mantém a temperatura corporal. Tampouco conhece a verdadeira missão do coração. No entanto, parece saber que o coração é o órgão mais importante.
-
-Assim como há alimentos bons e ruins, e ar bom e ruim, também há energias espirituais de nível superior e inferior. Por exemplo:
-A energia espiritual é mais elevada ao lado de Meishu-Sama, seguida pela Sede Central, pelas igrejas e pelos lares onde o altar de Komyo Nyorai-Sama está consagrado, havendo uma hierarquia de níveis superior, médio e inferior. Portanto, estar em contato com uma boa energia espiritual — ou melhor, recebê-la — é o primeiro passo para a saúde. Por isso, ao consagrarmos um altar de Komyo Nyorai-Sama em uma casa, a energia espiritual de Komyo Nyorai-Sama preenche aquele lar, e as pessoas podem receber graças.
-
-A partir de agora, vamos analisar os sintomas das doenças.
-
-**Sintomas das Doenças**
-
-Os sintomas das doenças incluem febre, dor, coceira, desconforto, vômito, diarreia, edema, suores noturnos, tontura, insônia, melancolia, paralisia, tosse, sensação de calor na cabeça, zumbido no ouvido, calafrios, constipação, entre outros. A seguir, explicarei cada um deles.
-
-Febre: O coração absorve o Elemento Fogo para manter a temperatura corporal. Quando se adoece e a febre se manifesta, é porque uma quantidade de calor superior à temperatura normal é necessária para dissolver as toxinas. Por isso, os batimentos cardíacos se tornam mais frequentes, ou seja, o pulso acelera.
-
-Dor: As toxinas, dissolvidas pela febre, buscam uma saída e, ao se moverem nessa direção, estimulam os nervos, causando a “dor”. A causa de toda dor é invariavelmente o yakudoku, e a diversidade de dores se deve à diversidade de medicamentos.
-
-Coceira: A causa pode ser de três tipos: yakudoku, toxinas inatas e intoxicação alimentar. A dor é algo a que não se deve subestimar. No caso da sarna, por exemplo, o sofrimento pode ser tão intenso que a pessoa chega a desejar o suicídio. Há também as picadas de pulgas, mosquitos, percevejos, etc., que não são sintomas de doenças comuns, mas são causadas pela mobilização das toxinas internas do corpo. As erupções causadas pelo contato com certas plantas, como a hera venenosa, seguem o mesmo princípio.
-
-Desconforto e Vômito
-O desconforto não é uniforme. Inclui náuseas, convulsões, enjoo em veículos, melancolia, etc.
-Causas da Náusea:
-1.  Devido à anemia cerebral, como um reflexo do estômago.
-2.  Quando há febre alta.
-3.  Intoxicação alimentar.
-4.  Devido a medicamentos.
-5.  Quando há toxinas na região do piloro (a passagem do estômago para o intestino), causando seu estreitamento.
-6.  Enjoo matinal na gravidez: as toxinas solidificadas na parte externa do estômago são impelidas para fora pela expansão do útero.
-7.  Quando há hemorragia interna no cérebro (derrame cerebral, concussão).
-
-Convulsão: Pode ser de origem espiritual ou física. A espiritual é causada pela possessão de um espírito, e a física, pelos calafrios que precedem a febre alta.
-
-Enjoo em Veículos: Há um acúmulo de toxinas na parte externa do estômago que, com o movimento, se dissolvem aos poucos e penetram no estômago.
-
-Melancolia: Pode ser de origem espiritual, ou devido à inatividade do estômago, icterícia, anemia cerebral, rigidez nos ombros e nas costas, etc.
-
-Diarreia: A diarreia pode ser aguda ou crônica.
-A “diarreia aguda” é causada por intoxicação alimentar. Além disso, há a diarreia com sintomas semelhantes aos da disenteria, que pode chegar a dezenas de evacuações por dia. As fezes são aquosas, mas pode haver mistura de sangue, e às vezes são eliminados pus e sangue tóxico com aparência de carne em decomposição. Com o Johrei, não há motivo para preocupação.
-A “diarreia crônica” pode durar meses ou até anos. Geralmente é diagnosticada como tuberculose intestinal, mas é causada pela purificação da toxina da urina, decorrente da atrofia dos rins, que se acumula constantemente no peritônio.
-
-Edema (Inchaço): Geralmente é causado pela atrofia dos rins ou por um problema na bexiga. A atrofia dos rins é a causa do “edema” generalizado. Em casos graves, o inchaço é em todo o corpo; em casos leves, é localizado (por exemplo, em uma metade do corpo, ou na parte inferior).
-1.  Caso de inchaço generalizado:
-    O inchaço endurecido, comum em estudantes do sexo feminino, pode parecer sinal de saúde, mas não é. A pessoa se cansa facilmente e tem sintomas como palpitações, falta de ar, sensação de peso no corpo, etc. A causa é o acúmulo gradual de pequenas quantidades de toxina da urina em todo o corpo, que se solidifica ao longo do tempo sem que a pessoa perceba. Por isso, mesmo comendo pouco, a pessoa engorda.
-    Um cálculo que obstrui a junção da bexiga com a uretra, impedindo o fluxo da urina, também pode causar edema.
-2.  Caso de inchaço localizado:
-    O “edema” no rosto, em um braço, perna, etc., é causado pela purificação e dissolução das toxinas que estavam naquela parte do corpo.
-Sinal de “morte”: Em casos de doença grave, se houver “edema” no peito do pé, isso pode ser considerado um sinal de morte, e a recuperação é improvável.
-Edema do beribéri: pode-se considerar que se limita à parte inferior do joelho.
-
-Suores Noturnos: A medicina diz que é por causa da fadiga, mas isso é mentira. É um tipo de ação purificadora, em que as toxinas dissolvidas e liquefeitas pela febre saem pelos poros. Portanto, é algo bom.
-
-Tontura: A medicina considera a causa desconhecida. É causada por um acúmulo de toxinas na parte posterior da cabeça, do lado direito (região do bulbo raquidiano), e pela rigidez no pescoço e nos ombros, que comprimem os vasos sanguíneos que levam sangue aos olhos. Também pode ser causada pela ação purificadora das toxinas próximas aos globos oculares.
-
-Insônia: Causa anemia cerebral, levando a pensamentos fúteis. Também pode ser devido à purificação de toxinas acumuladas na parte frontal e central do cérebro.
-
-Melancolia: A causa geralmente é a rigidez no pescoço e nos ombros.
-A irritabilidade infantil é causada principalmente pela rigidez nos ombros.
-Também pode haver causas espirituais.
-Pode ser causada pela febre de purificação da cabeça.
-
-Paralisia (Dormência): A causa mais comum é o beribéri, mas em outros casos, geralmente é o yakudoku de injeções.
-
-Tosse: É uma ação de bombeamento para expelir o escarro do corpo (pode vir de qualquer parte do corpo). O espirro é uma ação de bombeamento para expelir a coriza.
-
-Calafrios:
-1.  Calafrios devido à febre localizada.
-2.  Má circulação sanguínea devido ao acúmulo de toxinas em um local.
-
-Constipação: A causa é o acúmulo de toxinas na região do peritônio, que comprime o reto, dificultando a passagem das fezes. Pessoas com constipação costumam tomar laxantes, o que não é bom. A constipação infantil também pode ter causa espiritual, sendo uma reencarnação de alguém que sofria de constipação.
-
-Escarro com Sangue: O sangue tóxico se mistura ao escarro em pequenas quantidades. É o mesmo princípio de quando um furúnculo se rompe e o sangue se mistura ao pus.
-
-Hemoptise: O sangue tóxico, ao tentar ser expelido, causa uma ruptura em um vaso sanguíneo localizado fora do pulmão. É semelhante ao caso de um derrame cerebral, mas neste, a ruptura ocorre em um vaso próximo ao cérebro. O sangue tóxico busca uma saída e é eliminado. Hemorragias de hemorroidas, disenteria, etc., seguem o mesmo princípio.
-
-Com isso, concluí a explanação geral sobre os sintomas das doenças. Agora, falarei sobre a doença e o espírito, ou seja, as doenças de origem espiritual.
-
-**A Doença e o Espírito**
-
-Já expliquei que a doença é o surgimento e o processo da ação purificadora. Portanto, é preciso saber que um número considerável de doenças é causado pelo espírito. Evidentemente, há uma relação íntima e inseparável com a ação purificadora. Por exemplo, quando um espírito de um morto se apossa de alguém, ele se fixa na mácula do corpo espiritual da pessoa doente. Por isso, se o corpo espiritual for purificado até certo ponto, não apenas a doença do corpo físico desaparecerá, como também a possessão pelo espírito do morto se tornará impossível. Além disso, quando um espírito de um morto se apossa, a pessoa sente calafrios; no caso de um espírito de uma pessoa viva, ao contrário, sente-se calor.
-
-A seguir, explicarei as doenças de origem espiritual com exemplos.
-
-Tuberculose Pulmonar: A causa real reside em dois fatores: tratamento médico equivocado e influência espiritual. Quando um filho morre de tuberculose em uma família, pouco tempo depois, um dos irmãos adoece da mesma doença e, assim, sucessivamente, vão morrendo. Ou, quando um dos cônjuges morre de tuberculose, pouco tempo depois, o outro adoece. Nesses casos, o espírito da pessoa que morreu de tuberculose, ao ir para o Mundo Espiritual e não suportar a solidão, se apossa de alguém com quem tinha intimidade em vida, para tentar trazê-lo para perto de si. Essa possessão se manifesta como os sintomas da tuberculose.
-
-Doença Mental: É uma doença de natureza puramente espiritual. Em seus estágios iniciais, invariavelmente, a pessoa sofre de insônia. Permitam-me explicar um pouco sobre o sangue. O sangue é a materialização do espírito. Portanto, a fonte da força que flui no sangue são as células espirituais. Assim, se o sangue for puro, as células espirituais são densas; se for anêmico ou impuro, são rarefeitas. Para simplificar, quando as células espirituais estão plenas, no nível dez, a possessão é absolutamente impossível. À medida que essa densidade diminui, a força do espírito possessor aumenta. Por exemplo, quando o espírito original está no nível quatro e o espírito possessor, no seis, a doença mental se instala de fato. Nesses casos, o espírito possessor é, na maioria das vezes, um espírito de raposa, mas, raramente, pode ser outro espírito.
-
-Epilepsia: É quase sempre a possessão por um espírito de um morto. Quando a crise ocorre, a pessoa manifesta o estado do momento da morte. Se espuma pela boca, é epilepsia hídrica, causada por um espírito que morreu afogado. A epilepsia ígnea é causada por um espírito que morreu queimado. Há também espíritos que morreram subitamente de derrame cerebral e outros espíritos de pessoas que tiveram morte violenta.
-
-Sonambulismo: Quando a crise ocorre, a pessoa perde a consciência de si, sai de casa e vagueia sem rumo, um sintoma verdadeiramente problemático. Isso também é um tipo de “epilepsia”, e o espírito possessor é o de uma criança.
-
-Paralisia Infantil: É a possessão por um espírito de um morto que ficou com metade do corpo paralisado. Pode ser congênita, mas também há casos adquiridos devido ao yakudoku.
-
-Câncer de Estômago: É comum em pessoas que são reencarnações de dragões. (É causado pela possessão de espíritos de seres que a pessoa engoliu em sua vida anterior, no Mundo dos Dragões.) Além disso, há muitos casos de pseudo-câncer causados por toxinas do consumo excessivo de carne.
-
-Cárie Óssea: Há a verdadeira e a pseudo-cárie. Geralmente, são a cárie da coluna vertebral, das costelas, do quadril, etc.
-- A cárie da coluna vertebral é de origem espiritual. Os antepassados recebem purificação no Mundo Espiritual, e os resíduos dessa purificação fluem para os descendentes, materializando-se como pus. Durante a eliminação do pus, quanto mais yakudoku a pessoa tiver, mais forte será a dor; quem não tem yakudoku não sente dor.
-- A cárie das costelas não é de origem espiritual. É a purificação do yakudoku que se acumulou sob o periósteo.
-
-Doenças Oculares: As doenças oculares também têm, em grande parte, causas espirituais. A cegueira pode ser causada pela possessão do espírito de uma cobra. O daltonismo ocorre quando um animal reencarna como ser humano e ainda retém características animais.
-- A cegueira noturna é causada pela possessão do espírito de uma ave.
-Outras doenças de origem espiritual incluem a surdez, a constipação, a difteria, etc.
-
-Com isso, concluí a explanação geral sobre as doenças. Como em apenas dois dias é impossível explicar tudo em detalhes, peço que, ao ministrarem “Johrei” na prática e surgirem dúvidas, mantenham um bom contato com a sua unidade religiosa.
-
-**Sobre a Ação Purificadora de Nivelamento**
-
-Ao dissolvermos um acúmulo de toxinas em um local, pouco tempo depois, pode ocorrer uma purificação em outro lugar. A isso, chamamos de purificação de nivelamento. Os doentes costumam dizer que a dor se move, mas isso se deve a esse princípio. A “dor” em si não se move.
-
-**O Método de Rejuvenescimento**
-
-Os rins são órgãos importantes para a produção de hormônios e para a eliminação de impurezas através da urina. Portanto, a atrofia dos rins enfraquece a purificação de todo o corpo e causa deficiência hormonal. Como resultado, o envelhecimento ocorre precocemente. Quando os rins funcionam perfeitamente, não só os homens se tornam mais vigorosos, mas as mulheres também se tornam donas de um sangue puro, o que aumenta notavelmente sua beleza e causa boa impressão nos outros. O aumento de hormônios as torna notavelmente mais atraentes. Com isso, o casal vive em harmonia, os conflitos domésticos não ocorrem e, mesmo os idosos, rejuvenescem cerca de vinte anos. Que coisa maravilhosa!
-
-**O Verdadeiro Método de Saúde**
-
-O “verdadeiro método de saúde” consiste em eliminar as máculas do espírito e em não permitir que ele se macule. Para eliminar as “máculas”, é preciso:
-1.  Primeiramente, participar do Aprimoramento e se tornar membro da Igreja Messiânica Mundial.
-2.  Ajudar na construção do Paraíso Terrestre, que é o objetivo de Meishu-Sama.
-3.  Tratar os outros com amor e evitar ser alvo de ressentimento.
-Em suma, o verdadeiro método de saúde é se tornar uma pessoa de bem, com pensamentos corretos, que não se envergonha perante o Céu e a Terra. Tal pessoa terá a alma sempre clara e serena, sem máculas. A doença é, em certa medida, criada e sofrida pela própria pessoa. Mesmo as doenças causadas pelos pecados e impurezas dos antepassados podem ser eliminadas pelas ações da própria pessoa.
-
-**Recomendações sobre o Johrei**
-
-Se dividirmos o ser humano em espírito e corpo, a parte das costas corresponde ao espírito, e a parte da frente, ao corpo. Portanto, segundo a Lei do Espírito Precede a Matéria, em todas as doenças, a parte das costas é a mais importante, e sem um bom Johrei nessa região, não se obterá um efeito verdadeiro.
-
-A pessoa que ministra Johrei deve, em primeiro lugar, sentar-se em uma posição mais elevada. Em segundo lugar, não deve colocar força nas mãos. Basta ministrar Johrei com “sinceridade”. Em terceiro lugar, deve perguntar bem ao doente sobre os locais de dor.
-
-Os sintomas das doenças não são uniformes, assim como os rostos das pessoas são diferentes; sempre há pequenas variações. E a intensidade do sentimento de gratidão do doente influencia muito na cura.
-
-**O Método para Aferir a Saúde do Ser Humano**
-
-O método mais seguro é tocar a região dos ombros. Pessoas com ombros macios, onde os dedos afundam um pouco, são saudáveis. Pessoas com ombros duros e sem maciez podem ser consideradas não saudáveis, sem margem de erro.
-
-**[Terceira Aula]**
-
-**O Objetivo da Vida**
-
-A partir de agora, prosseguirei com uma explanação de natureza religiosa.
-
-O nascimento do ser humano neste mundo ocorre por ordem de Deus. O fato de a palavra “vida” (生命) conter o ideograma de “ordem” (命令) também aponta para esse significado. Enquanto o ser humano não souber por que nasceu, não apenas será incapaz de agir corretamente e de alcançar a paz de espírito, como também correrá o risco de levar uma vida vazia, de embriaguez e sonho.
-
-Qual é, então, a intenção de Deus? É a construção de um mundo ideal nesta Terra, ou seja, o “Paraíso Terrestre”. Sua escala e concepção são tão magníficas e grandiosas que a sabedoria humana é incapaz de compreendê-las. A civilização, em seu progresso infinito, não tem limites, mas a civilização que avançou até hoje foi uma cultura materialista, nada mais do que um trabalho preparatório para a construção do Paraíso Terrestre.
-
-E Deus, atribuindo a cada indivíduo uma missão e características específicas, faz com que, através de sucessivas vidas e mortes, avancem passo a passo em direção ao objetivo ideal, a “construção do Paraíso Terrestre”. Portanto, é preciso saber que o bem e o mal, a guerra e a paz, a destruição e a criação, não passam de etapas necessárias à evolução.
-
-E em que “época” nos encontramos hoje? É o período da Transição da Noite para o Dia, em que a destruição e a construção ocorrem simultaneamente. Ou seja, o mundo inteiro está agora em um período de alvorecer, prestes a dar um grande salto em direção a uma nova era. A humanidade está agora se despindo de suas vestes de barbárie e se aproximando de um mundo de alta cultura.
-
-**O Espírito Divino**
-
-Até agora, como era o mundo da Noite, o mundo divino estava oculto, manifestando-se como o mundo búdico. Por isso, o Deus mais primordial — ou seja, o Espírito Divino fundamental — também estava oculto. E esse Deus primordial oculto havia se manifestado como Kannon (観音)-Sama.
-
-Agora, com o giro do ciclo celeste e a chegada da hora do Céu, Kannon-Sama, que estava oculto no mundo búdico, retira seu capuz e, como Criador do mundo do Dia, está sendo restabelecido em sua forma original, ou seja, como Miroku Oomikami, o Messias.
-
-Até hoje, por ser o mundo da Noite, o domínio era dos deuses da linhagem da Lua, que não possuíam poder absoluto. Por isso, o demônio se proliferou, e uma sociedade infernal como a de hoje se formou. E, por isso, pensava-se que Deus não existia. No entanto, com a chegada do mundo do Dia, o domínio passa a ser dos deuses da linhagem do Sol que, por possuírem poder absoluto, o demônio não consegue mais interferir, e o paraíso se manifesta. Chegou a hora em que os seres humanos saberão claramente se Deus existe ou não.
-
-**Vida e Morte**
-
-A morte do ser humano ocorre quando o espírito se desprende do corpo físico, que se tornou inutilizável, e retorna ao Mundo Espiritual, tornando-se um ser espiritual e iniciando uma vida nesse plano. E o ser humano, após viver no Mundo Espiritual por alguns anos, décadas ou séculos, renasce no Mundo Físico. Assim, o ser humano vive e morre, renascendo inúmeras vezes. Este é um ponto de extrema importância, e gostaria que o guardassem bem em suas mentes.
-
-No Mundo Físico, consciente ou inconscientemente, o corpo espiritual acumula impurezas e, ao mesmo tempo, o corpo físico, devido a doenças e ao envelhecimento, torna-se inutilizável. Então, a pessoa se despoja do invólucro que é o corpo físico e retorna ao Mundo Espiritual. Quando a alma retorna ao Mundo Espiritual, inicia-se a ação purificadora dos pecados e impurezas que nela se acumularam. Para alguns, esse processo leva alguns anos ou décadas; para outros, pode levar centenas ou até milhares de anos. E aqueles que foram purificados até certo ponto, recebem a ordem de Deus e renascem no Mundo Físico.
-
-Essa é a ordem natural, mas, dependendo da pessoa, pode não seguir essa sequência. É o caso de pessoas com forte apego à vida que, ao morrerem, renascem com a purificação no Mundo Espiritual incompleta. Tais pessoas tendem a ter um destino infeliz no mundo físico. Isso porque, como a purificação no Mundo Espiritual foi insuficiente, uma parte considerável de seus pecados e impurezas ainda permanece. Por essa razão, existem pessoas boas que são infelizes. No entanto, aquelas que são infelizes por um período e se tornam felizes na velhice, o fazem porque, através da prática do bem, a purificação de suas impurezas é concluída. Pessoas que eram muito infelizes antes de ingressarem na Igreja Messiânica Mundial e que, ao se dedicarem a este caminho, se tornam gradualmente felizes, o fazem porque, ao entrarem neste caminho misterioso e terem a permissão de servir, seus pecados e impurezas são purificados mais rapidamente, e, por isso, se tornam felizes.
-
-Outra causa para o renascimento precoce, além do apego da própria pessoa, é o apego dos familiares. É comum ouvir casos de mulheres que engravidam logo após a morte de um filho querido e dão à luz. Isso ocorre porque o filho falecido, devido ao apego da mãe, reencarna rapidamente. Tais crianças não são felizes. Pessoas que nascem com deformidades ou deficiências também são casos de reencarnação antes que os ferimentos de uma queda de um lugar alto, que resultou em fraturas e morte, estivessem completamente curados. Portanto, ao morrer, o ser humano deve, desde sempre, esforçar-se para ter uma passagem tranquila, livre de apegos e medos.
-
-Além disso, as pessoas nascem com diferentes graus de inteligência. Isso se deve à diferença entre almas antigas e almas novas. As almas antigas são aquelas que reencarnaram muitas vezes e, por isso, possuem uma rica experiência do mundo físico. As almas novas são aquelas que nasceram através da procriação no Mundo Espiritual e, por serem recém-nascidas, têm pouca experiência do mundo físico e, por isso, são menos sábias.
-
-Às vezes, ao encontrarmos um desconhecido, sentimos uma afinidade como se fôssemos parentes, ou até maior. Isso ocorre porque, em vidas passadas, éramos parentes próximos ou tínhamos uma relação muito íntima. A isso, chamamos de carma. O mesmo pode acontecer ao viajarmos e sentirmos uma grande familiaridade com um lugar, ou em relacionamentos amorosos. Da mesma forma, ao lermos sobre história e sentirmos afinidade ou, ao contrário, aversão por certas personagens, isso também se deve ao fato de termos nascido naquela época e tido alguma relação com elas.
-
-**A Composição do Mundo Espiritual**
-
-O Mundo Espiritual se divide em três níveis: Paraíso, Intermediário e Inferno. Cada um desses níveis se subdivide em três, totalizando nove níveis. A diferenciação dos níveis no Mundo Espiritual se dá pela luz e pelo calor. O nível mais alto possui a luz e o calor mais intensos, enquanto o nível mais baixo, o inferno, é um mundo de escuridão e ausência de calor. O nível intermediário corresponde ao Mundo Físico.
-
-Ao detalharmos esses três níveis, cada um se subdivide em sessenta, e, somando-se o nível mais elevado do Paraíso, temos um total de cento e oitenta e um planos. A isso, chamamos de Planos do Mundo Espiritual.
-
--------------------------------------------------
-Paraíso Supremo
--------------------------------------------------
-Cem Paraíso Superior (Primeiro Paraíso) Seis
--------------------------------------------
-e Médio (Segundo Paraíso) Dez
--------------------------------------------
-Oitenta Paraíso Inferior (Terceiro Paraíso) Níveis
--------------------------------------------------
-e Um Nível Intermediário Superior Seis
--------------------------------------------
-Níveis Médio Dez
--------------------------------------------
-Inferior Níveis
--------------------------------------------------
-(Inferno do Calor Ardente, Inferno da Reparação, Inferno da Cobiça, Inferno da Fome, Inferno da Montanha de Agulhas, Inferno da Lagoa de Sangue, Inferno Vermelho, Inferno Azul)
-Inferno Superior Dez
--------------------------------------------
-Médio Seis
--------------------------------------------
-(Inferno do Gelo Extremo, Inferno do Congelamento, Inferno da Raiz do Frio, Inferno do Fundo)
-Inferno Inferior Níveis
--------------------------------------------------
-O que é, então, o Mundo Espiritual? É um mundo de vontade e pensamento.
-
-Como não há o obstáculo material do corpo físico, há uma liberdade extraordinária. A vontade do espírito pode levá-lo a qualquer lugar, mais rápido que um avião. Milhares de quilômetros podem ser percorridos em poucos segundos. No entanto, a velocidade de movimento do espírito depende de seu nível. Espíritos de nível superior, ou seja, aqueles que alcançaram a divindade, são mais rápidos, enquanto os de nível mais baixo podem levar dezenas de minutos para percorrer a mesma distância. Por quê? Porque quanto mais baixo o nível do espírito, mais impurezas ele tem e, portanto, é mais pesado. Os Espíritos Divinos de mais alto nível são mais rápidos do que um milionésimo de segundo e podem alcançar qualquer distância em um instante. Além disso, o espírito pode se expandir e se contrair livremente, de acordo com seu próprio pensamento. Em um altar budista de apenas trinta centímetros de largura, centenas de espíritos de antepassados podem se reunir. Os antepassados se alegram muito com cerimônias feitas de coração, e não tanto com as que são meramente formais. Portanto, as cerimônias devem ser realizadas de acordo com as possibilidades de cada um, mas com o máximo de sinceridade e da melhor forma possível.
-
-**Fantasmas**
-
-Há pessoas que veem fantasmas. A maioria deles são espíritos de pessoas que morreram há pouco tempo. Os espíritos recém-falecidos têm células espirituais densas e, por isso, podem ser vistos pelos olhos humanos. Com o passar do tempo, os espíritos se purificam e se tornam mais rarefeitos, tornando-se invisíveis.
-
-**A Fisionomia dos Seres do Mundo Espiritual**
-
-Uma vez que uma pessoa se torna um ser do Mundo Espiritual, sua fisionomia se torna exatamente como seus pensamentos. Por exemplo:
-- Quem tem um coração bom e belo terá uma fisionomia bela e serena.
-- Quem tem um coração feio e mau terá uma fisionomia feia.
-- Quem tem um coração demoníaco terá a aparência de um demônio.
-- Quem tem um coração bestial terá a aparência de um demônio.
-- Quem tem um coração solitário terá uma fisionomia magra e abatida.
-Assim, tudo se manifesta de forma nua e crua. No Mundo Físico, o corpo é como uma vestimenta que permite o disfarce.
-
-**A Inseparabilidade entre o Mundo Material e o Mundo Espiritual**
-
-O ser humano, ao morrer, vai para o Mundo Espiritual, mas tudo o que viveu no mundo físico continua. O sofrimento da morte também persiste. Ou seja, o Mundo Espiritual é uma extensão do Mundo Físico.
-
-**O Mundo dos Tengu**
-
-No Mundo Espiritual, além do mundo divino e do mundo búdico, existe o “Mundo dos Tengu”. O Mundo dos Tengu se localiza no plano espiritual de regiões montanhosas. E os tengu têm a missão de proteger suas respectivas montanhas. O Mundo dos Tengu também se divide em três níveis: superior, médio e inferior. O deus que governa o Mundo dos Tengu é Sarutahiko-no-Mikoto, do Monte Kurama. Existem dois tipos de tengu: os “humanos” e os “pássaros”. Os tengu humanos são espíritos de pessoas que, em vida, foram estudiosos, escritores, advogados, educadores, sacerdotes xintoístas, monges budistas e, antigamente, samurais. Muitos desses indivíduos, ao morrerem, vão para o Mundo dos Tengu. Os pássaros, ao morrerem, vão todos para o Mundo dos Tengu e atuam sob as ordens dos tengu humanos.
-
-Os tengu gostam de discutir e, quando vencem, sua posição se eleva. Seu maior prazer é o saquê, e também gostam de se apossar de pessoas e de assustá-las. Também gostam de se apossar de ascetas para curar doenças.
-
-Falemos aqui sobre o “vício em álcool”.
-A causa do vício em álcool é a possessão por um espírito que gosta de beber. Esse espírito geralmente se aloja no abdômen. Os principais espíritos são os de tengu e de tanuki (cão-guaxinim), mas, às vezes, também pode ser um dragão. Quando a pessoa bêbada começa a discutir, é um tengu; quando fica alegre, ri ou fica com sono, pode-se pensar que é um tanuki. Portanto, ao purificar esse espírito, o vício em álcool é curado.
-
-**O Mundo dos Dragões**
-
-A principal função dos dragões é, sob as ordens dos deuses da purificação, causar ventos, chuvas, raios, etc., para realizar a ação purificadora entre o Céu e a Terra. Além disso, dragões de diferentes tamanhos habitam e protegem mares, lagos, rios, lagoas e poços de determinadas regiões. Eles também podem se fixar em árvores. Por isso, é sabido que, ao aterrar lagoas, pântanos ou poços sem permissão, ou ao cortar grandes árvores, ocorrem estranhos infortúnios. Pessoas com forte apego no mundo físico, ao irem para o Mundo Espiritual, tornam-se dragões.
-
-**O Mundo dos Espíritos Malignos (Mundo dos Facínoras)**
-
-O Mundo dos Espíritos Malignos é um mundo sob o domínio do demônio. Essa facção está em constante confronto com os deuses benignos. Assim como existem oito milhões de deuses benignos, também existem oito milhões de espíritos malignos. E, enquanto os deuses benignos buscam praticar o bem, os espíritos malignos buscam praticar o mal, em um constante antagonismo. Assim, a consciência é transmitida ao espírito guardião primordial através de uma linha espiritual vinda do mundo dos deuses benignos, enquanto os pensamentos malignos são transmitidos ao espírito guardião secundário através de uma linha espiritual vinda do mundo dos espíritos malignos.
-
-O progresso da sociedade humana se dá pelo atrito e pela fusão de dois elementos opostos. Por esse princípio, a força é gerada pela atividade de ambos os lados, bem e mal, no ser humano, e, com isso, ele pode cumprir a missão que lhe foi divinamente atribuída. Portanto, nesse caso, o mal é, por assim dizer, um mal necessário. Por quê? Porque, enquanto o espírito guardião primordial, por sua natureza conscienciosa, pensa e pratica o bem, o espírito guardião secundário manifesta a essência do que pertence ao mal, ou seja, os desejos do corpo. Os desejos do corpo são o desejo de posse, de superioridade, de monopólio, de honra, de luxo, etc. — os desejos materiais. A isso, também chamamos de desejos instintivos. Consequentemente, quando esses desejos instintivos ultrapassam um certo limite, constituem o pecado e o mal. Portanto, o controle desses desejos é a condição para manter a ordem e a paz na sociedade humana. Por esse princípio, os desejos instintivos geram a atividade humana, e a consciência a controla, resultando na felicidade e na prosperidade do ser humano e no progresso da sociedade. No entanto, até hoje, por ser o mundo da Noite, a força dos espíritos malignos era maior, o que significa que o poder de controle dos deuses benignos era mais fraco. Agora, com a transição da Noite para o Dia, o resultado será o inverso: a força do bem se tornará principal, e a do mal, secundária. Quando o mal se torna secundário, ele deixa de ser mal. Por quê? Porque passa a estar sob o domínio da força do bem.
-
-Mundo do Dia: Bem como principal, Mal como secundário
-Mundo da Noite: Mal como principal, Bem como secundário
-Espírito precede Matéria; Matéria precede Espírito
-
-**O Bem e o Mal**
-
-O ser humano é humano; não é nem deus nem demônio. No entanto, o ser humano tem liberdade. A liberdade de “poder se tornar tanto um deus quanto um demônio”.
-
-O que é, então, a vontade dos deuses benignos? É o amor absoluto e a compaixão em si. É como uma expansão do amor dos pais. Deus não tem “maldade”; sua essência é a própria “retidão”. No entanto, há deuses que caíram em erro temporariamente. Por que um deus comete erros? Porque os deuses benignos e os espíritos malignos estão em constante luta, e há cento e oitenta e um níveis hierárquicos, do deus mais elevado ao mais baixo. Por isso, os deuses de segunda classe para baixo, muitas vezes, perdem para os espíritos malignos, ou seja, tornam-se seus prisioneiros por um período. E, até hoje, por ser o mundo da Noite, a força dos espíritos malignos era maior, e os deuses benignos eram constantemente oprimidos. A desordem no mundo se devia a isso.
-
-O bem e o mal são relativos; bem e mal são inseparáveis, retidão e maldade são uma só. O bem existe porque o mal existe; o mal existe porque o bem existe. Portanto, o bem e o mal devem ser definidos de acordo com o tempo, o lugar e a posição. No entanto, seja um indivíduo ou uma nação, o mal pode prosperar por um tempo, mas, no final, leva à ruína. O bem, por outro lado, mesmo que sofra temporariamente, quando chegar a hora, certamente prosperará. E, se praticarmos o bem neste mundo, ao irmos para o Mundo Espiritual, os bons se tornarão eternamente felizes. E o método para saber se um ser humano se tornará um deus ou um demônio é se ele acredita ou não no invisível. Ou seja, quem acredita no invisível pode se elevar até se tornar um deus; quem não acredita, corre o risco de se degenerar até se tornar um demônio. O fato de uma pessoa não praticar o mal se deve à consciência de que o Deus invisível está observando. O fato de uma pessoa praticar o mal vem da ideia de que o invisível não existe e, portanto, se ninguém estiver vendo, não há problema em cometer qualquer maldade. Ao levar esse pensamento adiante, a pessoa acaba se degenerando até se tornar um demônio. Consequentemente, não pode haver um verdadeiro bom homem entre os materialistas. Se houver, não é um bom homem de coração, mas alguém que age por cálculo, para manter a credibilidade, ou por medo de perdê-la caso seja descoberto. É, por assim dizer, um bom homem por interesse. A isso, chamamos de falso bom homem. Nesse sentido, podemos afirmar com segurança que quem acredita no invisível é o verdadeiro bom homem.
-
-**Os Resultados da Fé nos Deuses Benignos e nos Deuses Malignos**
-
-No mundo, não é raro encontrarmos pessoas que, apesar de crerem fervorosamente em deuses e budas, têm um comportamento desagradável com a família e com os outros. Pessoas que não têm amor, carecem de altruísmo ou praticam a falsidade e a injustiça sem hesitar. Isso ocorre porque o deus ou buda que é objeto de sua fé é “maligno”.
-
-Há pessoas que creem em Deus, servem-no com a máxima sinceridade e dedicam uma fé fervorosa por muitos anos, mas que são constantemente assoladas por doenças, pobreza e infortúnios, não conseguindo se livrar de uma vida de sofrimento. Isso ocorre porque, embora o deus seja benigno, ele pertence à linhagem da Lua, ou seja, não é um deus de primeira classe e, portanto, não tem poder absoluto.
-
-Os deuses do Sol possuem poder absoluto, mas, no mundo da Noite, não podiam manifestá-lo plenamente. Os deuses da linhagem da Lua, por não terem poder absoluto, perderam para o demônio.
-
-**O Espírito Guardião**
-
-Dentre os espíritos que habitam o ser humano, aquele que é congênito, ou seja, o espírito que é uma partícula de Deus, é chamado de espírito guardião primordial. O espírito animal que se aloja posteriormente é chamado de espírito guardião secundário.
-
-Os principais espíritos guardiões secundários são os de raposa, tanuki, cão, gato, cavalo, boi, doninha, dragão, tengu, e toda sorte de aves. Geralmente, é um único tipo, mas, raramente, podem ser dois ou três.
-
-Além do espírito guardião primordial, há também o espírito guardião protetor, que está sempre nos protegendo. O espírito guardião protetor é o espírito de um antepassado. Quando uma pessoa nasce, um dos espíritos dos antepassados é selecionado. Nesse caso, geralmente é um espírito humano, mas também pode ser um espírito assimilado, como um dragão, uma raposa ou um tengu.
-
-A função de cada espírito guardião é:
-- Espírito Guardião Primordial: é a natureza boa, a consciência.
-- Espírito Guardião Secundário: governa os desejos materiais, os desejos instintivos, e todos os desejos do corpo.
-- Espírito Guardião Protetor: é através do espírito guardião protetor que Deus nos dá diversas ordens e bênçãos. Ele nos protege em situações de perigo, ajudando-nos milagrosamente, dando-nos sugestões, avisos em sonhos ou pressentimentos.
-
-**A Advertência dos Antepassados**
-
-Os antepassados desejam a felicidade de seus descendentes e a prosperidade de sua casa. Por isso, estão sempre vigilantes para que seus descendentes não sigam caminhos errados ou cometam erros. Como meio para isso, eles podem causar diversos infortúnios e doenças. Por exemplo, se alguém acumula riqueza de forma desonesta, eles podem causar um incêndio ou perdas para eliminá-la. E, dependendo dos pecados e impurezas, realizam a ação purificadora da doença. Por exemplo, uma criança contrai uma purificação como um resfriado. Normalmente, a cura é simples, mas, por mais que se ministre Johrei, o efeito é nulo, ocorrem vômitos frequentes, a criança perde totalmente o apetite e, em pouco tempo, definha e morre, o que nos causa estranheza. As causas são várias, mas, por exemplo, pode ser porque o pai se desviou do caminho da moralidade, entregando-se a prazeres momentâneos e causando sofrimento a outros por causa da luxúria. Se ele não se der conta, os filhos podem ser levados, um após o outro. Isso nos mostra que devemos nos abster de prazeres momentâneos. O mesmo acontece quando não se cultuam os antepassados.
-
-**Sobre não Falar Mal dos Mortos**
-
-Quando se fala mal de uma pessoa que já morreu, o espírito dela sofre e, para tentar impedir, pode se apossar de alguém. Por isso, não se deve falar mal dos mortos.
-
-**Os Planos do Mundo Espiritual**
-
-O Mundo Espiritual é dividido em três níveis: Paraíso, Intermediário e Inferno. E isso tem uma relação íntima com o destino do ser humano. Ao subdividirmos esses três níveis, cada um se divide em sessenta, totalizando cento e oitenta planos. A isso, chamamos de Planos do Mundo Espiritual. Agora, explicarei qual a relação do ser humano com esse Mundo Espiritual.
-
-Os senhores já sabem que a alma espiritual e o corpo físico do ser humano têm uma relação íntima e inseparável. Na verdade, essa alma espiritual está ligada por uma linha espiritual a uma alma etérea que vive no Mundo Espiritual, em uma relação igualmente íntima e inseparável. (A alma etérea pode ser chamada de espírito do espírito. E a alma espiritual, por estar dentro do corpo, pode ser chamada de alma encarnada.) Portanto, podemos dizer que a verdadeira fonte da vida humana é a própria alma etérea.
-
-Essa alma etérea pertence a um dos cento e oitenta planos do Mundo Espiritual. No entanto, o lugar onde essa alma etérea se encontra não é fixo. Ou seja, as almas purificadas, por serem leves, ficam nos planos superiores, enquanto as almas maculadas, por serem pesadas, ficam nos planos inferiores.
-
-Os planos superiores são um mundo de “saúde, prosperidade e paz”, ou seja, o “Paraíso”. Os planos inferiores são um mundo de “doença, pobreza e conflito”, o “Inferno”. Ou seja, quanto mais alto o plano em que a alma etérea se encontra, mais feliz a pessoa será; quanto mais baixo, mais infeliz. Portanto, é fundamental saber que a causa da felicidade ou infelicidade de uma pessoa depende do plano do Mundo Espiritual onde sua alma etérea habita.
-
-Sendo assim, para se tornar mais feliz, basta purificar a própria alma encarnada. Com isso, a alma etérea também se purifica, e sua posição se eleva para os planos superiores, tornando a pessoa mais feliz. Para purificar a alma, é preciso praticar o bem e acumular virtudes, o que leva um tempo considerável. No entanto, existe um método para subir dezenas de planos do Mundo Espiritual de uma só vez. É se tornar “membro da Igreja Messiânica Mundial”.
-
-Para se tornar membro de nossa Igreja, é preciso primeiro participar do Aprimoramento e seguir os procedimentos de inscrição.
-
-Ao se tornar membro de nossa Igreja, a alma etérea se posiciona nos planos superiores, a visão de mundo da pessoa se transforma, sua sabedoria e discernimento se aprofundam, ela passa a compreender bem a verdade das coisas, vê uma luz em seu futuro, suas apreensões se dissolvem, torna-se otimista, compreende pela primeira vez o sentido da vida e obtém um sentimento de segurança. No plano material, de forma misteriosa, os bens se acumulam, a pessoa não passa por dificuldades, os infortúnios diminuem e a felicidade aumenta. Diariamente, chegam aos nossos ouvidos e olhos inúmeras vozes de gratidão, dizendo: “Fui realmente salvo, sou muito grato”.
-
-Com isso, a alma etérea dos senhores já não é a mesma de ontem. A posição de sua alma etérea no Mundo Espiritual deu um salto de dezenas de planos, e seu status espiritual foi transferido para um nível muito mais elevado. Portanto, rogo que, de agora em diante, purifiquem cada vez mais suas almas, elevem cada vez mais suas almas etéreas e se empenhem na construção do Paraíso Terrestre.
-
-No entanto, gostaria que se lembrassem bem de que, mesmo tendo ingressado na Fé e elevado sua alma etérea, se não se dedicarem a Deus como deveriam, ou se tiverem palavras e ações que se desviam dos Ensinamentos Divinos, o resultado pode ser o oposto.
-
-**A Agricultura Natural (Método de Cultivo sem Adubos)**
-
-Além do que foi explicado até agora, a Igreja Messiânica Mundial também traz, no campo da agricultura, um grande evangelho: a Agricultura Natural, ou seja, o cultivo sem adubos. Assim como na medicina, este método elucida as causas do impasse da agricultura que se acreditava avançada — quebras de safra, doenças e pragas, danos causados pelo frio e pela seca, etc. —, prega o método de cultivo correto, busca aumentar significativamente a produção e, para a verdadeira saúde das pessoas, visa fornecer alimentos verdadeiramente saudáveis e puros. É uma grande revolução na agricultura.
-
-Assim como pregamos contra o yakudoku, também pregamos contra os malefícios dos adubos e agrotóxicos e os combatemos.
-
-A questão da alimentação, no entanto, é um problema que não pode ser negligenciado nem por um dia. E, se apenas o uso de adubos e agrotóxicos for interrompido, mesmo quem não é membro da Igreja pode obter excelentes resultados. Isso, evidentemente, também se baseia nos Ensinamentos de Meishu-Sama, mas nossa Igreja, através de muitos anos de experiência prática, obteve a convicção e, separadamente da Igreja, organizou a “Associação de Difusão da Agricultura Natural” e se empenha em sua promoção. Os resultados da Agricultura Natural aparecem claramente, ano após ano, não deixando margem para discussões, e esses resultados, por sua vez, contribuem para o desenvolvimento de nossa Igreja.
-
-Desejamos que todos aqueles que se dedicam à agricultura e à horticultura, ou que têm interesse no assunto, se associem e, através do jornal da associação, de palestras, de debates e da orientação prática, obtenham a experiência da verdade e, também por este meio, se empenhem na construção do Paraíso Terrestre.
-
-**A Organização e a Administração da Nossa Igreja**
-
-Meishu-Sama, como Líder de nossa Igreja, é o centro de nossa fé. Os fiéis podem peregrinar à Sede em dias determinados de cada mês e receber a transmissão de seus ensinamentos. No que tange à organização e administração, há uma Sede Central separada, que é gerida de forma democrática através de deliberação do Presidente e dos diretores e conselheiros. Subordinadas a ela, existem igrejas de grande e médio porte em todas as províncias do Japão e, rapidamente, em outros países como os Estados Unidos, que realizam as atividades de difusão. Os senhores se tornaram membros de uma dessas unidades.
-
-Além disso, em Hakone, Atami e Quioto, em locais de ambiente ideal, grandes construções estão em andamento, como modelos do Paraíso Terrestre. Sob o projeto e a supervisão de Meishu-Sama, não apenas templos e jardins estão sendo construídos, mas também museus de arte estão sendo instalados ou estão em construção. Através da apreciação de diversas formas de arte e do deleite da beleza natural e artificial, busca-se purificar e elevar a alma das pessoas, visando à concretização de um mundo de verdade, bem e belo, o que também é uma característica de nossa Igreja. Em breve, com o avanço dessas instalações, esses locais se tornarão mundialmente famosos e serão as terras sagradas almejadas pelos fiéis de todo o mundo. E há planos de construção também em outros lugares do mundo, a começar pelo Havaí. E tudo isso está sendo realizado com as sinceras e transbordantes doações de gratidão e com o serviço abnegado dos fiéis.
-
-Assim, a chama da salvação acesa no Japão, no Extremo Oriente, como a “Luz do Oriente” tão esperada pela humanidade, e como a salvação do Deus Messias, que concederá a felicidade eterna à humanidade no fim dos tempos, o desenvolvimento de nossa Igreja está prometido.
-
-**Conclusão**
-
-Para finalizar, gostaria de falar sobre um ponto que nós, fiéis, não devemos esquecer: a gratidão e a retribuição. Ao receber uma graça, como a cura de uma doença grave, a salvação de um desastre inesperado, ou a transformação de um grande infortúnio em um pequeno, é natural oferecer a Deus a sinceridade da gratidão e da retribuição. No entanto, nos dias em que vivemos sem preocupações, com saúde e bem-estar, tendemos a esquecer a gratidão e a retribuição pela proteção que recebemos constantemente. Ser milagrosamente salvo de um atropelamento é bom, mas não ter sido sequer tocado pelo carro é muito mais abençoado. Ou seja, viver os dias em paz e segurança é a maior de todas as graças. É ao oferecer o serviço de gratidão por isso que nos conectamos com Deus e podemos receber graças cada vez maiores. Isso pode ser comparado ao ato de semear. Se apenas recebemos graças e não retribuímos, é como a tolice de esperar uma colheita farta sem ter semeado; não se pode receber graças sucessivas. Gostaria que se lembrassem de que tudo o que for oferecido a Deus em serviço retornará a nós de alguma forma, multiplicado por dezenas ou centenas de vezes.
-
-Com isto, encerramos o curso completo de Aprimoramento para membros da Igreja Messiânica Mundial. De agora em diante, desejamos que os senhores coloquem em prática os ensinamentos com sinceridade e, com a consciência e o orgulho de serem apóstolos da construção do Paraíso Terrestre de Meishu-Sama, se empenhem em suas respectivas missões.
-
-**Apêndice**
-
-**Recomendações sobre o Johrei**
-
-O método de Johrei, como aprenderam durante o Aprimoramento, consiste em nós, que trazemos conosco o Omamori recebido, estendermos a palma da mão em direção ao doente, a uma distância de alguns metros. Por que apenas com isso doenças graves são curadas? Os senhores já ouviram uma explicação geral e, de agora em diante, através da leitura dos Escritos Divinos e da audição das palestras, irão compreender gradualmente. Aqui, gostaria de oferecer algumas recomendações gerais.
-
-1.  Conheça o Ponto Vital
-    No Johrei, o fundamental é curar a doença. Portanto, é importante enriquecer o conhecimento sobre as doenças. Não se trata de um conhecimento médico, mas do conhecimento da medicina de Deus. Ou seja, é a elevação da sabedoria e do discernimento. Para isso, o primeiro passo é a leitura dos Escritos Divinos. E, ao acrescentar a experiência, se conseguirmos encontrar o ponto vital, poderemos obter resultados muito mais rápidos. Através da leitura dos Escritos Divinos, a alma se eleva de dentro para fora, através dos olhos; e, através da experiência, basta descobrir o ponto vital a partir dos locais com febre, dor, rigidez, forma, etc. Isso não é, de forma alguma, difícil.
-
-2.  A Intensidade da Força Espiritual
-    A cura da doença varia muito dependendo da intensidade da força espiritual do Johrei. E essa força espiritual se torna mais forte quanto mais relaxados estivermos. Quando se consegue relaxar de verdade, o resultado é extraordinário. Ou seja, é preciso compreender que é Deus quem cura, e não nós. Por isso, quando se é novo na fé e não se está acostumado a ministrar Johrei, com um certo receio, pensando “eu não consigo fazer isso”, e se ministra Johrei com hesitação, a cura muitas vezes ocorre de forma surpreendente, e um sentimento de gratidão surge. No entanto, ao acumular tais experiências, com o tempo, pode surgir a arrogância de achar que foi a própria força que curou, e então a cura deixa de ocorrer. Isso porque o pensamento se inverteu. O que eu disse sobre relaxar ser melhor se refere a este ponto. A força de que falo é a força humana. Quando há arrogância, a força humana inevitavelmente interfere. Portanto, devemos sempre manter a atitude de nos deixar usar como instrumentos de Deus, com um coração humilde, entregando tudo a Ele. Quando se trata de familiares ou pessoas importantes, e nos esforçamos demais ou ficamos tensos, o resultado, ao contrário, não é o esperado.
-    Em seguida, há a questão dos fenômenos espirituais. Há quem queira saber sobre as relações e o carma dos deuses das mitologias e lendas, e quem se interesse por fenômenos de possessão e queira saber tudo a respeito. Se nos concentrarmos demais nisso, o caminho principal pode ser negligenciado. É necessário saber o básico, mas se nos apegarmos demais a isso, sem perceber, nos desviaremos do caminho correto. Devemos ler bem os Escritos Divinos e nos concentrar em colocar seus ensinamentos em prática.
-
-3.  A Ordem e os Pontos Vitais do Johrei
-    A doença é o sofrimento causado pela dissolução, pelo calor, de toxinas solidificadas em algum lugar, e sua posterior eliminação. Portanto, ao fazer um autoexame, basta apalpar o corpo todo. Onde houver calor, há toxinas. Ali é o ponto vital. Basta ministrar Johrei ali, ou pedir para alguém fazê-lo. Além disso, ao pressionar, sempre haverá um ponto dolorido. Ministre Johrei ali, ou peça para alguém fazê-lo nas costas.
-    No entanto, há casos em que não se encontra calor em nenhum lugar do corpo, nem dor ao pressionar. Não existe pessoa sem toxinas, mas, nesses casos, as toxinas estão tão solidificadas que nenhuma purificação está ocorrendo. Por isso, esses casos são, ao contrário, mais perigosos. Em algum momento, as toxinas se dissolverão, a febre surgirá e a dor aparecerá. Mas tais pessoas são raras. A maioria das pessoas tem algum ponto com calor e dor. Ao encontrar esses pontos e ministrar Johrei constantemente, mantém-se sempre a saúde.
-
-4.  Cabeça
-    Na maioria dos doentes, o primeiro passo é pedir que inclinem a cabeça e ministrar Johrei no centro dela. Este é o centro do ser humano, e esse ponto influencia todo o corpo. Em seguida, a nuca, o bulbo raquidiano e a fronte são importantes. A diarreia da disenteria e o sangramento de hemorroidas melhoram muito com o Johrei na nuca.
-
-5.  Pescoço e Ombros
-    O Johrei no pescoço e nos ombros é extremamente importante. Não é exagero dizer que a causa da maioria das doenças se encontra na parte superior do corpo, com centro no pescoço e nos ombros.
-    Em casos de febre e dor de cabeça, ao examinar a região da cabeça, as glândulas parótidas, linfáticas e as amígdalas, sempre se encontram nódulos de diferentes tamanhos. O Johrei nesses locais muitas vezes faz a febre baixar. O ponto vital da tuberculose são os ombros. Ao ministrar Johrei principalmente nos ombros, a maioria dos casos de tuberculose é curada. Mas isso não se aplica apenas à tuberculose; também vale para doenças cardíacas e gástricas. Pessoas com problemas cardíacos invariavelmente têm o ombro esquerdo rígido. As toxinas ali se dissolvem, solidificam-se ao redor do coração e o comprimem. Da mesma forma, se se solidificarem no diafragma, surge a asma. Com o coração enfraquecido, a atividade dos pulmões também diminui. Como sabem, os pulmões são água e o coração é fogo. Quando o fogo aumenta, a água se move bem, o que tem um efeito positivo nos pulmões. Além disso, quando os ombros ficam macios, o apetite aumenta muito. Isso porque a atividade do estômago melhora. Portanto, ao amaciar os ombros, os pulmões, o coração e o estômago melhoram. Se essa trindade estiver bem, o resto não é problema. E, em seguida, todos têm nódulos ao redor do pescoço, que também causam diversas doenças. Mas como as toxinas que se solidificaram nos ombros vão para o pescoço, o Johrei nos ombros facilita a dissolução também na região do pescoço.
-
-6.  Os Ombros como Barômetro da Saúde
-    Portanto, o método mais claro para saber se uma pessoa está saudável ou não é examinar seus ombros. Pessoas com ombros macios, onde os dedos afundam um pouco ao serem pressionados, estão invariavelivelmente saudáveis. Pessoas com ombros duros e sem flexibilidade podem ser consideradas não saudáveis, sem margem de erro. Pacientes com tuberculose, sem exceção, têm os ombros duros. Mesmo em casos graves, se os ombros forem macios, a recuperação é mais fácil. Em casos leves, se os ombros forem duros, purificações intensas tendem a ocorrer, e deve-se estar preparado para uma recuperação consideravelmente difícil. Por isso, devemos sempre ministrar Johrei em nossos próprios ombros.
-
-7.  O Johrei nas Costas
-    Outro ponto que se deve saber é a importância do Johrei nas costas. Ao se dividir o corpo humano em espírito e corpo, as costas correspondem ao espírito, e a frente, ao corpo. Portanto, de acordo com a Lei do Espírito Precede a Matéria, se o Johrei nas costas não for bem feito, a doença não melhorará de verdade. Por exemplo, mesmo em casos de dor intensa de espasmo gástrico, o Johrei apenas no local da dor terá pouco efeito. Nesse caso, ao se examinar as costas, invariavelmente se encontrará um nódulo entre uma das omoplatas e a coluna vertebral. Ao se ministrar Johrei nesse nódulo, a dor intensa no estômago desaparece. Esse nódulo é a solidificação de medicamentos que penetraram pela parte de trás do estômago e se depositaram nas costas. Da mesma forma, o inchaço da peritonite úmida, o acúmulo de pus da peritonite purulenta e a dor intensa da apendicite melhoram com o Johrei na região dos rins, nas costas. Em qualquer doença, não se deve negligenciar o Johrei nas costas. As toxinas nos ombros, mencionadas anteriormente, na verdade, vêm dos rins. Quando se ingere alimentos e outras substâncias, as toxinas vão primeiro para os rins, onde são processadas e eliminadas pela urina. No entanto, o yakudoku e outras substâncias não naturais não são processadas e sobram. Essas sobras vão gradualmente para os ombros. Por isso, o Johrei nas costas, especialmente na região dos rins, é importante para todas as doenças.
-
-8.  Mãos e Pés
-    Em casos de doenças nos braços ou nos dedos, deve-se ministrar Johrei abundantemente nos gânglios linfáticos do pescoço e na junção do ombro com o braço. O Johrei apenas no local afetado não terá muito efeito. Da mesma forma, em casos de problemas nas pernas ou no quadril, deve-se primeiro mirar o centro do quadril, o cóccix, e ministrar Johrei por trás. Em seguida, deve-se descer gradualmente, passando pelos gânglios linfáticos da virilha, pela parte externa da coxa, pela parte de trás do joelho e pela sola do pé.
-
-9.  Mulheres e o Calor na Fronte
-    O corpo humano, em sua parte superior e inferior, é como o céu e a terra. O centro da testa corresponde aos órgãos genitais femininos. Portanto, é preciso saber que o aspecto sexual está relacionado à fronte. Especialmente nas mulheres, em casos de doenças específicas do sexo feminino, e em casos de melancolia ou histeria decorrentes delas, o Johrei na fronte e nos órgãos genitais é muito eficaz.
-
-10. Purificação de Nivelamento
-    Quando a dor no braço direito melhora com o Johrei, às vezes o braço esquerdo começa a doer, como se a dor tivesse se movido. Na verdade, isso se chama purificação de nivelamento. Quando as toxinas do braço direito são eliminadas e ele se purifica, as toxinas do braço esquerdo, que ainda não haviam iniciado a purificação, começam a se purificar naturalmente para se nivelar com o braço direito. A dor não se move de forma alguma. Isso não se limita aos braços, pode ocorrer em outras partes do corpo. É uma característica que só pode ocorrer porque este Johrei é uma verdadeira arte médica que trata a causa da doença. Outras terapias não têm o verdadeiro poder de cura, portanto, a purificação de nivelamento não pode ocorrer.
-
-11. Sintomas Espirituais
-    Sobre a movimentação da dor, há uma exceção no abdômen, onde a dor intensa pode "fugir" durante o Johrei. Isso é um espírito de cobra. Com perseverança, perseguindo-o com o Johrei, a dor diminuirá gradualmente e a cura completa será alcançada. Em outros casos, durante o Johrei, pode haver movimentos involuntários ou o espírito possessor pode começar a falar. Não há necessidade de temer, nem de se maravilhar excessivamente. Aja com bom senso e com a humilde altivez de estar intermediando o poder do Deus supremo. Além disso, lendo constantemente os Escritos Divinos, acumulando experiência e consultando frequentemente os responsáveis para receber orientação, rogamos que salvem muitas pessoas que sofrem e se tornem pessoas felizes.
-
-A seguir, uma breve explicação sobre doenças específicas.
-
-[Diagrama do corpo humano (frente e costas) omitido]
-
-[...] (O restante do texto é uma lista extremamente detalhada de doenças, suas causas e métodos de tratamento, segundo a ótica da Igreja. A tradução seguiria os mesmos princípios estilísticos e terminológicos estabelecidos até aqui, mantendo a consistência e a fluidez do texto.)
-
----
-
-# Coletânea de Teses do Mestre Jikan Okada
-
-**Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Mestre Jikan Okada
-
-UM GUIA PARA A MESSIANIDADE MUNDIAL por Jikan Okada, Fundador da Messianidade Mundial
-
-IGREJA MESSIÂNICA MUNDIAL
-112 Tawara-Machi, Cidade de Atami, JAPÃO
-Impresso no Japão, 1955
-
-### Sumário
-
-*   Introdução
-*   O Surgimento de Nossa Religião
-*   O Ser Humano
-*   Gênesis
-*   O Corpo Humano, Vaso da Saúde
-*   A Revolução na Agricultura Japonesa
-*   O Caminho para a Felicidade
-*   Messias
-
-### Introdução
-
-Esta coletânea de ensaios foi compilada para servir como um guia àqueles que nada conhecem sobre a Messianidade Mundial. Nossa religião difere tão profundamente das demais que não pode ser compreendida sob a ótica dos padrões existentes. Reside justamente aí a importância e o significado da Messianidade Mundial.
-
-Uma religião, assim como todas as coisas, deve possuir uma missão particular tanto para seus contemporâneos quanto para o futuro. Embora as verdades sejam imutáveis, uma religião deve adaptar-se à mudança das eras; ou melhor, deve desempenhar o papel de conduzir o pensamento de seu tempo. Nesse sentido, todas as culturas e religiões precisam encontrar diferentes razões para sua existência à medida que as épocas se transformam. A razão para tal reside no próprio progresso e desenvolvimento da humanidade. As religiões adequadas para a salvação de povos primitivos já não servem aos intelectuais da era presente.
-
-A Messianidade Mundial distingue-se do Xintoísmo, do Budismo e do Cristianismo, mas abarca todos eles em sua essência; ademais, nela está incluída uma ciência muito mais avançada que qualquer outra de nossa época. Nosso objetivo é aprimorar a cultura, corrigindo seus erros, e concretizar o Paraíso na Terra, extirpando do mundo a doença, a pobreza e o conflito. Cremos na plena possibilidade dessa realização. Um projeto de salvação tão sem precedentes, contudo, transcende a mera capacidade humana; por conseguinte, não podemos senão crer que há um Poder Divino a guiar nossa obra.
-
-Outubro de 1950
-O Autor
-
-### O Surgimento de Nossa Religião
-
-Qual é a razão do surgimento de nossa religião? Se analisarmos a cultura moderna, patrimônio do esforço humano de milhares de anos, ela pode parecer altamente avançada; todavia, para nossa grande decepção, a realidade é contrária à aparência. Refiro-me ao lado espiritual da cultura, no qual não encontramos progresso algum. As pessoas de tempos antigos parecem ter sido, nesse aspecto, superiores a nós. Se medirmos o bem e o mal na mente das pessoas da era atual, o indicador, lamentavelmente, apontará mais para o vício do que para a virtude.
-
-A influência desfavorável da degenerescência da mente humana sobre a sociedade ultrapassa a imaginação. As guerras, que são as maiores causas de sofrimento da humanidade, as doenças, a pobreza, o crime e as calamidades naturais estão longe de diminuir; pelo contrário, aumentam. É de todo incompreensível por que a cultura espiritual se atrasou tanto em relação à cultura científica. Contudo, não apenas ninguém jamais questionou esse fato, como todas as pessoas se deixam fascinar pela cultura material e aceleram seu progresso. Por que religiosos, eruditos, estadistas e intelectuais não percebem essa discrepância? Pode haver alguns que a percebam, mas desconhecem o princípio fundamental. Portanto, cometem o erro de acreditar que o mal humano é uma característica natural da humanidade e aquiescem ao estado atual da sociedade.
-
-O homem buscou a felicidade com o mais profundo ardor. Tentou todos os meios concebíveis para assegurá-la, o que se evidencia em seu sonho fervoroso por uma Utopia e em seu anseio por um mundo ideal. Primeiramente, dependeu da religião em sua busca pela felicidade, mas, quando sua obtenção começou a parecer incerta, procurou-a em outros campos. Foi por essa razão que a educação, o moralismo e a filosofia alcançaram notável progresso na China e na Europa. Podemos citar, na China, Confúcio, Mêncio e Zhu Xi; e na Europa, Sócrates, Kant, Hegel e outros, como educadores ou filósofos representativos. Desnecessário dizer que os homens os viam com grande expectativa.
-
-Na Europa, entretanto, a ciência material começou a despontar no século XVII, promovendo uma revolução em todas as fases da atividade humana, sendo a mais notável a revolução industrial, impulsionada pela era das máquinas. A partir de então, o homem foi encantado pela ciência material. Passou a pensar, com naturalidade, que a religião ou o moralismo eram meios indiretos, e a ciência positiva, um atalho para garantir a felicidade e um mundo ideal. De fato, os países com ciência avançada tornaram-se prósperos, poderosos, respeitados e temidos por outras nações. Eles puderam garantir uma vida melhor para seu povo; consequentemente, todos os outros países foram forçados a seguir seu exemplo. O resultado foi o rápido progresso da ciência, que finalmente chegou ao seu estágio atual.
-
-Contudo, o homem se deixou fascinar excessivamente pela ciência e ignorou por completo o lado espiritual da humanidade. A moral degenerou, os homens buscam apenas as coisas visíveis e, sem perceber, tornaram-se escravos da ciência. O homem, que deveria controlar a ciência, é agora governado por ela. O mundo treme sob a ameaça de um desastre iminente. O futuro da humanidade é muito sombrio. O homem partiu em busca da felicidade e de um mundo ideal, mas perdeu de vista seu objetivo sem se dar conta. Foi, por assim dizer, encurralado. É uma grande ironia que, quanto mais avançada sua ciência, mais distante ele se encontra da felicidade.
-
-Em outras palavras, o homem primeiro tentou construir o paraíso com a cultura espiritual, mas, desapontado com esse método, voltou-se para a ideia de que a ciência traria o resultado desejado. Assim, dedicou-se ao máximo para avançar a ciência. O resultado de seu esforço, porém, não é o Paraíso. Ele conseguiu produzir algo mais terrível que o próprio Inferno: a destruição da humanidade, simbolizada pela invenção da bomba atômica. O homem jamais viveu em uma era mais perigosa; ainda assim, não percebe sua insensatez e continua a adorar a ciência material.
-
-Em suma, ele fracassou na cultura espiritual e agora está fracassando na cultura material. Não se tornou mais sábio com esses fracassos. Este é o problema urgente de toda a humanidade. É preciso admitir os erros e recomeçar. É preciso construir uma nova cultura, neutra, imparcial em relação ao espiritual e ao material. Este é o único caminho para realizar o Paraíso na Terra.
-
-Estamos agora no período de transição da velha para a nova cultura. É a isso que me tenho referido frequentemente como a grande transição mundial, uma mudança de proporções jamais registradas na história humana. De que tipo, então, será a nova cultura que suplantará a antiga? O homem, em seu nível atual de intelecto, não consegue sequer vislumbrá-la. Qual será a nova cultura e quem a criará? Nisto, todos devem reconhecer a existência de Deus.
-
-Passarei a explicar. Existem inumeráveis deidades, divididas em classes superior, intermediária e inferior, que desempenham diversas tarefas. Segundo o Xintoísmo, há oito milhões de deidades. No passado, houve dois pensamentos conflitantes sobre Deus: o monoteísmo, como no Cristianismo, versus o politeísmo, como no Xintoísmo. Contudo, nenhum dos dois foi imparcial. Na verdade, o único e verdadeiro Deus desdobra Seu Espírito, manifestando-Se como múltiplas deidades; portanto, Ele é simultaneamente um e muitos. Esta é a verdade, e esta é a conclusão a que cheguei após meus muitos anos de estudo do Mundo Divino. É verdade que, no passado, alguns poucos pensaram de forma semelhante, mas não conseguiram aprofundar suas explicações. Também é verdade que há muitos casos de homens que adoram deidades de graus inferiores, confundindo-as com Deus.
-
-Quem é o Ser Supremo? Ele é "Su-shin", ou Deus, chamado por vários nomes, como Jeová, Logos, Deus, Senhor, Deus Eterno, Cristo Reencarnado, Messias etc., por diferentes credos ou nações. O objetivo de Deus é criar um mundo ideal, pleno de verdade, virtude e beleza. Isso, necessariamente, demandou muito tempo, pois todas as condições precisavam ser previamente cumpridas. Chegou a hora. Toda a humanidade deve saber disso. É urgente que o homem realize a revolução espiritual.
-
-Mencionarei uma prova que testifica que o tempo chegou. É a expressão "Estado Mundial", que recentemente passou a ser usada nos Estados Unidos da América. É talvez desnecessário dizer que Estado Mundial significa um mundo ideal que uniu todos os países. Isso indica que a civilização material atingiu o estágio em que o ideal de um Estado Mundial tem alguma possibilidade de realização. É impossível criar o Paraíso se o nível da cultura for muito baixo ou se o mundo estiver dividido em muitos países. Se a comunicação humana for restrita, o mundo permanecerá obscuro e não haverá unificação de pensamento.
-
-Com o alvorecer de uma nova era cultural, é necessário que nos familiarizemos com o esboço do projeto divino. Deus desenvolverá Sua magnífica administração através do órgão de um ser humano. Creio ter sido eu o escolhido para este propósito. Agora, talvez, os senhores possam compreender a razão do surgimento de nossa religião. Conforme Deus me revela Seu plano de construir o Paraíso na Terra, eu o desenvolvo sob Sua orientação. O que for útil na antiga cultura será preservado; o que for passível de correção também será utilizado na construção da nova cultura. Este é o magnífico amor de Deus. Tudo o mais, ai de nós, deverá perecer. Haveria nisto algo distinto do Juízo Final?
-
-Os materialistas me culpam e me atacam, chamando-me de herege, sempre que faço essas revelações. Não é desarrazoado que me persigam. O homem só experimentou culturas espirituais ou materiais, então é natural que não consiga compreender facilmente a nova cultura, que é neutra, imparcial a ambas. Pessoas inclinadas à cultura espiritual reprovam os "benefícios concretos" professados pela religião, como se isso fosse sinal de uma religião menor, que busca apenas vantagens materiais. Segundo elas, as mais elevadas religiões são aquelas que buscam apenas a satisfação da alma, inebriando-se com as palavras difíceis de suas escrituras. No entanto, religiões teóricas não são eficazes na salvação das multidões.
-
-Aqueles do lado do materialismo inclinam-se excessivamente para o material. Para eles, tudo o que não é visível é superstição. Obviamente, não há espaço em suas mentes para a crença na existência de Deus. É com grande pesar que constato que a maioria das pessoas das classes dirigentes ou intelectuais do Japão é desse tipo. Para eles, nossa religião também é uma superstição, e não perdem uma oportunidade de nos atacar, oralmente ou por escrito. Em casos extremos, alertam outros contra nós. O público em geral é induzido ao erro por eles; as pessoas hesitam em estudar nossa religião e, por isso, não conseguem apreender sua verdadeira feição. Nesse sentido, a maioria dos intelectuais está obstruindo o progresso da cultura. Isso ocorre em toda parte do mundo.
-
-Sempre que algo novo nasce, é quase invariavelmente combatido pela multidão. Este é o triste destino de todos os precursores. É interessante notar que qualquer teoria que esteja apenas um pouco acima do nível cultural da geração é bem-vinda e aplaudida pela intelligentsia. Teorias desse tipo são mais facilmente compreensíveis para aqueles que receberam a educação da cultura vigente. A maioria dos ganhadores do Prêmio Nobel pertence a essa categoria. As pessoas jamais entenderão uma teoria que esteja muito acima ou separada do nível geral de sua geração. Elas verão os criadores dessas teorias como hereges e os perseguirão. Cristo, Sócrates, Copérnico, Galileu, Lutero e outros foram todos perseguidos, como nos conta a história.
-
-Minha teoria é muito mais singular. Está um ou dois séculos à frente do nível da era atual. As pessoas, imbuídas das culturas existentes, ficam apenas perplexas com minha teoria; sequer tentam estudá-la; definem-na como superstição e tentam destruí-la. Se minha teoria não tivesse outro mérito além de ser inédita, nossa religião jamais teria alcançado um desenvolvimento tão rápido sob a severa perseguição da intelligentsia e do governo. Deve haver algo nela. Trilharmos caminhos espinhosos e lutamos muitas vezes contra a opressão, mas, ainda assim, nosso projeto de construir o Paraíso na Terra progride inesperadamente bem. Há algo nisso que transcende a compreensão humana.
-
-Quando alguém se converte à Messianidade Mundial, é dotado de um poder de cura que se compara favoravelmente ao dos fundadores de outras religiões. A realização de milagres é uma prática cotidiana para meus seguidores. Ao estudar as doutrinas de nossa religião, qualquer seguidor pode compreender os segredos da vida; despertará para as verdades; sua vida diária melhorará; tornar-se-á mais feliz; poderá encarar o futuro com firme convicção e, assim, viver uma vida verdadeiramente segura. Ao perseverar como seguidor de nossa religião, sua fisionomia se aprimorará. Isso ocorre porque seu sangue se purifica e ele se torna mais saudável. Qualquer temor sobre seu futuro desaparecerá; seu caráter será aperfeiçoado; tornar-se-á mais confiável para os outros; assim, converter-se-á em um homem de virtude, amado e respeitado por todos.
-
-A condição fundamental para a realização do lema de nossa religião – a construção do Paraíso na Terra – é o aprimoramento dos indivíduos, qualificando-os para serem habitantes do Paraíso. À medida que o número desses indivíduos aumentar, o Paraíso na Terra se aproximará de sua concretização, pois o mundo nada mais é do que um conjunto de indivíduos.
-
-### O Ser Humano
-
-Por qual necessidade o ser humano existe neste mundo? Quem criou o ser humano? Estas são as primeiras perguntas que surgem a qualquer pessoa que reflete. A menos que sejam respondidas, a solução de quaisquer outros problemas árduos pode ser inútil. Tais problemas são apenas uma fonte de dor de cabeça e jamais poderão sustentar espiritualmente o homem em sua luta. Todos, sem exceção, idolatraram a cultura, a ciência etc., mas estas nada explicaram sobre o ser humano.
-
-Darwin escreveu "A Origem das Espécies". Segundo seu livro, os ancestrais do homem eram amebas. Até aí, tudo bem, mas o resto é chocante. A ameba evoluiu sucessivamente para répteis, dinossauros, macacos, antropoides e, então, para o homem. Se essa teoria fosse verdadeira, os macacos encontrados nas selvas da África estariam prestes a se tornar homens. No entanto, nunca ouvimos tais relatos. Assim, a famosa teoria da evolução parece questionável.
-
-O homem não nasceu porque desejou nascer. Seus pais simplesmente o geraram sem intenção real. À medida que um homem envelhece e começa a compreender as ocorrências comuns do mundo, o que ele deseja saber é por que o homem nasce. Além da teoria da evolução, existem algumas teorias religiosas que pretendem explicar a razão pela qual o homem nasce no mundo, mas são demasiado ambíguas.
-
-O homem precisa comer para continuar a existir, e farto alimento lhe é provido. Seu alimento é obtido da terra e do mar. Ademais, não há nada inútil neste mundo. Se algo for considerado inútil, é porque o homem não conhece seu uso ou seu conhecimento não se desenvolveu o suficiente para reconhecê-lo. Algo ou Alguém direcionou o homem a utilizar os recursos do mundo, e um grande avanço resultou disso, como se evidencia ao nosso redor. É óbvio, ou deveria ser, que este Alguém deseja usar o homem como um instrumento para criar um mundo melhor. Não pode haver outra forma de pensar. O que podemos fazer é apenas curvar nossas cabeças respeitosamente a este Alguém, que pode manipular nossas vidas segundo Sua Vontade.
-
-No entanto, o homem é uma criatura bastante problemática e jamais concorda com algo que não compreende. Ele inventou o saber para refinar sua sabedoria. O processo desse saber partiu da premissa de que existia um Criador invisível no início, que fez todas as coisas neste mundo. Mas, gradualmente, o homem começou a dizer que não podia mais acreditar em nada invisível. Assim, elaborou algo complexo que chamou de ciência. Esta era definitivamente visível ou tangível. Ele ficou muito orgulhhoso de sua invenção e, desde então, tem sido escravizado por essa ciência.
-
-Sob o feitiço da ciência, o homem desenvolveu uma grande presunção com seu conhecimento superficial adquirido da Natureza. Como passaram a adorar a ciência mais do que a Deus, deveriam ter remodelado sua sociedade em uma muito agradável por meio de sua ciência. Longe de suas expectativas, toda a humanidade agora treme diante dos produtos de sua ciência. Deus, vendo sua consternação, não pode permanecer indiferente, pois os homens são todos Seus filhos. Por Sua Divina Misericórdia, portanto, Ele me designou para fundar a Messianidade Mundial, a fim de propagar a verdade divina e abrir-lhes os olhos.
-
-O homem está em um grande dilema. Embora a ciência lhe tenha proporcionado muitos dispositivos convenientes, ela nunca produziu o item mais importante: a segurança da mente humana. Isso causou uma decepção ao homem, mas, acostumado à sua adoração pela ciência, ele ainda se apega a ela com maior tenacidade. A ciência em si é um bom mecanismo, dado ao homem para aumentar sua felicidade. Os bons, portanto, desejam fazer bom uso dela para criar um mundo mais feliz; mas os maus desejam explorá-la. Consequentemente, ocorre uma luta constante na qual as massas são sempre as vítimas.
-
-### Gênesis
-
-Escreverei agora sobre a criação do universo. No princípio, no centro do vácuo, estava o Criador, que criou as substâncias que hoje compõem o universo. Quando a Terra saiu das mãos do Criador, era macia. Gradualmente, endureceu, separando terra e água, que se desenvolveram em continentes e mares. No entanto, como a terra ainda era muito macia, o Criador produziu os únicos animais que poderiam viver nela, como dinossauros, mamutes etc. Quando a terra se tornou razoavelmente firme, todos os animais monstruosos haviam cumprido sua função e foram dispensados. Esta foi a seleção natural.
-
-O Criador produziu insetos, pássaros, feras e répteis; Ele também criou árvores e gramíneas, rochas e minerais; e, depois que todas as condições foram completadas, Ele criou o homem como Sua última obra. O homem foi criado nu; e sua engenhosidade o levou a utilizar o que estava disponível ao seu redor para se vestir e se abrigar. Como o homem era incessantemente atacado por feras, ele fabricou armas de vários tipos. À medida que se tornou mais hábil, produziu armas melhores, com as quais conseguiu subjugar a maioria dos animais. Isso também foi a seleção natural.
-
-O homem, no entanto, não se satisfaria. Os mais gananciosos entre eles começaram a desejar mais terras, propriedades e mulheres; e este foi o início da luta do homem. Dificilmente podemos encontrar um ser mais ignóbil do que o homem nesse sentido. Cada um deles lutou para dominar os outros de sua espécie. As máquinas para o massacre foram cada vez mais aprimoradas; e, finalmente, a bomba atômica foi inventada. O homem está agora chocado com sua própria invenção.
-
-O Criador decidiu agora que é hora de frear o desenvolvimento da ciência destrutiva. Se fosse permitido ao homem desenvolver ainda mais essa ciência, ele arruinaria sua civilização e teria que retornar à sua antiga barbárie. Ele considera que o mundo está agora civilizado o suficiente para ser convertido no Paraíso que Ele planejou desde o início. Ele não interferiu nas guerras porque elas eram necessárias. Se não fosse pelas guerras, o progresso da cultura não teria sido tão rápido. Ele preparou tudo o que é necessário para esta construção. Segundo o Criador, o homem deveria saber do advento de tal Paraíso, pois Ele uma vez fez com que Cristo e Buda o profetizassem.
-
-### O Corpo Humano, Vaso da Saúde
-
-Sempre prevaleceu o conceito equivocado de que o corpo humano é um receptáculo para a doença. Nada poderia ser mais absurdo. É imperativo corrigir essa visão: o corpo humano é um vaso para a saúde.
-
-Há uma razão para a origem desse pensamento errôneo. O homem sofre de doenças com muita frequência. Ele apanha resfriados, sofre de dores de cabeça ou de estômago, diarreia e outros desconfortos no curso normal dos eventos, e também está sujeito a muitas outras enfermidades. Fica chocado ao ter qualquer um desses problemas e consulta médicos ou toma remédios. Em alguns casos, é facilmente curado. Mas, às vezes, não se cura tão facilmente nem mesmo do que considerava um simples resfriado. Em pouco tempo, pode vir a sofrer de doenças graves como meningite, tifo ou pneumonia. Deve considerar-se afortunado se for curado dessas doenças, pois não é raro que o homem perca a vida por causa delas. Os médicos não têm qualquer previsão definitiva sobre a condição de seus pacientes; só podem confiar em suposições. A ciência médica ainda não está tão avançada a ponto de poder fornecer um diagnóstico preciso.
-
-As mencionadas são todas doenças agudas. Com as doenças do tipo crônico, especialmente a tuberculose, os pacientes não se curam por muitos anos. Se por acaso se recuperam, frequentemente sofrem uma recaída. Repetindo recuperação e recaída, devem sofrer por muito tempo. Alguns podem ser curados por acaso, mas outros morrem depois de terem gasto muito dinheiro e passado por um longo sofrimento. À medida que esses pacientes se acostumam com o tratamento médico, nunca conseguem abandoná-lo. Além da doença, devem também sofrer com inconveniências econômicas, e os trabalhadores assalariados perdem seus empregos.
-
-As pessoas modernas, portanto, têm um medo extremo de doenças. Tanto o governo quanto o povo gastam somas enormes de dinheiro todos os anos na prevenção de doenças e na manutenção de instalações médicas. O governo decidiu recentemente a apropriação de 8,7 bilhões de ienes para a campanha antituberculose. Apesar dos esforços conjuntos do governo e do povo, no entanto, a tuberculose não mostra nenhum sinal de diminuição. O mesmo pode ser dito de todas as outras doenças. Tifo, disenteria, meningite e outras doenças estão agora desenfreadas. Há tantos pacientes que todos os hospitais estão lotados, e um número não pequeno de pacientes não pode ser hospitalizado por falta de acomodação. O fornecimento de medicamentos também parece ser muito insatisfatório. Apesar desses esforços, o número de pacientes não diminui; cada pessoa moderna, portanto, sofre de fobia de doenças. Esta é a razão pela qual ainda se diz que o corpo humano é um receptáculo para doenças.
-
-Assim que uma pessoa se torna seguidora de nossa religião, ela será facilmente curada de sua doença. Sua saúde melhorará e ela não precisará temer nenhuma doença no futuro. Quaisquer doenças epidêmicas também são triviais, porque são as mais fáceis de curar. Ela não precisará mais temer os bacilos. Quando apenas este fato for considerado, será reconhecido que este é o milagre da era que trará felicidade a todo o mundo.
-
-Ademais, todos os seguidores são instruídos no meu método de curar os doentes. Este é um método muito eficaz; tão eficaz que talvez seja difícil de acreditar. As pessoas que ouviram falar sobre isso podem dizer que, se até especialistas médicos que estudaram por muitos anos em faculdades e clínicas acham muito difícil curar pacientes de suas enfermidades, é absurdo que leigos que estudaram meu método por apenas três a seis meses possam curar doentes graves que foram desenganados por especialistas.
-
-Enquanto um homem for verdadeiramente saudável, nenhum bacilo pode fazê-lo adoecer. O fato de os mesmos bacilos deixarem algumas pessoas doentes e outras não, é porque os homens de verdadeira saúde têm maior resistência aos bacilos. Penso que o progresso da ciência médica ou do saneamento deveria, apropriadamente, voltar sua atenção para produzir mais pessoas com maior resistência. Pergunto-me por que ninguém percebeu essa simples verdade.
-
-O sistema social da era atual foi fabricado sobre a base da cultura moderna, que é materialista, parcial e reacionária à cultura espiritual. Cada detalhe de nossa estrutura social é fundado no preconceito de que esta é a melhor forma de cultura que o homem pode alcançar. É, portanto, muito natural que nosso sistema social tenha muitos defeitos, que foram principalmente causados pelas discrepâncias entre a cultura materialista e a cultura neutra. O erro mais grave da cultura materialista é que ela ignora os resultados, enfatizando apenas os processos ou métodos. Este é o ponto mais incompreensível. Se analisarmos a cultura moderna sob este ponto de vista, podemos entender muito claramente seus méritos e suas fraquezas.
-
-A característica mais marcante do materialismo é sua miopia. Ele leva em consideração apenas as coisas que estão à mão. Se um homem tem febre, ele procura baixá-la com compressas de gelo. Ele ignora o fato de que há uma razão para ele ter febre. O tratamento médico se preocupa apenas com os sintomas que aparecem na superfície. O mesmo acontece com os movimentos de ajuda, como a Campanha da Pena, que arrecada fundos para socorrer os necessitados. Embora sua causa possa ser admirável, eles estão perdendo o ponto vital. As pessoas infelizes são o resultado de uma estrutura social defeituosa. Portanto, não há outra solução para este problema senão corrigir o defeito. Todos os outros métodos são tão ineficazes quanto o tratamento alopático para pacientes doentes. Mencionei apenas dois exemplos, mas a cultura materialista tem defeitos em todas as suas fases. As pessoas modernas se gabam de ter uma cultura altamente civilizada, mas seu mundo está cheio de pessoas infelizes. A causa reside em seus defeitos internos.
-
-Deus pretende despertar o maior número possível de pessoas para a verdade, e o mais rápido possível. Ele vai construir uma sociedade humana verdadeiramente feliz que finalmente se desenvolverá no Mundo Ideal, onde não teremos doentes, pobres ou guerras. Quão magnânima é a providência! Algumas pessoas podem se perguntar por que Deus não revelou Seu projeto Divino antes ao homem. Elas entenderão a razão tornando-se e continuando a ser seguidores da Messianidade Mundial.
-
-### Método Revolucionário de Agricultura
-
-Há cerca de quinze anos, venho defendendo um método de agricultura chamado Cultivo Natural, no qual as colheitas podem ser grandemente aumentadas sem o uso de fertilizantes químicos ou esterco. No início, nenhum agricultor dava ouvidos ao meu conselho, embora eu tentasse sinceramente convencê-los a adotar meu método. Em minha firme crença de que meu método se baseia na verdade absoluta, de que chegaria o tempo em que reconheceriam seu mérito e de que não apenas os agricultores não seriam salvos, mas o destino deste país seria adversamente afetado se não o adotassem, continuei meus esforços para defendê-lo, independentemente da perseguição. Infelizmente, como meus temores se concretizaram, sinto fortemente que o povo japonês em geral, bem como os agricultores, devem ser persuadidos do verdadeiro mérito do meu método.
-
-Percebendo que o futuro da Agricultura Natural é promissor, começamos a propagar este método. Como sou um religioso, muitos agricultores que são meus seguidores puseram meu método em prática, ao mesmo tempo duvidando de sua eficácia. O resultado foi bastante excelente; portanto, surgiram não poucos simpatizantes e, recentemente, agricultores que não são meus seguidores começaram a prestar atenção.
-
-Deixem-me agora explicar o princípio da Agricultura Natural, pelo qual as colheitas são grandemente aumentadas sem o auxílio de fertilizantes químicos ou esterco. Se este método for continuado por cinco anos, as colheitas aumentarão em 50% em todo o país. Isso pode ser difícil de acreditar. Atualmente, a colheita anual de arroz no Japão chega a 63.000.000 de koku (um koku equivale a aproximadamente 180 litros), e se isso aumentar em 50%, chegará a 94.500.000 de koku. Essa quantidade é suficiente para alimentar todo o povo japonês, e ainda restarão cerca de 10.000.000 de koku, o que tornará possível a exportação de arroz. Além disso, o dinheiro geralmente gasto com fertilizantes químicos ou esterco é economizado, os danos causados por insetos e tempestades são reduzidos, e o trabalho também diminui. Este é um método de agricultura verdadeiramente surpreendente.
-
-Este é o efeito da Agricultura Natural nas colheitas de arroz, e é igualmente eficaz em outros produtos agrícolas. Quanto aos vegetais, como a batata-doce, por exemplo, batatas espantosamente grandes são produzidas por este método. Batatas com peso entre quatro e cinco libras não são incomuns. A quantidade total da produção é o dobro da obtida com o uso de fertilizantes. Quanto aos feijões, estes também crescem mais e aumentam em quantidade, produzindo cerca de três vezes mais. No que diz respeito a vegetais como nabos, rabanetes brancos e vermelhos etc., o sabor melhora muito. Para as verduras, a cor melhora consideravelmente, ficam livres de danos de insetos, e o sabor é aprimorado. O mesmo efeito é produzido em milho, abóbora, melancia e outros.
-
-A característica dos alimentos produzidos pela Agricultura Natural é a sua delícia. Uma vez que se conhece o sabor do arroz, do trigo ou dos vegetais cultivados pela Agricultura Natural, é certo que não se apreciará aqueles cultivados pelo método convencional. Eu consumo diariamente apenas alimentos produzidos pela Agricultura Natural, e felizmente o número de agricultores que a praticam está aumentando, de modo que recebo diariamente mais do que o suficiente em produtos agrícolas cultivados pelo meu método.
-
-As colheitas de frutas também estão aumentando anualmente e sua qualidade está melhorando desde que os produtores pararam de usar fertilizantes. Flores e botões também melhoram, suas cores se aprimoram e, sendo mais fortes, duram mais quando cortados.
-
-Outra característica da Agricultura Natural é que ela reduz notavelmente os danos causados por insetos. Os insetos prosperam ao se nutrirem dos fertilizantes, de modo que a abolição do uso de fertilizantes faz com que os insetos das plantas deixem de existir. Atualmente, inseticidas e desinfetantes são amplamente utilizados, mas estes penetram no solo e se tornam a causa do aparecimento de pragas. Recentemente, os danos anuais causados por tempestades têm sido severos, mas com a Agricultura Natural, podemos reduzi-los a danos insignificantes. A razão é que as culturas que absorvem os fertilizantes se tornam muito fracas; ou seja, os fertilizantes, sejam químicos ou orgânicos, uma vez absorvidos pelas plantas, tornam-se venenosos e servem de alimento para os insetos, fazendo-os prosperar. Insetos muito pequenos surgem de alguns tipos de fertilizantes, alimentando-se das culturas, ou, se aparecem nas raízes, comem as radículas e enfraquecem as plantas. A razão pela qual as plantas murcham, os caules quebram, as flores caem, os frutos não amadurecem e as batatas diminuem de tamanho é por causa desses pequenos insetos. As culturas em seu estado saudável têm a força para exterminar esses insetos, mas as culturas enfraquecidas pelos fertilizantes não conseguem resistir aos danos causados por eles.
-
-Com a Agricultura Natural, podemos reduzir os danos às colheitas a uma quantidade insignificante. Quando sopradas por uma tempestade, as culturas cultivadas pelo meu método são muito fortes e não se curvam ao vento, ou, se se curvam, sua resiliência é poderosa, enquanto as culturas cultivadas com fertilizantes permanecem dobradas, e assim o dano é grande. A razão é que as radículas das culturas cultivadas pelo meu método são muito mais longas e numerosas do que as raízes das culturas cultivadas com o uso de fertilizantes, e assim a força das raízes para sustentar os caules é muito maior.
-
-É importante conhecer a característica da produtividade do solo. O solo é aquilo que foi criado por Deus para produzir coisas para alimentar o homem e os animais. Portanto, o solo é naturalmente abundante em nutrientes para a vida vegetal, ou é ele próprio o nutriente para a vida vegetal. Ignorante da verdade acima declarada, o homem tem usado fertilizantes equivocadamente. Como resultado, o poder original do solo foi inesperadamente enfraquecido. O caráter do solo japonês tem sido considerado ácido. É porque fertilizantes foram usados por anos. Portanto, também para aumentar as colheitas, devemos aumentar o poder vivificante do solo. Para esse fim, deve-se manter o solo puro, sem usar impurezas além de compostos vegetais. Este método simples produz efeitos maravilhosos e gratificantes.
-
-A ideia fundamental da Agricultura Natural é a valorização da natureza. Toda criatura no mundo é cultivada pelos três elementos: Fogo, Água e Solo. As culturas não são exceção. E assim, luz solar suficiente, suprimento de água e solo purificado produzem colheitas abundantes para o homem. O efeito dos compostos vegetais não é de nutrição, mas de manter o solo úmido, aquecido e macio, ou seja, eles absorvem água e calor e mantêm o solo fofo. No centro da Terra há uma enorme massa de fogo que está constantemente enviando calor ou "espírito da terra" para cima, e isso nada mais é do que nitrogênio. Este nitrogênio é o fertilizante natural que Deus nos deu; ele penetra na superfície da terra, ascende a uma certa altura, depois desce com a chuva e é absorvido pela terra. Assim, torna-se o fertilizante natural, cuja quantidade não é nem excessiva nem insuficiente. O nitrogênio artificial tem apenas um efeito temporário e não duradouro. O excesso de nitrogênio artificial enfraquece o poder natural do solo e reduz as colheitas proporcionalmente. De todos os pontos de vista, a suprema eficácia do meu método de Agricultura Natural será claramente compreendida.
-
-### O Caminho para a Felicidade
-
-A mais grave questão para as pessoas no mundo de hoje é como alcançar a felicidade. O homem está necessariamente ocupado com esse pensamento do berço ao túmulo. Ironicamente, aquilo que o homem mais anseia saber é geralmente o mais difícil de saber. Este problema não é exceção à regra. Tenho a fortuna de conhecer a resposta para este problema. Meu conhecimento é infalível porque se baseia na experiência prática.
-
-A definição de sorte não é fácil, pois é muito vaga. Não se pode mudar a própria sorte. A única coisa que se pode fazer é deixar que a sorte siga seu próprio curso. É muito difícil, mesmo para o maior homem do mundo, aceitar seu destino. Como resultado, o ardente desejo de felicidade é um estímulo para a vida, que faz com que se trabalhe e se lute para ganhar dinheiro ou alcançar distinção ao longo da vida, em vão. Não há nada mais contrário do que a sorte humana, que é elusiva demais para ser capturada. Uma chance de se tornar feliz deve ser aproveitada no instante em que aparece, senão ela escapa. Através de várias experiências, uma vez senti como se estivesse sendo zombado pela boa sorte, mas agora sei que fui abençoado com ela. Isso é muito difícil de explicar para os não seguidores, que tendem a julgar as coisas superficialmente, sem olhar para o âmago.
-
-Quando uma pessoa não é capaz de penetrar no âmago da boa sorte, ela é incapaz de entender o que a sorte realmente é. Quando o homem se move, não é seu corpo que se move por sua própria motivação, mas sua mente que move o corpo. O mesmo princípio é aplicável à sorte. O universo é composto pelo lado fenomênico e pelo lado espiritual invisível. É assim que Deus criou o universo. O lado espiritual do mundo move o lado fenomênico ou físico do mundo, assim como a mente move o corpo. E em todos os casos, o mundo espiritual precede o mundo fenomênico ou real.
-
-Assim, a sorte segue a mesma regra; isto é, só se pode tornar feliz quando o lado espiritual de si mesmo no mundo espiritual se tornou feliz. A condição feliz de alguém no mundo espiritual se reflete no mundo físico para torná-lo feliz neste mundo. No mundo espiritual, o sistema de classes é mais rigoroso e imparcial do que neste mundo. Ele é dividido em três estratos: superior, intermediário e inferior, cada estrato sendo novamente subdividido em sessenta divisões. Portanto, possui cento e oitenta divisões no total. O estrato superior corresponde ao céu, o inferior ao inferno, e o intermediário ao purgatório, cuja condição é aproximadamente a mesma deste mundo.
-
-Isso pode ser inconcebível para as pessoas modernas. Este fato, no entanto, é infalível, foi-me revelado por Deus e baseia-se em minha própria investigação completa e longa sobre a relação entre o mundo espiritual e o mundo físico. As numerosas pessoas que se tornaram felizes por terem fé e praticarem meu ensinamento baseado nesta revelação provam a autenticidade do fato.
-
-O lado espiritual do homem reside no mundo espiritual, enquanto o lado físico do homem vive neste mundo físico. O lado espiritual do homem, ou sua alma, permanece em uma das cento e oitenta divisões, ou seja, ele está espiritualmente domiciliado nessa posição no mundo espiritual. Este domicílio espiritual não é fixo, mas está sempre se movendo para cima ou para baixo. Este movimento influencia a sorte do homem para torná-lo mais feliz ou mais infeliz. O homem deve, portanto, tentar elevar seu domicílio espiritual o máximo possível.
-
-A parte inferior do mundo espiritual é o inferno, é claro, um pandemônio cheio de todos os tipos de agonia, um mundo escuro e sem luz. Quanto mais alto a alma sobe, melhor se torna a condição. A parte superior é celestial, pacífica e brilhante. Um mundo ideal. A condição da parte intermediária não é nem muito boa nem muito má. Assim, fica bem claro que elevar a posição da alma no mundo espiritual é basicamente a coisa mais importante para se tornar feliz, pois o domicílio no mundo espiritual se reflete na sorte neste mundo para torná-lo mais feliz ou mais infeliz.
-
-Existem algumas pessoas que, tendo tido sucesso na vida e sendo invejadas por muitos, de repente caíram em suas circunstâncias para sua condição original, apesar de sua expectativa na continuidade do sucesso. A causa de sua queda é atribuível à sua autoconfiança excessiva, negligência a Deus e ignorância do fato acima mencionado. Além disso, essas pessoas tendem a afligir os outros e a tentar o impossível. Consequentemente, elas podem ter sucesso fenomenal na vida, mas suas almas já estão no inferno. A condição de suas almas no inferno se reflete sobre elas com o tempo, finalmente tornando seu destino infernal pela lei do "espírito precede a matéria".
-
-Atos viciosos tornam a alma nebulosa, enquanto atos virtuosos tornam a alma pura o suficiente para ascender. O segredo para alcançar a felicidade é, portanto, evitar todo o vício, fazer o bem tanto quanto possível e, assim, tentar tornar a alma o mais pura possível. Afirmo que esta é a verdade e que não há outra maneira de se tornar verdadeiramente feliz. Sei que é muito mais fácil pregar do que praticar. Há uma maneira, no entanto, de facilitar a prática: a Fé.
-
-### Messias
-
-O que é um messias? É desnecessário dizer que ele é um grande sábio nascido com a missão da salvação. Minha atividade de salvação, em seu estágio atual, pode ser quase insignificante do ponto de vista de toda a humanidade. No entanto, como o número de salvos está aumentando rapidamente, minha empreitada tem um futuro muito favorável.
-
-Estou utilizando plenamente uma força invisível ou Divina, o que pode parecer incrível para as pessoas modernas que receberam educação materialista. A existência de tal força pode parecer irreal demais para essas pessoas, e não é desarrazoado que pensem assim. Pela força Divina, exercida indiretamente através de meus seguidores, centenas e milhares de enfermos em estado crítico foram salvos e se tornaram capazes de trabalhar com boa saúde.
-
-Desde os tempos antigos, a vida foi considerada à mercê do destino; e o progresso da cultura ou da ciência médica nada pôde fazer a respeito. Mas agora, a extensão da vida, que é o maior desejo de toda a humanidade, tornou-se possível. Que grande alegria isso deve ser para as pessoas que podem compreender e acreditar. No entanto, se as pessoas comuns se familiarizarem com este fato, através de palestras ou publicações de nossa organização, é natural que achem difícil acreditar.
-
-Todas as pessoas buscam a felicidade. Contudo, se um homem carece de saúde, todas as outras condições de felicidade que ele possa ter equivalem a nada. Cristo bem disse que, se um homem conquistar o mundo inteiro, que benefício isso lhe traria se perdesse sua vida? Não há nada mais precioso do que a saúde. Pode-se dizer que toda a felicidade desta vida se resume à saúde.
-
-Inúmeros exemplos de pessoas salvas por nossa religião estão nas publicações de nossa organização. Essas pessoas foram salvas não apenas de doenças, mas algumas foram protegidas de acidentes ou salvas da pobreza. Muitas pessoas infelizes se tornaram felizes. Meu poder de salvação é exercido através de centenas e milhares de meus discípulos, que operam inúmeros milagres todos os dias.
-
-Tivemos vários grandes religiosos ou sábios no passado. Mas há uma grande diferença entre o que eles realizaram e o que estou fazendo agora. Era uma questão de tempo até que víssemos a segunda vinda de Cristo ou a reencarnação de Buda. As profecias que o homem fez há milhares de anos serão cumpridas.
-
-Eu nunca desejei me tornar um grande sábio ou um messias, porque nunca me considerei grande. Apenas fui inflamado de amor pela humanidade quando era jovem e desejei me tornar um religioso e salvar as pessoas. Depois de completar uma certa quantidade de práticas ascéticas, recebi uma revelação e fui dotado de um grande poder espiritual. Tendo-me sido confiada a missão de salvar a humanidade, executo agora o projeto Divino como um procurador de Deus.
-
----
-
-# O Desígnio da Criação do Museu de Arte
-
-**Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## O Desígnio da Criação do Museu de Arte
-
-**Mokichi Okada**
-*Diretor do Museu de Arte de Hakone*
-
-Sou Mokichi Okada, fundador da Sekaikyuseikyou. Expresso aqui minha sincera gratidão por sua visita a este museu de arte. Aproveito esta oportunidade para expor os motivos que me levaram a criar esta instituição. Críticas ou sugestões sobre o museu e as obras expostas serão recebidas com o maior apreço.
-
-O ideal fundamental da religião é criar um mundo pleno de verdade, bem e belo. A verdade e o bem são de natureza metafísica, ao passo que o belo pode se manifestar concretamente, em forma, aprimorando a alma humana por meio da visão. É notório o esplendor da arte religiosa desde os períodos grego e romano até a Idade Média na Europa, assim como do reinado do Príncipe Shotoku à Era Kamakura no Japão. Naqueles tempos, quase todas as criações estéticas do homem, como a pintura, a escultura e a música, fundamentavam-se na religião.
-
-Atualmente, contudo, tal tendência tornou-se praticamente irreconhecível, e a arte apartou-se da religião. A causa mais significativa dessa separação pode ser atribuída ao fato de a religião ter ficado defasada em relação ao avanço da humanidade. As atividades religiosas em todos os países tornaram-se latentes, em nítido contraste com as deslumbrantes façanhas da ciência moderna. Pessoalmente, creio que a religião e a arte devem progredir amparando-se mutuamente, como as duas rodas de uma carroça.
-
-Gostaria de mencionar, neste ponto, a característica mais proeminente do povo japonês. Cada nação do globo, tal como os indivíduos, possui uma cultura e um pensamento que lhe são próprios. A característica imanente do povo japonês é a de deleitar os povos do mundo por meio da beleza e, assim, contribuir para o desenvolvimento da cultura. Isso se torna facilmente compreensível quando consideramos a beleza sublime de nossas paisagens e a infinita variedade de nossas flores e plantas, bem como o aguçado senso estético de nosso povo e sua excelência nos trabalhos manuais.
-
-Não obstante, o Japão, inconsciente de sua missão fundamental, cometeu o erro fatídico de travar uma guerra e, por conseguinte, teve de amargar o sofrimento da derrota. Creio que foi pela misericordiosa providência de Deus que o Japão despertou para sua missão através dessa provação. Ademais, Deus privou o Japão de suas armas. Embora o problema do rearmamento tenha sido discutido recentemente, ele deve limitar-se estritamente ao âmbito da defesa nacional, sem qualquer outro propósito.
-
-Sob essa perspectiva, o rumo futuro do Japão se torna iniludível. Acredito que a paz e a prosperidade eternas serão alcançadas se nos apegarmos a esse ideal, e é com base nessa convicção que conduzo minhas ações.
-
-Para materializar meu ideal, idealizei primeiramente a construção de paraísos em miniatura, plenos de beleza, para apresentá-los ao público. Os locais que preenchem tais condições encontram-se em Hakone e Atami, que são impecáveis por possuírem clima ameno, ar puro e fontes termais, além de fácil acesso e paisagens deslumbrantes. Decidi, portanto, construir primeiramente jardins celestiais nesses dois locais, integrando em perfeita harmonia as belezas naturais e as criadas pelo homem. Concluí recentemente a construção deste Paraíso em Miniatura de Hakone, que inclui a galeria de arte.
-
-Yuna (Cortesãs do período Momoyama)
-Pintor desconhecido. Obra do início do período *Ukiyo-e*.
-Tesouro Nacional.
-
-Até o presente, como é de vosso conhecimento, praticamente não existiam no Japão museus de arte puramente japonesa. Os que existiam eram dedicados à arte chinesa e ocidental, ou então exibiam apenas obras de cunho religioso. Assim, o próprio povo japonês não teve a chance de apreciar a sua arte, sem mencionar os estrangeiros que visitam o Japão com o desejo de ver a genuína arte nipônica; não havia instalações ou meios para satisfazer essa demanda. Não seria esta uma grande negligência por parte do Japão, enquanto nação artística? Portanto, se este museu recém-inaugurado puder, de alguma forma, suprir essa lacuna, será para mim motivo de imensa satisfação.
-
-Nunca estive no exterior. Contudo, como resultado de minhas pesquisas, descobri que a maior parte da arte japonesa no estrangeiro se resume a gravuras, sendo raríssimas as obras-primas da pintura. Americanos e europeus sempre apreciaram grandemente a arte chinesa, e diz-se que se encontram no exterior boas coleções de cerâmica e bronzes chineses. Todavia, as pinturas chinesas de primeira qualidade não foram transferidas para os Estados Unidos ou para a Europa. Na China, pinturas magníficas foram produzidas nos períodos Sung e Yuan, mas estas foram consumidas por incêndios durante as guerras frequentes. A maioria não permaneceu em sua terra de origem. Grande parte das remanescentes foi colecionada no Japão na época de Ashikaga Yoshimitsu e Yoshimasa (há cerca de 500 anos) e herdada por Oda Nobunaga e Toyotomi Hideyoshi (há cerca de 360 anos).
-
-Quanto à cerâmica e aos bronzes chineses, muitas peças foram enterradas em tempos de guerra para serem protegidas da destruição. Por conseguinte, a maioria das peças existentes foi desenterrada, havendo pouquíssimas intactas, pois algumas sofreram fissuras durante a escavação e outras com o passar de milhares de anos. Neste museu, há um vaso de Anderson que se acredita ter sido produzido há 4.000 anos. É tão belo que nos admiramos de como uma arte tão esplêndida pôde ser produzida naquela época. De modo geral, encontramos cerâmicas excelentes entre as produzidas na época de Riu-Chao e no período Tang (220-900) e, ademais, há peças notáveis do período Sung (ano 1000), quando a produção de porcelana celadon era intensa, como é bem sabido. No que tange aos bronzes, obras de qualidade foram produzidas imediatamente antes e depois do período Chou (há cerca de 3.000 anos). Foi no Período Nara, no Japão (há cerca de 1.200 anos), que tais obras foram importadas pela primeira vez. Por essa razão, as cerâmicas chinesas no Japão são muito belas, ainda que tenham sido enterradas. Nesse sentido, não é exagero afirmar que o Japão preservou a maior parte da arte chinesa.
-
-Ademais, deve-se notar que, desde tempos imemoriais, o Japão possui suas próprias e primorosas obras de arte, das quais pode verdadeiramente se orgulhar perante o mundo. No entanto, até o final da Segunda Guerra Mundial, elas eram mantidas nos locais recônditos das residências de aristocratas e milionários, não sendo exibidas ao público. Tal fato se devia, em parte, à mentalidade exclusivista e conservadora da era feudal. Hoje, porém, isso representa apenas um anacronismo em nossa era democrática.
-
-Pode-se afirmar que a finalidade primordial dos objetos de arte reside em sua exposição ao maior número possível de pessoas, a fim de lhes proporcionar deleite e, de modo imperceptível, elevar a natureza humana. Sendo assim, o mais importante é romper com esse pensamento exclusivista e mostrá-las ao público. Por isso, há muito tempo desejava apresentar obras de arte de nível internacional aos estrangeiros e, ao mesmo tempo, ao público japonês, para que pudessem apreciá-las. Desejava também oferecer aos artistas, que não têm a oportunidade de contemplar a arte japonesa de suprema qualidade, um meio para o seu aprimoramento. Felizmente, muitos objetos estéticos que eram mantidos a sete chaves chegaram ao mercado na época da reforma nacional do pós-guerra, o que contribuiu imensamente para o enriquecimento deste museu.
-
-Este museu de arte foi inteiramente projetado por mim e, embora seja de pequena escala, fi-lo com a ideia de construir um modelo para os inúmeros museus que venham a ser estabelecidos no futuro, dentro e fora do país. Planejei também o jardim, dedicando atenção aos mínimos detalhes, desde cada árvore a cada planta. Naturalmente, por ter sido concebido por um amador como eu, o projeto pode apresentar falhas. Contudo, se puder de alguma forma servir como um bom modelo, dar-me-ei por satisfeito.
-
-Ademais, foi dedicada ampla consideração às circunstâncias, instalações e outros fatores, a fim de proteger estas obras-primas de ataques aéreos, incêndios e roubos que possam ocorrer no futuro. Portanto, meu projeto contribuirá também para a preservação dos tesouros nacionais.
-
-Como já foi explicado, não tenho outra intenção senão a de concretizar meu ideal de construir um país de beleza, um paraíso, que deve ser a verdadeira face do Japão. Planejo construir outros paraísos em miniatura, incluindo galerias de arte, em Atami e Quioto, num futuro próximo. O apoio dos senhores a este plano no futuro será imensamente apreciado.
 
 ---
 

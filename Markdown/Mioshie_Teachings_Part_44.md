@@ -1,9 +1,1067 @@
 # Mioshie_Teachings - Part 44
 
+# Relato sobre a Anciã Possuída por Espíritos-Raposa
+
+**Categoria:** ko | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
+**Título Original:** 狐霊と老婆 自観叢書第3編 | **Status:** Published | **Edição/Página:** P.40 | **Data ISO:** 1949-08-25
+
+## Relato sobre a Anciã Possuída por Espíritos-Raposa
+
+Gostaria de relatar um dos casos mais notáveis que já presenciei. Trata-se de uma senhora de pouco mais de cinquenta anos, que se encontrava sob a possessão de vinte a trinta espíritos-raposa. Tais espíritos a atormentavam incessantemente, valendo-se dos mais variados métodos. Por essa razão, eu a acolhi em minha residência para submetê-la a um tratamento espiritual. O processo estendeu-se por cerca de cinco ou seis meses, durante os quais, a anciã passou não apenas a compreender o que as raposas diziam, mas também a verbalizar, com sua própria boca, as palavras exatas proferidas por elas.
+
+Certo dia, a senhora me procurou aflita, dizendo:
+— Mestre, os espíritos-raposa me disseram: ‘Hoje mataremos esta velha. Prepare-se, pois vamos parar seu coração agora mesmo’. E então, sinto que eles entraram sob meu peito e estão a revirar meu coração. A dor é insuportável, o ar me falta e sinto que vou morrer a qualquer instante. Por favor, antes que seja tarde, chame minha família para que eu possa vê-los uma última vez.
+
+Eu também me alarmei e, sem demora, convoquei a família por telefone. O marido da senhora e outros cinco ou seis familiares a rodearam, e o que se seguiu foi uma comovente cena de despedida, como se a morte fosse iminente. Contudo, com o passar do tempo, a dor foi gradualmente diminuindo, e, após duas ou três horas, a mulher havia retornado completamente ao seu estado normal. Dessa forma, a família partiu aliviada, e eu me dei conta de que havia sido ludibriado de forma magistral. O episódio repetiu-se em mais duas ou três ocasiões, mas, já precavido pela experiência anterior, não me deixei mais enganar.
+
+Em outro entardecer, ela me informou:
+— Mestre, esta manhã os espíritos-raposa disseram: ‘Hoje vamos reter a urina desta velha’. E desde então, não consegui mais urinar.
+Imediatamente, apliquei uma emissão de energia espiritual na região de sua bexiga. Em pouco tempo, ela conseguiu urinar e voltou à normalidade.
+
+Em outra ocasião, queixou-se:
+— Ultimamente, durante as refeições, os espíritos dizem: ‘Não a deixaremos comer mais’. Nesse momento, sinto um bloqueio na altura do peito, e o alimento simplesmente não desce.
+— Então, coma comigo — sugeri.
+Sentamo-nos juntos à mesa. Enquanto comíamos, ela exclamou:
+— Eles estão dizendo para eu não comer! Ah, a comida não passa!
+Prontamente, infundi energia espiritual no arroz e direcionei a emissão para a região de seu esôfago. Imediatamente, ela conseguiu alimentar-se, e tal problema não voltou a ocorrer.
+
+Quando eu realizava o tratamento, ao apalpar com os dedos certos pontos de seu corpo, como a base do pescoço e as axilas, encontrava diversos nódulos, do tamanho de um grão de feijão. Ao pressionar cada um deles com a ponta dos dedos e projetar energia espiritual, revelava-se que cada nódulo era, na verdade, um espírito-raposa. A cada aplicação, os espíritos gritavam através da boca da anciã:
+— Ah, não! Fomos descobertos! Ai, que agonia! Que dor! Socorro! Já estou saindo! Já estou saindo!
+E, dessa maneira, um a um, eles se retiravam. Creio que o número total se aproximava de vinte ou trinta.
+
+Certa manhã, bem cedo, os familiares me despertaram, alertando-me para que tomasse cuidado, pois a anciã se aproximava pelo corredor em direção ao meu quarto com uma expressão transtornada. Levantei-me de um salto e a vi avançando lentamente em minha direção, com um olhar sinistro, mantendo uma das mãos para trás, como se ocultasse algo. Saltei em sua direção e agarrei a mão que ela escondia, descobrindo que empunhava um cachimbo de metal.
+— O que pretende fazer? — perguntei.
+— Vim para agredi-lo — respondeu ela.
+Amparando-a, conduzi-a de volta ao seu quarto e a fiz sentar-se. Passei então a projetar energia espiritual em sua fronte. Ao que parece, muitos espíritos-raposa ali se alojavam, pois começaram a gritar em uníssono:
+— Rápido! É o fim! Fujam, todos, fujam! Ah, é insuportável! Que dor! Que sofrimento!
+Contendo o riso diante da cena, continuei o tratamento por algumas dezenas de minutos, até que ela retornasse à sua condição habitual.
+
+Numa outra oportunidade, a senhora me interpelou:
+— Mestre, diga-me, eu ainda tenho cabeça?
+— Claro que sim, está bem aqui — respondi, tocando-lhe a cabeça.
+— É que os espíritos-raposa disseram que iriam dissolver a minha cabeça hoje, e não consigo deixar de me preocupar — explicou ela.
+A partir de então, ela passou a carregar um espelho de mão constantemente, no qual fitava sua própria imagem, apreensiva. Quando eu a questionava, dizia:
+— Tenho medo que eles a dissolvam, por isso não consigo largar o espelho.
+Por mais que eu lhe assegurasse da absurdidade da ideia, ela não se convencia, o que me deixava em uma situação delicada.
+
+Apesar da variedade de sintomas como os descritos, no restante do tempo, seu comportamento era perfeitamente normal; ela decerto não era uma doente mental. Por isso, eu costumava dizer-lhe: “A senhora é uma louca em pleno juízo.”
+
+Mas qual seria, então, a causa de tudo isso? Em uma vida anterior, essa senhora fora proprietária de uma casa de prostituição, onde explorava o trabalho de muitas jovens. A profissão dessas mulheres consistia em iludir os clientes, uma astúcia semelhante à da raposa. Por essa razão, ao partirem para o Mundo Espiritual, essas almas caíram no caminho da animalidade, transformando-se em espíritos-raposa. Como a causa de seu sofrimento residia na antiga patroa, elas, movidas pelo ressentimento, uniram-se para obsidiá-la e atormentá-la, executando assim a sua vingança.
+
+Nesse sentido, as profissões exercidas no mundo material determinam destinos correspondentes: as prostitutas, por exemplo, estão ligadas à raposa; as gueixas, ao gato. Portanto, é imperativo que o ser humano paute sua conduta por atos dignos, dos quais não precise se envergonhar.
+
+---
+
+# O Milagre do Despertar da Visão
+
+**Categoria:** ko | **Ano:** 昭和27(1952)年11月26日 | **Fonte:** Eikou
+**Título Original:** 此神力 | **Status:** Published | **Edição/Página:** 184号 | **Data ISO:** 1952-11-26
+
+## O Milagre do Despertar da Visão
+
+Eu costumo afirmar que Cristo se enquadra na posição de meu discípulo, o que, para aqueles que não são fiéis, pode soar como uma terrível presunção. Todavia, como um ser que se encontra em Deus, é-me impossível proferir a mais ínfima inverdade. A prova maior reside nos fatos que se manifestam diariamente em toda parte. Nesse sentido, ocorreu recentemente um milagre análogo aos de Cristo, conforme relatado a seguir, cuja leitura não deixará margem para dúvidas.
+
+Ademais, o protagonista deste milagre é um homem intelectual que, por longos anos, apesar das insistentes recomendações, recusou-se veementemente a aceitar nossa Fé. Contudo, como descrito em seu próprio relato, foi conduzido por uma força invisível que o inspirou a receber Johrei. O fato ocorreu na manhã do exato dia em que iniciaria um tratamento de um ano, já acordado com um oftalmologista. Fica evidente, portanto, a orientação de seus espíritos ancestrais. Consta que, ao apresentar o resultado a doze médicos, todos ficaram estupefatos, o que, para a mentalidade científica deles, certamente representou um estímulo demolidor. Por esse motivo, não consigo conter minha alegria.
+
+**O Despertar Místico da Visão — Cegueira Total Curada em Cinco Minutos de Johrei**
+
+Tóquio – Igreja Seifu-Naka
+Yoshī Kosaburō (52 anos), pintor
+
+Meu problema ocular iniciou-se no ano de 1949. Foram três anos confiando plenamente na medicina, seguidos por um ano de hiato, durante o qual, nutrindo dúvidas sobre uma ciência que não me trazia a cura, abandonei os tratamentos. A condição, porém, agravou-se novamente, culminando em cegueira total no final de agosto deste ano, completando uma longa e sombria jornada de quatro anos.
+
+Há quatro anos, quando me vi em estado de cegueira, uma pessoa de grande consideração indicou-me um eminente médico, e assim comecei a ser tratado pelo Doutor S. O diagnóstico foi “ceratite parenquimatosa de origem neuronal”, considerado um quadro bastante grave. O Doutor S. é uma autoridade de renome mundial em oftalmologia, e eu, confiante, entreguei a ele o restabelecimento da minha visão. Naturalmente, antes de procurá-lo, já havia esgotado todos os recursos disponíveis.
+
+Passaram-se um, dois, três anos… Fui um paciente perseverante em minhas idas ao hospital. O doutor, por sua vez, dedicou-se de corpo e alma ao meu caso. Mas qual foi o resultado? Embora eu tenha sido salvo da cegueira completa, minha visão não ia além da percepção turva de cores, incapaz de distinguir formas. E por mais que o tratamento prosseguisse, não havia avanço algum.
+
+Foi nesse ponto que comecei a questionar a medicina. Ou, para ser mais preciso, comecei a sentir uma certa indignação. Pensar que “após três anos, este é o resultado” me deixava desolado. Coincidindo com a necessidade de uma viagem ao exterior, aproveitei a oportunidade como pretexto para, de forma polida, interromper o tratamento com o Doutor S. por um ano inteiro.
+
+Na noite de 28 de agosto deste ano, meu olho, que normalmente não doía, foi acometido por uma dor súbita e lancinante. A dor aguda, como se o globo ocular fosse saltar da órbita, persistiu por dois dias e duas noites, resultando na perda total da minha visão. Tudo o que eu via era uma superfície branca e uniforme; minha pupila negra tornara-se esbranquiçada. Eu me encontrava na pior condição que já havia experimentado. A preocupação da minha família era imensa, e minha própria angústia era indescritível.
+
+Sem alternativa, procurei novamente o Doutor S. e pedi-lhe desculpas pelo ano de ausência. Suas palavras foram: “Como o senhor ficou um ano sem tratamento, a condição se agravou terrivelmente, resultando em cegueira total. Faremos o possível, mas para que o senhor volte a distinguir as cores, será necessário, no mínimo, mais um ano de tratamento. De todo modo, por favor, compareça à clínica duas vezes ao dia, pela manhã e à tarde, a partir de amanhã”.
+
+Estas foram as palavras do médico. Era o dia 1º de setembro, e minhas idas ao hospital recomeçariam no dia seguinte, 2 de setembro.
+
+Permitam-me agora fazer uma breve pausa nesta narrativa para relatar a sequência de eventos que me levaram a ter a visão restaurada graças à Sekaikyuseikyou.
+
+Desde sempre, tive grande interesse por tudo o que levasse o nome de religião, independentemente da denominação. Por isso, mergulhei em diversas crenças, esforçando-me para investigar a fundo e sanar todas as minhas dúvidas. Aos trinta e um anos, cheguei a ser chamado por Mahatma Gandhi, na Índia, de “um jovem de raciocínio insolente”. Eu era o tipo de pessoa que viajava até a Índia para debater, o que demonstra o quão obstinado eu era em minhas investigações religiosas. O resultado de toda essa pesquisa, no entanto, foi a conclusão de que nenhuma religião era digna de fé. A partir de então, tornei-me um homem que se recusava a dar ouvidos a qualquer discurso religioso.
+
+Consequentemente, embora tenha sido apresentado à Sekaikyuseikyou há mais de uma década, nunca lhe dei atenção, por considerá-la indigna de crédito. Esta é a minha sincera confissão.
+
+Entretanto, tenho como amigos o casal de pintores Arashi Chijū, que são fiéis devotos. Sempre que nos encontrávamos, eles me recomendavam a Fé, mas eu nunca me sentia inclinado a aceitar. É aqui, porém, que se revela o misterioso destino humano…
+
+Retornando à narrativa: na manhã do dia 2 de setembro, quando deveria iniciar minhas visitas ao hospital, meus pés, que saíram de casa com esse propósito, tomaram, sem qualquer comando consciente, o rumo da residência do senhor Arashi. E mais, em vez de usar o ônibus e o trem, como seria o habitual, fui caminhando. (Esqueci de mencionar que a cegueira era no olho esquerdo, e a visão do direito também não era perfeita).
+
+Ao me ver com o tapa-olho, a senhora Arashi disse: “Que situação difícil! Vou lhe ministrar Johrei imediatamente”. Em circunstâncias normais, minha reação teria sido: “Não, obrigado. Se esse tal Johrei, algo tão anticientífico, pudesse curar meu olho, eu não teria sofrido por quatro anos”. Eu teria rejeitado a oferta com uma única frase. Mas naquele dia, por algum motivo, meu coração encontrava-se extraordinariamente dócil.
+
+“Eu aceito, por favor.” Acredito que esta minha resposta foi a palavra de felicidade que me fez descobrir a religião verdadeiramente digna de fé, a fonte da alegria que me salvou por completo na Sekaikyuseikyou.
+
+Mesmo no momento em que juntei as mãos em oração diante do pergaminho sagrado de Daikomyo Nyorai (大光明如来) e da fotografia de Meishu-Sama (明主様の御写真) acima dele, minha mente estava livre de qualquer resistência ou dúvida. Era um estado natural de total entrega e confiança, um sentimento de “creio sem duvidar, entrego-me por inteiro”. Sentei-me para receber Johrei e fechei os olhos, mantendo as mãos em prece.
+
+Passaram-se cerca de cinco minutos. Às palavras da senhora A., “Pode abrir os olhos”, abri-os lentamente. Naquele instante, a maravilha de ver todas as coisas com clareza e brilho! Surpreso, fechei o olho direito e olhei apenas com o esquerdo, o que estava cego. Sem conter a emoção, gritei em júbilo incontido: “Senhora, eu vejo, eu vejo!”.
+
+Vejam: a pupila, que cinco minutos antes era uma superfície totalmente branca, transformara-se numa pupila escura e perfeita. A visão, que o Doutor S. afirmara que levaria um ano para talvez voltar a distinguir cores turvas, foi restaurada em apenas cinco minutos de Johrei. Uma realidade prodigiosa manifestou-se ali, de forma inequívoca. A senhora Arashi chorava, e eu também não conseguia conter as lágrimas de felicidade que escorriam pelo meu rosto. Diante do fato deste despertar místico da visão, que dúvida ou que palavra se pode interpor?
+
+Pela primeira vez, senti que tocava o grandioso coração de Meishu-Sama e encontrava uma religião verdadeiramente grandiosa. O ser humano vive em constante incerteza, sempre em busca de algo. Mas, num mundo onde nada parece digno de fé, é impossível escapar dessa confusão. Felizmente, através da recuperação da minha visão, encontrei na Sekaikyuseikyou um porto seguro, e minha alegria é infinita.
+
+A medicina despendeu longos 1.556.800 minutos e consumiu mais de cem mil ienes em despesas de tratamento, sem conseguir restaurar minha visão. O Johrei, por outro lado, em apenas cinco minutos e de forma gratuita, transformou meu olho branco em um olho sadio. Diante de tal fato, argumentos sobre o que é ou não científico perdem o sentido. Restam apenas as palavras: fé incondicional, crer sem duvidar. Este é o caminho da fé, esta é a própria fé.
+
+Não apenas o Japão do pós-guerra, mas provavelmente toda a humanidade sente hoje o crepúsculo do planeta. Poder-se-ia dizer que o homem moderno busca retornar à sua origem mais fundamental para decidir se deseja, acima de tudo, ser verdadeiramente humano. É nesse lugar essencial, o lugar da fé, que, ao encontrar uma religião na qual possa crer, ele finalmente emerge para um plano mais amplo, satisfazendo seu anseio de se realizar como ser humano.
+
+Nesse sentido, através da minha experiência, recomendo a todos que ainda não creem que busquem tocar o coração de Meishu-Sama. Assim como a origem do homem não ultrapassa o campo da especulação, é preciso acreditar que, na grande Natureza, existem fatos maravilhosos que não podem ser explicados pela medicina ou pela ciência. Aquele que aceita essa verdade já é uma pessoa feliz, a um passo da fé.
+
+Minha própria fé na Sekaikyuseikyou ainda é recente, e não tenho qualificações para discursar a seu respeito. No entanto, percebo que o tratamento de doenças, nesta Fé, é um aspecto secundário, um ramo, por assim dizer, um subproduto de seu espírito. A corrente principal parece ser a busca pela felicidade e pela boa orientação do ser humano. Presumo, portanto, que o Johrei tenha surgido como uma manifestação dessa origem.
+
+De toda forma, é algo maravilhoso e pelo qual sou imensamente grato. No espírito de “compartilhar a alegria”, relatei com o coração pleno de gratidão os pormenores da recuperação da minha visão. Para concluir este manuscrito, acrescento um epílogo.
+
+--- ○ ---
+
+Naquele dia, estava marcada uma reunião de estudos do Doutor S. com outras autoridades do mundo acadêmico. Havia doze médicos reunidos. E foi nesse encontro que eu entrei, com o frasco de colírio ainda por usar.
+
+“Doutor S., por favor, examine este olho.”
+
+O Doutor S. olhou para o meu olho e ficou perplexo.
+
+“Meu Deus! O branco de anteontem... está negro? O senhor consegue ver?”
+
+“Sim, vejo perfeitamente. O senhor disse que levaria um ano, mas ontem minha visão foi restaurada em cinco minutos.”
+
+Os médicos presentes ficaram igualmente atônitos. Meu caso de cegueira havia sido noticiado nos jornais *Asahi*, *Mainichi* e *Yomiuri*, e por isso todos eles o conheciam.
+
+“Isto é incrível, absolutamente incrível!”
+
+Da boca do Doutor S. e dos demais, só se ouvia a palavra “incrível”, repetidamente. Eu lhes expliquei o ocorrido e acrescentei: “Não vim aqui para lhes mostrar a cura com um sentido de ironia. Vim para que os senhores, que por tanto tempo se preocuparam comigo, pudessem se alegrar com a recuperação da minha visão. E, além disso, para que vissem este fato: a prova de que no Universo existe, de forma solene, uma força invisível, um poder divino que não se submete a nada.”
+
+“É a mais pura verdade”, disse o Doutor S., repetindo sua admiração. “O fato de o olho do senhor Yoshī ter sido curado em um único dia é, do ponto de vista médico, impossível.”
+
+Da boca de outros três médicos, ouvi as seguintes palavras:
+
+“Será que devemos abandonar nossos medicamentos e bisturis para nos tornarmos fiéis?”
+
+Poderia ser humor, mas talvez fosse uma voz pesarosa e sincera.
+
+(26 de outubro de 1952)
+
+---
+
+# O Caminho para a Felicidade
+
+**Categoria:** ko | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 幸福への道 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+
+## O Caminho para a Felicidade
+
+Certamente não existe um só ser humano que não almeje a felicidade. Com efeito, a felicidade constitui o maior anseio e o objetivo supremo da existência humana. Nesse sentido, a sua condição primordial, de uma clareza insofismável, é a ausência de doenças, tanto no indivíduo quanto no seio familiar.
+
+Todavia, no mundo como o conhecemos, não apenas tem sido impossível viver em um estado de saúde plena, como também paira sobre todos, mesmo sobre os que hoje se encontram sadios, a constante apreensão de que uma enfermidade possa surgir a qualquer momento e sob quaisquer circunstâncias. Ademais, uma vez acometido por um mal, é absolutamente imprevisível se a sua cura será simples ou árdua, o que intensifica essa angústia a um grau insuperável. Por tal motivo, é fato que nem mesmo as pessoas que desfrutam de circunstâncias favoráveis ou que alcançaram o sucesso conseguem imergir na verdadeira felicidade, pois vivem sob a sombra desse temor.
+
+Conforme já explanei reiteradamente, a raiz de toda a infelicidade reside na doença. A principal finalidade das economias é a preparação para o advento de uma enfermidade; os seguros de saúde e de vida existem pelo mesmo motivo. De igual modo, orfanatos, asilos, associações de auxílio mútuo e todas as demais obras sociais foram, em sua essência, instituídos em função desse mesmo problema.
+
+Portanto, por mais que uma nação implemente a mais ideal das políticas, a genuína felicidade de seu povo jamais será alcançada enquanto não se puder solucionar a questão das doenças humanas. Em verdade, a saúde é o alicerce da felicidade; quiçá, seria mais correto afirmar que ela é a própria felicidade em sua totalidade. Contudo, até o presente momento, jamais existiu uma arte médica ou um método capaz de oferecer uma solução fundamental para o flagelo das enfermidades.
+
+Não digo isso por jactância ou exagero. Conforme já mencionei, a Arte Médica Japonesa e o Método de Saúde por mim criados são capazes de libertar o ser humano da angústia gerada pelas doenças. Por essa razão, afirmo categoricamente: somente aquele que conhece a minha arte médica poderá, pela primeira vez, se tornar uma pessoa verdadeiramente feliz. O “Caminho para a Felicidade”, incessantemente almejado pela humanidade ao longo de milênios, acaba de ser desbravado.
+
+---
+
+# Um Alerta Importante aos Membros
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年12月19日 | **Fonte:** Eikou
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 135号 | **Data ISO:** 1951-12-19
+
+## Um Alerta Importante aos Membros
+
+Têm chegado ao nosso conhecimento, com crescente frequência, relatos de incidentes envolvendo indivíduos que, trajando roupas modestas e com aparência desgastada, se fazem passar por membros de nossa Igreja, ostentando um distintivo ao peito para simular sua condição.
+
+Valendo-se de informações como os endereços publicados nos testemunhos de fé das revistas “Eikou” e “Chijo Tengoku”, esses impostores visitam a residência dos fiéis. Para angariar a confiança de suas vítimas, discorrem com aparente familiaridade sobre assuntos internos da Igreja e mencionam nomes de outros membros, como se de fato os conhecessem. Uma vez estabelecida essa falsa credibilidade, apelam para a compaixão e solicitam auxílio financeiro ou bens materiais.
+
+Diante do exposto, rogamos a todos os nossos estimados fiéis que redobrem a vigilância e exerçam máxima prudência, a fim de não se tornarem vítimas de tais artimanhas e para que se evitem quaisquer transtornos decorrentes dessa modalidade de estelionato.
+
+---
+
+# A Inconveniência de se Abolir a Prostituição Pública
+
+**Categoria:** ko | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
+**Título Original:** 公娼廃止すべからず | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
+
+## A Inconveniência de se Abolir a Prostituição Pública
+
+A questão da abolição da prostituição, um problema social de longa data, parece agora adentrar sua fase de implementação. Todavia, considero tal medida um gravíssimo equívoco. A seguir, permito-me expor as razões que fundamentam meu parecer.
+
+Segundo um levantamento recente do Departamento de Segurança da Polícia Metropolitana, o número de mulheres envolvidas nessas atividades é expressivo: são 7.900 prostitutas legalizadas, 9.670 gueixas, 30.000 garçonetes e outras 4.000 que atuam na clandestinidade, como nos bairros de Tamanoi e Kameido, somando um contingente superior a 50.000 pessoas. É inevitável que, com a extinção da prostituição regulamentada, esse contingente venha a engrossar as fileiras da clandestinidade. Ora, se o policiamento dessa prática já se revela consideravelmente árduo no presente, um incremento tão significativo apenas tornará a fiscalização ainda mais impraticável.
+
+Em sua essência, a prostituição pública regulamentada é uma instituição peculiar ao nosso país, desenvolvida durante a Era Tokugawa. Embora não se constitua em uma solução ideal para suprir uma lacuna social, deve ser reconhecida como a política mais eficaz de que dispomos no momento. A primeira pergunta que se impõe diante da proliferação da prática clandestina é: como se poderá conter a disseminação de doenças venéreas?
+
+Ademais, consideremos o caso dos jovens. Atualmente, para frequentar os bairros de prostituição legal, restritos a áreas específicas e remotas, eles se deparam com o obstáculo do tempo e do custo, o que naturalmente os desestimula. Contudo, se as prostitutas se espalharem pela cidade, o acesso se tornará imediato e fácil, o que, por conseguinte, aumentará a frequência de tais encontros e, de forma inevitável, as oportunidades para que esses jovens se desviem para um caminho de perdição. Acrescente-se a isso o fato de que a maior visibilidade das prostitutas clandestinas aos olhos dos cidadãos comuns representa uma grave ameaça à moral e aos bons costumes.
+
+Apesar de tudo isso, os defensores da abolição, com sua mentalidade de imitação do Ocidente, insistem em um único argumento: o de que o sistema restringe a liberdade humana, sendo, portanto, uma prática avessa à cultura. Tal visão, todavia, revela uma surpreendente falta de conhecimento da realidade. Com efeito, não é raro que jovens ingênuas, especialmente as recém-chegadas do interior e desconhecedoras do mundo, sejam iludidas pelas palavras doces de indivíduos inescrupulosos. Após serem ludibriadas e usadas, acabam vendidas a bordéis clandestinos, um fato que, lamentavelmente, preenche com frequência as páginas policiais dos jornais.
+
+Uma vez nessas casas, a vigilância a que são submetidas é tão rigorosa que em nada se compara àquela dos estabelecimentos legalizados. O trágico cenário de mulheres que, mesmo atormentadas por doenças, são impossibilitadas de fugir, gerando dramas de profunda angústia, é uma realidade por demais evidente.
+
+Diante do exposto, não se encontra um único motivo plausível para a abolição da prostituição pública. A medida em questão é, na verdade, o resultado de um movimento obstinado e prolongado, promovido por aqueles que se deixam ofuscar por modismos ocidentais. Rogo, pois, que as autoridades abram os olhos para a realidade dos fatos e ajam com discernimento.
+
+Em vez da abolição, defendo o oposto: a ampliação do sistema de prostituição regulamentada. Dever-se-ia aumentar o número de distritos específicos em locais remotos, distantes dos centros urbanos, e, simultaneamente, extinguir os cafés que servem de fachada para essa prática, bem como os bordéis clandestinos. Estou convicto de que esta é a política social que trará os resultados mais benéficos para a nossa sociedade.
+
+---
+
+# A Insensibilidade Diante do Milagre
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年4月29日 | **Fonte:** Eikou
+**Título Original:** 効果不感症 | **Status:** Published | **Edição/Página:** 206号 | **Data ISO:** 1953-04-29
+
+## A Insensibilidade Diante do Milagre
+
+O relato de graça que se segue descreve um milagre no qual uma caverna pulmonar do tamanho de um ovo, característica da tuberculose, diminuiu em três meses, acompanhado de um ganho de peso superior a cinco quilos e meio. O médico que assistia o paciente ficou assombrado com tal fato e, ao ser indagado sobre a causa da melhora, o fiel explicou ter se recuperado por meio de nossa Fé. Diante disso, o profissional reagiu apenas com um sorriso de escárnio, encerrando o assunto.
+
+Como sempre, considero tal reação verdadeiramente incompreensível. Afinal, do ponto de vista da própria medicina, este acontecimento representa uma questão de enorme relevância. Ademais, os médicos sabem perfeitamente que a tuberculose constitui, hoje, um dos maiores flagelos do Japão. Portanto, se este fato oferece um fio de esperança para a solução desse grave problema, não seria seu dever investigar o assunto com a máxima prioridade e sem demora? A completa ausência de tal iniciativa é tão inexplicável que nos leva a questionar a própria capacidade de raciocínio desses profissionais.
+
+Cada vez que tomamos conhecimento de casos como este, não podemos deixar de duvidar da consciência dos médicos e, ao mesmo tempo, somos tomados por uma profunda indignação. Permanecer insensível diante de um milagre tão assombroso é, a meu ver, uma atitude análoga à de um autômato.
+
+***
+
+**A Súbita Redução da Caverna Pulmonar**
+Província de Kyoto, Igreja Go-san-naka
+Sugano Takeo (39 anos)
+
+Meishu-Sama, apresento minha mais profunda gratidão pela Vossa constante e imensurável Proteção Divina.
+
+Em 3 de setembro de 1952, submeti-me a um exame de saúde no Hospital Kyosai de Maizuru. A radiografia revelou tuberculose, com uma caverna do tamanho de um ovo no pulmão direito. Foi-me dito: “Seu pulmão não é adequado para um pneumotórax, o senhor deve ser internado em um sanatório”. Contudo, eu não conseguia me conformar com a ideia da internação. Tomei os medicamentos prescritos por cerca de dez dias, mas, ciente de que ainda não existia um remédio verdadeiramente eficaz para a tuberculose, acabei por interromper o tratamento.
+
+Posteriormente, a Sra. Yoshiko Takahashi, uma conhecida, visitou-me e ministrou-me Johrei, falando-me longamente sobre este maravilhoso Caminho. Após receber Johrei pela terceira vez, ela sugeriu: “Por que o senhor não visita a nossa Igreja e ouve os ensinamentos do ministro?”. Atendendo ao convite, no final de setembro, dirigi-me à Igreja de Higashi-Maizuru, onde tive a honra de ouvir as valiosas palavras do ministro Kazukichi Goto e de também receber Johrei. As palavras do ministro responsável, “Com certeza, o senhor será curado”, aliadas à leitura dos Escritos Divinos, fizeram renascer em mim a esperança.
+
+A cada visita à Igreja, minha admiração crescia ao aprender sobre o sublime significado da purificação, a terrível natureza do yakudoku (薬毒), a grandiosa virtude espiritual de Meishu-Sama e o Plano Divino para a construção do Paraíso na Terra. Tudo o que eu ouvia era uma revelação, e senti como se um caminho de luz se abrisse diante de mim. Assim, em 8 de outubro, tive a permissão de ingressar na Fé, recebendo, com a máxima reverência, a sagrada Medalha da Luz Divina.
+
+Logo no dia seguinte, 9 de outubro, recebi uma purificação com febre. A Sra. Takahashi gentilmente veio à minha casa à noite para ministrar-me Johrei, o que me permitiu dormir tranquilamente. No dia 10, fui à Igreja e, após receber Johrei do ministro Goto, a sensação de peso na cabeça desapareceu por completo. No dia 11, foi minha esposa quem recebeu uma purificação, com a febre ultrapassando os 39 graus. A Sra. Takahashi novamente nos assistiu com Johrei e eu também lhe ministrei, fazendo com que a febre cedesse gradualmente e ela se sentisse melhor. Em 15 de outubro, minha esposa, Kinu, também teve a honra de ser outorgada na Fé.
+
+No dia 3 de novembro, minha cunhada, que nos visitava, sentiu uma dor abdominal súbita no momento de ir embora. Minha esposa e eu lhe ministramos Johrei e, em cerca de vinte minutos, a dor cessou completamente, permitindo que ela partisse feliz. Nesse mesmo dia, enquanto eu estava ausente, nosso segundo filho, Tsugio, também passou por uma purificação com febre, que ultrapassou os 40 graus. A Sra. Takahashi veio nos auxiliar, e nós também lhe ministramos Johrei. Em três dias, a febre intensa havia baixado.
+
+Em 5 de dezembro, tivemos a permissão de entronizar o Altar Sagrado em nosso lar e, em 12 de fevereiro do ano seguinte, a Imagem da Kannon (観音) de Biombo. A Luz de Meishu-Sama passou a preencher nossa casa, e fomos abençoados com a alegria de poder reverenciá-Lo pela manhã e à noite.
+
+Após minha outorga, sob a orientação do responsável da Igreja e do ministro, comecei a servir na ministração de Johrei a diversas pessoas. Cada vez que alguém se recupera e me agradece com alegria, minha gratidão pelo imenso Poder Divino de Meishu-Sama se renova, e me esforço para que o maior número possível de pessoas possa se amparar nesta glória.
+
+No mesmo dia em que entronizamos o Altar Sagrado, retornei ao Hospital Kyosai para obter um atestado médico para meu trabalho. Era meu primeiro exame em três meses. O médico ficou surpreso ao constatar que meu peso havia aumentado em mais de cinco quilos e meio e que a radiografia mostrava a diminuição da caverna do tamanho de um ovo. Ele me perguntou: “O que o senhor andou fazendo?”. Respondi: “Estou recebendo Johrei na Kyuseikyo”. O médico apenas sorriu, mas não manifestou forte oposição.
+
+Hoje, sinto-me cada vez melhor, e toda a minha família vive seus dias com saúde, sob a Proteção Divina. Mesmo sendo eu um membro de pouca fé, recebi inúmeras graças como as que relatei. Desejo, com minhas parcas forças, colaborar para conduzir o maior número de pessoas a este caminho de felicidade. Rogo para que, daqui em diante, eu possa continuar a receber Vossa proteção e me dedicar à Obra Divina, e aproveito para expressar, do fundo do meu coração, meus mais sinceros agradecimentos.
+
+Muito obrigado, Meishu-Sama.
+
+(17 de janeiro de 1953)
+
+---
+
+# A Cultura que Edifica a Felicidade
+
+**Categoria:** ko | **Ano:** 昭和27(1952)年3月26日 | **Fonte:** Eikou
+**Título Original:** 幸福を生む文化 | **Status:** Published | **Edição/Página:** 149号 | **Data ISO:** 1952-03-26
+
+## A Cultura que Edifica a Felicidade
+
+Conforme sempre afirmo, é insofismável que o anseio primordial do ser humano se resume, em uma única palavra, à felicidade. Movida por esse objetivo, a humanidade empreendeu esforços incessantes ao longo de milênios, culminando na edificação da esplendorosa cultura material que hoje presenciamos. Sob uma perspectiva puramente materialista, poder-se-ia dizer que o sucesso foi alcançado conforme o previsto. Contudo, ao observarmos o homem contemporâneo, quantos poderão afirmar convictamente: "Eu sou verdadeiramente feliz"? Arrisco dizer que dificilmente encontraríamos um em cada cem.
+
+Basta olhar ao redor: o terror da guerra, o pavor da doença e o flagelo da pobreza. Não é porventura a condição habitual da humanidade ser incessantemente assediada por esses três grandes sofrimentos? Diante de tal quadro, a realidade atual está longe de ser feliz. O desejo máximo que todos nutrem, em última análise, é o de poder viver em um mundo que ofereça um pouco mais de paz e segurança.
+
+A missão de nossa Igreja é, precisamente, promover a transição deste mundo para um mundo verdadeiramente feliz. E por haver uma possibilidade real de que tal objetivo se concretize, trata-se de uma salvação sem precedentes na história. Para tanto, é imprescindível, antes de tudo, apontar os equívocos da cultura vigente e ensinar o caminho correto. Uma cultura que se contenta em polir a superfície, valorizando apenas a forma, é insuficiente. É imperativo que o conteúdo também se torne igualmente bom.
+
+Em outras palavras, em uma sociedade desprovida de veracidade, onde o engano é a norma e pululam pessoas de má índole que se disfarçam de benfeitores, a felicidade é simplesmente inatingível. Para ser ainda mais claro, a representação fidedigna do mundo atual seria a de uma proporção de sete partes de mal para três de bem. Essas três partes correspondem, evidentemente, à justiça e ao amor; todavia, em uma disputa de sete contra três, a derrota do bem é uma consequência natural. Com efeito, o mal se tornou excessivamente dominante, subjugando o bem. Esse é o panorama atual. Por conseguinte, infortúnios e calamidades são gerados sucessivamente, transformando a existência em um verdadeiro purgatório de sofrimentos.
+
+Neste ponto, porém, cumpre-nos refletir sobre um aspecto crucial: existe um tipo de mal cujo discernimento não é imediato. Isso ocorre porque o mal contemporâneo tornou-se intelectualizado. Não são poucos os que, astutamente, vestem a máscara do bem para fortalecer suas ações nefastas. Todavia, ainda mais problemáticos são aqueles que, convictos de praticar o bem, dedicam-se com afinco a uma causa que, em sua essência, é maléfica.
+
+O primeiro exemplo se encontra naqueles que buscam solucionar o maior tormento humano, a doença. Refiro-me não apenas aos acadêmicos que arriscam a própria vida em suas pesquisas, mas a todos os profissionais da medicina no mundo. Acreditando sinceramente estarem praticando o bem para ajudar o próximo, na realidade, praticam o mal, e ninguém parece se dar conta disso. Trata-se de um ponto sobre o qual venho alertando constantemente. Temos também a vasta maioria dos agricultores, que creem ser benéfico o uso de fertilizantes artificiais, sem perceber que, na verdade, tal prática resulta em colheitas inferiores. E, por fim, há os numerosos indivíduos que, imbuídos do ideal comunista, lutam e sacrificam tudo na crença de que proporcionarão a máxima felicidade à grande massa das classes mais baixas.
+
+Analisando pelos resultados, todas as pessoas mencionadas agem por ignorância, praticando o mal com a convicção de que fazem o bem. Justamente por isso, o fervor com que se dedicam às suas causas é notável, tornando suas ações extremamente eficazes em seus propósitos errôneos. Ao examinarmos a fundo essas diversas causas, torna-se evidente a necessidade de uma sabedoria capaz de enxergar a verdade subjacente e de discernir com clareza o certo do errado, o bem do mal. A razão para tal confusão é que, mesmo sendo errôneos, certos conceitos — como as teorias médicas — se cristalizaram ao longo de séculos, tornaram-se tradição e acabaram por se transformar em meras superstições.
+
+Por que, então, a verdade não foi descoberta antes? A resposta é simples: porque o tempo ainda não havia chegado. O tempo é, de fato, o soberano absoluto de todas as coisas. Foi nesse contexto que Deus me escolheu, revelando-me a totalidade dos equívocos humanos e concedendo-me não apenas a sabedoria, mas a Sabedoria Divina. Por essa razão, sou capaz de compreender aquilo que a mera sabedoria humana não consegue alcançar.
+
+Neste momento, devo acrescentar mais um ponto: quando me refiro à chegada do tempo, quero dizer que a força das sete partes de mal, que prevaleceu até hoje, começará a se dissipar gradualmente. Em contrapartida, a força das três partes de bem se expandirá, tornando-se quatro, depois cinco, até alcançar a totalidade de sete. Isso corresponde ao que sempre apregoo: a Noite está terminando e o Dia está prestes a nascer. Aquele que compreende essa verdade, de fato, conquistou o caminho para a felicidade genuína.
+
+---
+
+# Apelo em Defesa da Verdade e do Progresso da Civilização
+
+**Categoria:** ko | **Ano:** 昭和22(1947)年 | **Fonte:** 未定稿、昭和
+**Título Original:** 抗議文 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1947
+
+## Apelo em Defesa da Verdade e do Progresso da Civilização
+
+Ao tomar conhecimento do resultado da censura imposta à minha humilde obra, “O Evangelho do Céu”, verifiquei que seus trechos de máxima importância foram quase que integralmente suprimidos, o que me causou profunda perplexidade. Nesse sentido, venho solicitar uma reavaliação, rogando-lhes que reconheçam plenamente o potencial deste livro para contribuir com o bem-estar da humanidade e que, por conseguinte, concedam sua total autorização para a publicação. A seguir, passarei a expor detalhadamente as razões que fundamentam meu pleito.
+
+Primeiramente, a teoria que apresento, e que constitui a espinha dorsal desta obra, contraria, em sua essência, os preceitos da medicina moderna, como V. Sas. certamente já compreenderam. Ora, o progresso da civilização, como a História tantas vezes demonstrou, emerge da negação da cultura preexistente. Portanto, quanto mais uma nova corrente se afasta dos paradigmas estabelecidos, maior é o seu grau de avanço. Seguindo esse raciocínio, é inevitável que minha tese seja vista como herética ou paradoxal quando analisada sob a ótica da medicina convencional.
+
+Contudo, a Verdade possui uma força vital eterna. Se minha tese for exposta ao mundo e não for verídica, seu desaparecimento natural será seu destino inevitável; ao passo que, se for a Verdade, o bem-estar que trará à humanidade será incomensurável. Nesse sentido, a atitude de considerar a medicina estabelecida como uma verdade absoluta e de buscar suprimir tudo o que não se enquadra em seus moldes constitui, inevitavelmente, um ato contrário à cultura, que oprime o avanço do conhecimento.
+
+Nós, japoneses, gememos por um longo período sob os grilhões do feudalismo e, vitimados pela incompreensão das autoridades, víamo-nos impossibilitados de nos expressar. Contudo, como resultado da derrota na guerra, foi-nos concedida por Vossa nação a liberdade de expressão e de imprensa sob a égide da democracia. Não há palavras para descrever nosso sentimento de renascimento, o júbilo que nos inflamou e a profunda gratidão que sentimos pela benevolência de Vossa nação. Com isso, passamos a compreender de forma contundente que o espírito cristão e humanitário de Vossa nação, aliado ao liberalismo que garante a livre manifestação do pensamento, são os fatores primordiais que alicerçaram o grandioso progresso e desenvolvimento de que desfrutam hoje.
+
+A nova medicina por mim descoberta demonstra um avanço e uma excelência incomparáveis em relação à medicina convencional, tanto em sua patologia quanto em seus resultados práticos. A realidade de que inúmeros enfermos estão sendo salvos no presente momento é um testemunho eloquente desse fato. Meu anseio não se restringe apenas ao povo japonês; desejo sinceramente erradicar as enfermidades de toda a humanidade e, assim, contribuir para a construção de um mundo de paz, formado por indivíduos sadios de corpo e alma. Garanto-lhes que não há em mim a menor intenção egoísta ou ambiciosa.
+
+Diante do exposto, rogo encarecidamente que se deem ao trabalho de reavaliar esta obra, lendo-a com a devida atenção, e que finalmente concedam a sua aprovação. É o que anelo fervorosamente, em nome da salvação de toda a humanidade.
+
+(1947)
+
+---
+
+# O Despertar das Autoridades para uma Nova Medicina
+
+**Categoria:** ko | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 此事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## O Despertar das Autoridades para uma Nova Medicina
+
+Desejo discorrer sobre a maneira pela qual esta Arte Médica tem contribuído para a nação em tempos tão significativos. Embora eu não me dedique diretamente aos tratamentos na atualidade, meus numerosos discípulos, tanto terapeutas quanto membros em geral, empenham-se com afinco e devoção na nobre missão de curar e servir à pátria.
+
+São, de fato, inumeráveis os casos de pessoas que, desenganadas por grandes hospitais e sumidades da medicina, viram-se à beira da morte, para em seguida imergirem na alegria de uma recuperação milagrosa por meio desta Arte. Da mesma forma, indivíduos que se resignaram a uma vida de sofrimento com enfermidades crônicas consideradas incuráveis ou com deficiências físicas foram restituídos à plenitude de sua saúde. Temos ainda o testemunho de pais que, mergulhados no mais profundo desespero pela iminente perda de um filho, não apenas o veem salvo em curto espaço de tempo, como também celebram a alegria de serem abençoados com o nascimento de outros.
+
+Nesta conjuntura de extrema gravidade, nutro o mais ardente desejo de retribuir, ainda que minimamente, o incomensurável favor imperial. Como uma manifestação concreta desse anseio, apresento alguns fatos. Inúmeros são os militares das Forças Armadas — oficiais de alta patente, comandantes e tenentes —, bem como os veteranos de guerra que, sofrendo de doenças graves e complexas, foram completamente curados, juntamente com seus familiares. Graças a isso, puderam retornar às suas funções com tranquilidade e total dedicação. O mesmo se aplica a ministros de Estado, personalidades de nível ministerial, diretores e engenheiros de indústrias estratégicas, operários e tantos outros indivíduos que ocupam posições cruciais nos mais diversos setores da sociedade. O número de pessoas que recuperaram ou estão em processo de recuperar a saúde por meio desta terapia é simplesmente incontável.
+
+Em outras palavras, poderíamos afirmar que esta Arte Médica está, na prática, "gerando" novos pilares para a nação. Afinal, caso não tivessem conhecido esta Arte e não tivessem tido a oportunidade de receber o tratamento, muitos deles teriam, sem dúvida, perdido a vida. Certamente, trazer novas crianças ao mundo é fundamental; todavia, não há como negar a importância ainda maior de "gerar" adultos já formados e atuantes, que são a força motriz do país neste momento decisivo. Creio, com toda a convicção, que não existe assunto mais urgente e vital para a época conturbada que vivemos do que o pronto reconhecimento deste fato pelas autoridades competentes.
+
+Contudo, a realidade é que as autoridades vêm exercendo uma pressão extrema sobre as terapias alternativas, um fato que considero profundamente lamentável. Tal atitude, presumo, deriva do completo desconhecimento acerca dos resultados concretos que acabo de expor. Naturalmente, compreendo que, estando o sistema de saúde vigente estruturado sobre leis fundamentadas na medicina ocidental, as terapias alternativas sejam relegadas a uma posição secundária. O que ocorre, no entanto, é que a legislação que coíbe a obstrução da prática médica é frequentemente utilizada como um pretexto para vigiar minuciosamente o menor deslize e aplicar sanções severas. Como resultado, os terapeutas vivem em um estado de constante apreensão. Ah, que ironia! A despeito de todos os benefícios que proporcionamos à nação, somos tratados com tamanho desfavorecimento. Onde reside a culpa? Eis uma questão que submeto à reflexão dos homens de discernimento. Diante desse quadro, sinto com veemência a necessidade de, por todos os meios, despertar a consciência das autoridades para esta realidade.
+
+Ao abandonarmos as concepções egoístas e limitadas e adotarmos uma perspectiva ampla, voltada para o bem maior, torna-se claro o caminho a seguir. Creio que tanto as autoridades quanto os próprios médicos deveriam se dispor a experimentar os efeitos desta terapia, assim como os das demais práticas alternativas. Quanto mais cedo o fizerem, maiores serão os benefícios para a nação. Disso, não tenho a menor dúvida.
+
+---
+
+# A Verdadeira Eficácia na Cura
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年1月28日 | **Fonte:** Eikou
+**Título Original:** 効果の言葉 ・医学断片集（28） | **Status:** Published | **Edição/Página:** 193号 | **Data ISO:** 1953-01-28
+
+## A Verdadeira Eficácia na Cura
+
+Frequentemente, os médicos afirmam que determinado medicamento ou terapia possui eficácia. Todavia, percebe-se que tal termo designa, na verdade, apenas um alívio temporário do sofrimento.
+
+Nesse sentido, o que seria a verdadeira eficácia? Em poucas palavras, a única afirmação que ressoa com vigor e proporciona autêntica paz de espírito é a que assegura: “Com este tratamento, a cura é certa”.
+
+Essa seria, sem dúvida, a forma correta e convicta de se expressar. Lamentavelmente, a medicina ainda não alcançou o progresso necessário para proferir tais palavras, o que é inevitável. Ainda assim, ouso apresentar esta reflexão à classe médica.
+
+---
+
+# O Caminho para a Felicidade
+
+**Categoria:** ko | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 幸福への道 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## O Caminho para a Felicidade
+
+Certamente, não há um único ser humano que não almeje a felicidade, pois ela representa o maior anseio e, quiçá, o objetivo final da existência. Nesse sentido, a condição primordial para a felicidade, de maneira por demais evidente, é desfrutar de uma vida sem doenças e pertencer a um lar onde não haja enfermos. Contudo, no mundo como o conhecemos até hoje, não apenas é impossível manter-se completamente livre das enfermidades, como também subsiste em cada indivíduo a apreensão de que, mesmo gozando de saúde, alguma doença possa surgir a qualquer momento. Ademais, caso alguém venha a adoecer, a completa impossibilidade de prever se a cura será rápida ou, ao contrário, árdua, intensifica sobremaneira essa angústia. É por essa razão que, na verdade, mesmo as pessoas que se encontram em circunstâncias favoráveis ou que alcançaram o sucesso não conseguem imergir na verdadeira felicidade, pois vivem sob a constante ameaça da doença.
+
+Conforme explanei reiteradas vezes, a raiz de toda a infelicidade reside na doença. A maior parte das economias que se acumulam destina-se a amparar o indivíduo no momento do adoecimento, e com o mesmo propósito foram criados os seguros de saúde e de vida. Orfanatos, asilos, associações de auxílio mútuo e todas as demais obras de assistência social existem, em última análise, pela mesma razão.
+
+Portanto, por mais que uma nação implemente uma política ideal, enquanto não for capaz de solucionar o problema das enfermidades humanas, a genuína felicidade de seus cidadãos permanecerá inalcançável. Em verdade, a saúde constitui o alicerce da felicidade; poder-se-ia dizer, inclusive, que ela é a própria felicidade em sua totalidade. Todavia, até os dias de hoje, não existiu nenhuma arte médica ou método capaz de oferecer uma solução fundamental para o flagelo da doença.
+
+Não digo isso por presunção ou jactância. Conforme já mencionei, por meio da Arte de Cura Japonesa e do Método de Saúde por mim criados, é possível libertar completamente o ser humano da apreensão causada pelas doenças. Por conseguinte, afirmo categoricamente que somente aqueles que conhecem a minha arte de cura podem se tornar pessoas verdadeiramente felizes. O “Caminho para a Felicidade”, incessantemente almejado pela humanidade ao longo de milênios, já foi desbravado.
+
+---
+
+# A Verdade sobre os Espíritos de Raposa
+
+**Categoria:** ko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 狐霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+
+## A Verdade sobre os Espíritos de Raposa
+
+É digna de nota a proeminente atuação dos espíritos de raposa no Mundo Espiritual japonês. Esses espíritos sentem-se particularmente atraídos por determinada seita budista, pois, segundo um deles chegou a confessar, a audição de seus sutras lhes intensifica os poderes sobrenaturais. Por sua vez, os praticantes dessa mesma seita costumam utilizar-se de tais espíritos para obterem aparentes milagres. Realizam curas de doenças e adivinhações, mas as curas restringem-se a certas enfermidades. Isso ocorre porque o espírito de raposa só consegue expulsar o espírito causador do mal quando este lhe é hierarquicamente inferior. Contudo, uma vez efetuada a cura, o espírito de raposa reluta em afastar-se. Sua intenção é explorar o benefício concedido para manipular a pessoa em prol de seus próprios interesses, que consistem em ser reverenciado e cultuado. Em sua maioria, trata-se de espíritos de raposas-selvagens, ou *yako* (野狐), que anseiam por ascender à condição de *Inari*; por essa razão, empenham-se tanto na cura de doenças.
+
+A prerrogativa mais nefasta dos espíritos de raposa é a de induzir os seres humanos à insanidade mental. Conforme elucidei anteriormente, não há dúvida de que lhes é sumamente aprazível manipular livremente os seres humanos, que são a coroa da Criação. É comum que certos praticantes espirituais façam adivinhações com espantosa precisão, e o mecanismo para tal é o seguinte: quando um consulente se senta diante do praticante, o espírito de raposa a seu serviço encosta na pessoa e penetra em sua mente. Ali, investiga suas intenções, memórias e anseios para, em seguida, encostar no praticante e transmitir-lhe todas as informações. É por isso que o praticante consegue afirmar: "O senhor está pensando em tal e qual coisa, não é mesmo?" ou "Aconteceu-lhe isto e aquilo, não foi?". Diante de tais revelações, o consulente passa a acreditar que está diante de um deus vivo. Ademais, o praticante pode vaticinar: "Em tal época, ocorrerá determinado evento em sua vida, portanto, tenha cautela". Chegado o momento, o acontecimento se concretiza exatamente como previsto, o que assombra a pessoa e a converte em um fiel seguidor. O artifício consiste em, no ato da profecia, o espírito de raposa encostar-se permanentemente ao consulente. Desse modo, o espírito aguarda o tempo oportuno para orquestrar os eventos e fazer com que a predição se cumpra. Existem indivíduos que, por meio desse estratagema, alcançaram grande sucesso e são venerados como deuses vivos. Uma célebre senhora de determinada cidade, cujo nome não mencionarei, é um exemplo notório dessa categoria.
+
+Os espíritos de raposa dividem-se em duas categorias: as raposas de *Inari* e as raposas-selvagens. As primeiras são reverenciadas como *Inari Daimyōjin* e algumas, possuindo numerosos séquitos, podem ser consideradas verdadeiras soberanas no mundo dos espíritos de raposa. Os santuários *Inari* mais famosos, espalhados por todo o país, são dedicados a elas. As raposas-selvagens, por sua vez, assemelham-se a desempregados e vagabundos no mundo humano. Daí, possivelmente, a origem de expressões que denotam algo rústico ou não ortodoxo. Consequentemente, padecem com a falta de alimento e moradia e não gozam de prestígio entre seus pares. Por isso, almejam ardentemente ser cultuadas como *Inari* ou tornar-se servas de uma dessas divindades. São elas, as raposas-selvagens, que na maioria das vezes causam malefícios aos seres humanos. Quanto mais idoso um espírito de raposa, mais intenso é o seu poder sobrenatural; as principais divindades dos célebres santuários *Inari Daimyōjin* são, em geral, entidades com milhares de anos de existência. Existem também espíritos de raposa de boa índole, que se assimilaram aos seres humanos, protegendo seus descendentes ou servindo à divindade guardiã da terra, o *ubusunagami*. Todavia, caso se enfureçam por alguma negligência humana, podem infligir grandes sofrimentos. As raposas mais antigas são de cor branca, e é sobre uma delas que o *ubusunagami* cavalga em seus deslocamentos.
+
+Aproveito a oportunidade para elucidar brevemente a origem do culto a *Inari*. Conforme reza a lenda, em tempos remotos, a Grande Deusa Amaterasu Sume Oomikami (天照皇大御神), desejando transformar a terra de Toyoashihara no Mizuho no Kuni (豊葦原瑞穂国) em um país de farta colheita, ordenou à divindade Toyouke Myoujin (豊受明神) que distribuísse mudas de arroz por todas as planícies. Para cumprir essa missão, Toyouke Myoujin se valeu de inúmeras raposas, que semearam os grãos de arroz por todas as regiões. Daí a origem do nome *Inari* (稲荷), que significa "carregar arroz". Existe ainda outra teoria, segundo a qual a palavra derivaria de *iinari* (飯成り), ou seja, "fazer o arroz brotar". Em reconhecimento a esse grandioso feito, as raposas foram consagradas como divindades em diversas localidades. Portanto, a natureza original do culto a *Inari* consiste na gratidão e nas preces dos agricultores por uma colheita abundante. Com o tempo, todavia, essa fé se desvirtuou e o culto a *Inari* degenerou, tornando-se alvo de preces egoísticas, voltadas para interesses que em nada se relacionam à agricultura, como a prosperidade nos negócios ou o sucesso no mundo do entretenimento e da noite.
+
+---
+
+# Sobre as Interpretações Forçadas
+
+**Categoria:** ko | **Ano:** 昭和10(1935)年8月16日 | **Fonte:** Toho no Hikari
+**Título Original:** コジツケ 阿呆文学 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1935-08-16
+
+## Sobre as Interpretações Forçadas
+
+Certa vez, uma pessoa indagou ao Néscio sobre o significado literal dos ideogramas que compõem o nome Kanzeon (観世音). Desejava saber se era fidedigna a antiga interpretação dos monges budistas, segundo a qual o termo significaria “contemplar os sons do mundo”, ou seja, “ver o som”.
+
+Diante disso, o Néscio assim lhe respondeu: “Basta observar a imagem de Kannon (観音) para constatar que Ela possui ouvidos perfeitamente formados. Como não é surda, Ela escuta com os ouvidos e, com os olhos, contempla todas as coisas. Nesse sentido, em nada difere dos seres humanos.
+
+Portanto, a afirmação de que Ela ‘vê o som’ não passa de uma interpretação forçada, concebida por aqueles que, por não compreenderem a verdade, não encontraram outra saída”. Foi essa a resposta que lhe ofereci.
+
+---
+
+# A Contribuição da Terapêutica Divina para a Nação
+
+**Categoria:** ko | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 此事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## A Contribuição da Terapêutica Divina para a Nação
+
+Desejo expor, neste artigo, a notável contribuição que esta terapêutica divina vem oferecendo à nação. Embora eu não me dedique diretamente à prática clínica na atualidade, é digno de nota o empenho com que meus discípulos, tanto terapeutas quanto leigos, se devotam em diversas frentes à nobre causa de curar para servir à pátria.
+
+São inúmeros os casos de pessoas que, desenganadas pelos grandes hospitais e por médicos de renome, já se encontravam à beira da morte e, por meio desta terapêutica, experimentaram a alegria de uma verdadeira ressurreição. Do mesmo modo, portadores de enfermidades crônicas, tidas como incuráveis, e indivíduos com deficiências físicas foram restituídos a uma vida plena. Pais que, mergulhados no mais profundo desespero pela iminente perda de seus filhos, viram-nos salvos em curto espaço de tempo, celebrando o milagre de uma nova oportunidade. Na verdade, os exemplos dessa natureza são tantos que seria impossível enumerá-los.
+
+Movido por um anseio profundo de retribuir, ainda que minimamente, a magnânima benevolência Imperial, sinto-me compelido a descrever uma das facetas dessa contribuição. Militares de alta patente das forças armadas — generais, oficiais superiores e subalternos —, bem como veteranos de guerra com ferimentos graves, têm tido não apenas suas próprias doenças, por mais complexas que sejam, completamente curadas, mas também as de seus familiares, o que lhes permite devotar-se com tranquilidade às suas missões. O mesmo ocorre com ministros de Estado, autoridades de escalão ministerial, seus familiares, diretores e engenheiros de indústrias estratégicas, operários da frente de produção e inúmeras outras personalidades que atuam em setores vitais da sociedade. São incontáveis os que, por meio deste tratamento, recuperaram ou estão em processo de recuperar a saúde.
+
+Em outras palavras, pode-se afirmar que esta terapêutica está, efetivamente, "gerando" novos quadros de liderança para o país. Afinal, se essas pessoas não tivessem tido a oportunidade de conhecer e receber este tratamento, certamente teriam perdido a vida. Embora o nascimento de uma criança seja, sem dúvida, de grande importância, a capacidade de "gerar" adultos que já se encontram a serviço da nação neste momento crítico é, decerto, uma questão cuja relevância dispensa maiores comentários. Estou convicto de que não há, na presente e tensa conjuntura, nada mais crucial do que o reconhecimento deste fato pelas autoridades, e o quanto antes.
+
+Contudo, a realidade que se impõe é diametralmente oposta. As autoridades governamentais exercem, no presente, uma pressão extrema sobre as terapias populares, um fato que considero da mais profunda lamentação. Tal atitude, creio eu, origina-se unicamente do desconhecimento acerca dos resultados práticos que descrevi. É sabido que o sistema de saúde vigente foi estruturado com base na medicina ocidental, sendo natural, portanto, que as terapias populares sejam relegadas a uma posição secundária. Todavia, escudando-se em regulamentos que proíbem a "obstrução ao exercício da medicina", as autoridades fiscalizam com rigor desmedido o menor deslize, aplicando sanções punitivas. Em decorrência disso, os terapeutas populares vivem em um estado de constante apreensão. Ah, apesar de prestarmos tão assinalados serviços à nação, somos tratados com semelhante desdém. Onde, então, reside a culpa? Eis uma questão que submeto à reflexão das mentes mais lúcidas. Sinto, por conseguinte, a necessidade premente de, por algum meio, despertar a consciência das autoridades para esta realidade.
+
+Quando abandonamos a perspectiva egoísta e limitada para adotar uma visão ampla e altruísta, um novo horizonte se revela. Nesse sentido, almejo que não apenas as autoridades, mas também os próprios médicos, se disponham a investigar e comprovar experimentalmente a eficácia desta terapêutica, assim como a de todas as outras práticas de cura populares.
+
+---
+
+# Exemplos de Diagnósticos e Tratamentos Errôneos
+
+**Categoria:** ko | **Ano:** 昭和11(1936)年6月15日 | **Fonte:** Kenko
+**Título Original:** 誤診誤療の実例 （一） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1936-06-15
+
+## Exemplos de Diagnósticos e Tratamentos Errôneos
+
+Tendo já elucidado, sob diversas perspectivas e com sólidas demonstrações, os grandes equívocos da medicina ocidental, creio que os leitores possuem uma compreensão geral do assunto. Não obstante, decidi apresentar agora uma seleção da vasta casuística que venho compilando. Naturalmente, por serem praticadas por seres humanos e não por Deus, as ações humanas estão sujeitas a falhas, o que é perfeitamente compreensível. Contudo, há um limite para o erro. Os casos que descreverei a seguir foram escolhidos por sua natureza flagrante, por representarem equívocos tão graves que, sob uma perspectiva humanitária, não podem ser simplesmente ignorados.
+
+O caso a seguir trata de um diagnóstico errôneo de câncer gástrico em estágio inicial. O paciente, de cinquenta e quatro anos, era presidente da assembleia distrital e provincial. Acometido por uma leve indisposição gástrica, buscou, por mero descargo de consciência, o diagnóstico de um renomado hospital universitário. O prognóstico foi de câncer gástrico incipiente. O médico, um dos mais célebres doutores do Japão, recomendou-lhe a cirurgia com veemência, assegurando que, naquele momento, a intervenção resultaria em cura absoluta e que seria a oportunidade ideal para a operação.
+
+Foi nessa altura que, por indicação de um conhecido, o paciente veio procurar-me. Ao examiná-lo, constatei que seu quadro ainda não havia evoluído para um câncer. Tratava-se, na verdade, de um simples acúmulo de toxinas fluidas e purulentas na região do epigástrio, abaixo do diafragma, formando uma pequena massa. Era uma condição que poderia ser completamente sanada em aproximadamente duas semanas de tratamento. Diante disso, expliquei-lhe a situação e o desaconselhei veementemente a se submeter à cirurgia.
+
+Contudo, em sua quarta ou quinta visita, o paciente desabafou, revelando a angústia que sentia. Estava sendo pressionado por todos ao seu redor, que o questionavam: “Por que hesita, quando três dos mais notáveis doutores do hospital universitário garantem a cura e afirmam ser este o momento ideal para a operação?”. A coação tornara-se, para ele, insuportável.
+
+Compreendendo ser impossível sobrepujar tamanha resistência, eu mesmo me vi forçado a dizer-lhe: “Nesse caso, não há o que fazer. Proceda conforme sua vontade”. E assim, ele deu entrada no hospital e foi submetido à cirurgia. Após cerca de um mês, recebeu alta e retirou-se para Yugawara, onde permaneceu por dois meses em convalescença. Todavia, sua saúde oscilava, sem apresentar melhora substancial. Decidiu, então, retornar a Tóquio, mas seu estado se agravou progressivamente. Pouco mais de um mês após seu regresso, ele veio a falecer. Em suma, perdeu a vida aproximadamente quatro meses depois da operação.
+
+Este relato é, em si, um assombro, e suscita graves questionamentos de ordem humanitária. Se o paciente simplesmente não tivesse recorrido a tratamento médico algum, teria, com toda a certeza, preservado sua vida por mais dois ou três anos. É um fato insofismável que a intervenção médica abreviou sua existência. Como é possível que três das maiores autoridades do Japão tenham assegurado sua sobrevivência e, ainda assim, o resultado tenha sido um desfecho tão nefasto? Em verdade, eu gostaria de ouvir a justificativa dos responsáveis.
+
+## Um Profundo Lamento
+
+Sempre que leio os jornais e me deparo com as notícias do falecimento de personalidades e com os anúncios fúnebres, sou tomado por um profundo sentimento de perda. Em especial nos atuais tempos de crise, o falecimento de militares, sobretudo aqueles com patente de general por volta dos cinquenta anos, representa uma perda verdadeiramente lamentável. Digo isso porque, se tais homens conhecessem esta Terapia, suas doenças seriam certamente curadas, e suas mortes, evitadas.
+
+Observa-se, ademais, uma crescente incidência de hemorragias cerebrais. Tais fatalidades poderiam ser completamente prevenidas se as pessoas, de forma profilática, se submetessem ao nosso método de purificação sanguínea uma vez por mês ou a cada dois meses. No entanto, a crença de que a medicina ocidental está em um estágio avançado ainda prevalece, o que torna inevitável a dependência de seus métodos. Embora eu me resigne a essa realidade, não deixo de considerá-la uma grande lástima.
+
+A medicina moderna, que sequer consegue prevenir por completo as hemorragias cerebrais, encontra-se em uma situação verdadeiramente lastimável. Anseio, pois, do fundo de meu coração, que o verdadeiro poder da Terapia pelo Poder de Kannon (観音) seja revelado ao mundo o quanto antes, para que o número de pessoas salvas aumente, ainda que seja em apenas uma.
+
+---
+
+# Comunicado Urgente Sobre Estelionato
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年11月14日 | **Fonte:** Eikou
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 130号 | **Data ISO:** 1951-11-14
+
+## Comunicado Urgente Sobre Estelionato
+
+Recentemente, uma série de crimes de estelionato de natureza maligna tem sido registrada em todo o país. Portanto, solicitamos encarecidamente aos ministros de cada Igreja e a todos os fiéis que estejam sumamente atentos às situações que descreveremos a seguir.
+
+Primeiro: Indivíduos que, de posse de cartas de apresentação falsificadas em nome de ministros ou responsáveis de unidades religiosas, visitam outras Igrejas ou a residência de fiéis. Sob o pretexto de arrecadar donativos, subtraem dinheiro e objetos de valor. Alternativamente, induzem as vítimas a realizar encomendas de mercadorias diversas, apropriando-se indevidamente dos valores pagos como adiantamento.
+
+Segundo: Indivíduos que se apresentam falsamente como membros de uma determinada Igreja para, em seguida, dirigirem-se a outra congregação ou à residência de um fiel. Nessas ocasiões, solicitam abrigo ou auxílio financeiro para custear despesas de viagem.
+
+---
+
+# O Início da Obra Divina e o Milagre de Daikoku-sama
+
+**Categoria:** ko | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** 麹町時代 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.23 | **Data ISO:** 1949-12-30
+
+## O Início da Obra Divina e o Milagre de Daikoku-sama
+
+Conforme mencionei, durante os seis anos que se estenderam de 1928 a 1934, por meio de minhas pesquisas espirituais, adquiri a firme convicção na eficácia do tratamento de doenças através da terapia espiritual. Decidi, então, que era o momento de apresentar essa prática ao mundo. Para tanto, busquei um local o mais central possível na cidade de Tóquio daquela época e encontrei uma casa para alugar em Kojimachi Hirakawacho, cujas condições eram perfeitas para meu propósito. Ali, inaugurei uma clínica sob a designação de terapia de shiatsu de base religiosa, denominando-a Oshindo (応神堂), e iniciei as atividades no dia primeiro de maio. A princípio, o número de pacientes era de apenas algumas pessoas por dia, mas, com o aumento gradual, o espaço tornou-se insuficiente. Nesse sentido, passei a utilizar as instalações da subsede da Oomoto-kyo que eu administrava em Kojimachi Hanzomon. A ocasião era propícia, pois eu havia me desligado da referida organização religiosa pouco antes, e o local ficara à minha inteira disposição. Transformei-o em clínica e para lá me dirigia diariamente, dedicando-me aos atendimentos.
+
+Ademais, no dia onze de outubro daquele ano, manifestou-se o milagre da fotografia espiritual, que já relatei em outra oportunidade. Somado a isso, já havia se formado um número considerável de aspirantes a fiéis dentre aqueles que haviam sido curados. Diante desse cenário, concebi o plano de fundar uma nova organização religiosa. Concluídos os preparativos, realizamos uma cerimônia de pré-inauguração no Oshindo (応神堂), em vinte e três de novembro. No primeiro dia do ano seguinte, 1935, celebramos a cerimônia oficial de fundação na subsede de Hanzomon. A instituição recebeu o nome de Dai Nippon Kannon Kai (大日本観音会). E aqui, gostaria de registrar um milagre relacionado a Daikoku-sama.
+
+Frequentemente me perguntam sobre a relação entre Kannon-sama (観音様) e Daikoku-sama, e por que os fiéis de nossa Igreja invariavelmente o reverenciam. É uma indagação pertinente, visto que tal prática era incomum até então. A razão pela qual comecei a cultuar Daikoku-sama foi a seguinte. Creio que foi em 1933. Naquele período, minhas finanças permaneceram deficitárias por vários meses, o que me causava certa apreensão. Certo dia, um bancário que me visitava esporadicamente me ofereceu uma antiga estátua de Daikoku-sama que possuía. Aceitei-a de bom grado e a entronizei diante do pergaminho sagrado de Kannon-sama. A partir daquele mês, o déficit desapareceu e os recursos começaram a afluir. Convencido de que Daikoku-sama era, de fato, uma Divindade da Fortuna, passei a colecionar suas imagens, pedindo-as a conhecidos e reunindo o maior número possível. Cheguei a ter mais de cinquenta.
+
+Pouco tempo após a fundação da Kannon Kai, um de meus assessores me informou sobre uma magnífica estátua de Daikoku-sama, em tamanho natural, em uma loja de antiguidades no bairro de Takagi-cho, em Azabu [Aoyama]. Fui vê-la imediatamente e constatei que era uma peça primorosa, tanto em sua fatura quanto em sua antiguidade. Ao indagar se estava à venda, o proprietário respondeu que não era um item comercial, mas um objeto de sua devoção pessoal, e pediu minha compreensão. Assim, retirei-me sem outra alternativa. Isso ocorreu em meados de dezembro.
+
+O mais surpreendente, contudo, ocorreu na véspera do Ano-Novo, quando recebi um telefonema do antiquário. Ele disse: "Estou disposto a lhe ceder aquela estátua de Daikoku-sama. Se ainda for de seu interesse, posso entregá-la imediatamente". Exultei de alegria. Naquela mesma noite, a imagem foi trazida de automóvel e prontamente entronizada no Altar. O relato do antiquário, naquela ocasião, foi deveras interessante: "Poucos dias após sua visita, tive um sonho. Nele, vi Daikoku-sama partindo de minha casa, montado em uma nuvem púrpura. Ao despertar, senti que nosso elo havia se rompido, mas ainda assim relutava em me desfazer dele. Todavia, hoje, na véspera do Ano-Novo, encontrando-me em um aperto financeiro intransponível, decidi que precisava vendê-lo".
+
+Quando perguntei o preço, ele respondeu: "Pelas circunstâncias, não posso estipular um valor. Uma oferta de gratidão será suficiente". Como o custo de vida era baixo na época, entreguei-lhe um envelope com trezentos ienes. Ao partir, porém, incapaz de conter a dor da despedida, ele se agarrou à estátua, derramando copiosas lágrimas. O fato é que, desde esse acontecimento, minhas finanças registraram um aumento repentino e expressivo, o que só posso atribuir à graça de Daikoku-sama. Dei-lhe o nome de Miroku Daikoku-ten (みろく大黒天), e aqueles que frequentaram a Igreja nas fases de Kojimachi e Tamagawa certamente o conhecem bem. Certa vez, ao fotografarmos essa imagem, um nítido halo de luz surgiu ao seu redor, e, atendendo aos pedidos dos fiéis da época, distribuímos centenas de cópias da fotografia. Tal fenômeno evidencia que não se trata de um Daikoku-sama comum. Acredita-se que seja uma obra-prima do período Toyotomi.
+
+---
+
+# O Caminho para a Felicidade
+
+**Categoria:** ko | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
+**Título Original:** 幸福への道 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## O Caminho para a Felicidade
+
+Decerto, não existe um único ser humano que não almeje a felicidade. Com efeito, a felicidade constitui o anseio supremo da humanidade, seu objetivo final. E a sua condição primordial, de uma clareza irrefutável, é a existência de pessoas isentas de doenças e de lares onde não haja enfermos.
+
+Contudo, no mundo como o conhecemos até hoje, a ausência total de enfermidades não apenas se mostra inalcançável, como também todos, sem exceção, nutrem a apreensão de que, mesmo gozando de saúde no presente, uma doença possa surgir a qualquer momento. Acresce a isso a total imprevisibilidade sobre a natureza de uma eventual moléstia — se será de fácil ou difícil recuperação —, o que gera uma angústia sem paralelos. Por essa razão, mesmo aqueles que desfrutam de circunstâncias favoráveis ou que alcançaram o sucesso não conseguem imergir na verdadeira felicidade, pois vivem sob a constante ameaça da doença. Esta é a realidade.
+
+Conforme já expus reiteradas vezes, a doença é a origem de toda a infelicidade. A maior parte das economias que as pessoas fazem destina-se a ampará-las em caso de enfermidade; os seguros de saúde e de vida existem pelo mesmo motivo. Orfanatos, asilos, associações de auxílio mútuo e todas as demais obras sociais, em sua essência, também visam a esse fim. Portanto, por mais que um Estado implemente uma política ideal, enquanto não for capaz de solucionar o flagelo das doenças humanas, a genuína felicidade de seu povo permanecerá inatingível. De fato, a saúde é o alicerce da felicidade; poder-se-ia dizer, inclusive, que ela é a própria felicidade em sua totalidade. Todavia, até o presente momento, não existia nenhuma arte de cura ou método capaz de erradicar as enfermidades em sua raiz.
+
+Não afirmo isso por jactância. Conforme mencionei anteriormente, a Arte de Cura Japonesa e o Método de Saúde por mim estabelecidos são capazes de libertar o ser humano por completo da angústia gerada pelas doenças. Por conseguinte, declaro com toda a convicção que somente aqueles que conhecerem minha arte de cura poderão, enfim, se tornar pessoas felizes. O Caminho para a Felicidade, incessantemente almejado pela humanidade ao longo de milênios, acaba de ser desbravado.
+
+---
+
+# Compreendendo a Vontade Divina
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年12月2日 | **Fonte:** Eikou
+**Título Original:** 御神意を覚れ | **Status:** Published | **Edição/Página:** 237号 | **Data ISO:** 1953-12-02
+
+## Compreendendo a Vontade Divina
+
+Isto é algo sobre o qual já escrevi anteriormente, mas que reitero. Em sua essência, o ser humano nasceu com o desígnio de construir o Mundo Ideal, que é o objetivo supremo de Deus. Sendo assim, se ele se empenhar em cumprir tal desígnio, poderá trabalhar sempre com alegria, em um estado de perfeita saúde. Este é um princípio imutável. Todavia, em razão do yakudoku acumulado por seus antepassados, somado àquele que eles próprios introduzem em seu corpo por desconhecerem a Verdade, faz com que adoeçam, o que é, até certo ponto, inevitável.
+
+Contudo, se uma pessoa útil ao Plano Divino não pode trabalhar por motivo de doença, isto representa um prejuízo para a Obra Divina. É natural, portanto, que Deus lhe conceda uma pronta recuperação, não havendo motivo algum para preocupação. Aqueles que ignoram tal princípio, porém, recorrem a substâncias tóxicas a que chamam remédios, com o intuito de suprimir a enfermidade. Ao agirem em total desacordo com a Verdade, não há como uma cura plena e順調 se concretizar.
+
+Este princípio não se restringe apenas às enfermidades. Toda e qualquer adversidade obedece à mesma lógica, sendo, em sua essência, uma manifestação da Lei da Purificação. Naturalmente, a forma que a purificação assume varia conforme a natureza de sua causa. Por exemplo, os pecados de ordem material e financeira, como o roubo, a apropriação indébita, o ato de causar prejuízo a outrem ou a ostentação de um luxo desproporcional, são expiados por meio de perdas materiais e financeiras.
+
+Observamos com frequência, na sociedade, o caso do filho de um homem abastado que se torna pródigo, dissipando a herança paterna como se fosse água. Tal fato, na verdade, está promovendo a extinção das máculas de seus pais e antepassados. Ocorre que os espíritos ancestrais, desejosos de que sua linhagem não se extinga e que a família prospere cada vez mais, escolhem um dos descendentes para se encarregar dessa purificação. Nesse caso, qualquer tentativa de repreendê-lo se mostrará inútil.
+
+Imaginemos, por exemplo, dois irmãos. O mais velho é um filho pródigo, incorrigível, ao passo que o mais novo é um homem íntegro e virtuoso. À primeira vista, poderíamos pensar que o irmão mais velho é uma pessoa má, que desonra o nome da família. Contudo, sob uma ótica mais ampla, a realidade é precisamente o oposto. No que tange à missão de extinguir as máculas ancestrais, o primogênito lhe é superior. Assim, o bem e o mal não podem ser determinados pelo limitado juízo humano.
+
+Da mesma forma, perdas materiais decorrentes de incêndios, roubos, estelionatos, ou prejuízos em investimentos, apostas e negócios mal sucedidos, bem como despesas com doenças, tudo representa a purificação de pecados materiais por meio da matéria. Ainda que se possa escapar às leis dos homens, a Lei Divina é absoluta e inescapável.
+
+Consequentemente, os pecados cometidos ao enganar os olhos alheios manifestam-se como doenças oculares; as máculas geradas por palavras que ferem os ouvidos resultam em dores de ouvido ou enfermidades na língua; as atitudes que causam dor de cabeça nos outros retornam como cefaleia; e o uso egoísta dos braços, visando unicamente o próprio benefício, traduz-se em dores nos membros superiores. Toda purificação ocorre segundo o princípio da afinidade.
+
+Há, ainda, outra circunstância a ser considerada: o sofrimento que surge após o ingresso na fé. E quanto mais fervorosa se torna a pessoa, mais intensos parecem ser os sofrimentos. Nesses momentos, aqueles de fé ainda vacilante tendem a duvidar; contudo, é justamente este o ponto crucial. A explicação para tal fenômeno é que Deus, em resposta ao fervor da pessoa, deseja conceder-lhe graças o mais rápido possível. Como, porém, ela ainda possui máculas, é necessário purificá-la primeiro. Trata-se de uma purificação que age como uma limpeza do recipiente espiritual.
+
+Se, nesse momento, a pessoa perseverar sem a menor hesitação, ao término do processo, ela receberá uma graça tão sublime que superará todas as suas expectativas.
+
+A esse respeito, relatarei uma experiência pessoal. Durante vinte anos, fui atormentado por dívidas. Por mais que me esforçasse para saldá-las, meus esforços eram vãos, a ponto de, por fim, resignar-me. Foi então que, em 1941, consegui finalmente quitar todos os meus débitos, o que me trouxe um imenso alívio. No ano seguinte, 1942, uma quantia inesperada de dinheiro começou a afluir, e fiquei maravilhado com a profundidade da Vontade Divina.
+
+No jargão popular, existe a expressão que se refere àqueles que "enriquecem após um incêndio". Isso ocorre porque, uma vez concluída a purificação, a boa sorte lhes sorri. O grande incêndio de Atami é um exemplo disso. Se compararmos a cidade antes do fogo com o que ela é hoje, a diferença é abissal.
+
+Pelo exposto, os acontecimentos auspiciosos são, obviamente, motivos de gratidão. Contudo, as adversidades também o são, pois servem como purificação, e, uma vez concluídas, prenunciam um futuro melhor. Assim, qualquer que seja o desfecho, ele é motivo de gratidão. Se adotarmos a postura de que "estar sem doença é maravilhoso; estar doente também é maravilhoso", alcançaremos o verdadeiro estado de paz e segurança espiritual.
+
+É preciso dizer, no entanto, que isso se aplica unicamente àqueles que possuem fé. Para os que não a têm, ocorre o inverso: o sofrimento gera mais sofrimento, e quanto mais se debatem, pior se torna a sua situação, até que submergem no abismo do desespero. Nisto reside o segredo para a felicidade humana: a profunda compreensão deste princípio.
+
+---
+
+# Exemplos Concretos de Erro Médico e Iatrogenia
+
+**Categoria:** ko | **Ano:** 昭和11(1936)年4月13日 | **Fonte:** 新日本医術書
+**Título Original:** 誤診誤療の実例 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-04-13
+
+## Exemplos Concretos de Erro Médico e Iatrogenia
+
+Relato aqui o caso verídico de uma paciente que tratei pessoalmente. No dia quatro de janeiro deste ano, recebi uma senhora de trinta e dois anos. Segundo seu relato, sua última menstruação havia se prolongado por mais dias que o habitual e, preocupada, buscou o diagnóstico de um médico. Após examiná-la, ele lhe comunicara, em tom de urgência: “Trata-se de um quadro gravíssimo. É uma gravidez ectópica e, caso não se submeta a uma cirurgia imediata, sua vida correrá perigo”. Contudo, por cautela, ela decidiu procurar-me antes de tomar uma decisão. Ao examiná-la, não encontrei o menor indício de tal condição. Havia apenas um pequeno acúmulo de secreção purulenta na parte inferior do rim. Bastaram duas sessões de tratamento para que o problema desaparecesse sem deixar vestígios, para a imensa alegria daquela senhora. É natural que se sentisse assim, pois, no início do ano, esteve prestes a enfrentar uma cirurgia de grande porte, com hospitalização, dor, despesas e tempo despendidos em vão, além de uma cicatriz permanente. Tudo foi resolvido em apenas duas sessões. Refletindo sobre tais fatos, ainda hoje considero inexplicável que um especialista tenha cometido um erro tão grosseiro. Afinal, o acúmulo purulento encontrava-se a mais de nove centímetros de distância do local onde ocorreria uma gravidez ectópica, uma localização que jamais deveria induzir a um equívoco.
+
+Neste mesmo ano, uma senhora de trinta e sete anos, pertencente à alta sociedade, procurou-me. Ela sofria cronicamente de enxaquecas e rigidez nos ombros. Recentemente, como seu período menstrual se estendera, consultou um renomado doutor, que lhe deu o seguinte diagnóstico: “Seu ovário direito está três vezes maior que o esquerdo. Esta é a causa de seus padecimentos, sendo imperativa a remoção cirúrgica do órgão. A enxaqueca e a rigidez nos ombros também decorrem daí”. Contudo, a senhora hesitou, receosa da cirurgia, e assim chegou até mim. Realizei um exame minucioso e constatei que ambos os ovários se encontravam em perfeito estado, sem qualquer sinal de inchaço. Ademais, a enxaqueca e a rigidez nos ombros eram enfermidades distintas, sem nenhuma relação com os ovários. A prova disso foi que, ao tratar apenas seus ombros, sem sequer tocar a região pélvica, suas dores de cabeça e a rigidez se abrandaram instantaneamente. Com quatro sessões, ela alcançou a cura completa, e sua surpresa e alegria foram indescritíveis. É verdadeiramente assombroso ponderar sobre este caso: um ovário sadio foi declarado doente, e sintomas sem qualquer correlação lhe foram atribuídos. A gravidade de tal erro diagnóstico é espantosa. Se aquela paciente não tivesse me procurado, teria um órgão saudável extirpado, tornando-se uma pessoa mutilada para o resto da vida. A simples cogitação desse cenário me causa arrepios e um profundo calafrio.
+
+## A Morte do Ministro Matsuda e a Insuficiência da Medicina
+
+Desejo afirmar categoricamente que os exames de saúde da medicina ocidental ainda são imperfeitos. Um exemplo recente e eloquente é a morte do Ministro Matsuda. Segundo noticiado nos jornais, o Doutor Manabe, uma célebre autoridade e professor veterano da Universidade Imperial, realizou um exame de saúde no ministro apenas três horas antes de seu falecimento. Este é um assunto de extrema gravidade, que não pode ser tratado com leviandade. Qual o valor de um exame de saúde incapaz de prever a morte de um paciente com três horas de antecedência? O propósito de se submeter a tais exames é, sem dúvida, identificar sinais precursores de enfermidades, com a intenção de evitar uma fatalidade. Todavia, se a fatalidade suprema — a própria morte — não pode ser prevista com meras três horas de antecedência, o exame se torna tão ineficaz quanto não realizá-lo. Diante disso, podemos concluir que, enquanto a medicina ocidental não progredir muito mais, seus exames de saúde permanecem indignos de confiança.
+
+Indaga-se, ainda, se as autoridades e o público em geral não são excessivamente indiferentes a estas questões. A mesma sociedade que se crispa por problemas de menor importância em outras áreas demonstra uma tolerância surpreendente para com tudo o que se refere à medicina. Qual seria a razão para tal brandura? Talvez seja por conta dessa excessiva benevolência que se pode inferir a existência de inúmeros e imperdoáveis erros de diagnóstico e tratamento. Se uma autoridade da Universidade Imperial demonstra tamanha imprecisão, pode-se apenas conjecturar qual será o nível dos diagnósticos dos médicos em geral. Contudo, talvez não seja justo culpar os médicos individualmente. Na verdade, a culpa reside na própria medicina ocidental, que, ao que tudo indica, não progrediu tanto quanto o público imagina. Em suma, o grande mal reside na confiança excessiva depositada nesta medicina, um erro cujas nefastas consequências se manifestam de diversas formas, deixando-nos, no presente, de mãos atadas.
+
+Vemos com frequência nos jornais relatos de mortes súbitas por erros em injeções ou cirurgias, bem como notícias sobre a indignação de familiares e processos judiciais contra o que consideram falhas médicas evidentes. No entanto, por alguma razão, o resultado parece ser, na maioria das vezes, favorável ao médico. Talvez por isso, grande parte das famílias acaba por se resignar à perda em silêncio. Evidentemente, não se pode generalizar, pois uma interferência excessiva nos procedimentos pode se tornar um obstáculo ao tratamento. Contudo, tudo tem um limite, e quando este é ultrapassado, os prejuízos são inevitáveis — uma verdade ainda mais contundente quando vidas humanas estão em jogo.
+
+## A Deformidade Causada pela Intervenção Médica
+
+O relato a seguir me foi contado por uma enfermeira. Uma menina de sete anos desenvolveu um abscesso na bochecha direita e foi internada para uma cirurgia. Entretanto, como a intervenção foi prematura, um segundo abscesso surgiu, desta vez sob a pálpebra inferior. Imediatamente, este também foi operado, mas o resultado foi desastroso: o quadro se agravou e, por fim, as duas lesões se uniram. O pus, impedido de ser expelido naturalmente, passou a vazar incessantemente pelos olhos e narinas, agravando ainda mais seu sofrimento. Após vários meses, a ferida finalmente cicatrizou. Mas qual foi o resultado? Uma grande cicatriz repuxava sua pele, deixando-a com o rosto desfigurado, com uma aparência grotesca. Quando a mãe, desolada, queixou-se ao médico, ele respondeu displicentemente: “Leve-a a um cirurgião plástico para consertar”.
+
+Permitam-me tecer uma crítica a este procedimento. Aquele abscesso era um processo de purificação natural do corpo, que buscava expelir o pus através da bochecha. Se simplesmente o tivessem deixado evoluir, o problema teria se resolvido por si só. O inchaço aumentaria até que um pequeno orifício se abrisse, permitindo a drenagem completa do pus. A cura seria total, sem deixar cicatrizes, e todo o processo não levaria mais que um mês. Em vez disso, o que a medicina ofereceu? Custos elevados, tempo perdido, sofrimento intensificado e, por fim, a criação de uma deformidade permanente em uma criança saudável. Uma medicina que produz tais resultados é, de fato, aterradora.
+
+Sinto profundamente que a tarefa mais urgente do momento é conscientizar a sociedade sobre os malefícios gerados por práticas médicas equivocadas.
+
+---
+
+# A Questão do Declínio Físico Nacional
+
+**Categoria:** ko | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
+**Título Original:** 国民体位低下の問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+
+## A Questão do Declínio Físico Nacional
+
+Intimamente associada à questão demográfica, encontra-se uma pauta de suma importância, da qual não se pode dissociar: o declínio do porte físico nacional. A seguir, delinearei as tendências observadas nesse campo.
+
+Em junho de 1936, o então Ministro do Exército, General Terauchi, externou sua preocupação com o declínio do porte físico do povo e recomendou a formulação de uma política nacional de saúde e higiene. Essa iniciativa culminou na criação do Ministério da Saúde e Previdência. Os fundamentos e as contramedidas anunciados pelo Departamento Médico do Ministério do Exército, na ocasião, eram os seguintes:
+
+"Fundamentos"
+
+1.  Após a Grande Guerra, diversas nações europeias constataram um acentuado declínio na constituição física de seus cidadãos, o que as levou a instituir Ministérios da Saúde ou da Higiene. Como resultado de seus esforços para aprimorar a saúde pública, a constituição e o porte físico de suas populações melhoraram notavelmente, recuperando o vigor de outrora.
+2.  Segundo os registros do exame de alistamento militar, a taxa de reprovação (categorias C e D) entre 1922 e 1926 era de aproximadamente 250 por mil. Contudo, entre 1927 e 1932, essa proporção elevou-se para 350, atingindo um alarmante patamar de 400 em 1935, o que evidencia de forma incontestável a deterioração da constituição física nacional.
+3.  A estatura média, que em 1912 era de 5 shaku e 2 sun, aumentou para 5 shaku, 2 sun e 9 bu em 1935, um acréscimo de 9 bu. Todavia, o peso não acompanhou essa evolução. Em comparação com os 13 kan e 800 monme de 1912, o peso em 1935 atingiu apenas 14 kan e 100 monme. As estatísticas indicam que o ganho médio de peso nos últimos vinte e cinco anos foi de apenas 270 monme.
+4.  Houve um aumento expressivo das doenças torácicas de natureza tuberculosa. Enquanto nos anos de 1891 e 1892, registravam-se dois casos de tuberculose para cada cem jovens, hoje, esse número ascende a vinte e quatro.
+5.  Embora os avanços da medicina e a difusão de tratamentos tenham demonstrado certa eficácia na redução da mortalidade por tuberculose, provaram ser totalmente impotentes na prevenção de sua ocorrência.
+6.  Doenças infecciosas previstas em lei, como tifo e disenteria, seguem uma trajetória de aumento contínuo.
+7.  A causa fundamental do declínio físico e constitucional não reside na inadequação da educação física ou na carência nutricional e médica, mas origina-se, essencialmente, no enfraquecimento das mães.
+8.  A atual administração sanitária limita-se ao controle de medicamentos e alimentos, ao tratamento de resíduos e dejetos, a sistemas de seguro-saúde, entre outros, revelando-se, no conjunto, ineficaz e desarticulada.
+9.  Falta uma integração orgânica entre os ministérios que atualmente administram a saúde e a higiene, como o da Educação, o do Interior, o das Comunicações e o do Comércio e Indústria. O mesmo se aplica às administrações locais.
+10. Com base nos motivos expostos, o governo deve romper com os velhos padrões de atuação isolada de cada ministério e instituir um novo ministério para administrar a saúde e a higiene. Este deverá unificar as atuais repartições e departamentos pertinentes, centralizando assuntos como seguro de trabalho, profilaxia, assistência médica e educação física, a fim de cumprir a missão precípua da administração sanitária.
+
+Atribuições do novo órgão:
+
+1.  Questões de população e alimentação, e o ajuste da distribuição dos recursos vitais.
+2.  Assuntos concernentes ao aspecto humano da imigração e colonização.
+3.  Aumento da capacidade laboral e da resistência da população.
+4.  Questões relativas às condições essenciais de vida do povo.
+5.  Racionalização e controle do vestuário e da moradia.
+6.  Questões relativas à adaptação ao meio ambiente.
+7.  Educação sanitária para o fortalecimento do corpo e da mente, aumento da eficiência, profilaxia de doenças e defesa contra toxinas.
+8.  Orientação e supervisão de projetos de saúde social.
+9.  Controle e gestão dos recursos humanos, como hospitais e médicos.
+10. Orientação e supervisão das instituições de pesquisa em ciências da vida. (Isto implicaria na fusão e reorganização de institutos como o de Higiene e o de Nutrição, do Ministério do Interior, e o de Educação Física, do Ministério da Educação, acrescentando-se novas instituições de pesquisa em saúde para formar um grande instituto de ciências da vida.)
+
+A principal causa de inaptidão entre esses reprovados é a debilidade musculoesquelética. O número de jovens com essa condição tem aumentado a uma taxa de 0,1% ao ano: em 1932, representavam 31,7% dos conscritos; em 1933, 32,7%; e em 1934, 33,7%.
+
+Seguem-se as doenças tuberculosas, as deficiências visuais, as incapacidades por lesões e a baixa estatura. As doenças venéreas são mais prevalentes nos centros urbanos do que no campo, afetando principalmente trabalhadores de classes mais baixas, operários e motoristas. A maioria dos jovens do interior que as contraem são aqueles que migraram para as cidades em busca de trabalho.
+
+Ao analisarmos a relação entre estatura e peso, observamos que, nos últimos vinte e cinco anos, a estatura aumentou aproximadamente 1 sun, enquanto o peso aumentou apenas 260 monme. Como em 1912 a proporção era de 260 monme de peso para cada sun de altura, conclui-se que o corpo apenas se alongou, mantendo a constituição física daquele ano. Isso significa que a relação entre os dois — a densidade corporal, por assim dizer — diminuiu. Fenômeno análogo observa-se na circunferência torácica, que permaneceu praticamente inalterada nas últimas duas décadas. Ademais, o tórax dos japoneses possui um diâmetro transversal maior e um diâmetro anteroposterior menor. Em comparação com o tórax dos ocidentais e dos chineses, que é mais curto no diâmetro transversal e mais longo no anteroposterior, o nosso denota uma capacidade interna inferior, mesmo quando a circunferência é idêntica.
+
+É crucial atentar para o fato de que existem duas formas de variação de peso: aquela em que o ganho ou a perda ocorrem de maneira uniforme por todo o corpo e outra em que uma parte do corpo se desenvolve em detrimento de outra, que emagrece. O predomínio deste último padrão entre os jovens de nosso país comprova a existência de falhas graves nos diversos aspectos do nosso modo de vida e em nossas instalações cotidianas. Nesse sentido, é imperativo que toda a nação desenvolva a consciência para superar espontaneamente essas deficiências, e que a reforma de nosso estilo e de nossas estruturas de vida seja o ponto de partida para erradicar a verdadeira causa do declínio físico nacional. Essa convicção se aprofunda ao observarmos o fenômeno de soldados cujo físico, desenvolvido durante o serviço militar, regride à sua condição anterior ao alistamento após um ou dois anos de retorno à vida civil — uma tendência especialmente notória entre agricultores e operários industriais.
+
+Analisemos agora o impacto da vida urbana e rural sobre os jovens conscritos. Um estudo com mais de 600 mil jovens examinados em 1936 revelou que a taxa de inaptidão entre os nascidos e criados na cidade é de 410 por mil. Em contrapartida, para os nascidos e criados no campo, a taxa é de pouco mais de 310 por mil, uma diferença de quase cem pessoas. Contudo, entre aqueles que nasceram no campo e se mudaram para a cidade após a conclusão do ensino primário, a taxa sobe para mais de 380 por mil, o que demonstra vividamente o impacto nefasto da vida urbana no porte físico da população.
+
+O que é ainda mais revelador é que aqueles nascidos e educados na cidade, mesmo que se mudem posteriormente para o campo, continuam a apresentar uma taxa de reprovação de mais de 450 por mil. Isso permite inferir o quão decisiva é a vida urbana na infância como causa determinante de uma constituição física deficiente.
+
+Embora o campo apresente resultados melhores em comparação com a cidade, a situação rural também não pode ser negligenciada. Sentimos isso profundamente ao constatar que a taxa de reprovação no campo, que há pouco mais de uma década era de duzentos por mil, saltou para mais de trezentos atualmente.
+
+E quanto ao porte físico dos estudantes?
+
+Já comparamos a condição de saúde nacional revelada nos exames de alistamento e as diferenças entre a cidade e o campo. Vejamos agora a situação por ocupação.
+
+Ao segmentarmos os inaptos por profissão, os estudantes emergem no topo da lista, com uma taxa de reprovação que supera os 50%, atingindo mais de quinhentas pessoas por mil. Em províncias como Tóquio e Osaka, o número se aproxima de seiscentos, um dado verdadeiramente alarmante.
+
+Um exemplo que corrobora a precária condição física e de saúde dos estudantes de Tóquio e Osaka é o seguinte: em uma escola de ensino médio de Tóquio, noventa e oito alunos do quinto ano, considerados saudáveis a ponto de pernoitarem no quartel da Divisão da Guarda Imperial, foram submetidos a exames médicos. O resultado foi que trinta e nove deles, ou seja, 40%, apresentavam doenças torácicas crônicas.
+
+Este caso causou espanto tanto nas autoridades escolares quanto militares, e é imperativo que as famílias, as escolas e o próprio Estado reflitam profundamente sobre essa questão. É um fato deveras intrigante, considerando a ampla difusão e o desenvolvimento do esporte estudantil em nossos dias. Não podemos deixar de nos questionar se a prática esportiva não estaria sendo conduzida em uma direção equivocada, talvez se desviando do objetivo de aprimorar o porte físico da nação.
+
+Contudo, o declínio físico dos estudantes não pode ser atribuído unicamente à questão esportiva. A solução, evidentemente, depende de uma abordagem que envolva a família, a sociedade, o Estado e o sistema educacional como um todo.
+
+Um aspecto crucial a ser acrescentado sobre a saúde e o porte físico dos estudantes é que a taxa de reprovação no alistamento militar aumenta progressivamente à medida que avança o nível de escolaridade, e a gravidade das enfermidades que causam essa inaptidão também se acentua. Os reprovados na categoria C são mais numerosos entre os graduados universitários, seguidos pelos formados em escolas superiores e profissionalizantes, e depois pelos egressos do ensino médio e primário. No entanto, entre os que concluíram apenas o ensino primário, aqueles com formação superior (koutouka) apresentam menos reprovações na categoria C do que os de formação regular (jinjouka), o que revela uma grande questão social e educacional subjacente.
+
+Em seguida, uma pesquisa do Departamento Municipal de Educação sobre o impacto da vida urbana na saúde de crianças do ensino primário revela um quadro desolador. Em 1936, de 120.878 alunos matriculados, 106.085 foram submetidos a exames físicos. O resultado foi que 43.677, quase metade, apresentavam alguma enfermidade. Desses, 273 tiveram sua matrícula adiada, um estado lamentável que nos surpreende mais uma vez com a realidade insalubre da cidade.
+
+A discriminação das enfermidades é a seguinte: lideram os casos de otorrinolaringologia, com 9.564 meninos e 8.595 meninas, totalizando 18.159. Seguem-se: oftalmologia (4.152 meninos, 9.223 meninas), dermatologia (2.468 meninos, 1.492 meninas), hérnia, sopro cardíaco e catarro brônquico (2.535 meninos, 1.909 meninas) e problemas osteoarticulares e musculares (847 meninos, 560 meninas).
+
+O elevado índice de miopia entre nosso povo é um fato notório mundialmente. Uma pesquisa conduzida pelo Departamento de Educação Física do Ministério da Educação com estudantes de todos os níveis escolares apresentou resultados verdadeiramente aterrorizantes.
+
+No ano de 1922, a prevalência no ensino primário era de 12,93% entre os meninos e 15,27% entre as meninas. Em 1930, esses números subiram para 16,24% e 19,69%, respectivamente. Nas demais instituições, a comparação entre os anos de 1920 e 1930 revela as seguintes porcentagens:
+
+|                    | 1920    | 1930    |
+| ------------------ | ------- | ------- |
+| Escolas Superiores Femininas | 16,63%  | 34,07%  |
+| Escolas de Ensino Médio    | 21,75%  | 36,33%  |
+| Escolas Profissionalizantes  | 21,72%  | 34,38%  |
+| Escolas Normais (Masculino)  | 26,65%  | 43,65%  |
+|                    | (Feminino) | 19,23%  | 40,25%  |
+| Escolas Superiores (Masculino) | 41,53%  | 42,71%  |
+|                    | (Feminino) | 20,55%  | 53,98%  |
+
+Em termos gerais, isso significa que uma criança que ingressa na escola primária com 15% de chance de ter miopia, chega ao ensino médio com 20% e, ao ingressar no ensino superior, a probabilidade alcança 50%. Se somarmos a isso os casos de presbiopia, astigmatismo e estrabismo em pessoas com mais de cinquenta anos, conclui-se que de 60% a 70% da população economicamente ativa enfrenta dificuldades ou despende energia nervosa desnecessária, o que reduz sua eficiência.
+
+A seguir, apresentamos as principais causas de morte em nosso país, conforme levantamento de 1936.
+
+Segundo o Departamento de Estatísticas do Gabinete, do total de 1.234.000 mortes em 1934, mais de 131.500 foram causadas por tuberculose respiratória e outras formas da doença, correspondendo a uma taxa de 106,5 por mil óbitos. Em seguida, vieram diarreia e enterite, com mais de 127.000 mortes (taxa de 103,6), pneumonia, com mais de 124.000 (taxa de 100,5), e hemorragia e trombose cerebral, com mais de 114.000 (taxa de 92,7). Fica evidente que a tuberculose é a doença mais temível.
+
+A análise por faixa etária revela que as mortes por diarreia, enterite e pneumonia concentram-se majoritariamente em lactentes com menos de um ano de idade, enquanto as mortes por acidentes vasculares cerebrais são mais frequentes entre os 55 e 79 anos. Em contrapartida, a tuberculose ceifa predominantemente vidas de jovens entre 15 e 29 anos, um fato que exige máxima atenção.
+
+O jornal Tokyo Nichi-Nichi Shimbun, em sua edição de 3 de junho de 1936, publicou o seguinte artigo:
+
+(Preâmbulo omitido) "Embora a estatura e o peso tenham aumentado, o que à primeira vista parece um bom resultado, o ganho de peso não acompanha o de altura. Doenças de natureza tuberculosa aumentaram notavelmente, e a incidência de miopia e cáries dentárias também se torna cada vez mais alarmante. Esta é uma questão nacional que deve ser motivo de grande preocupação. Recentemente, diversas modalidades esportivas se popularizaram entre a população com grande vigor. Seria lógico supor que a constituição física e a saúde do povo deveriam melhorar progressivamente. Diante desse quadro desolador, qual seria a razão de o físico de nossos jovens se encontrar em tal situação? Certamente, não pode haver mero acaso em tais circunstâncias. É imperativo que identifiquemos as causas e não apenas eliminemos essa preocupação, mas também direcionemos o porte físico de nosso povo para um caminho de aprimoramento. Este deve ser um dos pilares da renovação nacional."
+
+"A causa do declínio físico dos jovens deve, naturalmente, ser investigada por especialistas, e os resultados nortearão a melhoria dos métodos de criação e educação de nossas crianças e jovens. De modo geral, porém, os quatro fatores que mais influenciam o desenvolvimento infanto-juvenil parecem ser o ambiente, a alimentação, os estudos e o exercício físico. É desnecessário dizer que o ambiente tem um impacto imenso sobre o corpo. Contudo, embora a proporção de habitantes urbanos em nossa população aumente a cada ano, e o ruído e a agitação das cidades se intensifiquem, as instalações sanitárias também vêm sendo gradualmente aprimoradas. Portanto, não se acredita que tenha havido uma mudança drástica no impacto ambiental. A correlação entre alimentação e corpo é autoevidente, mas a dieta do povo muda gradualmente com o tempo. O aumento das cáries, por exemplo, parece estar relacionado a essas mudanças, e a higiene alimentar é, portanto, um campo importante para a pesquisa de especialistas e profissionais da saúde pública. No entanto, como o padrão de vida geral da nação tem melhorado, é improvável que a alimentação esteja exercendo uma influência tão negativa sobre o físico dos jovens. Resta, portanto, analisar os âmbitos do estudo e da educação física."
+
+"A sobrecarga acadêmica em nossas escolas primárias, secundárias e outras instituições de ensino tornou-se um problema notório. Em especial, os malefícios da educação preparatória para os exames de admissão são amplamente criticados. A experiência mostra que o estudo em medida adequada traz resultados benéficos para o corpo, mas é evidente que o estudo excessivo ou desequilibrado é prejudicial à saúde, especialmente o método passivo de memorização forçada e desinteressante, que causa grande fadiga física e mental. Por outro lado, no campo da educação física, apesar de as aulas de ginástica terem sido aprimoradas, o treinamento militar ter sido incluído e os esportes incentivados, o porte físico dos jovens continua a se deteriorar. Isso não indicaria a existência de alguma falha fundamental no sistema?"
+
+Posteriormente, em 30 de julho de 1940, o jornal Yomiuri Shimbun publicou a seguinte matéria:
+
+"Seria a ênfase excessiva em educação física a causa? Casos de tuberculose em novos alunos acendem um sinal de alerta."
+
+"Que impacto os exames de admissão ao ensino médio deste ano, que aboliram as disciplinas teóricas para valorizar a educação física, tiveram sobre os alunos? Enquanto a questão é observada com atenção por diversos setores, uma escola de ensino médio em uma cidade da região de Kansai registrou uma sucessão de abandonos por tuberculose entre os recém-ingressos. Isso suscitou críticas aos excessos da educação física e lançou um alerta para as autoridades do ensino primário e para as famílias, às vésperas do período de preparação para os exames do próximo ano."
+
+"Sobre este assunto, consultamos o Dr. Masayasu Kusumoto, da Divisão de Tuberculose do Ministério da Saúde e Previdência."
+
+"O fato de estudantes do ensino médio, recém-ingressos no primeiro ano, estarem abandonando a escola por tuberculose é um problema grave. Geralmente, a idade de infecção por tuberculose é mais comum entre os 15 e os 20 anos. No entanto, nas áreas urbanas, muitas crianças são infectadas durante o ensino primário. Uma pesquisa com alunos do primeiro ao sexto ano na cidade de Osaka revelou uma taxa de infecção surpreendente de 70%. Em Tóquio, embora o índice seja um pouco menor, ainda assim metade de todas as crianças está infectada. O período mais perigoso é o primeiro ano após a bactéria da tuberculose se alojar nos pulmões. Se, nesse momento, o corpo se fatiga por ginástica ou exercícios excessivos, a resistência ao bacilo diminui e a doença se manifesta. Contudo, se este período crítico de um ano transcorrer sem intercorrências, as bactérias se calcificam e, ao contrário, o corpo desenvolve imunidade à tuberculose, evitando a manifestação da doença. O problema é que, nas escolas primárias, o exame de saúde se resume a uma simples ausculta com estetoscópio, o que impede uma avaliação clara do estado de perigo de uma criança infectada. Consequentemente, as atividades físicas na escola são aplicadas de forma uniforme a todos. Os alunos que, de alguma forma, superam esse esforço e são aprovados nos testes físicos, como a barra fixa, para ingressar no ensino médio, são então submetidos a exercícios ainda mais intensos. Assim, aqueles que estão no período crítico de um ano pós-infecção acabam, infelizmente, vendo a doença progredir e são forçados a abandonar os estudos. Os sintomas iniciais da tuberculose, como febre baixa, cansaço e perda de apetite, podem ser percebidos por aqueles com constituição mais fraca. No entanto, quanto mais robusto o corpo, menos os sintomas são notados, e a pessoa continua a se exercitar até que, subitamente, o corpo não aguenta mais e o alarme soa. A atenção das autoridades escolares é necessária, mas para prevenir esse perigo, é crucial que as famílias redobrem o cuidado. Devem confirmar cientificamente o momento e o grau da infecção por meio de exames de saúde detalhados. Aqueles que apresentarem sinais incipientes da doença devem cessar os exercícios intensos e se dedicar ao tratamento."
+
+Para abordar a questão da saúde pública, vejamos a situação recente na Grã-Bretanha.
+
+No último ano, o país despendeu duzentos milhões de libras em despesas com a saúde, mas a constituição física do povo continua em declínio. Somando-se a isso os trezentos milhões de libras gastos apenas com assistência médica, o total chega a quinhentos milhões de libras (equivalente a cinco bilhões de ienes pela taxa de câmbio paritária). O temor de que essa despesa colossal aumente ainda mais tornou-se tema de debate no Parlamento, e até o Rei da Inglaterra mencionou o assunto em um discurso recente.
+
+O professor Lelean, da Universidade de Edimburgo, alertou: "Se nos dedicarmos à educação física nacional por dois anos, há uma grande chance de que o porte físico de nosso povo melhore significativamente. Se formos negligentes, serão necessárias duas gerações para recuperar a constituição física debilitada." E concluiu: "Vejam o desempenho medíocre da Grã-Bretanha nos Jogos Olímpicos. Custa a crer que estes sejam os britânicos, herdeiros dos históricos campos de Eton."
+
+---
+
+# O poder do Johrei na cura de doenças oculares
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年1月21日 | **Fonte:** Eikou
+**Título Original:** こんな眼病でも訳なく治る | **Status:** Published | **Edição/Página:** 192号 | **Data ISO:** 1953-01-21
+
+## O poder do Johrei na cura de doenças oculares
+
+Os exemplos de cura de doenças oculares são, de fato, inumeráveis. Todavia, o relato de graça que se segue é particularmente elucidativo.
+
+No mundo, há uma quantidade infinita de pessoas que padecem de enfermidades oculares, alheias à eficácia esplêndida do Johrei de nossa Igreja. Testemunhar essa realidade causa-me, naturalmente, uma profunda inquietação. Se a medicina alcançasse um resultado tão extraordinário, o fato se converteria em uma questão de grande magnitude. Seria imediatamente comunicado à associação médica, estampado em manchetes de destaque nos jornais e proclamado ao mundo como um orgulho para a ciência médica japonesa.
+
+Contudo, por se tratar de uma prática religiosa, ela não recebe a menor consideração. Isso é mais do que lamentável, pois, em consequência, pessoas desafortunadas permanecem sem salvação, e este método do Johrei — que poderia ser considerado uma honra de repercussão mundial para o Japão — permanece oculto.
+
+Em um mundo onde tantos estão cegos para a verdade, tal situação parece inevitável. Ainda assim, anseio por abrir-lhes os olhos o mais breve possível. Entretanto, por ser uma Obra de Deus, que detém o poder absoluto, sua expansão por todo o mundo é inevitável. Basta, portanto, aguardarmos, pois para todas as coisas há um tempo determinado.
+
+### Enfermidade ocular de origem sifilítica, que persistiu por cinco anos, é curada em apenas três meses
+
+*Hana Toyoshima (60 anos), Igreja Minori, Shizuoka*
+
+Minha neta Hisako, de cinco anos, sofria de um problema ocular desde o nascimento. A partir dos dois anos de idade, iniciamos um tratamento médico contínuo. Contudo, mal a secreção em seus olhos diminuía, seu rosto era tomado por furúnculos, um ciclo que se repetia incessantemente. Com o tempo, a situação agravou-se, e uma névoa turva começou a cobrir seus olhos. O médico diagnosticou uma doença ocular de natureza sifilítica, advertindo-nos de que a cura seria extremamente difícil e sugerindo que uma mudança de ares para prosseguir com o tratamento talvez trouxesse alguma melhora. Foi então que, em janeiro deste ano, trouxeram-na para minha casa, em Shizuoka.
+
+O pai de Hisako administra um comércio de bebidas em Shinbashi, Tóquio, enquanto a mãe, acometida por uma doença pulmonar, encontrava-se hospitalizada há muito tempo. A compaixão que eu sentia pela neta tornou-se ainda mais profunda, e assumi para mim a responsabilidade de curá-la. Com essa determinação, passei a levá-la ao hospital de Shizuoka durante seis meses, enfrentando chuva e vento, sem jamais faltar. Foi um período de enorme sacrifício.
+
+No início de julho, a situação era desoladora. A menina não suportava a menor claridade e, incapaz de olhar para a luz, chorava com o rosto afundado em minhas costas. Certo dia, ao retornar do hospital carregando-a, encontrei um parente. Ele me disse: "Há tempos eu desejava recomendar-lhe isto, mas imaginei que você não se convenceria antes de esgotar todas as outras possibilidades. Tenho certeza de que, se receber o Johrei da Sekaikyuseikyo, ela será curada". Em seguida, ele compartilhou diversos relatos de cura e ensinamentos preciosos.
+
+Suas palavras tocaram-me de tal forma que, tomada por uma urgência incontrolável, procurei imediatamente a senhora Yoshiko Toyoshima, que morava nas proximidades, para solicitar o Johrei. A senhora Yoshiko explicou-me de antemão sobre o processo de purificação, esclarecendo que, em pessoas com grande acúmulo de medicamentos, a recuperação poderia ser mais demorada. Com profunda sinceridade, ela me aconselhou: "Nesses momentos, não hesite nem desista. Apegue-se com fé".
+
+Após pouco mais de uma semana recebendo Johrei, os furúnculos em seu rosto começaram a secar e a desaparecer. Ela passou por uma purificação com diarreia e transpirava intensamente pela cabeça. Seu temperamento tornou-se mais sereno, e a melhora era visível, o que me encheu de alegria. Pensando na felicidade que seu pai sentiria, continuei a pedir Johrei com ainda mais fervor. Contudo, após cerca de três semanas, Hisako foi acometida por uma febre alta de trinta e nove graus. Seus olhos fecharam-se completamente, e os furúnculos, que haviam melhorado, retornaram com uma intensidade ainda maior. Ela tinha suores noturnos tão profusos que eu precisava trocar suas roupas duas ou três vezes por noite. Delirava e sofria dia e noite, e minha preocupação era indescritível.
+
+Passados dez dias, ela sequer conseguia entreabrir os olhos. Os vizinhos, que vinham visitá-la, criticavam-me, dizendo: "Continuando com isso, você vai acabar deixando-a cega". A situação chegou a tal ponto que meus próprios filhos passaram a me chamar de louca. Sentindo-me acuada e sem saber o que fazer, pedi a ajuda do ministro Naito. Em meu desespero, cheguei a dizer-lhe, como se o Johrei fosse o culpado: "Por favor, peço apenas que os olhos dela não sejam destruídos".
+
+O ministro sorriu e, com serenidade, respondeu: "Até o final de agosto, ela abrirá um pouco os olhos. É preciso ter só mais um pouco de paciência. Continue a se apegar com fé".
+
+Naquele instante, senti-me envergonhada por ter dependido apenas da senhora Yoshiko, sem eu mesma poder ministrar Johrei. Decidi, então, receber o Ohikari (お守様) imediatamente. Ao fazê-lo, uma nova força interior me invadiu, e renovei minha determinação para perseverar.
+
+E, conforme suas palavras, na noite de 27 de agosto, enquanto eu olhava para o jardim com Hisako nas costas, ela exclamou de repente: "Vovó, vovó! Estou vendo uma luz!". Ela apontava, radiante, para o reflexo da lâmpada elétrica no jardim. Naquele momento, não contive as lágrimas de felicidade.
+
+A partir daquele dia, a cada Johrei que recebia, sua visão tornava-se mais nítida. Logo, ela já conseguia brincar em locais claros, com os olhos abertos e sem desconforto. Os furúnculos de seu rosto desapareceram por completo, e sua aparência tornou-se tão bela que parecia ter renascido. Ao verem sua transformação, os vizinhos apenas comentam, maravilhados, que é um verdadeiro mistério. Hoje, passados exatos três meses, a opacidade em seus olhos é quase imperceptível. Hisako também recebeu o Ohikari (子供のお守様) infantil e o guarda com imenso carinho, contando a todos sobre a grandiosidade do Johrei.
+
+Meishu-Sama, muito obrigada do fundo do meu coração. Com estas simples palavras, relato os fatos como ocorreram, em sinal de minha mais profunda gratidão.
+
+(17 de novembro de 1952)
+
+---
+
+# A Prova da Salvação Divina
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 此偉大なる救い 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## A Prova da Salvação Divina
+
+Ao se depararem com o lema de nossa Fé — a construção de um mundo isento de doença, pobreza e conflito —, é natural que muitos o considerem mero idealismo, uma utopia desprovida de qualquer possibilidade de concretização. Afinal, ao observar a trajetória da humanidade até os dias de hoje, tal anseio parece, de fato, inalcançável. Todavia, a audácia com que o proclamo incessantemente deve ser compreendida como um reflexo da imensa convicção que me preenche.
+
+Conforme relatado em um testemunho, certa família padecia há muitos anos de uma sucessão incessante de doenças e falecimentos, vivendo em um estado que se assemelhava a um verdadeiro inferno na Terra. Entretanto, ao conhecerem fortuitamente nossa Fé e a ela se converterem, seu lar transformou-se de imediato em um paraíso, e todos os seus membros foram agraciados com plena saúde. Este exemplo, por si só, demonstra a grandiosidade da obra salvadora de nossa Fé.
+
+Em contrapartida, a lastimável condição da medicina atual torna-se evidente. Fica claro, portanto, quão excelsa é a medicina criada por Deus em comparação com aquela concebida pelos homens. Ah, anseio com fervor pela salvação, o mais breve possível, desses pobres cordeiros.
+
+---
+
+# A Manifestação da Luz de Kannon
+
+**Categoria:** ko | **Ano:** 昭和10(1935)年3月4日 | **Fonte:** Hikari明世界
+**Título Original:** 御霊光 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-03-04
+
+## A Manifestação da Luz de Kannon
+
+A partir de agora, Kannon (観音) utilizará esta associação como Seu instrumento para manifestar plenamente o Seu poder. Trata-se de um acontecimento sem precedentes desde o alvorecer da criação, algo que a mente humana sequer consegue conceber. Explicar tal grandiosidade até o ponto em que se torne compreensível é uma tarefa deveras complexa; de fato, para aqueles que ouvem sobre isso pela primeira vez, o relato soa tão extraordinário que muitos relutam em aceitá-lo como verdade.
+
+Por essa razão, abordo o assunto com certa moderação, pois, se eu descrevesse a realidade nua e crua dos fatos, temo que minhas palavras pudessem ser interpretadas como um delírio de grandeza. Portanto, antes de mais nada, o mais importante é que cada um consagre uma Imagem Sagrada e passe a reverenciá-la. A compreensão virá de imediato. Inegavelmente, uma maravilhosa Graça Divina será recebida. Com o passar dos dias, é verdadeiramente assombroso observar como todas as circunstâncias do lar se encaminham para o melhor: as doenças desaparecem, as dificuldades financeiras se dissipam e as questões preocupantes se resolvem com surpreendente fluidez.
+
+Qual seria a razão para tais transformações? A resposta reside em se estar banhado por uma intensa Luz. A esse respeito, há um relato recente que ilustra bem o que digo. Certa pessoa consagrou uma Imagem Sagrada em caligrafia e, vindo procurar-me, indagou: "Mestre, o senhor adiciona alguma substância à tinta com que escreve os caracteres?".
+
+Respondi-lhe: "De modo algum. Utilizo apenas a tinta, nada mais".
+
+Ela então prosseguiu: "Achei muito estranho, pois os caracteres que formam as palavras 'Daisei Kanzeon' no pergaminho brilham com uma luz puramente branca. Cheguei a pensar que o senhor houvesse misturado fósforo na tinta. Enquanto eu reverenciava a Imagem em profunda concentração, os próprios caracteres se transformaram em luz branca e, em seguida, essa mesma luz se projetou na parede ao lado, formando nitidamente as palavras 'Daisei Kanzeon'. Pensei que pudesse ser um efeito da penumbra, mas mesmo quando permiti que a luz do sol incidisse diretamente sobre o local durante o dia, o fenômeno persistiu da mesma forma. A imagem projetada na parede, de repente, desaparecia e ressurgia em outra parede. Ora se expandia, ora se contraía. Em outros momentos, do alto do pergaminho, emergia uma luz semelhante a uma nuvem púrpura, que se transmutava em diversas formas". Trata-se, na verdade, do que chamamos de nuvens auspiciosas. "Essas nuvens", continuou ela, "também brotavam da parte inferior e de todos os lados, movendo-se de um lugar para outro, como se fossem letreiros de néon. Era um espetáculo de tamanha beleza que eu poderia contemplá-lo indefinidamente, sem jamais me cansar".
+
+Após ouvir seu relato, ofereci-lhe uma explicação detalhada, e ela pareceu, enfim, compreender o que se passava. A propósito, há um caso interessante nessa mesma família que gostaria de compartilhar. A razão pela qual essa senhora decidiu consagrar a Imagem de Kannon (観音) está relacionada ao seu filho, um menino de cerca de dez anos. Ele nascera com uma dificuldade na fala; não era completamente mudo, mas sua pronúncia era imprecisa. Especificamente, ele não conseguia articular com clareza apenas os sons correspondentes a 'a-i-u-e-o', enquanto as demais sílabas eram perfeitamente audíveis. Após algumas visitas, quando sua condição já havia melhorado pela metade, a família consagrou a Imagem de Kannon (観音). Inicialmente, o menino tinha um nódulo na cabeça, o qual comecei a dissolver. Quando o tratamento começou, sua mente parecia um tanto alheada, mas, à medida que o nódulo diminuía, ele se tornava notavelmente mais lúcido. Quando o nódulo estava quase desfeito, a expressão em seus olhos se tornou vívida, sua inteligência se aguçou e, consequentemente, seu desempenho escolar melhorou de forma surpreendente.
+
+Ao aprofundar a investigação, descobri que o espírito de um cão o estava obsidiando. Acontece que o pai do menino havia matado um cão no passado. O fato de que apenas os sons vocálicos 'a-i-u-e-o' eram inarticulados evidenciava a natureza canina da influência. Cada espécie animal, por desígnio Divino, recebeu a capacidade de emitir um conjunto particular de sons. Os cães, por exemplo, utilizam os sons da fileira do 'wa-i-u-e-o': eles latem 'wan-wan', rosnam 'u-u', gemem 'i-i' quando têm a pata pisada ou são atropelados, e uivam 'o-o' ao longe, como todos sabem. De modo análogo, os macacos se associam aos sons 'ka-ki-ku-ke-ko'; os ratos, a 'ta-chi-tsu-te-to'; os bois, a 'ma-mi-mu-me-mo'; e os cavalos, a 'ha-hi-fu-he-ho'.
+
+Como era o espírito de um cão que o obsidiava, este não conseguia utilizar adequadamente a língua e os órgãos fonadores humanos, resultando na imprecisão justamente daqueles sons. Ademais, o nódulo em sua cabeça correspondia ao local onde o cão fora golpeado, o ferimento que lhe causou a morte. Compreendida a causa, oficiei prontamente um serviço para o espírito do cão. A partir de então, a saúde do menino melhorou rapidamente, e hoje ele está praticamente curado. Foi a mãe dele quem testemunhou a Luz que descrevi.
+
+Essa Luz, aliás, é percebida pela maioria das pessoas. Ela se manifesta em diversas cores, como dourado, púrpura e rubro, sendo a tonalidade branco-dourada a mais comum. A razão para tal fenômeno é que, no momento em que caligrafo a Imagem Sagrada, a "Luz de Kannon (観音)" penetra nos caracteres através de minha mão e de meu pincel. Por esse motivo, tanto as caligrafias quanto as estátuas irradiam essa Luz incessantemente. E é por meio dela que as máculas espirituais do lar são purificadas.
+
+A palavra japonesa para essas máculas, *zaishō*, é composta por ideogramas que significam "pecado" e "impedimento". É justamente a dissolução desses impedimentos que ocorre. A infelicidade em um lar advém da interferência desses impedimentos. Quanto mais numerosas as máculas espirituais de uma família, mais elas formam uma densa camada que obscurece o Mundo Espiritual daquele lar, tema sobre o qual sempre discorro. Quanto maior a carga de máculas, mais sombrio se torna o ambiente espiritual da casa. E quanto mais intensa a escuridão, mais fácil é para as forças demoníacas atuarem, trazendo desgraças. O Maligno está sempre à espreita, buscando a menor brecha para infligir desastres e tormentos aos seres humanos. Causar o sofrimento gerado por doenças, pobreza e conflitos é, por assim dizer, seu instinto inato. Portanto, é natural que o poder das forças demoníacas seja mais forte nos lares onde impera a escuridão.
+
+Um lar com um alto grau de escuridão é, portanto, um lar com muitas máculas espirituais. Essas máculas se convertem em nuvens que geram a penumbra. Em contrapartida, a fé verdadeira, a prática do bem e o acúmulo de virtudes geram Luz, que, por sua vez, dissipa essas nuvens. Creio que esta explicação seja mais científica do que meramente religiosa.
+
+E o que é, afinal, a Luz de Kannon (観音)? É a Luz que unifica a do Sol e a da Lua. Sua intensidade é a mesma da luz solar, porém, não ofusca nem possui um brilho agressivo. É comum também que as pessoas visualizem a Luz de Kannon (観音) nas cores dourada e púrpura. A dourada é a luz da frente, e a púrpura, a luz de trás. Em outras palavras, a dourada é a luz do Sol, e a púrpura, a da Lua. Na fotografia espiritual da estátua de Senju Kannon, a luz que emana da lateral de meu ventre é precisamente essa Luz. Aqueles que já viram a fotografia podem imaginar a sua extraordinária intensidade.
+
+(Jinsai - 仁斎)
+
+---
+
+# Um Apelo à Prudência e ao Discernimento
+
+**Categoria:** ko | **Ano:** 昭和29(1954)年8月18日 | **Fonte:** Eikou
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 270号 | **Data ISO:** 1954-08-18
+
+## Um Apelo à Prudência e ao Discernimento
+
+É com profundo pesar que nos dirigimos a todos a respeito das notícias amplamente divulgadas nos dias 17 e 18 de julho, tanto por emissoras de rádio quanto por jornais de grande circulação, como o Tokyo Shimbun. Os artigos relatavam um incidente ocorrido na vila de Kamisato, distrito de Kodama, na província de Saitama, segundo o qual membros de nossa Igreja teriam se reunido para uma refeição com um fiel portador de disenteria. A reportagem alega que, em consequência, vinte e uma pessoas contraíram a forma autêntica da doença, resultando em um óbito, e que os “crentes fanáticos” teriam se recusado a receber tratamento médico e a realizar a desinfecção. Tais relatos causaram grande comoção na opinião pública e, segundo compreendemos, podem ter gerado transtornos a diversos setores, o que é sobremaneira lamentável.
+
+A esse respeito, a Sede Central enviou uma equipe para apurar os fatos no local. A investigação constatou que muitos pontos da narrativa divergem da realidade e que o caso foi noticiado de maneira grosseiramente exagerada e imprecisa. É especialmente lastimável a impressão causada de que os membros de nossa Igreja teriam sido os propagadores da bactéria.
+
+Nossa Igreja empenha-se constantemente para que equívocos dessa natureza não ocorram. Por meio de todas as Igrejas e filiais, bem como através desta publicação e da revista Paraíso Terrestre, emitimos diretrizes e instamos os fiéis a, como cidadãos de uma nação regida por leis, seguir as determinações legais e adotar a máxima cautela em relação às doenças contagiosas previstas em lei. Contudo, para os membros que possuem pleno conhecimento sobre os nefastos efeitos do yakudoku (薬毒), existe o risco de que, mesmo inconscientemente, acabem por se desviar dessas orientações. Tal desvio pode dar origem a situações imprevistas e, quando estas chegam a afetar o desenvolvimento de nossa Igreja, constituem uma falta verdadeiramente indesculpável perante a infinita compaixão de Meishu-Sama.
+
+Portanto, rogamos a todos os fiéis a máxima prudência e o mais elevado discernimento.
+
+---
+
+# Uma Acusação de Roubo
+
+**Categoria:** ko | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** 強盗の訴え 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.14 | **Data ISO:** 1949-08-30
+
+## Uma Acusação de Roubo
+
+Quem não se espantaria ao saber que já fui alvo de uma acusação de roubo? Contudo, o fato é verídico. Aconteceu em um dia inesquecível, no final do oitavo ano da Era Taisho, quando fui intimado a comparecer à promotoria. E a razão para tal foi a seguinte.
+
+O episódio remonta ao apogeu do meu sucesso como proprietário de uma loja de armarinhos. Naquela época, eu havia inventado um adorno chamado *Asahi Diamond* e obtido a patente exclusiva. Aliás, não apenas no Japão, mas em todas as dez nações do mundo que, no oitavo ano da Era Taisho, possuíam leis de patente, eu assegurei os direitos de propriedade intelectual. O produto, ao ser lançado, obteve aclamação extraordinária e suas vendas foram um sucesso retumbante. Foi justamente em decorrência dessa prosperidade que se originou o incidente de roubo mencionado no título.
+
+Para desenvolver o referido *Asahi Diamond*, como eu não sou um artesão, guiei passo a passo um profissional de nome Hayashi, solicitando-lhe que refizesse o trabalho diversas vezes até que, finalmente, alcançássemos a perfeição. Por essa razão, nomeei o senhor Hayashi como gerente, aluguei uma casa de dimensões consideráveis para servir de fábrica e confiei-lhe a gestão do negócio. O empreendimento prosperou a ponto de, em certo momento, empregar dezenas de operárias, o que permitiu ao próprio Hayashi acumular um patrimônio significativo.
+
+Contudo, em vez de demonstrar a gratidão que seria devida, pois seu sucesso era fruto do meu apoio, ele se deixou cegar pela cobiça e, em um ato de extrema insolência, moveu uma ação judicial contra mim, exigindo a transferência da titularidade da patente. Sua alegação era de que ele seria o verdadeiro inventor do *Asahi Diamond* e que eu, sem seu consentimento, o havia registrado indevidamente em meu nome. Todavia, a fragilidade de sua argumentação era evidente. Se a sua versão fosse verídica, ele deveria ter contestado a titularidade logo após o registro da patente. O fato de ter esperado quase dois anos para subitamente mover a ação judicial deixava claro que sua única motivação era a ganância, visando ao enriquecimento ilícito.
+
+Diante da situação, e ciente de que eu mantinha no armazém da fábrica um volume considerável de materiais, ponderei sobre o risco iminente de desfalque por parte de um indivíduo de tal índole. Ademais, tornou-se impossível continuar a lhe confiar a produção por mais um dia sequer. Nesse sentido, na mesma noite em que recebi a notificação do processo, determinei que alguns funcionários fossem à fábrica e, utilizando um automóvel, transportassem todo o estoque de materiais para um local seguro (ressalto que eu não estava presente durante essa operação).
+
+No dia seguinte, o senhor Hayashi dirigiu-se à delegacia de polícia local para prestar queixa contra mim. Fui intimado e, após relatar detalhadamente os acontecimentos, o delegado responsável compreendeu a situação, deu uma boa risada, e o assunto foi encerrado ali mesmo. Vendo que seus esforços na polícia foram infrutíferos, ele decidiu levar o caso à promotoria, desta vez com uma acusação de roubo.
+
+Fui prontamente convocado e, mais uma vez, expliquei toda a situação. O promotor também compreendeu perfeitamente o contexto, mas ponderou: “Certamente, a acusação de roubo não prosperará. No entanto, a ação pode ser enquadrada como invasão de domicílio. Até que o caso seja julgado, haverá diversas audiências, e o senhor será intimado a comparecer em todas elas, o que lhe causará um enorme transtorno. Portanto, sugiro que redija agora uma carta de desculpas, e eu me encarregarei de usar esse documento para solucionar a questão em definitivo”.
+
+Segui sua orientação e o caso foi resolvido. Naquele momento, porém, refleti profundamente sobre a estranheza das leis. Ir a uma fábrica alugada em meu próprio nome e por mim administrada, para reaver bens que me pertenciam, poder ser configurado como invasão de domicílio... Isso me pareceu, de fato, algo incompreensível.
+
+Tempos depois, ao narrar este episódio a certa pessoa, ela me confidenciou: “Uma vez, fui intimado como suspeito em um caso de homicídio. A razão foi que eu havia visitado a vítima poucas horas antes do crime e deixado meu cartão de visita, o que foi suficiente para levantar suspeitas contra mim”.
+
+---
+
+# O Alvorecer de uma Nova Civilização
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 梗概 （文明の創造） 医学関 係 御論文集 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1953
+
+## O Alvorecer de uma Nova Civilização
+
+Esta obra, conforme menciona seu prefácio, representa um feito literário sem precedentes, podendo ser considerada uma verdadeira bomba atômica contra a civilização atual. E assim o é porque abarca em sua totalidade os pilares que sustentam o mundo em que vivemos — a religião, o pensamento, a filosofia, a educação, a ciência e a arte —, submetendo cada um deles a uma crítica rigorosa e desvelando suas verdades mais nuas. Diante de tal exposição, quem quer que a leia se sentirá compelido a despir-se de suas velhas vestes e a trajar novas indumentárias. Por conseguinte, à medida que este livro se difundir pelo mundo, é inconteste que provocará uma imensa comoção nos alicerces da civilização estabelecida.
+
+Quando sua publicação estiver concluída, tencionamos distribuí-lo ao maior número possível de líderes religiosos, universidades, círculos acadêmicos e personalidades renomadas da imprensa mundial. Naturalmente, uma cópia será enviada ao comitê de avaliação do Prêmio Nobel. Todavia, é de se lamentar que os nobres membros de tal comitê, sendo autoridades da ciência materialista, dificilmente conseguirão compreendê-la de início. Contudo, como esta obra elucida também os fundamentos da própria ciência e seu conteúdo é integralmente composto por verdades imutáveis, creio que, se a analisarem com a devida profundidade, a compreensão se tornará inevitável.
+
+Nesse sentido, um ponto de suma importância é a concepção, vigente até hoje, de que a religião e a ciência são domínios distintos. A observação de tudo o que existe no Universo, no entanto, revela o profundo equívoco dessa premissa. Embora a realidade terrestre seja regida pela união de opostos complementares — como o positivo e o negativo, a luz e a escuridão, a frente e o verso —, o erro reside justamente em considerá-los separadamente. Eis a principal razão pela qual, a despeito de todo o progresso alcançado, a sociedade pacífica e feliz, que constitui o anseio máximo da humanidade, jamais se concretizou.
+
+Portanto, a teoria exposta neste livro não pende para a religião nem para a ciência; ao contrário, toma ambas como objeto de sua crítica imparcial, manejando o bisturi da análise sobre a totalidade da cultura. Isso ocorre porque nada no planeta existe de forma isolada; tudo, sem exceção, possui alguma conexão com o ser humano. Sob essa ótica, qualquer teoria que se restrinja a um campo específico não pode ser uma verdade eterna, mas apenas uma tese dogmática adaptada a uma determinada época, como a própria História demonstra. Quantas doutrinas, ideologias e teorias, outrora aclamadas, não foram superadas pelo inexorável passar do tempo? As únicas que de algum modo subsistem são algumas religiões, mas mesmo estas veem sua influência minguar gradativamente, tornando impossível o retorno ao esplendor de outrora. A causa desse declínio reside em sua limitação ao âmbito da fé e, como falha primordial, na ausência de uma base científica. Se, para curar uma enfermidade, por exemplo, desconhecem sua origem e não dispõem de método algum além da prece, incorrem em uma parcialidade puramente espiritual.
+
+Diante disso, tanto as religiões quanto a ciência estabelecidas, por carecerem de universalidade, não possuem o poder de promover a salvação integral. A doutrina aqui apresentada, contudo, transcende qualquer parcialidade, aprofundando-se na essência do Universo de uma forma jamais concebida, para desvendar a própria Verdade.
+
+Adentrando o cerne da questão, indaguemos: qual é o maior anseio do ser humano? A resposta é evidente: a felicidade. Todo o avanço da civilização não visa outro objetivo senão a sua realização. A religião, a filosofia, as descobertas, as invenções, as novas teorias, as grandes obras de arte e as revoluções — tudo converge para esse fim. Ao analisarmos a civilização contemporânea, porém, em que medida esse propósito primordial foi alcançado? Infelizmente, a realidade distancia-se sobremaneira da expectativa. Em sua aparência, a cultura moderna é de um esplendor estonteante, mas o que se oculta por trás dessa fachada? É certo que a felicidade material aumentou, mas no campo espiritual, longe de encontrar paz, a humanidade geme em um lodaçal de sofrimentos, imersa em uma angústia e uma infelicidade que não cessam de crescer. O mais espantoso é a tragédia de não se dar conta dessa condição. A causa reside no equívoco de se acreditar que o progresso da cultura material, por si só, traria um aumento correspondente da felicidade. Com o advento desta obra, será impossível não tomar consciência de quão equivocada foi a cultura do passado. Então, a humanidade, por tanto tempo encoberta por uma névoa de ceticismo e perdida em labirintos, será finalmente conduzida a um horizonte de clareza absoluta, onde poderá avançar com renovado vigor e esperança em um futuro purificado.
+
+Pode-se afirmar, portanto, que a cultura moderna foi um sucesso no aspecto material e um fracasso no espiritual. Em síntese, é disso que se trata. Se a civilização que a humanidade levou milênios para construir se resume a um misto de êxito e fracasso, é inegável a existência de um erro fundamental em sua concepção. Eis um grande enigma. E a mim foi concedida por Deus a chave para decifrá-lo.
+
+Cumpre-me acrescentar outro ponto crucial: ainda que o maior anseio humano, a felicidade, fosse alcançado, de nada valeria se a própria vida não estivesse assegurada. A civilização moderna, contudo, além de não proporcionar a felicidade, mostra-se totalmente impotente para garantir a vida, como os fatos demonstram com clareza. Refiro-me à ineficácia da medicina. Por mais que se alardeie o seu progresso, a realidade a desmente por completo. Observem como todas as nações se veem assoberbadas por uma torrente de doentes. Um relatório recente e alarmante, enviado por um membro de nossa Igreja nos Estados Unidos, informa que o número de pacientes sob tratamento médico naquele país chega a dezessete milhões. Considerando que a população americana é de cento e cinquenta milhões de habitantes, isso equivale a mais de dez por cento do total, um dado que nos força a refletir. Sendo os Estados Unidos considerados a nação mais avançada em medicina no mundo, essa situação nos leva a crer que já é tempo de despertar para a impotência da medicina.
+
+---
+
+# A Luz de Kannon, o Sol do Mundo Espiritual
+
+**Categoria:** ko | **Ano:** 昭和10(1935)年3月4日 | **Fonte:** Hikari明世界
+**Título Original:** 光明如来 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-03-04
+
+## A Luz de Kannon, o Sol do Mundo Espiritual
+
+Kannon é também reverenciada pelo nome de Komyo Nyorai, Aquela que, por meio da Luz, a tudo e a todos salva. As religiões tradicionais exigiam um esforço sobre-humano para a purificação das máculas espirituais, e, mesmo assim, a purificação completa era uma tarefa árdua, que raramente se concluía em uma única vida. Contudo, por intermédio de Kannon, essa purificação tornou-se extraordinariamente simples. Qual a razão para tal mudança? A resposta reside na intensidade de Sua Luz, pois as máculas espirituais, ao serem tocadas por uma luz de tamanha magnitude, dissipam-se prontamente.
+
+Até o presente momento, a luz emanada pelas diversas religiões era diminuta, comparável à luz de uma lâmpada. As divindades veneradas em cada doutrina assemelhavam-se a companhias de energia elétrica, que forneciam essa luz aos seus fiéis. Obter essa iluminação, no entanto, demandava grande esforço e custo. Era preciso construir complexas usinas hidrelétricas ou termoelétricas, gerar energia por meio de maquinários e trabalho humano, estender uma intrincada rede de fiação, semelhante a uma teia de aranha, e, finalmente, através de engenhosos mecanismos, distribuir a luz por toda parte. Receber as graças divinas por meio da fé tradicional seguia, pois, um modelo análogo.
+
+Apesar de suas limitações, os seres humanos estavam convencidos de que não existia nada mais sublime. No interior de uma residência, a iluminação parecia intensa e magnífica, mas bastava um passo para fora para se deparar com a mais completa escuridão. Ademais, as lâmpadas podiam queimar e exigir substituição, ocorriam falhas técnicas e apagões, e um grande terremoto poderia, a qualquer momento, mergulhar tudo nas trevas. Portanto, a verdadeira paz de espírito era inalcançável.
+
+Todavia, na ausência de uma luz superior, a humanidade apegou-se a essa fonte como seu único refúgio, nutrindo por ela profunda gratidão. Agora, entretanto, surge a luz do Sol. Quando o Sol se eleva, todas as outras luzes são ofuscadas, e o mundo inteiro se ilumina instantaneamente. A luz solar é sessenta vezes mais potente que a lunar e, para banhar-se nela, não se exige qualquer esforço – um fato de conhecimento universal. Nesse sentido, quando alguém toma conhecimento do surgimento desse Sol, basta que abra as portas com simplicidade de coração para receber essa imensa luz sem qualquer complicação. Contudo, a humanidade, embora há milênios se banhe diariamente na luz do Sol físico, jamais esteve diante do Sol do Mundo Espiritual. Nossa missão, portanto, é anunciar em brado retumbante a todos que viviam de portas fechadas, resignados a crer que não existia outra luz além da elétrica: “O alvorecer finalmente chegou! Abram as portas sem demora!”. Essa é a essência do movimento da Kannon Kai (観音会).
+
+Sendo assim, aqueles que ouvem essa voz e, com humildade, abrem suas portas, são os primeiros a serem banhados pela luz e a alcançar a salvação. Aqueles que titubeiam, por sua vez, acabam ficando para trás, o que é verdadeiramente lamentável. As pessoas ficam sobremaneira surpresas ao descobrir que é possível receber uma luz tão grandiosa sem qualquer esforço ou custo.
+
+É com certa relutância que abordo este ponto, mas os fiéis das religiões tradicionais, por mais que se empenhassem, dificilmente conseguiam a plena purificação de suas máculas. Diante dessa realidade, os líderes religiosos criaram uma série de justificativas engenhosas para se esquivar da questão. Por exemplo, diante de uma doença ou calamidade, alegavam que a fé do seguidor estava equivocada ou era insuficiente. Outras vezes, afirmavam que tais infortúnios eram, na verdade, a manifestação de máculas acumuladas por seus antepassados. Se alguém vinha a falecer em decorrência de uma enfermidade ou sofria um golpe severo, dizia-se que o falecido levara consigo as máculas, o que seria algo muito positivo, ou que uma grande desgraça havia sido transformada em um mal menor.
+
+Argumentos como “sua fé está errada” ou “sua fé é insuficiente”, embora não se possa negar que contenham uma parcela de verdade em certas ocasiões, eram frequentemente utilizados como uma hábil escapatória. Afinal, se a fé é insuficiente, qual seria o padrão para considerá-la suficiente? Ninguém sabia. Se era preciso contribuir financeiramente, qual era a quantia necessária? Tampouco havia qualquer referência. Por essa razão, os fiéis viviam em um estado de constante apreensão, com o coração dividido entre a alegria e a ansiedade. Sob certo ponto de vista, sua situação era digna de compaixão.
+
+A esse respeito, há um caso verídico que ilustra bem essa condição. Um conhecido meu, que atuava como preletor de uma determinada religião, adoeceu. Seu superior hierárquico visitava-o diariamente, insistindo que ele carregava máculas muito graves e que deveria se arrepender para alcançar a cura. O doente, então, esforçou-se para recordar e confessar todas as suas faltas, mas sua condição não melhorava. O líder religioso, irredutível, afirmava: “Certamente ainda há máculas. Deve haver algo de errado que você não confessou. Lembre-se bem e arrependa-se”. O enfermo, contudo, sentia já ter confessado tudo o que era possível. Refletiu que, em cinquenta anos de vida, talvez tivesse esquecido algum detalhe, e vasculhou sua memória minuciosamente, mas nada mais encontrou. Ainda assim, a doença persistia. O líder, então, voltou-se para a esposa do doente, declarando que o problema deveria residir nela e exigindo que também se submetesse a uma confissão completa. A esposa, por sua vez, arrependeu-se de tudo o que considerava errado, mas o marido não se recuperou. O superior continuava a repetir incansavelmente que “ainda falta algo, ainda falta algo”, e, nesse ínterim, o homem finalmente veio a falecer.
+
+Ao presenciar tal episódio, senti não apenas que era algo absurdo, mas verdadeiramente aterrador. Pensei em quão trágico é que a humanidade tenha de sofrer por tanto tempo sob o jugo de crenças como essa. Senti que não poderia permanecer como um mero espectador. Diante de quadros como este, é compreensível que pessoas com certo grau de instrução e os membros da classe intelectualizada zombem da fé, descartando a existência de Deus e das divindades como mera superstição, sem lhes dedicar qualquer atenção. Por outro lado, os religiosos, ao observarem tal atitude, indignam-se, afirmando que o excesso de estudo e conhecimento impede a compreensão das questões divinas.
+
+Analisando a situação com um olhar mais amplo, vemos, de um lado, um grupo imerso em superstição, onde inúmeras pessoas sofrem, e, de outro, um grupo de materialistas indiferentes ao sagrado que, embora sintam um vazio interior, vivem com uma aparente satisfação. Esse estado de coisas é o que se denomina “era de trevas e ignorância”, e creio que a designação é perfeitamente acurada. Ambos os grupos são, em verdade, dignos de compaixão. Além deles, há também aqueles que vivem em um estado de completo vazio existencial. Contudo, chegou o tempo em que todas essas pessoas, sem exceção, serão salvas por um poder grandioso e unificador.
+
+---
+
+# Como Encarar Este Fato?
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 此事実を何とみる 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## Como Encarar Este Fato?
+
+O paciente em questão, diagnosticado com um caso atípico de apendicite e desenganado pelos médicos, que afirmavam ser a cirurgia imediata sua única chance de sobrevivência, alcançou a cura plena após apenas três ministrações de Johrei. Desejo, pois, indagar: como se deve interpretar semelhante fato?
+
+Apesar de existir a arte curativa do Johrei, capaz de proporcionar a recuperação de forma tão singela, é uma situação deveras aflitiva constatar que, por puro desconhecimento, as pessoas se vejam obrigadas a arcar com os elevados custos de uma internação hospitalar, a submeter-se a procedimentos dolorosos e a ausentar-se de suas atividades laborais por um período considerável.
+
+Seria um mal menor se a recuperação transcorresse sem percalços. Contudo, não se pode negar que, por vezes, a própria vida do paciente é posta em risco, o que torna a nossa sociedade um lugar de grandes tribulações.
+
+Com o tempo, é inevitável que esta verdade venha a ser amplamente conhecida, e, quando tal ocorrer, emergirá uma questão de magna importância. Todavia, é justamente por meio desse grandioso advento que o mundo encontrará a sua verdadeira salvação.
+
+---
+
+# Um Alerta Importante
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年2月28日 | **Fonte:** Eikou
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 93号 | **Data ISO:** 1951-02-28
+
+## Um Alerta Importante
+
+Chegou ao nosso conhecimento que, já há alguns meses, certos indivíduos têm se apresentado indevidamente como dirigentes desta Igreja, com o intuito de solicitar encontros. Ademais, multiplicam-se os relatos de pessoas que, ludibriadas por atos de estelionato, sofrem prejuízos em decorrência do uso indevido do nome de nossa sagrada Obra.
+
+Tais ocorrências têm se concentrado principalmente em Tóquio e arredores, na região de Kanto, bem como na área de Osaka. Nesse sentido, rogamos a todos a máxima cautela.
+
+Diante de qualquer situação que suscite dúvida, solicitamos que contatem prontamente a Sede da Igreja.
+
+---
+
+# O que seria isto, senão um milagre?
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年7月4日 | **Fonte:** Eikou
+**Título Original:** 之が奇蹟でなくて何であろう | **Status:** Published | **Edição/Página:** 111号 | **Data ISO:** 1951-07-04
+
+## O que seria isto, senão um milagre?
+
+É do conhecimento de todos os fiéis que o número de milagres em nossa fé é algo sem precedentes na história das religiões. Contudo, os dois relatos a seguir descrevem milagres de tal magnitude que desafiam qualquer explicação. Recebemos com tanta frequência relatos de pessoas que escaparam de perigos que quase nos habituamos a eles. Poder-se-ia, com algum esforço, atribuir tais eventos ao acaso. Todavia, se considerarmos os fatos como são narrados nestes testemunhos, não há outra conclusão possível senão a de que se trata de um milagre. Portanto, diante de fatos tão irrefutáveis como estes, não resta a menor dúvida de que os fiéis de nossa Igreja podem viver em absoluta paz de espírito, com a certeza da salvação.
+
+### Salvo de uma queda de catorze metros
+
+*Relato de fé compilado na Coletânea de Milagres da Sekai Kyusei Kyo*
+*Sr. Omatta Shinichiro (26 anos), Igreja Hakuaichu, Província de Yamanashi*
+
+Meishu-Sama, sou imensamente grato por Vossa constante proteção.
+
+Venho, por meio desta, expressar minha gratidão e minha alegria por ter tido a vida salva por um milagre dos milagres, uma proteção que me resgatou de uma morte certa. Embora reconheça a insuficiência da palavra escrita para descrever a grandiosidade da proteção que recebi, sinto-me no dever de relatar esta experiência, ainda que em um texto singelo, como forma de agradecimento.
+
+Desde o dia 20 de janeiro deste ano, eu estava trabalhando na instalação de cabos ferroviários entre as estações de Akashina, Nishijo e Sakakita, na linha Shinonoi, na província de Nagano. No dia 28 de fevereiro, um de meus colegas caiu de uma escada e sofreu uma lesão grave na região lombar, o que nos levou a redobrar a atenção.
+
+O ocorrido se deu no dia 8 de março, por volta das 16h40. Naquela manhã, o proprietário da pensão onde estávamos hospedados, que é seguidor da religião Ontakekyo, nos alertou de maneira especial: "Ainda há um grande infortúnio por vir. Como o trabalho de vocês é em lugares altos, tomem o máximo de cuidado para não se ferirem".
+
+O local de trabalho ficava a pouco mais de uma légua de distância. A tarefa do dia consistia em deslizar pelo cabo principal, pendurando roldanas na linha de aço a cada três metros. Por dentro dessas roldanas, passava-se uma corda, cuja ponta era amarrada à extremidade do cabo principal para esticá-lo. O trecho em questão cruzava um rio, e a distância entre os postes era o dobro do normal – oitenta metros. Para evitar que o cabo cedesse, havia um segundo cabo de sustentação por cima. Isso tornava o trabalho mais complexo, pois exigia que, ao chegar ao ponto de junção dos dois cabos, eu me transferisse de um para o outro.
+
+O procedimento era segurar o cabo com a mão direita e fazer a troca com a esquerda. Para soltar a roldana do cabo em que eu estava, era preciso erguê-la cerca de trinta centímetros. Foi exatamente nesse momento que o desastre aconteceu. Ao soltar a roldana para prendê-la no cabo superior, todo o peso do meu corpo se concentrou de uma só vez sobre o braço esquerdo. Tentei me reerguer para engatar a roldana, mas não consegui. A princípio, apoiei-me com o cotovelo, mas minhas forças foram se esvaindo rapidamente, até que restei suspenso apenas pela mão direita.
+
+Por aproximadamente sete minutos, permaneci pendurado, com o corpo completamente estendido. Catorze metros abaixo, corria um rio, cujas margens eram protegidas por gabiões – estruturas de arame preenchidas com pedras. É impossível descrever o que senti naquele momento. Outros trabalhadores vieram em meu socorro, mas, antes mesmo que pudessem estender a mão, a força que eu mantinha com tanto esforço se esgotou. Com o nome de Meishu-Sama em minha mente e em meu coração, por fim, soltei a mão. Os que estavam embaixo, dada a altura, nada puderam fazer. Contaram-me depois que, ao ouvirem meu grito, simplesmente fecharam os olhos, incapazes de assistir à cena.
+
+No instante em que senti o impacto surdo da queda, um "Ah!" me trouxe de volta a mim. Atônito, pensei: "Fui protegido! Fui salvo! Meishu-Sama!". Meus colegas, acreditando que eu estivesse morto, correram em minha direção em meio a um grande alvoroço. Quando chegaram e, assustados, insistiam em chamar um médico, eu já havia recobrado a calma. "Estou bem", assegurei-lhes. Senti uma pequena dor no peito devido ao impacto da queda nos quadris, e ali mesmo comecei a ministrar Johrei em mim.
+
+Levaram-me carregado de volta à pensão. Meus quadris apresentavam uma hemorragia interna que os deixou negros e inchados, e havia uma pequena fissura no osso do pulso esquerdo, mas eu não sentia dor alguma. Diante de tamanha proteção, não pude conter as lágrimas que brotavam de meus olhos. Como não havia outros fiéis, continuei a ministrar Johrei em mim mesmo. O sangue da hemorragia interna foi eliminado pela urina e, ao terceiro dia, eu já conseguia subir e descer as escadas.
+
+Mais tarde, retornei ao local da queda. Segundo as testemunhas, eu deveria ter caído diretamente sobre os gabiões que estavam sob a linha do cabo. Porém, de forma inexplicável, meu corpo caiu na diagonal, aterrissando sobre o declive de terra da margem. Rolei por três vezes até parar exatamente ao lado dos gabiões. A trinta centímetros à minha esquerda, havia um vertedouro de concreto, e um metro à minha direita, um toco de poste fincado no chão com a ponta afiada para cima. Se eu tivesse caído um pouco para um lado ou para o outro, teria sofrido ferimentos gravíssimos ou perdido a vida. A simples lembrança me causa arrepios. Não há outra palavra para descrever o que aconteceu senão "milagre".
+
+Expresso minha mais profunda gratidão e emoção por essa maravilhosa proteção. Pela alegria de ter recebido de volta a minha vida, algo que nada no mundo pode substituir, sou eternamente grato.
+
+De agora em diante, desejo dedicar-me ainda mais, com minhas parcas forças, para ser útil na Obra de construção do Paraíso Terrestre.
+
+Meishu-Sama, muito, muito obrigado.
+
+(21 de abril de 1951)
+
+### Ileso no epicentro de uma explosão
+
+*Sr. Funamoto Jinmatsu, Igreja Saikochu, Província de Hiroshima*
+
+Dentre os inúmeros relatos de milagres que ouvi durante meu tempo de dedicação, gostaria de reportar um que transcende os fenômenos da física. A pessoa que vivenciou esta experiência foi o Sr. Funamoto, proprietário da Siderúrgica Chugoku, na cidade de Ogaki.
+
+No dia 6 de janeiro de 1951, o Sr. Funamoto estava tentando remover o eixo de um tubo de ar comprimido, aquecendo sua extremidade no fogo. Sendo um dia frio de inverno, ele se sentou em uma cadeira ao lado para se aquecer. Subitamente, um estrondo ensurdecedor ecoou, e o tubo explodiu.
+
+As pessoas nas proximidades ficaram tão atordoadas com a violência da detonação, que parecia romper os tímpanos, que a princípio nem sequer conseguiram identificar de onde vinha o som. Logo, porém, uma densa fumaça negra revelou a origem da explosão. Nesse instante, alguns viram um vulto escuro, do tamanho de um homem, ser arremessado por sobre um barco atracado e cair no mar.
+
+Os que acorreram ao local nada puderam fazer a não ser observar, atônitos, a coluna de fumaça que subia aos céus. À medida que a fumaça se dissipava, entre as figuras paralisadas dos funcionários da fábrica, surgiu a imagem do Sr. Funamoto: sentado em sua cadeira, perfeitamente imóvel.
+
+Correndo desesperadamente em sua direção, gritaram: "Sr. Funamoto!", "O senhor está aí?", "Está ferido?". Ao ouvir as vozes, ele pareceu despertar de um transe. Levantou a mão lentamente, passou-a pelo rosto coberto de fuligem e disse, com a voz embargada de emoção: "Ah... meu rosto está intacto... as sobrancelhas, as orelhas, o nariz... Ah, fui salvo! Estou salvo!". Suas palavras ecoaram com uma profundidade que tocou a todos os presentes.
+
+Ao olharem ao redor, viram que o tubo se partira em dois. Uma das metades fora arremessada ao mar, enquanto a outra jazia tranquilamente no chão. A área ao redor parecia ter sido varrida pela onda de choque. Foi então que o Sr. Funamoto, coberto de cinzas e poeira, deu-se conta de que não tinha um único arranhão, nem mesmo fora atingido por um estilhaço. A outra metade do tubo, que deveria tê-lo atingido em cheio, estava caída à sua frente, sem sequer ter mudado de posição.
+
+Naquele instante, seu coração se prostrou em espírito diante de Meishu-Sama, em Atami, vibrando de gratidão e reverência.
+
+Este relato de uma proteção tão grandiosa, manifestada em meio a um desastre tão súbito, inspira em todos que o ouvem um profundo sentimento de temor e respeito pela Força Divina. Quando pensamos que estamos constantemente banhados por uma benevolência tão imensa, como não nos sentirmos felizes? Transformemos essa alegria e essa gratidão em serviço na Obra Divina, mesmo que nossa contribuição seja modesta.
+
+*Como não retribuir a dádiva recebida,*
+*Ao refletir sobre a ventura de estar vivo?*
+
+Sem me preocupar com a simplicidade de minhas palavras, quis compartilhar com todos uma parte dessa imensa alegria, para que juntos possamos nos regozijar com a grandiosidade da virtude de Deus.
+
+---
+
+# A Febre do Kodo
+
+**Categoria:** ko | **Ano:** 昭和10(1935)年1月23日 | **Fonte:** Toho no Hikari
+**Título Original:** 皇道ばやり 阿呆文学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-01-23
+
+## A Febre do Kodo
+
+Recentemente, o número de organizações que ostentam o nome “Kodo” proliferou de tal forma que já ultrapassa a casa das setenta. A velocidade com que as modas se propagam é algo que deixa atônito até mesmo um néscio como eu.
+
+Embora existam, entre elas, algumas poucas agremiações sérias, a verdade é que a esmagadora maioria é de natureza duvidosa. Tais impostores identificam indivíduos ou estabelecimentos de aparência abastada e, por meio da intimidação, extorquem recursos para financiar seus vícios e despesas pessoais. Certamente, essa situação leva às lágrimas os verdadeiros seguidores do Kodo.
+
+Há poucos dias, ao visitar a sala de um diretor de certa empresa, presenciei uma cena que me deixou estarrecido. O assistente anunciou: “Senhor presidente, um representante do Kodo acaba de chegar.” Surpreso, o presidente arregalou os olhos e retrucou: “Mas não recebemos a visita de um deles ontem mesmo?” Ao que o assistente respondeu: “Não, senhor. O de hoje é outro representante, diferente daquele que veio ontem.”
+
+Ademais, esses charlatães invocam ostensivamente a dignidade da Casa Imperial, criando um ambiente no qual a recusa se torna impraticável, para então desferirem seu golpe. É uma conduta verdadeiramente intolerável.
+
+Creio ser imperativo que as autoridades policiais lancem um olhar mais severo sobre esses indivíduos, que agem como moscas importunas. O que os senhores pensam a respeito?
+
+---
+
+# Salvos da Fúria das Águas
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年9月5日 | **Fonte:** Eikou
+**Título Original:** 此奇蹟 | **Status:** Published | **Edição/Página:** 120号 | **Data ISO:** 1951-09-05
+
+## Salvos da Fúria das Águas
+
+É um fato sobejamente conhecido que a profusão de milagres entre os fiéis de nossa Fé é, muito provavelmente, um acontecimento sem precedentes na história da humanidade. Recentemente, os jornais noticiaram as graves inundações que assolaram Kyoto. Contudo, o relato que se segue descreve um prodígio verdadeiramente extraordinário, um milagre entre os milagres. Sua leitura, com toda certeza, não deixará de comover profundamente até mesmo aqueles que ainda não trilham este caminho de fé.
+
+Ademais, informações que nos chegaram para além deste testemunho revelam um fato ainda mais assombroso: das quarenta pessoas arrastadas pela correnteza naquela ocasião, somente estes dois jovens sobreviveram; as outras trinta e oito, infelizmente, pereceram afogadas. Como não se espantar diante de tal acontecimento?
+
+**O milagre da inundação na província de Kyoto**
+Igreja Ojin, Kyoto
+Murata Kikuzo (52 anos)
+
+É com o coração transbordando de reverência que venho relatar a sublime proteção divina que nos foi concedida. Embora sejamos gratos pelas inúmeras bênçãos que recebemos cotidianamente, mesmo nas menores circunstâncias, desta vez o milagre se estendeu aos meus filhos, Kazuo, de vinte e dois anos, e Takao, de dezenove. Apesar de ainda não terem abraçado a Fé, suas vidas preciosas foram salvas, o que, para mim, como pai, representa uma alegria ainda maior do que se a minha própria vida tivesse sido poupada. É, portanto, com esta singela caligrafia que expresso minha mais profunda gratidão.
+
+Relato que, no dia 13 de maio, tive a permissão de receber o Ponto Focal da Luz Divina na Igreja Ojin e, mais recentemente, em 8 de julho, recebi a Imagem de Kannon (観音) em biombo na unidade de Sembon. Apenas três dias depois, em 11 de julho, sobreveio a grande purificação por meio das enchentes na região de Kyoto, fato que, creio eu, já seja de vosso conhecimento. Com efeito, a localidade vizinha à minha, Kashiwabara, foi o epicentro da catástrofe. O rompimento da barragem do reservatório Heiwaike, no alto da montanha, arrastou instantaneamente a maioria das residências e ceifou a vida de quarenta almas. O fato de meus dois filhos, tragados por esse turbilhão de água, terem sido salvos após serem arrastados por uma distância considerável e sem ferimentos graves, não pode ser descrito senão como um milagre. Sinto-me imerso em lágrimas de gratidão. Para que compreendam a dimensão do ocorrido, pedi a ambos que redigissem um relato dos acontecimentos.
+
+***
+
+Naquela manhã, ignorando os apelos de nosso pai para que não fôssemos, saímos para pescar. A chuva ainda era branda, mas, ao atravessarmos alguns túneis e nos aproximarmos do terceiro viaduto, ela se transformou em um temporal avassalador. O rio subiu vertiginosamente, tornando-se uma correnteza revolta e turva, enquanto deslizamentos de terra ocorriam nas encostas. A chuva se intensificava a cada instante, e a própria ferrovia onde estávamos tornou-se perigosa, impossibilitando avançar ou retroceder. Decidimos, então, cruzar a montanha para nos abrigarmos na estação de Hozukyo. Mal havíamos dado dois ou três passos quando, com um estrondo pavoroso, sentimos o chão ceder. Em uma fração de segundo, tudo desmoronou, e fomos lançados de cabeça a uma queda de cerca de vinte metros, diretamente na fúria das águas.
+
+Fui arrastado por talvez cinquenta metros. Na escuridão, minha consciência começava a se esvair. “É o fim”, foi o pensamento instantâneo que me ocorreu. Meu corpo perdeu quase toda a força, entregue à correnteza. Ao recobrar os sentidos por um momento, vi um pedaço de madeira se aproximando, mas, sem domínio sobre meus membros, como poderia alcançá-lo? Involuntariamente, clamei: “Senhor da Grande Luz, salvai-me!”.
+
+No mesmo instante, como se mudasse de rumo, a madeira veio em minha direção, e consegui me agarrar a ela. “É a proteção divina! Foi a proteção divina!”, este pensamento relampejou em minha mente. Agarrado à madeira, fui levado pela correnteza violenta, mas sem colidir com nenhuma rocha. Logo, avistei o alto muro de concreto da estação de Hozukyo e senti um alívio, mas novamente minha consciência começou a falhar. Em meio à névoa da inconsciência, uma voz clara e forte ressoou em meus ouvidos: “Seja firme!”.
+
+Num sobressalto, soltei a madeira por reflexo e nadei desesperadamente em direção à margem. Quando minhas mãos a tocaram, eu já não tinha noção de nada; agia por puro instinto. Posteriormente, ouvi de pessoas que testemunharam a cena que eu girava para a esquerda e para a direita, ora afundando, ora emergindo. Desejavam me ajudar, me encorajar, mas, julgando ser um caso perdido, sentiram pena de me ver morrer e juntaram as mãos em prece por mim. Disseram ter ficado atônitos quando, subitamente, comecei a nadar com vigor. Eu lhes respondi: “Foi graças à fé de meu pai no Senhor da Grande Luz”.
+
+Takao, por sua vez, começou a perder a consciência assim que caiu na água. Naquele momento, ele também ouviu claramente uma voz dentro da água a lhe dizer: “Seja firme!”. Assustado, recobrou os sentidos e percebeu que sua perna esquerda, do joelho para baixo, estava soterrada pela terra do desmoronamento. Desesperado, usou a perna direita para cavar e, felizmente, conseguiu se libertar. Contudo, foi imediatamente tragado por um redemoinho e pela força da correnteza, sendo revolvido no leito escuro do rio.
+
+Por cerca de cinquenta metros, esteve completamente à deriva e sem controle. Quando o ar começou a faltar e o corpo, paralisado pela força da água, já não respondia, ele pensou: “Não há mais jeito”. Foi nesse exato instante que sua respiração se aliviou e tudo à sua frente se iluminou. Por acaso, ou por desígnio, avistou a raiz de uma árvore exposta pela correnteza e agarrou-se a ela com todas as forças. A sensação de “Ah, estou salvo, fui salvo” o deixou atordoado por um tempo. Embora estivesse em estado de choque, sentia que algo de muito misterioso havia acontecido.
+
+***
+
+Enquanto isso, depois que meus filhos saíram para pescar, fui tomado por uma estranha inquietação e não conseguia me acalmar. Sentei-me diante do Altar e roguei com fervor à Imagem de Kannon (観音) pela proteção dos dois, entoando a oração Zengen Sanji por três vezes. Ao fazê-lo, senti uma paz tomar conta de meu peito. Era exatamente nesse momento que eles estavam sendo lançados à água pelo desmoronamento.
+
+Pouco depois, minha cunhada entrou correndo e, pedindo que eu não me assustasse, disse: “Parece que Kazuo e Takao foram levados pela correnteza! Alguém viu o barranco desabar e disse que, mesmo esperando por mais de cinco minutos, eles não voltaram à superfície”. Fiquei sem palavras. Por um instante, meu rosto se petrificou. “Então meu pressentimento estava certo”, pensei. A ideia de perder meus dois filhos me mergulhou em uma escuridão profunda. Todavia, recobrando a consciência, entendi que não havia outro caminho a não ser entregar tudo nas mãos de Deus. Retornei ao Altar e voltei a entoar a Zengen Sanji.
+
+Quando os vizinhos vieram me chamar para procurá-los, eu recusei, dizendo: “Não. Eu tenho fé, por isso os entregarei aos cuidados do Senhor da Grande Luz”. Sinto uma gratidão imensa por ter sido capaz de alcançar esse estado de espírito. Continuei a orar com toda a minha alma, confiando unicamente na Imagem de Kannon (観音).
+
+Cerca de uma hora depois, minha cunhada voltou correndo: “Kazuo foi encontrado na estação de Hozukyo!”, disse ela. “Mas Takao não teve a mesma sorte... Temos que nos conformar, não havia o que fazer se os dois morressem”, completou, chorando. A precipitação foi tanta que já havíamos estendido um futon na sala, preparando-nos para velar um corpo.
+
+Foi quando uma menina da vizinhança veio correndo e gritou: “Senhor Murata, Kazuo e Takao, os dois voltaram!”. “É verdade?”, perguntei, correndo para fora. Lá estava Takao, com as roupas molhadas sobre os ombros, sorrindo e conversando com os vizinhos. Seria um fantasma? Duvidei dos meus próprios olhos. Mas não havia engano. Só então as lágrimas vieram. Sentei-me diante do Altar e, de tão grato, não conseguia emitir som algum; apenas agradeci em meu coração. Meus dois filhos sentaram-se atrás de mim e também agradeceram pela proteção divina.
+
+Ah, que milagre! Por ter recebido esta graça magnânima e esta proteção sublime tão logo após ingressar na Fé, expresso minha mais profunda e sincera gratidão. De agora em diante, dedicar-me-ei com afinco ainda maior a servir na Obra Divina.
+
+A Meishu-Sama, meu eterno agradecimento.
+
+---
+
+# O Evangelho do Paraíso
+
+**Categoria:** ko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 幸福への道 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+
+## O Evangelho do Paraíso
+
+No mundo contemporâneo, onde o progresso da civilização avança em um ritmo vertiginoso e incessante, quantos indivíduos terão alcançado a genuína felicidade? Aqueles que podem se declarar felizes constituem, porventura, uma ínfima minoria. Embora o propósito primordial do avanço cultural seja a crescente promoção da felicidade humana, a contradição nos resultados não é apenas gritante, como, em verdade, sugere até mesmo o oposto. Ao se examinar a questão com o devido esmero, descobre-se que a causa fundamental para tal paradoxo reside nas enfermidades que afligem o ser humano.
+
+Nesse sentido, as maiores desgraças, à parte as doenças, seriam a guerra e a fome. Contudo, descobre-se que a origem de tais calamidades reside, na verdade, nas deficiências do corpo e da mente do próprio homem.
+
+O antigo e conhecido provérbio “mente sã em corpo são” é, de fato, uma máxima de ouro, de valor perene.
+
+A conclusão a que cheguei, com base na experiência adquirida ao tratar inúmeros pacientes, é que aqueles com distúrbios mentais, transtornos de personalidade ou esgotamento nervoso, sem uma única exceção, apresentam inchaços e nódulos endurecidos nas glândulas linfáticas de um dos lados do pescoço e na região do bulbo raquidiano. A psicologia desses pacientes desvia-se da normalidade, tornando-os incapazes de formular juízos corretos. Similarmente, indivíduos que se enraivecem com facilidade, ou seja, os propensos a contendas, invariavelmente possuem nódulos endurecidos em ambos os ombros — o que se conhece como enrijecimento dos ombros. Crianças com temperamento irritadiço e bebês com o hábito de chorar excessivamente também apresentam um enrijecimento notável nessa mesma região. Todavia, à medida que nossa terapêutica dissolve e elimina esses nódulos, a personalidade de tais indivíduos se transforma por completo. Os adultos passam a ter uma linguagem e um comportamento pautados pelo bom senso, vindo a apreciar a paz e a harmonia. As crianças, por sua vez, tornam-se obedientes às palavras dos pais e revelam-se mais alegres e radiantes.
+
+Considerando-se que a nação é um agrupamento de indivíduos, é lógico que, se cada pessoa que a compõe deixar de ser afeita a conflitos, o país inevitavelmente se tornará uma nação amante da paz.
+
+Ademais, a escassez de recursos e a fome, embora frequentemente decorram da guerra, podem também ter outras origens, como o declínio da capacidade intelectual da população, a indolência e a indigência de pensamento dos governantes. É inegável, contudo, que a causa subjacente a todos esses problemas é a falta de saúde do corpo e da mente, ou seja, o fato de as pessoas possuírem um elevado acúmulo de toxinas.
+
+Originalmente, quem desfruta de saúde física e mental possui pensamentos e atitudes pautados pelo bom senso e pela racionalidade. Consequentemente, discerne com clareza o que deve e o que não deve fazer como ser humano, ama o bem e repudia o mal, ama o próximo e se alegra com a felicidade alheia. O preceito de Confúcio, “Não imponha aos outros aquilo que não deseja para si”, bem como a máxima de que a felicidade suprema consiste em fazer os outros felizes, são princípios que só podem ser verdadeiramente praticados por pessoas sãs de corpo e de espírito. É sob essa ótica que a exploração dos trabalhadores por parte de capitalistas e latifundiários, que buscam apenas satisfazer sua própria cobiça, força, em contrapartida, os operários e camponeses a recorrerem, como medida de autodefesa, a ações coletivas. Nesse sentido, não seria exagero afirmar que são os próprios capitalistas e latifundiários que criam o comunismo. Em outras palavras, estão a tremer diante do fantasma que eles mesmos criaram. Que quadro insensato, não é verdade?
+
+Imaginemos, por um instante, uma sociedade composta majoritariamente por pessoas sãs de corpo e mente. Nela, até mesmo o capitalista tomaria consciência de que deve haver um limite justo para os lucros que aufere e distribuiria os excedentes aos seus trabalhadores. Estes, por sua vez, sentir-se-iam satisfeitos e gratos, passando a apoiar o capitalista e a empenhar-se para que a empresa prosperasse ainda mais. Nesse ponto, a verdadeira harmonia entre capital e trabalho se estabeleceria, e os conflitos desapareceriam por completo. Isso, de modo algum, é um sonho.
+
+Portanto, em uma sociedade assim, a necessidade de leis e regulamentos diminuiria drasticamente. Diz-se que, na era dos imperadores Yao e Shun na China, o bom governo foi alcançado com apenas três artigos de lei, e que, no Japão, a Constituição de Dezessete Artigos do Príncipe Shotoku foi suficiente para governar eficazmente. Acredito que tal cenário é perfeitamente possível.
+
+---
+
 # O Segredo da Boa Sorte
 
 **Categoria:** ko | **Ano:** 昭和29(1954)年2月3日 | **Fonte:** Eikou
-**Título Original:** 幸運の秘訣 | **Status:** Published
+**Título Original:** 幸運の秘訣 | **Status:** Published | **Edição/Página:** 246号 | **Data ISO:** 1954-02-03
 
 ## O Segredo da Boa Sorte
 
@@ -32,7 +1090,7 @@ O espírito, assim como a matéria, possui peso. Um espírito pesado decai ao In
 # Um Milagre que Desafia a Razão
 
 **Categoria:** ko | **Ano:** 昭和26(1951)年8月8日 | **Fonte:** Eikou
-**Título Original:** 此奇蹟 | **Status:** Published
+**Título Original:** 此奇蹟 | **Status:** Published | **Edição/Página:** 116号, 116号 | **Data ISO:** 1951-08-08
 
 ## Um Milagre que Desafia a Razão
 
@@ -73,7 +1131,7 @@ Meishu-Sama, muito obrigado. Com o desejo de retribuir, ainda que minimamente, a
 # O Flagelo da Tuberculose e a Salvação da Juventude
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 此救い 未発表 | **Status:** Unpublished
+**Título Original:** 此救い 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Flagelo da Tuberculose e a Salvação da Juventude
 
@@ -90,7 +1148,7 @@ Ademais, para além da recuperação da saúde, eles alcançam a consciência da
 # A Liberdade de Escolha do Enfermo
 
 **Categoria:** ko | **Ano:** 昭和25(1950)年12月27日 | **Fonte:** Eikou
-**Título Original:** 御注意 | **Status:** Published
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 84号 | **Data ISO:** 1950-12-27
 
 ## A Liberdade de Escolha do Enfermo
 
@@ -105,7 +1163,7 @@ A decisão pertence, em sua totalidade, ao próprio enfermo. Sua liberdade de es
 # A Dissertação sobre as Cinco Sabedorias
 
 **Categoria:** ko | **Ano:** 昭和24(1949)年8月20日 | **Fonte:** -
-**Título Original:** 五智を説く | **Status:** Published
+**Título Original:** 五智を説く | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1949-08-20
 
 ## A Dissertação sobre as Cinco Sabedorias
 
@@ -132,7 +1190,7 @@ Por fim, a Astúcia Maligna, como os próprios ideogramas sugerem, é a sabedori
 # A Verdadeira Natureza da Antitoxina
 
 **Categoria:** ko | **Ano:** 昭和11(1936)年5月11日 | **Fonte:** Kenko
-**Título Original:** 抗毒素とは何乎 | **Status:** Unpublished
+**Título Original:** 抗毒素とは何乎 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-11
 
 ## A Verdadeira Natureza da Antitoxina
 
@@ -169,7 +1227,7 @@ Uma pesquisa recente conduzida pelas autoridades revela que, apenas na jurisdiç
 # A Evidência dos Fatos
 
 **Categoria:** ko | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
-**Título Original:** この事実 | **Status:** Published
+**Título Original:** この事実 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
 
 ## A Evidência dos Fatos
 
@@ -208,7 +1266,7 @@ Com profunda gratidão pela virtude espiritual de Meishu-Sama e pelos reverendos
 # A Natureza e a Ação dos Espíritos-Raposa
 
 **Categoria:** ko | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 狐霊 | **Status:** Published
+**Título Original:** 狐霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Natureza e a Ação dos Espíritos-Raposa
 
@@ -235,7 +1293,7 @@ Contudo, com o passar das eras e a desordem que se instalou no mundo, a fé em I
 # A Questão do Declínio da Compleição Física Nacional
 
 **Categoria:** ko | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
-**Título Original:** 国民体位低下の問題 | **Status:** Published
+**Título Original:** 国民体位低下の問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Questão do Declínio da Compleição Física Nacional
 
@@ -363,7 +1421,7 @@ O Professor Lelean, da Universidade de Edimburgo, alertou: "Se nos dedicarmos à
 # A Natureza da Medicina Equivocada
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 誤謬医学斯くの如し 未発表 | **Status:** Unpublished
+**Título Original:** 誤謬医学斯くの如し 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Natureza da Medicina Equivocada
 
@@ -376,7 +1434,7 @@ Portanto, como se pode depreender do exemplo deste paciente, se esta Medicina Di
 # Uma Análise Sobre a Deterioração da Saúde Nacional
 
 **Categoria:** ko | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 国民体位低下の問題 | **Status:** Published
+**Título Original:** 国民体位低下の問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## Uma Análise Sobre a Deterioração da Saúde Nacional
 
@@ -509,7 +1567,7 @@ O professor Ryle, da Universidade de Edimburgo, alertou: “Se nos esforçarmos 
 # A Causa Primordial dos Males Sociais
 
 **Categoria:** ko | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 膏薬張の救い | **Status:** Published
+**Título Original:** 膏薬張の救い | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Causa Primordial dos Males Sociais
 
@@ -532,7 +1590,7 @@ A religião de poder, capaz de solucionar integralmente todas essas complexas qu
 # Diretrizes de Meishu-Sama
 
 **Categoria:** ko | **Ano:** 昭和25(1950)年5月20日 | **Fonte:** Kyusei
-**Título Original:** 御注意 | **Status:** Published
+**Título Original:** 御注意 | **Status:** Published | **Edição/Página:** 63号 | **Data ISO:** 1950-05-20
 
 ## Diretrizes de Meishu-Sama
 
@@ -545,7 +1603,7 @@ Outrossim, foi abordada a questão da Renge (紫雲英). Seu uso como fertilizan
 # Sobre o Kototama
 
 **Categoria:** ko | **Ano:** 昭和25(1950)年 | **Fonte:** 聖書
-**Título Original:** 言霊について 未発表、昭和25(1950)年 彼の | **Status:** Unpublished
+**Título Original:** 言霊について 未発表、昭和25(1950)年 彼の | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950
 
 ## Sobre o Kototama
 
@@ -568,7 +1626,7 @@ Com efeito, enquanto as palavras malignas constituem o pecado, as palavras benig
 # O Destino do Mundo
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年4月29日 | **Fonte:** Eikou
-**Título Original:** これから世界はどうなる | **Status:** Published
+**Título Original:** これから世界はどうなる | **Status:** Published | **Edição/Página:** 206号 | **Data ISO:** 1953-04-29
 
 ## O Destino do Mundo
 
@@ -593,7 +1651,7 @@ Em suma, o fundamento desta Grande Transição Mundial repousa sobre um princíp
 # Sobre a Felicidade
 
 **Categoria:** ko | **Ano:** 昭和23(1948)年12月 | **Fonte:** Chijo Tengoku
-**Título Original:** 幸福 | **Status:** Published
+**Título Original:** 幸福 | **Status:** Published | **Edição/Página:** １号 | **Data ISO:** 1948-12
 
 ## Sobre a Felicidade
 
@@ -618,7 +1676,7 @@ Contudo, muitos poderão dizer que, neste mundo de sofrimentos, é impossível s
 # As Consequências do Afastamento da Fé
 
 **Categoria:** ko | **Ano:** 昭和26(1951)年6月6日 | **Fonte:** Eikou
-**Título Original:** 此事実を見よ | **Status:** Published
+**Título Original:** 此事実を見よ | **Status:** Published | **Edição/Página:** 107号 | **Data ISO:** 1951-06-06
 
 ## As Consequências do Afastamento da Fé
 
@@ -662,7 +1720,7 @@ Meishu-Sama, muito obrigada. Dedicar-me-ei de corpo e alma.
 # Como Encarar a Realidade
 
 **Categoria:** ko | **Ano:** 昭和11(1936)年6月15日 | **Fonte:** Kenko
-**Título Original:** 此事実を如何に見るか | **Status:** Published
+**Título Original:** 此事実を如何に見るか | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1936-06-15
 
 ## Como Encarar a Realidade
 
@@ -681,7 +1739,7 @@ Nesse sentido, divulgaremos sucessivamente exemplos que demonstram o quão imens
 # O Único Caminho para a Salvação
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 此救い 未発表 | **Status:** Unpublished
+**Título Original:** 此救い 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Único Caminho para a Salvação
 
@@ -696,7 +1754,7 @@ Conforme demonstra o referido caso, no qual se obteve a salvação onde tanto a 
 # Relato sobre uma Anciã e os Espíritos de Raposa
 
 **Categoria:** ko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 狐霊と老婆 | **Status:** Published
+**Título Original:** 狐霊と老婆 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Relato sobre uma Anciã e os Espíritos de Raposa
 
@@ -725,7 +1783,7 @@ Nesse sentido, as profissões que exercemos no Mundo Material determinam nosso d
 # Tanbankan: A Visão Obstruída pelo Materialismo
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年8月20日 | **Fonte:** -
-**Título Original:** 担板漢 寸評（光23号） 白光生 | **Status:** Published
+**Título Original:** 担板漢 寸評（光23号） 白光生 | **Status:** Published | **Edição/Página:** 23号, 23号 | **Data ISO:** 1949-08-20
 
 ## Tanbankan: A Visão Obstruída pelo Materialismo
 
@@ -738,7 +1796,7 @@ Trata-se de uma analogia precisa para o materialismo que prevalece em nossos dia
 # Um Apelo à Consciência Nacional
 
 **Categoria:** ko | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 此事実 | **Status:** Published
+**Título Original:** 此事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Um Apelo à Consciência Nacional
 
@@ -765,7 +1823,7 @@ Quanto antes o fizerem, maior será o benefício para a Nação. Disso não tenh
 # O que este fato nos revela
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 世界Kyusei教奇蹟集
-**Título Original:** この事実は何を物語るか | **Status:** Published
+**Título Original:** この事実は何を物語るか | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-09-10
 
 ## O que este fato nos revela
 
@@ -832,7 +1890,7 @@ Gostaria de acrescentar que, há dois anos, convertemos totalmente nossa lavoura
 # Mais uma vítima da terapêutica médica
 
 **Categoria:** ko | **Ano:** 昭和27(1952)年12月3日 | **Fonte:** Eikou
-**Título Original:** これも医療の被害者 | **Status:** Published
+**Título Original:** これも医療の被害者 | **Status:** Published | **Edição/Página:** 185号 | **Data ISO:** 1952-12-03
 
 ## Mais uma vítima da terapêutica médica
 
@@ -879,7 +1937,7 @@ Meishu-Sama, muito obrigado.
 # Como criar filhos saudáveis
 
 **Categoria:** ko | **Ano:** 昭和26(1951)年3月14日 | **Fonte:** Eikou
-**Título Original:** 子供を健康にするには | **Status:** Published
+**Título Original:** 子供を健康にするには | **Status:** Published | **Edição/Página:** 95号 | **Data ISO:** 1951-03-14
 
 ## Como criar filhos saudáveis
 
@@ -904,7 +1962,7 @@ Nesse sentido, rogo encarecidamente que não apenas as autoridades competentes, 
 # A Face da Sociedade Contemporânea
 
 **Categoria:** ko | **Ano:** 昭和25(1950)年1月28日 | **Fonte:** -
-**Título Original:** 今日の世相 | **Status:** Published
+**Título Original:** 今日の世相 | **Status:** Published | **Edição/Página:** 47号 | **Data ISO:** 1950-01-28
 
 ## A Face da Sociedade Contemporânea
 
@@ -925,7 +1983,7 @@ Por tudo isso, torna-se imperativo formar o maior número possível de fiéis. C
 # A Evidência Incontestável dos Milagres
 
 **Categoria:** ko | **Ano:** 昭和27(1952)年10月1日 | **Fonte:** Eikou
-**Título Original:** これでもか | **Status:** Published
+**Título Original:** これでもか | **Status:** Published | **Edição/Página:** 176号 | **Data ISO:** 1952-10-01
 
 ## A Evidência Incontestável dos Milagres
 
@@ -976,7 +2034,7 @@ Muito obrigado, Meishu-Sama.
 # A Proteção Divina nas Profundezas da Terra
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年1月21日 | **Fonte:** Eikou
-**Título Original:** この奇蹟をどう見る | **Status:** Published
+**Título Original:** この奇蹟をどう見る | **Status:** Published | **Edição/Página:** 192号 | **Data ISO:** 1953-01-21
 
 ## A Proteção Divina nas Profundezas da Terra
 
@@ -1050,7 +2108,7 @@ Mais uma vez, tive a permissão de testemunhar o milagre de que, ao acumularmos 
 # O Início da Obra Divina em Tamagawa
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 玉川時代 自観叢書第9篇 | **Status:** Published
+**Título Original:** 玉川時代 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.30 | **Data ISO:** 1949-12-30
 
 ## O Início da Obra Divina em Tamagawa
 
@@ -1078,7 +2136,7 @@ Conforme o esperado, a Obra prosperou gradualmente, tornando-se conhecida na reg
 # Sobre o Grave Problema da Saúde Pública
 
 **Categoria:** ko | **Ano:** 昭和11(1936)年 | **Fonte:** 刻下の大問題たる国民保健に就て
-**Título Original:** 刻下の大問題たる国民保健に就て | **Status:** Unpublished
+**Título Original:** 刻下の大問題たる国民保健に就て | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## Sobre o Grave Problema da Saúde Pública
 
@@ -1099,7 +2157,7 @@ Em suma, a resolução do problema reside na descoberta de sua verdadeira causa.
 # A Ineficácia do Tratamento Sintomático
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年7月25日 | **Fonte:** Eikou
-**Título Original:** 対症療法の可否 | **Status:** Published
+**Título Original:** 対症療法の可否 | **Status:** Published | **Edição/Página:** 114号 | **Data ISO:** 1951-07-25
 
 ## A Ineficácia do Tratamento Sintomático
 
@@ -1116,7 +2174,7 @@ Como se vê, todo e qualquer sintoma patológico possui, invariavelmente, uma or
 # A Desnecessidade do Termômetro
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年5月28日 | **Fonte:** Eikou
-**Título Original:** 体温計 医学断片集（10） | **Status:** Published
+**Título Original:** 体温計 医学断片集（10） | **Status:** Published | **Edição/Página:** 158号 | **Data ISO:** 1952-05-28
 
 ## A Desnecessidade do Termômetro
 
@@ -1133,7 +2191,7 @@ A análise deste único ponto, por si só, é suficiente para demonstrar a profu
 # O Mistério da Chegada de Daikoku-sama
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
-**Título Original:** 大黒様のお話 ――会主の御講話の続き―― | **Status:** Published
+**Título Original:** 大黒様のお話 ――会主の御講話の続き―― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-02-04
 
 ## O Mistério da Chegada de Daikoku-sama
 
@@ -1166,7 +2224,7 @@ Por fim, àqueles que desejarem entronizar uma imagem de Daikoku-sama, coloco-me
 # A Verdade sobre os Princípios Vertical e Horizontal
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 経と緯 未発表 | **Status:** Unpublished
+**Título Original:** 経と緯 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Verdade sobre os Princípios Vertical e Horizontal
 
@@ -1189,7 +2247,7 @@ Dessa forma, a verdade é que o Vertical é elevado, porém restrito, enquanto o
 # O Amor Universal
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Kyusei
-**Título Original:** 大乗愛 | **Status:** Published
+**Título Original:** 大乗愛 | **Status:** Published | **Edição/Página:** 166号 | **Data ISO:** 1952-07-23
 
 ## O Amor Universal
 
@@ -1206,7 +2264,7 @@ Nesse sentido, para que uma religião seja considerada verdadeira, ela não deve
 # A Incontestável Realidade dos Fatos
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年6月3日 | **Fonte:** Eikou
-**Título Original:** この事実を何と見る | **Status:** Published
+**Título Original:** この事実を何と見る | **Status:** Published | **Edição/Página:** 211号 | **Data ISO:** 1953-06-03
 
 ## A Incontestável Realidade dos Fatos
 
@@ -1253,7 +2311,7 @@ Meishu-Sama, renovo minha mais profunda e sincera gratidão.
 # A Verdadeira Causa do Declínio da Constituição Física
 
 **Categoria:** ta | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
-**Título Original:** 体位低下の真因 | **Status:** Published
+**Título Original:** 体位低下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdadeira Causa do Declínio da Constituição Física
 
@@ -1280,7 +2338,7 @@ Ao chegar, por mais que procurasse, não havia qualquer elixir a ser encontrado.
 # Acerca dos Espíritos de Raposa
 
 **Categoria:** ko | **Ano:** 昭和24(1949)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 狐霊に就て | **Status:** Published
+**Título Original:** 狐霊に就て | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-09-25
 
 ## Acerca dos Espíritos de Raposa
 
@@ -1341,7 +2399,7 @@ Com efeito, é comum que os espíritos de raposa afirmem que o que mais gostam �
 # A Terceira Religião
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** 第三宗教 (再録) 自観叢書12編 | **Status:** Published
+**Título Original:** 第三宗教 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-01-30
 
 ## A Terceira Religião
 
@@ -1364,7 +2422,7 @@ O que foi exposto é uma explanação bastante sucinta. Em suma, trata-se de uma
 # A Questão da Constituição Física
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
-**Título Original:** 体質 ・医学断片集（26） | **Status:** Published
+**Título Original:** 体質 ・医学断片集（26） | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
 
 ## A Questão da Constituição Física
 
@@ -1379,7 +2437,7 @@ A evidência irrefutável de nosso postulado reside no Johrei. Ao ministrá-lo, 
 # Elucidação sobre a Agricultura Natural e seu Aumento Revolucionário da Produção
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
-**Título Original:** 断片 ・体験談中に挿入されたもの | **Status:** Published
+**Título Original:** 断片 ・体験談中に挿入されたもの | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
 
 ## Elucidação sobre a Agricultura Natural e seu Aumento Revolucionário da Produção
 
@@ -1428,7 +2486,7 @@ Existem pessoas que, mesmo lendo ou ouvindo minhas explanações, não conseguem
 # O Segundo Milagre Extraordinário
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 第二の超奇蹟 未発表 | **Status:** Unpublished
+**Título Original:** 第二の超奇蹟 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Segundo Milagre Extraordinário
 
@@ -1447,7 +2505,7 @@ Em suma, este é o fenômeno que manifesta, na prática, a verdade de que o esp�
 # Um método para que todos possam ganhar peso
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年1月10日 | **Fonte:** Eikou
-**Título Original:** 誰でも太れる法 | **Status:** Published
+**Título Original:** 誰でも太れる法 | **Status:** Published | **Edição/Página:** 86号 | **Data ISO:** 1951-01-10
 
 ## Um método para que todos possam ganhar peso
 
@@ -1468,7 +2526,7 @@ Sendo assim, todos que conhecerem este método poderão evitar a tuberculose e, 
 # A Origem do Declínio da Constituição Física
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 体位抵下の真因 | **Status:** Published
+**Título Original:** 体位抵下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Origem do Declínio da Constituição Física
 
@@ -1493,7 +2551,7 @@ Diante disso, até mesmo o célebre Xu Fu não pôde retornar à sua terra natal
 # A Terceira Religião
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年6月18日 | **Fonte:** -
-**Título Original:** 第三宗教 | **Status:** Published
+**Título Original:** 第三宗教 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-06-18
 
 ## A Terceira Religião
 
@@ -1514,7 +2572,7 @@ O que foi exposto até aqui é apenas uma explanação sumária. Em síntese, é
 # É Possível Evitar a Terceira Guerra Mundial
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年10月17日 | **Fonte:** Eikou
-**Título Original:** 第三次戦争は免れる事が出来る | **Status:** Published
+**Título Original:** 第三次戦争は免れる事が出来る | **Status:** Published | **Edição/Página:** 126号 | **Data ISO:** 1951-10-17
 
 ## É Possível Evitar a Terceira Guerra Mundial
 
@@ -1543,7 +2601,7 @@ Creio que o essencial foi compreendido. Em suma, afirmo sem qualquer hesitação
 # Meramente Vivendo
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Eikou
-**Título Original:** 只生きている 阿呆文学（九） | **Status:** Published
+**Título Original:** 只生きている 阿呆文学（九） | **Status:** Published | **Edição/Página:** 101号 | **Data ISO:** 1951-04-25
 
 ## Meramente Vivendo
 
@@ -1570,7 +2628,7 @@ Pois bem, adeus.
 # O Banho Interno do Corpo
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年3月12日 | **Fonte:** Kyusei
-**Título Original:** 体内の入浴 | **Status:** Published
+**Título Original:** 体内の入浴 | **Status:** Published | **Edição/Página:** 147号 | **Data ISO:** 1952-03-12
 
 ## O Banho Interno do Corpo
 
@@ -1593,7 +2651,7 @@ Eu não apenas descobri este erro monumental da humanidade, como também ensino 
 # O Tratamento Correto
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年10月29日 | **Fonte:** -
-**Título Original:** 正しい治療 ・医薬断片集 | **Status:** Published
+**Título Original:** 正しい治療 ・医薬断片集 | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1949-10-29
 
 ## O Tratamento Correto
 
@@ -1610,7 +2668,7 @@ Ao que parece, o mundo está repleto de inúmeros contrassensos.
 # A Localização de Takamagahara
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
-**Título Original:** 高天原の所在地 | **Status:** Published
+**Título Original:** 高天原の所在地 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
 
 ## A Localização de Takamagahara
 
@@ -1637,7 +2695,7 @@ O Cristianismo, por exemplo, instituiu a prática de ir à igreja todos os domin
 # Uma Análise Espiritual sobre os Tufões
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年7月29日 | **Fonte:** Eikou
-**Título Original:** 台風の霊的考察 | **Status:** Published
+**Título Original:** 台風の霊的考察 | **Status:** Published | **Edição/Página:** 219号 | **Data ISO:** 1953-07-29
 
 ## Uma Análise Espiritual sobre os Tufões
 
@@ -1662,7 +2720,7 @@ Portanto, a única solução definitiva consiste em, sem jamais negligenciar os 
 # Manifesto e Regulamento da Associação de Saúde do Grande Japão
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年6月15日 | **Fonte:** Kenko
-**Título Original:** 大日本健康協会主旨及び会則 | **Status:** Published
+**Título Original:** 大日本健康協会主旨及び会則 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1936-06-15
 
 ## Manifesto e Regulamento da Associação de Saúde do Grande Japão
 
@@ -1714,7 +2772,7 @@ Telefone: Kudan (33) 196
 # Mahayana e Hinayana
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
-**Título Original:** 大乗と小乗 | **Status:** Published
+**Título Original:** 大乗と小乗 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
 
 ## Mahayana e Hinayana
 
@@ -1741,7 +2799,7 @@ Creio que, com esta explanação, os aspectos gerais do Mahayana e do Hinayana f
 # A Urgência de uma Verdadeira Salvação
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 体験者の興味ある話 未発表 | **Status:** Unpublished
+**Título Original:** 体験者の興味ある話 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Urgência de uma Verdadeira Salvação
 
@@ -1756,7 +2814,7 @@ Como o exemplo desta senhora demonstra, muitas pessoas, mesmo professando com fe
 # Haverá realmente uma Terceira Guerra Mundial?
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 第三次戦争は果して有る？ | **Status:** Published
+**Título Original:** 第三次戦争は果して有る？ | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1952-09-25
 
 ## Haverá realmente uma Terceira Guerra Mundial?
 
@@ -1779,7 +2837,7 @@ Se for possível crer no que foi exposto, cada um deverá ser capaz de, por si m
 # A Grande Era de Terror se Aproxima
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年2月4日 | **Fonte:** Eikou
-**Título Original:** 大恐怖時代来らん | **Status:** Published
+**Título Original:** 大恐怖時代来らん | **Status:** Published | **Edição/Página:** 194号 | **Data ISO:** 1953-02-04
 
 ## A Grande Era de Terror se Aproxima
 
@@ -1812,7 +2870,7 @@ Por fim, resta-me apenas uma advertência. De agora em diante, todos deverão fa
 # A Essência da Poesia Tanka
 
 **Categoria:** ta | **Ano:** 昭和6(1931)年11月1日 | **Fonte:** 瑞Hikari
-**Título Original:** 短歌私言 | **Status:** Published
+**Título Original:** 短歌私言 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1931-11-01
 
 ## A Essência da Poesia Tanka
 
@@ -1829,7 +2887,7 @@ Não seriam todas essas tendências, em última análise, uma forma de desvio do
 # A Origem das Calamidades Naturais e Humanas
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年8月13日 | **Fonte:** -
-**Título Original:** 大三災と小三災 | **Status:** Published
+**Título Original:** 大三災と小三災 | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1949-08-13
 
 ## A Origem das Calamidades Naturais e Humanas
 
@@ -1862,7 +2920,7 @@ Explorando esse princípio, os ambiciosos de mentalidade materialista de cada é
 # A Grande Guerra e a Ação Purificadora
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 大戦争と浄化作用 | **Status:** Published
+**Título Original:** 大戦争と浄化作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Grande Guerra e a Ação Purificadora
 
@@ -1893,7 +2951,7 @@ Retomando a analogia com o corpo humano, será o momento em que coração, pulm�
 # A Fé e o Discernimento
 
 **Categoria:** ta | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 正しき信仰 | **Status:** Published
+**Título Original:** 正しき信仰 | **Status:** Published | **Edição/Página:** P.2 | **Data ISO:** 1948-09-05
 
 ## A Fé e o Discernimento
 
@@ -1922,7 +2980,7 @@ Com base no que foi exposto, faço esta severa advertência para que, no caminho
 # A Perspectiva Abrangente
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 大乗たれ | **Status:** Published
+**Título Original:** 大乗たれ | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1951-11-25
 
 ## A Perspectiva Abrangente
 
@@ -1943,7 +3001,7 @@ Em outras palavras, existem duas formas de amor: o Amor de Deus e o amor humano.
 # A Tese da Harmonia de Direitos entre Homens e Mulheres
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
-**Título Original:** 男女合権論 | **Status:** Published
+**Título Original:** 男女合権論 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
 
 ## A Tese da Harmonia de Direitos entre Homens e Mulheres
 
@@ -1962,7 +3020,7 @@ Ofereço este ensinamento aos casais de todo o mundo.
 # A Missão do Movimento Kannon
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 大光明世界の建設 序論 | **Status:** Published
+**Título Original:** 大光明世界の建設 序論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Missão do Movimento Kannon
 
@@ -1985,907 +3043,6 @@ E se, porventura, surgisse um líder que detivesse tal plano e possuísse um pod
 Este Super-homem iniciou Sua obra de salvação da humanidade no primeiro dia do ano de 1935. Qual é, então, a natureza do poder que Ele empunha? Trata-se, precisamente, do poder de Kannon (観世音). Abreviadamente, denomina-se Poder de Kannon. A seguir, descreverei, em tópicos e tal como ouvi do próprio Super-homem, as linhas gerais da obra que Ele está prestes a realizar.
 
 Devo advertir, de antemão, que os escritos a seguir contêm, em sua maioria, preceitos jamais desbravados por outrem, e muitas de suas passagens poderão parecer verdadeiramente excêntricas. Por essa razão, será difícil para o leitor acreditar de imediato no que lerá. Assim, àqueles que nutrirem a menor dúvida, não haverá outro recurso senão o de constatar os fatos com os próprios olhos. Na verdade, poucas tarefas são tão difíceis quanto a de escrever este livro. Se descrevo a realidade tal como ela é, torno-me alvo da incredulidade; se a atenúo para que seja crível, afasto-me da verdade. A situação assemelha-se à de tentar explicar um avião ou um rádio a um indivíduo da era Tokugawa — não, é uma tarefa ainda mais árdua.
-
----
-
-# Uma Tese Estratégica sobre a Grande Guerra
-
-**Categoria:** ta | **Ano:** 昭和18(1943)年 | **Fonte:** Dougi
-**Título Original:** 大東亜戦争戦略論 | **Status:** Unpublished
-
-## Uma Tese Estratégica sobre a Grande Guerra
-
-**I. A Guerra e a Esfera de Coprosperidade devem ser renomeadas para “Grande Ásia”**
-
-O propósito derradeiro da presente Grande Guerra consiste, indubitavelmente, em consumar o magno preceito nacional do *Hakkō Iu* (八紘為宇), proclamado por Sua Majestade o Imperador Jinmu. A hora celestial finalmente chegou, e foi por essa razão que se iniciou esta grandiosa Guerra Santa. O cerne deste vasto Desígnio Divino, cumpre não esquecer, é substituir a visão de mundo anglo-americana — que por longos anos acumulou crimes desumanos ao oprimir nações mais fracas e explorar suas riquezas para desfrutar de prosperidade e felicidade exclusivas — por um ideal fundamentado na mais estrita retidão moral, cujo nobre intento, de inspiração genuinamente humanitária e divina, é permitir que todas as nações do mundo encontrem o seu devido lugar.
-
-O preceito do *Hakkō Iu* (八紘為宇) não se restringe, de modo algum, ao território da Ásia Oriental. É perfeitamente claro que, com o tempo, toda a Ásia e, quiçá, o mundo inteiro deverão ser abarcados por essa esfera. Nesse sentido, podemos considerar que as bases da primeira etapa deste Desígnio Divino no Oriente asiático já estão, em grande medida, estabelecidas. Portanto, é imperativo que avancemos para a fase seguinte. Em outras palavras, o próximo passo deve ser a incursão na Índia, e a conjuntura atual revela que a ocasião para tal amadurece gradualmente.
-
-Assim, sob qualquer perspectiva que se analise, a Guerra da Grande Ásia Oriental apresenta agora contornos que a projetam para uma dimensão mais ampla, a de uma Guerra da Grande Ásia. Diante disso, não seria apropriado renovar sua nomenclatura para “Guerra da Grande Ásia” e “Esfera de Coprosperidade da Grande Ásia”?
-
-Ademais, sob outra perspectiva, o anúncio dessa mudança infligiria um profundo abalo psicológico nos inimigos anglo-americanos. Ao mesmo tempo, serviria de inspiração não apenas para o nosso povo, mas para todas as etnias da Esfera de Coprosperidade, elevando seu moral e renovando suas esperanças. Para os povos a oeste da Índia, no sudoeste asiático, tal anúncio não somente lançaria uma luz resplandecente sobre o seu futuro, mas também desviaria a atenção do inimigo para aquela região, funcionando como uma força de contenção. Desta forma, poderíamos esperar o proveito de três benefícios com uma única ação.
-
-**II. A Missão da Pátria Imperial**
-
-O Grande Império do Japão é uma nação sagrada e inviolável, única no mundo. É nossa missão intrínseca, pelo Augusto Poder e pela Infinita Virtude de Sua Majestade Imperial, governar o mundo inteiro, fazendo com que os bilhões de seres humanos encontrem paz e segurança em seus devidos lugares, a fim de edificar um mundo límpido, alicerçado na retidão moral. É fundamental que reconheçamos plenamente que nossa nação possui o desígnio celestial de substituir a antiga cultura judaica, baseada na lei do mais forte, por uma nova cultura, fundamentada na visão de mundo japonesa.
-
-Por essa razão, mesmo em matéria de estratégia, não se podem tolerar atos de agressão ou pirataria como os praticados por nossos inimigos anglo-americanos, o que já se tem demonstrado nos fatos. É preciso atentar para isso. Refiro-me aos reveses em Guadalcanal, onde o Exército Imperial sofreu um número de baixas sem precedentes, e ao resultado similar na ilha de Attu. Nesses acontecimentos, é possível vislumbrar a profunda Vontade de Deus. Sendo Guadalcanal território britânico e Attu, território americano, não se pode negar que, em sentido estrito, tais ações constituíram uma invasão.
-
-Por outro lado, ao refletirmos sobre a retirada bem-sucedida de nossas tropas da ilha de Kiska, percebemos que tal êxito se deveu à conformidade com a Vontade Divina. Consequentemente, temo que o mesmo se aplique às frentes de batalha atuais na região das Ilhas Salomão, onde uma retirada acabará por se tornar inevitável.
-
-Quando se aprofunda a reflexão sobre estes pontos, compreende-se que, assim como uma guerra desprovida de uma causa justa enfraquece a convicção na vitória, uma estratégia que não se coaduna com a Vontade Divina gera inúmeras dificuldades e produz resultados aquém do esperado em relação aos sacrifícios empreendidos. Este princípio não se aplica somente à guerra, mas é universal. Destarte, se, no curso de uma operação, os resultados esperados não forem alcançados, deve-se reexaminar seus fundamentos morais. Se um equívoco for constatado, a retirada ou a alteração da estratégia deve ser executada prontamente. Tal medida resultará no mínimo de baixas e trará benefícios para as ações futuras. Evidentemente, é preciso desapegar-se de noções como o prestígio momentâneo.
-
-Em suma, a postura de uma nação verdadeiramente divina consiste em não violar o território de outros países e, ao mesmo tempo, não permitir que um palmo sequer do solo asiático seja profanado. Creio que é a isso que se referem as augustas palavras proferidas por Sua Majestade: “Os espíritos divinos dos Antepassados Imperiais velam por nós do Alto”.
-
-**III. Avançar para Oeste da Índia**
-
-Pelos motivos expostos, a grande diretriz para o futuro deverá ser a de, partindo da Índia, avançar progressivamente para oeste, abrangendo regiões como Irã, Iraque, Afeganistão, Baluchistão, Síria, Arábia e Ásia Menor, a fim de consumar a Esfera de Coprosperidade da Grande Ásia.
-
-O objetivo desta estratégia, como é evidente, é a expansão da Esfera de Coprosperidade e a libertação dos povos oprimidos. Por estar em plena conformidade com a Vontade Celestial, tal meta poderá ser alcançada de forma extremamente fluida, sem a necessidade de grandes sacrifícios. A razão para isso é a mesma que nos permitiu obter vitórias tão rápidas e expressivas no início da Guerra da Grande Ásia Oriental.
-
-Originalmente, a contínua agressão anglo-americana na Ásia constituiu uma sucessão de crimes contra a Vontade do Céu. Portanto, chegada a hora do grande ajuste de contas, sua retirada é uma consequência natural e inevitável.
-
-A esse respeito, é preciso compreender de antemão que a presente guerra mundial difere em essência de todos os conflitos que a precederam. Em que sentido? Todas as guerras do passado eclodiram por interesses de uma ou mais nações. Esta Grande Guerra, contudo, tem o conflito armado como seu significado secundário. Primordialmente, ela representa a Grande Purificação do mundo e o balanço final da civilização. Trata-se do colapso da velha cultura judaica e do advento de uma nova cultura, a ser criada pelo Japão. O sofrimento que assola o mundo atual não é outra coisa senão o sofrimento das dores de parto para o nascimento de uma nova cultura.
-
-Ficou evidente que a cultura judaica, a qual se desenvolveu sob o pretexto de promover o bem-estar da humanidade, na realidade apenas ampliou o seu sofrimento. Somente uma ínfima minoria de judeus e as nações sob sua influência puderam usufruir dos benefícios dessa civilização, enquanto a vasta maioria dos indivíduos e das nações se tornaram vítimas desses poucos, definhando sob o peso da luta pela sobrevivência. Essa é a causa do impasse civilizatório em que nos encontramos.
-
-Tal situação, como é notório, decorre do equívoco de uma visão de mundo puramente materialista. Chegou, pois, o momento em que uma nova cultura, fundamentada numa visão de mundo espiritualista, deve nascer. E o berço dessa cultura espiritualista não pode ser outro senão o Japão. Somente assim a humanidade poderá, pela primeira vez, gozar verdadeiramente dos benefícios da civilização e partilhar da felicidade de forma equânime. A prova mais eloquente disso é a imagem das nações da Esfera de Coprosperidade que, uma após a outra, conquistam sua independência sob a proteção do Japão, repletas de júbilo e satisfação.
-
-Se aplicarmos essa lógica à Austrália, o resultado será o oposto. Caso o Japão viesse a ocupar o território australiano, de maioria branca, sua população jamais se sentiria satisfeita. Pelo contrário, o ressentimento e a insatisfação seriam inevitáveis, pois não se trata de um povo oprimido como os da Ásia e, ademais, possui laços de sangue com a Grã-Bretanha. Logo, o propósito de uma conquista da Austrália não passaria de uma conveniência estratégica temporária ou de uma medida punitiva. Embora a necessidade de uma guerra de caráter punitivo possa surgir, há uma ordem correta para as coisas. Talvez se torne necessária após a completa consolidação da Esfera de Coprosperidade em toda a Ásia, mas, por ora, o momento ainda é inoportuno. Desrespeitar essa sequência agora resultaria apenas em grandes sacrifícios e parcos resultados. Nesse sentido, se a estratégia atual visa à conquista da Austrália, ela deve ser abandonada o mais rápido possível.
-
-Em suma, o mundo atravessa uma grande transição: o colapso da cultura materialista judaica e a construção da cultura espiritualista japonesa. Sob o estandarte da justiça, o Japão deve avançar com audácia. Por meio dessa postura, seremos abençoados por uma força invisível — o Augusto Poder Imperial e a Providência e Assistência Divinas —, que nos concederá resultados favoráveis e imprevisíveis, sobre os quais não repousa a menor dúvida.
-
-**IV. O Impacto de uma Grande Vitória**
-
-Uma vez que toda a Grande Ásia esteja sob a influência do Japão, que tipo de golpe isso representaria para o inimigo? Em primeiro lugar, a Grã-Bretanha, ao perder a Índia, teria seu poderio nacional reduzido pela metade. A ajuda americana à União Soviética também sofreria um forte abalo, o que aliviaria por completo a difícil situação de nossos aliados, Alemanha e Itália, transformando o cenário da guerra. Ademais, com a presença vigilante do Japão nas proximidades do Mediterrâneo, o moral das potências do Eixo certamente se multiplicaria, enquanto o do inimigo se abateria na mesma proporção. A proximidade geográfica com os três países do Eixo também traria, naturalmente, enormes vantagens para a condução de operações conjuntas.
-
-Outro benefício seria o golpe fatal desferido contra Chiang Kai-shek, que, isolado de seus contatos na Índia, não saberia mais como agir, restando-lhe apenas o destino da rendição ou da fuga.
-
-Com a Grã-Bretanha em situação tão crítica devido à drástica redução de sua capacidade bélica, os Estados Unidos se veriam obrigados a prestar-lhe uma ajuda maciça. Como resultado, teriam de relegar o ataque ao Japão a um segundo plano.
-
-O maior problema na execução de tal estratégia, contudo, seria o prolongamento das linhas de frente, o que exigiria um constante reabastecimento a partir da costa, alvo da obstinada sabotagem inimiga. Como, então, fortalecer nosso poderio naval para rechaçar tais ataques? O ideal, obviamente, seria obter a supremacia aérea e marítima. No entanto, em uma área tão vasta, isso deve ser considerado praticamente impossível.
-
-Portanto, em última análise, a solução reside em um aumento massivo da produção de todos os recursos materiais, com destaque para aeronaves e navios. A esse respeito, conheço um método seguro capaz de duplicar a capacidade produtiva atual. De fato, já o estou aplicando experimentalmente em certos setores da indústria, e os resultados esperados vêm sendo alcançados.
-
-Assim, se a meta de duplicação da produção for alcançada em paralelo com a extensão das frentes de batalha, acredito que a consecução do objetivo não será uma tarefa árdua.
-
-Quanto aos suprimentos, é evidente que, para economizar capacidade de transporte, devemos priorizar, tanto quanto possível, a produção local nos diversos territórios da Esfera de Coprosperidade. A maior parte dos alimentos, em particular, poderá ser provida pelas próprias nações da esfera.
-
-Resta a questão de como conduzir as operações no Pacífico Sul e no Pacífico Norte durante a execução dessa estratégia. Naturalmente, não devemos tocar em um dedo sequer do território inimigo. Em vez disso, devemos estabelecer uma defesa impenetrável, limitada às fronteiras de nossa pátria. Embora alguns sacrifícios sejam inevitáveis, com o inimigo pressionado por nossa grande campanha principal, seus ataques nesta frente dificilmente ultrapassarão o nível de uma guerra de nervos.
-
-**V. Conclusão**
-
-Quando a Esfera de Coprosperidade da Grande Ásia estiver concluída, se o inimigo, ainda assim, persistir em sua intenção de resistir, suas ações se configurarão como uma agressão à Vontade Divina. Nessa ocasião, será nosso direito lançar uma guerra punitiva, que constituirá, precisamente, legítima defesa. Se, como resultado, o inimigo reconhecer seu erro e se render, tanto melhor. Mas, se resistir com teimosia, então será aceitável empreender uma grande ofensiva. Nesse caso, o bombardeio e a conquista de seu território pátrio serão, por certo, medidas inevitáveis.
-
-Tal ação não contrariaria, de forma alguma, a Vontade Celestial.
-
-Em resumo, a estratégia que proponho se fundamenta, em sua essência, na manutenção de um propósito sagrado e na observância de uma sequência correta e genuinamente japonesa. Acredito que, por meio dela, será possível, sem sombra de dúvida, alcançar o máximo de resultados com o mínimo de sacrifícios.
-
-Pois cremos que a Providência e a Assistência Divinas se manifestam, infalivelmente, onde reside a justiça.
-
----
-
-# A Salvação do Sol
-
-**Categoria:** ta | **Ano:** 昭和27(1952)年11月19日 | **Fonte:** Eikou
-**Título Original:** 太陽の救い | **Status:** Published
-
-## A Salvação do Sol
-
-Observa-se, entre aqueles tidos por intelectuais, uma tendência quase infalível de encarar as novas religiões com lentes de preconceito. Assumem, de antemão, que se trata de movimentos religiosos emergentes, que se aproveitam da conjuntura para forjar doutrinas astutas, iludindo os incautos a fim de se locupletarem. Imaginam um fundador que, satisfeito, desfruta do título de “líder reverenciado”, enquanto seus seguidores, além de serem dissuadidos de procurar auxílio médico quando adoecem, ainda lhe entregam o dinheiro que ganharam com o suor de seu rosto, sentindo-se gratos por isso. Diante de tal quadro, costumam lamentar: “Que tempos deploráveis os nossos”.
-
-É verdade que, se os fatos correspondessem à realidade, teríamos de concordar com eles; nós mesmos, religiosos, não hesitaríamos em expressar nossa solidariedade a tal ponto de vista. Contudo, devo admitir que essa percepção não é de todo infundada, pois, com exceção de duas ou três, há de fato um número considerável de novas religiões cujas práticas são pouco admiráveis. Como exemplo, cito aquelas que, em alto e bom som, recitam suas escrituras ao som de sinos, tambores e matracas, perturbando a vizinhança sem qualquer consideração, o que se assemelha a um verdadeiro delito sonoro.
-
-Há também os grupos que, sob os olhares de todos, entoam cânticos estranhos e executam danças com gestos peculiares, em um aparente estado de transe e êxtase. É improvável que sejamos os únicos a sentir desconforto ao presenciar tais cenas, o que nos leva a questionar seu papel do ponto de vista social. Ademais, movidos por um zelo excessivo, alguns fiéis tornam-se presunçosos, não apenas desprezando outras religiões e os que não têm fé, mas também evitando o convívio social trivial. Em casos extremos, há crenças que promovem a possessão espiritual e geram indivíduos com comportamentos que raiam a insanidade; tais práticas, inevitavelmente, acarretam mais prejuízos que benefícios.
-
-E não podemos nos esquecer dos casos inofensivos, porém de um mau gosto atroz: os autoproclamados líderes que, ostentando cabelos compridos e trajes excêntricos, se portam como deuses vivos. É espantoso que encontrem seguidores, o que apenas demonstra a vastidão e a diversidade do mundo. Outro aspecto, presente desde tempos antigos em certas crenças, são as penitências e mortificações. Fiéis se dedicam a abluções em água gelada no rigor do inverno, a jejuns em retiros nas montanhas ou a banhos sob cachoeiras. Embora os praticantes possam encontrar grande satisfação pessoal nisso, para nós, pessoas comuns, a lógica por trás de tais atos é incompreensível; sentimos, antes, compaixão por eles. Em suma, é lamentável a superstição que considera essas práticas, dissociadas da realidade cotidiana, como a verdadeira essência da religião. Diante de tais exemplos, eu mesmo, sendo um homem religioso, costumo afirmar que abomino as religiões que enaltecem o sofrimento. Assim, em virtude da proliferação dessas crenças de baixo nível, é natural que não apenas os intelectuais, mas a sociedade em geral, nutra por elas um compreensível sentimento de desdém.
-
-Modéstia à parte, nossa Igreja Messiânica é totalmente distinta de tais crenças. Em primeiro lugar, prezamos o bom senso. Nosso lema é que a vida e a conduta de nossos fiéis não se diferenciem em nada das pessoas comuns, primando pela harmonia e pela plenitude nas relações com quem quer que seja. Se compreendessem essa verdade, todos, mesmo que não se tornassem membros, sentiriam o desejo de se aproximar de nós, com plena confiança. Todavia, por desconhecerem nossa essência, observam-nos de maneira superficial e nos nivelam a essas fés excêntricas, o que nos é extremamente prejudicial. Conclui-se, portanto, que o maior obstáculo à expansão de nossa Igreja não são os ateus ou os que se apegam à superstição científica, mas sim essas outras novas religiões de práticas indesejáveis. E, por se tratar de uma obstrução não intencional, o problema se torna ainda mais difícil de resolver.
-
-Basta uma breve reflexão para perceber que esta é uma particularidade do cenário religioso japonês. No Ocidente, a maioria dos países segue predominantemente o Cristianismo. Além disso, por possuírem um desenvolvimento cultural mais antigo que o nosso, sua visão sobre religião tende a ser comparativamente mais imparcial e racional. O Japão, por outro lado, abriga o Budismo, o Xintoísmo e o Cristianismo, todos subdivididos em inúmeras seitas. Vivemos em um emaranhado onde o verdadeiro e o falso se misturam, tornando nosso trabalho consideravelmente mais árduo.
-
-Contudo, como sempre afirmo, a Igreja Messiânica não é uma religião, mas uma suprarreligião. Trata-se de uma obra de salvação sem precedentes desde o início da história e, por isso, tudo nela é diferente. Nossos métodos inovadores, que rompem com os padrões estabelecidos, não são facilmente assimilados pela mentalidade religiosa convencional, o que é natural. No entanto, uma vez que a pessoa começa a compreendê-la, não há exceção: ela percebe que encontrou aquilo que sempre buscou, e uma imensa alegria brota do fundo de seu coração. A prova maior disso reside em nossa expansão, um crescimento que se deu de forma notável em poucos anos.
-
-A esse respeito, é preciso fazer uma ressalva. Existem dois ou três outros movimentos religiosos que também experimentaram um crescimento expressivo nos últimos anos, mas eles são fundamentalmente distintos do nosso. Tais religiões foram edificadas sobre as bases de crenças já existentes, arregimentando um grande número de fiéis provenientes dessas outras organizações. A Igreja Messiânica, em contrapartida, é original em todos os seus aspectos, e é de suma importância que essa diferença seja devidamente reconhecida.
-
-As religiões de caráter insensato que mencionei anteriormente são, em sua essência, baseadas em uma fé de pequeno veículo e, por conseguinte, são restritivas e desprovidas de liberdade. Geralmente, as pessoas tendem a pensar que a liberdade é um conceito distante da religião. Contudo, assim como ocorre no mundo material, sem uma liberdade de cunho democrático, será impossível orientar as massas no futuro.
-
-Para elucidar melhor: as religiões até hoje, por serem centradas no pequeno veículo, assemelham-se aos países do mundo, cada qual com sua própria coloração. Seus ensinamentos são, portanto, particularistas e carecem de universalidade, o que naturalmente limita o alcance de sua salvação. Além disso, a fé de pequeno veículo impõe preceitos rigorosos que acorrentam os fiéis, levando-os ao sofrimento em nome da prática religiosa. Isso equivale a uma negação do amor de Deus, uma situação verdadeiramente lastimável que eu denomino "o inferno da fé". Nossa Igreja, em contrapartida, segue o caminho oposto. Praticamente isenta de preceitos, ela é extremamente livre e considera o desfrutar da vida uma dádiva Divina. Esta, sim, pode ser chamada de "fé paradisíaca".
-
-Como se pode depreender, nossa Igreja, por ser de grande veículo, engloba integralmente tudo o que é necessário ao ser humano: religião, filosofia, política, economia, educação, arte, medicina e muito mais. Assim como o sol, que em si contém e harmoniza todas as cores para se manifestar como luz branca, nossa Igreja é a religião do dia, é a salvação do sol.
-
----
-
-# O Tabaco e a Medicina
-
-**Categoria:** ta | **Ano:** 昭和24(1949)年12月17日 | **Fonte:** -
-**Título Original:** 煙草と医学 | **Status:** Published
-
-## O Tabaco e a Medicina
-
-A Diretoria do Monopólio do Tabaco, em meio a grandes dificuldades por não conseguir vender seus cigarros da marca “Peace”, recorreu a toda sorte de artifícios desesperados, chegando ao ponto de recrutar as “Jovens Peace” para promover suas vendas. Tal medida é antes risível que eficaz, um completo despropósito. A verdadeira causa da queda nas vendas é, evidentemente, a influência dos cigarros estrangeiros; e a razão para tal é uma só: os cigarros nacionais possuem sabor inferior. Se o produto fosse saboroso e o preço, acessível, as vendas seriam garantidas sem a necessidade de artifícios publicitários. Embora seja uma lógica elementar, parece que não a compreendem ou, se a compreendem, são incapazes de agir. É algo, de fato, inexplicável.
-
-Ora, uma analogia idêntica pode ser traçada com o problema das doenças, com o qual nos deparamos constantemente. Certas pessoas promovem ostensivamente campanhas de difamação e obstrução, bradando ser inadmissível que a religião se envolva na cura de enfermidades. Afirmam que, havendo uma medicina tão avançada, recorrer a superstições e falsas doutrinas é um perigo supremo. E, para agravar a situação, até mesmo os jornais lhes servem de porta-vozes, o que é intolerável.
-
-Essa postura se assemelha em muito à situação atual do mercado de tabaco, sendo um despropósito tão grande quanto o da Diretoria do Monopólio. A solução é simples: bastaria que a medicina curasse todos os doentes, sem exceção. É justamente porque há tantos que não obtêm a cura que as pessoas, sem outra alternativa, acabam por buscar as chamadas “superstições e falsas doutrinas”. Afinal, é natural que procurem o caminho que oferece melhores resultados. Em suma, a Terapia Espiritual de nossa Igreja é, nesta comparação, como os cigarros estrangeiros.
-
-Ofereço, pois, estas reflexões à Diretoria do Monopólio do Tabaco e à Associação Médica.
-
----
-
-# A Verdadeira Causa do Declínio da Constituição Física
-
-**Categoria:** ta | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
-**Título Original:** 体位抵下の真因 | **Status:** Published
-
-## A Verdadeira Causa do Declínio da Constituição Física
-
-As estatísticas de diversas áreas revelam a preocupante tendência de declínio da constituição física do nosso povo. Conforme detalhado na primeira parte desta obra, a causa fundamental reside, inquestionavelmente, na vacinação e nos venenos medicinais. Contudo, se o propósito original da vacinação é prevenir a varíola, devemos ir mais fundo e questionar: qual é, afinal, a origem da toxina que causa a própria doença? A elucidação desse ponto é a raiz de toda a questão.
-
-Minha descoberta aponta que sua origem é o yakudoku (薬毒), ou seja, o veneno medicinal. Mas por qual via e razão o yakudoku (薬毒) se converte na toxina da varíola? Isso ocorre quando o veneno medicinal atravessa diversas gerações no corpo humano, processo pelo qual ele se transforma em um tipo específico de toxina, que é a toxina da varíola. Trata-se, portanto, de um mal que se consolida por hereditariedade, e aquilo que a medicina, de forma equivocada, denomina sífilis hereditária é, na verdade, um erro de diagnóstico. A notável semelhança entre as erupções cutâneas de um paciente com varíola e as de natureza sifilítica corrobora essa afirmação.
-
-É comum, ademais, que pacientes diagnosticados com sífilis hereditária se indignem ao constatar a ausência de tal histórico em seus pais, avós e bisavós. Nesses casos, os médicos costumam argumentar que a infecção pode ocorrer acidentalmente por outras vias, não relacionadas à conduta moral. O paciente, leigo no assunto, acaba por se resignar. Na realidade, embora a transmissão por outras vias seja teoricamente possível, é um evento de extrema raridade, podendo ser considerada praticamente inexistente. Tais fatos não são outra coisa senão o resultado da confusão entre a toxina da varíola e a sífilis hereditária.
-
-Como outro exemplo, consideremos a história. Registra-se que a varíola surgiu no Japão há cerca de mil e trezentos anos, após a introdução do budismo, no reinado do Imperador Kinmei. A partir de então, epidemias começaram a assolar diversas regiões. Os governantes da época atribuíram a calamidade à ira dos deuses japoneses pela chegada da nova religião e, por isso, proibiram o budismo. Todavia, como as epidemias não cessaram, concluíram que não havia relação e a permitiram novamente, conforme atestam os registros históricos. Qual é, portanto, a verdadeira razão? Imagina-se que, antes mesmo da chegada do budismo, a medicina chinesa já havia sido introduzida no país, e foi ela a causa das epidemias. Evidentemente, por “epidemia” entende-se a varíola.
-
-Nesse sentido, a intenção de nossos antepassados de curar doenças com medicamentos não apenas resultou em um efeito completamente adverso, mas também transformou o próprio método de tratamento na “causa geradora de doenças”. A repetição desse ciclo culminou no declínio da constituição física que observamos hoje. A situação é análoga à célebre passagem bíblica em que o pecado da humanidade teve início quando Adão e Eva, no Jardim do Éden, provaram o fruto proibido.
-
-Vejamos, a seguir, outro exemplo: a notável redução da longevidade do povo japonês. Com a devida vênia, a história registra que os imperadores das primeiras gerações, desde o Imperador Jinmu até o Imperador Keiko, tiveram vidas excepcionalmente longas, sendo que a maioria ultrapassou os cem anos de idade. Isto se deve, segundo nossa reverente análise, à completa ausência de medicamentos em nosso país naqueles tempos remotos.
-
-Adicionalmente, há o conhecido relato sobre o imperador chinês Qin Shi Huang. Ele, ao ouvir que “no mar a leste existe uma ilha chamada Hōraijima (蓬莱島), cujos habitantes são muito longevos”, ordenou a seu vassalo, Jofuku (徐福), que a encontrasse e trouxesse de volta o elixir de tamanha longevidade. Jofuku prontamente viajou para Hōraijima (蓬莱島) — que, naturalmente, era o nosso Japão. Contudo, por mais que procurasse, não havia elixir algum a ser encontrado. A razão é simples: os japoneses daquela era viviam muito porque não existiam medicamentos. Diante disso, o célebre Jofuku, não podendo retornar à sua terra natal, viu-se obrigado a terminar seus dias no Japão. De fato, diz-se que seu túmulo existe até hoje em certo local de Wakayama.
-
----
-
-# A Causa e a Cura da Hérnia
-
-**Categoria:** ta | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 脱腸 | **Status:** Published
-
-## A Causa e a Cura da Hérnia
-
-Embora seja uma enfermidade mais frequente em crianças, a hérnia pode, em raras ocasiões, manifestar-se também em idosos. Sua causa reside na solidificação de toxinas medicinais hereditárias na região abdominal. Tal endurecimento exerce pressão sobre os intestinos, o que acarreta seu prolapso.
-
-A cura para tal afecção é facilmente alcançada por meio do Johrei de nossa Igreja. A medicina moderna, todavia, por desconhecer um método capaz de remover as toxinas internas, não possui outra alternativa senão recorrer à intervenção cirúrgica.
-
----
-
-# Não Posso Permanecer Calado
-
-**Categoria:** ta | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
-**Título Original:** 黙っては居られない | **Status:** Published
-
-## Não Posso Permanecer Calado
-
-Do nosso ponto de vista, a medicina contemporânea é, de fato, incompreensível. Primeiramente, gostaria de discorrer sobre este ponto. Nosso pensamento se alicerça sobre uma premissa límpida: o que é bom, é bom; o que é mau, é mau. Aquilo que surte efeito deve ser reconhecido, e o que se mostra ineficaz deve ser reavaliado. A arte da cura genuína é a que restaura a saúde; a que não o faz não pode ser considerada como tal. Creio que esta seja a perspectiva correta.
-
-Todavia, o maior equívoco reside em analisar as coisas com parcialidade. É igualmente inaceitável permitir que sentimentos ou distorções interfiram no julgamento. A atitude correta consiste em observar com absoluta isenção e imparcialidade, fundamentando toda crítica nos fatos concretos.
-
-Quando observados sob essa ótica, tanto os diagnósticos quanto as terapias da medicina moderna revelam-se, lamentavelmente, por demais lastimáveis. Sendo assim, almejo, com a maior brevidade possível, despertar a medicina de sua cegueira dogmática. Do contrário, o sofrimento humano se torna uma cena verdadeiramente penosa de se testemunhar. O relato a seguir ilustra vividamente essa realidade; rogo, portanto, que o leiam com discernimento e de mente aberta.
-
-***
-
-## Salvo pela Fé Após o Abandono da Medicina
-
-**Contra a teoria, a evidência da cura**
-Tóquio
-Igreja Sewanaka
-Katsuyuki Takagi (17 anos)
-
-Gostaria de relatar a graça que recebi ao ser salvo de maneira surpreendentemente simples pelo Johrei, após ter sido abandonado pelos médicos com um diagnóstico final de "doença de causa desconhecida", resultado de uma série de avaliações contraditórias.
-
-Tudo começou em meados de março deste ano, quando contraí um resfriado. Após faltar ao trabalho por dois dias e me medicar, senti-me curado e retornei às minhas atividades. Contudo, cerca de uma semana depois, comecei a sentir uma estranha fadiga, perda de apetite e dores abdominais. Procurei imediatamente um médico da vizinhança, que, ao me examinar, constatou: "Suas amígdalas estão muito inchadas e com pontos brancos". Ele também levantou a suspeita de febre tifoide, solicitando exames de sangue, teste de tuberculina e de hemossedimentação. Recebi diversas recomendações, entre elas a de que meu intestino parecia estar debilitado e que eu deveria me alimentar apenas com canja de arroz.
-
-Dois dias depois, ao retornar do trabalho, fui novamente consultado. Desta vez, o médico afirmou: "Como a febre subiu, é melhor que você não vá trabalhar amanhã". No dia seguinte, embora tenha ficado em casa, passei o dia todo de pé. À noite, em uma terceira consulta, o diagnóstico mudou drasticamente: "Isso pode evoluir para uma pneumonia aguda". Recebi uma injeção de penicilina e a ordem categórica: "A partir de amanhã, repouso absoluto!". Naquele momento, minha febre era de trinta e nove graus e dois décimos.
-
-Apesar da injeção, apenas o estado das amígdalas melhorou; a febre, de modo algum, cedeu, mantendo-se acima dos trinta e oito graus. No início de abril, meu coração começou a apresentar problemas. Comuniquei o fato ao médico, que, perplexo, disse: "Realmente não consigo entender. Por favor, procure a opinião de outro colega". Senti uma súbita apreensão e, sem demora, busquei um novo profissional. Este, contudo, após uma simples percussão torácica, diagnosticou-me com infiltração no pulmão direito e solicitou uma radiografia para o dia seguinte.
-
-O resultado do exame levaria uma semana, e, durante esse período, eu me sentia definhar a cada dia. Quando finalmente a radiografia ficou pronta, para minha surpresa, meus pulmões não apresentavam qualquer anomalia, apenas os gânglios linfáticos estavam ligeiramente inchados. Levei o exame ao primeiro médico, que, ao vê-lo, comentou: "Como a causa da febre não está clara, talvez seja melhor não a baixarmos abruptamente". Alegando que meu corpo estava debilitado, aplicou-me injeções de glicose e cálcio.
-
-O resultado foi desastroso. Minha diurese, que era de cerca de quatro vezes ao dia, reduziu-se a uma única vez. Meu abdômen ficou distendido e dolorido, e passei a sofrer de constipação intestinal. A febre oscilava em torno dos trinta e oito graus, até que, no final de abril, ultrapassou a marca dos trinta e nove. O médico, alarmado, desistiu: "Com uma febre tão alta assim, não sei mais o que fazer. Por favor, procure uma clínica melhor". Fui, mais uma vez, desenganado.
-
-Nunca em minha vida senti tamanha indignação. No entanto, sem outra alternativa, minha única esperança ainda eram os médicos. Dois dias depois, fui transportado em um carrinho de mão até uma clínica em Akabane. Lá, fui submetido a uma radioscopia, que apenas confirmou o que já sabia: os gânglios linfáticos estavam um pouco inchados. Para piorar, fui diagnosticado com um quadro grave de beribéri. Senti-me completamente desolado. A aplicação de estreptomicina foi cogitada, mas, felizmente, não foi administrada.
-
-Hoje, compreendo que essa foi, na verdade, uma imensa proteção Divina. Naquele mesmo dia, minha avó, que sempre levava meus irmãos para tratamento com um ministro da Igreja Messiânica em Nakajujo, foi consultá-lo a meu respeito. O ministro prontamente respondeu que viria me visitar no dia seguinte.
-
-Durante a espera, refleti longamente sobre os tratamentos médicos que recebera e sobre o Johrei, que eu considerava algo próximo da superstição. Contudo, minha própria experiência me fazia sentir, de maneira profunda, a inutilidade de depender de medicamentos. No dia seguinte, o ministro chegou e, após uma longa conversa, perguntou-me de forma incisiva: "Em quem você acredita: em mim ou na medicina?". Minha resposta foi imediata: "Acredito no senhor!".
-
-Recebi Johrei pela primeira vez e senti um bem-estar imediato. Naquela mesma noite, meu apetite retornou e a diurese, que era de apenas uma vez ao dia, aumentou para duas. No dia seguinte, o ministro retornou para ministrar Johrei novamente. A partir do segundo dia de Johrei, passei a urinar cinco vezes ao dia, e meu apetite cresceu ainda mais. A febre chegou a ultrapassar os quarenta graus, mas eu não me sentia mal. No dia subsequente, o ministro Sekikawa veio em substituição. Durante a noite, meu abdômen começou a fazer ruídos e, na manhã seguinte, tive uma evacuação de fezes amolecidas.
-
-Sentindo-me tão bem e contrariando os conselhos dos vizinhos, fui ao barbeiro. No dia seguinte, meu apetite era tão grande que a ideia de ficar deitado se tornou insuportável. A diurese aumentou para seis vezes ao dia, e o inchaço em meu rosto desapareceu por completo. No sexto dia desde que comecei a receber Johrei, eu, que estivera acamado por um mês, já conseguia caminhar até a igreja.
-
-No início de maio, comecei a expelir uma quantidade de catarro que nunca havia tido, por vezes com traços de sangue. Após expelir grandes volumes, sentia-me revigorado e com uma disposição que me impedia de continuar agindo como um doente. Na igreja, o ministro me explicou detalhadamente o significado do processo de purificação, o que me permitiu não mais me preocupar com as transformações em meu estado de saúde.
-
-Hoje, no nono dia, estou praticamente recuperado e as pessoas comentam como minha aparência está mais corada. Diante de tamanha graça, no dia cinco de maio, minha avó recebeu o seu Ohikari. Em breve, eu também ingressarei na fé. As palavras do ministro, "Você já pode voltar a trabalhar", soavam plenas de confiança, mas, por precaução, decidi me afastar da empresa por mais um tempo, dedicando-me a ir à igreja todos os dias, cheio de vigor.
-
-Fui salvo pelos Ensinamentos e pelo poder Divino antes que me sentenciassem, talvez, com um diagnóstico de tuberculose. Sou imensamente grato por essa dádiva e, daqui para frente, desejo me devotar com todas as minhas forças para servir na Obra Divina.
-
-Meishu-Sama, muito obrigado.
-
----
-
-# A Religião Mahayana
-
-**Categoria:** ta | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 大乗宗教 | **Status:** Published
-
-## A Religião Mahayana
-
-É de amplo conhecimento que nas religiões, e particularmente no Budismo, existe a distinção entre Mahayana e Hinayana. Contudo, parece-me lamentável que, até os dias de hoje, seu significado não tenha sido compreendido em toda a sua profundidade. A esse respeito, gostaria de expor minha perspectiva.
-
-Em sua essência, Mahayana significa Grande Natureza. Por Grande Natureza, entende-se, naturalmente, o modo como todas as coisas do universo são geradas e se desenvolvem. Portanto, o Mahayana abrange a totalidade da existência, sem nada excluir. Nesse sentido, o Mahayana que ora exponho não se restringe ao Budismo Mahayana, devendo ser compreendido como o Grande Caminho. Nele estão contidos não apenas a religião e a filosofia, mas também a ciência, a política, a educação, a economia e a arte. Ademais, é evidente que conceitos opostos como guerra e paz, bem e mal, também se encontram sob sua alçada.
-
-Desse modo, ao observarmos a atividade de tudo o que existe, percebemos a presença de um Caminho natural. O valor de um verdadeiro ser humano reside em sua capacidade de reconhecer que o progresso harmonioso advém da obediência a esse Caminho. Segundo esse princípio, o desvio da senda correta acarreta, invariavelmente, obstáculos, estagnação ou mesmo a destruição.
-
-Com efeito, a realidade deste mundo é um ciclo incessante de criação e destruição: a criação ocorre quando se trilha o Caminho, e a destruição, quando dele nos afastamos. A analogia é perfeita com um trem ou bonde: enquanto permanece nos trilhos, ele avança; se deles descarrila, sua jornada é interrompida.
-
-Logo, tudo o que perece, perece por uma razão, e tudo o que nasce, o faz por uma razão. Não existe o acaso; tudo obedece, inegavelmente, à lei da necessidade. Sob essa mesma ótica, no campo das ideologias, a inclinação para a esquerda gera uma força à direita, e a inclinação para a direita suscita o surgimento da esquerda. O correto é avançar na senda do meio, sem pender para nenhum dos extremos, de modo análogo à condução de um automóvel. É por essa lógica que o capitalismo, o socialismo, o comunismo, as correntes conservadoras e as progressistas, bem como o positivismo, o negativismo e todas as demais doutrinas, surgem por uma necessidade e, por uma necessidade, acabam por desaparecer.
-
-Naturalmente, o mesmo princípio se aplica às religiões: elas surgem porque há uma razão para sua existência. Ocorre, porém, que a maioria das pessoas observa o mundo a partir de seu próprio e limitado ponto de vista, tendendo a taxar de heresia tudo o que lhe é alheio. Agem assim por possuírem uma visão extremamente restrita, tal como descreve o provérbio: “tentar enxergar o céu através do talo de um junco”. Contudo, sob a perspectiva de Deus, que governa este vasto mundo, a pequenez das contendas humanas – semelhantes a uma guerra travada sobre os chifres de um caracol – certamente Lhe provocaria um sorriso resignado.
-
-Tudo o que é material, se for desnecessário à humanidade, será eliminado pela seleção natural; se for necessário, por mais que o ser humano tente erradicá-lo, jamais terá sucesso. Tomemos como exemplo o surgimento de uma nova religião ou de uma nova corrente de pensamento. Ainda que aos olhos humanos pareça mera superstição ou um caminho desviado, se for necessária à humanidade, ela prosperará. Caso contrário, será naturalmente suplantada. Portanto, até certo ponto, devemos confiar no curso da Natureza.
-
-Ademais, se algo possui verdadeira vitalidade e valor, quanto mais for oprimido pela força humana, maior será o seu desenvolvimento. O exemplo mais eloquente disso é o Cristianismo. Apesar de seu mestre, Jesus Cristo, ter sido condenado à morte, basta observar sua pujança nos dias de hoje para que nenhuma palavra a mais seja necessária.
-
-Creio que o homem moderno deveria refletir sobre o equívoco de sua visão tão tacanha e imediatista a respeito de todas as coisas.
-
----
-
-# A Falácia do Tratamento Sintomático
-
-**Categoria:** ta | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 対症療法の不可 | **Status:** Published
-
-## A Falácia do Tratamento Sintomático
-
-No que tange à causa das enfermidades, a medicina ocidental ainda não logrou qualquer descoberta definitiva. Por essa razão, sua patologia se restringe a nomear os fenômenos que se manifestam no corpo físico e a descrever seu processo evolutivo. Consequentemente, seu método terapêutico principal é o tratamento sintomático, que se volta para as manifestações da doença. Este consiste, em essência, na atenuação do sofrimento. Contudo, a atenuação do sofrimento e a cura são questões absolutamente distintas, e supor que a doença é curada pela simples supressão do sofrimento constitui um equívoco monumental.
-
-Para explicar por que o tratamento sintomático, focado em atenuar o sofrimento, representa um equívoco, apresento os seguintes pontos. Em sua essência, qual é a verdadeira natureza do sofrimento decorrente de uma enfermidade, como a febre, a tosse, a dor, o vômito, a vertigem e o mal-estar? A manifestação de uma doença decorre de uma causa específica e, de igual modo, o sofrimento que a acompanha deve possuir sua própria razão de ser. Em resumo, a doença é o resultado de uma causa, e o sofrimento, por sua vez, é o resultado desse resultado. Sendo assim, enquanto a essência do sofrimento e a causa da enfermidade não forem elucidadas de maneira cabal, é impossível que se estabeleça um método de cura verdadeiro. A medicina ocidental, por desconhecer a origem das patologias, vê-se forçada a dedicar-se exclusivamente à atenuação do sofrimento, que nada mais é que o resultado do resultado. Por conseguinte, o paciente submetido a tal tratamento tem seu sofrimento aliviado pela terapia sintomática, mas sua cura efetiva ocorre graças à força de cura natural do próprio organismo. Trata-se, pois, de uma espécie de terapia natural.
-
-Dessa forma, quando alguém se submete ao tratamento sintomático e a cura ocorre pela via natural, pode parecer vantajoso, pois ao menos o sofrimento foi atenuado. Todavia, é precisamente aqui que se oculta outro equívoco de grandes proporções. Este reside nos métodos empregados para mitigar o sofrimento: o uso de medicamentos e de equipamentos. A atenuação do sofrimento por meio desses recursos materiais resulta, ao final, em um sofrimento multiplicado. Uma hora de alívio converte-se, invariavelmente, em cinco ou dez horas de sofrimento agravado. Ao fazer tal afirmação, talvez alguns a interpretem como um paradoxo proferido por quem aprecia o extravagante. Contudo, o fato é o fato, e nele não há a menor incorreção. Por essa razão, não hesito em comprová-lo com quantos exemplos se façam necessários.
-
----
-
-# A Elucidação sobre Daissen Sanzen Sekai
-
-**Categoria:** ta | **Ano:** 昭和26(1951)年1月1日 | **Fonte:** Eikou
-**Título Original:** 大千世界と三千世界 | **Status:** Published
-
-## A Elucidação sobre Daissen Sanzen Sekai
-
-Em nossa Oração, consta a expressão Daissen Sanzen Sekai. Muitas pessoas, todavia, intrigam-se com o fato de que no budismo a ordem se inverte para Sanzen Daissen Sekai, questionando o motivo de tal diferença. Proponho-me, portanto, a elucidar essa questão.
-
-Primeiramente, analisemos o significado de ambos os termos a partir de seus ideogramas. O ideograma *Dai*, de Daissen Sekai, significa o Universo em sua totalidade. Ele representa o infinito; em outras palavras, o Grande Universo em sua plenitude. Ademais, o ideograma *Dai* é composto por cinco traços. O número cinco corresponde ao Fogo; o Fogo, por sua vez, corresponde ao Espírito; e o Espírito corresponde ao Céu. Sendo assim, é natural que o Céu ocupe a posição superior.
-
-Por outro lado, Sanzen Sekai refere-se aos Três Mundos: o Divino, o Espiritual e o Material. Representa, pois, a manifestação do Daissen Sekai já subdividido. O número três, por sua vez, corresponde à Água, e a Água, à Matéria. Sob a ótica dos ideogramas, o caractere *Dai* contém em si o traço de *Ichi*, o número um, simbolizando o princípio. Já o número três sucede o dois, ocupando uma posição subsequente, pelo que é correto que venha em segundo lugar.
-
-Outrossim, segundo a Lei da Primazia do Espírito sobre a Matéria, o espírito deve preceder o corpo, ocupando a posição superior.
-
-Existe ainda outra interpretação. Se, como vimos, *Dai* corresponde ao Fogo e *San* corresponde à Água, segue-se que *Dai* representa o Mundo do Dia, e *San*, o Mundo da Noite. Considerando que o budismo é um ensinamento da noite, regido pela Lua, e que até o presente momento a humanidade vivia no Mundo da Noite, era perfeitamente natural que o três, *San*, estivesse em primazia.
-
-Nossa Igreja, contudo, é a religião do Mundo do Dia. Sendo assim, a ordem correta e verdadeira é, inquestionavelmente, Daissen Sanzen Sekai.
-
----
-
-# A Origem Espiritual das Calamidades
-
-**Categoria:** ta | **Ano:** 昭和28(1953)年10月14日 | **Fonte:** Eikou
-**Título Original:** 台風禍 | **Status:** Published
-
-## A Origem Espiritual das Calamidades
-
-Jamais se viu, em tempos recentes, um ano com uma sucessão tão implacável de tufões devastadores como o atual. O rastro de destruição deixado por tais calamidades é de uma magnitude incalculável, afetando vidas humanas, rebanhos, lavouras, estradas, diques, pontes, embarcações e toda a infraestrutura.
-
-Contudo, o que mais aflige é constatar que, apesar de os preparativos para enfrentar os tufões serem quase um ritual anual, tanto o governo central quanto as autoridades locais se veem impotentes. As severas restrições orçamentárias impedem a execução dos planos conforme o necessário, deixando-os praticamente de mãos atadas. Diante disso, a simples perspectiva de futuras e incontáveis tempestades é suficiente para nos causar um calafrio na alma.
-
-Tudo isso ocorre porque a verdadeira natureza dos tufões permanece completamente desconhecida. É com o intuito de revelar sua causa fundamental que escrevo estas linhas. A raiz do problema reside, indubitavelmente, na superstição científica e na sua tentativa de solucionar todas as questões por meio de uma abordagem puramente materialista. Enquanto o pensamento se mantiver alheio à verdadeira origem do fenômeno, qualquer medida não passará de um paliativo.
-
-Portanto, uma solução permanente só será possível por meio de um método espiritual. E em que consiste esse método? Consiste em conhecer a genuína causa da formação dos tufões e, a partir desse conhecimento, estabelecer as medidas adequadas. Afirmo, como já o fiz diversas vezes, que os tufões não são desastres naturais, mas sim calamidades de origem humana. É o resultado de uma ignorância estarrecedora, na qual o próprio homem cria o seu sofrimento.
-
-Para que não haja espanto por parte do homem moderno, passo a elucidar este ponto, a fim de despertar a consciência geral. O mundo é constituído de dois planos: o material, que é visível, e o espiritual, que é invisível. Podemos imaginá-lo como uma mão: a face visível, a palma, representa o corpo, enquanto o dorso representa o espírito. Ambos estão indissoluvelmente unidos. A lei universal que rege toda a existência determina que o espírito é o principal, e a matéria, o secundário.
-
-Nesse sentido, tudo o que ocorre no Mundo Físico origina-se primeiro no Mundo Espiritual, sendo posteriormente projetado em nossa realidade. Os tufões, evidentemente, não são exceção. Logo, a única maneira de evitar sua manifestação é impedir que sua causa seja gerada no plano espiritual. Não há, em absoluto, outro caminho. Ao ignorar esse princípio, o homem concentra-se apenas no resultado, na dimensão material, de forma análoga à medicina sintomática, que oferece apenas um alívio temporário.
-
-Qual seria, então, a causa espiritual? É a mácula que obscurece o Mundo Espiritual. Quando essa mácula ultrapassa um determinado limite, entra em ação um processo de purificação natural. Esse processo é o que conhecemos como tufão. Para evitar que isso ocorra, é preciso atentar para os pensamentos, as palavras e as ações.
-
-Pensamentos de natureza maligna – como o ódio, a inveja, o despeito, o rancor e a noção de desigualdade – refletem-se no Mundo Espiritual e geram desequilíbrios climáticos, constituindo o primeiro nível de impurezas. Em seguida, temos as palavras e ações malignas, como a calúnia, a difamação, o estelionato, a lamentação, a baixeza e toda sorte de atos pecaminosos. Estas, por sua vez, obscurecem um segundo nível do Mundo Espiritual. É para eliminar essas máculas que se manifesta o fenômeno purificador do tufão.
-
-Existe, ainda, uma causa de ordem puramente material: a poluição do solo pelo uso de fertilizantes químicos, dejetos humanos e agrotóxicos para o controle de pragas. A natureza, para se purificar, utiliza chuvas torrenciais para lavar e remover essas impurezas da terra.
-
-Como se pode ver, tudo é fruto da ignorância humana. Ao tomar consciência dessa realidade e cessar a criação de tais causas, a solução surge como consequência natural. Assim, as grandes calamidades se tornam pequenas, e as pequenas se extinguem por completo. Esta é a Verdade do Universo. Posso, pois, afirmar categoricamente que não haverá solução efetiva e definitiva enquanto o homem não se alinhar a ela.
-
----
-
-# Sobre o Mahayana e o Hinayana
-
-**Categoria:** ta | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 大乗と小乗 | **Status:** Published
-
-## Sobre o Mahayana e o Hinayana
-
-Os termos Mahayana e Hinayana são de longa data. Embora sejam termos budistas, explanados com considerável detalhe nessa doutrina, seja por minha pouca erudição, jamais me deparei com uma explanação que me satisfizesse plenamente. Gostaria, portanto, de expor minha visão pessoal a respeito.
-
-Para sintetizar, o Hinayana corresponde à linha longitudinal, enquanto o Mahayana, à latitudinal. Ademais, o Hinayana é sentimento, ao passo que o Mahayana é razão. O Hinayana, por discriminar o bem e o mal e se basear em preceitos, tende a ser visto como o bem pela maioria das pessoas. O Mahayana, contudo, por não fazer tal distinção e possuir uma índole liberalista, dificilmente é percebido dessa forma.
-
-Para tornar a questão mais clara, citarei alguns exemplos.
-
-Imagine um ladrão. Ao tentar regenerá-lo, a abordagem Hinayana consistiria em repreendê-lo e persuadi-lo a abandonar seus atos malignos. Já a abordagem Mahayana implicaria, primeiramente, juntar-se ao seu grupo para, na oportunidade certa, argumentar: "Cometer crimes não é tão lucrativo e ainda nos obriga a viver sob constante ameaça e ansiedade. Não é uma vida enfadonha?". Desse modo, o conduziria a abandonar o mal e a seguir o caminho do bem.
-
-Outro exemplo refere-se à obediência filial, considerada a base da devoção aos pais. Suponhamos que um filho, tendo estabelecido para si um grande objetivo, precise deixar o lar para realizá-lo, mas seus pais se opõem. Sem alternativa, ele decide desobedecê-los momentaneamente e parte. Após se esforçar e alcançar o sucesso, retorna para casa. Seus pais, repletos de alegria por sua glória, certamente o receberão com júbilo, e seu ato se revelará a mais elevada forma de devoção filial. Analisando ambos os casos, o primeiro representa a devoção filial Hinayana, e o segundo, a Mahayana.
-
-O nacionalismo e o etnocentrismo são, igualmente, formas do bem Hinayana, assim como o comunismo, que se restringe ao amor a uma classe. Em geral, toda ideologia que se enquadra em um "-ismo" costuma ser um bem Hinayana e, por conseguinte, está fadada a um impasse. Somente o caminho Mahayana, com seu amor universal e humanitário, pode ser considerado a Verdade. O Japão, por exemplo, sofreu a amargura da derrota por ter seguido um amor à pátria e uma lealdade ao imperador de natureza Hinayana, que descambaram para o imperialismo. A palavra "Kodo" (Caminho Imperial), popular no Japão de outrora, representava um patriotismo Hinayana. E por quê? Porque, se tal caminho fosse propagado a outras nações, dificilmente encontraria quem com ele se afinasse. Portanto, aquilo que não ressoa e não é celebrado por toda a humanidade não pode ter vida eterna. Nisso consiste o verdadeiro caminho Mahayana. Os "-ismos", por sua natureza limitada, inevitavelmente entram em atrito uns com os outros, gerando conflitos que podem escalar para guerras e infligir calamidades à humanidade. Nesse sentido, o bem Hinayana pode ser o mal Mahayana, e o bem Mahayana, o mal Hinayana.
-
-Contudo, é preciso uma ressalva. Preconizar o caminho Mahayana às massas desde o início é arriscado, pois pode gerar graves equívocos. O correto é iniciar pelos ensinamentos Hinayana e, somente quando a pessoa atingir certo grau de esclarecimento, introduzir os do Mahayana.
-
-Gostaria agora de discorrer sobre o Mahayana e o Hinayana no âmbito das religiões. Originalmente, o budismo é Hinayana, e o cristianismo, Mahayana. O budismo é fogo; o cristianismo, água. O fogo arde na vertical (longitudinal), e a água flui na horizontal (latitudinal). Por essa razão, o budismo é restrito e profundo, de natureza isolacionista, carecendo de expansão latitudinal. O cristianismo, ao contrário, por ser Mahayana, expandiu sua influência aos confins do mundo, tal como a água que transborda e se espalha.
-
-Curiosamente, mesmo dentro do budismo, que é Hinayana, existe a distinção entre Mahayana e Hinayana. A fé no Namu Amida Butsu, por exemplo, é Mahayana e de natureza yin, enquanto a fé no Namu Myoho Renge Kyo é Hinayana e de natureza yang. O Mahayana se baseia no Outro Poder, e o Hinayana, no poder próprio. Enquanto os seguidores da Terra Pura creem que "basta entoar o Namu Amida Butsu para ser salvo", numa total dependência do Outro Poder, a doutrina do Sutra de Lótus, sendo Hinayana, prega: "Não basta apenas recitar o Namu Myoho Renge Kyo; é preciso submeter-se a práticas ascéticas e rigorosas".
-
-Até hoje, as religiões se mantiveram assim, separadas em longitude e latitude. Contudo, na era final, ambas as linhas devem se unir, formando uma cruz. Nesse sentido, a Verdade reside na atuação livre e onipresente, que se transforma de mil maneiras, tornando-se ora longitudinal, ora latitudinal, conforme a ocasião. Essa atividade em forma de cruz é a essência da prática de Kannon (観音).
-
-Desde a antiguidade, diz-se que Kannon (観音) não é homem nem mulher e, ao mesmo tempo, é ambos. Sua forma original é Sho Kannon, que se manifesta como as Seis Kannon — Senju, Juichimen, Nyoirin, Juntei, Fukukensaku e Bato —, as quais se desdobram em trinta e três aparências distintas. Ademais, Kannon possui inúmeros outros nomes, como Kanjizai Bosatsu, Mujinni Bosatsu, Semui Bosatsu, Mugeko Nyorai, Komyo Nyorai, Fuko Sanno Nyorai e Saisho Myo Nyorai. O fato de se manifestar especialmente como Ojin Miroku (Maitreya no Corpo de Manifestação) nos permite inferir a grandiosidade de sua natureza. A propósito, Amida Nyorai é Hoshin Miroku (Maitreya no Corpo da Lei), Shaka Nyorai é Hojin Miroku (Maitreya no Corpo de Recompensa), e as três deidades — com Kannon (観音) como Ojin Miroku — são reverenciadas como os Três Budas Miroku. Pode-se dizer também que o Miroku do Sol é Kannon (観音); o da Lua, Amida; e o da Terra, Shaka.
-
-É importante ressaltar que existe a teoria de que a forma original de Kannon (観音) seria uma manifestação de Amaterasu Oomikami, o que é um equívoco. Amaterasu Oomikami, na verdade, manifesta-se como Dainichi Nyorai.
-
----
-
-# A Missão Divina no Ano do Rato
-
-**Categoria:** ta | **Ano:** 昭和11(1936)年1月1日 | **Fonte:** Toho no Hikari
-**Título Original:** 大黒様と鼠 滑稽阿呆文学 | **Status:** Published
-
-## A Missão Divina no Ano do Rato
-
-Adentramos finalmente o décimo primeiro ano da era Showa, o Ano do Rato, que inaugura o ciclo zodiacal. O número dez representa a forma divina concluída; após uma década de preparação, a Kannon Kai (観音会) nasceu, como uma criança que emite seu primeiro choro. Assim, no Ano Novo que celebra seu primeiro aniversário, ela, qual um bebê, começa a dar seus primeiros passos a partir deste décimo primeiro ano, o ano do “dez mais um”. Com isso, todo o zodíaco de doze signos também se põe em movimento.
-
-Diz-se que a criatura conhecida como rato é a mensageira do deus Daikoku. Embora não seja propriamente uma divindade da sorte, desempenha um papel auspicioso. Apesar de seu pequeno porte, sua lealdade — expressa em seu labor incessante — é inigualável. Ele traz, pouco a pouco, os tesouros que encontra. É, de fato, uma criatura adorável.
-
-Poderíamos ser levados a pensar em um grande plano para o início do ano: lisonjear o rato, incentivá-lo a trabalhar com afinco para que ele nos traga os fundos necessários para nossas atividades. Contudo, se disséssemos tal coisa, os de mente pequena poderiam erroneamente concluir que Kannon (観音) é uma divindade avarenta. Mas a verdade é outra.
-
-Na realidade, o Japão começa a colher os frutos de longos anos de labor e suor, e testemunhamos agora o esplendor de seu progresso e expansão no cenário mundial. Nesse sentido, projeta-se que, a partir deste Ano do Rato, a prosperidade material flua abundantemente, aquecendo o bolso de todos. Quando os déficits se extinguirem, até mesmo a tradicional figura do Daruma, que não possui pernas, as verá brotar subitamente e se porá a dançar de alegria.
-
-Afinal, quem é essa figura de Daikoku, que se apresenta sempre com um sorriso radiante? Questioná-lo seria mera formalidade, pois Ele é, dentre os servos de Kannon (観音), o grande mestre encarregado de reunir tesouros e erradicar a pobreza. Há quem diga que Sua verdadeira identidade é a do valente Tamonten, mas tais investigações são de pouca importância. O que verdadeiramente importa é que todo o mundo, em uníssono, alcance uma condição de saúde, paz e felicidade, com o semblante de cada pessoa a refletir o sorriso de Daikoku. Quando isso ocorrer, os Sete Deuses da Fortuna dançarão e até mesmo Enma, o regente do submundo, haverá de sorrir.
-
-Este é o verdadeiro Paraíso, o estado em que o mundo terreno se manifesta como a Terra Pura da Luz Tranquila. Eis o grande estandarte da Kannon Kai (観音会): a edificação do Mundo de Grande Luz Divina.
-
----
-
-# O Ponto de Origem de uma Grande Religião
-
-**Categoria:** ta | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 大宗教の発祥地点 | **Status:** Published
-
-## O Ponto de Origem de uma Grande Religião
-
-A nossa Associação Kannon (観音会) teve seu alvorecer em 1º de janeiro de 1935, em Hanzomon, no coração do distrito de Kojimachi — o qual constitui o centro nevrálgico de Tóquio, a própria capital do Japão. Este local se encontra a uma distância ínfima do Palácio Imperial, onde reside o Soberano de toda a nação, o que o situa, no mais verdadeiro sentido, aos pés do Trono. Tal fato encerra um significado da mais alta relevância.
-
-Conforme exposto anteriormente, a unificação do mundo pelo Japão consiste na expansão do Augusto Poder Divino do Imperador a todo o orbe.
-
-O nome do Japão, “Hi no Moto”, significa literalmente “A Origem do Sol”. Contudo, sua essência espiritual remete ao princípio de “Su” (ス), a fonte primordial. O próprio ideograma para “sol” (日) deriva de um pictograma ancestral que representa o astro-rei em seu zênite: ○丶. Esse mesmo princípio, “Su”, é foneticamente associado aos ideogramas de “unificar” (統), “imperador” (皇) e “clareza” (澄), sintetizando, assim, o conceito de um centro unificador. Ademais, o ideograma para “Su” é formado pela junção dos elementos “um” e “pessoa”, aludindo ao Soberano Uno, a autoridade suprema.
-
-Essa simbologia se torna manifesta quando observamos o sol. No momento em que ele atinge o ápice de sua trajetória, o meio-dia, sua luz se encontra em sua máxima intensidade. Ao olharmos para o céu nesse instante, a forma que se descortina é precisamente a de ○丶, o sol em seu ponto mais elevado.
-
-Trata-se, portanto, da manifestação da Luz do Grande Sol, que ilumina a totalidade do orbe e permite que toda a humanidade seja banhada em seu fulgor.
-
-Por essa razão, torna-se uma verdade autoevidente que a salvação, uma Luz grandiosa como a do Sol, devesse necessariamente emanar das proximidades do Trono Imperial em Tóquio, o centro da unificação.
-
-Até os dias de hoje, surgiram inúmeras religiões e salvadores, todavia, todos eles se desviaram do ponto central. Apenas por essa constatação, é possível vislumbrar a magnitude da missão com a qual a Associação Kannon (観音会) veio ao mundo.
-
----
-
-# Proposta de Medidas para a Aplicação de Nossa Terapia na Marinha
-
-**Categoria:** to | **Ano:** 昭和18(1943)年 | **Fonte:** 答申案
-**Título Original:** 答申案 | **Status:** Unpublished
-
-## Proposta de Medidas para a Aplicação de Nossa Terapia na Marinha
-
-Para a implementação de nossa terapia na Marinha, apresento a seguir as medidas concretas para as áreas que demandam a mais premente atenção.
-
-Primeiro, abordarei o fortalecimento da capacidade física dos aviadores que atuam na linha de frente. O objetivo primordial é, naturalmente, acelerar a recuperação da fadiga e aumentar a resistência, com especial ênfase na acuidade visual, na clareza mental e na agilidade dos movimentos.
-
-Para a consecução de tal fim, o primeiro passo consiste em selecionar três terapeutas habilitados e enviá-los às bases aéreas da linha de frente. Segundo informações, existem dezenas de bases. Nesse sentido, proponho que em cada uma delas sejam selecionados, dentre os praças do corpo de saúde ou de enfermagem, candidatos para receber instrução. Sob a orientação dos terapeutas enviados, em um curso de aproximadamente cinco dias, estes aprendizes poderão adquirir uma notável habilidade terapêutica, permitindo uma expansão gradual da eficácia do tratamento.
-
-Uma vez que essa etapa esteja consolidada, o plano é dar início ao tratamento da malária e de outras enfermidades tropicais. Tenho a firme convicção de que, também nesses casos, alcançaremos uma eficácia terapêutica sem precedentes.
-
-Segundo, é desnecessário dizer que a questão mais urgente da atualidade reside na solução do problema da tuberculose. Para demonstrar a notável eficácia de nossa terapia no combate a essa doença, considero que o método a seguir é o mais apropriado.
-
-A proposta consiste em reunir no mínimo cinquenta pacientes com tuberculose para que recebam o tratamento por nossa terapia. A razão para tal exigência é que um número reduzido de casos seria insuficiente para comprovar, de forma inequívoca, os resultados do tratamento. Ademais, para que a eficácia da terapia seja demonstrada com o máximo rigor, é fundamental que todo o processo ocorra sob a supervisão de médicos especialistas, com a realização de exames científicos detalhados e a elaboração de registros estatísticos. Somente por meio de uma avaliação tão imparcial será possível determinar o seu verdadeiro valor prático. O resultado desse estudo representará, sem dúvida, um marco decisivo na superação da tuberculose, inclusive no campo da medicina.
-
-Felizmente, para a execução deste plano, existe uma oportunidade singular. Na área de residência de estrangeiros, na cidade de Yokohama, há um edifício que foi propriedade de cidadãos de nação inimiga. Este imóvel é perfeitamente adequado para o propósito em questão; basta que se providenciem os leitos para que ele seja imediatamente convertido em um hospital. Tendo em vista que o referido edifício se encontra sob a jurisdição do Ministério das Finanças, solicito que o vosso ministério tome as providências para a sua transferência e para a instalação de algumas dezenas de leitos.
-
-Com isso, poderemos dar início aos tratamentos experimentais sem demora. Acrescento, ainda, que ao lado do referido edifício há uma residência adequada onde eu mesmo poderia me instalar. Essa proximidade me permitiria supervisionar diretamente os tratamentos, o que considero ser de imensa conveniência para a obtenção dos melhores resultados.
-
----
-
-# A Causa do Sismo na Região de Tochigi
-
-**Categoria:** to | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
-**Título Original:** 栃木地方の地震の原因 | **Status:** Published
-
-## A Causa do Sismo na Região de Tochigi
-
-Exporei nossa perspectiva sobre o recente sismo que ocorreu na região de Tochigi. As agências meteorológicas admitem desconhecer sua origem, o que é perfeitamente compreensível, pois a meteorologia atual ainda não alcançou o nível necessário para decifrar abalos sísmicos dessa natureza. A ciência materialista, por si só, levaria séculos para chegar a tal conclusão. Em contrapartida, a Ciência Divina e Espiritual o desvenda com facilidade, o que evidencia sua notável grandeza.
-
-Conforme já expus em outros escritos, nossa interpretação dos sismos fundamenta-se na contração da crosta terrestre. Tal contração manifesta-se, na maioria das vezes, como subsidência do leito oceânico. A elevada frequência de terremotos no Japão deve-se, portanto, à sua extensa linha costeira. Contudo, a teoria científica atribui a causa à natureza vulcânica do país. Embora esse fator tenha sua relevância, os abalos de origem vulcânica raramente atingem grande magnitude. Os sismos devastadores, ao contrário, resultam do impacto que a subsidência do fundo do mar exerce sobre as massas continentais. Os fatos corroboram essa assertiva, como se viu no Grande Terremoto de Kanto e no sismo que atingiu a região de Fukui há dois anos. Da mesma forma, a preocupante subsidência de terra atualmente observada na região de Echigo é, inegavelmente, uma consequência do afundamento do leito do Mar do Japão.
-
-Todavia, o sismo ocorrido na região de Tochigi possui uma natureza distinta. Sua origem reside na influência da cordilheira de Nikko. Com efeito, o imponente maciço montanhoso de Nikko é composto por uma rocha sólida e maciça, cujo peso colossal exerce, ao longo de vastos períodos, uma pressão contínua sobre a crosta. Em virtude dessa compressão, a crosta subjacente adquire uma forma de subsidência natural. Quando tal afundamento atinge um determinado grau, desencadeia-se um fenômeno de compensação na crosta adjacente, que é mais maleável. Essa porção da crosta, então, enrijece-se gradualmente até que, por fim, se contrai subitamente. Portanto, terremotos dessa espécie são extremamente raros e, ademais, jamais alcançam grande magnitude.
-
-Esta é a explanação segundo a Meteorologia Divina e Espiritual.
-
----
-
-# A Religião Mahayana
-
-**Categoria:** ta | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** 大乗宗教 (再録) 自観叢書12編 | **Status:** Published
-
-## A Religião Mahayana
-
-É do conhecimento geral a existência da distinção entre Mahayana e Hinayana no âmbito religioso, particularmente no budismo. Contudo, tal distinção parece não ter sido, até hoje, plenamente compreendida. Permitam-me, pois, discorrer sobre minha perspectiva a este respeito.
-
-Em sua essência, Mahayana significa a Grande Natureza. A Grande Natureza, por sua vez, refere-se ao processo de geração e desenvolvimento de tudo o que existe no Universo. Portanto, o Mahayana abrange a totalidade, sem nada excluir. Nesse sentido, o que ora vos apresento não é o Budismo Mahayana, mas sim a Via Mahayana. Nela se incluem a religião e a filosofia, a ciência e a política, a educação e a economia, bem como as artes. Ademais, engloba, naturalmente, a guerra e a paz, o bem e o mal.
-
-Ao contemplarmos atentamente as atividades de todo o Universo, vislumbramos a existência de uma via natural. O verdadeiro valor do ser humano reside, decerto, em sua capacidade de reconhecer que o progresso harmonioso advém da obediência a essa via. Por esse princípio, o desvio da via gera dissonância, o que inevitavelmente acarreta obstáculos e, por fim, conduz à estagnação ou à destruição. Assim, estar em conformidade com a via resulta em criação, enquanto desviar-se dela resulta em destruição. Esta é a verdadeira face do nosso mundo. A analogia é precisa: um trem avança enquanto permanece nos trilhos; se descarrila, sua jornada cessa.
-
-Por conseguinte, tudo o que perece, perece por uma razão, e tudo o que nasce, nasce por uma razão. Não há acasos; tudo é fruto da necessidade. Sob essa mesma ótica, no campo ideológico, a inclinação à esquerda gera uma força à direita, e a inclinação à direita gera uma força à esquerda. Deve-se, portanto, seguir a via sem pender para nenhum dos lados, de modo análogo à condução de um automóvel. Fundamentados nesse princípio, o capitalismo, o socialismo, o comunismo, as correntes conservadoras e as progressistas, o ativismo e o passivismo — e quaisquer outras doutrinas — surgem por necessidade e, pela mesma necessidade, desaparecem. O mesmo se aplica, evidentemente, às religiões: seu surgimento ocorre porque há uma razão para que surjam.
-
-Todavia, a maioria dos seres humanos observa o mundo a partir de sua própria e limitada posição, tendendo a taxar de heresia tudo o que lhes é externo. Isso ocorre porque enxergam através da pequena fresta de seu próprio ego, tal como diz o provérbio: “espiar o céu através do talo de um caniço”. Contudo, sob o olhar de Deus, que governa este mundo, a pequenez dos homens, a digladiarem-se nos chifres de um caracol, certamente Lhe arrancaria um sorriso resignado.
-
-Tudo aquilo que é desnecessário ao ser humano é naturalmente eliminado pela seleção natural; por outro lado, aquilo que é necessário não pode ser erradicado, por mais que o homem se esforce. Suponhamos, por exemplo, o surgimento de uma nova religião ou de uma nova ideologia. Ainda que, aos olhos humanos, pareça uma superstição ou uma doutrina maligna, se for necessária à humanidade, ela prosperará; se for desnecessária, será descartada. Portanto, até certo ponto, devemos confiar esse julgamento ao curso natural das coisas. De fato, se algo possui verdadeira vitalidade e valor, quanto mais for oprimido pela força humana, mais vigoroso será o seu desenvolvimento. O exemplo mais eloquente é o Cristianismo. Apesar de seu fundador, Cristo, ter sido condenado à morte, basta observar sua pujança nos dias de hoje para que nenhuma palavra a mais seja necessária.
-
-Escrevi este ensaio com o propósito de instar o homem moderno a refletir sobre o equívoco de sua visão, tão limitada e imediatista.
-
----
-
-# O Japão como Vértice do Mundo
-
-**Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 東京が中心 | **Status:** Published
-
-## O Japão como Vértice do Mundo
-
-É possível que alguns duvidem da afirmação que fiz no tópico anterior, a de que o Japão é o centro do mundo. O principal argumento para tal ceticismo seria a sua localização no Extremo Oriente. Passarei, portanto, a elucidar essa questão.
-
-Para ilustrar, tomemos como analogia o Monte Fuji. Visto de cima, a partir de uma aeronave, seu cume revela-se como o ponto central de uma circunferência. Contemplado de perfil, todavia, o mesmo cume aparenta ser a extremidade. Se considerarmos a base da montanha como o Ocidente, é lógico que seu pico corresponda ao Extremo Oriente.
-
-Com efeito, todas as grandes religiões da humanidade, até os dias de hoje, surgiram no Ocidente. O Budismo, o Cristianismo, o Islamismo, o Confucionismo, o Taoismo, o Bramanismo e o Judaísmo são exemplos disso. Tal fenômeno se repete no próprio Japão, onde religiões como a Tenrikyo, a Konkokyo, a Oomoto, a Hito-no-michi, a Butsuryu-ko e a Seicho-no-Ie também tiveram sua origem a oeste. O mesmo princípio se aplica à cultura.
-
-A concentração de diversas religiões e culturas, que fluíram do Ocidente para o centro oriental, assemelha-se à convergência de inúmeras pessoas que sobem das bases do Monte Fuji em direção ao seu cume. Foi um movimento centrípeto. Agora, todos esses elementos reunidos serão sintetizados e harmonizados para, como uma cultura perfeita e irretocável, serem irradiados de forma centrífuga a todo o globo terrestre.
-
-Essa irradiação da augusta Luz Divina aos oito cantos do mundo, centrada na figura do Imperador do Japão — descendente direto da Deusa do Sol, Amaterasu Omikami —, é simbolizada pelo crisântemo de dezesseis pétalas. Ao duplicarmos esses oito cantos, considerando suas dimensões espiritual e material, obtemos dezesseis.
-
----
-
-# O Subterfúgio da “Constituição Física Peculiar”
-
-**Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 特異体質は逃げ言葉？ 未発表 | **Status:** Unpublished
-
-## O Subterfúgio da “Constituição Física Peculiar”
-
-Neste ponto, desejo dirigir uma advertência à classe médica. Trata-se do seguinte: quando a cura não progride conforme o esperado, é comum que os médicos justifiquem o insucesso alegando que “sua enfermidade se deve a uma constituição física peculiar”, ou que se trata de “uma doença rara, que acomete uma pessoa em dez mil”, ou ainda que “o tratamento foi iniciado tardiamente”. Contudo, não consigo ver tais afirmações senão como meros subterfúgios.
-
-Isto porque, em minha experiência, acumulada ao longo de dezenas de milhares de casos que tratei até hoje, posso afirmar que pacientes com tais características são praticamente inexistentes. Afinal, o processo de cura é fundamentalmente o mesmo para todos. As verdadeiras constituições peculiares congênitas são raríssimas, com exceção daquelas que decorrem de intervenções como cirurgias, injeções ou do uso excessivo de medicamentos. Se insistirmos em encontrar um exemplo, poderíamos citar apenas os portadores de deficiências físicas congênitas.
-
-Portanto, como se pode depreender do exposto, o fato de os médicos se verem compelidos a usar tais justificativas revela duas realidades: a sua incapacidade de obter a cura desejada e o desconhecimento sobre a verdadeira origem das doenças. Em suma, tudo isso evidencia o estado incipiente da medicina.
-
----
-
-# A Essência da Maestria na Arte Cênica
-
-**Categoria:** ta | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 団十郎の芸 自観叢書第5編 | **Status:** Published
-
-## A Essência da Maestria na Arte Cênica
-
-Desde tempos imemoriais, o mundo tem sido agraciado com a presença de inúmeros mestres. Contudo, o fato de serem tão raros evidencia a extrema dificuldade de se atingir tal patamar. Sempre nutri a convicção de que a contribuição dos mestres para a humanidade é de um valor inestimável, e que a eles devemos profunda gratidão. Um mestre, a meu ver, é a soma de genialidade e esforço; já o homem de talento comum, através do esforço, torna-se apenas um perito na sua arte. Nesse sentido, gostaria de discorrer sequencialmente sobre os mestres que tive o privilégio de conhecer e apreciar ao longo da minha vida.
-
-No universo do teatro, o mestre que permanece indelével em minha memória é, sem dúvida, Danjuro IX. Sua maestria era tão renomada que minhas palavras seriam supérfluas; limito-me, portanto, a registrar aqui minhas impressões como espectador. Recordo-me vividamente de tê-lo assistido por volta dos meus vinte anos, no auge de sua maturidade artística. Assisti-o majoritariamente em suas peças de repertório familiar, conhecidas como as Dezoito Obras Clássicas do Kabuki. Ao que parece, em seus últimos anos, suas aparições se restringiam aos atos centrais das apresentações. O traço distintivo de sua maestria, que o diferenciava radicalmente dos demais atores, era sua imobilidade em cena. Costumava-se dizer que sua arte provinha das entranhas, uma atuação visceral, e de fato era assim. Ele quase não se movia nem exibia o que comumente se entende por "atuar", e ainda assim, cativava a plateia em sua totalidade. Era, sem sombra de dúvida, um mestre absoluto. Diziam também que nenhum outro ator conseguia imprimir tamanha solenidade e domínio ao palco, o que corresponde à verdade. Descreverei a seguir duas ou três impressões que guardo até hoje de suas performances.
-
-Ele tinha predileção por interpretar heróis e grandes vultos da história, o que certamente era um reflexo de sua própria personalidade. Dentre as peças a que assisti, as que mais me marcaram foram: Benkei, em *Kanjinchō*; Sakai Saemon-no-jō, em *Sakai no Taiko*; Kiichi Hōgen, em *Kikubatake*; a demônia, em *Momijigari*; e os papéis de Katō Kiyomasa, Tametomo, Mito Kōmon e Kezori Kuemon. Dentre estas, a sua atuação como Sakai Saemon-no-jō foi singular. Na cena, enquanto o exército inimigo se avizinhava, impondo uma ameaça iminente ao castelo, ele mesmo se punha a tocar o grande tambor de guerra. O som do instrumento não revelava o menor sinal de perturbação. Em seguida, ordenava que os portões do castelo fossem abertos e as lanternas acesas, como se tudo transcorresse em absoluta normalidade. Diante de tal serenidade, o general inimigo, convicto de que se tratava de um ardil profundo, ordenou a retirada de suas tropas. A cena retratava Saemon-no-jō aguardando o desenrolar dos acontecimentos com uma audácia e uma compostura inabaláveis. Mesmo quando seus vassalos, ignorantes da estratégia, chegavam em sucessão para informar sobre o perigo crescente, ele não movia uma única sobrancelha, limitando-se a esperar, em silêncio, o passar do tempo. Sozinho, no centro do palco, ele permanecia sentado em absoluta imobilidade, de olhos cerrados e com o rosto ligeiramente inclinado para baixo, sem esboçar o mínimo movimento. Nos momentos finais, cessavam até mesmo os relatos de seus subordinados, e ele, isolado em cena, parecia ter transcendido a condição de um ser vivo, tamanha a sua quietude, que se prolongou por cerca de quatro ou cinco minutos. O público, em suspense, prendia a respiração, observando aquele homem silencioso e imóvel, tentando adivinhar suas próximas ações, completamente hipnotizado. Naquele momento, refleti profundamente: como pode um único ator, no centro de um palco imenso como o do kabuki, sentado em absoluta imobilidade, sem um sorriso, uma carranca ou uma única palavra, cativar a plateia de forma tão avassaladora? Aquilo era, sem dúvida, o ápice da técnica artística. "Que mestre extraordinário!", exclamei em meu íntimo, maravilhado.
-
-Outra atuação memorável foi na cena de *Kikubatake*, em que ele interpretava Kiichi Hōgen. Embora favorecido como estrategista militar pelo clã Heike, Hōgen nutria em seu coração o desejo secreto pela restauração do clã Genji. Acontece que Ushiwakamaru, sob o pseudônimo de Torazō, infiltra-se em sua residência como serviçal, junto a seu vassalo Chienai, com o plano de se apoderar dos pergaminhos de estratégia militar *Rikutō Sanryaku*, de posse de Hōgen, para reerguer o clã Genji. A filha de Hōgen, a princesa Minazuru, apaixona-se por Torazō, o que, para a secreta satisfação do pai, torna-se um meio para que o próprio Torazō, com a ajuda dela, subtraia os pergaminhos do tesouro da família. Hōgen, intimamente satisfeito, mas ciente de sua lealdade forçada ao clã Heike, precisava fingir não perceber o envolvimento de sua filha com Torazō. Sua performance nessa cena, puramente visceral e contida, foi de uma sutileza indescritível.
-
-Houve também a cena em que Mito Kōmon, a pedido de seu vassalo Fujii Mon'tayū, executa-o. Após ceifar-lhe a vida com um só golpe, ele limpa a lâmina e a embainha, sem sequer dirigir o olhar ao corpo de Mon'tayū. Então, entoando em voz clara e sonora um cântico do teatro Nō sobre a dança do deus-dragão, retira-se com passos serenos por uma longa varanda. A cadência daquela cena, combinada ao palco giratório, era de tirar o fôlego, uma emoção que jamais esqueci. Em outra peça, como Tametomo, para salvar seu filho de um perigo iminente, ele o amarra a uma pipa gigante e o lança aos céus, cortando a corda em seguida. Sua expressão facial naquele momento, fitando o céu distante com uma calma imperturbável, era incomparável. A afeição paternal transbordava daquela face impassível. Pura arte visceral. É simplesmente impossível traduzir em palavras ou pela escrita a força enigmática e a capacidade que ele possuía de subjugar completamente o público.
-
-Na época, ouvi dizer que, se uma cena sua fosse recebida com aplausos efusivos pela plateia, no dia seguinte ele a alterava. Imagino que seu alvo não era a massa, mas sim o olhar de um único e verdadeiro conhecedor. Após a morte de Danjuro, perdi o interesse pelo teatro kabuki. A performance dos demais atores me parecia tão inferior que a tristeza por não mais sentir o mesmo apreço por essa arte perdura até hoje. Devo admitir, contudo, que o grande mestre que sucedeu Danjuro foi, sem dúvida, Nakamura Ganjirō. De suas atuações, "Kamiya Jihē" e "Tōjūrō no Koi" são, para mim, inesquecíveis.
-
-Se me permitem a franqueza sobre o motivo pelo qual perdi o interesse pelo kabuki, creio que a razão fundamental reside na carência de uma dimensão espiritual. Em uma palavra, busca-se impressionar apenas pela forma, com uma ânsia de agradar ao público. Isso, inevitavelmente, rebaixa o nível da arte. Os atores de hoje, quase sem exceção, pecam pelo excesso de gesticulação e movimento. Danjuro, por sua vez, transcendia a forma, buscando expressar tudo através do espírito, o que elevava a arte ao seu mais alto grau. Sob outra perspectiva, ao retratar uma figura notável, ele se fundia completamente a ela. É preciso lembrar que os japoneses de outrora prezavam a contenção das emoções; portanto, a ausência de expressão facial era a representação mais autêntica. Assim, os personagens que ele encarnava não davam a impressão de ser um ator fantasiado, mas sim de testemunhar a reencarnação do próprio herói ou da figura ilustre daquela época. Anseio ardentemente que, durante minha vida, surja ainda um outro mestre de sua envergadura.
-
-Aproveito para mencionar uma atriz que, em minha opinião, merece ser incluída no rol dos mestres. Refiro-me à célebre Matsui Sumako. Assisti à sua estreia, no papel de Nora na peça "Casa de Bonecas" de Ibsen. Para uma atriz tão jovem, sua performance foi de uma excelência que me deixou estupefato. A partir de então, não perdi mais nenhuma de suas apresentações. As últimas peças em que a vi foram "A Esposa do Açougueiro", de autoria do Sr. Nakamura Kichizō, e "Carmen". Coincidentemente, em ambas as tramas, sua personagem era assassinada: na primeira, pela inveja do marido; na segunda, por Don José. É uma estranha coincidência, de fato. Dois dias após essa apresentação, ela tirou a própria vida, um fato que nos leva a profundas reflexões. Contudo, o fato de ter subido ao palco dois dias antes de sua morte sem demonstrar o menor indício de seu tormento interior revela uma dedicação e uma consciência admiráveis como atriz.
-
-Gostaria de discorrer também sobre mestres de outras áreas, mas, para não me estender demasiadamente, encerro aqui este artigo.
-
----
-
-# A Construção do Mundo de Grande Luz
-
-**Categoria:** ta | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
-**Título Original:** 大光明世界の建設 | **Status:** Published
-
-## A Construção do Mundo de Grande Luz
-
-Feliz Ano-Novo a todos.
-
-É com imensa alegria que presenciamos a concretização da Sociedade Kannon, um evento deveras alvissareiro. Esta inauguração, a bem da verdade, estava prevista para uma data posterior; contudo, foi a própria Senhora Kannon (観音) quem apressou os desígnios. No dia vinte e três, realizamos no Templo Oshin-do uma cerimônia de fundação, da qual participaram apenas alguns membros da cúpula e aqueles que futuramente assumirão a liderança das filiais. Até então, a localização da Sede Central ainda não havia sido definida, mas, na noite daquele mesmo dia, recebi uma comunicação de Kannon com as seguintes diretrizes: a cerimônia de inauguração da Sede deveria ocorrer nesta casa, antiga sucursal da Oomoto. Fui tomado de completa surpresa, pois em momento algum havia cogitado tal possibilidade. Quando tal desígnio se revelou, contudo, compreendi que havia, de fato, razões inequívocas para que a cerimônia magna se realizasse neste local. Assim, demos início aos preparativos no dia vinte e quatro, e considero uma grande graça podermos celebrar esta inauguração hoje. Nesta ocasião, gostaria de expor, em linhas gerais, os vastos planos que temos, abordando os objetivos e as futuras atividades da Sociedade Kannon.
-
-Antes de adentrar o tema principal, desejo fazer uma breve comunicação. A Sociedade Kannon publicará um órgão informativo intitulado “Luz do Oriente”. A primeira edição estava programada para o dia vinte e três e, assim que estiver pronta, será enviada a todos os senhores. Ademais, teremos uma revista mensal chamada “Mundo de Luz”, cujo primeiro número deverá ser lançado no dia quatro de fevereiro, data que marca a celebração do Setsubun. Rogo que utilizem amplamente ambas as publicações como ferramentas de divulgação. Nossa intenção é oferecer a “Luz do Oriente” gratuitamente. Para pedidos em grande quantidade, talvez seja necessário estipular um valor simbólico de cerca de dois sen por exemplar. Quanto à revista “Mundo de Luz”, planejamos distribuí-la, inicialmente, a um custo de vinte a trinta sen. Começaremos com uma edição de aproximadamente cinquenta páginas, em formato菊版 (kikuban), com a expectativa de expandi-la para cem páginas à medida que a tiragem aumentar.
-
-Esta noite, gostaria de discorrer sobre o objetivo primordial da Sociedade Kannon: a construção do Mundo de Grande Luz.
-
-O Mundo de Grande Luz, como a própria expressão sugere, é um mundo onde não haverá mais escuridão, graças à Luz de Kannon. Um mundo sem escuridão é, por conseguinte, um mundo isento de sofrimentos, angústias e pecados. O anelo por tal mundo, o desejo de construí-lo, impulsionou, por milênios, inúmeros sábios, santos e grandes fundadores de religiões a pregar seus ensinamentos e a empreender grandes esforços. Todavia, esse mundo jamais se concretizou; nem mesmo algo que se assemelhasse a ele chegou a existir. A sua concepção foi relegada à categoria de mero ideal humano, e a sua viabilidade permaneceu, até os dias de hoje, envolta em ceticismo.
-
-Contudo, tal mundo é, de fato, realizável. E mais: ele está prestes a se concretizar em meio a uma vertiginosa reviravolta dos tempos. Fui notificado a esse respeito há exatos sete anos, pela própria Kannon, ou seja, pela Deusa Izunome-no-Ookami (伊都能売之大神). Naquela época, para ser franco, ainda nutria certas dúvidas sobre a sua efetiva concretização. Desde então, porém, testemunhei inúmeros milagres, fenômenos prodigiosos que a inteligência e a experiência humanas são incapazes de mensurar ou explicar. Todos esses milagres, sem exceção, serviram para corroborar a vinda do Mundo de Grande Luz, demonstrando-a como uma certeza absoluta. Com isso, minha fé se fortaleceu sobremaneira, e passei a compreender, com clareza inabalável, que esse mundo será edificado por meu intermédio — ou, mais precisamente, que a Senhora Kannon utilizará meu corpo como instrumento para construí-lo.
-
-Sou, por natureza, um homem de extrema cautela. A despeito de uma aparência talvez magnânima, sou, em essência, bastante meticuloso, a ponto de, por excesso de prudência, parecer por vezes hesitante. No entanto, até mesmo um homem com tal temperamento como o meu chegou à conclusão de que não há alternativa senão realizar esta grandiosa Obra. Sinto o dever de revelar a Verdade a toda a humanidade e de salvá-la. É a própria Senhora Kannon quem me impele a esta tarefa, concedendo-me um poder imensurável para que eu a cumpra. Fui cientificado de inúmeros acontecimentos de um futuro longínquo, e todos eles vêm se manifestando na realidade, sem o menor desvio.
-
-Profecias ancestrais, como a vinda da Era de Miroku (五六七の世), do Paraíso Terrestre, da Era de Kanrodai (甘露台の世) e da Era de Gino (義農の世), prenunciavam a chegada de um novo tempo. Compreendi que todas elas eram verdadeiras. A Obra que me foi incumbida de realizar, o mundo que me foi determinado criar, é, precisamente, a concretização de tais predições. Qual é, então, o seu fundamento? É o poder de Kannon. Essa força, o poder de Kannon, jamais se manifestou verdadeiramente no mundo até hoje. Shakyamuni pregou a compaixão, Cristo pregou o amor, e diversos outros santos transmitiram o caminho aos homens com grande eloquência. No entanto, embora tenham pregado, faltava-lhes a força para efetivar seus ensinamentos na prática. Talvez tenham obtido algum êxito, mas jamais conseguiram estendê-lo à totalidade da humanidade. Por essa razão, seus ensinamentos permaneceram no campo das profecias e dos ideais, e o mundo que almejavam nunca se tornou realidade. A profunda degradação e o caos em que a humanidade mergulhou até os dias atuais devem-se ao fato de que as religiões e os preceitos morais, embora possuíssem certo poder, careciam de um poder absoluto. Em suma, por carecerem de força suficiente, foram vencidos pelo mal.
-
-Finalmente, o tempo celestial chegou, e o poder absoluto manifestar-se-á sobre a Terra. Uma força desconhecida pela humanidade por milênios está prestes a emergir, e, com ela, surgirão acontecimentos que desafiam toda a imaginação.
-
-Observando as religiões até hoje, percebemos que nenhuma delas foi completa. Tomemos como exemplo o budismo, com suas correntes Mahayana e Hinayana. A Hinayana é comumente interpretada como uma fé egoística, e a Mahayana, como uma fé altruísta. Ainda que esta interpretação não seja de todo precisa, partindo dessa premissa, afirmo que ambas as abordagens estão equivocadas. A fé de cunho individualista, nos moldes da Hinayana, concentra-se no benefício pessoal: basta que o indivíduo e sua família vivam em paz e conforto. Ela ignora por completo a sociedade, a nação e a humanidade. As preces por segurança familiar, saúde e prosperidade nos negócios, tão comuns em nossa sociedade, são a expressão máxima dessa fé egocêntrica.
-
-Em contrapartida, a chamada fé de cunho altruísta, Mahayana, adota uma postura diametralmente oposta: dedica-se a causas maiores, como a sociedade, a nação ou a humanidade, negligenciando o próprio eu. Propõe o abandono de pais e filhos e o sacrifício do lar em prol do bem comum. Tal atitude reveste-se, à primeira vista, de grande nobreza. A abnegação em nome de uma causa maior é, sem dúvida, um ato de heroísmo e dignidade. Contudo, também esta senda, à luz da Verdade, revela-se um equívoco, excetuando-se casos extraordinários e circunstâncias inevitáveis, que são raros no curso da vida cotidiana. Portanto, é evidente que nem a via individualista nem a altruísta são o caminho correto.
-
-Qual seria, então, a verdadeira senda? Ela não é nem individualista nem altruísta; ou melhor, é, ao mesmo tempo, individualista e altruísta. Há momentos em que se deve agir de modo individualista e outros em que a ação altruísta se faz necessária. O caminho correto varia conforme o tempo, a situação e a pessoa. É análogo ao modo como nos vestimos: usamos roupas leves no calor, um agasalho de lã quando refresca e um casaco acolchoado no frio. O verdadeiro caminho, portanto, consiste em adaptar-se de acordo com o objeto, a circunstância e a posição de cada um.
-
-Com efeito, a fé de cunho individualista e egoísta jamais poderá salvar a humanidade, pois o choque de egoísmos gera conflitos que, em maior escala, culminam em guerras. Por outro lado, a fé altruísta, que prega o sacrifício do eu em prol do mundo, embora pareça isenta de erros, foi praticada por inúmeras pessoas ao longo das eras, e o mundo ideal jamais se concretizou. O resultado, mais eloquente que qualquer argumento, comprova a sua ineficácia. Ainda hoje, ao observar religiões que seguem esse modelo, sou invadido por um sentimento de profunda tristeza e desolação. É louvável sacrificar tudo pela humanidade, mas quem segue esse caminho invariavelmente chega a um beco sem saída. Acaba por causar transtornos à própria família e aos parentes, sofre o ostracismo de sua comunidade e mergulha na solidão. Mesmo assim, insiste: “Faço-o por Deus, é uma provação divina”. E, quanto mais se obstina, mais incompreendido e rejeitado se torna, até se ver completamente paralisado. Ao invés de salvar, a pessoa chega a um ponto em que precisa ser salva por outros simplesmente para subsistir. Este padrão se repete em toda sorte de religiões. Como se poderia construir o Paraíso dessa maneira?
-
-A edificação do Paraíso Terrestre torna-se clara quando consideramos as unidades que compõem o mundo. Em última análise, a unidade fundamental é o ser humano. O mundo é um conjunto de seres humanos que formam nações; as nações são compostas de cidades e vilas; estas, por sua vez, são formadas por lares; e os lares são constituídos por indivíduos. A lógica é irrefutável: se o indivíduo, a unidade fundamental, não for salvo, o mundo jamais poderá sê-lo. Desse modo, tanto a fé individualista, que visa apenas o benefício próprio, quanto a fé altruísta, que sacrifica o indivíduo, estão equivocadas. É preciso que ambos prosperem; que o todo seja salvo. O indivíduo é salvo e atinge a perfeição, e essa condição se expande até que o mundo inteiro seja salvo e aperfeiçoado. Logo, é imperativo que o indivíduo seja salvo e aperfeiçoado em primeiro lugar. Se considerarmos um lar como um microcosmo do mundo, quando essa família se tornar um paraíso e for salva, o mundo inteiro será salvo.
-
-Embora essa ideia já existisse, ela era tida como inalcançável, um ideal abandonado. Isso se devia à carência de força por parte dos fundadores e de suas religiões. Agora, entretanto, por meio do poder de Kannon, essa meta será infalivelmente alcançada. Em termos simples, trata-se da criação de um mundo sem doença, pobreza e conflito; de lares sem doença, pobreza e conflito. Esses três males correspondem às três pequenas calamidades — fome, peste e guerra —, mas a expressão “doença, pobreza e conflito” parece-me mais precisa. Esses flagelos serão aniquilados. Será que isso é possível? Sim, é absolutamente possível. Com a fé em Kannon, é plenamente realizável. No passado, isso não era viável; por mais nobre que fosse a fé, não se conseguia criar um lar livre da doença, da pobreza e do conflito. Mas agora, isso se tornou possível. Na verdade, muitos membros da Sociedade Kannon já estão a vivenciar essa transformação. Há muitos que já a alcançaram, que estão em processo de alcançá-la ou que se aproximam dela a cada dia.
-
-A construção do Mundo de Grande Luz pode parecer uma tarefa árdua, mas não é tão complexa quanto parece. Basta que o mundo se preencha de lares onde não existam a doença, a pobreza e o conflito. Então, e somente então, o mundo poderá desfrutar da paz verdadeira. O poder de Kannon é a “Luz do Oriente”, mencionada desde tempos imemoriais. É um profundo mistério como essa expressão surgiu há tanto tempo. Eu mesmo, há sete anos, no dia do Setsubun do terceiro ano da Era Showa, comecei a receber de Kannon diversas revelações sobre a Luz do Oriente. Aguardei serenamente a chegada do momento oportuno; ou melhor, estive me preparando.
-
-Nesse contexto, um evento significativo ocorreu com a visita do senhor Toko Otoko, que hoje se encontra aqui e que muitos dos senhores conhecem. O nome dele significa “homem da luz do leste”. Certo dia, ele solicitou uma audiência, apresentando um cartão de visitas com esse nome, o que me deixou profundamente impressionado. Era um completo desconhecido para mim. Ele apareceu subitamente no dia onze de outubro do ano passado e relatou que, vinte anos antes, fora informado por Deus sobre o advento de uma pessoa dotada do poder de Kannon. Por intuição espiritual, soube que encontraria essa pessoa neste ano. Sabia também que ela já havia se manifestado a leste de sua residência, no distrito de Shibuya. Suas buscas o levaram ao bairro de Kojimachi, até que, por indicação de um terceiro, veio procurar-me no Templo Oshin-do. Ao ouvi-lo, disse-lhe que, sem dúvida, essa pessoa era eu. Ele então pediu permissão para tirar uma fotografia, e o resultado foi a conhecida foto espiritual da Kannon de Mil Braços. Esse foi o primeiro passo no plano divino para a manifestação da Luz do Oriente. Com efeito, a primeira obra dessa Luz é o surgimento e a atuação da Senhora Kannon de Mil Braços.
-
-Em setembro do ano passado, a Senhora Kannon, em meu interior, comunicou-me que era chegado o momento de pintar a imagem da Kannon de Mil Braços (千手観音). Iniciei imediatamente os preparativos e comecei a pintura no dia cinco de outubro. Quando havia concluído cerca de um terço da obra, o senhor Higashi apareceu e tirou a fotografia, como acabei de mencionar. Aquela fotografia revelou-me como a Kannon de Mil Braços deveria ser retratada, de modo que reiniciei a pintura imediatamente, seguindo a orientação recebida.
-
-Por que, então, a Luz do Oriente se manifesta neste exato momento? Porque toda a civilização e cultura que conhecemos hoje provieram do Ocidente. A própria civilização chinesa é, em sua essência, uma civilização ocidental. Isso pode ser compreendido pelo hino que entoamos há pouco: “Corrigindo a civilização do Ocidente, ergue-se o eterno caminho do Oriente”. Os equívocos da civilização ocidental tornaram-se sobejamente evidentes nos últimos tempos. Além disso, desde o Incidente da Manchúria e o consequente avanço do Japão, o Ocidente já não inspira o mesmo respeito de antes. Isso também é um desígnio do tempo. Qual foi o resultado da expansão da civilização ocidental pelo mundo? É inegável que, no campo científico, desfrutamos de imensas conveniências e benefícios, pelos quais devemos ser profundamente gratos. No entanto, no plano espiritual, degeneramos para o individualismo e o egoísmo, gerando um estado deplorável de conflitos incessantes por toda parte.
-
-Recentemente, ouvi a palestra de um certo tenente-general do Exército. Ele afirmava que somente o Caminho Imperial do Japão poderá salvar o mundo. Segundo ele, a civilização ocidental é uma civilização de conflito e, portanto, deve ser salva pelo espírito Yamato, ou seja, pelo espírito altruísta. Dizia ainda que, se a situação persistir, não apenas o Japão, mas o mundo inteiro chegará a um impasse insolúvel. Suas palavras correspondem precisamente àquilo que sempre pensamos.
-
-Podemos constatar essa realidade com clareza ao observar a situação das nações europeias e americanas, que se encontram impotentes e em gradual declínio. O mundo vive em um estado tal que a guerra já deveria ter eclodido. Quando o rei da Iugoslávia foi assassinado, por exemplo, o conflito foi evitado. Isso ocorreu unicamente porque todas as nações estavam exauridas, sem forças para lutar. A paz que se observa atualmente na Europa nada mais é do que a paz entre nações famintas, incapazes de lutar. Nem é preciso imaginar o que acontecerá quando recuperarem seu vigor. Voltando o olhar para o Japão, deparamo-nos com impasses na política, na economia, na educação — em todas as esferas. A falência do espírito ocidental é manifesta. O Japão, em um primeiro momento, absorveu a civilização oriental, proveniente da China e da Índia. No exato instante em que essa assimilação se completava, a civilização ocidental adentrou o país. Este fato encerra um profundo significado.
-
-Lancemos um breve olhar sobre a História. Primeiramente, floresceram no mundo as civilizações orientais da China e da Índia. Assim como a civilização europeia de hoje, elas dominaram o cenário mundial por um longo período, expandindo-se para o oeste e dando origem às civilizações do Egito, da Grécia e da Assíria. Passando pela civilização romana, evoluíram até se tornarem a civilização ocidental que conhecemos. O fato de a civilização oriental ter surgido primeiro, seguida pela ocidental, revela um profundo propósito e uma meticulosa preparação no plano divino para o mundo. A civilização oriental é uma civilização espiritual, vertical (経); a ocidental, uma civilização material, horizontal (緯). Tivemos, até o momento, um protótipo de cada uma dessas duas grandes civilizações. Em termos de abrangência, a oriental pode ser considerada uma civilização Hinayana, e a ocidental, uma civilização Mahayana. Isso se evidencia no caráter dogmático e isolacionista do pensamento oriental, em contraste com a natureza expansionista, horizontal, do pensamento ocidental.
-
-Ocorre que toda civilização, ao atingir seu pleno desenvolvimento e apogeu, entra em um estado de estagnação e impasse. A condição atual da civilização ocidental é um exemplo disso. Minha afirmação anterior, de que tanto a via individualista quanto a altruísta são equivocadas, refere-se exatamente a este ponto. Qual, então, o destino dessas duas grandes civilizações? É aqui que reside a missão da Sociedade Kannon. O plano divino preceitua que, ao final, essas duas civilizações se unam. O ponto de união é o Japão, e o momento é agora. Assiste-se a um casamento: o noivo, Oriente, desposa a noiva, Ocidente. A Senhora Kannon é a intermediária dessa união. O filho que nascerá desse matrimônio será a verdadeira civilização, o mundo ideal há tanto almejado pela humanidade, o Paraíso Terrestre, a Era de Miroku. A força capaz de realizar esta grandiosa e inédita Obra de promover esse enlace e dar à luz um filho precioso é, precisamente, o poder de Kannon.
-
-A atual situação de emergência mundial representa as dores do parto dessa nova civilização. É o momento final e, ao mesmo tempo, o inicial, em que a forma da cruz, resultante da união do vertical e do horizontal, está prestes a se formar. O emblema da Sociedade Kannon, que existe desde tempos remotos — o manji (卍) invertido —, é um símbolo desse significado. Ele representa uma cruz cujas extremidades se dobram, indicando o início de uma rotação após a união. A rotação é o plano divino. O movimento é para a esquerda. Quando o vertical e o horizontal se unem em cruz, algo extraordinário acontece: nasce uma força descomunal, o poder da unificação do espírito e da matéria. A essa força damos o nome de poder de Kannon, a Luz do Oriente.
-
-A civilização vinda do Ocidente, que avançava para o leste, chegou ao marco dos noventa e nove por cento de seu percurso. Nesse ponto, no centro da terra divina do Japão, no Extremo Oriente, manifestou-se a Luz. Essa é a Luz do Oriente. Por meio dela, a civilização ocidental, que se dirigia para o leste e estava fadada ao colapso, será regenerada e purificada. Nascerá uma civilização ideal, na qual o vertical e o horizontal se fundirão em perfeita harmonia, tornando-se um caminho de luz e prosperidade eternas. E, desta vez, ela se expandirá em sentido inverso, rumo ao Ocidente. O fato de esse fenômeno ter sido prenunciado há milênios pela expressão “Luz do Oriente” é, no mínimo, prodigioso.
-
-A cerimônia de inauguração de hoje marca o início desse plano da Luz do Oriente. Creio, portanto, que assistiremos a um desenvolvimento de ímpeto extraordinário. A Senhora Kannon de Mil Braços, também conhecida como Senju Sengen Kanzeon, com suas mil mãos, concede vida a todas as coisas e as ressuscita; com a luz que emana de seus mil olhos, banha a todos e os salva. Quando a civilização ocidental atingiu os noventa e nove por cento e se viu em um impasse, surge a força do um por cento para lhe devolver a vida. A analogia com uma espiral ajuda a compreender esse princípio. Até agora, a civilização ocidental avançou em um movimento de rotação para a direita. No limiar dos noventa e nove por cento, ocorre uma súbita inversão para um movimento de rotação para a esquerda. O movimento para a direita é sempre destrutivo. Ao amassar carvão para fazer um briguete ou ao enrolar um bolinho de arroz, por exemplo, o movimento para a esquerda une e dá forma, enquanto o movimento para a direita desfaz e desintegra. O mesmo se aplica a uma chave: para trancar, gira-se para a direita; para abrir, para a esquerda. A civilização ocidental é, pois, uma civilização destrutiva, de movimento para a direita. A mola de um relógio obedece ao mesmo princípio.
-
-A partir de agora, do centro do Japão, deste bairro de Kojimachi, por meio da Sociedade Kannon, daremos início à civilização de movimento levógiro. Edificaremos uma civilização perfeita e sem falhas, nosso objetivo maior: o Mundo de Grande Luz. Trata-se de um movimento de magnitude sem precedentes desde a criação do mundo, algo verdadeiramente inimaginável. Deus esteve preparando este momento por milhares, dezenas de milhares de anos, com um zelo impecável, e a hora finalmente chegou. Como mencionei, a providência do um por cento é a obra da Kannon de Mil Braços. A esse respeito, ocorreu um fato interessante.
-
-No dia vinte e três do mês passado, entronizamos a imagem da Kannon de Mil Braços no Templo Oshin-do. Dois dias depois, um completo desconhecido apareceu e, por acaso, trouxe-me uma moeda de um rin. Na face dessa moeda, havia uma imagem em relevo da Kannon de Mil Braços e, no verso, os quatro ideogramas que formam seu nome. Mostrei-a a um antiquário com trinta ou quarenta anos de experiência no ramo, e ele afirmou jamais ter visto algo semelhante. Isso demonstra a raridade do objeto. Creio que Deus se utilizou desse pequeno fato para nos mostrar que a obra da Kannon de Mil Braços é a obra do um por cento — um rin. Milagres como este acontecem todos os dias.
-
-Originalmente, a Senhora Kannon possui um corpo diminuto, mas um poder imenso. A Kannon de Asakusa, por exemplo, mede apenas 1,8 sun (cerca de 5,5 cm), mas reside em um salão de 18 ken (cerca de 33 metros) de lado e atrai o maior número de peregrinos do Japão. A propósito, a Senhora Kannon está associada ao número dezoito (1,8 sun, 18 ken). Isso se deve ao fato de que Miroku (ミロク) é, em sua essência, a própria Kannon. O nome Miroku é escrito com os ideogramas para cinco (五), seis (六) e sete (七), cuja soma é dezoito. Da mesma forma, três vezes seis são dezoito. O ideograma para dez (十) representa Deus, enquanto o ideograma para oito (八), ao ser unido, assemelha-se ao ideograma para pessoa (人). Assim, dezoito pode significar “Deus-homem”. Além disso, o dez tem a forma de uma união, e o oito, a de uma abertura; portanto, dezoito também pode significar “unir o vertical e o horizontal e iniciar a expansão”. O poder do um por cento, embora pequeno, é imenso. Nenhuma força maligna pode se equiparar a ele. Será com esse poder que, pela primeira vez, tudo no mundo será salvo.
-
-Doravante, por meio dessa força, todas as coisas serão regidas pela civilização japonesa. Se observarmos o mundo hoje, vemos que nações como a Inglaterra, os Estados Unidos e a França possuem colônias e dominam inúmeros países, tendo conquistado diversos campos e bens. Espiritualmente, até bem pouco tempo, tudo no Japão, do mais alto ao mais baixo escalão, estava sob o domínio do Ocidente. Antes do Incidente da Manchúria, essa situação era extrema. A maior parte da população reverenciava e se esforçava para imitar a cultura da Inglaterra, dos Estados Unidos, da Rússia e de outras nações. Embora sua aparência fosse japonesa, seu espírito estava por completo dominado pelo Ocidente. Quase tudo estava sob seu controle. A partir de agora, o Japão retomará esse controle. Isso ocorrerá por meio da atuação da Senhora Kannon de Mil Braços. Nós somos meros instrumentos. Essa transformação, contudo, se dará por uma força absoluta. Assim foi planejado e decidido por Deus desde o princípio dos tempos.
-
-Nossa missão é anunciar este fato a toda a humanidade, fazendo com que o mundo inteiro volte seus olhos para o Oriente. Por meio disso, faremos com que a Senhora Kannon salve a humanidade, que se encontra à beira da destruição, em meio a uma crise de civilização. Eliminaremos as três grandes calamidades — vendaval, inundação e incêndio — e as três pequenas calamidades — fome, peste e guerra. Construiremos um mundo sem doença, pobreza e conflito, o Mundo de Grande Luz, de paz eterna e prosperidade infindável. Nesse sentido, a cerimônia de inauguração de hoje reveste-se de uma importância monumental, sem precedentes em milhares de anos.
-
----
-
-# A Inversão entre o Oriente e o Ocidente
-
-**Categoria:** to | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
-**Título Original:** 東西愈々入れ替り 阿呆文学 | **Status:** Published
-
-## A Inversão entre o Oriente e o Ocidente
-
-Ao perscrutar, desta vez, a totalidade das religiões existentes no Japão, fui tomado por uma profunda consternação. Verifiquei, estupefato, que todas elas, sem exceção, das maiores às menores, são oriundas do Ocidente. O Cristianismo, o Budismo, o Islamismo, o Taoísmo — todas nasceram em terras ocidentais. Mesmo no Japão, a terra onde fomos banhados em nosso nascimento, as correntes religiosas que poderíamos considerar nativas provêm, invariavelmente, de regiões a oeste de Hakone, como Izumo, Tanba, Okayama, Osaka e a própria Quioto.
-
-Desde a aurora dos tempos, o Sol e a Lua despontam no firmamento a leste e, em sua trajetória, dirigem-se para o poente, iluminando-o. Completam seu ciclo e ressurgem novamente no levante para banhar o ocidente com sua luz, em um movimento perpétuo. Trata-se de uma verdade tão fundamental que até mesmo uma criança de três anos a conhece. Contudo, peço que não se aborreçam com a aparente obviedade desta afirmação em tempos tão atribulados. Se nos permitirmos refletir sobre a profundidade contida nesta singela observação, talvez ela não se revele de todo desprovida de valor. É com essa modesta convicção que me ponho a escrever.
-
-Jamais, em um único dia desde o alvorecer da criação, ouviu-se dizer que o Sol ou a Lua tenham surgido no poente. A luz de ambos os astros, portanto, propaga-se do Oriente para o Ocidente, o que constitui, em termos mais eruditos, uma lei do Grande Universo. Se extrapolarmos este princípio, torna-se evidente que uma religião portadora da verdadeira Luz deve, por desígnio cósmico, emergir no Oriente e expandir-se para iluminar o Ocidente.
-
-Todavia, até o presente momento, o que tem prevalecido são ensinamentos e formas de salvação que operam no sentido inverso, contrário a essa lei, tentando iluminar o Oriente a partir do Ocidente. Precisamente por essa razão, a humanidade, por mais que tenha professado sua fé e manifestado sua gratidão, jamais alcançou a felicidade e a paz verdadeiras. O mundo chegou a um impasse, a uma situação praticamente insolúvel.
-
-Foi então que, no momento em que tudo parecia perdido, a tão aguardada Luz do Oriente manifestou-se na nação oriental do Japão, em sua capital cujo próprio nome significa “Capital do Leste”. No seio da grande Tóquio, no primeiro dia deste ano, bradou seu primeiro choro a Kannon Kai (観音会), a fonte da Luz Oriental. Esta é a primeira e, ao mesmo tempo, a derradeira religião nascida no Oriente; este é o único e verdadeiro Ensinamento da Salvação.
-
-De agora em diante, em perfeita sintonia com o Sol e a Lua celestiais, esta Luz se propagará do Oriente para o Ocidente. Iluminará e salvará não apenas o Japão, mas também a China, a Índia e os confins do universo. E que não se pense que estas palavras são uma mera bravata. Esta é a sublime e irrepetível Obra Divina da Salvação Mundial, que unificará todas as religiões. Pois é o próprio Salvador dos três mil mundos, Kannon (観音), que, utilizando-se dos meus dedos e de minha pena, faz registrar o que aqui se revela.
-
----
-
-# Esclarecimentos sobre Críticas e Detratações
-
-**Categoria:** to | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
-**Título Original:** 投書に就て | **Status:** Published
-
-## Esclarecimentos sobre Críticas e Detratações
-
-Temos recebido um grande volume de correspondências sobre nossa Igreja, contendo tanto louvores quanto censuras, as quais são endereçadas não apenas a nós, mas também aos grandes jornais. Recentemente, um repórter de um importante periódico nos procurou, trazendo consigo uma seleção do que considerava as cartas mais representativas. Solicitou-me que respondesse, ponto por ponto, às alegações ali contidas.
-
-Ao examiná-las, contudo, percebi que eram anônimas. Recusei-me, afirmando que não via sentido em responder a acusações irresponsáveis e desprovidas de autoria. O jornalista insistiu, dizendo que minhas palavras serviriam ao menos como referência. Cedi e ouvi o conteúdo de cada uma, mas o que se seguiu foi uma sucessão de tamanha insensatez que beirava o ridículo, tornando qualquer réplica impossível. Fiquei estarrecido ao constatar que, neste mundo de tantas ocupações, ainda existam pessoas tão desocupadas. O fato de mobilizarem um jornalista de um grande jornal, fazendo-o viajar até Atami e desperdiçar seu tempo, constitui, por si só, um ato verdadeiramente pernicioso.
-
-Ao ponderarmos sobre tais ocorrências, compreendemos que esses indivíduos ociosos não se limitam a enviar suas cartas aos jornais; certamente, também as dirigem às autoridades responsáveis pela fiscalização das atividades religiosas. Quanto às suas reais intenções, fica evidente que estas ações partem de grupos cujos interesses foram contrariados pelo avanço de nossa Obra, sendo motivadas pela inveja, pelo despeito e por desígnios conspiratórios.
-
-Ademais, há vários meses, um conluio de chantagistas, operando em larga escala, tem se voltado contra nossa Igreja. Empregando toda sorte de ardis, chegaram a mobilizar personalidades de certo renome e a despender vultosas somas em suas campanhas. Contudo, como nossa Igreja se mantém firme em não lhes dar qualquer atenção, seus esforços têm sido vãos. Ainda assim, parecem não ter desistido e, conforme nos informam diversas fontes, persistem em suas táticas de assédio por meio de correspondências e outros métodos. Se nos perguntarmos por que esses fariseus modernos nos hostilizam e tentam obstruir nosso caminho, a resposta reside unicamente no crescimento exponencial e sem precedentes de nossa Igreja. Sob certo aspecto, é uma consequência quase inevitável.
-
-Isso ocorre, em especial, porque a mentalidade insular ainda aflige muitos japoneses. Desde os homens de espírito mesquinho até políticos, membros da elite e jornalistas, são numerosos os que carecem de senso de justiça e se deixam facilmente dominar por interesses próprios e por suas emoções. Indivíduos de caráter verdadeiramente elevado, cuja integridade lhes permite não se envergonhar perante o Céu e a Terra, são tão raros quanto as estrelas da alva. Diante desse quadro, sinto profundamente que a reconstrução do Japão não será uma tarefa fácil.
-
-Nossa Igreja, por ser defensora intransigente da justiça, não pode ceder um passo sequer, independentemente da magnitude das manobras obstrutivas perpetradas por aqueles que agem de má-fé. Desejo que saibam que, mesmo se tratando de um grande jornal, enquanto este insistir em propagar a inverdade, nós o combateremos com determinação e não deporemos as armas até que seu erro seja reconhecido.
-
-Se a missão precípua da religião é promover o bem, coibir o mal e edificar uma sociedade radiante e pacífica, torna-se evidente que o bem deve, impreterivelmente, triunfar sobre o mal. Os princípios que norteiam nossa Igreja estão claramente expressos em todas as nossas publicações. Portanto, antes de tecerem críticas, seria de bom-senso que lessem nossos escritos com atenção e, persistindo alguma dúvida, nos procurassem para o devido esclarecimento. Digo isso porque a vasta maioria daqueles que nos procuram para expressar suas objeções jamais teve contato com qualquer uma de nossas obras.
-
----
-
-# A Apreciação da Arte Cerâmica
-
-**Categoria:** to | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 陶器 ･日本美術とその将来（4） 自観叢書第5編 | **Status:** Published
-
-## A Apreciação da Arte Cerâmica
-
-Desejo agora discorrer sobre a arte da cerâmica. Em seus primórdios, a cerâmica japonesa, à semelhança da pintura, desenvolveu-se sob a influência da China, sendo suas primeiras obras predominantemente emulações dos modelos chineses. Exemplos notáveis desse período inicial incluem as cerâmicas *Ki-Seto*, *Ao-Oribe*, *Seiji*, *Some-tsuke*, *Arita* e *Hirado*. A transição para uma cerâmica de cunho verdadeiramente artístico foi iniciada por Kakiemon. Subsequentemente, surgiu em Kyoto o mestre de talento raro, Ninsei (仁清), seguido pelo desenvolvimento da cerâmica de Kutani. Paralelamente, em Kyoto, floresceram as peças esmaltadas de Awata e Kiyomizu. O estilo de Ninsei, por sua vez, difundiu-se até Ise, dando origem à cerâmica *Banko aka-e*, e mais tarde, à produção do suntuoso estilo brocado da cerâmica de Satsuma.
-
-Há aproximadamente quatrocentos anos, durante o período Muromachi, nasceram na região de Owari e Seto as peças conhecidas como *Ko-Seto*. Contudo, remontando a um passado ainda mais distante, há cerca de mil e duzentos anos, na era Nara, já se produzia uma cerâmica de estilo celadon que utilizava um vidrado de cinza natural. A produção de celadon propriamente japonês iniciou-se em meados do período Edo, todavia, jamais alcançou a maestria das peças chinesas.
-
-Kakiemon, mestre notável da era Keicho, merece especial menção. Sua contribuição foi inestimável, pois introduziu novos paradigmas com as peças esmaltadas e o estilo brocado, tornando-se um verdadeiro benfeitor para a arte da cerâmica. Posteriormente, na era Genroku, o sexto Kakiemon notabilizou-se pela produção de peças de qualidade superior, utilizando o vidrado *Shibuemon*.
-
-Dentre todas, aprecio de modo particular a cerâmica de Okawachi, da província de Hizen, também conhecida como *Nabeshima-yaki*. Sua produção teve início na era Kyoho. Composta majoritariamente por pratos, suas peças são cobiçadíssimas, aliando um design excepcional à maestria técnica do esmalte colorido e do azul-e-branco (*some-tsuke*). Ademais, o estilo brocado da cerâmica popularmente chamada de *Imari-yaki* possui um encanto inegável. A cerâmica de Satsuma, com seu primor técnico e seus esmaltes coloridos de beleza resplandecente, também é digna de admiração. Contudo, é imperativo observar que, para estes três estilos, as obras modernas carecem do brilho de outrora, tanto no design quanto na técnica. Pode-se afirmar, sem hesitação, que o verdadeiro valor reside nas peças com mais de duzentos anos.
-
-Em contrapartida, a cerâmica de Kutani em estilo brocado, surgida há cento e cinquenta anos, apresenta exemplares notáveis. Destacam-se, em especial, as peças de *Ao-Kutani* (Kutani verde) e as esmaltadas do ateliê Yoshidaya.
-
-Por fim, devo reservar um lugar de destaque ao mestre Ninsei, o patriarca da cerâmica de Kyoto (*Kyo-yaki*). Seu nome verdadeiro era Seibei [Seiemon], da vila de Ninna-ji, e pode ser considerado, sem exagero, o maior ceramista da história do Japão. A genialidade de sua obra manifesta-se na infinita variedade de formas e padrões, um estilo que parece emanar de um dom celestial (*tenpin* 天稟). Suas criações distinguem-se por uma elegância e uma beleza sublimes, que as elevam muito acima das demais. Muitas de suas peças, especialmente tigelas para *matcha* e jarros, são dignas da classificação de Tesouro Nacional. Ele é, para o mundo da cerâmica, o que Korin representa para o da pintura. A sua grandeza reside em um feito notável: enquanto a cerâmica japonesa se baseava, em grande parte, em modelos chineses, Ninsei rompeu com essa tradição, criando um estilo puramente japonês. Nesse sentido, a cerâmica de Nabeshima partilha da mesma originalidade, e ambas frequentemente superam em qualidade as suas congêneres chinesas. Quanto a Kenzan, irmão de Korin, embora algumas de suas obras possam parecer rústicas, outras transbordam de um charme particular. Existem, inclusive, peças criadas em colaboração com seu ilustre irmão.
-
-A cerâmica de Bizen também nos presenteia com peças de grande valor, principalmente vasos para arranjos florais e objetos decorativos. As variedades *Ko-Bizen* (Bizen antigo) e *Ao-Bizen* (Bizen azul) contêm muitas obras-primas e são dignas de recomendação. *Shonzui* (祥瑞) é outro estilo que aprecio profundamente. Existem inúmeras outras variedades de cerâmica de Kyoto, mas entre os mestres de renome, talvez apenas o primeiro Mokubei (木米) mereça menção especial.
-
-Ao discorrer sobre cerâmica, é inevitável abordar os utensílios para a cerimônia do chá. O principal deles é, sem dúvida, a tigela. As peças de origem coreana são as mais reverenciadas, e, dentre elas, as do tipo *Ido* ocupam o pináculo. As tigelas conhecidas como *Kizaemon*, *Kaga* e *Hon'ami* são exemplares famosos. É assombroso pensar que, ainda hoje, seus valores alcançam centenas de moedas de ouro. Adicionalmente, estilos como *Totoya*, *Kaki-no-heta*, *Kohiki* e *Soba* também são tesouros da cerâmica coreana. Quanto às peças puramente japonesas, destacam-se *Ko-Seto*, *Shino*, *Karatsu*, *Chojiro*, *Nonko*, *Koetsu*, *Ninsei*, *Oribe*, *Hagi*, *Shigaraki* e *Iga*. Chojiro merece menção especial como o fundador da cerâmica *Raku*, um mestre que gozava do apreço de Sen no Rikyu e cuja linhagem perdura por treze gerações até os dias de hoje.
-
-Passando brevemente aos tempos mais recentes, parece que do período Meiji até o presente, ainda não surgiu um mestre ceramista digno de nota excepcional. Os principais artífices desse período seriam o primeiro Miyagawa Kozan, Kiyomizu Rokubei, Itaya Hazan e Tomimoto Kenkichi.
-
-No que tange à cerâmica chinesa, o celadon ocupa um lugar de primazia, com três variedades principais: *Kinuta*, *Tenryuji* e *Shichikan*. Outros estilos notáveis incluem *Kochi* (交趾), as peças esmaltadas de Wanli e o azul-e-branco de *Gosu*. Da produção coreana, a cerâmica branca de Goryeo (*haku-korai*) é talvez a mais célebre.
-
----
-
-# Um Panorama da Arte Oriental
-
-**Categoria:** to | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Eikou
-**Título Original:** 東洋美術雑観 （１） | **Status:** Published
-
-## Um Panorama da Arte Oriental
-
-Até o presente momento, a crítica de arte tem sido um domínio quase exclusivo dos eruditos. Suas análises são, sem dúvida, investigativas e aprofundadas; contudo, frequentemente abordam pontos que, a meu ver, são desnecessários ao público geral. Por essa razão, confesso que, muitas vezes, não consigo prosseguir com a leitura até o fim.
-
-Escrevi, portanto, com a intenção de oferecer um texto que seja ao mesmo tempo interessante e capaz de proporcionar uma base para a apreciação artística. Sentir-me-ei afortunado se ele servir de referência àqueles que desejam iniciar seus estudos no campo da arte.
-
-Começarei por descrever a situação atual no Japão e no exterior. No que tange aos países estrangeiros, aqueles que hoje possuem museus dignos de nota são, essencialmente, os Estados Unidos e a Inglaterra. Assim, descreverei o panorama nessas duas nações. Ambas convergem no fato de darem grande ênfase à arte oriental, que, em sua maior parte, consiste na arte chinesa, com destaque para cerâmicas, seguidas por bronzes e pinturas modernas.
-
-Na Inglaterra, os dois colecionadores de renome mundial são os senhores Eumorfopoulos e David. A coleção do Sr. Eumorfopoulos há muito adorna o Museu Britânico e seu acervo era bastante vasto. Lamentavelmente, talvez por questões econômicas após a Primeira Guerra Mundial, ele se desfez de uma parte considerável de suas peças. A maioria, naturalmente, foi para os Estados Unidos, mas, curiosamente, um pequeno número de obras veio para o Japão e permanece até hoje em posse de um certo colecionador. Embora reduzida, a coleção remanescente ainda é substancial.
-
-Quanto ao Sr. David, parece que seu museu ainda não foi inaugurado. Enquanto a coleção do Sr. Eumorfopoulos é rica em peças antigas, das dinastias Tang e Song, a do Sr. David se concentra em obras mais recentes, a partir da dinastia Ming. O acervo do Sr. Eumorfopoulos também inclui notáveis bronzes dos períodos Zhou, Han e Song, além de um grande número de pinturas, embora as dos períodos Song e Yuan sejam raras, sendo a maioria posterior, das eras Kangxi e Qianlong. Já o Sr. David parece não possuir muitos bronzes ou pinturas, visto que não constam em seus catálogos. Contudo, há na Inglaterra colecionadores particulares com acervos significativos. Entre eles, achei curioso o caso de uma senhora que aprecia e possui algumas obras de Nonomura Ninsei. De todo modo, é fato que a arte japonesa é escassa na Inglaterra.
-
-Em contrapartida, os Estados Unidos, como seria de se esperar de uma nação abastada, possuem numerosos e esplêndidos museus, com coleções ricas e variadas. Há instituições de maior ou menor porte em cidades como Washington, Boston, Nova Iorque, São Francisco e Los Angeles. Dentre elas, destaca-se um museu particular, pequeno porém mundialmente famoso: a Freer Gallery, cujos magníficos bronzes já pude apreciar por meio de catálogos.
-
-Todavia, a instituição mais relevante para a arte japonesa nos Estados Unidos é, sem dúvida, o Museu de Belas-Artes de Boston. Durante a Era Meiji, o mestre Okakura Tenshin atuou como conselheiro do museu e reuniu um acervo considerável de boas obras. Posteriormente, o Sr. Tomita Kojiro adquiriu outras peças de excelência, o que nos permite inferir a qualidade da coleção. Há alguns anos, tive a oportunidade de ver fotografias de biombos do Museu de Washington. Havia muitas obras atribuídas a Korin e Sotatsu, mas fiquei absolutamente perplexo ao constatar que todas, sem exceção, eram falsificações tão evidentes que se podiam identificar até mesmo por fotografia.
-
-Por essa razão, a quantidade de obras de arte japonesa antiga no exterior é menor do que se imagina. A única exceção são as xilogravuras, que não apenas são mais numerosas, mas também, em muitos casos, de qualidade superior às encontradas no Japão. O Museu de Boston, em particular, é famoso por sua coleção de gravuras. França e Alemanha também possuem alguns exemplares, sendo que a Alemanha é conhecida por abrigar muitas obras de Sharaku.
-
-Quanto ao motivo pelo qual tantas xilogravuras se encontram no exterior, tenho a seguinte opinião: quando os estrangeiros vieram ao Japão a partir da Era Meiji, as gravuras foram as primeiras obras que lhes chamaram a atenção. Como eram baratas e acessíveis, eles as levaram como recordação, o que lhes conferiu o prestígio de que desfrutam hoje. Eu, particularmente, nunca tive grande apreço por xilogravuras e, desde cedo, dediquei-me a colecionar apenas pinturas originais, o que me permitiu adquirir excelentes obras a preços relativamente baixos. Isso ocorreu porque os japoneses, sempre inclinados a imitar, passaram a valorizar as xilogravuras em detrimento das pinturas originais. Além disso, na época da chegada dos estrangeiros, os japoneses guardavam zelosamente suas pinturas, mantendo-as longe dos olhos de forasteiros, o que, para mim, representou uma feliz coincidência.
-
-Passemos agora à arte que considero a mais singular do nosso país: o Maki-e (蒔絵). Assim como as pinturas ukiyo-e, essa técnica não teve grande exposição aos estrangeiros, razão pela qual raramente se encontra no exterior. Explicarei brevemente do que se trata. A técnica do Maki-e certamente foi desenvolvida a partir de inspiração na arte chinesa do byōkin (描金), mas já no período Nara se produziam no Japão peças de notável qualidade. A caixa de sutras do período Tenpyo que sobrevive até hoje, por exemplo, é um esplêndido exemplar de togidashi maki-e, o que é verdadeiramente assombroso. A partir do período Heian, a técnica evoluiu progressivamente, atingindo um patamar de excelência no período Kamakura. Muitas obras-primas daquela época ainda existem para o nosso deleite.
-
-Com a transição do período Momoyama para o Tokugawa, a técnica alcançou um aprimoramento ainda maior. Como o Maki-e era ideal para os utensílios dos senhores feudais, cada clã competia para encomendar as melhores peças. As obras de taka maki-e, com seu brilho dourado e suntuoso, foram quase todas produzidas durante o apogeu do período Tokugawa. As peças principais incluem estantes, caixas para papéis e apetrechos de escrita, escrivaninhas, caixas de mão e utensílios para a cerimônia do incenso.
-
----
-
-# Um Panorama da Arte Chinesa
-
-**Categoria:** to | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
-**Título Original:** 東洋美術雑観 （４） | **Status:** Published
-
-## Um Panorama da Arte Chinesa
-
-Concluindo nossa breve análise da arte japonesa, voltemo-nos agora à arte chinesa. No universo da arte chinesa, as cerâmicas indubitavelmente ocupam o lugar de maior destaque, seguidas pelas peças de bronze e, por fim, pela pintura. Trataremos, portanto, principalmente das cerâmicas. Aparentemente, a cerâmica é a mais antiga das expressões artísticas da China, com peças de notável qualidade sendo produzidas há quatro mil anos.
-
-Dentre os exemplares remanescentes desse período, destaca-se a cerâmica conhecida como Andersson, assim denominada por ter sido descoberta pelo acadêmico de mesmo nome. Felizmente, adquiri uma grande urna dessa cerâmica, que se encontra em exposição em nosso museu para apreciação. É quase inacreditável que uma obra de tal qualidade pudesse ter sido criada em uma época tão remota.
-
-O verdadeiro desenvolvimento da cerâmica chinesa, no entanto, floresceu a partir do período das Seis Dinastias, estendendo-se até a dinastia Tang. Foi especialmente na dinastia Tang que surgiram peças coloridas de excelência, como as famosas cerâmicas Tang Sancai, que se distinguem pela forma, pela técnica e pela harmoniosa combinação de cores, resultando em obras magníficas. Além delas, há também as peças de esmalte verde, de um tom verde-azulado, igualmente encantadoras. Em nosso acervo, possuímos um incensório cilíndrico de faixas, representativo desse estilo.
-
-Posteriormente, surgiram as cerâmicas do forno de Yue (越州窯). Caracterizadas por um tom cinza-claro com nuances acastanhadas, elas possuem grande volume e uma técnica relativamente apurada. Uma grande urna com bico em forma de cabeça de galo (鶏頭壷), pertencente à fase inicial desse estilo, está exposta na entrada da quinta galeria de nosso museu e é considerada, em todos os seus aspectos, uma obra-prima sem igual no mundo.
-
-Em seguida, desenvolveu-se a produção do forno de Ru (汝窯), que apresenta uma cor de ferrugem com matizes azulados e uma refinada técnica de entalhe em baixo-relevo. Um vaso em formato de garrafa para arranjos florais, exposto em nosso museu, é tido como uma obra representativa desse estilo.
-
-A evolução da cerâmica de Ru deu origem ao celadon. Quando se fala em cerâmica chinesa, o celadon é, sem dúvida, um dos primeiros gêneros que vêm à mente. As peças do final do período inicial são verdadeiramente espantosas, tanto pela cor quanto pela técnica. Causa-me profunda admiração o fato de que, há oitocentos ou novecentos anos, tenha sido possível criar uma arte aplicada de tamanha envergadura; é algo que se afigura como um verdadeiro enigma.
-
-Todavia, a variedade de tipos de celadon é tão vasta que se acredita que provavelmente ninguém seja capaz de distingui-los com total precisão. Certa vez, solicitei a avaliação de estudiosos e especialistas na área, mas as opiniões foram tão divergentes que se mostrou impossível chegar a um veredito, o que demonstra a complexidade do assunto. De modo geral, os principais tipos são os dos fornos de Xiuneisi (修内司窯), Jiaotan (郊壇窯), Kinuta (砧), Tianlongsi (天竜寺), Shichikan (七官) e Longquan (竜泉窯), sendo os de Xiuneisi, Jiaotan e Kinuta considerados os de mais alto nível. Quando a classificação é difícil, as peças costumam ser designadas como celadon imperial. Nosso museu possui vários exemplares de primeira linha, dentre os quais o grande incensório de saia plissada em celadon Kinuta é, na opinião de muitos, a melhor peça do gênero no mundo.
-
-Deixando o celadon de lado, passemos à cerâmica do forno de Jun, da dinastia Song (宋均窯). Embora raras no Japão, muitas das peças existentes são relíquias de família, de grande beleza e com um encanto distinto do celadon. A coleção do Sr. Hobbies, no Museu Britânico, parece ser superior tanto em quantidade quanto em qualidade. Contudo, a grande travessa que possuímos em nosso acervo é considerada uma obra-prima sem paralelos no mundo.
-
-Outra produção de excelência da dinastia Song é a do forno de Ding (定窯). Existem as variedades branca e preta, sendo a última extremamente rara. A cerâmica Ding branca consiste majoritariamente em pratos e travessas; peças tridimensionais são muito escassas. A garrafa exposta na terceira seção de nosso museu, no entanto, pode ser considerada de classe mundial. Na mesma seção, há também um jarro para água que é uma raridade, havendo apenas dois ou três exemplares no Japão.
-
-Ainda entre as obras-primas da dinastia Song, temos a cerâmica de Julu (鉅鹿), também conhecida como Cizhou com decoração esgrafiada. Igualmente rara, é no Japão que se encontram os melhores exemplares do mundo: a famosa grande urna com dragões do Museu de Arte Hakutsuru e a grande urna com flores da coleção de Moritatsu Hosokawa. Em nosso museu, temos uma urna com decoração de borboletas e peônias. Nessa mesma época, produziu-se uma porcelana semelhante ao celadon chamada Yingqing (陰青), ou celadon azul-claro, que também é notável. A travessa média com lótus entalhados, em nosso acervo, é tida como a melhor de seu tipo no Japão.
-
-O que descrevi até aqui abrange, em linhas gerais, a produção centrada na dinastia Song e que se estendeu até a dinastia Yuan. Com a chegada da dinastia Ming, a cerâmica deu um salto evolutivo repentino. Se o florescimento artístico das dinastias Song e Yuan corresponde, no Japão, ao período que vai de Heian a Kamakura, a produção da dinastia Ming pode ser comparada àquela que vai de Ashikaga a Momoyama. A cerâmica Ming distancia-se radicalmente do estilo de Song e Yuan. Se estas últimas se caracterizam por uma nobre e elegante simplicidade, a produção Ming envereda por um caminho de suntuosidade, exuberância e apelo popular. Enquanto o estilo Song privilegiava formas e entalhes em peças monocromáticas, como o celadon, o Jun, o Ru e o Ding, o estilo Ming, além de aprimorar as formas, dedicou-se quase inteiramente à decoração pintada, como o azul-e-branco e os esmaltes policromos, dando origem a uma sucessão de obras de uma beleza deslumbrante. Exemplos notáveis são as cerâmicas Kinrande (金襴手), Gosu-akae (呉須赤絵), e as de esmalte vermelho dos períodos Xuande e Wanli, todas altamente valorizadas. Dentre elas, a Kinrande do período Jiajing é considerada suprema. O vaso em formato de cabaça e o pequeno vaso quadrado para servir saquê, ambos em nosso museu, são exemplares de rara excelência.
-
-Ainda que tenham surgido boas peças nos períodos posteriores, como Tianqi, Kangxi, Yongzheng e Qianlong, a opinião unânime é que, em comparação com as obras anteriores à dinastia Ming, elas se prendem em demasia ao virtuosismo técnico, transmitindo uma sensação de superficialidade e carecendo de um encanto mais profundo.
-
-Além da cerâmica, a arte chinesa que goza de prestígio mundial é, sem dúvida, a dos bronzes. Trata-se de obras das dinastias Yin (殷), Shang (商) e Zhou (周), produzidas há cerca de três mil anos, cuja excelência técnica é um verdadeiro milagre. É simplesmente inconcebível que peças tão magníficas pudessem ser criadas em tempos tão antigos. O mais surpreendente, contudo, é que, com o passar das eras — Qin, Han, Sui, Tang, Song —, a qualidade técnica decaiu progressivamente. A arte, nesse campo, parece ter seguido um caminho inverso ao do avanço cultural, um paradoxo sobre o qual todos os especialistas concordam. As principais coleções de bronzes chineses encontram-se em museus nos Estados Unidos e na Inglaterra. No Japão, os acervos mais importantes são os do Museu de Arte Hakutsuru, do Museu de Arte Sumitomo e do Museu Nezu.
-
-Finalmente, abordemos a pintura. Assim como na cerâmica, as melhores obras da pintura chinesa surgiram durante as dinastias Song e Yuan. A produção desse período é tão extraordinária que se destaca de forma absoluta das demais épocas. Na pintura a tinta, artistas como Mokkei (牧谿), Ryokai, Ganki e Baen são especialmente notáveis. Obras-primas de Mokkei, Ryokai e Baen encontram-se em nosso museu e certamente já foram apreciadas. A maestria desses artistas beira o divino, e a força vigorosa de suas pinceladas é algo que os pintores japoneses jamais conseguiram igualar. Na pintura colorida, o maior mestre do mundo é, sem dúvida, o Imperador Huizong (徽宗). Qian Shunju também é considerado um grande artista. A obra-prima de Huizong no Japão é, provavelmente, o quadro "Pêssego e Pomba", que pertenceu ao Marquês Inoue. A pintura "Rei Huan Ye", de Qian Shunju, no Museu de Arte Ohara, é também uma obra de grande renome.
-
-Um fato interessante é que muitos mestres dessa época dedicaram a vida inteira a pintar um único tema. Dentre os mais famosos, temos Nikkan (日観) com suas uvas, Indara (因陀羅) com suas figuras budistas, Li Anzhong com suas codornas, Fan Anren com seus peixes, Xu Xi com suas garças e Tan Zhirui com seus bambus.
-
----
-
-# O Legado de Ogata Korin na Arte Universal
-
-**Categoria:** to | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
-**Título Original:** 東洋美術雑観 （２） | **Status:** Published
-
-## O Legado de Ogata Korin na Arte Universal
-
-À parte das correntes artísticas de sua época, no período Momoyama, emergiu um artista de raro gênio, o célebre artesão Hon'ami (本阿弥) Koetsu. Seu talento para o belo manifestava-se em uma originalidade sem limites, que se estendia com maestria à laca decorada (makie), à cerâmica Raku, à caligrafia e, embora em menor número, também à pintura. Seus desenhos e a escolha de seus temas, de um frescor inovador, causaram, como era de se esperar, a admiração de seus contemporâneos. Foi sob a influência de Koetsu que nasceu seu sucessor espiritual, Tawaraya Sotatsu. Este notável artista rompeu de maneira esplêndida com as tradições das diversas escolas até então vigentes, criando a magnífica arte pictórica que hoje conhecemos. Sotatsu é, portanto, um imenso benfeitor para a pintura japonesa. Mais de um século transcorreria até o advento de Ogata Korin. Este, por sua vez, devotou-se ao estilo de Sotatsu, elevando-o a um patamar de perfeição ainda maior, sendo, por assim dizer, a mãe que gerou a arte de Korin.
-
-Neste ponto, é imperativo fazer uma breve digressão sobre Korin. A gênese de movimentos artísticos modernos, ruidosamente associados a nomes como Matisse e Picasso, encontra sua verdadeira origem em Korin. A sua consagração mundial ocorreu, creio eu, em meados do século XIX, quando um pintor francês o descobriu. Ao deparar-se pela primeira vez com uma obra de Korin, este artista ficou atônito, de olhos arregalados em assombro. Naquele tempo, o estilo de beleza renascentista, que perdurara por séculos na Europa, havia atingido um nível extremo de desenvolvimento, levando a pintura ao apogeu do realismo e, consequentemente, a um impasse intransponível. Pode-se aquilatar a situação pelo fato de que muitos chegavam a dizer que seria preferível simplesmente colorir fotografias.
-
-Foi nesse cenário que a arte de Korin surgiu como um trovão em céu sereno. A sua técnica, em oposição diametral ao método minucioso e detalhista de então, propunha uma ousada supressão do supérfluo, mas conseguia expressar a essência do objeto com uma força superior à do próprio realismo. Diante de tal esplendor, a comunidade artística francesa exultou como se presenciasse a chegada de um salvador. A consequência imediata foi uma reviravolta de cento e oitenta graus, da qual brotaram os movimentos impressionista e pós-impressionista. A partir desse marco, e através de inúmeras transformações, a pintura evoluiu até o estado em que a vemos hoje. O feito de Korin é, pois, de uma magnitude que as palavras não podem expressar. Naquela época, um livro aclamado no meio editorial francês, cujo autor já não me recordo, intitulava-se “Korin, o Homem que Moveu o Mundo”. De fato, décadas após sua morte, ele moveu o mundo inteiro. Por essa razão, eu o considero não apenas par, mas superior a um Shakespeare na Inglaterra, pois suas realizações deflagraram uma vasta revolução que transcendeu a pintura e alcançou todas as esferas da sociedade.
-
-O primeiro fruto dessa revolução foi o estilo Art Nouveau, que gradualmente transformou por completo o universo do design. Tratava-se da simplificação de toda a beleza. A arquitetura, em particular, sofreu uma mudança notável, cujo precursor foi o movimento da Secessão de Viena. Após diversas metamorfoses, este culminou no estilo de Le Corbusier, que hoje domina a arquitetura mundial. Assim, todas as formas de arquitetura, mobiliário, utensílios, vestuário e artes comerciais viram o estilo renascentista tornar-se uma memória de um sonho distante. O que relatei até aqui é apenas um breve resumo das realizações de Korin. Creio firmemente nisto: dentre os japoneses que moveram o mundo por meio da cultura, não há ninguém que se sobreponha a Korin. O que seria ele, senão o grande monumento universal erigido pelo Japão? O mesmo se aplica ao cenário atual da pintura japonesa. Foi também Korin quem, de um só golpe, revolucionou o estilo pictórico apegado às velhas convenções das escolas Kano, Shijo e Nanshu. A esse respeito, recordo-me de um episódio. Há pouco mais de trinta anos, tive a oportunidade de encontrar-me pessoalmente com o mestre Okakura Tenshin. Ele me revelou sua determinação com as seguintes palavras: “O propósito que me moveu a criar o Instituto de Belas-Artes foi, essencialmente, o de fazer reviver Korin em nossa era”. Isso demonstra que a pintura japonesa contemporânea tem em Korin seu alicerce, ao qual se agregaram elementos da pintura ocidental. Para não me estender demasiadamente, encerrarei aqui as considerações sobre Korin e passarei ao próximo tópico.
-
-Permitam-me, agora, traçar um breve panorama da história da pintura japonesa. Como é de conhecimento geral, ela originou-se na China. Segundo a historiografia da arte, o berço da pintura oriental localiza-se em um lugar chamado Dunhuang (敦煌), próximo ao Tibete. Há mais de mil anos, essa foi uma cidade de notável florescimento cultural. O senhor Otani Kozui (大谷光瑞) nutria grande apreço pela região, onde permaneceu por longo tempo, conduzindo extensas pesquisas e explorações, cujos registros tive a oportunidade de examinar. As inúmeras fotografias que acompanhavam esses relatos revelam uma sociedade com arquitetura e costumes bastante avançados para a época, que correspondia à dinastia Tang. A arte começou a progredir a partir do período das Cinco Dinastias, e foi na dinastia Song do Norte que a pintura oriental atingiu sua primeira forma consolidada, com o surgimento de sucessivos mestres e virtuosos. As célebres pinturas das dinastias Song e Yuan, hoje tão valorizadas, são obras desse período. Um fato notável é que a maioria dos pintores famosos daquele tempo era composta por monges zen. Os grandes mestres da pintura a nanquim, como Mokkei (牧谿) e Ryokai (梁楷), eram monges, e obras desses dois gigantes da arte podem ser apreciadas em nosso museu.
-
-Essa arte, nascida na China, começou a ser importada para o Japão a partir do período Ashikaga. Embora pareça ter havido uma pequena introdução durante o período Nara, foram os shoguns Ashikaga Yoshimitsu e Yoshimasa que verdadeiramente conheceram as obras-primas das dinastias Song e Yuan. Por conseguinte, a maioria das pinturas Song e Yuan existentes no Japão passou pelas mãos do clã Ashikaga. As peças de especial excelência são conhecidas como Higashiyama Gyomotsu (東山御物), facilmente identificáveis por um selo distintivo. O encarregado de administrar essas obras-primas era Soami (相阿弥). Geiami (芸阿弥) e Noami (能阿弥) também parecem ter estado envolvidos, e foi sob essa influência que nasceu a pintura a tinta da China do período Higashiyama.
-
-Entre os pintores que viajaram à China para estudar, encontram-se Keishoki (啓書記), Shubun (周文) e Dasoku (蛇足). Um pouco mais tardio parece ter sido Sesshu, que, segundo uma teoria, seria um estrangeiro naturalizado. Não há dúvida, contudo, de que esses homens foram os precursores da pintura japonesa. Portanto, não seria incorreto afirmar que o patriarca da Escola Kano foi, em essência, Sesshu.
-
----
-
-# A Governança pelo Caminho da Razão
-
-**Categoria:** to | **Ano:** 昭和26(1951)年2月7日 | **Fonte:** Eikou
-**Título Original:** 道治国 | **Status:** Published
-
-## A Governança pelo Caminho da Razão
-
-É fato notório que o nosso Japão é um Estado de Direito. Aliás, todas as nações do mundo que se intitulam civilizadas são, sem exceção, regidas por leis. Todavia, em verdade, este método de governança, fundamentado unicamente em uma constituição, está longe de ser o ideal.
-
-Os fatos, por si sós, comprovam-no de maneira eloquente. Observemos como a história demonstra a extrema dificuldade em erradicar o crime apenas pela força da lei. Evidentemente, como é impossível extirpar por completo o mal da natureza humana, tal insuficiência se revela, até certo ponto, inevitável.
-
-Diante dessas considerações, embora a verdadeira solução dependa, inegavelmente, da religião, esta, por si só, não produz resultados imediatos. Sendo assim, como alternativa, é primordial dar a conhecer o Caminho. Em essência, o Caminho é a própria razão e a lógica. Embora tal conceito remeta à antiga moralidade oriental, o que proponho agora é uma nova moralidade, de caráter mais progressista.
-
-A razão de abordarmos tal questão reside na severa decadência dos princípios morais da sociedade em tempos recentes. A delinquência juvenil e, naturalmente, o alarmante aumento dos mais diversos crimes são fenômenos que já ultrapassaram todos os limites do tolerável. Recentemente, até mesmo os intelectuais começaram a se dar conta do problema. Debates sobre restaurar a educação moral ou criar um substituto para o Édito Imperial sobre a Educação têm surgido, o que constitui um fenômeno alvissareiro, pois indica um despertar para esta realidade.
-
-A origem de tudo isso, como é sabido, remonta ao pós-guerra, quando a população em geral perdeu seu alicerce espiritual e viu-se desorientada quanto ao rumo a seguir, o que resultou na proliferação de indivíduos sem rumo que hoje presenciamos. Até o fim da guerra, as escolas baseavam-se na educação moral e no Édito Imperial, e ideais ancestrais como a lealdade e a devoção filial estavam enraizados nos corações. Por esse motivo, sob a perspectiva atual, é inegável que a sociedade de então era consideravelmente mais íntegra. Contudo, não podemos simplesmente restaurar essa antiga moralidade. Urge, portanto, forjar um novo espírito para esta nova era.
-
-A democracia foi, sem dúvida, uma dádiva concedida ao nosso povo no pós-guerra, e seu grande mérito foi nos libertar das amarras do pensamento feudal. Seus excessos, lamentavelmente, converteram-se no solo fértil para a desordem social que hoje vemos. Sendo assim, o mais necessário é rejeitar os aspectos nocivos das correntes de pensamento, tanto antigas quanto novas, e acolher somente suas virtudes, a fim de criar um novo conceito moral adequado aos tempos atuais – uma nova alma japonesa, à semelhança do código de honra dos cavalheiros britânicos.
-
-Este é o conceito fundamental do Caminho, mencionado anteriormente, e devemos promovê-lo com veemência tanto na educação quanto na sociedade. Se, por meio dele, conseguirmos reduzir, ainda que minimamente, os males sociais, teremos um grande motivo para nos alegrarmos. Explicando de forma simples, o Caminho, ou seja, a Razão, é o princípio que permeia todas as coisas; é, por assim dizer, a bússola absoluta para a conduta humana.
-
-Isto porque, ao seguir o Caminho do ser humano, a vida se torna isenta de calamidades e fracassos, e tudo transcorre de forma harmoniosa. A credibilidade se fortalece, conquista-se o respeito e o afeto dos semelhantes e, naturalmente, alcança-se uma existência de paz e plenitude. É evidente que, à medida que indivíduos e famílias com essa consciência se multiplicarem, sua influência contribuirá para a gradual diminuição dos males sociais.
-
-Nesse sentido, se continuarmos a confiar unicamente na lei, como fazemos hoje, aumentarão os chamados "espertos", que julgam que tudo é permitido, desde que não sejam apanhados pela lei, e os insolentes malfeitores agirão com total liberdade.
-
-Sempre afirmo que Deus, em outras palavras, é a própria Razão. Portanto, reverenciar a Deus é o mesmo que reverenciar a Razão. Logo, o ser humano que segue a Razão e por ela se deixa governar é o verdadeiro homem civilizado. Apresento, pois, este ensaio à reflexão dos intelectuais de nosso tempo.
-
----
-
-# A Arteriosclerose e a Hipertensão
-
-**Categoria:** to | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 動脈硬化及び高血圧症 | **Status:** Published
-
-## A Arteriosclerose e a Hipertensão
-
-As causas da arteriosclerose e da hipertensão, embora pareçam semelhantes, são de natureza distinta, razão pela qual as elucidarei separadamente.
-
-A arteriosclerose ocorre quando toxinas medicamentosas se solidificam próximo às artérias, comprimindo-as, ou quando o sangue impuro se estagna e forma nódulos em determinada parte de uma artéria. Neste último caso, os nódulos expandem-se gradualmente à medida que as toxinas se acumulam, dando origem ao que se conhece como aneurisma. A impureza do sangue provém tanto das toxinas medicamentosas quanto do consumo de carne. Por conseguinte, os pacientes que sofrem dessa condição podem alcançar a cura com surpreendente rapidez ao suspenderem o uso de medicamentos e adotarem uma dieta vegetariana.
-
-Passemos agora à hipertensão. Sua causa reside no enrijecimento da região submandibular, algo frequentemente observado em pessoas que se dedicam a ofícios que exigem grande precisão manual, como a caligrafia, o que se pode constatar facilmente por meio de uma análise. A medicina, contudo, postula que a hipertensão é um prenúncio de hemorragia cerebral. Trata-se de um equívoco. Embora possa haver alguma influência indireta, não existe uma relação causal direta, de modo que não há motivo para preocupação.
-
-Recordo-me de um caso que ilustra bem essa verdade. Certa vez, um senhor com pouco mais de sessenta anos procurou-me para um aconselhamento, relatando uma pressão arterial de trezentos. Há seis anos, um médico havia diagnosticado sua condição e o alertado dos riscos, mas, por não poder se afastar de suas atividades profissionais, ele prosseguiu trabalhando. Segundo ele, como não sentia qualquer anormalidade, mantivera sua rotina. Sua profissão era a de calígrafo. Assegurei-lhe de que não havia com que se preocupar e que poderia continuar tranquilamente com seu ofício.
-
----
-
-# A Concentração das Toxinas e a Ilusão da Terapêutica Moderna
-
-**Categoria:** to | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** 東京日々新聞
-**Título Original:** 毒素は頭脳に集中 ・法話（二） | **Status:** Published
-
-## A Concentração das Toxinas e a Ilusão da Terapêutica Moderna
-
-Os locais de acúmulo das toxinas medicinais restringem-se, invariavelmente, às áreas de maior atividade nervosa. Concentram-se, portanto, na parte superior do corpo, com foco primordial no cérebro e em órgãos como os olhos, os ouvidos, o nariz e a boca. É nessas regiões que as toxinas se adensam, solidificando-se ao redor do pescoço. Quando essa rigidez atinge um determinado grau, desencadeia-se o processo de purificação, ou seja, a expulsão natural. Nesse caso, a febre dissolve esses nódulos tóxicos, convertendo-os em estado líquido, que é então expelido através de tosse, expectoração, coriza, suor, diarreia e urina quente. É a essa condição que se dá o nome de resfriado comum.
-
-O resfriado, portanto, é uma etapa no processo de eliminação de toxinas. Embora possa causar algum desconforto, ao suportá-lo e confiar no curso natural, a expulsão ocorre de maneira harmoniosa, purificando o organismo e trazendo a cura. A ignorância sobre esse princípio levou a humanidade a interpretar negativamente o sofrimento purificador e, com base nessa premissa equivocada, a conceber a medicina. A partir disso, pode-se compreender quão profundamente equivocada é a terapêutica convencional.
-
-Ocorre que o processo de purificação manifesta-se com maior intensidade quanto mais vigorosa for a vitalidade do indivíduo. Para detê-lo, torna-se necessário enfraquecer essa mesma vitalidade, e é exatamente para esse fim que os medicamentos são empregados. Ademais, um remédio considerado eficaz nada mais é do que um veneno potencializado a um nível que não cause intoxicação aguda. Assim, na tentativa de dissolver e expelir toxinas com venenos medicinais, o resultado paradoxal foi solidificá-las ainda mais. Fica claro, portanto, o quão intoxicadas as pessoas de hoje se encontram e por que estão tão suscetíveis a doenças.
-
-Celebra-se, em tempos recentes, o aumento da expectativa de vida para mais de sessenta anos, mas tal contentamento é descabido. O ser humano, livre de enfermidades, pode viver com tranquilidade para além dos cem anos. Falecer antes dessa idade constitui uma morte antinatural, causada por doença. Uma vida sem padecimentos, ao contrário, culmina na morte natural, que pressupõe, por lógica, a longevidade. Em suma, a medicina não cura as doenças; não passa de um método para o alívio temporário do sofrimento. A acupuntura por moxabustão e as terapias termais diferem um pouco, mas também atuam apenas como um estímulo térmico momentâneo que atrai as toxinas para a área tratada. Proporcionam alívio, mas a condição original logo retorna, tornando-se, ao final, inócuas.
-
-Existe também o método de destruir o câncer com radioterapia, o que seria excelente se se limitasse a destruir apenas o tumor. Contudo, a radiação aniquila igualmente os tecidos saudáveis adjacentes, resultando em um saldo negativo. Isso demonstra que todas as terapias desenvolvidas até hoje são, fundamentalmente, métodos de solidificação, que jamais dissolvem e expelem as toxinas. A propósito, é comum ouvir dos próprios médicos que os pacientes que mais se esforçam pela cura, recorrendo a medicamentos caros, são os que menos melhoram. Em contrapartida, aqueles que adotam uma atitude de desapego em relação ao resultado costumam se recuperar mais facilmente. Um fato perfeitamente compreensível.
-
-Um antigo provérbio afirma que ninguém está isento de vaidade e de uma toxina latente. Essa toxina, popularmente chamada de congênita, corresponde ao que a medicina moderna denomina sífilis hereditária. Trata-se de um veneno medicinal antigo, que, em algum momento, precisa passar por um processo de expulsão. A esse fenômeno de purificação dá-se o nome de varíola. No passado, a descoberta da vacina por Jenner permitiu que a humanidade se livrasse da varíola, mas isso não significou que as toxinas da doença foram completamente eliminadas. A vacinação apenas enfraqueceu a força de expulsão, de modo que o veneno permaneceu latente no organismo. São essas toxinas remanescentes que se tornam a causa de inúmeras outras enfermidades.
-
-O processo ocorre da seguinte forma: com o passar do tempo, o veneno acumula-se e solidifica-se em alguma parte do corpo. A purificação desse acúmulo pode manifestar-se como um resfriado, diversas doenças de pele, uma forma de paralisia infantil ou meningite. O fato de a saúde das populações da Inglaterra e da França ter declinado após a introdução da vacina corrobora essa verdade. Para erradicar a varíola da humanidade, seria preciso lançar ao mar todos os medicamentos existentes. Mesmo uma medida tão drástica, contudo, não surtiria efeito imediato. A razão é que o ser humano foi saturado por venenos medicinais ao longo de séculos. Portanto, para uma purificação completa, será necessário um período de duas a três gerações.
-
----
-
-# O Princípio da Purificação e o Equívoco da Terapêutica Moderna
-
-**Categoria:** to | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 毒素療法 | **Status:** Published
-
-## O Princípio da Purificação e o Equívoco da Terapêutica Moderna
-
-Conforme já elucidei, a doença é um processo de purificação natural. Poder-se-ia, portanto, afirmar que o ser humano mantém a saúde precisamente por possuir essa capacidade purificadora chamada doença. Nesse sentido, a verdadeira terapêutica consiste em expelir a enfermidade para o exterior, e não em reprimi-la no interior do corpo.
-
-Tomemos como exemplo o surgimento de um furúnculo. A tentativa de dissipá-lo constitui um grave equívoco. O organismo, por meio de sua própria ação purificadora, empenha-se em expelir as impurezas internas (o pus), empurrando-as até a superfície da pele. Tentar forçá-las de volta ao seu ponto de origem significa que, caso esse objetivo seja alcançado, tais impurezas se imiscuirão nos órgãos internos, dando origem a outras moléstias. Conclui-se, pois, que o pus deve ser completamente expelido, até que não reste vestígio algum.
-
-A manifestação do processo purificador, que é a eliminação do pus, ocorre justamente porque o indivíduo possui maior saúde e uma força vital vigorosa. É essa força que busca expelir as substâncias impuras. A doença, com a dor que a acompanha, nada mais é do que o fenômeno resultante desse esforço. Portanto, quanto maior a dor, mais intensamente o corpo está sendo purificado. Nessas condições, o surgimento de complicações seria, em tese, impossível.
-
-Contudo, na prática, é comum que surjam enfermidades secundárias durante os tratamentos médicos, e, em casos extremos, múltiplas complicações se manifestam. Isso ocorre precisamente porque as impurezas que deveriam ser expelidas são reprimidas. Suponhamos, por exemplo, que uma doença se manifeste em determinada parte do corpo e se aplique o método de resfriamento com gelo para dissipá-la. O movimento que concentrava o pus naquele local é interrompido, fazendo com que o restante das toxinas mude de direção e se manifeste em outra região, sob a forma de uma nova doença.
-
-Um exemplo claro é a otite média: ao resfriá-la com gelo, o pus, que se liquefez pelo calor e se dirigia para o exterior através do ouvido, tem seu curso interrompido. Imediatamente, ele muda de rumo e avança em direção ao cerebelo, resultando em meningite. Um mal que se resolveria como uma simples otite, se não houvesse intervenção, acaba por gerar uma complicação gravíssima como a meningite por causa do tratamento. Os equívocos da medicina são, de fato, incomensuráveis.
-
-Por conseguinte, todos os métodos terapêuticos até hoje concebidos, ao tentarem curar uma doença, na realidade visam macular o sangue por meio de medicamentos e outras práticas. Isso ocorre porque, quanto mais impuro o sangue se torna, mais a força purificadora se enfraquece. A atenuação do processo de purificação leva, naturalmente, ao abrandamento dos sintomas da doença. Em outras palavras, a enfermidade recua temporariamente, o que cria a falsa impressão de cura.
-
-Práticas como ingerir sangue de animais, leite, víboras e serpentes, ou injetar substâncias medicamentosas na corrente sanguínea, todas concorrem para o mesmo fim: contaminar o sangue. É por esse meio que se faz a doença regredir, fenômeno erroneamente interpretado como melhora ou cura. Embora se apresente uma aparente recuperação, com o passar do tempo, o processo de purificação natural ressurge inevitavelmente. Dessa vez, porém, além da doença original, soma-se a necessidade de expelir o pus gerado pela terapêutica que impurificou o sangue. Como resultado, a enfermidade retorna com força redobrada, o que é uma consequência lógica.
-
-Assim, as terapêuticas empregadas até hoje não representam uma cura fundamental, mas sim um tratamento paliativo e inverso. O fato de a humanidade não ter percebido essa verdade fundamental pode ser qualificado como obscurantismo. Eis a verdadeira causa da abreviação da vida humana. A situação atual, em que quase a totalidade das pessoas se encontra enfraquecida por acúmulos de pus e sangue impuro, não tem outra origem. E o mais assustador é constatar que os japoneses da era moderna, alheios a essa realidade, buscam cada vez mais medicamentos e alimentos de origem animal.
-
-Permitam-me ilustrar com uma analogia: imaginemos que um país seja invadido por um exército inimigo. As forças de defesa, após rechaçá-lo, conseguem encurralá-lo próximo à fronteira, a um passo da vitória. Subitamente, porém, um novo inimigo surge e ataca pela retaguarda. Ameaçadas por esse novo flanco, as tropas que avançavam são forçadas a recuar. Nesse instante, o inimigo que estava acuado na fronteira dá meia-volta e avança novamente para o interior do país. O princípio é exatamente o mesmo.
-
-Diante disso, a verdadeira terapêutica consistiria em apoiar as próprias forças de defesa para que expulsem o inimigo do território nacional de uma vez por todas. Ao ponderarmos sobre essa lógica, torna-se evidente quão equivocados são os métodos de tratamento empregados até hoje. Sendo assim, os remédios considerados eficazes pela sociedade são, na verdade, aqueles com maior poder de turvar o sangue.
-
-A razão pela qual o Salvarsan, por exemplo, apresenta um efeito tão notável, ainda que temporário, reside no fato de ser produzido a partir do arsênico, um veneno terrível. Quando a sífilis se manifesta através de erupções cutâneas, em um processo de eliminação natural, a injeção de Salvarsan faz com que esses sintomas retrocedam rapidamente, pelo mesmo princípio já explicado. Sua eficácia é apenas temporária por essa exata razão. Em uma obra de um célebre mestre da antiga medicina chinesa, lê-se o seguinte: "O que de fato atua sobre a doença não é o remédio, mas o veneno. É por ser veneno que funciona". Isso se baseia, segundo ele, no princípio de "combater veneno com veneno". Suas palavras são a mais pura verdade e correspondem exatamente ao que denomino terapêutica por intoxicação.
-
-Dessa forma, os tratamentos equivocados praticados até hoje foram, gradualmente, contaminando o sangue dos seres humanos, minando sua saúde e, por fim, abreviando suas vidas. A cada vez que uma doença surgia, aplicava-se a terapêutica por intoxicação; quando a doença ressurgia, recorria-se novamente a ela, obtendo-se sempre um alívio passageiro. Em outras palavras, toda vez que o organismo tentava expelir as impurezas, essa tentativa era reprimida. Esse ciclo de supressão se repete até que, com o passar do tempo, sobrevém a inevitável e derradeira grande purificação natural, levando o indivíduo ao colapso. Nessa altura, a carga de venenos potencializados é tão avassaladora que o corpo físico não consegue suportar o processo.
-
-Ao compreender essa lógica, torna-se perfeitamente inteligível nossa afirmação de que o ser humano de hoje é uma massa de pus e sangue tóxico. A debilidade prolongada que se observa em doentes após o tratamento de enfermidades como a febre tifoide é consequência direta dessa terapêutica por intoxicação. Em contrapartida, quando a mesma doença é curada sem o uso de medicamentos, o paciente desfruta de uma saúde excelente no período de convalescença, precisamente por não ter sido submetido a tal método.
-
-Agora, ao irradiarmos a prodigiosa Onda de Luz da Nova Medicina Japonesa sobre as toxinas purulentas acumuladas no corpo humano, o processo de purificação se realiza de maneira completa. E ouso afirmar, com absoluta convicção, que não existe em todo o mundo, fora esta Onda de Luz, nenhum outro método capaz de purificar o sangue.
-
----
-
-# Reflexões sobre a Arte Oriental (3)
-
-**Categoria:** to | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
-**Título Original:** 東洋美術雑観 （３） | **Status:** Published
-
-## Reflexões sobre a Arte Oriental (3)
-
-Todavia, anteriormente a isso, durante o florescente período Heian, a sensibilidade poética dos poemas *waka* e a sua elegante caligrafia em *kana* inspiraram o surgimento do que conhecemos como a pintura *Yamato-e* (大和絵). Embora sua técnica derive, inequivocamente, da pintura colorida chinesa, foi nas mãos de grandes mestres como Fujiwara Nobuzane (藤原信実) que ela se consolidou. Para que se tenha uma ideia de sua excelência, basta imaginar que uma única de suas folhas de papel decorado alcança, hoje, valores superiores a um milhão de ienes. Paralelamente, surgiram também as caricaturas (*giga*, 戯画) de artistas como o monge Toba Sojo e Kakuhan (覚鑁), que podem ser consideradas o embrião da arte do mangá.
-
-A evolução da pintura *Yamato-e* prosseguiu do período Fujiwara ao Kamakura, manifestando-se predominantemente em rolos de pintura que narravam as origens e lendas de templos e divindades. Atualmente, os exemplares mais refinados dessa época são de uma raridade extrema, atingindo preços assombrosos. Há um conjunto de três rolos que anseio adquirir, cujo valor é de seis milhões de ienes – uma cifra que me obriga a apenas contemplá-lo à distância, com os dedos na boca. Diz-se que os rolos de pintura são especialmente apreciados pelos norte-americanos, que espreitam com avidez as obras-primas que surgem no mercado. O rolo do Sutra de Causa e Efeito do período Tenpyo (天平), que pertence ao nosso acervo, foi confeccionado há mil e duzentos anos. Apesar de ser uma das mais antigas pinturas do Japão, suas cores permanecem tão vívidas que a excelência dos pigmentos utilizados constitui, ainda hoje, um enigma.
-
-Da pintura *Yamato-e* derivou, posteriormente, a Escola Tosa (土佐派). Dentre seus expoentes, destacam-se Mitsuoki (光起) e Matabei (Katsumochi, 勝以). Na sequência, o surgimento de Hishikawa Moronobu (菱川師宜) marcou o início da arte *Ukiyo-e* (浮世絵). Depois dele, seguiram-se mestres de renome como Utamaro, Harunobu e Choshun, cuja trajetória até a era moderna é amplamente conhecida.
-
-No universo da pintura japonesa, as obras de temática budista são verdadeiramente admiráveis. Ainda que se tenham inspirado nas pinturas da dinastia Song da China, os artistas japoneses criaram um estilo próprio e singular, que ouso dizer ser até superior ao chinês. Embora nossa coleção seja modesta em número, procurei reunir obras de elevado valor estético. Elas se distinguem por uma beleza agradável ao olhar, pois estão isentas da decrepitude e das imperfeições que frequentemente acometem as pinturas budistas. Neste ponto, não posso deixar de mencionar alguns pintores do final do período Ashikaga: Kaihoku Yusho (海北友松), Hasegawa Tohaku e Kano Sanraku (狩野山楽). O biombo de Yusho que possuímos é considerado uma de suas obras-primas. A Escola Kano (狩野派), por sua vez, produziu inúmeros mestres, como Motonobu, Naonobu, Tsunenobu, Sesson (雪村) e Tan'yu (探幽). Contudo, com seu último grande nome, Gaho, a popularidade da escola arrefeceu, em contraste com o prestígio de outrora. A única causa para tal declínio reside, certamente, nas transformações de cada época.
-
-Deixando por ora a pintura, discorrerei brevemente sobre a caligrafia. A expressão máxima da caligrafia japonesa é, sem dúvida, a escrita em *kana*. Os mais exímios calígrafos floresceram no período Heian. Entre eles, figuram Ki no Tsurayuki (貫之), Ono no Michikaze (道風), Saigyo (西行), Fujiwara no Teika (定家), Fujiwara no Sukemasa (佐理), o Príncipe Munetaka (宗尊), Minamoto no Toshiyori (俊頼), Fujiwara no Yoshitsune, Minamoto no Shitagau (源順) e Fujiwara no Yukinari (行成). Entre as mulheres, destacaram-se Murasaki Shikibu e Kodai no Kimi (小大の君). Essas obras de caligrafia clássica (*kohitsu*, 古筆) possuem uma beleza sutil e singularmente japonesa, exalando uma nobreza que não admite paralelos. Passemos à caligrafia zen (*bokuseki*, 墨蹟). No Japão, a figura proeminente é Kobo Daishi, seguido pelo fundador do Templo Daitoku-ji, Daito Kokushi, e os monges de sua linhagem, como Ikkyu, Takuan, Seigan (清巌), Kogetsu (江月), Gyokushitsu e Kokei (古溪). Ademais, podemos citar o fundador do Templo Engaku-ji de Kamakura, Mugaku Zenshi, e, em outra vertente, Muso Kokushi. Dentre os modernos, Ryokan goza de grande popularidade, e como mestre calígrafo, mencionaria talvez Nukina Kaioku (貫名海屋).
-
-Encerrando o tema da caligrafia, volto-me agora para a cerâmica japonesa. Assim como a pintura, a cerâmica japonesa indubitavelmente tem suas raízes na China. A maior parte das peças, como as de esmalte vermelho, as decoradas em azul e branco e os celadons, reflete essa influência. As cerâmicas Kakiemon, Imari e Kutani são exemplos bem conhecidos. Contudo, as travessas de Nabeshima, tanto em seu design quanto em seu colorido, exibem um caráter genuinamente japonês. Outros estilos de traços singulares são as cerâmicas de Satsuma e Banko (万古). Em uma vertente distinta, inspirada pela cerâmica coreana, surgiu no período Kamakura a cerâmica de Owari. Consiste, em sua maioria, de tigelas de chá, que são profundamente valorizadas e apreciadas pelos mestres dessa arte. Consequentemente, seus preços são surpreendentemente elevados. Seus principais tipos são Ko-Seto, Ki-Seto, Shino, Karatsu e Oribe, que são conhecidos como "cerâmica de Owari" ou *sabimono* (錆物), "peças de estilo rústico". Além dessas, há também as rústicas cerâmicas de Bizen e Shigaraki, em geral utensílios para a cerimônia do chá, que possuem um encanto deveras cativante.
-
-No que tange às tigelas de chá, é impossível não mencionar as obras de Chojiro, o criador da cerâmica Raku (*raku-yaki*). Inspirando-se na cerâmica coreana, ele concebeu um estilo singularmente japonês, o Raku, e, por ser muito estimado por Sen no Rikyu, produziu inúmeras obras-primas. Seus sucessores mais célebres foram o terceiro mestre, Nonko (Donyu, 道入); o quarto, Ichinyu; e o quinto, Sonyu. Por essa razão, o nome de Chojiro permanecerá eternamente na história como um dos grandes mestres da cerâmica japonesa.
-
-Devo registrar aqui a existência de dois mestres ceramistas japoneses que em nada são inferiores aos grandes nomes da China: Ninsei (仁清) e Kenzan (乾山). Comecemos por Ninsei. Oriundo de Quioto e ativo no início do período Tokugawa, seu nome verdadeiro era Nonomura Seibei (清兵衛). Contudo, por residir na vila de Ninnaji (仁和寺), ficou conhecido por Ninsei, alcunha que o imortalizou. Seu mérito excepcional reside em sua originalidade. Enquanto a totalidade da cerâmica japonesa tomava como modelo os estilos chineses ou coreanos, Ninsei trilhou um caminho distinto. Seus desenhos, motivos, formas e cores expressam magnificamente a sensibilidade japonesa. Sua obra, de uma beleza e dignidade sublimes, alcança um patamar que nem mesmo a cerâmica chinesa consegue atingir, sendo um verdadeiro orgulho para o Japão. Sempre que a contemplo, vejo em Ninsei o equivalente a Korin no mundo da cerâmica.
-
-Passemos a Kenzan (乾山). Como é sabido, Kenzan era irmão mais novo de Korin e também um artista de múltiplos talentos. É notável que sua esplêndida habilidade na pintura se refletisse igualmente em sua arte cerâmica. Ele possui um estilo distinto do de Ninsei. Se Ninsei pode ser comparado a um nobre da corte, Kenzan seria como um homem do campo. Evidentemente, suas pinturas não possuem o mesmo refinamento técnico de Korin ou Sotatsu, mas detêm um charme rústico e ingênuo inefável. Sustento a opinião de que, graças a esses dois grandes mestres, a cerâmica japonesa pode se ombrear com a chinesa sem qualquer demérito.
-
-Gostaria ainda de tecer alguns comentários sobre a arte budista. Tanto a pintura quanto a escultura foram introduzidas no Japão a partir da China – a pintura, no período Tang, e a escultura, no das Seis Dinastias (六朝). Sua chegada remonta ao período Suiko, há cerca de mil e trezentos anos. Seria natural afirmar que a pintura e a escultura budistas se desenvolveram em uníssono, mas a palavra "desenvolvimento" suscita-me certas dúvidas, pois, paradoxalmente, as obras mais antigas são as mais excelsas. É verdade que o apogeu da técnica foi atingido por volta do período Kamakura. No entanto, tanto na pintura quanto na escultura, as obras do período Fujiwara são superiores, e as do período Nara, por sua vez, superam as de Fujiwara. É um completo mistério. As primeiras esculturas eram quase todas de bronze dourado ou de laca seca, evoluindo gradualmente para a talha em madeira. Obras como a Kannon (観音) de Kudara, do Templo Horyu-ji; a imagem principal do Buda Yakushi Nyorai, do Templo Yakushi-ji; e a Kannon de Onze Faces, do Templo Hokke-ji, são obras-primas de uma magnitude indescritível. Portanto, embora a pintura budista tenha seu valor, a escultura de imagens de Buda pode ser considerada do mais alto nível mundial. Ela constitui, de fato, um dos tesouros artísticos universais dos quais o Japão deve se orgulhar.
-
----
-
-# A Profecia da Luz do Oriente
-
-**Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 東方の光 | **Status:** Published
-
-## A Profecia da Luz do Oriente
-
-O budismo reverencia o conceito segundo o qual “este mundo é a Terra Pura da Luz Solitária”, valorizando enormemente essa dita “luz solitária”. Todavia, trata-se de um profundo equívoco. A razão é simples: uma luz solitária é, por definição, uma luz melancólica, que se refere ao brilho da lua. Este único fato já nos permite constatar que a era budista foi a Era da Noite. Portanto, a verdadeira descrição de um mundo iluminado seria “Terra Pura da Luz Solar” ou “Terra Pura da Luz Resplandecente”.
-
-Desde a antiguidade, costuma-se dizer: “Ao Leste, o Bodhisattva Kannon; ao Oeste, o Buda Amida”. Kannon (観音) se manifesta a partir da nação do Oriente, ou seja, do Japão. Existe, ademais, a expressão “Luz do Oriente”, uma profecia que igualmente anuncia a manifestação da luz a partir do Japão. A luz que surge do Leste é, inequivocamente, o Sol. Ao ponderarmos a articulação de todos esses pontos, compreende-se que é o destino inelutável de Kannon (観音) e da Luz do Oriente emergirem do Japão.
-
-Quando o grandioso Sol desponte, a lua perde seu brilho e as estrelas ocultam seu fulgor. Trata-se de um fenômeno astronômico perfeitamente natural. A partir desta analogia cósmica, torna-se possível discernir os acontecimentos vindouros.
-
-O Sutra do Lótus profetiza que “o mundo inteiro se converterá à Lei Mística”. O ideograma que representa o termo “místico”, na verdade, oculta em sua essência o ideograma para “luz”. A razão para tal segredo é que Kannon (観音) ainda não havia se manifestado. O verdadeiro significado dessa profecia, portanto, é que o mundo inteiro se converterá aos ensinamentos de Kannon (観音), a Divindade do Sol e da Lua. Trata-se, em suma, da predição de que, por meio dela, todas as religiões se unificarão em uma só.
-
-Nesse sentido, a publicação do primeiro número de nosso periódico, “Luz do Oriente”, ocorreu no auspicioso dia 23 de dezembro de 1934, data do primeiro aniversário de Sua Alteza, o Príncipe Herdeiro. Compreenderão, portanto, que tal fato não constitui, em absoluto, uma mera coincidência.
 
 ---
 

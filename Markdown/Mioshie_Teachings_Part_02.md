@@ -1,9 +1,32 @@
 # Mioshie_Teachings - Part 2
 
+# A Luta entre a Retidão e a Iniquidade
+
+**Categoria:** se | **Ano:** 昭和28(1953)年7月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 正邪の戦い | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1953-07-25
+
+## A Luta entre a Retidão e a Iniquidade
+
+É fato de conhecimento geral que, ao longo da história, sempre que uma pessoa com alguma particularidade incomum, impelida por uma firme determinação e pelo anseio de salvar o mundo, funda uma nova escola ou seita religiosa, estabelece seus dogmas e passa a auxiliar um número considerável de pessoas, no exato momento em que começa a obter reconhecimento social e a se consolidar, é quase inevitável o surgimento de perseguições. Os exemplos magnos desse padrão, conhecidos por todos, são Devadatta para Buda e Satanás para Cristo. Ademais, quanto maior a força e o potencial futuro de uma religião, mais severas se tornam as hostilidades e a opressão.
+
+Nesse sentido, os detratores primeiramente mobilizam as autoridades da época e, com o intuito de instigar o ódio na população, urdem sofismas e calúnias, empenhando-se em disseminá-los. Procuram instilar a ideia de que tal religião é uma superstição perniciosa, cujo propósito é iludir as pessoas e, em última instância, levar as famílias à ruína, devendo, portanto, ser evitada a todo custo. Naturalmente, essa condenação é feita de modo dogmático e sem qualquer investigação. São os espíritos malignos que, ao obsediarem indivíduos de prestígio social ou que controlam os principais órgãos de imprensa, os fazem pensar dessa forma. Tais pessoas, contudo, não têm a menor consciência disso, acreditando piamente que se trata de suas próprias convicções. Ao mesmo tempo, os espíritos malignos também obsidiam o público em geral e, como ambos passam a vibrar em uníssono, a situação torna-se insustentável. Este é o mecanismo de atuação dos espíritos malignos.
+
+Por essa razão, as novas religiões que hoje demonstram um vigor capaz de suplantar as já estabelecidas e que contribuem grandemente para o bem da sociedade, tornam-se alvo dos espíritos malignos e sofrem suas mais obstinadas investidas. Nossa Igreja, por ser o principal objetivo desses ataques, avança enquanto repele tais interferências, o que torna nossa jornada uma empreitada de extrema dificuldade. A seguir, explanarei a causa fundamental desse fenômeno.
+
+No Mundo Espiritual, desde os primórdios, coexistem dois reinos antagônicos: o Mundo do Mal, ou Mundo dos Espíritos Malignos, e o Mundo do Bem, o Mundo dos Espíritos Justos. Ambos travam uma batalha incessante. O soberano do Mundo dos Espíritos Malignos reina com poder formidável, comandando livremente seus bilhões de subordinados, e vem, passo a passo, obtendo êxito em seu assombroso e magno projeto de subjugar o mundo inteiro sob seu domínio. Sendo assim, o maior obstáculo a esse desígnio são os religiosos que pregam o bem e almejam a justiça. Por conseguinte, sempre que um grande vulto religioso surge, eles empregam todos os meios possíveis para oprimi-lo e aniquilá-lo. O motivo pelo qual inúmeras religiões, mesmo tendo florescido por um tempo, acabaram esvaziadas de seu poder é porque foram derrotadas. A razão para tal, como sempre afirmo, é que até hoje vivíamos no Mundo da Noite, regido pelo Deus da Lua, cuja luz era fraca. Consequentemente, embora não chegassem a ser extintas, restava-lhes apenas a forma exterior.
+
+Esse fenômeno manifesta-se também nas religiões comparativamente mais novas de nosso país, a começar pelas provações sofridas pelos fundadores das novas religiões surgidas no período que abrange o final do Xogunato e a Era Meiji. Os casos principais são os da Tenrikyo, da Oomoto, da Tokumitsukyo e da Hito no Michi. A senhora Miki Nakayama, fundadora da Tenrikyo, por exemplo, sofreu o martírio de ser encarcerada mais de dez vezes. O fundador da Oomoto, Onisaburo Deguchi, passou sete anos na prisão e, mal teve a alegria efêmera de ser libertado, tornou-se um hóspede do além, o que ocorreu, sem dúvida, em decorrência do esgotamento causado pela longa vida no cárcere e pelos interrogatórios implacáveis. Conta-se também que o fundador da Tokumitsukyo, um certo senhor Kaneda, era constantemente vigiado por policiais e praticamente não teve liberdade até o momento de sua morte. O sucessor e fundador da Hito no Michi, Tokuharu Miki, também veio a falecer pouco depois de sair de um aprisionamento de vários anos, e diz-se que isso foi resultado das severas torturas que sofreu.
+
+Adentrando a Era Showa, creio ser eu a principal vítima de tais perseguições. Gostaria de discorrer um pouco sobre isso. Conforme mencionei, como o Mundo Espiritual esteve imerso na Era da Noite por um longo período, os exércitos de espíritos malignos puderam perturbar o mundo a seu bel-prazer, entregando-se aos sonhos de uma noite sem fim. Foi então que, subitamente, surgiu a nossa Sekaikyuseikyou. Sendo ela a Religião do Dia, regida pelo Deus do Sol – algo jamais visto –, é natural que até mesmo eles, em sua arrogância, tenham se visto atônitos e desorientados. Diante disso, empregaram todos os recursos possíveis para tentar aniquilar nossa Igreja. A manifestação de seus esforços foram as diversas provações pelas quais passamos, como o caso de sonegação fiscal em 1948, a espetacular busca e apreensão realizada por dez soldados americanos do CID e, posteriormente, o incidente de violação econômica em Shizuoka. Naquela época, a opressão foi tão avassaladora que por um momento parecíamos incapacitados de nos reerguer. O fato de termos superado tais provações e chegado aos dias de hoje deve-se unicamente à supremacia do poder dos Espíritos Justos. Mesmo nesse ínterim, somos consideravelmente afligidos pelos ataques obstinados dos exércitos do mal, como a constante incompreensão por parte da imprensa e, mais recentemente, as calúnias transmitidas por radialistas.
+
+Dessa forma, no Mundo Espiritual, prossegue uma contenda de mil faces, repleta de artifícios e dissimulações, na qual o bem e o mal se digladiam tendo nossa Igreja como epicentro. Isso ocorre porque, para eles, nossa Igreja representa um inimigo de proporções inéditas. Portanto, caso nossa Igreja viesse a ser derrotada, o mundo inevitavelmente se tornaria um domínio demoníaco. Por essa razão, Deus, em Sua providência, preparou o caminho com esmero, e um dos instrumentos dessa preparação é a democracia. Graças a ela, as inúmeras provações que sofremos não afetaram o panorama geral, e o fato de continuarmos a trilhar uma senda de contínuo desenvolvimento é motivo de imensa alegria. Tudo isso se deve, em absoluto, à intensa Luz do Deus do Sol. De agora em diante, à medida que o Sol se elevar, os exércitos de espíritos malignos serão forçados a uma retirada gradual, e assim se dará a concretização de um Mundo de Bem.
+
+---
+
 # A Conquista da Saúde Absoluta e o Caminho para a Longevidade
 
 **Categoria:** se | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 六、絶対健康の可能と長寿法 | **Status:** Unknown
+**Título Original:** 六、絶対健康の可能と長寿法 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
 
 ## A Conquista da Saúde Absoluta e o Caminho para a Longevidade
 
@@ -32,7 +55,7 @@ Dessa forma, o método para a saúde absoluta e a conquista da longevidade possu
 # A Cura do Câncer e a Purificação Pós-cirúrgica
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月1日） | **Status:** Published
+**Título Original:** 御教え （S26年9月1日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## A Cura do Câncer e a Purificação Pós-cirúrgica
 
@@ -67,7 +90,7 @@ A senhora é uma vítima da medicina. É uma situação realmente lamentável.
 # Consultas e Orientações
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1951-11-25
 
 ## Consultas e Orientações
 
@@ -154,7 +177,7 @@ Não há nenhum significado particular. Conforme sempre ensino, a imagem de Kann
 # Diálogos sobre a Agricultura Natural e a Prática da Fé
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年2月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年2月1日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-02-15
 
 ## Diálogos sobre a Agricultura Natural e a Prática da Fé
 
@@ -207,7 +230,7 @@ Li no jornal Asahi de hoje, se não me engano, uma notícia sobre um concurso de
 # A Verdade sobre a Doença Mental e a Epilepsia
 
 **Categoria:** se | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 精神病と癲癇 未発表 | **Status:** Unpublished
+**Título Original:** 精神病と癲癇 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Verdade sobre a Doença Mental e a Epilepsia
 
@@ -244,7 +267,7 @@ Aproveitando o ensejo, discorrerei sobre a paralisia infantil autêntica. Na mai
 # Orientações sobre Diversos Assuntos
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S27年9月1日） | **Status:** Published
+**Título Original:** 御垂示 （S27年9月1日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-08-25
 
 ## Orientações sobre Diversos Assuntos
 
@@ -573,7 +596,7 @@ Por outro lado, devido aos danos físicos causados pela cirurgia, é provável q
 # Questões do Cotidiano à Luz dos Ensinamentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録 （補）
-**Título Original:** 御光話 （S23年11月18日A） | **Status:** Published
+**Título Original:** 御光話 （S23年11月18日A） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Questões do Cotidiano à Luz dos Ensinamentos Divinos
 
@@ -656,7 +679,7 @@ Quanto às verrugas, algumas podem ser removidas e outras não. Elas também sã
 # Esclarecimentos sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年7月18日） | **Status:** Published
+**Título Original:** 御光話 （S23年7月18日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -723,7 +746,7 @@ Um adendo importante sobre a ministração do Johrei: é um grande equívoco con
 # Esclarecimentos sobre a Fé e a Vida Cotidiana
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S27年5月1日） | **Status:** Published
+**Título Original:** 御垂示 （S27年5月1日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
 
 ## Esclarecimentos sobre a Fé e a Vida Cotidiana
 
@@ -832,7 +855,7 @@ Um adendo importante sobre a ministração do Johrei: é um grande equívoco con
 # Esclarecimentos sobre a Fé e a Purificação
 
 **Categoria:** situmon | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S29年2月1日） | **Status:** Published
+**Título Original:** 御垂示 （S29年2月1日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1954-02-15
 
 ## Esclarecimentos sobre a Fé e a Purificação
 
@@ -1103,7 +1126,7 @@ Sem dúvida. O Albasil parece ser muito eficaz para tirar a vida. A pessoa simpl
 # O Veneno dos Remédios e o Processo de Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月5日） | **Status:** Published
+**Título Original:** 御教え （S26年8月5日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## O Veneno dos Remédios e o Processo de Purificação
 
@@ -1156,7 +1179,7 @@ Recentemente, porém, talvez por causa do calor, ela se sente indisposta, o apet
 # Esclarecimentos sobre a Vontade Divina
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年5月1日） | **Status:** Published
+**Título Original:** 御垂示 （S26年5月1日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-01-25
 
 ## Esclarecimentos sobre a Vontade Divina
 
@@ -1303,7 +1326,7 @@ Em 23 de dezembro de 1933, celebrei meu aniversário pela primeira vez, e naquel
 # Respostas a Diversas Indagações
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月 | **Fonte:** 会報
-**Título Original:** 信仰余話 直心分会 | **Status:** Published
+**Título Original:** 信仰余話 直心分会 | **Status:** Published | **Edição/Página:** ２号 | **Data ISO:** 1949-01
 
 ## Respostas a Diversas Indagações
 
@@ -1374,7 +1397,7 @@ Os "Três Venenos" referem-se à ganância, à ira e à ignorância. Os "Cinco D
 # Esclarecimentos Diversos
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S25年3月18日） | **Status:** Published
+**Título Original:** 御光話 （S25年3月18日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
 
 ## Esclarecimentos Diversos
 
@@ -1411,7 +1434,7 @@ Mesmo uma condição como essa pode ser curada com Johrei, administrado com paci
 # Questões da Fé Dirimidas por Meishu-Sama
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 神智の光 | **Status:** Published
+**Título Original:** 神智の光 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1950-11-25
 
 ## Questões da Fé Dirimidas por Meishu-Sama
 
@@ -1526,7 +1549,7 @@ Oportunamente, nossa Igreja estabelecerá um formato próprio para cerimônias f
 # A Profundidade da Fé Diante das Provações Divinas
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年10月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年10月1日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-10-15
 
 ## A Profundidade da Fé Diante das Provações Divinas
 
@@ -1905,7 +1928,7 @@ A solução é simples: quem tem o Ohikari pode confeccionar sua própria bolsa 
 # Esclarecimentos Divinos de 7 de março de 1952
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月7日） | **Status:** Published
+**Título Original:** 御教え （S27年3月7日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Esclarecimentos Divinos de 7 de março de 1952
 
@@ -1956,7 +1979,7 @@ Geralmente, no início, tais espíritos guardam ressentimento, mas, com o tempo,
 # Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年3月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1950-03-20
 
 ## Esclarecimentos Divinos
 
@@ -2045,7 +2068,7 @@ Geralmente, no início, tais espíritos guardam ressentimento, mas, com o tempo,
 # Orientações Divinas sobre Doenças e Questões Espirituais
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月15日） | **Status:** Published
+**Título Original:** 御教え （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Orientações Divinas sobre Doenças e Questões Espirituais
 
@@ -2100,7 +2123,7 @@ Há outro ponto a ser considerado. O desejo intenso de curar o enfermo, embora n
 # A Natureza das Purificações e a Correta Prática do Johrei
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月15日） | **Status:** Published
+**Título Original:** 御教え （S27年2月15日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## A Natureza das Purificações e a Correta Prática do Johrei
 
@@ -2171,7 +2194,7 @@ Sim, pode. Casos como o dele são comuns, especialmente com o uso de remédios d
 # Esclarecimentos sobre Destino, Rituais e Fenômenos Espirituais
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年3月23日 | **Fonte:** 会報
-**Título Original:** 妙智の鍵 光明分会 | **Status:** Published
+**Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-03-23
 
 ## Esclarecimentos sobre Destino, Rituais e Fenômenos Espirituais
 
@@ -2234,7 +2257,7 @@ A causa reside no centro do diafragma, e o tratamento consiste em purificar a re
 # Elucidações de Meishu-Sama
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年12月20日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年9・10月） | **Status:** Published
+**Título Original:** 御光話 （S24年9・10月） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1949-12-20
 
 ## Elucidações de Meishu-Sama
 
@@ -2675,7 +2698,7 @@ Completamos exatamente um ano desde a publicação da primeira edição da "Cole
 # A Origem das Enfermidades e a Salvação pelo Johrei
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月11日） | **Status:** Published
+**Título Original:** 御教え （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## A Origem das Enfermidades e a Salvação pelo Johrei
 
@@ -2834,7 +2857,7 @@ Não é nada grave. Ele melhorará progressivamente. Não há motivo para preocu
 # A Enfermidade Mental e a Influência Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月18日） | **Status:** Published
+**Título Original:** 御教え （S26年12月18日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## A Enfermidade Mental e a Influência Espiritual
 
@@ -2883,7 +2906,7 @@ Ainda que houvesse, nada se pode fazer. O melhor a fazer é entregar a situaçã
 # A Terapêutica Divina e suas Aplicações
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年1月28日） | **Status:** Published
+**Título Original:** 御光話 （S23年1月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## A Terapêutica Divina e suas Aplicações
 
@@ -2930,7 +2953,7 @@ Portanto, no tratamento da peritonite, é crucial ministrar Johrei intensamente 
 # Sobre as Purificações e as Influências Espirituais
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年6月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1952-06-25
 
 ## Sobre as Purificações e as Influências Espirituais
 
@@ -3069,7 +3092,7 @@ Indubitavelmente, as flores desabrocham para celebrar o Natalício. A flor de am
 # Esclarecimentos sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年8月1日 | **Fonte:** 会報
-**Título Original:** 妙智の鍵 光明分会 | **Status:** Published
+**Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-08-01
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -3238,7 +3261,7 @@ R: Ao ingressar na Fé, é comum ter sonhos como esse. Significa que o espírito
 # Orientações sobre a Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月25日） | **Status:** Published
+**Título Original:** 御教え （S26年8月25日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Orientações sobre a Purificação
 
@@ -3340,7 +3363,7 @@ O inchaço na medula e nas glândulas parótidas... pode haver, sim, uma causa e
 # Esclarecimentos Divinos sobre Enfermidades e Suas Causas
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月26日） | **Status:** Published
+**Título Original:** 御教え （S27年1月26日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## Esclarecimentos Divinos sobre Enfermidades e Suas Causas
 
@@ -3389,7 +3412,7 @@ Isso também tem cura. Em geral, olhos que se tornam brancos podem ser curados, 
 # Esclarecimentos sobre a Verdade, a Fé e a Vida
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年3月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-03-01
 
 ## Esclarecimentos sobre a Verdade, a Fé e a Vida
 
@@ -3512,7 +3535,7 @@ Portanto, enquanto a fé permanecer inabalável, a pessoa não sofrerá tanto e 
 # Diálogos e Esclarecimentos do Mestre
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年10月21日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年7月13日） | **Status:** Published
+**Título Original:** 御光話 （S24年7月13日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-10-21
 
 ## Diálogos e Esclarecimentos do Mestre
 
@@ -3889,39 +3912,6 @@ Exato.
 — Nesse caso, acho que vou arranjar uma imagem de Daikoku para mim...
 
 *(Parte desta gravação foi ao ar no dia 17 de julho, um domingo, no programa noturno "Toki no Ugoki".)*
-
----
-
-# Esclarecimentos sobre a Purificação e a Influência Espiritual
-
-**Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月21日） | **Status:** Published
-
-## Esclarecimentos sobre a Purificação e a Influência Espiritual
-
-**Pergunta:** Sou um fiel que ingressou na Fé em 14 de setembro. Desde agosto do ano passado, tenho sido acometido por surtos repentinos, durante os quais, em estado de inconsciência, agrido minha esposa. Após a agressão, recupero a consciência e me arrependo profundamente do ato insensato. Desde que minha esposa recebeu o Sagrado Ponto de Luz, em 14 de agosto, os surtos se manifestam como uma luta para arrancá-lo de seu pescoço. Após eu próprio ter sido outorgado, agredi-a uma única vez, mas nesse episódio, removi inconscientemente meu próprio Ponto de Luz antes do ato. Ademais, ao receber Johrei, todo o meu corpo se agita e minhas mãos tremem com tal veemência que se tornam um borrão. Informo que servi ao exército por oito anos nas regiões austrais, onde contraí dengue. Rogo por vossa orientação.
-
-**Orientação de Meishu-Sama:** A questão é de natureza espiritual. O espírito em questão teme o Sagrado Ponto de Luz. Aparenta ser um espírito de raposa das regiões do sul, um tipo distinto das raposas do Japão. Contudo, com o tempo, o senhor obterá a melhora. É recomendável que lhe façam ouvir a Amatsu-Norito com frequência. Diante disso, o referido espírito irá se acuar ou se evadir. O Johrei deve ser concentrado na fronte, pois é ali que o espírito se aloja. O senhor mesmo pode aplicar Johrei em si. Gradualmente, a situação se resolverá.
-
-**Pergunta:** Sou um membro que ingressou na Fé em 1946. Há aproximadamente trinta e cinco anos, fui submetido a uma cirurgia para sinusite. Cerca de quinze anos mais tarde, o problema ressurgiu. Todavia, os médicos que me examinaram afirmaram não haver nada de errado, deixando-me em um impasse. Foi nesse período que me foi apresentado este sagrado caminho, ao qual aderi e, pela graça divina, obtive a cura completa. O que persiste, no entanto, é um ronco de tal intensidade que perturba as outras pessoas. Como não tenho consciência do fato, sinto-me impotente para controlá-lo, o que me causa grande aflição. Gostaria de saber se a causa é espiritual e qual seria a origem do problema. Onde devo concentrar o Johrei?
-
-**Orientação de Meishu-Sama:** Não, a causa não é espiritual. Ainda há um acúmulo de toxinas solidificadas na parte posterior do nariz. Ademais, existe uma inflamação nas adenoides — a região entre a garganta e o nariz —, o que provoca um vazamento em direção à boca. O fluxo de ar, ao passar pelas cordas vocais, produz o som característico. A origem do ronco reside, portanto, nessa área entre a garganta e o nariz. Ao concentrar o Johrei nesse ponto, a cura será alcançada. A melhora será gradual, pois o problema da sinusite ainda não foi completamente eliminado.
-
-**Pergunta:**
-(1) Ingressei na Fé em 19 de abril deste ano. Desde então, sofro de diarreia quase diária e de uma sensação de distensão e aperto no peito, no abdômen e nas costas. Tenho uma produção excessiva de gases e, ocasionalmente, uma massa esférica se forma em meu estômago, movendo-se e pressionando o órgão, o que me causa grande desconforto e perda de apetite. Devido a essa purificação incessante, minha capacidade de trabalho na agricultura, meu ofício, foi reduzida à metade. No passado, fui submetido a uma apendicectomia, durante a qual meus intestinos foram exteriorizados e lavados. Meu estômago começou a apresentar problemas quatro anos após essa cirurgia. Meu pai é um devoto fervoroso da divindade Konpira, atuando como representante de seu grupo de fiéis. Nossa família segue o budismo zen, mas também reverenciamos divindades como Inari e Ryujin. Antes de meu ingresso, eu era seguidor da Seicho-no-Ie. Ao testemunhar minhas purificações diárias, meu pai insiste que eu seria curado imediatamente se fosse ao templo de Konpira para receber orações e remédios, opondo-se veementemente à Sekaikyuseikyou. No momento de minha conversão, entronizei em meu lar a imagem de Kannon (観音) em biombo.
-
-(2) Minha filha mais velha, Chieko, de seis anos, teve sua primeira convulsão repentina com um ano e três ou quatro meses de idade. Na ocasião, ela espumou pela boca, seus membros enrijeceram e seu olhar tornou-se fixo e assustador, denotando um sofrimento atroz. Desde então, a cada trinta ou quarenta dias, ela invariavelmente sofre crises semelhantes, durante as quais se forma uma massa em seu estômago. Após os ataques, ela fica extremamente debilitada. Os médicos não conseguem diagnosticar a causa. Seu desenvolvimento intelectual parece estagnado; permanece como uma recém-nascida, emitindo apenas o som "ah-ah" e incapaz de andar. Contudo, seus movimentos são rápidos, e ela tem o hábito de pegar tudo ao seu alcance para quebrar e levar à boca. Fora desses momentos, parece estar em um estado onírico permanente. Minha avó faleceu em 26 de março de 1942, em decorrência de um segundo derrame cerebral. A agonia que ela demonstrou antes de morrer é assombrosamente similar ao sofrimento de Chieko durante as crises. O tablete ancestral de minha avó, feito de madeira simples, está guardado em separado. Recentemente, durante uma crise que ocorreu em minha presença, ministrei-lhe Johrei, e sua recuperação foi notavelmente mais rápida.
-
-(3) Meu segundo filho, Sumio, de quatro anos, nasceu com os ossos frágeis e até hoje não consegue andar. O diagnóstico médico é de raquitismo. Seu desenvolvimento mental e motor corresponde ao de uma criança de aproximadamente um ano e meio. Seu olhar é penetrante e ele apresenta uma coriza constante.
-
-Rogo a Vossa benevolência que me indique os pontos de Johrei para os três casos.
-
-**Orientação de Meishu-Sama:**
-(1) Lavaram seus intestinos como se fossem os de um sapo. A diarreia é excelente, pois significa que há uma grande quantidade de toxinas de medicamentos em seu abdômen. A massa que se move é um espírito, um espírito maligno. É o espírito ligado à divindade Konpira. Konpira é uma divindade do mar, protetora de pescadores e afins; não tem relação com a cura de doenças. Ocorre que, em torno de Konpira, há muitos espíritos malignos que causam interferência. É um desses espíritos que pressiona seu estômago com o intuito de fazê-lo abandonar a Fé Messiânica. Ele atua sobre seu pai — que é um representante do grupo — para que este o convença a desistir. Ceder a essa investida seria um grave erro. A interferência desse espírito impede que sua melhora seja linear. Sendo assim, o que fazer? É imperativo que o senhor se aprofunde e se dedique integralmente à Fé Messiânica. A interferência só ocorre porque há uma brecha, uma hesitação em sua fé. Portanto, deve se manter resoluto no caminho da Sekaikyuseikyou e ler os Ensinamentos com a máxima frequência. Diante dessa postura, o espírito maligno concluirá que seus esforços são vãos e se retirará. O que está em curso é uma batalha entre o genuíno e o falso. Com o tempo, seu pai acabará por se render. As divindades Inari e Ryujin também colaboram com essa perturbação. Quanto à Seicho-no-Ie, é uma via neutra. A afirmação de seu pai, de que a cura viria ao ir a Konpira, é proferida sob a influência do espírito que o utiliza como porta-voz. O objetivo é unicamente opor-se à nossa Fé. Uma luta entre o Bem e o Mal está se desenrolando em seu corpo físico. Hesitar neste momento significa perder a salvação. É preciso firmar a decisão em seu coração de forma inabalável. Assim, o mal não poderá mais se aproximar, pois ataca justamente onde encontra fragilidade. Para um líder como seu pai, a conversão do filho à Fé Messiânica representa uma perda considerável, e essa é a razão da ofensiva. A situação é perigosa.
-
-(2) Um tablete ancestral de madeira simples não deve ser mantido por muito tempo. O correto é utilizá-lo apenas até o quadragésimo nono dia após o falecimento. Depois disso, deve-se usar um tablete comum, pois, do contrário, o espírito se sente incomodado e pode manifestar um aviso. Quando os seres humanos cometem um erro, este reverbera com exatidão no Mundo Espiritual, e o espírito fica impedido de seguir para o lugar que lhe é destinado. A convulsão é causada por um espírito que morreu afogado, em grande agonia. Trata-se de um bebê. Pode ser uma criança que, logo ao nascer, caiu na água ou foi atirada, e cujo espírito não está sendo devidamente amparado. Ou, ainda, o espírito de um feto abortado em estágio avançado de gestação, que também não foi acolhido. Sem ter para onde ir, o espírito se acoplou à menina. A rapidez de seus movimentos indica a presença de um espírito animal. Isso sugere que a criança é a reencarnação de um animal, conservando ainda muitos de seus instintos. O estado onírico em que permanece corresponde à condição em que o espírito se encontrava no momento de sua morte. O espírito da avó também parece estar ligado a ela. Por isso, quando a influência da avó predomina, a menina manifesta os sintomas de seu sofrimento. É comum que dois ou três espíritos se liguem a uma mesma pessoa, podendo ser uma combinação de espíritos humanos e animais. Há casos em que a influência de um espírito animal pode levar à morte.
-
-(3) Este menino é a reencarnação de uma serpente. Não é um caso incurável. Ocorre que o espírito da serpente não foi suficientemente purificado antes de reencarnar, razão pela qual o corpo da criança tem essa flexibilidade característica. Com a ministração contínua do Johrei, ele gradualmente se normalizará. A coriza constante é um excelente sinal de purificação. Com perseverança, ele será curado. Trata-se, contudo, de um conjunto de aflições bastante complexo. O caminho é se dedicar à fé de todo o coração e se esforçar para salvar o maior número possível de pessoas. Agindo assim, pela graça e proteção de Deus, a cura virá mais rapidamente. Nesse processo, com o tempo, até mesmo seu pai abandonará a devoção a Konpira, pois seus antepassados também mudarão sua condição no Mundo Espiritual.
 
 ---
 

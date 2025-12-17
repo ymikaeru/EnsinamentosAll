@@ -1,9 +1,1626 @@
 # Mioshie_Teachings - Part 72
 
+# A Tuberculose sob a Ótica de um Médico (Do livro 'A Verdadeira Natureza da Tuberculose')
+
+**Categoria:** sanko | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
+**Título Original:** 参考文献 付録 医家の観たる結核 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
+
+## A Tuberculose sob a Ótica de um Médico (Do livro 'A Verdadeira Natureza da Tuberculose')
+
+O artigo a seguir é um excerto da obra 'Tuberculose e Vida', de autoria do Dr. Kihachiro Kunishima. Por apresentar uma crítica abalizada de um especialista, considero-o de grande valia como referência, razão pela qual decidi incluí-lo como apêndice. Deixo aqui expressa a minha gratidão ao doutor.
+
+A medicina moderna caracteriza-se por uma tendência excessiva a procedimentos mecanicistas. Ela não enxerga o doente; enxerga apenas a doença e o germe, o que a conduz, invariavelmente, a limitar-se à administração de medicamentos e injeções. É um equívoco esperar que uma medicina que se esqueceu do ser humano possua a força para vivificá-lo. A visão de mundo europeia moderna, que desde o Renascimento considerou o aperfeiçoamento de um ser humano padronizado como sinônimo de progresso civilizatório, encontra-se agora à beira do colapso em todos os cantos do globo. Assim como a abstração da razão humana proposta por Kant resultou, paradoxalmente, no isolamento da própria vida, a descoberta do bacilo da tuberculose por Koch acabou por desviar o interesse dos médicos do tratamento do paciente para o tratamento do germe.
+
+Pasteur Vallery-Radot, do Instituto Pasteur, já lamentava profundamente: “Desde o Renascimento, a ciência tem sido concebida de forma demasiado apartada da terra”. Contudo, mesmo diante desses procedimentos mecanicistas que ignoram o ser humano, este felizmente possui a capacidade de cura natural. A cura de qualquer enfermidade não consiste em “curar” a doença. Não se trata de algo que se “cura” ou “é curado”. A doença, em sua essência, “cura-se por si mesma”. Não seria o caso de médicos e pacientes terem se esquecido em demasia dessa grandiosa força vital? Nesse ponto, é provável que os cirurgiões, mais do que quaisquer outros, sejam forçados a sentir vividamente o poder dessa capacidade natural de recuperação. Quem possui a força para cicatrizar a incisão após o corte e a sutura? Ninguém senão a capacidade intrínseca de recuperação que a natureza concede à vida.
+
+O ditado “Deus cura, e o médico recebe os honorários” é um fiel retrato da realidade. De fato, mesmo submetidos a intervenções mecanicistas, aqueles que devem se curar, curam-se. No entanto, em se tratando de doenças crônicas como a tuberculose, os procedimentos mecanicistas, por sua incerteza, tornam-se prejudiciais e acabam por obstruir a atuação da capacidade natural de cura.
+
+Uma terapêutica que ignora o estado psicológico e o modo de vida do paciente é, em si, anticientífica. É de suma importância estabilizar o espírito aflito do enfermo e dedicar atenção à orientação de sua vida, tão repleta de contradições nos âmbitos material e espiritual. Para aqueles que necessitam de um longo período de tratamento, como os tuberculosos, o cansaço com a rotina, a confusão mental, a impaciência e a irritabilidade são sentimentos comuns. Cada um desses estados obstrui a força de cura natural, tornando o apoio espiritual o ponto mais crucial para o paciente. Ademais, o repouso, pilar da terapia natural, gera inúmeras contradições, como a letargia e o enfraquecimento do sistema gastrointestinal. Por outro lado, a ingestão de grandes quantidades de nutrientes também pode causar distúrbios digestivos. Urge que se avance para além dessa terapêutica passiva e contraditória, estabelecendo uma abordagem médica que veja o paciente de forma integral, como um ser humano completo.
+
+Com o advento da presente Guerra Mundial (que inclui a Guerra da Grande Ásia Oriental e o conflito germano-soviético), o declínio do espírito anglo-americano moderno manifesta-se sob todos os ângulos: a derrocada do mecanicismo, a ruína do individualismo e o esvanecimento do analiticismo. Consequentemente, a natureza da medicina moderna também deve passar por uma profunda transformação e renascimento, e é imperativo que essa correção seja feita pelas mãos dos próprios japoneses.
+
+Essa necessidade pode ser claramente compreendida a partir dos fatos da história da ciência. Saber é fazer. A cisão da ciência moderna separou o saber (medicina básica) do fazer (medicina clínica), mas, em sua origem, ambos deveriam ser uma só coisa. Essa reintegração somente poderá ser realizada pelas mãos dos japoneses; as esferas da *theoria* e da *poiesis* devem ser unificadas de forma cíclica. Da mesma forma, o diagnóstico e o tratamento também são processos cíclicos e simultâneos.
+
+Diagnosticar é curar, e curar, por sua vez, deve conter a função de diagnosticar. O verdadeiro diagnóstico já traz em si o poder de cura para que possa ser considerado correto. A pobreza da medicina moderna no campo da tuberculose, que diagnostica com precisão, mas não oferece um método de tratamento igualmente correto, revela um fenômeno excessivamente claudicante. Da mesma forma, prevenção e tratamento deveriam ser processos cíclicos: tratar deveria ser uma forma de prevenir, e prevenir, uma forma de tratar. O tratamento deveria ser, em si, um método para a saúde. A cura da doença representa a plenitude e o fortalecimento da força vital da pessoa, e o verdadeiro fortalecimento da força vital deve conduzir à saúde.
+
+As atuais políticas contra a tuberculose, que concentram seus esforços unicamente na prevenção por meio de exames e se mostram ineptas no tratamento que deveria salvar os doentes, são de uma incompreensibilidade atroz. Será possível prevenir eficazmente uma doença sem que se saiba curá-la? Detecta-se a doença em seu estágio inicial por meio de exames e recomenda-se o tratamento, mas nenhuma orientação consistente é fornecida para corrigir o estilo de vida que propiciou o surgimento da enfermidade. Por mais que se aprimorem os sistemas de exames, se a etapa anterior a eles for negligenciada, o resultado será um aumento de pacientes proporcional ao aumento dos centros de diagnóstico, o que apenas serve para mergulhar a nação em uma melancolia mórbida. A separação entre a clínica e a higiene na medicina moderna apenas agrava esse mal.
+
+Se reunirmos dez pessoas, nove responderão que as doenças são curadas por médicos e remédios. Contudo, a doença de um rico não é garantia de cura, assim como a de um pobre não é garantia de que não se curará. Na verdade, em nossos dias, as pessoas acabam por agravar suas doenças ao se entregarem aos cuidados de uma medicina que se ocupa apenas de terapias locais e sintomáticas. Em contrapartida, os pobres e as pessoas de menor cultura, sem o saberem, confiam na terapia integral que é a capacidade de cura natural, resultando em uma maior taxa de recuperação. É um erro pensar que a medicina é a ciência que estuda como curar doenças; basta observar que, apesar da existência de médicos e medicamentos renomados, o número de enfermidades só aumenta.
+
+A primeira lição que aprendemos ao estudar medicina é que “a doença se cura naturalmente”. Diz-se que as doenças são curadas apenas pela força com a qual nascemos, uma força que surge espontaneamente no corpo. Essa é a verdade que existe desde o início da vida, há setenta milhões de anos, e é o que se ensina na primeira aula de medicina.
+
+O curso da febre tifoide ou da pneumonia hoje não difere em nada do que era há cinquenta ou cem anos, quando a medicina era menos desenvolvida. Seja o paciente rico ou pobre, consultado por um doutor renomado ou por um médico medíocre, a febre tifoide leva as mesmas quatro semanas para ser superada. Se as doenças fossem curadas apenas por médicos e remédios, uma enfermidade que levava quatro semanas há cem anos deveria ser curada hoje em três ou duas semanas, mas a febre tifoide continua a demandar quatro semanas. O mesmo se aplica à pneumonia aguda, que, tanto hoje como há um século, leva uma semana para se resolver.
+
+Não se trata do tempo que o remédio leva para fazer efeito. Quando o corpo é invadido por bacilos como os da febre tifoide ou da pneumonia, uma força de resistência emerge naturalmente para neutralizar suas toxinas, superá-las e restaurar os tecidos. O tempo necessário para esse processo é o mesmo hoje e há cem anos.
+
+A força vital do corpo humano desenvolve-se à medida que é utilizada. Se uma pessoa consome indiscriminadamente remédios para fortalecer o estômago ou os intestinos, as funções desses órgãos se atrofiam. Especialmente no caso de doenças crônicas, não é um raciocínio óbvio o quão insensato é tomar medicamentos que não se convertem em força vital e que, ainda por cima, suprimem a sua correta manifestação?
+
+A capacidade natural de cura, que atua em nosso corpo incessantemente, é tão perfeita e grandiosa que não percebemos o seu valor, da mesma forma que no dia a dia nos esquecemos da preciosidade do ar e do sol.
+
+Quando adoecemos, surgem febre e tosse. Contudo, esses não são a doença em si; são sintomas, manifestações da importante capacidade natural de cura que atua para sanar a causa fundamental do problema. A tosse surge porque há acúmulo de catarro. Se não tossíssemos com o catarro acumulado, morreríamos sufocados. A tosse existe para evitar o sufocamento. Se comemos algo estragado, sentimos náuseas e temos diarreia. Sem esses mecanismos, a cura não ocorreria.
+
+A medicina local e superficial, que busca suprimir essas funções admiráveis, equivale a um ato de quinta-coluna contra a própria doença, como se estivéssemos a dançar nas mãos das maquinações ardilosas dos judeus.
+
+Dizem que povos continentais, como os chineses, mesmo que tenham uma hemoptise, voltam a trabalhar tranquilamente no dia seguinte. Por não terem medo, a sua capacidade natural de cura atua plenamente, e eles se recuperam sem sequer perceber. Já os japoneses, impacientes, entram em pânico ao cuspir sangue. Mesmo que a hemorragia não seja de origem tuberculosa, o medo subconsciente pode desencadear diversos quadros, e não são poucos os casos em que o indivíduo acaba por desenvolver os sintomas reais da doença.
+
+É necessário, antes de mais nada, extirpar a concepção diabólica construída por uma medicina que, por longos anos, se dedicou não a curar a tuberculose, mas a instilar o medo dela. Isso é essencial não apenas para os doentes, mas também para os sadios.
+
+A medicina tradicional equivocou-se em seu ponto de partida. Se, em uma população, há noventa e tantas pessoas sadias e duas ou três doentes, ela se concentra nessas duas ou três, mas não pensa nas outras noventa e tantas. As poucas doentes são importantes, mas esqueceu-se de que as muitas sadias são ainda mais. É por isso que ela continua a produzir mais e mais tuberculosos a partir dessas noventa e tantas pessoas.
+
+Entre aquele que recebe o diagnóstico e o médico, estabelece-se uma importante relação interpessoal. Onde há confiança mútua, os efeitos sugestivos também atuam. Portanto, é necessário que o próprio médico demonstre saúde. Um médico que está doente, independentemente de qualquer argumento, não consegue projetar a devida autoridade profissional.
+
+O Japão é a terra dos deuses. Ser a terra dos deuses significa ser uma nação que não se entrega a discussões vãs (*kotoage*). Isso implica não se perder em abstrações lógicas ou críticas estéreis, mas viver na busca de ideais elevados por meio da prática e da ação. No entanto, a medicina japonesa tradicional, negligenciando sua missão primordial de curar, manter a saúde e prevenir doenças, valorizou excessivamente a medicina básica, que é praticamente irrelevante para esses fins.
+
+Ironicamente, essa condição claudicante da medicina japonesa foi exposta por estudiosos ocidentais, justamente aqueles que eram reverenciados por essas pessoas. Um trecho do diálogo entre o Dr. Boris Novikof, da França, e o Dr. Hiroshi Miura, aponta com precisão essa falha:
+
+“Na medicina japonesa, a ciência médica e a arte médica parecem estar em oposição. Em geral, ambas deveriam caminhar em paralelo. Embora a medicina japonesa seja cientificamente comparável ao nível mundial, no campo da arte médica ela é relativamente imatura, e pode-se dizer que não há figuras de destaque entre os clínicos gerais. Isso não contradiz o espírito japonês, que se caracteriza pela *réalisation pratique* (aplicação prática)? — Não tenho certeza, mas na França, o processo é: primeiro, a observação, ou seja, conhecer profundamente o paciente; em seguida, os exames laboratoriais; e, por fim, retorna-se ao leito do paciente com os resultados. Os resultados laboratoriais servem apenas para comprovar o que foi observado no leito.” (Revista *Kokusai Bunka*)
+
+Essas palavras são como uma agulha cravada no ponto vital. O fato de um estudioso ocidental apontar que a medicina japonesa contraria o próprio espírito japonês nos faz suar frio.
+
+O pensamento europeu moderno, que idealizava a civilização como uma multiplicação de divisões e subdivisões acadêmicas, encontra-se agora à beira de uma profunda reflexão. Foi a importação direta dessa “febre da especialização” que gerou no Japão o culto a um academicismo abstrato. Por trás do destino fragmentário da ciência ocidental, existe, por um lado, um espírito que anseia pela síntese do todo. No Japão, contudo, por nunca ter existido tal espírito de oposição e por termos gerado desde o início um saber com um sentido holístico, a aplicação integrada das ciências divididas à maneira ocidental é medíocre, e tendemos a nos prender aos detalhes.
+
+Com a presente Guerra Mundial, o espírito europeu ocidental moderno entrará em declínio. Fala-se da derrocada do mecanicismo, da ruína do individualismo e do esvanecimento do analiticismo. Com isso, a natureza da medicina moderna também deve passar por uma transformação e um renascimento. Isso pode ser claramente compreendido a partir dos fatos da história da ciência.
+
+Diz-se que saber é fazer. Somente através do fazer, do agir, é que se pode verdadeiramente saber. A cisão da ciência moderna separou o saber, ou seja, a medicina básica, do fazer, a prática clínica, e seguiu adiante sem qualquer reflexão. Este é o mal fundamental da medicina de hoje. O saber e o fazer devem, em sua origem, ser uma só coisa. Acredito que essa tentativa de integração será, no futuro, completada unicamente pelas mãos dos japoneses. As esferas da *theoria* e da *poiesis* devem ser unificadas de forma cíclica; da mesma forma, o diagnóstico e o tratamento também são processos cíclicos e simultâneos.
+
+Diagnosticar é curar, e curar, por sua vez, deve conter a função de diagnosticar. O diagnóstico já deve conter em si a ação terapêutica. Mesmo que o diagnóstico seja realizado de forma correta e detalhada, se um método de tratamento adequado não o acompanha simultaneamente, de nada adianta. A pobreza da medicina moderna no campo da tuberculose é, de fato, um fenômeno excessivamente claudicante. Da mesma forma, prevenção e tratamento deveriam ser processos cíclicos.
+
+O ato de tratar deve se tornar prevenção, e o ato de prevenir deve se tornar tratamento. O tratamento é, em si, um método para a saúde. A cura da doença representa a plenitude da força vital da pessoa, e a verdadeira plenitude e o fortalecimento da força vital devem conduzir à saúde. É uma anomalia que as medidas contra a tuberculose se concentrem apenas na prevenção por meio de exames, enquanto os métodos de tratamento para salvar os doentes se mostram ineficazes. Detecta-se a doença em seu estágio inicial e recomenda-se o tratamento, mas não se oferece nenhuma orientação de saúde e higiene adequada para corrigir o estilo de vida que propiciou o surgimento da enfermidade.
+
+Por mais que se aprimore o sistema de exames, se a etapa anterior for tratada com descaso, o resultado será um aumento de pacientes proporcional ao aumento dos centros de diagnóstico. A medicina moderna está, na verdade, fomentando esse mal. O que é crucial é oferecer, simultaneamente, uma forte orientação espiritual e um planejamento de vida sólido.
+
+Para destruir a mentalidade de dependência de medicamentos que impede a correta manifestação e atividade da capacidade natural de cura, examinemos a verdadeira natureza dos diversos remédios para doenças pulmonares utilizados até hoje. O “creosoto” é considerado há muito tempo um remédio milagroso, mas sua eficácia contra a tuberculose é nula, e ele não possui qualquer efeito digno de nota. No entanto, por ter algum benefício como tônico gástrico e intestinal, considerou-se que poderia ter um efeito indireto, o que acabou por transformá-lo, com o tempo, em um suposto remédio milagroso para a tuberculose. Fármacos como o “tiocol” e o “guaiacol”, utilizados cinquenta anos antes mesmo da descoberta do bacilo de Koch, pertencem a essa linhagem. A “insulina”, valorizada por supostamente aumentar o apetite, também tem sua eficácia questionável. Estes, embora inúteis, ao menos não causam grandes danos. Contudo, há outros que, corajosamente, proclamam avançar contra os germes para devorá-los, quando na verdade devoram vigorosamente a carne e o sangue do próprio aliado.
+
+Refiro-me aos preparados de arsênico e iodo. Diz-se que o arsênico e o iodo são eficazes por auxiliarem no metabolismo, ou que aumentam os linfócitos e estimulam a fagocitose. Com base em propagandas exageradas, esses chamados medicamentos de luxo têm explorado os doentes desorientados. Ácido arsenioso, arsenito de potássio, iodeto de sódio, iodeto de cálcio e outros são aplicações dessa categoria. Adicionalmente, compostos de oxigênio, nitrogênio e enxofre, por sua forte ação bactericida, foram testados em inalações através de geradores de ozônio ou em injeções na cavidade intercostal, no chamado pneumotórax artificial. Contudo, não apenas falharam em atingir seu objetivo inicial, como também produziram uma série de efeitos adversos. Existem inúmeros outros medicamentos injetáveis e fármacos, novos e antigos, mas não há necessidade de listá-los e explicá-los um a um. Se houvesse sequer um que fosse realmente eficaz, toda a discussão seria superada e ele se tornaria o padrão. O fato de que novos remédios “milagrosos” continuam a brotar como cogumelos depois da chuva demonstra que a farmacoterapia da tuberculose é um caos sem rumo.
+
+Entre os chamados remédios populares, as ovelhas perdidas se agarram a tudo: sangue fresco de boi, coelho, carpa, tartaruga-de-casco-mole e víbora mamushi, saquê de serpente, carpa cruciana carbonizada, intestinos de rã-vermelha, fígado de lontra, gafanhotos em conserva, ginseng coreano, água de bucha, fruto de fisális, raiz de campainha, *chimo* (知母), *kashu* (何首烏), caracóis e muito mais. Inúmeros foram os que se agarraram a palhas esdrúxulas, como a chamada “terapia da tuberculose com querosene”, e acabaram por encontrar a morte.
+
+A medicina moderna, com seu brilho ofuscante, hospitais que se assemelham a templos suntuosos, repletos de equipamentos, e uma infinidade de doutores de renome... E, com tudo isso, as doenças são curadas? A realidade é que o número de doentes aumenta em proporção direta à sua prosperidade. Nesse ínterim, incontáveis remédios fraudulentos se aproveitam da situação, enriquecendo os cofres da indústria farmacêutica.
+
+Naturalmente, a desilusão com tudo isso também chega. É nesse ponto que proliferam os chamados terapeutas. Não sei se as autoridades reconhecem ou não a existência desses terapeutas não médicos, mas é fato que eles existem, e há um número considerável de casos de pacientes que, desenganados por grandes hospitais e doutores renomados, foram curados por eles.
+
+A existência desses não médicos, além de ser uma prova que expõe a incapacidade terapêutica da medicina moderna, é também uma forma de protesto silencioso contra o materialismo onipotente.
+
+Em suma, os mais dignos de pena são os pacientes, para quem o terapeuta de um beco sombrio é uma tábua de salvação tanto quanto um imponente hospital. Se as autoridades reconhecem, de alguma forma, a existência desses terapeutas, seria necessário que se dedicassem mais ativamente a estudá-los e que criassem órgãos para promover seu aprimoramento.
+
+Nesse sentido, desejo que religiosos de elevado caráter, dotados de habilidades terapêuticas especiais, passem a orientar as pessoas no aspecto espiritual. Acredito ser mais apropriado que, em vez de pregar verdades abstratas e desvinculadas de nossa vida real, eles assumam o papel social hoje desempenhado por esses não médicos, atuando como conselheiros para as questões práticas do dia a dia.
+
+(Notas)
+Quinta-coluna (第五列): [Termo originado durante a Guerra Civil Espanhola, quando as forças de Franco, que avançavam sobre Madri com quatro colunas, referiram-se a um grupo de simpatizantes dentro do governo republicano como sua “quinta-coluna”.] Grupo que, de dentro de uma organização, colabora com uma força inimiga externa, agindo segundo suas diretrizes.
+*Chimo* (知母): Remédio da medicina tradicional chinesa. Raiz de *Anemarrhena asphodeloides*, usada como antipirético.
+*Kashu* (何首烏): Remédio da medicina tradicional chinesa. Raiz de *Fallopia multiflora*.
+
+---
+
+# Coletânea de Ensaios do Reverendo Okada Jikan — Busca de Ensinamentos | Busca de Materiais: A Celebração do Natalício de Meishu-Sama (Jornal Eiko, nº 290, publicado em 5 de janeiro de 1955)
+
+**Categoria:** sanko | **Ano:** - | **Fonte:** Eikou
+**Título Original:** 明主様御降誕祭行わる | **Status:** Published | **Edição/Página:** 290号 | **Data ISO:** -
+
+## Coletânea de Ensaios do Reverendo Okada Jikan — Busca de Ensinamentos | Busca de Materiais: A Celebração do Natalício de Meishu-Sama (Jornal Eiko, nº 290, publicado em 5 de janeiro de 1955)
+
+A Celebração do Natalício de Meishu-Sama foi oficiada no dia 23 de dezembro de 1954, sob um firmamento sem nuvens, no Salão Messiânico do Zuiunkyo, em Atami, àquela altura com suas obras em fase final de conclusão.
+
+× × ×
+
+Nesse dia, para apresentar suas felicitações, fiéis reuniram-se de todos os rincões do país. A partir das duas horas da madrugada, sem se importarem com o cansaço da viagem, já começavam a subir em direção ao salão. Por volta das cinco horas, graças à cortesia da Ferrovia Hakone Tozan, diversos ônibus iniciaram o trajeto da estação ao local do evento, conferindo à estrada de Momoyama, ordinariamente serena, um movimento inusitado.
+
+Aguardamos no Zuiunkyo a chegada da aurora por um breve período. Às seis horas, com a abertura do salão, adentramos o recinto e percebemos que toda a desordem dos preparativos da véspera havia sido completamente removida pelo trabalho abnegado de equipes de dedicantes, que praticamente não dormiram. O ambiente, por conseguinte, transpirava uma pureza ainda maior. Cerca de trinta minutos depois, ao sairmos, o céu a leste já clareava suavemente. Logo, o sol rubro, emergindo do horizonte oriental de um céu sem nuvens, delineou com nitidez a silhueta do Paraíso Terrestre. O panorama do Palácio de Cristal, de alvura imaculada, e do Salão Messiânico, iluminados pela nova luz, acrescentou uma beleza singular à já conhecida e deslumbrante paisagem do Paraíso Terrestre. Diante de tal cena, experimentamos uma sensação de ascensão celestial, com a convicção de que este é, verdadeiramente, o Paraíso da Arte. Nesse momento, senti renovar-se em meu coração a alegria pela permissão de ali estar presente.
+
+Às oito horas da manhã, a Imagem Sagrada de Kannon (観音) de Mil Braços foi solenemente entronizada no alcove sagrado do recém-inaugurado salão, pelas mãos do Reverendo Presidente e do Reverendo Kihara. A harmonia perfeita entre a Imagem, a cortina de bambu e o próprio alcove conferiu ao ambiente uma dignidade ainda maior, arrancando dos lábios dos fiéis palavras de indizível admiração.
+
+Soube que esta Imagem Sagrada é a mesma que Meishu-Sama descreveu em Seu ensaio “O Caminho da Luz”. Recordei-me, ademais, de um ensinamento que d’Ele recebemos, segundo o qual o dia 23 de dezembro, por ser o solstício de inverno, marca o dia mais curto do ano, a partir do qual a luz diurna começa a se prolongar. Nessa perspectiva, o dia 22 representa o fim da noite, e o dia 23, o início do dia, o que nos permite considerar o dia 23 como o Ano-Novo da Sekai Kyusei Kyo. Ao ponderar sobre tais palavras, a profunda significância da cerimônia de hoje tornou-se ainda mais palpável.
+
+Eram quase dez para as onze quando a voz anunciou a entrada de Meishu-Sama. Por um instante, uma sensação de profundo respeito percorreu meu corpo, e curvei a cabeça em reverente espera. Após seis meses desde o dia 15 de junho, a alegria de poder revê-Lo fez pulsar mais forte o coração dos fiéis. Iniciava-se, enfim, a cerimônia do século.
+
+Assim que Meishu-Sama tomou Seu assento, o Reverendo Presidente, em nome de todos os membros, proferiu suas palavras de felicitação, de gratidão pela proteção diária e de súplica por Sua contínua proteção. A sutil reverência com que Meishu-Sama correspondeu despertou uma emoção avassaladora, tornando impossível conter as lágrimas que ameaçavam transbordar. Em seguida, sob a condução do Reverendo Presidente, a Oração Amatsu Norito foi entoada, e sua ressonância parecia ascender aos céus, preenchendo toda a montanha. Sucedeu-se, então, a oferenda do Tamagushi pelo Reverendo Kihara, após a qual Meishu-Sama Se retirou.
+
+Nesse dia, de modo especial, quatro poemas ofertados por Sua Senhora Esposa para a celebração — os dois primeiros, compostos em nome do próprio Meishu-Sama — foram recitados pelo Reverendo Kihara, com sua característica entoação fluente e melodiosa. A declamação revelou a profundidade dos sentimentos de Sua Senhora Esposa, e restaram-nos apenas lágrimas de gratidão. Por fim, o Reverendo Presidente proferiu suas palavras de encerramento, e a cerimônia concluiu-se em um ambiente de profunda solenidade.
+
+× × ×
+
+Findada a cerimônia, ainda com a emoção a vibrar no peito, pude apreciar a paisagem do Paraíso Terrestre e visitar o Palácio de Cristal, concluído no último dia 11. As palavras de admiração dos fiéis ante a contínua transformação do Zuiunkyo eram incessantes: “É maravilhoso... As palavras não podem descrever. É preciso vir para compreender”. De fato, bastam dois ou três dias de ausência para que nos surpreendamos com as transformações, de modo que é natural uma mudança completa ao longo de alguns meses.
+
+Dessa forma, as atividades do dia transcorreram em perfeita ordem. Cerca de seis mil participantes, com o espírito renovado e inflamados pelo desejo de servir, retornaram aos seus lares em pequenos grupos.
+
+(Repórter Sakami)
+
+---
+
+# Um Encontro que Transcende a Religião e a Ciência
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
+**Título Original:** 参考文献 宗教と科学を超越しての会合 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
+
+## Um Encontro que Transcende a Religião e a Ciência
+
+Revista Eikou, n.º 227, 23 de setembro de 1953
+
+**Participantes (títulos honoríficos omitidos)**
+
+**Representantes da Igreja**
+Líder Espiritual: Naoyoshi Okusa
+Presidente da Diretoria: Yoshihiko Kihara
+Diretor: Seizou Abe
+Diretor: Seiichi Momomi
+Diretor: Mitsuhiko Onuma
+Diretor: Utarou Nagamura
+Diretor: Akira Kitou
+Chefe de Filial: Hideo Kojima
+Hiroshi Sukuwa
+Takushi Sukuwa
+
+**Corpo Médico (em ordem alfabética japonesa)**
+Dermatologista, Urologista, Diretor do Hospital Ikeda
+Doutor em Medicina: Kiyoshi Ikeda
+
+Técnico do Governo Metropolitano de Tóquio, Diretor do Hospital Yoshiwara
+Doutor em Medicina: Chikasou Yukibuki
+
+Técnico do Ministério da Saúde, Diretor do Hospital de Cirurgia Ortopédica de Yugawara
+Doutor em Medicina: Saburou Hamada
+
+Funcionário Técnico do Ministério da Saúde, Diretor da Filial Ninomiya do Hospital Nacional Daiichi de Tóquio
+Doutor em Medicina: Fujirou Nakabachi
+
+Assistente de Cirurgia Ortopédica do Hospital Keio
+Bacharel em Medicina: Mamoru Okada
+
+Doutor em Medicina: Michiichi Okada
+
+Chefe de Urologia do Hospital Metropolitano Aso Hiroo de Tóquio
+Doutor em Medicina: Yutaka Kobayashi
+
+**Dr. Hamada:** Acredito que o caso se iniciou, provavelmente, com um cálculo vesical. Este teria provocado uma cistite que, por sua vez, evoluiu para uma infiltração urinária. Nessas condições, o pênis e os testículos se contraem consideravelmente; estes últimos chegam a se retrair a ponto de parecerem ter sido tracionados para cima. A infiltração urinária subsequente deve ter causado o desprendimento da pele superficial, gerando a impressão de que os órgãos haviam desaparecido por completo. Ao examiná-lo agora, constato uma recuperação notável. A pele ao redor do pênis apresenta certa irregularidade devido ao processo inflamatório. O testículo direito é claramente visível, mas o esquerdo não pôde ser localizado, por mais que eu o procurasse, levando a crer que tenha se desprendido. Como não presenciei o quadro na época, não posso afirmar com certeza. Contudo, sabe-se que os animais não se regeneram à sua forma original; se ocorre uma cura, esta se dá por outros meios. Na cirurgia, por vezes nos perguntamos se não seria possível restaurar a forma primitiva de um órgão, mas acabamos por desistir, prisioneiros da ideia preconcebida de que é impossível. Sob essa ótica, imagino que o testículo tenha permanecido retraído e tracionado, dando a impressão de ter desaparecido por completo.
+
+**Dr. Kobayashi:** Creio que se trata de um cálculo uretral. Geralmente, os cálculos se formam nos rins, mas neste caso, o cálculo deve ter ficado preso na uretra, obstruindo-a. O médico mencionou uma "injeção para dissolver a pedra", mas, até onde sei, tal descoberta ainda não foi feita. Ele também afirmou que "a incapacidade de urinar por mais de oito horas é perigosa", todavia, minha experiência mostra que um paciente pode sobreviver até mesmo uma semana sem urinar. O fato de o testículo e o pênis terem se apresentado avermelhados e inchados em primeiro de março sugere que a pedra, ao obstruir a uretra, provocou um vazamento de urina através de alguma lesão. Essa urina, infiltrando-se nos tecidos adjacentes, teria propiciado a proliferação de bactérias, culminando na infiltração urinária. Em quatro de dezembro, a criança apresentou convulsões e um estado de morte aparente, o que indica o início de um quadro de uremia. A ausência total de urina, como na anúria causada por nefrite, pode levar a um quadro semelhante. No entanto, neste caso, a urina estava sendo produzida pelos rins e se acumulando na bexiga. Como os rins estavam funcionais, tentavam expelir a urina sem sucesso. Consequentemente, os resíduos metabólicos retornaram à corrente sanguínea, causando a uremia. Nós utilizamos o termo "retenção urinária" para descrever esse quadro. A anúria, por outro lado, ocorre quando os rins são incapazes de produzir urina, o que não parece ter sido o caso aqui. Portanto, trata-se de uma uremia decorrente da retenção urinária, classificada como pseudouremia.
+
+Em suma, a dor cederia e o alívio viria assim que a micção fosse restabelecida. Contudo, a infiltração urinária já instalada provocou a necrose, ou em termos simples, o apodrecimento dos tecidos da região. Acredito que tanto os vasos sanguíneos quanto as toxinas teciduais levaram à gangrena e ao consequente desprendimento do tecido necrosado. O relato de que a criança urinou em cinco de março indica que, por algum motivo, o cálculo foi expelido. Por volta de sete de dezembro, o tecido necrosado pela infiltração urinária começou a se desprender, e pus passou a ser drenado da base do pênis. Suponho que os testículos também tenham sofrido um processo inflamatório. O texto descreve que o pênis e os testículos se desprenderam por completo, como se tivessem desaparecido. A pele pode se regenerar, mas se os testículos e, como foi mencionado anteriormente, a glande peniana realmente se desprenderam e chegaram ao estado atual, estaríamos diante de um fenômeno extraordinariamente raro. Se assim for, a ciência não tem uma explicação plausível. Seria, sem dúvida, um milagre notável. Contudo, por não ter observado o quadro na época, não posso tecer maiores comentários.
+
+**Dr. Yukibuki:** Como não examinei o paciente na época, meu diagnóstico sobre sua condição de então não passa de uma suposição. Acredito, porém, que se tratava de um caso bastante grave de pseudouremia. O fato de a criança ter superado o momento crítico e conseguido urinar após vários dias em estado de risco revela que ela foi agraciada com uma sorte extraordinária para sua idade de cinco ou seis anos. Quanto à supuração e ao desprendimento dos tecidos na região afetada, o diagnóstico médico já foi apresentado pelo Dr. K, e eu concordo que se trata de alterações necróticas decorrentes da infiltração urinária. Ao observar o paciente agora, vejo que tudo cicatrizou, deixando apenas uma pequena marca. Ainda persiste um pequeno orifício por onde uma quantidade mínima de urina parece vazar, mas, de todo modo, considero uma grande felicidade que uma necrose tão severa tenha resultado em uma cicatriz tão pequena. O testículo presente no lado direito está inchado e não se assemelha ao de um indivíduo saudável, localizando-se na região inguinal intermediária, entre o abdômen e o pênis. É difícil determinar se este é o órgão original ou um novo, regenerado. Minha hipótese é que a bolsa escrotal tenha se desprendido, mas o testículo, felizmente, permaneceu. O testículo esquerdo não é palpável. Em nossa prática, temos a experiência de que, quando o escroto se contrai, o testículo pode se alojar na cavidade abdominal, tornando-se impalpável. No estado atual, o escroto está extremamente contraído devido à formação da cicatriz, não apresentando a forma de uma bolsa, e é provável que o testículo esquerdo esteja tracionado para a região abdominal. Precisaríamos acompanhar a evolução do caso. Talvez, com o tempo, a pele que forma o escroto se distenda e o testículo esquerdo se torne palpável. No momento, porém, não posso afirmar nada com certeza. Quanto à glande peniana, ao apalpá-la, não consigo distinguir se é um tecido regenerado ou o original. Se um órgão que se desprendeu por completo de fato se regenerou, só podemos considerar isso um milagre de enormes proporções. Entretanto, em casos de infiltração urinária, o pênis de uma criança, por ser pequeno, pode ficar quase que inteiramente envolto pelos tecidos edemaciados. Quando esse tecido necrosado se desprende, pode parecer que o pênis inteiro desapareceu, pois a pele que o recobria se soltou, embora a estrutura peniana em si permaneça retraída. Portanto, é compreensível que se tenha tido essa impressão. Deixando de lado, por ora, a hipótese da regeneração e avaliando apenas o estado remanescente, considero que a evolução foi extremamente feliz, visto que um quadro clínico tão grave resultou em uma cicatriz tão pequena.
+
+**Dr. Nakabachi:** Sendo pediatra, minha relação com a enfermidade em si não é tão profunda, motivo pelo qual gostaria de abordar a questão sob uma nova perspectiva. Esta é uma doença que acomete crianças e idosos, sendo praticamente inexistente em jovens e adultos. As crianças afetadas são, em geral, frágeis e de temperamento nervoso; não se observa tal quadro em crianças saudáveis, vibrantes e com desenvolvimento físico e mental equilibrados. Ao observar este menino agora, percebo que, embora pareça ter uma constituição frágil, ele deve ter sido, originalmente, bem mais travesso e desobediente. Hoje, ele se mostra extremamente compreensivo, sentado em meio a tantos adultos, adaptando-se com sensibilidade ao ambiente. Acredito que essa mudança em seu comportamento seja notável. Ao ler este panfleto, o que mais me chamou a atenção foi o intervalo de dois anos entre a conversão do pai à fé e o início da doença. O que considero uma lástima é que, nesses dois anos, a fé não tenha atuado de forma a prevenir o surgimento desta enfermidade. A virtude e o efeito da religião residem, a meu ver, em proporcionar estabilidade espiritual e uma compreensão mais profunda dos assuntos do mundo, permitindo que a pessoa trabalhe com tranquilidade e desdobre todo o seu potencial, tanto no âmbito familiar quanto no social. O efeito sobre a criança é evidente, pois ela se fortaleceu após a conversão do pai. Contudo, eu realmente gostaria que a doença tivesse sido evitada. Peço perdão pela presunção, mas senti que deveria expressar este ponto.
+
+**Dr. Okada (Mamoru):** Após as explanações dos eminentes doutores, não tenho muito a acrescentar. No que tange ao diagnóstico médico, concordo com as opiniões já expressas. Todavia, o fato de esta criança, apesar de ter passado por um estado que se pode considerar gravíssimo, ter recuperado sua vitalidade e alcançado a constituição robusta que apresenta hoje é algo a se notar. Em nossa prática diária com pacientes que seguem um curso clínico semelhante, frequentemente nos deparamos com desfechos infelizes. Por isso, considero que a sua recuperação atual possa ter sido, de alguma forma, influenciada pela fé do pai e pela ministração de Johrei. Por fim, para além da evolução do caso até o presente momento e das observações sobre o futuro próximo, tenho grande interesse em observar, daqui para frente, qual será o grau de funcionalidade que o testículo e o pênis, que parecem ter se regenerado, apresentarão. Quero saber até que ponto suas funções serão normais.
+
+**Dr. Okada (Michiichi):** Ao refletir sobre como esta criança sobreviveu, penso em dois fatores principais: em primeiro lugar, sua vigorosa vitalidade; em segundo, a capacidade de regeneração inerente ao ser humano. Com o exame dos distintos doutores, o diagnóstico está claro. Contudo, questiono-me qual teria sido o desfecho se o caso fosse confiado a um cirurgião convencional e se medicamentos ou outros métodos teriam levado à cura. Felizmente, apenas com o Johrei, ele se recuperou a ponto de se cogitar uma regeneração. A verdadeira confirmação de sua cura, entretanto, virá quando ele se tornar adulto e puder ter filhos, provando que seus órgãos são plenamente funcionais. Por ora, isto é, em verdade, nada menos que um mistério.
+
+**Dr. Ikeda:** Cheguei um pouco atrasado e pensei que não chegaria a tempo, mas felizmente pude ouvir as palavras que o Mestre acabou de proferir (Nota do redator: O pronunciamento do doutor ocorreu após as palavras de Meishu-Sama.). A questão de ter havido ou não uma regeneração suscita opiniões distintas entre um médico e um religioso, mas, de qualquer forma, podemos chamar isso de milagre. Do ponto de vista médico, há maneiras de explicar o ocorrido, mas o Mestre defende a tese da regeneração, e eu, como médico, tenho uma visão ligeiramente diferente. Embora eu tenha minhas dúvidas sobre a questão da regeneração, não conheço em detalhes a opinião do Mestre, e gostaria de poder conversar longamente com ele sobre o assunto em uma oportunidade futura. Posso oferecer uma explicação sob a ótica da medicina, mas reconheço que ela, por si só, talvez seja insuficiente.
+
+(Responsabilidade textual do redator)
+
+---
+
+# ――― Coletânea de Teses do Mestre Jikan Okada ―――
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## ――― Coletânea de Teses do Mestre Jikan Okada ―――
+Publicação: Religion and Science
+
+Uma coletânea de seis teses em sua versão para o inglês
+Formato A5, 23 páginas
+
+Por Jikan Okada
+Igreja Messiânica Mundial
+112 Tawara-Machi
+Cidade de Atami
+JAPÃO
+
+Impresso no Japão em 1955
+
+O Que É a Doença?
+Vacinação e Toxina Medicamentosa
+A Origem dos Bacilos
+Análise da Toxina
+A Intervenção Cirúrgica
+Nutrição
+
+---
+
+# Um Certo Mistério
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年6月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 或る神秘 | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1951-06-25
+
+## Um Certo Mistério
+
+*Revista Paraíso Terrestre, n.º 25, publicada em 25 de junho de 1951*
+
+**Inouye Shigetokichi**
+
+Creio que o fato se deu na primavera de 1931. Conforme já relatei anteriormente, era a época em que Meishu-Sama aguardava o momento de Seu grande avanço em Omori Hakkeien. O triênio de 1931 a 1933 foi um período em que Ele Se dedicou exclusivamente a consumar a Obra Divina no Mundo Espiritual, um marco estabelecido por Deus. Fenômenos espirituais misteriosos ocorriam quase que diariamente, e cada pessoa que O visitava era portadora de um profundo significado para a Obra Divina. Presumo que muitos tenham sido os trabalhos imateriais que Seus olhos eram os únicos capazes de compreender. A propósito, a Obra Divina no Templo Nihon-ji, em Boshu, também ocorreu nesse período, em 15 de junho de 1931.
+
+Muitas outras lembranças me vêm à mente ao perscrutar o passado, mas desejo agora registrar para a posteridade um acontecimento místico, ligado à primavera, que me marcou de forma particularmente intensa. Embora, nos dias de hoje, após tantos anos de provações, a lembrança possa parecer um tanto vaga e etérea, estou convicto de que o essencial dos fatos não me falha.
+
+Naquela época, residia no bairro M um funcionário de certa gráfica, de sobrenome Sakuragi. Era uma família de poucos recursos e muitos filhos. A filha mais nova, de cinco ou seis anos, sofria de uma paralisia infantil congênita, para a qual não havia mais esperança de cura. Seus joelhos, curvados e deformados, não podiam ser flexionados ou estendidos, o que a impedia de ficar de pé ou de caminhar, retardando também o seu crescimento. A causa era a possessão ou a reencarnação de uma divindade dragão. Meishu-Sama não apenas consagrou essa divindade na casa da família, como também, pelo grandioso poder do Johrei, curou a menina a ponto de ela conseguir andar. Maravilhada com o milagre, toda a família tornou-se fervorosa seguidora. A referida divindade dragão foi nomeada “Yoshi Myojin” (○美明神), e, certa vez, ouvi de alguém que esse nome fazia alusão aos Oito Grandes Reis Dragões que, segundo a tradição, foram selados por Shakyamuni.
+
+Pois bem, em certa manhã — não me recordo se foi por um telefonema ou se o próprio senhor Sakuragi veio em pessoa —, diante de um relato e de um pedido incomuns, Meishu-Sama dirigiu-Se à residência da família. Ao retornar, soubemos do ocorrido: a filha de sete anos, chamada Yayoi, começou a sofrer com dores abdominais durante a noite. Inicialmente, as dores eram intermitentes, mas, após algumas horas, cessaram por completo. O mais surpreendente, contudo, não era o fato de ela, deitada de costas com as pernas abertas, urinar de tempos em tempos — o que seria plausível —, mas sim o de expelir uma substância semelhante ao líquido amniótico de um parto. Isso os forçou a colocar um oleado sob seus quadris e a usar algodão para a limpeza. A cena era idêntica à de um trabalho de parto, com a expulsão de um líquido que o acompanha. Ao final, tudo indicava que algo havia nascido, e a dor, ao desaparecer por completo, trouxe um grande alívio. Tratava-se, segundo relataram, de um acontecimento verdadeiramente insólito. Tenho também uma vaga lembrança de que a menina disse algo naquele momento, mas, por ser demasiado impreciso, omitirei o detalhe.
+
+O fato se resume a isso. Contudo, ao descrever este misterioso evento, Meishu-Sama nos esclareceu o seguinte: “Trata-se do nascimento de Miroku Butsu — ou seja, Miroku em seu corpo de manifestação —, que é Kannon (観音) (ou talvez fosse Komyo Nyorai-Sama), que tomou emprestado o ventre desta menina para nascer”. Naturalmente, por se tratar de um Corpo Espiritual, não podia ser visto a olho nu. É comum que, quando uma nova e nobre divindade vem ao mundo, um protótipo de seu nascimento seja manifestado, como bem se sabe pelo que ocorreu durante a recente perseguição religiosa. Todavia, um exemplo tão místico como este é, provavelmente, inédito.
+
+Nesse caso, o sobrenome Sakuragi, segundo nos foi explicado, significa Índia. Originalmente, se representarmos o Japão, a Coreia e a China por meio de flora, eles correspondem à ameixeira, ao pinheiro e ao bambu, enquanto a Índia corresponde à cerejeira. O budismo, originário da Índia, é o ensinamento da "flor", como sugere a palavra *Hokke* (Lótus). Contemplar a impermanência de todas as coisas na efemeridade das pétalas de cerejeira que caem incessantemente é uma verdade fundamental que permeia todo o pensamento budista. É provável que essa filosofia, com a vinda do budismo, tenha se transmutado no código de honra dos samurais no Japão.
+
+Ademais, o número sete representa a terra. O budismo utiliza-o com frequência; Shakyamuni é o Miroku do sete, da terra, e, conforme nos foi ensinado, pode, em certas circunstâncias, tornar-se a mãe de Kannon (観音).
+
+O nome original da menina era Mieko, mas, antes mesmo desse acontecimento, Meishu-Sama o alterou, assim como o do pai, para Yayoi. Recebemos, então, a orientação de que Yayoi significa “dar à luz Miroku”.
+
+Todos esses indícios sugerem que essa menina era um protótipo de Shakyamuni ou possuía um profundo laço espiritual com ele. O que causa particular espanto é o fato de existir nos sutras budistas uma profecia — “uma menina de sete anos dará à luz Miroku” —, uma predição que, até então, só podia ser considerada um enigma insondável. Ao saber que o ocorrido era a concretização dessa profecia, minha surpresa foi tamanha que fiquei estarrecido, sem palavras. A profunda impressão daquele momento permanece inesquecível até hoje. Que mistério profundo! Este acontecimento era um ato do grandioso programa de Deus, revelado há milhares de anos.
+
+Verdadeiramente, o Plano Divino, embora possa parecer vago, se desenrola com provas rigorosas, racionalidade e uma preparação meticulosa, sem o menor desvio. Só este fato já nos permite reconhecer a natureza absoluta das profecias contidas em todas as religiões sobre o Juízo Final, a vinda do Messias Salvador e a concretização do Paraíso Terrestre, demonstrando que não se tratam de meros enigmas. Não há, portanto, como duvidar da imensa importância da Obra de Meishu-Sama, que foi anunciada por revelações divinas há milênios.
+
+Certa vez, ouvi de Meishu-Sama uma história. Em determinada localidade de Kyushu, foi escavada uma pedra de tinta de cem mil anos, a qual Ele mesmo teve a oportunidade de ver. De formato primitivo, semelhante a uma cabaça, a peça trazia em sua superfície, em alto-relevo, as formas do Sol, da Lua e das estrelas. A disposição desses astros expressava, de maneira singular, a iminente transição do mundo atual para o advento do Mundo Ideal. Isso nos revela a existência de uma revelação divina ocorrida há cem mil anos.
+
+Diante disso, compreendemos quão profundo e longínquo é o Plano de Deus, algo que transcende por completo nossa imaginação. O desejo divino pela manifestação do Paraíso provavelmente existe desde a própria Criação dos Céus e da Terra. E agora, ao sabermos que a Obra de Meishu-Sama, que carrega a missão de cumprir esse desígnio, é de uma grandeza tão sublime, faltam-nos palavras para louvá-Lo.
+
+---
+
+# Relatos sobre Fantasmas (I) - Coletânea de Fenômenos Espirituais
+
+**Categoria:** sanko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 幽霊はあるか | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+
+## Relatos sobre Fantasmas (I) - Coletânea de Fenômenos Espirituais
+
+É célebre em nosso país o ditado que diz: “O fantasma que julguei ver não passava de um capim seco ao vento”. Contudo, ao mesmo tempo que essa frase se popularizou, as lendas a respeito de fantasmas jamais deixaram de ser numerosas. Seja como for, no Ocidente, os experimentos sobre fenômenos espirituais já avançaram a tal ponto que não apenas se tornou possível o contato e o diálogo com os fantasmas, como também se logrou êxito em apertar-lhes as mãos e até mesmo em coletar suas impressões digitais.
+
+Embora a gênese dos relatos sobre fantasmas em nosso país seja incerta, no Ocidente, o caso mais famoso é o que ocorreu há cerca de cem anos, mais precisamente em 1848, na residência da família Fox, em Hydesville, um modesto vilarejo no estado de Nova York, nos Estados Unidos. Este episódio marcou o ponto de partida para a pesquisa espiritual no Ocidente e culminou no notável progresso a que assistimos hoje.
+
+Atualmente, no Ocidente, inúmeras universidades já estabeleceram cátedras de estudos psíquicos, e não são poucas as instituições de ensino superior dedicadas exclusivamente a esse campo. Além disso, renomados especialistas em pesquisa espiritual têm surgido em profusão, oriundos das fileiras de cientistas e psicólogos famosos, bem como de muitas outras personalidades de destaque. Nesse sentido, os experimentos sobre fenômenos espirituais passaram a ser conduzidos com rigorosa precisão científica, e os resultados publicados são extremamente numerosos, ao passo que um vasto acervo de obras sobre o tema vem sendo continuamente publicado.
+
+Em nosso país, em comparação com o Ocidente, o atraso nesse campo é, de fato, digno de nota. Todavia, recentemente, observa-se um crescente interesse pela pesquisa espiritual, com um aumento gradual no número de pesquisadores e intelectuais dedicados ao assunto. Já se torna frequente encontrar cientistas que iniciaram seus próprios estudos, o que tem promovido um considerável avanço nos experimentos sobre fenômenos espirituais.
+
+Em síntese, os resultados das pesquisas realizadas até o presente indicam que cada indivíduo, além do corpo carnal, é dotado de um corpo astral, um corpo espiritual e um corpo primordial. Da mesma forma, para além do mundo físico em que vivemos, existem o Mundo Astral, o Mundo Espiritual e o Mundo Divino. Postula-se que o ser humano, após o perecimento do corpo carnal, ingressa primeiramente no plano mais inferior do Mundo Astral, conhecido como Submundo. À medida que evolui, ascende aos planos superiores desse mesmo mundo. Aqueles que prosseguem em sua purificação e elevação podem ingressar no Mundo Espiritual e, finalmente, alcançar o Mundo Divino.
+
+Contudo, deixemos essas explicações para um momento posterior e retornemos aos relatos sobre fantasmas. O fantasma, em essência, é um ser humano ou outro animal que, após o perecimento do corpo carnal, permanece em seu corpo astral, habitando o Mundo Astral. A seguir, apresentarei dois ou três exemplos extraídos dos registros do falecido bacharel em Letras, Sr. Asano, a fim de compartilhá-los com os leitores.
+
+**Relato Um**
+
+Na noite de 15 de setembro de 1928, às oito horas, reuniram-se para uma sessão experimental na Associação de Pesquisas Espirituais de Glasgow, na Escócia. Além de mim, acompanhado pela Sra. Kadwallader, uma espiritualista norte-americana, e pela Sra. Woodworth, estavam presentes o presidente da associação, Sr. Anderson, o vice-presidente, Sr. Darley, o diretor-executivo, Sr. Mackindo, e mais de uma dezena de pessoas. A médium era a Sra. Mary Collum, contratada pela associação, uma senhora de aproximadamente quarenta anos que, segundo informado, começou a manifestar essa faculdade alguns anos antes, motivada pela morte de sua mãe.
+
+Seguindo o procedimento habitual, formamos um círculo, sentados à direita e à esquerda da médium, com uma trombeta acústica posicionada ao centro. O Sr. Mackindo, que conduzia a sessão, iniciou com breves instruções, como a necessidade de todos darem as mãos e manterem ambos os pés firmemente no chão, sem cruzá-los. Em seguida, as luzes foram apagadas. Após entoarmos juntos um hino, aguardamos em silêncio na escuridão por alguns instantes. De repente, a uma altura que estimei em cerca de um metro e meio acima da cabeça da médium, próximo ao teto, uma voz feminina clara e distinta soou no espaço.
+
+— Boa noite a todos... Mary, você reconhece minha voz?
+
+— Mamãe! Reconheço perfeitamente — respondeu a própria médium, que, mesmo durante a manifestação do fenômeno, permanecia em estado de consciência normal.
+
+— Esta noite, temos entre nós visitantes do Japão e dos Estados Unidos. Para que todos fiquem satisfeitos, por favor, chame o espírito mais apropriado... alguém que seja bem conhecido por algum dos presentes.
+
+— Farei o possível.
+
+Mãe e filha, separadas pela fronteira entre os mundos físico e espiritual, conversavam com extrema naturalidade, como se estivessem ao telefone. “Realmente, isto é fascinante”, pensei em silêncio na escuridão. “Alguns espiritualistas afirmam que a comunicação direta é o método ideal para o intercâmbio entre os dois mundos. Talvez tenham razão...” Apurei os ouvidos, determinado a não perder um único detalhe.
+
+A conversa entre mãe e filha limitou-se a algumas poucas trocas sobre trivialidades domésticas e terminou sem nenhum acontecimento extraordinário. Logo depois, a trombeta de alumínio, que até então estava em pé no chão, flutuou suavemente no ar, como se alguém a puxasse por uma corda. Como havia faixas luminosas em suas extremidades, seu movimento era claramente visível na escuridão.
+
+“Interessante... Para onde será que vai?”, pensei.
+
+Enquanto eu observava com grande curiosidade, a trombeta aproximou-se da Sra. Woodworth, que estava sentada bem ao meu lado.
+
+— Mamãe! Sou eu, a Lily. Você me reconhece? — uma voz adorável, de uma menina que parecia ter sete ou oito anos, emanou de dentro da trombeta.
+
+Soube mais tarde que Lily era a filha única da Sra. Woodworth, falecida alguns anos antes em sua casa, em Chicago, vítima de pneumonia.
+
+Pude sentir nitidamente o corpo robusto da Sra. Woodworth tremer, abalado por uma intensa emoção.
+
+— Oh, minha querida, é você, Lily! Que bom que você veio... Estamos em Glasgow, na Escócia, a terra do seu avô.
+
+— Eu sei disso muito bem. Estou sempre com a senhora, aonde quer que vá.
+
+— É verdade, você sempre está... Lily, ao lado da mamãe está o Sr. Asano, do Japão. Cumprimente-o.
+
+— Senhor Asano — disse uma voz encantadora, vinda da trombeta apontada em direção ao meu ouvido. — Gosto muito do senhor! O senhor vai passar pelos Estados Unidos quando voltar para o seu país, não é? Eu sei de tudo. Quando for, visite a minha casa. O papai com certeza também vai gostar do senhor.
+
+— Obrigado, Lily... — respondi, um tanto embaraçado. — Na volta, certamente visitarei sua casa. E então poderemos conversar pela trombeta novamente...
+
+— Em casa, nós podemos conversar sem a trombeta... A minha mamãe é uma ótima médium de voz direta.
+
+— Não se deve dizer essas coisas aqui — interveio a Sra. Woodworth, apressada, repreendendo Lily. — Já está bom por enquanto. Há muitos outros que desejam se manifestar, então agora você pode se retirar.
+
+— Adeus a todos... Adeus, senhor Asano...
+
+No mesmo instante em que Lily se despediu, a trombeta caiu no chão com um baque ruidoso.
+
+## Relatos sobre Fantasmas (II)
+
+Após a publicação do primeiro artigo desta série, na edição de número sete da revista *Paraíso Terrestre*, ela foi temporariamente interrompida por circunstâncias relativas ao autor. A partir de agora, contudo, daremos continuidade à sua publicação nas próximas edições.
+
+No relato anterior, extraído dos registros do falecido bacharel em Letras, Sr. Asano, apresentamos um caso de diálogo direto entre as almas dos falecidos — os fantasmas — e os vivos. Desta vez, no entanto, selecionaremos, da obra de Oliver Lodge, um registro no qual os pensamentos de um fantasma foram captados por um médium e expressos por meio da escrita automática. Em outras palavras, um registro no qual a alma de um falecido transmitiu sua vontade por meio da escrita automática de um médium.
+
+**Relato Dois**
+
+Na noite de 8 de abril de 1874, Stainton Moses, então aclamado como um médium de dons excepcionais para a escrita automática, iniciava um texto sobre suas dúvidas religiosas. Mal havia escrito algumas palavras — “Eu sou aquele que...” —, quando sua pena parou abruptamente.
+
+“Qual a razão disso?”, perguntou-se Moses.
+
+Imediatamente, a pena voltou a se mover e escreveu: “Um espírito deseja se comunicar, e recebemos ordens para atender a seu desejo. Como ela não consegue escrever com rapidez, falará por nosso intermédio. Seu nome é Fanny Westoby. O senhor conhece esse nome?”.
+
+Foi assim que Moses recebeu a primeira comunicação de seu espírito-guia, dando início a um diálogo entre ele e os habitantes do Mundo Espiritual, que se desenrolou por meio de sua escrita automática.
+
+*Pergunta:* Não me recordo.
+
+*Resposta:* Sua mãe a conhece bem. Ela é prima de sua mãe e partiu deste mundo em 15 de maio do ano passado.
+
+*Pergunta:* Ela era casada?
+
+*Resposta:* Sim. Sua família era de Carterham.
+
+*Pergunta:* Fanny Carterham... Sim, lembro-me vagamente. Ela morou em Maltby certa vez.
+
+*Resposta:* Ela diz que nasceu em um lugar chamado Alford, na casa onde hoje mora Sam Stevenson. Morou em Maltby, mas casou-se em Belchford. Faleceu em Horncastle, aos sessenta e três anos. O senhor não se lembra de ter ido a Maltby em 1845 para vê-la? Naquela época, a mãe dela, Elizabeth Carterham, havia acabado de falecer após uma longa enfermidade, e sua mãe foi consolar a prima. O senhor foi levado a passear pela fazenda e montou em uma cabra. Ela ficou preocupada com isso e, de fato, a cabra empinou e o derrubou. O senhor caiu sobre um monte de trigo na eira e foi dolorosamente picado por um inseto peçonhento. Ela roga encarecidamente que o senhor recorde este fato à sua mãe.
+
+*Pergunta:* Tentarei fazê-lo, mas será que é uma boa ideia?
+
+*Resposta:* O senhor talvez não consiga persuadir sua mãe a investigar o assunto, mas o senhor mesmo poderá atestar a veracidade dos fatos.
+
+*Pergunta:* Ela tem alguma mensagem a transmitir?
+
+*Resposta:* Ela diz: “Em vida, preocupei-me apenas em satisfazer os desejos da carne e, por isso, fracassei, perdendo muitas oportunidades de progresso. Meu avanço começa agora. Minha vida atual não é muito diferente da sua; sou praticamente a mesma de antes. Gostaria de influenciar Mary, mas não consigo me aproximar dela”.
+
+*Pergunta:* Ela pode me garantir que é, de fato, Fanny Westoby?
+
+*Resposta:* Ela não pode fornecer provas adicionais. Aguarde. Ao retornar, pergunte a seu pai sobre Donington e o alçapão.
+
+*Pergunta:* Não entendo minimamente o que ela quer dizer com isso. Mas está bem, irei perguntar. Há mais alguma coisa? Ela está feliz?
+
+*Resposta:* Em sua condição atual, ela está extremamente feliz.
+
+*Pergunta:* Como ela me encontrou?
+
+*Resposta:* Ela estava voando perto de uma amiga (a Sra. Moses) quando chegou aqui por acaso e descobriu que podia se comunicar.
+
+*Pergunta:* Posso ser útil a ela?
+
+*Resposta:* Sim. Por favor. Ela, e na verdade todos nós, seríamos imensamente beneficiados se o senhor nos emprestasse sua mediunidade.
+
+*Pergunta:* E como seria isso?
+
+*Resposta:* Seria de grande valia para nós se o senhor transmitisse com cuidado as mensagens que desejamos levar aos seres humanos. Na verdade, todos nós estamos transbordando de alegria. Que o Imperador Celeste o abençoe. Rector.
+
+Assim, os espíritos anseiam por se comunicar com os humanos tanto quanto os humanos anseiam por se comunicar com os espíritos. Contudo, a falta de um canal de comunicação é um obstáculo para todos. Por isso, quando encontram uma pessoa dotada de dons mediúnicos tão plenos como o Sr. Moses, os espíritos se reúnem ao seu redor, tentando tomar emprestadas suas mãos e sua voz. De fato, o Sr. Moses era considerado um prodígio entre os médiuns. Conta-se que, ao passar perto de grandes cemitérios, uma miríade de espíritos convergia sobre ele como um vendaval, disputando a oportunidade de tê-lo como intérprete. Foi por terem encontrado um médium de tal magnitude que os espíritos, rejubilando-se, declararam: “todos nós estamos transbordando de alegria”.
+
+Avaliando este caso de escrita automática, Stainton Moses declarou: “Ao questionar minha mãe, confirmei que todos os detalhes eram exatos, sem a menor divergência. Ela ficou espantada, admirando-se de como eu podia me lembrar tão bem de um acontecimento de quando eu tinha apenas cinco anos. Não lhe contei como obtive essa informação, temendo que fosse imprudente e inútil. Quanto ao incidente do alçapão, no entanto, não obtive resposta de meu pai. Ou ele havia esquecido completamente, ou preferiu não falar sobre o assunto. Em 1874, meu pai finalmente se lembrou do caso do alçapão. A casa em que ele morou em Donington tinha um acesso ao telhado através de um alçapão. O telhado era duplo e a vista, excelente. A Srta. Fanny Kirkham, durante uma visita, tentou passar pelo alçapão para chegar ao telhado, mas ficou entalada no meio do caminho, para o riso de todos”. [A morte da Sra. Westoby foi confirmada por meio de seu registro de óbito local.]
+
+Em suma, o fato de datas, lugares e circunstâncias terem sido relatados com tamanha minúcia e eloquência é verdadeiramente notável. Talvez ela tenha sido uma mulher extremamente vivaz e comunicativa em vida. Geralmente, os espíritos hesitam em relação a pormenores tão detalhados, como se estivessem confusos. No entanto, é possível que o espírito porta-voz, como no caso presente, tenha recebido as informações com calma da própria falecida e as tenha transmitido fluentemente pela mão do médium.
+
+## Relatos sobre Fantasmas (III)
+
+**Relato Três**
+
+Nos dois artigos anteriores, compreendemos, por meio de exemplos concretos, como as almas do Mundo Astral podem dialogar com nós, habitantes do mundo físico, ou expressar sua vontade através da escrita automática. Um caso notável ocorreu em 1923, quando o espírito do célebre escritor Oscar Wilde se comunicou através da médium britânica, Sra. Starr Travers Smith. A assinatura produzida na ocasião era idêntica, em todos os detalhes, à caligrafia de Wilde em vida. Quando nos deparamos com comunicações espirituais dessa natureza, torna-se impossível atribuí-las à mera manifestação do subconsciente do médium.
+
+O fantasma que julguei ver
+Não passava de um capim seco ao vento.
+
+Ainda que este verso seja famoso por sua negação dos fantasmas, os relatos sobre avistamentos são, desde a Antiguidade, extremamente numerosos, tanto no Oriente quanto no Ocidente. Ademais, como resultado da pesquisa sobre fenômenos espirituais, que se desenvolveu gradualmente nos últimos oitenta ou noventa anos, logrou-se êxito em experimentos que permitem a visualização real da forma dos fantasmas, e o número de relatos publicados a esse respeito ascende a uma quantidade impressionante.
+
+O que popularmente chamamos de fantasma é, em geral, um ser que, após se despojar do corpo carnal, habita o Mundo Astral, a dimensão inferior do Mundo Espiritual, apenas com seu corpo astral. Esse ser extrai do médium ou de outras fontes o ectoplasma — substância considerada intermediária entre o material e o imaterial — e o utiliza para adensar seu próprio corpo astral, tornando-se assim visível aos nossos olhos. Existem também manifestações que, embora invisíveis para a maioria das pessoas, podem ser percebidas por clarividentes ou capturadas em fotografias.
+
+Um fato particularmente assombroso ocorreu em um dia de maio de 1827, durante uma sessão experimental realizada na cidade de Glasgow. Na ocasião, manifestou-se o fantasma de uma mulher, e os presentes lograram êxito em cortar um fragmento da vestimenta que ela usava. Esse pedaço de tecido está, até hoje, sob a guarda do Sr. Mackindo, presidente da Associação de Pesquisas Espirituais de Glasgow. Uma réplica fotográfica foi distribuída aos membros pela Sociedade de Pesquisas da Ciência Espiritual de Tóquio, e o material se assemelha, em sua delicadeza, a uma teia de aranha.
+
+Ademais, no diário de viagem do falecido Sr. Kazusaburo Asano, intitulado *Peregrinação Espiritual pela Europa e América*, encontra-se o registro de um experimento bem-sucedido para a obtenção das impressões digitais de um habitante do Mundo Astral. Apresento a seguir uma transcrição dos pontos essenciais desse relato.
+
+O fenômeno da produção de impressões digitais não é apenas o mais crucial entre as manifestações mediúnicas de Margery, mas também um evento único nos anais da experimentação espiritual mundial, estabelecendo um novo marco na história do espiritualismo moderno. Foi em agosto de 1926 que a alma de Walter, o falecido irmão de Margery, começou a deixar a impressão de seu polegar em cera odontológica. Ao comparar a impressão digital de Walter com as da médium e dos demais presentes, notou-se que todas eram diferentes. Contudo, descobriu-se uma semelhança de 45% com a de Margery, sua parente consanguínea, e de 70% com a de sua mãe, o que, segundo a datiloscopia, é um fato corriqueiro.
+
+O que se seguiu, no entanto, foi a comprovação de um fato sem precedentes: a impressão digital produzida pela alma de Walter era absolutamente idêntica à que ele possuía em vida. Em 1912, antes de partir para sua última viagem de trem, Walter barbeou-se com sua navalha. O instrumento foi guardado em seu estojo e permaneceu intocado dentro de uma mala desde então. Em maio de 1927, a mãe de Walter retirou a navalha e a entregou a especialistas para análise. No cabo do objeto, foi encontrada a impressão digital de Walter. O fato de a impressão deixada em vida no cabo da navalha coincidir perfeitamente com aquela que a alma, autodenominada Walter, estava produzindo repetidamente na cera, foi um acontecimento extraordinário. A análise das impressões digitais de Walter foi realizada pelos departamentos de polícia de Washington, Boston, Berlim, Munique e Viena, bem como pela Scotland Yard de Londres, e todos emitiram certificados de autenticidade.
+
+O experimento para a produção das impressões digitais ocorreu em 18 de novembro de 1928, com início às nove da noite e duração de aproximadamente quinze minutos. O Dr. Brown, de Boston, participou como testemunha e assistente. Coloquei três pedaços de cera, devidamente marcados, no bolso e entrei na sala de experimentos. Sobre a mesa, havia água quente para amolecer a cera e água fria para endurecê-la posteriormente, dispostas em duas tigelas.
+
+Sob uma luz vermelha, assim que Margery entrou em transe, a voz de Walter soou no ar, dando instruções sobre o procedimento. Seguindo suas orientações, retirei a cera do bolso e a coloquei na tigela com água quente. Após cerca de um minuto, quando a cera estava suficientemente maleável, o próprio Walter a retirou da água, pressionou seu polegar sobre ela na mesa e, em seguida, mergulhou-a na água fria. Durante esse processo, a ponta de seu dedo materializado era visível, branca sob a luz vermelha. Logo depois, dizendo “Acho que já endureceu o suficiente”, ele mesmo retirou a cera da tigela de água fria e me entregou. Repetimos o mesmo procedimento três vezes. Na última, como a água havia esfriado um pouco e a cera não amoleceu completamente, ele disse: “Está dura, vou pressionar duas vezes” e apertou o polegar com força por duas vezes.
+
+Tudo transcorreu de maneira extremamente prática, dando a impressão não do trabalho da alma de um falecido, mas sim da tarefa de um jovem descontraído. Escusado será dizer que, durante todo o tempo, seguramos firmemente as mãos da médium.
+
+Após o experimento, a análise das impressões digitais foi confiada ao Dr. Rogers, da Universidade de Harvard. Após exame microscópico, o professor atestou que as impressões eram, sem sombra de dúvida, idênticas às de Walter em vida. Levei comigo, ao retornar, os três moldes de cera com as impressões digitais...
+
+---
+
+# Da Coletânea de Artigos do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年12月23日 | **Fonte:** Eikou
+**Título Original:** 本年を顧みて「座談会」 （S28年） | **Status:** Published | **Edição/Página:** 240号 | **Data ISO:** 1953-12-23
+
+## Da Coletânea de Artigos do Reverendo Jikan Okada
+
+## Retrospectiva do Ano de 1953: Mesa-redonda
+
+Revista Eikou, nº 240, 23 de dezembro de 1953
+
+**Data e Hora:** 17 de dezembro de 1953
+**Local:** Sede Provisória da Sekaikyuseikyou em Sakumicho
+**Moderador (Diretor):** Jittaro Moriyama
+**Participantes** (Honoríficos omitidos, em ordem aleatória):
+**(Presidente)** Naoyoshi Ōkusa
+**(Diretor-Presidente)** Yoshihiko Kihara
+**(Diretores)** Katsuichi Watanabe, Seizo Abe, Mitsuo Takeda, Naoyuki Kawai, Kosaku Ishihara, Emiji Nakamura, Seiichi Momomi, Shigeru Fujieda
+
+**Ōkusa:** Senhores, em virtude da chegada do novo ano de 1954, gostaria de realizar esta mesa-redonda com o propósito de refletir sobre o ano de 1953 e, ao mesmo tempo, renovar nossas resoluções para o ano vindouro. Gostaria de solicitar ao Reverendo Moriyama que conduza a moderação deste encontro.
+
+**Moderador:** Entre os acontecimentos mais significativos deste ano, quiçá um marco histórico, destaca-se o lançamento comercial das obras de Meishu-Sama. Inicialmente, quando a decisão foi comunicada às grandes distribuidoras, como a Nihon Shuppan e a Tokyo Shuppan, houve certa relutância, fruto do desconhecimento sobre nossa Igreja. Contudo, ao iniciarem a comercialização, o volume extraordinário de vendas os compeliu a reconhecer a relevância de nossa Obra. Ademais, a expressiva aquisição dos livros pelo público em geral nos revelou uma profunda busca espiritual latente na sociedade. A primeira obra a ser publicada foi *A Salvação da América*, seguida por títulos como *Terapêutica pela Fé para a Tuberculose*, *Princípios da Agricultura Natural* e *Coletânea de Milagres da Sekaikyuseikyou*. No que tange à distribuição, observamos que, se no início o empenho dos membros foi crucial, gradualmente as vendas se consolidaram de forma perene nas livrarias, independentemente de um esforço direto de nossa parte. O livro *Princípios da Agricultura Natural*, em particular, demonstrou o quanto a agricultura é uma questão premente no Japão. Seu sucesso de vendas não se restringiu às zonas rurais, alcançando também os grandes centros urbanos, o que lança uma luz promissora sobre uma nova faceta da expansão de nossa Igreja. Nesse sentido, o trabalho do Reverendo Watanabe, que atuou diligentemente na Associação de Divulgação da Agricultura Natural, foi de imenso valor. Gostaria, pois, de ouvi-lo a respeito.
+
+**Watanabe:** A esse respeito, desde a publicação da edição especial sobre Agricultura Natural na primavera, notamos um entusiasmo crescente entre os membros para colocar os ensinamentos em prática. Foi então que as palavras de Meishu-Sama, orientando-nos a formar uma associação para nos dirigirmos aos agricultores em geral, deram origem à Associação de Divulgação da Agricultura Natural. Desde sua fundação, graças ao esforço zeloso de todos, o número de associados tem aumentado progressivamente. Além disso, no cultivo de arroz deste ano, implementamos uma nova técnica experimental de aração profunda. Ao enfatizarmos que este método elimina a barreira de toxinas acumuladas por anos de uso de adubos, aqueles que o adotaram colheram resultados excelentes. Apesar das quebras de safra em escala nacional, provocadas por tufões e geadas no outono, os praticantes da Agricultura Natural obtiveram colheitas consistentemente sólidas. Um exemplo notável ocorreu na província de Mie, onde uma área atingida pela maresia, que devastou as plantações vizinhas, teve uma produção normal. Em outros casos, mesmo quando a colheita da Agricultura Natural parecia modesta, as lavouras convencionais ao redor registraram perdas quase totais. Tivemos também o caso de um agricultor que chegou a colher seis mil kan de batata-doce por tan. As estações de pesquisa agrícola também têm demonstrado grande compreensão, e recentemente, autoridades do setor passaram a acompanhar nossas atividades com vivo interesse, iniciando suas próprias investigações. A notável difusão da Agricultura Natural este ano é, inequivocamente, um reflexo da imensa virtude de Meishu-Sama. Ela nos faz renovar a convicção sobre a necessidade de disseminar este método, que certamente contribuirá para a solução da pobreza, um dos pilares do tripé doença, pobreza e conflito. Por fim, é com grande alegria que informo que as deficiências da Associação foram sanadas, e toda a Sekaikyuseikyou agora avança unida na missão de divulgar plenamente a Agricultura Natural.
+
+**Moderador:** Em seguida, gostaria de abordar a concretização da expansão de nossa Igreja no exterior. Em 11 de fevereiro, os reverendos Higuchi e Ajiki partiram para o Havaí, e o desenvolvimento alcançado até hoje é do conhecimento de todos. Gostaria de pedir ao Reverendo Abe que nos fale sobre este assunto.
+
+**Abe:** A empreitada missionária iniciada em fevereiro pelos reverendos Higuchi e Ajiki no Havaí rendeu frutos extraordinários. Em pouco mais de seis meses, seus esforços resultaram na outorga da fé a mais de mil e quinhentas pessoas e na arrecadação de dezenas de milhares de dólares para a construção da Sede do Havaí, estabelecendo assim os alicerces de nossa missão no exterior. O progresso não se limitou ao arquipélago; nos Estados Unidos, já contamos com membros devotos em cidades como Los Angeles, Seattle e São Francisco. Além disso, tanto na América do Norte quanto na do Sul, pessoas que leram as obras de Meishu-Sama manifestaram um fervoroso desejo de ingressar na fé. Ao receberem o Ohikari, relatam sucessivas recuperações de saúde. A intensidade da Luz Divina e a vastidão de Seu alcance são verdadeiramente assombrosas. Diante da força crescente da Luz a cada dia, podemos apenas imaginar o grandioso desenvolvimento que nos aguarda em 1954.
+
+**Moderador:** A expansão de nossa Obra não se manifestou apenas no campo missionário, tanto no Japão quanto no exterior. Internamente, com a conclusão do Solo Sagrado de Hakone, o Shinsenkyo (神仙郷), nosso museu promoveu exposições de ukiyo-e e de arte antiga estrangeira. O número de visitantes japoneses multiplicou-se em relação ao ano anterior, e recebemos também um grande número de estrangeiros, que, invariavelmente, expressavam seu encanto com a palavra "wonderful". Geralmente, quando estrangeiros no Japão utilizam essa expressão, é por mera cortesia. Contudo, no Museu de Arte de Hakone, o "wonderful" era proferido com genuína admiração. O fato de termos sido mencionados em jornais de língua inglesa como o *Chicago Tribune* e o *Nihon Times* reforça a convicção sobre a universalidade da Sekaikyuseikyou, um ponto que considero de grande relevância.
+
+**Kawai:** Atualmente, os Estados Unidos se encontram absortos em contramedidas à ideologia comunista, seu principal adversário. Todavia, como Meishu-Sama esclarece em *A Salvação da América*, o aumento alarmante do número de doentes no país representa um quadro verdadeiramente preocupante. Foi com o objetivo de apresentar uma solução urgente para este problema que a referida obra foi escrita. Nesse contexto, a missão no Havaí representa a vanguarda de nossa expansão internacional e, conforme os ensinamentos de Meishu-Sama, desempenha um "papel central de união", o que confere a esta missão uma importância ainda maior. A forma como a salvação do mundo se materializará foi resolvida de maneira magistral por Meishu-Sama através do envio do Ohikari para o exterior, um ato que, em sua essência, define a própria natureza da Sekaikyuseikyou.
+
+**Ōkusa:** Em complemento a essa questão, a construção da Sede do Havaí, com um investimento de cinquenta mil dólares, o estabelecimento de filiais nas cinco ilhas principais do arquipélago e a obtenção do registro como pessoa jurídica são fatos que nos enchem de uma alegria indescritível. Se o desenvolvimento até aqui já foi esplêndido, podemos imaginar o que o próximo ano nos reserva.
+
+**Moderador:** A seguir, gostaria de tratar do progresso no campo da construção, que avança em Hakone, Atami e Quioto. Peço ao Reverendo Nakamura que nos fale a respeito.
+
+**Nakamura:** Acredito que a Sekaikyuseikyou experimentou um desenvolvimento sólido e vigoroso neste ano. Atualmente, tenho a permissão de servir na área de construção, e sinto que, à medida que as obras avançam com força, a qualidade e a dedicação dos servidores têm melhorado notavelmente. Eles realizam suas tarefas com grande seriedade e entusiasmo. Em relação a Quioto, percebo uma transformação notória na dedicação dos servidores a cada visita de Meishu-Sama ao oeste do país. A diferença entre a primavera e o outono deste ano foi marcante; sinto uma forte convicção em sua entrega sincera. Por essa razão, sinto profundamente que o nosso avanço não foi apenas material, mas também de um profundo conteúdo espiritual. Creio que 1954 nos trará um desenvolvimento que superará todas as nossas expectativas.
+
+**Fujieda:** Refletindo sobre as mudanças mais acentuadas deste ano, recordo que, até pouco tempo, éramos alvo de diversas críticas na imprensa. Recentemente, contudo, observo uma tendência distinta: a publicação de artigos notavelmente imparciais. Creio que esta seja uma das marcas do ano. Cito como exemplos a postura do jornal *Sangyo Keizai Shimbun* e da revista *Shukan Sankei* ao noticiarem o caso da regeneração de um órgão masculino sob o título "Chin-mondō da Montanha de Hakone"; o artigo sobre Agricultura Natural publicado na edição de 20 de dezembro; e a reportagem sobre Atami escrita pelo professor Fukuda, da Universidade Hosei, na edição de dezembro da revista *Kaizo*, considerada uma publicação progressista. Todos esses exemplos demonstram um aumento da credibilidade de nossa Igreja, um reconhecimento que considero uma tendência muito alvissareira.
+
+**Moderador:** O tema da regeneração do órgão masculino, recém-mencionado, ensejou um evento sem precedentes, que também merece destaque entre os fatos notáveis deste ano: uma reunião no Templo Nikko-den, em Gora, com a presença de Meishu-Sama, na qual nós, representantes da Igreja, trocamos impressões com diversos doutores em medicina.
+
+**Ōkusa:** Sobre este assunto, embora na época os médicos tenham negado a possibilidade do ponto de vista científico, eles ficaram visivelmente espantados diante do fato inegável apresentado pelo próprio paciente. Recentemente, recebemos um novo relatório: os dois testículos que haviam desaparecido reapareceram e estão sensíveis ao toque. Portanto, considero necessário reunir novamente os doutores que participaram do encontro anterior para que possam confirmar este novo desenvolvimento.
+
+**Moderador:** Acabamos de ouvir sobre um milagre extraordinário. De fato, todos nós experienciamos constantemente o fortalecimento do poder do Johrei a cada dia. Gostaria de pedir ao Reverendo Ishihara que nos fale sobre este aspecto sob a ótica da difusão.
+
+**Ishihara:** O que verdadeiramente distingue a Sekaikyuseikyou das religiões estabelecidas é, poderíamos dizer, a contínua sucessão de milagres. Para nós, não se trata de milagres, mas de ocorrências naturais. Contudo, sob a ótica da sociedade atual, o fato de eventos tidos como impossíveis se realizarem com simplicidade é considerado um prodígio. Na área da saúde, os médicos observam nossos resultados com espanto. Fora dela, temos casos de pessoas que caem de grandes alturas e saem ilesas, ou poços que voltam a dar água após décadas de seca. A própria Agricultura Natural, que produz colheitas sem o uso de adubos, pode ser considerada um milagre segundo o bom senso de hoje. Em suma, sinto profundamente que vivemos e servimos imersos em milagres. Recordo-me de um filme cristão que trazia uma mensagem semelhante: “Não é preciso falar de fé a quem já a possui, e de nada adianta falar de fé a quem não a tem. No fim, sem a manifestação de milagres, não há como revelar a existência de Deus ou salvar a humanidade”. Ao pensar nisso, percebo que a Sekaikyuseikyou é a única religião capaz de manifestar milagres de forma simples para toda a humanidade, revelando a existência de Deus. Creio que este seja o grande motor que impulsionará nosso desenvolvimento.
+
+**Moderador:** Já ouvimos diversas explanações. O extraordinário desenvolvimento que alcançamos este ano se deve, em grande parte, à união e colaboração entre todas as Igrejas. Gostaria de pedir ao Reverendo Momomi, que acompanha constantemente os assuntos da Sede Central, que nos ofereça uma perspectiva do ponto de vista administrativo.
+
+**Momomi:** Minha função consiste em analisar os relatórios recebidos para compreender a situação geral da Obra. Através deles, sinto quão eficazes se tornam os esforços dos presidentes de Igreja nos diversos campos de atuação, como a expansão no exterior, o avanço no Japão e a construção do Paraíso Terrestre. Observo também como a mentalidade dos chefes de Johrei Center se reflete profundamente nos membros, manifestando-se em suas ações. Sinto, portanto, que para alcançarmos um grande desenvolvimento, o direcionamento mental das pessoas em postos-chave produz resultados de enorme magnitude. E o motor dessas ações são sempre as palavras de Meishu-Sama, que se manifestam de forma clara. Tenho profunda gratidão pelos membros da diretoria e dos comitês, que se dedicam arduamente a planejar e executar as novas diretrizes de Meishu-Sama, sempre atentos aos cenários interno e externo. Tenho a feliz certeza de que, no próximo ano, eles manifestarão um poder ainda maior e nos permitirão alcançar resultados grandiosos.
+
+**Moderador:** A seguir, ao analisarmos o cenário econômico deste ano, observamos uma forte tendência inflacionária. Em um mundo marcado pela instabilidade, com quedas bruscas na bolsa de valores e os efeitos do fim da Guerra da Coreia, nossa Igreja avançou em todas as frentes sem qualquer impedimento. Embora isso se deva, naturalmente, à proteção de Meishu-Sama, gostaria de pedir ao Reverendo Takeda que comente sobre este ponto.
+
+**Takeda:** A causa fundamental é, sem dúvida, a imensa virtude de Meishu-Sama. No início do ano, foram criados seis departamentos, aos quais se somou posteriormente o de Divulgação da Agricultura Natural, totalizando sete. O fato de esses departamentos terem atuado de forma integrada foi um fator decisivo. Graças a isso, apesar das grandes turbulências no mundo, os presidentes de Igreja puderam se dedicar à construção do Paraíso Terrestre, nosso ideal, o que contribuiu enormemente para o nosso progresso. Pensando no próximo ano, como seres humanos, não podemos prever as mudanças que ocorrerão. Contudo, independentemente do que aconteça, se nos dedicarmos unicamente a executar a Vontade de Meishu-Sama, tenho a certeza de que, no devido tempo, nosso desenvolvimento será infalível.
+
+**Moderador:** Agora, gostaria de pedir a palavra ao Reverendo Kihara. Reverendo, em meio a suas inúmeras atribuições, o senhor sempre nos orienta sobre a postura que nós, ministros, devemos ter para materializar a Vontade de Meishu-Sama. Recentemente, assumiu também a presidência da Associação de Divulgação da Agricultura Natural, que se prepara para uma grande expansão. Diante de sua agenda cada vez mais intensa, peço que, em retrospectiva a este ano, nos ofereça uma palavra sobre a determinação que devemos ter para o ano que se inicia.
+
+**Kihara:** De fato, a Sekaikyuseikyou e o Templo Messias podem ser comparados ao espírito e ao corpo. Como Meishu-Sama sempre nos ensina, a Obra Divina se realiza através de modelos. Portanto, a expansão no exterior e todos os demais avanços correspondem ao progresso da construção do Templo Messias. Este ano, concluímos as obras de Hakone, e o museu recebeu um grande número de visitantes. Toda pessoa que ali adentra recebe um elo da linha espiritual de Deus, que se torna o fio condutor para a sua salvação. O mesmo se aplica à Agricultura Natural. A questão não é ser membro ou ter fé. A salvação é determinada unicamente pela decisão de praticar ou não os ensinamentos. Refletindo sobre isso, compreendemos o que Meishu-Sama quer dizer ao afirmar que a Sekaikyuseikyou é uma religião de ação; é a materialização de um pragmatismo salvífico. Acredito que ainda somos muito apegados a teorias e nos falta a ação que testemunha com o próprio corpo. Em um ensinamento recente, Meishu-Sama afirma que o ser humano é como um amontoado de sangue e pus. Eu, que sou mais antigo na fé e já passei por três grandes purificações, ao olhar para mim mesmo, vejo que meus pontos positivos são menos numerosos que os negativos. Isso significa que estou muito maculado. É evidente que o detentor de um corpo assim não deveria ser capaz de cumprir uma missão tão elevada. No entanto, o fato de eu ser utilizado incessantemente na Obra Divina se deve unicamente à proteção de Deus. Como parte da liderança da Igreja, temos o dever de ser o núcleo. Portanto, a menos que nos tornemos possuidores de um espírito e alma puros até o âmago, não seremos capazes de cumprir nossa missão de forma digna. Se mantivermos essa postura, ela certamente se transmitirá aos presidentes de Igreja e aos ministros. Em última análise, posso afirmar com clareza que o rumo dos qualificadores e dos membros em geral depende de nós. Quanto à Associação de Divulgação da Agricultura Natural, embora a tratemos como algo distinto da fé, o sujeito que a executa é a Sekaikyuseikyou. Nosso anseio é que os agricultores possam, o quanto antes, transitar da condição lastimável em que se encontram para um estado de felicidade. Muitas vezes, ouço comentários como: "Em minha Igreja, há poucos agricultores, então isso não me diz respeito". Isso é um equívoco. Todos devemos cooperar ativamente. Nossa única tarefa é nos empenharmos em concretizar as palavras de Meishu-Sama assim que elas são proferidas. De onde se origina a infelicidade atual? Ela surgiu na exata medida em que a humanidade se afastou da Vontade de Deus. O fato de as pessoas sofrerem com doenças e os agricultores com as pragas de insetos pode ser explicado de forma simples: por terem ignorado a Deus, agora são atormentados por insetos. Em uma palavra, para o ano de 1954, devemos promover o extermínio dessa praga que é ignorar a Deus.
+
+**Moderador:** Nosso tempo está se esgotando. Para encerrar, gostaria de pedir uma palavra final ao Presidente Ōkusa.
+
+**Ōkusa:** Hoje, ouvimos as valiosas palavras dos reverendos aqui presentes. Ao refletirmos sobre este ano, encontramos muitos pontos para autoanálise. No próximo ano, desejo me dedicar com sinceridade ainda maior para servir à Obra Divina.
+
+**Moderador:** Muito obrigado a todos. Declaro encerrada esta mesa-redonda.
+
+---
+
+# Mesa-redonda com a Sra. Ino, produtora de uma colheita estimada em dezoito fardos
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
+**Título Original:** 参考文献 「自然栽培の佐渡」座談会 推定反収十八俵の作者伊野さんを囲んで | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
+
+## Mesa-redonda com a Sra. Ino, produtora de uma colheita estimada em dezoito fardos
+
+**Incluído na obra “Explicação da Agricultura Natural”**
+
+**Igreja Johrei de Chukyo**
+**Data:** 22 de outubro de 1952
+**Horário:** Visita de campo pela manhã, mesa-redonda à tarde
+**Local da visita:** Propriedade de Masao Ino, Ichiba, Mizunami-Toki-cho, Toki-gun, Província de Gifu
+**Local da mesa-redonda:** 3-11 Shumoku-cho, Higashi-ku, Cidade de Nagoia
+**Moderador:** Harunosuke Taki
+**Palestrantes:** Masao Ino e outros
+**Participantes:** Mais de cinquenta pessoas
+
+### Dezoito fardos de uma colheita em que espigas florescem sobre espigas
+
+**Moderador:** Damos início, neste momento, à nossa mesa-redonda sobre o cultivo de arroz pelo método da Agricultura Natural, que tivemos a oportunidade de observar em nossa visita de campo. Com a vossa permissão, assumirei o papel de moderador. Sra. Ino, poderia nos dizer, este é o seu quantos anos de Cultivo Natural?
+
+**Sra. Ino:** Este é o quarto ano.
+
+**Moderador:** Qual foi a sua colheita real no ano passado?
+
+**Sra. Ino:** Foi de aproximadamente dezesseis fardos por `tan`.
+
+**Moderador:** Compreendo. E qual é a sua estimativa para este ano?
+
+**Sra. Ino:** Estimo em dezoito fardos. Nas lavouras adubadas da vizinhança, a média é de sete a oito fardos.
+
+**Moderador:** No início, a senhora foi alvo de zombaria por parte dos vizinhos? Houve oposição dentro de sua própria casa?
+
+**Sra. Ino:** Sim, houve uma oposição considerável. Fui chamada de louca e coisas do gênero, chegando a um ponto em que quase fui deserdada pela minha família. Contudo, roguei a Deus e insisti que me concedessem três anos para que vissem os resultados. Com essa determinação, obtive um êxito esplêndido, como podem agora constatar.
+
+**Moderador:** A senhora deu início a essa prática depois que seu marido retornou da guerra?
+
+**Sra. Ino:** Comecei um ano antes do seu retorno.
+
+**Moderador:** Então, a senhora superou toda a oposição por conta própria.
+
+**Sra. Ino:** Sim.
+
+**Moderador:** E como estão os resultados hoje? Qual é, em média, o perfilhamento das plantas?
+
+**Sra. Ino:** Varia de trinta a quarenta perfilhos, mas podem considerar uma média de trinta para um cálculo seguro.
+
+**Moderador:** Entendo. Este caule aqui (segurando um pé de arroz do Cultivo Natural) assemelha-se ao capim-dos-pampas, não é mesmo? É um tanto diferente da palha comum.
+
+**Sra. Ino:** Exato. Por isso, os condutores de carroças dizem que uma palha tão rija como esta não serve para eles, que preferem algo mais macio.
+
+**Moderador:** Quantos grãos, aproximadamente, há nesta espiga?
+
+**Sra. Ino:** Bem, nas contagens que fiz em casa, encontrei entre duzentos e oitenta e duzentos e noventa grãos.
+
+**Moderador:** E hoje, quais foram os resultados das contagens feitas pelos senhores? Quem contou, por favor, compartilhe seus números.
+
+**Participante A:** Contei entre cento e noventa e duzentos grãos.
+
+**Participante B:** Na minha contagem, obtive de cento e sessenta a duzentos e vinte grãos.
+
+**Participante C:** Cerca de duzentos e trinta grãos.
+
+**Moderador:** Observando atentamente, nota-se que da bainha da folha surgem ramos, e nestes, há de cinquenta a setenta grãos. Este é um fenômeno, ouso dizer, sem precedentes. Que ramos com espigas brotem da bainha da folha é algo que podemos afirmar nunca ter sido visto. E isso se repete em todas as plantas. Com efeito, a antiga metáfora de que "em anos de fartura, espigas florescem sobre espigas" tornou-se aqui uma realidade. Creio que, com mais algum tempo, veremos algo ainda mais extraordinário.
+
+### A sabedoria sutil no plantio
+
+**Moderador:** Como a senhora realiza o plantio?
+
+**Sra. Ino:** Planto uma muda por vez. No caso de mudas muito pequenas, às vezes uso duas, mas a grande maioria é de apenas uma.
+
+**Moderador:** E qual foi o espaçamento adotado?
+
+**Sra. Ino:** Um `shaku` e três `sun` por um `shaku`.
+
+**Moderador:** E no ano passado?
+
+**Sra. Ino:** Foi de um `shaku` e dois `sun` por um `shaku`.
+
+**Moderador:** Então, este ano a senhora aumentou o espaçamento. Com base na sua experiência prática, qual foi a sua impressão sobre o resultado dessa mudança?
+
+**Sra. Ino:** No primeiro ano, plantei com um espaçamento de um `shaku` por oito `sun`, e notei uma grande diferença entre as espigas das bordas e as do centro. As do centro eram ralas, enquanto as das bordas eram densas. Refleti sobre isso e decidi experimentar um plantio mais espaçado no terceiro ano, imaginando que um espaço maior daria às plantas ampla margem para o perfilhamento. Em 1952, resolvi aumentar ainda mais o espaçamento e coloquei o plano em prática.
+
+**Moderador:** E essa abordagem produziu melhores resultados, correto?
+
+**Sra. Ino:** Sim.
+
+**Sr. Okumura:** Quanto ao mofo, ou fungo, tenho visto uma incidência considerável em outras lavouras. Ao observar seus campos, pareceu-me haver um pouco, mas a senhora não desinfeta as sementes, não é?
+
+**Sra. Ino:** Não, não realizo desinfecção.
+
+**Moderador:** O mofo surge devido ao veneno residual dos adubos.
+
+**Sra. Ino:** Aparentemente, este ano a incidência foi bem menor que no ano passado.
+
+**Moderador:** Ela diminuirá a cada ano. A desinfecção com produtos químicos, por sua vez, atrai pragas.
+
+**Sr. Okumura:** E se a aplicação for feita apenas nas folhas e sementes, sem atingir o solo?
+
+**Moderador:** O Johrei também pode cumprir o papel de desinfecção. Seu poder é absoluto e infinito, portanto não há com o que se preocupar. Há um relato a esse respeito: um agricultor, aflito com uma infestação severa, foi à igreja e consultou o ministro, que o orientou a ministrar Johrei. O agricultor assim o fez em sua plantação, e o número de insetos diminuiu drasticamente. Ouvimos muitos relatos semelhantes. A desinfecção de hortaliças e campos agrícolas é absolutamente inadmissível, mesmo que apenas nas folhas.
+
+**Sr. Ota:** A senhora ministra Johrei nos canteiros de mudas?
+
+**Sra. Ino:** Sim, ministro Johrei.
+
+**Sr. Ota:** Com que frequência?
+
+**Sra. Ino:** Como é meu caminho habitual, ministro um pouco a cada vez que passo, de pé na borda do canteiro. As mudas ficam amareladas, com uma espécie de ferrugem vermelha. Uma pessoa comum, ao ver, diria que é um absurdo plantar mudas assim. Nós, porém, pela experiência, plantamo-las sem a menor preocupação.
+
+**Sr. Ota:** De quantas sementes a senhora precisa para um `tan`?
+
+**Sra. Ino:** Até então, eu usava um pouco a mais, por receio de que não germinassem. Mas com aquela quantidade, usei cerca de dois `shō` e cinco `gō` de sementes para uma área de um `tan` e cinco `se`.
+
+**Sr. Adachi:** Qual é a área do seu canteiro?
+
+**Sra. Ino:** Cinco `se` por `tan`.
+
+**Sr. Araki:** Gostaria de perguntar à Sra. Ino: a água no canteiro é mantida constantemente?
+
+**Sra. Ino:** Sim, o canteiro está sempre com água.
+
+**Sr. Okumura:** Peço perdão por retroceder um pouco no assunto. Em minha propriedade, não tenho um viveiro de mudas. Até hoje, tenho utilizado mudas de sequeiro ou alugado canteiros. O cultivo de mudas de sequeiro contraria os princípios da Agricultura Natural?
+
+**Moderador:** Sim, não é recomendável. Nesses casos, como não há alternativa, creio que o melhor seria optar pela semeadura direta. Isso também elimina uma etapa do trabalho de transplante.
+
+**Sr. Okumura:** Então, a semeadura direta seria feita na mesma época em que se semeia nos canteiros de mudas?
+
+**Moderador:** Exatamente.
+
+**Sr. Nakajima:** A senhora semeia cedo nos canteiros?
+
+**Sra. Ino:** Semeio cerca de dez dias antes do que é comum na região.
+
+**Participante A:** Então o plantio também é antecipado, imagino.
+
+**Sra. Ino:** Nas áreas onde não cultivo trigo, plantei em 10 de junho. Nas áreas de safra dupla, com trigo, o plantio foi realizado em 21 de junho. O desenvolvimento inicial é muito diferente, mas o florescimento das espigas ocorreu todo ao mesmo tempo.
+
+**Sr. Nakajima:** Houve diferença no rendimento da colheita entre o plantio antecipado e o tardio?
+
+**Sra. Ino:** Sim, a diferença no resultado é muito grande.
+
+**Sr. Nakajima:** A diferença se mantém até o final?
+
+**Sra. Ino:** Sim, mantém-se.
+
+### O composto natural serve apenas para amaciar e aquecer o solo
+
+**Sr. Onoshima:** Gostaria de saber que quantidade de matéria orgânica foi incorporada a essa lavoura até hoje.
+
+**Sra. Ino:** Nos três anos anteriores, incorporei toda a palha colhida. Este ano, contudo, achei melhor não adicionar tanto e usei cerca de metade da palha, cortando-a em pedaços pequenos.
+
+**Sr. Onoshima:** E qual a razão para essa decisão?
+
+**Moderador:** A finalidade é aquecer o solo e promover um bom desenvolvimento das raízes. Temos aqui amostras de plantas cultivadas com e sem adubo. A planta adubada tem um sistema radicular fraco, por isso tomba facilmente. A planta da Agricultura Natural, por sua vez, cresce com a força do próprio solo, e suas raízes são longas. É por essa razão que incorporamos a palha. O objetivo não é fertilizar, mas aquecer e amaciar o solo. A causa de um rendimento insatisfatório reside nos resquícios de adubos aplicados no passado que ainda permanecem no solo; em outras palavras, o solo está ligeiramente ácido. Conforme se cultiva por muitos anos sem adubos, essa acidez é gradualmente removida, e a colheita aumenta progressivamente. Portanto, embora as culturas nos campos e hortas sejam produzidas pelo esforço humano, sua base fundamental é a graça do Céu e da Terra. Elas não crescem pelo poder dos fertilizantes. Logo, ao purificar o solo, ele manifesta sua força e produz em abundância. Assim, pode-se preparar composto, mas é preciso ter em mente o princípio da pureza. Não se deve utilizar água do banho ou dejetos humanos. No ano passado, durante minha visita, observei um local onde uma vaca havia urinado. As plantas cresceram cerca de um `shaku` a mais, mas apresentavam muitas espigas secas. Rimos ao ver como a urina de uma única vaca deixara uma marca tão evidente, mas isso me fez compreender claramente que as colheitas nos são concedidas pelo poder de Deus. É por macular a terra que as colheitas fracassam. Se mantiverem este ponto como premissa, creio que a compreensão se tornará simples.
+
+**Sr. Kojima:** Na propriedade da Sra. Ino, o cultivo de arroz é de safra única ou dupla?
+
+**Sra. Ino:** Pratico ambos, safra única e safra dupla.
+
+**Moderador:** Qual deles apresenta melhores resultados?
+
+**Sra. Ino:** A safra única é muito superior.
+
+**Moderador:** Em sua estimativa, Sra. Ino, qual é a diferença em fardos entre a safra única e a dupla?
+
+**Sra. Ino:** Creio que a diferença seja de cerca de três fardos.
+
+**Moderador:** Então, de modo geral, a safra dupla rende cerca de quinze fardos, e a safra única, dezoito. Em última análise, a safra dupla representa um prejuízo, não?
+
+**Sra. Ino:** É um trabalho penoso e que não compensa (risos). A diferença entre plantar ou não o trigo é realmente enorme. É muito mais tranquilo.
+
+**Moderador:** Na época da colheita do arroz, é preciso semear o trigo, o que leva a uma colheita apressada. Na Agricultura Natural, com a safra única, não há essa pressa, e os feixes de arroz podem permanecer no campo até a maturação completa. Nesses últimos dias, os grãos crescem e enchem consideravelmente, o que representa um grande ganho. A sua forma arredondada era totalmente diferente.
+
+**Sr. Ota:** A respeito da palha, ela é incorporada ao solo logo após a colheita? Em que estado de decomposição ela é adicionada?
+
+**Sra. Ino:** Eu separo a quantidade que vou usar, empilho e depois incorporo. Se ficar muito úmida e pegajosa, torna-se difícil de manusear, então deixo-a secar um pouco e a incorporo quando está meio decomposta.
+
+**Sr. Ota:** E em que época isso é feito?
+
+**Sra. Ino:** Eu fiz por volta de março. Nos momentos de menor atividade, como após uma chuva, quando não é possível realizar outros trabalhos, vou ao campo, corto a palha e a amontoo.
+
+**Sr. Ota:** A palha um pouco decomposta também é mais fácil de cortar, não é?
+
+**Sra. Ino:** Quando está fresca, ela escorrega e é difícil de cortar.
+
+**Sr. Okumura:** Até esse momento, o campo permanece sem ser arado?
+
+**Sra. Ino:** Deixo as ervas que crescem naturalmente se desenvolverem.
+
+**Sr. Okumura:** Após a colheita do arroz, os restolhos são deixados intactos, sem serem revolvidos?
+
+**Sra. Ino:** Sim, deixo como estão.
+
+**Sr. Okumura:** E então, por volta de março, a senhora ara tudo?
+
+**Sr. Adachi:** Qual é a profundidade da água durante o transplante?
+
+**Sra. Ino:** Como tenho controle sobre a água, mantenho-a apenas no nível suficiente para cobrir o solo.
+
+**Moderador:** O arroz da Agricultura Natural não apodrece, mesmo que fique submerso.
+
+**Sra. Ino:** A lavoura que os senhores viram hoje ficou submersa por três ou quatro dias, parecia um mar, mas nada sofreu.
+
+### O segredo do sucesso não é outro senão a prática obediente
+
+**Sr. Onoshima:** O que me enche de esperança é o seguinte: mesmo homens que se dedicam à pesquisa com alma e coração têm grande dificuldade em ultrapassar a marca dos quinze fardos. O fato de uma mulher ter alcançado tal resultado me parece conter algo de misterioso.
+
+**Moderador:** Pois bem, revelarei esse segredo. É simples: basta entregar tudo a Deus. A Sra. Ino não é uma agricultora de profissão, mas uma leiga. Por não ter conhecimento prévio sobre agricultura, ela apenas seguiu obedientemente o que Meishu-Sama orientou. Nós apenas transmitimos as palavras de Meishu-Sama, e ela as pratica com obediência. Há agricultores experientes que estão migrando totalmente para a Agricultura Natural, mas muitos ainda acreditam que o método herdado de seus antepassados é o correto. Essa concepção está arraigada em suas mentes. Com isso, pensam: "Nós sabemos um pouco mais sobre agricultura do que Meishu-Sama ou os ministros", e então tentam fazer ajustes aqui e ali, em vez de praticar com obediência as orientações de Meishu-Sama. Por essa razão, acabam se lamentando mais tarde: "Ah, se eu soubesse...". Se, em vez de se julgarem muito espertos, eles se dispusessem a agir com simplicidade, obteriam resultados tão esplêndidos quanto os da Sra. Ino. Não temos apreço por pesquisadores que insistem em seus próprios métodos. Deve-se seguir os Ensinamentos como são.
+
+**Sr. Okumura:** Em minha região, dizem que é preciso congelar o solo, senão a colheita é fraca. Se o campo for arado em março, não creio que o solo congele o suficiente.
+
+**Moderador:** Mesmo na planície de Nobi, as áreas mais frias congelam, mas as mais quentes não. Não é o caso de não se colher arroz onde o solo não congela. Há quatro ou cinco dias, saiu uma matéria no jornal Chubu Nippon que dizia: "Na fria província de Gifu, há locais com quebra de safra de 30 a 50%. Houve danos por pragas". A causa disso são os adubos e os agrotóxicos, que geram as pragas naturalmente. Portanto, se eliminarmos completamente os adubos, os danos por pragas desaparecerão ano após ano, e não haverá necessidade específica de congelar o solo. Mudando de assunto, no cultivo de trigo, é preciso compactar o solo quando ele congela. O congelamento faz com que as raízes subam à superfície, e por isso a compactação é necessária. Onde o solo não congela, não há necessidade de compactá-lo. No cultivo de arroz, não há nenhuma necessidade específica de congelar o solo. Basta proceder da maneira usual. É melhor não despender trabalho desnecessário.
+
+**Sr. Ito:** Qual é a profundidade média do solo arável?
+
+**Sra. Ino:** Em média, não chega a um `shaku`.
+
+**Participante A:** Creio que seja de aproximadamente um `shaku` e dois `sun`. Como ela ara cerca de metade disso, não seria em torno de seis `sun`?
+
+**Sra. Ino:** Na minha propriedade, eu aro duas vezes. A maioria das pessoas ara uma vez e meia, mas eu faço duas passadas.
+
+**Sr. Miyata:** Ao incorporar toda a palha colhida de um `tan`, não creio que ela se misture bem ao solo de uma só vez.
+
+**Sra. Ino:** Isso não acontece. Se a palha for cortada em pedaços pequenos, parece até que é pouca. Cortando-a em fragmentos de cerca de cinco `bu` (originalmente seria um ou dois `bu`), ao cavar, não se percebe a diferença entre as áreas onde a palha foi incorporada e onde não foi.
+
+**Moderador:** Como os fardos também são necessários, seria prudente reservar a quantidade de palha de que precisa.
+
+**Sr. Miyata:** A incorporação de palha pode corrigir o problema de uma lavoura de água fria? Ou uma lavoura fria permanece sempre fria? A água fria se infiltra...
+
+**Moderador:** A água se infiltra a partir de um ponto específico ou de toda a área da lavoura?
+
+**Sr. Miyata:** De um ponto específico.
+
+**Moderador:** Deve-se criar um canal a partir do ponto onde a água entra na lavoura. A água que brota da fonte é muito fria. Construa um canal que a faça dar uma volta completa ao redor do campo. É preciso evitar que ela entre diretamente na área de cultivo. Dessa forma, a água se aquecerá e a colheita será boa.
+
+**Sra. Ino:** A lavoura foi arada apenas duas vezes, e usei a capinadeira umas duas vezes também. Primeiro, revolvo o solo com uma ferramenta chamada `sanpō-bitchū`, espero um tempo até que o mato se decomponha, passo a capinadeira e só então faço a primeira capina manual.
+
+### Sobre a semeadura direta
+
+**Sr. Miyata:** No caso da semeadura direta em leirões, o procedimento é semelhante ao do arroz de sequeiro, ou se semeia com o espaçamento de um `shaku` e dois ou três `sun`, como no campo atual?
+
+**Moderador:** Em áreas irrigadas, creio que seja melhor preparar o solo e manter uma fina lâmina de água, ou, mesmo em solo seco, nivelar o terreno. Há locais onde se fazem pequenas perfurações com uma vareta de madeira e se depositam uma ou duas sementes, mas o mais comum é uma semente por cova. Em Ogaki, estão praticando esse método em áreas alagadas. Lá, eles fazem leirões e semeiam na lateral, com resultados excelentes. Fazem um pequeno furo com algo semelhante a um atiçador de brasas, depositam uma semente e a cobrem com uma fina camada de terra. Esse método tem se mostrado mais eficiente. Semear a lanço, como sugeriu o Sr. Ito, parece-me um grande desperdício.
+
+**Sr. Ito:** E exige muito trabalho.
+
+**Moderador:** O objetivo principal é reduzir o trabalho. A bênção divina não seria completa se não pudéssemos trabalhar menos e colher mais, não é mesmo? (Risos).
+
+**Sr. Miyata:** No caso de se aprofundar a camada arável, é melhor fazê-lo em março, ao arar o campo, ou logo após a colheita do arroz?
+
+**Moderador:** Pode ser feito em qualquer época. Como é uma tarefa que só pode ser realizada quando há tempo disponível, o ideal é executá-la quando surgir uma oportunidade.
+
+**Sr. Miyata:** Na semeadura direta em leirões, qual deve ser a largura deles?
+
+**Sr. Ito:** Um `shaku`. Como foi dito anteriormente, um espaçamento maior favorece o perfilhamento.
+
+**Moderador:** Em geral, um `shaku` e três `sun` ou um `shaku` seria o ideal. De qualquer forma, é importante garantir que a luz do sol chegue abundantemente à base das plantas.
+
+**Sr. Okumura:** E qual deve ser a altura dos leirões?
+
+**Sr. Ito:** É o mesmo que no método comum, em que se cava um sulco e se cobre a semente com a terra.
+
+### O veneno das sementes tem grande influência
+
+**Moderador:** Uma vez que comecem a praticar o Cultivo Natural, peço que continuem utilizando as sementes da própria colheita. Se as sementes forem trocadas, o solo precisará se adaptar para nutri-las, o que desencadeará um processo de purificação de um ano, resultando em quebra de safra. Ao manter as mesmas sementes, a quebra de safra é evitada e a produção melhora continuamente. Seja qual for a semente, é melhor continuar com a que foi usada no início. Os agricultores mais dedicados têm um forte espírito de pesquisa e colecionam diversas variedades de sementes, mas muitos já fracassaram por isso. O princípio é não trocar as sementes. E também praticar o cultivo contínuo.
+
+**Sr. Onoshima:** A lavoura que visitamos hoje é cultivada continuamente ano após ano?
+
+**Moderador:** Sim. Qual é a variedade da semente?
+
+**Sra. Ino:** Shin Tokai Asahi.
+
+**Moderador:** Quanto mais dedicado é o agricultor, maior é a quebra de safra. Isso ocorre porque os agricultores mais dedicados usam mais adubos. Nos arredores das grandes cidades, a adubação é intensa. E entre eles, os mais zelosos usam ainda mais fertilizantes, por isso a quebra de safra no primeiro ano é inevitável. Nas regiões montanhosas, o transporte de adubos é difícil, então eles não são usados em grande quantidade.
+
+**Sr. Nakajima:** Nesses casos, existe alguma forma de, ao menos, amenizar a quebra de safra?
+
+**Moderador:** Não, não existe.
+
+**Sr. Nakajima:** É preciso passar pela purificação do adubo que foi aplicado?
+
+**Moderador:** Exato. Assim como, ao tomar um remédio, o veneno contido nele deve ser purificado através de uma doença, o mesmo ocorre com o solo. É claro que a bênção recebida varia de acordo com o grau de fé.
+
+**Sr. Okumura:** Mesmo que eu decida praticar a Agricultura Natural em minha propriedade, se as lavouras a montante, de onde flui a água, utilizarem grandes quantidades de sulfato de amônio e superfosfato, essas substâncias solúveis se dissolverão na água e chegarão ao meu campo. Numa situação como essa, se minha convicção na Agricultura Natural não for abalada, os danos não serão tão significativos?
+
+**Moderador:** Haverá algum dano, mas ele não será determinante a ponto de comprometer o resultado. Seria maravilhoso se todo o país adotasse o Cultivo Natural, não é mesmo? Se os homens de hoje vivessem para ver isso, ficariam estarrecidos.
+
+**Sra. Ino:** Gostaria de expor meu pensamento sobre esse ponto. A segunda lavoura que visitamos, que está no segundo ano de Agricultura Natural, foi plantada com as mesmas sementes da lavoura de quatro anos. O agricultor anterior daquela área era uma pessoa muito dedicada e usava uma quantidade considerável de adubos, então eu já esperava que houvesse um alto teor de veneno no solo. Mesmo assim, levei as sementes da lavoura de quatro anos e as plantei ali. Por essa razão, a produção aumentou tanto em apenas dois anos. Isso me leva a crer que, além do veneno do solo, o veneno contido nas próprias sementes também exerce uma influência muito grande.
+
+**Moderador:** Com toda certeza. O veneno das sementes é considerável. Podemos entender isso fazendo uma analogia com os seres humanos: um filho nascido na juventude é mais forte do que um filho nascido na velhice. Isso ocorre porque, com o passar dos anos, as pessoas tomam muitos remédios, e o veneno desses medicamentos nos pais é herdado pelos filhos. Por isso, os filhos da velhice são mais frágeis. O mesmo se aplica às sementes: se não houver veneno nelas, a purificação necessária será menor. Tenho dito isso em vários lugares: ao iniciar na Agricultura Natural, peçam que lhes doem sementes já purificadas do veneno dos adubos.
+
+Acredito que, com o que foi exposto, a convicção daqueles que ainda não praticam a Agricultura Natural tenha se fortalecido. O que os senhores acham? Surgiu o desejo de experimentar, mesmo que em um ou dois `tan`? Mesmo sem fé, se seguirem as orientações de Meishu-Sama, obterão resultados esplêndidos. Trata-se de um método absolutamente científico, portanto, o aumento da colheita é possível mesmo sem a fé. O próprio Meishu-Sama afirma isso, então gostaria muito que os senhores o praticassem. Especialmente agora, com a colheita do arroz se aproximando, muitos planejam semear o trigo em seguida. Se tiverem o desejo de mudar para o Cultivo Natural, peço que não semeiem o trigo. Com a safra única, creio que não haverá quebra de safra desde o primeiro ano. A economia rural é fundamental, pois ela governa a nação. A maior parte do que os senhores entregam ao governo não se destina a cobrir os custos com fertilizantes?
+
+**Sr. Onoshima:** Não a maior parte, mas na situação atual, precisamos reservar dois terços da receita para os custos com adubos.
+
+### Uma grande revolução na economia rural
+
+**Moderador:** Se o custo com adubos for completamente eliminado, o impacto na economia rural será tremendo. Será uma grande revolução. Gostaria que cada um dos senhores se tornasse um bravo guerreiro desta revolução sem sangue e a divulgasse amplamente. Não é apenas para o bem dos senhores, mas para toda a humanidade. O tempo avançou bastante, então gostaria de encerrar por aqui, mas o ensinamento da Sekaikyuseikyou preconiza o cultivo contínuo. Ou seja, a terra se familiariza com a cultura, e a produção melhora. Se o trigo for cultivado no campo de sequeiro e o arroz na várzea, com uma divisão clara, os resultados serão excelentes. O arroz se torna o masculino, e o trigo, o feminino. Ao alternar o cultivo de um e de outro no mesmo local, a terra precisa constantemente mudar sua força, o que a impede de manifestar plenamente o potencial do arroz. Por isso, é imprescindível adotar a safra única e deixar a terra repousar nos outros seis meses. Assim como o ser humano trabalha de dia e dorme à noite, vivendo metade do tempo em repouso, também os campos e as lavouras se beneficiam do descanso. Mesmo cultivando dessa forma, a economia rural de forma alguma se enfraquecerá. Pelo contrário, a colheita se tornará muito mais abundante, e a economia rural prosperará daqui para frente. Este é o ensinamento da Sekaikyuseikyou, e peço que o pratiquem com obediência e com essa mentalidade. Agradeço a todos pela longa participação. Dou por encerrada a mesa-redonda de hoje sobre a Agricultura Natural.
+
+A título de referência, informamos que a cifra de dezoito fardos é uma estimativa para uma área de nove `se` em seu quarto ano de safra única. A razão para a estimativa é que, da área total de dois `tan` e seis `se`, o restante se dividia em um `tan` e um `se` no quarto ano de safra dupla, cinco `se` no segundo ano de safra dupla, e um `se` utilizado como canteiro, cujas produções foram todas misturadas. Por essa razão, não foi possível apresentar um número exato. O total geral foi de treze `koku` e sete `shō`, o que resulta em uma média de doze fardos e um `shō` por `tan`. No próximo ano, pretendemos realizar um cálculo preciso.
+
+---
+
+# Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
+
+**Categoria:** sasshi | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** 御Hikari話録
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-01-20
+
+## Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
+
+**Pergunta: Que relação existe entre o fato de o Grande Mestre ter se manifestado outrora como o general Yoshitsune e a sua identidade atual como um amante da paz?**
+
+Isso se deve ao fato de que Kannon (観音), em Sua função como corpo de manifestação, pode assumir qualquer forma. Batou Kannon, por exemplo, é uma deidade guerreira; por isso, sua face é aterradora, com a boca rasgada até as orelhas. No caso de Yoshitsune, havia uma razão para que ele agisse daquela maneira naquela época específica.
+
+**Pergunta: Sinto-me constrangido em perguntar, mas podemos acreditar que Vossa Reverência continuará a nos conceder as sagradas caligrafias da “Luz Divina” até o dia da conclusão do Paraíso Terrestre? Indago respeitosamente, pois circulam diversos boatos.**
+
+Indubitavelmente. Continuarei a inscrevê-las enquanto eu viver. Podem existir vários boatos, mas, em tais ocasiões, consultem-me diretamente. A verdade será esclarecida de imediato.
+
+**Pergunta: Em uma residência com duas alcovas, seria apropriado entronizar, separadamente, as imagens de Daikomyo Nyorai e Komyo Nyorai?**
+
+Não há nenhuma necessidade disso. Basta que entronizem uma das duas na alcova principal. Venerar ambas as imagens seria, de fato, um equívoco.
+
+**Pergunta: Um fiel devoto, de posses modestas, construiu uma pequena casa de seis tatames com a intenção de ampliá-la gradualmente. Contudo, ele deseja preparar uma alcova esplêndida para nela entronizar a imagem de Daikomyo Nyorai. Seria apropriado?**
+
+É aceitável. Todavia, a desproporção deve ser evitada. O ideal é que haja harmonia, ainda que com um toque de esplendor. Um pergaminho grande em uma alcova pequena não é adequado. É preciso respeitar o que chamo de “Princípio da Proporcionalidade”; tudo deve estar em devida correspondência.
+
+**Pergunta: Durante os cursos de formação, por falta de espaço na sede, alugamos pousadas e outros locais. Nesses casos, temos entronizado temporariamente a imagem de Daikomyo Nyorai na alcova da pousada para realizar o curso. Isso é permissível?**
+
+Não, isso não é correto. Trata-se de um procedimento equivocado. Se for necessário expor um pergaminho, em vez da imagem de Komyo Nyorai, seria mais apropriado utilizar uma caligrafia como “Luz” ou “Verdade, Bem e Belo”.
+
+**Pergunta: Isso se aplica apenas ao caso das pousadas?**
+
+Não, não se restringe a pousadas. Não é correto mover o Objeto de Veneração de seu local. Uma vez que o Objeto Sagrado é entronizado em um lugar determinado, não deve ser movido levianamente.
+
+**Pergunta: E no caso das imagens (fotografias)?**
+
+O mesmo se aplica às imagens. Também não devem ser movidas.
+
+**Pergunta: Seria apropriado emprestar temporariamente o meu Objeto de Veneração para ser entronizado em uma filial da Igreja?**
+
+Nesse caso, não há problema, desde que ele permaneça fixo no local para ser venerado. Da mesma forma, é permissível emprestar o Objeto de Veneração a outra pessoa, provisoriamente, até que ela receba o seu próprio.
+
+**Pergunta: Há pessoas que recebem o Objeto de Veneração às escondidas da família, pois seus familiares não compreendem o seu significado. Como proceder?**
+
+Ah, isso não é correto. A pessoa deve recebê-lo somente após a família atingir um certo grau de compreensão. Não se deve pensar que a compreensão virá mais rápido simplesmente por se receber o Objeto de Veneração antecipadamente. Pelo contrário, se for para recebê-lo e mantê-lo guardado, é preferível que ele seja destinado a alguém que possa entronizá-lo imediatamente.
+
+**Pergunta: E quanto aos quadros caligráficos?**
+
+Em princípio, o mesmo se aplica a eles, embora a questão não seja tão rigorosa quanto com o Objeto de Veneração. Contudo, se a pessoa o recebe antecipadamente por conveniência do emoldurador ou por questões financeiras, não há problema. Igualmente, se alguém o recebe pensando: “O Grande Mestre ficará muito ocupado e talvez não seja mais possível receber quadros no futuro, então é melhor garantir o meu agora”, isso é aceitável.
+
+**Pergunta: Seria adequado receber a formação religiosa em segredo?**
+
+Bem, deve-se agir com discernimento, conforme as circunstâncias. O importante é evitar que isso se torne motivo de conflito familiar.
+
+**Pergunta: É permissível presentear outra pessoa com um biombo caligráfico?**
+
+Presentear? Enviando pelo correio?
+
+**Pergunta: Não, refiro-me a ofertá-lo a alguém...**
+
+Não há impedimento. Contudo, não se deve impô-lo a ninguém. Não seria correto se a pessoa que o recebe pensasse: “Que incômodo, mas, já que ele se deu ao trabalho de trazer, vou aceitar”.
+
+**Pergunta: Ao ofertá-lo, os antepassados não sofrerão?**
+
+De forma alguma.
+
+**Pergunta: Quando um fiel se afasta do caminho da fé por algum motivo, ou quando falece e sua família não possui crença, qual deve ser o destino das fotografias, do Objeto de Veneração, dos quadros caligráficos e outros itens sagrados?**
+
+Nesses casos, a decisão deve ser deixada ao arbítrio da própria pessoa ou de seus familiares.
+
+**Pergunta: Seria apropriado que outra pessoa os recebesse?**
+
+Sim, seria excelente.
+
+**Pergunta: Fomos instruídos de que, no caso de falecimento de um fiel, o amuleto sagrado deve ser cremado junto ao corpo. E em casos de sepultamento?**
+
+Isso também deve seguir o desejo da família. Contudo, no caso de sepultamento, seria preferível remover o amuleto em vez de enterrá-lo junto ao corpo.
+
+**Pergunta: Poderíamos emoldurá-lo em um quadro?**
+
+Sim, seria uma ótima destinação.
+
+**Pergunta: Normalmente, veneramos apenas a deidade Daikoku. Deveríamos também venerar Ebisu?**
+
+Com certeza. O correto é venerar ambos, pois eles representam um casal. Daikoku empunha um martelo de madeira, que simboliza a Sua função de gerar os tesouros da terra. Ebisu, por sua vez, representa as dádivas do mar. Portanto, o correto é venerar os dois. Em certas circunstâncias, apenas Daikoku pode ser suficiente, mas venerar somente Ebisu não é apropriado, pois a concessão de tesouros, ouro e prata é atribuição de Daikoku. Por isso, até mesmo o dinheiro em espécie tem mais afinidade com ele.
+
+**Pergunta: Ao venerar ambos, qual deve ser a sua posição?**
+
+Olhando de frente, Daikoku fica à direita e Ebisu, à esquerda. O lado esquerdo (à nossa direita, de quem olha) é a posição superior. O mesmo princípio se aplica às fotografias de casamento. O modo como são tiradas hoje em dia, geralmente, está invertido. Segue-se o costume ocidental, e como no Ocidente a mulher ocupa a posição principal, está correto para eles. No Japão, porém, o homem é o principal, logo, a posição deveria ser a oposta. Essa é a forma correta, a rigor. Os seres humanos também usam predominantemente a mão direita, mas isso ocorre porque a esquerda é superior, e a direita atua como trabalhadora. O "hi" de "hidari" (esquerda) representa o espírito, enquanto o "mi" de "migi" (direita) representa o corpo.
+
+**Pergunta: Se venerarmos Daikoku e Ebisu, e tivermos Kannon ao centro, teremos que deslocar a imagem de Kannon?**
+
+De modo algum. Kannon permanece no centro. Ademais, nesse caso também é preciso que haja proporcionalidade. Seria inadequado ter uma alcova pequena com imagens de Daikoku e Ebisu desproporcionalmente grandes.
+
+**Pergunta: Foi-nos ensinado que “quando a mente está dispersa ou não se consegue dormir, é bom praticar a pacificação da alma”. Poderia nos explicar o que é essa prática?**
+
+A mente humana está em constante movimento, raramente se fixa em um único ponto. Ela divaga por múltiplos pensamentos. Nesse estado, a mente está dispersa. Ao concentrá-la em um único ponto, ela se acalma. Por isso, quando não se consegue dormir, ao realizar essa prática, os espíritos que estavam dispersos retornam, trazendo tranquilidade e permitindo o sono.
+
+**Pergunta: Qual é o método para realizá-la?**
+
+Entrelaçam-se os dedos das mãos desta forma: a mão esquerda por baixo, começando pelo dedo mínimo. Os polegares se cruzam com o direito por baixo e o esquerdo por cima. Ao sentar-se, o polegar do pé esquerdo fica por baixo do direito. Praticar isso em momentos de irritação traz calma. Eu mesmo recorro a essa prática quando há algo que, por mais que eu tente, não consigo compreender diante de Deus. Ao fazê-lo, a Vontade Divina se torna muito clara. Aliás, Deus é surpreendentemente sucinto, nunca é prolixo. Ele apenas aponta o ponto crucial, mas, com isso, a compreensão se torna perfeita. Recentemente, diante de um problema complicado, consultei a Deus e Ele apenas riu: “Ah, ah, ah...”. Com isso, eu compreendi. O riso Dele significava que não havia motivo para preocupação. Antigamente, eu praticava essa pacificação da alma com frequência. (Vide “Registro das Sagradas Palavras”, nº 14)
+
+**Pergunta: Algumas pessoas realizam essa prática simultaneamente ao Johrei. Isso é correto?**
+
+Sim, existem. Contudo, essa era uma prática da Oomoto e, portanto, pertence ao Xintoísmo. As pessoas que agem assim são, geralmente, egressas da Oomoto. (Risos) Logo, não se deve fazer isso, pois gera confusão.
+
+**Pergunta: Estrangeiros como Fenollosa, Lafcadio Hearn, Bruno Taut e Dr. Warner, que amaram e se devotaram profundamente à cultura e às artes japonesas, parecem ter alguma relação espiritual especial com o Japão. Qual a sua opinião?**
+
+Sim, na maioria das vezes, a relação é espiritual. Há muitos casos de espíritos japoneses que nasceram como americanos e vice-versa. Por isso, tais pessoas pertencem à linhagem espiritual japonesa. Há, contudo, outra razão. À medida que o espírito evolui artisticamente, ele alcança um nível de compreensão que se harmoniza com outras culturas. Essas pessoas sentem uma grande admiração pela cultura japonesa, que é, de fato, de um nível elevadíssimo — provavelmente o mais alto do mundo. Sendo assim, os estrangeiros que não compreendem a cultura japonesa é porque ainda se encontram em um estágio cultural inferior. Conforme evoluem, desenvolvem a capacidade de entender e exclamar: “De fato, isto é maravilhoso”. São essas as pessoas de grande valor.
+
+Fenollosa foi quem reconheceu o valor da pintura japonesa ao ver, em uma exposição, uma obra de Kano Hogai e declarar: “Isto é esplêndido”. Imediatamente, ele foi à casa de Hogai e insistiu: “Gostei de suas pinturas, venda-mas todas para mim”. Adquiriu inúmeras obras, levou-as para os Estados Unidos e organizou uma exposição, o que tornou o nome de Hogai mundialmente famoso da noite para o dia. Há uma história cômica a esse respeito. Haveria uma exposição na França, e o Japão deveria enviar obras de sua pintura. Hogai pintou temas fantásticos, como dragões e o demônio Shoki, e os submeteu. No entanto, suas obras foram rejeitadas sob o pretexto de que tais seres não existiam na realidade. As autoridades japonesas da época careciam de tal nível de compreensão. Contudo, como Fenollosa aclamou essas obras como magníficas, Hogai tornou-se célebre. Mais tarde, ele se tornou diretor da Escola de Belas-Artes e pintou a famosa “Hibo Kannon” (Mãe Compassiva), que é uma verdadeira obra-prima. Os japoneses daquela época, em suma, não possuíam a devida elevação artística. Embora o passado fosse superior ao presente, a partir da Restauração Meiji, o mundo passou por um período de caos, durante o qual o conhecimento ocidental foi introduzido, e a cultura japonesa original começou a ser desprezada.
+
+Lafcadio Hearn, por sua vez, foi quem descobriu a beleza do Japão através da literatura.
+
+Eu também sou um apreciador das artes. A excelência da arte japonesa se estende do período Higashiyama ao Genroku, com um destaque especial para o intervalo entre os períodos Momoyama e Genroku. Esses duzentos anos foram verdadeiramente notáveis. As épocas posteriores não produziram nada de comparável. Foi nesse intervalo que a arte atingiu um patamar sublime. Ela possui uma elevação extraordinária, um aroma, por assim dizer. A arte de hoje carece dessa elevação; é rasteira. Quando se tem a mente elevada, a arte moderna parece demasiado baixa para ser apreciada. Recentemente, os americanos parecem ter alcançado um maior refinamento artístico. Há alguns que compreendem a arte japonesa a um ponto que nos surpreende. Os “Trinta e Seis Poetas Imortais” de Nobuzane (Nota) são famosos. Seria de se esperar que apenas japoneses compreendessem pinturas de poetas em trajes de corte, mas, ultimamente, os americanos as compram por qualquer preço. Fiquei atônito ao saber disso. Há também franceses que entendem de utensílios para a cerimônia do chá. Eu mesmo só comecei a compreender a beleza desses utensílios recentemente. Pensava: “Onde está a arte nessas peças de aparência rústica, que chamam de ‘wabi’?”. E, no entanto, há franceses que as compreendem...
+
+Contudo, chegará o tempo em que a arte japonesa será compreendida mundialmente. E é nisso que estou trabalhando agora. Elevar o bom gosto das pessoas é, mesmo do ponto de vista religioso, um ato de grande nobreza.
+
+(Nota: Fujiwara no Nobuzane — Pintor e poeta do período Kamakura. Meio-irmão de Fujiwara no Teika. Era mestre na arte do “nise-e”, retratos realistas no estilo Yamato-e.)
+
+**Pergunta: É comum que artistas não possuam um caráter nobre. Qual a razão disso?**
+
+É a mais pura verdade; eu também penso assim. Contudo, ao refletir profundamente, percebemos que é algo inevitável. Recentemente, conversei com uma pessoa sobre como a arte do passado é muito superior. Visitei a exposição “Nitten” e praticamente não havia uma pintura que me fizesse parar para observá-la. Passei por elas apenas lançando olhares fugazes. A principal razão para isso é o problema do sustento, que impede os artistas de conceberem e pintarem suas obras como gostariam. A pessoa com quem conversei era um famoso pintor a óleo. Eu lhe disse: “As pinturas a óleo deste ano parecem bem mais sóbrias. Não há quadros com figuras bizarras nem casas que parecem ter desmoronado em um terremoto”. (Risos) Ele respondeu: “É porque não vendem. Todos estão pintando obras sóbrias porque querem vender”. Exatamente por estarem amarrados às necessidades da vida e do comércio, mesmo que sejam pessoas de caráter, não conseguem criar livremente. Se essa questão não for resolvida, a grande arte não nascerá.
+
+**Pergunta: A arte antiga possui uma profundidade que toca a alma, algo que falta na arte contemporânea. Seria isso uma degeneração da própria arte?**
+
+Objetivamente, é uma degeneração, mas não se pode afirmar isso de modo tão categórico. Por mais artista que se seja, não se pode sobreviver sem ter o que comer. Até o final da guerra, era comum que os grandes conglomerados financeiros patrocinassem os artistas, mas hoje isso não é mais possível. Não encontrei nenhuma obra de arte do pós-guerra que me despertasse o desejo de adquiri-la. Como mencionei, até o final da guerra, os artistas tinham bons patronos e podiam criar grandes pinturas. Por exemplo, na Academia de Belas-Artes, Tomitaro Hara concedia dez mil ienes a cada artista — uma soma considerável para a época. E bastava que produzissem uma obra por ano. O banqueiro Seinosuke Imamura patrocinava Shosai Hakusan, cujas obras em laca *maki-e* eram realmente esplêndidas. Hoje, poucas pessoas devem possuir trabalhos dele; provavelmente, sou eu quem tem a maior coleção no Japão. Ele era um verdadeiro mestre. Contudo, por essas razões, é provável que mestres como ele não surjam por um bom tempo.
+
+**Pergunta: E quanto a artistas como o espanhol Goya? Ele parece ter levado uma vida bastante devassa, mas pintou obras excelentes.**
+
+Sim, é verdade. Contudo, entre aqueles de baixo caráter, raramente se encontram obras verdadeiramente boas. Pelo que conheço da arte japonesa, os artistas notáveis também possuíam qualidades admiráveis em seu caráter.
+
+Veja o caso de Ogata Korin. Ele era extremamente competitivo. Há uma história a seu respeito: certa vez, ele foi a um piquenique de observação de flores levando seus bolinhos de arroz embrulhados em uma folha de bambu, sobre a qual havia pintado uma laca dourada. As outras pessoas, que traziam seus bentôs em belas caixas laqueadas, zombaram da simplicidade de seu embrulho. Contudo, quando Korin abriu a folha de bambu, todos ficaram atônitos ao ver o interior em laca dourada. E, para o espanto geral, sem nem mesmo provar os bolinhos, ele atirou o embrulho no rio. As pessoas ficaram duplamente surpresas. A história chegou aos ouvidos das autoridades, e ele foi banido de Quioto como um homem que não conhecia seu lugar. Mudou-se para Edo, onde foi acolhido por um madeireiro em Fukagawa por cerca de quatro anos, período em que produziu grandes obras. Korin podia ser “insolente”, mas, por outro lado, possuía qualidades admiráveis. Suas pinturas transmitem uma sensação de largueza inigualável; não há nelas qualquer traço de mesquinhez. Embora existam casos como esse, os verdadeiros mestres são, invariavelmente, pessoas de caráter. O mesmo se aplica aos artistas performáticos. Aqueles que alcançam o nível de mestre são diferentes. Até mesmo Danjuro, o ator de kabuki, era uma pessoa notável em sua vida privada.
+
+**Pergunta: Às vezes se considera que a conduta é um reflexo do caráter e, outras vezes, o oposto. Qual é a verdade?**
+
+A verdade é que a conduta é um reflexo do caráter. A ideia oposta não é verdadeira. No entanto, há momentos em que se torna necessário agir de modo contrário ao próprio caráter. Por exemplo, houve um juiz que, acreditando que uma pessoa de caráter elevado não deveria recorrer ao mercado negro, acabou enfraquecendo e morrendo. Portanto, em tais situações, deve-se agir com flexibilidade, conforme o tempo e as circunstâncias.
+
+No final, porém, tudo é uma manifestação do caráter. Uma pessoa de caráter baixo não é capaz de realizar atos nobres. Naturalmente, às vezes são necessárias ações pragmáticas para sobreviver no mundo, mas, em uma pessoa de caráter elevado, essa nobreza se manifesta de alguma forma e ela se torna amada pelos outros. Há também aqueles que tentam parecer mais nobres do que são, mas, mesmo que sejam considerados grandes, não passam de figuras insignificantes.
+
+Outro ponto crucial é a distinção entre Mahayana e Hinayana. O caminho Hinayana por si só não é o verdadeiro; é imprescindível seguir o Mahayana. Por exemplo, os discursos sobre agir “pelo bem do Imperador” ou “pelo bem da nação”, tão comuns durante a guerra, pertencem ao Hinayana. O verdadeiro caráter deve ser Mahayana, universalista; caso contrário, é uma farsa. O que é verdadeiro é o desejo pela felicidade de toda a humanidade. Veja o primeiro-ministro Yoshida: durante a guerra, ele foi preso, mas hoje brilha. O mesmo acontece com o ministro de Estado Ueda, que agora é o Procurador-Geral. Na época da guerra, essas pessoas eram tidas como traidoras da nação. Portanto, o caminho verdadeiramente correto é o Mahayana.
+
+**Pergunta: Mesmo quando estamos praticando atos de amor, como a compaixão e a piedade, por vezes surge em nós o sentimento de ódio. Como devemos entender isso?**
+
+Isso é inevitável. O ser humano é capaz tanto de amar quanto de odiar. O problema é quando o sentimento de ódio se transforma em ação, em atividade. Isso acontece por falta de autocontrole.
+
+**Pergunta: Mesmo quando faço algo com o coração cheio de amor, surge em mim o pensamento: “Que incômodo!”.**
+
+Bem, você pensa que é incômodo porque, de fato, é. (Risos) Contudo, se a outra pessoa fosse alguém superior a você, isso não aconteceria, não é mesmo? (Risos) Por exemplo, se o rádio no quarto ao lado está alto, você naturalmente pensa que é um incômodo. Se for um familiar, você pode dizer: “Ei, desligue o rádio”. Isso não chega a ser ódio. Os seres humanos não devem encarar a vida cotidiana de forma excessivamente rígida. O ideal é ter um coração amplo e perdoar a todos mutuamente.
+
+**Pergunta: Ao casar uma filha, algumas pessoas dizem que é melhor para o futuro dela que vá para um lar onde haja uma sogra, para que possa servi-la com devoção filial. Qual a sua opinião?**
+
+É uma questão que não pode ser definida de um modo ou de outro. Depende da personalidade da noiva e da sogra. Se a noiva for dócil e tiver facilidade em se harmonizar com os outros, ter uma sogra pode ser bom. Mas há muitas que ainda não atingiram esse nível. Se uma noiva difícil e uma sogra difícil se juntam, a felicidade familiar não será alcançada. (Risos) Portanto, não há uma resposta definitiva.
+
+**Pergunta: No caso de uma mulher órfã, há quem diga que a devoção filial que ela deveria ter dedicado aos pais deve ser transferida à sogra após o casamento.**
+
+Isso é um disparate. Seria muito melhor que ela dedicasse essa devoção filial aos espíritos de seus pais. E a forma de fazê-lo é praticando o bem para o mundo e para as pessoas, acumulando virtudes. A verdadeira devoção filial é muito maior após a morte dos pais. O que se faz em vida é temporário e de pouco alcance, mas proporcionar a salvação deles no Mundo Espiritual é um ato de imensa devoção filial, pois lhes garante a felicidade eterna. Portanto, dizer que ela deve ser devotada à sogra é uma abordagem materialista, que não reconhece a existência dos espíritos. Não é o caminho verdadeiro.
+
+**Pergunta: Recebemos o ensinamento de que dívidas para fins não produtivos são ruins. No entanto, se for necessário contrair uma dívida e não for possível abandonar o trabalho em questão, como devemos interpretar esse ensinamento?**
+
+A questão reside no ponto de partida. Se o início for bom, tais problemas não ocorrem. É porque o início é falho que as coisas chegam a esse ponto. Se o projeto tivesse bases sólidas desde o começo, isso não aconteceria. As pessoas se envolvem em empreendimentos incertos, e o resultado é este. Na maioria dos casos, o melhor a fazer é parar e recomeçar.
+
+Além disso, a maioria das pessoas só considera a hipótese de sucesso em seus empreendimentos. É preciso, no entanto, considerar não apenas o sucesso, mas também a possibilidade do fracasso. Procedendo assim, a segurança será garantida. Observando as pessoas, vejo que são incrivelmente otimistas. (Risos) De fato, todos só pensam no sucesso. (Risos) Por isso, eu falo sobre ter uma estratégia de três níveis. Por exemplo, ao contrair um empréstimo, a pessoa pensa: “Na data do vencimento, devo receber um dinheiro de outra fonte, então usarei esse valor para pagar”. Geralmente, o dinheiro não chega a tempo, e é aí que surgem os problemas. Portanto, deve-se ter um plano: se o dinheiro da fonte A não chegar, recorra à B; se a B também falhar, recorra à C. Assim se deve proceder, com três níveis de segurança. É por isso que eu sempre consigo pagar minhas contas pontualmente. O problema é que, como pago sempre em dia, as pessoas acabam pensando que tenho dinheiro sobrando. (Risos)
+
+Costumo dizer que não se deve cometer suicídio junto com o seu negócio. Mesmo estando em um empreendimento, é preciso estar preparado para se desvincular dele a qualquer momento, se as coisas não forem bem. É bom ter a flexibilidade de desistir quando necessário. Dessa forma, é possível agir com versatilidade diante de qualquer mudança. Quando a pessoa se ata a um negócio a ponto de afundar com ele, o resultado é fatal, pois ela se torna incapaz de se reerguer.
+
+**Pergunta: Atualmente, minha fábrica está parada. Gostaria de saber qual dos caminhos a seguir seria o mais indicado para o futuro: (1) reparo de motores elétricos para trens de uma companhia ferroviária privada (neste caso, o pagamento demora cerca de três meses); (2) fabricação e venda de transformadores para rádios (neste caso, pretendo trabalhar aos poucos, com meu filho).**
+
+Bem, você deve analisar as duas opções e escolher a que lhe parecer mais vantajosa. O que se deve observar, neste caso, é se as coisas fluem com naturalidade. Para quem está nesta fé, se um trabalho deve ser continuado, tudo correrá de forma harmoniosa e sem empecilhos. Por outro lado, se não for para continuar, Deus intervirá, e surgirão diversos obstáculos, impedindo o progresso. Portanto, se surgirem muitos problemas, é melhor parar.
+
+Se um negócio chegar a um ponto de colapso total, pode-se interpretar como sendo a Vontade de Deus para que você abandone esse trabalho e se dedique à fé. Aconteceu um caso assim recentemente: em uma fazenda, oito bois morreram, um após o outro. Perguntaram-me o significado disso. É um sinal de Deus para que abandonem a agricultura. Nessas situações, Deus age de modo a tornar impossível a continuidade daquele trabalho e, em contrapartida, faz com que a pessoa se ocupe mais com o Johrei. Ele prepara tudo de forma ordenada. Basta seguir o fluxo, e isso é viver em “Kaminagara” (de acordo com a Vontade Divina). Se, em vez disso, a pessoa manifesta o seu “eu” e insiste em continuar a todo custo, acabará sofrendo ainda mais. (Vide “Registro das Sagradas Palavras”, nº 12)
+
+**Pergunta: A empresa em que trabalho está em estado de falência. Desde o ano passado, estamos envolvidos em uma obra fluvial que foi concluída neste verão. No entanto, por falta de capital, não conseguimos avançar, mesmo com outras obras em vista. Devo procurar outro caminho?**
+
+Sim, isso é um sinal para que você reavalie a situação. Se o trabalho atual não vai bem, mude o seu rumo para outra atividade. Ao fazer isso, Deus providenciará algo muito melhor, de uma forma que lhe será bastante favorável.
+
+**Pergunta: O altar dos antepassados pode ser instalado no andar de baixo da casa?**
+
+Não, isso não é correto. Ele deve ser instalado, impreterivelmente, no andar de cima. Se ficar no andar de baixo, os seres humanos se colocarão em uma posição superior a ele.
+
+**Pergunta: É permitido colocar um quadro caligráfico acima do altar dos antepassados?**
+
+Sim, um quadro caligráfico é permitido.
+
+**Pergunta: Ao fazer uma nova tabuleta ancestral, podemos simplesmente entronizá-la? E o que devemos fazer com a antiga?**
+
+Deve-se pedir aos antepassados que se transfiram para a nova tabuleta. Depois disso, a antiga pode ser incinerada.
+
+**Pergunta: Por razões econômicas, algumas pessoas mantêm apenas um marco de madeira no túmulo por anos após o funeral, sem construir uma lápide de pedra. Isso é um problema?**
+
+Sim, não é bom. Não existe isso de “razões econômicas”. Se a pessoa tiver a firme determinação de construir a lápide, custe o que custar, o dinheiro certamente aparecerá. Se o dinheiro não vem, é porque a determinação é fraca. Uma vontade morna não adianta. Se houver a decisão de construí-la, os espíritos ancestrais providenciarão para que o dinheiro surja. (Vide “Registro das Sagradas Palavras”, nº 14)
+
+**Pergunta: No caso do falecimento de um parente ou conhecido que não tenha ninguém para cuidar de seus restos mortais, é correto sepultar suas cinzas em meu jazigo, junto aos meus próprios antepassados?**
+
+Pode-se sepultá-las, sim. Contudo, essa pessoa deve ocupar a posição mais inferior. As cinzas devem ser enterradas na parte mais baixa do túmulo. Se forem colocadas no mesmo nível dos seus antepassados, os espíritos que são venerados sofrerão. No Mundo Espiritual, a questão da hierarquia é, de fato, muito rigorosa.
+
+**Pergunta: É comum que ascetas e outros místicos digam: “Você está com o espírito de fulano encostado”. É tão fácil assim ver os espíritos?**
+
+Sim, é fácil vê-los. Mas, claro, é preciso passar por treinamento ascético. Geralmente, os ascetas se dedicam intensamente a práticas como abluções em água fria e jejuns. Isso torna o espírito da pessoa mais rarefeito, facilitando a possessão por outros espíritos. E os espíritos que mais se manifestam são os de raposa. Quando um espírito de raposa se encosta, a pessoa passa a ver espíritos. Portanto, ver espíritos não é algo de que se deva orgulhar. Além disso, essa prática pode levar facilmente a doenças mentais. É por isso que os doentes mentais são os que mais veem espíritos. Frequentemente, eles fazem gestos como “Ah! Ah!”, olhando para o vazio, não é? (Risos) Isso acontece porque têm medo dos espíritos que veem.
+
+**Pergunta: Essas pessoas conseguem ver qualquer tipo de espírito?**
+
+Não, há espíritos que elas veem e outros que não. Há também os que sussurram em seus ouvidos, e pode acontecer de o espírito do outro lado possuir o asceta. Mas o mais comum é a visão. Chamam isso de poder sobrenatural, e é algo que certas pessoas conseguem desenvolver.
+
+**Pergunta: Gostaria de fazer uma pergunta sobre o relato de graça “Conhecendo minha vida passada através da virtude espiritual”, publicado na edição nº 9 da revista “Paraíso Terrestre”. (1) É possível que o espírito de uma pessoa possua a si mesmo? (2) Se o termo “possessão” é usado, não se trata de um espírito distinto?**
+
+(1) Não, isso não acontece. Além disso, o que os espíritos dizem nem sempre é verdade. Eles também dizem coisas sem sentido. Espíritos de raposa enganam as pessoas, e espíritos de baixo nível podem acreditar em informações erradas. Portanto, não se pode crer em tudo cegamente. (2) Sim, sua observação está correta.
+
+**(Uma pessoa pergunta sobre o significado de um sonho que teve)**
+
+Recentemente, decidi não responder mais a perguntas sobre sonhos. A interpretação de sonhos é uma tarefa complicada. Quem nos mostra os sonhos é o nosso anjo da guarda principal, mas, assim como entre os humanos, há anjos da guarda inteligentes e outros nem tanto. E os sonhos enviados por anjos da guarda menos inteligentes são muito difíceis de decifrar... (Risos)
+
+**Pergunta: As pessoas que usam medicamentos o fazem porque possuem máculas em seu corpo espiritual, o que as leva naturalmente a recorrer a eles?**
+
+Todos, sem exceção, possuem máculas no corpo espiritual. Não apenas os que usam medicamentos. Os únicos que não os usam são os fiéis da nossa Igreja. E, mesmo entre os fiéis, também existem máculas no corpo espiritual.
+
+**Pergunta: Sobre alimentação e saúde: (1) Ouvimos dizer que o Grande Mestre consome batata-doce após o café da manhã e *oshiruko* ou *ochazuke* antes de dormir. Que efeito isso tem?**
+
+Não se trata tanto de um efeito, mas sim de uma forma de regular o excesso de nutrientes que eu consumo. Na verdade, minha preocupação é com o excesso de nutrição. Nutrição em demasia também é prejudicial. Uma pessoa se mantém saudável com uma alimentação simples. Atualmente, as pessoas adoecem por excesso de nutrientes e, para se curarem, consomem ainda mais, agravando o problema e, consequentemente, enfraquecendo.
+
+**Pergunta: Esses alimentos possuem poucos nutrientes?**
+
+Não é que tenham poucos nutrientes, mas eu os consumo por não serem de origem animal. A nutrição tem dois aspectos: espiritual e material. Os vegetais são de natureza espiritual, enquanto peixes e carnes são de natureza material.
+
+**Pergunta: (2) Quando um doente consome muitos vegetais, quais são os mais indicados?**
+
+A pessoa deve comer aquilo que tem vontade. É comum as pessoas se forçarem a comer algo de que não gostam, sob o pretexto de que faz bem à saúde. Isso é um completo equívoco. O desejo por um determinado alimento surge porque o corpo precisa dele. A falta de desejo indica que o corpo não precisa daquele alimento ou que não deve consumi-lo. O corpo humano é uma máquina extraordinariamente bem projetada. São as pessoas que cometem erros em relação a ele.
+
+**Pergunta: E quanto a combinar diferentes tipos de alimentos?**
+
+Deve-se comer o que se gosta, mas o princípio é consumir de ambos os tipos.
+
+**Pergunta: Mesmo pessoas com problemas de estômago às vezes sentem um forte desejo por doces...**
+
+Sim, se têm vontade, devem comer.
+
+**Pergunta: Mas, depois de comerem, sentem-se mal.**
+
+Se lhes faz mal, que comam com moderação. (Risos) Tudo é uma questão de medida. É preciso ter autocontrole e moderação.
+
+**Pergunta: Ouvi dizer que, em casos graves, não se deve comer frutas...**
+
+Eu jamais disse tal coisa. A única exceção é quando a pessoa está com uma diarreia muito forte, pois as frutas podem agravá-la, causando cansaço. Fora isso, não há problema algum. As frutas foram criadas por Deus para os seres humanos e são excelentes.
+
+Outra coisa: costuma-se dizer que doce de feijão faz mal às crianças, mas isso é um erro tremendo. Certa vez, um menino de uns seis anos veio me visitar, e eu lhe ofereci um pedaço de *yokan* que estava por perto. A mãe ficou espantada e disse que era a primeira vez na vida que o filho comia algo do tipo. O menino, por sua vez, comeu tudo com grande satisfação. Isso acontece porque os médicos proíbem o consumo de doce de feijão, alegando que causa disenteria. E por que dizem isso? Porque nos livros de medicina não há menção a doce de feijão. O fato é que a medicina japonesa é uma tradução literal da ocidental, e nos livros de medicina do Ocidente não se encontram termos como *anko* ou *misoshiru*. (Risos) Por isso, em vez disso, os médicos recomendam alimentos ocidentais como leite e aveia. Mas a cevada prensada japonesa e a aveia são a mesma coisa. E por que o doce de feijão faria mal? É feito com feijão azuki moído, bem cozido e adoçado com açúcar. É um alimento excelente.
+
+**Pergunta: E balas?**
+
+Não há problema. Balas e doce de feijão são diferentes, mas são inofensivas. Na verdade, o chocolate é bem mais prejudicial à saúde.
+
+**Pergunta: Gostaríamos de saber quais cuidados devem ser tomados antes e depois do parto.**
+
+Antes do parto, não há muitos cuidados especiais. Diz-se que levantar os braços pode causar aborto, um dito popular antigo. Também se diz que uma queda pode fazer com que o cordão umbilical se enrole no pescoço do bebê. À medida que a barriga cresce, a mulher perde o centro de gravidade e pode cair. Uma queda leve não é problema, mas cair de uma escada, por exemplo, é perigoso. Quanto ao trabalho, a mulher pode continuar suas atividades normais. É bom que trabalhe até o mês do parto, sem se poupar em excesso. As mulheres do campo trabalham até o momento de dar à luz, e isso torna o parto mais fácil.
+
+Após o parto, é preciso ter muito cuidado. A mulher não deve se movimentar muito enquanto o sangue residual não for completamente expelido. Recentemente, adotou-se o costume de aplicar gelo após o parto, mas isso é um erro. O sangramento pós-parto não deve ser estancado. Nos primeiros dias, especialmente na primeira semana, o sangue residual tende a se concentrar na parte do corpo que é mais utilizada. Se a mulher anda, ele se acumula nas pernas e na cintura. Se força a vista, a visão fica prejudicada. Diz-se que problemas de visão adquiridos no pós-parto nunca se curam. Se ela se preocupa demais, o sangue se acumula na cabeça. É por isso que a psicose puerperal é comum. Portanto, a mulher deve permanecer em repouso até que todo o sangramento cesse. Depois disso, pode começar a se movimentar gradualmente, observando o fluxo. Na primeira semana, deve limitar-se a ir ao banheiro. Até a terceira semana, deve se mover com cuidado. O sangramento geralmente cessa por volta da terceira semana. Assim, deve-se equilibrar o movimento com o fluxo de sangue. Quando o sangramento parar, ela pode retomar gradualmente suas atividades normais. Após setenta e cinco dias, pode voltar à sua rotina completa. Pode parecer um pouco estranho, mas as relações conjugais devem ser evitadas por trinta e cinco dias, para não retardar a recuperação. Após esse período, pode-se retomar com moderação. (Risos)
+
+**Pergunta: Após setenta e cinco dias, não há mais restrições?**
+
+Sim, após setenta e cinco dias, a vida pode voltar ao normal.
+
+**Pergunta: E a alimentação?**
+
+Pode comer de tudo.
+
+**Pergunta: E o banho?**
+
+O banho pode ser tomado de acordo com o fluxo de sangue. Geralmente, as mulheres temem tomar banho porque o sangramento aumenta, mas, como eu disse, o sangramento é benéfico. Contudo, é prudente esperar cerca de três semanas para começar a tomar banho gradualmente.
+
+**Pergunta: Dizem que ameixa em conserva e açúcar são prejudiciais...**
+
+Isso não é verdade. Mas, se consumidos em excesso, podem tirar o apetite. Alimentos leves são preferíveis, pois os mais pesados podem causar indigestão. E, ao contrário do que se diz, canja de arroz com ameixa em conserva não é uma boa combinação.
+
+**Pergunta: Há uma gestante cujos batimentos cardíacos estão extremamente acelerados. Qual a causa disso?**
+
+Existe um nódulo de toxinas entre o coração e o estômago. Pessoas com essa condição também sentem palpitações ao comer. Durante a gravidez, o útero se expande e pressiona o estômago. Este, por sua vez, comprime as toxinas acima dele, que acabam pressionando o coração.
+
+**Pergunta: A partir do quinto mês de gestação, usa-se a faixa abdominal. Isso é recomendável?**
+
+Essa prática não existe no exterior; é exclusiva do Japão. O objetivo é “ter um bebê pequeno para criá-lo grande”. A faixa comprime o abdômen, retardando o crescimento do feto e, consequentemente, facilitando o parto. O costume de colocar a faixa no “dia do cão” vem da crença de que, assim como as cadelas dão à luz ninhadas grandes com facilidade, a mulher também terá um parto fácil. Além disso, a faixa oferece sustentação, facilitando o trabalho. A barriga fica mais firme, o que é conveniente para as atividades diárias. Há também esse aspecto. Contudo, essa prática não é fundamental. Portanto, a mulher deve decidir por si mesma o que é melhor. Apertar demais a faixa pode causar aborto, o que é perigoso. Se houver parentes mais velhos e insistentes, use a faixa. Se achar incômodo, pode ficar sem ela. (Risos)
+
+**Pergunta: Diz-se que crianças que nascem com o cordão umbilical enrolado no pescoço ou cuja mãe menstruou durante a gravidez terão uma vida de infortúnios. Isso é verdade?**
+
+Isso é e não é superstição. Quedas ou acidentes podem, de fato, fazer com que o cordão umbilical se enrole. De qualquer forma, a ocorrência de tais anomalias indica a presença de máculas e pecados nos pais, o que pode, sim, resultar em um destino desfavorável para a criança. Contudo, dependendo da forma como ela for criada, o infortúnio pode ser transformado em felicidade.
+
+No caso da menstruação durante a gravidez, isso não tem relação com a criança. O problema está em uma obstrução inadequada das trompas da mãe. Também pode não ser menstruação, mas sim a liberação de sangue antigo que estava coagulado.
+
+**Pergunta: Existe o costume de guardar o cordão umbilical da criança. Devemos mesmo guardá-lo?**
+
+Isso é indiferente. É um costume, então, se a pessoa se sente bem guardando-o, que o guarde. Se decidir descartá-lo, não haverá problema algum.
+
+**Pergunta: Como devemos descartá-lo?**
+
+Basta queimá-lo. Pode ser cremado junto com a pessoa quando ela falecer.
+
+**Pergunta: Uma fiel de cerca de vinte e cinco anos, grávida de cinco meses, notou que o bebê parou de se mover. Ao consultar um médico, foi informada de que o feto estava morto e em decomposição, necessitando de uma cirurgia. Recusando a cirurgia, ela recebeu Johrei por dez dias e sentiu o bebê se mover novamente. Em uma nova consulta, o médico disse: “Será que não estava morto, afinal?”. Teria sido um estado de morte aparente? E qual a causa?**
+
+Sim, pode-se dizer que foi um estado de morte aparente. Isso pode ser causado por fraqueza, entre outros fatores. Por exemplo, um coágulo de toxinas no cordão umbilical pode obstruir o fluxo de nutrientes para o feto. Mesmo no útero, o bebê se alimenta, como se estivesse mamando. Se o fluxo é insuficiente, ele enfraquece. Preocupações ou a contração do estômago da mãe, que leva à perda de apetite, também podem impedir que os nutrientes cheguem ao bebê. Com o Johrei, o fluxo de nutrientes aumenta, e a situação melhora.
+
+**Pergunta: Uma fiel de trinta anos, grávida de seis meses, foi informada por um médico que o feto havia morrido por volta do terceiro mês e que precisava de uma cirurgia, pois sua barriga não crescia. Como não sente dor, ela teme a cirurgia e deseja receber Johrei. Mesmo que o feto esteja morto, o Johrei pode provocar a sua expulsão? Ela já tem dois filhos e sofreu um aborto.**
+
+Sim, mesmo que o feto esteja realmente morto, o Johrei pode provocar a sua expulsão. Além disso, coágulos de sangue antigo podem causar essa condição, e também existe a possibilidade de uma gravidez psicológica. É preciso considerar essa hipótese. A gravidez psicológica é um fenômeno curioso. A mulher acredita tanto que está grávida que a barriga começa a crescer, mesmo sem haver ar dentro dela.
+
+**Pergunta: Dizem que beber água após um ferimento grave ou uma cirurgia pode levar à morte. Isso é verdade?**
+
+Isso não é verdade. Pode-se e deve-se beber muita água. Há algum equívoco aí. Não há lógica em dizer que beber água leva à morte. O que pode acontecer é o seguinte: durante uma cirurgia, usam-se narcóticos, e beber água pode causar náuseas e vômitos. O esforço do vômito pode fazer com que os pontos se rompam. É provável que, por receio disso, não permitam que se beba água.
+
+O mesmo se aplica a ferimentos graves. A perda de sangue causa anemia cerebral, o que também provoca náuseas. Se a pessoa bebe água e vomita, a ferida pode se abrir. Portanto, o problema não está na ingestão de água em si.
+
+**Pergunta: Uma mulher de trinta e um anos começou a ter uma purificação de tuberculose em julho deste ano. Ela melhorou temporariamente com o Johrei, mas recentemente teve uma nova purificação, está enfraquecida, com pouco apetite e o pulso em torno de cento e quarenta. Ela poderá ser salva?**
+
+A tuberculose costuma ter repetidas purificações, e é nesses momentos que o perigo é maior. Depende do grau de fraqueza; se for muito severo, não há o que fazer. Os pontos vitais nesses casos não são um ou dois, mas vários. A causa principal é o bulbo direito; a purificação dessa área causa febre, o que leva à fraqueza, pois a fraqueza é consequência da febre. Outros pontos são os gânglios linfáticos do pescoço e da garganta. Também pode ser o topo da cabeça, as axilas, os ombros, os rins e a virilha. A febre pode se manifestar na virilha e, por causa disso, a pessoa pode tossir. Certa vez, eu disse a um paciente: “Sua tuberculose está na virilha. Você tem um pulmão na virilha”. Ministrando Johrei nesses pontos vitais, a febre baixa.
+
+**Pergunta: No caso dela, a febre baixa temporariamente com o Johrei, mas depois volta a subir.**
+
+Ah, isso acontece porque o Johrei não está sendo focado no ponto vital correto. Ao atingir o ponto certo, o alívio é imediato. Há pessoas que, ao receberem Johrei, tossem ainda mais. Isso geralmente ocorre quando o Johrei está sendo ministrado no lugar errado. Por exemplo, se a causa está na garganta e o Johrei é aplicado no ombro, a purificação do ombro pode se deslocar para a garganta, intensificando a tosse. É a purificação por equalização. Portanto, se a febre não baixa ou a tosse aumenta com o Johrei, deve-se considerar a possibilidade de o foco estar errado. Normalmente, o Johrei faz a febre baixar e o apetite retornar.
+
+**Pergunta: Em casos que parecem ser de possessão espiritual, é recomendável venerar o espírito em questão?**
+
+Há casos em que a veneração traz a cura, mas são relativamente raros. E há outro ponto a ser considerado. Diz-se que venerar o espírito é a solução, mas o espírito não se contenta apenas com a formalidade. A pessoa que o venera deve fazê-lo de coração, com a real intenção de oferecer sufrágios. Apenas o ato de venerar não é suficiente para satisfazer o espírito.
+
+**Pergunta: Ter pensamentos dispersos durante a prece também é prejudicial?**
+
+Não, isso não tem problema. Dificilmente haverá alguém que não tenha pensamentos dispersos ao recitar uma oração. “De coração” não se refere a isso, mas a atitudes como, por exemplo, delegar a tarefa a um empregado por preguiça de fazê-la pessoalmente.
+
+Além disso, se a pessoa tem força espiritual, o espírito não consegue se encostar, mesmo que tente. Ele só consegue se manifestar quando a pessoa está enfraquecida. À medida que a fraqueza aumenta e a morte se aproxima, a pessoa pode perceber a presença do espírito e pensar que seu sofrimento é causado por ele, mas, na verdade, foi a fraqueza que permitiu a possessão. E a medicina convencional utiliza tratamentos que enfraquecem o paciente. Um espírito que se encosta há pouco tempo se afasta facilmente, mas aquele que está presente há muito tempo é difícil de remover. Claro, tudo depende da forma de veneração e das exigências do próprio espírito.
+
+**Pergunta: Um membro de sessenta e três anos sofreu um derrame e está recebendo Johrei desde o início. Recentemente, seu ombro direito começou a doer, e ele está com muita expectoração. O braço e a perna direitos ainda estão paralisados. Ele se recuperará completamente? E qual é o ponto vital para o Johrei?**
+
+É excelente que a expectoração esteja saindo em abundância. Isso significa que o sangue e os coágulos tóxicos do ombro direito estão se dissolvendo e se transformando em catarro. À medida que tudo for expelido, ele recuperará os movimentos. Os pontos vitais são o local da dor ou, mesmo que não haja dor, onde se sentir um nódulo ao pressionar. A origem do derrame está nesta área (do pescoço ao queixo), então essa região deve ser bem tratada. Os vasos sanguíneos daqui se rompem, o sangue tóxico sobe para a cabeça e depois desce para o braço e a perna do lado oposto. Existe também o derrame reverso, no qual o sangue extravasado não vai para a cabeça, mas desce diretamente para o braço e a perna do mesmo lado. Esse tipo é mais leve, pois resulta em paralisia sem hemorragia cerebral... Só essa explicação já valeria um Prêmio Nobel. (Risos)
+
+**Pergunta: Para um paciente de derrame, uma dieta vegetariana é mais indicada?**
+
+Sim, a dieta vegetariana é melhor. O derrame é mais comum em pessoas que consomem muita carne. O consumo de carne inevitavelmente torna o sangue mais denso e impuro.
+
+**Pergunta: O paciente e toda a sua família são fiéis fervorosos, mas, de repente, ele teve uma purificação de derrame. Justamente por serem tão dedicados, parece que surgiu uma certa dúvida. Como devemos orientá-los em tal situação?**
+
+Até mesmo os fiéis do nosso caminho podem ter um derrame. A diferença é que, por terem fé, o caso é mais leve e a recuperação, mais rápida. O Sr. Shibui, da Igreja Gorokushichi, também teve um derrame no ano passado. Ele teve três, na verdade, mas já está recuperado. Na primeira vez, surgiu um furúnculo na nuca, de onde saiu muito sangue tóxico. Na segunda, outro furúnculo apareceu na parte externa da coxa, também expelindo sangue tóxico. O avô e o pai dele também tiveram derrame, então é algo de família. Como a situação dele poderia afetar a credibilidade da fé, eu me esforcei bastante para ajudá-lo. (Risos)
+
+**Pergunta: Então, é uma condição hereditária?**
+
+Sim, é hereditária. Mas, como no caso do Sr. Shibui, que se recuperou mesmo após o terceiro derrame, não é algo tão grave.
+
+**Pergunta: Um homem de cerca de quarenta e cinco anos começou a ter espasmos no braço e na perna do lado direito há aproximadamente quatro anos. Ele afirma nunca ter tido uma hemorragia cerebral. Atualmente, os espasmos são intensos, tanto de dia quanto de noite, e ele sente a nuca pesada e rígida. Seria um derrame reverso? E onde devemos concentrar o Johrei?**
+
+Sim, é um derrame reverso. A causa está quase que inteiramente aqui (na parte de trás do pescoço, abaixo da orelha). Basta tratar bem essa área. O sangue tóxico dali se dissolveu e se solidificou no braço e na perna. Além disso, deve-se tratar bem os locais do braço e da perna onde houver febre ou dor. A articulação do ombro também deve ser tratada. Parece um caso um pouco maligno, mas, com paciência, ele se curará.
+
+**Pergunta: E no caso de espasmos na perna?**
+
+Mesmo quando o problema é na perna, a raiz está no pescoço. Há um líder de igreja cujas pernas ficam ruins de vez em quando. Um breve Johrei em seu entrecenho é suficiente para curá-lo. Portanto, problemas nas pernas também podem ter origem na cabeça. (Vide “Registro das Sagradas Palavras”, nº 12)
+
+**Pergunta: Um homem de sessenta e quatro anos tem asma cardíaca. A purificação começou há cerca de um ano, mas ele ainda sente como se o coração fosse explodir ao se movimentar. O que devemos fazer?**
+
+Os pontos principais são os dois lados do plexo solar. Essa é a origem da purificação do coração. Outro ponto é nas costas, exatamente atrás do coração. Tratando bem essas áreas, ele se curará.
+
+**Pergunta: Uma mulher de quarenta e sete anos sofre de problemas de estômago desde 1945. Em maio de 1949, foi internada e diagnosticada com úlcera gástrica. Ela recebeu alta em outubro do mesmo ano e está em casa, mas sente dores diárias que vão das costas ao estômago. Ela poderá ser curada?**
+
+Isso não é nada. A úlcera gástrica é causada por medicamentos. Se ela parar de tomá-los, ficará curada. As toxinas dos medicamentos se solidificaram nas costas e estão se dissolvendo e retornando para o estômago. Aliás, quando há sangue no vômito ou nas fezes, significa que há fissuras na parede do estômago. Nesse caso, deve-se evitar alimentos sólidos e optar por uma dieta líquida. Se o sangramento for leve, pode-se comer um pouco de mingau de arroz. Os digestivos também amolecem a parede do estômago.
+
+**Pergunta: No caso dela, parece não haver sangramento.**
+
+Então, ainda não chegou a ser uma úlcera. Ela será curada. Contudo, se ela tomou muitos medicamentos, a cura pode levar um pouco mais de tempo. A úlcera gástrica pode se assemelhar a um câncer de estômago. Isso acontece quando as toxinas se solidificam na fissura do estômago, formando algo como um umbigo. Naturalmente, isso não é um câncer de verdade.
+
+**Pergunta: No livro “Crônicas da Fé”, lemos que “todos os minerais surgem de acordo com a natureza do solo, a densidade do espírito da terra, as variações climáticas, a duração do tempo, etc.”. O que significa “densidade do espírito da terra”?**
+
+O espírito da terra está em constante emanação. Onde a camada rochosa é inexistente ou fina, o espírito da terra emana com mais intensidade. Além disso, é comum haver nuvens sobre as montanhas, não é? Isso ocorre porque o espírito da terra é rarefeito nesses locais. Lugares com espírito da terra rarefeito são chamados de áreas de baixa pressão, e onde ele é denso, de alta pressão. Como o vapor d'água se acumula mais facilmente em áreas de espírito rarefeito, formam-se as nuvens. Portanto, há variações dependendo da dureza ou da espessura da crosta terrestre.
+
+**Pergunta: Inferindo a partir do seu ensinamento de que o aspecto espiritual do mundo atômico se torna o mundo do pensamento, chegará um tempo em que, assim como se utiliza o espírito dos elétrons nas ondas de rádio, toda a humanidade poderá se comunicar através do pensamento?**
+
+Certamente. Chegará a era do pensamento, ou, se preferir, a era das ondas de rádio do pensamento. Sem o uso de qualquer aparelho, será possível, por exemplo, escrever um caractere no ar em sua direção, e, mesmo a distância, você compreenderá o seu significado. A distância não importará, sejam cem ou mil léguas. Da mesma forma, uma conversa normal poderá ser ouvida por um interlocutor distante. Isso já acontece comigo com certa frequência. Quando penso em alguém que não vejo há algum tempo, essa pessoa aparece de repente no dia seguinte. Ou, quando penso que preciso que alguém venha para tratar de um assunto, essa pessoa logo aparece.
+
+**Pergunta: No futuro, isso se tornará ainda mais aprimorado?**
+
+Sim.
+
+**Pergunta: Nesse caso, as pessoas com maior elevação espiritual terão um poder mais forte?**
+
+Sem dúvida.
+
+**Pergunta: Se várias pessoas fizerem isso ao mesmo tempo, não haverá interferência? (Risos)**
+
+Não, não haverá interferência. A comunicação se direcionará para o lugar mais forte ou para o ponto crucial. Mesmo hoje, quando alguém me visita, eu percebo imediatamente: “O que será que ele veio fazer hoje? Ah, veio por causa disso”. E, se for algo inadequado, eu recuso.
+
+**Pergunta: No futuro, todos serão capazes de fazer isso?**
+
+Sim, todos serão. Embora seja um pouco diferente, práticas como perceber as intenções das pessoas ou captar o momento oportuno já são algo semelhante. O primeiro-ministro Yoshida entende bem o conceito de momento oportuno. Por ter agido no tempo certo, seu governo tem sido duradouro. Ele ainda conta com um apoio considerável da população. Ele sente a atmosfera do povo japonês. Quando Ashida se tornou primeiro-ministro, Yoshida também poderia ter concorrido, mas decidiu esperar que o momento amadurecesse mais, e por isso assumiu agora. É assim que as coisas funcionam.
+
+**Pergunta: Dizem que não é bom construir uma casa usando materiais como vigas de pontes destruídas por enchentes. Qual a sua opinião?**
+
+A casa é algo precioso. É onde o ser humano vive. Pode-se dizer que ela é como um anjo da guarda. Construí-la usando materiais que já tiveram outro uso, não apenas vigas de pontes, é um erro. Isso é um desrespeito ao ser humano. Perde-se a proporcionalidade. Da mesma forma, usar pilares invertidos também não é correto. A madeira tem uma direção, para cima e para baixo, e deve ser utilizada corretamente. A casa, embora com variações dependendo do estilo de vida, deve ser construída da forma mais correta possível. Contudo, se a madeira de uma viga de ponte for usada para algo mais simples, na parte externa da casa, não há problema.
+
+**Pergunta: Em um arrozal no terceiro ano sem fertilizantes, colhi nove sacas. No entanto, como as espigas estavam muito pesadas, cerca de setenta a oitenta por cento das plantas tombaram. Seria por excesso de composto orgânico?**
+
+Entendo. Como é esse arrozal, é irrigado?
+
+**Pergunta: Sim, é irrigado.**
+
+Que tipo de composto você usou?
+
+**Pergunta: Usei palha de arroz.**
+
+Palha. E mais alguma coisa?
+
+**Pergunta: Não usei mais nada.**
+
+Muitas pessoas dizem que usam apenas composto orgânico, mas acabam adicionando dejetos. De qualquer forma, nove sacas é uma boa colheita.
+
+**Pergunta: Em outras áreas, a colheita foi de cerca de sete sacas. Onde se usou trevo, foi de seis sacas.**
+
+Trevo.
+
+**Pergunta: Refiro-me à astrágalo.**
+
+Ah, astrágalo. Não há necessidade de usar isso. Deus não a criou para ser fertilizante, mas para nos agraciar com suas belas flores. Deve haver alguma outra causa para o tombamento.
+
+**Pergunta: É possível produzir sem usar nenhum tipo de composto?**
+
+Sim, é possível. Nesses locais, o solo é macio. A função da palha é aquecer e amaciar o solo. É necessária em regiões frias, mas em climas quentes, pode ser dispensável.
+
+**Pergunta: Na província de Ibaraki, há um lugar onde, de um terreno de quatro *se*, colhem-se quatro sacas há gerações, sem nunca terem adicionado uma única folha de capim.**
+
+Impressionante, é uma colheita abundante.
+
+**Pergunta: Os agricultores costumam falar em “suprimento natural”...**
+
+O que é “suprimento natural”?
+
+**Pergunta: Por exemplo, dizem que de um *tan* de arrozal, pode-se colher até cinco sacas naturalmente. Mas, para colher mais do que isso, é preciso usar fertilizantes.**
+
+Isso é o contrário. (Risos) Se você quer colher pouco, use fertilizantes. Se quer colher muito, não os use. (Risos) Em suma, isso é uma superstição. O que estou fazendo agora é quebrar superstições. E, no entanto, são eles que me acusam de superstição. É um engano colossal. (Risos)
+
+**Pergunta: Durante o processamento de algodão, gera-se uma grande quantidade de resíduos. É apropriado usá-los como composto na lavoura?**
+
+Não é muito bom. O composto que utilizamos deve ser “natural”. Resíduos de algodão não se espalham naturalmente no ambiente. Folhas de árvores e de capim são sempre a melhor opção.
+
+*Nota do Editor*
+
+○ Feliz Ano Novo a todos. Publicamos a décima sexta edição do “Registro das Sagradas Palavras”. Este número contém as palavras do Grande Mestre proferidas durante os meses de novembro e dezembro do ano passado.
+
+○ Ao adentrarmos o novo ano de 1950, conforme lemos nos recentes poemas do Grande Mestre, este será “um ano extraordinário”. Desejamos, com fervor renovado, “apertar os cintos” e nos empenhar ainda mais em auxiliar na Grande Obra Divina.
+
+○ Este livreto já alcançou sua décima sexta edição. Conforme comunicado anteriormente, o propósito de sua publicação é servir de guia para que o maior número possível de membros possa entrar em contato com o sublime e compassivo coração do Grande Mestre, banhar-se na luz de Sua sabedoria, aprimorar sua inteligência, elevar sua iluminação e, juntos, avançar no auxílio à conclusão da Obra Divina. Com a chegada deste novo ano de grande transição, renovamos nosso espírito e nos comprometemos a um esforço ainda maior.
+
+---
+
+# Coletânea de Teses do Mestre Okada Jikan
+
+**Categoria:** sasshi | **Ano:** 昭和29(1954)年11月20日 | **Fonte:** 浄霊法講座
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-11-20
+
+## Coletânea de Teses do Mestre Okada Jikan
+## Curso sobre o Johrei (IV) — Crítica à Farmacologia
+Publicado na 4ª edição do "Curso sobre o Johrei", em 20 de novembro de 1954
+
+### Um — Sobre a Superstição nos Medicamentos
+
+#### 1. O Futuro da Medicina sob a Ótica da Ciência Divina
+
+##### 1-1. A Ocultação do Núcleo Vital pela Ausência do Poder do Deus Supremo (Coletânea de Ensinamentos, vol. 8, p. 11)
+
+A medicina tem se dedicado unicamente a pesquisar a aniquilação do bacilo da tuberculose. Nesse sentido, estou redigindo atualmente a obra "A Cultura do Supremo Deus". O mundo, até então, assemelhava-se a um círculo desprovido de seu ponto central, que é a origem de tudo. Isso se deve ao fato de o poder do Supremo Deus não ter se manifestado plenamente. O Deus Supremo — em termos humanos, o patriarca da família — esteve ausente, deixando a administração a cargo de gerentes. Assim, as divindades veneradas até hoje, incluindo Cristo e Buda, atuaram como Seus gerentes. Embora Cristo se refira ao "Pai que está nos Céus", esse Pai é, de fato, o próprio Deus Supremo. Portanto, o ponto central e vital permaneceu oculto para todos. A humanidade via apenas o círculo, e era somente isso que conseguia compreender. A Igreja Messiânica, contudo, manifesta o poder do Deus Supremo — o ponto central. Por essa razão, ela detém a força para solucionar a causa fundamental de todas as calamidades humanas. A compreensão clara desse aspecto é suficiente para um entendimento geral.
+
+##### 1-2. A Crítica à Farmacologia nos Escritos Divinos (Coletânea de Ensinamentos, vol. 14, p. 31)
+
+A Igreja Messiânica é a única religião que nega a medicina. A motivação que me levou a ingressar na Oomoto-kyo foi precisamente o conhecimento dos equívocos da medicina. Nos Escritos Divinos (Ofudesaki) daquela religião, há uma passagem que diz: "A essas substâncias inúteis, vindas do estrangeiro, que se tornam veneno, mas jamais remédio, o povo insensato paga fortunas para macular o próprio corpo. Até mesmo Deus se vê em apuros com tal situação". Aquelas palavras me deixaram estarrecido. Naquela época, ninguém afirmava que os medicamentos eram venenos. Contudo, tal verdade já estava claramente registrada nos Escritos Divinos. Compreendi a gravidade do assunto, e essa revelação constituiu o principal atrativo que me conduziu à Oomoto-kyo.
+
+##### 1-3. Chegará o Tempo em que os Medicamentos Perderão a Eficácia e Serão Temidos (Coletânea de Ensinamentos, vol. 13, p. 15)
+
+O Mundo Espiritual está passando por transformações progressivas, o que significa que a purificação se torna cada vez mais intensa. Em contrapartida, as curas também se tornam consideravelmente mais rápidas, e a eficácia do Johrei vem aumentando continuamente. Creio que os senhores já devem ter percebido nitidamente que as doenças são sanadas com muito mais celeridade do que antes. O mesmo resultado é alcançado em um período mais curto. Os relatos de graças recentes, aliás, confirmam essa tendência de curas rápidas. Esse é o tipo de milagre que tem se tornado frequente.
+
+Nesse sentido, nosso trabalho foi, por um lado, facilitado. Conforme avançarmos, contudo, observaremos um fenômeno inverso ao da medicina. Os medicamentos que antes surtiam efeito — entenda-se, que solidificavam as toxinas — perderão essa capacidade e, gradualmente, deixarão de curar. Em outras palavras, a supressão temporária dos sintomas não será mais possível. Recentemente, tem se tornado comum a opinião de que fármacos como a estreptomicina já não funcionam. O mesmo ceticismo recai sobre o BCG e a hidrazida. Consta que as vendas da hidrazida estão decepcionantemente baixas, para a preocupação de seus fabricantes. Casos como esses, em que os medicamentos se mostram ineficazes, multiplicam-se a cada dia, o que considero um desenvolvimento interessante.
+
+Mais adiante, adentraremos uma era em que os medicamentos serão vistos como algo terrível. A partir de então, nosso campo de atuação se ampliará. Inevitavelmente, chegará o tempo em que o método de cura da Igreja Messiânica será a única alternativa viável, e a partir desse momento, nossa rotina se tornará vertiginosamente atribulada. Essa época se aproxima a passos largos. Não me regozijo com o infortúnio alheio, mas tal perspectiva me enche de grande expectativa.
+
+##### 1-4. Com o Advento da Era do Dia, os Tratamentos Médicos Farão Aumentar Drasticamente as Doenças Malignas (Registro de Orientações Divinas, vol. 5, p. 37)
+
+A salvação da Era da Noite se transformará na salvação da Era do Dia. Ou seja, a escuridão dará lugar à luz diurna. Esse é o plano estabelecido por Deus. (...) Trata-se de uma transição de magnitude colossal; não se pode esperar que uma reviravolta tão completa ocorra de maneira suave e sem percalços. Os métodos do passado chegarão a um impasse absoluto. As doenças aumentarão de forma avassaladora, e o processo de purificação intensa que hoje acomete nossos membros, inclusive os mais antigos e os dirigentes, se estenderá a toda a sociedade. Quando os médicos tentarem intervir com seus tratamentos, obterão o efeito contrário, agravando ainda mais a situação. As pessoas começarão a compreender, pouco a pouco, que não há salvação fora da Igreja Messiânica e que suas doenças não serão curadas sem ela. Nesse momento, o mundo se transformará por completo.
+
+A medicina se esforça incessantemente para deter a purificação. Quando surge uma febre, por exemplo, aplicam-se injeções e diversos outros recursos para paralisá-la. Com isso, o indivíduo consegue apenas manter-se respirando com dificuldade. Os senhores devem ter lido no jornal o artigo que mencionava o perigo que se segue à supressão temporária de uma doença. Agora, escrevem que o BCG, por deter momentaneamente a purificação, transmite uma falsa sensação de segurança, mas que, em decorrência disso, aumentarão enormemente os casos de enfermidades malignas que não puderam ser contidas. Tudo o que escrevi vem se concretizando gradualmente. Nos Escritos Divinos da Oomoto-kyo, há uma passagem que afirma: "Não haverá um milímetro de diferença no que Deus disse. Nem mesmo a espessura de um fio de cabelo se desviará".
+
+##### 1-5. Qual o Futuro dos Médicos e dos Medicamentos? (Coletânea de Ensinamentos, vol. 13, p. 28)
+
+*Artigo "Advertência aos Profissionais da Medicina" (Revista Eikou, nº 171)*
+
+Conforme o texto que acabamos de ler, o fim da medicina ocorrerá de forma relativamente rápida. Um fato a ser observado é que, ultimamente, ouço com frequência que medicamentos antes eficazes já não surtem efeito. A hidrazida, por exemplo, que foi recebida com tanto alarde, já se mostra inútil. Recentemente, um hospital realizou um levantamento estatístico e constatou que, na maioria dos casos, após duas ou três semanas, ou no máximo um ou dois meses, o número de bacilos da tuberculose, que havia diminuído drasticamente no início, voltava a crescer de forma alarmante. Ademais, os bacilos se tornavam muito mais resistentes. Cerca de trinta por cento dos pacientes apresentavam esse quadro. Esse percentual ainda é baixo porque o tempo de observação foi curto. Com o passar dos anos, chegará a cinquenta e, por fim, a cem por cento. Em breve, portanto, atingiremos um ponto em que o tratamento será completamente inócuo. Assim, tudo caminha exatamente como escrevi no artigo "Rindo dos Novos Fármacos para a Tuberculose".
+
+Nos últimos tempos, um número considerável de médicos começou a duvidar dos medicamentos. A razão pela qual o que antes funcionava agora não funciona mais é que, com a intensificação da purificação no Mundo Espiritual, os métodos de solidificação das toxinas se tornaram progressivamente ineficazes. O veneno acumulado no corpo humano, diferentemente de uma gelatina, já não se solidifica como antes. Consequentemente, a ingestão de remédios e a aplicação de injeções se tornarão procedimentos perigosos e impraticáveis. Dias atrás, um jornal noticiou o caso de uma pessoa que morreu poucos minutos após receber uma injeção. A família decidiu processar o médico, cuja defesa, segundo a opinião de outros profissionais, se baseou na alegação de uma "constituição física peculiar". Incidentes como esse se tornarão cada vez mais frequentes. Diante disso, os próprios médicos passarão a questionar a medicina, concluindo: "Isso não funciona mais. É perigoso demais continuar praticando a medicina". Assim, não será uma força externa que derrubará a medicina, mas sim seus próprios praticantes que a abandonarão. E isso não levará muito tempo.
+
+O artigo que redigi é uma advertência sobre essa realidade. Quando tal cenário se concretizar, a Igreja Messiânica enfrentará uma demanda extraordinária. Como mencionei no texto, seremos disputados pelo mundo inteiro. Naquela ocasião, estaremos tão atarefados que será uma grande provação. Portanto, é fundamental que aproveitem o tempo de agora para se prepararem, lendo os Escritos Divinos o máximo possível.
+
+##### 1-6. O Aumento da Expectativa de Vida é Resultado do Progresso Extremo da Terapêutica Inversa, que a Partir de Agora Apresentará Efeito Contrário (Coletânea de Ensinamentos, vol. 28, p. 21)
+
+*Artigo "A Razão do Aumento da Expectativa de Vida" (Revista Eikou, nº 234)*
+
+Em suma, os métodos para paralisar a purificação tornaram-se mais eficazes. Embora seja estranho chamar de progresso, as técnicas de interrupção da purificação foram aprimoradas. Por isso, a expectativa de vida aumentou temporariamente. Contudo, dentro de dois ou três anos, a purificação no Mundo Espiritual se intensificará a tal ponto que entraremos, inversamente, numa era de longevidade drasticamente reduzida. Será uma era de terror, que já se avizinha.
+
+A prova mais evidente disso é que os senhores, ao ministrarem Johrei, percebem que as curas estão mais fáceis e rápidas do que antes, não é verdade? Isso ocorre porque o poder purificador aumentou. O fato de as pragas nas lavouras terem se tornado muito mais frequentes também é um sinal da transformação do Mundo Espiritual. O poder purificador se intensifica, e para detê-lo, os medicamentos precisam ser cada vez mais fortes. O recente aumento da expectativa de vida é, portanto, o resultado do progresso extremo da terapêutica inversa. Chegamos ao limite desse método. A partir de agora, o poder do Mundo Espiritual, que anula a terapêutica inversa, crescerá exponencialmente. Assim como a má colheita deste ano, em pouco tempo a capacidade de paralisar a purificação se enfraquecerá drasticamente, como um efeito rebote.
+
+Consequentemente, tomar um remédio agravará o estado do paciente imediatamente, e uma injeção poderá levá-lo ao colapso. Como já disse antes, os próprios médicos ficarão apavorados. "Isso é terrível! Uma simples intervenção e os pacientes pioram ou perecem", pensarão. Será uma era de pânico. Somente então as pessoas reconhecerão: "A doutrina da Igreja Messiânica estava correta. Parece que não há segurança fora dela".
+
+##### 1-7. A Razão pela qual a Hidrazida, Eficaz nos Estados Unidos, não Demonstra a Mesma Eficácia no Japão (Coletânea de Ensinamentos, vol. 12, p. 14)
+
+*Artigo "Lamento pelos Farmacêuticos" (Revista Eikou, nº 165)*
+
+Enquanto isso, nos Estados Unidos, eles continuam a desenvolver novos medicamentos para tuberculose e outras doenças, criando um cenário completamente inverso. A eficácia da hidrazida, por exemplo, já é questionada, e diversas teorias surgiram. A questão é que, nos Estados Unidos, ela funciona muito bem. Por isso foi trazida ao Japão com grandes expectativas, mas aqui não demonstra a mesma eficácia. Existe uma razão para isso: a purificação no Mundo Espiritual do Japão é mais intensa. Sendo aqui a fonte da Luz, o Mundo Espiritual japonês é mais iluminado. Como a eficácia de um medicamento reside em sua capacidade de paralisar a purificação, tal paralisação não ocorre aqui com a mesma intensidade que nos Estados Unidos. Lá, a força de solidificação ainda prevalece, o que explica por que um fármaco eficaz lá não o é aqui.
+
+Enquanto debatem as razões, o medicamento perderá gradualmente seu efeito, e seu fracasso é inevitável. Com o tempo, a purificação também se intensificará nos Estados Unidos; é apenas uma questão de tempo. No fim, será necessário criar medicamentos muito mais potentes, ou seja, com maior teor de veneno, a fim de paralisar a purificação ao máximo. A hidrazida é um exemplo disso. Recentemente, três pessoas morreram após seu uso. A reação contrária à paralisação da purificação se tornará tão forte que a morte ocorrerá antes que qualquer efeito de contenção se manifeste. Assim, chegará uma era em que a medicina e os medicamentos serão postos em dúvida. A partir desse momento, o palco será nosso. Ainda temos algum tempo, mas conhecer esses fatos nos permite compreender muitos outros fenômenos.
+
+#### 2. A Ausência de Caráter Científico na Medicina Moderna
+
+##### 2-1. Tomar Remédio ao Adoecer Equivale a Acreditar que a Saúde Era Mantida pelo Uso Contínuo de Remédios e que a Doença Surgiu por uma Interrupção Temporária (Coletânea de Ensinamentos, vol. 26, p. 27)
+
+O ato de tomar um medicamento quando se está doente parte do pressuposto de que a saúde era mantida pelo uso contínuo de remédios e que a doença surgiu porque, por acaso, seu uso foi interrompido. A lógica é a mesma de quem diz: "Como me alimento todos os dias, estou forte e disposto. Mas, como pulei uma ou duas refeições, sinto-me fraco e incapaz de trabalhar. Preciso comer logo para recuperar as forças". Ao comer, a pessoa se sente saciada e volta a trabalhar. Da mesma forma, acredita-se: "Eu estava saudável porque tomava remédios. Como o efeito passou, fiquei fraco, ou seja, adoeci. Portanto, se eu tomar o remédio novamente, ficarei bem". Refletindo sobre isso, a verdade se torna clara.
+
+Mesmo sem conhecer o princípio da purificação, uma análise baseada no simples bom senso revela o absurdo dessa lógica. "O senhor parece muito debilitado ultimamente." "Sim, é que o efeito do remédio passou." "Então tome bastante remédio, o mais forte que encontrar." A pessoa toma uma grande quantidade de um medicamento potente e se recupera. Assim pensam os homens de hoje.
+
+Ora, as pessoas que vivem em regiões montanhosas remotas, as classes mais baixas ou aquelas completamente ignorantes sobre o assunto não tomam remédios. Seguindo essa lógica, deveriam estar sempre debilitadas. E os grandes heróis do passado, como Benkei, deveriam ter consumido quantidades enormes de medicamentos para manter sua força. No entanto, é justamente na chamada era da civilização que o ser humano se tornou cada vez mais fraco. E agora, o mundo inteiro se mobiliza para que todos tomem remédios. É uma situação muito estranha.
+
+Existem muitas pessoas que são fortes porque não tomam remédios e, por serem fortes, não precisam deles. A situação é, no mínimo, curiosa. Se alguém dissesse: "As pessoas são fortes porque tomam remédios, não é? É estranho que você, sem tomá-los, seja forte", isso seria um disparate completo. As pessoas não conseguem compreender nem mesmo essa lógica tão simples.
+
+Agora, vamos analisar a questão sob a ótica da purificação. Com o surgimento contínuo de novos fármacos, anunciados exaustivamente nos jornais, as pessoas os consomem e, no fim, acabam perdendo a própria vida. Mesmo uma reflexão superficial revela a tolice dessa atitude. E se considerarmos que o resultado é ainda mais negativo do que se imagina, a situação transcende a mera estupidez. Não compreender essa lógica já seria um sinal de insensatez, mas persistir nesse caminho, sofrendo e abreviando a própria vida, é algo que vai além. Por isso, não me resta outra alternativa senão intitular este tópico de "A Supratolice".
+
+##### 2-2. Os Medicamentos Iludem por seu Efeito Temporário, Pois Todos São Entorpecentes
+
+**(a) Os Entorpecentes Atuam Rapidamente, e os Demais Medicamentos, de Forma Lenta. Disso Decorre o Pensamento Contraditório de que os Primeiros São Perigosos, e os Segundos, Não. (Coletânea de Ensinamentos, vol. 14, p. 8)**
+
+*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
+
+É importante que expliquem isso claramente aos membros. A pessoa sente o estômago ruim, uma dor, um mal-estar, e toma um remédio para o estômago. Momentaneamente, ela melhora. Sente dor de cabeça, toma um analgésico e a dor cessa por um tempo. Contudo, essa melhora temporária mascara a verdade: a dor de estômago, os espasmos gástricos e a dor de cabeça são, na realidade, o resultado do uso prévio de medicamentos gástricos e digestivos. Um digestivo estimula o apetite e faz a comida parecer mais saborosa, e a pessoa, iludida por esse efeito, recorre a ele a cada pequeno mal-estar. O mecanismo é idêntico ao de um entorpecente, e, com o tempo, o mal-estar retorna. A dose que era de um comprimido por dia aumenta para dois, três, e o medicamento precisa ser cada vez mais forte, seguindo a mesma trajetória de um viciado. No fim, a pessoa sente tanta necessidade do entorpecente que chega a roubar para obtê-lo.
+
+A única diferença é que os entorpecentes agem de forma aguda, e os medicamentos para outras doenças, de forma crônica. Por isso, as pessoas temem o entorpecente de efeito rápido, mas não o veneno dos medicamentos que age lentamente. É uma lógica absurdamente contraditória, mas que reflete a realidade atual. Portanto, a maneira mais clara de explicar é considerar todos os medicamentos como entorpecentes, como os membros já o fazem.
+
+No caso da tuberculose, por exemplo, o uso da hidrazida faz a febre baixar consideravelmente e o apetite aumentar. Como a febre é o principal fator que afeta o apetite, sua redução naturalmente o estimula, levando ao ganho de peso. Isso cria a impressão de grande eficácia. No entanto, ouvi dizer que, recentemente, após duas ou três semanas, o paciente retorna ao estado original, e os bacilos da tuberculose se tornam malignos. Isso significa que o "entorpecente" perdeu seu efeito em poucas semanas.
+
+À medida que a purificação no Mundo Espiritual se intensifica, um entorpecente que antes fazia efeito por seis meses ou um ano perderá sua eficácia cada vez mais rápido. Basta refletir sobre o que acabamos de ler: "Ultimamente, os remédios não fazem mais efeito", ou "Aquele remédio era tão bom antigamente". Se as pessoas analisassem essa questão a fundo, certamente compreenderiam. Mas nem sequer lhes ocorre tal pensamento. Elas estão tão imersas na superstição dos medicamentos que não conseguem conceber que eles sejam a causa do problema. A situação chegou a esse ponto.
+
+O corpo humano, no entanto, não mudou em nada nos últimos vinte ou trinta anos. Sua fisiologia é a mesma há milhares, dezenas de milhares de anos. É absurdo que algo que funcionava há uma ou duas décadas tenha deixado de funcionar. Contudo, ouve-se frequentemente: "Tal remédio era eficaz naquela época". E são os próprios médicos que o dizem. Eles não cogitam que talvez seja o corpo humano que mudou. Então, o que seria? O medicamento mudou? Não, o método de fabricação é o mesmo. Isso deveria despertar suspeitas, mas nem mesmo essa dúvida surge em suas mentes. E, mesmo que surgisse, não saberiam a resposta. Limitam-se a pensar: "Que estranho". E quando um paciente que eles consideravam incurável se recupera em meio mês ou um mês com o Johrei, eles apenas coçam a cabeça, sem entender, e o assunto se encerra. Do nosso ponto de vista, é uma atitude verdadeiramente tola.
+
+O mesmo se aplica aos fertilizantes, que também causam uma forma de dependência. No ano em que se aplica sulfato de amônio, ou no ano seguinte, a colheita é abundante. As pessoas pensam que é bom e continuam a usá-lo, até que o solo se torna dependente. Elas não percebem isso. A lógica dos fertilizantes e dos medicamentos é a mesma. Em suma, não há erro em considerá-los como entorpecentes.
+
+**(b) Trocar de Medicamento Produz Efeito Temporário porque o Corpo Desenvolve Resistência e se Intoxica, Tornando Necessária a Mudança. (Coletânea de Ensinamentos, vol. 14, p. 16)**
+
+Fala-se muito em vício em entorpecentes como se fosse um problema alheio, mas, na verdade, toda a população japonesa está viciada. A única diferença reside na velocidade com que o entorpecente faz efeito. O que chamamos de "entorpecente" é aquele de ação rápida. O que chamamos de "medicamento" é um entorpecente de ação lenta. Foi sobre isso que escrevi.
+
+*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
+
+Os médicos costumam dizer: "Este remédio funcionava antes, mas agora não funciona mais". Isso é o mesmo que o vício em entorpecentes. No início, uma injeção a cada três dias era suficiente, mas, com o tempo, o efeito diminui, e a frequência aumenta para uma a cada dois dias, depois uma por dia. O mesmo ocorre com os remédios para gripe ou estômago: o que antes era usado ocasionalmente passa a ser necessário com cada vez mais frequência. As injeções para asma, por exemplo, que eram aplicadas apenas durante as crises, passam a ser necessárias a cada três dias, até se tornarem de uso contínuo. É o mesmo mecanismo dos entorpecentes, que, no fim, causam tanto sofrimento em sua ausência que a pessoa chega a roubar para obtê-los. As injeções para asma seguem essa lógica. Ficar um tempo sem a injeção causa uma sensação de sufocamento.
+
+Analisando dessa forma, todos os medicamentos são entorpecentes. Se tememos o vício em entorpecentes, deveríamos temer também os outros medicamentos. A única diferença é que estes não agem tão rapidamente. Como o efeito é mais lento, a intoxicação leva mais tempo para se manifestar, e as pessoas não percebem. A estupidez humana é indescritível.
+
+Os novos medicamentos para tuberculose mudam constantemente. Agora falam da hidrazida, mas logo surgirá outra coisa. Enquanto as pessoas não perceberem a verdade, novos fármacos continuarão a aparecer. Contudo, com o tempo, o mundo inteiro passará a acreditar em nossa tese. Até lá, novos medicamentos surgirão em profusão. E um novo medicamento nada mais é do que um entorpecente com efeito potencializado. Se as pessoas soubessem disso, ficariam apavoradas.
+
+Ao explicar a um paciente sobre a intoxicação por medicamentos, usar o exemplo dos entorpecentes é a forma mais clara e eficaz. A estreptomicina é um entorpecente. A hidrazida é um entorpecente. Dizendo assim, a compreensão é imediata.
+
+O aumento da variedade de medicamentos também é curioso. Quando uma pessoa toma continuamente um remédio para o estômago, ele para de fazer efeito. Dizem que, ao trocar o medicamento, o efeito retorna temporariamente. O fato de um remédio deixar de funcionar significa que o corpo se intoxicou. A intoxicação ocorre porque o corpo desenvolve resistência a ele. É o mesmo princípio de quando comemos algo venenoso e, com o tempo, deixamos de nos intoxicar. Ao se repetir o mesmo estímulo, o corpo se vicia. Por isso, é preciso mudar. Na agricultura, isso equivale ao problema da monocultura. O solo está intoxicado por um tipo de fertilizante; ao mudar de cultura, a terra se recupera temporariamente. Pensando por esse prisma, o veneno dos medicamentos se torna muito claro.
+
+**(c) O Homem Moderno, com o Raciocínio Prejudicado pelo Veneno dos Medicamentos, Perdeu a Capacidade de Julgamento e se Deixa Iludir pelo Efeito Temporário dos Remédios. (Coletânea de Ensinamentos, vol. 12, p. 19)**
+
+Para qualquer problema, existe apenas uma solução, um único caminho correto. O que nos impede de encontrá-lo é a debilidade de nosso raciocínio, causada pelo veneno dos medicamentos. É por isso que, como disse anteriormente, o homem moderno possui uma inteligência superficial que encobre uma estupidez profunda. Se os medicamentos fossem completamente abolidos, nosso raciocínio melhoraria consideravelmente. Não só isso, mas as doenças infecciosas desapareceriam. Os micróbios nocivos brotam do veneno dos medicamentos. Existem micróbios bons e necessários, mas os ruins surgem desse veneno. As pessoas ignoram e são incapazes de descobrir essa verdade.
+
+Portanto, é imperativo, no mínimo, aprimorar a capacidade de raciocínio da humanidade. A educação é importante, mas tende a desenvolver a inteligência superficial, a erudição. Embora o conhecimento possa aprimorar a capacidade de julgamento, o centro do raciocínio está debilitado, impedindo que a mente funcione adequadamente para julgar as questões essenciais. Em suma, apenas a periferia do cérebro funciona, enquanto o núcleo permanece inativo.
+
+E, ainda assim, as pessoas depositam uma fé cega nos medicamentos. Como noticiado nos jornais, elas anseiam por tomar a recém-lançada hidrazida, acreditando ser algo extraordinário, quando, na verdade, ela apenas agrava a situação e não cura a tuberculose. Todos os medicamentos são entorpecentes: produzem uma melhora temporária. É como uma pessoa com o raciocínio lento que, ao receber uma injeção de entorpecente, sente a mente clarear. Por isso, seu uso se tornou comum entre escritores que precisam entregar um manuscrito com urgência; sob seu efeito, escrevem com uma fluidez impressionante, e acabam se viciando. Isso não se restringe aos entorpecentes; aplica-se a todos os medicamentos. Uma pessoa sem apetite toma um remédio, o apetite aumenta temporariamente, e ela acredita que fez bem. Continua a tomar, e isso se torna um hábito, levando a sintomas de intoxicação.
+
+O entorpecente de efeito rápido é controlado como tal, mas aquele de efeito lento não é reconhecido nem descoberto. Assim, o de ação rápida é rechaçado como entorpecente, enquanto o de ação lenta é recomendado como benéfico. É um procedimento ignorante, fruto de uma mente obtusa, ao qual as pessoas se acostumaram. Nosso esforço consiste em ensiná-las e fazê-las compreender essa realidade. É uma superstição acreditar que esses entorpecentes não o são. E, quando dizemos isso, somos nós os acusados de supersticiosos. A mente humana está nesse nível de degradação. Pode-se dizer que o homem moderno é, no mínimo, um doente cerebral.
+
+##### 2-3. Os Medicamentos Transformam as Pessoas em Indivíduos de Saúde Passiva, Reduzindo Temporariamente os Doentes, que Reaparecem com Doenças Sob Novas Formas (Coletânea de Ensinamentos, vol. 26, p. 71)
+
+Isso fica especialmente claro com os remédios para o estômago. O uso contínuo de um mesmo medicamento faz com que ele perca a eficácia. Ao trocá-lo, o efeito retorna temporariamente. Isso ocorre porque o corpo desenvolve resistência, ou seja, se acostuma aos seus componentes. A razão pela qual a mortalidade por tuberculose diminuiu e a expectativa de vida aumentou é precisamente essa. Fármacos recentes como a estreptomicina e o PAS são antibióticos, com uma composição totalmente diferente dos medicamentos anteriores. A teoria de que os antibióticos são excelentes parece ter se consolidado. Eles funcionam porque seus componentes são completamente novos para o organismo. Funcionar, nesse caso, significa ter um forte poder de paralisar a purificação. Como a purificação é enfraquecida, a morte é adiada. Contudo, após alguns anos de uso contínuo, o corpo humano desenvolverá resistência aos antibióticos, e retornaremos à estaca zero. Atualmente, um dos grandes problemas da medicina é que, ao administrar estreptomicina a pacientes com tuberculose, a atividade dos bacilos se torna extremamente forte alguns meses depois, e não se sabe como lidar com isso.
+
+Recentemente, por volta do ano passado, comemorou-se a diminuição dos casos de tuberculose. Essa redução, contudo, deve-se ao uso de novos medicamentos como BCG, estreptomicina, aureomicina, entre outros. Eles paralisaram a purificação. Com essa paralisação, a mortalidade e o agravamento dos casos foram temporariamente contidos, resultando em uma queda aparente nas taxas de mortalidade e no número de pacientes. Mas isso não se sustentará. A purificação ressurgirá, e então teremos casos de tuberculose mais malignos do que antes ou outras doenças, ou seja, doenças sob novas formas.
+
+Doenças sob novas formas têm surgido com grande frequência nos Estados Unidos. Lá, enfermidades malignas até então desconhecidas estão aparecendo em grande número, resultado da supressão da tuberculose.
+
+Na Inglaterra, por sua vez, a incidência de tuberculose é muito baixa, mas a população é composta por indivíduos de saúde passiva, com a purificação extremamente enfraquecida. São como bonecos frágeis. Recentemente, assisti a um noticiário estrangeiro no cinema que mostrava uma luta de boxe entre um negro e um branco. A diferença de força era abissal. O inglês era incrivelmente fraco, completamente exausto. O lutador negro — um nome famoso — era muito forte. Atualmente, no boxe, os negros são quase sempre mais fortes. O mesmo se observa em outras modalidades, como levantamento de peso e maratona. Nos Estados Unidos, até mesmo os indígenas têm se mostrado muito mais fortes. A população dos países civilizados foi enfraquecida para que as doenças não se manifestassem. Como resultado, o número de pessoas fracas e debilitadas aumentou. Isso é algo sobre o qual sempre escrevo.
+
+Consequentemente, na Inglaterra, a vitalidade do povo diminuiu. Por temerem a guerra e conflitos, adotaram uma postura de não-resistência. Isso é um sinal de que a nação perdeu seu vigor, enfraqueceu. Por causa disso, surgiram problemas no Irã, no Egito e em outros lugares, e, no fim, a Inglaterra perderá até mesmo suas colônias. Já não há mais energia para reverter essa situação. A medicina, portanto, foi enfraquecendo gradualmente a humanidade. Isso é um fato irrefutável. A principal causa, evidentemente, é o veneno dos medicamentos, e é imperativo que os povos dos países civilizados compreendam isso. Para tal, é preciso uma ação em escala mundial. Essa é a Vontade de Deus. O sucesso é certo, mas certamente haverá diversas mudanças. Trata-se de uma revolução pacífica, portanto, por mais drásticas que sejam as medidas, não há perigos ou riscos. Podem ficar tranquilos.
+
+##### 2-4. Os Medicamentos Não Possuem Ação Bactericida (Coletânea de Ensinamentos, vol. 8, p. 11)
+
+A causa da doença, o surgimento do bacilo da tuberculose, reside nas máculas do espírito. Removendo-as, elimina-se a causa do bacilo, e ele não mais se desenvolverá. Se não há novos bacilos, os existentes desaparecem gradualmente. Assim como os seres humanos têm um tempo de vida, o bacilo da tuberculose também o tem. Por isso, eles vão diminuindo, e os mais velhos morrem. A medicina se equivocou porque, ao observar a reprodução contínua dos bacilos, acreditou que eles se multiplicavam indefinidamente.
+
+Se um medicamento tivesse o poder real de matar um bacilo, ele também mataria o ser humano. Um remédio oral entra no estômago, passa para o intestino e, através do processo digestivo, seus componentes se espalham pelo corpo. Ao atingir todo o organismo, sua força bactericida já se dissipou. Uma injeção, por sua vez, circula pelos vasos sanguíneos, passa pelo coração e, até chegar aos bacilos no pulmão, já perdeu toda a sua potência. Para matar os bacilos de fato, o medicamento teria que ser aplicado diretamente no pulmão. E se, mesmo após circular por todo o corpo, ele ainda mantivesse seu poder bactericida, seria um veneno tão forte que a vida humana seria impossível. Matar o bacilo da tuberculose significaria matar também o ser humano. Somente assim o tratamento seria completo. E é isso que eles se esforçam diligentemente para fazer. É uma situação lamentável.
+
+##### 2-5. A Ação dos Medicamentos é Aleatória
+
+A eficácia de todos os medicamentos é meramente aleatória. É impossível explicar por qual lógica ou mecanismo eles funcionam. A essa base incerta e casual, eles dão o nome de teoria científica. Como tudo se fundamenta nessa lógica, a verdadeira lógica acaba sendo considerada ilógica.
+
+##### 2-6. O Discurso dos Médicos é Incoerente (Coletânea de Ensinamentos, vol. 14, p. 18)
+
+Recentemente, mencionei que os medicamentos estão perdendo a eficácia. Há pouco, durante um programa de rádio escolar, foi dito que o grande número de casos de disenteria este ano se deve à ineficácia das sulfas, que antes curavam a doença com relativa facilidade. Segundo os médicos, a razão da ineficácia é o uso indiscriminado por parte dos leigos. Não consigo entender por que um medicamento perderia a eficácia ao chegar às mãos de um leigo. Pelo contrário, os médicos utilizam muito mais os medicamentos, então não seria o inverso?
+
+Outra causa apontada foi que as pessoas param de tomar o remédio assim que sentem uma melhora, o que resulta em uma cura incompleta e no aumento dos casos. Tampouco compreendo essa lógica. Não seria justamente porque o remédio está fazendo efeito que as pessoas param de tomá-lo? Uma leve melhora na diarreia e já pensam que estão curadas. Dizem que isso é um erro.
+
+Em suma, o que os médicos dizem não tem fundamento. Sua lógica é incoerente. É tudo confuso e sem sentido. Suas mentes parecem estar perturbadas. Diante disso, a única recomendação que sempre fazem é lavar as mãos e evitar que moscas pousem nos alimentos e utensílios. É uma situação verdadeiramente patética.
+
+##### 2-7. Por que os Medicamentos Perdem a Eficácia? (Coletânea de Ensinamentos, vol. 19, p. 16)
+
+Com a intensificação da purificação, diversas mudanças vêm ocorrendo. Há poucos dias, um jornal noticiou que a penicilina já não é mais eficaz, assunto que abordarei na próxima edição da revista "Eikou". Ficou claro que a penicilina não é mais confiável e, portanto, tornou-se inútil. Se fosse ineficaz desde o início, não teria se popularizado como o fez. No começo, ela funcionava. Para a medicina, "funcionar" significa "solidificar". Ela tinha o poder de solidificar as toxinas, e nesse sentido, era eficaz.
+
+O estranho é que algo que funcionava há dez anos hoje não funciona mais. O ser humano não mudou nesse período; o que mudou foi o efeito do medicamento. Os médicos apresentaram várias justificativas, mas todas pareciam desculpas esfarrapadas, ditas em um momento de apuro. Alegaram que os micróbios se tornaram mais fortes. Ou seja, a ação da penicilina de enfraquecer os micróbios teria feito com que estes desenvolvessem resistência, tornando-se mais fortes e anulando o efeito do medicamento. Contudo, ouvi ontem que, embora isso pudesse ser verdade para quem usa penicilina continuamente, o mesmo ocorre com quem nunca a tomou: ela simplesmente não funciona. Essa lógica, portanto, não se sustenta.
+
+Como a medicina não tem a resposta, eles inventam alguma teoria para não abalar sua autoridade ou a credibilidade da ciência. Ouve-se muito isso nos jornais e no rádio. Eles criam argumentos para que as pessoas continuem a acreditar na medicina, mas, para nós, a farsa é transparente. O público, por desconhecer a verdade, continua a ser enganado. Assim, eles vão levando a situação de engano em engano.
+
+Por enquanto, é apenas a penicilina, mas a estreptomicina também já está sob suspeita. Em breve, ela também será considerada inútil. Em seguida, a aureomicina, a terramicina e o PAS seguirão o mesmo caminho. Ontem, alguém comentou que o último recurso seria a Terramicina, cujo nome em japonês soa como "avançar rumo ao templo" (*tera maishin*). De fato, parece ser esse o destino. Com isso, os medicamentos para tuberculose e outras doenças desaparecerão. Chegaremos a um ponto em que a medicina não conseguirá mais curar as doenças. A partir de então, nossa missão começará para valer. E não falta muito; esse tempo chegará relativamente em breve.
+
+#### 3. O Maior Estelionato é a Venda de Medicamentos (Coletânea de Ensinamentos, vol. 26, p. 49)
+
+Outro ponto que passa despercebido, e sobre o qual escreverei em breve, é que vivemos em uma "Era do Estelionato". O mundo de hoje está repleto de fraudes. A maior delas é a venda de medicamentos de balcão. Os anúncios nos jornais são abundantes e, se lidos com atenção, percebe-se que não prometem a "cura". A redação é astuta. Dizem que o produto "é muito adequado para tal doença", "proporciona bem-estar", "acelera a recuperação" ou "alivia os sintomas". Mas a palavra "cura" não está lá. A intenção é fazer o consumidor acreditar que será curado.
+
+Na realidade, a cura não acontece, e os próprios fabricantes sabem disso. A legislação sobre medicamentos de venda livre estipula apenas que o produto não pode ser prejudicial. Para que um medicamento seja eficaz, ele precisa conter veneno, pois é a molécula de veneno que produz o efeito. A lei, portanto, proíbe isso. No entanto, se não houver um mínimo de efeito, ninguém comprará. Assim, esses medicamentos apenas contêm menos veneno do que os prescritos pelos médicos. Vender um produto que não cura, fazendo parecer que cura para obter dinheiro, é crime de estelionato.
+
+Ainda mais grave é quando o médico diz: "Sua doença será curada em uma semana. Continue o tratamento por duas semanas para garantir". Vemos isso constantemente nos relatos de graças, mas na realidade, nunca acontece. O médico também não tem certeza e pensa: "Provavelmente vai curar". Se ele dissesse a verdade — "Casos como o seu não têm cura. Pela minha experiência, ninguém jamais se curou" —, não conseguiria se sustentar. Portanto, não se trata de estelionato, mas de um crime inevitável. E existem muitos crimes inevitáveis como esse.
+
+### Dois — Sobre o Veneno dos Medicamentos
+
+#### 1. Medicamentos da Farmacopeia Chinesa (Kampo)
+
+##### 1-1. Pacientes que Consumiram Grandes Quantidades de Gennoshouko e Dokudami Levam Mais Tempo para se Curar com o Johrei (Coletânea de Ensinamentos, vol. 19, p. 43)
+
+Os medicamentos da farmacopeia chinesa são extremamente nocivos, e além disso, são consumidos em grandes quantidades. Por essa razão, por mais que se ministre Johrei, o veneno continua a se acumular. Refiro-me especificamente aos medicamentos chineses. Os medicamentos ocidentais, por sua vez, manifestam-se rapidamente como furúnculos ou abcessos, sendo, nesse aspecto, mais fáceis de eliminar. Dentre eles, os mais perigosos são os desinfetantes, como já mencionado.
+
+Na farmacopeia chinesa, os mais temíveis são o *gennoshouko* e o *dokudami*. O nome *dokudami* parece derivar de "acúmulo de veneno" (*doku-dame*). Essa planta é muito consumida por mulheres que trabalham no mundo do entretenimento noturno. Antigamente, as gueixas bebiam chá de *dokudami* constantemente, em vez de chá comum. Por isso, a tez dessas mulheres, sem maquiagem, é muito ruim, o que se deve ao veneno dessas infusões. A intoxicação por medicamentos chineses é, portanto, muito mais comum entre as mulheres. Remédios como o Chujoto e muitos outros são todos da farmacopeia chinesa. Assim, a beleza feminina é gravemente prejudicada por esses medicamentos. Tendo isso em mente, é preciso explicar aos pacientes que, quanto maior a quantidade de medicamentos chineses consumida, mais tempo levará a cura pelo Johrei. Se nós, ministros, também tivermos essa consciência ao aplicar o Johrei, a diferença será considerável.
+
+##### 1-2. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Novos Fármacos (Registro de Orientações Divinas, vol. 23, p. 13)
+
+Talvez os medicamentos da farmacopeia chinesa sejam mais perigosos que a estreptomicina ou a penicilina. Isso porque são consumidos em quantidades muito maiores.
+
+##### 1-3. Os Medicamentos da Farmacopeia Chinesa Abreviam a Vida (Coletânea de Ensinamentos, vol. 29, p. 24)
+
+O recente aumento da expectativa de vida se deve ao abandono dos medicamentos chineses e à adoção dos medicamentos ocidentais. Antigamente, dizia-se que os estrangeiros viviam mais que os japoneses, e a razão era a não utilização da farmacopeia chinesa. Portanto, para abreviar a vida, não há nada como os medicamentos chineses... É uma forma estranha de dizer, mas é a verdade. O aumento da longevidade nos últimos tempos deve-se, portanto, ao desuso da medicina chinesa e à substituição dos medicamentos ocidentais por antibióticos, que paralisam a purificação de forma eficaz e com relativamente poucos efeitos colaterais.
+
+##### 1-4. Sobre a Planta Habuso (Registro de Orientações Divinas, vol. 3, p. 22)
+
+"Em algumas regiões, as pessoas bebem chá de *habuso*."
+
+A *habuso* não causa grandes problemas.
+
+##### 1-5. Sobre a Intoxicação por Gennoshouko (Coletânea de Ensinamentos, vol. 7, p. 79)
+
+O *gennoshouko* afeta exclusivamente o abdômen. A intoxicação por ele é muito persistente. O único problema, portanto, é a debilidade física. À medida que se ministra Johrei, o veneno diminui e a pessoa melhora, mas, como consequência, o apetite pode diminuir, causando fraqueza. Se a pessoa conseguir suportar essa fase, será curada. Se a debilidade a vencer, o prognóstico é perigoso. Tudo depende da quantidade de medicamento ingerida, o que é impossível de estimar. (...) O inchaço abdominal ocorre quando o veneno, que estava solidificado, começa a se dissolver. (...) Deve-se concentrar o Johrei no abdômen e nos rins.
+
+##### 1-6. Uma Chaleira de Infusão de Ervas Chinesas Contém um Veneno Terrível (Coletânea de Ensinamentos, vol. 19, p. 18)
+
+A purificação se intensifica gradualmente, e, ultimamente, muitas purificações são de medicamentos ingeridos por via oral. Os sintomas incluem peso no estômago, falta de apetite ou vômitos. A purificação de medicamentos orais, especialmente os da farmacopeia chinesa, tornou-se muito frequente. Como são consumidos em grande quantidade, mesmo uma única chaleira de infusão contém um veneno terrível. Esse veneno se acumula ao redor do estômago, infiltra-se e se solidifica. Com a intensificação da purificação, ele retorna ao estômago, causando peso e perda de apetite. Pessoas com esse quadro invariavelmente têm nódulos nas costas, à esquerda, à direita ou em ambos os lados, e também ao longo da coluna vertebral. A dissolução desses nódulos traz grande alívio. Em casos graves, a falta de apetite pode levar a uma grande debilidade. Portanto, deve-se ministrar Johrei com o objetivo de dissolver esses nódulos nas costas.
+
+##### 1-7. Gennoshouko e Ruibarbo (Daio) (Coletânea de Ensinamentos, vol. 19, p. 35)
+
+É preciso ter em mente a questão dos medicamentos da farmacopeia chinesa. Muitas pessoas, ao ouvirem falar do veneno dos medicamentos, não consideram os remédios chineses como tal. Quando digo a alguém: "Sua doença é causada pelo veneno dos medicamentos. O senhor deve ter tomado muitos remédios", a pessoa responde: "Não tomei muitos". Insisto: "Não é possível". E ela admite: "Quando criança, tomei uma infusão, mas foram só duas ou três chaleiras". Eu explico: "É exatamente isso". E a pessoa fica surpresa. Duas ou três chaleiras de uma infusão chinesa contêm um veneno terrível. A razão pela qual a expectativa de vida dos japoneses diminuiu foi o uso desses medicamentos.
+
+A história mostra que, até cerca do ano mil, as pessoas viviam mais de cem anos. A partir dos séculos XIV e XV, a longevidade diminuiu drasticamente. A farmacopeia chinesa foi introduzida no Japão pouco depois do ano mil. No reinado do Imperador Kinmei, houve uma epidemia, que era a varíola, doença até então inexistente no Japão. Os medicamentos chineses são os que mais abreviam a vida. O recente aumento da longevidade deve-se ao fato de não os consumirmos mais. Nesse aspecto, os medicamentos ocidentais são relativamente menos prejudiciais. Contudo, fármacos recentes como a penicilina e a hidrazida são muito tóxicos, e seu uso contínuo certamente levará a consequências terríveis.
+
+A intoxicação por medicamentos chineses é mais visível na cor da pele. Tons amarelados ou azulados-escuros são sinais dessa intoxicação e podem ser confirmados com uma investigação. Muitas pessoas têm a pele inchada e azulada, especialmente as mulheres, que consomem mais esses medicamentos do que os homens. O mais perigoso de todos, como sempre digo, é o *gennoshouko*. Quem o tomou, pode-se dizer que dificilmente sobreviverá. Em segundo lugar vem o *dokudami*, e há vários outros.
+
+Meu pai faleceu aos cinquenta e seis anos, uma morte muito prematura. Para tratar uma constipação, ele tomou diariamente, por vinte ou trinta anos, um medicamento chamado ruibarbo (*daio*), sem falhar um único dia. Se não o tomasse, sentia-se mal. Antes de morrer, desenvolveu uma doença cardíaca. O médico disse que ele não viveria mais que seis meses, e, de fato, ele faleceu alguns meses depois. No momento da morte, a pele de seu escroto se rompeu, liberando um líquido de odor fétido. Na época, eu era jovem e não compreendi, mas hoje sei que foi uma intoxicação por ruibarbo.
+
+A cor da pele é o sinal mais claro. Por isso, muitos chineses têm a pele amarelada e raramente rosada. É o efeito da intoxicação por medicamentos chineses, que lá, sendo o berço dessa prática, são muito mais consumidos. Portanto, em casos de intoxicação por medicamentos, investigar o uso da farmacopeia chinesa é um caminho seguro. Os agricultores do interior também costumam ter a pele amarelada. As pessoas da cidade têm a pele branca ou pálida, mas no campo, o tom amarelado é comum. Dizem que é por causa da má alimentação, mas não é verdade; é porque bebem infusões de ervas. Mesmo com uma dieta pobre, se um agricultor não tomar esses medicamentos, sua pele será rosada.
+
+Percebi isso claramente na primavera do ano passado, quando o abade do templo Yakushiji, Hashimoto Gyo-in, me visitou. Conversamos por meio dia. Ele tinha um rosto incrivelmente rosado, uma tez exemplar. Era corpulento e de uma saúde robusta. Havia nele uma beleza masculina, uma formosura que me cativou. Tinha cinquenta e seis anos e era estritamente vegetariano. Preparei-lhe um jantar especial, sem usar nem mesmo flocos de peixe seco, uma refeição puramente vegetariana. Segundo a nutrição, ele deveria ter a pele pálida por desnutrição, mas era o oposto.
+
+Isso mostra como a intoxicação por medicamentos chineses é terrível, e é importante falar sobre isso. Deve-se ministrar Johrei com essa consciência. Quando, mesmo com o Johrei, o veneno continua a se manifestar, geralmente se trata de medicamentos chineses, que são consumidos em grande quantidade, como um remédio de uso contínuo por muitos anos. É por isso que a pele fica ruim e muitas mulheres perdem a beleza.
+
+##### 1-8. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Ocidentais (Coletânea de Ensinamentos, vol. 31, p. 66)
+
+No Havaí, há uma particularidade em relação ao Japão: as doenças curam-se com muito mais facilidade. Além disso, purificações secundárias e outras complicações raramente ocorrem. A cura é limpa e definitiva. É um tanto misterioso, mas a razão é que quase ninguém lá consome medicamentos da farmacopeia chinesa. Os senhores, pela experiência, sabem que no Japão, mesmo durante o processo de cura pelo Johrei, o veneno dos medicamentos continua a emergir incessantemente. A quantidade de veneno é imensa. A causa disso são os medicamentos chineses.
+
+Os medicamentos ocidentais, embora mais tóxicos, são consumidos em quantidades muito menores e, por isso, são mais fáceis de eliminar. Essa compreensão tem se tornado cada vez mais clara para nós. A tuberculose, por exemplo, frequentemente apresenta purificações secundárias. Embora os medicamentos ocidentais contribuam, os pacientes com tuberculose, ao não obterem a cura com eles, geralmente recorrem, por desespero, aos medicamentos chineses. Portanto, a principal causa das purificações secundárias na tuberculose é a farmacopeia chinesa. Como essas infusões são bebidas como se fossem chá, a quantidade ingerida é enorme. Por mais que se elimine, o veneno continua a sair. Tudo isso é veneno de medicamentos chineses.
+
+O ser humano tem sido verdadeiramente tolo. Se abandonasse completamente os medicamentos, viveria mais de cem anos. É como usar fertilizante e impedir que o arroz cresça. Estávamos abreviando a vida com remédios. É por isso que no Havaí as curas são tão fáceis.
+
+#### 2. Salvarsan 606
+
+##### 2-1. Sobre a Intoxicação por Salvarsan 606 (Coletânea de Ensinamentos, vol. 6, p. 81)
+
+O Salvarsan 606 pode causar cegueira. Sua intoxicação manifesta-se como cegueira e doença mental. A desculpa, no entanto, é perfeita. Como o Salvarsan é usado para tratar a sífilis, quando a visão piora ou surge uma doença mental, a culpa é atribuída à própria sífilis. Eles sempre encontram uma justificativa.
+
+##### 2-2. Sífilis e Salvarsan 606 (Coletânea de Ensinamentos, vol. 1, p. 18)
+
+"Recebi a graça de ingressar na fé em maio de 1950. Em março de 1949, contraí sífilis e, por recomendação médica, recebi vinte e cinco injeções de Salvarsan 606. Um ano depois, o exame de sangue deu positivo, mas como não tinha sintomas, casei-me. Em maio de 1950, meu marido e eu ouvimos os maravilhosos ensinamentos e ingressamos juntos na fé. Desde então, vivemos dias de gratidão. Contudo, ambos sentimos dores ocasionais na lombar e mal-estar. Em maio deste ano, fizemos exames de sangue, e ambos os resultados foram fortemente positivos (três cruzes). O médico recomenda tratamento, dizendo que, se não o fizermos, as consequências serão terríveis. Não me preocupo com as palavras do médico, mas atualmente sentimos dores na lombar e o corpo pesado, embora isso não nos impeça de trabalhar. O que devo fazer? Peço sua orientação."
+
+Positivo ou negativo não importa. A sífilis cura-se rapidamente, em uma semana. O problema é o Salvarsan 606. A dor lombar é, com certeza, causada por ele. A sífilis não causa dor nem coceira; é uma doença assintomática. Antigamente, as doses de Salvarsan eram muito fortes, mas hoje, talvez por terem aprendido ou por astúcia, os médicos não usam doses tão altas. Vinte e cinco injeções devem ser de uma solução muito diluída. Já ouvi falar de muitos que aplicam Salvarsan apenas para ganhar dinheiro. Certa vez, um conhecido meu passou por uma farmácia perto de sua casa e comentou: "Estou tomando injeções de Salvarsan 606". "Onde?", perguntou o farmacêutico. "Naquele consultório." "Faz sentido, ele compra de mim. Quanto você paga?" Ao ouvir o valor, o farmacêutico disse: "Ele está lucrando muito com isso".
+
+Quanto ao Johrei, ministre apenas no local da dor lombar quando ela ocorrer. O mal-estar é a febre gerada pela purificação do Salvarsan que se acumulou e está sendo expelido naquela região. Ministrar Johrei apenas ali é suficiente.
+
+##### 2-3. Salvarsan 606, Desinfetantes e Gennoshouko são Potentes (Registro de Orientações Divinas, vol. 8, p. 2)
+
+"O veneno do Salvarsan 606 não pode ser totalmente eliminado em uma única geração, não é?"
+
+O Salvarsan 606 é potente. Ele, os desinfetantes e, na farmacopeia chinesa, o *gennoshouko* são os mais fortes. É a prova viva de sua ineficácia.
+
+##### 2-4. O Salvarsan 606 Prejudica o Raciocínio (Registro de Orientações Divinas, vol. 4, p. 68)
+
+"Onde o veneno do Salvarsan 606 se manifesta no corpo?"
+
+A principal característica é seu efeito na cabeça. Sem exceção, ele prejudica o raciocínio. A pessoa desenvolve distúrbios mentais, fala coisas estranhas, seus pensamentos se desviam da normalidade. Existem médicos que aplicam doses mais fracas e outros que usam doses mais fortes. Doses fracas requerem um maior número de aplicações. Antigamente, o tratamento era limitado a doze injeções, mas hoje, com soluções diluídas, chegam a cinquenta, sessenta. (...)
+
+Quando o Salvarsan 606 foi introduzido no Japão, havia um jovem com um problema na cabeça. O médico, suspeitando de sífilis, aplicou uma injeção diretamente em sua cabeça. O nome dele era Matsushita. Pouco tempo depois, ele enlouqueceu. A história está registrada no livro "O Evangelho do Céu".
+
+"Eu também perdi todo o meu cabelo por um tempo."
+
+Parece que sua mente não foi afetada. Ou talvez tenha sido e depois se curou. Nesse caso, não há perigo.
+
+#### 3. Desinfetantes
+
+##### 3-1. Desinfetantes e a Dor (Coletânea de Ensinamentos, vol. 31, p. 64)
+
+Como sempre digo, os desinfetantes invariavelmente se transformam em dor. Pode-se assumir, sem grande margem de erro, que quase todas as doenças dolorosas são causadas por desinfetantes. Contudo, não é tão simples quanto pensar que a dor em um local específico foi causada pela aplicação de um desinfetante naquele mesmo local. Por exemplo, uma pessoa com dor de cabeça pode ter o veneno de um desinfetante usado em uma cirurgia nas mãos ou nos pés que subiu e se solidificou na cabeça. Portanto, em casos de dor, deve-se sempre perguntar sobre cirurgias anteriores. Assim, a causa fica mais clara.
+
+Ultimamente, tenho ouvido muitos relatos de que pessoas com dor de dente, quase invariavelmente, fizeram a remoção do apêndice. A cirurgia de apendicite é a que mais se manifesta como dor de dente. É algo completamente inesperado. Se a dor de dente cessa após uma ou duas sessões de Johrei, a causa é local. Geralmente, a dor de dente é causada pelo desinfetante aplicado antes de uma extração ou obturação. Já escrevi sobre isso antes. Ao ir ao dentista para uma obturação, ele sempre aplica um desinfetante antes, e isso invariavelmente causa dor posterior. O desinfetante se decompõe e tenta sair, o que se manifesta como dor. Se o procedimento fosse feito sem desinfetante, não haveria dor. É uma prática verdadeiramente tola.
+
+Contudo, se a dor não cessa após uma ou duas sessões, deve-se perguntar sobre a cirurgia de apendicite. O desinfetante usado nessa cirurgia sobe gradualmente pelo corpo, passa pelo peito e tenta sair pelos dentes. A descoberta de que a causa da dor de dente é a cirurgia de apendicite é uma grande revelação mundial.
+
+#### 4. Novos Fármacos
+
+##### 4-1. Sobre as "Micinas" (Registro de Orientações Divinas, vol. 3, p. 33)
+
+"O jornal noticiou a importação de 5,05 milhões de dólares em 'micinas'."
+
+Que bom. Mas elas não são tão terríveis. Afinal, são derivadas de mofo.
+
+"Dizem que são piores que a penicilina."
+
+A penicilina é mofo puro. As outras devem ser modificações dela. Não são de origem mineral.
+
+##### 4-2. Sobre o Nível de Risco no Uso de Estreptomicina e Hidrazida (Registro de Orientações Divinas, vol. 23, p. 12)
+
+"Embora a estreptomicina e a hidrazida sejam venenos potentes, a partir de quantas injeções elas representam um risco à vida?"
+
+Isso é impossível de saber. Depende do corpo de cada pessoa. Há quem suporte cinquenta injeções de estreptomicina sem problemas, e há quem se debilite muito com dez ou vinte. Depende da constituição física do indivíduo. Além disso, a dosagem utilizada pelo médico, em unidades, não é um dado confiável. Ele pode ajustar a dose com base em sua avaliação da resistência do paciente. Não há como saber.
+
+Essa questão não precisa ser motivo de preocupação. Deve-se considerar também o histórico médico da pessoa e os diversos medicamentos que ela já tomou, incluindo os anteriores às "micinas" e os da farmacopeia chinesa, que são terrivelmente perigosos.
+
+##### 4-3. Manifestação da Purificação de Estreptomicina e Pontos de Johrei (Revista Paraíso Terrestre, nº 13, p. 21)
+
+"Como se manifesta o veneno da estreptomicina? Ele pode ser eliminado com Johrei? E em quais pontos devemos ministrar?"
+
+Como a ação desse medicamento é desconhecida, é difícil responder como ele se manifestará. Em suma, deve-se localizar os pontos onde o veneno do medicamento se acumulou e ministrar Johrei ali.
+
+#### 5. BCG
+
+##### 5-1. A Suspensão Temporária do BCG (Coletânea de Ensinamentos, vol. 3, p. 57)
+
+O jornal de hoje noticiou que a aplicação do BCG será suspensa por um tempo. No programa de rádio "Visita da Manhã", um médico foi entrevistado sobre o assunto. Ele deu respostas vagas e não se pronunciou claramente, mas também não defendeu o BCG. Quem se opôs ao BCG foi um médico americano que realizou um estudo mundial comparando regiões onde a vacina era aplicada e onde não era. Ele constatou que, nas regiões onde o BCG era usado, a incidência de tuberculose era muito maior, e onde não era, muito menor. O médico no rádio argumentou com base na teoria, mas a questão fundamental é a prática, a realidade.
+
+A opinião pública contrária ao BCG cresceu. O governo japonês, percebendo isso, e com ministros se manifestando sobre o perigo, decidiu suspendê-lo, mesmo que temporariamente. A suspensão foi motivada pelos resultados práticos. Em breve, a penicilina e a estreptomicina também serão consideradas inúteis. Podem observar. Por desconhecerem o veneno dos medicamentos, eles se empenham tanto em usá-los. Do nosso ponto de vista, é uma situação digna de pena.
+
+##### 5-2. O BCG Deixou de Solidificar (Coletânea de Ensinamentos, vol. 4, p. 21)
+
+*Artigo "A Questão do BCG (O Veneno Potente do BCG)" (Revista Eikou, nº 130)*
+
+Pretendo publicar este artigo na próxima edição da revista "Eikou" e enviá-lo ao Ministro da Saúde. Como a purificação no Mundo Espiritual se intensificou, o BCG, que antes solidificava as toxinas, deixou de fazê-lo. A criança mencionada no artigo, por ser membro, não teve as toxinas solidificadas, e por isso o efeito adverso se manifestou imediatamente. À medida que os medicamentos perdem seu poder de solidificação, o que antes não causava problemas passará a agravar o estado do paciente. Assim, as pessoas compreenderão, queiram ou não, a existência do veneno dos medicamentos. E então, finalmente, perceberão: "Aquela coisa estranha que a Igreja Messiânica dizia... era isso".
+
+Alguns médicos parecem estar lendo nossas publicações, pois ocasionalmente percebo que incorporam minhas teses em seus discursos. Prestando atenção, nota-se que isso ocorre com certa frequência.
+
+##### 5-3. Quem Recebe o BCG Acabará se Tornando um Paciente de Tuberculose (Coletânea de Ensinamentos, vol. 4, p. 9)
+
+Outro ponto é a questão do BCG, que tem gerado grande polêmica. Ouvi um relato de graça excelente sobre o assunto, que publicarei na próxima edição da "Eikou" e enviarei ao Ministro da Saúde. (*Artigo "A Questão do BCG"*)
+
+Até agora, dizia-se que aplicar o BCG em alguém com suspeita de tuberculose impedia o desenvolvimento da doença. "Suspeita" significa que a purificação está ocorrendo ou prestes a ocorrer. O BCG solidifica essa purificação, proporcionando uma melhora temporária por seis meses ou um ano. Mas uma única aplicação não é suficiente, pois a solidificação nunca é definitiva. Em algum momento, o veneno se dissolverá. Portanto, quem recebe o BCG acabará, inevitavelmente, se tornando um paciente de tuberculose.
+
+#### 6. Intoxicação por Cosméticos
+
+##### 6-1. Com a Pele Debilitada por Medicamentos e Injeções, os Cosméticos se Tornaram Ainda Mais Tóxicos (Coletânea de Ensinamentos, vol. 19, p. 42)
+
+A intoxicação por medicamentos chineses, especialmente em mulheres, deixa a pele extremamente ruim, seca e sem brilho. A pele das mulheres de hoje já vem sendo prejudicada por gerações, pelo uso de medicamentos chineses por seus ancestrais. A isso se somam os medicamentos ocidentais potentes e as injeções, que a degradam ainda mais. Para completar, os cosméticos atuais contêm medicamentos. Antigamente, a base de arroz continha, no máximo, veneno de chumbo. Hoje, além do chumbo, há o veneno dos medicamentos. Por isso, a pele das mulheres modernas é péssima. Mesmo as jovens, sem maquiagem, são impresentáveis.
+
+Os cosméticos, por sua vez, "evoluem" cada vez mais. É uma evolução na arte de disfarçar. A aparência imediata é de beleza, mas para isso é preciso aplicar camadas espessas de vários produtos. Nos salões de beleza, aplicam toalhas quentes e outros procedimentos. Mas a mulher foi criada por Deus para ser bela sem tantos artifícios. Atualmente, o país com a pior qualidade de pele no mundo são os Estados Unidos. A pele das jovens americanas é, segundo relatos, terrivelmente áspera, devido ao uso constante de diversos medicamentos e tratamentos.
+
+O uso do batom, por exemplo, tornou-se necessário porque a cor dos lábios é ruim. O blush também é um contrassenso; as bochechas deveriam ser naturalmente rosadas. Tudo isso é resultado do veneno dos medicamentos, que deteriora a pele. Por isso, as jovens de hoje se entregam cada vez mais aos cosméticos.
+
+##### 6-2. Sobre a Sensação de Calor na Cabeça (Nobose) (Coletânea de Ensinamentos, vol. 19, p. 38)
+
+A sensação de calor que sobe à cabeça, conhecida como *nobose*, é mais comum em mulheres do que em homens. A causa é a intoxicação por cosméticos.
+
+#### 7. Outros
+
+##### 7-1. Intoxicação por Antipirina (Registro de Orientações Divinas, vol. 28, p. 25)
+
+Em minha juventude, tomei antipirina. A intoxicação por ela é terrível. O corpo todo coça de forma insuportável, a ponto de não se conseguir ficar parado. É uma agonia que faz querer pular.
+
+##### 7-2. Albazil (Registro de Orientações Divinas, vol. 28, p. 30)
+
+"Tenho angina e, quando uso Albazil, a pele fica com manchas arroxeadas."
+
+É o veneno do medicamento solidificado ali. Sangue tóxico coagulado.
+
+"Com os remédios que o médico me dá, às vezes as manchas aparecem, outras não. Quando experimento e sinto que tem Albazil, as manchas aparecem naquela mesma noite. Isso significa que o veneno acumulado está se dissolvendo e saindo?"
+
+Pode ser o veneno acumulado que está saindo, pode ser o veneno novo, ou pode depender do tipo de Albazil. Existem formulações feitas para sair rapidamente e outras não, mais concentradas ou mais diluídas. Mas as mortes por Albazil são muito comuns. Hoje em dia, sua produção foi quase interrompida. É um medicamento terrivelmente perigoso. Como o efeito é imediato, causa dependência.
+
+"Os sintomas de angina podem ser causados pelo uso excessivo de Albazil?"
+
+Sem dúvida. O Albazil parece ser muito eficaz para a vida... para acabar com ela. Já ouvi falar de muitas pessoas que morreram por causa do Albazil.
+
+##### 7-3. Adorm e Metil (Registro de Orientações Divinas, vol. 4, p. 41)
+
+"Uma mulher de vinte e oito anos tentou o suicídio ingerindo trinta comprimidos de Adorm e outros dez de outro medicamento. Cinco horas depois, foi encontrada. Fui chamado ao local, onde um médico já havia chegado, aplicado cinco ou seis injeções e providenciado sua internação. O médico achava que ela não sobreviveria, mas, após dois dias, ela recuperou a consciência e sobreviveu. A família a trouxe de volta para casa. Ela está recebendo Johrei e se recuperando bem. Nesse caso, onde devo ministrar?"
+
+Como ela ingeriu os medicamentos, o veneno não foi para as costas. Ministre no estômago e nos intestinos.
+
+"Ela diz que a cabeça não está bem."
+
+Alguns venenos afetam a cabeça. Nesse caso, ministre Johrei na cabeça. E a consciência?
+
+"Está quase totalmente recuperada."
+
+Não há com o que se preocupar. A intoxicação é temporária. O mesmo vale para o álcool metílico. Os efeitos são passageiros. O metil também afeta a cabeça.
+
+##### 7-4. Medicamentos de Uso Tópico (Coletânea de Ensinamentos, vol. 1, p. 55)
+
+"Minha filha de quatro anos, membro da Igreja, sofreu uma queimadura no rosto com um brinquedo de celuloide aos dois anos e meio. Ela recebeu uma injeção diária contra infecção por cinquenta dias e usou uma pomada por noventa dias. Atualmente, ela tem uma cicatriz no rosto e não tem a sobrancelha esquerda. Peço sua orientação sobre o caso."
+
+Cinquenta dias de injeção... esse é o problema. Ela será curada. O melhor seria não ter feito nada, ou então ter ministrado Johrei, e a cura teria sido rápida. A pomada também é prejudicial. A recuperação dependerá da eliminação desse veneno, que sairá gradualmente. A falta da sobrancelha também se deve a isso; o medicamento impede o crescimento dos pelos. Se continuar a receber Johrei, ela será curada. Não se preocupe. É mais uma vítima dos medicamentos.
+
+---
+
+# Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
+*Por Fujikake Shizuya, Doutor em Letras*
+
+O Museu de Arte de Hakone foi fundado em junho de 1952, em Hakone-Gora, pelo Líder Espiritual da Sekai Kyusei Kyo, o Senhor Okada Mokichi. Seu anexo, o Pavilhão de Ukiyo-e, foi inaugurado em junho do ano seguinte, 1953, como uma ala especial.
+
+O edifício principal, com seus três pavimentos, ergue-se com uma fachada alva, imponente e nobre, dominando a sublime beleza natural de Gora. O terceiro pavimento abriga uma sala de recepção para convidados ilustres, em estilo japonês, em cuja alcova se encontra pendente uma imagem venerável de Kannon (観音), com a assinatura de Jikan (自観). Trata-se de uma obra do próprio Líder Espiritual, dotada de uma elegância inalcançável aos pintores profissionais e de uma força solene. Deste aposento, que se posiciona defronte ao Monte Myojogatake, famoso pela celebração do Daimonji, avista-se ao longe o Oceano Pacífico, compondo um panorama de beleza excepcional. O primeiro e o segundo pavimento são dedicados às exposições, com iluminação primorosa, e o esmero na concepção das vitrines para as obras de arte é notável, revelando um projeto museológico de excelência.
+
+Consta que toda a concepção do museu foi fruto do planejamento e do desígnio do próprio Líder Espiritual. De fato, ele devotou sua alma a este museu. Segundo suas próprias palavras, seu anseio era criar um Paraíso da Beleza para apresentá-lo ao mundo. Para tal, elegeu as cidades de Atami e Hakone. Reuniu obras de arte capazes de elevar a sensibilidade humana, com o propósito de mostrar os tesouros do Japão aos estrangeiros e, aos japoneses, proporcionar uma oportunidade de profunda apreciação. Desejava, ademais, que servissem como referência e inspiração para os artistas.
+
+Nesse sentido, ele se dedicou pessoalmente a cada detalhe, do início ao fim. Até mesmo o jardim é inteiramente fruto de seu planejamento, e cada árvore, cada folha de relva, recebeu sua atenção e seu espírito. Assim, edificou um museu de estrutura sólida para reunir, proteger e preservar os tesouros do Japão, almejando que fossem apreciados pelo maior número de pessoas. Sua esperança era a de que tal iniciativa pudesse também contribuir para a conservação do patrimônio nacional.
+
+Pode-se, com isso, inferir a profundidade das intenções do Líder Espiritual.
+
+---
+
 # sinnihon
 
 **Categoria:** sasshi | **Ano:** 昭和11年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1936
 
 --- Coletânea de Teses do Mestre Okada Jikanshi ---
 
@@ -748,7 +2365,7 @@ Analisando o caso, a causa do inchaço foi a purificação natural, em que o pus
 # Coletânea de Ensaios do Mestre Okada Jikan (Organizada por Periódico de Publicação)
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** 浮世絵の栞
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Ensaios do Mestre Okada Jikan (Organizada por Periódico de Publicação)
 
@@ -770,740 +2387,6 @@ Trata-se da versão em inglês do panfleto elaborado para a "Exposição de Ukiy
 A publicação se inicia com um prefácio de Meishu-Sama.
 
 Contém, ademais, um texto explicativo sobre o ukiyo-e de autoria do senhor Ichitaro Kondo, do Museu Nacional de Tóquio. A obra é ilustrada com uma fotografia colorida e trinta em preto e branco.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikanshi – Curso sobre o Método Johrei (Oitava Aula) – Enfermidades do Estômago e do Intestino
-
-**Categoria:** sasshi | **Ano:** 昭和30(1955)年5月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Mestre Okada Jikanshi – Curso sobre o Método Johrei (Oitava Aula) – Enfermidades do Estômago e do Intestino
-Publicado na 6ª edição do 'Curso sobre o Método Johrei', em 1º de maio de 1955.
-
-### Uma, Enfermidades Gástricas
-
-**1. Homem de meia-idade com sensação de pressão e dor surda no estômago, e falta de apetite (Ensinamento)**
-
-(Consulta)
-Trata-se de um homem de 59 anos que, desde o ano passado, sente dores quando está com o estômago vazio e, de modo geral, uma sensação de pressão e dor surda na região gástrica. Atualmente, passa a maior parte do tempo acamado. Antes do almoço, invariavelmente, o estômago dói, e por vezes ele vomita um líquido aquoso, incolor, inodoro e insípido. Por volta das quatro horas da tarde, a dor ressurge, mas cessa assim que ele se alimenta. No início, a dor sempre desaparecia após as refeições; contudo, ultimamente, mesmo que tente comer nesse horário, não sente apetite algum e a comida simplesmente não passa, o que lhe causa grande aflição. À noite, a dor pode ocorrer ocasionalmente após as nove horas, quando o estômago está vazio. Se, ao sentir dor, ele se deita de costas, o incômodo geralmente passa em vinte a trinta minutos; se permanece sentado ou em pé, a dor não cessa. O período de maior bem-estar é entre uma da manhã e o amanhecer, sendo raras as ocorrências de dor nesse intervalo.
-
-(Orientação)
-A causa está nas costas. Talvez não sinta muita dor nesse local. É o yakudoku acumulado nas costas que está refluindo.
-
-**2. Jovem com endurecimento no abdômen, que vomita uma substância viscosa e ácida, em acentuado estado de debilidade (Ensinamento)**
-
-(Consulta)
-Um jovem de dezessete anos adoeceu em novembro do ano retrasado e recebeu tratamento médico. Desde o dia 25 de julho do ano passado, vem recebendo Johrei. No início, estava extremamente magro, sem apetite, e apresentava um endurecimento fibroso no abdômen. Vomitava várias vezes ao dia uma substância viscosa, pálida e ácida. Com o Johrei, recuperou temporariamente o apetite e sentiu-se melhor. Em setembro, sua mãe ingressou na fé e passou a ministrar-lhe Johrei três vezes ao dia. Todavia, a partir do final de outubro, embora sinta apetite, ao começar a comer, seu estômago incha e ele se torna incapaz de prosseguir. Se insiste, vomita, e seu corpo todo fica debilitado, levando-o a um estado de grande fraqueza. Ademais, costuma passar mais de dez dias sem evacuar. Ele já matou um gato e certa vez sonhou que era atormentado por macacos. Haveria alguma causa espiritual?
-
-(Orientação)
-O caso é análogo ao anterior: a causa é o yakudoku nas costas. A substância viscosa, pálida e ácida é o próprio yakudoku. O fato de ter matado um gato não tem relação com o quadro atual.
-
-**3. Homem de meia-idade com problema de estômago que vomita o alimento duas vezes ao dia, em avançado estado de debilidade (Coletânea de Ensinamentos, vol. 1, p. 21)**
-
-(Consulta)
-Meu marido, de 50 anos, há tempos padece de uma enfermidade gástrica. Em abril de 1949, após vomitar uma grande quantidade de sangue, seu estado se agravou. Desde então, recorremos a médicos e medicamentos, mas sem resultado. Por volta de janeiro de 1951, a situação piorou ainda mais, e ele ficou acamado. Em março de 1951, recebi o Ohikari e passei a lhe ministrar Johrei diariamente. Devido às circunstâncias familiares, não temos o Altar do Lar. Desde março, ele sofreu com dores intensas, mas, felizmente, estas diminuíram um pouco. Contudo, vomita o alimento duas vezes ao dia, o que talvez explique a escassez de evacuações. Seu corpo enfraquece a cada dia e ele emagreceu consideravelmente. Embora esteja mais animado do que em abril, quando as dores eram lancinantes, o calor recente parece tê-lo debilitado subitamente. O fato de vomitar duas vezes ao dia teria alguma relação espiritual?
-
-(Orientação)
-Este é um caso de yakudoku muito intenso. Pessoas com problemas de estômago costumam ter grande acúmulo de yakudoku. A debilidade progressiva e o vômito do alimento não são bons sinais. A ausência do Altar de Komyō Nyorai também é um problema. É preciso fazer o possível para entronizá-lo. O Johrei deve ser focado nas costas, como mencionei anteriormente, principalmente na região posterior ao estômago. Em seguida, nos rins. O Johrei se resume a isso. É preciso entronizar o Altar de Komyō Nyorai.
-
-"Somos repatriados, moramos no andar de baixo de um apartamento e meu marido está doente há muito tempo, vivemos em extrema pobreza..."
-
-Entendo, mas morando no andar de baixo, é impossível entronizar o Altar... É uma situação difícil. O vômito indica um yakudoku muito forte. Existem vários tipos de yakudoku, e este parece ser proveniente de um medicamento potente e nocivo. Ele vomita justamente pela presença desse veneno. Creio que será um caso um tanto difícil.
-
-**4. Jovem com gastroptose, febre, dor de estômago, falta de apetite, diarreia diária e fadiga acentuada (Coletânea de Ensinamentos, vol. 6, p. 64)**
-
-(Consulta)
-Um jovem de dezoito anos. Devido à gastroptose, submeteu-se a dois anos de medicamentos e injeções, o que o debilitou progressivamente. No verão de 1951, começou a receber Johrei, sentiu-se muito melhor e ingressou na fé. Posteriormente, seu pai também se tornou membro e passou a receber Johrei dele em casa. No dia de Ano Novo de 1952, ele foi à Igreja e, à tarde, sentiu um frio vindo do baixo-ventre e um mal-estar. Naquela noite, teve febre, perdeu o apetite, sentiu dor de estômago e sofreu por cerca de quatro horas. Desde então, tem diarreia todos os dias, dores abdominais recorrentes, falta de ânimo e uma facilidade para se cansar. Gostaria de uma orientação a esse respeito.
-
-(Orientação)
-Isso é excelente. A febre indica que o nódulo de yakudoku começou a se dissolver; é uma febre de purificação. A dor de estômago também é o sofrimento decorrente da dissolução do yakudoku, e a falta de apetite é uma consequência natural. A diarreia diária é ótima, pois é por meio dela que as toxinas são eliminadas. Quanto ao cansaço, é inevitável. Sem apetite e com diarreia, é normal sentir-se um pouco fatigado. É preciso suportar isso. No Johrei, concentre-se no nódulo que há nas costas para dissolvê-lo. Os medicamentos ingeridos, por se deitar de costas, acumulam-se nessa região. É preciso dissolver esse acúmulo. Há também um endurecimento na parte frontal que deve ser tratado.
-
-A gastroptose é causada pelo excesso de medicamentos. Como sempre digo, a ingestão excessiva de remédios faz com que o estômago, pesado, "caia". Isso não é nada de mais. Para pessoas nessas condições, o ochazuke é muito benéfico. Pique um pouco de conserva japonesa e prepare o ochazuke. O ochazuke com salmão também é uma boa opção. Ou seja, ao contrário do que se pensa, para a gastroptose, alimentos de fácil digestão ou muito mastigados não são bons. Quem tem estômago fraco deve comer ochazuke. Só isso basta para curar. Para a gastroptose, o ochazuke é infalível, cem por cento eficaz.
-
-**5. Criança de aproximadamente um ano que, ao ser amamentada, vira a cabeça para o lado oposto e tem convulsões, rejeitando todo alimento e sendo nutrida com leite de outra mulher.**
-
-(Registro de Orientações, vol. 1, p. 18)
-
-(Consulta)
-Sou um membro de Shikoku. Meu primeiro filho, um menino, está crescendo bem. No entanto, minha filha, que tem cerca de um ano e é a segunda criança, ao ser amamentada, vira a cabeça para o lado oposto e tem convulsões. Ela parece querer o leite. Fica bem-humorada quando a avó a segura no colo, então a avó a segura para que eu possa amamentá-la. Ela rejeita qualquer outro tipo de alimento, mas não vomita.
-
-(Orientação)
-Após um ano de idade, não se deve mais amamentar. A criança não está desejando o leite. Existe um endurecimento no estômago ou ao redor do umbigo, que deve ser tratado com Johrei. As costas também devem ser bem cuidadas.
-
-**6. Senhora idosa que, a cada sessão de Johrei, vomita uma substância marrom-escura de quinze a dezesseis vezes, enfraquecendo visivelmente e sem apetite (Coletânea de Ensinamentos, vol. 7, p. 14)**
-
-(Consulta)
-Uma mulher de 56 anos, não-membro, começou a receber purificação em 12 de dezembro de 1951, e eu lhe ministrava Johrei a cada dois ou três dias. Durante todo o mês de dezembro, sentia um mal-estar, alternando entre ficar deitada e levantar-se. A partir do dia 21, a purificação se intensificou e ela ficou acamada. Ao receber Johrei, vomitava cerca de 900 ml de uma substância marrom-escura. A partir de então, passou a vomitar de 540 a 900 ml diariamente, de quinze a dezesseis vezes a cada sessão de Johrei. Ela, que era obesa, enfraqueceu visivelmente. Havia dois grandes endurecimentos, um na boca do estômago e outro um pouco abaixo, mas atualmente resta apenas um pequeno na boca do estômago. Ao ministrar Johrei nas costas, ela vomita. Não tem apetite e consome apenas uma pequena quantidade de mingau de arroz e de araruta. Não sente dor no estômago, mas o lado esquerdo do umbigo dói ocasionalmente. Ela não usa medicamentos, mas fez bastante tratamento com agulhas e moxa. É também instrutora de uma seita derivada da PL Kyodan, a Akatsuki-kyo, mas tem se apegado com afinco à nossa fé. Rogo por uma orientação.
-
-(Orientação)
-Isso é um processo excelente. Essa senhora tem, na verdade, uma pequena perfuração no estômago. Por ali, a substância vinha se acumulando e formando nódulos, que agora, com o Johrei, estão se dissolvendo e sendo expelidos. Por isso, ela ficará sem apetite por um período, o que é inevitável. Para que não enfraqueça de forma abrupta, deve-se interromper o Johrei por um tempo. Assim, o apetite retornará um pouco, ela poderá se alimentar e fortalecer o corpo. Depois, retoma-se o Johrei. Proceder com paciência torna o processo mais tranquilo. Portanto, embora seja um ótimo sinal, a causa está nos medicamentos que ela tomou no passado – talvez na infância –, que se transformaram em sangue tóxico e se solidificaram nas costas. Por isso, quando se ministra Johrei nas costas, a toxina se dissolve e é expelida. É realmente um bom processo. Embora ela enfraqueça bastante, geralmente não há perigo. Em casos de debilidade extrema, pode surgir inchaço, mas mesmo isso não representa um problema sério. Normalmente, a situação se resolve antes de chegar a esse ponto. Como os grandes nódulos já diminuíram, falta pouco. Por enquanto, ofereça-lhe alimentos como mingau de arroz e evite comidas sólidas. É só isso.
-
-**7. Senhora idosa diagnosticada com câncer de estômago, gastroptose e úlcera gástrica, com histórico de hematêmese, seguida de diarreia, náuseas, falta de apetite, constipação e debilidade (Coletânea de Ensinamentos, vol. 6, p. 85)**
-
-(Consulta)
-Minha sogra, de 62 anos, começou a se sentir mal do estômago por volta de fevereiro de 1951. Embora indisposta, continuava a fazer pequenos trabalhos domésticos. Gradualmente, as dores aumentaram e ela perdeu o apetite. Em abril, foi ao hospital e o raio-X revelou indícios de câncer de estômago. Disseram que uma cirurgia a curaria em um mês, mas, devido à sua idade avançada, recusamos. Durante um mês, ela tomou medicamentos e injeções, sem melhora. Também recorreu à medicina chinesa. Outro médico a diagnosticou com gastroptose e a tratou por um mês, mas sem sucesso. Um especialista em estômago, então, diagnosticou úlcera gástrica, afirmando que a entrada do estômago estava inflamada. Ela continuou com injeções, medicamentos e visitas ao médico. Havia um endurecimento do tamanho de uma ameixa no lado direito do estômago, a dor não cessava e o sofrimento só aumentava. Em 24 de agosto, vomitou uma grande quantidade de sangue e coágulos, ficando completamente debilitada e incapaz de se levantar. A partir de 1º de outubro, começou a receber Johrei. Após cerca de um mês e meio, teve purificações de diarreia ocasionais, que lhe trouxeram grande alívio. Em meados de dezembro, teve diarreia quatro vezes ao dia durante uma semana, o que a fez perder ainda mais o apetite. Mesmo um mingau ralo lhe causa náuseas e, às vezes, seu estômago o rejeita, por isso sua alimentação é predominantemente líquida. Há um endurecimento rígido como uma tábua abaixo do lado direito do estômago e do fígado, que dói mesmo com um leve toque. Sua dieta diária consiste em cerca de 540 ml de leite, um pouco de caldo de galinha e uma pequena quantidade de mingau ralo. Ocasionalmente, sente náuseas e um líquido azedo sobe à boca. Evacua com dificuldade uma vez a cada três dias, com fezes endurecidas. Seu cérebro também não está bem e sua audição diminui progressivamente. Minha sogra tem dois irmãos. A irmã mais velha morreu afogada aos onze anos. O segundo filho da minha sogra teve meningite aos trinta anos e, atualmente com a mesma idade, foi internado há dois meses em um hospital psiquiátrico por querer sair de casa constantemente. Minha filha mais velha faleceu de meningite em 1950, aos sete anos. Haveria alguma relação entre esses fatos?
-
-(Orientação)
-Não há relação espiritual. É yakudoku. É uma doença criada pelos médicos. Assim que todos os medicamentos forem eliminados, ela se curará, mas esse é um processo árduo. As náuseas ocasionais e o líquido azedo indicam que ainda há yakudoku acumulado no estômago. Parte do veneno que havia se infiltrado nos tecidos está retornando ao estômago. Quanto às evacuações, é normal que sejam escassas, pois sua dieta é líquida. A dificuldade para evacuar não deve ser motivo de preocupação. Ficar uma ou duas semanas sem ir ao banheiro não é problema. Basta aguardar com tranquilidade que a evacuação ocorra naturalmente; uma hora acontecerá. Com a falta de apetite e a alimentação líquida, é natural não evacuar. Trata-se de uma doença causada por yakudoku, portanto, é preciso ter paciência. A diarreia e a eliminação de sangue são excelentes sinais. Persistindo nesse caminho, ela melhorará gradualmente.
-
-**8. Mulher com ombros e rins enrijecidos, dores no estômago e baixo-ventre que, após o alívio da dor gástrica, vomitou intensamente uma substância viscosa e achocolatada, desenvolveu um nódulo no baixo-ventre que cresceu progressivamente e faleceu (Coletânea de Ensinamentos, vol. 8, p. 5)**
-
-(Consulta)
-Minha esposa (que veio a falecer em 30 de novembro de 1951), eu sou ministro, tinha os ombros e os rins enrijecidos, mas não chegava a ficar acamada e, em geral, não recebia Johrei como as outras pessoas. Queixava-se de dores no estômago e no baixo-ventre, que eram aliviadas a cada vez com Johrei. No sexto dia, a dor no baixo-ventre se intensificou. Durante o Johrei, as dores no estômago e no baixo-ventre se alternavam, até que, finalmente, a dor no estômago cessou, e ela vomitou uma substância viscosa e achocolatada que encheu cerca de um terço de uma bacia. Vomitou cerca de dez vezes em uma hora. O baixo-ventre não doía, mas ela se queixava de uma sensação de peso. Havia uma massa redonda e dura, com cerca de doze centímetros de diâmetro, no lado direito do baixo-ventre, que, segundo ela, vinha crescendo e doendo nos últimos três meses. A dor no baixo-ventre direito foi diminuindo gradualmente e, queixando-se de fraqueza generalizada, ela faleceu na manhã seguinte. Após a morte, o baixo-ventre direito e as pontas das mãos ficaram com uma coloração escura. Rogo por uma orientação sobre esta purificação.
-
-(Orientação)
-A coloração achocolatada indica sangue antigo, algo que é comumente vomitado. Essa mulher desenvolveu um abscesso na parte inferior do estômago. Desse abscesso, pequenas quantidades de sangue vazavam continuamente e foram se acumulando. Parte desse acúmulo desceu para o baixo-ventre, formando um nódulo. O que estava no estômago, ela vomitou e expeliu. Não era para ela ter morrido por causa disso.
-
-É preciso estar atento a isso. E isso vale para todos. Pessoas com os ombros enrijecidos tendem a ter uma vida curta. Aparentam ser saudáveis, mas podem falecer subitamente. Portanto, não se pode estar tranquilo tendo os ombros rígidos. Ela não morreu de uma doença comum. Há uma razão espiritual por trás disso, que será compreendida em um determinado momento. A causa de sua morte se tornará clara. Não posso revelar agora, mas com o passar de alguns anos, haverá um tempo em que se entenderá. Há uma razão por parte de Deus neste acontecimento.
-
-Por isso, mesmo que se esteja saudável, é fundamental receber Johrei e manter os ombros flexíveis. Pacientes com ombros rígidos têm um prognóstico desfavorável. Já aqueles com ombros flexíveis têm muito mais chances de se recuperar. A rigidez ou flexibilidade dos ombros tem uma correlação muito significativa. Quem tem os ombros flexíveis possui uma força interior em algum aspecto.
-
-**9. Homem de meia-idade que se mantém com vigor apesar de uma dieta extremamente reduzida por cerca de dez anos, consistindo em um peixe (sanma) e cinco biscoitos (karinto) por dia (Registro de Orientações, vol. 5, p. 52)**
-
-(Consulta)
-Trata-se de um homem de aproximadamente 42 anos que, há cerca de dez anos, consegue passar o dia com um único peixe sanma. Ele diz que cinco biscoitos karinto são o ideal; se comer sete, seu estômago incha.
-
-(Orientação)
-Seu estômago deve ter encolhido.
-
-"Ele é pálido, mas fala com muita energia. Seria espiritual...?"
-
-Basicamente, ele tem força física, é vigoroso. Não é espiritual. Toxinas se solidificaram ao redor do estômago, comprimindo-o. Uma grande quantidade de yakudoku foi ingerida e se solidificou. E as costas dele...
-
-"São curvadas."
-
-Aí está a toxina. Se for dissolvida, o estômago se expandirá.
-
-**10. Pessoa que não consegue se alimentar normalmente, exceto nos primeiros trinta minutos após se levantar (Registro de Orientações, vol. 10, p. 19)**
-
-(Consulta)
-Esta pessoa não consegue se alimentar em condições normais. No entanto, nos primeiros trinta minutos após acordar, depois de beber um copo d'água, ela consegue comer. Em qualquer outro momento, não consegue ingerir nada; se tentar forçar, mesmo um copo d'água a faz transpirar profusamente, ficar agitada e sofrer.
-
-(Orientação)
-O fato de conseguir comer logo após se deitar significa que há toxinas acima do cárdia. Quando a pessoa está deitada, essas toxinas se deslocam para a parte de trás, liberando a passagem do cárdia. Ao se levantar, elas descem e obstruem a passagem. Portanto, há um endurecimento na parte posterior do estômago. Tratando esse ponto, juntamente com a parte frontal, na região do cárdia, o problema será resolvido.
-
-**11. Pessoa que sente dor no estômago e em toda a região posterior durante o dia todo, com algo semelhante a uma pedra no abdômen (Coletânea de Ensinamentos, vol. 1, p. 14)**
-
-(Consulta)
-Desde os dezessete anos, sofro de hiperacidez gástrica. Na primavera de 1948, comecei a sentir dores no estômago, que se tornaram progressivamente mais intensas. Em setembro do mesmo ano, ingressei na fé, mas meu estado de saúde não melhorou como eu esperava. Recentemente, tenho recebido Johrei todos os dias, mas a dor persiste. Segundo o diagnóstico médico, tenho úlcera duodenal, atonia gástrica e gastroptose. Sinto dor no estômago e em toda a região posterior praticamente o dia inteiro.
-
-(Orientação)
-Quem está ministrando o Johrei? Um caso como este não deveria demorar tanto para resolver. A dor é um bom sinal, pois é uma purificação em andamento. Dor de estômago não é algo tão grave. Será que não está sendo aplicada força excessiva no Johrei? Além disso, em casos assim, o foco deve ser inteiramente nas costas. Não há necessidade de tratar a parte da frente. Embora a dor seja sentida na frente, a causa está nas costas, de onde o yakudoku dissolvido se move em direção ao estômago.
-
-"Há algo como uma pedra no meu abdômen."
-
-Engana-se quem pensa que essa "pedra" é a causa da doença. A origem está um pouco acima e atrás dela. Se ministrar Johrei nesse ponto, a cura virá rapidamente. Mesmo em casos de espasmo estomacal, o alívio é imediato ao se tratar as costas, e não a frente. Tudo isso é causado por yakudoku.
-
-**12. Pessoa com endurecimentos nas regiões do estômago e do fígado, falta de apetite e sensação de pressão ascendente (Registro de Orientações, vol. 4, p. 34)**
-
-(Consulta)
-Eu havia pedido proteção divina por este caso, suspeitando de um pseudo-câncer de estômago. A pessoa usou uma grande quantidade de bactericidas e, na juventude, medicamentos para doenças venéreas. Ficou internada no exército por cerca de um ano e usou Albazir...
-
-(Orientação)
-Albazir é terrível. Muitas pessoas morrem por intoxicação de Albazir.
-
-"O endurecimento está na região do fígado."
-
-É yakudoku.
-
-"Há outro na região do estômago. Quando começo o Johrei, ele sente muita dor. Depois de um tempo, a dor desce e ele se sente aliviado. A excreção, tanto de urina quanto de fezes, é considerável. Ele tem febre baixa contínua, falta de apetite e está debilitado. Devo continuar ministrando Johrei nesses endurecimentos?"
-
-Sim. Mas faça-o sem aplicar muita força, pois se trata de yakudoku. O problema principal é a debilidade. Se a recuperação da fraqueza superar a velocidade de dissolução das toxinas, tudo correrá bem. As costas são especialmente importantes. A parte posterior.
-
-"Devo ministrar Johrei nas costas, na região correspondente ao endurecimento?"
-
-Exato. A origem desse endurecimento está, na verdade, nas costas. Ele se dissolve ali e se desloca para cá (fígado).
-
-"Durante a guerra, ele diz ter usado creosoto."
-
-É uma substância para impedir o apodrecimento da madeira, aplicada em postes telegráficos. É uma insensatez ingerir algo assim.
-
-"Ao se deitar, ele sente como se estivesse caindo em um abismo. Nessa hora, pede que pressionem o topo de sua cabeça com o polegar e soltem quando ele começar a cochilar. A relação entre a cabeça e as costas..."
-
-Até agora, o yakudoku estava solidificado na cabeça. O ser humano pensa, se preocupa... ao usar a mente, as toxinas das costas se movem para lá. Ocorre uma purificação equilibradora. A cabeça se dissolve, e por isso as costas também se dissolvem. A cabeça é um local onde as toxinas se solidificam facilmente. Nesses casos, a região occipital é especialmente importante.
-
-"Quando isso acontece, parece difícil encontrar o ponto vital, como se houvesse vários."
-
-Há vários, mas entre eles existe o ponto vital principal. É o yakudoku. A pessoa toma o medicamento e se deita de costas, certo? Por isso, ele não se solidifica no estômago, mas nas costas. Não se solidifica no estômago, embora possa se acumular no fundo gástrico. Onde ele se solidifica? Ele se infiltra através da parede do estômago. Como a pessoa está deitada, ele é empurrado para as costas e se solidifica ali. As costas não são como o estômago, então a solidificação permanece. Quando atinge um certo grau de acúmulo, ocorre a purificação, e ele retorna ao estômago. Esse retorno se torna um veneno terrível, que se solidifica aqui (no estômago). Uma vez solidificado, curiosamente, não sai mais. Vindo das costas, ele se solidifica por completo, e rapidamente. Dependendo da pessoa, esse endurecimento se forma mais abaixo, ou na região do umbigo. O câncer, por exemplo, é sempre assim.
-
-"Ele sente uma pressão ascendente..."
-
-Isso é a purificação. É a dissolução. Quando o que estava solidificado se dissolve, seu volume aumenta. Em vez de descer, ele provoca o vômito. Do estômago para o intestino... o piloro... isso mesmo. Não desce. A massa pastosa de yakudoku obstrui o piloro. Uma pequena parte desce, mas a maior parte sobe. É uma estenose pilórica. Há toxinas ao redor do piloro que o comprimem, e o conteúdo gástrico, sem conseguir passar, é forçado para cima. Por isso, a estenose pilórica causa vômito. O vômito crônico é sinal de estenose pilórica.
-
-"O abdômen está inchado, como se fosse uma peritonite."
-
-É porque o conteúdo não sai pelo piloro. Ele se espalha para outros lugares. As pessoas, em geral, não compreendem a gravidade dos medicamentos. Remédios comuns são vistos como inofensivos. Há quem diga que nunca tomou remédios, referindo-se aos da medicina ocidental. Não consideram os medicamentos chineses que tomam por conta própria, como a swertia ou o "gen-no-shoko". Quando pergunto sobre chás medicinais, admitem que tomaram. Da mesma forma, acham que os desinfetantes usados em queimaduras e ferimentos são inócuos. Mas esse desinfetante penetra pela pele e se torna uma causa terrível de doença. O Sr. Inoue, por exemplo, sentia dores constantes na nuca e, uma vez por ano, algo surgia em sua perna. Isso vinha de um furúnculo que ele teve nas costas e que foi operado. Não era um medicamento oral, era um desinfetante. Ele se queixava sempre de dor nas costas, mas a toxina subiu para a cabeça e depois desceu para a perna.
-
-**14. Ponto vital do Johrei para úlcera gástrica e gastroptose com calafrios persistentes, e o tempo necessário para a febre baixa ceder (Registro de Orientações, vol. 8, p. 28)**
-
-(Consulta)
-No caso de úlcera gástrica e gastroptose, quando os calafrios não melhoram mesmo após mais de uma hora de Johrei...
-
-(Orientação)
-Onde você está ministrando o Johrei?
-
-"Entre as omoplatas e a coluna, na região posterior ao estômago."
-
-É um pouco mais abaixo. De qualquer forma, há um endurecimento na parte de trás. É possível senti-lo mesmo por cima da roupa. Há um ponto que é o mais quente; a toxina está ali. Basta ministrar Johrei nesse local. Você está mirando no lugar errado. Mesmo por cima da roupa, há um ponto mais quente. Ministre Johrei ali.
-
-"Os calafrios teriam outra causa?"
-
-A causa dos calafrios está nesse ponto.
-
-"A febre baixa também pode ter várias origens?"
-
-Sim, pode ter várias. Nesse caso, há outras causas, mas a principal é essa.
-
-"Em quantos minutos a febre deve ceder?"
-
-Varia. Pode ceder em cinco minutos, ou pode levar trinta. Depende da quantidade e da intensidade da toxina.
-
-**14. Homem de meia-idade com úlcera gástrica, purificação intensa com dor contínua, vômito de substâncias estranhas, vômito induzido frequente e dieta restritiva (Coletânea de Ensinamentos, vol. 7, p. 34)**
-
-(Consulta)
-Trata-se de um membro de 53 anos (homem), que tem em seu lar o Altar, a Imagem da Deusa Kannon e a Caligrafia Divina. Ele já recebeu orientações sobre sua úlcera gástrica em outras ocasiões, mas desde outubro de 1950, a purificação se tornou especialmente intensa. Até hoje, ele sente dor todos os dias e, em média, três vezes por mês, vomita de 1,8 a 2,7 litros de uma substância estranha. A cor varia entre um branco purulento e um verde-escuro, como chá forte. Antes de entrar na fé, ele tomou "gen-no-shoko" por cerca de seis meses, cinco frascos de Seirogan, além de digestivos e analgésicos. Recebeu duas ou três injeções de morfina, dez de Salvarsan, e algumas doses de quinino. Há trinta anos, tratou gonorreia com Kengoru e outro medicamento por três meses. Também recebeu vacinas preventivas durante o serviço militar. Atualmente, a dor nas costas se concentra na região posterior ao estômago esquerdo e se estende até os rins, com dores ocasionais também no lado direito. A dor acima dos rins é particularmente severa. No abdômen, a dor é mais intensa do umbigo para baixo, na região do diafragma esquerdo e na boca do estômago, com picos de dor aguda no diafragma esquerdo. Ele não tem febre, ou apenas febre baixa. A dor é especialmente aguda quando vomita a substância branco-purulenta. A quantidade total de matéria estranha vomitada desde que ingressou na fé é considerável. Nos momentos de dor intensa, seu abdômen fica rígido como uma tábua e uma secreção viscosa sobe constantemente. Ao urinar, sente dor no canal urinário, que irradia para os rins e para a região do diafragma. A urina está sempre turva como pus. Seu apetite é seletivo. Devemos permitir essa alimentação seletiva? Em 1950, ele recebeu o amuleto "Jōriki" e, desde então, a purificação se intensificou. Ele ainda não recebeu o amuleto "Kōmyō". A dor tem sido incessante, com breves intervalos, desde que ingressou na fé. Seria porque o ponto vital do Johrei está sendo negligenciado? Quando a purificação é intensa, o Johrei invariavelmente agrava a dor por um tempo. Como o vômito da substância estranha durante a dor aguda traz alívio temporário, ele induz o vômito colocando o dedo na boca. Isso é apropriado? Não estaria prolongando a purificação com essa prática? Ele usa o Papel Sagrado diariamente. Nos dias de dor intensa, recebe Johrei mais de dez vezes. Isso é correto? Normalmente, são duas ou três vezes ao dia. Rogo por uma orientação.
-
-(Orientação)
-A dor no canal urinário... as toxinas na urina irritam a mucosa. A alimentação seletiva é vista como algo ruim, mas não é, de forma alguma. A seletividade alimentar é excelente. A medicina a condena, mas, na verdade, ela é benéfica para a saúde. O melhor exemplo são os pássaros. O canário, por exemplo, come apenas painço. A seletividade ocorre porque o corpo pede. E se pede, é porque precisa. Portanto, a seletividade alimentar é ótima e deve ser praticada. O ser humano se torna mais saudável sendo seletivo.
-
-As plantações são um bom exemplo. Ao se plantar a mesma cultura repetidamente, a produção aumenta. O solo desenvolve os componentes que aquela planta requer, e a colheita se torna abundante.
-
-É bom trocar o amuleto. A purificação atual é forte, e isso o afeta intensamente. Induzir o vômito... na verdade, não é o ideal. Forçar o vômito não é bom. No entanto, não chega a ser algo tão prejudicial. O problema é que isso pode se tornar um hábito e dificultar o vômito natural no futuro. Johrei... pode-se ministrar quantas vezes for necessário. Apenas no caso de tuberculose há algumas ressalvas, mas para outras doenças, quanto mais Johrei, melhor.
-
-"A dor é tão intensa que é insuportável de se ver, e às vezes dura um dia e uma noite."
-
-Não deveria ser assim. Quem está ministrando o Johrei? O Altar de Komyō Nyorai está entronizado, certo?
-
-"Sim, temos o Altar de Dai Komyō Nyorai."
-
-Já era para ele estar curado. Algo está errado. A causa é, sem dúvida, o yakudoku. Ele tem uma quantidade imensa de yakudoku. Será que não estão aplicando força no Johrei? Eu já o alertei sobre isso, não? Estão tratando as costas, certo? A causa está, sem dúvida, nas costas.
-
-"Tenho explicado bem o novo método de Johrei."
-
-Mas ainda assim, aplicam força. Do contrário, ele já estaria curado. Diga para relaxarem ainda mais a mão. A causa está nas costas, então o foco é ali. Sem aplicar força, de modo que a luz penetre. Isso é difícil. Ministrar sem força, mas fazendo a luz atravessar. A seletividade alimentar é excelente. Comer apenas uma coisa é ótimo.
-
-"Houve uma vez em que ele comeu chocolate e pareceu que a dor veio por causa disso."
-
-Não é por causa do alimento. É o yakudoku que se manifesta naquele ponto. Isso não tem a menor importância. A questão é que ele tem um medicamento de péssima qualidade no organismo.
-
-"Quando a purificação não está tão intensa, ele pode fazer uma refeição normal?"
-
-Sim, pode. Casos como este são comuns. Geralmente, a causa são os medicamentos chineses.
-
-"No início, ele encheu seis bacias com o vômito."
-
-É uma quantidade impressionante. Existe um ponto de virada; depois de ultrapassá-lo, a melhora é progressiva. Ele ainda não atingiu esse ponto. Pessoas como ele têm vários pontos de virada. Procedendo dessa forma, ele melhorará gradualmente. Não é um caso tão difícil.
-
-**Quinze, Homem de meia-idade com recaída de purificação de úlcera gástrica, que sente dor intensa no estômago todas as noites, perdeu o apetite e está debilitado (Coletânea de Ensinamentos, vol. 7, p. 32)**
-
-(Consulta)
-Um homem de 48 anos, membro desde abril de 1950, teve uma purificação no estômago em abril de 1951. Em 26 de dezembro, obteve uma melhora parcial e pôde voltar ao trabalho. Contudo, em 4 de janeiro, teve uma nova purificação, perdeu o apetite e sua debilidade vem se acentuando. Ele sente uma dor lancinante no estômago todas as noites, especialmente entre uma e duas da manhã, que por vezes é insuportável. O fato de a dor ocorrer em um horário fixo todas as noites teria alguma causa espiritual? A família toda é membro, e temos o Altar e a Imagem da Deusa Kannon. Ele sempre foi extremamente saudável, mas em 1943, teve uma úlcera, ficou internado por duas semanas no hospital universitário, onde lhe indicaram cirurgia. Ele recusou, saiu do hospital e se curou completamente com uma terapia de jejum.
-
-(Orientação)
-Que quantidade de medicamentos essa pessoa usou?
-
-"Parece que quase não tomou."
-
-É estranho ter úlcera gástrica sem ter tomado medicamentos. A úlcera é criada por remédios. Uma causa espiritual não é impossível, mas é muito raro que se manifeste como dor de estômago. Será que ele não tomou remédios na infância?
-
-"Não sei os detalhes..."
-
-Com certeza tomou. Pergunte a ele. Estão ministrando Johrei nas costas, certo? É um caso que se cura sem dificuldade. Há um endurecimento nas costas, não?
-
-"Ele é um membro da província de Nagasaki e, por não haver um ministro dedicado, outros membros estão cuidando dele."
-
-Será que não estão aplicando força no Johrei? Se ministrarem com a mão relaxada, ele se curará sem problemas.
-
-Isso é certamente yakudoku. Ele deve ter tomado remédios, talvez na infância. Pode ter sido um medicamento chinês.
-
-**16. Sobre a diarreia e os alimentos, e sobre a causa da úlcera e os alimentos (Coletânea de Ensinamentos, vol. 13, p. 51)**
-
-Em caso de diarreia, pode-se adaptar a alimentação, mas isso depende do tipo de diarreia. Eu mesmo, outro dia, tive uma diarreia fortíssima, mas continuei comendo normalmente. Isso porque eu sabia a origem da diarreia. A toxina daqui (nuca) estava se dissolvendo e se manifestando como diarreia, então a alimentação não tinha relação. Apenas em um caso é preciso ter cuidado: a úlcera. Pessoas que tomam remédios para o estômago constantemente – e esses remédios são basicamente digestivos, à base de bicarbonato de sódio – acabam por ter as paredes do estômago e do intestino amolecidas. A mucosa gástrica se torna tão frágil que se rompe ao menor toque. Se um alimento sólido encosta ali, pode causar um ferimento, sangramento e dor. O mesmo vale para a úlcera duodenal. O cuidado é necessário apenas nessas situações, que são facilmente identificáveis. Ocorre sangramento, como na hematêmese da úlcera gástrica, ou sangue nas fezes. Nesses momentos, sabe-se que há uma úlcera, e deve-se consumir alimentos que não a agridam.
-
-**17. Homem de meia-idade com câncer de estômago, perda de apetite, debilidade, vômito de substância viscosa, insônia, incapacidade de deitar e dormência nas pernas (Coletânea de Ensinamentos, vol. 8, p. 20)**
-
-(Consulta)
-Um homem de 53 anos, com úlcera gástrica desde outubro de 1950, após um período de repouso em casa, foi diagnosticado com câncer de estômago em janeiro de 1952. Em fevereiro, entronizamos o Altar de Komyō Nyorai. Recentemente, sua perda de apetite se acentuou e a debilidade aumentou. Mal consegue comer uma tigela de arroz e, ocasionalmente, vomita cerca de 540 ml de uma substância viscosa, às vezes espumosa. Não consegue dormir de dia nem de noite, permanecendo sentado. Sente um desconforto na região do estômago e as pernas estão dormentes. Evacua uma pequena quantidade a cada três ou quatro dias. Em 2 de março, sentiu uma forte pressão ascendente e sofreu muito. Ele já teve fé anteriormente e não usou muitos medicamentos. O que devemos fazer?
-
-(Orientação)
-Este caso é inviável. Seria mais apropriado que nos escusássemos de prosseguir. Trata-se de um câncer verdadeiro. O vômito da substância viscosa... é um câncer clássico. E a alimentação de uma tigela por dia... não há mais o que fazer. Portanto, o mais sensato é comunicar à família que não há esperança de recuperação e, com o devido respeito, encerrar o acompanhamento.
-
-**18. Mulher debilitada que usou grande quantidade de yakudoku, atualmente vomitando uma substância viscosa, com nódulos acima do seio, na boca do estômago e sob o braço (Registro de Orientações, vol. 21, p. 29)**
-
-(Consulta)
-Uma mulher de 34 anos, que ingressou na fé em fevereiro de 1951, vem se dedicando à Obra Divina. Desde 2 de maio de 1953, devido a uma purificação, passa a maior parte do tempo acamada, vomitando uma substância semelhante a uma mucosidade. Ela tem nódulos duros, os maiores do tamanho da ponta de um dedo e os menores do tamanho de um feijão azuki, localizados acima do seio, na boca do estômago e sob o braço.
-
-(Orientação)
-Dói quando pressiona?
-
-"Não dói muito."
-
-Tem febre?
-
-"Não. Raramente chega a 38 ou 39 graus. O apetite é de meia tigela de arroz e sua força física está diminuída. Ela recebe Johrei duas ou três vezes ao dia, sem alteração. Pouco depois de ingressar na fé, um espírito de dragão se manifestou. Seu irmão de 32 anos, o filho mais velho, também é membro, mas os pais ainda não. Eles não se opõem fortemente, mas não querem entrar na fé. A pedido dela, conversei com o pai, mas ele ainda não compreendeu. Haveria alguma relação entre o espírito de dragão e a purificação atual? Como devemos proceder daqui para frente?"
-
-Qual a quantidade de yakudoku que ela ingeriu?
-
-"Foi uma quantidade considerável. Ela não usou medicamentos novos como a 'micina', mas tomou cerca de quinze doses de Salvarsan, e o restante foram soluções de glicose com nutrientes."
-
-Você diz "o restante", mas é justamente isso que é prejudicial. Pode parecer inofensivo, mas a glicose é ruim. Este caso é, muito provavelmente, sem esperança. Ela chegou a melhorar em algum momento?
-
-"Houve um período em que pareceu melhorar."
-
-É um caso difícil. Já que me perguntam, minha resposta é: "Entrem na fé quando sua filha se curar. Enquanto ela não se curar, não o façam."
-
-**19. Idoso diagnosticado com câncer de estômago, com inchaço nas pernas, abdômen e rosto, que não vomita substância viscosa, mas está debilitado (Registro de Orientações, vol. 1, p. 20)**
-
-(Consulta)
-Trata-se de uma pessoa de 67 anos que recebe Johrei desde janeiro de 1951. Tem câncer de estômago e apresenta inchaço em todas as pernas, no abdômen e no rosto. Não vomita a substância viscosa. Não sente dor, mas o apetite tem diminuído recentemente. Em julho de 1951, entronizou o Altar de Komyō Nyorai e, desde então, tem tido diarreia e está debilitado.
-
-(Orientação)
-Se não há eliminação da substância viscosa, não é câncer. O inchaço não é um bom sinal. É um caso difícil; leve-o a um médico. Provavelmente não se salvará.
-
-**20. Idoso diagnosticado com câncer de estômago, que vomita substância viscosa, sente o nódulo gástrico se mover, questiona a relação com um dragão de um poço e busca usar glicose para combater a debilidade (Ensinamento)**
-
-(Consulta)
-Um homem de 68 anos, diagnosticado com câncer de estômago em meados de fevereiro deste ano, vem recebendo Johrei desde então. Recentemente, tem eliminado cerca de 900 ml de uma substância viscosa por dia. O nódulo no estômago se move durante o Johrei. Fomos informados de que o câncer de estômago está relacionado a reencarnações de dragões. Seria o nódulo gástrico o espírito de um dragão? Ou seria o ressentimento de seres que o dragão, em vidas passadas, engoliu vivos, formando esse nódulo que se move? Ademais, havia um poço antigo na propriedade, que foi aterrado para a construção de um depósito. Haveria relação com o dragão desse poço? Devido à falta de apetite, ele está debilitado e, temendo a fraqueza, pede glicose para beber. Qual a sua orientação? Gostaríamos também de saber os pontos a focar no Johrei.
-
-(Orientação)
-A substância viscosa é o veneno do dragão. Isso se deve ao pecado de ter engolido vários animais vivos em vidas passadas. Se o poço foi aterrado recentemente, o dragão do poço também pode ter relação. A glicose pode conter a debilidade temporariamente, mas depois ela retornará. Quanto à alimentação, ofereça o que ele desejar, tentando estimular o apetite. Ministre Johrei intensamente nas costas.
-
-**21. Homem de meia-idade diagnosticado com câncer de estômago, com endurecimento móvel na parte superior do estômago, dor, vômito de líquido aquoso, e atualmente apenas náuseas, falta de apetite e debilidade (Paraíso Terrestre, ed. 50, p. 10)**
-
-(Consulta)
-Um homem de 45 anos (membro) começou a se sentir mal do estômago por volta de junho de 1952. Até o final de outubro, enquanto continuava a trabalhar, tomou cinco frascos de Creosoto Maru com 200 comprimidos, dois frascos de Normosan com 180 comprimidos, quatro frascos de Neoyohso com 100 comprimidos e um frasco de Aureomicina com 16 comprimidos. Seu estado piorou gradualmente e, no início de novembro, um médico o diagnosticou com câncer de estômago em estágio inicial. No início de dezembro, um cirurgião confirmou o diagnóstico. A partir de 19 de dezembro, ele começou a receber Johrei. Após cerca de trinta sessões, embora o endurecimento no estômago não tivesse mudado, a sensação de pressão diminuiu um pouco, o apetite melhorou e ele se sentiu muito bem. Em 6 de fevereiro, ele e sua esposa ingressaram na fé. Depois disso, a dor voltou a se intensificar. A dor se move para cima e para baixo, da parte superior do estômago até a região do umbigo, e ele sente uma dor lancinante por cerca de duas horas quase todas as noites, por volta das nove. Há um endurecimento do tamanho de um punho na parte superior do estômago, que parece ter aumentado de tamanho. Esse endurecimento se move quando ele recebe Johrei. Há também um menor na parte de trás, sob as costelas esquerdas, que também dói. Ele se queixa de desconforto na região lombar e não consegue endireitar o tronco. No final de maio, um nódulo do tamanho de uma ameixa seca saiu pelo ânus, causando alguma dor ao evacuar. Aplicamos o Papel Sagrado, e o nódulo diminuiu sem supurar. Resta apenas um pequeno resquício, quase sem dor. Recentemente, ele tem tido altos e baixos, mas a perda de apetite se acentuou e a debilidade aumentou. Ele mal consegue se levantar para ir ao banheiro. Antes, vomitava pequenas quantidades de um líquido aquoso, mas agora sente apenas náuseas, sem conseguir expelir nada. Tem um pouco de febre na cabeça e no estômago. Os pontos de Johrei têm sido principalmente a frente e as costas do estômago, nuca, pescoço, ombros, rins, região lombar e cóccix. Ele mencionou que, quando estava em Hokkaido, comeu uma cobra-rateira-japonesa, que lhe disseram ser um remédio para o estômago. Seu irmão mais novo faleceu de câncer de estômago.
-
-(Orientação)
-Este é um câncer causado por yakudoku. Esta pessoa tem um endurecimento nos ombros. Ministre Johrei prioritariamente nos ombros; à medida que eles amolecerem, ele se curará.
-
-**22. Homem de meia-idade com câncer de estômago que, após uma melhora temporária, piorou, sem vitalidade na pele, vomitando substância viscosa e sem apetite (Sobre o som que emana do Ohikari) (Ensinamento)**
-
-(Consulta)
-Um homem de 48 anos, com câncer de estômago, ao deitar-se em silêncio, ouve ao seu redor um som crepitante, como "jiji", semelhante ao de uma bateria sendo carregada. Intrigado, olhou para o peito e viu o cordão de seu Ohikari vibrando finamente. Ao retirar o Ohikari do peito e segurá-lo na mão, percebeu que o som emanava dele. Esse som foi ouvido claramente não apenas por ele, mas também por sua esposa, que cuidava dele. Dias depois, ao contar essa experiência a outra pessoa, uma mulher de 42 anos disse que o mesmo lhe acontecia e que também estava intrigada. Essa mulher, ao ingressar na fé, tinha frequentes manifestações espirituais, mas atualmente está normal e saudável. Esse som ocorre de forma intermitente. Que tipo de aviso seria este?
-
-(Orientação)
-Ah, que interessante. É a primeira vez que ouço algo assim. Qual foi a evolução do caso dele?
-
-"Ele melhorou por um tempo, mas depois piorou."
-
-O câncer de estômago precisa ser curado de forma direta e rápida, senão não tem jeito. Qual a sua condição atual?
-
-"Ele está pálido, com a pele sem vida, elimina a substância viscosa e não tem apetite."
-
-Bem, é um caso perdido. O fato de a luz emitir som é prova de uma grande quantidade do elemento fogo.
-
-**23. Idoso diagnosticado com câncer de estômago que foi operado e, posteriormente, apresentou um inchaço abdominal extraordinário, prolapso anal e inchaço nas pernas (Ensinamento)**
-
-(Consulta)
-Um membro de 60 anos (homem), há cerca de três anos, foi diagnosticado por vários médicos como tendo provável câncer de estômago e foi submetido a uma cirurgia. Durante a operação, encontraram nódulos dispersos, semelhantes a gordura de galinha, com cerca de 3 a 4 centímetros, entre a parede do estômago, o intestino, a região posterior dos rins e a parede abdominal. O médico não pôde remover todos, operando apenas uma parte, realizando uma anastomose gastrointestinal e suturando. Depois disso, o abdômen começou a inchar gradualmente. No final de março do ano passado, ele começou a receber Johrei continuamente, mas nos últimos dois ou três meses, o inchaço aumentou progressivamente, atingindo proporções extraordinárias na frente, atrás e nos lados (parece mais do que o dobro do abdômen de uma gestante em fim de gravidez). Como consequência, ele teve prolapso anal e inchaço nas pernas. Além disso, junto com o inchaço abdominal, a massa endurecida também aumentou. Ele tem apetite, mas devido ao desconforto, não come muito. Gostaríamos de uma orientação sobre a causa e as medidas a serem tomadas.
-
-(Orientação)
-A cirurgia de estômago não deveria ser feita.
-
-**24. Pessoa que deseja recorrer à nossa fé após uma cirurgia de câncer de estômago (Registro de Orientações, vol. 3, p. 18)**
-
-(Consulta)
-Uma pessoa foi diagnosticada com câncer de estômago e tem uma incisão de cerca de 24 centímetros a partir da boca do estômago. Atualmente, está se alimentando com líquidos. Ela diz que gostaria de recorrer à Igreja Messiânica. Qual a sua orientação?
-
-(Orientação)
-Após uma cirurgia como essa, a sobrevida média é de dois anos e meio. Na melhor das hipóteses, talvez se estenda para três ou quatro anos. Nesses casos, o Johrei não tem muito efeito. Uma vez operado, não há o que fazer. É um crime médico.
-
-"Mesmo com Johrei, não há chance de prolongar a vida?"
-
-Com sorte, talvez cinco anos. E isso seria um excelente resultado. Com um corte desse tamanho, nem três anos devem ser fáceis. Talvez um ou dois. Isso é com os médicos. Nós não podemos intervir. Para pessoas assim, o melhor é que conheçam bem as questões do Mundo Espiritual e se preparem para a morte. Essa seria a maior salvação.
-
-"O médico operou dizendo que ele teria cerca de dois meses de vida."
-
-Um médico assim está equivocado. Em suma, é um crime cometido com boas intenções.
-
-### Duas, Enfermidades Abdominais
-
-**1. Pessoa cujo endurecimento no baixo-ventre se dissolveu, resultando em inchaço em todo o abdômen, sem melhora aparente (Ensinamento)**
-
-(Consulta)
-Tenho 36 anos e ingressei na fé em 1947. No final de novembro do ano passado, comecei a ter uma purificação de peritonite. Inicialmente, havia um endurecimento no baixo-ventre, que se dissolveu e fez todo o meu abdômen inchar. Atualmente, está do tamanho de uma barriga de fim de gravidez. Em geral, não sinto muita dor. Tenho recebido Johrei continuamente até hoje, mas não vejo melhora significativa. O volume de urina é normal, cerca de cinco a seis vezes por dia. A alimentação consiste em duas tigelas infantis rasas de arroz. Estou grávida.
-
-(Orientação)
-Ministre Johrei intensamente nos rins e aprofunde sua fé, e você será curada.
-
-**2. Jovem que, após melhora de uma purificação nos rins e peritônio, teve uma recaída com febre, inchaço e dor abdominal, vômitos ocasionais, perda de apetite e debilidade severa (Coletânea de Ensinamentos, vol. 3, p. 84)**
-
-(Consulta)
-Uma jovem de 20 anos, a partir de meados de abril de 1951, teve uma purificação nos rins e no peritônio. Por cerca de dois meses, a evolução foi favorável, o abdômen diminuiu de tamanho e o inchaço cedeu, o que a deixou muito feliz. Contudo, depois disso, ela passou a ter febre de 38 a 39 graus todas as noites, o que tornou seus ombros e pescoço extremamente flexíveis. Atualmente, a febre não é tão alta, mas desde que começou, ela perdeu o apetite. Ao comer, seu abdômen incha e ela ocasionalmente vomita. Sente dor constante em todo o abdômen, e essa condição persiste até hoje. Por causa disso, sua debilidade é severa e agora se tornou penoso para ela ficar de pé. Ela raramente ficou doente na infância, mas sempre teve menstruação irregular. Após a purificação, teve um pequeno fluxo no início de junho e, desde então, não menstruou mais. A mãe, durante o parto dela, teve nefrite gestacional e esteve à beira da morte. A família é muito devota; todos são membros e têm o Altar e a Imagem da Deusa Kannon. Eles encaram a purificação da filha como uma purificação dos pecados de toda a família, entregando a situação a Deus com gratidão. Rogo por uma orientação sobre esta purificação.
-
-(Orientação)
-Quem está ministrando o Johrei? Há um endurecimento na região dos rins, não?
-
-"No início havia, mas recentemente amoleceu."
-
-Mas ainda há uma quantidade considerável. A perda de apetite também se deve à febre. Há um endurecimento no abdômen, certo? Falta um pouco de poder espiritual. Um caso como este deveria se dissolver rapidamente. Dói quando pressiona, não é?
-
-"Sim, ela sente dor quando o abdômen é pressionado. Está sempre com as mãos sobre a barriga."
-
-Ainda há toxinas. Elas estão se dissolvendo.
-
-"As pessoas da família estão ministrando o Johrei..."
-
-A família ainda não tem força suficiente. É preciso ministrar com mais frequência. Se continuar assim, ela pode perder a vida. Ela precisa ter mais diarreia.
-
-"Ela evacua fezes endurecidas cinco ou seis vezes ao dia."
-
-Fezes endurecidas... não deveria ser assim. Será que não estão aplicando força no Johrei? A dissolução está lenta.
-
-"No início, ela ia à Igreja, mas depois ficou penoso para ela se levantar."
-
-Isso é porque está debilitada, perdeu o apetite. Para os médicos, isso seria tuberculose intestinal. As toxinas estão solidificadas no abdômen. Um caso como este deveria se curar sem problemas. Desta vez, peça que ministrem com o máximo de relaxamento, para que a luz penetre profundamente. Isso é difícil. A origem está nos rins. Ela é membro, não é?
-
-"Sim, é."
-
-Ela mesma deve ministrar Johrei em si constantemente. Ela está fazendo isso, certo? A irregularidade menstrual também se deve a isso. O resultado depende do poder espiritual de quem ministra o Johrei. Se o poder espiritual for forte, ela se curará rapidamente. O poder espiritual é fraco quando se aplica força. Sem aplicar força alguma, ele se torna extremamente forte. Assim, a dissolução ocorrerá rapidamente.
-
-**3. Mulher com um nódulo do tamanho de um punho no baixo-ventre (Paraíso Terrestre, ed. 40, p. 11)**
-
-(Consulta)
-Um nódulo do tamanho de um punho (semelhante a uma bola de esponja) se formou no meu baixo-ventre (abaixo do umbigo, à direita). Pedi Johrei, mas ele parecia apenas aumentar de tamanho, embora não houvesse dor. Em fevereiro de 1951, após receber uma orientação de Meishu-Sama, segui suas palavras e recebi Johrei diariamente. Nesse período, tive episódios de diarreia, mas continuei sem interrupções, recebendo a proteção divina. Contudo, o nódulo não mudou muito e, consequentemente, não tenho filhos. Em julho de 1952, servi em Gora e, ao retornar para casa, em 8 de agosto, senti dor no baixo-ventre, perdi o apetite e fiquei constipada. No dia 9, não consegui urinar e tive uma purificação tão intensa que cheguei a ter dificuldade para respirar. No dia 10, graças à proteção divina, senti-me aliviada, mas ainda não vejo muita mudança no nódulo. Seria por falta de Johrei? Levará mais dois ou três anos?
-
-(Orientação)
-O fato de o nódulo ter aumentado um pouco é um excelente sinal. Normalmente, ele cresce, abre-se um orifício, o pus é drenado e a cura acontece. Mas, em alguns casos, ele incha até um certo ponto e depois se resolve através da diarreia. Esta pessoa tem um endurecimento na região do rim direito; deve-se ministrar Johrei intensamente nesse local. Durante o Johrei, é preciso relaxar a mão o máximo possível. Levará mais tempo, mas a cura é certa.
-
-**4. Senhora idosa com peritonite e abdômen inchado como o de uma gestante em fim de gravidez devido ao uso contínuo de medicamentos chineses (Coletânea de Ensinamentos, vol. 1, p. 8)**
-
-(Consulta)
-Uma mulher de 61 anos. Desde jovem, sofria de dores abdominais constantes, com menstruação escassa e dor no baixo-ventre. Aos 37 anos, teve uma doença gastrointestinal, ficou em jejum por dezenas de dias e esteve em estado crítico. Por volta dos 46 anos, desenvolveu peritonite crônica e usou chás medicinais continuamente até ingressar na fé. A partir de janeiro de 1949, recebeu Johrei de forma contínua. Nos dias 4 e 5 de agosto de 1950, ficou incapaz de urinar, perdeu a consciência, seu corpo todo inchou e o abdômen ficou do tamanho de uma gestante em fim de gravidez. Mas, recebendo a proteção divina, no dia 6 conseguiu urinar bastante e no dia 8 pôde se levantar. Em fevereiro de 1951, ingressou na fé. Em 15 de maio, após peregrinar a Atami, a purificação se intensificou, o corpo todo inchou e a micção tornou-se escassa. No início de junho, após pedir ajuda ao ministro da Igreja, a micção se tornou mais fácil e o volume diminuiu, e o inchaço geral cedeu, mas o abdômen permanece do tamanho de uma gestante em fim de gravidez. Apesar dessa condição, ela acha qualquer alimento delicioso e deseja especialmente peixe e carne. Se come demais, a micção diminui e ela piora, então come apenas uma tigela rasa por dia. A pulsação está constantemente entre 30 e 40, mas durante o dia ela consegue ficar sentada na cama. Desde antes dos 40 anos, sua visão vem diminuindo e atualmente está quase cega. Temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre a causa desta purificação e os pontos vitais do Johrei.
-
-(Orientação)
-Não há "ponto vital" nenhum. É yakudoku. Ela ingeriu uma quantidade enorme. Medicamentos chineses. A causa é essa. Não há mais nada. Muitas pessoas perderam a vida por causa de medicamentos chineses. Se for para apontar um ponto vital, seriam os rins.
-
-**5. Pessoa com peritonite que sente apetite, mas não consegue comer, e tem nódulos abdominais que se movem ou desaparecem (Coletânea de Ensinamentos, vol. 5, p. 31)**
-
-(Consulta)
-Uma mulher de 39 anos. Desde a primavera de 1951, não se sentia bem, com fraqueza generalizada, falta de apetite e tendência à debilidade. Por volta de maio, seu baixo-ventre ficou duro e inchado, mas após cerca de um mês, amoleceu um pouco. Em seguida, todo o abdômen inchou, com sintomas de peritonite. No final de agosto, o inchaço diminuiu, mas o apetite não voltou e ela sentia dores abdominais ocasionais. Em setembro, teve febre alta repentina, fraqueza generalizada, falta de apetite e ficou "pele e osso". Recentemente, sente apetite, mas ao tentar comer, o estômago fica cheio e a comida não entra. Se força, o estômago dói e ela sofre. O Johrei alivia a dor, mas se para, a dor retorna por três ou quatro horas. Há três nódulos alongados de tamanhos diferentes no abdômen, que se movem ou desaparecem. Desde jovem, ela tem cerca de cinco vértebras salientes na região posterior ao estômago, que não doem, mas ocasionalmente causam uma fadiga lancinante e um sofrimento indescritível. O Johrei tem sido focado na parte posterior do estômago, nas vértebras salientes, no rim esquerdo, no pescoço e nas glândulas parótidas. A família toda é membro e temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre os pontos de Johrei, os nódulos abdominais e o fato de sentir apetite, mas não conseguir comer.
-
-(Orientação)
-Há um nódulo no abdômen. Se ele se move, é uma serpente. Uma serpente está agindo com más intenções. No entanto, ela já deveria estar conseguindo comer, tendo melhorado tanto. Há um excesso de toxinas nessa região. A presença de toxinas facilita a possessão por espíritos malignos. São as duas coisas. As costas são importantes, mas o abdômen também precisa ser tratado pela frente. Será que não estão aplicando força? Ao relaxar a mão, a dissolução se torna muito mais fácil. Tente ministrar com a mão relaxada. Falta pouco para a cura. As vértebras salientes... não têm muita relação. Isso pode ser tratado depois que o outro problema se resolver. A sensação lancinante... é uma purificação ocorrendo. É melhor tratar nesses momentos, pois a cura é mais rápida. E a cabeça. A cabeça pode estar relacionada ao apetite. A nuca. Tente ministrar Johrei na cabeça; se houver um endurecimento, dissolva-o. E nos pontos quentes. Fazendo isso, falta pouco para ela melhorar.
-
-**6. Criança com o abdômen inchado, em estado de altos e baixos (Paraíso Terrestre, ed. 48, p. 15)**
-
-(Consulta)
-Uma criança de quatro anos e sete meses. Desde o final de 1952, seu abdômen foi inchando gradualmente. Percebemos em 11 de janeiro e começamos a ministrar Johrei, mas o inchaço aumentou, ficando muito grande e com as veias azuladas visíveis. No final de fevereiro, seu estado se tornou preocupante, mas graças à proteção divina, o volume de urina aumentou um pouco e ela recuperou o ânimo. Desde então, tem tido altos e baixos, e o inchaço abdominal permanece inalterado. A micção ocorre a cada duas horas, com um volume de um copo e meio a dois copos de uísque. O suor noturno é tão intenso que chega a escorrer. O apetite é relativamente bom. Eu ministro Johrei uma vez a cada dez dias, e o restante é feito várias vezes ao dia por membros antigos e pelos pais. Por um tempo, reduzimos o Johrei para uma vez ao dia, mas o volume de urina diminuiu, então voltamos a ministrar várias vezes. Recentemente, a debilidade se tornou evidente e, há dois ou três dias, a criança começou a dizer "não quero morrer", "vou morrer", com os olhos cheios de lágrimas, de forma triste. Outras vezes, diz isso como se estivesse provocando a mãe, com um sorriso malicioso, de uma maneira que não parece de criança. Rogo por uma orientação sobre os pontos de Johrei e o número de sessões diárias.
-
-(Orientação)
-Os pontos vitais são os rins e a bexiga. Este é um caso que se cura sem dificuldade, mas quem está ministrando o Johrei deve estar errando o ponto vital. É preciso ministrar Johrei nesses locais várias vezes e, ao fazê-lo, relaxar a mão o máximo possível.
-
-**7. Homem com dormência em ambas as pernas e sensação de inchaço e desconforto abdominal após as refeições (Coletânea de Ensinamentos, vol. 2, p. 40)**
-
-(Consulta)
-Um homem de 26 anos (que tem o Altar de Komyō Nyorai). Por volta de janeiro de 1951, ele teve uma purificação de yakudoku com tosse, expectoração, dor abdominal, diarreia e fissura anal. Felizmente, a evolução foi favorável, mas no final de julho, começou a sentir dormência em ambas as pernas. No final de agosto, a dormência piorou e atualmente está tão paralisado na área coberta pelos sapatos que quase não sente quando o beliscam. Ele diz que é muito perigoso ir ao banheiro. Além da dormência nos pés, seus outros sintomas são um abdômen duro e uma sensação de inchaço e desconforto após as refeições. A debilidade é considerável. A febre é baixa e o pulso está entre 80 e 90. A dormência nos pés seria causada por um yakudoku pesado que desceu para essa parte? Ou teria outro significado? O yakudoku que ele usou foi quarenta ampolas de cálcio, trinta de Salbro e cerca de trinta dias de medicamentos orais. O pai está ministrando o Johrei.
-
-(Orientação)
-O medicamento está descendo. Portanto, não é nada de mais. Com paciência, ele se curará. O inchaço abdominal também é causado pelo acúmulo de medicamento no abdômen. O estômago se expande, e por isso o abdômen incha. A debilidade é porque ele não consegue se alimentar adequadamente. A febre não é um problema. O medicamento simplesmente desce e se acumula na parte inferior. Por mais que se remova, ele continua se acumulando. É preciso persistir. Se a remoção superar o acúmulo, a cura virá. Ministre Johrei várias vezes ao dia. Assim, ele se curará mais rápido. Os medicamentos são um problema. Um caso como este, se for a um médico, será confundido com beribéri. E se ele receber injeções de vitamina B, aí sim sua vida correrá perigo. É como um suicida pedindo ajuda para se matar. E custa caro.
-
-**8. Pessoa que urina pequenas quantidades mais de dez vezes ao dia, com dor no fígado e constipação, que recebeu injeções para amebíase e agora, ao receber Johrei, tem o abdômen inchado e sente náuseas (Ensinamento)**
-
-(Consulta)
-Um homem de 34 anos. Há sete anos, sentia uma leve dor na região do estômago ao caminhar e urinava pequenas quantidades mais de dez vezes ao dia. Gradualmente, o fígado também começou a doer e ele ficou constipado. O médico disse que uma ameba havia entrado no fígado e aplicou uma quantidade considerável de injeções, sem efeito. Em novembro de 1947, ele ingressou na fé. Atualmente, sente dor em ambos os lados da coluna, entre as omoplatas, e no fígado. Ao receber Johrei, todo o abdômen incha e ele sente náuseas, o que o leva a induzir o vômito. Gostaria de saber a causa do inchaço abdominal rápido.
-
-(Orientação)
-Bem, a toxina está nas costas e, ao caminhar, ela reflui para o estômago. A origem é o medicamento que ele tomou no passado. Urinar mais de dez vezes ao dia é um pouco excessivo, mas não deve ser nada grave.
-
-"Ele urina em pequenas quantidades."
-
-Ele sente vontade de urinar, é isso?
-
-"Sim, sente vontade, mas sai pouco."
-
-Isso indica que há toxinas entre a bexiga e a uretra. Mas isso não é nada de mais. A dor no fígado também é causada pela toxina local, e a constipação... como está a alimentação dele?
-
-"Ele come pouco."
-
-Ah, ele está constipado porque come pouco. Mas a constipação não é um problema. Pelo contrário, dá menos trabalho, não é? (risos) A medicina diz que a constipação é ruim, mas não é verdade. Eu mesmo, achando um incômodo ir ao banheiro todos os dias, tentei ficar constipado, mas não consegui. (risos) Amebíase é um disparate. Essa pessoa vai sofrer por um tempo. Não sei a natureza nem a concentração do medicamento, mas ele está purificando. A dor intensa é purificação. E, mesmo que a toxina se dissolva, se for muito concentrada, ela fica acumulada por um tempo, e por isso o abdômen incha.
-
-**9. Pessoa que usou Albazir, Gen-no-shoko, etc., e recentemente, com uma purificação intensa, geme de dor com náuseas e dor abdominal contínua (Coletânea de Ensinamentos, vol. 3, p. 18)**
-
-(Consulta)
-Toda a família é membro, e temos o Altar e a Imagem da Deusa Kannon. Gostaria de uma orientação sobre a purificação de meu pai. Até os 54 ou 55 anos, ele ocasionalmente pegava um resfriado, mas nunca faltou à escola. Há cerca de três anos, começou a sentir dor no estômago quando estava com fome, que parava ao comer. Na época, tomou "Wakamoto", "Normosan", "Tomosan", etc. Também, por causa de uma periodontite, tomou medicamentos de venda livre como Albazir e Dizeptal. Depois, com um medo extremo de diarreia, tomou continuamente "Gen-no-shoko" concentrado para pará-la. A diarreia parou, mas ele ficou pálido e perdeu o apetite. Percebendo o perigo dos medicamentos, recebeu o Ohikari em janeiro de 1949. Nos três anos seguintes, recebeu Johrei diariamente. Nesse período, a purificação foi lenta, mas não houve um dia sem dor. Atualmente, com o Johrei, ele se sente muito aliviado. A partir de 27 de setembro, a dor abdominal se intensificou, e em 1º de outubro, a purificação se tornou especialmente forte. A partir do dia 2, começou a sentir náuseas e geme de dor com uma dor abdominal quase contínua. Vomita grandes quantidades de uma água marrom-clara quatro ou cinco vezes ao dia. Como não come, mesmo o suco de maçã que toma com o Papel Sagrado e o Arroz Divino é todo vomitado. Na tarde do dia 4, a água vomitada era como uma lama marrom-escura e a urina também ficou marrom. Atualmente, sente uma queimação intensa no peito e um desconforto indescritível em todo o abdômen.
-
-(Orientação)
-Ele ia à escola, então... era professor? Isso é yakudoku. "Wakamoto", "Normosan" e "Tomosan" não são tão graves, mas "Albazir" é péssimo. Muitas pessoas morrem por tomar "Albazir" por um período. É extremamente prejudicial. E o Gen-no-shoko... esse é o pior de todos. Gen-no-shoko é suicídio. Pessoas que tomaram muito, no final, não se curam. No passado, tratei muitas pessoas assim e cheguei a alertar para não aceitar casos de quem tomou muito Gen-no-shoko. A purificação desta pessoa é de yakudoku. A purificação de hoje é mais forte e diferente da de antigamente, então a eliminação é mais rápida. Ele está eliminando bastante rápido. Não digo que não se curará, mas se sua vida resistir aos vômitos e eliminações, ele se curará. Se conseguir suportar a debilidade, certamente se curará. A alimentação dele é normal ou líquida?
-
-"Ele não come nada."
-
-Isso é muito ruim. O Johrei deve ser focado principalmente nas costas. Há um endurecimento nas costas. A toxina das costas se dissolve e vem para o peito. Vocês estão usando o método sem aplicação de força, certo? Não se deve mover a mão. Ministrando sem força, a dissolução é mais rápida. Na frente, a boca do estômago é o melhor ponto. Como está a diarreia?
-
-"Ele está completamente constipado."
-
-Por quanto tempo ele tomou o Gen-no-shoko?
-
-"Por cerca de dez dias."
-
-É yakudoku. Como eu disse, sem mover a mão, com a mão relaxada, apalpe as costas e encontre o ponto mais duro. Trate ali. E os ombros?
-
-"São flexíveis. Ele diz que nunca teve os ombros rígidos."
-
-Então, ele tem um corpo basicamente forte.
-
-"Ele não tomou muitos remédios, apenas vacinas preventivas."
-
-É por isso que ele está resistindo. Ter os ombros flexíveis nessa idade é sinal de saúde. Se, com o método atual, o apetite dele melhorar, por menor que seja, pode-se considerar que o pior já passou.
-
-"E o nome dele?"
-
-Sumihiro Yoshimine... o nome é bom. Sumihiro Kaneko... lê-se Kane? Sua linhagem é bem complicada. No futuro, seria bom mudar seu nome, mas por enquanto não há problema. Como eu disse, a purificação é forte, então talvez a dissolução seja surpreendentemente rápida e ele supere a crise. De qualquer forma, a causa é o endurecimento nas costas. Tente removê-lo o mais rápido possível, ministrando Johrei quantas vezes forem necessárias. Foque em remover o endurecimento das costas.
-
-**10. Mulher que passou por uma cirurgia abdominal e ocasionalmente sente dor intensa na região do osso púbico, com incontinência urinária e constipação (Ensinamento)**
-
-(Consulta)
-Uma mulher veio com dor ciática na nádega esquerda. A dor ciática sarou, mas sua constipação crônica não melhorou; pelo contrário, piorou recentemente. Ela sente dor intensa na região do osso púbico ocasionalmente e tem perdas de urina. Ela passou por uma cirurgia abdominal no passado e recebeu uma quantidade considerável de anestesia geral. Por favor, oriente sobre a causa da constipação.
-
-(Orientação)
-A causa é o yakudoku daquela época. Vai levar um bom tempo. O yakudoku da cirurgia está descendo. Ministre Johrei intensamente, de forma que a luz alcance as profundezas. As causas da constipação são variadas: pessoas que comem pouco, pessoas que mastigam muito bem os alimentos, ou um estreitamento do reto. Este último caso é devido a um nódulo de toxina, que, ao ser dissolvido, resolve o problema. A ingestão insuficiente de líquidos também causa constipação.
-
-**11. Ponto vital do Johrei em caso de dor abdominal (Coletânea de Ensinamentos, vol. 3, p. 50)**
-
-Quando o abdômen dói, há um endurecimento na parte de trás, um pouco acima. Existe em ambos os lados. Um dos lados estará mais inchado. Geralmente, o esquerdo é maior. Em algumas pessoas, pode ser o direito, mas deve-se ministrar Johrei no lado mais inchado. Isso requer paciência. A melhora virá gradualmente.
-
-**12. Homem que usava analgésicos e adesivos, foi internado por dor de estômago que se tornou intensa, foi sedado com injeções e ficou debilitado. Atualmente, tem inchaço localizado nas costas, especialmente no lado esquerdo, e está extremamente fraco (Coletânea de Ensinamentos, vol. 1, p. 24)**
-
-(Consulta)
-Gostaria de uma orientação sobre um homem de 52 anos, não-membro, que está passando por uma grande purificação abdominal. Ele sofria de dores nos ombros e de cabeça e, sempre que doía, tomava analgésicos e usava adesivos Tokuhon. Por volta de novembro de 1949, teve um espasmo estomacal violento e passou o ano seguinte sem grandes alterações. Por volta de dezembro de 1950, a parte superior esquerda do estômago começou a doer de forma latejante e, a partir de abril de 1951, a dor aumentou dia a dia, levando-o a ser internado no final de maio. O médico disse que havia água na pleura e aplicou quatorze injeções de estreptomicina, sem nenhuma mudança. Em 7 de junho, ele teve alta e, no dia seguinte, foi internado em um hospital nacional. A partir de então, passou a ter uma dor violenta no estômago cerca de uma vez por dia. No início de julho, as crises se tornaram de cinco a seis por dia, e a única solução era sedá-lo com injeções. A causa da doença era desconhecida e os médicos, sem mais o que fazer, apenas aplicavam injeções para a dor. Ele foi enfraquecendo gradualmente e, no início de julho, recebeu um prognóstico de apenas um mês de vida. A partir de 7 de julho, começou a receber Johrei diariamente e, desde aquele dia, a dor intensa se afastou. Muito feliz, sua esposa e sobrinha ingressaram na fé. Cerca de dez dias depois, ele teve alta, mesmo em estado grave e debilitado. Desde então, tem recebido Johrei diariamente, mas está extremamente fraco. Atualmente, os endurecimentos na parte superior esquerda do estômago, na boca do estômago e no fígado direito foram consideravelmente dissolvidos. No entanto, recentemente, ao tomar um pouco de água ou comida, seu abdômen incha imediatamente, a ponto de parecer que vai explodir, e às vezes ele regurgita o alimento ao arrotar. Quando o abdômen incha, o Johrei o alivia, mas não há outra purificação clara. Atualmente, as costas e a lateral do corpo, especialmente o lado esquerdo, estão com inchaço localizado. O peito do lado do pulmão esquerdo está tão inchado que quase não se move ao respirar. O sofrimento do inchaço estomacal, graças à proteção divina, vem em dias alternados, o que o torna um pouco mais suportável, e ele está grato. A família toda está se apegando à fé com todo o coração. Rogo por sua proteção.
-
-(Orientação)
-É um ministro intermediário? A essa altura, perguntar como ministrar Johrei é inaceitável. As toxinas estão acumuladas nas costas, especialmente na região dos ombros. Como sempre digo, quando o abdômen dói, a tendência é tratar o abdômen, mas não é isso. As costas são os bastidores; a frente é o palco. Tratando as costas, ele se curará. Isso é yakudoku. É uma doença criada pelos médicos, nada mais. Vivemos em um mundo realmente terrível. Uma situação como esta pode custar uma vida. Criam-se doenças, gasta-se dinheiro... é um suicídio pago. Em vez de gastar tanto dinheiro, seria mais inteligente ir para o Monte Mihara. Acabaria tudo de uma vez, sem sofrimento. É tolo se submeter a algo tão absurdo. Não se trata de superstição religiosa. A superstição médica é a grande superstição mundial. Portanto, neste caso, pode-se tratar quase que exclusivamente as costas. E os rins. Os rins também estão bastante atrofiados. O inchaço abdominal é devido à dissolução do medicamento. É comum o yakudoku dissolvido causar inchaço. Há muitos casos em que apenas o braço incha. Outros, em que o medicamento desce para as pernas e elas incham. Esta pessoa tomou muitos remédios para o estômago, que se dissolveram e se solidificaram. Vai levar um tempo considerável. Se ele conseguir suportar a debilidade, certamente se curará. É claro que ele também vomitará; ele está expelindo o medicamento. E ainda por cima, recebeu injeções de morfina. Ele ficará bastante debilitado. Portanto, não posso prever se ele vai se curar ou não. Se eu tivesse lhe dado o remédio, eu saberia, mas foi outra pessoa. Se a quantidade de medicamento for pequena, tudo bem. Ele precisa resistir o tempo necessário para eliminar um determinado medicamento. Se não conseguir, não haverá salvação. Mas casos como este costumam se salvar. Ao contrário das doenças pulmonares, nas doenças de estômago o corpo tende a resistir mais. E, na medida do possível, as pessoas ao redor devem ler os Ensinamentos para ele. Isso o purificará espiritualmente.
-
-**13. Homem de meia-idade que passou por cirurgia nos olhos, teve problemas cerebrais, operou o intestino, teve pneumonia, tomou todos os tipos de remédios e, após ingressar na fé, teve sangramento hemorroidário contínuo, anemia, desmaio e, posteriormente, instabilidade nas pernas, cabeça confusa e rosto inchado (Coletânea de Ensinamentos, vol. 4, p. 49)**
-
-(Consulta)
-Um homem de 52 anos. Aos treze, operou o olho direito e, desde então, passou por mais três cirurgias no mesmo olho. Aos dezenove, teve um problema cerebral que foi curado com tratamento médico. Aos 29, ao levantar um saco de arroz, teve algo como uma fissura no intestino e, após uma cirurgia, começou a sentir dor na lombar. Até conhecer nossa fé, pedia aos familiares que batessem em suas costas com um bastão de madeira. Aos 35, teve algo parecido com pneumonia e se curou com remédios de venda livre. Aos 42, teve apendicite e se curou sem cirurgia. Aos 48, em maio, ingressou na fé. Em novembro, toda a família teve uma purificação de sarna, que melhorou em setembro do ano seguinte. Ele foi ao Solo Sagrado para agradecer e, desde então, começou a ter sangramento hemorroidário. Nos três anos seguintes, o sangramento foi esporádico, mas em março, abril e maio de 1951, passou a sangrar cerca de cinco vezes por dia. Em junho, teve anemia e desmaiou. Depois, com o Johrei, o sangramento parou, ele recuperou um pouco a cor e o ânimo, e em 15 de outubro, peregrinou ao Solo Sagrado. Ao retornar, teve uma nova purificação com um pequeno sangramento. Sua pele está pálida devido à anemia e, embora o apetite seja excelente e ele não emagreça, suas pernas estão instáveis e ele diz que, ao se levantar, tudo fica amarelo. Sua cabeça está confusa e, há dois ou três dias, o volume de urina diminuiu e o rosto está inchado. Ele diz que, antes de ingressar na fé, tomou todos os tipos de remédios. Sua esposa ficou viúva de dois maridos anteriores e, recentemente, mandou fazer as tabuletas memoriais deles e as colocou no altar budista da família. Desde então, ele parece ter ficado com a cabeça mais confusa e o rosto inchado. Haveria relação com as tabuletas dos ex-maridos?
-
-(Orientação)
-Fissura no intestino... como se fosse um objeto de cerâmica. A cirurgia no olho... foi isso que causou o problema cerebral. Com tudo isso, ele ingeriu uma quantidade considerável de medicamentos. Eles se acumularam no intestino e, ao levantar o saco de arroz, o nódulo de yakudoku... iniciou uma purificação. Em seguida, a lombar também começou a purificar. Os remédios de venda livre também são prejudiciais. O sangramento hemorroidário é sangue da cabeça. Tudo isso foi a eliminação de sangue tóxico. Quem está ministrando o Johrei? Será que não estão errando o ponto vital? Ele tem algum endurecimento?
-
-"Antes tinha. Atualmente, recebe Johrei cerca de três vezes ao dia. Quando se ministra nos rins, ele sente um calor muito grande, a visão melhora e a instabilidade na lombar também."
-
-Então, o ponto agora são os rins. E ele está melhorando, não é? Não tem febre?
-
-"A temperatura está normal."
-
-Há um endurecimento nos rins?
-
-"Um pouco."
-
-Mas não a ponto de doer quando pressiona, certo?
-
-"Exato."
-
-E o abdômen?
-
-"Parece estar flexível."
-
-Ele se curará em breve. Não é nada grave. Os rins e as costas... é isso. A relação com as tabuletas dos ex-maridos... não é que não exista. Nesses casos, os espíritos se aproximam dele querendo receber Johrei. Isso não vai demorar muito para se resolver. A solução virá rapidamente.
-
-**14. Pessoa com dor na cicatriz de uma úlcera gástrica, diagnosticada com gastroptose, com o abdômen rígido como uma tábua, dor intestinal contínua, dificuldade para andar e crises de dor intensa, durante as quais surge uma protuberância em forma de bastão no baixo-ventre (Coletânea de Ensinamentos, vol. 3, p. 49)**
-
-(Consulta)
-Desde janeiro de 1947, sofro com uma purificação abdominal. Fui diagnosticada com "dor na cicatriz de úlcera gástrica" ou "gastroptose". Até por volta de maio, minha condição piorou drasticamente. Meu abdômen ficou como uma tábua, dormente e sem sensibilidade. Não conseguia reter os alimentos e vomitava todos os remédios, além da substância viscosa. Evacuava fezes pretas a cada cinco ou seis dias e, devido à dor lancinante, como se meu intestino estivesse sendo arranhado por dentro, cheguei a me preparar para a morte. Por volta de junho, tive uma melhora parcial. Em dezembro de 1947, ingressei na fé e, no ano seguinte, entronizei o Altar. No entanto, incapaz de suportar o sofrimento, recorri a tratamentos médicos. A dor interna no intestino continua até hoje e tenho dificuldade para andar. Ocasionalmente, tenho crises de dor intensa e, nesses momentos, uma protuberância em forma de bastão surge no baixo-ventre, pulsando vigorosamente. Recentemente, tenho recebido Johrei, entronizei um altar para o espírito de dragão e consigo comer cerca de uma tigela e meia de arroz com apetite. Minha mãe faleceu há alguns anos e sua aparência no leito de morte era a de um dragão. Minha doença teria alguma relação espiritual? E qual o significado da pulsação no baixo-ventre?
-
-(Orientação)
-Isso não é espiritual. É yakudoku. O abdômen como uma tábua... também é yakudoku. Tudo é yakudoku. As fezes... como a alimentação é escassa, as fezes se ressecam e ficam escuras. No entanto, há um pouco de sangue misturado, da úlcera gástrica. A sensação de arranhão... é o yakudoku irritando o intestino. A toxina, ao passar pelo intestino, o irrita. A dor interna contínua... o yakudoku flui constantemente para o intestino, deixando a mucosa intestinal inflamada. A protuberância em forma de bastão que pulsa... é comum em pessoas magras. À medida que a cura progride e o corpo ganha peso, isso se normaliza. O espírito de dragão também tem sua relação, mas a causa principal é o yakudoku. Quem toma muitos remédios para o estômago, invariavelmente, chega a esse estado. Há um endurecimento nas costas, então o Johrei deve ser focado principalmente nessa região. Quando o abdômen dói, há um endurecimento na parte de trás, um pouco acima. Existe em ambos os lados. Um dos lados estará mais inchado. Geralmente, o esquerdo é maior. Em algumas pessoas, pode ser o direito, mas deve-se ministrar Johrei no lado mais inchado. Isso requer paciência. A melhora virá gradualmente.
-
-**15. Mulher que, após o parto, tomou grande quantidade de vários medicamentos e recentemente apresenta expectoração com sangue, inchaço e debilidade acentuada (Coletânea de Ensinamentos, vol. 7, p. 79)**
-
-(Consulta)
-Uma mulher de 48 anos. Desde a infância, sofria de dores abdominais e usou Kumitinki continuamente até os dez anos. Casou-se aos 24 e deu à luz uma menina aos 25. Desde então, sua saúde ficou debilitada. Tomou cerca de dois frascos e meio de Albazir. Como a família era dona de uma farmácia, ela tomou uma grande quantidade de outros medicamentos e usou Gen-no-shoko como remédio habitual por dois ou três anos. Há dois ou três anos, começou a ter uma purificação na região lombar, com altos e baixos. A partir de outubro de 1951, a purificação se intensificou e, em 1952, teve um sangramento hemorroidário abundante e expectoração com sangue. Recentemente, seu corpo está inchado, ela sente um mal-estar generalizado e tem dificuldade para expelir o catarro. Não tem apetite, comendo cerca de meia tigela duas vezes ao dia, e sua debilidade se acentuou. À noite, o abdômen incha e ela não consegue dormir. Temos o Altar e a Imagem da Deusa Kannon. Rogo por uma orientação sobre o foco do Johrei.
-
-(Orientação)
-Albazir é terrível. Muitas pessoas morrem por causa dele. Gen-no-shoko também é ruim. Mas essa mulher ter sobrevivido é impressionante. Ela deve ter nascido muito forte para aguentar tudo isso. Não há um "foco" específico para o Johrei. Trata-se de yakudoku, então o corpo todo está afetado. Apenas o Gen-no-shoko se concentra no abdômen. Mas a intoxicação por Gen-no-shoko é muito persistente. Portanto, o problema principal é a debilidade. O Johrei diminui a quantidade de medicamento, e nesse sentido ela melhora, mas isso pode causar perda de apetite e, consequentemente, debilidade. Se ela conseguir suportar a fraqueza, se curará. Se a debilidade a vencer, a situação é perigosa. O resultado depende da quantidade de medicamento que ela tomou. Por isso, não posso prever. Se eu tivesse lhe dado o remédio, eu saberia. E para piorar, Gen-no-shoko e Albazir são dos piores tipos. O inchaço abdominal... é o medicamento que estava solidificado e agora está se dissolvendo. Se a micção for boa, ótimo. O abdômen e os rins... trate bem esses pontos. Focando neles, o apetite aumentará, a debilidade diminuirá e as chances serão melhores.
-
-**16. Jovem que, antes de evacuar, sempre elimina muco e sangue, e foi diagnosticado com amebíase (Coletânea de Ensinamentos, vol. 8, p. 38)**
-
-(Consulta)
-Um jovem de 18 anos. Há três anos, antes de evacuar, sempre elimina muco e sangue. Tomou vários remédios e injeções. Há cerca de um ano, foi diagnosticado com amebíase e úlceras em todo o reto. Em fevereiro de 1952, prestes a ser operado, teve a oportunidade de receber Johrei. Nos primeiros dez dias, o abdômen não acumulou gases, o sangramento e o muco diminuíram, o apetite aumentou e ele recuperou um pouco o ânimo. Contudo, depois disso, o sangramento e o muco aumentaram, e os outros sintomas voltaram ao estado anterior ao Johrei. Essa situação perdura por mais de vinte dias. Ele tomou estreptomicina, cloranfenicol, hemostáticos e muitas outras injeções e medicamentos. Ele está extremamente pálido, com uma cor azulada. Rogo por uma orientação sobre o ponto vital do Johrei, a amebíase e a causa das úlceras.
-
-(Orientação)
-Muco e sangue... isso é excelente. Se ele tivesse simplesmente ignorado isso com alegria, já estaria curado há muito tempo. Mas, achando que era algo ruim, foi ao médico. O médico, também achando que era ruim, prescreveu remédios e injeções. Aí está o erro. Úlceras... isso é mentira. Isso absolutamente não existe. Os médicos não entendem as doenças. Mas se disserem que não entendem, sua credibilidade fica em jogo, então fingem que entendem. Isso é o que é ruim. É claro que, se admitissem a ignorância, prejudicaria o negócio, então são forçados a mentir. É uma mentira comercial. Amebíase... se deixada em paz, cura-se sozinha. Úlceras... são criadas por remédios. Se não tomar remédios, elas saram. Este caso também, se deixado em paz, se resolveria. O ponto vital do Johrei... a origem está aqui (nuca). Há um endurecimento aqui (nuca), então basta ministrar Johrei neste local. Isso também, se deixado em paz, se cura. Isso nem entra na categoria de doença. As pessoas vão ao médico para agravar o problema e criar novas doenças. É realmente uma situação terrível. Estreptomicina, cloranfenicol, hemostáticos... por causa disso, esse yakudoku certamente se manifestará em algum lugar no futuro. É bom que ele esteja preparado. Haverá febre baixa, diarreia, vômitos... quando isso acontecer, ele deve se alegrar.
-
-**17. Homem de meia-idade que passou por cirurgia, usou remédios para o estômago e recentemente tem uma purificação intensa de dor abdominal (Paraíso Terrestre, ed. 40, p. 14)**
-
-(Consulta)
-Um homem de 45 anos, que atualmente trabalha na mina de carvão de Sakito, na província de Nagasaki. Desde que ingressou na fé, em novembro de 1951, tem recebido a proteção divina. Embora sofra de dores abdominais à noite, ele trabalha todos os dias e, ao voltar para casa, se dedica com fervor ao Johrei. Desde então, orientou cerca de vinte pessoas e atualmente é responsável por um grupo de 24 colaboradores, auxiliando com grande empenho na Obra Divina. Recentemente, a purificação se tornou especialmente intensa. Ele recebe Johrei e, enquanto está ministrando em outras pessoas, sente-se aliviado, por isso continua a se dedicar ao Johrei diariamente. Até o momento, ele passou por quatro cirurgias e vários outros tratamentos, então acredito que seja uma purificação de remédios para o estômago e desinfetantes. Gostaria de uma orientação sobre o método e os pontos do Johrei.
-
-(Orientação)
-É, sem dúvida, yakudoku. O ponto vital do Johrei é principalmente a região dos rins. Em seguida, o local da dor no abdômen, ministrando com o máximo de relaxamento possível.
-
-**18. Mulher que, por quatro anos, repete uma purificação de dor abdominal aproximadamente uma vez por mês (Paraíso Terrestre, ed. 36, p. 12)**
-
-(Consulta)
-Eu ingressei na fé no outono de 1946 e tenho o Altar e a Imagem da Deusa Kannon. Na primavera de 1949, minha mãe (membro) faleceu após apenas três dias de dor abdominal. Na noite do décimo quarto dia após sua morte, tive uma dor abdominal repentina (com os mesmos sintomas de minha mãe falecida). Sofri por cerca de dez dias e, por fim, como todos ao redor estavam preocupados, tomei uma injeção. Desde então, aproximadamente uma vez por mês, tenho uma purificação de dor abdominal, com uma dor intensa no estômago que dura uma semana ou dez dias. Quando a dor cessa, volto ao meu estado normal de forma surpreendentemente rápida. Nas primeiras três ou quatro vezes, consultei um médico e tomei injeções. No entanto, não houve nenhuma reação à dor abdominal e, finalmente, percebendo meu erro, pedi perdão a Deus e parei completamente com os tratamentos. Quando a dor abdominal começa, meu ombro direito fica muito rígido e sinto um pouco de dor. Graças à proteção divina, a dor não é tão violenta como no início, mas como venho repetindo uma dor abdominal muito semelhante por um longo período de quatro anos, me pergunto se não há uma causa espiritual. Se for espiritual, o que devo fazer?
-
-(Orientação)
-É yakudoku. Esta pessoa tem um endurecimento que vai do ombro às costas. Ministrando Johrei nesse local com paciência, ela certamente se curará.
-
-**19. Pessoa que desenvolveu um nódulo do tamanho de uma xícara de chá no abdômen e passou por uma cirurgia de remoção (Coletânea de Ensinamentos, vol. 5, p. 32)**
-
-(Consulta)
-Um membro de 53 anos. No outono de 1950, um nódulo do tamanho de uma xícara de chá se formou em seu abdômen. Na primavera de 1951, um médico o diagnosticou com "algo no mesentério" e, através de uma cirurgia, removeu vinte e um nódulos, grandes e pequenos. No verão de 1951, um grande nódulo se formou novamente no mesmo local. Em novembro de 1951, ele ingressou na fé e, ao receber Johrei, teve uma crise de dor intensa, a urina ficou turva, a constipação desapareceu e passou a ouvir um som de "gō-gō" dentro do abdômen. Movimentar-se é penoso e ele tem dificuldade para andar. Na época em que o nódulo apareceu, ele recebeu a notícia da morte de seu filho mais velho em combate no sul. Qual seria a causa disso?
-
-(Orientação)
-A constipação desapareceu... que estranho. Isso não tem relação com causas espirituais. Os vinte e um nódulos no abdômen... são o que os médicos chamam de peritonite tuberculosa ou algo do tipo. São acúmulos de pus. Com o Johrei, eles seriam removidos um a um, mas a cirurgia interrompeu o processo. Interromper causa uma reação contrária, e o grande nódulo é o resultado disso. O som de "gō-gō"... significa que está se dissolvendo. Com paciência, não é impossível curar. A origem, no final das contas, é o yakudoku. Ministre Johrei intensamente nos rins. As doenças são coisas simples.
-
-**20. Idoso que sente vontade de evacuar, mas tem dificuldade, e foi diagnosticado com câncer de reto (Ensinamento)**
-
-(Consulta)
-Um homem de 74 anos. Há cerca de seis meses, sente vontade de evacuar, mas tem dificuldade. O médico diz que é câncer de reto. Ele pode ser salvo com o Johrei?
-
-(Orientação)
-A dificuldade para evacuar ocorre porque a passagem das fezes no reto se estreitou, dificultando o trânsito. Nesses casos, os médicos usam laxantes ou enemas, o que não é muito bom. O reto de pessoas assim fica fino como um incenso, então levará um certo tempo. Dizem que é câncer, mas na maioria das vezes, são toxinas que pressionam o reto, causando essa condição. Em caso de câncer de reto, os médicos operam, cortam a parte afetada e abrem um orifício na lateral do abdômen para criar um ânus artificial. No entanto, as fezes são expelidas sem aviso, então a pessoa precisa usar uma espécie de fralda. Além disso, o intestino morre se ficar exposto, então precisa estar sempre bem coberto. Para completar, há os gases e o odor fétido das fezes, uma situação verdadeiramente trágica. O resultado dessa cirurgia é geralmente esse. Mesmo que digam que é câncer, o câncer verdadeiro é raro. Pessoas assim certamente têm um nódulo de toxina na região entre o umbigo e a lateral do abdômen. Ministre Johrei intensamente nesse local e, em seguida, nos rins. O nódulo abdominal vem dos rins. Com Johrei, até o câncer de reto, na maioria dos casos, se cura.
-
-**21. Pessoa diagnosticada com câncer de reto que, ao receber Johrei, teve sangue nas fezes por um tempo, mas depois o sangramento parou, ficou constipada e sente desconforto no peito (Coletânea de Ensinamentos, vol. 4, p. 82)**
-
-(Consulta)
-Desde junho de 1951, ele tinha problemas intestinais e, enquanto recebia tratamento médico, foi diagnosticado com câncer de reto. Disseram que a única solução era a cirurgia. A partir de 1º de outubro, começou a receber Johrei e, por um tempo, a evolução foi boa, com evacuações e sangue nas fezes. Em 21 de outubro, ingressou na fé. Em meados de novembro, o sangramento nas fezes parou, as evacuações se tornaram escassas e ele começou a sentir desconforto no peito. Haveria alguma relação espiritual?
-
-(Orientação)
-Não é espiritual. É yakudoku. Vai se curar. O fato de sair sangue nas fezes é excelente. Há um abscesso ao lado do reto. Ele pressiona o reto, e por isso a evacuação é difícil. O sangue nas fezes é, na verdade, sangue e pus sendo eliminados. Portanto, isso não levará muito tempo, mas com um pouco de paciência, ele se curará completamente. Não é câncer de reto. É um abscesso comum.
-
-**22. Pessoa diagnosticada com câncer de fígado, com um nódulo do tamanho de um ovo na região do fígado, e cujo abdômen ronca durante o Johrei (Ensinamento)**
-
-(Consulta)
-Uma mulher de 62 anos. O diagnóstico médico foi câncer de fígado. Disseram que não adiantaria operar, nem deixar de operar. Há cerca de uma semana, ela perdeu o apetite subitamente...
-
-(Orientação)
-Ah, isso é nervoso.
-
-"Há quatro dias, ela começou a se apegar à fé e a dor parou. Mas, quando recebe Johrei, o abdômen ronca como "gō-gō" e ela vomitou cerca de 540 a 720 ml de uma substância como água turva. Ela come duas tigelas de araruta ou mingau ralo por dia e tem um nódulo do tamanho de um ovo na região do fígado."
-
-Esse ronco de "gō-gō" é excelente. Significa que as toxinas estão se dissolvendo. Portanto, ministre Johrei pacientemente e de forma abundante nas costas. A toxina dos rins está indo para o fígado. Tratando bem a região dos rins e a parte posterior ao fígado, ela se curará.
-
-**23. Idoso que percebeu uma hérnia, usou uma cinta, mas o inchaço acima da virilha esquerda aumentou gradualmente, sem dor, e que se retrai ao deitar de costas (Coletânea de Ensinamentos, vol. 4, p. 98)**
-
-(Consulta)
-Um homem de 62 anos. Por volta de 1943, ao levantar um objeto, sentiu uma fraqueza no baixo-ventre. Desde então, um pequeno inchaço apareceu um pouco acima da virilha esquerda. Percebendo que era uma hérnia, ele começou a usar uma cinta e a usa até hoje, mas o inchaço aumentou gradualmente. No entanto, não há dor alguma. Ele se retrai quando a pessoa se deita de costas. Por volta de agosto, seu filho ouviu que, se a cor da hérnia mudasse, seria fatal, e, por precaução, ele foi examinado. O médico disse a mesma coisa. Acrescentou que era raro ter uma hérnia nessa idade e que uma cirurgia poderia resolver, mas que poderia voltar. Se a hérnia saísse e não voltasse, seria preciso operar imediatamente, senão seria fatal. Eu, minha esposa, meu filho mais velho e sua esposa somos membros. Entronizamos a Imagem da Deusa Kannon em 1948 e o Altar em outubro de 1950. Ele tem recebido Johrei diariamente (por cerca de três meses). Não houve nenhuma mudança na hérnia. Por ser agricultor, ele faz algum trabalho de força. Isso é um problema? Rogo por uma orientação sobre o ponto vital do Johrei.
-
-(Orientação)
-A hérnia é comum em idosos. É mais frequente em bebês e idosos. Nesses casos, a toxina se acumula no peritônio e causa pressão. Na infância... o ser humano tem uma abertura na região da virilha. Se essa abertura for grande, o intestino sai. Em idosos, a abertura não existe, então a causa é a pressão. Com a pressão, o intestino tende a sair pelo ponto mais fraco. Quanto à mudança de cor ser fatal... isso não existe. A causa é outra. A extrusão do intestino através de um ferimento no abdômen é fatal, mas se for um ferimento interno, sob a pele, não há risco de vida. Não precisa se preocupar. Há um endurecimento no abdômen; com Johrei, ele será removido. E não se deve apertar a cinta com força. Isso pressiona o intestino e o faz sair. A cinta não deve ser apertada. A parte posterior dos rins também é importante, então trate das costas até o cóccix. E, neste caso também, ministre com o máximo de relaxamento. Não há motivo para preocupação. No entanto, vai levar um bom tempo. Em idosos, a... tonicidade está um pouco enfraquecida. Mas ele se curará gradualmente. Tente proceder como eu disse.
-
-**24. Sobre a diarreia, constipação e o consumo de frutas, e sobre a febre tifoide e o antraz (Registro de Orientações, vol. 2, p. 49)**
-
-(Consulta)
-Em caso de diarreia, não se deve comer frutas?
-
-(Orientação)
-Em caso de diarreia, sim. Isso vale para todas as frutas.
-
-"Mesmo maçã descascada...?"
-
-Não se deve comer. Não é a forma de preparo, é o alimento em si.
-
-"Mestre, com licença. Como somos de Kansai, acho que não entendemos o termo 'mizugashi' (frutas)."
-
-Ah... em Kanto, chamamos as frutas de 'mizugashi'.
-
-"O suco das frutas também, então?"
-
-Não é que seja tóxico, mas aumenta o número de evacuações. É melhor se curar com menos evacuações, não é? Frutas são para pessoas saudáveis. Comer maçã ralada não é o ideal. É mais saboroso comer mastigando.
-
-"Então é melhor não dar frutas a pessoas doentes?"
-
-Não é bem assim. Se não estiver relacionado à diarreia, não há problema.
-
-"Para um doente constipado...?"
-
-É excelente. Mas para febre tifoide, não é bom. Aumenta a febre.
-
-**25. Sobre a causa da disenteria e o fato de que os germes surgem no próprio corpo (Coletânea de Ensinamentos, vol. 1, p. 8)**
-
-Dizem que a disenteria será epidemia este ano, e há um grande alvoroço. Se eu dissesse que a causa da disenteria está na cabeça, o mundo da medicina ficaria chocado. Está estabelecido que a disenteria é causada por germes, mas, na verdade, os germes surgem no próprio corpo. Há casos de contágio, como nos surtos coletivos. Nesses casos, os germes são criados e transmitidos a todos. Portanto, eles cumprem um bom papel. Fazem um grande alarde sobre de onde vêm os germes, mas no final, não conseguem descobrir. Eles surgem dentro da cabeça. E se manifestam como disenteria. Portanto, não há nada mais excelente. Por não saberem disso, os seres humanos praticam o mal. Curar a alma de quem pratica o mal significa remover as nuvens que a obscurecem, pois a alma está encoberta.
-
-**26. Sobre a disenteria ser causada por yakudoku recente (Coletânea de Ensinamentos, vol. 13, p. 14)**
-
-A causa da disenteria está na cabeça, e é mais fácil quando essa toxina se manifesta como disenteria do que em outra forma de purificação. Isso porque, na disenteria, o yakudoku é relativamente recente. Em outros casos, o yakudoku é antigo. O sangue tóxico, ao envelhecer, gradualmente se torna pus. Enquanto é novo, é vermelho. Como na disenteria o yakudoku é recente, na verdade, é melhor, pois o processo se resolve mais rapidamente.
-
-**27. Sobre a causa, o processo e o Johrei na disenteria (Coletânea de Ensinamentos, vol. 1, p. 64)**
-
-A disenteria está se espalhando bastante agora, com surtos coletivos em vários lugares. O melhor método que as autoridades estão promovendo insistentemente é lavar as mãos. Bem... se isso resolvesse, não haveria nada mais simples. Seria como ir a vários templos e santuários e ficar lavando as mãos. Nós dizemos que a disenteria é algo excelente. Se eles ouvissem, talvez nos achassem loucos, mas a causa da disenteria é a toxina da cabeça. O ser humano toma remédios e usa constantemente a cabeça. Assim, todo o yakudoku sobe para a cabeça. Se olharmos a cabeça das pessoas de hoje, não há uma que não esteja quente. A cabeça deveria ser fria. Mas não há ninguém com a cabeça fria. Quando ministro Johrei, a primeira coisa que faço é verificar a cabeça e sinto o calor. Assim, sei a quantidade de toxina. É uma forma simples de avaliar. Um pouco não é problema, mas em excesso não é bom. Em seguida, verifico aqui (pescoço). Se estiver frio, está bom. Se estiver quente, não está. Esse sangue tóxico... essa toxina solidificada... se dissolve e sai pelo ânus. Nesse processo, ela se dissolve, infiltra-se no abdômen, acumula-se ali e é expelida pelo ânus. Isso é a disenteria. Portanto, a disenteria é uma doença da cabeça. Se eu disser isso, os médicos me tratarão como louco. Por isso, ministrando Johrei na toxina da cabeça, a pessoa não terá disenteria. Quando se tem disenteria, o sangue tóxico se solidifica no peritônio. Ele se dissolve e se torna a causa da disenteria. Portanto, é algo excelente. Quem tem disenteria deve se alegrar muito. A toxina solidificada diminui. Em caso de disenteria, ministre Johrei no abdômen. Já examinei casos assim: enquanto o abdômen está quente, há sangue tóxico. Com o Johrei, ele vai sendo removido e o abdômen esfria. Aí a cura aconteceu. No dia seguinte, a pessoa já pode comer mingau de arroz e, no outro, comida normal. Portanto, a disenteria é algo que se cura em dois ou três dias. Com vocês, será da mesma forma. E eles fazem um grande alarde sobre isso... é lamentável. É bom que saibam disso. A maioria dos membros já sabe.
-
-**28. Sobre a causa da disenteria e os métodos de prevenção atuais (Coletânea de Ensinamentos, vol. 10, p. 61)**
-
-Os jornais e o rádio estão anunciando que a disenteria parece que vai se espalhar este ano. Como já disse antes, a disenteria é uma toxina da cabeça. É o sangue tóxico da nuca que é eliminado. A causa disso é que as pessoas de hoje usam muito a cabeça. Desde crianças, na escola, usam a cabeça. E na vida social, também, só há atividades que exigem o uso da cabeça. Mesmo os agricultores e trabalhadores de hoje, diferentemente dos de antigamente, têm a mente bem desenvolvida. Costumo ouvir as gravações de rua na rádio, e eles fazem isso em vilas rurais. Há agricultores que apresentam argumentos muito bons. Fiquei surpreso. O mesmo com os trabalhadores. Não dá para ver na rádio, mas há pessoas que falam coisas mais inteligentes que os políticos. Fico admirado. Percebe-se que elas leem livros e refletem no dia a dia. Portanto, entende-se que o homem moderno usa a cabeça. Ao usar a cabeça, o sangue sobe para lá. Se fosse sangue bom, tudo bem, mas é sangue tóxico, por causa dos remédios e injeções. Antes de o sangue chegar aqui (testa), ele se acumula na nuca. Ele passa pela nuca para chegar à testa. Mas se solidifica aqui (nuca) antes de chegar lá. Ao escrever ou usar as mãos... o sistema nervoso é muito solicitado, então o acúmulo aqui é fácil. Quando ocorre a purificação, ele se dissolve, vai para o abdômen e sai pelo ânus. Isso é a disenteria. Portanto, a causa da disenteria é essa que eu disse. Os germes são necessários para induzir esse processo. O sangue tóxico precisa ser eliminado rapidamente. Por isso, os germes surgem no sangue tóxico. Eles se espalham e muitas pessoas purificam. É algo excelente. O caminho da doença é esse que acabei de descrever. Mas o que é cômico são os métodos de prevenção atuais. "Lave as mãos ao voltar da rua", "Lave as mãos antes das refeições", "Não coma nem beba em excesso", "Não coma alimentos crus". Lavar as mãos é o que acho mais cômico. Se os germes fossem grandes como areia ou lama, lavar as mãos os limparia, mas será que algo tão pequeno, visto ao microscópio, realmente sai? E mesmo que saia, adere novamente em seguida. É apenas um consolo. E não comer alimentos crus... parece que eles consideram a água perigosa. A água de poço talvez, mas a da rede de abastecimento não. Lavar alimentos crus com água da torneira... não há problema. Talvez facilite a diarreia, mas eles não sabem que a diarreia é excelente. Por não saberem mais nada, ficam se debatendo no escuro. É uma história cômica e lamentável. É realmente triste. Se eles entendessem essa lógica, estaria tudo bem. Os membros que entenderam isso já são felizes só por esse ponto. É algo extraordinário. Do contrário, teriam que lavar as mãos com medo toda vez que voltassem da rua, que incômodo. E viver sempre com medo. E se tivessem um pouco de diarreia, se preocupariam se não era disenteria. Como sempre digo isso, não preciso repetir, mas penso que é preciso fazê-los entender o mais rápido possível. De qualquer forma, como é algo que Deus está fazendo, à medida que o tempo avança, todos terão que entender. Não há outra opção a não ser esperar o tempo.
-
-**29. Sobre a causa da disenteria e os acidentes (Coletânea de Ensinamentos, vol. 10, p. 54)**
-
-Os jornais estão noticiando que a disenteria está se espalhando bastante este ano. E, apesar do frio... ainda nem chegou o verão, mas já há surtos em vários lugares. No auge do verão, deve haver muitos casos. Talvez quebremos um recorde. Já falei sobre a causa da disenteria antes, mas, em suma, é: usar a cabeça e tomar remédios. Essa é a causa da disenteria. As pessoas de hoje usam muito a cabeça. Na vida social, é impossível não usar a cabeça. E há muitas dificuldades, então elas se preocupam e precisam usar a inteligência. E, para completar, a cabeça está em péssimo estado. Estão sobrecarregando a cabeça. E ainda tomam remédios, então o yakudoku inevitavelmente se acumula aqui (nuca). Ultimamente, eu não atendo o público em geral, mas quando examino familiares ou pessoas próximas que estão mal, a causa em todos é aqui (nuca). Em nove de cada dez pessoas. Quando ocorre a purificação aqui, o sangue tóxico se dissolve, desce, acumula-se no abdômen e sai como diarreia. Isso é a disenteria. A medicina foca apenas nos germes e faz um grande alarde, mas, na verdade, é algo excelente. Ou seja, quando a toxina se acumula aqui, a cabeça fica ruim, e não só a cabeça. Como o sangue tóxico está sempre se acumulando aqui, a pessoa fica irritada, confusa. Há muitos acidentes de trânsito. Nos Estados Unidos também <o número de mortos em acidentes de trânsito nos EUA é maior que o de mortos na guerra>. No Japão também, as estatísticas mostram que muitas pessoas morrem em acidentes de trânsito. Qual a causa? O calor que sobe para aqui (nuca) deixa a pessoa confusa. E ela colide. É porque a cabeça não está bem. E "cabeça não estar bem" significa que está ocorrendo uma purificação aqui (nuca). E por qualquer coisinha, as pessoas brigam, matam... o que aconteceu no Dia do Trabalho, a causa também foi aqui (nuca). E a sensação de mal-estar. As pessoas não interpretam as coisas com boa intenção, mas com malícia. Sentem-se mal sem motivo. E se forem um pouco provocadas, explodem. A explosão é uma espécie de desespero. Portanto, a coisa mais abominável do mundo tem como causa isso aqui (nuca). Ou seja, o acúmulo de toxinas. Mais do que ser algo feito por Deus, é uma limpeza feita pela natureza. Isso é a disenteria. Portanto, não há nada mais excelente que a disenteria. Quem tem disenteria se torna saudável, a mente fica mais clara. E o que é cômico é que dizem para lavar as mãos ao voltar da rua. Ao dizer isso, eles devem pensar que o bacilo da disenteria é algo bem grande. Mesmo lavando as mãos, o germe adere aqui e ali. Se fosse algo visível, como lama, talvez saísse ao lavar, mas algo tão pequeno como um germe, mesmo lavando, adere novamente em seguida. É lamentável que se submetam a algo tão incômodo. E, como não têm outra solução, a recomendação para a disenteria acaba sendo não comer em excesso. Mas comer em excesso não tem relação com a disenteria. O excesso de comida apenas dilata o estômago; não se bebe sangue em excesso. Mesmo comendo demais, isso vira apenas fezes. E lavar as mãos é algo realmente infantil. E, fora isso, eles ficam de mãos atadas. E se preocupam e gastam uma fortuna. Do nosso ponto de vista, é realmente lamentável. Vou escrever sobre isso no jornal, mas os membros entenderão, e os de fora pensarão, no máximo, que é algo curioso. Enfim, essa é a situação. Portanto, para os membros, a disenteria é algo que, se acontecer, é excelente. Só essa tranquilidade já é algo extraordinário.
-
-**30. Sobre o diagnóstico e a alimentação na febre tifoide e na disenteria (Registro de Orientações, vol. 2, p. 50)**
-
-(Consulta)
-No caso de febre tifoide ou disenteria, examinamos o abdômen. Consigo identificar a disenteria, mas não a febre tifoide.
-
-(Orientação)
-Tanto na febre tifoide quanto na disenteria, o abdômen invariavelmente está quente. Na febre tifoide, a cabeça dói. Na disenteria, não. Na febre tifoide, o pulso é baixo em relação à febre alta. Para determinar se é febre tifoide, observe a relação entre a febre e o pulso, a dor de cabeça e o fato de a febre subir por volta das quatro da tarde. Se for o caso, mude a alimentação para líquidos e ministre Johrei. Em dois ou três dias, a pessoa estará curada.
-
-"A alimentação líquida pode ser mingau ralo?"
-
-Sim. Quando a febre baixar, dê mingau de arroz.
-
-"Um médico chamado Nagase disse que na febre tifoide o baço incha."
-
-O baço incha no diabetes. Na febre tifoide, o local é outro. É no intestino. Ele deve pensar assim por ter tido dois ou três pacientes com essa característica.
-
-"Tive um caso de febre tifoide, e a pessoa se curou antes do exame de fezes."
-
-Cura-se, sim. Basicamente, na febre tifoide, formam-se perfurações no intestino. Se um alimento sólido encosta ali, a febre sobe. Com o Johrei, a pessoa se cura mesmo sem uma dieta líquida. Apenas, com a dieta líquida, a cura é mais rápida.
-
-**31. Sobre a causa, os sintomas, os pontos de Johrei e os cuidados com a alimentação na febre tifoide (Registro de Orientações, vol. 25, p. 19)**
-
-(Consulta)
-Gostaria de uma orientação sobre os sintomas e os pontos de Johrei na febre tifoide.
-
-(Orientação)
-Como você soube que era febre tifoide? Foi um médico que disse?
-
-"Como não há nos Ensinamentos, pergunto de forma geral..."
-
-A causa da febre tifoide é a perfuração do intestino. Os sintomas são febre alta e dor de cabeça. Não há sintomas no intestino. Não há diarreia ou algo do tipo. Por isso, é chamada de febre tifoide intestinal, mas as pessoas não entendem por que o intestino está mal. A característica da febre tifoide é a febre alta e a dor de cabeça. Os médicos dizem que a febre e a temperatura não são paralelas; a febre é alta, mas o pulso não é tão acelerado. Essa é a principal característica da febre tifoide. Quando nós ministramos Johrei, ou seja, para diagnosticar a febre tifoide, a medicina precisaria de um microscópio, mas do nosso lado, se a febre está alta, a cabeça dói e, mesmo ministrando Johrei na cabeça, a febre não baixa como deveria, pode-se considerar que é febre tifoide. Se suspeitar de febre tifoide, mude imediatamente a alimentação para líquidos. Leite ou mingau ralo, qualquer coisa sem pedaços. E, claro, ministre Johrei no abdômen. No centro, ao redor do umbigo. Se for febre tifoide, a cura virá em dois ou três dias. Em casos rápidos, no dia seguinte já estará curado. Não é nada. O yakudoku se acumula no intestino e os germes, como os médicos dizem, que na verdade são vermes, surgem e corroem o local. Assim, a parede intestinal é perfurada. Quando a toxina se torna tão maligna a ponto de perfurar a parede intestinal, ela também se dissolve com o calor e é eliminada. Nesse momento, à medida que a toxina se dissolve, a perfuração fica mais evidente. Se um alimento sólido bate ali, causa uma fissura. A morte por febre tifoide ocorre por hemorragia intestinal. Por isso, os médicos temem muito a hemorragia intestinal na febre tifoide. Mas, do nosso lado, o local se regenera imediatamente, então não há o que temer. Portanto, com o Johrei, a febre tifoide se cura sem dificuldade. Como eu disse, primeiro trate a cabeça. Se a febre não baixar como esperado, considere febre tifoide e ministre Johrei no centro do intestino, na região do peritônio. Só isso basta. Não precisa saber detalhes; assim se cura. A dieta líquida também é por um ou dois dias. A febre baixará, e depois pode-se dar mingau de arroz. E mesmo sem mudar a alimentação, só com o Johrei a pessoa se cura. Apenas, com a dieta líquida, a cura é mais rápida.
-
-**32. Sobre os cuidados com a alimentação e a hemorragia intestinal na febre tifoide (Coletânea de Ensinamentos, vol. 1, p. 48)**
-
-(Consulta)
-Sobre a purificação de febre tifoide:
-1. Em uma orientação anterior, Meishu-Sama disse que dar refrigerante a um paciente com febre tifoide pode ser fatal. Como devemos selecionar os alimentos?
-2. Ocasionalmente, ocorre hemorragia intestinal. Os médicos dizem que é porque o intestino se perfura. Seria a eliminação do sangue turvo da cabeça?
-
-(Orientação)
-Febre tifoide se diz "chifusu". Não se fala assim. Ah, que grande erro. Hemorragia intestinal é fatal. Os médicos confundem e chamam assim. É apenas a eliminação de sangue. A dieta líquida é correta. E a febre é o melhor indicador. Na febre tifoide, se a alimentação for inadequada, a febre sobe, então se percebe imediatamente. Se a febre não subir, está tudo certo. O intestino se perfura... um alimento sólido encosta. Então a febre sobe. A dieta líquida não encosta, passa direto. Por isso a febre não sobe. A medicina... faz uma dieta líquida e, se a febre não aparecer por uma semana, dá mingau de arroz. Se não aparecer, dá arroz normal. Observando isso, fica fácil de entender. Há casos em que se confunde com outra coisa, então comparando com a febre, a identificação é simples. Se houver hemorragia intestinal, não há salvação. Mas isso é um engano, então não se preocupe. O sangue turvo da cabeça... normalmente, não é hemorragia intestinal, ele sai pelo abdômen. Em casos graves, é a disenteria. E quando não passa pelo abdômen, mas sai pelo ânus... é o sangramento hemorroidário. É excelente. Tudo isso é sangue turvo da cabeça, então pense assim.
-
-**33. Sobre a patologia da febre tifoide e a seleção de alimentos (Coletânea de Ensinamentos, vol. 13, p. 51)**
-
-Na febre tifoide, a mucosa intestinal também amolece. Aí, surgem vermes. E a perfuração acontece. Se um alimento sólido entra nessa perfuração, a febre sobe. Por isso, a medicina também adota a dieta líquida. Mas com o Johrei, a cura é rápida. A febre tifoide, para quem não está internado, cura-se sem dificuldade. Para os internados, como a perfuração no intestino não cicatriza facilmente, a dieta é líquida. Portanto, é bom escolher alimentos que se adequem aos sintomas.
-
-**34. Sobre a causa do pulso baixo apesar da febre alta na febre tifoide (Registro de Orientações, vol. 20, p. 7)**
-
-(Consulta)
-Qual a causa do pulso baixo apesar da febre alta na febre tifoide?
-
-(Orientação)
-Eu não havia pensado nisso. Basicamente, os médicos e os livros dizem que o pulso está relacionado ao coração. A febre pode vir de qualquer lugar, mas quanto mais perto do coração, mais a febre afeta o pulso. E há outra lógica. Os problemas da parte inferior do corpo têm pouca influência na parte superior. Em contrapartida, as doenças da parte superior afetam fortemente a parte inferior. Isso se observa também em um país. As más ações da classe dirigente, como líderes, ministros e políticos, afetam enormemente a base, mas se alguém da base faz algo errado ou tem maus pensamentos, o efeito é localizado. É como uma pirâmide: quanto mais alto, menor em tamanho, mas maior em poder. A febre tifoide é uma doença da parte inferior, então a influência que chega ao coração é menor.
-
-**35. Pontos vitais do Johrei (no caso de apendicite, problemas de fígado, dor no baixo-ventre, espasmo estomacal) (Ensinamento)**
-
-(Consulta)
-E no caso de apendicite ou problemas de fígado?
-
-(Orientação)
-Claro que é na parte de trás. Tratando pelas costas, a cura virá. Para dor no baixo-ventre, é na concavidade um pouco acima do osso do quadril. Para espasmos estomacais, é na região das omoplatas.
-
-**36. Patologia da apendicite (Registro de Orientações, vol. 25, p. 18)**
-
-(Consulta)
-No livro "A Criação da Civilização", no capítulo sobre cirurgia, está escrito que "a função do apêndice está nas costas".
-
-(Orientação)
-"Nas costas" está um pouco incorreto. Se fosse "nos rins, nas costas", estaria correto.
-
-"No livro 'Salvar a América', está 'as toxinas da parte inferior do corpo'."
-
-Exato. As toxinas da parte inferior do corpo se acumulam na região dos rins, nas costas, e se manifestam no apêndice. Essa é a sequência.
 
 ---
 

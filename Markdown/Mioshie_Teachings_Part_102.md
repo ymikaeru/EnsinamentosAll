@@ -3,7 +3,7 @@
 # Coletânea de Teses do Mestre Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-11-15
 
 ## Coletânea de Teses do Mestre Jikan Okada
 **Coletânea de Ensinamentos, nº 15 – Publicada em 15 de novembro de 1952**
@@ -385,7 +385,7 @@ Lerei a “Conclusão” em outra oportunidade. Escrevi de forma tão contundent
 # Coletânea de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, Terceiro Volume
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-11-25
 
 ## Coletânea de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, Terceiro Volume
 *Coletânea de Ensinamentos, n° 3, publicado em 25 de novembro de 1951*
@@ -843,7 +843,7 @@ Isso mesmo. Seria mais leve. A sarna... a sarna foi criada pela vacina contra a 
 # Ensinamento (15 de janeiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月15日） | **Status:** Published
+**Título Original:** 御教え （S27年1月15日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## Ensinamento (15 de janeiro de 1952)
 
@@ -904,7 +904,7 @@ O próximo texto também é interessante. Já comentei sobre ele, mas, ao transp
 # Coletânea de artigos do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月17日） | **Status:** Published
+**Título Original:** 御教え （S27年3月17日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Coletânea de artigos do Reverendo Jikan Okada
 **Busca por Ensinamentos: help | Busca por Materiais: Ensinamentos (17 de março de 1952)**
@@ -1036,7 +1036,7 @@ A esse respeito, há algo interessante escrito sobre o poder.
 # Coletânea de Ensaios do Mestre Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-04-15
 
 ## Coletânea de Ensaios do Mestre Jikan Okada
 

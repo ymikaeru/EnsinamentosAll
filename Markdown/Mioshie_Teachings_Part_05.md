@@ -3,7 +3,7 @@
 # A Providência Divina e o Segundo Início
 
 **Categoria:** situmon | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S29年4月1日） | **Status:** Published
+**Título Original:** 御垂示 （S29年4月1日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-04-15
 
 ## A Providência Divina e o Segundo Início
 
@@ -288,7 +288,7 @@ A propósito, na nossa atual exposição Momoyama, está em exibição uma caixa
 # Esclarecimentos de Meishu-Sama
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S27年11月1日） | **Status:** Published
+**Título Original:** 御垂示 （S27年11月1日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
 
 ## Esclarecimentos de Meishu-Sama
 
@@ -411,7 +411,7 @@ A propósito, na nossa atual exposição Momoyama, está em exibição uma caixa
 # A Hierarquia Espiritual e o Poder da Palavra
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年6月2日） | **Status:** Published
+**Título Original:** 御垂示 （S26年6月2日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-01-25
 
 ## A Hierarquia Espiritual e o Poder da Palavra
 
@@ -470,7 +470,7 @@ O Japão é um país onde o espírito é principal e o corpo é secundário. O O
 # A Causa Espiritual das Enfermidades
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月17日） | **Status:** Published
+**Título Original:** 御教え （S27年3月17日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## A Causa Espiritual das Enfermidades
 
@@ -569,7 +569,7 @@ A toxina que se liquefez acumulou-se nesse ponto.
 # Esclarecimentos sobre Questões da Fé e do Espírito
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
-**Título Original:** 超人間的の業 | **Status:** Published
+**Título Original:** 超人間的の業 | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1949-07-30
 
 ## Esclarecimentos sobre Questões da Fé e do Espírito
 
@@ -668,7 +668,7 @@ Este é o segundo artigo da série de perguntas e respostas com o Grande Mestre 
 # Esclarecimentos de Meishu-Sama
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S25年3月8日） | **Status:** Published
+**Título Original:** 御光話 （S25年3月8日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
 
 ## Esclarecimentos de Meishu-Sama
 
@@ -703,7 +703,7 @@ Contudo, é preciso considerar o fator do hábito. Em casos onde o problema se t
 # A Harmonia Divina na Fé e na Vida Cotidiana
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年9月8日） | **Status:** Published
+**Título Original:** 御垂示 （S26年9月8日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
 
 ## A Harmonia Divina na Fé e na Vida Cotidiana
 
@@ -1120,7 +1120,7 @@ Isso não. A Imagem Divina só pode ser outorgada após a conclusão do curso. O
 # Esclarecimentos sobre a Fé e o Cotidiano
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月10日 | **Fonte:** 実生分会ニュース
-**Título Original:** 妙智の鍵 実生分会 | **Status:** Published
+**Título Original:** 妙智の鍵 実生分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-05-10
 
 ## Esclarecimentos sobre a Fé e o Cotidiano
 
@@ -1165,7 +1165,7 @@ R: É uma forma de superstição. Mesmo que algo desfavorável ocorra em um dess
 # Elucidações Divinas sobre as Causas da Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月5日） | **Status:** Published
+**Título Original:** 御教え （S26年10月5日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Elucidações Divinas sobre as Causas da Purificação
 
@@ -1266,7 +1266,7 @@ Existe uma solidificação nesta região do pescoço que causa os tremores. O ma
 # Esclarecimentos sobre Diversos Assuntos
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年3月8日） | **Status:** Published
+**Título Original:** 御光話 （S24年3月8日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949
 
 ## Esclarecimentos sobre Diversos Assuntos
 
@@ -1407,7 +1407,7 @@ O aborto e o controle de natalidade são, obviamente, distintos. O pecado do con
 # A Nova Metodologia de Divulgação
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年1月18日） | **Status:** Published
+**Título Original:** 御光話 （S23年1月18日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## A Nova Metodologia de Divulgação
 
@@ -1426,7 +1426,7 @@ O abdômen dilatado indica uma disfunção renal. Já a meningite, por sua vez, 
 # situmo49
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1953-11-25
 
 *Do Ensinamento de Luz, 『Paraíso Terrestre』, nº 54, publicado em 25 de novembro de 1953*
 
@@ -1519,7 +1519,7 @@ A explicação referente à paralisia encontra-se nos Escritos Divinos. Ao consu
 # Diálogo sobre Arte, Fé e Purificação
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S27年3月1日） | **Status:** Published
+**Título Original:** 御垂示 （S27年3月1日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-25
 
 ## Diálogo sobre Arte, Fé e Purificação
 
@@ -2026,7 +2026,7 @@ As marcas são temporárias.
 # Orientações sobre a Fé e a Prática
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年8月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1953-08-25
 
 ## Orientações sobre a Fé e a Prática
 
@@ -2091,7 +2091,7 @@ Submeto, respeitosamente, duas questões.
 # Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月5日 | **Fonte:** 会報
-**Título Original:** 妙智の鍵 光明分会 | **Status:** Published
+**Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-05-05
 
 ## Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
 
@@ -2254,7 +2254,7 @@ O coração absorve o elemento fogo; os pulmões, o elemento água; e o estômag
 # Esclarecimentos sobre a Fé e o Cotidiano
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949-08-30
 
 ## Esclarecimentos sobre a Fé e o Cotidiano
 
@@ -2373,7 +2373,7 @@ Anos atrás, uma pesquisa estatística sobre pacientes com tuberculose em Tóqui
 # Diálogos sobre a Fé, o Mundo Espiritual e a Vida Cotidiana
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年9月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年9月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Diálogos sobre a Fé, o Mundo Espiritual e a Vida Cotidiana
 
@@ -2478,7 +2478,7 @@ Não se pode dizer que o conflito seja inteiramente mau, nem que seja sempre ace
 # Esclarecimentos sobre Diversos Assuntos
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月10日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年5月23日） | **Status:** Published
+**Título Original:** 御光話 （S24年5月23日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1949-07-10
 
 ## Esclarecimentos sobre Diversos Assuntos
 
@@ -2609,7 +2609,7 @@ Não, para os olhos não é eficaz. O tratamento para os olhos deve ser feito na
 # Esclarecimentos sobre Deuses, Espíritos e a Nova Era
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年5月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年5月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Esclarecimentos sobre Deuses, Espíritos e a Nova Era
 
@@ -2670,7 +2670,7 @@ Ademais, a raposa é um animal. Se uma pessoa se habitua a utilizar tais entidad
 # Orientações sobre as Purificações
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月16日） | **Status:** Published
+**Título Original:** 御教え （S27年3月16日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Orientações sobre as Purificações
 
@@ -2831,7 +2831,7 @@ Que insensatez! Usar um hemostático... Uma pequena hemorragia é um sinal magn�
 # Direcionamentos Divinos sobre Diversos Assuntos
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年2月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1951-02-25
 
 ## Direcionamentos Divinos sobre Diversos Assuntos
 
@@ -2916,7 +2916,7 @@ Procedendo dessa maneira, Deus certamente cuidará para que tudo se resolva conf
 # Orientações sobre Diversas Questões
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年2月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年1月8日） | **Status:** Published
+**Título Original:** 御光話 （S24年1月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-02-08
 
 ## Orientações sobre Diversas Questões
 
@@ -3032,7 +3032,7 @@ Isso é inadmissível. É preferível que o Pergaminho de Komyo Nyorai não seja
 # Esclarecimentos sobre a Vida e a Fé
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S23年11月18日） | **Status:** Published
+**Título Original:** 御光話 （S23年11月18日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-08
 
 ## Esclarecimentos sobre a Vida e a Fé
 
@@ -3129,7 +3129,7 @@ As verrugas também podem ser removidas ou não, e da mesma forma, representam u
 # Esclarecimentos sobre Diversos Aspectos da Fé
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年8月8日） | **Status:** Published
+**Título Original:** 御垂示 （S26年8月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-15
 
 ## Esclarecimentos sobre Diversos Aspectos da Fé
 
@@ -3406,7 +3406,7 @@ Esses fatores influenciam diretamente a relação com a arte. Doravante, o Japã
 # Esclarecimentos sobre as Causas das Doenças
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月17日） | **Status:** Published
+**Título Original:** 御教え （S27年1月17日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## Esclarecimentos sobre as Causas das Doenças
 
@@ -3477,7 +3477,7 @@ Não há problema. Vocês consagraram o Komyō Nyorai, certo? Se sim, mesmo que 
 # Orientações Divinas de 1º de junho de 1953
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年6月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年6月1日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-06-15
 
 ## Orientações Divinas de 1º de junho de 1953
 
@@ -3640,7 +3640,7 @@ Dobre-a e guarde-a.
 # Consultas e Orientações
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年3月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 46号 | **Data ISO:** 1953-03-25
 
 ## Consultas e Orientações
 
@@ -3733,7 +3733,7 @@ Trata-se de uma ocorrência de natureza espiritual. Existe uma massa de toxinas 
 # Elucidações sobre a Causa das Doenças e a Ação do Johrei
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月28日） | **Status:** Published
+**Título Original:** 御教え （S26年10月28日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Elucidações sobre a Causa das Doenças e a Ação do Johrei
 
@@ -3810,7 +3810,7 @@ Com a ministração do Johrei, a quantidade de toxinas diminuirá gradualmente, 
 # O Fenômeno do Pescoço que se Alonga
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年12月3日 | **Fonte:** -
-**Título Original:** 夜中首がのびる | **Status:** Published
+**Título Original:** 夜中首がのびる | **Status:** Published | **Edição/Página:** 38号 | **Data ISO:** 1949-12-03
 
 ## O Fenômeno do Pescoço que se Alonga
 
@@ -3839,7 +3839,7 @@ Cumpre, pois, que se tente.
 # Esclarecimentos sobre Diversas Purificações
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月8日） | **Status:** Published
+**Título Original:** 御教え （S26年10月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Esclarecimentos sobre Diversas Purificações
 
@@ -3906,7 +3906,7 @@ Depende da cirurgia. A remoção do pus por trás do olho não causa grandes pro
 # Ensinamentos em Diálogo
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年3月13日） | **Status:** Published
+**Título Original:** 御光話 （S24年3月13日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949
 
 ## Ensinamentos em Diálogo
 

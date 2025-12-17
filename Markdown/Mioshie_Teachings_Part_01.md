@@ -3,7 +3,7 @@
 # A Justiça como Alicerce da Política
 
 **Categoria:** se | **Ano:** - | **Fonte:** 政治は正義
-**Título Original:** 政治は正義 | **Status:** Unpublished
+**Título Original:** 政治は正義 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## A Justiça como Alicerce da Política
 
@@ -24,7 +24,7 @@ A este respeito, afirmo, categoricamente, que o único meio de cultivar tal sens
 # A Barbárie da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 西洋医学の野蛮性 | **Status:** Published
+**Título Original:** 西洋医学の野蛮性 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Barbárie da Medicina Ocidental
 
@@ -57,7 +57,7 @@ Ao analisar este fato, a inferioridade e a índole bárbara dos diagnósticos m�
 # A Superstição Mundial da Medicina Moderna
 
 **Categoria:** se | **Ano:** 昭和27(1952)年6月4日 | **Fonte:** Eikou
-**Título Original:** 世界的迷信としての現代医学 | **Status:** Published
+**Título Original:** 世界的迷信としての現代医学 | **Status:** Published | **Edição/Página:** 159号 | **Data ISO:** 1952-06-04
 
 ## A Superstição Mundial da Medicina Moderna
 
@@ -80,7 +80,7 @@ Contudo, estamos a tratar de uma questão de suma importância, que diz respeito
 # A Verdadeira Causa das Enfermidades Mentais
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 精神病 | **Status:** Published
+**Título Original:** 精神病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Verdadeira Causa das Enfermidades Mentais
 
@@ -119,7 +119,7 @@ Aqueles que promovem toda sorte de "ismos" e se comportam de maneira excêntrica
 # Sobre a Fotografia Espiritual da Kannon de Mil Braços
 
 **Categoria:** se | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
-**Título Original:** 千手観音の霊写真に就て | **Status:** Published
+**Título Original:** 千手観音の霊写真に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-02-04
 
 ## Sobre a Fotografia Espiritual da Kannon de Mil Braços
 
@@ -144,7 +144,7 @@ Por fim, ao refletirmos sobre o nome do fotógrafo, Higashi Mitsuo — cujo nome
 # O Diagnóstico Absoluto da Saúde
 
 **Categoria:** se | **Ano:** 昭和25(1950)年4月15日 | **Fonte:** Kyusei
-**Título Original:** 絶対的健康診断 | **Status:** Published
+**Título Original:** 絶対的健康診断 | **Status:** Published | **Edição/Página:** 58号 | **Data ISO:** 1950-04-15
 
 ## O Diagnóstico Absoluto da Saúde
 
@@ -163,7 +163,7 @@ Não é algo verdadeiramente maravilhoso?
 # A Cura da Doença Mental
 
 **Categoria:** se | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 精神病も此通り治る 未発表 | **Status:** Unpublished
+**Título Original:** 精神病も此通り治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Cura da Doença Mental
 
@@ -184,7 +184,7 @@ Isso nos leva a crer que a jornada para concretizar meu ideal de um Japão isent
 # O Equívoco Médico sobre a Asma
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 喘息 ・病患と医学の誤謬五 | **Status:** Published
+**Título Original:** 喘息 ・病患と医学の誤謬五 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## O Equívoco Médico sobre a Asma
 
@@ -229,7 +229,7 @@ Existe também a asma infantil, que será abordada em detalhes no capítulo sobr
 # A Cura da Apendicite sem Cirurgia
 
 **Categoria:** se | **Ano:** 昭和11(1936)年 | **Fonte:** 西洋医学の大革命
-**Título Original:** 西洋医学の大革命 | **Status:** Unpublished
+**Título Original:** 西洋医学の大革命 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Cura da Apendicite sem Cirurgia
 
@@ -246,7 +246,7 @@ Diante da comparação com essa realidade, sob nossa ótica, é impossível não
 # Especialistas, que dizeis diante deste fato?
 
 **Categoria:** se | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
-**Título Original:** 専門家よこの事実を何と見るか | **Status:** Published
+**Título Original:** 専門家よこの事実を何と見るか | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
 
 ## Especialistas, que dizeis diante deste fato?
 
@@ -284,7 +284,7 @@ Meishu-Sama, muito, muito obrigada. Em breve, receberei os sagrados ensinamentos
 # A Cura das Enfermidades Mentais
 
 **Categoria:** se | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 精神病でも此通り治る 未発表 | **Status:** Unpublished
+**Título Original:** 精神病でも此通り治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Cura das Enfermidades Mentais
 
@@ -303,7 +303,7 @@ Os instigadores da guerra, assim como todos os criminosos, independentemente da 
 # A Razão do Advento desta Arte Médica
 
 **Categoria:** se | **Ano:** 昭和20(1945)年 | **Fonte:** 世界の予言書
-**Título Original:** 世界の予言書 | **Status:** Unpublished
+**Título Original:** 世界の予言書 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1945
 
 ## A Razão do Advento desta Arte Médica
 
@@ -320,7 +320,7 @@ Desde os tempos mais remotos, tudo se move segundo um propósito. Há uma causa 
 # A Tuberculose, Mais Terrível que a Guerra
 
 **Categoria:** se | **Ano:** 昭和28(1953)年10月7日 | **Fonte:** Eikou
-**Título Original:** 戦争よりも恐ろしい結核 | **Status:** Published
+**Título Original:** 戦争よりも恐ろしい結核 | **Status:** Published | **Edição/Página:** 229号 | **Data ISO:** 1953-10-07
 
 ## A Tuberculose, Mais Terrível que a Guerra
 
@@ -370,7 +370,7 @@ Muito obrigada, Meishu-Sama. Com estas palavras, encerro meu relato de agradecim
 # A Grande Transição do Mundo
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 世界の大転換 | **Status:** Published
+**Título Original:** 世界の大転換 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Grande Transição do Mundo
 
@@ -395,7 +395,7 @@ Nesse contexto, considero que o primeiro passo dessa alvorada foi o Incidente da
 # A Mente dos Promotores da Guerra
 
 **Categoria:** se | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Eikou
-**Título Original:** 戦争製造業者の頭脳 | **Status:** Published
+**Título Original:** 戦争製造業者の頭脳 | **Status:** Published | **Edição/Página:** 101号 | **Data ISO:** 1951-04-25
 
 ## A Mente dos Promotores da Guerra
 
@@ -416,7 +416,7 @@ Nesse sentido, as atividades de diversos grupos pacifistas e organizações reli
 # As Enfermidades Mentais e a Epilepsia
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 精神病及び癲癇 | **Status:** Published
+**Título Original:** 精神病及び癲癇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## As Enfermidades Mentais e a Epilepsia
 
@@ -429,7 +429,7 @@ Contudo, observa-se na atualidade a tentativa de alguns médicos de curar a epil
 # Louvor em Belas Palavras
 
 **Categoria:** se | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
-**Título Original:** 善言讃詞 | **Status:** Published
+**Título Original:** 善言讃詞 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
 
 ## Louvor em Belas Palavras
 
@@ -452,7 +452,7 @@ Envolvidos pelo Coração de Kannon
 # O Advento da Igreja Messiânica Mundial
 
 **Categoria:** se | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
-**Título Original:** 世界救世教の誕生に就て 開教の辞 | **Status:** Published
+**Título Original:** 世界救世教の誕生に就て 開教の辞 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
 
 ## O Advento da Igreja Messiânica Mundial
 
@@ -479,7 +479,7 @@ Ah, que tempos venturosos se iniciam
 # O Prazer de Praticar o Bem
 
 **Categoria:** se | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 善を楽しむ | **Status:** Published
+**Título Original:** 善を楽しむ | **Status:** Published | **Edição/Página:** P.13 | **Data ISO:** 1948-09-05
 
 ## O Prazer de Praticar o Bem
 
@@ -506,7 +506,7 @@ Esbocei, nas linhas acima, os dois caminhos que se apresentam ao homem: o do pra
 # O Grande Equívoco da Medicina Ocidental (I)
 
 **Categoria:** se | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
-**Título Original:** 西洋医学の大誤謬（一） | **Status:** Published
+**Título Original:** 西洋医学の大誤謬（一） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
 
 ## O Grande Equívoco da Medicina Ocidental (I)
 
@@ -561,7 +561,7 @@ Apesar do que exponho, tenho conhecimento de que, entre os profissionais da medi
 # A Verdadeira Natureza da Asma
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 喘息 | **Status:** Published
+**Título Original:** 喘息 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Verdadeira Natureza da Asma
 
@@ -580,7 +580,7 @@ Já a asma brônquica é causada pela aspiração de um escarro denso, provocada
 # A Causa da Doença Mental
 
 **Categoria:** se | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 精神病の原因 未発表 | **Status:** Unpublished
+**Título Original:** 精神病の原因 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Causa da Doença Mental
 
@@ -595,7 +595,7 @@ O fato de determinado paciente [detalhes omitidos] ter apresentado uma diarreia 
 # A Anemia Cerebral e a Possessão Espiritual
 
 **Categoria:** se | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 精神病 | **Status:** Published
+**Título Original:** 精神病 | **Status:** Published | **Edição/Página:** P.55 | **Data ISO:** 1953-01-01
 
 ## A Anemia Cerebral e a Possessão Espiritual
 
@@ -622,7 +622,7 @@ A crescente incidência de doenças mentais nos Estados Unidos em tempos recente
 # Zuiun-kyo, um Ponto de Referência Mundial
 
 **Categoria:** se | **Ano:** 昭和25(1950)年2月11日 | **Fonte:** Kyusei
-**Título Original:** 世界的名所としての瑞雲郷 | **Status:** Published
+**Título Original:** 世界的名所としての瑞雲郷 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1950-02-11
 
 ## Zuiun-kyo, um Ponto de Referência Mundial
 
@@ -649,7 +649,7 @@ Foi nesse lugar que, sucessivamente, adquiri mais de sessenta e seis mil metros 
 # A Barbárie da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 西洋医学の野蛮性 | **Status:** Published
+**Título Original:** 西洋医学の野蛮性 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Barbárie da Medicina Ocidental
 
@@ -684,7 +684,7 @@ Ao analisar este fato, a inferioridade e a barbárie dos diagnósticos médicos 
 # A Essência do Senso de Justiça
 
 **Categoria:** se | **Ano:** 昭和28(1953)年12月23日 | **Fonte:** Eikou
-**Título Original:** 正義感 | **Status:** Published
+**Título Original:** 正義感 | **Status:** Published | **Edição/Página:** 240号 | **Data ISO:** 1953-12-23
 
 ## A Essência do Senso de Justiça
 
@@ -717,7 +717,7 @@ No que tange à nossa Sekaikyuseikyou, como bem sabem os membros, nosso lema é 
 # A Verdadeira Natureza dos Ataques de Asma
 
 **Categoria:** se | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 喘息 | **Status:** Published
+**Título Original:** 喘息 | **Status:** Published | **Edição/Página:** P.117 | **Data ISO:** 1953-01-01
 
 ## A Verdadeira Natureza dos Ataques de Asma
 
@@ -732,7 +732,7 @@ Os ataques de asma são, em verdade, extremamente aflitivos, e o paciente sente-
 # A Ilusão do Contágio na Disenteria
 
 **Categoria:** se | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
-**Título Original:** 赤痢菌 医学断片集（18） | **Status:** Published
+**Título Original:** 赤痢菌 医学断片集（18） | **Status:** Published | **Edição/Página:** 168号 | **Data ISO:** 1952-08-06
 
 ## A Ilusão do Contágio na Disenteria
 
@@ -747,7 +747,7 @@ Passo, então, a revelar a verdade sobre esta questão. É fato que a bactéria 
 # A Batalha entre o Bem e o Mal
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 正邪の戦 | **Status:** Published
+**Título Original:** 正邪の戦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Batalha entre o Bem e o Mal
 
@@ -778,7 +778,7 @@ Estes três exemplos bastam para que se compreenda quão temível pode ser a int
 # A Essência da Cura e o Equívoco da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 五、西洋医学の誤謬と日本医学の建設 | **Status:** Unknown
+**Título Original:** 五、西洋医学の誤謬と日本医学の建設 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
 
 ## A Essência da Cura e o Equívoco da Medicina Ocidental
 
@@ -801,7 +801,7 @@ Eu, que pude compreender esta verdade por meio das revelações espirituais de K
 # A Superação da Ciência pelo Milagre
 
 **Categoria:** se | **Ano:** 昭和28(1953)年10月30日 | **Fonte:** 世界Kyusei教奇蹟集
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-10-30
 
 ## A Superação da Ciência pelo Milagre
 
@@ -826,7 +826,7 @@ Com base no exposto, compreende-se que os preparativos de Deus para a chegada do
 # O Plano Divino para a Salvação da Humanidade
 
 **Categoria:** se | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
-**Título Original:** 世界救世教教義 | **Status:** Published
+**Título Original:** 世界救世教教義 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1950-03-11
 
 ## O Plano Divino para a Salvação da Humanidade
 
@@ -839,7 +839,7 @@ Nos dias atuais, a conjuntura mundial revela-se caótica e de rumo incerto. Dian
 # As Raízes Espirituais dos Distúrbios Psíquicos
 
 **Categoria:** se | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 精神病 自観叢書第9篇 | **Status:** Published
+**Título Original:** 精神病 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.65 | **Data ISO:** 1949-12-30
 
 ## As Raízes Espirituais dos Distúrbios Psíquicos
 
@@ -860,7 +860,7 @@ Intrigado, perguntei: "Isso é impossível. Diga-me, quando ouviu essa ordem, vo
 # A Manifestação do Poder de Kannon e a Alvorada do Mundo de Luz
 
 **Categoria:** se | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
-**Título Original:** 全人類待望の炬光 大聖観音力の顕現 併而（あわせて）仏説の開扉 | **Status:** Published
+**Título Original:** 全人類待望の炬光 大聖観音力の顕現 併而（あわせて）仏説の開扉 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
 
 ## A Manifestação do Poder de Kannon e a Alvorada do Mundo de Luz
 
@@ -889,7 +889,7 @@ Se todas essas profecias não se concretizassem, que crédito poderíamos dar à
 # As Condições Fundamentais para o Aumento da Produção
 
 **Categoria:** se | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 生産増加の根本条件 | **Status:** Published
+**Título Original:** 生産増加の根本条件 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## As Condições Fundamentais para o Aumento da Produção
 
@@ -916,7 +916,7 @@ O grau em que essas diversas políticas médicas equivocadas obstruem o potencia
 # A Natureza Espiritual da Doença Mental e da Epilepsia
 
 **Categoria:** se | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 精神病及び癲癇 | **Status:** Published
+**Título Original:** 精神病及び癲癇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Natureza Espiritual da Doença Mental e da Epilepsia
 
@@ -931,7 +931,7 @@ Portanto, embora eu venha a detalhar esta questão no capítulo referente às do
 # A Batalha entre o Bem e o Mal
 
 **Categoria:** se | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
-**Título Original:** 善悪の戦い | **Status:** Published
+**Título Original:** 善悪の戦い | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1950-03-18
 
 ## A Batalha entre o Bem e o Mal
 
@@ -956,7 +956,7 @@ Todavia, o imenso Amor de Deus anseia por salvar o maior número possível de se
 # Uma Análise Histórica da Energia Vital
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 生気説 | **Status:** Published
+**Título Original:** 生気説 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## Uma Análise Histórica da Energia Vital
 
@@ -1031,7 +1031,7 @@ O espantoso progresso das ciências naturais no século XIX levou à construçã
 # Um Singular Caso de Perturbação Espiritual
 
 **Categoria:** se | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 精神変質症 自観叢書第3編 | **Status:** Published
+**Título Original:** 精神変質症 自観叢書第3編 | **Status:** Published | **Edição/Página:** P.49 | **Data ISO:** 1949-08-25
 
 ## Um Singular Caso de Perturbação Espiritual
 
@@ -1060,7 +1060,7 @@ Recentemente, este homem se recuperou por completo e veio à minha casa para exp
 # O Sucesso das Pessoas de Bem
 
 **Categoria:** se | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
-**Título Original:** 善人の成功者 | **Status:** Published
+**Título Original:** 善人の成功者 | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1950-03-18
 
 ## O Sucesso das Pessoas de Bem
 
@@ -1083,7 +1083,7 @@ O que expus até aqui revela a verdadeira razão pela qual nossa Igreja é alvo 
 # A Condição Fundamental para o Aumento da Produção
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 生産増加の根本条件 | **Status:** Published
+**Título Original:** 生産増加の根本条件 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Condição Fundamental para o Aumento da Produção
 
@@ -1106,7 +1106,7 @@ Há ainda outra questão de suma importância. A medicina atribui ao esgotamento
 # O Conflito Mundial e o Batismo de Fogo
 
 **Categoria:** se | **Ano:** 昭和25(1950)年8月30日 | **Fonte:** Eikou
-**Título Original:** 世界はどうなる | **Status:** Published
+**Título Original:** 世界はどうなる | **Status:** Published | **Edição/Página:** 67号 | **Data ISO:** 1950-08-30
 
 ## O Conflito Mundial e o Batismo de Fogo
 
@@ -1125,7 +1125,7 @@ Dessa forma, todas as impurezas existentes sobre a Terra serão erradicadas. E o
 # A Verdadeira Causa das Doenças Mentais
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 精神病 ・病気と霊二 | **Status:** Published
+**Título Original:** 精神病 ・病気と霊二 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Verdadeira Causa das Doenças Mentais
 
@@ -1162,7 +1162,7 @@ Diante do exposto, é preciso compreender que todos os erros, atos de injustiça
 # A Tuberculose, Mais Terrível que a Guerra
 
 **Categoria:** se | **Ano:** 昭和28(1953)年10月7日 | **Fonte:** Eikou
-**Título Original:** 戦争よりも恐ろしい結核 | **Status:** Published
+**Título Original:** 戦争よりも恐ろしい結核 | **Status:** Published | **Edição/Página:** 229号 | **Data ISO:** 1953-10-07
 
 ## A Tuberculose, Mais Terrível que a Guerra
 
@@ -1210,7 +1210,7 @@ Meishu-Sama, muito obrigada. Encerro aqui este relato de gratidão.
 # Desfrutar da Vida
 
 **Categoria:** se | **Ano:** 昭和24(1949)年9月17日 | **Fonte:** -
-**Título Original:** 生活を娯しむ | **Status:** Published
+**Título Original:** 生活を娯しむ | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1949-09-17
 
 ## Desfrutar da Vida
 
@@ -1227,7 +1227,7 @@ Todavia, meus caros, esse sonho está prestes a se concretizar. Refiro-me ao adv
 # Que Todos se Tornem Terapeutas
 
 **Categoria:** se | **Ano:** 昭和25(1950)年5月27日 | **Fonte:** Kyusei
-**Título Original:** 全部療病者たれ | **Status:** Published
+**Título Original:** 全部療病者たれ | **Status:** Published | **Edição/Página:** 64号 | **Data ISO:** 1950-05-27
 
 ## Que Todos se Tornem Terapeutas
 
@@ -1286,7 +1286,7 @@ Agradecemos profunda e reiteradamente por este grandioso milagre. Perdoem-me, po
 # A Verdade sobre a Vida e a Morte
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 生と死 | **Status:** Published
+**Título Original:** 生と死 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Verdade sobre a Vida e a Morte
 
@@ -1337,7 +1337,7 @@ Finalmente, ao estudarmos a História, é comum sentirmos simpatia ou um estranh
 # Sobre os Heróis do Bem e os Heróis do Mal
 
 **Categoria:** se | **Ano:** 昭和27(1952)年6月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 善の英雄と悪の英雄 | **Status:** Published
+**Título Original:** 善の英雄と悪の英雄 | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1952-06-25
 
 ## Sobre os Heróis do Bem e os Heróis do Mal
 
@@ -1356,7 +1356,7 @@ No que me diz respeito, creio poder afirmar que sou alguém que não pende para 
 # A Epidemia de Disenteria sob a Ótica Divina
 
 **Categoria:** se | **Ano:** 昭和27(1952)年6月25日 | **Fonte:** Eikou
-**Título Original:** 赤痢流行に就て | **Status:** Published
+**Título Original:** 赤痢流行に就て | **Status:** Published | **Edição/Página:** 162号 | **Data ISO:** 1952-06-25
 
 ## A Epidemia de Disenteria sob a Ótica Divina
 
@@ -1383,7 +1383,7 @@ Portanto, aqueles que prezam por suas vidas devem ingressar em nossa fé o quant
 # Sobre a Moralização Eleitoral e a Prevenção da Criminalidade
 
 **Categoria:** se | **Ano:** 昭和11(1936)年1月27日 | **Fonte:** 選挙粛正と犯罪防止に就て
-**Título Original:** 選挙粛正と犯罪防止に就て | **Status:** Unpublished
+**Título Original:** 選挙粛正と犯罪防止に就て | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-01-27
 
 ## Sobre a Moralização Eleitoral e a Prevenção da Criminalidade
 
@@ -1410,7 +1410,7 @@ Sendo assim, o que se espera é que as autoridades investiguem e examinem todas 
 # A Verdadeira Causa da Asma
 
 **Categoria:** se | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 喘息 未発表 | **Status:** Unpublished
+**Título Original:** 喘息 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Verdadeira Causa da Asma
 
@@ -1429,7 +1429,7 @@ Ao ponderar sobre essa realidade, sinto uma profunda compaixão tanto pelos doen
 # Sobre a Cura da Neurastenia Sexual
 
 **Categoria:** se | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 生殖神経衰弱の全治 未発表 | **Status:** Unpublished
+**Título Original:** 生殖神経衰弱の全治 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## Sobre a Cura da Neurastenia Sexual
 
@@ -1450,7 +1450,7 @@ Nesse sentido, a alegria por ele expressa, conforme relatado, testemunha que a a
 # A Verdadeira Causa da Hipertrofia das Amígdalas e a Grandeza da Terapia pelo Poder de Kannon
 
 **Categoria:** se | **Ano:** 昭和11(1936)年4月11日 | **Fonte:** 観音のHikari
-**Título Original:** 西洋医学の大革正と観音力療病の大偉勲 | **Status:** Published
+**Título Original:** 西洋医学の大革正と観音力療病の大偉勲 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1936-04-11
 
 ## A Verdadeira Causa da Hipertrofia das Amígdalas e a Grandeza da Terapia pelo Poder de Kannon
 
@@ -1479,7 +1479,7 @@ Nesse sentido, nosso método de cura pelo Poder de Kannon (観音) representa a 
 # A Apatia Europeia e o Espectro da Guerra
 
 **Categoria:** se | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 世界夢物語（二） | **Status:** Published
+**Título Original:** 世界夢物語（二） | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1953-02-25
 
 ## A Apatia Europeia e o Espectro da Guerra
 
@@ -1510,7 +1510,7 @@ Será o prelúdio da Terceira Guerra Mundial, uma trágica contenda entre titãs
 # Sobre o Bem e o Mal
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 善と悪 | **Status:** Published
+**Título Original:** 善と悪 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Sobre o Bem e o Mal
 
@@ -1531,7 +1531,7 @@ Há, ainda, outra situação a ser considerada. Existem indivíduos que, movidos
 # O Alicerce da Melhoria de Vida
 
 **Categoria:** se | **Ano:** 昭和11(1936)年5月3日 | **Fonte:** Kenko
-**Título Original:** 生活改善と医療 | **Status:** Unpublished
+**Título Original:** 生活改善と医療 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-03
 
 ## O Alicerce da Melhoria de Vida
 
@@ -1548,7 +1548,7 @@ Em suma, afirmo com toda a convicção que a verdadeira melhoria de vida é uma 
 # A Consumação da Grande Pintura Mundial
 
 **Categoria:** se | **Ano:** 昭和25(1950)年10月25日 | **Fonte:** Eikou
-**Título Original:** 世界画の完成 | **Status:** Published
+**Título Original:** 世界画の完成 | **Status:** Published | **Edição/Página:** 75号 | **Data ISO:** 1950-10-25
 
 ## A Consumação da Grande Pintura Mundial
 
@@ -1567,7 +1567,7 @@ O que foi exposto até aqui refere-se ao âmbito religioso. Contudo, em unísson
 # Sobre a Vida e a Morte
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 生と死 | **Status:** Published
+**Título Original:** 生と死 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## Sobre a Vida e a Morte
 
@@ -1606,7 +1606,7 @@ Finalmente, ao folhearmos os livros de história, por vezes sentimos uma inexpli
 # Custo de Campanha: Dez Mil Ienes
 
 **Categoria:** se | **Ano:** 昭和24(1949)年3月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 選挙費用金一万円也 | **Status:** Published
+**Título Original:** 選挙費用金一万円也 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-03-01
 
 ## Custo de Campanha: Dez Mil Ienes
 
@@ -1642,7 +1642,7 @@ Em suma, é a isso que se refere o título deste artigo: "Custo de Campanha: Dez
 # A Falácia Fundamental nos Ensinamentos da Seicho-no-Ie
 
 **Categoria:** se | **Ano:** 昭和10(1935)年 | **Fonte:** 此文を以て谷口氏に質す
-**Título Original:** 「生長の家」の主張には根本的誤謬あり | **Status:** Unpublished
+**Título Original:** 「生長の家」の主張には根本的誤謬あり | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1935
 
 ## A Falácia Fundamental nos Ensinamentos da Seicho-no-Ie
 
@@ -1669,7 +1669,7 @@ Em última análise, se a Seicho-no-Ie hoje alcançou tamanha notoriedade, isso 
 # A Supremacia do Bem sobre o Mal
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 善主悪従 | **Status:** Published
+**Título Original:** 善主悪従 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Supremacia do Bem sobre o Mal
 
@@ -1692,7 +1692,7 @@ Em suma, para dizê-lo em uma só palavra, todo o mal, o sigilo e o egoísmo est
 # O Bem e o Mal
 
 **Categoria:** se | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 善と悪 | **Status:** Published
+**Título Original:** 善と悪 | **Status:** Published | **Edição/Página:** P.90 | **Data ISO:** 1948-09-05
 
 ## O Bem e o Mal
 
@@ -1723,7 +1723,7 @@ Até hoje, com o intuito de prevenir o crime, a sociedade tem se esforçado para
 # A Gênese do Bem e do Mal e o Cristianismo
 
 **Categoria:** se | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 善悪発生とキリスト教 未発表 | **Status:** Unpublished
+**Título Original:** 善悪発生とキリスト教 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Gênese do Bem e do Mal e o Cristianismo
 
@@ -1762,7 +1762,7 @@ O mundo onde a depuração entre pessoas boas e más for concluída, e onde a gr
 # Sobre a Asma
 
 **Categoria:** se | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 喘息 | **Status:** Published
+**Título Original:** 喘息 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Sobre a Asma
 
@@ -1799,7 +1799,7 @@ Existe também a asma infantil, que, no entanto, abordarei em detalhes no capít
 # Homens de Bem, Fortalecei-vos
 
 **Categoria:** se | **Ano:** 昭和24(1949)年10月15日 | **Fonte:** -
-**Título Original:** 善人よ強くなれ 社会悪排除法 | **Status:** Published
+**Título Original:** 善人よ強くなれ 社会悪排除法 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1949-10-15
 
 ## Homens de Bem, Fortalecei-vos
 
@@ -1822,7 +1822,7 @@ Assumindo a validade dessa tese, torna-se evidente que, por mais que um indivíd
 # O Amor Verdadeiro e o Amor Desvirtuado
 
 **Categoria:** se | **Ano:** 昭和25(1950)年10月18日 | **Fonte:** Eikou
-**Título Original:** 正愛と邪愛 | **Status:** Published
+**Título Original:** 正愛と邪愛 | **Status:** Published | **Edição/Página:** 74号 | **Data ISO:** 1950-10-18
 
 ## O Amor Verdadeiro e o Amor Desvirtuado
 
@@ -1851,7 +1851,7 @@ O único princípio verdadeiro é, pois, o universalismo. Até mesmo uma religi�
 # A Condição Fundamental para o Aumento da Produção
 
 **Categoria:** se | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策
-**Título Original:** 生産増加の根本条件 | **Status:** Published
+**Título Original:** 生産増加の根本条件 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Condição Fundamental para o Aumento da Produção
 
@@ -1878,7 +1878,7 @@ Ademais, como já elucidei, embora a tuberculose não seja contagiosa, ela é tr
 # A Medicina Espiritual e a Abordagem Psicológica
 
 **Categoria:** se | **Ano:** - | **Fonte:** 精神医学と神霊医学
-**Título Original:** 精神医学と神霊医学 | **Status:** Unpublished
+**Título Original:** 精神医学と神霊医学 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## A Medicina Espiritual e a Abordagem Psicológica
 
@@ -1897,7 +1897,7 @@ Diante desta realidade, gostaria de inquirir: como os intelectuais interpretarã
 # A Comédia da Aliança Partidária
 
 **Categoria:** se | **Ano:** 昭和10(1935)年2月5日 | **Fonte:** Toho no Hikari
-**Título Original:** 政民連繋 阿呆文学 | **Status:** Published
+**Título Original:** 政民連繋 阿呆文学 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-02-05
 
 ## A Comédia da Aliança Partidária
 
@@ -1916,7 +1916,7 @@ Todavia, por outro lado, talvez haja um benefício em tal conduta. Ao agirem des
 # As Aflições de um Pioneiro
 
 **Categoria:** se | **Ano:** 昭和28(1953)年4月1日 | **Fonte:** Eikou
-**Título Original:** 先駆者の悩み | **Status:** Published
+**Título Original:** 先駆者の悩み | **Status:** Published | **Edição/Página:** 202号 | **Data ISO:** 1953-04-01
 
 ## As Aflições de um Pioneiro
 
@@ -1943,7 +1943,7 @@ Acima de tudo, minha tese é a Verdade, e sua aplicação traria benefícios ime
 # A Condição Fundamental para o Aumento da Produção
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 生産増加の根本条件 | **Status:** Published
+**Título Original:** 生産増加の根本条件 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Condição Fundamental para o Aumento da Produção
 
@@ -1974,7 +1974,7 @@ O prejuízo que tais diretrizes médicas, em suas diversas formas, causam à cap
 # A Atuação do Espírito Guardião Primordial
 
 **Categoria:** se | **Ano:** 昭和28(1953)年7月22日 | **Fonte:** Eikou
-**Título Original:** 正守護神の活動 | **Status:** Published
+**Título Original:** 正守護神の活動 | **Status:** Published | **Edição/Página:** 218号 | **Data ISO:** 1953-07-22
 
 ## A Atuação do Espírito Guardião Primordial
 
@@ -2009,7 +2009,7 @@ Meishu-Sama, muito obrigado.
 # Proposta e Declaração para a Sociedade da Harmonia Mundial (Versão Preliminar)
 
 **Categoria:** se | **Ano:** 昭和22(1947)年5月 | **Fonte:** 未定稿、昭和
-**Título Original:** 世界共和会主旨及宣言 | **Status:** Unknown
+**Título Original:** 世界共和会主旨及宣言 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1947-05
 
 ## Proposta e Declaração para a Sociedade da Harmonia Mundial (Versão Preliminar)
 
@@ -2050,7 +2050,7 @@ Dessa forma, uma vez que se confirmou a descoberta de que é possível soluciona
 # Pessoas de Bem, Tornai-vos Fortes
 
 **Categoria:** se | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** 善人よ強くなれ (再録) 自観叢書12編 | **Status:** Published
+**Título Original:** 善人よ強くなれ (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1950-01-30
 
 ## Pessoas de Bem, Tornai-vos Fortes
 
@@ -2077,7 +2077,7 @@ Admitindo a validade desta teoria, alguém poderia objetar que, individualmente,
 # O Crime da Boa Vontade
 
 **Categoria:** se | **Ano:** 昭和27(1952)年12月17日 | **Fonte:** Eikou
-**Título Original:** 善意の罪悪 | **Status:** Published
+**Título Original:** 善意の罪悪 | **Status:** Published | **Edição/Página:** 187号 | **Data ISO:** 1952-12-17
 
 ## O Crime da Boa Vontade
 
@@ -2102,7 +2102,7 @@ Em vista do exposto, a medicina moderna se afigura como o grande enigma do nosso
 # O Terrível Poder da Inveja
 
 **Categoria:** se | **Ano:** 昭和25(1950)年5月13日 | **Fonte:** Kyusei
-**Título Original:** 羨望は恐ろしい | **Status:** Published
+**Título Original:** 羨望は恐ろしい | **Status:** Published | **Edição/Página:** 62号 | **Data ISO:** 1950-05-13
 
 ## O Terrível Poder da Inveja
 
@@ -2115,7 +2115,7 @@ Este é um problema que transcende o âmbito puramente religioso. Com efeito, a 
 # A Falibilidade dos Diagnósticos da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和11(1936)年4月11日 | **Fonte:** 観音のHikari
-**Título Original:** 西洋医学に由る健康診断の疑問 | **Status:** Published
+**Título Original:** 西洋医学に由る健康診断の疑問 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1936-04-11
 
 ## A Falibilidade dos Diagnósticos da Medicina Ocidental
 
@@ -2138,7 +2138,7 @@ Frequentemente, deparamo-nos com notícias em jornais sobre a indignação de fa
 # O Princípio da Purificação na Disenteria
 
 **Categoria:** se | **Ano:** 昭和27(1952)年4月2日 | **Fonte:** Eikou
-**Título Original:** 赤痢 医学断片集（５） | **Status:** Published
+**Título Original:** 赤痢 医学断片集（５） | **Status:** Published | **Edição/Página:** 150号 | **Data ISO:** 1952-04-02
 
 ## O Princípio da Purificação na Disenteria
 
@@ -2155,7 +2155,7 @@ Todavia, por desconhecerem esse princípio fundamental, as pessoas recorrem a an
 # A Natureza Espiritual da Doença Mental e da Epilepsia
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 精神病及び癲癇 ・病患と医学の誤謬十八 | **Status:** Published
+**Título Original:** 精神病及び癲癇 ・病患と医学の誤謬十八 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Natureza Espiritual da Doença Mental e da Epilepsia
 
@@ -2168,7 +2168,7 @@ Aprofundarei este tema no capítulo dedicado às enfermidades de origem espiritu
 # A Verdadeira Causa das Enfermidades Psíquicas
 
 **Categoria:** se | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 精神病など何でもない 未発表 | **Status:** Unpublished
+**Título Original:** 精神病など何でもない 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Verdadeira Causa das Enfermidades Psíquicas
 
@@ -2185,7 +2185,7 @@ Consta que a incidência dessa enfermidade tem aumentado vertiginosamente, tanto
 # Uma aldeia inteiramente messiânica
 
 **Categoria:** se | **Ano:** 昭和26(1951)年11月21日 | **Fonte:** Eikou
-**Título Original:** 全村メシヤ教信者 | **Status:** Published
+**Título Original:** 全村メシヤ教信者 | **Status:** Published | **Edição/Página:** 131号 | **Data ISO:** 1951-11-21
 
 ## Uma aldeia inteiramente messiânica
 
@@ -2227,7 +2227,7 @@ Rogo por Vossa contínua proteção e ofereço este relato como minha mais since
 # Um Conto Onírico sobre o Mundo
 
 **Categoria:** se | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** Eikou
-**Título Original:** 世界夢物語 | **Status:** Published
+**Título Original:** 世界夢物語 | **Status:** Published | **Edição/Página:** 189号 | **Data ISO:** 1953-01-01
 
 ## Um Conto Onírico sobre o Mundo
 
@@ -2264,7 +2264,7 @@ Há, no entanto, algo que já posso afirmar. No fim, o mundo será arrastado par
 # A Batalha entre o Bem e o Mal
 
 **Categoria:** se | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 正邪の戦 | **Status:** Published
+**Título Original:** 正邪の戦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Batalha entre o Bem e o Mal
 
@@ -2281,7 +2281,7 @@ Passemos a um terceiro caso, o de uma senhora de elevada posição social, que e
 # O Centro da Unificação Mundial
 
 **Categoria:** se | **Ano:** 昭和10(1935)年7月25日 | **Fonte:** Hikari明世界
-**Título Original:** 世界統一の中心 | **Status:** Published
+**Título Original:** 世界統一の中心 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1935-07-25
 
 ## O Centro da Unificação Mundial
 
@@ -2300,7 +2300,7 @@ Em suma, o eixo horizontal do mundo estava ajustado, mas o eixo vertical encontr
 # O Paradoxo da Civilização Moderna
 
 **Categoria:** se | **Ano:** 昭和27(1952)年5月7日 | **Fonte:** Eikou
-**Título Original:** 世界的丁髷時代 | **Status:** Published
+**Título Original:** 世界的丁髷時代 | **Status:** Published | **Edição/Página:** 155号 | **Data ISO:** 1952-05-07
 
 ## O Paradoxo da Civilização Moderna
 
@@ -2327,7 +2327,7 @@ A raiz de todos esses males reside em uma verdadeira intoxicação pela cultura 
 # Um Mundo em Preparativos para a Guerra
 
 **Categoria:** se | **Ano:** 昭和11(1936)年2月4日 | **Fonte:** 戦争準備の世界
-**Título Original:** 戦争準備の世界 | **Status:** Unpublished
+**Título Original:** 戦争準備の世界 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-02-04
 
 ## Um Mundo em Preparativos para a Guerra
 
@@ -2352,7 +2352,7 @@ Ao considerarmos tal realidade e observarmos nossa sociedade, notamos uma frouxi
 # A Barbárie da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和11(1936)年5月10日 | **Fonte:** 西洋医学の野蛮性
-**Título Original:** 西洋医学の野蛮性 | **Status:** Unpublished
+**Título Original:** 西洋医学の野蛮性 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-10
 
 ## A Barbárie da Medicina Ocidental
 
@@ -2377,7 +2377,7 @@ Ao analisarmos a questão com justeza, percebemos que os resultados obtidos pela
 # A Profecia do Pêssego de Três Mil Anos
 
 **Categoria:** se | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
-**Título Original:** 聖王母 | **Status:** Published
+**Título Original:** 聖王母 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
 
 ## A Profecia do Pêssego de Três Mil Anos
 
@@ -2421,7 +2421,7 @@ Desde a antiguidade, os Cinco Festivais Sazonais, os contos de fadas, o teatro N
 # A Imprensa e a Exortação ao Bem
 
 **Categoria:** se | **Ano:** 昭和25(1950)年2月18日 | **Fonte:** Kyusei
-**Título Original:** 善を鼓吹する新聞 | **Status:** Published
+**Título Original:** 善を鼓吹する新聞 | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1950-02-18
 
 ## A Imprensa e a Exortação ao Bem
 
@@ -2440,7 +2440,7 @@ Em vista de tudo o que foi exposto, é provável que, na atualidade, não se enc
 # Zengen Sanshi
 
 **Categoria:** se | **Ano:** - | **Fonte:** 天津祝詞・善言讃詞
-**Título Original:** 善言讃詞 ・ 救世（メシヤ）教版 折本 | **Status:** Published
+**Título Original:** 善言讃詞 ・ 救世（メシヤ）教版 折本 | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
 
 ## Zengen Sanshi
 
@@ -2483,7 +2483,7 @@ Duas palmas, uma vênia e uma reverência
 # A Natureza Bárbara da Medicina Ocidental
 
 **Categoria:** se | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 西洋医学の野蛮性 | **Status:** Published
+**Título Original:** 西洋医学の野蛮性 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Natureza Bárbara da Medicina Ocidental
 
@@ -2516,7 +2516,7 @@ Ao ponderarmos sobre este episódio, torna-se inegável a inferioridade e a natu
 # A Asma e os Equívocos da Medicina
 
 **Categoria:** se | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 喘息 ・病患と医学の誤謬五 | **Status:** Published
+**Título Original:** 喘息 ・病患と医学の誤謬五 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Asma e os Equívocos da Medicina
 
@@ -2559,7 +2559,7 @@ Existe também a asma infantil, mas tratarei dela em detalhes no capítulo dedic
 # A Vocação Mundial da Religião é a Cura das Doenças
 
 **Categoria:** se | **Ano:** 昭和11(1936)年6月18日 | **Fonte:** Kenko
-**Título Original:** 世界的宗教は治病宗教なり | **Status:** Unpublished
+**Título Original:** 世界的宗教は治病宗教なり | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-06-18
 
 ## A Vocação Mundial da Religião é a Cura das Doenças
 
@@ -2596,7 +2596,7 @@ Diante do exposto, a lógica nos leva a uma conclusão irrefutável: para que um
 # Sobre o Fortalecimento Bélico
 
 **Categoria:** se | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 戦力増強に就て | **Status:** Published
+**Título Original:** 戦力増強に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## Sobre o Fortalecimento Bélico
 
@@ -2629,7 +2629,7 @@ E é para a consecução de tal objetivo que desejo proclamar: esta arte médica
 # A Missão do Movimento de Kannon: Edificar um Mundo sem Doença, Pobreza e Conflito
 
 **Categoria:** se | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 世界統一 | **Status:** Published
+**Título Original:** 世界統一 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Missão do Movimento de Kannon: Edificar um Mundo sem Doença, Pobreza e Conflito
 
@@ -2662,7 +2662,7 @@ Por se tratar de uma empreitada sem precedentes na história — a unificação 
 # A Origem Espiritual da Doença Mental e da Epilepsia
 
 **Categoria:** se | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 精神病及び癲癇 ・病患と医学の誤謬一八 | **Status:** Published
+**Título Original:** 精神病及び癲癇 ・病患と医学の誤謬一八 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Origem Espiritual da Doença Mental e da Epilepsia
 
@@ -2671,29 +2671,6 @@ A doença mental e a epilepsia, embora guardem notável semelhança e apresentem
 O ponto crucial, todavia, é que a manifestação de ambas decorre de uma gênese puramente espiritual. Por conseguinte, quaisquer terapias de cunho físico ou materialista, por mais que se apliquem, revelam-se de todo ineficazes.
 
 Conforme detalharei no capítulo dedicado às enfermidades espirituais, ao se compreender que sua causa é de natureza exclusivamente espiritual, perceber-se-á quão vãs e infrutíferas têm sido as investigações materialistas a esse respeito.
-
----
-
-# A Luta entre a Retidão e a Iniquidade
-
-**Categoria:** se | **Ano:** 昭和28(1953)年7月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 正邪の戦い | **Status:** Published
-
-## A Luta entre a Retidão e a Iniquidade
-
-É fato de conhecimento geral que, ao longo da história, sempre que uma pessoa com alguma particularidade incomum, impelida por uma firme determinação e pelo anseio de salvar o mundo, funda uma nova escola ou seita religiosa, estabelece seus dogmas e passa a auxiliar um número considerável de pessoas, no exato momento em que começa a obter reconhecimento social e a se consolidar, é quase inevitável o surgimento de perseguições. Os exemplos magnos desse padrão, conhecidos por todos, são Devadatta para Buda e Satanás para Cristo. Ademais, quanto maior a força e o potencial futuro de uma religião, mais severas se tornam as hostilidades e a opressão.
-
-Nesse sentido, os detratores primeiramente mobilizam as autoridades da época e, com o intuito de instigar o ódio na população, urdem sofismas e calúnias, empenhando-se em disseminá-los. Procuram instilar a ideia de que tal religião é uma superstição perniciosa, cujo propósito é iludir as pessoas e, em última instância, levar as famílias à ruína, devendo, portanto, ser evitada a todo custo. Naturalmente, essa condenação é feita de modo dogmático e sem qualquer investigação. São os espíritos malignos que, ao obsediarem indivíduos de prestígio social ou que controlam os principais órgãos de imprensa, os fazem pensar dessa forma. Tais pessoas, contudo, não têm a menor consciência disso, acreditando piamente que se trata de suas próprias convicções. Ao mesmo tempo, os espíritos malignos também obsidiam o público em geral e, como ambos passam a vibrar em uníssono, a situação torna-se insustentável. Este é o mecanismo de atuação dos espíritos malignos.
-
-Por essa razão, as novas religiões que hoje demonstram um vigor capaz de suplantar as já estabelecidas e que contribuem grandemente para o bem da sociedade, tornam-se alvo dos espíritos malignos e sofrem suas mais obstinadas investidas. Nossa Igreja, por ser o principal objetivo desses ataques, avança enquanto repele tais interferências, o que torna nossa jornada uma empreitada de extrema dificuldade. A seguir, explanarei a causa fundamental desse fenômeno.
-
-No Mundo Espiritual, desde os primórdios, coexistem dois reinos antagônicos: o Mundo do Mal, ou Mundo dos Espíritos Malignos, e o Mundo do Bem, o Mundo dos Espíritos Justos. Ambos travam uma batalha incessante. O soberano do Mundo dos Espíritos Malignos reina com poder formidável, comandando livremente seus bilhões de subordinados, e vem, passo a passo, obtendo êxito em seu assombroso e magno projeto de subjugar o mundo inteiro sob seu domínio. Sendo assim, o maior obstáculo a esse desígnio são os religiosos que pregam o bem e almejam a justiça. Por conseguinte, sempre que um grande vulto religioso surge, eles empregam todos os meios possíveis para oprimi-lo e aniquilá-lo. O motivo pelo qual inúmeras religiões, mesmo tendo florescido por um tempo, acabaram esvaziadas de seu poder é porque foram derrotadas. A razão para tal, como sempre afirmo, é que até hoje vivíamos no Mundo da Noite, regido pelo Deus da Lua, cuja luz era fraca. Consequentemente, embora não chegassem a ser extintas, restava-lhes apenas a forma exterior.
-
-Esse fenômeno manifesta-se também nas religiões comparativamente mais novas de nosso país, a começar pelas provações sofridas pelos fundadores das novas religiões surgidas no período que abrange o final do Xogunato e a Era Meiji. Os casos principais são os da Tenrikyo, da Oomoto, da Tokumitsukyo e da Hito no Michi. A senhora Miki Nakayama, fundadora da Tenrikyo, por exemplo, sofreu o martírio de ser encarcerada mais de dez vezes. O fundador da Oomoto, Onisaburo Deguchi, passou sete anos na prisão e, mal teve a alegria efêmera de ser libertado, tornou-se um hóspede do além, o que ocorreu, sem dúvida, em decorrência do esgotamento causado pela longa vida no cárcere e pelos interrogatórios implacáveis. Conta-se também que o fundador da Tokumitsukyo, um certo senhor Kaneda, era constantemente vigiado por policiais e praticamente não teve liberdade até o momento de sua morte. O sucessor e fundador da Hito no Michi, Tokuharu Miki, também veio a falecer pouco depois de sair de um aprisionamento de vários anos, e diz-se que isso foi resultado das severas torturas que sofreu.
-
-Adentrando a Era Showa, creio ser eu a principal vítima de tais perseguições. Gostaria de discorrer um pouco sobre isso. Conforme mencionei, como o Mundo Espiritual esteve imerso na Era da Noite por um longo período, os exércitos de espíritos malignos puderam perturbar o mundo a seu bel-prazer, entregando-se aos sonhos de uma noite sem fim. Foi então que, subitamente, surgiu a nossa Sekaikyuseikyou. Sendo ela a Religião do Dia, regida pelo Deus do Sol – algo jamais visto –, é natural que até mesmo eles, em sua arrogância, tenham se visto atônitos e desorientados. Diante disso, empregaram todos os recursos possíveis para tentar aniquilar nossa Igreja. A manifestação de seus esforços foram as diversas provações pelas quais passamos, como o caso de sonegação fiscal em 1948, a espetacular busca e apreensão realizada por dez soldados americanos do CID e, posteriormente, o incidente de violação econômica em Shizuoka. Naquela época, a opressão foi tão avassaladora que por um momento parecíamos incapacitados de nos reerguer. O fato de termos superado tais provações e chegado aos dias de hoje deve-se unicamente à supremacia do poder dos Espíritos Justos. Mesmo nesse ínterim, somos consideravelmente afligidos pelos ataques obstinados dos exércitos do mal, como a constante incompreensão por parte da imprensa e, mais recentemente, as calúnias transmitidas por radialistas.
-
-Dessa forma, no Mundo Espiritual, prossegue uma contenda de mil faces, repleta de artifícios e dissimulações, na qual o bem e o mal se digladiam tendo nossa Igreja como epicentro. Isso ocorre porque, para eles, nossa Igreja representa um inimigo de proporções inéditas. Portanto, caso nossa Igreja viesse a ser derrotada, o mundo inevitavelmente se tornaria um domínio demoníaco. Por essa razão, Deus, em Sua providência, preparou o caminho com esmero, e um dos instrumentos dessa preparação é a democracia. Graças a ela, as inúmeras provações que sofremos não afetaram o panorama geral, e o fato de continuarmos a trilhar uma senda de contínuo desenvolvimento é motivo de imensa alegria. Tudo isso se deve, em absoluto, à intensa Luz do Deus do Sol. De agora em diante, à medida que o Sol se elevar, os exércitos de espíritos malignos serão forçados a uma retirada gradual, e assim se dará a concretização de um Mundo de Bem.
 
 ---
 

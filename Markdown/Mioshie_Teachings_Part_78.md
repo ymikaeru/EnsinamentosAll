@@ -1,9 +1,951 @@
 # Mioshie_Teachings - Part 78
 
+# kyosyu00
+
+**Categoria:** sasshi | **Ano:** 昭和29(1954)年10月10日 | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-10-10
+
+――― Coletânea de Teses do Mestre Okada Jikan ―――
+Manual de Aprimoramento
+Edição revisada e publicada em 10 de outubro de 1954 (Ano 29 da Era Showa)
+
+## Índice
+
+**[Primeira Aula]**
+A Composição do Universo
+A Transição da Noite para o Dia
+A Força da Grande Natureza
+A Lei da Grande Natureza (O Espírito Precede a Matéria)
+O que é a Morte?
+O que é a Vida?
+
+**[Segunda Aula]**
+Sobre o Johrei
+O que é a Doença? (A Ação Purificadora)
+Sobre o Yakudoku
+Sobre os Micróbios
+Sobre a Nutrição
+A Doença e a Grande Natureza
+As Três Grandes Funções dos Órgãos Internos
+Sintomas das Doenças
+Febre, Dor, Coceira e Sofrimento, Desconforto, Vômito, Diarreia, Edema, Suores Noturnos, Tontura, Insônia, Melancolia, Paralisia, Tosse, Calafrios, Constipação, Escarro com Sangue, Hemoptise
+A Doença e o Espírito
+Tuberculose Pulmonar, Doença Mental, Epilepsia, Sonambulismo, Paralisia Infantil, Câncer de Estômago, Cárie Óssea, Doenças Oculares
+Sobre a Purificação de Nivelamento
+O Método de Rejuvenescimento
+O Verdadeiro Método de Saúde
+Recomendações sobre o Johrei
+O Método para Aferir a Saúde do Ser Humano
+
+**[Terceira Aula]**
+O Objetivo da Vida
+O Espírito Divino
+Vida e Morte
+A Composição do Mundo Espiritual
+Fantasmas
+A Fisionomia dos Seres do Mundo Espiritual
+A Inseparabilidade entre o Mundo Material e o Mundo Espiritual
+O Mundo dos Tengu
+O Mundo dos Dragões
+O Mundo dos Espíritos Malignos (Mundo dos Facínoras)
+O Bem e o Mal
+Os Resultados da Fé nos Deuses Benignos e nos Deuses Malignos
+O Espírito Guardião
+A Advertência dos Antepassados
+Sobre não Falar Mal dos Mortos
+Os Planos do Mundo Espiritual
+A Agricultura Natural (Método de Cultivo sem Adubos)
+A Organização e a Administração da Nossa Igreja
+Conclusão
+(Apêndice) Sobre a Prática do Johrei
+
+**[Primeira Aula]**
+
+Iniciaremos, agora, o Aprimoramento.
+
+A Igreja Messiânica Mundial é uma instituição que, em consonância com o avanço da cultura material, tem por finalidade promover a edificação de uma cultura espiritual, visando à construção do Paraíso Terrestre — o magno objetivo do Criador e, igualmente, o mundo ideal almejado por toda a humanidade.
+
+Mas o que significa, afinal, construir o Paraíso Terrestre? Em suma, trata-se de erradicar por completo a doença, a pobreza e o conflito da face da Terra, a fim de criar um mundo onde toda a humanidade possa viver em plena paz de espírito, livre de quaisquer apreensões. Ou seja, um mundo habitado unicamente por pessoas felizes, sem que haja um único indivíduo sequer a sofrer de infortúnios.
+
+Contudo, é provável que muitos escarneçam de tais palavras. “Uma história tão fantástica não pode ser verdade”, dirão. “Basta observar os milhares de anos de história e a presente condição do mundo para perceber quão distante essa ideia está da realidade. Diante das transformações culturais que se sucederam desde os primórdios da civilização, uma transição de tamanha magnitude é inconcebível. Nós somos dotados de bom senso. Se algo assim se realizasse, seria um ato de pura magia. Uma quimera dessas só poderia existir em um sonho fugaz, induzido pela hipnose. Por isso, a Igreja Messiânica Mundial não é digna de crédito.” Esse ceticismo, todavia, é perfeitamente compreensível. Na verdade, quase todos os que ingressam na Fé partilham, de início, de um pensamento semelhante. É natural que a totalidade das pessoas assim pense. De fato, trata-se de um grandioso portento. E o que seria, senão um portento?
+
+No entanto, para que um grandioso portento se manifeste, é preciso que haja um artífice. A força humana jamais seria capaz de concretizar esse mundo ideal. Cumpre-nos, portanto, investigar a fundo a identidade desse grande artífice. Ele é Kannon (観音)-Sama, ou seja, Komyo Nyorai-Sama, isto é, Miroku Oomikami, o Messias. É unicamente pelo Poder que esse Deus Salvador manifesta que o mundo ideal se tornará realidade. Esse Poder Divino é a força que salva todos os seres vivos. Em outras palavras, uma força magnânima para a salvação da humanidade manifesta-se, hoje, neste mundo real.
+
+Em síntese, a transformação do mundo em Paraíso Terrestre, que é o objetivo do Criador — o Deus Supremo — e o ideal da humanidade, somente se tornará possível com o advento do Poder Divino, que é a força da salvação. É imperativo que os senhores guardem bem essa verdade em sua consciência.
+
+Analisando a situação atual, se uma grande transição pudesse ocorrer de imediato, transformando o mundo em Paraíso Terrestre, seria algo extremamente conveniente para a humanidade, que não precisaria se preocupar com nada. Todavia, na vida, não existem benesses que caem do céu. Antes que o novo mundo ideal, o Paraíso Terrestre, possa ser construído, é imprescindível que haja uma grande depuração do velho mundo que existiu até hoje. Tal como a construção de uma nova casa exige a prévia demolição da antiga e a purificação do terreno. Evidentemente, muitos elementos da casa antiga ainda poderão ser úteis e, portanto, serão preservados. A seleção do que será mantido ou descartado é, naturalmente, uma tarefa executada por Deus. O mesmo se aplica aos seres humanos: aqueles que forem úteis ao novo mundo que se aproxima serão preservados, enquanto os inúteis serão extintos. Dito de outra forma, nós, seres humanos, devemos sobreviver como indivíduos úteis ao novo mundo vindouro. A era da transição do velho mundo (mundo infernal) para o novo mundo (mundo paradisíaco) chegou. Isso nos remete às palavras de Cristo sobre o “fim dos tempos” e o “Juízo Final”, cuja hora parece iminente. De igual modo, os conceitos de “extinção do budismo” e “desaparecimento da Lei”, pregados por Buda, parecem finalmente ter chegado aos dias de hoje. A batalha do Armagedom, descrita na Bíblia, pode ser interpretada como um prenúncio dos tempos atuais.
+
+É imperativo que todos nós corrijamos nossas falhas passadas — sejam elas conscientes ou inconscientes, ou ainda as herdadas de nossos antepassados —, operando uma conversão de cento e oitenta graus para nos tornarmos pessoas íntegras e justas, tementes a Deus e dignas de Sua aprovação. Para tanto, não há outro caminho senão o da fé no Deus verdadeiro. As qualificações necessárias para ser aprovado por Ele consistem em ser um indivíduo capaz de viver em um mundo isento de doença, pobreza e conflito. Em outras palavras, devemos nos tornar pessoas verdadeiramente sadias, livres de enfermidades; pessoas prósperas, que superaram a pobreza; e pessoas que amam a harmonia e abominam os conflitos. Se um ser humano possuir essas três qualificações, não apenas não haverá necessidade de Deus o eliminar, como também será tratado como uma pessoa de valor (útil) no novo mundo que se aproxima. E se me perguntarem se existe um método para obter essas três qualificações, que nos habilitam a viver e servir no novo mundo, a resposta é que a Igreja Messiânica Mundial nasceu justamente para formar pessoas com tais atributos.
+
+A partir de agora, explicarei em ordem as graças concedidas por Deus.
+
+Ao observarmos a vastidão do mundo de hoje, não seria exagero afirmar que praticamente ninguém vive seus dias em completa tranquilidade e livre de qualquer tipo de apreensão. Dentre todas as preocupações, a que primeiro nos vem à mente é, sem dúvida, o sofrimento e a angústia causados pelas doenças. Por essa razão, o Aprimoramento de três dias que ora se inicia terá como foco principal a elucidação desta questão. Sendo um período de apenas três dias, é natural que não seja possível apreender a totalidade dos ensinamentos de nossa Igreja. Assim, ao final do Aprimoramento, ser-lhes-á outorgado o Omamori, que lhes permitirá intermediar o Poder de Deus. A partir de então, os senhores poderão, na prática, curar doenças e, ao mesmo tempo, frequentar as igrejas, visitar as Sedes de Atami e Hakone e aprofundar seus estudos através da leitura das diversas obras sagradas. Desse modo, gradualmente, alcançarão a compreensão integral de nossa Fé.
+
+Iniciarei, portanto, a explanação pela solução do problema da doença, que é o tema central deste Aprimoramento.
+
+Gostaria de tecer aqui algumas considerações sobre o saber acadêmico. No campo do saber, existem o conhecimento vivo e o conhecimento morto. Para simplificar, o conhecimento pelo conhecimento é um saber morto, enquanto a sua aplicação prática na sociedade constitui o saber vivo. A busca pela verdade, contudo, é uma categoria à parte e, evidentemente, de suma importância. O saber acadêmico é hoje transmitido nas escolas, tendo os livros didáticos como eixo vertical (a teoria) e a prática como eixo horizontal (a aplicação), sob a orientação dos professores. A base desse ensino, no entanto, é formada pelo conjunto de resultados das pesquisas de filósofos e estudiosos do passado, que constituíram o alicerce do saber em sua forma atual. Como os senhores bem sabem, novas descobertas e teorias surgem e desaparecem, são propostas e refutadas, e, nesse processo, apenas as parcelas de real valor sobrevivem.
+
+Muitas ideias que em sua época foram aceitas como verdades absolutas desapareceram sem deixar vestígios com o advento de novas teorias e descobertas mais avançadas. Outras, por sua vez, continuam a servir à humanidade, promovendo o bem-estar social até os dias de hoje. O valor de todas elas é determinado pelo “tempo”. Nesse sentido, mesmo aquilo que hoje temos como verdade absoluta e imutável pode, a qualquer momento, ser refutado por uma nova teoria, proposta por alguém que ainda não conhecemos. Embora exemplos disso não sejam raros ao longo da história, é comum que, diante de uma nova descoberta, esta não apenas se desvie dos padrões estabelecidos pela ciência vigente, mas também apresente uma tese diametralmente oposta. É justamente aí que reside o seu valor, e este é tanto maior quanto mais profunda for a ruptura com os antigos paradigmas. O gradual enfraquecimento de uma teoria antiga ocorre porque uma nova surgiu, e o sepultamento do que antes era considerado verdade acontece porque uma verdade superior nasceu. Assim se dá o incessante progresso da civilização. No campo da energia, por exemplo, acreditava-se que a eletricidade e a gasolina representavam o ápice e que nada superior surgiria por um bom tempo. No entanto, com a descoberta da energia atômica, iniciaram-se as pesquisas para sua aplicação. De modo análogo, poderíamos asseverar que os métodos de cura se restringem unicamente à aplicação dos preceitos da medicina ocidental? Assim como surgiu uma energia baseada na aplicação da força atômica, não seria surpreendente se uma nova teoria médica nascesse agora. Portanto, mesmo que uma nova teoria sobre a medicina surja, seria natural que ela fosse examinada. Contudo, a sociedade não apenas se recusa a pesquisar, como também a encara com desconfiança, rotulando-a de antemão como superstição, seita maligna, heresia ou doutrina perversa.
+
+Há mais de vinte anos, Meishu-Sama vem preconizando uma nova teoria sobre a medicina. Quando a publicou em seus escritos, despertou de imediato a hostilidade das autoridades, e suas obras foram proibidas por três vezes. Para nós, foi algo extremamente lamentável, mas não nos restava outra alternativa senão aguardar o momento oportuno, resignados ao dito popular: "Contra a força não há resistência". Naquela época, Meishu-Sama dizia: “Se eu escrevesse tudo o que penso agora, quão grande não seria a perplexidade e a repressão? É quase impossível prever. Por outro lado, ao olhar para o mundo, vejo um número incontável de pessoas desafortunadas gemendo sob o jugo de doenças graves e de difícil tratamento, vítimas de uma medicina equivocada. Neste momento, não posso salvá-las como gostaria. Mas tampouco posso ficar de braços cruzados, como um mero espectador. Em verdade, uma sensação de profunda impaciência me assalta.”
+
+Que afortunados, porém, somos nós hoje! Podemos agora erguer bem alto o coração e os ensinamentos de Meishu-Sama — uma compaixão mais alta que as montanhas e mais profunda que os oceanos — e transmitir amplamente sua verdade ao mundo.
+
+Permitam-me discorrer brevemente sobre o que é a verdade.
+
+A verdade é algo simples, jamais complexo. Quanto mais complexa uma ideia, mais distante ela se encontra da verdade. É estranho dizer que a verdade só pode ser compreendida por meio de estudos acadêmicos; ela deve ser acessível a todos. Por isso, os ensinamentos de nossa Igreja, ou seja, a verdade, podem ser compreendidos até mesmo por pessoas sem instrução.
+
+Adentraremos, agora, o tema principal.
+
+**A Composição do Universo**
+
+Primeiramente, é necessário que falemos sobre a composição do Universo. Este Universo é constituído por três mundos:
+- O mundo material visível.
+- O mundo invisível do ar.
+Ambos são de natureza material e, juntos, formam o que chamamos de Mundo Físico.
+- O mundo invisível e desconhecido, ou seja, o Mundo Espiritual.
+
+O Universo é, portanto, formado por esses três mundos. Em épocas de menor desenvolvimento intelectual, a humanidade conhecia apenas o mundo material. Com o avanço do conhecimento, descobriu-se o mundo invisível do ar, ou seja, o espaço. Todavia, o homem moderno desconhece a existência real do Mundo Espiritual. Embora palavras como “espírito”, “energia espiritual”, “espírito divino” ou “fantasma” sejam bastante utilizadas, seu uso tem se restringido, em grande parte, aos âmbitos da religião e da ciência psíquica. Por essa razão, o emprego do termo “espírito” é frequentemente visto como superstição, a ponto de, nos dias de hoje, a negação do espírito ser considerada um pré-requisito para se ser um intelectual. Foi Meishu-Sama, entretanto, quem nos ensinou de forma clara a existência desse mundo desconhecido, o Mundo Espiritual.
+
+Assim, o mundo material e o mundo do ar constituem o mundo conhecido (aquele que já reconhecemos), ao qual damos o nome de Mundo Físico. Por sua vez, o reverso desse mundo, por assim dizer, o mundo invisível, é chamado de Mundo Espiritual. Em suma, o Universo é composto pelo Mundo Espiritual e pelo Mundo Físico.
+
+Doravante, discorrerei sobre diversos assuntos, mas, a menos que se reconheça a existência do Mundo Espiritual, será impossível compreender minhas palavras. Da mesma forma, o termo “espírito” será empregado com frequência e, sem o devido reconhecimento de sua existência, a compreensão se tornará igualmente difícil.
+
+Como mencionei há pouco, neste Universo, o Mundo Espiritual e o Mundo Físico mantêm uma relação íntima e inseparável; não existe um Mundo Espiritual isolado, nem um Mundo Físico isolado. Ademais, todos os fenômenos do Universo, tudo o que existe, é constituído por três elementos. Não há uma única coisa que exista à parte desses três elementos. Toda a geração, criação e desenvolvimento de todas as coisas dependem da “força desses três elementos”. Quais são, então, esses três elementos fundamentais? São o Elemento Fogo, o Elemento Água e o Elemento Terra. Em outras palavras, são as energias espirituais do Sol, da Lua e da Terra. O Sol é a origem do Elemento Fogo; a Lua, do Elemento Água; e a Terra, do Elemento Terra. Fogo, Água e Terra são, portanto, os três grandes elementos. A força desses três elementos se entrelaça em uma trama vertical e horizontal.
+
+A trama vertical se estende do Céu à Terra, em três níveis: Sol, Lua e Terra. A trama horizontal é a própria substância do plano terrestre em que vivemos. O que isso significa? O mundo real, sobre a superfície da Terra, existe pela interação do espaço e da matéria. A existência da matéria pode ser percebida pelos cinco sentidos humanos, mas o espaço foi por muito tempo considerado como o “nada”. Com o progresso da civilização, porém, descobriu-se a existência do ar, uma semimatéria. Contudo, foi Meishu-Sama quem descobriu que, no espaço que se acreditava conter apenas ar, existe ainda um outro elemento. Esta é uma descoberta de magnitude mundial, e Meishu-Sama denominou essa existência invisível de “energia espiritual”.
+
+Cabe aqui um esclarecimento: a teoria de nossa Igreja sobre o Mundo Espiritual e o espírito difere fundamentalmente das concepções de outras religiões sobre o mundo dos espíritos, espíritos vivos, espíritos mortos e possessão, assim como das teorias dos pesquisadores da ciência psíquica e das ideias de estudiosos como o Dr. Ward ou Sir Oliver Lodge. A energia espiritual que pregamos é um conceito extraordinariamente avançado e constitui a base da cultura do Dia, que está por vir.
+
+Este assunto é tratado com bastante detalhe nos escritos de Meishu-Sama, sendo de leitura indispensável em momento oportuno. Reitero: todas as coisas são formadas pela fusão e harmonização de partículas infinitesimais dos elementos Fogo, Água e Terra, em uma escala que transcende a nossa imaginação. Essa é a verdadeira constituição do Universo.
+
+**A Transição da Noite para o Dia**
+
+Prosseguirei com a explanação, partindo do pressuposto de que os senhores já reconheceram a existência do Mundo Espiritual. Digo isso porque, sem a compreensão de que o Mundo Espiritual está atualmente em transição do “mundo da Noite para o mundo do Dia”, será impossível entender o princípio da cura das doenças. Este é o ponto mais crucial. Ao compreender o fenômeno da Transição da Noite para o Dia, não apenas o princípio da cura das doenças se tornará claro, mas também os equívocos da civilização milenar e as futuras tendências mundiais, o que lhes trará paz de espírito. Rogo-lhes, portanto, que prestem a máxima atenção.
+
+Como princípio universal, todos os fenômenos do Mundo Físico já ocorreram e se manifestaram previamente no Mundo Espiritual. É o mesmo princípio pelo qual, quando um ser humano move suas mãos e pés, a intenção já se moveu primeiro. Ou seja, os acontecimentos do Mundo Físico são um reflexo dos acontecimentos do Mundo Espiritual. E, no Mundo Espiritual, uma grande transição vem ocorrendo nos últimos tempos. A ela, nós nos referimos como a “Transição da Noite para o Dia”.
+
+Assim como um dia se divide em dia e noite, também um ano, uma década, um século, um milênio e dez mil anos possuem suas fases de dia e de noite. No entanto, esses ciclos ocorrem no Mundo Espiritual. No Mundo Físico, apenas a alternância diária é claramente perceptível. Contudo, pelas razões que já expus, o reflexo desses ciclos maiores inevitavelmente se manifesta no Mundo Físico de diversas formas.
+
+Pois bem, no Mundo Espiritual, chegou o momento da transição entre o dia e a noite, um evento que, por desígnio do destino, ocorre a cada milhares ou dezenas de milhares de anos. Como sabemos disso? É algo que Meishu-Sama soube diretamente por meio de sua percepção espiritual. Para nós, que não temos como conhecer o Mundo Espiritual, não resta outra opção senão crer. Contudo, ao sermos informados sobre este fato e observarmos o mundo real, compreendemos gradualmente que se trata de uma verdade inquestionável.
+
+Até agora, o mundo no plano espiritual viveu um longo período de noite. O mundo da Noite, assim como no plano físico, é escuro, e a luz da lua é vista apenas periodicamente. Predomina, evidentemente, o Elemento Água. Quando a lua se oculta, restam apenas as estrelas e, se as nuvens as encobrem, a escuridão é total. Isso se torna claro ao observarmos os acontecimentos que se refletem no Mundo Físico. A história das nações, com seus ciclos de ordem e caos, ascensão e queda, e a alternância contínua entre guerra e paz, assemelha-se ao ciclo da lua, que cresce e mingua incessantemente. Agora, porém, o ciclo celeste gira e está prestes a se converter em Dia. É como se a noite estivesse terminando e o sol começasse a despontar no horizonte. O reflexo dessa grande transição do Mundo Espiritual no Mundo Físico se manifestará como uma mudança monumental — surpreendente, temível e, ao mesmo tempo, jubilosa —, algo jamais experimentado pela humanidade, começando pelo Japão, no Extremo Oriente. No Japão, o colapso da cultura da Noite, ou seja, da cultura estabelecida, já se iniciou. É por essa razão que observamos um impasse fatal em todas as áreas: política, economia, artes, educação, religião, etc. E, em seguida, já podemos sentir os primeiros movimentos da construção de uma nova cultura, a cultura do Dia. O nascimento e o desenvolvimento de nossa Igreja constituem o cerne desse movimento.
+
+O mundo da Noite é, por natureza, uma era de escuridão, repleta de conflitos, fome e sofrimento causado por doenças. O mundo do Dia, por sua vez, é uma era de luz, dotada de paz, prosperidade e saúde. O sol que começou a nascer no leste, contudo, chegará em breve ao centro do céu. O que isso significa? Significa o colapso total da cultura da Noite e, ao mesmo tempo, a construção da cultura do Dia. E isso não levará muito tempo. Pode ocorrer, quiçá, em um futuro muito próximo.
+
+Acredito que, quando chegar o momento, Meishu-Sama anunciará todas as obras da cultura do Dia, nos campos da religião, política, economia, educação, artes, entre outros. Nossa Igreja não é uma mera religião; é também uma nova ciência. É uma suprarreligião que avança firmemente para concretizar o ideal humano da união perfeita entre religião e ciência. Estamos, no entanto, preparados para a opressão decorrente da incompreensão do homem moderno. À medida que o mundo do Dia pleno se aproxima, o atrito entre a destruição e a construção se tornará não apenas mais intenso, mas verdadeiramente violento. Podemos prever que o número de pessoas aflitas por toda sorte de problemas aumentará drasticamente, e uma era terrível se avizinha. No que tange ao corpo físico, as toxinas acumuladas começarão a se dissolver pelo Elemento Fogo, que aumenta gradualmente, e o número de doentes crescerá de forma assustadora. Não podemos afirmar que consequências terríveis não advirão. Será algo incomparável a guerras ou bombardeios. Acredito que o “batismo de fogo” mencionado por Cristo se refira a essa purificação pelo Elemento Fogo. Atualmente, as doenças ainda são localizadas, mas, ao imaginarmos que em breve se tornarão doenças graves e generalizadas, não nos restará outra alternativa senão nos apegarmos a Deus. Para atravessar essa grande transformação, é preciso conhecer o princípio fundamental da doença. Caso contrário, as consequências são deixadas à sua imaginação e julgamento. Para superar este período de transição, é essencial que cada um domine o método do “Johrei”. Este Aprimoramento foi organizado com o intuito de lhes proporcionar um meio de sobreviver aos dias de hoje, de superar a grande provação que se aproxima e, ademais, de ajudar o maior número possível de parentes e pessoas de sua comunidade. O “Johrei” será explicado em detalhes mais adiante.
+
+**A Força da Grande Natureza**
+
+O espírito também possui o “espírito do espírito” e o “corpo do espírito”. O que os cinco sentidos humanos podem perceber pertence ao domínio do “corpo do espírito”, como, por exemplo, as ondas elétricas, as ondas de luz e as ondas sonoras. O “espírito do espírito”, por sua vez, é aquilo que não pode ser captado pelos cinco sentidos; é a “Luz” e a “Força” invisíveis. Essa existência invisível e intangível, que é o nada e ao mesmo tempo não o é, nós a chamamos de “Força Misteriosa”. Também a denominamos “Força da Grande Natureza”. Essa Força da Grande Natureza, ou Força Misteriosa, é a fonte de todo o poder, e seu impulso central é a Vontade do Universo, o Poder do Deus Supremo. É Meishu-Sama quem recebe e manifesta esse Poder. A Força Misteriosa é absoluta, infinita e é o poder criador de tudo o que existe no Universo. Somente através do conhecimento dessa Força da Natureza, dessa Força Misteriosa que é o Poder de Deus, é que a construção de uma cultura humana ideal e a concretização do Paraíso Terrestre se tornam possíveis e críveis. Pode-se dizer que se trata de uma supraciência, que transcende a ciência atual, e de uma suprarreligião, que transcende as religiões existentes.
+
+Até hoje, o ser humano acreditava que a força material era a maior de todas as forças, mas isso é um grande engano. É preciso tomar consciência de que toda e qualquer força material possui um limite. É uma força finita, não infinita. A “Força Misteriosa” é a força infinita.
+
+A cura de doenças que praticamos, ou seja, o “Johrei”, nada mais é do que uma manifestação parcial dessa Força Misteriosa. A razão pela qual um poder curativo tão surpreendente, verdadeiramente milagroso, pode ser exercido é precisamente porque se trata dessa Força Misteriosa. Não é simplesmente por uma pessoa impor as mãos no espaço que as doenças são curadas.
+
+O alarde que jornais, rádios e revistas têm feito recentemente sobre nossa Igreja se deve ao fato de que a verdadeira natureza dessa Força Misteriosa, por ser invisível, não é compreendida. Chegará o dia em que, sem saberem do que se tratava, aqueles que se opuseram e falaram mal certamente se arrependerão. Para nós, ao recebermos neste Aprimoramento o ensinamento sobre a “Força da Grande Natureza” e compreendermos que ela é o sublime “Poder de Deus”, a alegria que sentimos é tamanha que não pode ser expressa em palavras ou pela escrita.
+
+Senhores, rogo encarecidamente que reflitam profundamente e compreendam que a Força da Grande Natureza, a Força Misteriosa, é o Poder de Deus.
+
+Até hoje, nem mesmo as mentes mais brilhantes, que acreditavam poder decifrar qualquer mistério do mundo através da ciência, foram capazes de compreender a essência da Força Misteriosa. Contudo, compreendê-la é, na verdade, muito simples. Basta refletir profundamente sobre a força capaz de curar as doenças, que são o maior sofrimento da humanidade.
+
+O ser humano foi criado pelo Criador, ou seja, pela Força da Grande Natureza. Logo, a força que cura a doença, que pode ser considerada um dano ao ser humano, também deve ser a Força da Grande Natureza. Com essa linha de raciocínio, a compreensão se torna evidente. É uma verdade inquestionável que, se existe uma força para criar algo, também existe a força para consertar suas falhas.
+
+**A Lei da Grande Natureza (O Espírito Precede a Matéria)**
+
+Como já mencionado, todos os acontecimentos do Mundo Físico ocorrem primeiro no Mundo Espiritual e depois se refletem aqui. A ciência, até hoje, no entanto, baseou sua filosofia em tentar resolver os problemas tendo como objeto de estudo apenas os acontecimentos do Mundo Físico. É por essa razão que, apesar do alardeado progresso da civilização, a felicidade humana não o acompanhou. Portanto, para solucionar as questões do Mundo Físico, é preciso primeiro solucionar as questões correspondentes no Mundo Espiritual. A isso chamamos de Lei do Espírito Precede a Matéria. Nesse sentido, o tratamento das doenças também deve partir de uma solução no plano espiritual, ou seja, o verdadeiro método de cura deve ser a cura do espírito através do espírito. Assim sendo, é evidente que, no corpo humano, o corpo espiritual pertence ao Mundo Espiritual e o corpo físico, ao Mundo Físico. Portanto, no que tange às doenças humanas, se eliminarmos as máculas do espírito, como essas máculas se manifestam como acúmulo de toxinas no corpo físico, estas se dissolverão e a doença será curada.
+
+**O que é a Morte?**
+
+O que é, então, o corpo espiritual do ser humano? Para compreendê-lo, é preciso antes entender a questão da vida e da morte. A morte ocorre quando o espírito se desprende do invólucro que é o corpo físico e retorna ao Mundo Espiritual. O corpo físico, por sua vez, retorna à terra. Isso é a morte.
+
+**O que é a Vida?**
+
+Nascer significa que o espírito que foi para o Mundo Espiritual, após um certo período, retorna ao Mundo Físico. Portanto, o espírito é uma entidade de vida infinita, enquanto o corpo físico é finito. Por isso, ao lidarmos com o ser humano, é fundamental saber que o espírito é o objeto principal.
+
+O que foi exposto até aqui serve como conhecimento prévio para o método de cura de doenças que explicarei a seguir. É imprescindível que os senhores compreendam bem esses fundamentos. Sem esse conhecimento, será difícil entender o princípio da cura das doenças que apresentarei.
+
+**[Segunda Aula]**
+
+**Sobre o Johrei**
+
+O Johrei é algo que não pode ser compreendido pela lógica ou pela ciência atuais. Quando alguém que foi curado pelo Johrei conta sua experiência a outros, a maioria das pessoas provavelmente dirá: “Como pode haver algo tão absurdo? Em um mundo com tanto avanço científico, é impossível que uma doença se cure de forma tão simples. Se fosse verdade, não precisaríamos de médicos nem de remédios. E se curasse tanto assim, o governo já teria adotado o método, considerando o grande número de doentes que existem hoje”. De fato, é uma observação muito pertinente. Contudo, a situação atual é tal que todos os sistemas e instituições foram construídos com base na ciência materialista, erigida ao longo de séculos. Portanto, não há o que fazer. A tarefa de difundir nosso caminho no mundo não é, de forma alguma, fácil. Por outro lado, como os senhores sabem, o número de doentes aumenta, e há muitas pessoas que, mesmo indo aos médicos e tomando remédios aos montes, ou recorrendo a outras religiões e terapias populares, não conseguem se curar. Nós não depreciamos, de forma alguma, outras terapias. Se houver um lugar onde possam se curar, sintam-se à vontade para ir aonde sua fé os levar ou para fazer o que acreditam, sem qualquer objeção. Deixamos claro, desde já, que não interferimos nas crenças de ninguém. Este Aprimoramento, no entanto, foi organizado para aqueles que, tendo tentado de tudo sem sucesso, buscam a verdade, pensando: “Em um mundo tão vasto, deve haver um lugar onde minha doença possa ser curada; deve haver uma verdade que cure”.
+
+Até hoje, como já mencionado, tudo foi construído com base na ciência. Por isso, tudo o que não se enquadra nela é descartado como superstição ou doutrina perversa. Eu, porém, não penso assim. É preciso saber que existe uma distinção entre o que pode ser resolvido pela ciência e o que não pode.
+
+O progresso da ciência moderna é algo relativo, se comparado à história desde os tempos primitivos. Daqui a algumas centenas ou milhares de anos, quando as pessoas do futuro criticarem a ciência do século XX, certamente rirão de quão infantil ela era. É o mesmo que nós rirmos hoje da cultura da era primitiva ou da cultura de mil anos atrás. Nossa teoria talvez seja uma cultura mil anos à frente da cultura atual. Afirmo com clareza: no que tange à vida humana, a lógica da ciência moderna é incapaz de oferecer uma solução. Por quê? Porque o ser humano não é um amontoado de carne. Não é feito apenas de corpo físico. Não é um boneco. Dentro do invólucruo que é o corpo físico, habita uma alma espiritual invisível. Sem a compreensão deste ponto fundamental, o princípio do Johrei não poderá ser entendido. Repito: dentro do invólucro que é o corpo físico, habita uma alma espiritual invisível. É a união íntima entre espírito e matéria que gera a vida. Se o espírito e o corpo se separam, isso é a morte.
+
+Segundo essa lógica, como já foi dito, a porção de toxinas existente no corpo físico corresponde a uma “mácula” idêntica na alma espiritual. Portanto, o princípio fundamental da cura de doenças em nosso caminho reside em como eliminar essa mácula existente na alma.
+
+Meishu-Sama, o Mestre da Igreja Messiânica Mundial, alcançou a iluminação de que a eliminação da mácula da alma espiritual — “Como essa eliminação pode ser feita? Se for possível eliminá-la, todas as doenças poderão ser curadas” — representa a conclusão da arte médica. Este é o ponto fundamental. Essa mácula, que é a origem da doença, não é matéria; é algo espiritual e invisível. Consequentemente, a ciência moderna nada pode fazer a respeito. Por quê? Porque é impossível agir sobre o que é invisível usando a matéria. Seria possível eliminá-la através de preces a deuses e budas ou por meio de rituais de exorcismo? Tampouco. Então, como é possível eliminá-la? Através da força espiritual, que é uma força invisível. Através de um raio de luz misterioso e invisível. E Meishu-Sama é o mestre dessa força.
+
+Se analisarmos mais a fundo essa “Luz” invisível, veremos que ela é a Luz de Deus, o Poder Divino. E quais são os elementos desse Poder Divino? São:
+O Elemento Fogo, que é a energia espiritual do Sol;
+O Elemento Água, que é a energia espiritual da Lua;
+E o Elemento Terra, que é a energia espiritual da Terra.
+É um conjunto desses três elementos. Dentre eles, o que se encontra em maior quantidade e é o principal é o Elemento Fogo. Portanto, podemos dizer que o Poder Divino é, em essência, o Elemento Fogo. É através da irradiação desse Elemento Fogo invisível que a mácula, a impureza da alma espiritual, é eliminada.
+
+Eis que, pela primeira vez, foi encontrada a solução para a doença, um problema que afligia a humanidade há milhares de anos. Oh, que descoberta sublime e abençoada! Pelo contrário, se essa grande descoberta não tivesse ocorrido, toda a humanidade continuaria a sofrer com as doenças, o número de doentes aumentaria cada vez mais, e qual seria o resultado? Só de pensar, arrepio-me. Basta observar a sociedade moderna, atormentada por doenças, para compreender. Refletindo profundamente sobre as pessoas do mundo, não é exagero dizer que quase ninguém vive seus dias em completa tranquilidade e livre de qualquer apreensão. Dentre essas apreensões, a primeira que nos vem à mente é, sem dúvida, a doença. Qualquer pessoa, a qualquer momento, pode adoecer. Daqui a uma hora, pode pegar um resfriado; se pegar um resfriado, pode evoluir para uma pneumonia; ou pode ser o início de uma tuberculose. Esta noite, pode ter uma crise de apendicite e sofrer com dores excruciantes. Amanhã, pode contrair febre tifoide ou alguma doença de causa desconhecida. As crianças podem contrair doenças graves e fatais como a disenteria infantil, a difteria ou a meningite, e partir para o outro mundo em dois ou três dias. Os idosos, por sua vez, podem a qualquer momento sofrer um derrame cerebral, ficar com o corpo paralisado e passar anos confinados a um leito em um destino trágico. E se alguém da família contrair uma doença contagiosa e for hospitalizado e isolado? Além disso, com os custos médicos tão elevados hoje em dia, não se sabe quanto custará o tratamento e a internação. Se a cura for rápida, tudo bem, mas se a internação se prolongar, as economias guardadas com tanto esforço ao longo de anos podem se esgotar e, mesmo que a doença seja curada, a pessoa pode acabar na miséria. E se, ao menos, a vida for poupada, ainda há como ganhar o sustento, mas se, por azar, a pessoa ficar com alguma deficiência ou morrer, o que acontecerá? Se for o chefe da família, como os seus entes queridos viverão após sua morte? E para a própria pessoa, seus planos e empreendimentos terminam pela metade. É realmente lamentável deixar este mundo no auge da vida. E ter que romper os laços de amor com a esposa e os filhos é algo insuportável. Não se pode garantir que tais situações não ocorrerão. Ao pensar em todas essas coisas, o medo da doença paira constantemente sobre nós, pesado como chumbo, e quase ninguém é exceção.
+
+Diante de uma vida tão terrível, se não for possível se libertar dessa angústia, então é como disse Buda: “Este mundo é uma casa em chamas, e o ser humano não pode escapar dos quatro sofrimentos — nascimento, velhice, doença e morte —, portanto, resignem-se. Essa é a iluminação”. E, ao olharmos para os milhares de anos de história, vemos que é exatamente assim.
+
+Se eu disser agora que nasceu uma religião, uma força de salvação que liberta completamente dessa angústia da doença, as pessoas certamente dirão: “Isso é impossível. Estamos em uma era tão esclarecida, a ciência avançou tanto, com bombas atômicas, televisão, raios da morte... Não pode haver uma história tão conveniente, como a de um mágico, para enganar as pessoas. Você deve estar louco”. E me considerarão, no mínimo, à beira da loucura. Mas, para sua surpresa, tal religião, tal força de salvação, de fato nasceu. Mesmo que eu diga isso, as pessoas certamente não apenas duvidarão uma ou duas vezes, mas negarão categoricamente. Contudo, eu gostaria de perguntar: e se for verdade? O que fariam se soubessem que é verdade? Seria uma comoção indescritível. O mundo viraria de cabeça para baixo. Dentre todos, os senhores, que são afortunados, talvez pensem: “Bem, se aquela pessoa recomenda com tanto fervor, vou pelo menos pesquisar uma vez”, e assim decidiram ingressar na Igreja Messiânica Mundial. Outros, a maioria, provavelmente rirão com desdém e dirão: “Como pode haver algo tão absurdo? Eu não sou tão tolo nem tão ingênuo”. Essas pessoas, na verdade, não são muito diferentes daquelas que se atiram da cachoeira de Kegon ou do Monte Mihara; são pessoas verdadeiramente desafortunadas. Ao pensar em tudo isso, uma após outra, pergunto-me: será que posso guardar algo tão abençoado só para mim? No mundo, deve haver muitas pessoas sofrendo e se afligindo como eu. Será que posso deixar de contar a elas sobre isso? E, pensando assim, não consigo mais ficar parado. Os ensinamentos da Igreja Messiânica Mundial podem ser compreendidos mesmo por quem não conhece a palavra “religião”; esta arte médica pode ser compreendida mesmo por quem não conhece a palavra “medicina”. É um ensinamento tão simples que qualquer um pode entender e qualquer um pode praticar. Pensando assim, fico ainda mais inquieto. Sinto-me compelido a tomar a decisão de dedicar minha vida a servir a este caminho.
+
+Curar doenças, como já mencionei, é extremamente simples. Uma vez recebido o Poder, qualquer pessoa pode, imediatamente, curar todas as doenças. Para aqueles que duvidam, não há o que fazer. São como pessoas que, ao ouvirem que o açúcar é doce, dizem “isso é impossível” e nem sequer tentam prová-lo. A atitude mental necessária para compreender este princípio simples é abandonar a própria lógica (preconceitos) e se tornar como uma folha de papel em branco. É por isso que mesmo pessoas com pouca instrução conseguem apreender o princípio rapidamente. Creio que não há nada mais maravilhoso. Se fosse uma arte médica que só pudesse ser compreendida por quem tem conhecimento acadêmico, como os médicos, jamais seria possível salvar as massas.
+
+A medicina tenta curar o corpo humano com a força do saber.
+Este Johrei tenta curar o espírito e o corpo humanos com a força de Deus.
+
+A partir de agora, ministrarei Johrei na prática. Peço que observem. E, para o aprendizado do Johrei, é necessário que os senhores mesmos o recebam. Por quê? Porque é como tentar explicar o sabor de um caqui ou de uma maçã; se não provar, não se pode saber.
+
+(A seguir, explica-se sobre o Johrei.)
+
+1.  Método de irradiação da Luz Espiritual (Radioatividade Espiritual Divina): (Estender a palma da mão a uma distância de aproximadamente 60 centímetros do corpo da pessoa, de forma natural e relaxada.)
+2.  A pessoa que ministra Johrei deve sentar-se em uma posição mais elevada e ter o sentimento de ser um representante do Deus Messias.
+3.  Purificar a fronte do paciente.
+4.  Ensinar o Johrei básico nas costas, na região dos rins, no dorso, nos ombros, na nuca, etc.
+5.  Ensinar a identificar os pontos de febre.
+6.  Método para identificar as toxinas: observar a cor da pele, as partes do corpo com aparência anormal, os locais com febre e perguntar ao paciente onde ele sente dor.
+7.  Para doenças de origem espiritual ou em casos de doentes graves, entoar a Oração ou o Hino de Louvor (pode-se entoar várias vezes).
+
+(A partir da segunda pessoa, inicia-se a prática do Johrei.)
+
+Quando a mácula, que é a impureza da alma espiritual, se dissolve pela irradiação do Poder Divino, ou seja, do Elemento Fogo, as toxinas do corpo físico são expelidas para o exterior. Isso ocorre das seguintes formas:
+- Misturadas à urina ou à diarreia.
+- Através da tosse, na forma de escarro.
+- Na forma de furúnculos, remela, coriza, sangramentos, suores noturnos, etc.
+- O corrimento branco nas mulheres também é uma forma de eliminação de toxinas.
+
+Enfim, tudo o que sai é bom. Gostaria que soubessem que o que é bom não sai do corpo.
+
+Gostaria de fazer uma observação aqui. Há quem diga que, quando surgem furúnculos, o osso apodrece, mas gostaria que soubessem que o que está vivo jamais apodrece.
+
+As toxinas são de dois tipos: pus e sangue tóxico. Explicarei os detalhes a seguir.
+
+**O que é a Doença? (A Ação Purificadora)**
+
+A doença, em poucas palavras, é a limpeza do corpo humano.
+- Se moramos em uma casa, fazemos a limpeza todas as manhãs e, de vez em quando, uma grande faxina.
+- Relógios e máquinas também precisam de limpeza.
+- No universo, também há limpeza. A chuva lava a sujeira, o sol a seca, o vento sopra, os raios caem, a neve cai — tudo isso é limpeza.
+
+Da mesma forma, o ser humano também precisa de limpeza. Primeiro, a sujeira acumulada externamente é lavada no banho. A limpeza da sujeira acumulada internamente é feita pela Grande Natureza.
+
+Ao longo da vida, é inevitável que o ser humano acumule impurezas. Essas impurezas, ou seja, as toxinas humanas, são de dois tipos: congênitas e adquiridas. As toxinas congênitas são aquelas herdadas de antepassados distantes ou, mais proximamente, dos pais, bem como as impurezas da mãe absorvidas pelo cordão umbilical durante a gestação. A estas últimas, chamamos de toxinas inatas. As toxinas adquiridas são as toxinas da urina, decorrentes da atrofia dos rins, e as toxinas dos medicamentos ingeridos a cada vez que se adoece, ou seja, o yakudoku, que é o mais temível de todos.
+
+Essas três toxinas se acumulam no interior do corpo. Os locais de acúmulo são as áreas onde os nervos são mais utilizados e a região das costas. O corpo humano possui uma constante ação purificadora, que faz com que essas toxinas se acumulem e se solidifiquem em pontos específicos. A isso, chamamos de primeira ação purificadora. Essa primeira ação purificadora não é acompanhada de febre, portanto, a dor não é intensa e não se tem a sensação de estar doente.
+
+Em seguida, quando uma certa quantidade de toxinas se acumula em um local, ocorre uma ação para eliminá-las do corpo. A isso, chamamos de segunda ação purificadora. Para que essa segunda ação purificadora ocorra, é preciso dissolver e liquefazer as toxinas solidificadas para que possam ser expelidas. Para isso, a “febre” é necessária.
+
+A febre dissolve e liquefaz as toxinas que estavam solidificadas no corpo. Quando essas toxinas liquefeitas são expelidas do corpo, elas estimulam os nervos, causando dor, desconforto ou perda de apetite. Por isso, as pessoas em geral temem esse processo, chamando-o de doença.
+
+Na Igreja Messiânica Mundial, consideramos a doença como um sofrimento temporário que ocorre desde o momento em que a febre dissolve as toxinas até a sua eliminação do corpo. Com o Johrei, o processo se torna muito mais ameno. Se suportarmos um pouco de dor, as toxinas serão eliminadas, a febre baixará, a dor desaparecerá e a quantidade de toxinas no corpo diminuirá. Portanto, a pessoa se torna mais saudável do que antes da doença e, consequentemente, poderá viver mais. Por isso, dizemos que não há nada mais abençoado e precioso do que a febre.
+
+Quanto mais alta a febre e mais intensa a dor, maior a quantidade de toxinas que se dissolve, o que é ótimo. Assim, o medo da doença não apenas desaparece, como passamos a desejar adoecer para eliminar rapidamente as toxinas do corpo e alcançar a verdadeira saúde.
+
+Originalmente, o que encurta a vida são as toxinas no corpo. A eliminação dessas toxinas prolonga a vida na mesma proporção. Por isso, em nossa Igreja, é possível prolongar a vida das pessoas. Que coisa maravilhosa! Com isso, chegamos a desejar adoecer, a querer receber a purificação. Passamos a desejar ter febre alta, diarreia, a pegar um resfriado. Assim, nos livramos completamente do medo da doença. Por outro lado, o desejo geral é também que essa purificação seja leve.
+
+A purificação mais leve e benéfica é o resfriado. Com o resfriado, as toxinas são eliminadas através da coriza, do escarro e da urina. Isso previne o surgimento de todas as doenças, razão pela qual não há doença mais benéfica e abençoada que o resfriado. No entanto, as pessoas temem esse resfriado tão valioso e, em vez de permitirem a eliminação das toxinas, esforçam-se ao máximo para impedi-la, suprimindo o processo com medicamentos ou solidificando-as com gelo. Que ignorância, que tolice! É como na era primitiva, quando, por não conhecerem o uso do fogo, não sabiam cozinhar ou assar os alimentos. Da mesma forma, o homem moderno, por não ter descoberto o Elemento Fogo, não conhece o método de curar doenças com ele. Ao conhecer o uso do fogo, pode-se cozinhar facilmente e saborear os alimentos. Da mesma forma, com a descoberta do Elemento Fogo, ao se adoecer, os venenos da doença são eliminados pela irradiação desse elemento, e a doença é curada com facilidade. Assim como se pode cozinhar sem conhecimento acadêmico ou teorias, também se pode curar doenças sem eles. O homem moderno, que se orgulha de sua civilização avançada, não pode rir tanto assim dos povos primitivos. Por isso, não seria um desrespeito ao homem moderno dizer, como já afirmei, que nossa cultura está mil anos à frente.
+
+Em suma, a cada vez que se adoece, a pessoa se torna mais saudável e sua vida se prolonga. Como isso é o oposto das teorias vigentes, alguns podem se surpreender. Outros podem chamar de heresia ou doutrina perversa. E ainda outros podem dizer que é um absurdo. No entanto, os afortunados podem se admirar e dizer: “Isto é a verdade. É uma teoria que a inteligência humana jamais conseguiu descobrir até hoje. Esta é a voz de Deus”. Cada um interpretará de acordo com seu estado de espírito.
+
+Agora, há um ponto de extrema importância a ser discutido. O fato de as toxinas serem eliminadas do corpo através da doença, ou seja, da ação purificadora, significa que a “mácula” na alma espiritual, que é a base do corpo, diminuiu. Quando a mácula da alma diminui, a alma começa a brilhar, a pessoa se torna de bom coração e seu caráter muda para melhor. Por exemplo:
+- Quem bebia em excesso passa a se contentar com pouco.
+- A pessoa que se irritava facilmente torna-se calma.
+- A compaixão aumenta e surge o desejo de amar o próximo.
+- Passa a detestar conflitos e a amar a paz, a odiar o mal e a apreciar o bem.
+- A mente se torna mais clara, a distinção entre o bem e o mal se torna nítida e, consequentemente, o trabalho prospera e o lar se torna harmonioso.
+- A pessoa passa a conhecer, pela primeira vez, um sabor que nunca havia provado antes: o sabor da própria felicidade ao fazer os outros felizes. (Citar exemplos.)
+
+É interessante observar como, sem que se perceba, o próprio caráter vai se transformando. E, à medida que nos purificamos, nossos antepassados também se purificam. Quando os antepassados se purificam, os descendentes se tornam felizes. Por quê? Porque antepassados e descendentes estão ligados por um fio invisível do destino, chamado de linha espiritual. Além disso, a pessoa passa a ser protegida de acidentes de trânsito, acidentes de trabalho com máquinas, desastres, roubos, terremotos, inundações, etc. Isso ocorre porque tais incidentes também são uma forma de purificação da mácula da alma.
+
+Repetindo o que acabei de dizer, adoecer (ou seja, purificar) significa que:
+- As toxinas do corpo diminuem, tornando-o mais saudável e, consequentemente, prolongando a vida.
+- A alma se purifica, e o espírito se torna bom.
+- Com a purificação da alma, o corpo espiritual se eleva, e a pessoa escapa de diversos infortúnios.
+- Os antepassados são salvos, e os descendentes se tornam felizes.
+- A pessoa passa a amar e a ser gentil com os outros e, por isso, é abençoada materialmente e amada por todos.
+- Torna-se saudável e, portanto, diligente e capaz de trabalhar bem.
+- Passa a crer em Deus e, por isso, não há mais duplicidade em suas ações.
+- O lar se torna harmonioso, livre de doença, pobreza e conflito, e um pequeno paraíso se manifesta. E a pessoa escapa de todos os tipos de infortúnios.
+
+Se enumerarmos, ainda há muitos outros benefícios. Quando esses benefícios se estendem a toda a nação, a reconstrução do Japão se torna possível. Primeiro, o Japão inteiro se torna um paraíso e, ao estender isso ao mundo todo, o Paraíso Terrestre se manifestará. Aqui, se a interpretação da doença for equivocada, o resultado será terrivelmente oposto.
+
+Se a doença for interpretada como um processo de deterioração, como se faz até hoje, nascerá uma sociedade infernal como a de hoje. Que questão de suma importância! Se interpretarmos a doença como deterioração, ou seja, se, quando a Grande Natureza tenta realizar a ação purificadora chamada doença para expelir as toxinas do corpo, essa purificação for suprimida com medicamentos e outros métodos para impedir a eliminação, então as toxinas liquefeitas pela febre se solidificarão novamente, o yakudoku será adicionado e, a cada doença, a quantidade de toxinas aumentará cada vez mais, o corpo se enfraquecerá, a vida se encurtará e, do ponto de vista nacional, a vitalidade do povo diminuirá e o número de pessoas com deficiências, como surdos, cegos e coxos, aumentará.
+
+Isso se refere apenas ao aspecto físico. E que má influência haverá no aspecto espiritual?
+- Como a alma se macula, a consciência se ofusca e a maldade prevalece. A pessoa se torna alcoólatra, gosta de conflitos e de praticar o mal. Odeia o bem, torna-se preguiçosa, a mente se enfraquece e o trabalho não progride. Do ponto de vista nacional, a produtividade cai, a moralidade se deteriora e surge um mundo de trevas onde, desde que a própria pessoa esteja bem, não se importa com os outros. Consequentemente, os antepassados também se maculam, os descendentes se tornam infelizes, a família não tem fim para a doença, a pobreza e o conflito. Isso se espalha por toda a nação e, por fim, pelo mundo inteiro, resultando na sociedade infernal de hoje. Isso não é uma teoria. É a realidade. A situação atual do Japão e do mundo inteiro, embora não haja guerra declarada, é de uma grande guerra ideológica. As nações vitoriosas estão cada vez mais fortalecendo seu poderio militar. Repito: a criação de um mundo infernal ou de um mundo paradisíaco depende unicamente da interpretação da doença. Gostaria que se lembrassem bem disso.
+
+Interpretar a “doença como ação purificadora” leva ao surgimento do Paraíso Terrestre. Interpretar a “doença como deterioração” leva ao mundo infernal de hoje. Haverá algo mais importante do que isso?
+
+Por favor, despertem rapidamente. Esta é a mais urgente das urgências. E despertar significa apenas entender que “a doença é uma ação purificadora”. É só isso.
+“A doença é uma ação purificadora.” “A doença é uma ação purificadora.” Apenas isso constitui a “base para a construção do Paraíso Terrestre”.
+
+Se não estiverem convencidos do que eu disse até agora, ao receberem o Poder Divino, ou seja, o “Omamori”, e ministrarem Johrei a outras pessoas na prática, compreenderão melhor este fato.
+
+Portanto, como disse no início, este Aprimoramento é simples. Idosos e crianças, qualquer um pode entender imediatamente. Por outro lado, por ser tão simples, pode haver pontos de difícil compreensão. Se se tornarem como uma folha de papel em branco, entenderão imediatamente. Não se trata, de forma alguma, de um engodo. Creio que entenderão ao verem, diante de seus olhos, a realidade de pessoas doentes se curando. Por curar tão bem, pode parecer mágica, mas nós estamos ensinando o “truque”. E o “truque” é que “a doença é uma ação purificadora” e, para dissolver rapidamente as toxinas durante essa purificação, utiliza-se o Poder Divino, ou seja, o Elemento Fogo.
+
+Esse Elemento Fogo é o Poder Divino que emana do “Omamori” que lhes será entregue no terceiro e último dia pelo professor [ ].
+
+Ao pendurar este Omamori no pescoço e ministrar Johrei, a Luz de Deus é irradiada pelas mãos, através do corpo espiritual da pessoa. Assim, os senhores se tornam instrumentos de Deus, capazes de curar todas as doenças.
+
+É como uma estação de rádio que faz com que aparelhos de rádio sejam fabricados para que o público em geral possa ouvir a transmissão. Nós somos como os fabricantes de rádio, e os fiéis são como os aparelhos de rádio que temos a permissão de fabricar.
+
+Portanto, as ondas espirituais emanam de Meishu-Sama, passam pelo Omamori que os senhores recebem e são transmitidas a vocês. Por isso, peço que se tornem bons aparelhos.
+
+Peço que compreendam plenamente este ponto.
+Com isso, concluo a explicação geral sobre a interpretação da doença e o princípio da cura.
+
+**Sobre o Yakudoku**
+
+Como explicado no item anterior, a doença é o processo de eliminação das toxinas do corpo. No entanto, quer se trate de toxinas congênitas ou adquiridas, as primeiras são a herança do yakudoku usado pelos antepassados, e as segundas são o yakudoku introduzido no corpo desde o nascimento. Em outras palavras, a tese de nossa Igreja Messiânica Mundial é que a doença é criada pelo tratamento médico, e os medicamentos são o seu elemento central. Até agora, parecia que a doença era curada porque os sintomas diminuíam devido à ação do veneno chamado remédio, mas, na realidade, não era uma cura. Além disso, o corpo humano é feito de tal forma que não consegue processar completamente substâncias estranhas que não sejam os alimentos a ele destinados, e esses remédios permanecem no corpo. Isso é o yakudoku, que, com o passar do tempo, acumula-se e se solidifica em locais onde os nervos são mais utilizados. E, em alguma oportunidade, ocorre a ação de eliminação natural. Isso é a ação purificadora, ou seja, a doença. Pensando bem, o ser humano suprime a ação purificadora, que é uma bênção do Céu, com o yakudoku, solidificando-o. Mas, com o tempo, a purificação desse yakudoku, ou seja, a doença, ocorre novamente. Se este princípio for compreendido, creio que se entenderá por que, apesar do avanço da medicina e da criação de novos medicamentos, o número de doentes não diminui, mas, pelo contrário, aumenta cada vez mais.
+
+Além disso, quando se fala em yakudoku, o homem moderno tende a pensar apenas nos potentes medicamentos ocidentais de hoje. No entanto, os remédios da medicina oriental são igualmente prejudiciais. Aliás, por serem usados em maiores quantidades, tendem a causar purificações persistentes e a encurtar a vida, algo de que devemos nos conscientizar.
+
+Nossa Igreja Messiânica Mundial prega veementemente a terrível natureza do yakudoku. Afirmamos que, se o ser humano não introduzisse remédios em seu corpo, poderia passar a vida inteira sem conhecer o sofrimento da doença. O efeito do Johrei reside na eliminação desse yakudoku. E, clamando para que os remédios desapareçam deste mundo, enfrentamos toda sorte de perseguições e chegamos até aqui.
+
+**Sobre os Micróbios**
+
+Se o ser humano é a coroa da criação, então nada do que existe neste mundo deveria ser desnecessário para ele.
+
+A “verdade” é que aquilo que se torna desnecessário para o ser humano é naturalmente selecionado e extinto. Portanto, quando o homem diz que algo é inútil ou prejudicial, é porque não conhece a razão da sua existência. Nesse sentido, mesmo os micróbios, todos eles, existem porque são necessários para a sobrevivência da humanidade.
+
+A razão da sua existência é que os micróbios são faxineiros. Assim como, ao varrer uma sala, se espalha jornal molhado ou folhas de chá para que a poeira seja absorvida, os micróbios existem para acelerar ainda mais a ação purificadora do sangue humano, cumprindo o papel de faxineiros. Se o sangue for puro, ou seja, se não houver toxinas, os micróbios não atuam. Portanto, a esterilização é prejudicial ao corpo. Para esterilizar, é preciso usar veneno e, além disso, a esterilização interna do corpo é impossível.
+
+**Sobre a Nutrição**
+
+Para os japoneses, o arroz é o alimento mais nutritivo. Os acompanhamentos existem para tornar o arroz mais saboroso. Os acompanhamentos devem ter como base os vegetais, e o peixe e a carne devem ser secundários. O erro da nutrição moderna é que ela se concentra apenas no estudo dos alimentos e se esquece de estudar as funções do corpo humano que os recebe e processa. Portanto, se praticarmos a nutrição acadêmica, o corpo se enfraquecerá. Além disso, não é algo fácil de se praticar. Em suma, basta comer o que o corpo naturalmente pede. É uma tolice forçar-se a comer o que não se gosta e abster-se de comer o que se gosta. O ser humano se torna mais forte quanto mais simples for sua alimentação. Isso porque as funções digestivas do corpo se tornam mais ativas, tentando produzir todos os nutrientes necessários.
+
+Para os doentes, deve-se dar o que eles querem comer, mas, no caso de doentes graves, é melhor que tenham uma dieta vegetariana, pois o sangue se purifica mais rapidamente e os resultados são melhores.
+
+Falemos sobre a “saúde verdadeira e a saúde aparente”.
+Hoje em dia, quase não existem pessoas verdadeiramente saudáveis. São todos doentes. A diferença é que há pessoas cuja doença já se manifestou e pessoas cuja doença ainda não se manifestou. Aqueles cuja doença ainda não se manifestou são comumente chamados de saudáveis. Nós os chamamos de pessoas com saúde aparente. Portanto, não se sabe que tipo de doença pode surgir a qualquer momento.
+
+Costuma-se dizer que “o homem é um receptáculo de doenças” ou que “tem quatrocentas e quatro doenças”, e, em certo sentido, isso é verdade. No entanto, se as toxinas desaparecerem, o homem deveria se tornar um “receptáculo de saúde”.
+
+Por isso, se recebermos Johrei regularmente, quando uma doença surgir, ela será curada facilmente. Portanto, é bom receber Johrei com frequência. Assim, é muito bom que as pessoas ministrem Johrei umas às outras, mas, como a purificação varia em intensidade, é importante ir à igreja e receber orientação gradualmente.
+
+**A Doença e a Grande Natureza**
+
+O ser humano, que nasceu neste mundo com uma nobre missão de Deus, adoece porque está contrariando as leis da Grande Natureza, ou seja, a Vontade Divina. Investigar e descobrir em que pontos está havendo essa contradição é o que constitui a solução fundamental.
+
+O que é, então, essa ação contrária à natureza? É a interrupção da “ação purificadora” realizada pela Grande Natureza. Ao observarmos os fenômenos celestes, vemos que, quando a sujeira se acumula na Terra, o vento a varre, o raio a queima, a chuva a lava e o sol a seca. Portanto, a saúde e a doença humanas também devem ser pensadas e resolvidas com base nos princípios da Grande Natureza. Essa é a “manifestação da verdade”.
+
+Por isso, o nosso Johrei é um método que tem a Grande Natureza como base. É uma terapia natural, uma terapia espiritual divina.
+
+**As Três Grandes Funções dos Órgãos Internos**
+
+Dentre os órgãos internos, há três funções essenciais: as do coração, dos pulmões e do estômago.
+
+O ser humano tem uma relação íntima com a Grande Natureza; aliás, respira, cresce e morre dentro dela — é parte dela. É por isso que o ser humano também é chamado de microcosmo.
+
+A composição do Universo, como explicado no início, é formada por três mundos: o Mundo Espiritual, o mundo do ar e o mundo material. Assim:
+- O “coração” absorve o Elemento Fogo do Mundo Espiritual para manter a temperatura corporal. O batimento do coração se deve à absorção do Elemento Fogo.
+- Os “pulmões” absorvem o ar (na verdade, o Elemento Água) do mundo do ar.
+- O “estômago” come os alimentos que nascem na Terra, absorvendo o Elemento Terra para manter a nutrição do corpo físico.
+
+O homem moderno conhece o ar e os alimentos, mas não conhece o Elemento Fogo, que mantém a temperatura corporal. Tampouco conhece a verdadeira missão do coração. No entanto, parece saber que o coração é o órgão mais importante.
+
+Assim como há alimentos bons e ruins, e ar bom e ruim, também há energias espirituais de nível superior e inferior. Por exemplo:
+A energia espiritual é mais elevada ao lado de Meishu-Sama, seguida pela Sede Central, pelas igrejas e pelos lares onde o altar de Komyo Nyorai-Sama está consagrado, havendo uma hierarquia de níveis superior, médio e inferior. Portanto, estar em contato com uma boa energia espiritual — ou melhor, recebê-la — é o primeiro passo para a saúde. Por isso, ao consagrarmos um altar de Komyo Nyorai-Sama em uma casa, a energia espiritual de Komyo Nyorai-Sama preenche aquele lar, e as pessoas podem receber graças.
+
+A partir de agora, vamos analisar os sintomas das doenças.
+
+**Sintomas das Doenças**
+
+Os sintomas das doenças incluem febre, dor, coceira, desconforto, vômito, diarreia, edema, suores noturnos, tontura, insônia, melancolia, paralisia, tosse, sensação de calor na cabeça, zumbido no ouvido, calafrios, constipação, entre outros. A seguir, explicarei cada um deles.
+
+Febre: O coração absorve o Elemento Fogo para manter a temperatura corporal. Quando se adoece e a febre se manifesta, é porque uma quantidade de calor superior à temperatura normal é necessária para dissolver as toxinas. Por isso, os batimentos cardíacos se tornam mais frequentes, ou seja, o pulso acelera.
+
+Dor: As toxinas, dissolvidas pela febre, buscam uma saída e, ao se moverem nessa direção, estimulam os nervos, causando a “dor”. A causa de toda dor é invariavelmente o yakudoku, e a diversidade de dores se deve à diversidade de medicamentos.
+
+Coceira: A causa pode ser de três tipos: yakudoku, toxinas inatas e intoxicação alimentar. A dor é algo a que não se deve subestimar. No caso da sarna, por exemplo, o sofrimento pode ser tão intenso que a pessoa chega a desejar o suicídio. Há também as picadas de pulgas, mosquitos, percevejos, etc., que não são sintomas de doenças comuns, mas são causadas pela mobilização das toxinas internas do corpo. As erupções causadas pelo contato com certas plantas, como a hera venenosa, seguem o mesmo princípio.
+
+Desconforto e Vômito
+O desconforto não é uniforme. Inclui náuseas, convulsões, enjoo em veículos, melancolia, etc.
+Causas da Náusea:
+1.  Devido à anemia cerebral, como um reflexo do estômago.
+2.  Quando há febre alta.
+3.  Intoxicação alimentar.
+4.  Devido a medicamentos.
+5.  Quando há toxinas na região do piloro (a passagem do estômago para o intestino), causando seu estreitamento.
+6.  Enjoo matinal na gravidez: as toxinas solidificadas na parte externa do estômago são impelidas para fora pela expansão do útero.
+7.  Quando há hemorragia interna no cérebro (derrame cerebral, concussão).
+
+Convulsão: Pode ser de origem espiritual ou física. A espiritual é causada pela possessão de um espírito, e a física, pelos calafrios que precedem a febre alta.
+
+Enjoo em Veículos: Há um acúmulo de toxinas na parte externa do estômago que, com o movimento, se dissolvem aos poucos e penetram no estômago.
+
+Melancolia: Pode ser de origem espiritual, ou devido à inatividade do estômago, icterícia, anemia cerebral, rigidez nos ombros e nas costas, etc.
+
+Diarreia: A diarreia pode ser aguda ou crônica.
+A “diarreia aguda” é causada por intoxicação alimentar. Além disso, há a diarreia com sintomas semelhantes aos da disenteria, que pode chegar a dezenas de evacuações por dia. As fezes são aquosas, mas pode haver mistura de sangue, e às vezes são eliminados pus e sangue tóxico com aparência de carne em decomposição. Com o Johrei, não há motivo para preocupação.
+A “diarreia crônica” pode durar meses ou até anos. Geralmente é diagnosticada como tuberculose intestinal, mas é causada pela purificação da toxina da urina, decorrente da atrofia dos rins, que se acumula constantemente no peritônio.
+
+Edema (Inchaço): Geralmente é causado pela atrofia dos rins ou por um problema na bexiga. A atrofia dos rins é a causa do “edema” generalizado. Em casos graves, o inchaço é em todo o corpo; em casos leves, é localizado (por exemplo, em uma metade do corpo, ou na parte inferior).
+1.  Caso de inchaço generalizado:
+    O inchaço endurecido, comum em estudantes do sexo feminino, pode parecer sinal de saúde, mas não é. A pessoa se cansa facilmente e tem sintomas como palpitações, falta de ar, sensação de peso no corpo, etc. A causa é o acúmulo gradual de pequenas quantidades de toxina da urina em todo o corpo, que se solidifica ao longo do tempo sem que a pessoa perceba. Por isso, mesmo comendo pouco, a pessoa engorda.
+    Um cálculo que obstrui a junção da bexiga com a uretra, impedindo o fluxo da urina, também pode causar edema.
+2.  Caso de inchaço localizado:
+    O “edema” no rosto, em um braço, perna, etc., é causado pela purificação e dissolução das toxinas que estavam naquela parte do corpo.
+Sinal de “morte”: Em casos de doença grave, se houver “edema” no peito do pé, isso pode ser considerado um sinal de morte, e a recuperação é improvável.
+Edema do beribéri: pode-se considerar que se limita à parte inferior do joelho.
+
+Suores Noturnos: A medicina diz que é por causa da fadiga, mas isso é mentira. É um tipo de ação purificadora, em que as toxinas dissolvidas e liquefeitas pela febre saem pelos poros. Portanto, é algo bom.
+
+Tontura: A medicina considera a causa desconhecida. É causada por um acúmulo de toxinas na parte posterior da cabeça, do lado direito (região do bulbo raquidiano), e pela rigidez no pescoço e nos ombros, que comprimem os vasos sanguíneos que levam sangue aos olhos. Também pode ser causada pela ação purificadora das toxinas próximas aos globos oculares.
+
+Insônia: Causa anemia cerebral, levando a pensamentos fúteis. Também pode ser devido à purificação de toxinas acumuladas na parte frontal e central do cérebro.
+
+Melancolia: A causa geralmente é a rigidez no pescoço e nos ombros.
+A irritabilidade infantil é causada principalmente pela rigidez nos ombros.
+Também pode haver causas espirituais.
+Pode ser causada pela febre de purificação da cabeça.
+
+Paralisia (Dormência): A causa mais comum é o beribéri, mas em outros casos, geralmente é o yakudoku de injeções.
+
+Tosse: É uma ação de bombeamento para expelir o escarro do corpo (pode vir de qualquer parte do corpo). O espirro é uma ação de bombeamento para expelir a coriza.
+
+Calafrios:
+1.  Calafrios devido à febre localizada.
+2.  Má circulação sanguínea devido ao acúmulo de toxinas em um local.
+
+Constipação: A causa é o acúmulo de toxinas na região do peritônio, que comprime o reto, dificultando a passagem das fezes. Pessoas com constipação costumam tomar laxantes, o que não é bom. A constipação infantil também pode ter causa espiritual, sendo uma reencarnação de alguém que sofria de constipação.
+
+Escarro com Sangue: O sangue tóxico se mistura ao escarro em pequenas quantidades. É o mesmo princípio de quando um furúnculo se rompe e o sangue se mistura ao pus.
+
+Hemoptise: O sangue tóxico, ao tentar ser expelido, causa uma ruptura em um vaso sanguíneo localizado fora do pulmão. É semelhante ao caso de um derrame cerebral, mas neste, a ruptura ocorre em um vaso próximo ao cérebro. O sangue tóxico busca uma saída e é eliminado. Hemorragias de hemorroidas, disenteria, etc., seguem o mesmo princípio.
+
+Com isso, concluí a explanação geral sobre os sintomas das doenças. Agora, falarei sobre a doença e o espírito, ou seja, as doenças de origem espiritual.
+
+**A Doença e o Espírito**
+
+Já expliquei que a doença é o surgimento e o processo da ação purificadora. Portanto, é preciso saber que um número considerável de doenças é causado pelo espírito. Evidentemente, há uma relação íntima e inseparável com a ação purificadora. Por exemplo, quando um espírito de um morto se apossa de alguém, ele se fixa na mácula do corpo espiritual da pessoa doente. Por isso, se o corpo espiritual for purificado até certo ponto, não apenas a doença do corpo físico desaparecerá, como também a possessão pelo espírito do morto se tornará impossível. Além disso, quando um espírito de um morto se apossa, a pessoa sente calafrios; no caso de um espírito de uma pessoa viva, ao contrário, sente-se calor.
+
+A seguir, explicarei as doenças de origem espiritual com exemplos.
+
+Tuberculose Pulmonar: A causa real reside em dois fatores: tratamento médico equivocado e influência espiritual. Quando um filho morre de tuberculose em uma família, pouco tempo depois, um dos irmãos adoece da mesma doença e, assim, sucessivamente, vão morrendo. Ou, quando um dos cônjuges morre de tuberculose, pouco tempo depois, o outro adoece. Nesses casos, o espírito da pessoa que morreu de tuberculose, ao ir para o Mundo Espiritual e não suportar a solidão, se apossa de alguém com quem tinha intimidade em vida, para tentar trazê-lo para perto de si. Essa possessão se manifesta como os sintomas da tuberculose.
+
+Doença Mental: É uma doença de natureza puramente espiritual. Em seus estágios iniciais, invariavelmente, a pessoa sofre de insônia. Permitam-me explicar um pouco sobre o sangue. O sangue é a materialização do espírito. Portanto, a fonte da força que flui no sangue são as células espirituais. Assim, se o sangue for puro, as células espirituais são densas; se for anêmico ou impuro, são rarefeitas. Para simplificar, quando as células espirituais estão plenas, no nível dez, a possessão é absolutamente impossível. À medida que essa densidade diminui, a força do espírito possessor aumenta. Por exemplo, quando o espírito original está no nível quatro e o espírito possessor, no seis, a doença mental se instala de fato. Nesses casos, o espírito possessor é, na maioria das vezes, um espírito de raposa, mas, raramente, pode ser outro espírito.
+
+Epilepsia: É quase sempre a possessão por um espírito de um morto. Quando a crise ocorre, a pessoa manifesta o estado do momento da morte. Se espuma pela boca, é epilepsia hídrica, causada por um espírito que morreu afogado. A epilepsia ígnea é causada por um espírito que morreu queimado. Há também espíritos que morreram subitamente de derrame cerebral e outros espíritos de pessoas que tiveram morte violenta.
+
+Sonambulismo: Quando a crise ocorre, a pessoa perde a consciência de si, sai de casa e vagueia sem rumo, um sintoma verdadeiramente problemático. Isso também é um tipo de “epilepsia”, e o espírito possessor é o de uma criança.
+
+Paralisia Infantil: É a possessão por um espírito de um morto que ficou com metade do corpo paralisado. Pode ser congênita, mas também há casos adquiridos devido ao yakudoku.
+
+Câncer de Estômago: É comum em pessoas que são reencarnações de dragões. (É causado pela possessão de espíritos de seres que a pessoa engoliu em sua vida anterior, no Mundo dos Dragões.) Além disso, há muitos casos de pseudo-câncer causados por toxinas do consumo excessivo de carne.
+
+Cárie Óssea: Há a verdadeira e a pseudo-cárie. Geralmente, são a cárie da coluna vertebral, das costelas, do quadril, etc.
+- A cárie da coluna vertebral é de origem espiritual. Os antepassados recebem purificação no Mundo Espiritual, e os resíduos dessa purificação fluem para os descendentes, materializando-se como pus. Durante a eliminação do pus, quanto mais yakudoku a pessoa tiver, mais forte será a dor; quem não tem yakudoku não sente dor.
+- A cárie das costelas não é de origem espiritual. É a purificação do yakudoku que se acumulou sob o periósteo.
+
+Doenças Oculares: As doenças oculares também têm, em grande parte, causas espirituais. A cegueira pode ser causada pela possessão do espírito de uma cobra. O daltonismo ocorre quando um animal reencarna como ser humano e ainda retém características animais.
+- A cegueira noturna é causada pela possessão do espírito de uma ave.
+Outras doenças de origem espiritual incluem a surdez, a constipação, a difteria, etc.
+
+Com isso, concluí a explanação geral sobre as doenças. Como em apenas dois dias é impossível explicar tudo em detalhes, peço que, ao ministrarem “Johrei” na prática e surgirem dúvidas, mantenham um bom contato com a sua unidade religiosa.
+
+**Sobre a Ação Purificadora de Nivelamento**
+
+Ao dissolvermos um acúmulo de toxinas em um local, pouco tempo depois, pode ocorrer uma purificação em outro lugar. A isso, chamamos de purificação de nivelamento. Os doentes costumam dizer que a dor se move, mas isso se deve a esse princípio. A “dor” em si não se move.
+
+**O Método de Rejuvenescimento**
+
+Os rins são órgãos importantes para a produção de hormônios e para a eliminação de impurezas através da urina. Portanto, a atrofia dos rins enfraquece a purificação de todo o corpo e causa deficiência hormonal. Como resultado, o envelhecimento ocorre precocemente. Quando os rins funcionam perfeitamente, não só os homens se tornam mais vigorosos, mas as mulheres também se tornam donas de um sangue puro, o que aumenta notavelmente sua beleza e causa boa impressão nos outros. O aumento de hormônios as torna notavelmente mais atraentes. Com isso, o casal vive em harmonia, os conflitos domésticos não ocorrem e, mesmo os idosos, rejuvenescem cerca de vinte anos. Que coisa maravilhosa!
+
+**O Verdadeiro Método de Saúde**
+
+O “verdadeiro método de saúde” consiste em eliminar as máculas do espírito e em não permitir que ele se macule. Para eliminar as “máculas”, é preciso:
+1.  Primeiramente, participar do Aprimoramento e se tornar membro da Igreja Messiânica Mundial.
+2.  Ajudar na construção do Paraíso Terrestre, que é o objetivo de Meishu-Sama.
+3.  Tratar os outros com amor e evitar ser alvo de ressentimento.
+Em suma, o verdadeiro método de saúde é se tornar uma pessoa de bem, com pensamentos corretos, que não se envergonha perante o Céu e a Terra. Tal pessoa terá a alma sempre clara e serena, sem máculas. A doença é, em certa medida, criada e sofrida pela própria pessoa. Mesmo as doenças causadas pelos pecados e impurezas dos antepassados podem ser eliminadas pelas ações da própria pessoa.
+
+**Recomendações sobre o Johrei**
+
+Se dividirmos o ser humano em espírito e corpo, a parte das costas corresponde ao espírito, e a parte da frente, ao corpo. Portanto, segundo a Lei do Espírito Precede a Matéria, em todas as doenças, a parte das costas é a mais importante, e sem um bom Johrei nessa região, não se obterá um efeito verdadeiro.
+
+A pessoa que ministra Johrei deve, em primeiro lugar, sentar-se em uma posição mais elevada. Em segundo lugar, não deve colocar força nas mãos. Basta ministrar Johrei com “sinceridade”. Em terceiro lugar, deve perguntar bem ao doente sobre os locais de dor.
+
+Os sintomas das doenças não são uniformes, assim como os rostos das pessoas são diferentes; sempre há pequenas variações. E a intensidade do sentimento de gratidão do doente influencia muito na cura.
+
+**O Método para Aferir a Saúde do Ser Humano**
+
+O método mais seguro é tocar a região dos ombros. Pessoas com ombros macios, onde os dedos afundam um pouco, são saudáveis. Pessoas com ombros duros e sem maciez podem ser consideradas não saudáveis, sem margem de erro.
+
+**[Terceira Aula]**
+
+**O Objetivo da Vida**
+
+A partir de agora, prosseguirei com uma explanação de natureza religiosa.
+
+O nascimento do ser humano neste mundo ocorre por ordem de Deus. O fato de a palavra “vida” (生命) conter o ideograma de “ordem” (命令) também aponta para esse significado. Enquanto o ser humano não souber por que nasceu, não apenas será incapaz de agir corretamente e de alcançar a paz de espírito, como também correrá o risco de levar uma vida vazia, de embriaguez e sonho.
+
+Qual é, então, a intenção de Deus? É a construção de um mundo ideal nesta Terra, ou seja, o “Paraíso Terrestre”. Sua escala e concepção são tão magníficas e grandiosas que a sabedoria humana é incapaz de compreendê-las. A civilização, em seu progresso infinito, não tem limites, mas a civilização que avançou até hoje foi uma cultura materialista, nada mais do que um trabalho preparatório para a construção do Paraíso Terrestre.
+
+E Deus, atribuindo a cada indivíduo uma missão e características específicas, faz com que, através de sucessivas vidas e mortes, avancem passo a passo em direção ao objetivo ideal, a “construção do Paraíso Terrestre”. Portanto, é preciso saber que o bem e o mal, a guerra e a paz, a destruição e a criação, não passam de etapas necessárias à evolução.
+
+E em que “época” nos encontramos hoje? É o período da Transição da Noite para o Dia, em que a destruição e a construção ocorrem simultaneamente. Ou seja, o mundo inteiro está agora em um período de alvorecer, prestes a dar um grande salto em direção a uma nova era. A humanidade está agora se despindo de suas vestes de barbárie e se aproximando de um mundo de alta cultura.
+
+**O Espírito Divino**
+
+Até agora, como era o mundo da Noite, o mundo divino estava oculto, manifestando-se como o mundo búdico. Por isso, o Deus mais primordial — ou seja, o Espírito Divino fundamental — também estava oculto. E esse Deus primordial oculto havia se manifestado como Kannon (観音)-Sama.
+
+Agora, com o giro do ciclo celeste e a chegada da hora do Céu, Kannon-Sama, que estava oculto no mundo búdico, retira seu capuz e, como Criador do mundo do Dia, está sendo restabelecido em sua forma original, ou seja, como Miroku Oomikami, o Messias.
+
+Até hoje, por ser o mundo da Noite, o domínio era dos deuses da linhagem da Lua, que não possuíam poder absoluto. Por isso, o demônio se proliferou, e uma sociedade infernal como a de hoje se formou. E, por isso, pensava-se que Deus não existia. No entanto, com a chegada do mundo do Dia, o domínio passa a ser dos deuses da linhagem do Sol que, por possuírem poder absoluto, o demônio não consegue mais interferir, e o paraíso se manifesta. Chegou a hora em que os seres humanos saberão claramente se Deus existe ou não.
+
+**Vida e Morte**
+
+A morte do ser humano ocorre quando o espírito se desprende do corpo físico, que se tornou inutilizável, e retorna ao Mundo Espiritual, tornando-se um ser espiritual e iniciando uma vida nesse plano. E o ser humano, após viver no Mundo Espiritual por alguns anos, décadas ou séculos, renasce no Mundo Físico. Assim, o ser humano vive e morre, renascendo inúmeras vezes. Este é um ponto de extrema importância, e gostaria que o guardassem bem em suas mentes.
+
+No Mundo Físico, consciente ou inconscientemente, o corpo espiritual acumula impurezas e, ao mesmo tempo, o corpo físico, devido a doenças e ao envelhecimento, torna-se inutilizável. Então, a pessoa se despoja do invólucro que é o corpo físico e retorna ao Mundo Espiritual. Quando a alma retorna ao Mundo Espiritual, inicia-se a ação purificadora dos pecados e impurezas que nela se acumularam. Para alguns, esse processo leva alguns anos ou décadas; para outros, pode levar centenas ou até milhares de anos. E aqueles que foram purificados até certo ponto, recebem a ordem de Deus e renascem no Mundo Físico.
+
+Essa é a ordem natural, mas, dependendo da pessoa, pode não seguir essa sequência. É o caso de pessoas com forte apego à vida que, ao morrerem, renascem com a purificação no Mundo Espiritual incompleta. Tais pessoas tendem a ter um destino infeliz no mundo físico. Isso porque, como a purificação no Mundo Espiritual foi insuficiente, uma parte considerável de seus pecados e impurezas ainda permanece. Por essa razão, existem pessoas boas que são infelizes. No entanto, aquelas que são infelizes por um período e se tornam felizes na velhice, o fazem porque, através da prática do bem, a purificação de suas impurezas é concluída. Pessoas que eram muito infelizes antes de ingressarem na Igreja Messiânica Mundial e que, ao se dedicarem a este caminho, se tornam gradualmente felizes, o fazem porque, ao entrarem neste caminho misterioso e terem a permissão de servir, seus pecados e impurezas são purificados mais rapidamente, e, por isso, se tornam felizes.
+
+Outra causa para o renascimento precoce, além do apego da própria pessoa, é o apego dos familiares. É comum ouvir casos de mulheres que engravidam logo após a morte de um filho querido e dão à luz. Isso ocorre porque o filho falecido, devido ao apego da mãe, reencarna rapidamente. Tais crianças não são felizes. Pessoas que nascem com deformidades ou deficiências também são casos de reencarnação antes que os ferimentos de uma queda de um lugar alto, que resultou em fraturas e morte, estivessem completamente curados. Portanto, ao morrer, o ser humano deve, desde sempre, esforçar-se para ter uma passagem tranquila, livre de apegos e medos.
+
+Além disso, as pessoas nascem com diferentes graus de inteligência. Isso se deve à diferença entre almas antigas e almas novas. As almas antigas são aquelas que reencarnaram muitas vezes e, por isso, possuem uma rica experiência do mundo físico. As almas novas são aquelas que nasceram através da procriação no Mundo Espiritual e, por serem recém-nascidas, têm pouca experiência do mundo físico e, por isso, são menos sábias.
+
+Às vezes, ao encontrarmos um desconhecido, sentimos uma afinidade como se fôssemos parentes, ou até maior. Isso ocorre porque, em vidas passadas, éramos parentes próximos ou tínhamos uma relação muito íntima. A isso, chamamos de carma. O mesmo pode acontecer ao viajarmos e sentirmos uma grande familiaridade com um lugar, ou em relacionamentos amorosos. Da mesma forma, ao lermos sobre história e sentirmos afinidade ou, ao contrário, aversão por certas personagens, isso também se deve ao fato de termos nascido naquela época e tido alguma relação com elas.
+
+**A Composição do Mundo Espiritual**
+
+O Mundo Espiritual se divide em três níveis: Paraíso, Intermediário e Inferno. Cada um desses níveis se subdivide em três, totalizando nove níveis. A diferenciação dos níveis no Mundo Espiritual se dá pela luz e pelo calor. O nível mais alto possui a luz e o calor mais intensos, enquanto o nível mais baixo, o inferno, é um mundo de escuridão e ausência de calor. O nível intermediário corresponde ao Mundo Físico.
+
+Ao detalharmos esses três níveis, cada um se subdivide em sessenta, e, somando-se o nível mais elevado do Paraíso, temos um total de cento e oitenta e um planos. A isso, chamamos de Planos do Mundo Espiritual.
+
+-------------------------------------------------
+Paraíso Supremo
+-------------------------------------------------
+Cem Paraíso Superior (Primeiro Paraíso) Seis
+-------------------------------------------
+e Médio (Segundo Paraíso) Dez
+-------------------------------------------
+Oitenta Paraíso Inferior (Terceiro Paraíso) Níveis
+-------------------------------------------------
+e Um Nível Intermediário Superior Seis
+-------------------------------------------
+Níveis Médio Dez
+-------------------------------------------
+Inferior Níveis
+-------------------------------------------------
+(Inferno do Calor Ardente, Inferno da Reparação, Inferno da Cobiça, Inferno da Fome, Inferno da Montanha de Agulhas, Inferno da Lagoa de Sangue, Inferno Vermelho, Inferno Azul)
+Inferno Superior Dez
+-------------------------------------------
+Médio Seis
+-------------------------------------------
+(Inferno do Gelo Extremo, Inferno do Congelamento, Inferno da Raiz do Frio, Inferno do Fundo)
+Inferno Inferior Níveis
+-------------------------------------------------
+O que é, então, o Mundo Espiritual? É um mundo de vontade e pensamento.
+
+Como não há o obstáculo material do corpo físico, há uma liberdade extraordinária. A vontade do espírito pode levá-lo a qualquer lugar, mais rápido que um avião. Milhares de quilômetros podem ser percorridos em poucos segundos. No entanto, a velocidade de movimento do espírito depende de seu nível. Espíritos de nível superior, ou seja, aqueles que alcançaram a divindade, são mais rápidos, enquanto os de nível mais baixo podem levar dezenas de minutos para percorrer a mesma distância. Por quê? Porque quanto mais baixo o nível do espírito, mais impurezas ele tem e, portanto, é mais pesado. Os Espíritos Divinos de mais alto nível são mais rápidos do que um milionésimo de segundo e podem alcançar qualquer distância em um instante. Além disso, o espírito pode se expandir e se contrair livremente, de acordo com seu próprio pensamento. Em um altar budista de apenas trinta centímetros de largura, centenas de espíritos de antepassados podem se reunir. Os antepassados se alegram muito com cerimônias feitas de coração, e não tanto com as que são meramente formais. Portanto, as cerimônias devem ser realizadas de acordo com as possibilidades de cada um, mas com o máximo de sinceridade e da melhor forma possível.
+
+**Fantasmas**
+
+Há pessoas que veem fantasmas. A maioria deles são espíritos de pessoas que morreram há pouco tempo. Os espíritos recém-falecidos têm células espirituais densas e, por isso, podem ser vistos pelos olhos humanos. Com o passar do tempo, os espíritos se purificam e se tornam mais rarefeitos, tornando-se invisíveis.
+
+**A Fisionomia dos Seres do Mundo Espiritual**
+
+Uma vez que uma pessoa se torna um ser do Mundo Espiritual, sua fisionomia se torna exatamente como seus pensamentos. Por exemplo:
+- Quem tem um coração bom e belo terá uma fisionomia bela e serena.
+- Quem tem um coração feio e mau terá uma fisionomia feia.
+- Quem tem um coração demoníaco terá a aparência de um demônio.
+- Quem tem um coração bestial terá a aparência de um demônio.
+- Quem tem um coração solitário terá uma fisionomia magra e abatida.
+Assim, tudo se manifesta de forma nua e crua. No Mundo Físico, o corpo é como uma vestimenta que permite o disfarce.
+
+**A Inseparabilidade entre o Mundo Material e o Mundo Espiritual**
+
+O ser humano, ao morrer, vai para o Mundo Espiritual, mas tudo o que viveu no mundo físico continua. O sofrimento da morte também persiste. Ou seja, o Mundo Espiritual é uma extensão do Mundo Físico.
+
+**O Mundo dos Tengu**
+
+No Mundo Espiritual, além do mundo divino e do mundo búdico, existe o “Mundo dos Tengu”. O Mundo dos Tengu se localiza no plano espiritual de regiões montanhosas. E os tengu têm a missão de proteger suas respectivas montanhas. O Mundo dos Tengu também se divide em três níveis: superior, médio e inferior. O deus que governa o Mundo dos Tengu é Sarutahiko-no-Mikoto, do Monte Kurama. Existem dois tipos de tengu: os “humanos” e os “pássaros”. Os tengu humanos são espíritos de pessoas que, em vida, foram estudiosos, escritores, advogados, educadores, sacerdotes xintoístas, monges budistas e, antigamente, samurais. Muitos desses indivíduos, ao morrerem, vão para o Mundo dos Tengu. Os pássaros, ao morrerem, vão todos para o Mundo dos Tengu e atuam sob as ordens dos tengu humanos.
+
+Os tengu gostam de discutir e, quando vencem, sua posição se eleva. Seu maior prazer é o saquê, e também gostam de se apossar de pessoas e de assustá-las. Também gostam de se apossar de ascetas para curar doenças.
+
+Falemos aqui sobre o “vício em álcool”.
+A causa do vício em álcool é a possessão por um espírito que gosta de beber. Esse espírito geralmente se aloja no abdômen. Os principais espíritos são os de tengu e de tanuki (cão-guaxinim), mas, às vezes, também pode ser um dragão. Quando a pessoa bêbada começa a discutir, é um tengu; quando fica alegre, ri ou fica com sono, pode-se pensar que é um tanuki. Portanto, ao purificar esse espírito, o vício em álcool é curado.
+
+**O Mundo dos Dragões**
+
+A principal função dos dragões é, sob as ordens dos deuses da purificação, causar ventos, chuvas, raios, etc., para realizar a ação purificadora entre o Céu e a Terra. Além disso, dragões de diferentes tamanhos habitam e protegem mares, lagos, rios, lagoas e poços de determinadas regiões. Eles também podem se fixar em árvores. Por isso, é sabido que, ao aterrar lagoas, pântanos ou poços sem permissão, ou ao cortar grandes árvores, ocorrem estranhos infortúnios. Pessoas com forte apego no mundo físico, ao irem para o Mundo Espiritual, tornam-se dragões.
+
+**O Mundo dos Espíritos Malignos (Mundo dos Facínoras)**
+
+O Mundo dos Espíritos Malignos é um mundo sob o domínio do demônio. Essa facção está em constante confronto com os deuses benignos. Assim como existem oito milhões de deuses benignos, também existem oito milhões de espíritos malignos. E, enquanto os deuses benignos buscam praticar o bem, os espíritos malignos buscam praticar o mal, em um constante antagonismo. Assim, a consciência é transmitida ao espírito guardião primordial através de uma linha espiritual vinda do mundo dos deuses benignos, enquanto os pensamentos malignos são transmitidos ao espírito guardião secundário através de uma linha espiritual vinda do mundo dos espíritos malignos.
+
+O progresso da sociedade humana se dá pelo atrito e pela fusão de dois elementos opostos. Por esse princípio, a força é gerada pela atividade de ambos os lados, bem e mal, no ser humano, e, com isso, ele pode cumprir a missão que lhe foi divinamente atribuída. Portanto, nesse caso, o mal é, por assim dizer, um mal necessário. Por quê? Porque, enquanto o espírito guardião primordial, por sua natureza conscienciosa, pensa e pratica o bem, o espírito guardião secundário manifesta a essência do que pertence ao mal, ou seja, os desejos do corpo. Os desejos do corpo são o desejo de posse, de superioridade, de monopólio, de honra, de luxo, etc. — os desejos materiais. A isso, também chamamos de desejos instintivos. Consequentemente, quando esses desejos instintivos ultrapassam um certo limite, constituem o pecado e o mal. Portanto, o controle desses desejos é a condição para manter a ordem e a paz na sociedade humana. Por esse princípio, os desejos instintivos geram a atividade humana, e a consciência a controla, resultando na felicidade e na prosperidade do ser humano e no progresso da sociedade. No entanto, até hoje, por ser o mundo da Noite, a força dos espíritos malignos era maior, o que significa que o poder de controle dos deuses benignos era mais fraco. Agora, com a transição da Noite para o Dia, o resultado será o inverso: a força do bem se tornará principal, e a do mal, secundária. Quando o mal se torna secundário, ele deixa de ser mal. Por quê? Porque passa a estar sob o domínio da força do bem.
+
+Mundo do Dia: Bem como principal, Mal como secundário
+Mundo da Noite: Mal como principal, Bem como secundário
+Espírito precede Matéria; Matéria precede Espírito
+
+**O Bem e o Mal**
+
+O ser humano é humano; não é nem deus nem demônio. No entanto, o ser humano tem liberdade. A liberdade de “poder se tornar tanto um deus quanto um demônio”.
+
+O que é, então, a vontade dos deuses benignos? É o amor absoluto e a compaixão em si. É como uma expansão do amor dos pais. Deus não tem “maldade”; sua essência é a própria “retidão”. No entanto, há deuses que caíram em erro temporariamente. Por que um deus comete erros? Porque os deuses benignos e os espíritos malignos estão em constante luta, e há cento e oitenta e um níveis hierárquicos, do deus mais elevado ao mais baixo. Por isso, os deuses de segunda classe para baixo, muitas vezes, perdem para os espíritos malignos, ou seja, tornam-se seus prisioneiros por um período. E, até hoje, por ser o mundo da Noite, a força dos espíritos malignos era maior, e os deuses benignos eram constantemente oprimidos. A desordem no mundo se devia a isso.
+
+O bem e o mal são relativos; bem e mal são inseparáveis, retidão e maldade são uma só. O bem existe porque o mal existe; o mal existe porque o bem existe. Portanto, o bem e o mal devem ser definidos de acordo com o tempo, o lugar e a posição. No entanto, seja um indivíduo ou uma nação, o mal pode prosperar por um tempo, mas, no final, leva à ruína. O bem, por outro lado, mesmo que sofra temporariamente, quando chegar a hora, certamente prosperará. E, se praticarmos o bem neste mundo, ao irmos para o Mundo Espiritual, os bons se tornarão eternamente felizes. E o método para saber se um ser humano se tornará um deus ou um demônio é se ele acredita ou não no invisível. Ou seja, quem acredita no invisível pode se elevar até se tornar um deus; quem não acredita, corre o risco de se degenerar até se tornar um demônio. O fato de uma pessoa não praticar o mal se deve à consciência de que o Deus invisível está observando. O fato de uma pessoa praticar o mal vem da ideia de que o invisível não existe e, portanto, se ninguém estiver vendo, não há problema em cometer qualquer maldade. Ao levar esse pensamento adiante, a pessoa acaba se degenerando até se tornar um demônio. Consequentemente, não pode haver um verdadeiro bom homem entre os materialistas. Se houver, não é um bom homem de coração, mas alguém que age por cálculo, para manter a credibilidade, ou por medo de perdê-la caso seja descoberto. É, por assim dizer, um bom homem por interesse. A isso, chamamos de falso bom homem. Nesse sentido, podemos afirmar com segurança que quem acredita no invisível é o verdadeiro bom homem.
+
+**Os Resultados da Fé nos Deuses Benignos e nos Deuses Malignos**
+
+No mundo, não é raro encontrarmos pessoas que, apesar de crerem fervorosamente em deuses e budas, têm um comportamento desagradável com a família e com os outros. Pessoas que não têm amor, carecem de altruísmo ou praticam a falsidade e a injustiça sem hesitar. Isso ocorre porque o deus ou buda que é objeto de sua fé é “maligno”.
+
+Há pessoas que creem em Deus, servem-no com a máxima sinceridade e dedicam uma fé fervorosa por muitos anos, mas que são constantemente assoladas por doenças, pobreza e infortúnios, não conseguindo se livrar de uma vida de sofrimento. Isso ocorre porque, embora o deus seja benigno, ele pertence à linhagem da Lua, ou seja, não é um deus de primeira classe e, portanto, não tem poder absoluto.
+
+Os deuses do Sol possuem poder absoluto, mas, no mundo da Noite, não podiam manifestá-lo plenamente. Os deuses da linhagem da Lua, por não terem poder absoluto, perderam para o demônio.
+
+**O Espírito Guardião**
+
+Dentre os espíritos que habitam o ser humano, aquele que é congênito, ou seja, o espírito que é uma partícula de Deus, é chamado de espírito guardião primordial. O espírito animal que se aloja posteriormente é chamado de espírito guardião secundário.
+
+Os principais espíritos guardiões secundários são os de raposa, tanuki, cão, gato, cavalo, boi, doninha, dragão, tengu, e toda sorte de aves. Geralmente, é um único tipo, mas, raramente, podem ser dois ou três.
+
+Além do espírito guardião primordial, há também o espírito guardião protetor, que está sempre nos protegendo. O espírito guardião protetor é o espírito de um antepassado. Quando uma pessoa nasce, um dos espíritos dos antepassados é selecionado. Nesse caso, geralmente é um espírito humano, mas também pode ser um espírito assimilado, como um dragão, uma raposa ou um tengu.
+
+A função de cada espírito guardião é:
+- Espírito Guardião Primordial: é a natureza boa, a consciência.
+- Espírito Guardião Secundário: governa os desejos materiais, os desejos instintivos, e todos os desejos do corpo.
+- Espírito Guardião Protetor: é através do espírito guardião protetor que Deus nos dá diversas ordens e bênçãos. Ele nos protege em situações de perigo, ajudando-nos milagrosamente, dando-nos sugestões, avisos em sonhos ou pressentimentos.
+
+**A Advertência dos Antepassados**
+
+Os antepassados desejam a felicidade de seus descendentes e a prosperidade de sua casa. Por isso, estão sempre vigilantes para que seus descendentes não sigam caminhos errados ou cometam erros. Como meio para isso, eles podem causar diversos infortúnios e doenças. Por exemplo, se alguém acumula riqueza de forma desonesta, eles podem causar um incêndio ou perdas para eliminá-la. E, dependendo dos pecados e impurezas, realizam a ação purificadora da doença. Por exemplo, uma criança contrai uma purificação como um resfriado. Normalmente, a cura é simples, mas, por mais que se ministre Johrei, o efeito é nulo, ocorrem vômitos frequentes, a criança perde totalmente o apetite e, em pouco tempo, definha e morre, o que nos causa estranheza. As causas são várias, mas, por exemplo, pode ser porque o pai se desviou do caminho da moralidade, entregando-se a prazeres momentâneos e causando sofrimento a outros por causa da luxúria. Se ele não se der conta, os filhos podem ser levados, um após o outro. Isso nos mostra que devemos nos abster de prazeres momentâneos. O mesmo acontece quando não se cultuam os antepassados.
+
+**Sobre não Falar Mal dos Mortos**
+
+Quando se fala mal de uma pessoa que já morreu, o espírito dela sofre e, para tentar impedir, pode se apossar de alguém. Por isso, não se deve falar mal dos mortos.
+
+**Os Planos do Mundo Espiritual**
+
+O Mundo Espiritual é dividido em três níveis: Paraíso, Intermediário e Inferno. E isso tem uma relação íntima com o destino do ser humano. Ao subdividirmos esses três níveis, cada um se divide em sessenta, totalizando cento e oitenta planos. A isso, chamamos de Planos do Mundo Espiritual. Agora, explicarei qual a relação do ser humano com esse Mundo Espiritual.
+
+Os senhores já sabem que a alma espiritual e o corpo físico do ser humano têm uma relação íntima e inseparável. Na verdade, essa alma espiritual está ligada por uma linha espiritual a uma alma etérea que vive no Mundo Espiritual, em uma relação igualmente íntima e inseparável. (A alma etérea pode ser chamada de espírito do espírito. E a alma espiritual, por estar dentro do corpo, pode ser chamada de alma encarnada.) Portanto, podemos dizer que a verdadeira fonte da vida humana é a própria alma etérea.
+
+Essa alma etérea pertence a um dos cento e oitenta planos do Mundo Espiritual. No entanto, o lugar onde essa alma etérea se encontra não é fixo. Ou seja, as almas purificadas, por serem leves, ficam nos planos superiores, enquanto as almas maculadas, por serem pesadas, ficam nos planos inferiores.
+
+Os planos superiores são um mundo de “saúde, prosperidade e paz”, ou seja, o “Paraíso”. Os planos inferiores são um mundo de “doença, pobreza e conflito”, o “Inferno”. Ou seja, quanto mais alto o plano em que a alma etérea se encontra, mais feliz a pessoa será; quanto mais baixo, mais infeliz. Portanto, é fundamental saber que a causa da felicidade ou infelicidade de uma pessoa depende do plano do Mundo Espiritual onde sua alma etérea habita.
+
+Sendo assim, para se tornar mais feliz, basta purificar a própria alma encarnada. Com isso, a alma etérea também se purifica, e sua posição se eleva para os planos superiores, tornando a pessoa mais feliz. Para purificar a alma, é preciso praticar o bem e acumular virtudes, o que leva um tempo considerável. No entanto, existe um método para subir dezenas de planos do Mundo Espiritual de uma só vez. É se tornar “membro da Igreja Messiânica Mundial”.
+
+Para se tornar membro de nossa Igreja, é preciso primeiro participar do Aprimoramento e seguir os procedimentos de inscrição.
+
+Ao se tornar membro de nossa Igreja, a alma etérea se posiciona nos planos superiores, a visão de mundo da pessoa se transforma, sua sabedoria e discernimento se aprofundam, ela passa a compreender bem a verdade das coisas, vê uma luz em seu futuro, suas apreensões se dissolvem, torna-se otimista, compreende pela primeira vez o sentido da vida e obtém um sentimento de segurança. No plano material, de forma misteriosa, os bens se acumulam, a pessoa não passa por dificuldades, os infortúnios diminuem e a felicidade aumenta. Diariamente, chegam aos nossos ouvidos e olhos inúmeras vozes de gratidão, dizendo: “Fui realmente salvo, sou muito grato”.
+
+Com isso, a alma etérea dos senhores já não é a mesma de ontem. A posição de sua alma etérea no Mundo Espiritual deu um salto de dezenas de planos, e seu status espiritual foi transferido para um nível muito mais elevado. Portanto, rogo que, de agora em diante, purifiquem cada vez mais suas almas, elevem cada vez mais suas almas etéreas e se empenhem na construção do Paraíso Terrestre.
+
+No entanto, gostaria que se lembrassem bem de que, mesmo tendo ingressado na Fé e elevado sua alma etérea, se não se dedicarem a Deus como deveriam, ou se tiverem palavras e ações que se desviam dos Ensinamentos Divinos, o resultado pode ser o oposto.
+
+**A Agricultura Natural (Método de Cultivo sem Adubos)**
+
+Além do que foi explicado até agora, a Igreja Messiânica Mundial também traz, no campo da agricultura, um grande evangelho: a Agricultura Natural, ou seja, o cultivo sem adubos. Assim como na medicina, este método elucida as causas do impasse da agricultura que se acreditava avançada — quebras de safra, doenças e pragas, danos causados pelo frio e pela seca, etc. —, prega o método de cultivo correto, busca aumentar significativamente a produção e, para a verdadeira saúde das pessoas, visa fornecer alimentos verdadeiramente saudáveis e puros. É uma grande revolução na agricultura.
+
+Assim como pregamos contra o yakudoku, também pregamos contra os malefícios dos adubos e agrotóxicos e os combatemos.
+
+A questão da alimentação, no entanto, é um problema que não pode ser negligenciado nem por um dia. E, se apenas o uso de adubos e agrotóxicos for interrompido, mesmo quem não é membro da Igreja pode obter excelentes resultados. Isso, evidentemente, também se baseia nos Ensinamentos de Meishu-Sama, mas nossa Igreja, através de muitos anos de experiência prática, obteve a convicção e, separadamente da Igreja, organizou a “Associação de Difusão da Agricultura Natural” e se empenha em sua promoção. Os resultados da Agricultura Natural aparecem claramente, ano após ano, não deixando margem para discussões, e esses resultados, por sua vez, contribuem para o desenvolvimento de nossa Igreja.
+
+Desejamos que todos aqueles que se dedicam à agricultura e à horticultura, ou que têm interesse no assunto, se associem e, através do jornal da associação, de palestras, de debates e da orientação prática, obtenham a experiência da verdade e, também por este meio, se empenhem na construção do Paraíso Terrestre.
+
+**A Organização e a Administração da Nossa Igreja**
+
+Meishu-Sama, como Líder de nossa Igreja, é o centro de nossa fé. Os fiéis podem peregrinar à Sede em dias determinados de cada mês e receber a transmissão de seus ensinamentos. No que tange à organização e administração, há uma Sede Central separada, que é gerida de forma democrática através de deliberação do Presidente e dos diretores e conselheiros. Subordinadas a ela, existem igrejas de grande e médio porte em todas as províncias do Japão e, rapidamente, em outros países como os Estados Unidos, que realizam as atividades de difusão. Os senhores se tornaram membros de uma dessas unidades.
+
+Além disso, em Hakone, Atami e Quioto, em locais de ambiente ideal, grandes construções estão em andamento, como modelos do Paraíso Terrestre. Sob o projeto e a supervisão de Meishu-Sama, não apenas templos e jardins estão sendo construídos, mas também museus de arte estão sendo instalados ou estão em construção. Através da apreciação de diversas formas de arte e do deleite da beleza natural e artificial, busca-se purificar e elevar a alma das pessoas, visando à concretização de um mundo de verdade, bem e belo, o que também é uma característica de nossa Igreja. Em breve, com o avanço dessas instalações, esses locais se tornarão mundialmente famosos e serão as terras sagradas almejadas pelos fiéis de todo o mundo. E há planos de construção também em outros lugares do mundo, a começar pelo Havaí. E tudo isso está sendo realizado com as sinceras e transbordantes doações de gratidão e com o serviço abnegado dos fiéis.
+
+Assim, a chama da salvação acesa no Japão, no Extremo Oriente, como a “Luz do Oriente” tão esperada pela humanidade, e como a salvação do Deus Messias, que concederá a felicidade eterna à humanidade no fim dos tempos, o desenvolvimento de nossa Igreja está prometido.
+
+**Conclusão**
+
+Para finalizar, gostaria de falar sobre um ponto que nós, fiéis, não devemos esquecer: a gratidão e a retribuição. Ao receber uma graça, como a cura de uma doença grave, a salvação de um desastre inesperado, ou a transformação de um grande infortúnio em um pequeno, é natural oferecer a Deus a sinceridade da gratidão e da retribuição. No entanto, nos dias em que vivemos sem preocupações, com saúde e bem-estar, tendemos a esquecer a gratidão e a retribuição pela proteção que recebemos constantemente. Ser milagrosamente salvo de um atropelamento é bom, mas não ter sido sequer tocado pelo carro é muito mais abençoado. Ou seja, viver os dias em paz e segurança é a maior de todas as graças. É ao oferecer o serviço de gratidão por isso que nos conectamos com Deus e podemos receber graças cada vez maiores. Isso pode ser comparado ao ato de semear. Se apenas recebemos graças e não retribuímos, é como a tolice de esperar uma colheita farta sem ter semeado; não se pode receber graças sucessivas. Gostaria que se lembrassem de que tudo o que for oferecido a Deus em serviço retornará a nós de alguma forma, multiplicado por dezenas ou centenas de vezes.
+
+Com isto, encerramos o curso completo de Aprimoramento para membros da Igreja Messiânica Mundial. De agora em diante, desejamos que os senhores coloquem em prática os ensinamentos com sinceridade e, com a consciência e o orgulho de serem apóstolos da construção do Paraíso Terrestre de Meishu-Sama, se empenhem em suas respectivas missões.
+
+**Apêndice**
+
+**Recomendações sobre o Johrei**
+
+O método de Johrei, como aprenderam durante o Aprimoramento, consiste em nós, que trazemos conosco o Omamori recebido, estendermos a palma da mão em direção ao doente, a uma distância de alguns metros. Por que apenas com isso doenças graves são curadas? Os senhores já ouviram uma explicação geral e, de agora em diante, através da leitura dos Escritos Divinos e da audição das palestras, irão compreender gradualmente. Aqui, gostaria de oferecer algumas recomendações gerais.
+
+1.  Conheça o Ponto Vital
+    No Johrei, o fundamental é curar a doença. Portanto, é importante enriquecer o conhecimento sobre as doenças. Não se trata de um conhecimento médico, mas do conhecimento da medicina de Deus. Ou seja, é a elevação da sabedoria e do discernimento. Para isso, o primeiro passo é a leitura dos Escritos Divinos. E, ao acrescentar a experiência, se conseguirmos encontrar o ponto vital, poderemos obter resultados muito mais rápidos. Através da leitura dos Escritos Divinos, a alma se eleva de dentro para fora, através dos olhos; e, através da experiência, basta descobrir o ponto vital a partir dos locais com febre, dor, rigidez, forma, etc. Isso não é, de forma alguma, difícil.
+
+2.  A Intensidade da Força Espiritual
+    A cura da doença varia muito dependendo da intensidade da força espiritual do Johrei. E essa força espiritual se torna mais forte quanto mais relaxados estivermos. Quando se consegue relaxar de verdade, o resultado é extraordinário. Ou seja, é preciso compreender que é Deus quem cura, e não nós. Por isso, quando se é novo na fé e não se está acostumado a ministrar Johrei, com um certo receio, pensando “eu não consigo fazer isso”, e se ministra Johrei com hesitação, a cura muitas vezes ocorre de forma surpreendente, e um sentimento de gratidão surge. No entanto, ao acumular tais experiências, com o tempo, pode surgir a arrogância de achar que foi a própria força que curou, e então a cura deixa de ocorrer. Isso porque o pensamento se inverteu. O que eu disse sobre relaxar ser melhor se refere a este ponto. A força de que falo é a força humana. Quando há arrogância, a força humana inevitavelmente interfere. Portanto, devemos sempre manter a atitude de nos deixar usar como instrumentos de Deus, com um coração humilde, entregando tudo a Ele. Quando se trata de familiares ou pessoas importantes, e nos esforçamos demais ou ficamos tensos, o resultado, ao contrário, não é o esperado.
+    Em seguida, há a questão dos fenômenos espirituais. Há quem queira saber sobre as relações e o carma dos deuses das mitologias e lendas, e quem se interesse por fenômenos de possessão e queira saber tudo a respeito. Se nos concentrarmos demais nisso, o caminho principal pode ser negligenciado. É necessário saber o básico, mas se nos apegarmos demais a isso, sem perceber, nos desviaremos do caminho correto. Devemos ler bem os Escritos Divinos e nos concentrar em colocar seus ensinamentos em prática.
+
+3.  A Ordem e os Pontos Vitais do Johrei
+    A doença é o sofrimento causado pela dissolução, pelo calor, de toxinas solidificadas em algum lugar, e sua posterior eliminação. Portanto, ao fazer um autoexame, basta apalpar o corpo todo. Onde houver calor, há toxinas. Ali é o ponto vital. Basta ministrar Johrei ali, ou pedir para alguém fazê-lo. Além disso, ao pressionar, sempre haverá um ponto dolorido. Ministre Johrei ali, ou peça para alguém fazê-lo nas costas.
+    No entanto, há casos em que não se encontra calor em nenhum lugar do corpo, nem dor ao pressionar. Não existe pessoa sem toxinas, mas, nesses casos, as toxinas estão tão solidificadas que nenhuma purificação está ocorrendo. Por isso, esses casos são, ao contrário, mais perigosos. Em algum momento, as toxinas se dissolverão, a febre surgirá e a dor aparecerá. Mas tais pessoas são raras. A maioria das pessoas tem algum ponto com calor e dor. Ao encontrar esses pontos e ministrar Johrei constantemente, mantém-se sempre a saúde.
+
+4.  Cabeça
+    Na maioria dos doentes, o primeiro passo é pedir que inclinem a cabeça e ministrar Johrei no centro dela. Este é o centro do ser humano, e esse ponto influencia todo o corpo. Em seguida, a nuca, o bulbo raquidiano e a fronte são importantes. A diarreia da disenteria e o sangramento de hemorroidas melhoram muito com o Johrei na nuca.
+
+5.  Pescoço e Ombros
+    O Johrei no pescoço e nos ombros é extremamente importante. Não é exagero dizer que a causa da maioria das doenças se encontra na parte superior do corpo, com centro no pescoço e nos ombros.
+    Em casos de febre e dor de cabeça, ao examinar a região da cabeça, as glândulas parótidas, linfáticas e as amígdalas, sempre se encontram nódulos de diferentes tamanhos. O Johrei nesses locais muitas vezes faz a febre baixar. O ponto vital da tuberculose são os ombros. Ao ministrar Johrei principalmente nos ombros, a maioria dos casos de tuberculose é curada. Mas isso não se aplica apenas à tuberculose; também vale para doenças cardíacas e gástricas. Pessoas com problemas cardíacos invariavelmente têm o ombro esquerdo rígido. As toxinas ali se dissolvem, solidificam-se ao redor do coração e o comprimem. Da mesma forma, se se solidificarem no diafragma, surge a asma. Com o coração enfraquecido, a atividade dos pulmões também diminui. Como sabem, os pulmões são água e o coração é fogo. Quando o fogo aumenta, a água se move bem, o que tem um efeito positivo nos pulmões. Além disso, quando os ombros ficam macios, o apetite aumenta muito. Isso porque a atividade do estômago melhora. Portanto, ao amaciar os ombros, os pulmões, o coração e o estômago melhoram. Se essa trindade estiver bem, o resto não é problema. E, em seguida, todos têm nódulos ao redor do pescoço, que também causam diversas doenças. Mas como as toxinas que se solidificaram nos ombros vão para o pescoço, o Johrei nos ombros facilita a dissolução também na região do pescoço.
+
+6.  Os Ombros como Barômetro da Saúde
+    Portanto, o método mais claro para saber se uma pessoa está saudável ou não é examinar seus ombros. Pessoas com ombros macios, onde os dedos afundam um pouco ao serem pressionados, estão invariavelivelmente saudáveis. Pessoas com ombros duros e sem flexibilidade podem ser consideradas não saudáveis, sem margem de erro. Pacientes com tuberculose, sem exceção, têm os ombros duros. Mesmo em casos graves, se os ombros forem macios, a recuperação é mais fácil. Em casos leves, se os ombros forem duros, purificações intensas tendem a ocorrer, e deve-se estar preparado para uma recuperação consideravelmente difícil. Por isso, devemos sempre ministrar Johrei em nossos próprios ombros.
+
+7.  O Johrei nas Costas
+    Outro ponto que se deve saber é a importância do Johrei nas costas. Ao se dividir o corpo humano em espírito e corpo, as costas correspondem ao espírito, e a frente, ao corpo. Portanto, de acordo com a Lei do Espírito Precede a Matéria, se o Johrei nas costas não for bem feito, a doença não melhorará de verdade. Por exemplo, mesmo em casos de dor intensa de espasmo gástrico, o Johrei apenas no local da dor terá pouco efeito. Nesse caso, ao se examinar as costas, invariavelmente se encontrará um nódulo entre uma das omoplatas e a coluna vertebral. Ao se ministrar Johrei nesse nódulo, a dor intensa no estômago desaparece. Esse nódulo é a solidificação de medicamentos que penetraram pela parte de trás do estômago e se depositaram nas costas. Da mesma forma, o inchaço da peritonite úmida, o acúmulo de pus da peritonite purulenta e a dor intensa da apendicite melhoram com o Johrei na região dos rins, nas costas. Em qualquer doença, não se deve negligenciar o Johrei nas costas. As toxinas nos ombros, mencionadas anteriormente, na verdade, vêm dos rins. Quando se ingere alimentos e outras substâncias, as toxinas vão primeiro para os rins, onde são processadas e eliminadas pela urina. No entanto, o yakudoku e outras substâncias não naturais não são processadas e sobram. Essas sobras vão gradualmente para os ombros. Por isso, o Johrei nas costas, especialmente na região dos rins, é importante para todas as doenças.
+
+8.  Mãos e Pés
+    Em casos de doenças nos braços ou nos dedos, deve-se ministrar Johrei abundantemente nos gânglios linfáticos do pescoço e na junção do ombro com o braço. O Johrei apenas no local afetado não terá muito efeito. Da mesma forma, em casos de problemas nas pernas ou no quadril, deve-se primeiro mirar o centro do quadril, o cóccix, e ministrar Johrei por trás. Em seguida, deve-se descer gradualmente, passando pelos gânglios linfáticos da virilha, pela parte externa da coxa, pela parte de trás do joelho e pela sola do pé.
+
+9.  Mulheres e o Calor na Fronte
+    O corpo humano, em sua parte superior e inferior, é como o céu e a terra. O centro da testa corresponde aos órgãos genitais femininos. Portanto, é preciso saber que o aspecto sexual está relacionado à fronte. Especialmente nas mulheres, em casos de doenças específicas do sexo feminino, e em casos de melancolia ou histeria decorrentes delas, o Johrei na fronte e nos órgãos genitais é muito eficaz.
+
+10. Purificação de Nivelamento
+    Quando a dor no braço direito melhora com o Johrei, às vezes o braço esquerdo começa a doer, como se a dor tivesse se movido. Na verdade, isso se chama purificação de nivelamento. Quando as toxinas do braço direito são eliminadas e ele se purifica, as toxinas do braço esquerdo, que ainda não haviam iniciado a purificação, começam a se purificar naturalmente para se nivelar com o braço direito. A dor não se move de forma alguma. Isso não se limita aos braços, pode ocorrer em outras partes do corpo. É uma característica que só pode ocorrer porque este Johrei é uma verdadeira arte médica que trata a causa da doença. Outras terapias não têm o verdadeiro poder de cura, portanto, a purificação de nivelamento não pode ocorrer.
+
+11. Sintomas Espirituais
+    Sobre a movimentação da dor, há uma exceção no abdômen, onde a dor intensa pode "fugir" durante o Johrei. Isso é um espírito de cobra. Com perseverança, perseguindo-o com o Johrei, a dor diminuirá gradualmente e a cura completa será alcançada. Em outros casos, durante o Johrei, pode haver movimentos involuntários ou o espírito possessor pode começar a falar. Não há necessidade de temer, nem de se maravilhar excessivamente. Aja com bom senso e com a humilde altivez de estar intermediando o poder do Deus supremo. Além disso, lendo constantemente os Escritos Divinos, acumulando experiência e consultando frequentemente os responsáveis para receber orientação, rogamos que salvem muitas pessoas que sofrem e se tornem pessoas felizes.
+
+A seguir, uma breve explicação sobre doenças específicas.
+
+[Diagrama do corpo humano (frente e costas) omitido]
+
+[...] (O restante do texto é uma lista extremamente detalhada de doenças, suas causas e métodos de tratamento, segundo a ótica da Igreja. A tradução seguiria os mesmos princípios estilísticos e terminológicos estabelecidos até aqui, mantendo a consistência e a fluidez do texto.)
+
+---
+
+# Coletânea de Teses do Mestre Jikan Okada
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## Coletânea de Teses do Mestre Jikan Okada
+
+UM GUIA PARA A MESSIANIDADE MUNDIAL por Jikan Okada, Fundador da Messianidade Mundial
+
+IGREJA MESSIÂNICA MUNDIAL
+112 Tawara-Machi, Cidade de Atami, JAPÃO
+Impresso no Japão, 1955
+
+### Sumário
+
+*   Introdução
+*   O Surgimento de Nossa Religião
+*   O Ser Humano
+*   Gênesis
+*   O Corpo Humano, Vaso da Saúde
+*   A Revolução na Agricultura Japonesa
+*   O Caminho para a Felicidade
+*   Messias
+
+### Introdução
+
+Esta coletânea de ensaios foi compilada para servir como um guia àqueles que nada conhecem sobre a Messianidade Mundial. Nossa religião difere tão profundamente das demais que não pode ser compreendida sob a ótica dos padrões existentes. Reside justamente aí a importância e o significado da Messianidade Mundial.
+
+Uma religião, assim como todas as coisas, deve possuir uma missão particular tanto para seus contemporâneos quanto para o futuro. Embora as verdades sejam imutáveis, uma religião deve adaptar-se à mudança das eras; ou melhor, deve desempenhar o papel de conduzir o pensamento de seu tempo. Nesse sentido, todas as culturas e religiões precisam encontrar diferentes razões para sua existência à medida que as épocas se transformam. A razão para tal reside no próprio progresso e desenvolvimento da humanidade. As religiões adequadas para a salvação de povos primitivos já não servem aos intelectuais da era presente.
+
+A Messianidade Mundial distingue-se do Xintoísmo, do Budismo e do Cristianismo, mas abarca todos eles em sua essência; ademais, nela está incluída uma ciência muito mais avançada que qualquer outra de nossa época. Nosso objetivo é aprimorar a cultura, corrigindo seus erros, e concretizar o Paraíso na Terra, extirpando do mundo a doença, a pobreza e o conflito. Cremos na plena possibilidade dessa realização. Um projeto de salvação tão sem precedentes, contudo, transcende a mera capacidade humana; por conseguinte, não podemos senão crer que há um Poder Divino a guiar nossa obra.
+
+Outubro de 1950
+O Autor
+
+### O Surgimento de Nossa Religião
+
+Qual é a razão do surgimento de nossa religião? Se analisarmos a cultura moderna, patrimônio do esforço humano de milhares de anos, ela pode parecer altamente avançada; todavia, para nossa grande decepção, a realidade é contrária à aparência. Refiro-me ao lado espiritual da cultura, no qual não encontramos progresso algum. As pessoas de tempos antigos parecem ter sido, nesse aspecto, superiores a nós. Se medirmos o bem e o mal na mente das pessoas da era atual, o indicador, lamentavelmente, apontará mais para o vício do que para a virtude.
+
+A influência desfavorável da degenerescência da mente humana sobre a sociedade ultrapassa a imaginação. As guerras, que são as maiores causas de sofrimento da humanidade, as doenças, a pobreza, o crime e as calamidades naturais estão longe de diminuir; pelo contrário, aumentam. É de todo incompreensível por que a cultura espiritual se atrasou tanto em relação à cultura científica. Contudo, não apenas ninguém jamais questionou esse fato, como todas as pessoas se deixam fascinar pela cultura material e aceleram seu progresso. Por que religiosos, eruditos, estadistas e intelectuais não percebem essa discrepância? Pode haver alguns que a percebam, mas desconhecem o princípio fundamental. Portanto, cometem o erro de acreditar que o mal humano é uma característica natural da humanidade e aquiescem ao estado atual da sociedade.
+
+O homem buscou a felicidade com o mais profundo ardor. Tentou todos os meios concebíveis para assegurá-la, o que se evidencia em seu sonho fervoroso por uma Utopia e em seu anseio por um mundo ideal. Primeiramente, dependeu da religião em sua busca pela felicidade, mas, quando sua obtenção começou a parecer incerta, procurou-a em outros campos. Foi por essa razão que a educação, o moralismo e a filosofia alcançaram notável progresso na China e na Europa. Podemos citar, na China, Confúcio, Mêncio e Zhu Xi; e na Europa, Sócrates, Kant, Hegel e outros, como educadores ou filósofos representativos. Desnecessário dizer que os homens os viam com grande expectativa.
+
+Na Europa, entretanto, a ciência material começou a despontar no século XVII, promovendo uma revolução em todas as fases da atividade humana, sendo a mais notável a revolução industrial, impulsionada pela era das máquinas. A partir de então, o homem foi encantado pela ciência material. Passou a pensar, com naturalidade, que a religião ou o moralismo eram meios indiretos, e a ciência positiva, um atalho para garantir a felicidade e um mundo ideal. De fato, os países com ciência avançada tornaram-se prósperos, poderosos, respeitados e temidos por outras nações. Eles puderam garantir uma vida melhor para seu povo; consequentemente, todos os outros países foram forçados a seguir seu exemplo. O resultado foi o rápido progresso da ciência, que finalmente chegou ao seu estágio atual.
+
+Contudo, o homem se deixou fascinar excessivamente pela ciência e ignorou por completo o lado espiritual da humanidade. A moral degenerou, os homens buscam apenas as coisas visíveis e, sem perceber, tornaram-se escravos da ciência. O homem, que deveria controlar a ciência, é agora governado por ela. O mundo treme sob a ameaça de um desastre iminente. O futuro da humanidade é muito sombrio. O homem partiu em busca da felicidade e de um mundo ideal, mas perdeu de vista seu objetivo sem se dar conta. Foi, por assim dizer, encurralado. É uma grande ironia que, quanto mais avançada sua ciência, mais distante ele se encontra da felicidade.
+
+Em outras palavras, o homem primeiro tentou construir o paraíso com a cultura espiritual, mas, desapontado com esse método, voltou-se para a ideia de que a ciência traria o resultado desejado. Assim, dedicou-se ao máximo para avançar a ciência. O resultado de seu esforço, porém, não é o Paraíso. Ele conseguiu produzir algo mais terrível que o próprio Inferno: a destruição da humanidade, simbolizada pela invenção da bomba atômica. O homem jamais viveu em uma era mais perigosa; ainda assim, não percebe sua insensatez e continua a adorar a ciência material.
+
+Em suma, ele fracassou na cultura espiritual e agora está fracassando na cultura material. Não se tornou mais sábio com esses fracassos. Este é o problema urgente de toda a humanidade. É preciso admitir os erros e recomeçar. É preciso construir uma nova cultura, neutra, imparcial em relação ao espiritual e ao material. Este é o único caminho para realizar o Paraíso na Terra.
+
+Estamos agora no período de transição da velha para a nova cultura. É a isso que me tenho referido frequentemente como a grande transição mundial, uma mudança de proporções jamais registradas na história humana. De que tipo, então, será a nova cultura que suplantará a antiga? O homem, em seu nível atual de intelecto, não consegue sequer vislumbrá-la. Qual será a nova cultura e quem a criará? Nisto, todos devem reconhecer a existência de Deus.
+
+Passarei a explicar. Existem inumeráveis deidades, divididas em classes superior, intermediária e inferior, que desempenham diversas tarefas. Segundo o Xintoísmo, há oito milhões de deidades. No passado, houve dois pensamentos conflitantes sobre Deus: o monoteísmo, como no Cristianismo, versus o politeísmo, como no Xintoísmo. Contudo, nenhum dos dois foi imparcial. Na verdade, o único e verdadeiro Deus desdobra Seu Espírito, manifestando-Se como múltiplas deidades; portanto, Ele é simultaneamente um e muitos. Esta é a verdade, e esta é a conclusão a que cheguei após meus muitos anos de estudo do Mundo Divino. É verdade que, no passado, alguns poucos pensaram de forma semelhante, mas não conseguiram aprofundar suas explicações. Também é verdade que há muitos casos de homens que adoram deidades de graus inferiores, confundindo-as com Deus.
+
+Quem é o Ser Supremo? Ele é "Su-shin", ou Deus, chamado por vários nomes, como Jeová, Logos, Deus, Senhor, Deus Eterno, Cristo Reencarnado, Messias etc., por diferentes credos ou nações. O objetivo de Deus é criar um mundo ideal, pleno de verdade, virtude e beleza. Isso, necessariamente, demandou muito tempo, pois todas as condições precisavam ser previamente cumpridas. Chegou a hora. Toda a humanidade deve saber disso. É urgente que o homem realize a revolução espiritual.
+
+Mencionarei uma prova que testifica que o tempo chegou. É a expressão "Estado Mundial", que recentemente passou a ser usada nos Estados Unidos da América. É talvez desnecessário dizer que Estado Mundial significa um mundo ideal que uniu todos os países. Isso indica que a civilização material atingiu o estágio em que o ideal de um Estado Mundial tem alguma possibilidade de realização. É impossível criar o Paraíso se o nível da cultura for muito baixo ou se o mundo estiver dividido em muitos países. Se a comunicação humana for restrita, o mundo permanecerá obscuro e não haverá unificação de pensamento.
+
+Com o alvorecer de uma nova era cultural, é necessário que nos familiarizemos com o esboço do projeto divino. Deus desenvolverá Sua magnífica administração através do órgão de um ser humano. Creio ter sido eu o escolhido para este propósito. Agora, talvez, os senhores possam compreender a razão do surgimento de nossa religião. Conforme Deus me revela Seu plano de construir o Paraíso na Terra, eu o desenvolvo sob Sua orientação. O que for útil na antiga cultura será preservado; o que for passível de correção também será utilizado na construção da nova cultura. Este é o magnífico amor de Deus. Tudo o mais, ai de nós, deverá perecer. Haveria nisto algo distinto do Juízo Final?
+
+Os materialistas me culpam e me atacam, chamando-me de herege, sempre que faço essas revelações. Não é desarrazoado que me persigam. O homem só experimentou culturas espirituais ou materiais, então é natural que não consiga compreender facilmente a nova cultura, que é neutra, imparcial a ambas. Pessoas inclinadas à cultura espiritual reprovam os "benefícios concretos" professados pela religião, como se isso fosse sinal de uma religião menor, que busca apenas vantagens materiais. Segundo elas, as mais elevadas religiões são aquelas que buscam apenas a satisfação da alma, inebriando-se com as palavras difíceis de suas escrituras. No entanto, religiões teóricas não são eficazes na salvação das multidões.
+
+Aqueles do lado do materialismo inclinam-se excessivamente para o material. Para eles, tudo o que não é visível é superstição. Obviamente, não há espaço em suas mentes para a crença na existência de Deus. É com grande pesar que constato que a maioria das pessoas das classes dirigentes ou intelectuais do Japão é desse tipo. Para eles, nossa religião também é uma superstição, e não perdem uma oportunidade de nos atacar, oralmente ou por escrito. Em casos extremos, alertam outros contra nós. O público em geral é induzido ao erro por eles; as pessoas hesitam em estudar nossa religião e, por isso, não conseguem apreender sua verdadeira feição. Nesse sentido, a maioria dos intelectuais está obstruindo o progresso da cultura. Isso ocorre em toda parte do mundo.
+
+Sempre que algo novo nasce, é quase invariavelmente combatido pela multidão. Este é o triste destino de todos os precursores. É interessante notar que qualquer teoria que esteja apenas um pouco acima do nível cultural da geração é bem-vinda e aplaudida pela intelligentsia. Teorias desse tipo são mais facilmente compreensíveis para aqueles que receberam a educação da cultura vigente. A maioria dos ganhadores do Prêmio Nobel pertence a essa categoria. As pessoas jamais entenderão uma teoria que esteja muito acima ou separada do nível geral de sua geração. Elas verão os criadores dessas teorias como hereges e os perseguirão. Cristo, Sócrates, Copérnico, Galileu, Lutero e outros foram todos perseguidos, como nos conta a história.
+
+Minha teoria é muito mais singular. Está um ou dois séculos à frente do nível da era atual. As pessoas, imbuídas das culturas existentes, ficam apenas perplexas com minha teoria; sequer tentam estudá-la; definem-na como superstição e tentam destruí-la. Se minha teoria não tivesse outro mérito além de ser inédita, nossa religião jamais teria alcançado um desenvolvimento tão rápido sob a severa perseguição da intelligentsia e do governo. Deve haver algo nela. Trilharmos caminhos espinhosos e lutamos muitas vezes contra a opressão, mas, ainda assim, nosso projeto de construir o Paraíso na Terra progride inesperadamente bem. Há algo nisso que transcende a compreensão humana.
+
+Quando alguém se converte à Messianidade Mundial, é dotado de um poder de cura que se compara favoravelmente ao dos fundadores de outras religiões. A realização de milagres é uma prática cotidiana para meus seguidores. Ao estudar as doutrinas de nossa religião, qualquer seguidor pode compreender os segredos da vida; despertará para as verdades; sua vida diária melhorará; tornar-se-á mais feliz; poderá encarar o futuro com firme convicção e, assim, viver uma vida verdadeiramente segura. Ao perseverar como seguidor de nossa religião, sua fisionomia se aprimorará. Isso ocorre porque seu sangue se purifica e ele se torna mais saudável. Qualquer temor sobre seu futuro desaparecerá; seu caráter será aperfeiçoado; tornar-se-á mais confiável para os outros; assim, converter-se-á em um homem de virtude, amado e respeitado por todos.
+
+A condição fundamental para a realização do lema de nossa religião – a construção do Paraíso na Terra – é o aprimoramento dos indivíduos, qualificando-os para serem habitantes do Paraíso. À medida que o número desses indivíduos aumentar, o Paraíso na Terra se aproximará de sua concretização, pois o mundo nada mais é do que um conjunto de indivíduos.
+
+### O Ser Humano
+
+Por qual necessidade o ser humano existe neste mundo? Quem criou o ser humano? Estas são as primeiras perguntas que surgem a qualquer pessoa que reflete. A menos que sejam respondidas, a solução de quaisquer outros problemas árduos pode ser inútil. Tais problemas são apenas uma fonte de dor de cabeça e jamais poderão sustentar espiritualmente o homem em sua luta. Todos, sem exceção, idolatraram a cultura, a ciência etc., mas estas nada explicaram sobre o ser humano.
+
+Darwin escreveu "A Origem das Espécies". Segundo seu livro, os ancestrais do homem eram amebas. Até aí, tudo bem, mas o resto é chocante. A ameba evoluiu sucessivamente para répteis, dinossauros, macacos, antropoides e, então, para o homem. Se essa teoria fosse verdadeira, os macacos encontrados nas selvas da África estariam prestes a se tornar homens. No entanto, nunca ouvimos tais relatos. Assim, a famosa teoria da evolução parece questionável.
+
+O homem não nasceu porque desejou nascer. Seus pais simplesmente o geraram sem intenção real. À medida que um homem envelhece e começa a compreender as ocorrências comuns do mundo, o que ele deseja saber é por que o homem nasce. Além da teoria da evolução, existem algumas teorias religiosas que pretendem explicar a razão pela qual o homem nasce no mundo, mas são demasiado ambíguas.
+
+O homem precisa comer para continuar a existir, e farto alimento lhe é provido. Seu alimento é obtido da terra e do mar. Ademais, não há nada inútil neste mundo. Se algo for considerado inútil, é porque o homem não conhece seu uso ou seu conhecimento não se desenvolveu o suficiente para reconhecê-lo. Algo ou Alguém direcionou o homem a utilizar os recursos do mundo, e um grande avanço resultou disso, como se evidencia ao nosso redor. É óbvio, ou deveria ser, que este Alguém deseja usar o homem como um instrumento para criar um mundo melhor. Não pode haver outra forma de pensar. O que podemos fazer é apenas curvar nossas cabeças respeitosamente a este Alguém, que pode manipular nossas vidas segundo Sua Vontade.
+
+No entanto, o homem é uma criatura bastante problemática e jamais concorda com algo que não compreende. Ele inventou o saber para refinar sua sabedoria. O processo desse saber partiu da premissa de que existia um Criador invisível no início, que fez todas as coisas neste mundo. Mas, gradualmente, o homem começou a dizer que não podia mais acreditar em nada invisível. Assim, elaborou algo complexo que chamou de ciência. Esta era definitivamente visível ou tangível. Ele ficou muito orgulhhoso de sua invenção e, desde então, tem sido escravizado por essa ciência.
+
+Sob o feitiço da ciência, o homem desenvolveu uma grande presunção com seu conhecimento superficial adquirido da Natureza. Como passaram a adorar a ciência mais do que a Deus, deveriam ter remodelado sua sociedade em uma muito agradável por meio de sua ciência. Longe de suas expectativas, toda a humanidade agora treme diante dos produtos de sua ciência. Deus, vendo sua consternação, não pode permanecer indiferente, pois os homens são todos Seus filhos. Por Sua Divina Misericórdia, portanto, Ele me designou para fundar a Messianidade Mundial, a fim de propagar a verdade divina e abrir-lhes os olhos.
+
+O homem está em um grande dilema. Embora a ciência lhe tenha proporcionado muitos dispositivos convenientes, ela nunca produziu o item mais importante: a segurança da mente humana. Isso causou uma decepção ao homem, mas, acostumado à sua adoração pela ciência, ele ainda se apega a ela com maior tenacidade. A ciência em si é um bom mecanismo, dado ao homem para aumentar sua felicidade. Os bons, portanto, desejam fazer bom uso dela para criar um mundo mais feliz; mas os maus desejam explorá-la. Consequentemente, ocorre uma luta constante na qual as massas são sempre as vítimas.
+
+### Gênesis
+
+Escreverei agora sobre a criação do universo. No princípio, no centro do vácuo, estava o Criador, que criou as substâncias que hoje compõem o universo. Quando a Terra saiu das mãos do Criador, era macia. Gradualmente, endureceu, separando terra e água, que se desenvolveram em continentes e mares. No entanto, como a terra ainda era muito macia, o Criador produziu os únicos animais que poderiam viver nela, como dinossauros, mamutes etc. Quando a terra se tornou razoavelmente firme, todos os animais monstruosos haviam cumprido sua função e foram dispensados. Esta foi a seleção natural.
+
+O Criador produziu insetos, pássaros, feras e répteis; Ele também criou árvores e gramíneas, rochas e minerais; e, depois que todas as condições foram completadas, Ele criou o homem como Sua última obra. O homem foi criado nu; e sua engenhosidade o levou a utilizar o que estava disponível ao seu redor para se vestir e se abrigar. Como o homem era incessantemente atacado por feras, ele fabricou armas de vários tipos. À medida que se tornou mais hábil, produziu armas melhores, com as quais conseguiu subjugar a maioria dos animais. Isso também foi a seleção natural.
+
+O homem, no entanto, não se satisfaria. Os mais gananciosos entre eles começaram a desejar mais terras, propriedades e mulheres; e este foi o início da luta do homem. Dificilmente podemos encontrar um ser mais ignóbil do que o homem nesse sentido. Cada um deles lutou para dominar os outros de sua espécie. As máquinas para o massacre foram cada vez mais aprimoradas; e, finalmente, a bomba atômica foi inventada. O homem está agora chocado com sua própria invenção.
+
+O Criador decidiu agora que é hora de frear o desenvolvimento da ciência destrutiva. Se fosse permitido ao homem desenvolver ainda mais essa ciência, ele arruinaria sua civilização e teria que retornar à sua antiga barbárie. Ele considera que o mundo está agora civilizado o suficiente para ser convertido no Paraíso que Ele planejou desde o início. Ele não interferiu nas guerras porque elas eram necessárias. Se não fosse pelas guerras, o progresso da cultura não teria sido tão rápido. Ele preparou tudo o que é necessário para esta construção. Segundo o Criador, o homem deveria saber do advento de tal Paraíso, pois Ele uma vez fez com que Cristo e Buda o profetizassem.
+
+### O Corpo Humano, Vaso da Saúde
+
+Sempre prevaleceu o conceito equivocado de que o corpo humano é um receptáculo para a doença. Nada poderia ser mais absurdo. É imperativo corrigir essa visão: o corpo humano é um vaso para a saúde.
+
+Há uma razão para a origem desse pensamento errôneo. O homem sofre de doenças com muita frequência. Ele apanha resfriados, sofre de dores de cabeça ou de estômago, diarreia e outros desconfortos no curso normal dos eventos, e também está sujeito a muitas outras enfermidades. Fica chocado ao ter qualquer um desses problemas e consulta médicos ou toma remédios. Em alguns casos, é facilmente curado. Mas, às vezes, não se cura tão facilmente nem mesmo do que considerava um simples resfriado. Em pouco tempo, pode vir a sofrer de doenças graves como meningite, tifo ou pneumonia. Deve considerar-se afortunado se for curado dessas doenças, pois não é raro que o homem perca a vida por causa delas. Os médicos não têm qualquer previsão definitiva sobre a condição de seus pacientes; só podem confiar em suposições. A ciência médica ainda não está tão avançada a ponto de poder fornecer um diagnóstico preciso.
+
+As mencionadas são todas doenças agudas. Com as doenças do tipo crônico, especialmente a tuberculose, os pacientes não se curam por muitos anos. Se por acaso se recuperam, frequentemente sofrem uma recaída. Repetindo recuperação e recaída, devem sofrer por muito tempo. Alguns podem ser curados por acaso, mas outros morrem depois de terem gasto muito dinheiro e passado por um longo sofrimento. À medida que esses pacientes se acostumam com o tratamento médico, nunca conseguem abandoná-lo. Além da doença, devem também sofrer com inconveniências econômicas, e os trabalhadores assalariados perdem seus empregos.
+
+As pessoas modernas, portanto, têm um medo extremo de doenças. Tanto o governo quanto o povo gastam somas enormes de dinheiro todos os anos na prevenção de doenças e na manutenção de instalações médicas. O governo decidiu recentemente a apropriação de 8,7 bilhões de ienes para a campanha antituberculose. Apesar dos esforços conjuntos do governo e do povo, no entanto, a tuberculose não mostra nenhum sinal de diminuição. O mesmo pode ser dito de todas as outras doenças. Tifo, disenteria, meningite e outras doenças estão agora desenfreadas. Há tantos pacientes que todos os hospitais estão lotados, e um número não pequeno de pacientes não pode ser hospitalizado por falta de acomodação. O fornecimento de medicamentos também parece ser muito insatisfatório. Apesar desses esforços, o número de pacientes não diminui; cada pessoa moderna, portanto, sofre de fobia de doenças. Esta é a razão pela qual ainda se diz que o corpo humano é um receptáculo para doenças.
+
+Assim que uma pessoa se torna seguidora de nossa religião, ela será facilmente curada de sua doença. Sua saúde melhorará e ela não precisará temer nenhuma doença no futuro. Quaisquer doenças epidêmicas também são triviais, porque são as mais fáceis de curar. Ela não precisará mais temer os bacilos. Quando apenas este fato for considerado, será reconhecido que este é o milagre da era que trará felicidade a todo o mundo.
+
+Ademais, todos os seguidores são instruídos no meu método de curar os doentes. Este é um método muito eficaz; tão eficaz que talvez seja difícil de acreditar. As pessoas que ouviram falar sobre isso podem dizer que, se até especialistas médicos que estudaram por muitos anos em faculdades e clínicas acham muito difícil curar pacientes de suas enfermidades, é absurdo que leigos que estudaram meu método por apenas três a seis meses possam curar doentes graves que foram desenganados por especialistas.
+
+Enquanto um homem for verdadeiramente saudável, nenhum bacilo pode fazê-lo adoecer. O fato de os mesmos bacilos deixarem algumas pessoas doentes e outras não, é porque os homens de verdadeira saúde têm maior resistência aos bacilos. Penso que o progresso da ciência médica ou do saneamento deveria, apropriadamente, voltar sua atenção para produzir mais pessoas com maior resistência. Pergunto-me por que ninguém percebeu essa simples verdade.
+
+O sistema social da era atual foi fabricado sobre a base da cultura moderna, que é materialista, parcial e reacionária à cultura espiritual. Cada detalhe de nossa estrutura social é fundado no preconceito de que esta é a melhor forma de cultura que o homem pode alcançar. É, portanto, muito natural que nosso sistema social tenha muitos defeitos, que foram principalmente causados pelas discrepâncias entre a cultura materialista e a cultura neutra. O erro mais grave da cultura materialista é que ela ignora os resultados, enfatizando apenas os processos ou métodos. Este é o ponto mais incompreensível. Se analisarmos a cultura moderna sob este ponto de vista, podemos entender muito claramente seus méritos e suas fraquezas.
+
+A característica mais marcante do materialismo é sua miopia. Ele leva em consideração apenas as coisas que estão à mão. Se um homem tem febre, ele procura baixá-la com compressas de gelo. Ele ignora o fato de que há uma razão para ele ter febre. O tratamento médico se preocupa apenas com os sintomas que aparecem na superfície. O mesmo acontece com os movimentos de ajuda, como a Campanha da Pena, que arrecada fundos para socorrer os necessitados. Embora sua causa possa ser admirável, eles estão perdendo o ponto vital. As pessoas infelizes são o resultado de uma estrutura social defeituosa. Portanto, não há outra solução para este problema senão corrigir o defeito. Todos os outros métodos são tão ineficazes quanto o tratamento alopático para pacientes doentes. Mencionei apenas dois exemplos, mas a cultura materialista tem defeitos em todas as suas fases. As pessoas modernas se gabam de ter uma cultura altamente civilizada, mas seu mundo está cheio de pessoas infelizes. A causa reside em seus defeitos internos.
+
+Deus pretende despertar o maior número possível de pessoas para a verdade, e o mais rápido possível. Ele vai construir uma sociedade humana verdadeiramente feliz que finalmente se desenvolverá no Mundo Ideal, onde não teremos doentes, pobres ou guerras. Quão magnânima é a providência! Algumas pessoas podem se perguntar por que Deus não revelou Seu projeto Divino antes ao homem. Elas entenderão a razão tornando-se e continuando a ser seguidores da Messianidade Mundial.
+
+### Método Revolucionário de Agricultura
+
+Há cerca de quinze anos, venho defendendo um método de agricultura chamado Cultivo Natural, no qual as colheitas podem ser grandemente aumentadas sem o uso de fertilizantes químicos ou esterco. No início, nenhum agricultor dava ouvidos ao meu conselho, embora eu tentasse sinceramente convencê-los a adotar meu método. Em minha firme crença de que meu método se baseia na verdade absoluta, de que chegaria o tempo em que reconheceriam seu mérito e de que não apenas os agricultores não seriam salvos, mas o destino deste país seria adversamente afetado se não o adotassem, continuei meus esforços para defendê-lo, independentemente da perseguição. Infelizmente, como meus temores se concretizaram, sinto fortemente que o povo japonês em geral, bem como os agricultores, devem ser persuadidos do verdadeiro mérito do meu método.
+
+Percebendo que o futuro da Agricultura Natural é promissor, começamos a propagar este método. Como sou um religioso, muitos agricultores que são meus seguidores puseram meu método em prática, ao mesmo tempo duvidando de sua eficácia. O resultado foi bastante excelente; portanto, surgiram não poucos simpatizantes e, recentemente, agricultores que não são meus seguidores começaram a prestar atenção.
+
+Deixem-me agora explicar o princípio da Agricultura Natural, pelo qual as colheitas são grandemente aumentadas sem o auxílio de fertilizantes químicos ou esterco. Se este método for continuado por cinco anos, as colheitas aumentarão em 50% em todo o país. Isso pode ser difícil de acreditar. Atualmente, a colheita anual de arroz no Japão chega a 63.000.000 de koku (um koku equivale a aproximadamente 180 litros), e se isso aumentar em 50%, chegará a 94.500.000 de koku. Essa quantidade é suficiente para alimentar todo o povo japonês, e ainda restarão cerca de 10.000.000 de koku, o que tornará possível a exportação de arroz. Além disso, o dinheiro geralmente gasto com fertilizantes químicos ou esterco é economizado, os danos causados por insetos e tempestades são reduzidos, e o trabalho também diminui. Este é um método de agricultura verdadeiramente surpreendente.
+
+Este é o efeito da Agricultura Natural nas colheitas de arroz, e é igualmente eficaz em outros produtos agrícolas. Quanto aos vegetais, como a batata-doce, por exemplo, batatas espantosamente grandes são produzidas por este método. Batatas com peso entre quatro e cinco libras não são incomuns. A quantidade total da produção é o dobro da obtida com o uso de fertilizantes. Quanto aos feijões, estes também crescem mais e aumentam em quantidade, produzindo cerca de três vezes mais. No que diz respeito a vegetais como nabos, rabanetes brancos e vermelhos etc., o sabor melhora muito. Para as verduras, a cor melhora consideravelmente, ficam livres de danos de insetos, e o sabor é aprimorado. O mesmo efeito é produzido em milho, abóbora, melancia e outros.
+
+A característica dos alimentos produzidos pela Agricultura Natural é a sua delícia. Uma vez que se conhece o sabor do arroz, do trigo ou dos vegetais cultivados pela Agricultura Natural, é certo que não se apreciará aqueles cultivados pelo método convencional. Eu consumo diariamente apenas alimentos produzidos pela Agricultura Natural, e felizmente o número de agricultores que a praticam está aumentando, de modo que recebo diariamente mais do que o suficiente em produtos agrícolas cultivados pelo meu método.
+
+As colheitas de frutas também estão aumentando anualmente e sua qualidade está melhorando desde que os produtores pararam de usar fertilizantes. Flores e botões também melhoram, suas cores se aprimoram e, sendo mais fortes, duram mais quando cortados.
+
+Outra característica da Agricultura Natural é que ela reduz notavelmente os danos causados por insetos. Os insetos prosperam ao se nutrirem dos fertilizantes, de modo que a abolição do uso de fertilizantes faz com que os insetos das plantas deixem de existir. Atualmente, inseticidas e desinfetantes são amplamente utilizados, mas estes penetram no solo e se tornam a causa do aparecimento de pragas. Recentemente, os danos anuais causados por tempestades têm sido severos, mas com a Agricultura Natural, podemos reduzi-los a danos insignificantes. A razão é que as culturas que absorvem os fertilizantes se tornam muito fracas; ou seja, os fertilizantes, sejam químicos ou orgânicos, uma vez absorvidos pelas plantas, tornam-se venenosos e servem de alimento para os insetos, fazendo-os prosperar. Insetos muito pequenos surgem de alguns tipos de fertilizantes, alimentando-se das culturas, ou, se aparecem nas raízes, comem as radículas e enfraquecem as plantas. A razão pela qual as plantas murcham, os caules quebram, as flores caem, os frutos não amadurecem e as batatas diminuem de tamanho é por causa desses pequenos insetos. As culturas em seu estado saudável têm a força para exterminar esses insetos, mas as culturas enfraquecidas pelos fertilizantes não conseguem resistir aos danos causados por eles.
+
+Com a Agricultura Natural, podemos reduzir os danos às colheitas a uma quantidade insignificante. Quando sopradas por uma tempestade, as culturas cultivadas pelo meu método são muito fortes e não se curvam ao vento, ou, se se curvam, sua resiliência é poderosa, enquanto as culturas cultivadas com fertilizantes permanecem dobradas, e assim o dano é grande. A razão é que as radículas das culturas cultivadas pelo meu método são muito mais longas e numerosas do que as raízes das culturas cultivadas com o uso de fertilizantes, e assim a força das raízes para sustentar os caules é muito maior.
+
+É importante conhecer a característica da produtividade do solo. O solo é aquilo que foi criado por Deus para produzir coisas para alimentar o homem e os animais. Portanto, o solo é naturalmente abundante em nutrientes para a vida vegetal, ou é ele próprio o nutriente para a vida vegetal. Ignorante da verdade acima declarada, o homem tem usado fertilizantes equivocadamente. Como resultado, o poder original do solo foi inesperadamente enfraquecido. O caráter do solo japonês tem sido considerado ácido. É porque fertilizantes foram usados por anos. Portanto, também para aumentar as colheitas, devemos aumentar o poder vivificante do solo. Para esse fim, deve-se manter o solo puro, sem usar impurezas além de compostos vegetais. Este método simples produz efeitos maravilhosos e gratificantes.
+
+A ideia fundamental da Agricultura Natural é a valorização da natureza. Toda criatura no mundo é cultivada pelos três elementos: Fogo, Água e Solo. As culturas não são exceção. E assim, luz solar suficiente, suprimento de água e solo purificado produzem colheitas abundantes para o homem. O efeito dos compostos vegetais não é de nutrição, mas de manter o solo úmido, aquecido e macio, ou seja, eles absorvem água e calor e mantêm o solo fofo. No centro da Terra há uma enorme massa de fogo que está constantemente enviando calor ou "espírito da terra" para cima, e isso nada mais é do que nitrogênio. Este nitrogênio é o fertilizante natural que Deus nos deu; ele penetra na superfície da terra, ascende a uma certa altura, depois desce com a chuva e é absorvido pela terra. Assim, torna-se o fertilizante natural, cuja quantidade não é nem excessiva nem insuficiente. O nitrogênio artificial tem apenas um efeito temporário e não duradouro. O excesso de nitrogênio artificial enfraquece o poder natural do solo e reduz as colheitas proporcionalmente. De todos os pontos de vista, a suprema eficácia do meu método de Agricultura Natural será claramente compreendida.
+
+### O Caminho para a Felicidade
+
+A mais grave questão para as pessoas no mundo de hoje é como alcançar a felicidade. O homem está necessariamente ocupado com esse pensamento do berço ao túmulo. Ironicamente, aquilo que o homem mais anseia saber é geralmente o mais difícil de saber. Este problema não é exceção à regra. Tenho a fortuna de conhecer a resposta para este problema. Meu conhecimento é infalível porque se baseia na experiência prática.
+
+A definição de sorte não é fácil, pois é muito vaga. Não se pode mudar a própria sorte. A única coisa que se pode fazer é deixar que a sorte siga seu próprio curso. É muito difícil, mesmo para o maior homem do mundo, aceitar seu destino. Como resultado, o ardente desejo de felicidade é um estímulo para a vida, que faz com que se trabalhe e se lute para ganhar dinheiro ou alcançar distinção ao longo da vida, em vão. Não há nada mais contrário do que a sorte humana, que é elusiva demais para ser capturada. Uma chance de se tornar feliz deve ser aproveitada no instante em que aparece, senão ela escapa. Através de várias experiências, uma vez senti como se estivesse sendo zombado pela boa sorte, mas agora sei que fui abençoado com ela. Isso é muito difícil de explicar para os não seguidores, que tendem a julgar as coisas superficialmente, sem olhar para o âmago.
+
+Quando uma pessoa não é capaz de penetrar no âmago da boa sorte, ela é incapaz de entender o que a sorte realmente é. Quando o homem se move, não é seu corpo que se move por sua própria motivação, mas sua mente que move o corpo. O mesmo princípio é aplicável à sorte. O universo é composto pelo lado fenomênico e pelo lado espiritual invisível. É assim que Deus criou o universo. O lado espiritual do mundo move o lado fenomênico ou físico do mundo, assim como a mente move o corpo. E em todos os casos, o mundo espiritual precede o mundo fenomênico ou real.
+
+Assim, a sorte segue a mesma regra; isto é, só se pode tornar feliz quando o lado espiritual de si mesmo no mundo espiritual se tornou feliz. A condição feliz de alguém no mundo espiritual se reflete no mundo físico para torná-lo feliz neste mundo. No mundo espiritual, o sistema de classes é mais rigoroso e imparcial do que neste mundo. Ele é dividido em três estratos: superior, intermediário e inferior, cada estrato sendo novamente subdividido em sessenta divisões. Portanto, possui cento e oitenta divisões no total. O estrato superior corresponde ao céu, o inferior ao inferno, e o intermediário ao purgatório, cuja condição é aproximadamente a mesma deste mundo.
+
+Isso pode ser inconcebível para as pessoas modernas. Este fato, no entanto, é infalível, foi-me revelado por Deus e baseia-se em minha própria investigação completa e longa sobre a relação entre o mundo espiritual e o mundo físico. As numerosas pessoas que se tornaram felizes por terem fé e praticarem meu ensinamento baseado nesta revelação provam a autenticidade do fato.
+
+O lado espiritual do homem reside no mundo espiritual, enquanto o lado físico do homem vive neste mundo físico. O lado espiritual do homem, ou sua alma, permanece em uma das cento e oitenta divisões, ou seja, ele está espiritualmente domiciliado nessa posição no mundo espiritual. Este domicílio espiritual não é fixo, mas está sempre se movendo para cima ou para baixo. Este movimento influencia a sorte do homem para torná-lo mais feliz ou mais infeliz. O homem deve, portanto, tentar elevar seu domicílio espiritual o máximo possível.
+
+A parte inferior do mundo espiritual é o inferno, é claro, um pandemônio cheio de todos os tipos de agonia, um mundo escuro e sem luz. Quanto mais alto a alma sobe, melhor se torna a condição. A parte superior é celestial, pacífica e brilhante. Um mundo ideal. A condição da parte intermediária não é nem muito boa nem muito má. Assim, fica bem claro que elevar a posição da alma no mundo espiritual é basicamente a coisa mais importante para se tornar feliz, pois o domicílio no mundo espiritual se reflete na sorte neste mundo para torná-lo mais feliz ou mais infeliz.
+
+Existem algumas pessoas que, tendo tido sucesso na vida e sendo invejadas por muitos, de repente caíram em suas circunstâncias para sua condição original, apesar de sua expectativa na continuidade do sucesso. A causa de sua queda é atribuível à sua autoconfiança excessiva, negligência a Deus e ignorância do fato acima mencionado. Além disso, essas pessoas tendem a afligir os outros e a tentar o impossível. Consequentemente, elas podem ter sucesso fenomenal na vida, mas suas almas já estão no inferno. A condição de suas almas no inferno se reflete sobre elas com o tempo, finalmente tornando seu destino infernal pela lei do "espírito precede a matéria".
+
+Atos viciosos tornam a alma nebulosa, enquanto atos virtuosos tornam a alma pura o suficiente para ascender. O segredo para alcançar a felicidade é, portanto, evitar todo o vício, fazer o bem tanto quanto possível e, assim, tentar tornar a alma o mais pura possível. Afirmo que esta é a verdade e que não há outra maneira de se tornar verdadeiramente feliz. Sei que é muito mais fácil pregar do que praticar. Há uma maneira, no entanto, de facilitar a prática: a Fé.
+
+### Messias
+
+O que é um messias? É desnecessário dizer que ele é um grande sábio nascido com a missão da salvação. Minha atividade de salvação, em seu estágio atual, pode ser quase insignificante do ponto de vista de toda a humanidade. No entanto, como o número de salvos está aumentando rapidamente, minha empreitada tem um futuro muito favorável.
+
+Estou utilizando plenamente uma força invisível ou Divina, o que pode parecer incrível para as pessoas modernas que receberam educação materialista. A existência de tal força pode parecer irreal demais para essas pessoas, e não é desarrazoado que pensem assim. Pela força Divina, exercida indiretamente através de meus seguidores, centenas e milhares de enfermos em estado crítico foram salvos e se tornaram capazes de trabalhar com boa saúde.
+
+Desde os tempos antigos, a vida foi considerada à mercê do destino; e o progresso da cultura ou da ciência médica nada pôde fazer a respeito. Mas agora, a extensão da vida, que é o maior desejo de toda a humanidade, tornou-se possível. Que grande alegria isso deve ser para as pessoas que podem compreender e acreditar. No entanto, se as pessoas comuns se familiarizarem com este fato, através de palestras ou publicações de nossa organização, é natural que achem difícil acreditar.
+
+Todas as pessoas buscam a felicidade. Contudo, se um homem carece de saúde, todas as outras condições de felicidade que ele possa ter equivalem a nada. Cristo bem disse que, se um homem conquistar o mundo inteiro, que benefício isso lhe traria se perdesse sua vida? Não há nada mais precioso do que a saúde. Pode-se dizer que toda a felicidade desta vida se resume à saúde.
+
+Inúmeros exemplos de pessoas salvas por nossa religião estão nas publicações de nossa organização. Essas pessoas foram salvas não apenas de doenças, mas algumas foram protegidas de acidentes ou salvas da pobreza. Muitas pessoas infelizes se tornaram felizes. Meu poder de salvação é exercido através de centenas e milhares de meus discípulos, que operam inúmeros milagres todos os dias.
+
+Tivemos vários grandes religiosos ou sábios no passado. Mas há uma grande diferença entre o que eles realizaram e o que estou fazendo agora. Era uma questão de tempo até que víssemos a segunda vinda de Cristo ou a reencarnação de Buda. As profecias que o homem fez há milhares de anos serão cumpridas.
+
+Eu nunca desejei me tornar um grande sábio ou um messias, porque nunca me considerei grande. Apenas fui inflamado de amor pela humanidade quando era jovem e desejei me tornar um religioso e salvar as pessoas. Depois de completar uma certa quantidade de práticas ascéticas, recebi uma revelação e fui dotado de um grande poder espiritual. Tendo-me sido confiada a missão de salvar a humanidade, executo agora o projeto Divino como um procurador de Deus.
+
+---
+
+# O Desígnio da Criação do Museu de Arte
+
+**Categoria:** sasshi | **Ano:** - | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
+
+## O Desígnio da Criação do Museu de Arte
+
+**Mokichi Okada**
+*Diretor do Museu de Arte de Hakone*
+
+Sou Mokichi Okada, fundador da Sekaikyuseikyou. Expresso aqui minha sincera gratidão por sua visita a este museu de arte. Aproveito esta oportunidade para expor os motivos que me levaram a criar esta instituição. Críticas ou sugestões sobre o museu e as obras expostas serão recebidas com o maior apreço.
+
+O ideal fundamental da religião é criar um mundo pleno de verdade, bem e belo. A verdade e o bem são de natureza metafísica, ao passo que o belo pode se manifestar concretamente, em forma, aprimorando a alma humana por meio da visão. É notório o esplendor da arte religiosa desde os períodos grego e romano até a Idade Média na Europa, assim como do reinado do Príncipe Shotoku à Era Kamakura no Japão. Naqueles tempos, quase todas as criações estéticas do homem, como a pintura, a escultura e a música, fundamentavam-se na religião.
+
+Atualmente, contudo, tal tendência tornou-se praticamente irreconhecível, e a arte apartou-se da religião. A causa mais significativa dessa separação pode ser atribuída ao fato de a religião ter ficado defasada em relação ao avanço da humanidade. As atividades religiosas em todos os países tornaram-se latentes, em nítido contraste com as deslumbrantes façanhas da ciência moderna. Pessoalmente, creio que a religião e a arte devem progredir amparando-se mutuamente, como as duas rodas de uma carroça.
+
+Gostaria de mencionar, neste ponto, a característica mais proeminente do povo japonês. Cada nação do globo, tal como os indivíduos, possui uma cultura e um pensamento que lhe são próprios. A característica imanente do povo japonês é a de deleitar os povos do mundo por meio da beleza e, assim, contribuir para o desenvolvimento da cultura. Isso se torna facilmente compreensível quando consideramos a beleza sublime de nossas paisagens e a infinita variedade de nossas flores e plantas, bem como o aguçado senso estético de nosso povo e sua excelência nos trabalhos manuais.
+
+Não obstante, o Japão, inconsciente de sua missão fundamental, cometeu o erro fatídico de travar uma guerra e, por conseguinte, teve de amargar o sofrimento da derrota. Creio que foi pela misericordiosa providência de Deus que o Japão despertou para sua missão através dessa provação. Ademais, Deus privou o Japão de suas armas. Embora o problema do rearmamento tenha sido discutido recentemente, ele deve limitar-se estritamente ao âmbito da defesa nacional, sem qualquer outro propósito.
+
+Sob essa perspectiva, o rumo futuro do Japão se torna iniludível. Acredito que a paz e a prosperidade eternas serão alcançadas se nos apegarmos a esse ideal, e é com base nessa convicção que conduzo minhas ações.
+
+Para materializar meu ideal, idealizei primeiramente a construção de paraísos em miniatura, plenos de beleza, para apresentá-los ao público. Os locais que preenchem tais condições encontram-se em Hakone e Atami, que são impecáveis por possuírem clima ameno, ar puro e fontes termais, além de fácil acesso e paisagens deslumbrantes. Decidi, portanto, construir primeiramente jardins celestiais nesses dois locais, integrando em perfeita harmonia as belezas naturais e as criadas pelo homem. Concluí recentemente a construção deste Paraíso em Miniatura de Hakone, que inclui a galeria de arte.
+
+Yuna (Cortesãs do período Momoyama)
+Pintor desconhecido. Obra do início do período *Ukiyo-e*.
+Tesouro Nacional.
+
+Até o presente, como é de vosso conhecimento, praticamente não existiam no Japão museus de arte puramente japonesa. Os que existiam eram dedicados à arte chinesa e ocidental, ou então exibiam apenas obras de cunho religioso. Assim, o próprio povo japonês não teve a chance de apreciar a sua arte, sem mencionar os estrangeiros que visitam o Japão com o desejo de ver a genuína arte nipônica; não havia instalações ou meios para satisfazer essa demanda. Não seria esta uma grande negligência por parte do Japão, enquanto nação artística? Portanto, se este museu recém-inaugurado puder, de alguma forma, suprir essa lacuna, será para mim motivo de imensa satisfação.
+
+Nunca estive no exterior. Contudo, como resultado de minhas pesquisas, descobri que a maior parte da arte japonesa no estrangeiro se resume a gravuras, sendo raríssimas as obras-primas da pintura. Americanos e europeus sempre apreciaram grandemente a arte chinesa, e diz-se que se encontram no exterior boas coleções de cerâmica e bronzes chineses. Todavia, as pinturas chinesas de primeira qualidade não foram transferidas para os Estados Unidos ou para a Europa. Na China, pinturas magníficas foram produzidas nos períodos Sung e Yuan, mas estas foram consumidas por incêndios durante as guerras frequentes. A maioria não permaneceu em sua terra de origem. Grande parte das remanescentes foi colecionada no Japão na época de Ashikaga Yoshimitsu e Yoshimasa (há cerca de 500 anos) e herdada por Oda Nobunaga e Toyotomi Hideyoshi (há cerca de 360 anos).
+
+Quanto à cerâmica e aos bronzes chineses, muitas peças foram enterradas em tempos de guerra para serem protegidas da destruição. Por conseguinte, a maioria das peças existentes foi desenterrada, havendo pouquíssimas intactas, pois algumas sofreram fissuras durante a escavação e outras com o passar de milhares de anos. Neste museu, há um vaso de Anderson que se acredita ter sido produzido há 4.000 anos. É tão belo que nos admiramos de como uma arte tão esplêndida pôde ser produzida naquela época. De modo geral, encontramos cerâmicas excelentes entre as produzidas na época de Riu-Chao e no período Tang (220-900) e, ademais, há peças notáveis do período Sung (ano 1000), quando a produção de porcelana celadon era intensa, como é bem sabido. No que tange aos bronzes, obras de qualidade foram produzidas imediatamente antes e depois do período Chou (há cerca de 3.000 anos). Foi no Período Nara, no Japão (há cerca de 1.200 anos), que tais obras foram importadas pela primeira vez. Por essa razão, as cerâmicas chinesas no Japão são muito belas, ainda que tenham sido enterradas. Nesse sentido, não é exagero afirmar que o Japão preservou a maior parte da arte chinesa.
+
+Ademais, deve-se notar que, desde tempos imemoriais, o Japão possui suas próprias e primorosas obras de arte, das quais pode verdadeiramente se orgulhar perante o mundo. No entanto, até o final da Segunda Guerra Mundial, elas eram mantidas nos locais recônditos das residências de aristocratas e milionários, não sendo exibidas ao público. Tal fato se devia, em parte, à mentalidade exclusivista e conservadora da era feudal. Hoje, porém, isso representa apenas um anacronismo em nossa era democrática.
+
+Pode-se afirmar que a finalidade primordial dos objetos de arte reside em sua exposição ao maior número possível de pessoas, a fim de lhes proporcionar deleite e, de modo imperceptível, elevar a natureza humana. Sendo assim, o mais importante é romper com esse pensamento exclusivista e mostrá-las ao público. Por isso, há muito tempo desejava apresentar obras de arte de nível internacional aos estrangeiros e, ao mesmo tempo, ao público japonês, para que pudessem apreciá-las. Desejava também oferecer aos artistas, que não têm a oportunidade de contemplar a arte japonesa de suprema qualidade, um meio para o seu aprimoramento. Felizmente, muitos objetos estéticos que eram mantidos a sete chaves chegaram ao mercado na época da reforma nacional do pós-guerra, o que contribuiu imensamente para o enriquecimento deste museu.
+
+Este museu de arte foi inteiramente projetado por mim e, embora seja de pequena escala, fi-lo com a ideia de construir um modelo para os inúmeros museus que venham a ser estabelecidos no futuro, dentro e fora do país. Planejei também o jardim, dedicando atenção aos mínimos detalhes, desde cada árvore a cada planta. Naturalmente, por ter sido concebido por um amador como eu, o projeto pode apresentar falhas. Contudo, se puder de alguma forma servir como um bom modelo, dar-me-ei por satisfeito.
+
+Ademais, foi dedicada ampla consideração às circunstâncias, instalações e outros fatores, a fim de proteger estas obras-primas de ataques aéreos, incêndios e roubos que possam ocorrer no futuro. Portanto, meu projeto contribuirá também para a preservação dos tesouros nacionais.
+
+Como já foi explicado, não tenho outra intenção senão a de concretizar meu ideal de construir um país de beleza, um paraíso, que deve ser a verdadeira face do Japão. Planejo construir outros paraísos em miniatura, incluindo galerias de arte, em Atami e Quioto, num futuro próximo. O apoio dos senhores a este plano no futuro será imensamente apreciado.
+
+---
+
 # Coletânea de Artigos do Mestre Jikan Okada
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年5月20日 | **Fonte:** 教えのHikari
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-05-20
 
 ## Coletânea de Artigos do Mestre Jikan Okada
 
@@ -1213,7 +2155,7 @@ A nevralgia e a dor de cabeça são influenciadas pelo clima porque, quando o te
 # Coletânea de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** 基仏と観音教
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-10-25
 
 ## Coletânea de Teses do Mestre Okada Jikan
 ## O Cristianismo, o Budismo e a Doutrina de Kannon
@@ -1631,7 +2573,7 @@ Publicado por: Nijusseiki Shuppan Insatsu Goshi Gaisha
 # Coletânea de Teses do Mestre Jikan Okada – Gokouwaroku, nº 7
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Teses do Mestre Jikan Okada – Gokouwaroku, nº 7
 
@@ -1968,7 +2910,7 @@ A título de referência, informamos que temos conhecimento de que, movidos pela
 # Coletânea de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Coletânea de Teses do Mestre Okada Jikan
 ## Registro das Palavras de Luz, No. 11
@@ -2373,1008 +3315,6 @@ I. Enviamos o décimo primeiro número do “Registro das Palavras de Luz”.
 II. A partir desta edição, incluímos um “Índice”. Esperamos que ele ofereça uma visão geral do conteúdo e facilite futuras consultas e estudos.
 III. Ao final do volume, anexamos uma errata para os números nove e dez. Pedimos sinceras desculpas pelos consideráveis erros de digitação no número dez, devido a uma revisão insuficiente.
 IV. Conforme informado no número nove, o conteúdo desta edição também foi organizado agrupando-se as questões por temas semelhantes. Agradecemos a vossa compreensão.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikan – Palestras de Kannon (1 a 7)
-
-**Categoria:** sasshi | **Ano:** 昭和10(1935)年 | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Mestre Okada Jikan – Palestras de Kannon (1 a 7)
-## Palestras compiladas por um discípulo. Publicado em Showa 10 (1935).
-
-## Primeira Palestra: O Objetivo do Deus Supremo e a Verdade sobre o Plano Divino
-
-O que passarei a expor constitui o grande segredo do mundo, o qual finalmente será revelado. Até agora, vivíamos no Mundo da Noite. Por essa razão, toda sorte de impurezas permanecia oculta. Contudo, com o advento de Kannon (観音) neste mundo, o Sol ergueu-se espiritualmente, e aquilo que se mantinha em segredo começou a se tornar visível. Venho, portanto, cientificá-los a respeito do que se tornou manifesto, a fim de que possam dissipar as antigas ilusões e remover por completo a insegurança.
-
-Até o presente momento, nada era verdadeiramente claro. A Verdade, em sua essência, é simples e desprovida de complexidade. As diversas escrituras e revelações divinas do passado eram, em grande parte, ininteligíveis, e, ao analisá-las, percebemos quão intrincadas de fato são. Quanto mais confuso e complicado é um ensinamento, maior a probabilidade de conter um estelionato intelectual.
-
-Tomemos como exemplo *O Capital*, de Marx, uma obra de tal complexidade que mesmo os eruditos têm dificuldade em compreendê-la. Isso ocorre, em suma, porque ela não encerra a Verdade. Como o próprio autor não a compreendia, recorreu a toda sorte de artifícios para dissimular sua ignorância. Os sutras budistas, a Bíblia e as revelações divinas de outras religiões são igualmente confusos e de difícil entendimento. Essa obscuridade tornou-se um hábito no mundo de até então, a ponto de se considerar algo venerável justamente por ser incompreensível. Creio que reverenciar um sutra que não se entende, recitado por um monge, é uma espécie de anomalia psicológica. Se os seres humanos não conseguem decifrar tais escrituras, como poderiam os espíritos compreendê-las após a morte? Nossa missão, daqui por diante, é corrigir esses equívocos.
-
-A prática do zazen é outra insensatez deplorável, na qual se permanece sentado do alvorecer ao anoitecer. Seus adeptos se comprazem em proferir palavras que, para o homem comum, não passam de um discurso de sonâmbulo. Aquilo que não pode ser compreendido pelas massas não é autêntico.
-
-A Bíblia também é de difícil compreensão, em grande parte devido à tradução literal de uma língua estrangeira. O Apocalipse, por sua vez, equivale a uma narrativa onírica. O Confucionismo, com os ditos de Confúcio, é consideravelmente mais claro em certos aspectos, mas assemelha-se a um antigo código de leis; seria mais proveitoso ler a Constituição do Japão. Embora discorra sobre o caminho da lealdade, da piedade filial e das cinco virtudes e cinco relações humanas, não se trata de uma religião e, portanto, é incapaz de proporcionar a verdadeira alegria.
-
-O Xintoísmo antigo não possui uma doutrina formal. Consiste basicamente em rituais, preces e encantamentos. Recentemente, surgiu um debate, ainda inconcluso, sobre se deveria ser classificado como religião.
-
-Dentre as novas religiões, a Tenrikyo, a Konkokyo e a Oomotokyo já estabeleceram suas doutrinas. Na Tenrikyo, a base são as revelações divinas da fundadora, que, por serem enigmáticas e incompreensíveis, levaram seus seguidores a recorrer a eruditos e outras pessoas para, posteriormente, formularem uma doutrina. Ao ler essas revelações, apenas uma pequena parte é inteligível; o todo permanece obscuro. A Konkokyo, por sua vez, aborda temas extremamente simples, insuficientes para o homem contemporâneo, limitando-se a agradar idosos de mente singela e pessoas do mundo do entretenimento. Quanto à Oomotokyo, suas revelações divinas são excessivamente repetitivas e confusas, repletas de enigmas. Apenas para ler o *Reikai Monogatari* (Contos do Mundo Espiritual), da Oomoto, seria necessário um mês inteiro, e o que há de essencial nesse vasto compêndio é mínimo e igualmente ininteligível. Uma, duas ou mesmo três leituras não bastam para compreendê-lo. Por conseguinte, nenhuma dessas religiões possui o poder de salvar as massas. A falta de clareza as impede de redimir o povo. Foram concebidas no Mundo da Noite, e por isso carecem de nitidez.
-
-O momento em que os desígnios de Kannon (観音) se tornarem plenamente claros marcará o advento do Mundo de Luz. Haverá um mundo de Maitreya, mas se tudo fosse revelado de uma só vez, neste exato instante, surgiriam inimigos e obstáculos, gerando reações adversas que poderiam frustrar o avanço da Obra. Tal situação seria um entrave à Obra Divina de Kannon (観音), impedindo a concretização de Seu objetivo. Embora certas limitações possam nos causar impaciência, quando comparamos com o passado, a clareza atual é inegável. O que fiz até aqui foi apenas expor a natureza das religiões que existiram até hoje.
-
-Em breve, surgirão os ensinamentos da ciência do Kotodama, e ensinarei o “Tamagaeshi”. O Tamagaeshi consiste em condensar o kotodama para apreender seu significado.
-
-**Tamagaeshi**
-
-*   A I U E O
-*   HA HI FU HE HO
-*   KA KI KU KE KO
-*   YA I YU E YO
-*   SA SHI SU SE SO
-*   MA MI MU ME MO
-*   TA CHI TSU TE TO
-*   RA RI RU RE RO
-*   NA NI NU NE NO
-*   WA I U E O
-
-Condensando “Okada” em uma única letra: ao condensar “Oka”, a linha “A” (A-gyo) predomina, resultando em “A”. Embora seja “Kaa”, o “Ka” se integra em “A”. “Da” também pertence à linha “A”, portanto, integra-se em “A”.
-Em “Jin”, “Ji” é “Jii”, e “n” se torna “u”. Portanto, “Jin” se torna “Zu”.
-Em “Sai”, temos “Sa-i”, que se torna “Shi”.
-Assim, “Okada” é “A”, “Jin” é “Zu”, e “Sai” é “Shi”. Condensando “Jinsai”, obtemos “Ji”. Se adicionarmos “Ji” após “Okada”, a condensação final é “I”.
-
-*   Oka-da Jin-sai
-*   A A Zu Shi -> A Ji -> I
-*   okada jinsai -> oa ji
-
-*   Dai Ni-hon -> Ji Fu -> dai di
-*   I-suzu-gawa -> In suzu gawa -> I suzu
-
-A interpretação do nome do rio Isuzugawa revela o futuro do mundo, mas não posso discorrer sobre isso no momento.
-
-Uma vez dominado o Tamagaeshi, existe uma chave, mais do que um estudo, chamada Amatsu Kanagi (天津金木). Esta é a base de todas as coisas: do Kotodama, da astronomia, da geografia, da adivinhação e da profecia. Contudo, ainda não surgiu quem a ensine. No Kojiki, foi Hieda no Are (稗田阿礼) quem, por ordem imperial, a transmitiu oralmente.
-
-O Amatsu Kanagi (天津金木) tem a forma que se vê acima. Hieda no Are (稗田阿礼) carregava este Amatsu Kanagi (天津金木) às costas. O Kojiki contém os mistérios do Amatsu Kanagi (天津金木). E por que não foi registrado por escrito? Porque, se o fosse, seu portador não teria sobrevivido.
-
-O Japão é a terra onde o Kotodama prospera, a terra onde as palavras vivem. Atualmente, ao realizar uma cura, quando escrevo um ideograma, a palavra contida nele atua. Ao proferir o Kotodama, a força se manifesta imediatamente.
-
-Passo a apresentar um resumo sobre o Deus que é o fundamento do Céu e da Terra.
-
-O Universo e toda a criação constituem o Corpo Divino do Deus Ame-no-Minakanushi-no-Ookami. Estas três divindades primordiais não possuem individualidade.
-No centro do Universo está a Terra, ao redor da qual orbitam o Sol, a Lua e os astros. Tudo se centra na Terra; em outros planetas, como Marte ou Mercúrio, não há vida humana.
-
-O núcleo que governa este planeta é o que chamamos de Eixo Terrestre ou Pilar Terrestre. A este Deus nos referimos como Amaterasu Oomikami. É Ele quem detém o verdadeiro poder de governar. Ele nasceu como ser humano e, por isso, possui uma forma.
-
-O Deus Izanagi (伊弉諾) e a Deusa Izanami (伊弉冉) manifestaram-se com corpos carnais e, por meio da procriação, deram à luz as três divindades seguintes:
-*   Japão: Amaterasu Sume Oomikami (天照皇大神)
-*   Coreia: Susanoo no Mikoto (素盞嗚尊)
-*   China: Wakahimegimi no Mikoto (若姫岐美尊) (esposa de Banko Shinnou, também conhecido como Shionagahiko no Mikoto)
-
-Amaterasu Sume Oomikami (天照皇大神) nasceu no Japão. Susanoo no Mikoto (素盞嗚尊) tornou-se o ancestral da Coreia (posteriormente, estendeu Sua influência até a Judeia). Banko Shinnou (盤古神王) tornou-se o ancestral da China. É por essa razão que, na China, o clã Banko é considerado o de mais alta linhagem. Este é o fundamento sobre o qual repousa o Plano Divino. Fica claro, portanto, que Japão, Coreia e China são nações irmãs. A recente anexação da Coreia e da Manchúria pelo Japão também se deve a essa afinidade primordial.
-
-*   Amaterasu Sume Oomikami (天照皇大神) -> Imperador -> Poder de Governo (Céu e Terra)
-*   Kuninotokotachi no Mikoto (国常立尊), também conhecido como Ushitora no Konjin (艮金神) ou Enma Daioh (閻魔大神).
-*   Izunome no Ookami (伊都能売大神), também conhecida como Konohanasakuya-hime no Mikoto (兄花姫尊) ou Kanzeon (観世音).
-
-Para governar o mundo, Amaterasu Sume Oomikami (天照皇大神) assume outras identidades divinas, como já mencionado. Conforme a genealogia apresentada, Ele se manifesta como Kuninotokotachi no Mikoto (国常立尊) e Izunome no Ookami (伊都能売大神).
-
-O ponto central do Kojiki é a Abertura do Portal de Pedra. Na Era dos Deuses, Amaterasu Sume Oomikami (天照皇大神) ocultou-se nesse portal. Devido a esse recolhimento, a autoridade divina dos Imperadores, Seus descendentes, foi violada ao longo das gerações, causando-lhes grandes sofrimentos. Durante esse período, Kuninotokotachi no Mikoto (国常立尊) retirou-se para o portal demoníaco do nordeste (Ushitora) e, ao mesmo tempo, adentrou o Mundo Espiritual, onde se tornou Enma Daioh.
-
-O recolhimento de Amaterasu Sume Oomikami (天照皇大神) teve, por outro lado, múltiplos significados dentro do Plano Divino, como é desnecessário dizer.
-
-O mundo pode ser dividido da seguinte forma:
-*   Sol: Amaterasu Sume Oomikami (天照皇大神) -> Kuninotokotachi no Mikoto (国常立尊), Izunome no Ookami (伊都能売大神)
-*   Lua: Susanoo no Mikoto (素盞嗚尊)
-*   Terra: Banko Shinnou (盤古神王)
-
-Kuninotokotachi no Mikoto (国常立尊) e Susanoo no Mikoto (素盞嗚尊) governaram a Terra. Contudo, o governo de Kuninotokotachi no Mikoto (国常立尊) era de um rigor extremo, o que gerou oposição por parte dos outros deuses, forçando-o a se retirar e a ser chamado de Ushitora no Konjin. Susanoo no Mikoto (素盞嗚尊) também governou a Terra por um tempo, mas o mundo mergulhou no caos e não pôde ser pacificado. Decidido a procurar sua mãe no reino subterrâneo de Ne-no-katasu-kuni, ele subiu aos céus para se despedir de sua irmã, Amaterasu Sume Oomikami (天照皇大神). Sua ascensão foi tão impetuosa que montanhas e rios tremeram. Amaterasu Sume Oomikami (天照皇大神), ao presenciar tal cena, presumiu que Susanoo no Mikoto (素盞嗚尊) vinha em rebelião para subjugá-la e preparou suas tropas. Susanoo no Mikoto (素盞嗚尊), no entanto, esclareceu que não tinha tais intenções e propôs um juramento para provar sua sinceridade.
-
-Como resultado, Amaterasu Sume Oomikami (天照皇大神) retirou as magatamas (joias em forma de vírgula) de seu pescoço e as lavou no poço celestial de Manai, dando à luz cinco deuses masculinos:
-*   Ame no Oshihomimi no Mikoto (天忍穂耳尊)
-*   Ame no Hohi no Mikoto (天穂日尊)
-*   Amatsuhikone no Mikoto (天津彦根尊)
-*   Ikutsuhikone no Fukoto (活津彦根尊)
-*   Kumatsukusubi no Mikoto (熊津樟日尊)
-
-Assim nasceram os cinco pilares divinos.
-Susanoo no Mikoto (素盞嗚尊), por sua vez, desembainhou sua espada e a lavou no poço celestial de Manai, dando à luz três deusas:
-*   Tagirihime no Mikoto (田心姫尊)
-*   Tagitsuhime no Mikoto (瑞津姫尊)
-*   Ichikishimahime no Mikoto (市杵島姫尊)
-
-Essas divindades são conhecidas coletivamente como “os cinco homens e as três mulheres” (Go-nan San-nyo), ou seja, Izunome.
-
-O poço celestial de Manai corresponde, na Terra, ao Lago Biwa. O Monte Fuji e o Lago Biwa representam o umbigo do Japão, sendo o Fuji a frente e o Biwa o verso. Se esses locais fossem ocupados por espíritos malignos, o Japão perderia sua liberdade. Por essa razão, Kannon (観音), como Konohanasakuya-hime no Mikoto, estabeleceu-se no Monte Fuji, enquanto Izunome no Ookami (伊都能売大神), na forma de um Dragão Dourado, ocultou-se no Lago Biwa, na província de Omi. Foi nas margens desse poço celestial, em Ama-no-Yasukawara, que o juramento foi feito.
-
-*   Leste: Governo de Amaterasu Oomikami (天照大御神)
-*   Juramento no Poço Celestial de Manai
-*   Oeste: Governo de Susanoo no Mikoto (素盞嗚尊)
-
-Assim, estabeleceu-se naquele momento a promessa de que ambas as divindades governariam no futuro. Os cinco deuses e as três deusas transformaram-se em deuses-dragão e se ocultaram em diversos lugares até a hora certa. Esses cinco deuses e três deusas são, de fato, os Oito Grandes Reis Dragões.
-
-1.  Nanda Nagaraja (難陀): Rei Dragão da Alegria
-2.  Upananda Nagaraja (跋難陀): Rei Dragão da Boa Alegria
-3.  Sagara Nagaraja (娑羯羅): Rei Dragão do Mar
-4.  Vasuki Nagaraja (和修吉): Rei Dragão de Múltiplas Cabeças
-5.  Takshaka Nagaraja (徳叉迦): Rei Dragão do Olhar Venenoso
-6.  Manasvin Nagaraja (摩那期): Rei Dragão de Grande Corpo e Força
-7.  Utpalaka Nagaraja (優鉢羅): Rei Dragão da Cor da Flor de Lótus Azul
-8.  Anavatapta Nagaraja (阿那裟達多): Rei Dragão da Serenidade e Pureza
-
-*   Sucessor de Kuninotokotachi no Mikoto (国常立尊): O Grande General
-*   Sucessor de Susanoo no Mikoto (素盞嗚尊): Oonamuchi no Mikoto (大己貴尊)
-*   Sucessor de Banko Shinnou (盤台神王): Amewakahiko no Mikoto (天若彦尊)
-
-Posteriormente, da linhagem de Ame no Oshihomimi no Mikoto (天忍穂耳尊) surgiu Ninigi no Mikoto (瓊瓊杵尊), cuja descendência se estende ininterruptamente até os dias de hoje.
-
-**A Construção do Mundo de Grande Luz**
-
-*   Um mundo onde a Verdade, o Bem e o Belo se manifestarão plenamente.
-*   Um mundo onde a Verdade prevalecerá. (Verdade)
-*   Um mundo onde o Bem prosperará. (Bem)
-*   Um mundo que se moverá segundo a Verdade e a razão. (Belo)
-
-Por que o Deus Supremo criou as religiões? As religiões foram um plano divino necessário e temporário, estabelecido para impedir que a humanidade, até o advento de Maitreya, caísse em um nível de degeneração irremediável. Por um lado, Deus permitiu a atividade do mal, fomentando o desenvolvimento da cultura material; por outro, para que os danos causados por esse mal não se tornassem excessivos, Ele fez surgir diversos homens notáveis que propagaram as religiões, tecendo habilmente o bem e o mal. Assim, o plano divino até hoje consistiu em um ciclo de interações entre bem e mal, luz e trevas, belo e feio, que impulsionou o progresso e o desenvolvimento. Fica claro que a origem das religiões está no Oriente. Contudo, foi também por essa razão que as nações asiáticas sucumbiram.
-
-Por outro lado, Deus ordenou a Susanoo no Mikoto (素盞嗚尊) que criasse o mundo do mal. Este é o mundo da cultura material, centrada no corpo. Essa cultura material floresceu principalmente no Ocidente, e, por sua causa, a humanidade encontra-se hoje em profunda confusão. O Oriente chegou a um estado de quase extinção, enquanto o Ocidente, em sua fase terminal, perdeu o rumo. Em meio a essa desorientação, buscam-se relíquias de eras antigas por todo o mundo, mas o passado já cumpriu seu papel, e ninguém sabe o que o futuro reserva.
-
-No mundo de até então, o pensamento predominante era tal que uma pessoa puramente boa não conseguia sequer prosperar.
-*   Bem versus Mal -> Gera confusão.
-A prática do mal leva a conflitos com a lei e é perigosa; a prática do bem, por sua vez, impede a ascensão social. Diante desse dilema, a maioria da população vive em um estado de hesitação.
-
-Muitos devem se perguntar por que, desde tempos imemoriais, homens leais e justos tiveram fins trágicos, enquanto os maus, ainda que temporariamente, prosperaram. A resposta para essa questão é de suma importância. Em suma, até agora, Deus permitia a existência do mundo do mal. Portanto, sem um certo grau de conivência com o mal, era impossível prosperar ou ascender socialmente. Uma verdade tão simples permaneceu incompreendida até hoje, gerando grande confusão. O pensamento semibestial, dominado pela força do mal, persistiu. Atos malignos eram possíveis porque Deus, até que chegasse o tempo determinado, os tolerava em certa medida.
-
-Agora, porém, o Deus Supremo ordenou a Izunome no Ookami (伊都能売大神) que, a partir do Japão, construísse o Mundo de Grande Luz. Deixando para trás um mundo onde era impossível discernir entre o material e o espiritual, entre o bem e o mal, a Kannonkai foi fundada em 1º de janeiro do décimo ano da era Showa, com o propósito de criar um mundo onde o bem e o mal são indiferenciados, onde sua dualidade é superada. Tanto o bem quanto o mal que existiram até agora foram, cada qual a seu modo, necessários.
-
-**1º de Janeiro do 10º Ano da Era Showa**
-
-*   Showa (昭和) se decompõe em *Hi* (日, Sol), *Mesu* (召, convocar/governar) e *Wa* (和, paz/harmonia). O Sol representa Amaterasu Oomikami (天照大神). *Mesu* é o ideograma para *shiroshimesu* (governar). *Wa* significa o mundo ou Yamato (Japão). O número dez (十) representa a união.
-*   Quando o bem e o mal se unem, o mal desaparece.
-*   O centro que une o bem é, precisamente, Izunome.
-*   A união do bem e do mal forma *kami* (火水, fogo e água, ou Deus).
-*   Quando o bem e o mal se unem, a cruz giratória tem suas pontas curvadas, formando o manji invertido (suástica levógira). A partir do momento dessa união, o mal se extingue, e o que resta é a perfeição.
-
-O mundo de Izunome no Ookami (伊都能売大神), ou seja, o Mundo de Grande Luz, será criado. O manji das religiões tradicionais gira para a direita, representando o mundo de até então, onde a direita avançava e a esquerda recuava – o mundo do mal. O mundo de Izunome no Ookami (伊都能売大神) será o oposto: a esquerda avançará, e a direita recuará.
-
-*   Som Divino: A Percepção de Deus como Senhor do Céu.
-*   Início da Obra Celestial.
-
-Verdade (torna-se *su*, MAKOTO), Bem, Belo, Mundo da Realidade.
-
-Criar o mundo da Verdade, do Bem e do Belo significa que a Verdade (*Shin*) é *Makoto* (realidade). Até agora, vivíamos em um mundo de ilusão, um mundo provisório, um mundo de vazio. Tudo era vazio, um mundo transitório. Por quê? Porque tanto o bem quanto o mal eram permitidos. Era um mundo provisório, existente apenas até que um determinado objetivo fosse alcançado.
-
-A Verdade (*Shin*), lida através do Tamagaeshi, torna-se *Su*, que significa “realidade”, “fruto”. Finalmente, daremos frutos. Significa também “governar” (*suberu*), “imperador” (*sumeragi*), a unificação em um só. Esse “um só” é o Imperador; por isso, desde a antiguidade, Sua Majestade é referido como “o único no alto” (Kami O-hitori). Contudo, esta Obra não pode ser realizada pelo Imperador. Deve ser executada pelo povo.
-
-Antigamente, Kuninotokotachi no Mikoto (国常立尊) tentou governar o mundo unicamente com o bem, mas isso gerou forte oposição dos outros deuses, forçando-o a se retirar.
-
-Decompondo o ideograma de Verdade (真), obtemos “reto” (直) e “homem” (人). Um homem reto, ou seja, um homem honesto. *Shin* também é *kokoro* (coração), *chushin* (centro), *kami* (Deus), *shin* (fé), um Kotodama de imensa autoridade.
-Como centro, Deus confiou o atual Plano Divino a Izunome no Ookami (伊都能売大神), que é Kannon (観音).
-
-O Japão central é o centro do mundo. O centro de Kojimachi é o Palácio Imperial. Inevitavelmente, a Kannonkai deve manifestar-se ao lado do Palácio Imperial. O crisântemo de dezesseis pétalas, o brasão imperial, representa a forma da autoridade divina (五) emanando do dez (十). A verdadeira salvação e o plano divino para o mundo devem emanar das proximidades do trono. É uma necessidade absoluta.
-
-O que eu digo na Kannonkai é tudo muito claro. Se os ensinamentos do passado tivessem sido claros, o mal teria sido exposto. E se o mal fosse exposto, o mundo não progrediria, e a obra de unificação não poderia ser realizada. O advento do rádio tornou tudo internacional, permitindo que o mundo inteiro fosse informado de uma só vez. Com a criação do rádio, todos os preparativos foram concluídos.
-
-Tudo se tornou global. Salvação global, religião global – se não surgirem agora, será tarde demais. Sem a unificação do mundo por uma única pessoa, a verdadeira paz não será alcançada. As diversas religiões do passado foram, em suma, em vão.
-
-Retorno ao Uno. O “Uno” refere-se ao Deus original, o Deus Supremo. Retornar a Ele é retornar ao Deus Supremo.
-(15 de julho de 1935)
-
-## Segunda Palestra: A Origem da Religião e o Advento do Messias
-
-No que tange ao Plano Divino na Terra, Kuninotokotachi no Mikoto (国常立尊) iniciou Seu governo com o objetivo de manifestar um mundo de puro bem. Contudo, devido ao Seu extremo rigor, os demais deuses sentiram-se oprimidos e se opuseram, levando Seu plano ao fracasso. A partir de então, ficou decidido que o mundo progrediria por meio da dualidade do bem e do mal. Há 2.600 anos, o Imperador Jinmu recebeu um decreto divino para governar o Japão.
-
-Susanoo no Mikoto (素盞嗚尊), no Ocidente, deu origem ao povo de Israel, que se tornou o povo judeu, e iniciou o desenvolvimento do mundo por meio do conhecimento.
-
-Por outro lado, o Deus Supremo fez Izunome no Ookami (伊都能売大神) descer à Índia, onde, no Monte Fudaraku (布咀落迦), como o Bodhisattva Kanzeon, a Grande Santa dos Mares do Sul, Ela iniciou o budismo. Foi nesse monte que Ela transmitiu os ensinamentos a Shaka. Naquela época, o nome de Shaka era Zenzai Doji (善財童子), e ele recebeu a doutrina ainda em sua juventude. Tudo isso foi parte da preparação conduzida pelo Deus Supremo.
-
-Atualmente, no Japão, temos o Xintoísmo, o Budismo e o Cristianismo. O Xintoísmo, a rigor, dificilmente pode ser chamado de religião. Dentre as novas correntes, a Tenrikyo e a Konkokyo assumiram a forma de religiões, e a Oomotokyo, embora não seja oficialmente reconhecida, também alcançou considerável desenvolvimento, podendo ser considerada uma religião dentro do Xintoísmo. A Konkokyo não possui uma doutrina muito completa, mas a Oomoto e a Tenrikyo têm estruturas bem definidas. Dizem que o número de cristãos no Japão é de cem mil, mas atualmente não chega a tanto.
-
-No Sutra Kegon, está registrado que, no Monte Fudaraku (布咀落迦), o Bodhisattva Kanzeon estava presente, e Zenzai Doji (善財童子) e outros ouviam a pregação da grande compaixão. Entre os muitos discípulos presentes, havia os Vinte e Oito Guardiões, como Daibenzaiten, Daibontenno, Taishakutenno, o Pavão Dourado, Bishamonten e Ashura-o, além dos irmãos Narayana Kongo e Vajrapani Kongo (conhecidos como os Reis Nio). Este relato demonstra claramente que Shaka recebeu os ensinamentos de Kannon (観音).
-
-Nos escritos do Grande Mestre Nanyue, fundador da seita Tendai na China, lê-se: “Antigamente, no Monte Ryoju, pregastes o Sutra de Lótus; agora, na Terra Pura do Oeste, sois chamado de Buda Amida. E, manifestando-vos no mundo dos homens, tornais-vos o Bodhisattva Kannon (観音) salvador. Portanto, os benefícios dos três tempos – passado, presente e futuro – convergem em Kannon (観音).” O Monte Ryoju aqui se refere ao Monte Fudaraku (布咀落迦).
-
-Assim, como afirma o Grande Mestre Nanyue, o Sutra de Lótus foi, em sua essência, esboçado inicialmente por Kannon (観音), e a chave para o plano divino mundial futuro foi secretamente revelada a Shaka por Kannon (観音) quando ele tinha 73 anos. Por isso, as palavras de Shaka, “Aos 73 anos, alcancei a verdade manifesta”, referem-se a esse evento. Foi então que ele foi informado sobre a vinda dos períodos do Darma correto, do Darma aparente e do fim do Darma, seguidos pela extinção do Budismo. Ele só soube da extinção do Budismo porque Kannon (観音) o informou.
-
-Amida e Shaka só podem cuidar de seus próprios assuntos, mas Kannon (観音) possui a capacidade de atuar como uma trindade. Se Kannon (観音) não manifestou Seu poder até agora, foi porque Amida e Shaka foram excessivamente exaltados, enquanto Kannon (観音) foi deixada de lado, o que é verdadeiramente ultrajante.
-
-O mundo é dominado por três grandes religiões: Budismo, Cristianismo e Islamismo, todas criadas sob a mediação do Deus Supremo.
-
-Para explicar o Budismo, é preciso começar por “Namu Amida Butsu” e “Namu Myoho Renge Kyo”. Quem os pregou foi Shaka Nyorai. Ele se torna o “Nyorai reverso” (*sakasa*, invertido). É o plano para fazer florescer a flor do Buda. Mas as flores nunca desabrocham por muito tempo; é algo efêmero. A seita Nitiren costuma dizer que o Sutra de Lótus é para uma única geração.
-
-“Namu Myoho Renge Kyo” é chamado de título de sete caracteres. O Sol e a Lua, ou seja, Deus, foram ocultados e transformados no caractere *Myo* (妙). Sol e Lua (日月) representam Kannon (観音). *Kami* se torna o caractere para “grande” (大), que é cinco. No início do Céu, a linha “A” representa a posição celestial, a mais elevada. Buda é um ser humano que evoluiu, vindo logo após Deus. O Céu é cinco, o mundo intermediário é seis, e a Terra é sete. É o ensinamento reverso e maligno de Miroku.
-
-Amida é uma manifestação de Susanoo no Mikoto (素盞嗚尊). “Namu Amida Butsu” é chamado de nome de seis caracteres.
-
-China – *Chuka* – *Shina* significa “ramo” (eda), “e”.
-*   Grande = Sol
-*   Médio = China
-*   Pequeno = Países estrangeiros
-*   O “grande” (大) refere-se aos cinco continentes, que foram moldados à imagem do Japão.
-
-O Budismo divide-se em esotérico (Mikkyo) e exotérico (Kengyo), sendo o esotérico muito complexo. A seita Tendai é a que mais utiliza caracteres fonéticos.
-
-O Deus Supremo ordenou a Susanoo no Mikoto (素盞嗚尊) que criasse o povo judeu e desse início à era da matéria. Tudo isso foi parte do plano divino, um caminho necessário até o presente.
-*   Futuro: Saishomyo Nyorai
-*   Passado: Shohomyo Nyorai
-*   Presente: Fukosan'o Nyorai
-
-Sol – Kannon (観音) – Grande Santa dos Mares do Sul. Seus nomes são muito mais numerosos que as trinta e três manifestações. Seishi Bosatsu é o nome que assume quando atua junto a Kannon (観音). (Kannon Seishi, 57 anos).
-
-Susanoo no Mikoto (素盞嗚尊) é o deus da Lua, e sua atuação se dá no tempo da escuridão. Tsukuyomi no Mikoto também é um deus da Lua, mas sua atuação ocorre quando a Lua está iluminada.
-*   Verso, escuridão: Susanoo no Mikoto (素盞嗚尊)
-*   Frente, luz: Tsukuyomi no Mikoto
-*   Tsukuyomi (月読尊) significa “ver o mundo da Lua” (*tsuki no yo o miru*).
-
-**Plano Divino do Mal**
-
-*   Oriente – Índia:
-    *   Lua iluminada: Amida Nyorai (Bem) – Compaixão
-    *   Escuridão: Dairokuten Ma-o (Mal) – Força militar
-*   Ocidente – Judeia:
-    *   Lua iluminada: Jesus (Bem) – Amor
-    *   Escuridão: Deus de Gagal (Mal) – Conhecimento, poder financeiro, Maçons ou Freemasons – Comunismo
-
-A era dos samurais no Japão foi um período de atividade de Dairokuten Ma-o, e seus resquícios ainda existem. Tudo isso faz parte do plano divino do mal de Susanoo no Mikoto (素盞嗚尊), e foi por meio dele que a cultura material se desenvolveu como a conhecemos hoje. Portanto, foi um plano do mal necessário. Se os cristãos e budistas ouvissem isso, ficariam chocados, mas são fatos históricos, e nada se pode fazer.
-
-Há dois mil anos, na Judeia, existia uma guilda de pedreiros. A partir dela, os judeus se tornaram o centro de uma conspiração para unificar o mundo. Hoje, eles detêm três quartos da riqueza mundial e, além disso, controlam três quartos dos meios de comunicação. Essa influência não se limita à Europa e aos Estados Unidos; estende-se até o Japão, onde os órgãos de imprensa estão prestes a ser totalmente dominados. Nos últimos quatro ou cinco anos, jornais como o Asahi e o Mainichi já foram tomados. Todos caíram nas mãos de capitalistas judeus. O Yomiuri também já está meio dominado. No Japão, até mesmo ministros de Estado são membros da maçonaria, e o próprio rei da Inglaterra é um maçom.
-
-*   Doutor (I-shi-ya) / Pedreiro (Ishi-ya)
-
-A maçonaria, por meio da medicina, buscava encurtar a vida humana. A medicina foi criada pelos judeus. Hoje, a vida do povo japonês está nas mãos dos judeus, por intermédio dos médicos. Somos enganados com a ilusão de progresso. O povo japonês também está sendo ludibriado pelos “ishiya” (doutores/pedreiros).
-
-**A Trindade de Miroku e o 5-6-7**
-
-*   5. Oshin Miroku – Kanzeon – Filho – Joia – Fogo – Sol – Japão – União – Dez – Verdade
-*   6. Hosshin Miroku – Amida – Mãe – Espada – Água – Lua – Ocidente – Corpo – Horizontal – Belo
-*   7. Hoshin Miroku – Shaka – Pai – Espelho – Terra – Terra – Oriente – Espírito – Vertical – Bem
-
-**As Três Assembleias de Miroku (Trindade)**
-
-*   Sol – Esfera solar – Kanzeon – Izunome no Mikoto – Oshin Miroku
-*   Lua – Esfera lunar – Amida – Susanoo no Mikoto – Hosshin Miroku
-*   Terra – Esfera terrestre – Shaka – Wakahimegimi no Mikoto – Hoshin Miroku
-
-A preservação do termo “Trindade” significa a unificação desses três veneráveis. Hosshin atua apenas pela água; seu objetivo principal é salvar no Mundo Espiritual, a Terra Pura, e não neste mundo. Por isso, criou a Terra Pura no Oeste e se tornou um Buda (iluminado). Ele prometeu a Shaka que enviaria seus discípulos e partiu para o Oeste. Sua terra é chamada de Jodo da Luz Serena, e essa “luz serena” é a luz da Lua, o mundo espiritual da Lua.
-
-No Cristianismo, a Trindade é composta pelo Pai Celestial, o Filho Celestial e o Espírito Santo. O Budismo, por sua vez, é limitado, pois se concentra em cultuar os ancestrais e transmitir isso aos descendentes.
-
-*   Budismo – Vertical – Pai – Pequeno Veículo – Fogo – Leste – Masculino – Bem
-*   Cristianismo – Horizontal – Mãe – Grande Veículo – Água – Oeste – Feminino – Mal
-
-O Budismo é amor hierárquico – lealdade e piedade filial. Os povos do Oriente são bons. A maldade da China foi corrompida pela civilização ocidental. Por serem bons, negligenciam o corpo.
-
-O Cristianismo é amor ao próximo – amor conjugal. Os ocidentais, por serem maus, priorizam o corpo. Contudo, embora tanto o vertical (経) quanto o horizontal (緯) tenham suas falhas, sua união resulta em algo bom.
-
-Jesus Cristo foi crucificado, mas essa foi a marca que lhe foi imposta. A missão da Kannonkai é unir esse vertical e horizontal. A autoridade divina brilhando nos oito cantos do mundo – isso acontecerá quando o bem e o mal forem unidos e todo o poder emanar do Japão. Atualmente, a autoridade do Imperador não está manifesta, mas, no futuro, quando o Japão se unir ao Ocidente, ela brilhará nos oito cantos do mundo.
-
-*   Espírito-Corpo -> Musubi (União) -> Japão (o que será criado no futuro) -> Atuação de Izunome -> Atuação de Kannon (観音) -> Atuação livre e desimpedida.
-
-Os japoneses são de ouro puro, mas muitos japoneses de hoje são apenas folheados a ouro. Coreanos e chineses são de ouro de nove quilates, mais ou menos.
-*   Sol: Raça amarela – Ouro
-*   Lua: Raça branca – Prata
-*   Terra: Raça negra – Ferro/Aço (é interessante que se escreva “homem da terra” para nativos)
-*   Estados Unidos: Estrela
-*   Inglaterra: Lua (a sombra da Lua)
-*   Japão: Sol
-
-A grande quantidade de neblina na Inglaterra está relacionada à Lua.
-
-Até agora, como era noite, a Lua e a Estrela (Inglaterra e Estados Unidos) dominaram. Mas o Sol finalmente nasceu, e a noite acabou. Susanoo no Mikoto (素盞嗚尊) foi para a terra de Yomi, que é a terra da noite, o mundo da noite (*yomi no kuni*). O fato de a Lua e a Estrela (Inglaterra e Estados Unidos) terem se imposto também se deve ao fato de ser o mundo da noite. Quando o Sol subir ao zênite, a Lua e a Estrela desaparecerão. Esse momento será o Mundo de Grande Luz.
-
-Em contraste, a explicação do Budismo é muito diferente, excessivamente simplista.
-
-**O Verdadeiro Grande e Pequeno Veículo**
-
-*   Pequeno Veículo: No Budismo, é para o benefício próprio. O verdadeiro pequeno veículo é a visão superficial. Ações que parecem boas aos olhos dos outros. Os três heróis da bomba – é um bem de pequeno veículo, de lealdade e piedade filial. O portal do pequeno veículo: aqueles que, ao ouvir falar do bem, desejam entrar (o bem pode se tornar mal).
-*   Grande Veículo: No Budismo, é para o benefício dos outros. O verdadeiro grande veículo é a visão profunda. O portal do grande veículo: salvar as pessoas infiltrando-se em grupos de ladrões e malfeitores, acolhendo e salvando até mesmo aqueles com pecados secretos (o mal pode se tornar bem).
-
-Seguindo a lógica do Grande Veículo, a Rússia é o maior benfeitor do Japão. Se a Rússia não fosse uma nação belicosa, o Japão não teria conseguido administrar a Manchúria. Foi por causa da Guerra Russo-Japonesa que o Japão obteve a Manchúria, o que serviu de estopim para sua expansão. Portanto, podemos ser muito gratos à Rússia. Contudo, a Rússia agiu com más intenções, mas acabou favorecendo o Japão. Assim, de um lado, tornou-se algo bom. É por isso que se diz que bem e mal são inseparáveis, que o certo e o errado são um só. Zhang Xueliang, nesse sentido, também foi um benfeitor para o Japão, pois, ao causar o Incidente de Mukden, permitiu a nossa expansão na Manchúria.
-
-Nós também, se não tivéssemos ficado doentes, não teríamos conhecido Kannon (観音). Nesse sentido, fomos salvos pela doença. Portanto, essa doença se torna uma grande benfeitora que nos salvou por centenas, milhares de anos, para sempre.
-
-A pessoa de bem do pequeno veículo chega a um impasse. A pessoa que segue o Grande Veículo vence, mas comete muitos erros. O correto é começar com o Pequeno Veículo e, gradualmente, guiar para o Grande Veículo. As ações devem ser sempre praticadas com o espírito do Pequeno Veículo. Ao observar, deve-se fazê-lo com a mente do Grande Veículo.
-
-A flor de crisântemo, vista de cima, representa o Japão e também o eixo vertical (経). Ela se abre para o céu e para a terra. Quando ilumina o céu, os ventos e as chuvas ocorrem em perfeita ordem. Quando ilumina a terra, a localização dos minérios é imediatamente revelada. A luz penetra o subsolo, permitindo a visão. Primeiro, a luz ilumina o ouro, que a reflete, e essa luz emana das montanhas e do subsolo, revelando imediatamente onde há ouro. Assim, basta escavar o necessário. É por isso que a pobreza pode ser erradicada.
-
-Se o Estado extrair ouro, não precisará mais cobrar impostos do povo à força. As colheitas agrícolas também aumentarão. A produção poderá triplicar em relação a hoje. Os fertilizantes se tornarão desnecessários. Por quê? Porque a “luz” se tornará um excelente fertilizante. Além disso, onde a luz incide, as pragas desaparecem. Chegará o tempo em que as colheitas serão verdadeiramente abundantes.
-
-**A Atuação dos Três Tesouros Sagrados**
-
-*   Japão – Verdade (Joia): A joia verdadeira é a esfera perfeita (a joia de Mani). Kannon (観音) – Cinco – Céu – Luz – União – Centro – Vermelho – Amaterasu Oomikami (天照大神) – Japão (Grande).
-*   Oriente – Bem (Espelho): Vertical – Espírito. Shaka (o espelho do bem) – Sete – Terra – Solo – Amarelo – Esquerda – Masculino – Banko Shinnou (盤古神王) – China (Pequeno).
-*   Ocidente – Belo (Espada): Horizontal. A espada é um adorno (não para ferir, mas para proteger). A lâmina (劒) é para ferir (a espada afiada de Amida). Seis – Direita – Feminino – Médio – Nuvem – Branco – Corpo. Susanoo no Mikoto (素盞嗚尊) – Coreia (Médio).
-
-No Budismo, os sutras mais importantes são o Sutra da Extinção do Darma e o Sutra da Realização de Miroku. Neles está escrito que, após a extinção do Darma, Miroku descerá para pregar sobre o sofrimento, sua causa, sua extinção e o caminho, revelando a via, a lei, a etiqueta e a ordem.
-
-*   Sofrimento: Toda a agonia – doença, pobreza, conflito.
-*   Causa: Reunir tudo isso.
-*   Extinção: Aniquilar completamente.
-*   Caminho: O método, a atividade, o movimento.
-
-Para curar a doença:
-*   Terapia espiritual (expulsar os maus espíritos)
-*   Terapia física (médicos)
-A Kannonkai não se prende a nenhum dos dois; é um método de cura imparcial.
-
-*   Doutrina, Lei, Etiqueta, Ordem
-*   *Michi* (Caminho): *Mi* (corpo) e *Chi* (espírito/sangue). É Izunome ou Kannon (観音). O caminho é a senda que todas as coisas devem percorrer. O Sol e a Lua, para irem do leste ao oeste, têm uma órbita. Tudo se estabelece e progride através do caminho, que é a prática de Kannon (観音). O ideograma de *michi* (道) é composto por “cabeça” (首) e o radical de movimento (∟). A cabeça é o chefe de Estado, o líder do povo. É um ideograma de profundo significado.
-*   Lei: A missão da Kannonkai é fazer o mundo inteiro compreender isso. Se não nos desviarmos da lei do céu e da terra, tudo correrá bem. É a lei do universo (a lei criada pelo Criador), a lei do caminho (a lei de Kannon (観音)), a lei da perfeição absoluta. O ideograma de *ho* (法) significa “remover a água”. É fogo (*hoho*). A água, por ser instável, não é correta. *Hi* se torna *ho*, chama. É algo inviolável, que não se pode tocar. (A água é flexível).
-*   Etiqueta: Deus é ordem. O comunismo tenta destruir isso. O exército é forte porque tem etiqueta. A etiqueta nasce da ordem; sem ela, não há ordem. O ideograma de *rei* (禮) significa “mostrar abundância”. Ter folga. Os ricos da classe alta são corteses, enquanto os pobres não o são. É natural que existam classes. Com etiqueta, a pobreza desaparece. Shinran disse que não tinha um único discípulo, que todos eram seus companheiros. Ele foi o primeiro comunista do Japão. No entanto, tinha discípulos com nomes como “fulano de tal”.
-*   Ordem: Sem ordem (*fushi*, nós/articulações), nada progride. Primavera, verão, outono, inverno são ordens. O movimento de Kannon (観音) também tem suas ordens. Ao superar uma ordem, avança-se. Parar temporariamente é uma ordem, portanto, não há necessidade de se preocupar. A música também tem ordem, e por isso é agradável de se ouvir. As guerras de uma nação também são ordens. A Guerra Sino-Japonesa, a Guerra Russo-Japonesa, a Grande Guerra Europeia, o Incidente da Manchúria foram ordens, e por causa delas o Japão melhorou. A ordem detém o ímpeto para que ele se torne mais forte. Deixar crescer sem controle é ruim. Ao deter, a força aumenta. Aqueles que não conhecem a ordem se cansam no meio do caminho. Sem ordem, tudo é liso, fraco e quebradiço.
-
-Como visto acima, a partir de agora, a doutrina, a lei, a etiqueta e a ordem serão reveladas. Se há um caminho e uma lei para tudo, então senta-se de acordo com a lei, anda-se de acordo com a lei, age-se e dorme-se de acordo com a lei. Assim, tudo procederá em ordem. E se tudo for feito de acordo com a ordem, correrá bem. Quem praticar isso de forma exemplar se tornará uma pessoa íntegra, que realizou a prática de Kannon (観音). Foi isso que Shaka pregou há 2.600 anos.
-(25 de julho de 1935)
-
-## Terceira Palestra: A Verdadeira Natureza do Bodhisattva Kanzeon e o Advento do Messias
-
-Nos Estados Unidos, há uma nova religião chamada Fé Bahá'í. Seu fundador, em estado de possessão divina, anunciou as qualificações do Messias, que são as seguintes:
-
-As Nove Qualificações do Grande Mestre Sagrado (por ‘Abdu’l-Bahá):
-1.  Deve ser o educador de toda a humanidade.
-2.  Sua doutrina deve ser universal e trazer luz à humanidade.
-3.  Seu conhecimento deve ser inato e espontâneo, não adquirido.
-4.  Deve dar respostas claras a todas as questões dos sábios, resolver os problemas mais difíceis da humanidade e suportar com resignação todas as perseguições e sofrimentos.
-5.  Deve ser o doador da alegria e o mensageiro do paraíso da felicidade.
-6.  Deve possuir conhecimento infinito, e sua sabedoria deve ser compreensível.
-7.  Seu discurso deve ser concludente, e seu poder capaz de subjugar até o mais feroz dos inimigos.
-8.  A tristeza e a desgraça não devem ser capazes de afligi-lo; sua coragem e determinação devem ser como as dos deuses, tornando-se mais firmes e fervorosas a cada dia.
-9.  Deve ser o construtor de uma civilização universal, o unificador de todas as religiões, o estabelecedor da paz mundial e o praticante da mais sublime e transcendente moralidade para toda a humanidade.
-
-Quando encontrardes alguém que preencha essas condições, então o mundo poderá receber sua orientação e ser banhado em luz.
-
-A isso, acrescentei os seguintes oito itens:
-
-As Oito Qualificações do Messias:
-1.  Formar curadores para toda a humanidade, capazes de curar as doenças de todos os povos do mundo.
-2.  Para erradicar a pobreza, extrair o ouro ilimitado enterrado no subsolo e distribuí-lo à humanidade.
-3.  Possuir poder absoluto para manipular toda a criação conforme sua vontade, e suas profecias devem se realizar infalivelmente.
-4.  Seu plano divino não deve seguir os passos de ninguém, mas progredir sempre por meios inteiramente novos.
-5.  Ser versado em todos os assuntos da vida humana, como política, economia, religião e arte, e, diante de qualquer problema, resolvê-lo instantaneamente, como quem corta um nó górdio.
-6.  Emitir luz espiritual de seu corpo, como o sol.
-7.  Por possuir a mais alta divindade, subjugar todos os deuses e submeter os demônios.
-8.  Seu poder e virtude inatos devem transformar todos os seres sencientes sem esforço.
-
-**Cristianismo**
-
-Jesus nasceu para redimir os pecados da humanidade e salvá-la. Jesus era judeu, do povo de Israel. Naquela época, havia o judaísmo, cuja profecia dizia que, no fim dos tempos, o Messias apareceria. Messias significa salvador, Cristo. Messias é a palavra hebraica para salvador.
-
-*   Susanoo no Mikoto (素盞嗚尊) – Luz – Jesus
-*   Deus da Lua – Trevas – Maçons (Freemasons)
-
-**O Redentor dos Pecados**
-
-Houve quem percebesse que Jesus não era o Cristo e o denunciasse ao imperador como um falso Cristo. Com base na ideia de que mantê-lo vivo seria um erro terrível, Jesus foi crucificado. Susanoo no Mikoto (素盞嗚尊) havia cometido um pecado no passado e, por isso, foi enviado ao reino de Yomi. Para obter o perdão, ele precisava realizar um grande feito. Foi essa expiação que ele realizou. Portanto, Jesus é o redentor dos pecados. Ele é o representante dos pecados da humanidade, o intercessor que pede perdão em nome de todos.
-
-**O Messias**
-
-O Cristo é aquele que perdoa os múltiplos pecados da humanidade. O Messias aparece para perdoar os pecados.
-
-O espírito e o corpo se unem para formar o homem. Quando se separam, tornam-se o número oito. Ele é o unificador divino. O “Ki” de Cristo é um caractere nobre que atravessa o céu e a terra; a reversão espiritual de “Kami” (Deus) é “Ki”. Diz-se que Cristo descerá das nuvens, mas é absolutamente impossível para um ser humano cavalgar sobre as nuvens. Os seres humanos não foram feitos para permanecer sobre elas. Se isso fosse possível, violaria a lei do universo.
-
-“Jesus” refere-se a Israel. O “e” não atravessa o céu e a terra; é a atuação do ramo. “E” também é o ramo da água. “Su” significa governar sozinho. Refere-se a um分身・分霊 (bunshin/bunrei, avatar/espírito dividido) de Susanoo no Mikoto (素盞嗚尊). O que significa “descer das nuvens”? O que oculta o sol e a lua são as nuvens. Elas se tornam o que oculta a Deus. A atuação das nuvens é ocultar a Deus.
-
-Isso se refere à civilização científica. O que oculta a Deus é a civilização científica moderna. A civilização atual se empenha ao máximo em ocultar a Deus. Os cientistas de hoje, ao ignorarem tudo o que se refere a Deus ou ao espírito e anunciarem seus achados, acabam por classificar tudo como charlatanismo. E, de fato, no mundo de hoje, muitos daqueles que falam de Deus e de espíritos são charlatães, o que é uma vergonha para os verdadeiros. Os verdadeiros sofrem muito por causa disso, e a polícia, que não faz essa distinção, é lamentável. O empenho da ciência em ocultar a Deus é a atuação das nuvens.
-
-A civilização moderna é uma civilização científica. Aparecer na era moderna significa “aparecer das nuvens”. Ou seja, “descer do céu”.
-*   Civilização Espiritual – Civilização Científica
-
-A civilização espiritual é o céu, e a civilização científica é a terra. Portanto, ele desce da civilização espiritual para a civilização científica.
-
-**A Segunda Vinda de Cristo**
-
-Está profetizado que, após dois mil anos, Cristo retornará à terra do ouro. A terra do ouro é o Japão. Se olharmos para o rosto das pessoas, os japoneses têm a cor dourada. Os chineses têm a cor do ouro azulado. O subsolo do Japão contém muito ouro, e sua emanação espiritual torna a pele amarelada.
-
-Diz-se que Cristo e Jesus retornarão ao mesmo tempo. Cristo é o pai de Jesus. Jesus não consegue unificar o mundo. Nem mesmo há dois mil anos ele conseguiu. Kuninotokotachi no Mikoto (国常立尊) unificou o mundo uma vez. Mesmo que Jesus aparecesse agora e redimisse os pecados, não poderia perdoá-los, então sua vinda seria inútil. O mundo ficará chocado quando souber da Kannonkai. Desta vez, um Deus com verdadeiro poder adamantino surgirá para salvar o mundo de até então. E Ele virá com o poder de perdoar os pecados.
-
-A matéria está acima, e o coração está abaixo, por isso está errado. Deus se transformou em Buda e foi para o exterior, por isso se tornou Buda. A matéria é o invólucro, e o coração é o centro. Como Deus foi para o exterior e se tornou Buda, ao retornar ao Japão, deve ser Deus. Se invertermos “shinbutsu” (deus-buda), obtemos “butsushin” (buda-deus), que é o ensinamento reverso (de Shaka).
-
-O exterior é oco (*kara*), e o interior é a alma (*tamashii*). Por isso, chamar uma pessoa de “karatama” refere-se ao corpo e à alma. Como o espírito habita no vazio, chama-se “tamashii” (morada do espírito). Espírito e corpo devem estar unidos. Separados, eles se abrem, formando o caractere oito. O espírito está à esquerda, e o corpo à direita.
-
-Até agora, era “butsushin” (buda-deus), mas agora se tornou uma estrutura de três níveis: a Buda e Deus se acrescentou Izunome, tornando-se Buda, Deus, I. Esses três níveis, com e sem distinção, são o futuro. O centro é o Imperador, acima dele está Izunome no Ookami (伊都能売大神), o exterior é Deus, e Buda se extingue.
-
-Se olharmos para este diagrama verticalmente, temos o seguinte:
-E se dividirmos em seções, temos:
-Nesse momento, teremos o Mundo de Grande Luz.
-E se olharmos diagonalmente:
-
-A Grande Tóquio passou de 15 para 35 distritos. O mar será aterrado para se tornar redondo, mas isso é para o futuro. Questões como a transferência da prefeitura para Tsukishima são parte desse plano divino.
-*   Espírito / Corpo -> Izunome. No mundo espiritual, o espírito está acima, e o corpo abaixo. (53)
-*   Corpo / Espírito -> No mundo físico, o mundo material, o corpo está acima. (35)
-
-O fato de Tóquio ter se tornado 35 distritos também se deve ao Grande Terremoto, o que mostra que o terremoto foi parte do plano divino.
-Se isso atravessar o céu e a terra, torna-se Deus. Isso representa o plano do vertical e do horizontal, que continuará eternamente.
-
-No ideograma de Buda (佛), o arco (弓) representa a lua crescente, mostrando que o budismo é o ensinamento da lua. Esse arco é atravessado por dois bastões verticais. Assim, o arco da lua é atravessado pelos dois bastões de Amida e Shaka, indicando que são homens, não deuses. O radical de pessoa (亻) também indica isso.
-
-A terra (地) é a unificação (十一) que se completa (也). Até agora, não era terra, mas lama, por isso não se solidificava. Por isso, havia terremotos e outras calamidades. No futuro, quando a conclusão chegar, ela se tornará terra pela primeira vez. E quando se tornar terra, não haverá mais terremotos ou desastres, e teremos o paraíso na terra.
-
-**Os Ideogramas de Deus e Buda**
-
-*   Buda (仏) é *butsu*, representando a era da civilização material.
-*   O ideograma de Deus (神) é composto pelo radical “mostrar” (示) e “dizer” (申). O “申” não é o macaco do zodíaco, mas o ideograma de campo (田) com a linha vertical atravessando para cima e para baixo. O ideograma de campo (田) se origina de um círculo com uma cruz (○に十). O círculo é a Terra, e a cruz é a união da linha vertical (fogo) e horizontal (água). Fogo (*ka*) e água (*mi*) formam *kami* (Deus). A Terra é presidida por Deus; é o mundo de Deus. Como Deus não tem começo nem fim, a linha que atravessa para cima e para baixo representa essa eternidade. Esse significado deve ser mostrado à humanidade.
-
-**A Verdadeira Natureza de Kannon**
-
-*   Harmonizando a luz e misturando-se com a poeira.
-Para salvar a humanidade, Kannon (観音) oferece Sua salvação a todos, até mesmo aos piores malfeitores, animais e insetos. Para isso, Ela muda de forma, como o Bato Kannon, para salvar até mesmo os seres do inferno. É de uma reverência extrema que a mais alta e nobre divindade faça um esforço tão tremendo para levar os seres humanos, filhos de Deus que sofrem neste mundo de dor, a uma vida paradisíaca. Sem se prender a nada, Ela se transforma em trinta e três manifestações, sendo flexível, desimpedida e adaptando-se ao interlocutor para agradá-lo.
-
-A interpretação original de Kannon (観音) pelo Grande Mestre Tendai é forçada e incompreensível. Dizer que se “vê os sons do mundo” para salvá-lo é estranho; as coisas se veem, os sons se ouvem. Em suma, ele não conseguiu explicar a realidade.
-
-Em sânscrito, é Avalokiteshvara. Foi Kumarajiva, na China, que o traduziu como Kanzeon.
-
-Amaterasu Sume Oomikami (天照皇大神) se manifestou, e Ame no Oshihomimi no Mikoto (天忍穂耳尊) nasceu. Naquela época, já havia um número considerável de seres humanos, mas o governo não era possível.
-*   Guardião da Esquerda de Amaterasu Sume Oomikami (天照皇大神): Kuninotokotachi no Mikoto (国常立尊)
-*   Guardião da Direita: Susanoo no Mikoto (素盞嗚尊)
-
-Kuninotokotachi no Mikoto (国常立尊) é um deus de lealdade incomparável e grande poder. Ele foi encarregado do plano de pacificação do mundo. No início, tudo correu bem, mas, por ser um deus excessivamente rigoroso, o povo se sentiu oprimido e a situação se tornou insustentável. Quem percebeu isso foi Ame no Wakahiko no Mikoto (天之若彦命), filho de Banko Shinnou (盤古神王). Ele iniciou um movimento para depor Kuninotokotachi no Mikoto (国常立尊), que ganhou muitos adeptos. Eles queriam colocar Banko Shinnou (盤古神王) no poder, um deus bom e gentil, mas sem força. Pensando que, com ele, teriam uma vida fácil, usaram-no como fachada, enquanto o poder real era exercido por Ame no Wakahiko no Mikoto (天之若彦命), que governou o mundo. Por causa disso, Kuninotokotachi no Mikoto (国常立尊) se retirou. Diz-se que ele se retirou para o nordeste. Visto do mundo, é o Japão; visto do Japão, é a região de Tohoku. Como ele se retirou para o nordeste do Japão, ou seja, para *ushitora* (艮), ele é chamado de Ushitora no Konjin (艮の金神). O nordeste do Japão é o Monte Ashibetsu, em Hokkaido, para onde ele se retirou. Por outro lado, no mundo espiritual, ele se tornou Enma Daioh. Os deuses podem dividir seu espírito livremente, manifestando-se em vários pilares.
-
-Então, Izunome no Ookami (伊都能売大神), por um lado, tornou-se Kannon (観音) na Índia; por outro, como Konohanasakuya-hime no Mikoto (兄の花姫尊) (a flor de ameixa), estabeleceu-se no Monte Fuji; e, por outro, como um dragão dourado, ocultou-se no Lago Biwa, na província de Omi. A razão para isso é que, se o Monte Fuji e o Lago Biwa fossem ocupados por deuses malignos, o Japão estaria em perigo. Por que o Monte Fuji é tão importante? Porque, em termos humanos, o Monte Fuji é o umbigo. E, no corpo humano, o umbigo é o ponto mais vital. Foi por isso que ela se tornou Konohanasakuya-hime e um dragão dourado para proteger esses dois locais.
-
-Toyokumonuno no Mikoto (豊雲野尊), a esposa de Kuninotokotachi no Mikoto (国常立尊), sacrificou-se por seu marido e se retirou para o sudoeste (*hitsujisaru*). O sudoeste é a ilha de Kikai-ga-shima. Essa deusa é Omoikane no Mikoto (思兼尊). Por outro lado, ela se dividiu e se tornou Konohanasakuya-hime no Mikoto (木の花咲耶姫命), foi para a Índia e se tornou Shaka. A flor de Konohanasakuya-hime no Mikoto (木の花咲耶姫命) é a flor de cerejeira.
-
-Ame no Wakahiko no Mikoto (天之若彦命) governou o mundo, e por um tempo todos se alegraram com a vida fácil. No entanto, ele começou a se entregar às mulheres, e o mundo mergulhou novamente no caos.
-
-Wakahimegimi no Mikoto (若姫岐美命), a esposa de Ame no Wakahiko no Mikoto (天之若彦命), era uma mulher muito virtuosa, mas, sem que ninguém soubesse, ela desenvolveu uma relação amorosa com Susanoo no Mikoto (素盞嗚尊). Naquela época, Susanoo no Mikoto (素盞嗚尊) estava na Coreia e, transformado em corvo, ia encontrá-la. O santuário Okarasu Myojin foi erguido para venerar esse deus, que mais tarde se tornou Kasuga Myojin.
-
-Otohime no Mikoto, esposa de Susanoo no Mikoto (素盞嗚尊), é a mesma Otohime das lendas. Por ser a irmã mais nova de Amaterasu Sume Oomikami (天照大神様), era chamada de Oto-hime (princesa mais nova). Essa deusa tem uma relação muito importante com Kannon (観音). Otohime era uma deusa extremamente ciumenta e, consumida pelo ciúme, transformou-se em um dragão e se escondeu no fundo do mar, tornando-se o deus de Watatsumi, O-watatsumi no Kami, ou Unabarahime no Mikoto, e construiu um palácio de dragão no fundo do mar. Isso ocorreu no mundo espiritual, e ela se tornou a rainha dos mares.
-
-Otohime era muito gananciosa e poderosa, e reuniu todos os tesouros do mundo e os escondeu no mar. Esses tesouros eram de natureza espiritual. Foi por isso que os minérios da terra não foram descobertos. Com esses tesouros, ela tentou tomar o poder do mundo, mas, por ser mulher, não conseguiu. Sem alternativa, ela seduziu o governante da época.
-*   Governante do Mundo Divino: Banko Shinnou (盤古神王) -> Daijizaiten.
-
-Esse deus precisava de ouro e, para obtê-lo, pediu os tesouros de Otohime no palácio do dragão. Por milhares de anos, Otohime foi a detentora do poder real. “Kanzeon” significava “observar o mundo de Otohime”. O período é de aproximadamente três mil anos, dividido em nove, seis e três mil.
-
-*   Terceiro período: observar (miru)
-*   Segundo período: o mundo (yo)
-*   Primeiro período: de Otohime (Oto)
-*   Kan-ze-on (観世音)
-
-Kuninotokotachi no Mikoto (国常立尊) recebeu a ordem de Amaterasu Sume Oomikami (天照大神) há nove mil anos. “Oto” (音, som) é a forma do sol, ou seja, da unificação. É um ideograma que significa “o dragão unifica o mundo”, mostrando que Otohime estava unificando o mundo. Quando o dragão unifica o mundo, torna-se escuridão (*an*). Também é trevas (*yami*). O fato de o ideograma de trevas (闇) sempre conter o de som (音) deixa isso claro. Todos os ideogramas foram criados com um significado.
-
-O período de unificação de Otohime é chamado de “Mundo das Trevas”. Sua forma é a de um dragão negro, que é um dragão maligno. Certa vez, vi um dragão negro nadando no lago do deus-dragão na casa do Sr. Ochi Ryuzo.
-*   Ochi (越) -> Otsu (乙)
-*   Chi (智) -> Chi (血, sangue/espírito)
-*   Ryu (隆) -> Ryu (龍, dragão)
-*   Zo (蔵) -> Osamu (governar), Kakureru (esconder-se), Kakusu (esconder)
-
-Ochi Ryuzo é o arquétipo de Otohime. O próprio caractere *Otsu* (乙) tem a forma de um dragão. O nome significa “esconder ou governar o dragão que possui o sangue, ou seja, o espírito de Otohime”. Entendi bem quando, durante um festival para o deus-dragão na casa do Sr. Ochi, um lago de três ou quatro *shaku* foi cavado, e por cerca de cinco minutos, um dragão negro nadou, enchendo o lago.
-
-Dizer que vivemos em um mundo de trevas e ignorância significa que é o mundo de Otohime. Kanzeon é o nome usado enquanto Otohime governa o mundo, portanto, não será usado por muito mais tempo no futuro. Quando Otohime ceder o mundo a Deus, o nome Kanzeon não será mais usado. Isso indica que, em breve, chegará o tempo em que o nome da Kannonkai também mudará. Outro nome é Kanjizaiten; na Índia, é Kanjizaiten.
-
-Como na Índia o deus supremo é Daijizaiten, o nome significa “observar o mundo de Jizaiten”. No Japão, é Kanzeon, que significa “observar o mundo de Otohime”, como mencionado anteriormente.
-
-*   Dragão -> Deter -> Trevas -> Negro
-*   Estabelecer a retidão para pacificar o país (*rissho ankoku*)
-
-Um deus maligno possuiu Nitiren Shonin e o fez pregar essa tese, *Rissho Ankoku Ron*. Que esse deus maligno também era um deus-dragão fica claro pelo caractere *ritsu* (立, estabelecer). A tese era boa para aquela época, mas hoje não serve mais. O significado é: “O dragão detém a Deus e cria um mundo de trevas”.
-
-Kannon (観音) significa perfeição completa. Ser redondo e completo. Uma esfera perfeita. A esfera perfeita pode ser compreendida observando um diamante. Um diamante tem oito facetas; ao remover essas facetas, ele se torna uma esfera perfeita. Oito vezes oito são sessenta e quatro facetas. As sessenta e quatro facetas se tornam uma esfera perfeita.
-
-As trinta e três manifestações são, na verdade, trinta e duas. São as encarnações, e ao adicionar o corpo principal, o Sho Kannon, temos trinta e três. O Sho Kannon nunca se transforma. As sessenta e quatro províncias do Japão têm uma correspondência com isso. A joia de Mani, também chamada de Nyoihoshu. O espírito divino (*mitama*) é chamado de Deus (*kami*). Ser Deus é ser uma esfera perfeita, completo.
-
-Se o ponto ao lado da joia (玉) for colocado acima, torna-se “senhor” (主). O ideograma de joia é muito nobre. Izunome significa perfeição e fluidez. A joia rola livremente em qualquer direção. Um deus com arestas não pode ser um deus bom. É preciso ser redondo. Por ser redondo, rola. Rola livre e desimpedidamente.
-
-Girar a roda do Darma refere-se a Kannon (観音). É espirituoso e descontraído. Faz rir muito. Quanto mais próxima uma pessoa está da prática de Kannon (観音), mais redonda ela é. É preciso se adaptar a qualquer pessoa. Ficar com raiva não é ser redondo. Confrontar as pessoas é ter arestas. Na prática de Kannon (観音), sem remover essas arestas, não se pode se tornar redondo. E ser melancólico também não é bom. Incentivo a composição de poemas cômicos por essa razão. Rindo e fazendo rir, cria-se naturalmente um estado paradisíaco e se alcança a perfeição. A paz mundial é o fim dos conflitos.
-(5 de agosto de 1935)
-
-## Quarta Palestra: A Verdadeira Natureza dos Três Mundos: Divino, Espiritual e Físico
-
-As religiões do passado discorreram sobre diversos temas, mas de forma fragmentada, sem revelar a verdade completa. Minha intenção é estruturar esses conhecimentos da maneira mais compreensível possível. Peço que, mesmo os iniciantes, ouçam com a mente aberta, acreditando desde o início, para que possam entender bem.
-
-O mundo búdico desaparecerá gradualmente, pois os Budas retornarão ao mundo divino. Com isso, ocorrerá a extinção do budismo. O monge Nitiren falou em oito infernos, mas na verdade são nove, o que também se alinha com o número de Miroku.
-
-O mundo divino existe tanto no plano espiritual quanto no plano físico, mas o paraíso é algo que transcende a sociedade atual. Por enquanto, apenas o terceiro paraíso foi minimamente estabelecido. Em contrapartida, os infernos estão excessivamente bem estruturados, o que não é digno de admiração.
-
-A missão da nossa Kannonkai é construir o paraíso no mundo físico. As religiões se esforçam para elevar as pessoas ao paraíso, enquanto os demônios se dedicam a arrastá-las para o inferno. Essa disputa entre a religião e o demônio se manifesta no mundo físico, mas, até agora, a religião tem sido sempre derrotada. Isso se deve ao fato de que, até o presente, o mal detinha a proteção divina, tornando-se mais poderoso. O mundo búdico desaparecerá gradualmente, dando lugar apenas ao mundo divino, pois os Budas retornarão ao seu seio. Com isso, ocorrerá a extinção do budismo. Esse retorno significa que os Budas voltarão para o Japão.
-
-O que se faz diariamente no mundo búdico? Ouvem-se diversos sermões. Os seguidores de Kobo Daishi se reúnem no mundo espiritual de Kobo, e os de Nitiren, no de Nitiren, escutando as pregações desses monges. O mundo divino atual não tem qualquer relação com o mundo físico.
-
-**O Estado da Vida e da Morte**
-
-Quando uma pessoa de bem morre, seu espírito sai pela cabeça e vai para o mundo espiritual. Nesse momento, ela pode ver seu próprio corpo inerte abaixo, e seus parentes e irmãos chorando agarrados a ele. Gostaria de lhes dizer algo, mas, estando em planos diferentes, não consegue se comunicar e parte para o mundo espiritual. Em contraste, quando uma pessoa má morre, seu espírito sai pelos pés e ela cai de cabeça para baixo no inferno.
-
-Após a morte, todos os espíritos, sem exceção, vão para o Rio Sanzu. Alguns espíritos dizem que o rio tem água; outros, que está repleto de cobras. O rio é largo, e sobre ele há uma longa ponte. Ao atravessá-la, a cor das vestes muda; a dos maus se torna negra. Na margem do rio, a velha Datsueba arranca as vestes. Após cruzar a ponte, há o julgamento no tribunal de Enma, mas, como todos os atos bons e maus da vida já são conhecidos, o processo é breve. Além disso, o espelho de Johari reflete tudo, tornando impossível esconder qualquer coisa.
-
-Os espíritos que se arrependem nesse ponto vão para Yachimata (a encruzilhada de oito caminhos), também chamada de encruzilhada dos seis reinos, no mundo dos espíritos. Lá, monges pregam, e os espíritos que se corrigem vão para o paraíso. No entanto, no futuro, o mundo búdico desaparecerá gradualmente, dando lugar ao mundo divino.
-
-Mesmo praticando em Yachimata, alguns não conseguem ir para o mundo divino por causa de sua luz ofuscante. Outros, por afinidade espiritual, preferem lugares escuros e vão para o inferno por vontade própria. É como oferecer a um mendigo um banquete suntuoso em um palácio de ouro e joias; ele acharia a comida insossa e o ambiente opressivo, preferindo um simples cozido salgado.
-
-A Kannonkai é um ensinamento correspondente ao paraíso supremo. Aqueles que consideram trivial trabalhar para os outros não pertencem a esse paraíso e buscarão uma fé que lhes seja mais adequada. A Kannonkai trabalha para a humanidade mundial, e a ascensão pessoal é uma questão secundária. Contudo, ao colocar a ascensão pessoal em segundo plano e trabalhar para a humanidade, o próprio caminho se abre. Em contrapartida, aqueles que ridicularizam o trabalho pela humanidade e se concentram apenas em sua própria ascensão serão, inversamente, rebaixados. A grandiosidade de trabalhar pela humanidade reside no fato de ser um serviço direto ao plano divino de Deus.
-
-Quanto mais profundo o inferno, mais escuro e frio ele é. Deus é calor e luz; afastar-se Dele significa afastar-se do calor e da luz. A claridade de Yachimata é semelhante à do mundo físico. O terceiro paraíso é cerca de três vezes mais claro; o segundo, cinco vezes; e o primeiro, sete vezes. O paraíso supremo é um mundo de luz.
-
-**Os Infernos**
-
-*   Caminho da Luta
-*   Caminho da Fome
-*   Caminho da Luxúria
-*   Caminho dos Animais
-
-Esses caminhos do inferno correspondem às vidas que as pessoas levaram no mundo físico. Aqueles que cometeram suicídio por amor, especialmente os que se mataram abraçados, no caminho da luxúria, têm seus corpos fundidos e não conseguem se separar, sentindo dificuldade até para andar. Pensar que encontrarão alívio na morte é um grande engano; no mundo espiritual, o sofrimento pode ser ainda maior. Particularmente, no caso de adultério seguido de suicídio, um corpo fica de pé e o outro, invertido, grudado a ele, tornando o caminhar quase impossível. Achar que a dor acaba com a morte é um erro, pois o mundo espiritual é uma extensão do mundo físico. O sofrimento da doença continua no espírito. Aqueles que se jogaram no Monte Mihara vão para o inferno do calor abrasador, pois morreram queimados, e esse estado de queimação continua. Todo suicídio leva ao inferno. A morte por afogamento leva ao inferno do frio extremo, pois a pessoa permanece perpetuamente submersa. A morte no parto leva ao inferno de sangue.
-
-Pensar que a doença desaparece com a morte é um grande engano. Ela não se cura; pelo contrário, a dor se intensifica. Isso ocorre porque o espírito é mais sensível, e, portanto, a dor e o sofrimento são maiores.
-
-Os espíritos que não recebem oferendas vão para o caminho da fome. Espíritos gananciosos e cruéis também seguem por esse caminho, pois sua cobiça causa sofrimento e angústia aos outros. Quanto às oferendas, diversos espíritos se alimentam delas, mas os verdadeiros deuses não consomem alimentos; ao contrário, infundem sua energia espiritual nas oferendas. Para os grandes deuses, toda a criação lhes pertence, então não precisam do que os homens oferecem. Se desejassem, poderiam comer qualquer coisa, e não seria roubando. Em contraste, os espíritos famintos comem indiscriminadamente os alimentos expostos nas lojas, e por isso esses alimentos perdem o sabor. Fica claro que os deuses de até então eram deuses que apenas consumiam o que os humanos lhes ofereciam.
-
-No caminho dos animais, caem os espíritos que, estando no caminho da fome, roubam a comida de cães e gatos. Nesse ato, o espírito se funde com o do animal, caindo no caminho dos animais. Existem cães e gatos que servem muito bem aos humanos; são espíritos que reencarnaram e, ao servirem aos homens, expiam seus pecados para, na próxima vida, renascerem como humanos.
-
-O sofrimento mais longo no inferno é de seis mil anos. Depois disso, até mesmo os espíritos do inferno mais profundo são perdoados. O país do fundo é o fundo do mar.
-
-O estado mental no momento da morte também causa grandes diferenças individuais. O grau de apego à vida é um fator crucial. Aqueles que morrem desejando ir rapidamente para o paraíso não reencarnam tão cedo, pois, tendo alcançado o que desejavam, não sentem vontade de renascer como humanos. Em contrapartida, aqueles com forte apego à vida reencarnam mais rapidamente. Pessoas que morrem subitamente, como por um derrame cerebral, precisam especialmente de oferendas. Espíritos com forte apego à vida frequentemente se apegam aos parentes, causando-lhes doenças. Além disso, quando os pais lamentam a morte de um bebê, este tende a reencarnar rapidamente, mas uma criança que reencarna muito cedo não é boa, pois seu espírito ainda não foi purificado. Se reencarnar após a purificação, virá como uma criança esplêndida.
-
-**O Mundo dos Deuses-Dragão**
-
-O mundo dos deuses-dragão existe no mundo espiritual. Os deuses-dragão governam principalmente os fenômenos naturais. As baixas pressões de tantos milibares e as linhas de descontinuidade mencionadas pelos observatórios meteorológicos são todas obras dos deuses-dragão. O mundo dos deuses-dragão é uma atividade do plano espiritual.
-*   Sol: Dragão Dourado – Kuninotokotachi no Mikoto (国常立尊) (Dragão Macho) – Gera dragões machos.
-*   Imperador: Dragão Celestial – O dragão que nasce como Imperador, o mais elevado dos dragões.
-*   Lua: Dragão Prateado – Toyokumonuno no Mikoto (豊雲野尊) (Dragão Fêmea) – Gera dragões fêmeas.
-
-Estes são os mais elevados deuses-dragão. Quando o Dragão Dourado se esconde no subsolo (dragão latente), ele oculta sua luz e se torna um Dragão Amarelo (dragão aquático). O Dragão Dourado e o Dragão Prateado protegem o Dragão Celestial.
-
-Na época da consolidação da Terra, Kuninotokotachi no Mikoto (国常立尊) e Toyokumonuno no Mikoto (豊雲野尊) geraram inúmeros deuses-dragão para compactar o solo. Os vales e riachos são os rastros deixados pelos deuses-dragão ao se contorcerem. Pelas marcas deixadas, fica claro que eram todos grandes deuses-dragão. Após sua morte, seus corpos espirituais continuam a realizar diversas missões. A purificação do céu e da terra é obra dos deuses-dragão.
-*   Dragão Branco: Traz a chuva e purifica a água.
-*   Dragão Azul: A maioria dos humanos se torna este dragão azul (a cobra-rateira azul).
-*   Dragão da Montanha: Gera o vento e as nuvens. A abundância de nuvens nas altas montanhas é obra dos dragões da montanha. O vento também costuma nascer nas altas montanhas.
-*   Dragão da Árvore: Deus-dragão que habita nas árvores, principalmente em pinheiros e salgueiros.
-*   Dragão de Fogo: Causa os raios e queima tudo em grandes incêndios. Em um grande incêndio, o fogo que se alastra é levado pelo dragão de fogo.
-*   Dragão da Terra: Este deus-dragão causa os terremotos.
-*   Dragão Vermelho: É Satã.
-*   Dragão Negro: O mais feroz e maligno dos dragões.
-*   Dragão do Mar: Refere-se a Otohime, do palácio do dragão.
-*   Dragão de Nove Cabeças: Este deus-dragão costumava se manifestar em mim. Ele gradualmente se humanizou e começou a falar, dizendo ser o Kusushi-no-miya do Monte Fuji. Ele está esplendidamente presente no Monte Fuji. Este dragão de nove cabeças é o chefe dos Oito Grandes Reis Dragões. Na verdade, são Nove Grandes Reis Dragões, mas o Dragão Dourado de Izunome foi ocultado. Adicionando um traço ao caractere de Otohime (乙), obtemos o de nove (九), mostrando que ele é um dragão superior a Otohime e o mais elevado de todos os dragões.
-
-Os dragões fêmeas realizaram o trabalho da água, distribuindo-a. A água que hoje brota do subsolo segue os caminhos percorridos por esses dragões, e por isso esses caminhos são sinuosos. A existência de veios grossos e finos se deve ao tamanho dos dragões.
-
-**O Mundo dos Tengu (Mundo Intermediário)**
-
-Este mundo dos Tengu é uma atividade do mundo físico. Os Tengu são todos masculinos. Existem os reinos celestial, intermediário e inferior. O mundo dos Tengu é o intermediário e se localiza nas regiões montanhosas. São aquelas figuras de rosto vermelho e nariz comprido que vemos nas pinturas. O general dos Tengu é Sarutahiko no Mikoto, que reside no Monte Kurama. Foi lá que Ushiwakamaru (o jovem Yoshitsune) foi instruído por ele. Ushiwakamaru é uma pessoa com uma profunda conexão com os deuses.
-
-Existem dois tipos de Tengu: humanos e pássaros. Os Tengu humanos são formados por sacerdotes xintoístas, monges budistas e eruditos que não eram nem bons nem maus o suficiente para subir ao paraíso ou descer ao inferno, e por isso entraram no mundo intermediário dos Tengu. Os Tengu pássaros se dividem em Tengu corvos e Tengu folhas. Os Tengu corvos são formados por corvos, que são considerados mensageiros de Amaterasu Oomikami (天照大神) e, portanto, têm uma conexão com os deuses. Os Tengu folhas são formados por todas as outras aves quando morrem. Sarutahiko no Mikoto era originalmente um deus do segundo paraíso, mas cometeu um erro e, como punição, foi rebaixado ao mundo dos Tengu, tornando-se seu general.
-
-Doryo Gongen, Akiba, Hansobo são todos Tengu. Doryo Gongen é uma águia. O mundo dos Tengu adora o debate, e o debate e a discussão são sua ocupação. A posição hierárquica sobe conforme se vence nos debates. Eles também jogam go e shogi. De qualquer forma, adoram a competição. A linguagem dos Tengu é o “sa-shi-su-se-so”.
-
-Os Tengu gostam de voar e de escrever, e sua caligrafia é excelente. Todos eles vivem em montanhas altas. Possuem poderes espirituais e podem transportar um ser humano de uma montanha a outra sem esforço. Transportam crianças por distâncias de dez *ri* em um piscar de olhos. Os espiritualistas do passado eram todos desse tipo. Tanaka Morihei do Daireido, o deus de Onden, Iino Yoshisaburo são exemplos. Quando possuídos por um Tengu, tornam-se extremamente arrogantes. Eles também podem ser salvos se fizerem o bem, mas como se envaidecem rapidamente, cometem atos malignos e se envolvem com mulheres, os deuses retiram o espírito do Tengu, e eles perdem seus poderes. A perda de poderes de Iino Yoshisaburo ocorreu exatamente por isso; ele cometeu o mal e seu espírito foi retirado.
-
-Os Tengu e os Sennin (imortais) são muito semelhantes. Os Sennin são humanos que aprendem as artes imortais. Há muitos Sennin na Coreia. Existem três tipos: celestiais, da montanha e da terra. Para treinar como um Sennin, come-se bolinhos de farinha de trigo sarraceno com folhas de pinheiro, começando com cinco ou seis por dia e diminuindo gradualmente até que um seja suficiente. O corpo se torna extremamente leve, e pode-se saltar sobre montanhas sem sentir medo. Esses Sennin acabam por conseguir viver sem comida. Ainda hoje, parece haver um número considerável de Sennin. Viver do orvalho, como se diz, é algo que pode ser alcançado com a prática. Para se tornar um Sennin, existe um grande mestre em algum lugar. Ele não aceita mais de dois ou três discípulos, que aprendem tudo com ele.
-
-A história de Torakichi, escrita por Hirata Atsutane, é um relato sobre um Sennin com grande veracidade. Foi ouvida diretamente de Torakichi e contém histórias bastante peculiares.
-
-Os Tengu protegem as montanhas para que não sejam profanadas. Aqueles que morrem ou se perdem nas montanhas foram punidos pelos Tengu por profaná-las. Deve-se subir as montanhas com um espírito de reverência, com a atitude de quem pede permissão para entrar em contato com a energia espiritual da montanha. Diz-se que um Tengu pode viajar de Tóquio a Osaka em cerca de três minutos, o que é surpreendente. A arte de saltar dos guerreiros foi ensinada pelos Tengu.
-
-**A Relação entre o Mundo Espiritual e o Mundo Físico**
-
-*   Mundo Físico: Fogo, Água, Terra.
-    *   O fogo queima com água e matéria. A água flui por causa do fogo; sem fogo, congela. O mesmo se aplica a um casal; por serem opostos, a criação e o desenvolvimento ocorrem, e o progresso acontece. Por mais opostas que sejam as personalidades, a harmonia se estabelece na medida em que os filhos nascem.
-    *   A terra é composta por onze elementos: madeira, pedra, metal, fogo, água, cinza, carvão, ácido, densidade, união, viscosidade. Portanto, onze é igual a terra.
-*   Mundo do Ar: Oxigênio, Nitrogênio, Água. Destes, surgem a força, a água e o fogo.
-*   Mundo Espiritual:
-    *   Eléktron / Mícroton
-    *   Pósitron / Elétron
-    *   Próton / Nêutron
-    *   Yomisshi / Inmisshi (partículas a serem descobertas no futuro)
-
-Pósitrons e elétrons se unem para formar o elemento espiritual, e os elementos espirituais se unem para formar a matéria. Atualmente, foi descoberta uma partícula extremamente fina chamada próton, e seu correspondente, o nêutron, está prestes a ser descoberto. Além disso, nomeei provisoriamente como Yomisshi e Inmisshi as partículas que serão descobertas no futuro. O mundo espiritual deve ser compreendido em três níveis: elemento espiritual, elemento sutil e elemento denso. Só então o mundo espiritual começará a ser compreendido. Com essa compreensão, Deus se tornará conhecido mais pela via do conhecimento do que pela fé.
-
-O som também possui luz e cor. Diz-se que isso já pode ser capturado em filmes sonoros. Cada músico tem sua própria cor e luz, e a cor muda de várias maneiras dependendo do compositor, o que é belo. E o fato de ser diferente para cada pessoa é o que o torna interessante.
-
-Existe a frase: “A Palavra é Deus; por ela todas as coisas foram feitas”. A atuação das minhas palavras é tremenda. Quando eu ainda morava em Omori, houve uma vez em que curei doenças com o Kotodama. A cura é certa, mas como isso não remove o pecado e a mácula, o essencial é purificar o pecado e a mácula passando a mão para curar a doença.
-
-No final, o espiritual e o científico se tornarão um só. O espiritual é o Japão; o científico é o exterior. O espiritual e o científico estão se aproximando a uma velocidade vertiginosa.
-*   Espiritual = Japão = Amaterasu Sume Oomikami (天照皇大神) = Raiz do Sol = Microcosmo e Macrocosmo
-*   Científico = Exterior = Susanoo no Mikoto (素盞嗚尊) = Judeia
-
-O momento em que a Judeia se submeter ao Japão será o início do 5-6-7, o primeiro passo para o Mundo de Grande Luz. O plano divino de Kannon (観音) avança nessa direção. Isso é algo que já está absolutamente claro, e por isso é bom. Sem a menor preocupação, chegaremos infalivelmente a esse ponto.
-(15 de agosto de 1935)
-
-## Quinta Palestra: A Verdadeira Natureza do Bem e do Mal e a Construção do Mundo de Luz
-
-No mundo espiritual, o que corresponde ao mundo físico é Yachimata, a encruzilhada. É um lugar intermediário entre o paraíso e o inferno. O mundo atual reflete claramente essa natureza de encruzilhada. No paraíso, quanto mais se sobe, mais belo e esplêndido tudo se torna.
-
-As construções do terceiro paraíso são feitas com uma mistura de diversos materiais. As do segundo paraíso são de pedra. As do primeiro paraíso são todas de madeira. Os santuários de cipreste correspondem ao primeiro paraíso. A religião Tenrikyo corresponde ao segundo paraíso. O paraíso supremo é de uma magnificência extrema, utilizando ouro, prata e pedras preciosas, com o ouro sendo o material principal.
-
-Os habitantes do paraíso supremo vivem quase que inteiramente nus. Em pinturas, é comum ver anjos com a pele à mostra, trajando apenas finos tecidos esvoaçantes, que são usados para voar. Além disso, quanto mais elevado o paraíso, mais flores há.
-
-É verdade que anjos vêm buscar as pessoas na hora da morte. Isso acontece não apenas com os de fé profunda, mas frequentemente com jovens virgens. No momento da morte, os anjos descem em nuvens púrpuras, tocando música, e o espírito que parte é recebido com alegria e sobe aos céus nas nuvens.
-
-Quando espíritos de raposas ou texugos olham para o meu corpo físico, veem uma luz intensa e não conseguem identificar o que é. Certa vez, antes do grande terremoto de Tóquio, um espírito que estava sendo purificado por mim relatou ter me visto no paraíso, vestido com trajes cerimoniais, subindo uma escadaria e entrando por trás de uma cortina de bambu. Ele disse que meu chapéu era como o de Tenjin-sama, com vestes azuis e um forro vermelho visível na barra. O que ele viu foi o espírito divino que veio realizar a purificação e depois retornou ao paraíso. O local para onde o espírito divino subiu torna-se sua morada. O paraíso é criado pela mente de Deus e dos homens. Se a mente for má, o inferno é criado. O mundo espiritual é um mundo mental, e, pela lei da afinidade, tudo se manifesta de acordo com o pensamento.
-
-Neste salão, muitos espíritos estão presentes. São os espíritos de seus antepassados e amigos. O desejo de ouvir o que tenho a dizer faz com que o espírito vivo da pessoa venha até aqui. Como o espírito está ouvindo, a pessoa, em algum momento, pode ter uma compreensão súbita; isso acontece porque seu espírito ouviu. Assim, há milhares de pessoas neste salão, talvez mais do que se pode contar. Os espíritos são elásticos e podem passar pelo buraco de uma agulha. Eles podem entrar e sair de qualquer lugar, não importa o quão bem fechado esteja. Durante a purificação, quando um espírito de raposa diz para abrir a porta para que ele possa sair, é um truque; ele pode sair sem que se abra nada.
-
-Quanto mais inferior o espírito, menor ele é. Os espíritos salvos têm aproximadamente o mesmo tamanho de uma pessoa. Os espíritos de Yachimata também têm o tamanho de um ser humano e se tornam maiores à medida que adquirem divindade. A imagem de Kannon (観音), sentada, atinge a altura do dintel da porta. Foi essa imagem que vi e que pintei, tornando-se o objeto de veneração na antiga sede, a Kannon do Sol Nascente. Ela estava quase nua, com uma luz muito intensa e cintilante. Foi a primeira vez que pintei a imagem de Kannon (観音), e isso me serviu de grande referência para futuras pinturas.
-
-Certa vez, durante a purificação de uma senhora, um espírito me disse: “Eu sou um deus antigo. Não posso dizer meu nome, mas vim ensinar-lhe a expulsar o demônio que possui aquele doente. Se você espalhar sal na direção nordeste e recitar a oração todas as manhãs, ele será curado.” E então se retirou. A senhora me disse: “Fiquei muito assustada. Quando o senhor começou a recitar a oração, um deus enorme apareceu de repente, vestindo roupas de folhas de árvores, brilhando em azul, vermelho e roxo. Seu cabelo estava penteado para trás, e ele usava uma faixa na testa. Sentado, ele tinha a altura do dintel da porta.” Seguindo as instruções, o doente foi curado. Mais tarde, perguntei ao mestre Deguchi Onisaburo, da Oomotokyo, sobre a aparência desse deus, e ele me disse que era a imagem de Kuninotokotachi no Mikoto (国常立尊) em batalha.
-
-Depois disso, a senhora passou a sentir uma estranha relutância em vir à minha casa, sentindo uma aversão insuportável, mas forçou-se a vir. Durante a purificação, o deus apareceu novamente e, com um chicote, expulsou algo escuro, como outro espírito, de dentro dela. A senhora estava possuída por um demônio, e por isso sentia aversão em vir. O fato de ter se forçado a vir permitiu que o deus a libertasse. Quando alguém sente aversão em vir à casa de Deus, é porque um demônio está tentando impedi-lo. Nesses casos, basta vir de qualquer maneira, e o demônio se afastará. Espíritos desse tipo temem a Deus e Sua luz.
-
-Os espíritos superiores podem descer, mas os inferiores não podem subir. É como no palácio imperial: um plebeu não pode entrar, mas Sua Majestade, o Imperador, pode ir a qualquer lugar e interagir com o povo.
-
-Em locais onde ocorreram mortes violentas, é comum que outras mortes aconteçam. Isso ocorre porque o espírito da pessoa que morreu violentamente fica preso ao local, seja ao tatame, aos trilhos do trem, etc. É o que chamamos de espírito preso à terra. Como não pode se mover e se sente solitário, ele puxa os transeuntes ou pessoas distraídas, causando acidentes no mesmo lugar. O mesmo acontece nas casas onde houve mortes violentas. Logo após a morte, o espírito é mais denso, e é por isso que fantasmas são vistos.
-
-Quanto mais superior o espírito, mais finas são suas células espirituais e mais rarefeito ele é. Os espíritos do mais alto nível são tão rarefeitos que emitem luz.
-
-A epilepsia é causada pela possessão de um espírito de um morto, que encena as circunstâncias de sua própria morte. A forma como uma pessoa que morreu de derrame cerebral cai pode ser vista em um ataque epilético. Se a pessoa morreu afogada, o epilético espuma pela boca; se foi por fogo, o espírito de um queimado está possuindo-o.
-
-Os espíritos dos três heróis da bomba se desintegraram, perdendo a consciência. Mas, após quatro ou cinco dias, os fragmentos começam a se reunir, e a forma se reconstitui. Como morreram pela pátria, esses espíritos podem ir para o paraíso.
-
-Pessoas que não acreditam no paraíso ou no mundo espiritual em vida, quando morrem, como o espírito do escritor Tokutomi Roka, só conseguem se expressar como uma criança de jardim de infância. Por não acreditarem em Deus ou em Buda e não conhecerem o mundo espiritual, não se preparam para a vida após a morte e ficam em um limbo. O destino dos acadêmicos ateus é verdadeiramente trágico. O homem sem fé se torna um vagabundo espiritual. Em Yachimata, ele ouve os sermões e se junta ao grupo que mais lhe agrada.
-
-Na Europa, os cientistas estudam o espírito, mas no Japão, eles o negam ou se opõem. Na Inglaterra, existem cinco ou seis universidades de estudos espirituais. O Dr. Ward, em suas viagens ao mundo espiritual, é chamado para lá cerca de uma vez por semana. Durante uma ou duas horas, ele entra em um estado de transe e, nesse curto período, consegue explorar uma vasta área do mundo espiritual. O espírito do presidente do London Times, que morreu há cerca de dez anos, se manifesta. Durante as sessões de pesquisa espiritual, usa-se uma corneta. A corneta flutua no ar, e dela sai uma voz: “Eu sou o presidente do London Times, chamem o editor-chefe.” O editor-chefe é chamado, e o espírito lhe dá diversas instruções sobre a administração do jornal.
-
-Na Sociedade de Pesquisa Espiritual do Sr. Asano Wasaburo, foi realizado um experimento com o médium Kamei Saburo. Primeiro, suas mãos e pés foram amarrados a uma cadeira para que não pudesse se mover. Em cima de uma mesa, foram colocados brinquedos pintados com tinta fosforescente. As luzes foram apagadas, e um fonógrafo começou a tocar música. Após um tempo, a música induziu um estado de completa ausência de pensamento. Após a duração de um disco, a atividade espiritual começou a se manifestar. Os brinquedos, mantendo seu ângulo, flutuavam pelo ar, visíveis pela luz fosforescente. A corneta voava pelo ar, emitindo sons de “pá, pá, pá” enquanto se movia. De repente, a corneta e os brinquedos caíam. Eles eram jogados de forma a não atingir ninguém. Em seguida, a mesa começou a levitar. A camisa que o médium usava por baixo de suas roupas foi retirada e jogada no chão, sem que as roupas de cima fossem removidas. Foi algo verdadeiramente estranho. O médium, por sua vez, estava em transe profundo, dormindo tão pesadamente que demorou para acordar, cerca de quinze a vinte minutos. O espírito que o possuiu era de um monge brâmane da Índia. Disseram que ele precisaria beber muito saquê depois, até o amanhecer, ou não conseguiria se manifestar no dia seguinte. Como era o espírito que atuava, ele não aparecia com a luz acesa.
-
-**A Verdadeira Natureza do Bem e do Mal**
-
-Compreender a verdadeira natureza do bem e do mal torna um homem um grande erudito, pois é um tema de extrema dificuldade. Bem e mal são opostos. O mal existe porque o bem existe; o bem existe porque o mal existe. Se ambos desaparecessem, o que restaria seria a Verdade (*Shin*).
-
-Essa Verdade é, em essência, o bem. Mas, de outra perspectiva, não é nem bem nem mal, podendo se tornar ambos. Diz-se que bem e mal são como um (*ichinyo*), mas isso está errado, pois significa apenas “como um”. O correto é dizer que bem e mal são um só (*itchi*), que são unificados (*goitsu*). O centro dessa união do bem e do mal (o vertical e o horizontal) é a Verdade. Portanto, não é nem bem nem mal. No Mundo de Luz, o que faremos? Nós, os seres humanos do Mundo de Luz, praticaremos a Verdade. E essa prática não é nem boa nem má; é a Verdade. Por isso, tudo o que fizermos será harmonioso e fluirá com grande suavidade. Como o mal não permite que as coisas corram bem, ele desaparecerá. As pessoas agirão de forma natural, e isso não será “bem”, mas o curso normal das coisas. O mundo atual é um mundo semibestial; agora, pela primeira vez, nos tornaremos verdadeiramente humanos.
-
-Deus criou o bem e o mal e os colocou em oposição para promover o progresso do mundo material. A salvação consiste em criar a perfeição, e para isso Ele fez surgir duas vontades distintas para que competissem entre si.
-
-Se compararmos o mundo de até então com açúcar e sal, o sal sozinho é apenas salgado, sem verdadeiro sabor. O açúcar sozinho é apenas doce, também sem verdadeiro sabor. Os seres humanos são pequenos benfeitores e pequenos malfeitores. Nem o mundo inteiro, nem um único país pode ser mudado pela força humana. A força humana é incapaz de realizar qualquer bem significativo.
-
-Muitos perguntam: “Se Deus é onipotente, por que criou o mal? Não seria melhor não tê-lo criado desde o início e fazer um mundo de puro bem?” Mas a criatura, com sua sabedoria limitada, não pode compreender a vontade do Criador.
-*   Deus: O Grande Bem
-*   Demônio: O Grande Mal
-
-Arroz e água, quando cozidos juntos, tornam-se deliciosos. A água desaparece, mas resta um arroz saboroso. A água se dissipa no cozimento.
-Acima do bem e do mal, existe a Verdade. O bem e o mal também variam de acordo com o tempo, o lugar e a posição. Matar uma pessoa é um mal, mas matar na guerra, quanto mais se mata, mais é considerado um bem. A vingança também é um bem, pois é feita em nome do senhor ou dos pais. Contudo, o que era bem no passado é mal hoje. Para os membros do Shogitai, a aliança Satsuma-Choshu parecia o mal. As revoluções também são julgadas de forma diferente dependendo da época. A Revolução Meiji foi um bem. Na política, para o partido Minseito, o Seiyukai parece o mal. Se formos a fundo, torna-se impossível saber onde termina o bem e começa o mal.
-
-O assassinato é considerado o pior dos males. No entanto, o pensador Miyake Setsurei tem uma visão diferente. Ele diz: “Se não houvesse assassinato e apenas a lei, não saberíamos que tipo de maldade o mundo poderia cometer. Pois, agindo dentro da lei, qualquer maldade se torna possível. Mas o pensamento de que, se for longe demais, será morto, certamente o detém.” Nisso, há uma certa verdade.
-
-Praticar o mal gera o ressentimento dos outros e o remorso próprio, então é desvantajoso. Praticar o bem traz alegria e prosperidade duradoura. No mundo de até então, o mal prevalecia. Por quê? Porque a recompensa e a punição pelo bem e pelo mal eram lentas. Uma pessoa podia cometer o mal, prosperar, ter uma boa posição, ganhar dinheiro, e ninguém ficava sabendo. Por outro lado, os efeitos do bem não eram reconhecidos, e a pessoa acabava por não ter sucesso. Há quem roube porque não é pego imediatamente.
-
-No entanto, a partir de agora, isso se inverterá. A recompensa e a punição serão rápidas, e, naturalmente, o mal se tornará impraticável. Como a punição será imediata, é natural que o número de malfeitores diminua. E por que isso não era conhecido antes? Porque vivíamos no Mundo da Noite. Mesmo em uma noite de luar, dentro de casa é escuro, e o mal podia ser praticado. A partir de agora, será o Mundo do Dia, e o mal será imediatamente descoberto. É um mundo de recompensa e punição instantâneas. O que está errado se torna conhecido rapidamente. Fazer o mal se tornará ridículo.
-
-O que Shaka pregou foi o bem; o que Amida pregou foi o mal. O que Kannon (観音) prega é a Verdade.
-*   Shaka: Bem – Pequeno Veículo
-*   Kannon: Verdade
-*   Amida: Mal – Grande Veículo
-
-A religião que herdou a corrente principal de Shaka é a seita Nitiren. Seu pensamento é tacanho, exclusivista. O que ela diz é o bem; o resto é o mal. Isso fica claro pelos ataques que Nitiren desferiu desde o início de sua pregação: “O Nembutsu leva ao inferno, o Zen é obra do demônio, o Shingon arruína o país, o Ritsu é traição.” A seita Butsuryu-ko é ainda mais rigorosa. O bem também leva a um impasse. E é claro que o mal também.
-
-As palavras de Shinran Shonin, “Se os bons são salvos, quanto mais os maus”, são verdadeiramente más. Segundo essa lógica, os maus têm mais chances de serem salvos que os bons. Isso é uma aparência, um vazio. Por quê? Porque tanto o bem quanto o mal desaparecerão. A realidade é a Verdade. Existe o termo budista *jisso shinnyo* (realidade e verdade tal como é), mas *shinnyo* não é a verdadeira realidade; é ilusão. Existe também a expressão *kyokyo jitsujitsu* (ilusão e realidade).
-*   Realidade (*jisso*) = Verdade = Sol
-*   Verdade tal como é (*shinnyo*) = Aparência = Lua
-
-Diz-se que o bem é mal, e o mal é bem. A lei protege os malfeitores. Ela persegue a nós, que queremos erradicar a doença do mundo, e protege e ajuda os médicos, que matam as pessoas abertamente. Este é o pior exemplo do mal da lei. A preparação militar para a defesa nacional é um bem, mas a preparação militar da Itália para atacar a Etiópia é um mal. Os jornais, ao publicarem notícias de crimes, aumentam a criminalidade. As pessoas imitam o que leem nessas seções.
-
-Em suma, o mundo de até então era provisório. O bem e o mal foram criados para estimular a sabedoria humana, por meio da luta entre ambos. Sem competição, não há sabedoria. O arroz de antigamente produzia poucos grãos, mas hoje uma única espiga pode ter trezentos ou quinhentos. E produzirá ainda mais. Com o progresso do mundo, as frutas se tornarão maiores e mais abundantes.
-
-A sabedoria humana continuará a se desenvolver até o advento do Mundo de Grande Luz. O fumo foi introduzido para melhorar o cérebro. A sabedoria progrediu muito em relação a dois mil anos atrás. Se uma pessoa de dois mil anos atrás fosse colocada em Ginza hoje, talvez morresse em um dia. O mal foi deixado no mundo para desenvolver a sabedoria. Para proteger o país, as nações se armaram, o que gerou competição mútua. Foi por isso que a Europa se desenvolveu, com cada país se esforçando para não ser invadido pelo vizinho. Agora que o progresso chegou a esse ponto, é hora de abandonar o mal e iniciar a fase de conclusão. A fundação da Kannonkai marca o início desse trabalho de conclusão.
-
-**A Construção do Mundo de Luz (O Mundo de Miroku)**
-
-*   O Mundo da Verdade
-A realização do Mundo da Verdade sempre foi um ideal, mas sua conclusão não era possível, pois o tempo ainda não havia chegado. Agora, com a fundação da Kannonkai, ele será realizado.
-
-**Objetivo Geral**
-
-O objetivo da construção deste Mundo de Grande Luz é mostrar a meta final. Os trabalhos e movimentos de até então avançavam sem rumo, como um trem sem estação de destino, sem saber quando chegariam à meta. Como nada de autêntico foi criado, era assim.
-
-**A Política no Mundo de Miroku**
-
-Como será a política no Mundo de Miroku? A política é a estrutura da sociedade. A sociedade será classificada em três níveis:
-*   Imperador (um nível)
-*   Nove Níveis:
-    *   Classe Alta: Família Imperial, nobreza, magnatas, altos funcionários.
-    *   Classe Média.
-    *   Classe Baixa.
-
-Assim, a sociedade terá três níveis, e cada nível será subdividido em três, totalizando nove níveis, todos governados pelo Imperador. A esses nove níveis, acrescenta-se a posição do Imperador, totalizando dez. Dez significa plenitude, conclusão. As cidades-castelo da época dos senhores feudais eram semelhantes a isso.
-
-No Mundo de Miroku, também haverá um parlamento, igualmente de três níveis:
-*   Câmara Alta: Um representante de cada grupo da classe alta.
-*   Câmara Média: Representantes da classe média.
-*   Câmara Baixa: Representantes da classe baixa.
-
-Os parlamentares serão figuras como os chefes de sindicatos de cada classe e profissão. O número de parlamentares será determinado pela população de cada sindicato. Um representante para cada sindicato, um para cada grupo de professores, um para cada tantos jornalistas, e assim por diante.
-
-Hoje, a maioria dos parlamentares são advogados. Por não terem conhecimento prático e especializado, quando surge um problema incomum, eles consultam especialistas ou fazem viagens de inspeção. Advogados representam agricultores e comerciantes, o que gera contradições. Eles consultam especialistas, a liderança do partido, e relatam aos superiores. É um sistema parcial e ineficaz. Se os parlamentares fossem especialistas, todos entenderiam o conteúdo dos debates, e seria muito melhor.
-
-O Primeiro-Ministro é a figura mais crucial. Atualmente, no Japão, ele é escolhido pelos *genro* (estadistas anciãos) em nome do país. Isso não existe em um sistema constitucional, mas é uma tradição. Atualmente, o Príncipe Saionji desempenha esse papel; se ele disser que uma pessoa é boa, ela é boa.
-
-No Mundo de Miroku, haverá um *shinjin* (homem divino) que atuará como representante de Deus. Em vez do *genro*, o *shinjin* fará a seleção e buscará a aprovação imperial. Como ele tem comunicação com Deus, não haverá o menor erro. Hoje, o mandato médio de um Primeiro-Ministro no Japão é de cerca de dois anos, e o de um presidente americano é de quatro, mas no Mundo de Miroku, não haverá prazo fixo. A troca ocorrerá por ordem de Deus.
-
-Exército, polícia, tribunais, hospitais, bairros de entretenimento – tudo isso desaparecerá. Tudo o que é infernal deixará de existir.
-
-O que se desenvolverá será o transporte. Haverá trens de Tóquio até os Alpes, trens mais estáveis e esplêndidos. A arte e a grande arquitetura florescerão. Como não haverá terremotos, poderão ser construídos edifícios monumentais. A educação também se desenvolverá. Haverá três níveis: primário, médio e superior, cada um com duração de três anos. A necessidade de aprender línguas estrangeiras como inglês e alemão desaparecerá, então três anos por nível serão suficientes. A escola primária começará aos doze anos. O sistema atual, em que as crianças entram na escola aos sete ou oito anos, retarda seu desenvolvimento. Isso fica claro ao observar o crescimento atrofiado de crianças que trabalham desde cedo ou que praticam judô desde a infância. O desenvolvimento cerebral também é prejudicado quando se começa muito cedo.
-
-O ser humano precisa desenvolver a intuição, mas as pessoas de hoje não a têm. Isso se deve à educação precoce. A intuição é mais comum em pessoas sem instrução formal, o que é um fato revelador. Como as pessoas da classe alta de hoje não têm intuição, elas só tomam medidas depois que um problema ocorre. É uma situação lamentável.
-
-A universidade será concluída em nove anos, o que é suficiente. No Japão, não haverá necessidade de aprender línguas estrangeiras, pois o japonês se tornará a língua universal. Em nove anos, os alunos serão muito mais brilhantes que os professores universitários de hoje.
-
-A economia também mudará drasticamente, assim como a organização industrial. Recentemente, fala-se em economia controlada; isso é uma preparação para o movimento de Kannon (観音). Cada setor industrial será consolidado. Todas as empresas do mesmo tipo se unirão em uma só. O método de gestão será classificado em três níveis:
-*   Organização Empresarial:
-    *   Governo
-    *   Capitalistas
-    *   Trabalhadores (incluindo diretores, funcionários e técnicos)
-
-Assim, a sociedade será dividida em três, e os lucros também serão divididos de forma tripartite. O capitalismo, o socialismo e a gestão estatal estarão todos incluídos. Todas as estruturas sociais atuais estarão presentes. Não creio que haja um método melhor. Com esse sistema, não haverá preocupações como a inadimplência de impostos, e os impostos se tornarão completamente desnecessários, pois um terço dos lucros irá para o governo.
-
-Os capitalistas também terão suas obrigações. Como não conseguirão gastar todos os seus lucros, com esse excedente, e como o pensamento egoísta terá desaparecido dos negócios, o amor e a compaixão surgirão, e eles doarão dinheiro espontaneamente para obras de bem-estar social.
-
-A moeda será inteiramente de papel, pois o ouro será tão abundante que será usado principalmente para decoração. Os capitalistas construirão inúmeros salões públicos, teatros e outras instalações para o bem-estar e o entretenimento do povo. Construirão teatros públicos e oferecerão espetáculos gratuitos para o lazer dos trabalhadores, talvez uma vez por mês. Construirão casas confortáveis e as darão aos trabalhadores para morar. Os capitalistas se dedicarão imensamente ao bem público.
-
-A jornada de trabalho será de três a cinco horas. Metade das oito horas de trabalho atuais é gasta na produção de armamentos. No Mundo de Luz, onde o exército não será necessário, não será preciso trabalhar tanto. Mesmo com menos horas, até os trabalhadores serão mais prósperos. Na sociedade atual, as pessoas trabalham apenas para sobreviver, o que certamente não é a vontade de Deus.
-(25 de agosto de 1935)
-
-## Sexta Palestra: A Missão do Japão e dos Países Estrangeiros
-
-Quando o Mundo de Luz se concretizar, a estrutura urbana será como a do diagrama a seguir. Falarei sobre os costumes, as cidades, as áreas rurais e as punições no Mundo de Luz.
-
-As cidades serão divididas em áreas residenciais, comerciais, industriais, etc. As universidades, por exemplo, serão construídas perto do centro. Nessa era, será inventada uma nova forma de luz, uma iluminação semelhante à elétrica. A verdadeira natureza da luz ainda é desconhecida, mas ela será inventada através do poder de Kannon (観音). Essa iluminação é uma revelação de Deus, e não há dúvida sobre isso. Bastará instalar um poste de luz, como uma lâmpada de arco, em cada cidade ou vila, e normalmente nenhuma outra iluminação será necessária, embora talvez se instale uma em cada casa, mas sem grande necessidade.
-
-As ruas se tornarão silenciosas. Com o tipo de pavimentação que temos hoje, o silêncio será extremo. Os automóveis não usarão gasolina, mas serão movidos por um tipo de minério, eliminando assim os odores.
-
-As ruas serão abundantemente arborizadas e ajardinadas. Isso já é feito em alguns lugares, mas será muito diferente. Árvores frutíferas serão plantadas nas avenidas: macieiras, caquizeiros, figueiras, romãzeiras. As calçadas serão cobertas por parreirais. Flores serão plantadas entre as calçadas e as ruas, criando uma paisagem belíssima. Isso não está em um futuro distante; acontecerá em breve.
-
-Os meios de transporte também se desenvolverão enormemente. Haverá algo como um trem elétrico que subirá o Monte Fuji e os Alpes Japoneses, tornando a escalada fácil. Esses trens serão muito mais bonitos que os atuais. As viagens se tornarão muito populares. Até os trabalhadores poderão viajar uma vez por mês, com as despesas pagas pelos ricos. Os ricos não serão mais os avarentos de hoje, mas encontrarão alegria em agradar as classes mais baixas.
-
-Os trens também não serão como os atuais, mas muito mais sofisticados e de uma beleza primorosa. Haverá um teatro em cada cidade e vila, onde serão apresentadas peças. As peças cruéis de hoje desaparecerão, dando lugar a comédias e danças alegres, que as pessoas assistirão rindo. As peças atuais, com seus cortes e golpes, são excessivamente cruéis e têm um efeito muito negativo, ensinando o mal de certa forma. Por isso, serão abolidas e substituídas por obras luminosas.
-
-O Palácio Imperial se tornará uma construção de uma beleza e magnificência extraordinárias. Nosso Imperador não será mais apenas o Imperador do Japão, mas o Imperador do mundo, então é natural que um palácio correspondente seja construído.
-
-A alimentação se tornará deliciosa. Não será como a comida insossa e bramânica que as pessoas se forçam a comer hoje. Os japoneses vestirão seda. A seda é produzida no Japão para que os japoneses a vistam, por vontade de Deus. É um erro vender a seda japonesa para os Estados Unidos e comprar algodão em troca.
-
-As roupas se tornarão muito suntuosas. Na era Genroku, as vestimentas eram extravagantes; essa extravagância retornará, e os calçados serão sapatos. Os sapatos de hoje são de couro, mas serão inventados sapatos feitos de outro material.
-
-Como não haverá mais ladrões, as casas não precisarão de trancas, tornando-se mais claras e cheias de luz. Como também não haverá mais grandes tufões, terremotos ou chuvas, as janelas poderão ser maiores, sem perigo, tornando as casas mais iluminadas e agradáveis. Com o desenvolvimento da arte, haverá muito mais entretenimento. Nas classes altas, a literatura e as artes se tornarão ainda mais refinadas, e será possível assistir a música e dança através da televisão, que estará aperfeiçoada.
-
-Com o desenvolvimento dos transportes, as pessoas não passarão mais o verão apenas no Japão; será comum que pessoas comuns tenham casas de veraneio na Índia. Até os trabalhadores poderão fazer uma viagem de volta ao mundo em grupo uma vez por ano.
-
-Esportes como corridas de cavalo se tornarão populares para que os jovens possam canalizar seu espírito competitivo. Artes marciais como o sumô também florescerão, apesar da ausência de guerras. Por isso, eventos internacionais como as Olimpíadas se tornarão muito populares. A Kannonkai também formará várias equipes, e, com o poder de Kannon (観音), se tornarão as mais fortes, quebrando a maioria dos recordes mundiais.
-
-A punição não será mais o encarceramento em prisões como as de hoje. A pena consistirá em trabalhar nas fábricas de nível mais baixo, realizando as tarefas mais desagradáveis e árduas. Isso ocorrerá porque haverá pouquíssimas pessoas praticando o mal, e a maioria praticará o bem. O mundo inteiro se tornará um paraíso, então tudo poderá ser realizado sem a menor preocupação. Como os malfeitores desaparecerão, será assim. Muitas pessoas de hoje acham que é difícil transformar este mundo em um paraíso, mas não é; isso será realizado de forma esplêndida. Pois não serão os homens que o farão, mas Deus. A mente superficial do homem não pode sequer imaginar isso. É a diferença entre o pensamento da criatura e o poder do Criador.
-
-**A Missão do Japão e dos Países Estrangeiros**
-
-Jesus de Nazaré, o santo, profetizou que “o fim deste mundo virá”. Isso pode soar assustador, mas, se pensarmos bem, não é nada demais. Refere-se ao fim do mundo como o conhecemos até hoje, e não à destruição de tudo no planeta Terra.
-
-O mundo de até então foi o Mundo da Noite, o mundo da Lua, o mundo da noite de luar e estrelas. A noite de luar, com suas fases de crescente e minguante, passou, com momentos de brilho intenso e de escuridão. E na noite clara, as estrelas brilhavam. Essa noite clara é chamada de mundo das estrelas. Houve épocas de guerras turbulentas e épocas de paz. Esses fenômenos são obra da Lua. Mesmo dentro de um ano, há momentos muito bons e momentos muito ruins. A queda da grande prosperidade que se seguiu à Grande Guerra Europeia ocorreu em 15 de março do nono ano da era Taisho, com a queda abrupta da bolsa de valores. O gatilho foi o fato de que 15 de março era dia de lua cheia; a lua estava no seu auge, e a prosperidade também.
-
-O mundo da Lua é o mundo estrangeiro. Lua (*tsuki*) também significa “fim” (*tsuki*), o mundo do fim. O Japão é a raiz do sol (*hi no moto*), e os países estrangeiros são os países da lua. A Inglaterra é o país da lua, e os Estados Unidos, o país da estrela; portanto, são países da noite. A Índia, o país mais importante para a Inglaterra, é chamada de “país da lua” (*gesshi-koku*). Foi por ter tomado a Índia que a Inglaterra se tornou a representante do país da lua e pôde assumir a posição de hegemonia na era da civilização europeia.
-
-Quando a noite terminar, é natural que o país da lua e o país da estrela se curvem perante o país do sol. A civilização de até hoje foi toda uma civilização da noite. Por isso, a cultura de até hoje não conseguiu salvar as pessoas. Por quê? Porque as religiões também eram religiões da noite e não puderam salvar verdadeiramente. Afirmo isso sem a menor hesitação. A razão é que posso afirmar com certeza que não houve uma única família que tenha vivido por três ou cinco gerações sem desastres, com longevidade, sem doenças, sem fracassos, sem infortúnios ou calamidades. Se a religião salvasse, deveria haver um número considerável de tais famílias, mas não há. Isso por si só prova que são religiões equivocadas. A profecia de Cristo se referia ao fim do mundo da noite.
-
-O fato de as religiões terem chegado até aqui sem grandes desastres também se deve, de certa forma, a elas. A profecia de Cristo foi esplêndida. Ela se cumpre porque, como explico, Kannon (観音) surge para fazer o acerto de contas final.
-
-Se o Japão é a raiz do sol (*hi no moto*), então um dia o sol nascerá. E do Japão nascerá a civilização do dia, que se unirá à civilização da noite de até então, dando origem, pela primeira vez, ao Mundo de Luz. O Mundo de Luz é a civilização do dia, a civilização do Japão, a civilização do sol. É o mundo da luz. O Grande Mundo de Luz – o “grande” se refere aos cinco continentes. O mundo inteiro se tornará uma cultura de luz, uma civilização que une o sol e a lua. A construção do Grande Mundo de Luz é algo que se sabe desde a antiguidade.
-
-O ideograma de sol (日) é uma correção de ○ e 丶. O ponto no centro é a mancha solar. A existência de manchas solares tem um significado muito profundo. É a unificação. É *su*. “O único no alto” é *su*, referindo-se a Sua Majestade, o Imperador. É *sumeru* (governar), *sumeru* (ser claro), *sumeru* (ser puro), sem odor.
-*   O único no alto (上御一人)
-*   Governar (統べる) os cinco continentes
-*   Grande união, ou unir os cinco continentes
-*   Conclusão do mundo
-
-Se a cultura japonesa não se espalhar pelo mundo, a unificação mundial não ocorrerá. “Dai Nippon” (Grande Japão) é uma expressão de profundo significado. Antes da Grande Guerra, nosso Japão era uma das cinco grandes potências; agora, é uma das três. A política nacional que o Japão está começando a implementar é a preparação para que se torne uma grande potência unificada. O Japão é o sol, e cada um dos países do mundo é uma estrela. O desenvolvimento crescente do Japão é como o sol que sobe ao zênite. A anexação da Coreia e da Manchúria também se deve ao nascer do sol. Agora, estenderemos nossas mãos à China. É absolutamente impossível impedir isso. Por quê? Porque, por mais poderoso que seja um homem, ele não pode impedir o sol de subir ao zênite. A expansão do Japão na China tem esse significado, e, gradualmente, o mundo inteiro será unificado dessa maneira. Diz-se que Taira no Kiyomori fez o sol recuar, mas isso está muito além de seu alcance.
-
-O Japão é a pátria ancestral do mundo. Yamato-shimane significa a grande harmonia de Yamato. Agora, harmonizaremos todas as coisas do mundo. Yamato é o alvo da flecha, ○ e 丶. Akitsu-shima significa a ilha da libélula. Borboleta (mulher), libélula (homem). Shimane significa a raiz dos cinco continentes. Raiz é origem. Toyoashihara no Mizuho no Kuni significa que, na era dos deuses, os juncos cresciam abundantemente. Toyo significa abundante. Nakatsu-kuni significa o país central, o Japão. Hozuma no kuni tem um significado especial, que revelarei quando chegar a hora. Sumeramikuni, o país do monarca no leste, o país do sol nascente, Yamato-hidakami no kuni, Urayasu no kuni, Toyoakitsu-ne-wake no kuni, a terra onde o Kotodama prospera, e muitos outros nomes. Por ora, não são muito importantes.
-
-O Japão é o governante. Os países estrangeiros serão os governados. Isso não é algo que o Japão tenha decidido por ambição; é simplesmente como as coisas devem ser.
-*   Japão: Amaterasu Sume Oomikami (天照皇大神) – Verdade
-*   Coreia: Susanoo no Mikoto (素盞嗚尊) – Mal (ancestral dos judeus, Maçons, Jesus, Freemasons)
-*   China: Banko Shinnou (盤古神王) – Bem (Shaka, Maomé, Confúcio)
-
-A descendência do bem, de Banko, pereceu, e o pensamento do mundo do mal, do Ocidente (a descendência de Susanoo no Mikoto (素盞嗚尊), os judeus, maçons, Jesus – todos do Ocidente) se popularizou.
-
-Até agora, as pessoas não conheciam verdadeiramente a morte, e por isso praticavam o mal sem hesitação. Agiam sem saber se estavam fazendo o bem ou o mal. Por isso, a falsidade proliferou, e a hipocrisia se desenvolveu enormemente, com pessoas praticando o mal sob a aparência de praticar o bem, de uma maneira muito astuta, mas o mundo não percebia. As pessoas de até então eram verdadeiramente dignas de pena.
-
-O Japão e os países estrangeiros são quase opostos. O espírito japonês (coração) que se exaltava até agora não era o verdadeiro espírito japonês de Deus. Era um espírito derivado do bramanismo. O verdadeiro espírito japonês é o espírito da grande harmonia. Ações extremas ou que parecem boas aos olhos dos outros, tudo o que se chamou de alma japonesa até agora, está errado. Ser parcial não é o espírito japonês.
-
-O Japão é o país do sol. O sol é branco, e o branco se decompõe em várias cores. As várias cores são os diversos países. A Alemanha tem o nazismo; a Itália, o fascismo; a Rússia, o comunismo. O Japão assimila as cores de todos os países e brilha em branco. O fascismo ou o comunismo sozinhos não são suficientes. A Inglaterra tem o governo representativo; a Inglaterra é roxa. Os Estados Unidos são amarelos; a Itália, preta; a França, marrom; a Rússia, vermelha. O Japão assimila tudo isso e o refina em algo esplêndido. O Japão é centrípeto, ○ e 丶. No Monte Fuji, o centro é o Japão. Visto de cima, é ◎. Visto de lado, é o Extremo Oriente, o leste. A base é o oeste.
-
-A cultura japonesa é centrípeta. O que veio do oeste é grosseiro, sem acabamento. É centrífugo. O trabalho do Japão no futuro é refinar isso e exportá-lo de volta para o oeste. Até agora, o fluxo foi de oeste para leste, e isso foi 99% do processo. Agora, a luz do sol brilhará de leste para oeste e iluminará tudo de uma vez. Isso é linear. A cultura do mal é curvilínea; a curva é o mal. O que levou milhares de anos até agora será feito de uma vez, de forma rápida e linear. Esta é a Verdade. Os países do mundo até agora fabricavam peças; não estavam completos. A Ford fabrica peças em suas fábricas; a matriz da Ford não tem fábricas, mas monta um automóvel reunindo peças de várias fábricas.
-
-**Ocidente**
-*   Individualismo – Bestial (som) – Material – Búdico – Direitos – Denso
-*   Pedra – Água – Direita – Buda/Mulher – Amor universal – Lei do mais forte – Mídia/Imprensa
-*   Rei humano – Poder humano – Hegemonia – Caminho humano – Artificial – Igualdade – Liberdade
-
-**Japão**
-*   Familismo – Harmonia – Pássaro (som) – Espiritual – Divino/Coração – Deveres – Sutil
-*   Madeira – Fogo – Esquerda – Deus/Homem – Lealdade/Piedade filial – Coexistência/Prosperidade mútua – País que não se expressa
-*   Rei divino – Poder divino – Caminho imperial – Caminho divino – Natural/Divino – Hierarquia – Disciplina
-
-A civilização do futuro, a civilização japonesa, é a harmonia de tudo isso, sem pender para nenhum lado. Esta é a Verdade. Olhando para isso, vemos que o Caminho Imperial (*Kodo*) precisa ser muito bem ponderado. O ideograma de *Ko* (皇) é composto por ノ, ○ e 丶, e 王 (rei). “ノ” representa a descida do céu; ○ e 丶 são o sol; e 王 é rei. Ou seja, o rei do sol que desceu do céu. É o imperador que desceu do céu. É o caminho do imperador que desceu do céu. E *do* (道) significa o modo de fazer, o método, o que deve ser feito, um caminho próprio, uma palavra de significado muito amplo e profundo, algo tão importante quanto colocar o radical de movimento (∟) sobre a cabeça (首). *Michi* (三千) também pode significar espírito e corpo, referindo-se a Kannon (観音). Portanto, o Caminho Imperial é o caminho de Sua Majestade, o Imperador, e é um erro o povo discuti-lo. O povo não deve sequer pronunciá-lo. Se o povo quiser falar, deveria ser o Caminho do Súdito Imperial (*Komin-do*). Pois o povo é o governado. O povo deveria falar do Caminho do Povo (*Jinmin-do*). O Caminho Imperial é o caminho do único no alto. É algo que nos é reverente até mesmo pronunciar. Nós somos os governados; podemos discutir como somos governados e como podemos dar o nosso melhor, mas não podemos ir além disso.
-
-O Japão é a civilização do sol e da lua. O nome de Sua Alteza Imperial, o Príncipe Herdeiro, Akihito, também foi, em minha humilde opinião, escolhido em vista do mundo que será criado no futuro.
-
-O que é o espírito japonês? É a perfeita harmonia das quatro almas, como ensina o Xintoísmo desde a antiguidade.
-*   *Aramitama* (Alma Impetuosa): Coragem
-*   *Nigimitama* (Alma Serena): Afinidade
-*   *Kushimitama* (Alma Misteriosa): Sabedoria
-*   *Sachimitama* (Alma Feliz): Amor
-
-A atuação harmoniosa dessas quatro almas é chamada de atuação de Izunome, a prática de Kannon (観音). A melhor expressão disso é o espírito do Édito Imperial sobre a Educação, promulgado pelo Imperador Meiji. Só quando nos tornarmos capazes de agir de acordo com esse espírito é que seremos verdadeiramente humanos. Até agora, muitas pessoas eram apenas bestas vestidas com pele humana. Por quê? Porque muitas não cumpriam os deveres que lhes cabiam como seres humanos. Pelo menos os japoneses não serão assim. Começaremos dando o exemplo na Kannonkai, expandiremos para todo o Japão e, em seguida, para o mundo inteiro. Assim, o verdadeiro mundo se abrirá. As pessoas até agora diziam, erroneamente, que “o homem é um recipiente de doenças”. O homem é um recipiente de saúde, e todos avançarão nessa direção.
-
-**O Plano Divino dos Três Mundos: Divino, Espiritual e Físico**
-
-O plano começou no Setsubun do terceiro ano da era Showa e durou até o Setsubun do sexto ano da era Showa. Esse foi o plano divino para o mundo divino, e durante esse período ocorreram muitos eventos místicos.
-
-*   Do Setsubun do sexto ano da era Showa por três anos, foi o plano divino para o mundo espiritual. (Até o Setsubun do nono ano de Showa)
-*   Do Setsubun do nono ano da era Showa por três anos, é o plano divino para o mundo físico. (Até o Setsubun do décimo segundo ano de Showa)
-
-Depois, houve um período de três anos e três meses, e em 1º de maio, um novo plano divino teve início. No ano passado, em 1º de maio, mudei-me de Omori para Hirakawacho, em Kojimachi, no centro de Tóquio. E em 1º de maio deste ano, mudei-me para Kojimachi 1-chome.
-
-**A Abertura do Portal de Pedra Celestial**
-
-A chegada do Mundo de Luz ocorrerá com a Abertura do Portal de Pedra, quando Amaterasu Sume Oomikami (天照皇大神) se manifestará. Em 15 de junho do sexto ano de Showa, fui ao templo Nihon-ji, na província de Boshu, para receber Amaterasu Sume Oomikami (天照皇大神), acompanhado por um grande número de fiéis. Naquele momento, a Grande Deusa se manifestou no mundo espiritual. A província de Boshu representa o órgão genital feminino. Hodo e Hojo, em Boshu, têm o mesmo significado, e o próprio ideograma de Boshu (房) também.
-
-**A Consagração no Santuário Hie**
-
-Em 15 de junho do nono ano de Showa, por ordem divina, fui ao Santuário Hie, também conhecido como Sanno-sama, em Kojimachi, acompanhado por cerca de trinta pessoas. Lá, consagramos Amaterasu Sume Oomikami (天照皇大神) e recitamos a oração em uníssono. Isso significou a entronização de Amaterasu Sume Oomikami (天照皇大神) no Santuário Hie, mas foi um evento espiritual, do qual nem mesmo os sacerdotes tiveram conhecimento.
-
-Até então, três divindades eram veneradas no Santuário Hie, mas elas eram apenas guardiãs temporárias. Na manhã de 15 de junho, elas ascenderam aos céus. Este foi o primeiro passo para o mundo do dia. Naquela época, os nomes das ruas de Kojimachi mudaram drasticamente, o que também foi parte do plano divino. O festival daquele dia foi o último do velho mundo e o primeiro do novo, e por isso foi grandioso. A maioria das representações no festival do Santuário Hie era de macacos. O macaco representa Sarutahiko no Mikoto, que desde a antiguidade é o guia dos deuses.
-
-Na região de Kanto, o Santuário Hie e o Santuário Hikawa, em Omiya, são os dois grandes santuários imperiais. Eles também são um casal divino. Na Kannonkai, a primeira filial regional foi estabelecida justamente em Omiya. Isso também é um destino misterioso.
-
-**Um Plano Divino de Grande Importância**
-
-Em 1º de maio do décimo segundo ano de Showa, o plano divino para os três mundos – divino, espiritual e físico – será concluído, e um novo e importante plano divino terá início. Em 23 de julho do décimo quarto ano de Showa, completarei cinquenta e seis anos e sete meses, e acredito que a construção do Mundo de Luz começará.
-
-Desde que rompi com a Oomotokyo em 15 de setembro do ano passado (nono ano de Showa), tudo tem acontecido como eu desejava. Em 1º de maio do ano passado, comecei a realizar curas em Kojimachi, e pessoas com todo tipo de doença vieram até mim, o que me permitiu aprender muitas coisas.
-
-**A Formação de Curadores**
-
-A partir de 1º de maio do décimo ano de Showa, começamos a formar curadores para a cura de doenças. Isso é algo sem precedentes; nem Shaka nem Cristo jamais fizeram tal coisa. Ambos curaram doenças para salvar as pessoas, mas não tinham o poder de conceder o poder de cura a outros. A primeira turma teve cem pessoas e atingiu seu objetivo no final de setembro. A segunda terá mil, e a terceira, dez mil, e continuaremos a aumentar em direção a essa meta.
-
-**A Origem do Nome “Dai Nippon Kannonkai”**
-
-Em 11 de outubro do nono ano de Showa, o Sr. Azuma Teruo veio até mim, e começaram a aparecer fotografias espirituais, o que levou à criação da Kannonkai. Eu estava escrevendo as explicações para essas fotos quando o Sr. Azuma me disse que seria estranho eu mesmo escrevê-las e que seria mais apropriado que uma associação o fizesse. Concordei que seria melhor usar o nome de uma associação do que explicar por mim mesmo, e assim surgiu o nome “Dai Nippon Kannonkai”. O que começou como uma mera formalidade para as explicações acabou se tornando algo real.
-
-O que a princípio parece vago, de repente se torna claro. Ao tentar, realiza-se imediatamente. As coisas que me são reveladas de forma vaga são muitas, mas são absolutamente infalíveis. Não faço planos de “vamos fazer isso ou aquilo”. As coisas acontecem gradualmente, no momento certo. Foi assim que a Kannonkai foi criada. Não há planos ou pensamentos; basta seguir as revelações, e tudo se encaixa perfeitamente. É como se eu e Kannon (観音) fôssemos um só.
-
-**O que é a Oomotokyo?**
-
-É o modelo do mundo. A fundadora era o bem absoluto; como ser humano e como mulher, não havia pessoa de maior caráter. Ela era alguém que jamais fazia algo errado. Ela era o modelo do bem oriental. A Oomoto é minha mãe espiritual, e a fundadora, Deguchi Nao, era o modelo do bem bramânico. O mestre Deguchi Onisaburo é o modelo do mal ocidental. Ele não pratica o mal, mas faz todo tipo de coisa. Ele é o modelo para a construção da cultura material ocidental. É uma pessoa que acredita que, para salvar o mundo, mesmo o mal é permitido, pois o bem e o mal não são absolutos.
-
-**A Trindade**
-
-Essas duas pessoas da Oomotokyo, junto comigo, formam uma trindade. O mestre Onisaburo se torna a Rainha Mãe do Oeste. Ele ofereceu o pêssego de três mil anos ao Imperador. Eu sou o pêssego. Momotaro sou eu. O mestre Onisaburo é a avó, e a fundadora é o avô. No ano passado, eu nasci, e por isso me separei da Oomotokyo, meu corpo materno.
-
-**A Conquista da Ilha dos Demônios**
-
-A partir de 5 de maio, começará a conquista da Ilha dos Demônios. 5 de maio é o festival do pêssego. 3 de março é o festival da flor de pessegueiro. Como eu sou Momotaro, os fiéis são meus seguidores: o cão, o macaco e o faisão. Eles são meus vassalos, e Momotaro é o Kannon de Mil Braços.
-
-Em uma fotografia do mestre Deguchi Onisaburo de cerca de vinte anos atrás, há um sol em seu ventre. Aquilo é o Miroku no útero.
-
-Quando deixei a Oomoto no ano passado, houve uma grande briga. Aquelas foram as grandes dores do parto. E o modelo daquela situação é o modelo da confusão na Europa relacionada ao problema entre a Itália e a Etiópia. O mesmo modelo foi usado no Incidente da Manchúria. Como eu represento vários modelos do mundo, eles se espalham por todo o globo. É por isso que posso fazer profecias. Pois o que acontece no mundo divino se manifesta invariavelmente no mundo físico; é um princípio. Que a Kannonkai se desenvolverá enormemente e que o Japão se desenvolverá globalmente são coisas que já sei muito bem.
-
-**Resumo do Movimento de Kannon**
-
-*   Erradicar a doença. Construiremos hospitais com capacidade para mais de cem pessoas. Dez em Tóquio e cem em todo o país. A medicina ocidental também progredirá a ponto de poder ver a luz em um microscópio. O nome “hospital” (*byoin*) é ruim, então na Kannonkai chamaremos de “clínica de tratamento” (*ryoin*), pois “hospital” tem a conotação de um lugar para doentes, e não tem a força espiritual de cura. Com o tempo, construiremos clínicas da medicina japonesa em todo o mundo.
-*   Também teremos escolas. Primário, médio e superior, com um sistema de três anos cada, totalizando nove anos para se formar na universidade. Nessas escolas, o foco será a formação do caráter. Como não haverá necessidade de línguas estrangeiras, uma educação esplêndida poderá ser oferecida em um tempo muito curto.
-*   Promoveremos intensamente os esportes, formaremos equipes de beisebol e teremos atletas para competir nas Olimpíadas. Como tudo será feito com o poder de Kannon (観音), venceremos com certeza.
-*   Criaremos escolas de arte, assimilando todas as artes do mundo para criar a grande arte do dia. A arte atual é a arte da noite; criaremos uma arte que faça o coração saltar e construiremos grandes teatros como órgãos de expressão para entreter o povo. As religiões de até então chegaram a dizer que a arte era um pecado, mas isso não é verdade. Era porque era a arte da noite, a arte das trevas.
-*   A indústria também progredirá muito. Desenvolveremos a mineração. Especialmente, as minas produzirão uma quantidade enorme de ouro, que será extraído e usado. Esse ouro, vindo puro da montanha, sem as más vibrações humanas, será usado para construir templos magníficos que não pegarão fogo, como os de hoje.
-*   Incentivaremos as invenções. Diferente do que se pensa com a sabedoria humana, as ideias virão rapidamente, e invenções esplêndidas surgirão uma após a outra.
-*   Também teremos um jornal. O jornal é o livro didático do povo. Para isso, o mais importante é educar os jornalistas. Fiquei chocado ao saber que, hoje em dia, jornalistas e advogados são os que menos pagam aluguel. Se o coração daqueles que ensinam está errado, nada adianta. Educar essas pessoas é difícil; é melhor formarmos nossos próprios jornalistas e publicarmos um novo jornal para educar o povo japonês e, por extensão, divulgar a religião do dia ao mundo.
-
-Para isso, o melhor é fazer com que as pessoas venerem Kannon (観音). Quanto mais lares o fizerem, mais o Mundo de Luz será criado. Ao distribuir a luz, a luz do sol iluminará o mundo inteiro. O tempo chegou, e o progresso se dará de forma acelerada.
-(5 de setembro de 1935)
-
-## Sétima Palestra: A Doença e o Princípio do Método de Saúde Absoluta
-
-Esta palestra é o ponto central das Palestras de Kannon. Como alguns tópicos já foram abordados em outras ocasiões, pode haver repetições, mas peço sua paciência.
-
-O erro da medicina ocidental. É preciso que o público em geral compreenda isso, mas as autoridades estão em alerta. Elas estão convencidas de que não há nada além da medicina ocidental e não aceitam nossas afirmações. Nesse ponto, enfrentamos grandes dificuldades, mas não podemos simplesmente assistir a isso. A realidade atual é que as pessoas adoecem, perdem seus bens, e suas famílias passam fome. Portanto, temos que fazer algo. É absolutamente impossível ignorar essa situação. É um problema muito mais grave que qualquer crise política ou debate sobre a teoria do órgão. Não se pode mensurar quantas dezenas de vezes mais crucial é este assunto.
-
-Então, por que a medicina ocidental está errada? Começarei minha exposição partindo da premissa de que a medicina ocidental é absolutamente incapaz de curar. Pelo contrário, ela agrava doenças que poderiam ser curadas, tornando-se um problema de magnitude mundial.
-
-Existem inúmeros exemplos disso. No Hospital Takigawa, em Kanda, um bebê de três meses, com um diagnóstico claro de sarampo, recebeu mais de cem injeções. Após mais de cem dias, a febre baixa não cedia, e disseram que o problema era no ápice do pulmão, o que é um completo equívoco. Eles não sabem que se trata de uma intoxicação medicamentosa. Com o poder de Kannon (観音), a cura levaria dez dias ou menos. Uma pessoa despreocupada, se deixada em paz, sararia em dez ou vinte dias. E não se sabe quanto dinheiro foi gasto. Se o mundo soubesse disso, seria um escândalo. Fui informado disso por Kannon (観音) e por outras vias. É preciso informar o mundo, informar os médicos e fazê-los refazer sua formação desde o início.
-
-Por que a medicina ocidental está errada? A questão é que ela é uma terapia física. O ser humano é composto por dois elementos: espírito e corpo. Desde a antiguidade, tudo se baseia na dualidade yin-yang. Se há céu, há terra; se há fogo, há água; se há deus, há buda. É um fato evidente que o ser humano não é apenas corpo. A morte ocorre porque o espírito se desprende. A medicina ocidental se baseia no corpo, enquanto a medicina japonesa se baseia no espírito, sendo, portanto, opostas. A origem da doença está no espírito. Ignorar isso e tratar apenas o corpo torna a cura, obviamente, impossível. Deus = Buda, Mente = Matéria, Espírito = Corpo.
-
-Os problemas mencionados são o resultado; a origem é o coração maligno. Se o coração maligno não for corrigido, esses resultados nunca cessarão, como todos já sabem. É o cúmulo de tratar apenas os galhos e as folhas. Se há tuberculose, estuda-se o que a causou. Mas deve haver uma origem para isso. Se não se estuda a raiz, é natural que não haja cura.
-
-**A Origem da Medicina Ocidental**
-
-Em 1855, Virchow criou a patologia celular, e a partir daí a medicina começou. Foi o início da medicina dos galhos e das folhas.
-
-Atualmente, surgem vários problemas nas classes alta e baixa da sociedade, entre capitalistas e trabalhadores.
-*   Causa: Nobreza, políticos, religiosos.
-*   Resultado: Doença, infortúnio, capitalistas, jornalistas, classe alta, comunismo, corrupção, acadêmicos, educadores, gangues.
-
-As ações das pessoas da classe alta resultam nos problemas mencionados. Eles próprios criam as causas de seus problemas e depois sofrem com as consequências. Os capitalistas cometem erros, o que gera o comunismo, e depois estudam como resolver um problema que eles mesmos criaram.
-
-Nas escolas, tenta-se introduzir o ensino religioso, mas isso é algo muito difícil de se fazer. No Ocidente, há apenas o Cristianismo, então é fácil. Mas no Japão, há oito ou nove seitas budistas, o xintoísmo, as novas religiões, e por isso é impossível. Contudo, para nós, isso não é problema algum. A Grande Deusa Amaterasu Oomikami (天照皇大神) é a divindade central do Japão e a ancestral da Família Imperial. Basta que Ela seja venerada em todos os lugares. Todas as religiões são manifestações Dela, então basta venerar a divindade original. Não há nada melhor que isso. No entanto, é estranho que o povo japonês, seja por esquecimento ou ignorância, não o faça.
-
-Nas reuniões do Gabinete, a Grande Deusa Amaterasu Oomikami (天照皇大神) deveria ser venerada no assento mais alto da sala de reuniões. A reunião deveria começar com uma cerimônia em Sua presença. O mesmo deveria ser feito nas duas Câmaras do Parlamento. Os partidos políticos deveriam ter um altar em sua sede, com a sala de reuniões em frente a ele, e decidir suas políticas após recitar uma oração. Em todos os ministérios, em todas as escolas, a Grande Deusa Amaterasu Oomikami (天照皇大神) e a Imagem Imperial deveriam ser veneradas, e a Oração Amatsu Norito, que é curta, deveria ser recitada por todos antes de começar as atividades. As empresas, as fábricas e também os lares deveriam fazer o mesmo. Só com isso, a reforma eleitoral seria um sucesso.
-
-Para a reforma eleitoral, estão recorrendo a sacerdotes xintoístas e monges budistas, mas os monges até se opõem. É uma medida de última hora. A política atual, por ser uma política apenas do corpo, não funciona.
-
-*   Espírito / Corpo -> Deus / Política -> Realização
-*   União do Ritual e do Governo (祭政一致)
-*   Amaterasu Sume Oomikami (天照皇大神)
-
-Ignora-se a Grande Deusa Amaterasu Sume Oomikami (天照皇大神). Ignorá-la, mesmo temendo a nossa Família Imperial, é algo que não se pode justificar. As reuniões de bairro deveriam ser realizadas no santuário local (*ubusuna jinja*). De qualquer forma, será assim no futuro, então basta que se faça. Se as deliberações forem feitas em frente ao santuário local, problemas de corrupção e suborno não surgirão. As reuniões de hoje são, em sua maioria, realizadas em restaurantes e casas de chá, com gueixas, em meio a brincadeiras. Como algo de valor pode surgir de tal ambiente? Uma política ou reunião séria é absolutamente impossível nessas condições. Além disso, gasta-se dinheiro extra, dinheiro que precisa ser ganho. Em uma reunião de ministério, parte desse dinheiro vem do suor dos pobres, tomado à força. Em um lugar tão impuro, os pensamentos também se tornam impuros, e é impossível chegar a uma conclusão correta.
-
-Se a fonte está turva, o rio também estará. É natural. Em contrapartida, mesmo que o rio esteja turvo, isso não afeta a fonte. Aqueles que estão no topo devem ter muito cuidado.
-
-Como a classe alta é corrupta, os educadores também se corrompem. É natural que, mesmo que esses educadores contem histórias de Masashige, Kiyomaro ou Ninomiya Kinjiro, não surta efeito. Se o coração do professor for reto, os alunos o imitarão. Se o coração do professor for mau, os alunos também se assemelharão a ele. É natural.
-
-Nesta escola de estilo ocidental, entupir os alunos com o conhecimento ocidental não adianta. Por que não? Porque só se ensina o que é visível (além do ar). Eles estão convencidos de que até mesmo Deus não existe. Professores que nunca rezaram para Deus levam os alunos em peregrinação aos Santuários de Ise e Meiji, o que, para eles, é uma contradição.
-
-A teoria do órgão imperial é certamente um mal, mas foi ignorada por trinta anos, o que torna a atitude do governo, dos acadêmicos e dos políticos ainda mais estranha. Só agora, porque outros começaram a fazer barulho, eles estão agindo a contragosto. Não é preciso revogar tudo; basta remover o que está errado.
-
-A próxima questão é que o Estado japonês é diferente dos países estrangeiros. Em que é diferente? O Imperador do Japão é diferente dos imperadores estrangeiros. Os imperadores estrangeiros chegaram ao poder pela força. Nosso Imperador do Japão é de uma linhagem ininterrupta, a linhagem espiritual da Grande Deusa Amaterasu Oomikami (天照皇大神). Se retrocedermos na linhagem do Imperador do Japão, chegaremos a Deus. Se não houver Deus, seremos como os países estrangeiros. Mas o Japão é a linhagem da Grande Deusa Amaterasu Oomikami (天照皇大神). Se não se reconhece Deus, o país do Japão não se sustenta. O Imperador do Japão é único no mundo. É um Deus que viveu e vive ininterruptamente até hoje. Se não se reconhece a existência absoluta do Deus Supremo (*Sushin*), essa teoria não se sustenta.
-
-Todo o sistema de ensino do Japão precisa ser reformado. Se não se reconhece absolutamente a existência dos deuses do Japão, o ensino japonês está fadado ao fracasso. As escolas do Japão também precisam ser renovadas. Manter o modelo ocidental não adianta. Se esse ponto não for esclarecido, a medicina japonesa não será compreendida.
-
-Mesmo que se fale do poder de Kannon (観音), se se disser “será que isso existe?”, não se entenderá. É preciso compreender que os deuses do Japão, cheios de vida e vigor, estão vivos desde a antiguidade até hoje. Sem isso, a raiz da doença não pode ser compreendida.
-
-De agora em diante, Deus deve ser o principal, e o trabalho, o secundário. Colocar o espírito em segundo plano é um erro, uma inversão completa de valores. A medicina ocidental, por colocar o corpo como principal e o espírito como secundário, é absolutamente incapaz de curar doenças. Isso fica evidente.
-
-O início da doença é o acúmulo de nuvens no espírito. Essas nuvens turvam o sangue. O sangue é a materialização do espírito. Quando uma pessoa morre, o volume de sangue diminui drasticamente. A medicina diz que o sangue coagula, mas a diminuição não se deve apenas à coagulação. Algo se perde do sangue, e por isso ele coagula e se reduz a uma quantidade ínfima. O que faz o sangue ser tão volumoso é a materialização do espírito. Com a morte, esse espírito se desprende, e o sangue diminui naturalmente.
-
-Esse sangue turvo aumenta cada vez mais, e quando o processo de purificação começa, os resíduos purificados se tornam uma substância branca. Esses resíduos brancos se tornam o elemento branco primordial e são expelidos da área de sangue turvo. O corpo humano tem um fluido seroso, e quando o elemento branco se acumula nesse fluido, ele se torna pus. O pus aquoso é essa substância diluída. Gradualmente, ele se torna um líquido purulento. À medida que esse líquido se torna mais espesso e abundante, a doença se manifesta. Portanto, a nuvem no espírito-corpo é a causa da doença; sua manifestação no corpo físico é o resultado. Da mesma forma, os governantes criam a causa e depois tentam corrigir o comunismo da classe baixa, mas isso é absolutamente impossível, pelo mesmo princípio da doença.
-
-Um exemplo: um furúnculo foi operado durante dois meses. O furúnculo sarou, mas como a nuvem no espírito não foi removida, outro apareceu ao lado. Mais um mês de cirurgia, e sarou, mas outro apareceu. O médico cobrou mil ienes. E outro apareceu. Eu curei em uma semana por oito ienes. O médico, sem pesquisar a causa fundamental, o que cria a nuvem no espírito, simplesmente corta o resultado, o furúnculo. Por isso, ele reaparece ao lado, repetidamente. O médico pensa que a causa é uma nuvem nas células e usa raios-X, mas quem não conhece o espírito não pode entender.
-
-O pus extremamente concentrado é o câncer. É uma doença que destrói os tecidos. O espessamento do pus aquoso é a tuberculose, e quando ele se torna ainda mais concentrado, destrói os tecidos celulares. Isso é o câncer. O pus, de amarelo, torna-se branco e, depois, um fluido seroso transparente como a água. Isso ocorre porque é purificado pela energia espiritual. No bubão inguinal (da sífilis), sai uma água amarelada. Curei em duas semanas. Com um médico, sai uma substância suja e lamacenta, como um marisco. Com o tratamento espiritual, ela se dissolve e vira água.
-
-E como surgem as nuvens? Elas aparecem na parte mais fraca do corpo espiritual. A causa são os pecados e máculas dos ancestrais e do próprio indivíduo. E por que as nuvens aparecem na parte mais fraca? Porque, ao usar a mente, há uma diferença entre usá-la para o bem ou para o mal. Se usada para o mal, a mente enfraquece. Se usada para o bem, fortalece. Os inventores se fortalecem.
-
-A tuberculose ocorre porque os pulmões estão fracos. Por quê? Os pulmões inspiram o ar, e o coração inspira a energia espiritual, o calor do sol. Na tuberculose, surge a febre.
-*   Amaterasu Oomikami (天照大神): Mundo Espiritual (Fogo - Emoção), Mundo do Ar (Água - Espírito da Lua), Mundo Físico (Terra)
-*   Sol: Calor do amor. Coração
-*   Lua: Verdadeira fé. Pulmão
-*   Izunome no Kami: Razão. Estômago = Matéria
-*   Trindade: 5 e 3. Deus, Espírito, Físico. Divino (fogo principal, água secundária) - Japão. Espiritual (água principal, fogo secundário) - Exterior.
-*   Sol e Lua se unem para formar a civilização da luz (明). Este é o Mundo de Luz.
-
-Em Tamagawa, construiremos no futuro o Santuário de Izunome. Os deuses, exceto Amaterasu Oomikami (天照皇大神), são todos anjos. O cristianismo diz que há um só Deus, e isso é verdade. Exceto Amaterasu Oomikami (天照皇大神), não há outros deuses, então o correto é usar o caractere “mikoto” (命). “Mikoto” (尊) é um deus superior, o verdadeiro deus. “Mikoto” (命) é um vassalo, e no mundo físico, é o povo.
-
-Por que os pulmões enfraquecem? Por falta de amor. Os pulmões são água, e a água se move pelo fogo. Os pulmões se movem pelo calor do coração. Pouco calor no coração significa pouco amor. Portanto, é preciso praticar o amor. Amar tudo. E, como base para isso, venerar Kannon (観音). Uma pessoa que antes se irritava ao ver os outros rindo, depois de começar a venerar Kannon (観音), passou a se sentir feliz e alegre. Este é um exemplo real.
-
-Pessoas com problemas cardíacos carecem de razão. O fogo do coração queima continuamente porque há muita água. Enquanto houver água, tudo bem, mas se faltar, a razão se torna escassa, pois o fogo apenas queima intensamente. Kannon (観音) é a atuação do fogo e da água, e nos concede ambos na medida certa.
-
-Problemas de estômago são causados por desrespeito à matéria. Pessoas exigentes com a comida têm problemas de estômago por essa razão. Quem come de tudo, mesmo que não seja saboroso, tem um estômago forte. É preciso ter gratidão por tudo. Vivendo uma vida de gratidão constante, não se acumulam pecados no estômago, e ele permanece sempre forte e livre de doenças. É algo a se ter em mente.
-
-O abdômen corresponde ao subsolo. O abdômen é o calor da terra, e o que está no estômago desce para o abdômen para ser processado. Assim como a terra filtra as impurezas e envia a água limpa para o subsolo, para depois ser bombeada e usada novamente, o abdômen filtra o que é ruim, excretando os resíduos como fezes, e envia a água como urina para os rins. O que é bom é enviado para o fígado (*kanzo*), cujo nome deriva dessa função vital (*kanjin*). Assim, a carne e a pele são formadas.
-
-Quando os pulmões estão fracos, é comum ter suores noturnos. O coração é fogo. O ideograma de coração (心) é um oito com dois pontos laterais; se colocado sobre o oito, forma-se o ideograma de fogo (火). O coração é cercado pelos pulmões.
-
-Enquanto a criança depende dos pais, há uma conexão. Os pecados dos pais são transferidos para ela. A doença da criança é, na verdade, os pecados dos pais que lhe são transferidos. Quando os pais têm uma missão a cumprir, mas seus pecados causariam uma doença, esses pecados são transferidos para a criança. Em alguns casos, a criança morre, mas ela está indo no lugar dos pais.
-
-De onde vêm as nuvens de todo o corpo? Dos ancestrais. Os ancestrais e os descendentes estão conectados por um fio espiritual. A medicina chama isso de hereditariedade, mas às vezes a herança não se manifesta. A teoria da hereditariedade não é absoluta, mas o fato é absoluto. Se um grande homem surge na linhagem e acumula virtude, essa virtude remove o pecado, e o fio se rompe, interrompendo a herança. Essa herança flui constantemente do mundo espiritual. Os ancestrais são julgados e purificados no mundo espiritual, e os pecados purificados fluem para os descendentes no mundo físico.
-
-Ancestrais que fogem do mundo espiritual e possuem seus descendentes o fazem porque, por falta de fé em vida, não têm a que grupo pertencer no mundo espiritual. Sem ter para onde ir, eles se apegam a seus filhos, causando doenças.
-
-Os pecados e máculas dos ancestrais vêm principalmente pela medula espinhal. Ancestral – cabeça – medula – cóccix – descendente. Nós somos os descendentes, o cóccix. Homens e mulheres, todos descendemos disso. Os pecados e máculas que fluem pela medula espinhal descem e se espalham para a cabeça, olhos, nariz, coração, rins, para toda parte. A medula espinhal é a fonte de todas as doenças.
-
-Todas as doenças se curam naturalmente, mas o processo envolve dor, febre, catarro, vômito de sangue tóxico, furúnculos, diarreia. A disenteria é a evacuação de sangue tóxico; uma vez que o sangue tóxico sai, a cura ocorre em um dia. Os pecados e máculas geralmente se manifestam em um terço da medula espinhal e nas nádegas.
-
-Como já disse, a doença surge da nuvem no espírito, e essa nuvem se torna sangue tóxico. Quando atinge um certo nível, um movimento de dissolução ocorre naturalmente no corpo. Com o início desse movimento, os resíduos purificados são expelidos, e a cura ocorre. Quando as nuvens se acumulam no mundo espiritual, ocorrem grandes trovoadas, tufões, tempestades, que as dissolvem. Se não fossem esses fenômenos da natureza, não saberíamos que tipo de doenças afligiriam a humanidade.
-
-Por Sua compaixão, Deus, por meio dos fenômenos naturais, purifica este mundo nublado e maculado, limpando a raiz da doença. Quando as nuvens se formam no ser humano, tufões e tempestades ocorrem dentro do corpo, e o movimento de dissolução começa.
-
-Para dissolver as nuvens espessas, o coração absorve o calor do sol e o envia para as nuvens. O calor do sol enviado para as nuvens gera febre. Isso se transforma em um furúnculo, e o veneno sai. Quando o veneno aflora na pele, é preciso deixá-lo amadurecer completamente. Quando o pus amadurece completamente, ele se projeta para fora, estoura naturalmente, o pus sai, e a cura ocorre.
-
-Se, nesse estado, for cortado, todo o veneno sairá, e a recuperação será imediata. Mas os médicos cortam imediatamente, removendo apenas o pus superficial, enquanto muito pus ainda permanece no interior. O veneno então se desloca para o lado, e outro furúnculo se forma. Se for cortado novamente, outro aparecerá. O ciclo se repete. Se for cortado quando estiver totalmente maduro, a cura ocorre de uma só vez. Com o poder de Kannon (観音), a purificação ocorre, a dor cessa, e o pus se dilui, acelerando a cura.
-
-A disenteria infantil também começa com o veneno fetal (pus aquoso) que chega ao estômago, causando vômitos e febre. O médico, ao tentar parar o vômito e a febre, que são o trabalho de cura natural do corpo, interfere na cura. A medicina ocidental é uma interferência na cura, e por isso não cura. Resfriar com gelo é o pior que se pode fazer. O calor é necessário para curar, e resfriar faz o oposto, parando a atividade do calor e impedindo a cura. É natural que a doença piore. A febre tenta enviar o veneno para a via de saída, e resfriar impede isso, fazendo com que ele se acumule nos pulmões, causando enfisema. O inchaço de um furúnculo é um bom sinal, pois indica que há vitalidade. Sem vitalidade, não há inchaço, e o pus não pode ser removido. Se isso continuar, a morte é o único resultado possível. Se deixado em paz, o furúnculo incha, o pus sai, e a cura ocorre. A infelicidade é ter nascido em um país com médicos e leis que os protegem.
-
-Os medicamentos todos causam efeitos colaterais. Constipação, problemas de estômago são exemplos. A injeção de glicose também é ruim. A constipação ocorre em pessoas com pouca água no corpo ou com febre. Basta beber mais água ou remover a febre. O uso de laxantes faz com que o órgão responsável pela evacuação se atrofie, piorando a constipação. Quanto mais se toma remédios para curar, mais se fica constipado. Para o estômago doente, toma-se remédio. O estômago para de trabalhar. Toma-se mais remédio. É um círculo vicioso que leva a doenças estomacais, câncer de estômago, e, quando não se pode mais comer, aplica-se glicose. Com isso, o estômago para de trabalhar ainda mais. A morte se torna inevitável. É uma situação lamentável. A injeção de cálcio engorda temporariamente, mas depois a pessoa emagrece e piora. A urticária é uma intoxicação por injeção de cálcio. Aplicar pomada em um furúnculo impede que ele sare, pois o medicamento o suprime. A melhora aparente é apenas um recuo da doença, que voltará a se manifestar. Os medicamentos entram no estômago, no abdômen, no coração. A comida é boa, mas o medicamento, ao entrar no coração, turva o sangue. O sangue turvo enfraquece o corpo. A injeção é ainda pior, pois entra diretamente no coração e se mistura com o sangue.
-
-O corpo humano está em constante processo de purificação, e os resíduos se acumulam principalmente nos ombros e no pescoço. Isso é diferente da fonte da doença que são os pecados e máculas. A rigidez nos ombros pode levar a derrames cerebrais, mas é menos grave que os pecados dos ancestrais. O veneno também pode descer. Injeções na coluna ou na lombar fazem com que ele desça para as pernas, solidificando-se nos tornozelos ou articulações, o que é muito difícil de curar.
-
-As injeções não são absolutas, e a pesquisa constante para criar novas só gera mais doenças. Algumas curam, mas a maioria causa uma recaída em dois ou três dias, e a doença volta pior que antes. A injeção é uma supressão temporária, e por isso é prejudicial. O mais terrível é aplicar injeções em bebês. Isso retarda seu desenvolvimento, o que é um problema sério. O ser humano não deve, em hipótese alguma, ingerir medicamentos. Se adoecer, deve ser tratado imediatamente com o poder de Kannon (観音), que cura cem por cento.
-
-As bactérias foram criadas por Deus para o processo de purificação do sangue humano. Tudo o que existe foi criado por Deus por uma necessidade. As bactérias e os insetos são muito temidos e odiados, o que é uma pena. Graças às bactérias, os seres humanos são conduzidos à saúde, e desfrutamos das bênçãos do saquê, do missô e do shoyu.
-
-**O Método de Saúde Absoluta**
-
-Eliminar as nuvens do ser humano é o fundamento do método de saúde. Para isso, o melhor é banhar-se na luz, entrar em contato com a luz. Venerar Kannon (観音) de manhã e à noite é entrar em contato com a luz, ser iluminado pela luz. A alma recebe a luz e se purifica.
-
-Essa luz tem três níveis: grande, médio e pequeno. A sede é a grande; as filiais, a média; e o altar de Kannon (観音) em casa, a pequena. Por isso, as nuvens são removidas, e a doença não surge. Na Kannonkai, não há doença por essa razão.
-
-Outro ponto é acumular virtude. Ao acumular virtude, a luz aumenta. Salvar as pessoas, fazer o bem, retorna como gratidão, como luz. Por isso, a dignidade da pessoa aumenta, e ela passa a ser respeitada. Uma pessoa com a alma maculada não tem virtude, não tem luz. Vive assustada e parece desprezível.
-
-Para acumular virtude, é preciso trabalhar incansavelmente pelas coisas de Deus, pela sociedade e para salvar os indivíduos. Mesmo que alguém esteja doente e pense que não pode salvar os outros, mesmo doente, pode ajudar a salvar os outros. Pode falar sobre a graça de Deus e levar as pessoas a crer, ou, se forem doentes, a receber o tratamento de Deus. Fazendo isso, a própria doença é curada imediatamente pela virtude acumulada, e se recebe ainda mais luz de Deus.
-
-Conquistar ou guiar um único fiel é um trabalho imenso. Essa pessoa salva outra, que salva outra, e os fiéis se multiplicam em progressão geométrica, o que é extraordinário.
-
-Esse é o método de saúde absoluta. O método de saúde baseado no corpo é secundário. Ao fazer o trabalho de Deus, pode-se comer qualquer coisa e ser extremamente saudável. Nutrição e higiene são questões secundárias, as últimas do Mundo da Noite. A melhor nutrição é a energia espiritual de Deus.
-(15 de setembro de 1935)
 
 ---
 

@@ -3,7 +3,7 @@
 # Esclarecimentos sobre Enfermidades e o Processo de Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月28日） | **Status:** Published
+**Título Original:** 御教え （S26年8月28日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Esclarecimentos sobre Enfermidades e o Processo de Purificação
 
@@ -116,7 +116,7 @@ Não tinham? Isso é um grave erro. É você a pessoa em questão?
 # Orientações sobre a Fé e a Vida
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年12月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 神智の光 | **Status:** Published
+**Título Original:** 神智の光 | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-12-25
 
 ## Orientações sobre a Fé e a Vida
 
@@ -183,7 +183,7 @@ Existe, aliás, um método simples para identificá-las. As indianas apresentam 
 # A Relação entre Religião, Ciência e a Origem do Sofrimento
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月31日 | **Fonte:** 会報
-**Título Original:** 大先生様御教え 高天分会 | **Status:** Published
+**Título Original:** 大先生様御教え 高天分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-01-31
 
 ## A Relação entre Religião, Ciência e a Origem do Sofrimento
 
@@ -224,7 +224,7 @@ Dessa forma, o corpo humano mantém uma relação intrínseca com a Lua. A linha
 # Esclarecimentos sobre os Ensinamentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年8月21日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年8月） 大成会以外の御面会日の御光話の中から適宜選択、載録 | **Status:** Published
+**Título Original:** 御光話 （S24年8月） 大成会以外の御面会日の御光話の中から適宜選択、載録 | **Status:** Published | **Edição/Página:** 11号 | **Data ISO:** 1949-08-21
 
 ## Esclarecimentos sobre os Ensinamentos Divinos
 
@@ -619,7 +619,7 @@ A cirurgia não adiantará; na verdade, pode piorar a situação. Além disso, m
 # Esclarecimentos sobre a Fé e o Cotidiano
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年2月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年1月18日） | **Status:** Published
+**Título Original:** 御光話 （S24年1月18日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-02-08
 
 ## Esclarecimentos sobre a Fé e o Cotidiano
 
@@ -738,7 +738,7 @@ Sim, há um significado. Pode ser o ressentimento de alguém que foi ferido entr
 # Sobre as Causas Espirituais dos Sofrimentos
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月15日） | **Status:** Published
+**Título Original:** 御教え （S26年12月15日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Sobre as Causas Espirituais dos Sofrimentos
 
@@ -779,7 +779,7 @@ Seu corpo está, por assim dizer, avariado. Ele deve se levantar aos poucos, aco
 # Esclarecimentos sobre a Fé e o Universo
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S23年11月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年11月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-08
 
 ## Esclarecimentos sobre a Fé e o Universo
 
@@ -856,7 +856,7 @@ Eu mesmo, no passado, fui alvo de inúmeras calúnias. Na época da Oomoto, eu e
 # Esclarecimentos sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年3月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年3月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -919,7 +919,7 @@ Tanto Marx quanto Engels sofreram com a mais extrema pobreza. As pessoas hoje, a
 # A Universalidade da Arte Japonesa
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S25年3月23日） | **Status:** Published
+**Título Original:** 御光話 （S25年3月23日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
 
 ## A Universalidade da Arte Japonesa
 
@@ -940,7 +940,7 @@ Sem dúvida, é recomendável que o conheçam. Com o advento do Paraíso Terrest
 # A Fé no Lar e a Paciência na Purificação
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S25年3月28日） | **Status:** Published
+**Título Original:** 御光話 （S25年3月28日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
 
 ## A Fé no Lar e a Paciência na Purificação
 
@@ -981,7 +981,7 @@ Nesse caso, basta levá-lo a um restaurador de pergaminhos para que ele realize 
 # Perguntas e Respostas sobre a Verdade Divina
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1951-12-25
 
 ## Perguntas e Respostas sobre a Verdade Divina
 
@@ -1041,7 +1041,7 @@ Após minhas palavras, ministrei Johrei, e a pessoa retornou à sua calma habitu
 # O Sofrimento Causado por um Antepassado
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月25日） | **Status:** Published
+**Título Original:** 御教え （S27年2月25日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## O Sofrimento Causado por um Antepassado
 
@@ -1088,7 +1088,7 @@ Isso não representa problema algum. Apenas desloque-a. É tudo o que precisa se
 # Esclarecimentos sobre a Nova Era
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年3月23日） | **Status:** Published
+**Título Original:** 御光話 （S24年3月23日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949
 
 ## Esclarecimentos sobre a Nova Era
 
@@ -1169,7 +1169,7 @@ Estou planejando iniciar o cultivo de flores ornamentais, com o objetivo de reun
 # Esclarecimentos Divinos sobre a Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月25日） | **Status:** Published
+**Título Original:** 御教え （S26年10月25日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Esclarecimentos Divinos sobre a Purificação
 
@@ -1292,7 +1292,7 @@ Este é um sinal auspicioso. Tenha certeza de que esse espírito será salvo.
 # Esclarecimentos sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月10日 | **Fonte:** 実生分会ニュース
-**Título Original:** 妙智の鍵 実生分会 | **Status:** Published
+**Título Original:** 妙智の鍵 実生分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-06-10
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -1349,7 +1349,7 @@ Não é necessário ir ao cemitério. No dia designado, basta voltar-se na dire�
 # Esclarecimentos sobre Johrei e a Causa das Doenças
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月8日） | **Status:** Published
+**Título Original:** 御教え （S26年12月8日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Esclarecimentos sobre Johrei e a Causa das Doenças
 
@@ -1430,7 +1430,7 @@ Não é necessário ir ao cemitério. No dia designado, basta voltar-se na dire�
 # Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年5月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1951-05-25
 
 ## Esclarecimentos Divinos
 
@@ -1487,7 +1487,7 @@ Não é necessário ir ao cemitério. No dia designado, basta voltar-se na dire�
 # Esclarecimentos sobre a Vida Cotidiana e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年11月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1949-11-20
 
 ## Esclarecimentos sobre a Vida Cotidiana e o Mundo Espiritual
 
@@ -1568,7 +1568,7 @@ Não é necessário ir ao cemitério. No dia designado, basta voltar-se na dire�
 # Esclarecimentos sobre a Fé e a Vida
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年4月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-04-20
 
 ## Esclarecimentos sobre a Fé e a Vida
 
@@ -1711,7 +1711,7 @@ O ginkgo é uma árvore mística, um pouco diferente das árvores comuns. É mui
 # Esclarecimentos sobre Provações e Dúvidas Espirituais
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年5月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1953-05-25
 
 ## Esclarecimentos sobre Provações e Dúvidas Espirituais
 
@@ -1782,7 +1782,7 @@ Os pontos vitais são os rins e a bexiga. Trata-se de uma purificação de simpl
 # Diretrizes sobre a Prática da Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年7月28日） | **Status:** Published
+**Título Original:** 御光話 （S23年7月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Diretrizes sobre a Prática da Fé e o Mundo Espiritual
 
@@ -1895,7 +1895,7 @@ De modo algum. O deus guardião local cuida constantemente dos seus protegidos, 
 # Diretrizes para a Vida de Fé
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年10月8日） | **Status:** Published
+**Título Original:** 御垂示 （S26年10月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Diretrizes para a Vida de Fé
 
@@ -2213,7 +2213,7 @@ Pode manter como está. Se é o Konjin do portão do demônio, não há problema
 # A Linhagem Espiritual e os Mistérios do Universo
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年10月21日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年7月3日） | **Status:** Published
+**Título Original:** 御光話 （S24年7月3日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-10-21
 
 ## A Linhagem Espiritual e os Mistérios do Universo
 
@@ -2326,7 +2326,7 @@ Sim, existem incessantemente. Em todas as épocas, há cinco. A estrela se manif
 # Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1951-09-25
 
 ## Esclarecimentos Divinos
 
@@ -2379,7 +2379,7 @@ Quando questionado sobre a situação mundial, o espírito respondeu: "Sou um es
 # A Causa Espiritual das Doenças e os Conflitos Familiares
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月16日） | **Status:** Published
+**Título Original:** 御教え （S27年1月16日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## A Causa Espiritual das Doenças e os Conflitos Familiares
 
@@ -2446,7 +2446,7 @@ Ela não parece alheia, então é um caso leve. Falta apenas mais um passo para 
 # Respostas aos Questionamentos da Fé
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年10月21日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年7月23日） | **Status:** Published
+**Título Original:** 御光話 （S24年7月23日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-10-21
 
 ## Respostas aos Questionamentos da Fé
 
@@ -2589,7 +2589,7 @@ O mikoshi representa a inspeção anual que a divindade protetora da localidade 
 # A Mística dos Números, o Poder dos Nomes e o Destino
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年7月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年7月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## A Mística dos Números, o Poder dos Nomes e o Destino
 
@@ -2678,7 +2678,7 @@ Existem também famílias em que os filhos homens não sobrevivem, apenas as mul
 # Causas Espirituais e Toxinas Medicinais
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月11日） | **Status:** Published
+**Título Original:** 御教え （S26年9月11日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Causas Espirituais e Toxinas Medicinais
 
@@ -2709,7 +2709,7 @@ Eu escrevo incessantemente sobre os malefícios dos medicamentos, mas percebo qu
 # Esclarecimentos de Meishu-Sama sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年12月18日A） | **Status:** Published
+**Título Original:** 御光話 （S23年12月18日A） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Esclarecimentos de Meishu-Sama sobre a Fé e o Mundo Espiritual
 
@@ -2838,7 +2838,7 @@ R: O clima está se tornando gradualmente mais uniforme. Recentemente, até mesm
 # Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年1月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1951-01-25
 
 ## Esclarecimentos Divinos
 
@@ -2948,7 +2948,7 @@ A resposta está detalhada no capítulo “O Caminho do Casal”, do livro “Cr
 # Orientações sobre o Culto aos Antepassados e a Postura na Fé
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月10日 | **Fonte:** 実生分会ニュース
-**Título Original:** ご存じですか 実生分会 | **Status:** Published
+**Título Original:** ご存じですか 実生分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1948-12-10
 
 ## Orientações sobre o Culto aos Antepassados e a Postura na Fé
 
@@ -2975,7 +2975,7 @@ Por fim, aquele que se dirige à Unidade Religiosa para receber Johrei não deve
 # A Sublimidade do Espírito e a Prática da Salvação
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年4月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年4月1日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-04-15
 
 ## A Sublimidade do Espírito e a Prática da Salvação
 
@@ -3190,7 +3190,7 @@ O mesmo vale para as sementes. Variedades como "Asahi nº X" ou "Norin nº Y" s�
 # Elucidações sobre Enfermidades e a Influência Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月1日） | **Status:** Published
+**Título Original:** 御教え （S26年11月1日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Elucidações sobre Enfermidades e a Influência Espiritual
 
@@ -3223,7 +3223,7 @@ A respeito do método de “perseguir” a dor com o Johrei e ordenar que ela se
 # A Purificação Sistêmica do Veneno dos Remédios
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月28日） | **Status:** Published
+**Título Original:** 御教え （S26年12月28日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## A Purificação Sistêmica do Veneno dos Remédios
 

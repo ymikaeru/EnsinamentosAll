@@ -3,7 +3,7 @@
 # Elucidações sobre o Mundo Espiritual e as Tradições
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月15日 | **Fonte:** 神Hikari
-**Título Original:** 神秘の扉 神光分会 | **Status:** Published
+**Título Original:** 神秘の扉 神光分会 | **Status:** Published | **Edição/Página:** ２号 | **Data ISO:** 1949-06-15
 
 ## Elucidações sobre o Mundo Espiritual e as Tradições
 
@@ -102,7 +102,7 @@ R: O primeiro marido deverá ser reverenciado como falecido, ainda que possa est
 # Elucidações sobre a Purificação e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月26日） | **Status:** Published
+**Título Original:** 御教え （S27年2月26日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Elucidações sobre a Purificação e o Mundo Espiritual
 
@@ -147,7 +147,7 @@ Isso é ótimo. Não é câncer, é um furúnculo comum. A força espiritual de 
 # Elucidações sobre Kannon e a Obra Divina
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年2月28日） | **Status:** Published
+**Título Original:** 御光話 （S23年2月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Elucidações sobre Kannon e a Obra Divina
 
@@ -181,7 +181,7 @@ Isso também só posso explicar parcialmente. Antes do Imperador Jinmu, o impera
 # Sobre a Arte e a Descoberta da Verdadeira Grandeza do Japão
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年1月1日） | **Status:** Published
+**Título Original:** 御光話 （S23年1月1日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Sobre a Arte e a Descoberta da Verdadeira Grandeza do Japão
 
@@ -260,7 +260,7 @@ A verdadeira grandeza do Japão reside nos seus aspectos pacíficos. No futuro, 
 # A Sabedoria Divina Aplicada à Vida
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年12月1日） | **Status:** Published
+**Título Original:** 御垂示 （S26年12月1日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1951-12-25
 
 ## A Sabedoria Divina Aplicada à Vida
 
@@ -473,7 +473,7 @@ Naquela era, criaram-se obras magníficas. Os afrescos são famosos. Antes de Aj
 # Perguntas e Respostas Doutrinárias
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1949-07-20
 
 ## Perguntas e Respostas Doutrinárias
 
@@ -568,7 +568,7 @@ Reter a urina é, como se vê, prejudicial, mas urinar com frequência excessiva
 # Orientações sobre Purificações e Práticas da Fé
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
 
 ## Orientações sobre Purificações e Práticas da Fé
 
@@ -664,7 +664,7 @@ A causa é uma intoxicação por medicamentos fitoterápicos chineses ingeridos 
 # Perguntas e Respostas sobre a Fé e os Fenômenos do Mundo
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-10-25
 
 ## Perguntas e Respostas sobre a Fé e os Fenômenos do Mundo
 
@@ -762,7 +762,7 @@ As plantas não têm purificação, mas então por que mofo e pragas surgem? Com
 # Esclarecimentos sobre a Grande Obra Divina
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S23年10月28日） | **Status:** Published
+**Título Original:** 御光話 （S23年10月28日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-08
 
 ## Esclarecimentos sobre a Grande Obra Divina
 
@@ -845,7 +845,7 @@ Na Era de Miroku (五六七の御代), o mal será contido. O Mundo da Agressivi
 # A Nature Multifacetada da Verdade
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月22日 | **Fonte:** 会報
-**Título Original:** 妙智の鍵 日光分会 | **Status:** Published
+**Título Original:** 妙智の鍵 日光分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-05-22
 
 ## A Nature Multifacetada da Verdade
 
@@ -908,7 +908,7 @@ A explanação acima representa uma abordagem de amplo alcance, adequada para pe
 # Questões sobre a Fé e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年4月10日 | **Fonte:** 会報
-**Título Original:** 観音妙智力 日光分会 | **Status:** Published
+**Título Original:** 観音妙智力 日光分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-04-10
 
 ## Questões sobre a Fé e o Mundo Espiritual
 
@@ -957,7 +957,7 @@ Trata-se da reencarnação de um dos avós. Um espírito que, em vida, possuía 
 # Orientações Divinas sobre a Purificação e a Fé
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月18日） | **Status:** Published
+**Título Original:** 御教え （S26年11月18日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Orientações Divinas sobre a Purificação e a Fé
 Coletânea de Ensinamentos, vol. 4 – 15 de dezembro de 1951
@@ -1046,7 +1046,7 @@ A solução reside em entronizar a Imagem da Luz Divina e também o Kakejiku de 
 # Orientações sobre Purificações Físicas e Espirituais
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月17日） | **Status:** Published
+**Título Original:** 御教え （S27年2月17日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Orientações sobre Purificações Físicas e Espirituais
 
@@ -1092,7 +1092,7 @@ O ponto principal a ser purificado é o centro da região frontal da cabeça. Du
 # Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月8日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S23年12月18日） | **Status:** Published
+**Título Original:** 御光話 （S23年12月18日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-01-08
 
 ## Esclarecimentos Divinos
 
@@ -1211,7 +1211,7 @@ Uma coluna que já se curvou dificilmente voltará ao normal. Contudo, com o Joh
 # Esclarecimentos sobre Saúde e a Origem Divina
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月1日） | **Status:** Published
+**Título Original:** 御教え （S26年10月1日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Esclarecimentos sobre Saúde e a Origem Divina
 
@@ -1251,7 +1251,7 @@ A propósito, este assunto sobre os deuses foge ao escopo das perguntas de hoje,
 # Orientações sobre a Purificação através do Johrei
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月5日） | **Status:** Published
+**Título Original:** 御教え （S27年3月5日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Orientações sobre a Purificação através do Johrei
 
@@ -1322,7 +1322,7 @@ A opacidade da córnea é sempre causada por pus. A origem de tudo foi o remédi
 # A Equivocada Luta da Medicina contra a Purificação
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月5日） | **Status:** Published
+**Título Original:** 御教え （S26年11月5日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## A Equivocada Luta da Medicina contra a Purificação
 
@@ -1369,7 +1369,7 @@ Feito isso, a criança se recuperará prontamente. Se não agirem com urgência,
 # Diálogos com o Mestre
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年5月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年5月1日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-05-15
 
 ## Diálogos com o Mestre
 
@@ -1700,7 +1700,7 @@ De modo algum. Desde que o solo seja natural, está tudo bem. No entanto, eles c
 # Esclarecimentos sobre Rituais e o Mundo Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月23日 | **Fonte:** 会報
-**Título Original:** 妙智の鍵 光明分会 | **Status:** Published
+**Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-01-23
 
 ## Esclarecimentos sobre Rituais e o Mundo Espiritual
 
@@ -1749,7 +1749,7 @@ De modo algum. Desde que o solo seja natural, está tudo bem. No entanto, eles c
 # Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年2月8日） | **Status:** Published
+**Título Original:** 御光話 （S24年2月8日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949
 
 ## Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
 
@@ -1889,7 +1889,7 @@ Isso ocorre porque, a fim de permitir o desenvolvimento da civilização materia
 # A Verdadeira Fé perante as Adversidades e a Natureza do Espírito
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S28年9月1日） | **Status:** Published
+**Título Original:** 御垂示 （S28年9月1日） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-09-15
 
 ## A Verdadeira Fé perante as Adversidades e a Natureza do Espírito
 
@@ -2112,7 +2112,7 @@ O que é livre é a possibilidade de subir ou descer dentro desse destino. Isso 
 # Perguntas e Respostas sobre a Purificação de Enfermidades
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月15日） | **Status:** Published
+**Título Original:** 御教え （S26年9月15日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Perguntas e Respostas sobre a Purificação de Enfermidades
 
@@ -2149,7 +2149,7 @@ Reitero que não é meningite tuberculosa, mas sim encefalite japonesa. Ademais,
 # Luz da Sabedoria: Esclarecimentos de Meishu-Sama
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年8月15日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智の光 | **Status:** Published
+**Título Original:** 妙智の光 | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1950-08-15
 
 ## Luz da Sabedoria: Esclarecimentos de Meishu-Sama
 
@@ -2228,7 +2228,7 @@ Reitero que não é meningite tuberculosa, mas sim encefalite japonesa. Ademais,
 # Esclarecimentos sobre a Doutrina e a Vida Espiritual
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年6月8日） | **Status:** Published
+**Título Original:** 御光話 （S23年6月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## Esclarecimentos sobre a Doutrina e a Vida Espiritual
 
@@ -2307,7 +2307,7 @@ Seria bom que, uma vez por mês, você fizesse uma oferenda de algo que um boi a
 # A Proteção Divina e a Prática da Fé no Cotidiano
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S25年4月18日） | **Status:** Published
+**Título Original:** 御光話 （S25年4月18日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
 
 ## A Proteção Divina e a Prática da Fé no Cotidiano
 
@@ -2330,7 +2330,7 @@ Sim, o uso de uma corrente é perfeitamente aceitável.
 # A Força do Milagre na Construção do Paraíso Terrestre
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年9月1日） | **Status:** Published
+**Título Original:** 御垂示 （S26年9月1日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
 
 ## A Força do Milagre na Construção do Paraíso Terrestre
 
@@ -2499,7 +2499,7 @@ Hoje, falamos de antiguidades e de mineração, mas são assuntos relacionados.
 # A Visão Universalista e Esclarecimentos sobre a Vida
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年9月21日 | **Fonte:** 御Hikari話録
-**Título Original:** 御光話 （S24年6月23日） | **Status:** Published
+**Título Original:** 御光話 （S24年6月23日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1949-09-21
 
 ## A Visão Universalista e Esclarecimentos sobre a Vida
 
@@ -2628,7 +2628,7 @@ Portanto, o caso dessa senhora é bastante sério. Certa vez, tratei uma pessoa 
 # Sobre Sonhos, a Atuação Espiritual e a Agricultura Natural
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月25日 | **Fonte:** Gosuiiji録
-**Título Original:** 御垂示 （S26年12月6日） | **Status:** Published
+**Título Original:** 御垂示 （S26年12月6日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1951-12-25
 
 ## Sobre Sonhos, a Atuação Espiritual e a Agricultura Natural
 
@@ -2771,7 +2771,7 @@ Atualmente, estou escrevendo um artigo intitulado “A Cultura da Repressão”.
 # A Purificação das Toxinas Medicinais
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月11日） | **Status:** Published
+**Título Original:** 御教え （S26年8月11日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## A Purificação das Toxinas Medicinais
 
@@ -2818,7 +2818,7 @@ Ademais, é fundamental que as pessoas ao seu redor leiam para ele, tanto quanto
 # O caso da criança com desenvolvimento atípico
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1952-01-25
 
 ## O caso da criança com desenvolvimento atípico
 
@@ -2873,7 +2873,7 @@ A Agricultura Natural preconiza o cultivo de uma única espécie, portanto, a pl
 # Comunhão Espiritual e Esclarecimentos Divinos
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年7月8日 | **Fonte:** 特別Gomenkai御Hikari話
-**Título Original:** 神和会 | **Status:** Unpublished
+**Título Original:** 神和会 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1951-07-08
 
 ## Comunhão Espiritual e Esclarecimentos Divinos
 
@@ -3041,7 +3041,7 @@ Referência: O mesmo princípio se aplica aos túmulos.
 # A Prática do Johrei e a Essência da Verdadeira Arte
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
-**Título Original:** 御光話 （S23年12月8日A） | **Status:** Published
+**Título Original:** 御光話 （S23年12月8日A） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
 
 ## A Prática do Johrei e a Essência da Verdadeira Arte
 
@@ -3170,7 +3170,7 @@ O Taizokai (胎臓界), ou Mundo do Útero, representa o mundo da noite no budis
 # Questões sobre Purificações e a Orientação Divina
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年10月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 教えの光 | **Status:** Published
+**Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1952-10-25
 
 ## Questões sobre Purificações e a Orientação Divina
 
@@ -3297,7 +3297,7 @@ A causa não é espiritual, mas sim o acúmulo de yakudoku (薬毒). Apalpando t
 # Questões e Respostas sobre os Princípios Divinos
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 妙智之光 | **Status:** Published
+**Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1950-01-20
 
 ## Questões e Respostas sobre os Princípios Divinos
 

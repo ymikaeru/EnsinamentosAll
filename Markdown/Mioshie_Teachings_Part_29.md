@@ -1,9 +1,694 @@
 # Mioshie_Teachings - Part 29
 
+# A Genialidade de Ogata Korin e sua Influência Mundial
+
+**Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** 尾形光琳 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.55 | **Data ISO:** 1949-08-30
+
+## A Genialidade de Ogata Korin e sua Influência Mundial
+
+Desde a tenra idade, nutro um profundo apreço pela pintura. E, dentre todos os artistas, antigos e modernos, meu predileto é, sem qualquer hesitação, Ogata Korin. No seio da Escola Korin, artistas como Koetsu (光悦), Sotatsu (宗達), Koho (光甫) e Kenzan (乾山) possuem, cada qual, seus méritos; todavia, Korin se destaca de maneira absolutamente singular. Não há paralelo para sua capacidade de, com extrema simplicidade, apreender a verdadeira essência de seus temas. Ele ignora por completo a forma literal dos objetos e, paradoxalmente, consegue expressá-la com a mais absoluta fidelidade. É um fenômeno análogo ao poder de um poema *waka* de 31 sílabas, capaz de comover onde um discurso de dez mil palavras falharia. O que mais me causa espanto, contudo, é a forma audaciosa como ele rompeu com os cânones da pintura japonesa de sua época, até então aprisionados aos modelos de inspiração chinesa. Tal ruptura se manifesta em dois pontos cruciais: a abolição do contorno linear e a transição para um estilo que se aproxima do design. Em suma, sua ousadia residiu em instituir uma técnica revolucionária que desafiava o academismo vigente.
+
+Passados mais de duzentos anos do falecimento de Korin, sua grandiosa obra veio a fomentar uma revolução no cenário artístico da era Meiji. A esse respeito, recordo-me de um episódio ocorrido há mais de trinta anos. Naquela ocasião, o mestre Okakura Tenshin havia se retirado para um período de reclusão em Izura, na província de Hitachi, acompanhado por seus quatro mais célebres discípulos: Taikan (大観), Shunso (春草), Kanzan (観山) e Buzan (武山). Por circunstâncias particulares, tive a oportunidade de me encontrar com o mestre Tenshin. Ele me expôs suas aspirações para o futuro da pintura japonesa, e seus ensinamentos foram de imenso proveito para mim. Foi nesse momento que compreendi a natureza extraordinária de sua visão. Naquela mesma noite, passei horas a conversar com os pintores Shimomura Kanzan e Kimura Buzan. Segundo me relatou o mestre Kanzan, a intenção de Tenshin ao fundar o Instituto de Belas-Artes do Japão era “revitalizar o espírito de Korin em nossa era”. “Portanto”, prosseguiu ele, “nosso princípio fundamental é a não utilização de linhas de contorno. Embora hoje nosso estilo seja depreciado sob o rótulo de Escola *Moro* (朦朧派), ou Escola Esmaecida, não tenho dúvida de que chegará o dia em que seremos devidamente reconhecidos”. E, de fato, tal como previra o mestre, a escola do Instituto não tardou a conquistar o mundo da arte, deflagrando a já conhecida revolução na pintura japonesa.
+
+O mestre Kanzan compartilhou ainda outro relato fascinante. No Ocidente, a pintura havia levado o realismo a um extremo tal que passara a competir em minúcia com a própria fotografia. Atingido esse impasse, do qual parecia não haver saída, tornou-se imperativa a busca por uma nova direção. Foi nesse exato momento que, nos círculos artísticos da França, alguém descobriu a obra de Korin. É fácil imaginar o assombro e a admiração que seu estilo provocou, sendo ele a antítese absoluta do realismo meticuloso. Desse impacto, floresceu o movimento *Art Nouveau* e, subsequentemente, a corrente pré-impressionista, que por fim culminou no surgimento de gênios da estatura de Van Gogh, Gauguin e Cézanne, os grandes mestres do pós-impressionismo. A influência, contudo, não se deteve na pintura. Ela desencadeou uma revolução em todas as artes e ofícios, estendendo-se até mesmo à arquitetura. Nesse campo, os estilos clássicos greco-romanos e secessionistas cederam lugar a uma profunda transformação, que ofuscou a estética renascentista e deu origem à arquitetura moderna, como é de conhecimento geral. Pode-se afirmar, sem margem para erro, que até mesmo o estilo arquitetônico de extrema simplificação concebido pelo francês Le Corbusier, que hoje domina o cenário mundial, tem em Korin sua fonte primordial.
+
+Por tudo isso, não seria exagero afirmar que Korin, um japonês cuja obra foi capaz de mover o mundo inteiro séculos após sua morte — ou melhor, de revolucionar um dos pilares da cultura humana —, representa o maior motivo de orgulho para o Japão.
+
+Até hoje, não há registro de outro japonês cujas realizações tenham impactado de forma tão profunda um campo do saber em escala global. Devemos reconhecer que, nesse sentido, há somente Korin.
+
+---
+
+# Sobre o Senhor Ooya Souichi
+
+**Categoria:** o | **Ano:** 昭和26(1951)年11月7日 | **Fonte:** Eikou
+**Título Original:** 大宅壮一という人 | **Status:** Published | **Edição/Página:** 129号 | **Data ISO:** 1951-11-07
+
+## Sobre o Senhor Ooya Souichi
+
+Este homem é possuidor de uma mente peculiar. Recentemente, em sua coluna no jornal Tokyo Nichi Nichi, ele mais uma vez, como de costume, dedicou três artigos a me difamar com sua conhecida habilidade. Com efeito, há vinte anos que este senhor me persegue como se eu fosse o algoz de seus pais, publicando periodicamente seus ataques contra mim nos jornais com uma persistência notável. Contudo, seus artigos mais recentes revelam um esmero inédito. Refletindo a respeito, concluo que foram escritos em um gesto de despeito, motivado pelo processo por difamação que nossa Igreja moveu contra ele por conta de suas ofensas anteriores. Percebe-se claramente, todavia, seu receio de enfrentar um novo processo, pois ele se esforça ao máximo para evitar afirmações categóricas, preferindo reunir supostas evidências para fundamentar seus ataques.
+
+Analisemos, pois, a natureza de tais materiais. Um deles consiste em um artigo falacioso, publicado no ano passado em um jornal de terceira categoria. A fonte dessa matéria seria um antigo conhecido meu, pessoa de mente um tanto desequilibrada que, movido por rancor, proferiu inverdades a meu respeito. Ademais, ele se apropria de um incidente do ano anterior, cujo desfecho ainda é incerto, e o apresenta como um fato consumado e desfavorável, utilizando-o como mais um pretexto para suas calúnias. Sua tática consiste em selecionar unilateralmente qualquer elemento que possa macular minha honra. Que benefício poderia advir de um ato tão desprovido de retidão? Fica evidente que não estamos lidando com uma mentalidade comum. Portanto, embora seja pouco digno de um adulto dar atenção a um indivíduo de índole tão distorcida, sinto-me no dever de macular meu pincel e escrever estas linhas. Faço-o para que as pessoas de bem, que porventura o considerem um jornalista respeitável, não sejam induzidas ao erro por suas artimanhas.
+
+Dentre os assuntos mencionados, abordarei apenas um, pois sei que, entre os fiéis, pode haver quem deseje conhecer a verdade sobre a fotografia espiritual. Inicialmente, quando a referida pessoa de mente instável tirou a fotografia, ela retornou no dia seguinte, em estado de grande assombro. Veio mostrar-me a chapa fotográfica ainda úmida, afirmando que algo prodigioso havia sido registrado. Tratava-se, com efeito, daquela mesma fotografia em que a imagem da Senju Kannon (千手観音) se manifestou. Ele alega agora que a imagem semelhante a uma fumaça foi resultado do reflexo de um espelho, mas a verdade é que naquele cômodo não havia sequer um espelho de mão. Quanto à imagem do Deus Dragão, sua nitidez era incontestável para qualquer observador. O próprio fotógrafo, à época, afirmava categoricamente: "Isto é, sem dúvida, o Deus Dragão!", repetindo, exultante, o quão maravilhoso era o fenômeno.
+
+Então, por que ele divulgou tamanha inverdade a um jornal? A razão parece ser o desejo de uma gratificação pela fotografia espiritual, que publiquei no ano passado em meu livro de milagres. Ele me procurou após um hiato de dezesseis anos, mas, aparentemente constrangido, não verbalizou seu pedido de forma explícita. De minha parte, por tê-lo em alta conta no passado, julguei que mencionar tal assunto seria uma ofensa e, por delicadeza, evitei tocar no tema. Imagino que ele, sentindo-se ultrajado, tenha me considerado um homem obtuso e insensível. Sua atitude, portanto, deve ser compreendida como uma retaliação.
+
+---
+
+# A Superioridade do Johrei Evidenciada pelos Fatos
+
+**Categoria:** o | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
+**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1950-02-25
+
+## A Superioridade do Johrei Evidenciada pelos Fatos
+
+### Cura Completa de Linfadenopatia Hilar em Dez Dias com um Método de Saúde Diametralmente Oposto
+
+**Matsueda Eko (22), Igreja Hyakunomi – Okayama**
+
+Tudo começou com um resfriado persistente, acompanhado de um profundo mal-estar e uma dor no peito que não cedia. Ao consultar um médico, fui diagnosticada com linfadenopatia hilar, para minha grande consternação. Durante seis meses, segui à risca as prescrições médicas, incluindo uma dieta rigorosa e suplementação abundante, mas não vislumbrava qualquer perspectiva de melhora. Em meio a essa aflição, por indicação de uma fervorosa fiel da Sekaikyuseikyou, passei a frequentar a Igreja Hyakunomi.
+
+A princípio, eu não compreendia bem os ensinamentos, mas ouvia relatos de pessoas que melhoravam progressivamente. As orientações do ministro sobre alimentação e estilo de vida eram diametralmente opostas às do médico. Embora sentisse certa apreensão, decidi segui-las e comecei a receber Johrei. Os resultados foram surpreendentes: meu corpo tornou-se mais leve, a palidez azulada de meu rosto deu lugar a uma tez saudável, e o alimento readquiriu seu sabor. Ao terceiro dia, já me foi permitido andar de bicicleta, e minha melhora diária assombrava a todos. Ao décimo dia, eu estava completamente restabelecida. Imediatamente, pedi meu ingresso na Fé e hoje tenho a permissão de auxiliar outras pessoas.
+
+Minha enfermidade localizava-se no hilo pulmonar esquerdo. Ao recordar meu estado durante a doença, um calafrio me percorre a espinha. Pensar que, em apenas dez dias, meu corpo se fortaleceu a ponto de eu poder participar da colheita do trigo, deixa-me sem palavras para agradecer. A cada visita à Casa de Difusão, elevo minhas preces de gratidão a Deus Komyô Nyorai.
+
+Desejo ardentemente que as pessoas despertem o quanto antes do pesadelo de que as enfermidades pulmonares só podem ser curadas com a tríade de medicamentos, repouso absoluto e nutrição. Anseio que compreendam que apenas a arte da cura espiritual e divina pode oferecer uma solução definitiva. A verdadeira superstição, compreendi, é a crença cega e inquestionável nos fármacos. Que o meu equívoco, o de acreditar que qualquer remédio seria benéfico, sirva de lição para todos.
+
+***
+
+O caso supracitado evidencia de forma inequívoca o equívoco dos métodos de saúde da medicina. Apesar de a alimentação e o estilo de vida adotados serem o oposto do que prescreviam os médicos, a cura da linfadenopatia hilar ocorreu em um curtíssimo período. Fica claro, portanto, que tanto o repouso absoluto quanto a nutrição, nos moldes convencionais, são desprovidos de significado. Um ponto notável é que a própria paciente, por meio de sua experiência, alcançou a lucidez de que a dependência de medicamentos é uma forma de superstição.
+
+### A Ineficácia da "Terapia de Contenção": Recaída de Infiltração Pulmonar após uma Viagem de Trinta Minutos
+
+**Shimamura Kenichi (20), Igreja Mannen – Hyogo**
+
+Escrevo estas linhas com o coração transbordando de gratidão, após testemunhar o milagre de ver uma infiltração pulmonar que me afligiu por dois anos ser curada em apenas duas semanas, e em um mês, meu corpo adquirir um vigor tal que posso saltar e correr sem conhecer o cansaço.
+
+Recordo-me que, em meados de outubro de 1947, fui diagnosticado com linfadenite hilar. A partir de então, fui submetido ao que a medicina moderna considerava o tratamento mais avançado: repouso absoluto, consultas médicas diárias, além de um regime contínuo de injeções de cálcio, vitamina B1 e outros fármacos. Após seis meses, a febre, que chegava a 39,5 graus, finalmente cedeu, e pude dar os primeiros passeios fora do hospital. Meu alívio, porém, foi efêmero.
+
+Contudo, a frágil melhora, obtida à custa de uma terapia que apenas continha os sintomas, revelou sua ineficácia. Uma simples viagem de trem de trinta minutos foi suficiente para desencadear uma recaída. Desta vez, o diagnóstico foi de infiltração pulmonar, e fui novamente lançado a um leito de desespero. Por mais um ano, submeti-me ao mesmo e fatigante ciclo de injeções e medicamentos, suportando a angústia e a aflição que somente aqueles que padeceram desta doença podem compreender.
+
+Foi nesse período que, por acaso, ouvi falar do Johrei. Como muitos, fui cético à Casa de Difusão de Himeji, onde recebi Johrei do ministro Nakao. A primeira semana foi marcada por intensas purificações: febre, evacuação esverdeada, diarreia e suores noturnos. Surpreendentemente, a cada novo processo, sentia meu corpo revigorar-se. Na segunda semana, com um sangramento de hemorroidas, as purificações cessaram. Ao final de um mês, minha aparência e minha condição física eram as de uma pessoa perfeitamente saudável.
+
+Choro de emoção e gratidão por esta imensa graça. Ao pensar no ano e meio que desperdicei por desconhecer este poder sagrado, sinto o desejo de, com minhas parcas forças e sob a orientação do ministro Nakao, dedicar-me a levar esta sublime Luz às pessoas que sofrem. Anseio por retribuir, ainda que minimamente, a imensa graça recebida e, ao mesmo tempo, dissolver os pensamentos niilistas e pessimistas, tão característicos dos doentes de tuberculose, para viver uma vida plena de esperança e alegria. Com todo o respeito, apresento este meu relato.
+
+***
+
+Este relato é um exemplo paradigmático: uma infiltração pulmonar de dois anos foi curada em duas semanas e, um mês depois, o paciente gozava de saúde tão plena que não sentia cansaço, por mais que se exercitasse. O fato de ter sofrido uma recaída após uma viagem de trem de apenas trinta minutos, depois de seis meses de internação, demonstra cabalmente que o tratamento médico atua como uma mera terapia de contenção. Apesar de mais um ano de tratamento médico sem sucesso, a terapia divina proporcionou-lhe a cura total em um mês.
+
+### Sofrimento de Causa Indeterminada pela Medicina, Curado com Simplicidade pela Terapia Divina
+
+**Nakada Yasu (55), Igreja Iroha – Tóquio**
+
+Aparentemente, eu levava uma vida isenta de grandes dificuldades, mas minha constituição frágil me impôs, por longos anos, um sofrimento silencioso. Sofria do que se conhece popularmente como "frieira crônica", uma condição em que meus pés, gélidos como gelo, não se aqueciam nem mesmo durante a noite, obrigando-me a usar um espesso cobertor de algodão na cintura mesmo no verão. Além disso, a nevralgia causava dores nos braços e nas pernas.
+
+No pós-parto, fui atormentada por repetidos episódios de mastite. Nos períodos mais críticos, cheguei a utilizar quase vinte quilos de gelo por dia. A complexa rotina de alternar três tipos diferentes de medicamentos, orais e tópicos, era exaustiva, e a dor lancinante das inflamações era simplesmente indescritível. Recordar aquela época ainda me causa arrepios. Mesmo após a recuperação, minha saúde permaneceu precária, a ponto de me tornar incapaz de trabalhar como as outras pessoas.
+
+Na busca por uma solução, não poupei tempo nem recursos para consultar médicos renomados. Contudo, o veredito era sempre o mesmo: "A senhora não tem nenhum problema de saúde". Retornava para casa com um sentimento de profunda perplexidade. Se eu de fato não tinha nada, deveria ser capaz de trabalhar com vigor, mas a realidade era o exato oposto. Submeti-me a anos de injeções famosas e, depois, dediquei-me à moxabustão, mas sem qualquer efeito significativo. Quando já me encontrava em desespero, um parente falou-me sobre o Johrei, e prontamente iniciei minha formação na Fé.
+
+No início, tudo parecia um sonho. Porém, a cada purificação que recebia, dava um passo firme em direção à saúde. Hoje, vivo meus dias com uma alegria genuína, que não experimentava há décadas. A graça divina não se limitou a mim. O beribéri de minha filha mais velha foi curado. Minha segunda filha, de constituição escrofulosa, vivia com febre e era tão melancólica que seus professores chegaram a comentar que nunca a viam sorrir; hoje, é a personificação da alegria. Meu filho mais novo sofreu uma queimadura, e o médico afirmou que a cicatriz seria inevitável, mas a lesão curou-se sem deixar vestígio. As graças recebidas por nossa família são incontáveis.
+
+Se não tivéssemos encontrado este poder grandioso, estaríamos hoje gemendo em leitos de enfermidade, mergulhados na mais completa escuridão. Ao ponderar sobre essa realidade, a gratidão que sinto é tão avassaladora que as palavras me falham, e apenas as lágrimas podem expressá-la. Desejo compartilhar este sentimento com o maior número possível de pessoas, dedicando-me à difusão dos Ensinamentos, como forma de retribuir, ainda que minimamente, a imensa dádiva recebida. Com estas humildes palavras, expresso uma parcela de meu agradecimento.
+
+***
+
+O caso desta fiel ilustra uma situação bastante comum: o paciente sofre, mas os exames médicos nada detectam. A afirmação de que não há enfermidade, quando o sofrimento é real, desafia a lógica. A verdade, que deveria ser dita com honestidade, é que a medicina é incapaz de identificar a origem do mal. O poder da Terapia Divina, que curou com simplicidade uma doença de décadas, cuja causa permanecia desconhecida pela ciência médica, é verdadeiramente assombroso. Ademais, o beribéri da filha mais velha, a constituição doentia da segunda filha e a queimadura do filho mais novo — da qual, segundo o médico, restaria uma cicatriz — foram todos completamente curados.
+
+### Enfermo em Repouso por Seis Meses, Levanta-se com a Terapia Divina
+
+**Konno Shin (37), Igreja Aiwa – Akita**
+
+Meu marido, há treze anos, era uma pessoa de saúde frágil, dependente de remédios e injeções. Sempre tomei o máximo cuidado para que seu quadro não se agravasse. Apesar disso, em novembro de 1948, ele perdeu a consciência subitamente e ficou acamado. A asma surgiu concomitantemente, causando-lhe um sofrimento indizível. Recorremos aos médicos na tentativa de aliviar sua dor, mas, após cinco meses de tratamento sem qualquer efeito, seu padecimento continuava.
+
+Durante esse período, proibi-lhe o cigarro e, nas refeições, controlava o que era "veneno" e o que era "nutritivo", privando-o do que gostava. Era um cuidado penoso, uma vida de repouso que se assemelhava a um inferno. Nosso negócio é uma fábrica de koji, e a morte dele significaria o fim de nossa empresa.
+
+Como se não bastasse, minha filha mais velha caiu de uma escada e torceu o pé, e meu filho mais novo, com febre de quarenta graus, também precisou ficar de cama. Lembrei-me de ter ouvido alguém dizer que todos os infortúnios são purificações. Tendo testemunhado a ruína de vários ramos de nossa família, cheguei a pensar que a nossa vez havia chegado.
+
+Certo dia, um conhecido nos visitou e contou que muitas pessoas, cujas doenças eram incuráveis pela medicina, haviam sido salvas ao se apegarem a Deus Komyô Nyorai. Imediatamente, meu marido e eu recebemos a Medalha da Luz Divina da Associação Aiwa de Yokote. A partir de então, a cada dia, sentíamos uma proteção tão maravilhosa que tínhamos vontade de saltar de alegria. Meus filhos, naturalmente, foram curados em dois ou três dias com Johrei. Com essa felicidade, entronizamos a Imagem da Luz Divina em nosso lar. Na ocasião, o ministro Shibata ministrou Johrei em meu marido por um longo tempo.
+
+Após a partida do ministro, meu marido levantou-se do leito e começou a andar pela casa, subindo e descendo as escadas, parecendo confuso. Ele me perguntou: "Onde estou?". Respondi: "Esta é sua casa. Você esteve doente por seis longos meses e se apegou a Deus Komyô Nyorai. Graças à Sua proteção, hoje pôde se levantar pela primeira vez". Só então ele pareceu recobrar a consciência e se alegrou. Refletindo agora, creio que ele sofria de amnésia. Desde aquele dia, ele senta-se no balcão e me ajuda no negócio.
+
+Muito obrigado, Deus Komyô Nyorai! É lamentável que este poder magnânimo seja, tantas vezes, rotulado pela sociedade como charlatanismo ou seita maligna. Mesmo na província de Akita, onde milhares de pessoas foram salvas, a imprensa distorce os fatos, dando destaque a um ou dois casos de falecimento para criar uma propaganda negativa. Para mim, o que importa é que a doença seja curada. O que mais um doente poderia desejar? Por meio deste relato, expresso apenas minha profunda gratidão ao sagrado Deus Komyô Nyorai pelas inúmeras graças que recebi.
+
+***
+
+Este paciente, enfraquecido por mais de uma década de dependência de medicamentos e injeções, subitamente perdeu a consciência e desenvolveu asma. Apesar de cinco meses de tratamento médico intensivo sem sucesso, ele se recuperou gradualmente com a terapia divina, a ponto de poder retornar ao trabalho. Não há dúvida de que a acumulação de toxinas medicamentosas ao longo dos anos foi a causa que desencadeou esta grave enfermidade.
+
+### As Toxinas Medicamentosas que o Mundo Ignora: Cura da Doença e Efeito Estético
+
+**Hara Hisako (28), Enfermeira, Igreja Keiko – Saitama**
+
+Durante a guerra, eu trabalhava como enfermeira em um hospital particular em Tóquio. Em dezembro de 1943, minhas mãos e pés, até então saudáveis, foram tomados por uma dor aguda. Ao despertar, as articulações estavam inchadas e a dor era tão intensa que eu não conseguia me mover. Com grande esforço, cheguei à sala de exames e recebi uma injeção, mas várias outras se seguiram sem qualquer efeito. A dor não diminuía. Suspeitando que o medicamento não era compatível com meu organismo, tentaram outro. A primeira dose pareceu aliviar um pouco a dor, mas a segunda não teve efeito algum, como se nada tivesse sido feito.
+
+Tendo vivido por quatro anos imersa no universo dos médicos e dos remédios, eu ainda acreditava que apenas eles poderiam curar doenças. Por isso, em vez de voltar para minha terra natal, senti-me mais segura continuando o tratamento no hospital, vivendo dias e noites à base de injeções. Contudo, as áreas doloridas se multiplicaram, até que a dor se espalhou por todo o corpo, dificultando meus movimentos. Nessa época, passei a receber analgésicos às escondidas de meus amigos, mas a dor tornou-se insuportável. Em janeiro de 1945, um ano após o início da doença, deixei o hospital — lugar onde se deveria encontrar a saúde — e retornei doente à minha cidade.
+
+O diagnóstico médico foi poliartrite reumatoide. A recomendação foi repouso absoluto e a proibição de alimentos estimulantes. Acamada, pensei que ficaria inválida para o resto da vida e que morreria. A tristeza era avassaladora, e passei dias mergulhada em lágrimas, em um abismo de desespero. Certo dia, como de costume, recebi uma injeção e, subitamente, senti um calafrio. A febre subiu para cerca de 40 graus e meu corpo se cobriu de erupções semelhantes às do sarampo. O sofrimento era atroz. Ainda assim, não desisti e continuei com as injeções, mas a dor tornou-se intolerável e, por fim, fui forçada a abandonar todo e qualquer medicamento.
+
+Familiares e vizinhos sugeriram acupuntura e moxabustão. Por desencargo de consciência, tentei, mas a moxa apenas queimava a pele, deixando marcas, sem trazer alívio. Não havia mais nada a fazer. Disseram-me que, se eu ficasse apenas deitada, meu corpo se paralisaria. Minha pele tornou-se flácida e escura como a de uma idosa, perdeu o brilho, e meus ossos e minha compleição se alteraram. Sentia vergonha de ser vista e vivia reclusa em casa.
+
+Foi quando um conhecido me falou de uma terapia maravilhosa, que salvava até mesmo pacientes desenganados pelos médicos, e me incentivou a tentar. Com um desejo ardente de ser curada, aceitei o convite e fui levada ao encontro do ministro Nagasawa. Recebi Johrei pela primeira vez em setembro, quase cinco anos após o início da doença. Sob a orientação gentil do ministro, eu, que me tornara distorcida de corpo e alma, recuperei minhas forças dia após dia. Apesar das dificuldades que certamente causei, por minha teimosia de quem trabalhou na área médica, o ministro sempre me orientou com a mesma benevolência.
+
+O simples mover de suas mãos fazia meu corpo se mover. É um milagre. Não há outra palavra senão "milagre". A alegria que senti ao perceber "Isto vai me curar! Eu posso voltar a ser saudável!" é indescritível. Quatro meses após começar a receber Johrei, senti uma forte pressão no peito, acompanhada de febre alta, embora minha respiração não estivesse comprometida. Impossibilitada de ir à casa do ministro, minha irmã foi pedir-lhe orientação, e ele prontamente veio até minha casa para continuar o Johrei. Ao terceiro dia, um catarro branco e espesso começou a ser expelido em grande quantidade a cada pequeno movimento. A febre cedeu gradualmente, a pressão dolorosa no peito desapareceu e senti meu corpo tão leve como se tivesse perdido peso. A dor generalizada aliviou ainda mais. Desde então, nunca mais precisei ficar acamada e, nas horas vagas, consigo até mesmo costurar.
+
+Elevo minha gratidão diária pela grandiosa proteção de Deus Komyô Nyorai e, do fundo do coração, peço perdão por ter zombado, pensando que era apenas "um acenar de mãos". Desde que recebi a Medalha Sagrada em outubro do ano passado, tenho percorrido os caminhos de terra dos arrozais de bicicleta para cumprir minhas missões. Ao ver-me assim, ninguém acreditaria que sou a mesma pessoa que sofreu por cinco anos com reumatismo. Recebi uma proteção milagrosa. Jamais retornarei a um hospital. A simples lembrança de aplicar injeções nos pacientes me causa um arrepio. De agora em diante, desejo orientar o maior número possível de pessoas e, assim, retribuir uma ínfima parte da imensa graça que recebi.
+
+***
+
+A causa da poliartrite reumatoide, neste caso, foi, sem dúvida, a purificação das toxinas medicamentosas acumuladas durante o período em que a paciente trabalhou no hospital. A medicina, ignorando este fato, tenta curar com mais injeções, o que, naturalmente, agrava o quadro. É assombroso que o sofrimento tenha chegado a tal ponto que ela foi forçada a abandonar as injeções.
+
+A eficácia da Terapia Divina, que curou em poucos meses um sofrimento de cinco anos, é notável. Contudo, o que desejo ressaltar aqui é o estado deplorável em que se encontrava: "a pele tornou-se flácida e escura como a de uma idosa, perdeu o brilho, e os ossos e a compleição se alteraram", a ponto de ela se isolar em casa por vergonha. A causa, evidentemente, são as toxinas dos medicamentos, algo que a maioria das pessoas não percebe. Nossa experiência demonstra que indivíduos com grande acúmulo de toxinas medicamentosas aparentam ser mais velhos do que são. À medida que o Johrei elimina essas toxinas, a juventude é restaurada. Portanto, a Terapia Divina não apenas cura doenças, mas também promove um notável efeito estético, sendo uma terapia de duplo benefício.
+
+---
+
+# A Resposta do Mestre ao Conto "Dois Hakama"
+
+**Categoria:** o | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
+**Título Original:** お伺いロマンス 二人袴 | **Status:** Published | **Edição/Página:** 54号, 52号 | **Data ISO:** 1950-03-18
+
+## A Resposta do Mestre ao Conto "Dois Hakama"
+
+Ao ler este conto, considerei-o não apenas interessante, mas também um reflexo de problemas análogos que ocorrem com frequência no mundo. Fui consultado pelo autor, Sr. Iwasaki, em busca de uma solução, e compreendo que sua intenção é, sem dúvida, encontrá-la por meio da fé. Contudo, quando o conflito do amor e do desejo atinge tal extremo, torna-se árduo conceber uma resolução que satisfaça a todos os envolvidos. A dificuldade deste problema reside no fato de não haver maldade manifesta em nenhuma das três pessoas; falta-lhes a chama do mal. Analisando a trajetória que os conduziu a esta situação, percebe-se que não houve uma intenção deliberada, mas sim um destino que se desenrolou de forma natural, tornando a questão inevitável. Se houvesse maldade em algum deles, a solução não seria tão complexa; a dificuldade está justamente na ausência dela.
+
+Primeiramente, se eu me colocasse na posição de escritor, talvez delineasse a trama da seguinte forma: concederia à mulher a liberdade de escolha, com o consentimento prévio de Yoshita e Heita. Afinal, no recôndito de seu coração, deve haver uma inclinação, um amor mais intenso por um deles. O desfecho dependeria, então, da profundidade do apego e da dimensão da consciência daquele que fosse preterido. Caso ele não conseguisse resignar-se, estaria lançada a semente para uma nova tempestade, e o conflito subsequente tornaria a narrativa ainda mais cativante.
+
+É verdade que a solução ideal seria encontrada por meio da fé. No entanto, neste caso, não é plausível que os três ingressem no caminho da fé simultaneamente. E, ainda que isso ocorresse, a fé possui diferentes níveis de profundidade, tornando tal resolução, na prática, pouco provável.
+
+Se a história se passasse na era feudal, haveria a possibilidade de uma solução edificante, na qual a mulher, diante do dilema de não poder satisfazer a ambos, optaria por sacrificar a si mesma. Contudo, no mundo atual, tal desfecho é impensável. Para pessoas dessa classe social, o caminho mais natural seria cair em uma disputa de paixões, o que inevitavelmente culminaria em tragédia.
+
+Diante do exposto, a continuação do conto depende unicamente da perspectiva do autor. A visão mais acertada, todavia, é encará-la como uma das tantas tragédias geradas pela guerra.
+
+De certa forma, sinto-me como se estivesse sendo submetido a um teste de argúcia pelo Sr. Iwasaki. Ficarei sobremodo satisfeito se tiver sido aprovado.
+
+## Dois Hakama (I)
+
+Entre as inúmeras montanhas que separam as províncias de Shinshu e Echigo, em um vale profundo, aninha-se um pequeno povoado onde brota uma fonte de águas quentes e cristalinas. Povoado, talvez, seja um termo generoso, pois restam apenas duas casas. Antigamente, na era Meiji, cinco estalagens se espalhavam ao longo de pouco mais de cem metros de desfiladeiro, mas o local foi gradualmente abandonado pelo avanço dos transportes e, por conseguinte, marginalizado pela cultura econômica do país. Hoje, sua existência se resume a um minúsculo ponto em um mapa de escala reduzida do Estado-Maior, um refúgio idílico completamente esquecido pelo mundo. Com o tempo, um incêndio consumiu três das casas, e suas famílias partiram para outras terras. Daquelas que restaram, uma tornou-se um lar vazio, cuja linhagem, segundo se dizia, fora extinta pela tuberculose. Assim, nos dias atuais, em um raio de vinte quilômetros de montanhas, há apenas uma única morada humana naquele vale.
+
+Ainda que se chame estalagem, não passa de uma construção de aparência desoladora, com telhado de ripas de madeira sobre o qual se amontoam pedras. Em outros tempos, camponeses das redondezas vinham fazer tratamentos termais, trazendo seu próprio arroz para cozinhar. Hoje, porém, esses mesmos camponeses preferem os balneários de instalações modernas, acessíveis por trem. Poucos ainda se lembram desta fonte nas profundezas da montanha, e pode-se dizer que, nos últimos dez anos, o lugar não recebeu um único hóspede sequer.
+
+Diante do abandono, a família tornou-se praticante da agricultura itinerante, queimando trechos da montanha para cultivar milhete, gergelim, couve, milho e batatas, garantindo assim seu sustento. O marido, Yoshita, embrenha-se ainda mais no vale para produzir carvão, enquanto sua esposa, O-Haru, dedica-se há muito tempo a um trabalho complementar: tecer sandálias com a casca de um arbusto chamado ganpi.
+
+O-Haru, aos trinta e seis anos, possui uma saúde robusta, quase selvagem, mas está longe de ser uma mulher obtusa ou insensata. É uma trabalhadora dedicada, de bom coração e bastante perspicaz. Sua beleza não é convencional; seu rosto, aguerrido e sensual como o de um felino selvagem, possui um encanto particular.
+
+Seus dois filhos nus, uma menina de treze anos e um menino de cinco, brincavam e gritavam na fonte ao ar livre que brota à beira do riacho, em frente à casa. Era pouco mais de meio-dia. O sol ameno do início da primavera descia em feixes pela estreita faixa de céu azul, projetando-se sobre o vale, fazendo brilhar como porcelana os ombros e as nádegas molhadas das crianças e envolvendo os salgueiros à beira do penhasco em uma névoa prateada.
+
+A antiga estrada corre na margem oposta do riacho, e o acesso à casa de O-Haru se dá por uma precária ponte feita de grandes rochas dispostas no leito do rio.
+
+Por essa estrada, onde raramente passava um viajante a cada dez dias, surgiu a figura inusitada de um homem idoso, de aspecto mendicante. Ele parou exatamente em frente à casa de O-Haru e sentou-se em uma pedra à beira do caminho, passando a observá-los fixamente do outro lado do riacho.
+
+Passados uns trinta minutos, as crianças subiram correndo para casa, como se perseguidas por algo terrível. Ambas estavam completamente nuas.
+
+O corpo da menina, já com os seios e o púbis revelando os primeiros e discretos sinais da primavera, estava totalmente exposto. Ela trazia as roupas debaixo do braço, ofegante e com o peito arfando. O-Haru, que tecia sandálias no piso de terra batida, sentiu como se sua própria intimidade estivesse sendo exposta e, enrubescendo, gritou furiosa:
+— Mas que menina indecente! Estúpida, idiota!
+— Mas, mamãe! — a garota se apressou em vestir suas calçolas sujas. — Tem um deus da pobreza medonho nos espiando há quase uma hora! Não é assustador?
+— Que bobagem... Parece até que está possuída por uma raposa.
+A menina sussurrou ao ouvido da mãe:
+— Mas olhe, mamãe, veja! Ali, na pedra, do outro lado da estrada.
+
+O-Haru olhou e estremeceu. De fato, lá estava ele. Embora seu rosto não fosse nítido, parecia um demônio azul saído do inferno: um homem de aspecto sombrio, com mais de sessenta anos, definhado e vestido com trapos que lembravam um uniforme militar. Era um mendigo miserável, e seu olhar, penetrante e obstinado, estava cravado na direção delas.
+
+Puxando o menino, que chupava o dedo do lado de fora com uma expressão assustada, para dentro de casa, O-Haru baixou a esteira velha que servia de porta e ordenou à filha que continuasse a vigiar por uma fresta. Ela, por sua vez, tentou retomar seu trabalho no recinto agora escurecido, mas foi subitamente assaltada por uma sensação de profunda inquietação, um presságio sombrio que lhe pesava nas costas. Sentiu como se um espírito da desgraça tivesse invadido a paz de seus dias, até então tão pobres, mas serenos.
+
+O-Haru fora uma vendedora ambulante de antídotos de Echigo. Certo dia, durante uma travessia pelas montanhas, conheceu um jovem montanhês com quem viajou por um trecho. Em um momento de fraqueza, entregou-se a ele e acabou sendo convencida a se tornar sua esposa naquela casa isolada no vale. O homem chamava-se Heita; era forte como um touro, calado e muito trabalhador. Vivia com sua mãe, que faleceu subitamente no ano seguinte ao casamento de O-Haru. Foi nesse mesmo ano que nasceu a menina, hoje com treze anos. Pouco tempo depois, Heita foi convocado para o exército e levado para a Manchúria, de onde jamais retornou. Uma notificação oficial informou que ele havia morrido em combate na guerra do norte da China, e logo em seguida seus restos mortais foram enviados à família.
+
+Nos sete anos que se seguiram, O-Haru, uma mulher de espírito forte, determinada e relativamente otimista, trabalhou como um homem para criar a filha naquela casa solitária no vale profundo.
+
+Certa tarde, em um outono em que as montanhas e os vales se vestiam de brocados coloridos, um carvoeiro de rosto e membros enegrecidos chegou, banhou-se na fonte de O-Haru e pediu para passar a noite. Ao sair da água, o homem de pele escura revelou-se um quarentão de compleição robusta e rosto surpreendentemente gentil.
+
+Naquela madrugada, enquanto dormiam em futons dispostos em lados opostos da lareira, o corpo e a alma de O-Haru, há tanto tempo murchos pela solidão, entraram em erupção como um vulcão. Foi ela quem tomou a iniciativa, e o homem acabou por se tornar seu marido. O filho que conceberam logo depois é o menino que hoje tem cinco anos.
+
+— Mamãe, o espírito do mal ainda não foi embora. Continua olhando para cá.
+A menina, que espiava pela fresta da esteira, aproximou-se para sussurrar. O menino, amedrontado, agarrava-se à cintura de O-Haru.
+Passaram-se cerca de duas horas.
+— Ele ainda não foi embora.
+O dia começava a escurecer.
+— Ainda não foi?
+— Não, ainda está olhando.
+
+Quando a escuridão lá fora se adensou, a menina parou de vigiar e agachou-se ao lado da mãe. De repente, ouviram-se passos do lado de fora.
+O-Haru ficou rígida como uma estaca, e as duas crianças, uma de cada lado, agarraram-se à sua cintura, tremendo.
+Pela porta dos fundos, o marido, Yoshita, entrou, dizendo:
+— O que estão fazendo? Já escureceu.
+— Ah, é você!
+— O que foi?
+— Na estrada, do outro lado... tem um homem nos olhando há mais de meio dia.
+— O quê?
+— É um sujeito estranho, deve ser um ladrão. Por favor, vá lá fora e expulse-o.
+
+Yoshita saiu e, perscrutando a penumbra, gritou:
+— Quem é você? O que está fazendo aí?
+Do outro lado, uma voz surpreendentemente calma respondeu:
+— Eu vim falar com você. Você é o dono desta casa?
+— Sou. O que quer comigo?
+— Tenho um assunto a tratar.
+— Não sei do que se trata, mas então venha até aqui.
+De trás dele, O-Haru surgiu e deu um safanão em suas costas.
+— Que absurdo está dizendo? Expulse-o logo, pai!
+
+Enquanto isso, o homem suspeito já atravessava o rio. Um odor fétido e sujo, que parecia emanar dele, flutuou na escuridão do crepúsculo. Defronte daquela massa de mau cheiro, Yoshita, quase tocando o nariz do outro, disse em tom severo:
+— Por que você passou metade do dia espiando a casa dos outros?
+O homem, porém, sem qualquer traço de agressividade, respondeu com uma voz rouca e fraca:
+— Eu não estava espiando. Estava apenas descansando e pensando, sentado na pedra da estrada.
+— Mesmo assim, você estava olhando para dentro da nossa casa, não estava? Qual o motivo?
+— Eu não estava encarando. Tenho olhos, então é natural que eu olhasse. Isso é um direito meu. Posso ficar sentado por meio dia, olhando para onde eu quiser, sem que ninguém interfira.
+— É, nisso você tem razão.
+Yoshita concordou sem pensar e, por isso, ficou sem saber o que dizer. Cuspiu no chão duas vezes, sem jeito. Da entrada da casa, a impetuosa O-Haru gritou:
+— Vá embora, desgraçado! Espírito do mal! Pai, pegue a espingarda e dê um tiro nele!
+"Nem temos espingarda...", pensou Yoshita, contendo a custo uma risada.
+— Você parece muito fraco. Está com fome?
+— Sim, não como há três dias.
+— Entre. Vou lhe dar de comer.
+O-Haru gritou novamente:
+— Não seja idiota, seu palerma!
+— Não, não é isso. Ande, ponha a panela de sopa no fogo. — E, voltando-se para o homem: — Vamos, entre. Pode passar a noite aqui.
+— Sim, aceito a oferta.
+O homem misterioso, com um ar de quem esperava por aquilo, seguiu Yoshita para dentro da casa.
+O-Haru, atônita, já não conseguia dizer uma palavra. O menino, choramingando "que medo", escondeu o rosto sujo na barriga da mãe.
+
+(Nota) Esta história será publicada em três partes. Ao final, pretendemos apresentar uma crítica de Meishu-Sama, que servirá como um farol para a fé e a vida. Por essa razão, demos a esta seção o título especial de "Romance de Consulta".
+
+## Dois Hakama (II)
+
+Um corredor de terra batida atravessa a casa da frente aos fundos. À sua esquerda, na ampla lareira rebaixada, lenha arde lentamente, e de uma panela enegrecida, suspensa por uma corrente ajustável, transborda um mingau de batata em fervura branda. A única luz no interior provém das chamas que, soltando fumaça, crepitam e se avivam de tempos em tempos. É uma vida sem eletricidade ou lamparinas a querosene.
+
+— Fume um pouco — ofereceu Yoshita.
+— Sim... acho que vou fumar.
+Yoshita sentou-se de frente para o homem de respostas hesitantes e perguntou:
+— Você tem tabaco?
+— Não.
+— Então use o meu.
+Enquanto o marido oferecia sua própria cigarreira, O-Haru, que entalhava algo no canto mais afastado da lareira, pensava irritada: "Mas que homem ingênuo, que imbecil...". As duas crianças, ainda usando a cintura larga da mãe como escudo, encolhiam-se a cada lado dela como passarinhos cujo ninho é ameaçado por uma cobra, seus olhos brilhando como cristais negros à luz do fogo.
+
+Gradualmente, o odor de mendigo que o forasteiro desconhecido trouxera consigo impregnava o ambiente, irritando ainda mais os nervos de O-Haru.
+Com um tom pausado, Yoshita perguntou:
+— E então, de onde você veio?
+— Do campo de batalha.
+— A esta altura, do campo de batalha? Demorou bastante, não?
+— Fui prisioneiro por muito tempo, depois fugi e vaguei pelas montanhas...
+— Entendo... Deve ter sido muito difícil. E para onde vai agora?
+— A lugar nenhum. Eu vim para cá. Eu voltei.
+— Voltou para cá? Mas você deve ter uma terra natal, não?
+— Tenho. E também uma esposa e um filho.
+— Então por que não volta para lá?
+— É para lá que eu voltei.
+— Voltou... para este lugar no meio das montanhas? Ah! Você é desta província, de Shinshu?
+— Sou.
+— De perto daqui?
+— Sim.
+— E sua esposa e filho o esperam lá?
+— Assim espero.
+— Então por que não volta para eles?
+— É para lá que eu voltei.
+— Ora... que coisa mais confusa. Você está bem da cabeça?
+Yoshita inclinou-se para observar o rosto extremamente abatido do homem.
+— De que aldeia você é?
+— ...
+Após um momento de silêncio, o homem disse com uma voz baixa e rouca, como se as palavras lhe caíssem da boca:
+— Daqui.
+— Nasceu aqui? Entendo. Então deve conhecer minha O-Haru. Qual o seu nome?
+— Heita.
+
+O-Haru, que há alguns minutos parara de entalhar, sentiu o corpo enrijecer com um sobressalto.
+Yoshita permaneceu em silêncio, lançando-lhe um olhar agudo. Ela se arrastou para perto do viajante, aproximando o rosto como se para inalar o odor fétido que emanava dele. O homem, por sua vez, fixou nela um olhar perscrutador, sem sequer piscar.
+Com uma voz fraca e trêmula, como a de uma doente, uma voz que jamais emitira em toda a sua vida, O-Haru perguntou:
+— Você... é o... de antigamente?
+— Sim... sou eu — respondeu o homem, baixando a cabeça, quase envergonhado.
+— Ora, que problema terrível nos caiu do céu... — suspirou o segundo marido, cruzando os braços.
+— Não tenho outro lugar para ir... esta é a minha casa...
+— Hmm... que situação complicada.
+— Voltei para um lugar inoportuno, eu sei... mas esta é a minha terra natal...
+O primeiro marido olhou para as duas crianças.
+— Aquela menina é minha filha, não é?
+— Sim. E o menino é meu.
+
+As duas crianças, encolhidas em um canto, esconderam-se atrás de um monte de palha, de onde apenas seus olhos brilhavam. O-Haru, prostrada entre os dois homens, chorava. Seus cabelos desgrenhados caíam sobre as cinzas da lareira.
+
+Desta vez foi o primeiro marido que suspirou profundamente.
+— E agora, que situação... — e mergulhou a cabeça entre as mãos.
+O segundo marido soltou suspiros ainda mais longos, curvando-se tanto que sua cabeça quase tocava as cinzas. A esposa, com as costas arqueadas, soluçava como um cão asmático.
+
+Após um longo silêncio, o marido que retornara quebrou o silêncio com voz arrastada:
+— O erro foi eu ter voltado agora. Mas eu não sabia de nada, apenas voltei para minha casa.
+— É verdade. Mas, por minha parte, não é como se eu tivesse roubado sua esposa. Veio uma notificação oficial dizendo que você morreu em combate, e até recebemos algo como seus restos mortais.
+— Ninguém tem culpa. Mesmo assim, que situação difícil...
+
+O mingau na panela transbordou, sibilando ao apagar parte do fogo e espalhando uma geada de cinzas. Mas O-Haru continuava a chorar prostrada, os dois homens permaneciam absortos em seu desamparo, e os irmãos, escondidos na palha, pareciam ter adormecido abraçados.
+A noite no desfiladeiro avançava.
+
+## Dois Hakama (III)
+
+— Não tinha shochu, O-Haru? — perguntou Yoshita com voz arrastada, quebrando o longo silêncio.
+
+O-Haru, porém, continuou prostrada e não respondeu. Yoshita passou por cima de suas costas, abriu um armário de parede sujo e esburacado e de lá tirou uma garrafa de um litro, tão imunda quanto um vasilhame de óleo abandonado no lixo, e uma tigela de borda lascada com grãos de arroz grudados. Voltou ao seu lugar e despejou a bebida na tigela. Havia o suficiente para encher cerca de oitenta por cento.
+
+— É só o que temos — disse. Após um momento de reflexão, bebeu metade em um só gole e passou o resto para Heita.
+Heita também esvaziou a tigela de uma vez e soltou um longo suspiro.
+
+O álcool pareceu surtir efeito, e com um tom um pouco mais leve, Heita disse, como que para sondar a reação de Yoshita:
+— Esta casa pertence aos meus antepassados, então... eu gostaria de morar aqui...
+— É justo — anuiu Yoshita.
+— Então... aquela casa do Kyuzo... está abandonada e inabitável?
+A casa de Kyuzo era a morada que se encontrava vazia.
+— Não deve ser para tanto. Se alguém morar lá, dá-se um jeito.
+— Nesse caso, você não poderia morar naquela casa?
+— Sim... parece que não há outra saída. Mas, e a mulher e as crianças, como ficam?
+— É verdade. Bem... deixaremos que ela decida com quem quer ficar. Quanto às crianças, a menina é minha, então ficará comigo. O menino é seu.
+— O-Haru, o que você vai fazer? — perguntou Yoshita, dirigindo um olhar complexo para as costas arqueadas de O-Haru. Heita também fixou os olhos nos cabelos desgrenhados dela.
+
+De repente, O-Haru voltou a chorar baixinho.
+
+Ignorando-a, Yoshita pegou novamente a tigela e os hashis e retirou a panela de mingau das cinzas. O conteúdo estava reduzido a uma pasta grudenta, mas os dois homens começaram a comer, soprando o alimento quente. Heita, faminto, comia avidamente, fazendo ruído com os dentes e repetindo várias porções.
+
+— Coma um pouco também — insistiu Yoshita, mas O-Haru permaneceu na mesma posição, sem responder.
+— Bem, deixemos o problema para amanhã e vamos dormir.
+
+Heita deitou-se de lado junto à lareira, e Yoshita também se estendeu de costas, com as mãos sob a nuca. Logo, vencidos pelo shochu, ambos roncavam alto.
+
+Cerca de meia hora depois, O-Haru ergueu-se. As olheiras de tanto chorar estavam manchadas, como se usasse óculos escuros. Tirou um futon relativamente limpo do armário e cobriu delicadamente o primeiro marido, que exalava um odor de mendigo. Em seguida, pegou outra coberta, a que usava habitualmente, e com ela cobriu o marido atual. Foi então para junto das crianças, ajeitou a palha sobre elas e tentou dormir encolhida aos seus pés, mas o sono não vinha.
+
+Em algum momento, porém, adormeceu. Despertou sobressaltada, nos braços de Heita, que a abraçava com força. Instintivamente, tentou agarrar-se a ele também, e seus olhos buscaram na penumbra da lareira. A figura de Yoshita não estava lá.
+— E ele...?
+— Saiu agora há pouco. Fui ver e ele foi para a casa do Kyuzo.
+— No escuro...?
+— Lá fora já está amanhecendo.
+Dizendo isso, Heita a abraçou com mais veemência.
+— O-Haru... senti tanto a sua falta.
+— Meu querido...
+
+O-Haru também se agarrou a ele desesperadamente, sem se importar com o cheiro de mendigo. O reencontro, após dez anos, lançou o casal em um frenesi animal.
+
+Exausto, o homem adormeceu em seguida, como um doente em coma.
+
+O-Haru saiu. O vale matutino estava imerso em uma névoa leitosa, e as garças já cantavam. Espiou a casa vazia de Kyuzo e viu Yoshita, de costas, cabisbaixo e com um ar desolado, acendendo o fogo na lareira.
+— O que está fazendo, querido?
+— É você, O-Haru? — Yoshita virou-se e acenou para que ela se aproximasse. — Venha cá.
+Hesitante, O-Haru não se aproximou de imediato, agachando-se do outro lado da lareira.
+— O que está pensando, vindo para um lugar como este ainda no escuro?
+— Eu? Bem... estou pensando em morar nesta casa...
+
+O-Haru soltou um gemido agudo, como o som de uma flauta. Yoshita saltou sobre ela.
+— Eu... eu não consigo desistir de você! De jeito nenhum! Você é minha!
+Ele a abraçou como um louco, derrubou-a e, montado sobre ela, buscou seu corpo com desespero. O-Haru deixou-se levar. Ao pensar que também não conseguiria se separar daquele homem, sentiu uma ternura avassaladora e, inflamada de paixão, agarrou-se ao pescoço dele com a fúria de uma leoa.
+
+Ao entardecer daquele dia, O-Haru, com o filho de cinco anos no colo, atirou-se em um poço fundo do riacho.
+
+O grito da criança alertou os dois homens, que pularam na água e os salvaram. Mãe e filho não sofreram ferimentos graves, mas... "E agora, o que faremos?", os dois homens, sentados frente a frente junto à lareira, como na noite anterior, apenas suspiravam.
+
+A noite de primavera avançava, silenciosa e fria.
+
+Que rumo tomaria, a partir de agora, a vida sofrida dessas pessoas neste vale?
+
+Que rumo deveria tomar?
+
+---
+
+# O Milagre Não é Acaso, Sua Origem Reside no Mundo Espiritual
+
+**Categoria:** o | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 65号 | **Data ISO:** 1950-06-03
+
+## O Milagre Não é Acaso, Sua Origem Reside no Mundo Espiritual
+
+É tamanha a minha gratidão que não sei por onde começar a relatar. Sou mãe de três filhos, dos quais dois, de seis e oito anos, possuíam uma saúde extremamente frágil, sofrendo constantemente com febres e distúrbios intestinais. Ademais, desde que meu marido pereceu na guerra, as preocupações tornaram-se uma constante em minha vida.
+
+No início do ano retrasado, passei a sofrer de fortes dores de cabeça. Procurei auxílio médico e submeti-me a diversos tratamentos, mas, longe de obter melhora, meu quadro apenas se agravava: perdi o apetite e definhava progressivamente.
+
+As dores diárias me incapacitavam para qualquer tarefa. A conversação com outras pessoas tornou-se penosa, e perdi o interesse em sair de casa, caminhar ou mesmo ler. Contudo, o simples repouso também me era insuportável, de modo que passava os dias inteiros sentada, imóvel, dentro de casa. Foi então que, no final de março, tive um sonho no qual uma voz me advertia: “Pare com os remédios. Se não o fizer, apenas continuará a definhar”. Como os medicamentos de fato não surtiam efeito, decidi suspender o uso.
+
+Ocorre que, talvez por conterem soníferos, a interrupção dos remédios resultou em noites de completa insônia. Em seguida, ouvi dizer que a moxabustão seria benéfica e me submeti a ela por cerca de vinte dias, sem qualquer resultado além da sensação de calor. Foi então que, novamente em um sonho, fui instruída a ter fé na Grande Luz Divina. Convicta de que tanto este sonho quanto o anterior eram, sem dúvida, revelações de Deus, decidi imediatamente seguir a orientação; todavia, eu não sabia como proceder.
+
+Passados quatro ou cinco dias, uma amiga me falou a respeito dessa sagrada Grande Luz Divina. Impressionada com a misteriosa sucessão de eventos, aceitei receber Johrei. Ao ser ministrada, senti como se algo descesse do interior da minha cabeça, passando pela garganta e se manifestando como uma abundante salivação. Após receber Johrei mais uma vez, movida pelo desejo de receber esta sagrada Luz, fui levada à residência do ministro Chikasawa, em Handa.
+
+Caminhei por mais de uma hora até sua casa. Naquele dia, cinco de maio, a igreja estava fechada, mas o ministro nos atendeu com imensa bondade, orientando-me e ministrando-me Johrei. No caminho de volta, meu corpo estava tão inexplicavelmente leve que percorri, sem uma única pausa, a mesma distância que na ida me exigira inúmeros descansos. O ministro havia me aconselhado: “Não fique parada; movimentar-se é melhor”. Seguindo sua palavra, a partir daquele dia, voltei a cuidar dos afazeres da cozinha.
+
+Passei a visitar o ministro em dias alternados para receber Johrei. Em quatro ou cinco dias, sentia-me progressivamente melhor, a ponto de conseguir andar de bicicleta. Com a chegada de junho, intensificaram-se os trabalhos na lavoura. Recordando as palavras do ministro — “Aqueles que se dedicam à Obra Divina são salvos por Deus” —, comecei a compartilhar meu testemunho sobre a Grande Luz Divina com todos, ministrando-lhes Johrei enquanto cuidava das minhas tarefas agrícolas.
+
+Consegui realizar sem dificuldade qualquer trabalho, fosse o plantio de arroz ou a colheita do trigo. Mesmo depois de retomar minhas atividades, eu sentia a necessidade de receber Johrei ao menos uma vez por semana para aliviar o mal-estar causado pelo acúmulo de toxinas. Minha irmã mais nova também recebeu a Luz e passou a me ministrar Johrei diariamente. À noite, após o trabalho no campo, toda a família se reúne para a prática do Johrei, sem faltar um único dia.
+
+Graças a essas bênçãos, meus filhos, quase sem que eu percebesse, tornaram-se saudáveis, a ponto de serem admirados pelas pessoas. Ao recebermos em nosso lar a sagrada Imagem da Grande Luz Divina, nossa família de cinco pessoas tornou-se, literalmente, um lar de luz. Frequentemente conversamos em casa, dizendo: “Nós somos verdadeiramente felizes”, e assim passamos nossos dias em profunda alegria.
+
+Quando recordo o estado do meu corpo há um ano, sinto uma gratidão imensa, quase imerecida, por minha condição atual. O poema de Meishu-Sama ressoa em meu peito com grande emoção:
+
+Se não fosse a salvação de Kannon (観音),
+Eu ainda estaria a sofrer
+Em um pântano sem fundo.
+
+Os benefícios, contudo, não se limitaram à saúde. Passamos a praticar a Agricultura Natural, e nossas colheitas, livres de fertilizantes, têm nos proporcionado vegetais de sabor excepcional. No ano passado, cultivamos o trigo também pelo método natural, e seus grãos, visivelmente mais pesados, pendem das espigas de uma forma distinta das demais plantações. A diferença é notória e incontestável. Aguardo com grande expectativa os resultados maravilhosos que certamente virão.
+
+Salva pela Grande Luz Divina, hoje, embora minhas capacidades sejam limitadas, tenho a permissão de auxiliar nesta nobre Obra, sob a orientação do ministro Chikasawa. O seguinte poema expressa com perfeição o sentimento que trago no coração:
+
+Mesmo louvando e louvando,
+Jamais expressarei toda a gratidão.
+Que tristeza não haver meio
+De retribuir tamanha graça.
+
+De fato, é exatamente este o estado do meu espírito.
+
+***
+
+O ingresso desta pessoa na fé ocorreu por intermédio de sonhos. Para alguns, tal fato pode parecer extraordinário, mas não há nele mistério algum. Trata-se da atuação dos antepassados que, no anseio de salvar seus descendentes e, consequentemente, a si próprios, utilizam-se de diversos meios para conduzi-los à nossa Doutrina. Isso ocorre porque, no Mundo Espiritual, tem-se a clara consciência de que não existe outra religião com verdadeiro poder de salvação.
+
+Fica evidente, portanto, que os espíritos de nossos antepassados alcançam esse discernimento muito antes dos seres humanos que vivem no plano material. Por meio deste relato, compreende-se que os milagres não são meros acasos, mas fenômenos cuja raiz se encontra no Mundo Espiritual.
+
+Uma das grandes razões para a expansão de nossa Fé reside, precisamente, na intensa atuação dos antepassados no plano espiritual.
+
+---
+
+# A Imprensa como Instrumento de Interesses Particulares
+
+**Categoria:** o | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
+**Título Original:** 己れの利害を本位とし、社会の公器性を失う 読売新聞へ再抗議文 | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1950-01-14
+
+## A Imprensa como Instrumento de Interesses Particulares
+
+Em decorrência das reportagens caluniosas veiculadas recentemente pelo jornal Yomiuri Shimbun, que prejudicaram tanto a nossa Igreja quanto o prefeito de Atami, Sr. So, enviamos uma nota de repúdio ao editor-chefe da referida publicação, solicitando a correção das informações inverídicas.
+
+Todavia, enquanto o jornal expressou suas desculpas ao prefeito, manteve para com a nossa Igreja uma postura evasiva e irresponsável, sem demonstrar qualquer sinal de sinceridade. Diante disso, sentimo-nos compelidos a enviar uma segunda carta de protesto, exortando a empresa a adotar uma conduta digna e consentânea com os princípios do jornalismo.
+
+***
+
+**Segunda Carta de Protesto**
+
+Com os nossos cumprimentos.
+
+Dirigimo-nos a vós para indagar a razão pela qual, até a presente data, não obtivemos resposta à nossa carta de protesto enviada em 19 de dezembro, referente ao artigo sobre nossa Igreja publicado no dia 14 daquele mesmo mês do ano findo.
+
+Causa-nos particular estranheza o fato de que, diante do protesto do prefeito de nossa cidade, Sr. So, vossa empresa tenha prontamente emitido um pedido de desculpas. Soubemos, por relato detalhado do próprio prefeito, que após uma segunda nota de repúdio e a apresentação de uma queixa formal ao Sr. Inboden, chefe da Divisão de Imprensa do Quartel-General das Forças Aliadas, vossa diretoria se reuniu em caráter de urgência. Como resultado, um representante vosso visitou o prefeito para expressar, de maneira sobremaneira respeitosa, vosso profundo pesar.
+
+Ao ponderar sobre os dois casos, é com grande dificuldade que compreendemos vossa atitude. O conteúdo de vosso artigo foi substancialmente mais danoso à nossa Igreja do que ao prefeito, e, no entanto, permanecemos até hoje sem receber qualquer satisfação. É evidente, a qualquer observador, que tal disparidade de tratamento decorre unicamente do temor à autoridade do Quartel-General e ao título oficial do prefeito. Conclui-se, portanto, que por não haver semelhante receio em relação à nossa Igreja, o senso de responsabilidade de vossa empresa se reduz a nada mais que um cálculo de interesses.
+
+Se partirmos dessa premissa, o propósito que norteia a publicação de vosso jornal torna-se verdadeiramente obscuro. Se sois indiferentes ao bem e ao mal, à verdade e à falsidade, pautando-vos unicamente pela conveniência própria, então vosso periódico deixa de cumprir sua missão como um instrumento a serviço da sociedade para se tornar um mero instrumento particular. Nessa condição, torna-se difícil discernir se vossa existência é benéfica ou prejudicial.
+
+Presumimos que vos encontrais em um dilema: pedir desculpas à nossa Igreja feriria vosso orgulho, mas negar os fatos que apontamos é impossível, pois eles correspondem à verdade. Contudo, as repetidas calúnias que um jornal de vossa magnitude publicou contra a nossa fé representam um insulto e um prejuízo de proporções incalculáveis para nossas centenas de milhares de fiéis.
+
+Embora não seja de nosso feitio buscar contendas, a ausência de uma atitude sincera de vossa parte nos forçará a tomar as medidas cabíveis. Assim, esperamos que, após uma investigação aprofundada, caso se constate a veracidade de nossas alegações, publiqueis uma nota de retratação e assumais um compromisso formal para o futuro. Tal exigência se faz necessária porque, após a retratação de uma matéria difamatória em 20 de julho do ano passado, voltastes a publicar um artigo de teor semelhante em 3 de novembro do mesmo ano. O compromisso que requeremos é simples: "Doravante, não mais publicar inverdades a respeito de nossa Igreja".
+
+Acrescentamos, por fim, o desejo de que, no futuro, quaisquer suspeitas sejam objeto de uma apuração criteriosa. Caso, em decorrência de vossas investigações, sejam de fato encontradas falhas ou aspectos questionáveis em nossa instituição, asseguramos que seremos os primeiros a, com toda a franqueza, expressar nosso reconhecimento e a promover as devidas correções.
+
+---
+
+# A Essência da Saúde e da Cura
+
+**Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
+**Título Original:** 岡田先生療病術講義録 上巻 （三） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
+
+## A Essência da Saúde e da Cura
+
+### O Verdadeiro Método para a Saúde
+Originalmente, o verdadeiro método para a saúde consiste em zelar para que o corpo espiritual não se macule. Para que o corpo espiritual permaneça imaculado, é fundamental que sua origem, a alma, não se macule.
+
+Imaginemos um indivíduo que cometa um ato equivocado ou uma ação reprovável que precise ser mantida em segredo. Inevitavelmente, a consciência o acusa, e esse simples fato já é suficiente para macular sua alma. De igual modo, quando alguém inflige sofrimento a outrem, não apenas sua própria alma se obscurece sob o peso da culpa, mas também o pensamento daquele que foi atormentado se converte em mácula espiritual, projetando-se sobre o agressor.
+
+Um exemplo eloquente desse princípio pode ser observado na história de um diretor executivo de uma grande loja de departamentos. Em sua família, de geração em geração, as pessoas eram acometidas por doenças misteriosas ou faleciam prematuramente. A causa residia no fato de que o êxito avassalador de sua empresa levara à ruína um grande número de pequenos comerciantes, os quais, incessantemente, nutriam pensamentos de ressentimento. Essa torrente contínua de pensamentos rancorosos era a origem de suas desgraças. O mesmo princípio explica a queda de novos-ricos, que sucumbem à avalanche de pensamentos de inveja que lhes são direcionados. Artistas que alcançam a fama e o estrelato muito jovens também costumam ter uma vida breve por razões análogas.
+
+Evidentemente, esta não é uma regra absoluta; existem exceções, como no caso de mestres em suas artes que, por serem virtuosos, não são afetados.
+
+Em contrapartida, quando praticamos atos de benevolência, auxiliando o próximo e inspirando gratidão, o sentimento de quem foi ajudado se converte em Luz e nos é enviado. Essa Luz dissolve as máculas acumuladas, permitindo que gozemos de saúde constante e de um estado de espírito sempre sereno. Diante do exposto, fica claro que o verdadeiro método para a saúde não reside em outra coisa senão em cultivar pensamentos corretos e praticar o bem.
+
+Se as ações de uma pessoa são irrepreensíveis perante o Céu e a Terra, sua alma e seu coração permanecem sempre límpidos e radiantes. Conclui-se, portanto, que a doença é, em certa medida, criada pelo próprio indivíduo, que, por conseguinte, sofre por seus próprios atos. Até mesmo as máculas ancestrais podem ser extintas por meio da própria conduta.
+
+### Vida e Morte
+O que é, afinal, a morte? A morte ocorre quando o corpo físico, em decorrência de doença ou de outros fatores, sofre danos a ponto de se tornar inapto para sua função — como no caso de uma hemorragia severa, em que se perde mais de um terço do volume sanguíneo total. Nesse momento, o espírito, impossibilitado de nele permanecer, se desliga. A esse fenômeno damos o nome de morte. Embora se fale genericamente em "morte por doença", na maioria das vezes a causa direta não é a enfermidade em si, mas a debilidade orgânica que dela advém. Contudo, nos dias de hoje, tem se tornado extremamente comum que as pessoas venham a falecer sem que a debilidade seja o fator determinante. É imperativo investigar a fundo as razões desse fenômeno. Deixando de lado a debilidade, as causas mais frequentes de morte são as falhas cardíacas e cerebrais.
+
+A morte pode ser classificada em duas categorias principais: a morte natural e a morte não natural. Atualmente, a morte natural é uma ocorrência verdadeiramente rara. Segundo o censo nacional, apenas uma em cada setecentas pessoas ultrapassa os oitenta anos de idade, um dado deveras assombroso.
+
+Enquanto os demais animais, como as aves e as feras, morrem em sua maioria de forma natural, por que apenas o ser humano apresenta uma taxa tão elevada de mortes não naturais? É forçoso admitir que deve existir uma causa subjacente de grande importância. Por outro lado, apesar de o progresso da civilização parecer capaz de solucionar qualquer problema, ele se mostra impotente diante do crescente número de mortes não naturais, uma realidade que a cultura atual parece ter aceitado com resignação. É uma situação verdadeiramente lamentável.
+
+Analisando as mortes não naturais, constatamos que elas se dividem em mortes por doença e mortes acidentais. Estas últimas, porém, representam uma parcela ínfima, sendo a esmagadora maioria decorrente de enfermidades. Mas por que as mortes por doença são tão frequentes? Ao examinarmos nossa história, observamos um fato notável: desde o Imperador Jinmu até o décimo segundo monarca, o Imperador Keiko, muitos foram os soberanos que, com a graça divina, viveram para além dos cem anos. A partir de então, a longevidade dos imperadores diminuiu consideravelmente. Qual seria a explicação para tal mudança? Poder-se-ia cogitar o desenvolvimento cultural, mas é pouco provável que ele exercesse tamanha influência sobre as esferas mais elevadas da sociedade.
+
+O ponto que merece nossa atenção é que foi precisamente nessa época que a medicina chinesa foi introduzida no Japão. Isso significa que os japoneses começaram a consumir remédios. Conta-se que um célebre mestre da medicina chinesa da Era Tokugawa afirmou: "Em sua essência, não existe tal coisa como remédio. Tudo o que se denomina remédio é, em essência, veneno. Como a doença é uma toxina, utiliza-se o veneno para controlar o veneno". Trata-se de uma colocação de extrema sabedoria, com a qual estamos em plena concordância. Depreende-se daí que, com a chegada da medicina chinesa, os japoneses aprenderam a ingerir venenos sob o nome de remédios, o que enfraqueceu o organismo e, possivelmente, abreviou a longevidade do nosso povo.
+
+Outro exemplo elucidativo é a famosa história do imperador Qin Shi Huang, da China, que, tendo ouvido falar de uma ilha a leste chamada Horai, onde os habitantes eram extraordinariamente longevos, ordenou a seu vassalo Xu Fu que fosse investigar se eles consumiam algum tipo de elixir divino. Nossa interpretação é que, naquela época, não existiam remédios no Japão, e por isso havia muitas pessoas longevas. Na China, ao contrário, os remédios já eram utilizados havia muito tempo, razão pela qual os casos de longevidade eram mais raros.
+
+### As Modalidades da Saúde
+Quais são as modalidades da saúde? Para fins de análise, proponho uma divisão em três categorias.
+
+A primeira categoria abrange as pessoas verdadeiramente saudáveis, que raramente adoecem. E, na eventualidade de contraírem alguma enfermidade, a cura ocorre de forma simples e natural, sem qualquer intervenção. Isso se deve ao fato de sua força de purificação ser vigorosa, o que permite que as toxinas, agentes causadores das doenças, sejam eliminadas antes que se acumulem em grande quantidade. Infelizmente, o número de indivíduos com esse tipo de constituição parece diminuir a cada ano.
+
+A segunda categoria, a mais numerosa, corresponde àquilo que se costuma chamar de "pessoa de saúde normal". São indivíduos que, ao se resfriarem, apresentam febre, dor de garganta e tosse; que ocasionalmente têm dores de cabeça que passam rapidamente; ou que, ao ingerirem um alimento inadequado, sofrem uma diarreia. Essas pessoas encontram-se em um estado intermediário entre a plena saúde e a debilidade, podendo pender para um lado ou para o outro, dependendo de seu estilo de vida e cuidados.
+
+A terceira categoria é a dos indivíduos comumente classificados como "de saúde frágil". São aqueles que vivem em constante contato com medicamentos e, embora se preocupem com a higiene, nunca alcançam um estado de saúde robusto, tampouco desenvolvem doenças graves. É um fato que o número de pessoas nessa condição tem aumentado consideravelmente. O que é verdadeiramente alarmante é que esse tipo de debilidade tem se tornado cada vez mais comum entre os jovens de ambos os sexos, e que o número crescente de crianças frágeis também se enquadra nesta categoria. Com frequência, esses indivíduos de saúde precária são incapazes de exercer plenamente suas atividades profissionais, levando uma existência quase inválida e representando, de certa forma, um fardo para a sociedade e para o país.
+
+Dentre as três modalidades, a maioria das pessoas se encontra na segunda. O ideal seria que elas ascendessem à primeira, mas, infelizmente, a tendência observada é a de que acabem regredindo para a terceira. Por que isso acontece? Gostaríamos de expor o resultado de nossas pesquisas a esse respeito.
+
+Quando uma pessoa da segunda categoria adoece, ela geralmente recorre a terapias que visam ao alívio da febre e da dor. No entanto, esses tratamentos paliativos, na realidade, interrompem o processo de purificação. Embora proporcionem um alívio momentâneo, acabam por prolongar a doença ou até mesmo agravá-la. Isso leva o indivíduo a buscar ainda mais terapias de alívio, mergulhando-o em um ciclo vicioso que o conduz, inevitavelmente, à terceira categoria. Uma vez nesse estado de debilidade, a recuperação se torna extremamente difícil, restando-lhe, na maioria dos casos, apenas a manutenção de sua condição ou, infelizmente, um desfecho desfavorável.
+
+Por essa razão, para se alcançar o estado de saúde da primeira categoria, é indispensável permitir que o processo de purificação ocorra de forma completa e irrestrita. Isso só é possível por meio de um método que não recorra a recursos materiais, mas que se valha da força natural do próprio indivíduo, ou seja, da terapia espiritual.
+
+### Sobre os Micróbios
+Recentemente, o relatório de um experimento conduzido por um renomado pesquisador revelou uma descoberta surpreendente. Até então, acreditava-se que os micróbios só podiam penetrar no organismo através de lesões na pele ou das membranas mucosas, sendo a pele saudável uma barreira intransponível. O referido estudo, no entanto, demonstrou que a invasão pode ocorrer por qualquer via. Se esse experimento for preciso, significa que a prevenção absoluta contra a entrada de micróbios é impossível.
+
+Sendo assim, a única forma de se ter tranquilidade, como venho afirmando há tempos, é desenvolver um organismo que não seja afetado pela invasão dos micróbios. Segundo nossa interpretação, o que acontece quando os micróbios invadem o corpo? Tomemos como exemplo a disenteria. Quando o bacilo da disenteria entra na corrente sanguínea, ele começa a se reproduzir em um ritmo vertiginoso. Por que isso ocorre? Porque há sangue impuro, e as impurezas contidas nesse sangue servem de alimento para os micróbios, que se nutrem delas para se multiplicar. Portanto, as impurezas do sangue são o alimento dos micróbios. Se não houver alimento, mesmo que os micróbios invadam o corpo, eles morrerão de inanição, e a pessoa não desenvolverá a doença.
+
+Existem diferentes tipos de alimento para os micróbios. Há substâncias que nutrem o bacilo do tifo, outras que alimentam o bacilo da disenteria, e ainda outras que favorecem o desenvolvimento do vibrião do cólera. Os micróbios se alimentam, se reproduzem e morrem. Alguns são mais fortes, outros mais fracos; uns têm vida curta, outros, vida longa. Seus cadáveres se transformam em diversas substâncias que são posteriormente excretadas. Na disenteria, por exemplo, as fezes sanguinolentas contêm uma mistura de micróbios vivos e mortos. Quando todo o alimento — as impurezas — é consumido, o sangue se purifica e os micróbios patogênicos morrem. A medicina chama esse processo de "produção de antitoxinas", atribuindo a ele a cura da doença.
+
+O corpo humano é dotado de um mecanismo que busca eliminar qualquer substância impura. Por isso, não há motivo para preocupação com sangramentos nasais ou hemoptises. Quanto mais sangue impuro for expelido, melhor. Tentar estancar uma hemoptise, por exemplo, é tão ilógico quanto tentar impedir a evacuação.
+
+Pode-se dizer, portanto, que os micróbios existem para atuar como agentes de limpeza, purificando o sangue humano. O ideal é que a força vital do indivíduo seja tão vigorosa que seu corpo não seja afetado pelos micróbios, ou seja, que ele não precise da ação desses agentes de limpeza por ser possuidor de sangue puro.
+
+Fala-se muito em "esterilização". É possível eliminar os micróbios que se encontram na superfície do corpo com o uso de medicamentos, mas é absolutamente impossível matar os que já estão em seu interior. Se uma parte do corpo for infectada, os micróbios já terão se espalhado por todo o organismo. Para eliminá-los completamente, seria necessário introduzir em todas as partes do corpo uma quantidade de medicamento suficiente para exterminá-los, o que é, a meu ver, impraticável.
+
+Por exemplo, tentar eliminar o bacilo da tuberculose dos pulmões com medicamentos orais ou injetáveis é uma tarefa árdua. Uma vez que o medicamento entra no estômago e passa pelos diversos órgãos do sistema digestivo, sua composição já terá se alterado completamente quando finalmente chegar aos pulmões. Da mesma forma, no caso de uma doença ocular, mesmo que o remédio seja eficaz, é de se supor que sua composição se modifique radicalmente ao percorrer os diversos órgãos até alcançar os olhos.
+
+### Dor e Febre
+Quando uma doença se manifesta em alguma parte do corpo, os sintomas que surgem são, na verdade, manifestações do processo de eliminação das toxinas. Como já devem ter compreendido, a febre é o calor necessário para dissolver essas toxinas. Mas de onde vem esse calor? Se ele fosse gerado pelo próprio corpo, deveria haver algum local de armazenamento desse calor, um local que estivesse constantemente em brasa. No entanto, tal local não existe; o calor simplesmente aparece quando adoecemos. É um verdadeiro mistério. De onde, então, e de que forma, surge essa notável força dissolvente que é a febre? Essa questão, da mais alta importância, permanece sem resposta até os dias de hoje.
+
+Conforme explicado nos ensinamentos sobre os três mundos, o Mundo Espiritual é regido pelo calor solar, ou seja, pelo elemento fogo. Esse elemento fogo é a fonte da febre. Quando o corpo necessita de calor, o coração absorve ativamente esse elemento. É por causa dessa absorção intensa que os batimentos cardíacos se aceleram. Os calafrios que sentimos antes da febre ocorrerem porque o corpo interrompe temporariamente a absorção de calor para suas funções gerais, a fim de concentrar a captação na quantidade necessária para a cura da doença.
+
+E o que é a dor? Segundo nossa interpretação, a dor é o estímulo que o processo de eliminação das toxinas exerce sobre os nervos. Portanto, quanto mais vigorosa for a atividade de eliminação, mais intensa será a dor. A presença da dor é, assim, um sinal de que o trabalho de cura está progredindo rapidamente. Logo, quando há febre e dor, é o momento em que a cura está ocorrendo de forma mais intensa.
+
+Se, nesse momento, aplicarmos métodos antipiréticos, a ação dissolvente da febre será interrompida. Ou seja, a ação que levaria à cura é paralisada. O sofrimento diminui temporariamente, mas a recuperação da doença é retardada.
+
+É verdade que mesmo pessoas debilitadas podem apresentar febre alta, mas nesses casos, isso indica que a força da doença é superior à do organismo. Por outro lado, quando a febre é baixa apesar da doença, ou a enfermidade é relativamente branda, ou trata-se de uma pessoa da primeira categoria de saúde, cuja força de purificação é especialmente vigorosa. As pessoas da primeira categoria possuem uma força de purificação tão intensa que não necessitam de febre. Por conseguinte, em qualquer doença, desde que não haja dor insuportável, não há problema em manter o corpo em atividade. Isso porque o repouso enfraquece a vitalidade e, consequentemente, reduz a geração de calor. No tratamento da tuberculose, por exemplo, o Japão adotou recentemente a terapia do repouso absoluto. Na verdade, o contrário seria mais eficaz: a prática de exercícios aumentaria a vitalidade, intensificaria a força de purificação e aceleraria a cura. Fiquei sabendo que, recentemente, no Ocidente, tem-se adotado a prática de tratar a doença enquanto se continua trabalhando, o que coincide com minha teoria e é motivo de grande alegria.
+
+Por tudo isso, a febre e a dor, longe de serem negativas, são elementos importantes no processo de cura.
+
+### O Princípio da Nossa Terapia
+Como já foi dito repetidas vezes, a causa fundamental da doença reside no espírito. Portanto, ao curarmos a doença do espírito, a doença do corpo se curará, queiramos ou não.
+
+Vamos aprofundar essa explicação. A remoção cirúrgica do apêndice ou a aplicação de gelo, por exemplo, podem trazer uma melhora temporária. No entanto, enquanto as máculas do corpo espiritual não forem eliminadas, a reincidência da doença será inevitável. Se o apêndice ainda estiver lá, a nova crise será mais grave. Se ele já tiver sido removido, o pus, não tendo para onde ir, se acumulará nos tecidos adjacentes, podendo causar peritonite ou câncer.
+
+A Terapia por nós preconizada, ao eliminar as máculas do corpo espiritual, constitui um tratamento verdadeiramente fundamental. E, para eliminar as máculas do espírito, é preciso usar o próprio espírito. A ação do espírito se manifesta como uma luz que irradia do corpo humano. Não há outro meio senão essa Luz.
+
+Quando falamos em "Luz", não nos referimos à luz visível, mas sim à "Luz Espiritual". No entanto, ela não é absolutamente invisível — há pessoas que, ocasionalmente, conseguem percebê-la. Essa Luz é geralmente de cor branca, podendo por vezes apresentar um tom azulado. Ela se manifesta como um facho luminoso, irradiado principalmente da ponta dos dedos, da palma da mão ou da testa do aplicador. É essa irradiação de Luz Espiritual que remove as máculas, num processo de natureza totalmente mística.
+
+O ato de soprar serve para dispersar as máculas que foram dissolvidas pela Luz, de forma análoga ao Sol que ilumina e dissolve a imundície da Terra, e ao vento que a dispersa. Já o ato de friccionar tem por finalidade facilitar a dissolução das máculas. Ao serem revolvidas em todas as direções pela Luz, as aglomerações de máculas se abrandam.
+
+Contudo, é extremamente difícil fazer com que os materialistas compreendam esses fenômenos espirituais, pois nossa fé parte de um princípio fundamentalmente distinto. Nossa fé se baseia nos fatos, enquanto a deles se fundamenta na lógica. Para nós, no que tange à doença, o que importa é que ela seja curada, e nada mais. A higiene, por sua vez, consiste em praticar os cuidados necessários para se obter a saúde, e isso basta. Pois, em última análise, tudo se rege pelos fatos, e a lógica nada mais é do que uma tentativa de acompanhá-los. Talvez falemos assim por termos testemunhado, vezes sem conta, a ineficácia de terapias que, embora condizentes com a teoria científica, não são capazes de curar as doenças. Pedimos vossa compreensão a esse respeito.
+
+### Diversos Métodos de Tratamento
+
+**Moxabustão**
+Todo tratamento visa a eliminar as impurezas acumuladas no corpo, seja lavando-as com água ou queimando-as com fogo. A moxabustão, por ser uma forma de queima física, produz um efeito considerável, embora temporário e, por sua natureza, não fundamental. Além disso, por ser um fogo físico, o tratamento é extremamente quente e doloroso, o que o afasta do ideal. Um verdadeiro método de cura deve proporcionar alívio de forma agradável.
+
+**Cura por Redenção**
+Aproveitando o ensejo, gostaria de falar sobre a cura por redenção. Essa modalidade de cura existe desde tempos remotos. É de conhecimento geral que Jesus Cristo redimiu os pecados da humanidade. Outro exemplo é o de Miki Tokuharu, fundador da Hito no Michi. Ele sofria de uma asma grave até encontrar um homem chamado Kaneda Tokumitsu, que lhe disse: "Eu curarei sua asma". Naquela mesma noite, a asma de Miki desapareceu completamente. Em contrapartida, Kaneda assumiu a doença e sofreu com ela por cerca de um mês. Esse é, sem dúvida, um notável caso de cura por redenção. Impressionado com o ocorrido, Miki Tokuharu decidiu que também queria realizar esse tipo de cura, e essa foi a motivação para fundar sua organização. Não há dúvida de que a cura por redenção é praticada desde tempos muito antigos. Vocês mesmos já devem ter passado por experiências semelhantes. Ao tratar um doente, por exemplo, às vezes sentimos os mesmos sintomas. Isso é uma forma de redenção, ainda que parcial. Essa redenção é uma manifestação do elemento água, sendo, portanto, característica das pessoas do tipo lunar. A natureza da água é lavar, e, ao fazê-lo, ela assume a sujeira. Nisso consiste a redenção. Nossa Terapia, por sua vez, utiliza o fogo espiritual para queimar e a água para lavar, ou seja, uma única pessoa realiza as duas funções. Como as impurezas são primeiramente queimadas pelo fogo, o que resta é apenas uma pequena quantidade de cinzas. Mesmo ao lavar com a água, a quantidade de impurezas absorvida pelo aplicador é mínima, o que lhe permite tratar um grande número de doentes com relativa facilidade.
+
+**Acupuntura**
+A acupuntura, assim como a terapia medicamentosa, também atua interrompendo temporariamente o processo de purificação. Ao se inserir uma agulha em um ponto onde há um vaso sanguíneo calibroso, o músculo da região se contrai e incha, dificultando o fluxo sanguíneo e, consequentemente, paralisando a purificação. Isso proporciona um alívio temporário da dor, mas, assim que o inchaço diminui, os sintomas retornam.
+
+**Injeções**
+As injeções são uma espécie de terapia reversa, que consiste em introduzir toxinas na corrente sanguínea para enfraquecer o processo de purificação.
+
+**Cirurgia**
+A cirurgia consiste na remoção da parte doente. Os resultados podem ser bons ou ruins, não se tratando de um método de cura definitivo. Do ponto de vista religioso, no entanto, ferir, ainda que minimamente, o corpo que nos foi concedido por Deus constitui um pecado. O corpo é um empréstimo divino, e devemos tratá-lo com o máximo de cuidado e respeito. Tanto a moxabustão quanto a cirurgia deixam marcas permanentes, transformando a pessoa, de certa forma, em um mutilado para o resto da vida. Por mais bela que seja a pele de uma mulher, uma cicatriz de moxabustão a arruína para sempre. É o mesmo que um jardineiro queimar, com a ponta de um incenso, a pétala de uma flor que ele tanto se esmerou para cultivar. É, ouso dizer, uma grande profanação contra o Criador. Há pessoas que, após uma cirurgia, ficam com uma aparência que mal se pode olhar. Embora se possa argumentar que, em alguns casos, o procedimento é inevitável, se fosse possível curar as mesmas condições sem recorrer à cirurgia, não haveria nada mais maravilhoso. É aí que reside o imenso valor da nossa Terapia.
+
+**Inalação de Oxigênio**
+A inalação de oxigênio também é um método questionável. Recentemente, um aviador francês publicou um relato interessante: voar a uma altitude superior a três mil metros por mais de trinta minutos cura a maioria dos resfriados. Do ponto de vista científico, quanto maior a altitude, mais rarefeito é o oxigênio. Isso nos leva a um impasse: afinal, é melhor ter mais ou menos oxigênio? O ar que respiramos é composto por uma combinação de elementos como oxigênio, hidrogênio e nitrogênio, em proporções que, sem dúvida, são as ideais para a respiração humana. É como um prato bem temperado, que requer a mistura harmoniosa de açúcar, shoyu e outros ingredientes. De que adiantaria consumir apenas o açúcar ou apenas o shoyu? A inalação de oxigênio me parece ser exatamente isso: a administração de um único elemento de forma isolada.
+
+**Aplicação de Gelo**
+A aplicação de gelo, por reduzir a febre e aliviar a dor, pode parecer eficaz. Na realidade, porém, ela interrompe completamente o processo de purificação, retardando a cura. No verão passado, muitas pessoas morreram de encefalite letárgica, e acredito que a causa tenha sido o uso excessivo de gelo. No caso da apendicite, o gelo faz com que o pus se solidifique, o que acaba tornando a cirurgia necessária. Se o gelo não fosse utilizado, a cura ocorreria de forma muito mais rápida.
+
+**Banhos de Sol**
+Recentemente, um cientista ocidental propôs uma nova teoria: a luz solar, além de conter os benéficos raios ultravioleta, também possui um componente que exerce uma influência extremamente negativa sobre o corpo humano. De modo geral, o ser humano não é um animal feito para se expor ao sol. Ficar o dia todo sob o sol é excessivamente forte para o nosso organismo. No entanto, se a exposição ocorrer enquanto se trabalha e se transpira, ela é extremamente benéfica. O que é prejudicial é ficar parado, recebendo a luz solar por um longo período.
+
+**Sereno**
+Diz-se que o sereno é tóxico, mas eu o considero extremamente benéfico e recomendo aos doentes que se exponham a ele. Isso porque a "energia espiritual da Lua" também é essencial.
+
+**Energia da Terra**
+A "energia espiritual da Terra" também é muito importante. Antigamente, falava-se em "tocar o sopro da terra". A energia espiritual do solo também é necessária para o corpo humano. Por isso, os exercícios ao ar livre são muito mais benéficos do que os praticados em ambientes fechados, pois nos permitem entrar em contato com a energia da terra. Nesse sentido, a jardinagem é uma atividade excelente.
+
+Em suma, todas as coisas são geradas e nutridas pela energia espiritual do Sol, da Lua e da Terra. Portanto, se tomamos banho de sol, deveríamos também tomar banho de lua e nos expor à energia da terra. Recentemente, tem-se falado no chamado "mal dos edifícios", que, a meu ver, é causado pelo distanciamento da energia da terra.
+
+**Compressas e Emplastros**
+O ser humano também respira pela pele. As compressas e os emplastros obstruem essa respiração, prejudicando o metabolismo e enfraquecendo o processo de purificação.
+
+**Medicamentos Tópicos**
+Os medicamentos de uso tópico penetram na pele, impurificam o sangue e enfraquecem o processo de purificação. Embora proporcionem um alívio temporário da dor, acabam por retardar a cura.
+
+(Julho de 1936)
+
+---
+
+# Alarmantes Erros de Diagnóstico e Tratamento
+
+**Categoria:** o | **Ano:** 昭和11(1936)年4月16日 | **Fonte:** 新日本医術書
+**Título Original:** 驚く可き誤診と誤療 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-04-16
+
+## Alarmantes Erros de Diagnóstico e Tratamento
+
+Em minha jornada tratando inúmeros pacientes, tenho feito uma descoberta verdadeiramente espantosa: a assombrosa frequência com que os médicos incorrem em erros de diagnóstico, a julgar pelos relatos que me chegam. O mais grave, contudo, é que tais equívocos não são raros nem mesmo entre as mais altas autoridades do meio acadêmico, profissionais de diversas faculdades de medicina em quem o público deposita confiança absoluta. Nesse sentido, pretendo apresentar, de forma sequencial, alguns casos que sirvam de alerta não apenas aos envolvidos, mas à sociedade em geral.
+
+Desejo esclarecer, de antemão, que não nutro a mínima intenção de depreciar a classe médica. A motivação que me impele é unicamente um sentimento de compaixão do qual não me posso eximir, e rogo que isso seja plenamente compreendido. Sendo assim, terei o máximo cuidado para ater-me estritamente aos fatos, sem deles me afastar um único passo.
+
+**Cinco Doenças Inexistentes**
+
+Bairro de Kyobashi, distrito de Shinkawa
+Sra. Chifuko (nome fictício), 45 anos
+
+Esta paciente sofria de uma enfermidade havia dez anos. Sua condição, que alternava entre melhoras e recaídas, agravou-se consideravelmente no último ano, forçando-a a um repouso absoluto; permanecia acamada, levantando-se apenas para ir ao banheiro. Segundo seu relato, os diagnósticos emitidos por dois renomados doutores apontavam para um quadro de seis patologias: catarro no ápice do pulmão esquerdo, inflamação dos gânglios linfáticos do hilo pulmonar direito, hipertrofia cardíaca, gastroptose, beribéri e catarro do intestino delgado.
+
+No entanto, ao examiná-la, constatei que, dessas seis supostas doenças, apenas o catarro do intestino delgado era real; as outras cinco eram inteiramente inexistentes.
+
+Na verdade, a paciente encontrava-se em um estado de extrema debilidade devido ao longo período acamada, o que lhe causava anemia e uma magreza que, à primeira vista, a faziam parecer gravemente enferma. A verdadeira causa de seu sofrimento, contudo, era um acúmulo de pus na região do pescoço e em sua base. Adicionalmente, identifiquei um enfraquecimento geral das funções orgânicas, provocado pelas toxinas dos medicamentos ingeridos ao longo de anos, e uma discreta retenção de secreções purulentas na área dos rins e no peritônio.
+
+Após o início do tratamento, em apenas quatro dias ela pôde deixar o leito. Em cerca de dez dias, já retomava suas tarefas domésticas e, ao fim de vinte dias, encontrava-se completamente restabelecida, com a saúde de antes. Sua alegria era tamanha que não se pode descrevê-la em palavras. O espanto das pessoas ao seu redor, segundo me contam, superava qualquer imaginação; todos os que souberam do caso não encontravam outra definição senão a de "incompreensível".
+
+**Uma Sentença de Morte Revertida**
+
+Bairro de Shiba, distrito de Shirokane Shida
+Menina Reiko K. (nome fictício), 7 anos
+
+Em setembro do ano passado, o chefe de pediatria de uma renomada faculdade de medicina teria dito o seguinte à mãe desta paciente: "Recusamo-nos a internar sua filha, pois não há a menor esperança de cura. A doença dela é pulmonar, e sua vida não se estenderá por mais de seis meses. Esteja preparada".
+
+Ao examiná-la, porém, verifiquei que seus pulmões não apresentavam qualquer anormalidade. O problema real consistia em um considerável acúmulo de pus que se estendia das glândulas parótidas aos gânglios linfáticos, o que lhe causava febres diárias superiores a 39 graus.
+
+Iniciei o tratamento para dissolver esse pus e, gradualmente, a febre cedeu, normalizando-se por completo em uma semana. A menina, que antes se mostrava pálida, sem energia e com dificuldade para caminhar, começou a readquirir a cor no rosto, a ganhar peso e a recuperar a vitalidade. Em pouco mais de um mês, estava praticamente curada, com a saúde de antes. Ela continua a me visitar duas ou três vezes por mês, pois ainda resta um pequeno resquício de pus nos gânglios linfáticos.
+
+Em abril deste ano, ela ingressou, feliz, no ensino fundamental, esbanjando uma saúde e uma vivacidade que superam as de muitas outras crianças. Recentemente, ao relatar o contraste entre a realidade e a previsão do médico de que sua filha não viveria mais de seis meses, a mãe se desfez em uma gargalhada.
+
+Caso os profissionais mencionados nestes exemplos desejem averiguar os fatos, terei o maior prazer em intermediar o contato a qualquer momento. Aliás, mais do que isso, anseio que examinem, a título de referência, o estado de completa recuperação destes pacientes.
+
+---
+
+# As Razões de Meu Desligamento da Oomoto
+
+**Categoria:** o | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** 大本教脱退の理由 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.27 | **Data ISO:** 1949-12-30
+
+## As Razões de Meu Desligamento da Oomoto
+
+Visto que sou frequentemente inquirido a esse respeito, decidi apresentar um breve esclarecimento sobre os motivos que me levaram a deixar a Oomoto.
+
+Creio que o fato se deu por volta do segundo ou terceiro ano da era Showa (1927-1928). Estando a mãe do Sr. Onisaburo Deguchi gravemente enferma e em seu leito de morte, ela o chamou e lhe revelou o seguinte: "Em minha juventude, meu pai foi mestre de estudos clássicos do príncipe Arisugawa Taruhito (有栖川熾仁). Por essa conexão, quando Sua Alteza se hospedava em Quioto, servi-o como dama de companhia. Foi em uma dessas ocasiões que fui tocada por ele, e de tal união, nasceste tu. Portanto, és um descendente do príncipe. Como minha vida pode estar chegando ao fim, chamei-te para que soubesses desta verdade." Sendo este um relato que ouvi diretamente dos lábios do Sr. Deguchi, não tenho dúvidas de sua autenticidade.
+
+A partir desse acontecimento, a atitude do Sr. Deguchi alterou-se de forma drástica. Seu estilo de vida tornou-se em tudo semelhante ao de um membro da Família Imperial, chegando a vestir haoris com o brasão do crisântemo. Ademais, perante os fiéis, afirmava que a linhagem legítima do Japão era a da Corte do Sul, e não a da Corte do Norte, à qual pertence o atual Imperador, insinuando assim que ele mesmo seria o verdadeiro soberano. Compreendi o perigo inerente a essa conduta. Embora hoje, com casos como o do Imperador Kumazawa, tal pretensão talvez não parecesse tão grave, à época, constituía um problema de enormes proporções. Além disso, em suas viagens, ao chegar às estações, dezenas de jovens uniformizados o aguardavam em fileiras para saudá-lo com reverência; ao sair, motocicletas abriam caminho para uma comitiva de vários automóveis que se deslocavam em alta velocidade. Sua comitiva era uma réplica exata de um cortejo imperial (鹵簿), o que me deixou atônito.
+
+Por conseguinte, é evidente que tais atitudes foram uma das principais causas da perseguição que se seguiu. Causa-me profundo espanto que, apesar de haver figuras notáveis entre os dirigentes, a começar pelo próprio Sr. Deguchi, ninguém se tenha apercebido desse risco.
+
+Havia ainda um outro fator. O Sr. Deguchi possuía um espírito livre e irrestrito, de uma vastidão comparável ao céu e ao mar. Sua vida cotidiana era, portanto, absolutamente desregrada e excessivamente pautada pelos instintos. Disso decorreram diversas ocorrências que a decência me impede de registrar por escrito, o que, naturalmente, levou a uma alarmante dissolução dos costumes entre os fiéis. Diante de tal quadro, concluí que a situação era insustentável.
+
+Foi no sétimo ano da era Showa (1932) que tomei a decisão de me afastar. Após dois anos de preparação, efetivei meu desligamento em 15 de setembro do nono ano de Showa (1934). Comigo, dezenas de membros de meu grupo renunciaram coletivamente (連袂), um acontecimento sem precedentes desde a fundação da Oomoto, que foi noticiado com grande destaque na revista oficial da instituição. Contudo, tal fato produziu um efeito providencial, que não posso atribuir a outra coisa senão à Proteção Divina. Ocorre que, pouco mais de um ano depois, em 8 de dezembro do décimo ano de Showa (1935), a organização sofreu uma severa perseguição por parte das autoridades. Eu estive prestes a ser implicado, mas, graças à publicação de minha renúncia na revista, pude evitar essa desgraça. Naquela ocasião, todos os dirigentes de posição semelhante à minha foram banidos de Tóquio, sendo forçados a se retirarem para o interior. Sem dúvida, eu teria partilhado do mesmo destino.
+
+---
+
+# O Temível Perigo da Fitoterapia Chinesa
+
+**Categoria:** o | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
+**Título Original:** 恐るべき漢方薬 | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
+
+## O Temível Perigo da Fitoterapia Chinesa
+
+Ao dissertarmos sobre a temível natureza das toxinas medicamentosas, é comum que nossos interlocutores suponham que tal perigo se restrinja aos fármacos ocidentais. Muitos chegam a duvidar que a fitoterapia chinesa possa sequer ser considerada um medicamento que acarrete riscos. Contudo, trata-se de um grave equívoco. Na verdade, a severidade da intoxicação por fitoterápicos chineses pode superar, em muito, a dos ocidentais.
+
+Decerto, a potência de uma dose individual de um preparado chinês é inferior à de um medicamento alopático. O perigo, todavia, reside na quantidade avassaladora que se consome. Desde tempos antigos, é costume ferver o conteúdo de um bule inteiro de ervas para ser ingerido diariamente como remédio de uso contínuo; há até mesmo quem o substitua pelo chá. Por conseguinte, a carga tóxica acumulada pode ser dezenas ou mesmo centenas de vezes superior à dos fármacos ocidentais.
+
+A variedade de ervas utilizadas é considerável, e, segundo minha experiência, o gennoshouko se revela como a mais violenta de todas. Aqueles que o consumiram em grande quantidade sofrem uma purificação terrivelmente obstinada. Por mais que se eliminem as toxinas, novas acumulam-se incessantemente, conduzindo o indivíduo à morte por debilitamento. É algo verdadeiramente aterrador. Em seguida, a erva conhecida como dokudami também apresenta elevada toxicidade. As pessoas que fizeram uso extensivo dessas duas substâncias devem ter cautela redobrada.
+
+As demais ervas apresentam, em geral, um grau de periculosidade semelhante. Há, ainda, uma substância de nome desconhecido, de cor negra e consistência semelhante à de um caramelo, que ocasionalmente encontro em alguns pacientes. A intoxicação por ela provocada é igualmente persistente e de difícil cura.
+
+Acima de tudo, a intensidade da intoxicação por fitoterápicos chineses é mais bem aferida pela tez da pessoa. Quanto maior o consumo, mais pálido se torna o rosto, manifestando o que popularmente se conhece como um inchaço de tonalidade azulada. Observa-se, ademais, que essa intoxicação é mais frequente entre as mulheres, especialmente aquelas que pertenceram ao universo da vida boêmia e do entretenimento, provavelmente porque, desde a antiguidade, tais ervas são tidas como eficazes para as afecções femininas.
+
+Para ilustrar, recordo-me do caso de uma pessoa que tratei há tempos. Por mais de vinte anos, ela ingerira diariamente um preparado em pílulas chamado Kiougan, indicado para a constipação. Em decorrência disso, desenvolveu uma tuberculose renal e foi desenganada pelos médicos. A despeito de meus esforços, a carga de toxinas em seu organismo era tamanha que, por fim, seu quadro se tornou irreversível.
+
+Esta realidade, aliás, é de conhecimento geral e nos permite inferir a provável causa da tez pálido-amarelada, tão característica em muitos chineses: uma consequência direta da intoxicação crônica por esses mesmos fitoterápicos.
+
+---
+
 # O Alicerce das Minhas Provações
 
 **Categoria:** o | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 大森時代 自観叢書第9篇 | **Status:** Published
+**Título Original:** 大森時代 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.17 | **Data ISO:** 1949-12-30
 
 ## O Alicerce das Minhas Provações
 
@@ -28,7 +713,7 @@ Por meio de uma certa descoberta acidental, compreendi que a causa de tamanha af
 # A Cura do Tifo pela Força de Deus
 
 **Categoria:** o | **Ano:** 昭和26(1951)年1月31日 | **Fonte:** Eikou
-**Título Original:** おかげばなし批判 | **Status:** Published
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 89号 | **Data ISO:** 1951-01-31
 
 ## A Cura do Tifo pela Força de Deus
 
@@ -80,7 +765,7 @@ Este é o meu testemunho sobre o tifo exantemático. Ofereço este relato em pro
 # A Matriz da Corrupção
 
 **Categoria:** o | **Ano:** 昭和29(1954)年3月3日 | **Fonte:** Eikou
-**Título Original:** 汚職の母体 | **Status:** Published
+**Título Original:** 汚職の母体 | **Status:** Published | **Edição/Página:** 250号 | **Data ISO:** 1954-03-03
 
 ## A Matriz da Corrupção
 
@@ -109,7 +794,7 @@ Atualmente, o Estado investe em educação e em diversas outras instituições, 
 # As Artes Musicais
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 音曲 自観叢書第5編 | **Status:** Published
+**Título Original:** 音曲 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.25 | **Data ISO:** 1949-08-30
 
 ## As Artes Musicais
 
@@ -134,7 +819,7 @@ Ademais, também no Manzai (漫才) houve mestres. A falecida Miss Wakana foi, i
 # O Terrível Flagelo dos Medicamentos
 
 **Categoria:** o | **Ano:** 昭和27(1952)年10月29日 | **Fonte:** Eikou
-**Título Original:** 恐るべき薬害 | **Status:** Published
+**Título Original:** 恐るべき薬害 | **Status:** Published | **Edição/Página:** 180号 | **Data ISO:** 1952-10-29
 
 ## O Terrível Flagelo dos Medicamentos
 
@@ -170,7 +855,7 @@ Meishu-Sama, por Vossa sagrada proteção, muito, muito obrigado. Do fundo de me
 # Uma Reflexão sobre Meus Anos na Religião Omoto
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 大本信者時代の私 自観叢書第5編 | **Status:** Published
+**Título Original:** 大本信者時代の私 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.74 | **Data ISO:** 1949-08-30
 
 ## Uma Reflexão sobre Meus Anos na Religião Omoto
 
@@ -187,7 +872,7 @@ Passo agora a elucidar as razões subjacentes a essa dinâmica. A fundadora, Deg
 # A Ilusão do Progresso Médico e a Verdadeira Cura
 
 **Categoria:** o | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## A Ilusão do Progresso Médico e a Verdadeira Cura
 
@@ -218,7 +903,7 @@ E o mais grave é que esse caminho é superestimado como sendo o do progresso. P
 # Ó, insensatos! Vosso nome é perversidade
 
 **Categoria:** o | **Ano:** 昭和24(1949)年4月30日 | **Fonte:** -
-**Título Original:** 愚かなる者よ！ 汝の名は悪人なり | **Status:** Published
+**Título Original:** 愚かなる者よ！ 汝の名は悪人なり | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949-04-30
 
 ## Ó, insensatos! Vosso nome é perversidade
 
@@ -241,7 +926,7 @@ Dessa forma, seja sob a ótica da fé, seja por um simples cálculo pragmático,
 # Aos Nossos Leitores
 
 **Categoria:** o | **Ano:** 昭和9(1934)年7月 | **Fonte:** 松風
-**Título Original:** おことわり | **Status:** Published
+**Título Original:** おことわり | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1934-07
 
 ## Aos Nossos Leitores
 
@@ -254,7 +939,7 @@ Tenham a certeza de que estou envidando todos os esforços para encontrar uma so
 # Uma Resposta ao Senhor Oya Soichi
 
 **Categoria:** o | **Ano:** 昭和24(1949)年4月8日 | **Fonte:** -
-**Título Original:** 大宅壮一君に与う | **Status:** Published
+**Título Original:** 大宅壮一君に与う | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949-04-08
 
 ## Uma Resposta ao Senhor Oya Soichi
 
@@ -277,7 +962,7 @@ Para concluir, gostaria de afirmar o seguinte: se a totalidade dos jornalistas d
 # O Testemunho das Graças Alcançadas
 
 **Categoria:** o | **Ano:** 昭和24(1949)年7月2日 | **Fonte:** -
-**Título Original:** お蔭話を読んで | **Status:** Published
+**Título Original:** お蔭話を読んで | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1949-07-02
 
 ## O Testemunho das Graças Alcançadas
 
@@ -300,7 +985,7 @@ Reflito constantemente: se uma pessoa lê estes relatos e, ainda assim, suas dú
 # A Lição Contida nos Relatos de Graça
 
 **Categoria:** o | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
-**Título Original:** 御蔭話から何を得る | **Status:** Published
+**Título Original:** 御蔭話から何を得る | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
 
 ## A Lição Contida nos Relatos de Graça
 
@@ -327,7 +1012,7 @@ Portanto, a cada relato de graça que lemos, sentimos mais intensamente o dever 
 # A Surpreendente Realidade dos Equívocos no Diagnóstico da Tuberculose Pulmonar
 
 **Categoria:** o | **Ano:** 昭和11(1936)年5月3日 | **Fonte:** 驚くべき肺結核診断の誤診
-**Título Original:** 驚くべき肺結核診断の誤診 | **Status:** Unpublished
+**Título Original:** 驚くべき肺結核診断の誤診 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-03
 
 ## A Surpreendente Realidade dos Equívocos no Diagnóstico da Tuberculose Pulmonar
 
@@ -368,7 +1053,7 @@ A notável eficácia desse método tem sido comprovada por minhas experiências 
 # Nota de Desculpas
 
 **Categoria:** o | **Ano:** 昭和9(1934)年4月 | **Fonte:** 松風
-**Título Original:** お詫び ・巻頭言 | **Status:** Published
+**Título Original:** お詫び ・巻頭言 | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1934-04
 
 ## Nota de Desculpas
 
@@ -383,7 +1068,7 @@ Doravante, empenhar-nos-emos ao máximo para que tal situação não volte a oco
 # A Verdadeira Causa das Doenças
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 上巻 （二） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 上巻 （二） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## A Verdadeira Causa das Doenças
 
@@ -526,7 +1211,7 @@ Nesse caso, a cura do corpo físico se manifestou vários dias após a cura do c
 # O Princípio da Terapia Purificadora
 
 **Categoria:** o | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 岡田式指圧療法の原理 | **Status:** Unknown
+**Título Original:** 岡田式指圧療法の原理 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## O Princípio da Terapia Purificadora
 
@@ -553,7 +1238,7 @@ Diante de tais fatos, podemos afirmar sem hesitação que se aproxima a era em q
 # Sobre a Entrega a Deus
 
 **Categoria:** o | **Ano:** 昭和26(1951)年11月28日 | **Fonte:** Eikou
-**Título Original:** 御任せする | **Status:** Published
+**Título Original:** 御任せする | **Status:** Published | **Edição/Página:** 132号 | **Data ISO:** 1951-11-28
 
 ## Sobre a Entrega a Deus
 
@@ -584,7 +1269,7 @@ Assim, grande parte dos acontecimentos neste mundo se desenrola de maneira parad
 # A Ilusão da Cura Médica e a Verdadeira Salvação
 
 **Categoria:** o | **Ano:** 昭和27(1952)年4月9日 | **Fonte:** Eikou
-**Título Original:** 御蔭話を読んで | **Status:** Published
+**Título Original:** 御蔭話を読んで | **Status:** Published | **Edição/Página:** 151号 | **Data ISO:** 1952-04-09
 
 ## A Ilusão da Cura Médica e a Verdadeira Salvação
 
@@ -613,7 +1298,7 @@ Contudo, tudo está sujeito ao tempo oportuno. Foi-me revelado que, segundo o Pl
 # A Intoxicação Oculta nos Cosméticos
 
 **Categoria:** o | **Ano:** 昭和28(1953)年3月18日 | **Fonte:** Eikou
-**Título Original:** 恐るべき化粧品中毒 | **Status:** Published
+**Título Original:** 恐るべき化粧品中毒 | **Status:** Published | **Edição/Página:** 200号 | **Data ISO:** 1953-03-18
 
 ## A Intoxicação Oculta nos Cosméticos
 
@@ -652,7 +1337,7 @@ Embora eu seja uma pessoa repleta de máculas, estou determinada a me esforçar 
 # O Grande Envoltório da Salvação
 
 **Categoria:** o | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
-**Título Original:** 大風呂敷 阿呆文学（十） | **Status:** Published
+**Título Original:** 大風呂敷 阿呆文学（十） | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
 
 ## O Grande Envoltório da Salvação
 
@@ -673,7 +1358,7 @@ Com a parca sabedoria que possuem, é certo que jamais conseguirão compreender.
 # Palestra sobre a Arte da Terapia Espiritual
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 上巻 （一） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 上巻 （一） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## Palestra sobre a Arte da Terapia Espiritual
 
@@ -918,7 +1603,7 @@ O casamento entre seres humanos segue o mesmo princípio. O marido e a mulher se
 # Sobre os Espíritos Vingativos e os Prisioneiros da Terra
 
 **Categoria:** o | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 怨霊及び地縛の霊 | **Status:** Published
+**Título Original:** 怨霊及び地縛の霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## Sobre os Espíritos Vingativos e os Prisioneiros da Terra
 
@@ -943,7 +1628,7 @@ Contudo, os espíritos prisioneiros da terra podem se libertar em um prazo de at
 # A Imperiosa Leitura dos Escritos Divinos
 
 **Categoria:** o | **Ano:** 昭和25(1950)年11月29日 | **Fonte:** Eikou
-**Título Original:** 大いに神書を読むべし | **Status:** Published
+**Título Original:** 大いに神書を読むべし | **Status:** Published | **Edição/Página:** 80号 | **Data ISO:** 1950-11-29
 
 ## A Imperiosa Leitura dos Escritos Divinos
 
@@ -964,7 +1649,7 @@ Aproveitando o ensejo, gostaria de abordar mais um ponto. No que tange à práti
 # A Barbárie da Medicina Contemporânea
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬毒の恐怖 未発表 | **Status:** Unpublished
+**Título Original:** 薬毒の恐怖 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Barbárie da Medicina Contemporânea
 
@@ -977,7 +1662,7 @@ Contudo, diante de tamanhas tragédias, o governo, os médicos e os órgãos de 
 # A Medicina Aterradora
 
 **Categoria:** o | **Ano:** 昭和28(1953)年9月9日 | **Fonte:** Eikou
-**Título Original:** 恐るべき医療 | **Status:** Published
+**Título Original:** 恐るべき医療 | **Status:** Published | **Edição/Página:** 225号 | **Data ISO:** 1953-09-09
 
 ## A Medicina Aterradora
 
@@ -1029,7 +1714,7 @@ Meishu-Sama, por Vossa incessante proteção, nossa mais profunda gratidão.
 # A Origem Espiritual das Fobias
 
 **Categoria:** ra | **Ano:** 昭和27(1952)年8月13日 | **Fonte:** Eikou
-**Título Original:** 雷火恐怖症 | **Status:** Published
+**Título Original:** 雷火恐怖症 | **Status:** Published | **Edição/Página:** 169号 | **Data ISO:** 1952-08-13
 
 ## A Origem Espiritual das Fobias
 
@@ -1065,7 +1750,7 @@ Muito obrigado, Meishu-Sama.
 # A Terrível Superstição da Ciência
 
 **Categoria:** o | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** 恐るべき科学迷信
-**Título Original:** 恐るべき科学迷信 | **Status:** Unpublished
+**Título Original:** 恐るべき科学迷信 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1954-04-15
 
 ## A Terrível Superstição da Ciência
 
@@ -1113,7 +1798,7 @@ Tendo sido eu o escolhido para conduzir este magno Plano Divino, afirmo categori
 # O Pavor das Toxinas Medicinais
 
 **Categoria:** ya | **Ano:** 昭和27(1952)年9月10日 | **Fonte:** Eikou
-**Título Original:** 薬毒の恐怖 | **Status:** Published
+**Título Original:** 薬毒の恐怖 | **Status:** Published | **Edição/Página:** 173号 | **Data ISO:** 1952-09-10
 
 ## O Pavor das Toxinas Medicinais
 
@@ -1126,7 +1811,7 @@ Tal realidade pode parecer assustadora, justamente por ser algo que a maioria da
 # O Terrível Veneno dos Medicamentos
 
 **Categoria:** ya | **Ano:** 昭和24(1949)年9月10日 | **Fonte:** -
-**Título Original:** 薬剤亡国論 薬毒怖るべし | **Status:** Published
+**Título Original:** 薬剤亡国論 薬毒怖るべし | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1949-09-10
 
 ## O Terrível Veneno dos Medicamentos
 
@@ -1153,7 +1838,7 @@ Ah, como anseio que a sociedade em geral reconheça quão pavoroso é o yakudoku
 # A Nocividade dos Medicamentos
 
 **Categoria:** ya | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 薬剤の害毒 | **Status:** Unknown
+**Título Original:** 薬剤の害毒 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Nocividade dos Medicamentos
 
@@ -1176,7 +1861,7 @@ O mesmo princípio se aplica à constipação e a outras enfermidades, motivo pe
 # O Indubitável Poder de Deus
 
 **Categoria:** o | **Ano:** 昭和25(1950)年4月1日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 | **Status:** Published
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 56号 | **Data ISO:** 1950-04-01
 
 ## O Indubitável Poder de Deus
 
@@ -1307,7 +1992,7 @@ Quanto aos notáveis resultados da agricultura sem adubos, a resistência à tem
 # O Milagre da Vida: A Salvação de Meu Filho Desenganado
 
 **Categoria:** o | **Ano:** 昭和25(1950)年4月22日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 | **Status:** Published
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 59号 | **Data ISO:** 1950-04-22
 
 ## O Milagre da Vida: A Salvação de Meu Filho Desenganado
 
@@ -1378,7 +2063,7 @@ Em contrapartida, o Johrei de nossa Igreja atua de maneira oposta: dissolve as s
 # O Mal Gerado pelos Medicamentos
 
 **Categoria:** ya | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
-**Título Original:** 薬毒 | **Status:** Published
+**Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## O Mal Gerado pelos Medicamentos
 
@@ -1415,7 +2100,7 @@ Portanto, não é um despropósito afirmar que a raiz da infelicidade e dos conf
 # O Terror das Toxinas dos Medicamentos
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
-**Título Original:** 薬毒は戦争より恐ろしい | **Status:** Published
+**Título Original:** 薬毒は戦争より恐ろしい | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
 
 ## O Terror das Toxinas dos Medicamentos
 
@@ -1472,7 +2157,7 @@ Meishu-Sama, muito obrigada. Rendo-lhe minha mais profunda gratidão. Humildemen
 # A Verdadeira Natureza dos Medicamentos e suas Consequências
 
 **Categoria:** ya | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 薬毒 | **Status:** Published
+**Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Verdadeira Natureza dos Medicamentos e suas Consequências
 
@@ -1515,7 +2200,7 @@ Por meio da teoria e dos exemplos aqui apresentados, espero que o leitor tenha p
 # A Terapêutica Divina para as Enfermidades da Face
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （一） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 下巻 （一） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## A Terapêutica Divina para as Enfermidades da Face
 
@@ -1658,7 +2343,7 @@ No final do ano passado, tratei uma senhora cujo rosto estava tão deformado que
 # O Veneno dos Remédios: A Causa Primordial do Sofrimento
 
 **Categoria:** ya | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 薬毒 | **Status:** Published
+**Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## O Veneno dos Remédios: A Causa Primordial do Sofrimento
 
@@ -1701,7 +2386,7 @@ Portanto, não é um excesso dizer que a raiz da infelicidade e dos conflitos hu
 # A Causa e a Cura das Principais Enfermidades
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （五） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 下巻 （五） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## A Causa e a Cura das Principais Enfermidades
 
@@ -1980,7 +2665,7 @@ Através de nossa terapia, a dissolução dessa obstrução leva à cura complet
 # A Luz Divina que Supera a Ciência
 
 **Categoria:** o | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** Eikou
-**Título Original:** 御守から出る光波 | **Status:** Published
+**Título Original:** 御守から出る光波 | **Status:** Published | **Edição/Página:** 223号 | **Data ISO:** 1953-08-26
 
 ## A Luz Divina que Supera a Ciência
 
@@ -2059,7 +2744,7 @@ Muito obrigado. Rogo que continue a me agraciar com Vossa divina proteção.
 # A Ação Inversa dos Medicamentos
 
 **Categoria:** ya | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 十五、薬剤の逆作用 | **Status:** Unknown
+**Título Original:** 十五、薬剤の逆作用 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
 
 ## A Ação Inversa dos Medicamentos
 
@@ -2080,7 +2765,7 @@ A pretensão de que os medicamentos, desenvolvidos pela ciência de laboratório
 # A Intoxicação Medicamentosa
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬剤中毒 未発表 | **Status:** Unpublished
+**Título Original:** 薬剤中毒 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Intoxicação Medicamentosa
 
@@ -2097,7 +2782,7 @@ Todavia, uma dificuldade ainda maior reside nos medicamentos de uso oral. Embora
 # A Superioridade do Johrei Demonstrada pelos Fatos
 
 **Categoria:** o | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published
+**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
 
 ## A Superioridade do Johrei Demonstrada pelos Fatos
 
@@ -2214,7 +2899,7 @@ Este é um exemplo de alguém que, mesmo sentindo os efeitos do Johrei, se recus
 # A Terapia Divina e sua Excelência
 
 **Categoria:** o | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 卓越せる神療法 | **Status:** Published
+**Título Original:** おかげばなし批判 卓越せる神療法 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1950-03-11
 
 ## A Terapia Divina e sua Excelência
 
@@ -2330,7 +3015,7 @@ Com tudo isso, percebi que eu estava matando não apenas meu próprio corpo, mas
 # A Verdade sobre Yakushi Nyorai
 
 **Categoria:** ya | **Ano:** 昭和25(1950)年2月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 薬師如来 | **Status:** Published
+**Título Original:** 薬師如来 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-02-20
 
 ## A Verdade sobre Yakushi Nyorai
 
@@ -2351,7 +3036,7 @@ Este é precisamente o Poder de Kannon (観音力) que venho manifestando.
 # Acerca do Veneno Contido nos Remédios
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬毒に就いて 未発表 | **Status:** Unpublished
+**Título Original:** 薬毒に就いて 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## Acerca do Veneno Contido nos Remédios
 
@@ -2374,7 +3059,7 @@ Tais exemplos históricos e lendários demonstram que, se o ser humano não reco
 # A Comprovação de um Mundo sem Doenças
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年7月1日 | **Fonte:** Eikou
-**Título Original:** 病なき世界 | **Status:** Published
+**Título Original:** 病なき世界 | **Status:** Published | **Edição/Página:** 215号 | **Data ISO:** 1953-07-01
 
 ## A Comprovação de um Mundo sem Doenças
 
@@ -2408,7 +3093,7 @@ Meishu-Sama, muito obrigado.
 # A Ilusão do Progresso Farmacêutico
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
-**Título Original:** 薬剤に科学性はない | **Status:** Published
+**Título Original:** 薬剤に科学性はない | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
 
 ## A Ilusão do Progresso Farmacêutico
 
@@ -2419,844 +3104,6 @@ Contudo, mesmo essa fase de testes em pessoas é, em geral, abreviada. Um perío
 A realidade, no entanto, é outra. Ainda que um medicamento demonstre eficácia por alguns meses, o verdadeiro problema manifesta-se posteriormente. Inevitavelmente, surge a intoxicação medicamentosa, cujos efeitos anulam por completo qualquer benefício inicial. A história nos oferece inúmeros exemplos de fármacos que se tornam inúteis após, no máximo, alguns poucos anos de uso. A maior prova disso reside no ciclo incessante de novos medicamentos que surgem e logo desaparecem do mercado.
 
 Nesse sentido, pode-se prever, sem grande margem de erro, que os atuais e aclamados medicamentos para a tuberculose terão uma vida útil de poucos anos. Fica evidente, portanto, que a crença na cura de doenças por meio de remédios não passa de uma ilusão, que serve apenas para enriquecer a indústria farmacêutica. Enquanto a humanidade não despertar para essa verdade, o propalado progresso da medicina não passará de uma falácia. Com efeito, os novos fármacos assemelham-se a modismos passageiros: são lançados com grande alarde, desfrutam de um breve período de notoriedade e, pouco tempo depois, caem no esquecimento.
-
----
-
-# Elucidação sobre as Enfermidades
-
-**Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （四） | **Status:** Unknown
-
-## Elucidação sobre as Enfermidades
-
-Os rins desempenham uma função análoga à da água que lava os objetos. Assim, quando o coração absorve o calor e queima as toxinas, geram-se cinzas. A função dos rins é, portanto, lavar e expelir essas cinzas por meio da água. É por essa razão que, ao sermos acometidos por substâncias tóxicas, ocorrem fortes diarreias ou um volume acentuado de urina. Nesse caso, a urina nada mais é do que a água suja resultante dessa lavagem renal.
-
-Antigamente, acreditava-se que os rins eram os órgãos responsáveis pela produção do sêmen, o que gerou termos como "insuficiência renal". Embora auxiliem nesse processo, não são eles os produtores diretos.
-
-É comum o surgimento de doenças renais após febres altas. Isso ocorre porque as cinzas da combustão gerada pelo calor do coração são eliminadas junto à urina, o que a medicina diagnostica como presença de proteína e considera uma doença. Na verdade, trata-se apenas do resíduo do processo purificador. O fato de o consumo de leite diminuir a presença de proteína na urina deve-se ao enfraquecimento dos rins, que perdem sua capacidade de lavagem.
-
-Ademais, costuma-se dizer que os rins são afetados após quadros de febre tifoide, escarlatina ou amigdalite. Contudo, não é o órgão que adoece; o que ocorre é a eliminação, sob a forma de proteína, dos resíduos da purificação da doença original. Trata-se de um fenômeno extremamente benéfico, que indica uma recuperação iminente. Portanto, a presença de proteína na urina não possui, de modo algum, uma conotação negativa.
-
-Dessa forma, os rins encarregam-se da purificação pelo elemento água, enquanto o coração se ocupa da purificação pelo elemento fogo. Por conseguinte, o coração e os rins desempenham papéis conjugais de suma importância.
-
-Poderíamos também estabelecer a seguinte correspondência: o coração é o fogo; os pulmões, o ar; o estômago, a terra; e os rins, a água. Outra analogia possível é associar rins e pulmões à água, e coração e fígado ao fogo. E ainda, pode-se dizer que o coração é espírito e o fígado é matéria, assim como os pulmões são espírito e os rins, matéria.
-
-Existem diversas enfermidades renais, como a tuberculose renal, o rim atrofiado e a pielonefrite. Frequentemente, o rim atrofiado é diagnosticado erroneamente como tuberculose renal.
-
-A verdadeira tuberculose renal consiste no acúmulo e solidificação de toxinas purulentas no interior do rim direito ou esquerdo, que infeccionam e causam dor. Geralmente, a doença migra para a bexiga, sendo de natureza bastante maligna e provocando a presença de sangue na urina. Da bexiga, pode avançar para a próstata e os testículos, culminando na ulceração destes, quadro que, uma vez instalado, precede a morte em pouco tempo.
-
-É comum a prática cirúrgica de extirpar um dos rins, mas o prognóstico, na maioria dos casos, é desfavorável.
-
-Já no caso do rim atrofiado, o acúmulo de toxinas purulentas comprime o órgão, impedindo seu pleno funcionamento. Em consequência, a urina transborda, e suas toxinas geram edemas ou outros problemas. Para diagnosticar essa condição, basta pressionar com os dedos a região dos rins e suas adjacências; invariavelmente, haverá um ponto dolorido. A medicina denomina as toxinas presentes nessa urina extravasada de ácido úrico; eu, porém, as chamo de toxinas urinárias.
-
-Certo estudioso alemão chegou a afirmar que "todas as doenças são causadas pelo ácido úrico", tese que, ainda hoje, goza de considerável aceitação. O reumatismo que não apresenta vermelhidão e inchaço é causado precisamente por essas toxinas urinárias. Eu o denomino reumatismo de origem renal, e seu tratamento é bastante simples, pois essas toxinas são relativamente fracas e de fácil dissolução.
-
-As toxinas urinárias podem originar toda sorte de enfermidades. Pessoas que sentem os ombros enrijecidos por problemas renais são, na verdade, aquelas em que as toxinas se acumulam nessa região. A sensação de peso e dor nas pernas também se deve ao acúmulo dessas toxinas nas partes inferiores do corpo. O mais comum, contudo, é o acúmulo e a solidificação dessas toxinas no peritônio. Nesses casos, a pressão sobre o abdômen revelará, sem falta, um ponto dolorido.
-
-Essas toxinas também podem causar pleurisia e asma. Assim, um problema renal pode desencadear asma, e esta, por sua vez, uma doença cardíaca. Indiretamente, portanto, os rins podem ser a causa de enfermidades do coração.
-
-Problemas renais podem ainda provocar sintomas semelhantes aos do beribéri. Essa condição é tão frequente que talvez supere os casos de beribéri verdadeiro. Os sintomas, como peso e inchaço nas pernas, assemelham-se aos do beribéri, mas a natureza da doença é completamente distinta. A essa condição, dou o nome de "beribéri renal".
-
-Quando as toxinas purulentas se acumulam ao redor dos rins, a ação purificadora gera febre, quadro denominado nefrite ou pielonefrite. Os sintomas da pielonefrite incluem dor e inchaço na região renal, febre e, como característica marcante, a perda de força nas pernas, chegando à impossibilidade de andar. Trata-se de uma condição de cura extremamente fácil, que geralmente se resolve com duas ou três sessões de terapia.
-
-Com a nossa terapia, as doenças relacionadas aos rins são de tratamento notavelmente simples, e a taxa de cura para a maioria das afecções renais é de cem por cento.
-
-### Diabetes
-
-O diabetes é conhecido pela urina adocicada. Seus sintomas incluem fadiga, sede intensa, grande volume de excreção urinária e micção frequente. A queda dos dentes também é uma característica. Na maioria das vezes, o paciente não descobre a doença por si mesmo, mas é informado por um médico.
-
-Ao examinarmos uma pessoa com essa enfermidade, invariavelmente encontramos acúmulo e solidificação de toxinas purulentas na região que abrange o estômago, o fígado e o peritônio. A causa reside na compressão generalizada das funções desses órgãos. O quadro na região do fígado costuma ser particularmente severo.
-
-À medida que as toxinas solidificadas são dissolvidas, a doença regride gradualmente. É uma enfermidade de tratamento relativamente fácil. O principal indicador de melhora é a diminuição ou o desaparecimento da sede. Pode-se considerar a cura alcançada quando o paciente já não precisa mais urinar durante a noite. Para uma confirmação definitiva, basta realizar um exame de urina com um médico.
-
-### Doenças Intestinais
-
-A doença intestinal mais comum é a apendicite. Com a nossa terapia, a apendicite é curada com notável facilidade. O local afetado, conhecido na medicina como apêndice vermiforme, situa-se a cerca de um ou dois *sun* abaixo e à direita do umbigo. É nesse ponto que as toxinas se acumulam de forma abrupta, gerando dor intensa e febre.
-
-A medicina preconiza que a remoção cirúrgica do apêndice e do pus é indispensável para evitar o risco de morte. Nossa terapia, no entanto, proporciona uma cura surpreendentemente rápida, geralmente completa em duas ou três sessões.
-
-A razão pela qual as toxinas se acumulam no apêndice é que, durante o processo de purificação, aquelas que seriam eliminadas pelas fezes ficam temporariamente retidas ali. A febre alta surge para dissolvê-las e facilitar sua expulsão, que ocorre por meio de diarreia.
-
-Por essa lógica, se o paciente repousar e permitir que a natureza siga seu curso, a cura se dará de forma segura em cerca de uma semana. As pessoas, por desconhecerem esse princípio, preocupam-se e recorrem a tratamentos. A aplicação de compressas frias, em particular, solidifica as toxinas no local, dificultando a cura e podendo até mesmo gerar risco de morte. Isso força a necessidade de uma intervenção cirúrgica. Se algum tratamento for aplicado, as compressas quentes são, sem dúvida, mais indicadas.
-
-Em seguida, a enfermidade mais frequente talvez seja a enterite, que pode acometer o intestino grosso ou o delgado. A primeira é mais grave, a segunda, mais branda.
-
-Existem duas causas para a enterite. Uma é a ação purificadora natural, na qual as toxinas são expelidas sob a forma de diarreia. A outra é a intoxicação por ingestão de substâncias venenosas. Portanto, se uma pessoa apresentar diarreia sem ter ingerido nada tóxico, pode-se concluir que se trata de um processo de purificação. Com a nossa terapia, a cura geralmente ocorre em uma ou duas sessões.
-
-Casos de diarreia crônica decorrentes de doenças pulmonares de longa data são diferentes. A dissolução de toxinas purulentas acumuladas por asma, peritonite ou problemas renais também pode provocar diarreia. Costuma-se falar em inflamação intestinal; quando há febre no intestino, é sinal da presença de toxinas. A aplicação da nossa terapia resolve o quadro de forma harmoniosa.
-
-Quanto à febre tifoide, ainda não tive a oportunidade de tratar um caso. Isso porque a doença se inicia com febre intestinal, mas, ao aplicarmos o tratamento nesse estágio, a febre cede rapidamente. Aparentemente, um quadro que poderia evoluir para febre tifoide acaba sendo curado antes. Ademais, um paciente com diagnóstico confirmado de tifoide seria internado em um hospital e não chegaria até nós.
-
-Existem dois tipos de febre tifoide: a paratifoide e a comum. A paratifoide é mais branda e apresenta erupções cutâneas. A tifoide comum se caracteriza pela febre alta, que pode ultrapassar os quarenta graus por mais de uma semana e levar à morte por hemorragia intestinal.
-
-A causa, segundo a medicina, é a proliferação de bactérias na mucosa da parede intestinal, que abrem pequenos orifícios. O contato de alimentos sólidos com esses orifícios gera febre. Em casos graves, a perfuração avança e causa hemorragia. Considero essa explicação médica correta. A medicina, aliás, trata essa doença sem medicamentos, apenas com dieta líquida e terapia natural, um método seguro e com bons resultados.
-
-Temos também o câncer de intestino, que se desenvolve mais facilmente no reto e pode se estender ao intestino grosso, atingindo grandes proporções. Embora seja considerado incurável, com a nossa terapia seu tratamento é bastante simples. Casos leves levam cerca de um mês para curar; os graves, em torno de três meses.
-
-Na medicina, a cirurgia para o câncer de intestino envolve a perfuração a partir do ânus, o fechamento do local e a criação de um ânus artificial na lateral do abdômen. Desse orifício, as fezes saem continuamente, criando um quadro verdadeiramente desolador. O odor é tão forte que se torna impossível aproximar-se do paciente.
-
-Existem ainda tumores malignos que se formam no intestino. São semelhantes ao câncer e a medicina os chama de sarcoma. Também são considerados de difícil tratamento e quase sempre incuráveis, mas, com a nossa terapia, curam-se tão bem quanto o câncer de intestino.
-
-A tuberculose intestinal manifesta-se como uma diarreia crônica, que pode ser dolorosa ou indolor. Se o paciente não estiver muito debilitado, a cura é fácil e leva de uma a duas semanas. Contudo, em casos de grande debilidade, o tratamento pode ser difícil. Essa doença é comum no estágio final da tuberculose pulmonar, e a palpação do abdômen revela uma temperatura muito elevada. A coexistência com a tuberculose pulmonar indica um prognóstico especialmente desfavorável.
-
-### Peritonite
-
-Existem dois tipos de peritonite: a com acúmulo de água e a com acúmulo de pus. Nesse aspecto, assemelha-se à pleurisia. A forma purulenta é muito mais fácil de tratar. Mesmo casos graves de acúmulo de pus respondem bem ao tratamento e se resolvem de maneira harmoniosa.
-
-Atualmente, a maioria das pessoas sofre de uma forma muito branda de peritonite. É raro encontrar alguém que não sinta dor ao pressionar a região ao redor do umbigo. A presença de dor nesse ponto indica, invariavelmente, o acúmulo e a solidificação de pus no peritônio.
-
-A peritonite com acúmulo de água, se tratada no início, tem boa resposta. Contudo, casos mais antigos não se resolvem facilmente. A causa reside no acúmulo de toxinas purulentas ao redor do fígado, que comprime os rins, fazendo com que a urina transborde para o peritônio. Quando um volume considerável se acumula e permanece por muito tempo, as camadas mais profundas infeccionam e endurecem. Um quadro como esse pode ser considerado praticamente incurável.
-
-A forma mais maligna é a peritonite causada por dor no fígado, que é incurável. Por isso, é necessário verificar se um paciente com peritonite sente dor na região hepática. Se houver dor à pressão, trata-se de uma peritonite de origem hepática. Quando um câncer obstrui o envio de ureia do fígado para os rins, essa substância transborda diretamente do fígado para o peritônio. A urina proveniente dos rins é diluída, mas a que vem do fígado é concentrada, o que explica a gravidade do quadro.
-
-Pacientes que fizeram uso contínuo de diuréticos apresentam uma reação adversa que torna a doença extremamente resistente e de difícil tratamento.
-
-A peritonite pode ser acompanhada de pleurisia, e a pleurisia também pode evoluir para peritonite. Nos casos graves, o abdômen atinge um volume impressionante, maior do que o de uma gestante a termo, a ponto de nos perguntarmos como não se rompe.
-
-O inchaço dos ovários também pode gerar sintomas semelhantes aos da peritonite. A forma maligna dessa condição leva a uma expansão extrema, que pode culminar em rompimento. Se isso ocorrer, a água contaminada é expelida, e a cura sobrevém rapidamente. Nesses casos, a incisão cirúrgica também pode ser eficaz.
-
-### Espasmos Intestinais
-
-Esta é uma doença que causa dor intensa no intestino. Pode ocorrer por intoxicação alimentar ou pelo atrito de toxinas purulentas solidificadas com os movimentos peristálticos do intestino. Este último caso é semelhante ao do espasmo estomacal.
-
-Casos leves se resolvem em uma ou duas sessões; os graves, em cerca de um mês.
-
-### Disenteria
-
-A disenteria é uma das manifestações mais intensas da ação purificadora. Todo o sangue eliminado na disenteria é sangue tóxico. Sendo um processo de purificação, é algo extremamente benéfico. Prova disso é a facilidade com que se cura. Nunca tratei um caso, por mais severo que fosse, que tenha durado mais de cinco dias. No sexto dia, o paciente já está comendo e caminhando. Por ser uma ação purificadora, é certo que a cura virá assim que tudo o que precisa ser expelido sair.
-
-### Cólera
-
-Embora eu nunca tenha tratado um caso, considero a cólera um processo semelhante à disenteria, porém ainda mais intenso. Induzida pela bactéria do cólera, ocorre uma grande ação de eliminação de toxinas, ou seja, uma grande purificação.
-
-Tanto a disenteria quanto a cólera são doenças contagiosas e, por lei, não podemos tratá-las. Pacientes com suspeita de uma dessas doenças devem ser imediatamente encaminhados a um médico.
-
-### Torção Intestinal
-
-Diz-se que, nessa condição, o intestino se torce, causando uma dor excruciante. O paciente não consegue ingerir nem uma gota de água, pois a torção obstrui a passagem intestinal. Após mais de uma semana de sofrimento sem comer nem beber, o desfecho costuma ser fatal. Embora seja considerada uma condição sem salvação, com a nossa terapia, a cura ocorre facilmente em menos de uma semana.
-
-A seguir, falarei sobre as doenças das partes média e inferior do corpo e outras enfermidades.
-
-### Tuberculose da Bexiga
-
-Os sintomas desta doença incluem dor intensa antes e depois de urinar, geralmente acompanhada de algum sangramento. Existem duas causas possíveis: uma é a migração da tuberculose renal; a outra, o desenvolvimento da doença na própria bexiga. A primeira já foi abordada na seção sobre os rins. Quanto à segunda, o processo se inicia com o acúmulo de toxinas purulentas na parte externa da bexiga. Essas toxinas se agravam, assumem um caráter purulento e, gradualmente, invadem o interior do órgão.
-
-O tratamento deve ser direcionado para a área dolorida, mas a cura é extremamente difícil. Isso porque a região afetada pela tuberculose está constantemente em contato com a urina, o que interfere no tratamento. Portanto, é preciso estar preparado para um processo de longa duração. A cura é especialmente difícil nos casos originados da tuberculose renal.
-
-### Cálculo Vesical (Pedra na Bexiga)
-
-Nesta doença, forma-se um tipo de pedra no interior da bexiga, causando dificuldades ou dores ao urinar. A causa reside na bile que extravasa da vesícula biliar, passa pelos rins e chega à bexiga. Ali, ela se combina quimicamente com as toxinas purulentas presentes na urina, formando o cálculo. O princípio é o mesmo da formação de cálculos biliares.
-
-Com a nossa terapia, o cálculo se desfaz gradualmente até a cura, mas o processo exige um tempo considerável. Casos leves levam cerca de um mês; os graves, em torno de três meses.
-
-### Sífilis
-
-A causa e os sintomas desta doença são os seguintes: de uma a três semanas após uma relação sexual impura, surge uma pequena pústula endurecida sob a glande. Na sífilis, essa lesão, conhecida como cancro, é indolor e dura, o que é característico. A doença progride de forma contínua, dando origem a um bubão na virilha, que também é indolor e endurecido. A sequência da enfermidade inclui erupções cutâneas por todo o corpo, perda da voz e queda de cabelo.
-
-Com a nossa terapia, a cura completa é certa. Além disso, o tratamento é surpreendentemente fácil e atinge a raiz do problema. Casos leves levam cerca de um mês; os graves, em torno de três meses.
-
-### Cancro Mole
-
-Esta doença, embora semelhante à sífilis, é completamente diferente e de natureza benigna. Os sintomas são o aparecimento de um cancro dois ou três dias após uma relação sexual impura, seguido pelo surgimento de um bubão na virilha. A característica distintiva é que a doença não avança além disso, não havendo, portanto, as preocupações associadas à sífilis. Tanto o cancro quanto o bubão são dolorosos e de consistência mole.
-
-Com a nossa terapia, a cura é rápida e fácil. Contudo, é preciso ter atenção, pois não é raro que o cancro duro (sífilis) e o cancro mole ocorram simultaneamente.
-
-Como mencionado, o mérito da medicina em diferenciar claramente o cancro duro do cancro mole é digno de louvor. Ambas as doenças apresentam, inicialmente, um pouco de febre. O tratamento leva de uma a duas semanas para casos leves e cerca de um mês para os graves.
-
-### Gonorreia
-
-Esta doença manifesta-se dois ou três dias após uma relação sexual impura, com uma sensação de desconforto na uretra. Começa com uma coceira, evolui para dor ao urinar e, por fim, para uma dor intensa e insuportável, acompanhada de febre considerável. À medida que a doença piora, uma grande quantidade de pus branco é eliminada com a urina. Se a urina for coletada em um copo, ela se mostrará turva e opaca como fumaça.
-
-O pico da doença ocorre geralmente uma semana após o surgimento dos sintomas, e, a partir daí, inicia-se a recuperação gradual. Estatisticamente, esta é uma doença mais comum entre os que consomem bebidas alcoólicas. Há um ditado popular que diz: "Para os abstêmios, a sífilis; para os bebedores, a gonorreia". E, de fato, essa tendência parece ser real.
-
-Durante o tratamento, como a imposição das mãos é inviável, recorremos apenas à terapia espiritual. A forma aguda cura-se rapidamente, mas a crônica exige um tempo considerável.
-
-A gonorreia, uma vez contraída, é considerada pela medicina como incurável por toda a vida, e isso é um fato. Embora a infecção seja causada por uma bactéria, mesmo quando a pessoa parece curada, a bactéria não foi exterminada, apenas teve sua atividade enfraquecida. Ela perdeu sua capacidade de reprodução e contágio, passando, por assim dizer, de um estado animal orgânico para um estado vegetal inorgânico. No entanto, sob o estímulo de fatores impuros, como o consumo de álcool, não se pode garantir que ela não retorne ao estado orgânico e provoque uma recidiva. É por essa razão que a doença tende a se tornar crônica.
-
-Do ponto de vista espiritual, essas doenças venéreas podem ser consideradas uma advertência Celestial contra atos impuros. Portanto, a força que o arrependimento do paciente — sua conscientização do erro e a decisão de não mais repeti-lo — tem para acelerar a cura é surpreendentemente grande.
-
-Por se tratar de uma doença do trato urinário, beber a maior quantidade possível de água para aumentar a frequência da micção tem um efeito de lavagem. Além disso, recomenda-se ferver e tomar um chá de folhas e galhos de pinheiro, pois os componentes da resina do pinheiro agem como se selassem o ninho das bactérias com papel parafinado.
-
-É preciso ter muito cuidado com a natureza migratória desta doença, que pode se estender e causar prostatite, orquite e afecções da bexiga.
-
-À medida que o pico da doença passa, surgem na urina filamentos de pus, do tamanho de fios de algodão, que vão diminuindo de comprimento conforme a cura progride. No entanto, mesmo após a cura completa, esses filamentos podem ser observados por vários anos. O tratamento leva de duas a três semanas para casos leves e de um a dois meses para os graves.
-
-### Prostatite
-
-Esta doença ocorre quando a toxina da gonorreia migra para as partes mais profundas da uretra, atingindo finalmente a mucosa da próstata. Os sintomas incluem dor na área afetada, dor ao urinar e febre. O método de tratamento é o mesmo da gonorreia, mas a imposição das mãos é eficaz. Esta doença requer um tempo considerável para ser curada, geralmente de duas a três semanas para casos leves e de um a dois meses para os graves.
-
-### Orquite (Inflamação dos Testículos)
-
-Esta doença é uma progressão da prostatite, que acaba por afetar os testículos. Os sintomas incluem dor intensa, inchaço e febre nos testículos. Pode ocorrer em apenas um testículo ou em ambos.
-
-Com a nossa terapia, a cura é relativamente fácil e ocorre em pouco tempo. Isso porque, quando a toxina da gonorreia chega aos testículos, ela já foi consideravelmente enfraquecida pela força purificadora. O tratamento leva uma semana para casos leves e de duas a três semanas para os graves.
-
-### Hemorroidas
-
-As hemorroidas apresentam diversos sintomas, como fístula anal, hemorroidas internas e externas, prolapso retal e sangramento.
-
-**Fístula Anal:** Os sintomas consistem na formação de um ou mais orifícios no interior ou na parte profunda do ânus, causados por pus, dos quais há uma drenagem contínua. Pode ser indolor ou dolorosa, sendo a forma dolorosa a mais grave, com casos de dor extrema. Em quadros malignos, a ulceração é tão extensa que se torna difícil até mesmo localizar os orifícios da fístula. A causa é o pus da cárie espinhal, que desce e é expelido pelo ânus. Diz-se que a cura da fístula anal pode levar à tuberculose pulmonar, porque o fechamento da via de drenagem do pus faz com que o corpo busque uma nova saída através dos pulmões. Com a nossa terapia, a cura é certa e harmoniosa, levando de uma a duas semanas para casos leves e de dois a três meses para os graves.
-
-**Hemorroidas Internas e Externas:** Esta doença se manifesta como um tipo de tumor carnoso que pode se desenvolver dentro do ânus (hemorroida interna) ou se projetar para fora (hemorroida externa). Geralmente é acompanhada de alguma dor e tem caráter crônico. A causa é um tipo de acúmulo de pus de baixa intensidade. Com a nossa terapia, a cura completa é alcançada de forma harmoniosa, embora exija um tempo considerável: de duas a três semanas para casos leves e de um a dois meses para os graves.
-
-**Sangramento Hemorroidário:** Também conhecido como fissura anal, ocorre quando a pele do interior do ânus se racha e sangra, causando dor considerável durante a evacuação. A causa é o sangue tóxico do processo de purificação, que desce, acumula-se perto do ânus e é expelido. Trata-se de um fenômeno muito positivo. A cura natural ocorre assim que todo o sangue tóxico é eliminado. Com a nossa terapia, a cura completa é ainda mais rápida, levando cerca de uma semana para casos leves e duas semanas para os graves.
-
-**Prolapso Retal:** Nesta condição, o excesso de carne do ânus se projeta para fora. Em casos leves, pode ser empurrado de volta com o dedo, mas nos graves, o retorno não é fácil, causando grande desconforto. Esse excesso de carne tende a inchar em contato com o ar. As causas são o tempo prolongado de evacuação e o esforço devido à constipação. Portanto, o tratamento consiste em eliminar a causa, ou seja, reduzir o tempo de evacuação para no máximo cinco minutos por vez. Também é benéfico aumentar a ingestão de líquidos para prevenir a constipação. A prática persistente desses dois hábitos por um ou dois anos geralmente leva à cura. Com a nossa terapia, o período de tratamento é reduzido a uma fração ínfima desse tempo.
-
-Existem outras variedades de hemorroidas além das mencionadas, mas, por serem essencialmente semelhantes, serão omitidas.
-
-Independentemente do tipo ou da malignidade da afecção hemorroidária, nossa terapia alcança uma taxa de cura de cem por cento.
-
----
-
-# O Veneno Oculto nos Remédios
-
-**Categoria:** ya | **Ano:** 昭和26(1951)年1月24日 | **Fonte:** Eikou
-**Título Original:** 薬毒 | **Status:** Published
-
-## O Veneno Oculto nos Remédios
-
-Nossa Igreja constantemente adverte sobre os perigos do yakudoku (薬毒). O artigo de jornal que se segue comprova cabalmente este alerta, motivo pelo qual decidimos publicá-lo.
-
-***
-
-**Publicado no Jornal Asahi Shimbun, 6 de dezembro de 1950**
-
-**SUSPENDAM O USO DO MEDICAMENTO**
-**Enfermeira comete erro na preparação de “remédio”**
-
-**Chiba** – Na manhã do dia 5, por volta das oito horas, o Sr. Matsugoro Iwai, presidente da assembleia da vila de Yubi, no distrito de Kaijo, província de Chiba, partiu com outros catorze vereadores em uma viagem de inspeção a clínicas na província de Shizuoka, passando pelas fontes termais de Yugawara. Ao sair, levou consigo um remédio para cólicas estomacais que havia sido preparado pela Sra. Kiyoko Suzuki, enfermeira da clínica da vila.
-
-Ocorre que tal medicamento era uma mistura de bromovalilureia e cloridrato de morfina que, para ser ingerido, necessitava de uma diluição de cem vezes. Por engano, contudo, a enfermeira o diluiu apenas dez vezes antes de entregá-lo ao Sr. Iwai. Ao perceber o equívoco mais tarde e ciente de que a ingestão daquela dose seria fatal, a enfermeira Suzuki, em desespero, notificou a delegacia distrital de Kaiso pouco depois das seis horas da tarde do mesmo dia.
-
-**SÃO E SALVOS, A TEMPO DE NÃO INGERIR A SUBSTÂNCIA**
-**Ação de emergência obtém sucesso**
-
-**Yokohama** – O alerta para suspender o uso do medicamento e localizar o paradeiro do presidente da assembleia, Sr. Iwai, e sua comitiva de vereadores, foi emitido com urgência às seis e meia da tarde do dia 5, pela Sede da Polícia Nacional da Província de Chiba, sendo retransmitido através da Sede da Província de Kanagawa até a delegacia de Yugawara.
-
-Imediatamente, a delegacia local iniciou uma ampla operação, contatando por telefone a associação de pousadas, os pontos de agenciadores de clientes em frente à estação e outros locais, em uma busca frenética por um grupo de hóspedes com “sotaque de Chiba”. Alarmada, a associação de pousadas mobilizou todos os seus contatos e, dez minutos depois, a comitiva de vereadores foi localizada na Pousada Kamada, onde desfrutava de um banho tranquilamente. O policial Inamoto, da delegacia local, contatou imediatamente o Sr. Iwai por telefone, advertindo-o de que o medicamento em sua posse era, na verdade, um veneno letal em uma única dose. Graças a essa rápida ação, todos se salvaram.
-
-***
-
-Este caso evidencia que os medicamentos são, em sua essência, substâncias tóxicas. A dose é o que determina se atuarão como remédio ou como veneno. Neste exemplo, a diluição de dez vezes resultou em uma dose letal, ao passo que a de cem vezes produziria um efeito terapêutico, ainda que temporário.
-
-Cumpre questionar, portanto, por que tal substância “funciona” contra as cólicas estomacais. Primeiramente, é preciso compreender que as cólicas estomacais são, em si, um processo de purificação, cuja causa reside precisamente no acúmulo de medicamentos ingeridos anteriormente.
-
-Ao examinarmos um paciente com cólicas estomacais, constatamos a presença de uma febre sutil na região afetada. Adicionalmente, na parte posterior do corpo, correspondente ao estômago, invariavelmente se encontra um enrijecimento, semelhante a uma placa, que também apresenta uma leve febre. Durante a ministração do Johrei, como a dor se manifesta na parte frontal, é comum que se concentre a energia nessa área. Tal abordagem, contudo, é um tanto imprecisa. A dor pode até diminuir, mas não cessa por completo, pois sua verdadeira causa reside nas costas. Ao ministrarmos Johrei no ponto dorsal correspondente à parte posterior do estômago, a dor desaparece por completo. Embora isso possa parecer surpreendente, há uma explicação lógica e profunda para tal fenômeno.
-
-Ao sentir o menor desconforto estomacal, o ser humano tende a recorrer imediatamente a medicamentos. Após a ingestão, a pessoa geralmente repousa deitada, o que faz com que a substância medicamentosa se infiltre através das paredes do estômago, descendo e solidificando-se na região dorsal. Com o tempo, à medida que mais medicamentos são consumidos, essa massa enrijecida aumenta progressivamente. Quando atinge um determinado volume, inicia-se o processo de purificação. Uma febre sutil dissolve essa massa, e o medicamento liquefeito retorna ao estômago. Nesse momento, porém, sua composição química se alterou, transformando-se em uma toxina de alta potência. A entrada dessa toxina no estômago desencadeia uma reação imediata do órgão, que se contrai vigorosamente na tentativa de expulsá-la. São essas contrações que estimulam os nervos, provocando a dor aguda característica das cólicas. A prova irrefutável disso é que a dor gradualmente se desloca para baixo, percorre os intestinos e, finalmente, a toxina é eliminada através da diarreia.
-
-No caso das cólicas estomacais, o fato de a ingestão do “remédio apropriado” eliminar a dor ocorre porque a substância paralisa o estômago, interrompendo temporariamente o processo de purificação e expulsão. Compreende-se, assim, que tais substâncias não são medicamentos, mas sim agentes que neutralizam a purificação. Seu “efeito terapêutico” nada mais é do que um método paliativo do sofrimento, obtido através da interrupção momentânea da purificação.
-
-Revista Eikou nº 88, 24 de janeiro de 1951
-
----
-
-# O Tratamento das Enfermidades e o Exame do Paciente
-
-**Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 上巻 （五） | **Status:** Unknown
-
-## O Tratamento das Enfermidades e o Exame do Paciente
-
-A partir desta noite, adentraremos finalmente na explanação sobre cada enfermidade em particular.
-
-Antes, porém, gostaria de abordar alguns pontos que servirão de referência no trato com os pacientes. Na medicina convencional, o diagnóstico se baseia, em geral, na percussão, na auscultação e na palpação com os cinco dedos. A auscultação, que consiste em ouvir os sons do corpo, é útil para detectar, por exemplo, os estertores pulmonares em casos de tuberculose. A percussão, por sua vez, é empregada principalmente para verificar anomalias na pleura; ao percutir, um som ressonante indica normalidade, ao passo que um som abafado sugere a presença de líquido acumulado.
-
-Há também a palpação abdominal com as mãos e os dedos. Segundo nossa experiência, este é o método mais eficaz, e sua aplicação não deve se restringir ao abdômen, mas a todas as partes do corpo. Isso porque, em casos como o da peritonite, por exemplo, a causa frequentemente reside nos rins ou no fígado; portanto, é ao apalpar essas regiões que descobrimos a origem da enfermidade. A identificação da causa-raiz das doenças por meio do nosso método terapêutico é, a meu ver, de uma precisão notável.
-
-Contudo, há um ponto que deve ser sempre observado: segundo as normas regulamentares, os praticantes de terapias não estão autorizados a realizar diagnósticos médicos. É-nos permitido apenas tratar os locais onde o paciente sente dor ou desconforto. Rogo que tenham plena consciência dessas limitações e ajam com a devida prudência.
-
-Ao recebermos um novo paciente, a primeira ação é, de imediato, pousar a mão sobre sua testa. Se estiver quente, é uma prova inequívoca da presença de toxinas no sangue. Pessoas nessas condições costumam apresentar sintomas como peso na cabeça ou tonturas.
-
-Em seguida, posicionamos as mãos sobre ambas as têmporas. Se também estiverem quentes, o paciente certamente sofre de dores de cabeça.
-
-Prosseguindo, pressionamos a região das sobrancelhas. Se houver dor, significa que toxinas ali se acumularam, indicando alguma anomalia nos olhos. Se a dor se manifestar ao pressionar a pálpebra superior, a pessoa tem, com certeza, uma enfermidade ocular, causada pela condensação de toxinas no globo ocular.
-
-Eis, em linhas gerais, como se dá a identificação da origem das doenças.
-
-### A Classificação do Corpo Humano
-
-Enquanto a medicina ocidental se divide em diversas especialidades, como clínica geral, cirurgia, ginecologia, pediatria e outras, para fins de conveniência, em nosso método, classificamos o corpo humano em três seções.
-
-Dividimos o corpo em três níveis, como mostra a figura, e cada um desses níveis, por sua vez, é subdividido em três partes.
-
-Começarei a explanação pela parte superior do tronco, ou seja, pelo cérebro.
-
-É possível que minhas explicações divirjam consideravelmente daquelas apresentadas pela medicina, mas essa é uma compreensão que só pode ser alcançada por meio da própria prática terapêutica. Todavia, por conveniência, tomarei emprestados alguns termos e descrições da medicina, o que se faz inevitável.
-
-O cérebro é envolto pela caixa craniana e recobre o cerebelo. Isso ocorre porque todos os órgãos da parte superior do corpo convergem para o cerebelo; em outras palavras, o cérebro existe com a finalidade de proteger o cerebelo, o órgão mais central de todos.
-
-### Cefaleia
-
-Existem diferentes tipos de cefaleia: a que abrange toda a cabeça, a enxaqueca, a dor frontal e a dor na região posterior da cabeça.
-
-As causas são de duas naturezas: uma decorre das toxinas no sangue e a outra, da anemia cerebral. Falarei primeiro sobre a que é causada pelas toxinas.
-
-Este sintoma é extremamente comum na sociedade, manifestando-se em pessoas que sentem dores esporádicas e naquelas que sofrem de dor crônica e incessante. A causa reside na ascensão de toxinas sanguíneas que se acumulam na fronte, na parte anterior da cabeça e em ambas as têmporas. A dor é o resultado da ação purificadora dessas toxinas.
-
-Ao pousarmos a palma da mão sobre as áreas mencionadas do paciente, sentiremos, invariavelmente, calor. Essa é a evidência da presença de toxinas sanguíneas. Com o tratamento, a região esfria, e a diminuição da temperatura corresponde ao alívio da dor.
-
-Já a cefaleia por anemia cerebral é o oposto. A dor ocorre por uma deficiência de sangue no cérebro. Isso se deve a uma condensação de fluidos e pus na região das glândulas do pescoço, que obstrui o fluxo sanguíneo para a cabeça.
-
-A dor na parte posterior da cabeça também pode ser causada por toxinas ou por anemia; uma simples palpação permite discernir a causa.
-
-Com este método terapêutico, casos leves se curam com duas ou três sessões, e os graves, em duas ou três semanas.
-
-### Tontura
-
-A causa deste sintoma é a presença de nódulos endurecidos nos músculos espessos da base do pescoço, como ilustrado na figura. Esses nódulos obstruem o fluxo sanguíneo para o cérebro.
-
-Outra causa é o acúmulo de toxinas em toda a região frontal, o que gera uma febre baixa no local.
-
-Através deste método, casos leves se curam em cerca de uma semana, e os mais graves, em dois a três meses.
-
-### Insônia
-
-Esta enfermidade é causada pela formação de uma condensação de fluidos e pus extremamente resistente em ambos os lados da nuca, que se torna rígida como um tubo de bambu. Embora seja comumente considerada de difícil tratamento, com nosso método terapêutico, a cura progride de forma harmoniosa. Casos leves levam cerca de uma semana para se resolver, e os graves, aproximadamente um mês.
-
-Muitas vezes, a insônia crônica está associada à dependência de soníferos. Portanto, para se alcançar a cura completa, é imperativo que o paciente interrompa o uso de tais medicamentos.
-
-### Enfermidade Mental
-
-A origem desta doença está, inicialmente, na insônia. Pode-se dizer que a insônia é o primeiro passo para a enfermidade mental.
-
-Sendo assim, ao dissolvermos a condensação de fluidos e pus na nuca, o sono é restaurado. Uma vez que a pessoa consiga dormir, a enfermidade mental começa a se dissipar. Por essa razão, em nosso tratamento, a cura de tais enfermidades é sempre alcançada.
-
-Descreverei agora o processo pelo qual a insônia evolui para a enfermidade mental.
-
-A condensação de fluidos e pus na região cervical posterior, que é a causa da insônia, obstrui o fluxo sanguíneo para o cérebro, resultando em anemia no seu centro nervoso. É nessa condição de anemia que um espírito maligno se apossa da pessoa. Essa é uma das causas.
-
-A outra não se trata de possessão externa, mas da ascensão de um espírito maligno que já se encontrava latente no abdômen do próprio paciente. Aproveitando-se da anemia cerebral, ele sobe e ocupa o centro nervoso do cérebro.
-
-Originalmente, o espírito do ser humano mantém um certo grau de densidade em seu estado normal, que é análogo à densidade do sangue de uma pessoa saudável. Contudo, quando, por alguma razão, o volume de sangue diminui, o espírito também se torna rarefeito. É aproveitando-se dessa rarefação espiritual que outro espírito, ou seja, um espírito maligno, consegue se apossar da pessoa, atuando numa espécie de complementação.
-
-Como exemplo, podemos citar a maior propensão a insônia e enfermidades mentais no pós-parto, a ocorrência de histeria durante o período menstrual e a possessão por espíritos como os Tengu (天狗) durante jejuns nas montanhas. Todos esses fenômenos ocorrem porque a rarefação do espírito, causada pela anemia, é explorada.
-
-Quando, além dessas causas físicas, a pessoa sofre um abalo emocional, a insônia se intensifica ainda mais. Isso ocorre porque a anemia se agrava, o que, por sua vez, fortalece o poder do espírito maligno.
-
-Uma vez que o espírito maligno se apossa da pessoa, ele a faz pensar em inúmeros assuntos de forma contínua e ilimitada, pois essa é a sua natureza. Com o tempo, os pensamentos desse espírito se desenvolvem a ponto de se manifestarem em ações, resultando nos diversos comportamentos insanos que desviam da normalidade.
-
-O que a medicina chama de alucinação auditiva é, na verdade, a capacidade de ouvir o que os espíritos dizem. Já a alucinação visual consiste em ver diferentes tipos de espíritos.
-
-Esses espíritos malignos são, na maioria das vezes, espíritos de raposa, embora, em raras ocasiões, possam ser de tanuki e, mais raramente ainda, de ambos.
-
-Quando uma pessoa com enfermidade mental fala sozinha, trata-se de um diálogo entre o espírito de raposa alojado no centro de seu cérebro e outros espíritos de raposa que estão do lado de fora. Nesses casos, o espírito frequentemente se utiliza da memória da própria pessoa.
-
-Quando a pessoa fita o vazio e se assusta, chora ou ri, é porque está vendo espíritos.
-
-Em suma, a enfermidade mental consiste em um ser humano sendo manipulado por um espírito de raposa.
-
-Com nosso método terapêutico, a cura completa é alcançada em um período de seis meses a dois anos.
-
-Na sociedade, atribui-se a causa à sífilis cerebral, mas isso se aplica apenas a uma pequena parcela dos casos. Nossos longos anos de experiência comprovam que a maioria dos casos se deve à causa que acabei de expor.
-
-Cito como exemplo um artesão que trabalhou para mim há algum tempo. Ele era solteiro e, certa vez, veio me pedir um conselho. Disse-me ele: "Ultimamente, as pessoas têm me dito que estou um pouco estranho, mas eu mesmo não percebo. Haveria algo de errado comigo?". Então, perguntei: "Você mesmo não nota nada de estranho?". Ele respondeu: "Sim, algumas coisas. À noite, depois de fechar a porta para dormir (ele alugava um quarto no segundo andar), ouço umas quatro ou cinco pessoas passando pela rua e conversando sobre vários assuntos. Se apuro os ouvidos, escuto-os planejando coisas como: 'Hoje à noite, vamos espancar aquele Ishikawa (o sobrenome do artesão) até a morte'. Assusto-me e saio correndo". Eu lhe disse: "Não é estranho que você, com a porta fechada, consiga ouvir tão claramente o que pessoas caminhando do lado de fora dizem?". Ele insistiu: "Mas eu ouço com muita clareza. E, muitas vezes, quando vou comer, ouço uma voz que diz: 'Isso aí está envenenado, se comer, você morre'. Então, fico com medo e saio correndo. Entro numa casa de soba para comer, e a voz volta a dizer: 'Essa soba tem morfina', e outras ameaças. E assim vou de um lugar para outro". Perguntei-lhe: "Você sabe quem diz essas coisas?". "Não, não sei", respondeu ele. Então, eu o alertei: "Isso é perigoso. É uma raposa que está dizendo essas coisas para enganá-lo, então não acredite nela de jeito nenhum. Da próxima vez que ouvir essa voz, pense que é certamente a raposa e diga a si mesmo: 'Lá vem a raposa tentando me enganar de novo'".
-
-Como resultado, sua vigilância despertou, ele foi melhorando gradualmente e, por fim, curou-se por completo.
-
-Este é um exemplo real de uma pessoa que se curou apenas com minhas palavras, pois o caso ainda estava em seu estágio inicial.
-
-Quando a raposa tem sua verdadeira identidade revelada, ela perde o interesse em enganar.
-
-É comum que pessoas em estado de desequilíbrio conversem quando não há ninguém por perto ou fujam assustadas sem motivo aparente. Isso ocorre porque um espírito ocupa o espírito da pessoa e, em conluio com outros espíritos de raposa, a engana.
-
-À medida que o espírito humano é gradualmente dominado, até mesmo o rosto da pessoa pode começar a se assemelhar ao de uma raposa.
-
-Na sociedade das raposas, quanto mais habilmente se engana um ser humano, maior a honra.
-
-Existem dois tipos de raposas: as do tipo Inari (稲荷), que são cultuadas, e as do tipo Yako (野狐), que são, por assim dizer, errantes. Estas últimas estão constantemente maquinando para serem cultuadas.
-
-Os praticantes ascetas da Escola Nitiren, ao acumularem práticas, tornam-se capazes de ver e se comunicar com as raposas. Eles convocam as raposas errantes e lhes prometem: "Se você curar tal doença, eu o consagrarei como uma divindade Inari". A raposa, ansiosa por ser cultuada, se esforça ao máximo para curar a doença e, uma vez que a cura acontece, ela exige ser consagrada.
-
-Tanto as raposas Yako quanto as Inari existem em grande número, e quanto mais hábeis em enganar, mais progridem em sua hierarquia.
-
-As raposas também têm nomes diversos, que os praticantes da Escola Nitiren costumam lhes atribuir.
-
-Existem também muitos espíritos familiares, os chamados Kenzoku. O santuário Anamori Inari, por exemplo, abriga dezenas de milhares deles, que atuam principalmente no mundo do entretenimento e da prostituição. São muito hábeis em atrair patronos ou homens charmosos.
-
-Quanto mais elevada a posição de uma raposa, mais sofisticadas são suas artimanhas.
-
-Em Tóquio, temos os santuários de Anamori e Oji; na região de Kansai, o de Fushimi. As raposas de Anamori atuam no mundo do entretenimento, enquanto as de Oji se dedicam a assuntos mais gerais. As raposas da região de Toyokawa, por não terem dificuldades materiais, costumam praticar relativamente poucas maldades. A especialidade das raposas de Toyokawa é fazer as pessoas ganharem dinheiro; por isso, é um fato que os devotos de Toyokawa Inari, embora prosperem financeiramente, enfrentam muitas doenças e outros infortúnios.
-
-Certa vez, ouvi de uma raposa que, quanto mais se ouve o mantra "Namu Myoho Renge Kyo", mais seus poderes sobrenaturais aumentam. E é verdade que, quando se entoa o Daimoku, muitas raposas se reúnem.
-
-Por essas razões, é inevitável que haja muitos casos de possessão por raposas e um grande número de transgressores entre os seguidores da Escola Nitiren.
-
-Já os tanuki são mais difíceis de lidar, e a cura é mais lenta. A diferença é perceptível à primeira vista: o tanuki tem um ar ingênuo e cômico, uma certa transcendência, e uma forte tendência a rir.
-
-A raposa apenas se diverte ocupando o cérebro humano e manipulando a pessoa. Além disso, ela gosta de tirar a vida humana e induz ao suicídio com uma facilidade impressionante. Para ela, quanto mais pessoas matar, maior sua honra e mais elevada sua reputação entre seus pares. Matar um ser humano é algo trivial para elas, e muitos dos que se atiram na frente de trens ou no Monte Mihara o fazem por sua influência.
-
-As raposas também percebem facilmente o que os humanos estão pensando. É por isso que os praticantes ascetas muitas vezes acertam o que dizem. O que acontece é que a raposa a serviço do praticante se apossa da outra pessoa. Assim, a raposa rapidamente compreende os sentimentos e as memórias daquela pessoa. Em seguida, ela retorna ao praticante e lhe transmite a informação. O praticante então repete o que ouviu, e por isso acerta. Desse modo, eles conseguem saber o passado, mas são completamente ignorantes quanto ao futuro. É por isso que, apesar de acertarem tantas coisas, esses praticantes levam uma vida modesta: eles não conhecem o futuro.
-
-Movimentos como levantar as mãos, balançar a cabeça ou adotar posturas estranhas são quase sempre causados pela possessão de um espírito de raposa ou de ave. Eles se proclamam como "Eu sou Hachiman Daibosatsu", "Sou tal e tal Daimyojin", e os mais audaciosos chegam a dizer "Eu sou Ame-no-Minakanushi-no-Okami" ou "Amaterasu Omikami". Tudo isso não passa de raposas e tengu dizendo o que lhes vem à cabeça para enganar as pessoas. O indivíduo possuído acaba se superestimando e acreditando ser Amaterasu Omikami ou Ame-no-Minakanushi-no-Okami, o que é extremamente perigoso. Portanto, é melhor não se envolver com possessões divinas.
-
-Há cinco ou seis anos, visitei um certo hospital psiquiátrico. O médico de lá me disse: "Aqui no hospital, não conseguimos curá-los de fato. Mesmo que pareçam ter melhorado, ao voltarem para casa, a doença retorna".
-
-Nosso método é uma terapia espiritual, e por isso o espírito de raposa se retrai gradualmente. Normalmente, ele permanece encolhido no centro do abdômen. Durante o tratamento, é comum sentir algo se movendo e pulsando na região do umbigo; esse é o espírito de raposa.
-
-O espírito de serpente tem como característica mover-se, alongando-se e encurtando-se.
-
-No caso da histeria, no momento de um choque emocional, o espírito da pessoa se contrai. Aproveitando essa brecha, o espírito de raposa que se alojava no abdômen sobe subitamente, ocupa o cérebro e manipula a pessoa. Muitas mulheres relatam sentir algo como uma esfera subindo do abdômen nesses momentos; é exatamente isso. O cérebro é como um microcosmo do corpo inteiro; portanto, ao dominar o centro do cérebro, é possível controlar o corpo todo.
-
-Após algum tempo, à medida que a pessoa se acalma, o espírito de raposa retorna ao seu lugar original no abdômen, e a consciência da pessoa se restabelece.
-
-Pelas razões expostas, a enfermidade mental pode ser considerada uma histeria contínua, e a histeria, uma enfermidade mental temporária.
-
-Não são apenas as mulheres; há também homens possuídos por raposas. O rosto dessas pessoas costuma se assemelhar ao de uma raposa.
-
-Com o tratamento, o sangue aflui em abundância à cabeça, o que fortalece o poder espiritual da pessoa. Em contrapartida, o espírito de raposa se retrai. Com isso, a pessoa volta a dormir, e sua consciência se torna mais clara. Essa é a sequência da recuperação.
-
-Analisando os espíritos de raposa, vemos que existem vários tipos. Mesmo entre os Inari e os Yako, há tanto aqueles que foram humanos e se tornaram raposas, quanto as raposas originais. Há um número considerável de casos em que espíritos humanos caíram no reino animal e se tornaram raposas.
-
-Contudo, para que um espírito possua um ser humano, é preciso que haja, invariavelmente, um laço de afinidade na linhagem espiritual da pessoa. Sem essa conexão, a possessão não é possível.
-
-Há quatro ou cinco anos, tratei de uma senhora idosa que estava possuída por vinte ou trinta raposas. Elas se escondiam em várias partes do corpo, na forma de pequenos grãos. Quando eu inseria energia espiritual pela ponta do meu dedo, uma voz dizia: "Ai, que dor, que dor! Não aperte assim, não aguento!". Eu perguntava à senhora: "Doeu tanto assim?", e ela respondia: "Não senti nada. Quem está falando é a raposa".
-
-Quando eu pressionava um dos esconderijos da raposa, a voz gritava: "Ah, me achou, me achou! Finalmente me encontrou! Que pena, que pena!". Eu repreendia: "Sua criatura insolente!", e inseria energia espiritual. A voz então suplicava: "Ah, que sofrimento! Socorro, socorro! Já vou sair, por favor, me perdoe!".
-
-Certo dia, ao entardecer, a senhora me disse: "Mestre, estou em apuros. Hoje de manhã, uma voz me disse: 'Essa velha é muito atrevida, hoje vou impedi-la de urinar'. E, desde então, não consigo urinar de jeito nenhum". Então, apliquei pressão espiritual na região de sua bexiga. A voz gritou: "Me rendo, me rendo!", e imediatamente a urina foi liberada.
-
-### Hemorragia Cerebral
-
-A causa desta condição é a condensação de toxinas sanguíneas em ambos os lados da coluna cervical até o bulbo raquidiano.
-
-Isso ocorre quando pessoas com grande quantidade de toxinas no sangue utilizam excessivamente o cérebro. O homem moderno, por consumir muita carne, acumula mais toxinas. Quando essa pessoa usa muito o cérebro, os nervos se concentram nessa região, fazendo com que as toxinas ali se condensem. Em alguns casos, a condensação se solidifica como um câncer; trata-se de uma hemorragia cerebral que não chegou a ocorrer, tendo se solidificado do lado de fora. Quando o acúmulo de toxinas ultrapassa um certo limite, os vasos sanguíneos se rompem, e o sangue vaza para o cérebro. Isso afeta os diversos órgãos localizados no cerebelo, manifestando-se como perda de consciência. Quando a pessoa recobra os sentidos, já está com o corpo paralisado.
-
-Curiosamente, como a condensação de toxinas ocorre apenas do lado direito ou do esquerdo, os sintomas da doença também se manifestam invariavelmente em apenas um lado do corpo. Se a hemorragia ocorre do lado direito, o lado esquerdo do corpo fica paralisado; se ocorre do lado esquerdo, a paralisia atinge o lado direito.
-
-A medicina interpreta a paralisia como o rompimento dos nervos que conectam o cérebro aos membros, mas isso parece ser um equívoco, pois, através de nosso método terapêutico, a cura é possível.
-
-Portanto, a prevenção da hemorragia cerebral é simples: basta purificar as toxinas acumuladas na nuca, e a doença jamais ocorrerá.
-
-Como método preventivo, realiza-se o tratamento por uma ou duas semanas iniciais e, depois, duas ou três vezes por mês, durante cerca de seis meses. Isso garantirá proteção por aproximadamente cinco anos.
-
-No caso de uma hemorragia cerebral, os primeiros sintomas são uma enxaqueca intensa, febre e vômitos. Tais sintomas devem ser vistos como o prelúdio do derrame. Quanto mais frequentes os vômitos, mais gravemente o cérebro está sendo afetado.
-
-A pessoa perde completamente o apetite e expele uma saliva viscosa.
-
-Vômitos pouco frequentes indicam um caso leve; portanto, a forma mais segura de avaliar a gravidade da doença é pela quantidade de vômitos. Se ocorrerem quatro ou cinco vezes ou mais, o caso deve ser considerado grave.
-
-Em seguida, a pessoa perde a consciência, permanecendo nesse estado de uma ou duas noites, nos casos mais rápidos, a até duas semanas, nos mais longos. No momento da hemorragia, os membros de um dos lados do corpo ficam inertes. No entanto, se o nosso tratamento for aplicado imediatamente após o ocorrido, de cada dez pessoas, dez invariavelmente se curam. Mesmo os membros paralisados geralmente se recuperam por completo em cerca de duas semanas.
-
-Pode-se estimar a cura total em aproximadamente um mês. É um poder de cura verdadeiramente extraordinário.
-
-Os sinais precursores de uma hemorragia cerebral são: pressão alta, rigidez no pescoço e nos ombros, dormência ou dor nas pontas dos dedos das mãos, zumbido nos ouvidos, enxaqueca e tontura.
-
-O tratamento consiste em aplicar a terapia na coluna cervical, no bulbo, no cerebelo e em outras áreas que estiverem quentes, doloridas ou paralisadas.
-
-### Concussão Cerebral
-
-É comum que as pessoas sofram uma concussão cerebral ao cair de lugares altos ou tropeçar. Mesmo em casos de concussão, se não houver vômito, significa que não há dano interno no cérebro. Se, no entanto, os vômitos forem frequentes, isso indica hemorragia interna, e a vida da pessoa deve ser considerada em risco.
-
-Se ocorrerem dois ou três episódios de vômito, a hemorragia interna é pequena, e o risco de vida é geralmente baixo. Contudo, se houver cinco ou seis episódios ou mais, o perigo é iminente.
-
-### Encefalite Letárgica, Meningite e Meningite Espinhal
-
-A causa da encefalite letárgica não se restringe às toxinas; há também uma mistura de pus. Portanto, é completamente diferente da hemorragia cerebral.
-
-Na maioria das pessoas, há uma certa quantidade de pus que se infiltra no terço superior da coluna vertebral. Casos graves disso constituem a cárie espinhal.
-
-Ao observar a coluna de tais pessoas, nota-se uma depressão nesse local. Se percutirmos a área, há dor. Isso ocorre porque o pus vaza constantemente dali, impedindo o desenvolvimento adequado.
-
-Costuma-se dizer que o osso apodrece, mas isso nunca acontece. O que ocorre é que o pus, em sua tentativa de ser expelido, perfura o osso com inúmeros pequenos orifícios. Com nosso método terapêutico, o pus é dissolvido e desaparece, e os orifícios se fecham.
-
-A quantidade de pus da cárie varia muito de pessoa para pessoa. Pleurisias e peritonites purulentas também têm essa origem, assim como tumores e fístulas anais.
-
-A causa primordial disso reside nas máculas e pecados dos antepassados, que fluem espiritualmente para o centro do cérebro e ali se materializam como pus.
-
-Quando o pus está sendo expelido, é como se ele estivesse ponderando se deve subir ou descer.
-
-Nesse momento, se a pessoa usa excessivamente o cérebro ou se expõe ao sol de verão, o pus sobe. Todo pus tende a se acumular em locais de concentração nervosa ou em áreas aquecidas.
-
-A esse respeito, tratei um paciente com uma doença ocular. O médico lhe disse para "fazer compressas quentes". Ele o fez todos os dias, e o resultado foi que todo o pus das redondezas se concentrou no globo ocular, que ficou completamente coberto por uma massa branca de pus. Isso aconteceu porque o aquecimento excessivo atraiu todo o pus adjacente para o olho. Fiquei impressionado com a intensidade dos sintomas, que eram realmente assustadores.
-
-Quando o pus sobe e atinge o cerebelo, a pessoa sente uma sonolência extrema. Essa é a encefalite letárgica.
-
-Existem pessoas na sociedade que, ocasionalmente, sentem sono por mais que durmam. Trata-se do mesmo sintoma descrito acima: pequenas quantidades de pus estão penetrando no cerebelo, configurando, por assim dizer, uma forma muito branda de encefalite letárgica.
-
-Há também casos em que o pus se acumula um pouco antes de chegar ao cerebelo. Essa é a meningite espinhal.
-
-O pus que invade o cerebelo na encefalite letárgica é expelido e curado através do percurso mostrado na figura. Por isso, durante a recuperação, uma grande quantidade de secreção ocular e nasal misturada com sangue é eliminada.
-
-A razão pela qual as pessoas morrem dessa doença é o resfriamento da área afetada com gelo. Isso impede a expulsão do pus, que acaba se solidificando dentro do cérebro.
-
-Certa vez, curei um caso de meningite cérebro-espinhal em um menino de cerca de dez anos. A febre não cedia de jeito nenhum. Ao tocar o centro de sua nuca, senti um calor intenso, e ele se queixava de dor ao pressionar o local. A própria criança demonstrava incômodo naquela região. Comecei a purificar aquele ponto, e ele se curou de forma progressiva.
-
-Se a doença avançar mais e o pus penetrar no cérebro, ela se torna meningite ou encefalite letárgica. Na meningite, o pus é maligno, enquanto na encefalite, o pus é misturado com toxinas sanguíneas e é mais fraco.
-
-Se tratada no início, a meningite tem cura garantida. Tenho um exemplo de um menino de cinco anos, desenganado pelos médicos, que estava em coma há uma semana devido a uma meningite e que se recuperou completamente.
-
-(Julho de 1936)
-
----
-
-# A longevidade centenária pela eliminação do yakudoku
-
-**Categoria:** ya | **Ano:** 昭和27(1952)年5月7日 | **Fonte:** Eikou
-**Título Original:** 薬毒皆無になれば百歳以上生きる 医学断片集（８） | **Status:** Published
-
-## A longevidade centenária pela eliminação do yakudoku
-
-Os fiéis estão cientes de que a causa primordial de todas as enfermidades reside no yakudoku (薬毒). Por conseguinte, a saúde humana está condicionada à sua eliminação, e é precisamente neste ponto que reside o propósito do Johrei: atenuar a presença dessas toxinas.
-
-Portanto, a recuperação da saúde ocorre na exata medida em que o yakudoku é dissolvido. Nesse sentido, se o ser humano se tornasse completamente isento de yakudoku, ninguém mais faleceria em decorrência de doenças.
-
-O passamento dar-se-ia por morte natural; isto é, tal como uma árvore que, ao completar seu ciclo de vida, fenece, a pessoa partiria para o Mundo Espiritual. Nessas condições, não resta a menor dúvida de que todos poderiam viver para além dos cem anos de idade.
-
----
-
-# A Inevitabilidade da Imperfeição
-
-**Categoria:** ya | **Ano:** 昭和24(1949)年9月3日 | **Fonte:** -
-**Título Original:** 厄介な世の中 寸評（光25号） 白光生 | **Status:** Published
-
-## A Inevitabilidade da Imperfeição
-
-É comum que, ao interpretar equivocadamente ou criticar nossa Fé, certas pessoas manifestem o vício de exagerar unicamente seus pontos negativos. Contudo, indaga-se: existirá, neste mundo, algo que seja absolutamente perfeito?
-
-Por melhor que algo seja, é inevitável que, de dez virtudes, possua ao menos um defeito. Existem, todavia, aqueles que, em suas maliciosas campanhas difamatórias, ocultam deliberadamente os nove aspectos positivos para fazer crer que a única falha representa a totalidade da obra.
-
-Trata-se de uma artimanha contra a qual devemos manter-nos sumamente vigilantes.
-
----
-
-# Da Gentileza e do Recato
-
-**Categoria:** ya | **Ano:** 昭和25(1950)年10月25日 | **Fonte:** Eikou
-**Título Original:** 優しさと奥床しさ | **Status:** Published
-
-## Da Gentileza e do Recato
-
-Ao observarmos o ser humano contemporâneo, percebemos que as qualidades mais ausentes são, porventura, a gentileza e o recato.
-
-Neste texto, abordarei a questão sob a ótica de nossa Igreja. Existe, por exemplo, um padrão simples para aferir o progresso da própria fé e o grau de polimento do espírito. O indivíduo deixa, acima de tudo, de se comprazer em contendas; em seu íntimo, brota a gentileza e manifesta-se o recato. Somente quando se atinge tal estado de coração e atitude é que se pode considerar o espírito polido, e é neste ponto que se revela o valor supremo da fé. Uma pessoa assim transformada passa a ser amada e reverenciada por todos, tornando-se uma divulgação tácita de nossos princípios.
-
-Contudo, ao lançarmos o olhar sobre o mundo de hoje, notamos uma carência gritante de tais virtudes. Por toda parte, deparamo-nos com práticas odiosas como a caça a defeitos alheios, o ódio e a recriminação. O recato, em especial, parece ter desaparecido por completo no homem moderno. Tudo se resume a um egoísmo exacerbado, a uma ostentação vulgar e a uma argumentação pedante. A indiferença quanto a ser malquisto pelos outros nada mais é que o reflexo de um liberalismo que descambou para o individualismo. O mais deplorável, no entanto, é a conduta em relação ao próximo: a indiscrição, o sectarismo e uma assombrosa falta de compaixão humana. Com a proliferação de pessoas assim, a sociedade torna-se sombria e gélida, e o número de pessimistas aumenta incessantemente. Não seria esta, aliás, uma das causas do recente aumento de suicídios?
-
-Portanto, uma verdadeira sociedade civilizada surge quando se multiplicam aqueles que prezam valores como o código de cavalheirismo britânico ou a filantropia americana, permitindo que a moralidade social floresça e crie um ambiente agradável e digno de se viver. Se tal sociedade representa o Paraíso Terrestre, então o Paraíso se encontra, em verdade, ao nosso alcance.
-
-Analisando a questão por outro prisma, vemos que o turismo é hoje aclamado como matéria de máxima urgência na política nacional. Embora as instalações materiais sejam, de fato, muito necessárias, causar uma boa impressão aos visitantes estrangeiros é uma necessidade ainda maior. Isto porque, no trato com eles, a combinação de três elementos é fundamental: gentileza, recato e asseio. Eis aqui a mais poderosa ferramenta para atrair visitantes, e que não custa um único centavo. A condição basilar para formar seres humanos com tais qualidades é, inegavelmente, a fé. É sob essa diretriz que nossa Igreja avança resolutamente.
-
----
-
-# A Verdadeira Medicina
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 真の医学とは
-**Título Original:** 薬害の実例 | **Status:** Published
-
-## A Verdadeira Medicina
-
-O testemunho de graça a seguir é uma prova irrefutável de quão plena a saúde humana pode se tornar por meio do Johrei. Apresento-o, portanto, como um exemplo prático de tal realidade.
-
-Gostaria que o leitor comparasse este caso com os métodos de saúde preconizados pela medicina moderna. Com efeito, ouso afirmar que, por mais vasto que seja o mundo, não existe uma única criança que tenha alcançado um estado de saúde tão ideal por meio de tais práticas médicas. O ponto mais crucial deste exemplo, e nem seria preciso mencioná-lo, é a completa ausência de medicamentos no organismo da criança. Este fato, por si só, demonstra que a construção de um mundo sem doenças — o lema de nossa Igreja — é uma meta isenta de qualquer dúvida.
-
-Esta publicação é enviada a cada edição ao Ministério da Saúde, às redações dos principais jornais e a outras esferas da classe intelectual. Sendo assim, é improvável que não a leiam. Contudo, se, mesmo após a leitura, suas mentes não forem instigadas à reflexão, tal apatia seria, de fato, algo absolutamente incompreensível. Não é preciso ponderar muito para concluir que a barreira do preconceito, sob o pretexto de se tratar de uma religião, é o que os impede. Todavia, nossa missão é romper essa muralha com o Poder Divino e salvar as almas infelizes que sofrem neste mundo, uma tarefa que, por certo, não é fácil.
-
-Tal situação me traz à mente uma analogia: é como estender a mão para socorrer as multidões que gemem no inferno, apenas para vê-las rechaçar o auxílio ou fechar os olhos para não enxergar a ajuda. Diante de tamanha ignorância, faltam-me as palavras.
-
-Ah, pobres almas! Apetece-me dizer: vosso nome é "Crentes na Superstição Científica".
-
-## A saúde de uma prematura desenganada pelos médicos
-
-Província de Shizuoka, Igreja Kan'nari
-Ichikawa Noriko (14 anos)
-
-Gostaria de relatar meu profundo agradecimento pela salvação que recebi de Meishu-Sama.
-
-Nasci prematura, aos sete meses, e a partir do meu sexagésimo segundo dia de vida, sofri com doenças por dois anos e quatro meses. Após ser desenganada pelos médicos em três ou quatro ocasiões, fui finalmente salva. Aos cinco anos de idade, recebi o Ohikari e, desde então, sob sua proteção diária, jamais precisei recorrer a um médico. Sempre que adoecia, recebia Johrei de minha mãe imediatamente e logo me recuperava.
-
-Neste ano, não peguei um único resfriado e não tive sequer uma tosse. Na escola, durante um exame de raios X, meus pulmões estavam tão límpidos que fui a única a ser examinada duas vezes. Em ambas as ocasiões, o resultado foi perfeito, para a surpresa dos professores. Houve também um exame de fezes, no qual não foi encontrado um único ovo de lombriga, o que me poupou de ter de tomar aquele desagradável remédio à base de algas. No final de fevereiro, meus olhos ficaram muito irritados, vermelhos como um peixe cru, e eu lacrimejava e tinha coriza constantemente. Cerca de um mês depois, tive um sangramento nasal abundante e, em seguida, meus olhos se tornaram mais claros e límpidos do que antes. Sinto-me verdadeiramente feliz por isso.
-
-No outono passado, durante o festival de esportes da escola, participei da corrida de duzentos metros. Em meu coração, orei a Meishu-Sama, pedindo-Lhe que me desse forças para competir e me permitisse ganhar um prêmio. Conquistei o segundo lugar e, como forma de gratidão, ofereci o prêmio que recebi a Daikomyo-Nyorai e elevei minhas preces de agradecimento. Em outra ocasião, durante uma sessão de cinema na escola, orei diante do Altar para que meus colegas não me dissessem nada desagradável. Ao chegar, ninguém me importunou, o que me trouxe um grande alívio.
-
-Sou grata por Vossas inúmeras proteções.
-
-Meu pai tem a permissão de servir em Atami, na construção do Solo Sagrado, e minha mãe dedica-se diariamente a ministrar Johrei às pessoas doentes e aflitas, retornando tarde da noite. Contudo, como descanso diante da Imagem da Luz Divina, não sinto a menor solidão. Minha mãe sempre diz que sou "uma filha cuja vida foi prolongada por Deus" e, todas as noites, ministra-me Johrei antes de eu dormir. Eu, Noriko, também desejo crescer logo para ter a permissão de me tornar uma ministra de Johrei.
-
-Muito obrigada, Meishu-Sama. Expresso minha mais profunda gratidão.
-
----
-
-# A Barbárie da Medicina
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 野蛮なる医学 未発表 | **Status:** Unpublished
-
-## A Barbárie da Medicina
-
-Ao ler o relato da evolução deste paciente, assombro-me cada vez mais com a natureza sobremaneira bárbara da medicina moderna, a ponto de, ao final da leitura, sentir-me verdadeiramente estarrecido.
-
-Contudo, não se trata de imputar culpa aos médicos. Afinal, com base na ciência que aprenderam ao longo de muitos anos e em sua vasta experiência, eles se empenham em curar o paciente, convictos de que aplicam a melhor terapia existente. Destarte, não seria justo recriminá-los. Todavia, a realidade é que, quanto mais se esmeravam em seus esforços, mais os resultados os traíam, e o quadro clínico se agravava inexoravelmente. A situação chegou a tal extremo que o paciente, em desespero, decidiu pôr fim à própria vida, ingerindo Calmotin. Por um desígnio do destino, contudo, embora tenha entrado em estado de coma temporário, logrou, por um triz, sobreviver.
-
-Um fato ainda mais assombroso é que, diante do quadro inicial, um médico diagnosticou o problema no rim direito, enquanto outro o atribuiu ao rim esquerdo. Sem que chegassem a uma conclusão definitiva, procederam à cirurgia e, para sua surpresa, constataram que nenhum dos órgãos estava em condição que justificasse a intervenção. Apressadamente, então, apenas suturaram a incisão. Trata-se de uma leviandade inacreditável. O sacrifício imposto ao paciente em decorrência de tal ato é imenso, mas o privilégio dos médicos de se eximirem de qualquer responsabilidade é igualmente notável.
-
-Em contrapartida, ao observarmos que mesmo um caso de tamanha gravidade, uma vez recebido o Johrei, começa a apresentar melhora progressiva, com a saúde sendo restabelecida dia após dia, percebemos que a salvação proporcionada pelo Johrei é, em si, um grandioso evangelho. Com efeito, o júbilo do paciente e de seus familiares é tão intenso que é impossível ler seu relato sem se comover às lágrimas.
-
-Entretanto, é verdadeiramente insondável que a sociedade, alheia a essa patente ineficácia da medicina, continue a nela depositar sua confiança. Em face desse contraste, torna-se insofismável quão sublime e eficaz é a arte de cura que constitui o nosso Johrei.
-
----
-
-# O Engano dos Remédios e a Verdadeira Causa das Doenças
-
-**Categoria:** ya | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 薬毒の害 未発表 | **Status:** Unpublished
-
-## O Engano dos Remédios e a Verdadeira Causa das Doenças
-
-Conforme elucidei no tópico anterior, o pecado do ser humano transforma-se em mácula na alma. Essa mácula, por intermédio do coração, converte-se em nuvem no espírito, e o processo de purificação dessa nuvem manifesta-se como doença. Sendo assim, torna-se sobremaneira evidente que não pode existir outro método para curar as enfermidades senão a dissolução dessas nuvens.
-
-Contudo, no Ocidente com Hipócrates e no Oriente com o célebre Shennong (神農), observou-se que a administração de medicamentos ou ervas medicinais aos doentes proporcionava um alívio temporário de seu sofrimento. Por considerarem tal efeito benéfico, eles se tornaram os precursores da arte médica, e foi nesse exato momento que o equívoco fundamental teve origem. De fato, ao empregar um remédio e constatar a diminuição momentânea do sofrimento, concluiu-se ingenuamente que aquele seria o método correto para sanar as doenças. Considerando os limites do intelecto humano daquela época, tal pensamento era até compreensível. O que se afigura verdadeiramente espantoso é o obscurantismo que permitiu a persistência desse engano até os dias de hoje.
-
-Todavia, com o meu nascimento, a solução para a doença — essa fonte de infelicidade da humanidade — tornou-se uma realidade. Adentramos, portanto, uma era verdadeiramente abençoada. Por conseguinte, a civilização passará por uma reviravolta de cento e oitenta graus, e a concretização de um mundo ideal é, sem dúvida, uma certeza.
-
-Como exposto, a humanidade vem introduzindo medicamentos em seu organismo desde tempos remotos, de modo que o homem moderno, invariavelmente, padece de intoxicação medicamentosa. E embora já o tenha mencionado, reitero: sendo os medicamentos substâncias tóxicas, eles permanecem no corpo e se convertem em agentes patogênicos. A medicina, contudo, supõe que o yakudoku (薬毒) desaparece naturalmente, incorrendo em um erro gravíssimo. Na realidade, a regra é que o yakudoku (薬毒) não se extingue enquanto houver vida.
-
-A esse respeito, permitam-me relatar minha própria experiência. Há trinta e seis anos, precisei extrair alguns dentes para colocar uma prótese. O dentista aplicou um desinfetante no local da extração, o que deu início a uma dor de dente. Para saná-la, recorri a outros medicamentos, mas a dor apenas se intensificava. Consultei, sucessivamente, renomados dentistas, mas ninguém conseguia resolver o problema, e eu me vi em um beco sem saída. O fato de ter extraído quatro dentes nesse processo revela a gravidade da minha situação. Mesmo assim, a cura não vinha, e o yakudoku (薬毒) chegou a afetar meu cérebro, levando-me à beira da loucura ou do suicídio.
-
-Contudo, como se o Céu ainda não me houvesse abandonado, um certo acontecimento revelou-me que a causa de tudo era o remédio. A partir de então, abandonei os tratamentos odontológicos e, gradualmente, a dor foi cedendo. É surpreendente que, ainda hoje, uma leve dor persista, obrigando-me a ministrar Johrei em mim mesmo quase que diariamente. Essa experiência demonstra claramente que o yakudoku (薬毒) não desaparece nem mesmo após décadas.
-
-O exposto acima deixa claro que os medicamentos jamais se extinguem do corpo. Qual a razão para isso? O Criador, ao conceber o ser humano, proveu-o também de alimentos e de tudo o que é necessário à sua subsistência. Para tanto, Ele imbuiu de poder o solo, os mares e os rios; não apenas as plantas e os minerais, mas também o ar, o Sol, a Lua e as estrelas foram criados com esse propósito. Os alimentos, por sua vez, obedecem a certas condições. Ou seja, há uma distinção entre o que deve e o que não deve ser ingerido. Por essa necessidade, foi concedido ao homem o paladar, e aos alimentos, o sabor. Existe uma vasta gama de alimentos, todos criados para se adequarem à saúde humana e ao seu meio. Por exemplo, quando o corpo necessita de sal, sentimos vontade de comer algo salgado; quando precisa de açúcar, desejamos algo doce; quando precisa de líquidos, sentimos sede. A Natureza foi projetada para que a necessidade desperte o desejo.
-
-O sistema digestivo também foi criado para operar segundo condições específicas. Assim, tudo o que é comestível é devidamente digerido, mas aquilo que não o é, permanece no corpo sem ser processado. Por esse princípio, os medicamentos, sendo corpos estranhos, não são digeridos. Com o tempo, eles se deterioram e se transformam em toxinas. A ação para expelir essas toxinas é a doença. Logo, a causa primordial da doença é, sem rodeios, o próprio medicamento. O catarro, a secreção nasal, o suor, o pus e o sangue impuro são, todos, manifestações do yakudoku (薬毒) em transformação. No mundo, não há nada mais temível que os remédios.
-
-Desconhecendo esse princípio, a humanidade, na tentativa de curar as doenças, acabou por criá-las. É preciso que todos se deem conta do equívoco monumental que vêm cometendo. De fato, poderia haver história mais insensata? Se apenas este fato fosse revelado à humanidade, o alívio que traria seria imenso, dispensando maiores explicações. Mais do que qualquer outra coisa, peço que os especialistas céticos comparem meus ensinamentos com a realidade das doenças. Constatarão que neles não há um pingo de erro.
-
-Como se pode depreender do que foi dito, a interpretação equivocada sobre a doença, mantida pela humanidade ao longo dos tempos, tornou-se a causa primordial não só da incapacidade de solucioná-la, mas, ao contrário, da criação e multiplicação de novas enfermidades. Ademais, esse equívoco é também a origem da pobreza e da guerra. Portanto, enquanto não se dissipar esse obscurantismo, a verdadeira civilização jamais poderá nascer. Consequentemente, a saúde do homem moderno é incomparavelmente inferior à do homem da era primitiva, livre do yakudoku (薬毒). Registros e documentos diversos atestam que, na era sem medicamentos, a expectativa de vida superava comumente os cem anos.
-
-Eu mesmo não acreditava na famosa história de que Takenouchi no Sukune (武内宿禰) viveu trezentos e seis anos. Contudo, há alguns anos, ao analisar a árvore genealógica de sua família, constatei que o fato é verídico. Entre seus ancestrais, o mais longevo viveu trezentos e quarenta e nove anos, seguido por outro de trezentos e vinte e poucos anos e um terceiro de trezentos e dez e poucos. Se bem me lembro, Takenouchi no Sukune era o quarto da lista. Esse período se estende de dois mil a aproximadamente mil e seiscentos ou setecentos anos atrás, o que certamente precede a introdução da medicina chinesa no Japão. Os registros também são claros ao mostrar que, desde o Imperador Jinmu e por mais de mil anos, a longevidade dos imperadores quase sempre ultrapassava os cem anos.
-
-Recentemente, comemora-se um ligeiro aumento na expectativa de vida nos Estados Unidos e no Japão. Contudo, a causa não reside no avanço da medicina, mas em outro fator que abordarei posteriormente. O essencial, por ora, é compreender que a origem de todas as doenças é o yakudoku (薬毒). Minhas inúmeras experiências atestam, com absoluta certeza, que toda dor, coceira, febre, mal-estar e qualquer outro sofrimento causado por doenças têm como única origem o yakudoku (薬毒). Isso inclui as microtoxinas hereditárias e as toxinas congênitas de enfermidades como a hanseníase, a varíola, o sarampo e a coqueluche.
-
-Mais importante: é provável que, entre os homens de hoje, não haja sequer uma pessoa em cada dez completamente isenta de doenças. Para onde quer que se olhe, todos portam alguma enfermidade. Famílias onde ninguém adoece são consideradas uma raridade, e lares nos quais um ou dois membros não precisem de internação ao longo do ano são quase inexistentes. Da mesma forma, são raríssimas as pessoas que passam um ano inteiro sem tomar uma gota de remédio. O homem moderno tornou-se tão frágil que seu temor às doenças é extremo, e os custos, a ansiedade e o esforço despendidos por causa delas geram impactos de enorme magnitude.
-
-Sendo assim, se lançássemos ao mar todos os medicamentos existentes no mundo, posso afirmar categoricamente que, a partir desse momento, as doenças começariam a diminuir gradualmente e, em algumas décadas, um mundo sem enfermidades se tornaria realidade.
-
-A seguir, passarei a dissertar sobre as principais doenças, iniciando pelas três funções basilares do corpo humano: o coração, os pulmões e o estômago.
-
----
-
-# A Origem Interior das Aflições
-
-**Categoria:** ya | **Ano:** 昭和24(1949)年11月26日 | **Fonte:** -
-**Título Original:** 病は内から外へ ・医学談片集 | **Status:** Published
-
-## A Origem Interior das Aflições
-
-A medicina postula que os agentes patogênicos invadem o corpo a partir do exterior. Nossa concepção, todavia, é diametralmente oposta, pois sustentamos que a doença consiste na expulsão de toxinas do interior para o exterior.
-
-Curiosamente, esta teoria se harmoniza com a filosofia do comportamento humano. De um lado, há a corrente de pensamento que atribui a prática do mal a fatores externos, transferindo, assim, a culpa para outrem. Em contrapartida, a perspectiva oposta sustenta que a maldade emana do coração equivocado do próprio indivíduo, o qual assume para si a responsabilidade por seus atos.
-
-As consequências de cada uma dessas mentalidades são manifestas. Aqueles que transferem a culpa a terceiros carecem de espírito de sacrifício, nutrem ressentimento, amaldiçoam a sociedade e se tornam pessoas descontentes. A proliferação de indivíduos com tal índole inevitavelmente conduz à formação de uma sociedade sombria.
-
-Em oposição a isso, quando os seres humanos possuem um forte espírito de sacrifício, perdoam as falhas alheias, vivem em harmonia com a sociedade e interpretam todas as coisas com benevolência, emerge um mundo pleno de calor humano e amor.
-
-Exorto-os, portanto, a refletir profundamente sobre o significado do que foi exposto. Ao fazê-lo, a essência de Nosso propósito se revelará com absoluta clareza.
-
----
-
-# Um Exemplo Concreto do Veneno dos Remédios
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬毒の一実例 未発表 | **Status:** Unpublished
-
-## Um Exemplo Concreto do Veneno dos Remédios
-
-Que os remédios, longe de curarem, são na verdade os próprios causadores das doenças, preservando-as e agravando-as gradativamente, é um fato que se torna evidente. Contudo, por não se darem conta dessa realidade, as pessoas continuam a depositar sua confiança na medicina, crendo em seu suposto progresso. Tal insensatez talvez supere a dos povos primitivos.
-
-Dentre essas enfermidades, as doenças estomacais são notórios exemplos de males fabricados pelos próprios remédios, condenando os pacientes a um sofrimento que perdura até a morte. É uma situação verdadeiramente lastimável. O paciente em questão padeceu por mais de duas décadas em virtude desse ciclo. Diante disso, não seria exagero afirmar que os remédios são, em sua essência, inimigos da humanidade.
-
-A medicina que ignora tal verdade torna-se, portanto, cúmplice do inimigo, permitindo que este exerça sua tirania sem qualquer restrição. Talvez essa afirmação cause espanto, mas a simples reflexão sobre o assunto já é motivo para nos fazer estremecer.
-
-Portanto, é desnecessário dizer que a simples conscientização sobre o veneno contido nos remédios revela uma ameaça incomparavelmente mais aterradora que o conflito entre Estados Unidos e União Soviética, o qual hoje amedronta o mundo inteiro.
-
-Ah, o anseio de levar esta verdade a toda a humanidade, com a máxima urgência, é algo que me aflige o coração, dia e noite, sem cessar.
-
----
-
-# A Civilização Bárbara
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年3月25日 | **Fonte:** Eikou
-**Título Original:** 野蛮なる文明 | **Status:** Published
-
-## A Civilização Bárbara
-
-Ao se deparar com este título, talvez o leitor o considere um tanto peculiar. Todavia, não encontrei expressão mais adequada para o que desejo expor. Comecemos, pois, por definir o que é civilização. Embora suas condições sejam múltiplas, a primeira e mais fundamental é, sem dúvida, a garantia da segurança da vida humana, indissociável de uma mentalidade que repudia a violência. A segunda consiste na plena vigência da racionalidade em todos os âmbitos do Estado e da sociedade. A seguir, discorrerei sobre esses pontos.
-
-Conforme mencionei, enquanto não houver um sentimento de segurança quanto à vida humana, a palavra "civilização" não pode existir em seu verdadeiro sentido. Isso se traduz, fundamentalmente, em um mundo onde se possa viver sem jamais adoecer e onde não haja guerras. É somente na concretização desse ideal que a humanidade poderá usufruir das benesses da civilização e alcançar a felicidade, seu anseio mais profundo. Por essa razão, o objetivo primordial de nossa Sekaikyuseikyou é formar seres humanos livres da doença.
-
-Nesse sentido, desde antes da era cristã, a humanidade devota a máxima atenção ao problema das enfermidades. Com o advento da medicina ocidental nos tempos modernos e seu espantoso progresso, a humanidade passou a acreditar que ela era a única solução. Consequentemente, nações do mundo inteiro a adotaram, chegando ao estado que hoje todos conhecemos. Contudo, como sempre afirmo, tal progresso é meramente aparente; na prática, seus efeitos são quase nulos, como os fatos demonstram com clareza. Basta observar: a proliferação de doentes por toda parte é a prova cabal disso. Doenças malignas como tuberculose, hemorragia cerebral, câncer, transtornos mentais e poliomielite, além de diversas enfermidades infecciosas, mantêm a sociedade em um estado de constante clamor por soluções.
-
-Isso nos leva a uma reflexão indispensável: como era a saúde dos povos em eras bárbaras e primitivas, quando a medicina não existia? Interpretando a questão sob a ótica da teoria médica atual, o cenário seria o seguinte: naquela época, a ausência de medicina e higiene tornaria as pessoas suscetíveis a doenças, que as levariam à morte em massa. Sem conhecimento sobre nutrição, a desnutrição enfraqueceria seus corpos, incapacitando-os para trabalhos forçados ou jornadas longas. A falta de meios de transporte os fatigaria rapidamente, tornando impensável a exploração de novas terras. Segundo essa lógica, foi graças ao surgimento de tratamentos e remédios que o ser humano adquiriu a saúde de que desfruta hoje. A conclusão seria que, quanto mais a medicina avançar, mais a saúde aumentará. E mais, com o progresso das cirurgias, a maioria das doenças poderia ser resolvida pela simples extração de órgãos, o que traria grande tranquilidade.
-
-Se tal lógica prevalecesse, o Criador seria uma figura bastante inepta. Afinal, por que teria Ele criado órgãos supérfluos como o apêndice, dois rins quando um bastaria, ou estruturas inúteis como as amígdalas e as adenoides? Nós, humanos inteligentes, tratamos de remover tais perigos. Todavia, até mesmo esses homens, em sua arrogância beirando a loucura, são criaturas de Deus, que certamente deve franzir o cenho diante de tamanha ingratidão. A simples reflexão sobre esse ponto já revela o nível de discernimento dos cientistas.
-
-Ademais, a obsessão com germes leva a um frenesi de desinfecção e esterilização. Grandes hospitais são erguidos por toda parte, com inúmeros leitos, gerando um custo colossal em recursos financeiros, mão de obra e tempo, o que certamente eleva a carga tributária. Esse poderia ser o mundo ideal do ponto de vista da medicina, mas qual seria o resultado para as doenças? Para responder, examinemos a saúde dos povos antigos. A história, as lendas e os documentos revelam, e os vestígios arqueológicos permitem inferir, que eles possuíam uma robustez física incomparavelmente superior à do homem moderno. Isso corrobora a tese que sempre defendo: a medicina enfraquece o ser humano e gera doenças. Portanto, a medicina moderna, embora aparente progresso, na verdade amplia o sofrimento humano, constituindo-se uma força antagônica à civilização.
-
-Passemos agora à questão da guerra. Antes de mais nada, cumpre esclarecer que a guerra é o mais pernicioso legado da era bárbara. Originalmente, os bárbaros são os seres mais próximos dos animais; em suma, são metade homens, metade feras. Uma análise atenta do homem civilizado contemporâneo, porém, revela que, em seu íntimo, a diferença não é substancial. De fato, sua aparência é extremamente culta, sem vestígios de barbárie. No entanto, como mencionado, uma bestialidade selvagem e um forte instinto de luta persistem no fundo de seu coração. Os dois grandes blocos que hoje se confrontam, a América e a União Soviética, assemelham-se a um tigre e um leão que se encaram, mostrando as presas, prestes a se atacar. A única distinção é que, sendo humanos, agem de forma mais inteligente: utilizam armas avançadas, elaboram estratégias sob uma organização coletiva e apenas aguardam o momento oportuno.
-
-O que torna a situação ainda mais perversa que a dos animais é o seguinte: se um tigre e um leão lutam, o resultado é o embate de uma vida contra outra. Com os homens, a dinâmica é outra. O mentor do conflito se mantém em segurança, enquanto centenas de milhares de vidas humanas são sacrificadas para se decidir um vencedor. Dessa forma, tanto o lado vitorioso quanto o derrotado erguem montanhas de cadáveres, o que, em termos de resultado, demonstra que a barbárie humana supera a dos animais.
-
-Por fim, analisemos o grau de racionalidade presente na sociedade atual. Superficialmente, as nações dispõem de constituições, sistemas político-econômicos e estruturas sociais elaboradas com o ápice do intelecto e da erudição, parecendo impecavelmente constituídas. Contudo, a barbárie daqueles que as administram manifesta-se por toda parte. Basta que as máscaras caiam para que a profusão de irracionalidades se revele de forma assombrosa. Tomemos como exemplo o parlamento de certas nações: a troca de insultos e a balbúrdia são de tal ordem que se tornam insuportáveis, assemelhando-se mais a um encontro de rufiões de rua do que a uma assembleia de homens que deveriam possuir um nível cultural elevado. Embora o sistema parlamentar em si seja uma estrutura racional, a barbárie o destrói.
-
-Os membros dos partidos, por sua vez, parecem priorizar os próprios interesses, seguidos pelos do partido e, somente em terceiro lugar, pelos do povo. É lamentável que indivíduos assim, que se vangloriam de ser a elite da nação, ajam dessa maneira. O mesmo ocorre com as eleições. As leis e a fiscalização são, no papel, extremamente rigorosas e detalhadas, mas isso é apenas fachada. Na prática, contornar as brechas da lei é considerado um sinal de inteligência.
-
-O mesmo se aplica ao Japão, que se regozija por ter se tornado uma nação democrática. A realidade, entretanto, é surpreendentemente diversa. A arrogância burocrática e o desprezo pelos direitos humanos, que são constantemente noticiados pelos jornais, demonstram um comportamento antidemocrático em um grau que um observador externo dificilmente poderia imaginar. Não há outra forma de descrever tal quadro senão como uma civilização exterior e uma barbárie interior. Os escândalos de suborno e corrupção, de conhecimento público, são apenas a ponta do iceberg.
-
-O que expus até aqui, de forma espontânea e sem maiores delongas, já é suficiente para que o restante possa ser inferido. Analisando o conjunto, como afirmei no início, a sociedade atual possui apenas um verniz de civilização, enquanto em seu interior ainda reside uma expressiva barbárie. Creio, portanto, que o título deste artigo não contém nenhum equívoco.
-
----
-
-# A Revelação Divina sobre a Saúde
-
-**Categoria:** ya | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 薬毒 自観叢書10編 | **Status:** Published
-
-## A Revelação Divina sobre a Saúde
-
-Até hoje, conforme exposto anteriormente, a humanidade ignorava que a doença é um processo de purificação, concentrando-se unicamente em suprimi-lo. Essa supressão consiste, evidentemente, em fazer o organismo regredir a um estado anterior à manifestação purificadora. Sob a ótica da verdade, tal ato se resume a uma palavra: insensatez. Com efeito, iludiram-se ao crer que o método de cura consistia em impedir, a todo custo, o processo pelo qual a natureza se esforça para expelir as toxinas. Trata-se, portanto, de uma abordagem diametralmente oposta à realidade. Nesse sentido, pode-se afirmar que a medicina, até os dias de hoje, tem se empenhado arduamente para *não* tornar as pessoas saudáveis.
-
-Mas por que se incorreu em semelhante equívoco? Como o processo de purificação acarreta sofrimento, o uso de medicamentos, ao proporcionar um alívio parcial desse desconforto, levou à crença de que a doença estava sendo curada. Em suma, as pessoas foram ofuscadas por um efeito transitório e, de forma inconsciente, desviaram-se do verdadeiro caminho da medicina, chegando à situação atual. Não é de surpreender, portanto, que os medicamentos tenham passado a ser considerados o único recurso disponível. Em virtude disso, a medicina, que por tanto tempo avançou com base nos fármacos, não representa a autêntica arte de curar e, por não proporcionar a cura genuína, embora aparente fazê-lo, assiste-se ao surgimento incessante de novos remédios. Consequentemente, a variedade de medicamentos existentes hoje ascende, provavelmente, à casa das centenas ou milhares. O fato de que, ainda agora, o surgimento de novas drogas não cessa, é uma prova eloquente do que foi exposto.
-
-Tendo a medicina sucumbido a essa superstição farmacológica, é natural que, ao expormos hoje que a causa das doenças reside nos próprios medicamentos, a ideia pareça tão insólita que se torna praticamente inacreditável.
-
-É comum ouvir de pacientes crônicos a queixa de que os remédios e as injeções não surtem mais efeito. Sempre que escuto tal afirmação, respondo da seguinte maneira: “Dizer que o remédio não funciona é um engano colossal. Se de fato não funcionasse, não haveria motivo para preocupação. A verdade, porém, é que ele funciona até excessivamente bem. Contudo, não atua para o bem, e sim para o mal. Isso ocorre porque o medicamento gera a doença. Se a humanidade deixasse de utilizá-lo, as enfermidades certamente desapareceriam”. Diante disso, creio não haver, em toda a história, questão mais surpreendente e de maior magnitude. É por essa razão que acredito que conscientizar as pessoas sobre o yakudoku é o primeiro passo para a salvação da humanidade, e por isso o prego de forma categórica.
-
-Portanto, afirmo: não existe um único remédio sobre a face da Terra. Tudo é veneno. Um medicamento é considerado eficaz na medida em que, por meio do veneno, debilita o corpo humano e interrompe a purificação. Eu sempre digo que não há segredo para criar um novo fármaco e obter lucro com ele. Basta criar um veneno forte, em um grau que não seja letal; por ser muito eficaz em seus efeitos, será aclamado e, com certeza, se tornará um sucesso de vendas. Com base nesse princípio, declaro sem qualquer hesitação: por mais que novos medicamentos surjam no futuro, nenhum deles será capaz de curar verdadeiramente as doenças. As injeções, tão em voga ultimamente, nada mais são do que venenos de uma potência tal que causariam intoxicação se ingeridos. É por essa razão que seu efeito é mais acentuado que o dos remédios de uso oral.
-
-E qual é a consequência desse alívio temporário do sofrimento, obtido por meio do veneno medicamentoso? A resposta é que esse veneno permanece no organismo. A medicina alega que, embora alguns fármacos possam ter efeitos colaterais, seus resíduos tóxicos são totalmente eliminados. Não há erro maior que este. Isso se deve ao fato de que a ciência médica ainda não progrediu o suficiente para descobrir a existência do yakudoku. A razão é simples: a capacidade digestiva do corpo humano foi projetada para processar exclusivamente os alimentos concedidos pela natureza. Substâncias estranhas a essa ordem não podem ser metabolizadas. Na verdade, a maravilha da Criação se resume na palavra ‘natureza’. Sendo os medicamentos substâncias estranhas que o corpo não consegue processar, seus resíduos venenosos permanecem quase integralmente no organismo. Com o passar do tempo, eles se acumulam e se solidificam em diversas partes do corpo, tornando-se a origem de todas as enfermidades.
-
-A prova mais clara disso é que, quanto mais tratamentos médicos uma pessoa recebe, mais doenças desenvolve e mais seu estado de saúde se agrava. O surgimento de doenças secundárias é outra consequência direta desse processo. Com efeito, na tentativa de curar uma enfermidade, acabam surgindo duas, depois três... É uma experiência com a qual os próprios médicos certamente se deparam com frequência. Ora, se os medicamentos fossem verdadeiramente eficazes, a sequência lógica não seria a inversa? Três doenças deveriam se tornar duas, depois uma, até desaparecerem por completo. É verdadeiramente espantoso que um fato tão evidente tenha passado despercebido por tanto tempo.
-
-Pelo princípio exposto, quando uma pessoa adoece, se simplesmente deixar a natureza seguir seu curso, na maioria dos casos, a cura ocorrerá. Se a recuperação não for rápida, é sinal de que há um grande acúmulo de yakudoku. Nessas situações, com a devida paciência, o organismo gradualmente se encaminhará para a cura. É o curso natural. A medicina, no entanto, ignorando esse princípio, insiste em forçar a cura por meios artificiais. Quanto maior seu esforço, mais adverso é o resultado, levando o paciente a um estado cada vez mais grave, que culmina na morte.
-
-Ó, como encontrar palavras para descrever a magnitude do equívoco da medicina? É impossível calcular os bilhões de vidas que foram sacrificadas ao longo de milênios por desconhecimento desse princípio. O fato de eu ter realizado esta descoberta significa que o tempo predestinado chegou e que Deus, para a salvação da humanidade, a revelou por meu intermédio. Isso anuncia que o ideal de um mundo sem doenças, almejado por toda a humanidade, está prestes a se concretizar.
-
----
-
-# A Verdadeira Natureza das Doenças Causadas por Medicamentos
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬毒（ 二） 未発表 | **Status:** Unpublished
-
-## A Verdadeira Natureza das Doenças Causadas por Medicamentos
-
-Abordarei, a seguir, os sintomas das toxinas medicamentosas. Dentre os padecimentos causados pela coceira, o da varíola é, sem dúvida, o mais atroz. A causa dessa enfermidade reside na herança de toxinas medicamentosas, que são expelidas através da pele por meio da purificação. Contudo, mesmo após a cura, as pústulas deixam cicatrizes desagradáveis, razão pela qual a doença é tão temida. Embora a vacinação permita evitar tais marcas, o veneno original não desaparece do organismo. Ele apenas tem sua expulsão interrompida, e as toxinas remanescentes convertem-se na origem de diversas outras patologias.
-
-Um exemplo notório é a sarna. Ao se contrair sarna, a coceira é excruciante e os sintomas em nada diferem dos da varíola. Pode-se, pois, considerar a varíola genuína como uma manifestação aguda, e a sarna, como sua forma crônica. A urticária, por sua vez, também é, evidentemente, uma manifestação de toxinas medicamentosas, sendo a intoxicação por cálcio a causa preponderante. Uma análise atenta revelaria imediatamente essa verdade; contudo, por um motivo inexplicável, a medicina convencional ignora o fato e atribui a causa ao intestino. Presume-se que tal equívoco decorra da confusão com os sintomas semelhantes aos da urticária que surgem em casos de intoxicação por peixes ou carnes, o que é um completo disparate. Enquanto a intoxicação alimentar se resolve espontaneamente em dois ou três dias, aquela causada pelo cálcio pode persistir por meses ou até mesmo anos. Nesse sentido, afirma-se frequentemente que o cálcio é benéfico para crianças em fase de crescimento por ser um componente ósseo, mas tal alegação é igualmente desprovida de fundamento. Se assim fosse, gostaria que me explicassem como pescadores e lavradores de antigamente, cuja dieta se restringia a verduras e arroz, possuíam ossos robustos e um físico admirável.
-
-Passando às doenças mentais, a medicina as atribui à sífilis e administra injeções de Salvarsan, uma prática que, na realidade, produz o efeito inverso. Minha longa experiência revela um número surpreendentemente elevado de casos de distúrbios mentais causados justamente pelo Salvarsan. Este é um fato que a própria ciência médica poderia constatar, se apenas se dedicasse a investigá-lo. Ademais, afirma-se que os tratamentos médicos são ineficazes para as doenças mentais, e isso ocorre porque sua verdadeira origem é espiritual, de modo que atacar unicamente o corpo físico de nada adianta.
-
-As enfermidades gástricas, por sua vez, são o exemplo por excelência de doenças criadas pelos próprios medicamentos. Dentre elas, a úlcera gástrica é causada por digestivos, os quais invariavelmente contêm bicarbonato de sódio. Essa substância torna a parede estomacal flácida e amolecida. O contato com alimentos sólidos provoca fissuras e sangramentos. Outro processo ocorre quando o sangue se infiltra através das partes mais delgadas da mucosa, acumula-se no fundo do estômago e é expelido de uma só vez por meio de vômito ou diarreia. Em certos indivíduos, o sangue envelhece e é eliminado nas fezes na forma de pequenos coágulos escuros. O aspecto mais problemático, no entanto, é que o tratamento médico — baseado em dietas líquidas e repouso — acaba por cicatrizar a lesão na mucosa. O paciente, acreditando estar curado, mal sabe que este é, frequentemente, o estágio inicial do câncer. Isso ocorre porque o ponto onde o sangue impuro se acumulava para ser expelido é bloqueado pela cicatrização. Esse sangue, agora represado, se solidifica, dando origem ao que se chama de câncer. Todavia, não se trata de um câncer genuíno. A distinção é clara: durante uma cirurgia, a presença de coágulos sanguíneos indica um pseudocâncer, ao passo que o câncer verdadeiro não apresenta sangue.
-
-A gastroptose, ou queda do estômago, também resulta do consumo de digestivos e de alimentos de fácil digestão, pois, com isso, a atividade gástrica diminui, o órgão torna-se preguiçoso e, por fim, flácido. A causa, portanto, é a própria ignorância humana que cria tal condição. Por essa razão, basta ingerir alimentos que exijam esforço digestivo, como um ochazuke com conservas, para que o estômago seja forçado a trabalhar novamente. A cura, quer se queira, quer não, é uma consequência natural.
-
-Vejamos agora a formação dos cálculos biliares. O processo se inicia quando as toxinas medicamentosas, solidificadas na parte externa posterior dos rins, começam a se dissolver devido à purificação e se infiltram na vesícula biliar. Ali, elas se unem à bile, formando os cálculos. A passagem desses cálculos pelo ducto biliar provoca dores agudíssimas. Posteriormente, eles podem descer até os rins, tornando-se cálculos renais, e em seguida para a bexiga, onde se transformam em cálculos vesicais. O mais grave é que, tanto nos rins quanto na bexiga, os cálculos estão imersos na urina. Partículas de urina aderem a eles, fazendo-os crescer continuamente. Como resultado, o cálculo pode obstruir a uretra, causando retenção urinária, inchaço abdominal e, em casos extremos, até a morte. O fato notável a respeito dessa doença é que, por meio do Johrei, os cálculos são pulverizados, transformam-se em uma espécie de areia e são facilmente expelidos, promovendo uma cura simples e rápida.
-
----
-
-# A Natureza Venenosa dos Remédios
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬毒（一） 未発表 | **Status:** Unpublished
-
-## A Natureza Venenosa dos Remédios
-
-Aprofundarei, a seguir, a explanação sobre a natureza venenosa dos remédios. Conforme explanei anteriormente, todos os remédios são, em sua essência, venenosos, e sua função é paralisar o processo de purificação por meio do próprio veneno. Creio que já se tornou claro, em linhas gerais, que tal processo se converte na origem de inúmeras enfermidades.
-
-Contudo, é preciso saber que existem duas categorias de medicamentos: os de origem chinesa e os de origem ocidental. Visto que cada qual possui particularidades, é fundamental compreendê-las. Naturalmente, suas eficácias também divergem. Tomemos como exemplo a medicina chinesa. Seus componentes, como é sabido, provêm de raízes e cascas de plantas. Reza a lenda que, na China, durante a dinastia Han Anterior, surgiu um grande sábio, quase uma divindade, chamado Shinnō (神農). Ele desenvolveu um método para curar as enfermidades que consistia em colher diversas plantas das montanhas e dos campos e administrá-las como remédio. Ao observar que o sofrimento dos doentes diminuía, concluiu que havia encontrado a verdadeira cura para os males, e essa prática perpetuou-se até os nossos dias.
-
-Evidentemente, se mesmo em nossos dias a maioria das pessoas ignora que os remédios são venenos, quanto mais naquela época remota. Afinal, por proporcionarem um alívio, ainda que momentâneo, da dor, as pessoas passaram a crer em sua eficácia, crença esta que perdura até hoje.
-
-Ademais, os remédios chineses são consumidos em grandes quantidades. Consequentemente, mesmo que a toxicidade de cada dose seja baixa, o dano acumulado revela-se surpreendentemente grande. Para agravar a situação, há quem os ingira como se fossem chá, o que torna o problema ainda mais sério. É possível identificar facilmente os usuários contínuos de tais medicamentos, pois sua compleição é caracteristicamente pálida. Presume-se que a tonalidade amarelada da pele, comum entre os chineses, se deva a esse fator.
-
-O impacto que esses remédios exercem sobre os rins também é considerável, tornando-se a causa de edemas. É comum observarmos mulheres de meia-idade ou mais velhas com um inchaço de tonalidade azulada; pode-se afirmar, sem margem de erro, que esta é a causa. A dor decorrente da intoxicação por esses medicamentos manifesta-se, em geral, como uma dor surda.
-
-No passado, era comum que as mulheres dos bairros de gueixas e cortesãs consumissem ervas como *dokudami* e *nindō* como uma espécie de remédio de uso contínuo. O motivo era a sua suposta eficácia na prevenção de doenças venéreas, o que, em realidade, se devia à sua capacidade de paralisar o processo purificador que se manifesta em erupções cutâneas, como eczemas e tumores. A mesma origem se aplica a moléstias outrora comuns entre as mulheres, como as cólicas agudas conhecidas como *shaku*, a presença de tênias (*subaku*) e a sensibilidade crônica ao frio. De modo análogo, a condição masculina denominada *senki*, caracterizada por dores nos testículos, compartilha da mesma causa.
-
-Adicionalmente, enfermidades que acometem ambos os sexos, como espasmos estomacais, beribéri, reumatismo e cardiopatias, também derivam do mesmo princípio.
-
----
-
-# A Aterradora Realidade do Yakudoku
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年4月1日 | **Fonte:** Eikou
-**Título Original:** 薬毒の恐ろしさ （２） | **Status:** Published
-
-## A Aterradora Realidade do Yakudoku
-
-Tenho reiterado à exaustão a terrível natureza do yakudoku (薬毒), a ponto de me causar enfado. O relato de graça que se segue, todavia, é de uma clareza tão meridiana que julguei necessário acompanhá-lo deste prefácio. O paciente em questão gozava, a princípio, de boa saúde, padecendo unicamente de uma piorreia alveolar. Trata-se de uma condição que se resolveria naturalmente com o tempo, se deixada à própria sorte. Contudo, em sua ignorância sobre o assunto, ele submeteu-se docilmente às prescrições médicas. Por meio de uma sucessão de medicamentos, novas enfermidades foram sendo criadas em seu corpo, uma após a outra. Mesmo em meio ao sofrimento, ele não se dava conta da causa, até que finalmente se viu em um beco sem saída.
-
-É uma felicidade que ele tenha sido salvo por nossos ensinamentos. Ao ponderar, entretanto, que, se não tivesse conhecido nossa Igreja, teria partido para o outro mundo em agonia, faltam-me palavras para descrever o que sinto. E, no entanto, o homem moderno, alheio a essa verdade, utiliza com entusiasmo toda sorte de remédios, celebrando o lançamento de cada novo e supostamente maravilhoso fármaco. Para nós, que observamos tal cenário, a cena provoca-nos calafrios. Por essa razão, lutamos e nos esforçamos dia e noite, orando a Deus para que possamos, o quanto antes, dissipar a cega ilusão que envolve a medicina e os seus venenos.
-
-***
-
-**Recebendo a Sobrevida para meu Pai, que Desenvolveu uma Úlcera Gástrica a partir de uma Piorreia**
-
-*Relato de Inokado Kayoko (29 anos), da Igreja Nakamu, Província de Shizuoka*
-
-*Neste mundo, não há bem mais precioso que a vida;*
-*A ela me apegarei, buscando prolongar meus dias.*
-
-*Mesmo a enfermidade que a vida ameaça,*
-*Que alegria imergir na graça, uma vez curado!*
-
-Meu pai sempre fora abençoado com uma saúde robusta, a ponto de jamais ter ficado um único dia de cama por motivo de doença. Ocasionalmente, contudo, era acometido por crises de piorreia alveolar, o que o levou a tomar medicamentos como Diseptal e Albargin, muito populares na época como anti-inflamatórios. Foi então que seu estômago e intestinos, dos quais tanto se orgulhava pela fortaleza, começaram a apresentar alterações. Ele passou a sentir dores estomacais quando em jejum, um sintoma clássico de hiperacidez gástrica.
-
-Em decorrência disso, deu início ao uso contínuo de diversos remédios para o estômago, como Tomosan e Normosan, mas o resultado foi o surgimento de uma diarreia persistente. Para combater esse novo mal, recorreu ao “gennoshoko”, uma erva conhecida por sua eficácia contra a diarreia.
-
-Até então, meu pai era uma pessoa que comia de tudo com grande apetite e prazer. Após essa sucessão de medicamentos, porém, sua alimentação tornou-se extremamente restrita, seu apetite diminuiu drasticamente, sua fisionomia se abateu e todo o seu vigor de antes desapareceu.
-
-Como eu já havia sido agraciada com os ensinamentos de Meishu-Sama sobre a Verdadeira Saúde, via com clareza meridiana que o percurso trilhado por meu pai seguia exatamente o que nos é ensinado. Eu compreendia a terrível realidade de que, por causa do yakudoku (薬毒), seu corpo, antes vigoroso, estava sendo progressivamente debilitado, o que abreviaria sua vida. Desesperada, implorei para que ele cessasse o uso de medicamentos e o incentivei a receber Johrei, o método supremo de cura. Insisti para que se apegasse à salvação do Deus Altíssimo e ingressasse na fé para recuperar sua saúde.
-
-No início, contudo, a educação materialista que recebera foi um obstáculo, e ele demorou a compreender. Cheguei a mergulhar em desespero, pensando: “Será que meu pai não poderá mais ser salvo?”. Mas, teria sido a minha súplica, feita com a alma em prantos, ouvida por Deus? Finalmente, meu pai aceitou receber o Ohikari, estabelecendo assim sua ligação espiritual com o Deus Supremo. Pôde, enfim, conscientizar-se dos equívocos da medicina moderna e dos malefícios do yakudoku (薬毒), o que me trouxe um imenso alívio.
-
-Ainda assim, o veneno dos medicamentos que ele já havia ingerido era uma grande preocupação. Meishu-Sama nos ensina que “o uso de substâncias como Diseptal, Albargin e gennoshoko é um ato suicida. Se ingeridos em grande quantidade, não há garantia de vida”. Ciente disso, não podia me permitir um instante de descuido e dediquei-me diariamente a ministrar-lhe Johrei.
-
-Como era de se esperar, o yakudoku (薬毒) acumulado começou a se dissolver de forma persistente e sucessiva, causando-lhe grande sofrimento. Por fim, no outono passado, manifestou-se uma intensa purificação. Ele passou a vomitar uma substância marrom e pastosa, perdeu completamente o apetite e gemia noite e dia com dores gastrointestinais, a ponto de eu mesma, que o assistia, sentir-me completamente exaurida.
-
-As náuseas eram constantes; até mesmo um gole de água era expelido com violência. Encontrávamo-nos em uma situação desesperadora, no limite entre a vida e a morte. Nesse ponto, porém, tanto meu pai quanto minha mãe já estavam convictos de que não havia método de cura superior ao Johrei. Sem qualquer hesitação, e sem recorrer a um único comprimido ou injeção, solicitamos o auxílio dos ministros da Igreja na ministração de Johrei e nos apegamos com fervor à fé.
-
-Embora o poder do Johrei seja absoluto e incomparável ao da medicina, percebemos que o corpo físico talvez não resistisse à purificação de um yakudoku (薬毒) tão potente. Como última esperança, fomos solicitar uma audiência com Meishu-Sama, rogando com toda a sinceridade por sua proteção. Diante do Messias, a quem reverenciamos, esqueci-me de mim mesma e expus nossa aflição. Ele então nos orientou: “Devido à ingestão dos piores tipos de venenos medicamentosos, a vida dele não pode ser garantida. Contudo, seus ombros estão bastante flexíveis, e como sua constituição original é forte, talvez ele consiga superar o momento mais crítico. Ministre Johrei com as mãos relaxadas, focando bem na parte posterior ao estômago e na boca do estômago”.
-
-A imagem de Meishu-Sama, que no futuro será reverenciado como o Messias por todo o mundo, condescendendo em Se debruçar sobre a angústia de uma mulher humilde como eu, com o semblante anuviado pela compaixão enquanto nos dava Suas orientações, o Seu olhar transbordante de amor... Foi um momento de tamanha e indescritível gratidão que jamais poderei esquecer.
-
-Eu havia passado por um casamento malogrado e, sem marido, vivia sob os cuidados de meu pai com meus dois filhos pequenos. Como filha única, a ideia de perdê-lo me lançava ao ápice da angústia, pois pensava no futuro de minhas crianças. Assolava-me também o pensamento de que, se meu pai falecesse, nossos parentes, amigos e vizinhos, que ainda não possuíam um conhecimento genuíno da Sekaikyuseikyou, certamente nos atacariam com acusações: “Deixou o próprio pai, gravemente enfermo, morrer por acreditar cegamente em uma seita maligna, negando-lhe remédios e médicos”.
-
-Contudo, por maiores que fossem as recriminações, eu sabia que não teria do que me arrepender, pois estávamos empregando o melhor método e esgotando todos os nossos esforços. Mesmo que aqueles desprovidos de conhecimento espiritual não pudessem compreender, a felicidade no Mundo Espiritual de alguém que parte após receber Johrei plenamente é incomparavelmente maior do que a de quem morre sob tratamento médico. Ao pensar nisso, não importava o que dissessem. Era uma questão de perseverar até o dia em que o verdadeiro valor deste Caminho fosse compreendido por todos. O que mais me afligia era a possibilidade de que, por causa de nosso lar de pouca virtude, as pessoas pudessem ter uma impressão equivocada do Caminho de Salvação, o que seria um obstáculo para a Obra Divina. Mas logo refleti que deveria seguir em frente com o espírito de Mahayana e, com o coração apertado pela condição de meu pai, iniciei a viagem de volta.
-
-Durante o trajeto, a imagem de minha mãe chorando diante do corpo de meu pai assombrava-me. Também me vinha à mente a visão de mim mesma, que até então fora criada sob a proteção paterna, longe das intempéries da vida, sendo subitamente lançada com meus filhos nas águas turbulentas da sociedade, entregue a um destino miserável. Afastava incessantemente esses pensamentos sombrios, repetindo para mim mesma as palavras de Meishu-Sama: “O apego é um grande obstáculo para a salvação. Ao entregar tudo a Deus, recebemos Sua força ilimitada”. Eu compreendia que, embora o desejo de salvar a vida de um pai fosse nobre, o excesso de apego poderia gerar o efeito contrário. A vida e a morte estão nas mãos de Deus. Após fazer tudo o que estava ao nosso alcance, o único caminho era entregar. Repetindo isso em meu coração, e encorajada por uma amiga que me acompanhava, finalmente cheguei em casa.
-
-Para minha surpresa, fui recebida por um sorriso de minha mãe, que me relatou que, exatamente no mesmo instante em que eu recebia a audiência e as palavras de Meishu-Sama, as náuseas de meu pai haviam cessado e ele conseguira comer um pouco de tofu, biscoitos de arroz e gema de ovo. “Ele foi salvo! Superamos o momento mais crítico...”, pensei, enquanto lágrimas de felicidade brotavam e eu me prostrava diante do Altar em agradecimento.
-
-A partir daquele dia, o yakudoku (薬毒) pareceu dissolver-se com muito mais facilidade. Quase todas as noites ele tinha diarreia ou vômito. O odor fétido era insuportável e nos fez sentir na pele o quão terrível é o veneno dos medicamentos.
-
-Assim, noite após noite, à medida que o yakudoku (薬毒) era expelido, o sofrimento diminuía, o apetite retornava e sua saúde progredia a olhos vistos. Passado um ano, todos comentam como sua aparência melhorou e como ele ganhou peso. Ele voltou a trabalhar normalmente e vivemos hoje em um lar repleto de luz e gratidão.
-
-Em verdade, aquele período foi uma autêntica batalha contra o yakudoku (薬毒). No entanto, por estarmos amparados por uma Força grandiosa, tínhamos a certeza de que qualquer dor ou sofrimento que surgisse seria sanado pelo Johrei. Essa convicção nos permitiu atravessar a intensa purificação com tranquilidade. Que bênção poder aliviar seu sofrimento sem o alarde de chamar um médico no meio da noite! Se não conhecêssemos este poder, estaríamos apenas desorientados, dependendo de médicos e remédios... Sinto uma profunda e sincera gratidão pela felicidade de ter sido acolhida neste grandioso Caminho.
-
-Mesmo quando ele sofria com dores agudas e vômitos durante a noite, após expelir o yakudoku (薬毒), sentia-se muito melhor e, na manhã seguinte, ia para o trabalho. Apesar de passar por purificações recorrentes e intensas, ele não se debilitava na mesma proporção, o que nos faz, a todo momento, admirar a grandiosidade do Johrei. E, provando a imensa proteção Divina, os momentos de purificação mais severa, que o deixavam acamado, sempre coincidiam com seus dias de folga, de modo que seu trabalho nunca foi prejudicado. Seus colegas de serviço sequer tomaram conhecimento da gravidade de sua doença. Diante de tamanho amparo, não temos palavras para agradecer.
-
-Sabemos que a maioria das pessoas que passaram por cirurgia com sintomas semelhantes aos de meu pai acabou por falecer. E mesmo aqueles cuja condição melhora com rádio, medicamentos ou cirurgia, não têm a origem da doença eliminada; ela é apenas solidificada e suprimida temporariamente. Por não ser um tratamento fundamental, essas pessoas estão fadadas a desenvolver diversos problemas em um futuro próximo, sendo atormentadas por sofrimentos ainda maiores que os anteriores. Ao pensar nessas pobres almas que não se dão conta dessa realidade, oro para que, o mais breve possível, as pessoas do mundo despertem para a verdade sobre a saúde, protejam o tesouro da vida, que é mais valioso que qualquer outra coisa, e alcancem a verdadeira felicidade.
-
-Se não conhecêssemos este Caminho, a vida de meu pai já teria sido ceifada pelo yakudoku (薬毒), e nós teríamos nos tornado uma família desamparada com a perda de nosso pilar. Fomos salvos. Ao refletir que a vida que meu pai tem agora é uma sobrevida concedida por Meishu-Sama, nossos dias e noites transbordam de infinita gratidão. E assim, com nossas forças limitadas, devotamo-nos a servir, ainda que minimamente, na sagrada obra de Meishu-Sama para a concretização do Paraíso Terrestre — um mundo belo, permeado pela fragrância da arte, onde a doença, a pobreza e o conflito tenham sido erradicados.
-
----
-
-# A Eficácia Transitória dos Medicamentos
-
-**Categoria:** ya | **Ano:** 昭和25(1950)年5月6日 | **Fonte:** Kyusei
-**Título Original:** 薬効短見論 | **Status:** Published
-
-## A Eficácia Transitória dos Medicamentos
-
-Com frequência, os jornais alardeiam o progresso da medicina ao anunciarem a descoberta de novos fármacos com efeitos extraordinários contra determinadas enfermidades. Todavia, é imperativo ter grande cautela a esse respeito, pois, por mais notável que seja a eficácia de um medicamento, não se pode confiar em resultados de curto prazo. Para que se possa ter segurança, é imprescindível observar o estado de cura por um período de vários meses a alguns anos. Em termos rigorosos, seria necessário avaliar seu desempenho por no mínimo uma década e, para ser ainda mais preciso, nem mesmo isso seria suficiente. Na realidade, a verdadeira confiança só pode ser depositada após a comprovação de décadas de resultados práticos. Um claro exemplo disso é a minha própria experiência: o yakudoku (薬毒) de um remédio que utilizei há mais de trinta anos para tratar uma dor de dente ainda persiste em meu organismo, causando-me certo sofrimento até os dias de hoje.
-
-Diante do exposto, fica evidente que a eficácia dos medicamentos é meramente temporária, e exaltar-se com seus resultados imediatos é um ato de extrema leviandade. Desnecessário dizer que, ao se tratar da inestimável vida humana, a prudência deve ser redobrada. Recordo-me de uma cena cômica que vi, anos atrás, em um filme cultural: uma galinha com as pernas atrofiadas recebia uma injeção de Orizanina e, diante dos olhos de todos, começava a andar. Os espectadores, naturalmente, concluíam que a Orizanina era eficaz contra a beribéri. A realidade, contudo, é que, ao final do dia, o animal inevitavelmente retornava ao seu estado anterior. Tal como nesse exemplo, os efeitos dos medicamentos são passageiros e, com o tempo, geram invariavelmente uma reação adversa. Ademais, o seu yakudoku (薬毒) converte-se na causa de uma nova enfermidade. Nesse sentido, a propaganda sobre a notável eficácia de novos fármacos acaba por ser nada mais que um auxílio aos lucros da indústria farmacêutica. Portanto, enquanto a humanidade não despertar para essa realidade, será impossível estabelecer a verdadeira medicina.
-
-A verdadeira medicina consiste em não utilizar medicamento algum, mas sim em promover a capacidade de cura inata ao ser humano. Deixo aqui o alerta de que, fora desse princípio, é impossível obter qualquer efeito curativo radical.
-
-(Nota) Orizanina: designação atual da vitamina B1. Em 1910, Umetaro Suzuki foi o primeiro no mundo a descobrir e extrair do farelo de arroz um componente eficaz na prevenção da beribéri, nomeando-o "Orizanina". Um ano depois, o polonês Casimir Funk descobriu a mesma substância, e o nome "vitamina", por ele cunhado, tornou-se de uso geral.
 
 ---
 

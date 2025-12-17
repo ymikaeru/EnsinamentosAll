@@ -3,7 +3,7 @@
 # Coletânea de Artigos do Mestre Jikan Okada – Coletânea de Ensinamentos, Volume 9
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-05-15
 
 ## Coletânea de Artigos do Mestre Jikan Okada – Coletânea de Ensinamentos, Volume 9
 
@@ -470,7 +470,7 @@ A Igreja Messiânica não realiza obras sociais como asilos, mas o que acabo de 
 # Ensinamento de Meishu-Sama (11 de outubro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月11日） | **Status:** Published
+**Título Original:** 御教え （S26年10月11日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamento de Meishu-Sama (11 de outubro de 1951)
 
@@ -563,7 +563,7 @@ O mundo, contudo, desconhece essa verdade. Devido a uma psicologia coletiva que 
 # Coleção de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 25
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-09-15
 
 ## Coleção de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 25
 Publicado em 15 de setembro de 1953 (28º ano da era Showa)
@@ -1014,7 +1014,7 @@ Publicado
 # Coletânea de artigos do Reverendo Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月28日） | **Status:** Published
+**Título Original:** 御教え （S26年11月28日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Coletânea de artigos do Reverendo Okada Jikanshi
 Ensinamento (28 de novembro de 1951)
@@ -1115,7 +1115,7 @@ Além disso, li no jornal sobre um caso interessante ocorrido em uma vila, relac
 # Coletânea de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, nº 33
 
 **Categoria:** miosie | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-05-15
 
 ## Coletânea de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, nº 33
 
@@ -1439,7 +1439,7 @@ Escrevi um artigo sobre isso.
 # Ensinamento de 8 de Outubro de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月8日） | **Status:** Published
+**Título Original:** 御教え （S26年10月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamento de 8 de Outubro de 1951
 
@@ -1521,7 +1521,7 @@ O centro de nosso símbolo representa Izunome. Em termos de metais, Izunome corr
 # Ensinamento (26 de janeiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月26日） | **Status:** Published
+**Título Original:** 御教え （S27年1月26日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## Ensinamento (26 de janeiro de 1952)
 
@@ -1615,7 +1615,7 @@ Como o tempo se esgotou, pedirei que leiam o “Pensamento do Dia”.
 # Coleção de Teses de Jikan Okada – Pesquisa de Ensinamentos: help; Pesquisa de Materiais: Ensinamento (1º de novembro de 1951) - Coletânea de Ensinamentos nº 4, publicada em 15 de dezembro de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月1日） | **Status:** Published
+**Título Original:** 御教え （S26年11月1日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Coleção de Teses de Jikan Okada – Pesquisa de Ensinamentos: help; Pesquisa de Materiais: Ensinamento (1º de novembro de 1951) - Coletânea de Ensinamentos nº 4, publicada em 15 de dezembro de 1951
 
@@ -1723,7 +1723,7 @@ Como um adendo, creio que o infortúnio do imperador Go-Daigo, que culminou na p
 # Ensinamento (27 de fevereiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月27日） | **Status:** Published
+**Título Original:** 御教え （S27年2月27日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Ensinamento (27 de fevereiro de 1952)
 
@@ -1814,7 +1814,7 @@ Ainda há muito que eu gostaria de compartilhar, mas nosso tempo se esgotou.
 # Ensinamento (25 de outubro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月25日） | **Status:** Published
+**Título Original:** 御教え （S26年10月25日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamento (25 de outubro de 1951)
 *Publicado na Coletânea de Ensinamentos, vol. 3, em 25 de novembro de 1951.*
@@ -1963,7 +1963,7 @@ Em minha última visita a Kyoto, estive no Daitoku-ji e vi a tigela de chá Kiza
 # Coletânea de Artigos do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月5日） | **Status:** Published
+**Título Original:** 御教え （S26年11月5日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Coletânea de Artigos do Reverendo Jikan Okada
 
@@ -2037,7 +2037,7 @@ Em última instância, o erro da medicina terá de ser reconhecido pelos própri
 # Coleção de Ensaios do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月18日） | **Status:** Published
+**Título Original:** 御教え （S26年10月18日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Coleção de Ensaios do Reverendo Jikan Okada
 

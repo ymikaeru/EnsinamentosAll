@@ -3,7 +3,7 @@
 # A Despretensão de Meishu-Sama
 
 **Categoria:** kikou | **Ano:** 昭和29(1954)年12月15日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 お気軽だった明主様 瓢箪 | **Status:** Published
+**Título Original:** 参考文献 お気軽だった明主様 瓢箪 | **Status:** Published | **Edição/Página:** 65号 | **Data ISO:** 1954-12-15
 
 ## A Despretensão de Meishu-Sama
 

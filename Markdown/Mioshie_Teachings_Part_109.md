@@ -3,7 +3,7 @@
 # Coletânea de Teses do Mestre Jikan Okada — Coletânea de Ensinamentos, nº 18
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-02-15
 
 ## Coletânea de Teses do Mestre Jikan Okada — Coletânea de Ensinamentos, nº 18
 
@@ -403,7 +403,7 @@ Como escrevi na edição de Ano-Novo, mesmo que a China seja atacada, a Terceira
 # miosie19
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-03-15
 
 Coletânea de Teses do Mestre Jikan Okada — Coletânea de Ensinamentos, Volume 19
 Publicado em 15 de março de 1953 (Ano 28 da Era Showa)
@@ -872,7 +872,7 @@ Publicação: Departamento de Publicações da Sekai Kyusei Kyo
 # Ensinamento (16 de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月16日） | **Status:** Published
+**Título Original:** 御教え （S26年8月16日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (16 de agosto de 1951)
 
@@ -941,7 +941,7 @@ Bem... considerem isto um anúncio dos livros.
 # Coletânea de Artigos do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年1月17日） | **Status:** Published
+**Título Original:** 御教え （S27年1月17日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
 
 ## Coletânea de Artigos do Reverendo Jikan Okada
 
@@ -1017,7 +1017,7 @@ Ademais, publiquei recentemente na revista Eikou um artigo sobre a obra de Picas
 # Coleção de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, Volume 23
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-07-15
 
 ## Coleção de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, Volume 23
 

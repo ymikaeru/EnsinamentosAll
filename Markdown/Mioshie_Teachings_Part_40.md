@@ -1,9 +1,747 @@
 # Mioshie_Teachings - Part 40
 
+# Sobre o Mal-Estar e o Vômito
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 不快感及び嘔吐 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## Sobre o Mal-Estar e o Vômito
+
+O mal-estar abrange uma variedade de sensações, cujos sintomas não são uniformes. Entre as manifestações mais proeminentes, encontram-se a náusea, as convulsões, os calafrios, o enjoo de movimento, a sensação de torpor e o sentimento de angústia. Dentre estas, a náusea é, sem dúvida, a mais frequente. As causas desse sintoma incluem a ação reflexa do estômago decorrente de anemia cerebral, febre alta, intoxicação alimentar, intoxicação medicamentosa, refluxo biliar e estenose pilórica.
+
+Dentre as causas mencionadas, as três primeiras dispensam maiores explicações. Dedicar-me-ei, portanto, a elucidar as três últimas. No que tange à intoxicação medicamentosa, o processo se dá da seguinte maneira: o medicamento é inicialmente absorvido pela mucosa gástrica e, em seguida, se infiltra e acumula nos tecidos ao redor do estômago. Com o passar do tempo, essa substância se converte em toxina, retorna ao estômago e ali se solidifica. Posteriormente, por meio da Ação Purificadora, essa massa tóxica se dissolve, provocando a náusea que culmina no vômito. É característico, nessa ocasião, que o líquido expelido exale o odor do fármaco originalmente ingerido.
+
+Em segundo lugar, o refluxo biliar consiste na expulsão da bile. Este fenômeno ocorre quando a bile, que flui continuamente para o interior do estômago, encontra um obstáculo, seja pela estagnação de alimentos, seja pela interferência de medicamentos. Tal obstrução a impede de cumprir sua função de auxiliar a digestão, e, como resultado, a bile é expelida através do vômito.
+
+Por fim, o vômito causado pela estenose pilórica se manifesta quando o alimento digerido no estômago, ao tentar passar para o intestino, encontra dificuldade devido ao estreitamento da passagem. Consequentemente, o fluxo é revertido, gerando um movimento retrógrado que dá origem à náusea. Torna-se evidente, portanto, que quem padece desta condição não tolera alimentos sólidos, ao passo que os líquidos não provocam o mal-estar, pois conseguem atravessar o orifício do piloro, mesmo que este se encontre estreitado.
+
+---
+
+# O Barbarismo Velado pela Cultura
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年7月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 文化的野蛮性 | **Status:** Published | **Edição/Página:** 38号 | **Data ISO:** 1952-07-25
+
+## O Barbarismo Velado pela Cultura
+
+Como é de conhecimento geral, nossa Igreja tem por lema a construção de um mundo isento de doença, pobreza e conflito. Ao refletirmos profundamente sobre o tema, todavia, torna-se claro que o cerne desses três grandes flagelos reside na barbárie que ainda persiste na natureza humana. Portanto, somente ao despertarmos para essa realidade e a erradicarmos de vez, poderá nascer um mundo verdadeiramente civilizado.
+
+Mas em que consiste, afinal, essa barbárie? Existe uma de suas manifestações, de vastas proporções, que se oculta justamente onde ninguém a percebe. Refiro-me, em primeiro lugar, à medicina. E o mais espantoso não é apenas a incapacidade geral de reconhecê-la como tal, mas o fato de ser enaltecida como um fruto do progresso. Talvez não exista equívoco mais crasso. Quando alguém adoece, recorre-se a medicamentos, injeções, cirurgias, radioterapia e a uma miríade de outras terapias físicas. Ao analisarmos tais práticas com serenidade, contudo, percebemos que nenhuma delas escapa à classificação de bárbara.
+
+Os fármacos, por exemplo, são substâncias extraídas de minerais, plantas e órgãos de animais por meio de diversos processos. Na realidade, eles não possuem qualquer relação com a cura das doenças. Afinal, se os medicamentos fossem eficazes, com o grau de avanço que se lhes atribui, o número de doentes deveria diminuir ano após ano. O que vemos, no entanto, é o oposto. Dificilmente se ouve falar de médicos ou farmacêuticos desempregados, ou de hospitais em crise financeira. Pelo contrário, os doentes de tuberculose proliferam por toda parte, a falta de leitos hospitalares é uma queixa constante, e quem solicita internação precisa aguardar de seis meses a mais de um ano. Da mesma forma, as diversas doenças infecciosas só aumentam, levando a sociedade a um estado de desespero, como é do conhecimento de todos.
+
+Estes fatos demonstram, de forma irrefutável, a ineficácia dos medicamentos. Como sempre afirmo, remédios são apenas um meio de aliviar temporariamente a dor; não possuem o mínimo efeito curativo. À semelhança dos narcóticos, servem apenas para aumentar o número de dependentes. Deixando os fármacos de lado, abordemos a cirurgia. Esta, evidentemente, também não constitui uma verdadeira prática médica. Isso porque a medicina deveria ser um método para curar unicamente a enfermidade, e não para lesar ou remover órgãos e tecidos. A cirurgia, portanto, não passa de um artifício desesperado, empregado justamente porque a medicina é incapaz de curar. É, no mínimo, uma prática avessa à cultura; nada senão barbárie. E espanta que seja considerada um avanço da ciência — um erro verdadeiramente assombroso. Como costumo dizer, a cirurgia consiste em mutilar uma parte do precioso corpo humano, tornando o indivíduo incompleto. Em consequência, ele jamais poderá cumprir plenamente seu papel como um ser humano integral. As terapias por radiação e outros tratamentos físicos não diferem muito disso, motivo pelo qual me abstenho de detalhá-los. Em suma, o que seria o progresso da medicina moderna, senão um conjunto de atos bárbaros engenhosamente revestidos por uma roupagem cultural?
+
+A seguir, tratarei da pobreza. Sua causa, na maioria das vezes, é a doença, o que a torna um produto derivado das práticas bárbaras já mencionadas. Para solucionar a miséria, surgiram ideologias como o socialismo e o comunismo. Contudo, na ânsia de impor seus princípios, tais movimentos recorrem cegamente à violência e à destruição, em vez de buscarem meios pacíficos. Assim, por mais admiráveis que pareçam suas teorias, não passam de outra forma de barbárie, o que dispensa maiores comentários. Atualmente, com o intuito de salvar os muitos desafortunados que a pobreza gera, implementam-se inúmeras políticas, como a Cruz Vermelha, a previdência social, os sistemas de seguro e as obras de caridade. Embora tragam algum alívio, são medidas que não tocam o cerne da questão, e seus resultados, por conseguinte, são bastante limitados. Por essa razão, a instabilidade social persiste, sem que se vislumbre sequer um alvorecer de solução.
+
+Por fim, gostaria de abordar o tema que hoje aflige e aterroriza cada ser humano sobre a Terra: a guerra. Diferentemente do passado, tudo em nossa época assume uma escala global. Uma nova guerra, portanto, não seria um confronto entre duas nações. Caso eclodisse, o mundo se dividiria em dois blocos, e cada um seria forçado a tomar partido entre inimigo e aliado. A neutralidade seria, obviamente, impossível. Instaurar-se-ia, então, um palco de imensa carnificina, e uma era de barbárie sem precedentes viria à tona. Assim, sob qualquer perspectiva que se analise a nossa era, não é exagero algum classificá-la, como sugere o título deste artigo, como uma época de barbárie cultural.
+
+---
+
+# A Perspectiva Espiritual sobre a Igreja e os Símbolos Sagrados
+
+**Categoria:** hu | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
+**Título Original:** プロテスタントとカトリック | **Status:** Published | **Edição/Página:** P.75 | **Data ISO:** 1948-09-05
+
+## A Perspectiva Espiritual sobre a Igreja e os Símbolos Sagrados
+
+Gostaria de tecer alguns comentários sobre o Cristianismo, mais especificamente acerca da divergência de opiniões entre o Protestantismo, com seu princípio da não necessidade da igreja, e o Catolicismo, que defende a primazia desta.
+
+O princípio da não necessidade da igreja, como o próprio nome sugere, preconiza que a instituição é dispensável e que o caminho deve ser trilhado unicamente por meio da Bíblia. Em contrapartida, o Catolicismo argumenta que, após a ascensão de Cristo, a igreja foi estabelecida primeiro, e a Bíblia, publicada posteriormente, o que confere àquela uma importância fundamental. Desejo, pois, expor meu ponto de vista sobre qual dessas posições é a correta. Embora ambas as correntes apresentem seus próprios fundamentos, proponho-me a analisar a questão sob uma perspectiva espiritual.
+
+No Mundo Espiritual, vige a Lei da Unidade entre Espírito e Matéria, segundo a qual a união de ambos é o princípio fundamental. Isso significa que, sempre que um espírito almeja realizar determinado propósito, ele necessita se valer de um meio material. Por exemplo, para reverenciar a Deus e ser agraciado com Suas virtudes espirituais, o ideal é edificar uma igreja ou um santuário em solo purificado, instalar um altar, um objeto sagrado ou uma imagem, ofertar incenso e flores, apresentar oferendas de alimentos e bebidas e, então, orar e suplicar com a máxima reverência. É por meio desse ato que as mais elevadas divindades podem descer ao plano físico e nele se manifestar. É evidente que, em situações de emergência, não importa onde estejamos, basta orar para que, em um instante, o espírito de Deus se aproxime e nos conceda Sua proteção. Contudo, quando se ora diretamente ao espaço, sem qualquer intermediário material, como o fazem os protestantes, ainda que a sinceridade do fiel alcance o espírito divino e lhe garanta certa medida de amparo, a proteção recebida será inevitavelmente mais tênue, em conformidade com a Lei da Concordância.
+
+Aprofundemos, pois, a relação entre espírito e matéria. No Mundo Espiritual, não apenas os espíritos de Deus, mas também os espíritos humanos e os de animais, todos se vinculam a alguma forma de matéria, por possessão divina ou por incorporação. Cristo, por exemplo, manifesta-se na cruz; as diversas divindades, em ideogramas, espelhos sagrados, pinturas ou esculturas. Os espíritos humanos frequentemente se ligam a textos; os de animais, ao corpo humano, a escritos ou a objetos que representem sua forma, como é o caso das raposas para os santuários Inari, ou ainda a amuletos de papel. Já os deuses-dragão vinculam-se a ideogramas, a objetos com formato de serpente ou a rochas. No caso dos espíritos de elevada hierarquia, a personalidade do criador do objeto é de suma importância. Eis a razão pela qual as pinturas e esculturas de monges renomados e mestres de grande virtude são, desde a Antiguidade, consideradas tesouros de inestimável valor.
+
+Há, ainda, outro aspecto a ser considerado. Quando um espírito estrangeiro deseja vir para o Japão, ele não consegue atravessar o espaço por si só. Isso ocorre porque o raio de locomoção de um espírito é limitado por sua hierarquia; vê-se, então, obrigado a se fixar em um objeto material. O espírito do comunismo, por exemplo, chegou ao Japão em grande parte atrelado aos escritos de Marx. Uma pessoa com visão espiritual relatou-me tê-los visto alinhados nas paredes dos auditórios de diversas universidades. De modo semelhante, consta que os espíritos da República da China chegam ao nosso país por meio dos mais variados produtos. O mesmo processo se aplica aos espíritos japoneses que viajam para o exterior: eles o fazem fixados em objetos. É importante notar que, quanto mais elevada a hierarquia de um espírito divino, maior sua capacidade de locomoção. Apenas as mais nobres e supremas divindades possuem um alcance que abrange todo o globo terrestre.
+
+Diante do que foi exposto, torna-se possível compreender o equívoco contido na tese da idolatria.
+
+---
+
+# A Criação de uma Nova Cultura
+
+**Categoria:** hu | **Ano:** 昭和25(1950)年9月13日 | **Fonte:** Eikou
+**Título Original:** 文化の創造 | **Status:** Published | **Edição/Página:** 69号 | **Data ISO:** 1950-09-13
+
+## A Criação de uma Nova Cultura
+
+O nome de nossa Igreja é Sekaikyuseikyou, o que reflete com justeza sua missão de salvação do mundo nesta era final. Contudo, poderíamos igualmente denominá-la Igreja da Criação. Permitam-me explanar o porquê.
+
+Ao longo de inúmeros séculos, a humanidade, em seu esforço incessante e hercúleo, devotou a totalidade de suas energias para o avanço e o desenvolvimento da civilização, culminando na realidade que hoje conhecemos. O resultado foi a edificação de uma cultura de brilho estonteante, um mérito de tal magnitude que as palavras não bastam para enaltecê-lo. Embora o ideal almejado fosse, inquestionavelmente, a felicidade humana, a realidade que se descortinou foi uma amarga antítese, manifestada na descoberta da fissão do núcleo atômico. A capacidade de ceifar milhões de vidas em um único instante evoca um sentimento para o qual termos como terror ou assombro são insuficientes.
+
+O sonho de felicidade foi, portanto, traído de uma forma que jamais poderíamos conceber. Quem poderia ter previsto o surgimento de tamanha desgraça? É provável que em toda a história humana jamais tenha havido um paradoxo tão desconcertante. Diante disso, a humanidade, e em especial seus intelectuais, tem o dever de investigar a fundo a causa primordial deste fenômeno. Enquanto essa causa não for compreendida e solucionada, qualquer avanço cultural futuro perderá por completo o seu significado.
+
+Todavia, mesmo a bomba atômica, quando empregada como arma de guerra, converte-se em um demônio aterrador; se utilizada para fins pacíficos, contudo, transforma-se em um esplêndido anjo da paz. Segundo esse raciocínio, o problema não reside na bomba em si. O cerne da questão é a própria guerra, e, por conseguinte, não há absolutamente nada mais premente do que a sua erradicação.
+
+Apesar de milênios de esforços envidados por toda a humanidade para se libertar da ameaça bélica — um fato de notório saber —, a verdade é que tal ameaça não apenas persiste, como se agrava a cada novo conflito. Embora o aumento populacional possa ser um fator, o avanço tecnológico dos armamentos impõe um perigo ainda maior. A bomba atômica representa o ápice desse processo, e seu advento não é senão um presságio de que o destino da humanidade de pôr um fim à guerra se aproxima. É a isso que, em minha crença, Cristo se referia como o "fim dos tempos".
+
+Ao ponderarmos sobre isso, percebemos que a cultura estabelecida pode ser vista como um sucesso, mas é impossível não reconhecer que ela resultou também em um fracasso de tal magnitude que anula suas próprias conquistas. É imprescindível, portanto, que despertemos para essa realidade e, a partir daí, nos lancemos à criação de uma cultura nova e revolucionária. Trata-se, em suma, de um recomeço para a civilização. Em que consiste, então, a criação dessa nova cultura? Eis o grande desafio que se impõe à humanidade de hoje.
+
+A resposta a essa indagação é a nossa Igreja, que se manifestou precisamente para cumprir tal desígnio. Assumindo essa incumbência de suma importância, a Sekaikyuseikyou se propõe a executar, segundo a Vontade Divina, a monumental obra da construção do Paraíso Terrestre. Como alicerce dessa obra, declaramos a erradicação da doença do seio da humanidade, e os resultados extraordinários que já estamos alcançando tornam desnecessárias maiores explanações.
+
+A causa primordial da guerra, cumpre esclarecer, é a doença. E não me refiro apenas à doença do corpo, mas principalmente à doença do espírito. Refiro-me aos insanos que não são considerados loucos. Conduzir esses indivíduos à plena sanidade espiritual é a única solução fundamental. Creio firmemente que, fora isso, qualquer tentativa de erradicar a guerra não passa de um devaneio tolo.
+
+---
+
+# Um Fato Desconcertante
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 不思議な事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## Um Fato Desconcertante
+
+Constantemente me deparo com um fato que, no que tange à classe médica, causa-me profunda estranheza. Ocorre que, quando um paciente em estado grave, já desenganado por grandes hospitais ou por médicos de renome, alcança a cura milagrosa por meio deste método terapêutico, movido pela imensa alegria e pela esperança de que muitas outras pessoas pudessem ser salvas por tão maravilhosa arte, ele por vezes procura o médico para lhe fazer um relato detalhado. Em tais situações, contudo, o profissional demonstra a mais completa indiferença. Da mesma forma, quando um familiar de um médico é curado por este método, ele se limita a expressar espanto, sem que se manifeste a menor iniciativa em pesquisá-lo. A meu ver, diante de uma eficácia terapêutica incomparavelmente superior à da medicina ocidental, a primeira atitude de um médico deveria ser a de investigar ativamente o fenômeno. Tal postura, entretanto, jamais se manifestou até hoje.
+
+Todavia, basta que esses mesmos profissionais tomem conhecimento do relatório de alguma descoberta feita por um acadêmico ocidental para que lhe dediquem a máxima atenção e iniciem imediatamente seu estudo. Este contraste revela o quão profundamente o culto ao Ocidente está arraigado nos médicos e pesquisadores japoneses. Tenho para mim que eles parecem ter sentenciado em suas mentes que as grandes descobertas da medicina são prerrogativa dos ocidentais e que, no Japão, somente cientistas de outras áreas poderiam produzi-las. Sem dúvida, como grande parte da cultura se desenvolveu dessa forma até os dias de hoje, eles permanecem cativos do preconceito de que a situação não se alterou.
+
+Creio que o primeiro passo para difundir amplamente a excelência desta arte médica consiste, antes de tudo, em corrigir essa visão limitada da classe médica.
+
+Ademais, é absolutamente inconcebível que se ignore um fato de tamanha magnitude: a criação, por mãos japonesas, de uma arte médica de notável poder diagnóstico e terapêutico, que prescinde de aparatos complexos como máquinas e medicamentos, valendo-se unicamente da habilidade das mãos humanas.
+
+Essa atitude de sequer lhe conceder um olhar, por mais extraordinários que sejam os resultados testemunhados, chega a se assemelhar a um fanatismo religioso. É análoga à postura de considerar herege tudo o que se encontra fora do próprio credo. Para ilustrar esta questão, apresentarei alguns exemplos concretos.
+
+Há alguns anos, tratei da enfermidade ocular de um velho oftalmologista que clinicava havia mais de quarenta anos em certo bairro de Tóquio. O problema começara quando, durante o banho, água com sabão lhe irritou os olhos, e o quadro foi se agravando progressivamente. Como não obtinha a cura, ele veio me procurar. Segundo suas palavras: “Meu filho trabalha no departamento de oftalmologia da Universidade XX, e por isso frequentei o local por vários meses, submetendo-me às terapias mais modernas. Mesmo assim, meu estado piorou gradualmente, e minha acuidade visual atual é de 0,1”. Após uma única sessão de tratamento comigo, sua visão melhorou para 0,4 no dia seguinte, e em uma semana ele estava completamente curado. Naturalmente, o oftalmologista ficou assombrado com a eficácia do método e decidiu estudá-lo. Meses depois, ele me fez uma visita, e perguntei-lhe se já havia experimentado o tratamento em alguns de seus pacientes. Sua resposta foi: “De modo algum! Se eu fizesse algo assim, seria expulso da associação médica. Por isso, mantenho o mais absoluto sigilo; nem minha esposa nem meu filho sabem de nada”. Confesso que fiquei estupefato.
+
+Em minha época de terapeuta, tratei de uma jovem senhora de vinte e quatro anos que sofria de um caso gravíssimo de asma. A doença se manifestava com uma violência rara: ela passava, em média, vinte dias do mês internada e apenas dez em casa. Como as crises eram imprevisíveis e dificultavam o deslocamento até um médico a cada ocorrência, seu marido aprendeu a aplicar injeções e andava sempre com uma seringa, não se afastando dela um instante sequer. A jovem tornou-se, na prática, uma dependente de injeções. Havia dias em que recebia de vinte a trinta aplicações, o que a levava a estados de coma ou a condições próximas da morte, sendo desenganada pelos médicos por diversas vezes. Com o meu tratamento, entretanto, ela começou a melhorar de forma notável. Seu marido, profundamente grato e convicto de que uma terapia tão extraordinária deveria ser adotada pela medicina, procurou um doutor de um grande hospital, que cuidara de sua esposa por muito tempo, para lhe explicar o ocorrido. Havia outra razão para sua iniciativa: aquele médico era uma autoridade em asma, cuja dedicação à pesquisa era tão fervorosa que o levava a esquecer de comer e dormir. O doutor ficou surpreso e manifestou um grande desejo de pesquisar o método, combinando de vir ao meu encontro. Contudo, ele não compareceu na data marcada. Após várias outras tentativas de agendamento, nas quais o médico invariavelmente ignorava o compromisso, o marido da paciente, exasperado, argumentou veementemente que a recusa em investigar uma terapia tão fantástica era incompreensível, tanto do ponto de vista da missão de um médico quanto sob a ótica humanitária. Apesar de sua insistência, seus esforços foram infrutíferos.
+
+Houve também o caso de um homem de cinquenta e poucos anos que desenvolveu um tipo de câncer na face. Durante anos, ele se submeteu a todos os tratamentos disponíveis, até que, por fim, procurou o Instituto de Pesquisa do Câncer, onde foi sentenciado como incurável. Com dois ou três meses do meu tratamento, ele obteve a cura completa. Acontece que o referido instituto tem o costume de contatar seus antigos pacientes periodicamente para averiguar seu estado de saúde. Assim, cerca de um ano após sua recuperação, ao ser contatado, o homem retornou ao local e mostrou-lhes que estava totalmente curado. Os médicos, espantados, perguntaram-lhe sobre o processo de sua melhora, e ele lhes contou em detalhes que havia sido curado por meio deste método terapêutico. Segundo seu relato, o médico não demonstrou qualquer expressão, retirando-se do local com um ar de visível descontentamento.
+
+Temos ainda o exemplo de uma senhora de aproximadamente quarenta anos. Uma tumefação surgiu em seu tornozelo direito e, ao longo de vários anos, apesar de todos os tratamentos médicos, não apenas não sarou, como piorou gradualmente, a ponto de impedi-la de caminhar. Ela permaneceu acamada, a gemer de dor, por mais de um ano. Com este método, porém, ela recuperou a mobilidade e pôde voltar a sair de casa livremente. Certo dia, por acaso, encontrou na rua o médico que a tratara enquanto esteve acamada. Surpreso, ele perguntou: “Como a senhora melhorou?”. Ela respondeu: “Fiquei boa com este tratamento”. Ao que o médico retrucou: “Ah, isso é feitiçaria”. A senhora explicou que não se tratava de feitiçaria, e ele insistiu: “Ah, então ele usa o poder das raposas”. Se levarmos a sério as palavras desse médico, a conclusão lógica é que a feitiçaria e o poder das raposas são mais eficazes que a medicina moderna. Não pude deixar de me espantar com a capacidade de raciocínio daquele profissional.
+
+Exemplos como os supracitados são tão numerosos que seria impossível enumerá-los todos; o restante pode ser facilmente deduzido. Há também outra situação curiosa: certo doutor por vezes encaminha para um de meus discípulos os pacientes que considera estarem além de sua capacidade de tratamento. Evidentemente, ele o faz por saber que este método terapêutico cura casos que a medicina moderna não consegue resolver. Ainda que sua confiança chegue a tal ponto, é um mistério que ele não se disponha a pesquisar o método. Talvez isso se deva ao receio de que tal atitude possa gerar situações complexas e problemas com a associação médica. No entanto, ao considerarmos a missão de um médico, essa postura não apenas se opõe ao progresso da cultura, mas também equivale a trair a sagrada missão de lidar com a vida humana.
+
+Acredito, no entanto, que os médicos deveriam, sem qualquer hesitação, imergir no estudo desta arte. Se, como resultado de suas pesquisas, concluírem que ela é inferior à medicina ocidental ou desprovida de valor, que a abandonem. Se, ao contrário, constatarem que se trata de uma arte médica grandiosa, como afirmo, seu dever será promovê-la com vigor perante a comunidade médica. Se isso se tornar o ponto de partida para a solução das doenças da humanidade, eles serão dignos de carregar a honra de pioneiros.
+
+Em suma, penso que esta é uma questão de consciência da classe médica. E, nesse sentido, anseio ardentemente pelo dia em que surjam, o mais breve possível, médicos dotados de tal consciência.
+
+---
+
+# Uma Proposta para a Reforma da Saúde Nacional
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 付録 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## Uma Proposta para a Reforma da Saúde Nacional
+
+A título de adendo, desejo ardentemente expressar uma proposta que, em minha convicção, o governo deveria implementar com a máxima urgência. Rogo para que as autoridades, os especialistas e, naturalmente, os homens de vasto saber concedam a devida atenção à tese que aqui exponho.
+
+No grave momento histórico em que o Japão se encontra — isto é, na luta pela vitória na Grande Guerra —, é indubitável a necessidade de reformar, com ousada determinação, as antigas estruturas que já não correspondem às exigências dos tempos vindouros. Já não há mais espaço para debates a esse respeito. O governo, ao que parece, compartilha dessa visão, e o fato de vir implementando, desde o início do conflito, uma sucessão de políticas inovadoras, como jamais se viu, é algo que nos enche de satisfação. Nesse sentido, no que tange à questão dos recursos humanos, apresento uma proposta que, em meu entendimento, deve ser posta em prática pelo governo o mais brevemente possível.
+
+Conforme elucidei anteriormente, para solucionar a questão dos recursos humanos, a melhor estratégia consiste, acima de tudo, em reduzir o número de enfermos. Para tanto, é imperativo que se recorra a uma arte médica que possua um genuíno poder de cura.
+
+Contudo, a realidade é que, até o presente momento, o governo tem se apoiado exclusivamente na medicina ocidental, ignorando as demais alternativas. Tal postura decorre, provavelmente, da premissa de que não existe terapia com eficácia superior. Todavia, apesar da aplicação de todas as medidas que a medicina ocidental oferece, os fatos demonstram não apenas a ausência dos resultados esperados, mas também uma crescente tendência de agravamento do quadro geral, especialmente no que concerne à tuberculose. Pleiteio, portanto, junto ao governo, uma reforma de grande envergadura. A verdade é que existem, entre a população, terapias de eficácia superior à da medicina ocidental. Seus praticantes, embora laborem silenciosamente, dia e noite, em prol da saúde do povo e alcancem resultados extraordinários, permanecem ignorados e são tratados com indiferença pela sociedade.
+
+Atualmente, tanto o governo quanto o povo japonês empreendem uma grande marcha para o fortalecimento do poderio bélico. Diante disso, creio que nada seria mais eficaz do que despertar do sonho da dependência da medicina ocidental. Em verdade, ouso afirmar que, se não despertarmos o quanto antes, o futuro da nação estará em perigo. Postulo, a seguir, um plano simples e eficaz que, estou convicto, não apenas servirá de alicerce para a solução do problema da saúde pública, como também se tornará uma medida de implementação inevitável no futuro. O plano consiste nos seguintes passos:
+
+Primeiro: Selecionar um grupo de dez pacientes com tuberculose. A razão para tal escolha reside na facilidade de se encontrar indivíduos com sintomas similares, o que favorece a comparação, e no fato de esta ser a enfermidade cuja solução mais urge em nossos dias.
+
+A estes dez pacientes, deverão ser designados dez terapeutas, cada um representando uma abordagem distinta: medicina ocidental (clínica ou cirúrgica), moxabustão, terapia nutricional, eletroterapia, shiatsu, terapia espiritual, terapia de emanação de energia vital, terapia naturalista, entre outras. O experimento deverá ter a duração inicial de um mês. Como resultado, alguns pacientes apresentarão melhora, outros permanecerão estagnados e outros ainda poderão piorar. Contudo, um único mês é insuficiente para se obterem conclusões definitivas; portanto, o processo deve ser repetido. Desta forma, ao longo de dez meses, cada grupo de pacientes terá sido submetido às dez diferentes terapias. Ao final desse período, a distinção entre os métodos eficazes, os inócuos e os prejudiciais se tornará perfeitamente clara. Caberá, então, ao governo, orientar os praticantes das terapias ineficazes ou nefastas a adotarem aquelas que demonstraram resultados positivos.
+
+Naturalmente, mesmo entre as terapias de eficácia comprovada, deve-se eleger aquela que apresentou os resultados mais expressivos.
+
+A terapia que, ao final de tal processo, for consagrada como a de primeira categoria, será o instrumento que permitirá solucionar, de uma só vez, a complexa questão da saúde pública — e, em particular, o problema da tuberculose. Visto que uma solução pode ser alcançada em apenas dez meses, com um esforço relativamente modesto, e que seus efeitos serão fundamentais e perenes, constituindo-se na condição basilar para superarmos a grave crise atual, sua implementação é, a meu ver, um imperativo.
+
+Uma dificuldade previsível na execução deste plano reside na seleção dos terapeutas. A meu ver, a solução seria convocar publicamente os maiores talentos da nação por meio de anúncios no diário oficial ou nos jornais. Dada a natureza do desafio, é de se esperar que apenas aqueles com extrema confiança em suas habilidades se apresentem, o que nos garante, de antemão, um alto nível de competência entre os candidatos. Caso o número de inscritos seja elevado, poderemos simplesmente aumentar a quantidade de grupos de dez pacientes. Através dos testes mensais, os métodos ineficazes ou prejudiciais seriam gradualmente eliminados, restando apenas os de excelência. Dentre estes, uma nova seleção seria feita até que, ao final, emergisse o método mais proeminente, aquele digno do primeiro lugar. Há, contudo, uma ressalva fundamental: por mais extraordinária que seja a terapia, ela não pode ser um segredo intransmissível, restrito a uma única geração. Deve ser um método que qualquer pessoa, mediante aprendizado, possa dominar e aplicar com resultados eficazes.
+
+A arte médica que vier a ser escolhida por meio desse criterioso processo se tornará, indubitavelmente, a medicina do futuro do Japão.
+
+A seguir, a título de anexo, permito-me transcrever um trecho que considero particularmente interessante. Trata-se de um artigo intitulado “O Estado Atual da Filosofia Ocidental”, extraído da obra “Quem está arruinando o Japão?”, de autoria do Sr. Nyoichi Sakurazawa, publicada pela editora Seishishoin em 5 de outubro de 1941.
+
+A medicina ocidental, que no século XVIII ascendeu com o esplendor do sol nascente e atingiu seu apogeu no final do século XIX, seduziu e iludiu por completo as massas da Europa e da América com suas técnicas análogas às dos missionários cristãos: o microscópio e o bisturi, os anestésicos e os soros, e as terapias físicas como a aplicação de raios. Com a abertura do país, os japoneses correram ao encontro dessa medicina e, com seu pendor inato para a imersão total, não tardaram a mergulhar profundamente nesta arte de aparência deslumbrante. Para tanto, abandonaram de imediato uma tradição de milhares de anos, sem sequer se dignarem a reavaliá-la.
+
+No Ocidente, entretanto, já no início do século XX, os méritos e deméritos dessa medicina analítica tornavam-se cada vez mais evidentes. Em especial durante a Grande Guerra Europeia, ao provarem o amargo sabor da desilusão com os ideais da civilização científica ocidental, as pessoas, mergulhadas num profundo abismo de incerteza e ameaçadas pelo aumento de doenças incuráveis e pela queda na expectativa de vida, perderam também a confiança na medicina que se travestia com a máscara da ciência. Na verdade, dentro do meu limitado conhecimento, quase não conheço intelectuais europeus que ainda hoje confiem na chamada medicina ocidental. Provar este fato com exemplos é tarefa das mais simples. Como bem afirmou o Dr. Aransy, o médico de hoje, nos países civilizados do Ocidente, tornou-se um mero prestador de serviços ao paciente; é uma espécie de trabalhador que faz curativos ou cirurgias; ou um zelador de hospitais psiquiátricos, que na realidade são um misto de prisão e alojamento; ou, ainda, uma espécie de despachante especializado em assinar diversos certificados — de incapacidade laboral, de exames de fezes, de óbito, etc. —, garantindo assim, a duras penas, seu sustento. O médico que rebaixou a arte de curar a uma mera profissão é uma espécie de parasita social, mas mesmo sua vida parasitária, dependente dos doentes, chegou a um beco sem saída. Ademais, sei que, desde 1929, o presidente da Associação Médica Francesa envia anualmente correspondências a todos os formandos do ensino médio do país, desaconselhando-os a se tornarem médicos. Segundo ele, a França já está saturada de médicos; há um para cada mil e quinhentos habitantes. Este dado estatístico fundamenta o apelo para que os jovens desistam da carreira, a menos que sua estabilidade financeira já esteja garantida por patrimônio próprio e que seu objetivo seja unicamente servir à sociedade através da medicina, sem qualquer fim lucrativo. Como diz o Dr. Aransy, a medicina e os médicos ocidentais perderam o prestígio, depois perderam a credibilidade e, por fim, perderam até o pão. A popularidade de práticas não médicas e não ortodoxas avança a cada dia, com a medicina integrativa à frente desse movimento. Que esta não é uma realidade apenas francesa, mas de toda a Europa e América, pode-se compreender ao se estudar as “Novas Tendências da Medicina Ocidental”.
+
+O fato de os japoneses ainda desconhecerem tal realidade parece, à primeira vista, extremamente estranho e difícil de acreditar, mas há uma razão para isso. A verdade é que os japoneses ainda não conhecem o Ocidente. Continuam fascinados pela prestidigitação dos missionários cristãos. E, desde a abertura do país na Era Meiji, há setenta anos, dia após dia, despendem somas colossais na busca incessante por esses métodos de aparência miraculosa — bisturis, raios, microscópios, anestésicos, eletricidade, magnetismo e uma infinidade de novos fármacos. Quando viajam ao Ocidente, mergulham de cabeça no estudo de uma medicina cujo brilho já se apaga, e não se dão ao trabalho de contemplar o vasto horizonte da cultura ocidental. Quando professores renomados são enviados para lá, limitam-se, naturalmente, a revisitar os mesmos campos de conhecimento que já lhes são familiares.
+
+Gostaria de deixar claro, no entanto, que não nutro a menor intenção de criticar a medicina ou os médicos ocidentais. Quer sejam professores ou clínicos, eles exercem sua atividade como uma profissão — para garantir sua subsistência —, e neste tolerante mundo em que vivemos, tal como se permite a existência daqueles que exploram a mais-valia ou que se apropriam do que pertence a outrem, não há por que censurá-los. Contudo, penso que, embora todos busquem o pão de cada dia, aqueles que o obtêm às custas dos crimes ou das doenças alheias, ou que acumulam o carma de levar a humanidade à beira da ruína através da debilidade e da busca pelo prazer (prejudicando os mecanismos da seleção natural com seus remédios), tiveram um destino mais desafortunado do que aqueles cujo sustento depende de pescar no mar ou caçar nas montanhas, ceifando a vida de outras criaturas. Creio que o pecado daqueles que, ao roubarem os bens de outrem, expõem-se imediatamente à punição, é muito menor.
+
+Isto não significa, porém, que eu deva sentir pena daqueles que são atormentados pelos médicos. Longe de mim tal pensamento. O fato de serem explorados pelos médicos (seja em seus bens, seja em sua vida) se deve a uma relação análoga à que existe entre o estelionatário e sua vítima. Se considerarmos que são os pacientes que criam os médicos, então o seu pecado é maior. Contudo, como são eles que sofrem, pode-se dizer que seu pecado é, em certa medida, expiado.
+
+#### Sobre a Publicação do Terceiro Volume
+
+Por fim, gostaria de informar aos leitores que a publicação do terceiro volume, no qual pretendo abordar com maior profundidade os fenômenos espirituais, ainda não tem data definida, em virtude do tempo necessário para a compilação do material. Agradeço a vossa compreensão.
+
+---
+
+# Um Esclarecimento sobre as Enfermidades Femininas e os Equívocos da Medicina
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 婦人病 ・病患と医学の誤謬十九 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## Um Esclarecimento sobre as Enfermidades Femininas e os Equívocos da Medicina
+
+Existem diversas enfermidades femininas, das quais passarei a elucidar as principais em linhas gerais.
+
+A mais recorrente é a que acomete o útero. A medicina as classifica com denominações como endometrite, parametrite e outras. Contudo, a presença do sufixo “-ite”, que indica inflamação, revela que se trata de uma condição febril, ou seja, um processo de purificação em curso. Portanto, deixando-a evoluir naturalmente, a cura seria inevitável. Todavia, intervém-se com procedimentos como a curetagem uterina, os quais se mostram de todo ineficazes. A razão é simples: o interior do útero está em constante processo de secreção ou de eliminação de corrimento, de modo que, logo após a raspagem, a cavidade retorna prontamente ao seu estado anterior.
+
+Em seguida, abordemos os distúrbios urinários. Estes podem ter natureza gonocócica ou, como já mencionado, serem causados pela chamada “urina quente”. As afecções uretrais decorrentes de toxinas gonocócicas são tratadas de maneira análoga à gonorreia: o método mais eficaz consiste em aumentar a frequência da micção para promover a limpeza natural do canal uretral. Como já tratei do tema da “urina quente” anteriormente, omitirei aqui maiores detalhes.
+
+Os miomas uterinos também representam uma enfermidade bastante comum, com uma variedade de manifestações. Minha experiência, contudo, revela um número assombrosamente alto de diagnósticos equivocados. O verdadeiro mioma uterino consiste no inchaço do músculo que sustenta o útero; seu tamanho pode variar consideravelmente e sua consistência é, em geral, firme. Podem ser indolores ou apresentar uma dor leve, havendo casos em que a paciente, por não sentir dor, passa um longo período sem sequer notar sua existência. Ademais, é frequente que acúmulos de toxinas na região da virilha, pielonefrites ou aderências na parte inferior do peritônio, bem como coágulos de sangue menstrual residual, sejam erroneamente diagnosticados como miomas. Quando tratamos tais quadros, as toxinas são expelidas sob a forma de corrimento, e o sangue menstrual residual é eliminado durante a menstruação, resultando em uma rápida recuperação. Todavia, é imperativo afirmar que mesmo os miomas uterinos genuínos são invariavelmente curados por meio desta terapia.
+
+Cistos ovarianos purulentos ou aquosos são outra enfermidade de considerável incidência e, de modo semelhante, são relativamente indolores. Nos casos mais graves, podem atingir um volume extraordinário, superando o de uma gestação a termo. Contudo, não é raro encontrar mulheres que, mesmo com um abdômen de tais proporções, continuam a exercer suas atividades diárias, justamente pela ausência de dor. A distensão abdominal assemelha-se à da peritonite, mas há uma diferença crucial: na peritonite, o inchaço estende-se obliquamente em direção ao tórax, ao passo que, nos cistos ovarianos, apenas o abdômen se projeta de forma proeminente, mantendo-se o tórax em seu estado normal, o que facilita a distinção. É preciso reconhecer que, para esta condição, assim como para os miomas, a cirurgia costuma apresentar resultados satisfatórios.
+
+Os médicos, ao examinarem uma paciente com problemas ginecológicos, frequentemente diagnosticam um inchaço nas trompas de Falópio. Acredito, no entanto, que se trata de um erro de diagnóstico. O parecer médico afirma que o inchaço é observado a partir do interior, mas, na realidade, o que ocorre é um acúmulo de toxinas na parte externa, no baixo-ventre. Essa massa de toxinas exerce uma pressão de fora para dentro, criando a aparência de um inchaço interno.
+
+Outro padecimento comum entre as mulheres é a dor menstrual, uma sensibilidade dolorosa que ocorre a cada ciclo. A causa reside no estreitamento ou na obstrução das trompas de Falópio, e a dor advém da força que o sangue precisa exercer para atravessá-las. A origem desse estreitamento, por sua vez, é a pressão externa exercida pelo acúmulo de toxinas que mencionei. Portanto, ao dissolvermos essas toxinas, a cura completa é alcançada. Na minha prática clínica, a recuperação de todas as pacientes com essa condição era a regra, sem exceção.
+
+Ademais, encontramos com frequência mulheres que, mesmo tendo atingido a idade adulta, não menstruam. Tais casos decorrem de uma obstrução severa das trompas de Falópio; removida a causa, a cura é certa. A infertilidade compartilha da mesma origem, sendo, como postula a medicina, uma consequência da obstrução das trompas. Por isso, a sabedoria popular afirma, com veracidade, que mulheres com o baixo-ventre endurecido são inférteis, ou que determinada mulher, ao enrijecer essa região, não poderá mais ter filhos.
+
+Existem também os quadros de retroversão e anteversão uterina. Se há um acúmulo de toxinas na parte anterior do útero, a pressão resultante o desloca para trás, causando a retroversão. Se o acúmulo está na parte posterior, o útero é empurrado para a frente, resultando na anteversão. Ambas as condições são, evidentemente, causas de infertilidade, mas com a nossa terapia, a correção ocorre em um curto espaço de tempo.
+
+Dentre as complicações da gestação, a nefropatia gravídica é bastante comum. O edema severo que a acompanha leva os médicos a recomendarem o aborto induzido. Contudo, essa condição costuma manifestar-se a partir do sétimo ou oitavo mês, o que a caracteriza mais como um nascimento de um natimorto do que como um aborto, representando uma perda imensurável para a nação e um sofrimento atroz para a mãe e seus familiares. A causa reside em um acúmulo preexistente de toxinas na região dos rins. Em condições normais, a pressão exercida apenas pela parte posterior é branda e passa despercebida. Com a gravidez, porém, o útero passa a exercer uma forte pressão pela frente. Os rins, comprimidos por ambos os lados, sofrem uma atrofia severa, o que leva ao acúmulo do excesso de urina no corpo, manifestando-se como edema. Não obstante, este quadro é particularmente suscetível à cura por meio do nosso tratamento, sendo que, na maioria das vezes, duas ou três sessões são suficientes para a recuperação completa. Desse modo, o aborto induzido torna-se desnecessário, e a gestação prossegue para um parto tranquilo. Tal resultado não só traz uma imensa alegria aos envolvidos, como também representa, sob uma perspectiva nacional, uma contribuição de grande valor.
+
+Os enjoos matinais durante a gestação também são um sintoma bastante frequente. Em casos extremos, os vômitos são tão intensos que a gestante mal consegue se alimentar por mais de um mês, chegando ao ponto em que o aborto induzido se torna a única alternativa. A causa, no entanto, é simples: o acúmulo de toxinas na parte externa do estômago, ao ser pressionado pela expansão do útero, entra em um processo de purificação, dissolvendo-se e sendo expelido. O vômito é precisamente essa eliminação. Portanto, ao dissolvermos tais toxinas, a cura se dá de forma rápida.
+
+A gravidez ectópica é outra ocorrência relativamente comum e extremamente temida. A medicina considera a cirurgia como o único recurso. Contudo, por meio da nossa terapia, sua cura é notavelmente simples. É preciso notar que, também neste caso, ocorrem diagnósticos equivocados, o que exige cautela. O quadro clínico se caracteriza por dor abdominal intensa e sangramento por volta do segundo ou terceiro mês de gestação.
+
+Por fim, há mulheres que apresentam um corrimento vaginal abundante. A medicina considera tal sintoma como um problema e aplica diversos tratamentos, todos ineficazes. Atribui-se a causa a um mau funcionamento do útero, mas a verdade é que não há qualquer relação. O corrimento é, simplesmente, o fluxo de toxinas dissolvidas em regiões profundas do corpo que se acumulam temporariamente no útero antes de serem expelidas. Assim sendo, a prática da curetagem em tais circunstâncias é destituída de qualquer sentido. De acordo com minhas pesquisas, a origem desse fluxo é o pus de uma peritonite purulenta que, através do processo de purificação, se liquefaz e é eliminado. Sob essa ótica, o corrimento vaginal é um fenômeno altamente benéfico.
+
+Existem ainda outras condições, como o inchaço da glândula de Bartholin, a vaginite, o prurido, o prolapso uterino e a frigidez, mas estas serão omitidas por ora.
+
+---
+
+# A Profecia de Shakyamuni e o Advento do Mundo de Miroku
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 仏滅と五六七の世 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+
+## A Profecia de Shakyamuni e o Advento do Mundo de Miroku
+
+Posteriormente, Shakyamuni proferiu uma magnífica profecia. Ele vaticinou que, transcorridos cinco bilhões, seiscentos e setenta milhões de anos, adviria a era do Ocaso do Budismo, seguida pela descida do Bodhisattva Miroku para estabelecer Seu Reino. A Era de Miroku foi descrita como um mundo de sonho, inimaginável para a sua época: um lugar onde seria possível, sem sair de casa, viajar para locais a mil léguas de distância, ouvir vozes de paragens igualmente remotas e obter o que se desejasse de qualquer lugar.
+
+Ora, não é notável que o mundo atual já materializou tais previsões? Sob a ótica material, portanto, já adentramos a Era de Miroku. O que, entretanto, por tanto tempo confundiu os budistas foi precisamente o número de cinco bilhões, seiscentos e setenta milhões de anos. Contudo, uma breve reflexão revela seu verdadeiro propósito. É evidente que nem mesmo um ser iluminado como Shakyamuni profetizaria, em termos literais, sobre um futuro tão absurdamente distante. Afinal, de que serviria tal previsão? É absolutamente impossível antever o que terá se tornado o planeta Terra em um período tão vasto.
+
+Na verdade, o propósito era transmitir os algarismos cinco, seis e sete. Pois bem, a Era de Miroku corresponde ao que denomino o Mundo de Miroku (五六七), cuja interpretação revela que cinco representa o Sol; seis, a Lua; e sete, a Terra. Trata-se, em suma, de um mundo de ordem e harmonia.
+
+Para aprofundar essa significação, analisemos a seguinte analogia. O Mundo da Noite, que prevaleceu até agora, corresponde a um período em que o Sol não ascendia aos céus. Embora este seja um fenômeno do Mundo Espiritual, a comparação com o plano terrestre facilita a compreensão. Durante a noite, a Lua brilha no firmamento; contudo, ao completar sua jornada ao redor do globo, ela declina no horizonte oeste e se oculta. Em seu lugar, o Sol emerge do leste e ascende ao zênite, inaugurando o Mundo do Dia. Quando isso ocorre, o Céu se torna Fogo; o mundo intermediário, Hidrogênio; e a Terra permanece como Terra. Eis, portanto, a ordem de cinco, seis e sete. Em suma, o Mundo do Dia é a manifestação do Sol, antes oculto, a brilhar em seu zênite. Essa é a Era de Miroku (五六七).
+
+Em outra ocasião, ao ser questionado por um discípulo sobre a quintessência do Budismo, o Venerável respondeu: "Em uma só palavra, é *Shinnyo* (真如)". *Shinnyo*, indubitavelmente, refere-se à lua de *Shinnyo*, o que indica que, já naquela época, ele revelava que o Budismo é um ensinamento lunar. Ademais, os ideogramas que compõem a palavra significam "como a verdade", o que implica não se tratar da verdade em si. É um ponto que exige profunda reflexão.
+
+Nos sutras budistas, também encontramos a expressão "Realidade Concreta e *Shinnyo*" [実相真如 (Jissō Shinnyo)], mas a ordem está, na verdade, invertida. A "Realidade Concreta" [実相 (Jissō)], por representar a verdade, corresponde ao Mundo do Dia. Já *Shinnyo* representa o Mundo da Noite. Portanto, a sequência correta é *Shinnyo* em primeiro lugar, para que, subsequentemente, o mundo da Realidade Concreta possa surgir.
+
+Um equívoco análogo ocorre noutro ponto. As escrituras mencionam os "Três Mil Grandes Mil Mundos" [三千大千世界 (Sanzen Daisen Sekai)], o que também é uma inversão. Por essa razão, em meu Zengen Sanji, corrigi a expressão para "Grande Mil e Três Mil Mundos" [大千三千世界 (Daisen Sanzen Sekai)]. A lógica é a seguinte: os "Três Mil Mundos" referem-se aos três planos — Divino, Espiritual e Material —, e o "Grande Mil Mundo" é o que os unifica em um todo. O ideograma para "Grande" [大 (Dai)] também pode ser lido como "uma só pessoa", simbolizando o Deus Supremo que a tudo preside.
+
+Adicionalmente, Shakyamuni ensinou que este mundo é um lugar impuro e detestável [厭離穢土 (Enri Edo)], uma morada em chamas [火宅 (Kataku)] e um universo de aflições [苦の娑婆 (Ku no Shaba)]. Ele também falou dos Quatro Sofrimentos — nascimento, doença, velhice e morte —, da impermanência de todas as coisas [諸行無常 (Shogyō Mujō)] e da extinção de todo o mal. Todas essas são, inequivocamente, palavras que denotam um profundo desengano perante o mundo. Ele também ensinou que tudo é vazio [一切空 (Issai Kū)], um silêncio vacilante, um nada.
+
+Ao consolidarmos o significado de tais preceitos, emerge uma conclusão clara: uma vez que este mundo é um lugar de sofrimento, este é inescapável. O ser humano já nasce carregando seu fardo. Lutar contra isso é inútil; o essencial é despertar para essa realidade, ou seja, resignar-se. A 諦め (akirame) – a resignação – torna-se, assim, o caminho. Nutrir grandes esperanças é fútil em um mundo de trevas onde não se pode enxergar um palmo à frente, o que torna a paz de espírito inalcançável. Sendo este um mundo provisório, tudo o que se constrói com grande esforço acaba por se tornar nada, por se reduzir ao vazio, pois nada possui eternidade. Portanto, a única saída é renunciar a todo e qualquer desejo, que não passa de um tormento passageiro. Apenas através da completa resignação, segundo ele, seria possível alcançar a verdadeira paz de espírito e aceitar o seu destino.
+
+Se essa é a quintessência do Budismo, então ela retrata com fidelidade a realidade do Mundo da Noite. Nesse sentido, seus ensinamentos demonstram, de forma irrefutável, que todas as coisas estavam fadadas a um destino limitado à transição para o Mundo do Dia. Consequentemente, a única atitude sensata para a humanidade, até o presente momento, era aguardar a chegada do mundo da Verdadeira Realidade.
+
+---
+
+# O Mal-Estar e o Vômito
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 不快感及び嘔吐 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## O Mal-Estar e o Vômito
+
+Ainda que a sensação de mal-estar se manifeste de múltiplas formas, sem um quadro sintomático definido, podemos elencar suas principais expressões: náuseas, convulsões, calafrios, enjoos de movimento, sensação de torpor e inquietação. Dentre todas, a náusea é, sem dúvida, a mais recorrente. As causas para tal sintoma incluem a ação reflexa do estômago decorrente da anemia cerebral, bem como febres altas, intoxicações alimentares e medicamentosas, o acúmulo de secreção biliar e a estenose pilórica.
+
+As três primeiras causas são de fácil compreensão e dispensam maiores explicações. Dedicarei-me, portanto, a elucidar as três últimas. Primeiramente, a náusea decorrente da intoxicação medicamentosa ocorre da seguinte forma: o fármaco, uma vez absorvido pela mucosa gástrica, infiltra-se nos tecidos adjacentes ao estômago, onde permanece estagnado. Com o decorrer do tempo, essa substância se transforma em toxina, retorna ao interior do órgão e ali se condensa. É então que, mediante a Ação Purificadora, essa massa condensada se dissolve, o que induz a náusea e culmina no vômito. É digno de nota que, em tal situação, o líquido expelido costuma exalar o odor do medicamento ingerido.
+
+Em segundo lugar, abordemos o acúmulo de secreção biliar, que nada mais é do que a expulsão da bile. Este fenômeno ocorre quando o fluxo contínuo de bile para o estômago encontra um obstáculo — seja pela estagnação de alimentos, seja pela interferência de medicamentos. Diante dessa barreira, a bile fica impedida de cumprir sua função de auxiliar na digestão, sendo, por fim, expelida através do vômito.
+
+Finalmente, analisemos o vômito decorrente da estenose pilórica. Este ocorre quando o alimento digerido no estômago, ao tentar passar para o intestino, encontra dificuldade de travessia devido ao estreitamento do piloro. Essa obstrução força o conteúdo a retornar em direção ascendente, o que se manifesta como náusea. Fica claro, portanto, que embora a passagem de alimentos sólidos seja inviável nessa condição, o mesmo não ocorre com os líquidos, que não desencadeiam o mal-estar. A razão é simples: ainda que o orifício do piloro esteja contraído, ele possui abertura suficiente para permitir a passagem de substâncias fluidas.
+
+---
+
+# O Johrei através da Palavra Impressa e um Relato de Salvação
+
+**Categoria:** hu | **Ano:** 昭和29(1954)年1月20日 | **Fonte:** Eikou
+**Título Original:** 再び活字の浄霊に就いて | **Status:** Published | **Edição/Página:** 244号 | **Data ISO:** 1954-01-20
+
+## O Johrei através da Palavra Impressa e um Relato de Salvação
+
+Embora já tenha abordado este tema anteriormente, o relato da senhora a seguir é tão notório que optei por apresentá-lo nesta seção. Ademais, trata-se de um caso raro no qual uma mulher, devido à excessiva quantidade de toxinas medicamentosas, apresentou traços de masculinização. Através dele, pode-se compreender o quão temíveis são os fármacos, ao mesmo tempo que se observa como os inúmeros tratamentos que ela buscou para se curar apenas geraram o efeito contrário, agravando continuamente seu estado. Encontrando-se em profundo desespero, ela felizmente veio a conhecer o Johrei e, recuperando-se gradualmente, encontrou alívio para suas aflições. Por considerar que este relato também servirá como valiosa referência, decidi publicá-lo.
+
+**A cura de uma enfermidade ginecológica que me masculinizou devido às toxinas medicamentosas: Uma experiência pessoal com o Johrei através da palavra impressa**
+
+*Teruko Enome (31 anos), Igreja Meisei Naka, Província de Ishikawa*
+
+Com o mais profundo respeito, venho apresentar meu relato.
+
+Em outubro do ano passado, completaram-se dois anos e meio que minha menstruação havia cessado por completo. Durante esse período, recorri aos mais diversos tratamentos ginecológicos, não apenas em minha localidade, mas também em grandes e renomados hospitais de outras províncias. Submeti-me a lavagens medicinais, recebi setenta injeções de hormônio folicular e sessenta de Bisekkusu. Tentei, ainda, terapias manuais e sessões de moxabustão, nas quais aplicavam o tratamento em dez pontos do meu abdômen, três vezes por sessão, repetindo o procedimento por sessenta ou setenta dias.
+
+Contudo, meu corpo apenas se deteriorava dia após dia. O baixo-ventre tornou-se tão rígido e distendido que tarefas simples como cozinhar e lavar roupa se tornaram insuportáveis. Logo surgiram vertigens e tonturas, a ponto de eu quase desmaiar enquanto caminhava pela rua. Embora já houvesse perdido as esperanças na primavera, voltei a frequentar o consultório médico, onde, por setenta dias, recebi diariamente injeções subcutâneas e intravenosas, sem qualquer resultado. Em abril, o médico sugeriu o uso de uma glândula pituitária bovina, mas, por não ser possível obtê-la na região, optou-se por um procedimento alternativo: o implante de um caro hormônio cristalizado, através de uma incisão em minha coxa. O médico assegurou-me de que se tratava de uma nova e excelente terapia, com a qual eu poderia ficar totalmente tranquila, e que seus efeitos se manifestariam em quatro meses, com a dissolução do implante. Assim, aguardei ansiosamente pelo verão.
+
+Nesse ínterim, meu estado de saúde continuava a piorar. Desde dezembro do ano retrasado, começaram a surgir em meu peito erupções semelhantes à acne masculina, que provocavam uma coceira insuportável quando meu corpo aquecia. Essas erupções foram se espalhando e, no verão, já haviam atingido meu rosto. Entre julho e agosto, perdi quase todo o meu cabelo, a ponto de o couro cabeludo ficar visível e o pente não encontrar mais fios para passar. Paradoxalmente, os pelos dos braços, pernas, peito e costas cresceram, tornando-se espessos, escuros e longos. Meu rosto perdeu toda a delicadeza feminina, e em seu lugar surgiu uma barba negra e áspera, idêntica à de um homem rústico, que eu precisava raspar a cada três dias para que não se tornasse evidente. Minha pele, sem viço, adquiriu um tom sombrio, e as veias saltavam, grossas e dilatadas. Sofria também de constipação e, embora tomasse grandes quantidades de laxantes, meu abdômen apenas se tornava mais duro, inchando até atingir o tamanho de uma gestação de cinco meses. Sentia-me de uma feiura sem remédio; a ideia de ser vista em público era tão dolorosa que eu evitava ao máximo sair de casa, fazendo-o apenas quando as obrigações de esposa me forçavam, o que me causava uma vergonha indescritível.
+
+Eu, que havia aguardado com toda a minha fé os efeitos do implante hormonal, caí em total desespero e aversão à vida. Passei a odiar minha própria imagem no espelho. Que valor ou direito eu teria para repreender meu marido por sair todas as noites? Todos os dias, eu orava à estátua de Jizo, em quem sempre depositei minha fé, e dizia: “Agora, desisti de tudo. Por favor, peço-lhe que me mostre um lugar e uma maneira de morrer. Que seja da forma menos incômoda para os outros, seja com veneno de rato, por enforcamento ou afogamento”.
+
+Contudo, mesmo a mim, no abismo do desespero, Meishu-Sama não abandonou e estendeu Sua mão salvadora. No início de outubro, visitei uma vizinha que, devido ao reumatismo, não conseguia mover as pernas e vivia acamada. Três dias depois, essa mesma senhora veio caminhando até minha casa. Estupefata, perguntei-lhe como conseguira, e ela me contou que havia melhorado frequentando um determinado lugar. Indaguei imediatamente se lá também poderiam tratar do meu problema ginecológico e supliquei que me levasse consigo. Assim, a partir de 7 de outubro, comecei a frequentar a unidade da Sekaikyuseikyou e a receber Johrei do ministro responsável, o senhor Kadoshima.
+
+Recebi uma purificação intensa, em forma de diarreia. Mal saía do banheiro e já sentia necessidade de voltar; na primeira vez, permaneci lá por vinte e cinco minutos. Até a manhã seguinte, precisei ir seis vezes, mas, no dia seguinte, meu corpo não sentia cansaço algum. Pelo contrário, sentia-me revigorada. Fiquei maravilhada com a diferença, tão gritante quanto a que existe entre o céu e a terra, em comparação com uma diarreia comum.
+
+No quarto dia, ao contemplar a fotografia de Meishu-Sama, tive um sobressalto. Até o dia anterior, eu O via de olhos levemente cerrados; hoje, porém, Ele sorria abertamente. “Que mistério!”, pensei, e voltei a olhar, mas Ele continuava sorrindo da mesma forma. No dia seguinte, Sua expressão novamente parecia diferente. A partir daquele momento, nasceu em mim uma convicção inabalável: “Este Deus está vivo. Um espírito sublime habita esta fotografia. Serei curada, sem a menor dúvida”. Até então, por mais que o ministro e sua esposa me dissessem que este Caminho era absoluto, eu pensava comigo mesma que nada no mundo poderia sê-lo. Reconhecer a existência do absoluto trouxe-me uma felicidade indescritível.
+
+Subsequentemente, as mudanças em meu corpo se sucederam dia após dia, e eu sentia a purificação por toda parte. O ministro, com grande entusiasmo, falava-me sobre os Ensinamentos e, muito gentilmente, emprestava-me diversos Escritos Divinos.
+
+Quando recebia Johrei do ministro ou de sua esposa, eu sentia nitidamente as toxinas medicamentosas em minha cabeça se dissolverem e descerem gradualmente pelo pescoço, ombros e flancos, até se concentrarem no baixo-ventre. Passei a notar, também, que ao ler os Escritos Divinos, como o *Shinkō Zatsuwa*, o *Shinji no Kenkō-hō* e o *Reikai Sōdan*, eu sentia em meu corpo exatamente a mesma reação de quando recebia Johrei, algo que não ocorria ao ler jornais, revistas comuns ou mesmo outros relatos de graças. A princípio, não compreendi o que se passava, mas, ao comentar o fato com o ministro, ele me mostrou a edição 184 da revista *Eikou*, que continha o artigo “O homem moderno carrega uma bomba” e também o Ensinamento intitulado “O Johrei através da palavra impressa”. Neste último, Meishu-Sama nos ensina: “Ao ler os textos de minha autoria, a pessoa recebe Johrei através dos olhos. Isso ocorre porque o espírito de quem escreve se comunica com o espírito de quem lê por meio da palavra impressa. E, como os textos que escrevo são a própria Vontade de Deus, o espírito do leitor é purificado”.
+
+---
+
+# A Ofuscação Cultural
+
+**Categoria:** hu | **Ano:** 昭和26(1951)年3月21日 | **Fonte:** Eikou
+**Título Original:** 文化の迷蒙 | **Status:** Published | **Edição/Página:** 96号 | **Data ISO:** 1951-03-21
+
+## A Ofuscação Cultural
+
+É de conhecimento geral que, deixando de lado as questões externas, o problema mais grave que o Japão enfrenta internamente na atualidade é a tuberculose. Nenhuma outra questão se reveste de tamanha importância. Afinal, quaisquer outros desafios, por meio da inteligência, de recursos financeiros e de esforço, invariavelmente apresentam algum progresso e, mesmo que não sejam solucionados de uma só vez, caminham gradualmente para uma resolução, sem uma única exceção. Contudo, apenas neste campo, apesar dos vultosos investimentos anuais e dos esforços hercúleos de autoridades e civis, não apenas inexistem resultados positivos, como se observa uma tendência de agravamento a cada ano. Portanto, ao analisarmos esta questão com isenção e uma mente desprovida de preconceitos, o futuro se revela unicamente sombrio e desolador.
+
+Todavia, ao observarmos as autoridades e os especialistas, respaldados por seus sólidos conhecimentos médicos, empregando todos os recursos e métodos que julgam irretocáveis, seria natural supor que seus esforços resultariam em considerável progresso e na gradual diminuição da doença. Qual não é a surpresa, contudo, quando a realidade contraria essa lógica e, como mencionado, o mal não apenas persiste, como se alastra. Diante de tal quadro, o surgimento de dúvidas seria a reação mais sensata. No entanto, em vez disso, prosseguem de forma obstinada, como se tivessem antolhos, apegados a métodos de eficácia não comprovada. E assim, a colossal soma de impostos, fruto do sangue e do suor do povo, é inutilmente dissipada, e o trabalho de incontáveis pessoas se perde em vão. Tal situação não pode, de forma alguma, ser negligenciada.
+
+O que desejamos afirmar, entretanto, é que a tuberculose pode ser completamente curada e o número de doentes reduzido progressivamente, empregando-se uma ínfima fração dos recursos que o governo atualmente despende. Isso não se trata de mera retórica, mas de uma verdade comprovada pelos inúmeros casos concretos e testemunhos vivos que diariamente publicamos em nossos jornais e revistas. Diante de tais fatos, não deveria haver margem para dúvidas. É de se supor que alguns dos responsáveis pelo combate à tuberculose já tenham tido contato com esses relatos. Contudo, é verdadeiramente incompreensível que, até o presente momento, nenhum deles nos tenha procurado para averiguar a questão.
+
+Qualquer indivíduo dotado de bom senso, ao deparar-se com tais artigos, sentir-se-ia compelido a investigar a veracidade de nossas afirmações. Afinal, se uma enfermidade que resiste a tantos esforços oficiais pode ser curada sem o uso de medicamentos ou aparelhos, como afirmamos, estaríamos diante de uma descoberta de proporções monumentais. Por outro lado, se nossas alegações fossem falsas, seríamos uma religião perniciosa, a exigir uma intervenção enérgica por parte das autoridades. Portanto, em qualquer um dos cenários, uma investigação aprofundada seria indispensável. A ausência de tal iniciativa até hoje revela uma psicologia difícil de decifrar.
+
+Pode-se supor que nos descartam pela simples razão de sermos uma religião. Outra possibilidade é que estejam dogmaticamente convencidos de que a solução para a tuberculose reside, única e exclusivamente, na ciência materialista, não havendo outra alternativa em todo o mundo. Não seria essa uma mentalidade ainda mais feudal que a daqueles que, no final do período Edo, temiam os missionários cristãos?
+
+A verdade é que, diante de um problema tão urgente e refratário aos tratamentos médicos convencionais, o caminho lógico seria buscar outras soluções. Dever-se-ia estar aberto a explorar qualquer método que se mostrasse superior à medicina, independentemente de sua origem. Afirmo categoricamente que esta é a única chave para a resolução do impasse. Nesse sentido, a única alternativa que se enquadra em tais requisitos é, sem sombra de dúvida, o Johrei de nossa Igreja. Com sua prática, a solução para este complexo problema se tornaria mais clara que a luz do dia. Se é possível atingir o objetivo de forma tão simples e com um custo praticamente nulo, por que se obstinar em defender o método tradicional, recusando-se a volver o olhar para outras direções? É doloroso assistir a tamanha cegueira.
+
+Há anos nossa Igreja apresenta resultados concretos, mas os intelectuais de hoje insistem em cobrir os olhos para não ver. Clamamos a plenos pulmões, mas nossas palavras não lhes chegam aos ouvidos. É uma situação deveras aflitiva. Se o problema se restringisse a eles, talvez pudesse ser tolerado. Contudo, sua atitude resulta no sacrifício de milhares e milhares de vidas, o que o converte em uma questão da mais absoluta gravidade. Pode-se dizer, sem exagero, que se trata de uma tragédia não menos terrível que uma guerra.
+
+Se me vejo obrigado a expressar-me de forma tão contundente, é unicamente por não mais suportar a observação da gravíssima e urgente situação atual. Considerem, pois, estas palavras como um grande e solene alerta.
+
+---
+
+# Uma Proposta ao Governo
+
+**Categoria:** hu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 付録 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## Uma Proposta ao Governo
+
+Aproveito a oportunidade para apresentar, a título de apêndice, uma proposta que anseio ver implementada pelo governo. Rogo encarecidamente que as autoridades, os especialistas e, naturalmente, os mais eminentes intelectuais de nossa nação concedam sua devida atenção à tese que aqui exponho.
+
+No grave momento que o Japão atravessa, a vitória na Grande Guerra exige, de forma inquestionável, que as antigas estruturas, já inadequadas aos novos tempos, sejam reformadas com inabalável determinação. Nesse sentido, é com grande satisfação que observamos o governo empreender, desde o início do conflito, uma série de políticas inovadoras jamais vistas. É nesse contexto que desejo apresentar uma proposta concernente à questão dos recursos humanos, cuja implementação considero de suma urgência para a nação.
+
+Conforme detalhei anteriormente, a solução para o problema dos recursos humanos reside, primordialmente, na redução do número de doentes. Tal objetivo, por sua vez, exige o emprego de uma arte de curar que possua um poder terapêutico genuíno.
+
+Contudo, a realidade é que o governo, até hoje, tem se apoiado exclusivamente na medicina ocidental, ignorando outras abordagens. Essa postura se deve, presumivelmente, à crença de que não existe terapia mais eficaz. Todavia, os fatos demonstram o contrário. Apesar de todos os recursos da medicina ocidental serem empregados, os resultados não apenas frustram as expectativas, como revelam uma tendência de constante agravamento, o que é particularmente notório no caso da tuberculose. Diante disso, exijo do governo uma reforma de grande envergadura: o reconhecimento de que existem, no seio do povo, terapias de eficácia superior à da medicina ocidental. Refiro-me a terapeutas que, embora se dediquem dia e noite, de forma anônima, à saúde da nação e alcancem resultados extraordinários, permanecem sem o devido reconhecimento, sendo tratados com descaso.
+
+Atualmente, o Japão avança em uma grande marcha, com governo e povo unidos para o fortalecimento de nosso poderio militar. Para contribuir com esse esforço, afirmo que não há medida mais eficaz do que despertar do sonho da dependência exclusiva da medicina ocidental. Ouso dizer que, se não despertarmos o quanto antes, o futuro de nossa nação estará em perigo. Nesse intuito, proponho um plano de extrema simplicidade e eficácia, que acredito ser o ponto de partida para a solução do problema da saúde pública e cuja implementação, prevejo, se tornará inevitável com o tempo. O plano é o seguinte:
+
+Primeiramente, selecionem-se dez pacientes com tuberculose. A razão para a escolha dessa doença é a facilidade em encontrar casos com sintomatologia semelhante, além de ser a questão de saúde mais premente da atualidade.
+
+Para esses dez pacientes, serão escolhidos dez tipos de terapeutas, representando as seguintes abordagens: medicina ocidental (clínica e cirúrgica), moxabustão, terapia nutricional, eletroterapia, shiatsu, terapia espiritual, terapia reiki, terapia natural, entre outras. O experimento consistirá em um teste de um mês. Ao final desse período, alguns pacientes apresentarão melhora; outros, nenhuma alteração; e outros, ainda, uma piora em seu quadro.
+
+Contudo, como um único mês é insuficiente para se obter um resultado conclusivo, o procedimento deverá ser repetido. Dessa forma, ao longo de dez meses, cada grupo de pacientes será submetido aos dez diferentes tipos de terapia. Com isso, a distinção entre os tratamentos eficazes, os inócuos e os prejudiciais se tornará perfeitamente clara. Diante dos resultados, o governo deverá orientar os terapeutas cujos métodos se mostrarem ineficazes ou nocivos a adotarem as práticas comprovadamente benéficas. E, naturalmente, mesmo entre as terapias eficazes, deverá ser selecionada aquela que demonstrar a superioridade máxima.
+
+A terapia que alcançar o primeiro lugar nesse processo será o instrumento que solucionará, de uma só vez, o complexo problema da saúde pública — e, em especial, o da tuberculose. Essa solução será alcançada em apenas dez meses, com um esforço mínimo. Seus efeitos serão fundamentais e perenes e, por constituírem a condição basilar para a superação da presente crise nacional, sua implementação é um imperativo.
+
+Uma dificuldade previsível na execução deste plano reside na seleção dos terapeutas. Em minha opinião, a melhor abordagem seria convocar talentos de todo o país por meio de anúncios no Diário Oficial ou nos jornais de grande circulação. Dada a natureza do desafio, é razoável supor que somente se candidatariam profissionais com extrema confiança em suas habilidades, o que já garantiria um alto nível de competência entre os inscritos. Caso o número de candidatos seja elevado, podemos simplesmente aumentar a quantidade de grupos de dez pacientes. Através dos testes mensais, os métodos ineficazes ou prejudiciais seriam gradualmente eliminados, restando apenas os de excelência. Dentre estes, uma nova seleção seria feita até que restasse, ao final, o método mais eficaz: o primeiro colocado. Há, no entanto, uma condição crucial: por mais notável que seja a terapia vencedora, ela não pode ser uma arte secreta, destinada a desaparecer com seu mestre. Deve ser um método que qualquer pessoa possa aprender e, por meio dele, obter resultados concretos.
+
+A arte de curar que for consagrada como a primeira colocada ao final deste experimento deverá, portanto, ser estabelecida como a medicina do futuro do Japão.
+
+---
+
+# Esclarecimentos sobre os Relatos Apresentados
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
+**Título Original:** 付録に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
+
+## Esclarecimentos sobre os Relatos Apresentados
+
+Os cem relatos de experiência aqui reunidos são, na sua totalidade, testemunhos manuscritos pelos próprios agraciados. Cumpre esclarecer que não foram objeto de uma seleção criteriosa; representam, na verdade, uma amostragem colhida ao acaso dentre os numerosos depoimentos que se acumularam do último ano até a presente data.
+
+Tal procedimento se deve ao fato de que todos os depoimentos são, em essência, substancialmente semelhantes, tornando supérfluo qualquer processo de seleção.
+
+Ademais, o leitor notará que os textos contêm trechos referentes a outros assuntos além da tuberculose. Mesmo nestes casos, optamos por não realizar a mais ínfima supressão, preservando a total integridade dos originais. Consequentemente, é possível que certos pontos soem um tanto prolixos; todavia, rogamos a compreensão e a benevolência de todos a este respeito.
+
+---
+
+# Uma Análise sobre o Mahayana e o Hinayana no Budismo
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 仏教に於ける大乗小乗 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+
+## Uma Análise sobre o Mahayana e o Hinayana no Budismo
+
+Anteriormente, já tive a oportunidade de escrever que a essência original do Budismo reside no Hinayana. Todavia, cumpre compreender que, mesmo dentro do Budismo, coexistem as correntes Mahayana e Hinayana. Para elucidar essa questão, pode-se entender o Hinayana como um caminho fundamentado no esforço próprio, e o Mahayana, na força alheia. Nesse sentido, as escolas Zen e Nichiren pertencem ao Hinayana, enquanto todas as demais se alinham ao Mahayana. Iniciarei, portanto, pela análise do Hinayana. Por se basear no esforço próprio, essa vertente estabelece o ascetismo rigoroso como seu postulado primordial, um princípio cuja raiz remonta ao Bramanismo. Tal característica se manifesta de forma particularmente acentuada na Escola Zen.
+
+Conforme detalhei em outra ocasião, o espírito do Budismo preconizado por Shakyamuni refutava o ascetismo bramânico como um equívoco, propondo em seu lugar a obtenção da iluminação pela entoação dos sutras — um caminho que se poderia denominar de religião dos sutras. Embora essa nova abordagem tenha, por certo período, dominado o cenário espiritual indiano, um grupo específico se recusou a adotá-la, permanecendo fiel ao Bramanismo. Com uma fé inabalável, seus seguidores continuaram a trilhar a senda do ascetismo e da abnegação, tendo como ponto central de sua devoção a figura de Bodhidharma. Com efeito, a quintessência do pensamento de Bodhidharma alicerçava-se no binômio do ascetismo e da erudição, considerando que a disciplina e o aprimoramento intelectual, por meio de ambas as vias, conduziriam à iluminação.
+
+Décadas após o falecimento de Shakyamuni, emergiu entre os praticantes do Bramanismo uma figura proeminente: o célebre Vimalakirti. Ele é, na verdade, o patriarca da Escola Zen, cuja linhagem principal corresponde à Rinzai Zen. Após consolidar sua obra, Vimalakirti deixou a Índia e se estabeleceu na China. Ali, peregrinou por diversas regiões para disseminar seus ensinamentos e, por fim, ascendeu ao famoso Monte Wutai, onde fundou um centro de práticas e se tornou o patriarca do Taoísmo. Por essa razão, a rigor, a Escola Zen não se originou do Budismo; ela foi posteriormente assimilada ao contexto budista ao chegar ao Japão, possivelmente por dificuldades encontradas em sua propagação. Essa origem distinta elucida por que os templos, as práticas e a vida cotidiana dos monges Zen divergem tão acentuadamente das demais escolas budistas.
+
+A prática do Zazen, exclusiva da Escola Zen, foi modelada, como é de se esperar, nos treinamentos de seu precursor, Bodhidharma. Da mesma forma, o fato de a dialética do diálogo ser considerada um postulado fundamental da prática é outra característica que a distingue das demais vertentes budistas, e certamente deriva de sua matriz acadêmica. Essa tese é corroborada pela análise dos monges Zen da antiguidade, tanto na China quanto no Japão. Aqueles de elevada erudição compunham poemas no estilo chinês que continham a essência da iluminação Zen, criando o que se poderia chamar de uma poesia Zen. Muitas dessas caligrafias e obras de grande formato sobreviveram até hoje e são extremamente valorizadas por apreciadores, alcançando altos valores. Ao contemplá-las em silêncio, percebe-se uma fragrância de desapego mundano que toca profundamente o coração, expressando com maestria a personalidade de seu autor e inspirando um sentimento de profunda reverência. Dentre eles, o Mestre Zen Yuanwu, autor do célebre 'Registro do Penhasco Azul', é reverenciado como o maior expoente da China.
+
+No Japão, o patriarca da Escola Zen é Daito Kokushi, fundador do templo Daitoku-ji, em Quioto. Trata-se de um monge de notável proeminência em sua época, e tanto sua erudição quanto sua caligrafia podem ser consideradas, sem hesitação, as mais insignes do Japão. Em seguida, destaca-se o Mestre Zen Mugaku Sogen, fundador do Engaku-ji, em Kamakura, por cuja caligrafia nutro especial apreço. Sob essa perspectiva, os monges Zen de alta patente se assemelham mais a eruditos da religião do que a sacerdotes propriamente ditos. Atualmente, a Escola Zen no Japão se divide em três ramificações: Soto, Rinzai e Obaku. A Escola Obaku, contudo, possui uma presença bastante reduzida no país, sendo mais florescente na China. Feitas essas considerações sobre a Escola Zen, passemos agora à análise da Escola Nichiren.
+
+A Escola Nichiren, naturalmente, insere-se no Budismo Hinayana, sendo fundamentada na autossuficiência alcançada por meio de práticas ascéticas. Consequentemente, não parece atribuir a mesma relevância a Shakyamuni ou a Amida que outras vertentes. Como é de amplo conhecimento, seus seguidores devotam-se de modo unívoco a reverenciar o fundador, Nichiren Shonin, e buscam fortalecer seu poder interior por meio de rigorosas disciplinas. Sob essa ótica, pode-se afirmar que essa escola transcende o Budismo de Shakyamuni para haurir diretamente da corrente bramânica. O próprio mestre declarou: "Sou um praticante do Sutra de Lótus", e o termo "praticante" também provém do Bramanismo. Dito isso, é inegável que Nichiren Shonin também atribuía grande importância aos sutras de Shakyamuni, o que fica evidente ao ter estabelecido os vinte e oito capítulos do Sutra de Lótus como alicerce de sua doutrina. Poder-se-ia dizer que, em espírito, o mestre seguia o Bramanismo, enquanto na forma, aprendeu com Shakyamuni. Ademais, essa escola incentiva vivamente os fenômenos de possessão espiritual como um de seus principais treinamentos, o que também revela uma afinidade maior com as práticas bramânicas do que com as budistas.
+
+---
+
+# Esclarecimentos sobre as Enfermidades Femininas
+
+**Categoria:** hu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 婦人病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+
+## Esclarecimentos sobre as Enfermidades Femininas
+
+Existem diversas patologias femininas, contudo, as mais frequentes são as que acometem o útero, tais como a endometrite, a parametrite, a perimetrite, a anteversão e retroversão, o subdesenvolvimento uterino, os miomas e o câncer.
+
+A endometrite, por exemplo, manifesta-se pelo acúmulo de toxinas oriundas do corrimento vaginal (leucorreia), que se aderem como impurezas à parede interna do útero. A febre baixa que a acompanha nada mais é do que um processo de purificação catalisado por essa condição. Permitir que esse processo siga seu curso natural não acarreta qualquer prejuízo à saúde. A medicina, todavia, recorre à curetagem, um procedimento desprovido de real significado, uma vez que a condição original retorna em pouco tempo. Portanto, a cura definitiva só pode ser alcançada pela erradicação da causa da leucorreia, ou seja, a plena recuperação da peritonite purulenta subjacente. Visto que a medicina é incapaz de tal feito, limita-se a intervenções paliativas como a curetagem.
+
+A parametrite é um estágio mais avançado da endometrite, enquanto a perimetrite consiste na purificação de toxinas acumuladas na parte externa do útero. A causa da anteversão e da retroversão uterina reside na pressão exercida por toxinas solidificadas: no caso da anteversão, a pressão ocorre na face posterior do útero; na retroversão, o oposto, com a pressão vindo da face anterior. Em ambas as situações, a cavidade uterina é deslocada, o que pode resultar em infertilidade. A medicina considera a cirurgia uma opção viável para remover essas toxinas e corrigir a posição do útero. Contudo, tal solução é meramente temporária, pois as toxinas voltam a se acumular, e o problema retorna.
+
+O subdesenvolvimento do útero, por sua vez, deve-se à pressão constante exercida por toxinas acumuladas em seu entorno, cuja causa primária reside nos rins atrofiados. Com efeito, ao apalpar o baixo-ventre de pacientes com essa condição, nota-se uma rigidez incomum, assim como nódulos de toxinas solidificadas na região renal. Os miomas são tumefações que se formam em parte da musculatura que sustenta o útero. Podem apresentar-se como nódulos únicos ou múltiplos, de tamanhos variados. A medicina os remove cirurgicamente, procedimento que, embora possa apresentar resultados, deixa como sequela toxinas medicamentosas residuais que, com o tempo, manifestam-se em diversas outras desordens patológicas. Por essa razão, a cirurgia não é recomendável.
+
+No que tange ao câncer de útero, os erros de diagnóstico médico são frequentes. Quando uma mulher na pós-menopausa apresenta sangramento, a suspeita médica recai imediatamente sobre o câncer uterino, especialmente se houver um endurecimento palpável no baixo-ventre. Esse nódulo é então identificado como um tumor e removido cirurgicamente. Na realidade, porém, na vasta maioria dos casos, trata-se apenas de um acúmulo de sangue menstrual antigo. Com efeito, ao aplicarmos nosso método terapêutico a tais quadros, observa-se, geralmente em dois ou três dias, um sangramento volumoso que cessa por si, levando à cura completa, como se o problema tivesse sido varrido. Assim, as diversas enfermidades uterinas aqui mencionadas são, em sua maioria, curáveis por meio do nosso tratamento.
+
+Outra enfermidade comum é o cisto ovariano. A medicina, por meio de cirurgia, remove o ovário para eliminar o pus ali acumulado. Geralmente, a intervenção ocorre em apenas um dos ovários, mas, em casos raros, ambos são removidos. Embora a cirurgia seja relativamente eficaz, a remoção de um ovário diminui as chances de gravidez, e a de ambos, evidentemente, causa infertilidade. Ademais, é sabido que a remoção tanto do útero quanto dos ovários não só impossibilita a gestação, como também altera a personalidade da mulher, tornando-a mais masculinizada. Por meio de nosso método, embora demande tempo, a cura completa é geralmente alcançada.
+
+A gonorreia também é uma doença frequente entre as mulheres. É similar à manifestação masculina, com a diferença de que as inflamações da próstata e dos testículos não ocorrem. Contudo, como a uretra feminina é mais curta, a bexiga é mais facilmente afetada, e a infecção pode chegar a atingir os rins. Existe também a inflamação das glândulas de Bartholin, localizadas na base dos pequenos lábios, responsáveis pela secreção de muco lubrificante. Quando essas glândulas incham devido à bactéria da gonorreia, a medicina recorre à cirurgia para removê-las, o que resulta na diminuição da libido. Logo, a cirurgia é desaconselhável, especialmente porque a condição se cura espontaneamente se deixada em paz.
+
+No que concerne à menstruação, existem a amenorreia, a dismenorreia e a irregularidade menstrual. A amenorreia é a ausência de menstruação após a idade em que ela normalmente se inicia, por volta dos treze ou catorze anos para as japonesas. A causa é o bloqueio das trompas de Falópio, ocasionado pela pressão de toxinas solidificadas em sua abertura. A dismenorreia, por sua vez, é a dor sentida quando o fluxo sanguíneo passa por essas trompas estreitadas pela mesma pressão. A irregularidade menstrual tem origem semelhante. Todas essas condições são facilmente sanadas com o nosso tratamento, ao passo que a medicina as considera de difícil cura por desconhecer um método para dissolver as toxinas. Frequentemente, a medicina diagnostica uma "inflamação" das trompas, mas isso é um equívoco. Na verdade, o que ocorre é uma compressão externa por toxinas; a visão médica, sendo interna, interpreta erroneamente esse estreitamento como um inchaço.
+
+A nefrite gestacional também é comum, surgindo geralmente a partir do sétimo ou oitavo mês de gravidez e acompanhada de edema severo. Os médicos consideram a condição perigosa e induzem o aborto. A causa, no entanto, é a combinação da pressão exercida por toxinas preexistentes na região posterior dos rins com a pressão adicional proveniente do útero em expansão. Essa dupla compressão agrava a atrofia renal, e o edema é resultado do excesso de urina que não pôde ser eliminado. Com o nosso tratamento, poucas sessões são suficientes para a cura completa.
+
+Os enjoos matinais durante a gestação são um sintoma bastante recorrente. Em casos extremos, os vômitos são tão frequentes que a gestante mal consegue se alimentar por mais de um mês, tornando o aborto induzido uma necessidade. Conforme já explicado, a causa reside na compressão de um acúmulo de toxinas na parte inferior do estômago, provocada pela expansão uterina. O vômito, nesse sentido, é uma ação purificadora natural que visa remover esse obstáculo ao crescimento do abdômen. Com o nosso método, a cura é alcançada facilmente.
+
+A gravidez ectópica é outra ocorrência relativamente comum e bastante temida, para a qual a medicina não oferece outra solução senão a cirurgia. A causa, evidentemente, é a fecundação que ocorre no interior da trompa de Falópio. Se, por volta do segundo ou terceiro mês de gestação, a mulher sentir uma dor abdominal intensa seguida de sangramento, deve-se suspeitar de gravidez ectópica. Nosso método, com poucas sessões de tratamento, promove a cura completa.
+
+A leucorreia está presente em quase todas as mulheres. A medicina a considera um problema e aplica diversos tratamentos que, como é de conhecimento geral, são ineficazes. A visão médica atribui o problema a uma desordem uterina, o que é um erro. O útero não tem relação alguma com o fenômeno. Na verdade, trata-se de um processo de purificação lento das toxinas de uma peritonite purulenta. Essas toxinas, ao se dissolverem, acumulam-se temporariamente no útero antes de serem expelidas. Portanto, é um processo benéfico para a saúde e, se deixado seguir seu curso, leva à cura natural. Cumpre notar, entretanto, que a vaginite, o vaginismo e a coceira vaginal são irritações causadas pelas toxinas presentes na leucorreia.
+
+O prolapso uterino é mais comum em mulheres que já deram à luz. A causa é uma combinação do relaxamento dos músculos uterinos devido à força feita durante o parto e a recuperação incompleta da dilatação do colo do útero. Na maioria dos casos, o problema se resolve espontaneamente, mas nosso tratamento acelera consideravelmente a recuperação completa.
+
+A frigidez é mais comum do que se imagina, mas permanece um segredo para muitas. A medicina atribui a condição à deficiência hormonal e ao subdesenvolvimento uterino. Ambas as causas, no entanto, são oriundas da atrofia renal. Por essa razão, nosso tratamento apresenta resultados notáveis e seguros.
+
+Finalmente, há um ponto crucial a se compreender sobre a gestação: é possível prever a facilidade ou dificuldade do parto ao observar o estado da gestante. Quando a gestante é saudável, apenas o útero se expande, sem outras anormalidades no corpo; o abdômen se assemelha a uma esfera perfeitamente redonda e saliente. Nessa condição, o parto será tranquilo, a gestante se sentirá ágil e ativa até o final e a recuperação pós-parto será excelente.
+
+Em contrapartida, é comum ver gestantes cujo inchaço se estende do baixo-ventre até a região lombar. Nesses casos, o parto tende a ser difícil. À medida que a data se aproxima, o corpo fica pesado, a mobilidade é reduzida e a recuperação pós-parto costuma ser desfavorável. Tal inchaço generalizado é, evidentemente, um edema causado pela atrofia renal. Com o nosso método, essa condição é facilmente curada, o que torna o parto extremamente tranquilo e o bem-estar antes e depois do nascimento, notavelmente bom. Diante de tais resultados, não há quem não se sinta grato pela magnífica eficácia do nosso tratamento.
+
+---
+
+# Sobre a Anomalia da Gestação Molar
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年10月8日 | **Fonte:** Eikou
+**Título Original:** 葡萄状鬼胎とは | **Status:** Published | **Edição/Página:** 177号 | **Data ISO:** 1952-10-08
+
+## Sobre a Anomalia da Gestação Molar
+
+Dentre as gestações anômalas conhecidas desde a antiguidade, há uma que é particularmente temida: a chamada gestação molar. Já abordei este assunto em outra ocasião; contudo, o relato que se segue serve como uma excelente referência, por ilustrar vividamente a realidade desse fenômeno. A sua causa reside, na verdade, na oofonia de rãs, cuja aparência se assemelha a um cacho de uvas. Essa condição manifesta-se como uma maldição, decorrente do ato de se alimentar de uma rã prenhe ou de destruir seus ovos na água. De fato, os ovos de uma rã de grande porte podem se assemelhar a um cacho de uvas italianas, apresentando um aspecto verdadeiramente repulsivo. Por meio deste exemplo, pode-se compreender que existem, com frequência, questões que a medicina puramente materialista é incapaz de solucionar.
+
+***
+
+## Salvação de Uma Doença de Doze Anos e a Superação de uma Gestação de Risco
+
+Relato de Mie Ochiai (34 anos), da Igreja Koshin-chū, Província de Shizuoka
+
+Com a mais profunda reverência, venho relatar a divina proteção que recebi.
+
+Até me casar, fui abençoada com uma saúde plena, a ponto de jamais ter necessitado de um único remédio. No entanto, após contrair matrimônio em 1937 e dar à luz meu primeiro filho no ano seguinte, minha recuperação pós-parto foi extremamente difícil. Entreguei-me aos mais diversos tratamentos médicos, mas minha condição apenas oscilava entre breves melhoras e recaídas, sem que eu conseguisse emergir do abismo da enfermidade. Meu coração enfraqueceu-se ao extremo, e os medicamentos perderam todo o seu efeito. Em meu desespero, tal como um náufrago que se agarra a qualquer destroço, recorri cegamente a tudo o que me era sugerido, como acupuntura e outras práticas religiosas. Meu único anseio era recuperar a saúde para, como mãe, poder abraçar meu filho pequeno com o amor que lhe devia e criá-lo de forma digna.
+
+Meu marido partira para a guerra pouco antes do nascimento do nosso filho, e eu, que deveria sustentar o lar em sua ausência, via-me acamada por uma força doentia. Não apenas as despesas médicas se acumulavam, como também o sustento diário se tornava insustentável. A agonia que enfrentei transcende a capacidade das palavras. Houve momentos em que, com a mente perturbada, cheguei a esquecer o valor da vida e a contemplar o caminho da morte. Contudo, em cada uma dessas ocasiões, uma voz em meu íntimo bradava: “Você não pode morrer! Não pode! Por seu filho, precisa viver o máximo que puder!”. Assim, amparada unicamente pelo fio do amor materno, continuei a lutar contra a doença e o sofrimento.
+
+Certo dia, uma amiga que veio me visitar compartilhou comigo diversos relatos sobre as graças concedidas pela Sekaikyuseikyou. Enquanto a ouvia, no âmago do meu ser, que se encontrava no fundo do abismo do pessimismo e desprovido de qualquer luz, senti algo resplandecer intensamente. “Serei salva! Tenho a mais absoluta certeza de que Deus da Luz me salvará!” Embora sejam palavras de grande ousadia, senti um desejo avassalador de me agarrar com todas as minhas forças à mão salvadora de Deus da Luz. Sem perceber, eu já me encontrava em prece no leito, e lágrimas de júbilo escorriam incessantemente por meu rosto emagrecido.
+
+Naquele instante, a figura de minha amiga pareceu-me verdadeiramente divina. Através dos olhos marejados, até mesmo o rosto de meu filho, que dormia serenamente, parecia irradiar alegria. Foi nesse momento que a esperança de vida e a convicção de que eu poderia viver plenamente como mãe inundaram todo o meu ser. Abracei meu pequeno e clamei em meu coração: “Serei salva! E não apenas eu, meu filho também receberá a salvação! Com toda a certeza!”.
+
+Com palavras firmes, minha amiga me disse: “Você também, com certeza, receberá a virtude espiritual de Deus da Luz e será salva. Desperte do sonho de ilusão em que viveu até hoje e apegue-se a Ele de todo o coração. O motivo de minha visita hoje foi justamente o desejo de que você alcançasse esse despertar. A partir de hoje, vamos juntas nos apegar à mão salvadora de Deus da Luz e viver com força e retidão. Você compreende, não é?”. Meu peito, todavia, tremia de tal forma com a emoção que fui incapaz de responder de imediato. Naquele dia, ela ministrou-me a purificação espiritual por cerca de trinta minutos antes de partir.
+
+O que se sucedeu foi que, naquela noite, eu, que até então mal conseguia dormir, adormeci profundamente, sem ter um único sonho.
+
+Na manhã seguinte, minha amiga trouxe consigo o Reverendo Suganuma, por intermédio de quem passei a receber continuamente a purificação espiritual. Após a primeira, a segunda e a terceira ministração, tive uma purificação em forma de diarreia. A cada evacuação, meu apetite aumentava e a rigidez em meus ombros se aliviava. Após cerca de vinte dias nesse estado, certa manhã, tive uma purificação com sangramento. O fluxo era tão intenso que, embora eu compreendesse ser uma purificação, consultei o reverendo. Ele me explicou que se tratava da eliminação do sangue tóxico que deveria ter sido expelido após o parto, e que eu deveria ser grata, sem me preocupar. Suas palavras me fizeram despertar para minha própria ignorância; minha apreensão transformou-se em gratidão, e minha gratidão, em uma fé ainda mais profunda.
+
+Após essa purificação, minha saúde foi se restabelecendo gradualmente, como se finas camadas de um mal antigo fossem removidas a cada dia. A terrível doença que me atormentou por doze longos anos foi completamente curada em aproximadamente dois meses. Dores de cabeça, rigidez nos ombros, falta de apetite, insônia, dificuldade para respirar, tonturas – todos esses males desapareceram sem deixar vestígios. Cada vez que me recordo dos doze anos de luta contra a enfermidade, meu coração transborda em gratidão. Se isto não é um milagre, o que mais poderia ser?
+
+Em junho de 1949, nossa família de três pessoas ingressou na fé, com os corações plenos de gratidão. A luz divina iluminou nosso lar, por tanto tempo imerso na escuridão, e passamos a viver com esperança e sem qualquer apreensão, dedicando-nos ao nosso trabalho. Paralelamente, esforço-me para levar a sublime virtude espiritual de Deus ao maior número possível de pessoas que sofrem com doenças.
+
+Na primavera do ano passado, engravidei. Com o passar dos meses, sentia que aquela gestação era diferente das normais, mas seguia trabalhando e orando pela proteção de Meishu-Sama. Cheguei ao final do período gestacional sem nenhuma anormalidade, aguardando a data prevista. Contudo, o dia chegou e não havia qualquer sinal do parto. Familiares e conhecidos me aconselharam a consultar uma parteira. Após o exame, ficou claro que se tratava de uma gestação molar. A parteira, muito preocupada, indicou-me um médico especialista e recomendou uma intervenção cirúrgica.
+
+Contudo, para mim, não havia qualquer necessidade de dar ouvidos a tais recomendações. Por ser uma pessoa com muitas impurezas espirituais, manifestei essa gestação anômala devido ao meu carma. Eu tinha a firme convicção de que Deus, infalivelmente, me concederia um parto natural. Assim, dirigi-me imediatamente para ter uma audiência com Meishu-Sama e, após rogar por Sua proteção para um parto seguro, retornei para casa. Continuei a receber a purificação espiritual do reverendo e, certo dia, durante uma ministração, tive subitamente um fenômeno de possessão espiritual. Como resultado, a causa de minha gestação anômala foi, então, inteiramente revelada.
+
+O espírito que se manifestou em mim era o de uma rã. Ocorreu que, durante o período em que estive doente, por recomendação de uma pessoa, alimentei-me de uma grande quantidade de rãs vermelhas. Tratava-se, portanto, do espírito vingativo desses seres. Arrepender-me agora de nada adiantaria. Eu mesma deveria quitar o débito por ter consumido, como ser humano, algo que não deveria.
+
+Posteriormente, seguindo as exigências do espírito, entoei a Prece de Louvor e roguei ao Grande Deus do Mundo Espiritual. Poucos dias depois, as contrações começaram de repente. As dores abdominais duraram de duas a três horas, semelhantes às de um parto normal. Em meio às dores do trabalho de parto, orava fervorosamente a Meishu-Sama, suplicando por Sua proteção. Senti duas contrações muito fortes e, com a terceira, o parto se consumou.
+
+De fato, o que expeli foi a massa em forma de cacho de uvas. Minha recuperação foi excepcionalmente tranquila. Diante de tão imensa proteção, não sei como expressar minha gratidão, nem mesmo como retribuí-la. Em nossos dias, muitos ainda zombam da Sekaikyuseikyou, tratando-a como superstição e seita maligna, alheios a esta graça tão sublime. De agora em diante, com minhas parcas forças, devotar-me-ei ainda mais para que, o quanto antes, o maior número possível de pessoas possa conhecer esta verdade.
+
+Meishu-Sama, sou-Lhe imensamente grata.
+
+Embora minhas palavras sejam simples e minha redação, despretensiosa, apresento com a máxima reverência este relato da divina proteção que recebi.
+
+---
+
+# Uma Análise sobre as Enfermidades Femininas
+
+**Categoria:** hu | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 婦人病 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+
+## Uma Análise sobre as Enfermidades Femininas
+
+O termo "enfermidades femininas", embora abranja um vasto espectro de condições, como é de conhecimento geral, refere-se primordialmente às doenças do útero. As funções uterinas essenciais são duas: a menstruação e a gestação. No que tange às patologias menstruais, destacam-se a dismenorreia e a irregularidade do ciclo. A primeira manifesta-se por dores de intensidade variável durante um ou mais dias do período menstrual. Qual seria a sua causa? A dor origina-se da tentativa do sangue menstrual de atravessar as trompas de Falópio, cujas entradas se encontram estreitadas. Essa constrição ocorre devido à presença de nódulos de toxinas que pressionam a região, e a sua dissolução e eliminação resultam na cura completa. A medicina convencional, por sua vez, mostra-se impotente diante desse quadro, e não são poucas as mulheres que padecem por longos anos, uma situação verdadeiramente lamentável.
+
+Quanto à irregularidade menstrual, ela pode se apresentar como ciclos tardios, erráticos, ou com fluxo excessivo ou escasso. A causa para tais desordens reside quase sempre na anemia ou na impurificação do sangue. Uma vez que a mulher alcance a verdadeira saúde, seu ciclo se normalizará invariavelmente. Nesse contexto, é imprescindível compreender a correlação entre o ciclo menstrual e a tuberculose. Enquanto a menstruação ocorre normalmente, a doença ainda se encontra em estágio inicial, não havendo motivo para alarme. Contudo, à medida que a enfermidade avança, a anemia se agrava, o fluxo diminui progressivamente e o ciclo se torna tardio. No estágio terminal, a amenorreia é uma consequência inevitável. Portanto, a avaliação do ciclo menstrual constitui o método mais acurado para aferir a gravidade da tuberculose em pacientes do sexo feminino. A propósito, há outro fenômeno correlato: com o agravamento da doença e a redução do fluxo menstrual, a paciente pode notar a perda de pelos pubianos, chegando, em alguns casos, à sua completa ausência.
+
+Passemos agora à gestação. Embora não seja uma doença, mas sim um atestado de saúde, muitas mulheres na atualidade, ao engravidar, sentem mais temor e preocupação do que alegria. De certa forma, essa apreensão é compreensível, pois a gravidez pode ser um período propenso a diversas complicações e enfermidades. A maioria experimenta o desconforto dos enjoos matinais, e aquelas com doenças preexistentes, como tuberculose ou Mal de Basedow, são frequentemente aconselhadas pelos médicos a realizar um aborto induzido, sob a alegação de risco. Outras ainda enfrentam a possibilidade de um parto difícil. Consequentemente, é raro encontrar uma gestante que se sinta verdadeiramente tranquila. É preciso refletir, contudo, que todas essas adversidades são, na verdade, anomalias. É provável que as mulheres de outrora não enfrentassem tantos percalços, pois não há registros históricos que o sugiram. Se assim for, o proclamado avanço da medicina estaria produzindo um efeito reverso, uma conclusão que parece ilógica, mas que expõe precisamente um ponto cego da ciência médica. Esse efeito adverso decorre unicamente do uso de medicamentos; quanto mais uma mulher os utiliza, piores são os resultados. Ademais, as consequências não se limitam à mãe, estendendo-se ao bebê e manifestando-se em partos prematuros, natimortos e, como se vê com frequência nos últimos anos, em recém-nascidos frágeis e com desenvolvimento deficiente. Em sua essência, a gestação e o parto são missões nobres concedidas à mulher; o processo deveria, por natureza, transcorrer de forma harmoniosa e culminar em um nascimento sem percalços. A ocorrência de problemas indica, portanto, a existência de algum equívoco. Ao identificar e corrigir esse equívoco, tudo se resolverá. A seguir, abordarei esses pontos em detalhe.
+
+Dentre as complicações da gravidez, os enjoos matinais são, porventura, os que mais afligem as gestantes. A sintomatologia é sobejamente conhecida, mas em casos severos, pode até mesmo colocar a vida em risco, não devendo ser subestimada. A medicina desconhece sua causa, que é, na realidade, bastante simples: à medida que o útero se expande, ele pressiona um acúmulo de toxinas solidificadas na região entre o umbigo e o estômago. Essa pressão desencadeia um processo de eliminação, que se manifesta como o enjoo matinal. Os vômitos frequentes são o mecanismo pelo qual essas toxinas – de origem alimentar e medicamentosa – são expelidas. Uma vez que todas as toxinas sejam eliminadas, a condição cessa por completo. A medicina, por desconhecer a causa ou, mesmo que a conhecesse, por não dispor de métodos para promover a eliminação, limita-se a oferecer medidas paliativas ou a recomendar o aborto.
+
+Outra condição comum é a chamada "nefropatia gravídica". O sintoma característico é o edema, que, conforme a própria medicina reconhece, resulta de uma disfunção renal, mais especificamente, da atrofia dos rins. A causa, como já expliquei anteriormente, reside em nódulos de toxinas preexistentes na região posterior aos rins. Com a gestação, o útero em expansão exerce pressão pela frente, de modo que os rins ficam, por assim dizer, comprimidos de ambos os lados. Essa compressão leva à atrofia, impedindo que os rins processem toda a urina, cujo excesso transborda para os tecidos, gerando o edema. Ao purificar e dissolver os nódulos de toxinas das costas através do Johrei, alivia-se a sobrecarga renal, e a cura ocorre naturalmente. A medicina, contudo, é incapaz de intervir. Em casos graves, para salvar a vida da mãe, recorre-se ao aborto induzido, sacrificando-se um bebê já em formação, o que é uma imensa tragédia. Como essa situação geralmente ocorre por volta do oitavo ou nono mês de gestação, a dor dos pais é ainda mais avassaladora.
+
+Gostaria agora de discorrer sobre a perspectiva médica acerca da gestação. Como mencionei, a prática de induzir o aborto em mulheres com doenças como tuberculose ou Mal de Basedow, sob o pretexto de risco, é um erro crasso. A razão é simples: o fato de uma mulher conceber já é, por si só, a prova de que seu estado de saúde e sua força vital são suficientes para levar a gestação a termo. Significa, em outras palavras, que ela possui as qualificações para ser mãe. Do contrário, a gravidez simplesmente não ocorreria. Esse equívoco da medicina advém de sua visão excessivamente materialista, que ignora a natureza divina inerente ao ser humano e o trata como um mero animal. Isso não é uma questão de teoria. Com base no princípio que acabo de expor, tenho orientado inúmeras gestantes com as mais diversas doenças crônicas, assegurando-lhes que não haveria problema. Apenas com Johrei, todas, sem exceção, tiveram partos seguros e bem-sucedidos. Jamais houve um único percalço. Este fato, por si só, deveria ser suficiente para que a medicina reavaliasse profundamente seus conceitos.
+
+A seguir, descreverei individualmente as enfermidades femininas, dentre as quais as doenças do útero ocupam a posição central. Comecemos pela endometrite. Esta condição consiste na formação de uma secreção catarral na parede interna do útero. Trata-se de um tipo de eczema, por meio do qual toxinas descendentes são eliminadas. Em outros casos, as toxinas irritam a mucosa, provocando a secreção. Em ambas as situações, se a deixarmos seguir seu curso com paciência, a cura é certa. O que beira o cômico é a frequência com que se realiza a curetagem, um procedimento inócuo. Seu efeito é meramente temporário, pois, enquanto houver toxinas, a parede uterina voltará a se sujar repetidamente. Costumo comparar a curetagem uterina à remoção do tártaro dentário: basta comer para que os dentes se sujem novamente. Se ao menos fosse um procedimento simples como escovar os dentes, seria tolerável. Contudo, envolve a manipulação de uma das áreas mais íntimas do corpo feminino, razão pela qual acredito que deveria ser terminantemente abolido. Já a parametrite, ou miosite uterina, ocorre quando há um acúmulo de toxinas ao redor do útero, cujo processo de purificação gera sintomas como febre baixa, dor leve e mal-estar. Também é uma condição que se resolve espontaneamente, mas o Johrei acelera consideravelmente a recuperação completa.
+
+Em casos de infertilidade, é comum diagnosticar retroversão ou anteversão uterina e recomendar cirurgia. De fato, como afirma a medicina, o posicionamento inadequado do útero pode deslocar o colo uterino e impedir a concepção. Mas qual é a causa dessa anomalia? É a pressão exercida por nódulos de toxinas acumulados na frente ou atrás do útero. A cirurgia remove essas toxinas e reposiciona o órgão temporariamente, mas, com o tempo, novas toxinas se acumulam, e o útero retorna à sua posição original. Realizar uma intervenção cirúrgica de grande porte para um efeito tão passageiro é, portanto, algo fútil. Gostaria que refletissem sobre outro ponto: não são raros os relatos de mulheres diagnosticadas como inférteis devido à retroversão uterina que, sem se submeterem a qualquer cirurgia, acabaram engravidando. Eu mesmo ouvi de uma senhora que, após receber esse diagnóstico em um hospital universitário, deu à luz três filhos. Tais casos demonstram que a pesquisa médica ainda é insuficiente. Considerando o transtorno que causam a tantas pessoas, seria mais consciencioso que os médicos se abstivessem de fazer tais afirmações até que tivessem absoluta certeza.
+
+Prossigamos para o câncer de útero. Casos genuínos são extremamente raros. A maioria das mulheres que recebe um diagnóstico de câncer uterino, na verdade, não tem a doença; o que se detecta é um acúmulo de sangue menstrual antigo e coagulado. Diz-se que a medicina preconiza suspeitar de câncer sempre que houver sangramento após a menopausa, mas, pela minha experiência, essa premissa está equivocada. Já tratei com Johrei inúmeras pacientes diagnosticadas com câncer nessa faixa etária. Em pouco tempo, elas apresentaram um sangramento volumoso, e o nódulo palpável, tido como canceroso, desapareceu por completo. Isso demonstra que a maioria dos casos diagnosticados como câncer de útero pode ser considerada, sem grande margem de erro, como um simples coágulo de sangue menstrual antigo. Com o avanço da medicina, chegará o dia em que essa verdade será inevitavelmente reconhecida.
+
+Temos também o mioma uterino. Como o nome sugere, trata-se de um endurecimento que se forma em uma parte dos músculos que sustentam o útero. A dor é resultado da purificação desse nódulo. O tratamento médico convencional é a remoção cirúrgica que, em alguns casos, pode ser bem-sucedida. Frequentemente, porém, a condição reincide nas proximidades. O Johrei também é capaz de curar essa enfermidade de forma definitiva, embora o tratamento exija um período considerável.
+
+Quanto às doenças ovarianas, as mais comuns são o cisto purulento e o cisto seroso, cujos sintomas são semelhantes, variando em consistência e gravidade. Dependendo da malignidade ou das intervenções médicas, podem atingir um tamanho descomunal, superando o de uma barriga em final de gestação. A medicina os remove cirurgicamente com relativa facilidade, e a doença ovariana em si é curada. O problema reside nos efeitos colaterais que afetam outras áreas. A consequência mais nefasta é a alteração da personalidade. Se apenas um ovário é removido, o impacto é menor, mas a remoção de ambos resulta em uma masculinização da mulher, além da infertilidade permanente, como é óbvio. Outros efeitos incluem distúrbios visuais, que podem levar a uma condição semelhante à cegueira, e um enfraquecimento geral do corpo, que pode alterar a visão de mundo da paciente, tornando-a melancólica ou niilista. Sendo a cirurgia o único recurso da medicina, não há alternativa, mas o Johrei também pode proporcionar a cura completa para essas condições. A causa dos cistos purulentos são as toxinas medicamentosas, enquanto os cistos serosos se formam pelo acúmulo de urina excedente, decorrente da atrofia renal. Portanto, ao promover a reativação da função renal, a cura se torna possível.
+
+Gostaria de expor, neste ponto, a causa fundamental das enfermidades femininas. A totalidade delas se origina da descida gradual das toxinas acumuladas no corpo. Quando se concentram no baixo-ventre, geram distúrbios no útero, nos ovários, nas trompas de Falópio, na bexiga etc. Se descem ainda mais, tornam-se a causa de hemorroidas e de outras afecções da região genital. Explicarei isso em detalhe mais adiante, ao tratar da frigidez. Por ora, abordarei apenas a leucorreia, uma queixa muito comum entre as mulheres. Embora muitas se preocupem com essa condição, a verdade é que ela é extremamente benéfica, pois representa a eliminação de diversas toxinas em forma líquida. Uma vez que toda a secreção tenha sido expelida, a região do baixo-ventre experimentará uma grande sensação de bem-estar. Tanto os médicos quanto o público em geral, por ignorância, tentam suprimir a leucorreia, o que é um grave erro, pois equivale a conservar a doença no corpo. É um ponto que exige muita atenção.
+
+Por fim, há uma questão que tem sido amplamente discutida recentemente: a chamada frigidez. A medicina não tem a menor compreensão sobre o assunto, e para uma mulher, poucas coisas são tão cruciais para o seu destino. Por isso, tentarei explicá-la da forma mais detalhada possível. Como é sabido, mesmo após o casamento, a dificuldade em corresponder à afeição do marido, que é o pilar da relação, impede a harmonia conjugal e pode facilmente levar à ruína do matrimônio. Em outros casos, o marido pode buscar uma amante, ou a mulher pode se tornar infértil. Consequentemente, o número de mulheres que acabam por trilhar um destino infeliz é surpreendentemente alto. Diante disso, a cura se torna imperativa. O dilema é que não se trata de um problema que possa ser discutido abertamente, e a medicina é completamente ineficaz. Incapazes de construir um lar feliz, sem outra alternativa senão a solidão, muitas mulheres vivem seus dias em angústia silenciosa. É uma situação que desperta profunda compaixão. O Johrei, entretanto, oferece a cura definitiva, e não poderia haver evangelho maior para o público feminino.
+
+Passemos às suas causas. A principal, sem dúvida, é a atrofia renal. Como a própria medicina afirma, os rins são a fonte produtora de hormônios. Quando atrofiados, sua atividade diminui, resultando em deficiência hormonal. A causa da atrofia, como já expliquei, são os nódulos de toxinas na região posterior aos rins. A dissolução desses nódulos leva à cura. Outra causa importante é o acúmulo de toxinas que descem continuamente e se depositam em toda a região genital. No baixo-ventre, causam os distúrbios uterinos já mencionados. Mais abaixo, provocam hemorroidas, vaginismo, prurido, secreção catarral na mucosa, distúrbios uretrais, eczemas generalizados, erosões, dor, odor e uma sensação geral de desconforto. Particularmente, podem surgir inchaços ou nódulos na região parauretral, ou nódulos de toxinas nos pequenos ou grandes lábios, de um lado ou de ambos, que podem se estender até a virilha, dificultando o movimento das pernas. As afecções na região parauretral são especialmente prejudiciais. O diagnóstico de todas essas condições pode ser feito pela própria mulher, apalpando a área; ela certamente encontrará pontos doloridos ou nódulos. Sendo uma região tão íntima, o Johrei pode ser aplicado pela própria pessoa ou pelo marido, o que é suficiente para promover a cura. Contudo, o tratamento pode ser longo, e é preciso ter essa consciência, agindo com paciência e perseverança. Gradualmente, a melhora virá, a esperança renascerá, e a cura completa será alcançada. Ao tomarem conhecimento disso, imaginem a alegria que tomará conta das mulheres em todo o mundo. Não há salvação mais maravilhosa do que esta.
+
+---
+
+# A Origem do Desconforto e do Vômito
+
+**Categoria:** hu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 不快感及び嘔吐 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+
+## A Origem do Desconforto e do Vômito
+
+Embora nos refiramos ao desconforto, suas manifestações não são uniformes. Dentre os principais sintomas, podemos citar a náusea, as convulsões, o enjoo em veículos e a sensação de melancolia. Dentre estes, a náusea é, sem dúvida, o mais recorrente. Sua origem pode advir de diversas condições, como a reação reflexa do estômago decorrente da anemia cerebral, febre alta, intoxicação alimentar ou medicamentosa, refluxo biliar, estenose pilórica e, por fim, a gestação.
+
+Quando a anemia cerebral se manifesta de forma intensa, invariavelmente é acompanhada de vômito. Nessas ocasiões, ao se tocar a fronte com a palma da mão, percebe-se que está gélida como o gelo; a pessoa apresenta sudorese oleosa e palidez facial, confirmando-se, assim, o quadro. Ao se apalpar a região cervical e o bulbo raquidiano, invariavelmente se encontrará uma solidificação. Ao se ministrar o tratamento para dissolver tal solidificação, a recuperação é célere. A razão para tanto é que a pressão exercida pelo nódulo desaparece, permitindo que o sangue volte a circular livremente pelo cérebro.
+
+Ademais, nos casos de purificação cerebral por febre alta, pode ocorrer uma reação reflexa do estômago, similar àquela da anemia cerebral, que também culmina em vômito.
+
+A intoxicação alimentar, por sua vez, constitui uma ação purificadora destinada a expelir toxinas do corpo, sendo frequentemente acompanhada de diarreia. Já a intoxicação medicamentosa ocorre quando fármacos, outrora absorvidos, retornam ao estômago com o passar dos anos. Nesse processo, eles se convertem em uma espécie de toxina, provocando o vômito. É por essa razão que, em tais situações, por vezes se pode sentir o odor do medicamento que foi ingerido.
+
+O refluxo biliar acontece quando a bile, ao adentrar o estômago, é expelida em virtude da debilidade deste órgão. O vômito decorrente da estenose pilórica, por seu turno, é causado pelo refluxo do alimento digerido, que encontra dificuldade para descer através do piloro estreitado. Portanto, em quadros como este, a ingestão de alimentos pastosos ou líquidos facilita a passagem e evita a náusea. Quanto ao enjoo gestacional, ele se origina da tentativa de expulsão de toxinas solidificadas e acumuladas na parte externa do estômago, impulsionadas pela expansão do útero. Consequentemente, a dissolução e eliminação dessas toxinas leva à sua fácil cura.
+
+As convulsões advêm de duas causas: uma de natureza espiritual e outra relacionada aos calafrios que acompanham a febre alta. A explicação de ordem espiritual será detalhada no apêndice ao final deste volume.
+
+O enjoo em veículos ocorre porque um nódulo de toxinas, localizado na parte externa do estômago, dissolve-se gradualmente com o movimento e se infiltra no órgão. Finalmente, a sensação de melancolia pode ter origem espiritual ou ser consequência da inatividade gástrica, da icterícia, da anemia cerebral ou de enrijecimentos nos ombros e nas costas.
+
+---
+
+# A Provação da Injustiça Policial
+
+**Categoria:** hu | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** 豚箱入り 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.32 | **Data ISO:** 1949-12-30
+
+## A Provação da Injustiça Policial
+
+É uma data que jamais me esquecerei: 4 de agosto de 1936. Naquele dia, recebi uma súbita intimação da Delegacia de Polícia de Omiya, na província de Saitama. No dia seguinte, 5 de agosto, parti de minha residência em Tamagawa Uenoge — local que hoje serve como casa de reunião da Igreja Goroku-nana — em direção à delegacia.
+
+A razão para tal intimação era a seguinte: na época, eu presidia a Dai Nippon Kannon Kyokai (大日本観音教会), fundada em outubro de 1934. Tínhamos uma filial na cidade de Omiya, dirigida por um senhor de nome Takei. Na mesma cidade, havia uma grande fábrica da fiação de seda Katakura, que abrigava cerca de mil operárias. O diretor Takei havia curado as enfermidades de muitas dessas mulheres, o que resultou em sua prisão por exercício ilegal da medicina. Consequentemente, na condição de presidente da organização, eu também fui convocado para interrogatório.
+
+Ao chegar à delegacia, após uma breve espera, fui conduzido à presença do chefe da Tokko, a temida Polícia Política Superior, que detinha um poder imenso naqueles tempos.
+
+O chefe iniciou o interrogatório:
+— É você o presidente da Dai Nippon Kannon Kai?
+— Sim, sou eu — respondi.
+— Você costuma ficar por trás de uma cortina de bambu, fazendo-se de deus vivo, não é mesmo?
+— De modo algum! Jamais faria tal coisa.
+— Não minta! — esbravejou ele. — Se você é um deus vivo, então deve ser capaz de lançar castigos...
+
+Com um olhar de soslaio, ele fez um sinal a dois homens que se apresentaram como detetives. Como eu usava os cabelos compridos na época, os dois homens se aproximaram e, um de cada lado, puxaram meus cabelos com uma força excruciante. A dor era tão insuportável que supliquei que parassem, e só então eles me soltaram.
+
+O chefe prosseguiu:
+— E aquela fotografia estranha, a que chamam de fotografia espiritual, que estava pendurada na casa de Takei? O que é aquilo? Foi você quem a fez, não foi? Explique-se em detalhes.
+— Não se trata de uma falsificação — esclareci. — No dia 1º de outubro do ano anterior, um homem chamado Higashi visitou-me. Trocamos diversas ideias sobre religião e, ao final, ele me fotografou. Para nossa surpresa, o resultado foi aquela misteriosa fotografia espiritual que os senhores viram.
+
+Nesse momento, dois policiais de grande porte que me cercavam empunharam subitamente espadas de bambu de kendo e se puseram em guarda.
+— Pretende nos enganar? — gritaram. — O que acabou de dizer é mentira! Se repetir essa história, esmigalharemos os ossos de sua bacia!
+
+Fiquei atônito diante da ameaça. Se dissesse a verdade, meus ossos seriam quebrados e eu não sabia que outros sofrimentos me aguardavam; talvez me deixassem aleijado. Contudo, odiava a ideia de mentir. Diante desse dilema, não consegui proferir uma única palavra. Em vez disso, optei pelo silêncio, mergulhando em profunda meditação. Vendo-se sem ação, eles retomaram o interrogatório.
+
+Foi então que algo extraordinário aconteceu. Um dos homens que havia puxado meu cabelo queixou-se:
+— Estou com dor de cabeça. Que estranho.
+Dois ou três policiais ao lado zombaram:
+— Isso é coisa da sua cabeça! Não seja ridículo.
+Aparentemente, a dor não cessou, pois ele se retirou da sala em silêncio. Logo depois, o outro agressor também se retirou. Compreendi que haviam sido atingidos por Deus. E não foi só isso: em pouco tempo, todos os policiais haviam desaparecido, restando apenas o chefe.
+
+Após algum tempo, ele redigiu o termo de interrogatório e o leu em voz alta. No trecho referente à fotografia espiritual, constava que se tratava de uma "fotografia artística criada por mim". Pensei em protestar, dizendo que aquilo não correspondia à verdade, mas o medo de ser torturado novamente era avassalador. Em um ato de desespero, aceitei o que estava escrito e apus meu selo no documento.
+
+Infelizmente, esse relatório foi encaminhado ao Departamento de Polícia Metropolitana de Tóquio, onde a conclusão foi imediata: "Esse tal de Okada é um estelionatário, um sujeito execrável!". E assim, meu nome foi incluído em sua lista de proscritos. Sob coação, forjaram um depoimento falso, transformando um cidadão honesto em um criminoso. Percebi, então, em que mundo terrível vivíamos. Esse episódio revela o quão arbitrárias e feudais eram as autoridades da época.
+
+Por causa dessa lista, fui atormentado incessantemente nos anos que se seguiram. Cada vez que eu mudava de endereço, a delegacia local era notificada. A polícia me vigiava de perto, empenhada em encontrar qualquer pretexto para me incriminar. Eu me sentia impotente e vivia em constante apreensão, sem saber quando seria novamente encarcerado ou quando minha casa seria vasculhada. Não conseguia sequer dormir com a cabeça tranquila no travesseiro. Pode-se dizer que, até o fim da guerra, as novas religiões eram tratadas de forma quase idêntica ao comunismo.
+
+Em meio a tudo isso, um pensamento me consolava: "É verdadeiramente lamentável que eu, que realizo uma obra tão nobre para a humanidade, sofra tamanha opressão. Contudo, devo encarar isso como um aprimoramento espiritual concedido por Deus". Com essa resignação, eu apaziguava a revolta que sentia. A lembrança de um trecho do Ofudesaki, da Oomoto-kyo, também ressoava fortemente em meu peito: "Ser tão mal falado enquanto se pratica tanto o bem também é parte do Plano. Espere o tempo certo".
+
+Após o interrogatório na Delegacia de Omiya, fui detido por uma noite e libertado no dia seguinte.
+
+Todavia, como resultado daquele episódio, o Departamento de Polícia Metropolitana havia me rotulado como impostor. Por fim, fui novamente detido, desta vez pela delegacia de Tamagawa, responsável pela minha jurisdição, e passei onze dias encarcerado. Essa detenção também se inseria em uma investigação mais ampla sobre ex-líderes que haviam se desligado da Oomoto-kyo. Minha casa foi minuciosamente revistada, mas, como não encontraram nada que infringisse a lei, o caso foi encerrado sem maiores consequências.
+
+O golpe mais duro, no entanto, foi a proibição de realizar tratamentos terapêuticos. Naquela época, eu me dedicava tanto à religião quanto à arte da cura, sendo esta última a principal fonte de meu sustento. De um momento para o outro, vi meus meios de subsistência serem cortados, e meu futuro pareceu sombrio e sem esperança.
+
+Após um ano e três meses nesse exílio profissional, e depois de inúmeras petições e esforços, finalmente recebi permissão para retomar minhas atividades. Havia, porém, uma condição: eu não poderia praticar a religião e a arte da cura simultaneamente; deveria escolher apenas uma delas. Por razões financeiras, optei por abandonar as atividades religiosas e dedicar-me exclusivamente à arte da cura. Isso ocorreu em 22 de outubro de 1937.
+
+---
+
+# A Prova nos Animais e a Cegueira do Homem Moderno
+
+**Categoria:** hu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 豚でも此通り 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## A Prova nos Animais e a Cegueira do Homem Moderno
+
+Pondero constantemente sobre a distinção que a medicina estabelece entre seres humanos e animais, tratando-os como se pertencessem a esferas distintas e dedicando a estes últimos uma disciplina à parte, a veterinária. Tal separação, todavia, me parece deveras cômica.
+
+Afinal, como criaturas vivas, a única diferença reside em seu grau de evolução — superior ou inferior —, pois, em essência, suas constituições são fundamentalmente análogas. Por conseguinte, as enfermidades que acometem os homens e os animais podem ser sanadas pelo mesmo método. Insistir em tal distinção apenas revela uma profunda ignorância sobre a verdadeira natureza dos seres vivos.
+
+Nesse sentido, gostaria de abordar um argumento frequentemente utilizado pelos intelectuais. Eles afirmam que a cura de doenças por meio da religião se deve a um fator puramente mental — a fé — e que a verdadeira solução reside unicamente na ciência. Contudo, o exemplo a seguir desmantela por completo essa teoria.
+
+A razão é simples: os suínos são desprovidos de qualquer elemento de natureza espiritual ou mental. Diante disso, eu realmente gostaria de ouvir a réplica de tais críticos.
+
+Atualmente, assistimos a uma proliferação de enfermidades como a tuberculose bovina e outras doenças que acometem os suínos, resultando em mortes massivas e prejuízos vultosos para os agricultores. As autoridades, em resposta, empenham-se freneticamente em medidas preventivas, mas, como é de conhecimento geral, sem obter qualquer resultado efetivo.
+
+Ora, enquanto os seres humanos apresentam toda sorte de objeções para não receber Johrei, os animais o aceitam com total docilidade. Sendo assim, erradicar tais doenças e restaurar a saúde de todos os rebanhos do Japão não seria, de modo algum, uma tarefa árdua. Caso isso se concretizasse, o benefício para a nação seria incomensurável.
+
+É lamentável, porém, que o caminho para sua aceitação seja tão difícil. Se esta fosse uma descoberta científica, sua disseminação seria instantânea; por ser de natureza religiosa, entretanto, enfrenta enormes barreiras.
+
+Ah, insensatos! Quase se poderia dizer: vosso nome é homem moderno.
+
+---
+
+# O Verdadeiro Nível da Cultura
+
+**Categoria:** hu | **Ano:** - | **Fonte:** Chijo Tengoku
+**Título Original:** 文化のレベル | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
+
+## O Verdadeiro Nível da Cultura
+
+Embora a sociedade contemporânea se vanglorie do notável avanço de sua cultura, e seja inegável que houve algum progresso em relação à era primitiva, tal progresso de modo algum alcançou a magnitude que o homem moderno presume.
+
+A maior evidência disso reside no fato de que, se a cultura houvesse de fato evoluído, a humanidade não estaria submetida, como está hoje, aos flagelos da doença, da pobreza e dos conflitos, tampouco a inúmeros outros sofrimentos. Isto ocorre porque Deus concebeu o mundo para ser um paraíso de plena felicidade, alicerçado na Verdade, no Bem e no Belo. Todavia, a não concretização desse mundo paradisíaco, em conformidade com o propósito Divino, deve-se unicamente ao seu baixo nível.
+
+Por essa razão, tendo o tempo finalmente chegado, Deus escolheu a mim para a sagrada missão de edificar o Paraíso Terrestre e me incumbiu de sua concretização. Para tanto, a tarefa fundamental consiste em elevar sobremaneira o nível da cultura. O método para alcançar tal objetivo baseia-se em um princípio seletivo: de todo o multifacetado universo cultural, devemos absorver o que é bom e descartar o que é nocivo.
+
+Nesse sentido, o ponto de partida e alicerce primordial dessa Obra é a reforma da medicina e da agricultura. Uma vez consolidada essa base, um processo de destruição do velho e criação do novo se estenderá a todas as demais esferas da atividade humana, como a religião, a moral, a filosofia, a ciência e a arte.
+
+Um empreendimento de tamanha magnitude é, por conseguinte, algo sem precedentes na história da humanidade. Em suma, trata-se de elevar o nível da cultura estabelecida. Poderíamos designá-la, em outras palavras, como a cultura do século XXI.
+
+---
+
+# Teria o Budismo o poder de salvar a era moderna?
+
+**Categoria:** hu | **Ano:** 昭和10(1935)年8月16日 | **Fonte:** Toho no Hikari
+**Título Original:** 仏教は現代を救う力在りや | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1935-08-16
+
+## Teria o Budismo o poder de salvar a era moderna?
+
+Para compreender o motivo que levou o Buda Shakyamuni a instituir a Lei Budista, é preciso retroceder no tempo. Muito antes de seu advento, o Bramanismo já florescia, e seus adeptos submetiam-se a um ascetismo de extraordinário rigor como método para alcançar a iluminação. As estátuas de Arhats que vemos hoje em pinturas e esculturas são, na verdade, representações desses praticantes bramanistas, retratando suas austeridades. O célebre Bodhidharma, que meditou por nove anos diante de um muro, é um desses exemplos. Ao observar tais práticas, Shakyamuni, em sua época, lamentou profundamente e pregou que deveria haver um caminho para se atingir a grande iluminação sem depender de tamanho sofrimento. Essa pregação é, precisamente, a Lei Budista.
+
+Portanto, é natural que o povo daquela época tenha louvado a virtude de Shakyamuni, que lhes ensinou um caminho de prática acessível em substituição ao ascetismo até então vigente.
+
+Contudo, reflitamos com atenção sobre a sociedade indiana de mais de dois mil e quinhentos anos atrás. Naquela época, os indianos podiam sobreviver alimentando-se de arroz e frutas que a natureza provia, retirando-se para florestas e montanhas para se entregar à meditação. Não existiam as aflições da exploração britânica nem as angústias da competição internacional como as conhecemos hoje. Consequentemente, as dificuldades do cotidiano eram inexistentes, e a vida transcorria com uma serenidade que a mente moderna mal pode conceber. Nesse contexto, era perfeitamente natural que se dedicassem à leitura de escrituras, por mais vastas que fossem e por mais anos que levassem, na busca pela iluminação.
+
+Observemos, em contrapartida, o Japão contemporâneo, sua sociedade e seu modo de vida. Haveria qualquer possibilidade de comparação com os indianos de dois mil e quinhentos anos atrás? Por mais que se anseie pela iluminação, é absolutamente impossível ler os oitenta e quatro mil sutras; a pessoa morreria de fome antes de concluir a metade. Ademais, os japoneses de hoje, que mal estudam o chinês clássico, tentam ler textos que são traduções do sânscrito para o chinês, resultando em uma total incompreensão de seu significado. Se até mesmo entre os eruditos budistas existem inúmeras divergências de interpretação, como poderia o grande público alcançar o verdadeiro entendimento?
+
+Afirmar que um legado de uma antiga nação estrangeira — que não se tem tempo para ler e que, mesmo lido, não se pode compreender — possa ainda hoje salvar o homem moderno não seria um anacronismo flagrante? Por essa razão, devemos tratar o Budismo como uma relíquia de valor inestimável, um tesouro nacional por seus méritos passados, e nos limitarmos a preservá-lo. Cumpre-nos, portanto, buscar uma religião nova e pujante, adaptada à nossa era e ao povo japonês. Não residiria nisso a verdade?
+
+---
+
+# A Náusea e o Vômito
+
+**Categoria:** hu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 不快感及び嘔吐 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+
+## A Náusea e o Vômito
+
+Existem múltiplas formas de mal-estar, cujos sintomas não seguem um padrão fixo. Contudo, se enumerarmos as manifestações preponderantes, estas seriam: náusea, convulsões, calafrios, cinetose (enjoo de movimento), sensação de torpor e agitação. Dentre elas, a mais frequente é, sem dúvida, a náusea. As causas para tal sintoma incluem a ação reflexa do estômago decorrente de anemia cerebral, febre alta, intoxicação alimentar ou medicamentosa, indigestão ácida e estenose pilórica.
+
+Dentre as causas elencadas, as três primeiras dispensam maiores explicações; portanto, passemos a detalhar as três últimas. A náusea proveniente da intoxicação medicamentosa ocorre da seguinte forma: a substância medicamentosa é primeiramente absorvida pela mucosa gástrica, infiltra-se e acumula-se ao redor do estômago. Com o passar do tempo, transforma-se em toxina, retorna ao estômago e ali se solidifica. Posteriormente, por meio da Ação Purificadora, essa massa é dissolvida, o que induz a náusea e, por fim, o vômito. É característico, nessas ocasiões, que o líquido expelido apresente o odor do medicamento ingerido.
+
+Em seguida, tratemos da indigestão ácida, que consiste na expulsão da bile. A bile, que flui continuamente para o estômago, encontra sua função de auxiliar a digestão obstruída pela estagnação de alimentos ou pela interferência de medicamentos, o que resulta em sua eliminação por meio do vômito.
+
+Por fim, analisemos o vômito causado pela estenose pilórica. Nessa condição, quando o alimento digerido pelo estômago se move em direção ao intestino, a passagem é dificultada pelo estreitamento do piloro. Isso provoca um refluxo do conteúdo gástrico no sentido ascendente, o que se manifesta como náusea. Portanto, é evidente que, embora alimentos sólidos não possam ser tolerados, os líquidos não desencadeiam o mal-estar. A razão para tal é que, mesmo com o orifício de passagem reduzido pela estenose, os líquidos conseguem transitar por ele.
+
+---
+
+# Novas Considerações sobre o Endividamento
+
+**Categoria:** hu | **Ano:** 昭和25(1950)年2月18日 | **Fonte:** Kyusei
+**Título Original:** 再び借金を論ず | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1950-02-18
+
+## Novas Considerações sobre o Endividamento
+
+Há pouco tempo, publiquei nesta coluna um artigo que questionava a legitimidade do endividamento. Contudo, por sentir que ainda restam pontos a serem aprofundados, volto a abordar o tema. Ao observarmos a sociedade atual, é um fato incontestável que as dívidas geram consequências muito mais nefastas do que benéficas. Jamais se viu um número tão alarmante de suicídios como nos dias de hoje, e a causa precípua, em grande parte dos casos, é o fardo financeiro. Evidentemente, entre os jovens, as desilusões amorosas costumam ser o estopim, mas para os indivíduos de meia-idade ou mais, sobretudo aqueles com certa notoriedade social, o endividamento figura quase invariavelmente como o motivo principal.
+
+Certa vez, um influente visitante norte-americano, cujo nome me foge à memória, relatou em uma conversa um aspecto que o surpreendera profundamente em sua inspeção ao mundo dos negócios no Japão: a excessiva quantidade de dívidas. Tal observação revela que, hoje em dia, quase não há quem não possua débitos. É compreensível que, após os duros golpes da guerra, a reconstrução a partir do nada seja inviável, tornando os empréstimos necessários. A questão central, entretanto, reside no fato de que muitos contraem dívidas muito além do essencial, e é aí que reside o erro. De modo geral, os japoneses parecem nutrir uma vaidade desmedida, um anseio por ostentação, e essa característica é, sem dúvida, uma das causas primordiais do problema.
+
+Esse anseio por aparências funestas leva a uma expansão impensada ao primeiro sinal de prosperidade. Falta uma reflexão serena e ponderada. Adágios como “após a vitória, aperta os nós do teu elmo” são completamente esquecidos. Desconhece-se, por certo, a existência de uma lógica que transcende o racional. Prevalece uma atitude imediatista, na qual basta que algo faça sentido nos cálculos e prometa lucro para ser considerado bom. Esse ímpeto, que ultrapassa a audácia e beira a imprudência, os impele a avançar. Em suma, embora se autodenominem empresários, suas ações se assemelham mais às de especuladores em um jogo de tudo ou nada.
+
+O mundo, todavia, não é tão complacente. A regra geral é que os planos raramente se concretizam como previsto, pois a realidade se transforma a uma velocidade vertiginosa, resultando em cenários completamente distintos das projeções iniciais. A atual crise de crédito é o exemplo perfeito disso. Aqueles que hoje enfrentam dificuldades certamente estão estarrecidos com a discrepância entre seus planos originais e a situação presente. Como é de conhecimento geral, o fechamento de inúmeras fábricas, a proliferação de cheques sem fundo, o atraso no pagamento de salários, o acúmulo de mercadorias encalhadas e as dificuldades nas transações comerciais são apenas alguns dos sintomas. Até mesmo os agiotas, que desfrutavam de um período favorável, encontram-se agora beirando a asfixia financeira, com alguns chegando à falência. Tudo isso demonstra a severidade da contração do crédito, consequência direta de não se ter incluído nos cálculos iniciais a possibilidade de mudanças tão drásticas no panorama mundial.
+
+Diante do exposto, o único caminho para atenuar a presente crise de crédito e superar as adversidades atuais é promover uma mudança de mentalidade. Esta se resume a três preceitos: não contrair dívidas, não cometer excessos e não se precipitar. Acima de tudo, é crucial manter perspectivas modestas quanto ao futuro. Em outras palavras, deve-se adotar uma rigorosa política de austeridade, refreando qualquer tipo de extravagância. Não existe outra via mais segura.
+
+Há outro ponto que merece grande atenção. Dificilmente haverá um povo com uma inclinação tão forte a depender de terceiros quanto o japonês. Esta é uma característica extremamente prejudicial. Observemos: ao se tratar de um projeto de maior vulto, logo se busca o auxílio do governo ou se anseia por subsídios, como se fosse impossível empreender sem o financiamento de um banco. As grandes corporações, em épocas de prosperidade, distribuem dividendos elevados e constituem poucas reservas internas, recorrendo precipitadamente à emissão de debêntures. A atual e tão debatida questão da introdução de capital estrangeiro é um exemplo disso. Cumpre, pois, refletir sobre o motivo da hesitação dos capitalistas americanos. A razão é, unicamente, a falta de solidez da economia japonesa. Consequentemente, no momento em que o Japão não mais necessitar de capital externo, serão os Estados Unidos que virão, por iniciativa própria, oferecer seus recursos, ainda que a juros baixos. É imperativo que se perceba essa sutil dinâmica.
+
+Por fim, cabe indagar qual rumo a economia do Japão tomará. Estamos, inegavelmente, adentrando um período de deflação. Portanto, será difícil superá-lo sem aderir a uma política de austeridade e agir com extrema solidez. Em um tópico correlato, vejamos o caso dos agricultores. Onde foi parar a efêmera prosperidade rural de outrora? Hoje, eles enfrentam uma situação de extrema dificuldade. Isso se deve, em parte, à falta de conhecimento econômico dos próprios agricultores, mas também à incompetência dos governantes, que, incapazes de antever o futuro, negligenciaram o dever de alertá-los sobre os tempos vindouros. Logo, é justo dizer que uma parcela da responsabilidade recai sobre os políticos.
+
+Como fica evidente pelo que foi exposto, é um erro iniciar qualquer empreendimento em grande escala, com uma estratégia fundamentada em dívidas. Deve-se, invariavelmente, começar de forma modesta e sólida, tendo a autossuficiência como princípio. Portanto, é preciso desprezar a dependência de terceiros e adotar como lema o preceito de que “o Céu ajuda quem a si mesmo se ajuda”. Se, sem pressa e sem desânimo, acumularmos esforços trabalhando diligentemente, passo a passo, obteremos, com certeza, resultados que superam as expectativas. Afirmo isso com a convicção de quem o aprendeu por experiência própria; não há erro nisso.
+
+O que aqui exponho é a cristalização de uma longa e sofrida experiência com dívidas. Após quitar a última delas, fiz a mim mesmo o voto solene de jamais contrair outro empréstimo, e mantenho essa promessa até hoje. Com efeito, desde então, tenho colhido resultados inesperadamente positivos. Primeiramente, sem dívidas, o espírito se mantém sempre sereno; a mente, por sua vez, torna-se mais lúcida, permitindo o surgimento de ideias inspiradas. Bem dizem os provérbios: “A sorte entra pela porta onde há sorrisos” e “A preocupação gera mais preocupação, e a queixa atrai mais queixas”. É a mais pura verdade. É natural que a abundância no coração se reflita na abundância material. A razão pela qual nossa Igreja é percebida pelo público como sendo muito mais abençoada financeiramente do que de fato é, reside no fato de não possuirmos dívidas e, por conseguinte, não termos atrasos em nossos pagamentos.
+
+Após discorrer longamente sobre os aspectos negativos do endividamento, quero, em suma, esclarecer que não se trata de uma proibição absoluta do empréstimo. O essencial é ater-se a dois princípios: o princípio fundamental é a autossuficiência, e o endividamento deve ser mantido no mínimo estritamente necessário. Se observarem estas duas regras, não haverá necessidade de precipitação nem de excessos. Assim, tudo transcorrerá de forma harmoniosa, e posso lhes garantir que o sucesso virá com serenidade.
+
+---
+
+# A Restauração do Budismo
+
+**Categoria:** hu | **Ano:** 昭和10(1935)年4月8日 | **Fonte:** Toho no Hikari
+**Título Original:** 仏教は復興するか | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1935-04-08
+
+## A Restauração do Budismo
+
+Recentemente, o clamor pela restauração do budismo tem se intensificado. Basta observar os jornais matutinos, nos quais raramente passa um dia sem que se anuncie o lançamento de um ou dois livros sobre o tema. Ao investigarmos a origem dessa tendência, é impossível não nos remetermos ao Incidente da Manchúria.
+
+Concomitantemente ao referido incidente, a política nacional do Japão mudou de rumo. Em seguida, a retirada da Liga das Nações — um ato de coragem sem precedentes em nossa história diplomática — pôs fim, de maneira categórica, à diplomacia subserviente até então praticada. A postura do Sr. Yosuke Matsuoka, que ousou dizer tudo o que pensava, foi deveras gratificante. Ademais, ele exaltou plenamente o espírito japonês no coração do Ocidente, abalando a ideologia de veneração aos estrangeiros que por tanto tempo esteve profundamente arraigada em nosso povo.
+
+Somam-se a isso os incidentes subsequentes, como o de 15 de maio e o da Liga de Sangue, que abriram uma grande fissura na fortaleza do marxismo, até então tão influente entre os jovens. O tempo, em seu curso implacável, trouxe consigo um fato inédito: o avanço de nossa indústria no exterior, o que, para nossa imensa satisfação, despertou os admiradores do Ocidente em todas as classes sociais. A etiqueta "Made in Japan" passou a ser vista tanto em produtos de uso diário dos ocidentais quanto em utensílios dos nativos africanos. Essa realidade, mais do que surpreender os brancos, assombrou os próprios japoneses.
+
+Até então, predominava a crença de que o Japão, embora forte na guerra, não poderia suplantar o Ocidente nos demais campos da cultura. Com essa ideia magnificamente desfeita, nosso povo despiu-se das vestes da admiração cega ao estrangeiro para envergar o novo e resplandecente traje do progresso, demonstrando a disposição de caminhar com altivez pelo mundo. Nesse novo cenário, o Japão foi levado a reconhecer subitamente a excelência de seu próprio caráter nacional. Em pouco mais de sessenta anos, absorveu a cultura ocidental e, agora, invertendo os papéis, assume uma posição de liderança perante as nações que antes imitava.
+
+Diante disso, partiu-se do princípio de que deveria existir algo essencial e insubstituível em nossa identidade, dando início a uma busca pela alma do próprio Japão. A busca pela origem do pensamento japonês, pela raiz de nosso ser, levou à conclusão de que essa fonte primordial era o budismo. Desse entendimento nasceu o fervor pelo seu estudo, que se manifestou na publicação de escrituras, na criação de colunas religiosas nos jornais e em programas de rádio.
+
+Contudo, receio que tudo isso não passe de um modismo passageiro, uma tendência crônica do povo japonês. É como remexer um velho baú em busca de relíquias dos antepassados. As joias da sabedoria, obtidas por figuras como Kukai, Shinran e Nichiren em meio a sofrimentos atrozes, já foram inteiramente reveladas. O que poderiam os acadêmicos e os monges da moda de hoje, que estudam sobre o tatame, comem carne e vestem roupas quentes, acrescentar ao que esses santos do passado já nos legaram?
+
+Portanto, a dita restauração do budismo em nossos dias parece ser pouco mais que uma manobra de editores astutos, ávidos por lucros sazonais, e de eruditos e religiosos populares que compilam biografias e textos antigos para faturar com seus manuscritos. Tenho a impressão de que, enquanto se ocuparem com tais atividades e palestras, o interesse do povo gradualmente se esvairá, e essa chama se extinguirá.
+
+---
+
+# O Equívoco das Terapias Físicas
+
+**Categoria:** hu | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
+**Título Original:** 物理療法の誤謬 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
+
+## O Equívoco das Terapias Físicas
+
+Nos últimos tempos, as terapias físicas diversificaram-se consideravelmente, e a classe médica as tem preconizado amplamente como tratamento auxiliar. A respeito de sua eficácia, contudo, passarei a expor minha perspectiva.
+
+Dentre as terapias físicas, analisemos, a princípio, a fototerapia, a mais difundida na atualidade. Ela engloba tratamentos como o rádio, os raios X, a luz ultravioleta e as lâmpadas solares. A eficácia de tais métodos é, em realidade, uma faca de dois gumes.
+
+A razão para tal é a seguinte: ao se tentar tratar determinada enfermidade, cuja manifestação consiste no acúmulo de sangue impuro ou de pus, a aplicação de raios luminosos sobre a área afetada de fato aparenta produzir uma melhora. Todavia, a doença não é verdadeiramente aliviada; o que ocorre é, tão somente, a redução de seu volume.
+
+Em outras palavras, o tratamento reduz e solidifica o volume da doença. Ou seja, se considerarmos que seu volume inicial equivale a dez, a terapia o comprime para um, dois ou, no máximo, três. Do ponto de vista puramente volumétrico, houve uma redução de ao menos sete unidades, o que se traduz em uma melhora aparente. O que não se percebe, contudo, é que a substância não diminuiu em sete unidades; na verdade, as dez unidades originais foram compactadas e solidificadas em um volume de três ou menos.
+
+É análogo a trocar cinquenta moedas de cobre por uma única moeda de prata de mesmo valor.
+
+Com base em minha experiência prática, ao examinar tais áreas afetadas com a ponta dos dedos, constato que se tornam duras como pedra. Nessas ocasiões, identifico um ou mais nódulos endurecidos, semelhantes a pequenos seixos. Esses nódulos petrificados são extremamente difíceis de serem dissolvidos e, consequentemente, demandam um longo período para seu tratamento.
+
+Dessa forma, se o paciente não tivesse se submetido à fototerapia, embora o volume da toxina fosse maior, ela não estaria solidificada, e sua cura poderia ser alcançada com muito mais facilidade. Por essa razão, embora o método apresente considerável eficácia para o alívio temporário, no que tange à cura completa, ele se converte, na verdade, em um grande obstáculo.
+
+Os efeitos da eletroterapia são extraordinariamente semelhantes aos que descrevi, razão pela qual me abstenho de detalhá-los.
+
+---
+
 # Dissertação sobre os Excrementos
 
 **Categoria:** hu | **Ano:** 昭和25(1950)年10月18日 | **Fonte:** Eikou
-**Título Original:** 糞の弁 | **Status:** Published
+**Título Original:** 糞の弁 | **Status:** Published | **Edição/Página:** 74号 | **Data ISO:** 1950-10-18
 
 ## Dissertação sobre os Excrementos
 
@@ -24,7 +762,7 @@ Se eu continuar a expelir estas verdades de forma tão veemente, é provável qu
 # Pérolas aos Porcos
 
 **Categoria:** hu | **Ano:** 昭和25(1950)年4月8日 | **Fonte:** Kyusei
-**Título Original:** 豚に真珠 | **Status:** Published
+**Título Original:** 豚に真珠 | **Status:** Published | **Edição/Página:** 57号 | **Data ISO:** 1950-04-08
 
 ## Pérolas aos Porcos
 
@@ -43,7 +781,7 @@ Portanto, ao nos depararmos com indivíduos assim, o mais sensato é apresentar-
 # As Patologias Femininas e os Equívocos da Medicina
 
 **Categoria:** hu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 婦人病 ・病患と医学の誤謬一九 | **Status:** Published
+**Título Original:** 婦人病 ・病患と医学の誤謬一九 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## As Patologias Femininas e os Equívocos da Medicina
 
@@ -80,7 +818,7 @@ Existem ainda outras afecções, como o inchaço da glândula de Bartholin, a va
 # A Filosofia da Intuição e o Fluxo Universal
 
 **Categoria:** hu | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
-**Título Original:** 再びベルグソンに就て | **Status:** Published
+**Título Original:** 再びベルグソンに就て | **Status:** Published | **Edição/Página:** 113号 | **Data ISO:** 1951-07-18
 
 ## A Filosofia da Intuição e o Fluxo Universal
 
@@ -101,7 +839,7 @@ Para dizê-lo de forma simples, ao dialogar com os idosos, devemos usar uma ling
 # Escravos do Sepulcro?
 
 **Categoria:** hu | **Ano:** 昭和28(1953)年5月20日 | **Fonte:** Eikou
-**Título Original:** 墳墓の奴隷？ | **Status:** Published
+**Título Original:** 墳墓の奴隷？ | **Status:** Published | **Edição/Página:** 209号 | **Data ISO:** 1953-05-20
 
 ## Escravos do Sepulcro?
 
@@ -130,7 +868,7 @@ A razão é simples: todas as nossas atividades consistem em empreendimentos nos
 # Uma Proposta de Reforma para a Saúde Nacional
 
 **Categoria:** hu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 附録 | **Status:** Published
+**Título Original:** 附録 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Uma Proposta de Reforma para a Saúde Nacional
 
@@ -179,7 +917,7 @@ Por fim, gostaria de esclarecer que o lançamento do terceiro volume, que preten
 # Reflexões acerca do problema da vacina BCG
 
 **Categoria:** hu | **Ano:** 昭和26(1951)年12月19日 | **Fonte:** Eikou
-**Título Original:** 再びＢ・Ｃ・Ｇ問題について | **Status:** Published
+**Título Original:** 再びＢ・Ｃ・Ｇ問題について | **Status:** Published | **Edição/Página:** 135号 | **Data ISO:** 1951-12-19
 
 ## Reflexões acerca do problema da vacina BCG
 
@@ -208,7 +946,7 @@ Já se passaram quatro anos desde o incidente. As pobres crianças frequentam ag
 # O Pragmatismo e a Fé
 
 **Categoria:** hu | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** プラグマチズム | **Status:** Published
+**Título Original:** プラグマチズム | **Status:** Published | **Edição/Página:** P.20 | **Data ISO:** 1948-09-05
 
 ## O Pragmatismo e a Fé
 
@@ -229,7 +967,7 @@ Na sociedade, há certos fiéis cujo fervor é tão extremo que chegam a levanta
 # A Matriz da Corrupção, Revisitada
 
 **Categoria:** hu | **Ano:** 昭和29(1954)年3月10日 | **Fonte:** Eikou
-**Título Original:** 再び汚職の母体 | **Status:** Published
+**Título Original:** 再び汚職の母体 | **Status:** Published | **Edição/Página:** 251号 | **Data ISO:** 1954-03-10
 
 ## A Matriz da Corrupção, Revisitada
 
@@ -252,7 +990,7 @@ Contudo, é preciso compreender que existe uma causa anterior a esta: a ausênci
 # Uma Perspectiva sobre a Alta e a Baixa dos Preços
 
 **Categoria:** hu | **Ano:** - | **Fonte:** 物価高低の見方
-**Título Original:** 物価高低の見方 | **Status:** Unpublished
+**Título Original:** 物価高低の見方 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## Uma Perspectiva sobre a Alta e a Baixa dos Preços
 
@@ -273,7 +1011,7 @@ Todavia, a transição do verão para o inverno é uma certeza absoluta e inevit
 # O Conservadorismo da Elite Intelectual
 
 **Categoria:** hu | **Ano:** - | **Fonte:** Eikou
-**Título Original:** 文化人の守旧思想 | **Status:** Unpublished
+**Título Original:** 文化人の守旧思想 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## O Conservadorismo da Elite Intelectual
 
@@ -300,7 +1038,7 @@ Esta grandiosa obra equivale a mostrar o vasto oceano a um sapo confinado em um 
 # A Falácia do Resfriado Noturno
 
 **Categoria:** ne | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
-**Título Original:** 寝冷 寸評（光20号） 白光生 | **Status:** Published
+**Título Original:** 寝冷 寸評（光20号） 白光生 | **Status:** Published | **Edição/Página:** 20号, 20号 | **Data ISO:** 1949-07-30
 
 ## A Falácia do Resfriado Noturno
 
@@ -313,7 +1051,7 @@ Para ilustrar este ponto, valho-me de minha própria experiência. Desde a juven
 # Pela reavaliação imparcial da arte de curar
 
 **Categoria:** hu | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 付録 政府は西洋医学と民間療法との比較実験を行って可なり | **Status:** Published
+**Título Original:** 付録 政府は西洋医学と民間療法との比較実験を行って可なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
 
 ## Pela reavaliação imparcial da arte de curar
 
@@ -340,7 +1078,7 @@ Caso se descubra uma terapia de real eficácia, o governo deveria não apenas ap
 # A Verdadeira Fé e a Erradicação do Sofrimento
 
 **Categoria:** hu | **Ano:** 昭和11(1936)年 | **Fonte:** 不思議な団体
-**Título Original:** 不思議な団体 | **Status:** Unpublished
+**Título Original:** 不思議な団体 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Verdadeira Fé e a Erradicação do Sofrimento
 
@@ -365,7 +1103,7 @@ Repito: tal era será alcançada por meio da expansão da organização denomina
 # Acerca das Doenças Tropicais
 
 **Categoria:** ne | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 熱帯病に就て | **Status:** Published
+**Título Original:** 熱帯病に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## Acerca das Doenças Tropicais
 
@@ -382,7 +1120,7 @@ Pelo exposto, não estaremos equivocados ao supor que a causa de inúmeras outra
 # Sobre as Enfermidades Femininas
 
 **Categoria:** hu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 婦人病 | **Status:** Published
+**Título Original:** 婦人病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Sobre as Enfermidades Femininas
 
@@ -417,7 +1155,7 @@ Há ainda outras condições, como o inchaço da glândula de Bartholin, a vagin
 # A Origem do Budismo
 
 **Categoria:** hu | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 仏教の起源 | **Status:** Published
+**Título Original:** 仏教の起源 | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1951-10-25
 
 ## A Origem do Budismo
 
@@ -448,7 +1186,7 @@ A partir de então, a influência do poderoso bramanismo na Índia entrou em dec
 # O Equívoco da Medicina Contemporânea
 
 **Categoria:** hu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 不幸を作る医療 未発表 | **Status:** Unpublished
+**Título Original:** 不幸を作る医療 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Equívoco da Medicina Contemporânea
 
@@ -465,7 +1203,7 @@ Em contrapartida, a magnificência do Johrei se revela tal como foi relatada, e 
 # Um Fato Inexplicável sobre a Tuberculose
 
 **Categoria:** hu | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 不可解な事実 | **Status:** Published
+**Título Original:** 不可解な事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## Um Fato Inexplicável sobre a Tuberculose
 
@@ -520,7 +1258,7 @@ Ah, vejo-me forçado a bradar: o Japão corre perigo
 # A Superioridade da Agricultura Natural Frente às Intempéries
 
 **Categoria:** hu | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
-**Título Original:** 風水害 | **Status:** Published
+**Título Original:** 風水害 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-01-15
 
 ## A Superioridade da Agricultura Natural Frente às Intempéries
 
@@ -541,7 +1279,7 @@ Outra característica digna de menção é a palha do arroz, que se torna muito 
 # As Origens do Budismo
 
 **Categoria:** hu | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 仏教の起源 未発表 | **Status:** Unpublished
+**Título Original:** 仏教の起源 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## As Origens do Budismo
 
@@ -567,7 +1305,7 @@ A partir de então, embora a outrora poderosa influência do Bramanismo tenha na
 # O Despertar da Civilização do Dia
 
 **Categoria:** ne | **Ano:** 昭和27(1952)年1月1日 | **Fonte:** Eikou
-**Título Original:** 年頭の辞 | **Status:** Published
+**Título Original:** 年頭の辞 | **Status:** Published | **Edição/Página:** 137号 | **Data ISO:** 1952-01-01
 
 ## O Despertar da Civilização do Dia
 
@@ -586,7 +1324,7 @@ Por todas essas razões, aquilo que venho profetizando se manifestará gradualme
 # Palavras para o Ano-Novo
 
 **Categoria:** ne | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** Eikou
-**Título Original:** 年頭の辞 | **Status:** Published
+**Título Original:** 年頭の辞 | **Status:** Published | **Edição/Página:** 189号 | **Data ISO:** 1953-01-01
 
 ## Palavras para o Ano-Novo
 
@@ -607,7 +1345,7 @@ Tais acontecimentos demonstram a rapidez e a exatidão com que a Vontade Divina 
 # Acerca das Doenças Tropicais
 
 **Categoria:** ne | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 熱帯病に就て | **Status:** Published
+**Título Original:** 熱帯病に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## Acerca das Doenças Tropicais
 
@@ -626,7 +1364,7 @@ Contudo, ao se recorrer a medicamentos para interromper essa ação purificadora
 # A Falácia da Insistência
 
 **Categoria:** ne | **Ano:** - | **Fonte:** 粘りに就て
-**Título Original:** 粘りに就て | **Status:** Unpublished
+**Título Original:** 粘りに就て | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## A Falácia da Insistência
 
@@ -645,7 +1383,7 @@ A necessidade de persuadir com tenacidade surge apenas quando se tenta vender al
 # A Purificação e as Doenças Tropicais
 
 **Categoria:** ne | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 熱帯病に就て | **Status:** Published
+**Título Original:** 熱帯病に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Purificação e as Doenças Tropicais
 
@@ -664,7 +1402,7 @@ Sendo assim, caso a enfermidade se manifeste, ao se permitir que siga seu curso 
 # O Conto dos Dois Cegos
 
 **Categoria:** hu | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 二人の盲の話 自観叢書第5編 | **Status:** Published
+**Título Original:** 二人の盲の話 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.35 | **Data ISO:** 1949-08-30
 
 ## O Conto dos Dois Cegos
 
@@ -683,7 +1421,7 @@ Anos mais tarde, quando eu já contava com cerca de trinta anos, contratei uma c
 # Fatos Assombrosos no Campo da Medicina
 
 **Categoria:** hu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 不思議な事実 | **Status:** Published
+**Título Original:** 不思議な事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Fatos Assombrosos no Campo da Medicina
 
@@ -716,7 +1454,7 @@ Em suma, creio que esta é uma questão de consciência da classe médica. Nesse
 # O Prenúncio da Grande Transição
 
 **Categoria:** ne | **Ano:** 昭和26(1951)年1月1日 | **Fonte:** Eikou
-**Título Original:** 年頭の辞 | **Status:** Published
+**Título Original:** 年頭の辞 | **Status:** Published | **Edição/Página:** 85号 | **Data ISO:** 1951-01-01
 
 ## O Prenúncio da Grande Transição
 
@@ -735,7 +1473,7 @@ E assim, o que advirá após essa imensa destruição é, precisamente, o Paraí
 # A Verdadeira Natureza das Enfermidades Tropicais
 
 **Categoria:** ne | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 熱帯病に就て | **Status:** Published
+**Título Original:** 熱帯病に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdadeira Natureza das Enfermidades Tropicais
 
@@ -756,7 +1494,7 @@ Com base no que foi exposto, não seria errôneo supor que a causa de inúmeras 
 # Prefácio de A Criação da Civilização
 
 **Categoria:** hu | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
-**Título Original:** 文明の創造 序文 | **Status:** Published
+**Título Original:** 文明の創造 序文 | **Status:** Published | **Edição/Página:** 170号 | **Data ISO:** 1952-08-20
 
 ## Prefácio de A Criação da Civilização
 
@@ -777,7 +1515,7 @@ O Autor
 # Mensagem de Ano-Novo
 
 **Categoria:** ne | **Ano:** 昭和29(1954)年1月1日 | **Fonte:** Eikou
-**Título Original:** 年頭の辞 | **Status:** Published
+**Título Original:** 年頭の辞 | **Status:** Published | **Edição/Página:** 241号 | **Data ISO:** 1954-01-01
 
 ## Mensagem de Ano-Novo
 
@@ -800,7 +1538,7 @@ Portanto, uma vez que o Plano de Deus adentra uma fase cada vez mais sublime, é
 # O Advento da Verdadeira Religião
 
 **Categoria:** ne | **Ano:** 昭和10(1935)年 | **Fonte:** 寝言
-**Título Original:** 寝言 | **Status:** Unpublished
+**Título Original:** 寝言 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1935
 
 ## O Advento da Verdadeira Religião
 
@@ -817,7 +1555,7 @@ Todavia, é inconcebível que a verdadeira religião não venha a surgir. Seu ad
 # A Ineficácia das Terapias Humanas e a Outorga Divina do Johrei
 
 **Categoria:** hi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 病気治療は浄霊以外になし 未発表 | **Status:** Unpublished
+**Título Original:** 病気治療は浄霊以外になし 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Ineficácia das Terapias Humanas e a Outorga Divina do Johrei
 
@@ -836,7 +1574,7 @@ A causa de tal panorama reside, evidentemente, na ignorância sobre a verdadeira
 # Considerações sobre o Arroz Birmanês
 
 **Categoria:** hi | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Eikou
-**Título Original:** ビルマ米に就て | **Status:** Published
+**Título Original:** ビルマ米に就て | **Status:** Published | **Edição/Página:** 141号 | **Data ISO:** 1952-01-30
 
 ## Considerações sobre o Arroz Birmanês
 
@@ -853,7 +1591,7 @@ Nesse sentido, o sucesso obtido pelo agricultor de nossa Igreja, como mencionado
 # A Superação da Timidez
 
 **Categoria:** hi | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 人が恐ろしい 自観叢書第5編 | **Status:** Published
+**Título Original:** 人が恐ろしい 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.4 | **Data ISO:** 1949-08-30
 
 ## A Superação da Timidez
 
@@ -876,7 +1614,7 @@ A razão pela qual escrevo estas linhas é o desejo de que cheguem aos jovens de
 # A Cura das Doenças é Surpreendentemente Simples
 
 **Categoria:** hi | **Ano:** 昭和11(1936)年5月17日 | **Fonte:** 名を成す者
-**Título Original:** 病気などは容易に治る | **Status:** Unpublished
+**Título Original:** 病気などは容易に治る | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-17
 
 ## A Cura das Doenças é Surpreendentemente Simples
 
@@ -903,7 +1641,7 @@ Cabe, no entanto, uma ressalva: é preciso reconhecer que terapias como moxabust
 # O Fenômeno da Possessão Espiritual
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 憑霊現象 | **Status:** Published
+**Título Original:** 憑霊現象 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## O Fenômeno da Possessão Espiritual
 
@@ -966,7 +1704,7 @@ Este é um fato que me custa compreender, mas suponho que talvez se relacione à
 # Sobre a Intoxicação pelos Adubos
 
 **Categoria:** hi | **Ano:** 昭和27(1952)年4月9日 | **Fonte:** Eikou
-**Título Original:** 肥毒に就て | **Status:** Published
+**Título Original:** 肥毒に就て | **Status:** Published | **Edição/Página:** 151号 | **Data ISO:** 1952-04-09
 
 ## Sobre a Intoxicação pelos Adubos
 
@@ -981,7 +1719,7 @@ Esse é o verdadeiro sinal de que o veneno dos adubos foi inteiramente eliminado
 # A Medicina Não Científica
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
-**Título Original:** 非科学的医学 | **Status:** Published
+**Título Original:** 非科学的医学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Medicina Não Científica
 
@@ -1042,7 +1780,7 @@ A medicina convencional pode ser comparada a um ovo. No seu interior, o pintainh
 # Reflexões sobre a Exposição de Picasso
 
 **Categoria:** hi | **Ano:** 昭和26(1951)年12月19日 | **Fonte:** Eikou
-**Título Original:** ピカソ展を観て | **Status:** Published
+**Título Original:** ピカソ展を観て | **Status:** Published | **Edição/Página:** 135号 | **Data ISO:** 1951-12-19
 
 ## Reflexões sobre a Exposição de Picasso
 
@@ -1081,7 +1819,7 @@ Para concluir, gostaria de dizer algumas palavras sobre meus próprios projetos:
 # A Origem Espiritual das Doenças e sua Cura Definitiva
 
 **Categoria:** hi | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 病気の原因と其解消 | **Status:** Published
+**Título Original:** 病気の原因と其解消 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Origem Espiritual das Doenças e sua Cura Definitiva
 
@@ -1102,7 +1840,7 @@ Assim, a purificação das máculas do espírito de um indivíduo, em última in
 # A Nova Denominação do Jornal 'Hikari'
 
 **Categoria:** hi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## A Nova Denominação do Jornal 'Hikari'
 Jornal Kyusei, nº 48, 4 de fevereiro de 1950
@@ -1114,7 +1852,7 @@ Conforme noticiado em matéria distinta, as organizações que nos precederam, a
 # bijutu02
 
 **Categoria:** hi | **Ano:** 昭和27(1952)年7月9日 | **Fonte:** Eikou
-**Título Original:** 美術館建設の意義 | **Status:** Published
+**Título Original:** 美術館建設の意義 | **Status:** Published | **Edição/Página:** 164号 | **Data ISO:** 1952-07-09
 
 O texto a seguir é o pronunciamento proferido por ocasião do convite a distintas personalidades da sociedade não pertencentes à nossa Fé, no dia 1º de julho, e foi redigido antecipadamente a pedido de correspondentes da imprensa estrangeira.
 
@@ -1145,7 +1883,7 @@ Com estas palavras, encerro meu pronunciamento.
 # O Veneno Oculto nos Medicamentos
 
 **Categoria:** hi | **Ano:** 昭和24(1949)年11月19日 | **Fonte:** -
-**Título Original:** ヒロポン中毒 | **Status:** Published
+**Título Original:** ヒロポン中毒 | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1949-11-19
 
 ## O Veneno Oculto nos Medicamentos
 
@@ -1174,7 +1912,7 @@ A lista de adeptos conhecidos prossegue, incluindo o roteirista Hideo Oguni, o d
 # De um, cem
 
 **Categoria:** hi | **Ano:** 昭和28(1953)年1月21日 | **Fonte:** Eikou
-**Título Original:** 一人が百人 | **Status:** Published
+**Título Original:** 一人が百人 | **Status:** Published | **Edição/Página:** 192号 | **Data ISO:** 1953-01-21
 
 ## De um, cem
 
@@ -1195,7 +1933,7 @@ Conforme exposto, nossa Igreja, embora seja uma religião, transcende essa defin
 # A Verdade sobre o Resfriamento e a Constipação
 
 **Categoria:** hi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 冷及び便秘 | **Status:** Published
+**Título Original:** 冷及び便秘 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdade sobre o Resfriamento e a Constipação
 
@@ -1214,7 +1952,7 @@ Ademais, a medicina postula que, se a constipação não for tratada, ocorre um 
 # A Causa das Doenças e as Toxinas Medicamentosas
 
 **Categoria:** hi | **Ano:** 昭和29(1954)年3月3日 | **Fonte:** Eikou
-**Título Original:** 病原と薬毒 | **Status:** Published
+**Título Original:** 病原と薬毒 | **Status:** Published | **Edição/Página:** 250号 | **Data ISO:** 1954-03-03
 
 ## A Causa das Doenças e as Toxinas Medicamentosas
 
@@ -1256,7 +1994,7 @@ Muito obrigada.
 # A Verdadeira Causa das Enfermidades
 
 **Categoria:** hi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 病気の真因 | **Status:** Published
+**Título Original:** 病気の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## A Verdadeira Causa das Enfermidades
 
@@ -1309,7 +2047,7 @@ A solução para o problema populacional reside, fundamentalmente, na abolição
 # A Gênese das Enfermidades e seu Princípio de Solução
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 病気の真因 | **Status:** Published
+**Título Original:** 病気の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Gênese das Enfermidades e seu Princípio de Solução
 
@@ -1360,7 +2098,7 @@ Finalmente, quanto à solução para o problema da deterioração da constituiç
 # A Causa das Doenças: Pecados e Impurezas
 
 **Categoria:** hi | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 病気の原因と罪穢 | **Status:** Unknown
+**Título Original:** 病気の原因と罪穢 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Causa das Doenças: Pecados e Impurezas
 
@@ -1401,7 +2139,7 @@ Em suma, não há erro em afirmar que as causas primordiais das doenças são es
 # A Gratidão pela Doença
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 病気に感謝せよ | **Status:** Published
+**Título Original:** 病気に感謝せよ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Gratidão pela Doença
 
@@ -1420,7 +2158,7 @@ Peço que imaginem o que aconteceria se todos os japoneses compreendessem a verd
 # Será Possível um Mundo Isento de Doença, Pobreza e Conflito?
 
 **Categoria:** hi | **Ano:** 昭和28(1953)年2月18日 | **Fonte:** Eikou
-**Título Original:** 病貧争絶無の世界は可能か | **Status:** Published
+**Título Original:** 病貧争絶無の世界は可能か | **Status:** Published | **Edição/Página:** 196号 | **Data ISO:** 1953-02-18
 
 ## Será Possível um Mundo Isento de Doença, Pobreza e Conflito?
 
@@ -1470,7 +2208,7 @@ A todos que sofrem neste mundo, eu suplico: batam à porta da Sekaikyuseikyou. A
 # O Significado da Construção do Museu de Arte
 
 **Categoria:** hi | **Ano:** 昭和27(1952)年6月11日 | **Fonte:** Eikou
-**Título Original:** 美術館出来るまで | **Status:** Published
+**Título Original:** 美術館出来るまで | **Status:** Published | **Edição/Página:** 160号 | **Data ISO:** 1952-06-11
 
 ## O Significado da Construção do Museu de Arte
 
@@ -1513,7 +2251,7 @@ Com base no exposto, creio que a relação entre minha missão e a do Príncipe 
 # A Verdadeira Causa das Doenças
 
 **Categoria:** hi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
-**Título Original:** 病気の真因 | **Status:** Published
+**Título Original:** 病気の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdadeira Causa das Doenças
 
@@ -1564,7 +2302,7 @@ A solução para a questão populacional reside na abolição de sua causa funda
 # A Origem dos Flagelos Humanos e a Falácia da Medicina Moderna
 
 **Categoria:** hi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 病気と医学 未発表 | **Status:** Unpublished
+**Título Original:** 病気と医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Origem dos Flagelos Humanos e a Falácia da Medicina Moderna
 
@@ -1591,7 +2329,7 @@ Diante do exposto, cumpre reconhecer que os principais defeitos da medicina mode
 # Reputação e Sentimento
 
 **Categoria:** hi | **Ano:** 昭和28(1953)年10月28日 | **Fonte:** Eikou
-**Título Original:** 評判と感情 | **Status:** Published
+**Título Original:** 評判と感情 | **Status:** Published | **Edição/Página:** 232号 | **Data ISO:** 1953-10-28
 
 ## Reputação e Sentimento
 
@@ -1608,7 +2346,7 @@ Contudo, ceder não significa uma submissão incondicional. Existem circunstânc
 # Apologia à Literatura Irônica
 
 **Categoria:** hi | **Ano:** 昭和23(1948)年12月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 皮肉文学の弁 | **Status:** Published
+**Título Original:** 皮肉文学の弁 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-01
 
 ## Apologia à Literatura Irônica
 
@@ -1627,7 +2365,7 @@ Anseio fervorosamente pelo dia em que surja no Japão um grande mestre da litera
 # A Relação entre a Temperatura Corporal e a Urina
 
 **Categoria:** hi | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
-**Título Original:** 冷えるという事 | **Status:** Published
+**Título Original:** 冷えるという事 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
 
 ## A Relação entre a Temperatura Corporal e a Urina
 
@@ -1646,7 +2384,7 @@ A veracidade deste princípio torna-se particularmente evidente nos casos de ple
 # A Inserção do *Hitomi* na Escultura do Mundo
 
 **Categoria:** hi | **Ano:** 昭和24(1949)年 | **Fonte:** Chijo Tengoku
-**Título Original:** ヒトミを入れる | **Status:** Unpublished
+**Título Original:** ヒトミを入れる | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1949
 
 ## A Inserção do *Hitomi* na Escultura do Mundo
 
@@ -1667,7 +2405,7 @@ O *Hitomi* representa o Fogo e a Água. A união indissolúvel entre o Fogo e a 
 # A Origem da Doença e o Princípio do Johrei
 
 **Categoria:** hi | **Ano:** 昭和26(1951)年8月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 病原と浄霊の原理 ・無機から有機へ | **Status:** Published
+**Título Original:** 病原と浄霊の原理 ・無機から有機へ | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1951-08-25
 
 ## A Origem da Doença e o Princípio do Johrei
 
@@ -1706,7 +2444,7 @@ Por ora, não me é permitido revelar em detalhe o nome dessa Divindade, mas pre
 # A Verdadeira Causa das Doenças
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 病気の真因 | **Status:** Published
+**Título Original:** 病気の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Verdadeira Causa das Doenças
 
@@ -1753,7 +2491,7 @@ Quanto à solução para o problema populacional, ela reside, sem dúvida, na ab
 # Esclarecimentos sobre o Frio e a Prisão de Ventre
 
 **Categoria:** hi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 冷えと便秘 | **Status:** Published
+**Título Original:** 冷えと便秘 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Esclarecimentos sobre o Frio e a Prisão de Ventre
 
@@ -1780,7 +2518,7 @@ Por fim, abordemos o uso de enemas em bebês e crianças pequenas, uma prática 
 # A Retidão Política e o Dever Religioso
 
 **Categoria:** hi | **Ano:** 昭和10(1935)年1月23日 | **Fonte:** Toho no Hikari
-**Título Original:** 非常時と宗教 | **Status:** Published
+**Título Original:** 非常時と宗教 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-01-23
 
 ## A Retidão Política e o Dever Religioso
 
@@ -1799,7 +2537,7 @@ Conclui-se, pois, que os religiosos do porvir têm o dever de empenhar-se vigoro
 # O Espírito de Hirokichi
 
 **Categoria:** hi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 広吉の霊 | **Status:** Published
+**Título Original:** 広吉の霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## O Espírito de Hirokichi
 
@@ -1874,7 +2612,7 @@ Essas experiências levaram-me a ponderar que morrer talvez não seja de todo ru
 # A Essência do Movimento de Kannon
 
 **Categoria:** hi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## A Essência do Movimento de Kannon
 
@@ -1889,7 +2627,7 @@ A manifestação da Força de Kannon constitui um milagre de proporções extrao
 # A Dualidade Humana: Filho de Deus, Filho do Pecado
 
 **Categoria:** hi | **Ano:** 昭和11(1936)年1月1日 | **Fonte:** Toho no Hikari
-**Título Original:** 人は神の子にして又罪の子なり | **Status:** Published
+**Título Original:** 人は神の子にして又罪の子なり | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1936-01-01
 
 ## A Dualidade Humana: Filho de Deus, Filho do Pecado
 
@@ -1912,7 +2650,7 @@ O equívoco fundamental, portanto, reside em tentar definir o ser humano de mane
 # A Ação Espiritual como Causa das Doenças
 
 **Categoria:** hi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 病気と霊 | **Status:** Published
+**Título Original:** 病気と霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Ação Espiritual como Causa das Doenças
 
@@ -1921,878 +2659,6 @@ Conforme já elucidei em detalhes, a doença constitui a manifestação e o tran
 Contudo, minhas pesquisas revelam que ambas as causas coexistem — a ação espiritual e a ação purificadora — e que mantêm entre si uma relação de inseparável intimidade. A razão para tal reside no fato de que o encosto de espíritos doentes se restringe às partes maculadas do corpo espiritual do indivíduo.
 
 Portanto, com a dissolução dessas máculas e a consequente purificação do corpo espiritual a um certo grau, não apenas as aflições do corpo físico desaparecem, como também o encosto de espíritos doentes se torna impossível, permitindo que a pessoa alcance a plena saúde de corpo e espírito.
-
----
-
-# A Verdadeira Causa das Doenças
-
-**Categoria:** hi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 病気の真因 | **Status:** Published
-
-## A Verdadeira Causa das Doenças
-
-Conforme postulado anteriormente, todo ser humano, ao receber o dom da vida neste mundo, já é portador de diversas toxinas, notadamente o miasma sifilítico hereditário e a peçonha inoculada pela vacina da varíola. A presença desses elementos impede a plena manutenção da saúde, razão pela qual o corpo humano foi concebido para realizar, incessantemente, um processo de purificação natural com o fito de expeli-los. Todavia, esse processo purificador é invariavelmente acompanhado de certo grau de sofrimento, e a essa travessia de dor denominamos doença.
-
-Para ilustrar tal princípio, tomemos como exemplo a enfermidade mais comum: o resfriado. Afinal, não há quem jamais o tenha vivenciado. Embora a medicina moderna ainda considere sua causa desconhecida, minha descoberta revela que o resfriado nada mais é do que uma das mais simples manifestações do processo de purificação. Com efeito, quando se contrai um resfriado, manifestam-se sintomas como febre, dor de cabeça, tosse, expectoração, coriza, perda de apetite, sudorese, fadiga e dores nas articulações.
-
-Para explicar detalhadamente esses fenômenos, é preciso antes compreender a natureza do processo de purificação, o qual classifico, em linhas gerais, em duas etapas fundamentais.
-
-A primeira etapa do processo de purificação consiste na concentração e solidificação de diversas toxinas presentes na corrente sanguínea em pontos específicos do corpo. Tais pontos são, via de regra, centros nervosos ou as partes inferiores do organismo quando em repouso. Com o passar do tempo, as toxinas acumuladas endurecem progressivamente. É a esse fenômeno que popularmente se designa por “enrijecimento”. Nesta fase, pode não haver dor alguma ou, quando muito, uma leve sensação de rigidez nos ombros.
-
-A segunda etapa do processo de purificação, por sua vez, ocorre quando a solidificação de toxinas da primeira etapa ultrapassa um determinado limiar, desencadeando uma ação natural de eliminação. Para facilitar essa expulsão, o organismo inicia um processo de liquefação, cuja manifestação externa é a febre. A intensidade febril dependerá da natureza, da rigidez e do volume das toxinas, bem como da constituição física do indivíduo. A febre que por vezes surge após a fadiga de um exercício físico, por exemplo, ocorre precisamente porque a atividade física acelera o processo de purificação.
-
-Uma vez liquefeitas, as toxinas são expelidas do corpo através do suor, da expectoração e da coriza. Nesse contexto, a tosse atua como uma espécie de mecanismo de bombeamento destinado a expelir o catarro, enquanto o espirro cumpre a mesma função para a coriza. A prova disso é que, invariavelmente, após a tosse vem a expectoração, e após o espirro, a secreção nasal. A perda de apetite, por sua vez, é consequência da febre, da produção de catarro e do uso de medicamentos. Já a dor de cabeça e as dores articulares decorrem da movimentação das toxinas liquefeitas, que, ao se deslocarem para serem eliminadas, estimulam as terminações nervosas locais. A dor de garganta, por fim, resulta da irritação da mucosa por toxinas contidas no catarro, provocando uma inflamação (catarro). Pela mesma razão, a voz torna-se rouca, pois a inflamação atinge as cordas vocais.
-
-Sendo o resfriado nada mais do que o exposto acima, se o deixarmos seguir seu curso natural, sem intervenções ou medicamentos, o processo de purificação ocorrerá de forma harmoniosa, e a cura se dará em pouco tempo. Uma vez concluída essa cura natural, o volume de toxinas no corpo diminui, resultando em um grau correspondentemente maior de saúde. Diante disso, embora o resfriado devesse ser amplamente encorajado, a sociedade o teme, e a medicina estabelece como premissa fundamental evitá-lo a todo custo. Percebe-se, assim, quão profundo é esse equívoco. Há um antigo ditado que afirma ser o resfriado a origem de todas as doenças; na verdade, é preciso reconhecer que ele é o único meio pelo qual se pode evitar todas as enfermidades.
-
-A medicina, por desconhecer a verdadeira causa do resfriado, emprega uma variedade de métodos para tratá-lo, os quais, sem exceção, visam unicamente à interrupção do processo de purificação. Para a febre, por exemplo, administram-se antitérmicos e aplicam-se compressas frias ou bolsas de gelo. Tais procedimentos nada mais são do que uma tentativa de reverter o quadro da segunda etapa de purificação ao estado da primeira, ou seja, são um meio de forçar a resolidificação das toxinas que haviam começado a se liquefazer.
-
-Consequentemente, à medida que as toxinas se resolidificam, a febre cede, a produção de catarro e coriza diminui, e as dores se atenuam, criando a falsa percepção de melhora. Quando a solidificação se completa, tanto o médico quanto o paciente acreditam que a cura foi alcançada. Ledo engano. O que de fato ocorreu foi apenas um retorno ao estado anterior ao início da segunda etapa de purificação, tornando a reincidência da doença uma consequência natural.
-
-É crucial notar, nesse ponto, que o uso de medicamentos e outros métodos supressores, como o resfriamento do corpo, torna a próxima manifestação da doença ainda mais severa. A causa das grandes enfermidades reside precisamente nisto: ao se interromper repetidamente os pequenos processos de purificação com o acréscimo de toxinas medicamentosas, as toxinas originais se acumulam e se avolumam, até que, um dia, eclode um processo de purificação de grandes proporções.
-
-Sendo assim, o alardeado progresso da medicina moderna nada mais é do que o progresso dos métodos de interrupção da purificação. Na realidade, não se trata de um avanço que cura as doenças, mas sim de um avanço que impede a cura. Em outras palavras, transforma-se em grandes males aquilo que poderia ser resolvido como um pequeno mal. Considero verdadeiramente dignos de compaixão os homens de nosso tempo, que, iludidos por semelhante equívoco, prejudicam sua preciosa vida e sua saúde.
-
-Passemos agora à explicação do segundo ponto: a razão pela qual a queda na taxa de natalidade ocorre em paralelo com a diminuição da taxa de mortalidade. De modo geral, acredita-se que a notável redução de doenças infecciosas e da tuberculose pulmonar na Europa civilizada nos últimos anos seja fruto do avanço da saúde pública. Embora isso constitua parte da explicação, não é a verdadeira razão. É evidente que a implementação de infraestrutura sanitária tem alguma eficácia, mas a causa preponderante é o declínio da força física da população.
-
-O leitor poderá achar estranho que o declínio da força física seja a causa da diminuição de doenças infecciosas, mas a verdade é a seguinte: doenças como as infecciosas e a tuberculose são, em sua essência, processos de purificação vigorosos, decorrentes de uma grande força física. Portanto, é natural que em povos com força física debilitada, a purificação não ocorra ou se manifeste de forma muito fraca. A alta incidência de doenças infecciosas entre os povos ditos inferiores deve-se menos à indiferença com a higiene e muito mais à sua constituição física robusta.
-
-Para facilitar a compreensão desta lógica, dividamos a saúde humana em três categorias. A primeira categoria abrange as pessoas de saúde perfeita, sem toxinas, que, por conseguinte, não necessitam do processo de purificação, ou seja, não adoecem. Indivíduos assim são extremamente raros. A segunda categoria é a da maioria das pessoas: são portadoras de toxinas, mas possuem grande força física, o que facilita a ocorrência de processos de purificação, fazendo com que adoeçam, ocasionalmente, de males pequenos ou grandes e agudos. A terceira categoria, por fim, inclui aqueles que, embora possuam toxinas, têm uma força física tão debilitada que o processo de purificação não consegue se manifestar, ou, se o faz, é de forma muito tênue. Nesses indivíduos, a purificação só ocorre quando a força física aumenta um pouco, por exemplo, através de exercícios. Por essa razão, nesses casos, o uso imediato de medicamentos e o repouso revertem o processo, proporcionando uma recuperação temporária. É por isso que essas pessoas se esforçam para evitar o excesso de esforço.
-
-Contudo, a medicina de hoje considera como seu objetivo terapêutico transformar as pessoas da segunda categoria em pessoas da terceira. O fato de que as crianças da cidade, os filhos de médicos — ou seja, aqueles com maior contato com a medicina — e as pessoas que seguem fielmente os preceitos da higiene médica moderna sejam justamente os mais frágeis, comprova essa realidade. Todavia, a medicina atual é absolutamente incapaz de elevar as pessoas da segunda categoria à primeira.
-
-E qual é a verdadeira razão da morte? As pessoas acreditam que seja a doença, mas, na verdade, a morte por doença é extremamente rara. A grande maioria dos óbitos ocorre por debilidade. Isso porque a doença, que é o processo de purificação, é suprimida. Como explicado anteriormente, a medicina atua para interromper a purificação, enquanto o corpo físico reage para promovê-la, gerando um conflito que intensifica o sofrimento. Em decorrência disso, a debilidade se agrava, conduzindo, finalmente, ao limiar da morte.
-
-Os povos civilizados, cuja constituição física foi enfraquecida pela medicina, experimentam purificações brandas e, por isso, não sofrem purificações intensas, o que resulta em menos doenças graves. Isso adia a ocasião da morte, ou seja, eles sobrevivem mantendo a vida a duras penas, mesmo que em um estado de fragilidade. Em contrapartida, na época em que esses mesmos povos ainda possuíam grande força física, estavam mais suscetíveis a purificações intensas, isto é, a doenças graves. O tratamento médico as reprimia com força, gerando atrito, que por sua vez causava debilidade e, por fim, a morte. A prova disso está nas estatísticas que mostram que, quanto maior a taxa de mortalidade de uma era, maior também a sua taxa de natalidade. Eis, pois, o esclarecimento do segundo enigma da questão demográfica.
-
----
-
-# O Sofrimento que Ninguém Vê
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
-**Título Original:** 一つの苦しみ | **Status:** Published
-
-## O Sofrimento que Ninguém Vê
-
-Até mesmo eu vivencio aflições de diversas naturezas. Naturalmente, ao desbravar este mundo de trevas e ignorância, Satanás e os espíritos assemelhados a Daiba (提婆) agem com total desenvoltura, e sinto-me como se estivesse cercado por uma barreira de lanças forjadas pela inveja, pela perseguição, pela maledicência e pela incompreensão. É preciso romper essa barreira para expandir gradualmente o Céu neste mundo infernal. A dificuldade é, portanto, maior do que se pode imaginar. Contudo, graças à magnânima proteção do Deus Supremo, o sofrimento não é tão intenso quanto aparenta ser para quem observa de fora. Por essa razão, sou constantemente grato, convicto de que, em todo o mundo, talvez não exista ninguém com um destino tão abençoado e prodigioso quanto o meu.
-
-Todavia, existe uma outra forma de tormento, desconhecida das pessoas. Dentre essas aflições, descreverei aqui a mais pungente, que diz respeito, como se pode imaginar, à medicina moderna. Há muito tempo, venho apontando seus equívocos, tanto oralmente quanto por escrito. Entretanto, para ser totalmente franco, até hoje não me foi possível expor a verdade de forma explícita e irrestrita. Sempre agi com cautela, moderando minhas palavras para evitar provocações, pois nutria o receio de que, se revelasse a verdade nua e crua, as consequências poderiam ser gravíssimas. Ademais, mesmo que desejasse fazê-lo, Deus me proibiu terminantemente de me pronunciar até que o momento oportuno chegasse.
-
-No que tange à saúde e à doença do ser humano, tudo me foi revelado por Deus de maneira cabal. Do contrário, eu jamais poderia proferir algo tão audacioso como a construção de um mundo isento de doenças. Se ouso afirmá-lo com tanta veemência, é porque possuo uma convicção absoluta. Nesse sentido, a raiz do sofrimento que aflige a humanidade é a doença. Ao observar a condição do homem na atualidade, não posso deixar de considerá-la deveras trágica. Testemunhar essa realidade é, para mim, uma angústia insuportável. Contudo, Deus me impede de tornar pública a verdade. Eis a razão pela qual me encontro em um penoso dilema, como que comprimido entre duas forças opostas. Portanto, o anseio "Que o tempo predestinado chegue sem demora!" é a mais fiel expressão do meu coração.
-
----
-
-# A Socialização da Arte
-
-**Categoria:** hi | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
-**Título Original:** 美術の社会化 | **Status:** Published
-
-## A Socialização da Arte
-
-Nesta oportunidade, passo a discorrer sobre o significado fundamental da construção do Museu de Arte. Conforme sempre afirmo, o objetivo de nossa Igreja é a criação de um mundo pleno de Verdade, Bem e Belo. Nesse sentido, para materializar o Belo, concebemos uma obra de arte que harmoniza a beleza natural com a beleza artificial, algo que ninguém jamais havia sequer tentado.
-
-O propósito por trás dessa iniciativa reside em uma profunda constatação. Embora o Japão, até os dias de hoje, possua um acervo de obras de arte magníficas, em nada inferior ao de qualquer outra nação, esse tesouro esteve, historicamente, sob o controle de uma classe privilegiada. As peças eram mantidas em segredo, nas profundezas de residências particulares, e reveladas apenas ocasionalmente a um círculo restrito de pessoas. Em suma, tratava-se de um verdadeiro monopólio da arte, um reflexo do pensamento feudal que por tanto tempo prevaleceu entre os japoneses.
-
-Há muito tempo, eu lamentava profundamente essa situação e almejava, de alguma forma, romper com esse costume nefasto e promover a socialização da arte. Em outras palavras, meu anseio era pela sua libertação, a fim de que pudesse deleitar o grande público. Eu estava convicto de que somente assim a arte poderia cumprir sua verdadeira vocação. Por ser um religioso, e contando com o esforço devotado de nossos fiéis, foi possível concretizar esse projeto em um período relativamente curto. Sinto uma alegria imensurável por ver realizado um desejo que acalentei por tantos anos.
-
-Atualmente, embora existam museus particulares em diversas localidades, a intenção que motivou sua criação é fundamentalmente distinta da minha. Tais instituições foram, em geral, estabelecidas por magnatas e conglomerados financeiros que, nadando em fortuna, acumularam inúmeras obras para satisfazer seus gostos pessoais, proteger seu patrimônio ou saciar sua sede de prestígio. Posteriormente, converteram suas coleções em pessoas jurídicas para garantir sua manutenção e segurança futuras. Por força de lei, são obrigados a expor o acervo ao público por um número mínimo de dias ao ano, o que cumprem de forma protocolar, com breves mostras na primavera e no outono. É forçoso concluir, portanto, que o significado social dessas iniciativas é extremamente limitado.
-
-Nosso museu, em contrapartida, embora permaneça fechado durante os meses de dezembro, janeiro e fevereiro devido às condições climáticas de Hakone, funciona em caráter permanente no restante do ano. Essa disponibilidade constante, que permite a visitação a qualquer momento desejado, já o torna, sob essa ótica, um modelo ideal. Ademais, o acervo em exposição é composto por obras-primas e raridades que preenchem todo o espaço, peças que qualquer apreciador de arte anseia por contemplar ao menos uma vez na vida. A satisfação desses visitantes será, sem dúvida, imensa. Planejamos também manter os ingressos a um valor relativamente baixo, crentes de que, assim, poderemos oferecer uma contribuição significativa ao bem-estar social.
-
-Não bastasse isso, há outra lacuna que viemos preencher. Os artistas contemporâneos que desejam estudar obras de referência deparam-se com um cenário limitado: os museus nacionais, como se sabe, dedicam-se majoritariamente a peças de valor histórico e arqueológico, com ênfase na arte budista, enquanto os demais museus particulares privilegiam a arte chinesa ou ocidental. Inexistia, portanto, um museu de arte genuinamente japonês. Nossa instituição contribuirá enormemente, também, para a preservação de bens culturais valiosos, que correm constante risco de se dispersar.
-
-Recentemente, tive a honra de receber a visita do senhor Asano, diretor do Museu Nacional, e do senhor Fujikawa, diretor do Comitê para a Proteção do Patrimônio Cultural. Em nossa conversa, ambos afirmaram que um museu com estas características atende precisamente a uma das maiores demandas do país na atualidade. Expressaram seu total apoio e a intenção de nos auxiliar, incentivando-me a prosseguir com o máximo empenho. Suas palavras, como é natural, fortaleceram imensamente minha determinação.
-
-Por fim, gostaria de salientar um ponto de especial importância. No futuro, o fluxo de turistas estrangeiros no Japão certamente aumentará, e será raro aquele que, vindo a Hakone, não visite nosso museu. Acredito, pois, que a instituição terá um papel considerável na elevação do prestígio da cultura japonesa no cenário mundial. Já estamos recebendo inúmeras solicitações de visita de estrangeiros influentes, a começar pelo célebre Dr. Warner. Por isso, imagino que não está distante o dia em que nosso museu se tornará conhecido internacionalmente, consagrando-se como uma das grandes atrações do Japão. Cientes dessa responsabilidade, estamos, no momento, empenhados com afinco no aprimoramento de todos os seus aspectos.
-
----
-
-# Será a Doença Verdadeiramente Temível?
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
-**Título Original:** 病気は果して恐ろしいか | **Status:** Published
-
-## Será a Doença Verdadeiramente Temível?
-
-Na sociedade contemporânea, creio não haver uma única pessoa que não considere a doença o mais aterrador dos flagelos. Tal temor é compreensível, pois ela atinge diretamente a vida, nosso bem mais precioso. Embora pareça desnecessário reiterar algo tão evidente, o receio transcende o risco iminente à existência. Uma vez acometido por uma enfermidade, o indivíduo se depara com um fardo esmagador: os custos médicos elevados de um tratamento prolongado, a perda de rendimentos pela interrupção do trabalho, e tantos outros prejuízos.
-
-Consideremos, ademais, a situação daqueles que se encontram em momentos cruciais de suas vidas: o empresário prestes a inaugurar um novo negócio, o profissional a meio caminho do sucesso, a autoridade incumbida de uma responsabilidade vital. Para pessoas em tais circunstâncias, um único dia de ausência é inconcebível. No entanto, ao adoecerem, a medicina moderna impõe o repouso absoluto, uma sentença de inatividade completa. A essa paralisia forçada, somam-se a angústia e a ansiedade, que se unem ao sofrimento físico, submetendo o enfermo a um tormento dúplice. É natural, portanto, que a doença seja temida de forma tão extrema.
-
-Contudo, a situação se agrava pelo fato de a causa de todas as moléstias ser atribuída à infecção por micróbios. Disso decorre um pavor desmedido por esses agentes invisíveis, que mantém as pessoas em um estado de constante apreensão. Esse terror não se manifesta apenas durante a enfermidade, mas assombra sobretudo os indivíduos sadios, transformando nossa era em um mundo de profunda insegurança. Por um lado, o esplendoroso avanço da civilização nos legou uma sociedade democrática, liberal, igualitária e racional, além de progressos nos transportes e inúmeras conveniências que, inegavelmente, ampliaram a felicidade humana. Por outro, o surgimento dessa nova e colossal ameaça – a fobia microbiana – aniquilou todos esses benefícios culturais.
-
-Ao ponderarmos profundamente sobre estes pontos, torna-se claro que, para a humanidade desfrutar das dádivas da cultura e alcançar a verdadeira felicidade, é imperativo construir um mundo livre da insegurança gerada pela doença. Se a raiz do problema reside nos micróbios, seria preciso erradicá-los ou impedir sua infecção no corpo humano. Todavia, mesmo com as mais completas instalações de desinfecção, tal objetivo é absolutamente inatingível. Sendo assim, a única solução viável consiste em forjar um organismo que não adoeça, mesmo que seja infectado. Somente por meio desse caminho a apreensão em face da doença poderá ser dissolvida.
-
-Indaga-se, então, se um método tão ideal de fato existe. Conforme ensinamos reiteradamente, por meio dos preceitos de saúde revelados por Deus, tornar-se uma pessoa saudável e imune à ação dos micróbios não é, de modo algum, uma tarefa difícil. A maior prova disso somos nós mesmos que, embora não adotemos quaisquer medidas de prevenção contra micróbios, permanecemos completamente ilesos. Para nós, a apreensão gerada pela doença é uma relíquia de um passado distante.
-
----
-
-# A Febre Discreta e suas Graves Implicações
-
-**Categoria:** hi | **Ano:** 昭和26(1951)年9月5日 | **Fonte:** Eikou
-**Título Original:** 微熱というもの | **Status:** Published
-
-## A Febre Discreta e suas Graves Implicações
-
-É provável que não exista uma única pessoa na atualidade que não sofra de febre discreta; a única diferença reside em ter ou não consciência desse fato. Todavia, este estado febril, embora sutil, exerce uma influência surpreendentemente vasta sobre o corpo humano, a qual passarei a descrever.
-
-Desde dores de cabeça e sensação de peso na mente, a febre discreta debilita a capacidade de concentração, tornando o pensamento disperso, diminuindo a memória e minando a perseverança. A pessoa se torna indisposta para qualquer atividade, sente o corpo constantemente pesado e fatigado, e busca deitar-se à menor oportunidade. O apetite diminui, surgem preferências e aversões alimentares acentuadas, e há uma predileção por líquidos, com um desejo constante de beber. O temperamento torna-se irritadiço, o ânimo se abate e o mundo perde o seu encanto, o que conduz a uma visão pessimista da vida. A própria histeria origina-se disso. Tudo se torna negativo. A pessoa passa a preferir os dias chuvosos aos ensolarados, fica suscetível a resfriados, sofre de congestão nasal, zumbido nos ouvidos e inflamações recorrentes das amígdalas. Ao andar apressadamente ou subir uma ladeira, sente falta de ar e as pernas pesadas. Portanto, mesmo em uma enumeração superficial, a lista de transtornos é extensa, demonstrando que se trata de uma condição que de modo algum pode ser subestimada.
-
-Por conseguinte, em decorrência de tal estado, o convívio social se deteriora. As relações interpessoais tornam-se desarmoniosas; no lar, a convivência entre marido e mulher se desgasta, e a sintonia com pais, filhos e irmãos desaparece. O indivíduo passa a querer impor sempre sua vontade e a justificar suas ações com argumentos ilógicos, agindo de maneira egoísta e arbitrária. Nesses casos, ideologias como o liberalismo servem como a desculpa mais conveniente. Como resultado, o ambiente familiar perde a alegria, tornando-se um terreno fértil para o surgimento de acontecimentos lastimáveis. O crescente número de jovens que fogem de casa nos últimos tempos pode ser, em parte, atribuído a essa causa. Em situações mais graves, o desfecho pode ser tão trágico quanto um suicídio coletivo familiar, cujo pano de fundo também pode estar relacionado aos fatores que mencionei.
-
-Contudo, o problema não se restringe a essa esfera. Quando o observamos em uma perspectiva social, notamos que muitas pessoas tendem a defender suas próprias lógicas egoístas, resultando em falta de harmonia. Questões triviais transformam-se rapidamente em discussões, e as pessoas sentem o impulso de disputar mesmo em situações onde o conflito seria evitável. Tal comportamento beligerante parece originar-se desse excessivo egocentrismo, algo bastante comum na esfera política. Ademais, quando um grupo se reúne para debater um tema, há uma profusão de atritos e dificuldades, e leva-se um tempo considerável para se alcançar um consenso. Ainda assim, o público em geral parece não apenas ignorar a causa subjacente a esses fenômenos, mas também demonstrar pouco interesse por ela.
-
-Há ainda outro desdobramento. Em uma sociedade repleta de tantos dissabores, os momentos de desprazer superam os de bem-estar, levando as pessoas a buscar formas de se distrair de seus tormentos. É nesse ponto que surge a bebida. O fato de as vendas de álcool permanecerem inalteradas, independentemente do aumento dos preços, talvez se deva a isso. Para além da bebida, na tentativa de escapar do sofrimento, as pessoas anseiam por prazeres de forte estímulo. Os jovens correm para cabarés, salões de dança, casas de pachinko ou se enveredam por caminhos ainda mais questionáveis. Os mais velhos, por sua vez, caso disponham de algum recurso, procuram consolo em amantes ou no mundo do entretenimento noturno. Esse cenário, onde florescem toda sorte de diversões pouco saudáveis, reflete a fisionomia da nossa era.
-
-Diante do exposto, se considerarmos que a causa fundamental de todas essas facetas do mal reside na febre discreta, não há nada mais temível do que ela. E não é só isso. Quando uma pessoa com febre discreta passa por um exame médico, seu quadro é facilmente confundido com o estágio inicial da tuberculose, o que acarreta outra sorte de complicações. Uma vez recebido tal diagnóstico, o paciente é submetido a repouso absoluto e a uma série de terapias invertidas que, após anos de sofrimento, levam a maioria ao outro mundo. Dentre os que felizmente se recuperam e conseguem retornar ao trabalho, é provável que não haja sequer um em cada cem. Portanto, sob qualquer ponto de vista, é evidente que devemos nos esforçar para ter um corpo livre da febre discreta.
-
-Mas qual é, então, a origem dessa febre? Ela reside unicamente nas toxinas medicamentosas acumuladas no interior do corpo humano. Essas toxinas, ao se solidificarem em diversas partes do organismo, desencadeiam um lento processo de purificação, que se manifesta como febre. Para curá-la verdadeiramente, não existe método algum senão o Johrei (浄霊). Assim, à medida que o número de fiéis de nossa Igreja aumentar, todos os fenômenos lastimáveis descritos anteriormente desaparecerão. Quando isso ocorrer, uma sociedade verdadeiramente agradável e aprazível surgirá. Esta é, precisamente, a imagem do Paraíso Terrestre.
-
----
-
-# O Método para a Cura das Doenças
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 病気を治す方法 未発表 | **Status:** Unpublished
-
-## O Método para a Cura das Doenças
-
-A partir do exposto, a verdadeira natureza da doença deve ter sido compreendida em suas linhas gerais. Resta, contudo, a questão de como curá-la. Conforme abordado anteriormente, é inegável que a doença se cura por si só quando deixada à sua própria evolução; todavia, tal processo demanda um tempo considerável. Isso ocorre porque, embora a cura seja célere quando a quantidade de toxinas é pequena, pessoas nessa condição são extremamente raras. A maioria, na verdade, encontra-se saturada de toxinas medicamentosas.
-
-É uma situação lamentável, pois o próprio governo, em conluio com a classe médica, educa e incentiva o uso de medicamentos desde a infância, apresentando essa prática como um pilar da cultura. Para se ter uma ideia da magnitude das vendas de fármacos, especialmente os novos, basta observar os anúncios nos jornais, nos quais eles ocupam a posição de maior destaque. Acrescente-se a isso a posse de toxinas medicamentosas congênitas, e conclui-se que o ser humano de hoje é, em essência, um amálgama de venenos em forma de gente. Consequentemente, ele se torna propenso a adoecer e, a cada episódio, recorre novamente aos remédios. É por essa razão que vivem seus dias em constante temor e apreensão.
-
-Paradoxalmente, são justamente essas pessoas que, apesar de consumirem medicamentos de forma indiscriminada e dedicarem atenção excessiva à higiene, apresentam uma constituição frágil, confirmando o antigo ditado de que "os que mais cuidam da saúde são os mais fracos". As autoridades, por sua vez, reverenciam os preceitos da medicina como se fossem dogmas inquestionáveis. Em virtude dessa crença, multiplicam-se as advertências: lavem as mãos ao chegar em casa, façam gargarejos, não peguem resfriados, evitem excessos à mesa, não se sobrecarreguem, durmam o suficiente, temam os micróbios. A essa lista somam-se, naturalmente, os exames de tuberculose e as diversas vacinas preventivas, além das recomendações para as crianças, como não dormir descobertas, não beber água sem ferver, mastigar bem os alimentos e dormir bastante. A simples enumeração dessas regras já demonstra a complexidade da vida atual, a ponto de torná-la um fardo. Se a isso se dá o nome de vida civilizada, trata-se, na verdade, de uma espécie de cárcere.
-
-A causa primordial de tudo isso reside na ignorância sobre o fato de que a doença é uma bênção Divina concedida para a obtenção da verdadeira saúde. Ao contrário, tratam-na como um demônio a ser combatido — daí expressões como "lutar contra a doença" —, hostilizando-a. Sob nossa ótica, essas pessoas parecem meramente vítimas que, mergulhadas em um inferno de superstições, padecem desnecessariamente. Nós, em contrapartida, acolhemos a doença com grande satisfação. Causaria assombro, por exemplo, ouvir relatos como: "Graças a Deus, finalmente consegui pegar um resfriado", ou "Tive uma forte diarreia com vômitos dias atrás, e desde então meu corpo está muito melhor", ou ainda "Agora que a febre surgiu, sei que tudo ficará bem", para em seguida retomarem suas atividades. Tal atitude é fruto da compreensão da causa fundamental da doença e da confiança inabalável na certeza da cura. Alcançar esse estado de espírito é, literalmente, atingir a paz interior e a segurança de quem entregou seu destino a Deus, tornando-se um ser verdadeiramente feliz. Portanto, não hesito em afirmar que, se todos os medicamentos do planeta fossem lançados ao mar, a partir daquele instante, as doenças começariam a desaparecer gradualmente do mundo.
-
-Até aqui, expus de maneira audaciosa e direta a verdadeira face da medicina moderna. A questão que se impõe, então, é como corrigir esse equívoco. A resposta é surpreendentemente simples. Basta que, ao adoecer, a pessoa siga meus ensinamentos, optando pela terapia natural ou pelo Johrei. Com isso, o problema estará solucionado.
-
-As estatísticas que compilamos até o momento corroboram essa afirmação, apresentando resultados notáveis: uma taxa de cura de noventa e três por cento para a tuberculose, considerada uma das enfermidades mais refratárias, e de noventa e sete por cento para as demais doenças. Ressalte-se que os poucos casos de insucesso deveram-se unicamente à quantidade excessiva de toxinas medicamentosas acumuladas no organismo do paciente. Se não fosse por esse fator, a taxa de sucesso seria, com toda certeza, de cem por cento.
-
-Outra característica do Johrei, e da qual muito nos orgulhamos, é que, diferentemente dos tratamentos médicos, a ministração é realizada sem qualquer contato físico com o paciente. Seu objetivo primordial é a eliminação das toxinas medicamentosas, e o processo de cura torna-se evidente à medida que essas toxinas diminuem. Contudo, cientes de que o homem moderno, arraigado às superstições da medicina, dificilmente acreditará nessas palavras, procuramos não apenas detalhar os fundamentos de nossa tese para que sejam plenamente compreendidos, mas também anexamos cem relatos verídicos, de próprio punho, como prova [resumido]. Diante de tais evidências, acreditamos ser impossível que a verdade não seja assimilada.
-
----
-
-# A Verdadeira Causa das Doenças
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 病気は薬毒が作る 未発表 | **Status:** Unpublished
-
-## A Verdadeira Causa das Doenças
-
-Já se terá compreendido que a causa de todas as doenças reside no veneno dos remédios. A observação do progresso deste paciente, aliás, serve como uma nítida comprovação desse princípio. Com efeito, ao se ministrar o Johrei, observa-se, invariavelmente, a expulsão de um grande volume de secreções por meio de vômitos e diarreias. Tais excreções nada mais são do que a totalidade dos medicamentos ingeridos ao longo do tempo, fato que se torna evidente até mesmo pelo odor característico que exalam. Particularmente nos casos de enfermidades estomacais crônicas, o processo de eliminação demanda um período considerável, em virtude da grande quantidade de toxinas acumuladas.
-
-Diante disso, sempre reflito sobre quão incompreensível é que um fato tão simples e límpido não seja percebido pelas pessoas. A única explicação que encontro é que a mente humana foi de tal forma adulterada pela superstição que perdeu sua capacidade de discernimento.
-
-Evidentemente, sendo a úlcera gástrica um resultado direto dos medicamentos ingeridos, a cura é infalível. Basta suspender o uso de qualquer fármaco, manter uma dieta líquida enquanto houver sangramento e, paulatinamente, progredir de alimentos pastosos para sólidos. Contudo, a medicina, por desconhecer tal princípio, insiste em empregar mais medicamentos na tentativa de promover a cura, tornando-a, por conseguinte, inatingível.
-
-Portanto, confiar a vida, que é una e insubstituível, a uma ciência médica tão repleta de equívocos, transcende o mero perigo; assemelha-se, na verdade, a um ato de suicídio. Em uma civilização que se proclama tão avançada, ter de suportar um flagelo tão trágico é o paradoxo do homem contemporâneo. Para ele, não há outra designação possível senão a de uma criatura digna de compaixão.
-
----
-
-# Não Existe um Único Remédio que Cure Doenças
-
-**Categoria:** hi | **Ano:** 昭和11(1936)年4月21日 | **Fonte:** 新日本医術書
-**Título Original:** 病気を治す薬は一つも無い | **Status:** Unknown
-
-## Não Existe um Único Remédio que Cure Doenças
-
-A própria classe médica certamente tem a aguda percepção de que os medicamentos não curam as doenças. Possuem, contudo, o efeito de atenuar o sofrimento. Em suma, sua ação se restringe a coibir a enfermidade ou, por meio do entorpecimento, a mitigar temporariamente a sensibilidade à dor. Os remédios, em sua essência, não são mais do que isso.
-
-Todavia, conforme sempre afirmo, o sofrimento é o processo inerente à purificação que conduz à cura. Portanto, atenuá-lo significa, logicamente, retardar o restabelecimento da saúde. E não é só: a essa desvantagem soma-se a toxina residual dos fármacos, o que acarreta um prejuízo duplo. Com efeito, a maculação do sangue provocada pelos remédios é assustadora, e é um fato que, por mais inócuo que um fármaco pareça, ele invariavelmente impurificará o sangue em algum grau.
-
-O prejuízo decorrente da maculação do sangue reside em exaurir a força purificadora do organismo, resultando em um acentuado declínio da vitalidade. Consequentemente, o corpo torna-se mais suscetível a enfermidades, e sua capacidade natural de cura é debilitada. Isso ocorre porque o sangue impurificado possui um poder bactericida inferior.
-
-Nesse sentido, ao se ponderar o benefício da atenuação do sofrimento em contraposição aos malefícios — o retardo da cura e a maculação do sangue —, é imperativo reconhecer que os prejuízos superam em muito as vantagens.
-
-Ainda assim, o homem moderno anseia por utilizar medicamentos indiscriminadamente. Isso se deve à sua completa ignorância quanto aos malefícios dos fármacos, sendo, portanto, nosso dever fazê-lo compreender profundamente esta lógica o quanto antes. A elevada incidência de doenças, a abreviação da vida e a morosidade na recuperação da saúde, tão características da sociedade atual, são fenômenos cuja causa, ao menos em parte, reside nesse ponto — um fato irrefutável.
-
-Aqueles que vivem em constante contato com fármacos e, embora não apresentem nenhuma enfermidade específica, tampouco desfrutam de plena saúde, podem, em sua maioria, ser considerados pacientes intoxicados por medicamentos. Se tais pessoas abolirem o uso de remédios, sua saúde será gradualmente restaurada.
-
-Gostaria de bradar em alto e bom som: a saúde da nação começa com a abolição dos medicamentos!
-
-21 de abril de 1936
-
----
-
-# Considerações sobre a Vacina BCG
-
-**Categoria:** hi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** Ｂ・Ｃ・Ｇの注射に就て | **Status:** Published
-
-## Considerações sobre a Vacina BCG
-
-Este texto é um excerto da obra “O Problema da Tuberculose e sua Solução”, publicada em 13 de dezembro de 1942.
-
-Após a conclusão do manuscrito deste opúsculo, o governo anunciou a decisão de aplicar a vacina conhecida como BCG nos jovens recém-egressos das escolas primárias nacionais. A esse respeito, transcrevo as palavras do engenheiro Masayasu Kusumoto, da Divisão de Tuberculose do Ministério da Saúde e Bem-Estar:
-
-“Ao analisarmos a incidência de tuberculose em nosso país, observamos que a taxa de desenvolvimento da doença entre os não infectados é, de fato, três vezes superior à dos já infectados, o que demonstra que indivíduos com reação negativa à tuberculina correm um risco consideravelmente maior. Esse fato por si só revela a existência de certo tipo de imunidade à tuberculose. Com base nessa imunidade, diversas tentativas de imunização artificial foram feitas no passado, como o uso de vacinas com bacilos mortos ou a inoculação de quantidades mínimas de bacilos da tuberculose, mas todas se mostraram ineficazes ou, pior, perigosas, não obtendo sucesso.
-
-A vacina BCG teve origem quando os franceses Calmette e Guérin descobriram, em 1904, uma cepa de bacilo bovino da tuberculose (que causa a doença em bovinos, sendo diferente do tipo humano) de virulência extremamente baixa. Eles provaram que sua inoculação em seres humanos não apenas era absolutamente segura, como também conferia imunidade aos não infectados, logrando transformá-la em uma vacina cultivável. No Japão, a vacina vem sendo estudada há mais de dez anos, passando por uma análise criteriosa adaptada à nossa realidade, até chegar ao ponto de ser utilizada na prática.
-
-O objetivo da vacina BCG é prevenir o desenvolvimento explosivo da doença em casos de primeira infecção. Para aqueles que já apresentam reação positiva à tuberculina, ela não apenas é inútil, como também é contraindicada por poder causar reações adversas no local da aplicação. Portanto, seu uso deve ser restrito a pessoas com resultado negativo em rigorosos testes de tuberculina. Após a aplicação da vacina BCG, a imunidade geralmente se manifesta em cerca de dois meses, quando a reação à tuberculina se torna positiva, e perdura por aproximadamente um ano.
-
-Existem vários métodos de aplicação, como o subcutâneo e o intradérmico, e pode-se dizer que não há efeitos colaterais. É verdade que algumas pessoas podem desenvolver abscessos ou úlceras no local da injeção, mas tal manifestação é, na verdade, uma prova da forte resposta imunitária e não constitui motivo para preocupação. Em um país como o Japão, com alta taxa de desenvolvimento da doença entre os não infectados, esta vacina possui características perfeitamente adequadas à nossa nação. Pretendemos, doravante, aplicá-la em todos os jovens que se mudam da zona rural para as cidades ou que ingressam em ambientes de vida coletiva. A vacina BCG está sendo aplicada gratuitamente, exceto pela taxa de consulta, a um número limitado de pessoas diariamente no Posto de Saúde da Associação de Prevenção da Tuberculose, em Misakicho, Kanda, na cidade de Tóquio.”
-
-Com base nessas informações, fica evidente que a referida vacina é ineficaz para os já infectados, tendo efeito unicamente sobre os não infectados, isto é, os que apresentam reação negativa. A duração da imunidade, ademais, é de aproximadamente um ano. Desejo, pois, analisar essa prática sob a ótica da nossa arte médica.
-
-Tenho afirmado que os tratamentos da medicina ocidental, embora possam apresentar um efeito temporário, acabam por agravar a doença a longo prazo. Acredito que o mesmo se aplica a esta vacina.
-
-A justificativa para declará-la um sucesso e levá-la à aplicação prática reside nos resultados de um estudo conduzido entre setembro do ano passado e junho deste ano com cem mil egressos de escolas primárias. Segundo os dados, a taxa de morbidade por tuberculose diminuiu para um terço, e a taxa de mortalidade foi drasticamente reduzida para um décimo. Contudo, julgar sua eficácia e decretar sua implementação com base em um experimento de meros nove meses não seria uma decisão sobremaneira precipitada? Admito, todavia, que a urgência em conter a tuberculose talvez torne tal medida inevitável.
-
-Deixando essa questão de lado, conforme afirmei anteriormente, a causa da tuberculose é um vigoroso processo de purificação. Portanto, os bons resultados obtidos em nove meses apenas demonstram a intensidade com que o líquido da vacina consegue paralisar essa ação purificadora. Em outras palavras, o fato de a tuberculose — que é a mais intensa das purificações — diminuir entre jovens de dezesseis ou dezessete anos — que estão no auge de sua capacidade purificadora — é uma prova eloquente do poder desta vacina em debilitar a constituição física.
-
-Nesse sentido, ao projetarmos as consequências da vacina, o declínio da força física é uma certeza, e, por conseguinte, a queda na eficiência do trabalho será inevitável. Ademais, se a imunidade dura apenas um ano, será necessário reaplicar a vacina. Qual será o resultado? A supressão contínua do processo purificador que deveria ocorrer levará a uma degradação progressiva da constituição física, a ponto de um jovem adquirir a condição de um idoso. É evidente, em especial, que a taxa de fertilidade feminina sofrerá uma drástica redução.
-
-Diante de tais fatos, é uma certeza inequívoca que a fascinação pelos resultados temporários trará consequências nefastas e imprevisíveis no futuro. Conforme explanei, a vacina contra a varíola, por si só, já foi suficiente para debilitar a constituição do povo japonês ao nível que observamos hoje. Assim, ao se implementar a vacina BCG, tida como notavelmente eficaz, o futuro da constituição física de nosso povo se torna uma fonte de apreensão intolerável.
-
----
-
-# A Medicina Não Científica
-
-**Categoria:** hi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 非科学的医学 | **Status:** Published
-
-## A Medicina Não Científica
-
-Atualmente, decerto não haverá quem duvide da natureza científica da Medicina Ocidental. Eu, contudo, sou de opinião que ela não pode ser assim considerada. Em sua essência, a ciência natural consiste em aprofundar a investigação sobre a realidade da natureza, tal como ela é, a fim de desvendar suas leis. A partir desse conhecimento, busca-se contribuir para o avanço e a elevação da cultura. Portanto, a verdadeira apreensão das leis da natureza deveria dar origem a um critério imutável. Contudo, tal critério se aplica a tudo, exceto ao homem. É evidente que, ao estudarmos cientificamente os animais, as plantas e até mesmo os minerais, podemos apreender sua essência, conhecer suas leis e estabelecer seus padrões.
-
-Dessa forma, a ciência logrou desvendar os mistérios e promover o bem-estar em tudo o que não concerne ao ser humano. Ofuscados por tais méritos, os homens passaram a conceber o ser humano sob a mesma ótica, persistindo em estudá-lo cientificamente. Foi então que descobri que essa própria premissa constitui uma falácia monumental.
-
-O ponto que desejo elucidar é precisamente este: o ser humano é uma existência à parte, que não se enquadra em nenhuma outra categoria. Portanto, o primeiro passo para a formulação de uma ciência do homem é reconhecer que a ciência moderna é absolutamente incapaz de decifrá-lo.
-
-Ademais, os métodos empregados para investigar tudo o que é alheio ao homem dependem invariavelmente de aparatos mecânicos. Ciência e mecanismo são, de fato, inseparáveis. A premissa fundamental da Medicina Ocidental foi, nesse sentido, a tentativa de solucionar os mistérios da vida humana por meios mecânicos.
-
-Para expressar essa ideia de forma concisa: o equívoco fundamental reside em tentar solucionar, por vias materialistas, um ser humano que é, em sua essência, espiritual. A verdadeira lei científica ditaria que um ser de natureza espiritual deve ser abordado espiritualmente. Embora o homem possua um corpo físico, mesmo este, no que tange ao ser humano, pode e deve ser compreendido sob uma perspectiva espiritual, sendo este o princípio basilar. Nessa dualidade, o espiritual corresponde ao espírito, e o material, ao corpo, uma relação que pretendo detalhar em outra oportunidade.
-
-A partir dessa compreensão, será possível discernir o verdadeiro significado de uma ciência humana e, por conseguinte, a imensa lacuna que a separa da ciência não humana. Quando se reconhece essa distinção, torna-se evidente que aplicar a ciência materialista ao homem é, em si, um ato não científico.
-
-É por essa razão que os estudos com cobaias e camundongos, por mais extensos que sejam, não têm qualquer serventia quando aplicados aos seres humanos. Basta comparar o homem com os outros animais. As disparidades em pensamento, sentimento, forma, movimento, constituição física, dieta e modo de vida são abissais. Eles possuem quatro patas e cauda, não caminham eretos. Sua pele espessa, a pelagem densa, a ausência de linguagem, o olfato, a audição — creio ser desnecessário prosseguir com a lista de diferenças. Como poderiam os resultados obtidos no estudo de criaturas tão díspares ser pertinentes ao homem?
-
-Em suma, a medicina, até os dias de hoje, nada mais é que uma tentativa de solucionar problemas de ordem metafísica com teorias e métodos de ordem física.
-
-Nesse sentido, todos os métodos celebrados como avanços e descobertas na medicina não constituem, na realidade, soluções verdadeiras, mas apenas resoluções temporárias e não científicas. O mais grave é a falta de percepção de que essas soluções provisórias e seus respectivos métodos, ao contrário do que se espera, acabam por acarretar consequências piores do que a situação original. É devido a essa visão limitada que, apesar do suposto progresso da medicina, as doenças não são curadas. O número de doentes aumenta, a constituição física da população se deteriora, a tuberculose se alastra e a população decresce. Tais efeitos adversos são, portanto, uma consequência inevitável.
-
-Tudo isso nada mais é do que o resultado contraproducente do progresso de uma medicina não científica, como venho afirmando.
-
-Ademais, é fato notório que, diante da manifesta impotência da Medicina Ocidental, um número crescente de pessoas recorre à medicina chinesa, à acupuntura e às terapias populares. Ouve-se também, com frequência, que mesmo especialistas da área médica têm se dedicado ao estudo da medicina oriental ou aplicado técnicas como a moxabustão. Todavia, a população em geral, ainda que desconfie da ineficácia e da irracionalidade da Medicina Ocidental, não consegue sequer vislumbrar a essência de seus equívocos. Por isso, não lhe resta alternativa senão entregar a vida a seus cuidados. Essa é a realidade da sociedade atual.
-
-A obra-prima do notável acadêmico Alexis Carrel, do Instituto Rockefeller, laureada com o Prêmio Nobel e intitulada *O Homem, Esse Desconhecido*, pode ser resumida em uma única sentença: a ciência moderna "nada sabe sobre o homem".
-
-Permitam-me agora citar alguns exemplos.
-
-Imaginemos que o filho de um médico adoeça. Fato curioso, na maioria dos casos, o próprio pai não o trata, delegando o cuidado a um colega. Pelo senso comum, seria inconcebível que alguém não cuidasse pessoalmente de um filho enfermo, confiando-o a terceiros. Isso ocorre porque, no fundo, o médico não confia em sua própria arte. A experiência lhe demonstra que os resultados são mais favoráveis quando o tratamento é conduzido por outra pessoa. Qual seria a razão para tal fenômeno? Provavelmente, nem o próprio médico saberia explicar.
-
-Minha interpretação é a seguinte: a medicina convencional atua na paralisação do processo de purificação; logo, quanto mais intenso o tratamento, mais o quadro se agrava. Tratando-se de um filho, o médico-pai dedica-se com o máximo zelo, empregando todas as terapias ao seu alcance e, decerto, os medicamentos mais avançados — que, por sua vez, contêm as toxinas mais potentes. O resultado, invariavelmente, é negativo. Um terceiro, por outro lado, aplica um tratamento convencional, de modo que o agravamento é menos acentuado, elevando a taxa de cura.
-
-É comum também ouvir de médicos que pacientes os quais eles mais se empenham em curar são os que apresentam maior dificuldade, ao passo que aqueles por quem nutrem menos interesse se recuperam com mais facilidade. O princípio, como é evidente, é o mesmo do caso anterior.
-
-Ademais, diante de doenças mais complexas, os diagnósticos costumam ser divergentes. Se cinco médicos examinarem um mesmo paciente, é provável que apresentem cinco diagnósticos distintos. Isso se deve à ausência de um critério científico unificado. Por essa razão, afirmo que a medicina é mecânica, mas não científica.
-
-Para ilustrar a impotência do diagnóstico e da terapêutica da Medicina Ocidental, vejamos um exemplo recente: o do Dr. Nagayo Mataro, professor emérito da Universidade Imperial, falecido há pouco. O Dr. Nagayo era, de fato, uma autoridade mundial em pesquisas sobre o câncer. Consta que ele mesmo costumava dizer que morreria dessa doença, e, como previsto, o câncer foi a causa de seu óbito. Ao adoecer, tanto ele quanto os mais eminentes médicos do país diagnosticaram um câncer de pulmão. Contudo, a autópsia revelou que a origem do mal estava no intestino, de onde se alastrara para os pulmões. O câncer intestinal, portanto, não fora detectado em vida.
-
-Ao analisar friamente esse fato, chego às seguintes conclusões:
-
-Primeira: uma sumidade como o Dr. Nagayo não foi capaz de prevenir o surgimento do câncer em seu próprio corpo.
-Segunda: ele próprio não teve conhecimento da existência do câncer em seu intestino.
-Terceira: nem mesmo com o auxílio dos mais renomados especialistas foi possível detectar o tumor intestinal.
-Quarta: apesar dos esforços conjuntos de todos esses médicos e do próprio Dr. Nagayo, a cura não foi alcançada.
-
-Creio não ser necessário tecer mais comentários. Os fatos, por si sós, atestam o verdadeiro valor da medicina moderna.
-
-Vejamos agora o caso do célebre Dr. Irizawa Tatsukichi, falecido há alguns anos em decorrência de uma apendicite. Na ocasião, ao saberem da gravidade de seu estado, mais de cento e vinte médicos, seus discípulos, reuniram-se para assisti-lo. Considero lastimável que, mesmo com tantos cérebros empenhados e com o próprio mestre lutando pela vida, não tenham conseguido curar uma doença tão simples como a apendicite. Dizem que, em seu leito, o Dr. Irizawa compôs o seguinte poema waka:
-
-“Embora ineficaz, sei que é meu dever;
-bebo o remédio que aos outros fiz beber.”
-
-Observe-se ainda que, ao realizar um diagnóstico, os médicos investigam minuciosamente uma série de fatores correlatos do passado: a causa da morte dos pais, o histórico de doenças dos irmãos, as enfermidades pregressas do próprio paciente, e assim por diante. A justificativa seria a busca pela cautela, mas a verdade é que, por não conseguirem formular um diagnóstico preciso apenas com o exame do corpo, eles se veem obrigados a recorrer a tais subterfúgios. Em minha opinião, uma medicina verdadeiramente avançada deveria ser capaz de identificar a causa da doença com clareza, examinando unicamente o corpo do paciente no estado em que se encontra. Muitos dirão que um diagnóstico tão simples e rápido é impossível, mas eu afirmo categoricamente que ele é possível. Digo isso porque era exatamente assim que eu procedia quando me dedicava à prática de curar.
-
-Ademais, a verdadeira arte de curar é aquela cujo tratamento não inflige o menor sofrimento ao paciente. Ao contrário, creio que o ato de curar deveria ser acompanhado de uma sensação de bem-estar. As condições para tal arte seriam um período de recuperação célere e a garantia de que a doença jamais reincidirá, não importa quantos anos se passem. E não é só: ela deve ensinar um método de saúde para a vida pós-tratamento, de modo que o paciente se torne ainda mais saudável do que era antes de adoecer e nunca mais precise recorrer aos cuidados de um médico. Muitos se perguntarão se uma arte médica tão ideal, que beira a fantasia, poderá algum dia existir. A essa dúvida, respondo: ela já existe.
-
-Contemplem, porém, a Medicina Ocidental em seu estado atual. Não é ela excessivamente desprovida de cultura? E, no entanto, é de se lastimar a ilusão e a cegueira do homem moderno, que, paradoxalmente, considera tanto mais cultas quanto mais avessas à cultura são tais práticas. Vejam: mesmo diante de uma enfermidade trivial, cortam a carne, esgotam o sangue, impõem dor e afligem com o desconforto. E, por tudo isso, sob o pretexto de ‘honorários cirúrgicos’, cobram valores exorbitantes. A recuperação é demorada e, para eliminar o risco de reincidência, é preciso mutilar uma parte do corpo. Diante dessa realidade, dizem que a medicina progrediu. Tal afirmação só é possível porque desconhecem o que é a verdadeira arte de curar.
-
-Eis que chegou a este mundo o tempo da erradicação da doença. Não profiro estas palavras por mero exibicionismo. A menos que eu seja um verdadeiro insano, como poderia fazer tais declarações sem me amparar em sólidos fundamentos lógicos e em provas concretas?
-
-Fazendo uma analogia, a medicina estabelecida é como um ovo. Em seu interior, o pintainho, chegado o momento, já se esforça para romper a casca com seu pequeno bico. O ser vivo que verdadeiramente servirá à humanidade está prestes a dar seu primeiro pio. E é meu desejo que meus irmãos e irmãs tomem conhecimento disso o mais breve possível.
-
----
-
-# Reflexões sobre a Poesia da Enfermidade
-
-**Categoria:** hi | **Ano:** 昭和7(1932)年3月1日 | **Fonte:** 瑞Hikari
-**Título Original:** 病気の歌について | **Status:** Published
-
-## Reflexões sobre a Poesia da Enfermidade
-
-Na poesia *tanka* de hoje, observa-se um excesso de poemas que versam sobre a doença. Tal influência provém, provavelmente, de poetas como Takuboku e Shiki; contudo, considero-a uma tendência sobremaneira perniciosa, restrita ao universo poético.
-
-A título de exemplo, nas artes plásticas, a beleza saudável é exaltada, enquanto a beleza mórbida — se é que tal coisa existe — praticamente não se manifesta. A Arte deve, na medida do possível, evitar o que é sombrio, obscuro e disforme, pois anseia por ser radiante, luminosa, bela e saudável. Nesse sentido, a publicação *Myoko* e a nossa *Zuiko* não cumprem exatamente este desígnio?
-
----
-
-# A Obstinação que Cega a Alma
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 世界Kyusei教奇蹟集
-**Título Original:** 病気と他力 | **Status:** Published
-
-## A Obstinação que Cega a Alma
-
-É notório que a maioria das pessoas, ao se deparar pela primeira vez com o Johrei de nossa Igreja, o recebe com profunda desconfiança. Questionam como o simples ato de impor as mãos poderia curar uma enfermidade, considerando tal ideia um disparate. Por conseguinte, ninguém realmente acredita na cura de antemão. Quando lhes contam sobre uma cura real, a resposta é invariavelmente a mesma: "A melhora teria ocorrido de qualquer forma, pois já era o momento", ou ainda, "Se tal método funcionasse, médicos e remédios seriam desnecessários".
-
-Portanto, é evidente que a compreensão plena só é alcançada por meio da experiência direta. Nesse sentido, a apresentação de relatos de graças alcançadas é fundamental, pois uma pessoa de bom-senso, ao lê-los, certamente refletirá: "De fato, faz sentido". O relato a seguir é um exemplo que corrobora magnificamente esta verdade.
-
-*Do diário de Kaiansho (Egawa Katsutoshi)*
-
-Certo dia, a vizinha apareceu com sua filha de cinco anos e disse: "Poderia cuidar dela por um instante?". Era o estratagema de sempre. Troquei um olhar cúmplice com minha esposa, e sorrimos. O rosto da menina estava marcado por listras de lágrimas e secreção nasal, evidenciando que estivera chorando até há pouco.
-
-— Está com dor de barriga? — perguntei.
-— Sim. Quero Johrei — respondeu ela.
-
-A criança, porém, é sincera. Como já lhe havíamos curado dores de cabeça e de estômago com Johrei em duas ou três ocasiões, sempre que adoece, ela mesma pede: "Tia, me dê Johrei". Seus pais, contudo, por orgulho e teimosia, embora plenamente cientes da eficácia do Johrei, jamais o pedem diretamente. Em vez disso, usam o pretexto de deixar a filha conosco por um tempo. Então, calculando o momento em que o Johrei deve ter terminado, voltam para buscá-la com um simples "Muito obrigada".
-
-Embora por vezes essa encenação tão transparente me cause irritação, reconsidero ao pensar que a criança não tem culpa. Assim, rogo a Deus e inicio a purificação. Cerca de trinta minutos depois, como de costume, a mãe veio buscar a filha, agradecendo pela gentileza.
-
-— Parece que ela tem vermes. Seria bom trazê-la outra vez — sugeri.
-A mãe partiu com um comentário mordaz:
-— Ah, então era por isso que ela estava tão chorosa. Vou comprar um vermífugo imediatamente.
-
-Nunca vi um casal tão obstinado quanto esses vizinhos. Eles testemunharam a cura da perna de minha esposa, uma graça concedida por Deus, mas se recusam a reconhecê-la, insistindo que "a melhora veio com o tempo". E, no entanto, quando a filha adoece, trazem-na para nós, pedindo que cuidemos dela, mas nunca, jamais, que lhe ministremos Johrei. Quando entram em nossa casa, são incapazes de fitar o Pergaminho Sagrado de Komyō Nyorai; desviam o olhar propositalmente. Se o assunto se volta para Deus, eles habilmente mudam de conversa.
-
-Houve uma ocasião, pouco antes do parto, em que a vizinha sofreu terrivelmente com hemorroidas. A dor era tão intensa que não conseguia dormir. Foi ao hospital e submeteu-se a uma cirurgia, mas naquela noite a dor tornou-se ainda mais excruciante, a ponto de fazê-la suar frio. Provavelmente, a cirurgia foi feita antes que o abscesso estivesse completamente formado. Nessa hora, desesperada, ela veio e nos pediu que fizéssemos uma "simpatia". Ministrei-lhe Johrei e, cerca de duas horas depois, uma grande quantidade de pus foi expelida, e ela pôde, enfim, ter uma noite de sono profundo e tranquilo. Na manhã seguinte, veio nos agradecer.
-
-Quando lhe sugeri que recebesse o Omamori para rogar pela Proteção Divina, ela se esquivou com uma resposta vaga: "Quem sabe, uma próxima vez...".
-
-Eles parecem prosperar nos negócios, ainda que por meios questionáveis, mas são avarentos e detestados por toda a vizinhança. Se a filha deles cai na rua, ninguém se dispõe a ajudá-la a se levantar. As outras crianças, naturalmente, não brincam com ela, razão pela qual ela passa tanto tempo em nossa casa. Acidentes com funcionários e outros infortúnios lhes causam perdas financeiras inesperadas, o que parece agravar ainda mais seu apego e sua cobiça por dinheiro.
-
-Certa vez, tentei lhes explicar que, com a fé, o dinheiro não lhes escaparia do lar. A resposta foi: "Está tentando nos enganar com essa conversa?". Eles parecem ressentir-se do fato de que, desde que nos tornamos membros da Igreja Kyusei, nosso lar se tornou mais alegre e nossa vida, mais estável.
-
-Confesso que, em relação a eles, já esgotei minhas esperanças. Resta-me crer que, em algum momento de suas vidas, chegará o dia em que sentirão a necessidade de se apegar a Deus. Minha única preocupação é se terão tempo de fazê-lo antes do Juízo Divino.
-
-(17 de julho de 1951)
-
----
-
-# A Verdade sobre a Doença e a Dor
-
-**Categoria:** hi | **Ano:** - | **Fonte:** Kenko
-**Título Original:** 病気と苦痛 | **Status:** Unpublished
-
-## A Verdade sobre a Doença e a Dor
-
-Suponhamos que uma pessoa seja acometida por uma doença. A simples consciência de estar doente já constitui um sofrimento. Pode-se dizer, portanto, que a doença é, em si, uma fonte de dor. Contudo, existem diversas espécies de sofrimento, e a medicina convencional, até hoje, tem considerado a doença e a dor como uma única e mesma coisa. Partindo desse pressuposto, acredita-se que, ao aliviar a dor, a doença também estaria sendo atenuada. Esta concepção é, em sua essência, equivocada.
-
-Para elucidar meu ponto de vista, tomemos como exemplo o resfriado, a enfermidade mais comum. Primeiramente, manifesta-se a febre. Com a dor de cabeça que a acompanha, a pessoa recorre a compressas de gelo. Embora isso proporcione um alívio momentâneo, não foi a doença que regrediu, mas apenas o sofrimento que foi mitigado. Nisto reside o equívoco fundamental: a doença e a dor são fenômenos distintos. Na verdade, quanto mais se tenta mitigar a dor, mais se agrava a doença. O homem moderno, ao se deparar com esta afirmação, certamente ficará atônito. Todavia, esta é a verdade absoluta e inabalável, e sem ela como alicerce, a genuína medicina jamais poderá florescer. Mediante a explanação que se segue, estou certo de que qualquer pessoa, sem exceção, se convencerá em seu íntimo e será incapaz de proferir uma única palavra de objeção.
-
-Diz um antigo ditado que não há quem não possua vaidade e chagas ocultas, uma metáfora deveras interessante. Com efeito, pode-se afirmar que não existe um único ser humano que não abrigue em seu corpo toxinas congênitas, e a quantidade dessas toxinas é muito maior do que se imagina. Elas são, em sua maioria, resíduos de medicamentos que se transformaram em veneno, aos quais denominamos toxinas medicamentosas. Este assunto será detalhado em outro artigo, mas o fato é que, em decorrência do metabolismo, essas toxinas retidas no organismo se acumulam em diversas partes do corpo, solidificando-se gradualmente com o passar do tempo.
-
-Os locais de maior acúmulo são as regiões de intensa atividade nervosa, o que invariavelmente corresponde à parte superior do corpo, especialmente do pescoço para cima. Nestas áreas, encontram-se o cérebro, os olhos, o nariz, a boca, os ouvidos e a garganta, partes que raramente descansam durante o estado de vigília. O cérebro, em particular, é o centro da atividade nervosa. Portanto, as toxinas de todo o corpo movem-se incessantemente em direção ao cérebro, concentrando-se com maior intensidade ao redor do pescoço, pois é ali que se encontram as raízes nervosas dos olhos, nariz, boca e ouvidos. A maioria das pessoas desenvolve nódulos ou endurecimentos no pescoço e sofre de rigidez nos ombros precisamente por essa razão.
-
-Todavia, quando essas toxinas solidificadas atingem um ponto crítico, começam a prejudicar a saúde. É nesse momento que se inicia um processo natural para sua eliminação, fenômeno que denominamos Ação Purificadora. O Criador, em Sua infinita sabedoria, concebeu a Ação Purificadora de forma primorosa. Primeiramente, manifesta-se a febre, cujo calor dissolve os nódulos de toxinas. Uma vez liquefeitas, essas toxinas adentram instantaneamente os pulmões e, sem demora, são expelidas para o exterior através da garganta, na forma de catarro. A tosse, por sua vez, pode ser compreendida como o mecanismo de bombeamento que impulsiona essa expectoração. Já as toxinas localizadas na nuca e na região do bulbo raquidiano são eliminadas como secreção nasal, e o espirro atua como a bomba para essa expulsão. A clareza desse processo é evidente: após a tosse, surge o catarro; após o espirro, a secreção.
-
-As toxinas abaixo do pescoço, ao se liquefazerem, são excretadas através dos suores noturnos. A dor de cabeça, por sua vez, ocorre quando as toxinas liquefeitas, em busca de uma via de saída, estimulam os nervos. Essas mesmas toxinas fluem em direção aos pulmões para serem eliminadas como catarro. Prova disso é que, ao ministrarmos Johrei na cabeça de uma pessoa, a tosse e o catarro surgem quase que instantaneamente, e a dor de cabeça diminui. Por fim, as dores articulares resultam do acúmulo de toxinas nas juntas, devido ao constante movimento de flexão dos membros; a dor é o sinal de que essas toxinas estão sendo purificadas.
-
-Assim sendo, a doença humana nada mais é do que a limpeza da sujeira acumulada no corpo. Sob essa ótica, não há nada mais bem-aventurado que um resfriado; pode-se mesmo dizer que não há nada mais bem-aventurado que a própria doença. A causa da saúde precária é o acúmulo de impurezas, e é através do processo de limpeza chamado doença que o corpo se purifica e recupera o bem-estar. Portanto, o sofrimento que acompanha a doença é, na verdade, um sofrimento benéfico. Por se tratar de uma ação de limpeza, se não houver interferência, a dor não se tornará excessiva.
-
-A medicina, contudo, interpreta a dor da doença de forma negativa e busca suprimi-la. Em outras palavras, ela se esforça para impedir a expulsão daquilo que deveria sair naturalmente. Disso resulta um choque entre a força natural e a intervenção humana, o que acaba por intensificar o sofrimento. A medicina moderna se desenvolveu sob o equívoco de considerar esse método de repressão da natureza como um caminho para a cura. Fica evidente, pois, quão grande tem sido seu erro.
-
-Como expliquei, a Ação Purificadora se inicia quando as toxinas se solidificam em determinado local, mas para isso é necessária uma condição: a força para expelir essas toxinas, ou seja, o poder de purificação. Esse poder, por sua vez, depende de um corpo com certo grau de saúde e um metabolismo vigoroso. A medicina, raciocinando de forma inversa, tenta interromper a purificação. Para tanto, é preciso debilitar o metabolismo, o que significa debilitar a própria saúde. O método por excelência para alcançar tal objetivo é o uso de medicamentos.
-
-Em sua essência, os medicamentos são substâncias tóxicas. É justamente por serem tóxicos que produzem efeito. Embora pareça um paradoxo, ao ingerir um veneno, o corpo se enfraquece. Na medida em que o corpo enfraquece, a purificação também perde força e, consequentemente, a dor diminui. Foi esse fenômeno que a medicina estabelecida confundiu com a cura da doença. E não apenas os medicamentos, mas todos os tratamentos seguem o mesmo princípio. Para a febre, usa-se gelo, que volta a solidificar as toxinas que o calor começava a dissolver. O repouso absoluto, ao impedir o movimento, é o meio mais eficaz para debilitar o organismo. Até mesmo um indivíduo sadio, se submetido a meses de repouso absoluto, terá seu estômago enfraquecido, seu apetite diminuído e seus membros atrofiados, tornando-se um grande enfermo. O que não dizer, então, de alguém que já está doente? Os emplastros e compressas são outro método de enfraquecimento, pois bloqueiam a respiração que o corpo realiza através dos poros de toda a pele. Se uma compressa alivia o calor e a dor local, é porque a purificação naquela área foi paralisada.
-
-Por tudo o que foi exposto, fica claro que todos os métodos empregados pela medicina visam apenas a debilitar o corpo humano para paralisar a purificação e, com isso, atenuar a dor. Eles não possuem, em absoluto, a finalidade de curar a doença. Falando sem rodeios, a medicina, ao tentar aliviar o sofrimento, na realidade agrava a enfermidade. A intenção é curar, mas o ato impede a cura. Ah, que terrível equívoco
-
----
-
-# A Ninguém É Dado o Direito de Julgar
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年3月25日 | **Fonte:** Kyusei
-**Título Original:** 人は人を咎むる勿れ | **Status:** Published
-
-## A Ninguém É Dado o Direito de Julgar
-
-Frequentemente me questionam sobre a validade de se julgar o próximo e gostaria, portanto, de abordar este assunto. A prerrogativa de julgar, em verdade, pertence unicamente a Deus. Quando o ser humano se arvora no direito de julgar seu semelhante, comete a transgressão de usurpar uma atribuição divina. Ademais, sob outra perspectiva, a prática de julgar outrem raramente produz bons resultados; na maioria das vezes, revela-se contraproducente.
-
-Falando por experiência própria, quando percebo que alguém está a cometer um erro, eu me abstenho de intervir e deixo que a situação siga seu curso. Pois, inevitavelmente, chegará o momento em que essa pessoa “baterá com a cabeça na parede”, por assim dizer. É nesse instante que ela despertará por si mesma e se arrependerá sinceramente. Tal situação pode ser comparada a uma grande rocha rolando ladeira abaixo. Tentar detê-la em seu curso é uma iniciativa inútil e perigosa, pois quem o fizer certamente se ferirá. O mais sensato, portanto, é aguardar que a rocha cesse seu movimento por si só para, então, com tranquilidade, removê-la do caminho. Contudo, isso não significa omissão completa. É aconselhável alertar a pessoa de que sua atitude a conduzirá ao fracasso. Desse modo, quando o revés ocorrer, ela compreenderá mais rapidamente, pensando: “Ah, era a isto que se referiam”. Como se pode depreender, quando um ser humano julga outro e utiliza de poder, ameaças ou preceitos rígidos para coagi-lo, obtém apenas um resultado temporário. Invariavelmente, surgirá uma reação adversa, e as consequências serão negativas. A verdadeira correção só ocorre quando o próprio indivíduo, por meio de sua própria consciência, reconhece seu erro e se arrepende de coração.
-
-Este mesmo princípio se aplica de forma análoga à medicina. A medicina contemporânea, diante da enfermidade, emprega uma variedade de métodos materialistas e agressivos na tentativa de suprimir a doença. Embora possa obter um alívio momentâneo, invariavelmente ocorre uma reação adversa que leva à reincidência, manifestando-se de forma ainda mais severa que a moléstia original. Por essa razão, nossa terapia divina prescinde completamente de tais instrumentos. Ela atua de modo a permitir que o próprio doente se cure naturalmente, por meio da força de sua capacidade inata de recuperação. Assim sendo, a verdadeira arte médica consiste em fortalecer essa capacidade intrínseca do ser humano.
-
----
-
-# O Que é a Doença?
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 病気とは何ぞや | **Status:** Published
-
-## O Que é a Doença?
-
-Conforme exposto na introdução, elucidarei a partir de sua causa fundamental a razão da proliferação de doenças nos Estados Unidos. Primeiramente, no que tange à origem das enfermidades, não se surpreendam: a doença é, em si, uma criação da medicina, e os fármacos constituem o epicentro desse processo. Em outras palavras, o próprio método que visa curar e reduzir o número de enfermos, paradoxalmente, impede a cura e multiplica as enfermidades, num delírio tão profundo que beira o inacreditável. E ainda que este fato seja de uma clareza que dispensa explicações, ele passa completamente despercebido, podendo ser classificado, sem exagero, como o grande enigma do século XX. Pelo contrário, a confiança na medicina só aumenta, e as pessoas creem firmemente que o avanço científico solucionará o problema das doenças. Onde reside, então, a causa de tão incompreensível equívoco? Reside na perspectiva invertida da medicina, que interpreta a doença sob um prisma estritamente negativo. A seguir, analisarei essa questão em profundidade.
-
-Em sua essência, todo ser humano, sem exceção, possui desde o nascimento toxinas congênitas e adquire outras ao longo da vida. As toxinas congênitas são, evidentemente, herdadas dos pais, enquanto as adquiridas provêm dos venenos medicinais que foram introduzidos no corpo após o nascimento. Tal afirmação pode soar surpreendente, pois o senso comum, arraigado há séculos, preconiza que os remédios curam enfermidades e promovem a saúde, levando à crença de que a descoberta de fármacos eficazes resolverá todos os males — este é o pilar do tratamento médico. Os Estados Unidos, em particular, depositam enorme ênfase nos medicamentos e, como todos sabem, dedicam esforços colossais à descoberta de novas drogas. Portanto, se os medicamentos de fato curassem, as doenças deveriam diminuir gradualmente. Por que, então, elas aumentam de forma incessante? Dificilmente haveria contradição mais flagrante. Em verdade, não existe na face da Terra uma única substância que possa ser chamada de "remédio"; todas, sem exceção, são venenos, e sua aparente eficácia reside precisamente em sua toxicidade. O que isso significa? Significa que a ação tóxica do fármaco suprime os sintomas da doença, criando a ilusão de cura, quando, na realidade, a enfermidade permanece intocada.
-
-Mas por que os medicamentos são venenos? O Criador, ao conceber o ser humano, proveu-lhe simultaneamente o alimento, destinado a sustentar sua vida. Ademais, estabeleceu uma distinção natural entre os alimentos que devemos e os que não devemos ingerir. Aos que nos são próprios, Ele dotou de sabor, e a nós, concedeu o paladar. Assim, ao desfrutarmos prazerosamente daquilo que desejamos comer, obtemos toda a nutrição necessária. A simples contemplação desse fato deveria bastar para compreendermos a perfeição do desígnio Divino. Nesse sentido, não comemos para viver, mas vivemos porque comemos. Tal mecanismo é tão misterioso quanto a própria reprodução, na qual o homem e a mulher não se unem com o propósito de gerar filhos, mas são agraciados com eles como resultado de uma união com outro fim.
-
-Como mencionado, as funções do corpo humano foram projetadas para não conseguir processar completamente substâncias estranhas, que não se enquadrem na categoria de alimento. Sendo o medicamento uma substância estranha, apenas seus eventuais componentes nutritivos são assimilados, enquanto o restante permanece no organismo. Esses resíduos são as toxinas medicinais. O mais grave é que, com o passar do tempo, elas se acumulam em partes específicas do corpo e se solidificam. Esses pontos de acúmulo correspondem invariavelmente às áreas de intensa atividade nervosa, que se localizam, obviamente, na parte superior do corpo, notadamente da nuca para cima: o cérebro como centro, os olhos, os ouvidos, o nariz, a boca, etc. As toxinas tendem a se concentrar nessas regiões, solidificando-se inicialmente ao redor do pescoço. Qualquer pessoa, sem exceção, apresentará solidificações na região do pescoço e dos ombros. Tais manifestações são o que conhecemos por "enrijecimento", e quando atingem um certo nível, desencadeia-se um processo natural de eliminação, ou seja, uma ação purificadora. Nesse caso, a febre dissolve as toxinas solidificadas, que se liquefazem e são expelidas sob a forma de tosse, catarro, secreção nasal, suor, diarreia, urina quente, etc. A esse fenômeno damos o nome de resfriado.
-
-O resfriado, portanto, nada mais é que o processo de expulsão de toxinas. Embora cause um leve desconforto, se o suportarmos com paciência e nos entregarmos à natureza, as toxinas serão devidamente eliminadas, o corpo se purificará e a saúde será restaurada. Trata-se de um mecanismo excelente. O resfriado é uma simples ação fisiológica, uma providência Divina pela qual deveríamos ser imensamente gratos. Contudo, o ser humano, por ignorância, interpreta o desconforto inerente à purificação como um mal em si e desenvolveu a medicina justamente para interrompê-lo, o que demonstra a magnitude do seu equívoco. Como essa purificação ocorre com maior intensidade quando a força vital do corpo é vigorosa, a única forma de detê-la é debilitando essa mesma vitalidade. Foi para esse fim que se recorreu ao uso de venenos, batizados de "remédios". Desde a Antiguidade, extraindo-os de raízes, cascas de árvores, minerais e órgãos de animais, o homem os preparou por meio de decocção, moagem ou extração, transformando-os em remédios líquidos, pílulas, pomadas, injeções e outras formas, aplicando-os para deter o processo de purificação.
-
-Para que a toxicidade não se tornasse letal, ela foi administrada em doses ínfimas e graduais, daí a prescrição de "tantas vezes ao dia". Nesse contexto, um "remédio eficaz" nada mais é do que um veneno cuja potência foi elevada ao limite máximo que não causa uma intoxicação aguda. Foi assim, utilizando venenos para solidificar as toxinas que o corpo tentava dissolver e expelir, que o ser humano contemporâneo se tornou portador de uma carga tóxica tão elevada e propenso a contrair doenças. É por isso que tanto se alardeia sobre higiene preventiva e se teme tanto um simples resfriado.
-
-Ademais, a celebração por termos alcançado uma expectativa de vida superior a sessenta anos é outro grande engano. A verdade é que, sem as doenças, o ser humano poderia viver mais de cem anos com facilidade. Falecer antes dessa idade constitui uma morte antinatural, causada por enfermidades. Sem doenças, teríamos mortes naturais e, consequentemente, uma vida longa. Desse modo, o tratamento médico não é um método de cura, mas um meio de aliviar temporariamente o sofrimento. O repouso absoluto, as compressas, as pomadas, as aplicações de gelo, a eletroterapia, a fototerapia — todos esses tratamentos, sem exceção, não passam de métodos de solidificação. Dentre eles, a moxabustão e a termoterapia diferem um pouco, pois o estímulo térmico temporário atrai as toxinas para um ponto específico, proporcionando alívio, mas, passado algum tempo, a condição original retorna, não resultando em melhora efetiva. Existe também a radioterapia, que destrói o câncer, o que seria ótimo se destruísse apenas o tumor. Na realidade, ela também aniquila os tecidos sadios adjacentes, resultando em um saldo mais negativo do que positivo.
-
-Conforme o exposto, absolutamente todas as terapias existentes até hoje são, do princípio ao fim, métodos de solidificação. O único e verdadeiro método de cura consiste em dissolver e expelir as toxinas. A própria linguagem médica evidencia essa realidade, pois os médicos frequentemente falam em "estabilizar" ou "conter" um quadro, não em "curar" em sua essência. Além disso, o medicamento, o mais eficaz agente de solidificação, é também o que gera a própria causa da doença. É natural, portanto, que quanto mais uma pessoa se submete a tratamentos, mais propensa ela se torna a complicações e ao agravamento de seu estado, o que, por fim, pode levá-la a uma condição de risco de vida.
-
-A esse respeito, certas observações são bastante reveladoras. É comum ouvirmos de médicos que os pacientes mais empenhados em se curar, utilizando medicamentos caros, apresentam os piores resultados, enquanto aqueles que se mostram indiferentes ao curso da doença tendem a melhorar. Ouvimos também que pessoas extremamente cuidadosas com a higiene são mais frágeis, ao passo que as mais displicentes costumam ser mais saudáveis, e que familiares de médicos e enfermeiras de hospitais adoecem com frequência. É curioso notar que pessoas de saúde e longevidade incomuns costumam dizer: "Nunca precisei de médicos ou remédios, pois jamais adoeci". Sob a nossa ótica, a verdade é o inverso: a pessoa é saudável precisamente por não ter recorrido a eles. E por ser saudável, não necessita deles. Eis um ponto que merece profunda reflexão.
-
----
-
-# As Múltiplas Faces dos Espíritos Possessores
-
-**Categoria:** hi | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 憑依霊の種々相 自観叢書第3編 | **Status:** Published
-
-## As Múltiplas Faces dos Espíritos Possessores
-
-Naquela época, havia um jovem de aproximadamente trinta anos chamado Oyama, que também possuía excelentes qualificações como médium. Este homem, contudo, era um grande beberrão e, quando ébrio, agia como quem perdeu o juízo. Sem discernimento algum e sem um único centavo no bolso, percorria as adegas do bairro, bebendo em cada uma delas, cabendo sempre a seu pai arcar com as consequências de seus atos. O motivo de sua vinda foi, portanto, um pedido para que eu o curasse desse péssimo hábito. O mais interessante, no entanto, é que esse rapaz manifestava os mais variados fenômenos de possessão espiritual, fornecendo-me, assim, um valioso material para estudo. Dentre eles, seleciono e descrevo a seguir os casos de maior interesse.
-
-Certo dia, o espírito que o possuiu era o do proprietário de uma adega da vizinhança, falecido alguns meses antes. Ao que tudo indicava, era um grande apreciador de sumô, pois, tão logo se manifestou, pôs-se a estender os cotovelos e a bater os pés no chão com força, no gesto característico dos lutadores, e bradou de forma arrogante: "Vamos! Que venha quem quiser! Não há ninguém que possa me derrotar!". Um dos jovens que me auxiliavam em casa, irritado com aquela atitude, confrontou-o e foi imediatamente arremessado ao chão. Sofreu uma fratura na articulação do cotovelo, cuja recuperação levou mais de um ano. Houve também uma ocasião em que foram necessários três homens robustos para finalmente subjugá-lo.
-
-Em outra oportunidade, manifestou-se um espírito com a aparência de um idoso. Ao interrogá-lo, ele respondeu: "Sou o tio deste rapaz. Em vida, fui um lavrador da província de Saitama. Como gosto imensamente de saquê e não consigo ficar sem, possuo este corpo para poder bebê-lo", disse ele, pedindo-me a bebida. Indaguei: "Se eu lhe der o saquê, o senhor deixará este corpo?". Ele prontamente anuiu: "Sim. Dê-me um copo, o maior que tiver, e sairei imediatamente". Procedi conforme o combinado, mas, ao terminar, ele pediu: "Mais um copo". Atendi-o novamente, e ele insistiu: "Mais um". Somente após o terceiro copo, ele finalmente se retirou do corpo do jovem.
-
-Quando este espírito se manifestou pela primeira vez, ele olhou ao redor do cômodo com uma expressão intrigada. Perguntei-lhe o que havia, ao que respondeu com um sotaque rústico: "Onde é que eu estou?". Expliquei-lhe: "O senhor está em minha residência, no bairro de Omori, em Tóquio". Ele então comentou: "Nossa, é bem diferente do outro mundo, de onde eu vim". Em seguida, disse: "Quero fumar". Ofereci-lhe um cigarro, mas ele recusou: "Este cigarro não serve. Quero fumar em um Kiseru (煙管)". Providenciei o que pedia. Ele então se levantou com dificuldade, e sua postura era exatamente a de um ancião. Dirigiu-se à varanda e, enquanto observava o jardim, fumava com evidente satisfação. Eu lhe perguntei: "Existe tabaco no Mundo Espiritual?". Ele respondeu: "Não há tabaco nem dinheiro, por isso não temos como fumar. É por essa razão que entramos no corpo de uma pessoa para poder fazê-lo". "Compreendo...", refleti.
-
-Logo que o espírito do ancião se retirou, outro pareceu tomar seu lugar, manifestando uma atitude sobremaneira recatada. Ao ser questionada, revelou: "Sou fulana de tal, filha do dono da tabacaria aqui perto. Faleci há uns dois meses. Vim esta noite porque gostava muito do Take-chan" (o apelido do rapaz). "Deseja alguma coisa?", perguntei. "Minha garganta está terrivelmente seca. Gostaria de um copo d'água, por favor", pediu ela. Estranhei e disse: "Mas, sendo uma recém-falecida, certamente lhe oferecem água todos os dias no altar, não é mesmo?". "Sim, oferecem", respondeu ela, "mas não consigo bebê-la". Surpreso, pedi que me explicasse. Ela continuou: "A pessoa que oferece a água não o faz com o sentimento de que eu a beba; oferece por mera obrigação. A água ofertada com esse tipo de pensamento não pode ser bebida por nós".
-
-Compreendi, então, a profunda verdade de que o Mundo Espiritual é o mundo do pensamento. Disso decorre que de nada adianta fazer oferendas de alimentos e bebidas no altar se o fazemos por meio de um empregado ou se nós mesmos o fazemos por mero formalismo. Ofereci-lhe a água, e o espírito da jovem bebeu três copos, com visível deleite.
-
----
-
-# O Grande Equívoco da Medicina Ocidental (I)
-
-**Categoria:** hi | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 病気の本体 西洋医学の大誤謬（一） | **Status:** Published
-
-## O Grande Equívoco da Medicina Ocidental (I)
-
-O que é, em sua essência, a doença? É, como se sabe, a manifestação de um fenômeno anormal em uma parte ou na totalidade do corpo humano, resultando em sofrimento. Sendo assim, por que razão surgem tais fenômas anômalos? A verdade é que a medicina, até os dias de hoje, ainda não desvendou essa questão. Desejo, pois, apresentar minha pesquisa e submetê-la ao crivo dos especialistas e intelectuais de nosso tempo.
-
-Originalmente, todos os seres vivos são constituídos de espírito e matéria, e é da união indissociável desses dois elementos que emana a força vital. O espírito é governado pela vontade e pelo pensamento, os quais, por sua vez, têm sua origem na alma. Contudo, a medicina ocidental ignora por completo a existência do espírito, concentrando-se unicamente no corpo físico por meio de minuciosas análises e investigações, e assim tem procedido até hoje. Sendo uma ciência fundamentada no materialismo, tal abordagem é, até certo ponto, compreensível.
-
-Todavia, a verdadeira natureza da doença — sua causa primordial — não reside no corpo, e sim no espírito. A enfermidade manifesta-se primeiro no plano espiritual para, subsequentemente, transferir-se à matéria. Portanto, o espírito é a causa, e o corpo, a consequência.
-
-Afirmo categoricamente que, enquanto essa relação entre espírito e matéria não for desvendada, a cura absoluta das doenças jamais será alcançada, ainda que se dediquem a ela séculos de pesquisa. É verdade que, dado o estágio atual do progresso científico, a existência do espírito não pode ser mensurada por meios mecânicos, o que torna essa limitação inevitável. A situação se assemelha à era cultural que antecedeu a descoberta do ar. Contudo, assim como a ciência foi capaz de identificar os elementos que compõem a atmosfera, não há razão para duvidar de que ela também possa, um dia, comprovar a realidade do espírito.
-
-Da mesma forma que a descoberta do ar impulsionou a ciência a um salto qualitativo, se a existência do espírito for cientificamente comprovada, a verdadeira arte médica e seus métodos de cura serão finalmente estabelecidos. Ademais, a religião e a ciência se unificarão, e o conflito que hoje observamos com as correntes de pensamento puramente espiritualistas cessará por completo.
-
-É com base neste princípio, que prioriza o tratamento do espírito, que venho obtendo resultados verdadeiramente surpreendentes. Muitos, ao testemunharem o êxito diário de nossas curas, classificam-no como um grande milagre. No entanto, uma vez compreendido o princípio de nosso método — isento de medicamentos e terapias físicas —, torna-se evidente que a cura é um desfecho natural, desprovido de qualquer mistério. Pelo mesmo raciocínio, consideramos que o verdadeiro prodígio seria se as terapias focadas unicamente no corpo físico lograssem, de fato, alcançar a cura completa.
-
-Ressalto, contudo, que minha intenção é apontar as falácias da medicina, e não depreciar a ciência. Afinal, são imensuráveis os grandiosos benefícios que o progresso científico legou à humanidade, e é evidente que seu desenvolvimento deve ser incentivado continuamente. Almejamos, pois, que esse avanço prossiga até o ponto em que ciência e religião convirjam.
-
-Neste ponto, porém, reside uma questão crucial, propensa a equívocos. A ciência, qual um prestidigitador, faz com que máquinas operem como se tivessem vida, chegando a substituir o trabalho de seres humanos. Não se pode, contudo, cometer o erro de tratar o ser humano como se fosse uma máquina. A razão, como mencionei no início, é que as máquinas não possuem espírito, vontade ou pensamento, enquanto o ser humano os possui.
-
-Uma máquina, por ser matéria, pode naturalmente ser consertada com outras formas de matéria, como peças, óleos ou substâncias químicas. Todavia, seria ilógico supor que a doença — que pode ser vista como um "defeito" no corpo humano — pudesse ser corrigida pelos mesmos meios. O corpo humano não é mera matéria. Seu sangue, seus nervos e suas células vivas estão em fluxo constante, num processo incessante de renovação. É, em verdade, uma incógnita "X", de uma complexidade sublime e misteriosa.
-
-O corpo humano não é uma construção da lógica científica. Na verdade, é um produto da Criação, uma obra de profundo mistério, que não pode ser fabricada pela vontade, mas que, ainda assim, vem a existir. Trata-se de um ser espiritual de ordem superior, fundamentalmente distinto das plantas, das aves, dos animais e dos peixes.
-
----
-
-# A Avassaladora Onda de Enfermidades no Havaí
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年6月3日 | **Fonte:** Eikou
-**Título Original:** 病人氾濫の布哇 | **Status:** Published
-
-## A Avassaladora Onda de Enfermidades no Havaí
-
-Como marco inaugural de nossa propaganda no exterior, escolhemos o Havaí. Conforme já é de conhecimento, há cerca de dois meses os missionários Higuchi e Ajiki iniciaram ali suas atividades e, segundo informações recentes, vêm alcançando resultados que superam todas as expectativas, o que é motivo de imensa celebração. Consta em seus relatos um fato estarrecedor: a condição de saúde dos habitantes locais é tão precária que parece ser ainda pior que a dos próprios japoneses. Tal situação, não é preciso dizer, é o fruto inequívoco da medicina equivocada. Eu já imaginava que, sendo a cultura havaiana predominantemente norte-americana, o número de vítimas da medicina seria considerável; todavia, a realidade revelou-se tão grave que me deixou estarrecido. Sinto um calafrio ao ponderar sobre o que teria sido daquele povo se a salvação de nossa Igreja não houvesse chegado.
-
-O mais notável é que, ao conhecerem o grandioso poder de Deus manifestado por nossa Igreja, as súplicas das massas por salvação irromperam como uma chuva benfazeja em meio a uma seca, e a notícia se alastrou com a força de uma chama que se propaga por um campo seco. Esse cenário é verdadeiramente magnífico. Em razão disso, os dois missionários, em plena atividade, chegam a emitir o que se poderia chamar de “clamores de alegria” pelo excesso de trabalho. Se prosseguirmos nesse ritmo, brota a esperança de que, em um futuro próximo, todo o arquipélago do Havaí possa se tornar o primeiro Paraíso Terrestre do mundo.
-
-A partir desse fato, é possível inferir a situação atual dos Estados Unidos. Certamente, o número de enfermos em seu território deve ser semelhante ao do Havaí, ou talvez até superior. Conforme planejado, em breve estenderemos a mão da salvação à nação norte-americana, a partir de uma base em Los Angeles, e prevejo que lá os resultados serão ainda mais expressivos. A esse respeito, recordo-me do livro que publiquei recentemente, intitulado “A Salvação da América”. Durante sua edição, senti uma urgência inexplicável, a ponto de concluir a obra em aproximadamente um mês – um feito sem precedentes. Refletindo sobre o ocorrido, não posso senão concluir que foi o próprio Deus quem apressou imensamente os acontecimentos. Isso certamente indica que a crise de saúde nos Estados Unidos atingiu um ponto crítico, que não admite um único dia de adiamento. Contudo, sob a perspectiva humana, existem obstáculos consideráveis, como as leis do país e questões de ordem religiosa, de modo que levará um tempo considerável até que nossa mensagem alcance todos os americanos. Trata-se de um processo inevitável.
-
-Como todos sabem, os Estados Unidos ostentam o progresso de sua medicina, seus métodos materialistas e suas múltiplas instituições com um aparato de extremo zelo e perfeição. No entanto, especialmente diante da recente proliferação de novos medicamentos e do avanço das técnicas cirúrgicas, não é difícil imaginar que o estado de saúde de seu povo se deteriora em velocidade alarmante. Paralelamente, o Mundo Espiritual se ilumina dia após dia e a purificação se intensifica, fazendo com que a crise se aproxime a cada instante. Ao final, chegará um momento em que nada mais poderá ser feito, e advirá uma era de imenso terror, na qual um número incontável de pessoas sucumbirá às doenças. Naturalmente, ao fazer tais afirmações hoje, muitos poderão duvidar de minha sanidade, mas lanço este alerta com a mais profunda convicção. Se minhas palavras se confirmarem, será uma comoção muito superior à de uma Terceira Guerra Mundial. As pessoas pensarão que o fim dos tempos anunciado por Cristo finalmente chegou.
-
-Gostaria de estender um alerta também ao povo japonês: quando esse dia chegar, não poderão observar essa grande calamidade como um incêndio em terra alheia. Embora a situação não seja tão grave quanto a dos Estados Unidos, o Japão não escapará de danos consideráveis, sendo necessário que todos se preparem de antemão. Felizmente, nossa Igreja, que já prevê essa grande provação, está preparando dezenas de milhares de guerreiros da salvação, o que deve fortalecer imensamente o espírito de todos. Por essa razão, no Japão, um número incomparavelmente maior de pessoas será salvo; sob esse aspecto, nossa nação é grandemente abençoada.
-
-Contudo, aqueles que desconhecem a iminência dessa grande transformação e a verdadeira natureza de nossa Igreja, com sua sublime missão salvadora, insistem em nos desprezar, tratando-nos como uma religião nova como tantas outras. As pessoas que se deixam aprisionar por essa visão equivocada são cordeiros dignos de compaixão. O mais lamentável é que tal atitude é frequente justamente entre os intelectuais. Portanto, àqueles que leem estas palavras, recomendo que venham prontamente à nossa Igreja e creiam com um coração sincero, a fim de se livrarem da grande crise que se avizinha. Sei que, nos dias de hoje, muitos poderão interpretar este apelo como mero artifício intimidatório para propagar a fé. Nossa Igreja, todavia, não tem a menor necessidade de recorrer a tais expedientes. E a razão é simples: a eficácia de nossa Igreja na cura de doenças é tão extraordinária, incomparavelmente superior à da medicina, que já nos encontramos em um processo de franca e constante expansão.
-
----
-
-# Apologia à Doença
-
-**Categoria:** hi | **Ano:** 昭和26(1951)年7月11日 | **Fonte:** Eikou
-**Título Original:** 病気礼讃の弁 | **Status:** Published
-
-## Apologia à Doença
-
-É comum, em nossos dias, referir-se à postura perante a enfermidade pelo termo “luta”. De nossa perspectiva, todavia, não poderia haver expressão mais equivocada. Embora tal equívoco se deva ao completo desconhecimento sobre a causa fundamental das doenças, nós, ao contrário, chegaríamos ao ponto de cunhar a expressão “amor à doença”. Isso porque a atitude verdadeiramente correta é considerar a doença algo a ser amado, um fenômeno digno de nossa mais profunda gratidão.
-
-A medicina, por sua vez, adota uma visão diametralmente oposta. Uma vez acometido por uma enfermidade, o indivíduo é levado a encará-la como um mal, a se afligir como se um demônio houvesse penetrado em seu corpo. A própria expressão “demônio da doença”, de uso corrente, reflete essa concepção, assim como o termo “luta”, que sugere a invasão do organismo por um inimigo a ser combatido pelas forças aliadas do corpo. É, em verdade, uma noção deveras singular.
-
-Nossa compreensão, entretanto, é outra. O corpo humano está continuamente sujeito ao acúmulo de toxinas. Quando estas ultrapassam certo limite, passam a obstruir as atividades vitais. É nesse momento que se manifesta um processo natural de eliminação, uma ação depuradora que restaura o organismo a um estado funcional e saudável. O desconforto que acompanha essa eliminação de toxinas é o que se convencionou chamar de doença. Diante disso, como não considerá-la um mecanismo esplêndido? Fica evidente que se trata de uma dádiva criada por Deus com o propósito de preservar a saúde do ser humano. A prova manifesta-se nos próprios sintomas: o catarro, a secreção nasal, o suor noturno, a diarreia, o vômito, a dor e a coceira nada mais são do que impurezas sendo expelidas do corpo sob diversas formas. Portanto, se o indivíduo aceitar o sofrimento com gratidão e um pouco de paciência, o processo transcorrerá de forma relativamente branda. Ao final, seu corpo estará purificado e sua saúde, ainda mais fortalecida. Considerando que não há, para o ser humano, dádiva maior, a chegada de uma doença deveria ser motivo de alegria e celebração. É por essa razão que nós acolhemos de bom grado qualquer enfermidade, seja um resfriado, uma tuberculose ou uma doença contagiosa, convidando-as a se manifestarem.
-
-Ironicamente, talvez por cultivarmos tal pensamento, a “visita” da doença raramente nos ocorre, o que nos causa uma certa melancolia. Contudo, trata-se de uma melancolia feliz e, por isso mesmo, mais um motivo para agradecer. A felicidade que nos é concedida por meio dessa compreensão é, certamente, de uma natureza que o público em geral sequer pode imaginar. Eis o porquê do anseio que une as centenas de milhares de fiéis de nossa Igreja: o desejo constante de partilhar com o maior número possível de pessoas esta verdade tão sublime.
-
-Basta, porém, observar o mundo ao nosso redor. As pessoas vivem em um estado de apreensão perene, temendo contrair um simples resfriado. “A tuberculose é terrível!”, “Contrair uma doença infecciosa seria uma catástrofe!”, exclamam. Vivem a ditar regras fastidiosas como a obrigação de gargarejar e lavar as mãos ao voltar da rua, ou a impor o uso de máscaras. É um alarido incessante. O governo, por seu lado, despende anualmente bilhões em verbas inúteis, promovendo um verdadeiro espetáculo. Os médicos, por sua vez, passam os dias de semblante carregado, debruçados sobre seus microscópios. Para nós, tal cenário não é apenas digno de pena; beira o absurdo, a ponto de não merecer maiores comentários.
-
-A disparidade entre nossa visão e a do mundo secular é, portanto, abissal. A distância que nos separa transcende qualquer metáfora; faltam-nos palavras para descrevê-la. Pode-se inferir, a partir disso, que no dia em que a essência de nossos Ensinamentos for amplamente compreendida, todos, sem exceção, buscarão nosso caminho. Posso afiançar que, com o tempo, a totalidade do povo japonês se tornará fiel à nossa Igreja. Nesse alvorecer, o lema de nossa fé – um mundo isento de doença, pobreza e conflito – se concretizará no Japão. Ao testemunharem tal feito, os povos de todas as nações do mundo exclamarão em assombro e, em uníssono, abraçarão esta fé. Desse modo, o advento do Paraíso Terrestre se tornará uma realidade incontestável. Ansiando por esse dia, confiemos nosso labor a Deus e, passo a passo, prossigamos firmes em nossa missão.
-
----
-
-# A Correlação entre a Enfermidade e o Caráter Humano
-
-**Categoria:** hi | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 病気と人間の性質 | **Status:** Unknown
-
-## A Correlação entre a Enfermidade e o Caráter Humano
-
-Minha vasta experiência permitiu-me constatar uma fascinante correlação entre as enfermidades e o caráter da pessoa. Essa verdade torna-se especialmente evidente durante o tratamento dos doentes. Aqueles de índole dócil, por exemplo, recuperam-se de forma igualmente branda, ao passo que os indivíduos de temperamento descomplicado apresentam sintomas mais leves. Em contrapartida, as pessoas obstinadas tendem a sofrer com doenças que, tal como seu caráter, prolongam-se. Consequentemente, em um indivíduo teimoso, o curso da enfermidade também se mostra tenaz. Da mesma forma, uma pessoa de natureza volúvel terá uma doença de curso igualmente instável, e o cínico verá sua enfermidade seguir um percurso com reviravoltas irônicas e traiçoeiras.
-
-À luz deste princípio, torna-se claro que, durante o tratamento, a correção das inclinações negativas do caráter de uma pessoa é, em si, um fator que exerce uma influência profundamente benéfica sobre a própria enfermidade.
-
-Isso ocorre porque, em todas as circunstâncias, cultivar a docilidade e a receptividade é sempre o caminho mais salutar.
-
----
-
-# O Sol e a Lua sob a Perspectiva Religiosa
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** 日と月 (再録) 自観叢書12編 | **Status:** Published
-
-## O Sol e a Lua sob a Perspectiva Religiosa
-
-Permitam-me elucidar o significado do Sol e da Lua sob uma perspectiva religiosa. Embora este tema seja de natureza misteriosa e profunda, a ponto de certas interpretações parecerem meras conjecturas, rogo que o leiam com a mente serena, pois se trata da mais pura Verdade. Na antiguidade japonesa, existem os Três Tesouros Sagrados: a Jóia, a Espada e o Espelho. A Jóia é o Sol; a Espada, a Lua; e a Terra é simbolizada pelo Espelho. A Jóia possui a forma do Sol; a Espada, a forma de uma Lua crescente; e o espelho, conhecido como *Yata-no-Kagami*, é oitavado, representando as oito direções: leste, oeste, sul, norte, nordeste, sudeste, sudoeste e noroeste. Dentre os três tesouros, o simbolismo da Terra é evidente e dispensa maiores explicações. Contudo, o Sol e a Lua encerram um significado mais profundo, o qual passarei a expor.
-
-Para uma melhor compreensão, tomarei emprestado um postulado da religião Tenrikyo. Segundo este, *tsuki* (Lua) significa “empurrar”, e *hi* (Sol) significa “puxar”. Assim, o Sol e a Lua representam as forças de puxar e empurrar. Considero esta uma interpretação deveras interessante. No Mundo da Noite, há uma predileção por tudo o que se relaciona com o ato de empurrar. Em grande escala, nações investem umas contra as outras; a guerra é o ápice desse confronto. A própria palavra “colisão” denota um embate mútuo. É evidente que, na antiguidade, as guerras eram travadas com espadas que se empurravam. Essa ideia transmutou-se de tal forma que até mesmo as interações sociais são chamadas de *tsukiai* (relacionamento). Embora a grafia seja diferente, o *kotodama* — o espírito da palavra — permanece idêntico. O termo “avançar impetuosamente” expressa vitória e representa perfeitamente a atuação da Lua e a essência do Mundo da Noite.
-
-Em contrapartida, *hiki* ou *hiku*, associado ao Sol, significa recuar. Termos como “atrair”, “bater em retirada”, “sofrer uma derrota” ou “ser humilde” são todos opostos à natureza da Lua. Por essa lógica, no Mundo do Dia, todas as ações são regidas pelo princípio de “puxar”, de modo que ceder é considerado uma virtude. Entre os homens, essa virtude manifesta-se como a humildade. Onde ela impera, não há como surgirem conflitos. O objetivo de nossa Igreja é construir um mundo isento de doença, pobreza e conflito. A erradicação dos conflitos pode ser compreendida à luz do que foi exposto. Visto que a atividade primordial de nossa Igreja é a do Sol, ou seja, a do Elemento Fogo, devemos agir com o espírito de “puxar” gravado em nossos corações, pois é dessa forma que muitas pessoas serão atraídas a nós.
-
-Ademais, como o Sol é a Jóia, é natural que sua natureza seja plena e serena, e que nossas ações se pautem pela harmonia e pela flexibilidade.
-
----
-
-# A Reunião das Obras de Arte
-
-**Categoria:** hi | **Ano:** 昭和27(1952)年10月8日 | **Fonte:** Eikou
-**Título Original:** 美術品の集まる理由 | **Status:** Published
-
-## A Reunião das Obras de Arte
-
-Quem visita o Museu de Arte de Hakone certamente compreende o que digo. Surpreende a quase todos a vasta quantidade de obras que dificilmente poderiam ser adquiridas, tamanha a sua raridade. Passo a descrever a trajetória que nos trouxe a este ponto, principiando pelas primeiras aquisições, que se deram logo após o fim da guerra.
-
-Naquela época, o Japão vivia uma reviravolta social sem precedentes. Como é de conhecimento geral, as classes privilegiadas – a nobreza, os grandes financistas, os senhores feudais e os conglomerados, ou *zaibatsu* – sofreram um colapso quase que absoluto. Diante de severas dificuldades econômicas, muitos se viram na contingência de se desfazer dos tesouros e relíquias de família, como pinturas, caligrafias e antiguidades, zelosamente guardados por gerações. Consequentemente, uma profusão de peças raras e notáveis veio ao mercado, a preços bastante acessíveis.
-
-Some-se a isso a instituição de um vultoso imposto sobre o patrimônio, que encurralou muitos proprietários em uma situação-limite, forçando-os a vender seus bens a contragosto. Confesso que eu sentia uma compaixão imensa por sua condição. Ciente de que a venda era inevitável para eles, eu adquiria as peças não apenas por interesse, mas também com o sentimento de estar a auxiliá-los. Por essa razão, raramente negociava; pagava o preço pedido, exceto, naturalmente, quando me deparava com a ganância desmedida de negociantes que buscavam lucros exorbitantes.
-
-Dessa forma, as obras foram se acumulando pouco a pouco. Contudo, como sempre digo, embora eu nutrisse um apreço pela arte desde a juventude, minha capacidade de avaliação não ultrapassava a de um leigo. Sem experiência prévia em aquisições, eu desconhecia os valores de mercado e comprava apenas aquilo que, ao ver, me agradava. Essa diretriz, todavia, mostrou-se surpreendentemente acertada, e posso afirmar que praticamente nenhuma aquisição foi um equívoco.
-
-Os especialistas que visitam o museu tecem elogios às obras, e não por mera formalidade. Afirmam que, enquanto em outros museus é comum encontrar peças de autenticidade duvidosa, a nossa coleção não possui obras de menor valor; é composta unicamente por obras-primas. Recentemente, o senhor Alan Priest, diretor do Departamento de Arte Oriental do Metropolitan Museum of Art de Nova York, enalteceu particularmente esse aspecto.
-
-Com o tempo, à medida que o acervo crescia e meu olhar se tornava mais apurado, comecei a conceber a ideia de construir um museu. Isso foi há cerca de três anos, recordo-me bem. A partir de então, de maneira prodigiosa, obras perfeitamente adequadas a esse propósito começaram a afluir de fontes inesperadas. Foi quando compreendi com clareza que o próprio Deus havia começado a empenhar Sua força na construção do museu.
-
-Os milagres a esse respeito são tão numerosos que seria impossível relatá-los um a um. Descreverei, portanto, apenas os mais notáveis.
-
-Logo no início, um negociante especializado em laca *makie* começou a me trazer, uma após a outra, peças de qualidade sublime. Tanto eu quanto ele ficamos maravilhados com a inexplicável sucessão de eventos. Naquela ocasião, tive a oportunidade de adquirir obras magníficas por preços surpreendentemente baixos, que hoje seriam, no mínimo, múltiplas vezes superiores. A coleção de *makie* que hoje se encontra em exposição foi reunida em um período de apenas seis meses. Destacam-se, por exemplo, duas peças do mestre de fama imortal Hakusan Shosai (白山松哉), embora eu possua diversas outras em meu acervo particular que pretendo expor futuramente. As obras desse artista são tão raras no mercado atual que é praticamente impossível encontrá-las à venda, o que demonstra o quão escassas são e o zelo com que seus proprietários as guardam.
-
-Sempre nutri grande apreço também pelas obras da escola Rinpa e pela cerâmica de Ninsei (仁清). Com o passar do tempo, essas peças se tornaram cada vez mais valorizadas e raras, a ponto de praticamente desaparecerem do mercado, para o desalento dos colecionadores. Contudo, em meio ao caos do pós-guerra, consegui adquirir um número considerável delas por valores muito baixos, o que evidencia, sem dúvida, a atuação do poder de Deus.
-
-Assim sendo, tudo o que desejo ardentemente ou que considero indispensável para o museu, invariavelmente acaba chegando às minhas mãos. A cada nova aquisição, os negociantes exclamam que é um prodígio, um milagre. A esse propósito, ocorreu um fato notável. Eu desejava adquirir uma primeira edição da famosa série de gravuras “As Cinquenta e Três Estações da Tōkaidō”, de Hiroshige. Certo dia, ao receber a visita de um negociante especializado em xilogravuras, comentei que compraria a série imediatamente, caso a encontrasse. Para minha surpresa, ele a trouxe no dia seguinte.
-
-O homem estava estupefato e me disse: “Isto é um prodígio inexplicável! Ontem, logo ao chegar em casa, um homem apareceu com exatamente o que o senhor havia me pedido. Eu estava à procura dessa série há quarenta anos e, justamente ontem, alguém veio vendê-la para mim. Não consigo encontrar lógica para isso.” Eu também, é claro, fiquei profundamente comovido com aquele milagre. Ao examinar a obra, descobri que pertencera a um proeminente senhor feudal, que a teria encomendado a seus antepassados. A magnificência do álbum em que estava contida foi motivo de dupla admiração, e o preço, extremamente baixo, completou minha alegria.
-
-No que tange à cerâmica chinesa, eu não possuía o menor interesse ou conhecimento prévio sobre o assunto. Contudo, ao reconhecer sua imprescindibilidade para o museu, não tardou para que peças começassem a chegar de diversas partes. A coleção hoje exposta foi reunida em aproximadamente um ano, um feito que a maioria considera inacreditável. A princípio, meu olhar não era treinado, e eu selecionava as obras confiando nas explicações dos negociantes e em minha própria intuição. Hoje, porém, os especialistas se admiram de como tantas peças de tamanha qualidade puderam ser reunidas. Como sempre, a grandiosidade da proteção Divina é indescritível. Há muitas outras histórias, mas deixo que o leitor as imagine.
-
-Resta-me, por fim, explicar a razão por trás desses prodígios. No Mundo Espiritual, os espíritos dos próprios artistas, de seus antigos apreciadores e de todos aqueles que tiveram alguma ligação com as obras, desejosos de realizar um grande mérito, atuam para que elas cheguem às minhas mãos, seguindo uma ordem apropriada. E por que o fazem? Pois, por meio de um feito tão notável, eles alcançam a salvação e ascendem a planos mais elevados. Essa é, sem dúvida, a verdadeira razão pela qual um museu desta magnitude pôde ser erguido em um período tão curto.
-
-Ponderem por um instante: a criação de um museu, que normalmente exigiria o empenho de toda uma vida de um magnata ou de um abastado colecionador, foi concretizada em um piscar de olhos. Diante disso, torna-se evidente a qualquer um que não se trata de uma obra humana.
-
-(Obs.)
-Hakusan Shosai (白山松哉, 1853–1923): Professor da Escola de Belas-Artes de Tóquio e Artista da Casa Imperial. Tinha renome por sua técnica de *makie* polido de extrema precisão.
-Nonomura Ninsei (野々村仁清, datas de nascimento e morte desconhecidas): Seu nome verdadeiro era Seiemon. Passou a ser chamado de Ninsei por ter estabelecido seu forno em frente ao portão do templo Ninna-ji. É considerado o fundador da cerâmica de Quioto (*Kyo-yaki*).
-
----
-
-# Sobre a Luz Divina
-
-**Categoria:** hi | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** -
-
-## Sobre a Luz Divina
-
-É desnecessário reiterar que a Sekaikyuseikyou é a religião da Luz. O mais curioso, todavia, é que há muito tempo o público se refere a mim como o ‘Senhor da Luz’. Essa designação não partiu de mim, tampouco de nossos fiéis. Sua origem, da qual jamais me esquecerei, remonta a alguns anos, quando um artigo sobre nossa Igreja, publicado no jornal Shizuoka Shimbun, empregou essa expressão. Lembro-me de ter pensado: ‘Que nome engenhoso me atribuíram!’. A partir de então, o termo se popularizou.
-
-A esse respeito, existem de fato diversos relatos de graças recebidas por pessoas que viram a Luz. Contudo, a experiência que apresento a seguir é o testemunho de um menino, aluno da quinta série do primário, a respeito das inúmeras luzes que ele pôde enxergar. Por não possuir as noções preconcebidas de um adulto, seu relato se reveste de especial credibilidade, razão pela qual decidi incluí-lo aqui.
-
-***
-
-**Dois Anos Após o Recebimento do Ohikari**
-*Hashimoto Sei (61 anos)*
-*Igreja Chukyo, Província de Mie*
-
-Durante as férias de verão de 1951, meu neto Yoshiro, filho mais velho de minha filha, estava na quinta série do primário. Enquanto recebia Johrei diariamente em minha residência, ele fitava atentamente a mão que eu erguia. Ao lhe perguntar se via algo, ele respondeu: “Vovô, da sua mão emana uma luz esbranquiçada, de uma pureza indescritível e revigorante”.
-
-Realizamos então diversos testes e constatamos que a luz atravessava paredes e tábuas de madeira sem qualquer obstáculo e, para nossa surpresa, transpassava até mesmo uma placa de chumbo.
-
-Segundo o menino, essa mesma Luz Divina, emanada da Imagem Sagrada, irradia-se a uma distância incalculável. Ele relatou também que os Escritos Divinos e o jornal *Eikou* emitem essa Luz, ainda que com intensidades distintas. No verão passado, quando o acompanhei em peregrinação ao Nikko-den, em Hakone, ele me contou que, no momento em que Meishu-Sama adentrou o recinto, todo o Templo Principal foi inundado por uma luz dourada.
-
-Além disso, ele conseguia discernir com clareza a vestimenta espiritual de cada pessoa. A dos que não possuíam fé era verdadeiramente pobre, ao passo que a das pessoas de bom caráter, que haviam recebido o Ohikari, era, segundo ele, portentosa.
-
-Acredito que tais fenômenos sejam uma manifestação da vontade dos espíritos de nossos antepassados, que almejam revelar a todos a Divindade de Meishu-Sama.
-
----
-
-# Enfermidades de Origem Espiritual
-
-**Categoria:** hi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 病気と霊 | **Status:** Published
-
-## Enfermidades de Origem Espiritual
-
-Conforme já expus detalhadamente, a doença constitui um processo de purificação. Todavia, não se pode negligenciar o fato de que um número considerável de enfermidades se origina na ação de espíritos, um assunto que requer a máxima seriedade.
-
-Portanto, não apenas os terapeutas especializados, mas todo e qualquer indivíduo que almeje preservar sua própria saúde e obter a paz em seu lar, deve possuir, no mínimo, um conhecimento basilar sobre o tema. Ademais, tal compreensão revela-se de grande valia ao se observarem as mais diversas questões sociais e de relações humanas.
-
-Creio que o tema dos espíritos de seres humanos e de animais já foi amplamente compreendido por meio de minhas explanações anteriores.
-
-Sendo assim, passarei a dissertar, de forma sequencial, sobre as diversas enfermidades que se manifestam em decorrência de causas espirituais.
-
----
-
-# O Equívoco da Medicina no Tratamento das Doenças de Pele
-
-**Categoria:** hi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 皮膚病 未発表 | **Status:** Unpublished
-
-## O Equívoco da Medicina no Tratamento das Doenças de Pele
-
-O quão equivocados são os tratamentos médicos para as doenças de pele é um fato eloquentemente narrado pelo caso deste paciente [...].
-
-Em sua essência, as doenças de pele nada mais são que o sintoma da dissolução das toxinas internas, as quais buscam um caminho de eliminação através da cútis. A medicina, contudo, ao prescrever a aplicação de pomadas e outros fármacos, atua precisamente no sentido de impedir essa purificação natural.
-
-Por conseguinte, as toxinas estagnam sob a pele, causando grande sofrimento e manifestações como inchaços de tonalidade azulada.
-
-Sendo assim, qualquer enfermidade cutânea, se deixada à sua própria evolução, acabará por se curar naturalmente após a completa expulsão do pus. A medicina, no entanto, interpreta esse processo de forma inversa e age para que a cura não ocorra. Tal intervenção, portanto, pode ser considerada uma forma de agressão ao corpo.
-
-Minha vasta experiência confirma este fato. Tenho notícia de inúmeros casos em que uma dermatose inicialmente trivial, ao ser submetida a tratamentos médicos, alastra-se gradualmente até se tornar intratável, chegando a ceifar a vida do paciente. É uma situação verdadeiramente lamentável.
-
----
-
-# A Nocividade da Vacina BCG
-
-**Categoria:** hi | **Ano:** 昭和26(1951)年11月14日 | **Fonte:** Eikou
-**Título Original:** Ｂ・Ｃ・Ｇは無害か有害か | **Status:** Published
-
-## A Nocividade da Vacina BCG
-
-Já elucidei as causas que deram origem à problemática da vacina BCG na seção de artigos deste jornal, e a questão certamente ficou clara para o leitor. Contudo, para que o assunto se torne ainda mais nítido, apraz-me compartilhar um relato de experiência que recebemos recentemente e que se mostra de extrema pertinência. Ao lê-lo, a verdade se revelará de forma incontestável.
-
-**Recebendo a purificação do virulento veneno da BCG**
-
-Província de Yamagata
-Igreja Minori Naka
-Mineko Sato (12 anos)
-
-Nossa família teve a permissão de ingressar nesta sagrada Igreja Messiânica há aproximadamente dez anos. Naquela época, a prática era conhecida como Terapia Divina. Minha mãe, uma fiel devota, sempre recorreu a Deus em momentos de qualquer purificação mais intensa que nós, os três irmãos, enfrentamos, e fomos invariavelmente salvos pelo Johrei. Por essa razão, nossa gratidão é perene.
-
-Aos dez anos, também tive a graça de receber a Outorga, graças aos esforços de minha mãe — pois não tenho pai — e à permissão de nossos antepassados. Talvez por essa razão, mesmo tendo sido transferida para diversas escolas em diferentes localidades durante o período de evacuação, sempre fui recebida com grande afeição por todos. Da mesma forma, encontro grande prazer nos estudos.
-
-O que se tornava penoso a cada processo de purificação era a necessidade de notificar individualmente os professores e as autoridades escolares. Igualmente, explicar repetidamente os motivos para recusar as vacinas era um fardo. Por essa razão, mesmo ciente de que agia incorretamente, ao ser informada de que meu teste de reação à tuberculina fora negativo, acabei por permitir que me aplicassem duas injeções do virulento veneno BCG.
-
-Que fato aterrador! Em menos de uma semana, as extremidades de minhas mãos incharam e se desfiguraram; as pernas, do joelho para baixo, ardiam e assumiram o aspecto de uma queimadura profunda e ulcerada. O rosto também começou a edemaciar, e uma angústia física indescritível tornou a simples ida à escola uma tarefa hercúlea.
-
-Minha mãe, imersa em profunda tristeza, pedia perdão a Deus diariamente enquanto lavava minhas feridas com água morna e ministrava-me Johrei. Naquele período, tivemos a visita do ministro Naito, que também me ministrou Johrei. Ele comentou: "Desta vez, a purificação será prolongada". Sentia-me imensamente culpada perante Deus e o ministro, mas minha mãe reuniu coragem e expôs minha condição ao meu professor com toda a franqueza.
-
-O professor, dizendo "Isso é impossível", acompanhou-me ao consultório médico. Como eu já vinha recebendo Johrei, relatei ao doutor o que havia ocorrido. O médico refletiu por um instante, mas, incrédulo de que a injeção pudesse causar tal reação, encaminhou-nos a um cirurgião especialista. Todavia, este também não conseguiu estabelecer a correlação com a vacina, diagnosticando o caso como uma "dermatose crônica de determinado tipo". Contudo, acrescentou que, para tal enfermidade, "a recuperação estava sendo célere demais". Assim, retornamos sem um diagnóstico conclusivo.
-
-Posteriormente, após uma conversa entre meu professor e o médico, foi acordado que, por meu organismo não ser compatível com as injeções, eu estaria isenta de recebê-las. Naquele momento, involuntariamente, pressionei com força o Ohikari em meu peito e orei: "Meu Deus, muito obrigada! Foi graças à Vossa proteção!".
-
-Tudo isso ocorreu em maio. Eu já me resignara a passar o verão inteiro sem poder usar saias ou vestidos devido à gravidade das lesões. No entanto, após receber o Johrei do ministro, minha melhora foi extraordinária e constante. Hoje, minhas pernas estão perfeitas, imaculadas, sem qualquer vestígio de cicatriz. Que imensa graça! Deus não apenas perdoou nosso equívoco, como também restituiu minha pele a um estado ainda mais belo do que antes.
-
-Nós, mãe e filha, em nossa insensatez, agradecemos do fundo de nosso coração e nos empenhamos para transmitir, ainda que a uma única pessoa, esta salvação sublime e a terrível natureza dos medicamentos. Por meio desta experiência, reiteramos o alerta a todos sobre os equívocos da medicina.
-
-Meu Deus, muito obrigada! E rogamos a Deus que continue a nos conceder Sua infinita proteção.
-
-(16 de outubro de 1951)
-
----
-
-# A Verdadeira Natureza da Doença
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年4月8日 | **Fonte:** Kyusei
-**Título Original:** 病気とは排毒作用 | **Status:** Published
-
-## A Verdadeira Natureza da Doença
-
-Se quisermos definir a doença da forma mais compreensível, diremos que ela consiste no processo pelo qual o corpo expele, de diversas maneiras, as impurezas, ou seja, as substâncias tóxicas nele contidas. Portanto, não há nada mais benéfico neste mundo do que a doença. Caso a doença fosse eliminada da humanidade, o ser humano não conseguiria manter-se saudável, tornando-se um ser frágil e incapaz de almejar a longevidade. Esta é uma verdade imutável e milenar, e a medicina que se fundamenta nela é a única e verdadeira medicina. Por conseguinte, qualquer arte médica que se desvie desta verdade, por mais que se intitule como tal, não passa de uma prática espúria, incapaz de promover a cura.
-
-Tais substâncias tóxicas manifestam-se como expectoração, corrimento nasal, escarro com sangue e outras hemorragias de sangue impuro, pus, fezes diarreicas, urina turva, suor, saliva, remela, lágrimas, secreção no ouvido, erupções cutâneas, vermelhidão e manchas na pele, micoses como a tinha e o pé de atleta, caspa, entre outras. Nesse sentido, o resfriado nada mais é que o processo de eliminação de expectoração, corrimento nasal, suor e urina turva. A diarreia e as hemorroidas, por sua vez, ocorrem quando as toxinas de todo o corpo se concentram no abdômen para serem expelidas pelo ânus. O pus e o sangue tóxico são eliminados através de tumores e abscessos, enquanto diversas toxinas sanguíneas são expelidas pela superfície da pele por meio de enfermidades como varíola, sarampo, escarlatina, tifo exantemático e sarna. As demais toxinas são excretadas cada qual à sua maneira. Sendo a doença, em outras palavras, uma ação de limpeza do corpo humano, o resultado dessa purificação é a depuração do sangue e, consequentemente, o incremento da saúde. Com isso, a circulação sanguínea melhora, a capacidade de combater germes é fortalecida e o vigor físico aumenta, tornando o indivíduo menos suscetível a doenças. No campo espiritual, a pessoa passa a desfrutar de uma sensação de bem-estar e torna-se mais otimista. Em contrapartida, aquele que está sempre suscetível a resfriados, vive em constante indisposição, é impaciente, irritadiço, melancólico e propenso à neurastenia ou à tuberculose, indubitavelmente tem como causa o sangue impuro. Dentre todas as enfermidades, a mais simples e notavelmente eficaz para a saúde é, sem dúvida, o resfriado. Portanto, o ideal é buscar contraí-lo com a maior frequência possível. Pode-se afirmar que, ao cultivar o hábito de se resfriar, a pessoa não será acometida pela tuberculose nem pela neurastenia.
-
-Contudo, a medicina, por desconhecer este princípio, adota uma interpretação diametralmente oposta, o que evidencia o seu profundo equívoco. Apesar de se proclamar o avanço da medicina moderna, seus resultados práticos são extremamente questionáveis. Na verdade, quanto mais ela avança, mais se distancia do verdadeiro caminho da cura. Prova disso é que, até hoje, a causa de um simples resfriado permanece desconhecida, e a solução para a tuberculose, apesar de todos os esforços, continua inalcançável.
-
-É por essa razão, devido à aplicação de terapias inversas, que até as doenças mais simples hoje em dia tardam a ser curadas. De fato, sob a nossa ótica, as enfermidades são extraordinariamente fáceis de sanar. Sendo a doença uma ação purificadora concedida por Deus, quando certa quantidade de impurezas se acumula, a capacidade regeneradora inata do ser humano é ativada, promovendo a cura. Assim, a maioria das doenças se resolve rapidamente se simplesmente permitirmos que a natureza siga o seu curso, sem qualquer intervenção.
-
-Não se sabe ao certo em que época, mas a medicina foi edificada sobre essa interpretação invertida da doença, como já mencionado. Sendo assim, por mais que progrida, jamais poderá curar. Pelo contrário, apenas agrava o sofrimento e coloca a própria vida em risco. Por essa razão, a doença passou a ser vista como algo assustador, contra o qual seria indispensável tomar as devidas providências. E assim, na tentativa de solucionar um erro com outro erro, desenvolveu-se a medicina que conhecemos hoje. Que método insensato temos perpetuado! Ademais, ao refletirmos sobre os imensos sacrifícios que a humanidade tem pago por centenas, milhares de anos em decorrência desse equívoco, chegamos a nos questionar se o fruto proibido, mencionado na Bíblia, não seria uma alusão aos medicamentos.
-
-Alegremo-nos, todavia, pois finalmente o tempo de Deus chegou! A verdade sobre este erro milenar será revelada para que um mundo sem doenças possa surgir. Num futuro próximo, será possível que todos os seres humanos ultrapassem os cem anos de idade. À medida que o número de pessoas livres de toxinas aumentar, crescerá também a quantidade de indivíduos isentos de doença, de pobreza e avessos ao conflito. Desse modo, podemos afirmar com convicção que a concretização de nosso lema, o Paraíso Terrestre, está cada vez mais próxima.
-
-Naturalmente, esta Obra de Salvação grandiosa e sem precedentes é uma manifestação do imenso amor de Deus e do advento de uma nova era. Sua condição mais fundamental é a erradicação da doença da humanidade. Para tanto, o ponto central deve ser a retificação da medicina. Somente a partir daí todos os erros serão solucionados, e o Paraíso Terrestre poderá ser estabelecido.
-
----
-
-# A Necessidade de um Julgamento Imparcial
-
-**Categoria:** hi | **Ano:** 昭和25(1950)年1月21日 | **Fonte:** -
-**Título Original:** 批判は公平であれ | **Status:** Published
-
-## A Necessidade de um Julgamento Imparcial
-
-Uma das facetas mais difíceis de aceitar na sociedade atual é o padrão duplo com que se julgam os métodos de cura. No caso do Johrei ministrado por nossa Igreja, ainda que sua eficácia seja notável, ocasionalmente pode ocorrer um resultado diverso do esperado. Nesses momentos, a sociedade prontamente desfere um turbilhão de críticas e ataques. Em contrapartida, quando um médico comete uma falha similar, a menos que as consequências sejam extraordinariamente graves, o fato é encarado com naturalidade, sem que se levante o menor questionamento. Essa realidade demonstra a severidade com que a cura por meio da fé é tratada.
-
-Tal disparidade não se limita a esses casos. É comum observarmos o seguinte fenômeno: quando um tratamento médico é conduzido em paralelo com o recebimento de Johrei, se o resultado é um insucesso, a responsabilidade recai exclusivamente sobre nossa Igreja, jamais sobre a medicina. Se, todavia, alcança-se o êxito, a cura não é atribuída ao Johrei, mas interpretada como se “tivesse chegado a hora de sarar” ou como um efeito do tratamento médico.
-
-Invariavelmente, em tais ocasiões, o que percebemos é a profunda e arraigada convicção de que as doenças só podem ser curadas por meio da medicina e de seus fármacos.
-
-Considere-se, ainda, a situação daqueles que, após esgotarem os recursos médicos e verem seu estado apenas se agravar, recorrem à nossa Igreja como última esperança. Quase sem exceção, as pessoas ao seu redor os aconselham a desistir, rotulando a terapia pela fé como superstição e insistindo para que prossigam com os tratamentos convencionais. Essa fé cega na medicina se assemelha, em essência, à devoção dos seguidores de um credo supersticioso ou de uma doutrina equivocada. O paradoxo é que tais pessoas buscam refúgio naquilo que é depreciado como “superstição” justamente porque a medicina se mostrou ineficaz. Contudo, muitos estão tão imersos na superstição da ciência que se tornam incapazes de perceber uma verdade tão manifesta.
-
-Nesses casos, o paciente costuma iniciar o recebimento de Johrei repleto de dúvidas e com certa apreensão, ao mesmo tempo que a oposição de seu círculo social se intensifica. Apesar disso, os efeitos do Johrei se revelam extraordinários, revertendo o curso da doença e iniciando o caminho para a cura, conforme comprovam os inúmeros testemunhos de graças recebidas. Isso demonstra que os argumentos mundanos de que a cura ocorre “porque a pessoa crê” ou “por efeito de sugestão” são totalmente infundados. Na verdade, a realidade é o oposto, tornando-se impossível não reconhecer que o resultado não provém do poder do indivíduo, mas de um poder superior.
-
-Diante do exposto, o que sempre nos causa profundo pesar é o número excessivo de pessoas que constroem as próprias tragédias: deixando de curar doenças perfeitamente curáveis, perdendo vidas que poderiam ser salvas e renunciando a destinos que poderiam ser redimidos. A causa de tudo isso é, evidentemente, a recusa em encarar os fatos.
-
-Essas pessoas permanecem prisioneiras de conceitos tradicionais. Verdadeiramente, não pode haver infortúnio maior do que este.
-
----
-
-# As Raízes da Pobreza
-
-**Categoria:** hi | **Ano:** 昭和24(1949)年6月30日 | **Fonte:** -
-**Título Original:** 貧乏の原因 | **Status:** Published
-
-## As Raízes da Pobreza
-
-O lema de nossa Igreja é a construção de um mundo isento de doença, pobreza e conflito. Já abordei sob diversas perspectivas a questão da doença, e pretendo continuar a aprofundá-la como parte da Medicina Divina. Sendo assim, dedicarei este texto aos temas seguintes: a pobreza e o conflito.
-
-A origem da pobreza, como é evidente, reside na ruína da saúde. Contudo, existem outras causas igualmente determinantes, as quais passarei a expor.
-
-A pobreza manifesta-se quando a doença não só impede o trabalho, como também acarreta despesas médicas vultosas. Se o quadro é breve, o impacto pode ser contornado; todavia, quando se prolonga, o indivíduo acaba por perder seu emprego, e ao sofrimento da enfermidade soma-se o flagelo das dificuldades materiais. É um tormento duplo. Seu futuro é obscurecido por nuvens de incerteza, e, sem saber para onde ir, ele mergulha em uma agonia que se assemelha ao mais profundo dos infernos. A sociedade está repleta de pessoas desafortunadas que se encontram em situações semelhantes. Contudo, inúmeros são os relatos de graças que testemunham como muitas dessas pessoas, ao conhecerem nossa Fé, conseguem escapar subitamente desse inferno, vislumbrando uma luz de esperança em seu porvir e iniciando uma vida de júbilo.
-
-Embora a superação da doença já resolva grande parte do problema da pobreza, desejo avançar e abordar outro ponto crucial. Para revelar o segredo da erradicação definitiva da miséria, compartilharei minha própria experiência. Em minha juventude, embora não professasse fé alguma, ardia em mim um desejo irrefreável de promover a reforma social. Eu acreditava que não haveria meio mais eficaz para tal fim do que o jornalismo. Ao pesquisar, descobri que seria necessário, à época, cerca de um milhão de ienes. Filho de família humilde, comecei a vida com o pouco dinheiro que recebi de meus pais, abrindo uma pequena loja de armarinhos com uma fachada modesta. O sucesso foi notável. Em pouco mais de um ano, tornei-me atacadista e, após uma década, já era considerado um homem bem-sucedido no setor, com um patrimônio de aproximadamente cento e cinquenta mil ienes da época (por volta de 1919).
-
-No entanto, em minha ânsia de acumular rapidamente o capital para o projeto jornalístico, expandi os negócios de forma imprudente e acabei por sofrer um fracasso retumbante, que me deixou com um saldo negativo. Como resultado, tive de abandonar meu sonho e, no desespero, busquei amparo na religião. Foi o início de uma trajetória turbulenta, durante a qual fui atormentado por dívidas vultosas por cerca de vinte anos. Olhando para trás, compreendo que esse período foi minha grande austeridade espiritual. Os religiosos em geral se retiram para as montanhas, banham-se em cachoeiras e praticam o jejum; eu, porém, acredito ter enfrentado uma provação ainda mais árdua. Por mais de uma vez, debati-me no fundo do poço da penúria. É a filosofia que extraí dessa vivência que desejo agora compartilhar.
-
-Com exceção da doença, a causa fundamental da pobreza é o endividamento. Cheguei à conclusão de que o ser humano jamais se torna pobre se não contrair dívidas. A razão é simples: ao se contrair uma dívida, o prazo de quitação é certo e implacável. Já o recebimento dos rendimentos, ainda que programado, frequentemente sofre atrasos, gerando um descompasso fatal. Ademais, até que seja totalmente paga, a dívida acumula juros incessantemente. Por isso, mesmo que os cálculos indiquem lucro, ao se subtrair os juros, o ganho real se mostra surpreendentemente baixo. A dívida, outrossim, impõe uma ameaça psicológica constante, privando a mente da serenidade necessária para que floresçam boas ideias e embotando a sabedoria.
-
-Dessa forma, pode-se afirmar que o endividamento é a causa da maioria dos fracassos e da queda na pobreza.
-
-Compreendendo essa verdade, costumo aconselhar o seguinte: se alguém possui um capital de cem mil ienes, deve iniciar seu negócio com apenas um terço desse valor, ou seja, trinta mil. Embora pareça um começo modesto, com o tempo, esse método se revela surpreendentemente grandioso. Isso porque, com trinta mil, mesmo que ocorra um pequeno fracasso, o conhecimento adquirido com o erro permitirá recomeçar de outra forma, com uma nova parcela de trinta mil. Geralmente, essa segunda tentativa já encaminha ao sucesso. Na remota hipótese de um novo revés, a última parcela de trinta mil garantirá, infalivelmente, o êxito.
-
-A maioria das pessoas, contudo, ao dispor de cem mil ienes, inicia seus empreendimentos utilizando todo o capital. Há ainda os que, de forma temerária, tomam um empréstimo de cinquenta mil e começam com cento e cinquenta mil. Naturalmente, ao fracassarem, sofrem um golpe fatal do qual não conseguem mais se reerguer. Em contrapartida, o método que proponho, por manter um capital de reserva, oferece uma enorme flexibilidade. Permite aproveitar oportunidades ímpares, como a aquisição de mercadorias a preços muito baixos ou investimentos de lucro certo, gerando ganhos inesperados. Por outro lado, quem opera com o capital no limite pode ter dificuldades com os pagamentos, gerando atrasos que minam sua credibilidade. Já aquele que possui reserva financeira honra seus compromissos com pontualidade, fortalecendo sua reputação e colhendo, assim, múltiplos benefícios.
-
-Gostaria de ilustrar este princípio com um exemplo de grande magnitude.
-
-A principal causa que levou o Japão à condição de nação derrotada que hoje conhecemos foi sua política de endividamento. Poucos parecem atentar para este fato, que, no entanto, merece a mais séria reflexão. Antes da última Grande Guerra, o comércio exterior japonês registrava déficits anuais, e a dívida externa só aumentava, chegando ao ponto de o país contrair novos empréstimos para pagar os antigos. Foi com esse dinheiro que o Japão expandiu seu aparato militar, alargou seus territórios e estendeu cada vez mais seus tentáculos imperialistas. Além da dívida externa, a dívida interna, por meio da emissão de títulos públicos, também foi levada ao extremo. A deficitária companhia ferroviária estatal de hoje é um resquício dessa política.
-
-Se o Japão não tivesse adotado essa política de endividamento, talvez os fomentadores da agressão jamais tivessem surgido. Mais do que isso, o país certamente teria registrado superávits comerciais anuais, tornando-se uma nação próspera. Consequentemente, a cultura e a paz teriam florescido, a moralidade do povo teria se elevado, e o Japão ter-se-ia transformado em um país feliz e invejado pelo mundo. Sendo uma nação tão rica, poderia importar com facilidade todos os alimentos de que necessitasse. Ademais, ao transmitir uma imagem de povo pacífico, as nações com vastos territórios teriam acolhido de bom grado os imigrantes japoneses, e a necessidade de controle de natalidade jamais teria existido.
-
-Se as consequências de uma política de endividamento são tão devastadoras para uma nação, para o indivíduo o princípio não é diferente.
-
-Creio que, com o exposto, o caminho para a superação da pobreza torna-se compreensível.
-
----
-
-# A Simbologia Sagrada do Sol e da Lua
-
-**Categoria:** hi | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 日と月 | **Status:** Published
-
-## A Simbologia Sagrada do Sol e da Lua
-
-Passarei a explanar sobre o Sol e a Lua sob uma perspectiva religiosa, um tema de notável e profundo mistério. Embora certas passagens possam, à primeira vista, parecer interpretações forçadas, rogo que o leitor as analise com o espírito sereno, pois encerram a mais pura verdade.
-
-Na antiguidade japonesa, existem os Três Tesouros Sagrados: a Joia (璽), a Espada (剱) e o Espelho (鏡). Em sua essência, a Joia representa o Sol; a Espada, a Lua; e a Terra é simbolizada pelo Espelho. A Joia possui a forma do Sol; a Espada, a de uma lua crescente; e o Espelho, conhecido como Yata no Kagami (八咫の鏡), é dividido em oito protuberâncias, que modelam as oito direções: os quatro pontos cardeais — Leste, Oeste, Norte e Sul — e os quatro colaterais — Nordeste, Sudeste, Sudoeste e Noroeste.
-
-Dentre esses três tesouros, o simbolismo da Terra é bastante claro e dispensa maiores explicações. Contudo, o Sol e a Lua encerram um significado mais profundo, sobre o qual me debruçarei a seguir.
-
-Para facilitar a compreensão, recorrerei a uma tese da Tenrikyo, deveras interessante. Segundo ela, a palavra para “lua”, *tsuki*, possui a mesma sonoridade da palavra para “avançar” ou “investir”, *tsuki*. De modo análogo, a palavra para “sol”, *hi*, está associada ao verbo “recuar”, *hiku*. Portanto, o Sol e a Lua representariam, em sua essência, o “recuar” e o “avançar”.
-
-No mundo da noite, com efeito, há uma predileção universal pelo avanço. Em larga escala, nações investem umas contra as outras; a guerra é o exemplo máximo. O próprio conflito é um embate. É evidente que, nas guerras da antiguidade, os homens se digladiavam com espadas. Essa dinâmica se transpôs para as relações humanas, a ponto de a palavra para “relacionamento social”, *tsukiai*, possuir a mesma sonoridade do termo para “embate”, *tsukiai*. Embora os ideogramas sejam distintos, o *kotodama* – a essência espiritual da palavra – é o mesmo. O verbo “avançar impetuosamente” é sinônimo de vitória. Tudo isso constitui, inequivocamente, a manifestação da lua, o símbolo do mundo da noite.
-
-Em contrapartida, *hiki* ou *hiku* significa recuar. Ações como atrair, bater em retirada, ser derrotado ou ser humilde são, em sua totalidade, opostas às da lua. Por esse princípio, o mundo do dia, regido integralmente pela dinâmica do recuo (*hiki*), considera a cessão como uma virtude. No ser humano, tal virtude se manifesta como humildade. Sob essa premissa, a origem dos conflitos simplesmente se desvanece. A erradicação do conflito – um dos pilares de nossa missão de construir um mundo isento de doença, pobreza e conflito – pode ser compreendida à luz desse princípio. Em nossa Fé, até mesmo o ato de “contrair” (*hiku*) um resfriado é visto como algo benéfico. Considerando que nossa Igreja tem como eixo a atividade do Sol, ou seja, do elemento fogo, devemos pautar nossas ações pelo “recuar”, e não pelo “avançar” da lua. Ao mantermos esse preceito gravado em nossos corações, seremos capazes de “atrair” (*hikiyoseru*) um grande número de pessoas.
-
-Ademais, sendo o Sol a Joia, é imperativo que manifestemos em nossas vidas a harmonia, a serenidade, a flexibilidade e a desenvoltura que o caracterizam.
-
----
-
-# A Alma como Essência da Doença
-
-**Categoria:** hi | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 四、病気の本体は魂なり | **Status:** Unknown
-
-## A Alma como Essência da Doença
-
-Em sua essência, toda a matéria neste mundo fenomênico é constituída de espírito e corpo. O processo de putrefação ou deterioração de uma substância ocorre precisamente quando seu espírito se esvai por completo. Até mesmo entre as pedras, existem aquelas que se esfarelam, conhecidas como "pedras mortas", o que evidencia a perda de seu espírito. O enferrujamento de um metal, por sua vez, ocorre quando o espírito se retira e sua superfície se torna um cadáver. A ferrugem, portanto, pode ser considerada o cadáver do metal. Contudo, uma espada bem polida ou um espelho antigo resistem melhor à corrosão, pois neles permanece impregnado o espírito de seu artífice.
-
-Nesse sentido, o espírito da matéria é simplesmente espírito, mas o dos animais recebe o nome de espírito vital. O ser humano vivo consiste na união indissolúvel entre o espírito vital e o corpo carnal. A partida do espírito vital, sua transição do mundo material para o Mundo Espiritual, é o que denominamos morte ou passamento.
-
-Todavia, o ser humano não se resume apenas ao espírito vital. Se assim fosse, não se diferenciaria da matéria inanimada. Todos os seres vivos, para além do espírito vital — ou melhor, em seu interior —, possuem um coração e uma alma. Isto é, no centro do espírito vital encontra-se o coração e, no centro do coração, a alma. Em termos de dimensão, o coração corresponde a um centésimo do espírito vital, e a alma, por sua vez, a um centésimo do coração. Dessa forma, a sequência de movimento se inicia na alma, que move o coração; o coração move o espírito vital, e este, por fim, move o corpo físico. Portanto, a origem de todos os fenômenos corporais, e não apenas do movimento, reside na própria alma. Se analisarmos essa dinâmica sob a ótica do bem e do mal, o corpo representa o mal em relação à bondade do coração; por sua vez, o coração representa o mal em relação à pureza da alma. O atrito entre essas polaridades gera uma harmonia que se manifesta como a própria força da vida.
-
-Por conseguinte, a gênese da doença em si ocorre em uma parte da alma, cujo volume é mil vezes menor que o do espírito vital que anima o corpo. A alma, embora diminuta, é dotada de grande elasticidade. Quando o indivíduo está desperto e ativo, ela assume a forma humana; ao dormir, torna-se esférica. O fato de, no momento da morte, a alma se tornar esférica, assim como o coração e o espírito vital, explica o fenômeno das esferas luminosas que por vezes se veem pairando no ar. Sendo acompanhadas de luz, tornam-se ocasionalmente visíveis ao olho humano.
-
-A manifestação da doença em uma parte da alma, que, como vimos, tem forma humana, consiste, na realidade, no seu obscurecimento. Em outras palavras, a luz nessa porção específica da alma enfraquece. Essa sombra se projeta no coração, reflete-se no espírito vital e, finalmente, materializa-se no corpo físico como enfermidade. Portanto, se a alma permanecesse imune a tais obscurecimentos, o ser humano jamais adoeceria. Resta, então, a pergunta: por que a alma se obscurece? A resposta reside no que conhecemos como pecados e impurezas. Explicar detalhadamente a natureza dos pecados e impurezas nos levaria ao campo da religião. Por ora, deixaremos este ponto e passaremos à explicação da enfermidade manifesta no corpo.
-
-Conforme mencionado, suponhamos que surja um obscurecimento na porção do espírito vital correspondente, por exemplo, aos pulmões. Em consequência, o sangue nessa área se torna impuro. Com o avanço da impureza, forma-se a supuração. Esse sangue impuro se manifesta como hemoptise ou escarro sanguinolento, enquanto o pus se converte em catarro. O catarro de odor fétido nada mais é do que esse pus envelhecido. Não apenas a tuberculose, mas todas as enfermidades se originam de um princípio análogo.
-
-O princípio da cura, portanto, consiste em dissipar o obscurecimento do espírito vital. A medicina moderna, por desconhecer essa verdade, concentra seus esforços e pesquisas no tratamento dos fenômenos patológicos que se manifestam no corpo. Ela se atém aos ramos, ignorando a raiz do problema. Mesmo que se obtenha uma melhora temporária, a cura fundamental é, por essa via, inatingível. Em contrapartida, nossa terapia utiliza a luz de Kannon (観音) para dissolver esse obscurecimento do espírito. No momento em que o obscurecimento se desfaz, o pus se dissolve, e a doença diminui ou desaparece por completo. A purificação do espírito vital se reflete no corpo, e assim se opera a cura.
-
-Todavia, seria impreciso afirmar que apenas isso constitui a cura fundamental. Embora nosso método seja, sem dúvida, mais profundo que a medicina convencional, ele não é absoluto. A verdadeira e definitiva tranquilidade só pode ser alcançada quando a própria alma é purificada. A purificação da alma, por sua vez, só se concretiza quando a pessoa abraça uma fé verdadeira e a coloca em prática. Essa prática é a Prática de Kannon (観音行). Ao se dedicar a ela, cessa por completo a geração de pecados e impurezas. Em seu lugar, o indivíduo passa a acumular virtudes, alcançando não apenas saúde e bem-estar, mas uma vida plena de alegria e êxtase espiritual. Obtém, assim, a felicidade da longevidade e da prosperidade, e toda a sua família florescerá.
-
-Aproveitando o ensejo, gostaria de abordar mais um aspecto referente à alma. Existem pessoas que se assustam com facilidade ou que vivem em um estado de ansiedade constante, sempre inquietas. Tais indivíduos possuem uma alma enfraquecida e, por conseguinte, uma baixa resistência aos abalos do mundo exterior. É a essa condição que hoje se dá o nome de neurastenia, um mal extremamente comum. A causa, invariavelmente, é o obscurecimento da alma, que a torna frágil. É comum que essas pessoas apresentem nódulos de sangue tóxico endurecido na região do pescoço; ao dissolvê-los, a condição melhora. Em casos mais graves, surge a insônia. Para evitar recidivas após a recuperação, o método mais eficaz é ingressar na fé de Kannon. Dessa forma, a alma é banhada pela Luz Divina, impedindo a formação de novos obscurecimentos.
-
----
-
-# A Natureza da Doença
-
-**Categoria:** hi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 病気とは何ぞや 未発表 | **Status:** Unpublished
-
-## A Natureza da Doença
-
-Chegou o momento de elucidar, em sua totalidade, a questão da doença. Em suma, o que vem a ser a doença? Trata-se, em uma única palavra, do processo de eliminação de impurezas que não deveriam estar presentes no corpo. Consequentemente, se o organismo estivesse livre de tais impurezas, a circulação sanguínea fluiria sem obstáculos, e o indivíduo desfrutaria de uma vida vigorosa e plena de saúde, livre de enfermidades. Mas o que são, afinal, essas impurezas? Consistem elas em substâncias medicamentosas que, com o tempo, se deterioram, transformando-se em sangue tóxico ou matéria purulenta. Cumpre então questionar por que a humanidade principiou o uso de tais medicamentos, que são a própria causa das doenças. A razão para tanto é profunda e merece ser detalhada. Nos primórdios da civilização, com o gradual aumento da população, os alimentos tornaram-se escassos. Em sua busca por sustento, o ser humano passou a consumir tudo o que encontrava indiscriminadamente. Naturalmente, com métodos de agricultura e pesca ainda rudimentares, as pessoas coletavam frutos, sementes, insetos, mariscos e pequenos peixes nas montanhas, nos campos e nos rios. Sem qualquer meio para discernir o que era seguro do que era nocivo, buscavam apenas saciar a fome, o que frequentemente resultava em intoxicações por substâncias venenosas. À dor decorrente desse processo deu-se o nome de doença. Em sua tentativa de aliviar tal sofrimento, os homens passaram a experimentar raízes e cascas de plantas. Ocasionalmente, encontravam algo que atenuava a dor, e a isso, reverentemente, chamaram de remédio. Dentre os descobridores de tais substâncias, destaca-se a figura de Banko (盤古), que viveu na China durante a dinastia Han. Ele, também conhecido como Shin'nou, é célebre por ser o patriarca da fitoterapia chinesa.
-
-Conforme exposto, a dor resultante da intoxicação alimentar era, em verdade, parte do processo de purificação do corpo. O chamado efeito medicinal, por sua vez, consistia meramente na interrupção da eliminação dessas toxinas, o que proporcionava um alívio temporário da dor. Desde aquela época remota, firmou-se a ideia de que curar uma doença significava paralisar o processo purificador. É assombroso constatar que este equívoco fundamental tenha perdurado por mais de dois milênios. No Ocidente, de modo semelhante, extraíram-se medicamentos não apenas de raízes e cascas, mas de toda sorte de substâncias, uma prática que se mantém até os dias atuais. Portanto, é no mínimo curioso que, mesmo em nossa era tão avançada, a mentalidade de curar doenças com remédios não tenha evoluído em absolutamente nada desde o pensamento primitivo do homem.
-
-Analisemos agora, de forma aprofundada, as doenças em sua manifestação real. Comecemos pelo resfriado, por ser esta a enfermidade que, invariavelmente, acomete a todos. Ao contrair um resfriado, o primeiro sintoma a surgir é a febre, seguida de manifestações como dor de cabeça, tosse, expectoração, sudorese, dores articulares e mal-estar. A causa de tudo isso reside no início de um processo purificador que visa à eliminação das toxinas acumuladas no organismo. A medicina, contudo, por desconhecer este princípio, busca interromper tal processo, cometendo com isso um erro gravíssimo.
-
-A razão para tal afirmação é a seguinte: a presença de toxinas no corpo humano obstrui o funcionamento de seus órgãos. Assim, quando essas toxinas ultrapassam um certo limite, a natureza aciona um mecanismo para eliminá-las. Esse processo de eliminação consiste em dissolver, por meio da febre, as toxinas solidificadas, transformando-as em excreções como escarro, coriza, suor, urina e fezes diarreicas, para que sejam expelidas. Se a pessoa simplesmente suportar o breve desconforto desse período, o processo purificador transcorrerá sem percalços, as toxinas diminuirão e, por conseguinte, a saúde será fortalecida.
-
-A medicina, entretanto, interpreta o quadro de maneira inversa. Ela encara a dor como um fenômeno prejudicial, que danifica as funções do corpo, e, em consequência, empenha-se ao máximo para detê-la, o que constitui um equívoco aterrador. Originalmente, o processo purificador ocorre com maior intensidade quanto mais vigoroso for o indivíduo; logo, para suprimir os sintomas, a solução encontrada foi enfraquecer o corpo. Foi com este propósito que a prática médica surgiu. É compreensível que, ao enfraquecer o organismo, os sintomas diminuam; todavia, na realidade, tal abordagem não passa de pura ignorância.
-
-O método mais eficaz para promover esse enfraquecimento é o uso de medicamentos, ou seja, de venenos disfarçados de remédios. O corpo, por sua vez, utiliza a febre para dissolver as toxinas e expeli-las em estado líquido, e essa ação estimula os nervos, gerando dor e sofrimento. Em algum momento, cometeu-se o engano de interpretar essa reação como um agravamento do quadro e de tentar solidificar novamente o que estava sendo dissolvido. É para isso que servem as compressas de gelo, os emplastros e os antitérmicos. Trata-se de uma ignorância assombrosa. Com tais métodos, não se está curando a doença, mas sim impedindo a cura, confundindo o alívio momentâneo da dor com o próprio processo de restabelecimento.
-
-Ocorre que os próprios métodos de alívio da dor, como vimos, tornam-se a causa de novas doenças, o que representa um problema de extrema gravidade. Em outras palavras, a medicina interpreta erroneamente a doença — uma bênção concedida por Deus para aprimorar a saúde — e emprega meios para obstruí-la e rechaçá-la. Para tal ignorância, não há palavras. O termo "luta contra a doença", tão em voga ultimamente, certamente se origina dessa mesma concepção.
-
-Quando se recorre a medicamentos para um resfriado, não apenas se impede a eliminação das toxinas que o corpo tentava expelir, como também se adicionam novas toxinas medicamentosas. As toxinas se solidificam temporariamente, a dor desaparece, e a pessoa acredita estar curada. Que disparate! Na verdade, ela não apenas impediu a saída das toxinas originais, como acrescentou outras. Como resultado, é natural que, mais adiante, ocorra um processo purificador ainda mais intenso. A prova disso é que raramente alguém se cura de um resfriado de uma só vez e para sempre. A maioria das pessoas costuma se resfriar nas mudanças de estação, e não são poucas aquelas para quem o resfriado se torna uma condição crônica. Quem se encontra nessa situação e lê estas palavras certamente assentirá, reconhecendo a verdade.
-
-Para o ser humano, não há processo de limpeza interna mais simples que o resfriado. Por essa razão, não existe nada mais benéfico. Contudo, o velho ditado afirma que "o resfriado é a origem de todas as doenças". Não poderia haver afirmação mais equivocada. A principal causa do aumento recente de casos de tuberculose, por exemplo, é justamente o esforço para evitar resfriados e, quando ocorrem, para solidificar e reter as toxinas. A verdadeira prevenção da tuberculose, portanto, consistiria em incentivar abertamente os resfriados. Se assim fosse feito, o problema da tuberculose seria solucionado com facilidade. Por ignorarem este fato, as pessoas adotam o método oposto, e o resultado inevitável é o aumento contínuo da doença.
-
-Esses nódulos de toxinas que constituem a causa das doenças têm uma dupla origem: congênita e adquirida. As toxinas congênitas são, obviamente, hereditárias, enquanto as adquiridas provêm dos medicamentos ingeridos após o nascimento. Ambas as classes de toxinas tendem a se concentrar e a se solidificar nas partes do corpo onde a atividade nervosa é mais intensa. Como as áreas de maior uso dos nervos se localizam na parte superior do corpo, especialmente na cabeça e em seus órgãos — cérebro, olhos, ouvidos, nariz, boca —, é para lá que as toxinas se dirigem, solidificando-se inicialmente na região do pescoço. Qualquer pessoa pode comprovar isso apalpando o pescoço e os ombros; pode-se afirmar que quase ninguém está isento desses nódulos. A presença constante de uma febre baixa nesses locais indica a ocorrência de uma purificação sutil, responsável por sintomas como dor de cabeça, sensação de peso na cabeça, enrijecimento do pescoço e dos ombros, zumbido nos ouvidos, remela, coriza, escarro e piorreia. Quando a acumulação desses nódulos tóxicos atinge um certo ponto, a purificação natural é desencadeada. Outros fatores, como o aumento do vigor físico por meio de exercícios ou a adaptação do corpo a mudanças climáticas bruscas, também podem dar início a um resfriado. A crença popular de que o enrijecimento dos ombros precede um resfriado se deve a isso. A tosse, por sua vez, é uma ação de bombeamento para expelir toxinas liquefeitas, e não se restringe àquelas localizadas no pescoço, mas atua sobre nódulos em qualquer parte do corpo. Por fim, o espirro é um mecanismo semelhante, que bombeia para fora as toxinas liquefeitas na região posterior do nariz, próxima ao bulbo. Ao se conhecer este princípio, percebe-se sua perfeita correspondência com a realidade.
-
-Assim, o resfriado nada mais é do que um intenso processo purificador concentrado na parte superior do corpo, notadamente na cabeça. Uma vez compreendido este princípio, mesmo que se contraia um resfriado, pode-se permanecer tranquilo, entregando-se ao curso natural do processo. O corpo se purificará e a recuperação ocorrerá de forma suave e relativamente rápida. Não é preciso dizer, portanto, quão imensa é a felicidade que advém do simples conhecimento deste fato.
-
----
-
-# A Extinção da Tragédia
-
-**Categoria:** hi | **Ano:** 昭和24(1949)年6月11日 | **Fonte:** -
-**Título Original:** 悲劇を滅する | **Status:** Published
-
-## A Extinção da Tragédia
-
-Neste mundo, o que o ser humano mais abomina é, por certo, a tragédia. Embora seja impossível eliminá-la por completo, mitigá-la em certa medida não é, de modo algum, uma tarefa árdua. Nesse sentido, examinemos primeiramente a verdadeira natureza da tragédia.
-
-Com efeito, é um fato incontestável que a causa da maioria das tragédias reside nas doenças. Certamente, existem também as que advêm de questões amorosas ou de atos de injustiça nascidos do apego material; contudo, ao analisá-las com profundidade, percebemos que também estas se originam de enfermidades de ordem espiritual. Costuma-se dizer que uma mente sã habita um corpo são, o que constitui uma verdade absoluta. Os resultados de meus longos anos de pesquisa revelam que os desvios amorosos, a imoralidade, a desonestidade, o temperamento irascível, o vício da bebida, a indolência e a delinquência juvenil estão, eu diria que invariavelmente, associados a alguma deficiência patológica no corpo físico. Apesar disso, nem a medicina até os dias de hoje, nem outros métodos, foram capazes de encontrar uma via segura para a cura completa das enfermidades e para a consolidação de uma saúde plena, tanto no espírito quanto na matéria. Mesmo que se chegasse a identificar a causa, não existia um método para solucioná-la verdadeiramente. Até hoje, embora tenham surgido aqueles que se vangloriavam de haver descoberto a origem das doenças e estabelecido métodos de cura definitivos, a verdade é que seus resultados não passavam de efeitos temporários, que, com o tempo, acabavam por desaparecer. A sensação de que o dia já declina e a jornada ainda é longa é, pois, inevitável. Em contrapartida, conforme os inúmeros relatos de graças alcançadas publicados em nosso jornal, é impossível ler sem lágrimas a alegria e a gratidão transbordantes daqueles que tiveram suas doenças graves e de difícil tratamento solucionadas.
-
-A solução para tais enfermidades e infortúnios provém do que chamamos de manifestação de uma força invisível. Somente aqueles que a experienciaram podem compreender a magnitude do poder divino.
-
-O homem moderno não se deixa persuadir sem que lhe sejam apresentados fatos e provas concretas. Sendo assim, por mais engenhosas que sejam as teorias expostas e por mais que se recomende o caminho dos ensinamentos, enquanto não se manifestarem efeitos reais, tudo não passará, em última análise, de preces vazias. Salvar a humanidade e promover o bem-estar social não passará, portanto, de um sonho.
-
-A força pela qual o invisível move o visível: eis a essência da verdadeira fé. É precisamente isso que nossa Igreja vem realizando e, nesse sentido, creio que o termo mais apropriado para designá-la seria “a religião do poder”. A maioria das religiões preexistentes fundamenta-se nos ensinamentos, buscando, assim, despertar a alma de fora para dentro. O método do Johrei, praticado por nossa Igreja, atua de modo distinto: irradia a Luz espiritual diretamente na alma, despertando-a de uma só vez. Trata-se, por assim dizer, de uma transformação que ocorre sem esforço, o que torna os sermões uma questão de importância secundária. Shakyamuni afirmou: “A própria mente é Buda” e também que “aquele que atinge a iluminação é um Bodhisattva”. E isso é a mais pura verdade. Os fiéis de nossa Igreja alcançam a iluminação em um período notavelmente curto. Com isso, não apenas deixam de se preocupar com suas próprias tragédias, como também se tornam qualificados para, por iniciativa própria, extinguir as tragédias de seus semelhantes.
 
 ---
 

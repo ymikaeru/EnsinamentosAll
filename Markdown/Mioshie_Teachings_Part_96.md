@@ -3,7 +3,7 @@
 # PALESTRA DO FUNDADOR DA SEKAI KYUSEI KYO (O Que É a Verdadeira Civilização — Palestra proferida no Salão Público de Hibiya, Tóquio, inédita, 22 de maio de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## PALESTRA DO FUNDADOR DA SEKAI KYUSEI KYO (O Que É a Verdadeira Civilização — Palestra proferida no Salão Público de Hibiya, Tóquio, inédita, 22 de maio de 1951)
 
@@ -1450,7 +1450,7 @@ A base da nutrição é o espírito do alimento que comemos, mas
 # A Obra da Salvação (O Livro da Saúde)
 
 **Categoria:** kanren | **Ano:** 昭和33年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1958
 
 ## A Obra da Salvação (O Livro da Saúde)
 
@@ -1465,7 +1465,7 @@ A presente obra compila sessenta e oito veneráveis Ensinamentos, com foco primo
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和30年 | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955
 
 ## Publicações Relacionadas
 
@@ -1482,7 +1482,7 @@ Editora: Shizen Noho Sha
 # Publicações Relacionadas - Mestre Nakajima Issei: Sua Fé e sua Vida - por Asō Etsushi
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
 
 ## Publicações Relacionadas - Mestre Nakajima Issei: Sua Fé e sua Vida - por Asō Etsushi
 
@@ -1895,7 +1895,7 @@ Existem também registros das palavras de Meishu-Sama ao receber a notícia do f
 # A Rizicultura em Doze Meses
 
 **Categoria:** kanren | **Ano:** 昭和30年1月1日 | **Fonte:** 稲作十二カ月
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-01-01
 
 ## A Rizicultura em Doze Meses
 Publicado em 1º de janeiro de 1955

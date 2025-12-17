@@ -183,10 +183,11 @@ def extract_dates():
                                 modified = True
 
                         # --- Extract Publication Source, Title, and Status ---
-                        # --- Extract Publication Source, Title, and Status ---
                         found_source = None
                         jp_title = None
                         status = None
+                        issue_page = None
+                        date_iso = None
                         
                         match_marker = source_marker_pattern.search(search_chunk_clean)
                         if match_marker:
@@ -220,6 +221,13 @@ def extract_dates():
                                     if candidate_title and len(candidate_title) < 50:
                                         jp_title = candidate_title
 
+                            # 3. Extract Issue or Page Number
+                            # Look for patterns like "159号" or "P.13" or "P13" or "号外"
+                            # Sometimes combined: "159号 P.13"
+                            issue_matches = re.findall(r'(\d+号|号外|P\.?\d+)', full_metadata)
+                            if issue_matches:
+                                issue_page = ", ".join(issue_matches)
+
                             # If source was not in brackets, use previous logic or candidates
                             if not found_source:
                                 # Try to find a known source in the full string
@@ -237,6 +245,55 @@ def extract_dates():
                                          if len(candidate) > 1:
                                              found_source = candidate
 
+                        # --- Convert Date to ISO ---
+                        if found_date:
+                            try:
+                                # Basic Era Map
+                                era_start = {
+                                    '明治': 1868, '大正': 1912, '昭和': 1926, '平成': 1989, '令和': 2019
+                                }
+                                y_iso = None
+                                m_iso = None
+                                d_iso = None
+
+                                # Check for Era format: Era + Number + ...
+                                for era, start_year in era_start.items():
+                                    if found_date.startswith(era):
+                                        # Extract number after Era
+                                        # Handle "元" as 1
+                                        rest_date = found_date[len(era):]
+                                        match_num = re.match(r'([0-9]+|元)', rest_date)
+                                        if match_num:
+                                            num_str = match_num.group(1)
+                                            year_num = 1 if num_str == '元' else int(num_str)
+                                            y_iso = start_year + year_num - 1
+                                        break
+                                
+                                # If no Era, try Gregorian year if present in parens "昭和23(1948)"
+                                if not y_iso:
+                                    match_greg = re.search(r'\((\d{4})\)', found_date)
+                                    if match_greg:
+                                        y_iso = int(match_greg.group(1))
+
+                                # Extract Month and Day
+                                match_md = re.search(r'([0-9]+)月(?:([0-9]+)日)?', found_date)
+                                if match_md:
+                                    m_iso = int(match_md.group(1))
+                                    if match_md.group(2):
+                                        d_iso = int(match_md.group(2))
+                                
+                                # Format ISO
+                                if y_iso:
+                                    if m_iso and d_iso:
+                                        date_iso = f"{y_iso:04d}-{m_iso:02d}-{d_iso:02d}"
+                                    elif m_iso:
+                                        date_iso = f"{y_iso:04d}-{m_iso:02d}"
+                                    else:
+                                        date_iso = f"{y_iso:04d}"
+                            except Exception as e:
+                                # print(f"Error parsing date {found_date}: {e}")
+                                pass
+
                         # --- Update JSON ---
                         if jp_title:
                             item['jp_title'] = jp_title.strip(" 、")
@@ -244,6 +301,14 @@ def extract_dates():
                         
                         if status:
                             item['status'] = status
+                            modified = True
+                        
+                        if issue_page:
+                            item['issue_page'] = issue_page
+                            modified = True
+
+                        if date_iso:
+                            item['date_iso'] = date_iso
                             modified = True
 
                         if found_source:

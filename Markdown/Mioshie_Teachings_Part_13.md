@@ -1,9 +1,117 @@
 # Mioshie_Teachings - Part 13
 
+# A Questão da Tuberculose e sua Trajetória
+
+**Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
+**Título Original:** 結核問題とその趨勢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## A Questão da Tuberculose e sua Trajetória
+
+Dentre as questões demográficas, a da tuberculose é, porventura, a mais premente. Analisemos o panorama desta enfermidade com base em diversos levantamentos. Lamentavelmente, devido à conjuntura da época, não há pesquisas publicadas nos últimos anos, de modo que os dados a seguir se restringem, em sua maioria, ao período até o décimo primeiro ano da era Showa (1936).
+
+Observa-se que, enquanto nos principais países civilizados do mundo a tuberculose tem apresentado um declínio anual nas últimas quatro ou cinco décadas, em nossa nação, paradoxalmente, a tendência é de aumento. O número de óbitos por tuberculose revela um acréscimo de aproximadamente 30% em comparação com trinta anos atrás, alcançando a marca de 126.700 pessoas no oitavo ano da era Showa (1933). Este número supera em quatro a cinco vezes o total de óbitos causados por enfermidades contagiosas como a disenteria, a febre tifoide e a cólera.
+
+Ademais, as estimativas de especialistas indicam que o número de pacientes com tuberculose é dez vezes maior que o de falecidos, o que corresponde a não menos de 1.200.000 pessoas. Ao aplicarmos esta proporção à população total, chegamos à alarmante razão de um enfermo para cada cinquenta habitantes. Cumpre ressaltar que tais estatísticas se baseiam nos registros oficiais de óbito, sendo notório que um número considerável de mortes por tuberculose é frequentemente atribuído a outras patologias. Investigações recentes conduzidas pelo Departamento de Polícia Metropolitana, pela Prefeitura de Tóquio e pela Associação Japonesa de Prevenção da Tuberculose revelaram que, no décimo ano da era Showa (1935), a cidade de Tóquio registrou 15.475 mortes pela doença. Este valor é aproximadamente três vezes superior ao número de óbitos por doenças infecciosas de notificação compulsória, indicando que a província de Tóquio concentra mais de 10% do total de mortes por tuberculose no país. Por conseguinte, estima-se que a capital possua cerca de 150.000 pacientes, o que, para uma população de seis milhões, resulta na proporção de um enfermo a cada quarenta pessoas. A incidência desta doença é mais elevada entre jovens e adultos. Segundo estatísticas do Departamento de Saúde da Cidade de Tóquio para o ano de 1935, a faixa etária mais afetada foi a de 20 a 24 anos, com 2.196 mortes (18,5%), seguida pela faixa de 15 a 19 anos, com 1.930 mortes (16,6%), e a de 25 a 29 anos, com 1.789 mortes (15,4%).
+
+De acordo com dados do Departamento de Saneamento do Ministério do Interior, referentes ao oitavo ano da era Showa (1933), a taxa de mortalidade por tuberculose do sistema respiratório era de 13,9 para cada 10.000 habitantes. Outras formas de tuberculose correspondiam a 4,9 óbitos, enquanto bronquite, pneumonia e pleurisia somavam 22,2. Com base no censo nacional de 1º de novembro do décimo ano da era Showa (1935), que registrou uma população de 34.731.860 homens e 34.519.405 mulheres, totalizando 69.251.265 pessoas, podemos calcular que a tuberculose respiratória foi responsável por 96.259 mortes e outras formas da doença, por 34.033, perfazendo um total de 130.292 óbitos.
+
+Contudo, é sabido que, pelo desejo de negar a doença, muitas famílias registram o falecimento por tuberculose sob a causa de complicações associadas, especialmente pneumonia, pleurisia e bronquite. Por isso, não é errôneo supor que o número real seja, no mínimo, o dobro do oficial. Se considerarmos as estatísticas do Departamento de Saneamento para essas outras enfermidades — 15,8 mortes por pneumonia, 3,8 por bronquite e 2,6 por pleurisia para cada 10.000 habitantes, totalizando 22,2 —, isso representaria 153.737 óbitos. Uma porcentagem significativa destes certamente corresponde a casos de tuberculose. A situação se mostra ainda mais grave ao analisarmos os jovens em idade de alistamento militar, que constituem o pilar da nação. Um compilado de relatórios do Ministério do Exército revela um quadro desolador: entre 1922 e 1926, 25% dos conscritos foram classificados como de constituição física frágil; entre 1927 e 1932, essa média saltou para 36%; e em uma pesquisa de 1935, atingiu a alarmante marca de 40%.
+
+Outro dado assombroso é o número de soldados dispensados do serviço militar por tuberculose após o alistamento. Por volta de 1904 e 1905, essa taxa era de apenas 2%. Em 1935, ela havia se multiplicado por dez, chegando a 20%. Se considerarmos que, entre os soldados repatriados da Manchúria por motivo de doença — onde a adaptação ao clima é um fator relevante —, 90% dos casos são de tuberculose, temos um retrato fidedigno da drástica deterioração da saúde de nossa juventude.
+
+Uma investigação do Ministério da Educação sobre a condição física de crianças do ensino fundamental também aponta para um aumento anual de casos de escrofulose e constituição frágil. Segundo um relatório do Departamento de Educação de Tóquio, 22% do total de alunos da rede municipal — 154.000 crianças — são considerados frágeis ou escrofulosos. Deste grupo, 42.000 se encontram em estado de risco e 3.500 já foram diagnosticadas com tuberculose, números que deixaram as autoridades perplexas. Diante de um cenário que não podia mais ser ignorado, em 1936, o governo e organizações sociais uniram-se em um esforço nacional para se dedicar integralmente à prevenção e erradicação da tuberculose. Foram alocados orçamentos significativos — cinco milhões de ienes pelo Ministério do Exército, quatro milhões pelo Ministério da Educação, quinze milhões pela cidade de Tóquio e um milhão pelo Departamento de Polícia Metropolitana —, empregando toda a sabedoria e capacidade para o amparo de crianças, o socorro a conscritos e soldados, e a prevenção e assistência às classes mais desfavorecidas.
+
+Entre 1934 e 1935, o Departamento de Saneamento de Tóquio realizou um levantamento em larga escala com 12.796 alunos de sete distritos da cidade. Os resultados foram alarmantes: mais de 38% das crianças haviam sido infectadas pela tuberculose, e mais de mil necessitavam de isolamento hospitalar ou apresentavam suspeita de doença em estágio inicial. Extrapolando esses dados para o total de 720.000 alunos do ensino fundamental da cidade, teríamos 270.000 crianças infectadas e entre 50.000 e 60.000 com suspeita da doença ou em estado grave. A pesquisa, conduzida principalmente por postos de saúde nos distritos de Koishikawa, Shibuya, Shitaya, Honjo, Nakano, Omori e Arakawa, abrangeu alunos do sexto ano e utilizou métodos abrangentes, como o teste de Mantoux e exames de raios X. O resultado revelou que 4.879 crianças, ou 38,13%, apresentaram reação positiva ao teste de Mantoux, indicando infecção. Dentre estas, 69 tinham tuberculose aberta e necessitavam de isolamento imediato; 205 apresentavam inchaço dos gânglios linfáticos do hilo pulmonar, caracterizando infecção inicial; e outras 825 exibiam sombras na mesma região ao exame de raios X, levantando suspeitas. As 205 crianças com linfonodos inchados, em particular, precisavam de tratamento domiciliar, e se a situação fosse negligenciada, o risco de contágio para outros alunos seria altíssimo. Diante desses números, o Departamento de Saneamento e o Departamento de Educação decidiram reforçar as medidas de higiene nas escolas.
+
+Vejamos agora a situação no ensino médio. Uma pesquisa realizada pela Divisão de Educação Física do Ministério da Educação, com base em dados de 1933 sobre mortalidade, abandono por doença e faltas entre alunos de escolas secundárias, técnicas e femininas, apresentou os seguintes números:
+- Total de alunos: 736.500
+- Óbitos: 2.092
+- Abandono por doença: 3.766
+- Afastamento por doença: 9.734
+- Faltas por doença por mais de uma semana: 47.884
+
+Nesse universo, cerca de 5.800 alunos abandonaram os estudos devido a problemas de saúde, sendo a grande maioria por doenças de natureza tuberculosa. O fato de que mais de 10% dos estudantes do ensino superior eram portadores de tuberculose levanta uma questão grave: a causa não reside apenas no esgotamento provocado pelos exames de admissão, o que gera grande apreensão.
+
+A seguir, a visão das autoridades sobre o assunto:
+“Este problema envolve fatores como a constituição física do estudante, sua situação familiar e o tempo dedicado aos estudos e ao esporte, áreas onde certamente há espaço para pesquisa e melhoria. Em última análise, contrair tuberculose significa que o corpo do estudante não possui força suficiente para repelir a invasão do bacilo. Portanto, o cerne da solução, sem dúvida, é o fortalecimento dessa capacidade de resistência. O bacilo da tuberculose, em maior ou menor grau, penetra em nosso organismo desde o nascimento até a idade adulta. A autópsia de pessoas saudáveis revela, na maioria dos casos, vestígios de uma infecção pregressa. A taxa de infecção é de 30% em crianças de três a quatro anos, cerca de 50% aos cinco ou seis anos, 86% aos dez anos, e chega a 100% a partir dos catorze ou quinze anos. Apesar dessa alta taxa de infecção, o número de pessoas que manifestam a doença não é tão elevado porque nosso corpo possui uma resistência que impede a atividade do bacilo. Nesse sentido, a tuberculose é uma doença de difícil manifestação.
+No entanto, o período escolar — especialmente no ensino médio e para as moças — é uma fase de transformações físicas, com metabolismo intenso e grande consumo de energia. Nas estudantes, fatores fisiológicos como a primeira menstruação contribuem para uma queda acentuada da resistência. Somando-se a isso o cansaço dos exames e das atividades físicas, a resistência diminui ainda mais, criando a oportunidade para que o bacilo da tuberculose manifeste seu poder. Por isso, os estudantes que se encontram nesse período de risco devem zelar por uma nutrição adequada para restaurar sua vitalidade e fortalecer sua resistência.”
+
+Apresento agora um panorama das principais abordagens terapêuticas da medicina recente para a tuberculose, com base no artigo de um doutor em medicina:
+“Os tratamentos atuais para a tuberculose dividem-se em abordagens clínicas e cirúrgicas. A primeira combina terapias naturais, como repouso, nutrição e ar puro, com a chamada ‘terapia da paz de espírito’, que visa manter a tranquilidade mental. A abordagem cirúrgica, por sua vez, emprega métodos como a terapia de pneumotórax, oleotórax, a frenicectomia (ressecção ou avulsão do nervo frênico) e diversas técnicas de toracoplastia. Embora alguns desses procedimentos apresentem resultados positivos em certos casos, em muitos outros não surtem efeito algum. A dificuldade em erradicar o bacilo da tuberculose reside em sua especificidade: uma vez que a doença se instala, o bacilo se aninha profundamente na lesão, protegido por uma substância cerosa chamada membrana lipoídica, que impede a penetração de medicamentos. Até hoje, não se descobriu um fármaco capaz de atingi-lo diretamente. Embora existam agentes bactericidas do ponto de vista químico, aqueles com alta potência geralmente trazem efeitos colaterais, apresentando vantagens e desvantagens. Assim, ainda não foi anunciado um medicamento de eficácia imediata. Nesse momento de urgência, a descoberta, em nosso país, de um composto à base de fosfolipídios é motivo de grande regozijo. Trata-se de uma combinação da lecitina, elemento indispensável à vida humana, com um composto do grupo dos terpenos, de forte ação bactericida e sem efeitos colaterais. A ação sinérgica desses componentes permite que o medicamento penetre na lesão, destrua a resistente membrana lipoídica e atue diretamente sobre o bacilo, sendo considerado um composto de ação singular.”
+
+A seguir, a etiologia e a interpretação da tuberculose segundo a medicina:
+“A tuberculose em seu estágio inicial pode se manifestar de seis formas distintas, assemelhando-se a um resfriado, a problemas gastrointestinais, a um estado febril ou à neurastenia, entre outras. São inúmeros os casos em que a doença se agravou porque o paciente acreditava sofrer apenas de uma gripe ou de um distúrbio estomacal. Antigamente, pensava-se que a tuberculose era hereditária, mas desde a descoberta do bacilo por Robert Koch, compreendeu-se que se trata de uma doença infecciosa. Contudo, aos catorze ou quinze anos, nove em cada dez pessoas já foram expostas ao bacilo, mas pouquíssimas desenvolvem a doença. Isso deu origem à teoria da constituição física, que postula a existência de um tipo de organismo mais suscetível à tuberculose; quando o bacilo infecta um indivíduo com essa constituição, a doença se manifesta. No entanto, o termo ‘constituição’ não se refere apenas a uma característica inata, mas também a qualquer fragilidade adquirida em algum órgão interno. Ou seja, mesmo uma pessoa que nasceu forte pode desenvolver uma ‘constituição tuberculosa’ se mantiver um estilo de vida irregular e cometer excessos, que inevitavelmente enfraquecerão seus órgãos. O consumo excessivo de comida e bebida, por exemplo, sobrecarrega o sistema digestivo, causando distúrbios e debilidade. Com isso, a absorção de nutrientes fica comprometida, a resistência diminui e o bacilo latente no organismo começa a se multiplicar. Da mesma forma, uma pessoa que contrai resfriados com frequência e os negligencia, enfraquece gradualmente suas funções orgânicas, abrindo portas para o bacilo. Assim, a manifestação da tuberculose ocorre quando uma doença preexistente causa desnutrição e queda na resistência, permitindo que o bacilo, até então suprimido, se prolifere. Dependendo da doença primária, a tuberculose é classificada como do tipo gastrointestinal, gripal, cardíaca, neurastênica, anêmica ou febril. Alguém pode pegar um resfriado por dormir descoberto e, pensando que se trata de algo passageiro, não dar a devida atenção, mas a fadiga persiste e a tosse não cessa. Ou então, após comer em excesso, pode ter problemas digestivos. Na época em que o apetite aumenta, é difícil manter a moderação, e a diarreia contínua leva ao emagrecimento. Nesses casos, o que se julga ser um simples resfriado ou problema estomacal pode, na verdade, ser a tuberculose já em atividade. É preciso abandonar medidas paliativas e adotar um tratamento rigoroso, pois são muitos os exemplos de agravamento da doença por negligência.”
+
+Quanto às “medidas práticas de prevenção da tuberculose”, as autoridades estão adotando as seguintes estratégias: o Departamento de Polícia Metropolitana está organizando “Esquadrões Itinerantes de Prevenção da Tuberculose” para atuar em diversas localidades. Divididos em quatro equipes, cada uma com um veículo equipado com aparelho de raios X e instrumentos para tratamentos simples, médicos, enfermeiras e assistentes dedicarão metade do mês a consultas em postos fixos e a outra metade a visitas domiciliares, com o objetivo de instruir os pacientes sobre o tratamento e seus familiares sobre a prevenção.
+
+A infraestrutura para tratamento é desoladora. Somando os leitos para tuberculose em instituições municipais, provinciais, particulares e hospitais públicos e privados, o total é de apenas 3.690. O mais preocupante é que, embora o isolamento e o tratamento precoces sejam cruciais, no Sanatório Municipal de Tóquio, por exemplo, 64% dos pacientes falecem nos primeiros seis meses de internação, o que demonstra que as pessoas adiam a hospitalização até o último momento.
+
+Atualmente, em Tóquio, há casos como o de uma família de doze pessoas vivendo em dois cômodos, um de seis e outro de quatro tatames, com três membros gravemente doentes e três crianças em idade escolar. Ou o de uma família de oito pessoas em dois cômodos que somam onze tatames, onde dois pacientes que necessitam de internação urgente dormem amontoados com quatro filhos, o mais velho com dezesseis anos. Exemplos tão trágicos e perigosos como estes certamente não são raros em todo o país.
+
+A seguir, um resumo das terapias para a tuberculose adotadas por diferentes nações, desde a antiguidade até os dias de hoje. A tuberculose surgiu na história da medicina em tempos remotos. Em 400 a.C., o pai da medicina grega, Hipócrates, descreveu a tísica pulmonar. Na virada da era cristã, Celsus propôs o clima litorâneo como tratamento, Plínio recomendou a residência em florestas, e Galeno defendeu a terapia em montanhas e o consumo de leite. Foi somente há cerca de 180 anos que o alemão Hermann Brehmer estabeleceu um protocolo de tratamento e fundou um sanatório, lançando as bases da terapia que conhecemos hoje.
+
+Em nosso país, no ano de 984, Tanba no Yasuyori, em sua obra “Ishinho”, referiu-se à tuberculose pulmonar como uma doença contagiosa. Em 1805, Tachibana Nankei discorreu sobre as formas contagiosa e hereditária da doença, e Honma Gencho dedicou-se a comprovar que seu agente era um veneno transmissível.
+
+A verdadeira natureza da tuberculose só foi desvendada em 1882, quando Robert Koch descobriu o bacilo. Em 1890, Koch desenvolveu a famosa tuberculina. Embora se reconhecesse que essa terapia estimulava a lesão e aumentava a resistência, sua aplicação indiscriminada, independentemente do estágio da doença, levou à piora de muitos pacientes em estado grave. Em nosso país, o Ministério do Interior chegou a emitir um aviso restringindo seu uso, e, infelizmente, o tratamento não obteve sucesso. Estimuladas pela terapia com tuberculina, seguiram-se inúmeras e sérias pesquisas nos campos da imunologia e da química, mas nenhum método de eficácia clínica comprovada foi descoberto. Diante disso, a terapia natural de Brehmer voltou a ser reconhecida como o caminho principal para o tratamento da tuberculose. Os renomados sanatórios da atualidade, como o Trudeau nos Estados Unidos e os de Leysin e Davos na Suíça, foram todos fundados sob a influência da terapia natural de Brehmer, que, juntamente com a terapia nutricional, tornou-se indispensável no tratamento da tuberculose.
+
+A seguir, outra interpretação médica:
+Para explicar de forma simples o conceito de resistência, nosso corpo é dotado de um mecanismo de defesa natural contra todas as substâncias nocivas que o invadem. O mais importante é a presença de substâncias antibacterianas que dissolvem e matam os germes que entram no corpo e neutralizam suas toxinas. Há também o conhecido processo de fagocitose dos glóbulos brancos (a ação pela qual os glóbulos brancos envolvem e destroem os germes). O conjunto dessas forças é o que chamamos de resistência. A razão pela qual a terapia natural de Brehmer e a terapia nutricional são hoje consideradas indispensáveis é que ambas visam, em última análise, nutrir o corpo para fortalecer a resistência e promover a cura natural. Elas materializam a convicção de que “a única força capaz de curar a própria enfermidade é a força do próprio indivíduo”.
+
+Vejamos agora exemplos reais de quão trágicas são as vidas e as famílias afetadas pela tuberculose, com base em reportagens de jornais.
+O Departamento de Polícia Metropolitana, em sua campanha para prevenir e erradicar a tuberculose, uma doença que assola a nação, realizou uma reunião especial para discutir medidas preventivas. A partir do novo ano fiscal, além de oferecer exames gratuitos itinerantes, unirá forças com conselheiros distritais, associações médicas e conselhos de bairro para eliminar esse terrível flagelo. Como primeiro passo, foi realizado um levantamento dos pacientes de baixa renda, que necessitam de atenção mais urgente. No final de fevereiro, o número total de pacientes chegou a 1.352, com o distrito de Arakawa liderando, com mais de 150 casos. A situação miserável em que vivem, inimaginável para muitos, surpreendeu as próprias autoridades. Eis o retrato de vidas consumidas pela doença:
+**Distrito de Kanda:** Midori Imamura (50 anos, diarista) — os nomes a seguir são fictícios — vive com sua mãe Yoshi (81), a terceira filha Kyoko (21), o terceiro filho Yoshio (18) e a quarta filha Yoshiko (16). A família de cinco pessoas mora em dois cômodos, um de seis e outro de três tatames. A filha mais velha e a segunda filha faleceram recentemente de tuberculose. O segundo filho, Atsushi (24), está internado no Sanatório de Nakano com a mesma doença. A família subsiste com os 14 ienes que Yoshio ganha como contínuo em um órgão do governo. Recentemente, Kyoko também adoeceu.
+**Distrito de Honjo:** Fumi Yoshimura (23 anos) está acamada com tuberculose desde o ano passado. Suas economias, guardadas durante anos de trabalho como enfermeira, foram totalmente gastas com o tratamento, mas a doença só piora. Ela sobrevive graças à caridade alheia. Embora ainda possua sua licença de enfermeira, a polícia decidiu revogá-la devido à sua condição. Seus dois irmãos mais velhos também estão doentes em sua cidade natal.
+**Distrito de Fukagawa:** Sakae Tanaka (50 anos), do bairro de Etchujima, adoeceu há dois anos e teve de abandonar seu negócio como vendedor de antiguidades. Ele, sua esposa e três filhos sobrevivem com a única renda da família: os 40 sen diários que o filho mais velho, Susumu (16), ganha como jovem aprendiz. A polícia ordenou sua internação em um sanatório público para evitar o contágio familiar, mas, devido à falta de leitos, ele não pôde ser admitido. Sem acesso a tratamento médico, geme em seu leito de dor.
+**Distrito de Kamata:** A família de Shoji Arai (51 anos), agricultor do bairro de Kojiya, é composta por doze pessoas. Seus irmãos Harukichi (43), Katsukichi (29) e Yoshikichi (21) estão todos acamados com a doença. A família vive com os 30 ienes que o filho mais velho, Isamu (19), e a filha mais velha, Harue (17), ganham trabalhando em uma fábrica próxima. Como pequenos agricultores, a renda da lavoura é praticamente nula, e a situação é lastimável.
+**Distrito de Arakawa:** Na família de Heikichi Ono, vendedor de peixes do bairro de Ogu, os dois filhos mais velhos estão doentes, incapazes sequer de cuidar da própria higiene. A família de oito pessoas vive com a renda de Heikichi somada ao salário diário de sua filha Michi (15), que trabalha em uma fábrica, totalizando 30 ienes por mês, uma situação de desespero indescritível.
+**Distrito de Adachi:** Na casa de Tsunejiro Kusano, condutor de riquixá do bairro de Senju, sua esposa Hide (35) está doente. Sem dinheiro para tratamento, ela depende da ajuda do conselheiro distrital e não consegue cuidar da casa. Por isso, seu filho mais velho, Yoshikichi (13), teve de abandonar a escola para cuidar dos irmãos mais novos. A família de seis pessoas vive em um único cômodo de seis tatames, e as crianças pequenas dormem abraçadas à mãe doente.
+**Distrito de Koishikawa:** O adivinho Yukichi Shimoda (60), sua esposa Tome (45) e sua filha mais velha Mine (19) gemem de dor, lado a lado, acometidos pela mesma doença. A família de três pessoas vive em condições miseráveis com os seis ienes que recebem do conselheiro distrital.
+Além desses, os pacientes de baixa renda vivem em extrema miséria, e as autoridades municipais decidiram estender-lhes auxílio.
+
+Um exemplo do drama da tuberculose foi publicado na coluna de aconselhamento de um jornal:
+“Pergunta: Sou uma mulher de 33 anos. Fui casada uma vez, mas meu marido faleceu logo após o casamento. Neste verão, por intermédio de pessoas que me ajudaram muito, casei-me novamente, mas descobri recentemente um erro gravíssimo. No ano passado, tive pleurisia e, embora esteja totalmente recuperada, o médico me disse que eu não deveria me casar por pelo menos dois anos. Meu atual marido é um funcionário de 51 anos com três filhos. Sua primeira esposa e, em menos de dois anos, outros seis membros da família morreram de tuberculose. Tentei fugir de casa duas vezes, mas fui trazida de volta. O médico diz que toda a família é portadora do bacilo e que a casa está infestada. Nessas condições, até uma pessoa saudável seria infectada, e eu certamente adoecerei. Eu deveria ter investigado, mas confiei na palavra dos intermediários. Meu marido se recusa a aceitar o divórcio. Se eu continuar aqui, minha vida está em risco. Mas se eu me separar à força, posso causar um escândalo que macule a honra dos meus benfeitores. Não tenho paz. O que devo fazer?” (T-ko)
+
+A título de referência, apresento um panorama dos sanatórios para tuberculose.
+A província e a cidade de Tóquio abrigam pacientes em instituições como o Hospital Provincial Kiyose e os sanatórios Seiwaen e Kurume Gakuen, no vilarejo de Kiyose, e o Sanatório Municipal de Tóquio, em Egota, Nakano. O procedimento para internação consiste em uma consulta (gratuita) nos postos de saúde provinciais ou municipais, seguida de uma solicitação ao governador da província ou ao diretor do sanatório, por intermédio de um conselheiro distrital ou do chefe do distrito. Como são instituições para pessoas de baixa renda, geralmente não são admitidos aqueles com renda mensal superior a cem ienes. A demanda é altíssima, e a espera pode durar de seis a dez meses. A cidade também atende pacientes pagantes, com uma diária de um iene e cinquenta sen, mas mesmo para estes a espera é de cerca de três meses. Instituições privadas como o Exército de Salvação e a Saiseikai oferecem tratamento gratuito, mas também têm longas listas de espera. Os principais hospitais privados cobram diárias que variam de oitenta sen a dois ienes e cinquenta sen.
+
+Qual é o impacto da tuberculose na economia nacional?
+O Ministério do Interior estima que, com 120.000 mortes anuais e 1.200.000 pacientes, o custo do tratamento, calculado em um iene por dia por paciente, atinge 36 milhões de ienes por mês e 432 milhões por ano. Este é um cálculo mínimo; na prática, o custo é duas ou três vezes maior. Se considerarmos um custo diário de dois ienes, o total anual sobe para 864 milhões de ienes, uma soma improdutiva gigantesca, equivalente a um terço do orçamento nacional (cálculo anterior à guerra), que se tornou um obstáculo ameaçador para a economia do país. Além disso, o sofrimento humano, tanto espiritual quanto material, que acompanha a doença, é indescritível.
+
+Quando o chefe de família, o pilar da casa, adoece, o patrimônio se esvai, e a esposa e os filhos são lançados em uma situação de miséria. A perda de jovens promissores, cujos anos de formação são consumidos pela doença, também é imensa. Trabalhadores sem recursos, ao adoecerem, enfrentam a fome. A doença torna-se um gatilho para o suicídio e o crime, causando enormes prejuízos à nação e fomentando o perigoso avanço de ideologias nefastas.
+
+O Grande Terremoto de Kanto ceifou cerca de 80.000 vidas. A Guerra Russo-Japonesa resultou em aproximadamente 80.000 mortos em combate. A tuberculose mata 120.000 pessoas todos os anos. É como se a tragédia do Grande Terremoto e da Guerra Russo-Japonesa se repetisse a cada ano e meio, um ciclo desolador sem fim à vista.
+
+Em última análise, a causa reside na falta de compreensão do povo sobre a tuberculose. A estimativa de 1.200.000 pacientes do Ministério do Interior é conservadora; se incluirmos os casos leves e assintomáticos, o número se torna colossal.
+
+Hoje, contudo, o número de mortes já ultrapassa os cento e cinquenta mil anuais, representando um aumento de 25% sobre os dados mencionados, o que torna o cenário ainda mais sombrio.
+
+---
+
+# A Influência Mental na Tuberculose
+
+**Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 結核と神経作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## A Influência Mental na Tuberculose
+
+Conforme já elucidei anteriormente, a medicina moderna tem contribuído para o aumento dos casos de tuberculose pulmonar. Gostaria, contudo, de analisar essa questão sob uma nova perspectiva.
+
+A característica fundamental que distingue o ser humano dos outros animais é a sua vida espiritual. Com efeito, o homem é dotado de uma rica gama de emoções – alegria, ira, tristeza e prazer – e possui uma sensibilidade aguçadíssima aos estímulos externos. Concomitantemente, a influência que o espírito exerce sobre o corpo físico é de uma magnitude extraordinária. É do conhecimento de todos que, em momentos de preocupação ou ansiedade, qualquer pessoa pode manifestar fenômenos diversos, como a diminuição do apetite, a tez pálida e abatida, o silêncio, a melancolia, a insônia e as dores de cabeça. Portanto, quando esses tormentos espirituais se prolongam, podem evoluir para um esgotamento nervoso e, em casos mais severos, culminar até mesmo em enfermidades mentais.
+
+Seguindo esse raciocínio, ao considerarmos o problema da tuberculose em nossos dias, deparamo-nos com a influência da ação mental, um fator que não pode ser negligenciado. Permitam-me, pois, detalhá-lo. Trata-se do processo pelo qual aquilo que não é tuberculose se transforma em autêntica tuberculose por meio da ação do espírito. Tomemos como exemplo um lar onde surge um caso de tuberculose. Imediatamente, a ansiedade de que possam vir a ser contagiados a qualquer momento acomete os demais familiares, e esse pensamento se fixa de modo obsessivo em suas mentes. Ocorre, então, que um deles contrai um resfriado. Em circunstâncias normais, seria apenas um mal passageiro de cura simples; neste caso, porém, é natural que a pessoa presuma: "Será que finalmente contraí a tuberculose?". Consequentemente, ela busca de imediato o diagnóstico de um médico. Este, por sua vez, ciente do risco de contágio para outros membros da família, procede com uma cautela e um zelo redobrados. Tal atitude faz com que o paciente pense "Então é verdade", e sua apreensão se intensifica, o que, naturalmente, impede uma recuperação satisfatória. Em virtude disso, a pessoa perde o vigor e o apetite, manifestando progressivamente sintomas como definhamento, emagrecimento e insônia. Como ela já ouviu ou leu que tais sinais são característicos de doenças pulmonares, seu estado se agrava ainda mais, a ponto de o próprio médico ficar perplexo. Diante da incerteza do profissional, a angústia do doente atinge seu ápice, e ele, gradualmente, torna-se de fato um paciente com tuberculose.
+
+Ademais, a ideia de ter contraído tuberculose pulmonar evoca de imediato a associação com uma doença incurável, fazendo com que a cena final da morte surja vividamente em sua mente. É assim que o quadro evolui para uma enfermidade pulmonar genuína. Ah! Aquilo que no início era um simples resfriado é impelido até a morte pela força da ideação.
+
+Isso demonstra quão imensurável é, de fato, a influência exercida pela ação do espírito. Creio que o número de pacientes que chegam a essa condição por um caminho semelhante é surpreendentemente elevado. Portanto, o ato de classificar como contagiosa uma tuberculose que absolutamente não o é, e de rotular como incurável uma afecção pulmonar que seria perfeitamente curável, constitui, ainda que soe irônico, uma verdadeira tática de guerra psicológica.
+
+Sabe-se também que, entre os animais, o gado é particularmente suscetível à tuberculose. No entanto, consta que não há diferença na longevidade entre o gado sadio e o tuberculoso, o que significa que este último não sofre, na prática, os efeitos da doença. Tal fato nos permite compreender quão temível é a ação do espírito no ser humano.
+
+---
+
 # A Natureza da Cultura Contemporânea
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 現代文化とは 未発表 | **Status:** Unpublished
+**Título Original:** 現代文化とは 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Natureza da Cultura Contemporânea
 
@@ -18,7 +126,7 @@ Conforme o exposto, a vida humana pertence ao domínio espiritual, e quem govern
 # A Questão da Tuberculose e sua Trajetória
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
-**Título Original:** 結核問題とその趨勢 | **Status:** Published
+**Título Original:** 結核問題とその趨勢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Questão da Tuberculose e sua Trajetória
 
@@ -148,7 +256,7 @@ Tudo isso, em última análise, decorre da falta de compreensão do povo em rela
 # O Espírito que Aprecia a Arte
 
 **Categoria:** ke | **Ano:** 昭和10(1935)年7月11日 | **Fonte:** 紫苑
-**Título Original:** 芸術 | **Status:** Published
+**Título Original:** 芸術 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-07-11
 
 ## O Espírito que Aprecia a Arte
 
@@ -161,7 +269,7 @@ Ademais, é quando a vastidão, a elevação, a beleza e a pureza desse espírit
 # A Relação entre a Saúde e a Debilidade
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 健康と弱体 | **Status:** Unknown
+**Título Original:** 健康と弱体 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## A Relação entre a Saúde e a Debilidade
 
@@ -180,7 +288,7 @@ Por fim, a quarta categoria abrange aqueles que, apesar de aparentarem uma saúd
 # O Poder Divino e a Cura das Enfermidades
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核は浄霊以外治す方法ない 未発表 | **Status:** Unpublished
+**Título Original:** 結核は浄霊以外治す方法ない 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Poder Divino e a Cura das Enfermidades
 
@@ -199,7 +307,7 @@ O equívoco fundamental da civilização moderna reside precisamente na incapaci
 # A Essência dos Benefícios Imediatos na Fé
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年5月14日 | **Fonte:** -
-**Título Original:** 現当利益 | **Status:** Published
+**Título Original:** 現当利益 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-05-14
 
 ## A Essência dos Benefícios Imediatos na Fé
 
@@ -226,7 +334,7 @@ Oh, quão ansiosamente aguardamos o dia em que a ignorância desses obstinados s
 # A Causa Espiritual da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年10月21日 | **Fonte:** Eikou
-**Título Original:** 結核の霊的原因 | **Status:** Published
+**Título Original:** 結核の霊的原因 | **Status:** Published | **Edição/Página:** 231号 | **Data ISO:** 1953-10-21
 
 ## A Causa Espiritual da Tuberculose
 
@@ -266,7 +374,7 @@ Meishu-Sama, muito, muito obrigada.
 # A Necessidade da Educação Religiosa nos Presídios
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
-**Título Original:** 刑務所 | **Status:** Published
+**Título Original:** 刑務所 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
 
 ## A Necessidade da Educação Religiosa nos Presídios
 
@@ -297,7 +405,7 @@ Por fim, gostaria de acrescentar um ponto. Em cada cela do presídio, deveria ha
 # A Urgência de uma Nova Força Espiritual
 
 **Categoria:** ke | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** P.114 | **Data ISO:** 1948-09-05
 
 ## A Urgência de uma Nova Força Espiritual
 
@@ -322,7 +430,7 @@ Neste ponto da história, creio não ser o único a pensar que, se não emergir 
 # A Tuberculose Não é Absolutamente Contagiosa
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 結核は絶対に伝染しない | **Status:** Published
+**Título Original:** 結核は絶対に伝染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Tuberculose Não é Absolutamente Contagiosa
 
@@ -363,7 +471,7 @@ Qual das duas vias devemos escolher? Evidentemente, a segunda. A formação de t
 # A Iminente Revolução na Arte de Curar
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
 
 ## A Iminente Revolução na Arte de Curar
 
@@ -392,7 +500,7 @@ Meu mais profundo desejo é que os médicos aprendam esta terapia e a apliquem e
 # A Influência Mental na Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 結核と精神作用 | **Status:** Published
+**Título Original:** 結核と精神作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Influência Mental na Tuberculose
 
@@ -421,7 +529,7 @@ Esses exemplos, portanto, permitem-nos avaliar quão poderosa é a influência d
 # O Paradoxo dos Medicamentos Modernos
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
-**Título Original:** 結核と特効薬 | **Status:** Published
+**Título Original:** 結核と特効薬 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
 
 ## O Paradoxo dos Medicamentos Modernos
 
@@ -440,7 +548,7 @@ O fato de eu ter sido capaz de desvelar uma verdade de tamanha magnitude é o si
 # A Prática da Humildade
 
 **Categoria:** ke | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 下座の行 | **Status:** Published
+**Título Original:** 下座の行 | **Status:** Published | **Edição/Página:** P.43 | **Data ISO:** 1948-09-05
 
 ## A Prática da Humildade
 
@@ -459,7 +567,7 @@ Em locais de grande concentração de pessoas, como nos transportes públicos, a
 # A Verdadeira Natureza da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結核の原因 | **Status:** Published
+**Título Original:** 結核の原因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## A Verdadeira Natureza da Tuberculose
 
@@ -505,7 +613,7 @@ O artigo supracitado corrobora inegavelmente a minha tese. Fica demonstrado que 
 # A Arte Deve Ser Pura e Sincera
 
 **Categoria:** ke | **Ano:** 昭和8(1933)年2月 | **Fonte:** 松風
-**Título Original:** 芸術は純真なれ ・巻頭言 | **Status:** Published
+**Título Original:** 芸術は純真なれ ・巻頭言 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1933-02
 
 ## A Arte Deve Ser Pura e Sincera
 
@@ -522,7 +630,7 @@ O que verdadeiramente almejamos, e nisto penso constantemente, são obras que no
 # A Diarreia sob a Ótica da Ação Purificadora
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 下痢 | **Status:** Published
+**Título Original:** 下痢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Diarreia sob a Ótica da Ação Purificadora
 
@@ -537,7 +645,7 @@ Passemos agora à diarreia crônica, cujos episódios podem se estender por mese
 # A Verdadeira Causa da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核と薬毒 未発表 | **Status:** Unpublished
+**Título Original:** 結核と薬毒 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Verdadeira Causa da Tuberculose
 
@@ -552,7 +660,7 @@ Tomado de espanto, e para se certificar, submeteu-se por duas vezes a exames em 
 # A Relação entre o Mundo Visível e o Invisível
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 顕幽の関係 | **Status:** Published
+**Título Original:** 顕幽の関係 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Relação entre o Mundo Visível e o Invisível
 
@@ -579,7 +687,7 @@ A seguir, abordarei outros reinos que compõem o Mundo Espiritual. Além dos Rei
 # A Tuberculose Jamais se Transmite por Contágio
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 結核は絶対に感染しない | **Status:** Published
+**Título Original:** 結核は絶対に感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Tuberculose Jamais se Transmite por Contágio
 
@@ -618,7 +726,7 @@ Por fim, talvez não exista outra doença para a qual tenham surgido tantos "med
 # A Verdadeira Natureza do Escarro Sanguinolento e da Hemoptise
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 血痰及び喀血 | **Status:** Published
+**Título Original:** 血痰及び喀血 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## A Verdadeira Natureza do Escarro Sanguinolento e da Hemoptise
 
@@ -639,7 +747,7 @@ Nesse sentido, há um conhecimento fundamental a ser observado. Nos casos comuns
 # A Saúde como Alicerce para o Paraíso Terrestre
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 健康による天国化 自観叢書10編 | **Status:** Published
+**Título Original:** 健康による天国化 自観叢書10編 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1950-04-20
 
 ## A Saúde como Alicerce para o Paraíso Terrestre
 
@@ -662,7 +770,7 @@ Diante desse quadro, tanto a medicina, com todos os seus avanços, quanto as rel
 # A Solução Definitiva para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結核解決策 | **Status:** Published
+**Título Original:** 結核解決策 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## A Solução Definitiva para a Tuberculose
 
@@ -689,7 +797,7 @@ Por fim, declaro categoricamente: a solução para o problema da tuberculose só
 # A Ineficácia Absoluta dos Novos Fármacos para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和29(1954)年2月17日 | **Fonte:** Eikou
-**Título Original:** 結核新薬は悉く無力なり | **Status:** Published
+**Título Original:** 結核新薬は悉く無力なり | **Status:** Published | **Edição/Página:** 248号 | **Data ISO:** 1954-02-17
 
 ## A Ineficácia Absoluta dos Novos Fármacos para a Tuberculose
 
@@ -723,7 +831,7 @@ Agradeço-Lhe do fundo do coração, Meishu-Sama, pela salvação que me concede
 # A Tuberculose e os Fármacos de Efeito Extraordinário
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 結核と特効薬 未発表 | **Status:** Unpublished
+**Título Original:** 結核と特効薬 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Tuberculose e os Fármacos de Efeito Extraordinário
 
@@ -744,7 +852,7 @@ A descoberta desta verdade fundamental, que me foi concedida, é o sinal inequí
 # O Derradeiro Desfecho do Avanço da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年9月12日 | **Fonte:** Eikou
-**Título Original:** 現代医学進歩の窮極 | **Status:** Published
+**Título Original:** 現代医学進歩の窮極 | **Status:** Published | **Edição/Página:** 121号 | **Data ISO:** 1951-09-12
 
 ## O Derradeiro Desfecho do Avanço da Medicina Moderna
 
@@ -765,7 +873,7 @@ Eis a grande crise que se avizinha para as nações civilizadas. Quando esse mom
 # O Antagonismo entre o Tratamento Médico e o Johrei
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核に対する医療と浄霊 未発表 | **Status:** Unpublished
+**Título Original:** 結核に対する医療と浄霊 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Antagonismo entre o Tratamento Médico e o Johrei
 
@@ -778,7 +886,7 @@ Este exemplo nos leva a uma profunda reflexão: despender vultosas somas em hosp
 # Sobre a Questão da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 結核問題 | **Status:** Published
+**Título Original:** 結核問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Sobre a Questão da Tuberculose
 
@@ -847,7 +955,7 @@ A sensação de fadiga decorre do enfraquecimento geral do organismo, causado pe
 # Manifestações Secundárias da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
-**Título Original:** 結核付随病 | **Status:** Published
+**Título Original:** 結核付随病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
 
 ## Manifestações Secundárias da Tuberculose
 
@@ -880,7 +988,7 @@ Estou convicto de que, por meio destas explanações detalhadas, os senhores mé
 # Cântico à Saúde
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年6月18日 | **Fonte:** Kenko
-**Título Original:** 健康の歌 | **Status:** Unpublished
+**Título Original:** 健康の歌 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-06-18
 
 ## Cântico à Saúde
 
@@ -907,7 +1015,7 @@ Ergamos bem alto o grande estandarte e marchemos
 # Sobre o Tratamento Discriminatório da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核地獄の追放 未発表 | **Status:** Unpublished
+**Título Original:** 結核地獄の追放 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## Sobre o Tratamento Discriminatório da Tuberculose
 
@@ -926,7 +1034,7 @@ Nesse sentido, a medicina do Johrei, ao se opor frontalmente à segregação imp
 # A Saúde como Alicerce de Tudo
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年11月12日 | **Fonte:** Eikou
-**Título Original:** 健康は一切なり | **Status:** Published
+**Título Original:** 健康は一切なり | **Status:** Published | **Edição/Página:** 182号 | **Data ISO:** 1952-11-12
 
 ## A Saúde como Alicerce de Tudo
 
@@ -953,7 +1061,7 @@ Diante do exposto, torna-se claro que qualquer campo do saber – seja a religi�
 # A Terapia da Fé para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Eikou
-**Título Original:** 結核信仰療法に就いて | **Status:** Published
+**Título Original:** 結核信仰療法に就いて | **Status:** Published | **Edição/Página:** 204号 | **Data ISO:** 1953-04-15
 
 ## A Terapia da Fé para a Tuberculose
 
@@ -974,7 +1082,7 @@ Sendo o próprio Deus Supremo o autor deste plano sem precedentes, é evidente q
 # Conclusão sobre os Erros da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Conclusão sobre os Erros da Medicina Moderna
 
@@ -1045,7 +1153,7 @@ Decidi que este livro não será comercializado. A razão é que julgo ser ainda
 # Sobre a comemoração da redução da mortalidade por tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年6月18日 | **Fonte:** Eikou
-**Título Original:** 結核半減記念祝いに就て | **Status:** Published
+**Título Original:** 結核半減記念祝いに就て | **Status:** Published | **Edição/Página:** 161号 | **Data ISO:** 1952-06-18
 
 ## Sobre a comemoração da redução da mortalidade por tuberculose
 
@@ -1074,7 +1182,7 @@ Em contrapartida, o Johrei de nossa Igreja atua dissolvendo e expelindo as toxin
 # Conclusão sobre Ashita no Ijutsu
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## Conclusão sobre Ashita no Ijutsu
 
@@ -1147,7 +1255,7 @@ Por fim, decidi que esta obra não será comercializada. A razão é que conside
 # O Percurso da Tuberculose e os Equívocos Terapêuticos
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 結核の経路 | **Status:** Published
+**Título Original:** 結核の経路 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## O Percurso da Tuberculose e os Equívocos Terapêuticos
 
@@ -1164,7 +1272,7 @@ Quando um quadro febril dessa natureza se prolonga por muitos dias, o paciente d
 # A Libertação
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年1月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 解脱 | **Status:** Published
+**Título Original:** 解脱 | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1951-01-25
 
 ## A Libertação
 
@@ -1181,7 +1289,7 @@ O ser humano deve resignar-se quando for o momento de fazê-lo e perseverar quan
 # A Tuberculose e o Cavalo de Carroça
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年10月3日 | **Fonte:** Eikou
-**Título Original:** 結核と馬車馬 | **Status:** Published
+**Título Original:** 結核と馬車馬 | **Status:** Published | **Edição/Página:** 124号 | **Data ISO:** 1951-10-03
 
 ## A Tuberculose e o Cavalo de Carroça
 
@@ -1198,7 +1306,7 @@ Portanto, se persistirem em galopar por essa senda equivocada, é certo que um d
 # A Comprovação da Cura Total da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核も此通り全治する 未発表 | **Status:** Unpublished
+**Título Original:** 結核も此通り全治する 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Comprovação da Cura Total da Tuberculose
 
@@ -1215,7 +1323,7 @@ Todavia, como sempre afirmo, pelo fato de se tratar de uma religião, uma conqui
 # A Verdadeira Dimensão da Tuberculose no Japão
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
-**Título Original:** 結核患者現在四百万人 | **Status:** Published
+**Título Original:** 結核患者現在四百万人 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
 
 ## A Verdadeira Dimensão da Tuberculose no Japão
 
@@ -1242,7 +1350,7 @@ Com base nessa projeção, a estimativa anterior de um milhão e quinhentos mil 
 # A Falácia dos Novos Medicamentos para Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年4月2日 | **Fonte:** Eikou
-**Título Original:** 結核新薬を嗤う | **Status:** Published
+**Título Original:** 結核新薬を嗤う | **Status:** Published | **Edição/Página:** 150号 | **Data ISO:** 1952-04-02
 
 ## A Falácia dos Novos Medicamentos para Tuberculose
 
@@ -1269,7 +1377,7 @@ Decorre desse princípio que, ainda que se extermine a totalidade dos micróbios
 # A Purificação Através da Diarreia
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 下痢 | **Status:** Published
+**Título Original:** 下痢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Purificação Através da Diarreia
 
@@ -1286,7 +1394,7 @@ Passemos agora à diarreia crônica, uma afecção que pode perdurar por meses o
 # A Edificação do Paraíso por meio da Saúde
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
-**Título Original:** 健康による天国化 | **Status:** Published
+**Título Original:** 健康による天国化 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
 
 ## A Edificação do Paraíso por meio da Saúde
 
@@ -1311,7 +1419,7 @@ Acreditamos que a missão celestial que nos foi confiada é precisamente a de an
 # A Tuberculose e o Mito do Contágio
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 結核は絶対に感染しない | **Status:** Published
+**Título Original:** 結核は絶対に感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Tuberculose e o Mito do Contágio
 
@@ -1364,7 +1472,7 @@ Qual dos caminhos devemos escolher? Evidentemente, o de formar o segundo tipo de
 # A Limitação da Medicina Moderna
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年4月9日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 医学断片集（６） | **Status:** Published
+**Título Original:** 〔無題〕 医学断片集（６） | **Status:** Published | **Edição/Página:** 151号 | **Data ISO:** 1952-04-09
 
 ## A Limitação da Medicina Moderna
 
@@ -1377,7 +1485,7 @@ Houve, ademais, outra reportagem sobre um caso tido como raríssimo: a recupera�
 # O Esplendor da Nova Folhagem
 
 **Categoria:** mu | **Ano:** 昭和10(1935)年4月26日 | **Fonte:** 紫苑
-**Título Original:** 無題 （紫苑2号） | **Status:** Published
+**Título Original:** 無題 （紫苑2号） | **Status:** Published | **Edição/Página:** 2号, 2号 | **Data ISO:** 1935-04-26
 
 ## O Esplendor da Nova Folhagem
 
@@ -1392,7 +1500,7 @@ Aproveitemos, pois, esta época sublime para enriquecer grandemente nosso espír
 # A Solução Desconcertante para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年2月7日 | **Fonte:** Eikou
-**Título Original:** 結核なんか何でもない 阿呆文学 | **Status:** Published
+**Título Original:** 結核なんか何でもない 阿呆文学 | **Status:** Published | **Edição/Página:** 90号 | **Data ISO:** 1951-02-07
 
 ## A Solução Desconcertante para a Tuberculose
 
@@ -1447,7 +1555,7 @@ Chegará o dia em que esta minha teoria será aclamada no mundo inteiro como uma
 # O Triunfo do Cultivo Natural e a Solução para a Crise Alimentar
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年12月10日 | **Fonte:** -
-**Título Original:** 無肥料栽培の勝利 悩みの食糧問題一挙に解決せん | **Status:** Published
+**Título Original:** 無肥料栽培の勝利 悩みの食糧問題一挙に解決せん | **Status:** Published | **Edição/Página:** 39号 | **Data ISO:** 1949-12-10
 
 ## O Triunfo do Cultivo Natural e a Solução para a Crise Alimentar
 
@@ -1494,7 +1602,7 @@ Por fim, gostaria de ressaltar mais um ponto: nosso método de cultivo natural n
 # O incrédulo que se curva diante do milagre
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年6月20日 | **Fonte:** Eikou
-**Título Original:** 無信仰者シャッポを脱ぐ | **Status:** Published
+**Título Original:** 無信仰者シャッポを脱ぐ | **Status:** Published | **Edição/Página:** 109号 | **Data ISO:** 1951-06-20
 
 ## O incrédulo que se curva diante do milagre
 
@@ -1532,7 +1640,7 @@ Em seu nome, transmito o mais profundo agradecimento.
 # A Comprovação da Agricultura da Natureza
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 | **Status:** Published
+**Título Original:** 〔無題〕 | **Status:** Published | **Edição/Página:** 198号, 198号 | **Data ISO:** 1953-03-04
 
 ## A Comprovação da Agricultura da Natureza
 
@@ -1570,7 +1678,7 @@ Apresento, a seguir, um resumo dos resultados.
 # O Edema e a Sudorese Noturna
 
 **Categoria:** mu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 浮腫及び盗汗 | **Status:** Published
+**Título Original:** 浮腫及び盗汗 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## O Edema e a Sudorese Noturna
 
@@ -1595,7 +1703,7 @@ Aproveitando o ensejo, discorrerei sobre a transpiração em geral. Via de regra
 # A Verdadeira Causa do Edema e dos Suores
 
 **Categoria:** mu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 浮腫及び盗汗 | **Status:** Published
+**Título Original:** 浮腫及び盗汗 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Verdadeira Causa do Edema e dos Suores
 
@@ -1618,7 +1726,7 @@ Aproveitando a oportunidade, discorrerei também sobre a transpiração em geral
 # A Gênese Espiritual dos Micróbios
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
-**Título Original:** 無機から有機へ | **Status:** Published
+**Título Original:** 無機から有機へ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
 
 ## A Gênese Espiritual dos Micróbios
 
@@ -1645,7 +1753,7 @@ No entanto, ao examinarem as centenas de exemplos verídicos que se seguem, quem
 # O Empreendimento Cinematográfico que Deus Não Permitiu
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年 | **Fonte:** 私物語
-**Título Original:** 無信仰時代２ 未発表 | **Status:** Unpublished
+**Título Original:** 無信仰時代２ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## O Empreendimento Cinematográfico que Deus Não Permitiu
 
@@ -1672,7 +1780,7 @@ Ao refletir hoje sobre esses acontecimentos, compreendo com clareza que Deus, ci
 # As Religiões do Passado e a Religião do Presente
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年7月9日 | **Fonte:** -
-**Título Original:** 昔の宗教と今の宗教 | **Status:** Published
+**Título Original:** 昔の宗教と今の宗教 | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1949-07-09
 
 ## As Religiões do Passado e a Religião do Presente
 
@@ -1691,7 +1799,7 @@ Em sua essência, o Paraíso Terrestre é o próprio mundo da arte. Eis a razão
 # A Melodia da Construção do Paraíso Terrestre
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 | **Status:** Published
+**Título Original:** 〔無題〕 | **Status:** Published | **Edição/Página:** 204号 | **Data ISO:** 1953-04-15
 
 ## A Melodia da Construção do Paraíso Terrestre
 
@@ -1754,7 +1862,7 @@ Decidi que participarei da construção deste Paraíso Terrestre. Meu ideal de d
 # A Conduta Diante da Purificação da Tuberculose
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年8月13日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 医学断片集（19） | **Status:** Published
+**Título Original:** 〔無題〕 医学断片集（19） | **Status:** Published | **Edição/Página:** 169号 | **Data ISO:** 1952-08-13
 
 ## A Conduta Diante da Purificação da Tuberculose
 
@@ -1769,7 +1877,7 @@ Somente após a febre ter desaparecido por inteiro, deve-se reintroduzir, paulat
 # O Elo entre a Ciência e o Mundo Espiritual
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 無機質界 未発表 | **Status:** Unpublished
+**Título Original:** 無機質界 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## O Elo entre a Ciência e o Mundo Espiritual
 
@@ -1804,7 +1912,7 @@ Passemos, agora, à relação entre o mundo inorgânico e o mundo material.
 # O Primor das Tangerinas Cultivadas sem Adubo por Quarenta Anos
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年12月5日 | **Fonte:** Eikou
-**Título Original:** 無肥四十年の蜜柑 | **Status:** Published
+**Título Original:** 無肥四十年の蜜柑 | **Status:** Published | **Edição/Página:** 133号 | **Data ISO:** 1951-12-05
 
 ## O Primor das Tangerinas Cultivadas sem Adubo por Quarenta Anos
 
@@ -1825,7 +1933,7 @@ Que lhes parece? Exorto os membros a darem início a essa nobre empreitada o qua
 # A Revolução da Agricultura sem Adubos
 
 **Categoria:** mu | **Ano:** 昭和23(1948)年12月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 無肥料栽培 | **Status:** Published
+**Título Original:** 無肥料栽培 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-01
 
 ## A Revolução da Agricultura sem Adubos
 
@@ -1890,7 +1998,7 @@ Os inúmeros relatos de experiências práticas que se seguem a este artigo comp
 # A Origem Fundamental das Epidemias
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年8月29日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 | **Status:** Published
+**Título Original:** 〔無題〕 | **Status:** Published | **Edição/Página:** 119号 | **Data ISO:** 1951-08-29
 
 ## A Origem Fundamental das Epidemias
 
@@ -1913,7 +2021,7 @@ Os fiéis conhecem bem estas verdades, mas, por serem de difícil compreensão p
 # A Evidência Divina do Milagre
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 無神論者よ 未発表 | **Status:** Unpublished
+**Título Original:** 無神論者よ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Evidência Divina do Milagre
 *Trecho inédito de “O Livro da Revolução da Medicina”, redigido em 1953*
@@ -1927,7 +2035,7 @@ Nesse sentido, sempre afirmo ser fundamental compreender, com o âmago do ser, q
 # A Condição dos que Têm Fé e dos que Não a Têm
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年3月20日 | **Fonte:** -
-**Título Original:** 無信仰と有信仰 | **Status:** Published
+**Título Original:** 無信仰と有信仰 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-03-20
 
 ## A Condição dos que Têm Fé e dos que Não a Têm
 
@@ -1958,7 +2066,7 @@ Um poder salvador tão extraordinário é algo sem precedentes na história da h
 # A Rendição do Ateu
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 無神論者忽ち兜を脱ぐ 未発表 | **Status:** Unpublished
+**Título Original:** 無神論者忽ち兜を脱ぐ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Rendição do Ateu
 
@@ -1975,7 +2083,7 @@ Por essa razão, a conversão de um único médico será suficiente para salvar 
 # A Causa Primordial dos Sofrimentos Sociais
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年9月26日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 | **Status:** Published
+**Título Original:** 〔無題〕 | **Status:** Published | **Edição/Página:** 123号 | **Data ISO:** 1951-09-26
 
 ## A Causa Primordial dos Sofrimentos Sociais
 
@@ -1998,7 +2106,7 @@ Apenas externei os pensamentos que me ocorreram ao ouvir a referida transmissão
 # Sobre as Dificuldades Iniciais da Agricultura Natural
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年7月1日 | **Fonte:** 無肥料栽培法
-**Título Original:** 無肥栽培の報告を読んで 自観叢書第2篇 | **Status:** Published
+**Título Original:** 無肥栽培の報告を読んで 自観叢書第2篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-07-01
 
 ## Sobre as Dificuldades Iniciais da Agricultura Natural
 
@@ -2021,7 +2129,7 @@ Esta é a agricultura da Era de Miroku (五六七の代) e este é o estado de v
 # A Queda do Capacete da Incredulidade
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
-**Título Original:** 無信仰者のカンカン兜を脱ぐ | **Status:** Published
+**Título Original:** 無信仰者のカンカン兜を脱ぐ | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
 
 ## A Queda do Capacete da Incredulidade
 
@@ -2107,7 +2215,7 @@ Conforme nos é ensinado, doravante, empenharemos o pouco que valemos e juramos 
 # Uma Breve Análise sobre as Críticas à Agricultura sem Adubos
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年8月13日 | **Fonte:** -
-**Título Original:** 無肥料栽培の非難 寸評（光22号） 白光生 | **Status:** Published
+**Título Original:** 無肥料栽培の非難 寸評（光22号） 白光生 | **Status:** Published | **Edição/Página:** 22号, 22号 | **Data ISO:** 1949-08-13
 
 ## Uma Breve Análise sobre as Críticas à Agricultura sem Adubos
 
@@ -2122,7 +2230,7 @@ Portanto, não é equivocado considerar tais críticas como nada mais do que uma
 # A Superstição do Ateísmo e a Corrupção Social
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年12月12日 | **Fonte:** Eikou
-**Título Original:** 無神迷信 | **Status:** Published
+**Título Original:** 無神迷信 | **Status:** Published | **Edição/Página:** 134号 | **Data ISO:** 1951-12-12
 
 ## A Superstição do Ateísmo e a Corrupção Social
 
@@ -2151,7 +2259,7 @@ Resta-nos questionar por que eles caíram em tal equívoco. A resposta é clara:
 # Observações sobre o Mundo Poético
 
 **Categoria:** mu | **Ano:** 昭和6(1931)年10月1日 | **Fonte:** 瑞Hikari
-**Título Original:** 紫の焔 | **Status:** Published
+**Título Original:** 紫の焔 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1931-10-01
 
 ## Observações sobre o Mundo Poético
 
@@ -2194,7 +2302,7 @@ E quanto à maneira de recitar os poemas? Não se poderia aprimorá-la? Algumas 
 # Proposição de um Movimento pela Ausência de Doenças
 
 **Categoria:** mu | **Ano:** - | **Fonte:** 無病運動を起せ
-**Título Original:** 無病運動を起せ | **Status:** Unpublished
+**Título Original:** 無病運動を起せ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## Proposição de um Movimento pela Ausência de Doenças
 
@@ -2211,7 +2319,7 @@ Se, como resultado, o número de membros crescer gradualmente para dezenas de mi
 # A Capitulação de um Ateu Irredutível
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年1月28日 | **Fonte:** Eikou
-**Título Original:** 無神論のカチカチ遂に往生す | **Status:** Published
+**Título Original:** 無神論のカチカチ遂に往生す | **Status:** Published | **Edição/Página:** 193号 | **Data ISO:** 1953-01-28
 
 ## A Capitulação de um Ateu Irredutível
 
@@ -2268,7 +2376,7 @@ Este é o relato, ainda que redigido de forma singela, da primeira experiência 
 # Sobre o Ateísmo
 
 **Categoria:** mu | **Ano:** 昭和29(1954)年1月6日 | **Fonte:** Eikou
-**Título Original:** 無神論に就いて | **Status:** Published
+**Título Original:** 無神論に就いて | **Status:** Published | **Edição/Página:** 242号 | **Data ISO:** 1954-01-06
 
 ## Sobre o Ateísmo
 
@@ -2303,7 +2411,7 @@ Minha missão é, portanto, extirpar essa animalidade de tais pessoas e elevá-l
 # O Perigo da Demagogia e o Desvio da Mídia
 
 **Categoria:** mu | **Ano:** 昭和24(1949)年 | **Fonte:** 〔無題〕
-**Título Original:** 〔無題〕 | **Status:** Unpublished
+**Título Original:** 〔無題〕 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1949
 
 ## O Perigo da Demagogia e o Desvio da Mídia
 
@@ -2330,7 +2438,7 @@ Cumpre-me acrescentar, a propósito, que sou um cidadão comum, sem qualquer fil
 # A Superstição dos Fertilizantes
 
 **Categoria:** mu | **Ano:** 昭和29(1954)年1月27日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 | **Status:** Published
+**Título Original:** 〔無題〕 | **Status:** Published | **Edição/Página:** 245号 | **Data ISO:** 1954-01-27
 
 ## A Superstição dos Fertilizantes
 
@@ -2351,7 +2459,7 @@ Em contrapartida, observou-se um fenômeno surpreendente: as lavouras que, por d
 # A Onipresença das Toxinas Medicamentosas
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年10月1日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 医学断片集（22） | **Status:** Published
+**Título Original:** 〔無題〕 医学断片集（22） | **Status:** Published | **Edição/Página:** 176号 | **Data ISO:** 1952-10-01
 
 ## A Onipresença das Toxinas Medicamentosas
 
@@ -2368,7 +2476,7 @@ Portanto, se até mesmo comigo ocorre dessa forma, é possível deduzir qual sej
 # A Descoberta que Revoluciona a Ciência e a Religião
 
 **Categoria:** mu | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
-**Título Original:** 無機質界 | **Status:** Published
+**Título Original:** 無機質界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
 
 ## A Descoberta que Revoluciona a Ciência e a Religião
 
@@ -2393,7 +2501,7 @@ Passemos, então, a examinar a relação entre o mundo anímico e o mundo materi
 # Da Matéria ao Espírito: A Conversão de um Materialista
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年4月30日 | **Fonte:** Eikou
-**Título Original:** 無神と有神 | **Status:** Published
+**Título Original:** 無神と有神 | **Status:** Published | **Edição/Página:** 154号 | **Data ISO:** 1952-04-30
 
 ## Da Matéria ao Espírito: A Conversão de um Materialista
 
@@ -2446,7 +2554,7 @@ Rogo para que as pessoas do mundo despertem o quanto antes e se entreguem aos br
 # Sobre o Edema e os Suores Noturnos
 
 **Categoria:** mu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 浮腫及び盗汗 | **Status:** Published
+**Título Original:** 浮腫及び盗汗 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Sobre o Edema e os Suores Noturnos
 
@@ -2465,7 +2573,7 @@ Aproveitando o ensejo, discorrerei sobre a transpiração de modo geral. Via de 
 # A Semente da Fé em Meio à Descrença
 
 **Categoria:** mu | **Ano:** 昭和27(1952)年 | **Fonte:** 私物語
-**Título Original:** 無信仰時代１ 未発表 | **Status:** Unpublished
+**Título Original:** 無信仰時代１ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Semente da Fé em Meio à Descrença
 
@@ -2490,7 +2598,7 @@ Mesmo naquela época, quando eu era um descrente absoluto, um materialista arrai
 # A Complexa Questão do Pacifismo
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** 新宗教新聞
-**Título Original:** 難しい問題 | **Status:** Published
+**Título Original:** 難しい問題 | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-01-15
 
 ## A Complexa Questão do Pacifismo
 
@@ -2510,7 +2618,7 @@ Por todas essas razões, nós, religiosos, não podemos simplesmente brandir a b
 # Sobre o Edema e a Sudorese
 
 **Categoria:** mu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 浮腫及び盗汗 | **Status:** Published
+**Título Original:** 浮腫及び盗汗 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Sobre o Edema e a Sudorese
 
@@ -2529,7 +2637,7 @@ Uma vez que a sudorese noturna já foi abordada no capítulo sobre a tuberculose
 # A Ilusão dos Tratamentos Médicos Passageiros
 
 **Categoria:** mu | **Ano:** 昭和28(1953)年2月4日 | **Fonte:** Eikou
-**Título Original:** 〔無題〕 医学断片集（29） | **Status:** Published
+**Título Original:** 〔無題〕 医学断片集（29） | **Status:** Published | **Edição/Página:** 194号 | **Data ISO:** 1953-02-04
 
 ## A Ilusão dos Tratamentos Médicos Passageiros
 
@@ -2550,7 +2658,7 @@ Muitos hão de se recordar que, há mais de uma década, houve uma moda passagei
 # Uma Reflexão sobre os Grandes Fundadores de Religiões
 
 **Categoria:** mu | **Ano:** - | **Fonte:** Kyusei
-**Título Original:** 〔無題〕 | **Status:** Unpublished
+**Título Original:** 〔無題〕 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## Uma Reflexão sobre os Grandes Fundadores de Religiões
 
@@ -2565,7 +2673,7 @@ Todavia, é de se lamentar que, inegavelmente, lhes tenha faltado o poder para a
 # O Milagre da Meningite
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 脳膜炎の奇蹟 未発表 | **Status:** Unpublished
+**Título Original:** 脳膜炎の奇蹟 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Milagre da Meningite
 
@@ -2582,7 +2690,7 @@ Se a isso se dá o nome de progresso da medicina, então é forçoso concluir qu
 # A Origem do Banco Nonto
 
 **Categoria:** no | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
-**Título Original:** ノントー銀行 阿呆文学 | **Status:** Published
+**Título Original:** ノントー銀行 阿呆文学 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
 
 ## A Origem do Banco Nonto
 
@@ -2599,7 +2707,7 @@ Eis, portanto, a verdadeira história e as circunstâncias que deram origem ao c
 # A Grande Revolução Agrícola
 
 **Categoria:** no | **Ano:** 昭和25(1950)年5月20日 | **Fonte:** Kyusei
-**Título Original:** 農業の大革命 飯米十割増産は易々たり | **Status:** Published
+**Título Original:** 農業の大革命 飯米十割増産は易々たり | **Status:** Published | **Edição/Página:** 63号 | **Data ISO:** 1950-05-20
 
 ## A Grande Revolução Agrícola
 
@@ -2633,7 +2741,7 @@ Há mais um ponto que desejo elucidar. Ao divulgarmos esta grande boa-nova ao mu
 # As Enfermidades Cerebrais e os Equívocos da Medicina
 
 **Categoria:** no | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 脳疾患 ・病患と医学の誤謬七 | **Status:** Published
+**Título Original:** 脳疾患 ・病患と医学の誤謬七 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## As Enfermidades Cerebrais e os Equívocos da Medicina
 
@@ -2668,215 +2776,6 @@ Existe também uma doença chamada meningite cérebro-espinhal. Ela se manifesta
 Quanto à concussão cerebral, ela ocorre em virtude de quedas de lugares altos ou de fortes pancadas na cabeça. Quando a hemorragia interna é grave, pode levar à morte. Em casos de grande sangramento interno, o paciente vomita profusamente e, por vezes, observa-se sangue a vazar pelos ouvidos. Se o vômito ocorrer duas ou três vezes, geralmente não há risco de morte; contudo, se o número de episódios for superior a isso, deve-se considerar a possibilidade de um desfecho fatal.
 
 Para se avaliar a gravidade de qualquer enfermidade relacionada ao cérebro, o vômito é o indicador mais fidedigno.
-
----
-
-# A Grande Revolução na Agricultura
-
-**Categoria:** no | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Kyusei
-**Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 メシヤ教々主（明主）岡田茂吉 | **Status:** Published
-
-## A Grande Revolução na Agricultura
-
-**(I)**
-
-Há mais de uma década, venho preconizando o que denomino Agricultura Natural, um método que dispensa o uso de adubos químicos e dejetos humanos, utilizando apenas composto orgânico para obter colheitas extraordinárias. Naquela época, por mais que me esforçasse para persuadir os agricultores e fazê-los crer em minhas palavras, raros eram aqueles que me davam ouvidos, e meus esforços não frutificaram como eu desejava. Contudo, minha convicção inicial permaneceu inabalável: tratando-se da verdade absoluta, era inevitável que um dia ela seria compreendida. Adicionalmente, eu ponderava que, sem este método, não apenas os agricultores jamais encontrariam a salvação, como também o destino da nação seria profundamente afetado. Com perseverança e sem jamais me curvar, prossegui até os dias de hoje.
-
-Seja por ventura ou infortúnio, a grave situação que eu tanto temia tornou-se realidade. Sinto agora a urgência de conscientizar não apenas os agricultores, mas todos os japoneses. Ao mesmo tempo, uma luz começa a despontar no horizonte da Agricultura Natural. Considerando, pois, que o momento oportuno chegou, decidi iniciar esta grande campanha de divulgação.
-
-Um fator que favoreceu este método agrícola foi a minha condição de líder religioso. Embora muitos de meus seguidores considerassem a proposta um tanto insólita, um número considerável deles, movido pela fé, decidiu colocá-la em prática. Graças a isso, os resultados positivos não tardaram a aparecer, e o número de adeptos cresceu gradualmente. Recentemente, a Agricultura Natural começou a despertar a atenção até mesmo de agricultores que não partilham de nossa fé.
-
-Para minha imensa alegria, conforme detalhado em outra seção, o Sr. Kanesaki Sadao, técnico agrícola do Ministério da Agricultura e Florestas, após anos de dedicada pesquisa sob a perspectiva de sua especialidade, acaba de reconhecer e anunciar os resultados surpreendentes deste método. Sua declaração tem um valor inestimável, pois o fato de esta prática ter origem religiosa a tornava propensa a ser encarada como superstição. Acredito que o pronunciamento de um técnico governamental contribuirá enormemente para dissipar tal equívoco.
-
-Indiscutivelmente, a maior aflição que assola o Japão na atualidade é a escassez de seu principal alimento. Com a redução do território nacional após a guerra e uma população que não cessa de crescer, alcançando hoje oitenta e quatro milhões de habitantes, a questão tornou-se crítica. Neste ano, enfrentamos um déficit de mais de vinte milhões de *koku* de arroz, e a estabilidade só tem sido mantida a duras penas pela importação de alimentos de outras nações. O valor dessas importações, que ultrapassa a casa das centenas de bilhões de ienes, representa um fardo extraordinário para a economia nacional. Enquanto este problema não for solucionado, o futuro de nosso país será desolador. Além disso, a instável conjuntura mundial nos impede de prever que tipo de crise pode eclodir a qualquer momento, tornando imperativa a garantia do suprimento absoluto de alimento para toda a nação.
-
-Ainda que governo e agricultores empreguem todos os meios e recursos ao seu alcance, os resultados permanecem insatisfatórios, e observa-se até mesmo uma tendência de queda na produção. A colheita deste ano, por exemplo, foi cerca de três milhões de *koku* inferior à do ano passado. Diante disso, as políticas de controle de natalidade oferecem pouca esperança, e o crescimento populacional segue em um ritmo superior a um milhão de pessoas por ano. Para resolver esta crise monumental, não haverá solução a menos que ocorra um milagre verdadeiramente revolucionário.
-
-Qual a razão, então, para que nosso país não consiga produzir arroz suficiente para alimentar toda a sua população? Aqui reside o ponto fundamental que desejo expor. A causa é uma falha gravíssima no método de cultivo empregado até hoje: o uso de adubos artificiais, como os químicos e os dejetos humanos, cujo erro passou despercebido. E por que um engano de tal magnitude não foi percebido até hoje? Porque, ao longo do tempo, as pessoas caíram, sem se dar conta, em uma espécie de superstição em torno dos adubos. Tendo descoberto essa verdade, senti profundamente a necessidade de iniciar este movimento para despertá-las de seu sono ilusório e promover uma grande revolução na agricultura.
-
-Explicarei em detalhes os princípios e métodos que permitem à Agricultura Natural obter colheitas abundantes utilizando apenas composto orgânico. Antes, porém, permitam-me descrever seus efeitos. Se este método for aplicado continuamente por cinco anos, em um período de cinco anos, é perfeitamente possível obter um aumento médio de 50% na produção em todo o país. Imagino que, para muitos, tal afirmação pareça inacreditável. Tomando como base a produção anual média atual de sessenta e três milhões de *koku*, um acréscimo de 50% resultaria em noventa e quatro milhões e quinhentos mil *koku*. Isso significa que, ainda que os japoneses comam até a saciedade, haverá um excedente de dez milhões de *koku*, e teremos de, ao contrário de hoje, exportar arroz.
-
-E não é tudo. Os custos com adubos são eliminados, as pragas são reduzidas a uma pequena fração do que eram, e os danos causados por vendavais e inundações diminuem em mais da metade. Consequentemente, a mão de obra necessária também se reduzirá pela metade. Trata-se, de fato, de um método agrícola fenomenal.
-
-O que descrevi até aqui refere-se apenas ao arroz, mas a Agricultura Natural se aplica igualmente a todos os outros cultivos. Mencionarei brevemente alguns exemplos. Todas as hortaliças apresentam resultados esplêndidos. A batata-doce, por exemplo, atinge tamanhos surpreendentes; exemplares de quinhentos a seiscentos *monme* são comuns, e a colheita total é, com certeza, mais que o dobro da obtida com adubação. Os grãos, como os de feijão, tornam-se maiores e mais numerosos, sendo fácil triplicar a produção. O nabo japonês fica mais branco, com uma textura fina, úmida e macia, absolutamente delicioso e sem aquela consistência fibrosa. As folhas das verduras apresentam uma cor vibrante, sem marcas de insetos, e são tenras e igualmente saborosas. Milho, abóbora, melancia e qualquer outra hortaliça que se possa nomear prosperam de uma maneira que desafia a imaginação.
-
-Digno de nota especial é o sabor extraordinário dos produtos cultivados pelo método natural. Seja arroz, trigo ou hortaliças, uma vez que se experimenta seu sabor, torna-se quase impossível voltar a consumir alimentos produzidos com adubação artificial. Eu mesmo só me alimento de produtos isentos de adubos e, felizmente, com o número crescente de praticantes da Agricultura Natural, recebo hoje mais do que consigo consumir. O mesmo se aplica às frutas: os produtores que abandonaram os adubos artificiais relatam que, ano após ano, suas colheitas aumentam, a qualidade melhora e, consequentemente, seus lucros também, pelo que todos se mostram muito gratos. Até mesmo as flores se beneficiam: tornam-se maiores, com cores mais vivas e belas e, quando utilizadas em arranjos florais, sua longa durabilidade é motivo de grande satisfação.
-
-Outro ponto fundamental é a drástica redução de insetos nocivos na Agricultura Natural. Originalmente, tais insetos surgem a partir dos adubos artificiais; portanto, ao eliminá-los, é natural que as pragas não apareçam. Atualmente, na tentativa de exterminá-las, utilizam-se fartamente inseticidas e pesticidas. Na verdade, essas substâncias penetram no solo e tornam-se a causa do surgimento de novas pragas. É lamentável tamanha ignorância.
-
-Nos últimos anos, os danos causados por vendavais e inundações tornaram-se quase anuais. Com a Agricultura Natural, entretanto, os prejuízos são notavelmente menores. A razão para isso é que, ao absorver adubos artificiais, as plantas se tornam surpreendentemente frágeis. Descobri que, quando a planta absorve esses adubos, eles se tornam tóxicos em seu interior, e essa toxina serve de alimento para os insetos nocivos, promovendo sua proliferação. Além disso, certos adubos geram microorganismos que se multiplicam enquanto consomem a própria planta. Se surgem nas raízes, eles devoram as radículas, enfraquecendo-a. A queima das folhas, a quebra dos caules, a queda das flores, o amadurecimento incompleto dos frutos e a atrofia da batata são outras consequências desse processo.
-
-Outros tipos de microorganismos também podem surgir em outras partes da planta. Uma planta saudável teria força para eliminá-los, mas, como mencionado, estando debilitada pelos adubos, ela acaba sucumbindo. Em caso de vendavais e inundações, as plantas de cultivo natural, por serem mais fortes, tombam menos e, mesmo que tombem, logo se reerguem. Já as plantas adubadas permanecem caídas, sofrendo grandes perdas. A razão para tal diferença fica clara ao se observar as raízes: as plantas de cultivo natural possuem radículas muito mais numerosas e longas, o que lhes confere uma fixação muito mais firme ao solo.
-
-Outra característica, tanto do arroz quanto das hortaliças, são as folhas mais curtas. Como sabem os agricultores, em qualquer cultivo, quanto menor a altura da planta e o comprimento das folhas, maior a produção de frutos. Em contrapartida, as plantas adubadas são mais altas e têm folhas maiores; embora aparentem ser mais vistosas, sua produção é, na realidade, decepcionante.
-
-No que tange à sericicultura, os bichos-da-seda alimentados com folhas de amoreira cultivadas sem adubos são extremamente saudáveis. O fio produzido é mais resistente, brilhante e de qualidade muito superior, resultando, obviamente, em um aumento da produção. Isso se deve também à ausência de doenças entre os casulos.
-
-Como demonstrei, as vantagens da agricultura sem adubos em comparação com a agricultura adubada são inúmeras e incomparáveis. Para compreendê-las, é preciso, antes de tudo, conhecer a natureza do solo. Afinal, o que é o solo? O Criador o concebeu para produzir os cultivos que sustentam os seres humanos e os animais. Portanto, a essência do solo é tão rica em nutrientes que se pode dizer que ele é um verdadeiro repositório de fertilidade. Ignorando completamente este fato, as pessoas passaram a acreditar erroneamente que os adubos são o alimento das plantas. Como resultado, a aplicação de diversos adubos artificiais acabou por enfraquecer a força original do solo. Diz-se com frequência que o solo japonês é ácido, e essa é exatamente a causa. Que erro espantoso!
-
-Nesse sentido, para aumentar a produção agrícola, o que se deve fazer é fortalecer ao máximo a força intrínseca do solo. E como se faz isso? Mantendo o solo o mais puro possível, sem misturar a ele nenhuma impureza além do composto orgânico. Apenas com essa medida, é possível alcançar resultados magníficos, algo que a mentalidade convencional tem grande dificuldade em aceitar.
-
-Com base nesse princípio, a filosofia fundamental da Agricultura Natural é o respeito absoluto pela Natureza, pois é ela quem nos ensina. Basta observar a gênese e o desenvolvimento de todas as coisas do Universo para compreender que nada existe sem a força da Grande Natureza, ou seja, sem os três elementos: Fogo, Água e Terra, representados pelo Sol, pela Lua e pelo nosso planeta. O mesmo se aplica, evidentemente, aos cultivos. Assim, ao garantir uma boa exposição solar, um suprimento abundante de água e um solo mais puro, as plantas produzirão muito mais do que o necessário para o ser humano.
-
-Observem a Natureza: ervas secas e folhas caídas são produzidas em abundância e, a cada outono, cobrem a superfície da terra. Elas existem justamente para enriquecer o solo; a Natureza nos ensina a usá-las como adubo. Muitos agricultores acreditam que o composto orgânico possui nutrientes, mas não é bem assim. A verdadeira função do composto é evitar que o solo resseque, mantê-lo aquecido e impedir que se compacte. Em outras palavras, ele absorve a umidade, retém o calor e garante a fofura da terra.
-
-Seguindo essa lógica, o adubo a ser dado ao arrozal é a própria palha do arroz, cortada o mais fino possível e bem misturada à terra. Este é o processo natural, pois a palha é um produto do próprio arroz e tem o efeito de aquecer as raízes. Da mesma forma, capim seco e folhas caídas são ideais para as hortas. Não é por acaso que, próximo às hortas, geralmente há matas com abundância de folhas e capim; a Natureza nos indica que devemos utilizá-los.
-
-O centro da Terra é uma imensa massa de fogo que irradia incessantemente o calor geotérmico, ou seja, o espírito da terra. Esse espírito é o nitrogênio, o adubo provido por Deus. Ele atravessa a superfície terrestre, acumula-se no ar até uma certa altura e, com a chuva, desce e penetra no solo. Este é o adubo de nitrogênio natural, que vem do Céu na medida exata, sem excesso nem falta.
-
-Mas então, por que se começou a usar o adubo de nitrogênio? Há uma razão histórica para isso. Durante a Primeira Guerra Mundial, a Alemanha, enfrentando escassez de alimentos, precisou aumentar drasticamente sua produção. Foi então que se descobriu um método para extrair nitrogênio do ar. A sua utilização resultou em um grande aumento da produção e, a partir de então, a prática se difundiu pelo mundo. Contudo, aquele foi um efeito temporário, que não se sustenta a longo prazo. Inevitavelmente, o excesso de nitrogênio enfraquece o solo e leva à redução da produção, mas este princípio ainda não foi compreendido. Pode-se pensar nisso como algo análogo ao vício em narcóticos.
-
-Há um ponto que requer atenção. Ao fazer a transição para a Agricultura Natural, a quantidade de toxinas de adubo remanescentes no solo e nas sementes de uma plantação de arroz influencia enormemente os resultados. Em alguns casos, já no primeiro ano de cultivo, obtém-se um aumento de cerca de 10% na colheita. Em outros, observa-se uma redução de 10% a 20% no primeiro e no segundo ano, e só a partir do terceiro ano é que se vê um aumento de 10% a 20%, com uma melhora progressiva a partir de então.
-
-De modo geral, podemos esperar o seguinte: no primeiro ano, uma colheita semelhante à anterior; no segundo, um aumento de 10%; no terceiro, de 20%; no quarto, de 30% a 40%; e, a partir do quinto ano, um aumento de 50%. Esta é uma estimativa segura. Portanto, se os resultados iniciais forem muito ruins, é sinal de que há uma grande quantidade de adubo artificial remanescente no solo. Nesses casos, a adição temporária de terra nova pode amenizar o problema.
-
-Há mais uma questão de suma importância. Sendo o sulfato de amônio e outros adubos químicos absorvidos pelo arroz, seus venenos potentes, ainda que em quantidades ínfimas, são ingeridos três vezes ao dia pelo ser humano. É natural que, sem que se perceba, isso cause danos ao corpo. O aumento da incidência de doenças no homem moderno pode muito bem ter, entre suas causas, este fator.
-
-Para finalizar, gostaria de elencar sucintamente os benefícios econômicos da Agricultura Natural:
-1.  Eliminação dos gastos com adubos.
-2.  Redução da mão de obra pela metade.
-3.  Aumento substancial da colheita.
-4.  Aumento do peso dos grãos, ausência de perda de volume no cozimento e sabor delicioso.
-5.  Praticamente completa eliminação de pragas.
-6.  Solução definitiva para o problema dos vermes, como a lombriga, e outros parasitas, que hoje tanto afligem a população.
-
-Com base no exposto, creio que fica claro o quão revolucionário é este método de cultivo e que grande bênção ele representa. Sua prática não só resolverá de uma vez por todas o problema alimentar do Japão, como também servirá de catalisador para influenciar positivamente todas as outras questões, em especial a saúde humana. Tenho a certeza absoluta de que, à medida que esta prática se difundir por todo o Japão, a reconstrução do país será acelerada, e chegará o dia em que seremos admirados pelo mundo inteiro como uma nação de elevada cultura. É com este anseio que desejo que esta edição especial seja lida pelo maior número possível de japoneses.
-
-Por fim, gostaria de frisar que não tenho a mais ínfima intenção de usar este método como propaganda religiosa. Prova disso é que qualquer pessoa, mesmo sem possuir fé, pode colocá-lo em prática e obter os excelentes resultados descritos.
-
-**(II)**
-
-Ao analisar os relatórios sobre os resultados do ano passado, enviados de diversas localidades, lamento que, devido ao envio precoce, muitos não abranjam o período até a colheita. Ainda assim, foi possível ter uma visão geral, sobre a qual gostaria de tecer algumas reflexões. A Agricultura Natural, acima de tudo, nega o uso de adubos, que até então eram considerados a própria vida dos cultivos. Por isso, no início, os praticantes enfrentaram críticas e ataques inesperados de suas famílias e vizinhos, tornando-se alvo de zombarias. Ao ler sobre a perseverança silenciosa, a resignação e a força com que seguiram em frente, vertendo verdadeiras lágrimas de sangue, meus olhos se enchem de lágrimas. Sinto no peito que somente a fé torna tal feito possível. Afinal, para pessoas que, por gerações, foram doutrinadas na superstição dos adubos, a oposição é até compreensível.
-
-Isso me faz pensar nas grandes invenções e descobertas da história que hoje contribuem imensamente para a humanidade. Sem exceção, em seu início, todas foram alvo de incompreensão e perseguição. Os registros das inúmeras provações e do sofrimento atroz que seus precursores enfrentaram para perseverar são capazes de abalar a nossa alma.
-
-Da mesma forma, eu já estava preparado para que a Agricultura Natural enfrentasse considerável oposição por um tempo. Contudo, como os resultados práticos são surpreendentes, eu sabia que a paciência seria necessária apenas até um certo ponto. E, como esperado, os relatórios que recebemos agora demonstram claramente que o método finalmente começou a atrair a atenção de diversos setores.
-
-No entanto, no início, devido às circunstâncias desfavoráveis e à falta de convicção dos próprios praticantes, poucos foram os que começaram de forma decidida e declarada. A maioria iniciou de forma experimental, com grande receio e apreensão. Como o solo e as sementes estavam impregnados de toxinas de adubo, no primeiro ano as plantas apresentavam folhas amareladas e caules finos, a ponto de parecer que morreriam. Diante desse quadro, os agricultores sentiam-se ansiosos e aflitos, recorrendo fervorosamente à oração a Deus. Contudo, na época da colheita, os resultados se mostravam surpreendentemente bons. "Senti um profundo alívio" é uma frase que todos eles proferem. É somente superando essa fase difícil que se conquista a coroa da vitória.
-
-Na verdade, eu gostaria de ter publicado os relatos de diversas localidades após quatro ou cinco anos de prática, quando o aumento de 50% na produção já estivesse consolidado. Contudo, a situação atual é tão premente que não podemos esperar. Além disso, creio que os resultados obtidos até agora já são suficientes para comprovar a eficácia deste método. Por isso, decidimos publicar esta edição especial para informar o mais rápido possível não apenas os agricultores, mas o público em geral.
-
-Nesse sentido, para que a informação chegue tanto pelos olhos quanto pelos ouvidos, esta edição especial será distribuída amplamente a todos os ministros de Estado, parlamentares, principais jornais, estações experimentais agrícolas, associações e demais entidades ligadas à agricultura em todo o país. Assim que os preparativos estiverem concluídos, pretendemos realizar palestras por todo o Japão. Portanto, rogo não apenas aos fiéis das zonas rurais, mas a todos os membros em geral, que se empenhem em divulgar e recomendar este método.
-
-De acordo com notícias recentes, o governo, aparentemente em um ato de desespero, planeja investir uma quantia colossal a partir deste ano em um plano para aumentar a produção em três milhões de *koku* anuais, utilizando todos os recursos possíveis. A intenção é boa, mas se continuarem a usar adubos químicos e dejetos humanos, mesmo com outras melhorias agrícolas e diversas medidas, um aumento de três milhões de *koku* não passará de um sonho. Em minha opinião, na melhor das hipóteses, manterão a produção média; na pior, pode até ocorrer uma redução, como no ano passado. É por isso que desejo, de todas as formas, despertá-los da superstição dos adubos e promover a transição para a Agricultura Natural o mais rápido possível.
-
-Felizmente, mesmo que a eficácia do método seja compreendida e ele passe a ser adotado, é obviamente impossível converter todo o Japão de uma só vez. Portanto, é preciso agir com a máxima cautela. Um plano decenal, convertendo 10% da área cultivada a cada ano, seria o ideal. Dessa forma, não haveria risco de queda na produção. Nos primeiros um ou dois anos, a colheita se manteria na média; a partir do terceiro ano, começaria a aumentar gradualmente. E posso garantir, com toda a certeza, que após cinco ou seis anos, o aumento será superior a 50%.
-
-Há algo que desejo enfatizar neste ponto, embora possa ser de difícil compreensão para os não-membros. O arroz, principal alimento do ser humano, foi criado por Deus para nos sustentar. Portanto, por mais que a população aumente, a quantidade necessária deveria ser sempre produzida. O déficit atual de vinte milhões de *koku* anuais é consequência direta de um método agrícola equivocado, ou seja, o uso de adubos artificiais. Se, como afirmei, a produção aumentar em mais de 50%, o que acontecerá com a economia japonesa? A pecha de "nação endividada" se reverterá, e a era do *kofuku gekijo* — em que o povo, satisfeito, bate no ventre e canta a paz — se tornará realidade. Sei que, ao dizer isso, a promessa pode parecer tão fácil que talvez desperte desconfiança. Mas não faço afirmações sem fundamento.
-
-Como consta em alguns relatórios, com a Agricultura Natural, à medida que as toxinas dos adubos desaparecem, a planta de arroz gera espigas sobre espigas. De um único caule, brotam vários ramos, e todos eles produzem grãos. Assim, cada caule pode gerar, com certeza, de trezentas a quinhentas sementes. Somando-se a isso a ausência de pragas e a drástica redução dos danos climáticos, nosso país fará jus ao seu nome ancestral de *Toyoashihara Mizuho no Kuni* (豊葦原瑞穂の国), a Terra das Férteis Planícies de Juncos e das Viçosas Espigas de Arroz. Por tudo isso, afirmo sem hesitar que, mesmo que a população do Japão chegue a cem, duzentos ou trezentos milhões de habitantes, a área cultivada atual será suficiente para alimentar a todos.
-
-Há mais um ponto que gostaria de abordar. Em vários trechos dos relatórios, aparece a palavra Johrei (浄霊). Para os não-membros, talvez seja difícil de entender, mas, independentemente da compreensão, farei uma breve explicação. Johrei é um método para eliminar as toxinas dos adubos. O simples ato de estender a mão produz efeitos maravilhosos, algo que uma mente endurecida pelo materialismo jamais poderá compreender. Embora este seja o cerne de nossos ensinamentos, vou me ater aqui a uma análise do solo.
-
-Originalmente, o solo é composto de dois elementos: espírito e matéria. A matéria é o solo em si, visível. O espírito é a essência invisível do solo; pode-se dizer que a matéria é a frente, e o espírito, o verso. Como os adubos são tóxicos, eles enfraquecem a parte material do solo, o que se reflete na parte espiritual, obscurecendo-a. Isso ocorre porque o princípio de que o espírito é o principal e a matéria o secundário rege todas as coisas do Universo. O Johrei, nesse contexto, é um método de dissolução das toxinas de adubo. Durante o Johrei, uma onda de luz poderosa é irradiada da palma da mão, dissipando as máculas do espírito do solo. Essa purificação se transfere para a matéria, e as toxinas diminuem. Esta é a verdade. A ciência, por desconhecer este princípio, ocupa-se apenas de um dos lados, o da matéria. É, portanto, uma ciência claudicante. Foi por causa dessa ciência incompleta e do pensamento tradicional que o solo foi enfraquecido pelos adubos. Ao descobrir este princípio, criei a Agricultura Natural. Esta é a verdadeira ciência, uma descoberta de magnitude mundial. Portanto, não há mistério algum no fato de que ela possa gerar um aumento de produção tão revolucionário.
-
-Para concluir, um aviso importante. Quando falo em um aumento de 50% em cinco anos, tomo como padrão um campo de arroz que recebeu uma quantidade mediana de adubos artificiais, pois é o tempo necessário para que as toxinas desapareçam por completo. Recentemente, porém, na ânsia de aumentar a colheita, muitos agricultores passaram a usar grandes quantidades de adubos químicos, como o sulfato de amônio. Nesses casos, mesmo que se adote a Agricultura Natural hoje, a eliminação completa das toxinas levará mais tempo, possivelmente mais de cinco anos.
-
-Isso explica a considerável variação nos resultados apresentados nos relatórios, que se deve justamente à diferença na quantidade de toxinas remanescentes. Com o tempo, essa diferença se tornará clara. Quando a espiga de arroz surge amarelada, é sinal de que ainda há toxinas. À medida que elas desaparecem, a espiga passa a nascer verde desde o início. O Johrei serve para acelerar este processo. Assim, após cinco anos ou mais, quando as toxinas tiverem sido completamente eliminadas, o Johrei para o solo não será mais necessário. O fato de a adição de terra nova melhorar temporariamente os resultados deveria ser suficiente para que as pessoas compreendessem o mal causado pelas toxinas, mas a superstição em torno dos adubos as impede de enxergar a verdade.
-
----
-
-# As Enfermidades Cerebrais e os Equívocos da Medicina
-
-**Categoria:** no | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 脳疾患 ・病患と医学の誤謬七 | **Status:** Published
-
-## As Enfermidades Cerebrais e os Equívocos da Medicina
-
-Analisemos as enfermidades relacionadas ao cérebro, tão características do homem moderno. Dentre elas, a mais comum é, sem dúvida, a neurastenia. Seus sintomas manifestam-se como dores de cabeça, tonturas, sensação de pressão, confusão mental, ansiedade, melancolia e insônia.
-
-A mais frequente dessas manifestações é a dor de cabeça crônica. Qual seria sua origem? A causa principal reside na aplicação de compressas de gelo durante episódios febris, como os decorrentes de resfriados. Comumente, a febre é acompanhada por dores de cabeça, que são, na verdade, um sinal de que as toxinas solidificadas no cérebro estão se dissolvendo e começando a se mover por ação da purificação. Contudo, ao se aplicar gelo, esse processo de dissolução é interrompido e as toxinas voltam a se solidificar. Sobre essa massa reconsolidada, uma purificação lenta e contínua passa a atuar, gerando a dor crônica. Por essa razão, ao pousarmos a palma da mão sobre a cabeça de alguém com esse quadro, invariavelmente sentimos uma leve febre, que pode se manifestar em toda a cabeça, apenas na região frontal ou posterior, ou ainda em um ponto específico. Esta condição, no entanto, pode ser plenamente curada através da terapia natural.
-
-Existe, todavia, outro tipo de dor de cabeça, originada por uma causa distinta: a anemia cerebral. Conforme expliquei no tópico sobre resfriados, sua origem está em toxinas solidificadas próximas aos gânglios linfáticos que comprimem os vasos sanguíneos. Nesses casos, ao pousarmos a mão sobre a cabeça do enfermo, não apenas não se percebe febre, como, ao contrário, a temperatura pode estar mais baixa que o normal. Durante uma crise, o rosto torna-se subitamente pálido e, em casos mais graves, pode ocorrer perda de consciência acompanhada de náuseas intensas. A cura consiste em promover a purificação por meio de exercícios físicos, tanto quanto possível, para induzir um estado febril que dissolva e elimine as toxinas acumuladas nos gânglios.
-
-A sensação de pressão na cabeça, por sua vez, deve-se a toxinas estagnadas em todo o cérebro. Pela ação da primeira purificação, elas se solidificam, obstruindo a circulação sanguínea. A falta de sangue causada pela anemia cerebral também contribui para esse sintoma.
-
-Quanto à insônia e à confusão mental, por já terem sido abordadas no capítulo sobre sintomas, não me deterei nelas aqui. Passemos, então, à análise da sensação de ansiedade e irritabilidade. As funções cerebrais podem ser divididas, em linhas gerais, em razão e emoção. O lobo frontal rege a razão, enquanto a região posterior do cérebro governa a emoção. A razão compreende a sabedoria, a memória, a ponderação e outras faculdades intelectuais. Não por acaso, os eruditos, que se dedicam a trabalhos racionais, invariavelmente possuem a parte frontal da cabeça mais desenvolvida. Por outro lado, a região posterior comanda as emoções — alegria, ira, tristeza e prazer —, de modo que as pessoas com essa área proeminente são mais emotivas. Fica evidente, portanto, por que os homens tendem a ter a região frontal mais desenvolvida e as mulheres, a posterior, assim como os ocidentais se destacam pela primeira e os orientais, pela segunda.
-
-Nesse sentido, uma pessoa com toxinas e febre sutil na região frontal terá o raciocínio disperso, dificuldade de concentração, memória enfraquecida e se entediará com facilidade. O baixo rendimento escolar de muitos estudantes se deve a essa condição. Em minha prática, observei que, à medida que as toxinas do lobo frontal eram eliminadas pelo tratamento, suas notas melhoravam notavelmente. De forma análoga, toxinas e febre na região posterior do cérebro perturbam o campo emocional, tornando a pessoa propensa a estados de ansiedade e irritabilidade.
-
-O que popularmente se atribui a crianças muito irritadiças ou temperamentais obedece a esse mesmo princípio. Ao tocarmos a cabeça de uma criança com esse comportamento, sempre constataremos uma leve febre. À medida que essa febre cede, a irritabilidade desaparece e o desempenho escolar melhora. Contudo, por desconhecerem essa verdade, muitas pessoas recorrem a vermífugos ou simpatias, que, por não atacarem a verdadeira causa, mostram-se pouco eficazes.
-
-Discorramos agora sobre a meningite. Trata-se de um processo de purificação da parte frontal da cabeça, no qual uma ação purificadora intensa se manifesta sobre as densas toxinas acumuladas na membrana do osso frontal. Os sintomas incluem uma dor de cabeça de intensidade insuportável, e o paciente não consegue abrir os olhos devido à extrema sensibilidade à luz. Portanto, a presença de febre altíssima, como fogo, na região frontal, aliada à incapacidade de abrir os olhos, permite diagnosticar a meningite com segurança. A doença é particularmente comum em crianças pequenas, que, por não saberem expressar a dor verbalmente, devem ser diagnosticadas pela combinação da febre alta com os olhos cerrados.
-
-Nesses casos, a medicina recorre às compressas de gelo como principal tratamento, o que constitui o pior erro possível. É por essa razão que, mesmo quando sobrevivem, muitos pacientes desenvolvem sequelas, como deficiências cognitivas. Qual a explicação para isso? Em um curso natural, as toxinas acumuladas seriam liquefeitas pela ação da febre purificadora, fluiriam para baixo e seriam expelidas sob a forma de remela e secreção nasal, resultando na cura completa. A aplicação de gelo, no entanto, reverte esse fluxo: as toxinas liquefeitas, em vez de serem expelidas, são forçadas a penetrar nos tecidos do cérebro, onde se solidificam novamente. O princípio é o mesmo que expliquei no caso da otite, em que o tratamento com gelo desvia o processo purificador para o cérebro. Qualquer método que suprima drasticamente a purificação, como o resfriamento com gelo, interrompe o fluxo das toxinas dissolvidas e o desvia para outra direção. Desse modo, a solidificação de toxinas nos tecidos cerebrais impede seu funcionamento adequado, resultando em sequelas permanentes.
-
-Portanto, o temor de que a meningite, mesmo curada, deixe sequelas terríveis, deve-se, na verdade, ao tratamento equivocado. Curei inúmeros casos de meningite e, invariavelmente, após a recuperação, os pacientes se tornavam ainda mais lúcidos do que antes. As crianças, por exemplo, apresentavam uma melhora tão notável no rendimento escolar que deixavam seus professores perplexos.
-
-A seguir, abordarei a hemorragia cerebral. É de conhecimento geral que essa enfermidade tem se tornado extremamente comum nos últimos tempos. E, assim como a tuberculose acomete mais os jovens, a hemorragia cerebral é mais frequente em pessoas de meia-idade e idosos. Trata-se de uma doença particularmente penosa, pois costuma manifestar-se justamente quando o indivíduo, após acumular vasta experiência de vida e atingir a maturidade, consolida sua carreira e alcança uma posição social de destaque, estando prestes a contribuir significativamente para a nação. A perda é imensa, não só para o indivíduo, mas também para o país e a sociedade.
-
-Uma vez acometida por essa doença, a pessoa pode perder a vida subitamente. Se, por sorte, sobrevive, frequentemente sofre um derrame que paralisa um dos lados do corpo. Em casos mais graves, a mobilidade da língua é afetada, impedindo a fala, e podem ocorrer também danos cerebrais. A recuperação completa é algo que se pode considerar praticamente inexistente; no máximo, observa-se uma melhora parcial em raros casos. Além disso, a doença tem como característica uma evolução longa e penosa, que geralmente culmina na morte. Acrescente-se a isso o sofrimento da perda de autonomia física, que impõe um fardo imenso aos familiares em termos de cuidados e despesas, uma situação verdadeiramente digna de compaixão. A medicina moderna, ademais, admite não possuir nenhum método de tratamento eficaz, tampouco meios de prevenção ou mesmo uma compreensão precisa de suas causas.
-
-De acordo com minhas pesquisas, a doença se desenvolve da seguinte forma: sua causa é a purificação de toxinas ou sangue impuro acumulados próximo ao bulbo e à artéria carótida, em um dos lados do corpo. Quando a purificação se inicia, o calor dissolve essas impurezas, que primeiramente invadem a região central do cérebro e, em seguida, descem rapidamente pela artéria do lado oposto, acumulando-se no braço e na perna. Todo esse processo é extraordinariamente rápido, ocorrendo em uma fração de segundo. É por isso que a paralisia de um lado do corpo se instala de forma quase simultânea ao início da crise.
-
-No momento da manifestação, o rosto da pessoa primeiro adquire uma coloração avermelhada intensa, para logo depois se tornar pálido. O rubor ocorre porque o sangue impuro que invadiu o cérebro transborda para a face; a palidez, porque esse sangue se solidifica em algum ponto, causando anemia. A prática médica, nesses casos, é aplicar gelo com o objetivo de contrair rapidamente os vasos e estancar a hemorragia interna. Tal procedimento, contudo, além de ineficaz para esse fim, acarreta consequências terríveis. O fato é que, após a hemorragia, o sangue extravasado desce ou se solidifica rapidamente, e os vasos se contraem naturalmente em instantes, cessando o sangramento. A aplicação de gelo, portanto, apenas serve para endurecer ainda mais as toxinas remanescentes no cérebro, prejudicando suas funções. Se o resfriamento for prolongado, o cérebro pode se paralisar, levando inclusive à morte. Deve-se considerar, ainda, que a longa duração do estado de inconsciência após uma hemorragia cerebral é, em grande parte, influenciada pelo uso do gelo.
-
-Consequentemente, se uma pessoa acometida por essa doença for deixada em repouso, sem qualquer intervenção médica ou de outra natureza, há casos em que a cura completa pode ocorrer. A esse respeito, há um exemplo ilustrativo. Certa vez, tratei de uma senhora de aproximadamente cinquenta anos, esposa de um homem abastado de uma pequena cidade no nordeste do Japão. Ela sofreu uma hemorragia cerebral e, por sua condição financeira, pôde consultar até mesmo renomados especialistas de Tóquio, submetendo-se a todos os tratamentos disponíveis. Contudo, após quase dois anos, seu estado não só não melhorara, como apresentava sinais de piora.
-
-Na mesma época, na periferia daquela cidade, vivia um humilde agricultor, também na casa dos cinquenta anos, que havia sofrido um derrame na mesma ocasião que a senhora. Um dia, ele foi à casa dela por algum motivo. A senhora, surpresa, questionou-o: "Ouvi dizer que o senhor também tinha sofrido um derrame e estava com um lado do corpo paralisado, mas agora o vejo sem nenhuma sequela, tão saudável quanto antes. O que aconteceu? Que tratamento fez? Que remédio tomou?". O velho agricultor respondeu: "Nós somos pobres, não temos dinheiro para médicos nem para remédios. Por isso, entreguei meu destino aos Céus e fiquei apenas deitado, sem fazer absolutamente nada. Com o passar do tempo, fui melhorando naturalmente". Ao ouvir meu ensinamento, a senhora finalmente compreendeu o porquê daquele desfecho. Tive conhecimento de outros dois ou três casos semelhantes, o que comprova que minha teoria não está equivocada.
-
-Recentemente, uma doença sazonal tem se tornado comum: a encefalite letárgica. Suas causas são objeto de acalorado debate entre os médicos, e a verdadeira origem parece ainda não ter sido determinada. Uma das teorias mais aceitas é a de que a doença é transmitida por mosquitos. Se assim fosse, não deveria haver nenhum caso durante o inverno; no entanto, pacientes surgem ocasionalmente nessa estação. Como explicar isso?
-
-Segundo minhas observações, ao contrair essa doença, a pessoa apresenta, além de febre alta, um acúmulo intenso e constante de toxinas em um dos lados do bulbo. Essas toxinas fluem em direção ao cerebelo. Ao realizar o tratamento na região que vai do bulbo ao cerebelo, o acúmulo no bulbo diminui gradualmente. Em geral, após dois ou três dias, o paciente começa a expelir grande quantidade de remela e secreção nasal. Em casos graves, pode haver sangue misturado a essas secreções. À medida que a eliminação se intensifica, a pessoa desperta gradualmente e inicia sua recuperação. Seguindo esse curso, a cura completa ocorre em cerca de uma semana. Essa é uma doença que, se não receber nenhum tratamento, especialmente a aplicação de gelo, resultará invariavelmente na cura, sem risco de morte.
-
-A explicação é a seguinte: a causa reside na exposição prolongada da cabeça ao sol forte do verão. Esse estímulo faz com que as toxinas presentes nas costas e nos ombros se desloquem rapidamente para o cérebro, invadindo o cerebelo e provocando o estado de sonolência. É por essa razão que a doença é mais comum no verão e afeta principalmente crianças. As toxinas que penetram no cerebelo seguem seu curso para serem expelidas pelos olhos e narinas, o que constitui, obviamente, um intenso processo de purificação. A medicina, entretanto, utiliza principalmente o resfriamento com gelo, fazendo com que as toxinas se solidifiquem no local e não possam ser eliminadas. Com isso, o estado de sonolência persiste, levando o paciente à morte por debilidade.
-
-Existe também a meningite cérebro-espinhal. Essa doença se manifesta com febre alta e uma dor ou rigidez, como um repuxamento, na região que vai da nuca ao bulbo, causando grande sofrimento. Esse quadro se prolonga de forma obstinada, o apetite desaparece e o paciente acaba falecendo por fraqueza. A causa dessa doença é o estágio imediatamente anterior ao da encefalite letárgica, ou seja, as toxinas se acumulam e tentam se solidificar antes de alcançarem o cerebelo. Se, nesse estado, a pessoa se expuser ao sol forte do verão, desenvolverá a encefalite letárgica. Quando a meningite cérebro-espinhal caminha para a cura, suas toxinas são expelidas sob a forma de uma quantidade muito grande de secreção nasal.
-
-Por fim, a concussão cerebral ocorre em decorrência de quedas de lugares altos ou de fortes pancadas na cabeça. Quando há hemorragia interna grave, pode ser fatal. Em casos de sangramento abundante, o paciente vomita profusamente e pode haver também sangramento pelos ouvidos. Se o vômito ocorrer duas ou três vezes, não há risco de morte, mas se acontecer várias vezes, a vida do paciente está em perigo.
-
-Para avaliar a gravidade de qualquer doença cerebral, a frequência dos vômitos é o indicador mais seguro.
-
----
-
-# Prece de Louvor na Consagração do Protótipo do Paraíso
-
-**Categoria:** no | **Ano:** 昭和25(1950)年10月4日 | **Fonte:** Eikou
-**Título Original:** 祝詞 | **Status:** Published
-
-## Prece de Louvor na Consagração do Protótipo do Paraíso
-
-Perante o sublime e augusto Miroku Oomikami, cujo nome é demasiado sagrado para ser proferido, com a mais profunda reverência e humildade, assim nos pronunciamos:
-
-Neste auspicioso dia de outono do vigésimo quinto ano da era Showa, escolhido e predestinado, manifestou-se a Vossa profundíssima Vontade Divina. Conforme Vosso grandioso desígnio de projetar o Paraíso neste mundo, confiaste reverentemente a sublime missão de construir seu protótipo àquele a quem veneramos como Mestre de nossos ensinamentos, Meishu-Sama.
-
-Movidos por essa incumbência, os fiéis, em sintonia com a Vontade Divina, unindo seus corações em pura sinceridade, levantaram-se com fervor e determinação inabaláveis. Ao longo de sete anos, sem jamais desfalecer, quer sob a chuva ou o vento, devotaram-se de corpo e alma à nobre causa. E quão abençoados foram os frutos de tamanha dedicação!
-
-Eis que finalmente se concluiu a magnífica obra: oh, quão sublime é a beleza deste Jardim Divino! Com efeito, sua nobreza, que materializa a Verdade, o Bem e o Belo em sua plenitude, é um feito de tal maestria divina que nos faz imaginar se o próprio Palácio Celestial de Shibi Tenkyuu (紫微天宮) se lhe poderia comparar. Vãs seriam as palavras que tentassem exaltá-lo devidamente.
-
-Embora se apresente hoje como um modesto Recanto dos Sábios Imortais, Shinsen no Sato (神仙の郷), ao chegar o tempo determinado, este precioso jardim, protótipo do Paraíso Terrestre, será conhecido por todas as nações e ilhas, até os mais remotos confins da Terra. Então, de toda parte, multidões incessantes a ele afluirão.
-
-Quando enfim advier a Era de Miroku, toda a humanidade louvará e exaltará as virtudes de Deus. As pessoas se reverenciarão mutuamente e viverão em plena harmonia. A doença, o conflito e a pobreza se desvanecerão como um sonho do passado, e se inaugurará um tempo de paz e serenidade eternas.
-
-O alicerce dessa nova Era foi lançado no cume da célebre montanha de Hakone, em solo sagrado escolhido e purificado por Deus. Ali, com os pilares do santuário fincados profundamente na rocha, ergueu-se o novo Nikkouden, cujo aroma de madeira fresca preenche o ar. E neste Templo, os fiéis se reúnem em tal número que mal há espaço, rejubilando-se e celebrando este dia abençoado, que marca o despontar do Paraíso em nosso mundo.
-
-Oh, que alegria a deste Grande Ofício! Que as palavras de louvor e gratidão com que enaltecemos as grandiosas obras de Deus ecoem com vigor pelos Céus e alcancem os confins da Terra! Que ressoem por incontáveis gerações, por toda a eternidade.
-
-Que possamos receber Vossas imensuráveis bênçãos de forma cada vez mais profunda. Com essa súplica, humildemente nos prostramos e, com a mais sincera devoção, elevamos nosso rogo:
-
-Ó, Miroku Oomikami, protegei-nos e abençoai-nos!
-
-Seguindo a Vossa Vontade, que nosso espírito prospere em felicidade!
-Seguindo a Vossa Vontade, que nosso espírito prospere em felicidade
-
----
-
-# A Cura Milagrosa e a Cegueira do Mundo
-
-**Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** ノーベル賞的偉効 未発表 | **Status:** Unpublished
-
-## A Cura Milagrosa e a Cegueira do Mundo
-
-Dentre as diversas enfermidades infantis, a mais desoladora de todas é, sem dúvida, a paralisia infantil, tida pela medicina como uma doença absolutamente incurável. Por conseguinte, mesmo que as crianças sejam internadas, os médicos não visam à sua recuperação, mas sim à sua utilização como material de pesquisa. Os pacientes, em uma situação verdadeiramente lastimável, acabam por pagar para servir de cobaias.
-
-No entanto, e de forma verdadeiramente assombrosa, conforme o relato de graça a que me refiro, um dos casos mais severos de paralisia infantil evoluiu para a cura de maneira extraordinariamente favorável, com o paciente se restabelecendo por completo em apenas seis meses. Tal fato constitui um acontecimento de imensa magnitude.
-
-Se um resultado tão extraordinário fosse fruto da medicina, certamente geraria uma comoção sem precedentes. A associação médica o anunciaria em escala nacional, os jornais estampariam a notícia em suas manchetes, e o médico responsável alcançaria fama mundial da noite para o dia, tornando-se, sem dúvida, um laureado de renome internacional.
-
-Contudo, por uma triste ironia, pelo simples fato de se tratar de um fenômeno religioso, um feito desta magnitude será completamente ignorado por acadêmicos e intelectuais. Essa verdade será, inevitavelmente, relegada ao esquecimento, o que demonstra que o mundo, em verdade, jaz em completa escuridão e ignorância.
-
-Ainda assim, não nos cabe a indignação. Afinal, por se tratar da salvação concedida pelo Messias, é uma certeza absoluta que chegará o tempo em que o mundo inteiro a compreenderá de uma só vez.
 
 ---
 

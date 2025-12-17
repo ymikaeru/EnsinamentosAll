@@ -3,7 +3,7 @@
 # miosie24
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-15
 
 ――― COLETÂNEA DE DISSERTAÇÕES DO MESTRE JIKAN OKADA ―――
 Coletânea de Ensinamentos, nº 24, publicado em 15 de agosto de 1953
@@ -277,7 +277,7 @@ As pessoas se maquiam incessantemente por causa da superstição de que, sem maq
 # Ensinamento (11 de novembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月11日） | **Status:** Published
+**Título Original:** 御教え （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Ensinamento (11 de novembro de 1951)
 
@@ -436,7 +436,7 @@ As pessoas falam muito sobre o bem e o mal. É um tema sobre o qual poucos disco
 # — Coletânea de Teses do Mestre Okada Jikanshi —
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月28日） | **Status:** Published
+**Título Original:** 御教え （S26年10月28日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## — Coletânea de Teses do Mestre Okada Jikanshi —
 Pesquisa de Ensinamentos: help Pesquisa de Materiais: Ensinamento (28 de outubro de 1951)
@@ -567,7 +567,7 @@ Há mais um ponto: a origem das injeções, tão em voga hoje. A crença de que 
 # Coletânea de Ensaios do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 8
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-04-20
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 8
 Publicado em 20 de abril de 1952 (Showa 27)
@@ -1177,7 +1177,7 @@ Em Atami, a montanha de azaleias, com três mil e seiscentas plantas, e os treze
 # 8 de novembro de 1951
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月8日） | **Status:** Published
+**Título Original:** 御教え （S26年11月8日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## 8 de novembro de 1951
 
@@ -1265,7 +1265,7 @@ Outro ponto: o recente anúncio da safra foi de sessenta milhões e seiscentos e
 # Ensinamento de 15 de outubro de 1951 (Da Coleção de Ensinamentos, nº 3)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月15日） | **Status:** Published
+**Título Original:** 御教え （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamento de 15 de outubro de 1951 (Da Coleção de Ensinamentos, nº 3)
 
@@ -1331,7 +1331,7 @@ No jornal de hoje, saiu uma notícia sobre a vacina BCG. Foi decidido que sua ap
 # Ensinamento (11 de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月11日） | **Status:** Published
+**Título Original:** 御教え （S26年8月11日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (11 de agosto de 1951)
 Publicado na Coletânea de Ensinamentos n.º 1, em 20 de setembro de 1951
@@ -1403,7 +1403,7 @@ Tudo isso indica que o Mundo de Miroku se aproxima gradualmente, e, por consegui
 # Coletânea de Artigos do Mestre Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-12-15
 
 ## Coletânea de Artigos do Mestre Jikan Okada
 ## Coletânea de Ensinamentos, nº 28
@@ -1643,7 +1643,7 @@ Estou escrevendo sobre a "bomba atômica assassina" e a "bomba atômica que vivi
 # Ensinamento (8 de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月8日） | **Status:** Published
+**Título Original:** 御教え （S26年8月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (8 de agosto de 1951)
 Publicado em "Coletânea de Ensinamentos", vol. 1, em 20 de setembro de 1951.

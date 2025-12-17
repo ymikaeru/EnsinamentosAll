@@ -1,9 +1,530 @@
 # Mioshie_Teachings - Part 28
 
+# Uma Ascensão aos Alpes Japoneses
+
+**Categoria:** a | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** アルプス紀行 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.37 | **Data ISO:** 1949-08-30
+
+## Uma Ascensão aos Alpes Japoneses
+
+Há mais de duas décadas, em uma época em que o montanhismo me entusiasmava sobremaneira, decidi empreender a escalada do Monte Yari, nos Alpes Japoneses. Em meados de agosto daquele ano, acompanhado de minha esposa, partimos de trem para Matsumoto, na província de Shinshu, de onde prosseguimos, passando por Omachi, até alcançarmos as fontes termais de Nakabusa. Curiosamente, o trecho final, com cerca de uma légua, revelou-se demasiado árduo para minha esposa, que, devido às dificuldades do íngreme caminho montanhoso, precisou recorrer ao auxílio de um carregador profissional. O arranjo era deveras peculiar e cômico: ela sentava-se de costas em uma caixa quadrada de madeira, agarrando-se a uma barra disposta à sua frente. Outro fato pitoresco foi o trajeto de duas ou três léguas entre Omachi e o sopé da montanha, que percorremos em um riquixá cujo veículo era tracionado à frente por um guia que, para nossa surpresa, era um cão de grande porte.
+
+O balneário de Nakabusa era frequentado quase que exclusivamente por montanhistas. Após me informar, disseram-me que a ascensão ao Yari seria impraticável para mulheres. Assim, deixei minha esposa na pousada e, na companhia de um guia local, parti sozinho ao romper da alva. Por volta das dez horas da manhã, cheguei a uma casa de chá no Monte Tsubakuro, a uma altitude de cinco mil pés. O panorama que se descortinou era de uma beleza indescritível: uma sucessão de montanhas rochosas a perder de vista, cujas encostas abrigavam neve milenar, resplandecente sob a luz do sol. Fiquei não apenas maravilhado, mas verdadeiramente estarrecido. Embora já tivesse escalado diversas montanhas, nenhuma se comparava à grandiosidade dos Alpes. Faltam-me, de fato, palavras para traduzir tal magnificência.
+
+A partir dali, a trilha tornou-se progressivamente mais íngreme. Passando pelos montes Jonen e Otensho à minha esquerda, cheguei, por volta do meio-dia, a um abrigo de montanha, onde fiz uma refeição. A jornada prosseguiu por um terreno cada vez mais adverso, até desembocar na chamada trilha Kisak Shindo, um atalho recém-aberto por um renomado guia da época, de nome Kisak. Em virtude de sua recente criação, o percurso apresentava trechos de extrema periculosidade. Havia um ponto, em particular, onde à direita se erguia uma parede rochosa a prumo, e à esquerda, um abismo de profundidade vertiginosa, um desfiladeiro de mil braças. A senda ali se estreitava a não mais que trinta centímetros de largura por cerca de três metros de comprimento.
+
+Hesitei por um momento, mas recuar já não era uma opção, pois o caminho percorrido era demasiado longo. Foi quando compreendi, na pele, o significado da expressão “encontrar-se em um beco sem saída”. Reunindo toda a minha coragem, iniciei a travessia. Pressionei o corpo contra a rocha, tal como um morcego, e, com passos laterais e cautelosos, à maneira de um caranguejo, venci o obstáculo. Ao chegar ao outro lado, a sensação foi a de ter escapado da própria morte. Para que se tenha uma ideia do perigo, ouvi jovens estudantes declararem que, no retorno, por mais longo que fosse o desvio, jamais passariam por ali novamente.
+
+A montanha tornava-se cada vez mais íngreme, mas meu objetivo, o cume do Monte Yari, já se destacava ao longe, recortado contra o céu vespertino. Com um último esforço, cerrei os dentes e empreguei todas as minhas forças, alcançando o topo quando a penumbra já se adensava. Pouco depois, cheguei ao abrigo de montanha conhecido como Sessho-goya, onde desabei, exausto a ponto de me sentir como um morto. E não era para menos: a jornada desde Nakabusa até o cume totalizara treze léguas. Eu havia completado em um único dia um percurso que normalmente leva dois. Para se ter uma dimensão do feito, nem mesmo o Príncipe Chichibu, conhecido por seu vigor atlético, logrou fazê-lo em menos de dois dias. Foi, portanto, uma imprudência de minha parte.
+
+Após a refeição, recolhi-me para dormir. Embora estivéssemos em meados de agosto, a paisagem era coberta de neve, e o frio, intenso. O abrigo possuía um assoalho rudimentar, composto por tábuas dispostas sobre toras a uns quinze centímetros do chão. Sobre ele, uma esteira de junco e um *futon* fino como um biscoito. Cobria-nos apenas uma única e delgada manta. Dormir em tais condições era impossível. Havia uma fogueira acesa, mas seu calor era insuficiente para mitigar o frio cortante. Para agravar a situação, três pessoas precisavam compartilhar um único *yonofuton*, um colchão de tamanho maior. Fiquei ao meio, ladeado por dois estudantes. Como nenhum de nós conseguia pregar o olho, movíamo-nos constantemente, tornando o sono ainda mais improvável. Foi uma verdadeira provação. A noite transcorreu sem que eu conseguisse dormir um instante sequer.
+
+A noite deu lugar à alvorada. Ao notar a claridade que invadia o exterior, levantei-me e saí para a higiene matinal. Havia um lavatório improvisado entre as rochas, mas, a uma altitude de mais de dez mil pés, não há uma gota de água corrente. Utilizava-se neve derretida, o que tornava a ablução tão superficial quanto a de um gato a limpar o rosto. Enquanto inspirava profundamente o ar puro e revigorante da montanha, contemplei o céu a leste. Sobre um vasto mar de nuvens, o sol nascente principiava a despontar, e sua luz delineava com nitidez o contorno das cordilheiras, desde o Monte Asama até as montanhas de Kiso. Ao longe, sobrepujando todas as outras elevações, a figura majestosa do Monte Fuji impunha-se como um soberano. Posso afirmar que essa visão superou em beleza até mesmo o nascer do sol que presenciei do cume do próprio Fuji. Um fato curioso ocorreu quando assinei o livro de visitas: a grande maioria dos hóspedes estava na casa dos vinte anos; os de trinta eram raros. Não havia um único montanhista com meus quarenta e tantos anos, o que me encheu de um certo orgulho.
+
+Após o desjejum, uma curta subida nos levou à “ponta da lança” do Monte Yari, uma formação rochosa cilíndrica com cerca de dez metros de altura, que se ergue a prumo, fiel ao seu nome. Escalei o primeiro terço, mas, a partir dali, a parede era quase vertical, e a ascensão dependia de uma corrente suspensa. Com as mãos enrijecidas pelo frio, o risco era imenso. Se meus pés escorregassem, eu ficaria pendurado, pois a inclinação da rocha era praticamente negativa. Ao saber que um estudante do colégio de Sendai havia caído para a morte naquele mesmo local no ano anterior, perdi toda a vontade de prosseguir. Desisti e retornei. De fato, apenas uma em cada cinco pessoas se arrisca a completar a escalada.
+
+Em contraste com o dia anterior, a descida foi muito mais fácil. Contudo, deparei-me novamente com uma situação de vida ou morte. Após descer cerca de uma légua, cheguei a um campo de neve. Eu avançava lentamente, apoiando-me em meu cajado, quando, em um descuido, perdi o equilíbrio. A neve perene, muito mais compacta e dura que a neve comum, cobria uma encosta íngreme, e comecei a deslizar, ganhando velocidade a cada instante. Naquele momento, resignei-me à morte. Todavia, após deslizar por uns vinte ou trinta segundos, quando parecia que o Divino já não me amparava, o terreno tornou-se mais plano, e meu pé chocou-se contra uma pequena rocha, detendo minha queda. A alegria que senti naquele instante foi uma emoção que jamais esquecerei.
+
+O trecho de neve ainda não havia terminado, e prossegui com cautela redobrada, movendo-me com a lentidão de uma formiga. Foi quando, ao olhar para baixo, notei, estarrecido, a presença de grandes fendas na neve. Espiei uma delas com temor: tratava-se de neve acumulada ao longo de milênios, de uma profundidade inimaginável, cujo fundo se perdia na mais completa escuridão. A ideia de que, se eu caísse ali, repousaria para sempre sob dezenas de metros de gelo, fez-me estremecer por um longo tempo.
+
+Perto do meio-dia, alcancei o abrigo de Yarisawa, onde almocei. Pouco mais abaixo, cheguei às margens do rio Azusa. Nos pontos em que o leito do rio fazia curvas, havia pontes improvisadas com um único tronco de árvore. Para alguém inexperiente, atravessá-las é uma tarefa de enorme perigo. Olhando para baixo, a correnteza revolta fluía a vários metros de distância. Sem alternativa, montei no tronco e, abraçando-o com ambas as mãos, arrastei-me lentamente, como um inseto, até a outra margem. Lembro-me de ter enfrentado quatro ou cinco passagens como essa.
+
+Superados esses obstáculos, cheguei finalmente à tão sonhada região de Kamikochi. Trata-se de uma vasta floresta que jamais conheceu o corte do machado, um lugar onde a energia da montanha se faz sentir intensamente. A vegetação exuberante, com árvores e plantas nunca antes vistas, criava a atmosfera de um mundo à parte, distante da civilização. Tive a impressão de que, a qualquer momento, um sábio de barbas brancas poderia surgir diante de mim. Creio que essa descrição basta para que se possa imaginar o cenário. Hoje, porém, com a construção de hotéis, a região tornou-se mais acessível, e suponho que a aura de reino encantado que vivenciei tenha se dissipado em grande parte. Quase me esquecia de mencionar a beleza cênica do rio Azusa, com seus bancos de areia onde salgueiros de um verde vibrante crescem em abundância. Ao longe, o Monte Yake, de solo avermelhado, desenha uma suave silhueta contra o céu. À esquerda, por sua vez, avistam-se, por trás da passagem de Tokugo, os picos imponentes de Mae-Hotaka e Oku-Hotaka, as montanhas com o maior registro de acidentes dos Alpes.
+
+Finalmente, cheguei à pousada Shimizu-ya, também conhecida como Gosenjaku Onsen, onde pude enfim repousar e me recuperar da exaustão acumulada. Embora se chame *onsen*, trata-se de uma fonte de água mineral aquecida. Na manhã seguinte, fui ao rio Azusa para lavar o rosto e tremi com a água gélida. Contudo, fiquei igualmente assombrado com seu sabor. Creio que jamais provei água tão deliciosa em toda a minha vida. Disseram-me que sua pureza se deve ao fato de fluir através de rochas de granito. Em seguida, cruzei a passagem de Tokugo e, no caminho, consegui carona em um caminhão de obras da montanha. Ao entardecer, cheguei a Shimashima, onde tomei a ferrovia de Chikuma e, posteriormente, um trem de volta a Nakabusa. Ali, reencontrei minha esposa e, juntos, retornamos a Tóquio.
+
+---
+
+# O Método para Discernir os Maus
+
+**Categoria:** a | **Ano:** 昭和24(1949)年7月9日 | **Fonte:** -
+**Título Original:** 悪人を見別ける法 | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1949-07-09
+
+## O Método para Discernir os Maus
+
+Ao longo de minha vida, tive a oportunidade de me aproximar de inúmeras pessoas e compreendi que, para navegar pelas vicissitudes do mundo, a habilidade mais crucial é a de discernir entre os homens de bem e os de índole maligna. Essa percepção tornou-se ainda mais nítida em tempos recentes, em virtude do grande número de extorsores que têm surgido. Contudo, é curioso notar que esses indivíduos possuem traços muito característicos, os quais passarei a descrever.
+
+Primeiramente, são possuidores de uma eloquência notável. É comum que, mesmo mantendo a cautela, a pessoa se sinta cativada por sua maneira de falar; neste ponto, quase não há exceções. Ademais, costumam se expressar em voz alta e demonstram uma persistência extraordinária. Outro aspecto digno de nota é a existência de dois tipos distintos, o que torna a análise interessante: há aqueles de semblante intimidador e, em oposição, os que se apresentam com extrema afabilidade. Geralmente, imagina-se que os malfeitores possuam uma fisionomia aterradora, mas, na maioria dos casos, ocorre justamente o contrário. Eles se revelam, na verdade, sobremaneira gentis e amistosos. De fato, se refletirmos, uma aparência ameaçadora despertaria a desconfiança alheia, diminuindo as chances de sucesso. Uma abordagem cordial, por outro lado, torna a vítima consideravelmente mais suscetível ao engano.
+
+Passemos agora aos homens de bem. Em minha longa experiência, observei que, entre eles, os de pouca habilidade com as palavras são mais numerosos do que os eloquentes e, ademais, os resultados de seu trabalho são superiores. Isso tem sua lógica: a eloquência pode facilmente se tornar uma ferramenta para o logro, levando o indivíduo a trilhar o caminho do estelionato para prosperar na vida. Por outro lado, aquele que não possui o dom da oratória é incapaz de iludir seus semelhantes. Sendo assim, busca alcançar o reconhecimento por meio de sua competência e de seu esforço, o que, por conseguinte, culmina no resultado que mencionei anteriormente.
+
+---
+
+# A Realidade da Medicina Ocidental
+
+**Categoria:** a | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 或記事 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+
+## A Realidade da Medicina Ocidental
+
+A seguir, a título de apêndice, transcrevo um trecho que considero de grande interesse. Trata-se do capítulo “A Realidade da Medicina Ocidental”, extraído do livro “Quem Destruirá o Japão?”, de autoria do Sr. Yukikazu Sakurazawa (桜沢如一), publicado pela editora Seishi Shoin em 5 de outubro de 1941.
+
+A medicina ocidental, que no século XVIII ascendeu com o ímpeto do sol nascente e atingiu o apogeu de sua glória no final do século XIX, empregou sua artimanha de matiz jesuítico — a saber, o microscópio, o bisturi, os anestésicos, os soros e as terapias por radiação — para ludibriar e seduzir por completo as massas de todo o Ocidente. Com a abertura dos portos, os japoneses acorreram a essa medicina e, fiéis ao seu espírito inato de imersão total, não tardaram a mergulhar profundamente nesta arte médica fascinante, não se deixando superar por ninguém. Para tanto, não hesitaram em abandonar de imediato tradições milenares, sem sequer se dar ao trabalho de reavaliá-las.
+
+Contudo, no Ocidente, com o advento do século XX, os prós e contras dessa medicina analítica tornaram-se gradualmente evidentes. Em especial, após experimentarem a amarga desilusão com os ideais da civilização científica ocidental durante a Grande Guerra Europeia, as pessoas, imersas num profundo abismo de incerteza, passaram a desconfiar também da medicina, que se ocultava sob a máscara da ciência, ameaçadas pelo aumento das doenças incuráveis e pela queda da expectativa de vida. Com base em minha modesta observação, desconheço, na classe intelectual europeia, quem ainda deposite confiança na chamada medicina ocidental. Exemplificar fatos que corroboram essa afirmação é sobremaneira fácil. Conforme declarou o Dr. Alanje, o médico de hoje, nos países civilizados do Ocidente, tornou-se um mero prestador de serviços ao paciente: ora é um operário que aplica bandagens ou realiza cirurgias, ora é o carcereiro de hospitais psiquiátricos, que na realidade são prisões com alojamento, ora é uma espécie de escrivão, cuja especialidade é assinar os mais diversos certificados — de incapacidade laboral, de exames de fezes, de óbito, entre outros —, garantindo assim, a duras penas, seu sustento. O médico que rebaixou a arte da cura a uma mera profissão é uma espécie de parasita social; contudo, mesmo essa vida parasitária, sustentada pelos doentes, já chegou a um impasse.
+
+Ademais, desde 1929, tenho conhecimento de que o presidente da Ordem dos Médicos da França envia anualmente uma correspondência a todos os formandos do ensino médio, desaconselhando-os a seguir a carreira médica. Segundo ele, a França já está saturada de médicos, havendo um para cada mil e quinhentos habitantes. Este fato estatístico implica que, a menos que a estabilidade financeira do indivíduo esteja garantida por patrimônio próprio, permitindo-lhe contribuir e servir à sociedade através da arte médica sem visar a qualquer remuneração, o desejo de se tornar médico deve ser categoricamente abandonado. Como afirma o Dr. Alanje, na prática, o médico e a medicina ocidental perderam a honra, depois a credibilidade e, por fim, até mesmo o seu sustento. A tendência por práticas não médicas e por profissionais que não são médicos avança dia após dia, com a medicina integrativa à frente desse movimento. Que este cenário não se restringe aos franceses, mas abrange todo o Ocidente, pode-se compreender na obra “As Novas Tendências da Medicina Ocidental”.
+
+O fato de os japoneses ainda ignorarem tal realidade pode parecer, à primeira vista, extremamente peculiar e inacreditável, mas há uma explicação para isso. Em suma, os japoneses ainda não conhecem o Ocidente. Continuam ofuscados pela prestidigitação dos antigos missionários. E, assim como o fizeram por setenta anos desde a abertura do país na Era Meiji, investem anualmente somas vultosas na busca incessante por esses métodos mágicos e fascinantes — o bisturi, a radiação, o microscópio, os anestésicos, a eletricidade, o magnetismo e uma infinidade de novos medicamentos. Quando viajam ao Ocidente, eles se entregam de corpo e alma à pesquisa de uma medicina ocidental que já perde o seu brilho, sem jamais levantar os olhos para contemplar o vasto horizonte do mundo ocidental. E quando os professores renomados são enviados, naturalmente, inspecionam apenas os campos que lhes são familiares.
+
+Desejo esclarecer, contudo, que nem em sonho pretendo criticar a medicina ocidental ou os médicos. Seja como professores ou clínicos, eles exercem um ofício — fazem-no pelo pão de cada dia — e, portanto, não devem ser mais condenados do que aqueles que exploram a mais-valia alheia ou os que se apropriam do que não lhes pertence, pois este mundo é de grande tolerância. Apenas penso que, na busca pelo mesmo sustento, aqueles que precisam acumular o carma de levar a humanidade à beira da ruína, lucrando com os pecados e as doenças alheias (e prejudicando o mecanismo de seleção natural com seus medicamentos), tiveram um sorteio mais desafortunado na vida do que aqueles que, para sobreviver, precisam pescar nos mares ou caçar nas montanhas, ceifando a vida de outras criaturas. A meu ver, o delito daqueles que, ao roubarem os bens alheios, expõem-se imediatamente à punição, é consideravelmente menor.
+
+Ainda assim, não se deve, nem em sonho, pensar em ter pena das pessoas que sofrem nas mãos dos médicos. A relação entre eles e os médicos que os exploram (seja de seus bens, seja de sua vida) é análoga à do tolo com o ladrão. Sob a perspectiva de que são eles que criam os médicos, seu pecado é mais grave. Contudo, como são eles que padecem, pode-se dizer que, através de seu sofrimento, o pecado é, de alguma forma, redimido.
+
+---
+
+# A Gênese do Mal e a Doença
+
+**Categoria:** a | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 悪の発生と病 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+
+## A Gênese do Mal e a Doença
+
+Conforme exposto anteriormente, em face dos noventa e nove por cento de mal, a parcela ínfima de um por cento de bem manifestar-se-á, empunhando o poder divino absoluto para não apenas corrigir a cultura estabelecida, mas também para erigir uma nova. Em suma, trata-se de uma completa inversão de valores. Esta é a essência do Plano Divino para o futuro, cujo desígnio sem precedentes transcende a imaginação. A esse respeito, podemos evocar a alegoria do fruto proibido, narrada no livro do Gênesis do Antigo Testamento. Trata-se, evidentemente, de uma metáfora, pois a história de Adão e Eva no Jardim do Éden oculta um mistério divino de extrema profundidade. Procederei a desvendá-lo paulatinamente, mas advirto que, para compreendê-lo, é imperativo que o leitor se despoje de todas as ideias preconcebidas; do contrário, sua apreensão será impossível.
+
+Desnecessário dizer que o mal teve sua gênese no ato de se comer o fruto. Pois bem, o fruto simboliza o remédio. É pelo remédio que a doença é criada, e é por meio da doença que o mal se manifesta. Contudo, desde antes da era cristã, a humanidade começou a utilizar tais substâncias com o propósito de curar enfermidades, mal sabendo que o fruto proibido se referia precisamente a elas. Ao tomar conhecimento desse fato, decerto não haverá quem não se espante, atônito. Qual a razão para algo tão inconcebível? Para elucidá-la, é necessário expor a questão de forma exaustiva, tanto na teoria quanto na prática. Peço, portanto, que abram bem os olhos da alma para o que se segue.
+
+Conforme já elucidei, o ser humano é constituído de espírito e matéria, sendo o espírito o principal e a matéria, o secundário. Este princípio já deve estar claro. Nesse sentido, a origem do mal reside na mácula que se forma no espírito; esta mácula, somada à atuação de espíritos de animais que já se encontravam encostados e outros que vieram a se encostar posteriormente, impele o ser humano a praticar atos de natureza animal. Tais atos consubstanciam o mal. Em suma, se a mácula espiritual é o próprio mal, sua erradicação depende, logicamente, da purificação do espírito. Todavia, é aqui que reside o grande problema, pois a causa dessa mácula é justamente o remédio. A mácula espiritual é um reflexo do sangue impuro, e o sangue impuro, por sua vez, é gerado pelo remédio. Logo, se o ser humano deixasse de utilizar medicamentos, o mal não se manifestaria. Com essa compreensão, torna-se evidente que o fruto proibido – ou seja, o remédio – é a causa fundamental da Gênese do Mal.
+
+Neste ponto, devo registrar outro fato de suma importância. Conforme mencionado, o remédio, que gerou o mal com o fito de acelerar o progresso da civilização, desempenhou também outra função crucial: a de interferir no processo natural de purificação, cujo objetivo é eliminar as impurezas do sangue. Naturalmente, o acúmulo de máculas espirituais afeta a saúde e obstrui as atividades inerentes ao ser humano. Contudo, devido à imaturidade da inteligência humana, interpretou-se equivocadamente o sofrimento decorrente como algo negativo. Na ânsia de se livrar da dor da doença, o homem começou a recorrer aos medicamentos. Ocorre que, para deter o processo de purificação, é preciso debilitar o corpo; com o corpo enfraquecido, a purificação também se atenua, e a dor é aliviada. O ser humano incorreu no equívoco de acreditar que isso fosse o processo de cura. Com efeito, este erro fundamental foi a causa primordial da criação do mundo infernal e repleto de sofrimento em que vivemos hoje.
+
+Sob essa ótica, fica claro que o remédio, por sua toxicidade, apenas atenua a dor e o sofrimento. Ele não possui a mais ínfima capacidade de curar; ao contrário, seu veneno torna-se a própria causa da doença. Tal ignorância é tamanha que faltam palavras para descrevê-la. Contudo, por mais surpreendente que pareça, essa cegueira em relação à doença encerrava um profundo desígnio divino, o qual passarei a detalhar.
+
+Para promover o desenvolvimento da civilização, havia dois métodos. O primeiro, como já expliquei, consistia em criar o mal para que ele combatesse o bem. O segundo, em debilitar a saúde do ser humano. O primeiro método já foi abordado, portanto me deterei no segundo. Ao observarmos a história da humanidade desde os tempos primitivos, vemos que, no início, o homem vivia em um estado de natureza pura. Sua alimentação, vestuário e moradia eram semelhantes aos dos animais, assim como sua saúde e força física. Ele percorria constantemente montanhas e campos, lutando contra feras, serpentes venenosas e toda sorte de animais. Pode-se dizer que isso constituía a totalidade da vida humana naquela era.
+
+À medida que a necessidade desse comportamento animalesco e violento diminuía, iniciaram-se e intensificaram-se gradualmente as lutas entre os próprios seres humanos. Por meio desses conflitos, a inteligência humana desenvolveu-se sobremaneira, e, ao longo de eras, finalmente deu origem à cultura. Por essa razão, podemos imaginar que, se, desde o princípio, a vida transcorresse em paz e harmonia, a humanidade permaneceria no estágio primitivo, ou com um progresso mínimo. O desenvolvimento do conhecimento seria escasso, e os homens se contentariam em viver como selvagens.
+
+Entretanto, como mencionei, ao comer o fruto proibido, a doença e o mal foram criados. Pelo fato de a humanidade jamais ter se dado conta disso, ela mergulhou na profunda superstição do remédio que perdura até hoje, perpetuando o mais grave dos equívocos. A par disso, o ser humano, que outrora possuía uma saúde primitiva, foi enfraquecendo à medida que conquistava os animais e obtinha segurança para sua vida. Em contrapartida, seu conhecimento avançou. Passou então a construir estradas planas e a utilizar cavalos e bois para puxar carroças, deslocando-se sem precisar caminhar. Isso no Japão. No exterior, idealizou-se o trem, que corria sobre trilhos movido a carvão, e, em um estágio mais avançado, criaram-se meios de transporte maravilhosos e práticos como o automóvel e o avião. Paralelamente, desenvolveram-se máquinas como as que utilizam eletricidade e o rádio. Ademais, para reduzir o infortúnio humano, o conhecimento progrediu em todas as esferas da cultura – política, economia, educação, moral, arte, etc. –, dando origem a engenhosos sistemas e instituições que, com seu avanço e desenvolvimento, construíram a sociedade civilizada atual. Em última análise, tudo isso não passou de uma preparação para o estabelecimento do vindouro Reino do Céu na Terra.
+
+Pelo exposto, o propósito fundamental da medicina era criar o mal e debilitar a saúde do ser humano, e, conforme o esperado, o mundo tal como o conhecemos foi edificado. Contudo, avançar para além deste ponto exporia a humanidade ao risco de sua própria aniquilação. Por essa razão, Deus determinou que o progresso não deveria prosseguir, e, para efetuar a grande transição da civilização, revelou-me a Verdade. Chegou, portanto, o tempo de restringir o mal até certo ponto e erigir uma civilização na qual o bem é o principal e o mal, o secundário.
+
+---
+
+# O Desvario da Ciência Médica
+
+**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 嗚呼医学の迷蒙 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## O Desvario da Ciência Médica
+
+Ao analisarmos o histórico deste paciente, observamos um calvário de onze anos sob cuidados médicos. Apesar de se submeter a tratamentos e consumir medicamentos em profusão, seu estado apenas se agravava, levando-o, em seu desespero, a cogitar o suicídio. Tamanha angústia é perfeitamente compreensível.
+
+Com efeito, as falácias da ciência médica, que venho expondo, encontram neste caso uma comprovação inequívoca. Sintetizo-as nos seguintes pontos:
+
+Primeiro: O disparate dos diagnósticos. O médico inicial apontou uma doença pulmonar; o seguinte, uma afecção gástrica; o terceiro, pleurisia seca; e o último, beribéri.
+
+Segundo: A criação de novas enfermidades pelos remédios. Este fato torna-se manifesto pelo surgimento sucessivo de moléstias secundárias durante o período em que o paciente se encontrava em tratamento.
+
+Terceiro: A comprovação da purificação por meio do Johrei (浄霊). Ao começar a receber Johrei, o enfermo passou a apresentar uma sudorese profusa e diária. Concomitantemente, o odor de todos os medicamentos que havia ingerido impregnou o ambiente de forma tão intensa que se tornava insuportável.
+
+Diante de tais fatos, maiores comentários se tornam desnecessários. A causa fundamental de tamanho sofrimento reside na fé cega depositada em uma ciência médica sumamente pueril, e na incapacidade das pessoas de discernir seu equívoco até os dias de hoje. As vítimas dessa situação são dignas de profunda compaixão, e, portanto, não seria exagero afirmar que vivemos em uma verdadeira Era do Terror Médico.
+
+---
+
+# Corrigindo os Malfeitores
+
+**Categoria:** a | **Ano:** 昭和27(1952)年2月20日 | **Fonte:** Eikou
+**Título Original:** 悪人をひねる | **Status:** Published | **Edição/Página:** 144号 | **Data ISO:** 1952-02-20
+
+## Corrigindo os Malfeitores
+
+Ao se depararem com este título, muitos talvez o considerem bastante peculiar; contudo, creio ser esta a forma mais apropriada de expressar a ideia. Mas o que, afinal, ele significa? Significa que, neste mundo, é excessivo o número de indivíduos de má índole que, até hoje, tentaram me ludibriar ou me passar para trás. Por eu ser um religioso e aparentar ser uma pessoa boa – e não apenas aparento, pois o sou de fato –, com um semblante que lhes parece sereno como o de um Buda, eles me subestimam e avançam. Tais pessoas são versadas em astúcia e malícia, capazes de urdir as mais complexas maquinações. Existem também aqueles de elevada posição social, homens audaciosos e impositivos. Estes, desde o início, tentam me engolir por inteiro, como uma jiboia que devora sua presa. Nesses casos, eu me deixo ser envolvido a princípio, para então, serenamente, traçar minhas contramedidas. Não se trata, todavia, de nenhum método extraordinário; minha abordagem é extremamente séria e convencional. Justamente por isso, eles não percebem nada, tornam-se presunçosos, deixam-se levar pela arrogância e aprofundam seu ataque. No entanto, enquanto mantenho firme controle sobre o ponto nevrálgico da situação, permito que ajam conforme sua vontade. Eles tentam de tudo, mas como nada sai como o planejado, parecem prestes a desistir, embora relutem em fazê-lo. Pelo contrário, ficam à espera, pensando: “Aquele tal de Okada já deve estar no limite; não tardará a nos propor um acordo”. Eu, por minha vez, permaneço perfeitamente tranquilo, ignorando-os e agindo como se nada estivesse acontecendo. Sem ter o que fazer, eles acabam por esgotar todos os seus recursos. Sua situação se torna cada vez mais desvantajosa e, à medida que o desespero aumenta, tudo piora, até que, finalmente, são forçados a capitular. Isso ocorre com frequência.
+
+Há também os mais ardilosos, que empregam meios engenhosos para tentar extrair dinheiro de mim, elaborando estratagemas e investindo de forma obstinada com toda sorte de artifícios. Em suas mentes, partem do princípio de que a Igreja Messiânica possui vastos recursos e que seu líder, sendo praticamente um deus vivo, é ingênuo quanto às coisas do mundo e, portanto, certamente lhes dará uma soma considerável. Subestimam-me, supondo que, mesmo que me causem algum prejuízo, eu acabarei por desistir para evitar o incômodo de uma disputa judicial. Ocorre que, como consigo ver com clareza suas reais intenções, sou capaz de me antecipar às suas tramas e reverter o jogo. Suas previsões falham, eles se veem de mãos atadas, e todo o seu esforço resulta em um monumental desperdício de tempo e energia. Assim sendo, não há por que sentir a menor compaixão por eles.
+
+Ao escrever estas palavras, é possível que alguns pensem que Meishu-Sama, de uma forma que não condiz com um religioso, é na verdade impiedoso. Do ponto de vista de Deus, contudo, essa postura é a correta. A Vontade Divina, em sua essência, consiste em amparar o bem até as últimas consequências, mas não tolera o mal, nem mesmo na sua mínima expressão. É este também o sentido do que sempre afirmo: é imperativo triunfar sobre o mal. Há um ditado popular que descreve alguém como uma pessoa "difícil de engolir", referindo-se a um indivíduo astuto, do qual não é fácil se aproveitar. A expressão carrega uma conotação negativa, e seu oposto seria alguém "bom, porém inútil". Diante disso, parece convencionado que os malfeitores são sempre do tipo "difícil de engolir". A verdade, porém, é que me considero uma ou duas vezes mais "difícil de engolir" do que eles. Eis o que é ser uma pessoa verdadeiramente boa, pois, sem essa característica, é impossível transformar este mundo de maldade em um mundo de bem. Por essa razão, minha política é a de corrigir, um por um, todos os malfeitores que existem. Creio que esta seja a verdadeira forma de ser de um religioso vivo e atuante.
+
+---
+
+# Esclarecimentos sobre um Acontecimento Místico
+
+**Categoria:** a | **Ano:** 昭和26(1951)年6月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 或る神秘 読後のお言葉 | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1951-06-25
+
+## Esclarecimentos sobre um Acontecimento Místico
+
+Ao ler o artigo do senhor Inoue, pude recordar com clareza um acontecimento do qual, em virtude do longo tempo transcorrido, eu guardava apenas uma vaga lembrança relacionada a um mistério envolvendo a filha do senhor Sakuragi. A recordação vívida que o seu texto me proporcionou é motivo de imensa alegria. Sendo assim, tentarei expor, a seguir, o significado geral do que pude compreender.
+
+Certa manhã, recebi um telefonema informando que a menina passava mal e solicitando minha presença com urgência. Ao chegar, encontrei-a deitada de costas com as pernas abertas e envolta em inúmeras fraldas, devido a uma diarreia incessante. A sua postura era, de fato, peculiar, assemelhando-se à de uma parturiente.
+
+Ao adentrar o quarto, minha atenção foi atraída para uma pequena imagem de Kannon (観音), com cerca de um *sun* e oito *bu* de altura, que se encontrava sobre uma cômoda no canto do aposento. Observando-a com mais atenção, percebi que se tratava de uma peça de ouro de seis ou nove quilates, do tipo que os samurais da Era Sengoku costumavam atar ao braço como amuleto ao partir para o campo de batalha – um objeto relativamente comum.
+
+Realizei o Johrei por diversas vezes e, em poucas horas, ela apresentou uma melhora substancial. No dia seguinte, recebi um telefonema com a notícia de sua quase total recuperação, o que me trouxe grande alívio. Foi na tarde daquele mesmo dia que o senhor Sakuragi me relatou um detalhe surpreendente: desde o início da crise, a menina Yayoi, de sete anos, sentia dores intermitentes, semelhantes às contrações de um parto. Ele me indagou sobre a razão de tal fenômeno, ao que respondi: “A pequena Yayoi tornou-se Buda Xakiamuni para dar à luz a Kannon (観音)”.
+
+Refleti, então, sobre um fato anterior. O nome original da criança não era bom, e, meses antes, eu o havia mudado para Yayoi. Compreendi que o próprio Deus lhe atribuíra esse nome em preparação para este evento. Conforme aponta o senhor Inoue, o nome carrega o significado de “dar à luz a Miroku”. A presença da pequena estátua de Kannon (観音) foi um sinal de Deus para nos revelar o modelo do Seu nascimento. Afinal, na antiga Índia, foi Buda Xakiamuni quem deu à luz a Kannon (観音).
+
+Ademais, a Lei Búdica se manifesta como a flor de cerejeira, e o sobrenome Sakuragi (桜木), que significa “árvore de cerejeira”, tem um profundo simbolismo. “Ki” (木), a árvore, representa o espírito da nação (*kuni no rei-gaeshi*), aludindo, portanto, à nação da Lei Búdica. Um detalhe curioso é que, logo após receber o telefonema sobre o ocorrido, senti uma vontade súbita e intensa de beber leite. Intuí: “Ah, Kannon (観音) acaba de nascer; este é o modelo simbólico”. E, imediatamente, bebi um copo de leite. Isso me remete a um evento que relatei anteriormente, ocorrido durante a perseguição religiosa do ano passado. Na cela, após uma divindade nobre descer dos Céus e se alojar em meu ventre, na manhã seguinte, perdi completamente o apetite, sentindo apenas o desejo de beber leite. Ambos os acontecimentos partilham do mesmo significado, correspondendo ao que o budismo denomina *Taizo Miroku*, ou seja, Miroku do Ventre.
+
+Escrevo estas linhas como um adendo, a fim de registrar as memórias que me vieram à mente.
+
+***
+
+## Um Acontecimento Místico
+
+*Por Inoue Shigekichi*
+
+Creio que o fato se deu na primavera do sexto ano da Era Showa (1931). Conforme já relatei em outras ocasiões, foi um período em que Meishu-Sama aguardava o momento de Seu grande avanço, residindo em Hakkeien, no bairro de Omori. O triênio de 1931, 1932 e 1933 foi uma fase dedicada exclusivamente a cumprir uma etapa crucial do Plano Divino: a organização do Mundo Espiritual. Fenômenos espirituais extraordinários ocorriam quase diariamente, e cada pessoa que O visitava representava um elo de grande significado para a Obra Divina. Imagino que, nessa época, houve inúmeras atividades de natureza invisível, compreensíveis apenas a Meishu-Sama.
+
+Recordo-me, a propósito, que a Obra Divina no Templo Nihon-ji, em Boshu, também se realizou nesse período, em 15 de junho de 1931. Muitas outras lembranças me vêm à mente, mas desejo registrar para a posteridade um acontecimento místico em particular, associado à primavera de Yayoi, que me marcou de forma indelével. Embora os muitos anos de provações que se seguiram possam ter tornado minhas lembranças um tanto nebulosas, estou convicto de que o cerne do relato está correto.
+
+Naquela época, vivia na cidade de M. uma família de sobrenome Sakuragi. Eram pessoas de poucos recursos e com muitos filhos. O chefe da família era funcionário de uma gráfica. A filha mais nova, de cinco ou seis anos, sofria de uma paralisia infantil congênita, para a qual não havia esperança de cura. Seus joelhos, curvados e deformados, não podiam ser flexionados ou estendidos, o que a impedia de ficar de pé ou caminhar, atrasando também o seu desenvolvimento. Meishu-Sama explicou que a causa era a possessão ou reencarnação de uma divindade dragão. Ele providenciou para que essa divindade fosse devidamente consagrada na casa e, através do grandioso poder do Johrei, curou a menina a ponto de ela conseguir andar. Maravilhada com o milagre, toda a família se tornou fervorosa seguidora de Seus Ensinamentos.
+
+A referida divindade dragão foi por Ele nomeada “Yoshimyojin”. Recordo-me de ter ouvido de alguém que esse nome fazia alusão aos Oito Grandes Reis Dragões que, segundo a tradição, foram selados por Buda Xakiamuni.
+
+Pois bem, certa manhã – não me recordo se por telefone ou se o senhor Sakuragi O procurou pessoalmente –, um relato extraordinário e um pedido de auxílio levaram Meishu-Sama à residência da família. Segundo o que nos contou ao retornar, a filha de sete anos, chamada Yayoi, começou a se queixar de fortes dores abdominais durante a noite. A dor, inicialmente intermitente, cessou por completo após algumas horas. Desde o início da crise, a menina se deitou de costas com as pernas abertas. Embora a micção fosse esperada, o fato extraordinário foi a expulsão de um líquido semelhante ao líquido amniótico de um parto. A família se viu obrigada a forrar a cama com papel impermeável e a usar algodão para lidar com a situação. O quadro era idêntico ao de um trabalho de parto, e, após a sensação de que algo havia nascido, a dor desapareceu por completo, trazendo alívio a todos. Foi, de fato, um acontecimento dos mais misteriosos.
+
+Tenho uma vaga lembrança de que a menina disse algo naquele momento, mas, por ser uma recordação muito imprecisa, prefiro omiti-la.
+
+Os fatos se resumem ao que foi descrito. Contudo, a elucidação que Meishu-Sama nos ofereceu na época revela a profundidade desse acontecimento místico. Segundo Ele, “o que ocorreu foi o nascimento de Miroku Butsu – ou seja, Kannon (観音) em Seu corpo de manifestação (ou talvez Komyo Nyorai) –, que tomou emprestado o ventre daquela menina para vir ao mundo”. Evidentemente, por se tratar de um corpo espiritual, o nascimento não pôde ser percebido pelos olhos físicos.
+
+Compreende-se que, sempre que um espírito nobre e elevado nasce no plano terrestre, um modelo simbólico de seu advento é manifestado. Conforme é de conhecimento geral, um protótipo semelhante foi revelado durante a recente perseguição religiosa. Todavia, um exemplo tão singular como este é, provavelmente, sem precedentes.
+
+Neste caso, Meishu-Sama esclareceu que o sobrenome Sakuragi (桜木) simboliza a Índia. Se representarmos o Japão, a Coreia e a China por meio de flores, eles corresponderiam à ameixeira, ao pinheiro e ao bambu, enquanto a Índia seria a cerejeira. O budismo, que floresceu na Índia, é o “ensinamento da flor”, como indica a expressão do Sutra de Lótus. A observação do caráter transitório das coisas, refletida na imagem das flores de cerejeira que se dispersam sem apego, constitui a verdade fundamental que permeia o pensamento búdico. É provável que essa filosofia, com a chegada do budismo, tenha se transmutado no ideal do *Bushido*, o caminho do guerreiro no Japão.
+
+Ademais, o número sete representa o elemento terra. O budismo emprega frequentemente este número, e Buda Xakiamuni é o Miroku do sete, ou da terra. Conforme nos foi ensinado, Kannon (観音), em certas circunstâncias, pode se tornar a mãe de Buda.
+
+O nome original da menina era, salvo engano, Mieko. Contudo, algum tempo antes deste evento, Meishu-Sama, ao renomear seu pai, mudou também o nome dela para Yayoi. Ele nos instruiu que “Yayoi” encerra o significado de “dar à luz a Miroku”.
+
+Diante de tudo isso, pode-se inferir que a menina representou um modelo de Buda Xakiamuni ou possuía um profundo laço espiritual com ele. O mais surpreendente, no entanto, foi saber que existe nos textos budistas uma profecia, até então considerada um enigma indecifrável, que diz: “Uma menina de sete anos dará à luz a Miroku”. Ao ouvir que o evento que presenciamos era a concretização dessa profecia, fiquei tão assombrado que mal conseguia articular uma palavra. A profunda impressão daquele momento permanece inesquecível até hoje.
+
+Que mistério profundo! Aquele acontecimento era uma cena do grandioso programa de Deus, estabelecido há milênios. O Plano Divino, que pode parecer vago à primeira vista, revela-se, na verdade, dotado de provas rigorosas, de uma lógica impecável e de uma preparação meticulosa, sem o menor desvio. Apenas este fato já é suficiente para confirmar a veracidade absoluta das profecias contidas em todas as religiões, que anunciam o Juízo Final, o advento do Messias e a concretização do Paraíso na Terra. Fica claro, portanto, que não se trata de meros enigmas.
+
+E, assim, torna-se inquestionável a imensa importância da Obra de Meishu-Sama, que vem sendo revelada por Deus há milhares de anos.
+
+Lembro-me de uma história que ouvi certa vez de Meishu-Sama. Em uma localidade de Kyushu, foi desenterrada uma pedra de tinta de cem mil anos. Ele mesmo a viu. Era um objeto de confecção extremamente primitiva, em formato de cabaça, e em sua borda estavam entalhadas as formas do Sol, da Lua e das estrelas. A disposição desses elementos, segundo Ele, expressava de forma unitária a futura transição do mundo atual para um mundo ideal. Isso demonstra que uma revelação divina com esse teor já existia há cem mil anos.
+
+Diante disso, percebemos quão profundo e longínquo é o Plano Divino, muito além do que a imaginação humana pode alcançar. É provável que o desejo de Deus pela manifestação do Paraíso remonte à própria Criação do universo. Compreendemos, assim, que a Obra de Meishu-Sama, que carrega a sagrada missão de realizar esse desejo divino, é de uma magnitude tão extraordinária que não existem palavras capazes de expressar o devido louvor.
+
+---
+
+# Os Perversos e os Virtuosos
+
+**Categoria:** a | **Ano:** 昭和25(1950)年4月29日 | **Fonte:** Kyusei
+**Título Original:** 悪人と善人 | **Status:** Published | **Edição/Página:** 60号 | **Data ISO:** 1950-04-29
+
+## Os Perversos e os Virtuosos
+
+Diz o perverso: “Aqueles que se dizem virtuosos são verdadeiramente detestáveis. Sempre que tento praticar o mal, são eles que se colocam em meu caminho para me obstruir.”
+
+De fato, ao ponderar sobre o assunto, é possível que exista certa lógica em tal argumento. Afinal, os entraves à atuação dos perversos, como as leis, a polícia e os tribunais, foram instituições criadas justamente pelos virtuosos. Se esta é a realidade exata dos fatos, não posso afirmar com certeza; todavia, escrevo partindo de tal suposição.
+
+Não se trata de ressentimento, mas, embora existam aqueles que nos difamam e criticam, em nenhuma ocasião nos deixamos tomar pela ira. Pelo contrário, tais ataques nos fazem sentir um profundo orgulho, pois demonstram o quanto estamos, de fato, sendo um obstáculo para os perversos.
+
+---
+
+# A Transformação de Atami em Paraíso Terrestre
+
+**Categoria:** a | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** -
+**Título Original:** 熱海の天国化 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1949-06-25
+
+## A Transformação de Atami em Paraíso Terrestre
+
+Em um artigo publicado no jornal Shizuoka Shimbun, em 28 de maio de 1949, foram relatadas as seguintes impressões de um grupo de turistas nipo-havaianos, formado por membros da primeira e da segunda geração, que visitaram o Japão pela primeira vez após a guerra:
+
+◇ Pontos turísticos que mais agradaram: Além da capital, Tóquio, destacaram-se Nikko, Uji, Fushimi e Quioto. Em especial, os templos Honganji, do Leste e do Oeste, foram muito elogiados, dada a grande quantidade de fiéis no grupo. Beppu também foi apreciada por suas águas termais, que proporcionaram um ambiente relaxante e aprazível.
+
+◇ Pontos turísticos que poderiam ser omitidos de futuros roteiros: Atami, pois prefeririam uma estância de águas termais mais serena. Hakata e Kumamoto, que, a menos que haja muitos descendentes da região no grupo, carecem de valor turístico. O monte Aso, que, para aqueles familiarizados com o vulcão Kilauea, no Havaí, não apresenta grande novidade.
+
+◇ Locais que gostariam de adicionar ao roteiro: O Mar Interior de Seto e alguma estância termal mais tranquila na península de Izu.
+
+◇ Sobre as instalações e os serviços das hospedarias: Os membros da primeira geração demonstraram preferência absoluta por pousadas de estilo puramente japonês, enquanto os da segunda geração optaram decididamente por hotéis. No que tange à alimentação, a culinária japonesa autêntica foi a mais requisitada, sendo que pratos com a mínima influência ocidental foram rejeitados.
+
+◇ A lentidão do serviço foi notória: Em certas hospedarias, a falta de treinamento dos funcionários era evidente. Mesmo os mais idosos da primeira geração preferem sanitários de estilo ocidental, e os banhos mistos são vistos com desaprovação.
+
+Ao analisar o referido artigo, constata-se que suas observações são de uma veracidade irrefutável, não havendo espaço para qualquer objeção. É lamentável que uma localidade como Atami, detentora de uma paisagem tão magnífica e pitoresca, negligencie a plena utilização de seus próprios atributos. Essa falha decorre, provavelmente, de uma visão excessivamente limitada. A mentalidade superficial, que se contenta com políticas comerciais de baixo nível e visa unicamente o lucro, revela uma completa cegueira diante das transformações de nossa era.
+
+Portanto, se Atami permanecer em seu estado atual, nutrindo-se dessa complacência, corre-se o sério risco de ser preterida pelos visitantes estrangeiros, mesmo sendo abençoada com uma das paisagens mais deslumbrantes do Japão. É imperativo que a cidade abandone por completo a sua antiga mentalidade de simples estância termal e adote uma nova estratégia de negócios, condizente com os novos tempos. Do ponto de vista da política nacional, Atami tem o dever de cumprir sua importante missão de atrair o público internacional. Para tanto, deve nutrir a ambição de se tornar não apenas a "Atami do Japão", mas a "Atami do Mundo", estabelecendo diretrizes grandiosas sob essa nova aspiração.
+
+Nesse sentido, embora sejamos uma instituição religiosa, nossa Igreja foi a primeira a atentar para esta questão e já deu início à sua concretização. Trata-se da construção de um modelo do Paraíso Terrestre, que é o lema de nossa fé. Foi justamente por esse motivo que escolhemos Atami e, no presente momento, os passos para sua edificação avançam de maneira sólida e visível. É desnecessário dizer que esta localidade é, de fato, uma dádiva celestial: possui montanhas, mar e ilhas; a vista deslumbrante do litoral de Izu que se estende ao longe até a região de Kawana, com suas inúmeras penínsulas; a paisagem do cabo de Manazuru à esquerda; o clima ameno e as águas termais puras. Além disso, encontra-se próxima à magnífica Hakone e estrategicamente localizada entre as capitais do leste e do oeste, com excelente acesso. Apesar de tudo isso, o fato de não conseguir expressar todo o seu encanto, como mencionado anteriormente, é resultado direto de uma política que dependeu exclusivamente das fontes termais, mergulhada em um longo sono de inércia.
+
+Historicamente, os visitantes estrangeiros não demonstram o mesmo interesse dos japoneses pelas fontes termais. Sendo assim, é fundamental que se valorizem ao máximo os outros encantos naturais da região. Para isso, é evidente a urgência de se estabelecer um grandioso hotel ideal em um ponto sereno e de vista privilegiada nos arredores de Atami, distante da agitação e da vulgaridade do centro urbano.
+
+É com esse propósito que nossa Igreja está construindo uma utopia em locais de beleza singular, nos extremos leste e oeste de Atami, próximos o suficiente do centro, mas devidamente resguardados. E não hesitamos em afirmar nossa convicção de que esta obra servirá como a pedra fundamental para o futuro desenvolvimento de Atami.
+
+---
+
+# O Relato de Certa Senhora
+
+**Categoria:** a | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** ある婦人の話 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.38 | **Data ISO:** 1949-12-30
+
+## O Relato de Certa Senhora
+
+Relato aqui o caso de uma senhora casada, que na época contava com vinte e cinco ou vinte e seis anos de idade. Acometida por uma enfermidade verdadeiramente misteriosa, esgotara todos os recursos da medicina, sem obter a cura. Quanto à origem de seu mal, soube que, nos três anos que se seguiram ao seu casamento, ela dera à luz dois filhos. Pouco tempo depois, contraiu difteria e, ao receber uma injeção, talvez pela potência do medicamento, permaneceu inconsciente por cerca de uma semana.
+
+A partir de então, suas hospitalizações tornaram-se recorrentes, ocorrendo diversas vezes ao ano. Nos intervalos, prosseguia com o tratamento sob os cuidados de seu médico, mas sua condição se agravava paulatinamente. Quando a situação se tornou irremediável, ela finalmente me procurou. Ao recebê-la, notei que falava com a voz tênue como o zumbido de um mosquito, mantendo os olhos cerrados. Segundo seu relato: "Manter os olhos abertos é o que me causa maior sofrimento. Tenho dores de cabeça, falta de apetite, dificuldade para caminhar e insônia. A sensação de fadiga e esgotamento em todo o corpo é avassaladora; sinto que mal consigo me manter viva".
+
+Iniciei o tratamento, e ela começou a arrotar profusamente. Notei que os arrotos surgiam de forma contínua e invariavelmente do ponto onde o espírito era ministrado. Ademais, a fetidez de suas eructações era intensa. Por fim, o fenômeno atingiu um grau surpreendente: as flatulências passaram a ser expelidas não pelo ânus, mas por suas partes íntimas, e com tal intensidade que o odor se tornava insuportável. Contudo, os resultados não se manifestavam de forma consistente; em meio a avanços e recuos, seu enfraquecimento atingiu o ápice, e ela chegou ao limiar da morte. Após examiná-la, o médico sentenciou que lhe restavam apenas alguns dias de vida.
+
+O que se segue é, na verdade, algo penoso de se registrar, mas ocorreu um fato singular. Seu marido, um funcionário de certo ministério com o cargo de chefe de seção, ao se convencer da morte iminente da esposa, providenciou de imediato um fraque de luto. Quando a esposa o questionou, ele respondeu: "Você morrerá em breve, por isso encomendei o traje de que precisarei para o funeral". Ao tomar conhecimento disso, fiquei estupefato com tamanha frieza humana. Talvez esse estímulo tenha intensificado meu fervor em salvá-la, pois, passados alguns dias, ela começou a apresentar uma tênue melhora. Cerca de um mês depois, já havia se recuperado a ponto de não mais correr risco de vida.
+
+O marido, todavia, passou a nutrir ressentimento por mim, e suas interferências se tornaram um obstáculo formidável. Eu a visitava para ministrar-lhe o tratamento a cada dois ou três dias. Em certas ocasiões, chegava esperando encontrá-la bastante melhorada, mas, para minha surpresa, seu estado havia piorado. Ao ser indagada, a senhora explicava: "Ainda que o senhor me traga a melhora, meu marido insiste em dizer coisas que me abalam profundamente, e por isso volto a piorar". A cada relato, eu mal podia conter minha indignação. Ouvi também o seguinte relato das palavras dele: "Se você tivesse ingressado na religião ○○ quando lhe foi recomendado, não teria sido salva por Okada. Caso você morresse, todo o patrimônio seria meu. É uma pena insuportável". A razão para tal atitude era que, sendo ele formado por uma renomada universidade e tendo sido adotado pela família da esposa, uma parte considerável dos bens estava em nome dela. Ao ouvir aquilo, perdi a conta de quantas vezes me indignei, pensando: "Que tipo de indivíduo desprezível pode existir no mundo?".
+
+Enquanto isso, a senhora prosseguia em sua recuperação gradual, a ponto de conseguir reassumir suas tarefas cotidianas. Diz o adágio, contudo, que a malha da Lei Divina é vasta, mas nada lhe escapa. Seu marido foi acometido de peritonite. Ele se valeu exclusivamente de recursos médicos, mas seu estado se deteriorava progressivamente. Por fim, seus parentes me procuraram, suplicando que eu o salvasse a qualquer custo. Contendo a imensa relutância que sentia, dirigi-me à sua residência. Após cerca de vinte minutos de tratamento, enquanto ele jazia de costas, disse: "Mestre, já é o suficiente", e virou-se bruscamente de lado.
+
+Atônito, controlei a fúria que me subia à alma e retirei-me. No dia seguinte, a esposa veio se desculpar profusamente, mas recusei, afirmando que, sob nenhuma hipótese, voltaria a tratá-lo. A partir de então, contando apenas com a medicina, sua condição oscilou entre melhoras e pioras, deteriorando-se gradualmente até que, meses depois, ele veio a falecer. É um fato que pode parecer estranho, embora não o seja: quando comecei a cuidar da esposa, o marido era saudável; alguns anos mais tarde, o resultado se inverteu por completo.
+
+Atualmente, aquela senhora vive como viúva, criando seus dois filhos e desfrutando de uma vida plena e saudável.
+
+---
+
+# A Indignação contra o Mal
+
+**Categoria:** a | **Ano:** 昭和26(1951)年2月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 悪に対する憤激 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1951-02-25
+
+## A Indignação contra o Mal
+
+Ao observar atentamente o mundo atual, percebo que ao ser humano de hoje falta, em demasia, a indignação contra o mal. Com efeito, quando se ouve relatos de pessoas de bem atormentadas por malfeitores, é relativamente pequeno o número daqueles que se exaltam. Imagino que pensem ser inútil indignar-se, sobretudo quando o assunto não afeta seus interesses diretos. Em tempos tão adversos, repletos de preocupações e sofrimentos, julgam mais sensato ocupar-se apenas do que lhes traz perdas ou ganhos, em vez de afligir o coração com questões alheias. Adotar a indiferença, portanto, parece-lhes um sinal de astúcia. E como a sociedade chega a reverenciar esses indivíduos como pessoas experientes e versadas nas vicissitudes do mundo, muitos acabam por seguir-lhes o exemplo.
+
+Ademais, a política é perniciosa. Políticos e funcionários públicos mostram-se corrompidos. Não raro, vemos nos jornais figuras proeminentes da sociedade envolvidas em escândalos de suborno e malversação. Nos últimos tempos, a criminalidade aumentou de forma alarmante, e a delinquência juvenil, se projetada para o futuro da nação, prenuncia um cenário desolador. A mentalidade feudalista no serviço público persiste inalterada, ao passo que uma interpretação equivocada da democracia parece ter tornado gélidas as relações entre pais e filhos, irmãos, e mestres e discípulos. A tributação escorchante é por demais severa, e embora a democracia ostente um nome nobre, na prática, o povo sofre subjugado pelo domínio da burocracia. Enfim, se fôssemos enumerar todos os problemas, a lista de questões desagradáveis e diversas seria infindável. Sem dúvida, a causa fundamental de tudo isso é a carência de um senso de justiça social, mas, em última análise, o motivo parece ser a excessiva proliferação dos indivíduos “astutos” que mencionei.
+
+Contudo, uma reflexão mais profunda revela que o surgimento de tal sociedade é, de certo modo, compreensível. Em qualquer época, mas especialmente na juventude, o senso de justiça é vigoroso e a indignação contra o mal manifesta-se com considerável intensidade. Todavia, ao concluir os estudos e ingressar na vida adulta, o jovem se depara com uma realidade que frequentemente contraria suas expectativas. À medida que acumula experiência, sua forma de pensar se transforma. Ele aprende que exaltar-se levianamente contra a iniquidade ou brandir o estandarte da justiça pode gerar mal-entendidos, fazer com que seja evitado pelos outros ou malvisto por seus superiores, o que facilmente se torna um obstáculo para sua ascensão profissional. Assim, pouco a pouco, o senso de justiça é relegado a um canto da mente, e a pessoa passa a pautar suas ações pelo utilitarismo. Aquele que chega a esse ponto é considerado alguém que aprendeu a navegar pelas complexidades da vida.
+
+Evidentemente, não se pode condenar por completo tais indivíduos. No entanto, quando eles se multiplicam em demasia, o tecido social tende a se enfraquecer, uma atmosfera de decadência se difunde, e, como resultado, proliferam os depravados e os criminosos. O estado atual da sociedade é um eloquente testemunho dessa verdade. A partir de minha longa experiência, concluí que a maneira mais segura de avaliar o valor de uma pessoa é pela intensidade de sua indignação contra o mal. Isso porque, quanto maior for essa indignação, mais fibra moral e firmeza o indivíduo possui.
+
+Todavia, a mera indignação não basta; ela pode, inclusive, ser perigosa. É comum que os jovens, levados por um ímpeto impetuoso, acabem por causar transtornos a terceiros ou ameaçar a paz social. Para evitar isso, o discernimento torna-se indispensável. A indignação deve ser mantida latente no fundo do coração, e, após uma profunda reflexão, deve-se evitar qualquer atitude impensada. O correto é agir de maneira franca e íntegra, pelo bem do próximo e da sociedade, em prol daquilo que se acredita ser justo e bom.
+
+A esse respeito, permitam-me discorrer brevemente sobre minha própria jornada. Desde jovem, possuí um senso de justiça aguçado e uma aversão à iniquidade acima do comum. Ao ver ou ouvir sobre atos injustos, era-me sobremodo difícil conter a indignação, e dominá-la demandava-me um grande esforço. Embora essa contenção fosse penosa, eu a encarava como um treinamento espiritual, ciente de que, por meio dela, minha alma estava sendo aprimorada. Nesse aspecto, permaneço o mesmo até os dias de hoje, suportando tudo como uma provação de Deus.
+
+Por tais razões, o ideal é que uma pessoa seja capaz de se indignar perante a injustiça, pois, do contrário, ela será de pouca valia. O ponto crucial, contudo, reside no método e na forma de expressar esse sentimento. É preciso ter o máximo de cuidado para jamais perder a compostura ou causar inconvenientes a outrem. As ações devem ser sempre pautadas pelo bom senso, sem jamais carecer de amor e harmonia, avançando com o Coração Divino como nosso próprio coração.
+
+---
+
+# O Lamentável Homem Moderno
+
+**Categoria:** a | **Ano:** 昭和25(1950)年1月7日 | **Fonte:** -
+**Título Original:** 憐むべき現代人 | **Status:** Published | **Edição/Página:** 44号 | **Data ISO:** 1950-01-07
+
+## O Lamentável Homem Moderno
+
+Nesta época, em que as tangerinas são abundantes, a maioria das pessoas certamente as consome. Contudo, há um ponto que merece nossa atenção a esse respeito.
+
+A medicina afirma que a casca da tangerina é mais nutritiva que a polpa, sustentando essa tese sob o pretexto de que conteria as vitaminas A, B e C em sua totalidade. Todavia, tal alegação é um equívoco absoluto. Trata-se de uma falácia que, apegada a dogmas teóricos, ignora por completo a Natureza. Afinal, o que nos revela o fato de a casca ser menos saborosa que a polpa?
+
+Deus, com isso, nos indica claramente que a casca não se destina ao consumo. Portanto, o correto é alimentar-se da polpa. Sendo assim, não seria esta uma lógica de sublime simplicidade? É deveras preocupante o retrocesso da medicina, que já não consegue compreender nem mesmo uma verdade tão patente.
+
+Esse mesmo raciocínio se aplica à recomendação médica de se comerem espinhas de peixe sob a alegação de que contêm cálcio. Incentivar o consumo de algo desagradável ao paladar e que os dentes humanos mal conseguem triturar equivale a tratar as pessoas como se fossem felinos. Decididamente, o homem moderno encontra-se em uma condição lastimável.
+
+---
+
+# A Ilusória Prática da Medicina
+
+**Categoria:** a | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
+**Título Original:** 噫〔々〕医学よ | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
+
+## A Ilusória Prática da Medicina
+
+Nós constantemente proclamamos que as doenças são, na verdade, criadas pela medicina. Compreende-se que para o homem moderno, endurecido pela superstição médica, seja praticamente impossível acreditar em tal afirmação. Todavia, por se tratar de um fato irrefutável, não nos resta outra alternativa senão declará-lo.
+
+Ao refletirmos sobre o assunto, percebemos que talvez não exista questão de maior magnitude. Qualquer pessoa, ao adoecer, no anseio de se curar o quanto antes, despende vultosas quantias em consultas médicas. Contudo, tal atitude acaba, paradoxalmente, por agravar o quadro clínico, multiplicar as enfermidades e, após um sofrimento atroz, conduzir o indivíduo ao Mundo Espiritual. Dificilmente se poderia conceber contradição mais flagrante.
+
+O relato de graça divina que se segue ilustra essa verdade de forma inequívoca, e certamente deixará atônito qualquer um que o leia.
+
+Contudo, por considerar toda a humanidade como Seus filhos, Deus, no anseio de nos redimir de tais sofrimentos o mais brevemente possível, fundou a nossa Igreja da Salvação Mundial. Nesse sentido, àqueles que prezam por sua vida, recomendamos que ingressem na fé sem demora.
+
+**A Cura da Hipertensão e de uma Doença Cardíaca Após Sentença de Morte Médica**
+Hokkaido, Igreja Minori
+Komatsu Yoshigorō (28 anos)
+
+Com a mais profunda humildade, venho expressar minha gratidão pela divina proteção que me foi concedida.
+
+Rememoro que, em meados de fevereiro de 1950, fui acometido por uma súbita dor no coração que me levou ao colapso. Encaminhado ao hospital da empresa onde trabalhava na época, fui diagnosticado com valvulopatia. A partir de então, com a única obsessão de me curar, busquei avidamente por medicamentos tidos como milagrosos e os consumi. Em meio à ansiedade e à angústia, uma semana transcorreu num piscar de olhos, e minha condição física piorou consideravelmente. Ao ser reexaminado, o médico acrescentou dois novos diagnósticos à minha condição cardíaca.
+
+Diante disso, julguei que não havia outra alternativa senão a internação para um tratamento rigoroso. Ao expor minha decisão ao médico, fui imediatamente admitido. Com a esperança renovada de uma plena recuperação, segui à risca todas as suas orientações, submetendo-me a um tratamento de repouso absoluto.
+
+Decorrida a primeira semana, prazo que o médico inicialmente previra para minha recuperação, fui submetido a uma nova avaliação. Desta vez, ele sentenciou: "Sua pressão arterial está acima de 300, portanto, sua alimentação também deverá ser restringida". Obedeci prontamente. Assim, o tempo passou até a chegada de março. A partir daquele mês, minha pulsação se manteve constantemente entre 100 e 120 batimentos por minuto, e os dias de mal-estar tornaram-se mais frequentes.
+
+Em 12 de março, data do aniversário de falecimento de meu irmão, sofri uma crise súbita, semelhante à que deu início a tudo, com o pulso chegando a 150-160 bpm. O médico argumentou: "Isso ocorre porque sua pressão está excessivamente alta. O ideal seria extrair de 200 a 300 cc de sangue". Consenti com o procedimento. O resultado, entretanto, foi um sofrimento atroz; a dor era tamanha que tive a certeza de que morreria. O médico, vendo que o desfecho se desviava drasticamente de suas expectativas, entrou em pânico e, no intervalo de uma hora, injetou em meu corpo dezoito doses de um estimulante cardíaco.
+
+Graças a isso, talvez, obtive um alívio temporário, mas as consequências foram terríveis. Minha condição deteriorou-se ainda mais: o pulso se estabilizou entre 130 e 140 bpm e a temperatura corporal caiu para 34,5 graus. Meu vigor físico se esvaiu a tal ponto que até mesmo caminhar dentro do quarto se tornou uma tarefa hercúlea.
+
+Nessa época, o médico passou a menear a cabeça com frequência e, quando inquirido, oferecia respostas vagas como: "É preciso observar por mais um tempo para ter certeza". Ao final de março, tornei a questioná-lo, e sua resposta foi: "Já lhe administrei os mais potentes medicamentos para o coração que existem, mas, infelizmente...". Para mim, em meu leito de enfermidade, suas palavras soaram como: "Sua doença é incurável... Em breve você morrerá... Prepare-se". A partir daquele momento, a simples visão do médico me despertava uma fúria que piorava meu estado físico. Mesmo assim, no anseio de recuperar a saúde, continuei seguindo fielmente suas prescrições de medicamentos e injeções.
+
+Em abril, a incerteza sobre minhas chances de cura me levou a solicitar um exame de raios X. O resultado lançou uma sombra ainda mais escura sobre minhas esperanças de vida: meus pulmões, rins, fígado e medula espinhal, órgãos que eu jamais imaginara estarem comprometidos, também apresentavam problemas. Para agravar o quadro, foram atribuídos oito diagnósticos diferentes à minha condição cardíaca. E tudo isso apesar de eu jamais ter desobedecido a uma única orientação médica.
+
+Nesse ponto, tomado por um misto de fúria, frustração e desamparo, interpelei o médico: "O senhor não é capaz de curar minha doença?". Ele, visivelmente irritado, replicou: "Ora, o melhor a fazer é chamar seus parentes para discutir os preparativos futuros". Aquela frase me incendiou de cólera, deixando-me paralisado de indignação. E assim, embora ainda apegado à vida, fui me entregando a um sentimento de desespero, de "que seja o que tiver de ser". Meu corpo definhava progressivamente: a temperatura baixou para 34 graus, o pulso oscilava entre 140 e 150, e eu já não conseguia ingerir alimento algum. Era um homem que apenas aguardava a morte.
+
+No início de maio, recebi dos lábios do médico a "sentença de morte" definitiva. Meus parentes mais próximos vieram para a despedida final, mas minha visão, já turva pelo avanço da doença, mal me permitia distinguir seus rostos. Naquele momento, compreendi que meu fim era inevitável e me resignei. Eu, que havia seguido com lealdade canina cada palavra do médico, senti por ele, à beira da morte, um ódio incomensurável. Soube mais tarde que ele havia comunicado à minha família que eu teria, no máximo, mais dois dias de vida.
+
+Ah, que dia memorável foi aquele 10 de maio de 1950! Recebi a visita inesperada de meu amigo, o senhor Okubo Takatoshi, que já era membro da Igreja. Com as palavras "Senhor Komatsu, talvez o senhor ache estranho o que farei agora", ele ergueu a mão e, antes de prosseguir, confidenciou: "Foi assim que minha tuberculose foi curada". Durante cerca de uma hora, enquanto ministrava Johrei, ele me falou sobre os maravilhosos ensinamentos da Igreja da Salvação Mundial. Não sei se por sugestionamento, mas senti meu corpo mais leve. Ele então se ofereceu para, no dia seguinte, trazer o Reverendo Yoshida, que estava em missão na região de Bibai, ao que aceitei de imediato.
+
+Na manhã do dia 11, o Reverendo Yoshida veio ao hospital e ministrou-me Johrei. Enquanto ouvia suas palavras, repletas de força e bondade, comecei a compreender, ainda que vagamente, que tudo o que eu vinha fazendo até então apenas servia para debilitar meu corpo. Naquele mesmo dia, abandonei todos os medicamentos e decidi me entregar exclusivamente ao Johrei. O mais surpreendente, contudo, foi que após uma única sessão, eu, que não conseguia ingerir absolutamente nada, devorei com apetite uma tigela inteira de comida normal servida pelo hospital.
+
+Senti-me como se já estivesse curado, e pela primeira vez em muitas dezenas de dias de internação, meu espírito se encheu de alegria. Em contraste com a leviandade e as palavras cruéis do médico, a dedicação do Reverendo Yoshida, que me tratou com um carinho superior ao de um parente, e a graça do Johrei, fizeram com que minha grave enfermidade melhorasse dia após dia.
+
+Desde que comecei a receber Johrei, meus embates com o médico se tornaram diários. "Tome o remédio!", ele ordenava. "Se eu tomar isso, serei morto!", eu retrucava. "Você tem que tomar o remédio!", insistia ele. "Em primeiro lugar, o senhor não foi capaz de me curar!", eu o confrontava. A vida no hospital tornou-se insuportável e, no final de maio, contrariando a forte oposição do médico, decidi ter alta. Como ainda não conseguia andar, fui levado para casa em uma maca. Imediatamente, dirigi-me à Igreja para agradecer e tive a honra de receber a sagrada Medalha da Luz Divina.
+
+Após deixar o hospital, minha temperatura corporal voltou ao normal e eu já conseguia passar o dia todo sem precisar me deitar. No final de junho, comecei a frequentar a Igreja a pé. Era comum eu desmaiar uma ou duas vezes pelo caminho, mas, com fé absoluta na proteção divina, eu mesmo ministrava Johrei em meu coração e me encontrava em um estado de total entrega, entoando em voz alta a Prece de Louvor.
+
+Com as idas à Igreja, meu corpo foi gradualmente se fortalecendo. Cheguei ao ponto de conseguir ministrar Johrei em outras pessoas por vinte ou trinta minutos, e a felicidade que senti nesse momento ficou gravada em minha memória como a maior de toda a minha vida. Minha gratidão pela virtude divina de Meishu-Sama é simplesmente infinita.
+
+A partir de julho, provavelmente por ter recuperado parte de minha força vital, recebi purificações intensas, com febres que por vezes ultrapassavam os 40 graus e violentas diarreias várias vezes ao dia, processo que se estendeu até setembro. Em outra época, eu teria me apavorado, mas naqueles dias, sentia-me grato a Deus por me conceder purificações como as de qualquer outra pessoa.
+
+No início de setembro, o Reverendo Yamaguchi, que visitava Hokkaido esporadicamente em missão, incentivou-me a me dedicar à Obra Divina. Hesitei, pois não confiava em minha condição física, mas o Reverendo Yoshida também me aconselhou a seguir esse caminho. Naquela mesma manhã, recebi uma orientação de meus antepassados em sonho, o que me fez tomar a firme decisão de participar da Obra Divina.
+
+No final de dezembro, pedi demissão da empresa onde estive afastado por dez meses devido à doença e fiz os preparativos para a difusão. Desde janeiro de 1951, estou desbravando a região onde me encontro atualmente. Após iniciar a missão, meu corpo, que tanto me preocupava, alcançou um equilíbrio pleno, graças à divina proteção. Hoje, tenho a honra de figurar entre os ministros da sagrada Igreja da Salvação Mundial.
+
+Meishu-Sama, muito obrigado.
+
+Eu, que tive minha vida, já sem esperança, salva por Vós, desejo dedicar-me à obra da salvação até que este corpo se extinga. Rogo para que Vossa proteção continue a me guiar, hoje e sempre.
+
+(17 de agosto de 1952)
+
+---
+
+# Retratos da Degradação Humana
+
+**Categoria:** a | **Ano:** 昭和8(1933)年9月16日 | **Fonte:** 穴かしこ
+**Título Original:** 穴かしこ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1933-09-16
+
+## Retratos da Degradação Humana
+
+A seguir, descreverei essa corja de imprestáveis. Embora seu crime seja menor que o do grupo anterior, são indivíduos igualmente intratáveis. À primeira vista, parecem seres humanos comuns: dotados de cinco sentidos e de um corpo completo, alimentam-se, respiram e excretam. Contudo, são praticamente robôs vivos, desprovidos de qualquer habilidade notável. Em toda e qualquer ocasião, limitam-se a seguir a manada, ecoando servilmente a opinião alheia em meio a um alvoroço inconsequente; são os que poderíamos chamar de parasitas sociais.
+
+Nesse sentido, até mesmo um boato insignificante é capaz de atiçá-los. Se mulheres, são levianas e inconstantes como balões, e, confundindo o bem e o mal de forma caótica, empenham-se com afinco em obstar a Obra Divina. Há também aqueles que se tornam ministros movidos apenas pelo saquê gratuito e pelas oferendas; profanam o Solo Sagrado ao assediar as esposas dos fiéis e não hesitam em ultrajar seus benfeitores, aqueles a quem devem a própria vida, como se isso nada fosse. São tipos abomináveis, que difamam seus superiores, são mestres na arte da bravata e, diante de qualquer mulher, adotam uma gentileza fingida com a intenção de exibi-la como um troféu. Em suma, são a escória da humanidade.
+
+Nesse mesmo grupo, encontramos o patife desavergonhado que, com naturalidade, deixa de pagar seus aluguéis. E quando uma alma caridosa lhe empresta dinheiro, ele não só se apropria do montante, como ainda se gaba de lhe ter aplicado um “castigo merecido”, como se estivesse executando um desígnio do carma. Trata-se de um canalha execrável, que comete uma transgressão abominável ao domínio de Deus.
+
+Existem ainda aqueles indivíduos medíocres que julgam que a Obra Divina consiste em difamar o próximo e em cooptar membros de outros para expandir sua própria jurisdição. Para eles, o “amor” (愛) de “Amor e Bondade” (愛善) não passa de um trocadilho com o “índigo” (藍) do tintureiro, e a “bondade” (善) é meramente um artifício para garantir o sustento. São, na verdade, espectros lastimáveis, desprovidos de qualquer sentimento nobre. Diante de tal quadro, não resta outra alternativa senão reuni-los e reduzi-los a cinzas, pois suas almas se assemelham ao pó e ao lixo.
+
+Outros, por sua vez, mesmo sendo egressos de instituições de ensino superior, ignoram a existência de Deus. Vivem em um estado de nudez espiritual, repetindo incessantemente o mantra da ciência, como se esta fosse a única verdade. Esses indivíduos abastados abandonaram sua condição humana para se tornarem como sapos no Parque Hibiya. Há também os tipos submissos que, em suas empresas e repartições, se comportam como bajuladores servis, resignando-se a uma existência análoga à dos insetos. Os desprovidos de recursos, por seu turno, zumbem em queixas incessantes, quais mosquitos, transformando-se em escrevinhadores de três vinténs. E os que se tornaram vagabundos vivem em perpétua inquietação, sempre agitados. Dentre eles, os que possuem um pouco mais de vigor aspiram, no máximo, a carregar o andor de algum chefe de quadrilha.
+
+Contudo, no momento em que Deus Se manifestar, todos esses infelizes serão tomados de espanto ou detidos pelas autoridades, revelando-se como nada mais que vermes patéticos e insignificantes, inferiores a uma vírgula.
+
+---
+
+# O Motivo Pelo Qual o Mal é Sempre Exposto
+
+**Categoria:** a | **Ano:** 昭和26(1951)年12月26日 | **Fonte:** Eikou
+**Título Original:** 悪は何故暴露するか | **Status:** Published | **Edição/Página:** 136号 | **Data ISO:** 1951-12-26
+
+## O Motivo Pelo Qual o Mal é Sempre Exposto
+
+Conforme abordei em edição anterior, sob o título “A Superstição da Inexistência de Deus”, o problema da corrupção entre funcionários públicos já foi elucidado em suas linhas gerais. Em síntese, a origem de tal conduta reside na psicologia daquele que comete a injustiça, fundamentada na mentalidade materialista de que, enquanto uma ação permanecer oculta aos olhos humanos, pode ser praticada sem consequências.
+
+Aprofundemos, portanto, essa reflexão. Se fosse verdade que o mal pudesse permanecer em absoluto segredo, não haveria situação mais vantajosa; seria mais lucrativo praticar o máximo de perversidades possível para obter ganhos. É inegável que a maioria dos indivíduos que hoje trilham o caminho do mal age sob essa premissa. Contudo, aqui reside o grande mistério: por mais engenhosa que seja a trama, ela invariavelmente acaba sendo desmascarada. Embora os malfeitores percebam esse padrão, a sua incapacidade de compreender a verdadeira causa os impede de abandonar suas práticas nefastas. Esta é, sem dúvida, a sua genuína condição interior.
+
+Passo, então, a elucidar a razão pela qual os atos malignos são sempre revelados. O ponto primordial, e o mais crucial de todos, é que, embora seja possível ludibriar o olhar alheio, é impossível enganar a própria consciência. Por mais que alguém se esforce para ocultar uma falta, o fato de conhecê-la intimamente significa que, para si mesmo, ela já está exposta. A mentalidade que prevalece na sociedade moderna é a de que o indivíduo é um ser autônomo, um membro da coletividade desvinculado de qualquer outra instância e, portanto, livre para agir conforme sua própria vontade sem maiores impedimentos. Sob essa ótica, a maneira mais inteligente de viver consiste em buscar apenas aquilo que é conveniente e proveitoso para si. Consequentemente, mesmo que ouçam discursos altruístas e morais de seus superiores ou de líderes religiosos, e finjam admiração, em seu íntimo pensam: “Que disparate! Isso não passa do discurso delirante de um covarde ou da ladainha vazia de um supersticioso”. Um indivíduo assim, preso às aparências, é espiritualmente nulo, e seu valor como ser humano também pode ser considerado nulo.
+
+Eis um retrato fiel da mentalidade que predomina no homem contemporâneo. A questão que se impõe é: poderá o portador de tais ideias alcançar a felicidade futura? A resposta é que seu destino é, invariavelmente, o fracasso.
+
+A razão desse fracasso, como mencionei, reside no fato de que, mesmo desconhecido pelos outros, o mal é perfeitamente conhecido por quem o pratica. E por que isso é tão determinante? Porque existe uma instância temível que conhece, com a precisão de quem segura algo nas mãos, tudo o que se passa no interior do ser humano. Essa instância se localiza no Mundo Espiritual e corresponde, no plano material, a uma espécie de promotoria de justiça: o Tribunal de Enma (閻魔). Infelizmente, as mentes petrificadas pelo materialismo são incapazes de crer em tal realidade; quando ouvem a respeito, negam-na veementemente, recusando-se a dar-lhe qualquer crédito. É precisamente essa forma de pensar a fonte de todo o mal. Por conseguinte, afirmo categoricamente que a única maneira verdadeiramente eficaz de extirpar o mal do mundo é ensinar esta verdade e fazer com que as pessoas acreditem nela.
+
+Mas como o Tribunal de Enma (閻魔) toma conhecimento de tudo? A alma de cada pessoa está ligada a esse tribunal por um cordão espiritual, análogo às ondas de rádio do mundo físico. Através dele, todos os atos são registrados com absoluta precisão. No tribunal, funcionários catalogam minuciosamente cada ação em seus livros e aplicam a punição correspondente à gravidade do delito. A exposição do mal no plano terreno ocorre por meios de notável engenhosidade, culminando na aplicação da penalidade material. Se o ser humano compreendesse essa realidade em sua essência, o temor o impediria de cometer a menor das transgressões. Em contrapartida, a prática do bem é recompensada de forma proporcional, o que revela a perfeição com que Deus estruturou o universo. Esta é a realidade indissociável dos Mundos Espiritual e Material.
+
+Sendo esta a verdade absoluta, não existe outra solução fundamental senão crer nela. No mundo atual, todavia, as autoridades governamentais e os próprios intelectuais permanecem cegos a essas questões espirituais, chegando ao ponto de considerar a sua divulgação como algo contrário à cultura. Por essa razão, nosso trabalho de esclarecimento é frequentemente rotulado de superstição e visto com desconfiança. Do ponto de vista da verdade, na verdade, são eles que se encontram profundamente enredados em sua própria superstição. A prova mais contundente disso é o fato de que, apesar de todos os esforços, crimes como a corrupção não apenas persistem, como parecem aumentar. Isso ocorre porque se tenta combatê-los com medidas paliativas, que visam apenas aos crimes que já vieram à tona. Estabelecem redes de leis repletas de brechas e erguem frágeis barreiras de fiscalização, equivocando-se redondamente quanto ao ponto crucial. Sua insensatez beira o inacreditável. E, ainda assim, creem viver em uma nação culta e se comprazem disso, numa atitude excessivamente pueril. Pode-se dizer, sem exagero, que vivemos em uma era de barbárie culturalmente sofisticada.
+
+---
+
+# O Equívoco Fundamental da Medicina e Suas Vítimas
+
+**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 嗚呼医学の犠牲者 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## O Equívoco Fundamental da Medicina e Suas Vítimas
+
+A leitura do relato sobre a evolução deste paciente desperta em mim a nítida percepção do quão perigosa é a medicina, ao mesmo tempo que suscita uma espécie de justa indignação. O sintoma inicial foi um pequeno furúnculo que surgiu na virilha. Caso fosse deixado em seu curso natural, ele gradualmente incharia, abrir-se-ia espontaneamente para expelir o pus e, por fim, cicatrizaria.
+
+Na maioria das vezes, é comum que surjam outros furúnculos em sucessão. Contudo, à medida que todos eles se manifestam e purgam o que precisam, a cura ocorre de forma sequencial. Não apenas não há motivo para preocupação, como tal processo é, na verdade, uma grande bênção para a saúde, pois representa a eliminação de toxinas do corpo.
+
+Todavia, a medicina de princípios invertidos, por meio de medicamentos, cirurgias e outras terapias, empenha-se em suprimir a drenagem do pus. Isso não apenas se torna a causa da agravação do quadro, como também as próprias toxinas medicamentosas geram sucessivas novas enfermidades, conduzindo o paciente a um ciclo de piora sobre piora, até que a situação se torne irremediável.
+
+Ademais, como as vítimas dessa prática médica são hoje criadas em número incontável, vivemos em tempos verdadeiramente assombrosos.
+
+---
+
+# Um Mundo Dominado pelo Mal
+
+**Categoria:** a | **Ano:** 昭和27(1952)年9月17日 | **Fonte:** Eikou
+**Título Original:** 悪の世の中 | **Status:** Published | **Edição/Página:** 174号 | **Data ISO:** 1952-09-17
+
+## Um Mundo Dominado pelo Mal
+
+Atualmente, é notório que todos os povos do mundo se encontram mergulhados em sofrimento, afligidos pela ameaça da guerra, pelo flagelo das doenças, por conflitos ideológicos e por dificuldades econômicas. Contudo, debruçar-me-ei aqui sobre cada um dos aspectos da realidade japonesa.
+
+Dentre as grandes aflições, começarei por abordar as dificuldades econômicas. Não é novidade que tanto o governo quanto o setor privado enfrentam um impasse financeiro, mas a sua origem reside em um ponto que quase ninguém percebe: a inegável influência do mal.
+
+Principiemos pela administração pública. Os projetos governamentais são gravemente prejudicados pela mentalidade perversa dos funcionários públicos. O que ocorreria se os servidores públicos se empenhassem em evitar o mal? Primeiramente, compreenderiam que cada despesa provém dos impostos pagos com o sangue e o suor do povo e, assim, não se sentiriam inclinados a esbanjar recursos. Da mesma forma, evitariam o desperdício do tempo de trabalho, elevando sobremaneira a produtividade. O número de funcionários poderia ser reduzido talvez à metade do atual, sendo ainda assim suficiente. Agindo com sinceridade, todos os processos transcorreriam com fluidez, o que geraria a aprovação popular. A população deixaria de nutrir o temor e o desprezo que hoje se observam, passando a tratá-los com familiaridade e reverência.
+
+Ademais, aspectos sombrios como os subornos disfarçados de banquetes desapareceriam, pondo fim aos escândalos de corrupção e tornando os governantes dignos de confiança. Nesse cenário, a necessidade de auditorias e fiscalizações se extinguiria, e as disputas judiciais não mais surgiriam. O benefício para a economia nacional seria imensurável. No âmbito pessoal, a saúde dos próprios funcionários seria fortalecida, pois não haveria excessos com bebidas nem hábitos insalubres, e seus lares se tornariam mais prósperos e harmoniosos. Os acordos de bastidores, tão comuns nos projetos governamentais, também cessariam, resultando em custos drasticamente menores e em lucros inesperados. Caso se concretizassem apenas os pontos que enumerei, o orçamento governamental poderia ser reduzido à metade, com folga, e a consequente redução de impostos traria uma alegria indescritível ao povo.
+
+O mesmo raciocínio se aplica às empresas do setor privado. O que ocorreria se todos os funcionários se despojassem do espírito do mal? Ao se dedicarem ao trabalho com total sinceridade, práticas como o pagamento de comissões, a realização de jantares estratégicos e o dispêndio de verbas para lobby se tornariam obsoletos. A dissimulação e a barganha se tornariam extremamente raras. As transações comerciais fluiriam sem percalços, demandando menos tempo e tornando-se uma atividade prazerosa. Com o aumento da produção, o custo diminuiria, impulsionando as vendas. No comércio exterior, o país se tornaria invencível.
+
+E o mais gratificante: os atritos entre capital e trabalho desapareceriam, dando lugar a um ambiente de cooperação e harmonia. Quando os trabalhadores se dedicam à produção com alegria, a produtividade atinge níveis extraordinários. Como resultado, a renda aumentaria significativamente, banindo as preocupações com o sustento. Em uma sociedade assim, não haveria necessidade de guarda-livros ou cofres, e a contabilidade fraudulenta, com seus registros duplicados e triplicados, seria extinta. As negociações com o fisco, que hoje envolvem cinco ou seis auditores em conversas diárias e desagradáveis, se resolveriam em poucas horas, com um ou dois representantes, gerando enormes benefícios para ambas as partes.
+
+Desse modo, a eficiência geral aumentaria a tal ponto que o tempo de trabalho poderia ser reduzido pela metade. Os lucros permitiriam amplos investimentos no bem-estar dos colaboradores, e o prazer de viver seria incomparavelmente maior. Os executivos e diretores, por sua vez, se veriam livres da desagradável experiência de lidar com a insubordinação velada de seus funcionários, tornando-se mais otimistas e serenos, o que garantiria a prosperidade de seus empreendimentos.
+
+Voltemo-nos agora para a esfera política. Nela, como todos sabem, o mal se manifesta com notável astúcia. São raríssimos os políticos e membros de partidos que verdadeiramente colocam o bem da nação e do povo em primeiro lugar. Embora não se possa dizer que ignorem por completo os interesses nacionais, o egoísmo, como os fatos demonstram, predomina. A prioridade recai sempre sobre os interesses pessoais e partidários. Consequentemente, qualquer proposta da oposição é rechaçada a todo custo. Trata-se de uma oposição pela oposição, um espetáculo deplorável que, infelizmente, se normalizou. As vaias, as ofensas e o tumulto no Parlamento são vergonhosos, e a situação degenera por vezes em agressões físicas, assemelhando-se a uma briga de delinquentes.
+
+As eleições gerais foram marcadas para o próximo mês, e sobre elas também gostaria de tecer alguns comentários. A maioria dos parlamentares do passado não foi eleita de forma justa, mas sim por meio de dinheiro e favorecimentos, o que explica a presença de tantos políticos indignos. Desta vez, no entanto, para a construção de um Japão democrático, é nosso anseio eleger indivíduos dos quais não tenhamos de nos envergonhar. Felizmente, parece haver uma maior conscientização sobre a importância de eleições transparentes, o que me leva a crer que teremos um resultado melhor.
+
+Deixando a política de lado, lancemos um olhar sobre a sociedade em geral. A realidade é que o mal se alastra por toda parte. Em quase todos os lares, encontramos desavenças entre marido e mulher, pais e filhos, irmãos e colegas. Famílias harmoniosas são uma raridade. Contendas com parentes e conhecidos, que culminam em processos judiciais, são frequentes. Mais recentemente, a onda de assassinatos entre familiares, tão em voga, ultrapassa a tristeza e adentra o domínio do pavor. Além disso, arrombamentos, roubos, furtos, estelionatos, apropriações indébitas, pequenos furtos em lojas, batedores de carteira e extorsões recheiam as páginas dos jornais diariamente. Esta breve enumeração revela que o mal em nosso mundo é como um pântano sem fundo.
+
+Em suma, a era atual corresponde exatamente ao que o Buda denominou "o mundo do sofrimento", cuja causa geradora é, invariavelmente, o mal. Não seria exagero afirmar, portanto, que a sociedade moderna é composta unicamente por vítimas da maldade. Certamente não existe uma pessoa em dez mil que consiga viver um único dia em completa paz de espírito.
+
+Dentre todas as angústias, a maior é, sem dúvida, a doença. É possível precaver-se contra um ladrão reforçando as fechaduras; a pobreza pode ser superada com saúde e trabalho; e, com a devida prudência, litígios judiciais podem ser evitados. Contudo, a doença e a guerra se apresentam, no momento, como forças absolutamente inelutáveis. Todavia, ao analisá-las em profundidade, percebemos que também elas se originam do mal. Sendo assim, se a causa de todas as calamidades reside no mal, a única via para a sua erradicação é, de forma manifestamente clara, a religião. Resta saber se os ditos intelectuais de nosso tempo compreendem ou não esta verdade. É algo sobre o qual não ouso julgar, mas que deixo à reflexão.
+
+---
+
+# A Proclamação do Insensato Divino
+
+**Categoria:** a | **Ano:** 昭和9(1934)年 | **Fonte:** 第四編
+**Título Original:** 阿呆陀羅経 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1934
+
+## A Proclamação do Insensato Divino
+
+Tal qual uma safra abundante, este é o ano em que os insensatos florescem. E com o peito estufado e o nariz empinado, por mais modesto que seja, avanço com grande alarde.
+
+Após inúmeras provações, enfim desponta a primavera em que os frutos do esforço florescem. Chegou o tempo do grande Japão! Empunhando a espada afiada do Verbo Espiritual, forjada ao longo de incontáveis anos em versos e poemas, eu a ergo em riste. Que os distantes ouçam o seu ressoar! E que os próximos arregalem os olhos, mas sem se assustarem! Assim declamo, com a imponência de um ator em seu palco.
+
+O trabalho que agora se inicia tem por desígnio fazer com que todos, a começar pelas mais altas figuras e descendo até os mais humildes trabalhadores, os servos e os párias da sociedade, se unam em um só propósito, retifiquem seus corações e, sem exceção, se tornem servos de Deus.
+
+Findo esse processo, volveremos nossa atenção aos dejetos putrefatos legados pelos bárbaros ocidentais: a corruptela da democracia, as facções políticas de aproveitadores, os partidos que se fragmentam e se recompõem ao sabor de interesses mesquinhos, os blocos de direita e de esquerda, e a frivolidade do fascismo, que se espalha como um mal contagioso. Em verdade, este mundo se assemelha a uma caixa de brinquedos virada por uma criança, um pandemônio de desordem. Ou, quiçá, ao vômito de um ébrio que conspurcou uma loja de finos adornos. Quão imundo se tornou este mundo em todas as suas esferas!
+
+Contudo, um dia, toda essa imundície será purificada, como que lavada por águas cristalinas. E então, sobre alicerces limpos, o Japão será magnificamente governado pelo Caminho Imperial. Garanto-vos que esta proclamação se realizará! Minha promessa está selada não com uma simples chancela, mas com a impressão de minha própria carne, um selo vivo que sangra se cortado, em juramento perante o Grande Deus da Lua.
+
+Posteriormente, a política, a economia, a diplomacia, a educação, as artes, a agricultura e o comércio; tudo, absolutamente tudo neste mundo, será encabeçado pelos dois ideogramas do Caminho Imperial. Que tempos fascinantes nos aguardam!
+
+Atenção! Uma conflagração de proporções colossais se aproxima! Ninguém pode prever o momento ou o local exatos de seu início, mas sua iminência é inegável, e o mundo está prestes a sofrer uma transformação drástica. Será uma guerra contra o mundo inteiro, o Armagedom, a maior provação nacional desde a aurora dos tempos. O próprio Deus adverte que se aproxima um tempo de perigo tão extremo, que a salvação não pode ser garantida senão no último instante.
+
+Estais preparados? Já fizestes vossos preparativos? Aqueles que não se apressarem agora, não terão mais tempo. Chegará o momento em que todos os noventa milhões de irmãos desta nação deverão retificar seus pensamentos equivocados e, de mãos postas, rogar a Deus, pois de outra forma não haverá travessia. O que virá será um abalo tão profundo que fará a própria alma desprender-se do corpo. O terror será indescritível.
+
+Não digais que não vos avisei. Recordai-vos! Eu vos adverti incessantemente para que tivésseis fé. E o que fizestes? Tapastes os ouvidos, fechastes os olhos, virastes o rosto com desdém e, com soberba, ignorastes minhas palavras. Agora, o castigo divino é iminente e fulminante! De que adiantará o arrependimento tardio? De nada valerá lamentar-se. Se perdoará ou não, somente o coração dos Deuses do Céu e da Terra o dirá.
+
+Todavia, não vos esqueçais: o Japão é, em sua essência, uma Nação Divina. No clímax da adversidade, um Deus vivo, cuja existência parecia impossível neste mundo, manifestar-se-á de forma retumbante. Com um único ato de Seu poder divino, Ele reverterá a situação e nos concederá uma vitória esmagadora e definitiva. Um Grande Homem de Deus, que hoje vive oculto aos olhos do mundo, aguarda o momento certo, de posse de um plano divino infalível. E eu, que creio e espero por este momento, que felicidade maior poderia haver?
+
+E não é tudo! Quão sublime será o mundo que se seguirá! A primavera eterna, onde as garças dançam e as tartarugas repousam, há de chegar. Os ventos soprarão com tamanha gentileza que nem sequer farão sussurrar os galhos das árvores, e o ciclo das chuvas e do clima transcorrerá em perfeita harmonia. Será um mundo isento de pobreza e de doença, o Paraíso na Terra manifestado, a concretização do Governo Divino. Que cenário de sublime alegria nos aguarda!
+
+E aqui estou eu, a proclamar com tanto fervor todas estas coisas... Que grande insensato sou! Proferir tal torrente de sandices e delírios, e ainda ter a audácia de apresentá-los como um augusto “Sutra do Insensato”, para o deleite de todos. Perdi até mesmo o respeito por mim; já não sei se sou tolo ou louco. Sou como uma rã pasmada, coaxando em seu charco com a pretensão de conquistar o mundo. Que cena ridícula
+
+---
+
+# O Abismo entre o Johrei e a Medicina
+
+**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 嗚呼偉大なり浄霊の業 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## O Abismo entre o Johrei e a Medicina
+
+A colossal disparidade entre os resultados do Johrei e os da medicina certamente já se tornou evidente para todos. Todavia, o exemplo prático [omitido] ao qual me refiro é de tal modo excepcional que julguei necessário tecer estas considerações.
+
+Constantemente afirmo a impotência da medicina, e este caso a demonstra de forma tão flagrante que talvez pareça inacreditável. Contudo, por se tratar da mais pura realidade, não há como contestá-la.
+
+Este único fato já bastaria para revelar a natureza criminosa da medicina — algo verdadeiramente indescritível —, razão pela qual anseio que tal situação seja corrigida com a máxima urgência.
+
+Procedendo-se dessa forma, tanto médicos quanto pacientes serão salvos e, naturalmente, se verão livres da angústia gerada pelas enfermidades.
+
+O princípio fundamental para essa transformação é que todas as pessoas conheçam esta verdade e a transmitam umas às outras. Apenas com isso, este mundo infernal se converterá em um Mundo Paradisíaco.
+
+O obstáculo, todavia, reside no fato de que tal revelação soa tão fantástica quanto um sonho, tornando-se de difícil aceitação, o que é deveras lamentável.
+
+---
+
 # O Novo Sentido do Patriotismo
 
 **Categoria:** a | **Ano:** 昭和27(1952)年12月3日 | **Fonte:** Eikou
-**Título Original:** 新しい愛国心 | **Status:** Published
+**Título Original:** 新しい愛国心 | **Status:** Published | **Edição/Página:** 185号 | **Data ISO:** 1952-12-03
 
 ## O Novo Sentido do Patriotismo
 
@@ -30,7 +551,7 @@ Esta única sentença deveria ser suficiente para o entendimento.
 # Oração Amatsu Norito
 
 **Categoria:** a | **Ano:** - | **Fonte:** 天津祝詞・善言讃詞
-**Título Original:** 天津祝詞 ・ 救世（メシヤ）教版 折本 | **Status:** Published
+**Título Original:** 天津祝詞 ・ 救世（メシヤ）教版 折本 | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
 
 ## Oração Amatsu Norito
 (Versão da Igreja Messiânica Mundial)
@@ -59,7 +580,7 @@ Três palmas, duas vênias, uma reverência
 # Quantas Amaterasu Omikami Existem?
 
 **Categoria:** a | **Ano:** 昭和24(1949)年10月1日 | **Fonte:** -
-**Título Original:** 天照大神は幾柱あるか | **Status:** Published
+**Título Original:** 天照大神は幾柱あるか | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1949-10-01
 
 ## Quantas Amaterasu Omikami Existem?
 
@@ -76,7 +597,7 @@ Ademais, desde aquele episódio, encontrei diversas outras mulheres que se autop
 # O Assombro dos Descrentes
 
 **Categoria:** a | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Eikou
-**Título Original:** アレヨアレヨ | **Status:** Published
+**Título Original:** アレヨアレヨ | **Status:** Published | **Edição/Página:** 166号 | **Data ISO:** 1952-07-23
 
 ## O Assombro dos Descrentes
 
@@ -95,7 +616,7 @@ Por essa razão, em breve, os poderosos de todo o mundo — e em especial os do 
 # O Expurgo do Mal
 
 **Categoria:** a | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 悪の追放 | **Status:** Published
+**Título Original:** 悪の追放 | **Status:** Published | **Edição/Página:** P.12 | **Data ISO:** 1948-09-05
 
 ## O Expurgo do Mal
 
@@ -116,7 +637,7 @@ Qual seria, então, esse caminho? É, sem dúvida, a prática da fé verdadeira.
 # A Edificação do Paraíso Terrestre
 
 **Categoria:** a | **Ano:** 昭和22(1947)年8月 | **Fonte:** Chijo Tengoku
-**Título Original:** 愛和会趣意書 | **Status:** Unknown
+**Título Original:** 愛和会趣意書 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1947-08
 
 ## A Edificação do Paraíso Terrestre
 
@@ -149,7 +670,7 @@ Nossa associação avançará apoiada em três pilares: o Departamento Religioso
 # A Deplorável Condição do Homem Moderno
 
 **Categoria:** a | **Ano:** 昭和28(1953)年3月11日 | **Fonte:** Eikou
-**Título Original:** 哀れむべき現代人 | **Status:** Published
+**Título Original:** 哀れむべき現代人 | **Status:** Published | **Edição/Página:** 199号 | **Data ISO:** 1953-03-11
 
 ## A Deplorável Condição do Homem Moderno
 
@@ -215,7 +736,7 @@ Muito obrigada, Meishu-Sama. Rogo para que Vossa orientação e proteção imut�
 # Infortúnio, teu nome é intelectual
 
 **Categoria:** a | **Ano:** - | **Fonte:** 哀れなるものよ汝の名は文化人なり
-**Título Original:** 哀れなるものよ汝の名は文化人なり | **Status:** Unpublished
+**Título Original:** 哀れなるものよ汝の名は文化人なり | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
 
 ## Infortúnio, teu nome é intelectual
 
@@ -240,7 +761,7 @@ Nesse sentido, nosso objetivo é insuflar vida nesta cultura imperfeita, ensinar
 # O Relato de um Oftalmologista
 
 **Categoria:** a | **Ano:** 昭和24(1949)年11月5日 | **Fonte:** -
-**Título Original:** ある眼科医の話 医学談片集 | **Status:** Published
+**Título Original:** ある眼科医の話 医学談片集 | **Status:** Published | **Edição/Página:** 34号 | **Data ISO:** 1949-11-05
 
 ## O Relato de um Oftalmologista
 
@@ -259,7 +780,7 @@ Diante de tal declaração, restou-me apenas um profundo espanto.
 # A Ambiguidade das Antigas Escrituras
 
 **Categoria:** a | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 暗中模索 | **Status:** Published
+**Título Original:** 暗中模索 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Ambiguidade das Antigas Escrituras
 
@@ -288,7 +809,7 @@ A essência dos sutras budistas e a verdade da Bíblia, apesar dos esforços de 
 # A Falácia da Medicina
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 嗚呼医学なるもの 未発表 | **Status:** Unpublished
+**Título Original:** 嗚呼医学なるもの 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Falácia da Medicina
 
@@ -307,7 +828,7 @@ Ao observar essa situação, vejo uma notável semelhança com o infortúnio daq
 # A Ilusão da Medicina Contemporânea
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 嗚呼医学というもの 未発表 | **Status:** Unpublished
+**Título Original:** 嗚呼医学というもの 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Ilusão da Medicina Contemporânea
 
@@ -328,7 +849,7 @@ Esta é, pois, a situação atual. Posso, contudo, afiançar que essa esperança
 # O Sutra dos Insensatos
 
 **Categoria:** a | **Ano:** 昭和9(1934)年 | **Fonte:** 第三編
-**Título Original:** 阿呆陀羅経 | **Status:** Unpublished
+**Título Original:** 阿呆陀羅経 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1934
 
 ## O Sutra dos Insensatos
 
@@ -351,7 +872,7 @@ Tantaracá poc poc poc.
 # O Desconhecimento da Prática Médica
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 噫々医療というもの 未発表 | **Status:** Unpublished
+**Título Original:** 噫々医療というもの 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Desconhecimento da Prática Médica
 
@@ -368,7 +889,7 @@ Ademais, quando, em vez da cirurgia, opta-se por tratamentos como a radioterapia
 # A Aldeia Iluminada e a Aldeia Sombria
 
 **Categoria:** a | **Ano:** 昭和24(1949)年8月6日 | **Fonte:** -
-**Título Original:** 明るい村と暗い村 寸評（光21号） 白光生 | **Status:** Published
+**Título Original:** 明るい村と暗い村 寸評（光21号） 白光生 | **Status:** Published | **Edição/Página:** 21号, 21号 | **Data ISO:** 1949-08-06
 
 ## A Aldeia Iluminada e a Aldeia Sombria
 
@@ -379,7 +900,7 @@ Relataram-me, há pouco, um fato notável: as comunidades onde um número expres
 # O Equívoco das Terapias com Toxinas
 
 **Categoria:** a | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 誤れる毒素療法 | **Status:** Unknown
+**Título Original:** 誤れる毒素療法 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## O Equívoco das Terapias com Toxinas
 
@@ -402,7 +923,7 @@ Por fim, no caso da hemoptise na tuberculose pulmonar, administram-se injeções
 # A Verdadeira Paz de Espírito
 
 **Categoria:** a | **Ano:** 昭和27(1952)年12月10日 | **Fonte:** Eikou
-**Título Original:** 安心立命 | **Status:** Published
+**Título Original:** 安心立命 | **Status:** Published | **Edição/Página:** 186号 | **Data ISO:** 1952-12-10
 
 ## A Verdadeira Paz de Espírito
 
@@ -423,7 +944,7 @@ Pois bem, essa conquista é plenamente possível, e nisto reside sua extraordin�
 # Oh, este Milagre!
 
 **Categoria:** a | **Ano:** 昭和27(1952)年8月13日 | **Fonte:** Eikou
-**Título Original:** 嗚呼この奇蹟 | **Status:** Published
+**Título Original:** 嗚呼この奇蹟 | **Status:** Published | **Edição/Página:** 169号 | **Data ISO:** 1952-08-13
 
 ## Oh, este Milagre!
 
@@ -480,7 +1001,7 @@ Meishu-Sama, muito obrigada.
 # A Exortação para Comer Fezes, Lamber Traseiros e Cheirar Flatulências
 
 **Categoria:** a | **Ano:** 昭和9(1934)年 | **Fonte:** Kenko
-**Título Original:** 阿呆陀羅経 | **Status:** Unpublished
+**Título Original:** 阿呆陀羅経 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1934
 
 ## A Exortação para Comer Fezes, Lamber Traseiros e Cheirar Flatulências
 
@@ -499,7 +1020,7 @@ E com esse ímpeto, com grande fervor e determinação, prosseguem em sua marcha
 # O Mal e o Espírito Guardião
 
 **Categoria:** a | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 悪と守護霊 未発表 | **Status:** Unpublished
+**Título Original:** 悪と守護霊 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## O Mal e o Espírito Guardião
 
@@ -554,7 +1075,7 @@ Dessa forma, o Deus Supremo permitiu que deuses benévolos e espíritos malignos
 # Pleurisia e Peritonite
 
 **Categoria:** ro | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 肋膜及び腹膜炎 | **Status:** Published
+**Título Original:** 肋膜及び腹膜炎 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Pleurisia e Peritonite
 
@@ -573,7 +1094,7 @@ A peritonite, de modo semelhante à pleurisia, apresenta-se nas formas úmida e 
 # O Propósito da Obra "Salvar a América"
 
 **Categoria:** a | **Ano:** 昭和28(1953)年1月24日 | **Fonte:** アメリカを救う
-**Título Original:** - | **Status:** Published
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-01-24
 
 ## O Propósito da Obra "Salvar a América"
 
@@ -590,7 +1111,7 @@ A causa, por certo, reside nos equívocos da medicina. O propósito deste livro 
 # A Urgência de Renovar a Mente
 
 **Categoria:** a | **Ano:** 昭和27(1952)年1月7日 | **Fonte:** Dougi
-**Título Original:** 頭を新しくせよ | **Status:** Unpublished
+**Título Original:** 頭を新しくせよ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952-01-07
 
 ## A Urgência de Renovar a Mente
 
@@ -609,7 +1130,7 @@ Nesse sentido, a nova ideologia que proponho chega a ser o oposto do pensamento 
 # Esboço de uma Audiência Judicial
 
 **Categoria:** a | **Ano:** 昭和26(1951)年8月10日 | **Fonte:** 或る日の公判スケッチ
-**Título Original:** 或る日の公判スケッチ | **Status:** Published
+**Título Original:** 或る日の公判スケッチ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-10
 
 ## Esboço de uma Audiência Judicial
 
@@ -683,7 +1204,7 @@ Portanto, embora eu lamente pelos senhores promotores, se este incidente servir 
 # A Proteção Divina dos Espíritos Heroicos de Attu
 
 **Categoria:** a | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** アッツの英霊 | **Status:** Published
+**Título Original:** アッツの英霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Proteção Divina dos Espíritos Heroicos de Attu
 
@@ -738,7 +1259,7 @@ Tratava-se, provavelmente, da unidade que realizara a operação de desembarque 
 # A Pleurisia e a Peritonite
 
 **Categoria:** ro | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 肋膜炎及び腹膜炎 ・病患と医学の誤謬四 | **Status:** Published
+**Título Original:** 肋膜炎及び腹膜炎 ・病患と医学の誤謬四 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Pleurisia e a Peritonite
 
@@ -769,7 +1290,7 @@ Ouso afirmar que praticamente todas as pessoas possuem, em maior ou menor grau, 
 # Pleurisia e Peritonite
 
 **Categoria:** ro | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 肋膜炎と腹膜炎 未発表 | **Status:** Unpublished
+**Título Original:** 肋膜炎と腹膜炎 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## Pleurisia e Peritonite
 
@@ -788,7 +1309,7 @@ Já na peritonite purulenta, as toxinas medicamentosas se convertem em pus e se 
 # Um Relato Experimental sobre a Questão Trabalhista
 
 **Categoria:** ro | **Ano:** 昭和24(1949)年12月17日 | **Fonte:** -
-**Título Original:** 労働問題実験記 | **Status:** Published
+**Título Original:** 労働問題実験記 | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1949-12-17
 
 ## Um Relato Experimental sobre a Questão Trabalhista
 
@@ -811,7 +1332,7 @@ O que descrevi representa o modelo das relações entre capital e trabalho no Mu
 # Esclarecimentos sobre a Pleurisia e a Peritonite
 
 **Categoria:** ro | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published
+**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## Esclarecimentos sobre a Pleurisia e a Peritonite
 
@@ -852,7 +1373,7 @@ Pessoas com nódulos purulentos no peritônio invariavelmente apresentam uma má
 # O Triunfo sobre o Mal
 
 **Categoria:** a | **Ano:** 昭和26(1951)年4月18日 | **Fonte:** Eikou
-**Título Original:** 悪に勝つ | **Status:** Published
+**Título Original:** 悪に勝つ | **Status:** Published | **Edição/Página:** 100号 | **Data ISO:** 1951-04-18
 
 ## O Triunfo sobre o Mal
 
@@ -885,7 +1406,7 @@ Embora tenha me alongado, a conclusão é a seguinte: o objetivo primordial da r
 # Sobre a Pleurisia e a Peritonite
 
 **Categoria:** ro | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published
+**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## Sobre a Pleurisia e a Peritonite
 
@@ -924,7 +1445,7 @@ Aqueles que possuem pus solidificado no peritônio invariavelmente apresentam um
 # Pleurisia e Peritonite
 
 **Categoria:** ro | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published
+**Título Original:** 肋膜炎及び腹膜炎 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## Pleurisia e Peritonite
 
@@ -953,7 +1474,7 @@ Na realidade, posso afirmar que a peritonite purulenta é uma condição que, em
 # A Temível Superstição Médica
 
 **Categoria:** o | **Ano:** 昭和27(1952)年5月21日 | **Fonte:** Eikou
-**Título Original:** 恐るべき医学迷信 | **Status:** Published
+**Título Original:** 恐るべき医学迷信 | **Status:** Published | **Edição/Página:** 157号 | **Data ISO:** 1952-05-21
 
 ## A Temível Superstição Médica
 
@@ -999,7 +1520,7 @@ Meishu-Sama, receba a minha mais profunda e sincera gratidão.
 # A Pleurisia e a Peritonite
 
 **Categoria:** ro | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 肋膜炎及び腹膜炎 ・病患と医学の誤謬四 | **Status:** Published
+**Título Original:** 肋膜炎及び腹膜炎 ・病患と医学の誤謬四 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Pleurisia e a Peritonite
 
@@ -1038,7 +1559,7 @@ Ademais, quem possui pus solidificado no peritônio invariavelmente apresenta um
 # O Imenso Poder do Ohikari
 
 **Categoria:** o | **Ano:** 昭和26(1951)年1月17日 | **Fonte:** Eikou
-**Título Original:** 御守の偉力 | **Status:** Published
+**Título Original:** 御守の偉力 | **Status:** Published | **Edição/Página:** 87号 | **Data ISO:** 1951-01-17
 
 ## O Imenso Poder do Ohikari
 
@@ -1079,7 +1600,7 @@ Ao ouvir aquele testemunho, inconscientemente, minha mão apertou com firmeza o 
 # A Temível Liberdade de Imprensa
 
 **Categoria:** o | **Ano:** 昭和24(1949)年10月22日 | **Fonte:** -
-**Título Original:** 恐しき新聞の自由 | **Status:** Published
+**Título Original:** 恐しき新聞の自由 | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1949-10-22
 
 ## A Temível Liberdade de Imprensa
 
@@ -1098,7 +1619,7 @@ Como religiosos, relutamos profundamente em recorrer às vias legais. Entretanto
 # Um Esclarecimento sobre a Terapia Espiritual Divina
 
 **Categoria:** o | **Ano:** 昭和25(1950)年5月6日 | **Fonte:** Kyusei
-**Título Original:** 岡田道一先生に物申す ――そこひと神霊療法に就て | **Status:** Published
+**Título Original:** 岡田道一先生に物申す ――そこひと神霊療法に就て | **Status:** Published | **Edição/Página:** 61号 | **Data ISO:** 1950-05-06
 
 ## Um Esclarecimento sobre a Terapia Espiritual Divina
 
@@ -1117,7 +1638,7 @@ O exposto acima é um retrato fiel da realidade. Sendo assim, a tese do mestre O
 # A Postura Mental do Terapeuta
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 上巻 （四） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 上巻 （四） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## A Postura Mental do Terapeuta
 
@@ -1222,7 +1743,7 @@ Em suma, narrei estes fatos como referência para que saibam que os espíritos d
 # A Verdadeira Salvação em Contraste com a Medicina
 
 **Categoria:** o | **Ano:** 昭和25(1950)年5月6日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 | **Status:** Published
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 61号 | **Data ISO:** 1950-05-06
 
 ## A Verdadeira Salvação em Contraste com a Medicina
 
@@ -1279,7 +1800,7 @@ Em uma só frase, poderíamos dizer: "Ó infelizes, vosso sofrimento advém de i
 # A Terrível Tuberculose nos Vilarejos Rurais
 
 **Categoria:** o | **Ano:** 昭和28(1953)年3月11日 | **Fonte:** Eikou
-**Título Original:** 恐るべき農村結核 | **Status:** Published
+**Título Original:** 恐るべき農村結核 | **Status:** Published | **Edição/Página:** 199号 | **Data ISO:** 1953-03-11
 
 ## A Terrível Tuberculose nos Vilarejos Rurais
 
@@ -1321,7 +1842,7 @@ Atualmente, o vilarejo de Iinoya empenha todos os seus esforços para se livrar 
 # A Grandeza do Johrei Ante as Limitações da Ciência
 
 **Categoria:** o | **Ano:** 昭和25(1950)年2月18日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 科学に先行の浄霊 | **Status:** Published
+**Título Original:** おかげばなし批判 科学に先行の浄霊 | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1950-02-18
 
 ## A Grandeza do Johrei Ante as Limitações da Ciência
 
@@ -1395,7 +1916,7 @@ A medicina é um método solidificante, e este paciente é um exemplo claro do q
 # Pontos de Máxima Atenção
 
 **Categoria:** o | **Ano:** 昭和27(1952)年5月14日 | **Fonte:** Eikou
-**Título Original:** 大いに注意すべき事 | **Status:** Published
+**Título Original:** 大いに注意すべき事 | **Status:** Published | **Edição/Página:** 156号 | **Data ISO:** 1952-05-14
 
 ## Pontos de Máxima Atenção
 
@@ -1438,7 +1959,7 @@ A esposa do presidente me esclareceu que, muito provavelmente, os espíritos de 
 # O Mistério da Luz Divina no Omamori
 
 **Categoria:** o | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** Eikou
-**Título Original:** 御守から出る光波 | **Status:** Published
+**Título Original:** 御守から出る光波 | **Status:** Published | **Edição/Página:** 223号 | **Data ISO:** 1953-08-26
 
 ## O Mistério da Luz Divina no Omamori
 
@@ -1513,7 +2034,7 @@ Muito obrigado. Rogo para que continue a nos proteger sempre.
 # O Alerta aos Descrentes
 
 **Categoria:** o | **Ano:** 昭和8(1933)年7月16日 | **Fonte:** お筆先
-**Título Original:** お筆先 | **Status:** Unpublished
+**Título Original:** お筆先 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1933-07-16
 
 ## O Alerta aos Descrentes
 
@@ -1528,7 +2049,7 @@ Portanto, se houver o anseio pelo arrependimento, que ele se manifeste agora. Es
 # O Diagnóstico pelo Pulso e as Afecções Cardíacas
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （三） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 下巻 （三） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## O Diagnóstico pelo Pulso e as Afecções Cardíacas
 
@@ -1671,7 +2192,7 @@ Por fim, a icterícia é causada por uma massa na região do fígado; basta trat
 # A Superioridade do Jyorei Demonstrada pelos Fatos
 
 **Categoria:** o | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published
+**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1950-03-18
 
 ## A Superioridade do Jyorei Demonstrada pelos Fatos
 
@@ -1743,7 +2264,7 @@ A explicação para o histórico desta paciente é a seguinte: a doença ocular 
 # A Sobrescelente Terapia Divina
 
 **Categoria:** o | **Ano:** 昭和25(1950)年3月25日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 卓越せる神療法 | **Status:** Published
+**Título Original:** おかげばなし批判 卓越せる神療法 | **Status:** Published | **Edição/Página:** 55号 | **Data ISO:** 1950-03-25
 
 ## A Sobrescelente Terapia Divina
 
@@ -1842,7 +2363,7 @@ Ademais, durante todo esse processo, a dor é inteiramente suprimida, eliminando
 # Recordações de uma Travessia de Okunikko a Shiobara
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 奥日光から塩原へ 自観叢書第5編 | **Status:** Published
+**Título Original:** 奥日光から塩原へ 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.14 | **Data ISO:** 1949-08-30
 
 ## Recordações de uma Travessia de Okunikko a Shiobara
 
@@ -1873,7 +2394,7 @@ Nessa viagem, enfrentei duas situações de grande perigo. A primeira foi a qued
 # Palavras de Meishu-Sama sobre o Palácio de Cristal e a Estrutura da Igreja
 
 **Categoria:** o | **Ano:** 昭和30(1955)年1月1日 | **Fonte:** Eikou
-**Título Original:** 御取次 執事 阿部晴三 | **Status:** Published
+**Título Original:** 御取次 執事 阿部晴三 | **Status:** Published | **Edição/Página:** 289号 | **Data ISO:** 1955-01-01
 
 ## Palavras de Meishu-Sama sobre o Palácio de Cristal e a Estrutura da Igreja
 
@@ -1898,7 +2419,7 @@ Estas são as palavras que me coube transmitir.
 # Uma Análise sobre os Méritos e Deméritos da Prática Médica
 
 **Categoria:** o | **Ano:** 昭和24(1949)年11月19日 | **Fonte:** -
-**Título Original:** おかげ話から何を掴んだか | **Status:** Published
+**Título Original:** おかげ話から何を掴んだか | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1949-11-19
 
 ## Uma Análise sobre os Méritos e Deméritos da Prática Médica
 
@@ -1931,7 +2452,7 @@ Por tudo o que foi exposto, o Grande Amor de Deus, na iminência do Fim da Era, 
 # A Restauração Miraculosa de um Dedo Amputado
 
 **Categoria:** o | **Ano:** 昭和25(1950)年5月27日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 | **Status:** Published
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 64号 | **Data ISO:** 1950-05-27
 
 ## A Restauração Miraculosa de um Dedo Amputado
 
@@ -2014,7 +2535,7 @@ Este relato contém dois significados de grande importância. O primeiro é o fa
 # Tratamento de Enfermidades da Cabeça, Pescoço e Tórax
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （二） | **Status:** Unknown
+**Título Original:** 岡田先生療病術講義録 下巻 （二） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
 
 ## Tratamento de Enfermidades da Cabeça, Pescoço e Tórax
 
@@ -2217,7 +2738,7 @@ Existe também a broncopneumonia, que ocorre quando o pus acumulado na parte inf
 # A Superioridade do Johrei em Relação à Medicina
 
 **Categoria:** o | **Ano:** 昭和25(1950)年2月11日 | **Fonte:** Kyusei
-**Título Original:** おかげ批判 浄霊と医療の優劣現る | **Status:** Published
+**Título Original:** おかげ批判 浄霊と医療の優劣現る | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1950-02-11
 
 ## A Superioridade do Johrei em Relação à Medicina
 
@@ -2283,691 +2804,6 @@ A esposa do senhor Nakazono, já no dia seguinte, iniciou seu aprimoramento espi
 Este é um excelente exemplo de como até mesmo os mais céticos são forçados a se curvar diante da evidência dos fatos. A dor que ressurgiu no local de uma antiga mordida de cavalo, tratada com penicilina e gelo para conter a supuração, demonstra o quão temporárias são as terapias de solidificação.
 
 Ademais, desconhecendo a causa, ele recorreu a uma injeção para uma dor e febre leves, o que resultou na formação de um nódulo do tamanho de um punho e em dores e febre lancinantes. Isso se deveu inteiramente à injeção. Com o Johrei, entretanto, o nódulo desapareceu em cerca de cinco minutos, a dor foi eliminada e a cura completa foi alcançada. Através desses fatos, a superioridade do Johrei em relação à medicina torna-se manifesta.
-
----
-
-# A Genialidade de Ogata Korin e sua Influência Mundial
-
-**Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 尾形光琳 自観叢書第5編 | **Status:** Published
-
-## A Genialidade de Ogata Korin e sua Influência Mundial
-
-Desde a tenra idade, nutro um profundo apreço pela pintura. E, dentre todos os artistas, antigos e modernos, meu predileto é, sem qualquer hesitação, Ogata Korin. No seio da Escola Korin, artistas como Koetsu (光悦), Sotatsu (宗達), Koho (光甫) e Kenzan (乾山) possuem, cada qual, seus méritos; todavia, Korin se destaca de maneira absolutamente singular. Não há paralelo para sua capacidade de, com extrema simplicidade, apreender a verdadeira essência de seus temas. Ele ignora por completo a forma literal dos objetos e, paradoxalmente, consegue expressá-la com a mais absoluta fidelidade. É um fenômeno análogo ao poder de um poema *waka* de 31 sílabas, capaz de comover onde um discurso de dez mil palavras falharia. O que mais me causa espanto, contudo, é a forma audaciosa como ele rompeu com os cânones da pintura japonesa de sua época, até então aprisionados aos modelos de inspiração chinesa. Tal ruptura se manifesta em dois pontos cruciais: a abolição do contorno linear e a transição para um estilo que se aproxima do design. Em suma, sua ousadia residiu em instituir uma técnica revolucionária que desafiava o academismo vigente.
-
-Passados mais de duzentos anos do falecimento de Korin, sua grandiosa obra veio a fomentar uma revolução no cenário artístico da era Meiji. A esse respeito, recordo-me de um episódio ocorrido há mais de trinta anos. Naquela ocasião, o mestre Okakura Tenshin havia se retirado para um período de reclusão em Izura, na província de Hitachi, acompanhado por seus quatro mais célebres discípulos: Taikan (大観), Shunso (春草), Kanzan (観山) e Buzan (武山). Por circunstâncias particulares, tive a oportunidade de me encontrar com o mestre Tenshin. Ele me expôs suas aspirações para o futuro da pintura japonesa, e seus ensinamentos foram de imenso proveito para mim. Foi nesse momento que compreendi a natureza extraordinária de sua visão. Naquela mesma noite, passei horas a conversar com os pintores Shimomura Kanzan e Kimura Buzan. Segundo me relatou o mestre Kanzan, a intenção de Tenshin ao fundar o Instituto de Belas-Artes do Japão era “revitalizar o espírito de Korin em nossa era”. “Portanto”, prosseguiu ele, “nosso princípio fundamental é a não utilização de linhas de contorno. Embora hoje nosso estilo seja depreciado sob o rótulo de Escola *Moro* (朦朧派), ou Escola Esmaecida, não tenho dúvida de que chegará o dia em que seremos devidamente reconhecidos”. E, de fato, tal como previra o mestre, a escola do Instituto não tardou a conquistar o mundo da arte, deflagrando a já conhecida revolução na pintura japonesa.
-
-O mestre Kanzan compartilhou ainda outro relato fascinante. No Ocidente, a pintura havia levado o realismo a um extremo tal que passara a competir em minúcia com a própria fotografia. Atingido esse impasse, do qual parecia não haver saída, tornou-se imperativa a busca por uma nova direção. Foi nesse exato momento que, nos círculos artísticos da França, alguém descobriu a obra de Korin. É fácil imaginar o assombro e a admiração que seu estilo provocou, sendo ele a antítese absoluta do realismo meticuloso. Desse impacto, floresceu o movimento *Art Nouveau* e, subsequentemente, a corrente pré-impressionista, que por fim culminou no surgimento de gênios da estatura de Van Gogh, Gauguin e Cézanne, os grandes mestres do pós-impressionismo. A influência, contudo, não se deteve na pintura. Ela desencadeou uma revolução em todas as artes e ofícios, estendendo-se até mesmo à arquitetura. Nesse campo, os estilos clássicos greco-romanos e secessionistas cederam lugar a uma profunda transformação, que ofuscou a estética renascentista e deu origem à arquitetura moderna, como é de conhecimento geral. Pode-se afirmar, sem margem para erro, que até mesmo o estilo arquitetônico de extrema simplificação concebido pelo francês Le Corbusier, que hoje domina o cenário mundial, tem em Korin sua fonte primordial.
-
-Por tudo isso, não seria exagero afirmar que Korin, um japonês cuja obra foi capaz de mover o mundo inteiro séculos após sua morte — ou melhor, de revolucionar um dos pilares da cultura humana —, representa o maior motivo de orgulho para o Japão.
-
-Até hoje, não há registro de outro japonês cujas realizações tenham impactado de forma tão profunda um campo do saber em escala global. Devemos reconhecer que, nesse sentido, há somente Korin.
-
----
-
-# Sobre o Senhor Ooya Souichi
-
-**Categoria:** o | **Ano:** 昭和26(1951)年11月7日 | **Fonte:** Eikou
-**Título Original:** 大宅壮一という人 | **Status:** Published
-
-## Sobre o Senhor Ooya Souichi
-
-Este homem é possuidor de uma mente peculiar. Recentemente, em sua coluna no jornal Tokyo Nichi Nichi, ele mais uma vez, como de costume, dedicou três artigos a me difamar com sua conhecida habilidade. Com efeito, há vinte anos que este senhor me persegue como se eu fosse o algoz de seus pais, publicando periodicamente seus ataques contra mim nos jornais com uma persistência notável. Contudo, seus artigos mais recentes revelam um esmero inédito. Refletindo a respeito, concluo que foram escritos em um gesto de despeito, motivado pelo processo por difamação que nossa Igreja moveu contra ele por conta de suas ofensas anteriores. Percebe-se claramente, todavia, seu receio de enfrentar um novo processo, pois ele se esforça ao máximo para evitar afirmações categóricas, preferindo reunir supostas evidências para fundamentar seus ataques.
-
-Analisemos, pois, a natureza de tais materiais. Um deles consiste em um artigo falacioso, publicado no ano passado em um jornal de terceira categoria. A fonte dessa matéria seria um antigo conhecido meu, pessoa de mente um tanto desequilibrada que, movido por rancor, proferiu inverdades a meu respeito. Ademais, ele se apropria de um incidente do ano anterior, cujo desfecho ainda é incerto, e o apresenta como um fato consumado e desfavorável, utilizando-o como mais um pretexto para suas calúnias. Sua tática consiste em selecionar unilateralmente qualquer elemento que possa macular minha honra. Que benefício poderia advir de um ato tão desprovido de retidão? Fica evidente que não estamos lidando com uma mentalidade comum. Portanto, embora seja pouco digno de um adulto dar atenção a um indivíduo de índole tão distorcida, sinto-me no dever de macular meu pincel e escrever estas linhas. Faço-o para que as pessoas de bem, que porventura o considerem um jornalista respeitável, não sejam induzidas ao erro por suas artimanhas.
-
-Dentre os assuntos mencionados, abordarei apenas um, pois sei que, entre os fiéis, pode haver quem deseje conhecer a verdade sobre a fotografia espiritual. Inicialmente, quando a referida pessoa de mente instável tirou a fotografia, ela retornou no dia seguinte, em estado de grande assombro. Veio mostrar-me a chapa fotográfica ainda úmida, afirmando que algo prodigioso havia sido registrado. Tratava-se, com efeito, daquela mesma fotografia em que a imagem da Senju Kannon (千手観音) se manifestou. Ele alega agora que a imagem semelhante a uma fumaça foi resultado do reflexo de um espelho, mas a verdade é que naquele cômodo não havia sequer um espelho de mão. Quanto à imagem do Deus Dragão, sua nitidez era incontestável para qualquer observador. O próprio fotógrafo, à época, afirmava categoricamente: "Isto é, sem dúvida, o Deus Dragão!", repetindo, exultante, o quão maravilhoso era o fenômeno.
-
-Então, por que ele divulgou tamanha inverdade a um jornal? A razão parece ser o desejo de uma gratificação pela fotografia espiritual, que publiquei no ano passado em meu livro de milagres. Ele me procurou após um hiato de dezesseis anos, mas, aparentemente constrangido, não verbalizou seu pedido de forma explícita. De minha parte, por tê-lo em alta conta no passado, julguei que mencionar tal assunto seria uma ofensa e, por delicadeza, evitei tocar no tema. Imagino que ele, sentindo-se ultrajado, tenha me considerado um homem obtuso e insensível. Sua atitude, portanto, deve ser compreendida como uma retaliação.
-
----
-
-# A Superioridade do Johrei Evidenciada pelos Fatos
-
-**Categoria:** o | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published
-
-## A Superioridade do Johrei Evidenciada pelos Fatos
-
-### Cura Completa de Linfadenopatia Hilar em Dez Dias com um Método de Saúde Diametralmente Oposto
-
-**Matsueda Eko (22), Igreja Hyakunomi – Okayama**
-
-Tudo começou com um resfriado persistente, acompanhado de um profundo mal-estar e uma dor no peito que não cedia. Ao consultar um médico, fui diagnosticada com linfadenopatia hilar, para minha grande consternação. Durante seis meses, segui à risca as prescrições médicas, incluindo uma dieta rigorosa e suplementação abundante, mas não vislumbrava qualquer perspectiva de melhora. Em meio a essa aflição, por indicação de uma fervorosa fiel da Sekaikyuseikyou, passei a frequentar a Igreja Hyakunomi.
-
-A princípio, eu não compreendia bem os ensinamentos, mas ouvia relatos de pessoas que melhoravam progressivamente. As orientações do ministro sobre alimentação e estilo de vida eram diametralmente opostas às do médico. Embora sentisse certa apreensão, decidi segui-las e comecei a receber Johrei. Os resultados foram surpreendentes: meu corpo tornou-se mais leve, a palidez azulada de meu rosto deu lugar a uma tez saudável, e o alimento readquiriu seu sabor. Ao terceiro dia, já me foi permitido andar de bicicleta, e minha melhora diária assombrava a todos. Ao décimo dia, eu estava completamente restabelecida. Imediatamente, pedi meu ingresso na Fé e hoje tenho a permissão de auxiliar outras pessoas.
-
-Minha enfermidade localizava-se no hilo pulmonar esquerdo. Ao recordar meu estado durante a doença, um calafrio me percorre a espinha. Pensar que, em apenas dez dias, meu corpo se fortaleceu a ponto de eu poder participar da colheita do trigo, deixa-me sem palavras para agradecer. A cada visita à Casa de Difusão, elevo minhas preces de gratidão a Deus Komyô Nyorai.
-
-Desejo ardentemente que as pessoas despertem o quanto antes do pesadelo de que as enfermidades pulmonares só podem ser curadas com a tríade de medicamentos, repouso absoluto e nutrição. Anseio que compreendam que apenas a arte da cura espiritual e divina pode oferecer uma solução definitiva. A verdadeira superstição, compreendi, é a crença cega e inquestionável nos fármacos. Que o meu equívoco, o de acreditar que qualquer remédio seria benéfico, sirva de lição para todos.
-
-***
-
-O caso supracitado evidencia de forma inequívoca o equívoco dos métodos de saúde da medicina. Apesar de a alimentação e o estilo de vida adotados serem o oposto do que prescreviam os médicos, a cura da linfadenopatia hilar ocorreu em um curtíssimo período. Fica claro, portanto, que tanto o repouso absoluto quanto a nutrição, nos moldes convencionais, são desprovidos de significado. Um ponto notável é que a própria paciente, por meio de sua experiência, alcançou a lucidez de que a dependência de medicamentos é uma forma de superstição.
-
-### A Ineficácia da "Terapia de Contenção": Recaída de Infiltração Pulmonar após uma Viagem de Trinta Minutos
-
-**Shimamura Kenichi (20), Igreja Mannen – Hyogo**
-
-Escrevo estas linhas com o coração transbordando de gratidão, após testemunhar o milagre de ver uma infiltração pulmonar que me afligiu por dois anos ser curada em apenas duas semanas, e em um mês, meu corpo adquirir um vigor tal que posso saltar e correr sem conhecer o cansaço.
-
-Recordo-me que, em meados de outubro de 1947, fui diagnosticado com linfadenite hilar. A partir de então, fui submetido ao que a medicina moderna considerava o tratamento mais avançado: repouso absoluto, consultas médicas diárias, além de um regime contínuo de injeções de cálcio, vitamina B1 e outros fármacos. Após seis meses, a febre, que chegava a 39,5 graus, finalmente cedeu, e pude dar os primeiros passeios fora do hospital. Meu alívio, porém, foi efêmero.
-
-Contudo, a frágil melhora, obtida à custa de uma terapia que apenas continha os sintomas, revelou sua ineficácia. Uma simples viagem de trem de trinta minutos foi suficiente para desencadear uma recaída. Desta vez, o diagnóstico foi de infiltração pulmonar, e fui novamente lançado a um leito de desespero. Por mais um ano, submeti-me ao mesmo e fatigante ciclo de injeções e medicamentos, suportando a angústia e a aflição que somente aqueles que padeceram desta doença podem compreender.
-
-Foi nesse período que, por acaso, ouvi falar do Johrei. Como muitos, fui cético à Casa de Difusão de Himeji, onde recebi Johrei do ministro Nakao. A primeira semana foi marcada por intensas purificações: febre, evacuação esverdeada, diarreia e suores noturnos. Surpreendentemente, a cada novo processo, sentia meu corpo revigorar-se. Na segunda semana, com um sangramento de hemorroidas, as purificações cessaram. Ao final de um mês, minha aparência e minha condição física eram as de uma pessoa perfeitamente saudável.
-
-Choro de emoção e gratidão por esta imensa graça. Ao pensar no ano e meio que desperdicei por desconhecer este poder sagrado, sinto o desejo de, com minhas parcas forças e sob a orientação do ministro Nakao, dedicar-me a levar esta sublime Luz às pessoas que sofrem. Anseio por retribuir, ainda que minimamente, a imensa graça recebida e, ao mesmo tempo, dissolver os pensamentos niilistas e pessimistas, tão característicos dos doentes de tuberculose, para viver uma vida plena de esperança e alegria. Com todo o respeito, apresento este meu relato.
-
-***
-
-Este relato é um exemplo paradigmático: uma infiltração pulmonar de dois anos foi curada em duas semanas e, um mês depois, o paciente gozava de saúde tão plena que não sentia cansaço, por mais que se exercitasse. O fato de ter sofrido uma recaída após uma viagem de trem de apenas trinta minutos, depois de seis meses de internação, demonstra cabalmente que o tratamento médico atua como uma mera terapia de contenção. Apesar de mais um ano de tratamento médico sem sucesso, a terapia divina proporcionou-lhe a cura total em um mês.
-
-### Sofrimento de Causa Indeterminada pela Medicina, Curado com Simplicidade pela Terapia Divina
-
-**Nakada Yasu (55), Igreja Iroha – Tóquio**
-
-Aparentemente, eu levava uma vida isenta de grandes dificuldades, mas minha constituição frágil me impôs, por longos anos, um sofrimento silencioso. Sofria do que se conhece popularmente como "frieira crônica", uma condição em que meus pés, gélidos como gelo, não se aqueciam nem mesmo durante a noite, obrigando-me a usar um espesso cobertor de algodão na cintura mesmo no verão. Além disso, a nevralgia causava dores nos braços e nas pernas.
-
-No pós-parto, fui atormentada por repetidos episódios de mastite. Nos períodos mais críticos, cheguei a utilizar quase vinte quilos de gelo por dia. A complexa rotina de alternar três tipos diferentes de medicamentos, orais e tópicos, era exaustiva, e a dor lancinante das inflamações era simplesmente indescritível. Recordar aquela época ainda me causa arrepios. Mesmo após a recuperação, minha saúde permaneceu precária, a ponto de me tornar incapaz de trabalhar como as outras pessoas.
-
-Na busca por uma solução, não poupei tempo nem recursos para consultar médicos renomados. Contudo, o veredito era sempre o mesmo: "A senhora não tem nenhum problema de saúde". Retornava para casa com um sentimento de profunda perplexidade. Se eu de fato não tinha nada, deveria ser capaz de trabalhar com vigor, mas a realidade era o exato oposto. Submeti-me a anos de injeções famosas e, depois, dediquei-me à moxabustão, mas sem qualquer efeito significativo. Quando já me encontrava em desespero, um parente falou-me sobre o Johrei, e prontamente iniciei minha formação na Fé.
-
-No início, tudo parecia um sonho. Porém, a cada purificação que recebia, dava um passo firme em direção à saúde. Hoje, vivo meus dias com uma alegria genuína, que não experimentava há décadas. A graça divina não se limitou a mim. O beribéri de minha filha mais velha foi curado. Minha segunda filha, de constituição escrofulosa, vivia com febre e era tão melancólica que seus professores chegaram a comentar que nunca a viam sorrir; hoje, é a personificação da alegria. Meu filho mais novo sofreu uma queimadura, e o médico afirmou que a cicatriz seria inevitável, mas a lesão curou-se sem deixar vestígio. As graças recebidas por nossa família são incontáveis.
-
-Se não tivéssemos encontrado este poder grandioso, estaríamos hoje gemendo em leitos de enfermidade, mergulhados na mais completa escuridão. Ao ponderar sobre essa realidade, a gratidão que sinto é tão avassaladora que as palavras me falham, e apenas as lágrimas podem expressá-la. Desejo compartilhar este sentimento com o maior número possível de pessoas, dedicando-me à difusão dos Ensinamentos, como forma de retribuir, ainda que minimamente, a imensa dádiva recebida. Com estas humildes palavras, expresso uma parcela de meu agradecimento.
-
-***
-
-O caso desta fiel ilustra uma situação bastante comum: o paciente sofre, mas os exames médicos nada detectam. A afirmação de que não há enfermidade, quando o sofrimento é real, desafia a lógica. A verdade, que deveria ser dita com honestidade, é que a medicina é incapaz de identificar a origem do mal. O poder da Terapia Divina, que curou com simplicidade uma doença de décadas, cuja causa permanecia desconhecida pela ciência médica, é verdadeiramente assombroso. Ademais, o beribéri da filha mais velha, a constituição doentia da segunda filha e a queimadura do filho mais novo — da qual, segundo o médico, restaria uma cicatriz — foram todos completamente curados.
-
-### Enfermo em Repouso por Seis Meses, Levanta-se com a Terapia Divina
-
-**Konno Shin (37), Igreja Aiwa – Akita**
-
-Meu marido, há treze anos, era uma pessoa de saúde frágil, dependente de remédios e injeções. Sempre tomei o máximo cuidado para que seu quadro não se agravasse. Apesar disso, em novembro de 1948, ele perdeu a consciência subitamente e ficou acamado. A asma surgiu concomitantemente, causando-lhe um sofrimento indizível. Recorremos aos médicos na tentativa de aliviar sua dor, mas, após cinco meses de tratamento sem qualquer efeito, seu padecimento continuava.
-
-Durante esse período, proibi-lhe o cigarro e, nas refeições, controlava o que era "veneno" e o que era "nutritivo", privando-o do que gostava. Era um cuidado penoso, uma vida de repouso que se assemelhava a um inferno. Nosso negócio é uma fábrica de koji, e a morte dele significaria o fim de nossa empresa.
-
-Como se não bastasse, minha filha mais velha caiu de uma escada e torceu o pé, e meu filho mais novo, com febre de quarenta graus, também precisou ficar de cama. Lembrei-me de ter ouvido alguém dizer que todos os infortúnios são purificações. Tendo testemunhado a ruína de vários ramos de nossa família, cheguei a pensar que a nossa vez havia chegado.
-
-Certo dia, um conhecido nos visitou e contou que muitas pessoas, cujas doenças eram incuráveis pela medicina, haviam sido salvas ao se apegarem a Deus Komyô Nyorai. Imediatamente, meu marido e eu recebemos a Medalha da Luz Divina da Associação Aiwa de Yokote. A partir de então, a cada dia, sentíamos uma proteção tão maravilhosa que tínhamos vontade de saltar de alegria. Meus filhos, naturalmente, foram curados em dois ou três dias com Johrei. Com essa felicidade, entronizamos a Imagem da Luz Divina em nosso lar. Na ocasião, o ministro Shibata ministrou Johrei em meu marido por um longo tempo.
-
-Após a partida do ministro, meu marido levantou-se do leito e começou a andar pela casa, subindo e descendo as escadas, parecendo confuso. Ele me perguntou: "Onde estou?". Respondi: "Esta é sua casa. Você esteve doente por seis longos meses e se apegou a Deus Komyô Nyorai. Graças à Sua proteção, hoje pôde se levantar pela primeira vez". Só então ele pareceu recobrar a consciência e se alegrou. Refletindo agora, creio que ele sofria de amnésia. Desde aquele dia, ele senta-se no balcão e me ajuda no negócio.
-
-Muito obrigado, Deus Komyô Nyorai! É lamentável que este poder magnânimo seja, tantas vezes, rotulado pela sociedade como charlatanismo ou seita maligna. Mesmo na província de Akita, onde milhares de pessoas foram salvas, a imprensa distorce os fatos, dando destaque a um ou dois casos de falecimento para criar uma propaganda negativa. Para mim, o que importa é que a doença seja curada. O que mais um doente poderia desejar? Por meio deste relato, expresso apenas minha profunda gratidão ao sagrado Deus Komyô Nyorai pelas inúmeras graças que recebi.
-
-***
-
-Este paciente, enfraquecido por mais de uma década de dependência de medicamentos e injeções, subitamente perdeu a consciência e desenvolveu asma. Apesar de cinco meses de tratamento médico intensivo sem sucesso, ele se recuperou gradualmente com a terapia divina, a ponto de poder retornar ao trabalho. Não há dúvida de que a acumulação de toxinas medicamentosas ao longo dos anos foi a causa que desencadeou esta grave enfermidade.
-
-### As Toxinas Medicamentosas que o Mundo Ignora: Cura da Doença e Efeito Estético
-
-**Hara Hisako (28), Enfermeira, Igreja Keiko – Saitama**
-
-Durante a guerra, eu trabalhava como enfermeira em um hospital particular em Tóquio. Em dezembro de 1943, minhas mãos e pés, até então saudáveis, foram tomados por uma dor aguda. Ao despertar, as articulações estavam inchadas e a dor era tão intensa que eu não conseguia me mover. Com grande esforço, cheguei à sala de exames e recebi uma injeção, mas várias outras se seguiram sem qualquer efeito. A dor não diminuía. Suspeitando que o medicamento não era compatível com meu organismo, tentaram outro. A primeira dose pareceu aliviar um pouco a dor, mas a segunda não teve efeito algum, como se nada tivesse sido feito.
-
-Tendo vivido por quatro anos imersa no universo dos médicos e dos remédios, eu ainda acreditava que apenas eles poderiam curar doenças. Por isso, em vez de voltar para minha terra natal, senti-me mais segura continuando o tratamento no hospital, vivendo dias e noites à base de injeções. Contudo, as áreas doloridas se multiplicaram, até que a dor se espalhou por todo o corpo, dificultando meus movimentos. Nessa época, passei a receber analgésicos às escondidas de meus amigos, mas a dor tornou-se insuportável. Em janeiro de 1945, um ano após o início da doença, deixei o hospital — lugar onde se deveria encontrar a saúde — e retornei doente à minha cidade.
-
-O diagnóstico médico foi poliartrite reumatoide. A recomendação foi repouso absoluto e a proibição de alimentos estimulantes. Acamada, pensei que ficaria inválida para o resto da vida e que morreria. A tristeza era avassaladora, e passei dias mergulhada em lágrimas, em um abismo de desespero. Certo dia, como de costume, recebi uma injeção e, subitamente, senti um calafrio. A febre subiu para cerca de 40 graus e meu corpo se cobriu de erupções semelhantes às do sarampo. O sofrimento era atroz. Ainda assim, não desisti e continuei com as injeções, mas a dor tornou-se intolerável e, por fim, fui forçada a abandonar todo e qualquer medicamento.
-
-Familiares e vizinhos sugeriram acupuntura e moxabustão. Por desencargo de consciência, tentei, mas a moxa apenas queimava a pele, deixando marcas, sem trazer alívio. Não havia mais nada a fazer. Disseram-me que, se eu ficasse apenas deitada, meu corpo se paralisaria. Minha pele tornou-se flácida e escura como a de uma idosa, perdeu o brilho, e meus ossos e minha compleição se alteraram. Sentia vergonha de ser vista e vivia reclusa em casa.
-
-Foi quando um conhecido me falou de uma terapia maravilhosa, que salvava até mesmo pacientes desenganados pelos médicos, e me incentivou a tentar. Com um desejo ardente de ser curada, aceitei o convite e fui levada ao encontro do ministro Nagasawa. Recebi Johrei pela primeira vez em setembro, quase cinco anos após o início da doença. Sob a orientação gentil do ministro, eu, que me tornara distorcida de corpo e alma, recuperei minhas forças dia após dia. Apesar das dificuldades que certamente causei, por minha teimosia de quem trabalhou na área médica, o ministro sempre me orientou com a mesma benevolência.
-
-O simples mover de suas mãos fazia meu corpo se mover. É um milagre. Não há outra palavra senão "milagre". A alegria que senti ao perceber "Isto vai me curar! Eu posso voltar a ser saudável!" é indescritível. Quatro meses após começar a receber Johrei, senti uma forte pressão no peito, acompanhada de febre alta, embora minha respiração não estivesse comprometida. Impossibilitada de ir à casa do ministro, minha irmã foi pedir-lhe orientação, e ele prontamente veio até minha casa para continuar o Johrei. Ao terceiro dia, um catarro branco e espesso começou a ser expelido em grande quantidade a cada pequeno movimento. A febre cedeu gradualmente, a pressão dolorosa no peito desapareceu e senti meu corpo tão leve como se tivesse perdido peso. A dor generalizada aliviou ainda mais. Desde então, nunca mais precisei ficar acamada e, nas horas vagas, consigo até mesmo costurar.
-
-Elevo minha gratidão diária pela grandiosa proteção de Deus Komyô Nyorai e, do fundo do coração, peço perdão por ter zombado, pensando que era apenas "um acenar de mãos". Desde que recebi a Medalha Sagrada em outubro do ano passado, tenho percorrido os caminhos de terra dos arrozais de bicicleta para cumprir minhas missões. Ao ver-me assim, ninguém acreditaria que sou a mesma pessoa que sofreu por cinco anos com reumatismo. Recebi uma proteção milagrosa. Jamais retornarei a um hospital. A simples lembrança de aplicar injeções nos pacientes me causa um arrepio. De agora em diante, desejo orientar o maior número possível de pessoas e, assim, retribuir uma ínfima parte da imensa graça que recebi.
-
-***
-
-A causa da poliartrite reumatoide, neste caso, foi, sem dúvida, a purificação das toxinas medicamentosas acumuladas durante o período em que a paciente trabalhou no hospital. A medicina, ignorando este fato, tenta curar com mais injeções, o que, naturalmente, agrava o quadro. É assombroso que o sofrimento tenha chegado a tal ponto que ela foi forçada a abandonar as injeções.
-
-A eficácia da Terapia Divina, que curou em poucos meses um sofrimento de cinco anos, é notável. Contudo, o que desejo ressaltar aqui é o estado deplorável em que se encontrava: "a pele tornou-se flácida e escura como a de uma idosa, perdeu o brilho, e os ossos e a compleição se alteraram", a ponto de ela se isolar em casa por vergonha. A causa, evidentemente, são as toxinas dos medicamentos, algo que a maioria das pessoas não percebe. Nossa experiência demonstra que indivíduos com grande acúmulo de toxinas medicamentosas aparentam ser mais velhos do que são. À medida que o Johrei elimina essas toxinas, a juventude é restaurada. Portanto, a Terapia Divina não apenas cura doenças, mas também promove um notável efeito estético, sendo uma terapia de duplo benefício.
-
----
-
-# A Resposta do Mestre ao Conto "Dois Hakama"
-
-**Categoria:** o | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
-**Título Original:** お伺いロマンス 二人袴 | **Status:** Published
-
-## A Resposta do Mestre ao Conto "Dois Hakama"
-
-Ao ler este conto, considerei-o não apenas interessante, mas também um reflexo de problemas análogos que ocorrem com frequência no mundo. Fui consultado pelo autor, Sr. Iwasaki, em busca de uma solução, e compreendo que sua intenção é, sem dúvida, encontrá-la por meio da fé. Contudo, quando o conflito do amor e do desejo atinge tal extremo, torna-se árduo conceber uma resolução que satisfaça a todos os envolvidos. A dificuldade deste problema reside no fato de não haver maldade manifesta em nenhuma das três pessoas; falta-lhes a chama do mal. Analisando a trajetória que os conduziu a esta situação, percebe-se que não houve uma intenção deliberada, mas sim um destino que se desenrolou de forma natural, tornando a questão inevitável. Se houvesse maldade em algum deles, a solução não seria tão complexa; a dificuldade está justamente na ausência dela.
-
-Primeiramente, se eu me colocasse na posição de escritor, talvez delineasse a trama da seguinte forma: concederia à mulher a liberdade de escolha, com o consentimento prévio de Yoshita e Heita. Afinal, no recôndito de seu coração, deve haver uma inclinação, um amor mais intenso por um deles. O desfecho dependeria, então, da profundidade do apego e da dimensão da consciência daquele que fosse preterido. Caso ele não conseguisse resignar-se, estaria lançada a semente para uma nova tempestade, e o conflito subsequente tornaria a narrativa ainda mais cativante.
-
-É verdade que a solução ideal seria encontrada por meio da fé. No entanto, neste caso, não é plausível que os três ingressem no caminho da fé simultaneamente. E, ainda que isso ocorresse, a fé possui diferentes níveis de profundidade, tornando tal resolução, na prática, pouco provável.
-
-Se a história se passasse na era feudal, haveria a possibilidade de uma solução edificante, na qual a mulher, diante do dilema de não poder satisfazer a ambos, optaria por sacrificar a si mesma. Contudo, no mundo atual, tal desfecho é impensável. Para pessoas dessa classe social, o caminho mais natural seria cair em uma disputa de paixões, o que inevitavelmente culminaria em tragédia.
-
-Diante do exposto, a continuação do conto depende unicamente da perspectiva do autor. A visão mais acertada, todavia, é encará-la como uma das tantas tragédias geradas pela guerra.
-
-De certa forma, sinto-me como se estivesse sendo submetido a um teste de argúcia pelo Sr. Iwasaki. Ficarei sobremodo satisfeito se tiver sido aprovado.
-
-## Dois Hakama (I)
-
-Entre as inúmeras montanhas que separam as províncias de Shinshu e Echigo, em um vale profundo, aninha-se um pequeno povoado onde brota uma fonte de águas quentes e cristalinas. Povoado, talvez, seja um termo generoso, pois restam apenas duas casas. Antigamente, na era Meiji, cinco estalagens se espalhavam ao longo de pouco mais de cem metros de desfiladeiro, mas o local foi gradualmente abandonado pelo avanço dos transportes e, por conseguinte, marginalizado pela cultura econômica do país. Hoje, sua existência se resume a um minúsculo ponto em um mapa de escala reduzida do Estado-Maior, um refúgio idílico completamente esquecido pelo mundo. Com o tempo, um incêndio consumiu três das casas, e suas famílias partiram para outras terras. Daquelas que restaram, uma tornou-se um lar vazio, cuja linhagem, segundo se dizia, fora extinta pela tuberculose. Assim, nos dias atuais, em um raio de vinte quilômetros de montanhas, há apenas uma única morada humana naquele vale.
-
-Ainda que se chame estalagem, não passa de uma construção de aparência desoladora, com telhado de ripas de madeira sobre o qual se amontoam pedras. Em outros tempos, camponeses das redondezas vinham fazer tratamentos termais, trazendo seu próprio arroz para cozinhar. Hoje, porém, esses mesmos camponeses preferem os balneários de instalações modernas, acessíveis por trem. Poucos ainda se lembram desta fonte nas profundezas da montanha, e pode-se dizer que, nos últimos dez anos, o lugar não recebeu um único hóspede sequer.
-
-Diante do abandono, a família tornou-se praticante da agricultura itinerante, queimando trechos da montanha para cultivar milhete, gergelim, couve, milho e batatas, garantindo assim seu sustento. O marido, Yoshita, embrenha-se ainda mais no vale para produzir carvão, enquanto sua esposa, O-Haru, dedica-se há muito tempo a um trabalho complementar: tecer sandálias com a casca de um arbusto chamado ganpi.
-
-O-Haru, aos trinta e seis anos, possui uma saúde robusta, quase selvagem, mas está longe de ser uma mulher obtusa ou insensata. É uma trabalhadora dedicada, de bom coração e bastante perspicaz. Sua beleza não é convencional; seu rosto, aguerrido e sensual como o de um felino selvagem, possui um encanto particular.
-
-Seus dois filhos nus, uma menina de treze anos e um menino de cinco, brincavam e gritavam na fonte ao ar livre que brota à beira do riacho, em frente à casa. Era pouco mais de meio-dia. O sol ameno do início da primavera descia em feixes pela estreita faixa de céu azul, projetando-se sobre o vale, fazendo brilhar como porcelana os ombros e as nádegas molhadas das crianças e envolvendo os salgueiros à beira do penhasco em uma névoa prateada.
-
-A antiga estrada corre na margem oposta do riacho, e o acesso à casa de O-Haru se dá por uma precária ponte feita de grandes rochas dispostas no leito do rio.
-
-Por essa estrada, onde raramente passava um viajante a cada dez dias, surgiu a figura inusitada de um homem idoso, de aspecto mendicante. Ele parou exatamente em frente à casa de O-Haru e sentou-se em uma pedra à beira do caminho, passando a observá-los fixamente do outro lado do riacho.
-
-Passados uns trinta minutos, as crianças subiram correndo para casa, como se perseguidas por algo terrível. Ambas estavam completamente nuas.
-
-O corpo da menina, já com os seios e o púbis revelando os primeiros e discretos sinais da primavera, estava totalmente exposto. Ela trazia as roupas debaixo do braço, ofegante e com o peito arfando. O-Haru, que tecia sandálias no piso de terra batida, sentiu como se sua própria intimidade estivesse sendo exposta e, enrubescendo, gritou furiosa:
-— Mas que menina indecente! Estúpida, idiota!
-— Mas, mamãe! — a garota se apressou em vestir suas calçolas sujas. — Tem um deus da pobreza medonho nos espiando há quase uma hora! Não é assustador?
-— Que bobagem... Parece até que está possuída por uma raposa.
-A menina sussurrou ao ouvido da mãe:
-— Mas olhe, mamãe, veja! Ali, na pedra, do outro lado da estrada.
-
-O-Haru olhou e estremeceu. De fato, lá estava ele. Embora seu rosto não fosse nítido, parecia um demônio azul saído do inferno: um homem de aspecto sombrio, com mais de sessenta anos, definhado e vestido com trapos que lembravam um uniforme militar. Era um mendigo miserável, e seu olhar, penetrante e obstinado, estava cravado na direção delas.
-
-Puxando o menino, que chupava o dedo do lado de fora com uma expressão assustada, para dentro de casa, O-Haru baixou a esteira velha que servia de porta e ordenou à filha que continuasse a vigiar por uma fresta. Ela, por sua vez, tentou retomar seu trabalho no recinto agora escurecido, mas foi subitamente assaltada por uma sensação de profunda inquietação, um presságio sombrio que lhe pesava nas costas. Sentiu como se um espírito da desgraça tivesse invadido a paz de seus dias, até então tão pobres, mas serenos.
-
-O-Haru fora uma vendedora ambulante de antídotos de Echigo. Certo dia, durante uma travessia pelas montanhas, conheceu um jovem montanhês com quem viajou por um trecho. Em um momento de fraqueza, entregou-se a ele e acabou sendo convencida a se tornar sua esposa naquela casa isolada no vale. O homem chamava-se Heita; era forte como um touro, calado e muito trabalhador. Vivia com sua mãe, que faleceu subitamente no ano seguinte ao casamento de O-Haru. Foi nesse mesmo ano que nasceu a menina, hoje com treze anos. Pouco tempo depois, Heita foi convocado para o exército e levado para a Manchúria, de onde jamais retornou. Uma notificação oficial informou que ele havia morrido em combate na guerra do norte da China, e logo em seguida seus restos mortais foram enviados à família.
-
-Nos sete anos que se seguiram, O-Haru, uma mulher de espírito forte, determinada e relativamente otimista, trabalhou como um homem para criar a filha naquela casa solitária no vale profundo.
-
-Certa tarde, em um outono em que as montanhas e os vales se vestiam de brocados coloridos, um carvoeiro de rosto e membros enegrecidos chegou, banhou-se na fonte de O-Haru e pediu para passar a noite. Ao sair da água, o homem de pele escura revelou-se um quarentão de compleição robusta e rosto surpreendentemente gentil.
-
-Naquela madrugada, enquanto dormiam em futons dispostos em lados opostos da lareira, o corpo e a alma de O-Haru, há tanto tempo murchos pela solidão, entraram em erupção como um vulcão. Foi ela quem tomou a iniciativa, e o homem acabou por se tornar seu marido. O filho que conceberam logo depois é o menino que hoje tem cinco anos.
-
-— Mamãe, o espírito do mal ainda não foi embora. Continua olhando para cá.
-A menina, que espiava pela fresta da esteira, aproximou-se para sussurrar. O menino, amedrontado, agarrava-se à cintura de O-Haru.
-Passaram-se cerca de duas horas.
-— Ele ainda não foi embora.
-O dia começava a escurecer.
-— Ainda não foi?
-— Não, ainda está olhando.
-
-Quando a escuridão lá fora se adensou, a menina parou de vigiar e agachou-se ao lado da mãe. De repente, ouviram-se passos do lado de fora.
-O-Haru ficou rígida como uma estaca, e as duas crianças, uma de cada lado, agarraram-se à sua cintura, tremendo.
-Pela porta dos fundos, o marido, Yoshita, entrou, dizendo:
-— O que estão fazendo? Já escureceu.
-— Ah, é você!
-— O que foi?
-— Na estrada, do outro lado... tem um homem nos olhando há mais de meio dia.
-— O quê?
-— É um sujeito estranho, deve ser um ladrão. Por favor, vá lá fora e expulse-o.
-
-Yoshita saiu e, perscrutando a penumbra, gritou:
-— Quem é você? O que está fazendo aí?
-Do outro lado, uma voz surpreendentemente calma respondeu:
-— Eu vim falar com você. Você é o dono desta casa?
-— Sou. O que quer comigo?
-— Tenho um assunto a tratar.
-— Não sei do que se trata, mas então venha até aqui.
-De trás dele, O-Haru surgiu e deu um safanão em suas costas.
-— Que absurdo está dizendo? Expulse-o logo, pai!
-
-Enquanto isso, o homem suspeito já atravessava o rio. Um odor fétido e sujo, que parecia emanar dele, flutuou na escuridão do crepúsculo. Defronte daquela massa de mau cheiro, Yoshita, quase tocando o nariz do outro, disse em tom severo:
-— Por que você passou metade do dia espiando a casa dos outros?
-O homem, porém, sem qualquer traço de agressividade, respondeu com uma voz rouca e fraca:
-— Eu não estava espiando. Estava apenas descansando e pensando, sentado na pedra da estrada.
-— Mesmo assim, você estava olhando para dentro da nossa casa, não estava? Qual o motivo?
-— Eu não estava encarando. Tenho olhos, então é natural que eu olhasse. Isso é um direito meu. Posso ficar sentado por meio dia, olhando para onde eu quiser, sem que ninguém interfira.
-— É, nisso você tem razão.
-Yoshita concordou sem pensar e, por isso, ficou sem saber o que dizer. Cuspiu no chão duas vezes, sem jeito. Da entrada da casa, a impetuosa O-Haru gritou:
-— Vá embora, desgraçado! Espírito do mal! Pai, pegue a espingarda e dê um tiro nele!
-"Nem temos espingarda...", pensou Yoshita, contendo a custo uma risada.
-— Você parece muito fraco. Está com fome?
-— Sim, não como há três dias.
-— Entre. Vou lhe dar de comer.
-O-Haru gritou novamente:
-— Não seja idiota, seu palerma!
-— Não, não é isso. Ande, ponha a panela de sopa no fogo. — E, voltando-se para o homem: — Vamos, entre. Pode passar a noite aqui.
-— Sim, aceito a oferta.
-O homem misterioso, com um ar de quem esperava por aquilo, seguiu Yoshita para dentro da casa.
-O-Haru, atônita, já não conseguia dizer uma palavra. O menino, choramingando "que medo", escondeu o rosto sujo na barriga da mãe.
-
-(Nota) Esta história será publicada em três partes. Ao final, pretendemos apresentar uma crítica de Meishu-Sama, que servirá como um farol para a fé e a vida. Por essa razão, demos a esta seção o título especial de "Romance de Consulta".
-
-## Dois Hakama (II)
-
-Um corredor de terra batida atravessa a casa da frente aos fundos. À sua esquerda, na ampla lareira rebaixada, lenha arde lentamente, e de uma panela enegrecida, suspensa por uma corrente ajustável, transborda um mingau de batata em fervura branda. A única luz no interior provém das chamas que, soltando fumaça, crepitam e se avivam de tempos em tempos. É uma vida sem eletricidade ou lamparinas a querosene.
-
-— Fume um pouco — ofereceu Yoshita.
-— Sim... acho que vou fumar.
-Yoshita sentou-se de frente para o homem de respostas hesitantes e perguntou:
-— Você tem tabaco?
-— Não.
-— Então use o meu.
-Enquanto o marido oferecia sua própria cigarreira, O-Haru, que entalhava algo no canto mais afastado da lareira, pensava irritada: "Mas que homem ingênuo, que imbecil...". As duas crianças, ainda usando a cintura larga da mãe como escudo, encolhiam-se a cada lado dela como passarinhos cujo ninho é ameaçado por uma cobra, seus olhos brilhando como cristais negros à luz do fogo.
-
-Gradualmente, o odor de mendigo que o forasteiro desconhecido trouxera consigo impregnava o ambiente, irritando ainda mais os nervos de O-Haru.
-Com um tom pausado, Yoshita perguntou:
-— E então, de onde você veio?
-— Do campo de batalha.
-— A esta altura, do campo de batalha? Demorou bastante, não?
-— Fui prisioneiro por muito tempo, depois fugi e vaguei pelas montanhas...
-— Entendo... Deve ter sido muito difícil. E para onde vai agora?
-— A lugar nenhum. Eu vim para cá. Eu voltei.
-— Voltou para cá? Mas você deve ter uma terra natal, não?
-— Tenho. E também uma esposa e um filho.
-— Então por que não volta para lá?
-— É para lá que eu voltei.
-— Voltou... para este lugar no meio das montanhas? Ah! Você é desta província, de Shinshu?
-— Sou.
-— De perto daqui?
-— Sim.
-— E sua esposa e filho o esperam lá?
-— Assim espero.
-— Então por que não volta para eles?
-— É para lá que eu voltei.
-— Ora... que coisa mais confusa. Você está bem da cabeça?
-Yoshita inclinou-se para observar o rosto extremamente abatido do homem.
-— De que aldeia você é?
-— ...
-Após um momento de silêncio, o homem disse com uma voz baixa e rouca, como se as palavras lhe caíssem da boca:
-— Daqui.
-— Nasceu aqui? Entendo. Então deve conhecer minha O-Haru. Qual o seu nome?
-— Heita.
-
-O-Haru, que há alguns minutos parara de entalhar, sentiu o corpo enrijecer com um sobressalto.
-Yoshita permaneceu em silêncio, lançando-lhe um olhar agudo. Ela se arrastou para perto do viajante, aproximando o rosto como se para inalar o odor fétido que emanava dele. O homem, por sua vez, fixou nela um olhar perscrutador, sem sequer piscar.
-Com uma voz fraca e trêmula, como a de uma doente, uma voz que jamais emitira em toda a sua vida, O-Haru perguntou:
-— Você... é o... de antigamente?
-— Sim... sou eu — respondeu o homem, baixando a cabeça, quase envergonhado.
-— Ora, que problema terrível nos caiu do céu... — suspirou o segundo marido, cruzando os braços.
-— Não tenho outro lugar para ir... esta é a minha casa...
-— Hmm... que situação complicada.
-— Voltei para um lugar inoportuno, eu sei... mas esta é a minha terra natal...
-O primeiro marido olhou para as duas crianças.
-— Aquela menina é minha filha, não é?
-— Sim. E o menino é meu.
-
-As duas crianças, encolhidas em um canto, esconderam-se atrás de um monte de palha, de onde apenas seus olhos brilhavam. O-Haru, prostrada entre os dois homens, chorava. Seus cabelos desgrenhados caíam sobre as cinzas da lareira.
-
-Desta vez foi o primeiro marido que suspirou profundamente.
-— E agora, que situação... — e mergulhou a cabeça entre as mãos.
-O segundo marido soltou suspiros ainda mais longos, curvando-se tanto que sua cabeça quase tocava as cinzas. A esposa, com as costas arqueadas, soluçava como um cão asmático.
-
-Após um longo silêncio, o marido que retornara quebrou o silêncio com voz arrastada:
-— O erro foi eu ter voltado agora. Mas eu não sabia de nada, apenas voltei para minha casa.
-— É verdade. Mas, por minha parte, não é como se eu tivesse roubado sua esposa. Veio uma notificação oficial dizendo que você morreu em combate, e até recebemos algo como seus restos mortais.
-— Ninguém tem culpa. Mesmo assim, que situação difícil...
-
-O mingau na panela transbordou, sibilando ao apagar parte do fogo e espalhando uma geada de cinzas. Mas O-Haru continuava a chorar prostrada, os dois homens permaneciam absortos em seu desamparo, e os irmãos, escondidos na palha, pareciam ter adormecido abraçados.
-A noite no desfiladeiro avançava.
-
-## Dois Hakama (III)
-
-— Não tinha shochu, O-Haru? — perguntou Yoshita com voz arrastada, quebrando o longo silêncio.
-
-O-Haru, porém, continuou prostrada e não respondeu. Yoshita passou por cima de suas costas, abriu um armário de parede sujo e esburacado e de lá tirou uma garrafa de um litro, tão imunda quanto um vasilhame de óleo abandonado no lixo, e uma tigela de borda lascada com grãos de arroz grudados. Voltou ao seu lugar e despejou a bebida na tigela. Havia o suficiente para encher cerca de oitenta por cento.
-
-— É só o que temos — disse. Após um momento de reflexão, bebeu metade em um só gole e passou o resto para Heita.
-Heita também esvaziou a tigela de uma vez e soltou um longo suspiro.
-
-O álcool pareceu surtir efeito, e com um tom um pouco mais leve, Heita disse, como que para sondar a reação de Yoshita:
-— Esta casa pertence aos meus antepassados, então... eu gostaria de morar aqui...
-— É justo — anuiu Yoshita.
-— Então... aquela casa do Kyuzo... está abandonada e inabitável?
-A casa de Kyuzo era a morada que se encontrava vazia.
-— Não deve ser para tanto. Se alguém morar lá, dá-se um jeito.
-— Nesse caso, você não poderia morar naquela casa?
-— Sim... parece que não há outra saída. Mas, e a mulher e as crianças, como ficam?
-— É verdade. Bem... deixaremos que ela decida com quem quer ficar. Quanto às crianças, a menina é minha, então ficará comigo. O menino é seu.
-— O-Haru, o que você vai fazer? — perguntou Yoshita, dirigindo um olhar complexo para as costas arqueadas de O-Haru. Heita também fixou os olhos nos cabelos desgrenhados dela.
-
-De repente, O-Haru voltou a chorar baixinho.
-
-Ignorando-a, Yoshita pegou novamente a tigela e os hashis e retirou a panela de mingau das cinzas. O conteúdo estava reduzido a uma pasta grudenta, mas os dois homens começaram a comer, soprando o alimento quente. Heita, faminto, comia avidamente, fazendo ruído com os dentes e repetindo várias porções.
-
-— Coma um pouco também — insistiu Yoshita, mas O-Haru permaneceu na mesma posição, sem responder.
-— Bem, deixemos o problema para amanhã e vamos dormir.
-
-Heita deitou-se de lado junto à lareira, e Yoshita também se estendeu de costas, com as mãos sob a nuca. Logo, vencidos pelo shochu, ambos roncavam alto.
-
-Cerca de meia hora depois, O-Haru ergueu-se. As olheiras de tanto chorar estavam manchadas, como se usasse óculos escuros. Tirou um futon relativamente limpo do armário e cobriu delicadamente o primeiro marido, que exalava um odor de mendigo. Em seguida, pegou outra coberta, a que usava habitualmente, e com ela cobriu o marido atual. Foi então para junto das crianças, ajeitou a palha sobre elas e tentou dormir encolhida aos seus pés, mas o sono não vinha.
-
-Em algum momento, porém, adormeceu. Despertou sobressaltada, nos braços de Heita, que a abraçava com força. Instintivamente, tentou agarrar-se a ele também, e seus olhos buscaram na penumbra da lareira. A figura de Yoshita não estava lá.
-— E ele...?
-— Saiu agora há pouco. Fui ver e ele foi para a casa do Kyuzo.
-— No escuro...?
-— Lá fora já está amanhecendo.
-Dizendo isso, Heita a abraçou com mais veemência.
-— O-Haru... senti tanto a sua falta.
-— Meu querido...
-
-O-Haru também se agarrou a ele desesperadamente, sem se importar com o cheiro de mendigo. O reencontro, após dez anos, lançou o casal em um frenesi animal.
-
-Exausto, o homem adormeceu em seguida, como um doente em coma.
-
-O-Haru saiu. O vale matutino estava imerso em uma névoa leitosa, e as garças já cantavam. Espiou a casa vazia de Kyuzo e viu Yoshita, de costas, cabisbaixo e com um ar desolado, acendendo o fogo na lareira.
-— O que está fazendo, querido?
-— É você, O-Haru? — Yoshita virou-se e acenou para que ela se aproximasse. — Venha cá.
-Hesitante, O-Haru não se aproximou de imediato, agachando-se do outro lado da lareira.
-— O que está pensando, vindo para um lugar como este ainda no escuro?
-— Eu? Bem... estou pensando em morar nesta casa...
-
-O-Haru soltou um gemido agudo, como o som de uma flauta. Yoshita saltou sobre ela.
-— Eu... eu não consigo desistir de você! De jeito nenhum! Você é minha!
-Ele a abraçou como um louco, derrubou-a e, montado sobre ela, buscou seu corpo com desespero. O-Haru deixou-se levar. Ao pensar que também não conseguiria se separar daquele homem, sentiu uma ternura avassaladora e, inflamada de paixão, agarrou-se ao pescoço dele com a fúria de uma leoa.
-
-Ao entardecer daquele dia, O-Haru, com o filho de cinco anos no colo, atirou-se em um poço fundo do riacho.
-
-O grito da criança alertou os dois homens, que pularam na água e os salvaram. Mãe e filho não sofreram ferimentos graves, mas... "E agora, o que faremos?", os dois homens, sentados frente a frente junto à lareira, como na noite anterior, apenas suspiravam.
-
-A noite de primavera avançava, silenciosa e fria.
-
-Que rumo tomaria, a partir de agora, a vida sofrida dessas pessoas neste vale?
-
-Que rumo deveria tomar?
-
----
-
-# O Milagre Não é Acaso, Sua Origem Reside no Mundo Espiritual
-
-**Categoria:** o | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 | **Status:** Published
-
-## O Milagre Não é Acaso, Sua Origem Reside no Mundo Espiritual
-
-É tamanha a minha gratidão que não sei por onde começar a relatar. Sou mãe de três filhos, dos quais dois, de seis e oito anos, possuíam uma saúde extremamente frágil, sofrendo constantemente com febres e distúrbios intestinais. Ademais, desde que meu marido pereceu na guerra, as preocupações tornaram-se uma constante em minha vida.
-
-No início do ano retrasado, passei a sofrer de fortes dores de cabeça. Procurei auxílio médico e submeti-me a diversos tratamentos, mas, longe de obter melhora, meu quadro apenas se agravava: perdi o apetite e definhava progressivamente.
-
-As dores diárias me incapacitavam para qualquer tarefa. A conversação com outras pessoas tornou-se penosa, e perdi o interesse em sair de casa, caminhar ou mesmo ler. Contudo, o simples repouso também me era insuportável, de modo que passava os dias inteiros sentada, imóvel, dentro de casa. Foi então que, no final de março, tive um sonho no qual uma voz me advertia: “Pare com os remédios. Se não o fizer, apenas continuará a definhar”. Como os medicamentos de fato não surtiam efeito, decidi suspender o uso.
-
-Ocorre que, talvez por conterem soníferos, a interrupção dos remédios resultou em noites de completa insônia. Em seguida, ouvi dizer que a moxabustão seria benéfica e me submeti a ela por cerca de vinte dias, sem qualquer resultado além da sensação de calor. Foi então que, novamente em um sonho, fui instruída a ter fé na Grande Luz Divina. Convicta de que tanto este sonho quanto o anterior eram, sem dúvida, revelações de Deus, decidi imediatamente seguir a orientação; todavia, eu não sabia como proceder.
-
-Passados quatro ou cinco dias, uma amiga me falou a respeito dessa sagrada Grande Luz Divina. Impressionada com a misteriosa sucessão de eventos, aceitei receber Johrei. Ao ser ministrada, senti como se algo descesse do interior da minha cabeça, passando pela garganta e se manifestando como uma abundante salivação. Após receber Johrei mais uma vez, movida pelo desejo de receber esta sagrada Luz, fui levada à residência do ministro Chikasawa, em Handa.
-
-Caminhei por mais de uma hora até sua casa. Naquele dia, cinco de maio, a igreja estava fechada, mas o ministro nos atendeu com imensa bondade, orientando-me e ministrando-me Johrei. No caminho de volta, meu corpo estava tão inexplicavelmente leve que percorri, sem uma única pausa, a mesma distância que na ida me exigira inúmeros descansos. O ministro havia me aconselhado: “Não fique parada; movimentar-se é melhor”. Seguindo sua palavra, a partir daquele dia, voltei a cuidar dos afazeres da cozinha.
-
-Passei a visitar o ministro em dias alternados para receber Johrei. Em quatro ou cinco dias, sentia-me progressivamente melhor, a ponto de conseguir andar de bicicleta. Com a chegada de junho, intensificaram-se os trabalhos na lavoura. Recordando as palavras do ministro — “Aqueles que se dedicam à Obra Divina são salvos por Deus” —, comecei a compartilhar meu testemunho sobre a Grande Luz Divina com todos, ministrando-lhes Johrei enquanto cuidava das minhas tarefas agrícolas.
-
-Consegui realizar sem dificuldade qualquer trabalho, fosse o plantio de arroz ou a colheita do trigo. Mesmo depois de retomar minhas atividades, eu sentia a necessidade de receber Johrei ao menos uma vez por semana para aliviar o mal-estar causado pelo acúmulo de toxinas. Minha irmã mais nova também recebeu a Luz e passou a me ministrar Johrei diariamente. À noite, após o trabalho no campo, toda a família se reúne para a prática do Johrei, sem faltar um único dia.
-
-Graças a essas bênçãos, meus filhos, quase sem que eu percebesse, tornaram-se saudáveis, a ponto de serem admirados pelas pessoas. Ao recebermos em nosso lar a sagrada Imagem da Grande Luz Divina, nossa família de cinco pessoas tornou-se, literalmente, um lar de luz. Frequentemente conversamos em casa, dizendo: “Nós somos verdadeiramente felizes”, e assim passamos nossos dias em profunda alegria.
-
-Quando recordo o estado do meu corpo há um ano, sinto uma gratidão imensa, quase imerecida, por minha condição atual. O poema de Meishu-Sama ressoa em meu peito com grande emoção:
-
-Se não fosse a salvação de Kannon (観音),
-Eu ainda estaria a sofrer
-Em um pântano sem fundo.
-
-Os benefícios, contudo, não se limitaram à saúde. Passamos a praticar a Agricultura Natural, e nossas colheitas, livres de fertilizantes, têm nos proporcionado vegetais de sabor excepcional. No ano passado, cultivamos o trigo também pelo método natural, e seus grãos, visivelmente mais pesados, pendem das espigas de uma forma distinta das demais plantações. A diferença é notória e incontestável. Aguardo com grande expectativa os resultados maravilhosos que certamente virão.
-
-Salva pela Grande Luz Divina, hoje, embora minhas capacidades sejam limitadas, tenho a permissão de auxiliar nesta nobre Obra, sob a orientação do ministro Chikasawa. O seguinte poema expressa com perfeição o sentimento que trago no coração:
-
-Mesmo louvando e louvando,
-Jamais expressarei toda a gratidão.
-Que tristeza não haver meio
-De retribuir tamanha graça.
-
-De fato, é exatamente este o estado do meu espírito.
-
-***
-
-O ingresso desta pessoa na fé ocorreu por intermédio de sonhos. Para alguns, tal fato pode parecer extraordinário, mas não há nele mistério algum. Trata-se da atuação dos antepassados que, no anseio de salvar seus descendentes e, consequentemente, a si próprios, utilizam-se de diversos meios para conduzi-los à nossa Doutrina. Isso ocorre porque, no Mundo Espiritual, tem-se a clara consciência de que não existe outra religião com verdadeiro poder de salvação.
-
-Fica evidente, portanto, que os espíritos de nossos antepassados alcançam esse discernimento muito antes dos seres humanos que vivem no plano material. Por meio deste relato, compreende-se que os milagres não são meros acasos, mas fenômenos cuja raiz se encontra no Mundo Espiritual.
-
-Uma das grandes razões para a expansão de nossa Fé reside, precisamente, na intensa atuação dos antepassados no plano espiritual.
-
----
-
-# A Imprensa como Instrumento de Interesses Particulares
-
-**Categoria:** o | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
-**Título Original:** 己れの利害を本位とし、社会の公器性を失う 読売新聞へ再抗議文 | **Status:** Published
-
-## A Imprensa como Instrumento de Interesses Particulares
-
-Em decorrência das reportagens caluniosas veiculadas recentemente pelo jornal Yomiuri Shimbun, que prejudicaram tanto a nossa Igreja quanto o prefeito de Atami, Sr. So, enviamos uma nota de repúdio ao editor-chefe da referida publicação, solicitando a correção das informações inverídicas.
-
-Todavia, enquanto o jornal expressou suas desculpas ao prefeito, manteve para com a nossa Igreja uma postura evasiva e irresponsável, sem demonstrar qualquer sinal de sinceridade. Diante disso, sentimo-nos compelidos a enviar uma segunda carta de protesto, exortando a empresa a adotar uma conduta digna e consentânea com os princípios do jornalismo.
-
-***
-
-**Segunda Carta de Protesto**
-
-Com os nossos cumprimentos.
-
-Dirigimo-nos a vós para indagar a razão pela qual, até a presente data, não obtivemos resposta à nossa carta de protesto enviada em 19 de dezembro, referente ao artigo sobre nossa Igreja publicado no dia 14 daquele mesmo mês do ano findo.
-
-Causa-nos particular estranheza o fato de que, diante do protesto do prefeito de nossa cidade, Sr. So, vossa empresa tenha prontamente emitido um pedido de desculpas. Soubemos, por relato detalhado do próprio prefeito, que após uma segunda nota de repúdio e a apresentação de uma queixa formal ao Sr. Inboden, chefe da Divisão de Imprensa do Quartel-General das Forças Aliadas, vossa diretoria se reuniu em caráter de urgência. Como resultado, um representante vosso visitou o prefeito para expressar, de maneira sobremaneira respeitosa, vosso profundo pesar.
-
-Ao ponderar sobre os dois casos, é com grande dificuldade que compreendemos vossa atitude. O conteúdo de vosso artigo foi substancialmente mais danoso à nossa Igreja do que ao prefeito, e, no entanto, permanecemos até hoje sem receber qualquer satisfação. É evidente, a qualquer observador, que tal disparidade de tratamento decorre unicamente do temor à autoridade do Quartel-General e ao título oficial do prefeito. Conclui-se, portanto, que por não haver semelhante receio em relação à nossa Igreja, o senso de responsabilidade de vossa empresa se reduz a nada mais que um cálculo de interesses.
-
-Se partirmos dessa premissa, o propósito que norteia a publicação de vosso jornal torna-se verdadeiramente obscuro. Se sois indiferentes ao bem e ao mal, à verdade e à falsidade, pautando-vos unicamente pela conveniência própria, então vosso periódico deixa de cumprir sua missão como um instrumento a serviço da sociedade para se tornar um mero instrumento particular. Nessa condição, torna-se difícil discernir se vossa existência é benéfica ou prejudicial.
-
-Presumimos que vos encontrais em um dilema: pedir desculpas à nossa Igreja feriria vosso orgulho, mas negar os fatos que apontamos é impossível, pois eles correspondem à verdade. Contudo, as repetidas calúnias que um jornal de vossa magnitude publicou contra a nossa fé representam um insulto e um prejuízo de proporções incalculáveis para nossas centenas de milhares de fiéis.
-
-Embora não seja de nosso feitio buscar contendas, a ausência de uma atitude sincera de vossa parte nos forçará a tomar as medidas cabíveis. Assim, esperamos que, após uma investigação aprofundada, caso se constate a veracidade de nossas alegações, publiqueis uma nota de retratação e assumais um compromisso formal para o futuro. Tal exigência se faz necessária porque, após a retratação de uma matéria difamatória em 20 de julho do ano passado, voltastes a publicar um artigo de teor semelhante em 3 de novembro do mesmo ano. O compromisso que requeremos é simples: "Doravante, não mais publicar inverdades a respeito de nossa Igreja".
-
-Acrescentamos, por fim, o desejo de que, no futuro, quaisquer suspeitas sejam objeto de uma apuração criteriosa. Caso, em decorrência de vossas investigações, sejam de fato encontradas falhas ou aspectos questionáveis em nossa instituição, asseguramos que seremos os primeiros a, com toda a franqueza, expressar nosso reconhecimento e a promover as devidas correções.
-
----
-
-# A Essência da Saúde e da Cura
-
-**Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 上巻 （三） | **Status:** Unknown
-
-## A Essência da Saúde e da Cura
-
-### O Verdadeiro Método para a Saúde
-Originalmente, o verdadeiro método para a saúde consiste em zelar para que o corpo espiritual não se macule. Para que o corpo espiritual permaneça imaculado, é fundamental que sua origem, a alma, não se macule.
-
-Imaginemos um indivíduo que cometa um ato equivocado ou uma ação reprovável que precise ser mantida em segredo. Inevitavelmente, a consciência o acusa, e esse simples fato já é suficiente para macular sua alma. De igual modo, quando alguém inflige sofrimento a outrem, não apenas sua própria alma se obscurece sob o peso da culpa, mas também o pensamento daquele que foi atormentado se converte em mácula espiritual, projetando-se sobre o agressor.
-
-Um exemplo eloquente desse princípio pode ser observado na história de um diretor executivo de uma grande loja de departamentos. Em sua família, de geração em geração, as pessoas eram acometidas por doenças misteriosas ou faleciam prematuramente. A causa residia no fato de que o êxito avassalador de sua empresa levara à ruína um grande número de pequenos comerciantes, os quais, incessantemente, nutriam pensamentos de ressentimento. Essa torrente contínua de pensamentos rancorosos era a origem de suas desgraças. O mesmo princípio explica a queda de novos-ricos, que sucumbem à avalanche de pensamentos de inveja que lhes são direcionados. Artistas que alcançam a fama e o estrelato muito jovens também costumam ter uma vida breve por razões análogas.
-
-Evidentemente, esta não é uma regra absoluta; existem exceções, como no caso de mestres em suas artes que, por serem virtuosos, não são afetados.
-
-Em contrapartida, quando praticamos atos de benevolência, auxiliando o próximo e inspirando gratidão, o sentimento de quem foi ajudado se converte em Luz e nos é enviado. Essa Luz dissolve as máculas acumuladas, permitindo que gozemos de saúde constante e de um estado de espírito sempre sereno. Diante do exposto, fica claro que o verdadeiro método para a saúde não reside em outra coisa senão em cultivar pensamentos corretos e praticar o bem.
-
-Se as ações de uma pessoa são irrepreensíveis perante o Céu e a Terra, sua alma e seu coração permanecem sempre límpidos e radiantes. Conclui-se, portanto, que a doença é, em certa medida, criada pelo próprio indivíduo, que, por conseguinte, sofre por seus próprios atos. Até mesmo as máculas ancestrais podem ser extintas por meio da própria conduta.
-
-### Vida e Morte
-O que é, afinal, a morte? A morte ocorre quando o corpo físico, em decorrência de doença ou de outros fatores, sofre danos a ponto de se tornar inapto para sua função — como no caso de uma hemorragia severa, em que se perde mais de um terço do volume sanguíneo total. Nesse momento, o espírito, impossibilitado de nele permanecer, se desliga. A esse fenômeno damos o nome de morte. Embora se fale genericamente em "morte por doença", na maioria das vezes a causa direta não é a enfermidade em si, mas a debilidade orgânica que dela advém. Contudo, nos dias de hoje, tem se tornado extremamente comum que as pessoas venham a falecer sem que a debilidade seja o fator determinante. É imperativo investigar a fundo as razões desse fenômeno. Deixando de lado a debilidade, as causas mais frequentes de morte são as falhas cardíacas e cerebrais.
-
-A morte pode ser classificada em duas categorias principais: a morte natural e a morte não natural. Atualmente, a morte natural é uma ocorrência verdadeiramente rara. Segundo o censo nacional, apenas uma em cada setecentas pessoas ultrapassa os oitenta anos de idade, um dado deveras assombroso.
-
-Enquanto os demais animais, como as aves e as feras, morrem em sua maioria de forma natural, por que apenas o ser humano apresenta uma taxa tão elevada de mortes não naturais? É forçoso admitir que deve existir uma causa subjacente de grande importância. Por outro lado, apesar de o progresso da civilização parecer capaz de solucionar qualquer problema, ele se mostra impotente diante do crescente número de mortes não naturais, uma realidade que a cultura atual parece ter aceitado com resignação. É uma situação verdadeiramente lamentável.
-
-Analisando as mortes não naturais, constatamos que elas se dividem em mortes por doença e mortes acidentais. Estas últimas, porém, representam uma parcela ínfima, sendo a esmagadora maioria decorrente de enfermidades. Mas por que as mortes por doença são tão frequentes? Ao examinarmos nossa história, observamos um fato notável: desde o Imperador Jinmu até o décimo segundo monarca, o Imperador Keiko, muitos foram os soberanos que, com a graça divina, viveram para além dos cem anos. A partir de então, a longevidade dos imperadores diminuiu consideravelmente. Qual seria a explicação para tal mudança? Poder-se-ia cogitar o desenvolvimento cultural, mas é pouco provável que ele exercesse tamanha influência sobre as esferas mais elevadas da sociedade.
-
-O ponto que merece nossa atenção é que foi precisamente nessa época que a medicina chinesa foi introduzida no Japão. Isso significa que os japoneses começaram a consumir remédios. Conta-se que um célebre mestre da medicina chinesa da Era Tokugawa afirmou: "Em sua essência, não existe tal coisa como remédio. Tudo o que se denomina remédio é, em essência, veneno. Como a doença é uma toxina, utiliza-se o veneno para controlar o veneno". Trata-se de uma colocação de extrema sabedoria, com a qual estamos em plena concordância. Depreende-se daí que, com a chegada da medicina chinesa, os japoneses aprenderam a ingerir venenos sob o nome de remédios, o que enfraqueceu o organismo e, possivelmente, abreviou a longevidade do nosso povo.
-
-Outro exemplo elucidativo é a famosa história do imperador Qin Shi Huang, da China, que, tendo ouvido falar de uma ilha a leste chamada Horai, onde os habitantes eram extraordinariamente longevos, ordenou a seu vassalo Xu Fu que fosse investigar se eles consumiam algum tipo de elixir divino. Nossa interpretação é que, naquela época, não existiam remédios no Japão, e por isso havia muitas pessoas longevas. Na China, ao contrário, os remédios já eram utilizados havia muito tempo, razão pela qual os casos de longevidade eram mais raros.
-
-### As Modalidades da Saúde
-Quais são as modalidades da saúde? Para fins de análise, proponho uma divisão em três categorias.
-
-A primeira categoria abrange as pessoas verdadeiramente saudáveis, que raramente adoecem. E, na eventualidade de contraírem alguma enfermidade, a cura ocorre de forma simples e natural, sem qualquer intervenção. Isso se deve ao fato de sua força de purificação ser vigorosa, o que permite que as toxinas, agentes causadores das doenças, sejam eliminadas antes que se acumulem em grande quantidade. Infelizmente, o número de indivíduos com esse tipo de constituição parece diminuir a cada ano.
-
-A segunda categoria, a mais numerosa, corresponde àquilo que se costuma chamar de "pessoa de saúde normal". São indivíduos que, ao se resfriarem, apresentam febre, dor de garganta e tosse; que ocasionalmente têm dores de cabeça que passam rapidamente; ou que, ao ingerirem um alimento inadequado, sofrem uma diarreia. Essas pessoas encontram-se em um estado intermediário entre a plena saúde e a debilidade, podendo pender para um lado ou para o outro, dependendo de seu estilo de vida e cuidados.
-
-A terceira categoria é a dos indivíduos comumente classificados como "de saúde frágil". São aqueles que vivem em constante contato com medicamentos e, embora se preocupem com a higiene, nunca alcançam um estado de saúde robusto, tampouco desenvolvem doenças graves. É um fato que o número de pessoas nessa condição tem aumentado consideravelmente. O que é verdadeiramente alarmante é que esse tipo de debilidade tem se tornado cada vez mais comum entre os jovens de ambos os sexos, e que o número crescente de crianças frágeis também se enquadra nesta categoria. Com frequência, esses indivíduos de saúde precária são incapazes de exercer plenamente suas atividades profissionais, levando uma existência quase inválida e representando, de certa forma, um fardo para a sociedade e para o país.
-
-Dentre as três modalidades, a maioria das pessoas se encontra na segunda. O ideal seria que elas ascendessem à primeira, mas, infelizmente, a tendência observada é a de que acabem regredindo para a terceira. Por que isso acontece? Gostaríamos de expor o resultado de nossas pesquisas a esse respeito.
-
-Quando uma pessoa da segunda categoria adoece, ela geralmente recorre a terapias que visam ao alívio da febre e da dor. No entanto, esses tratamentos paliativos, na realidade, interrompem o processo de purificação. Embora proporcionem um alívio momentâneo, acabam por prolongar a doença ou até mesmo agravá-la. Isso leva o indivíduo a buscar ainda mais terapias de alívio, mergulhando-o em um ciclo vicioso que o conduz, inevitavelmente, à terceira categoria. Uma vez nesse estado de debilidade, a recuperação se torna extremamente difícil, restando-lhe, na maioria dos casos, apenas a manutenção de sua condição ou, infelizmente, um desfecho desfavorável.
-
-Por essa razão, para se alcançar o estado de saúde da primeira categoria, é indispensável permitir que o processo de purificação ocorra de forma completa e irrestrita. Isso só é possível por meio de um método que não recorra a recursos materiais, mas que se valha da força natural do próprio indivíduo, ou seja, da terapia espiritual.
-
-### Sobre os Micróbios
-Recentemente, o relatório de um experimento conduzido por um renomado pesquisador revelou uma descoberta surpreendente. Até então, acreditava-se que os micróbios só podiam penetrar no organismo através de lesões na pele ou das membranas mucosas, sendo a pele saudável uma barreira intransponível. O referido estudo, no entanto, demonstrou que a invasão pode ocorrer por qualquer via. Se esse experimento for preciso, significa que a prevenção absoluta contra a entrada de micróbios é impossível.
-
-Sendo assim, a única forma de se ter tranquilidade, como venho afirmando há tempos, é desenvolver um organismo que não seja afetado pela invasão dos micróbios. Segundo nossa interpretação, o que acontece quando os micróbios invadem o corpo? Tomemos como exemplo a disenteria. Quando o bacilo da disenteria entra na corrente sanguínea, ele começa a se reproduzir em um ritmo vertiginoso. Por que isso ocorre? Porque há sangue impuro, e as impurezas contidas nesse sangue servem de alimento para os micróbios, que se nutrem delas para se multiplicar. Portanto, as impurezas do sangue são o alimento dos micróbios. Se não houver alimento, mesmo que os micróbios invadam o corpo, eles morrerão de inanição, e a pessoa não desenvolverá a doença.
-
-Existem diferentes tipos de alimento para os micróbios. Há substâncias que nutrem o bacilo do tifo, outras que alimentam o bacilo da disenteria, e ainda outras que favorecem o desenvolvimento do vibrião do cólera. Os micróbios se alimentam, se reproduzem e morrem. Alguns são mais fortes, outros mais fracos; uns têm vida curta, outros, vida longa. Seus cadáveres se transformam em diversas substâncias que são posteriormente excretadas. Na disenteria, por exemplo, as fezes sanguinolentas contêm uma mistura de micróbios vivos e mortos. Quando todo o alimento — as impurezas — é consumido, o sangue se purifica e os micróbios patogênicos morrem. A medicina chama esse processo de "produção de antitoxinas", atribuindo a ele a cura da doença.
-
-O corpo humano é dotado de um mecanismo que busca eliminar qualquer substância impura. Por isso, não há motivo para preocupação com sangramentos nasais ou hemoptises. Quanto mais sangue impuro for expelido, melhor. Tentar estancar uma hemoptise, por exemplo, é tão ilógico quanto tentar impedir a evacuação.
-
-Pode-se dizer, portanto, que os micróbios existem para atuar como agentes de limpeza, purificando o sangue humano. O ideal é que a força vital do indivíduo seja tão vigorosa que seu corpo não seja afetado pelos micróbios, ou seja, que ele não precise da ação desses agentes de limpeza por ser possuidor de sangue puro.
-
-Fala-se muito em "esterilização". É possível eliminar os micróbios que se encontram na superfície do corpo com o uso de medicamentos, mas é absolutamente impossível matar os que já estão em seu interior. Se uma parte do corpo for infectada, os micróbios já terão se espalhado por todo o organismo. Para eliminá-los completamente, seria necessário introduzir em todas as partes do corpo uma quantidade de medicamento suficiente para exterminá-los, o que é, a meu ver, impraticável.
-
-Por exemplo, tentar eliminar o bacilo da tuberculose dos pulmões com medicamentos orais ou injetáveis é uma tarefa árdua. Uma vez que o medicamento entra no estômago e passa pelos diversos órgãos do sistema digestivo, sua composição já terá se alterado completamente quando finalmente chegar aos pulmões. Da mesma forma, no caso de uma doença ocular, mesmo que o remédio seja eficaz, é de se supor que sua composição se modifique radicalmente ao percorrer os diversos órgãos até alcançar os olhos.
-
-### Dor e Febre
-Quando uma doença se manifesta em alguma parte do corpo, os sintomas que surgem são, na verdade, manifestações do processo de eliminação das toxinas. Como já devem ter compreendido, a febre é o calor necessário para dissolver essas toxinas. Mas de onde vem esse calor? Se ele fosse gerado pelo próprio corpo, deveria haver algum local de armazenamento desse calor, um local que estivesse constantemente em brasa. No entanto, tal local não existe; o calor simplesmente aparece quando adoecemos. É um verdadeiro mistério. De onde, então, e de que forma, surge essa notável força dissolvente que é a febre? Essa questão, da mais alta importância, permanece sem resposta até os dias de hoje.
-
-Conforme explicado nos ensinamentos sobre os três mundos, o Mundo Espiritual é regido pelo calor solar, ou seja, pelo elemento fogo. Esse elemento fogo é a fonte da febre. Quando o corpo necessita de calor, o coração absorve ativamente esse elemento. É por causa dessa absorção intensa que os batimentos cardíacos se aceleram. Os calafrios que sentimos antes da febre ocorrerem porque o corpo interrompe temporariamente a absorção de calor para suas funções gerais, a fim de concentrar a captação na quantidade necessária para a cura da doença.
-
-E o que é a dor? Segundo nossa interpretação, a dor é o estímulo que o processo de eliminação das toxinas exerce sobre os nervos. Portanto, quanto mais vigorosa for a atividade de eliminação, mais intensa será a dor. A presença da dor é, assim, um sinal de que o trabalho de cura está progredindo rapidamente. Logo, quando há febre e dor, é o momento em que a cura está ocorrendo de forma mais intensa.
-
-Se, nesse momento, aplicarmos métodos antipiréticos, a ação dissolvente da febre será interrompida. Ou seja, a ação que levaria à cura é paralisada. O sofrimento diminui temporariamente, mas a recuperação da doença é retardada.
-
-É verdade que mesmo pessoas debilitadas podem apresentar febre alta, mas nesses casos, isso indica que a força da doença é superior à do organismo. Por outro lado, quando a febre é baixa apesar da doença, ou a enfermidade é relativamente branda, ou trata-se de uma pessoa da primeira categoria de saúde, cuja força de purificação é especialmente vigorosa. As pessoas da primeira categoria possuem uma força de purificação tão intensa que não necessitam de febre. Por conseguinte, em qualquer doença, desde que não haja dor insuportável, não há problema em manter o corpo em atividade. Isso porque o repouso enfraquece a vitalidade e, consequentemente, reduz a geração de calor. No tratamento da tuberculose, por exemplo, o Japão adotou recentemente a terapia do repouso absoluto. Na verdade, o contrário seria mais eficaz: a prática de exercícios aumentaria a vitalidade, intensificaria a força de purificação e aceleraria a cura. Fiquei sabendo que, recentemente, no Ocidente, tem-se adotado a prática de tratar a doença enquanto se continua trabalhando, o que coincide com minha teoria e é motivo de grande alegria.
-
-Por tudo isso, a febre e a dor, longe de serem negativas, são elementos importantes no processo de cura.
-
-### O Princípio da Nossa Terapia
-Como já foi dito repetidas vezes, a causa fundamental da doença reside no espírito. Portanto, ao curarmos a doença do espírito, a doença do corpo se curará, queiramos ou não.
-
-Vamos aprofundar essa explicação. A remoção cirúrgica do apêndice ou a aplicação de gelo, por exemplo, podem trazer uma melhora temporária. No entanto, enquanto as máculas do corpo espiritual não forem eliminadas, a reincidência da doença será inevitável. Se o apêndice ainda estiver lá, a nova crise será mais grave. Se ele já tiver sido removido, o pus, não tendo para onde ir, se acumulará nos tecidos adjacentes, podendo causar peritonite ou câncer.
-
-A Terapia por nós preconizada, ao eliminar as máculas do corpo espiritual, constitui um tratamento verdadeiramente fundamental. E, para eliminar as máculas do espírito, é preciso usar o próprio espírito. A ação do espírito se manifesta como uma luz que irradia do corpo humano. Não há outro meio senão essa Luz.
-
-Quando falamos em "Luz", não nos referimos à luz visível, mas sim à "Luz Espiritual". No entanto, ela não é absolutamente invisível — há pessoas que, ocasionalmente, conseguem percebê-la. Essa Luz é geralmente de cor branca, podendo por vezes apresentar um tom azulado. Ela se manifesta como um facho luminoso, irradiado principalmente da ponta dos dedos, da palma da mão ou da testa do aplicador. É essa irradiação de Luz Espiritual que remove as máculas, num processo de natureza totalmente mística.
-
-O ato de soprar serve para dispersar as máculas que foram dissolvidas pela Luz, de forma análoga ao Sol que ilumina e dissolve a imundície da Terra, e ao vento que a dispersa. Já o ato de friccionar tem por finalidade facilitar a dissolução das máculas. Ao serem revolvidas em todas as direções pela Luz, as aglomerações de máculas se abrandam.
-
-Contudo, é extremamente difícil fazer com que os materialistas compreendam esses fenômenos espirituais, pois nossa fé parte de um princípio fundamentalmente distinto. Nossa fé se baseia nos fatos, enquanto a deles se fundamenta na lógica. Para nós, no que tange à doença, o que importa é que ela seja curada, e nada mais. A higiene, por sua vez, consiste em praticar os cuidados necessários para se obter a saúde, e isso basta. Pois, em última análise, tudo se rege pelos fatos, e a lógica nada mais é do que uma tentativa de acompanhá-los. Talvez falemos assim por termos testemunhado, vezes sem conta, a ineficácia de terapias que, embora condizentes com a teoria científica, não são capazes de curar as doenças. Pedimos vossa compreensão a esse respeito.
-
-### Diversos Métodos de Tratamento
-
-**Moxabustão**
-Todo tratamento visa a eliminar as impurezas acumuladas no corpo, seja lavando-as com água ou queimando-as com fogo. A moxabustão, por ser uma forma de queima física, produz um efeito considerável, embora temporário e, por sua natureza, não fundamental. Além disso, por ser um fogo físico, o tratamento é extremamente quente e doloroso, o que o afasta do ideal. Um verdadeiro método de cura deve proporcionar alívio de forma agradável.
-
-**Cura por Redenção**
-Aproveitando o ensejo, gostaria de falar sobre a cura por redenção. Essa modalidade de cura existe desde tempos remotos. É de conhecimento geral que Jesus Cristo redimiu os pecados da humanidade. Outro exemplo é o de Miki Tokuharu, fundador da Hito no Michi. Ele sofria de uma asma grave até encontrar um homem chamado Kaneda Tokumitsu, que lhe disse: "Eu curarei sua asma". Naquela mesma noite, a asma de Miki desapareceu completamente. Em contrapartida, Kaneda assumiu a doença e sofreu com ela por cerca de um mês. Esse é, sem dúvida, um notável caso de cura por redenção. Impressionado com o ocorrido, Miki Tokuharu decidiu que também queria realizar esse tipo de cura, e essa foi a motivação para fundar sua organização. Não há dúvida de que a cura por redenção é praticada desde tempos muito antigos. Vocês mesmos já devem ter passado por experiências semelhantes. Ao tratar um doente, por exemplo, às vezes sentimos os mesmos sintomas. Isso é uma forma de redenção, ainda que parcial. Essa redenção é uma manifestação do elemento água, sendo, portanto, característica das pessoas do tipo lunar. A natureza da água é lavar, e, ao fazê-lo, ela assume a sujeira. Nisso consiste a redenção. Nossa Terapia, por sua vez, utiliza o fogo espiritual para queimar e a água para lavar, ou seja, uma única pessoa realiza as duas funções. Como as impurezas são primeiramente queimadas pelo fogo, o que resta é apenas uma pequena quantidade de cinzas. Mesmo ao lavar com a água, a quantidade de impurezas absorvida pelo aplicador é mínima, o que lhe permite tratar um grande número de doentes com relativa facilidade.
-
-**Acupuntura**
-A acupuntura, assim como a terapia medicamentosa, também atua interrompendo temporariamente o processo de purificação. Ao se inserir uma agulha em um ponto onde há um vaso sanguíneo calibroso, o músculo da região se contrai e incha, dificultando o fluxo sanguíneo e, consequentemente, paralisando a purificação. Isso proporciona um alívio temporário da dor, mas, assim que o inchaço diminui, os sintomas retornam.
-
-**Injeções**
-As injeções são uma espécie de terapia reversa, que consiste em introduzir toxinas na corrente sanguínea para enfraquecer o processo de purificação.
-
-**Cirurgia**
-A cirurgia consiste na remoção da parte doente. Os resultados podem ser bons ou ruins, não se tratando de um método de cura definitivo. Do ponto de vista religioso, no entanto, ferir, ainda que minimamente, o corpo que nos foi concedido por Deus constitui um pecado. O corpo é um empréstimo divino, e devemos tratá-lo com o máximo de cuidado e respeito. Tanto a moxabustão quanto a cirurgia deixam marcas permanentes, transformando a pessoa, de certa forma, em um mutilado para o resto da vida. Por mais bela que seja a pele de uma mulher, uma cicatriz de moxabustão a arruína para sempre. É o mesmo que um jardineiro queimar, com a ponta de um incenso, a pétala de uma flor que ele tanto se esmerou para cultivar. É, ouso dizer, uma grande profanação contra o Criador. Há pessoas que, após uma cirurgia, ficam com uma aparência que mal se pode olhar. Embora se possa argumentar que, em alguns casos, o procedimento é inevitável, se fosse possível curar as mesmas condições sem recorrer à cirurgia, não haveria nada mais maravilhoso. É aí que reside o imenso valor da nossa Terapia.
-
-**Inalação de Oxigênio**
-A inalação de oxigênio também é um método questionável. Recentemente, um aviador francês publicou um relato interessante: voar a uma altitude superior a três mil metros por mais de trinta minutos cura a maioria dos resfriados. Do ponto de vista científico, quanto maior a altitude, mais rarefeito é o oxigênio. Isso nos leva a um impasse: afinal, é melhor ter mais ou menos oxigênio? O ar que respiramos é composto por uma combinação de elementos como oxigênio, hidrogênio e nitrogênio, em proporções que, sem dúvida, são as ideais para a respiração humana. É como um prato bem temperado, que requer a mistura harmoniosa de açúcar, shoyu e outros ingredientes. De que adiantaria consumir apenas o açúcar ou apenas o shoyu? A inalação de oxigênio me parece ser exatamente isso: a administração de um único elemento de forma isolada.
-
-**Aplicação de Gelo**
-A aplicação de gelo, por reduzir a febre e aliviar a dor, pode parecer eficaz. Na realidade, porém, ela interrompe completamente o processo de purificação, retardando a cura. No verão passado, muitas pessoas morreram de encefalite letárgica, e acredito que a causa tenha sido o uso excessivo de gelo. No caso da apendicite, o gelo faz com que o pus se solidifique, o que acaba tornando a cirurgia necessária. Se o gelo não fosse utilizado, a cura ocorreria de forma muito mais rápida.
-
-**Banhos de Sol**
-Recentemente, um cientista ocidental propôs uma nova teoria: a luz solar, além de conter os benéficos raios ultravioleta, também possui um componente que exerce uma influência extremamente negativa sobre o corpo humano. De modo geral, o ser humano não é um animal feito para se expor ao sol. Ficar o dia todo sob o sol é excessivamente forte para o nosso organismo. No entanto, se a exposição ocorrer enquanto se trabalha e se transpira, ela é extremamente benéfica. O que é prejudicial é ficar parado, recebendo a luz solar por um longo período.
-
-**Sereno**
-Diz-se que o sereno é tóxico, mas eu o considero extremamente benéfico e recomendo aos doentes que se exponham a ele. Isso porque a "energia espiritual da Lua" também é essencial.
-
-**Energia da Terra**
-A "energia espiritual da Terra" também é muito importante. Antigamente, falava-se em "tocar o sopro da terra". A energia espiritual do solo também é necessária para o corpo humano. Por isso, os exercícios ao ar livre são muito mais benéficos do que os praticados em ambientes fechados, pois nos permitem entrar em contato com a energia da terra. Nesse sentido, a jardinagem é uma atividade excelente.
-
-Em suma, todas as coisas são geradas e nutridas pela energia espiritual do Sol, da Lua e da Terra. Portanto, se tomamos banho de sol, deveríamos também tomar banho de lua e nos expor à energia da terra. Recentemente, tem-se falado no chamado "mal dos edifícios", que, a meu ver, é causado pelo distanciamento da energia da terra.
-
-**Compressas e Emplastros**
-O ser humano também respira pela pele. As compressas e os emplastros obstruem essa respiração, prejudicando o metabolismo e enfraquecendo o processo de purificação.
-
-**Medicamentos Tópicos**
-Os medicamentos de uso tópico penetram na pele, impurificam o sangue e enfraquecem o processo de purificação. Embora proporcionem um alívio temporário da dor, acabam por retardar a cura.
-
-(Julho de 1936)
-
----
-
-# Alarmantes Erros de Diagnóstico e Tratamento
-
-**Categoria:** o | **Ano:** 昭和11(1936)年4月16日 | **Fonte:** 新日本医術書
-**Título Original:** 驚く可き誤診と誤療 | **Status:** Unknown
-
-## Alarmantes Erros de Diagnóstico e Tratamento
-
-Em minha jornada tratando inúmeros pacientes, tenho feito uma descoberta verdadeiramente espantosa: a assombrosa frequência com que os médicos incorrem em erros de diagnóstico, a julgar pelos relatos que me chegam. O mais grave, contudo, é que tais equívocos não são raros nem mesmo entre as mais altas autoridades do meio acadêmico, profissionais de diversas faculdades de medicina em quem o público deposita confiança absoluta. Nesse sentido, pretendo apresentar, de forma sequencial, alguns casos que sirvam de alerta não apenas aos envolvidos, mas à sociedade em geral.
-
-Desejo esclarecer, de antemão, que não nutro a mínima intenção de depreciar a classe médica. A motivação que me impele é unicamente um sentimento de compaixão do qual não me posso eximir, e rogo que isso seja plenamente compreendido. Sendo assim, terei o máximo cuidado para ater-me estritamente aos fatos, sem deles me afastar um único passo.
-
-**Cinco Doenças Inexistentes**
-
-Bairro de Kyobashi, distrito de Shinkawa
-Sra. Chifuko (nome fictício), 45 anos
-
-Esta paciente sofria de uma enfermidade havia dez anos. Sua condição, que alternava entre melhoras e recaídas, agravou-se consideravelmente no último ano, forçando-a a um repouso absoluto; permanecia acamada, levantando-se apenas para ir ao banheiro. Segundo seu relato, os diagnósticos emitidos por dois renomados doutores apontavam para um quadro de seis patologias: catarro no ápice do pulmão esquerdo, inflamação dos gânglios linfáticos do hilo pulmonar direito, hipertrofia cardíaca, gastroptose, beribéri e catarro do intestino delgado.
-
-No entanto, ao examiná-la, constatei que, dessas seis supostas doenças, apenas o catarro do intestino delgado era real; as outras cinco eram inteiramente inexistentes.
-
-Na verdade, a paciente encontrava-se em um estado de extrema debilidade devido ao longo período acamada, o que lhe causava anemia e uma magreza que, à primeira vista, a faziam parecer gravemente enferma. A verdadeira causa de seu sofrimento, contudo, era um acúmulo de pus na região do pescoço e em sua base. Adicionalmente, identifiquei um enfraquecimento geral das funções orgânicas, provocado pelas toxinas dos medicamentos ingeridos ao longo de anos, e uma discreta retenção de secreções purulentas na área dos rins e no peritônio.
-
-Após o início do tratamento, em apenas quatro dias ela pôde deixar o leito. Em cerca de dez dias, já retomava suas tarefas domésticas e, ao fim de vinte dias, encontrava-se completamente restabelecida, com a saúde de antes. Sua alegria era tamanha que não se pode descrevê-la em palavras. O espanto das pessoas ao seu redor, segundo me contam, superava qualquer imaginação; todos os que souberam do caso não encontravam outra definição senão a de "incompreensível".
-
-**Uma Sentença de Morte Revertida**
-
-Bairro de Shiba, distrito de Shirokane Shida
-Menina Reiko K. (nome fictício), 7 anos
-
-Em setembro do ano passado, o chefe de pediatria de uma renomada faculdade de medicina teria dito o seguinte à mãe desta paciente: "Recusamo-nos a internar sua filha, pois não há a menor esperança de cura. A doença dela é pulmonar, e sua vida não se estenderá por mais de seis meses. Esteja preparada".
-
-Ao examiná-la, porém, verifiquei que seus pulmões não apresentavam qualquer anormalidade. O problema real consistia em um considerável acúmulo de pus que se estendia das glândulas parótidas aos gânglios linfáticos, o que lhe causava febres diárias superiores a 39 graus.
-
-Iniciei o tratamento para dissolver esse pus e, gradualmente, a febre cedeu, normalizando-se por completo em uma semana. A menina, que antes se mostrava pálida, sem energia e com dificuldade para caminhar, começou a readquirir a cor no rosto, a ganhar peso e a recuperar a vitalidade. Em pouco mais de um mês, estava praticamente curada, com a saúde de antes. Ela continua a me visitar duas ou três vezes por mês, pois ainda resta um pequeno resquício de pus nos gânglios linfáticos.
-
-Em abril deste ano, ela ingressou, feliz, no ensino fundamental, esbanjando uma saúde e uma vivacidade que superam as de muitas outras crianças. Recentemente, ao relatar o contraste entre a realidade e a previsão do médico de que sua filha não viveria mais de seis meses, a mãe se desfez em uma gargalhada.
-
-Caso os profissionais mencionados nestes exemplos desejem averiguar os fatos, terei o maior prazer em intermediar o contato a qualquer momento. Aliás, mais do que isso, anseio que examinem, a título de referência, o estado de completa recuperação destes pacientes.
-
----
-
-# As Razões de Meu Desligamento da Oomoto
-
-**Categoria:** o | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 大本教脱退の理由 自観叢書第9篇 | **Status:** Published
-
-## As Razões de Meu Desligamento da Oomoto
-
-Visto que sou frequentemente inquirido a esse respeito, decidi apresentar um breve esclarecimento sobre os motivos que me levaram a deixar a Oomoto.
-
-Creio que o fato se deu por volta do segundo ou terceiro ano da era Showa (1927-1928). Estando a mãe do Sr. Onisaburo Deguchi gravemente enferma e em seu leito de morte, ela o chamou e lhe revelou o seguinte: "Em minha juventude, meu pai foi mestre de estudos clássicos do príncipe Arisugawa Taruhito (有栖川熾仁). Por essa conexão, quando Sua Alteza se hospedava em Quioto, servi-o como dama de companhia. Foi em uma dessas ocasiões que fui tocada por ele, e de tal união, nasceste tu. Portanto, és um descendente do príncipe. Como minha vida pode estar chegando ao fim, chamei-te para que soubesses desta verdade." Sendo este um relato que ouvi diretamente dos lábios do Sr. Deguchi, não tenho dúvidas de sua autenticidade.
-
-A partir desse acontecimento, a atitude do Sr. Deguchi alterou-se de forma drástica. Seu estilo de vida tornou-se em tudo semelhante ao de um membro da Família Imperial, chegando a vestir haoris com o brasão do crisântemo. Ademais, perante os fiéis, afirmava que a linhagem legítima do Japão era a da Corte do Sul, e não a da Corte do Norte, à qual pertence o atual Imperador, insinuando assim que ele mesmo seria o verdadeiro soberano. Compreendi o perigo inerente a essa conduta. Embora hoje, com casos como o do Imperador Kumazawa, tal pretensão talvez não parecesse tão grave, à época, constituía um problema de enormes proporções. Além disso, em suas viagens, ao chegar às estações, dezenas de jovens uniformizados o aguardavam em fileiras para saudá-lo com reverência; ao sair, motocicletas abriam caminho para uma comitiva de vários automóveis que se deslocavam em alta velocidade. Sua comitiva era uma réplica exata de um cortejo imperial (鹵簿), o que me deixou atônito.
-
-Por conseguinte, é evidente que tais atitudes foram uma das principais causas da perseguição que se seguiu. Causa-me profundo espanto que, apesar de haver figuras notáveis entre os dirigentes, a começar pelo próprio Sr. Deguchi, ninguém se tenha apercebido desse risco.
-
-Havia ainda um outro fator. O Sr. Deguchi possuía um espírito livre e irrestrito, de uma vastidão comparável ao céu e ao mar. Sua vida cotidiana era, portanto, absolutamente desregrada e excessivamente pautada pelos instintos. Disso decorreram diversas ocorrências que a decência me impede de registrar por escrito, o que, naturalmente, levou a uma alarmante dissolução dos costumes entre os fiéis. Diante de tal quadro, concluí que a situação era insustentável.
-
-Foi no sétimo ano da era Showa (1932) que tomei a decisão de me afastar. Após dois anos de preparação, efetivei meu desligamento em 15 de setembro do nono ano de Showa (1934). Comigo, dezenas de membros de meu grupo renunciaram coletivamente (連袂), um acontecimento sem precedentes desde a fundação da Oomoto, que foi noticiado com grande destaque na revista oficial da instituição. Contudo, tal fato produziu um efeito providencial, que não posso atribuir a outra coisa senão à Proteção Divina. Ocorre que, pouco mais de um ano depois, em 8 de dezembro do décimo ano de Showa (1935), a organização sofreu uma severa perseguição por parte das autoridades. Eu estive prestes a ser implicado, mas, graças à publicação de minha renúncia na revista, pude evitar essa desgraça. Naquela ocasião, todos os dirigentes de posição semelhante à minha foram banidos de Tóquio, sendo forçados a se retirarem para o interior. Sem dúvida, eu teria partilhado do mesmo destino.
-
----
-
-# O Temível Perigo da Fitoterapia Chinesa
-
-**Categoria:** o | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
-**Título Original:** 恐るべき漢方薬 | **Status:** Published
-
-## O Temível Perigo da Fitoterapia Chinesa
-
-Ao dissertarmos sobre a temível natureza das toxinas medicamentosas, é comum que nossos interlocutores suponham que tal perigo se restrinja aos fármacos ocidentais. Muitos chegam a duvidar que a fitoterapia chinesa possa sequer ser considerada um medicamento que acarrete riscos. Contudo, trata-se de um grave equívoco. Na verdade, a severidade da intoxicação por fitoterápicos chineses pode superar, em muito, a dos ocidentais.
-
-Decerto, a potência de uma dose individual de um preparado chinês é inferior à de um medicamento alopático. O perigo, todavia, reside na quantidade avassaladora que se consome. Desde tempos antigos, é costume ferver o conteúdo de um bule inteiro de ervas para ser ingerido diariamente como remédio de uso contínuo; há até mesmo quem o substitua pelo chá. Por conseguinte, a carga tóxica acumulada pode ser dezenas ou mesmo centenas de vezes superior à dos fármacos ocidentais.
-
-A variedade de ervas utilizadas é considerável, e, segundo minha experiência, o gennoshouko se revela como a mais violenta de todas. Aqueles que o consumiram em grande quantidade sofrem uma purificação terrivelmente obstinada. Por mais que se eliminem as toxinas, novas acumulam-se incessantemente, conduzindo o indivíduo à morte por debilitamento. É algo verdadeiramente aterrador. Em seguida, a erva conhecida como dokudami também apresenta elevada toxicidade. As pessoas que fizeram uso extensivo dessas duas substâncias devem ter cautela redobrada.
-
-As demais ervas apresentam, em geral, um grau de periculosidade semelhante. Há, ainda, uma substância de nome desconhecido, de cor negra e consistência semelhante à de um caramelo, que ocasionalmente encontro em alguns pacientes. A intoxicação por ela provocada é igualmente persistente e de difícil cura.
-
-Acima de tudo, a intensidade da intoxicação por fitoterápicos chineses é mais bem aferida pela tez da pessoa. Quanto maior o consumo, mais pálido se torna o rosto, manifestando o que popularmente se conhece como um inchaço de tonalidade azulada. Observa-se, ademais, que essa intoxicação é mais frequente entre as mulheres, especialmente aquelas que pertenceram ao universo da vida boêmia e do entretenimento, provavelmente porque, desde a antiguidade, tais ervas são tidas como eficazes para as afecções femininas.
-
-Para ilustrar, recordo-me do caso de uma pessoa que tratei há tempos. Por mais de vinte anos, ela ingerira diariamente um preparado em pílulas chamado Kiougan, indicado para a constipação. Em decorrência disso, desenvolveu uma tuberculose renal e foi desenganada pelos médicos. A despeito de meus esforços, a carga de toxinas em seu organismo era tamanha que, por fim, seu quadro se tornou irreversível.
-
-Esta realidade, aliás, é de conhecimento geral e nos permite inferir a provável causa da tez pálido-amarelada, tão característica em muitos chineses: uma consequência direta da intoxicação crônica por esses mesmos fitoterápicos.
 
 ---
 

@@ -3,7 +3,7 @@
 # Ensinamento (18 de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月18日） | **Status:** Published
+**Título Original:** 御教え （S26年8月18日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (18 de agosto de 1951)
 
@@ -164,7 +164,7 @@ Depois disso, abordarei diversos outros temas – política, economia, educaçã
 # Ensinamento (25 de fevereiro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年2月25日） | **Status:** Published
+**Título Original:** 御教え （S27年2月25日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
 
 ## Ensinamento (25 de fevereiro de 1952)
 
@@ -259,7 +259,7 @@ Atualmente, fala-se muito em liberdade de expressão, mas a verdade é que exist
 # Coletânea de Artigos do Mestre Jikanshi Okada — Coletânea de Ensinamentos, nº 16
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-12-15
 
 ## Coletânea de Artigos do Mestre Jikanshi Okada — Coletânea de Ensinamentos, nº 16
 
@@ -530,7 +530,7 @@ A questão do patriotismo tem sido muito debatida. Escrevi sobre isso. (Artigo "
 # s260825a
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月25日） | **Status:** Published
+**Título Original:** 御教え （S26年8月25日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 — Coletânea de Teses do Reverendo Jikan Okada —
 Pesquisa de Ensinamentos: help | Pesquisa de Documentos: Ensinamentos (25 de agosto de 1951)
@@ -613,7 +613,7 @@ Para concluir, a disenteria está se alastrando por toda parte, com surtos em v�
 # Ensinamento (5 de março de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月5日） | **Status:** Published
+**Título Original:** 御教え （S27年3月5日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Ensinamento (5 de março de 1952)
 
@@ -720,7 +720,7 @@ O tempo se esgotou, então encerrarei minha fala por aqui.
 # Ensinamento (1º de agosto de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年8月1日） | **Status:** Published
+**Título Original:** 御教え （S26年8月1日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
 
 ## Ensinamento (1º de agosto de 1951)
 
@@ -833,7 +833,7 @@ Ademais, este ano, há um grande alarde sobre um possível surto de disenteria. 
 # Ensinamento (21 de Setembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年9月21日） | **Status:** Published
+**Título Original:** 御教え （S26年9月21日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
 
 ## Ensinamento (21 de Setembro de 1951)
 
@@ -870,7 +870,7 @@ Rogo que me oriente sobre os pontos de Johrei para nós três.
 # Coletânea de Artigos do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月25日） | **Status:** Published
+**Título Original:** 御教え （S26年11月25日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Coletânea de Artigos do Reverendo Jikan Okada
 
@@ -965,7 +965,7 @@ Outro ponto: quando estive em Quioto no mês passado, os espíritos de mais de q
 # Ensinamento (5 de outubro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月5日） | **Status:** Published
+**Título Original:** 御教え （S26年10月5日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamento (5 de outubro de 1951)
 
@@ -1068,7 +1068,7 @@ Embora, à primeira vista, seja uma situação lamentável e difícil de tolerar
 # Coletânea de Teses do Reverendo Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年11月18日） | **Status:** Published
+**Título Original:** 御教え （S26年11月18日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
 
 ## Coletânea de Teses do Reverendo Jikan Okada
 Busca nos Ensinamentos: auxílio | Busca no acervo: Ensinamentos (18 de novembro de 1951)
@@ -1182,7 +1182,7 @@ Contudo, não se deve forçar as coisas. Haverá momentos em que vocês se pergu
 # Coletânea de Teses do Mestre Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-04-15
 
 ## Coletânea de Teses do Mestre Jikan Okada
 ### Coleção de Ensinamentos, Número Vinte
@@ -1516,7 +1516,7 @@ A partir de junho, faremos a exposição de ukiyo-e. Já houve várias exposiç�
 # Ensinamentos (21 de outubro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年10月21日） | **Status:** Published
+**Título Original:** 御教え （S26年10月21日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
 
 ## Ensinamentos (21 de outubro de 1951)
 
@@ -1613,7 +1613,7 @@ Assim, o Plano Divino é profundo. Com o passar do tempo, vocês o compreenderã
 # Os Ensinamentos (7 de março de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S27年3月7日） | **Status:** Published
+**Título Original:** 御教え （S27年3月7日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
 
 ## Os Ensinamentos (7 de março de 1952)
 Publicado na Coletânea de Ensinamentos, n.º 8, em 20 de abril de 1952
@@ -1687,7 +1687,7 @@ Para mim, essa atitude é uma farsa. Eu, ao contrário, adoto uma postura iconoc
 # Ensinamento (15 de dezembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月15日） | **Status:** Published
+**Título Original:** 御教え （S26年12月15日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Ensinamento (15 de dezembro de 1951)
 
@@ -1732,7 +1732,7 @@ A prova mais evidente disso é que as religiões de grande porte constroem hospi
 # Ensinamento (28 de dezembro de 1951)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御教え （S26年12月28日） | **Status:** Published
+**Título Original:** 御教え （S26年12月28日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
 
 ## Ensinamento (28 de dezembro de 1951)
 

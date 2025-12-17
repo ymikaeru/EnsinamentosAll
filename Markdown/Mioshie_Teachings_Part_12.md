@@ -1,9 +1,54 @@
 # Mioshie_Teachings - Part 12
 
+# Sobre os Novos Fármacos para a Tuberculose
+
+**Categoria:** ke | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
+**Título Original:** 結核新薬 | **Status:** Published | **Edição/Página:** 168号 | **Data ISO:** 1952-08-06
+
+## Sobre os Novos Fármacos para a Tuberculose
+
+Recentemente, publiquei um artigo tecendo críticas aos novos fármacos para a tuberculose. Aos olhos de terceiros, talvez sejamos nós os alvos do escárnio; contudo, a realidade dos fatos não o permite. Discute-se ruidosamente sobre a eficácia ou ineficácia desses medicamentos, sobre seus efeitos colaterais, ou se o seu lançamento no mercado foi precipitado. Do nosso ponto de vista, todavia, tal debate se revela verdadeiramente lastimável. A razão é simples: para nós, o bacilo da tuberculose não representa, em si, o problema fundamental.
+
+A eficácia do Johrei transcende a mera questão dos bacilos; em um curto período, as manchas pulmonares são simplesmente varridas, deixando os pulmões completamente limpos. Não seria exagero afirmar que seu efeito é cem vezes superior ao da hidrazida. O relato a seguir ilustra essa verdade de maneira incontestável. Apesar disso, sabemos que mesmo após a sua leitura, não haverá qualquer reação por parte dos senhores especialistas, o que o torna, em essência, pérolas lançadas aos porcos.
+
+Evidentemente, a justificativa para tal indiferença reside no fato de sermos uma religião. Tal mentalidade, porém, é a prova cabal de que se tornaram prisioneiros da superstição científica. Se assim for, não há como não qualificar a situação como aterradora. Consequentemente, os responsáveis por essa área fecham os olhos a uma terapia que salva vidas, enquanto promovem outra que não o faz. Não há outra forma de descrever essa atitude senão como um equívoco espantoso.
+
+### Um Milagre: A Recuperação de Infiltração Pulmonar Após Apenas Oito Sessões de Johrei
+
+Wakimoto Kotoyuki (18 anos), não membro – Hiroshima
+
+Formei-me no ensino ginasial em março de 1951 e, por questões familiares, embarquei imediatamente para trabalhar em um navio da empresa Osaka Morita Kisen. Pouco tempo após o embarque, quando mal havia me acostumado à vida no mar, comecei a sentir uma anomalia em meu corpo. Fui ao Hospital da Associação de Amparo aos Marinheiros do Japão, em Osaka, e o diagnóstico foi de linfadenite hilar. Acreditando não ser nada grave, vi meu estado de saúde piorar dia após dia.
+
+No início de junho, fui finalmente internado no mesmo hospital. Recebi alta um mês depois e retornei ao navio. Contudo, ao retomar as atividades normais, meu quadro se agravou novamente. Um novo diagnóstico médico apontou uma infiltração no pulmão direito, e em menos de um mês fui obrigado a desembarcar e voltar para casa.
+
+Passei a receber injeções diárias de medicamentos como Ronjinon e cálcio. Após dois meses, senti uma melhora aparente e decidi retornar ao trabalho no navio. No entanto, no início de abril de 1952, meu corpo deu sinais de descompasso pela terceira vez. Angustiado, perambulei por diferentes hospitais e clínicas. O resultado da radiografia revelou a temida tuberculose pulmonar. Ah, as letras vermelhas no laudo, que pareciam o sorriso de um demônio! Aqueles que já passaram por tal experiência certamente compreendem o estado de espírito que me abateu naquele instante.
+
+Em completo desespero, mergulhado em profunda tristeza, retornei ao navio como um sonâmbulo. Lá, porém, o olhar frio e o desprezo do capitão e dos demais tripulantes ao verem meu diagnóstico foram avassaladores. Fui imediatamente instruído a desembarcar, e voltei para casa como um fugitivo. O sentimento de humilhação, pesar e revolta era indescritível; peço que tentem imaginar. Meus dias eram um tormento, em que eu me perguntava: "Ó, corpo amaldiçoado, a quem mais posso recorrer?".
+
+Como se o meu abatimento espiritual agravasse a doença, o médico local determinou no mínimo um ano de repouso absoluto. A partir de então, minha rotina se resumia a medicamentos e injeções. Sentia-me entregue ao desespero, incapaz de conter a revolta. Embora me dissessem para permanecer em repouso, como poderia haver repouso verdadeiro para o corpo se a alma estava em tumulto? Era uma vida de agonia, uma existência cinzenta.
+
+Certo dia, ao voltar do médico, encontrei meu antigo professor do ginásio, o Sr. Sasaki. Relatei-lhe minha condição, e ele me contou que também sofrera de uma doença pulmonar: "Até uns vinte dias atrás, eu mesmo estava de cama, mas graças à Igreja Messiânica, melhorei e hoje estou assim, com toda esta energia".
+
+Fiquei como que atônito, sem entender direito. Ele então me ofereceu uma breve analogia que me marcou profundamente: "O ser humano é como um relógio. Se poeira se acumula em seu interior, ele começa a falhar. Para curar-se, é preciso expelir as toxinas do corpo." E acrescentou: "Você entenderá aos poucos. Amanhã irei à sua casa".
+
+No dia seguinte, à tarde, o professor veio e ministrou-me Johrei. Com uma única sessão, a rigidez em meus ombros e a dor na lombar desapareceram. A sensação era indescritivelmente maravilhosa. A partir daquele momento, afastei-me dos tratamentos médicos. Passei a caminhar diariamente até a casa do professor para receber Johrei, um percurso de mais de uma hora, ida e volta. Abandonei o leito de vez; o repouso absoluto tornara-se uma lembrança distante. Ele me disse que em menos de um mês eu estaria com a saúde plenamente restabelecida, uma afirmação que, na ocasião, me custou a crer.
+
+Após duas ou três sessões, comecei a sentir o corpo mais leve e o humor a melhorar. Durante uma semana, tive diarreia todas as manhãs. Nesse ínterim, minha mãe adoeceu, e vi-me obrigado a levá-la ao médico. Aproveitei a oportunidade e pedi para que fizessem uma fluoroscopia em mim. A reação do médico foi de completo assombro. Ele olhava para a imagem e resmungava, o que me deixou intrigado. Ao perguntar-lhe o que havia, ele respondeu, perplexo: "É inacreditável. A mancha que havia aqui desapareceu. Você parece estar completamente curado. Como isso é possível? Que tratamento você fez? Qual médico o acompanhou?".
+
+Fui submetido a um verdadeiro interrogatório. A alegria que senti era tamanha que tive vontade de sair dançando. Naquele momento, eu havia recebido apenas oito sessões de Johrei.
+
+Fiquei maravilhado com o poder de Deus, sobre o qual tanto ouvia durante o Johrei. Pensei: "Ah, que sublime graça! Estou curado! Como pode uma doença tão grave ser sanada com tamanha simplicidade?". Era um milagre. Mesmo que repetisse a palavra "inacreditável" cem vezes, ainda assim não seria suficiente.
+
+Desde então, continuo a receber Johrei e a ouvir os valiosos Ensinamentos, e passei a compreender o verdadeiro significado da felicidade. Rogo para ser digno de um lugar no mundo dos felizes, o Paraíso Terrestre, e não encontro palavras para expressar minha gratidão. Nesta sociedade tão deturpada, que imensa alegria é poder conhecer a existência de Deus e viver com a convicção de que a vitória pertence àqueles que trilham o caminho da retidão.
+
+Muito obrigado por tudo, Meishu-Sama. Muito obrigado, Daikoomyoo Nyorai-Sama.
+
+---
+
 # Conclusão sobre o Problema da Tuberculose e sua Solução
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## Conclusão sobre o Problema da Tuberculose e sua Solução
 
@@ -30,7 +75,7 @@ Contudo, apresentei neste trabalho a medida capaz de solucionar por completo a q
 # A Tuberculose e a Possessão por Espíritos
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 結核と憑霊 未発表 | **Status:** Unpublished
+**Título Original:** 結核と憑霊 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Tuberculose e a Possessão por Espíritos
 
@@ -51,7 +96,7 @@ Acedi prontamente ao seu pedido e expliquei-lhe: "Como já é tarde, realizarei 
 # Considerações Finais sobre a Terapia da Fé para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
 
 ## Considerações Finais sobre a Terapia da Fé para a Tuberculose
 
@@ -80,7 +125,7 @@ Ao longo da história, testemunhamos inúmeras descobertas, novas teorias e revo
 # A Tuberculose é uma Insignificância
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
-**Título Original:** 結核なんか屁でもない 阿呆文学（八） | **Status:** Published
+**Título Original:** 結核なんか屁でもない 阿呆文学（八） | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
 
 ## A Tuberculose é uma Insignificância
 Ensaios de um Ignaro (VIII)
@@ -100,7 +145,7 @@ Seria um desperdício guardar para mim tão sublime tarefa. Por isso, com fervor
 # A Tuberculose e a Toxina Medicamentosa
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結核と薬毒 | **Status:** Published
+**Título Original:** 結核と薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## A Tuberculose e a Toxina Medicamentosa
 
@@ -127,7 +172,7 @@ Outro ponto que merece especial atenção é o fato de a febre ser quase sempre 
 # O Equívoco da Hemossedimentação e a Verdadeira Natureza da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 血沈 | **Status:** Published
+**Título Original:** 血沈 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## O Equívoco da Hemossedimentação e a Verdadeira Natureza da Tuberculose
 
@@ -154,7 +199,7 @@ A medicina também sustenta que as toxinas dos remédios, uma vez no organismo, 
 # A Verdadeira Natureza da Tuberculose e sua Solução Definitiva
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Verdadeira Natureza da Tuberculose e sua Solução Definitiva
 
@@ -179,7 +224,7 @@ Ao compreendermos a verdade dos fatos, percebemos tratar-se de uma questão de s
 # A Inseparabilidade entre os Mundos Espiritual e Material
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 顕幽不離 | **Status:** Published
+**Título Original:** 顕幽不離 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Inseparabilidade entre os Mundos Espiritual e Material
 
@@ -200,7 +245,7 @@ Este relato demonstra que, por maiores que sejam os tormentos enfrentados, o ser
 # A Conclusão sobre a Medicina
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Conclusão sobre a Medicina
 
@@ -269,7 +314,7 @@ Por fim, determinei que esta obra não fosse comercializada. A razão é que con
 # O Equívoco da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 結核ナンセンス | **Status:** Published
+**Título Original:** 結核ナンセンス | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1950-01-20
 
 ## O Equívoco da Tuberculose
 
@@ -314,7 +359,7 @@ Ofereço este artigo às autoridades e aos especialistas, rogando para que despe
 # A Diarreia
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 下痢 | **Status:** Published
+**Título Original:** 下痢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Diarreia
 
@@ -329,7 +374,7 @@ Passando à diarreia crônica, observamos casos que podem se estender por meses 
 # Acerca dos Novos Medicamentos para a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年8月27日 | **Fonte:** -
-**Título Original:** 結核新薬に就て 寸評（光24号） 白光生 | **Status:** Published
+**Título Original:** 結核新薬に就て 寸評（光24号） 白光生 | **Status:** Published | **Edição/Página:** 24号, 24号 | **Data ISO:** 1949-08-27
 
 ## Acerca dos Novos Medicamentos para a Tuberculose
 
@@ -344,7 +389,7 @@ Inicia-se, então, um ciclo vicioso: desenvolve-se um novo fármaco com o poder 
 # A Tuberculose Jamais é Contagiosa
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 結核は絶対に感染しない | **Status:** Published
+**Título Original:** 結核は絶対に感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## A Tuberculose Jamais é Contagiosa
 
@@ -383,7 +428,7 @@ Qual dos caminhos devemos escolher? Evidentemente, o segundo: a formação de se
 # O Liberalismo da Saúde e a Falácia da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 健康の自由主義 未発表 | **Status:** Unpublished
+**Título Original:** 健康の自由主義 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Liberalismo da Saúde e a Falácia da Medicina Moderna
 
@@ -422,7 +467,7 @@ Por fim, gostaria de tecer um comentário sobre a religião. Sua missão primord
 # A Falácia da Infecção por Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核感染の誤謬 未発表 | **Status:** Unpublished
+**Título Original:** 結核感染の誤謬 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Falácia da Infecção por Tuberculose
 
@@ -439,7 +484,7 @@ Diante dessa realidade, tenho empregado todos os meios ao meu alcance e me dedic
 # A Ilusão da Cura pela Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 現代医学で病気は治るか | **Status:** Published
+**Título Original:** 現代医学で病気は治るか | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1950-04-20
 
 ## A Ilusão da Cura pela Medicina Moderna
 
@@ -470,7 +515,7 @@ Para concluir, o verdadeiro valor da Terapia Divina reside em sua abordagem diam
 # Acerca da Vidência Divina
 
 **Categoria:** ke | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 見神に就て | **Status:** Published
+**Título Original:** 見神に就て | **Status:** Published | **Edição/Página:** P.70 | **Data ISO:** 1948-09-05
 
 ## Acerca da Vidência Divina
 
@@ -524,7 +569,7 @@ A partir de então, não foram poucas as vezes em que essa divindade me revelou 
 # O Advento da Revolução Médica
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結論 未発表 | **Status:** Unpublished
+**Título Original:** 結論 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Advento da Revolução Médica
 
@@ -545,7 +590,7 @@ Nesse contexto, sinto o dever de salvar também aqueles que se dedicam à medici
 # A Tuberculose como Ameaça à Nação
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年2月14日 | **Fonte:** Eikou
-**Título Original:** 結核亡国論 | **Status:** Published
+**Título Original:** 結核亡国論 | **Status:** Published | **Edição/Página:** 91号 | **Data ISO:** 1951-02-14
 
 ## A Tuberculose como Ameaça à Nação
 
@@ -580,7 +625,7 @@ Para concluir, gostaríamos de fazer um alerta. As atuais políticas de combate 
 # A Raiz da Guerra e da Pobreza
 
 **Categoria:** ke | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Raiz da Guerra e da Pobreza
 
@@ -607,7 +652,7 @@ Eis a razão pela qual intitulei esta obra de "O Evangelho do Paraíso".
 # A Breve Vida do Homem Moderno
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
-**Título Original:** 現代人の短命 | **Status:** Published
+**Título Original:** 現代人の短命 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
 
 ## A Breve Vida do Homem Moderno
 
@@ -624,7 +669,7 @@ Esta Arte de cura é, em essência, a obra de purificação da humanidade, que s
 # A Verdadeira Natureza da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結核の現状 | **Status:** Published
+**Título Original:** 結核の現状 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## A Verdadeira Natureza da Tuberculose
 
@@ -643,7 +688,7 @@ Todavia, é aqui que reside o cerne da questão. Pois, segundo o que descobri, a
 # A Longevidade dos Membros Superará os Noventa Anos
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年3月6日 | **Fonte:** 新日本医術書
-**Título Original:** 健康協会会員の天寿は九拾歳を越えん | **Status:** Unknown
+**Título Original:** 健康協会会員の天寿は九拾歳を越えん | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-03-06
 
 ## A Longevidade dos Membros Superará os Noventa Anos
 
@@ -668,7 +713,7 @@ Nesse sentido, ainda que os membros de nossa Associação carreguem em seus corp
 # A Tuberculose e o Fator Espiritual
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
-**Título Original:** 結核と精神面 | **Status:** Published
+**Título Original:** 結核と精神面 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
 
 ## A Tuberculose e o Fator Espiritual
 
@@ -701,7 +746,7 @@ Lembro-me de um episódio curioso, ocorrido em um vilarejo. Havia ali uma jovem 
 # A Influência do Espírito sobre a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 結核と精神作用 | **Status:** Published
+**Título Original:** 結核と精神作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Influência do Espírito sobre a Tuberculose
 
@@ -728,7 +773,7 @@ Diante do exposto, se a minha tese de que a tuberculose não é contagiosa e é 
 # Ensaio sobre a Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年5月23日 | **Fonte:** Eikou
-**Título Original:** 現代医学論 | **Status:** Published
+**Título Original:** 現代医学論 | **Status:** Published | **Edição/Página:** 105号 | **Data ISO:** 1951-05-23
 
 ## Ensaio sobre a Medicina Moderna
 
@@ -773,7 +818,7 @@ Convido o leitor, portanto, a ler os testemunhos de graças alcançadas à luz d
 # A Problemática da Tuberculose e sua Trajetória
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
-**Título Original:** 結核問題とその趨勢 | **Status:** Published
+**Título Original:** 結核問題とその趨勢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Problemática da Tuberculose e sua Trajetória
 
@@ -907,7 +952,7 @@ Hoje, com o número de mortes ultrapassando 150 mil anualmente, os dados aqui ap
 # A Não Contagiosidade da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
-**Título Original:** 結核は感染しない | **Status:** Published
+**Título Original:** 結核は感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
 
 ## A Não Contagiosidade da Tuberculose
 
@@ -940,7 +985,7 @@ Eu, porém, que vim a conhecer esta verdade por Revelação Divina, sinto o deve
 # A Natureza dos Milagres e a Identidade do Messias
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 世界Kyusei教奇蹟集
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-09-10
 
 ## A Natureza dos Milagres e a Identidade do Messias
 
@@ -961,7 +1006,7 @@ Nesse sentido, não considero surpreendente que me vejam como o Messias, o Crist
 # A Verdadeira Natureza dos Benefícios na Fé
 
 **Categoria:** ke | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
-**Título Original:** 現当利益 | **Status:** Published
+**Título Original:** 現当利益 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
 
 ## A Verdadeira Natureza dos Benefícios na Fé
 
@@ -984,7 +1029,7 @@ Ademais, figuras como Shakyamuni, Cristo e Nichiren revelaram com clareza a verd
 # A Cura da Tuberculose sob a Ótica da Ciência Espiritual
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** 結核と神霊療法
-**Título Original:** 結核と神霊科学 ・結核は治る 自観叢書第1篇 | **Status:** Published
+**Título Original:** 結核と神霊科学 ・結核は治る 自観叢書第1篇 | **Status:** Published | **Edição/Página:** P.24 | **Data ISO:** 1949-06-25
 
 ## A Cura da Tuberculose sob a Ótica da Ciência Espiritual
 
@@ -1029,7 +1074,7 @@ Por fim, para comprovar minha teoria com fatos, apresento a seguir, para vossa r
 # A Expulsão de Cálculos por meio do Johrei
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年10月22日 | **Fonte:** Eikou
-**Título Original:** 結石も浄霊で排泄さる | **Status:** Published
+**Título Original:** 結石も浄霊で排泄さる | **Status:** Published | **Edição/Página:** 179号 | **Data ISO:** 1952-10-22
 
 ## A Expulsão de Cálculos por meio do Johrei
 
@@ -1074,7 +1119,7 @@ Meishu-Sama, muito, muito obrigado. Expresso minha mais profunda e sincera grati
 # A Comprovação de que a Medicina Gera a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年12月23日 | **Fonte:** Eikou
-**Título Original:** 結核は医学が作る実例 | **Status:** Published
+**Título Original:** 結核は医学が作る実例 | **Status:** Published | **Edição/Página:** 240号 | **Data ISO:** 1953-12-23
 
 ## A Comprovação de que a Medicina Gera a Tuberculose
 
@@ -1126,7 +1171,7 @@ Meishu-Sama, muito obrigado. Agradeço-Lhe profunda e reiteradamente.
 # A Essência dos Benefícios Imediatos
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年11月8日 | **Fonte:** Eikou
-**Título Original:** 現当利益 | **Status:** Published
+**Título Original:** 現当利益 | **Status:** Published | **Edição/Página:** 77号 | **Data ISO:** 1950-11-08
 
 ## A Essência dos Benefícios Imediatos
 
@@ -1157,7 +1202,7 @@ Na verdade, quem se dispuser a analisar nossa Igreja com seriedade, perceberá q
 # A Arte como Alicerce do Paraíso Terrestre
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年6月6日 | **Fonte:** Eikou
-**Título Original:** 芸術宗教 | **Status:** Published
+**Título Original:** 芸術宗教 | **Status:** Published | **Edição/Página:** 107号 | **Data ISO:** 1951-06-06
 
 ## A Arte como Alicerce do Paraíso Terrestre
 
@@ -1172,7 +1217,7 @@ Por conseguinte, devoto o mais profundo interesse à arte e tenciono incentivá-
 # Análise de uma Perseguição Religiosa
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
 
 ## Análise de uma Perseguição Religiosa
 
@@ -1239,7 +1284,7 @@ Com esta advertência de que, chegada a hora, o arrependimento será tardio, enc
 # Os Benefícios Presentes e os Benefícios Futuros
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年11月19日 | **Fonte:** -
-**Título Original:** 現世利益と未来利益 | **Status:** Published
+**Título Original:** 現世利益と未来利益 | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1949-11-19
 
 ## Os Benefícios Presentes e os Benefícios Futuros
 
@@ -1258,7 +1303,7 @@ As palavras acima podem ter sido excessivamente diretas, e talvez causem desconf
 # A Influência do Espírito na Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 結核と精神作用 | **Status:** Published
+**Título Original:** 結核と精神作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
 
 ## A Influência do Espírito na Tuberculose
 
@@ -1285,7 +1330,7 @@ Por essa mesma razão, se a minha tese — a de que a tuberculose não é contag
 # Para Onde Caminha a Medicina Moderna?
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 現代医学は何処へ行く | **Status:** Unknown
+**Título Original:** 現代医学は何処へ行く | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
 
 ## Para Onde Caminha a Medicina Moderna?
 
@@ -1308,7 +1353,7 @@ Não consigo imaginar maior infortúnio do que o daquelas pessoas que, por desco
 # Seria Impossível Prevenir a Tuberculose?
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年1月21日 | **Fonte:** -
-**Título Original:** 結核予防は不可能か 神医学を信ぜよ | **Status:** Published
+**Título Original:** 結核予防は不可能か 神医学を信ぜよ | **Status:** Published | **Edição/Página:** 46号 | **Data ISO:** 1950-01-21
 
 ## Seria Impossível Prevenir a Tuberculose?
 
@@ -1333,7 +1378,7 @@ Este artigo é dedicado às autoridades e aos especialistas da área.
 # A Origem Espiritual da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年10月29日 | **Fonte:** Eikou
-**Título Original:** 結核 ・アメリカを救う | **Status:** Published
+**Título Original:** 結核 ・アメリカを救う | **Status:** Published | **Edição/Página:** 180号 | **Data ISO:** 1952-10-29
 
 ## A Origem Espiritual da Tuberculose
 
@@ -1382,7 +1427,7 @@ A explanação acima versou sobre o bacilo da tuberculose e temas correlatos. A 
 # Um Fato que Não Pode Ser Ignorado
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 軽視出来ない事実 自観叢書10編 | **Status:** Published
+**Título Original:** 軽視出来ない事実 自観叢書10編 | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1950-04-20
 
 ## Um Fato que Não Pode Ser Ignorado
 
@@ -1407,7 +1452,7 @@ Esses inúmeros fatos demonstram quão benéfica é a dieta vegetariana para a s
 # A Dimensão Espiritual da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 結核と精神面 未発表 | **Status:** Unpublished
+**Título Original:** 結核と精神面 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Dimensão Espiritual da Tuberculose
 
@@ -1436,7 +1481,7 @@ Recentemente, tem sido noticiado com frequência o surgimento de surtos de tuber
 # A Verdade sobre o Contágio da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
-**Título Original:** 結核は絶対に感染しない | **Status:** Published
+**Título Original:** 結核は絶対に感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdade sobre o Contágio da Tuberculose
 
@@ -1481,7 +1526,7 @@ Qual dos dois caminhos devemos escolher? Evidentemente, a resposta reside em for
 # A Gênese da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核の病原 未発表 | **Status:** Unpublished
+**Título Original:** 結核の病原 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Gênese da Tuberculose
 
@@ -1514,7 +1559,7 @@ Diante do exposto, mesmo que a medicina obtenha o sucesso esperado no extermíni
 # O Verdadeiro Perigo da Medicina Ocidental
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## O Verdadeiro Perigo da Medicina Ocidental
 
@@ -1553,7 +1598,7 @@ Nesse sentido, dirijo-me não apenas ao governo, mas também aos especialistas e
 # O Grande Equívoco da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年 | **Fonte:** 現代医療の大誤謬
-**Título Original:** 現代医療の大誤謬 | **Status:** Unpublished
+**Título Original:** 現代医療の大誤謬 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
 
 ## O Grande Equívoco da Medicina Moderna
 
@@ -1588,7 +1633,7 @@ Cumpre ressaltar que os medicamentos são, em sua maioria, compostos por toxinas
 # A Tragédia de Ignorar a Realidade
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 現実無視の悲劇 | **Status:** Published
+**Título Original:** 現実無視の悲劇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Tragédia de Ignorar a Realidade
 
@@ -1627,7 +1672,7 @@ Em contrapartida, aqueles que recebem os cuidados desta Arte de cura experimenta
 # A Gratidão que Transborda em Donativo
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年4月8日 | **Fonte:** Kyusei
-**Título Original:** 献金に就て | **Status:** Published
+**Título Original:** 献金に就て | **Status:** Published | **Edição/Página:** 57号 | **Data ISO:** 1950-04-08
 
 ## A Gratidão que Transborda em Donativo
 
@@ -1663,7 +1708,7 @@ Desde então, continuo a caminhar com perseverança, auxiliando, com minha humil
 # Uma Análise Crítica do Diagnóstico da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 結核と其発見法 | **Status:** Published
+**Título Original:** 結核と其発見法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## Uma Análise Crítica do Diagnóstico da Tuberculose
 
@@ -1684,7 +1729,7 @@ Mas o que significa, afinal, “requerer atenção especial”? A medicina preco
 # A Ilusão da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** P.146 | **Data ISO:** 1953-01-01
 
 ## A Ilusão da Medicina Moderna
 
@@ -1707,7 +1752,7 @@ Sendo assim, quando esta verdade se difundir pelo mundo, é natural que os profi
 # A Superioridade da Agricultura Natural
 
 **Categoria:** ke | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
-**Título Original:** 結論 | **Status:** Published
+**Título Original:** 結論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-01-15
 
 ## A Superioridade da Agricultura Natural
 
@@ -1735,7 +1780,7 @@ A fim de comprovar os resultados deste surpreendente método agrícola, os mais 
 # A Tuberculose e a Influência da Mente
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 結核と精神作用 | **Status:** Published
+**Título Original:** 結核と精神作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Tuberculose e a Influência da Mente
 
@@ -1760,7 +1805,7 @@ Sabe-se também que, entre os animais, o gado é particularmente suscetível à 
 # A Tuberculose é Curável
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** 結核と神霊療法
-**Título Original:** 結論 ・結核は治る 自観叢書第1篇 | **Status:** Published
+**Título Original:** 結論 ・結核は治る 自観叢書第1篇 | **Status:** Published | **Edição/Página:** P.21 | **Data ISO:** 1949-06-25
 
 ## A Tuberculose é Curável
 
@@ -1785,7 +1830,7 @@ Analisando a questão sob uma perspectiva acadêmica, pode-se ainda tecer outra 
 # A Verdade sobre a Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** 結核と神霊療法
-**Título Original:** 結核の原因 ・結核は治る 自観叢書第1篇 | **Status:** Published
+**Título Original:** 結核の原因 ・結核は治る 自観叢書第1篇 | **Status:** Published | **Edição/Página:** P.16 | **Data ISO:** 1949-06-25
 
 ## A Verdade sobre a Tuberculose
 
@@ -1824,7 +1869,7 @@ Contrariando todas as expectativas, nosso método para debelar essa febre de cau
 # A Bomba Atômica Não é de se Temer
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年4月23日 | **Fonte:** Eikou
-**Título Original:** 原爆恐るるに足らず | **Status:** Published
+**Título Original:** 原爆恐るるに足らず | **Status:** Published | **Edição/Página:** 153号 | **Data ISO:** 1952-04-23
 
 ## A Bomba Atômica Não é de se Temer
 
@@ -2016,7 +2061,7 @@ Este foi um breve relato de minha experiência com a bomba atômica. Muito obrig
 # A Verdadeira Causa da Diarreia
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 下痢 | **Status:** Published
+**Título Original:** 下痢 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Verdadeira Causa da Diarreia
 
@@ -2031,7 +2076,7 @@ Existe, ainda, a diarreia crônica, que pode se estender por meses ou até mesmo
 # A Influência do Fator Mental na Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 結核と神経作用 | **Status:** Published
+**Título Original:** 結核と神経作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Influência do Fator Mental na Tuberculose
 
@@ -2054,7 +2099,7 @@ Entre os animais, diz-se que o gado, em particular, pode contrair tuberculose. T
 # A Verdadeira Salvação e a Incredulidade dos Intelectuais
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 鶏群の一鶴 未発表 | **Status:** Unpublished
+**Título Original:** 鶏群の一鶴 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Verdadeira Salvação e a Incredulidade dos Intelectuais
 
@@ -2071,7 +2116,7 @@ Aqueles que, diante desta realidade, despertarem e abraçarem a fé são, de fat
 # A Causa Espiritual da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年10月21日 | **Fonte:** Eikou
-**Título Original:** 結核の霊的原因 | **Status:** Published
+**Título Original:** 結核の霊的原因 | **Status:** Published | **Edição/Página:** 231号 | **Data ISO:** 1953-10-21
 
 ## A Causa Espiritual da Tuberculose
 
@@ -2120,7 +2165,7 @@ Meishu-Sama, muito, muito obrigada.
 # A Missão da Arte
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年10月15日 | **Fonte:** -
-**Título Original:** 芸術の使命 | **Status:** Published
+**Título Original:** 芸術の使命 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1949-10-15
 
 ## A Missão da Arte
 
@@ -2143,7 +2188,7 @@ Sob essa ótica, não é exagero afirmar que parte considerável da responsabili
 # O Testemunho da Cura e a Vontade Divina
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核全快者の感想 未発表 | **Status:** Unpublished
+**Título Original:** 結核全快者の感想 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Testemunho da Cura e a Vontade Divina
 
@@ -2160,7 +2205,7 @@ Foi com o intuito de salvar essas almas aflitas que, nesta primavera, publiquei 
 # A Saúde e a Longevidade Concedidas por Deus
 
 **Categoria:** ke | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 健康と寿命 未発表 | **Status:** Unpublished
+**Título Original:** 健康と寿命 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Saúde e a Longevidade Concedidas por Deus
 
@@ -2187,7 +2232,7 @@ Conforme exposto, Deus concedeu ao ser humano uma longevidade superior a cento e
 # Um Escárnio à Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
-**Título Original:** 現代医学を嗤う | **Status:** Published
+**Título Original:** 現代医学を嗤う | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
 
 ## Um Escárnio à Medicina Moderna
 
@@ -2214,7 +2259,7 @@ Pelo exposto, creio que se tornou evidente que o princípio de cura que estabele
 # Um Fato que Não Pode Ser Subestimado
 
 **Categoria:** ke | **Ano:** 昭和24(1949)年9月17日 | **Fonte:** -
-**Título Original:** 軽視出来ない事実 | **Status:** Published
+**Título Original:** 軽視出来ない事実 | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1949-09-17
 
 ## Um Fato que Não Pode Ser Subestimado
 
@@ -2241,7 +2286,7 @@ Por meio desses inúmeros exemplos, torna-se evidente o quão benéfica é uma d
 # A Tuberculose Jamais é Transmitida por Contágio
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
-**Título Original:** 結核は絶対に感染しない | **Status:** Published
+**Título Original:** 結核は絶対に感染しない | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Tuberculose Jamais é Transmitida por Contágio
 *Ashita no Ijutsu (Reedição), Volume I — Publicado em 5 de fevereiro de 1943*
@@ -2283,7 +2328,7 @@ Qual dos dois caminhos devemos escolher? Evidentemente, o segundo: a criação d
 # A Origem Espiritual da Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
-**Título Original:** 結核 | **Status:** Published
+**Título Original:** 結核 | **Status:** Published | **Edição/Página:** P.34 | **Data ISO:** 1953-01-01
 
 ## A Origem Espiritual da Tuberculose
 
@@ -2328,7 +2373,7 @@ A explanação acima se deteve no bacilo da tuberculose e em questões correlata
 # O Equívoco da Medicina Frente à Tuberculose
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 結核医学の恐怖 未発表 | **Status:** Unpublished
+**Título Original:** 結核医学の恐怖 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Equívoco da Medicina Frente à Tuberculose
 
@@ -2349,7 +2394,7 @@ Ah, como anseio por salvar, o mais breve possível, esta humanidade atormentada.
 # A Falácia da Medicina Moderna
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 現代医学論 未発表 | **Status:** Unpublished
+**Título Original:** 現代医学論 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Falácia da Medicina Moderna
 
@@ -2372,114 +2417,6 @@ Como foi dito, a medicina, por conceber a doença como sinônimo de dor, conclui
 Seguindo essa lógica, para curar verdadeiramente uma doença, é preciso fazer com que as toxinas já em processo de dissolução se dissolvam ainda mais, acelerando sua eliminação e neutralização. Esta é a verdadeira arte da cura. Com ela, não haveria mais o receio da reincidência nem a preocupação de adoecer, e o indivíduo alcançaria um estado de saúde genuíno. O que torna a situação ainda mais grave, no entanto, é que o próprio remédio utilizado para interromper a eliminação de toxinas se transforma em uma nova toxina, tornando-se, ele mesmo, causa de doença. Ou seja, ele adiciona mais enfermidades ao corpo. A prova irrefutável disso é o surgimento das chamadas "doenças secundárias" durante o tratamento médico. Se o tratamento fosse eficaz, o número de doenças não deveria diminuir progressivamente? O fato de ocorrer o contrário é de uma incoerência gritante. Embora por ignorância, fica evidente o quão ofuscada está a medicina.
 
 Em virtude dessa lógica paradoxal, quanto mais forte o veneno, mais eficaz parece ser o remédio. Um medicamento capaz de causar intoxicação terá um efeito ainda mais pronunciado, o que explica a recente popularização das injeções. Os novos medicamentos que surgem continuamente seguem o mesmo princípio: são venenos potencializados até o limite de não causarem uma intoxicação imediata. O eminente mestre da medicina sino-japonesa, o Doutor Sugita Gempaku, proferiu palavras de grande sabedoria ao dizer: "O uso de medicamentos na doença consiste em 'dominar um veneno com outro veneno'". Consequentemente, febre, tosse, expectoração, coriza, suor, diarreia, urina febril, e os diversos tipos de sangramento são todos processos de eliminação de toxinas. O mesmo se aplica a tumores, eczemas e à supuração que ocorre após ferimentos e queimaduras. São, portanto, manifestações excelentes. Desse modo, qualquer doença, se deixada evoluir sem nenhuma intervenção, permitirá que o processo de purificação transcorra de forma natural, resultando em uma cura rápida e segura.
-
----
-
-# A Questão da Tuberculose e sua Trajetória
-
-**Categoria:** ke | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 結核問題とその趨勢 | **Status:** Published
-
-## A Questão da Tuberculose e sua Trajetória
-
-Dentre as questões demográficas, a da tuberculose é, porventura, a mais premente. Analisemos o panorama desta enfermidade com base em diversos levantamentos. Lamentavelmente, devido à conjuntura da época, não há pesquisas publicadas nos últimos anos, de modo que os dados a seguir se restringem, em sua maioria, ao período até o décimo primeiro ano da era Showa (1936).
-
-Observa-se que, enquanto nos principais países civilizados do mundo a tuberculose tem apresentado um declínio anual nas últimas quatro ou cinco décadas, em nossa nação, paradoxalmente, a tendência é de aumento. O número de óbitos por tuberculose revela um acréscimo de aproximadamente 30% em comparação com trinta anos atrás, alcançando a marca de 126.700 pessoas no oitavo ano da era Showa (1933). Este número supera em quatro a cinco vezes o total de óbitos causados por enfermidades contagiosas como a disenteria, a febre tifoide e a cólera.
-
-Ademais, as estimativas de especialistas indicam que o número de pacientes com tuberculose é dez vezes maior que o de falecidos, o que corresponde a não menos de 1.200.000 pessoas. Ao aplicarmos esta proporção à população total, chegamos à alarmante razão de um enfermo para cada cinquenta habitantes. Cumpre ressaltar que tais estatísticas se baseiam nos registros oficiais de óbito, sendo notório que um número considerável de mortes por tuberculose é frequentemente atribuído a outras patologias. Investigações recentes conduzidas pelo Departamento de Polícia Metropolitana, pela Prefeitura de Tóquio e pela Associação Japonesa de Prevenção da Tuberculose revelaram que, no décimo ano da era Showa (1935), a cidade de Tóquio registrou 15.475 mortes pela doença. Este valor é aproximadamente três vezes superior ao número de óbitos por doenças infecciosas de notificação compulsória, indicando que a província de Tóquio concentra mais de 10% do total de mortes por tuberculose no país. Por conseguinte, estima-se que a capital possua cerca de 150.000 pacientes, o que, para uma população de seis milhões, resulta na proporção de um enfermo a cada quarenta pessoas. A incidência desta doença é mais elevada entre jovens e adultos. Segundo estatísticas do Departamento de Saúde da Cidade de Tóquio para o ano de 1935, a faixa etária mais afetada foi a de 20 a 24 anos, com 2.196 mortes (18,5%), seguida pela faixa de 15 a 19 anos, com 1.930 mortes (16,6%), e a de 25 a 29 anos, com 1.789 mortes (15,4%).
-
-De acordo com dados do Departamento de Saneamento do Ministério do Interior, referentes ao oitavo ano da era Showa (1933), a taxa de mortalidade por tuberculose do sistema respiratório era de 13,9 para cada 10.000 habitantes. Outras formas de tuberculose correspondiam a 4,9 óbitos, enquanto bronquite, pneumonia e pleurisia somavam 22,2. Com base no censo nacional de 1º de novembro do décimo ano da era Showa (1935), que registrou uma população de 34.731.860 homens e 34.519.405 mulheres, totalizando 69.251.265 pessoas, podemos calcular que a tuberculose respiratória foi responsável por 96.259 mortes e outras formas da doença, por 34.033, perfazendo um total de 130.292 óbitos.
-
-Contudo, é sabido que, pelo desejo de negar a doença, muitas famílias registram o falecimento por tuberculose sob a causa de complicações associadas, especialmente pneumonia, pleurisia e bronquite. Por isso, não é errôneo supor que o número real seja, no mínimo, o dobro do oficial. Se considerarmos as estatísticas do Departamento de Saneamento para essas outras enfermidades — 15,8 mortes por pneumonia, 3,8 por bronquite e 2,6 por pleurisia para cada 10.000 habitantes, totalizando 22,2 —, isso representaria 153.737 óbitos. Uma porcentagem significativa destes certamente corresponde a casos de tuberculose. A situação se mostra ainda mais grave ao analisarmos os jovens em idade de alistamento militar, que constituem o pilar da nação. Um compilado de relatórios do Ministério do Exército revela um quadro desolador: entre 1922 e 1926, 25% dos conscritos foram classificados como de constituição física frágil; entre 1927 e 1932, essa média saltou para 36%; e em uma pesquisa de 1935, atingiu a alarmante marca de 40%.
-
-Outro dado assombroso é o número de soldados dispensados do serviço militar por tuberculose após o alistamento. Por volta de 1904 e 1905, essa taxa era de apenas 2%. Em 1935, ela havia se multiplicado por dez, chegando a 20%. Se considerarmos que, entre os soldados repatriados da Manchúria por motivo de doença — onde a adaptação ao clima é um fator relevante —, 90% dos casos são de tuberculose, temos um retrato fidedigno da drástica deterioração da saúde de nossa juventude.
-
-Uma investigação do Ministério da Educação sobre a condição física de crianças do ensino fundamental também aponta para um aumento anual de casos de escrofulose e constituição frágil. Segundo um relatório do Departamento de Educação de Tóquio, 22% do total de alunos da rede municipal — 154.000 crianças — são considerados frágeis ou escrofulosos. Deste grupo, 42.000 se encontram em estado de risco e 3.500 já foram diagnosticadas com tuberculose, números que deixaram as autoridades perplexas. Diante de um cenário que não podia mais ser ignorado, em 1936, o governo e organizações sociais uniram-se em um esforço nacional para se dedicar integralmente à prevenção e erradicação da tuberculose. Foram alocados orçamentos significativos — cinco milhões de ienes pelo Ministério do Exército, quatro milhões pelo Ministério da Educação, quinze milhões pela cidade de Tóquio e um milhão pelo Departamento de Polícia Metropolitana —, empregando toda a sabedoria e capacidade para o amparo de crianças, o socorro a conscritos e soldados, e a prevenção e assistência às classes mais desfavorecidas.
-
-Entre 1934 e 1935, o Departamento de Saneamento de Tóquio realizou um levantamento em larga escala com 12.796 alunos de sete distritos da cidade. Os resultados foram alarmantes: mais de 38% das crianças haviam sido infectadas pela tuberculose, e mais de mil necessitavam de isolamento hospitalar ou apresentavam suspeita de doença em estágio inicial. Extrapolando esses dados para o total de 720.000 alunos do ensino fundamental da cidade, teríamos 270.000 crianças infectadas e entre 50.000 e 60.000 com suspeita da doença ou em estado grave. A pesquisa, conduzida principalmente por postos de saúde nos distritos de Koishikawa, Shibuya, Shitaya, Honjo, Nakano, Omori e Arakawa, abrangeu alunos do sexto ano e utilizou métodos abrangentes, como o teste de Mantoux e exames de raios X. O resultado revelou que 4.879 crianças, ou 38,13%, apresentaram reação positiva ao teste de Mantoux, indicando infecção. Dentre estas, 69 tinham tuberculose aberta e necessitavam de isolamento imediato; 205 apresentavam inchaço dos gânglios linfáticos do hilo pulmonar, caracterizando infecção inicial; e outras 825 exibiam sombras na mesma região ao exame de raios X, levantando suspeitas. As 205 crianças com linfonodos inchados, em particular, precisavam de tratamento domiciliar, e se a situação fosse negligenciada, o risco de contágio para outros alunos seria altíssimo. Diante desses números, o Departamento de Saneamento e o Departamento de Educação decidiram reforçar as medidas de higiene nas escolas.
-
-Vejamos agora a situação no ensino médio. Uma pesquisa realizada pela Divisão de Educação Física do Ministério da Educação, com base em dados de 1933 sobre mortalidade, abandono por doença e faltas entre alunos de escolas secundárias, técnicas e femininas, apresentou os seguintes números:
-- Total de alunos: 736.500
-- Óbitos: 2.092
-- Abandono por doença: 3.766
-- Afastamento por doença: 9.734
-- Faltas por doença por mais de uma semana: 47.884
-
-Nesse universo, cerca de 5.800 alunos abandonaram os estudos devido a problemas de saúde, sendo a grande maioria por doenças de natureza tuberculosa. O fato de que mais de 10% dos estudantes do ensino superior eram portadores de tuberculose levanta uma questão grave: a causa não reside apenas no esgotamento provocado pelos exames de admissão, o que gera grande apreensão.
-
-A seguir, a visão das autoridades sobre o assunto:
-“Este problema envolve fatores como a constituição física do estudante, sua situação familiar e o tempo dedicado aos estudos e ao esporte, áreas onde certamente há espaço para pesquisa e melhoria. Em última análise, contrair tuberculose significa que o corpo do estudante não possui força suficiente para repelir a invasão do bacilo. Portanto, o cerne da solução, sem dúvida, é o fortalecimento dessa capacidade de resistência. O bacilo da tuberculose, em maior ou menor grau, penetra em nosso organismo desde o nascimento até a idade adulta. A autópsia de pessoas saudáveis revela, na maioria dos casos, vestígios de uma infecção pregressa. A taxa de infecção é de 30% em crianças de três a quatro anos, cerca de 50% aos cinco ou seis anos, 86% aos dez anos, e chega a 100% a partir dos catorze ou quinze anos. Apesar dessa alta taxa de infecção, o número de pessoas que manifestam a doença não é tão elevado porque nosso corpo possui uma resistência que impede a atividade do bacilo. Nesse sentido, a tuberculose é uma doença de difícil manifestação.
-No entanto, o período escolar — especialmente no ensino médio e para as moças — é uma fase de transformações físicas, com metabolismo intenso e grande consumo de energia. Nas estudantes, fatores fisiológicos como a primeira menstruação contribuem para uma queda acentuada da resistência. Somando-se a isso o cansaço dos exames e das atividades físicas, a resistência diminui ainda mais, criando a oportunidade para que o bacilo da tuberculose manifeste seu poder. Por isso, os estudantes que se encontram nesse período de risco devem zelar por uma nutrição adequada para restaurar sua vitalidade e fortalecer sua resistência.”
-
-Apresento agora um panorama das principais abordagens terapêuticas da medicina recente para a tuberculose, com base no artigo de um doutor em medicina:
-“Os tratamentos atuais para a tuberculose dividem-se em abordagens clínicas e cirúrgicas. A primeira combina terapias naturais, como repouso, nutrição e ar puro, com a chamada ‘terapia da paz de espírito’, que visa manter a tranquilidade mental. A abordagem cirúrgica, por sua vez, emprega métodos como a terapia de pneumotórax, oleotórax, a frenicectomia (ressecção ou avulsão do nervo frênico) e diversas técnicas de toracoplastia. Embora alguns desses procedimentos apresentem resultados positivos em certos casos, em muitos outros não surtem efeito algum. A dificuldade em erradicar o bacilo da tuberculose reside em sua especificidade: uma vez que a doença se instala, o bacilo se aninha profundamente na lesão, protegido por uma substância cerosa chamada membrana lipoídica, que impede a penetração de medicamentos. Até hoje, não se descobriu um fármaco capaz de atingi-lo diretamente. Embora existam agentes bactericidas do ponto de vista químico, aqueles com alta potência geralmente trazem efeitos colaterais, apresentando vantagens e desvantagens. Assim, ainda não foi anunciado um medicamento de eficácia imediata. Nesse momento de urgência, a descoberta, em nosso país, de um composto à base de fosfolipídios é motivo de grande regozijo. Trata-se de uma combinação da lecitina, elemento indispensável à vida humana, com um composto do grupo dos terpenos, de forte ação bactericida e sem efeitos colaterais. A ação sinérgica desses componentes permite que o medicamento penetre na lesão, destrua a resistente membrana lipoídica e atue diretamente sobre o bacilo, sendo considerado um composto de ação singular.”
-
-A seguir, a etiologia e a interpretação da tuberculose segundo a medicina:
-“A tuberculose em seu estágio inicial pode se manifestar de seis formas distintas, assemelhando-se a um resfriado, a problemas gastrointestinais, a um estado febril ou à neurastenia, entre outras. São inúmeros os casos em que a doença se agravou porque o paciente acreditava sofrer apenas de uma gripe ou de um distúrbio estomacal. Antigamente, pensava-se que a tuberculose era hereditária, mas desde a descoberta do bacilo por Robert Koch, compreendeu-se que se trata de uma doença infecciosa. Contudo, aos catorze ou quinze anos, nove em cada dez pessoas já foram expostas ao bacilo, mas pouquíssimas desenvolvem a doença. Isso deu origem à teoria da constituição física, que postula a existência de um tipo de organismo mais suscetível à tuberculose; quando o bacilo infecta um indivíduo com essa constituição, a doença se manifesta. No entanto, o termo ‘constituição’ não se refere apenas a uma característica inata, mas também a qualquer fragilidade adquirida em algum órgão interno. Ou seja, mesmo uma pessoa que nasceu forte pode desenvolver uma ‘constituição tuberculosa’ se mantiver um estilo de vida irregular e cometer excessos, que inevitavelmente enfraquecerão seus órgãos. O consumo excessivo de comida e bebida, por exemplo, sobrecarrega o sistema digestivo, causando distúrbios e debilidade. Com isso, a absorção de nutrientes fica comprometida, a resistência diminui e o bacilo latente no organismo começa a se multiplicar. Da mesma forma, uma pessoa que contrai resfriados com frequência e os negligencia, enfraquece gradualmente suas funções orgânicas, abrindo portas para o bacilo. Assim, a manifestação da tuberculose ocorre quando uma doença preexistente causa desnutrição e queda na resistência, permitindo que o bacilo, até então suprimido, se prolifere. Dependendo da doença primária, a tuberculose é classificada como do tipo gastrointestinal, gripal, cardíaca, neurastênica, anêmica ou febril. Alguém pode pegar um resfriado por dormir descoberto e, pensando que se trata de algo passageiro, não dar a devida atenção, mas a fadiga persiste e a tosse não cessa. Ou então, após comer em excesso, pode ter problemas digestivos. Na época em que o apetite aumenta, é difícil manter a moderação, e a diarreia contínua leva ao emagrecimento. Nesses casos, o que se julga ser um simples resfriado ou problema estomacal pode, na verdade, ser a tuberculose já em atividade. É preciso abandonar medidas paliativas e adotar um tratamento rigoroso, pois são muitos os exemplos de agravamento da doença por negligência.”
-
-Quanto às “medidas práticas de prevenção da tuberculose”, as autoridades estão adotando as seguintes estratégias: o Departamento de Polícia Metropolitana está organizando “Esquadrões Itinerantes de Prevenção da Tuberculose” para atuar em diversas localidades. Divididos em quatro equipes, cada uma com um veículo equipado com aparelho de raios X e instrumentos para tratamentos simples, médicos, enfermeiras e assistentes dedicarão metade do mês a consultas em postos fixos e a outra metade a visitas domiciliares, com o objetivo de instruir os pacientes sobre o tratamento e seus familiares sobre a prevenção.
-
-A infraestrutura para tratamento é desoladora. Somando os leitos para tuberculose em instituições municipais, provinciais, particulares e hospitais públicos e privados, o total é de apenas 3.690. O mais preocupante é que, embora o isolamento e o tratamento precoces sejam cruciais, no Sanatório Municipal de Tóquio, por exemplo, 64% dos pacientes falecem nos primeiros seis meses de internação, o que demonstra que as pessoas adiam a hospitalização até o último momento.
-
-Atualmente, em Tóquio, há casos como o de uma família de doze pessoas vivendo em dois cômodos, um de seis e outro de quatro tatames, com três membros gravemente doentes e três crianças em idade escolar. Ou o de uma família de oito pessoas em dois cômodos que somam onze tatames, onde dois pacientes que necessitam de internação urgente dormem amontoados com quatro filhos, o mais velho com dezesseis anos. Exemplos tão trágicos e perigosos como estes certamente não são raros em todo o país.
-
-A seguir, um resumo das terapias para a tuberculose adotadas por diferentes nações, desde a antiguidade até os dias de hoje. A tuberculose surgiu na história da medicina em tempos remotos. Em 400 a.C., o pai da medicina grega, Hipócrates, descreveu a tísica pulmonar. Na virada da era cristã, Celsus propôs o clima litorâneo como tratamento, Plínio recomendou a residência em florestas, e Galeno defendeu a terapia em montanhas e o consumo de leite. Foi somente há cerca de 180 anos que o alemão Hermann Brehmer estabeleceu um protocolo de tratamento e fundou um sanatório, lançando as bases da terapia que conhecemos hoje.
-
-Em nosso país, no ano de 984, Tanba no Yasuyori, em sua obra “Ishinho”, referiu-se à tuberculose pulmonar como uma doença contagiosa. Em 1805, Tachibana Nankei discorreu sobre as formas contagiosa e hereditária da doença, e Honma Gencho dedicou-se a comprovar que seu agente era um veneno transmissível.
-
-A verdadeira natureza da tuberculose só foi desvendada em 1882, quando Robert Koch descobriu o bacilo. Em 1890, Koch desenvolveu a famosa tuberculina. Embora se reconhecesse que essa terapia estimulava a lesão e aumentava a resistência, sua aplicação indiscriminada, independentemente do estágio da doença, levou à piora de muitos pacientes em estado grave. Em nosso país, o Ministério do Interior chegou a emitir um aviso restringindo seu uso, e, infelizmente, o tratamento não obteve sucesso. Estimuladas pela terapia com tuberculina, seguiram-se inúmeras e sérias pesquisas nos campos da imunologia e da química, mas nenhum método de eficácia clínica comprovada foi descoberto. Diante disso, a terapia natural de Brehmer voltou a ser reconhecida como o caminho principal para o tratamento da tuberculose. Os renomados sanatórios da atualidade, como o Trudeau nos Estados Unidos e os de Leysin e Davos na Suíça, foram todos fundados sob a influência da terapia natural de Brehmer, que, juntamente com a terapia nutricional, tornou-se indispensável no tratamento da tuberculose.
-
-A seguir, outra interpretação médica:
-Para explicar de forma simples o conceito de resistência, nosso corpo é dotado de um mecanismo de defesa natural contra todas as substâncias nocivas que o invadem. O mais importante é a presença de substâncias antibacterianas que dissolvem e matam os germes que entram no corpo e neutralizam suas toxinas. Há também o conhecido processo de fagocitose dos glóbulos brancos (a ação pela qual os glóbulos brancos envolvem e destroem os germes). O conjunto dessas forças é o que chamamos de resistência. A razão pela qual a terapia natural de Brehmer e a terapia nutricional são hoje consideradas indispensáveis é que ambas visam, em última análise, nutrir o corpo para fortalecer a resistência e promover a cura natural. Elas materializam a convicção de que “a única força capaz de curar a própria enfermidade é a força do próprio indivíduo”.
-
-Vejamos agora exemplos reais de quão trágicas são as vidas e as famílias afetadas pela tuberculose, com base em reportagens de jornais.
-O Departamento de Polícia Metropolitana, em sua campanha para prevenir e erradicar a tuberculose, uma doença que assola a nação, realizou uma reunião especial para discutir medidas preventivas. A partir do novo ano fiscal, além de oferecer exames gratuitos itinerantes, unirá forças com conselheiros distritais, associações médicas e conselhos de bairro para eliminar esse terrível flagelo. Como primeiro passo, foi realizado um levantamento dos pacientes de baixa renda, que necessitam de atenção mais urgente. No final de fevereiro, o número total de pacientes chegou a 1.352, com o distrito de Arakawa liderando, com mais de 150 casos. A situação miserável em que vivem, inimaginável para muitos, surpreendeu as próprias autoridades. Eis o retrato de vidas consumidas pela doença:
-**Distrito de Kanda:** Midori Imamura (50 anos, diarista) — os nomes a seguir são fictícios — vive com sua mãe Yoshi (81), a terceira filha Kyoko (21), o terceiro filho Yoshio (18) e a quarta filha Yoshiko (16). A família de cinco pessoas mora em dois cômodos, um de seis e outro de três tatames. A filha mais velha e a segunda filha faleceram recentemente de tuberculose. O segundo filho, Atsushi (24), está internado no Sanatório de Nakano com a mesma doença. A família subsiste com os 14 ienes que Yoshio ganha como contínuo em um órgão do governo. Recentemente, Kyoko também adoeceu.
-**Distrito de Honjo:** Fumi Yoshimura (23 anos) está acamada com tuberculose desde o ano passado. Suas economias, guardadas durante anos de trabalho como enfermeira, foram totalmente gastas com o tratamento, mas a doença só piora. Ela sobrevive graças à caridade alheia. Embora ainda possua sua licença de enfermeira, a polícia decidiu revogá-la devido à sua condição. Seus dois irmãos mais velhos também estão doentes em sua cidade natal.
-**Distrito de Fukagawa:** Sakae Tanaka (50 anos), do bairro de Etchujima, adoeceu há dois anos e teve de abandonar seu negócio como vendedor de antiguidades. Ele, sua esposa e três filhos sobrevivem com a única renda da família: os 40 sen diários que o filho mais velho, Susumu (16), ganha como jovem aprendiz. A polícia ordenou sua internação em um sanatório público para evitar o contágio familiar, mas, devido à falta de leitos, ele não pôde ser admitido. Sem acesso a tratamento médico, geme em seu leito de dor.
-**Distrito de Kamata:** A família de Shoji Arai (51 anos), agricultor do bairro de Kojiya, é composta por doze pessoas. Seus irmãos Harukichi (43), Katsukichi (29) e Yoshikichi (21) estão todos acamados com a doença. A família vive com os 30 ienes que o filho mais velho, Isamu (19), e a filha mais velha, Harue (17), ganham trabalhando em uma fábrica próxima. Como pequenos agricultores, a renda da lavoura é praticamente nula, e a situação é lastimável.
-**Distrito de Arakawa:** Na família de Heikichi Ono, vendedor de peixes do bairro de Ogu, os dois filhos mais velhos estão doentes, incapazes sequer de cuidar da própria higiene. A família de oito pessoas vive com a renda de Heikichi somada ao salário diário de sua filha Michi (15), que trabalha em uma fábrica, totalizando 30 ienes por mês, uma situação de desespero indescritível.
-**Distrito de Adachi:** Na casa de Tsunejiro Kusano, condutor de riquixá do bairro de Senju, sua esposa Hide (35) está doente. Sem dinheiro para tratamento, ela depende da ajuda do conselheiro distrital e não consegue cuidar da casa. Por isso, seu filho mais velho, Yoshikichi (13), teve de abandonar a escola para cuidar dos irmãos mais novos. A família de seis pessoas vive em um único cômodo de seis tatames, e as crianças pequenas dormem abraçadas à mãe doente.
-**Distrito de Koishikawa:** O adivinho Yukichi Shimoda (60), sua esposa Tome (45) e sua filha mais velha Mine (19) gemem de dor, lado a lado, acometidos pela mesma doença. A família de três pessoas vive em condições miseráveis com os seis ienes que recebem do conselheiro distrital.
-Além desses, os pacientes de baixa renda vivem em extrema miséria, e as autoridades municipais decidiram estender-lhes auxílio.
-
-Um exemplo do drama da tuberculose foi publicado na coluna de aconselhamento de um jornal:
-“Pergunta: Sou uma mulher de 33 anos. Fui casada uma vez, mas meu marido faleceu logo após o casamento. Neste verão, por intermédio de pessoas que me ajudaram muito, casei-me novamente, mas descobri recentemente um erro gravíssimo. No ano passado, tive pleurisia e, embora esteja totalmente recuperada, o médico me disse que eu não deveria me casar por pelo menos dois anos. Meu atual marido é um funcionário de 51 anos com três filhos. Sua primeira esposa e, em menos de dois anos, outros seis membros da família morreram de tuberculose. Tentei fugir de casa duas vezes, mas fui trazida de volta. O médico diz que toda a família é portadora do bacilo e que a casa está infestada. Nessas condições, até uma pessoa saudável seria infectada, e eu certamente adoecerei. Eu deveria ter investigado, mas confiei na palavra dos intermediários. Meu marido se recusa a aceitar o divórcio. Se eu continuar aqui, minha vida está em risco. Mas se eu me separar à força, posso causar um escândalo que macule a honra dos meus benfeitores. Não tenho paz. O que devo fazer?” (T-ko)
-
-A título de referência, apresento um panorama dos sanatórios para tuberculose.
-A província e a cidade de Tóquio abrigam pacientes em instituições como o Hospital Provincial Kiyose e os sanatórios Seiwaen e Kurume Gakuen, no vilarejo de Kiyose, e o Sanatório Municipal de Tóquio, em Egota, Nakano. O procedimento para internação consiste em uma consulta (gratuita) nos postos de saúde provinciais ou municipais, seguida de uma solicitação ao governador da província ou ao diretor do sanatório, por intermédio de um conselheiro distrital ou do chefe do distrito. Como são instituições para pessoas de baixa renda, geralmente não são admitidos aqueles com renda mensal superior a cem ienes. A demanda é altíssima, e a espera pode durar de seis a dez meses. A cidade também atende pacientes pagantes, com uma diária de um iene e cinquenta sen, mas mesmo para estes a espera é de cerca de três meses. Instituições privadas como o Exército de Salvação e a Saiseikai oferecem tratamento gratuito, mas também têm longas listas de espera. Os principais hospitais privados cobram diárias que variam de oitenta sen a dois ienes e cinquenta sen.
-
-Qual é o impacto da tuberculose na economia nacional?
-O Ministério do Interior estima que, com 120.000 mortes anuais e 1.200.000 pacientes, o custo do tratamento, calculado em um iene por dia por paciente, atinge 36 milhões de ienes por mês e 432 milhões por ano. Este é um cálculo mínimo; na prática, o custo é duas ou três vezes maior. Se considerarmos um custo diário de dois ienes, o total anual sobe para 864 milhões de ienes, uma soma improdutiva gigantesca, equivalente a um terço do orçamento nacional (cálculo anterior à guerra), que se tornou um obstáculo ameaçador para a economia do país. Além disso, o sofrimento humano, tanto espiritual quanto material, que acompanha a doença, é indescritível.
-
-Quando o chefe de família, o pilar da casa, adoece, o patrimônio se esvai, e a esposa e os filhos são lançados em uma situação de miséria. A perda de jovens promissores, cujos anos de formação são consumidos pela doença, também é imensa. Trabalhadores sem recursos, ao adoecerem, enfrentam a fome. A doença torna-se um gatilho para o suicídio e o crime, causando enormes prejuízos à nação e fomentando o perigoso avanço de ideologias nefastas.
-
-O Grande Terremoto de Kanto ceifou cerca de 80.000 vidas. A Guerra Russo-Japonesa resultou em aproximadamente 80.000 mortos em combate. A tuberculose mata 120.000 pessoas todos os anos. É como se a tragédia do Grande Terremoto e da Guerra Russo-Japonesa se repetisse a cada ano e meio, um ciclo desolador sem fim à vista.
-
-Em última análise, a causa reside na falta de compreensão do povo sobre a tuberculose. A estimativa de 1.200.000 pacientes do Ministério do Interior é conservadora; se incluirmos os casos leves e assintomáticos, o número se torna colossal.
-
-Hoje, contudo, o número de mortes já ultrapassa os cento e cinquenta mil anuais, representando um aumento de 25% sobre os dados mencionados, o que torna o cenário ainda mais sombrio.
-
----
-
-# A Influência Mental na Tuberculose
-
-**Categoria:** ke | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 結核と神経作用 | **Status:** Published
-
-## A Influência Mental na Tuberculose
-
-Conforme já elucidei anteriormente, a medicina moderna tem contribuído para o aumento dos casos de tuberculose pulmonar. Gostaria, contudo, de analisar essa questão sob uma nova perspectiva.
-
-A característica fundamental que distingue o ser humano dos outros animais é a sua vida espiritual. Com efeito, o homem é dotado de uma rica gama de emoções – alegria, ira, tristeza e prazer – e possui uma sensibilidade aguçadíssima aos estímulos externos. Concomitantemente, a influência que o espírito exerce sobre o corpo físico é de uma magnitude extraordinária. É do conhecimento de todos que, em momentos de preocupação ou ansiedade, qualquer pessoa pode manifestar fenômenos diversos, como a diminuição do apetite, a tez pálida e abatida, o silêncio, a melancolia, a insônia e as dores de cabeça. Portanto, quando esses tormentos espirituais se prolongam, podem evoluir para um esgotamento nervoso e, em casos mais severos, culminar até mesmo em enfermidades mentais.
-
-Seguindo esse raciocínio, ao considerarmos o problema da tuberculose em nossos dias, deparamo-nos com a influência da ação mental, um fator que não pode ser negligenciado. Permitam-me, pois, detalhá-lo. Trata-se do processo pelo qual aquilo que não é tuberculose se transforma em autêntica tuberculose por meio da ação do espírito. Tomemos como exemplo um lar onde surge um caso de tuberculose. Imediatamente, a ansiedade de que possam vir a ser contagiados a qualquer momento acomete os demais familiares, e esse pensamento se fixa de modo obsessivo em suas mentes. Ocorre, então, que um deles contrai um resfriado. Em circunstâncias normais, seria apenas um mal passageiro de cura simples; neste caso, porém, é natural que a pessoa presuma: "Será que finalmente contraí a tuberculose?". Consequentemente, ela busca de imediato o diagnóstico de um médico. Este, por sua vez, ciente do risco de contágio para outros membros da família, procede com uma cautela e um zelo redobrados. Tal atitude faz com que o paciente pense "Então é verdade", e sua apreensão se intensifica, o que, naturalmente, impede uma recuperação satisfatória. Em virtude disso, a pessoa perde o vigor e o apetite, manifestando progressivamente sintomas como definhamento, emagrecimento e insônia. Como ela já ouviu ou leu que tais sinais são característicos de doenças pulmonares, seu estado se agrava ainda mais, a ponto de o próprio médico ficar perplexo. Diante da incerteza do profissional, a angústia do doente atinge seu ápice, e ele, gradualmente, torna-se de fato um paciente com tuberculose.
-
-Ademais, a ideia de ter contraído tuberculose pulmonar evoca de imediato a associação com uma doença incurável, fazendo com que a cena final da morte surja vividamente em sua mente. É assim que o quadro evolui para uma enfermidade pulmonar genuína. Ah! Aquilo que no início era um simples resfriado é impelido até a morte pela força da ideação.
-
-Isso demonstra quão imensurável é, de fato, a influência exercida pela ação do espírito. Creio que o número de pacientes que chegam a essa condição por um caminho semelhante é surpreendentemente elevado. Portanto, o ato de classificar como contagiosa uma tuberculose que absolutamente não o é, e de rotular como incurável uma afecção pulmonar que seria perfeitamente curável, constitui, ainda que soe irônico, uma verdadeira tática de guerra psicológica.
-
-Sabe-se também que, entre os animais, o gado é particularmente suscetível à tuberculose. No entanto, consta que não há diferença na longevidade entre o gado sadio e o tuberculoso, o que significa que este último não sofre, na prática, os efeitos da doença. Tal fato nos permite compreender quão temível é a ação do espírito no ser humano.
 
 ---
 

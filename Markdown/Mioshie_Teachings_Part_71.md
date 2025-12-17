@@ -1,9 +1,2191 @@
 # Mioshie_Teachings - Part 71
 
+# A Experiência do Sofrimento Gerado pelos Venenos dos Remédios
+
+**Categoria:** yarawa | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Eikou
+**Título Original:** 薬毒が作る病苦を体験して | **Status:** Published | **Edição/Página:** 197号 | **Data ISO:** 1953-02-25
+
+## A Experiência do Sofrimento Gerado pelos Venenos dos Remédios
+
+Revista Glória, nº 197, publicada em 25 de fevereiro de 1953
+Igreja Minobu Chuo, Província de Kagawa
+Saeki Shigemi (29 anos)
+
+Quando rememoro os acontecimentos de setembro de 1947, recordo-me de que, por mais de vinte anos desde o meu nascimento, gozei de uma saúde em que depositava absoluta confiança, sendo reconhecido por todos como um verdadeiro exemplo de vigor. Contudo, de forma súbita, fui acometido por uma enfermidade. Para mim, que jamais conhecera o padecimento de uma doença, foi um sentimento de tristeza indescritível. Tinha a firme convicção de que bastaria consultar um médico para ter um diagnóstico e que, com os remédios adequados, a cura seria certa. Dirigi-me, portanto, ao hospital mais próximo e, após a consulta, retornei para casa com alguns medicamentos, embora a causa do mal não tivesse sido esclarecida. Aquele foi o início de uma vida subjugada aos tratamentos médicos, um período de cinco longos anos nos quais me tornei incapaz de passar um só dia sem remédios.
+
+Durante esse tempo, no anseio de recuperar minha saúde, peregrinei por inúmeros hospitais. Suportei remédios amargos e injeções dolorosas, seguindo à risca as prescrições médicas. Longe de apresentar melhora, meu estado se agravava ano após ano, e meu corpo emagrecia a olhos vistos. Num hospital, diziam-me que o problema era no fígado; em outro, que se tratava de uma gastrite crônica. A confusão era total, e eu já não sabia qual era a verdadeira origem do meu sofrimento. Minha confiança nos médicos se esvaía, mas, por não vislumbrar outra saída, continuava a tomar os medicamentos, apegando-me à frágil esperança de que, um dia, a melhora viria.
+
+Buscando outras terapias, e por recomendação de conhecidos, iniciei um tratamento de acupuntura e moxibustão. No início, o método pareceu notavelmente eficaz, proporcionando-me certo alívio. Contudo, com o tempo, seus benefícios diminuíram gradualmente, até que retornei à condição original. Tendo esgotado todos os recursos à minha disposição sem obter resultado, um terror avassalador da morte tomou conta de mim, a ponto de quase me fazer perder a esperança de viver. A visão da felicidade alheia apenas intensificava minha amargura. Tornei-me recluso e irritadiço; até mesmo o ato de conversar com outras pessoas se tornou um fardo. Meus pensamentos giravam incessantemente em torno da minha condição, mergulhando-me em um sofrimento diário.
+
+Foi então que, em junho de 1952, em meu local de trabalho, ouvi pela primeira vez sobre a Sekaikyuseikyou pelo senhor Yoshitomi. Suas palavras tocaram-me profundamente. Num gesto de quem se afoga e se agarra a qualquer esperança, decidi visitar a Igreja. Lá, o reverendo Shimazu me acolheu e explicou detalhadamente os princípios da nossa Fé: “A doença é um processo de purificação; os remédios são venenos; e a medicina moderna, ao interromper essa purificação, atua como uma terapia de solidificação. A Medicina Divina, por sua vez, por meio do Johrei, remove as máculas do espírito, dissolve as toxinas acumuladas no corpo e as expele, curando assim a enfermidade em sua raiz”. Confesso que fiquei estarrecido, pois tais conceitos eram o oposto diametral de tudo o que a medicina convencional preconiza.
+
+Uma torrente de dúvidas assaltou meu coração. Seria realmente possível abandonar os remédios de imediato? Se o fizesse, minha condição não pioraria inexoravelmente? Poderia um simples gesto de imposição das mãos curar uma doença? Se fosse tão simples, qual seria a necessidade de hospitais e medicamentos? Hoje, ao recordar tais pensamentos, sinto-me envergonhado por minha descrença. Todavia, a lógica prevaleceu: se cinco anos de tratamento médico apenas me levaram à deterioração, que mal haveria em tentar um novo caminho? Com essa firme resolução, despedi-me da vida de dependência dos remédios que levara por tanto tempo.
+
+A partir de então, embora sentisse uma sensação de que algo faltava antes e depois das refeições, passei a frequentar a Igreja diariamente para receber Johrei. E qual não foi minha surpresa ao constatar que, ao contrário do que eu temia, meu estado de saúde melhorava progressivamente a cada dia que passava! Um mês depois, em julho, movido por uma gratidão crescente, tive a permissão de ingressar na Fé. Ainda assim, confesso que a dúvida persistia em meu coração, gerando momentos de grande angústia. Foi por meio da leitura atenta dos Ensinamentos, do jornal *Paraíso Terrestre* e da revista *Glória* que pude, gradualmente, compreender a lógica e a natureza científica da Obra Divina. Hoje, encontro-me em um estado de paz e segurança interior indescritível. Minha vida readquiriu propósito, e sinto como se tivesse sido conduzido de um mundo de trevas para um mundo de luz. Transbordando de uma alegria inexprimível, minha gratidão a Meishu-Sama é imensa. Meu desejo mais profundo é que essa verdade chegue o quanto antes ao maior número possível de pessoas que, assim como eu, sofrem dia e noite por acreditar que a medicina moderna é a única via de cura, enquanto, na verdade, apenas introduzem em seus corpos os terríveis venenos dos remédios, seguindo um caminho de constante piora.
+
+Se não fosse pela grandiosa descoberta de Meishu-Sama sobre os venenos dos remédios, incontáveis pessoas salvas por esta Fé teriam se tornado vítimas de seus efeitos. A verdade sobre a toxicidade medicamentosa é absoluta e, por conseguinte, irá, inevitavelmente, suplantar a medicina moderna. Caso contrário, toda a humanidade estaria fadada à aniquilação por envenenamento. Que cenário aterrador! A medicina atual, ao crer que os fármacos curam as doenças, trata o corpo humano como uma espécie de máquina, na qual se pode simplesmente despejar remédios como quem abastece um motor com óleo. Ao refletir sobre essa mentalidade, não posso senão reverenciar, com a mais profunda humildade, a magnitude da Obra Divina de Meishu-Sama.
+
+Peço perdão pela simplicidade de minhas palavras, com as quais procurei apenas relatar, conforme me recordava, os erros do meu passado. Gostaria de expressar, do fundo do meu coração, minha mais sincera admiração pelos sagrados Ensinamentos.
+
+Meishu-Sama, muito obrigado por me salvar.
+
+Oh, quão árdua é a Obra de Salvação
+que revela nos remédios a causa da aflição.
+
+A arte médica criada pelo homem não é ciência;
+a verdadeira ciência é a Obra Divina da cura.
+
+(Salmos de Meishu-Sama)
+
+(23 de dezembro de 1952)
+
+---
+
+# O Homem Célebre do Sanatório: Aquele que Desobedecia às Ordens Médicas
+
+**Categoria:** yarawa | **Ano:** 昭和26(1951)年7月4日 | **Fonte:** Eikou
+**Título Original:** 療養所の名物男 医者の言を守らぬ男 | **Status:** Published | **Edição/Página:** 111号 | **Data ISO:** 1951-07-04
+
+## O Homem Célebre do Sanatório: Aquele que Desobedecia às Ordens Médicas
+
+Revista Eikou, n.º 111, publicada em 4 de julho de 1951
+Do livro “O Tratamento Revolucionário da Tuberculose”, publicado em 15 de agosto de 1951
+
+Hatta Keinosuke (32 anos)
+Igreja Koho de Kagoshima
+
+Fui internado no que fora o sanatório para veteranos de guerra, um local que hoje ostenta a placa de Hospital Nacional. Na época de minha admissão, em 1948, sua capacidade era de aproximadamente quinhentos pacientes; atualmente, deve abrigar mais de seiscentos. Contudo, a instituição desfruta de uma prosperidade tal que já não consegue acomodar a todos — uma lastimável forma de sucesso.
+
+Cerca de quinze dias após minha internação, um homem que eu ainda não conhecia aproximou-se do meu leito. Findo o assunto que o trouxera ali, engatamos uma animada conversa. Tratava-se de um veterano naquelas instalações, um paciente que lá estava desde a inauguração do sanatório, perfazendo já uma década de internação. Suas palavras foram diretas: “Se o senhor deseja se curar, não dê ouvidos aos médicos. Não meça a febre, não verifique o pulso, não permaneça em repouso. A doença nasce no espírito; portanto, não se preocupe com ela e movimente-se sem restrições”. Fiquei atônito com tamanha audácia, mas, ao mesmo tempo, profundamente impressionado. Ele prosseguiu: “Foi por não seguir as ordens médicas que me tornei saudável como estou hoje. Chegaram a enviar um telegrama oficial comunicando que meu estado era terminal, mas, como pode ver, eu praticamente ressuscitei. Desde a fundação deste lugar, apenas dois pacientes sobreviveram após um comunicado dessa gravidade, e eu sou um deles. Escarrar sangue ou ter hemoptise não significa nada. Houve ocasiões em que, segurando o recipiente de escarro e expelindo sangue, joguei Go e até cuidei da horta. Os mais saudáveis por aqui são justamente os que ignoram os médicos; são todos rebeldes. Ao longo de dez anos, observei que todos os que seguiam à risca as recomendações médicas faleceram. Os únicos que se recuperaram foram os insubmissos. Por isso, recomendo ao senhor que também não dê atenção aos conselhos dos médicos”.
+
+Havia muito de admirável em seu raciocínio, mas não tive coragem para adotá-lo integralmente. Segui-o em parte, mas, por outro lado, continuei a reverenciar a medicina. Posteriormente, vim a saber que aquele homem era um talentoso poeta de haicai, com habilidade para ter seus versos publicados na prestigiada revista *Hototogisu*. Era membro do círculo literário *Saikakka*, liderado por Nomiyama Shuchou, da cidade de Nogata. Ademais, jogava Go, cantava e era, em suma, um notável artista. Hoje, reflito que, se eu tivesse tido a mesma coragem que ele, minha recuperação teria sido, sem dúvida, muito mais rápida.
+
+Além desse episódio, durante minha estadia no sanatório, presenciei diversos outros acontecimentos singulares, casos concretos que a medicina era incapaz de explicar. Um dos pacientes, por exemplo, contrariando a recomendação de repouso absoluto por seu estado ser considerado perigoso, pediu alta por motivos familiares. Tornou-se um intermediário de hortaliças — um trabalho bastante árduo — e recuperou a saúde, para o espanto dos médicos. Vale ressaltar que se tratava de um paciente que exigia cuidados especiais e cujo escarro já apresentava o bacilo em estágio avançado. Outro interno, que possuía uma cavidade do tamanho de um ovo no pulmão e fora desenganado pela medicina moderna, passou a se movimentar e a realizar atividades intensas. Ao fim, curou-se completamente, deixando os médicos perplexos, a repetir que aquilo era um verdadeiro mistério.
+
+O homem célebre mencionado anteriormente, após deixar como legado a máxima “O repouso absoluto, não o pratique em absoluto”, teve alta com a saúde plenamente restabelecida. Soube que hoje ele trabalha como mineiro em uma carbonífera de Iizuka, em Fukuoka. Aparentemente, não professava fé religiosa alguma; todavia, a impressão que me causou foi indelével. Agora que conheço os Ensinamentos, ao rememorar tais fatos, não consigo conter um sorriso resignado.
+
+---
+
+# Terapia Revolucionária para a Tuberculose
+
+**Categoria:** yarawa | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
+**Título Original:** わが入信の記 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
+
+## Terapia Revolucionária para a Tuberculose
+Publicado em 15 de agosto de 1951
+Kawase Mitsuo (34 anos)
+Grande Igreja Kōhō, Prefeitura de Miyazaki
+
+Sou pesquisador em uma empresa da indústria química na cidade de Nobeoka. Por ofício, encontro-me em um ambiente onde tudo deve ser investigado cientificamente até a exaustão, um lugar onde a noite não finda sem que a razão prevaleça. Diante desse cenário, o fato de eu ter abraçado de forma integral a ação do Johrei, as graças divinas e a missão de construção do Paraíso Terrestre da Sekaikyuseikyou causa, compreensivelmente, espanto em meus amigos. Imagino que, em minha ausência, minha conversão seja um frequente tema de suas conversas.
+
+Contudo, quero deixar claro que não me rendi à religião por fraqueza diante da ciência de meu trabalho, tampouco se trata de uma fuga. Da mesma forma, não possuo qualquer inclinação para o heroísmo ou excentricidade, nem me valho de estratagemas de espírito. No que tange à minha vida familiar, a situação também apresenta seus desafios. Meu pai é cirurgião em minha cidade natal e o pai de minha esposa é clínico geral. Estou ciente, portanto, de que futuros atritos serão inevitáveis em nosso convívio. Todavia, tenho a firme convicção de que não tardará o tempo em que eles, mesmo sendo médicos, terão de reconhecer a Medicina Espiritual Divina preconizada pela Sekaikyuseikyou; em outras palavras, a Grande Verdade que rege o Universo. É possível, aliás, que já a percebam em certa medida, mas a ignorem por conveniência profissional.
+
+Ao ler estas palavras, poder-se-ia imaginar que sou um cientista de grande renome ou um indivíduo de posses, pertencente a uma elite de difícil acesso. A realidade, porém, é bem distinta. Como em um roteiro de filme do pós-guerra, sofri terrivelmente com os bombardeios em Tóquio e Kagoshima, perdendo todos os meus bens. Ademais, a empresa onde trabalhei por longos anos foi desmantelada, deixando-me desempregado. Com minha esposa e dois filhos, vaguei de leste a oeste em busca de trabalho, até finalmente chegar a esta localidade. Mal havia conseguido, com muito custo, uma modesta posição como pesquisador júnior, e o alívio foi efêmero. Apenas dois anos após minha contratação, eu, o único pilar de sustentação da família, recebi dos médicos o diagnóstico de tuberculose em ambos os pulmões. Fui sentenciado: se nada fosse feito, minha vida se extinguiria em um ou dois anos. A toracoplastia poderia prolongá-la um pouco, mas, segundo eles, quase não havia casos clínicos de sucesso no Japão para uma cirurgia bilateral. Foi um veredito implacável.
+
+Ah, tirar a própria vida seria fácil, mas como poderia eu cometer tal ato de covardia? Como poderia abandonar minha esposa e filhos, que haviam partilhado comigo os horrores dos ataques aéreos e que agora suportavam com resignação uma vida de privações? Eu precisava sobreviver, a qualquer custo. Imediatamente, solicitei ao médico que realizasse a cirurgia em ambos os pulmões. Independentemente do prognóstico, eu me apegaria à minha força de vontade e à proteção Divina. Fui internado em um hospital universitário e, um mês depois, servi de cobaia para a primeira toracoplastia realizada naquela instituição.
+
+Durante aquele mês que antecedeu a cirurgia, o que testemunhei naquele hospital universitário? Vi pacientes de outras enfermarias, tanto clínicas quanto cirúrgicas, que chegaram relativamente bem. No leito ao lado, no pavilhão seguinte, a cada nova manifestação da doença, recebiam tratamentos com injeções e medicamentos de alto custo. A cada dia, via-os definhar, até que, por fim, partiam para a jornada sem volta. Observar essa rotina, manhã após manhã, despertou em mim uma justa indignação e semeou as primeiras dúvidas sobre a medicina de minha época. Passei semanas investigando os equívocos da prática médica e cheguei a uma conclusão: compreendi como o *yakudoku*, o veneno dos medicamentos químicos — como a morfina para a dor, a aspirina e a piramidona para a febre, os salicilatos e as sulfas como anti-inflamatórios, entre outros fármacos caros —, enfraquece progressivamente o organismo, cujas células já se encontram atrofiadas e debilitadas pela enfermidade.
+
+Naquela época, contudo, eu nada sabia sobre a Sekaikyuseikyou, e muito menos sobre o princípio da Ação Purificadora. Assim, este pobre cordeiro foi levado três vezes à mesa de cirurgia. Felizmente, a febre cedeu rapidamente após as operações e meu apetite tornou-se excelente. Aproveitando-me desses sinais, pedi ao cirurgião-chefe — que era conhecido de meu irmão mais velho — que suspendesse por completo o uso de medicamentos e injeções. A partir de então, dediquei-me a uma rigorosa terapia de repouso ao ar livre, apenas me permitindo exercitar com vigor antes e depois das refeições para estimular o apetite. Os recursos de meu seguro-saúde eram ínfimos e, após subtrair as despesas de minha família, o que sobrava para minha “dieta nutritiva” é algo que se pode imaginar. No entanto, ao confiar em Deus e ao folhear a Bíblia (que adotei como um livro para o aprimoramento espiritual durante a convalescença), meu espírito se enriquecia constantemente. De forma surpreendente, meu progresso clínico começou a se distanciar a cada dia do dos outros pacientes com o mesmo quadro. Um ano após a internação, eu havia ganhado doze quilos. Dois anos depois, em abril de 1950, pude retornar ao trabalho, sendo considerado um caso milagroso pela medicina japonesa: um paciente recuperado de uma toracoplastia bilateral.
+
+Mas teria sido esse milagre um feito exclusivo da medicina? Aqueles que leem este modesto relato certamente compreenderão a resposta. A própria trajetória de meu tratamento, por si só, já confirma quão verdadeira é a ausência de medicamentos preconizada pela Sekaikyuseikyou.
+
+Pois bem, embora eu tenha retornado ao trabalho no início desta primavera, vivendo sozinho, as condições eram muito diferentes das do período de convalescença. As lesões em meu peito, que haviam se solidificado com a cirurgia, começaram a se dissolver. No início de junho, um resfriado me deixou acamado por uma semana, e tive uma recaída. Foi nesse momento que o senhor Tanaka, membro da Sekaikyuseikyou, falou-me de forma cativante sobre os Ensinamentos e os objetivos da Obra Divina. Ele me emprestou cerca de um ano de exemplares do Jornal Hikari e mais de uma dezena de livros com os Escritos de Meishu-Sama. Devorei todo o material em apenas três dias, concluindo a leitura com uma sensação de satisfação e enlevo que jamais experimentara. Imediatamente, pedi-lhe que me apresentasse ao Reverendo Sakai, de quem recebi valiosas orientações. Ao testemunhar pessoalmente a realidade miraculosa do Johrei, minha decisão de ingressar na fé tornou-se inabalável. Finalmente, no início de julho, tive a permissão de receber a Iniciação.
+
+Agora que fui humildemente acolhido como um dos construtores do Paraíso Terrestre, renovo em meu coração o profundo juramento de viver meu lema, a sinceridade, tanto interna quanto externamente, manifestando-a de forma concreta para servir ao Voto Sagrado de Meishu-Sama.
+
+---
+
+# Coleção Jikan – Volume 4, ‘Relatos de Milagres’ (Publicado em 5 de outubro de 1949)
+
+**Categoria:** yarawa | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
+**Título Original:** 六年間のカリエス救はる 自観叢書第4篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-10-05
+
+## Coleção Jikan – Volume 4, ‘Relatos de Milagres’ (Publicado em 5 de outubro de 1949)
+
+### A Salvação de Seis Anos de Cárie Espinhal
+
+Mutsue Masuda
+Filial Nikko, Igreja Messiânica Mundial, Província de Shizuoka
+
+Padeci por um longo período de cárie espinhal. Durante os últimos seis anos, recorri ao tratamento de inúmeros médicos e, por fim, no hospital da Cruz Vermelha de Shizuoka, confeccionaram-me um colete ortopédico que utilizei por quatro anos e dois meses.
+
+No dia 11 de novembro do ano passado, fui acometida também por uma pneumonia. Nos dias que se seguiram, tive severas hemorragias nasais. Minha respiração tornou-se extremamente penosa, e procurei auxílio médico imediatamente. Fui diagnosticada em estado gravíssimo e sentenciada ao repouso absoluto.
+
+A tristeza que se abateu sobre minha família era indescritível. Eu, por minha vez, ciente da iminência da morte, fui tomada por um desespero avassalador. Debatia-me em agonia em meu corpo imóvel, incapaz de conter as lágrimas que jorravam incessantemente. Foi então que minha mãe, com o coração dilacerado, disse-me subitamente na manhã do dia 10: "Há três dias que não consigo engolir um grão de arroz. Nesta altura, só nos resta suplicar à Kannon (観音)". Dessa forma, na tarde do dia 11, ela foi rogar por auxílio na casa do senhor Jusokichi Sone.
+
+E que maravilhosa orientação Divina! Um Curso de Formação se iniciaria justamente no dia seguinte, 12, na vila de Osu. Minha mãe retornou para casa com uma alegria imensa, como se a primavera houvesse chegado de repente. A partir daquele dia, passei a receber Johrei do senhor Sone duas vezes ao dia, pela manhã e ao entardecer, enquanto minha mãe saía cedo para frequentar o curso, rogando por minha pronta recuperação.
+
+Apenas três dias depois, no dia 14, pude remover o colete ortopédico que eu acreditava que usaria pelo resto da vida. Diante de tamanha alegria e felicidade, todos nós choramos copiosamente, rendidos ao sublime poder de Kannon (観音).
+
+Minha mãe concluiu os três dias de curso em segurança e, a partir do dia 15, passou a ministrar-me Johrei dia e noite. O senhor Sone também vinha nos visitar com grande empenho. A febre, que não baixava de trinta e nove graus, começou a ceder por volta do dia 19. No dia 25, quando recebemos a Imagem de Kannon (観音) para o lar e realizamos o ofício religioso em sufrágio de nossos antepassados, eu, juntamente com toda a família, pude participar das orações.
+
+Verdadeiramente, por esta força grandiosa, nossa família foi salva. Fui resgatada da beira da morte, livrei-me do colete e recebi a salvação sem recorrer a nenhum medicamento. A gratidão por esta graça, mais alta que as montanhas e mais profunda que os oceanos, é tamanha que as palavras me fogem. O recebimento deste poder magnânimo só foi possível graças à proteção do Grande Mestre e à orientação do Ministro Higuchi, pelos quais expresso minha mais profunda e sincera gratidão.
+
+Posteriormente, minha recuperação progrediu de forma constante. No dia 18 de dezembro, fui com minha mãe à residência do senhor Sone para expressar nossa gratidão e orar perante a Imagem Divina. Contudo, senti o corpo lassado, tive calafrios e dores no peito, o que me fez temer uma recaída da pneumonia, e por isso retornei para casa. Dirigi-me, então, ao oratório familiar e roguei fervorosamente a Kannon (観音), entoei por sete vezes a oração Zen-gen-sanshi e, ao deitar-me, recebi Johrei de minha mãe.
+
+Na noite do dia 22, sonhei que a própria Kannon (観音) me ministrava Johrei. Fui verdadeiramente agraciada com uma proteção imensurável e reverenda. A partir de 24 de dezembro, meu irmão mais velho e eu participamos do Curso de Formação ministrado pelo Ministro Higuchi. Em 26 de janeiro, meu irmão mais novo também ingressou na fé, e nosso lar transborda com a alegria da primavera. Ademais, em fevereiro, tivemos a permissão de entronizar a Imagem Divina em nossa casa.
+
+Apegando-me a este poder sagrado, decidi devotar-me de corpo e alma ao caminho da salvação. Minha resolução é guiar o maior número possível de pessoas que sofrem, assim como eu sofri no passado, para a senda da felicidade que resplandece em Luz.
+
+---
+
+# A cura de minha dor abdominal em curto prazo e a recuperação de meu irmão com grave fratura na coluna
+
+**Categoria:** yarawa | **Ano:** 昭和28(1953)年1月7日 | **Fonte:** Eikou
+**Título Original:** 私の腹痛短時日に癒え 背骨を折った重傷の弟蘇る | **Status:** Published | **Edição/Página:** 190号 | **Data ISO:** 1953-01-07
+
+## A cura de minha dor abdominal em curto prazo e a recuperação de meu irmão com grave fratura na coluna
+
+Publicado na revista Eikou, nº 190, em 7 de janeiro de 1953
+Publicado na "Coletânea de Milagres da Sekai Kyusei Kyo", em 10 de setembro de 1953
+Prefeitura de Kagoshima, Igreja Senshin-Naka, Hachibei Fukushima (28 anos)
+
+Sou um fiel que teve a graça de ingressar na Fé em junho de 1950. Neste relato, gostaria de compartilhar o motivo de minha conversão e uma parte das inúmeras graças que recebi desde então.
+
+Rememorando os fatos, em agosto de 1949, senti uma dor abdominal súbita enquanto trabalhava nas montanhas. Dirigi-me apressadamente ao médico da cidade, que me aplicou uma injeção. A dor cessou momentaneamente, mas, ao retornar para casa com os remédios prescritos, ela recrudesceu e fui acometido por uma diarreia que não se detinha. A medicação não surtia efeito, e, por fim, passei a alternar entre diferentes médicos e tratamentos. Continuei nessa busca incessante até maio de 1950, esgotando todos os meus recursos financeiros e encontrando-me em uma situação desesperadora.
+
+Certo dia, uma senhora da vizinhança contou-me sobre uma pessoa vinda de Miyazaki que curava doentes apenas com a imposição das mãos e que, há alguns dias, estava visitando os enfermos de nosso vilarejo. Ao ouvir tal relato, decidi imediatamente procurar essa pessoa. Fui à casa onde se encontrava um dos doentes e, após ele, recebi a imposição das mãos. Naquele momento, não senti qualquer alteração. À noite, porém, meu abdômen começou a emitir ruídos, o que me deixou apreensivo, temendo uma piora em meu estado. Contudo, acabei adormecendo e, ao despertar, para minha surpresa, sentia-me notavelmente melhor, com uma disposição que há muito não experimentava! Naquele instante, tive a convicção de que aquele era o caminho para a cura. Continuei a receber o tratamento diariamente e, ao cabo de uma semana, já podia alimentar-me de qualquer coisa sem sentir dor, e meu corpo recuperava gradualmente o vigor.
+
+Foi então que me recordei de terem dito que qualquer pessoa poderia realizar tal prática, bastando para isso portar o Amuleto Sagrado. Um intenso desejo de possuí-lo tomou conta de mim, mas, tendo exaurido todas as minhas economias, encontrava-me em grande dificuldade. Todavia, meu anseio por ingressar na Fé era tão profundo que, após muitos esforços para conseguir os recursos necessários, meu desejo foi finalmente concretizado, e em junho pude receber a graça da outorga. No mesmo dia, comecei a visitar os lares dos enfermos para ministrar Johrei. Posteriormente, tive a permissão de entronizar em meu lar as imagens sagradas de Komyo Nyorai (光明如来) e de Obyobu Kannon (御屏風観音). Eu me dedicava diariamente, com imensa alegria, a servir à Obra Divina, quando fui surpreendido pela notícia de um trágico acidente. Meu irmão mais novo, que trabalhava na mina de carvão de Tokugi, na prefeitura de Nagasaki, fora vítima de um desabamento e sofrera uma fratura na coluna vertebral, ficando completamente imobilizado e sendo internado no Sanatório Nacional de Nagasaki.
+
+Os telegramas do hospital chegavam incessantemente, até três por dia, e minha mãe, aflita, implorou-me que fosse ter com meu irmão o mais rápido possível. Entretanto, por ser uma situação repentina, eu não dispunha dos recursos para a viagem e me encontrava em um impasse. Foi então que, por uma bênção Divina, um irmão de fé visitou minha residência e, compadecido, ofereceu-me o valor necessário, dizendo: "É uma situação lamentável, vá depressa". Senti uma imensa gratidão e, sem conseguir me concentrar em mais nada, parti apressadamente para o sanatório. Ao chegar ao portão, meu coração palpitava de ansiedade. Corri diretamente para o quarto do enfermo e lá o encontrei, deitado de costas na cama, imóvel, apenas gemendo, incapaz de articular qualquer palavra. Três pessoas, entre médicos e enfermeiros, o atendiam sem cessar, em uma agitação constante: "Ele está com febre, tragam gelo!", "Agora está com calafrios, rápido, a bolsa de água quente, a injeção!". Diante daquela cena, eu me sentia impotente, sem saber como agir, limitando-me a observar.
+
+Um amigo de meu irmão relatou que ele se encontrava naquele estado há dez dias, sem se alimentar e gemendo sem parar. Desejava ardentemente ministrar-lhe Johrei, mas não encontrava uma oportunidade. À noite, aproveitando um momento em que não havia ninguém no quarto, e rogando para que nenhum médico aparecesse, pude ministrar-lhe Johrei por cerca de trinta minutos. Após a ministração, meu irmão afirmou sentir um grande alívio e, naquela noite, conseguiu dormir profundamente. No entanto, na manhã seguinte, um médico veio e aplicou-lhe outra injeção, e os gemidos recomeçaram. Pedi então ao médico que não aplicasse mais injeções em meu irmão. Roguei-lhe: "Não seria possível suspender as injeções e confiar os cuidados de meu irmão a mim?". Ele, porém, recusou meu pedido, afirmando: "Enquanto o paciente estiver sob nossos cuidados, é imperativo que siga as orientações médicas". Sem alternativa, instruí meu irmão a recusar veementemente as injeções, aceitando apenas a medicação oral. Pouco depois, quando tentaram aplicar-lhe outra injeção, meu irmão, balançando a cabeça, resistiu com firmeza, declarando: "Mesmo que eu morra, não aceitarei mais injeções!". Diante de sua determinação, o médico finalmente desistiu e retirou-se. Mais tarde, uma enfermeira trouxe a medicação oral e a deixou ao lado do leito. A partir daquela noite, passamos a ministrar apenas Johrei, descartando os comprimidos secretamente, pouco a pouco, enquanto fingíamos administrá-los.
+
+Continuamos com as ministrações diárias de Johrei, às escondidas da equipe médica. No terceiro dia, ele já conseguia ir ao banheiro sozinho. Por volta do décimo dia, já caminhava pelos corredores do sanatório e, no décimo quinto, já podia passear pela cidade. No vigésimo primeiro dia, recebeu alta do hospital. Atribuindo essa recuperação milagrosa à virtude espiritual de Komyo Nyorai (光明如来), senti uma profunda gratidão. Imediatamente nos dirigimos à Sede da Igreja em Miyazaki para agradecer, e meu irmão também pôde ingressar na Fé.
+
+Desde então, toda a nossa família desfruta de saúde e alegria, dedicando-se com afinco ao trabalho diário. Posteriormente, fomos abençoados com inúmeras outras proteções divinas, e não encontro palavras para expressar minha gratidão por nossa família ter sido guiada no Caminho da Luz. Em agosto de 1951, tive também a permissão de participar das dedicações no Paraíso Terrestre de Atami. Em meu retorno, recebi em meu lar a imagem de Daikoku (大黒), e minha alegria cresce a cada dia. As graças se seguiram, como a proteção de nosso lar durante um tufão, entre tantas outras. Sinto que, mesmo para pessoas tão repletas de máculas como nós, as bênçãos de Deus são ilimitadas. Minha gratidão é tamanha que qualquer esforço para retribuí-la seria ínfimo, mas, ainda assim, dedico-me ao serviço divino com o anseio de levar este Caminho àqueles que ainda o desconhecem.
+
+Meishu-Sama, muito obrigado.
+
+(7 de novembro de 1952)
+
+---
+
+# Colisão com um Trem — Salvo sem um único arranhão — (Coletânea Jikan, Volume 4, 'Relatos de Milagres', 5 de outubro de 1949)
+
+**Categoria:** yarawa | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
+**Título Original:** 列車に激突 ――微傷一つ負わず救はる―― 自観叢書第4篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1949-10-05
+
+## Colisão com um Trem — Salvo sem um único arranhão — (Coletânea Jikan, Volume 4, 'Relatos de Milagres', 5 de outubro de 1949)
+
+Taniguchi Kazuichi
+Igreja Nihon Miroku Kyo Shin Gen Kai, Província de Aichi
+
+Sou motorista de caminhão e tive a permissão de receber a sagrada Luz em agosto de 1946.
+
+No dia 20 de janeiro do corrente ano, atendendo à solicitação de uma fábrica da cidade de Okada, dirigi-me ao vilarejo de Nisshin, no distrito de Aichi, para transportar uma carga de linhito. Acompanhavam-me duas pessoas. Em nosso retorno, por volta das duas horas da tarde, aguardávamos a passagem de um trem em uma cancela próxima à estação de Odaka, na linha Tokaido.
+
+Após a passagem da composição, a cancela se ergueu. Supondo, portanto, que o caminho estava livre, comecei a atravessar a linha férrea juntamente com os demais transeuntes que ali aguardavam. Contudo, na realidade, naquele exato instante, percebi a fumaça de outro trem que se aproximava em velocidade vertiginosa. Diante da locomotiva, avistei uma pessoa empurrando um carrinho de bebê. Num impulso desesperado, decidi acelerar, concentrando todas as minhas forças em atravessar os trilhos para escapar da colisão iminente. Todavia, era tarde demais. Nós três gritamos em uníssono: "Estamos perdidos!".
+
+Senti um impacto violento. Com exceção da cabine, toda a carroceria do caminhão, juntamente com a carga de linhito, foi pulverizada e arremessada para longe. Um enorme poste telegráfico foi partido pela base, desabou sobre a locomotiva e foi arrastado por cerca de quarenta metros. Soube depois que se tratava de um trem expresso. Ao contemplar a cena de completa devastação, um calafrio percorreu-me a espinha ao pensar no milagre de nossa sobrevivência.
+
+O carrinho de bebê desaparecera por completo, arremessado para algum lugar, mas senti um imenso alívio ao ver seu dono são e salvo em meio aos curiosos que se aglomeraram no local. Naquele momento, compreendendo profundamente a grandiosidade da salvação concedida por Kannon (観音), meus dois companheiros, que até então desconheciam estes Ensinamentos, também se viram tomados pela emoção e, juntamente comigo, derramaram lágrimas de gratidão.
+
+Posteriormente, quando um veículo veio nos buscar e pudemos retornar em segurança para casa, eu me sentia como se estivesse vagando em um sonho. Ao chegar, prostrei-me diante da Imagem da Luz Divina entronizada em meu lar. Em seguida, dirigi-me ao Johrei Center do ministro Takeuchi Koji e, diante da sagrada Imagem, com o coração transbordando de apreço e lágrimas de emoção, externei minha gratidão por ter minha vida, bem de valor inestimável, sido salva. Recebi Johrei para as contusões que sofri na cabeça e na região lombar e, no dia seguinte, já me encontrava em plenas condições para retornar ao trabalho.
+
+Vim a saber, posteriormente, que o acidente ocorrera por pura negligência do guarda da cancela. A carga de linhito de meu caminhão foi arremessada a uma altura de mais de seis metros, atingindo uma casa que se encontrava à frente. O mais prodigioso, contudo, é que nem uma única vidraça da residência se quebrou. Ao ler o capítulo "Milagres" na coletânea "Crônicas da Fé", pude compreender ainda mais profundamente a experiência que me foi permitido vivenciar. É impossível descrever em palavras a magnitude deste grandioso Poder e desta divina proteção. Resta-me apenas prostrar-me ao solo em sinal de minha mais profunda gratidão.
+
+---
+
+# Salvação da Tuberculose e a Conquista de um Lar Feliz (A Terapia da Fé na Tuberculose)
+
+**Categoria:** e | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
+**Título Original:** 栄光新聞拝読により結核救われ 楽しい家庭へ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
+
+## Salvação da Tuberculose e a Conquista de um Lar Feliz (A Terapia da Fé na Tuberculose)
+
+Publicado em 1º de dezembro de 1952 (Showa 27)
+Província de Kagoshima, Igreja Koho
+Relato por Yoshinobu Futami, 31 anos
+
+A senhora Mitsuko Arikawa, de 39 anos, após receber o diagnóstico médico de tuberculose, foi ordenada a manter repouso absoluto. A partir de então, ela seguiu diligentemente as recomendações, esforçando-se com afinco para se recuperar o mais breve possível. Contudo, seu quadro não apresentava a melhora esperada; pelo contrário, até seu estômago se enfraqueceu, e ela vivia em constante aflição. Foi em meio a esse sofrimento que, por uma feliz providência, ela teve contato com o jornal Eiko, que estava sendo distribuído, e por meio desse laço, veio a frequentar a Igreja.
+
+Em seu depoimento, ela nos relatou: "Meu marido trabalha e vive em uma localidade distante, enquanto eu e nosso filho permanecemos na cidade natal para o meu tratamento. Vivemos, portanto, separados, em um ambiente familiar de completa escuridão e solidão. Meu peito transbordava de desolação e lamento. Houve momentos em que pensei em desistir de tudo, mas ao ponderar sobre o futuro de meu esposo e de meu filho, renascia em mim o desejo de me curar a qualquer custo. Submeti-me a setenta e cinco injeções de estreptomicina, segui a terapia do repouso e cuidei da alimentação, mas, apesar de todos os esforços, não obtive qualquer melhora até o presente momento.” — assim ela concluiu seu comovente relato, com os olhos marejados de lágrimas.
+
+Diante de tal situação, ela decidiu depositar toda a sua fé em Deus, recebendo os ensinamentos e passando a frequentar a Igreja diariamente. Ela se apegou com fervor ao Johrei e aos Escritos Sagrados. Dia após dia, sua saúde foi sendo restituída, a ponto de as tarefas domésticas, como lavar roupa e cozinhar, se tornarem fáceis de realizar. Sua perspectiva de vida transformou-se por completo, e seu coração ardia com a esperança de um novo amanhã. Acompanhada pelo filho, ela pôde finalmente retornar à cidade onde seu marido trabalha, restaurando a alegria em seu lar.
+
+Sua filha, que cursava o segundo ano do ginásio, também se queixava de dores no peito, o que as levou a crer que a doença da mãe a havia contagiado. Em virtude disso, a jovem vivia apreensiva, abstendo-se das aulas de ginástica e das excursões escolares. Todavia, ao testemunhar a extraordinária recuperação de sua mãe, a jovem também abraçou a fé. Hoje, ela é uma estudante radiante e integra a equipe de voleibol da escola.
+
+Nossa gratidão é, em verdade, imensurável. Manifestamos nossos sinceros agradecimentos.
+
+(Submetido em 21 de abril de 1951)
+
+---
+
+# A Graça de uma Pesca Farta na Rede de Lagostas
+
+**Categoria:** e | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
+**Título Original:** エビ網に大漁の御利益 | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
+
+## A Graça de uma Pesca Farta na Rede de Lagostas
+
+**Revista Glória, nº 163, de 2 de julho de 1952**
+**Jokichi Nakamura (54 anos), membro da Igreja Kiitsu Naka, Província de Nagasaki**
+
+Sou um daqueles que, desde o ingresso na fé, têm a ventura de viver dias de gratidão, agraciado com inúmeras Proteções Divinas. Nos Hinos de Louvor ao Bem, há um verso que diz: “Com a pesca abundante, as vozes jubilantes de bilhões de almas que vivem sob os céus ecoam...”. É com esse sentimento que desejo relatar uma pequena parte da imensa graça que recebi, manifestada nas dádivas do mar.
+
+Sou proprietário de redes para a pesca de lagostas, atividade que exerço anualmente. Essa pesca, contudo, possui um período específico, pois na província de Nagasaki, a captura é estritamente proibida de 1º de maio a 31 de julho, em virtude da época de desova.
+
+Em meu vilarejo, diversos pescadores se dedicam à mesma atividade, o que gera uma intensa competição durante a temporada. Este ano, os mais apressados iniciaram suas operações já em março. Contudo, devido ao frio que se prolongou, os resultados não foram, ao que parece, muito animadores. Por minha vez, enfrentei dificuldades com a falta de mão de obra e outros preparativos, o que me forçou a começar com mais de um mês de atraso. De fato, só pude lançar-me ao mar quando restavam apenas duas semanas para o fim da temporada.
+
+Diante disso, determinado a alcançar o volume de pesca daqueles que haviam começado muito antes, orei fervorosamente ao Senhor Daikoomyo Nyorai e iniciei o trabalho. A rotina consiste em lançar as redes ao entardecer e recolhê-las na manhã seguinte para retirar as lagostas. E, de fato, a cada manhã, por auxílio divino, minha captura era invariavelmente muito superior à dos outros barcos.
+
+Recentemente, recebemos a visita do reverendo Ando, que nos informou: “Amanhã realizaremos a cerimônia em honra ao Senhor Daikoku em nossa filial”. No dia seguinte, compareci ao ofício e tive a permissão de ofertar as lagostas que havia pescado. Roguei, então, por uma proteção especial para os poucos dias que restavam, a fim de que pudesse ser útil à Obra Divina.
+
+E, com efeito, a graça que recebi foi tão extraordinária que me faltam palavras para expressar minha gratidão e comoção. Passo a relatar os acontecimentos daquela ocasião.
+
+Tudo ocorreu no dia 29 de abril, a apenas um dia do encerramento da temporada. As lagostas capturadas são transportadas por barco para os mercados de Nagasaki ou Sasebo. Como o prazo final era 30 de abril, os mercados as aceitariam até o dia 1º de maio. Isso significava que poderíamos pescar até a noite do dia 29. Contudo, havia o risco do mau tempo. Se uma intempérie nos impedisse de zarpar, perderíamos o prazo e o mercado não aceitaria mais nosso produto. Por essa razão, a maioria dos outros pescadores encerrou suas atividades no dia 28, despachando suas capturas na manhã do dia 29.
+
+Nesse momento, hesitamos sobre o que fazer, mas, por fim, convictos de que certamente receberíamos a Proteção Divina, decidimos continuar pescando até o último instante. Entretanto, na manhã do dia 28, um vento sul começou a soprar com força crescente, o que nos deixou um tanto apreensivos. Se o tempo virasse, estaríamos em sérias dificuldades. Para nossa imensa alegria, porém, na manhã do dia 29, o vento cessou por completo, deixando apenas uma ondulação residual no mar. Ora, é sabido que as lagostas são capturadas em maior número quando há ondulação do que em dias de calmaria. Como não chamar a isto de auxílio divino?
+
+Mal podíamos esperar pelo entardecer e, com grande entusiasmo, rumamos para a área de pesca. Como os outros barcos já haviam se retirado, éramos os únicos no mar. A sensação de lançar as redes, uma após a outra, em um palco exclusivamente nosso, é algo que transcende a capacidade da escrita ou da fala. “Amanhã a pesca será farta!”, dizíamos um ao outro, com o coração exultante, enquanto retornávamos ao porto.
+
+Na manhã seguinte, ansiosos pelo raiar do dia, voltamos ao local e começamos a recolher as redes. E qual não foi nossa surpresa! Contrariando qualquer expectativa, lagostas magníficas vinham presas às redes, uma após a outra, em quantidade assombrosa. Diante de uma colheita tão prodigiosa, instintivamente agradeci em meu coração: “Muito obrigado, Meishu-Sama...”.
+
+O que seria isso, senão uma bênção que Deus nos concedeu? Mais uma vez, fui tomado pela vastidão e imensurabilidade da graça divina, o que renovou em mim um profundo sentimento de gratidão e comoção. A pesca daquele dia superou em mais de cinco vezes a média diária; um resultado simplesmente inimaginável.
+
+Como não se arrependeriam os outros pescadores ao tomarem conhecimento desse fato? E sua frustração seria compreensível. Se tivessem perseverado até o último dia, como nós fizemos, também poderiam ter partilhado de uma parcela do auxílio divino. Ah, quão dignos de compaixão são aqueles que não possuem fé! Jamais poderiam sonhar que a diferença de um único dia resultaria em tamanha disparidade.
+
+Graças a essa dádiva, embora tenhamos trabalhado por menos de duas semanas, nossa colheita final foi igual, senão superior, à daqueles que pescaram por um período muito mais longo. Atribuo este feito inteiramente à sublime Proteção do Senhor Daikoomyo Nyorai e de Meishu-Sama, a quem agradeço do fundo de meu coração.
+
+Meishu-Sama, muito, muito obrigado.
+
+(1º de junho de 1952)
+
+---
+
+# Quatro milhões de portadores de tuberculose: a estimativa nacional ultrapassa todas as previsões
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
+**Título Original:** 参考文献 結核患者四百万人 全国推定数予想を突破 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
+
+## Quatro milhões de portadores de tuberculose: a estimativa nacional ultrapassa todas as previsões
+Jornal Glória, nº 227, 23 de setembro de 1953
+
+O Ministério da Saúde e Bem-Estar realizará, entre o final de julho e o término de outubro, uma abrangente “Pesquisa sobre a Real Situação da Tuberculose”. O levantamento ocorrerá em 211 distritos por todo o país, com uma amostra de cinquenta mil pessoas provenientes de dez mil domicílios.
+
+Como um estudo-piloto para essa investigação, foi realizada em maio uma pesquisa preliminar que abrangeu cerca de quatrocentas pessoas em duas localidades: a cidade de Matsudo, na província de Chiba, e o distrito de Tsurumi, em Yokohama. Os resultados revelaram que, em ambas as regiões, mais de 10% dos indivíduos examinados eram portadores da doença.
+
+Diante disso, a estimativa anterior, que apontava um milhão e quinhentos mil pacientes em todo o país, foi drasticamente superada. A conclusão que se impõe é que a nação enfrenta um cenário muito mais grave, estimando-se agora que mais de quatro milhões de pessoas estejam acometidas pela tuberculose — o que corresponde a um vigésimo da população de oitenta milhões de habitantes.
+
+A investigação em ambas as áreas foi conduzida de forma meticulosa pelos postos de saúde locais, utilizando-se de testes de reação à tuberculina e radiografias, entre outros procedimentos detalhados.
+
+(Artigo publicado no jornal Shinsei Minpou em 24 de junho.)
+
+---
+
+# O Incidente da Injeção de BCG
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年12月19日 | **Fonte:** Eikou
+**Título Original:** 参考文献 Ｂ・Ｃ・Ｇの注射異変 | **Status:** Published | **Edição/Página:** 135号 | **Data ISO:** 1951-12-19
+
+## O Incidente da Injeção de BCG
+
+A vacina BCG tem se tornado um assunto controverso, mas em nossa região, nas proximidades da vila de Matsugasaki, no distrito de Yuri, província de Akita, a simples menção a ela inspira um pavor maior que o da própria morte.
+
+Em 28 de julho de 1948, nas vilas de Matsugasaki e Kanzawa, trinta e seis crianças de três a dez anos receberam a vacina preventiva contra a difteria. Poucos dias após a aplicação, contudo, surgiram pavorosas erupções cutâneas que, ao se romperem, apresentavam uma sintomatologia análoga à da varíola. Investigações conduzidas pelo Departamento de Saúde e pelo hospital da província revelaram que o líquido da injeção estava contaminado com BCG. Embora o médico responsável tenha colaborado com as apurações, a causa da contaminação permanece desconhecida até hoje. Desde então, essas crianças enfrentam dias de intenso sofrimento, diagnosticadas como pacientes com úlceras de BCG.
+
+Dentre essas vítimas inocentes de uma tragédia imprevista, as crianças que receberam uma dose maior da substância desenvolveram quadros mais graves, chegando a necessitar de seis a sete intervenções cirúrgicas nos braços. A maioria desses casos mais severos ocorreu entre as meninas. Seus pais pleitearam junto ao governo provincial uma indenização de vinte mil ienes por lesão, mas a questão foi resolvida com um acordo para que os pacientes fossem internados e tratados em sanatórios nacionais e hospitais da província. Todavia, as úlceras continuam a surgir incessantemente, uma após a outra, configurando um quadro desolador.
+
+Transcorreram já quatro anos desde o incidente. As pobres crianças, que hoje frequentam a escola primária, apresentam um desenvolvimento deficiente em comparação com os outros alunos: um retardo de três a quatro centímetros na altura e de três a quatro quilos no peso. Poderia a vacina BCG realmente acarretar consequências tão funestas? Isto não é uma mera suposição; é a mais concreta realidade.
+
+(Ryohei Yoshiuchi, trabalhador da província de Akita)
+
+---
+
+# Sobre a Reestruturação Organizacional da Sekaikyuseikyou
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年3月7日 | **Fonte:** Eikou
+**Título Original:** 世界救世教の機構整備について 世界救世教管長 大草直好 | **Status:** Published | **Edição/Página:** 94号 | **Data ISO:** 1951-03-07
+
+## Sobre a Reestruturação Organizacional da Sekaikyuseikyou
+
+Líder Espiritual da Sekaikyuseikyou, Ookusa Naoyoshi
+Revista Eikou nº 94, publicada em 7 de março de 1951
+
+A Sekaikyuseikyou foi inaugurada em fevereiro do ano passado. Transcorrido um ano, no dia 5 de fevereiro do presente, recebemos de Meishu-Sama Suas palavras acerca da reforma da Ordem Religiosa. Ao expor de forma concreta a essência de Seu desígnio, chegamos aos seguintes pontos:
+
+Um. Estabelecer a Sede Central da Sekaikyuseikyou no Paraíso Terrestre de Seiseidai (晴々台), em Momoyama (桃山), na cidade de Atami (熱海), e, na qualidade de seu centro mundial, planejar com a maior brevidade possível a construção do Sedeão Messiânico.
+
+Dois. Instalar a Sede Geral da Sekaikyuseikyou em Midorimachi (緑町), na cidade de Odawara (小田原), onde se localiza a Sede da Grande Igreja 567, e gradualmente dotá-la da configuração de Sede da Ordem Religiosa.
+O quadro de diretores adotará um sistema composto por um Líder Espiritual, Diretores e Inspetores. Para o cargo de Líder Espiritual, é nomeado o Sr. Ookusa. O Conselho de Diretores será composto por onze membros: Sr. Ookusa, Sr. Momomi (Presidente do Conselho), Sr. Iwamatsu, Sr. Watanabe, Sr. Koizumi, Sr. Moriyama, Sr. Kawai, Sr. Oonuma, Sr. Araya, Sr. Kihara e Sr. Abe. Os três Inspetores nomeados são o Sr. Yashiro, a Sra. Naito Raku e a Sra. Nihongi Teruko.
+Será instituído um Conselho Consultivo, para o qual serão comissionados o Sr. Shibui Sousai e a Sra. Nakajima Teruko.
+Ademais, será estabelecido um sistema de Conselheiros, cujos cargos serão preenchidos pelos responsáveis das Sedes Regionais, entre outros.
+A estrutura da Sede Geral, além do Gabinete Interno, compreenderá os departamentos de Assuntos Gerais, Assuntos Religiosos, Finanças, Construção, Obras Sociais, Propaganda e Publicações, sendo designado um chefe responsável para cada um deles.
+
+Três. As quatro Grandes Igrejas até então existentes passam por uma dissolução construtiva. Considerando-se a atual situação da difusão e a conveniência de comunicação entre as províncias, o país será, a princípio, dividido nas mais de dez jurisdições regionais a seguir, estabelecendo-se uma Sede Regional para cada uma.
+Para cada Sede Regional, com base na conjuntura atual, serão nomeados, por ora, os seguintes responsáveis:
+
+(Sede Regional) (Províncias Abrangidas) (Responsável)
+Leste de Hokkaido | | Sawada Shuutai
+Oeste de Hokkaido | Sapporo e a oeste | Nishimura Yoshimitsu
+Tohoku | Iwate, Miyagi, Fukushima | Araya Otomatsu
+Ou | Aomori, Akita, Yamagata | Ookubo Shoji
+Leste de Kanto | Tóquio, Ibaraki, Chiba, Saitama, Yamanashi | Oonuma Mitsuhiko
+Oeste de Kanto | Tochigi, Gunma | Koizumi Morinosuke
+Kanagawa-Shizuoka | Kanagawa, Shizuoka | Nakajima Teruko
+Chukyo | Aichi, Gifu, Mie | Watanabe Katsuichi
+Shinetsu | Niigata, Nagano | Tomura Hiroyuki
+Hokuriku | Toyama, Ishikawa, Fukui | Irie Tojiro
+Kinki | Shiga, Quioto, Nara | Iwamatsu Sakae
+Kansai | Osaka, Hyogo, Wakayama | Kawai Naoyuki
+San’in | Tottori, Shimane, Yamaguchi (região de Suo) | Hiramoto Naoko
+San’yo | Okayama, Hiroshima, Yamaguchi (região de Nagato) | Yashiro Osamu
+Shikoku | Tokushima, Kagawa, Ehime, Kochi | Moriyama Jitsutaro
+Leste de Kyushu | Oita, Miyazaki, Kagoshima | Oonishi Hideyoshi
+Oeste de Kyushu | Fukuoka, Saga, Nagasaki, Kumamoto | Kihara Yoshihiko
+
+Quatro. Nas Sedes Regionais, será instituída uma estrutura organizacional em três níveis: Grandes Igrejas, Igrejas Médias e Igrejas.
+Para a constituição de uma Grande Igreja, será necessário um quadro de, no mínimo, mil membros cooperadores no momento, e para uma Igreja Média, de no mínimo trezentos.
+Em virtude da implementação do sistema de jurisdições regionais, surgirão casos de membros que, embora pertencendo à mesma Igreja Média, passarão a integrar regiões distintas. Nesses casos, deverão ser adotadas, com a maior brevidade possível, providências como a fundação de Igrejas em cada uma das respectivas regiões ou a transferência dos membros para outras Igrejas Médias ou Igrejas. É fundamental zelar para que tais mudanças não gerem perturbação entre os fiéis.
+A organização das Grandes Igrejas e Igrejas Médias deverá ser gradualmente aprimorada com vistas a, no futuro, abranger cada província.
+
+Cinco. Considerando-se a atual situação da difusão e o desenvolvimento das Igrejas, as atividades de difusão que transponham os limites de múltiplas Sedes Regionais serão permitidas provisoriamente, pelo período de um ano. Contudo, deve-se buscar, o mais rapidamente possível, que a difusão se restrinja ao âmbito de uma mesma Sede Regional, visando à redução de despesas e à otimização geral dessas atividades.
+
+---
+
+# O Ensinamento do Espírito-Raposa
+
+**Categoria:** sanko | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 狐霊は教える | **Status:** Published | **Edição/Página:** 39号 | **Data ISO:** 1952-08-25
+
+## O Ensinamento do Espírito-Raposa
+(Publicado na revista “Paraíso Terrestre”, edição 39, de 25 de agosto de 1952)
+Fuishō
+
+Confesso ter uma índole que me leva a sentir uma aversão fisiológica a animais como répteis e raposas. Nascido e criado em metrópole, a única vez que vi uma cobra viva foi através da vitrine de uma loja especializada, onde serpentes listradas e víboras, de aspecto semelhante a cordas, aguardavam o dia em que seriam transformadas em carvão medicinal. Mesmo aquele contorcer de seus corpos era suficiente para que eu desviasse o rosto ao passar. Se, por infortúnio, tais criaturas surgissem em meus sonhos, eu passava dois ou três dias com uma sensação de mal-estar que me impedia até de comer. Quanto às raposas, embora as tenha visto diversas vezes no zoológico de Ueno com meus filhos, aquele focinho de ar arrogante e astuto sempre me despertou um impulso de lhe dar um peteleco.
+
+Mesmo ao ver uma dama ostentando uma raposa em volta do pescoço, não posso deixar de pensar no gosto de uma baixeza e estupidez notórias, sentindo mais desprezo pela própria senhora do que pela raposa que deixou sua pele como legado. Portanto, a ideia de que essas criaturas detestáveis, após encerrarem sua existência terrena e partirem para o Mundo Espiritual, pudessem praticar as mais diversas perversidades contra o ser humano, o ápice da criação, tornava-as, a meu ver, ainda mais incorrigíveis.
+
+A terrível tenacidade das serpentes já me era conhecida. Recordo-me de, em criança, ter minha alma estremecida ao assistir a uma peça sobre um certo Kotaro, encenada num palco improvisado e precário, cujo enredo sobre o bem e o mal estava repleto de serpentes. Também tomei conhecimento da obstinação ofídica através de espetáculos de dança como o Dōjōji ou o de Anchin e Kiyohime. Contudo, sempre interpretei tais manifestações como meras materializações da força do pensamento humano. Para os de minha geração, as histórias de casamento de raposas, que ouvíamos como canções de ninar, são ainda uma doce lembrança. No entanto, essas narrativas e peças de teatro eram precisamente isso: contos, encenações, e não fatos reais ou contemporâneos. Todos nós, sem exceção, crescemos acreditando nisso. Certa vez, adquiri como raridade um antigo exemplar do *Nihon Ryōiki* e passei longas noites de outono imerso em sua leitura, mas concluí que tudo aquilo carecia de fundamento científico — aliás, a própria ciência ainda não existia. Senti apenas compaixão pela simplicidade e ingenuidade do pensamento de nossos ancestrais.
+
+Durante a guerra, ao me refugiar numa área rural, ouvi relatos sobre uma moça possuída por uma raposa e sobre uma anciã que usava esses animais para cometer furtos. Li também, nos jornais, notícias de que uma jovem possuída fora submetida a um ritual de defumação. Em todas essas ocasiões, lamentei em silêncio que, em plena era atômica, ainda houvesse pessoas aprisionadas a ideias tão absurdas.
+
+A bem da verdade, e confesso agora pela primeira vez, sentia um desejo de cobrir os olhos toda vez que encontrava, nas publicações da Messiânica — uma religião grandiosa, perfeita e sem paralelos no passado ou no presente —, palavras anacrônicas como raposa, serpente, tengu ou dragão divino. A própria Igreja Messiânica é uma grande religião do século XXI, um século à frente de nosso tempo; mencionar tengus e dragões divinos seria como retroceder da era da lâmpada elétrica para a dos antigos candis de papel. Cheguei a pedir, com toda a franqueza e sem rodeios, a um alto dirigente da Igreja que omitisse tais trechos ao menos do livreto “Crônicas da Fé”, obra introdutória para os novos fiéis, mas meu pedido foi prontamente recusado. Este sentimento não era exclusividade minha; era compartilhado por toda a classe intelectual com formação moderna. Ouvi, por diversas vezes, relatos de pessoas que, embora decididas a ingressar na fé messiânica, recuaram por considerarem este único ponto uma superstição, o que se tornou um obstáculo intransponível, frustrando sua conversão. A cada vez que ouvia tais histórias, eu suspirava, desolado.
+
+Em razão de uma afinidade predestinada, abracei a fé messiânica. No auge da emoção por ter sido salvo por Meishu-Sama, envolvi-me em debates com pessoas do mundo material, imersas na escuridão da descrença, e sentia uma tacanha satisfação em derrotá-las, expondo meticulosamente as razões pelas quais a Messiânica se sobrepõe a todas as outras religiões. Ainda hoje, por minha baixa condição espiritual, não superei completamente essa fase. Contudo, quando a discussão chegava aos temas de raposas e dragões divinos, minha postura se tornava defensiva. Por mais que me esforçasse em defender e argumentar, a derrota era inevitável, pois uma lógica desprovida de confiança e convicção carece de força e não consegue persuadir ninguém. Da mesma forma, quando ouvia relatos de outros membros sobre espíritos de raposa ou serpente, meu costume era escutar com um ceticismo dissimulado.
+
+Foi nesse contexto que Deus, para me conceder a confiança e a convicção que me faltavam e para me provar que os espíritos de raposas e répteis de fato causam males, e que, mesmo na era atômica, os Ensinamentos de Meishu-Sama são irrefutáveis, me proporcionou, de forma inesperada, um caso de estudo para um experimento prático. Tratava-se de duas senhoras: uma possuída por um espírito-raposa e outra atormentada por um espírito-serpente. Deixarei o caso do espírito-serpente para outra oportunidade e me dedicarei aqui a relatar o evento que comprovou a existência do espírito-raposa e as lições que dele extraí, a fim de que sirva de referência àqueles que nutrem dúvidas semelhantes às minhas.
+
+A pessoa possuída pelo espírito-raposa era uma senhora de quarenta e três ou quarenta e quatro anos, de nome Kawahara Saki (pseudônimo). Cerca de dois anos antes, ela havia contraído uma forma grave de sífilis e fora completamente curada através do Johrei. Contudo, por algum equívoco, passou a difamar a pessoa que a salvara junto aos membros da vizinhança. Pouco tempo depois, começou a ser atormentada dia e noite por um espírito-raposa.
+
+Inicialmente, ela buscou auxílio com o dirigente da Igreja Intermediária, um dos mais respeitados da região, e recebeu Johrei, mas seu quadro não melhorou. Com o tempo, sua situação financeira se deteriorou a tal ponto que já não tinha como pagar o transporte para ir à igreja. Seus parentes, sem saber o que fazer, chegaram ao extremo de considerar sua internação em um hospital psiquiátrico como única saída. Foi então que, como último recurso, um familiar a acompanhou até a casa do membro que a havia curado da sífilis para solicitar Johrei, e, por uma dessas coincidências do destino, eu me encontrava presente no local.
+
+O membro que a curara anteriormente, ao vê-la naquele estado lastimável, demonstrou a nobreza de sua fé, abandonou todo o ressentimento e solicitou minha colaboração para salvá-la. Como a senhora frequentara a movimentada Igreja Intermediária por um bom tempo, sua história já era famosa entre os membros da região, de modo que não havia um só que não soubesse de sua possessão. Foi nessa ocasião que ouvi os relatos de seus inúmeros comportamentos ultrajantes durante as sessões de Johrei. Consta que ela chegara a chamar o dirigente da Igreja pelo nome, sem qualquer reverência, gritando: "É bom ministrar Johrei direito!", e que, em outra ocasião, deitou-se no chão do Altar Divino enquanto esperava sua vez, dizendo em voz alta: "Vou esperar deitado, ora pois". Ao ouvir tais coisas, ainda que mantivesse minhas dúvidas sobre a existência de espíritos-raposa, a ideia de confrontar um deles me causou um leve arrepio.
+
+Observei a mulher possuída: seus olhos estavam repuxados para cima e suas pupilas moviam-se incessantemente. Ela murmurava algo em voz tão baixa que ninguém ao seu redor conseguia compreender. "Será uma doença mental?", ainda me perguntava, hesitante. "Reverendo Fuishō, por favor, ministre-lhe Johrei", pediram. Fui pego de surpresa. "O senhor deveria fazê-lo", tentei esquivar-me. "Eu não consigo. Se esta raposa é tão poderosa a ponto de tratar o dirigente da Igreja Intermediária daquela forma, somente o senhor poderá lidar com ela." Fui encurralado por suas palavras firmes e irrefutáveis. "Vim parar no lugar errado", pensei. Arrepender-se agora, contudo, era tarde demais. Levei algum tempo para recompor minha habitual audácia.
+
+"Ora, que seja! Vamos a isso", decidi, preparando-me para o que viria. Esforcei-me para recordar tudo o que já ouvira de outros membros sobre espíritos-raposa e os relatos das experiências de Meishu-Sama ao purificá-los. Minha mente, no entanto, divagava: "Se eu fosse um praticante do Sutra de Lótus, talvez devesse erguer um mandala sobre a cabeça dela e recitar as escrituras de subjugação". Pensamentos desconexos como este surgiam um após o outro, apenas perturbando minha concentração.
+
+Dois membros seguraram a mulher, que relutava em receber Johrei, e a sentaram à minha frente. "Se aquela raposa tratou um dirigente renomado daquela forma, o que dirá de mim?", pensei. "Se ela me disser algo como 'Um Zé-ninguém como você não serve para nada', estarei perdido." Até mesmo essa preocupação tola me ocorreu, mas eu estava num beco sem saída. Por um instante, afastei os pensamentos dispersos e, seguindo o procedimento padrão, comecei a ministrar Johrei em sua fronte, canalizando a Luz espiritual. Imediatamente, os olhos da mulher se repuxaram ainda mais, ela ergueu as mãos acima da cabeça e, fitando-me intensamente, recuou passo a passo, dizendo: "Oh, que medo! Este mestre é assustador!".
+
+"Consegui!", gritei em meu íntimo, sem qualquer premeditação. Avancei de joelhos, encurralando-a enquanto ela se afastava, e continuei a ministrar Johrei. A mulher tentava escapar arrastando-se para trás. Um dos membros a segurou e a forçou a sentar-se novamente à minha frente. Desta vez, porém, ela cruzou os braços diante do peito, como um homem, e me encarou com os dentes cerrados: "Então é assim? Ainda vai ministrar Johrei? Não deixarei que essa Luz penetre! Não vou perder! Vamos, resista!".
+
+Que estranho! A Luz, que até então fluía através de seu corpo, de repente pareceu ser bloqueada, como se eu estivesse ministrando Johrei em uma placa de ferro; simplesmente não passava. Entrei em pânico e, ao mesmo tempo, uma fúria tomou conta de mim. "Raposa desgraçada, se você tivesse um corpo físico, eu a capturaria e a transformaria em pele!", pensei. Com esforço, contive a força que a raiva ameaçava imprimir em minha mão de Johrei e, firmando minha postura, continuei a ministração, determinado a vencer aquela batalha de resistência.
+
+Após quarenta ou cinquenta minutos de um embate silencioso, o adversário cedeu. "Ah, perdi. Acabei perdendo", disse, descruzando os braços e pousando as mãos sobre os joelhos. Com o olhar baixo e sem força, suplicou: "Perdão. Eu sou uma raposa má. Perdoe-me". Recordando, porém, os ensinamentos de Meishu-Sama sobre não se deixar enganar por conversas ardilosas, permaneci em silêncio, sem interromper o Johrei. Então, o espírito voltou a me encarar com fúria: "Ainda vai continuar? O corpo está quente, vou ser queimado! Certo, vou resistir!". E, mais uma vez, cruzou os braços e me fitou, bloqueando novamente a passagem da Luz.
+
+Esse ciclo se repetiu três ou quatro vezes, e eu comecei a me sentir exausto. Concluí que não seria uma raposa que se renderia de uma só vez e decidi encerrar a sessão por aquele dia.
+
+Dediquei três dias de meu precioso tempo até que o espírito-raposa se rendesse. Descrever em detalhes os acontecimentos do segundo e do terceiro dia de Johrei apenas ocuparia espaço e não traria novidade para os membros que já tiveram experiências semelhantes, portanto, irei omiti-los. Registrarei apenas os pontos que me geraram dúvidas e as lições que aprendi.
+
+A raposa, que se autodenominou "uma raposa má", revelou o seguinte: "Mesmo que o senhor me mande sair, eu sou, originalmente, o espírito secundário desta mulher, portanto não tenho para onde ir". Quando sugeri: "Já que vai possuir alguém, por que não possui uma pessoa desprezível como Stálin, na Rússia, em vez desta pobre coitada?", ela respondeu: "Não quero gente má como ele. Eu quero me casar com esta mulher. Se não for possível, vou levá-la para o inferno e fazê-la caminhar sobre uma montanha de agulhas".
+
+Ao que retruquei: "Se você a levar para o inferno, você também irá para lá". "Nesse caso, desisto de levá-la", disse a raposa.
+
+O diálogo entre mim e a raposa, ao longo dos três dias, resume-se a isso. A partir de suas palavras, pode-se inferir que existem duas formas de possessão: uma causada pelo próprio espírito secundário, que se manifesta dessa maneira, e outra por uma entidade externa, como um servo de santuário Inari ou outro tipo de espírito-raposa.
+
+Os membros que testemunharam todo o ocorrido me pediram uma opinião, mas a verdade é que, a não ser que perguntemos a Meishu-Sama, não há como alguém como eu saber a resposta.
+
+A raposa também disse outra coisa. Dirigindo-se à mulher que possuía, a quem chamava de "tia", perguntou: "Tia, como você vai agradecer pelo Johrei? Você não tem um centavo sequer".
+
+Até mesmo uma raposa sabia que, ao receber o sagrado Johrei, era preciso expressar gratidão. Em contrapartida, existem seres humanos que, mesmo tendo suas doenças curadas, mesquinham na hora de agradecer, oferecendo o mínimo do mínimo. Alguns, ainda piores, apegam-se à desculpa egoísta de que "ajudar as pessoas é a obrigação de uma religião" e simplesmente não oferecem nada. Tais indivíduos são, de fato, inferiores a uma raposa.
+
+A raposa nos ensina ainda mais: "Na casa da tia tem um oratório budista, mas não tem a imagem de Kannon (観音), não é? Desse jeito, os antepassados não serão salvos". A importância de consagrar a Imagem de Kannon (観音) foi dita de tal forma que tanto eu quanto os demais membros presentes nos entreolhamos, atônitos e maravilhados.
+
+E houve também este outro fato. Em um momento em que a raposa se acalmara com o Johrei, a mulher começou a reclamar de outro membro. Imediatamente, a raposa se enfureceu: "Está vendo? O sangue que tinha acabado de se purificar com o Johrei ficou turvo de novo, na minha frente, só porque você falou mal de alguém!".
+
+A razão pela qual os fiéis devem vigiar suas palavras e ações cotidianas tornou-se límpida. Ao mesmo tempo, a raposa, vendo com seus próprios olhos o processo de purificação do sangue pelo Johrei, nos ensinou sobre ele.
+
+Enquanto lutava com o espírito-raposa por três dias, procurei manter a calma para observar a mulher. Tive a impressão de que ela também travava uma batalha constante contra o espírito. Embora a distância entre a casa dela e o local onde eu ministrava Johrei fosse de apenas duzentos ou trezentos metros, a raposa a perturbava no caminho, fazendo-a tropeçar e cair várias vezes. A cada queda, a mulher se levantava, gritando: "Maldita, está me atrapalhando? Maldita!", e seguia em frente até chegar à casa onde a Imagem da Luz Divina estava entronizada.
+
+Após o Johrei, nos momentos em que parecia retornar à sua consciência normal, ela discutia com o espírito, dizendo coisas como: "Eu sou humana! Você é um animal, não é?". Quando eu lhe perguntava: "O que a raposa está fazendo agora?", ela relatava os movimentos do espírito: "Está ouvindo o senhor com a língua de fora" ou "Está sentada na cadeira, anotando a Oração Amatsu-Norito". E ainda o repreendia: "Não seja desrespeitosa com o mestre!".
+
+"Dê-me um cigarro, por favor." A mulher estendeu a mão. Acendi-o e lhe entreguei. Ela deu uma tragada com visível prazer e, em seguida, levou o cigarro ao próprio ombro, dizendo: "Tome, para você também". Dizem que os manipuladores de raposas carregam uma *kudagitsune* (raposa-tubo) no ombro. Enquanto eu observava aquela cena, pensando ter visto o espírito se mover pelos vasos sanguíneos, senti por um instante que, de alguma forma, era eu quem estava sendo enganado.
+
+Se um psiquiatra examinasse essa mulher, certamente a diagnosticaria com esquizofrenia e a internaria em um manicômio. Isso me levou a pensar que, entre os pacientes de hospitais psiquiátricos, deve haver um grande número de pessoas que poderiam ser curadas pelo Johrei da Igreja Messiânica.
+
+Durante o Johrei do segundo dia, um mensageiro de minha casa trouxe um telegrama. Ao abri-lo, vi que era de um conhecido em estado crítico, pedindo minha presença imediata. "Se eu interromper o Johrei e for embora, a raposa recuperará as forças... Que situação difícil", pensei. E não é que, no mesmo instante, a raposa desgraçada percebeu meus pensamentos e se alegrou? "O mestre já vai embora, então vamos resistir!", exclamou. A proficiência daquele espírito em telepatia e clarividência me despertou um sorriso amargo, uma mistura de irritação e inveja.
+
+Através do caso de estudo que Deus me proporcionou, passei por um treinamento de três dias. Pude constatar que os Ensinamentos de Meishu-Sama são a mais pura expressão da Verdade, sem o menor desvio. O nome da Igreja Messiânica é também chamado de "Ohikari-Sama" (Senhora Luz), e não apenas os fiéis do Mundo Material, mas também os inúmeros espíritos do Mundo Espiritual estão sendo salvos. O extraordinário poder espiritual do Johrei e as milagrosas manifestações de nosso Deus são tão bem compreendidos que até mesmo os espíritos de animais do Mundo Espiritual os conhecem. Aqueles que nos acusam de superstição e religião maligna são apenas os seres humanos, que se orgulham de seu ínfimo conhecimento e se envaidecem por acreditar na ciência atômica — muito aquém da era da partícula espiritual — como o bem supremo. Fui ensinado sobre tudo isso, de forma esplêndida, por um espírito animal.
+
+A existência de espíritos-raposa, na qual eu não conseguia crer, contaminado por um conhecimento superficial, e a realidade da possessão, que eu considerava superstição, eram, afinal, verdadeiras. Não importava o quanto duvidássemos, os espíritos-raposa existiam. Para além daquelas raposas do zoológico, com seu ar de desdém, e das que se transformam em estolas para senhoras, o espírito-raposa existia como uma realidade concreta.
+
+Nos Ensinamentos de Meishu-Sama, não havia o menor equívoco. Não são apenas os ateus que se recusam a acreditar no que não podem ver. Até o momento em que Deus me permitiu, diante de todos, purificar e expulsar um espírito-raposa, eu mesmo duvidava de sua existência. Por isso, pedi perdão a Deus por minha insensatez e pela superficialidade de minha fé.
+
+Para concluir, este ensinamento do espírito-raposa gerou uma grande colheita: uma pessoa decidiu imediatamente receber a Imagem de Kannon (観音) e outra, que hesitava em ingressar na fé, sentiu-se tocada pelo poder do Johrei e tornou-se membro. E acrescento um último detalhe: o dia em que o espírito se manifestou foi, providencialmente, 15 de junho, data em que o Mundo Espiritual, até então envolto em confusão e obscuridade, acolheu o seu alvorecer definitivo. Com esta nota, encerro meu relato.
+
+---
+
+# Coletânea de Artigos do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
+**Título Original:** 定例布教座談会 （第三回） | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
+
+## Coletânea de Artigos do Reverendo Jikan Okada
+Busca de Ensinamentos: help | Busca de Documentos:
+
+## Mesa-redonda Periódica de Difusão (Terceira Sessão)
+
+**Revista Eikō, nº 195, 11 de fevereiro de 1953**
+
+**Data:** 5 de janeiro de 1953
+**Local:** Sede da Igreja Tyu Chōsei (Hakone, Gōra)
+**Orientador:** Kihara Yoshihiko, Presidente da Igreja
+**Moderador:** Ogawa Eitarō, Ministro Responsável da Igreja Tyu Kōyō
+**Participantes:**
+Nagatsugu Utarō, Ministro Responsável da Igreja Tyu Chōsei
+Otsuki Kyōji, Ministro Responsável da Igreja Tyu Kōsei
+Yumoto Eisaku, Ministro Responsável da Igreja Tyu Kakumei
+Ishizaka Takaaki, Ministro Responsável da Igreja Tyu Ryūkō
+Hiraoka Kōji, Ministro Responsável da Igreja Tyu Shin’ei
+Hara Seisaku
+
+***
+
+### ◇ A Montanha da Luz e a Montanha das Trevas
+
+**Ogawa:** É com grande júbilo que damos início à primeira mesa-redonda periódica deste novo ano. Desde que passei a frequentar estas reuniões, tenho sido agraciado com imensas bênçãos em minha vida prática, pelas quais sou profundamente grato. Agradeço a felicidade de poder servir e, transbordando de vigor, saudei o ano de 1953. Rogo para que estes encontros prossigam no decorrer deste ano, permitindo-nos servir ainda mais a Meishu-Sama.
+
+**Kihara:** Hoje, no dia em que recebemos o primeiro Ensinamento deste ciclo, gostaria que discutíssemos nossas reflexões e as graças que nos foram concedidas por meio dele. O tema de hoje versou sobre o falecimento do Príncipe Chichibu. Em síntese, o Ensinamento expôs que o remédio é a raiz de toda a infelicidade e que, sob a perspectiva da longevidade, personalidades de tal magnitude são, na verdade, desafortunadas. Qual foi a impressão dos senhores a esse respeito?
+
+**Ogawa:** Recentemente, fomos agraciados com a dissertação “A Felicidade dos Fiéis de Nossa Igreja”, e temos vivido nossos dias felizes sob a Divina Proteção. O Ensinamento de hoje corroborou a convicção de que a felicidade que recebemos não é algo que se possa experimentar por meio de títulos de nobreza ou altos postos no governo; trata-se, na verdade, da felicidade suprema e inigualável, um privilégio concedido apenas àqueles que se devotam a Deus. Senti um profundo remorso ao perceber que, mesmo recebendo uma dádiva tão grandiosa, minha gratidão não brotava com a intensidade devida. Tornei-me cônscio do imperativo de levar esta verdade ao maior número de pessoas possível.
+
+**Yumoto:** Minha percepção é a de que a humanidade, ainda desconhecedora do verdadeiro Deus, superestima a honra e a posição social, tratando-as como bens de valor incalculável. Nós, contudo, envolvidos pelo manto da infinita compaixão de Meishu-Sama — a própria manifestação de Deus —, podemos servi-Lo diariamente sem qualquer tipo de apreensão. Não há outra forma de nos descrevermos senão como as pessoas mais felizes do mundo. A felicidade de príncipes e magnatas, em comparação, revelou-se para mim tão efêmera quanto a espuma do mar.
+
+**Otsuki:** É profundamente lamentável que personalidades tão ilustres sejam ceifadas deste mundo por uma medicina equivocada. Diante disso, nós, incumbidos de propagar o Caminho, devemos enfatizar com ainda mais veemência os malefícios da medicina e difundir ativamente os Ensinamentos. É nosso dever conscientizar a humanidade para que tragédias como essa cessem o mais rápido possível.
+
+**Ishizaka:** Corroboro as palavras dos demais ministros. Ao refletir sobre o fato de uma personalidade como o príncipe, que apesar de possuir um elo com Meishu-Sama, ter sua vida tolhida por um sistema que o impediu de buscar a salvação, sinto uma espécie de justa indignação e uma imensa compaixão. Ao mesmo tempo, volto o olhar para minha própria trajetória: eu, que me encontrava em estado terminal devido à tuberculose pulmonar, fui salvo e tive a ventura de ser utilizado nesta nobre Obra Divina. Esse pensamento renovou em mim um profundo sentimento de gratidão.
+
+**Nagatsugu:** Embora eu compartilhe da mesma opinião dos senhores, um pensamento se destacou em minha mente. Para que possamos salvar um grande número de pessoas, é imprescindível que os Ensinamentos de Meishu-Sama sejam transmitidos de forma a persuadir também as classes intelectuais. Sempre me esforcei para tal, mas agora sinto que, se não aprimorar ainda mais essa capacidade, estarei em dívida com a minha missão.
+
+**Kihara:** Foi mencionado que Meishu-Sama esteve prestes a visitar o príncipe, com os detalhes da visita já definidos, mas que, ao final, o encontro não se concretizou. Se analisarmos essa questão a fundo, concluiremos que a montanha em que nós estamos e a montanha em que eles se encontram são fundamentalmente diferentes. Portanto, o fato de a visita ter chegado a esse ponto de quase realização pertence ao mundo dos homens. Ou seja, do ponto de vista material, parecia que 99% do caminho estava percorrido, mas, no fim, não foi possível. Se traçarmos uma linha reta entre dois pontos de mesma altitude em cada montanha, ambos parecerão estar no mesmo nível. Contudo, a verdade é que aqueles que se encontram nos pontos mais altos da outra montanha são dignos de compaixão, pois, na realidade, estão mais distantes de Deus do que aqueles que se encontram nos pontos mais baixos da nossa.
+
+Alguns podem pensar que, se o príncipe fosse curado, a Obra se expandiria enormemente na alta sociedade. Talvez isso fosse verdade, mas o ponto crucial reside na atitude mental que adotamos. Considerar Meishu-Sama e as grandes personalidades da sociedade atual como entes próximos revela uma compreensão insuficiente. A razão primordial pela qual Ele afirmou não ter podido ir foi a ausência da permissão Divina. O Mundo de Deus é imparcial. Disso, depreende-se que, para os impuros, não há distinção de status social. É fundamental que compreendam essa verdade basilar.
+
+O Ensinamento de hoje foi, do início ao fim, sobre como o remédio é a raiz de tudo. A guerra, a doença, a degeneração da inteligência, a primazia da matéria sobre o espírito na humanidade — tudo provém do remédio. O fruto proibido é o remédio. Essa é a essência da lição de hoje.
+
+Nós temos a graça de receber a Luz Divina e Johrei ao menos uma vez a cada dez dias; eles, contudo, sequer podem vir. Embora verbalmente digam que não vêm por vontade própria, a verdade é que lhes falta a permissão de Deus. É através dos Ensinamentos que devemos reconhecer a Divindade de Meishu-Sama. Se não internalizarmos profundamente essa verdade, nossa atitude mental para com Deus incorrerá em um erro gravíssimo. Atribuir a culpa ao sistema ou a outras circunstâncias é tratar apenas da superfície. Contudo, o fato de terem criado um sistema que impede a aproximação a Deus é, em si, um problema de enorme magnitude. Estar em estado de infelicidade é consequência das impurezas, e possuir impurezas significa ocupar uma posição inferior no Mundo Espiritual. Preocupar-se com a doença já é, em si, um estado de infelicidade. Nós não nos preocupamos com a doença; ao contrário, agradecemos por ela ser um processo de purificação. Apenas nisso já reside uma diferença abissal, como a que existe entre o Céu e o Inferno. Ao ponderar sobre isso, compreendemos quão afortunados somos e, ao mesmo tempo, sentimos brotar do fundo da alma a necessidade de retribuir com a máxima sinceridade. Em última análise, os mais diversos problemas surgem porque as pessoas desconhecem que Meishu-Sama é a própria manifestação de Deus, e esse desconhecimento é, em si, um reflexo de suas impurezas.
+
+Recentemente, em um estabelecimento que vendia os doces “Paraíso”, havia um cartaz com os dizeres: “Recomendado por Meishu-Sama”. Mandei que o removessem. Esse episódio também nos leva a refletir sobre a necessidade de que todos compreendam a Divindade de Meishu-Sama. Ele não é apenas o Deus da Igreja Messiânica; poderíamos dizer que Ele é o Deus do Universo. Utilizar Seu nome para promover um doce é um despropósito absoluto. Deus é imparcial; os outros fabricantes de doces também vivem sob o influxo do poder de Meishu-Sama. Aos olhos de Deus, todos são iguais. Quando há pessoas que não conseguem ser salvas, Ele dedica a elas uma atenção ainda maior. É por haver quem não alcance a salvação que Ele escreve Suas dissertações, movido pelo grandioso sentimento Divino de salvar a todos, até os confins da Terra. Portanto, não se trata de ser Deus apenas para a Igreja Messiânica e não para as outras religiões. Ele é Deus também para as outras religiões; a única diferença é que elas ainda não conhecem a verdade. Em outras palavras, até hoje, Deus enviou mensageiros de acordo com a época, o local e a posição. Mas como o mundo se tornou um domínio da primazia da matéria sobre o espírito, caminhando para a destruição inevitável, desta vez Ele veio pessoalmente. Essa é a verdade.
+
+Há quem, ao pensar em Amida, Cristo e Meishu-Sama, os coloque em um mesmo patamar, como vizinhos. Isso é um erro colossal. A diferença entre eles é, na verdade, a que existe entre um mestre e seus servos. Quando essa verdade está verdadeiramente arraigada em nosso ser, a primeira coisa que muda é a nossa proteção Divina. Consequentemente, tudo passa a correr bem. A atitude mental em relação a Meishu-Sama é o alicerce de tudo, e os senhores devem mantê-la firmemente em seus corações. Afinal, foi por meio de Meishu-Sama que Deus se manifestou pela primeira vez na face da Terra. Apenas o fato de carregarmos conosco o Senhor desse poder já é motivo para não nos permitirmos a negligência.
+
+***
+
+### ◇ Sobre o "Não Aplicar Força"
+
+**Kihara:** Hoje também recebemos um Ensinamento sobre Johrei, a respeito de não aplicar força. Como os senhores transmitem essa orientação aos fiéis?
+
+**Ogawa:** Explico que, por sermos intermediários da Luz de Meishu-Sama, se nos tornarmos verdadeiramente como um poste de telégrafo, receberemos o poder necessário.
+
+**Kihara:** Exato. Basta manter o pensamento: “Meishu-Sama, por favor”. A súplica deve ser feita com o máximo fervor, mas, uma vez feita a prece, devemos nos ver como uma máquina terapêutica. E então, ministrar sem aplicar força. Contudo, se ficarmos repetindo insistentemente “por favor, Deus, por favor, Deus”, também não dará certo. Nesse caso, a força acaba indo para as mãos. E, em momentos assim, pode-se dizer que a pessoa está, no fundo, duvidando se seu pedido foi ouvido.
+
+**Ogawa:** Recentemente, minha mente se tornou mais serena ao ministrar Johrei. Se a pessoa não melhora, penso que é devido à sua atitude mental equivocada ou à insuficiência de gratidão e sinceridade na retribuição. Esse raciocínio me deixou mais tranquilo.
+
+**Kihara:** Antigamente, eu tive a presunção de pensar: “Como pode alguém não se curar, se sou eu quem está ministrando?”. Creio que todos passam por essa fase. No entanto, em termos relativos, essa confiança pode ter algum cabimento. Por exemplo, alguém pode pensar: "Tenho mais confiança do que fulano em minha capacidade de ser um canal puro ao orar a Meishu-Sama...”. Mas uma pessoa com tal convicção já deveria ter solucionado em sua própria vida os problemas de doença, pobreza e conflito.
+
+**Otsuki:** Seria o mesmo que a luz do Sol atravessar um vidro fosco ou um vidro embaçado, não é?
+
+**Kihara:** Exatamente.
+
+**Hara:** Após receber o Ensinamento de hoje, fui ministrar Johrei e, mantendo essa orientação em mente, tive a impressão de que a melhora foi significativamente maior.
+
+**Kihara:** A própria expressão que o senhor usou, “ministrei Johrei”, na realidade, não é a mais apropriada. O correto seria “foi-me permitido ministrar Johrei”. Alguém pode argumentar que essa era sua intenção, mas o que se manifesta nas palavras reflete o que habitualmente se pensa. O Japão é a terra onde a palavra-espírito floresce, e aquilo que verbalizamos se manifesta na realidade. Todos nós temos esse vício de linguagem, e é preciso corrigi-lo.
+
+**Ogawa:** Se o sentimento não for sincero, ele não se manifesta nas palavras. Por isso, às vezes, ao ouvir alguém falar, percebo que algo não está certo.
+
+**Kihara:** Isso provavelmente ocorre porque seu espírito está se purificando. Por isso, o senhor consegue discernir imediatamente o que está por trás das palavras. O importante é manter sempre a atitude de que nos é “permitido” realizar as coisas. E, quando nos apresentamos diante de Meishu-Sama, é essa atitude mental que se manifesta.
+
+**Ogawa:** Ultimamente, sinto que usar o verbo na forma ativa, como se a ação partisse de mim, é uma grande presunção.
+
+**Hiraoka:** É exatamente isso. Quando penso a respeito, sinto-me imensamente em falta.
+
+**Kihara:** Portanto, quando se der conta de que usou o verbo na forma ativa, corrija-se imediatamente para a forma passiva, de quem recebe a permissão. Assim, o canal se tornará cada vez mais desobstruído. Isso é, em essência, o que significa "retirar a força". É transformar-se verdadeiramente em um robô a serviço de Deus. Com isso, a proteção Divina se aprofunda, e tudo flui com suavidade.
+
+***
+
+### ◇ Tudo é Realizado por Deus
+
+**Kihara:** Foi-nos ensinado que o fruto proibido é o remédio. Reflitamos um pouco sobre como o uso de medicamentos leva à primazia da matéria sobre o espírito. Nosso corpo nos foi dado por Deus. Ao nos apegarmos a Ele, vivemos sob a primazia do espírito sobre a matéria. O remédio, por sua vez, é matéria. Quando passamos a venerar uma substância, colocamo-nos em uma posição inferior a ela, o que inevitavelmente resulta na primazia da matéria sobre o espírito e, consequentemente, no acúmulo de impurezas. Certa vez, quando alguém comentou que “minhocas são boas para baixar a febre”, Meishu-Sama respondeu: “Então coloque as minhocas no Altar e ore para elas”. Portanto, se tivermos em mente que o remédio gera impurezas e, por outro lado, leva à primazia da matéria sobre o espírito, essa verdade se tornará ainda mais clara sob a perspectiva da fé.
+
+Em última análise, as pessoas que hoje ocupam altas posições são infelizes não apenas no que tange à vida, mas em todos os aspectos. Por quê? Porque Meishu-Sama afirma que o mundo está profundamente equivocado e que Ele veio para corrigi-lo, transmitindo a Verdade. Logo, as pessoas de alto escalão estão no cume da montanha do erro. Quando compreendemos isso, percebemos quão afortunados somos. Mas será que basta nos contentarmos com essa felicidade? Creio que não. Sentimos que, se não nos dedicarmos ainda mais, conforme a Vontade de Meishu-Sama, estaremos em débito.
+
+Além disso, a causa de toda infelicidade é o fruto proibido, ou seja, o remédio. Suspeito que existam pessoas que não compreendem plenamente a gravidade dessa questão. Há quem diga que não se pode exigir que pessoas habituadas a tomar remédios parem de uma vez. A meu ver, isso denota uma falta de conhecimento real sobre o quão terríveis são os medicamentos. Contudo, diante da clareza com que Meishu-Sama tem se pronunciado sobre o assunto, como no dia de hoje, não há mais espaço para hesitação. Temos o dever de transmitir essa verdade de forma inequívoca. Este ano, foi publicado o livro “Salvando a América”, e os pronunciamentos de Meishu-Sama são cada vez mais diretos. Nós também devemos adotar essa postura clara e decidida.
+
+No entanto, é preciso ter cuidado para não cometer um erro: a obstrução à prática médica. Não podemos dizer “não tome remédios” ou “não vá ao médico”, mas creio que não há problema em expor a tese de que “o remédio é algo terrível”. E, se a própria pessoa decide parar por iniciativa própria, nada podemos fazer.
+
+Outro ponto importante é a necessidade de extrema atenção ao ministrar Johrei. A falta de atenção é, em última análise, fruto do ego e do apego. Por exemplo, se um familiar do doente diz que seria melhor levá-lo ao médico, e o ministro insiste em continuar o Johrei enquanto tenta convencê-lo do contrário, o desfecho pode ser desastroso. Deus sempre nos envia avisos antes que algo aconteça. Em tais situações, em vez de argumentar, é mais sábio bater em retirada com elegância. Se a oposição for generalizada e o estado do doente piorar, para evitar problemas com atestados médicos, o mais prudente é sugerir que procurem um médico para obter um diagnóstico e, depois, ajam como acharem melhor. Devemos abandonar a atitude equivocada de pensar: “Preciso curar esta pessoa para não manchar minha reputação”. Tudo é realizado por Deus. A salvação de alguém depende, em parte, de nós, mas, segundo a Lei da Primazia do Espírito sobre a Matéria, a decisão final está nas mãos da própria pessoa. Portanto, não há por que sermos rígidos. O essencial é a obediência e a humildade. Se observarmos esse princípio, que peço a todos que sigam rigorosamente, teremos a proteção de Deus em todas as situações.
+
+**Ishizaka:** O Ensinamento mencionou que as pessoas, por ignorância, cometem atos suicidas (ao tomar remédios) enquanto desejam ser salvas. Será que essa lógica não se aplica a nós quando, em nosso afã de expandir a Obra, acabamos obtendo resultados contrários ao desejado?
+
+**Kihara:** Creio que essa analogia não se aplica diretamente ao caso.
+
+**Ishizaka:** Mas, pensando em conexão com o tema, não seria a ignorância a causa de resultados adversos e do surgimento de diversos problemas?
+
+**Kihara:** De modo geral, o surgimento ou não de problemas depende da existência ou não da proteção Divina. Se duas pessoas fazem a mesma coisa, mas uma enfrenta problemas e a outra não, a diferença reside na intensidade da proteção que cada uma recebe. É por isso que a atitude mental em relação a Meishu-Sama é o fator mais crucial. Quando há um desvio nessa atitude, Deus permite que surjam problemas.
+
+A propósito, ouvi alguém dizer que o número de participantes nos seminários diminuiu por causa da recessão. Visto por outro ângulo, o aumento do número de pessoas infelizes é, na verdade, positivo. Em tempos de prosperidade, quando qualquer negócio dá lucro, as pessoas não se sentem inclinadas a orar a Deus. Mas, quando a recessão chega, em meio ao sofrimento, elas buscam se apegar a algo e acabam ingressando na nossa Igreja. Portanto, é um equívoco concluir que a situação está ruim por causa da recessão. Tudo é conduzido por Deus. Seja na recessão ou na prosperidade, na deflação ou na inflação, para nós tanto faz. Pela Lei da Primazia do Espírito sobre a Matéria, não existe infelicidade por causa da deflação nem felicidade por causa da inflação. Essa lei nos mostra que qualquer cenário é indiferente. Sem essa convicção, a base da nossa fé se abala.
+
+Ouve-se muito sobre ganhar dinheiro com ações, mas a riqueza obtida por esses meios não perdura. O dinheiro, assim como tudo o mais, flui de acordo com o nível espiritual de cada um. Portanto, mesmo que se ganhe uma fortuna com ações, ela se esvairá na mesma proporção do nível espiritual da pessoa. Essa é a Lei da Primazia do Espírito sobre a Matéria.
+
+**Yumoto:** Por mais simples que pareça, há coisas que são verdadeiramente difíceis de compreender.
+
+**Kihara:** Sim. Eu mesmo falo como se entendesse, mas, na prática, muitas vezes falho.
+
+**Otsuki:** Gostaria de fazer uma pergunta sobre os seminários. Recebemos as novas diretrizes. Qual seria a forma correta de conduzi-los?
+
+**Kihara:** Creio que devemos parar de ministrar Johrei durante os seminários. Se for necessário, que se faça em uma sala ao lado. Quanto às diretrizes, elas devem ser lidas por nós. Ao fazê-lo, devemos ter em mente que existem muitos espíritos equivocados no Mundo Espiritual e, por isso, ler com a intenção de que as palavras ressoem por todo o mundo. O conteúdo deve ser dividido para o primeiro, segundo e terceiro dias. Também será preciso responder a perguntas. Nesses casos, o ideal é identificar a dissertação mais adequada para a questão e lê-la com essa mesma intenção universal.
+
+**Yumoto:** Qual deveria ser a duração diária do seminário?
+
+**Kihara:** Como há pessoas ocupadas, para aquelas que realmente não podem ficar mais tempo, duas horas seriam suficientes.
+
+**Yumoto:** Seria possível dividir em uma sessão pela manhã e outra à tarde?
+
+**Kihara:** Sim, desde que não se considere que isso equivale a dois dias de seminário. Alguém que comece no segundo dia pode completar o terceiro e, depois, participar do primeiro dia em outra oportunidade para finalizar o ciclo de três dias.
+
+**Yumoto:** Caso o ministro responsável pelo seminário não saiba ler ou não leia bem, seria permitido que um substituto fizesse a leitura?
+
+**Kihara:** Se a pessoa não consegue ler sequer aquele texto, não possui qualificação para ministrar o seminário. A leitura não é algo que possa ser delegado. Se um substituto for ler, que ele mesmo ministre o seminário.
+
+**Ishizaka:** Seria aceitável realizar os três dias de seminário em semanas consecutivas, por exemplo?
+
+**Kihara:** Em casos especiais, com a devida permissão, seria possível. No entanto, nunca vi bons resultados com essa prática. O número três está associado ao nascimento. Fazer o seminário de forma fragmentada seria como dar à luz a cabeça em um dia e o tronco uma semana depois. O ideal é que seja consecutivo. Receber o seminário é a coisa mais importante que existe; adiá-lo é algo muito sério. Mas, como não podemos dizer isso diretamente à pessoa, não há o que fazer.
+
+Bem, por hoje, encerremos por aqui.
+
+**Todos:** Muito obrigado. Contamos com sua orientação contínua.
+
+---
+
+# Coletânea de Artigos de Okada Jikan-Shi – Pesquisa de Ensinamentos: help – Pesquisa de Materiais: Posfácio do Editor (Paraíso Terrestre 59)
+
+**Categoria:** sanko | **Ano:** 昭和29(1954)年6月15日 | **Fonte:** Chijo Tengoku
+**Título Original:** 編集後記 （地上天国59） | **Status:** Published | **Edição/Página:** 59号 | **Data ISO:** 1954-06-15
+
+## Coletânea de Artigos de Okada Jikan-Shi – Pesquisa de Ensinamentos: help – Pesquisa de Materiais: Posfácio do Editor (Paraíso Terrestre 59)
+
+Revista *Paraíso Terrestre*, nº 59, publicada em 15 de junho de 1954
+
+◎ Por meio desta, vimos apresentar nossas escusas pelo inevitável atraso na publicação do jornal Eikou Shimbun e da revista Paraíso Terrestre, decorrente do processo de purificação de Meishu-Sama. Contudo, enquanto rogamos a Meishu-Sama que prolongue Seu repouso por mais algum tempo, anunciamos que toda a equipe editorial assumirá a responsabilidade de dar continuidade às publicações. Diante do exposto, solicitamos a compreensão e a colaboração de todos os nossos leitores.
+
+◎ Embora o corpo físico de Meishu-Sama se encontre em meio ao processo de purificação, ao refletirmos sobre o fato de que Seu Espírito Primordial e Seus Espíritos Protetores, em constante unidade com o Deus Supremo, velam por nós, Seus fiéis, e atuam incessantemente para a construção do Paraíso Terrestre, nós, membros da Igreja Mundial do Messias, somos tomados por uma alegria suprema e uma profunda comoção. Nesse sentido, os fiéis que compreendem profundamente esta verdade reúnem-se invariavelmente na Sede Provisória de Sakimi-cho nos dias de oração regulares. Ali, não apenas oferecem suas preces com a mais profunda sinceridade, mas também ouvem, em atitude de reverente concentração, as gravações dos Ensinamentos de Meishu-Sama ou a leitura realizada pelo Presidente e demais diretores.
+
+◎ A primazia do espírito sobre a matéria constitui o alicerce dos Ensinamentos de nosso Mestre, Meishu-Sama. Portanto, nós, Seus fiéis, reverenciamos Seu Corpo Espiritual através de Seu corpo físico. Cremos firmemente na atuação e proteção incessantes desse mesmo Corpo Espiritual e, por essa razão, encontramos o verdadeiro sentido de nossa existência em nos devotarmos de corpo e alma à missão divina de Meishu-Sama: a construção do Paraíso Terrestre.
+
+(S. M. Sei)
+
+---
+
+# Realiza-se a Cerimônia de Comemoração do Natalício de Meishu-Sama
+
+**Categoria:** sanko | **Ano:** - | **Fonte:** Eikou
+**Título Original:** 明主様御降誕祭行わる | **Status:** Published | **Edição/Página:** 290号 | **Data ISO:** -
+
+## Realiza-se a Cerimônia de Comemoração do Natalício de Meishu-Sama
+
+*Eikou*, nº 290, 5 de janeiro de 1955
+
+A Cerimônia de Comemoração do Natalício de Meishu-Sama foi celebrada no dia 23 de dezembro de 1954. Sob um céu de anil, sem uma única nuvem, o evento teve lugar no Salão Messiânico de Zuiunkyo, em Atami, praticamente concluído.
+
+***
+
+Nesse dia, para expressar suas felicitações, fiéis provenientes dos mais remotos rincões de todo o país começaram a se reunir. A partir das duas horas da madrugada, indiferentes ao cansaço da jornada, já subiam em direção ao salão. Às cinco horas, graças à gentileza da Companhia Ferroviária Hakone Tozan, diversos ônibus iniciaram o transporte dos fiéis da estação ao salão, conferindo à estrada de Momoyama, habitualmente tranquila, uma agitação extraordinária.
+
+Aguardando em Zuiunkyo a alvorada, os fiéis adentraram o salão às seis da manhã, quando seus portões foram abertos. Toda a agitação dos preparativos do dia anterior havia desaparecido, graças ao trabalho de uma equipe de dedicados que, labutando quase a noite inteira, deixaram o ambiente impecavelmente limpo e purificado, irradiando uma atmosfera ainda mais sublime.
+
+Cerca de trinta minutos depois, ao saírem, depararam-se com o céu a leste que, aos poucos, se tingia de luz. Logo, de um horizonte sem nuvens, emergiu um sol carmesim que delineou com nitidez a silhueta do Protótipo do Paraíso Terrestre. O panorama do astro-rei a iluminar o Altar de Cristal, de um branco imaculado, e o Salão Messiânico, acrescentava uma beleza singular à já deslumbrante paisagem. Essa visão despertava uma sensação de ascensão aos céus, como se fôssemos seres imortais, e o sentimento de que ali se encontrava o verdadeiro paraíso da arte. Com o coração renovado, sentíamo-nos profundamente gratos pela permissão de ali estar.
+
+Às oito horas da manhã, a Imagem Sagrada de Senju Kannon (千手観音) foi devidamente entronizada no *tokonoma* do recém-inaugurado salão, pelas mãos do Reverendo Presidente e do Reverendo Kihara. A perfeita harmonia entre a Imagem Sagrada, o *misu* e o *tokonoma* conferiu ao ambiente uma dignidade ainda maior, arrancando dos fiéis suspiros de indizível admiração.
+
+Foi-nos informado que esta Imagem Sagrada correspondia àquela que Meishu-Sama descreveu em seu escrito "Crônicas de Jikan – O Caminho da Luz". Ademais, ao recordarmos o ensinamento que outrora recebemos do Mestre, segundo o qual o dia 23 de dezembro, por ser o solstício de inverno, marca o dia mais curto do ano, e que, a partir dele, a luz do dia volta a se expandir. Assim, o dia 22 representaria o fim da noite, e o 23, o início do dia, podendo-se considerar esta data o verdadeiro Ano-Novo para a Sekai Kyusei Kyo. Refletir sobre tais palavras conferia à cerimônia daquele dia um significado ainda mais profundo.
+
+Pontualmente às 10h50, a voz que anunciou a chegada de Meishu-Sama fez com que, por um instante, todos retesassem o corpo e curvassem a fronte em respeitosa expectativa. O coração dos fiéis palpitava de alegria pela oportunidade de revê-Lo após seis meses, desde o dia 15 de junho. Iniciava-se, enfim, a cerimônia do século.
+
+Assim que Meishu-Sama tomou Seu assento, o Reverendo Presidente, em nome de todos os fiéis, proferiu as palavras de felicitação, expressando gratidão pela proteção diária e rogando por Sua contínua benevolência. Diante do Mestre, que retribuiu com um leve aceno de cabeça, a emoção nos oprimia o peito, tornando-se impossível conter as lágrimas que brotavam. Em seguida, o Reverendo Presidente conduziu a entoação da Oração Amatsu Norito, cujas palavras reverberaram pelos céus, preenchendo toda a montanha. Sucedeu-se a oferenda do *Tamagushi* pelo Reverendo Kihara, e, ao término, Meishu-Sama Se retirou.
+
+Logo após, foram anunciados quatro poemas, uma oferenda da Senhora Okada para a celebração daquele dia; os dois primeiros foram compostos por ela em nome de Meishu-Sama. O Reverendo Kihara, com sua entonação fluida e melodiosa, declamou-os em nome dela. A profundidade dos sentimentos da Senhora Okada, ali revelada, comoveu a todos, e restava-nos apenas chorar de gratidão. Por fim, o Reverendo Presidente proferiu suas palavras de encerramento, e a cerimônia concluiu-se em um ambiente de profunda solenidade.
+
+***
+
+Encerrada a cerimônia, com o peito transbordando da emoção do dia, dedicamo-nos a contemplar a paisagem do Protótipo do Paraíso Terrestre e a visitar o Altar de Cristal, concluído no dia 11 do mês anterior. Ouviam-se, por toda parte, os comentários dos fiéis: "É maravilhoso... As palavras não podem descrever. É preciso vir e ver para compreender". As palavras de admiração pela contínua transformação de Zuiunkyo eram incessantes. De fato, as mudanças são tão rápidas que, mesmo ausentando-se por apenas dois ou três dias, já se nota uma surpreendente diferença. É, portanto, natural que, em poucos meses, o local se transforme por completo.
+
+Dessa forma, as atividades do dia transcorreram e se encerraram em plena ordem. Os cerca de seis mil participantes, com os corações renovados e ardendo no desejo de servir, iniciaram, em pequenos grupos, sua jornada de retorno.
+
+(Correspondente Sakemi)
+
+---
+
+# Fenômeno Inusitado na Lavoura: O Daikon Ruma para o Norte
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年4月4日 | **Fonte:** Eikou
+**Título Original:** 参考文献 農耕異変「大根」北へ行く | **Status:** Published | **Edição/Página:** 98号 | **Data ISO:** 1951-04-04
+
+## Fenômeno Inusitado na Lavoura: O Daikon Ruma para o Norte
+**Coleção de Ensaios do Reverendo Okada Jikan**
+*Glória*, nº 98, 4 de abril de 1951
+Yuji Koike (36), Sede da Igreja Seiwa Naka, Tóquio
+
+Com o devido respeito à indelicadeza da comparação, basta mencionar o “Daikon de Nerima” para que a associação com as pernas robustas de uma senhora seja quase imediata, tamanha a fama de sua espessura. Originário da região do vilarejo de Shimo-Nerima, no distrito de Kita-Toshima, na antiga e grandiosa Edo, o nome desse rabanete deriva de sua terra natal. Sua cor e sabor excelentes o tornam ideal não apenas para o picles *takuan*, mas também para pratos cozidos e para o *furofuki*, servido com missô de *yuzu*. Contudo, isto é apenas uma digressão, e não pretendo tecer aqui um tratado sobre rabanetes. Segundo contam os anciãos da região, foi durante o governo do clã Tokugawa que o ilustre monge Takuan Sōhō, ao residir no templo Kinjō-ji, no vilarejo de Nerima, voltou sua atenção para o rabanete que ali se produzia. Após engenhosas pesquisas para desenvolver um método de conservação prolongada, teria dado origem ao que hoje conhecemos como o picles *takuan*.
+
+Rememorando o passado, é de se supor que, em tempos idos, com a terra fértil e a ausência de fertilizantes químicos, a magnificência divina daquela produção tenha causado assombro até mesmo no reverendo Takuan. Todavia, com o transcorrer dos anos e a mudança dos tempos, o “Daikon de Nerima” da era Showa já não guarda vestígio de seu esplendor de outrora. Isso se deve, evidentemente, ao endurecimento progressivo do solo, que se tornou ácido pelo excesso de adubação ao longo dos anos, obstruindo assim o desenvolvimento de sua preciosa raiz. Curiosamente, ao ouvir os velhos agricultores da região, eles afirmam que o daikon “já se cansou desta terra”. Em outras palavras, o rabanete iniciou sua migração. Embora possa soar como uma formulação deveras peculiar, o fato é que o Daikon de Nerima está abandonando seu berço para prosperar em terras cada vez mais ao norte. Com efeito, a nova região de excelência para o “Daikon de Nerima” deslocou-se para os arredores de Niikura e Asaka, na província de Saitama, seguindo a linha de trem Tojo rumo ao norte. Não se trata, por certo, de os agricultores de Niikura e Asaka estarem praticando a Agricultura Natural preconizada por Deus. Antes, parece que o próprio daikon, avesso à monocultura com fertilizantes em Nerima — quando, em condições naturais, a cultura sucessiva não seria um problema —, passou a preferir terras novas, ainda não tão exploradas. Que rabanete inconstante!
+
+É de se prever, contudo, que em breve o daikon também se fastidiará dessas novas paragens e prosseguirá sua jornada rumo ao norte. E essa direção não se limita a um sentido geográfico. Pela ciência do Kotodama (言霊学), “norte”, ou *kita* (キタ), pode ser interpretado como *ki-ta* (気多), que significa “local de abundante energia espiritual pura”. Não é difícil, portanto, imaginar que ele continuará a se mover em busca de tais lugares. Coincidentemente, a safra de daikon em toda a região de Nerima neste ano beira o colapso total. Desde a fase de brotação, as plantas foram assoladas por uma praga de pulgões que, apesar das prováveis e exaustivas medidas de controle tomadas pelos agricultores, comprometeu seu desenvolvimento. Como resultado, oitenta por cento da lavoura encontra-se em um estado deplorável de devastação.
+
+Ao percorrer as linhas de trem Tojo e Musashino, depara-se com a visão desoladora de um campo após o outro, onde as folhas amareladas e murchas dos rabanetes pendem, patéticas. Tal cenário me faz recordar, com um arrepio, uma profecia dos Escritos Sagrados da Oomoto-kyo: “Chegará o tempo em que tereis de comer até as folhas secas do daikon”. Essa Grande Purificação, que se manifesta principalmente no daikon e em outras hortaliças, abateu-se de forma tão súbita e inesperada que deixou os agricultores atônitos. Para os produtores rurais da região, que depositam no daikon metade de sua renda anual, assim como para as fábricas que o processam em picles, o erro de cálculo foi um golpe avassalador, e seus lamentos ecoam por toda parte. Comenta-se que esta é a pior quebra de safra desde 1933, havendo quem diga que a situação atual é ainda mais grave. Eles, naturalmente, não têm como saber que a causa reside em um processo de purificação da terra, resultado de longos anos de cultivo baseado em adubos. Se ao menos acolhessem os princípios de nossa Agricultura Natural, poderiam planejar para o próximo ano medidas verdadeiramente... “sábias”. Oh, gente obstinada e digna de compaixão! Dizem que, quando se fala do ano que vem, até os demônios dão risada.
+
+E assim, o daikon ruma para o norte. Aliás, seria mais exato dizer que não apenas o daikon, mas todos os seres vivos, sem exceção, se aproximam do tempo em que deverão rumar para o norte.
+
+---
+
+# Coletânea de Teses do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和27(1952)年10月22日 | **Fonte:** Eikou
+**Título Original:** 布教定例座談会 （第二回） | **Status:** Published | **Edição/Página:** 179号 | **Data ISO:** 1952-10-22
+
+## Coletânea de Teses do Reverendo Jikan Okada
+Busca de Ensinamentos: help | Busca de Documentos:
+
+## Reunião Periódica sobre a Difusão (Segunda Edição)
+Publicado na revista Eikō, nº 179, de 22 de outubro de 1952.
+
+**Data:** 4 de outubro de 1952, às 19h
+**Local:** Seizan-sō, Gōra, Hakone (residência do Diretor Kihara)
+**Participantes:**
+**Diretor da Sede Central:** Yoshihiko Kihara
+**Diretor da Igreja Dai Kyokai Kōhō:** Tagao Sakai
+**Diretor da Igreja Tyu Kyokai Messias:** Shigeru Fujieda
+**Diretor da Igreja Tyu Kyokai Tyōsei:** Utarō Nagamura
+**Diretor da Igreja Tyu Kyokai Kakumei:** Eisaku Yumoto
+**Diretor da Igreja Tyu Kyokai Kōsei:** Kyōji Ōtsuki
+**Diretor da Igreja Tyu Kyokai Kōyō:** Eitarō Ogawa
+**(Taquígrafos):** Michiharu Kihara, Kiyomichi Tanikawa
+
+**Ogawa:** Coube a mim dar início a esta conversa. Desde que realizamos a primeira edição desta reunião, no mês passado, sinto que, de alguma forma, fortalecemos nossa convicção, e percebo um vigor renovado no campo da difusão. Atendendo a um pedido para que estes encontros se tornassem periódicos, estamos hoje realizando a segunda edição. Gostaria de, novamente, abordar questões relativas à difusão e a outros assuntos pertinentes. Agradeço imensamente a atenção de todos.
+
+**Sakai:** Gostaria de expressar minha gratidão por toda a atenção dedicada à questão do Festival de Salvação de Espíritos. Embora o assunto já tenha sido solucionado, creio ser oportuno esclarecê-lo a todos os membros. Visto de fora, o fato de realizarmos algo chamado “Festival de Salvação de Espíritos” não nos expõe ao risco de sermos mal interpretados e confundidos com praticantes de rituais e preces? É evidente que essa prática se desvia da linha doutrinária da Igreja Messiânica...
+
+**Kihara:** A questão reside no seguinte ponto. A chave para a compreensão reside em refletir sobre a natureza do nosso vínculo com os antepassados. Imaginemos, por exemplo, que um indivíduo seja o décimo primeiro elo de uma linhagem. Seus dez ancestrais diretos que o precederam podem ser vistos como uma soma: um mais um, mais um, e assim por diante, até chegar a dez. O resultado dessa soma é, em essência, o próprio indivíduo. Compreendendo isso, tudo se torna simples. Basta pensar que cada um de nós é a síntese de seus antepassados.
+
+A missão da Igreja Messiânica consiste no fato de Meishu-Sama salvar primordialmente o Mundo Material. E por que o Mundo Material é o foco principal? Porque Deus desceu a este mundo. Para simplificar, a Era da Noite foi o tempo em que se reverenciava um Deus abstrato, que habitava os céus. Agora, devemos compreender que o verdadeiro Deus é Aquele que possui um corpo físico no Mundo Material.
+
+Nesse sentido, quando uma pessoa como eu recebe a Luz Divina por intermédio de Meishu-Sama, cada um de seus dez antepassados é purificado simultaneamente através dela. O chamado Festival de Salvação de Espíritos, por sua vez, propõe a purificação individual e separada de cada um desses antepassados. Trata-se de um método da Era da Noite; em outras palavras, uma prática do passado.
+
+**Yumoto:** Seria, então, uma prática especial? Poderia nos explicar melhor do que se trata?
+
+**Kihara:** Sim, havia pessoas que se dedicavam a tais rituais.
+
+**Ōtsuki:** Mas os conceitos de “salvação de espíritos” e “consolo de espíritos” são, em si, corretos, não?
+
+**Kihara:** A salvação de espíritos de fato existe, mas não um “Festival” de Salvação de Espíritos. O correto é seguir estritamente os Ensinamentos que recebemos. Existe, sim, o culto aos antepassados, mas ele não deve se tornar o elemento principal. Realizar eventos como um “Último Festival de Salvação de Espíritos”, tratando-o como se fosse uma das cerimônias oficiais da Igreja Messiânica, representa uma completa inversão de valores, algo análogo a vestir um casaco ao avesso.
+
+Não nego a existência de tais práticas, elas de fato existem. O erro está em subverter sua importância, colocando-as em uma posição que não lhes cabe. Isso compromete todo o fundamento. A questão é apenas essa. Não se trata de uma negação, mas sim de afirmar que o Festival de Salvação de Espíritos não corresponde à verdadeira natureza da Igreja Messiânica.
+
+Se colocarmos esse festival como prioridade, partindo do princípio de que não se pode alcançar a felicidade sem salvar os antepassados, surge a seguinte indagação: será que as famílias que realizam esses rituais estão imunes à ruína? Observamos que as antigas famílias nobres e clãs tradicionais sempre executaram tais cerimônias com o máximo rigor, e nem por isso foram felizes. Esse fato, por si só, já nos serve de resposta.
+
+Contudo, isso não significa que a Igreja Messiânica negligencie os antepassados. Absolutamente não. A diferença reside na abordagem. Ademais, no que tange a evocar individualmente os espíritos dos antepassados, Meishu-Sama jamais proferiu uma única palavra a esse respeito.
+
+**Sakai:** Outro ponto: tenho ouvido algumas pessoas se referirem à consagração da Imagem Divina como um “apaziguamento de espírito”. O que dizer sobre isso?
+
+**Kihara:** Tenho ouvido com frequência esse neologismo. Referir-se à consagração da Imagem Divina como um “apaziguamento de espírito” é inadequado, pois tal termo sugere que a ação parte de nós mesmos. É uma expressão que precisa ser retificada com urgência. Sempre alertei para que não inventem coisas novas, e eu mesmo tenho o cuidado de não o fazer.
+
+Há também outra questão a ser considerada. Quando surgem problemas, alguns se apegam às palavras de Meishu-Sama de que “os problemas geram desenvolvimento”. Na verdade, o que ocorre é que Ele, com o poder de Sua Palavra, está retificando a situação. Por isso, Ele mesmo afirma que o ideal seria que tudo transcorresse sem percalços. É por Sua imensa compaixão que Ele transforma uma situação negativa em algo positivo. Não devemos, portanto, interpretar essa profunda benevolência de forma equivocada. Do contrário, corre-se o risco de pensar que provocar problemas é uma forma de promover o desenvolvimento.
+
+**Fujieda:** Não apenas corre-se o risco; creio que essa é uma interpretação bastante comum. É um equívoco de pensamento.
+
+**Kihara:** Em qualquer circunstância, fica evidente a infinita misericórdia de Meishu-Sama. Diante de qualquer adversidade, Ele intervém com o poder de Sua Palavra para retificar a situação e nos amparar. Não podemos, jamais, nos aproveitar de Sua bondade.
+
+**Yumoto:** Na última audiência que tivemos, Meishu-Sama nos disse que, se fizermos exatamente como Ele orienta, tudo correrá bem, mas que, ao nos desviarmos, acabamos por não saber mais qual é o caminho certo. Refleti profundamente sobre essas palavras e senti que precisamos levá-las muito a sério.
+
+**Ogawa:** Lembro-me também de Suas palavras de que “aquele que é capaz de fazer como lhe é dito é um herói”. Pude constatar, com toda a clareza, como é difícil realmente praticar o que nos é ensinado.
+
+**Kihara:** No entanto, se realmente o fizéssemos, tudo seria extraordinariamente simples.
+
+**Nagamura:** Creio que o obstáculo reside em colocarmos o nosso “eu” em primeiro lugar.
+
+**Kihara:** Se praticarmos um único Ensinamento de Meishu-Sama, por menor que seja, nenhuma complicação surgirá. Tomemos como exemplo o poema: “Quão nobre é o coração que, pondo-se em segundo plano, almeja o bem do próximo”. Se manifestarmos esse sentimento em nossas ações, a situação ao nosso redor melhorará imensamente. Por exemplo, se vocês, diretores de Igreja, assumirem a postura de que é seu dever sagrado guiar os membros sem cometer nenhum erro, o relacionamento entre vocês e eles se tornará harmonioso, e tudo fluirá perfeitamente.
+
+São pequenas atitudes que nos privam da proteção divina. Contudo, se nos tornarmos merecedores, poderemos recebê-la ilimitadamente. Para tanto, o mais importante é o nosso sentimento em relação a Meishu-Sama. Este é o alicerce de tudo. E para que ele seja firme, basta anular o nosso ego. Muitas vezes, externamos reverência, dizendo “Meishu-Sama, Meishu-Sama”, mas, no momento de agir, nossas atitudes não correspondem a essas palavras. Creio que este seja o principal empecilho para a elevação de nossa sabedoria espiritual.
+
+Se mantivermos o sentimento por Meishu-Sama em nosso coração, onde quer que estejamos, estaremos conectados a Ele pelo cordão espiritual e, consequentemente, sob Sua proteção. Deus está sempre presente e pronto para atuar, portanto não há o que temer. Basta que nos entreguemos totalmente. Essa postura de entrega absoluta é a que nos confere a maior força. Agindo assim, jamais nos depararemos com impasses, nem haverá motivo para ansiedade.
+
+O que desejo ressaltar é que, embora não possamos depender das pessoas, tampouco devemos subestimá-las. A única fonte de amparo verdadeiramente confiável é Deus.
+
+Se nos apegarmos a Meishu-Sama, unidos por um único objetivo, não há por que não caminharmos todos de mãos dadas. É fundamental que nos tratemos com amor uns aos outros; a ausência desse sentimento é inaceitável.
+
+**Sakai:** Sobre a gratidão pelo Johrei, parece haver diversas situações. Se considerarmos que uma das missões do ministro é ser um intermediário para essa gratidão, acredito que devemos fazê-lo com uma postura de servir. Com um sentimento puro ao encaminhar o donativo...
+
+**Kihara:** Se a intermediação for feita, isso, por si só, é o suficiente. A pureza ou a impureza do ato se definirá no momento da sua realização. No passado, eu também costumava pensar de forma rígida, mas, na prática, é impossível manter um estado de tensão constante. Inevitavelmente, uma sombra de visão limitada acaba surgindo. Como Meishu-Sama sempre nos ensina, tudo deve ser feito com a máxima naturalidade.
+
+Se analisarmos a fundo a natureza do Johrei, compreenderemos que o espírito provém de Meishu-Sama; nós apenas cedemos nosso corpo para que Ele o utilize. Se analisarmos a questão sob uma ótica matemática, conciliando espírito e matéria, podemos atribuir um valor cinco ao espírito e cinco à matéria, totalizando a obra em dez. O Johrei é realizado por essa totalidade de dez. Como nós representamos a matéria, nossa parte corresponde à metade desse valor. Portanto, seria correto conceber a gratidão pelo Johrei a partir dessa mesma perspectiva.
+
+Por outro lado, Meishu-Sama nos falou sobre a economia da Era de Miroku. Sob essa ótica, o correto é que um terço de tudo seja sempre ofertado a Ele. Indo além, isso significa que não devemos almejar recompensa por um trabalho que não realizamos. Caso contrário, lucrar sem esforço equivaleria a um roubo. Nesse sentido, aplica-se a Lei do Predomínio do Espírito sobre a Matéria, pois, em essência, a parcela que cada indivíduo recebe de Deus já está determinada.
+
+**Todos:** Reuniões como a de hoje são de grande valia. Vamos realizá-las mensalmente.
+
+× ×
+
+(Nota) A participação nesta reunião periódica não é restrita. Convidamos cordialmente os diretores de Igrejas Tyu Kyokai que desejarem a participar. A próxima reunião está prevista para a noite de 4 de novembro, em Atami. Os interessados devem se inscrever no Departamento de Edição da Sede Central até a data do evento.
+
+---
+
+# Ensaios do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
+**Título Original:** 参考文献 自然農法体験者座談会 | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
+
+## Ensaios do Reverendo Jikan Okada
+Pesquisa de Ensinamentos | Busca de materiais de ajuda | Referências bibliográficas
+
+## Mesa-redonda com praticantes da Agricultura Natural
+Revista *Eikō*, nº 102, publicada em 2 de maio de 1951
+
+**Data:** 13 de março de 1951
+**Local:** Sede da Igreja Kourin-Tyu, Bairro de Higashi, Cidade de Nagoya
+**Moderador:** Katsutoshi Egawa
+**Relator:** Minoru Kawagoe
+**Participantes Especiais:** Seiichi Momomi, Eisaku Shimizu, Kinnosuke Gotō, Hiroshige Kawabata
+**Agricultores:** Membros da região de Tyukyo
+
+(Quarto ano) Toshio Mori (30)
+(Terceiro ano) Den Yasuyaku (33), Tarō Hiramatsu (49), Kōichi Yamamoto (32), Tomotaka Takekoshi (25), Shinji Miyagi (43), Tameo Shiraki (55), Kaichirō Tanaka (48), Eikichi Hada (54), Jōichi Gotō (45), Zenichi Takai (55), Toyohachi Sakai (41), Shigeyoshi Sakuragi (44), Shinji Tabata (25), Masahisa Hayashi (24)
+(Segundo ano) Yasutarō Shiga (53), Hajime Katō (40), Tokumatsu Sakai (35), Kyūtarō Onoda (31), Seiichi Ikehara (30), Taeko Sakai (32), Kōichi Shirai (27), Teruo Yamamoto (33), Onoe Hori (44), Machiko Ōno (42), Hiroshi Inoue (48), Masayuki Hirose (42), Kazuo Fujii (26), Nobuyoshi Tanaka (32), Kōten Ogawa (34)
+(Primeiro ano) Toshio Hiramitsu (20), Tōru Usui (37), Kikuharu Takeo (44)
+
+Total de trinta e oito participantes
+
+**Moderador:** Agradeço imensamente a presença de todos, que compareceram em tão grande número apesar de suas agendas atarefadas. A Agricultura Natural de nossa Igreja, sob a égide de Meishu-Sama, vem alcançando resultados notáveis em todo o país, demonstrando plenamente seu verdadeiro valor. O motivo pelo qual solicitamos a presença dos senhores é que, como praticantes de longa data e especialistas na Agricultura Natural, esperamos que suas experiências possam, de alguma forma, ser proveitosas aos agricultores de todo o país, especialmente aos iniciantes. Rogo-lhes, portanto, que exponham suas opiniões e dúvidas com total franqueza e sinceridade. Pois bem, comecemos de imediato pelos resultados da colheita de arroz do ano passado...
+
+### Mesmo com perdas, a produção supera em muito a das lavouras adubadas
+
+**Miyagi (Terceiro ano):** Minha lavoura está em solo pobre, e a média de produção com adubo sempre foi de aproximadamente cinco a cinco sacas e meia. No primeiro ano sem adubos, apesar dos danos causados por um tufão, a colheita foi de seis sacas. No segundo, chegou a sete. No terceiro ano, houve uma pequena queda, provavelmente devido aos efeitos de outro tufão e à purificação das toxinas dos adubos. A estimativa por amostragem indicava cerca de cinco sacas, mas a produção real alcançou seis. Mesmo assim, creio que as outras lavouras adubadas obtiveram entre cinco e cinco sacas e meia.
+
+**Shiga (Segundo ano):** De minha parte, tive um aumento de cerca de uma saca por ano, tanto no primeiro quanto no segundo.
+
+**Takekoshi (Terceiro ano):** Em minha região, chamada Higashi-Mikawa, a produção aumentou consecutivamente no primeiro, segundo e terceiro anos. No terceiro, por exemplo, obtive uma colheita de oito sacas e um alqueire, enquanto a média local varia de seis a sete sacas. Para as lavouras adubadas, colher sete sacas já é considerado um excelente resultado.
+
+**Moderador:** E na propriedade do senhor Mori, que está no quarto ano?
+
+**Mori (Quarto ano):** Minha propriedade fica em Hida-Takayama, uma região de safra única. No ano passado, a colheita foi superior à do terceiro ano. A previsão era de um aumento entre vinte e trinta por cento, mas o resultado real foi um pouco menor. A produção média na região é de cinco sacas e meia a seis, mas no meu terceiro ano, creio ter colhido cerca de dez. A diferença entre a expectativa e a realidade deve-se, em grande parte, aos danos do tufão. A produção real do quarto ano foi de aproximadamente onze sacas.
+
+**Moderador:** Qual era a condição das espigas de arroz na época da colheita?
+
+**Mori:** A colheita ocorre por volta de 10 de outubro. Nessa época, é comum que as espigas amadureçam, se inclinem e os caules se quebrem. Contudo, meu arroz possuía caules notavelmente resistentes, e as espigas pendiam em arcos, como uma ponte em miniatura. Ao tomar uma espiga nas mãos para observá-la, senti uma beleza verdadeiramente indescritível.
+
+**Moderador:** E quanto aos grãos e ao perfilhamento?
+
+**Mori:** A variedade Mino-asahi apresentava de cem a cento e setenta grãos por espiga, com vinte e dois a vinte e três perfilhos. Já a Aikoku nº 20 chegava a ter de cem a duzentos e sessenta grãos.
+
+**Moderador:** Agora, gostaria de perguntar-lhes sobre as variedades que estão cultivando atualmente. Seria preferível não as alterar, não acham?
+
+**Andō (Terceiro ano):** No ano passado, ao realizar uma colheita por amostragem, pude constatar que há, de fato, uma diferença significativa entre as variedades. Creio que as mais antigas, adaptadas ao solo local por vinte ou trinta anos, são as melhores. As variedades atualmente recomendadas pelo governo são de qualidade inferior.
+
+**Kawabata:** No ano passado, as variedades Nōrin nº 36 e nº 38 sofreram danos particularmente severos.
+
+**Miyagi:** Em minha propriedade, cultivo a Nōrin nº 38. Apenas em minha lavoura as espigas cresceram de forma sinuosa, como serpentes, ou se ramificaram como as patas de uma rã. Apesar disso, os caules eram extremamente fortes e robustos.
+
+**Takekoshi:** A minha, por outro lado, era tão esplêndida que poderia ser descrita como um "telhado de ouro". A variedade é a Asahi-senbon.
+
+**Mori:** Minhas variedades são a Mino-asahi e a Aikoku nº 20. As variedades realmente diferem muito de uma região para outra.
+
+**Hayashi (Terceiro ano):** Cultivo as variedades Aikoku e Shiro-mochi, e todos os anos planto as mesmas sementes. No ano passado, a Aikoku sofreu uma pequena redução devido às tempestades, mas a Shiro-mochi, cuja média era de seis sacas, registrou um aumento para cerca de oito. Acredito que não alterar a variedade é um fator que contribui para o aumento da produção.
+
+**Miyagi:** Eu cheguei a mudar de variedade, mas concluí que, mesmo numa mesma área, a variedade mais adequada às características do solo de cada local é, sem dúvida, a melhor escolha.
+
+**Moderador:** Segundo os relatórios, a maior parte do arroz da Agricultura Natural tem sido classificada como de terceira categoria, com raras exceções na segunda. Consta também que, embora seja classificado como de terceira, nunca há arroz rejeitado. Poderiam explicar por que isso ocorre?
+
+**Andō:** A principal causa são os danos generalizados provocados pelas tempestades. Ademais, a diferença de preço entre a segunda e a terceira categoria é insignificante, cerca de setenta ienes, enquanto o custo de utilizar uma máquina selecionadora de grãos é muito superior a esse valor. Portanto, tentar classificar o arroz como de segunda categoria resulta em prejuízo, e por isso o vendemos como de terceira.
+
+**Usui (Primeiro ano):** O arroz da Agricultura Natural também dispensa diversas etapas, como a secagem, o que permite comercializá-lo de forma mais rápida e prática.
+
+**Hirose (Segundo ano):** Como a Agricultura Natural ainda não é amplamente conhecida, fiz questão de apresentar uma amostra. No condado, meu arroz recebeu o selo de primeira categoria, mas, ao chegar à província, foi rebaixado para a segunda. Ainda assim, a parte que enviei foi vendida como de segunda, o que me gerou lucro. O restante, eu simplesmente ensaquei e vendi como de terceira.
+
+**Kawabata:** Em nossa região, houve uma quantidade considerável de arroz classificado como "fora de padrão" (quinta categoria), mas o da Agricultura Natural obteve, no mínimo, a terceira categoria. Jamais houve um único caso de arroz rejeitado.
+
+**Moderador:** A seguir, gostaria de ouvir suas opiniões sobre o cultivo de entressafra.
+
+### O cultivo de entressafra: o grande prejuízo das toxinas dos adubos e o aumento garantido da colheita após um ou dois anos de prática
+
+**Mori:** Creio que o problema com o trigo está na época do plantio. Como estou em uma região montanhosa, semeio uma semana a dez dias antes do período habitual. Para os senhores das planícies, isso seria difícil, a menos que pratiquem a monocultura.
+
+**Hirose:** É verdade. Nas planícies, as condições climáticas e outros fatores são distintos das áreas montanhosas, e a semeadura antecipada é inviável para quem pratica a dupla cultura. O arroz da Agricultura Natural amadurece bem mais tarde que o da lavoura adubada, o que torna o cronograma muito apertado para o plantio do trigo. Não há margem para antecipação. Ademais, semear o trigo cedo demais é arriscado; uma mudança no tempo pode fazê-lo crescer vários centímetros em um instante, aumentando a probabilidade de fracasso.
+
+**Shimizu:** Em última análise, como estamos cultivando enquanto eliminamos as toxinas dos adubos ao longo do primeiro e segundo anos, é desarrazoado esperar uma colheita abundante desde o início. Mesmo que o primeiro ano não seja impressionante, a partir do segundo e terceiro, a Agricultura Natural demonstra seu verdadeiro valor. O aumento da produção é uma certeza.
+
+**Gotō (Segundo ano):** No meu primeiro ano, a colheita foi mediana. No ano passado, porém, em uma área onde a média é de 2,4 a 2,6 *koku*, consegui colher 3 *koku*. Quanto a este ano, ainda não sei. O crescimento parece mais lento e fraco que o do cultivo adubado, mas o perfilhamento é abundante. Plantei uma variedade que obtive de Owari, mas, assim como no caso do arroz, estou convencido de que uma variedade já adaptada ao solo original produz melhores resultados.
+
+### O notável aumento na produção de leguminosas
+
+**Ogawa (Segundo ano):** A produção de leguminosas aumenta consideravelmente. Este é meu segundo ano, e o resultado é notável.
+
+**Andō:** As leguminosas se desenvolvem bem porque não acumulam tantas toxinas dos adubos.
+
+**Gotō:** A Agricultura Natural é excelente para hortaliças como folhas e nabos, mas parece não apresentar o mesmo efeito em melancias, por exemplo.
+
+**Andō:** As hortaliças, como o espinafre, prosperam quando se incorpora ao solo o capim cortado durante o verão.
+
+**Moderador:** Pois bem, com estas palavras, gostaria de encerrar nossa mesa-redonda sobre a Agricultura Natural. Agradeço-lhes imensamente por dedicarem seu tempo e por compartilharem conosco tão valiosas explanações. Rogo que, reverenciando a sagrada orientação de Meishu-Sama, continuem a se empenhar com ainda mais afinco. Desejo ardentemente que, ao unirem o espírito Divino à técnica agrícola, os senhores alcancem colheitas grandiosas e estabeleçam as bases para a estabilidade da economia rural. De nossa parte, comprometemo-nos a utilizar o valioso material de suas experiências para levar esta boa-nova aos agricultores de todo o Japão e difundir o verdadeiro valor da autêntica agricultura da Natureza.
+
+Sobre o que foi discutido, recebemos uma orientação de Meishu-Sama, a qual transmito a seguir:
+
+É preferível não alterar as sementes. Ao perseverar com uma única variedade, ela melhora progressivamente. A razão para isso é que as toxinas dos adubos são gradualmente eliminadas.
+
+Ademais, a ideia de que uma semente "se adapta" ou "não se adapta" ao solo é um equívoco. Se o agricultor insistir em cultivar uma única variedade em um mesmo local, o próprio solo se transformará gradualmente para se adequar a ela.
+
+Tanto as sementes quanto o solo contêm grande quantidade de toxinas dos adubos, e é imperativo que estas sejam eliminadas o mais rápido possível. O aumento da colheita ocorrerá na exata medida em que essas toxinas forem removidas.
+
+Quanto ao fato de as melancias não se desenvolverem bem, isso se deve, certamente, à presença de toxinas tanto nas sementes quanto no solo. Uma vez que essas toxinas sejam eliminadas, qualquer hortaliça, sem exceção, produzirá resultados excelentes, tanto em quantidade quanto em qualidade.
+
+---
+
+# Comunicações do Mundo Espiritual Implorando a Salvação de Meishu-Sama
+
+**Categoria:** sanko | **Ano:** 昭和29(1954)年3月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 明主様に御救い願う霊界よりの通信 | **Status:** Published | **Edição/Página:** 58号 | **Data ISO:** 1954-03-25
+
+## Comunicações do Mundo Espiritual Implorando a Salvação de Meishu-Sama
+
+Publicado na edição nº 58 da revista Paraíso Terrestre, em 25 de março de 1954
+Maki Terunosuke, Presidente da Igreja Ojin Naka
+
+**23 horas da noite de 15 de fevereiro**
+
+**O Espírito de Malenkov**
+
+**Meishu-Sama:** Espírito de Malenkov, apossa-te do corpo de Shigeru. Já o fizeste? Desde há algum tempo, tens interferido grandemente na Obra do Deus Supremo, apossando-te de certas pessoas. Aquele de quem te aproprias não é um ser iníquo como tu. Fingindo ser ele, ousaste afrontar o Deus Supremo. Quando o Sol se manifesta, nada pode permanecer oculto. Descobri teu artifício pelo som ruidoso com que os serventuários caminhavam pelo corredor. Quando Nobuko dorme, é para que as grandes entidades, baixando a guarda, se aproximem. Hoje, como até mesmo Momotaro dormia, descuidaste-te por um instante e foste desmascarado. Escondeste-te muito bem até agora. Afrontar o Deus Supremo há de ser penoso, não?
+
+O Deus Supremo detém em Suas mãos a vida de todos os seres. A vida de cada um Me pertence. Conceder a vida ou decretar a morte está em Meu poder absoluto. Desejas ser lançado ao Inferno por Me afrontares? Queres cair no mesmo mundo inferior onde se encontra Stalin? Stalin sofrerá, abandonado nas profundezas por incontáveis anos. Queres ter o mesmo destino? Certamente que não. Se te arrependeres, até mesmo os grandes pecados serão perdoados. Contudo, os pequenos pecados, sem arrependimento, não serão absolvidos. Se teu arrependimento for sincero, serás perdoado. Preferes ficar aprisionado no gelo, em um lugar de trevas no Mundo Inferior? Ou desejas ir para o Paraíso? Aqueles que são fortes no mal, ao se arrependerem, tornam-se igualmente fortes no bem. Se não te arrependeres perante o Deus Supremo, serás consumido pela Roda de Fogo do Sol. Se te arrependeres, Eu te utilizarei em minha Obra.
+
+Se Eu tiver de te incinerar, todo o povo soviético será igualmente consumido pelas chamas. Desejas que o povo seja queimado? Queres atormentar inocentes com o fogo? Devo submeter-te agora à Roda de Fogo? Ou preferes que, mediante tua conversão, teus pecados sejam extintos? Todos são filhos do Deus Supremo. Com uma pequena mudança de atitude, podes te tornar um bom filho. Serás capaz de agir conforme a Minha Vontade? Servir-me-ás com total liberdade e devoção?
+
+Afinal, é através do bem e do mal que a mácula do mundo é purificada. Para limpar a corrupção do mundo, até mesmo a guerra se faz necessária. Serás Meu instrumento? Eu te perdoo; portanto, serve-Me. Ainda que seja doloroso, opor-te-ás ao mal? É uma tarefa árdua, mas a cumprirás? Não deves mais interferir. Serás utilizado conforme Minha Vontade. Serve-Me sem Me afrontares. Se compreendeste, manifesta-te em palavras.
+
+**Malenkov:** Recebo com gratidão Vossas palavras e me emendarei.
+
+**Meishu-Sama:** Teus pecados passados estão perdoados. Serve-Me conforme a Minha Vontade. Desse modo, o povo soviético de coração sincero será salvo. Se trabalhares por esta causa, teu país se tornará uma nação cálida e feliz. Que propósito há em atormentar o Sol eternamente? Com tuas próprias mãos, salva o povo soviético. Se compreendeste, retorna imediatamente e põe-te a agir. Assim, o gelo se derreterá e tua pátria se tornará uma terra aquecida. Este é um dia auspicioso para ti.
+
+**15 horas e 30 minutos de 16 de fevereiro**
+
+**O Espírito de Molotov**
+
+**Meishu-Sama:** Espírito de Molotov, apossa-te do corpo de Shigeru. Já o fizeste? Quem és tu? Negro ou vermelho?
+
+**Molotov:** Sim, Senhor. Sou um Dragão Vermelho.
+
+**Meishu-Sama:** Tens trabalhado arduamente. Após a morte de Stalin, teus esforços foram grandes. Ultimamente, tens sofrido? A Era da Noite findou. No céu do Oriente, o Sol começou a ascender. O Mundo de Cristal está para se manifestar. E então, o que me dizes? Pretendes continuar como antes? Desafiar o Deus Supremo há de ser penoso. Quando o Mundo de Cristal se estabelecer, nem a menor mácula será tolerada. É por isso que teu sofrimento se intensificou, não? Todos os seres que habitam este universo são Meus filhos. Tu também és Meu filho. Compreendo bem o sofrimento de um filho. Diz-Me, desejas permanecer eternamente em rebeldia contra teu pai?
+
+**Molotov:** Sim, Senhor. Compreendi perfeitamente.
+
+**Meishu-Sama:** Se não desejas mais te rebelar, pedirás perdão por teus pecados passados e servirás ao Deus Supremo?
+
+**Molotov:** Sim, Senhor. Dedicar-me-ei a servi-Lo.
+
+**Meishu-Sama:** Tornar-te-ás um instrumento nas mãos do Deus Supremo?
+
+**Molotov:** Sim, Senhor. Permita-me que assim seja.
+
+**Meishu-Sama:** Tuas palavras brotam da sinceridade de teu coração?
+
+**Molotov:** Sim, Senhor. Ontem, ao ouvir o que foi dito a Malenkov, compreendi tudo claramente.
+
+**Meishu-Sama:** Aceitas a incumbência de purificar o mundo?
+
+**Molotov:** Sim, Senhor. Com grande alegria, aceito esta missão. Hoje, permiti-me apresentar um sinal.
+
+**Meishu-Sama:** De que forma o apresentaste?
+
+**Molotov:** Sim, Senhor. Na Cerimônia de hoje, ofereci minha cooperação ao escoltá-lo com um carro vermelho.
+
+**Meishu-Sama:** De agora em diante, age conforme Minhas comunicações. Até mesmo Stalin, no Mundo Espiritual, em meio ao sofrimento do Mundo Inferior, está começando a se arrepender. Basta que ele sozinho experimente tal agonia. É penoso para Mim fazer com que muitos outros passem por esse sofrimento. Se te converteres, dias cálidos de primavera visitarão também a União Soviética. Suportaste por muito tempo. Agora, faze com que os Dragões Vermelhos do mundo se convertam.
+
+**Molotov:** Sim, Senhor. Certamente os farei converter-se. Rogo-lhe, por favor, Vossa proteção.
+
+**Meishu-Sama:** Aqueles que estão em posições elevadas despertam rapidamente, mas os que estão abaixo são obstinados e indolentes, e tardam a despertar. No Japão, também há interferências. Quantos servidores dos Espíritos Justos foram vitimados? Fazer com que os indolentes se convertam não é tarefa fácil. Eu te protegerei; portanto, a partir de hoje, emprega teus maiores esforços. Aqueles que são fortes no mal, são igualmente fortes no bem. Refiro-me a ti. Eu te protegerei e te salvarei. Torna-te um instrumento em Minhas mãos.
+
+**Molotov:** Sim, Senhor. Peço perdão por minha insolência até o dia de hoje.
+
+**Meishu-Sama:** O Plano Divino avança com tal urgência que se faz necessário utilizar o Sol e a Lua nesta intensa purificação. No momento da purificação de teus companheiros, Eu certamente os ajudarei. Dedica tua vida a esta causa. Tua vida está sob Minha proteção. De agora em diante, mostra-me ocasionalmente sinais de tua cooperação. Agora, podes partir. Agradeço teus esforços.
+
+**17 de fevereiro**
+
+**Mao Tsé-Tung (China Comunista) – Dragão Vermelho**
+
+**Meishu-Sama:** Espírito que aguardas à entrada, apossa-te de Shigeru. Já o fizeste? Quem és tu?
+
+**Mao:** Sou Mao Tsé-Tung, por quem aguardáveis. Eu também sou um servo do Dragão Vermelho.
+
+**Meishu-Sama:** Trabalhas diligentemente. Sabes quem Eu sou?
+
+**Mao:** Sim, Senhor, tenho conhecimento.
+
+**Meishu-Sama:** Como vão as coisas? Pareces bastante bem-sucedido, não? Expulsaste Chiang Kai-shek e prossegues com vigor. Estás contente?
+
+**Mao:** No momento, estou a ponderar.
+
+**Meishu-Sama:** Teu grande líder, Stalin, padece no gelo. Aos poucos, ele também começou a se arrepender. Tu também aprecias o Mundo Inferior?
+
+**Mao:** Detesto-o. A princípio, cooperava com Stalin, mas, após ouvir o que foi dito a Molotov há pouco, estou a reconsiderar.
+
+**Meishu-Sama:** Sabes o que representas para Meishu-Sama? Queres que Eu te diga?
+
+**Mao:** Por favor, dai-me uma pista.
+
+**Meishu-Sama:** Pois bem. A pista é: *tarachine no*. Apenas isso.
+
+**Mao:** *Tarachine* refere-se aos pais?
+
+**Meishu-Sama:** *Tarachine* não significa apenas "mãe", mas sim "pai e mãe". Compreendeste?
+
+**Mao:** Sim, Senhor.
+
+**Meishu-Sama:** Entendes bem o japonês. Em outras palavras, todos os seres que habitam a Terra, ou melhor, o universo, são filhos gerados por Meishu-Sama. Não o sabias? Foste trazido a este mundo por uma necessidade. Nasceste para cumprir uma missão. Sabes qual é essa missão?
+
+**Mao:** Seria aquela missão da qual ouvi falar ontem?
+
+**Meishu-Sama:** Não te parece que a China está muito maculada? Em uma casa, quando há sujeira, o que se faz?
+
+**Mao:** Limpa-se.
+
+**Meishu-Sama:** Se não for limpa, quando a China for exposta à luz, sua imundície será tamanha que ela se tornará pó no fundo da terra. O que julgas que deve ser feito? Meishu-Sama desceu à Terra do Sol Nascente, o Japão, com a intenção de salvar o mundo. Contudo, não posso intervir em lugares tão maculados. O que devo fazer?
+
+**Mao:** Sim, Senhor. Encarregar-me-ei da limpeza.
+
+**Meishu-Sama:** Exato. Se não for purificada, a primavera não chegará à China. Para salvar o povo chinês, encarregar-te-ás de realizar uma limpeza completa? Se o fizeres, o povo de coração sincero será salvo. O povo sincero será salvo pela Luz Divina. És capaz de cumprir essa grandiosa tarefa?
+
+**Mao:** Sim, sou capaz.
+
+**Meishu-Sama:** Uma primavera serena e radiante se anunciará.
+
+**Mao:** Diremos adeus a esta terra imunda.
+
+**Meishu-Sama:** Assim espero. Purifica-a. Prepara o caminho para que o Deus Supremo possa adentrar.
+
+**Mao:** Então, tomarei as providências para que assim se proceda.
+
+**Meishu-Sama:** Sozinho, não conseguirás. Utiliza muitas pessoas para te ajudar. Faze-o, confiando em teu espírito de justiça. Não importa que as pessoas te julguem mal. O bem e o mal são determinados pelo Deus Supremo. Age. Certamente te concederei a primavera. Une-te às nações e aos teus subordinados e executa a tarefa. Se mudares de coração, serás consumido pela Roda de Fogo de Meishu. Jura e parte.
+
+**Mao:** Compreendo perfeitamente através de Vosso Olhar Espiritual. Cumprirei a missão sem falta. Com Vossa licença, retiro-me.
+
+*(Mao Tsé-Tung parte.)*
+
+**11 horas e 40 minutos de 18 de fevereiro**
+
+**Em seguida, apresentaram-se as seguintes entidades:**
+
+**Truman (Estados Unidos) – Dragão Vermelho**
+
+**Truman:** Felicitações por esta ocasião.
+
+**Meishu-Sama:** Estás ciente do motivo desta celebração? Qual foi tua atitude em relação ao Deus Supremo até agora?
+
+**Truman:** Sim, Senhor. Não tinha conhecimento até que o assunto foi divulgado nos jornais americanos.
+
+**Meishu-Sama:** Compreendeste, então, que o Deus Supremo desceu à Terra? Diante disso, qual é tua intenção? O que farás daqui em diante?
+
+**Truman:** Atualmente, tenho recebido comunicações de diversas nações sobre este assunto e estou a deliberar sobre várias questões.
+
+**Meishu-Sama:** Recebeste uma comunicação de Molotov?
+
+**Truman:** Sim, Senhor. Chegou ao meu conhecimento.
+
+**Meishu-Sama:** E, por isso, desejas cooperar? Queres te converter?
+
+**Truman:** Sim, converter-me-ei.
+
+**Meishu-Sama:** Cooperarás na batalha decisiva que definirá o futuro do mundo? O Deus Supremo desejava realizar esta purificação um pouco antes, mas a adiou consideravelmente. Com esse adiamento, muitos mais poderão ser salvos. Teus esforços foram notáveis. Por acaso não foste tu quem obstruiu a expansão da Obra do Deus Supremo na América?
+
+**Truman:** A princípio, sim. Obstruí por acreditar que o judaísmo seria prejudicado. De agora em diante, cooperarei com a Obra do Deus Supremo.
+
+**Meishu-Sama:** Tua força espiritual na palavra é diminuta.
+
+**Truman:** É que a Luz Divina está adentrando fisicamente a América, e por isso estou recebendo purificação.
+
+**Meishu-Sama:** Tu também te tornarás um membro da Sekaikyuseikyou, ou preferes não o ser?
+
+**Truman:** Gradualmente, tenho me aproximado. Gostaria de ser incluído como um de seus membros. Por trás da destruição, a criação se manifesta.
+
+**Meishu-Sama:** O que preferes?
+
+**Truman:** A criação.
+
+**Meishu-Sama:** Seja qual for, coopera com o que preferires. Declara-o em palavras.
+
+**Truman:** Sim, Senhor. Com o envio do Reverendo Higuchi à América, a primavera também chegará ao nosso país.
+
+**Meishu-Sama:** Tu compreendes mais rapidamente que os homens de bem.
+
+**Truman:** Sim, Senhor, pois a Luz Divina está penetrando em meu corpo físico.
+
+**Meishu-Sama:** De agora em diante, serve à América discretamente. Não precisas estar em evidência. Servirás?
+
+**Truman:** Sim, Senhor, dedicarei meus esforços.
+
+**Meishu-Sama:** Se assim o fizeres, concederei a primavera também ao povo judeu. Pensei no que fazer, pois seus pecados são profundos, mas se eles se converterem, conceder-lhes-ei a primavera.
+
+**Truman:** Ah, muito obrigado. Neste momento, estou passando por uma leve purificação.
+
+**Meishu-Sama:** Vou te aplicar Johrei. Onde está a purificação?
+
+**Truman:** Sim, Senhor. Na coluna vertebral.
+
+**Meishu-Sama:** É uma ligação com um espírito de dragão. Se cooperares de agora em diante, teu corpo impuro também será purificado. Jura que servirás.
+
+**Truman:** Sim, Senhor. Tendo recebido Vossa palavra de gratidão, juro que servirei.
+
+**Meishu-Sama:** Vieste de longe, agradeço teu esforço.
+
+**Truman:** Sim, Senhor. Por favor, envie uma forte Linha Espiritual para a América.
+
+**Meishu-Sama:** Enviar-te-ei uma Linha Espiritual ainda mais forte.
+
+**Truman:** Sim, Senhor. Muito obrigado.
+
+**8 horas e 30 minutos de 18 de fevereiro**
+
+**Eisenhower (Estados Unidos) – Dragão Negro**
+
+**Meishu-Sama:** Espírito de Eisenhower, que estás no corpo de Nobuko, apossa-te do corpo de Shigeru.
+
+**Eisenhower:** Sou Eisenhower.
+
+**Meishu-Sama:** Ontem, vieste para uma audiência em Atami, não foi? Na companhia de quem retornaste? Aguardavas ansiosamente por esta avaliação espiritual. Ouviste as diversas conversas?
+
+**Eisenhower:** Sim, ouvi. Rogo-lhe, por favor, que me utilize.
+
+**Meishu-Sama:** Tu és um Dragão Negro, correto?
+
+**Eisenhower:** Sim. Por favor, utilize-me em Vossa Obra.
+
+**Meishu-Sama:** Ajuda a expandir rapidamente a salvação da nossa fé na América. Tu te alegraste com a expansão da nossa fé na América. Quando o Presidente Maki estava a caminho de Tóquio, perguntei se fora tua obra o fato de ele quase ter perdido o trem. Tu respondeste: "Eu não faria algo tão mesquinho". Conceder-te-ei a Palavra Divina do bem. Proclama-a com a força de um leão. Dentre todos os que vieram até agora, és o que melhor compreende. Conto contigo. Conto firmemente contigo.
+
+**Eisenhower:** Compreendido. Tornar-me-ei um grande protagonista no cenário mundial. Rogo-lhe Vossa proteção. Presidente, com vossa licença.
+
+*(Retorna com grande ímpeto.)*
+
+**MacArthur (Estados Unidos) – Linhagem dos Espíritos Justos**
+
+**MacArthur:** Sou MacArthur. Parabenizo-o por esta auspiciosa ocasião.
+
+**Meishu-Sama:** Há quanto tempo. Sinto saudades. Esperaste longamente por este dia, não?
+
+**MacArthur:** (Chorando de alegria) Esperei, sim.
+
+**Meishu-Sama:** Tu és um Espírito Justo. Foste muito obstruído em tuas ações. Mas tudo tem seu tempo e sua hora. Soubeste esperar com paciência. Foste muito perseverante.
+
+**MacArthur:** Minha perseverança não é nada, Vossa menção é imerecida.
+
+**Meishu-Sama:** Finalmente chegou o dia de subires ao grande palco do mundo.
+
+*(MacArthur soluça.)*
+
+**MacArthur:** Ah, que felicidade! Perdi a compostura com tamanha alegria.
+
+**Meishu-Sama:** O Deus Supremo pretende realizar a Grande Purificação do Mundo. Eisenhower compreendeu bem e disse que cooperaria. Truman também partiu dizendo que cooperaria.
+
+**MacArthur:** Ah, com isto, a Trindade está formada na América.
+
+**Meishu-Sama:** Unam vossas forças, os três.
+
+**MacArthur:** Sim, Senhor. Compreendi perfeitamente.
+
+**Meishu-Sama:** Prepara teu coração e avança. Esta é a batalha final do mundo. Enviar-te-ei uma forte Linha Espiritual. Conto firmemente contigo. Além disso, estamos expandindo a partir do Havaí como base. Coopera para que a expansão prossiga bem. Do contrário, o povo americano sucumbirá ao veneno dos medicamentos. Compreende-Me. Deixo esta incumbência aos teus cuidados.
+
+**MacArthur:** Que felicidade imerecida. MacArthur certamente cumprirá esta missão. Muito obrigado.
+
+**Meishu-Sama:** Vem em peregrinação todos os meses. Vem e ouve as diversas conversas.
+
+**MacArthur:** Sim, Senhor. Virei para uma audiência formal.
+
+**Meishu-Sama:** Vem. Venham juntos, os três.
+
+**MacArthur:** Sim, Senhor. Muito obrigado. Agradeço ao Sol, à Lua e à Terra.
+
+*(Parte em prantos de alegria.)*
+
+**11 horas de 19 de fevereiro**
+
+**Nehru (Índia – Primeiro-Ministro e Ministro das Relações Exteriores) – Dragão Negro**
+
+**Meishu-Sama:** Bem-vindo, senhor Nehru, por quem Eu aguardava.
+
+**Nehru:** Ha, ha! Sou o servo Nehru. Agradeço imensamente por este chamado. Ah, que felicidade.
+
+**Meishu-Sama:** Como estão as coisas por aí? O momento tão esperado parece estar chegando, não?
+
+**Nehru:** Ah, a situação está se tornando cada vez mais turva. Rogo-lhe, servo Nehru, que me confie uma grande missão.
+
+**Meishu-Sama:** Conto firmemente contigo. Guarda isto em teu coração e age com firmeza.
+
+**Nehru:** Agirei com prudência. Como há outros aguardando, despeço-me por hoje. Rogo por Vossa proteção.
+
+**Meishu-Sama:** Volta em peregrinação. Traz teus acompanhantes. Agradeço teus esforços.
+
+**Panikkar (Índia – Ex-embaixador na China) – Dragão Negro**
+
+**Meishu-Sama:** Quem és tu?
+
+**Panikkar:** Sou um servo do Dragão Negro.
+
+**Meishu-Sama:** Sabes teu nome físico? És Panikkar, não?
+
+**Panikkar:** Ah, sim. Rogo-lhe que me utilize em Vossa Obra junto ao senhor Nehru.
+
+**Meishu-Sama:** Ajuda Nehru com firmeza. És o principal assistente. Precisarás de grande coragem para cumprir teu papel.
+
+**Panikkar:** Sim, Senhor. Compreendi perfeitamente. Como há outros aguardando hoje, despeço-me. Rogo por Vossa proteção.
+
+**Meishu-Sama:** Pois bem, Eu te protegerei. Volta para outra audiência.
+
+**Birla (Índia – Um dos Cinco Grandes Magnatas) – Dragão Negro**
+
+**Birla:** Agradeço imensamente por ter sido convidado nesta ocasião.
+
+**Meishu-Sama:** Tu também és um Dragão Negro.
+
+**Birla:** Sim. Pertenço à mesma linhagem das pessoas que vieram antes.
+
+**Meishu-Sama:** Tua cooperação será com os tesouros. Tens o papel de Daikoku. Conto firmemente contigo. Enviar-te-ei também um grande amparo espiritual. Conto firmemente contigo.
+
+**Birla:** Sim, Senhor. Cumprirei minha parte. Rogo-lhe Vossa proteção.
+
+**Sra. Pandit (Índia – Ex-embaixadora nos EUA, filha de Motilal Nehru) – Dragão Negro**
+
+**Sra. Pandit:** Sou Pandit. Rogo-lhe por vossa benevolência.
+
+**Meishu-Sama:** Ajuda teu pai, Nehru. Confio-te o papel de sua secretária. Confiei uma grande missão a Nehru. Se não agires com grande dedicação, ele não conseguirá cumpri-la.
+
+**Sra. Pandit:** Compreendi perfeitamente. Rogo-lhe Vossa proteção.
+
+**Meishu-Sama:** Mantém a discrição e uma atitude serena. Com isso, teu pai brilhará intensamente. Conto firmemente contigo.
+
+**Sra. Pandit:** Sim, Senhor. Cumprirei minha parte. Rogo-lhe Vossa proteção. Com Vossa licença.
+
+**Rajagopalachari (Ex-Governador-Geral da Índia) – Dragão Vermelho**
+
+**Meishu-Sama:** Chegaste. Agradeço teus esforços. Ajuda Nehru e cumpre com firmeza teu papel nos bastidores. O papel nos bastidores é crucial. A fundação é mais importante que a fachada da casa.
+
+**Rajagopalachari:** Sim, Senhor. Compreendi perfeitamente. Rogo-lhe Vossa benevolência.
+
+**Meishu-Sama:** Confio-te firmemente o papel de alicerce.
+
+**Rajagopalachari:** Sim, Senhor. Rogo por Vossa proteção. Como estou com pressa hoje, despeço-me.
+
+**Prasad (Primeiro Presidente da República da Índia) – Dragão Vermelho**
+
+**Prasad:** Agradeço imensamente por Vossa grandiosa proteção. Chegou o momento de servir abertamente a Meishu-Sama.
+
+**Meishu-Sama:** Recebeste comunicação da União Soviética? Conto firmemente contigo. Esta é a batalha decisiva que definirá o mundo.
+
+**Prasad:** Sim, Senhor! Cumprirei com firmeza a primeira ordem que me foi dada. Rogo-lhe Vossa proteção. Por hoje, despeço-me.
+
+**Rau (Índia – Ex-representante na ONU) – Dragão Vermelho**
+
+**Rau:** Agradeço por Vossa proteção diária.
+
+**Meishu-Sama:** As chamas da batalha estão prestes a se erguer.
+
+**Rau:** Sim, Senhor. Rogo para que eu possa cumprir magnificamente esta grande missão. Se eu a cumprir com firmeza, rogo por Vossa imensa proteção.
+
+**Meishu-Sama:** Apressa-te um pouco. Se permaneceres passivo, não serás útil.
+
+**Rau:** Sim, Senhor. Cumprirei com firmeza. Como estou com pressa hoje, despeço-me.
+
+**Meishu-Sama:** Agradeço teus esforços.
+
+**Kripalani (Um dos líderes supremos do Partido do Congresso) – Dragão Vermelho**
+
+**Kripalani:** Meishu-Sama, hoje é uma felicidade imerecida.
+
+**Meishu-Sama:** És muito querido pelo povo. És um homem afortunado. Nesta grande missão, teu papel é liderar as massas. Unificar o povo. Apenas alguém com tua popularidade pode cumprir esta tarefa. Conduze-os com carinho. O amor é fundamental.
+
+**Kripalani:** Sim, Senhor. Avançarei com o grande amor de Meishu-Sama. Agradeço por esta grandiosa missão. Rogo-lhe Vossa proteção.
+
+**Patel (Vice-Primeiro-Ministro da República da Índia) – Dragão Vermelho**
+
+**Patel:** Hoje é um dia auspicioso. Agradeço por Vossa constante e grandiosa proteção. Cooperarei para cumprir a grande missão que me foi confiada.
+
+**Meishu-Sama:** Aí está muito enevoado, por isso, confio-te uma limpeza rigorosa. Com tanta névoa, o Paraíso Terrestre não pode ser construído. Confio-te firmemente a limpeza. Suporta o sofrimento temporário pela felicidade do povo.
+
+**Patel:** Sim, Senhor. Compreendido. Rogo por Vossa proteção.
+
+**Rao (Ex-Secretário-Geral do Partido Comunista da Índia) – Dragão Vermelho**
+
+**Meishu-Sama:** Agradeço teus esforços diários na tarefa de purificação.
+
+**Rao:** Agradeço por esta grande missão. Irei cumpri-la.
+
+**Meishu-Sama:** Tu também tens o papel da destruição.
+
+**Rao:** Sim, Senhor. Por trás da destruição, a construção. Cumprirei a missão sem falta.
+
+**Narayan (Líder do Partido Socialista da Índia) – Espírito Feminino Justo**
+
+**Narayan:** Agradeço a permissão imerecida de hoje.
+
+**Meishu-Sama:** Com um espírito feminino, teus esforços diários são notáveis.
+
+**Narayan:** Sim, Senhor. Agradeço por ter confiado uma grande missão a alguém como eu.
+
+**Meishu-Sama:** De agora em diante, conto firmemente contigo.
+
+**Narayan:** Sim, Senhor. Cumprirei.
+
+**Meishu-Sama:** Há coisas que um homem não pode fazer, mas uma mulher sim. Confio-te firmemente essa tarefa.
+
+**Narayan:** Guardarei em meu coração e cumprirei.
+
+**Meishu-Sama:** Age com suavidade.
+
+**Narayan:** Sim, Senhor. Por hoje, despeço-me.
+
+**Ali Khan (Primeiro-Ministro do Paquistão, assassinado) – Linhagem dos Espíritos Justos**
+
+**Ali Khan:** Agradeço a permissão imerecida de hoje.
+
+**Meishu-Sama:** Vieste do Mundo Espiritual?
+
+**Ali Khan:** Sim. Aguardava ansiosamente por esta grande missão.
+
+**Meishu-Sama:** Confio-te firmemente a missão no Mundo Espiritual. Foi um destino trágico, mas Eu te chamei, pois havia uma missão para ti no Mundo Espiritual. Tu és um Espírito Justo. É difícil para um Espírito Justo manter um corpo em um lugar tão maculado. Teus esforços foram notáveis. Do Mundo Espiritual, salva com firmeza o povo da Índia. Isso repousa sobre teus ombros. Conto contigo. Volta em peregrinação. Teu sofrimento se aliviará gradualmente. Vem. Vem receber Johrei novamente.
+
+**Ali Khan:** Rogo-lhe Vossa benevolência.
+
+**Jinnah (Primeiro Presidente do Paquistão) – Espírito Justo**
+
+**Jinnah:** Agradeço imensamente por esta grandiosa e profunda missão.
+
+**Meishu-Sama:** A linhagem dos Espíritos Justos é serena. Não sejas tão contido, age com mais vigor. Assim não serás útil.
+
+**Jinnah:** Sim, Senhor. Eu estava retraído.
+
+**Meishu-Sama:** De agora em diante, coopera com Ali Khan no Mundo Espiritual. Age com a força de mil, de dez mil homens. Age com um espírito vigoroso. Não mostres a mesma fraqueza de antes.
+
+**Jinnah:** Sim, Senhor. Peço desculpas.
+
+**Meishu-Sama:** O Partido Comunista e todos os outros cumprem papéis que Eu lhes designei. É o mesmo tipo de missão, então não te retraias. Salva as pessoas com uma palavra espiritual forte.
+
+**Jinnah:** Sim, Senhor. Cumprirei. Em um dia futuro, virei em peregrinação ao Vosso local para expressar minha gratidão. Por hoje, despeço-me.
+
+**Bao Dai (Ex-Chefe de Estado do Vietnã) – Espírito Justo**
+
+**Bao Dai:** Felicitações por esta ocasião. Chegou o momento de servir abertamente à Obra de Meishu-Sama, e agradeço imensamente por isso.
+
+**Meishu-Sama:** Enganaste muito bem os Espíritos Malignos. Teus esforços foram notáveis. Nenhum outro poderia imitar o que fizeste. Desempenhaste o papel de Oishi Yoshio do Japão.
+
+**Bao Dai:** Sim, Senhor. Graças à Vossa forte Linha Espiritual, este momento feliz chegou.
+
+**Meishu-Sama:** A primavera finalmente chegará a essa terra enevoada.
+
+**Bao Dai:** Sim, Senhor. Esperei, esperei por este momento. Cumprirei a missão sem falta. O tempo chegou. Em breve, virei para uma audiência física. Com Vossa licença.
+
+**Vo Nguyen Giap (Comandante-em-Chefe da República Democrática do Vietnã) – Espírito Justo**
+
+**Vo:** Agradeço imensamente pela permissão. Felicitações por este dia.
+
+**Meishu-Sama:** Sofreste por muito tempo.
+
+**Vo:** Sim, Senhor. Que felicidade imerecida. Agradeço, Meishu-Sama, por Vossa imensa proteção. A hora finalmente chegou.
+
+**Meishu-Sama:** Até agora, estavas construindo a fundação. De agora em diante, confio-te a construção. Agradeço teus esforços hoje.
+
+**Vo:** Cumprirei com firmeza daqui para frente. Rogo por Vossa proteção ainda maior.
+
+**De Lattre de Tassigny (Ex-Alto Comissário da França na Indochina)**
+
+**De Lattre:** Meishu-Sama, receber Vossa permissão é uma verdadeira felicidade. Felicitações por este dia.
+
+**Meishu-Sama:** Sofreste por muito tempo. Confio-te esforços ainda maiores que os de até agora.
+
+**De Lattre:** Sim, Senhor. Tendo recebido Vossa palavra de gratidão, cumprirei sem falta a salvação da construção. Rogo-lhe Vossa proteção.
+
+**Pham Van Dong (Vice-Primeiro-Ministro e Ministro do Interior da República Democrática do Vietnã)**
+
+**Pham:** Felicitações por este dia. É uma grande alegria poder contemplar a face de Meishu-Sama.
+
+**Meishu-Sama:** Sofreste por muito tempo. Não viste a luz do dia por um longo período.
+
+**Pham:** Não, esse sofrimento não é nada comparado ao de Meishu-Sama. Através do sofrimento, pude aprimorar meu espírito.
+
+**Meishu-Sama:** O sol finalmente começou a brilhar sobre o mundo. Dedica-te à tua missão com tranquilidade. Guarda isto firmemente em teu peito. Conto contigo.
+
+**Pham:** Cumprirei, arriscando minha própria vida. Rogo por Vossa proteção.
+
+**Nguyen Van Xuan (Primeiro Presidente do Governo Central Provisório do Vietnã) – Espírito Feminino**
+
+**Nguyen:** Sinto uma felicidade imerecida por esta grandiosa permissão.
+
+**Meishu-Sama:** Sendo mulher, teus esforços diários são notáveis. Suportaste e serviste bem. A hora finalmente chegou. Conto firmemente contigo. Desempenha teu papel com tua grande coragem.
+
+**Nguyen:** Sim, Senhor. Cumprirei com firmeza. Embora mulher, esforçar-me-ei. Rogo por Vossa imensa proteção futura.
+
+**Sukarno (Atual Presidente da República da Indonésia, chamado de "Sol das Índias Orientais", popular, pró-americano)**
+
+**Sukarno:** Hoje é uma felicidade imerecida.
+
+**Meishu-Sama:** Tens um nome muito bom, "Sol das Índias Orientais". O Sol da Índia. Derrete bem o mal.
+
+**Sukarno:** Sim, Senhor. Derreterei. Rogo que derrameis sobre mim a mesma proteção que o Sol do Japão. Ah, esperei, esperei. O tempo chegou. Cumprirei esta grande missão sem falta. Salvarei, derretendo com grande amor. Sol do Japão, por favor, guiai minha mão. Rogo por Vossa proteção futura. Com Vossa licença.
+
+**Hatta (Vice-Presidente da República da Indonésia)**
+
+**Hatta:** Chegou um momento verdadeiramente auspicioso, um dia muito esperado. Felicitações.
+
+**Meishu-Sama:** Tu, cumpre o papel da água na Indonésia. Age em harmonia com Sukarno.
+
+**Hatta:** Sim, Senhor. Por favor, transmitam meus cumprimentos à Água do Japão. Hoje, para não atrapalhar a Obra Divina, despeço-me. Rogo-lhe Vossa benevolência no futuro.
+
+*(Saúda Meishu-Sama e a Água, Shoichi, antes de partir.)*
+
+**Alimin (Secretário-Geral do Partido Comunista da Indonésia, dito ter sido executado) – Espírito Feminino**
+
+**Alimin:** Felicitações por este dia. Agradeço por Vossa constante e grandiosa proteção.
+
+**Meishu-Sama:** És mulher? Tua missão na Indonésia é a da terra. O papel de alicerce. Tua missão também é grandiosa. Conto firmemente contigo. És diferente do que dizem os rumores. Dizem que foste executada, mas és muito hábil em despistar. Eu te protegerei. Age com firmeza.
+
+**Alimin:** Sim, Senhor. Muito obrigada. Cumprirei com firmeza. Por favor, transmitam também meus cumprimentos à Terra do Japão.
+
+**Musso (Membro do Comitê Central do Partido Comunista da Indonésia, dito ter sido executado) – Espírito Feminino**
+
+**Musso:** Agradeço pela permissão imerecida de hoje.
+
+**Meishu-Sama:** Não foste executada? Tu também despistaste? As mulheres são muito hábeis em se disfarçar e escapar. Confio-te firmemente o papel de auxiliar de Alimin. Esconde-te bem e age. Mantém uma postura discreta e oculta-te. Quando a hora chegar, o palco será vosso. Teus esforços foram notáveis.
+
+**Musso:** Sim, Senhor. Rogo-lhe Vossa benevolência. (Dirigindo-se a Kimiko) Vossa missão é a mesma que a minha. Rogo-lhe Vossa cooperação.
+
+**Soekiman (Atual Primeiro-Ministro da República da Indonésia)**
+
+**Soekiman:** Felicitações por este dia. Agradeço imensamente por Vossa grandiosa proteção.
+
+**Meishu-Sama:** Estás aposentado devido à idade?
+
+**Soekiman:** Sim. Estou aposentado, mas com boa saúde. Eu esperava pela chegada deste dia.
+
+**Meishu-Sama:** Tu também és um ator habilidoso. És o mentor de todos. Sê o pai de todos. Proporciona-lhes força. Os jovens têm ímpeto, mas fraquejam diante de pequenos obstáculos. Conto firmemente contigo.
+
+**Soekiman:** Sim, Senhor. Rogo por Vossa proteção.
+
+*(Faz uma reverência a Meishu-Sama e depois saúda Maki antes de partir. Parece ter um papel semelhante ao de Maki.)*
+
+**Sjahrir (Líder do Partido Socialista da Indonésia, ex-Primeiro-Ministro)**
+
+**Sjahrir:** Felicitações por esta ocasião. Agradeço pela permissão imerecida de hoje e rogo por Vossa benevolência futura.
+
+**Meishu-Sama:** Sofreste por muito tempo. Confio-te o papel de apoiar Soekiman. Orienta os mais jovens. Chegou a hora de colheres os frutos de teus longos anos de sofrimento.
+
+**Sjahrir:** Sim, Senhor. Cumprirei.
+
+*(Parece ter um papel semelhante ao da esposa de Maki, e pede que lhe transmitam seus cumprimentos antes de partir.)*
+
+*(Término às 12h de 19 de fevereiro)*
+
+**Início às 14h de 19 de fevereiro**
+
+**Aung San (Organizador do movimento antijaponês, assassinado em 1947) – Birmânia**
+
+**Aung San:** Agradeço por ter me concedido permissão nesta ocasião. Felicitações. O tempo finalmente chegou e, graças a Vós, a primavera está vindo.
+
+**Meishu-Sama:** Sofreste por um longo período. És um Espírito Justo. Finalmente, o teu palco iluminado chegou. Eu sempre soube de ti. De agora em diante, dedica-te com afinco. Sei que haverá muitas dificuldades, mas guarda este sentimento de Meishu-Sama em teu coração e age. Eu te protegerei com especial atenção. Consta que foste assassinado, mas teu corpo existe. Conseguiste te ocultar com maestria. De agora em diante, conto firmemente contigo.
+
+**Aung San:** Dedicar-me-ei abertamente à Obra. Rogo-lhe Vossa benevolência.
+
+**Thakin Than Tun (Líder do Partido Comunista)**
+
+**Thakin:** Felicitações por este dia.
+
+**Meishu-Sama:** Tentaram atentar contra tua vida. Fingias ser do Partido Comunista, mas a linhagem dos Espíritos Justos é muito visada. Agiste muito bem. Eu te protegerei, portanto, age com firmeza e cautela.
+
+**Thakin:** Certamente cooperarei. Rogo-lhe Vossa benevolência.
+
+**U Nu (Atual Primeiro-Ministro da Birmânia)**
+
+**U Nu:** Felicitações por este dia.
+
+**Meishu-Sama:** Tu também representaste um papel por muito tempo. Ocultaste-te bem sob a fachada de comunista. Agir contra os próprios sentimentos exige uma grande capacidade de dissimulação. De agora em diante, Eu te protegerei, portanto, age com dedicação.
+
+**U Nu:** Sim, Senhor. Cumprirei esta grande missão sem falta. Rogo por Vossa proteção futura.
+
+**Thakin Soe (Líder do Partido Comunista da Birmânia) – Dragão Negro**
+
+**Thakin Soe:** Felicitações por este dia. Que felicidade imerecida. Vim apressadamente.
+
+**Meishu-Sama:** Tu és um Dragão Negro?
+
+**Thakin Soe:** Sim, sou. Tendo recebido Vossa imensa proteção, cumprirei sem falta o papel da destruição.
+
+**Meishu-Sama:** Se realizares a purificação, a primavera chegará à Birmânia. Em público, combatei, mas, em particular, une as mãos com Aung San.
+
+**Thakin Soe:** Sim, Senhor. Cumprirei. Rogo por Vossa proteção.
+
+**Osmeña (Filipinas – Ancião do Partido Nacionalista) – Atuação da Água**
+
+**Osmeña:** Agradeço pela auspiciosa notícia.
+
+**Meishu-Sama:** Teus esforços foram notáveis. Passaste por muitas dificuldades. As cortinas da grande peça teatral de Meishu-Sama, que abrange os três mil mundos, estão prestes a se abrir. Conto firmemente com a cooperação da América. Embora sejas idoso, Eu te darei a força. Orienta os mais jovens.
+
+**Osmeña:** Sim, Senhor. Rogo-lhe Vossa benevolência futura. Por favor, olhai dentro do meu coração. Certamente orientarei os mais jovens.
+
+**Meishu-Sama:** Volta novamente.
+
+**Osmeña:** Sim, Senhor. Muito obrigado.
+
+**Quirino (Ex-Presidente das Filipinas) – Atuação do Sol**
+
+**Quirino:** Meishu-Sama, felicitações. Agradeço imensamente por Vossa proteção diária.
+
+**Meishu-Sama:** Durante a Segunda Guerra, protegeste muitos japoneses. Agradeço teus esforços. Fiquei muito satisfeito.
+
+**Quirino:** Vossa palavra é uma honra imerecida.
+
+**Meishu-Sama:** Protegeste bem os japoneses em prol da construção. De agora em diante, também conto contigo. Coopera firmemente com a América.
+
+**Taruc (Filipinas – Líder da força central da independência nacional anti-americana) – Atuação da Terra**
+
+**Taruc:** Muito obrigado por hoje.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. Confiei uma grande missão à América. A Trindade das Filipinas deve trabalhar com afinco. Teu papel é o da terra.
+
+**Taruc:** Sim, Senhor. Rogo pela proteção da Trindade do Japão. Meishu-Sama, rogo-lhe Vossa benevolência futura.
+
+**Roxas (Terceiro Presidente das Filipinas, falecido em 1948)**
+
+**Roxas:** Felicitações por este dia.
+
+**Meishu-Sama:** Vieste do Mundo Espiritual? Confio-te firmemente a missão no Mundo Espiritual. Protege com afinco a Trindade das Filipinas. Será uma tarefa árdua. Conto firmemente contigo.
+
+**Roxas:** Sim, Senhor. Cumprirei sem falta. Rogo para que me concedais Vossa proteção.
+
+**Balgos (Filipinas – Secretário-Geral do Partido Comunista) – Espírito Feminino**
+
+**Balgos:** Muito obrigado por hoje.
+
+**Meishu-Sama:** És um Espírito Justo. Um espírito feminino. Disfarçavas-te de Dragão Vermelho do Partido Comunista. De agora em diante, não precisas mais te disfarçar. Teu papel é administrativo. Age com firmeza.
+
+**Balgos:** Sim, Senhor. Rogo-lhe Vossa benevolência futura.
+
+**Ganapathy (Presidente da Federação Geral do Trabalho da Malásia, executado em 1949)**
+
+**Ganapathy:** Agradeço por ter sido convidado.
+
+**Meishu-Sama:** Consta que foste executado. Como é? Tens um corpo?
+
+**Ganapathy:** Sim, possuo um.
+
+**Meishu-Sama:** Tu também te disfarçaste? Conseguiste te ocultar com maestria. Suportaste o sofrimento e te escondeste bem. Sem ti na Malásia, a primavera não chegará. Conto firmemente contigo.
+
+**Ganapathy:** Sim, Senhor. De agora em diante, cumprirei esta missão com firmeza. Com Vossa licença.
+
+**Tan Kah Kee (Grande comerciante chinês do Sudeste Asiático, revolucionário)**
+
+**Tan:** Muito obrigado por hoje. Sinceras felicitações.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. És um Espírito Justo, mas estavas disfarçado de Dragão Vermelho? És um espírito feminino. Teus esforços foram grandes.
+
+**Tan:** Sim, Senhor. De agora em diante, poderei servir abertamente à Obra.
+
+**Meishu-Sama:** Abandona as vestes do Dragão Vermelho. Do contrário, não poderás cumprir tua missão. Retorna à tua essência de Espírito Justo e trabalha!
+
+**Tan:** Sim, Senhor. A partir de hoje, despir-me-ei delas. Rogo-lhe Vossa benevolência futura.
+
+**Pibun (Tailândia – Atual Primeiro-Ministro)**
+
+**Pibun:** Sou Pibun. Meishu-Sama, felicitações. Como esperei por este dia. Cumprirei minha missão pela Tailândia sem falta.
+
+**Meishu-Sama:** Teus esforços foram longos. Traz logo a primavera à Tailândia, para que não haja apenas conflitos. O povo sofreu muito.
+
+**Pibun:** Sim, Senhor. Certamente me dedicarei à Obra. Rogo-lhe Vossa benevolência futura.
+
+**Pridi (Exerceu os cargos de Ministro das Relações Exteriores e Finanças antes da guerra, e liderou o "Movimento Tailândia Livre" durante a guerra)**
+
+**Pridi:** Agradeço por ter sido convidado nesta auspiciosa ocasião.
+
+**Meishu-Sama:** É penoso receber uma missão em um lugar tão enevoado. Ajuda Pibun e age com firmeza. Confio-te o papel de Ministro das Finanças, o papel dos tesouros.
+
+**Pridi:** Sim, Senhor. Tendo recebido Vossa palavra de gratidão, cumprirei sem falta. Rogo para que me concedais Vossa proteção.
+
+**Abdullah (Rei da Jordânia, assassinado)**
+
+**Abdullah:** Agradeço por ter sido convidado nesta ocasião.
+
+**Meishu-Sama:** És um rei? A região árabe também passa por grandes dificuldades.
+
+**Abdullah:** Sim, Senhor. Isso se deveu à Era da Noite.
+
+**Meishu-Sama:** A luz finalmente surgiu no Oriente. Dedica-te à tua missão com tranquilidade. Conto firmemente contigo. No Mundo Espiritual, cumpre com afinco o papel de salvar o povo árabe.
+
+**Abdullah:** Sim, Senhor. Cumprirei. Rogo por Vossa grandiosa proteção.
+
+**Ibn Saud (Rei da Arábia Saudita) – Pró-americano**
+
+**Meishu-Sama:** És o rei da Arábia?
+
+**Ibn Saud:** Sim. Felicitações. Chegou o momento de servir abertamente à Obra. Rogo por Vossa proteção ainda mais intensa no futuro.
+
+**Meishu-Sama:** Sofreste por muito tempo. De agora em diante, age com firmeza.
+
+**Nahas Pasha (Ex-Primeiro-Ministro do Egito, veterano político)**
+
+**Nahas:** Agradeço por ter sido convidado hoje. Felicitações. Poderei servir abertamente à Obra.
+
+**Meishu-Sama:** Sofreste bastante. Já estás bem idoso, como está teu corpo?
+
+**Nahas:** Sim, estou idoso, mas meu espírito está firme. Rogo-lhe que me utilize em Vossa Obra.
+
+**Meishu-Sama:** O "s" de Nahas se conecta ao "su" de Shushin (Deus Supremo). Sê o centro e age. Age com firmeza.
+
+**Nahas:** Muito obrigado. Rogo por Vossa proteção.
+
+**Faruk (Ex-Rei do Egito)**
+
+**Faruk:** Felicitações por esta ocasião.
+
+**Meishu-Sama:** Dissimulaste muito bem, fingindo-te indolente. Enganaste a todos com tua frivolidade para com as mulheres. Conto firmemente contigo. Cumpre esta grande missão com presteza. De agora em diante, não precisas mais fingir indolência. Não há necessidade de te esconderes.
+
+**Faruk:** Sim, Senhor. Compreendido. Na Era da Noite, se não agisse assim, seria assassinado. Mudarei minha conduta e avançarei. Por hoje, despeço-me. Rogo-lhe Vossa benevolência.
+
+**Husseini (Grande Mufti de Jerusalém, xenófobo)**
+
+**Husseini:** Agradeço por ter sido convidado. Sou um Espírito Justo, mas tenho cumprido a missão da destruição.
+
+**Meishu-Sama:** Tua verdadeira missão é a da construção. O dia raiou, portanto, de agora em diante, muda teu rumo. Tens um sonho, e essa é tua verdadeira missão. Coopera com a América.
+
+**Husseini:** É mesmo? Então, de agora em diante, dedicar-me-ei à construção. Certamente mudarei e cooperarei. Rogo-lhe Vossa benevolência.
+
+**Naguib (Atual Primeiro-Ministro do Egito, militar)**
+
+**Naguib:** Agradeço por Vossa constante e grandiosa proteção.
+
+**Meishu-Sama:** Conto firmemente contigo para esta próxima missão.
+
+**Naguib:** Que felicidade imerecida. Certamente cooperaremos em união. Cooperarei com a América. Rogo por Vossa proteção futura.
+
+**Spaak (Ex-Primeiro-Ministro da Bélgica)**
+
+**Spaak:** Agradeço imensamente por ter sido convidado nesta auspiciosa ocasião.
+
+**Meishu-Sama:** A ti também confiarei uma grande missão na batalha decisiva do mundo. O "s" de Spaak é o "su" de Shushin. É o papel do "su" da Bélgica. Chegou a hora de colheres os frutos de teus esforços passados. Conto firmemente contigo.
+
+**Spaak:** Muito obrigado (chora, comovido). Rogo por Vossa proteção futura.
+
+**Aranha (Político brasileiro)**
+
+**Aranha:** Agradeço por ter sido convidado nesta ocasião. Agradeço pela grande missão confiada à América.
+
+**Meishu-Sama:** És do Brasil? Teus esforços diários são notáveis. Para que a primavera também visite o Brasil, desejo expandir os ensinamentos da Sekaikyuseikyou. O que me dizes, cooperarás? O tio do Sol, Otogoro Kusakabe, também está no Brasil. Sua missão é transmitir o evangelho da Sekaikyuseikyou. Até lá, assume o papel da purificação.
+
+**Aranha:** Sim, Senhor. Assumirei. Certamente cooperarei. Rogo por Vossa proteção futura.
+
+**Evatt (Político australiano)**
+
+**Evatt:** Agradeço imensamente por ter sido convidado nesta ocasião. Chegou o momento de servir abertamente à Obra, e sinto uma felicidade imerecida.
+
+**Meishu-Sama:** Teus esforços diários também são notáveis. Cumpre o papel de salvar a Austrália.
+
+**Evatt:** Tendo recebido Vossa palavra de gratidão, agirei com coragem e cumprirei esta grande missão sem falta. Rogo por Vossa imensa proteção.
+
+**Meishu-Sama:** Eu te protegerei. Avança com determinação.
+
+**Evatt:** Sim, Senhor. Com Vossa licença.
+
+**Rómulo (Ex-Ministro das Relações Exteriores das Filipinas)**
+
+**Rómulo:** Muito obrigado por hoje. Sinceras felicitações. O momento tão esperado chegou. Cumprirei com firmeza.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. Ajuda Quirino.
+
+**Rómulo:** Sim, Senhor. Rogo por Vossa proteção futura. Como estou com pressa, despeço-me.
+
+**Nervo (Representante Permanente do México na ONU)**
+
+**Nervo:** Meishu-Sama, felicitações. Agradeço pela grande missão que me foi confiada.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. A ONU é um ambiente complexo. Teu papel é o do rugido do leão? Conto firmemente com tua grande coragem.
+
+**Nervo:** Agradeço por terdes percebido esta minha coragem. Agirei com o espírito de quem engole o mundo. Rogo por Vossa proteção ainda maior. Com Vossa licença.
+
+**Entezam (Político iraniano)**
+
+**Entezam:** Agradeço imensamente por este auspicioso convite.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. Conduzes bem uma nação tão complexa.
+
+**Entezam:** Sim, Senhor. Sinto-me feliz por Vossa palavra de gratidão. Chegou o momento de servir abertamente à Obra. Rogo por Vossa proteção para que eu possa cumprir esta grande missão.
+
+**Lie (Secretário-Geral das Nações Unidas)**
+
+**Lie:** Sinceras felicitações por este dia.
+
+**Meishu-Sama:** Teus esforços diários são notáveis. Teu papel também é muito difícil. De agora em diante, conto firmemente contigo. Confio-te o papel de alicerce. Até agora, cooperaste com o movimento pela paz na Coreia, mas isso não é mais necessário. De agora em diante, trabalha conforme a Vontade do Deus Supremo!
+
+**Lie:** Sim, Senhor. Cumprirei esta grande missão sem falta. Utilizai-me conforme Vossa Vontade. Como estou com pressa hoje, despeço-me.
+
+**Oppenheimer (Físico atômico americano)**
+
+**Oppenheimer:** Vim atendendo ao Vosso convite. Felicitações.
+
+**Meishu-Sama:** Como está a produção?
+
+**Oppenheimer:** Tem avançado bastante. Com os preparativos concluídos, a capacidade de produção aumentou consideravelmente.
+
+**Meishu-Sama:** Há muitos espiões se infiltrando. Isso também é necessário. Seria bom se a purificação pudesse ser feita sem o uso da energia atômica.
+
+**Oppenheimer:** Não, isto também foi criado por Deus.
+
+**Meishu-Sama:** Sim, é verdade. De agora em diante, trabalha de acordo com minhas comunicações.
+
+**Oppenheimer:** Sim, Senhor. Compreendido.
+
+**Baruch (Ex-representante dos EUA na Comissão de Energia Atômica da ONU)**
+
+**Baruch:** Vim hoje atendendo ao Vosso convite.
+
+**Meishu-Sama:** Teus esforços na área da energia atômica são notáveis.
+
+**Baruch:** Isto é um instrumento para a Grande Purificação. Encarregar-me-ei de construir as ferramentas para essa limpeza.
+
+**Meishu-Sama:** Não deve ser usado além do necessário, por isso, confio-te sua gestão.
+
+**Baruch:** Sim, Senhor. Compreendido. Rogo-lhe Vossa benevolência futura. Com Vossa licença.
+
+**Lilienthal (Ex-Presidente da Comissão de Controle de Energia Atômica dos EUA)**
+
+**Meishu-Sama:** Teus esforços foram longos. A hora finalmente chegou. Tu também te apresentarás? Fizeste-Me esperar até o momento certo. Agradeço teus esforços nessa missão. Isso não é mais necessário, portanto, conto contigo. Não a utilizeis além do necessário. Esta é uma arma que pode aniquilar a humanidade, não é um instrumento benéfico. É apenas para a purificação. Conto contigo.
+
+**Lilienthal:** Sim, compreendi. Certamente me apresentarei. Rogo por Vossa proteção futura.
+
+**Fuchs (Físico atômico britânico)**
+
+**Fuchs:** Agradeço por ter me convidado. Vim atendendo ao chamado.
+
+**Meishu-Sama:** Estás cumprindo pena atualmente? Essa missão foi árdua. E também foi necessária. Sofreste muito. Suportaste bem. Não te rebeles e preserva tua vida. Quando a hora chegar, haverá uma missão para ti. Está se aproximando. Não te mostres rebelde nem provoques ira. Tua vida correrá perigo. Sê paciente e obedece ao que te dizem.
+
+**Fuchs:** Sim, Senhor. Tendo recebido Vossa palavra de gratidão, esta é a imensa proteção que me foi concedida. Rogo-lhe Vossa benevolência futura.
+
+**Blackett (Físico britânico)**
+
+**Meishu-Sama:** Tu também agiste com prudência até a chegada do momento certo. Enfrentaste oposição e dificuldades.
+
+**Blackett:** Sinto-me feliz por Vossa palavra de gratidão.
+
+**Meishu-Sama:** Chegou a hora em que talvez seja necessário usar a energia atômica. Não gostaria de usá-la, mas, do contrário, a purificação não ocorrerá rapidamente.
+
+**Blackett:** Sim, Senhor. Compreendo Vossos sentimentos.
+
+**Meishu-Sama:** Para salvar o todo, é preciso sacrificar a parte. De agora em diante, cumpre tua missão com firmeza.
+
+**Fuchs:** Tendo recebido tantas palavras de gratidão, esforçar-me-ei ainda mais no futuro.
+
+Com isto, encerro meu relatório. Havia também as seções sobre Israel e Coreia, mas, por não ter conseguido transcrevê-las a tempo, peço sinceras desculpas pelo atraso. Relatarei na próxima oportunidade. Agradecendo imensamente por Vossa proteção diária, concluo este relatório.
+
+Saniwa: Nobuko Kusakabe
+Médium: Shigeru Mima
+
+---
+
+# Retrospectiva da Caravana de Conferências de Hokkaido (II) – Onde há sinceridade, há Proteção Divina
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Eikou
+**Título Original:** 北海道講演会を顧みて （二） ―誠あれば御守護あり― | **Status:** Published | **Edição/Página:** 197号 | **Data ISO:** 1953-02-25
+
+## Retrospectiva da Caravana de Conferências de Hokkaido (II) – Onde há sinceridade, há Proteção Divina
+
+*Publicado na revista Eikou nº 197, em 25 de fevereiro de 1953*
+
+**Kihara:** O fato de o assunto ter sido veiculado nos jornais é a prova de que houve alguma falha, um ponto que contrariou os Ensinamentos. Diante disso, apresentei um pedido de desculpas. Contudo, em seguida, passamos a expor a verdadeira natureza dos fatos.
+
+**Moderador:** Acaso não haveria, entre alguns, aqueles que, por interpretarem erroneamente os Ensinamentos de Meishu-Sama, pensam com certa ingenuidade que a ocorrência de incidentes é benéfica por promover a expansão da Obra?
+
+**Kihara:** Poderíamos simplesmente considerar a exposição na imprensa como um juízo divino e encerrar o assunto. Todavia, a interrupção da formação religiosa em decorrência desse problema é algo gravíssimo. Surge, então, a questão de como reparar essa falta. A causa fundamental do problema reside em uma conduta que contraria a Vontade de Meishu-Sama. O mesmo se aplica, por exemplo, à Agricultura Natural: se praticarmos exatamente como Meishu-Sama orienta, não haverá erro.
+
+**Sakai:** Houve ocasiões em que fomos mencionados positivamente pela imprensa, e isso resultou em expansão. No entanto, o que é publicado também serve para revelar a postura da pessoa ou do grupo em questão.
+
+**Kihara:** Não posso detalhar as ações específicas que levaram a isso. O fato é que, até hoje, nunca havíamos gerado problemas. Se nos perguntam por que, mesmo realizando atividades semelhantes, não enfrentamos dificuldades, a resposta se resume a uma única expressão: a profundidade da Proteção Divina. É inútil persistir em práticas que não atraem a Proteção Divina. A raiz desse comportamento, na maioria dos casos, é a incapacidade de se desvencilhar de conceitos religiosos preestabelecidos.
+
+São nessas ocasiões que Deus, por vezes, nos repreende. Meishu-Sama, por sua vez, auxilia-nos, corrigindo nosso rumo por meio de Suas palavras. Embora Ele nos ensine sobre o “mecanismo de aprimoramento através da crítica”, também afirma: “O ideal, contudo, é que não surjam problemas”. Isso se conecta ao que Meishu-Sama sempre nos adverte: “As consequências são graves quando vocês negligenciam até mesmo minhas mais breves orientações”. Essa percepção é, em si, uma descoberta.
+
+A questão das preces por Proteção Divina também se torna clara com um pouco de reflexão. Se tivermos o hábito de manifestar profunda gratidão pela proteção já recebida, situações que exijam uma súplica especial por amparo não deveriam ocorrer.
+
+Por outro lado, mesmo nos casos em que a Proteção Divina é tênue, há um aspecto positivo, pois isso nos leva a tomar consciência de nossos próprios erros. Nessas circunstâncias, tentar resolver as coisas por meio de artifícios humanos é tão inútil quanto tentar manipular os mecanismos do governo. Peço desculpas por esta aparente digressão, mas é um ponto crucial, portanto, peço que o guardem em seus corações.
+
+**Moderador:** Muito obrigado por suas palavras tão profundas. Durante a caravana de conferências, os palestrantes tiveram alguma divisão de tarefas entre si?
+
+**Kihara:** Houve uma certa inclinação para dividirmos os temas, mas ao subir à tribuna e me concentrar na prédica, senti que as palavras me eram inspiradas. Naturalmente, consideramos a interligação entre as palestras, mas tudo parece ter transcorrido harmoniosamente graças à Proteção Divina.
+
+O Sr. Ishihara abordou o tema da Luz do Oriente sob uma perspectiva teórica, afirmando sua identidade com a Sekaikyuseikyou. Em seguida, o Sr. Nakamura tratava de questões práticas relacionadas a doenças, mencionando a teoria dos micróbios e entrelaçando em sua fala os conceitos de Verdade, Bem e Belo. A mim, cabia a abordagem mais abrangente, não para repetir o que já fora dito, mas para aprofundar a perspectiva religiosa.
+
+Minha prédica consistia em explicar que a causa das doenças é o yakudoku (薬毒) e que toda a infelicidade se origina das máculas no espírito. Aprofundando, questionava por que o espírito se macula, para então esclarecer que as máculas surgem na exata medida em que transgredimos as leis da Grande Natureza. E concluía afirmando que Meishu-Sama manifestou-Se com o poder de dissipar tais máculas. Ao final, eu sempre introduzia uma parte da palestra dizendo: “Isto é algo que desejo dirigir aos membros”. Curiosamente, essa abordagem acabava por beneficiar também os não membros. Ainda que pudessem achar o conteúdo um tanto insólito, como eu havia deixado claro que me dirigia aos fiéis, não lhes cabia intervir ou questionar.
+
+**Ishihara:** Foi uma demonstração de grande sabedoria.
+
+**Kihara:** Nas caravanas anteriores, nosso discurso era muito frágil. Limitava-se a dizer que “é bom ter qualquer tipo de fé” ou, quando muito, a sugerir timidamente: “Já que vai seguir uma fé, por que não a Sekaikyuseikyou?”. Nesta recente caravana, adotei uma postura mais assertiva. Afirmei: “Se alguém nesta plateia acredita que existe outro método para alcançar a verdadeira paz de espírito e segurança, peço que se retire imediatamente, pois não há necessidade de que ouça o que tenho a dizer. Contudo, se sentem o mínimo que seja de infelicidade, exorto-os a bater às portas da Sekaikyuseikyou e a nos pôr à prova. Nosso Deus não é mesquinho a ponto de exigir uma crença cega ou de basear Sua salvação na fé”.
+
+**Moderador:** Sendo assim, o público deve ter acompanhado com grande entusiasmo. Foi, de fato, um evento grandioso em nome e em realidade. Poderiam agora nos relatar brevemente a situação em cada localidade? A regra de que os locais maiores têm um tipo de sucesso e os menores outro se confirmou?
+
+**Kihara:** Sim, confirmou-se. A primeira conferência foi em Obihiro e, de início, senti-me um tanto frustrado, pois havia muitas crianças, o que não correspondia às minhas expectativas para a caravana de Hokkaido. A presença infantil nunca é um fator positivo, pois a ansiedade para que comece a exibição do filme permeia toda a atmosfera do local. Os responsáveis se desculpavam incessantemente, mas eu lhes disse: “Não digam tolices. Isto não é um sinal de que muitas crianças nascerão aqui? De nada adianta lamentar o ocorrido como se fosse um descuido”.
+
+**Ishihara:** Na segunda etapa, em Kitami, também havia um número considerável de crianças. Para acalmá-las, iniciei a palestra com um tom de conto de fadas, conectando-o gradualmente à fé e aos temas da Sekaikyuseikyou. A partir de Asahikawa, o cenário mudou. O evento ocorreu no salão de um grande hotel, o que dificultou o acesso do público geral e, naturalmente, impediu a entrada de crianças. O público era mais seleto, o que nos permitiu falar com mais tranquilidade para cerca de trezentas pessoas que lotaram o espaço. Em Sapporo, por ser a capital da província, o perfil do público era notável, com uma presença maciça de intelectuais. De todas as cidades até então, foi em Sapporo que sentimos a maior receptividade. As trezentas pessoas preenchiam completamente o auditório da Câmara de Comércio, e a palestra fluiu com grande facilidade.
+
+A etapa seguinte foi em Hakodate, em um centro comunitário de trabalhadores. O ambiente não era dos mais serenos, com uma festa de casamento e uma reunião sindical ocorrendo em salas adjacentes. Havia aproximadamente duzentos e setenta participantes. Com isso, encerrou-se a primeira fase da caravana, e a partir de então, prosseguimos apenas nós três. Foi como o início de uma segunda caravana por Hokkaido.
+
+Seguimos para Yoichi, onde a conferência foi realizada no Teatro Gin-ei. Apesar do pouquíssimo tempo de preparação e do número reduzido de membros, o esforço de divulgação foi heroico. Uma escola de corte e costura, por exemplo, dispensou todas as suas alunas para que pudessem assistir. Havia muitos estudantes do primário, que pareceram absorver bem a fala espirituosa do Rev. Nakamura. O evento foi um sucesso vibrante, com cerca de setecentos presentes, e trouxe uma lufada de ar fresco em comparação às cinco etapas anteriores. O fato de o local ser um dos mais esplêndidos da região, algo raro no interior, certamente facilitou o acesso do público, mas o empenho na divulgação foi o fator decisivo.
+
+Depois, fomos ao extremo norte de Hokkaido, a cidade de Wakkanai, de onde se pode avistar a ilha de Sacalina em dias claros. O local também era um cinema magnífico e de grandes dimensões. O esforço diligente dos dirigentes locais resultou em um público de mil e quinhentas pessoas. Nossas palestras tornaram-se correspondentemente mais fervorosas. A partir do momento em que ficamos apenas nós três, a caravana adquiriu a atmosfera de um autêntico e íntimo evento da Sekaikyuseikyou.
+
+A última parada foi a cidade de Bibai, onde ocorreu o incidente. Foi a localidade em que o chefe da filial mais se empenhou, e a mobilização esteve a cargo do grupo ligado ao Sr. Yamaguchi. A conferência foi realizada no centro cívico. Sendo uma nova cidade carvoeira, enfrentamos condições adversas, como o fato de ser dia de pagamento. No entanto, para nossa surpresa, o público era majoritariamente masculino e com um perfil intelectualizado. Dirigi minha fala a esse público, e senti que consegui cativar sua atenção.
+
+**Moderador:** Percebe-se, então, que as condições geográficas e as diversas adversidades podem ser superadas, desde que haja sinceridade.
+
+**Kihara:** Não se pode dizer que as condições externas não nos afetem, mas, em essência, é como se não afetassem. Uma vez que recebemos a permissão divina para atuar em determinado local, questões como a logística são meramente humanas; o natural é que tudo transcorra bem.
+
+**Nakamura:** Um fator primordial foi o entusiasmo. Membros de outras filiais vieram em auxílio, visitando as residências uma a uma para divulgar e convidar as pessoas. Creio que esse espírito de união, de agir como um só corpo, desempenhou um papel fundamental no sucesso.
+
+**Kihara:** Disseram-me que, dos onze chefes de filial, apenas dois não puderam comparecer; quase todos vieram de locais distantes para colaborar. Durante uma das palestras, ao saber que havia pessoas que viajaram do extremo norte, de Wakkanai, até Bibai para nos apoiar, senti-me revigorado.
+
+**Ishihara:** É um modelo para o futuro.
+
+**Moriyama:** Até o ano passado, a Sede Central adotava uma postura reativa. Recebíamos solicitações de diversas Igrejas e, a partir delas, contatávamos outras para elaborar um plano. Contudo, deparávamo-nos com a falta de cooperação de alguns, que alegavam: “Fomos comunicados tarde demais e não conseguimos nos organizar”. Agora, porém, a estratégia mudou: decidimos começar pelo norte, tendo Hokkaido como ponto de partida, e um plano concreto foi estabelecido sob minha coordenação. Desta vez, a colaboração foi excepcional, e as agendas de fevereiro e março foram definidas rapidamente.
+
+É admirável ver os responsáveis pelas Igrejas unindo esforços no planejamento. A primeira grande melhoria foi, sem dúvida, a facilidade com que as agendas foram sendo estabelecidas. Ademais, o fato de os dirigentes da Sekaikyuseikyou estarem à frente das conferências pode ser visto, em certo sentido, como um programa de formação para futuros preletores. A criação de um órgão dedicado a transmitir os Ensinamentos de Meishu-Sama sem distorções representa um avanço alvissareiro para o futuro de nossas caravanas de conferências.
+
+Por fim, para os membros locais, creio que o exemplo do que ocorreu com o grupo do Sr. Yamaguchi nos mostra a crescente importância de não deixar a responsabilidade da organização apenas a cargo da localidade anfitriã, mas sim de promover a mútua cooperação.
+
+**Moderador:** Agradeço imensamente a todos pelo tempo e pelas valiosas explanações. Com isto, declaro encerrada nossa mesa-redonda “Retrospectiva da Caravana de Conferências de Hokkaido”.
+
+---
+
+# Breves Considerações sobre a Agricultura Natural
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
+**Título Original:** 参考文献 自然農法寸考 | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
+
+## Breves Considerações sobre a Agricultura Natural
+Publicado na revista Eikou, nº 97, em 28 de março de 1951
+Kousaburou Fujieda (27 anos), da Igreja Aikou-Naka, província de Aichi
+
+Gostaria de registrar aqui algumas reflexões, sob a perspectiva de quem se dedica à difusão da Agricultura Natural.
+
+É natural da índole humana a tendência a enxergar as coisas com parcialidade; contudo, essa falha, na qual é tão fácil incorrer, revela-se um obstáculo inesperado à sua divulgação. As pessoas em geral tendem a comparar nosso pior resultado com o melhor resultado delas. Tal atitude talvez se origine de um sentimento arraigado, de uma relutância em aceitar este novo método de cultivo. Por outro lado, nós mesmos, ao divulgarmos nossos resultados, por vezes cometemos a imprudência de sermos negligentes sem nos darmos conta. Nesse sentido, torna-se crucial, antes de tudo, compreender a maneira como as pessoas costumam pensar. Citemos um exemplo: diante do anúncio de uma colheita de “quinze fardos por *tan*”, uma investigação mais atenta pode revelar que tal resultado foi obtido em uma pequena parcela de terra, onde se aplicou adubo orgânico em abundância, e que a produção foi meramente extrapolada para estimar o rendimento total. Visto de fora, a reação será: “Qualquer um consegue isso em uma área tão restrita. Os registros das estações experimentais apresentam números ainda mais expressivos”.
+
+Recentemente, visitei um campo de cultivo experimental com dezenas de membros. À direita do campo de Agricultura Natural, havia uma plantação com adubos químicos severamente danificada, uma visão lastimável. À esquerda, outra plantação com adubos, porém, sem danos tão significativos. O que ocorreu, entretanto, foi que quase todos se reuniram instintivamente do lado direito e começaram a louvar a Agricultura Natural, comparando-a com a lavoura em péssimo estado. Ao ver a cena, um dos membros exclamou: “Companheiros, assim não chegaremos a lugar algum! De nada adianta comparar com o que está ruim; é preciso confrontar com o que está bom!”. Foi então que todos caíram em si e deram início à comparação com a lavoura em bom estado, que estava à esquerda.
+
+Embora essa atitude possa parecer compreensível e até mesmo perdoável, vista sob o prisma do sentimento humano, na prática, ela gera um efeito contrário. Acaba por fornecer aos críticos motivos para o descrédito e o distanciamento, obstruindo, assim, a difusão do método. A observação precisa e a divulgação fidedigna dos fatos: eis o que considero fundamental.
+
+Passemos agora à questão da postura investigativa. Tomemos como exemplo o cultivo de arroz. É comum enfatizarmos que uma produção de “oito fardos por *tan*” supera em qualidade e em todos os demais aspectos a da lavoura vizinha, que utiliza adubos. Contudo, se a pesquisa sobre o cultivo de inverno, como o do trigo, for insuficiente, logo surgirá a objeção: “O arroz pode até crescer com pouco fertilizante, mas, com esse método, o trigo não vingará. O trigo exige uma adubação especial”. De fato, no cultivo de inverno do trigo, a Agricultura Natural exige um período mais longo para frutificar em comparação ao método com adubos. Se o agricultor não estiver ciente desse fato, o resultado pode ser um grande insucesso. Ele não só receberá duras críticas, como também correrá o risco de perder seu entusiasmo, pressionado por fatores externos. Tenho observado casos esparsos em que, levados pela propaganda de que “basta praticar e a colheita certamente aumentará”, iniciam-se os trabalhos justamente pelo cultivo de inverno, culminando em fracassos inesperados.
+
+Neste ponto, é mister refletir mais uma vez sobre as palavras de Meishu-Sama: “Na Agricultura Natural, o fracasso é absolutamente impossível. Quando algo não corre bem, as causas são apenas duas: (1) a prática não está em conformidade com a verdadeira Agricultura Natural (por exemplo, usar esterco no adubo orgânico, semear tarde demais, entre outros fatores); ou (2) trata-se de um processo de purificação decorrente do *yakudoku*”. O segundo ponto é um processo natural e inevitável, mas o primeiro, a meu ver, exige uma compreensão profunda e abre um vasto campo para estudo. Quando os resultados esperados não se concretizam, por vezes, um estranho sentimento em relação à própria fé leva a pessoa a ocultar zelosamente esse fracasso valioso, em vez de aprender com ele. Tal atitude, em última análise, serve apenas para semear a dúvida sobre a Agricultura Natural, sem trazer benefício algum. Se considerarmos o ensinamento que nos exorta a “duvidar da fé o máximo possível”, não seria então a atitude correta, para quem desbrava um novo caminho, encarar o fracasso com um olhar justo, enfrentá-lo abertamente para compreender a Agricultura Natural e, a partir daí, desenvolver métodos adequados às condições de cada terra e de cada situação? Ademais, ao recebermos os relatos, percebo que há uma grande demanda não por simples informes de sucesso, mas sim por narrativas sobre os fracassos, a análise que se seguiu e o processo de superação. São essas experiências que servem como um cajado a guiar tanto os que já praticam o método quanto os que estão prestes a adotá-lo, permitindo-lhes evitar percalços e promover uma difusão harmoniosa.
+
+Portanto, alinhado às diretrizes da Kyuseikyou, reitero o desejo de que as apresentações incluam uma comparação com uma lavoura adjacente, de mesma cultura e de mesma classe, e que sejam sempre acompanhadas das observações e pareceres do próprio agricultor.
+
+---
+
+# Partitura da Construção do Paraíso Terrestre: Uma Visita à Sekaikyuseikyou
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Eikou
+**Título Original:** 参考文献 地上天国建設譜 “世界救世教を訪ねて” 高見範雄 | **Status:** Published | **Edição/Página:** 204号 | **Data ISO:** 1953-04-15
+
+## Partitura da Construção do Paraíso Terrestre: Uma Visita à Sekaikyuseikyou
+
+Por Takami Norio
+Da revista *Eikou* nº 204, publicada em 15 de abril de 1953
+
+Ao redigir este artigo, sinto-me na obrigação de tecer um breve comentário sobre minha relação com o Diretor Abe. O motivo é singular: embora apenas epistolar, nossa comunicação já se estendia por mais de dois anos, com a intensidade de um profundo anseio. Desta vez, por uma feliz e inesperada providência do diretor, fui agraciado com uma oportunidade de ouro. Apesar da brevidade e da natureza repentina do encontro, pude finalmente desfrutar da honra de conhecer pessoalmente aquele com quem mantive tão longa correspondência.
+
+Por sua intercessão, fui também agraciado com uma audiência especial de aproximadamente uma hora com Meishu-Sama — reverenciado hoje pelo mundo inteiro —, na sala de visitas de Hekiun-so. Ademais, tive a oportunidade de testemunhar, com meus próprios olhos e ouvidos, a grandiosa partitura da construção do Paraíso Terrestre sendo entoada em um dos contrafortes da cordilheira de Jikkoku, onde o esboço do ideal divino toma forma ao som retumbante dos motores. A emoção foi tamanha que, incapaz de guardar para mim tão profunda comoção, senti-me compelido a tomar a pena para registrar estas palavras.
+
+Ao encontrar o Diretor Abe no escritório da Sekaikyuseikyou, em frente à estação de Atami, tive a sorte de encontrá-lo disponível. Imediatamente após as saudações iniciais, ele, sem hesitar, declarou: "Meishu-Sama irá recebê-lo", e, chamando um carro, partimos em direção a Hekiun-so.
+
+Enquanto eu aguardava na sala de visitas, Meishu-Sama adentrou o recinto com naturalidade, trajando um quimono simples, após inspecionar as obras. Quando lhe relatei as circunstâncias de meu vínculo com o Diretor Abe, estabelecido por laços divinos, a partir de sua cordial resposta – "Ah, entendo" –, nossa conversa a três fluiu de um assunto a outro, com notável dinamismo. Abordamos a situação do Japão e o cenário mundial, perpassando por temas como religião, filosofia, política, economia, educação, arte e medicina. Jamais em minha vida encontrei alguém que possuísse uma visão tão abalizada e segura sobre uma gama tão vasta de assuntos; meu espírito permaneceu por longo tempo em um estado de profunda admiração. Omitindo, por ora, os pontos que não convêm à divulgação pública, os pontos principais, expressos por Meishu-Sama em seu característico dialeto de Edo, são os seguintes.
+
+## Sobre o lema da Sekaikyuseikyou
+
+Em primeiro lugar, prezar pelo bom senso. Nosso modo de vida e conduta em nada devem diferir dos de um cidadão comum. É imperativo manter sempre uma postura afável e harmoniosa no trato com todas as pessoas.
+
+## Sobre a cura das doenças
+
+A profusão de milagres é tamanha que, por vezes, gera incompreensões. Chegam a nos dizer que não se trata de uma religião de nível elevado. Contudo, sem a salvação individual, a construção do Paraíso Terrestre é inexequível. A autoridade — o poder de Deus — para salvar o indivíduo, tanto física quanto espiritualmente, não existe em nenhum outro lugar senão na Sekaikyuseikyou.
+
+## Sobre a Sekaikyuseikyou ser a religião do Dia
+
+O Budismo, em sua essência original, pertencia ao Mundo da Noite; era uma religião de transição. Agora, com a chegada da nova era, o mundo está em transição para o Dia. A proteção do Deus da Lua, associado ao Budismo, cessou, dando lugar à proteção do Deus do Sol. O poder divino emanado desta nova proteção é sessenta vezes superior ao da anterior.
+
+## Sobre a administração de hospitais por organizações religiosas
+
+Isso é um completo absurdo. Não compreendo por que uma organização religiosa necessitaria de um hospital. A posição intrínseca da religião deve ser superior à da ciência. Tal fato é uma prova cabal de que seu fundador não possui poder algum. Quem criou o ser humano foi Deus, e não a ciência. Apesar disso, o homem insiste em recorrer à ciência, em vez de confiar em Deus. Eis o equívoco fundamental. Se a ciência possuísse um poder de salvação superior ao da religião, esta seria, por consequência, inferior àquela.
+
+## A Sekaikyuseikyou é uma suprarreligião
+
+Eu sempre propugno o liberalismo democrático. Nossa Igreja apenas leva a cabo, na prática, a magna obra de salvação, inédita desde o início da história. Ensinamos a todas as pessoas do mundo a "desfrutar da vida", e isso é, em si, a graça de Deus. Somente nossa Igreja detém a autoridade — o poder de Deus — para abranger todas as coisas e construir o Paraíso Terrestre.
+
+## Sobre as conferências de paz
+
+Conferências de paz têm sido realizadas em diversos lugares e sob variados formatos, o que considero significativo. A questão, todavia, é o valor de uma conferência que não possui a menor conexão com os países do outro lado da Cortina de Ferro. Resta a dúvida se o verdadeiro objetivo da "paz" pode ser alcançado dessa forma. A solução para este problema reside unicamente na Sekaikyuseikyou.
+
+## Sobre a repercussão de “Salvar a América”
+
+Em um mês, a publicação ultrapassou facilmente a marca de quarenta mil exemplares vendidos. Apesar de expor radicalmente os pontos cegos da medicina, até o momento não recebemos uma única refutação por parte de algum especialista.
+
+## Comentário do Diretor Abe
+
+A Sekaikyuseikyou não se furta a realizar demonstrações públicas em sessões abertas, caso algum médico especialista assim o solicite.
+
+## Sobre a questão do rearmamento
+
+O problema é simples. Se houvesse uma garantia absoluta de que nenhuma nação invadiria o Japão, o rearmamento seria desnecessário. Na ausência dessa garantia, é preciso promover um rearmamento compatível com a força do país.
+
+E assim por diante. Infelizmente, o tempo era escasso. Com pesar, despedi-me da paisagem exterior, onde as ameixeiras-japonesas vermelhas estavam em plena floração e as cerejeiras precoces exibiam sete décimos de suas flores, e seguimos apressadamente para o canteiro de obras do Salão Messiânico.
+
+## Observando a construção do Salão Messiânico
+
+Aqui em Zuiunkyo, em uma área de aproximadamente cem mil metros quadrados desbravada em Momoyama, um dos picos da cordilheira de Jikkoku, o Salão Messiânico (com trinta e seis metros de fachada por cento e oito de profundidade) fará sua estreia como um santuário de estilo arquitetônico religioso sem precedentes no mundo. Mais de uma centena de dedicantes trabalham diligentemente, içando com guindastes estacas de concreto de sete metros — provavelmente feitas sob encomenda especial — e cravando-as no solo com o ressoar de um bate-estacas mecanizado de uma tonelada.
+
+A vista daqui é magnífica, um cenário de beleza inigualável, com a distante Ilha de Oshima a se descortinar abaixo. A Ilha de Hatsushima parece uma rocha ornamental, e as inúmeras ilhas que pontilham a superfície do mar assemelham-se a pedras de passagem, compondo um vasto jardim natural de renome universal. Atami, outrora uma simples vila de pescadores, renova por completo sua fisionomia, transformando-se a cada momento em um local de paisagens deslumbrantes. Do alto, pode-se contemplar toda a cidade, em meio às mudanças sazonais da montanha — com seus bosques de ameixeiras, cerejeiras, azaleias e lespedezas. É impossível não notar que, em cada árvore e em cada folha de grama, a virtude de Meishu-Sama resplandece.
+
+Soube que, nas adjacências, em Zuisenkyo (outra área de cem mil metros quadrados), as obras de um projeto centrado na água terão início em breve. A julgar pela maquete do salão, quando este estiver concluído, Atami ganhará mais um ponto de interesse notável. Ouvi também que já estão concebidos programas com a participação de grandes artistas japoneses para este grandioso santuário, capaz de abrigar cinco mil pessoas, e que se estuda a criação de uma linha de ônibus, sob gestão direta de Meishu-Sama, para o transporte até o cume da montanha. Diante de tal engenhosidade, planejamento e celeridade, só me resta sentir um profundo respeito.
+
+Desta forma, o projeto seria viável não apenas como religião, mas também como empreendimento. Gostaria que Ichizo Kobayashi pudesse ver isto. Talvez não haja prova mais eloquente de que o poder de Meishu-Sama é absolutamente incomparável em todos os tempos. Na encosta, uma área de quase sete mil metros quadrados está sendo preparada para um museu de arte, e as sucessivas muralhas de pedra que levam ao topo da montanha evocam inevitavelmente o Castelo de Osaka. De fato, em cada planta, a Luz Divina brilha intensamente. Ao ver as legiões de dedicantes engajadas com alegria na construção do Paraíso Terrestre, trabalhando com afinco, literalmente dia e noite, senti uma reverência tão profunda que uma pessoa ociosa como eu se sente impelida a recuar. Ao ouvir sobre os planos futuros para Zuiunkyo, fiquei ainda mais admirado com a excelência da visão.
+
+Quando a penumbra do entardecer se aproximava, despedi-me do Diretor Abe, que me guiara. Refletindo, percebi algo notável: a Sekaikyuseikyou não tem o menor aspecto de religião convencional. Não há nada que se assemelhe a um templo tradicional. E é um fato inegável que a manifestação do Plano Divino, centrada em Meishu-Sama, avança agora com o ímpeto do sol nascente, não apenas por todo o Japão, mas também rompendo as ondas dos oceanos para se expandir vigorosamente pelo mundo.
+
+## Minha decisão
+
+Decidi-me a participar da construção deste Paraíso Terrestre. Minha concepção de servir envolveria dedicar tudo o que possuo, mas, infelizmente, careço de recursos financeiros. Tendo uma família, preciso garantir nosso sustento. E se hei de viver, que seja para avançar em direção a este que é o maior objetivo da vida: a construção do Paraíso Terrestre sob a liderança de Meishu-Sama. Seria pedir muito um lar onde minha família de quatro pessoas possa viver e uma garantia para o nosso sustento mínimo? Tenho fé, e não duvido, de que minha decisão se concretizará.
+
+---
+
+# Manifesto de Fundação da Associação para o Estudo da Agricultura Natural do Ministério da Agricultura e Florestas
+
+**Categoria:** sanko | **Ano:** 昭和29(1954)年4月14日 | **Fonte:** Eikou
+**Título Original:** 参考文献 農林省自然農法研究会趣意書 | **Status:** Published | **Edição/Página:** 256号 | **Data ISO:** 1954-04-14
+
+## Manifesto de Fundação da Associação para o Estudo da Agricultura Natural do Ministério da Agricultura e Florestas
+
+A agricultura japonesa contemporânea, a despeito dos empenhados esforços do governo, de acadêmicos, técnicos e agricultores, encontra-se diante de uma grave crise.
+
+Neste momento crucial, surge um método agrícola revolucionário que dispensa o uso de fertilizantes e agrotóxicos, reduz a mão de obra, minimiza os danos causados por intempéries, geadas, secas e pragas e, ainda assim, eleva a produção ano após ano, alcançando um aumento superior a cinquenta por cento em um período de cinco anos. Este método já vem demonstrando notável eficácia em propriedades rurais por todo o país, tornando-se pauta em jornais, revistas e programas de rádio. Contudo, acadêmicos e técnicos, considerando-o um feito inconcebível, abstêm-se de investigá-lo, e o governo, por sua vez, ainda não se debruçou sobre o tema.
+
+Paralelamente, a Associação para a Difusão da Agricultura Natural, por meio de sua estrutura de alcance nacional, estabeleceu sedes regionais em cada província e avança vigorosamente em sua expansão, contando, segundo consta, com dezenas de milhares de agricultores que já adotaram suas práticas.
+
+Diante desse cenário, nós, funcionários do Ministério da Agricultura e Florestas, não nos sendo mais possível permanecer de braços cruzados como meros espectadores, realizamos investigações de campo e constatamos, independentemente das teorias subjacentes, que o aumento da produção é um fato incontestável.
+
+Temos a firme convicção de que, onde quer que um fato como este se manifeste, há de existir um fundamento de inegável racionalidade. Sob essa perspectiva, nós, os servidores deste Ministério que nutrem interesse por tal método agrícola, em mútua deliberação, sentimos a profunda necessidade de investigá-lo sob todos os seus ângulos, o que nos levou a fundar a presente associação.
+
+Exortamos, portanto, todos aqueles que subscrevem os propósitos aqui expostos e compartilham dos mesmos ideais a se filiarem prontamente a esta associação, a fim de que possamos, juntos, empreender este estudo.
+
+Março de 1954
+Os Promotores da Associação de Voluntários para o Estudo da Agricultura Natural do Ministério da Agricultura e Florestas
+
+A todos os interessados
+
+**Estatuto**
+
+(Denominação e Sede)
+Artigo 1º – Esta associação denomina-se Associação de Voluntários para o Estudo da Agricultura Natural do Ministério da Agricultura e Florestas e terá sua sede nas dependências do Ministério da Agricultura e Florestas.
+
+(Objetivo)
+Artigo 2º – A associação tem por objetivo investigar e pesquisar a Agricultura Natural sob todos os seus ângulos, bem como divulgar os resultados de tais estudos.
+
+(Membros)
+Artigo 3º – Qualquer funcionário do Ministério da Agricultura e Florestas poderá, a qualquer tempo, filiar-se a esta associação. No ato da filiação, deverá ser efetuado o pagamento de cinquenta ienes.
+
+(Diretoria)
+Artigo 4º – A associação será composta pelos seguintes cargos de diretoria:
+Um Presidente
+Dois Vice-Presidentes
+Dois Diretores Executivos
+Número variável de Conselheiros
+
+Artigo 5º – O Presidente, os Vice-Presidentes, os Diretores Executivos e os Conselheiros serão eleitos entre os membros, com mandato de um ano, sendo permitida a reeleição. O Presidente supervisionará as atividades da associação; os Vice-Presidentes o assessorarão; os Diretores Executivos se encarregarão das funções administrativas e da tesouraria; e os Conselheiros atuarão como elo de comunicação entre os diversos departamentos, visando ao bom andamento das atividades.
+
+(Consultores)
+Artigo 6º – Consultores poderão ser indicados dentre profissionais de notório saber e experiência, mediante deliberação da diretoria.
+
+(Atividades)
+Artigo 7º – Para alcançar os objetivos definidos no Artigo 2º, a associação desenvolverá as seguintes atividades:
+1. Estudo dos princípios da Agricultura Natural.
+2. Estudo da eficácia da Agricultura Natural.
+3. Pesquisa técnica sobre os métodos de implementação da Agricultura Natural.
+4. Pesquisas de campo em propriedades que praticam a Agricultura Natural.
+5. Pesquisas por meio de testes práticos comissionados da Agricultura Natural.
+6. Estudos comparativos com outros métodos agrícolas.
+7. Realização de simpósios sobre a Agricultura Natural.
+8. Coleta de materiais e documentos referentes à Agricultura Natural.
+9. Estudo de outras questões relacionadas à Agricultura Natural.
+10. Publicação de um periódico institucional.
+
+(Reuniões Mensais de Estudo)
+Artigo 8º – A associação realizará uma reunião mensal de estudos em data apropriada. Contudo, reuniões extraordinárias poderão ser convocadas quando o Presidente julgar necessário ou mediante solicitação de, no mínimo, cinco membros.
+
+(Finanças)
+Artigo 9º – As despesas da associação serão custeadas por meio de anuidades e doações. Anuidades adicionais poderão ser arrecadadas quando o Presidente considerar necessário, mediante a aprovação da maioria dos membros.
+
+Artigo 10º – O ano fiscal da associação terá início em 1º de abril e término em 31 de março do ano seguinte.
+
+(Assembleia Geral)
+Artigo 11º – A associação realizará uma Assembleia Geral em março de cada ano, ocasião em que ocorrerá a eleição da diretoria. O Presidente poderá convocar uma Assembleia Geral extraordinária quando julgar necessário.
+
+Artigo 12º – Na Assembleia Geral ordinária, o Presidente deverá apresentar o relatório de atividades, e os Diretores Executivos, o relatório financeiro.
+
+(Reforma do Estatuto)
+Artigo 13º – A alteração ou revogação deste estatuto exigirá a aprovação de, no mínimo, dois terços dos membros.
+
+**Resoluções Suplementares**
+
+1. A primeira diretoria será indicada pelos promotores, que apresentarão os nomes dos responsáveis, e sua nomeação será efetivada após a aprovação dos indicados e dos demais membros.
+2. Os consultores serão indicados por deliberação da diretoria, após a nomeação do Presidente.
+3. As reuniões mensais de estudo serão realizadas na segunda terça-feira de cada mês, a partir das dezessete horas.
+
+---
+
+# Editorial (Paraíso Terrestre, nº 59)
+
+**Categoria:** sanko | **Ano:** 昭和29(1954)年6月15日 | **Fonte:** Chijo Tengoku
+**Título Original:** 巻頭言 （地上天国59） | **Status:** Published | **Edição/Página:** 59号 | **Data ISO:** 1954-06-15
+
+## Editorial (Paraíso Terrestre, nº 59)
+
+Ao tomarmos conhecimento da Purificação pela qual Meishu-Sama passa, algo que sequer poderíamos imaginar, e ao não podermos reverenciar Sua presença no dia de peregrinação, fomos tomados por um profundo sentimento de desamparo. Sentimo-nos como um pequeno barco à deriva, com o leme partido em meio a um oceano de ondas revoltas. Foi justamente essa experiência que nos fez perceber, com absoluta clareza, a imensurável profundidade do grande amor de Deus que emana da divindade de Meishu-Sama.
+
+Em retrospecto, somos levados a sentir um profundo remorso, pois não teríamos nós dependido em demasia da presença física de Meishu-Sama? Ao longo das quatro estações, dia após dia, Ele dedicava-Se até a madrugada na elaboração de Seus Ensinamentos, na organização dos manuscritos para publicação e na ministração de Johrei durante os dias de peregrinação. Diante de Sua incessante e meticulosa dedicação a todos os assuntos da Igreja, movida pelo desejo de salvar cada um de Seus seguidores, é forçoso reconhecer a gravidade de nossa falta, pois nos acomodamos e permanecemos como meros espectadores.
+
+Pela natureza da presente Purificação, é-nos permitido inferir uma grande transição no Plano Divino e uma expansão da Obra Divina para esferas cada vez mais vastas e profundas. Com efeito, fomos informados de que o poder de cura através do Johrei foi nitidamente intensificado e se fortalece a cada dia. Nesse sentido, devemos estar cientes de que a Grande Purificação em escala mundial está prestes a ocorrer.
+
+Portanto, esta Purificação deve ser compreendida como um acontecimento de júbilo sem precedentes, um marco na concretização do ideal divino de construir o Paraíso na Terra. O momento de acolhermos tal evento com alegria certamente se aproxima. Tudo se desenrola segundo a Vontade Divina, e, por essa razão, não há por que nós, fiéis, com nossa limitada compreensão, nos entregarmos à ansiedade ou ao desalento.
+
+Felizmente, chegam-nos notícias de que a Purificação de Meishu-Sama progride favoravelmente a cada dia. De nossa parte, ao mesmo tempo que rogamos por Sua pronta recuperação para que possa novamente irradiar a Luz sobre toda a humanidade, é nosso dever apoiar o futuro Plano Divino de Meishu-Sama em escala mundial, zelar para que o desenvolvimento de nossa Igreja prossiga sem desvios e, em prol da salvação, firmar nossa determinação de seguir o caminho da fé sem equívocos, onde quer que Meishu-Sama se encontre neste mundo.
+
+---
+
+# Treze por cento dos residentes estão com tuberculose: Pesquisa realizada na zona industrial de Tsurumi
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年8月5日 | **Fonte:** Eikou
+**Título Original:** 参考文献 住民の十三パーセントが結核 鶴見工場街で結核調査 | **Status:** Published | **Edição/Página:** 220号 | **Data ISO:** 1953-08-05
+
+## Treze por cento dos residentes estão com tuberculose: Pesquisa realizada na zona industrial de Tsurumi
+
+Na cidade de Yokohama, em cooperação com o Ministério da Saúde e Bem-Estar e a prefeitura, foi realizada, durante quatro dias a partir do último dia 22, uma minuciosa pesquisa no bairro de Daitocho, distrito de Tsurumi. A localidade foi designada como uma área de estudo-piloto (pesquisa de modelo experimental), tendo como alvo 176 indivíduos de 36 famílias, com o objetivo de apurar o número exato de pacientes com tuberculose. Os resultados, consolidados no dia 29, revelaram que 54 pessoas apresentavam achados patológicos.
+
+Este número corresponde a 30,7% do total de participantes. A análise detalhada dos casos revela a seguinte distribuição: 14 pessoas (8% do total) necessitando de tratamento médico; 4 (2,3%) com recomendação de repouso; 5 (2,8%) que requerem observação; e 31 (17,6%) que apresentam lesões antigas da doença. Adicionalmente, os dados apontam para uma alta taxa de contágio intrafamiliar, sendo registradas duas famílias com quatro membros acometidos, cinco famílias com três e dez famílias com dois.
+
+Esta iniciativa do Ministério da Saúde e Bem-Estar integra um conjunto de medidas de profilaxia da tuberculose. Foi concebida como um projeto-piloto, antecedendo uma campanha de exames abrangentes que será implementada em agosto para os residentes de 214 localidades em todo o país. Nesse contexto, o bairro de Daitocho foi escolhido como a área representativa de uma região industrial.
+
+É digno de nota que a pesquisa contou com a participação de mais de vinte autoridades de renome dos círculos acadêmicos pertinentes, incluindo o Dr. Hideo Kumabe, diretor do Instituto de Pesquisa da Tuberculose, membros da Associação de Profilaxia da Tuberculose, agentes de saúde pública e pesquisadores da tuberculose pediátrica. Foram realizados exames rigorosos em toda a população-alvo, desde idosos até lactentes, abrangendo testes de tuberculina, radiografias diretas e indiretas, diagnósticos clínicos detalhados e análises de escarro.
+
+**Declaração do Sr. Maruyama, Chefe da Divisão de Saúde do Departamento de Saneamento:**
+
+Estes resultados, dotados de grande autoridade, indicam que pouco mais de 13% dos residentes da zona industrial estão acometidos pela tuberculose. Diante de tal quadro, torna-se imperativo fortalecer substancialmente a gestão da saúde pública, por meio de medidas como o plantio de mais árvores para mitigar o ressecamento do ar e a realização de exames de saúde periódicos e abrangentes para toda a população. Ademais, o fato de quatro crianças com menos de cinco anos de idade estarem entre os enfermos demonstra que não se pode ser complacente com a saúde infantil.
+
+---
+
+# Coletânea de Teses do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
+**Título Original:** 定例布教座談会 （第四回） | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
+
+## Coletânea de Teses do Reverendo Jikan Okada
+Busca de Ensinamentos: help
+Busca de Documentos:
+
+## Encontro Periódico de Difusão (Quarto Encontro)
+Revista Glória, nº 207, 6 de maio de 1953
+
+**Local:** Sede da Igreja Tyossei, Gora, Hakone
+**Data:** 25 de fevereiro de 1953
+**Orientador:** Yoshihiko Kihara
+**Participantes:**
+Presidente da Grande Igreja Koho: Tagao Sakai
+Presidente da Igreja Intermediária Tyossei: Utaro Nagamura
+Presidente da Igreja Intermediária Kossei: Kyoji Otsuki
+Presidente da Igreja Intermediária Koyo: Eitaro Ogawa
+Presidente da Igreja Intermediária Tsurumei: Eisaku Yumoto
+Grande Igreja Koho: Harumichi Nozoe
+
+**Ogawa:** Damos início, neste momento, ao nosso encontro periódico. Tivemos, recentemente, um ciclo de palestras nas regiões de Hokkaido e Tohoku, na costa oeste do Japão. Como os senhores presidentes de Igreja que estiveram envolvidos na organização se encontram presentes nesta noite, gostaria de ouvi-los a respeito. Em paralelo, realizou-se também um encontro sob a orientação do Reverendo Kihara, e creio que há diversos relatos sobre os frutos colhidos e as realidades que se manifestaram como resultado dessas atividades. Para começar, gostaria de ceder a palavra ao Reverendo Otsuki.
+
+**Otsuki:** A impressão mais forte que tive ao participar do encontro foi uma mudança notável no que se refere aos seminários. Percebi que, neste ano, os locais onde a difusão estagnara, mas que persistiam em seu trabalho com sinceridade, começaram a encaminhar novos membros para a formação. Em contrapartida, constatamos uma paralisação naqueles locais que adotavam uma abordagem impositiva, do tipo: "Receba a Sagrada Medalha, e todos os seus desejos se realizarão". Em nítido contraste, as unidades que mantinham seus relatórios e procedimentos em perfeita ordem experimentaram um crescimento expressivo, o que nos enche de otimismo quanto ao futuro. Sinto-me feliz por essa tendência de clareza em todas as coisas. O fato de que a prática correta gera resultados concretos e visíveis está sendo comprovado tanto no campo dos seminários quanto na ministração do Johrei, o que nos infunde ainda mais vigor.
+
+**Kihara:** É o que se chama de "causa boa, efeito bom; causa má, efeito mau". Se as coisas são feitas de forma correta, os resultados serão corretos. De agora em diante, portanto, a prática do bem gerará bons frutos.
+
+**Otsuki:** Tivemos a permissão de realizar palestras em Kitami e Yoichi, em Hokkaido, onde possuímos filiais. Falarei primeiro sobre Kitami. Após a conferência, novas pessoas começaram a frequentar a igreja. Trata-se de uma pequena filial que, até então, não apresentava grande desenvolvimento, mas que passou a crescer de forma notável. Outro ponto digno de menção refere-se aos donativos de gratidão. Sem que nada lhes fosse dito, pessoas que vieram pela primeira vez fizeram donativos de valor considerável, em contraste com os membros antigos, cujas contribuições eram, com todo o respeito, de valores bastante modestos. Foi uma manifestação verdadeiramente singular. Além disso, surgiu uma grande procura pelo livro "Salvando a América". Como a região é remota e a obra ainda não havia chegado às livrarias, vieram à igreja solicitar cinquenta exemplares, os quais providenciamos. Recebemos também uma carta de uma grande livraria chamada Bunya, na rua Nijo-dori, em Kitami, com um pedido urgente de trezentos exemplares, que prontamente encaminhamos ao Departamento de Publicações da Igreja.
+
+Quanto a Yoichi, os donativos de gratidão aumentaram de quatro a cinco vezes, e os resultados gerais da difusão acompanharam esse crescimento na mesma proporção. Sinto que isso se deve à purificação do Mundo Espiritual daquela localidade, propiciada pela realização das palestras.
+
+**Yumoto:** Realizamos nossa palestra no dia dezoito, portanto, como se passaram poucos dias, os resultados ainda não se manifestaram com clareza. Contudo, pude notar uma grande diferença em minha própria atitude. Por ocasião da conferência de Niigata, no ano passado, devido às minhas próprias imperfeições, nutri preocupações com os custos. Desta vez, meu estado de espírito foi outro, e, ao conversar com os responsáveis de Johrei Centers, todos expressaram um forte desejo de realizar o evento. Embora os resultados ainda não sejam evidentes, acredito que haverá uma repercussão considerável. Os membros qualificados também manifestaram imensa alegria pela oportunidade de sediar a palestra.
+
+**Otsuki:** Há outro aspecto que gostaria de ressaltar. Após as palestras em Hokkaido, ao ouvir os relatos, percebo que as pessoas que ainda não são membros ouvem a explanação e compreendem sua lógica. Todavia, os conceitos equivocados sobre a medicina e a agricultura, aos quais estiveram expostas por tanto tempo, estão profundamente arraigados nelas. Essa consciência latente é extremamente forte. Temo que esse condicionamento acabe por puxá-las de volta aos velhos hábitos. Diante disso, pensei que talvez fosse necessário agir sem lhes dar muito tempo para hesitar, promovendo uma série contínua de encontros para impedir esse retrocesso. Contudo, pergunto-me se tal abordagem não seria excessivamente humana.
+
+**Kihara:** Não há problema. Contudo, é preciso ter cuidado para não exagerar e incorrer no excesso de esforço humano. Se sentiu que deve agir assim, experimente. Se os resultados forem positivos, então o caminho está correto. A comprovação pelos fatos é o mais importante.
+
+**Nagamura:** Tivemos a permissão de realizar um encontro e uma exibição do filme-documentário em Mito, com a presença do Reverendo Kihara, e sinto uma profunda gratidão por essa oportunidade. Nossa filial vinha se esforçando, mas, ainda assim, os resultados não apareciam. Acredito que o motivo era a falta de cooperação dos membros, que haviam se tornado cronicamente habituados a receber graças. Sinto-me verdadeiramente arrependido por essa situação.
+
+**Kihara:** As graças não se tornam crônicas. A realidade é que os senhores não estavam em condição de recebê-las. Não se trata de um problema crônico de receber graças, mas sim de um estado crônico de *não* as receber. É impossível ser abençoado quando se utiliza Deus como se fosse uma bengala ou um par de sandálias. É por essa razão que se deve ler e estudar atentamente os Ensinamentos Divinos.
+
+**Nagamura:** Após o encontro, os membros despertaram e, dizendo "Nós realmente sentimos muito", passaram a demonstrar um forte desejo de cooperar sinceramente. Tanto eu quanto o responsável pela filial compreendemos profundamente nosso equívoco. Percebemos, enfim, o quão valiosa é a oportunidade de realizar encontros e exibições como essa.
+
+**Kihara:** A exibição do filme sobre o Paraíso Terrestre significa que o próprio Paraíso Terrestre se projeta naquele local. Portanto, viajar por diversas regiões com o filme é o mesmo que imprimir nitidamente o Paraíso Terrestre em cada uma delas. O que se projeta é o protótipo que Meishu-Sama construiu em Hakone. O ponto mais crucial é estar em sintonia com a Vontade de Deus. Quando isso ocorre, Deus nos permite servi-Lo. Não somos nós que "fazemos"; nós "recebemos a permissão de fazer". E, assim, passamos a servir com o coração exultante de alegria.
+
+**Ogawa:** De fato, eu pensava que o Templo Messiânico seria construído pela força dos membros, mas agora compreendo que é o contrário.
+
+**Kihara:** Bem, visto de fora, essa é uma maneira de interpretar as coisas.
+
+**Nagamura:** Agora, todos em Mito estão bastante entusiasmados com o desejo de sediar a próxima conferência.
+
+**Kihara:** Com a experiência das palestras, torna-se evidente que não as realizamos por força humana. Em locais pequenos, o público preenche o espaço de forma exata, sem que ninguém fique de fora por falta de lugar. Em auditórios grandes, acontece o mesmo; nunca falta público. Se tudo dependesse do esforço humano, em algum momento, o empenho excessivo de alguém resultaria em um público maior que a capacidade do local, criando um transtorno. Contudo, isso jamais ocorreu. Essa realidade se alinha perfeitamente às palavras de Meishu-Sama, que nos orienta a "não aplicar a força humana". Quando servimos com um coração sincero, pleno de gratidão a Deus, tudo flui suavemente. Nisso reside a diferença entre os noventa e nove por cento e o um por cento final.
+
+Há outra observação que fiz durante as palestras. É extremamente difícil falar do palco quando há pessoas sentadas em um segundo andar. Em todas as ocasiões, inicio minha preleção orando: "Meishu-Sama, por favor, eu Vos peço". E como estou ali para transmitir a Verdade que me foi ensinada, a sensação de haver pessoas acima de mim é, de alguma forma, inadequada. Além disso, de baixo não consigo ver os rostos de quem está no andar superior, o que me impede de saber com que estado de espírito estão ouvindo. Quando todos estão no mesmo nível, posso perceber o grau de atenção e envolvimento da plateia, o que torna a comunicação muito mais eficaz.
+
+**Ogawa:** Agradecemos imensamente por suas valiosas orientações. Com isso, gostaríamos de encerrar o encontro por hoje.
+
+**Todos:** Muito obrigado a todos.
+
+(Nota: A participação nestes encontros é livre, sem restrição de membros. Sintam-se à vontade para comparecer.)
+
+---
+
+# Coletânea de artigos do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年5月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 定例布教座談会 （第五回） | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1953-05-25
+
+## Coletânea de artigos do Reverendo Jikan Okada
+**Reunião Periódica de Difusão (Quinta Edição)**
+*Revista Paraíso Terrestre, nº 48, 25 de maio de 1953*
+
+**Local:** Sede da Igreja Intermediária Chosei, Hakone Gora
+**Data:** 25 de fevereiro de 1953
+**Orientador:** Yoshihiko Kihara
+**Participantes:**
+Tagao Sakai, Presidente da Grande Igreja Koho
+Utaro Nagamura, Presidente da Igreja Intermediária Chosei
+Kyoji Ohtsuki, Presidente da Igreja Intermediária Kosei
+Eitaro Ogawa, Presidente da Igreja Intermediária Koyo
+Eisaku Yumoto, Presidente da Igreja Intermediária Kakumei
+Harumichi Nozoe, Grande Igreja Koho
+**Estenógrafo:** Michiharu Kihara
+
+## A Igreja Messiânica não se fundamenta no “dai, dai”!
+
+**Kihara:** Recentemente, a formação de novos membros tem diminuído consideravelmente. Gostaria de analisar as causas desse fenômeno. Se o motivo for a necessidade de empenhar todos os esforços na organização de palestras, a ponto de negligenciarmos a formação, temos aí uma questão que merece profunda reflexão. Ademais, não percebem certa estagnação em virtude dos donativos para a construção? Em tese, isso não deveria ocorrer.
+
+**Nagamura:** Depende da localidade, mas, de fato, existem lugares onde essa impressão se manifesta. Creio que os responsáveis estão concentrando-se prioritariamente nesse aspecto.
+
+**Kihara:** Contudo, não seria natural que, justamente por isso, a formação de novos membros também aumentasse?
+
+**Ohtsuki:** Com a devida vênia, gostaria de expor meu ponto de vista. Percebo em minha igreja uma tendência que talvez explique o ocorrido. Em vez de se concentrarem em salvar o próximo para acumular virtudes, os membros parecem mais empenhados em aprofundar a própria fé, por sentirem que chegou o momento para tal.
+
+**Nagamura:** Em minha igreja, também observo essa mesma tendência.
+
+**Kihara:** Até agora, predominava um método um tanto aleatório. A abordagem era simplista, consistindo apenas em dizer: “Receba esta Medalha, pois ela lhe trará muitas graças”. O desaparecimento dessa prática, que era desprovida de fundamentos, pode ter enfraquecido nosso poder de divulgação, explicando a recente queda. Contudo, vejo este momento como um período de transição fundamental. Como afirmei hoje na reunião de ministros, é imprescindível resgatarmos o sentimento de “lutar com afinco”, de “realizar a todo custo”.
+
+O ponto que mais distingue a Igreja Messiânica das demais religiões é que estas, em sua maioria, seguem o modelo da Tenrikyo, do tipo “dai, dai”. A nossa Igreja, todavia, segue o caminho oposto: primeiramente, a pessoa recebe a graça. Ao realizar um donativo de gratidão, que será empregado na construção do Paraíso Terrestre, ela recebe de imediato ainda mais graças, em virtude desse ato. E ao expressar sua gratidão por essas novas graças, um ciclo virtuoso de bênçãos se estabelece. É essa orientação que tem faltado. O antigo método, de simplesmente distribuir Medalhas em massa, cessou. Por isso, embora a formação de novos membros tenha diminuído em números, creio que agora estão germinando sementes verdadeiramente autênticas.
+
+**Ogawa:** De fato, é o que penso. Atualmente, a pessoa recebe a Medalha e, imediatamente, torna-se membro A e recebe a Imagem da Luz Divina. Agora, são membros que realmente se dedicam; a qualidade melhorou. Tenho dito a todos desde o mês passado: “Os novos membros de agora são diferentes”. E é a pura verdade.
+
+## Líderes que levam os membros a se tornarem ladrões da Virtude Divina
+
+**Kihara:** Este é o ponto mais crucial: devemos nos empenhar com afinco nesta nova fase da Obra Divina. Contudo, não se trata de uma missão trágica, onde “a esposa adoece no leito e os filhos choram de fome”. Conforme a Palavra Sagrada, nossa senda é a de “reformar o ser humano através da alegria”. Nós, líderes, precisamos personificar esse princípio. Ainda carregamos resquícios de pensamentos e práticas das religiões tradicionais. O segredo é a sinceridade. Como nos ensina Meishu-Sama, “Não coloque força no Johrei”. Tudo depende do poder do Outro, o que torna nossa missão incrivelmente fácil. Quando compreendemos isso, a ansiedade e a aflição desaparecem. Para mim, esta é a verdade mais importante.
+
+Outro ponto que desejo enfatizar é que não devemos levar os fiéis a se tornarem ladrões da Virtude Divina. Essa é a principal responsabilidade de um líder. Da mesma forma, não adianta ser excessivamente rigoroso com os membros. É preciso liderar pelo exemplo.
+
+É comum vermos pessoas que, diante de seus superiores, sentem-se constrangidas em demonstrar fraqueza e acabam por forçar uma aparência de força. Isso não é necessário; devemos nos apresentar como realmente somos. Essa mentalidade trágica é, em si, um inferno. Eu mesmo, ao recordar o passado, vejo que agi muitas vezes com esse sentimento. Porém, à medida que fui compreendendo os Ensinamentos de Meishu-Sama, percebi que não há caminho mais fácil e prazeroso.
+
+É fundamental abandonar a ideia de que, por nos tornarmos rígidos na fé, aprofundamo-la e, por isso, recebemos graças. A fé não tem profundidade ou superficialidade. A verdade é que somos utilizados nesta Obra Divina em virtude de nossa ligação espiritual. Devemos ser gratos por essa permissão de servir e nos dedicar a praticar os Ensinamentos. A própria atitude de “tenho que fazer a todo custo” não é paradisíaca. Dias atrás, o senhor Ogawa usou a expressão “até que meus ossos virem pó”, o que reflete a mesma ideia. Certa vez, alguém disse a Meishu-Sama: “Ofereço-lhe minha vida”, ao que Ele respondeu: “Não quero sua vida. De que me serviria uma vida assim?”.
+
+Portanto, a diminuição na formação de novos membros parece ser fruto do descompasso entre os métodos e mentalidades do passado e aqueles que buscamos implementar daqui para a frente. Apesar disso, ao participar das palestras, sinto que o ambiente e a receptividade são extremamente promissores.
+
+**Yumoto:** O impacto dessas palestras ressoa com grande força entre os não-membros. Diante disso, peço que, por mais um tempo, relevem a estagnação na formação de novos membros.
+
+**Ohtsuki:** De fato, a diferença entre as palestras de antigamente e as atuais é abissal.
+
+**Kihara:** Em minha opinião, não é impossível que a ausência dos ministrantes, que precisam se deslocar para as palestras, contribua para essa queda. No entanto, considerando o quadro geral, a formação de novos membros não é uma tarefa exclusiva deles; outras pessoas estão encarregadas disso.
+
+## Quanto antes se corrige um erro, melhor
+
+**Nozoe:** Gostaria de relatar uma conversa que tivemos na sede da Igreja Koho com um membro de outra localidade. Ele disse: “Compreendemos perfeitamente que recebemos graças e alcançamos a felicidade. Contudo, lemos no jornal *Eiko* uma Palavra de Meishu-Sama que dizia ‘conforme consta na discussão em anexo’, e o conteúdo era muito diferente do que nos foi ensinado. Quando questionamos nosso Presidente de Igreja Intermediária sobre o porquê dessa divergência, a resposta foi extremamente vaga e insatisfatória. Situações como essa, em que outros apontam tamanhas contradições, acabam por minar nosso empenho. Sentimos que os Ensinamentos não estão sendo seguidos à risca”. Parecia que ele estava perplexo, sem saber como corrigir os equívocos do passado.
+
+**Kihara:** Seu relato é de grande valia. De agora em diante, tudo deve ser esclarecido. A falta de clareza é prejudicial, pois um dia, inevitavelmente, levará ao colapso. Todavia, se o descompasso que vivenciamos tem como objetivo a retificação, então é um processo positivo.
+
+**Ogawa:** Até então, acreditávamos estar realizando um grande trabalho na formação de novos membros. No entanto, o número de membros realmente atuantes, os membros A e B, era baixíssimo. Havia casos extremos de locais com uma centena de membros que estavam completamente inativos. Este ano, porém, os que ingressaram são sólidos, e sinto fortemente que darão frutos verdadeiros. Os números de antes eram apenas uma questão de registro no papel. Assim, diferentemente do passado, cada novo membro que formarmos agora permanecerá conosco.
+
+A verdade é que, por não compreendermos a felicidade de servir na Obra Divina, nosso raciocínio era: “A formação de novos membros é positiva, mas se os registrarmos como membros A e B, as quotas serão calculadas com base nesses números. Então, é melhor não os relatar”. Contudo, hoje agimos com total transparência e isso não ocorre mais.
+
+Quando penso nos erros que cometíamos com tanta naturalidade, sinto calafrios até hoje. Por exemplo, ouvi que em 15 de agosto de 1948 ocorreria a Grande Purificação e que todos os não-crentes morreriam. Acreditei piamente nisso e divulguei a todos. Em julho daquele ano, um homem chamado Maruyama me confrontou: “Estamos em 1948, e nada disso está acontecendo!”. Eu, convicto, respondi: “Espere até 15 de agosto para falar”. Passou o dia 15, chegou setembro, e ele voltou: “E então? Não aconteceu nada!”. Fui perguntar à pessoa que originou o boato, e ela me disse que “a situação havia mudado”. Achei a desculpa excelente e passei a usá-la, dizendo de forma evasiva: “A situação mudou. Não sei em que ano, mas mudou”. Hoje consigo rir ao contar isso, mas na época, eu acreditava firmemente. Foi com a chegada do Reverendo Kihara e sua orientação que compreendi. Ele me disse: “Isso é estelionato. Você precisa se desculpar com todos por ter divulgado essa fraude”. Reuni os membros e pedi perdão: “Eu estava redondamente enganado. Peço desculpas”. Para minha surpresa, a reação de todos foi de acolhimento e, a partir daquele momento, o semblante dos fiéis tornou-se muito mais luminoso.
+
+**Kihara:** A mentira é absolutamente inaceitável. Essa falsidade estava servindo de mácula.
+
+**Nozoe:** Também ouvi histórias de que, em determinada data, cairia granizo pesando 100 *kin*.
+
+**Kihara:** Naquela época, praticava-se a “conversão pelo medo”. As pessoas, por temor, recebiam a Medalha. Isso, de fato, gerava números, mas proferir tais mentiras é um pecado. Ademais, pode-se dizer que aqueles que ingressam por esses motivos raramente são pessoas de boa índole. Pensem bem: Deus jamais diria tais coisas.
+
+**Nozoe:** Não seria justamente porque esse método teve de ser abandonado abruptamente que estamos passando por essa estagnação temporária?
+
+**Kihara:** É uma possibilidade. Creio que estamos retornando a um estado de autenticidade. É como um pródigo que se arrepende e, no início, enfrenta dificuldades por não poder mais agir de forma leviana.
+
+**Nagamura:** Daqui para a frente, as coisas melhorarão passo a passo, e o número de membros A e B voltará a crescer.
+
+**Kihara:** Naqueles tempos, parece que até os presidentes de igreja partilhavam dessa mentalidade. Sinceramente, a única alegria em ser membro A ou B era receber o bilhete de peregrinação, não é mesmo?
+
+**Nagamura:** Olhando para trás, sinto-me profundamente envergonhado.
+
+## Não se pode enganar a Deus com artifícios verbais
+
+**Kihara:** Passemos aos relatos de graças da Agricultura Natural. A melhor evidência é o aumento real da produção. Relatos ambíguos como “a quantidade não aumentou, mas a qualidade melhorou” são inaceitáveis. Se, após anos de prática, a colheita não aumenta, isso significa que os Ensinamentos de Meishu-Sama não estão sendo seguidos. Nesses casos, o relato de graça deveria ser um misto de pedido de perdão e agradecimento: “O Ensinamento de Meishu-Sama era este, mas por não o ter seguido, obtive uma colheita fraca. Peço sinceras desculpas”.
+
+É ultrajante tentar usar de artifícios verbais ao se reportar a Deus. Devemos relatar as coisas como elas são. Nos relatos de graça, também. Uma abordagem correta seria: “Se eu tivesse praticado os Ensinamentos à risca, o resultado teria sido este; como agi de outra forma, o resultado foi aquele”. Meishu-Sama se alegra com a sinceridade.
+
+Meishu-Sama nos transmite a Verdade. Portanto, a missão do presidente de igreja é retransmitir Suas palavras exatamente como foram ditas. É um erro que o presidente, com seu próprio intelecto, empregue artifícios e elabore estratégias. Basta que retransmitamos o que nos foi ensinado. O problema começa quando adicionamos ou alteramos palavras. Por isso, os resultados não aparecem: porque não praticamos os Ensinamentos fielmente. Ao ouvirmos os relatos de quem não obtém sucesso, percebemos que, de fato, a prática não está correta.
+
+**Ohtsuki:** A esse respeito, gostaria de apresentar um relatório da reunião de Fukushima. Numa aldeia onde quase todos são agricultores, de sete ou oito membros que praticam a Agricultura Natural, apenas dois o fazem em toda a sua propriedade. Mesmo fiéis com cinco ou seis anos de fé ainda não a implementaram por completo. Dentre eles, um senhor chamado Sato aplicou o método em toda a sua terra e obteve uma colheita extraordinária. Em seu relato de graça, ele se desculpou pela má colheita do ano anterior, confessando não ter seguido os Ensinamentos de Meishu-Sama à risca, pois havia cortado a palha em pedaços muito grandes. Ele se comprometeu a se dedicar com afinco neste ano.
+
+Houve outro caso: um membro que estava apenas fazendo um teste, após ouvir a palestra do Reverendo Kihara, decidiu, sem hesitar, aplicar o método em toda a sua plantação. O chefe de Johrei Center me enviou uma mensagem de agradecimento. Muito obrigado.
+
+**Kihara:** Que excelente notícia.
+
+**Yumoto:** Nesses aspectos, as pessoas do interior ainda relutam em mudar.
+
+## O sentimento de não poder deixar de servir
+
+**Kihara:** Diante disso, ao receber os recentes Ensinamentos de Meishu-Sama, sinto que alguns pontos são especialmente importantes: “Tornar todos cientes dos terríveis malefícios dos venenos dos medicamentos”; “Tornar todos cientes dos danos causados pelos venenos dos adubos”; e “Desarraigar a superstição em relação aos fertilizantes”. Os ministros devem, antes de tudo, mudar sua própria mentalidade e, então, transmitir isso a todos. E há mais um ponto: “Não coloque força no Johrei”.
+
+O que Meishu-Sama quer dizer com “Não coloque força no Johrei” é que devemos “abandonar o esforço humano em todas as coisas”. Essa é a chave para a compreensão. Assim, tudo se torna leve. De nada adianta pressionar os membros por causa da baixa formação. Não são animais de carga... Este ponto é crucial. O espírito de “fazer acontecer na marra” deve ser abandonado.
+
+O verdadeiro sentimento é o de “não poder deixar de servir”. Isso não é esforço; é um impulso natural. Alguém pode dizer: “Eu servi até ficar sem nada”. Se essa pessoa agiu assim por não conseguir conter seu sentimento de gratidão, então sua atitude é natural. Não há compulsão alguma. Para quem recebeu o dom da vida, agir dessa forma não representa sacrifício. E acaso Deus, após permitir que alguém se doe por completo, o deixa desamparado? De forma alguma. A pessoa sempre recebe o necessário. A diferença é sutil como uma folha de papel. O que é errado é dizer: “Eu servi até não ter mais nada, então você também deve fazer o mesmo”.
+
+Ao recebermos os Ensinamentos de Meishu-Sama, fica claro que tudo é realizado pelo poder divino. Basta que nos tornemos pessoas que agradem a Deus. Se agirmos assim, não creio que a formação de novos membros diminuirá.
+
+**Nozoe:** Sobre a Agricultura Natural, ouvi um comentário velado de que não-membros poderiam começar praticando em uma pequena parte, talvez 10% da terra, para fins de estudo, e que alguns membros, ao ouvirem isso, sentem-se aliviados por ser um caminho mais fácil.
+
+**Kihara:** Em relação aos membros, basta que os ministros os orientem sem erros. É uma pequena mudança de mentalidade. Uma abordagem é infernal, enquanto a outra, a de “não poder deixar de servir”, é paradisíaca. E posso dizer mais uma coisa: servir até se despojar de tudo jamais levará ninguém à ruína. Isso, claro, se não for feito com sofrimento, mas como um impulso irresistível. Em suma, é imprescindível que os presidentes de igreja assimilem os Ensinamentos em seu âmago, sem equívocos.
+
+Noto também que a leitura dos Escritos Divinos é extremamente insuficiente. Em uma reunião de perguntas e respostas durante uma palestra, surgiram trinta ou quarenta questões. Se os participantes lessem os Escritos Divinos com atenção, nenhuma daquelas perguntas teria sido feita. É a prova de que não os estão lendo. A leitura dos Escritos Divinos é a prioridade absoluta. O mesmo se aplica à Agricultura Natural. Percebi isso com muita intensidade em minha recente viagem.
+
+Conforme diz o Salmo:
+
+“A grande força da Palavra
+De nada vale se não provém
+De uma alma formosa.”
+
+Os presidentes de igreja também precisam se tornar possuidores de uma alma formosa. E para isso, a leitura dos Escritos Divinos é o primeiro passo.
+
+(Fim)
+
+---
+
 # Um Olhar sobre o Passado
 
 **Categoria:** sanko | **Ano:** 昭和23(1948)年12月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** 過去を顧みて 渋井總吉 | **Status:** Published
+**Título Original:** 過去を顧みて 渋井總吉 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1948-12-01
 
 ## Um Olhar sobre o Passado
 
@@ -43,7 +2225,7 @@ Caros membros! Conforme mencionei, após a transição para a terapia popular, n
 # Não confie em medicamentos: eles são veneno
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年3月26日 | **Fonte:** Eikou
-**Título Original:** 参考文献 薬に頼るな薬は毒 | **Status:** Published
+**Título Original:** 参考文献 薬に頼るな薬は毒 | **Status:** Published | **Edição/Página:** 149号 | **Data ISO:** 1952-03-26
 
 ## Não confie em medicamentos: eles são veneno
 
@@ -74,7 +2256,7 @@ Precisamos, portanto, alçar nossos ideais a um patamar mais elevado e buscar um
 # Mesa-redonda: "A Agricultura Natural na Ilha de Sado"
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
-**Título Original:** 参考文献 「自然栽培の佐渡」座談会 | **Status:** Published
+**Título Original:** 参考文献 「自然栽培の佐渡」座談会 | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
 
 ## Mesa-redonda: "A Agricultura Natural na Ilha de Sado"
 
@@ -221,7 +2403,7 @@ Notavelmente, mesmo sem a prática do Johrei nos campos, não houve um único ag
 # Relatório sobre o Segundo Ano do Cultivo sem Adubos
 
 **Categoria:** sanko | **Ano:** 昭和24(1949)年4月20日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 無肥料栽培二年目の報告 | **Status:** Published
+**Título Original:** 参考文献 無肥料栽培二年目の報告 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-04-20
 
 ## Relatório sobre o Segundo Ano do Cultivo sem Adubos
 
@@ -272,7 +2454,7 @@ Ressalto que estes são os resultados do segundo ano de cultivo. Para o terceiro
 # kisoku
 
 **Categoria:** sanko | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
-**Título Original:** 宗教法人「世界救世教」規則 | **Status:** Published
+**Título Original:** 宗教法人「世界救世教」規則 | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
 
 ―― Coletânea de Artigos do Mestre Okada Jikanshi (岡田自観師) ――
 Busca de Ensinamentos: Ajuda | Busca de Documentos:
@@ -532,7 +2714,7 @@ Fiscal: Hisashi Yashiro
 # O Mundo Torna-se Progressivamente Mais Quente (A Elevação da Temperatura Polar)
 
 **Categoria:** sanko | **Ano:** 昭和29(1954)年2月24日 | **Fonte:** Eikou
-**Título Original:** 参考文献 世界は暖かくなりつつある 極地気温の上昇につれて | **Status:** Published
+**Título Original:** 参考文献 世界は暖かくなりつつある 極地気温の上昇につれて | **Status:** Published | **Edição/Página:** 249号 | **Data ISO:** 1954-02-24
 
 ## O Mundo Torna-se Progressivamente Mais Quente (A Elevação da Temperatura Polar)
 
@@ -560,7 +2742,7 @@ Há, todavia, um ponto que nos causa apreensão. Embora tenhamos vivenciado uma 
 # Retrospectiva de 1950
 
 **Categoria:** sanko | **Ano:** 昭和25(1950)年12月27日 | **Fonte:** Eikou
-**Título Original:** 一九五〇年の回顧 本郷弓二 | **Status:** Published
+**Título Original:** 一九五〇年の回顧 本郷弓二 | **Status:** Published | **Edição/Página:** 84号 | **Data ISO:** 1950-12-27
 
 ## Retrospectiva de 1950
 
@@ -601,7 +2783,7 @@ De uma vida medíocre, desprovida de alegrias e tristezas, não pode nascer o ve
 # Reunião Periódica de Difusão (Sexta Edição)
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年7月1日 | **Fonte:** Eikou
-**Título Original:** 定例布教座談会 （第六回） | **Status:** Published
+**Título Original:** 定例布教座談会 （第六回） | **Status:** Published | **Edição/Página:** 215号 | **Data ISO:** 1953-07-01
 
 ## Reunião Periódica de Difusão (Sexta Edição)
 
@@ -680,7 +2862,7 @@ O mesmo se aplica à nossa forma de lidar com os membros. Eles são como passage
 # — Coletânea de Artigos do Mestre Okada Jikan —
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
-**Título Original:** 参考文献 「おけさ」の島の自然栽培回顧座談会 | **Status:** Published
+**Título Original:** 参考文献 「おけさ」の島の自然栽培回顧座談会 | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
 
 ## — Coletânea de Artigos do Mestre Okada Jikan —
 Busca de Ensinamentos | Busca de Documentos | Referências Bibliográficas
@@ -852,7 +3034,7 @@ Rumo a Sado, a Sado, curvam-se as ervas e as árvores... Conhecida em todo o mun
 # A todos os fiéis
 
 **Categoria:** sanko | **Ano:** 昭和29(1954)年5月26日 | **Fonte:** Eikou
-**Título Original:** 参考文献 信徒の皆様へ 世界救世教 管長 大草直好 | **Status:** Published
+**Título Original:** 参考文献 信徒の皆様へ 世界救世教 管長 大草直好 | **Status:** Published | **Edição/Página:** 258号 | **Data ISO:** 1954-05-26
 
 ## A todos os fiéis
 
@@ -891,7 +3073,7 @@ Rogo, portanto, que agora, mais do que nunca, nos unamos como um só corpo para 
 # Um devaneio? Um milagre?
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
-**Título Original:** 参考文献 夢物語？ 奇蹟？ | **Status:** Published
+**Título Original:** 参考文献 夢物語？ 奇蹟？ | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
 
 ## Um devaneio? Um milagre?
 
@@ -968,7 +3150,7 @@ Minha peregrinação por diversas províncias em busca deste devaneio já dura d
 # Impressões de Leitura sobre *Yamahiko Gakkou* (Para aqueles que não leram a obra)
 
 **Categoria:** sanko | **Ano:** 昭和26(1951)年12月12日 | **Fonte:** Eikou
-**Título Original:** 山彦学校は共産思想培養の学校？ | **Status:** Published
+**Título Original:** 山彦学校は共産思想培養の学校？ | **Status:** Published | **Edição/Página:** 134号 | **Data ISO:** 1951-12-12
 
 ## Impressões de Leitura sobre *Yamahiko Gakkou* (Para aqueles que não leram a obra)
 
@@ -1166,7 +3348,7 @@ Contudo, esta grande religião tão aguardada por todos, que se preocupa com os 
 # O Estabelecimento e a Preservação da Fé de Ligação Direta com Meishu-Sama
 
 **Categoria:** sanko | **Ano:** 昭和25(1950)年8月30日 | **Fonte:** Eikou
-**Título Original:** 明主様に直結する信仰の確立と保持 世界救世教管長 大草 直好 | **Status:** Published
+**Título Original:** 明主様に直結する信仰の確立と保持 世界救世教管長 大草 直好 | **Status:** Published | **Edição/Página:** 67号 | **Data ISO:** 1950-08-30
 
 ## O Estabelecimento e a Preservação da Fé de Ligação Direta com Meishu-Sama
 
@@ -1230,7 +3412,7 @@ Nobumasa Takato
 # Coleção de Artigos do Mestre Okada Jikan
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年12月16日 | **Fonte:** 内外タイムス
-**Título Original:** 参考文献 性病戦線異常あり （十二月九日 | **Status:** Published
+**Título Original:** 参考文献 性病戦線異常あり （十二月九日 | **Status:** Published | **Edição/Página:** 239号 | **Data ISO:** 1953-12-16
 
 ## Coleção de Artigos do Mestre Okada Jikan
 
@@ -1269,7 +3451,7 @@ Após a guerra, a chegada da penicilina foi revolucionária: uma única injeçã
 # Coletânea de Teses do Reverendo Okada Jikanshi
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
-**Título Original:** 参考文献 布教座談会 光宝大教会 | **Status:** Published
+**Título Original:** 参考文献 布教座談会 光宝大教会 | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 
@@ -1368,7 +3550,7 @@ Após a guerra, a chegada da penicilina foi revolucionária: uma única injeçã
 # Colóquio Regular sobre a Difusão (Primeira Sessão)
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年11月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 布教定例座談会 （第一回） | **Status:** Published
+**Título Original:** 参考文献 布教定例座談会 （第一回） | **Status:** Published | **Edição/Página:** 42号 | **Data ISO:** 1952-11-25
 
 ## Colóquio Regular sobre a Difusão (Primeira Sessão)
 
@@ -1482,7 +3664,7 @@ Afinal, o Johrei possibilita a cura de doenças por ser uma terapia fundamental.
 # Coleção de Ensaios do Mestre Jikan Okada
 
 **Categoria:** sanko | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
-**Título Original:** 参考文献 二人袴 （一） | **Status:** Published
+**Título Original:** 参考文献 二人袴 （一） | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
 
 ## Coleção de Ensaios do Mestre Jikan Okada
 ## Dois Hakama (Parte I)
@@ -1853,7 +4035,7 @@ Que destino deveria ela seguir?
 # Análise da Reunião sobre o Ciclo de Conferências em Hokkaido (Parte 1) — Um exemplo concreto da cooperação e união dos fiéis
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年2月18日 | **Fonte:** Eikou
-**Título Original:** 北海道講演会を顧みて （一） ―信徒の協力一致の実挙がる― | **Status:** Published
+**Título Original:** 北海道講演会を顧みて （一） ―信徒の協力一致の実挙がる― | **Status:** Published | **Edição/Página:** 196号 | **Data ISO:** 1953-02-18
 
 ## Análise da Reunião sobre o Ciclo de Conferências em Hokkaido (Parte 1) — Um exemplo concreto da cooperação e união dos fiéis
 
@@ -1932,7 +4114,7 @@ E, já que estamos no assunto, há algo mais que creio ser útil compartilhar. A
 # Manifesto da Associação de Difusão da Agricultura Natural
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
-**Título Original:** 自然農法普及会趣意書 チラシ | **Status:** Published
+**Título Original:** 自然農法普及会趣意書 チラシ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
 
 ## Manifesto da Associação de Difusão da Agricultura Natural
 
@@ -1955,7 +4137,7 @@ Adicionalmente, em continuação a este manifesto, constam o “Regulamento da A
 # Estudo e Análise Crítica da Agricultura Natural no Cultivo de Arroz de Sequeiro
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Eikou
-**Título Original:** 参考文献 水稲自然農法の研究調査と批判 | **Status:** Published
+**Título Original:** 参考文献 水稲自然農法の研究調査と批判 | **Status:** Published | **Edição/Página:** 141号 | **Data ISO:** 1952-01-30
 
 ## Estudo e Análise Crítica da Agricultura Natural no Cultivo de Arroz de Sequeiro
 
@@ -2162,1623 +4344,6 @@ Como observação final, o proponente acrescenta que, ao se criar bichos-da-seda
 Diante do exposto, concluo que os princípios da Agricultura Natural e os resultados práticos da pesquisa aqui apresentados convergem, em muitos aspectos, com a tese do americano Sr. Rodale.
 
 *18 de novembro de 1951 (Continua)*
-
----
-
-# A Tuberculose sob a Ótica de um Médico (Do livro 'A Verdadeira Natureza da Tuberculose')
-
-**Categoria:** sanko | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 参考文献 付録 医家の観たる結核 | **Status:** Published
-
-## A Tuberculose sob a Ótica de um Médico (Do livro 'A Verdadeira Natureza da Tuberculose')
-
-O artigo a seguir é um excerto da obra 'Tuberculose e Vida', de autoria do Dr. Kihachiro Kunishima. Por apresentar uma crítica abalizada de um especialista, considero-o de grande valia como referência, razão pela qual decidi incluí-lo como apêndice. Deixo aqui expressa a minha gratidão ao doutor.
-
-A medicina moderna caracteriza-se por uma tendência excessiva a procedimentos mecanicistas. Ela não enxerga o doente; enxerga apenas a doença e o germe, o que a conduz, invariavelmente, a limitar-se à administração de medicamentos e injeções. É um equívoco esperar que uma medicina que se esqueceu do ser humano possua a força para vivificá-lo. A visão de mundo europeia moderna, que desde o Renascimento considerou o aperfeiçoamento de um ser humano padronizado como sinônimo de progresso civilizatório, encontra-se agora à beira do colapso em todos os cantos do globo. Assim como a abstração da razão humana proposta por Kant resultou, paradoxalmente, no isolamento da própria vida, a descoberta do bacilo da tuberculose por Koch acabou por desviar o interesse dos médicos do tratamento do paciente para o tratamento do germe.
-
-Pasteur Vallery-Radot, do Instituto Pasteur, já lamentava profundamente: “Desde o Renascimento, a ciência tem sido concebida de forma demasiado apartada da terra”. Contudo, mesmo diante desses procedimentos mecanicistas que ignoram o ser humano, este felizmente possui a capacidade de cura natural. A cura de qualquer enfermidade não consiste em “curar” a doença. Não se trata de algo que se “cura” ou “é curado”. A doença, em sua essência, “cura-se por si mesma”. Não seria o caso de médicos e pacientes terem se esquecido em demasia dessa grandiosa força vital? Nesse ponto, é provável que os cirurgiões, mais do que quaisquer outros, sejam forçados a sentir vividamente o poder dessa capacidade natural de recuperação. Quem possui a força para cicatrizar a incisão após o corte e a sutura? Ninguém senão a capacidade intrínseca de recuperação que a natureza concede à vida.
-
-O ditado “Deus cura, e o médico recebe os honorários” é um fiel retrato da realidade. De fato, mesmo submetidos a intervenções mecanicistas, aqueles que devem se curar, curam-se. No entanto, em se tratando de doenças crônicas como a tuberculose, os procedimentos mecanicistas, por sua incerteza, tornam-se prejudiciais e acabam por obstruir a atuação da capacidade natural de cura.
-
-Uma terapêutica que ignora o estado psicológico e o modo de vida do paciente é, em si, anticientífica. É de suma importância estabilizar o espírito aflito do enfermo e dedicar atenção à orientação de sua vida, tão repleta de contradições nos âmbitos material e espiritual. Para aqueles que necessitam de um longo período de tratamento, como os tuberculosos, o cansaço com a rotina, a confusão mental, a impaciência e a irritabilidade são sentimentos comuns. Cada um desses estados obstrui a força de cura natural, tornando o apoio espiritual o ponto mais crucial para o paciente. Ademais, o repouso, pilar da terapia natural, gera inúmeras contradições, como a letargia e o enfraquecimento do sistema gastrointestinal. Por outro lado, a ingestão de grandes quantidades de nutrientes também pode causar distúrbios digestivos. Urge que se avance para além dessa terapêutica passiva e contraditória, estabelecendo uma abordagem médica que veja o paciente de forma integral, como um ser humano completo.
-
-Com o advento da presente Guerra Mundial (que inclui a Guerra da Grande Ásia Oriental e o conflito germano-soviético), o declínio do espírito anglo-americano moderno manifesta-se sob todos os ângulos: a derrocada do mecanicismo, a ruína do individualismo e o esvanecimento do analiticismo. Consequentemente, a natureza da medicina moderna também deve passar por uma profunda transformação e renascimento, e é imperativo que essa correção seja feita pelas mãos dos próprios japoneses.
-
-Essa necessidade pode ser claramente compreendida a partir dos fatos da história da ciência. Saber é fazer. A cisão da ciência moderna separou o saber (medicina básica) do fazer (medicina clínica), mas, em sua origem, ambos deveriam ser uma só coisa. Essa reintegração somente poderá ser realizada pelas mãos dos japoneses; as esferas da *theoria* e da *poiesis* devem ser unificadas de forma cíclica. Da mesma forma, o diagnóstico e o tratamento também são processos cíclicos e simultâneos.
-
-Diagnosticar é curar, e curar, por sua vez, deve conter a função de diagnosticar. O verdadeiro diagnóstico já traz em si o poder de cura para que possa ser considerado correto. A pobreza da medicina moderna no campo da tuberculose, que diagnostica com precisão, mas não oferece um método de tratamento igualmente correto, revela um fenômeno excessivamente claudicante. Da mesma forma, prevenção e tratamento deveriam ser processos cíclicos: tratar deveria ser uma forma de prevenir, e prevenir, uma forma de tratar. O tratamento deveria ser, em si, um método para a saúde. A cura da doença representa a plenitude e o fortalecimento da força vital da pessoa, e o verdadeiro fortalecimento da força vital deve conduzir à saúde.
-
-As atuais políticas contra a tuberculose, que concentram seus esforços unicamente na prevenção por meio de exames e se mostram ineptas no tratamento que deveria salvar os doentes, são de uma incompreensibilidade atroz. Será possível prevenir eficazmente uma doença sem que se saiba curá-la? Detecta-se a doença em seu estágio inicial por meio de exames e recomenda-se o tratamento, mas nenhuma orientação consistente é fornecida para corrigir o estilo de vida que propiciou o surgimento da enfermidade. Por mais que se aprimorem os sistemas de exames, se a etapa anterior a eles for negligenciada, o resultado será um aumento de pacientes proporcional ao aumento dos centros de diagnóstico, o que apenas serve para mergulhar a nação em uma melancolia mórbida. A separação entre a clínica e a higiene na medicina moderna apenas agrava esse mal.
-
-Se reunirmos dez pessoas, nove responderão que as doenças são curadas por médicos e remédios. Contudo, a doença de um rico não é garantia de cura, assim como a de um pobre não é garantia de que não se curará. Na verdade, em nossos dias, as pessoas acabam por agravar suas doenças ao se entregarem aos cuidados de uma medicina que se ocupa apenas de terapias locais e sintomáticas. Em contrapartida, os pobres e as pessoas de menor cultura, sem o saberem, confiam na terapia integral que é a capacidade de cura natural, resultando em uma maior taxa de recuperação. É um erro pensar que a medicina é a ciência que estuda como curar doenças; basta observar que, apesar da existência de médicos e medicamentos renomados, o número de enfermidades só aumenta.
-
-A primeira lição que aprendemos ao estudar medicina é que “a doença se cura naturalmente”. Diz-se que as doenças são curadas apenas pela força com a qual nascemos, uma força que surge espontaneamente no corpo. Essa é a verdade que existe desde o início da vida, há setenta milhões de anos, e é o que se ensina na primeira aula de medicina.
-
-O curso da febre tifoide ou da pneumonia hoje não difere em nada do que era há cinquenta ou cem anos, quando a medicina era menos desenvolvida. Seja o paciente rico ou pobre, consultado por um doutor renomado ou por um médico medíocre, a febre tifoide leva as mesmas quatro semanas para ser superada. Se as doenças fossem curadas apenas por médicos e remédios, uma enfermidade que levava quatro semanas há cem anos deveria ser curada hoje em três ou duas semanas, mas a febre tifoide continua a demandar quatro semanas. O mesmo se aplica à pneumonia aguda, que, tanto hoje como há um século, leva uma semana para se resolver.
-
-Não se trata do tempo que o remédio leva para fazer efeito. Quando o corpo é invadido por bacilos como os da febre tifoide ou da pneumonia, uma força de resistência emerge naturalmente para neutralizar suas toxinas, superá-las e restaurar os tecidos. O tempo necessário para esse processo é o mesmo hoje e há cem anos.
-
-A força vital do corpo humano desenvolve-se à medida que é utilizada. Se uma pessoa consome indiscriminadamente remédios para fortalecer o estômago ou os intestinos, as funções desses órgãos se atrofiam. Especialmente no caso de doenças crônicas, não é um raciocínio óbvio o quão insensato é tomar medicamentos que não se convertem em força vital e que, ainda por cima, suprimem a sua correta manifestação?
-
-A capacidade natural de cura, que atua em nosso corpo incessantemente, é tão perfeita e grandiosa que não percebemos o seu valor, da mesma forma que no dia a dia nos esquecemos da preciosidade do ar e do sol.
-
-Quando adoecemos, surgem febre e tosse. Contudo, esses não são a doença em si; são sintomas, manifestações da importante capacidade natural de cura que atua para sanar a causa fundamental do problema. A tosse surge porque há acúmulo de catarro. Se não tossíssemos com o catarro acumulado, morreríamos sufocados. A tosse existe para evitar o sufocamento. Se comemos algo estragado, sentimos náuseas e temos diarreia. Sem esses mecanismos, a cura não ocorreria.
-
-A medicina local e superficial, que busca suprimir essas funções admiráveis, equivale a um ato de quinta-coluna contra a própria doença, como se estivéssemos a dançar nas mãos das maquinações ardilosas dos judeus.
-
-Dizem que povos continentais, como os chineses, mesmo que tenham uma hemoptise, voltam a trabalhar tranquilamente no dia seguinte. Por não terem medo, a sua capacidade natural de cura atua plenamente, e eles se recuperam sem sequer perceber. Já os japoneses, impacientes, entram em pânico ao cuspir sangue. Mesmo que a hemorragia não seja de origem tuberculosa, o medo subconsciente pode desencadear diversos quadros, e não são poucos os casos em que o indivíduo acaba por desenvolver os sintomas reais da doença.
-
-É necessário, antes de mais nada, extirpar a concepção diabólica construída por uma medicina que, por longos anos, se dedicou não a curar a tuberculose, mas a instilar o medo dela. Isso é essencial não apenas para os doentes, mas também para os sadios.
-
-A medicina tradicional equivocou-se em seu ponto de partida. Se, em uma população, há noventa e tantas pessoas sadias e duas ou três doentes, ela se concentra nessas duas ou três, mas não pensa nas outras noventa e tantas. As poucas doentes são importantes, mas esqueceu-se de que as muitas sadias são ainda mais. É por isso que ela continua a produzir mais e mais tuberculosos a partir dessas noventa e tantas pessoas.
-
-Entre aquele que recebe o diagnóstico e o médico, estabelece-se uma importante relação interpessoal. Onde há confiança mútua, os efeitos sugestivos também atuam. Portanto, é necessário que o próprio médico demonstre saúde. Um médico que está doente, independentemente de qualquer argumento, não consegue projetar a devida autoridade profissional.
-
-O Japão é a terra dos deuses. Ser a terra dos deuses significa ser uma nação que não se entrega a discussões vãs (*kotoage*). Isso implica não se perder em abstrações lógicas ou críticas estéreis, mas viver na busca de ideais elevados por meio da prática e da ação. No entanto, a medicina japonesa tradicional, negligenciando sua missão primordial de curar, manter a saúde e prevenir doenças, valorizou excessivamente a medicina básica, que é praticamente irrelevante para esses fins.
-
-Ironicamente, essa condição claudicante da medicina japonesa foi exposta por estudiosos ocidentais, justamente aqueles que eram reverenciados por essas pessoas. Um trecho do diálogo entre o Dr. Boris Novikof, da França, e o Dr. Hiroshi Miura, aponta com precisão essa falha:
-
-“Na medicina japonesa, a ciência médica e a arte médica parecem estar em oposição. Em geral, ambas deveriam caminhar em paralelo. Embora a medicina japonesa seja cientificamente comparável ao nível mundial, no campo da arte médica ela é relativamente imatura, e pode-se dizer que não há figuras de destaque entre os clínicos gerais. Isso não contradiz o espírito japonês, que se caracteriza pela *réalisation pratique* (aplicação prática)? — Não tenho certeza, mas na França, o processo é: primeiro, a observação, ou seja, conhecer profundamente o paciente; em seguida, os exames laboratoriais; e, por fim, retorna-se ao leito do paciente com os resultados. Os resultados laboratoriais servem apenas para comprovar o que foi observado no leito.” (Revista *Kokusai Bunka*)
-
-Essas palavras são como uma agulha cravada no ponto vital. O fato de um estudioso ocidental apontar que a medicina japonesa contraria o próprio espírito japonês nos faz suar frio.
-
-O pensamento europeu moderno, que idealizava a civilização como uma multiplicação de divisões e subdivisões acadêmicas, encontra-se agora à beira de uma profunda reflexão. Foi a importação direta dessa “febre da especialização” que gerou no Japão o culto a um academicismo abstrato. Por trás do destino fragmentário da ciência ocidental, existe, por um lado, um espírito que anseia pela síntese do todo. No Japão, contudo, por nunca ter existido tal espírito de oposição e por termos gerado desde o início um saber com um sentido holístico, a aplicação integrada das ciências divididas à maneira ocidental é medíocre, e tendemos a nos prender aos detalhes.
-
-Com a presente Guerra Mundial, o espírito europeu ocidental moderno entrará em declínio. Fala-se da derrocada do mecanicismo, da ruína do individualismo e do esvanecimento do analiticismo. Com isso, a natureza da medicina moderna também deve passar por uma transformação e um renascimento. Isso pode ser claramente compreendido a partir dos fatos da história da ciência.
-
-Diz-se que saber é fazer. Somente através do fazer, do agir, é que se pode verdadeiramente saber. A cisão da ciência moderna separou o saber, ou seja, a medicina básica, do fazer, a prática clínica, e seguiu adiante sem qualquer reflexão. Este é o mal fundamental da medicina de hoje. O saber e o fazer devem, em sua origem, ser uma só coisa. Acredito que essa tentativa de integração será, no futuro, completada unicamente pelas mãos dos japoneses. As esferas da *theoria* e da *poiesis* devem ser unificadas de forma cíclica; da mesma forma, o diagnóstico e o tratamento também são processos cíclicos e simultâneos.
-
-Diagnosticar é curar, e curar, por sua vez, deve conter a função de diagnosticar. O diagnóstico já deve conter em si a ação terapêutica. Mesmo que o diagnóstico seja realizado de forma correta e detalhada, se um método de tratamento adequado não o acompanha simultaneamente, de nada adianta. A pobreza da medicina moderna no campo da tuberculose é, de fato, um fenômeno excessivamente claudicante. Da mesma forma, prevenção e tratamento deveriam ser processos cíclicos.
-
-O ato de tratar deve se tornar prevenção, e o ato de prevenir deve se tornar tratamento. O tratamento é, em si, um método para a saúde. A cura da doença representa a plenitude da força vital da pessoa, e a verdadeira plenitude e o fortalecimento da força vital devem conduzir à saúde. É uma anomalia que as medidas contra a tuberculose se concentrem apenas na prevenção por meio de exames, enquanto os métodos de tratamento para salvar os doentes se mostram ineficazes. Detecta-se a doença em seu estágio inicial e recomenda-se o tratamento, mas não se oferece nenhuma orientação de saúde e higiene adequada para corrigir o estilo de vida que propiciou o surgimento da enfermidade.
-
-Por mais que se aprimore o sistema de exames, se a etapa anterior for tratada com descaso, o resultado será um aumento de pacientes proporcional ao aumento dos centros de diagnóstico. A medicina moderna está, na verdade, fomentando esse mal. O que é crucial é oferecer, simultaneamente, uma forte orientação espiritual e um planejamento de vida sólido.
-
-Para destruir a mentalidade de dependência de medicamentos que impede a correta manifestação e atividade da capacidade natural de cura, examinemos a verdadeira natureza dos diversos remédios para doenças pulmonares utilizados até hoje. O “creosoto” é considerado há muito tempo um remédio milagroso, mas sua eficácia contra a tuberculose é nula, e ele não possui qualquer efeito digno de nota. No entanto, por ter algum benefício como tônico gástrico e intestinal, considerou-se que poderia ter um efeito indireto, o que acabou por transformá-lo, com o tempo, em um suposto remédio milagroso para a tuberculose. Fármacos como o “tiocol” e o “guaiacol”, utilizados cinquenta anos antes mesmo da descoberta do bacilo de Koch, pertencem a essa linhagem. A “insulina”, valorizada por supostamente aumentar o apetite, também tem sua eficácia questionável. Estes, embora inúteis, ao menos não causam grandes danos. Contudo, há outros que, corajosamente, proclamam avançar contra os germes para devorá-los, quando na verdade devoram vigorosamente a carne e o sangue do próprio aliado.
-
-Refiro-me aos preparados de arsênico e iodo. Diz-se que o arsênico e o iodo são eficazes por auxiliarem no metabolismo, ou que aumentam os linfócitos e estimulam a fagocitose. Com base em propagandas exageradas, esses chamados medicamentos de luxo têm explorado os doentes desorientados. Ácido arsenioso, arsenito de potássio, iodeto de sódio, iodeto de cálcio e outros são aplicações dessa categoria. Adicionalmente, compostos de oxigênio, nitrogênio e enxofre, por sua forte ação bactericida, foram testados em inalações através de geradores de ozônio ou em injeções na cavidade intercostal, no chamado pneumotórax artificial. Contudo, não apenas falharam em atingir seu objetivo inicial, como também produziram uma série de efeitos adversos. Existem inúmeros outros medicamentos injetáveis e fármacos, novos e antigos, mas não há necessidade de listá-los e explicá-los um a um. Se houvesse sequer um que fosse realmente eficaz, toda a discussão seria superada e ele se tornaria o padrão. O fato de que novos remédios “milagrosos” continuam a brotar como cogumelos depois da chuva demonstra que a farmacoterapia da tuberculose é um caos sem rumo.
-
-Entre os chamados remédios populares, as ovelhas perdidas se agarram a tudo: sangue fresco de boi, coelho, carpa, tartaruga-de-casco-mole e víbora mamushi, saquê de serpente, carpa cruciana carbonizada, intestinos de rã-vermelha, fígado de lontra, gafanhotos em conserva, ginseng coreano, água de bucha, fruto de fisális, raiz de campainha, *chimo* (知母), *kashu* (何首烏), caracóis e muito mais. Inúmeros foram os que se agarraram a palhas esdrúxulas, como a chamada “terapia da tuberculose com querosene”, e acabaram por encontrar a morte.
-
-A medicina moderna, com seu brilho ofuscante, hospitais que se assemelham a templos suntuosos, repletos de equipamentos, e uma infinidade de doutores de renome... E, com tudo isso, as doenças são curadas? A realidade é que o número de doentes aumenta em proporção direta à sua prosperidade. Nesse ínterim, incontáveis remédios fraudulentos se aproveitam da situação, enriquecendo os cofres da indústria farmacêutica.
-
-Naturalmente, a desilusão com tudo isso também chega. É nesse ponto que proliferam os chamados terapeutas. Não sei se as autoridades reconhecem ou não a existência desses terapeutas não médicos, mas é fato que eles existem, e há um número considerável de casos de pacientes que, desenganados por grandes hospitais e doutores renomados, foram curados por eles.
-
-A existência desses não médicos, além de ser uma prova que expõe a incapacidade terapêutica da medicina moderna, é também uma forma de protesto silencioso contra o materialismo onipotente.
-
-Em suma, os mais dignos de pena são os pacientes, para quem o terapeuta de um beco sombrio é uma tábua de salvação tanto quanto um imponente hospital. Se as autoridades reconhecem, de alguma forma, a existência desses terapeutas, seria necessário que se dedicassem mais ativamente a estudá-los e que criassem órgãos para promover seu aprimoramento.
-
-Nesse sentido, desejo que religiosos de elevado caráter, dotados de habilidades terapêuticas especiais, passem a orientar as pessoas no aspecto espiritual. Acredito ser mais apropriado que, em vez de pregar verdades abstratas e desvinculadas de nossa vida real, eles assumam o papel social hoje desempenhado por esses não médicos, atuando como conselheiros para as questões práticas do dia a dia.
-
-(Notas)
-Quinta-coluna (第五列): [Termo originado durante a Guerra Civil Espanhola, quando as forças de Franco, que avançavam sobre Madri com quatro colunas, referiram-se a um grupo de simpatizantes dentro do governo republicano como sua “quinta-coluna”.] Grupo que, de dentro de uma organização, colabora com uma força inimiga externa, agindo segundo suas diretrizes.
-*Chimo* (知母): Remédio da medicina tradicional chinesa. Raiz de *Anemarrhena asphodeloides*, usada como antipirético.
-*Kashu* (何首烏): Remédio da medicina tradicional chinesa. Raiz de *Fallopia multiflora*.
-
----
-
-# Coletânea de Ensaios do Reverendo Okada Jikan — Busca de Ensinamentos | Busca de Materiais: A Celebração do Natalício de Meishu-Sama (Jornal Eiko, nº 290, publicado em 5 de janeiro de 1955)
-
-**Categoria:** sanko | **Ano:** - | **Fonte:** Eikou
-**Título Original:** 明主様御降誕祭行わる | **Status:** Published
-
-## Coletânea de Ensaios do Reverendo Okada Jikan — Busca de Ensinamentos | Busca de Materiais: A Celebração do Natalício de Meishu-Sama (Jornal Eiko, nº 290, publicado em 5 de janeiro de 1955)
-
-A Celebração do Natalício de Meishu-Sama foi oficiada no dia 23 de dezembro de 1954, sob um firmamento sem nuvens, no Salão Messiânico do Zuiunkyo, em Atami, àquela altura com suas obras em fase final de conclusão.
-
-× × ×
-
-Nesse dia, para apresentar suas felicitações, fiéis reuniram-se de todos os rincões do país. A partir das duas horas da madrugada, sem se importarem com o cansaço da viagem, já começavam a subir em direção ao salão. Por volta das cinco horas, graças à cortesia da Ferrovia Hakone Tozan, diversos ônibus iniciaram o trajeto da estação ao local do evento, conferindo à estrada de Momoyama, ordinariamente serena, um movimento inusitado.
-
-Aguardamos no Zuiunkyo a chegada da aurora por um breve período. Às seis horas, com a abertura do salão, adentramos o recinto e percebemos que toda a desordem dos preparativos da véspera havia sido completamente removida pelo trabalho abnegado de equipes de dedicantes, que praticamente não dormiram. O ambiente, por conseguinte, transpirava uma pureza ainda maior. Cerca de trinta minutos depois, ao sairmos, o céu a leste já clareava suavemente. Logo, o sol rubro, emergindo do horizonte oriental de um céu sem nuvens, delineou com nitidez a silhueta do Paraíso Terrestre. O panorama do Palácio de Cristal, de alvura imaculada, e do Salão Messiânico, iluminados pela nova luz, acrescentou uma beleza singular à já conhecida e deslumbrante paisagem do Paraíso Terrestre. Diante de tal cena, experimentamos uma sensação de ascensão celestial, com a convicção de que este é, verdadeiramente, o Paraíso da Arte. Nesse momento, senti renovar-se em meu coração a alegria pela permissão de ali estar presente.
-
-Às oito horas da manhã, a Imagem Sagrada de Kannon (観音) de Mil Braços foi solenemente entronizada no alcove sagrado do recém-inaugurado salão, pelas mãos do Reverendo Presidente e do Reverendo Kihara. A harmonia perfeita entre a Imagem, a cortina de bambu e o próprio alcove conferiu ao ambiente uma dignidade ainda maior, arrancando dos lábios dos fiéis palavras de indizível admiração.
-
-Soube que esta Imagem Sagrada é a mesma que Meishu-Sama descreveu em Seu ensaio “O Caminho da Luz”. Recordei-me, ademais, de um ensinamento que d’Ele recebemos, segundo o qual o dia 23 de dezembro, por ser o solstício de inverno, marca o dia mais curto do ano, a partir do qual a luz diurna começa a se prolongar. Nessa perspectiva, o dia 22 representa o fim da noite, e o dia 23, o início do dia, o que nos permite considerar o dia 23 como o Ano-Novo da Sekai Kyusei Kyo. Ao ponderar sobre tais palavras, a profunda significância da cerimônia de hoje tornou-se ainda mais palpável.
-
-Eram quase dez para as onze quando a voz anunciou a entrada de Meishu-Sama. Por um instante, uma sensação de profundo respeito percorreu meu corpo, e curvei a cabeça em reverente espera. Após seis meses desde o dia 15 de junho, a alegria de poder revê-Lo fez pulsar mais forte o coração dos fiéis. Iniciava-se, enfim, a cerimônia do século.
-
-Assim que Meishu-Sama tomou Seu assento, o Reverendo Presidente, em nome de todos os membros, proferiu suas palavras de felicitação, de gratidão pela proteção diária e de súplica por Sua contínua proteção. A sutil reverência com que Meishu-Sama correspondeu despertou uma emoção avassaladora, tornando impossível conter as lágrimas que ameaçavam transbordar. Em seguida, sob a condução do Reverendo Presidente, a Oração Amatsu Norito foi entoada, e sua ressonância parecia ascender aos céus, preenchendo toda a montanha. Sucedeu-se, então, a oferenda do Tamagushi pelo Reverendo Kihara, após a qual Meishu-Sama Se retirou.
-
-Nesse dia, de modo especial, quatro poemas ofertados por Sua Senhora Esposa para a celebração — os dois primeiros, compostos em nome do próprio Meishu-Sama — foram recitados pelo Reverendo Kihara, com sua característica entoação fluente e melodiosa. A declamação revelou a profundidade dos sentimentos de Sua Senhora Esposa, e restaram-nos apenas lágrimas de gratidão. Por fim, o Reverendo Presidente proferiu suas palavras de encerramento, e a cerimônia concluiu-se em um ambiente de profunda solenidade.
-
-× × ×
-
-Findada a cerimônia, ainda com a emoção a vibrar no peito, pude apreciar a paisagem do Paraíso Terrestre e visitar o Palácio de Cristal, concluído no último dia 11. As palavras de admiração dos fiéis ante a contínua transformação do Zuiunkyo eram incessantes: “É maravilhoso... As palavras não podem descrever. É preciso vir para compreender”. De fato, bastam dois ou três dias de ausência para que nos surpreendamos com as transformações, de modo que é natural uma mudança completa ao longo de alguns meses.
-
-Dessa forma, as atividades do dia transcorreram em perfeita ordem. Cerca de seis mil participantes, com o espírito renovado e inflamados pelo desejo de servir, retornaram aos seus lares em pequenos grupos.
-
-(Repórter Sakami)
-
----
-
-# Um Encontro que Transcende a Religião e a Ciência
-
-**Categoria:** sanko | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
-**Título Original:** 参考文献 宗教と科学を超越しての会合 | **Status:** Published
-
-## Um Encontro que Transcende a Religião e a Ciência
-
-Revista Eikou, n.º 227, 23 de setembro de 1953
-
-**Participantes (títulos honoríficos omitidos)**
-
-**Representantes da Igreja**
-Líder Espiritual: Naoyoshi Okusa
-Presidente da Diretoria: Yoshihiko Kihara
-Diretor: Seizou Abe
-Diretor: Seiichi Momomi
-Diretor: Mitsuhiko Onuma
-Diretor: Utarou Nagamura
-Diretor: Akira Kitou
-Chefe de Filial: Hideo Kojima
-Hiroshi Sukuwa
-Takushi Sukuwa
-
-**Corpo Médico (em ordem alfabética japonesa)**
-Dermatologista, Urologista, Diretor do Hospital Ikeda
-Doutor em Medicina: Kiyoshi Ikeda
-
-Técnico do Governo Metropolitano de Tóquio, Diretor do Hospital Yoshiwara
-Doutor em Medicina: Chikasou Yukibuki
-
-Técnico do Ministério da Saúde, Diretor do Hospital de Cirurgia Ortopédica de Yugawara
-Doutor em Medicina: Saburou Hamada
-
-Funcionário Técnico do Ministério da Saúde, Diretor da Filial Ninomiya do Hospital Nacional Daiichi de Tóquio
-Doutor em Medicina: Fujirou Nakabachi
-
-Assistente de Cirurgia Ortopédica do Hospital Keio
-Bacharel em Medicina: Mamoru Okada
-
-Doutor em Medicina: Michiichi Okada
-
-Chefe de Urologia do Hospital Metropolitano Aso Hiroo de Tóquio
-Doutor em Medicina: Yutaka Kobayashi
-
-**Dr. Hamada:** Acredito que o caso se iniciou, provavelmente, com um cálculo vesical. Este teria provocado uma cistite que, por sua vez, evoluiu para uma infiltração urinária. Nessas condições, o pênis e os testículos se contraem consideravelmente; estes últimos chegam a se retrair a ponto de parecerem ter sido tracionados para cima. A infiltração urinária subsequente deve ter causado o desprendimento da pele superficial, gerando a impressão de que os órgãos haviam desaparecido por completo. Ao examiná-lo agora, constato uma recuperação notável. A pele ao redor do pênis apresenta certa irregularidade devido ao processo inflamatório. O testículo direito é claramente visível, mas o esquerdo não pôde ser localizado, por mais que eu o procurasse, levando a crer que tenha se desprendido. Como não presenciei o quadro na época, não posso afirmar com certeza. Contudo, sabe-se que os animais não se regeneram à sua forma original; se ocorre uma cura, esta se dá por outros meios. Na cirurgia, por vezes nos perguntamos se não seria possível restaurar a forma primitiva de um órgão, mas acabamos por desistir, prisioneiros da ideia preconcebida de que é impossível. Sob essa ótica, imagino que o testículo tenha permanecido retraído e tracionado, dando a impressão de ter desaparecido por completo.
-
-**Dr. Kobayashi:** Creio que se trata de um cálculo uretral. Geralmente, os cálculos se formam nos rins, mas neste caso, o cálculo deve ter ficado preso na uretra, obstruindo-a. O médico mencionou uma "injeção para dissolver a pedra", mas, até onde sei, tal descoberta ainda não foi feita. Ele também afirmou que "a incapacidade de urinar por mais de oito horas é perigosa", todavia, minha experiência mostra que um paciente pode sobreviver até mesmo uma semana sem urinar. O fato de o testículo e o pênis terem se apresentado avermelhados e inchados em primeiro de março sugere que a pedra, ao obstruir a uretra, provocou um vazamento de urina através de alguma lesão. Essa urina, infiltrando-se nos tecidos adjacentes, teria propiciado a proliferação de bactérias, culminando na infiltração urinária. Em quatro de dezembro, a criança apresentou convulsões e um estado de morte aparente, o que indica o início de um quadro de uremia. A ausência total de urina, como na anúria causada por nefrite, pode levar a um quadro semelhante. No entanto, neste caso, a urina estava sendo produzida pelos rins e se acumulando na bexiga. Como os rins estavam funcionais, tentavam expelir a urina sem sucesso. Consequentemente, os resíduos metabólicos retornaram à corrente sanguínea, causando a uremia. Nós utilizamos o termo "retenção urinária" para descrever esse quadro. A anúria, por outro lado, ocorre quando os rins são incapazes de produzir urina, o que não parece ter sido o caso aqui. Portanto, trata-se de uma uremia decorrente da retenção urinária, classificada como pseudouremia.
-
-Em suma, a dor cederia e o alívio viria assim que a micção fosse restabelecida. Contudo, a infiltração urinária já instalada provocou a necrose, ou em termos simples, o apodrecimento dos tecidos da região. Acredito que tanto os vasos sanguíneos quanto as toxinas teciduais levaram à gangrena e ao consequente desprendimento do tecido necrosado. O relato de que a criança urinou em cinco de março indica que, por algum motivo, o cálculo foi expelido. Por volta de sete de dezembro, o tecido necrosado pela infiltração urinária começou a se desprender, e pus passou a ser drenado da base do pênis. Suponho que os testículos também tenham sofrido um processo inflamatório. O texto descreve que o pênis e os testículos se desprenderam por completo, como se tivessem desaparecido. A pele pode se regenerar, mas se os testículos e, como foi mencionado anteriormente, a glande peniana realmente se desprenderam e chegaram ao estado atual, estaríamos diante de um fenômeno extraordinariamente raro. Se assim for, a ciência não tem uma explicação plausível. Seria, sem dúvida, um milagre notável. Contudo, por não ter observado o quadro na época, não posso tecer maiores comentários.
-
-**Dr. Yukibuki:** Como não examinei o paciente na época, meu diagnóstico sobre sua condição de então não passa de uma suposição. Acredito, porém, que se tratava de um caso bastante grave de pseudouremia. O fato de a criança ter superado o momento crítico e conseguido urinar após vários dias em estado de risco revela que ela foi agraciada com uma sorte extraordinária para sua idade de cinco ou seis anos. Quanto à supuração e ao desprendimento dos tecidos na região afetada, o diagnóstico médico já foi apresentado pelo Dr. K, e eu concordo que se trata de alterações necróticas decorrentes da infiltração urinária. Ao observar o paciente agora, vejo que tudo cicatrizou, deixando apenas uma pequena marca. Ainda persiste um pequeno orifício por onde uma quantidade mínima de urina parece vazar, mas, de todo modo, considero uma grande felicidade que uma necrose tão severa tenha resultado em uma cicatriz tão pequena. O testículo presente no lado direito está inchado e não se assemelha ao de um indivíduo saudável, localizando-se na região inguinal intermediária, entre o abdômen e o pênis. É difícil determinar se este é o órgão original ou um novo, regenerado. Minha hipótese é que a bolsa escrotal tenha se desprendido, mas o testículo, felizmente, permaneceu. O testículo esquerdo não é palpável. Em nossa prática, temos a experiência de que, quando o escroto se contrai, o testículo pode se alojar na cavidade abdominal, tornando-se impalpável. No estado atual, o escroto está extremamente contraído devido à formação da cicatriz, não apresentando a forma de uma bolsa, e é provável que o testículo esquerdo esteja tracionado para a região abdominal. Precisaríamos acompanhar a evolução do caso. Talvez, com o tempo, a pele que forma o escroto se distenda e o testículo esquerdo se torne palpável. No momento, porém, não posso afirmar nada com certeza. Quanto à glande peniana, ao apalpá-la, não consigo distinguir se é um tecido regenerado ou o original. Se um órgão que se desprendeu por completo de fato se regenerou, só podemos considerar isso um milagre de enormes proporções. Entretanto, em casos de infiltração urinária, o pênis de uma criança, por ser pequeno, pode ficar quase que inteiramente envolto pelos tecidos edemaciados. Quando esse tecido necrosado se desprende, pode parecer que o pênis inteiro desapareceu, pois a pele que o recobria se soltou, embora a estrutura peniana em si permaneça retraída. Portanto, é compreensível que se tenha tido essa impressão. Deixando de lado, por ora, a hipótese da regeneração e avaliando apenas o estado remanescente, considero que a evolução foi extremamente feliz, visto que um quadro clínico tão grave resultou em uma cicatriz tão pequena.
-
-**Dr. Nakabachi:** Sendo pediatra, minha relação com a enfermidade em si não é tão profunda, motivo pelo qual gostaria de abordar a questão sob uma nova perspectiva. Esta é uma doença que acomete crianças e idosos, sendo praticamente inexistente em jovens e adultos. As crianças afetadas são, em geral, frágeis e de temperamento nervoso; não se observa tal quadro em crianças saudáveis, vibrantes e com desenvolvimento físico e mental equilibrados. Ao observar este menino agora, percebo que, embora pareça ter uma constituição frágil, ele deve ter sido, originalmente, bem mais travesso e desobediente. Hoje, ele se mostra extremamente compreensivo, sentado em meio a tantos adultos, adaptando-se com sensibilidade ao ambiente. Acredito que essa mudança em seu comportamento seja notável. Ao ler este panfleto, o que mais me chamou a atenção foi o intervalo de dois anos entre a conversão do pai à fé e o início da doença. O que considero uma lástima é que, nesses dois anos, a fé não tenha atuado de forma a prevenir o surgimento desta enfermidade. A virtude e o efeito da religião residem, a meu ver, em proporcionar estabilidade espiritual e uma compreensão mais profunda dos assuntos do mundo, permitindo que a pessoa trabalhe com tranquilidade e desdobre todo o seu potencial, tanto no âmbito familiar quanto no social. O efeito sobre a criança é evidente, pois ela se fortaleceu após a conversão do pai. Contudo, eu realmente gostaria que a doença tivesse sido evitada. Peço perdão pela presunção, mas senti que deveria expressar este ponto.
-
-**Dr. Okada (Mamoru):** Após as explanações dos eminentes doutores, não tenho muito a acrescentar. No que tange ao diagnóstico médico, concordo com as opiniões já expressas. Todavia, o fato de esta criança, apesar de ter passado por um estado que se pode considerar gravíssimo, ter recuperado sua vitalidade e alcançado a constituição robusta que apresenta hoje é algo a se notar. Em nossa prática diária com pacientes que seguem um curso clínico semelhante, frequentemente nos deparamos com desfechos infelizes. Por isso, considero que a sua recuperação atual possa ter sido, de alguma forma, influenciada pela fé do pai e pela ministração de Johrei. Por fim, para além da evolução do caso até o presente momento e das observações sobre o futuro próximo, tenho grande interesse em observar, daqui para frente, qual será o grau de funcionalidade que o testículo e o pênis, que parecem ter se regenerado, apresentarão. Quero saber até que ponto suas funções serão normais.
-
-**Dr. Okada (Michiichi):** Ao refletir sobre como esta criança sobreviveu, penso em dois fatores principais: em primeiro lugar, sua vigorosa vitalidade; em segundo, a capacidade de regeneração inerente ao ser humano. Com o exame dos distintos doutores, o diagnóstico está claro. Contudo, questiono-me qual teria sido o desfecho se o caso fosse confiado a um cirurgião convencional e se medicamentos ou outros métodos teriam levado à cura. Felizmente, apenas com o Johrei, ele se recuperou a ponto de se cogitar uma regeneração. A verdadeira confirmação de sua cura, entretanto, virá quando ele se tornar adulto e puder ter filhos, provando que seus órgãos são plenamente funcionais. Por ora, isto é, em verdade, nada menos que um mistério.
-
-**Dr. Ikeda:** Cheguei um pouco atrasado e pensei que não chegaria a tempo, mas felizmente pude ouvir as palavras que o Mestre acabou de proferir (Nota do redator: O pronunciamento do doutor ocorreu após as palavras de Meishu-Sama.). A questão de ter havido ou não uma regeneração suscita opiniões distintas entre um médico e um religioso, mas, de qualquer forma, podemos chamar isso de milagre. Do ponto de vista médico, há maneiras de explicar o ocorrido, mas o Mestre defende a tese da regeneração, e eu, como médico, tenho uma visão ligeiramente diferente. Embora eu tenha minhas dúvidas sobre a questão da regeneração, não conheço em detalhes a opinião do Mestre, e gostaria de poder conversar longamente com ele sobre o assunto em uma oportunidade futura. Posso oferecer uma explicação sob a ótica da medicina, mas reconheço que ela, por si só, talvez seja insuficiente.
-
-(Responsabilidade textual do redator)
-
----
-
-# ――― Coletânea de Teses do Mestre Jikan Okada ―――
-
-**Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## ――― Coletânea de Teses do Mestre Jikan Okada ―――
-Publicação: Religion and Science
-
-Uma coletânea de seis teses em sua versão para o inglês
-Formato A5, 23 páginas
-
-Por Jikan Okada
-Igreja Messiânica Mundial
-112 Tawara-Machi
-Cidade de Atami
-JAPÃO
-
-Impresso no Japão em 1955
-
-O Que É a Doença?
-Vacinação e Toxina Medicamentosa
-A Origem dos Bacilos
-Análise da Toxina
-A Intervenção Cirúrgica
-Nutrição
-
----
-
-# Um Certo Mistério
-
-**Categoria:** sanko | **Ano:** 昭和26(1951)年6月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 或る神秘 | **Status:** Published
-
-## Um Certo Mistério
-
-*Revista Paraíso Terrestre, n.º 25, publicada em 25 de junho de 1951*
-
-**Inouye Shigetokichi**
-
-Creio que o fato se deu na primavera de 1931. Conforme já relatei anteriormente, era a época em que Meishu-Sama aguardava o momento de Seu grande avanço em Omori Hakkeien. O triênio de 1931 a 1933 foi um período em que Ele Se dedicou exclusivamente a consumar a Obra Divina no Mundo Espiritual, um marco estabelecido por Deus. Fenômenos espirituais misteriosos ocorriam quase que diariamente, e cada pessoa que O visitava era portadora de um profundo significado para a Obra Divina. Presumo que muitos tenham sido os trabalhos imateriais que Seus olhos eram os únicos capazes de compreender. A propósito, a Obra Divina no Templo Nihon-ji, em Boshu, também ocorreu nesse período, em 15 de junho de 1931.
-
-Muitas outras lembranças me vêm à mente ao perscrutar o passado, mas desejo agora registrar para a posteridade um acontecimento místico, ligado à primavera, que me marcou de forma particularmente intensa. Embora, nos dias de hoje, após tantos anos de provações, a lembrança possa parecer um tanto vaga e etérea, estou convicto de que o essencial dos fatos não me falha.
-
-Naquela época, residia no bairro M um funcionário de certa gráfica, de sobrenome Sakuragi. Era uma família de poucos recursos e muitos filhos. A filha mais nova, de cinco ou seis anos, sofria de uma paralisia infantil congênita, para a qual não havia mais esperança de cura. Seus joelhos, curvados e deformados, não podiam ser flexionados ou estendidos, o que a impedia de ficar de pé ou de caminhar, retardando também o seu crescimento. A causa era a possessão ou a reencarnação de uma divindade dragão. Meishu-Sama não apenas consagrou essa divindade na casa da família, como também, pelo grandioso poder do Johrei, curou a menina a ponto de ela conseguir andar. Maravilhada com o milagre, toda a família tornou-se fervorosa seguidora. A referida divindade dragão foi nomeada “Yoshi Myojin” (○美明神), e, certa vez, ouvi de alguém que esse nome fazia alusão aos Oito Grandes Reis Dragões que, segundo a tradição, foram selados por Shakyamuni.
-
-Pois bem, em certa manhã — não me recordo se foi por um telefonema ou se o próprio senhor Sakuragi veio em pessoa —, diante de um relato e de um pedido incomuns, Meishu-Sama dirigiu-Se à residência da família. Ao retornar, soubemos do ocorrido: a filha de sete anos, chamada Yayoi, começou a sofrer com dores abdominais durante a noite. Inicialmente, as dores eram intermitentes, mas, após algumas horas, cessaram por completo. O mais surpreendente, contudo, não era o fato de ela, deitada de costas com as pernas abertas, urinar de tempos em tempos — o que seria plausível —, mas sim o de expelir uma substância semelhante ao líquido amniótico de um parto. Isso os forçou a colocar um oleado sob seus quadris e a usar algodão para a limpeza. A cena era idêntica à de um trabalho de parto, com a expulsão de um líquido que o acompanha. Ao final, tudo indicava que algo havia nascido, e a dor, ao desaparecer por completo, trouxe um grande alívio. Tratava-se, segundo relataram, de um acontecimento verdadeiramente insólito. Tenho também uma vaga lembrança de que a menina disse algo naquele momento, mas, por ser demasiado impreciso, omitirei o detalhe.
-
-O fato se resume a isso. Contudo, ao descrever este misterioso evento, Meishu-Sama nos esclareceu o seguinte: “Trata-se do nascimento de Miroku Butsu — ou seja, Miroku em seu corpo de manifestação —, que é Kannon (観音) (ou talvez fosse Komyo Nyorai-Sama), que tomou emprestado o ventre desta menina para nascer”. Naturalmente, por se tratar de um Corpo Espiritual, não podia ser visto a olho nu. É comum que, quando uma nova e nobre divindade vem ao mundo, um protótipo de seu nascimento seja manifestado, como bem se sabe pelo que ocorreu durante a recente perseguição religiosa. Todavia, um exemplo tão místico como este é, provavelmente, inédito.
-
-Nesse caso, o sobrenome Sakuragi, segundo nos foi explicado, significa Índia. Originalmente, se representarmos o Japão, a Coreia e a China por meio de flora, eles correspondem à ameixeira, ao pinheiro e ao bambu, enquanto a Índia corresponde à cerejeira. O budismo, originário da Índia, é o ensinamento da "flor", como sugere a palavra *Hokke* (Lótus). Contemplar a impermanência de todas as coisas na efemeridade das pétalas de cerejeira que caem incessantemente é uma verdade fundamental que permeia todo o pensamento budista. É provável que essa filosofia, com a vinda do budismo, tenha se transmutado no código de honra dos samurais no Japão.
-
-Ademais, o número sete representa a terra. O budismo utiliza-o com frequência; Shakyamuni é o Miroku do sete, da terra, e, conforme nos foi ensinado, pode, em certas circunstâncias, tornar-se a mãe de Kannon (観音).
-
-O nome original da menina era Mieko, mas, antes mesmo desse acontecimento, Meishu-Sama o alterou, assim como o do pai, para Yayoi. Recebemos, então, a orientação de que Yayoi significa “dar à luz Miroku”.
-
-Todos esses indícios sugerem que essa menina era um protótipo de Shakyamuni ou possuía um profundo laço espiritual com ele. O que causa particular espanto é o fato de existir nos sutras budistas uma profecia — “uma menina de sete anos dará à luz Miroku” —, uma predição que, até então, só podia ser considerada um enigma insondável. Ao saber que o ocorrido era a concretização dessa profecia, minha surpresa foi tamanha que fiquei estarrecido, sem palavras. A profunda impressão daquele momento permanece inesquecível até hoje. Que mistério profundo! Este acontecimento era um ato do grandioso programa de Deus, revelado há milhares de anos.
-
-Verdadeiramente, o Plano Divino, embora possa parecer vago, se desenrola com provas rigorosas, racionalidade e uma preparação meticulosa, sem o menor desvio. Só este fato já nos permite reconhecer a natureza absoluta das profecias contidas em todas as religiões sobre o Juízo Final, a vinda do Messias Salvador e a concretização do Paraíso Terrestre, demonstrando que não se tratam de meros enigmas. Não há, portanto, como duvidar da imensa importância da Obra de Meishu-Sama, que foi anunciada por revelações divinas há milênios.
-
-Certa vez, ouvi de Meishu-Sama uma história. Em determinada localidade de Kyushu, foi escavada uma pedra de tinta de cem mil anos, a qual Ele mesmo teve a oportunidade de ver. De formato primitivo, semelhante a uma cabaça, a peça trazia em sua superfície, em alto-relevo, as formas do Sol, da Lua e das estrelas. A disposição desses astros expressava, de maneira singular, a iminente transição do mundo atual para o advento do Mundo Ideal. Isso nos revela a existência de uma revelação divina ocorrida há cem mil anos.
-
-Diante disso, compreendemos quão profundo e longínquo é o Plano de Deus, algo que transcende por completo nossa imaginação. O desejo divino pela manifestação do Paraíso provavelmente existe desde a própria Criação dos Céus e da Terra. E agora, ao sabermos que a Obra de Meishu-Sama, que carrega a missão de cumprir esse desígnio, é de uma grandeza tão sublime, faltam-nos palavras para louvá-Lo.
-
----
-
-# Relatos sobre Fantasmas (I) - Coletânea de Fenômenos Espirituais
-
-**Categoria:** sanko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 幽霊はあるか | **Status:** Published
-
-## Relatos sobre Fantasmas (I) - Coletânea de Fenômenos Espirituais
-
-É célebre em nosso país o ditado que diz: “O fantasma que julguei ver não passava de um capim seco ao vento”. Contudo, ao mesmo tempo que essa frase se popularizou, as lendas a respeito de fantasmas jamais deixaram de ser numerosas. Seja como for, no Ocidente, os experimentos sobre fenômenos espirituais já avançaram a tal ponto que não apenas se tornou possível o contato e o diálogo com os fantasmas, como também se logrou êxito em apertar-lhes as mãos e até mesmo em coletar suas impressões digitais.
-
-Embora a gênese dos relatos sobre fantasmas em nosso país seja incerta, no Ocidente, o caso mais famoso é o que ocorreu há cerca de cem anos, mais precisamente em 1848, na residência da família Fox, em Hydesville, um modesto vilarejo no estado de Nova York, nos Estados Unidos. Este episódio marcou o ponto de partida para a pesquisa espiritual no Ocidente e culminou no notável progresso a que assistimos hoje.
-
-Atualmente, no Ocidente, inúmeras universidades já estabeleceram cátedras de estudos psíquicos, e não são poucas as instituições de ensino superior dedicadas exclusivamente a esse campo. Além disso, renomados especialistas em pesquisa espiritual têm surgido em profusão, oriundos das fileiras de cientistas e psicólogos famosos, bem como de muitas outras personalidades de destaque. Nesse sentido, os experimentos sobre fenômenos espirituais passaram a ser conduzidos com rigorosa precisão científica, e os resultados publicados são extremamente numerosos, ao passo que um vasto acervo de obras sobre o tema vem sendo continuamente publicado.
-
-Em nosso país, em comparação com o Ocidente, o atraso nesse campo é, de fato, digno de nota. Todavia, recentemente, observa-se um crescente interesse pela pesquisa espiritual, com um aumento gradual no número de pesquisadores e intelectuais dedicados ao assunto. Já se torna frequente encontrar cientistas que iniciaram seus próprios estudos, o que tem promovido um considerável avanço nos experimentos sobre fenômenos espirituais.
-
-Em síntese, os resultados das pesquisas realizadas até o presente indicam que cada indivíduo, além do corpo carnal, é dotado de um corpo astral, um corpo espiritual e um corpo primordial. Da mesma forma, para além do mundo físico em que vivemos, existem o Mundo Astral, o Mundo Espiritual e o Mundo Divino. Postula-se que o ser humano, após o perecimento do corpo carnal, ingressa primeiramente no plano mais inferior do Mundo Astral, conhecido como Submundo. À medida que evolui, ascende aos planos superiores desse mesmo mundo. Aqueles que prosseguem em sua purificação e elevação podem ingressar no Mundo Espiritual e, finalmente, alcançar o Mundo Divino.
-
-Contudo, deixemos essas explicações para um momento posterior e retornemos aos relatos sobre fantasmas. O fantasma, em essência, é um ser humano ou outro animal que, após o perecimento do corpo carnal, permanece em seu corpo astral, habitando o Mundo Astral. A seguir, apresentarei dois ou três exemplos extraídos dos registros do falecido bacharel em Letras, Sr. Asano, a fim de compartilhá-los com os leitores.
-
-**Relato Um**
-
-Na noite de 15 de setembro de 1928, às oito horas, reuniram-se para uma sessão experimental na Associação de Pesquisas Espirituais de Glasgow, na Escócia. Além de mim, acompanhado pela Sra. Kadwallader, uma espiritualista norte-americana, e pela Sra. Woodworth, estavam presentes o presidente da associação, Sr. Anderson, o vice-presidente, Sr. Darley, o diretor-executivo, Sr. Mackindo, e mais de uma dezena de pessoas. A médium era a Sra. Mary Collum, contratada pela associação, uma senhora de aproximadamente quarenta anos que, segundo informado, começou a manifestar essa faculdade alguns anos antes, motivada pela morte de sua mãe.
-
-Seguindo o procedimento habitual, formamos um círculo, sentados à direita e à esquerda da médium, com uma trombeta acústica posicionada ao centro. O Sr. Mackindo, que conduzia a sessão, iniciou com breves instruções, como a necessidade de todos darem as mãos e manterem ambos os pés firmemente no chão, sem cruzá-los. Em seguida, as luzes foram apagadas. Após entoarmos juntos um hino, aguardamos em silêncio na escuridão por alguns instantes. De repente, a uma altura que estimei em cerca de um metro e meio acima da cabeça da médium, próximo ao teto, uma voz feminina clara e distinta soou no espaço.
-
-— Boa noite a todos... Mary, você reconhece minha voz?
-
-— Mamãe! Reconheço perfeitamente — respondeu a própria médium, que, mesmo durante a manifestação do fenômeno, permanecia em estado de consciência normal.
-
-— Esta noite, temos entre nós visitantes do Japão e dos Estados Unidos. Para que todos fiquem satisfeitos, por favor, chame o espírito mais apropriado... alguém que seja bem conhecido por algum dos presentes.
-
-— Farei o possível.
-
-Mãe e filha, separadas pela fronteira entre os mundos físico e espiritual, conversavam com extrema naturalidade, como se estivessem ao telefone. “Realmente, isto é fascinante”, pensei em silêncio na escuridão. “Alguns espiritualistas afirmam que a comunicação direta é o método ideal para o intercâmbio entre os dois mundos. Talvez tenham razão...” Apurei os ouvidos, determinado a não perder um único detalhe.
-
-A conversa entre mãe e filha limitou-se a algumas poucas trocas sobre trivialidades domésticas e terminou sem nenhum acontecimento extraordinário. Logo depois, a trombeta de alumínio, que até então estava em pé no chão, flutuou suavemente no ar, como se alguém a puxasse por uma corda. Como havia faixas luminosas em suas extremidades, seu movimento era claramente visível na escuridão.
-
-“Interessante... Para onde será que vai?”, pensei.
-
-Enquanto eu observava com grande curiosidade, a trombeta aproximou-se da Sra. Woodworth, que estava sentada bem ao meu lado.
-
-— Mamãe! Sou eu, a Lily. Você me reconhece? — uma voz adorável, de uma menina que parecia ter sete ou oito anos, emanou de dentro da trombeta.
-
-Soube mais tarde que Lily era a filha única da Sra. Woodworth, falecida alguns anos antes em sua casa, em Chicago, vítima de pneumonia.
-
-Pude sentir nitidamente o corpo robusto da Sra. Woodworth tremer, abalado por uma intensa emoção.
-
-— Oh, minha querida, é você, Lily! Que bom que você veio... Estamos em Glasgow, na Escócia, a terra do seu avô.
-
-— Eu sei disso muito bem. Estou sempre com a senhora, aonde quer que vá.
-
-— É verdade, você sempre está... Lily, ao lado da mamãe está o Sr. Asano, do Japão. Cumprimente-o.
-
-— Senhor Asano — disse uma voz encantadora, vinda da trombeta apontada em direção ao meu ouvido. — Gosto muito do senhor! O senhor vai passar pelos Estados Unidos quando voltar para o seu país, não é? Eu sei de tudo. Quando for, visite a minha casa. O papai com certeza também vai gostar do senhor.
-
-— Obrigado, Lily... — respondi, um tanto embaraçado. — Na volta, certamente visitarei sua casa. E então poderemos conversar pela trombeta novamente...
-
-— Em casa, nós podemos conversar sem a trombeta... A minha mamãe é uma ótima médium de voz direta.
-
-— Não se deve dizer essas coisas aqui — interveio a Sra. Woodworth, apressada, repreendendo Lily. — Já está bom por enquanto. Há muitos outros que desejam se manifestar, então agora você pode se retirar.
-
-— Adeus a todos... Adeus, senhor Asano...
-
-No mesmo instante em que Lily se despediu, a trombeta caiu no chão com um baque ruidoso.
-
-## Relatos sobre Fantasmas (II)
-
-Após a publicação do primeiro artigo desta série, na edição de número sete da revista *Paraíso Terrestre*, ela foi temporariamente interrompida por circunstâncias relativas ao autor. A partir de agora, contudo, daremos continuidade à sua publicação nas próximas edições.
-
-No relato anterior, extraído dos registros do falecido bacharel em Letras, Sr. Asano, apresentamos um caso de diálogo direto entre as almas dos falecidos — os fantasmas — e os vivos. Desta vez, no entanto, selecionaremos, da obra de Oliver Lodge, um registro no qual os pensamentos de um fantasma foram captados por um médium e expressos por meio da escrita automática. Em outras palavras, um registro no qual a alma de um falecido transmitiu sua vontade por meio da escrita automática de um médium.
-
-**Relato Dois**
-
-Na noite de 8 de abril de 1874, Stainton Moses, então aclamado como um médium de dons excepcionais para a escrita automática, iniciava um texto sobre suas dúvidas religiosas. Mal havia escrito algumas palavras — “Eu sou aquele que...” —, quando sua pena parou abruptamente.
-
-“Qual a razão disso?”, perguntou-se Moses.
-
-Imediatamente, a pena voltou a se mover e escreveu: “Um espírito deseja se comunicar, e recebemos ordens para atender a seu desejo. Como ela não consegue escrever com rapidez, falará por nosso intermédio. Seu nome é Fanny Westoby. O senhor conhece esse nome?”.
-
-Foi assim que Moses recebeu a primeira comunicação de seu espírito-guia, dando início a um diálogo entre ele e os habitantes do Mundo Espiritual, que se desenrolou por meio de sua escrita automática.
-
-*Pergunta:* Não me recordo.
-
-*Resposta:* Sua mãe a conhece bem. Ela é prima de sua mãe e partiu deste mundo em 15 de maio do ano passado.
-
-*Pergunta:* Ela era casada?
-
-*Resposta:* Sim. Sua família era de Carterham.
-
-*Pergunta:* Fanny Carterham... Sim, lembro-me vagamente. Ela morou em Maltby certa vez.
-
-*Resposta:* Ela diz que nasceu em um lugar chamado Alford, na casa onde hoje mora Sam Stevenson. Morou em Maltby, mas casou-se em Belchford. Faleceu em Horncastle, aos sessenta e três anos. O senhor não se lembra de ter ido a Maltby em 1845 para vê-la? Naquela época, a mãe dela, Elizabeth Carterham, havia acabado de falecer após uma longa enfermidade, e sua mãe foi consolar a prima. O senhor foi levado a passear pela fazenda e montou em uma cabra. Ela ficou preocupada com isso e, de fato, a cabra empinou e o derrubou. O senhor caiu sobre um monte de trigo na eira e foi dolorosamente picado por um inseto peçonhento. Ela roga encarecidamente que o senhor recorde este fato à sua mãe.
-
-*Pergunta:* Tentarei fazê-lo, mas será que é uma boa ideia?
-
-*Resposta:* O senhor talvez não consiga persuadir sua mãe a investigar o assunto, mas o senhor mesmo poderá atestar a veracidade dos fatos.
-
-*Pergunta:* Ela tem alguma mensagem a transmitir?
-
-*Resposta:* Ela diz: “Em vida, preocupei-me apenas em satisfazer os desejos da carne e, por isso, fracassei, perdendo muitas oportunidades de progresso. Meu avanço começa agora. Minha vida atual não é muito diferente da sua; sou praticamente a mesma de antes. Gostaria de influenciar Mary, mas não consigo me aproximar dela”.
-
-*Pergunta:* Ela pode me garantir que é, de fato, Fanny Westoby?
-
-*Resposta:* Ela não pode fornecer provas adicionais. Aguarde. Ao retornar, pergunte a seu pai sobre Donington e o alçapão.
-
-*Pergunta:* Não entendo minimamente o que ela quer dizer com isso. Mas está bem, irei perguntar. Há mais alguma coisa? Ela está feliz?
-
-*Resposta:* Em sua condição atual, ela está extremamente feliz.
-
-*Pergunta:* Como ela me encontrou?
-
-*Resposta:* Ela estava voando perto de uma amiga (a Sra. Moses) quando chegou aqui por acaso e descobriu que podia se comunicar.
-
-*Pergunta:* Posso ser útil a ela?
-
-*Resposta:* Sim. Por favor. Ela, e na verdade todos nós, seríamos imensamente beneficiados se o senhor nos emprestasse sua mediunidade.
-
-*Pergunta:* E como seria isso?
-
-*Resposta:* Seria de grande valia para nós se o senhor transmitisse com cuidado as mensagens que desejamos levar aos seres humanos. Na verdade, todos nós estamos transbordando de alegria. Que o Imperador Celeste o abençoe. Rector.
-
-Assim, os espíritos anseiam por se comunicar com os humanos tanto quanto os humanos anseiam por se comunicar com os espíritos. Contudo, a falta de um canal de comunicação é um obstáculo para todos. Por isso, quando encontram uma pessoa dotada de dons mediúnicos tão plenos como o Sr. Moses, os espíritos se reúnem ao seu redor, tentando tomar emprestadas suas mãos e sua voz. De fato, o Sr. Moses era considerado um prodígio entre os médiuns. Conta-se que, ao passar perto de grandes cemitérios, uma miríade de espíritos convergia sobre ele como um vendaval, disputando a oportunidade de tê-lo como intérprete. Foi por terem encontrado um médium de tal magnitude que os espíritos, rejubilando-se, declararam: “todos nós estamos transbordando de alegria”.
-
-Avaliando este caso de escrita automática, Stainton Moses declarou: “Ao questionar minha mãe, confirmei que todos os detalhes eram exatos, sem a menor divergência. Ela ficou espantada, admirando-se de como eu podia me lembrar tão bem de um acontecimento de quando eu tinha apenas cinco anos. Não lhe contei como obtive essa informação, temendo que fosse imprudente e inútil. Quanto ao incidente do alçapão, no entanto, não obtive resposta de meu pai. Ou ele havia esquecido completamente, ou preferiu não falar sobre o assunto. Em 1874, meu pai finalmente se lembrou do caso do alçapão. A casa em que ele morou em Donington tinha um acesso ao telhado através de um alçapão. O telhado era duplo e a vista, excelente. A Srta. Fanny Kirkham, durante uma visita, tentou passar pelo alçapão para chegar ao telhado, mas ficou entalada no meio do caminho, para o riso de todos”. [A morte da Sra. Westoby foi confirmada por meio de seu registro de óbito local.]
-
-Em suma, o fato de datas, lugares e circunstâncias terem sido relatados com tamanha minúcia e eloquência é verdadeiramente notável. Talvez ela tenha sido uma mulher extremamente vivaz e comunicativa em vida. Geralmente, os espíritos hesitam em relação a pormenores tão detalhados, como se estivessem confusos. No entanto, é possível que o espírito porta-voz, como no caso presente, tenha recebido as informações com calma da própria falecida e as tenha transmitido fluentemente pela mão do médium.
-
-## Relatos sobre Fantasmas (III)
-
-**Relato Três**
-
-Nos dois artigos anteriores, compreendemos, por meio de exemplos concretos, como as almas do Mundo Astral podem dialogar com nós, habitantes do mundo físico, ou expressar sua vontade através da escrita automática. Um caso notável ocorreu em 1923, quando o espírito do célebre escritor Oscar Wilde se comunicou através da médium britânica, Sra. Starr Travers Smith. A assinatura produzida na ocasião era idêntica, em todos os detalhes, à caligrafia de Wilde em vida. Quando nos deparamos com comunicações espirituais dessa natureza, torna-se impossível atribuí-las à mera manifestação do subconsciente do médium.
-
-O fantasma que julguei ver
-Não passava de um capim seco ao vento.
-
-Ainda que este verso seja famoso por sua negação dos fantasmas, os relatos sobre avistamentos são, desde a Antiguidade, extremamente numerosos, tanto no Oriente quanto no Ocidente. Ademais, como resultado da pesquisa sobre fenômenos espirituais, que se desenvolveu gradualmente nos últimos oitenta ou noventa anos, logrou-se êxito em experimentos que permitem a visualização real da forma dos fantasmas, e o número de relatos publicados a esse respeito ascende a uma quantidade impressionante.
-
-O que popularmente chamamos de fantasma é, em geral, um ser que, após se despojar do corpo carnal, habita o Mundo Astral, a dimensão inferior do Mundo Espiritual, apenas com seu corpo astral. Esse ser extrai do médium ou de outras fontes o ectoplasma — substância considerada intermediária entre o material e o imaterial — e o utiliza para adensar seu próprio corpo astral, tornando-se assim visível aos nossos olhos. Existem também manifestações que, embora invisíveis para a maioria das pessoas, podem ser percebidas por clarividentes ou capturadas em fotografias.
-
-Um fato particularmente assombroso ocorreu em um dia de maio de 1827, durante uma sessão experimental realizada na cidade de Glasgow. Na ocasião, manifestou-se o fantasma de uma mulher, e os presentes lograram êxito em cortar um fragmento da vestimenta que ela usava. Esse pedaço de tecido está, até hoje, sob a guarda do Sr. Mackindo, presidente da Associação de Pesquisas Espirituais de Glasgow. Uma réplica fotográfica foi distribuída aos membros pela Sociedade de Pesquisas da Ciência Espiritual de Tóquio, e o material se assemelha, em sua delicadeza, a uma teia de aranha.
-
-Ademais, no diário de viagem do falecido Sr. Kazusaburo Asano, intitulado *Peregrinação Espiritual pela Europa e América*, encontra-se o registro de um experimento bem-sucedido para a obtenção das impressões digitais de um habitante do Mundo Astral. Apresento a seguir uma transcrição dos pontos essenciais desse relato.
-
-O fenômeno da produção de impressões digitais não é apenas o mais crucial entre as manifestações mediúnicas de Margery, mas também um evento único nos anais da experimentação espiritual mundial, estabelecendo um novo marco na história do espiritualismo moderno. Foi em agosto de 1926 que a alma de Walter, o falecido irmão de Margery, começou a deixar a impressão de seu polegar em cera odontológica. Ao comparar a impressão digital de Walter com as da médium e dos demais presentes, notou-se que todas eram diferentes. Contudo, descobriu-se uma semelhança de 45% com a de Margery, sua parente consanguínea, e de 70% com a de sua mãe, o que, segundo a datiloscopia, é um fato corriqueiro.
-
-O que se seguiu, no entanto, foi a comprovação de um fato sem precedentes: a impressão digital produzida pela alma de Walter era absolutamente idêntica à que ele possuía em vida. Em 1912, antes de partir para sua última viagem de trem, Walter barbeou-se com sua navalha. O instrumento foi guardado em seu estojo e permaneceu intocado dentro de uma mala desde então. Em maio de 1927, a mãe de Walter retirou a navalha e a entregou a especialistas para análise. No cabo do objeto, foi encontrada a impressão digital de Walter. O fato de a impressão deixada em vida no cabo da navalha coincidir perfeitamente com aquela que a alma, autodenominada Walter, estava produzindo repetidamente na cera, foi um acontecimento extraordinário. A análise das impressões digitais de Walter foi realizada pelos departamentos de polícia de Washington, Boston, Berlim, Munique e Viena, bem como pela Scotland Yard de Londres, e todos emitiram certificados de autenticidade.
-
-O experimento para a produção das impressões digitais ocorreu em 18 de novembro de 1928, com início às nove da noite e duração de aproximadamente quinze minutos. O Dr. Brown, de Boston, participou como testemunha e assistente. Coloquei três pedaços de cera, devidamente marcados, no bolso e entrei na sala de experimentos. Sobre a mesa, havia água quente para amolecer a cera e água fria para endurecê-la posteriormente, dispostas em duas tigelas.
-
-Sob uma luz vermelha, assim que Margery entrou em transe, a voz de Walter soou no ar, dando instruções sobre o procedimento. Seguindo suas orientações, retirei a cera do bolso e a coloquei na tigela com água quente. Após cerca de um minuto, quando a cera estava suficientemente maleável, o próprio Walter a retirou da água, pressionou seu polegar sobre ela na mesa e, em seguida, mergulhou-a na água fria. Durante esse processo, a ponta de seu dedo materializado era visível, branca sob a luz vermelha. Logo depois, dizendo “Acho que já endureceu o suficiente”, ele mesmo retirou a cera da tigela de água fria e me entregou. Repetimos o mesmo procedimento três vezes. Na última, como a água havia esfriado um pouco e a cera não amoleceu completamente, ele disse: “Está dura, vou pressionar duas vezes” e apertou o polegar com força por duas vezes.
-
-Tudo transcorreu de maneira extremamente prática, dando a impressão não do trabalho da alma de um falecido, mas sim da tarefa de um jovem descontraído. Escusado será dizer que, durante todo o tempo, seguramos firmemente as mãos da médium.
-
-Após o experimento, a análise das impressões digitais foi confiada ao Dr. Rogers, da Universidade de Harvard. Após exame microscópico, o professor atestou que as impressões eram, sem sombra de dúvida, idênticas às de Walter em vida. Levei comigo, ao retornar, os três moldes de cera com as impressões digitais...
-
----
-
-# Da Coletânea de Artigos do Reverendo Jikan Okada
-
-**Categoria:** sanko | **Ano:** 昭和28(1953)年12月23日 | **Fonte:** Eikou
-**Título Original:** 本年を顧みて「座談会」 （S28年） | **Status:** Published
-
-## Da Coletânea de Artigos do Reverendo Jikan Okada
-
-## Retrospectiva do Ano de 1953: Mesa-redonda
-
-Revista Eikou, nº 240, 23 de dezembro de 1953
-
-**Data e Hora:** 17 de dezembro de 1953
-**Local:** Sede Provisória da Sekaikyuseikyou em Sakumicho
-**Moderador (Diretor):** Jittaro Moriyama
-**Participantes** (Honoríficos omitidos, em ordem aleatória):
-**(Presidente)** Naoyoshi Ōkusa
-**(Diretor-Presidente)** Yoshihiko Kihara
-**(Diretores)** Katsuichi Watanabe, Seizo Abe, Mitsuo Takeda, Naoyuki Kawai, Kosaku Ishihara, Emiji Nakamura, Seiichi Momomi, Shigeru Fujieda
-
-**Ōkusa:** Senhores, em virtude da chegada do novo ano de 1954, gostaria de realizar esta mesa-redonda com o propósito de refletir sobre o ano de 1953 e, ao mesmo tempo, renovar nossas resoluções para o ano vindouro. Gostaria de solicitar ao Reverendo Moriyama que conduza a moderação deste encontro.
-
-**Moderador:** Entre os acontecimentos mais significativos deste ano, quiçá um marco histórico, destaca-se o lançamento comercial das obras de Meishu-Sama. Inicialmente, quando a decisão foi comunicada às grandes distribuidoras, como a Nihon Shuppan e a Tokyo Shuppan, houve certa relutância, fruto do desconhecimento sobre nossa Igreja. Contudo, ao iniciarem a comercialização, o volume extraordinário de vendas os compeliu a reconhecer a relevância de nossa Obra. Ademais, a expressiva aquisição dos livros pelo público em geral nos revelou uma profunda busca espiritual latente na sociedade. A primeira obra a ser publicada foi *A Salvação da América*, seguida por títulos como *Terapêutica pela Fé para a Tuberculose*, *Princípios da Agricultura Natural* e *Coletânea de Milagres da Sekaikyuseikyou*. No que tange à distribuição, observamos que, se no início o empenho dos membros foi crucial, gradualmente as vendas se consolidaram de forma perene nas livrarias, independentemente de um esforço direto de nossa parte. O livro *Princípios da Agricultura Natural*, em particular, demonstrou o quanto a agricultura é uma questão premente no Japão. Seu sucesso de vendas não se restringiu às zonas rurais, alcançando também os grandes centros urbanos, o que lança uma luz promissora sobre uma nova faceta da expansão de nossa Igreja. Nesse sentido, o trabalho do Reverendo Watanabe, que atuou diligentemente na Associação de Divulgação da Agricultura Natural, foi de imenso valor. Gostaria, pois, de ouvi-lo a respeito.
-
-**Watanabe:** A esse respeito, desde a publicação da edição especial sobre Agricultura Natural na primavera, notamos um entusiasmo crescente entre os membros para colocar os ensinamentos em prática. Foi então que as palavras de Meishu-Sama, orientando-nos a formar uma associação para nos dirigirmos aos agricultores em geral, deram origem à Associação de Divulgação da Agricultura Natural. Desde sua fundação, graças ao esforço zeloso de todos, o número de associados tem aumentado progressivamente. Além disso, no cultivo de arroz deste ano, implementamos uma nova técnica experimental de aração profunda. Ao enfatizarmos que este método elimina a barreira de toxinas acumuladas por anos de uso de adubos, aqueles que o adotaram colheram resultados excelentes. Apesar das quebras de safra em escala nacional, provocadas por tufões e geadas no outono, os praticantes da Agricultura Natural obtiveram colheitas consistentemente sólidas. Um exemplo notável ocorreu na província de Mie, onde uma área atingida pela maresia, que devastou as plantações vizinhas, teve uma produção normal. Em outros casos, mesmo quando a colheita da Agricultura Natural parecia modesta, as lavouras convencionais ao redor registraram perdas quase totais. Tivemos também o caso de um agricultor que chegou a colher seis mil kan de batata-doce por tan. As estações de pesquisa agrícola também têm demonstrado grande compreensão, e recentemente, autoridades do setor passaram a acompanhar nossas atividades com vivo interesse, iniciando suas próprias investigações. A notável difusão da Agricultura Natural este ano é, inequivocamente, um reflexo da imensa virtude de Meishu-Sama. Ela nos faz renovar a convicção sobre a necessidade de disseminar este método, que certamente contribuirá para a solução da pobreza, um dos pilares do tripé doença, pobreza e conflito. Por fim, é com grande alegria que informo que as deficiências da Associação foram sanadas, e toda a Sekaikyuseikyou agora avança unida na missão de divulgar plenamente a Agricultura Natural.
-
-**Moderador:** Em seguida, gostaria de abordar a concretização da expansão de nossa Igreja no exterior. Em 11 de fevereiro, os reverendos Higuchi e Ajiki partiram para o Havaí, e o desenvolvimento alcançado até hoje é do conhecimento de todos. Gostaria de pedir ao Reverendo Abe que nos fale sobre este assunto.
-
-**Abe:** A empreitada missionária iniciada em fevereiro pelos reverendos Higuchi e Ajiki no Havaí rendeu frutos extraordinários. Em pouco mais de seis meses, seus esforços resultaram na outorga da fé a mais de mil e quinhentas pessoas e na arrecadação de dezenas de milhares de dólares para a construção da Sede do Havaí, estabelecendo assim os alicerces de nossa missão no exterior. O progresso não se limitou ao arquipélago; nos Estados Unidos, já contamos com membros devotos em cidades como Los Angeles, Seattle e São Francisco. Além disso, tanto na América do Norte quanto na do Sul, pessoas que leram as obras de Meishu-Sama manifestaram um fervoroso desejo de ingressar na fé. Ao receberem o Ohikari, relatam sucessivas recuperações de saúde. A intensidade da Luz Divina e a vastidão de Seu alcance são verdadeiramente assombrosas. Diante da força crescente da Luz a cada dia, podemos apenas imaginar o grandioso desenvolvimento que nos aguarda em 1954.
-
-**Moderador:** A expansão de nossa Obra não se manifestou apenas no campo missionário, tanto no Japão quanto no exterior. Internamente, com a conclusão do Solo Sagrado de Hakone, o Shinsenkyo (神仙郷), nosso museu promoveu exposições de ukiyo-e e de arte antiga estrangeira. O número de visitantes japoneses multiplicou-se em relação ao ano anterior, e recebemos também um grande número de estrangeiros, que, invariavelmente, expressavam seu encanto com a palavra "wonderful". Geralmente, quando estrangeiros no Japão utilizam essa expressão, é por mera cortesia. Contudo, no Museu de Arte de Hakone, o "wonderful" era proferido com genuína admiração. O fato de termos sido mencionados em jornais de língua inglesa como o *Chicago Tribune* e o *Nihon Times* reforça a convicção sobre a universalidade da Sekaikyuseikyou, um ponto que considero de grande relevância.
-
-**Kawai:** Atualmente, os Estados Unidos se encontram absortos em contramedidas à ideologia comunista, seu principal adversário. Todavia, como Meishu-Sama esclarece em *A Salvação da América*, o aumento alarmante do número de doentes no país representa um quadro verdadeiramente preocupante. Foi com o objetivo de apresentar uma solução urgente para este problema que a referida obra foi escrita. Nesse contexto, a missão no Havaí representa a vanguarda de nossa expansão internacional e, conforme os ensinamentos de Meishu-Sama, desempenha um "papel central de união", o que confere a esta missão uma importância ainda maior. A forma como a salvação do mundo se materializará foi resolvida de maneira magistral por Meishu-Sama através do envio do Ohikari para o exterior, um ato que, em sua essência, define a própria natureza da Sekaikyuseikyou.
-
-**Ōkusa:** Em complemento a essa questão, a construção da Sede do Havaí, com um investimento de cinquenta mil dólares, o estabelecimento de filiais nas cinco ilhas principais do arquipélago e a obtenção do registro como pessoa jurídica são fatos que nos enchem de uma alegria indescritível. Se o desenvolvimento até aqui já foi esplêndido, podemos imaginar o que o próximo ano nos reserva.
-
-**Moderador:** A seguir, gostaria de tratar do progresso no campo da construção, que avança em Hakone, Atami e Quioto. Peço ao Reverendo Nakamura que nos fale a respeito.
-
-**Nakamura:** Acredito que a Sekaikyuseikyou experimentou um desenvolvimento sólido e vigoroso neste ano. Atualmente, tenho a permissão de servir na área de construção, e sinto que, à medida que as obras avançam com força, a qualidade e a dedicação dos servidores têm melhorado notavelmente. Eles realizam suas tarefas com grande seriedade e entusiasmo. Em relação a Quioto, percebo uma transformação notória na dedicação dos servidores a cada visita de Meishu-Sama ao oeste do país. A diferença entre a primavera e o outono deste ano foi marcante; sinto uma forte convicção em sua entrega sincera. Por essa razão, sinto profundamente que o nosso avanço não foi apenas material, mas também de um profundo conteúdo espiritual. Creio que 1954 nos trará um desenvolvimento que superará todas as nossas expectativas.
-
-**Fujieda:** Refletindo sobre as mudanças mais acentuadas deste ano, recordo que, até pouco tempo, éramos alvo de diversas críticas na imprensa. Recentemente, contudo, observo uma tendência distinta: a publicação de artigos notavelmente imparciais. Creio que esta seja uma das marcas do ano. Cito como exemplos a postura do jornal *Sangyo Keizai Shimbun* e da revista *Shukan Sankei* ao noticiarem o caso da regeneração de um órgão masculino sob o título "Chin-mondō da Montanha de Hakone"; o artigo sobre Agricultura Natural publicado na edição de 20 de dezembro; e a reportagem sobre Atami escrita pelo professor Fukuda, da Universidade Hosei, na edição de dezembro da revista *Kaizo*, considerada uma publicação progressista. Todos esses exemplos demonstram um aumento da credibilidade de nossa Igreja, um reconhecimento que considero uma tendência muito alvissareira.
-
-**Moderador:** O tema da regeneração do órgão masculino, recém-mencionado, ensejou um evento sem precedentes, que também merece destaque entre os fatos notáveis deste ano: uma reunião no Templo Nikko-den, em Gora, com a presença de Meishu-Sama, na qual nós, representantes da Igreja, trocamos impressões com diversos doutores em medicina.
-
-**Ōkusa:** Sobre este assunto, embora na época os médicos tenham negado a possibilidade do ponto de vista científico, eles ficaram visivelmente espantados diante do fato inegável apresentado pelo próprio paciente. Recentemente, recebemos um novo relatório: os dois testículos que haviam desaparecido reapareceram e estão sensíveis ao toque. Portanto, considero necessário reunir novamente os doutores que participaram do encontro anterior para que possam confirmar este novo desenvolvimento.
-
-**Moderador:** Acabamos de ouvir sobre um milagre extraordinário. De fato, todos nós experienciamos constantemente o fortalecimento do poder do Johrei a cada dia. Gostaria de pedir ao Reverendo Ishihara que nos fale sobre este aspecto sob a ótica da difusão.
-
-**Ishihara:** O que verdadeiramente distingue a Sekaikyuseikyou das religiões estabelecidas é, poderíamos dizer, a contínua sucessão de milagres. Para nós, não se trata de milagres, mas de ocorrências naturais. Contudo, sob a ótica da sociedade atual, o fato de eventos tidos como impossíveis se realizarem com simplicidade é considerado um prodígio. Na área da saúde, os médicos observam nossos resultados com espanto. Fora dela, temos casos de pessoas que caem de grandes alturas e saem ilesas, ou poços que voltam a dar água após décadas de seca. A própria Agricultura Natural, que produz colheitas sem o uso de adubos, pode ser considerada um milagre segundo o bom senso de hoje. Em suma, sinto profundamente que vivemos e servimos imersos em milagres. Recordo-me de um filme cristão que trazia uma mensagem semelhante: “Não é preciso falar de fé a quem já a possui, e de nada adianta falar de fé a quem não a tem. No fim, sem a manifestação de milagres, não há como revelar a existência de Deus ou salvar a humanidade”. Ao pensar nisso, percebo que a Sekaikyuseikyou é a única religião capaz de manifestar milagres de forma simples para toda a humanidade, revelando a existência de Deus. Creio que este seja o grande motor que impulsionará nosso desenvolvimento.
-
-**Moderador:** Já ouvimos diversas explanações. O extraordinário desenvolvimento que alcançamos este ano se deve, em grande parte, à união e colaboração entre todas as Igrejas. Gostaria de pedir ao Reverendo Momomi, que acompanha constantemente os assuntos da Sede Central, que nos ofereça uma perspectiva do ponto de vista administrativo.
-
-**Momomi:** Minha função consiste em analisar os relatórios recebidos para compreender a situação geral da Obra. Através deles, sinto quão eficazes se tornam os esforços dos presidentes de Igreja nos diversos campos de atuação, como a expansão no exterior, o avanço no Japão e a construção do Paraíso Terrestre. Observo também como a mentalidade dos chefes de Johrei Center se reflete profundamente nos membros, manifestando-se em suas ações. Sinto, portanto, que para alcançarmos um grande desenvolvimento, o direcionamento mental das pessoas em postos-chave produz resultados de enorme magnitude. E o motor dessas ações são sempre as palavras de Meishu-Sama, que se manifestam de forma clara. Tenho profunda gratidão pelos membros da diretoria e dos comitês, que se dedicam arduamente a planejar e executar as novas diretrizes de Meishu-Sama, sempre atentos aos cenários interno e externo. Tenho a feliz certeza de que, no próximo ano, eles manifestarão um poder ainda maior e nos permitirão alcançar resultados grandiosos.
-
-**Moderador:** A seguir, ao analisarmos o cenário econômico deste ano, observamos uma forte tendência inflacionária. Em um mundo marcado pela instabilidade, com quedas bruscas na bolsa de valores e os efeitos do fim da Guerra da Coreia, nossa Igreja avançou em todas as frentes sem qualquer impedimento. Embora isso se deva, naturalmente, à proteção de Meishu-Sama, gostaria de pedir ao Reverendo Takeda que comente sobre este ponto.
-
-**Takeda:** A causa fundamental é, sem dúvida, a imensa virtude de Meishu-Sama. No início do ano, foram criados seis departamentos, aos quais se somou posteriormente o de Divulgação da Agricultura Natural, totalizando sete. O fato de esses departamentos terem atuado de forma integrada foi um fator decisivo. Graças a isso, apesar das grandes turbulências no mundo, os presidentes de Igreja puderam se dedicar à construção do Paraíso Terrestre, nosso ideal, o que contribuiu enormemente para o nosso progresso. Pensando no próximo ano, como seres humanos, não podemos prever as mudanças que ocorrerão. Contudo, independentemente do que aconteça, se nos dedicarmos unicamente a executar a Vontade de Meishu-Sama, tenho a certeza de que, no devido tempo, nosso desenvolvimento será infalível.
-
-**Moderador:** Agora, gostaria de pedir a palavra ao Reverendo Kihara. Reverendo, em meio a suas inúmeras atribuições, o senhor sempre nos orienta sobre a postura que nós, ministros, devemos ter para materializar a Vontade de Meishu-Sama. Recentemente, assumiu também a presidência da Associação de Divulgação da Agricultura Natural, que se prepara para uma grande expansão. Diante de sua agenda cada vez mais intensa, peço que, em retrospectiva a este ano, nos ofereça uma palavra sobre a determinação que devemos ter para o ano que se inicia.
-
-**Kihara:** De fato, a Sekaikyuseikyou e o Templo Messias podem ser comparados ao espírito e ao corpo. Como Meishu-Sama sempre nos ensina, a Obra Divina se realiza através de modelos. Portanto, a expansão no exterior e todos os demais avanços correspondem ao progresso da construção do Templo Messias. Este ano, concluímos as obras de Hakone, e o museu recebeu um grande número de visitantes. Toda pessoa que ali adentra recebe um elo da linha espiritual de Deus, que se torna o fio condutor para a sua salvação. O mesmo se aplica à Agricultura Natural. A questão não é ser membro ou ter fé. A salvação é determinada unicamente pela decisão de praticar ou não os ensinamentos. Refletindo sobre isso, compreendemos o que Meishu-Sama quer dizer ao afirmar que a Sekaikyuseikyou é uma religião de ação; é a materialização de um pragmatismo salvífico. Acredito que ainda somos muito apegados a teorias e nos falta a ação que testemunha com o próprio corpo. Em um ensinamento recente, Meishu-Sama afirma que o ser humano é como um amontoado de sangue e pus. Eu, que sou mais antigo na fé e já passei por três grandes purificações, ao olhar para mim mesmo, vejo que meus pontos positivos são menos numerosos que os negativos. Isso significa que estou muito maculado. É evidente que o detentor de um corpo assim não deveria ser capaz de cumprir uma missão tão elevada. No entanto, o fato de eu ser utilizado incessantemente na Obra Divina se deve unicamente à proteção de Deus. Como parte da liderança da Igreja, temos o dever de ser o núcleo. Portanto, a menos que nos tornemos possuidores de um espírito e alma puros até o âmago, não seremos capazes de cumprir nossa missão de forma digna. Se mantivermos essa postura, ela certamente se transmitirá aos presidentes de Igreja e aos ministros. Em última análise, posso afirmar com clareza que o rumo dos qualificadores e dos membros em geral depende de nós. Quanto à Associação de Divulgação da Agricultura Natural, embora a tratemos como algo distinto da fé, o sujeito que a executa é a Sekaikyuseikyou. Nosso anseio é que os agricultores possam, o quanto antes, transitar da condição lastimável em que se encontram para um estado de felicidade. Muitas vezes, ouço comentários como: "Em minha Igreja, há poucos agricultores, então isso não me diz respeito". Isso é um equívoco. Todos devemos cooperar ativamente. Nossa única tarefa é nos empenharmos em concretizar as palavras de Meishu-Sama assim que elas são proferidas. De onde se origina a infelicidade atual? Ela surgiu na exata medida em que a humanidade se afastou da Vontade de Deus. O fato de as pessoas sofrerem com doenças e os agricultores com as pragas de insetos pode ser explicado de forma simples: por terem ignorado a Deus, agora são atormentados por insetos. Em uma palavra, para o ano de 1954, devemos promover o extermínio dessa praga que é ignorar a Deus.
-
-**Moderador:** Nosso tempo está se esgotando. Para encerrar, gostaria de pedir uma palavra final ao Presidente Ōkusa.
-
-**Ōkusa:** Hoje, ouvimos as valiosas palavras dos reverendos aqui presentes. Ao refletirmos sobre este ano, encontramos muitos pontos para autoanálise. No próximo ano, desejo me dedicar com sinceridade ainda maior para servir à Obra Divina.
-
-**Moderador:** Muito obrigado a todos. Declaro encerrada esta mesa-redonda.
-
----
-
-# Mesa-redonda com a Sra. Ino, produtora de uma colheita estimada em dezoito fardos
-
-**Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
-**Título Original:** 参考文献 「自然栽培の佐渡」座談会 推定反収十八俵の作者伊野さんを囲んで | **Status:** Published
-
-## Mesa-redonda com a Sra. Ino, produtora de uma colheita estimada em dezoito fardos
-
-**Incluído na obra “Explicação da Agricultura Natural”**
-
-**Igreja Johrei de Chukyo**
-**Data:** 22 de outubro de 1952
-**Horário:** Visita de campo pela manhã, mesa-redonda à tarde
-**Local da visita:** Propriedade de Masao Ino, Ichiba, Mizunami-Toki-cho, Toki-gun, Província de Gifu
-**Local da mesa-redonda:** 3-11 Shumoku-cho, Higashi-ku, Cidade de Nagoia
-**Moderador:** Harunosuke Taki
-**Palestrantes:** Masao Ino e outros
-**Participantes:** Mais de cinquenta pessoas
-
-### Dezoito fardos de uma colheita em que espigas florescem sobre espigas
-
-**Moderador:** Damos início, neste momento, à nossa mesa-redonda sobre o cultivo de arroz pelo método da Agricultura Natural, que tivemos a oportunidade de observar em nossa visita de campo. Com a vossa permissão, assumirei o papel de moderador. Sra. Ino, poderia nos dizer, este é o seu quantos anos de Cultivo Natural?
-
-**Sra. Ino:** Este é o quarto ano.
-
-**Moderador:** Qual foi a sua colheita real no ano passado?
-
-**Sra. Ino:** Foi de aproximadamente dezesseis fardos por `tan`.
-
-**Moderador:** Compreendo. E qual é a sua estimativa para este ano?
-
-**Sra. Ino:** Estimo em dezoito fardos. Nas lavouras adubadas da vizinhança, a média é de sete a oito fardos.
-
-**Moderador:** No início, a senhora foi alvo de zombaria por parte dos vizinhos? Houve oposição dentro de sua própria casa?
-
-**Sra. Ino:** Sim, houve uma oposição considerável. Fui chamada de louca e coisas do gênero, chegando a um ponto em que quase fui deserdada pela minha família. Contudo, roguei a Deus e insisti que me concedessem três anos para que vissem os resultados. Com essa determinação, obtive um êxito esplêndido, como podem agora constatar.
-
-**Moderador:** A senhora deu início a essa prática depois que seu marido retornou da guerra?
-
-**Sra. Ino:** Comecei um ano antes do seu retorno.
-
-**Moderador:** Então, a senhora superou toda a oposição por conta própria.
-
-**Sra. Ino:** Sim.
-
-**Moderador:** E como estão os resultados hoje? Qual é, em média, o perfilhamento das plantas?
-
-**Sra. Ino:** Varia de trinta a quarenta perfilhos, mas podem considerar uma média de trinta para um cálculo seguro.
-
-**Moderador:** Entendo. Este caule aqui (segurando um pé de arroz do Cultivo Natural) assemelha-se ao capim-dos-pampas, não é mesmo? É um tanto diferente da palha comum.
-
-**Sra. Ino:** Exato. Por isso, os condutores de carroças dizem que uma palha tão rija como esta não serve para eles, que preferem algo mais macio.
-
-**Moderador:** Quantos grãos, aproximadamente, há nesta espiga?
-
-**Sra. Ino:** Bem, nas contagens que fiz em casa, encontrei entre duzentos e oitenta e duzentos e noventa grãos.
-
-**Moderador:** E hoje, quais foram os resultados das contagens feitas pelos senhores? Quem contou, por favor, compartilhe seus números.
-
-**Participante A:** Contei entre cento e noventa e duzentos grãos.
-
-**Participante B:** Na minha contagem, obtive de cento e sessenta a duzentos e vinte grãos.
-
-**Participante C:** Cerca de duzentos e trinta grãos.
-
-**Moderador:** Observando atentamente, nota-se que da bainha da folha surgem ramos, e nestes, há de cinquenta a setenta grãos. Este é um fenômeno, ouso dizer, sem precedentes. Que ramos com espigas brotem da bainha da folha é algo que podemos afirmar nunca ter sido visto. E isso se repete em todas as plantas. Com efeito, a antiga metáfora de que "em anos de fartura, espigas florescem sobre espigas" tornou-se aqui uma realidade. Creio que, com mais algum tempo, veremos algo ainda mais extraordinário.
-
-### A sabedoria sutil no plantio
-
-**Moderador:** Como a senhora realiza o plantio?
-
-**Sra. Ino:** Planto uma muda por vez. No caso de mudas muito pequenas, às vezes uso duas, mas a grande maioria é de apenas uma.
-
-**Moderador:** E qual foi o espaçamento adotado?
-
-**Sra. Ino:** Um `shaku` e três `sun` por um `shaku`.
-
-**Moderador:** E no ano passado?
-
-**Sra. Ino:** Foi de um `shaku` e dois `sun` por um `shaku`.
-
-**Moderador:** Então, este ano a senhora aumentou o espaçamento. Com base na sua experiência prática, qual foi a sua impressão sobre o resultado dessa mudança?
-
-**Sra. Ino:** No primeiro ano, plantei com um espaçamento de um `shaku` por oito `sun`, e notei uma grande diferença entre as espigas das bordas e as do centro. As do centro eram ralas, enquanto as das bordas eram densas. Refleti sobre isso e decidi experimentar um plantio mais espaçado no terceiro ano, imaginando que um espaço maior daria às plantas ampla margem para o perfilhamento. Em 1952, resolvi aumentar ainda mais o espaçamento e coloquei o plano em prática.
-
-**Moderador:** E essa abordagem produziu melhores resultados, correto?
-
-**Sra. Ino:** Sim.
-
-**Sr. Okumura:** Quanto ao mofo, ou fungo, tenho visto uma incidência considerável em outras lavouras. Ao observar seus campos, pareceu-me haver um pouco, mas a senhora não desinfeta as sementes, não é?
-
-**Sra. Ino:** Não, não realizo desinfecção.
-
-**Moderador:** O mofo surge devido ao veneno residual dos adubos.
-
-**Sra. Ino:** Aparentemente, este ano a incidência foi bem menor que no ano passado.
-
-**Moderador:** Ela diminuirá a cada ano. A desinfecção com produtos químicos, por sua vez, atrai pragas.
-
-**Sr. Okumura:** E se a aplicação for feita apenas nas folhas e sementes, sem atingir o solo?
-
-**Moderador:** O Johrei também pode cumprir o papel de desinfecção. Seu poder é absoluto e infinito, portanto não há com o que se preocupar. Há um relato a esse respeito: um agricultor, aflito com uma infestação severa, foi à igreja e consultou o ministro, que o orientou a ministrar Johrei. O agricultor assim o fez em sua plantação, e o número de insetos diminuiu drasticamente. Ouvimos muitos relatos semelhantes. A desinfecção de hortaliças e campos agrícolas é absolutamente inadmissível, mesmo que apenas nas folhas.
-
-**Sr. Ota:** A senhora ministra Johrei nos canteiros de mudas?
-
-**Sra. Ino:** Sim, ministro Johrei.
-
-**Sr. Ota:** Com que frequência?
-
-**Sra. Ino:** Como é meu caminho habitual, ministro um pouco a cada vez que passo, de pé na borda do canteiro. As mudas ficam amareladas, com uma espécie de ferrugem vermelha. Uma pessoa comum, ao ver, diria que é um absurdo plantar mudas assim. Nós, porém, pela experiência, plantamo-las sem a menor preocupação.
-
-**Sr. Ota:** De quantas sementes a senhora precisa para um `tan`?
-
-**Sra. Ino:** Até então, eu usava um pouco a mais, por receio de que não germinassem. Mas com aquela quantidade, usei cerca de dois `shō` e cinco `gō` de sementes para uma área de um `tan` e cinco `se`.
-
-**Sr. Adachi:** Qual é a área do seu canteiro?
-
-**Sra. Ino:** Cinco `se` por `tan`.
-
-**Sr. Araki:** Gostaria de perguntar à Sra. Ino: a água no canteiro é mantida constantemente?
-
-**Sra. Ino:** Sim, o canteiro está sempre com água.
-
-**Sr. Okumura:** Peço perdão por retroceder um pouco no assunto. Em minha propriedade, não tenho um viveiro de mudas. Até hoje, tenho utilizado mudas de sequeiro ou alugado canteiros. O cultivo de mudas de sequeiro contraria os princípios da Agricultura Natural?
-
-**Moderador:** Sim, não é recomendável. Nesses casos, como não há alternativa, creio que o melhor seria optar pela semeadura direta. Isso também elimina uma etapa do trabalho de transplante.
-
-**Sr. Okumura:** Então, a semeadura direta seria feita na mesma época em que se semeia nos canteiros de mudas?
-
-**Moderador:** Exatamente.
-
-**Sr. Nakajima:** A senhora semeia cedo nos canteiros?
-
-**Sra. Ino:** Semeio cerca de dez dias antes do que é comum na região.
-
-**Participante A:** Então o plantio também é antecipado, imagino.
-
-**Sra. Ino:** Nas áreas onde não cultivo trigo, plantei em 10 de junho. Nas áreas de safra dupla, com trigo, o plantio foi realizado em 21 de junho. O desenvolvimento inicial é muito diferente, mas o florescimento das espigas ocorreu todo ao mesmo tempo.
-
-**Sr. Nakajima:** Houve diferença no rendimento da colheita entre o plantio antecipado e o tardio?
-
-**Sra. Ino:** Sim, a diferença no resultado é muito grande.
-
-**Sr. Nakajima:** A diferença se mantém até o final?
-
-**Sra. Ino:** Sim, mantém-se.
-
-### O composto natural serve apenas para amaciar e aquecer o solo
-
-**Sr. Onoshima:** Gostaria de saber que quantidade de matéria orgânica foi incorporada a essa lavoura até hoje.
-
-**Sra. Ino:** Nos três anos anteriores, incorporei toda a palha colhida. Este ano, contudo, achei melhor não adicionar tanto e usei cerca de metade da palha, cortando-a em pedaços pequenos.
-
-**Sr. Onoshima:** E qual a razão para essa decisão?
-
-**Moderador:** A finalidade é aquecer o solo e promover um bom desenvolvimento das raízes. Temos aqui amostras de plantas cultivadas com e sem adubo. A planta adubada tem um sistema radicular fraco, por isso tomba facilmente. A planta da Agricultura Natural, por sua vez, cresce com a força do próprio solo, e suas raízes são longas. É por essa razão que incorporamos a palha. O objetivo não é fertilizar, mas aquecer e amaciar o solo. A causa de um rendimento insatisfatório reside nos resquícios de adubos aplicados no passado que ainda permanecem no solo; em outras palavras, o solo está ligeiramente ácido. Conforme se cultiva por muitos anos sem adubos, essa acidez é gradualmente removida, e a colheita aumenta progressivamente. Portanto, embora as culturas nos campos e hortas sejam produzidas pelo esforço humano, sua base fundamental é a graça do Céu e da Terra. Elas não crescem pelo poder dos fertilizantes. Logo, ao purificar o solo, ele manifesta sua força e produz em abundância. Assim, pode-se preparar composto, mas é preciso ter em mente o princípio da pureza. Não se deve utilizar água do banho ou dejetos humanos. No ano passado, durante minha visita, observei um local onde uma vaca havia urinado. As plantas cresceram cerca de um `shaku` a mais, mas apresentavam muitas espigas secas. Rimos ao ver como a urina de uma única vaca deixara uma marca tão evidente, mas isso me fez compreender claramente que as colheitas nos são concedidas pelo poder de Deus. É por macular a terra que as colheitas fracassam. Se mantiverem este ponto como premissa, creio que a compreensão se tornará simples.
-
-**Sr. Kojima:** Na propriedade da Sra. Ino, o cultivo de arroz é de safra única ou dupla?
-
-**Sra. Ino:** Pratico ambos, safra única e safra dupla.
-
-**Moderador:** Qual deles apresenta melhores resultados?
-
-**Sra. Ino:** A safra única é muito superior.
-
-**Moderador:** Em sua estimativa, Sra. Ino, qual é a diferença em fardos entre a safra única e a dupla?
-
-**Sra. Ino:** Creio que a diferença seja de cerca de três fardos.
-
-**Moderador:** Então, de modo geral, a safra dupla rende cerca de quinze fardos, e a safra única, dezoito. Em última análise, a safra dupla representa um prejuízo, não?
-
-**Sra. Ino:** É um trabalho penoso e que não compensa (risos). A diferença entre plantar ou não o trigo é realmente enorme. É muito mais tranquilo.
-
-**Moderador:** Na época da colheita do arroz, é preciso semear o trigo, o que leva a uma colheita apressada. Na Agricultura Natural, com a safra única, não há essa pressa, e os feixes de arroz podem permanecer no campo até a maturação completa. Nesses últimos dias, os grãos crescem e enchem consideravelmente, o que representa um grande ganho. A sua forma arredondada era totalmente diferente.
-
-**Sr. Ota:** A respeito da palha, ela é incorporada ao solo logo após a colheita? Em que estado de decomposição ela é adicionada?
-
-**Sra. Ino:** Eu separo a quantidade que vou usar, empilho e depois incorporo. Se ficar muito úmida e pegajosa, torna-se difícil de manusear, então deixo-a secar um pouco e a incorporo quando está meio decomposta.
-
-**Sr. Ota:** E em que época isso é feito?
-
-**Sra. Ino:** Eu fiz por volta de março. Nos momentos de menor atividade, como após uma chuva, quando não é possível realizar outros trabalhos, vou ao campo, corto a palha e a amontoo.
-
-**Sr. Ota:** A palha um pouco decomposta também é mais fácil de cortar, não é?
-
-**Sra. Ino:** Quando está fresca, ela escorrega e é difícil de cortar.
-
-**Sr. Okumura:** Até esse momento, o campo permanece sem ser arado?
-
-**Sra. Ino:** Deixo as ervas que crescem naturalmente se desenvolverem.
-
-**Sr. Okumura:** Após a colheita do arroz, os restolhos são deixados intactos, sem serem revolvidos?
-
-**Sra. Ino:** Sim, deixo como estão.
-
-**Sr. Okumura:** E então, por volta de março, a senhora ara tudo?
-
-**Sr. Adachi:** Qual é a profundidade da água durante o transplante?
-
-**Sra. Ino:** Como tenho controle sobre a água, mantenho-a apenas no nível suficiente para cobrir o solo.
-
-**Moderador:** O arroz da Agricultura Natural não apodrece, mesmo que fique submerso.
-
-**Sra. Ino:** A lavoura que os senhores viram hoje ficou submersa por três ou quatro dias, parecia um mar, mas nada sofreu.
-
-### O segredo do sucesso não é outro senão a prática obediente
-
-**Sr. Onoshima:** O que me enche de esperança é o seguinte: mesmo homens que se dedicam à pesquisa com alma e coração têm grande dificuldade em ultrapassar a marca dos quinze fardos. O fato de uma mulher ter alcançado tal resultado me parece conter algo de misterioso.
-
-**Moderador:** Pois bem, revelarei esse segredo. É simples: basta entregar tudo a Deus. A Sra. Ino não é uma agricultora de profissão, mas uma leiga. Por não ter conhecimento prévio sobre agricultura, ela apenas seguiu obedientemente o que Meishu-Sama orientou. Nós apenas transmitimos as palavras de Meishu-Sama, e ela as pratica com obediência. Há agricultores experientes que estão migrando totalmente para a Agricultura Natural, mas muitos ainda acreditam que o método herdado de seus antepassados é o correto. Essa concepção está arraigada em suas mentes. Com isso, pensam: "Nós sabemos um pouco mais sobre agricultura do que Meishu-Sama ou os ministros", e então tentam fazer ajustes aqui e ali, em vez de praticar com obediência as orientações de Meishu-Sama. Por essa razão, acabam se lamentando mais tarde: "Ah, se eu soubesse...". Se, em vez de se julgarem muito espertos, eles se dispusessem a agir com simplicidade, obteriam resultados tão esplêndidos quanto os da Sra. Ino. Não temos apreço por pesquisadores que insistem em seus próprios métodos. Deve-se seguir os Ensinamentos como são.
-
-**Sr. Okumura:** Em minha região, dizem que é preciso congelar o solo, senão a colheita é fraca. Se o campo for arado em março, não creio que o solo congele o suficiente.
-
-**Moderador:** Mesmo na planície de Nobi, as áreas mais frias congelam, mas as mais quentes não. Não é o caso de não se colher arroz onde o solo não congela. Há quatro ou cinco dias, saiu uma matéria no jornal Chubu Nippon que dizia: "Na fria província de Gifu, há locais com quebra de safra de 30 a 50%. Houve danos por pragas". A causa disso são os adubos e os agrotóxicos, que geram as pragas naturalmente. Portanto, se eliminarmos completamente os adubos, os danos por pragas desaparecerão ano após ano, e não haverá necessidade específica de congelar o solo. Mudando de assunto, no cultivo de trigo, é preciso compactar o solo quando ele congela. O congelamento faz com que as raízes subam à superfície, e por isso a compactação é necessária. Onde o solo não congela, não há necessidade de compactá-lo. No cultivo de arroz, não há nenhuma necessidade específica de congelar o solo. Basta proceder da maneira usual. É melhor não despender trabalho desnecessário.
-
-**Sr. Ito:** Qual é a profundidade média do solo arável?
-
-**Sra. Ino:** Em média, não chega a um `shaku`.
-
-**Participante A:** Creio que seja de aproximadamente um `shaku` e dois `sun`. Como ela ara cerca de metade disso, não seria em torno de seis `sun`?
-
-**Sra. Ino:** Na minha propriedade, eu aro duas vezes. A maioria das pessoas ara uma vez e meia, mas eu faço duas passadas.
-
-**Sr. Miyata:** Ao incorporar toda a palha colhida de um `tan`, não creio que ela se misture bem ao solo de uma só vez.
-
-**Sra. Ino:** Isso não acontece. Se a palha for cortada em pedaços pequenos, parece até que é pouca. Cortando-a em fragmentos de cerca de cinco `bu` (originalmente seria um ou dois `bu`), ao cavar, não se percebe a diferença entre as áreas onde a palha foi incorporada e onde não foi.
-
-**Moderador:** Como os fardos também são necessários, seria prudente reservar a quantidade de palha de que precisa.
-
-**Sr. Miyata:** A incorporação de palha pode corrigir o problema de uma lavoura de água fria? Ou uma lavoura fria permanece sempre fria? A água fria se infiltra...
-
-**Moderador:** A água se infiltra a partir de um ponto específico ou de toda a área da lavoura?
-
-**Sr. Miyata:** De um ponto específico.
-
-**Moderador:** Deve-se criar um canal a partir do ponto onde a água entra na lavoura. A água que brota da fonte é muito fria. Construa um canal que a faça dar uma volta completa ao redor do campo. É preciso evitar que ela entre diretamente na área de cultivo. Dessa forma, a água se aquecerá e a colheita será boa.
-
-**Sra. Ino:** A lavoura foi arada apenas duas vezes, e usei a capinadeira umas duas vezes também. Primeiro, revolvo o solo com uma ferramenta chamada `sanpō-bitchū`, espero um tempo até que o mato se decomponha, passo a capinadeira e só então faço a primeira capina manual.
-
-### Sobre a semeadura direta
-
-**Sr. Miyata:** No caso da semeadura direta em leirões, o procedimento é semelhante ao do arroz de sequeiro, ou se semeia com o espaçamento de um `shaku` e dois ou três `sun`, como no campo atual?
-
-**Moderador:** Em áreas irrigadas, creio que seja melhor preparar o solo e manter uma fina lâmina de água, ou, mesmo em solo seco, nivelar o terreno. Há locais onde se fazem pequenas perfurações com uma vareta de madeira e se depositam uma ou duas sementes, mas o mais comum é uma semente por cova. Em Ogaki, estão praticando esse método em áreas alagadas. Lá, eles fazem leirões e semeiam na lateral, com resultados excelentes. Fazem um pequeno furo com algo semelhante a um atiçador de brasas, depositam uma semente e a cobrem com uma fina camada de terra. Esse método tem se mostrado mais eficiente. Semear a lanço, como sugeriu o Sr. Ito, parece-me um grande desperdício.
-
-**Sr. Ito:** E exige muito trabalho.
-
-**Moderador:** O objetivo principal é reduzir o trabalho. A bênção divina não seria completa se não pudéssemos trabalhar menos e colher mais, não é mesmo? (Risos).
-
-**Sr. Miyata:** No caso de se aprofundar a camada arável, é melhor fazê-lo em março, ao arar o campo, ou logo após a colheita do arroz?
-
-**Moderador:** Pode ser feito em qualquer época. Como é uma tarefa que só pode ser realizada quando há tempo disponível, o ideal é executá-la quando surgir uma oportunidade.
-
-**Sr. Miyata:** Na semeadura direta em leirões, qual deve ser a largura deles?
-
-**Sr. Ito:** Um `shaku`. Como foi dito anteriormente, um espaçamento maior favorece o perfilhamento.
-
-**Moderador:** Em geral, um `shaku` e três `sun` ou um `shaku` seria o ideal. De qualquer forma, é importante garantir que a luz do sol chegue abundantemente à base das plantas.
-
-**Sr. Okumura:** E qual deve ser a altura dos leirões?
-
-**Sr. Ito:** É o mesmo que no método comum, em que se cava um sulco e se cobre a semente com a terra.
-
-### O veneno das sementes tem grande influência
-
-**Moderador:** Uma vez que comecem a praticar o Cultivo Natural, peço que continuem utilizando as sementes da própria colheita. Se as sementes forem trocadas, o solo precisará se adaptar para nutri-las, o que desencadeará um processo de purificação de um ano, resultando em quebra de safra. Ao manter as mesmas sementes, a quebra de safra é evitada e a produção melhora continuamente. Seja qual for a semente, é melhor continuar com a que foi usada no início. Os agricultores mais dedicados têm um forte espírito de pesquisa e colecionam diversas variedades de sementes, mas muitos já fracassaram por isso. O princípio é não trocar as sementes. E também praticar o cultivo contínuo.
-
-**Sr. Onoshima:** A lavoura que visitamos hoje é cultivada continuamente ano após ano?
-
-**Moderador:** Sim. Qual é a variedade da semente?
-
-**Sra. Ino:** Shin Tokai Asahi.
-
-**Moderador:** Quanto mais dedicado é o agricultor, maior é a quebra de safra. Isso ocorre porque os agricultores mais dedicados usam mais adubos. Nos arredores das grandes cidades, a adubação é intensa. E entre eles, os mais zelosos usam ainda mais fertilizantes, por isso a quebra de safra no primeiro ano é inevitável. Nas regiões montanhosas, o transporte de adubos é difícil, então eles não são usados em grande quantidade.
-
-**Sr. Nakajima:** Nesses casos, existe alguma forma de, ao menos, amenizar a quebra de safra?
-
-**Moderador:** Não, não existe.
-
-**Sr. Nakajima:** É preciso passar pela purificação do adubo que foi aplicado?
-
-**Moderador:** Exato. Assim como, ao tomar um remédio, o veneno contido nele deve ser purificado através de uma doença, o mesmo ocorre com o solo. É claro que a bênção recebida varia de acordo com o grau de fé.
-
-**Sr. Okumura:** Mesmo que eu decida praticar a Agricultura Natural em minha propriedade, se as lavouras a montante, de onde flui a água, utilizarem grandes quantidades de sulfato de amônio e superfosfato, essas substâncias solúveis se dissolverão na água e chegarão ao meu campo. Numa situação como essa, se minha convicção na Agricultura Natural não for abalada, os danos não serão tão significativos?
-
-**Moderador:** Haverá algum dano, mas ele não será determinante a ponto de comprometer o resultado. Seria maravilhoso se todo o país adotasse o Cultivo Natural, não é mesmo? Se os homens de hoje vivessem para ver isso, ficariam estarrecidos.
-
-**Sra. Ino:** Gostaria de expor meu pensamento sobre esse ponto. A segunda lavoura que visitamos, que está no segundo ano de Agricultura Natural, foi plantada com as mesmas sementes da lavoura de quatro anos. O agricultor anterior daquela área era uma pessoa muito dedicada e usava uma quantidade considerável de adubos, então eu já esperava que houvesse um alto teor de veneno no solo. Mesmo assim, levei as sementes da lavoura de quatro anos e as plantei ali. Por essa razão, a produção aumentou tanto em apenas dois anos. Isso me leva a crer que, além do veneno do solo, o veneno contido nas próprias sementes também exerce uma influência muito grande.
-
-**Moderador:** Com toda certeza. O veneno das sementes é considerável. Podemos entender isso fazendo uma analogia com os seres humanos: um filho nascido na juventude é mais forte do que um filho nascido na velhice. Isso ocorre porque, com o passar dos anos, as pessoas tomam muitos remédios, e o veneno desses medicamentos nos pais é herdado pelos filhos. Por isso, os filhos da velhice são mais frágeis. O mesmo se aplica às sementes: se não houver veneno nelas, a purificação necessária será menor. Tenho dito isso em vários lugares: ao iniciar na Agricultura Natural, peçam que lhes doem sementes já purificadas do veneno dos adubos.
-
-Acredito que, com o que foi exposto, a convicção daqueles que ainda não praticam a Agricultura Natural tenha se fortalecido. O que os senhores acham? Surgiu o desejo de experimentar, mesmo que em um ou dois `tan`? Mesmo sem fé, se seguirem as orientações de Meishu-Sama, obterão resultados esplêndidos. Trata-se de um método absolutamente científico, portanto, o aumento da colheita é possível mesmo sem a fé. O próprio Meishu-Sama afirma isso, então gostaria muito que os senhores o praticassem. Especialmente agora, com a colheita do arroz se aproximando, muitos planejam semear o trigo em seguida. Se tiverem o desejo de mudar para o Cultivo Natural, peço que não semeiem o trigo. Com a safra única, creio que não haverá quebra de safra desde o primeiro ano. A economia rural é fundamental, pois ela governa a nação. A maior parte do que os senhores entregam ao governo não se destina a cobrir os custos com fertilizantes?
-
-**Sr. Onoshima:** Não a maior parte, mas na situação atual, precisamos reservar dois terços da receita para os custos com adubos.
-
-### Uma grande revolução na economia rural
-
-**Moderador:** Se o custo com adubos for completamente eliminado, o impacto na economia rural será tremendo. Será uma grande revolução. Gostaria que cada um dos senhores se tornasse um bravo guerreiro desta revolução sem sangue e a divulgasse amplamente. Não é apenas para o bem dos senhores, mas para toda a humanidade. O tempo avançou bastante, então gostaria de encerrar por aqui, mas o ensinamento da Sekaikyuseikyou preconiza o cultivo contínuo. Ou seja, a terra se familiariza com a cultura, e a produção melhora. Se o trigo for cultivado no campo de sequeiro e o arroz na várzea, com uma divisão clara, os resultados serão excelentes. O arroz se torna o masculino, e o trigo, o feminino. Ao alternar o cultivo de um e de outro no mesmo local, a terra precisa constantemente mudar sua força, o que a impede de manifestar plenamente o potencial do arroz. Por isso, é imprescindível adotar a safra única e deixar a terra repousar nos outros seis meses. Assim como o ser humano trabalha de dia e dorme à noite, vivendo metade do tempo em repouso, também os campos e as lavouras se beneficiam do descanso. Mesmo cultivando dessa forma, a economia rural de forma alguma se enfraquecerá. Pelo contrário, a colheita se tornará muito mais abundante, e a economia rural prosperará daqui para frente. Este é o ensinamento da Sekaikyuseikyou, e peço que o pratiquem com obediência e com essa mentalidade. Agradeço a todos pela longa participação. Dou por encerrada a mesa-redonda de hoje sobre a Agricultura Natural.
-
-A título de referência, informamos que a cifra de dezoito fardos é uma estimativa para uma área de nove `se` em seu quarto ano de safra única. A razão para a estimativa é que, da área total de dois `tan` e seis `se`, o restante se dividia em um `tan` e um `se` no quarto ano de safra dupla, cinco `se` no segundo ano de safra dupla, e um `se` utilizado como canteiro, cujas produções foram todas misturadas. Por essa razão, não foi possível apresentar um número exato. O total geral foi de treze `koku` e sete `shō`, o que resulta em uma média de doze fardos e um `shō` por `tan`. No próximo ano, pretendemos realizar um cálculo preciso.
-
----
-
-# Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
-
-**Categoria:** sasshi | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** -
-
-## Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
-
-**Pergunta: Que relação existe entre o fato de o Grande Mestre ter se manifestado outrora como o general Yoshitsune e a sua identidade atual como um amante da paz?**
-
-Isso se deve ao fato de que Kannon (観音), em Sua função como corpo de manifestação, pode assumir qualquer forma. Batou Kannon, por exemplo, é uma deidade guerreira; por isso, sua face é aterradora, com a boca rasgada até as orelhas. No caso de Yoshitsune, havia uma razão para que ele agisse daquela maneira naquela época específica.
-
-**Pergunta: Sinto-me constrangido em perguntar, mas podemos acreditar que Vossa Reverência continuará a nos conceder as sagradas caligrafias da “Luz Divina” até o dia da conclusão do Paraíso Terrestre? Indago respeitosamente, pois circulam diversos boatos.**
-
-Indubitavelmente. Continuarei a inscrevê-las enquanto eu viver. Podem existir vários boatos, mas, em tais ocasiões, consultem-me diretamente. A verdade será esclarecida de imediato.
-
-**Pergunta: Em uma residência com duas alcovas, seria apropriado entronizar, separadamente, as imagens de Daikomyo Nyorai e Komyo Nyorai?**
-
-Não há nenhuma necessidade disso. Basta que entronizem uma das duas na alcova principal. Venerar ambas as imagens seria, de fato, um equívoco.
-
-**Pergunta: Um fiel devoto, de posses modestas, construiu uma pequena casa de seis tatames com a intenção de ampliá-la gradualmente. Contudo, ele deseja preparar uma alcova esplêndida para nela entronizar a imagem de Daikomyo Nyorai. Seria apropriado?**
-
-É aceitável. Todavia, a desproporção deve ser evitada. O ideal é que haja harmonia, ainda que com um toque de esplendor. Um pergaminho grande em uma alcova pequena não é adequado. É preciso respeitar o que chamo de “Princípio da Proporcionalidade”; tudo deve estar em devida correspondência.
-
-**Pergunta: Durante os cursos de formação, por falta de espaço na sede, alugamos pousadas e outros locais. Nesses casos, temos entronizado temporariamente a imagem de Daikomyo Nyorai na alcova da pousada para realizar o curso. Isso é permissível?**
-
-Não, isso não é correto. Trata-se de um procedimento equivocado. Se for necessário expor um pergaminho, em vez da imagem de Komyo Nyorai, seria mais apropriado utilizar uma caligrafia como “Luz” ou “Verdade, Bem e Belo”.
-
-**Pergunta: Isso se aplica apenas ao caso das pousadas?**
-
-Não, não se restringe a pousadas. Não é correto mover o Objeto de Veneração de seu local. Uma vez que o Objeto Sagrado é entronizado em um lugar determinado, não deve ser movido levianamente.
-
-**Pergunta: E no caso das imagens (fotografias)?**
-
-O mesmo se aplica às imagens. Também não devem ser movidas.
-
-**Pergunta: Seria apropriado emprestar temporariamente o meu Objeto de Veneração para ser entronizado em uma filial da Igreja?**
-
-Nesse caso, não há problema, desde que ele permaneça fixo no local para ser venerado. Da mesma forma, é permissível emprestar o Objeto de Veneração a outra pessoa, provisoriamente, até que ela receba o seu próprio.
-
-**Pergunta: Há pessoas que recebem o Objeto de Veneração às escondidas da família, pois seus familiares não compreendem o seu significado. Como proceder?**
-
-Ah, isso não é correto. A pessoa deve recebê-lo somente após a família atingir um certo grau de compreensão. Não se deve pensar que a compreensão virá mais rápido simplesmente por se receber o Objeto de Veneração antecipadamente. Pelo contrário, se for para recebê-lo e mantê-lo guardado, é preferível que ele seja destinado a alguém que possa entronizá-lo imediatamente.
-
-**Pergunta: E quanto aos quadros caligráficos?**
-
-Em princípio, o mesmo se aplica a eles, embora a questão não seja tão rigorosa quanto com o Objeto de Veneração. Contudo, se a pessoa o recebe antecipadamente por conveniência do emoldurador ou por questões financeiras, não há problema. Igualmente, se alguém o recebe pensando: “O Grande Mestre ficará muito ocupado e talvez não seja mais possível receber quadros no futuro, então é melhor garantir o meu agora”, isso é aceitável.
-
-**Pergunta: Seria adequado receber a formação religiosa em segredo?**
-
-Bem, deve-se agir com discernimento, conforme as circunstâncias. O importante é evitar que isso se torne motivo de conflito familiar.
-
-**Pergunta: É permissível presentear outra pessoa com um biombo caligráfico?**
-
-Presentear? Enviando pelo correio?
-
-**Pergunta: Não, refiro-me a ofertá-lo a alguém...**
-
-Não há impedimento. Contudo, não se deve impô-lo a ninguém. Não seria correto se a pessoa que o recebe pensasse: “Que incômodo, mas, já que ele se deu ao trabalho de trazer, vou aceitar”.
-
-**Pergunta: Ao ofertá-lo, os antepassados não sofrerão?**
-
-De forma alguma.
-
-**Pergunta: Quando um fiel se afasta do caminho da fé por algum motivo, ou quando falece e sua família não possui crença, qual deve ser o destino das fotografias, do Objeto de Veneração, dos quadros caligráficos e outros itens sagrados?**
-
-Nesses casos, a decisão deve ser deixada ao arbítrio da própria pessoa ou de seus familiares.
-
-**Pergunta: Seria apropriado que outra pessoa os recebesse?**
-
-Sim, seria excelente.
-
-**Pergunta: Fomos instruídos de que, no caso de falecimento de um fiel, o amuleto sagrado deve ser cremado junto ao corpo. E em casos de sepultamento?**
-
-Isso também deve seguir o desejo da família. Contudo, no caso de sepultamento, seria preferível remover o amuleto em vez de enterrá-lo junto ao corpo.
-
-**Pergunta: Poderíamos emoldurá-lo em um quadro?**
-
-Sim, seria uma ótima destinação.
-
-**Pergunta: Normalmente, veneramos apenas a deidade Daikoku. Deveríamos também venerar Ebisu?**
-
-Com certeza. O correto é venerar ambos, pois eles representam um casal. Daikoku empunha um martelo de madeira, que simboliza a Sua função de gerar os tesouros da terra. Ebisu, por sua vez, representa as dádivas do mar. Portanto, o correto é venerar os dois. Em certas circunstâncias, apenas Daikoku pode ser suficiente, mas venerar somente Ebisu não é apropriado, pois a concessão de tesouros, ouro e prata é atribuição de Daikoku. Por isso, até mesmo o dinheiro em espécie tem mais afinidade com ele.
-
-**Pergunta: Ao venerar ambos, qual deve ser a sua posição?**
-
-Olhando de frente, Daikoku fica à direita e Ebisu, à esquerda. O lado esquerdo (à nossa direita, de quem olha) é a posição superior. O mesmo princípio se aplica às fotografias de casamento. O modo como são tiradas hoje em dia, geralmente, está invertido. Segue-se o costume ocidental, e como no Ocidente a mulher ocupa a posição principal, está correto para eles. No Japão, porém, o homem é o principal, logo, a posição deveria ser a oposta. Essa é a forma correta, a rigor. Os seres humanos também usam predominantemente a mão direita, mas isso ocorre porque a esquerda é superior, e a direita atua como trabalhadora. O "hi" de "hidari" (esquerda) representa o espírito, enquanto o "mi" de "migi" (direita) representa o corpo.
-
-**Pergunta: Se venerarmos Daikoku e Ebisu, e tivermos Kannon ao centro, teremos que deslocar a imagem de Kannon?**
-
-De modo algum. Kannon permanece no centro. Ademais, nesse caso também é preciso que haja proporcionalidade. Seria inadequado ter uma alcova pequena com imagens de Daikoku e Ebisu desproporcionalmente grandes.
-
-**Pergunta: Foi-nos ensinado que “quando a mente está dispersa ou não se consegue dormir, é bom praticar a pacificação da alma”. Poderia nos explicar o que é essa prática?**
-
-A mente humana está em constante movimento, raramente se fixa em um único ponto. Ela divaga por múltiplos pensamentos. Nesse estado, a mente está dispersa. Ao concentrá-la em um único ponto, ela se acalma. Por isso, quando não se consegue dormir, ao realizar essa prática, os espíritos que estavam dispersos retornam, trazendo tranquilidade e permitindo o sono.
-
-**Pergunta: Qual é o método para realizá-la?**
-
-Entrelaçam-se os dedos das mãos desta forma: a mão esquerda por baixo, começando pelo dedo mínimo. Os polegares se cruzam com o direito por baixo e o esquerdo por cima. Ao sentar-se, o polegar do pé esquerdo fica por baixo do direito. Praticar isso em momentos de irritação traz calma. Eu mesmo recorro a essa prática quando há algo que, por mais que eu tente, não consigo compreender diante de Deus. Ao fazê-lo, a Vontade Divina se torna muito clara. Aliás, Deus é surpreendentemente sucinto, nunca é prolixo. Ele apenas aponta o ponto crucial, mas, com isso, a compreensão se torna perfeita. Recentemente, diante de um problema complicado, consultei a Deus e Ele apenas riu: “Ah, ah, ah...”. Com isso, eu compreendi. O riso Dele significava que não havia motivo para preocupação. Antigamente, eu praticava essa pacificação da alma com frequência. (Vide “Registro das Sagradas Palavras”, nº 14)
-
-**Pergunta: Algumas pessoas realizam essa prática simultaneamente ao Johrei. Isso é correto?**
-
-Sim, existem. Contudo, essa era uma prática da Oomoto e, portanto, pertence ao Xintoísmo. As pessoas que agem assim são, geralmente, egressas da Oomoto. (Risos) Logo, não se deve fazer isso, pois gera confusão.
-
-**Pergunta: Estrangeiros como Fenollosa, Lafcadio Hearn, Bruno Taut e Dr. Warner, que amaram e se devotaram profundamente à cultura e às artes japonesas, parecem ter alguma relação espiritual especial com o Japão. Qual a sua opinião?**
-
-Sim, na maioria das vezes, a relação é espiritual. Há muitos casos de espíritos japoneses que nasceram como americanos e vice-versa. Por isso, tais pessoas pertencem à linhagem espiritual japonesa. Há, contudo, outra razão. À medida que o espírito evolui artisticamente, ele alcança um nível de compreensão que se harmoniza com outras culturas. Essas pessoas sentem uma grande admiração pela cultura japonesa, que é, de fato, de um nível elevadíssimo — provavelmente o mais alto do mundo. Sendo assim, os estrangeiros que não compreendem a cultura japonesa é porque ainda se encontram em um estágio cultural inferior. Conforme evoluem, desenvolvem a capacidade de entender e exclamar: “De fato, isto é maravilhoso”. São essas as pessoas de grande valor.
-
-Fenollosa foi quem reconheceu o valor da pintura japonesa ao ver, em uma exposição, uma obra de Kano Hogai e declarar: “Isto é esplêndido”. Imediatamente, ele foi à casa de Hogai e insistiu: “Gostei de suas pinturas, venda-mas todas para mim”. Adquiriu inúmeras obras, levou-as para os Estados Unidos e organizou uma exposição, o que tornou o nome de Hogai mundialmente famoso da noite para o dia. Há uma história cômica a esse respeito. Haveria uma exposição na França, e o Japão deveria enviar obras de sua pintura. Hogai pintou temas fantásticos, como dragões e o demônio Shoki, e os submeteu. No entanto, suas obras foram rejeitadas sob o pretexto de que tais seres não existiam na realidade. As autoridades japonesas da época careciam de tal nível de compreensão. Contudo, como Fenollosa aclamou essas obras como magníficas, Hogai tornou-se célebre. Mais tarde, ele se tornou diretor da Escola de Belas-Artes e pintou a famosa “Hibo Kannon” (Mãe Compassiva), que é uma verdadeira obra-prima. Os japoneses daquela época, em suma, não possuíam a devida elevação artística. Embora o passado fosse superior ao presente, a partir da Restauração Meiji, o mundo passou por um período de caos, durante o qual o conhecimento ocidental foi introduzido, e a cultura japonesa original começou a ser desprezada.
-
-Lafcadio Hearn, por sua vez, foi quem descobriu a beleza do Japão através da literatura.
-
-Eu também sou um apreciador das artes. A excelência da arte japonesa se estende do período Higashiyama ao Genroku, com um destaque especial para o intervalo entre os períodos Momoyama e Genroku. Esses duzentos anos foram verdadeiramente notáveis. As épocas posteriores não produziram nada de comparável. Foi nesse intervalo que a arte atingiu um patamar sublime. Ela possui uma elevação extraordinária, um aroma, por assim dizer. A arte de hoje carece dessa elevação; é rasteira. Quando se tem a mente elevada, a arte moderna parece demasiado baixa para ser apreciada. Recentemente, os americanos parecem ter alcançado um maior refinamento artístico. Há alguns que compreendem a arte japonesa a um ponto que nos surpreende. Os “Trinta e Seis Poetas Imortais” de Nobuzane (Nota) são famosos. Seria de se esperar que apenas japoneses compreendessem pinturas de poetas em trajes de corte, mas, ultimamente, os americanos as compram por qualquer preço. Fiquei atônito ao saber disso. Há também franceses que entendem de utensílios para a cerimônia do chá. Eu mesmo só comecei a compreender a beleza desses utensílios recentemente. Pensava: “Onde está a arte nessas peças de aparência rústica, que chamam de ‘wabi’?”. E, no entanto, há franceses que as compreendem...
-
-Contudo, chegará o tempo em que a arte japonesa será compreendida mundialmente. E é nisso que estou trabalhando agora. Elevar o bom gosto das pessoas é, mesmo do ponto de vista religioso, um ato de grande nobreza.
-
-(Nota: Fujiwara no Nobuzane — Pintor e poeta do período Kamakura. Meio-irmão de Fujiwara no Teika. Era mestre na arte do “nise-e”, retratos realistas no estilo Yamato-e.)
-
-**Pergunta: É comum que artistas não possuam um caráter nobre. Qual a razão disso?**
-
-É a mais pura verdade; eu também penso assim. Contudo, ao refletir profundamente, percebemos que é algo inevitável. Recentemente, conversei com uma pessoa sobre como a arte do passado é muito superior. Visitei a exposição “Nitten” e praticamente não havia uma pintura que me fizesse parar para observá-la. Passei por elas apenas lançando olhares fugazes. A principal razão para isso é o problema do sustento, que impede os artistas de conceberem e pintarem suas obras como gostariam. A pessoa com quem conversei era um famoso pintor a óleo. Eu lhe disse: “As pinturas a óleo deste ano parecem bem mais sóbrias. Não há quadros com figuras bizarras nem casas que parecem ter desmoronado em um terremoto”. (Risos) Ele respondeu: “É porque não vendem. Todos estão pintando obras sóbrias porque querem vender”. Exatamente por estarem amarrados às necessidades da vida e do comércio, mesmo que sejam pessoas de caráter, não conseguem criar livremente. Se essa questão não for resolvida, a grande arte não nascerá.
-
-**Pergunta: A arte antiga possui uma profundidade que toca a alma, algo que falta na arte contemporânea. Seria isso uma degeneração da própria arte?**
-
-Objetivamente, é uma degeneração, mas não se pode afirmar isso de modo tão categórico. Por mais artista que se seja, não se pode sobreviver sem ter o que comer. Até o final da guerra, era comum que os grandes conglomerados financeiros patrocinassem os artistas, mas hoje isso não é mais possível. Não encontrei nenhuma obra de arte do pós-guerra que me despertasse o desejo de adquiri-la. Como mencionei, até o final da guerra, os artistas tinham bons patronos e podiam criar grandes pinturas. Por exemplo, na Academia de Belas-Artes, Tomitaro Hara concedia dez mil ienes a cada artista — uma soma considerável para a época. E bastava que produzissem uma obra por ano. O banqueiro Seinosuke Imamura patrocinava Shosai Hakusan, cujas obras em laca *maki-e* eram realmente esplêndidas. Hoje, poucas pessoas devem possuir trabalhos dele; provavelmente, sou eu quem tem a maior coleção no Japão. Ele era um verdadeiro mestre. Contudo, por essas razões, é provável que mestres como ele não surjam por um bom tempo.
-
-**Pergunta: E quanto a artistas como o espanhol Goya? Ele parece ter levado uma vida bastante devassa, mas pintou obras excelentes.**
-
-Sim, é verdade. Contudo, entre aqueles de baixo caráter, raramente se encontram obras verdadeiramente boas. Pelo que conheço da arte japonesa, os artistas notáveis também possuíam qualidades admiráveis em seu caráter.
-
-Veja o caso de Ogata Korin. Ele era extremamente competitivo. Há uma história a seu respeito: certa vez, ele foi a um piquenique de observação de flores levando seus bolinhos de arroz embrulhados em uma folha de bambu, sobre a qual havia pintado uma laca dourada. As outras pessoas, que traziam seus bentôs em belas caixas laqueadas, zombaram da simplicidade de seu embrulho. Contudo, quando Korin abriu a folha de bambu, todos ficaram atônitos ao ver o interior em laca dourada. E, para o espanto geral, sem nem mesmo provar os bolinhos, ele atirou o embrulho no rio. As pessoas ficaram duplamente surpresas. A história chegou aos ouvidos das autoridades, e ele foi banido de Quioto como um homem que não conhecia seu lugar. Mudou-se para Edo, onde foi acolhido por um madeireiro em Fukagawa por cerca de quatro anos, período em que produziu grandes obras. Korin podia ser “insolente”, mas, por outro lado, possuía qualidades admiráveis. Suas pinturas transmitem uma sensação de largueza inigualável; não há nelas qualquer traço de mesquinhez. Embora existam casos como esse, os verdadeiros mestres são, invariavelmente, pessoas de caráter. O mesmo se aplica aos artistas performáticos. Aqueles que alcançam o nível de mestre são diferentes. Até mesmo Danjuro, o ator de kabuki, era uma pessoa notável em sua vida privada.
-
-**Pergunta: Às vezes se considera que a conduta é um reflexo do caráter e, outras vezes, o oposto. Qual é a verdade?**
-
-A verdade é que a conduta é um reflexo do caráter. A ideia oposta não é verdadeira. No entanto, há momentos em que se torna necessário agir de modo contrário ao próprio caráter. Por exemplo, houve um juiz que, acreditando que uma pessoa de caráter elevado não deveria recorrer ao mercado negro, acabou enfraquecendo e morrendo. Portanto, em tais situações, deve-se agir com flexibilidade, conforme o tempo e as circunstâncias.
-
-No final, porém, tudo é uma manifestação do caráter. Uma pessoa de caráter baixo não é capaz de realizar atos nobres. Naturalmente, às vezes são necessárias ações pragmáticas para sobreviver no mundo, mas, em uma pessoa de caráter elevado, essa nobreza se manifesta de alguma forma e ela se torna amada pelos outros. Há também aqueles que tentam parecer mais nobres do que são, mas, mesmo que sejam considerados grandes, não passam de figuras insignificantes.
-
-Outro ponto crucial é a distinção entre Mahayana e Hinayana. O caminho Hinayana por si só não é o verdadeiro; é imprescindível seguir o Mahayana. Por exemplo, os discursos sobre agir “pelo bem do Imperador” ou “pelo bem da nação”, tão comuns durante a guerra, pertencem ao Hinayana. O verdadeiro caráter deve ser Mahayana, universalista; caso contrário, é uma farsa. O que é verdadeiro é o desejo pela felicidade de toda a humanidade. Veja o primeiro-ministro Yoshida: durante a guerra, ele foi preso, mas hoje brilha. O mesmo acontece com o ministro de Estado Ueda, que agora é o Procurador-Geral. Na época da guerra, essas pessoas eram tidas como traidoras da nação. Portanto, o caminho verdadeiramente correto é o Mahayana.
-
-**Pergunta: Mesmo quando estamos praticando atos de amor, como a compaixão e a piedade, por vezes surge em nós o sentimento de ódio. Como devemos entender isso?**
-
-Isso é inevitável. O ser humano é capaz tanto de amar quanto de odiar. O problema é quando o sentimento de ódio se transforma em ação, em atividade. Isso acontece por falta de autocontrole.
-
-**Pergunta: Mesmo quando faço algo com o coração cheio de amor, surge em mim o pensamento: “Que incômodo!”.**
-
-Bem, você pensa que é incômodo porque, de fato, é. (Risos) Contudo, se a outra pessoa fosse alguém superior a você, isso não aconteceria, não é mesmo? (Risos) Por exemplo, se o rádio no quarto ao lado está alto, você naturalmente pensa que é um incômodo. Se for um familiar, você pode dizer: “Ei, desligue o rádio”. Isso não chega a ser ódio. Os seres humanos não devem encarar a vida cotidiana de forma excessivamente rígida. O ideal é ter um coração amplo e perdoar a todos mutuamente.
-
-**Pergunta: Ao casar uma filha, algumas pessoas dizem que é melhor para o futuro dela que vá para um lar onde haja uma sogra, para que possa servi-la com devoção filial. Qual a sua opinião?**
-
-É uma questão que não pode ser definida de um modo ou de outro. Depende da personalidade da noiva e da sogra. Se a noiva for dócil e tiver facilidade em se harmonizar com os outros, ter uma sogra pode ser bom. Mas há muitas que ainda não atingiram esse nível. Se uma noiva difícil e uma sogra difícil se juntam, a felicidade familiar não será alcançada. (Risos) Portanto, não há uma resposta definitiva.
-
-**Pergunta: No caso de uma mulher órfã, há quem diga que a devoção filial que ela deveria ter dedicado aos pais deve ser transferida à sogra após o casamento.**
-
-Isso é um disparate. Seria muito melhor que ela dedicasse essa devoção filial aos espíritos de seus pais. E a forma de fazê-lo é praticando o bem para o mundo e para as pessoas, acumulando virtudes. A verdadeira devoção filial é muito maior após a morte dos pais. O que se faz em vida é temporário e de pouco alcance, mas proporcionar a salvação deles no Mundo Espiritual é um ato de imensa devoção filial, pois lhes garante a felicidade eterna. Portanto, dizer que ela deve ser devotada à sogra é uma abordagem materialista, que não reconhece a existência dos espíritos. Não é o caminho verdadeiro.
-
-**Pergunta: Recebemos o ensinamento de que dívidas para fins não produtivos são ruins. No entanto, se for necessário contrair uma dívida e não for possível abandonar o trabalho em questão, como devemos interpretar esse ensinamento?**
-
-A questão reside no ponto de partida. Se o início for bom, tais problemas não ocorrem. É porque o início é falho que as coisas chegam a esse ponto. Se o projeto tivesse bases sólidas desde o começo, isso não aconteceria. As pessoas se envolvem em empreendimentos incertos, e o resultado é este. Na maioria dos casos, o melhor a fazer é parar e recomeçar.
-
-Além disso, a maioria das pessoas só considera a hipótese de sucesso em seus empreendimentos. É preciso, no entanto, considerar não apenas o sucesso, mas também a possibilidade do fracasso. Procedendo assim, a segurança será garantida. Observando as pessoas, vejo que são incrivelmente otimistas. (Risos) De fato, todos só pensam no sucesso. (Risos) Por isso, eu falo sobre ter uma estratégia de três níveis. Por exemplo, ao contrair um empréstimo, a pessoa pensa: “Na data do vencimento, devo receber um dinheiro de outra fonte, então usarei esse valor para pagar”. Geralmente, o dinheiro não chega a tempo, e é aí que surgem os problemas. Portanto, deve-se ter um plano: se o dinheiro da fonte A não chegar, recorra à B; se a B também falhar, recorra à C. Assim se deve proceder, com três níveis de segurança. É por isso que eu sempre consigo pagar minhas contas pontualmente. O problema é que, como pago sempre em dia, as pessoas acabam pensando que tenho dinheiro sobrando. (Risos)
-
-Costumo dizer que não se deve cometer suicídio junto com o seu negócio. Mesmo estando em um empreendimento, é preciso estar preparado para se desvincular dele a qualquer momento, se as coisas não forem bem. É bom ter a flexibilidade de desistir quando necessário. Dessa forma, é possível agir com versatilidade diante de qualquer mudança. Quando a pessoa se ata a um negócio a ponto de afundar com ele, o resultado é fatal, pois ela se torna incapaz de se reerguer.
-
-**Pergunta: Atualmente, minha fábrica está parada. Gostaria de saber qual dos caminhos a seguir seria o mais indicado para o futuro: (1) reparo de motores elétricos para trens de uma companhia ferroviária privada (neste caso, o pagamento demora cerca de três meses); (2) fabricação e venda de transformadores para rádios (neste caso, pretendo trabalhar aos poucos, com meu filho).**
-
-Bem, você deve analisar as duas opções e escolher a que lhe parecer mais vantajosa. O que se deve observar, neste caso, é se as coisas fluem com naturalidade. Para quem está nesta fé, se um trabalho deve ser continuado, tudo correrá de forma harmoniosa e sem empecilhos. Por outro lado, se não for para continuar, Deus intervirá, e surgirão diversos obstáculos, impedindo o progresso. Portanto, se surgirem muitos problemas, é melhor parar.
-
-Se um negócio chegar a um ponto de colapso total, pode-se interpretar como sendo a Vontade de Deus para que você abandone esse trabalho e se dedique à fé. Aconteceu um caso assim recentemente: em uma fazenda, oito bois morreram, um após o outro. Perguntaram-me o significado disso. É um sinal de Deus para que abandonem a agricultura. Nessas situações, Deus age de modo a tornar impossível a continuidade daquele trabalho e, em contrapartida, faz com que a pessoa se ocupe mais com o Johrei. Ele prepara tudo de forma ordenada. Basta seguir o fluxo, e isso é viver em “Kaminagara” (de acordo com a Vontade Divina). Se, em vez disso, a pessoa manifesta o seu “eu” e insiste em continuar a todo custo, acabará sofrendo ainda mais. (Vide “Registro das Sagradas Palavras”, nº 12)
-
-**Pergunta: A empresa em que trabalho está em estado de falência. Desde o ano passado, estamos envolvidos em uma obra fluvial que foi concluída neste verão. No entanto, por falta de capital, não conseguimos avançar, mesmo com outras obras em vista. Devo procurar outro caminho?**
-
-Sim, isso é um sinal para que você reavalie a situação. Se o trabalho atual não vai bem, mude o seu rumo para outra atividade. Ao fazer isso, Deus providenciará algo muito melhor, de uma forma que lhe será bastante favorável.
-
-**Pergunta: O altar dos antepassados pode ser instalado no andar de baixo da casa?**
-
-Não, isso não é correto. Ele deve ser instalado, impreterivelmente, no andar de cima. Se ficar no andar de baixo, os seres humanos se colocarão em uma posição superior a ele.
-
-**Pergunta: É permitido colocar um quadro caligráfico acima do altar dos antepassados?**
-
-Sim, um quadro caligráfico é permitido.
-
-**Pergunta: Ao fazer uma nova tabuleta ancestral, podemos simplesmente entronizá-la? E o que devemos fazer com a antiga?**
-
-Deve-se pedir aos antepassados que se transfiram para a nova tabuleta. Depois disso, a antiga pode ser incinerada.
-
-**Pergunta: Por razões econômicas, algumas pessoas mantêm apenas um marco de madeira no túmulo por anos após o funeral, sem construir uma lápide de pedra. Isso é um problema?**
-
-Sim, não é bom. Não existe isso de “razões econômicas”. Se a pessoa tiver a firme determinação de construir a lápide, custe o que custar, o dinheiro certamente aparecerá. Se o dinheiro não vem, é porque a determinação é fraca. Uma vontade morna não adianta. Se houver a decisão de construí-la, os espíritos ancestrais providenciarão para que o dinheiro surja. (Vide “Registro das Sagradas Palavras”, nº 14)
-
-**Pergunta: No caso do falecimento de um parente ou conhecido que não tenha ninguém para cuidar de seus restos mortais, é correto sepultar suas cinzas em meu jazigo, junto aos meus próprios antepassados?**
-
-Pode-se sepultá-las, sim. Contudo, essa pessoa deve ocupar a posição mais inferior. As cinzas devem ser enterradas na parte mais baixa do túmulo. Se forem colocadas no mesmo nível dos seus antepassados, os espíritos que são venerados sofrerão. No Mundo Espiritual, a questão da hierarquia é, de fato, muito rigorosa.
-
-**Pergunta: É comum que ascetas e outros místicos digam: “Você está com o espírito de fulano encostado”. É tão fácil assim ver os espíritos?**
-
-Sim, é fácil vê-los. Mas, claro, é preciso passar por treinamento ascético. Geralmente, os ascetas se dedicam intensamente a práticas como abluções em água fria e jejuns. Isso torna o espírito da pessoa mais rarefeito, facilitando a possessão por outros espíritos. E os espíritos que mais se manifestam são os de raposa. Quando um espírito de raposa se encosta, a pessoa passa a ver espíritos. Portanto, ver espíritos não é algo de que se deva orgulhar. Além disso, essa prática pode levar facilmente a doenças mentais. É por isso que os doentes mentais são os que mais veem espíritos. Frequentemente, eles fazem gestos como “Ah! Ah!”, olhando para o vazio, não é? (Risos) Isso acontece porque têm medo dos espíritos que veem.
-
-**Pergunta: Essas pessoas conseguem ver qualquer tipo de espírito?**
-
-Não, há espíritos que elas veem e outros que não. Há também os que sussurram em seus ouvidos, e pode acontecer de o espírito do outro lado possuir o asceta. Mas o mais comum é a visão. Chamam isso de poder sobrenatural, e é algo que certas pessoas conseguem desenvolver.
-
-**Pergunta: Gostaria de fazer uma pergunta sobre o relato de graça “Conhecendo minha vida passada através da virtude espiritual”, publicado na edição nº 9 da revista “Paraíso Terrestre”. (1) É possível que o espírito de uma pessoa possua a si mesmo? (2) Se o termo “possessão” é usado, não se trata de um espírito distinto?**
-
-(1) Não, isso não acontece. Além disso, o que os espíritos dizem nem sempre é verdade. Eles também dizem coisas sem sentido. Espíritos de raposa enganam as pessoas, e espíritos de baixo nível podem acreditar em informações erradas. Portanto, não se pode crer em tudo cegamente. (2) Sim, sua observação está correta.
-
-**(Uma pessoa pergunta sobre o significado de um sonho que teve)**
-
-Recentemente, decidi não responder mais a perguntas sobre sonhos. A interpretação de sonhos é uma tarefa complicada. Quem nos mostra os sonhos é o nosso anjo da guarda principal, mas, assim como entre os humanos, há anjos da guarda inteligentes e outros nem tanto. E os sonhos enviados por anjos da guarda menos inteligentes são muito difíceis de decifrar... (Risos)
-
-**Pergunta: As pessoas que usam medicamentos o fazem porque possuem máculas em seu corpo espiritual, o que as leva naturalmente a recorrer a eles?**
-
-Todos, sem exceção, possuem máculas no corpo espiritual. Não apenas os que usam medicamentos. Os únicos que não os usam são os fiéis da nossa Igreja. E, mesmo entre os fiéis, também existem máculas no corpo espiritual.
-
-**Pergunta: Sobre alimentação e saúde: (1) Ouvimos dizer que o Grande Mestre consome batata-doce após o café da manhã e *oshiruko* ou *ochazuke* antes de dormir. Que efeito isso tem?**
-
-Não se trata tanto de um efeito, mas sim de uma forma de regular o excesso de nutrientes que eu consumo. Na verdade, minha preocupação é com o excesso de nutrição. Nutrição em demasia também é prejudicial. Uma pessoa se mantém saudável com uma alimentação simples. Atualmente, as pessoas adoecem por excesso de nutrientes e, para se curarem, consomem ainda mais, agravando o problema e, consequentemente, enfraquecendo.
-
-**Pergunta: Esses alimentos possuem poucos nutrientes?**
-
-Não é que tenham poucos nutrientes, mas eu os consumo por não serem de origem animal. A nutrição tem dois aspectos: espiritual e material. Os vegetais são de natureza espiritual, enquanto peixes e carnes são de natureza material.
-
-**Pergunta: (2) Quando um doente consome muitos vegetais, quais são os mais indicados?**
-
-A pessoa deve comer aquilo que tem vontade. É comum as pessoas se forçarem a comer algo de que não gostam, sob o pretexto de que faz bem à saúde. Isso é um completo equívoco. O desejo por um determinado alimento surge porque o corpo precisa dele. A falta de desejo indica que o corpo não precisa daquele alimento ou que não deve consumi-lo. O corpo humano é uma máquina extraordinariamente bem projetada. São as pessoas que cometem erros em relação a ele.
-
-**Pergunta: E quanto a combinar diferentes tipos de alimentos?**
-
-Deve-se comer o que se gosta, mas o princípio é consumir de ambos os tipos.
-
-**Pergunta: Mesmo pessoas com problemas de estômago às vezes sentem um forte desejo por doces...**
-
-Sim, se têm vontade, devem comer.
-
-**Pergunta: Mas, depois de comerem, sentem-se mal.**
-
-Se lhes faz mal, que comam com moderação. (Risos) Tudo é uma questão de medida. É preciso ter autocontrole e moderação.
-
-**Pergunta: Ouvi dizer que, em casos graves, não se deve comer frutas...**
-
-Eu jamais disse tal coisa. A única exceção é quando a pessoa está com uma diarreia muito forte, pois as frutas podem agravá-la, causando cansaço. Fora isso, não há problema algum. As frutas foram criadas por Deus para os seres humanos e são excelentes.
-
-Outra coisa: costuma-se dizer que doce de feijão faz mal às crianças, mas isso é um erro tremendo. Certa vez, um menino de uns seis anos veio me visitar, e eu lhe ofereci um pedaço de *yokan* que estava por perto. A mãe ficou espantada e disse que era a primeira vez na vida que o filho comia algo do tipo. O menino, por sua vez, comeu tudo com grande satisfação. Isso acontece porque os médicos proíbem o consumo de doce de feijão, alegando que causa disenteria. E por que dizem isso? Porque nos livros de medicina não há menção a doce de feijão. O fato é que a medicina japonesa é uma tradução literal da ocidental, e nos livros de medicina do Ocidente não se encontram termos como *anko* ou *misoshiru*. (Risos) Por isso, em vez disso, os médicos recomendam alimentos ocidentais como leite e aveia. Mas a cevada prensada japonesa e a aveia são a mesma coisa. E por que o doce de feijão faria mal? É feito com feijão azuki moído, bem cozido e adoçado com açúcar. É um alimento excelente.
-
-**Pergunta: E balas?**
-
-Não há problema. Balas e doce de feijão são diferentes, mas são inofensivas. Na verdade, o chocolate é bem mais prejudicial à saúde.
-
-**Pergunta: Gostaríamos de saber quais cuidados devem ser tomados antes e depois do parto.**
-
-Antes do parto, não há muitos cuidados especiais. Diz-se que levantar os braços pode causar aborto, um dito popular antigo. Também se diz que uma queda pode fazer com que o cordão umbilical se enrole no pescoço do bebê. À medida que a barriga cresce, a mulher perde o centro de gravidade e pode cair. Uma queda leve não é problema, mas cair de uma escada, por exemplo, é perigoso. Quanto ao trabalho, a mulher pode continuar suas atividades normais. É bom que trabalhe até o mês do parto, sem se poupar em excesso. As mulheres do campo trabalham até o momento de dar à luz, e isso torna o parto mais fácil.
-
-Após o parto, é preciso ter muito cuidado. A mulher não deve se movimentar muito enquanto o sangue residual não for completamente expelido. Recentemente, adotou-se o costume de aplicar gelo após o parto, mas isso é um erro. O sangramento pós-parto não deve ser estancado. Nos primeiros dias, especialmente na primeira semana, o sangue residual tende a se concentrar na parte do corpo que é mais utilizada. Se a mulher anda, ele se acumula nas pernas e na cintura. Se força a vista, a visão fica prejudicada. Diz-se que problemas de visão adquiridos no pós-parto nunca se curam. Se ela se preocupa demais, o sangue se acumula na cabeça. É por isso que a psicose puerperal é comum. Portanto, a mulher deve permanecer em repouso até que todo o sangramento cesse. Depois disso, pode começar a se movimentar gradualmente, observando o fluxo. Na primeira semana, deve limitar-se a ir ao banheiro. Até a terceira semana, deve se mover com cuidado. O sangramento geralmente cessa por volta da terceira semana. Assim, deve-se equilibrar o movimento com o fluxo de sangue. Quando o sangramento parar, ela pode retomar gradualmente suas atividades normais. Após setenta e cinco dias, pode voltar à sua rotina completa. Pode parecer um pouco estranho, mas as relações conjugais devem ser evitadas por trinta e cinco dias, para não retardar a recuperação. Após esse período, pode-se retomar com moderação. (Risos)
-
-**Pergunta: Após setenta e cinco dias, não há mais restrições?**
-
-Sim, após setenta e cinco dias, a vida pode voltar ao normal.
-
-**Pergunta: E a alimentação?**
-
-Pode comer de tudo.
-
-**Pergunta: E o banho?**
-
-O banho pode ser tomado de acordo com o fluxo de sangue. Geralmente, as mulheres temem tomar banho porque o sangramento aumenta, mas, como eu disse, o sangramento é benéfico. Contudo, é prudente esperar cerca de três semanas para começar a tomar banho gradualmente.
-
-**Pergunta: Dizem que ameixa em conserva e açúcar são prejudiciais...**
-
-Isso não é verdade. Mas, se consumidos em excesso, podem tirar o apetite. Alimentos leves são preferíveis, pois os mais pesados podem causar indigestão. E, ao contrário do que se diz, canja de arroz com ameixa em conserva não é uma boa combinação.
-
-**Pergunta: Há uma gestante cujos batimentos cardíacos estão extremamente acelerados. Qual a causa disso?**
-
-Existe um nódulo de toxinas entre o coração e o estômago. Pessoas com essa condição também sentem palpitações ao comer. Durante a gravidez, o útero se expande e pressiona o estômago. Este, por sua vez, comprime as toxinas acima dele, que acabam pressionando o coração.
-
-**Pergunta: A partir do quinto mês de gestação, usa-se a faixa abdominal. Isso é recomendável?**
-
-Essa prática não existe no exterior; é exclusiva do Japão. O objetivo é “ter um bebê pequeno para criá-lo grande”. A faixa comprime o abdômen, retardando o crescimento do feto e, consequentemente, facilitando o parto. O costume de colocar a faixa no “dia do cão” vem da crença de que, assim como as cadelas dão à luz ninhadas grandes com facilidade, a mulher também terá um parto fácil. Além disso, a faixa oferece sustentação, facilitando o trabalho. A barriga fica mais firme, o que é conveniente para as atividades diárias. Há também esse aspecto. Contudo, essa prática não é fundamental. Portanto, a mulher deve decidir por si mesma o que é melhor. Apertar demais a faixa pode causar aborto, o que é perigoso. Se houver parentes mais velhos e insistentes, use a faixa. Se achar incômodo, pode ficar sem ela. (Risos)
-
-**Pergunta: Diz-se que crianças que nascem com o cordão umbilical enrolado no pescoço ou cuja mãe menstruou durante a gravidez terão uma vida de infortúnios. Isso é verdade?**
-
-Isso é e não é superstição. Quedas ou acidentes podem, de fato, fazer com que o cordão umbilical se enrole. De qualquer forma, a ocorrência de tais anomalias indica a presença de máculas e pecados nos pais, o que pode, sim, resultar em um destino desfavorável para a criança. Contudo, dependendo da forma como ela for criada, o infortúnio pode ser transformado em felicidade.
-
-No caso da menstruação durante a gravidez, isso não tem relação com a criança. O problema está em uma obstrução inadequada das trompas da mãe. Também pode não ser menstruação, mas sim a liberação de sangue antigo que estava coagulado.
-
-**Pergunta: Existe o costume de guardar o cordão umbilical da criança. Devemos mesmo guardá-lo?**
-
-Isso é indiferente. É um costume, então, se a pessoa se sente bem guardando-o, que o guarde. Se decidir descartá-lo, não haverá problema algum.
-
-**Pergunta: Como devemos descartá-lo?**
-
-Basta queimá-lo. Pode ser cremado junto com a pessoa quando ela falecer.
-
-**Pergunta: Uma fiel de cerca de vinte e cinco anos, grávida de cinco meses, notou que o bebê parou de se mover. Ao consultar um médico, foi informada de que o feto estava morto e em decomposição, necessitando de uma cirurgia. Recusando a cirurgia, ela recebeu Johrei por dez dias e sentiu o bebê se mover novamente. Em uma nova consulta, o médico disse: “Será que não estava morto, afinal?”. Teria sido um estado de morte aparente? E qual a causa?**
-
-Sim, pode-se dizer que foi um estado de morte aparente. Isso pode ser causado por fraqueza, entre outros fatores. Por exemplo, um coágulo de toxinas no cordão umbilical pode obstruir o fluxo de nutrientes para o feto. Mesmo no útero, o bebê se alimenta, como se estivesse mamando. Se o fluxo é insuficiente, ele enfraquece. Preocupações ou a contração do estômago da mãe, que leva à perda de apetite, também podem impedir que os nutrientes cheguem ao bebê. Com o Johrei, o fluxo de nutrientes aumenta, e a situação melhora.
-
-**Pergunta: Uma fiel de trinta anos, grávida de seis meses, foi informada por um médico que o feto havia morrido por volta do terceiro mês e que precisava de uma cirurgia, pois sua barriga não crescia. Como não sente dor, ela teme a cirurgia e deseja receber Johrei. Mesmo que o feto esteja morto, o Johrei pode provocar a sua expulsão? Ela já tem dois filhos e sofreu um aborto.**
-
-Sim, mesmo que o feto esteja realmente morto, o Johrei pode provocar a sua expulsão. Além disso, coágulos de sangue antigo podem causar essa condição, e também existe a possibilidade de uma gravidez psicológica. É preciso considerar essa hipótese. A gravidez psicológica é um fenômeno curioso. A mulher acredita tanto que está grávida que a barriga começa a crescer, mesmo sem haver ar dentro dela.
-
-**Pergunta: Dizem que beber água após um ferimento grave ou uma cirurgia pode levar à morte. Isso é verdade?**
-
-Isso não é verdade. Pode-se e deve-se beber muita água. Há algum equívoco aí. Não há lógica em dizer que beber água leva à morte. O que pode acontecer é o seguinte: durante uma cirurgia, usam-se narcóticos, e beber água pode causar náuseas e vômitos. O esforço do vômito pode fazer com que os pontos se rompam. É provável que, por receio disso, não permitam que se beba água.
-
-O mesmo se aplica a ferimentos graves. A perda de sangue causa anemia cerebral, o que também provoca náuseas. Se a pessoa bebe água e vomita, a ferida pode se abrir. Portanto, o problema não está na ingestão de água em si.
-
-**Pergunta: Uma mulher de trinta e um anos começou a ter uma purificação de tuberculose em julho deste ano. Ela melhorou temporariamente com o Johrei, mas recentemente teve uma nova purificação, está enfraquecida, com pouco apetite e o pulso em torno de cento e quarenta. Ela poderá ser salva?**
-
-A tuberculose costuma ter repetidas purificações, e é nesses momentos que o perigo é maior. Depende do grau de fraqueza; se for muito severo, não há o que fazer. Os pontos vitais nesses casos não são um ou dois, mas vários. A causa principal é o bulbo direito; a purificação dessa área causa febre, o que leva à fraqueza, pois a fraqueza é consequência da febre. Outros pontos são os gânglios linfáticos do pescoço e da garganta. Também pode ser o topo da cabeça, as axilas, os ombros, os rins e a virilha. A febre pode se manifestar na virilha e, por causa disso, a pessoa pode tossir. Certa vez, eu disse a um paciente: “Sua tuberculose está na virilha. Você tem um pulmão na virilha”. Ministrando Johrei nesses pontos vitais, a febre baixa.
-
-**Pergunta: No caso dela, a febre baixa temporariamente com o Johrei, mas depois volta a subir.**
-
-Ah, isso acontece porque o Johrei não está sendo focado no ponto vital correto. Ao atingir o ponto certo, o alívio é imediato. Há pessoas que, ao receberem Johrei, tossem ainda mais. Isso geralmente ocorre quando o Johrei está sendo ministrado no lugar errado. Por exemplo, se a causa está na garganta e o Johrei é aplicado no ombro, a purificação do ombro pode se deslocar para a garganta, intensificando a tosse. É a purificação por equalização. Portanto, se a febre não baixa ou a tosse aumenta com o Johrei, deve-se considerar a possibilidade de o foco estar errado. Normalmente, o Johrei faz a febre baixar e o apetite retornar.
-
-**Pergunta: Em casos que parecem ser de possessão espiritual, é recomendável venerar o espírito em questão?**
-
-Há casos em que a veneração traz a cura, mas são relativamente raros. E há outro ponto a ser considerado. Diz-se que venerar o espírito é a solução, mas o espírito não se contenta apenas com a formalidade. A pessoa que o venera deve fazê-lo de coração, com a real intenção de oferecer sufrágios. Apenas o ato de venerar não é suficiente para satisfazer o espírito.
-
-**Pergunta: Ter pensamentos dispersos durante a prece também é prejudicial?**
-
-Não, isso não tem problema. Dificilmente haverá alguém que não tenha pensamentos dispersos ao recitar uma oração. “De coração” não se refere a isso, mas a atitudes como, por exemplo, delegar a tarefa a um empregado por preguiça de fazê-la pessoalmente.
-
-Além disso, se a pessoa tem força espiritual, o espírito não consegue se encostar, mesmo que tente. Ele só consegue se manifestar quando a pessoa está enfraquecida. À medida que a fraqueza aumenta e a morte se aproxima, a pessoa pode perceber a presença do espírito e pensar que seu sofrimento é causado por ele, mas, na verdade, foi a fraqueza que permitiu a possessão. E a medicina convencional utiliza tratamentos que enfraquecem o paciente. Um espírito que se encosta há pouco tempo se afasta facilmente, mas aquele que está presente há muito tempo é difícil de remover. Claro, tudo depende da forma de veneração e das exigências do próprio espírito.
-
-**Pergunta: Um membro de sessenta e três anos sofreu um derrame e está recebendo Johrei desde o início. Recentemente, seu ombro direito começou a doer, e ele está com muita expectoração. O braço e a perna direitos ainda estão paralisados. Ele se recuperará completamente? E qual é o ponto vital para o Johrei?**
-
-É excelente que a expectoração esteja saindo em abundância. Isso significa que o sangue e os coágulos tóxicos do ombro direito estão se dissolvendo e se transformando em catarro. À medida que tudo for expelido, ele recuperará os movimentos. Os pontos vitais são o local da dor ou, mesmo que não haja dor, onde se sentir um nódulo ao pressionar. A origem do derrame está nesta área (do pescoço ao queixo), então essa região deve ser bem tratada. Os vasos sanguíneos daqui se rompem, o sangue tóxico sobe para a cabeça e depois desce para o braço e a perna do lado oposto. Existe também o derrame reverso, no qual o sangue extravasado não vai para a cabeça, mas desce diretamente para o braço e a perna do mesmo lado. Esse tipo é mais leve, pois resulta em paralisia sem hemorragia cerebral... Só essa explicação já valeria um Prêmio Nobel. (Risos)
-
-**Pergunta: Para um paciente de derrame, uma dieta vegetariana é mais indicada?**
-
-Sim, a dieta vegetariana é melhor. O derrame é mais comum em pessoas que consomem muita carne. O consumo de carne inevitavelmente torna o sangue mais denso e impuro.
-
-**Pergunta: O paciente e toda a sua família são fiéis fervorosos, mas, de repente, ele teve uma purificação de derrame. Justamente por serem tão dedicados, parece que surgiu uma certa dúvida. Como devemos orientá-los em tal situação?**
-
-Até mesmo os fiéis do nosso caminho podem ter um derrame. A diferença é que, por terem fé, o caso é mais leve e a recuperação, mais rápida. O Sr. Shibui, da Igreja Gorokushichi, também teve um derrame no ano passado. Ele teve três, na verdade, mas já está recuperado. Na primeira vez, surgiu um furúnculo na nuca, de onde saiu muito sangue tóxico. Na segunda, outro furúnculo apareceu na parte externa da coxa, também expelindo sangue tóxico. O avô e o pai dele também tiveram derrame, então é algo de família. Como a situação dele poderia afetar a credibilidade da fé, eu me esforcei bastante para ajudá-lo. (Risos)
-
-**Pergunta: Então, é uma condição hereditária?**
-
-Sim, é hereditária. Mas, como no caso do Sr. Shibui, que se recuperou mesmo após o terceiro derrame, não é algo tão grave.
-
-**Pergunta: Um homem de cerca de quarenta e cinco anos começou a ter espasmos no braço e na perna do lado direito há aproximadamente quatro anos. Ele afirma nunca ter tido uma hemorragia cerebral. Atualmente, os espasmos são intensos, tanto de dia quanto de noite, e ele sente a nuca pesada e rígida. Seria um derrame reverso? E onde devemos concentrar o Johrei?**
-
-Sim, é um derrame reverso. A causa está quase que inteiramente aqui (na parte de trás do pescoço, abaixo da orelha). Basta tratar bem essa área. O sangue tóxico dali se dissolveu e se solidificou no braço e na perna. Além disso, deve-se tratar bem os locais do braço e da perna onde houver febre ou dor. A articulação do ombro também deve ser tratada. Parece um caso um pouco maligno, mas, com paciência, ele se curará.
-
-**Pergunta: E no caso de espasmos na perna?**
-
-Mesmo quando o problema é na perna, a raiz está no pescoço. Há um líder de igreja cujas pernas ficam ruins de vez em quando. Um breve Johrei em seu entrecenho é suficiente para curá-lo. Portanto, problemas nas pernas também podem ter origem na cabeça. (Vide “Registro das Sagradas Palavras”, nº 12)
-
-**Pergunta: Um homem de sessenta e quatro anos tem asma cardíaca. A purificação começou há cerca de um ano, mas ele ainda sente como se o coração fosse explodir ao se movimentar. O que devemos fazer?**
-
-Os pontos principais são os dois lados do plexo solar. Essa é a origem da purificação do coração. Outro ponto é nas costas, exatamente atrás do coração. Tratando bem essas áreas, ele se curará.
-
-**Pergunta: Uma mulher de quarenta e sete anos sofre de problemas de estômago desde 1945. Em maio de 1949, foi internada e diagnosticada com úlcera gástrica. Ela recebeu alta em outubro do mesmo ano e está em casa, mas sente dores diárias que vão das costas ao estômago. Ela poderá ser curada?**
-
-Isso não é nada. A úlcera gástrica é causada por medicamentos. Se ela parar de tomá-los, ficará curada. As toxinas dos medicamentos se solidificaram nas costas e estão se dissolvendo e retornando para o estômago. Aliás, quando há sangue no vômito ou nas fezes, significa que há fissuras na parede do estômago. Nesse caso, deve-se evitar alimentos sólidos e optar por uma dieta líquida. Se o sangramento for leve, pode-se comer um pouco de mingau de arroz. Os digestivos também amolecem a parede do estômago.
-
-**Pergunta: No caso dela, parece não haver sangramento.**
-
-Então, ainda não chegou a ser uma úlcera. Ela será curada. Contudo, se ela tomou muitos medicamentos, a cura pode levar um pouco mais de tempo. A úlcera gástrica pode se assemelhar a um câncer de estômago. Isso acontece quando as toxinas se solidificam na fissura do estômago, formando algo como um umbigo. Naturalmente, isso não é um câncer de verdade.
-
-**Pergunta: No livro “Crônicas da Fé”, lemos que “todos os minerais surgem de acordo com a natureza do solo, a densidade do espírito da terra, as variações climáticas, a duração do tempo, etc.”. O que significa “densidade do espírito da terra”?**
-
-O espírito da terra está em constante emanação. Onde a camada rochosa é inexistente ou fina, o espírito da terra emana com mais intensidade. Além disso, é comum haver nuvens sobre as montanhas, não é? Isso ocorre porque o espírito da terra é rarefeito nesses locais. Lugares com espírito da terra rarefeito são chamados de áreas de baixa pressão, e onde ele é denso, de alta pressão. Como o vapor d'água se acumula mais facilmente em áreas de espírito rarefeito, formam-se as nuvens. Portanto, há variações dependendo da dureza ou da espessura da crosta terrestre.
-
-**Pergunta: Inferindo a partir do seu ensinamento de que o aspecto espiritual do mundo atômico se torna o mundo do pensamento, chegará um tempo em que, assim como se utiliza o espírito dos elétrons nas ondas de rádio, toda a humanidade poderá se comunicar através do pensamento?**
-
-Certamente. Chegará a era do pensamento, ou, se preferir, a era das ondas de rádio do pensamento. Sem o uso de qualquer aparelho, será possível, por exemplo, escrever um caractere no ar em sua direção, e, mesmo a distância, você compreenderá o seu significado. A distância não importará, sejam cem ou mil léguas. Da mesma forma, uma conversa normal poderá ser ouvida por um interlocutor distante. Isso já acontece comigo com certa frequência. Quando penso em alguém que não vejo há algum tempo, essa pessoa aparece de repente no dia seguinte. Ou, quando penso que preciso que alguém venha para tratar de um assunto, essa pessoa logo aparece.
-
-**Pergunta: No futuro, isso se tornará ainda mais aprimorado?**
-
-Sim.
-
-**Pergunta: Nesse caso, as pessoas com maior elevação espiritual terão um poder mais forte?**
-
-Sem dúvida.
-
-**Pergunta: Se várias pessoas fizerem isso ao mesmo tempo, não haverá interferência? (Risos)**
-
-Não, não haverá interferência. A comunicação se direcionará para o lugar mais forte ou para o ponto crucial. Mesmo hoje, quando alguém me visita, eu percebo imediatamente: “O que será que ele veio fazer hoje? Ah, veio por causa disso”. E, se for algo inadequado, eu recuso.
-
-**Pergunta: No futuro, todos serão capazes de fazer isso?**
-
-Sim, todos serão. Embora seja um pouco diferente, práticas como perceber as intenções das pessoas ou captar o momento oportuno já são algo semelhante. O primeiro-ministro Yoshida entende bem o conceito de momento oportuno. Por ter agido no tempo certo, seu governo tem sido duradouro. Ele ainda conta com um apoio considerável da população. Ele sente a atmosfera do povo japonês. Quando Ashida se tornou primeiro-ministro, Yoshida também poderia ter concorrido, mas decidiu esperar que o momento amadurecesse mais, e por isso assumiu agora. É assim que as coisas funcionam.
-
-**Pergunta: Dizem que não é bom construir uma casa usando materiais como vigas de pontes destruídas por enchentes. Qual a sua opinião?**
-
-A casa é algo precioso. É onde o ser humano vive. Pode-se dizer que ela é como um anjo da guarda. Construí-la usando materiais que já tiveram outro uso, não apenas vigas de pontes, é um erro. Isso é um desrespeito ao ser humano. Perde-se a proporcionalidade. Da mesma forma, usar pilares invertidos também não é correto. A madeira tem uma direção, para cima e para baixo, e deve ser utilizada corretamente. A casa, embora com variações dependendo do estilo de vida, deve ser construída da forma mais correta possível. Contudo, se a madeira de uma viga de ponte for usada para algo mais simples, na parte externa da casa, não há problema.
-
-**Pergunta: Em um arrozal no terceiro ano sem fertilizantes, colhi nove sacas. No entanto, como as espigas estavam muito pesadas, cerca de setenta a oitenta por cento das plantas tombaram. Seria por excesso de composto orgânico?**
-
-Entendo. Como é esse arrozal, é irrigado?
-
-**Pergunta: Sim, é irrigado.**
-
-Que tipo de composto você usou?
-
-**Pergunta: Usei palha de arroz.**
-
-Palha. E mais alguma coisa?
-
-**Pergunta: Não usei mais nada.**
-
-Muitas pessoas dizem que usam apenas composto orgânico, mas acabam adicionando dejetos. De qualquer forma, nove sacas é uma boa colheita.
-
-**Pergunta: Em outras áreas, a colheita foi de cerca de sete sacas. Onde se usou trevo, foi de seis sacas.**
-
-Trevo.
-
-**Pergunta: Refiro-me à astrágalo.**
-
-Ah, astrágalo. Não há necessidade de usar isso. Deus não a criou para ser fertilizante, mas para nos agraciar com suas belas flores. Deve haver alguma outra causa para o tombamento.
-
-**Pergunta: É possível produzir sem usar nenhum tipo de composto?**
-
-Sim, é possível. Nesses locais, o solo é macio. A função da palha é aquecer e amaciar o solo. É necessária em regiões frias, mas em climas quentes, pode ser dispensável.
-
-**Pergunta: Na província de Ibaraki, há um lugar onde, de um terreno de quatro *se*, colhem-se quatro sacas há gerações, sem nunca terem adicionado uma única folha de capim.**
-
-Impressionante, é uma colheita abundante.
-
-**Pergunta: Os agricultores costumam falar em “suprimento natural”...**
-
-O que é “suprimento natural”?
-
-**Pergunta: Por exemplo, dizem que de um *tan* de arrozal, pode-se colher até cinco sacas naturalmente. Mas, para colher mais do que isso, é preciso usar fertilizantes.**
-
-Isso é o contrário. (Risos) Se você quer colher pouco, use fertilizantes. Se quer colher muito, não os use. (Risos) Em suma, isso é uma superstição. O que estou fazendo agora é quebrar superstições. E, no entanto, são eles que me acusam de superstição. É um engano colossal. (Risos)
-
-**Pergunta: Durante o processamento de algodão, gera-se uma grande quantidade de resíduos. É apropriado usá-los como composto na lavoura?**
-
-Não é muito bom. O composto que utilizamos deve ser “natural”. Resíduos de algodão não se espalham naturalmente no ambiente. Folhas de árvores e de capim são sempre a melhor opção.
-
-*Nota do Editor*
-
-○ Feliz Ano Novo a todos. Publicamos a décima sexta edição do “Registro das Sagradas Palavras”. Este número contém as palavras do Grande Mestre proferidas durante os meses de novembro e dezembro do ano passado.
-
-○ Ao adentrarmos o novo ano de 1950, conforme lemos nos recentes poemas do Grande Mestre, este será “um ano extraordinário”. Desejamos, com fervor renovado, “apertar os cintos” e nos empenhar ainda mais em auxiliar na Grande Obra Divina.
-
-○ Este livreto já alcançou sua décima sexta edição. Conforme comunicado anteriormente, o propósito de sua publicação é servir de guia para que o maior número possível de membros possa entrar em contato com o sublime e compassivo coração do Grande Mestre, banhar-se na luz de Sua sabedoria, aprimorar sua inteligência, elevar sua iluminação e, juntos, avançar no auxílio à conclusão da Obra Divina. Com a chegada deste novo ano de grande transição, renovamos nosso espírito e nos comprometemos a um esforço ainda maior.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikan
-
-**Categoria:** sasshi | **Ano:** 昭和29(1954)年11月20日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Mestre Okada Jikan
-## Curso sobre o Johrei (IV) — Crítica à Farmacologia
-Publicado na 4ª edição do "Curso sobre o Johrei", em 20 de novembro de 1954
-
-### Um — Sobre a Superstição nos Medicamentos
-
-#### 1. O Futuro da Medicina sob a Ótica da Ciência Divina
-
-##### 1-1. A Ocultação do Núcleo Vital pela Ausência do Poder do Deus Supremo (Coletânea de Ensinamentos, vol. 8, p. 11)
-
-A medicina tem se dedicado unicamente a pesquisar a aniquilação do bacilo da tuberculose. Nesse sentido, estou redigindo atualmente a obra "A Cultura do Supremo Deus". O mundo, até então, assemelhava-se a um círculo desprovido de seu ponto central, que é a origem de tudo. Isso se deve ao fato de o poder do Supremo Deus não ter se manifestado plenamente. O Deus Supremo — em termos humanos, o patriarca da família — esteve ausente, deixando a administração a cargo de gerentes. Assim, as divindades veneradas até hoje, incluindo Cristo e Buda, atuaram como Seus gerentes. Embora Cristo se refira ao "Pai que está nos Céus", esse Pai é, de fato, o próprio Deus Supremo. Portanto, o ponto central e vital permaneceu oculto para todos. A humanidade via apenas o círculo, e era somente isso que conseguia compreender. A Igreja Messiânica, contudo, manifesta o poder do Deus Supremo — o ponto central. Por essa razão, ela detém a força para solucionar a causa fundamental de todas as calamidades humanas. A compreensão clara desse aspecto é suficiente para um entendimento geral.
-
-##### 1-2. A Crítica à Farmacologia nos Escritos Divinos (Coletânea de Ensinamentos, vol. 14, p. 31)
-
-A Igreja Messiânica é a única religião que nega a medicina. A motivação que me levou a ingressar na Oomoto-kyo foi precisamente o conhecimento dos equívocos da medicina. Nos Escritos Divinos (Ofudesaki) daquela religião, há uma passagem que diz: "A essas substâncias inúteis, vindas do estrangeiro, que se tornam veneno, mas jamais remédio, o povo insensato paga fortunas para macular o próprio corpo. Até mesmo Deus se vê em apuros com tal situação". Aquelas palavras me deixaram estarrecido. Naquela época, ninguém afirmava que os medicamentos eram venenos. Contudo, tal verdade já estava claramente registrada nos Escritos Divinos. Compreendi a gravidade do assunto, e essa revelação constituiu o principal atrativo que me conduziu à Oomoto-kyo.
-
-##### 1-3. Chegará o Tempo em que os Medicamentos Perderão a Eficácia e Serão Temidos (Coletânea de Ensinamentos, vol. 13, p. 15)
-
-O Mundo Espiritual está passando por transformações progressivas, o que significa que a purificação se torna cada vez mais intensa. Em contrapartida, as curas também se tornam consideravelmente mais rápidas, e a eficácia do Johrei vem aumentando continuamente. Creio que os senhores já devem ter percebido nitidamente que as doenças são sanadas com muito mais celeridade do que antes. O mesmo resultado é alcançado em um período mais curto. Os relatos de graças recentes, aliás, confirmam essa tendência de curas rápidas. Esse é o tipo de milagre que tem se tornado frequente.
-
-Nesse sentido, nosso trabalho foi, por um lado, facilitado. Conforme avançarmos, contudo, observaremos um fenômeno inverso ao da medicina. Os medicamentos que antes surtiam efeito — entenda-se, que solidificavam as toxinas — perderão essa capacidade e, gradualmente, deixarão de curar. Em outras palavras, a supressão temporária dos sintomas não será mais possível. Recentemente, tem se tornado comum a opinião de que fármacos como a estreptomicina já não funcionam. O mesmo ceticismo recai sobre o BCG e a hidrazida. Consta que as vendas da hidrazida estão decepcionantemente baixas, para a preocupação de seus fabricantes. Casos como esses, em que os medicamentos se mostram ineficazes, multiplicam-se a cada dia, o que considero um desenvolvimento interessante.
-
-Mais adiante, adentraremos uma era em que os medicamentos serão vistos como algo terrível. A partir de então, nosso campo de atuação se ampliará. Inevitavelmente, chegará o tempo em que o método de cura da Igreja Messiânica será a única alternativa viável, e a partir desse momento, nossa rotina se tornará vertiginosamente atribulada. Essa época se aproxima a passos largos. Não me regozijo com o infortúnio alheio, mas tal perspectiva me enche de grande expectativa.
-
-##### 1-4. Com o Advento da Era do Dia, os Tratamentos Médicos Farão Aumentar Drasticamente as Doenças Malignas (Registro de Orientações Divinas, vol. 5, p. 37)
-
-A salvação da Era da Noite se transformará na salvação da Era do Dia. Ou seja, a escuridão dará lugar à luz diurna. Esse é o plano estabelecido por Deus. (...) Trata-se de uma transição de magnitude colossal; não se pode esperar que uma reviravolta tão completa ocorra de maneira suave e sem percalços. Os métodos do passado chegarão a um impasse absoluto. As doenças aumentarão de forma avassaladora, e o processo de purificação intensa que hoje acomete nossos membros, inclusive os mais antigos e os dirigentes, se estenderá a toda a sociedade. Quando os médicos tentarem intervir com seus tratamentos, obterão o efeito contrário, agravando ainda mais a situação. As pessoas começarão a compreender, pouco a pouco, que não há salvação fora da Igreja Messiânica e que suas doenças não serão curadas sem ela. Nesse momento, o mundo se transformará por completo.
-
-A medicina se esforça incessantemente para deter a purificação. Quando surge uma febre, por exemplo, aplicam-se injeções e diversos outros recursos para paralisá-la. Com isso, o indivíduo consegue apenas manter-se respirando com dificuldade. Os senhores devem ter lido no jornal o artigo que mencionava o perigo que se segue à supressão temporária de uma doença. Agora, escrevem que o BCG, por deter momentaneamente a purificação, transmite uma falsa sensação de segurança, mas que, em decorrência disso, aumentarão enormemente os casos de enfermidades malignas que não puderam ser contidas. Tudo o que escrevi vem se concretizando gradualmente. Nos Escritos Divinos da Oomoto-kyo, há uma passagem que afirma: "Não haverá um milímetro de diferença no que Deus disse. Nem mesmo a espessura de um fio de cabelo se desviará".
-
-##### 1-5. Qual o Futuro dos Médicos e dos Medicamentos? (Coletânea de Ensinamentos, vol. 13, p. 28)
-
-*Artigo "Advertência aos Profissionais da Medicina" (Revista Eikou, nº 171)*
-
-Conforme o texto que acabamos de ler, o fim da medicina ocorrerá de forma relativamente rápida. Um fato a ser observado é que, ultimamente, ouço com frequência que medicamentos antes eficazes já não surtem efeito. A hidrazida, por exemplo, que foi recebida com tanto alarde, já se mostra inútil. Recentemente, um hospital realizou um levantamento estatístico e constatou que, na maioria dos casos, após duas ou três semanas, ou no máximo um ou dois meses, o número de bacilos da tuberculose, que havia diminuído drasticamente no início, voltava a crescer de forma alarmante. Ademais, os bacilos se tornavam muito mais resistentes. Cerca de trinta por cento dos pacientes apresentavam esse quadro. Esse percentual ainda é baixo porque o tempo de observação foi curto. Com o passar dos anos, chegará a cinquenta e, por fim, a cem por cento. Em breve, portanto, atingiremos um ponto em que o tratamento será completamente inócuo. Assim, tudo caminha exatamente como escrevi no artigo "Rindo dos Novos Fármacos para a Tuberculose".
-
-Nos últimos tempos, um número considerável de médicos começou a duvidar dos medicamentos. A razão pela qual o que antes funcionava agora não funciona mais é que, com a intensificação da purificação no Mundo Espiritual, os métodos de solidificação das toxinas se tornaram progressivamente ineficazes. O veneno acumulado no corpo humano, diferentemente de uma gelatina, já não se solidifica como antes. Consequentemente, a ingestão de remédios e a aplicação de injeções se tornarão procedimentos perigosos e impraticáveis. Dias atrás, um jornal noticiou o caso de uma pessoa que morreu poucos minutos após receber uma injeção. A família decidiu processar o médico, cuja defesa, segundo a opinião de outros profissionais, se baseou na alegação de uma "constituição física peculiar". Incidentes como esse se tornarão cada vez mais frequentes. Diante disso, os próprios médicos passarão a questionar a medicina, concluindo: "Isso não funciona mais. É perigoso demais continuar praticando a medicina". Assim, não será uma força externa que derrubará a medicina, mas sim seus próprios praticantes que a abandonarão. E isso não levará muito tempo.
-
-O artigo que redigi é uma advertência sobre essa realidade. Quando tal cenário se concretizar, a Igreja Messiânica enfrentará uma demanda extraordinária. Como mencionei no texto, seremos disputados pelo mundo inteiro. Naquela ocasião, estaremos tão atarefados que será uma grande provação. Portanto, é fundamental que aproveitem o tempo de agora para se prepararem, lendo os Escritos Divinos o máximo possível.
-
-##### 1-6. O Aumento da Expectativa de Vida é Resultado do Progresso Extremo da Terapêutica Inversa, que a Partir de Agora Apresentará Efeito Contrário (Coletânea de Ensinamentos, vol. 28, p. 21)
-
-*Artigo "A Razão do Aumento da Expectativa de Vida" (Revista Eikou, nº 234)*
-
-Em suma, os métodos para paralisar a purificação tornaram-se mais eficazes. Embora seja estranho chamar de progresso, as técnicas de interrupção da purificação foram aprimoradas. Por isso, a expectativa de vida aumentou temporariamente. Contudo, dentro de dois ou três anos, a purificação no Mundo Espiritual se intensificará a tal ponto que entraremos, inversamente, numa era de longevidade drasticamente reduzida. Será uma era de terror, que já se avizinha.
-
-A prova mais evidente disso é que os senhores, ao ministrarem Johrei, percebem que as curas estão mais fáceis e rápidas do que antes, não é verdade? Isso ocorre porque o poder purificador aumentou. O fato de as pragas nas lavouras terem se tornado muito mais frequentes também é um sinal da transformação do Mundo Espiritual. O poder purificador se intensifica, e para detê-lo, os medicamentos precisam ser cada vez mais fortes. O recente aumento da expectativa de vida é, portanto, o resultado do progresso extremo da terapêutica inversa. Chegamos ao limite desse método. A partir de agora, o poder do Mundo Espiritual, que anula a terapêutica inversa, crescerá exponencialmente. Assim como a má colheita deste ano, em pouco tempo a capacidade de paralisar a purificação se enfraquecerá drasticamente, como um efeito rebote.
-
-Consequentemente, tomar um remédio agravará o estado do paciente imediatamente, e uma injeção poderá levá-lo ao colapso. Como já disse antes, os próprios médicos ficarão apavorados. "Isso é terrível! Uma simples intervenção e os pacientes pioram ou perecem", pensarão. Será uma era de pânico. Somente então as pessoas reconhecerão: "A doutrina da Igreja Messiânica estava correta. Parece que não há segurança fora dela".
-
-##### 1-7. A Razão pela qual a Hidrazida, Eficaz nos Estados Unidos, não Demonstra a Mesma Eficácia no Japão (Coletânea de Ensinamentos, vol. 12, p. 14)
-
-*Artigo "Lamento pelos Farmacêuticos" (Revista Eikou, nº 165)*
-
-Enquanto isso, nos Estados Unidos, eles continuam a desenvolver novos medicamentos para tuberculose e outras doenças, criando um cenário completamente inverso. A eficácia da hidrazida, por exemplo, já é questionada, e diversas teorias surgiram. A questão é que, nos Estados Unidos, ela funciona muito bem. Por isso foi trazida ao Japão com grandes expectativas, mas aqui não demonstra a mesma eficácia. Existe uma razão para isso: a purificação no Mundo Espiritual do Japão é mais intensa. Sendo aqui a fonte da Luz, o Mundo Espiritual japonês é mais iluminado. Como a eficácia de um medicamento reside em sua capacidade de paralisar a purificação, tal paralisação não ocorre aqui com a mesma intensidade que nos Estados Unidos. Lá, a força de solidificação ainda prevalece, o que explica por que um fármaco eficaz lá não o é aqui.
-
-Enquanto debatem as razões, o medicamento perderá gradualmente seu efeito, e seu fracasso é inevitável. Com o tempo, a purificação também se intensificará nos Estados Unidos; é apenas uma questão de tempo. No fim, será necessário criar medicamentos muito mais potentes, ou seja, com maior teor de veneno, a fim de paralisar a purificação ao máximo. A hidrazida é um exemplo disso. Recentemente, três pessoas morreram após seu uso. A reação contrária à paralisação da purificação se tornará tão forte que a morte ocorrerá antes que qualquer efeito de contenção se manifeste. Assim, chegará uma era em que a medicina e os medicamentos serão postos em dúvida. A partir desse momento, o palco será nosso. Ainda temos algum tempo, mas conhecer esses fatos nos permite compreender muitos outros fenômenos.
-
-#### 2. A Ausência de Caráter Científico na Medicina Moderna
-
-##### 2-1. Tomar Remédio ao Adoecer Equivale a Acreditar que a Saúde Era Mantida pelo Uso Contínuo de Remédios e que a Doença Surgiu por uma Interrupção Temporária (Coletânea de Ensinamentos, vol. 26, p. 27)
-
-O ato de tomar um medicamento quando se está doente parte do pressuposto de que a saúde era mantida pelo uso contínuo de remédios e que a doença surgiu porque, por acaso, seu uso foi interrompido. A lógica é a mesma de quem diz: "Como me alimento todos os dias, estou forte e disposto. Mas, como pulei uma ou duas refeições, sinto-me fraco e incapaz de trabalhar. Preciso comer logo para recuperar as forças". Ao comer, a pessoa se sente saciada e volta a trabalhar. Da mesma forma, acredita-se: "Eu estava saudável porque tomava remédios. Como o efeito passou, fiquei fraco, ou seja, adoeci. Portanto, se eu tomar o remédio novamente, ficarei bem". Refletindo sobre isso, a verdade se torna clara.
-
-Mesmo sem conhecer o princípio da purificação, uma análise baseada no simples bom senso revela o absurdo dessa lógica. "O senhor parece muito debilitado ultimamente." "Sim, é que o efeito do remédio passou." "Então tome bastante remédio, o mais forte que encontrar." A pessoa toma uma grande quantidade de um medicamento potente e se recupera. Assim pensam os homens de hoje.
-
-Ora, as pessoas que vivem em regiões montanhosas remotas, as classes mais baixas ou aquelas completamente ignorantes sobre o assunto não tomam remédios. Seguindo essa lógica, deveriam estar sempre debilitadas. E os grandes heróis do passado, como Benkei, deveriam ter consumido quantidades enormes de medicamentos para manter sua força. No entanto, é justamente na chamada era da civilização que o ser humano se tornou cada vez mais fraco. E agora, o mundo inteiro se mobiliza para que todos tomem remédios. É uma situação muito estranha.
-
-Existem muitas pessoas que são fortes porque não tomam remédios e, por serem fortes, não precisam deles. A situação é, no mínimo, curiosa. Se alguém dissesse: "As pessoas são fortes porque tomam remédios, não é? É estranho que você, sem tomá-los, seja forte", isso seria um disparate completo. As pessoas não conseguem compreender nem mesmo essa lógica tão simples.
-
-Agora, vamos analisar a questão sob a ótica da purificação. Com o surgimento contínuo de novos fármacos, anunciados exaustivamente nos jornais, as pessoas os consomem e, no fim, acabam perdendo a própria vida. Mesmo uma reflexão superficial revela a tolice dessa atitude. E se considerarmos que o resultado é ainda mais negativo do que se imagina, a situação transcende a mera estupidez. Não compreender essa lógica já seria um sinal de insensatez, mas persistir nesse caminho, sofrendo e abreviando a própria vida, é algo que vai além. Por isso, não me resta outra alternativa senão intitular este tópico de "A Supratolice".
-
-##### 2-2. Os Medicamentos Iludem por seu Efeito Temporário, Pois Todos São Entorpecentes
-
-**(a) Os Entorpecentes Atuam Rapidamente, e os Demais Medicamentos, de Forma Lenta. Disso Decorre o Pensamento Contraditório de que os Primeiros São Perigosos, e os Segundos, Não. (Coletânea de Ensinamentos, vol. 14, p. 8)**
-
-*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
-
-É importante que expliquem isso claramente aos membros. A pessoa sente o estômago ruim, uma dor, um mal-estar, e toma um remédio para o estômago. Momentaneamente, ela melhora. Sente dor de cabeça, toma um analgésico e a dor cessa por um tempo. Contudo, essa melhora temporária mascara a verdade: a dor de estômago, os espasmos gástricos e a dor de cabeça são, na realidade, o resultado do uso prévio de medicamentos gástricos e digestivos. Um digestivo estimula o apetite e faz a comida parecer mais saborosa, e a pessoa, iludida por esse efeito, recorre a ele a cada pequeno mal-estar. O mecanismo é idêntico ao de um entorpecente, e, com o tempo, o mal-estar retorna. A dose que era de um comprimido por dia aumenta para dois, três, e o medicamento precisa ser cada vez mais forte, seguindo a mesma trajetória de um viciado. No fim, a pessoa sente tanta necessidade do entorpecente que chega a roubar para obtê-lo.
-
-A única diferença é que os entorpecentes agem de forma aguda, e os medicamentos para outras doenças, de forma crônica. Por isso, as pessoas temem o entorpecente de efeito rápido, mas não o veneno dos medicamentos que age lentamente. É uma lógica absurdamente contraditória, mas que reflete a realidade atual. Portanto, a maneira mais clara de explicar é considerar todos os medicamentos como entorpecentes, como os membros já o fazem.
-
-No caso da tuberculose, por exemplo, o uso da hidrazida faz a febre baixar consideravelmente e o apetite aumentar. Como a febre é o principal fator que afeta o apetite, sua redução naturalmente o estimula, levando ao ganho de peso. Isso cria a impressão de grande eficácia. No entanto, ouvi dizer que, recentemente, após duas ou três semanas, o paciente retorna ao estado original, e os bacilos da tuberculose se tornam malignos. Isso significa que o "entorpecente" perdeu seu efeito em poucas semanas.
-
-À medida que a purificação no Mundo Espiritual se intensifica, um entorpecente que antes fazia efeito por seis meses ou um ano perderá sua eficácia cada vez mais rápido. Basta refletir sobre o que acabamos de ler: "Ultimamente, os remédios não fazem mais efeito", ou "Aquele remédio era tão bom antigamente". Se as pessoas analisassem essa questão a fundo, certamente compreenderiam. Mas nem sequer lhes ocorre tal pensamento. Elas estão tão imersas na superstição dos medicamentos que não conseguem conceber que eles sejam a causa do problema. A situação chegou a esse ponto.
-
-O corpo humano, no entanto, não mudou em nada nos últimos vinte ou trinta anos. Sua fisiologia é a mesma há milhares, dezenas de milhares de anos. É absurdo que algo que funcionava há uma ou duas décadas tenha deixado de funcionar. Contudo, ouve-se frequentemente: "Tal remédio era eficaz naquela época". E são os próprios médicos que o dizem. Eles não cogitam que talvez seja o corpo humano que mudou. Então, o que seria? O medicamento mudou? Não, o método de fabricação é o mesmo. Isso deveria despertar suspeitas, mas nem mesmo essa dúvida surge em suas mentes. E, mesmo que surgisse, não saberiam a resposta. Limitam-se a pensar: "Que estranho". E quando um paciente que eles consideravam incurável se recupera em meio mês ou um mês com o Johrei, eles apenas coçam a cabeça, sem entender, e o assunto se encerra. Do nosso ponto de vista, é uma atitude verdadeiramente tola.
-
-O mesmo se aplica aos fertilizantes, que também causam uma forma de dependência. No ano em que se aplica sulfato de amônio, ou no ano seguinte, a colheita é abundante. As pessoas pensam que é bom e continuam a usá-lo, até que o solo se torna dependente. Elas não percebem isso. A lógica dos fertilizantes e dos medicamentos é a mesma. Em suma, não há erro em considerá-los como entorpecentes.
-
-**(b) Trocar de Medicamento Produz Efeito Temporário porque o Corpo Desenvolve Resistência e se Intoxica, Tornando Necessária a Mudança. (Coletânea de Ensinamentos, vol. 14, p. 16)**
-
-Fala-se muito em vício em entorpecentes como se fosse um problema alheio, mas, na verdade, toda a população japonesa está viciada. A única diferença reside na velocidade com que o entorpecente faz efeito. O que chamamos de "entorpecente" é aquele de ação rápida. O que chamamos de "medicamento" é um entorpecente de ação lenta. Foi sobre isso que escrevi.
-
-*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
-
-Os médicos costumam dizer: "Este remédio funcionava antes, mas agora não funciona mais". Isso é o mesmo que o vício em entorpecentes. No início, uma injeção a cada três dias era suficiente, mas, com o tempo, o efeito diminui, e a frequência aumenta para uma a cada dois dias, depois uma por dia. O mesmo ocorre com os remédios para gripe ou estômago: o que antes era usado ocasionalmente passa a ser necessário com cada vez mais frequência. As injeções para asma, por exemplo, que eram aplicadas apenas durante as crises, passam a ser necessárias a cada três dias, até se tornarem de uso contínuo. É o mesmo mecanismo dos entorpecentes, que, no fim, causam tanto sofrimento em sua ausência que a pessoa chega a roubar para obtê-los. As injeções para asma seguem essa lógica. Ficar um tempo sem a injeção causa uma sensação de sufocamento.
-
-Analisando dessa forma, todos os medicamentos são entorpecentes. Se tememos o vício em entorpecentes, deveríamos temer também os outros medicamentos. A única diferença é que estes não agem tão rapidamente. Como o efeito é mais lento, a intoxicação leva mais tempo para se manifestar, e as pessoas não percebem. A estupidez humana é indescritível.
-
-Os novos medicamentos para tuberculose mudam constantemente. Agora falam da hidrazida, mas logo surgirá outra coisa. Enquanto as pessoas não perceberem a verdade, novos fármacos continuarão a aparecer. Contudo, com o tempo, o mundo inteiro passará a acreditar em nossa tese. Até lá, novos medicamentos surgirão em profusão. E um novo medicamento nada mais é do que um entorpecente com efeito potencializado. Se as pessoas soubessem disso, ficariam apavoradas.
-
-Ao explicar a um paciente sobre a intoxicação por medicamentos, usar o exemplo dos entorpecentes é a forma mais clara e eficaz. A estreptomicina é um entorpecente. A hidrazida é um entorpecente. Dizendo assim, a compreensão é imediata.
-
-O aumento da variedade de medicamentos também é curioso. Quando uma pessoa toma continuamente um remédio para o estômago, ele para de fazer efeito. Dizem que, ao trocar o medicamento, o efeito retorna temporariamente. O fato de um remédio deixar de funcionar significa que o corpo se intoxicou. A intoxicação ocorre porque o corpo desenvolve resistência a ele. É o mesmo princípio de quando comemos algo venenoso e, com o tempo, deixamos de nos intoxicar. Ao se repetir o mesmo estímulo, o corpo se vicia. Por isso, é preciso mudar. Na agricultura, isso equivale ao problema da monocultura. O solo está intoxicado por um tipo de fertilizante; ao mudar de cultura, a terra se recupera temporariamente. Pensando por esse prisma, o veneno dos medicamentos se torna muito claro.
-
-**(c) O Homem Moderno, com o Raciocínio Prejudicado pelo Veneno dos Medicamentos, Perdeu a Capacidade de Julgamento e se Deixa Iludir pelo Efeito Temporário dos Remédios. (Coletânea de Ensinamentos, vol. 12, p. 19)**
-
-Para qualquer problema, existe apenas uma solução, um único caminho correto. O que nos impede de encontrá-lo é a debilidade de nosso raciocínio, causada pelo veneno dos medicamentos. É por isso que, como disse anteriormente, o homem moderno possui uma inteligência superficial que encobre uma estupidez profunda. Se os medicamentos fossem completamente abolidos, nosso raciocínio melhoraria consideravelmente. Não só isso, mas as doenças infecciosas desapareceriam. Os micróbios nocivos brotam do veneno dos medicamentos. Existem micróbios bons e necessários, mas os ruins surgem desse veneno. As pessoas ignoram e são incapazes de descobrir essa verdade.
-
-Portanto, é imperativo, no mínimo, aprimorar a capacidade de raciocínio da humanidade. A educação é importante, mas tende a desenvolver a inteligência superficial, a erudição. Embora o conhecimento possa aprimorar a capacidade de julgamento, o centro do raciocínio está debilitado, impedindo que a mente funcione adequadamente para julgar as questões essenciais. Em suma, apenas a periferia do cérebro funciona, enquanto o núcleo permanece inativo.
-
-E, ainda assim, as pessoas depositam uma fé cega nos medicamentos. Como noticiado nos jornais, elas anseiam por tomar a recém-lançada hidrazida, acreditando ser algo extraordinário, quando, na verdade, ela apenas agrava a situação e não cura a tuberculose. Todos os medicamentos são entorpecentes: produzem uma melhora temporária. É como uma pessoa com o raciocínio lento que, ao receber uma injeção de entorpecente, sente a mente clarear. Por isso, seu uso se tornou comum entre escritores que precisam entregar um manuscrito com urgência; sob seu efeito, escrevem com uma fluidez impressionante, e acabam se viciando. Isso não se restringe aos entorpecentes; aplica-se a todos os medicamentos. Uma pessoa sem apetite toma um remédio, o apetite aumenta temporariamente, e ela acredita que fez bem. Continua a tomar, e isso se torna um hábito, levando a sintomas de intoxicação.
-
-O entorpecente de efeito rápido é controlado como tal, mas aquele de efeito lento não é reconhecido nem descoberto. Assim, o de ação rápida é rechaçado como entorpecente, enquanto o de ação lenta é recomendado como benéfico. É um procedimento ignorante, fruto de uma mente obtusa, ao qual as pessoas se acostumaram. Nosso esforço consiste em ensiná-las e fazê-las compreender essa realidade. É uma superstição acreditar que esses entorpecentes não o são. E, quando dizemos isso, somos nós os acusados de supersticiosos. A mente humana está nesse nível de degradação. Pode-se dizer que o homem moderno é, no mínimo, um doente cerebral.
-
-##### 2-3. Os Medicamentos Transformam as Pessoas em Indivíduos de Saúde Passiva, Reduzindo Temporariamente os Doentes, que Reaparecem com Doenças Sob Novas Formas (Coletânea de Ensinamentos, vol. 26, p. 71)
-
-Isso fica especialmente claro com os remédios para o estômago. O uso contínuo de um mesmo medicamento faz com que ele perca a eficácia. Ao trocá-lo, o efeito retorna temporariamente. Isso ocorre porque o corpo desenvolve resistência, ou seja, se acostuma aos seus componentes. A razão pela qual a mortalidade por tuberculose diminuiu e a expectativa de vida aumentou é precisamente essa. Fármacos recentes como a estreptomicina e o PAS são antibióticos, com uma composição totalmente diferente dos medicamentos anteriores. A teoria de que os antibióticos são excelentes parece ter se consolidado. Eles funcionam porque seus componentes são completamente novos para o organismo. Funcionar, nesse caso, significa ter um forte poder de paralisar a purificação. Como a purificação é enfraquecida, a morte é adiada. Contudo, após alguns anos de uso contínuo, o corpo humano desenvolverá resistência aos antibióticos, e retornaremos à estaca zero. Atualmente, um dos grandes problemas da medicina é que, ao administrar estreptomicina a pacientes com tuberculose, a atividade dos bacilos se torna extremamente forte alguns meses depois, e não se sabe como lidar com isso.
-
-Recentemente, por volta do ano passado, comemorou-se a diminuição dos casos de tuberculose. Essa redução, contudo, deve-se ao uso de novos medicamentos como BCG, estreptomicina, aureomicina, entre outros. Eles paralisaram a purificação. Com essa paralisação, a mortalidade e o agravamento dos casos foram temporariamente contidos, resultando em uma queda aparente nas taxas de mortalidade e no número de pacientes. Mas isso não se sustentará. A purificação ressurgirá, e então teremos casos de tuberculose mais malignos do que antes ou outras doenças, ou seja, doenças sob novas formas.
-
-Doenças sob novas formas têm surgido com grande frequência nos Estados Unidos. Lá, enfermidades malignas até então desconhecidas estão aparecendo em grande número, resultado da supressão da tuberculose.
-
-Na Inglaterra, por sua vez, a incidência de tuberculose é muito baixa, mas a população é composta por indivíduos de saúde passiva, com a purificação extremamente enfraquecida. São como bonecos frágeis. Recentemente, assisti a um noticiário estrangeiro no cinema que mostrava uma luta de boxe entre um negro e um branco. A diferença de força era abissal. O inglês era incrivelmente fraco, completamente exausto. O lutador negro — um nome famoso — era muito forte. Atualmente, no boxe, os negros são quase sempre mais fortes. O mesmo se observa em outras modalidades, como levantamento de peso e maratona. Nos Estados Unidos, até mesmo os indígenas têm se mostrado muito mais fortes. A população dos países civilizados foi enfraquecida para que as doenças não se manifestassem. Como resultado, o número de pessoas fracas e debilitadas aumentou. Isso é algo sobre o qual sempre escrevo.
-
-Consequentemente, na Inglaterra, a vitalidade do povo diminuiu. Por temerem a guerra e conflitos, adotaram uma postura de não-resistência. Isso é um sinal de que a nação perdeu seu vigor, enfraqueceu. Por causa disso, surgiram problemas no Irã, no Egito e em outros lugares, e, no fim, a Inglaterra perderá até mesmo suas colônias. Já não há mais energia para reverter essa situação. A medicina, portanto, foi enfraquecendo gradualmente a humanidade. Isso é um fato irrefutável. A principal causa, evidentemente, é o veneno dos medicamentos, e é imperativo que os povos dos países civilizados compreendam isso. Para tal, é preciso uma ação em escala mundial. Essa é a Vontade de Deus. O sucesso é certo, mas certamente haverá diversas mudanças. Trata-se de uma revolução pacífica, portanto, por mais drásticas que sejam as medidas, não há perigos ou riscos. Podem ficar tranquilos.
-
-##### 2-4. Os Medicamentos Não Possuem Ação Bactericida (Coletânea de Ensinamentos, vol. 8, p. 11)
-
-A causa da doença, o surgimento do bacilo da tuberculose, reside nas máculas do espírito. Removendo-as, elimina-se a causa do bacilo, e ele não mais se desenvolverá. Se não há novos bacilos, os existentes desaparecem gradualmente. Assim como os seres humanos têm um tempo de vida, o bacilo da tuberculose também o tem. Por isso, eles vão diminuindo, e os mais velhos morrem. A medicina se equivocou porque, ao observar a reprodução contínua dos bacilos, acreditou que eles se multiplicavam indefinidamente.
-
-Se um medicamento tivesse o poder real de matar um bacilo, ele também mataria o ser humano. Um remédio oral entra no estômago, passa para o intestino e, através do processo digestivo, seus componentes se espalham pelo corpo. Ao atingir todo o organismo, sua força bactericida já se dissipou. Uma injeção, por sua vez, circula pelos vasos sanguíneos, passa pelo coração e, até chegar aos bacilos no pulmão, já perdeu toda a sua potência. Para matar os bacilos de fato, o medicamento teria que ser aplicado diretamente no pulmão. E se, mesmo após circular por todo o corpo, ele ainda mantivesse seu poder bactericida, seria um veneno tão forte que a vida humana seria impossível. Matar o bacilo da tuberculose significaria matar também o ser humano. Somente assim o tratamento seria completo. E é isso que eles se esforçam diligentemente para fazer. É uma situação lamentável.
-
-##### 2-5. A Ação dos Medicamentos é Aleatória
-
-A eficácia de todos os medicamentos é meramente aleatória. É impossível explicar por qual lógica ou mecanismo eles funcionam. A essa base incerta e casual, eles dão o nome de teoria científica. Como tudo se fundamenta nessa lógica, a verdadeira lógica acaba sendo considerada ilógica.
-
-##### 2-6. O Discurso dos Médicos é Incoerente (Coletânea de Ensinamentos, vol. 14, p. 18)
-
-Recentemente, mencionei que os medicamentos estão perdendo a eficácia. Há pouco, durante um programa de rádio escolar, foi dito que o grande número de casos de disenteria este ano se deve à ineficácia das sulfas, que antes curavam a doença com relativa facilidade. Segundo os médicos, a razão da ineficácia é o uso indiscriminado por parte dos leigos. Não consigo entender por que um medicamento perderia a eficácia ao chegar às mãos de um leigo. Pelo contrário, os médicos utilizam muito mais os medicamentos, então não seria o inverso?
-
-Outra causa apontada foi que as pessoas param de tomar o remédio assim que sentem uma melhora, o que resulta em uma cura incompleta e no aumento dos casos. Tampouco compreendo essa lógica. Não seria justamente porque o remédio está fazendo efeito que as pessoas param de tomá-lo? Uma leve melhora na diarreia e já pensam que estão curadas. Dizem que isso é um erro.
-
-Em suma, o que os médicos dizem não tem fundamento. Sua lógica é incoerente. É tudo confuso e sem sentido. Suas mentes parecem estar perturbadas. Diante disso, a única recomendação que sempre fazem é lavar as mãos e evitar que moscas pousem nos alimentos e utensílios. É uma situação verdadeiramente patética.
-
-##### 2-7. Por que os Medicamentos Perdem a Eficácia? (Coletânea de Ensinamentos, vol. 19, p. 16)
-
-Com a intensificação da purificação, diversas mudanças vêm ocorrendo. Há poucos dias, um jornal noticiou que a penicilina já não é mais eficaz, assunto que abordarei na próxima edição da revista "Eikou". Ficou claro que a penicilina não é mais confiável e, portanto, tornou-se inútil. Se fosse ineficaz desde o início, não teria se popularizado como o fez. No começo, ela funcionava. Para a medicina, "funcionar" significa "solidificar". Ela tinha o poder de solidificar as toxinas, e nesse sentido, era eficaz.
-
-O estranho é que algo que funcionava há dez anos hoje não funciona mais. O ser humano não mudou nesse período; o que mudou foi o efeito do medicamento. Os médicos apresentaram várias justificativas, mas todas pareciam desculpas esfarrapadas, ditas em um momento de apuro. Alegaram que os micróbios se tornaram mais fortes. Ou seja, a ação da penicilina de enfraquecer os micróbios teria feito com que estes desenvolvessem resistência, tornando-se mais fortes e anulando o efeito do medicamento. Contudo, ouvi ontem que, embora isso pudesse ser verdade para quem usa penicilina continuamente, o mesmo ocorre com quem nunca a tomou: ela simplesmente não funciona. Essa lógica, portanto, não se sustenta.
-
-Como a medicina não tem a resposta, eles inventam alguma teoria para não abalar sua autoridade ou a credibilidade da ciência. Ouve-se muito isso nos jornais e no rádio. Eles criam argumentos para que as pessoas continuem a acreditar na medicina, mas, para nós, a farsa é transparente. O público, por desconhecer a verdade, continua a ser enganado. Assim, eles vão levando a situação de engano em engano.
-
-Por enquanto, é apenas a penicilina, mas a estreptomicina também já está sob suspeita. Em breve, ela também será considerada inútil. Em seguida, a aureomicina, a terramicina e o PAS seguirão o mesmo caminho. Ontem, alguém comentou que o último recurso seria a Terramicina, cujo nome em japonês soa como "avançar rumo ao templo" (*tera maishin*). De fato, parece ser esse o destino. Com isso, os medicamentos para tuberculose e outras doenças desaparecerão. Chegaremos a um ponto em que a medicina não conseguirá mais curar as doenças. A partir de então, nossa missão começará para valer. E não falta muito; esse tempo chegará relativamente em breve.
-
-#### 3. O Maior Estelionato é a Venda de Medicamentos (Coletânea de Ensinamentos, vol. 26, p. 49)
-
-Outro ponto que passa despercebido, e sobre o qual escreverei em breve, é que vivemos em uma "Era do Estelionato". O mundo de hoje está repleto de fraudes. A maior delas é a venda de medicamentos de balcão. Os anúncios nos jornais são abundantes e, se lidos com atenção, percebe-se que não prometem a "cura". A redação é astuta. Dizem que o produto "é muito adequado para tal doença", "proporciona bem-estar", "acelera a recuperação" ou "alivia os sintomas". Mas a palavra "cura" não está lá. A intenção é fazer o consumidor acreditar que será curado.
-
-Na realidade, a cura não acontece, e os próprios fabricantes sabem disso. A legislação sobre medicamentos de venda livre estipula apenas que o produto não pode ser prejudicial. Para que um medicamento seja eficaz, ele precisa conter veneno, pois é a molécula de veneno que produz o efeito. A lei, portanto, proíbe isso. No entanto, se não houver um mínimo de efeito, ninguém comprará. Assim, esses medicamentos apenas contêm menos veneno do que os prescritos pelos médicos. Vender um produto que não cura, fazendo parecer que cura para obter dinheiro, é crime de estelionato.
-
-Ainda mais grave é quando o médico diz: "Sua doença será curada em uma semana. Continue o tratamento por duas semanas para garantir". Vemos isso constantemente nos relatos de graças, mas na realidade, nunca acontece. O médico também não tem certeza e pensa: "Provavelmente vai curar". Se ele dissesse a verdade — "Casos como o seu não têm cura. Pela minha experiência, ninguém jamais se curou" —, não conseguiria se sustentar. Portanto, não se trata de estelionato, mas de um crime inevitável. E existem muitos crimes inevitáveis como esse.
-
-### Dois — Sobre o Veneno dos Medicamentos
-
-#### 1. Medicamentos da Farmacopeia Chinesa (Kampo)
-
-##### 1-1. Pacientes que Consumiram Grandes Quantidades de Gennoshouko e Dokudami Levam Mais Tempo para se Curar com o Johrei (Coletânea de Ensinamentos, vol. 19, p. 43)
-
-Os medicamentos da farmacopeia chinesa são extremamente nocivos, e além disso, são consumidos em grandes quantidades. Por essa razão, por mais que se ministre Johrei, o veneno continua a se acumular. Refiro-me especificamente aos medicamentos chineses. Os medicamentos ocidentais, por sua vez, manifestam-se rapidamente como furúnculos ou abcessos, sendo, nesse aspecto, mais fáceis de eliminar. Dentre eles, os mais perigosos são os desinfetantes, como já mencionado.
-
-Na farmacopeia chinesa, os mais temíveis são o *gennoshouko* e o *dokudami*. O nome *dokudami* parece derivar de "acúmulo de veneno" (*doku-dame*). Essa planta é muito consumida por mulheres que trabalham no mundo do entretenimento noturno. Antigamente, as gueixas bebiam chá de *dokudami* constantemente, em vez de chá comum. Por isso, a tez dessas mulheres, sem maquiagem, é muito ruim, o que se deve ao veneno dessas infusões. A intoxicação por medicamentos chineses é, portanto, muito mais comum entre as mulheres. Remédios como o Chujoto e muitos outros são todos da farmacopeia chinesa. Assim, a beleza feminina é gravemente prejudicada por esses medicamentos. Tendo isso em mente, é preciso explicar aos pacientes que, quanto maior a quantidade de medicamentos chineses consumida, mais tempo levará a cura pelo Johrei. Se nós, ministros, também tivermos essa consciência ao aplicar o Johrei, a diferença será considerável.
-
-##### 1-2. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Novos Fármacos (Registro de Orientações Divinas, vol. 23, p. 13)
-
-Talvez os medicamentos da farmacopeia chinesa sejam mais perigosos que a estreptomicina ou a penicilina. Isso porque são consumidos em quantidades muito maiores.
-
-##### 1-3. Os Medicamentos da Farmacopeia Chinesa Abreviam a Vida (Coletânea de Ensinamentos, vol. 29, p. 24)
-
-O recente aumento da expectativa de vida se deve ao abandono dos medicamentos chineses e à adoção dos medicamentos ocidentais. Antigamente, dizia-se que os estrangeiros viviam mais que os japoneses, e a razão era a não utilização da farmacopeia chinesa. Portanto, para abreviar a vida, não há nada como os medicamentos chineses... É uma forma estranha de dizer, mas é a verdade. O aumento da longevidade nos últimos tempos deve-se, portanto, ao desuso da medicina chinesa e à substituição dos medicamentos ocidentais por antibióticos, que paralisam a purificação de forma eficaz e com relativamente poucos efeitos colaterais.
-
-##### 1-4. Sobre a Planta Habuso (Registro de Orientações Divinas, vol. 3, p. 22)
-
-"Em algumas regiões, as pessoas bebem chá de *habuso*."
-
-A *habuso* não causa grandes problemas.
-
-##### 1-5. Sobre a Intoxicação por Gennoshouko (Coletânea de Ensinamentos, vol. 7, p. 79)
-
-O *gennoshouko* afeta exclusivamente o abdômen. A intoxicação por ele é muito persistente. O único problema, portanto, é a debilidade física. À medida que se ministra Johrei, o veneno diminui e a pessoa melhora, mas, como consequência, o apetite pode diminuir, causando fraqueza. Se a pessoa conseguir suportar essa fase, será curada. Se a debilidade a vencer, o prognóstico é perigoso. Tudo depende da quantidade de medicamento ingerida, o que é impossível de estimar. (...) O inchaço abdominal ocorre quando o veneno, que estava solidificado, começa a se dissolver. (...) Deve-se concentrar o Johrei no abdômen e nos rins.
-
-##### 1-6. Uma Chaleira de Infusão de Ervas Chinesas Contém um Veneno Terrível (Coletânea de Ensinamentos, vol. 19, p. 18)
-
-A purificação se intensifica gradualmente, e, ultimamente, muitas purificações são de medicamentos ingeridos por via oral. Os sintomas incluem peso no estômago, falta de apetite ou vômitos. A purificação de medicamentos orais, especialmente os da farmacopeia chinesa, tornou-se muito frequente. Como são consumidos em grande quantidade, mesmo uma única chaleira de infusão contém um veneno terrível. Esse veneno se acumula ao redor do estômago, infiltra-se e se solidifica. Com a intensificação da purificação, ele retorna ao estômago, causando peso e perda de apetite. Pessoas com esse quadro invariavelmente têm nódulos nas costas, à esquerda, à direita ou em ambos os lados, e também ao longo da coluna vertebral. A dissolução desses nódulos traz grande alívio. Em casos graves, a falta de apetite pode levar a uma grande debilidade. Portanto, deve-se ministrar Johrei com o objetivo de dissolver esses nódulos nas costas.
-
-##### 1-7. Gennoshouko e Ruibarbo (Daio) (Coletânea de Ensinamentos, vol. 19, p. 35)
-
-É preciso ter em mente a questão dos medicamentos da farmacopeia chinesa. Muitas pessoas, ao ouvirem falar do veneno dos medicamentos, não consideram os remédios chineses como tal. Quando digo a alguém: "Sua doença é causada pelo veneno dos medicamentos. O senhor deve ter tomado muitos remédios", a pessoa responde: "Não tomei muitos". Insisto: "Não é possível". E ela admite: "Quando criança, tomei uma infusão, mas foram só duas ou três chaleiras". Eu explico: "É exatamente isso". E a pessoa fica surpresa. Duas ou três chaleiras de uma infusão chinesa contêm um veneno terrível. A razão pela qual a expectativa de vida dos japoneses diminuiu foi o uso desses medicamentos.
-
-A história mostra que, até cerca do ano mil, as pessoas viviam mais de cem anos. A partir dos séculos XIV e XV, a longevidade diminuiu drasticamente. A farmacopeia chinesa foi introduzida no Japão pouco depois do ano mil. No reinado do Imperador Kinmei, houve uma epidemia, que era a varíola, doença até então inexistente no Japão. Os medicamentos chineses são os que mais abreviam a vida. O recente aumento da longevidade deve-se ao fato de não os consumirmos mais. Nesse aspecto, os medicamentos ocidentais são relativamente menos prejudiciais. Contudo, fármacos recentes como a penicilina e a hidrazida são muito tóxicos, e seu uso contínuo certamente levará a consequências terríveis.
-
-A intoxicação por medicamentos chineses é mais visível na cor da pele. Tons amarelados ou azulados-escuros são sinais dessa intoxicação e podem ser confirmados com uma investigação. Muitas pessoas têm a pele inchada e azulada, especialmente as mulheres, que consomem mais esses medicamentos do que os homens. O mais perigoso de todos, como sempre digo, é o *gennoshouko*. Quem o tomou, pode-se dizer que dificilmente sobreviverá. Em segundo lugar vem o *dokudami*, e há vários outros.
-
-Meu pai faleceu aos cinquenta e seis anos, uma morte muito prematura. Para tratar uma constipação, ele tomou diariamente, por vinte ou trinta anos, um medicamento chamado ruibarbo (*daio*), sem falhar um único dia. Se não o tomasse, sentia-se mal. Antes de morrer, desenvolveu uma doença cardíaca. O médico disse que ele não viveria mais que seis meses, e, de fato, ele faleceu alguns meses depois. No momento da morte, a pele de seu escroto se rompeu, liberando um líquido de odor fétido. Na época, eu era jovem e não compreendi, mas hoje sei que foi uma intoxicação por ruibarbo.
-
-A cor da pele é o sinal mais claro. Por isso, muitos chineses têm a pele amarelada e raramente rosada. É o efeito da intoxicação por medicamentos chineses, que lá, sendo o berço dessa prática, são muito mais consumidos. Portanto, em casos de intoxicação por medicamentos, investigar o uso da farmacopeia chinesa é um caminho seguro. Os agricultores do interior também costumam ter a pele amarelada. As pessoas da cidade têm a pele branca ou pálida, mas no campo, o tom amarelado é comum. Dizem que é por causa da má alimentação, mas não é verdade; é porque bebem infusões de ervas. Mesmo com uma dieta pobre, se um agricultor não tomar esses medicamentos, sua pele será rosada.
-
-Percebi isso claramente na primavera do ano passado, quando o abade do templo Yakushiji, Hashimoto Gyo-in, me visitou. Conversamos por meio dia. Ele tinha um rosto incrivelmente rosado, uma tez exemplar. Era corpulento e de uma saúde robusta. Havia nele uma beleza masculina, uma formosura que me cativou. Tinha cinquenta e seis anos e era estritamente vegetariano. Preparei-lhe um jantar especial, sem usar nem mesmo flocos de peixe seco, uma refeição puramente vegetariana. Segundo a nutrição, ele deveria ter a pele pálida por desnutrição, mas era o oposto.
-
-Isso mostra como a intoxicação por medicamentos chineses é terrível, e é importante falar sobre isso. Deve-se ministrar Johrei com essa consciência. Quando, mesmo com o Johrei, o veneno continua a se manifestar, geralmente se trata de medicamentos chineses, que são consumidos em grande quantidade, como um remédio de uso contínuo por muitos anos. É por isso que a pele fica ruim e muitas mulheres perdem a beleza.
-
-##### 1-8. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Ocidentais (Coletânea de Ensinamentos, vol. 31, p. 66)
-
-No Havaí, há uma particularidade em relação ao Japão: as doenças curam-se com muito mais facilidade. Além disso, purificações secundárias e outras complicações raramente ocorrem. A cura é limpa e definitiva. É um tanto misterioso, mas a razão é que quase ninguém lá consome medicamentos da farmacopeia chinesa. Os senhores, pela experiência, sabem que no Japão, mesmo durante o processo de cura pelo Johrei, o veneno dos medicamentos continua a emergir incessantemente. A quantidade de veneno é imensa. A causa disso são os medicamentos chineses.
-
-Os medicamentos ocidentais, embora mais tóxicos, são consumidos em quantidades muito menores e, por isso, são mais fáceis de eliminar. Essa compreensão tem se tornado cada vez mais clara para nós. A tuberculose, por exemplo, frequentemente apresenta purificações secundárias. Embora os medicamentos ocidentais contribuam, os pacientes com tuberculose, ao não obterem a cura com eles, geralmente recorrem, por desespero, aos medicamentos chineses. Portanto, a principal causa das purificações secundárias na tuberculose é a farmacopeia chinesa. Como essas infusões são bebidas como se fossem chá, a quantidade ingerida é enorme. Por mais que se elimine, o veneno continua a sair. Tudo isso é veneno de medicamentos chineses.
-
-O ser humano tem sido verdadeiramente tolo. Se abandonasse completamente os medicamentos, viveria mais de cem anos. É como usar fertilizante e impedir que o arroz cresça. Estávamos abreviando a vida com remédios. É por isso que no Havaí as curas são tão fáceis.
-
-#### 2. Salvarsan 606
-
-##### 2-1. Sobre a Intoxicação por Salvarsan 606 (Coletânea de Ensinamentos, vol. 6, p. 81)
-
-O Salvarsan 606 pode causar cegueira. Sua intoxicação manifesta-se como cegueira e doença mental. A desculpa, no entanto, é perfeita. Como o Salvarsan é usado para tratar a sífilis, quando a visão piora ou surge uma doença mental, a culpa é atribuída à própria sífilis. Eles sempre encontram uma justificativa.
-
-##### 2-2. Sífilis e Salvarsan 606 (Coletânea de Ensinamentos, vol. 1, p. 18)
-
-"Recebi a graça de ingressar na fé em maio de 1950. Em março de 1949, contraí sífilis e, por recomendação médica, recebi vinte e cinco injeções de Salvarsan 606. Um ano depois, o exame de sangue deu positivo, mas como não tinha sintomas, casei-me. Em maio de 1950, meu marido e eu ouvimos os maravilhosos ensinamentos e ingressamos juntos na fé. Desde então, vivemos dias de gratidão. Contudo, ambos sentimos dores ocasionais na lombar e mal-estar. Em maio deste ano, fizemos exames de sangue, e ambos os resultados foram fortemente positivos (três cruzes). O médico recomenda tratamento, dizendo que, se não o fizermos, as consequências serão terríveis. Não me preocupo com as palavras do médico, mas atualmente sentimos dores na lombar e o corpo pesado, embora isso não nos impeça de trabalhar. O que devo fazer? Peço sua orientação."
-
-Positivo ou negativo não importa. A sífilis cura-se rapidamente, em uma semana. O problema é o Salvarsan 606. A dor lombar é, com certeza, causada por ele. A sífilis não causa dor nem coceira; é uma doença assintomática. Antigamente, as doses de Salvarsan eram muito fortes, mas hoje, talvez por terem aprendido ou por astúcia, os médicos não usam doses tão altas. Vinte e cinco injeções devem ser de uma solução muito diluída. Já ouvi falar de muitos que aplicam Salvarsan apenas para ganhar dinheiro. Certa vez, um conhecido meu passou por uma farmácia perto de sua casa e comentou: "Estou tomando injeções de Salvarsan 606". "Onde?", perguntou o farmacêutico. "Naquele consultório." "Faz sentido, ele compra de mim. Quanto você paga?" Ao ouvir o valor, o farmacêutico disse: "Ele está lucrando muito com isso".
-
-Quanto ao Johrei, ministre apenas no local da dor lombar quando ela ocorrer. O mal-estar é a febre gerada pela purificação do Salvarsan que se acumulou e está sendo expelido naquela região. Ministrar Johrei apenas ali é suficiente.
-
-##### 2-3. Salvarsan 606, Desinfetantes e Gennoshouko são Potentes (Registro de Orientações Divinas, vol. 8, p. 2)
-
-"O veneno do Salvarsan 606 não pode ser totalmente eliminado em uma única geração, não é?"
-
-O Salvarsan 606 é potente. Ele, os desinfetantes e, na farmacopeia chinesa, o *gennoshouko* são os mais fortes. É a prova viva de sua ineficácia.
-
-##### 2-4. O Salvarsan 606 Prejudica o Raciocínio (Registro de Orientações Divinas, vol. 4, p. 68)
-
-"Onde o veneno do Salvarsan 606 se manifesta no corpo?"
-
-A principal característica é seu efeito na cabeça. Sem exceção, ele prejudica o raciocínio. A pessoa desenvolve distúrbios mentais, fala coisas estranhas, seus pensamentos se desviam da normalidade. Existem médicos que aplicam doses mais fracas e outros que usam doses mais fortes. Doses fracas requerem um maior número de aplicações. Antigamente, o tratamento era limitado a doze injeções, mas hoje, com soluções diluídas, chegam a cinquenta, sessenta. (...)
-
-Quando o Salvarsan 606 foi introduzido no Japão, havia um jovem com um problema na cabeça. O médico, suspeitando de sífilis, aplicou uma injeção diretamente em sua cabeça. O nome dele era Matsushita. Pouco tempo depois, ele enlouqueceu. A história está registrada no livro "O Evangelho do Céu".
-
-"Eu também perdi todo o meu cabelo por um tempo."
-
-Parece que sua mente não foi afetada. Ou talvez tenha sido e depois se curou. Nesse caso, não há perigo.
-
-#### 3. Desinfetantes
-
-##### 3-1. Desinfetantes e a Dor (Coletânea de Ensinamentos, vol. 31, p. 64)
-
-Como sempre digo, os desinfetantes invariavelmente se transformam em dor. Pode-se assumir, sem grande margem de erro, que quase todas as doenças dolorosas são causadas por desinfetantes. Contudo, não é tão simples quanto pensar que a dor em um local específico foi causada pela aplicação de um desinfetante naquele mesmo local. Por exemplo, uma pessoa com dor de cabeça pode ter o veneno de um desinfetante usado em uma cirurgia nas mãos ou nos pés que subiu e se solidificou na cabeça. Portanto, em casos de dor, deve-se sempre perguntar sobre cirurgias anteriores. Assim, a causa fica mais clara.
-
-Ultimamente, tenho ouvido muitos relatos de que pessoas com dor de dente, quase invariavelmente, fizeram a remoção do apêndice. A cirurgia de apendicite é a que mais se manifesta como dor de dente. É algo completamente inesperado. Se a dor de dente cessa após uma ou duas sessões de Johrei, a causa é local. Geralmente, a dor de dente é causada pelo desinfetante aplicado antes de uma extração ou obturação. Já escrevi sobre isso antes. Ao ir ao dentista para uma obturação, ele sempre aplica um desinfetante antes, e isso invariavelmente causa dor posterior. O desinfetante se decompõe e tenta sair, o que se manifesta como dor. Se o procedimento fosse feito sem desinfetante, não haveria dor. É uma prática verdadeiramente tola.
-
-Contudo, se a dor não cessa após uma ou duas sessões, deve-se perguntar sobre a cirurgia de apendicite. O desinfetante usado nessa cirurgia sobe gradualmente pelo corpo, passa pelo peito e tenta sair pelos dentes. A descoberta de que a causa da dor de dente é a cirurgia de apendicite é uma grande revelação mundial.
-
-#### 4. Novos Fármacos
-
-##### 4-1. Sobre as "Micinas" (Registro de Orientações Divinas, vol. 3, p. 33)
-
-"O jornal noticiou a importação de 5,05 milhões de dólares em 'micinas'."
-
-Que bom. Mas elas não são tão terríveis. Afinal, são derivadas de mofo.
-
-"Dizem que são piores que a penicilina."
-
-A penicilina é mofo puro. As outras devem ser modificações dela. Não são de origem mineral.
-
-##### 4-2. Sobre o Nível de Risco no Uso de Estreptomicina e Hidrazida (Registro de Orientações Divinas, vol. 23, p. 12)
-
-"Embora a estreptomicina e a hidrazida sejam venenos potentes, a partir de quantas injeções elas representam um risco à vida?"
-
-Isso é impossível de saber. Depende do corpo de cada pessoa. Há quem suporte cinquenta injeções de estreptomicina sem problemas, e há quem se debilite muito com dez ou vinte. Depende da constituição física do indivíduo. Além disso, a dosagem utilizada pelo médico, em unidades, não é um dado confiável. Ele pode ajustar a dose com base em sua avaliação da resistência do paciente. Não há como saber.
-
-Essa questão não precisa ser motivo de preocupação. Deve-se considerar também o histórico médico da pessoa e os diversos medicamentos que ela já tomou, incluindo os anteriores às "micinas" e os da farmacopeia chinesa, que são terrivelmente perigosos.
-
-##### 4-3. Manifestação da Purificação de Estreptomicina e Pontos de Johrei (Revista Paraíso Terrestre, nº 13, p. 21)
-
-"Como se manifesta o veneno da estreptomicina? Ele pode ser eliminado com Johrei? E em quais pontos devemos ministrar?"
-
-Como a ação desse medicamento é desconhecida, é difícil responder como ele se manifestará. Em suma, deve-se localizar os pontos onde o veneno do medicamento se acumulou e ministrar Johrei ali.
-
-#### 5. BCG
-
-##### 5-1. A Suspensão Temporária do BCG (Coletânea de Ensinamentos, vol. 3, p. 57)
-
-O jornal de hoje noticiou que a aplicação do BCG será suspensa por um tempo. No programa de rádio "Visita da Manhã", um médico foi entrevistado sobre o assunto. Ele deu respostas vagas e não se pronunciou claramente, mas também não defendeu o BCG. Quem se opôs ao BCG foi um médico americano que realizou um estudo mundial comparando regiões onde a vacina era aplicada e onde não era. Ele constatou que, nas regiões onde o BCG era usado, a incidência de tuberculose era muito maior, e onde não era, muito menor. O médico no rádio argumentou com base na teoria, mas a questão fundamental é a prática, a realidade.
-
-A opinião pública contrária ao BCG cresceu. O governo japonês, percebendo isso, e com ministros se manifestando sobre o perigo, decidiu suspendê-lo, mesmo que temporariamente. A suspensão foi motivada pelos resultados práticos. Em breve, a penicilina e a estreptomicina também serão consideradas inúteis. Podem observar. Por desconhecerem o veneno dos medicamentos, eles se empenham tanto em usá-los. Do nosso ponto de vista, é uma situação digna de pena.
-
-##### 5-2. O BCG Deixou de Solidificar (Coletânea de Ensinamentos, vol. 4, p. 21)
-
-*Artigo "A Questão do BCG (O Veneno Potente do BCG)" (Revista Eikou, nº 130)*
-
-Pretendo publicar este artigo na próxima edição da revista "Eikou" e enviá-lo ao Ministro da Saúde. Como a purificação no Mundo Espiritual se intensificou, o BCG, que antes solidificava as toxinas, deixou de fazê-lo. A criança mencionada no artigo, por ser membro, não teve as toxinas solidificadas, e por isso o efeito adverso se manifestou imediatamente. À medida que os medicamentos perdem seu poder de solidificação, o que antes não causava problemas passará a agravar o estado do paciente. Assim, as pessoas compreenderão, queiram ou não, a existência do veneno dos medicamentos. E então, finalmente, perceberão: "Aquela coisa estranha que a Igreja Messiânica dizia... era isso".
-
-Alguns médicos parecem estar lendo nossas publicações, pois ocasionalmente percebo que incorporam minhas teses em seus discursos. Prestando atenção, nota-se que isso ocorre com certa frequência.
-
-##### 5-3. Quem Recebe o BCG Acabará se Tornando um Paciente de Tuberculose (Coletânea de Ensinamentos, vol. 4, p. 9)
-
-Outro ponto é a questão do BCG, que tem gerado grande polêmica. Ouvi um relato de graça excelente sobre o assunto, que publicarei na próxima edição da "Eikou" e enviarei ao Ministro da Saúde. (*Artigo "A Questão do BCG"*)
-
-Até agora, dizia-se que aplicar o BCG em alguém com suspeita de tuberculose impedia o desenvolvimento da doença. "Suspeita" significa que a purificação está ocorrendo ou prestes a ocorrer. O BCG solidifica essa purificação, proporcionando uma melhora temporária por seis meses ou um ano. Mas uma única aplicação não é suficiente, pois a solidificação nunca é definitiva. Em algum momento, o veneno se dissolverá. Portanto, quem recebe o BCG acabará, inevitavelmente, se tornando um paciente de tuberculose.
-
-#### 6. Intoxicação por Cosméticos
-
-##### 6-1. Com a Pele Debilitada por Medicamentos e Injeções, os Cosméticos se Tornaram Ainda Mais Tóxicos (Coletânea de Ensinamentos, vol. 19, p. 42)
-
-A intoxicação por medicamentos chineses, especialmente em mulheres, deixa a pele extremamente ruim, seca e sem brilho. A pele das mulheres de hoje já vem sendo prejudicada por gerações, pelo uso de medicamentos chineses por seus ancestrais. A isso se somam os medicamentos ocidentais potentes e as injeções, que a degradam ainda mais. Para completar, os cosméticos atuais contêm medicamentos. Antigamente, a base de arroz continha, no máximo, veneno de chumbo. Hoje, além do chumbo, há o veneno dos medicamentos. Por isso, a pele das mulheres modernas é péssima. Mesmo as jovens, sem maquiagem, são impresentáveis.
-
-Os cosméticos, por sua vez, "evoluem" cada vez mais. É uma evolução na arte de disfarçar. A aparência imediata é de beleza, mas para isso é preciso aplicar camadas espessas de vários produtos. Nos salões de beleza, aplicam toalhas quentes e outros procedimentos. Mas a mulher foi criada por Deus para ser bela sem tantos artifícios. Atualmente, o país com a pior qualidade de pele no mundo são os Estados Unidos. A pele das jovens americanas é, segundo relatos, terrivelmente áspera, devido ao uso constante de diversos medicamentos e tratamentos.
-
-O uso do batom, por exemplo, tornou-se necessário porque a cor dos lábios é ruim. O blush também é um contrassenso; as bochechas deveriam ser naturalmente rosadas. Tudo isso é resultado do veneno dos medicamentos, que deteriora a pele. Por isso, as jovens de hoje se entregam cada vez mais aos cosméticos.
-
-##### 6-2. Sobre a Sensação de Calor na Cabeça (Nobose) (Coletânea de Ensinamentos, vol. 19, p. 38)
-
-A sensação de calor que sobe à cabeça, conhecida como *nobose*, é mais comum em mulheres do que em homens. A causa é a intoxicação por cosméticos.
-
-#### 7. Outros
-
-##### 7-1. Intoxicação por Antipirina (Registro de Orientações Divinas, vol. 28, p. 25)
-
-Em minha juventude, tomei antipirina. A intoxicação por ela é terrível. O corpo todo coça de forma insuportável, a ponto de não se conseguir ficar parado. É uma agonia que faz querer pular.
-
-##### 7-2. Albazil (Registro de Orientações Divinas, vol. 28, p. 30)
-
-"Tenho angina e, quando uso Albazil, a pele fica com manchas arroxeadas."
-
-É o veneno do medicamento solidificado ali. Sangue tóxico coagulado.
-
-"Com os remédios que o médico me dá, às vezes as manchas aparecem, outras não. Quando experimento e sinto que tem Albazil, as manchas aparecem naquela mesma noite. Isso significa que o veneno acumulado está se dissolvendo e saindo?"
-
-Pode ser o veneno acumulado que está saindo, pode ser o veneno novo, ou pode depender do tipo de Albazil. Existem formulações feitas para sair rapidamente e outras não, mais concentradas ou mais diluídas. Mas as mortes por Albazil são muito comuns. Hoje em dia, sua produção foi quase interrompida. É um medicamento terrivelmente perigoso. Como o efeito é imediato, causa dependência.
-
-"Os sintomas de angina podem ser causados pelo uso excessivo de Albazil?"
-
-Sem dúvida. O Albazil parece ser muito eficaz para a vida... para acabar com ela. Já ouvi falar de muitas pessoas que morreram por causa do Albazil.
-
-##### 7-3. Adorm e Metil (Registro de Orientações Divinas, vol. 4, p. 41)
-
-"Uma mulher de vinte e oito anos tentou o suicídio ingerindo trinta comprimidos de Adorm e outros dez de outro medicamento. Cinco horas depois, foi encontrada. Fui chamado ao local, onde um médico já havia chegado, aplicado cinco ou seis injeções e providenciado sua internação. O médico achava que ela não sobreviveria, mas, após dois dias, ela recuperou a consciência e sobreviveu. A família a trouxe de volta para casa. Ela está recebendo Johrei e se recuperando bem. Nesse caso, onde devo ministrar?"
-
-Como ela ingeriu os medicamentos, o veneno não foi para as costas. Ministre no estômago e nos intestinos.
-
-"Ela diz que a cabeça não está bem."
-
-Alguns venenos afetam a cabeça. Nesse caso, ministre Johrei na cabeça. E a consciência?
-
-"Está quase totalmente recuperada."
-
-Não há com o que se preocupar. A intoxicação é temporária. O mesmo vale para o álcool metílico. Os efeitos são passageiros. O metil também afeta a cabeça.
-
-##### 7-4. Medicamentos de Uso Tópico (Coletânea de Ensinamentos, vol. 1, p. 55)
-
-"Minha filha de quatro anos, membro da Igreja, sofreu uma queimadura no rosto com um brinquedo de celuloide aos dois anos e meio. Ela recebeu uma injeção diária contra infecção por cinquenta dias e usou uma pomada por noventa dias. Atualmente, ela tem uma cicatriz no rosto e não tem a sobrancelha esquerda. Peço sua orientação sobre o caso."
-
-Cinquenta dias de injeção... esse é o problema. Ela será curada. O melhor seria não ter feito nada, ou então ter ministrado Johrei, e a cura teria sido rápida. A pomada também é prejudicial. A recuperação dependerá da eliminação desse veneno, que sairá gradualmente. A falta da sobrancelha também se deve a isso; o medicamento impede o crescimento dos pelos. Se continuar a receber Johrei, ela será curada. Não se preocupe. É mais uma vítima dos medicamentos.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
-
-**Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** -
-
-## Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
-*Por Fujikake Shizuya, Doutor em Letras*
-
-O Museu de Arte de Hakone foi fundado em junho de 1952, em Hakone-Gora, pelo Líder Espiritual da Sekai Kyusei Kyo, o Senhor Okada Mokichi. Seu anexo, o Pavilhão de Ukiyo-e, foi inaugurado em junho do ano seguinte, 1953, como uma ala especial.
-
-O edifício principal, com seus três pavimentos, ergue-se com uma fachada alva, imponente e nobre, dominando a sublime beleza natural de Gora. O terceiro pavimento abriga uma sala de recepção para convidados ilustres, em estilo japonês, em cuja alcova se encontra pendente uma imagem venerável de Kannon (観音), com a assinatura de Jikan (自観). Trata-se de uma obra do próprio Líder Espiritual, dotada de uma elegância inalcançável aos pintores profissionais e de uma força solene. Deste aposento, que se posiciona defronte ao Monte Myojogatake, famoso pela celebração do Daimonji, avista-se ao longe o Oceano Pacífico, compondo um panorama de beleza excepcional. O primeiro e o segundo pavimento são dedicados às exposições, com iluminação primorosa, e o esmero na concepção das vitrines para as obras de arte é notável, revelando um projeto museológico de excelência.
-
-Consta que toda a concepção do museu foi fruto do planejamento e do desígnio do próprio Líder Espiritual. De fato, ele devotou sua alma a este museu. Segundo suas próprias palavras, seu anseio era criar um Paraíso da Beleza para apresentá-lo ao mundo. Para tal, elegeu as cidades de Atami e Hakone. Reuniu obras de arte capazes de elevar a sensibilidade humana, com o propósito de mostrar os tesouros do Japão aos estrangeiros e, aos japoneses, proporcionar uma oportunidade de profunda apreciação. Desejava, ademais, que servissem como referência e inspiração para os artistas.
-
-Nesse sentido, ele se dedicou pessoalmente a cada detalhe, do início ao fim. Até mesmo o jardim é inteiramente fruto de seu planejamento, e cada árvore, cada folha de relva, recebeu sua atenção e seu espírito. Assim, edificou um museu de estrutura sólida para reunir, proteger e preservar os tesouros do Japão, almejando que fossem apreciados pelo maior número de pessoas. Sua esperança era a de que tal iniciativa pudesse também contribuir para a conservação do patrimônio nacional.
-
-Pode-se, com isso, inferir a profundidade das intenções do Líder Espiritual.
 
 ---
 

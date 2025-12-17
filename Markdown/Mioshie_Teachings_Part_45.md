@@ -1,9 +1,910 @@
 # Mioshie_Teachings - Part 45
 
+# Uma Tese Estratégica sobre a Grande Guerra
+
+**Categoria:** ta | **Ano:** 昭和18(1943)年 | **Fonte:** Dougi
+**Título Original:** 大東亜戦争戦略論 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1943
+
+## Uma Tese Estratégica sobre a Grande Guerra
+
+**I. A Guerra e a Esfera de Coprosperidade devem ser renomeadas para “Grande Ásia”**
+
+O propósito derradeiro da presente Grande Guerra consiste, indubitavelmente, em consumar o magno preceito nacional do *Hakkō Iu* (八紘為宇), proclamado por Sua Majestade o Imperador Jinmu. A hora celestial finalmente chegou, e foi por essa razão que se iniciou esta grandiosa Guerra Santa. O cerne deste vasto Desígnio Divino, cumpre não esquecer, é substituir a visão de mundo anglo-americana — que por longos anos acumulou crimes desumanos ao oprimir nações mais fracas e explorar suas riquezas para desfrutar de prosperidade e felicidade exclusivas — por um ideal fundamentado na mais estrita retidão moral, cujo nobre intento, de inspiração genuinamente humanitária e divina, é permitir que todas as nações do mundo encontrem o seu devido lugar.
+
+O preceito do *Hakkō Iu* (八紘為宇) não se restringe, de modo algum, ao território da Ásia Oriental. É perfeitamente claro que, com o tempo, toda a Ásia e, quiçá, o mundo inteiro deverão ser abarcados por essa esfera. Nesse sentido, podemos considerar que as bases da primeira etapa deste Desígnio Divino no Oriente asiático já estão, em grande medida, estabelecidas. Portanto, é imperativo que avancemos para a fase seguinte. Em outras palavras, o próximo passo deve ser a incursão na Índia, e a conjuntura atual revela que a ocasião para tal amadurece gradualmente.
+
+Assim, sob qualquer perspectiva que se analise, a Guerra da Grande Ásia Oriental apresenta agora contornos que a projetam para uma dimensão mais ampla, a de uma Guerra da Grande Ásia. Diante disso, não seria apropriado renovar sua nomenclatura para “Guerra da Grande Ásia” e “Esfera de Coprosperidade da Grande Ásia”?
+
+Ademais, sob outra perspectiva, o anúncio dessa mudança infligiria um profundo abalo psicológico nos inimigos anglo-americanos. Ao mesmo tempo, serviria de inspiração não apenas para o nosso povo, mas para todas as etnias da Esfera de Coprosperidade, elevando seu moral e renovando suas esperanças. Para os povos a oeste da Índia, no sudoeste asiático, tal anúncio não somente lançaria uma luz resplandecente sobre o seu futuro, mas também desviaria a atenção do inimigo para aquela região, funcionando como uma força de contenção. Desta forma, poderíamos esperar o proveito de três benefícios com uma única ação.
+
+**II. A Missão da Pátria Imperial**
+
+O Grande Império do Japão é uma nação sagrada e inviolável, única no mundo. É nossa missão intrínseca, pelo Augusto Poder e pela Infinita Virtude de Sua Majestade Imperial, governar o mundo inteiro, fazendo com que os bilhões de seres humanos encontrem paz e segurança em seus devidos lugares, a fim de edificar um mundo límpido, alicerçado na retidão moral. É fundamental que reconheçamos plenamente que nossa nação possui o desígnio celestial de substituir a antiga cultura judaica, baseada na lei do mais forte, por uma nova cultura, fundamentada na visão de mundo japonesa.
+
+Por essa razão, mesmo em matéria de estratégia, não se podem tolerar atos de agressão ou pirataria como os praticados por nossos inimigos anglo-americanos, o que já se tem demonstrado nos fatos. É preciso atentar para isso. Refiro-me aos reveses em Guadalcanal, onde o Exército Imperial sofreu um número de baixas sem precedentes, e ao resultado similar na ilha de Attu. Nesses acontecimentos, é possível vislumbrar a profunda Vontade de Deus. Sendo Guadalcanal território britânico e Attu, território americano, não se pode negar que, em sentido estrito, tais ações constituíram uma invasão.
+
+Por outro lado, ao refletirmos sobre a retirada bem-sucedida de nossas tropas da ilha de Kiska, percebemos que tal êxito se deveu à conformidade com a Vontade Divina. Consequentemente, temo que o mesmo se aplique às frentes de batalha atuais na região das Ilhas Salomão, onde uma retirada acabará por se tornar inevitável.
+
+Quando se aprofunda a reflexão sobre estes pontos, compreende-se que, assim como uma guerra desprovida de uma causa justa enfraquece a convicção na vitória, uma estratégia que não se coaduna com a Vontade Divina gera inúmeras dificuldades e produz resultados aquém do esperado em relação aos sacrifícios empreendidos. Este princípio não se aplica somente à guerra, mas é universal. Destarte, se, no curso de uma operação, os resultados esperados não forem alcançados, deve-se reexaminar seus fundamentos morais. Se um equívoco for constatado, a retirada ou a alteração da estratégia deve ser executada prontamente. Tal medida resultará no mínimo de baixas e trará benefícios para as ações futuras. Evidentemente, é preciso desapegar-se de noções como o prestígio momentâneo.
+
+Em suma, a postura de uma nação verdadeiramente divina consiste em não violar o território de outros países e, ao mesmo tempo, não permitir que um palmo sequer do solo asiático seja profanado. Creio que é a isso que se referem as augustas palavras proferidas por Sua Majestade: “Os espíritos divinos dos Antepassados Imperiais velam por nós do Alto”.
+
+**III. Avançar para Oeste da Índia**
+
+Pelos motivos expostos, a grande diretriz para o futuro deverá ser a de, partindo da Índia, avançar progressivamente para oeste, abrangendo regiões como Irã, Iraque, Afeganistão, Baluchistão, Síria, Arábia e Ásia Menor, a fim de consumar a Esfera de Coprosperidade da Grande Ásia.
+
+O objetivo desta estratégia, como é evidente, é a expansão da Esfera de Coprosperidade e a libertação dos povos oprimidos. Por estar em plena conformidade com a Vontade Celestial, tal meta poderá ser alcançada de forma extremamente fluida, sem a necessidade de grandes sacrifícios. A razão para isso é a mesma que nos permitiu obter vitórias tão rápidas e expressivas no início da Guerra da Grande Ásia Oriental.
+
+Originalmente, a contínua agressão anglo-americana na Ásia constituiu uma sucessão de crimes contra a Vontade do Céu. Portanto, chegada a hora do grande ajuste de contas, sua retirada é uma consequência natural e inevitável.
+
+A esse respeito, é preciso compreender de antemão que a presente guerra mundial difere em essência de todos os conflitos que a precederam. Em que sentido? Todas as guerras do passado eclodiram por interesses de uma ou mais nações. Esta Grande Guerra, contudo, tem o conflito armado como seu significado secundário. Primordialmente, ela representa a Grande Purificação do mundo e o balanço final da civilização. Trata-se do colapso da velha cultura judaica e do advento de uma nova cultura, a ser criada pelo Japão. O sofrimento que assola o mundo atual não é outra coisa senão o sofrimento das dores de parto para o nascimento de uma nova cultura.
+
+Ficou evidente que a cultura judaica, a qual se desenvolveu sob o pretexto de promover o bem-estar da humanidade, na realidade apenas ampliou o seu sofrimento. Somente uma ínfima minoria de judeus e as nações sob sua influência puderam usufruir dos benefícios dessa civilização, enquanto a vasta maioria dos indivíduos e das nações se tornaram vítimas desses poucos, definhando sob o peso da luta pela sobrevivência. Essa é a causa do impasse civilizatório em que nos encontramos.
+
+Tal situação, como é notório, decorre do equívoco de uma visão de mundo puramente materialista. Chegou, pois, o momento em que uma nova cultura, fundamentada numa visão de mundo espiritualista, deve nascer. E o berço dessa cultura espiritualista não pode ser outro senão o Japão. Somente assim a humanidade poderá, pela primeira vez, gozar verdadeiramente dos benefícios da civilização e partilhar da felicidade de forma equânime. A prova mais eloquente disso é a imagem das nações da Esfera de Coprosperidade que, uma após a outra, conquistam sua independência sob a proteção do Japão, repletas de júbilo e satisfação.
+
+Se aplicarmos essa lógica à Austrália, o resultado será o oposto. Caso o Japão viesse a ocupar o território australiano, de maioria branca, sua população jamais se sentiria satisfeita. Pelo contrário, o ressentimento e a insatisfação seriam inevitáveis, pois não se trata de um povo oprimido como os da Ásia e, ademais, possui laços de sangue com a Grã-Bretanha. Logo, o propósito de uma conquista da Austrália não passaria de uma conveniência estratégica temporária ou de uma medida punitiva. Embora a necessidade de uma guerra de caráter punitivo possa surgir, há uma ordem correta para as coisas. Talvez se torne necessária após a completa consolidação da Esfera de Coprosperidade em toda a Ásia, mas, por ora, o momento ainda é inoportuno. Desrespeitar essa sequência agora resultaria apenas em grandes sacrifícios e parcos resultados. Nesse sentido, se a estratégia atual visa à conquista da Austrália, ela deve ser abandonada o mais rápido possível.
+
+Em suma, o mundo atravessa uma grande transição: o colapso da cultura materialista judaica e a construção da cultura espiritualista japonesa. Sob o estandarte da justiça, o Japão deve avançar com audácia. Por meio dessa postura, seremos abençoados por uma força invisível — o Augusto Poder Imperial e a Providência e Assistência Divinas —, que nos concederá resultados favoráveis e imprevisíveis, sobre os quais não repousa a menor dúvida.
+
+**IV. O Impacto de uma Grande Vitória**
+
+Uma vez que toda a Grande Ásia esteja sob a influência do Japão, que tipo de golpe isso representaria para o inimigo? Em primeiro lugar, a Grã-Bretanha, ao perder a Índia, teria seu poderio nacional reduzido pela metade. A ajuda americana à União Soviética também sofreria um forte abalo, o que aliviaria por completo a difícil situação de nossos aliados, Alemanha e Itália, transformando o cenário da guerra. Ademais, com a presença vigilante do Japão nas proximidades do Mediterrâneo, o moral das potências do Eixo certamente se multiplicaria, enquanto o do inimigo se abateria na mesma proporção. A proximidade geográfica com os três países do Eixo também traria, naturalmente, enormes vantagens para a condução de operações conjuntas.
+
+Outro benefício seria o golpe fatal desferido contra Chiang Kai-shek, que, isolado de seus contatos na Índia, não saberia mais como agir, restando-lhe apenas o destino da rendição ou da fuga.
+
+Com a Grã-Bretanha em situação tão crítica devido à drástica redução de sua capacidade bélica, os Estados Unidos se veriam obrigados a prestar-lhe uma ajuda maciça. Como resultado, teriam de relegar o ataque ao Japão a um segundo plano.
+
+O maior problema na execução de tal estratégia, contudo, seria o prolongamento das linhas de frente, o que exigiria um constante reabastecimento a partir da costa, alvo da obstinada sabotagem inimiga. Como, então, fortalecer nosso poderio naval para rechaçar tais ataques? O ideal, obviamente, seria obter a supremacia aérea e marítima. No entanto, em uma área tão vasta, isso deve ser considerado praticamente impossível.
+
+Portanto, em última análise, a solução reside em um aumento massivo da produção de todos os recursos materiais, com destaque para aeronaves e navios. A esse respeito, conheço um método seguro capaz de duplicar a capacidade produtiva atual. De fato, já o estou aplicando experimentalmente em certos setores da indústria, e os resultados esperados vêm sendo alcançados.
+
+Assim, se a meta de duplicação da produção for alcançada em paralelo com a extensão das frentes de batalha, acredito que a consecução do objetivo não será uma tarefa árdua.
+
+Quanto aos suprimentos, é evidente que, para economizar capacidade de transporte, devemos priorizar, tanto quanto possível, a produção local nos diversos territórios da Esfera de Coprosperidade. A maior parte dos alimentos, em particular, poderá ser provida pelas próprias nações da esfera.
+
+Resta a questão de como conduzir as operações no Pacífico Sul e no Pacífico Norte durante a execução dessa estratégia. Naturalmente, não devemos tocar em um dedo sequer do território inimigo. Em vez disso, devemos estabelecer uma defesa impenetrável, limitada às fronteiras de nossa pátria. Embora alguns sacrifícios sejam inevitáveis, com o inimigo pressionado por nossa grande campanha principal, seus ataques nesta frente dificilmente ultrapassarão o nível de uma guerra de nervos.
+
+**V. Conclusão**
+
+Quando a Esfera de Coprosperidade da Grande Ásia estiver concluída, se o inimigo, ainda assim, persistir em sua intenção de resistir, suas ações se configurarão como uma agressão à Vontade Divina. Nessa ocasião, será nosso direito lançar uma guerra punitiva, que constituirá, precisamente, legítima defesa. Se, como resultado, o inimigo reconhecer seu erro e se render, tanto melhor. Mas, se resistir com teimosia, então será aceitável empreender uma grande ofensiva. Nesse caso, o bombardeio e a conquista de seu território pátrio serão, por certo, medidas inevitáveis.
+
+Tal ação não contrariaria, de forma alguma, a Vontade Celestial.
+
+Em resumo, a estratégia que proponho se fundamenta, em sua essência, na manutenção de um propósito sagrado e na observância de uma sequência correta e genuinamente japonesa. Acredito que, por meio dela, será possível, sem sombra de dúvida, alcançar o máximo de resultados com o mínimo de sacrifícios.
+
+Pois cremos que a Providência e a Assistência Divinas se manifestam, infalivelmente, onde reside a justiça.
+
+---
+
+# A Salvação do Sol
+
+**Categoria:** ta | **Ano:** 昭和27(1952)年11月19日 | **Fonte:** Eikou
+**Título Original:** 太陽の救い | **Status:** Published | **Edição/Página:** 183号 | **Data ISO:** 1952-11-19
+
+## A Salvação do Sol
+
+Observa-se, entre aqueles tidos por intelectuais, uma tendência quase infalível de encarar as novas religiões com lentes de preconceito. Assumem, de antemão, que se trata de movimentos religiosos emergentes, que se aproveitam da conjuntura para forjar doutrinas astutas, iludindo os incautos a fim de se locupletarem. Imaginam um fundador que, satisfeito, desfruta do título de “líder reverenciado”, enquanto seus seguidores, além de serem dissuadidos de procurar auxílio médico quando adoecem, ainda lhe entregam o dinheiro que ganharam com o suor de seu rosto, sentindo-se gratos por isso. Diante de tal quadro, costumam lamentar: “Que tempos deploráveis os nossos”.
+
+É verdade que, se os fatos correspondessem à realidade, teríamos de concordar com eles; nós mesmos, religiosos, não hesitaríamos em expressar nossa solidariedade a tal ponto de vista. Contudo, devo admitir que essa percepção não é de todo infundada, pois, com exceção de duas ou três, há de fato um número considerável de novas religiões cujas práticas são pouco admiráveis. Como exemplo, cito aquelas que, em alto e bom som, recitam suas escrituras ao som de sinos, tambores e matracas, perturbando a vizinhança sem qualquer consideração, o que se assemelha a um verdadeiro delito sonoro.
+
+Há também os grupos que, sob os olhares de todos, entoam cânticos estranhos e executam danças com gestos peculiares, em um aparente estado de transe e êxtase. É improvável que sejamos os únicos a sentir desconforto ao presenciar tais cenas, o que nos leva a questionar seu papel do ponto de vista social. Ademais, movidos por um zelo excessivo, alguns fiéis tornam-se presunçosos, não apenas desprezando outras religiões e os que não têm fé, mas também evitando o convívio social trivial. Em casos extremos, há crenças que promovem a possessão espiritual e geram indivíduos com comportamentos que raiam a insanidade; tais práticas, inevitavelmente, acarretam mais prejuízos que benefícios.
+
+E não podemos nos esquecer dos casos inofensivos, porém de um mau gosto atroz: os autoproclamados líderes que, ostentando cabelos compridos e trajes excêntricos, se portam como deuses vivos. É espantoso que encontrem seguidores, o que apenas demonstra a vastidão e a diversidade do mundo. Outro aspecto, presente desde tempos antigos em certas crenças, são as penitências e mortificações. Fiéis se dedicam a abluções em água gelada no rigor do inverno, a jejuns em retiros nas montanhas ou a banhos sob cachoeiras. Embora os praticantes possam encontrar grande satisfação pessoal nisso, para nós, pessoas comuns, a lógica por trás de tais atos é incompreensível; sentimos, antes, compaixão por eles. Em suma, é lamentável a superstição que considera essas práticas, dissociadas da realidade cotidiana, como a verdadeira essência da religião. Diante de tais exemplos, eu mesmo, sendo um homem religioso, costumo afirmar que abomino as religiões que enaltecem o sofrimento. Assim, em virtude da proliferação dessas crenças de baixo nível, é natural que não apenas os intelectuais, mas a sociedade em geral, nutra por elas um compreensível sentimento de desdém.
+
+Modéstia à parte, nossa Igreja Messiânica é totalmente distinta de tais crenças. Em primeiro lugar, prezamos o bom senso. Nosso lema é que a vida e a conduta de nossos fiéis não se diferenciem em nada das pessoas comuns, primando pela harmonia e pela plenitude nas relações com quem quer que seja. Se compreendessem essa verdade, todos, mesmo que não se tornassem membros, sentiriam o desejo de se aproximar de nós, com plena confiança. Todavia, por desconhecerem nossa essência, observam-nos de maneira superficial e nos nivelam a essas fés excêntricas, o que nos é extremamente prejudicial. Conclui-se, portanto, que o maior obstáculo à expansão de nossa Igreja não são os ateus ou os que se apegam à superstição científica, mas sim essas outras novas religiões de práticas indesejáveis. E, por se tratar de uma obstrução não intencional, o problema se torna ainda mais difícil de resolver.
+
+Basta uma breve reflexão para perceber que esta é uma particularidade do cenário religioso japonês. No Ocidente, a maioria dos países segue predominantemente o Cristianismo. Além disso, por possuírem um desenvolvimento cultural mais antigo que o nosso, sua visão sobre religião tende a ser comparativamente mais imparcial e racional. O Japão, por outro lado, abriga o Budismo, o Xintoísmo e o Cristianismo, todos subdivididos em inúmeras seitas. Vivemos em um emaranhado onde o verdadeiro e o falso se misturam, tornando nosso trabalho consideravelmente mais árduo.
+
+Contudo, como sempre afirmo, a Igreja Messiânica não é uma religião, mas uma suprarreligião. Trata-se de uma obra de salvação sem precedentes desde o início da história e, por isso, tudo nela é diferente. Nossos métodos inovadores, que rompem com os padrões estabelecidos, não são facilmente assimilados pela mentalidade religiosa convencional, o que é natural. No entanto, uma vez que a pessoa começa a compreendê-la, não há exceção: ela percebe que encontrou aquilo que sempre buscou, e uma imensa alegria brota do fundo de seu coração. A prova maior disso reside em nossa expansão, um crescimento que se deu de forma notável em poucos anos.
+
+A esse respeito, é preciso fazer uma ressalva. Existem dois ou três outros movimentos religiosos que também experimentaram um crescimento expressivo nos últimos anos, mas eles são fundamentalmente distintos do nosso. Tais religiões foram edificadas sobre as bases de crenças já existentes, arregimentando um grande número de fiéis provenientes dessas outras organizações. A Igreja Messiânica, em contrapartida, é original em todos os seus aspectos, e é de suma importância que essa diferença seja devidamente reconhecida.
+
+As religiões de caráter insensato que mencionei anteriormente são, em sua essência, baseadas em uma fé de pequeno veículo e, por conseguinte, são restritivas e desprovidas de liberdade. Geralmente, as pessoas tendem a pensar que a liberdade é um conceito distante da religião. Contudo, assim como ocorre no mundo material, sem uma liberdade de cunho democrático, será impossível orientar as massas no futuro.
+
+Para elucidar melhor: as religiões até hoje, por serem centradas no pequeno veículo, assemelham-se aos países do mundo, cada qual com sua própria coloração. Seus ensinamentos são, portanto, particularistas e carecem de universalidade, o que naturalmente limita o alcance de sua salvação. Além disso, a fé de pequeno veículo impõe preceitos rigorosos que acorrentam os fiéis, levando-os ao sofrimento em nome da prática religiosa. Isso equivale a uma negação do amor de Deus, uma situação verdadeiramente lastimável que eu denomino "o inferno da fé". Nossa Igreja, em contrapartida, segue o caminho oposto. Praticamente isenta de preceitos, ela é extremamente livre e considera o desfrutar da vida uma dádiva Divina. Esta, sim, pode ser chamada de "fé paradisíaca".
+
+Como se pode depreender, nossa Igreja, por ser de grande veículo, engloba integralmente tudo o que é necessário ao ser humano: religião, filosofia, política, economia, educação, arte, medicina e muito mais. Assim como o sol, que em si contém e harmoniza todas as cores para se manifestar como luz branca, nossa Igreja é a religião do dia, é a salvação do sol.
+
+---
+
+# O Tabaco e a Medicina
+
+**Categoria:** ta | **Ano:** 昭和24(1949)年12月17日 | **Fonte:** -
+**Título Original:** 煙草と医学 | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1949-12-17
+
+## O Tabaco e a Medicina
+
+A Diretoria do Monopólio do Tabaco, em meio a grandes dificuldades por não conseguir vender seus cigarros da marca “Peace”, recorreu a toda sorte de artifícios desesperados, chegando ao ponto de recrutar as “Jovens Peace” para promover suas vendas. Tal medida é antes risível que eficaz, um completo despropósito. A verdadeira causa da queda nas vendas é, evidentemente, a influência dos cigarros estrangeiros; e a razão para tal é uma só: os cigarros nacionais possuem sabor inferior. Se o produto fosse saboroso e o preço, acessível, as vendas seriam garantidas sem a necessidade de artifícios publicitários. Embora seja uma lógica elementar, parece que não a compreendem ou, se a compreendem, são incapazes de agir. É algo, de fato, inexplicável.
+
+Ora, uma analogia idêntica pode ser traçada com o problema das doenças, com o qual nos deparamos constantemente. Certas pessoas promovem ostensivamente campanhas de difamação e obstrução, bradando ser inadmissível que a religião se envolva na cura de enfermidades. Afirmam que, havendo uma medicina tão avançada, recorrer a superstições e falsas doutrinas é um perigo supremo. E, para agravar a situação, até mesmo os jornais lhes servem de porta-vozes, o que é intolerável.
+
+Essa postura se assemelha em muito à situação atual do mercado de tabaco, sendo um despropósito tão grande quanto o da Diretoria do Monopólio. A solução é simples: bastaria que a medicina curasse todos os doentes, sem exceção. É justamente porque há tantos que não obtêm a cura que as pessoas, sem outra alternativa, acabam por buscar as chamadas “superstições e falsas doutrinas”. Afinal, é natural que procurem o caminho que oferece melhores resultados. Em suma, a Terapia Espiritual de nossa Igreja é, nesta comparação, como os cigarros estrangeiros.
+
+Ofereço, pois, estas reflexões à Diretoria do Monopólio do Tabaco e à Associação Médica.
+
+---
+
+# A Verdadeira Causa do Declínio da Constituição Física
+
+**Categoria:** ta | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
+**Título Original:** 体位抵下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+
+## A Verdadeira Causa do Declínio da Constituição Física
+
+As estatísticas de diversas áreas revelam a preocupante tendência de declínio da constituição física do nosso povo. Conforme detalhado na primeira parte desta obra, a causa fundamental reside, inquestionavelmente, na vacinação e nos venenos medicinais. Contudo, se o propósito original da vacinação é prevenir a varíola, devemos ir mais fundo e questionar: qual é, afinal, a origem da toxina que causa a própria doença? A elucidação desse ponto é a raiz de toda a questão.
+
+Minha descoberta aponta que sua origem é o yakudoku (薬毒), ou seja, o veneno medicinal. Mas por qual via e razão o yakudoku (薬毒) se converte na toxina da varíola? Isso ocorre quando o veneno medicinal atravessa diversas gerações no corpo humano, processo pelo qual ele se transforma em um tipo específico de toxina, que é a toxina da varíola. Trata-se, portanto, de um mal que se consolida por hereditariedade, e aquilo que a medicina, de forma equivocada, denomina sífilis hereditária é, na verdade, um erro de diagnóstico. A notável semelhança entre as erupções cutâneas de um paciente com varíola e as de natureza sifilítica corrobora essa afirmação.
+
+É comum, ademais, que pacientes diagnosticados com sífilis hereditária se indignem ao constatar a ausência de tal histórico em seus pais, avós e bisavós. Nesses casos, os médicos costumam argumentar que a infecção pode ocorrer acidentalmente por outras vias, não relacionadas à conduta moral. O paciente, leigo no assunto, acaba por se resignar. Na realidade, embora a transmissão por outras vias seja teoricamente possível, é um evento de extrema raridade, podendo ser considerada praticamente inexistente. Tais fatos não são outra coisa senão o resultado da confusão entre a toxina da varíola e a sífilis hereditária.
+
+Como outro exemplo, consideremos a história. Registra-se que a varíola surgiu no Japão há cerca de mil e trezentos anos, após a introdução do budismo, no reinado do Imperador Kinmei. A partir de então, epidemias começaram a assolar diversas regiões. Os governantes da época atribuíram a calamidade à ira dos deuses japoneses pela chegada da nova religião e, por isso, proibiram o budismo. Todavia, como as epidemias não cessaram, concluíram que não havia relação e a permitiram novamente, conforme atestam os registros históricos. Qual é, portanto, a verdadeira razão? Imagina-se que, antes mesmo da chegada do budismo, a medicina chinesa já havia sido introduzida no país, e foi ela a causa das epidemias. Evidentemente, por “epidemia” entende-se a varíola.
+
+Nesse sentido, a intenção de nossos antepassados de curar doenças com medicamentos não apenas resultou em um efeito completamente adverso, mas também transformou o próprio método de tratamento na “causa geradora de doenças”. A repetição desse ciclo culminou no declínio da constituição física que observamos hoje. A situação é análoga à célebre passagem bíblica em que o pecado da humanidade teve início quando Adão e Eva, no Jardim do Éden, provaram o fruto proibido.
+
+Vejamos, a seguir, outro exemplo: a notável redução da longevidade do povo japonês. Com a devida vênia, a história registra que os imperadores das primeiras gerações, desde o Imperador Jinmu até o Imperador Keiko, tiveram vidas excepcionalmente longas, sendo que a maioria ultrapassou os cem anos de idade. Isto se deve, segundo nossa reverente análise, à completa ausência de medicamentos em nosso país naqueles tempos remotos.
+
+Adicionalmente, há o conhecido relato sobre o imperador chinês Qin Shi Huang. Ele, ao ouvir que “no mar a leste existe uma ilha chamada Hōraijima (蓬莱島), cujos habitantes são muito longevos”, ordenou a seu vassalo, Jofuku (徐福), que a encontrasse e trouxesse de volta o elixir de tamanha longevidade. Jofuku prontamente viajou para Hōraijima (蓬莱島) — que, naturalmente, era o nosso Japão. Contudo, por mais que procurasse, não havia elixir algum a ser encontrado. A razão é simples: os japoneses daquela era viviam muito porque não existiam medicamentos. Diante disso, o célebre Jofuku, não podendo retornar à sua terra natal, viu-se obrigado a terminar seus dias no Japão. De fato, diz-se que seu túmulo existe até hoje em certo local de Wakayama.
+
+---
+
+# A Causa e a Cura da Hérnia
+
+**Categoria:** ta | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
+**Título Original:** 脱腸 | **Status:** Published | **Edição/Página:** P.137 | **Data ISO:** 1953-01-01
+
+## A Causa e a Cura da Hérnia
+
+Embora seja uma enfermidade mais frequente em crianças, a hérnia pode, em raras ocasiões, manifestar-se também em idosos. Sua causa reside na solidificação de toxinas medicinais hereditárias na região abdominal. Tal endurecimento exerce pressão sobre os intestinos, o que acarreta seu prolapso.
+
+A cura para tal afecção é facilmente alcançada por meio do Johrei de nossa Igreja. A medicina moderna, todavia, por desconhecer um método capaz de remover as toxinas internas, não possui outra alternativa senão recorrer à intervenção cirúrgica.
+
+---
+
+# Não Posso Permanecer Calado
+
+**Categoria:** ta | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
+**Título Original:** 黙っては居られない | **Status:** Published | **Edição/Página:** 113号 | **Data ISO:** 1951-07-18
+
+## Não Posso Permanecer Calado
+
+Do nosso ponto de vista, a medicina contemporânea é, de fato, incompreensível. Primeiramente, gostaria de discorrer sobre este ponto. Nosso pensamento se alicerça sobre uma premissa límpida: o que é bom, é bom; o que é mau, é mau. Aquilo que surte efeito deve ser reconhecido, e o que se mostra ineficaz deve ser reavaliado. A arte da cura genuína é a que restaura a saúde; a que não o faz não pode ser considerada como tal. Creio que esta seja a perspectiva correta.
+
+Todavia, o maior equívoco reside em analisar as coisas com parcialidade. É igualmente inaceitável permitir que sentimentos ou distorções interfiram no julgamento. A atitude correta consiste em observar com absoluta isenção e imparcialidade, fundamentando toda crítica nos fatos concretos.
+
+Quando observados sob essa ótica, tanto os diagnósticos quanto as terapias da medicina moderna revelam-se, lamentavelmente, por demais lastimáveis. Sendo assim, almejo, com a maior brevidade possível, despertar a medicina de sua cegueira dogmática. Do contrário, o sofrimento humano se torna uma cena verdadeiramente penosa de se testemunhar. O relato a seguir ilustra vividamente essa realidade; rogo, portanto, que o leiam com discernimento e de mente aberta.
+
+***
+
+## Salvo pela Fé Após o Abandono da Medicina
+
+**Contra a teoria, a evidência da cura**
+Tóquio
+Igreja Sewanaka
+Katsuyuki Takagi (17 anos)
+
+Gostaria de relatar a graça que recebi ao ser salvo de maneira surpreendentemente simples pelo Johrei, após ter sido abandonado pelos médicos com um diagnóstico final de "doença de causa desconhecida", resultado de uma série de avaliações contraditórias.
+
+Tudo começou em meados de março deste ano, quando contraí um resfriado. Após faltar ao trabalho por dois dias e me medicar, senti-me curado e retornei às minhas atividades. Contudo, cerca de uma semana depois, comecei a sentir uma estranha fadiga, perda de apetite e dores abdominais. Procurei imediatamente um médico da vizinhança, que, ao me examinar, constatou: "Suas amígdalas estão muito inchadas e com pontos brancos". Ele também levantou a suspeita de febre tifoide, solicitando exames de sangue, teste de tuberculina e de hemossedimentação. Recebi diversas recomendações, entre elas a de que meu intestino parecia estar debilitado e que eu deveria me alimentar apenas com canja de arroz.
+
+Dois dias depois, ao retornar do trabalho, fui novamente consultado. Desta vez, o médico afirmou: "Como a febre subiu, é melhor que você não vá trabalhar amanhã". No dia seguinte, embora tenha ficado em casa, passei o dia todo de pé. À noite, em uma terceira consulta, o diagnóstico mudou drasticamente: "Isso pode evoluir para uma pneumonia aguda". Recebi uma injeção de penicilina e a ordem categórica: "A partir de amanhã, repouso absoluto!". Naquele momento, minha febre era de trinta e nove graus e dois décimos.
+
+Apesar da injeção, apenas o estado das amígdalas melhorou; a febre, de modo algum, cedeu, mantendo-se acima dos trinta e oito graus. No início de abril, meu coração começou a apresentar problemas. Comuniquei o fato ao médico, que, perplexo, disse: "Realmente não consigo entender. Por favor, procure a opinião de outro colega". Senti uma súbita apreensão e, sem demora, busquei um novo profissional. Este, contudo, após uma simples percussão torácica, diagnosticou-me com infiltração no pulmão direito e solicitou uma radiografia para o dia seguinte.
+
+O resultado do exame levaria uma semana, e, durante esse período, eu me sentia definhar a cada dia. Quando finalmente a radiografia ficou pronta, para minha surpresa, meus pulmões não apresentavam qualquer anomalia, apenas os gânglios linfáticos estavam ligeiramente inchados. Levei o exame ao primeiro médico, que, ao vê-lo, comentou: "Como a causa da febre não está clara, talvez seja melhor não a baixarmos abruptamente". Alegando que meu corpo estava debilitado, aplicou-me injeções de glicose e cálcio.
+
+O resultado foi desastroso. Minha diurese, que era de cerca de quatro vezes ao dia, reduziu-se a uma única vez. Meu abdômen ficou distendido e dolorido, e passei a sofrer de constipação intestinal. A febre oscilava em torno dos trinta e oito graus, até que, no final de abril, ultrapassou a marca dos trinta e nove. O médico, alarmado, desistiu: "Com uma febre tão alta assim, não sei mais o que fazer. Por favor, procure uma clínica melhor". Fui, mais uma vez, desenganado.
+
+Nunca em minha vida senti tamanha indignação. No entanto, sem outra alternativa, minha única esperança ainda eram os médicos. Dois dias depois, fui transportado em um carrinho de mão até uma clínica em Akabane. Lá, fui submetido a uma radioscopia, que apenas confirmou o que já sabia: os gânglios linfáticos estavam um pouco inchados. Para piorar, fui diagnosticado com um quadro grave de beribéri. Senti-me completamente desolado. A aplicação de estreptomicina foi cogitada, mas, felizmente, não foi administrada.
+
+Hoje, compreendo que essa foi, na verdade, uma imensa proteção Divina. Naquele mesmo dia, minha avó, que sempre levava meus irmãos para tratamento com um ministro da Igreja Messiânica em Nakajujo, foi consultá-lo a meu respeito. O ministro prontamente respondeu que viria me visitar no dia seguinte.
+
+Durante a espera, refleti longamente sobre os tratamentos médicos que recebera e sobre o Johrei, que eu considerava algo próximo da superstição. Contudo, minha própria experiência me fazia sentir, de maneira profunda, a inutilidade de depender de medicamentos. No dia seguinte, o ministro chegou e, após uma longa conversa, perguntou-me de forma incisiva: "Em quem você acredita: em mim ou na medicina?". Minha resposta foi imediata: "Acredito no senhor!".
+
+Recebi Johrei pela primeira vez e senti um bem-estar imediato. Naquela mesma noite, meu apetite retornou e a diurese, que era de apenas uma vez ao dia, aumentou para duas. No dia seguinte, o ministro retornou para ministrar Johrei novamente. A partir do segundo dia de Johrei, passei a urinar cinco vezes ao dia, e meu apetite cresceu ainda mais. A febre chegou a ultrapassar os quarenta graus, mas eu não me sentia mal. No dia subsequente, o ministro Sekikawa veio em substituição. Durante a noite, meu abdômen começou a fazer ruídos e, na manhã seguinte, tive uma evacuação de fezes amolecidas.
+
+Sentindo-me tão bem e contrariando os conselhos dos vizinhos, fui ao barbeiro. No dia seguinte, meu apetite era tão grande que a ideia de ficar deitado se tornou insuportável. A diurese aumentou para seis vezes ao dia, e o inchaço em meu rosto desapareceu por completo. No sexto dia desde que comecei a receber Johrei, eu, que estivera acamado por um mês, já conseguia caminhar até a igreja.
+
+No início de maio, comecei a expelir uma quantidade de catarro que nunca havia tido, por vezes com traços de sangue. Após expelir grandes volumes, sentia-me revigorado e com uma disposição que me impedia de continuar agindo como um doente. Na igreja, o ministro me explicou detalhadamente o significado do processo de purificação, o que me permitiu não mais me preocupar com as transformações em meu estado de saúde.
+
+Hoje, no nono dia, estou praticamente recuperado e as pessoas comentam como minha aparência está mais corada. Diante de tamanha graça, no dia cinco de maio, minha avó recebeu o seu Ohikari. Em breve, eu também ingressarei na fé. As palavras do ministro, "Você já pode voltar a trabalhar", soavam plenas de confiança, mas, por precaução, decidi me afastar da empresa por mais um tempo, dedicando-me a ir à igreja todos os dias, cheio de vigor.
+
+Fui salvo pelos Ensinamentos e pelo poder Divino antes que me sentenciassem, talvez, com um diagnóstico de tuberculose. Sou imensamente grato por essa dádiva e, daqui para frente, desejo me devotar com todas as minhas forças para servir na Obra Divina.
+
+Meishu-Sama, muito obrigado.
+
+---
+
+# A Religião Mahayana
+
+**Categoria:** ta | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 大乗宗教 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-10-25
+
+## A Religião Mahayana
+
+É de amplo conhecimento que nas religiões, e particularmente no Budismo, existe a distinção entre Mahayana e Hinayana. Contudo, parece-me lamentável que, até os dias de hoje, seu significado não tenha sido compreendido em toda a sua profundidade. A esse respeito, gostaria de expor minha perspectiva.
+
+Em sua essência, Mahayana significa Grande Natureza. Por Grande Natureza, entende-se, naturalmente, o modo como todas as coisas do universo são geradas e se desenvolvem. Portanto, o Mahayana abrange a totalidade da existência, sem nada excluir. Nesse sentido, o Mahayana que ora exponho não se restringe ao Budismo Mahayana, devendo ser compreendido como o Grande Caminho. Nele estão contidos não apenas a religião e a filosofia, mas também a ciência, a política, a educação, a economia e a arte. Ademais, é evidente que conceitos opostos como guerra e paz, bem e mal, também se encontram sob sua alçada.
+
+Desse modo, ao observarmos a atividade de tudo o que existe, percebemos a presença de um Caminho natural. O valor de um verdadeiro ser humano reside em sua capacidade de reconhecer que o progresso harmonioso advém da obediência a esse Caminho. Segundo esse princípio, o desvio da senda correta acarreta, invariavelmente, obstáculos, estagnação ou mesmo a destruição.
+
+Com efeito, a realidade deste mundo é um ciclo incessante de criação e destruição: a criação ocorre quando se trilha o Caminho, e a destruição, quando dele nos afastamos. A analogia é perfeita com um trem ou bonde: enquanto permanece nos trilhos, ele avança; se deles descarrila, sua jornada é interrompida.
+
+Logo, tudo o que perece, perece por uma razão, e tudo o que nasce, o faz por uma razão. Não existe o acaso; tudo obedece, inegavelmente, à lei da necessidade. Sob essa mesma ótica, no campo das ideologias, a inclinação para a esquerda gera uma força à direita, e a inclinação para a direita suscita o surgimento da esquerda. O correto é avançar na senda do meio, sem pender para nenhum dos extremos, de modo análogo à condução de um automóvel. É por essa lógica que o capitalismo, o socialismo, o comunismo, as correntes conservadoras e as progressistas, bem como o positivismo, o negativismo e todas as demais doutrinas, surgem por uma necessidade e, por uma necessidade, acabam por desaparecer.
+
+Naturalmente, o mesmo princípio se aplica às religiões: elas surgem porque há uma razão para sua existência. Ocorre, porém, que a maioria das pessoas observa o mundo a partir de seu próprio e limitado ponto de vista, tendendo a taxar de heresia tudo o que lhe é alheio. Agem assim por possuírem uma visão extremamente restrita, tal como descreve o provérbio: “tentar enxergar o céu através do talo de um junco”. Contudo, sob a perspectiva de Deus, que governa este vasto mundo, a pequenez das contendas humanas – semelhantes a uma guerra travada sobre os chifres de um caracol – certamente Lhe provocaria um sorriso resignado.
+
+Tudo o que é material, se for desnecessário à humanidade, será eliminado pela seleção natural; se for necessário, por mais que o ser humano tente erradicá-lo, jamais terá sucesso. Tomemos como exemplo o surgimento de uma nova religião ou de uma nova corrente de pensamento. Ainda que aos olhos humanos pareça mera superstição ou um caminho desviado, se for necessária à humanidade, ela prosperará. Caso contrário, será naturalmente suplantada. Portanto, até certo ponto, devemos confiar no curso da Natureza.
+
+Ademais, se algo possui verdadeira vitalidade e valor, quanto mais for oprimido pela força humana, maior será o seu desenvolvimento. O exemplo mais eloquente disso é o Cristianismo. Apesar de seu mestre, Jesus Cristo, ter sido condenado à morte, basta observar sua pujança nos dias de hoje para que nenhuma palavra a mais seja necessária.
+
+Creio que o homem moderno deveria refletir sobre o equívoco de sua visão tão tacanha e imediatista a respeito de todas as coisas.
+
+---
+
+# A Falácia do Tratamento Sintomático
+
+**Categoria:** ta | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
+**Título Original:** 対症療法の不可 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
+
+## A Falácia do Tratamento Sintomático
+
+No que tange à causa das enfermidades, a medicina ocidental ainda não logrou qualquer descoberta definitiva. Por essa razão, sua patologia se restringe a nomear os fenômenos que se manifestam no corpo físico e a descrever seu processo evolutivo. Consequentemente, seu método terapêutico principal é o tratamento sintomático, que se volta para as manifestações da doença. Este consiste, em essência, na atenuação do sofrimento. Contudo, a atenuação do sofrimento e a cura são questões absolutamente distintas, e supor que a doença é curada pela simples supressão do sofrimento constitui um equívoco monumental.
+
+Para explicar por que o tratamento sintomático, focado em atenuar o sofrimento, representa um equívoco, apresento os seguintes pontos. Em sua essência, qual é a verdadeira natureza do sofrimento decorrente de uma enfermidade, como a febre, a tosse, a dor, o vômito, a vertigem e o mal-estar? A manifestação de uma doença decorre de uma causa específica e, de igual modo, o sofrimento que a acompanha deve possuir sua própria razão de ser. Em resumo, a doença é o resultado de uma causa, e o sofrimento, por sua vez, é o resultado desse resultado. Sendo assim, enquanto a essência do sofrimento e a causa da enfermidade não forem elucidadas de maneira cabal, é impossível que se estabeleça um método de cura verdadeiro. A medicina ocidental, por desconhecer a origem das patologias, vê-se forçada a dedicar-se exclusivamente à atenuação do sofrimento, que nada mais é que o resultado do resultado. Por conseguinte, o paciente submetido a tal tratamento tem seu sofrimento aliviado pela terapia sintomática, mas sua cura efetiva ocorre graças à força de cura natural do próprio organismo. Trata-se, pois, de uma espécie de terapia natural.
+
+Dessa forma, quando alguém se submete ao tratamento sintomático e a cura ocorre pela via natural, pode parecer vantajoso, pois ao menos o sofrimento foi atenuado. Todavia, é precisamente aqui que se oculta outro equívoco de grandes proporções. Este reside nos métodos empregados para mitigar o sofrimento: o uso de medicamentos e de equipamentos. A atenuação do sofrimento por meio desses recursos materiais resulta, ao final, em um sofrimento multiplicado. Uma hora de alívio converte-se, invariavelmente, em cinco ou dez horas de sofrimento agravado. Ao fazer tal afirmação, talvez alguns a interpretem como um paradoxo proferido por quem aprecia o extravagante. Contudo, o fato é o fato, e nele não há a menor incorreção. Por essa razão, não hesito em comprová-lo com quantos exemplos se façam necessários.
+
+---
+
+# A Elucidação sobre Daissen Sanzen Sekai
+
+**Categoria:** ta | **Ano:** 昭和26(1951)年1月1日 | **Fonte:** Eikou
+**Título Original:** 大千世界と三千世界 | **Status:** Published | **Edição/Página:** 85号 | **Data ISO:** 1951-01-01
+
+## A Elucidação sobre Daissen Sanzen Sekai
+
+Em nossa Oração, consta a expressão Daissen Sanzen Sekai. Muitas pessoas, todavia, intrigam-se com o fato de que no budismo a ordem se inverte para Sanzen Daissen Sekai, questionando o motivo de tal diferença. Proponho-me, portanto, a elucidar essa questão.
+
+Primeiramente, analisemos o significado de ambos os termos a partir de seus ideogramas. O ideograma *Dai*, de Daissen Sekai, significa o Universo em sua totalidade. Ele representa o infinito; em outras palavras, o Grande Universo em sua plenitude. Ademais, o ideograma *Dai* é composto por cinco traços. O número cinco corresponde ao Fogo; o Fogo, por sua vez, corresponde ao Espírito; e o Espírito corresponde ao Céu. Sendo assim, é natural que o Céu ocupe a posição superior.
+
+Por outro lado, Sanzen Sekai refere-se aos Três Mundos: o Divino, o Espiritual e o Material. Representa, pois, a manifestação do Daissen Sekai já subdividido. O número três, por sua vez, corresponde à Água, e a Água, à Matéria. Sob a ótica dos ideogramas, o caractere *Dai* contém em si o traço de *Ichi*, o número um, simbolizando o princípio. Já o número três sucede o dois, ocupando uma posição subsequente, pelo que é correto que venha em segundo lugar.
+
+Outrossim, segundo a Lei da Primazia do Espírito sobre a Matéria, o espírito deve preceder o corpo, ocupando a posição superior.
+
+Existe ainda outra interpretação. Se, como vimos, *Dai* corresponde ao Fogo e *San* corresponde à Água, segue-se que *Dai* representa o Mundo do Dia, e *San*, o Mundo da Noite. Considerando que o budismo é um ensinamento da noite, regido pela Lua, e que até o presente momento a humanidade vivia no Mundo da Noite, era perfeitamente natural que o três, *San*, estivesse em primazia.
+
+Nossa Igreja, contudo, é a religião do Mundo do Dia. Sendo assim, a ordem correta e verdadeira é, inquestionavelmente, Daissen Sanzen Sekai.
+
+---
+
+# A Origem Espiritual das Calamidades
+
+**Categoria:** ta | **Ano:** 昭和28(1953)年10月14日 | **Fonte:** Eikou
+**Título Original:** 台風禍 | **Status:** Published | **Edição/Página:** 230号 | **Data ISO:** 1953-10-14
+
+## A Origem Espiritual das Calamidades
+
+Jamais se viu, em tempos recentes, um ano com uma sucessão tão implacável de tufões devastadores como o atual. O rastro de destruição deixado por tais calamidades é de uma magnitude incalculável, afetando vidas humanas, rebanhos, lavouras, estradas, diques, pontes, embarcações e toda a infraestrutura.
+
+Contudo, o que mais aflige é constatar que, apesar de os preparativos para enfrentar os tufões serem quase um ritual anual, tanto o governo central quanto as autoridades locais se veem impotentes. As severas restrições orçamentárias impedem a execução dos planos conforme o necessário, deixando-os praticamente de mãos atadas. Diante disso, a simples perspectiva de futuras e incontáveis tempestades é suficiente para nos causar um calafrio na alma.
+
+Tudo isso ocorre porque a verdadeira natureza dos tufões permanece completamente desconhecida. É com o intuito de revelar sua causa fundamental que escrevo estas linhas. A raiz do problema reside, indubitavelmente, na superstição científica e na sua tentativa de solucionar todas as questões por meio de uma abordagem puramente materialista. Enquanto o pensamento se mantiver alheio à verdadeira origem do fenômeno, qualquer medida não passará de um paliativo.
+
+Portanto, uma solução permanente só será possível por meio de um método espiritual. E em que consiste esse método? Consiste em conhecer a genuína causa da formação dos tufões e, a partir desse conhecimento, estabelecer as medidas adequadas. Afirmo, como já o fiz diversas vezes, que os tufões não são desastres naturais, mas sim calamidades de origem humana. É o resultado de uma ignorância estarrecedora, na qual o próprio homem cria o seu sofrimento.
+
+Para que não haja espanto por parte do homem moderno, passo a elucidar este ponto, a fim de despertar a consciência geral. O mundo é constituído de dois planos: o material, que é visível, e o espiritual, que é invisível. Podemos imaginá-lo como uma mão: a face visível, a palma, representa o corpo, enquanto o dorso representa o espírito. Ambos estão indissoluvelmente unidos. A lei universal que rege toda a existência determina que o espírito é o principal, e a matéria, o secundário.
+
+Nesse sentido, tudo o que ocorre no Mundo Físico origina-se primeiro no Mundo Espiritual, sendo posteriormente projetado em nossa realidade. Os tufões, evidentemente, não são exceção. Logo, a única maneira de evitar sua manifestação é impedir que sua causa seja gerada no plano espiritual. Não há, em absoluto, outro caminho. Ao ignorar esse princípio, o homem concentra-se apenas no resultado, na dimensão material, de forma análoga à medicina sintomática, que oferece apenas um alívio temporário.
+
+Qual seria, então, a causa espiritual? É a mácula que obscurece o Mundo Espiritual. Quando essa mácula ultrapassa um determinado limite, entra em ação um processo de purificação natural. Esse processo é o que conhecemos como tufão. Para evitar que isso ocorra, é preciso atentar para os pensamentos, as palavras e as ações.
+
+Pensamentos de natureza maligna – como o ódio, a inveja, o despeito, o rancor e a noção de desigualdade – refletem-se no Mundo Espiritual e geram desequilíbrios climáticos, constituindo o primeiro nível de impurezas. Em seguida, temos as palavras e ações malignas, como a calúnia, a difamação, o estelionato, a lamentação, a baixeza e toda sorte de atos pecaminosos. Estas, por sua vez, obscurecem um segundo nível do Mundo Espiritual. É para eliminar essas máculas que se manifesta o fenômeno purificador do tufão.
+
+Existe, ainda, uma causa de ordem puramente material: a poluição do solo pelo uso de fertilizantes químicos, dejetos humanos e agrotóxicos para o controle de pragas. A natureza, para se purificar, utiliza chuvas torrenciais para lavar e remover essas impurezas da terra.
+
+Como se pode ver, tudo é fruto da ignorância humana. Ao tomar consciência dessa realidade e cessar a criação de tais causas, a solução surge como consequência natural. Assim, as grandes calamidades se tornam pequenas, e as pequenas se extinguem por completo. Esta é a Verdade do Universo. Posso, pois, afirmar categoricamente que não haverá solução efetiva e definitiva enquanto o homem não se alinhar a ela.
+
+---
+
+# Sobre o Mahayana e o Hinayana
+
+**Categoria:** ta | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
+**Título Original:** 大乗と小乗 | **Status:** Published | **Edição/Página:** P.33 | **Data ISO:** 1948-09-05
+
+## Sobre o Mahayana e o Hinayana
+
+Os termos Mahayana e Hinayana são de longa data. Embora sejam termos budistas, explanados com considerável detalhe nessa doutrina, seja por minha pouca erudição, jamais me deparei com uma explanação que me satisfizesse plenamente. Gostaria, portanto, de expor minha visão pessoal a respeito.
+
+Para sintetizar, o Hinayana corresponde à linha longitudinal, enquanto o Mahayana, à latitudinal. Ademais, o Hinayana é sentimento, ao passo que o Mahayana é razão. O Hinayana, por discriminar o bem e o mal e se basear em preceitos, tende a ser visto como o bem pela maioria das pessoas. O Mahayana, contudo, por não fazer tal distinção e possuir uma índole liberalista, dificilmente é percebido dessa forma.
+
+Para tornar a questão mais clara, citarei alguns exemplos.
+
+Imagine um ladrão. Ao tentar regenerá-lo, a abordagem Hinayana consistiria em repreendê-lo e persuadi-lo a abandonar seus atos malignos. Já a abordagem Mahayana implicaria, primeiramente, juntar-se ao seu grupo para, na oportunidade certa, argumentar: "Cometer crimes não é tão lucrativo e ainda nos obriga a viver sob constante ameaça e ansiedade. Não é uma vida enfadonha?". Desse modo, o conduziria a abandonar o mal e a seguir o caminho do bem.
+
+Outro exemplo refere-se à obediência filial, considerada a base da devoção aos pais. Suponhamos que um filho, tendo estabelecido para si um grande objetivo, precise deixar o lar para realizá-lo, mas seus pais se opõem. Sem alternativa, ele decide desobedecê-los momentaneamente e parte. Após se esforçar e alcançar o sucesso, retorna para casa. Seus pais, repletos de alegria por sua glória, certamente o receberão com júbilo, e seu ato se revelará a mais elevada forma de devoção filial. Analisando ambos os casos, o primeiro representa a devoção filial Hinayana, e o segundo, a Mahayana.
+
+O nacionalismo e o etnocentrismo são, igualmente, formas do bem Hinayana, assim como o comunismo, que se restringe ao amor a uma classe. Em geral, toda ideologia que se enquadra em um "-ismo" costuma ser um bem Hinayana e, por conseguinte, está fadada a um impasse. Somente o caminho Mahayana, com seu amor universal e humanitário, pode ser considerado a Verdade. O Japão, por exemplo, sofreu a amargura da derrota por ter seguido um amor à pátria e uma lealdade ao imperador de natureza Hinayana, que descambaram para o imperialismo. A palavra "Kodo" (Caminho Imperial), popular no Japão de outrora, representava um patriotismo Hinayana. E por quê? Porque, se tal caminho fosse propagado a outras nações, dificilmente encontraria quem com ele se afinasse. Portanto, aquilo que não ressoa e não é celebrado por toda a humanidade não pode ter vida eterna. Nisso consiste o verdadeiro caminho Mahayana. Os "-ismos", por sua natureza limitada, inevitavelmente entram em atrito uns com os outros, gerando conflitos que podem escalar para guerras e infligir calamidades à humanidade. Nesse sentido, o bem Hinayana pode ser o mal Mahayana, e o bem Mahayana, o mal Hinayana.
+
+Contudo, é preciso uma ressalva. Preconizar o caminho Mahayana às massas desde o início é arriscado, pois pode gerar graves equívocos. O correto é iniciar pelos ensinamentos Hinayana e, somente quando a pessoa atingir certo grau de esclarecimento, introduzir os do Mahayana.
+
+Gostaria agora de discorrer sobre o Mahayana e o Hinayana no âmbito das religiões. Originalmente, o budismo é Hinayana, e o cristianismo, Mahayana. O budismo é fogo; o cristianismo, água. O fogo arde na vertical (longitudinal), e a água flui na horizontal (latitudinal). Por essa razão, o budismo é restrito e profundo, de natureza isolacionista, carecendo de expansão latitudinal. O cristianismo, ao contrário, por ser Mahayana, expandiu sua influência aos confins do mundo, tal como a água que transborda e se espalha.
+
+Curiosamente, mesmo dentro do budismo, que é Hinayana, existe a distinção entre Mahayana e Hinayana. A fé no Namu Amida Butsu, por exemplo, é Mahayana e de natureza yin, enquanto a fé no Namu Myoho Renge Kyo é Hinayana e de natureza yang. O Mahayana se baseia no Outro Poder, e o Hinayana, no poder próprio. Enquanto os seguidores da Terra Pura creem que "basta entoar o Namu Amida Butsu para ser salvo", numa total dependência do Outro Poder, a doutrina do Sutra de Lótus, sendo Hinayana, prega: "Não basta apenas recitar o Namu Myoho Renge Kyo; é preciso submeter-se a práticas ascéticas e rigorosas".
+
+Até hoje, as religiões se mantiveram assim, separadas em longitude e latitude. Contudo, na era final, ambas as linhas devem se unir, formando uma cruz. Nesse sentido, a Verdade reside na atuação livre e onipresente, que se transforma de mil maneiras, tornando-se ora longitudinal, ora latitudinal, conforme a ocasião. Essa atividade em forma de cruz é a essência da prática de Kannon (観音).
+
+Desde a antiguidade, diz-se que Kannon (観音) não é homem nem mulher e, ao mesmo tempo, é ambos. Sua forma original é Sho Kannon, que se manifesta como as Seis Kannon — Senju, Juichimen, Nyoirin, Juntei, Fukukensaku e Bato —, as quais se desdobram em trinta e três aparências distintas. Ademais, Kannon possui inúmeros outros nomes, como Kanjizai Bosatsu, Mujinni Bosatsu, Semui Bosatsu, Mugeko Nyorai, Komyo Nyorai, Fuko Sanno Nyorai e Saisho Myo Nyorai. O fato de se manifestar especialmente como Ojin Miroku (Maitreya no Corpo de Manifestação) nos permite inferir a grandiosidade de sua natureza. A propósito, Amida Nyorai é Hoshin Miroku (Maitreya no Corpo da Lei), Shaka Nyorai é Hojin Miroku (Maitreya no Corpo de Recompensa), e as três deidades — com Kannon (観音) como Ojin Miroku — são reverenciadas como os Três Budas Miroku. Pode-se dizer também que o Miroku do Sol é Kannon (観音); o da Lua, Amida; e o da Terra, Shaka.
+
+É importante ressaltar que existe a teoria de que a forma original de Kannon (観音) seria uma manifestação de Amaterasu Oomikami, o que é um equívoco. Amaterasu Oomikami, na verdade, manifesta-se como Dainichi Nyorai.
+
+---
+
+# A Missão Divina no Ano do Rato
+
+**Categoria:** ta | **Ano:** 昭和11(1936)年1月1日 | **Fonte:** Toho no Hikari
+**Título Original:** 大黒様と鼠 滑稽阿呆文学 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1936-01-01
+
+## A Missão Divina no Ano do Rato
+
+Adentramos finalmente o décimo primeiro ano da era Showa, o Ano do Rato, que inaugura o ciclo zodiacal. O número dez representa a forma divina concluída; após uma década de preparação, a Kannon Kai (観音会) nasceu, como uma criança que emite seu primeiro choro. Assim, no Ano Novo que celebra seu primeiro aniversário, ela, qual um bebê, começa a dar seus primeiros passos a partir deste décimo primeiro ano, o ano do “dez mais um”. Com isso, todo o zodíaco de doze signos também se põe em movimento.
+
+Diz-se que a criatura conhecida como rato é a mensageira do deus Daikoku. Embora não seja propriamente uma divindade da sorte, desempenha um papel auspicioso. Apesar de seu pequeno porte, sua lealdade — expressa em seu labor incessante — é inigualável. Ele traz, pouco a pouco, os tesouros que encontra. É, de fato, uma criatura adorável.
+
+Poderíamos ser levados a pensar em um grande plano para o início do ano: lisonjear o rato, incentivá-lo a trabalhar com afinco para que ele nos traga os fundos necessários para nossas atividades. Contudo, se disséssemos tal coisa, os de mente pequena poderiam erroneamente concluir que Kannon (観音) é uma divindade avarenta. Mas a verdade é outra.
+
+Na realidade, o Japão começa a colher os frutos de longos anos de labor e suor, e testemunhamos agora o esplendor de seu progresso e expansão no cenário mundial. Nesse sentido, projeta-se que, a partir deste Ano do Rato, a prosperidade material flua abundantemente, aquecendo o bolso de todos. Quando os déficits se extinguirem, até mesmo a tradicional figura do Daruma, que não possui pernas, as verá brotar subitamente e se porá a dançar de alegria.
+
+Afinal, quem é essa figura de Daikoku, que se apresenta sempre com um sorriso radiante? Questioná-lo seria mera formalidade, pois Ele é, dentre os servos de Kannon (観音), o grande mestre encarregado de reunir tesouros e erradicar a pobreza. Há quem diga que Sua verdadeira identidade é a do valente Tamonten, mas tais investigações são de pouca importância. O que verdadeiramente importa é que todo o mundo, em uníssono, alcance uma condição de saúde, paz e felicidade, com o semblante de cada pessoa a refletir o sorriso de Daikoku. Quando isso ocorrer, os Sete Deuses da Fortuna dançarão e até mesmo Enma, o regente do submundo, haverá de sorrir.
+
+Este é o verdadeiro Paraíso, o estado em que o mundo terreno se manifesta como a Terra Pura da Luz Tranquila. Eis o grande estandarte da Kannon Kai (観音会): a edificação do Mundo de Grande Luz Divina.
+
+---
+
+# O Ponto de Origem de uma Grande Religião
+
+**Categoria:** ta | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
+**Título Original:** 大宗教の発祥地点 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
+
+## O Ponto de Origem de uma Grande Religião
+
+A nossa Associação Kannon (観音会) teve seu alvorecer em 1º de janeiro de 1935, em Hanzomon, no coração do distrito de Kojimachi — o qual constitui o centro nevrálgico de Tóquio, a própria capital do Japão. Este local se encontra a uma distância ínfima do Palácio Imperial, onde reside o Soberano de toda a nação, o que o situa, no mais verdadeiro sentido, aos pés do Trono. Tal fato encerra um significado da mais alta relevância.
+
+Conforme exposto anteriormente, a unificação do mundo pelo Japão consiste na expansão do Augusto Poder Divino do Imperador a todo o orbe.
+
+O nome do Japão, “Hi no Moto”, significa literalmente “A Origem do Sol”. Contudo, sua essência espiritual remete ao princípio de “Su” (ス), a fonte primordial. O próprio ideograma para “sol” (日) deriva de um pictograma ancestral que representa o astro-rei em seu zênite: ○丶. Esse mesmo princípio, “Su”, é foneticamente associado aos ideogramas de “unificar” (統), “imperador” (皇) e “clareza” (澄), sintetizando, assim, o conceito de um centro unificador. Ademais, o ideograma para “Su” é formado pela junção dos elementos “um” e “pessoa”, aludindo ao Soberano Uno, a autoridade suprema.
+
+Essa simbologia se torna manifesta quando observamos o sol. No momento em que ele atinge o ápice de sua trajetória, o meio-dia, sua luz se encontra em sua máxima intensidade. Ao olharmos para o céu nesse instante, a forma que se descortina é precisamente a de ○丶, o sol em seu ponto mais elevado.
+
+Trata-se, portanto, da manifestação da Luz do Grande Sol, que ilumina a totalidade do orbe e permite que toda a humanidade seja banhada em seu fulgor.
+
+Por essa razão, torna-se uma verdade autoevidente que a salvação, uma Luz grandiosa como a do Sol, devesse necessariamente emanar das proximidades do Trono Imperial em Tóquio, o centro da unificação.
+
+Até os dias de hoje, surgiram inúmeras religiões e salvadores, todavia, todos eles se desviaram do ponto central. Apenas por essa constatação, é possível vislumbrar a magnitude da missão com a qual a Associação Kannon (観音会) veio ao mundo.
+
+---
+
+# Proposta de Medidas para a Aplicação de Nossa Terapia na Marinha
+
+**Categoria:** to | **Ano:** 昭和18(1943)年 | **Fonte:** 答申案
+**Título Original:** 答申案 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1943
+
+## Proposta de Medidas para a Aplicação de Nossa Terapia na Marinha
+
+Para a implementação de nossa terapia na Marinha, apresento a seguir as medidas concretas para as áreas que demandam a mais premente atenção.
+
+Primeiro, abordarei o fortalecimento da capacidade física dos aviadores que atuam na linha de frente. O objetivo primordial é, naturalmente, acelerar a recuperação da fadiga e aumentar a resistência, com especial ênfase na acuidade visual, na clareza mental e na agilidade dos movimentos.
+
+Para a consecução de tal fim, o primeiro passo consiste em selecionar três terapeutas habilitados e enviá-los às bases aéreas da linha de frente. Segundo informações, existem dezenas de bases. Nesse sentido, proponho que em cada uma delas sejam selecionados, dentre os praças do corpo de saúde ou de enfermagem, candidatos para receber instrução. Sob a orientação dos terapeutas enviados, em um curso de aproximadamente cinco dias, estes aprendizes poderão adquirir uma notável habilidade terapêutica, permitindo uma expansão gradual da eficácia do tratamento.
+
+Uma vez que essa etapa esteja consolidada, o plano é dar início ao tratamento da malária e de outras enfermidades tropicais. Tenho a firme convicção de que, também nesses casos, alcançaremos uma eficácia terapêutica sem precedentes.
+
+Segundo, é desnecessário dizer que a questão mais urgente da atualidade reside na solução do problema da tuberculose. Para demonstrar a notável eficácia de nossa terapia no combate a essa doença, considero que o método a seguir é o mais apropriado.
+
+A proposta consiste em reunir no mínimo cinquenta pacientes com tuberculose para que recebam o tratamento por nossa terapia. A razão para tal exigência é que um número reduzido de casos seria insuficiente para comprovar, de forma inequívoca, os resultados do tratamento. Ademais, para que a eficácia da terapia seja demonstrada com o máximo rigor, é fundamental que todo o processo ocorra sob a supervisão de médicos especialistas, com a realização de exames científicos detalhados e a elaboração de registros estatísticos. Somente por meio de uma avaliação tão imparcial será possível determinar o seu verdadeiro valor prático. O resultado desse estudo representará, sem dúvida, um marco decisivo na superação da tuberculose, inclusive no campo da medicina.
+
+Felizmente, para a execução deste plano, existe uma oportunidade singular. Na área de residência de estrangeiros, na cidade de Yokohama, há um edifício que foi propriedade de cidadãos de nação inimiga. Este imóvel é perfeitamente adequado para o propósito em questão; basta que se providenciem os leitos para que ele seja imediatamente convertido em um hospital. Tendo em vista que o referido edifício se encontra sob a jurisdição do Ministério das Finanças, solicito que o vosso ministério tome as providências para a sua transferência e para a instalação de algumas dezenas de leitos.
+
+Com isso, poderemos dar início aos tratamentos experimentais sem demora. Acrescento, ainda, que ao lado do referido edifício há uma residência adequada onde eu mesmo poderia me instalar. Essa proximidade me permitiria supervisionar diretamente os tratamentos, o que considero ser de imensa conveniência para a obtenção dos melhores resultados.
+
+---
+
+# A Causa do Sismo na Região de Tochigi
+
+**Categoria:** to | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
+**Título Original:** 栃木地方の地震の原因 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
+
+## A Causa do Sismo na Região de Tochigi
+
+Exporei nossa perspectiva sobre o recente sismo que ocorreu na região de Tochigi. As agências meteorológicas admitem desconhecer sua origem, o que é perfeitamente compreensível, pois a meteorologia atual ainda não alcançou o nível necessário para decifrar abalos sísmicos dessa natureza. A ciência materialista, por si só, levaria séculos para chegar a tal conclusão. Em contrapartida, a Ciência Divina e Espiritual o desvenda com facilidade, o que evidencia sua notável grandeza.
+
+Conforme já expus em outros escritos, nossa interpretação dos sismos fundamenta-se na contração da crosta terrestre. Tal contração manifesta-se, na maioria das vezes, como subsidência do leito oceânico. A elevada frequência de terremotos no Japão deve-se, portanto, à sua extensa linha costeira. Contudo, a teoria científica atribui a causa à natureza vulcânica do país. Embora esse fator tenha sua relevância, os abalos de origem vulcânica raramente atingem grande magnitude. Os sismos devastadores, ao contrário, resultam do impacto que a subsidência do fundo do mar exerce sobre as massas continentais. Os fatos corroboram essa assertiva, como se viu no Grande Terremoto de Kanto e no sismo que atingiu a região de Fukui há dois anos. Da mesma forma, a preocupante subsidência de terra atualmente observada na região de Echigo é, inegavelmente, uma consequência do afundamento do leito do Mar do Japão.
+
+Todavia, o sismo ocorrido na região de Tochigi possui uma natureza distinta. Sua origem reside na influência da cordilheira de Nikko. Com efeito, o imponente maciço montanhoso de Nikko é composto por uma rocha sólida e maciça, cujo peso colossal exerce, ao longo de vastos períodos, uma pressão contínua sobre a crosta. Em virtude dessa compressão, a crosta subjacente adquire uma forma de subsidência natural. Quando tal afundamento atinge um determinado grau, desencadeia-se um fenômeno de compensação na crosta adjacente, que é mais maleável. Essa porção da crosta, então, enrijece-se gradualmente até que, por fim, se contrai subitamente. Portanto, terremotos dessa espécie são extremamente raros e, ademais, jamais alcançam grande magnitude.
+
+Esta é a explanação segundo a Meteorologia Divina e Espiritual.
+
+---
+
+# A Religião Mahayana
+
+**Categoria:** ta | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
+**Título Original:** 大乗宗教 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1950-01-30
+
+## A Religião Mahayana
+
+É do conhecimento geral a existência da distinção entre Mahayana e Hinayana no âmbito religioso, particularmente no budismo. Contudo, tal distinção parece não ter sido, até hoje, plenamente compreendida. Permitam-me, pois, discorrer sobre minha perspectiva a este respeito.
+
+Em sua essência, Mahayana significa a Grande Natureza. A Grande Natureza, por sua vez, refere-se ao processo de geração e desenvolvimento de tudo o que existe no Universo. Portanto, o Mahayana abrange a totalidade, sem nada excluir. Nesse sentido, o que ora vos apresento não é o Budismo Mahayana, mas sim a Via Mahayana. Nela se incluem a religião e a filosofia, a ciência e a política, a educação e a economia, bem como as artes. Ademais, engloba, naturalmente, a guerra e a paz, o bem e o mal.
+
+Ao contemplarmos atentamente as atividades de todo o Universo, vislumbramos a existência de uma via natural. O verdadeiro valor do ser humano reside, decerto, em sua capacidade de reconhecer que o progresso harmonioso advém da obediência a essa via. Por esse princípio, o desvio da via gera dissonância, o que inevitavelmente acarreta obstáculos e, por fim, conduz à estagnação ou à destruição. Assim, estar em conformidade com a via resulta em criação, enquanto desviar-se dela resulta em destruição. Esta é a verdadeira face do nosso mundo. A analogia é precisa: um trem avança enquanto permanece nos trilhos; se descarrila, sua jornada cessa.
+
+Por conseguinte, tudo o que perece, perece por uma razão, e tudo o que nasce, nasce por uma razão. Não há acasos; tudo é fruto da necessidade. Sob essa mesma ótica, no campo ideológico, a inclinação à esquerda gera uma força à direita, e a inclinação à direita gera uma força à esquerda. Deve-se, portanto, seguir a via sem pender para nenhum dos lados, de modo análogo à condução de um automóvel. Fundamentados nesse princípio, o capitalismo, o socialismo, o comunismo, as correntes conservadoras e as progressistas, o ativismo e o passivismo — e quaisquer outras doutrinas — surgem por necessidade e, pela mesma necessidade, desaparecem. O mesmo se aplica, evidentemente, às religiões: seu surgimento ocorre porque há uma razão para que surjam.
+
+Todavia, a maioria dos seres humanos observa o mundo a partir de sua própria e limitada posição, tendendo a taxar de heresia tudo o que lhes é externo. Isso ocorre porque enxergam através da pequena fresta de seu próprio ego, tal como diz o provérbio: “espiar o céu através do talo de um caniço”. Contudo, sob o olhar de Deus, que governa este mundo, a pequenez dos homens, a digladiarem-se nos chifres de um caracol, certamente Lhe arrancaria um sorriso resignado.
+
+Tudo aquilo que é desnecessário ao ser humano é naturalmente eliminado pela seleção natural; por outro lado, aquilo que é necessário não pode ser erradicado, por mais que o homem se esforce. Suponhamos, por exemplo, o surgimento de uma nova religião ou de uma nova ideologia. Ainda que, aos olhos humanos, pareça uma superstição ou uma doutrina maligna, se for necessária à humanidade, ela prosperará; se for desnecessária, será descartada. Portanto, até certo ponto, devemos confiar esse julgamento ao curso natural das coisas. De fato, se algo possui verdadeira vitalidade e valor, quanto mais for oprimido pela força humana, mais vigoroso será o seu desenvolvimento. O exemplo mais eloquente é o Cristianismo. Apesar de seu fundador, Cristo, ter sido condenado à morte, basta observar sua pujança nos dias de hoje para que nenhuma palavra a mais seja necessária.
+
+Escrevi este ensaio com o propósito de instar o homem moderno a refletir sobre o equívoco de sua visão, tão limitada e imediatista.
+
+---
+
+# O Japão como Vértice do Mundo
+
+**Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
+**Título Original:** 東京が中心 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
+
+## O Japão como Vértice do Mundo
+
+É possível que alguns duvidem da afirmação que fiz no tópico anterior, a de que o Japão é o centro do mundo. O principal argumento para tal ceticismo seria a sua localização no Extremo Oriente. Passarei, portanto, a elucidar essa questão.
+
+Para ilustrar, tomemos como analogia o Monte Fuji. Visto de cima, a partir de uma aeronave, seu cume revela-se como o ponto central de uma circunferência. Contemplado de perfil, todavia, o mesmo cume aparenta ser a extremidade. Se considerarmos a base da montanha como o Ocidente, é lógico que seu pico corresponda ao Extremo Oriente.
+
+Com efeito, todas as grandes religiões da humanidade, até os dias de hoje, surgiram no Ocidente. O Budismo, o Cristianismo, o Islamismo, o Confucionismo, o Taoismo, o Bramanismo e o Judaísmo são exemplos disso. Tal fenômeno se repete no próprio Japão, onde religiões como a Tenrikyo, a Konkokyo, a Oomoto, a Hito-no-michi, a Butsuryu-ko e a Seicho-no-Ie também tiveram sua origem a oeste. O mesmo princípio se aplica à cultura.
+
+A concentração de diversas religiões e culturas, que fluíram do Ocidente para o centro oriental, assemelha-se à convergência de inúmeras pessoas que sobem das bases do Monte Fuji em direção ao seu cume. Foi um movimento centrípeto. Agora, todos esses elementos reunidos serão sintetizados e harmonizados para, como uma cultura perfeita e irretocável, serem irradiados de forma centrífuga a todo o globo terrestre.
+
+Essa irradiação da augusta Luz Divina aos oito cantos do mundo, centrada na figura do Imperador do Japão — descendente direto da Deusa do Sol, Amaterasu Omikami —, é simbolizada pelo crisântemo de dezesseis pétalas. Ao duplicarmos esses oito cantos, considerando suas dimensões espiritual e material, obtemos dezesseis.
+
+---
+
+# O Subterfúgio da “Constituição Física Peculiar”
+
+**Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 特異体質は逃げ言葉？ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+
+## O Subterfúgio da “Constituição Física Peculiar”
+
+Neste ponto, desejo dirigir uma advertência à classe médica. Trata-se do seguinte: quando a cura não progride conforme o esperado, é comum que os médicos justifiquem o insucesso alegando que “sua enfermidade se deve a uma constituição física peculiar”, ou que se trata de “uma doença rara, que acomete uma pessoa em dez mil”, ou ainda que “o tratamento foi iniciado tardiamente”. Contudo, não consigo ver tais afirmações senão como meros subterfúgios.
+
+Isto porque, em minha experiência, acumulada ao longo de dezenas de milhares de casos que tratei até hoje, posso afirmar que pacientes com tais características são praticamente inexistentes. Afinal, o processo de cura é fundamentalmente o mesmo para todos. As verdadeiras constituições peculiares congênitas são raríssimas, com exceção daquelas que decorrem de intervenções como cirurgias, injeções ou do uso excessivo de medicamentos. Se insistirmos em encontrar um exemplo, poderíamos citar apenas os portadores de deficiências físicas congênitas.
+
+Portanto, como se pode depreender do exposto, o fato de os médicos se verem compelidos a usar tais justificativas revela duas realidades: a sua incapacidade de obter a cura desejada e o desconhecimento sobre a verdadeira origem das doenças. Em suma, tudo isso evidencia o estado incipiente da medicina.
+
+---
+
+# A Essência da Maestria na Arte Cênica
+
+**Categoria:** ta | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** 団十郎の芸 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.17 | **Data ISO:** 1949-08-30
+
+## A Essência da Maestria na Arte Cênica
+
+Desde tempos imemoriais, o mundo tem sido agraciado com a presença de inúmeros mestres. Contudo, o fato de serem tão raros evidencia a extrema dificuldade de se atingir tal patamar. Sempre nutri a convicção de que a contribuição dos mestres para a humanidade é de um valor inestimável, e que a eles devemos profunda gratidão. Um mestre, a meu ver, é a soma de genialidade e esforço; já o homem de talento comum, através do esforço, torna-se apenas um perito na sua arte. Nesse sentido, gostaria de discorrer sequencialmente sobre os mestres que tive o privilégio de conhecer e apreciar ao longo da minha vida.
+
+No universo do teatro, o mestre que permanece indelével em minha memória é, sem dúvida, Danjuro IX. Sua maestria era tão renomada que minhas palavras seriam supérfluas; limito-me, portanto, a registrar aqui minhas impressões como espectador. Recordo-me vividamente de tê-lo assistido por volta dos meus vinte anos, no auge de sua maturidade artística. Assisti-o majoritariamente em suas peças de repertório familiar, conhecidas como as Dezoito Obras Clássicas do Kabuki. Ao que parece, em seus últimos anos, suas aparições se restringiam aos atos centrais das apresentações. O traço distintivo de sua maestria, que o diferenciava radicalmente dos demais atores, era sua imobilidade em cena. Costumava-se dizer que sua arte provinha das entranhas, uma atuação visceral, e de fato era assim. Ele quase não se movia nem exibia o que comumente se entende por "atuar", e ainda assim, cativava a plateia em sua totalidade. Era, sem sombra de dúvida, um mestre absoluto. Diziam também que nenhum outro ator conseguia imprimir tamanha solenidade e domínio ao palco, o que corresponde à verdade. Descreverei a seguir duas ou três impressões que guardo até hoje de suas performances.
+
+Ele tinha predileção por interpretar heróis e grandes vultos da história, o que certamente era um reflexo de sua própria personalidade. Dentre as peças a que assisti, as que mais me marcaram foram: Benkei, em *Kanjinchō*; Sakai Saemon-no-jō, em *Sakai no Taiko*; Kiichi Hōgen, em *Kikubatake*; a demônia, em *Momijigari*; e os papéis de Katō Kiyomasa, Tametomo, Mito Kōmon e Kezori Kuemon. Dentre estas, a sua atuação como Sakai Saemon-no-jō foi singular. Na cena, enquanto o exército inimigo se avizinhava, impondo uma ameaça iminente ao castelo, ele mesmo se punha a tocar o grande tambor de guerra. O som do instrumento não revelava o menor sinal de perturbação. Em seguida, ordenava que os portões do castelo fossem abertos e as lanternas acesas, como se tudo transcorresse em absoluta normalidade. Diante de tal serenidade, o general inimigo, convicto de que se tratava de um ardil profundo, ordenou a retirada de suas tropas. A cena retratava Saemon-no-jō aguardando o desenrolar dos acontecimentos com uma audácia e uma compostura inabaláveis. Mesmo quando seus vassalos, ignorantes da estratégia, chegavam em sucessão para informar sobre o perigo crescente, ele não movia uma única sobrancelha, limitando-se a esperar, em silêncio, o passar do tempo. Sozinho, no centro do palco, ele permanecia sentado em absoluta imobilidade, de olhos cerrados e com o rosto ligeiramente inclinado para baixo, sem esboçar o mínimo movimento. Nos momentos finais, cessavam até mesmo os relatos de seus subordinados, e ele, isolado em cena, parecia ter transcendido a condição de um ser vivo, tamanha a sua quietude, que se prolongou por cerca de quatro ou cinco minutos. O público, em suspense, prendia a respiração, observando aquele homem silencioso e imóvel, tentando adivinhar suas próximas ações, completamente hipnotizado. Naquele momento, refleti profundamente: como pode um único ator, no centro de um palco imenso como o do kabuki, sentado em absoluta imobilidade, sem um sorriso, uma carranca ou uma única palavra, cativar a plateia de forma tão avassaladora? Aquilo era, sem dúvida, o ápice da técnica artística. "Que mestre extraordinário!", exclamei em meu íntimo, maravilhado.
+
+Outra atuação memorável foi na cena de *Kikubatake*, em que ele interpretava Kiichi Hōgen. Embora favorecido como estrategista militar pelo clã Heike, Hōgen nutria em seu coração o desejo secreto pela restauração do clã Genji. Acontece que Ushiwakamaru, sob o pseudônimo de Torazō, infiltra-se em sua residência como serviçal, junto a seu vassalo Chienai, com o plano de se apoderar dos pergaminhos de estratégia militar *Rikutō Sanryaku*, de posse de Hōgen, para reerguer o clã Genji. A filha de Hōgen, a princesa Minazuru, apaixona-se por Torazō, o que, para a secreta satisfação do pai, torna-se um meio para que o próprio Torazō, com a ajuda dela, subtraia os pergaminhos do tesouro da família. Hōgen, intimamente satisfeito, mas ciente de sua lealdade forçada ao clã Heike, precisava fingir não perceber o envolvimento de sua filha com Torazō. Sua performance nessa cena, puramente visceral e contida, foi de uma sutileza indescritível.
+
+Houve também a cena em que Mito Kōmon, a pedido de seu vassalo Fujii Mon'tayū, executa-o. Após ceifar-lhe a vida com um só golpe, ele limpa a lâmina e a embainha, sem sequer dirigir o olhar ao corpo de Mon'tayū. Então, entoando em voz clara e sonora um cântico do teatro Nō sobre a dança do deus-dragão, retira-se com passos serenos por uma longa varanda. A cadência daquela cena, combinada ao palco giratório, era de tirar o fôlego, uma emoção que jamais esqueci. Em outra peça, como Tametomo, para salvar seu filho de um perigo iminente, ele o amarra a uma pipa gigante e o lança aos céus, cortando a corda em seguida. Sua expressão facial naquele momento, fitando o céu distante com uma calma imperturbável, era incomparável. A afeição paternal transbordava daquela face impassível. Pura arte visceral. É simplesmente impossível traduzir em palavras ou pela escrita a força enigmática e a capacidade que ele possuía de subjugar completamente o público.
+
+Na época, ouvi dizer que, se uma cena sua fosse recebida com aplausos efusivos pela plateia, no dia seguinte ele a alterava. Imagino que seu alvo não era a massa, mas sim o olhar de um único e verdadeiro conhecedor. Após a morte de Danjuro, perdi o interesse pelo teatro kabuki. A performance dos demais atores me parecia tão inferior que a tristeza por não mais sentir o mesmo apreço por essa arte perdura até hoje. Devo admitir, contudo, que o grande mestre que sucedeu Danjuro foi, sem dúvida, Nakamura Ganjirō. De suas atuações, "Kamiya Jihē" e "Tōjūrō no Koi" são, para mim, inesquecíveis.
+
+Se me permitem a franqueza sobre o motivo pelo qual perdi o interesse pelo kabuki, creio que a razão fundamental reside na carência de uma dimensão espiritual. Em uma palavra, busca-se impressionar apenas pela forma, com uma ânsia de agradar ao público. Isso, inevitavelmente, rebaixa o nível da arte. Os atores de hoje, quase sem exceção, pecam pelo excesso de gesticulação e movimento. Danjuro, por sua vez, transcendia a forma, buscando expressar tudo através do espírito, o que elevava a arte ao seu mais alto grau. Sob outra perspectiva, ao retratar uma figura notável, ele se fundia completamente a ela. É preciso lembrar que os japoneses de outrora prezavam a contenção das emoções; portanto, a ausência de expressão facial era a representação mais autêntica. Assim, os personagens que ele encarnava não davam a impressão de ser um ator fantasiado, mas sim de testemunhar a reencarnação do próprio herói ou da figura ilustre daquela época. Anseio ardentemente que, durante minha vida, surja ainda um outro mestre de sua envergadura.
+
+Aproveito para mencionar uma atriz que, em minha opinião, merece ser incluída no rol dos mestres. Refiro-me à célebre Matsui Sumako. Assisti à sua estreia, no papel de Nora na peça "Casa de Bonecas" de Ibsen. Para uma atriz tão jovem, sua performance foi de uma excelência que me deixou estupefato. A partir de então, não perdi mais nenhuma de suas apresentações. As últimas peças em que a vi foram "A Esposa do Açougueiro", de autoria do Sr. Nakamura Kichizō, e "Carmen". Coincidentemente, em ambas as tramas, sua personagem era assassinada: na primeira, pela inveja do marido; na segunda, por Don José. É uma estranha coincidência, de fato. Dois dias após essa apresentação, ela tirou a própria vida, um fato que nos leva a profundas reflexões. Contudo, o fato de ter subido ao palco dois dias antes de sua morte sem demonstrar o menor indício de seu tormento interior revela uma dedicação e uma consciência admiráveis como atriz.
+
+Gostaria de discorrer também sobre mestres de outras áreas, mas, para não me estender demasiadamente, encerro aqui este artigo.
+
+---
+
+# A Construção do Mundo de Grande Luz
+
+**Categoria:** ta | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
+**Título Original:** 大光明世界の建設 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-02-04
+
+## A Construção do Mundo de Grande Luz
+
+Feliz Ano-Novo a todos.
+
+É com imensa alegria que presenciamos a concretização da Sociedade Kannon, um evento deveras alvissareiro. Esta inauguração, a bem da verdade, estava prevista para uma data posterior; contudo, foi a própria Senhora Kannon (観音) quem apressou os desígnios. No dia vinte e três, realizamos no Templo Oshin-do uma cerimônia de fundação, da qual participaram apenas alguns membros da cúpula e aqueles que futuramente assumirão a liderança das filiais. Até então, a localização da Sede Central ainda não havia sido definida, mas, na noite daquele mesmo dia, recebi uma comunicação de Kannon com as seguintes diretrizes: a cerimônia de inauguração da Sede deveria ocorrer nesta casa, antiga sucursal da Oomoto. Fui tomado de completa surpresa, pois em momento algum havia cogitado tal possibilidade. Quando tal desígnio se revelou, contudo, compreendi que havia, de fato, razões inequívocas para que a cerimônia magna se realizasse neste local. Assim, demos início aos preparativos no dia vinte e quatro, e considero uma grande graça podermos celebrar esta inauguração hoje. Nesta ocasião, gostaria de expor, em linhas gerais, os vastos planos que temos, abordando os objetivos e as futuras atividades da Sociedade Kannon.
+
+Antes de adentrar o tema principal, desejo fazer uma breve comunicação. A Sociedade Kannon publicará um órgão informativo intitulado “Luz do Oriente”. A primeira edição estava programada para o dia vinte e três e, assim que estiver pronta, será enviada a todos os senhores. Ademais, teremos uma revista mensal chamada “Mundo de Luz”, cujo primeiro número deverá ser lançado no dia quatro de fevereiro, data que marca a celebração do Setsubun. Rogo que utilizem amplamente ambas as publicações como ferramentas de divulgação. Nossa intenção é oferecer a “Luz do Oriente” gratuitamente. Para pedidos em grande quantidade, talvez seja necessário estipular um valor simbólico de cerca de dois sen por exemplar. Quanto à revista “Mundo de Luz”, planejamos distribuí-la, inicialmente, a um custo de vinte a trinta sen. Começaremos com uma edição de aproximadamente cinquenta páginas, em formato菊版 (kikuban), com a expectativa de expandi-la para cem páginas à medida que a tiragem aumentar.
+
+Esta noite, gostaria de discorrer sobre o objetivo primordial da Sociedade Kannon: a construção do Mundo de Grande Luz.
+
+O Mundo de Grande Luz, como a própria expressão sugere, é um mundo onde não haverá mais escuridão, graças à Luz de Kannon. Um mundo sem escuridão é, por conseguinte, um mundo isento de sofrimentos, angústias e pecados. O anelo por tal mundo, o desejo de construí-lo, impulsionou, por milênios, inúmeros sábios, santos e grandes fundadores de religiões a pregar seus ensinamentos e a empreender grandes esforços. Todavia, esse mundo jamais se concretizou; nem mesmo algo que se assemelhasse a ele chegou a existir. A sua concepção foi relegada à categoria de mero ideal humano, e a sua viabilidade permaneceu, até os dias de hoje, envolta em ceticismo.
+
+Contudo, tal mundo é, de fato, realizável. E mais: ele está prestes a se concretizar em meio a uma vertiginosa reviravolta dos tempos. Fui notificado a esse respeito há exatos sete anos, pela própria Kannon, ou seja, pela Deusa Izunome-no-Ookami (伊都能売之大神). Naquela época, para ser franco, ainda nutria certas dúvidas sobre a sua efetiva concretização. Desde então, porém, testemunhei inúmeros milagres, fenômenos prodigiosos que a inteligência e a experiência humanas são incapazes de mensurar ou explicar. Todos esses milagres, sem exceção, serviram para corroborar a vinda do Mundo de Grande Luz, demonstrando-a como uma certeza absoluta. Com isso, minha fé se fortaleceu sobremaneira, e passei a compreender, com clareza inabalável, que esse mundo será edificado por meu intermédio — ou, mais precisamente, que a Senhora Kannon utilizará meu corpo como instrumento para construí-lo.
+
+Sou, por natureza, um homem de extrema cautela. A despeito de uma aparência talvez magnânima, sou, em essência, bastante meticuloso, a ponto de, por excesso de prudência, parecer por vezes hesitante. No entanto, até mesmo um homem com tal temperamento como o meu chegou à conclusão de que não há alternativa senão realizar esta grandiosa Obra. Sinto o dever de revelar a Verdade a toda a humanidade e de salvá-la. É a própria Senhora Kannon quem me impele a esta tarefa, concedendo-me um poder imensurável para que eu a cumpra. Fui cientificado de inúmeros acontecimentos de um futuro longínquo, e todos eles vêm se manifestando na realidade, sem o menor desvio.
+
+Profecias ancestrais, como a vinda da Era de Miroku (五六七の世), do Paraíso Terrestre, da Era de Kanrodai (甘露台の世) e da Era de Gino (義農の世), prenunciavam a chegada de um novo tempo. Compreendi que todas elas eram verdadeiras. A Obra que me foi incumbida de realizar, o mundo que me foi determinado criar, é, precisamente, a concretização de tais predições. Qual é, então, o seu fundamento? É o poder de Kannon. Essa força, o poder de Kannon, jamais se manifestou verdadeiramente no mundo até hoje. Shakyamuni pregou a compaixão, Cristo pregou o amor, e diversos outros santos transmitiram o caminho aos homens com grande eloquência. No entanto, embora tenham pregado, faltava-lhes a força para efetivar seus ensinamentos na prática. Talvez tenham obtido algum êxito, mas jamais conseguiram estendê-lo à totalidade da humanidade. Por essa razão, seus ensinamentos permaneceram no campo das profecias e dos ideais, e o mundo que almejavam nunca se tornou realidade. A profunda degradação e o caos em que a humanidade mergulhou até os dias atuais devem-se ao fato de que as religiões e os preceitos morais, embora possuíssem certo poder, careciam de um poder absoluto. Em suma, por carecerem de força suficiente, foram vencidos pelo mal.
+
+Finalmente, o tempo celestial chegou, e o poder absoluto manifestar-se-á sobre a Terra. Uma força desconhecida pela humanidade por milênios está prestes a emergir, e, com ela, surgirão acontecimentos que desafiam toda a imaginação.
+
+Observando as religiões até hoje, percebemos que nenhuma delas foi completa. Tomemos como exemplo o budismo, com suas correntes Mahayana e Hinayana. A Hinayana é comumente interpretada como uma fé egoística, e a Mahayana, como uma fé altruísta. Ainda que esta interpretação não seja de todo precisa, partindo dessa premissa, afirmo que ambas as abordagens estão equivocadas. A fé de cunho individualista, nos moldes da Hinayana, concentra-se no benefício pessoal: basta que o indivíduo e sua família vivam em paz e conforto. Ela ignora por completo a sociedade, a nação e a humanidade. As preces por segurança familiar, saúde e prosperidade nos negócios, tão comuns em nossa sociedade, são a expressão máxima dessa fé egocêntrica.
+
+Em contrapartida, a chamada fé de cunho altruísta, Mahayana, adota uma postura diametralmente oposta: dedica-se a causas maiores, como a sociedade, a nação ou a humanidade, negligenciando o próprio eu. Propõe o abandono de pais e filhos e o sacrifício do lar em prol do bem comum. Tal atitude reveste-se, à primeira vista, de grande nobreza. A abnegação em nome de uma causa maior é, sem dúvida, um ato de heroísmo e dignidade. Contudo, também esta senda, à luz da Verdade, revela-se um equívoco, excetuando-se casos extraordinários e circunstâncias inevitáveis, que são raros no curso da vida cotidiana. Portanto, é evidente que nem a via individualista nem a altruísta são o caminho correto.
+
+Qual seria, então, a verdadeira senda? Ela não é nem individualista nem altruísta; ou melhor, é, ao mesmo tempo, individualista e altruísta. Há momentos em que se deve agir de modo individualista e outros em que a ação altruísta se faz necessária. O caminho correto varia conforme o tempo, a situação e a pessoa. É análogo ao modo como nos vestimos: usamos roupas leves no calor, um agasalho de lã quando refresca e um casaco acolchoado no frio. O verdadeiro caminho, portanto, consiste em adaptar-se de acordo com o objeto, a circunstância e a posição de cada um.
+
+Com efeito, a fé de cunho individualista e egoísta jamais poderá salvar a humanidade, pois o choque de egoísmos gera conflitos que, em maior escala, culminam em guerras. Por outro lado, a fé altruísta, que prega o sacrifício do eu em prol do mundo, embora pareça isenta de erros, foi praticada por inúmeras pessoas ao longo das eras, e o mundo ideal jamais se concretizou. O resultado, mais eloquente que qualquer argumento, comprova a sua ineficácia. Ainda hoje, ao observar religiões que seguem esse modelo, sou invadido por um sentimento de profunda tristeza e desolação. É louvável sacrificar tudo pela humanidade, mas quem segue esse caminho invariavelmente chega a um beco sem saída. Acaba por causar transtornos à própria família e aos parentes, sofre o ostracismo de sua comunidade e mergulha na solidão. Mesmo assim, insiste: “Faço-o por Deus, é uma provação divina”. E, quanto mais se obstina, mais incompreendido e rejeitado se torna, até se ver completamente paralisado. Ao invés de salvar, a pessoa chega a um ponto em que precisa ser salva por outros simplesmente para subsistir. Este padrão se repete em toda sorte de religiões. Como se poderia construir o Paraíso dessa maneira?
+
+A edificação do Paraíso Terrestre torna-se clara quando consideramos as unidades que compõem o mundo. Em última análise, a unidade fundamental é o ser humano. O mundo é um conjunto de seres humanos que formam nações; as nações são compostas de cidades e vilas; estas, por sua vez, são formadas por lares; e os lares são constituídos por indivíduos. A lógica é irrefutável: se o indivíduo, a unidade fundamental, não for salvo, o mundo jamais poderá sê-lo. Desse modo, tanto a fé individualista, que visa apenas o benefício próprio, quanto a fé altruísta, que sacrifica o indivíduo, estão equivocadas. É preciso que ambos prosperem; que o todo seja salvo. O indivíduo é salvo e atinge a perfeição, e essa condição se expande até que o mundo inteiro seja salvo e aperfeiçoado. Logo, é imperativo que o indivíduo seja salvo e aperfeiçoado em primeiro lugar. Se considerarmos um lar como um microcosmo do mundo, quando essa família se tornar um paraíso e for salva, o mundo inteiro será salvo.
+
+Embora essa ideia já existisse, ela era tida como inalcançável, um ideal abandonado. Isso se devia à carência de força por parte dos fundadores e de suas religiões. Agora, entretanto, por meio do poder de Kannon, essa meta será infalivelmente alcançada. Em termos simples, trata-se da criação de um mundo sem doença, pobreza e conflito; de lares sem doença, pobreza e conflito. Esses três males correspondem às três pequenas calamidades — fome, peste e guerra —, mas a expressão “doença, pobreza e conflito” parece-me mais precisa. Esses flagelos serão aniquilados. Será que isso é possível? Sim, é absolutamente possível. Com a fé em Kannon, é plenamente realizável. No passado, isso não era viável; por mais nobre que fosse a fé, não se conseguia criar um lar livre da doença, da pobreza e do conflito. Mas agora, isso se tornou possível. Na verdade, muitos membros da Sociedade Kannon já estão a vivenciar essa transformação. Há muitos que já a alcançaram, que estão em processo de alcançá-la ou que se aproximam dela a cada dia.
+
+A construção do Mundo de Grande Luz pode parecer uma tarefa árdua, mas não é tão complexa quanto parece. Basta que o mundo se preencha de lares onde não existam a doença, a pobreza e o conflito. Então, e somente então, o mundo poderá desfrutar da paz verdadeira. O poder de Kannon é a “Luz do Oriente”, mencionada desde tempos imemoriais. É um profundo mistério como essa expressão surgiu há tanto tempo. Eu mesmo, há sete anos, no dia do Setsubun do terceiro ano da Era Showa, comecei a receber de Kannon diversas revelações sobre a Luz do Oriente. Aguardei serenamente a chegada do momento oportuno; ou melhor, estive me preparando.
+
+Nesse contexto, um evento significativo ocorreu com a visita do senhor Toko Otoko, que hoje se encontra aqui e que muitos dos senhores conhecem. O nome dele significa “homem da luz do leste”. Certo dia, ele solicitou uma audiência, apresentando um cartão de visitas com esse nome, o que me deixou profundamente impressionado. Era um completo desconhecido para mim. Ele apareceu subitamente no dia onze de outubro do ano passado e relatou que, vinte anos antes, fora informado por Deus sobre o advento de uma pessoa dotada do poder de Kannon. Por intuição espiritual, soube que encontraria essa pessoa neste ano. Sabia também que ela já havia se manifestado a leste de sua residência, no distrito de Shibuya. Suas buscas o levaram ao bairro de Kojimachi, até que, por indicação de um terceiro, veio procurar-me no Templo Oshin-do. Ao ouvi-lo, disse-lhe que, sem dúvida, essa pessoa era eu. Ele então pediu permissão para tirar uma fotografia, e o resultado foi a conhecida foto espiritual da Kannon de Mil Braços. Esse foi o primeiro passo no plano divino para a manifestação da Luz do Oriente. Com efeito, a primeira obra dessa Luz é o surgimento e a atuação da Senhora Kannon de Mil Braços.
+
+Em setembro do ano passado, a Senhora Kannon, em meu interior, comunicou-me que era chegado o momento de pintar a imagem da Kannon de Mil Braços (千手観音). Iniciei imediatamente os preparativos e comecei a pintura no dia cinco de outubro. Quando havia concluído cerca de um terço da obra, o senhor Higashi apareceu e tirou a fotografia, como acabei de mencionar. Aquela fotografia revelou-me como a Kannon de Mil Braços deveria ser retratada, de modo que reiniciei a pintura imediatamente, seguindo a orientação recebida.
+
+Por que, então, a Luz do Oriente se manifesta neste exato momento? Porque toda a civilização e cultura que conhecemos hoje provieram do Ocidente. A própria civilização chinesa é, em sua essência, uma civilização ocidental. Isso pode ser compreendido pelo hino que entoamos há pouco: “Corrigindo a civilização do Ocidente, ergue-se o eterno caminho do Oriente”. Os equívocos da civilização ocidental tornaram-se sobejamente evidentes nos últimos tempos. Além disso, desde o Incidente da Manchúria e o consequente avanço do Japão, o Ocidente já não inspira o mesmo respeito de antes. Isso também é um desígnio do tempo. Qual foi o resultado da expansão da civilização ocidental pelo mundo? É inegável que, no campo científico, desfrutamos de imensas conveniências e benefícios, pelos quais devemos ser profundamente gratos. No entanto, no plano espiritual, degeneramos para o individualismo e o egoísmo, gerando um estado deplorável de conflitos incessantes por toda parte.
+
+Recentemente, ouvi a palestra de um certo tenente-general do Exército. Ele afirmava que somente o Caminho Imperial do Japão poderá salvar o mundo. Segundo ele, a civilização ocidental é uma civilização de conflito e, portanto, deve ser salva pelo espírito Yamato, ou seja, pelo espírito altruísta. Dizia ainda que, se a situação persistir, não apenas o Japão, mas o mundo inteiro chegará a um impasse insolúvel. Suas palavras correspondem precisamente àquilo que sempre pensamos.
+
+Podemos constatar essa realidade com clareza ao observar a situação das nações europeias e americanas, que se encontram impotentes e em gradual declínio. O mundo vive em um estado tal que a guerra já deveria ter eclodido. Quando o rei da Iugoslávia foi assassinado, por exemplo, o conflito foi evitado. Isso ocorreu unicamente porque todas as nações estavam exauridas, sem forças para lutar. A paz que se observa atualmente na Europa nada mais é do que a paz entre nações famintas, incapazes de lutar. Nem é preciso imaginar o que acontecerá quando recuperarem seu vigor. Voltando o olhar para o Japão, deparamo-nos com impasses na política, na economia, na educação — em todas as esferas. A falência do espírito ocidental é manifesta. O Japão, em um primeiro momento, absorveu a civilização oriental, proveniente da China e da Índia. No exato instante em que essa assimilação se completava, a civilização ocidental adentrou o país. Este fato encerra um profundo significado.
+
+Lancemos um breve olhar sobre a História. Primeiramente, floresceram no mundo as civilizações orientais da China e da Índia. Assim como a civilização europeia de hoje, elas dominaram o cenário mundial por um longo período, expandindo-se para o oeste e dando origem às civilizações do Egito, da Grécia e da Assíria. Passando pela civilização romana, evoluíram até se tornarem a civilização ocidental que conhecemos. O fato de a civilização oriental ter surgido primeiro, seguida pela ocidental, revela um profundo propósito e uma meticulosa preparação no plano divino para o mundo. A civilização oriental é uma civilização espiritual, vertical (経); a ocidental, uma civilização material, horizontal (緯). Tivemos, até o momento, um protótipo de cada uma dessas duas grandes civilizações. Em termos de abrangência, a oriental pode ser considerada uma civilização Hinayana, e a ocidental, uma civilização Mahayana. Isso se evidencia no caráter dogmático e isolacionista do pensamento oriental, em contraste com a natureza expansionista, horizontal, do pensamento ocidental.
+
+Ocorre que toda civilização, ao atingir seu pleno desenvolvimento e apogeu, entra em um estado de estagnação e impasse. A condição atual da civilização ocidental é um exemplo disso. Minha afirmação anterior, de que tanto a via individualista quanto a altruísta são equivocadas, refere-se exatamente a este ponto. Qual, então, o destino dessas duas grandes civilizações? É aqui que reside a missão da Sociedade Kannon. O plano divino preceitua que, ao final, essas duas civilizações se unam. O ponto de união é o Japão, e o momento é agora. Assiste-se a um casamento: o noivo, Oriente, desposa a noiva, Ocidente. A Senhora Kannon é a intermediária dessa união. O filho que nascerá desse matrimônio será a verdadeira civilização, o mundo ideal há tanto almejado pela humanidade, o Paraíso Terrestre, a Era de Miroku. A força capaz de realizar esta grandiosa e inédita Obra de promover esse enlace e dar à luz um filho precioso é, precisamente, o poder de Kannon.
+
+A atual situação de emergência mundial representa as dores do parto dessa nova civilização. É o momento final e, ao mesmo tempo, o inicial, em que a forma da cruz, resultante da união do vertical e do horizontal, está prestes a se formar. O emblema da Sociedade Kannon, que existe desde tempos remotos — o manji (卍) invertido —, é um símbolo desse significado. Ele representa uma cruz cujas extremidades se dobram, indicando o início de uma rotação após a união. A rotação é o plano divino. O movimento é para a esquerda. Quando o vertical e o horizontal se unem em cruz, algo extraordinário acontece: nasce uma força descomunal, o poder da unificação do espírito e da matéria. A essa força damos o nome de poder de Kannon, a Luz do Oriente.
+
+A civilização vinda do Ocidente, que avançava para o leste, chegou ao marco dos noventa e nove por cento de seu percurso. Nesse ponto, no centro da terra divina do Japão, no Extremo Oriente, manifestou-se a Luz. Essa é a Luz do Oriente. Por meio dela, a civilização ocidental, que se dirigia para o leste e estava fadada ao colapso, será regenerada e purificada. Nascerá uma civilização ideal, na qual o vertical e o horizontal se fundirão em perfeita harmonia, tornando-se um caminho de luz e prosperidade eternas. E, desta vez, ela se expandirá em sentido inverso, rumo ao Ocidente. O fato de esse fenômeno ter sido prenunciado há milênios pela expressão “Luz do Oriente” é, no mínimo, prodigioso.
+
+A cerimônia de inauguração de hoje marca o início desse plano da Luz do Oriente. Creio, portanto, que assistiremos a um desenvolvimento de ímpeto extraordinário. A Senhora Kannon de Mil Braços, também conhecida como Senju Sengen Kanzeon, com suas mil mãos, concede vida a todas as coisas e as ressuscita; com a luz que emana de seus mil olhos, banha a todos e os salva. Quando a civilização ocidental atingiu os noventa e nove por cento e se viu em um impasse, surge a força do um por cento para lhe devolver a vida. A analogia com uma espiral ajuda a compreender esse princípio. Até agora, a civilização ocidental avançou em um movimento de rotação para a direita. No limiar dos noventa e nove por cento, ocorre uma súbita inversão para um movimento de rotação para a esquerda. O movimento para a direita é sempre destrutivo. Ao amassar carvão para fazer um briguete ou ao enrolar um bolinho de arroz, por exemplo, o movimento para a esquerda une e dá forma, enquanto o movimento para a direita desfaz e desintegra. O mesmo se aplica a uma chave: para trancar, gira-se para a direita; para abrir, para a esquerda. A civilização ocidental é, pois, uma civilização destrutiva, de movimento para a direita. A mola de um relógio obedece ao mesmo princípio.
+
+A partir de agora, do centro do Japão, deste bairro de Kojimachi, por meio da Sociedade Kannon, daremos início à civilização de movimento levógiro. Edificaremos uma civilização perfeita e sem falhas, nosso objetivo maior: o Mundo de Grande Luz. Trata-se de um movimento de magnitude sem precedentes desde a criação do mundo, algo verdadeiramente inimaginável. Deus esteve preparando este momento por milhares, dezenas de milhares de anos, com um zelo impecável, e a hora finalmente chegou. Como mencionei, a providência do um por cento é a obra da Kannon de Mil Braços. A esse respeito, ocorreu um fato interessante.
+
+No dia vinte e três do mês passado, entronizamos a imagem da Kannon de Mil Braços no Templo Oshin-do. Dois dias depois, um completo desconhecido apareceu e, por acaso, trouxe-me uma moeda de um rin. Na face dessa moeda, havia uma imagem em relevo da Kannon de Mil Braços e, no verso, os quatro ideogramas que formam seu nome. Mostrei-a a um antiquário com trinta ou quarenta anos de experiência no ramo, e ele afirmou jamais ter visto algo semelhante. Isso demonstra a raridade do objeto. Creio que Deus se utilizou desse pequeno fato para nos mostrar que a obra da Kannon de Mil Braços é a obra do um por cento — um rin. Milagres como este acontecem todos os dias.
+
+Originalmente, a Senhora Kannon possui um corpo diminuto, mas um poder imenso. A Kannon de Asakusa, por exemplo, mede apenas 1,8 sun (cerca de 5,5 cm), mas reside em um salão de 18 ken (cerca de 33 metros) de lado e atrai o maior número de peregrinos do Japão. A propósito, a Senhora Kannon está associada ao número dezoito (1,8 sun, 18 ken). Isso se deve ao fato de que Miroku (ミロク) é, em sua essência, a própria Kannon. O nome Miroku é escrito com os ideogramas para cinco (五), seis (六) e sete (七), cuja soma é dezoito. Da mesma forma, três vezes seis são dezoito. O ideograma para dez (十) representa Deus, enquanto o ideograma para oito (八), ao ser unido, assemelha-se ao ideograma para pessoa (人). Assim, dezoito pode significar “Deus-homem”. Além disso, o dez tem a forma de uma união, e o oito, a de uma abertura; portanto, dezoito também pode significar “unir o vertical e o horizontal e iniciar a expansão”. O poder do um por cento, embora pequeno, é imenso. Nenhuma força maligna pode se equiparar a ele. Será com esse poder que, pela primeira vez, tudo no mundo será salvo.
+
+Doravante, por meio dessa força, todas as coisas serão regidas pela civilização japonesa. Se observarmos o mundo hoje, vemos que nações como a Inglaterra, os Estados Unidos e a França possuem colônias e dominam inúmeros países, tendo conquistado diversos campos e bens. Espiritualmente, até bem pouco tempo, tudo no Japão, do mais alto ao mais baixo escalão, estava sob o domínio do Ocidente. Antes do Incidente da Manchúria, essa situação era extrema. A maior parte da população reverenciava e se esforçava para imitar a cultura da Inglaterra, dos Estados Unidos, da Rússia e de outras nações. Embora sua aparência fosse japonesa, seu espírito estava por completo dominado pelo Ocidente. Quase tudo estava sob seu controle. A partir de agora, o Japão retomará esse controle. Isso ocorrerá por meio da atuação da Senhora Kannon de Mil Braços. Nós somos meros instrumentos. Essa transformação, contudo, se dará por uma força absoluta. Assim foi planejado e decidido por Deus desde o princípio dos tempos.
+
+Nossa missão é anunciar este fato a toda a humanidade, fazendo com que o mundo inteiro volte seus olhos para o Oriente. Por meio disso, faremos com que a Senhora Kannon salve a humanidade, que se encontra à beira da destruição, em meio a uma crise de civilização. Eliminaremos as três grandes calamidades — vendaval, inundação e incêndio — e as três pequenas calamidades — fome, peste e guerra. Construiremos um mundo sem doença, pobreza e conflito, o Mundo de Grande Luz, de paz eterna e prosperidade infindável. Nesse sentido, a cerimônia de inauguração de hoje reveste-se de uma importância monumental, sem precedentes em milhares de anos.
+
+---
+
+# A Inversão entre o Oriente e o Ocidente
+
+**Categoria:** to | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
+**Título Original:** 東西愈々入れ替り 阿呆文学 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-05-21
+
+## A Inversão entre o Oriente e o Ocidente
+
+Ao perscrutar, desta vez, a totalidade das religiões existentes no Japão, fui tomado por uma profunda consternação. Verifiquei, estupefato, que todas elas, sem exceção, das maiores às menores, são oriundas do Ocidente. O Cristianismo, o Budismo, o Islamismo, o Taoísmo — todas nasceram em terras ocidentais. Mesmo no Japão, a terra onde fomos banhados em nosso nascimento, as correntes religiosas que poderíamos considerar nativas provêm, invariavelmente, de regiões a oeste de Hakone, como Izumo, Tanba, Okayama, Osaka e a própria Quioto.
+
+Desde a aurora dos tempos, o Sol e a Lua despontam no firmamento a leste e, em sua trajetória, dirigem-se para o poente, iluminando-o. Completam seu ciclo e ressurgem novamente no levante para banhar o ocidente com sua luz, em um movimento perpétuo. Trata-se de uma verdade tão fundamental que até mesmo uma criança de três anos a conhece. Contudo, peço que não se aborreçam com a aparente obviedade desta afirmação em tempos tão atribulados. Se nos permitirmos refletir sobre a profundidade contida nesta singela observação, talvez ela não se revele de todo desprovida de valor. É com essa modesta convicção que me ponho a escrever.
+
+Jamais, em um único dia desde o alvorecer da criação, ouviu-se dizer que o Sol ou a Lua tenham surgido no poente. A luz de ambos os astros, portanto, propaga-se do Oriente para o Ocidente, o que constitui, em termos mais eruditos, uma lei do Grande Universo. Se extrapolarmos este princípio, torna-se evidente que uma religião portadora da verdadeira Luz deve, por desígnio cósmico, emergir no Oriente e expandir-se para iluminar o Ocidente.
+
+Todavia, até o presente momento, o que tem prevalecido são ensinamentos e formas de salvação que operam no sentido inverso, contrário a essa lei, tentando iluminar o Oriente a partir do Ocidente. Precisamente por essa razão, a humanidade, por mais que tenha professado sua fé e manifestado sua gratidão, jamais alcançou a felicidade e a paz verdadeiras. O mundo chegou a um impasse, a uma situação praticamente insolúvel.
+
+Foi então que, no momento em que tudo parecia perdido, a tão aguardada Luz do Oriente manifestou-se na nação oriental do Japão, em sua capital cujo próprio nome significa “Capital do Leste”. No seio da grande Tóquio, no primeiro dia deste ano, bradou seu primeiro choro a Kannon Kai (観音会), a fonte da Luz Oriental. Esta é a primeira e, ao mesmo tempo, a derradeira religião nascida no Oriente; este é o único e verdadeiro Ensinamento da Salvação.
+
+De agora em diante, em perfeita sintonia com o Sol e a Lua celestiais, esta Luz se propagará do Oriente para o Ocidente. Iluminará e salvará não apenas o Japão, mas também a China, a Índia e os confins do universo. E que não se pense que estas palavras são uma mera bravata. Esta é a sublime e irrepetível Obra Divina da Salvação Mundial, que unificará todas as religiões. Pois é o próprio Salvador dos três mil mundos, Kannon (観音), que, utilizando-se dos meus dedos e de minha pena, faz registrar o que aqui se revela.
+
+---
+
+# Esclarecimentos sobre Críticas e Detratações
+
+**Categoria:** to | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
+**Título Original:** 投書に就て | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1950-02-25
+
+## Esclarecimentos sobre Críticas e Detratações
+
+Temos recebido um grande volume de correspondências sobre nossa Igreja, contendo tanto louvores quanto censuras, as quais são endereçadas não apenas a nós, mas também aos grandes jornais. Recentemente, um repórter de um importante periódico nos procurou, trazendo consigo uma seleção do que considerava as cartas mais representativas. Solicitou-me que respondesse, ponto por ponto, às alegações ali contidas.
+
+Ao examiná-las, contudo, percebi que eram anônimas. Recusei-me, afirmando que não via sentido em responder a acusações irresponsáveis e desprovidas de autoria. O jornalista insistiu, dizendo que minhas palavras serviriam ao menos como referência. Cedi e ouvi o conteúdo de cada uma, mas o que se seguiu foi uma sucessão de tamanha insensatez que beirava o ridículo, tornando qualquer réplica impossível. Fiquei estarrecido ao constatar que, neste mundo de tantas ocupações, ainda existam pessoas tão desocupadas. O fato de mobilizarem um jornalista de um grande jornal, fazendo-o viajar até Atami e desperdiçar seu tempo, constitui, por si só, um ato verdadeiramente pernicioso.
+
+Ao ponderarmos sobre tais ocorrências, compreendemos que esses indivíduos ociosos não se limitam a enviar suas cartas aos jornais; certamente, também as dirigem às autoridades responsáveis pela fiscalização das atividades religiosas. Quanto às suas reais intenções, fica evidente que estas ações partem de grupos cujos interesses foram contrariados pelo avanço de nossa Obra, sendo motivadas pela inveja, pelo despeito e por desígnios conspiratórios.
+
+Ademais, há vários meses, um conluio de chantagistas, operando em larga escala, tem se voltado contra nossa Igreja. Empregando toda sorte de ardis, chegaram a mobilizar personalidades de certo renome e a despender vultosas somas em suas campanhas. Contudo, como nossa Igreja se mantém firme em não lhes dar qualquer atenção, seus esforços têm sido vãos. Ainda assim, parecem não ter desistido e, conforme nos informam diversas fontes, persistem em suas táticas de assédio por meio de correspondências e outros métodos. Se nos perguntarmos por que esses fariseus modernos nos hostilizam e tentam obstruir nosso caminho, a resposta reside unicamente no crescimento exponencial e sem precedentes de nossa Igreja. Sob certo aspecto, é uma consequência quase inevitável.
+
+Isso ocorre, em especial, porque a mentalidade insular ainda aflige muitos japoneses. Desde os homens de espírito mesquinho até políticos, membros da elite e jornalistas, são numerosos os que carecem de senso de justiça e se deixam facilmente dominar por interesses próprios e por suas emoções. Indivíduos de caráter verdadeiramente elevado, cuja integridade lhes permite não se envergonhar perante o Céu e a Terra, são tão raros quanto as estrelas da alva. Diante desse quadro, sinto profundamente que a reconstrução do Japão não será uma tarefa fácil.
+
+Nossa Igreja, por ser defensora intransigente da justiça, não pode ceder um passo sequer, independentemente da magnitude das manobras obstrutivas perpetradas por aqueles que agem de má-fé. Desejo que saibam que, mesmo se tratando de um grande jornal, enquanto este insistir em propagar a inverdade, nós o combateremos com determinação e não deporemos as armas até que seu erro seja reconhecido.
+
+Se a missão precípua da religião é promover o bem, coibir o mal e edificar uma sociedade radiante e pacífica, torna-se evidente que o bem deve, impreterivelmente, triunfar sobre o mal. Os princípios que norteiam nossa Igreja estão claramente expressos em todas as nossas publicações. Portanto, antes de tecerem críticas, seria de bom-senso que lessem nossos escritos com atenção e, persistindo alguma dúvida, nos procurassem para o devido esclarecimento. Digo isso porque a vasta maioria daqueles que nos procuram para expressar suas objeções jamais teve contato com qualquer uma de nossas obras.
+
+---
+
+# A Apreciação da Arte Cerâmica
+
+**Categoria:** to | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** 陶器 ･日本美術とその将来（4） 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.68 | **Data ISO:** 1949-08-30
+
+## A Apreciação da Arte Cerâmica
+
+Desejo agora discorrer sobre a arte da cerâmica. Em seus primórdios, a cerâmica japonesa, à semelhança da pintura, desenvolveu-se sob a influência da China, sendo suas primeiras obras predominantemente emulações dos modelos chineses. Exemplos notáveis desse período inicial incluem as cerâmicas *Ki-Seto*, *Ao-Oribe*, *Seiji*, *Some-tsuke*, *Arita* e *Hirado*. A transição para uma cerâmica de cunho verdadeiramente artístico foi iniciada por Kakiemon. Subsequentemente, surgiu em Kyoto o mestre de talento raro, Ninsei (仁清), seguido pelo desenvolvimento da cerâmica de Kutani. Paralelamente, em Kyoto, floresceram as peças esmaltadas de Awata e Kiyomizu. O estilo de Ninsei, por sua vez, difundiu-se até Ise, dando origem à cerâmica *Banko aka-e*, e mais tarde, à produção do suntuoso estilo brocado da cerâmica de Satsuma.
+
+Há aproximadamente quatrocentos anos, durante o período Muromachi, nasceram na região de Owari e Seto as peças conhecidas como *Ko-Seto*. Contudo, remontando a um passado ainda mais distante, há cerca de mil e duzentos anos, na era Nara, já se produzia uma cerâmica de estilo celadon que utilizava um vidrado de cinza natural. A produção de celadon propriamente japonês iniciou-se em meados do período Edo, todavia, jamais alcançou a maestria das peças chinesas.
+
+Kakiemon, mestre notável da era Keicho, merece especial menção. Sua contribuição foi inestimável, pois introduziu novos paradigmas com as peças esmaltadas e o estilo brocado, tornando-se um verdadeiro benfeitor para a arte da cerâmica. Posteriormente, na era Genroku, o sexto Kakiemon notabilizou-se pela produção de peças de qualidade superior, utilizando o vidrado *Shibuemon*.
+
+Dentre todas, aprecio de modo particular a cerâmica de Okawachi, da província de Hizen, também conhecida como *Nabeshima-yaki*. Sua produção teve início na era Kyoho. Composta majoritariamente por pratos, suas peças são cobiçadíssimas, aliando um design excepcional à maestria técnica do esmalte colorido e do azul-e-branco (*some-tsuke*). Ademais, o estilo brocado da cerâmica popularmente chamada de *Imari-yaki* possui um encanto inegável. A cerâmica de Satsuma, com seu primor técnico e seus esmaltes coloridos de beleza resplandecente, também é digna de admiração. Contudo, é imperativo observar que, para estes três estilos, as obras modernas carecem do brilho de outrora, tanto no design quanto na técnica. Pode-se afirmar, sem hesitação, que o verdadeiro valor reside nas peças com mais de duzentos anos.
+
+Em contrapartida, a cerâmica de Kutani em estilo brocado, surgida há cento e cinquenta anos, apresenta exemplares notáveis. Destacam-se, em especial, as peças de *Ao-Kutani* (Kutani verde) e as esmaltadas do ateliê Yoshidaya.
+
+Por fim, devo reservar um lugar de destaque ao mestre Ninsei, o patriarca da cerâmica de Kyoto (*Kyo-yaki*). Seu nome verdadeiro era Seibei [Seiemon], da vila de Ninna-ji, e pode ser considerado, sem exagero, o maior ceramista da história do Japão. A genialidade de sua obra manifesta-se na infinita variedade de formas e padrões, um estilo que parece emanar de um dom celestial (*tenpin* 天稟). Suas criações distinguem-se por uma elegância e uma beleza sublimes, que as elevam muito acima das demais. Muitas de suas peças, especialmente tigelas para *matcha* e jarros, são dignas da classificação de Tesouro Nacional. Ele é, para o mundo da cerâmica, o que Korin representa para o da pintura. A sua grandeza reside em um feito notável: enquanto a cerâmica japonesa se baseava, em grande parte, em modelos chineses, Ninsei rompeu com essa tradição, criando um estilo puramente japonês. Nesse sentido, a cerâmica de Nabeshima partilha da mesma originalidade, e ambas frequentemente superam em qualidade as suas congêneres chinesas. Quanto a Kenzan, irmão de Korin, embora algumas de suas obras possam parecer rústicas, outras transbordam de um charme particular. Existem, inclusive, peças criadas em colaboração com seu ilustre irmão.
+
+A cerâmica de Bizen também nos presenteia com peças de grande valor, principalmente vasos para arranjos florais e objetos decorativos. As variedades *Ko-Bizen* (Bizen antigo) e *Ao-Bizen* (Bizen azul) contêm muitas obras-primas e são dignas de recomendação. *Shonzui* (祥瑞) é outro estilo que aprecio profundamente. Existem inúmeras outras variedades de cerâmica de Kyoto, mas entre os mestres de renome, talvez apenas o primeiro Mokubei (木米) mereça menção especial.
+
+Ao discorrer sobre cerâmica, é inevitável abordar os utensílios para a cerimônia do chá. O principal deles é, sem dúvida, a tigela. As peças de origem coreana são as mais reverenciadas, e, dentre elas, as do tipo *Ido* ocupam o pináculo. As tigelas conhecidas como *Kizaemon*, *Kaga* e *Hon'ami* são exemplares famosos. É assombroso pensar que, ainda hoje, seus valores alcançam centenas de moedas de ouro. Adicionalmente, estilos como *Totoya*, *Kaki-no-heta*, *Kohiki* e *Soba* também são tesouros da cerâmica coreana. Quanto às peças puramente japonesas, destacam-se *Ko-Seto*, *Shino*, *Karatsu*, *Chojiro*, *Nonko*, *Koetsu*, *Ninsei*, *Oribe*, *Hagi*, *Shigaraki* e *Iga*. Chojiro merece menção especial como o fundador da cerâmica *Raku*, um mestre que gozava do apreço de Sen no Rikyu e cuja linhagem perdura por treze gerações até os dias de hoje.
+
+Passando brevemente aos tempos mais recentes, parece que do período Meiji até o presente, ainda não surgiu um mestre ceramista digno de nota excepcional. Os principais artífices desse período seriam o primeiro Miyagawa Kozan, Kiyomizu Rokubei, Itaya Hazan e Tomimoto Kenkichi.
+
+No que tange à cerâmica chinesa, o celadon ocupa um lugar de primazia, com três variedades principais: *Kinuta*, *Tenryuji* e *Shichikan*. Outros estilos notáveis incluem *Kochi* (交趾), as peças esmaltadas de Wanli e o azul-e-branco de *Gosu*. Da produção coreana, a cerâmica branca de Goryeo (*haku-korai*) é talvez a mais célebre.
+
+---
+
+# Um Panorama da Arte Oriental
+
+**Categoria:** to | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Eikou
+**Título Original:** 東洋美術雑観 （１） | **Status:** Published | **Edição/Página:** 166号 | **Data ISO:** 1952-07-23
+
+## Um Panorama da Arte Oriental
+
+Até o presente momento, a crítica de arte tem sido um domínio quase exclusivo dos eruditos. Suas análises são, sem dúvida, investigativas e aprofundadas; contudo, frequentemente abordam pontos que, a meu ver, são desnecessários ao público geral. Por essa razão, confesso que, muitas vezes, não consigo prosseguir com a leitura até o fim.
+
+Escrevi, portanto, com a intenção de oferecer um texto que seja ao mesmo tempo interessante e capaz de proporcionar uma base para a apreciação artística. Sentir-me-ei afortunado se ele servir de referência àqueles que desejam iniciar seus estudos no campo da arte.
+
+Começarei por descrever a situação atual no Japão e no exterior. No que tange aos países estrangeiros, aqueles que hoje possuem museus dignos de nota são, essencialmente, os Estados Unidos e a Inglaterra. Assim, descreverei o panorama nessas duas nações. Ambas convergem no fato de darem grande ênfase à arte oriental, que, em sua maior parte, consiste na arte chinesa, com destaque para cerâmicas, seguidas por bronzes e pinturas modernas.
+
+Na Inglaterra, os dois colecionadores de renome mundial são os senhores Eumorfopoulos e David. A coleção do Sr. Eumorfopoulos há muito adorna o Museu Britânico e seu acervo era bastante vasto. Lamentavelmente, talvez por questões econômicas após a Primeira Guerra Mundial, ele se desfez de uma parte considerável de suas peças. A maioria, naturalmente, foi para os Estados Unidos, mas, curiosamente, um pequeno número de obras veio para o Japão e permanece até hoje em posse de um certo colecionador. Embora reduzida, a coleção remanescente ainda é substancial.
+
+Quanto ao Sr. David, parece que seu museu ainda não foi inaugurado. Enquanto a coleção do Sr. Eumorfopoulos é rica em peças antigas, das dinastias Tang e Song, a do Sr. David se concentra em obras mais recentes, a partir da dinastia Ming. O acervo do Sr. Eumorfopoulos também inclui notáveis bronzes dos períodos Zhou, Han e Song, além de um grande número de pinturas, embora as dos períodos Song e Yuan sejam raras, sendo a maioria posterior, das eras Kangxi e Qianlong. Já o Sr. David parece não possuir muitos bronzes ou pinturas, visto que não constam em seus catálogos. Contudo, há na Inglaterra colecionadores particulares com acervos significativos. Entre eles, achei curioso o caso de uma senhora que aprecia e possui algumas obras de Nonomura Ninsei. De todo modo, é fato que a arte japonesa é escassa na Inglaterra.
+
+Em contrapartida, os Estados Unidos, como seria de se esperar de uma nação abastada, possuem numerosos e esplêndidos museus, com coleções ricas e variadas. Há instituições de maior ou menor porte em cidades como Washington, Boston, Nova Iorque, São Francisco e Los Angeles. Dentre elas, destaca-se um museu particular, pequeno porém mundialmente famoso: a Freer Gallery, cujos magníficos bronzes já pude apreciar por meio de catálogos.
+
+Todavia, a instituição mais relevante para a arte japonesa nos Estados Unidos é, sem dúvida, o Museu de Belas-Artes de Boston. Durante a Era Meiji, o mestre Okakura Tenshin atuou como conselheiro do museu e reuniu um acervo considerável de boas obras. Posteriormente, o Sr. Tomita Kojiro adquiriu outras peças de excelência, o que nos permite inferir a qualidade da coleção. Há alguns anos, tive a oportunidade de ver fotografias de biombos do Museu de Washington. Havia muitas obras atribuídas a Korin e Sotatsu, mas fiquei absolutamente perplexo ao constatar que todas, sem exceção, eram falsificações tão evidentes que se podiam identificar até mesmo por fotografia.
+
+Por essa razão, a quantidade de obras de arte japonesa antiga no exterior é menor do que se imagina. A única exceção são as xilogravuras, que não apenas são mais numerosas, mas também, em muitos casos, de qualidade superior às encontradas no Japão. O Museu de Boston, em particular, é famoso por sua coleção de gravuras. França e Alemanha também possuem alguns exemplares, sendo que a Alemanha é conhecida por abrigar muitas obras de Sharaku.
+
+Quanto ao motivo pelo qual tantas xilogravuras se encontram no exterior, tenho a seguinte opinião: quando os estrangeiros vieram ao Japão a partir da Era Meiji, as gravuras foram as primeiras obras que lhes chamaram a atenção. Como eram baratas e acessíveis, eles as levaram como recordação, o que lhes conferiu o prestígio de que desfrutam hoje. Eu, particularmente, nunca tive grande apreço por xilogravuras e, desde cedo, dediquei-me a colecionar apenas pinturas originais, o que me permitiu adquirir excelentes obras a preços relativamente baixos. Isso ocorreu porque os japoneses, sempre inclinados a imitar, passaram a valorizar as xilogravuras em detrimento das pinturas originais. Além disso, na época da chegada dos estrangeiros, os japoneses guardavam zelosamente suas pinturas, mantendo-as longe dos olhos de forasteiros, o que, para mim, representou uma feliz coincidência.
+
+Passemos agora à arte que considero a mais singular do nosso país: o Maki-e (蒔絵). Assim como as pinturas ukiyo-e, essa técnica não teve grande exposição aos estrangeiros, razão pela qual raramente se encontra no exterior. Explicarei brevemente do que se trata. A técnica do Maki-e certamente foi desenvolvida a partir de inspiração na arte chinesa do byōkin (描金), mas já no período Nara se produziam no Japão peças de notável qualidade. A caixa de sutras do período Tenpyo que sobrevive até hoje, por exemplo, é um esplêndido exemplar de togidashi maki-e, o que é verdadeiramente assombroso. A partir do período Heian, a técnica evoluiu progressivamente, atingindo um patamar de excelência no período Kamakura. Muitas obras-primas daquela época ainda existem para o nosso deleite.
+
+Com a transição do período Momoyama para o Tokugawa, a técnica alcançou um aprimoramento ainda maior. Como o Maki-e era ideal para os utensílios dos senhores feudais, cada clã competia para encomendar as melhores peças. As obras de taka maki-e, com seu brilho dourado e suntuoso, foram quase todas produzidas durante o apogeu do período Tokugawa. As peças principais incluem estantes, caixas para papéis e apetrechos de escrita, escrivaninhas, caixas de mão e utensílios para a cerimônia do incenso.
+
+---
+
+# Um Panorama da Arte Chinesa
+
+**Categoria:** to | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
+**Título Original:** 東洋美術雑観 （４） | **Status:** Published | **Edição/Página:** 170号 | **Data ISO:** 1952-08-20
+
+## Um Panorama da Arte Chinesa
+
+Concluindo nossa breve análise da arte japonesa, voltemo-nos agora à arte chinesa. No universo da arte chinesa, as cerâmicas indubitavelmente ocupam o lugar de maior destaque, seguidas pelas peças de bronze e, por fim, pela pintura. Trataremos, portanto, principalmente das cerâmicas. Aparentemente, a cerâmica é a mais antiga das expressões artísticas da China, com peças de notável qualidade sendo produzidas há quatro mil anos.
+
+Dentre os exemplares remanescentes desse período, destaca-se a cerâmica conhecida como Andersson, assim denominada por ter sido descoberta pelo acadêmico de mesmo nome. Felizmente, adquiri uma grande urna dessa cerâmica, que se encontra em exposição em nosso museu para apreciação. É quase inacreditável que uma obra de tal qualidade pudesse ter sido criada em uma época tão remota.
+
+O verdadeiro desenvolvimento da cerâmica chinesa, no entanto, floresceu a partir do período das Seis Dinastias, estendendo-se até a dinastia Tang. Foi especialmente na dinastia Tang que surgiram peças coloridas de excelência, como as famosas cerâmicas Tang Sancai, que se distinguem pela forma, pela técnica e pela harmoniosa combinação de cores, resultando em obras magníficas. Além delas, há também as peças de esmalte verde, de um tom verde-azulado, igualmente encantadoras. Em nosso acervo, possuímos um incensório cilíndrico de faixas, representativo desse estilo.
+
+Posteriormente, surgiram as cerâmicas do forno de Yue (越州窯). Caracterizadas por um tom cinza-claro com nuances acastanhadas, elas possuem grande volume e uma técnica relativamente apurada. Uma grande urna com bico em forma de cabeça de galo (鶏頭壷), pertencente à fase inicial desse estilo, está exposta na entrada da quinta galeria de nosso museu e é considerada, em todos os seus aspectos, uma obra-prima sem igual no mundo.
+
+Em seguida, desenvolveu-se a produção do forno de Ru (汝窯), que apresenta uma cor de ferrugem com matizes azulados e uma refinada técnica de entalhe em baixo-relevo. Um vaso em formato de garrafa para arranjos florais, exposto em nosso museu, é tido como uma obra representativa desse estilo.
+
+A evolução da cerâmica de Ru deu origem ao celadon. Quando se fala em cerâmica chinesa, o celadon é, sem dúvida, um dos primeiros gêneros que vêm à mente. As peças do final do período inicial são verdadeiramente espantosas, tanto pela cor quanto pela técnica. Causa-me profunda admiração o fato de que, há oitocentos ou novecentos anos, tenha sido possível criar uma arte aplicada de tamanha envergadura; é algo que se afigura como um verdadeiro enigma.
+
+Todavia, a variedade de tipos de celadon é tão vasta que se acredita que provavelmente ninguém seja capaz de distingui-los com total precisão. Certa vez, solicitei a avaliação de estudiosos e especialistas na área, mas as opiniões foram tão divergentes que se mostrou impossível chegar a um veredito, o que demonstra a complexidade do assunto. De modo geral, os principais tipos são os dos fornos de Xiuneisi (修内司窯), Jiaotan (郊壇窯), Kinuta (砧), Tianlongsi (天竜寺), Shichikan (七官) e Longquan (竜泉窯), sendo os de Xiuneisi, Jiaotan e Kinuta considerados os de mais alto nível. Quando a classificação é difícil, as peças costumam ser designadas como celadon imperial. Nosso museu possui vários exemplares de primeira linha, dentre os quais o grande incensório de saia plissada em celadon Kinuta é, na opinião de muitos, a melhor peça do gênero no mundo.
+
+Deixando o celadon de lado, passemos à cerâmica do forno de Jun, da dinastia Song (宋均窯). Embora raras no Japão, muitas das peças existentes são relíquias de família, de grande beleza e com um encanto distinto do celadon. A coleção do Sr. Hobbies, no Museu Britânico, parece ser superior tanto em quantidade quanto em qualidade. Contudo, a grande travessa que possuímos em nosso acervo é considerada uma obra-prima sem paralelos no mundo.
+
+Outra produção de excelência da dinastia Song é a do forno de Ding (定窯). Existem as variedades branca e preta, sendo a última extremamente rara. A cerâmica Ding branca consiste majoritariamente em pratos e travessas; peças tridimensionais são muito escassas. A garrafa exposta na terceira seção de nosso museu, no entanto, pode ser considerada de classe mundial. Na mesma seção, há também um jarro para água que é uma raridade, havendo apenas dois ou três exemplares no Japão.
+
+Ainda entre as obras-primas da dinastia Song, temos a cerâmica de Julu (鉅鹿), também conhecida como Cizhou com decoração esgrafiada. Igualmente rara, é no Japão que se encontram os melhores exemplares do mundo: a famosa grande urna com dragões do Museu de Arte Hakutsuru e a grande urna com flores da coleção de Moritatsu Hosokawa. Em nosso museu, temos uma urna com decoração de borboletas e peônias. Nessa mesma época, produziu-se uma porcelana semelhante ao celadon chamada Yingqing (陰青), ou celadon azul-claro, que também é notável. A travessa média com lótus entalhados, em nosso acervo, é tida como a melhor de seu tipo no Japão.
+
+O que descrevi até aqui abrange, em linhas gerais, a produção centrada na dinastia Song e que se estendeu até a dinastia Yuan. Com a chegada da dinastia Ming, a cerâmica deu um salto evolutivo repentino. Se o florescimento artístico das dinastias Song e Yuan corresponde, no Japão, ao período que vai de Heian a Kamakura, a produção da dinastia Ming pode ser comparada àquela que vai de Ashikaga a Momoyama. A cerâmica Ming distancia-se radicalmente do estilo de Song e Yuan. Se estas últimas se caracterizam por uma nobre e elegante simplicidade, a produção Ming envereda por um caminho de suntuosidade, exuberância e apelo popular. Enquanto o estilo Song privilegiava formas e entalhes em peças monocromáticas, como o celadon, o Jun, o Ru e o Ding, o estilo Ming, além de aprimorar as formas, dedicou-se quase inteiramente à decoração pintada, como o azul-e-branco e os esmaltes policromos, dando origem a uma sucessão de obras de uma beleza deslumbrante. Exemplos notáveis são as cerâmicas Kinrande (金襴手), Gosu-akae (呉須赤絵), e as de esmalte vermelho dos períodos Xuande e Wanli, todas altamente valorizadas. Dentre elas, a Kinrande do período Jiajing é considerada suprema. O vaso em formato de cabaça e o pequeno vaso quadrado para servir saquê, ambos em nosso museu, são exemplares de rara excelência.
+
+Ainda que tenham surgido boas peças nos períodos posteriores, como Tianqi, Kangxi, Yongzheng e Qianlong, a opinião unânime é que, em comparação com as obras anteriores à dinastia Ming, elas se prendem em demasia ao virtuosismo técnico, transmitindo uma sensação de superficialidade e carecendo de um encanto mais profundo.
+
+Além da cerâmica, a arte chinesa que goza de prestígio mundial é, sem dúvida, a dos bronzes. Trata-se de obras das dinastias Yin (殷), Shang (商) e Zhou (周), produzidas há cerca de três mil anos, cuja excelência técnica é um verdadeiro milagre. É simplesmente inconcebível que peças tão magníficas pudessem ser criadas em tempos tão antigos. O mais surpreendente, contudo, é que, com o passar das eras — Qin, Han, Sui, Tang, Song —, a qualidade técnica decaiu progressivamente. A arte, nesse campo, parece ter seguido um caminho inverso ao do avanço cultural, um paradoxo sobre o qual todos os especialistas concordam. As principais coleções de bronzes chineses encontram-se em museus nos Estados Unidos e na Inglaterra. No Japão, os acervos mais importantes são os do Museu de Arte Hakutsuru, do Museu de Arte Sumitomo e do Museu Nezu.
+
+Finalmente, abordemos a pintura. Assim como na cerâmica, as melhores obras da pintura chinesa surgiram durante as dinastias Song e Yuan. A produção desse período é tão extraordinária que se destaca de forma absoluta das demais épocas. Na pintura a tinta, artistas como Mokkei (牧谿), Ryokai, Ganki e Baen são especialmente notáveis. Obras-primas de Mokkei, Ryokai e Baen encontram-se em nosso museu e certamente já foram apreciadas. A maestria desses artistas beira o divino, e a força vigorosa de suas pinceladas é algo que os pintores japoneses jamais conseguiram igualar. Na pintura colorida, o maior mestre do mundo é, sem dúvida, o Imperador Huizong (徽宗). Qian Shunju também é considerado um grande artista. A obra-prima de Huizong no Japão é, provavelmente, o quadro "Pêssego e Pomba", que pertenceu ao Marquês Inoue. A pintura "Rei Huan Ye", de Qian Shunju, no Museu de Arte Ohara, é também uma obra de grande renome.
+
+Um fato interessante é que muitos mestres dessa época dedicaram a vida inteira a pintar um único tema. Dentre os mais famosos, temos Nikkan (日観) com suas uvas, Indara (因陀羅) com suas figuras budistas, Li Anzhong com suas codornas, Fan Anren com seus peixes, Xu Xi com suas garças e Tan Zhirui com seus bambus.
+
+---
+
+# O Legado de Ogata Korin na Arte Universal
+
+**Categoria:** to | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
+**Título Original:** 東洋美術雑観 （２） | **Status:** Published | **Edição/Página:** 167号 | **Data ISO:** 1952-07-30
+
+## O Legado de Ogata Korin na Arte Universal
+
+À parte das correntes artísticas de sua época, no período Momoyama, emergiu um artista de raro gênio, o célebre artesão Hon'ami (本阿弥) Koetsu. Seu talento para o belo manifestava-se em uma originalidade sem limites, que se estendia com maestria à laca decorada (makie), à cerâmica Raku, à caligrafia e, embora em menor número, também à pintura. Seus desenhos e a escolha de seus temas, de um frescor inovador, causaram, como era de se esperar, a admiração de seus contemporâneos. Foi sob a influência de Koetsu que nasceu seu sucessor espiritual, Tawaraya Sotatsu. Este notável artista rompeu de maneira esplêndida com as tradições das diversas escolas até então vigentes, criando a magnífica arte pictórica que hoje conhecemos. Sotatsu é, portanto, um imenso benfeitor para a pintura japonesa. Mais de um século transcorreria até o advento de Ogata Korin. Este, por sua vez, devotou-se ao estilo de Sotatsu, elevando-o a um patamar de perfeição ainda maior, sendo, por assim dizer, a mãe que gerou a arte de Korin.
+
+Neste ponto, é imperativo fazer uma breve digressão sobre Korin. A gênese de movimentos artísticos modernos, ruidosamente associados a nomes como Matisse e Picasso, encontra sua verdadeira origem em Korin. A sua consagração mundial ocorreu, creio eu, em meados do século XIX, quando um pintor francês o descobriu. Ao deparar-se pela primeira vez com uma obra de Korin, este artista ficou atônito, de olhos arregalados em assombro. Naquele tempo, o estilo de beleza renascentista, que perdurara por séculos na Europa, havia atingido um nível extremo de desenvolvimento, levando a pintura ao apogeu do realismo e, consequentemente, a um impasse intransponível. Pode-se aquilatar a situação pelo fato de que muitos chegavam a dizer que seria preferível simplesmente colorir fotografias.
+
+Foi nesse cenário que a arte de Korin surgiu como um trovão em céu sereno. A sua técnica, em oposição diametral ao método minucioso e detalhista de então, propunha uma ousada supressão do supérfluo, mas conseguia expressar a essência do objeto com uma força superior à do próprio realismo. Diante de tal esplendor, a comunidade artística francesa exultou como se presenciasse a chegada de um salvador. A consequência imediata foi uma reviravolta de cento e oitenta graus, da qual brotaram os movimentos impressionista e pós-impressionista. A partir desse marco, e através de inúmeras transformações, a pintura evoluiu até o estado em que a vemos hoje. O feito de Korin é, pois, de uma magnitude que as palavras não podem expressar. Naquela época, um livro aclamado no meio editorial francês, cujo autor já não me recordo, intitulava-se “Korin, o Homem que Moveu o Mundo”. De fato, décadas após sua morte, ele moveu o mundo inteiro. Por essa razão, eu o considero não apenas par, mas superior a um Shakespeare na Inglaterra, pois suas realizações deflagraram uma vasta revolução que transcendeu a pintura e alcançou todas as esferas da sociedade.
+
+O primeiro fruto dessa revolução foi o estilo Art Nouveau, que gradualmente transformou por completo o universo do design. Tratava-se da simplificação de toda a beleza. A arquitetura, em particular, sofreu uma mudança notável, cujo precursor foi o movimento da Secessão de Viena. Após diversas metamorfoses, este culminou no estilo de Le Corbusier, que hoje domina a arquitetura mundial. Assim, todas as formas de arquitetura, mobiliário, utensílios, vestuário e artes comerciais viram o estilo renascentista tornar-se uma memória de um sonho distante. O que relatei até aqui é apenas um breve resumo das realizações de Korin. Creio firmemente nisto: dentre os japoneses que moveram o mundo por meio da cultura, não há ninguém que se sobreponha a Korin. O que seria ele, senão o grande monumento universal erigido pelo Japão? O mesmo se aplica ao cenário atual da pintura japonesa. Foi também Korin quem, de um só golpe, revolucionou o estilo pictórico apegado às velhas convenções das escolas Kano, Shijo e Nanshu. A esse respeito, recordo-me de um episódio. Há pouco mais de trinta anos, tive a oportunidade de encontrar-me pessoalmente com o mestre Okakura Tenshin. Ele me revelou sua determinação com as seguintes palavras: “O propósito que me moveu a criar o Instituto de Belas-Artes foi, essencialmente, o de fazer reviver Korin em nossa era”. Isso demonstra que a pintura japonesa contemporânea tem em Korin seu alicerce, ao qual se agregaram elementos da pintura ocidental. Para não me estender demasiadamente, encerrarei aqui as considerações sobre Korin e passarei ao próximo tópico.
+
+Permitam-me, agora, traçar um breve panorama da história da pintura japonesa. Como é de conhecimento geral, ela originou-se na China. Segundo a historiografia da arte, o berço da pintura oriental localiza-se em um lugar chamado Dunhuang (敦煌), próximo ao Tibete. Há mais de mil anos, essa foi uma cidade de notável florescimento cultural. O senhor Otani Kozui (大谷光瑞) nutria grande apreço pela região, onde permaneceu por longo tempo, conduzindo extensas pesquisas e explorações, cujos registros tive a oportunidade de examinar. As inúmeras fotografias que acompanhavam esses relatos revelam uma sociedade com arquitetura e costumes bastante avançados para a época, que correspondia à dinastia Tang. A arte começou a progredir a partir do período das Cinco Dinastias, e foi na dinastia Song do Norte que a pintura oriental atingiu sua primeira forma consolidada, com o surgimento de sucessivos mestres e virtuosos. As célebres pinturas das dinastias Song e Yuan, hoje tão valorizadas, são obras desse período. Um fato notável é que a maioria dos pintores famosos daquele tempo era composta por monges zen. Os grandes mestres da pintura a nanquim, como Mokkei (牧谿) e Ryokai (梁楷), eram monges, e obras desses dois gigantes da arte podem ser apreciadas em nosso museu.
+
+Essa arte, nascida na China, começou a ser importada para o Japão a partir do período Ashikaga. Embora pareça ter havido uma pequena introdução durante o período Nara, foram os shoguns Ashikaga Yoshimitsu e Yoshimasa que verdadeiramente conheceram as obras-primas das dinastias Song e Yuan. Por conseguinte, a maioria das pinturas Song e Yuan existentes no Japão passou pelas mãos do clã Ashikaga. As peças de especial excelência são conhecidas como Higashiyama Gyomotsu (東山御物), facilmente identificáveis por um selo distintivo. O encarregado de administrar essas obras-primas era Soami (相阿弥). Geiami (芸阿弥) e Noami (能阿弥) também parecem ter estado envolvidos, e foi sob essa influência que nasceu a pintura a tinta da China do período Higashiyama.
+
+Entre os pintores que viajaram à China para estudar, encontram-se Keishoki (啓書記), Shubun (周文) e Dasoku (蛇足). Um pouco mais tardio parece ter sido Sesshu, que, segundo uma teoria, seria um estrangeiro naturalizado. Não há dúvida, contudo, de que esses homens foram os precursores da pintura japonesa. Portanto, não seria incorreto afirmar que o patriarca da Escola Kano foi, em essência, Sesshu.
+
+---
+
+# A Governança pelo Caminho da Razão
+
+**Categoria:** to | **Ano:** 昭和26(1951)年2月7日 | **Fonte:** Eikou
+**Título Original:** 道治国 | **Status:** Published | **Edição/Página:** 90号 | **Data ISO:** 1951-02-07
+
+## A Governança pelo Caminho da Razão
+
+É fato notório que o nosso Japão é um Estado de Direito. Aliás, todas as nações do mundo que se intitulam civilizadas são, sem exceção, regidas por leis. Todavia, em verdade, este método de governança, fundamentado unicamente em uma constituição, está longe de ser o ideal.
+
+Os fatos, por si sós, comprovam-no de maneira eloquente. Observemos como a história demonstra a extrema dificuldade em erradicar o crime apenas pela força da lei. Evidentemente, como é impossível extirpar por completo o mal da natureza humana, tal insuficiência se revela, até certo ponto, inevitável.
+
+Diante dessas considerações, embora a verdadeira solução dependa, inegavelmente, da religião, esta, por si só, não produz resultados imediatos. Sendo assim, como alternativa, é primordial dar a conhecer o Caminho. Em essência, o Caminho é a própria razão e a lógica. Embora tal conceito remeta à antiga moralidade oriental, o que proponho agora é uma nova moralidade, de caráter mais progressista.
+
+A razão de abordarmos tal questão reside na severa decadência dos princípios morais da sociedade em tempos recentes. A delinquência juvenil e, naturalmente, o alarmante aumento dos mais diversos crimes são fenômenos que já ultrapassaram todos os limites do tolerável. Recentemente, até mesmo os intelectuais começaram a se dar conta do problema. Debates sobre restaurar a educação moral ou criar um substituto para o Édito Imperial sobre a Educação têm surgido, o que constitui um fenômeno alvissareiro, pois indica um despertar para esta realidade.
+
+A origem de tudo isso, como é sabido, remonta ao pós-guerra, quando a população em geral perdeu seu alicerce espiritual e viu-se desorientada quanto ao rumo a seguir, o que resultou na proliferação de indivíduos sem rumo que hoje presenciamos. Até o fim da guerra, as escolas baseavam-se na educação moral e no Édito Imperial, e ideais ancestrais como a lealdade e a devoção filial estavam enraizados nos corações. Por esse motivo, sob a perspectiva atual, é inegável que a sociedade de então era consideravelmente mais íntegra. Contudo, não podemos simplesmente restaurar essa antiga moralidade. Urge, portanto, forjar um novo espírito para esta nova era.
+
+A democracia foi, sem dúvida, uma dádiva concedida ao nosso povo no pós-guerra, e seu grande mérito foi nos libertar das amarras do pensamento feudal. Seus excessos, lamentavelmente, converteram-se no solo fértil para a desordem social que hoje vemos. Sendo assim, o mais necessário é rejeitar os aspectos nocivos das correntes de pensamento, tanto antigas quanto novas, e acolher somente suas virtudes, a fim de criar um novo conceito moral adequado aos tempos atuais – uma nova alma japonesa, à semelhança do código de honra dos cavalheiros britânicos.
+
+Este é o conceito fundamental do Caminho, mencionado anteriormente, e devemos promovê-lo com veemência tanto na educação quanto na sociedade. Se, por meio dele, conseguirmos reduzir, ainda que minimamente, os males sociais, teremos um grande motivo para nos alegrarmos. Explicando de forma simples, o Caminho, ou seja, a Razão, é o princípio que permeia todas as coisas; é, por assim dizer, a bússola absoluta para a conduta humana.
+
+Isto porque, ao seguir o Caminho do ser humano, a vida se torna isenta de calamidades e fracassos, e tudo transcorre de forma harmoniosa. A credibilidade se fortalece, conquista-se o respeito e o afeto dos semelhantes e, naturalmente, alcança-se uma existência de paz e plenitude. É evidente que, à medida que indivíduos e famílias com essa consciência se multiplicarem, sua influência contribuirá para a gradual diminuição dos males sociais.
+
+Nesse sentido, se continuarmos a confiar unicamente na lei, como fazemos hoje, aumentarão os chamados "espertos", que julgam que tudo é permitido, desde que não sejam apanhados pela lei, e os insolentes malfeitores agirão com total liberdade.
+
+Sempre afirmo que Deus, em outras palavras, é a própria Razão. Portanto, reverenciar a Deus é o mesmo que reverenciar a Razão. Logo, o ser humano que segue a Razão e por ela se deixa governar é o verdadeiro homem civilizado. Apresento, pois, este ensaio à reflexão dos intelectuais de nosso tempo.
+
+---
+
+# A Arteriosclerose e a Hipertensão
+
+**Categoria:** to | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
+**Título Original:** 動脈硬化及び高血圧症 | **Status:** Published | **Edição/Página:** P.106 | **Data ISO:** 1953-01-01
+
+## A Arteriosclerose e a Hipertensão
+
+As causas da arteriosclerose e da hipertensão, embora pareçam semelhantes, são de natureza distinta, razão pela qual as elucidarei separadamente.
+
+A arteriosclerose ocorre quando toxinas medicamentosas se solidificam próximo às artérias, comprimindo-as, ou quando o sangue impuro se estagna e forma nódulos em determinada parte de uma artéria. Neste último caso, os nódulos expandem-se gradualmente à medida que as toxinas se acumulam, dando origem ao que se conhece como aneurisma. A impureza do sangue provém tanto das toxinas medicamentosas quanto do consumo de carne. Por conseguinte, os pacientes que sofrem dessa condição podem alcançar a cura com surpreendente rapidez ao suspenderem o uso de medicamentos e adotarem uma dieta vegetariana.
+
+Passemos agora à hipertensão. Sua causa reside no enrijecimento da região submandibular, algo frequentemente observado em pessoas que se dedicam a ofícios que exigem grande precisão manual, como a caligrafia, o que se pode constatar facilmente por meio de uma análise. A medicina, contudo, postula que a hipertensão é um prenúncio de hemorragia cerebral. Trata-se de um equívoco. Embora possa haver alguma influência indireta, não existe uma relação causal direta, de modo que não há motivo para preocupação.
+
+Recordo-me de um caso que ilustra bem essa verdade. Certa vez, um senhor com pouco mais de sessenta anos procurou-me para um aconselhamento, relatando uma pressão arterial de trezentos. Há seis anos, um médico havia diagnosticado sua condição e o alertado dos riscos, mas, por não poder se afastar de suas atividades profissionais, ele prosseguiu trabalhando. Segundo ele, como não sentia qualquer anormalidade, mantivera sua rotina. Sua profissão era a de calígrafo. Assegurei-lhe de que não havia com que se preocupar e que poderia continuar tranquilamente com seu ofício.
+
+---
+
+# A Concentração das Toxinas e a Ilusão da Terapêutica Moderna
+
+**Categoria:** to | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** 東京日々新聞
+**Título Original:** 毒素は頭脳に集中 ・法話（二） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-02-25
+
+## A Concentração das Toxinas e a Ilusão da Terapêutica Moderna
+
+Os locais de acúmulo das toxinas medicinais restringem-se, invariavelmente, às áreas de maior atividade nervosa. Concentram-se, portanto, na parte superior do corpo, com foco primordial no cérebro e em órgãos como os olhos, os ouvidos, o nariz e a boca. É nessas regiões que as toxinas se adensam, solidificando-se ao redor do pescoço. Quando essa rigidez atinge um determinado grau, desencadeia-se o processo de purificação, ou seja, a expulsão natural. Nesse caso, a febre dissolve esses nódulos tóxicos, convertendo-os em estado líquido, que é então expelido através de tosse, expectoração, coriza, suor, diarreia e urina quente. É a essa condição que se dá o nome de resfriado comum.
+
+O resfriado, portanto, é uma etapa no processo de eliminação de toxinas. Embora possa causar algum desconforto, ao suportá-lo e confiar no curso natural, a expulsão ocorre de maneira harmoniosa, purificando o organismo e trazendo a cura. A ignorância sobre esse princípio levou a humanidade a interpretar negativamente o sofrimento purificador e, com base nessa premissa equivocada, a conceber a medicina. A partir disso, pode-se compreender quão profundamente equivocada é a terapêutica convencional.
+
+Ocorre que o processo de purificação manifesta-se com maior intensidade quanto mais vigorosa for a vitalidade do indivíduo. Para detê-lo, torna-se necessário enfraquecer essa mesma vitalidade, e é exatamente para esse fim que os medicamentos são empregados. Ademais, um remédio considerado eficaz nada mais é do que um veneno potencializado a um nível que não cause intoxicação aguda. Assim, na tentativa de dissolver e expelir toxinas com venenos medicinais, o resultado paradoxal foi solidificá-las ainda mais. Fica claro, portanto, o quão intoxicadas as pessoas de hoje se encontram e por que estão tão suscetíveis a doenças.
+
+Celebra-se, em tempos recentes, o aumento da expectativa de vida para mais de sessenta anos, mas tal contentamento é descabido. O ser humano, livre de enfermidades, pode viver com tranquilidade para além dos cem anos. Falecer antes dessa idade constitui uma morte antinatural, causada por doença. Uma vida sem padecimentos, ao contrário, culmina na morte natural, que pressupõe, por lógica, a longevidade. Em suma, a medicina não cura as doenças; não passa de um método para o alívio temporário do sofrimento. A acupuntura por moxabustão e as terapias termais diferem um pouco, mas também atuam apenas como um estímulo térmico momentâneo que atrai as toxinas para a área tratada. Proporcionam alívio, mas a condição original logo retorna, tornando-se, ao final, inócuas.
+
+Existe também o método de destruir o câncer com radioterapia, o que seria excelente se se limitasse a destruir apenas o tumor. Contudo, a radiação aniquila igualmente os tecidos saudáveis adjacentes, resultando em um saldo negativo. Isso demonstra que todas as terapias desenvolvidas até hoje são, fundamentalmente, métodos de solidificação, que jamais dissolvem e expelem as toxinas. A propósito, é comum ouvir dos próprios médicos que os pacientes que mais se esforçam pela cura, recorrendo a medicamentos caros, são os que menos melhoram. Em contrapartida, aqueles que adotam uma atitude de desapego em relação ao resultado costumam se recuperar mais facilmente. Um fato perfeitamente compreensível.
+
+Um antigo provérbio afirma que ninguém está isento de vaidade e de uma toxina latente. Essa toxina, popularmente chamada de congênita, corresponde ao que a medicina moderna denomina sífilis hereditária. Trata-se de um veneno medicinal antigo, que, em algum momento, precisa passar por um processo de expulsão. A esse fenômeno de purificação dá-se o nome de varíola. No passado, a descoberta da vacina por Jenner permitiu que a humanidade se livrasse da varíola, mas isso não significou que as toxinas da doença foram completamente eliminadas. A vacinação apenas enfraqueceu a força de expulsão, de modo que o veneno permaneceu latente no organismo. São essas toxinas remanescentes que se tornam a causa de inúmeras outras enfermidades.
+
+O processo ocorre da seguinte forma: com o passar do tempo, o veneno acumula-se e solidifica-se em alguma parte do corpo. A purificação desse acúmulo pode manifestar-se como um resfriado, diversas doenças de pele, uma forma de paralisia infantil ou meningite. O fato de a saúde das populações da Inglaterra e da França ter declinado após a introdução da vacina corrobora essa verdade. Para erradicar a varíola da humanidade, seria preciso lançar ao mar todos os medicamentos existentes. Mesmo uma medida tão drástica, contudo, não surtiria efeito imediato. A razão é que o ser humano foi saturado por venenos medicinais ao longo de séculos. Portanto, para uma purificação completa, será necessário um período de duas a três gerações.
+
+---
+
+# O Princípio da Purificação e o Equívoco da Terapêutica Moderna
+
+**Categoria:** to | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
+**Título Original:** 毒素療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
+
+## O Princípio da Purificação e o Equívoco da Terapêutica Moderna
+
+Conforme já elucidei, a doença é um processo de purificação natural. Poder-se-ia, portanto, afirmar que o ser humano mantém a saúde precisamente por possuir essa capacidade purificadora chamada doença. Nesse sentido, a verdadeira terapêutica consiste em expelir a enfermidade para o exterior, e não em reprimi-la no interior do corpo.
+
+Tomemos como exemplo o surgimento de um furúnculo. A tentativa de dissipá-lo constitui um grave equívoco. O organismo, por meio de sua própria ação purificadora, empenha-se em expelir as impurezas internas (o pus), empurrando-as até a superfície da pele. Tentar forçá-las de volta ao seu ponto de origem significa que, caso esse objetivo seja alcançado, tais impurezas se imiscuirão nos órgãos internos, dando origem a outras moléstias. Conclui-se, pois, que o pus deve ser completamente expelido, até que não reste vestígio algum.
+
+A manifestação do processo purificador, que é a eliminação do pus, ocorre justamente porque o indivíduo possui maior saúde e uma força vital vigorosa. É essa força que busca expelir as substâncias impuras. A doença, com a dor que a acompanha, nada mais é do que o fenômeno resultante desse esforço. Portanto, quanto maior a dor, mais intensamente o corpo está sendo purificado. Nessas condições, o surgimento de complicações seria, em tese, impossível.
+
+Contudo, na prática, é comum que surjam enfermidades secundárias durante os tratamentos médicos, e, em casos extremos, múltiplas complicações se manifestam. Isso ocorre precisamente porque as impurezas que deveriam ser expelidas são reprimidas. Suponhamos, por exemplo, que uma doença se manifeste em determinada parte do corpo e se aplique o método de resfriamento com gelo para dissipá-la. O movimento que concentrava o pus naquele local é interrompido, fazendo com que o restante das toxinas mude de direção e se manifeste em outra região, sob a forma de uma nova doença.
+
+Um exemplo claro é a otite média: ao resfriá-la com gelo, o pus, que se liquefez pelo calor e se dirigia para o exterior através do ouvido, tem seu curso interrompido. Imediatamente, ele muda de rumo e avança em direção ao cerebelo, resultando em meningite. Um mal que se resolveria como uma simples otite, se não houvesse intervenção, acaba por gerar uma complicação gravíssima como a meningite por causa do tratamento. Os equívocos da medicina são, de fato, incomensuráveis.
+
+Por conseguinte, todos os métodos terapêuticos até hoje concebidos, ao tentarem curar uma doença, na realidade visam macular o sangue por meio de medicamentos e outras práticas. Isso ocorre porque, quanto mais impuro o sangue se torna, mais a força purificadora se enfraquece. A atenuação do processo de purificação leva, naturalmente, ao abrandamento dos sintomas da doença. Em outras palavras, a enfermidade recua temporariamente, o que cria a falsa impressão de cura.
+
+Práticas como ingerir sangue de animais, leite, víboras e serpentes, ou injetar substâncias medicamentosas na corrente sanguínea, todas concorrem para o mesmo fim: contaminar o sangue. É por esse meio que se faz a doença regredir, fenômeno erroneamente interpretado como melhora ou cura. Embora se apresente uma aparente recuperação, com o passar do tempo, o processo de purificação natural ressurge inevitavelmente. Dessa vez, porém, além da doença original, soma-se a necessidade de expelir o pus gerado pela terapêutica que impurificou o sangue. Como resultado, a enfermidade retorna com força redobrada, o que é uma consequência lógica.
+
+Assim, as terapêuticas empregadas até hoje não representam uma cura fundamental, mas sim um tratamento paliativo e inverso. O fato de a humanidade não ter percebido essa verdade fundamental pode ser qualificado como obscurantismo. Eis a verdadeira causa da abreviação da vida humana. A situação atual, em que quase a totalidade das pessoas se encontra enfraquecida por acúmulos de pus e sangue impuro, não tem outra origem. E o mais assustador é constatar que os japoneses da era moderna, alheios a essa realidade, buscam cada vez mais medicamentos e alimentos de origem animal.
+
+Permitam-me ilustrar com uma analogia: imaginemos que um país seja invadido por um exército inimigo. As forças de defesa, após rechaçá-lo, conseguem encurralá-lo próximo à fronteira, a um passo da vitória. Subitamente, porém, um novo inimigo surge e ataca pela retaguarda. Ameaçadas por esse novo flanco, as tropas que avançavam são forçadas a recuar. Nesse instante, o inimigo que estava acuado na fronteira dá meia-volta e avança novamente para o interior do país. O princípio é exatamente o mesmo.
+
+Diante disso, a verdadeira terapêutica consistiria em apoiar as próprias forças de defesa para que expulsem o inimigo do território nacional de uma vez por todas. Ao ponderarmos sobre essa lógica, torna-se evidente quão equivocados são os métodos de tratamento empregados até hoje. Sendo assim, os remédios considerados eficazes pela sociedade são, na verdade, aqueles com maior poder de turvar o sangue.
+
+A razão pela qual o Salvarsan, por exemplo, apresenta um efeito tão notável, ainda que temporário, reside no fato de ser produzido a partir do arsênico, um veneno terrível. Quando a sífilis se manifesta através de erupções cutâneas, em um processo de eliminação natural, a injeção de Salvarsan faz com que esses sintomas retrocedam rapidamente, pelo mesmo princípio já explicado. Sua eficácia é apenas temporária por essa exata razão. Em uma obra de um célebre mestre da antiga medicina chinesa, lê-se o seguinte: "O que de fato atua sobre a doença não é o remédio, mas o veneno. É por ser veneno que funciona". Isso se baseia, segundo ele, no princípio de "combater veneno com veneno". Suas palavras são a mais pura verdade e correspondem exatamente ao que denomino terapêutica por intoxicação.
+
+Dessa forma, os tratamentos equivocados praticados até hoje foram, gradualmente, contaminando o sangue dos seres humanos, minando sua saúde e, por fim, abreviando suas vidas. A cada vez que uma doença surgia, aplicava-se a terapêutica por intoxicação; quando a doença ressurgia, recorria-se novamente a ela, obtendo-se sempre um alívio passageiro. Em outras palavras, toda vez que o organismo tentava expelir as impurezas, essa tentativa era reprimida. Esse ciclo de supressão se repete até que, com o passar do tempo, sobrevém a inevitável e derradeira grande purificação natural, levando o indivíduo ao colapso. Nessa altura, a carga de venenos potencializados é tão avassaladora que o corpo físico não consegue suportar o processo.
+
+Ao compreender essa lógica, torna-se perfeitamente inteligível nossa afirmação de que o ser humano de hoje é uma massa de pus e sangue tóxico. A debilidade prolongada que se observa em doentes após o tratamento de enfermidades como a febre tifoide é consequência direta dessa terapêutica por intoxicação. Em contrapartida, quando a mesma doença é curada sem o uso de medicamentos, o paciente desfruta de uma saúde excelente no período de convalescença, precisamente por não ter sido submetido a tal método.
+
+Agora, ao irradiarmos a prodigiosa Onda de Luz da Nova Medicina Japonesa sobre as toxinas purulentas acumuladas no corpo humano, o processo de purificação se realiza de maneira completa. E ouso afirmar, com absoluta convicção, que não existe em todo o mundo, fora esta Onda de Luz, nenhum outro método capaz de purificar o sangue.
+
+---
+
+# Reflexões sobre a Arte Oriental (3)
+
+**Categoria:** to | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
+**Título Original:** 東洋美術雑観 （３） | **Status:** Published | **Edição/Página:** 168号 | **Data ISO:** 1952-08-06
+
+## Reflexões sobre a Arte Oriental (3)
+
+Todavia, anteriormente a isso, durante o florescente período Heian, a sensibilidade poética dos poemas *waka* e a sua elegante caligrafia em *kana* inspiraram o surgimento do que conhecemos como a pintura *Yamato-e* (大和絵). Embora sua técnica derive, inequivocamente, da pintura colorida chinesa, foi nas mãos de grandes mestres como Fujiwara Nobuzane (藤原信実) que ela se consolidou. Para que se tenha uma ideia de sua excelência, basta imaginar que uma única de suas folhas de papel decorado alcança, hoje, valores superiores a um milhão de ienes. Paralelamente, surgiram também as caricaturas (*giga*, 戯画) de artistas como o monge Toba Sojo e Kakuhan (覚鑁), que podem ser consideradas o embrião da arte do mangá.
+
+A evolução da pintura *Yamato-e* prosseguiu do período Fujiwara ao Kamakura, manifestando-se predominantemente em rolos de pintura que narravam as origens e lendas de templos e divindades. Atualmente, os exemplares mais refinados dessa época são de uma raridade extrema, atingindo preços assombrosos. Há um conjunto de três rolos que anseio adquirir, cujo valor é de seis milhões de ienes – uma cifra que me obriga a apenas contemplá-lo à distância, com os dedos na boca. Diz-se que os rolos de pintura são especialmente apreciados pelos norte-americanos, que espreitam com avidez as obras-primas que surgem no mercado. O rolo do Sutra de Causa e Efeito do período Tenpyo (天平), que pertence ao nosso acervo, foi confeccionado há mil e duzentos anos. Apesar de ser uma das mais antigas pinturas do Japão, suas cores permanecem tão vívidas que a excelência dos pigmentos utilizados constitui, ainda hoje, um enigma.
+
+Da pintura *Yamato-e* derivou, posteriormente, a Escola Tosa (土佐派). Dentre seus expoentes, destacam-se Mitsuoki (光起) e Matabei (Katsumochi, 勝以). Na sequência, o surgimento de Hishikawa Moronobu (菱川師宜) marcou o início da arte *Ukiyo-e* (浮世絵). Depois dele, seguiram-se mestres de renome como Utamaro, Harunobu e Choshun, cuja trajetória até a era moderna é amplamente conhecida.
+
+No universo da pintura japonesa, as obras de temática budista são verdadeiramente admiráveis. Ainda que se tenham inspirado nas pinturas da dinastia Song da China, os artistas japoneses criaram um estilo próprio e singular, que ouso dizer ser até superior ao chinês. Embora nossa coleção seja modesta em número, procurei reunir obras de elevado valor estético. Elas se distinguem por uma beleza agradável ao olhar, pois estão isentas da decrepitude e das imperfeições que frequentemente acometem as pinturas budistas. Neste ponto, não posso deixar de mencionar alguns pintores do final do período Ashikaga: Kaihoku Yusho (海北友松), Hasegawa Tohaku e Kano Sanraku (狩野山楽). O biombo de Yusho que possuímos é considerado uma de suas obras-primas. A Escola Kano (狩野派), por sua vez, produziu inúmeros mestres, como Motonobu, Naonobu, Tsunenobu, Sesson (雪村) e Tan'yu (探幽). Contudo, com seu último grande nome, Gaho, a popularidade da escola arrefeceu, em contraste com o prestígio de outrora. A única causa para tal declínio reside, certamente, nas transformações de cada época.
+
+Deixando por ora a pintura, discorrerei brevemente sobre a caligrafia. A expressão máxima da caligrafia japonesa é, sem dúvida, a escrita em *kana*. Os mais exímios calígrafos floresceram no período Heian. Entre eles, figuram Ki no Tsurayuki (貫之), Ono no Michikaze (道風), Saigyo (西行), Fujiwara no Teika (定家), Fujiwara no Sukemasa (佐理), o Príncipe Munetaka (宗尊), Minamoto no Toshiyori (俊頼), Fujiwara no Yoshitsune, Minamoto no Shitagau (源順) e Fujiwara no Yukinari (行成). Entre as mulheres, destacaram-se Murasaki Shikibu e Kodai no Kimi (小大の君). Essas obras de caligrafia clássica (*kohitsu*, 古筆) possuem uma beleza sutil e singularmente japonesa, exalando uma nobreza que não admite paralelos. Passemos à caligrafia zen (*bokuseki*, 墨蹟). No Japão, a figura proeminente é Kobo Daishi, seguido pelo fundador do Templo Daitoku-ji, Daito Kokushi, e os monges de sua linhagem, como Ikkyu, Takuan, Seigan (清巌), Kogetsu (江月), Gyokushitsu e Kokei (古溪). Ademais, podemos citar o fundador do Templo Engaku-ji de Kamakura, Mugaku Zenshi, e, em outra vertente, Muso Kokushi. Dentre os modernos, Ryokan goza de grande popularidade, e como mestre calígrafo, mencionaria talvez Nukina Kaioku (貫名海屋).
+
+Encerrando o tema da caligrafia, volto-me agora para a cerâmica japonesa. Assim como a pintura, a cerâmica japonesa indubitavelmente tem suas raízes na China. A maior parte das peças, como as de esmalte vermelho, as decoradas em azul e branco e os celadons, reflete essa influência. As cerâmicas Kakiemon, Imari e Kutani são exemplos bem conhecidos. Contudo, as travessas de Nabeshima, tanto em seu design quanto em seu colorido, exibem um caráter genuinamente japonês. Outros estilos de traços singulares são as cerâmicas de Satsuma e Banko (万古). Em uma vertente distinta, inspirada pela cerâmica coreana, surgiu no período Kamakura a cerâmica de Owari. Consiste, em sua maioria, de tigelas de chá, que são profundamente valorizadas e apreciadas pelos mestres dessa arte. Consequentemente, seus preços são surpreendentemente elevados. Seus principais tipos são Ko-Seto, Ki-Seto, Shino, Karatsu e Oribe, que são conhecidos como "cerâmica de Owari" ou *sabimono* (錆物), "peças de estilo rústico". Além dessas, há também as rústicas cerâmicas de Bizen e Shigaraki, em geral utensílios para a cerimônia do chá, que possuem um encanto deveras cativante.
+
+No que tange às tigelas de chá, é impossível não mencionar as obras de Chojiro, o criador da cerâmica Raku (*raku-yaki*). Inspirando-se na cerâmica coreana, ele concebeu um estilo singularmente japonês, o Raku, e, por ser muito estimado por Sen no Rikyu, produziu inúmeras obras-primas. Seus sucessores mais célebres foram o terceiro mestre, Nonko (Donyu, 道入); o quarto, Ichinyu; e o quinto, Sonyu. Por essa razão, o nome de Chojiro permanecerá eternamente na história como um dos grandes mestres da cerâmica japonesa.
+
+Devo registrar aqui a existência de dois mestres ceramistas japoneses que em nada são inferiores aos grandes nomes da China: Ninsei (仁清) e Kenzan (乾山). Comecemos por Ninsei. Oriundo de Quioto e ativo no início do período Tokugawa, seu nome verdadeiro era Nonomura Seibei (清兵衛). Contudo, por residir na vila de Ninnaji (仁和寺), ficou conhecido por Ninsei, alcunha que o imortalizou. Seu mérito excepcional reside em sua originalidade. Enquanto a totalidade da cerâmica japonesa tomava como modelo os estilos chineses ou coreanos, Ninsei trilhou um caminho distinto. Seus desenhos, motivos, formas e cores expressam magnificamente a sensibilidade japonesa. Sua obra, de uma beleza e dignidade sublimes, alcança um patamar que nem mesmo a cerâmica chinesa consegue atingir, sendo um verdadeiro orgulho para o Japão. Sempre que a contemplo, vejo em Ninsei o equivalente a Korin no mundo da cerâmica.
+
+Passemos a Kenzan (乾山). Como é sabido, Kenzan era irmão mais novo de Korin e também um artista de múltiplos talentos. É notável que sua esplêndida habilidade na pintura se refletisse igualmente em sua arte cerâmica. Ele possui um estilo distinto do de Ninsei. Se Ninsei pode ser comparado a um nobre da corte, Kenzan seria como um homem do campo. Evidentemente, suas pinturas não possuem o mesmo refinamento técnico de Korin ou Sotatsu, mas detêm um charme rústico e ingênuo inefável. Sustento a opinião de que, graças a esses dois grandes mestres, a cerâmica japonesa pode se ombrear com a chinesa sem qualquer demérito.
+
+Gostaria ainda de tecer alguns comentários sobre a arte budista. Tanto a pintura quanto a escultura foram introduzidas no Japão a partir da China – a pintura, no período Tang, e a escultura, no das Seis Dinastias (六朝). Sua chegada remonta ao período Suiko, há cerca de mil e trezentos anos. Seria natural afirmar que a pintura e a escultura budistas se desenvolveram em uníssono, mas a palavra "desenvolvimento" suscita-me certas dúvidas, pois, paradoxalmente, as obras mais antigas são as mais excelsas. É verdade que o apogeu da técnica foi atingido por volta do período Kamakura. No entanto, tanto na pintura quanto na escultura, as obras do período Fujiwara são superiores, e as do período Nara, por sua vez, superam as de Fujiwara. É um completo mistério. As primeiras esculturas eram quase todas de bronze dourado ou de laca seca, evoluindo gradualmente para a talha em madeira. Obras como a Kannon (観音) de Kudara, do Templo Horyu-ji; a imagem principal do Buda Yakushi Nyorai, do Templo Yakushi-ji; e a Kannon de Onze Faces, do Templo Hokke-ji, são obras-primas de uma magnitude indescritível. Portanto, embora a pintura budista tenha seu valor, a escultura de imagens de Buda pode ser considerada do mais alto nível mundial. Ela constitui, de fato, um dos tesouros artísticos universais dos quais o Japão deve se orgulhar.
+
+---
+
+# A Profecia da Luz do Oriente
+
+**Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
+**Título Original:** 東方の光 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
+
+## A Profecia da Luz do Oriente
+
+O budismo reverencia o conceito segundo o qual “este mundo é a Terra Pura da Luz Solitária”, valorizando enormemente essa dita “luz solitária”. Todavia, trata-se de um profundo equívoco. A razão é simples: uma luz solitária é, por definição, uma luz melancólica, que se refere ao brilho da lua. Este único fato já nos permite constatar que a era budista foi a Era da Noite. Portanto, a verdadeira descrição de um mundo iluminado seria “Terra Pura da Luz Solar” ou “Terra Pura da Luz Resplandecente”.
+
+Desde a antiguidade, costuma-se dizer: “Ao Leste, o Bodhisattva Kannon; ao Oeste, o Buda Amida”. Kannon (観音) se manifesta a partir da nação do Oriente, ou seja, do Japão. Existe, ademais, a expressão “Luz do Oriente”, uma profecia que igualmente anuncia a manifestação da luz a partir do Japão. A luz que surge do Leste é, inequivocamente, o Sol. Ao ponderarmos a articulação de todos esses pontos, compreende-se que é o destino inelutável de Kannon (観音) e da Luz do Oriente emergirem do Japão.
+
+Quando o grandioso Sol desponte, a lua perde seu brilho e as estrelas ocultam seu fulgor. Trata-se de um fenômeno astronômico perfeitamente natural. A partir desta analogia cósmica, torna-se possível discernir os acontecimentos vindouros.
+
+O Sutra do Lótus profetiza que “o mundo inteiro se converterá à Lei Mística”. O ideograma que representa o termo “místico”, na verdade, oculta em sua essência o ideograma para “luz”. A razão para tal segredo é que Kannon (観音) ainda não havia se manifestado. O verdadeiro significado dessa profecia, portanto, é que o mundo inteiro se converterá aos ensinamentos de Kannon (観音), a Divindade do Sol e da Lua. Trata-se, em suma, da predição de que, por meio dela, todas as religiões se unificarão em uma só.
+
+Nesse sentido, a publicação do primeiro número de nosso periódico, “Luz do Oriente”, ocorreu no auspicioso dia 23 de dezembro de 1934, data do primeiro aniversário de Sua Alteza, o Príncipe Herdeiro. Compreenderão, portanto, que tal fato não constitui, em absoluto, uma mera coincidência.
+
+---
+
 # Orientações sobre a Agricultura Natural
 
 **Categoria:** to | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
-**Título Original:** 読後のお言葉 自然農法体験者座談会 | **Status:** Published
+**Título Original:** 読後のお言葉 自然農法体験者座談会 | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
 
 ## Orientações sobre a Agricultura Natural
 
@@ -106,7 +1007,7 @@ Total: 38 participantes
 # A Purificação de Toxinas Acumuladas por Cinquenta Anos
 
 **Categoria:** to | **Ano:** 昭和26(1951)年6月6日 | **Fonte:** Eikou
-**Título Original:** 毒結五十年 | **Status:** Published
+**Título Original:** 毒結五十年 | **Status:** Published | **Edição/Página:** 107号 | **Data ISO:** 1951-06-06
 
 ## A Purificação de Toxinas Acumuladas por Cinquenta Anos
 
@@ -127,7 +1028,7 @@ Nesse sentido, a bactéria da disenteria cumpre a função natural de auxiliar n
 # O equívoco da confiança humana
 
 **Categoria:** to | **Ano:** 昭和28(1953)年8月19日 | **Fonte:** Eikou
-**Título Original:** 取違いの例 | **Status:** Published
+**Título Original:** 取違いの例 | **Status:** Published | **Edição/Página:** 222号 | **Data ISO:** 1953-08-19
 
 ## O equívoco da confiança humana
 
@@ -177,7 +1078,7 @@ Meishu-Sama, muito, muito obrigada.
 # A Cura do Aneurisma
 
 **Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 動脈瘤なんか何でもない 未発表 | **Status:** Unpublished
+**Título Original:** 動脈瘤なんか何でもない 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Cura do Aneurisma
 
@@ -196,7 +1097,7 @@ A simples análise deste fato é suficiente para demonstrar a impotência da med
 # A Anatomia das Toxinas
 
 **Categoria:** to | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
-**Título Original:** 毒素の解剖 | **Status:** Published
+**Título Original:** 毒素の解剖 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
 
 ## A Anatomia das Toxinas
 
@@ -227,7 +1128,7 @@ Dessa forma, como o aparelho digestivo foi projetado para processar apenas os al
 # O Equívoco da Medicina e a Verdadeira Causa da Doença
 
 **Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 毒素とは何か 未発表 | **Status:** Unpublished
+**Título Original:** 毒素とは何か 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## O Equívoco da Medicina e a Verdadeira Causa da Doença
 
@@ -250,7 +1151,7 @@ Se, como resultado, o número de pessoas livres de doenças aumentar, como se to
 # Um Apelo à Consciência das Autoridades
 
 **Categoria:** to | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
-**Título Original:** 当局に望む | **Status:** Published
+**Título Original:** 当局に望む | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
 
 ## Um Apelo à Consciência das Autoridades
 
@@ -285,7 +1186,7 @@ Desde a antiguidade, costuma-se dizer que árvores altas atraem mais vento e que
 # Afinal, o que é superstição?
 
 **Categoria:** to | **Ano:** 昭和25(1950)年10月11日 | **Fonte:** Eikou
-**Título Original:** どちらが迷信だ | **Status:** Published
+**Título Original:** どちらが迷信だ | **Status:** Published | **Edição/Página:** 73号 | **Data ISO:** 1950-10-11
 
 ## Afinal, o que é superstição?
 
@@ -306,7 +1207,7 @@ Todavia, não alimento o menor pessimismo. A razão é simples: se Deus está a 
 # O Deus do Tempo
 
 **Categoria:** to | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 時の神様 | **Status:** Published
+**Título Original:** 時の神様 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949-06-25
 
 ## O Deus do Tempo
 
@@ -323,7 +1224,7 @@ Diante do exposto, torna-se imperativo que o ser humano dedique a máxima atenç
 # A Expressão “Lutar Contra a Doença”
 
 **Categoria:** to | **Ano:** 昭和27(1952)年3月12日 | **Fonte:** Eikou
-**Título Original:** 闘病という言葉 医学断片集（２） | **Status:** Published
+**Título Original:** 闘病という言葉 医学断片集（２） | **Status:** Published | **Edição/Página:** 147号 | **Data ISO:** 1952-03-12
 
 ## A Expressão “Lutar Contra a Doença”
 
@@ -338,7 +1239,7 @@ Escrevo estas linhas por ter me deparado, recentemente, com a expressão “luta
 # A Inviabilidade da Conquista Lunar
 
 **Categoria:** tu | **Ano:** 昭和24(1949)年9月3日 | **Fonte:** -
-**Título Original:** 月世界 寸評（光25号） 白光生 | **Status:** Published
+**Título Original:** 月世界 寸評（光25号） 白光生 | **Status:** Published | **Edição/Página:** 25号, 25号 | **Data ISO:** 1949-09-03
 
 ## A Inviabilidade da Conquista Lunar
 
@@ -353,7 +1254,7 @@ Diante disso, gostaria de lhes fazer uma recomendação: que direcionem seus val
 # Um Apelo às Autoridades Fiscalizadoras
 
 **Categoria:** to | **Ano:** 昭和24(1949)年12月24日 | **Fonte:** -
-**Título Original:** 取締当局に要望する | **Status:** Published
+**Título Original:** 取締当局に要望する | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1949-12-24
 
 ## Um Apelo às Autoridades Fiscalizadoras
 
@@ -378,7 +1279,7 @@ Ousamos expor, com toda a franqueza, os anseios que nutrimos em nosso coração.
 # Seria Tóquio uma capital estrangeira?
 
 **Categoria:** to | **Ano:** 昭和10(1935)年4月8日 | **Fonte:** Toho no Hikari
-**Título Original:** 東京は外国の都か 阿呆文学 | **Status:** Published
+**Título Original:** 東京は外国の都か 阿呆文学 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1935-04-08
 
 ## Seria Tóquio uma capital estrangeira?
 
@@ -397,7 +1298,7 @@ Parece, com efeito, que os japoneses já não podem saborear os alimentos genuin
 # A Raiz da Moralidade
 
 **Categoria:** to | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 道徳の根源 | **Status:** Published
+**Título Original:** 道徳の根源 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Raiz da Moralidade
 
@@ -416,7 +1317,7 @@ Passarei, a seguir, a discorrer sobre esses pontos de forma ordenada.
 # O Dever de Seguir a Razão Divina
 
 **Categoria:** to | **Ano:** 昭和25(1950)年11月20日 | **Fonte:** 世界Kyusei教早わかり
-**Título Original:** 道理に従う | **Status:** Published
+**Título Original:** 道理に従う | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-11-20
 
 ## O Dever de Seguir a Razão Divina
 
@@ -439,7 +1340,7 @@ Ao unirmos o significado de cada um desses ideogramas, a profundidade do termo R
 # Os Prejuízos das Denúncias e Cartas Anônimas
 
 **Categoria:** to | **Ano:** 昭和24(1949)年11月12日 | **Fonte:** -
-**Título Original:** 投書密告による被害 | **Status:** Published
+**Título Original:** 投書密告による被害 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1949-11-12
 
 ## Os Prejuízos das Denúncias e Cartas Anônimas
 
@@ -460,7 +1361,7 @@ Pelo exposto, ao se determinar a veracidade de denúncias e cartas anônimas, ro
 # O Princípio Vertical e Horizontal
 
 **Categoria:** to | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
-**Título Original:** 東洋と西洋 | **Status:** Published
+**Título Original:** 東洋と西洋 | **Status:** Published | **Edição/Página:** P.63 | **Data ISO:** 1948-09-05
 
 ## O Princípio Vertical e Horizontal
 
@@ -488,7 +1389,7 @@ Quem compreende este princípio percebe que a recente derrota do Japão deve ser
 # A Origem da Dor e do Sofrimento
 
 **Categoria:** tu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 痛苦 | **Status:** Published
+**Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Origem da Dor e do Sofrimento
 
@@ -511,7 +1412,7 @@ Por meio desta arte de cura, o sofrimento é sanado com celeridade. Mesmo as dor
 # O ser humano, uma massa de toxinas
 
 **Categoria:** to | **Ano:** 昭和28(1953)年9月16日 | **Fonte:** Eikou
-**Título Original:** 毒塊人間 | **Status:** Published
+**Título Original:** 毒塊人間 | **Status:** Published | **Edição/Página:** 226号 | **Data ISO:** 1953-09-16
 
 ## O ser humano, uma massa de toxinas
 
@@ -534,7 +1435,7 @@ Haveria muito mais a dizer, mas creio que o exposto já seja suficiente para a c
 # A Diferença entre o Tratamento Médico e o Johrei em Relação a Acidentes por Queda
 
 **Categoria:** tu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 墜落に対する医療と浄霊との相違 未発表 | **Status:** Unpublished
+**Título Original:** 墜落に対する医療と浄霊との相違 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Diferença entre o Tratamento Médico e o Johrei em Relação a Acidentes por Queda
 
@@ -549,7 +1450,7 @@ Portanto, é verdadeiramente lastimável a condição do ser humano na atualidad
 # A Origem do Pecado é o Remédio
 
 **Categoria:** tu | **Ano:** 昭和27(1952)年2月6日 | **Fonte:** Eikou
-**Título Original:** 罪の因は薬 | **Status:** Published
+**Título Original:** 罪の因は薬 | **Status:** Published | **Edição/Página:** 142号 | **Data ISO:** 1952-02-06
 
 ## A Origem do Pecado é o Remédio
 
@@ -572,7 +1473,7 @@ Tragédias como essas estampam diariamente as páginas dos jornais, sendo partic
 # A Surdez, a Constipação e a Difteria Sob a Ótica Espiritual
 
 **Categoria:** tu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 聾耳、便秘、ジフテリヤ | **Status:** Published
+**Título Original:** 聾耳、便秘、ジフテリヤ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## A Surdez, a Constipação e a Difteria Sob a Ótica Espiritual
 
@@ -587,7 +1488,7 @@ Por fim, a difteria é frequentemente causada pela obsessão do espírito de um 
 # A Origem Espiritual da Surdez, da Constipação e da Difteria
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 聾耳及び便秘とジフテリヤ ・病気と霊八 | **Status:** Published
+**Título Original:** 聾耳及び便秘とジフテリヤ ・病気と霊八 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
 
 ## A Origem Espiritual da Surdez, da Constipação e da Difteria
 
@@ -604,7 +1505,7 @@ Finalmente, abordemos a difteria. Sua causa, em grande parte dos casos, é a pos
 # O Equívoco da Reação à Tuberculina
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** ツベルクリンの注射 | **Status:** Published
+**Título Original:** ツベルクリンの注射 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## O Equívoco da Reação à Tuberculina
 
@@ -631,7 +1532,7 @@ A conclusão, portanto, é a seguinte: a reação negativa significa que o indiv
 # A Prodigiosa Cura da Disenteria Infantil
 
 **Categoria:** e | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 疫痢は簡単に治る 未発表 | **Status:** Unpublished
+**Título Original:** 疫痢は簡単に治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Prodigiosa Cura da Disenteria Infantil
 
@@ -650,7 +1551,7 @@ Todavia, quando a cura pode ser alcançada com simplicidade, pelas mãos da pró
 # O Solo como Manancial de Nutrientes
 
 **Categoria:** tu | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
-**Título Original:** 土は肥料の塊り | **Status:** Published
+**Título Original:** 土は肥料の塊り | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
 
 ## O Solo como Manancial de Nutrientes
 
@@ -679,7 +1580,7 @@ Da mesma forma, ao recebermos os relatos, percebo que há uma grande demanda nã
 # A Essência da Dor
 
 **Categoria:** tu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 痛苦 | **Status:** Published
+**Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Essência da Dor
 
@@ -708,7 +1609,7 @@ Além das toxinas medicamentosas, existem também as dores causadas por toxinas 
 # A Origem da Dor e do Sofrimento
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 痛苦 | **Status:** Published
+**Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
 
 ## A Origem da Dor e do Sofrimento
 
@@ -739,7 +1640,7 @@ Além das toxinas medicamentosas, existem também as dores oriundas de toxinas u
 # A Natureza da Dor e do Sofrimento
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 痛苦 | **Status:** Published
+**Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## A Natureza da Dor e do Sofrimento
 
@@ -772,7 +1673,7 @@ Além do yakudoku (薬毒), existe a dor causada pelo veneno urêmico, que, no e
 # A Transição do Mundo e a Crise da Medicina
 
 **Categoria:** e | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** Ｘの説明 未発表 | **Status:** Unpublished
+**Título Original:** Ｘの説明 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
 
 ## A Transição do Mundo e a Crise da Medicina
 
@@ -797,7 +1698,7 @@ Será então que as pessoas, em busca de um caminho para escapar dessa calamidad
 # A Magnificência do Solo
 
 **Categoria:** tu | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
-**Título Original:** 土の偉力 | **Status:** Published
+**Título Original:** 土の偉力 | **Status:** Published | **Edição/Página:** 79号 | **Data ISO:** 1951-01-15
 
 ## A Magnificência do Solo
 
@@ -840,7 +1741,7 @@ Para finalizar, gostaria de abordar um último ponto. Ao criar bichos-da-seda al
 # A Comédia da Nutrição
 
 **Categoria:** e | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 栄養の喜劇 自観叢書10編 | **Status:** Published
+**Título Original:** 栄養の喜劇 自観叢書10編 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-04-20
 
 ## A Comédia da Nutrição
 
@@ -877,7 +1778,7 @@ Esforcei-me para explicar esta lógica da forma mais clara possível. Quando ref
 # Memórias de um Cinéfilo
 
 **Categoria:** e | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 映画 自観叢書第5編 | **Status:** Published
+**Título Original:** 映画 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.29 | **Data ISO:** 1949-08-30
 
 ## Memórias de um Cinéfilo
 
@@ -914,7 +1815,7 @@ O que é digno de louvor, no entanto, é o desempenho dos atores de hoje, que de
 # A Materialização do Paraíso Terrestre
 
 **Categoria:** e | **Ano:** 昭和27(1952)年 | **Fonte:** 天国の苑
-**Título Original:** 映画 | **Status:** Unknown
+**Título Original:** 映画 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1952
 
 ## A Materialização do Paraíso Terrestre
 
@@ -931,7 +1832,7 @@ Profundamente consternado com essa lacuna, decidi criar um museu de arte cujo fo
 # O Jardineiro da Feira Religiosa
 
 **Categoria:** e | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
-**Título Original:** 縁日の植木屋 阿呆文学 | **Status:** Published
+**Título Original:** 縁日の植木屋 阿呆文学 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
 
 ## O Jardineiro da Feira Religiosa
 
@@ -954,7 +1855,7 @@ O jardineiro, um homem chamado Suzuki, respondeu:
 # Uma Reflexão sobre a Disenteria Infantil
 
 **Categoria:** e | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
-**Título Original:** 疫痢 寸評（光20号） 白光生 | **Status:** Published
+**Título Original:** 疫痢 寸評（光20号） 白光生 | **Status:** Published | **Edição/Página:** 20号, 20号 | **Data ISO:** 1949-07-30
 
 ## Uma Reflexão sobre a Disenteria Infantil
 
@@ -967,7 +1868,7 @@ Tal suposição, todavia, é absolutamente infundada. A disenteria consiste, em 
 # Uma Nova Perspectiva sobre a Nutrição
 
 **Categoria:** e | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 栄養学 | **Status:** Published
+**Título Original:** 栄養学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
 
 ## Uma Nova Perspectiva sobre a Nutrição
 
@@ -1022,7 +1923,7 @@ Por fim, é um erro dar óleo de fígado de bacalhau às crianças em nome da nu
 # O Equívoco da Ciência Nutricional
 
 **Categoria:** e | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 栄養食 | **Status:** Published
+**Título Original:** 栄養食 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
 
 ## O Equívoco da Ciência Nutricional
 
@@ -1039,7 +1940,7 @@ Consequentemente, ao prover esses elementos externamente, suprime-se a necessida
 # O Grande Equívoco da Nutrição Moderna
 
 **Categoria:** e | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
-**Título Original:** 栄養 | **Status:** Published
+**Título Original:** 栄養 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
 
 ## O Grande Equívoco da Nutrição Moderna
 
@@ -1080,7 +1981,7 @@ Para concluir, gostaria de apontar o erro mais grave da nutrição moderna: a in
 # O Engano da Ciência da Nutrição
 
 **Categoria:** e | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 栄養学 | **Status:** Published
+**Título Original:** 栄養学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
 
 ## O Engano da Ciência da Nutrição
 
@@ -1157,7 +2058,7 @@ Por fim, a título de nutrição, é comum dar óleo de fígado de bacalhau às 
 # Memórias da Perseguição Religiosa
 
 **Categoria:** to | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
-**Título Original:** 取調べの模様 | **Status:** Published
+**Título Original:** 取調べの模様 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
 
 ## Memórias da Perseguição Religiosa
 
@@ -1306,7 +2207,7 @@ Resta-me apenas aguardar o dia do julgamento verdadeiro. Creio que, no tribunal,
 # A Falácia da Nutrição Moderna
 
 **Categoria:** e | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
-**Título Original:** 栄養学 | **Status:** Published
+**Título Original:** 栄養学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
 
 ## A Falácia da Nutrição Moderna
 
@@ -1379,7 +2280,7 @@ Por fim, a título de nutrição, é comum dar óleo de fígado de bacalhau às 
 # Acerca da Morte dos Heróis
 
 **Categoria:** e | **Ano:** 昭和28(1953)年4月22日 | **Fonte:** Eikou
-**Título Original:** 英雄の死に就いて | **Status:** Published
+**Título Original:** 英雄の死に就いて | **Status:** Published | **Edição/Página:** 205号 | **Data ISO:** 1953-04-22
 
 ## Acerca da Morte dos Heróis
 
@@ -1398,7 +2299,7 @@ Em contrapartida, nós, que cremos em Deus e nos dedicamos a salvar o maior núm
 # A Falácia da Nutrição Moderna
 
 **Categoria:** e | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 栄養学 | **Status:** Published
+**Título Original:** 栄養学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
 
 ## A Falácia da Nutrição Moderna
 
@@ -1461,872 +2362,6 @@ Quanto ao leite, ele é adequado para bebês que ainda não têm dentes. A parti
 Outro grande equívoco é dar canja de arroz com ameixa em conserva (*umeboshi*) a uma pessoa doente. A ameixa em conserva foi criada nos tempos remotos do período dos estados guerreiros como um alimento para as tropas. A ideia era ter um alimento de volume reduzido que, mesmo em pequenas quantidades, saciasse a fome. Assim, hoje ela é adequada para atividades como alpinismo ou caminhadas, mas não para doentes. Estando acamado e com falta de exercício, o doente deve comer alimentos de fácil digestão. Mesmo em estado de saúde, o consumo de ameixa em conserva diminui o apetite.
 
 Por fim, a título de nutrição, é comum dar óleo de fígado de bacalhau às crianças, o que também está errado. Todos os alimentos — arroz, trigo, feijão, verduras — contêm seus próprios óleos característicos, e as funções do corpo os extraem de tudo o que se come. Com isso, a quantidade é sempre perfeitamente adequada, sem excessos ou faltas. Assim como se extrai óleo do açúcar, da colza e da soja, o princípio é o mesmo. Ingerir apenas o óleo é uma forma de nutrição parcial e extremamente antinatural. Ao beber apenas o óleo, a função do corpo responsável por extrair os óleos dos alimentos se atrofia, e o resultado, evidentemente, só pode ser ruim.
-
----
-
-# O Grande Equívoco da Ciência Nutricional
-
-**Categoria:** e | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
-**Título Original:** 栄養 未発表 | **Status:** Unpublished
-
-## O Grande Equívoco da Ciência Nutricional
-
-Nos tópicos anteriores, detalhei a natureza temível dos medicamentos, o que, a esta altura, já deve ter ficado claro. Contudo, há um ponto que não pode ser negligenciado: o grande equívoco acerca da nutrição. Já abordei a inadequação da proteína animal no tratamento da tuberculose, mas o problema não se restringe a isso. Em sua totalidade, a ciência nutricional moderna está imersa em um profundo engano.
-
-O ponto mais flagrante desse equívoco é que a ciência nutricional toma como objeto de estudo apenas os alimentos, relegando a um segundo plano as funções primordiais do corpo humano. Tomemos como exemplo as vitaminas. Classificam-nas em A, B, C e outras categorias, na tentativa de suprir supostas carências nutricionais, mas tal abordagem beira o absurdo. Isso ocorre porque, como já expus, ignora-se a potencialidade natural das funções do organismo. Na verdade, a ciência moderna sequer reconhece a existência dessas funções. A atividade funcional do corpo é capaz de produzir, em quantidade suficiente para o seu sustento, quaisquer nutrientes de que necessite, sejam vitaminas, carboidratos, proteínas, aminoácidos, glicogênio ou gorduras. Evidentemente, mesmo a partir de alimentos totalmente desprovidos de vitaminas, a função nutricional, qual um mágico, tem a vitalidade para criar, invariavelmente, tudo o que for necessário.
-
-Por essa lógica, ocorre o resultado paradoxal de que, quanto mais nutrientes o corpo ingere, mais ele se enfraquece. Ou seja, quanto mais vitaminas se consome, maior se torna a deficiência delas. Não há mistério algum nisso. À medida que se introduzem nutrientes no organismo, a função responsável por produzi-los perde sua razão de atuar e, naturalmente, atrofia-se. Isso acontece, desnecessário dizer, porque a maior parte dos nutrientes ingeridos já se encontra em sua forma final. Originalmente, a força vital do ser humano nasce do processo gerado pela atividade de suas funções; em especial, pode-se afirmar que a atividade da função digestiva é o próprio pilar da força vital. Em outras palavras, força vital é sinônimo de atividade funcional. Desse modo, o processo de trabalho da função que transforma o alimento incompleto em completo é a verdadeira fonte geradora de vitalidade. O fato de nos sentirmos fracos quando estamos com fome evidencia que o trabalho de processamento do alimento foi concluído; e, tão logo nos alimentamos, o corpo se revigora, o que torna esse princípio ainda mais claro. Ademais, como todas as funções do corpo humano estão interligadas, é natural que, se a função digestiva, que é a base, enfraquece, as demais também declinarão.
-
-É dispensável mencionar a importância do exercício físico para a saúde, mas sua principal contribuição é externa, ao estimular o metabolismo. Embora exerça alguma influência positiva internamente, esta é de natureza secundária. A condição fundamental para a promoção da saúde é, inegavelmente, o fortalecimento da própria atividade da função digestiva. Portanto, quanto mais fácil for a digestão de um alimento, mais ele enfraquecerá essa função, o que nos leva a concluir que os alimentos comuns, de digestão normal, são os ideais. A medicina, todavia, preconiza alimentos de fácil digestão, o que demonstra quão equivocada é essa recomendação. Além disso, incentiva-se a mastigação exaustiva, prática que, pelo mesmo motivo, enfraquece o estômago e deve ser evitada. Um exemplo disso é a gastroptose, uma enfermidade que consiste no relaxamento do estômago e que foi inteiramente criada pelo homem. Ora, se uma pessoa consome alimentos de fácil digestão, mastigando-os demoradamente, e ainda faz uso regular de digestivos, é inevitável que seu estômago se enfraqueça cada vez mais, até relaxar por completo. Não é de uma insensatez tremenda? A esse respeito, narrarei uma experiência pessoal. Há mais de trinta anos, popularizou-se nos Estados Unidos um método de alimentação chamado “fletcherismo”. Tratava-se de uma prática de saúde que preconizava a mastigação mais exaustiva possível. Decidi experimentá-la e, no início, senti uma leve melhora. Contudo, após cerca de um mês, comecei a me sentir progressivamente mais fraco e sem energia. Percebendo que algo estava errado, retornei à minha forma habitual de me alimentar e prontamente recuperei meu vigor.
-
-Como se pode depreender do exposto, a ciência nutricional opera de forma quase que inteiramente inversa, sendo, portanto, incapaz de promover a saúde. Vejamos outro exemplo. Recomenda-se o leite de vaca a mães com produção insuficiente de leite materno, o que é um raciocínio deveras estranho. É da natureza humana que, ao dar à luz, a mulher produza a quantidade exata de leite para nutrir seu filho. Se a produção é insuficiente, é porque há algum fator incorreto que precisa ser identificado e corrigido. A medicina, porém, ou não percebe isso, ou, mesmo que perceba, não sabe como agir e recorre à solução mencionada. É como se acreditassem que o leite de vaca ingerido pela mãe passasse diretamente da boca para o mamilo. A insensatez dessa ideia é tamanha que beira o inacreditável. Consequentemente, o consumo de leite de vaca, ao contrário do que se pensa, tende a diminuir a produção de leite materno. Por quê? Porque, ao receber um suprimento externo de leite, a função orgânica responsável por produzi-lo se atrofia. E não é só isso. Pacientes, por vezes, bebem sangue cru de animais como forma de nutrição, outra prática assombrosa. É possível que se observe algum efeito temporário, mas, na realidade, tal ato enfraquece a função de produção de sangue do próprio corpo, resultando, paradoxalmente, em anemia. Pensemos um pouco: o ser humano come arroz e pão brancos, verduras verdes e feijões amarelos, e, com isso, produz sangue vermelho. Que magnífico produtor ele é! Se, mesmo consumindo alimentos que não contêm uma gota de sangue, o corpo o produz, o que acontecerá se ingerirmos sangue diretamente? Evidentemente, o resultado será o oposto: a produção de sangue cessará. A obscuridade da ciência nutricional, que não percebe algo tão elementar, é tal, que faltam palavras para descrevê-la. Até mesmo um animal como o boi, ao comer palha, produz um leite de excelente qualidade. Que não se dirá, então, do ser humano! Diante de tudo isso, a origem dos equívocos da ciência nutricional reside no completo desprezo pela natureza e na adesão cega e exclusiva às teorias acadêmicas.
-
-Os nutrientes indispensáveis ao ser humano encontram-se em abundância nos vegetais. Sem exceção, os vegetarianos são saudáveis e vivem por muito tempo. Prova disso é o grande número de longevos entre os monges zen-budistas, conhecidos por sua alimentação frugal, e o fato de que o célebre dramaturgo britânico Bernard Shaw, falecido recentemente aos noventa e quatro anos, era um notório vegetariano. Certa vez, em uma viagem de trem pela linha Tohoku, sentei-me ao lado de um senhor de cerca de cinquenta anos, com aparência de um fidalgo do campo, de rosto corado e ar saudável. De tempos em tempos, ele tirava agulhas de pinheiro verdes do bolso do paletó e as comia com aparente satisfação. Achei-o uma pessoa peculiar e o indaguei. Orgulhosamente, ele me contou que, há mais de dez anos, as agulhas de pinheiro eram seu único alimento. Antes, era uma pessoa fraca, mas, ao descobrir os benefícios do pinheiro, começou a consumi-lo. No início, o sabor era bastante desagradável, mas, à medida que se acostumou, tornou-se saboroso, e ele adquiriu uma saúde esplêndida. “Veja!”, disse ele, desabotoando a camisa e arregaçando as mangas para me mostrar sua compleição. Recentemente, li no jornal sobre um jovem que gozava de excelente saúde alimentando-se apenas de folhas de chá usadas. Trata-se de um relato direto do próprio indivíduo, portanto, fidedigno. Em outra ocasião, durante uma escalada ao monte Yarigatake, nos Alpes Japoneses, fiquei surpreso ao ver a refeição do meu guia: era composta apenas de arroz, sem nenhum acompanhamento. Ao perguntar-lhe, ele me disse que era delicioso. Ofereci-lhe comida enlatada, mas ele a recusou terminantemente. E, mesmo assim, carregava mais de trinta e sete quilos nas costas, subindo e descendo trilhas de quase quarenta quilômetros todos os dias, o que era espantoso. Há também uma história antiga sobre o famoso erudito confucionista do período Edo, Ogyu Sorai, que, hospedado no segundo andar de uma loja de tofu, passou dois anos estudando e alimentando-se exclusivamente de okara, o resíduo da produção de tofu. E, como já mencionei, para curar-me da tuberculose, adotei por três meses uma dieta estritamente vegetariana, sem usar sequer peixe seco para tempero, e abandonei todos os medicamentos. Com isso, obtive a cura completa. Por todas essas razões, planejo, ao passar dos noventa anos, dedicar-me intensamente a um método de rejuvenescimento. Em que consiste? Em uma dieta o mais frugal possível, baseada principalmente em vegetais. A frugalidade é benéfica porque, diante da escassez de nutrientes, a função digestiva é forçada a trabalhar intensamente para produzi-los. Esse estímulo a torna mais vigorosa, promovendo o rejuvenescimento. Sendo assim, ter saúde e uma vida longa é a consequência natural. Ouvi dizer que a saúde dos coolies da Manchúria é considerada a melhor do mundo, a ponto de ser objeto de estudo de acadêmicos ocidentais. E, no entanto, a alimentação desses trabalhadores é algo impressionante. Consiste em um grande pão de sorgo por refeição, três vezes ao dia. O que a ciência nutricional diria a respeito? Como esses exemplos demonstram, a prática de misturar diversos tipos de alimentos, defendida pela nutrição moderna, é um grande erro. O ideal é, tanto quanto possível, uma alimentação simples e de poucos itens. A razão para isso é que, quanto mais a função de produção de nutrientes processa o mesmo tipo de matéria, mais sua capacidade se fortalece. O princípio é o mesmo daquele que, ao se dedicar a uma única tarefa, torna-se perito nela.
-
-Há um fato que surpreende a maioria das pessoas: a dieta vegetariana proporciona uma sensação de calor corporal muito agradável. É verdade que o consumo de carne aquece momentaneamente, mas, passado algum tempo, o efeito se inverte e a pessoa sente mais frio. Disso se pode deduzir que o grande desenvolvimento de sistemas de aquecimento no Ocidente se deve, justamente, a uma dieta carnívora, que torna as pessoas menos resistentes ao frio. Em contrapartida, os japoneses, por não terem o hábito de comer carne, suportavam melhor as baixas temperaturas, razão pela qual suas moradias não se preocupavam tanto com a proteção térmica. No vestuário, era comum ver soldados de infantaria e servos com as pernas nuas em pleno inverno, sem se incomodarem, e as mulheres usavam apenas uma ou duas saias de algodão, raramente calçando meias. Compare-se isso com as mulheres de hoje, que vestem várias camadas de lã e ainda se queixam do frio, e a lógica se tornará evidente.
-
-Um ponto importante que merece atenção é a recente campanha para incentivar o consumo de peixe, aves e carne vermelha entre a população rural, sob o pretexto de carência nutricional. Tal iniciativa é equivocada, pois, como já expliquei, a nutrição proveniente dos vegetais aumenta fundamentalmente a resistência física, conferindo durabilidade e prevenindo a fadiga durante o trabalho. É por isso que, desde a antiguidade, os agricultores japoneses, homens e mulheres, trabalhavam do amanhecer ao anoitecer. Se passassem a consumir mais alimentos de origem animal, sua capacidade de trabalho diminuiria. A grande mecanização da agricultura nos Estados Unidos, por exemplo, é um ponto a se considerar. A razão para tal reside, provavelmente, no fato de que, não possuindo resistência física para o trabalho contínuo, buscaram compensar essa deficiência com o intelecto. Portanto, se os agricultores japoneses adotarem uma dieta mais carnívora, a mecanização se tornará uma necessidade. Este é um ponto que exige profunda reflexão.
-
-Diante do exposto, fica claro que, se o objetivo fosse nutrir apenas o corpo, a dieta vegetariana seria a ideal. Contudo, as circunstâncias nem sempre o permitem. Para a população rural, essa seria uma escolha acertada, mas os habitantes das cidades, cujo trabalho é mais intelectual do que físico, necessitam de uma nutrição correspondente. Assim, para os japoneses, o ideal é priorizar peixes e aves, deixando a carne de outros animais em segundo plano. Essa lógica se alinha à natureza, considerando que o Japão é uma nação cercada pelo mar. A carne de peixes e aves nutre o cérebro, estimulando a vitalidade e a sabedoria. Já a carne de outros animais intensifica o desejo de competição, que, em última instância, evolui para uma consciência de luta, como bem ilustra a civilização ocidental. Foi o espírito competitivo que permitiu aos povos brancos alcançar o desenvolvimento cultural que vemos hoje; porém, foi a consciência de luta que os mergulhou em guerras incessantes. Embora se intitulem nações civilizadas, o fato de terem travado um número de guerras incomparavelmente maior que o Oriente revela essa verdade.
-
-Em suma, o ser humano, no que tange à alimentação, não deveria se preocupar excessivamente com a nutrição, mas simplesmente seguir o impulso natural de comer aquilo que lhe apetece. Nesse caso, para os habitantes das cidades, uma proporção equilibrada de alimentos de origem vegetal e animal, meio a meio, é adequada. Para a população rural e os doentes, a proporção mais indicada é de setenta a oitenta por cento de vegetais e vinte a trinta por cento de origem animal. Se a alimentação seguisse esse princípio e se os medicamentos fossem abolidos, o ser humano jamais seria acometido por doenças. Contudo, como a higiene e os métodos de saúde atuais divergem da realidade, acabam por gerar mais trabalho e produzir resultados negativos. A tal ponto que se poderia dizer: “Ó, lamentável criatura, teu nome é homem civilizado!”
-
-Por fim, há um dos maiores equívocos da ciência nutricional: a injeção de nutrientes. O corpo humano foi projetado para que o alimento seja ingerido pela boca e os nutrientes sejam produzidos pela atividade das diversas funções digestivas. Por algum engano, tenta-se introduzir esses nutrientes diretamente no corpo por meio de injeções na pele. Provavelmente, não há ideia mais absurda do que esta. Ao se cometer tal erro, as funções digestivas se tornam desnecessárias e, consequentemente, atrofiam-se. O que ocorre é uma transferência forçada da função de absorção de nutrientes. Uma ou duas aplicações podem não ter grande impacto, mas a continuidade dessa prática acarreta efeitos extremamente nocivos, como os fatos comprovam sobejamente.
-
----
-
-# A Verdade sobre a Nutrição e a Tuberculose
-
-**Categoria:** e | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
-**Título Original:** 栄養 | **Status:** Published
-
-## A Verdade sobre a Nutrição e a Tuberculose
-
-A medicina deposita grande ênfase na nutrição para o tratamento da tuberculose, mas os equívocos da ciência nutricional são igualmente assombrosos. Ao expor detalhadamente tais erros, percebemos que o primeiro e mais fundamental reside em seu foco exclusivo nos alimentos, negligenciando o aspecto primordial: a capacidade funcional do organismo de absorver e gerar nutrientes.
-
-Tomemos como exemplo as vitaminas. A ciência as classifica em categorias como A, B e C, dando a impressão de grande avanço, quando, na realidade, tal classificação carece de qualquer significado profundo. A razão para isso é o desconhecimento da causa fundamental. A chamada "deficiência de vitaminas" não se deve à falta de ingestão, mas sim à debilidade da função orgânica responsável por produzi-las e extraí-las. Portanto, o método verdadeiramente eficaz consiste em restaurar essa capacidade.
-
-Mas por que tal função se enfraquece? A resposta é simples: existe um obstáculo que impede sua plena atividade, e esse obstáculo é o acúmulo de toxinas medicamentosas. Façamos uma analogia: um indivíduo que não possui recursos financeiros geralmente sofre desse mal por ser ocioso. A única solução é fazê-lo trabalhar. A medicina, contudo, age de forma contrária: permite que a ociosidade persista e simplesmente lhe fornece o dinheiro. Com isso, o indivíduo se sente encorajado a permanecer ainda mais inativo. Fica evidente, assim, o quão equivocada é essa abordagem.
-
-Nesse sentido, quanto mais vitaminas se ingere, mais a função natural de produzi-las se atrofia, debilitando o organismo. Com o enfraquecimento do corpo, o processo de purificação também perde força, o que resulta na atenuação dos sintomas da doença. A medicina, por sua vez, interpreta erroneamente esse fenômeno como um resultado positivo da nutrição. Fica claro, portanto, que a ciência nutricional não apenas ignora a verdadeira relação entre o ser humano e o alimento, como também a interpreta de maneira invertida.
-
-Ademais, os alimentos necessários ao sustento do ser humano são produzidos em abundância por toda a face da Terra. Cereais, verduras, peixes, aves, carnes de caça, entre outros; Deus distribuiu a cada povo os alimentos mais adequados às suas características regionais, climáticas e étnicas, de modo que a nutrição suficiente e a manutenção da saúde fossem perfeitamente possíveis. É por desconhecerem tal desígnio que os homens se deixam levar pela miragem da ciência, criando uma disciplina tão absurda como a ciência nutricional, e despendem tempo e dinheiro para, no fim, enfraquecer a própria saúde. Sua insensatez é tamanha que faltam palavras para descrevê-la.
-
-Esse mesmo princípio se aplica à mastigação dos alimentos. Mastigar em demasia reduz o campo de atividade do estômago, enfraquecendo-o e causando a perda de apetite. Para compensar, a pessoa recorre a medicamentos digestivos e a alimentos de fácil digestão, o que debilita ainda mais o órgão, resultando em quadros de gastroptose ou úlcera gástrica. Seguindo essa lógica, o paciente com tuberculose não precisa se preocupar excessivamente com a nutrição. É preferível que se alimente como uma pessoa comum, mastigando os alimentos apenas parcialmente. Não é sem razão que, desde a Antiguidade, as pessoas que comem rápido costumam ser as mais saudáveis.
-
-Gostaria de apontar ainda outro equívoco. Em comparação com nossos antepassados, o homem moderno não sofre de desnutrição; pelo contrário, padece de excesso de nutrientes. A nutrição, na verdade, é gerada pelas funções do próprio organismo; logo, seu excesso leva à inatividade funcional. Aprofundando este raciocínio, chegamos à seguinte conclusão: alimentos nutritivos e suplementos são, por assim dizer, produtos acabados, que não deixam margem para a atividade das funções corporais. Em contrapartida, alimentos em seu estado mais natural, ou "incompletos", exigem maior atividade do organismo para serem processados. Isso estimula outras funções interligadas, promovendo um aumento geral da saúde. A vitalidade do ser humano, portanto, nasce da atividade de suas funções, o que se torna evidente quando nos sentimos fracos ao sentir fome. É por essa mesma razão que os apreciadores da alta gastronomia costumam ser frágeis, enquanto aqueles que se alimentam de forma simples são mais saudáveis.
-
-Por conseguinte, mesmo no caso de um paciente com tuberculose, é preferível uma dieta com maior presença de vegetais. A esse respeito, gostaria de compartilhar minha própria experiência.
-
-Aos dezessete anos, contraí pleurisia. Após uma punção para drenar o líquido, melhorei em cerca de três meses e me tranquilizei. Contudo, um ano depois, a doença reincidiu, e desta vez, diferentemente da primeira, a recuperação não vinha. Apesar do tratamento médico, meu estado se agravava progressivamente, e após pouco mais de um ano, fui diagnosticado com tuberculose em terceiro grau. O último diagnóstico foi dado pelo Dr. Tatsukichi Irizawa, um médico de renome na época. Após um exame minucioso, ele me sentenciou, afirmando que não havia esperança de cura completa. Minha debilidade aumentava a cada dia; ao olhar para minhas mãos, pareciam feitas de cera branca, sem qualquer vestígio de sangue, e meu corpo, emagrecido, resumia-se a pele e osso. Pelo grau de fraqueza, eu mesmo compreendi que não me restava mais do que um mês de vida. Embora resignado, comecei a ponderar se não haveria alguma forma de me salvar. Após muito refletir, decidi tentar algo radical, pensando: "Se der certo, ótimo. Se não, já estou perdido mesmo". Certo dia, enquanto folheava livros de arte — pois eu estudara pintura antes de adoecer —, deparei-me com um tratado de farmacologia chinesa intitulado *Honchō Yakusō Ihon (本朝薬草彙本)*. O livro continha apenas ilustrações de raízes e cascas de árvores, com indicações de que folha servia para tal doença ou que fruto ou flor se tornava tal remédio. Refleti: "Será possível que plantas tão simples contenham componentes tão eficazes?". Nesse instante, uma ideia me ocorreu. Até então, eu acreditava que a nutrição se resumia a alimentos de origem animal. Como experiência, decidi adotar uma dieta exclusivamente vegetariana por um dia. O resultado, contudo, foi assombroso. Senti-me extremamente bem. Achando aquilo extraordinário, continuei nos dias seguintes, e a melhora era cada vez mais notória. Foi então que comecei a duvidar da medicina, abandonei os remédios e mantive uma dieta estritamente vegetariana por três meses. Ao final desse período, eu estava mais saudável do que antes de adoecer.
-
-Mais tarde, aos vinte e cinco anos, casei-me. Cerca de um ano depois, minha esposa também foi acometida pela tuberculose. Sofria de hemoptise e expectoração com sangue de forma incessante. Embora fosse uma mulher de constituição robusta, emagrecera a ponto de pesar pouco mais de trinta e nove quilos. Baseado em minha experiência, não a levei a médicos e instituí uma dieta estritamente vegetariana. Ela começou a melhorar visivelmente e, em três meses, estava completamente curada. Dois anos depois, ao se pesar, sua massa corporal havia aumentado para quase sessenta e dois quilos.
-
-Houve também outro caso. Embora não relacionado à nutrição, certa vez um jovem estudante da Universidade Keio veio buscar tratamento. Ele sofria de hemoptise a cada um ou dois dias. O rapaz me disse: "Como não sinto dor, abandonei os tratamentos e vivo normalmente". Eu o aconselhei: "A hemoptise é um processo de purificação, o que é excelente. É melhor deixar que siga seu curso". Soube, tempos depois, que ele se curou completamente em cerca de dois anos. Creio que este caso também sirva de grande referência.
-
-Sobre a hemoptise, recordo-me de outro paciente, um homem de aproximadamente trinta anos. Sempre que consumia carne, ele sofria de hemoptise, mas o sangramento cessava imediatamente assim que voltava a uma dieta vegetariana. Segundo ele, o efeito era matemático. Esse caso me fez compreender que a dieta vegetariana é o método mais eficaz para deter a hemoptise, e desde então tenho ensinado isso a todos.
-
-Diante de tais fatos, a eficácia da dieta vegetariana no tratamento da tuberculose é inegável, e seria de grande valia que os nutricionistas se dedicassem a pesquisar o assunto com maior profundidade. Para ilustrar, apresento a seguir um relato de experiência que considero dos mais pertinentes.
-
----
-
-## Mão Salvadora às Vésperas da Cirurgia
-
-**Iseri Yoshio (34 anos)**
-*Igreja Koho Daikyokai*
-*Kumamoto-shi, Kengun-machi 6000*
-
-Em 1944, fui acometido por uma pleurisia. A doença reincidiu em 1947 e novamente em 1950, agravando-se a cada vez. No final de 1950, fui diagnosticado com tuberculose pulmonar e, em julho de 1951, minha internação para uma cirurgia de toracoplastia já estava marcada.
-
-Sendo eu um ateu convicto, quando ouvi pela primeira vez sobre os ensinamentos da Sekaikyuseikyou, longe de ter um ceticismo moderado, eu estava convicto da total impossibilidade de tais milagres. Contudo, a pessoa que me apresentou a Fé insistiu com tanto fervor que decidi adiar minha internação por uma semana ou dez dias e frequentar a igreja nesse período. Eu estava certo de que em breve a farsa se revelaria. Assim, passei a receber Johrei diariamente.
-
-Seguindo a orientação do ministro, abandonei imediatamente a terapia de repouso absoluto que seguia, passando a agir conforme minha disposição. Suspendi o uso do medicamento PAS e troquei a dieta rica em carnes e outros alimentos nutritivos por uma alimentação vegetariana. Naquela época, meus únicos sintomas eram febres baixas ocasionais, então pensei que adotar práticas "não científicas" por uma semana ou dez dias não afetaria significativamente meu quadro clínico.
-
-Entretanto, o que se sucedeu foi verdadeiramente prodigioso. Contrariando toda a lógica médica — que previa um agravamento do quadro, com febre, dores de cabeça e tonturas, devido ao abandono do repouso e da dieta nutritiva —, a partir do segundo dia, a cor do meu rosto melhorou, meu apetite aumentou e, em menos de uma semana, senti um vigor renovado. Diante disso, comecei a perceber que o Johrei, aquele simples ato de impor as mãos, era algo extraordinário.
-
-Ao mesmo tempo, dediquei-me à leitura dos registros das palavras de Meishu-Sama e de suas diversas obras. A princípio, suas teses revolucionárias me causaram espanto. Seus discursos sobre política e suas críticas aos funcionários públicos — temas que me diziam respeito diretamente, pois trabalho no governo da província de Kumamoto — pareceram-me meras utopias de um religioso, sem aplicação prática na sociedade.
-
-Todavia, ao refletir mais profundamente, percebi que meu incômodo ao lê-las provinha do fato de tocarem diretamente em minhas próprias feridas, expondo de forma franca e direta aquilo que eu preferia manter oculto. Conforme prosseguia com a leitura de seus ensinamentos e ouvia as palavras do ministro, compreendi que Meishu-Sama elucida a mais suprema moral humana em todas as esferas da sociedade, indicando claramente o caminho para praticá-la. Fui levado a ponderar que a capacidade de discorrer com tamanha profundidade sobre política, sociedade, religião, medicina, filosofia e arte é algo que transcende a capacidade de um simples mortal.
-
-O dia treze de julho de 1951, data em que saí para comprar os preparativos para minha internação, pode ser considerado o dia do meu renascimento no Mundo de Luz. Ocorreu justamente durante o período de Obon, e talvez tenha sido a orientação de meus antepassados que me salvou no último instante. Se eu tivesse sido internado conforme o planejado, qual não seria meu destino agora? Mesmo que a cirurgia tivesse sido bem-sucedida, eu teria de passar meses em repouso absoluto, mais um ano em convalescença e, ao voltar a trabalhar, teria um corpo mutilado e viveria em constante apreensão, temendo uma nova reincidência, até o fim de meus breves dias.
-
-Desde que recebi a Fé, há três meses, só o fato de ter aprendido a verdade de que "a doença é um processo de purificação" trouxe uma luz e uma serenidade imensuráveis ao meu cotidiano. Antes, se meu filho pegasse um simples resfriado, eu entrava em pânico: "Rápido, ao médico! E se virar uma pneumonia?". Ou me preocupava com qualquer febre ou dor de estômago. Olhando para trás, vejo quanta energia despendi com aflições inúteis. Sinto-me profundamente constrangido por ter vivido mais de trinta anos sem acreditar na existência de Deus e não posso deixar de pedir perdão por isso.
-
-Se hoje posso olhar para o meu passado com um sentimento de profunda gratidão, é graças a Meishu-Sama. Oro para que eu possa retribuir, ainda que minimamente, esta graça divina imensurável e ser útil, de alguma forma, na Obra Divina de construção do Paraíso Terrestre.
-
-Meishu-Sama, meu eterno e mais profundo agradecimento.
-
-(1º de novembro de 1951)
-
----
-
-# A Primazia do Espírito sobre a Matéria
-
-**Categoria:** re | **Ano:** 昭和28(1953)年11月18日 | **Fonte:** Eikou
-**Título Original:** 霊科学 | **Status:** Published
-
-## A Primazia do Espírito sobre a Matéria
-
-Eu sempre advogo o princípio da primazia do espírito sobre a matéria. Se toda a humanidade compreendesse esta verdade, a civilização daria um salto monumental. Contudo, o homem moderno não crê na existência do espírito e volta sua atenção unicamente para o corpo. Por essa razão, a civilização que construiu é meramente paliativa e superficial e, por mais que avance, permanece um mundo infernal que em nada se altera.
-
-Nesse sentido, o ponto fundamental é reconhecer a existência do espírito e dissipar as suas máculas. Para tanto, é preciso banhar-se constantemente na Luz Divina a fim de purificá-lo; não há outro caminho. Todavia, é crucial compreender que no Mundo Divino existe uma hierarquia, e quanto mais elevada a posição de um Deus, mais intensa é a Sua Luz.
-
-Sem qualquer presunção, posso afirmar que o Deus-Guia da nossa Sekaikyuseikyou é o Deus mais elevado e nobre jamais manifesto na Terra. Por essa razão, nossos fiéis são constantemente abençoados com uma intensa Luz e, por conseguinte, purificados. Assim, não apenas desfrutam de saúde plena, como também se tornam capazes de curar as doenças de outras pessoas.
-
-Ademais, é também devido a essa Luz que tantos milagres admiráveis ocorrem entre os membros da nossa Igreja. O relato de graça que se segue é um exemplo notável de como o poder espiritual de uma pessoa, fortalecido pela Luz, prevaleceu sobre a força espiritual de um objeto material, repelindo a calamidade.
-
-### Uma graça maravilhosa que recebi
-
-**Tanaka Makoto (32 anos)**
-**Igreja Nihonchuu, Província de Yamagata**
-
-O milagre que recebi é de tal magnitude que poderia soar como uma fábula; contudo, por ser um fato verídico, permito-me relatá-lo tal como ocorreu. Recebi a permissão de ingressar na fé em 1º de março de 1948 e, desde então, minha gratidão e comoção por poder auxiliar, ainda que modestamente, na Obra Divina sob a constante proteção de Deus são indescritíveis.
-
-O evento ocorreu no dia 28 de junho, durante o meu retorno do Culto Mensal das filiais de Tateoka e Higashine, para o qual acompanhei o ministro responsável. Ao término da cerimônia, por volta das quatro da tarde, um fiel, o senhor Kudo, insistiu que o visitássemos em sua casa. Fomos, e partimos de lá por volta das cinco. Como ainda era cedo, decidi aproveitar para orientar sobre a Agricultura Natural na Vila Nagatoro e, para isso, pedalava em alta velocidade sobre o dique Shirouzu, que servia de atalho.
-
-No momento em que me aproximava da avenida principal da cidade de Higashine, senti o guidão da bicicleta vacilar abruptamente e, no instante seguinte, meu corpo foi arremessado da bicicleta. Tive a nítida percepção de que dava uma volta completa no ar. O pavor que senti ao pensar que bateria a cabeça ou o rosto e me feriria gravemente é impossível de ser expresso em palavras.
-
-Contudo, meu corpo aterrissou suavemente sobre a vegetação do barranco. Levantei-me de imediato e, ao me aproximar da bicicleta, qual não foi minha surpresa ao vê-la partida exatamente ao meio, com as rodas dianteira e traseira separadas por mais de um metro. Observando atentamente, notei que havia uma fissura antiga no ponto de junção do quadro com o garfo dianteiro, e o metal que ainda resistia acabou por se romper por completo.
-
-Que milagre escapar sem um único arranhão após uma fratura tão súbita, em tamanha velocidade! O que teria acontecido se, no momento da ruptura, meu corpo não tivesse sido arremessado? Certamente, teria atingido o peito contra o guidão. Se não tivesse girado no ar, era inevitável que batesse com o rosto no chão. E se, em vez de cair na relva do barranco, eu tivesse caído na estrada, seria certo que sofreria contusões, hemorragias internas ou cortes profundos.
-
-Quando reflito que fui salvo unicamente pela imensurável e grandiosa proteção de Meishu-Sama, uma emoção avassaladora e uma gratidão tão profunda me assaltam o peito que apenas as lágrimas conseguem expressar.
-
-O ministro que me acompanhava também reconheceu a grandiosa proteção que recebi. Levamos a bicicleta quebrada até uma oficina, onde o proprietário ficou perplexo e comentou: "É inacreditável. Recentemente, um homem quebrou o quadro no mesmo ponto e fraturou duas costelas. Nunca vi alguém sair de uma situação como essa sem um arranhão sequer."
-
-Oh, Meishu-Sama, muito obrigado por Vossa grandiosa proteção. Com a mais profunda reverência, apresento minha gratidão.
-
----
-
-# A Comédia da Nutrição
-
-**Categoria:** e | **Ano:** 昭和24(1949)年6月18日 | **Fonte:** -
-**Título Original:** 栄養の喜劇 | **Status:** Published
-
-## A Comédia da Nutrição
-
-A Comédia da Nutrição poderá soar como um título assaz peculiar, e confesso que não o utilizaria se não fosse o mais apropriado. Peço, portanto, a benevolência do leitor, pois não encontrei outra expressão que descrevesse com tamanha precisão o que pretendo expor.
-
-A chamada ciência da nutrição, na qual a sociedade moderna deposita uma fé inabalável e que rege as práticas correntes, não passa, em sua totalidade, de um equívoco monumental. A despeito de sua natureza prejudicial e inútil, essa teoria é aclamada como um dos pináculos da cultura contemporânea e difundida com grande alarde. O volume de esforço e de recursos financeiros despendidos em prol dessa falácia é algo que se deveria lamentar profundamente. Sinto-me compelido a apresentar uma teoria que, embora possa parecer audaciosa e beirar a insanidade, se faz necessária, pois, diante do cenário atual, torna-se para mim impossível permanecer em silêncio. Tentarei, a seguir, detalhá-la com o máximo de clareza.
-
-Atualmente, ocupam o trono dos suplementos nutricionais as vitaminas A, B e C, seguidas por substâncias como aminoácidos, glicogênio, carboidratos, gorduras e proteínas, em uma vasta e diversa gama. Quando administrados por via oral ou injetável, esses compostos podem até oferecer um efeito momentâneo, mas jamais um benefício duradouro. Ademais, o suposto benefício revela-se, ao fim, um efeito reverso, de modo que o uso contínuo de suplementos acarreta um crescente enfraquecimento do organismo.
-
-Qual a razão para tal fenômeno? A finalidade da ingestão de alimentos, como é sabido, é sustentar a vida e promover a vitalidade humana, um ponto que dispensa maiores explicações. O cerne do problema reside na interpretação que a ciência moderna oferece para esse processo, uma interpretação que diverge drasticamente da realidade.
-
-Quando o ser humano se alimenta, o processo natural tem início com a mastigação, prosseguindo pelo esôfago até o estômago e, subsequentemente, para os intestinos, de onde as substâncias desnecessárias são excretadas. Ao longo dessa jornada, o fígado, a vesícula biliar, os rins, o pâncreas e todas as demais funções nutritivas atuam em uma sinergia insondável, produzindo, extraindo e distribuindo os elementos essenciais para o sangue, os músculos, os ossos, a pele, os cabelos, os dentes e as unhas. O milagre da Criação, em sua essência misteriosa e sublime, é algo que as palavras mal conseguem expressar. Esta é a mais pura manifestação da Natureza.
-
-Nesse sentido, os nutrientes de que o homem necessita para viver estão contidos em todos os tipos de alimento. A imensa variedade de alimentos existe justamente para suprir as diferentes necessidades de cada organismo, que variam de acordo com a pessoa e a ocasião, explicando as diferenças de paladar e de apetite. Por exemplo, quando sentimos fome, comemos; se a garganta está seca, desejamos água. O desejo por doces sinaliza uma carência de açúcar, assim como a vontade de comer algo salgado indica uma deficiência de sal. A própria natureza humana, por meio de seus desejos, elucida essa lógica. O que o corpo humano requisita manifesta-se, invariavelmente, por meio do sabor agradável.
-
-Portanto, fica evidente o quão equivocado é forçar-se a consumir substâncias de gosto repulsivo sob o pretexto de serem remédios. O antigo ditado “o bom remédio é amargo na boca” representa um erro crasso. O amargor é um sinal do Criador de que a substância contém veneno e não deve ser ingerida. Por essa lógica, quanto mais delicioso é um alimento, mais rico ele é em nutrientes, pois sua energia espiritual é mais intensa. Peixes e vegetais frescos são mais saborosos justamente porque sua energia espiritual é mais concentrada; com o passar do tempo, o sabor diminui à medida que essa energia se dissipa.
-
-Passemos, agora, à análise dos suplementos nutricionais. As funções nutritivas do corpo são capazes de produzir, a partir de qualquer alimento, todos os nutrientes necessários — sejam vitaminas ou qualquer outra substância — na quantidade exata requerida. Em outras palavras, o poder extraordinário dessas funções pode gerar as vitaminas de que o corpo precisa mesmo a partir de um alimento que não as contenha. Este processo de produção de nutrientes a partir do alimento é, em si, a própria força vital do ser humano. É, para ser mais direto, a transformação de uma matéria-prima incompleta em um produto acabado.
-
-Com base nesse princípio, ao ingerirmos um suplemento nutricional — que já é um produto acabado —, as funções de produção do corpo perdem sua razão de atuar e, naturalmente, atrofiam-se. E como todas as funções orgânicas operam em um regime de responsabilidade mútua, a atrofia de uma leva, inevitavelmente, à degeneração das demais, resultando no enfraquecimento progressivo do corpo.
-
-Para ilustrar, cito duas ou três experiências. Antigamente, popularizou-se nos Estados Unidos um método alimentar conhecido como Fletcherismo, que preconizava a mastigação exaustiva dos alimentos até que se tornassem uma pasta. Segui rigorosamente essa prática por um mês. Para minha surpresa, minha força física começou a diminuir gradualmente, a ponto de eu não conseguir mais me empenhar como antes. Abandonei o método e, quando retornei à minha forma habitual de comer, meu vigor foi restabelecido. Foi então que compreendi o grave equívoco por trás da mastigação excessiva. A razão é simples: quando os dentes realizam todo o trabalho de trituração, o estômago perde sua função. Por isso, o ideal é mastigar os alimentos apenas parcialmente. Não é à toa que os antigos diziam que pessoas que comem e evacuam rapidamente são saudáveis. Nesse aspecto, o homem de outrora era mais evoluído que o indivíduo culto de hoje.
-
-De modo semelhante, o uso de digestivos torna a atividade estomacal mais lenta, o que enfraquece o órgão e leva à necessidade de mais digestivos, criando um ciclo vicioso de enfraquecimento. É fato incontestável que a causa de muitas doenças gástricas reside no próprio consumo de remédios para o estômago. É comum ouvir relatos de pacientes com problemas gastrointestinais crônicos que, após anos sem melhora com dietas de fácil digestão, foram curados ao comerem algo simples.
-
-Comparemos essa dinâmica com o funcionamento de uma fábrica. Inicialmente, as matérias-primas são levadas para a instalação. Ali, o carvão é queimado, as máquinas entram em operação e os operários trabalham ativamente até que o produto final seja concluído. Esse processo é a própria razão de ser da fábrica. Se, pelo contrário, levássemos o produto já finalizado para dentro da fábrica, não haveria trabalho a ser feito. O carvão não precisaria ser queimado, as máquinas permaneceriam paradas e os operários seriam dispensáveis. Nesse cenário, a única alternativa seria fechar a fábrica.
-
-Procurei, com as palavras acima, expor meu raciocínio da forma mais clara possível. Quando refletimos sob essa ótica, o ato de despender vultosas somas de dinheiro em suplementos insípidos, que, em vez de fortalecer, debilitam o corpo, não pode ser classificado senão como uma comédia. Eis, portanto, a razão pela qual escolhi um título tão singular para este ensaio.
-
----
-
-# Uma Crítica à Nutrição Moderna
-
-**Categoria:** e | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 栄養学 | **Status:** Published
-
-## Uma Crítica à Nutrição Moderna
-
-Acredita-se, na medicina contemporânea, que a ciência da nutrição tenha alcançado um notável grau de progresso. A interpretação médica, conforme descrita por um especialista na área, é a seguinte:
-
-“Todos nós, via de regra, fazemos três refeições diárias. Esse hábito se destina a repor as substâncias que o corpo perde continuamente e, ao mesmo tempo, a construir novos tecidos. Desse modo, ocorrem no organismo, de forma ininterrupta, dois processos: a decomposição e a síntese. O termo ‘metabolismo’ abrange ambos. Mas qual é o percurso que os alimentos trilham no corpo até serem digeridos, absorvidos e convertidos em matéria de reposição ou de síntese?
-
-Comecemos pelas proteínas. No sistema digestivo, elas são decompostas em aminoácidos, que, por sua vez, são absorvidos pelas paredes intestinais, ingressam na corrente sanguínea e, após passarem pelo fígado, são distribuídos por todo o corpo. Ao alcançarem os tecidos, esses aminoácidos são recombinados para formar as proteínas específicas de cada local. Uma parte deles, contudo, sofre uma nova decomposição, transformando-se em ureia, ácido úrico, amônia, creatina, creatinina e sais inorgânicos, substâncias que são posteriormente excretadas na urina. Assim, embora as proteínas, após a digestão, sejam utilizadas como aminoácidos para a síntese de tecidos, uma porção delas também é queimada para gerar energia motora, de forma análoga aos carboidratos e às gorduras.
-
-Passemos agora aos carboidratos. Estes são convertidos em glicose, um monossacarídeo, e absorvidos pelas paredes do intestino, entrando na veia porta, que os transporta. Por conseguinte, a ingestão de uma grande quantidade de carboidratos de uma só vez eleva o nível de açúcar no sangue. Quando o consumo é excessivo, a glicose é armazenada no fígado sob a forma de glicogênio, sendo reconvertida em glicose e liberada conforme a necessidade. Essa glicose, por meio da oxidação pelo oxigênio do sangue, gera principalmente energia para o movimento, liberando, no processo, uma grande quantidade de gás carbônico. Quanto mais intensa a atividade física, mais vigorosa é a oxidação da glicose, o que demanda um consumo crescente do glicogênio estocado no fígado. No entanto, a oxidação da glicose em gás carbônico envolve a criação de vários produtos intermediários, sendo o ácido úrico um deles. Por essa razão, a medição dos níveis de ácido úrico é um método utilizado para aferir o grau de fadiga. Ademais, uma parte dos carboidratos pode ser convertida em gordura e depositada no corpo, o que explica por que o consumo elevado desses alimentos leva ao aumento da gordura corporal e, gradualmente, à obesidade.
-
-Por fim, as gorduras. Uma pequena parte pode ser digerida e absorvida no estômago, mas a maior parcela segue para o intestino. Ali, sob a ação da lipase pancreática, a enzima estearina, são decompostas em ácidos graxos e glicerol. Após serem absorvidas pelas paredes intestinais, são novamente convertidas em gordura e, junto à linfa, circulam pelo corpo em estado leitoso, até ingressarem no sistema venoso. Uma porção dessa gordura é armazenada como gordura corporal, enquanto outra é oxidada para gerar energia. Diferentemente dos carboidratos, porém, a energia liberada pelas gorduras é, predominantemente, térmica.”
-
-Diante de tal explanação, que prima pela minúcia e, à primeira vista, se revela deveras admirável, é natural que o público leigo lhe dê crédito.
-
-Contudo, por mais detalhada que seja essa descrição, sou de opinião que ela não ultrapassa o âmbito da mera suposição especulativa, elaborada por médicos com base em autópsias de cadáveres, análises de alimentos e exames de excrementos. Afinal, a organização funcional do corpo humano e a força vital que emana de sua atividade são fenômenos de uma ordem muito mais elevada e profunda que o atual patamar da ciência. Portanto, ainda que a nutrição moderna consiga oferecer algumas interpretações sobre a saúde humana, isso equivale a contemplar os céus através de uma chaminé e julgar conhecer a vastidão do firmamento. Seria como avaliar uma obra-prima unicamente pelo custo da tela, das tintas e do trabalho do artista.
-
-Em suma, é preciso reconhecer que o nível da ciência contemporânea ainda é demasiado baixo para que se possa compreender em profundidade o corpo humano e sua vida, de natureza misteriosa e sublime. Naturalmente, é possível prever que o avanço científico um dia atingirá tal grau de conhecimento. Não sendo eu um cientista, não oferecerei uma explanação científica, mas, com base na prática e na experiência, pretendo expor, por meio da lógica indutiva, em que consiste a verdadeira nutrição. Creio não haver erro em minha tese.
-
-Atualmente, a ciência da nutrição está cativa das teorias de calorias e vitaminas, que regem todos os seus preceitos. Eu, porém, afirmo categoricamente: o ser humano pode viver de forma esplêndida mesmo que se alimente de substâncias totalmente desprovidas de vitaminas.
-
-O equívoco fundamental das pesquisas médicas reside em sua abordagem unilateral, focada apenas nos alimentos, ignorando a ação das funções digestivas e de produção de nutrientes do próprio corpo humano. Na verdade, todas as funções do organismo constituem um formidável produtor químico, capaz de transformar qualquer alimento com absoluta liberdade. Todavia, a medicina ainda desconhece o significado desse poder de transmutação.
-
-Em que consiste, então, tal poder? Consiste no fato de que, ao comermos arroz, verduras, tubérculos ou leguminosas, esses alimentos são transformados, por intermédio desse alquimista que é a função digestiva, em sangue, músculos e ossos. Contudo, por mais que se analisem o arroz ou as verduras, não se encontrará neles um único grânulo de elemento sanguíneo, nem um milímetro de elemento muscular. É somente através da sua ingestão que o corpo, de forma natural, produz todos esses componentes, graças a um poder de transmutação verdadeiramente sublime e misterioso. Por conseguinte, mesmo que se consumam alimentos sem nenhuma vitamina, a atividade inescrutável de diversas funções orgânicas produzirá as vitaminas A, B e C, os aminoácidos, o glicogênio e todos os demais nutrientes ainda por descobrir.
-
-Diante dessa lógica, pode surgir a seguinte questão: se o sangue é formado a partir de alimentos que não contêm elementos sanguíneos, e as vitaminas são produzidas a partir de alimentos que não as possuem, o que acontece quando se ingere diretamente sangue ou vitaminas, sob o pretexto de nutrição? O resultado é este: ao receber sangue ou vitaminas já prontos, as funções responsáveis por sua produção cessam suas atividades, pois não há mais necessidade de que trabalhem. E, como todas as funções do corpo estão interligadas, é natural que a inatividade de uma parte delas leve à paralisação ou à atrofia das demais.
-
-Um exemplo corriqueiro é o da vaca. Ao comer capim e palha, ela produz o leite, essa bebida nutritiva e deliciosa. Isso ocorre graças ao poder de transmutação de suas funções digestivas. Atualmente, por mais que o homem utilize todo o seu poderio mecânico, seria impossível produzir leite a partir de capim e palha.
-
-Por essa razão, embora a ingestão de nutrientes como as vitaminas possa trazer bons resultados por um certo período, com o tempo as funções orgânicas se enfraquecem progressivamente, levando a uma debilitação geral do corpo. É um processo análogo ao de quem anda de carro: embora seja cômodo no momento, as pernas gradualmente se enfraquecem. Assim, o consumo de alimentos nutritivos pode, temporariamente, levar ao ganho de peso, melhorar a coloração da pele e apresentar bons resultados nas estatísticas. Passado algum tempo, porém, a debilitação se instala. É deveras lamentável que as políticas de incentivo a uma alimentação nutritiva se baseiem em estatísticas de um ou dois anos, iludidas por resultados positivos de curto prazo.
-
-Nesse sentido, para fortalecer a força vital do ser humano, é preciso estimular a atividade das funções nutritivas. Para tanto, deve-se consumir alimentos com poucos nutrientes, a fim de forçar o organismo a acionar suas próprias fábricas internas. O exercício físico, aliás, tem o mesmo propósito. Na prática, os camponeses de outrora seguiam uma dieta extremamente frugal, e era justamente essa simplicidade alimentar que lhes conferia tamanha capacidade de trabalho. Se os agricultores adotassem uma alimentação requintada, sua força de trabalho diminuiria. É célebre também a resistência dos coolies da Manchúria, que se alimentavam de forma muito simples, comendo o mesmo tipo de alimento nas três refeições diárias, o que corrobora minha tese. A nutrição moderna, entretanto, recomenda uma grande variedade de alimentos, o que, como se vê, não corresponde à realidade.
-
-Ademais, durante a recente Grande Guerra da Ásia Oriental, investigações realizadas após a derrota das tropas americanas, britânicas e holandesas revelaram que a alimentação delas era incomparavelmente mais suntuosa que a dos soldados japoneses. O fato de os soldados japoneses, com sua dieta simples, terem sido mais fortes que os inimigos, com sua alimentação requintada, endossa plenamente minha teoria.
-
-Vejamos outro exemplo. Imaginemos uma fábrica de máquinas. Ela importa matérias-primas como ferro e carvão. Por meio do trabalho dos operários, da queima do carvão para mover o maquinário e de uma série de processos, uma máquina completa é finalmente produzida. Essa é a missão, a razão de ser e a força vital da fábrica. Se, ao invés disso, máquinas prontas fossem entregues à fábrica, o trabalho dos operários e o funcionamento do maquinário se tornariam desnecessários. Das chaminés não sairia fumaça, e a vida daquela fábrica cessaria. Consequentemente, os operários seriam demitidos, as máquinas aos poucos enferrujariam e a razão de sua existência desapareceria. O mesmo ocorre com o ser humano. Os chamados alimentos nutritivos são, em essência, alimentos mais completos, e nutrientes como as vitaminas são formas especialmente finalizadas. Ao ingeri-los, a fábrica interna do corpo não precisa mais trabalhar, e o enfraquecimento de suas funções é, portanto, inevitável.
-
-Por isso, o ser humano deve buscar uma alimentação o mais primitiva e frugal possível, para que as funções do organismo sejam ativadas e transformem essa matéria-prima em nutrientes completos. É o próprio processo dessa atividade que se manifesta como força vital.
-
-Recentemente, tem-se recomendado mastigar os alimentos o máximo possível, o que também é um grande equívoco. Uma mastigação excessiva deixa pouco trabalho para o estômago, o que acaba por enfraquecê-lo. O ideal, portanto, é uma mastigação moderada, a meio caminho. O antigo ditado “Quem come rápido é saudável” tem, assim, seu fundo de verdade.
-
-A nutrição atual também menospreza o valor nutritivo dos grãos. Pensa-se que a nutrição se concentra nos acompanhamentos, e grande esforço é dedicado à elaboração de cardápios variados, o que é outro erro. Na realidade, os grãos são a base da nutrição, e os acompanhamentos são secundários. Pode-se até mesmo entender que a função dos acompanhamentos é simplesmente tornar o arroz mais saboroso. Como exemplo, cito uma experiência que tive anos atrás, ao escalar os Alpes japoneses. Fiquei surpreso ao ver a marmita do guia que nos acompanhava: era composta apenas de arroz branco, sem nenhum acompanhamento. Nem mesmo uma ameixa em conserva. Perguntei-lhe: “É gostoso comer só arroz?”, e ele respondeu: “É muito gostoso”. E assim, aqueles homens carregavam de doze a quinze quilos nas costas, subindo e descendo trilhas extremamente íngremes todos os dias, o que é algo espantoso. Diante de tais fatos, que explicação dariam os nutricionistas?
-
-Pode parecer estranho que arroz puro, sem acompanhamentos, seja tão saboroso, mas a razão é a seguinte: as funções humanas são feitas para se adaptar ao ambiente. Assim, ao manter uma dieta simples, o paladar se transforma, e aquele alimento passa a ser delicioso. Essa capacidade de transformação do paladar parece ser pouco conhecida. Pelo contrário, quem se habitua a uma alimentação requintada percebe que, com o tempo, ela perde o sabor, o que o leva a buscar iguarias cada vez mais sofisticadas, como bem vemos no exemplo das pessoas que vivem no luxo.
-
-Se esta minha teoria for aceita, seus benefícios para a política de abastecimento em tempos de guerra, uma questão da mais alta importância atualmente, serão imensuráveis.
-
-A seguir, falemos sobre os alimentos. O que são os alimentos? É evidente que o Criador, que deu origem a todos os seres vivos, a começar pelo homem, proveu cada um com os alimentos adequados para a manutenção de sua vida. Assim, para o ser humano, existem alimentos que foram, em linhas gerais, predeterminados. Cumpre saber quais são esses alimentos, o que é uma tarefa bastante simples, pois existe para isso o fator “sabor”. O Criador dotou o ser humano do instinto do paladar e infundiu nos alimentos o “sabor”.
-
-Por essa lógica, todos os alimentos possuem seu sabor particular, e é ao comê-los com prazer que eles se tornam nutrição e a vida se mantém. Portanto, discussões sobre vitaminas, proteínas e quejandos não têm o menor significado.
-
-Como já mencionei, se nutrientes como as vitaminas são necessários ao corpo, as funções internas os produzirão a partir de qualquer alimento. Sendo assim, no que tange à alimentação, basta seguir a natureza. Não apenas é desnecessário pesquisar academicamente a nutrição, como tal prática pode ser até mesmo prejudicial. É por essa razão que, de acordo com o ambiente, a profissão e a constituição de cada um, surgem naturalmente diferenças de preferência alimentar. Aquilo que se deseja em um dado momento é o que o corpo necessita, e basta consumi-lo. É o mesmo princípio de quando se tem sede e se deseja água.
-
-Falemos agora sobre a natureza dos alimentos. A maior parte dos nutrientes se encontra nos vegetais. Portanto, do ponto de vista estritamente nutricional, grãos e vegetais são suficientes para manter uma saúde plena. De fato, é sabido que uma dieta exclusivamente carnívora, sem nenhum vegetal, pode levar à septicemia. Em contrapartida, nunca se ouviu falar que uma dieta exclusivamente vegetal cause doenças, o que torna a questão evidente.
-
-O mais interessante é que a índole humana é grandemente influenciada pelo tipo de alimento consumido. Uma dieta exclusivamente vegetal torna o caráter dócil e gera um pensamento de não-resistência, o que, em termos nacionais, pode levar à derrota no cenário internacional. A queda da Índia, embora tenha causas religiosas, provavelmente teve como fator principal a alimentação de seu povo, baseada quase que exclusivamente em vegetais e leite. O mesmo se observa no reino animal: enquanto os carnívoros, como o leão e o tigre, são ferozes, os herbívoros, como o boi e o cavalo, são dóceis.
-
-Consequentemente, o vegetariano tende a ter menos desejos materiais, ambição e outras características de uma postura ativa. Por isso, na sociedade cultural moderna, dependendo de sua situação e de sua profissão, pode ser necessário consumir também carne de peixes, aves ou outros animais.
-
-Em uma era de intensa competição internacional e conflitos étnicos como a atual, o consumo de carne se torna necessário, pois ele desperta o espírito competitivo e a consciência de luta. O fato de os povos brancos terem uma inclinação constante para o conflito e de as guerras na Europa serem incessantes também se deve, em parte, a essa razão.
-
-Recentemente, alguns teóricos têm afirmado que o consumo de carne é extremamente prejudicial, mas isso é um equívoco. Mesmo que os alimentos contenham toxinas, estas são geralmente muito leves e eliminadas pela purificação natural do corpo. Portanto, desde que não haja excesso, o consumo de carne não representa um problema.
-
-Fica claro, assim, que a escolha dos alimentos deve ser feita de acordo com a situação e a profissão de cada um. No entanto, qualquer que seja sua condição, ao ultrapassar os oitenta anos de idade, o ser humano não necessita mais de desejos materiais ou de um espírito de luta. Nessa fase, adotar uma dieta vegetariana é o mais recomendável, pois isso não só é mais adequado à saúde como também proporciona maior longevidade.
-
-Diante do exposto, a superioridade da alimentação frugal para a promoção da saúde é manifesta. No entanto, hoje em dia, quando alguém adoece, recomenda-se uma dieta de origem animal a título de nutrição, o que acaba por agravar a debilidade e exercer uma influência negativa na cura da doença.
-
-Quanto ao leite, ele é adequado para bebês que ainda não têm dentes, mas não depois que os dentes nascem. O surgimento dos dentes é um sinal de que o corpo já está apto a consumir alimentos sólidos, pois a função digestiva se desenvolveu o suficiente. Esse é o curso natural das coisas. Portanto, é um erro evidente que adultos bebam leite a título de nutrição. E qual é o prejuízo? Causa uma debilitação geral do corpo. Como já afirmei, até mesmo mastigar demais os alimentos leva ao enfraquecimento; logo, é natural que um alimento líquido como o leite, que exige ainda menos esforço, cause uma debilitação ainda maior. Sempre que me perguntam se um adulto deve ou não beber leite, costumo rir e responder: “Se você vai se alimentar como um bebê, não deveria também se comportar como um, engatinhando e pedindo colo?”. Este é mais um dos malefícios da medicina, que se apega à teoria e ignora a realidade.
-
-Quando alguém adoece, é comum que lhe deem canja de arroz com ameixa em conserva, o que também é um grande erro. A ameixa em conserva foi criada na antiga Era dos Estados Combatentes como um alimento para as tropas. O objetivo era ter algo de pequeno volume que, mesmo em pouca quantidade, saciasse a fome. Por isso, hoje ela é adequada para atividades como alpinismo ou caminhadas, mas não para doentes. Alguém acamado, com pouca atividade física, deve comer alimentos de fácil digestão. Aliás, mesmo em estado de saúde, o consumo de ameixa em conserva tende a diminuir o apetite.
-
-Por fim, a título de nutrição, é comum dar óleo de fígado de bacalhau às crianças, o que também está errado. Todos os alimentos, sejam arroz, trigo, feijão ou verduras, contêm seus próprios óleos característicos, e as funções do corpo os extraem de tudo o que se come. Dessa forma, a quantidade é sempre adequada, sem excessos nem carências. Basta ver que do farelo de arroz se extrai óleo de farelo; da colza, óleo de colza; e da soja, óleo de soja. Ingerir apenas o óleo é uma forma de nutrição parcial e extremamente antinatural. Ao se beber somente o óleo, a função orgânica responsável por sua extração se atrofia, e o resultado, evidentemente, será negativo.
-
----
-
-# A Existência do Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 霊界の存在 自観叢書第3編 | **Status:** Published
-
-## A Existência do Mundo Espiritual
-
-Antes de mais nada, cumpre-nos indagar: com que propósito o ser humano vem a este mundo? É imperativo que, primeiramente, tenhamos a devida compreensão sobre essa questão. A resposta reside no fato de que Deus, para construir o Mundo Ideal, que é o objetivo de Seu Plano Divino para a Terra, criou o ser humano, concedeu a cada um sua respectiva missão e o faz atuar em conformidade com Sua Vontade. O avanço desde a era primitiva até a esplendorosa era cultural de nossos dias, bem como o notável desenvolvimento da inteligência humana na atualidade, não têm outro propósito senão este.
-
-Com efeito, não apenas o ser humano, classificado como um ser superior, mas todas as demais criaturas vivas — e até mesmo as plantas, os minerais e qualquer outra substância que possua forma — são constituídas por dois elementos fundamentais: espírito e matéria. Qualquer que seja a entidade, uma vez que o espírito se separe do corpo, ela perece. Contudo, neste ensaio, ater-me-ei a explicar o fenômeno exclusivamente no que concerne ao ser humano.
-
-Quando o corpo físico se torna inservível, seja por senilidade, enfermidade, hemorragia severa ou outras razões, o espírito o abandona, desprendendo-se dele. Dirige-se, então, ao Mundo Espiritual, onde se torna um ser espiritual e dá início à sua nova existência.
-
-Este é um processo universal, comum a todos os povos do mundo. Um exemplo notável disso remonta ao período posterior à Primeira Guerra Mundial, na Inglaterra, com a célebre obra de Sir Oliver Lodge, *A Sobrevivência Após a Morte*, que à época elevou o preço do papel devido à sua imensa procura. O livro é um registro das inúmeras comunicações espirituais que o autor, Sir Oliver Lodge, recebeu por diversos meios de seu filho, que perecera em combate na Bélgica durante a Grande Guerra. Naquele tempo, pessoas de todas as nações se apressaram em lê-lo, e tal fato serviu de estopim para que a pesquisa sobre o Mundo Espiritual florescesse subitamente, impulsionando um fervor investigativo e o surgimento de notáveis médiuns.
-
-Outro caso amplamente conhecido nesse meio é o do célebre literato belga Maurice Maeterlinck, autor de *O Pássaro Azul*. Ao tomar conhecimento da realidade do mundo anímico, sua famosa concepção sobre o destino transformou-se por completo, e ele se dedicou com afinco ao estudo da ciência espiritual, um fato notório entre os estudiosos da área. Posteriormente, com a publicação da renomada obra do Dr. Wardo, da França, intitulada *Relatos de uma Exploração do Mundo Espiritual*, as investigações espiritualistas ganharam um impulso ainda maior. As incursões do Dr. Wardo no Mundo Espiritual foram particularmente profundas. Uma vez por semana, por cerca de uma hora, o doutor adentrava um estado de abstração total enquanto permanecia sentado em uma cadeira, e assim viajava ao Mundo Espiritual. Sua obra é o registro do que aprendeu, compilado a partir das minuciosas instruções e orientações que recebeu do espírito de seu tio, que o guiava por todas as regiões do além, revelando-lhe a sua verdadeira realidade. Relata-se também que espíritos de amigos e conhecidos desempenharam papéis de orientação, enriquecendo sobremaneira o conhecimento do doutor sobre a vida espiritual. Trata-se de uma leitura deveras interessante e de grande valia para a compreensão da vida no além, motivo pelo qual a recomendo vivamente aos leitores.
-
-Naturalmente, existem diferenças consideráveis e inevitáveis entre o Mundo Espiritual do Ocidente e o do Japão. Oportunamente, tenciono elucidar, com base em diversos exemplos práticos, os fenômenos espirituais que se manifestam tanto no Japão quanto no Ocidente, ou Taisei (泰西).
-
-Há mais de uma década, chegaram-me notícias do Reino Unido de que centenas de sociedades de pesquisa espiritual haviam sido fundadas e estavam em plena atividade, tendo-se estabelecido, inclusive, uma universidade dedicada a esses estudos. Gostaria muito de saber, no entanto, qual o destino de tais iniciativas após a recente Grande Guerra e qual a sua situação nos dias de hoje.
-
-Feitas essas considerações, passarei a discorrer paulatinamente sobre as diversas facetas do Mundo Espiritual.
-
----
-
-# O Caso da Enfermidade Pulmonar de Causa Espiritual
-
-**Categoria:** re | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** 霊的肺患 自観叢書第9篇 | **Status:** Published
-
-## O Caso da Enfermidade Pulmonar de Causa Espiritual
-
-Há alguns anos, minha esposa foi acometida subitamente por sintomas equivalentes aos de um terceiro estágio de uma enfermidade pulmonar, manifestando febre, tosse e escarro sanguinolento. Diligenciei em tratá-la imediatamente, contudo, o efeito mostrou-se notavelmente escasso. Transcorridos dois ou três dias, seu quadro clínico permanecia estagnado, oscilando entre breves melhoras e recaídas.
-
-Diante disso, cogitei a possibilidade de se tratar de uma causa espiritual e passei a investigar a existência de algum espírito obsessor. Com efeito, minha suposição mostrou-se correta.
-
-O espírito obsessor era o de um jovem tuberculoso a quem eu havia tratado cerca de um ano antes, mas que, por fim, viera a falecer. O rapaz vivia apenas com seu pai e, devido à prolongada enfermidade, haviam esgotado todos os seus recursos financeiros, encontrando-se em estado de extrema penúria. Por essa razão, praticamente nenhum ofício religioso póstumo fora realizado em sua memória.
-
-Consequentemente, o espírito encontrava-se solitário e desamparado no Mundo Espiritual. Desejava, portanto, que eu o assentasse em um altar e lhe dedicasse orações, e, com essa finalidade, manifestara-se em minha esposa. Foi isso que pude compreender.
-
-Expliquei-lhe, então, que realizaria os ofícios na noite seguinte, pois necessitava de tempo para os devidos preparativos. Pedi-lhe que, até lá, se afastasse, a fim de poupar o corpo de minha esposa do sofrimento. O espírito anuiu prontamente e se retirou. No exato instante em que ele se afastou, minha esposa recuperou-se por completo, retornando ao seu estado normal como se nada tivesse acontecido. Fiquei verdadeiramente surpreso com a clareza e a instantaneidade do fenômeno.
-
-O referido espírito permanece, até os dias de hoje, assentado no altar de meu lar.
-
----
-
-# Filosofia do Amor
-
-**Categoria:** re | **Ano:** 昭和25(1950)年1月21日 | **Fonte:** -
-**Título Original:** 恋愛哲学 | **Status:** Published
-
-## Filosofia do Amor
-
-Dentre as questões da vida humana, talvez nenhuma seja tão complexa e de difícil solução quanto o amor. Em uma só palavra, ele é, ao mesmo tempo, a flor e o espinho da existência. Há quem o defenda como um princípio supremo; outros, contudo, apontam-no como a causa da imoralidade. De nossa perspectiva, a verdade é que o amor pode ser tanto uma coisa quanto outra, a depender das circunstâncias. Gostaria, portanto, de expor nossa visão sobre o tema.
-
-Em sua essência, o amor constitui a maior graça concedida por Deus à humanidade, um fascínio tão profundo que jamais se esgota, por mais que se mergulhe em sua beleza. Contudo, ele também representa um perigo de tal magnitude que, em seu apogeu, pode levar o indivíduo a renunciar à própria vida sem qualquer hesitação. Por essa razão, pode-se afirmar que romances e peças teatrais não se sustentariam sem o elemento amoroso. Se o amor não existisse neste mundo, a vida se assemelharia a um campo gélido e desolado em pleno inverno.
-
-Ao observarmos a realidade, no entanto, percebemos que a infelicidade decorrente do amor é muito mais comum do que a felicidade que ele proporciona. As disputas mesquinhas entre as pessoas, os sofrimentos excruciantes, a ruína de destinos e os acontecimentos abomináveis, como crimes passionais e suicídios por amor, têm, em sua esmagadora maioria, origem nos relacionamentos amorosos. Pode-se afirmar, sem exagero, que se trata de algo verdadeiramente temível.
-
-Diante disso, surge a questão: qual a maneira correta de se lidar com o amor sob a ótica da fé?
-
-A solução não é tão complexa quanto parece; na verdade, é bastante simples, o que talvez cause estranheza a muitos. Em suma, tudo se resume a três pilares: sabedoria, coragem e amor verdadeiro. Suponhamos que uma relação amorosa se inicie entre um homem e uma mulher. Desde o princípio, é imperativo que não se deixem aprisionar pela subjetividade; ao contrário, devem analisar a situação com a máxima objetividade possível.
-
-Para tanto, o passo fundamental é discernir as consequências futuras, ponderando sobre a felicidade e a infelicidade que o relacionamento poderá trazer a ambos. Se o matrimônio for o objetivo final, por exemplo, tal união gerará felicidade e, portanto, representa o bem. Se, contudo, a relação for motivada unicamente pelo prazer momentâneo, impulsionada por um desejo fugaz e sem a intenção de casamento, ela se torna um mal, pois resultará, no mínimo, na infelicidade da mulher.
-
-Os envolvidos, todavia, certamente argumentarão: “No amor, não há espaço para pensar em bem ou mal, nem em consequências. Apenas amamos. Existe somente o impulso irresistível do amor”. Tal postura, entretanto, caracteriza o que se pode chamar de amor cego, no qual a pessoa é completamente dominada pelo sentimento. No caso do homem, ser subjugado dessa forma por uma mulher, ainda que delicada, equivale a uma derrota. Um homem tão fraco não possui as qualidades da masculinidade e dificilmente alcançará sucesso na vida. O ponto que desejamos enfatizar é precisamente este: é fundamental dominar o amor, em vez de ser dominado por ele. Agindo assim, jamais se cometerá um erro. Ademais, uma mulher sentirá profundo respeito por um homem com tal domínio, e seu amor por ele se tornará ainda mais profundo e satisfatório. Portanto, nossa concepção é que o amor, em si, não é algo mau; ele é, de fato, a flor da existência. O segredo reside, como mencionado, em não se deixar governar por ele. Se o indivíduo for capaz de governar seus próprios sentimentos amorosos, jamais trilhará o caminho do erro.
-
-Eis, em linhas gerais, nossa filosofia sobre o amor.
-
----
-
-# O Perigo da Possessão por Espíritos
-
-**Categoria:** re | **Ano:** 昭和26(1951)年12月5日 | **Fonte:** Eikou
-**Título Original:** 霊憑りに就て | **Status:** Published
-
-## O Perigo da Possessão por Espíritos
-
-Apesar de minhas constantes advertências sobre os perigos da possessão espiritual, ainda há quem insista em não cessar com tais práticas. É imperativo abandoná-las em definitivo. Passo, então, a explicar detalhadamente por que são tão nefastas.
-
-De cada dez casos de possessão, oito ou nove são obra de espíritos de raposa, e, dentre estes, noventa e nove por cento são espíritos malignos. Para eles, a dissimulação é instintiva, e não apenas não sentem qualquer remorso em induzir o ser humano ao mal, como encontram nisso um prazer indescritível. Nesse sentido, os de hierarquia mais elevada, ao possuírem uma pessoa, usurpam o nome de alguma divindade, de um Buda, Bodhisattva ou de uma divindade-dragão, fazendo com que o próprio médium acredite nisso e tente convencer os outros. Consequentemente, a pessoa possuída assume por completo essa identidade, passa a ser reverenciada como uma divindade encarnada e, não raro, entrega-se a uma vida de luxo e ostentação, o que revela a verdadeira natureza desses espíritos.
-
-Com efeito, os espíritos de raposa mais antigos acumularam consideráveis poderes sobrenaturais. Ao possuírem um ser humano, são capazes de discernir todos os seus pensamentos, o que lhes permite urdir toda sorte de estratagemas. Se uma pessoa anseia, por exemplo, ser venerada como um deus, um desses espíritos logo a possui e começa a agir para realizar tal desejo. O espírito declara ser a reencarnação desta ou daquela nobre divindade, sendo a usurpação do nome de Amaterasu Oomikami a mais frequente, por ser amplamente conhecido. Com astúcia, ele estabelece supostos laços de afinidade espiritual com indivíduos que julga influentes e realiza pequenos prodígios. Assim, homens e mulheres de bem acabam sendo completamente ludibriados. Trata-se de um fenômeno corriqueiro, e a maioria das chamadas “divindades populares” que surgem em diversos locais pertence a essa categoria, sendo, naturalmente, obra de espíritos de raposa com certa habilidade para o engano, que se aproveitam da ingenuidade das pessoas.
-
-Em outros casos, quando encontram alguém com um desejo desmedido por dinheiro, os espíritos de raposa se apossam dessa pessoa e, com sua inteligência maligna, criam esquemas para que ela obtenha fortuna por meios inescrupulosos. Embora possam ter um sucesso temporário, tais empreitadas invariavelmente culminam em fracasso, levando muitos a terem problemas com a justiça. Se o desejo do indivíduo é conquistar uma mulher, o espírito emprega métodos ardilosos para aproximá-lo dela, usando palavras sedutoras e artimanhas para atrair seu interesse, chegando, por vezes, a incitar o uso da violência. Eis quão perigosas são essas influências.
-
-Sendo, em sua origem, espíritos de animais, eles não possuem discernimento entre o bem e o mal. Seu único propósito é utilizar o ser humano como um instrumento, manipulando-o a seu bel-prazer. Dessa forma, a raposa se sobrepõe ao homem, o que é, no mínimo, uma situação humilhante para o ser que se intitula o primaz da criação. Compreendendo isso, talvez o ser humano devesse ser menos arrogante.
-
-Além dos espíritos de raposa, espíritos de tanuki, divindades-dragão e tengus de natureza maligna também possuem os seres humanos para ludibriá-los. Dentre todos, as divindades-dragão malignas são, de longe, as mais temíveis. Elas detêm uma força e uma sabedoria extraordinárias, podendo subjugar uma pessoa com a maior facilidade e, dependendo do caso, causar-lhe ferimentos ou tirar-lhe a vida sem o menor esforço. Como escrevi anteriormente, muitas divindades-dragão malignas estiveram em intensa atividade durante os incidentes do ano passado, revelando uma crueldade implacável e desumana. Diferentemente dos espíritos de raposa, as divindades-dragão são intelectuais e possuem uma inteligência voltada para o mal, sendo capazes de dominar o pensamento humano. É por meio delas que ideologias perniciosas são disseminadas, levando as pessoas a cometer crimes atrozes em nome de uma causa e a espalhar o veneno do mal pela sociedade.
-
-Comparados a elas, os espíritos de tanuki e de tengu são menos significativos. Contudo, os tengus possuem grande poder espiritual e, frequentemente, notável erudição. Os mais ambiciosos entre eles se apoderam de pessoas com perfil semelhante — monges zen, acadêmicos, fundadores de religiões — e as manipulam para que alcancem fama e ascendam socialmente, satisfazendo assim seu próprio desejo de poder. Por essa razão, historicamente, muitos casos de possessão por tengus são encontrados nessas áreas, mas sua influência raramente perdura.
-
-Tendo discorrido sobre os diversos aspectos da possessão espiritual, é imperativo compreender um ponto fundamental: os espíritos malignos não agem por iniciativa própria. Por trás deles, existe um mentor que os manipula nas sombras, e esta é a presença mais temível de todas. O poder desse líder é tão grande que a maioria das divindades não consegue se opor a ele. Esse mentor dos espíritos malignos interfere em nosso trabalho incessantemente, tanto de forma velada quanto explícita. Nossa Igreja representa uma imensa ameaça para eles, e, por isso, o líder supremo das hostes do mal se mobiliza para nos confrontar. Esta é, em essência, a grande batalha entre o bem e o mal.
-
-Contudo, há aqui um ponto de suma importância que requer atenção. Muitos de nossos fiéis, sentindo-se seguros sob a proteção divina, caem na complacência, pensando: “Estou protegido, um espírito maligno não me possuirá facilmente”. É exatamente essa brecha, esse excesso de confiança, que os espíritos malignos aguardam para se apoderar da pessoa. E o mais problemático é que os fiéis mais devotos, mas de fé de pequeno veículo, são os mais suscetíveis. Eis o motivo pelo qual sempre advirto contra essa forma de fé.
-
-Uma vez que um espírito maligno se apossa de alguém, ele se utiliza do bem de pequeno veículo, acrescentando-lhe justificativas e lógicas aparentemente corretas para expandir sua influência. O engano é tão sutil que a maioria das pessoas acredita estar praticando o bem e se dedica de corpo e alma à causa. No entanto, como a base está equivocada, quanto mais se esforçam, piores são os resultados, gerando grande angústia. Nesse estado, tornam-se surdas a quaisquer conselhos e afundam cada vez mais, até que se encontram em um beco sem saída, fadadas ao fracasso. Se despertarem a tempo, ainda há salvação; caso contrário, perdem completamente o discernimento e acabam por perder a Graça Divina. Isso demonstra quão terrível pode ser o bem de pequeno veículo.
-
-A máxima que sempre reitero, “O bem de pequeno veículo é o mal do grande veículo”, refere-se exatamente a isso. O sinal mais claro para identificar essa distorção é que as pessoas que seguem esse caminho invariavelmente se desviam da normalidade. Esse desvio é o alvo dos espíritos malignos. Portanto, o método infalível para não errar é julgar todas as coisas à luz do bom senso. O bom senso é o calcanhar de Aquiles dos espíritos malignos, e é por essa razão que sempre enfatizo a sua importância. Exemplos disso abundam no mundo: crenças que valorizam comportamentos e discursos excêntricos, ideologias de teor semelhante e religiões baseadas em possessão espiritual são todas manifestações desse desvio. Como bem sabemos, elas invariavelmente geram problemas e perturbam a ordem social.
-
-Sob a perspectiva espiritual, essa verdade se torna ainda mais clara. Espíritos como os de raposa e tanuki são, em essência, espíritos de animais e, portanto, inferiores ao ser humano. Consequentemente, ao reverenciá-los, a pessoa se rebaixa espiritualmente, ficando abaixo do nível da terra, o que corresponde, no Mundo Espiritual, a uma queda no Reino Animal. E como tudo o que ocorre no Mundo Espiritual se reflete no Mundo Material, essa pessoa estará vivendo em uma condição infernal. É por essa razão que os devotos de Inari, quase sem exceção, acabam tendo um destino desafortunado. O mesmo se aplica aos casos de possessão: ao se tornar um receptáculo para um espírito animal, a pessoa também decai ao Reino Animal e passa a ter uma vida de infortúnios.
-
-Todavia, é preciso notar que nem todos os espíritos de raposa são malignos. Embora raros, existem aqueles de boa índole. São raposas que se redimiram, conhecidas como raposas brancas. Elas atuam como servas das divindades guardiãs locais e se dedicam a auxiliar na Obra Divina, sendo de grande utilidade. Isso ocorre porque os espíritos de raposa possuem características espirituais singulares; assim como podem ser muito eficazes para o mal, também podem manifestar grande força e realizar excelentes trabalhos para o bem.
-
-Existe, ainda, uma exceção à regra geral sobre a possessão. Espíritos ancestrais ou a genuína divindade guardiã de uma pessoa podem, em situações de grande importância, possuí-la temporariamente para transmitir uma mensagem urgente. Tais manifestações são sempre extremamente breves e se limitam ao estritamente necessário, sem jamais dizer uma palavra a mais.
-
-Aproveito a ocasião para ensinar um método de discernimento entre o bem e o mal. As palavras verdadeiras, de origem divina, são sempre desprovidas de excessos. As mensagens de Deus são concisas, claras e vão direto ao ponto essencial da questão. Em contrapartida, um espírito maligno sempre terá o desejo de falar mais do que o necessário. Aqueles que falam incessantemente, sem pausa, podem ser identificados, sem margem de erro, como espíritos de raposa. Contudo, há casos em que a genuína divindade guardiã, para transmitir uma mensagem verbal, pode se utilizar de um espírito de raposa, dada a habilidade destes para possuir e falar. Nesses momentos, é preciso ter máxima atenção, pois a raposa invariavelmente se trairá, falando além do necessário e revelando sua verdadeira natureza.
-
----
-
-# O Julgamento no Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 霊界の審判 | **Status:** Published
-
-## O Julgamento no Mundo Espiritual
-
-Em sua essência, o ser humano foi concebido para cumprir integralmente, durante sua vida terrena, a missão celestial que lhe foi designada em prol da sociedade. A maioria, contudo, observa apenas as aparências dos fatos e, sem se dar conta, acumula sucessivos atos associados ao mal. Tais atos convertem-se em máculas que se depositam e obscurecem o corpo espiritual. Portanto, após a morte, ao se tornar um habitante do Mundo Espiritual, a purificação dessas máculas é realizada de maneira rigorosa e precisa.
-
-Por meio de médiuns, conduzi uma investigação minuciosa com inúmeros espíritos dos mortos, buscando a maior quantidade possível de detalhes. Evitei deliberadamente os relatos que me pareceram equivocados ou inverídicos, compilando e sintetizando apenas os pontos de convergência entre as narrativas de diversos espíritos. Por essa razão, acredito que o que aqui exponho está, em suas linhas gerais, isento de erros.
-
-Ao adentrar o Mundo Espiritual, a vasta maioria dos seres humanos se dirige ao que o xintoísmo denomina Mundo Intermediário — também conhecido como Yachimata (八衢) —, o budismo chama de Encruzilhada dos Seis Caminhos, e o cristianismo, de Mundo dos Espíritos. Contudo, é imperativo observar que os mundos espirituais do Oriente são, em geral, hierárquicos, sendo o do Japão o mais estratificado de todos, ao passo que os do Ocidente tendem a ser planos. Essa característica explica por que a sociedade japonesa possui tantos níveis e classes, e a ocidental, em contrapartida, é mais igualitária e menos estratificada. Sendo assim, o leitor deve ter em mente que minha pesquisa se concentrou no Mundo Espiritual do Japão.
-
-O referido Yachimata constitui a zona intermediária do Mundo Espiritual, cuja estrutura é composta, em linhas gerais, por nove planos: três para o Céu, três para Yachimata e três para o Inferno. Após a morte, a pessoa comum torna-se um habitante de Yachimata. Aqueles de extrema bondade, no entanto, ascendem diretamente ao Céu, enquanto os de extrema maldade são imediatamente lançados ao Inferno. O estado em que a morte ocorre já oferece um forte indício do destino da alma. O espírito destinado ao Céu ou ao Paraíso tem ciência do momento de sua partida; ao se deparar com a morte, não sente o menor sofrimento. Ele reúne seus parentes próximos, despede-se de cada um e realiza uma grande e digna passagem em um estado de serena normalidade. Em contrapartida, o espírito cujo destino é o Inferno, ao encarar a morte, agoniza em sofrimento atroz, naquilo que se conhece como a agonia do passamento. Já o espírito que se encaminha a Yachimata experimenta o nível de sofrimento comum à morte. Visto que a maioria se enquadra neste último caso, a fisionomia do corpo após o falecimento também permite uma avaliação geral. O semblante do espírito que vai para o Céu é isento de qualquer sinal de dor e apresenta uma coloração rosada e vívida, como se ainda vivesse. O daquele que vai para o Inferno adquire uma tonalidade escura, enegrecida ou azulada, revelando uma expressão de tormento. Por fim, o espírito destinado a Yachimata exibe a aparência típica dos finados, geralmente amarelada.
-
-Começarei explicando sobre os espíritos que vão para Yachimata. Após a morte, ao chegarem a esse plano, eles atravessam o rio Sanzu. Ali, uma oficial chamada Datsueba (奪衣婆) inspeciona suas vestes. Se estiverem trajando a mortalha branca, podem prosseguir; caso contrário, suas roupas comuns são trocadas por uma vestimenta branca. Existem duas teorias sobre a travessia: uma sustenta que se cruza uma ponte, e a outra, que não há ponte e se caminha sobre a superfície da água. Esta última, porém, elucida que o rio não tem gelo, mas sim inúmeros corpos de dragões que se agitam em seu leito, criando a aparência de água. Ao final da travessia, as vestes brancas tingem-se de diferentes cores. O preto indica a maior quantidade de máculas, seguido pelo azul, vermelho e amarelo, em ordem decrescente. A veste que permanece branca revela a menor quantidade de impurezas. As cores, portanto, servem como um medidor do grau de máculas de cada espírito.
-
-Em seguida, o espírito se apresenta ao tribunal de Enma, mencionado nos ensinamentos budistas, onde o julgamento ocorre. Diferentemente do que acontece no mundo material, ali prevalece uma justiça rigorosa e imparcial, livre de favoritismos ou erros de julgamento. Diz-se que a fisionomia do Grande Rei Enma varia conforme quem o observa. Para o indivíduo de índole má, seus olhos fulguram, a boca se rasga até as orelhas e a ponta de sua língua expele fogo, uma visão que inspira pavor imediato. Todavia, quando uma pessoa de bem o reverencia, sua face se mostra gentil e serena, plena de dignidade, inspirando naturalmente sentimentos de familiaridade e respeito. O julgamento de cada um se dá quando seus atos são projetados no espelho de Jōhari (浄玻璃), que determina a gravidade de seus pecados. Uma investigação preliminar também é realizada com base nos registros do livro de Enma. Afirma-se que os juízes do mundo material atuam como oficiais no além (冥官, myōkan), sob a supervisão dos Deuses da Purificação (祓戸の神, Haraido no Kami) do xintoísmo. O Grande Rei Enma, por sua vez, é a manifestação do Deus Kuninotokotachi-no-Mikoto (国常立尊).
-
-Após o veredito, os espíritos são encaminhados para seus respectivos destinos no Céu ou no Inferno. O nome “Encruzilhada dos Seis Caminhos” (六道の辻, Rokudō no Tsuji) se deve a este local ser o ponto de convergência das três vias superiores e das três vias inferiores. Os espíritos sentenciados ao Inferno, entretanto, passam primeiramente por um período de aprimoramento em Yachimata para que possam progredir espiritualmente. Aqueles que, por meio dessa oportunidade, conseguem se emendar e praticar o bem (改過遷善, kaikasenzen), não são enviados ao Inferno; ao contrário, têm seu destino revertido para o Paraíso. A orientação durante esse processo fica a cargo de instrutores religiosos (教誨師, kyōkaishi) que, assim como no mundo material, recebem essa missão após a morte. O período de aprimoramento em Yachimata dura aproximadamente trinta anos. Os que não conseguem se regenerar nesse tempo são, em definitivo, lançados ao Inferno.
-
-Ademais, a purificação do espírito pode ser acelerada quando seus familiares e descendentes realizam cerimônias póstumas com sinceridade e devoção, ou quando praticam boas ações, como ajudar o próximo e exercer a compaixão. Por essa razão, a devoção filial e a fidelidade conjugal adquirem um significado ainda mais profundo após a morte do que durante a vida terrena. É por isso que os ofícios memoriais são recebidos pelos espíritos com imensa alegria.
-
-(Nota)
-Jōhari (浄玻璃) no kagami: Espelho no tribunal de Enma que reflete as ações, boas e más, praticadas pelo falecido em vida.
-Kaikasenzen (改過遷善): Arrepender-se dos erros e tornar-se uma pessoa de bem. Termo derivado dos Analectos de Confúcio.
-
----
-
-# Uma Explanação sobre a Luz Espiritual
-
-**Categoria:** re | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 三、霊光の説明 | **Status:** Unknown
-
-## Uma Explanação sobre a Luz Espiritual
-
-Em essência, o que vem a ser a Luz Espiritual? Como o próprio nome revela, é a luz do espírito e, ao mesmo tempo, o espírito da luz. Esta energia, que podemos denominar Luz Espiritual, é irradiada, em maior ou menor grau, por todos os seres. Tanto os animais quanto as plantas possuem certa medida dessa luz; contudo, nesta explanação, trataremos especificamente daquela que emana do ser humano.
-
-A Luz Espiritual que emana do corpo humano é também conhecida como Manto Espiritual — ou, em inglês, aura. Quanto mais saudável for o corpo e mais puro o coração de um indivíduo, mais intensa será essa luz e mais espesso o seu manto. Em indivíduos de elevada condição espiritual, este alcança aproximadamente trinta centímetros de espessura; naqueles com menor desenvolvimento, mede cerca de três centímetros, sendo a média mais comum entre seis e nove centímetros. Sua cor é, em geral, branca, mas se classifica em dois tipos, de acordo com a linhagem espiritual da pessoa: a linhagem do Sol e a linhagem da Lua. A primeira exibe uma tonalidade dourada, ao passo que a segunda, uma tonalidade prateada.
-
-Contudo, no caso de seres humanos especiais — como Shaka, Cristo, Kukai ou Nichiren, por exemplo —, a espessura e a intensidade de sua luz são muitas vezes superiores às de uma pessoa comum. Todavia, ninguém até hoje manifestou uma luz de dimensão planetária. Para que se compreenda melhor: a luz de Shaka abrangeu metade do Oriente; a de Jesus, toda a Europa; e as de Kukai e Nichiren, frações do Japão. Pode-se afirmar, portanto, que o alcance geográfico de suas respectivas religiões demonstra a magnitude da luz de cada um.
-
-Ocorre que, agora, surgirá uma luz de magnitude sem precedentes. No momento, ela possui apenas a dimensão e a intensidade necessárias para a fase atual, mas, ao final, meu Manto Espiritual se expandirá até envolver todo o globo terrestre. Esse será, enfim, o advento do Grande Mundo de Luz, livre da doença, da pobreza e do conflito.
-
-E embora sua dimensão ainda seja restrita, no que tange à sua intensidade, já no presente ela supera, de longe, a de Shaka ou a de Cristo. Essa luz é, em si, o poder que cura as enfermidades. É essa mesma luz que, ao ser canalizada através do corpo dos inúmeros terapeutas que serão formados de agora em diante, sanará toda sorte de doenças.
-
-Portanto, esta minha luz assemelha-se a uma fusão entre a luz do Sol e a da Lua. Por essa razão, quando direcionada a uma pessoa com febre, atua por meio de sua propriedade lunar para resfriá-la; inversamente, utiliza sua propriedade solar para aquecer quem sente frio. O quão poderosa essa luz é para a erradicação das doenças será um tema a ser pormenorizado em outro capítulo.
-
----
-
-# Uma Análise Crítica da Nutrição Moderna
-
-**Categoria:** e | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 栄養学 | **Status:** Published
-
-## Uma Análise Crítica da Nutrição Moderna
-
-É crença generalizada que a nutrição, no âmbito da medicina moderna, alcançou um progresso considerável. A interpretação médica, conforme o artigo de um certo especialista, é a seguinte:
-
-*“Todos nós, diariamente, fazemos cerca de três refeições de forma assídua. O propósito é, por um lado, repor as substâncias que o corpo perde em suas atividades e, por outro, suprir a necessidade de construir novos tecidos corporais. Desse modo, ocorrem incessantemente no organismo dois processos: o de decomposição e o de síntese. A palavra metabolismo é a designação conjunta de ambos. Mas qual é o percurso que os alimentos trilham no corpo desde a sua digestão e absorção até se converterem em substâncias de reposição ou de síntese?*
-
-*Começando pelas proteínas, estas, após serem decompostas no aparelho digestivo e transformadas em aminoácidos, são absorvidas pela parede intestinal e ingressam na corrente sanguínea. Passam pelo fígado e, junto ao sangue, são distribuídas por todo o corpo, chegando aos diversos tecidos. Uma vez ali, os aminoácidos são recombinados para formar as proteínas específicas de cada tecido. Uma parte, contudo, sofre uma nova decomposição, convertendo-se em ureia, ácido úrico, amônia, creatina, creatinina e sais inorgânicos, que são excretados pela urina. Assim, embora a proteína digerida seja usada como aminoácido na síntese de tecidos, uma porção é queimada para gerar energia motora, tal como os carboidratos e as gorduras.*
-
-*Deixando as proteínas, passemos aos carboidratos. Estes são convertidos, em sua etapa final, no monossacarídeo chamado glicose, que é absorvido pela parede intestinal, entra na veia porta e é transportado pelo sangue. Consequentemente, a ingestão de uma grande quantidade de carboidratos de uma só vez eleva o nível de açúcar no sangue. Quando em excesso, essa glicose é armazenada no fígado sob a forma de glicogênio, sendo reconvertida em glicose e liberada conforme a necessidade do corpo. A glicose, por sua vez, é oxidada pelo oxigênio do sangue, fornecendo principalmente energia motora e gerando, nesse processo, grande quantidade de gás carbônico. Quanto mais intensa a atividade física, mais vigorosa é a oxidação da glicose, o que leva à mobilização do glicogênio hepático para suprir a demanda. Contudo, entre a oxidação da glicose e a produção de gás carbônico, existem diversos produtos intermediários. O ácido úrico é um deles, razão pela qual sua medição é utilizada como um indicador do nível de fadiga.*
-
-*Além disso, uma parte dos carboidratos é transformada em gordura e depositada no corpo. Assim, o consumo excessivo de alimentos ricos em carboidratos leva ao aumento da gordura corporal e, gradualmente, à obesidade.*
-
-*Por fim, temos as gorduras. Embora uma pequena parte possa ser digerida e absorvida no estômago, a maior parte segue para o intestino. Ali, sob a ação da lipase pancreática, a enzima estearina, são decompostas em ácidos graxos e glicerina. Após serem absorvidas pela parede intestinal, são novamente convertidas em gordura e, junto à linfa, circulam pelo corpo em estado leitoso, até ingressarem na corrente venosa. Uma parte dessa gordura é então acumulada como gordura corporal, enquanto outra é oxidada para gerar energia. Diferentemente dos carboidratos, no entanto, essa energia é predominantemente térmica.”*
-
-Conforme o exposto, a explicação é de um detalhamento minucioso, e é natural que o leigo nela deposite sua fé. Contudo, por mais elaborada que seja tal explanação, não creio que ultrapasse o âmbito da imaginação presuntiva dos médicos, obtida por meio da dissecação de cadáveres, da análise de alimentos e de exames de excrementos. E por que afirmo isso? Porque as funções orgânicas do corpo humano e a força vital que delas emana são de uma ordem muito mais elevada e profunda que o atual patamar da ciência. Portanto, mesmo que hoje se consiga interpretar a saúde humana sob uma ótica nutricional, isso equivale a tentar conhecer a vastidão do céu olhando através de uma chaminé. Seria como avaliar uma obra de arte apenas pelo custo do papel, das tintas e do trabalho do artista. Tal limitação decorre do desconhecimento das forças invisíveis.
-
-Em suma, é preciso reconhecer que o nível da ciência moderna ainda é demasiado incipiente para perscrutar a fundo o misterioso e sublime corpo humano e sua força vital. Naturalmente, é de se esperar que, um dia, o progresso científico atinja um patamar que permita tal compreensão. E embora eu não seja um cientista e, portanto, não ofereça uma explicação científica, pretendo expor, com base na prática e na experiência, em que consiste a verdadeira nutrição, utilizando para isso uma lógica indutiva. Creio, assim, não incorrer em equívocos.
-
-Hoje, a nutrição está aprisionada aos conceitos de calorias e vitaminas, que regem todas as suas diretrizes. Eu, porém, afirmo categoricamente: o ser humano pode viver de forma esplêndida mesmo que se alimente de substâncias totalmente isentas de vitaminas.
-
-O erro fundamental da medicina reside em sua abordagem unilateral, que se concentra apenas nos alimentos e ignora a capacidade digestiva e as funções de produção de nutrientes inerentes ao corpo humano. Com efeito, todas as funções do corpo humano constituem, em si, um formidável produtor químico, capaz de transformar livremente qualquer tipo de alimento. Todavia, a medicina ainda desconhece o significado desse poder de transformação.
-
-Em que consiste, então, esse poder? Consiste no fato de que, ao comermos arroz, verduras, batatas ou feijão, a "magia" da função digestiva os transforma em sangue, músculos e ossos. No entanto, por mais que se analise o arroz ou as verduras, não se encontrará neles um único corpúsculo de hemoglobina ou um milímetro de tecido muscular. É somente através da ingestão desses alimentos que tais elementos são naturalmente produzidos no organismo, por um poder de transformação verdadeiramente misterioso e grandioso. Por conseguinte, mesmo que se ingiram alimentos completamente desprovidos de vitaminas, a atividade insondável de diversas funções corporais se encarregará de produzir as vitaminas A, B e C, os aminoácidos, o glicogênio e todos os demais nutrientes, inclusive aqueles ainda não descobertos.
-
-Diante dessa lógica, pode surgir a seguinte questão: se o sangue pode ser formado a partir de alimentos que não o contêm, e as vitaminas, a partir de alimentos que não as possuem, o que acontece quando se ingere sangue ou se consomem vitaminas diretamente? A consequência é a seguinte: ao receber sangue ou vitaminas já prontos, as funções responsáveis por produzi-los cessam suas atividades, por não haver mais necessidade. E como todas as funções do corpo estão interligadas, a inatividade de uma parte levará, naturalmente, à paralisação ou à degeneração de outras.
-
-Um exemplo corriqueiro é o da vaca, que, ao ingerir capim e palha, produz um nutritivo e saboroso líquido chamado leite. Tal fenômeno deve-se ao poder transformador de seu sistema digestivo. Hoje, por mais que o homem utilize toda a sua tecnologia, seria impossível produzir leite a partir de capim e palha.
-
-Por essa razão, embora a ingestão de nutrientes como as vitaminas possa trazer bons resultados por um certo período, com o tempo as funções corporais se enfraquecem progressivamente, resultando em uma debilitação geral do organismo. É análogo a utilizar um automóvel: embora proporcione conforto imediato, com o tempo, enfraquece as pernas. Do mesmo modo, a alimentação dita nutritiva pode, temporariamente, levar ao ganho de peso e à melhora da coloração da pele, apresentando bons resultados nas estatísticas, mas, passado um tempo, o corpo se enfraquece gradualmente.
-
-É deveras lamentável que as políticas de incentivo à alimentação nutritiva sejam estabelecidas com base no fascínio por resultados estatísticos favoráveis obtidos em experimentos de apenas um ou dois anos.
-
-Nesse sentido, para que a força vital do ser humano se manifeste em plenitude, é imperativo estimular a atividade de suas funções nutricionais. Isso se alcança por meio da ingestão de alimentos com poucos nutrientes, forçando as funções internas de produção a trabalhar. O exercício físico, aliás, tem o mesmo propósito. Na prática, vemos que os agricultores de outrora, apesar de sua alimentação extremamente frugal, possuíam enorme força para o trabalho justamente por causa dela. Se eles adotassem uma dieta requintada, sua capacidade laboral diminuiria. Minha tese é corroborada também pela observação da extraordinária vitalidade dos coolies da Manchúria, que se alimentavam de forma muito simples, consumindo o mesmo tipo de alimento nas três refeições diárias. A nutrição moderna, contudo, recomenda uma grande variedade de alimentos, o que, como se vê, não corresponde à realidade.
-
-Ademais, na recente Guerra da Grande Ásia Oriental, investigações realizadas após a derrota das tropas americanas, britânicas e holandesas revelaram que a alimentação delas era de um luxo incomparável à dos soldados japoneses. O fato de os soldados nipônicos, com sua dieta simples, serem mais fortes que os inimigos de alimentação requintada, corrobora integralmente minha tese.
-
-Permitam-me apresentar outro exemplo. Imaginemos uma fábrica de máquinas. A matéria-prima, como ferro e carvão, é transportada para dentro, e através do trabalho dos operários e da energia gerada pela queima do carvão, que movimenta o maquinário, uma máquina completa é finalmente produzida, após diversas etapas. A missão, a razão de existir e a força vital da fábrica residem nesse processo. Agora, o que aconteceria se máquinas já prontas fossem levadas para dentro da fábrica? O trabalho dos operários e o funcionamento do maquinário se tornariam desnecessários. As chaminés não soltariam mais fumaça, e a vida da fábrica cessaria. Consequentemente, os operários seriam demitidos, as máquinas enferrujariam e a razão de ser daquela fábrica desapareceria.
-
-O mesmo ocorre com o ser humano. A chamada alimentação nutritiva é, em essência, um alimento mais próximo de sua forma final. Nutrientes como as vitaminas são substâncias especialmente completas. Ao ingeri-los, a "fábrica" interna do corpo não precisa mais trabalhar, e o enfraquecimento de suas funções torna-se inevitável. Portanto, sob essa ótica, o ser humano deve ingerir, tanto quanto possível, alimentos simples e primitivos, a fim de que as funções internas sejam ativadas para transformá-los em nutrientes completos. É o próprio processo dessa atividade que se manifesta como a força vital do homem.
-
-Recentemente, tem-se advogado que os alimentos devem ser mastigados o máximo possível, o que também é um grande equívoco. Uma mastigação excessiva elimina o campo de trabalho do estômago, o que acaba por enfraquecê-lo. Portanto, o ideal é uma mastigação moderada, ou seja, o nível habitual. O antigo ditado "quem come rápido é saudável" possui, nesse aspecto, uma certa razão.
-
-A nutrição atual também menospreza o valor nutricional dos cereais. Pensa-se que os nutrientes se encontram majoritariamente nos acompanhamentos, e grande esforço é dedicado à elaboração de cardápios variados, o que é um erro. Na verdade, a nutrição principal provém dos cereais, sendo os acompanhamentos secundários. Pode-se até mesmo entender que a função dos acompanhamentos é apenas tornar o arroz mais saboroso. Como exemplo, cito uma experiência que tive anos atrás, ao escalar os Alpes japoneses. Fiquei surpreso ao ver a marmita do guia que nos acompanhava: era composta apenas de arroz branco, sem absolutamente nenhum acompanhamento. Nem mesmo uma ameixa em conserva. Perguntei-lhe: “É gostoso comer só arroz?”, e ele respondeu: “É muito gostoso”. E com essa alimentação, eles carregavam de doze a treze kan (aproximadamente 45 a 50 kg) nas costas, subindo e descendo trilhas extremamente íngremes todos os dias, o que era espantoso. Diante de fatos como este, que explicação dariam os nutricionistas?
-
-Pode parecer estranho que arroz puro, sem acompanhamentos, seja tão saboroso, mas a razão é a seguinte: as funções humanas são feitas para se adaptar ao ambiente. Assim, quando se mantém uma alimentação simples, o paladar se transforma e passa a considerá-la deliciosa. Essa capacidade de transformação do paladar parece ser pouco conhecida. Vemos o oposto em pessoas acostumadas a manjares requintados: com o tempo, a comida perde o sabor, e elas passam a buscar pratos cada vez mais sofisticados, num ciclo de extravagância.
-
-Se minha tese for aceita, os benefícios que traria para a política de abastecimento em tempos de guerra, um dos problemas mais cruciais da atualidade, seriam imensuráveis.
-
-A seguir, falarei sobre os alimentos. O que são os alimentos? É evidente que o Criador, que deu origem ao ser humano e a todos os seres vivos, proveu a cada um deles o alimento adequado para a manutenção de sua vida. Assim, para o ser humano, foi estabelecido, em linhas gerais, "o que o homem deve comer". Para saber quais alimentos nos foram destinados, o processo é bastante simples, pois existe um elemento distintivo: o “sabor”. O Criador concedeu ao homem o instinto do paladar e dotou os alimentos de sabor.
-
-Por essa lógica, todos os alimentos possuem um sabor particular, e é ao comê-los com prazer que eles se convertem em nutrição e a vida se sustenta. Portanto, discutir se algo tem vitaminas ou proteínas não faz o menor sentido. Como já mencionado, se nutrientes como as vitaminas são necessários ao corpo, as funções internas os produzirão e os transformarão a partir de qualquer alimento. No que tange à alimentação, basta seguir a natureza. Não apenas é desnecessário estudá-la cientificamente, sob o nome de nutrição, como tal estudo pode ser até mesmo prejudicial. É por essa razão que as preferências alimentares variam naturalmente conforme o ambiente, a profissão e a constituição de cada pessoa. O que se deseja comer em determinado momento é o que o corpo necessita, e basta ingeri-lo. É o mesmo que sentir sede e desejar água.
-
-Falemos agora sobre a natureza dos alimentos. A maior fonte de nutrientes se encontra nos vegetais. Desse modo, se o objetivo for unicamente a nutrição, uma dieta de cereais e vegetais é suficiente para manter a saúde. De fato, uma pessoa que se alimentasse exclusivamente de carne de peixes, aves e outros animais, sem consumir nenhum vegetal, desenvolveria septicemia. Por outro lado, nunca ouvi falar de alguém que tenha adoecido por comer apenas vegetais.
-
-A personalidade humana também é grandemente influenciada pelo tipo de alimento consumido. Uma dieta exclusivamente vegetariana torna o caráter dócil e gera um pensamento de não-resistência, o que, em termos nacionais, pode levar à derrota no cenário internacional. A derrocada da Índia, embora tenha causas religiosas, provavelmente teve como fator principal a alimentação de seu povo, baseada quase que inteiramente em vegetais e leite. Isso fica claro também no reino animal: enquanto os carnívoros, como leões e tigres, são ferozes, os herbívoros, como bois e cavalos, são dóceis.
-
-Consequentemente, o vegetariano tende a ter menos ambição, desejo material e outras formas de proatividade. Na sociedade cultural moderna, dependendo de sua condição e profissão, é necessário consumir também carne de peixes, aves e outros animais. Em uma era de intensa competição internacional e conflitos étnicos como a atual, o consumo de carne torna-se necessário, pois desperta o espírito competitivo e a consciência de luta. O fato de os povos brancos terem uma inclinação constante para o conflito e de as guerras serem incessantes na Europa pode ser atribuído, em parte, a essa razão.
-
-Recentemente, alguns teóricos têm afirmado que o consumo de carne é extremamente prejudicial, mas isso é um equívoco. Mesmo que os alimentos contenham toxinas, estas são geralmente muito sutis e eliminadas pelo processo de purificação natural do corpo. Portanto, desde que não haja excesso, o consumo de carne não representa um problema.
-
-Pelo que foi exposto, compreende-se que a escolha dos alimentos deve ser feita de acordo com a condição e a profissão de cada indivíduo.
-
-Contudo, independentemente de sua condição, ao ultrapassar os oitenta anos de idade, o ser humano não necessita mais de desejos materiais nem de espírito de luta. Nessa fase da vida, adotar uma dieta vegetariana é o mais recomendável. Essa prática é benéfica para a saúde e contribui para uma maior longevidade.
-
-Fica claro, portanto, como uma alimentação simples é adequada para a promoção da saúde. No entanto, hoje, quando uma pessoa adoece, recomenda-se o consumo de carne em nome da nutrição, o que, na verdade, agrava a debilidade e exerce uma influência negativa na recuperação da doença.
-
-Quanto ao leite, ele é apropriado para o lactente que ainda não possui dentes, mas não o é após o seu nascimento. O surgimento dos dentes é um sinal de que o corpo está pronto para consumir alimentos sólidos; de que o sistema digestivo se desenvolveu e se tornou apto para eles. Este é o curso natural. Assim, é evidentemente um erro que um adulto beba leite em nome da nutrição. E que mal isso causa? Causa um enfraquecimento geral do corpo. Se, como mencionei anteriormente, até a mastigação excessiva enfraquece o organismo, é natural que um alimento líquido como o leite cause uma debilitação ainda maior. Sempre que me perguntam sobre a conveniência de adultos beberem leite, costumo responder, com um sorriso: “Se alguém adota uma alimentação idêntica à de um lactente, não deveria também agir como um, engatinhando e pedindo colo?”. Este é mais um exemplo dos males da medicina, que se apega à teoria e ignora a realidade.
-
-Outro grande equívoco é o costume de dar canja com ameixa em conserva (umeboshi) aos doentes. A ameixa em conserva foi criada originalmente na era dos estados guerreiros como um alimento para os soldados. O objetivo era ter algo de pequeno volume que, mesmo consumido em pouca quantidade, saciasse a fome. Por isso, hoje é adequada para atividades como alpinismo ou caminhadas, mas não para doentes. Alguém acamado e com pouca atividade física deve comer alimentos de fácil digestão. Mesmo uma pessoa saudável, ao comer umeboshi, sente seu apetite diminuir.
-
-Por fim, em nome da nutrição, é comum dar óleo de fígado de bacalhau às crianças, o que também não é recomendável. Todos os alimentos, sejam arroz, trigo, feijão ou verduras, contêm seus óleos característicos, e as funções internas do corpo os extraem na medida exata, sem excesso nem falta. Isso fica claro ao vermos que do farelo de arroz se extrai óleo de farelo; da colza, óleo de colza; e da soja, óleo de soja. Ingerir apenas o óleo é uma forma de nutrição desequilibrada e extremamente antinatural. Ao se beber apenas o óleo, a função corporal responsável por extraí-lo dos alimentos se atrofia, e o resultado, obviamente, só pode ser negativo.
-
----
-
-# Um Exemplo de Enfermidade de Ordem Espiritual
-
-**Categoria:** re | **Ano:** 昭和28(1953)年2月4日 | **Fonte:** Eikou
-**Título Original:** 霊的病気の一例 | **Status:** Published
-
-## Um Exemplo de Enfermidade de Ordem Espiritual
-
-Existem diversas enfermidades decorrentes da possessão por espíritos dos mortos, mas o caso a seguir é um dos mais elucidativos. Não é de se espantar, portanto, que a medicina seja incapaz de compreendê-lo. Fica evidente, com este relato, que a verdadeira medicina deve ser capaz de discernir com clareza as doenças do espírito e do corpo, e de tratá-las devidamente. Contudo, até hoje, a medicina convencional se concentra unilateralmente no corpo, enquanto os tratamentos baseados na fé se atêm exclusivamente ao espírito. Ambas, por conseguinte, são modalidades terapêuticas parciais, sendo ineficazes para a cura de todas as doenças. É precisamente neste ponto que reside o valor esplêndido de nosso Ensinamento.
-
-Nesse sentido, a enfermidade desta senhora originou-se de um espírito que, sofrendo no Mundo Espiritual, apossou-se de seu corpo em busca de salvação. Os sintomas peculiares que ela manifestava são um reflexo exato das condições de sua morte. Ao tomar conhecimento deste fato, a aparente estranheza do quadro clínico se dissipa, e a lógica espiritual se torna perfeitamente compreensível.
-
-***
-
-### Uma Família Salva pela Orientação dos Antepassados
-
-Kikuí Daizō (41 anos)
-Igreja Toyama Central, Província de Toyama
-
-Fui agraciada com a permissão de ingressar nesta Fé em abril de 1952. Por meio deste humilde relato, gostaria de compartilhar uma parcela de minha imensa alegria.
-
-Em abril de 1951, a partir de um simples resfriado, desenvolvi uma pneumonia que evoluiu para tuberculose, o que me levou a ser hospitalizada. Seguindo a recomendação médica, submeti-me a injeções e medicação oral, mantendo repouso absoluto. Como resultado, a tosse intensa diminuiu consideravelmente, o apetite retornou e, após três meses, recebi alta, para minha grande felicidade. Continuei o tratamento em casa, comparecendo a consultas regulares. Certo dia, em meados de outubro, com o outono já avançado, eu estava no quintal picando a erva *gennoshouko*, que pretendia usar como chá por suas propriedades medicinais. Uma amiga, a senhora Murakami, aproximou-se e disse: “Que dedicação! Como tem passado?”. Após conversarmos sobre diversos assuntos, ela me disse: “Gostaria de lhe mostrar um livro”, e entregou-me um volume cuidadosamente envolto em jornal. Grata por sua gentileza, ofereci-lhe um grande saco da erva, dizendo: “Será um remédio delicioso, como um chá”. Naquele momento, senti-me feliz por ter feito uma boa ação. Hoje, compreendendo a terrível natureza do *yakudoku* (薬毒), sinto um profundo arrependimento por aquele ato.
-
-Naquela noite, depois que todos foram dormir, peguei o livro (Paraíso Terrestre) e comecei a lê-lo. Era uma publicação como jamais vira ou ouvira falar. Senti imediatamente que não se tratava de um livro comum, e a leitura de alguns trechos a cada noite tornou-se meu maior prazer. Tempos depois, a convite de minha amiga, fui a uma reunião na residência do senhor Kurokawa. Ao ouvir a explanação, senti-me imersa em um mundo onírico; o relato era tão extraordinário que cheguei a olhar ao redor, desconcertada, questionando se não estaria sendo ludibriada. Ao final da palestra, quando pensei que todos iriam embora, vi que alguns erguiam as mãos em direção a outras pessoas. O semblante de todos era de extrema seriedade. Somente no caminho de volta, com a explicação de minha amiga, pude compreender. Fiquei surpresa ao descobrir que existia um lugar tão sublime em Fukumitsu.
-
-Sentindo-me inexplicavelmente atraída, retornei mais duas ou três vezes à casa do reverendo Kurokawa para ouvir seus ensinamentos. Após ser tocada por palavras tão nobres, passei a nutrir o desejo de conhecer o ministro presidente, o reverendo Takumi. Soube então que ele estaria na casa do meu vizinho, o senhor Asano, no dia 22 de fevereiro, para a entronização da Imagem da Luz Divina. Acompanhada de minha mãe, fui imediatamente ao local, onde recebemos explicações detalhadas sobre os fundamentos da Fé. Senti uma alegria indescritível, como se um raio de luz houvesse penetrado em minha vida.
-
-Contudo, na noite de 6 de março, após entoar o *nenbutsu* com minha mãe como de costume, fui dormir. Na manhã seguinte, ouvi ao longe a voz de meu esposo, acordando a todos em casa aos brados, dizendo que eu havia perdido a consciência. Num sobressalto, recobrei os sentidos. Contudo, eu não conseguia falar, abrir os olhos ou mover meu corpo. Meu marido perguntava: “Você acordou? Entende o que estou dizendo?”, mas eu só conseguia anuir com a cabeça. A família entrou em pânico: “Precisamos chamar um médico imediatamente!”. Meu esposo então perguntou: “Quer que eu chame o mesmo médico de antes ou, por ser uma doença diferente, prefere outro? Farei como você quiser”. Em meu íntimo, pensei: “É o momento decisivo; eu não podia permitir que chamassem um médico”. Sem poder verbalizar, comecei a sacudir a cabeça com veemência. Surpresos com a reação de uma pessoa em meu estado, tentavam decifrar o que eu queria dizer, quando minha mãe, compreendendo, interveio: “Suas mãos se agitam; ela certamente está tentando indicar a casa do senhor Asano!”. Senti um alívio imenso e meu corpo novamente pendeu, exausto.
-
-Posteriormente, soube que meu marido chamou o senhor Asano sem demora. Assim que ele começou a me ministrar Johrei, chorei de alegria. Meu corpo ficou mais leve e, em algum momento, adormeci. Vizinhos vieram me visitar, preocupados: “Como podem deixar uma doente neste estado sem assistência médica?”. Embora eu sentisse que era uma “gentileza indesejada”, minha família, por consideração às aparências, acabou chamando o médico. Após me examinar, ele disse que o diagnóstico não era claro, mas aplicou uma injeção para “evitar que a doença atingisse o cérebro” e foi embora.
-
-Naquela noite, o senhor Asano retornou, acompanhado pelo reverendo Mizoguchi. O reverendo imediatamente me ministrou Johrei e, com palavras claras, explicou a situação à minha família: “Sua enfermidade é uma manifestação de seus antepassados, que anseiam por salvação. Se seu esposo ingressar na Fé e passar a lhe ministrar Johrei, a senhora se recuperará prontamente. Salvem seus antepassados o mais rápido possível”. Embora ainda incapacitada de falar, uma radiante esperança brotou em meu coração. Enquanto recebia Johrei, passei a compreender com clareza o que as pessoas diziam, a dor de cabeça cessou e, no segundo dia, já conseguia ir sozinha ao banheiro, para o espanto de todos. O único problema era que eu não conseguia falar, e tudo o que eu conseguia expelir era saliva. Disseram-me: “Se quer dizer algo, escreva”, e me deram papel e lápis, mas não consegui traçar um único caractere. Mesmo neste estado, o senhor Asano e o reverendo Mizoguchi se revezavam para me visitar, ministrar Johrei e transmitir os ensinamentos.
-
-Com o aprofundamento da compreensão, meu esposo participou do Culto Mensal da Igreja Central em 11 de março e recebeu seu Ohikari.
-
-De forma prodigiosa, a partir daquele dia, tornei-me capaz de realizar as tarefas domésticas e, gradualmente, minha fala retornou. Meu desejo havia sido concedido. Que graça imensurável! Sinto-me pequena diante de tamanha dádiva. Até o médico declarou: “Sua recente doença é um mistério. A medicina não consegue explicá-la”. Compreendi, de fato, que aquilo não era obra humana.
-
-Em seguida, tive a permissão de receber o curso de formação inicial. A dificuldade que eu sentia para engolir durante as refeições desapareceu completamente. Entronizamos a imagem de Kannon (観音) e, desde então, recebemos Sua proteção diariamente. Em abril do ano passado, meu segundo filho também recebeu uma intensa purificação, com feridas que lhe tomaram a boca. Embora preocupada, roguei com toda a fé a Meishu-Sama e lhe ministrei Johrei. Em pouco mais de um mês, ele estava completamente curado. Choro de emoção ao pensar nas inúmeras vezes em que nossa família, tão repleta de máculas, foi protegida.
-
-Ainda que minhas capacidades sejam limitadas, desejo do fundo do coração poder retribuir, ainda que minimamente, por tudo o que recebi, dedicando-me ao avanço da Obra Divina. Com minha pouca instrução, não encontro palavras para expressar a plenitude de minha gratidão. Tudo o que posso dizer é: “Meishu-Sama, muito obrigada”.
-
-Aproveito para registrar minha profunda gratidão ao reverendo Mizoguchi e ao senhor Asano, e em especial à senhora Mizoguchi, que tantas vezes me visitou em meio à neve, carregando seu filho pequeno às costas, por minha causa.
-
----
-
-# O Imposto sobre o Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和24(1949)年5月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 霊に税金がかかる | **Status:** Published
-
-## O Imposto sobre o Mundo Espiritual
-
-À primeira vista, o título deste artigo poderá causar estranheza; contudo, a explanação que se segue certamente elucidará a questão e trará pleno entendimento. A maioria das pessoas deve ter conhecimento do caso tributário envolvendo nossa Igreja, que mobilizou a imprensa nacional. Fomos notificados de uma cobrança de impostos na soma exorbitante de 25.244.832,18 ienes (incluindo valores já pagos), um montante que, como era de se esperar, deixou-nos estarrecidos.
-
-Este vultoso imposto refere-se ao período de três anos, de janeiro de 1946 a dezembro de 1948. Nos anos de 1946 e 1947, nossas receitas foram bastante modestas, pois até julho de 1947 nossa atividade era classificada como uma terapia alternativa particular, denominada Terapia Johrei. Foi a partir de agosto daquele ano, ao iniciarmos nossas atividades religiosas sob a personalidade jurídica de Igreja Kannon do Japão, que as receitas começaram a aumentar. Desse modo, a maior parte da tributação, aproximadamente quinze milhões de ienes, incide sobre um período de apenas catorze meses, de agosto de 1947 a dezembro de 1948. A investigação fiscal para apurar esses valores foi de tal minúcia, com vários auditores trabalhando diariamente em nossas instalações por mais de um mês, que a exatidão dos cálculos é indiscutível.
-
-Diante de uma tributação tão elevada, baseada em receitas de dezenas de milhões de ienes, é natural que todos se surpreendam e que, em especial, aqueles que conhecem nossa Igreja anseiem por compreender qual seria o misterioso fundamento de tal prosperidade. É justamente a natureza desse mistério, a causa primordial de nossas receitas, que pretendemos aqui desvelar com total transparência.
-
-Como é sabido, nossa instituição é uma organização religiosa. Portanto, a totalidade de suas receitas provém, à semelhança de outras religiões, de donativos de gratidão pelas graças recebidas, de oferendas para a súplica de novas bênçãos e de contribuições nos gazofilácios feitas pelos nossos mais de cem mil fiéis. A única, e notável, diferença reside no fato de termos alcançado uma arrecadação tão expressiva em um período de fundação extremamente curto, e é isso que se tornou o cerne da questão. Tal fato, por si só, já permite inferir a magnificência das graças que nossos membros recebem, e é sobre isso que nos aprofundaremos.
-
-A origem de tudo reside no mistério contido nos ideogramas caligrafados pelo fundador de nossa Igreja, o Grande Mestre Okada, objeto de nossa mais profunda reverência. Uma pequena folha de papel com o ideograma “Luz”, dobrada e usada dentro de um amuleto, ou um pergaminho vertical com a inscrição “Komyo Nyorai”, pendurado no oratório de um lar, tornam-se focos de poder espiritual. Pela reverência a estes objetos, milagres verdadeiramente assombrosos ocorrem e graças notáveis são concedidas, fatos de uma realidade que, para um observador externo, podem parecer incompreensíveis. Movidos pela gratidão e pela emoção, os fiéis oferecem donativos em retribuição, e estes constituem a totalidade da receita da Igreja.
-
-Sobre esse fenômeno extraordinário, o Grande Mestre oferece a seguinte explicação: “O espírito de Deus utiliza minha mão para se imprimir nos ideogramas. A partir deles, uma linha espiritual invisível conecta-se ininterruptamente a um elevado espírito divino que, através de Kannon (観音) no Mundo Espiritual, de meu próprio corpo espiritual e, por fim, do amuleto, irradia sua força sobre o corpo espiritual de quem o possui, atuando sobre doenças e diversas outras aflições materiais com uma eficácia surpreendente. Em suma, a matéria inorgânica adquire uma existência orgânica e passa a atuar. Tornar isso compreensível para o homem moderno é, de fato, uma tarefa árdua, e, por ora, não há explicação mais profunda que se possa oferecer. O que realizo é inteiramente o exercício de uma força invisível, e não há outra forma de comprovação senão por meio dos resultados concretos: as graças alcançadas.”
-
-Portanto, os ideogramas pulsam com vida, tornando-se uma manifestação da força invisível, e a receita gerada por essa atividade tornou-se o objeto da tributação. Conclui-se, assim, que a causa geradora do imposto é o espírito – ou seja, algo imaterial. Trata-se de uma situação verdadeiramente singular; possivelmente, não há precedente em parte alguma do mundo para a aplicação de um imposto de dezenas de milhões sobre o espírito.
-
-Contudo, ao refletirmos, percebemos que a política atual se fundamenta em leis construídas sob uma ótica estritamente materialista, que ignora por completo a existência de realidades invisíveis como o espírito. Nesse sentido, a tributação do espírito representa um profundo paradoxo. Todavia, as autoridades fiscais observam apenas a receita em si, sem se interessarem por sua origem. Dada a premente situação econômica do país, que exige a máxima arrecadação para que o Estado se mantenha, nós, como cidadãos, compreendemos ser nosso dever resignar-nos ao que nos parece inevitável. E assim, estamos, no momento, empenhando todos os nossos esforços para cumprir com nossa obrigação fiscal.
-
----
-
-# A Verdadeira Natureza da Tuberculose
-
-**Categoria:** re | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** レントゲン写真 | **Status:** Published
-
-## A Verdadeira Natureza da Tuberculose
-
-Na prática médica, a radiografia é considerada um método primordial para o diagnóstico da tuberculose, mas desejo aqui apontar o notório equívoco que essa abordagem representa. Os médicos baseiam seu veredito de tuberculoso ou não tuberculoso na presença ou ausência de uma sombra nebulosa na região torácica, revelada pela imagem radiográfica. A questão fundamental reside, pois, na natureza dessa sombra. Indubitavelmente, trata-se de algo anômalo, que não deveria estar ali. Contudo, a simples presença dessa opacidade não constitui prova conclusiva de uma lesão tuberculosa intrapulmonar. Isso ocorre porque a radiografia projeta uma imagem bidimensional.
-
-Na realidade, minha vasta experiência demonstra que a maioria dessas sombras não se origina no interior dos pulmões, mas sim externamente a eles, correspondendo a condensações de toxinas localizadas sob a pele, na região das costelas, tanto no tórax quanto nas costas. Por conseguinte, se de fato houvesse um acúmulo de toxinas no interior do pulmão, seria imperativo que a respiração do indivíduo apresentasse alguma anormalidade. A razão para tal é que o volume ocupado por essa condensação de toxinas reduziria a capacidade pulmonar total.
-
-Todavia, é possível obter uma imagem precisa do interior dos pulmões realizando radiografias seccionadas a partir da lateral do corpo e comparando-as com a imagem frontal. A medicina, de fato, recorre a esse método em circunstâncias especiais. Contudo, sua aplicação em larga escala, como em exames coletivos, é logisticamente inviável, e, por essa razão, na prática, os médicos se veem forçados a se contentar apenas com a radiografia frontal. Considerando essa realidade, a experiência demonstra que um indivíduo com acúmulos de toxinas efetivamente no interior dos pulmões estaria, no mínimo, no terceiro estágio da tuberculose. Logo, nos diagnósticos precoces, pode-se afirmar com segurança que praticamente não há pacientes com tal gravidade, ou seja, com anomalias intrapulmonares. Portanto, considerar a mera presença de uma sombra na imagem bidimensional como prova de uma enfermidade pulmonar e, a partir disso, diagnosticar imediatamente a tuberculose, é uma atitude de extrema precipitação.
-
-Ademais, há outro ponto crucial que não pode ser negligenciado. A sombra externa, correspondente à toxina, dissolve-se por meio do segundo processo de purificação, a febre. Uma vez liquefeitas, essas toxinas infiltram-se nos pulmões para serem expelidas sob a forma de escarro. Com a purificação completa, a sombra desaparece. No entanto, a medicina interpreta erroneamente esse fenômeno como uma infiltração pulmonar, um suposto sintoma inicial da tuberculose. Em consequência desse diagnóstico equivocado, o tratamento aplicado leva o paciente a um esgotamento tanto espiritual quanto físico. A perda de apetite e outros fatores debilitantes o enfraquecem gradualmente, e conheço inúmeros casos em que essa sucessão de erros acaba por manifestar a verdadeira tuberculose.
-
----
-
-# O Espírito, o Sangue e a Fé Autêntica
-
-**Categoria:** re | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
-**Título Original:** 霊と血と正しき信仰 | **Status:** Unknown
-
-## O Espírito, o Sangue e a Fé Autêntica
-
-Em sua essência, a constituição do corpo humano fundamenta-se em dois elementos primordiais: o espírito e a matéria. A ciência, até os dias de hoje, reconhece apenas a existência do corpo físico, ignorando o espírito, o que a limita a uma compreensão meramente parcial da realidade. E assim o é porque, apesar de todo o seu progresso, ainda não alcançou um patamar que lhe permita mensurar a existência do elemento espiritual.
-
-Conforme tenho reiterado, a raiz de todas as doenças origina-se primeiramente no espírito. O processo se dá na seguinte ordem: a mácula espiritual converte-se em impureza do sangue, e esta, por sua vez, manifesta-se como enfermidade no corpo físico. Sob essa ótica, pode-se afirmar que o sangue é, na verdade, a materialização do espírito. Prova disso é que, imediatamente após a morte, o sangue se coagula e seu volume se reduz a uma fração mínima, o que evidencia a partida da energia que o mantinha em constante circulação por todo o organismo. E o que seria essa energia? Essa incógnita é o próprio espírito.
-
-A morte, portanto, nada mais é do que a retirada do espírito. É como se ele abandonasse um corpo que já não lhe serve mais. Visto por outro ângulo, o corpo físico torna-se tão danificado que já não consegue mais reter o espírito. A situação se assemelha à de um morador que, após longos anos, se vê forçado a abandonar sua casa em ruínas, com paredes desmoronando e telhado prestes a ceder, já incapaz de protegê-lo das intempéries.
-
-Nesse sentido, o elemento mais crucial para a saúde humana é a pureza do sangue. Contudo, um método para purificá-lo jamais havia sido descoberto. Nem medicamentos, nem raios, nem eletricidade são dotados dessa capacidade. Ora, sendo o sangue a materialização do espírito, para purificá-lo, é imprescindível que se purifique primeiramente o espírito. Compreende-se, portanto, que a ciência, por desconhecer a existência do elemento espiritual, não tenha sido capaz de encontrar uma forma de purificar o sangue.
-
-Entretanto, essa força oculta, o espírito, não constitui a totalidade do ser. Na verdade, o espírito é um invólucro exterior; em seu interior, reside a mente e, no centro desta, encontra-se a alma. A alma é, de fato, a soberana, a regente do corpo humano. É ela o bem mais precioso que nos foi concedido por Deus e a fonte primordial da consciência. A sequência da ação humana ocorre da seguinte forma: o impulso da alma se torna vontade, que move a mente; a mente, por sua vez, move o espírito, e o espírito movimenta o corpo físico. Sendo assim, se agirmos em conformidade com os desígnios da consciência que emanam da alma, não haverá erros nem fracassos.
-
-A grande dificuldade reside no fato de que o espírito pode ser possuído por diversas manifestações de índole animal. O homem moderno porventura escarnecerá de tal afirmação, mas sou eu quem gostaria de escarnecer daqueles que escarnecem, pois se trata de um fato irrefutável. Espíritos de raposa, *tanuki*, *tengu*, serpente, cão, gato, cavalo, rã e aves são os principais que, alojados no espírito humano, atuam com total liberdade e desembaraço. Geralmente, apenas um deles se manifesta, mas há casos de possessão por dois ou mais. Ninguém está isento de ter ao menos um espírito atuando de forma permanente, além de outros que podem se manifestar temporariamente, inclusive espíritos de pessoas falecidas. Esses espíritos possessores constituem a raiz de todo o mal.
-
-Consequentemente, há uma luta incessante pela posse da mente, travada entre o bem, que emana da alma concedida por Deus, e o mal, que provém dos espíritos animais possessores. A mente, posicionada nesse ínterim, encontra-se em constante oscilação e perplexidade, dividida entre aliar-se à alma ou ceder à influência externa. Uma vez compreendido este princípio, a distinção entre a fé verdadeira e a fé falsa torna-se perfeitamente clara.
-
-A fé autêntica é centrada no Deus Supremo, a Deidade do Sol, o que permite ao ser humano ser constantemente banhado por Sua Luz. Quando uma pessoa é iluminada por essa Luz, o espírito animal que a influencia se retrai, sua força se debilita e sua capacidade de agir para o mal se atenua, tornando-se incapaz de dominar a mente. Com o enfraquecimento do apelo do mal, a mente não tem outra escolha senão aliar-se à alma, isto é, à consciência. Aquele que atinge esse estado alcançou a verdadeira fé e se tornou uma pessoa virtuosa, de alma purificada. Um indivíduo assim é completamente liberto das doenças, dos fracassos e das desditas. Sua vida e sua família prosperam continuamente, e ele se torna um vivente da Luz, apto a experimentar o êxtase espiritual. Gerar esses seres humanos plenos é o objetivo de nosso Movimento Kannon (観音), e essa força provém unicamente do Poder de Kannon.
-
-A predileção pelo álcool, a prática do adultério, o gosto pelos conflitos — são todos resultado da dominação da mente pelo espírito possessor, por meio de sua maldade intrínseca. Até hoje, nenhuma religião deteve o poder da Luz capaz de subjugar tais espíritos, razão pela qual não se encontravam pessoas que vivessem uma vida de Luz. Como prova, pergunto: já existiu alguma organização religiosa completamente isenta de doentes, ébrios, adúlteros e de dissensões? Lamentavelmente, somos forçados a admitir que não.
-
-Pode-se afirmar que entre os membros de nossa associação não há doentes, nem apreciadores de bebidas alcoólicas, nem quem pratique o adultério ou promova contendas. É inevitável, contudo, que os recém-ingressos ainda apresentem vestígios dessas condições, como um fenômeno transitório. Com o passar do tempo, porém, eles se aprimoram passo a passo, até se tornarem seres humanos plenamente aperfeiçoados e formarem lares de Luz.
-
----
-
-# A Realidade do Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和26(1951)年9月19日 | **Fonte:** Eikou
-**Título Original:** 霊界は在りや | **Status:** Published
-
-## A Realidade do Mundo Espiritual
-
-Para os seguidores de nossa Fé, a existência do Mundo Espiritual não constitui sequer uma questão. Trata-se de uma certeza que todos partilhamos. Todavia, é inegável que ouvir o relato de quem o vivenciou em primeira mão, ainda que por uma única vez, aprofunda sobremaneira a nossa convicção. Nesse sentido, e por considerar que este testemunho pode servir de valiosa referência, especialmente para aqueles que, sejam membros ou não, ainda nutrem alguma dúvida, recomendo veementemente a leitura do relato que se segue.
-
-**Conduzido ao Mundo Espiritual em Estado de Coma e Agraciado com uma Nova Vida**
-
-*Korekawa Masayoshi (37 anos)*
-*Igreja Matsukaze-Tyu, Hyogo*
-
-Tudo começou em 17 de junho de 1951, por volta da uma hora da tarde, quando fui acometido por uma súbita e pesada dor de cabeça. Enquanto fazia minha refeição, recebi a visita da reverenda Yasuyo Konishi, da Unidade de Kashio, vinculada à Igreja Matsukaze-Tyu. Como naquele dia ocorreria a cerimônia mensal em minha casa, solicitei imediatamente que a reverenda Konishi me ministrasse Johrei, o que me fez sentir um alívio considerável. A cerimônia encerrou-se por volta das seis da tarde, e logo me recolhi.
-
-Da noite do dia 17 até o dia 21, fui consumido por uma febre de quarenta graus que me impedia de dormir. Uma dor lancinante tomou conta da região superior e inferior do interior de minhas omoplatas, e o sofrimento era um martírio indescritível em palavras. Contudo, recordei-me dos ensinamentos que sempre ouvia do presidente de nossa igreja: "A doença não é a destruição do corpo. É uma purificação para que nos tornemos melhores, portanto, devemos ser gratos. Após a cura, compreenderão que o sofrimento foi um prelúdio para a alegria". Embora a dor de cabeça retornasse com violência, apeguei-me a essas palavras e renovei minha fé de que, apesar da agonia presente, certamente seria curado. A reverenda Konishi permaneceu à minha cabeceira, ministrando-me Johrei inúmeras vezes ao dia, o que me trouxe algum alento.
-
-Embora não tenha uma lembrança clara, parece que senti a presença de alguém e, por três vezes, pedi que abrissem a porta. A partir da manhã do dia 22, mergulhei em um estado de delírio, proferindo palavras desconexas e, segundo me contaram, manifestando acessos de ira. Durante esse período, minha consciência viajava a diversos lugares; sentia que estava em peregrinação, que visitava meu local de trabalho e que, por vezes, até mesmo realizava incursões para ministrar Johrei. Tinha também a sensação constante de que minha casa estava prestes a desabar, em perpétuo movimento. Após isso, perdi completamente a noção da realidade.
-
-Meus familiares, aflitos, insistiram veementemente para que chamassem um médico, pois temiam por minha vida. Entretanto, minha esposa manteve-se firme, declarando: "Seremos salvos por Deus. Apenas observem". Foi então que, ao entrar em estado de coma, iniciei minha jornada pelo Mundo Espiritual. Passo a relatar, com toda a fidelidade, o que vivenciei.
-
-Primeiramente, fui orientado a ingressar em um alojamento, em algum lugar na região de Hanshin, para um período de aprimoramento. A rotina diária consistia em chamada matinal, desjejum e, em seguida, atividades físicas no pátio. Após uma hora, um sino tocava, e nos reuníamos com muitas outras pessoas para o almoço. À tarde, o trabalho consistia em mover terra e areia. Em certo momento, uma pessoa de elevada posição aproximou-se de mim e disse: "Você está dispensado do trabalho no rio". Ao final do dia, retornávamos todos ao alojamento, onde oferecíamos nossa gratidão e descansávamos.
-
-Após três dias seguindo essa rotina, a mesma autoridade retornou e ordenou: "Dirija-se à delegacia de polícia tal". Fui acompanhado por um grupo. Viajamos por cerca de duas horas em direção ao noroeste, até pararmos em um local que, fomos informados, era uma encruzilhada de sete caminhos. Ali, todos desembarcamos do veículo e subimos por uma pequena trilha na montanha. No topo, havia um edifício que funcionava como delegacia de polícia, onde se encontravam médicos e oficiais. Eles possuíam uma lista e, chamando cada um pelo nome, davam a seguinte instrução: "Em ordem, relate todas as boas e más ações que cometeu até hoje. Nenhuma omissão será tolerada, e a mentira resultará em severas consequências". Empunhando varas de bambu, eles procediam ao interrogatório, um após o outro.
-
-Em seguida, passamos a um exame de pureza carnal. Injetavam uma solução salina nas partes íntimas, que eram limpas com um instrumento semelhante a um fio metálico e, em seguida, preenchidas com gaze. Percebia-se que, para os mais maculados pelo pecado, o simples toque causava uma dor insuportável. Estes eram submetidos a uma incisão no local e imediatamente enviados em grande número ao crematório. Para minha felicidade, não senti dor alguma e fui liberado com apenas um leve toque.
-
-Concluída a investigação, grupos de dezoito pessoas eram encaminhados ao primeiro crematório. Vi com meus próprios olhos quando eram lançados dentro da fornalha. Ouvi, então, uma voz dizer: "Você não precisa entrar". Em seguida, todos se dirigiram ao segundo crematório, e eu os acompanhei.
-
-A escadaria que levava ao local não possuía degraus com quinas; suas bordas eram arredondadas e não havia corrimão ou qualquer ponto de apoio. Senti uma vontade premente de urinar, mas, para meu desespero, não encontrava lugar apropriado. Finalmente, consegui encontrar um local e me aliviar. A partir daquele momento, fui capaz de subir a escadaria com grande facilidade. Refletindo agora, compreendo que foi nesse exato momento que, no plano material, meu corpo expeliu urina, fezes e suor, encharcando completamente meu pijama e o futon. O peso da bexiga cheia impedia o movimento da parte inferior do meu corpo, e a facilidade com que subi a escada coincidiu com o momento em que meu corpo se aliviou na cama.
-
-Ao chegar à entrada da fornalha do segundo crematório, novamente me foi dito: "Você não precisa vir até aqui". Fui então conduzido a uma área de descanso. Ali, em um salão, ouvi um sermão e, depois, fomos instruídos a relaxar e passear livremente.
-
-Era um lugar que se assemelhava ao Paraíso. Flores das quatro estações desabrochavam em profusão, e havia muitos e imponentes edifícios de três andares. Em cada uma daquelas casas, havia um altar dedicado a Komyō Nyorai (光明如来), e no oratório familiar, estava entronizada a imagem de Byōbu Kannon (御屏風観音). Em todas as residências, o terceiro andar era invariavelmente o recinto sagrado.
-
-Naquele momento, um forte desejo de visitar a Igreja Matsukaze-Tyu tomou conta de mim e, ao olhar ao redor, vi-a surgir diante de meus olhos. Entrei imediatamente e pude rever os reverendos e membros que tanto conhecia. Que alegria! Ajoelhei-me diante do Altar e cheguei a tempo para a oração e para ouvir as palavras do presidente da igreja.
-
-Em seguida, retornei para casa. Ao chegar, anunciei em voz alta: "Estou de volta!". Nesse instante, minha esposa e todos os parentes exclamaram com imensa alegria: "Ah, ele recuperou a consciência!". Havia permanecido em coma por exatos dois dias.
-
-Hoje, a alegria de minha família e parentes é imensa. Sou profundamente grato por ter sido salvo quando já não havia mais esperança de vida.
-
-A Meishu-Sama, minha mais profunda e eterna gratidão.
-
----
-
-# A Veste Espiritual e a Lei da Fortuna
-
-**Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 霊波と霊衣 付録霊科学 | **Status:** Published
-
-## A Veste Espiritual e a Lei da Fortuna
-
-Nos artigos anteriores, esforcei-me por apresentar um panorama da nova arte terapêutica que estabeleci. Todavia, para uma compreensão plena de seus fundamentos, é imprescindível o conhecimento de diversos fenômenos relativos ao espírito e ao Mundo Espiritual. Dedicar-me-ei, portanto, a elucidá-los em sequência.
-
-**As Ondas de Luz e a Veste Espiritual**
-
-Já expliquei anteriormente sobre os raios de luz misteriosa e seu poder curativo; aprofundarei agora essa explanação.
-
-O corpo espiritual do ser humano possui uma morfologia semelhante à do corpo físico, mas distingue-se por um elemento singular: a Veste Espiritual. Em línguas ocidentais, é conhecida como aura. Trata-se de uma emanação constante de ondas de luz que partem do corpo espiritual, assemelhando-se a um traje, o que justifica sua denominação. Sua coloração é, em geral, branca, podendo apresentar matizes amarelados ou purpúreos, a depender do indivíduo.
-
-A espessura, contudo, varia drasticamente. Em uma pessoa comum, mede cerca de três centímetros. Nos enfermos, torna-se mais tênue, adelgaçando-se progressivamente com o agravar da doença até desaparecer por completo momentos antes do óbito. A expressão popular “sua sombra está fraca” parece originar-se da percepção intuitiva dessa Veste Espiritual rarefeita. Em contrapartida, indivíduos saudáveis possuem uma Veste Espiritual densa, que se torna ainda mais espessa e luminosa naqueles que praticam a virtude. Heróis, por exemplo, a possuem mais robusta que as pessoas comuns; grandes vultos da história, mais ainda; e os santos, por sua vez, atingem uma espessura extraordinária.
-
-É fundamental compreender, todavia, que a espessura da Veste Espiritual não é estática; ela se altera constantemente em função dos pensamentos e atos de cada um. Quando alguém se pauta pela retidão e pratica o bem, sua Veste Espiritual se adensa. O contrário a torna mais fina. Embora, como regra, seja invisível aos olhos comuns, há pessoas com a capacidade de percebê-la. Mesmo um indivíduo comum, ao concentrar-se e aguçar sua sensibilidade, pode, até certo ponto, senti-la.
-
-Nesse sentido, a densidade da Veste Espiritual guarda uma profunda relação com o destino humano. Quanto mais espessa, maior a felicidade; quanto mais tênue, maior o infortúnio. Pessoas com a Veste Espiritual densa irradiam calor humano, exercem um magnetismo sobre os outros e lhes transmitem uma sensação de bem-estar, pois, em essência, os envolvem com sua luz. Em contrapartida, o contato com quem a possui rarefeita gera uma sensação de frieza, desconforto e solidão, fazendo com que sua companhia seja evitada. Por essa razão, esforçar-se para adensar a própria Veste Espiritual constitui o alicerce para a conquista da boa fortuna.
-
-Resta, pois, a questão: como adensar a Veste Espiritual? Antes de responder, é preciso explicar sua natureza intrínseca.
-
-Não é necessário dizer que todos os pensamentos e atos humanos podem ser classificados como bons ou maus. A espessura da Veste Espiritual é diretamente proporcional à quantidade de bem ou de mal que praticamos. Internamente, quando pensamos e agimos com bondade, experimentamos a satisfação da consciência. Esse sentimento se converte em luz, que se soma ao corpo espiritual, ampliando seu brilho. O oposto ocorre com o mal: ele gera máculas que obscurecem o corpo espiritual. Externamente, ao praticarmos o bem, a gratidão da pessoa beneficiada transforma-se em luz e nos é transmitida por meio de um elo espiritual, intensificando a nossa. Em contrapartida, sentimentos como ressentimento, ódio e inveja são emanados como máculas que chegam até nós, aumentando nosso obscurecimento. Fica evidente, portanto, que devemos praticar o bem para alegrar o próximo, evitando a todo custo ser alvo de pensamentos de ódio, ressentimento ou inveja.
-
-Este princípio explica por que indivíduos que ascendem socialmente de forma abrupta ou os novos-ricos tantas vezes acabam por fracassar e decair. Eles atribuem o sucesso unicamente à própria capacidade, esforço e talento, caindo na arrogância e na soberba. Tornam-se egoístas, egocêntricos e entregam-se a uma vida de luxo desmedido. Como resultado, atraem a convergência de pensamentos de ódio, ressentimento e inveja de muitas pessoas. Essas emanações obscuras fazem com que sua Veste Espiritual perca o brilho e se torne tênue, culminando em sua inevitável queda.
-
-O mesmo se aplica à queda de famílias nobres e abastadas, com longas linhagens. Aqueles que ocupam posições sociais elevadas recebem, por natureza, grandes benefícios da nação e da sociedade; portanto, têm o dever de retribuí-los. Deveriam dedicar-se a grandes obras de bem social, a fim de purificar constantemente suas máculas. Contudo, muitos pensam apenas em seus próprios interesses e lucros, sendo escassos em atos altruístas. Com isso, suas impurezas se acumulam e, embora a aparência externa seja suntuosa, seus espíritos se assemelham aos das pessoas mais humildes. Em decorrência da Lei do Espírito Precede a Matéria, seu declínio torna-se inevitável. Lembro-me do que me contou, pouco antes do Grande Terremoto de Kanto, uma pessoa de aguçada visão espiritual. Ela me disse que, espiritualmente, a cidade de imponentes edifícios e arranha-céus não passava de um aglomerado de humildes casebres. Fiquei assombrado quando, de fato, a realidade se mostrou exatamente assim.
-
-Existem, em contrapartida, exemplos notáveis. Conta-se, nos Estados Unidos, a história do célebre magnata John D. Rockefeller. Ainda jovem, quando era um simples assistente de loja, ele começou a fazer doações a uma igreja, convicto do dever de praticar o bem. Começou com cinco centavos por semana; à medida que sua renda aumentava, passou a doar dez, cinquenta, e assim por diante, até chegar a milhares e milhões de dólares, culminando na criação do famoso Instituto Rockefeller. Diz-se que ele anotava essas primeiras doações no verso de um caderno, que hoje é um tesouro de família. Outro exemplo é o de Andrew Carnegie, fundador da Bethlehem Steel. Perto de sua morte, ele pôs em prática a filosofia que defendeu por toda a vida: doou sua fortuna inteira, de centenas de milhões de dólares, para o bem público, legando a seu filho e herdeiro apenas um milhão de dólares e uma educação universitária.
-
-Em sua grande obra, “Os Americanos”, Hugo Münsterberg exalta essa mentalidade dos magnatas americanos de não acumularem terras para si. Em 1903, por exemplo, as doações a universidades, bibliotecas e institutos totalizaram cerca de dez milhões de dólares, com as doações anônimas atingindo um valor muitas vezes superior. Após a Primeira Guerra Mundial, Carnegie fez uma vultosa doação à “Fundação Carnegie para a Paz Internacional”, que, em parte, permitiu a revitalização de acadêmicos e do meio científico na Alemanha. A publicação da monumental obra de pesquisa sobre guerra e criminalidade, concluída pelo professor Liebmann e sua equipe, só foi possível graças a essa doação — um trabalho cujo contributo para a felicidade mundial é imensurável.
-
-Ao refletir sobre esses fatos, compreendo as raízes da prosperidade dos Estados Unidos. Em contraposição, ao pensar no egoísmo exacerbado dos conglomerados financeiros do Japão, percebo que a derrocada que hoje enfrentam não foi, de modo algum, uma obra do acaso.
-
-Ademais, quanto mais delgada a Veste Espiritual, maior a suscetibilidade a infortúnios e desastres. A razão para isso é que as máculas obscurecem o raciocínio, prejudicam o discernimento, enfraquecem o poder de decisão e impedem uma visão clara do futuro. Consequentemente, a pessoa anseia por sucessos efêmeros e age com impaciência. Tais indivíduos podem até alcançar pequenas vitórias, mas, a longo prazo, estão fadados ao fracasso. Nessa perspectiva, a má política de uma nação decorre do fato de ser conduzida por pessoas de Veste Espiritual rarefeita; e o povo que sofre sob essa má governança também a possui tênue, tornando o ciclo algo lastimavelmente inevitável.
-
-Pessoas com muitas impurezas são mais propensas a sofrer purificações, manifestadas como doenças e calamidades. Ser vítima de um acidente de trânsito, por exemplo, é um sinal de que a Veste Espiritual está fina. Quem a possui espessa, por outro lado, consegue se livrar do perigo em qualquer circunstância. No momento de uma colisão iminente com um trem ou automóvel, o espírito do veículo atingirá a pessoa com a Veste Espiritual fina, mas não aquela que a tem densa. Esta última será repelida, como que arremessada para longe, sem sofrer um arranhão sequer, graças à elasticidade de sua Veste Espiritual.
-
-Diante de toda esta lógica, fica claro que acumular virtudes e praticar o bem para adensar a Veste Espiritual é o único caminho para se tornar uma pessoa afortunada. É lamentável ver pessoas que se resignam, acreditando terem nascido sob o signo do azar, pois desconhecem este princípio fundamental. No âmbito de nossa arte terapêutica, os ministrantes que possuem a Veste Espiritual mais espessa são os que obtêm os melhores resultados em seus tratamentos. E quanto mais pacientes um ministrante consegue salvar, mais gratidão ele recebe, o que torna sua Veste Espiritual cada vez mais densa, aprimorando ainda mais sua eficácia. Dentre os meus discípulos, existem muitos que personificam este ciclo virtuoso.
-
----
-
-# A Situação Atual do Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和28(1953)年3月11日 | **Fonte:** Eikou
-**Título Original:** 霊界の現在 | **Status:** Published
-
-## A Situação Atual do Mundo Espiritual
-
-Ao ministrar Johrei a uma pessoa com manifestação espiritual, é natural que surjam dúvidas, e isso não é de todo equivocado. Contudo, o ponto fundamental a se compreender é a capacidade de discernir entre as manifestações autênticas e as falsas. Tal discernimento pode ser, em grande parte, alcançado por meio da leitura atenta dos Ensinamentos Sagrados e da aplicação de sua Sabedoria.
-
-O relato a seguir provém de um espírito genuíno, profundamente ciente da realidade atual do Mundo Espiritual, e, por essa razão, creio que servirá como uma valiosa referência. Nele, são expostos com clareza a ordem e o procedimento correto no tocante à dedicação e a outras atividades, evidenciando que nenhum desvio do Princípio Divino é permitido. Nesse sentido, a retidão do pensamento e da fé de um membro pode salvar não apenas a si mesmo, mas também centenas ou milhares de seus antepassados no Mundo Espiritual. Portanto, é imprescindível agir com a máxima prudência e reverência.
-
-**A Revelação de um Antepassado sobre a Sacralidade do Donativo**
-
-Relato de Fé de Tomo Shioaku (58 anos)
-Johrei Center de Juzen, Okayama
-
-Meishu-Sama, sou imensamente grata pelas inúmeras graças e bênçãos que tenho recebido desde que ingressei na Fé. Recentemente, toda a minha família foi às lágrimas de gratidão ao tomar conhecimento, por intermédio de um antepassado, da profunda importância do donativo. Permita-me, com minhas humildes palavras, relatar o ocorrido.
-
-No dia dez de fevereiro, participei do Culto Mensal na unidade de Niimi, onde recebi valiosos Ensinamentos e ouvi diversas explanações a respeito do donativo de gratidão referente ao Aprimoramento. Naquela noite, ao compartilhar com minha família os acontecimentos do culto, minha sobrinha, Emiko Shioaku, de vinte e cinco anos, chegou e queixou-se de "um certo cansaço". Comecei a ministrar-lhe Johrei, e, nesse momento, manifestou-se o espírito de Tomoichi, irmão mais novo de meu marido, falecido há trinta anos, aos vinte e cinco de idade.
-
-Como o espírito da avó costumava se manifestar em minha sobrinha, ele esclareceu: "Vim pessoalmente para que não pensem que é outra mentira". E então, prosseguiu com o seguinte relato: "O Mundo Espiritual atravessa um momento de intensa transformação, muito mais severa do que podem imaginar com base no que ouviram hoje na Igreja. A cada dia, as palavras de Deus se tornam mais rigorosas. Vocês anseiam pela chegada do Dia do Juízo Final, mas cometem um tremendo engano. Quando esse dia chegar, reflitam se suas almas serão de fato dignas de receber o perdão Divino e de permanecer. Com a fé que possuem agora, a salvação é impensável. É preciso aprofundá-la muito, muito mais. Faz trinta anos que morri e até hoje sofro com doenças. Sinto uma inveja imensa daqueles que receberam o Ohikari. Eles habitam um plano tão elevado que nós sequer conseguimos nos dirigir a eles". Dito isso, o espírito partiu.
-
-Enquanto conversávamos sobre a necessidade de fortalecer nossa fé, minha sobrinha voltou a se queixar, desta vez de uma "dor na região lombar". Iniciei novamente o Johrei e, para minha surpresa, o mesmo espírito de antes retornou, explicando apressadamente: "Encontrei Yoshiko (minha filha, falecida de doença em 1950, que era membro) no Mundo Espiritual, e ela me pediu que viesse. Recebi uma permissão de apenas dez minutos".
-
-Então, de forma ofegante, ele transmitiu a mensagem dela: "Como a disposição mental de todos na casa mudou, posso lhes comunicar isto. Gostaria que soubessem que, por eu ter recebido o Ohikari e não ter utilizado nenhum remédio até minha morte, todos os meus pecados foram perdoados, e hoje vivo dias felizes. (Ela acrescentou: 'Fiquei assim, tão purificada, porque não tomei remédios'). Agora que a mentalidade da família se transformou, tenho um pedido a fazer. Gostaria que entregassem o mais rápido possível na Igreja o donativo de gratidão pelo Aprimoramento, no valor de seis mil e quinhentos ienes, referente a cinco pessoas. Por meio desse donativo, poderei me tornar ministra. No Mundo Físico, com três filhos para criar, minha situação me impedia de servir à Obra Divina. Sinceramente, foi uma bênção eu ter morrido. Somente após a morte encontrei a verdadeira felicidade. No Mundo Espiritual, as palavras de Deus se tornam mais severas a cada dia. É penoso observar o semblante das pessoas que não possuem o Ohikari. Embora eu veja meu marido (falecido subitamente de uma enfermidade), levará provavelmente mil anos para que ele alcance a mesma posição que ocupo. Rogo-lhes que efetuem este donativo o quanto antes, para que eu receba a qualificação de ministra e possa me dedicar a salvar as pessoas no Mundo Espiritual". Após transmitir a mensagem, o espírito retirou-se.
-
-Intimamente, eu nutria certa apreensão, receando que meu marido não consentisse com o donativo, e orei a esse respeito. No entanto, movido pela comunicação dos antepassados, na manhã seguinte, ele próprio dispôs os seis mil e quinhentos ienes sobre a bandeja de oferendas, consagrou-os perante o Altar Divino e me instruiu: "Leve este valor à Igreja o mais rápido possível".
-
-É impossível descrever a alegria que senti naquele momento. Meu marido ofereceu o dinheiro de bom grado e com o coração feliz; minha filha se tornaria ministra no Mundo Espiritual, servindo à Obra de Deus; e nós, por nossa vez, teríamos a permissão de colaborar, ainda que minimamente, com a Construção Sagrada. Ciente de tudo isso, senti uma gratidão imensa e levei o donativo à Igreja sem demora.
-
-Passados dois ou três dias, na noite de catorze de fevereiro, minha sobrinha nos visitou novamente. Ao lhe ministrar Johrei, foi minha filha, Yoshiko, quem se manifestou. "O donativo de gratidão pelo Aprimoramento já chegou à Igreja Central, e amanhã mesmo poderei iniciar minhas atividades de difusão. Recebi a permissão de Deus para vir agradecer", disse ela. Por uma hora e meia, ela permaneceu com a cabeça baixa, chorando de alegria. "Para que eu pudesse vir até aqui hoje, meus antepassados formaram uma fila para se despedir de mim. Muito, muito obrigada", disse ela antes de partir.
-
-Sempre nos é ensinada a importância da ordem correta das coisas, mas fiquei profundamente comovida ao testemunhar como Deus faz com que um espírito venha expressar sua gratidão de forma tão cerimoniosa, mesmo a alguém tão insignificante como eu. Ao refletir sobre o grandioso significado de nosso donativo e sobre a profundidade do Plano Divino, jurei em meu coração fortalecer ainda mais a minha fé.
-
-Hoje, nosso lar se transformou em um verdadeiro paraíso, a ponto de despertar a admiração de nossos vizinhos, e vivemos dias repletos de alegria. Agradeço do fundo de meu coração pela infinita e sublime graça de Meishu-Sama e reitero meu mais profundo agradecimento.
-
-Assumo o compromisso de me dedicar à sagrada tarefa de auxiliar na salvação do maior número possível de pessoas.
-Meishu-Sama, muito, muito obrigada.
-
----
-
-# As Camadas do Mundo Espiritual e o Destino Humano
-
-**Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 霊層界 | **Status:** Published
-
-## As Camadas do Mundo Espiritual e o Destino Humano
-
-Conforme já elucidei, o Mundo Espiritual se estrutura em três grandes planos: o Céu, o Plano Intermediário e o Inferno. Explicarei agora a profunda relação que essa estrutura mantém com o destino humano.
-
-Esses três planos, quando subdivididos, revelam sessenta níveis cada um, totalizando cento e oitenta graduações. A essa complexa hierarquia, denomino Mundo das Camadas Espirituais.
-
-O ser humano vem a este mundo por determinação Divina. Não por acaso, o ideograma que compõe a palavra japonesa para ‘vida’ é o mesmo que significa ‘ordem’, pois uma é consequência da outra. Inevitavelmente, todos se questionam sobre o propósito de seu nascimento. Enquanto não se compreende verdadeiramente essa questão, não apenas se torna impossível agir com retidão e alcançar a paz de espírito, como também se corre o risco de findar os dias em uma existência vazia, como quem vive a sonhar e morre embriagado. Qual seria, então, o propósito de Deus? Consiste na edificação de um Mundo Ideal sobre a Terra, ou seja, o Paraíso Terrestre. É lícito imaginar que sua escala e concepção serão de uma magnificência e grandiosidade indescritíveis, pois a cultura, em seu infinito progresso, não conhece limites. Sob essa ótica, toda a história da humanidade até o presente momento não passou de uma etapa de preparação fundamental. Nesse sentido, Deus concede a cada indivíduo uma missão particular e características únicas, fazendo com que, através de sucessivas vidas e mortes, a humanidade avance em direção a esse objetivo sublime. Portanto, compreendemos que o bem e o mal, a guerra e a paz, a destruição e a criação, nada mais são do que etapas necessárias a esse processo evolutivo.
-
-Quanto ao momento histórico em que vivemos, conforme já detalhei, trata-se do ponto de transição da Era da Noite para a Era do Dia, por mim anunciado. O mundo inteiro está prestes a dar um grande salto rumo a uma nova era, e a humanidade prepara-se para se despojar de sua vestimenta de selvageria, a fim de alçar-se à condição de uma civilização superior. É aqui que as guerras, as doenças e a pobreza encontrarão seu fim. Naturalmente, o surgimento desta arte médica representa o marco precursor e o núcleo de toda essa transformação.
-
-Como mencionado, Deus transmite Suas determinações à humanidade de forma contínua. De que maneira isso ocorre? No Mundo das Camadas Espirituais, existe uma semente para cada ser humano, à qual denomino alma-matriz. A ordem Divina é primeiramente transmitida a essa alma-matriz. Esta, por sua vez, comunica a determinação de Deus à alma imanente, localizada no centro do corpo espiritual do indivíduo, por meio de um cordão espiritual. Contudo, para a maioria das pessoas, é extremamente difícil intuir diretamente as ordens Divinas. Apenas aqueles que possuem um corpo espiritual purificado até certo grau conseguem fazê-lo. Isso ocorre porque a grande maioria dos seres humanos tem sua percepção obstruída por uma densa camada de máculas espirituais, sendo ainda perturbada por Espíritos Malignos que se aproveitam dessas mesmas máculas.
-
-Como prova do que afirmo, observemos que, por mais que se esforce, ninguém está isento de ver seus planos frustrados ou de ter seu destino desviado para rumos completamente inesperados. Muitos também experimentam a sensação de serem constantemente governados por algo superior ou de percorrerem uma trajetória predestinada, sobre a qual não possuem controle. A posição que a alma-matriz ocupa nessa hierarquia espiritual determina tanto a missão quanto o destino de cada um. Ou seja, quanto mais elevada a sua classe, maior e mais nobre será a missão recebida de Deus, e mais afortunada será a vida da pessoa. Inversamente, à medida que a alma-matriz se encontra em níveis inferiores, a sorte se torna mais escassa, culminando na condição de maior infortúnio para aqueles que se situam no estrato mais baixo. A razão disso é que os níveis superiores correspondem ao Céu, um mundo de alegria, abundante em bens materiais, isento de doenças e conflitos. Em contrapartida, os níveis inferiores se assemelham a um mundo de sofrimento, repleto de enfermidades, disputas e miséria.
-
-Sendo assim, para que o ser humano alcance a verdadeira felicidade, é imperativo que sua alma-matriz ascenda no Mundo das Camadas Espirituais. Qual o método para tal? Consiste unicamente em purificar o corpo espiritual. Essencialmente, o corpo espiritual sobe ou desce conforme a quantidade de máculas que possui. A alma purificada, por ser leve, ascende; a alma maculada, por ser pesada, descende. Portanto, para se tornar possuidor de uma alma pura, é preciso praticar o bem e acumular virtudes. Embora isso demande tempo e sacrifício consideráveis, existe um método capaz de promover, de uma só vez, um salto de dezenas de níveis nessa hierarquia espiritual: receber os ensinamentos desta arte médica.
-
-Aqueles que recebem tais ensinamentos relatam, em uníssono, que, no aspecto espiritual, sua visão de vida se transforma por completo; a sabedoria e o discernimento se expandem, permitindo-lhes compreender a verdade das coisas; vislumbram uma luz em seu porvir e a ansiedade se dissipa; tornam-se otimistas e experimentam, pela primeira vez, uma genuína sensação de paz interior. No aspecto material, os bens afluem de maneira surpreendente, e as dificuldades desaparecem. A infelicidade diminui e as venturas se multiplicam. Diariamente, chegam aos meus olhos e ouvidos incontáveis testemunhos de gratidão como: “É realmente milagroso!”, “Fui completamente salvo!”, “Sou imensamente grato!”.
-
----
-
-# A Ilusão da Cura Materialista
-
-**Categoria:** re | **Ano:** 昭和25(1950)年2月11日 | **Fonte:** Kyusei
-**Título Original:** 霊的には無解決 「脳外科療法に革命」に就て | **Status:** Published
-
-## A Ilusão da Cura Materialista
-
-Um artigo publicado em 26 de dezembro de 1949 no jornal *Chubu-Nippon Shimbun*, sob o título “Revolução na Terapia Neurocirúrgica”, noticia um método para tratar doenças mentais sem a necessidade de incisões cranianas. A matéria, baseada em uma correspondência enviada à Universidade de Nagoia pelo Dr. E. A. Spiegel, autoridade da neurocirurgia norte-americana e professor na Universidade Temple, apresenta uma nova técnica.
-
-Segundo o artigo, o tratamento cirúrgico para enfermidades mentais, epilepsia e distúrbios de movimento involuntário originou-se com o Dr. Moniz, professor da Universidade de Lisboa e laureado com o prêmio Nobel daquele ano. O método foi posteriormente difundido nos Estados Unidos pelos doutores Freeman e Watts e, no Japão, aprimorado pelo professor Saito sob a forma de lobotomia pré-frontal. Essa técnica alcançou resultados clínicos considerados milagrosos, como a cura instantânea de pacientes com coreia, doença que causa movimentos corporais descontrolados.
-
-A pesquisa do Dr. Spiegel, contudo, propõe uma evolução que torna essa terapia mais simples e eficaz. Ele adaptou com sucesso para uso em seres humanos um aparelho chamado estereotáxico, antes utilizado pelo professor Clark em macacos e gatos. A inovação consiste em introduzir uma agulha elétrica no cérebro para cauterizar o núcleo dorsomedial do tálamo. Esse procedimento, ao que parece, alcança o mesmo efeito da lobotomia, sem a necessidade de seccionar a substância branca com um bisturi. O Dr. Spiegel relata os seguintes resultados obtidos em quarenta e dois pacientes: um caso de doença mental que não respondia a eletrochoques e outros tratamentos há dezessete anos apresentou melhora notável; um paciente em estágio terminal de câncer, que dependia de várias doses diárias de morfina para suportar as dores lancinantes, foi curado; e crises epilépticas foram interrompidas ou atenuadas. O Dr. Spiegel acrescenta que, por se tratar de uma cauterização por agulha, o risco de morte é nulo. Além disso, a técnica permite obter eletroencefalogramas muito mais precisos que os convencionais, possibilitando a descoberta de doenças até então desconhecidas. O professor Saito, amigo do Dr. Spiegel desde os tempos em que pesquisaram juntos na Universidade de Viena, expressou sua admiração, classificando o estudo como revolucionário e de alcance mundial, e prometeu divulgá-lo imediatamente à comunidade médica japonesa.
-
-À primeira vista, tal relato descreve uma descoberta verdadeiramente extraordinária, um evangelho de esperança para a humanidade. Contudo, em nossa concepção, tais avanços produzem apenas um efeito temporário e são absolutamente incapazes de erradicar a causa primordial da enfermidade para se alcançar a cura completa. Especialmente no que tange a doenças cerebrais como a epilepsia e os transtornos mentais, lamentamos que a abordagem pareça completamente equivocada.
-
-Conforme ensinamos constantemente, a epilepsia e as doenças mentais são de natureza espiritual; portanto, não haverá cura efetiva enquanto não forem solucionadas no plano espiritual. Para que se compreenda mais facilmente, é como amarrar as mãos e os pés de um menino travesso para impedi-lo de fazer suas artes. De fato, a travessura cessa momentaneamente, mas, em contrapartida, ele também fica impossibilitado de viver e agir como ser humano, o que, ao final, representa um problema ainda maior.
-
-A dedicação com que a medicina, persistentemente apegada a uma visão física e mecanicista, se esforça em progredir é, em certo sentido, louvável. Todavia, é lastimável que, em última análise, não atinja a essência da verdadeira cura. Consequentemente, enquanto a humanidade não despertar para essa verdade, não poderá ser salva.
-
-Ah, como despertar a medicina de seu equívoco? Eis, sem dúvida, a grande questão para a segunda metade do século XX.
-
----
-
-# A Teoria da Energia Espiritual
-
-**Categoria:** re | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 霊気説 | **Status:** Published
-
-## A Teoria da Energia Espiritual
-
-Em contraposição à teoria da força vital, abordada no capítulo anterior, a medicina que preconizo fundamenta-se na teoria da energia espiritual. É inegável, contudo, que entre as teses dos múltiplos eruditos ocidentais existem diversas proposições dignas de atenção. Gostaria, pois, de analisar algumas das mais notáveis.
-
-Primeiramente, Heráclito afirmava que “Tudo provém de uma unidade primordial, e sua gênese reside na força do fogo”. Ele expandiu essa ideia, postulando que “A alma dos seres vivos é constituída de um elemento ígneo e se forma ao adentrar o corpo por meio da força vital que permeia o espaço. A alma é tanto mais perfeita e elevada em sabedoria quanto maior for sua concentração de elemento ígneo e mais seca for sua natureza”, e, em contrapartida, “quanto maior a umidade e menor o elemento ígneo, mais propensa à torpeza”. Acrescentou ainda que, “para manter a atividade vital, é imperativo absorver incessantemente a força vital presente nos raios de luz e no ar, por meio dos cinco sentidos e da respiração”. Essa concepção coincide em grande parte com minha tese de que a essência da alma se origina do elemento fogo, sendo o espírito purificado rico em fogo, e o espírito impuro, rico em água. Contudo, o único ponto em que sua tese se equivoca é ao atribuir à respiração a absorção da luz e da força vital. A respiração é uma função dos pulmões, ao passo que, em minha teoria, esse processo ocorre por meio da pulsação do coração.
-
-A seguir, examinemos a contribuição de Paracelso. Ele defendia que “O universo é composto de um único elemento, informe, incolor, inaudível e imensurável, ao qual denominou matéria insondável. Nessa matéria insondável estão contidas todas as forças, manifestadas por um poder místico — a Vontade Divina —, que dá origem a todas as coisas. A origem de tudo é, portanto, a mesma; as diferenças residem apenas na forma e no modo como se manifestam”. A essa força, ele deu o nome de Arqueu. Afirmou também que “O corpo humano deve ser visto como um microcosmo, uma miniatura do macrocosmo”. Para sua época, tal postulado é de uma perspicácia notável. O equívoco em sua linha de pensamento, no entanto, foi nomear o poder divino de cura como Arcano e supor que ele estivesse contido em substâncias medicinais. Essa premissa, naturalmente, é errônea.
-
-A teoria da força vital de Descartes, por sua vez, embora padeça de certa inconsistência, merece reconhecimento por ter confirmado a existência da força vital animal.
-
-Posteriormente, no início do século XVIII, surgiu a teoria da anima de Stahl. Ele propunha que “A doença é um conjunto de fenômenos motores executados pela anima para expulsar e aniquilar as toxinas que invadiram o corpo”. Pode-se dizer que essa ideia representa um estágio imediatamente anterior à minha descoberta do processo de purificação. Também são dignos de nota seu apreço pela capacidade natural de cura no tratamento das enfermidades e sua convicção de que a anatomia era desprovida de valor.
-
-Em seguida, temos a descoberta da eletricidade animal pelo italiano Galvani. Seu legado imortal reside menos em sua intenção original e mais no desenvolvimento gradual de seu trabalho por inúmeros estudiosos posteriores, que expandiram a pesquisa até o campo da eletricidade vegetal.
-
-No alvorecer do século XIX, emergiu a teoria do magnetismo animal, e o francês [austríaco] Mesmer, que buscou aplicá-la à cura e descobriu que o magnetismo emana das palmas das mãos humanas, foi, sem dúvida, um descobridor de notável grandeza. É com profundo pesar, todavia, que testemunhamos sua obliteração pela ciência materialista que se insurgiu subsequentemente. Um fato verdadeiramente lamentável. Contudo, quanto mais a medicina era investigada pela fisiologia experimental, mais dúvidas surgiam, o que deu origem a uma nova teoria da força vital. Ainda assim, sua influência era ínfima, e o poder avassalador da ciência materialista continuou a dominar os povos civilizados até os dias de hoje, como é de conhecimento geral.
-
-Como se pode observar, até o início do século XIX, o Ocidente presenciou diversas descobertas notáveis. Embora permeado de acertos e equívocos, é inegável que se galgava os degraus do progresso, um avanço que se dava tanto no plano espiritual quanto no material. A partir de meados do século XIX, porém, o esplendor da civilização mecanicista, que emergiu de forma avassaladora, ofuscou a humanidade. Como consequência natural, as pessoas passaram a acreditar firmemente que tudo poderia ser solucionado exclusivamente pela ciência materialista. Isso resultou na abordagem do ser humano sob uma ótica puramente material, análoga à dos animais, o que se tornou o alicerce da medicina moderna. Em suma, a medicina ocidental se desviou do caminho verdadeiro, enveredou por uma senda equivocada e prosseguiu em um avanço impetuoso e cego até o presente.
-
-Portanto, enquanto a humanidade não despertar e retornar à sua senda original, os povos civilizados estarão fadados à ruína. Sobre isso, há um exemplo recente e eloquente. Trata-se de um artigo do jornal *Mainichi Shimbun*, publicado em 18 de abril de 1943:
-
-“Segundo um relatório recente do comitê de censo populacional do Reino Unido, se não forem tomadas medidas adequadas não apenas para frear, mas para reverter a taxa de crescimento populacional em declínio, a população da Inglaterra e do País de Gales, o núcleo do Reino Unido, sofrerá uma queda drástica dos atuais 41 milhões para menos de 20 milhões em sessenta anos. Essa conclusão é, em geral, corroborada pela comunidade acadêmica britânica, incluindo autoridades em demografia como William Beveridge.”
-
-Ademais, em 3 de junho de 1943, o jornal *Yomiuri-Hochi* publicou a seguinte notícia:
-
-“Os sinais da decadência do Império Britânico manifestam-se de forma gritante na taxa de natalidade”, declarou com franqueza o Ministro do Interior, Herbert Morrison, durante a cerimônia de abertura de uma exposição da Associação de Escolas de Puericultura de Londres. Suas palavras foram as seguintes: “A população atual da Inglaterra e do País de Gales é de 41 milhões, mas o número de crianças é o mesmo de 1876, quando a população era de apenas 24 milhões. Mesmo na época da Guerra dos Bôeres, havia 1,5 milhão de crianças a mais nessas duas regiões do que há hoje. Se a situação atual persistir, até o final deste século, a população do Reino Unido terá se reduzido à metade, e metade dos sobreviventes terá mais de sessenta anos. Assim, o Reino Unido perecerá. Se essa realidade não for alterada agora, os tão debatidos planos de reconstrução de longo prazo não passarão de um devaneio.” O lamento de Morrison sobre o declínio da natalidade deve ser interpretado como uma profecia do destino de sua própria nação. Afinal, tendo a presente guerra como catalisador, o fim histórico da Grã-Bretanha, revelado pela drástica queda da natalidade, já é um fato consumado.
-
-Esse prognóstico corrobora minha estimativa, apresentada na introdução desta obra, de que a ruína dos povos civilizados ocorrerá dentro de duzentos a trezentos anos.
-
-Qual seria, então, a causa desse declínio populacional no Reino Unido? Indubitavelmente, é o resultado do progresso de uma medicina equivocada. Isso porque, nos últimos tempos, o Reino Unido é reconhecido como o país civilizado com o menor índice de doenças infecciosas. Diz-se que os acadêmicos britânicos enfrentam grande dificuldade para obter amostras do bacilo da febre tifoide, pela ausência de pacientes para estudo. O baixo número de casos de tuberculose e a redução da mortalidade infantil são considerados inigualáveis no mundo. O que nos diz o fato de que, apesar da drástica diminuição de doenças infecciosas e da tuberculose, a nação enfrente um declínio populacional tão grave a ponto de soar o alarme de uma crise? O que isso revela, senão o declínio da constituição física do povo britânico e o enfraquecimento de seu poder de purificação?
-
-Observemos, agora, as políticas médico-sanitárias que o nosso Japão vem implementando. Com todos os métodos da medicina ocidental, busca-se reduzir gradualmente as doenças infecciosas e a tuberculose. Não são outra coisa senão uma repetição do método adotado pelo Reino Unido. Portanto, se essa política persistir, é certo que, em algumas décadas, as doenças infecciosas, a tuberculose e a mortalidade infantil diminuirão notavelmente, assim como ocorreu no Reino Unido. Ao mesmo tempo, é uma certeza mais clara que o fogo que o país será atormentado pelo mesmo declínio demográfico. Como mencionei anteriormente, a alta incidência atual de doenças infecciosas e tuberculose no Japão é, na verdade, um sinal de que sua vitalidade física ainda é robusta. E a razão para tal é que a vacinação em nosso país foi introduzida várias décadas depois do que no Reino Unido.
-
-Ó, mentes brilhantes que se empenham em transformar o Japão em um segundo Reino Unido, que reflexões lhes ocorrerão após a leitura deste artigo?
-
----
-
-# As Diversas Manifestações dos Espíritos
-
-**Categoria:** re | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 霊の種々相 | **Status:** Published
-
-## As Diversas Manifestações dos Espíritos
-Do livro “A Arte da Cura do Amanhã, vol. 3”, publicado em 23 de outubro de 1943
-
-A senhora M. é uma médium excepcional e me proporcionou inúmeras revelações. Dentre elas, gostaria de relatar alguns casos que considero instrutivos.
-
-Certo dia, manifestou-se o espírito de um recém-nascido. Seu choro e seus gestos eram idênticos aos de um bebê. Indaguei-lhe o motivo de sua vinda, mas, por se tratar de uma criança de colo, era-lhe impossível falar. Sem outra alternativa, pedi que escrevesse. Com o polegar, o espírito começou a traçar caracteres em hiragana sobre o tatame.
-
-Por meio de sua escrita, revelou-se que, logo após o nascimento, fora enrolado em uma esteira de bambu, atirado a um rio e morrido por afogamento. Desde então, permanecia sem amparo espiritual e suplicava para que lhe oferecêssemos ofícios religiosos. Ao consentir com seu pedido, o espírito partiu satisfeito. Presumo que tais caracteres tenham sido grafados por algum espírito do Mundo Espiritual, que guiou a mão da criança.
-
-Em outra ocasião, um espírito se manifestou, mas permanecia em absoluto silêncio, por mais que eu o interrogasse. Foi preciso recorrer a diversos métodos para que, com grande custo, eu enfim descobrisse sua identidade. Tratava-se do espírito de um pinheiro.
-
-Na véspera, o chefe da família, um funcionário do Ministério da Agricultura e Comércio — localizado à época em Kyobashi Kobikicho —, havia cortado um galho de um pinheiro do jardim do ministério. Ele o levara para casa a fim de ofertá-lo a Deus, e este era o espírito que habitava o galho. Após esgotar todos os recursos para compreendê-lo, finalmente entendi sua súplica: desejava ser enterrado em terra virgem, onde não houvesse pisada humana, e que uma oração fosse proferida em sua intenção. Prontamente, atendi ao seu desejo.
-
----
-
-# Os Fundamentos do Mundo Espiritual
-
-**Categoria:** re | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 霊界と現界 自観叢書第3編 | **Status:** Published
-
-## Os Fundamentos do Mundo Espiritual
-
-Aquele que se debruça sobre os estudos da religião, para obter uma compreensão profunda, deve, primeiramente, conhecer a relação entre o Mundo Espiritual e o Mundo Material. Isso porque o objeto da fé religiosa é Deus, uma existência de natureza espiritual e, portanto, invisível aos olhos carnais. Tentar apreender sua realidade valendo-se apenas da teoria é uma insensatez comparável a buscar peixes em uma árvore. Contudo, como Deus e as divindades existem neste mundo de forma concreta e manifesta, é igualmente impossível negar sua existência. Tal como se afigura extremamente árduo fazer um homem primitivo reconhecer a existência do ar, é natural que haja grande dificuldade em levar a maioria das pessoas de hoje a reconhecer a realidade do espírito. Nesse sentido, tomarei como premissa a tarefa de explicar, da forma mais aprofundada possível, a constituição do Mundo Espiritual e a vida de seus habitantes.
-
-Essencialmente, o ser humano é constituído por dois elementos primordiais: o corpo carnal e o corpo espiritual. Com a morte, ocorre a separação entre espírito e carne. O espírito ingressa imediatamente no Mundo Espiritual, dando início à sua nova vida. No momento dessa transição, o espírito dos extremamente virtuosos desprende-se pela fronte; o dos extremamente perversos, pelas pontas dos pés; e o da maioria das pessoas, pela região central do abdômen, próxima ao umbigo. No budismo, a morte é chamada de *ōjō* (往生), que, sob a perspectiva do Mundo Espiritual, significa “ir para nascer”. De modo análogo, no xintoísmo, os termos *kiyū* (帰幽), “retorno ao mundo invisível”, e *tenki* (転帰), “retorno por mudança”, baseiam-se no mesmo princípio.
-
-Ao se tornar um habitante do Mundo Espiritual, a alma, conforme se diz desde a antiguidade, primeiro atravessa o Rio Sanzu e se dirige ao Tribunal de Enma. Isso não é uma alegoria, mas um fato que pude constatar por meio dos relatos coincidentes de inúmeros espíritos. O Tribunal de Enma equivale a uma corte de justiça do Mundo Material. Logo após a travessia do rio, a cor da veste mortuária se altera: o branco designa aqueles com o mínimo de pecados e máculas; seguem-se, então, os tons claros, o azul, o amarelo, o vermelho e, por fim, o preto, refletindo a gravidade das impurezas de cada um. A cor púrpura, todavia, é reservada às vestes divinas. Nesse tribunal, presidido pelos deuses de Haraedo (祓戸の神) e com o auxílio de diversos oficiais do além, cada alma é submetida a um interrogatório que determinará a recompensa ou a punição correspondente aos seus atos. Os de extrema virtude são encaminhados ao Paraíso, enquanto os de extrema maldade são lançados ao Inferno. A maioria, por sua vez, é enviada ao Mundo Intermediário, conhecido como *Chūyūkai* (中有界), denominado no xintoísmo de *Yachimata* (八衢), as “oito encruzilhadas”, e no budismo de *Rokudō no Tsuji* (六道の辻), a “encruzilhada dos seis caminhos”. É nesse plano que a grande maioria das almas passa por um período de aprimoramento. A primeira etapa consiste em ouvir as preleções de instrutores espirituais. Aqueles que, por meio delas, alcançam a retificação do coração, seguem para o Paraíso; os que não o conseguem, são destinados ao Inferno. Esse período de aperfeiçoamento tem a duração aproximada de trinta anos, ao fim dos quais o destino de cada um é selado. O papel de instrutor é desempenhado por religiosos de diversas crenças.
-
-Passemos, agora, à constituição do Mundo Espiritual. Ele se organiza em três níveis principais — superior, intermediário e inferior —, sendo que cada um deles se subdivide em outros três, totalizando nove planos. O nível superior corresponde ao Paraíso; o intermediário, ao Mundo Intermediário; e o inferior, ao Inferno. O Mundo Material equivale ao Mundo Intermediário. Por essa razão, a expressão budista “Encruzilhada dos Seis Caminhos” refere-se às três vias que levam ao Paraíso e às três que conduzem ao Inferno. Já a expressão xintoísta “Oito Encruzilhadas” inclui, além dessas, o caminho para o Paraíso Supremo, no ponto mais elevado, e para o Mundo Inferior, na base.
-
-Para descrever sucintamente as características do Paraíso e do Inferno, pode-se dizer que, quanto mais se ascende ao Paraíso, mais intensas se tornam a luz e o calor, a ponto de seus habitantes viverem quase nus, como se pode observar nas representações de Budas Supremos em pinturas e esculturas antigas. Em contrapartida, quanto mais se desce ao Inferno, mais rarefeitos se tornam a luz e o calor, chegando, no nível mais profundo, a um estado de completa escuridão, ignorância e congelamento. Diante de tal sofrimento, mesmo os espíritos mais perversos e cruéis são inevitavelmente levados a se arrepender.
-
-Sei que, para o homem moderno, tais explanações podem soar fantasiosas ou inverossímeis. Contudo, o que aqui apresento é o resultado de mais de duas décadas de pesquisa e investigação, durante as quais ouvi o relato de inúmeros espíritos por meio de médiuns e de todos os outros métodos ao meu alcance. Trata-se de uma síntese de pontos convergentes obtidos a partir de um vasto número de relatos. Portanto, rogo ao leitor que receba estas palavras com a devida confiança. Estou convicto de que tanto os sermões de Shakamuni sobre o Inferno e o Paraíso quanto a *Divina Comédia* de Dante não são meras obras de ficção.
-
-Em consonância com o que foi exposto, é possível ter uma noção do destino de um espírito ao observar a fisionomia do falecido. Aqueles cujo semblante não exibe qualquer sinal de agonia, apresentando uma coloração rosada e uma aparência vívida, como se ainda estivessem vivos, destinam-se ao Paraíso. Aqueles cuja face é sombria e melancólica, com tons pálido-azulados ou amarelados — a aparência comum de um corpo sem vida —, seguem para o Mundo Intermediário. Por fim, aqueles cujo rosto expressa agonia acentuada e exibe uma coloração escura ou negro-azulada, rumam, indubitavelmente, para o Inferno.
-
-O exposto até aqui constitui o conhecimento fundamental sobre o Mundo Espiritual. A partir de agora, passarei a relatar, sucessivamente, os fenômenos espirituais que pude constatar por meio de minhas próprias experiências nas mais diversas áreas.
 
 ---
 
