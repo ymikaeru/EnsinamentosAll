@@ -668,7 +668,8 @@
 
     <div class="header">
         <h1>Busca Avançada</h1>
-        <a href="2.html" title="Voltar ao menu principal">
+        <a href="2.html" title="Voltar ao menu principal"
+            onclick="if(parent.document.querySelector('frameset')) parent.document.querySelector('frameset').cols = '400,*';">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"
                 style="vertical-align: middle; margin-right: 4px;">
                 <path fill-rule="evenodd"
@@ -722,6 +723,21 @@
                     <!-- Populated by JS -->
                 </div>
             </div>
+
+            <div class="filter-group">
+                <details open style="margin-top: 1rem; border-top: 1px solid var(--border-color); padding-top: 1rem;">
+                    <summary
+                        style="cursor:pointer; font-weight:600; color:var(--text-color); margin-bottom:0.5rem; outline:none;">
+                        Últimos Artigos Lidos</summary>
+                    <div id="historyList" class="pub-list" style="flex-direction:column; gap:0.5rem;">
+                        <!-- Populated by JS -->
+                        <div style="font-size:0.8rem; color:#999; padding:0.5rem;">Nenhum histórico recente.</div>
+                    </div>
+                    <button onclick="clearHistory()"
+                        style="margin-top:0.75rem; font-size:0.75rem; color:#888; background:none; border:none; text-decoration:underline; cursor:pointer; width:100%; text-align:left; padding:0;">Limpar
+                        Histórico</button>
+                </details>
+            </div>
         </div>
 
         <div class="results-area">
@@ -769,8 +785,15 @@
             </div>
         </div>
     </div>
-
+    <script src="scripts/favorites.js"></script>
+    <script src="scripts/publication-modal.js"></script>
+    <script src="scripts/publication-bar.js"></script>
     <script>
+        // Auto-maximize frame (hide sidebar)
+        if (parent && parent.document.querySelector('frameset')) {
+            parent.document.querySelector('frameset').cols = '0,*';
+        }
+
         let searchData = [];
         let categories = new Set();
         let publications = new Set();
@@ -1261,6 +1284,11 @@
             console.log('openModal called with item:', item);
             window.currentModalItem = item;
 
+            // Add to history
+            if (typeof HistoryManager !== 'undefined') {
+                HistoryManager.add(item);
+            }
+
             // Update add button state
             const addBtn = document.getElementById('modalAddBtn');
             if (addBtn && typeof FavoritesManager !== 'undefined') {
@@ -1704,10 +1732,52 @@
             alert(`${added} artigos adicionados a "${pub.name}"!`);
         };
 
+        // History Feature Logic
+        function renderHistory() {
+            const list = document.getElementById('historyList');
+            if (!list || typeof HistoryManager === 'undefined') return;
+
+            const history = HistoryManager.get();
+
+            if (history.length === 0) {
+                list.innerHTML = '<div style="font-size:0.8rem; color:#999; padding:0.5rem;">Nenhum histórico recente.</div>';
+                return;
+            }
+
+            list.innerHTML = history.map(h => `
+                <div class="pub-list-item" onclick="event.preventDefault(); openHistoryItem('${h.id}')" style="padding: 0.5rem; font-size: 0.85rem;">
+                    <span class="pub-list-item-name" style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="${h.title}">${h.title}</span>
+                </div>
+            `).join('');
+        }
+
+        function openHistoryItem(id) {
+            const item = searchData.find(x => x.id === id);
+            if (item) {
+                openModal(item);
+            } else {
+                alert('Artigo não encontrado.');
+            }
+        }
+
+        window.clearHistory = function () {
+            if (confirm('Limpar histórico de leitura?')) {
+                HistoryManager.clear();
+            }
+        };
+
+        // Listen for history updates
+        window.addEventListener('history-updated', () => {
+            renderHistory();
+        });
+
+        // Initial render
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(renderHistory, 500);
+        });
+
     </script>
-    <script src="scripts/favorites.js"></script>
-    <script src="scripts/publication-modal.js"></script>
-    <script src="scripts/publication-bar.js"></script>
+
 </body>
 
 </html>

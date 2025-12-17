@@ -273,3 +273,65 @@ const FavoritesManager = (function () {
 
 // Make available globally
 window.FavoritesManager = FavoritesManager;
+
+/**
+ * Reading History Manager
+ * Tracks last 20 visited articles
+ */
+const HistoryManager = (function () {
+    const STORAGE_KEY = 'mioshie_reading_history';
+    const MAX_ITEMS = 20;
+
+    function getHistory() {
+        try {
+            const data = localStorage.getItem(STORAGE_KEY);
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            console.error('Error reading history:', e);
+            return [];
+        }
+    }
+
+    function addToHistory(item) {
+        if (!item || !item.id) return;
+
+        let history = getHistory();
+
+        // Remove existing if present (to move to top)
+        history = history.filter(h => h.id !== item.id);
+
+        // Add to top
+        history.unshift({
+            id: item.id,
+            title: item.title,
+            timestamp: Date.now()
+        });
+
+        // Limit size
+        if (history.length > MAX_ITEMS) {
+            history = history.slice(0, MAX_ITEMS);
+        }
+
+        try {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(history));
+            // Dispatch event
+            window.dispatchEvent(new CustomEvent('history-updated', { detail: history }));
+        } catch (e) {
+            console.error('Error saving history:', e);
+        }
+    }
+
+    function clearHistory() {
+        localStorage.removeItem(STORAGE_KEY);
+        window.dispatchEvent(new CustomEvent('history-updated', { detail: [] }));
+    }
+
+    return {
+        get: getHistory,
+        add: addToHistory,
+        clear: clearHistory
+    };
+})();
+
+// Make available globally
+window.HistoryManager = HistoryManager;
