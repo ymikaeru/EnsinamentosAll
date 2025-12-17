@@ -198,6 +198,30 @@ def extract_dates():
                              # Clean up: " 岡田自観師の論文集 " -> "岡田自観師の論文集"
                              collection = match_collection.group(1).strip()
                         
+                        # --- Infer Content Type from Path ---
+                        content_type = None
+                        if full_path:
+                            # Normalize path for checking
+                            norm_path = full_path.replace("\\", "/")
+                            if "/kouwa/" in norm_path:
+                                content_type = "Discursos"
+                            elif "/situmon/" in norm_path:
+                                content_type = "Perguntas e Respostas"
+                            elif "/taidan/" in norm_path:
+                                content_type = "Diálogos"
+                            elif "/se/" in norm_path:
+                                content_type = "Ensaios"
+                            elif "/waka/" in norm_path or "/tanka/" in norm_path:
+                                content_type = "Poemas"
+                            elif ("search1/" in norm_path or "/search1/" in norm_path) and "English" not in norm_path:
+                                # Fallback for phonetic directories (he, mo, etc.) which are usually essays
+                                # Check if it's not one of the above first (already handled by elifs)
+                                # Since we are in an elif chain, we need to be careful.
+                                # Wait, the previous elifs handle specific folders.
+                                # If we reach here, and it is in search1, it is likely an essay.
+                                content_type = "Ensaios"
+
+                        
                         
                         match_marker = source_marker_pattern.search(search_chunk_clean)
                         if match_marker:
@@ -323,6 +347,10 @@ def extract_dates():
 
                         if collection:
                             item['collection'] = collection
+                            modified = True
+
+                        if content_type:
+                            item['content_type'] = content_type
                             modified = True
 
                         if found_source:
