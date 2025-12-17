@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Busca Avançada - Ensinamentos</title>
+    <link rel="icon" type="image/png" href="favicon.png">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
@@ -1371,8 +1372,11 @@
         }
 
         window.closeModal = () => {
+            console.log('closeModal called');
             dom.modal.classList.remove('active');
             dom.modalFrame.src = '';
+            window.currentModalItem = null;
+
             // Clear URL param
             const url = new URL(window.location);
             url.searchParams.delete('id');
@@ -1392,23 +1396,7 @@
         let currentItem = null;
         let currentViewMode = 'portuguese';
 
-        window.openModal = (item) => {
-            currentItem = item;
-            dom.modalTitle.textContent = item.title;
 
-            // Default to Portuguese (Iframe)
-            dom.modalFrame.src = item.url; // Load URL immediately
-            switchModalView('portuguese');
-
-            // Sidebar logic
-            updateModalSidebar(item);
-            dom.modal.classList.add('active');
-
-            // Update URL
-            const url = new URL(window.location);
-            url.searchParams.set('id', item.id);
-            window.history.pushState({ id: item.id }, '', url);
-        };
 
         window.switchModalView = async (mode) => {
             currentViewMode = mode;
@@ -1534,10 +1522,7 @@
             container.appendChild(grid);
         }
 
-        window.closeModal = () => {
-            dom.modal.classList.remove('active');
-            dom.modalFrame.src = '';
-        };
+
 
         // Favorite button click handler
         window.handleFavoriteClick = (e, item) => {

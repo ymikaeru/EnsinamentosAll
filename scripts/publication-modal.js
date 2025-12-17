@@ -361,6 +361,7 @@ const PublicationModal = (function () {
 
     // Open modal with article
     function open(article, callback) {
+        console.log('PublicationModal.open called with:', article);
         currentArticle = article;
         onSuccessCallback = callback || null;
         createModal();
