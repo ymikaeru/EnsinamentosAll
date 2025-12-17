@@ -959,6 +959,10 @@
                     <span id="modalFontDisplay"
                         style="font-size: 0.8rem; color: var(--text-muted); min-width: 35px; text-align: center;">16px</span>
                     <button class="btn-icon-sm" onclick="changeModalFontSize(1)" title="Aumentar fonte">A+</button>
+                    <button id="btnCopyContent" class="btn-icon-sm" onclick="copyModalContent()" title="Copiar conteúdo"
+                        style="margin-left: 10px;">
+                        📋
+                    </button>
                 </div>
                 <button class="modal-close" onclick="closeModal()">×</button>
             </div>
@@ -1029,7 +1033,23 @@
             ).join('');
 
             currentPubId = pubList[0].id;
+
+            // Check for deeplink in URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const pubParam = urlParams.get('pub');
+            const articleParam = urlParams.get('article');
+
+            if (pubParam && pubList.find(p => p.id === pubParam)) {
+                currentPubId = pubParam;
+                select.value = pubParam;
+            }
+
             loadPublication();
+
+            // Auto-open article if deeplink exists
+            if (articleParam) {
+                setTimeout(() => openArticleModal(articleParam), 300);
+            }
         }
 
         function createNewPublication() {
@@ -1140,6 +1160,12 @@
             modal.classList.add('active');
             applyModalFontSize();
 
+            // Update URL with deeplink
+            const url = new URL(window.location);
+            url.searchParams.set('pub', currentPubId);
+            url.searchParams.set('article', article.id);
+            window.history.pushState({}, '', url);
+
             // Load full content
             const fullContent = await loadFullContent(article);
             contentEl.innerHTML = fullContent;
@@ -1148,6 +1174,35 @@
 
         function closeModal() {
             document.getElementById('articleModal').classList.remove('active');
+
+            // Clear deeplink from URL
+            const url = new URL(window.location);
+            url.searchParams.delete('article');
+            window.history.pushState({}, '', url);
+        }
+
+        // Copy modal content to clipboard
+        async function copyModalContent() {
+            const title = document.getElementById('modalTitle').textContent;
+            const contentEl = document.getElementById('modalContent');
+            const content = contentEl.innerText || contentEl.textContent;
+
+            const textToCopy = `${title}\n\n${content}`;
+
+            try {
+                await navigator.clipboard.writeText(textToCopy);
+                const btn = document.getElementById('btnCopyContent');
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '✓';
+                btn.title = 'Copiado!';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.title = 'Copiar conteúdo';
+                }, 2000);
+            } catch (err) {
+                console.error('Failed to copy:', err);
+                alert('Não foi possível copiar o conteúdo.');
+            }
         }
 
         // Modal font size control
