@@ -3,8 +3,8 @@
 # Coletânea de Ensaios do Mestre Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年1月25日 | **Fonte:** 基督と自観師
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-01-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 基督と自観師 日本観音教団編纂部客員 松井誠勲 自観叢書15編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-01-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 基督と自観師
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 
@@ -500,8 +500,8 @@ Editora: Nippon Gorokunana Kyo
 # Coleção de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-08-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 霊界叢談 自観叢書第3編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-08-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 霊界叢談
 
 ## Coleção de Ensaios do Mestre Okada Jikan
 ## Discursos sobre o Mundo Espiritual (Coletânea Jikan, Volume 3)
@@ -937,8 +937,8 @@ Consequentemente, o ser humano deve constantemente acumular virtudes, reduzir se
 # Coletânea de Ensinamentos do Mestre Jikan Okada – Registro das Sagradas Palavras, nº 19
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-06-13
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録19号 | **Status:** Published | **Edição/Página:** 19号, 19号 | **Data ISO:** 1950-06-13
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Ensinamentos do Mestre Jikan Okada – Registro das Sagradas Palavras, nº 19
 Publicado em 13 de junho de 1950 (Ano 25 da Era Showa)
@@ -1410,8 +1410,8 @@ Quando falo em "hábito mental", na verdade, é o fukushugoshin (espírito prote
 # Coletânea de Artigos do Reverendo Okada Jikanshi — Registro dos Sagrados Ensinamentos, Vol. 10
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-06-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録10号 | **Status:** Published | **Edição/Página:** 10号, 10号 | **Data ISO:** 1952-06-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Artigos do Reverendo Okada Jikanshi — Registro dos Sagrados Ensinamentos, Vol. 10
 Publicado em 15 de junho de 1952
@@ -1801,8 +1801,8 @@ Exatamente. Essa é a verdadeira razão.
 # Coletânea de Teses do Mestre Jikan Okada – Registro das Divinas Orientações (Volume 6)
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-01-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録6号 | **Status:** Published | **Edição/Página:** 6号, 6号 | **Data ISO:** 1952-01-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro das Divinas Orientações (Volume 6)
 

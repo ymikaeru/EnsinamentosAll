@@ -3,8 +3,8 @@
 # Coletânea de Teses de Mestre Jikanshi Okada — Coletânea de Ensinamentos, volume 30
 
 **Categoria:** miosie | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-02-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第三十号 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-02-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses de Mestre Jikanshi Okada — Coletânea de Ensinamentos, volume 30
 
@@ -399,8 +399,8 @@ Depois do incidente de Shizuoka, parei de perguntar a Deus o que fazer. Antes, q
 # Coletânea de Artigos do Mestre Jikan Okada — Coletânea de Ensinamentos, Volume 10
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-06-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第十号 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos do Mestre Jikan Okada — Coletânea de Ensinamentos, Volume 10
 
@@ -809,8 +809,8 @@ Comecei a escrever um novo livro interessante, intitulado “Minha História”.
 # Coletânea de Artigos do Mestre Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-02-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第六号 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos do Mestre Okada Jikanshi
 ### Publicado em 25 de fevereiro de 1952 (Showa 27), na Coletânea de Ensinamentos, n.º 6
@@ -1495,7 +1495,7 @@ Seria melhor ir a uma parteira, uma mais velha. É mais confiável que o médico
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年1月25日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 Pesquisa de Ensinamentos: help / Pesquisa de Documentos: Ensinamento (25 de janeiro de 1952)

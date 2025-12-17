@@ -1,10 +1,74 @@
 # Mioshie_Teachings - Part 16
 
+# A Gripe como Bênção e a Purificação do Mundo
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年1月25日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-02-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
+
+## A Gripe como Bênção e a Purificação do Mundo
+
+A gripe tem se proliferado de maneira considerável, e os membros da nossa Igreja, por serem mais suscetíveis à dissolução das toxinas, tendem a contraí-la com maior facilidade. Por outro lado, aqueles que não estão gripados no momento não são necessariamente saudáveis; são, na verdade, pessoas cujas toxinas se encontram bem solidificadas. Indivíduos nessas condições correm um perigo maior, pois, quando o processo de purificação se iniciar, ocorrerá de forma abrupta e severa. Portanto, é preferível contrair a gripe o quanto antes, pois a manifestação será mais branda. Eis por que a consideramos algo positivo.
+
+Eu mesmo estou gripado desde o dia doze e ainda não me recuperei por completo. Geralmente, quando contraio uma gripe, ela se resolve em um ou dois dias. Neste ano, contudo, o processo se apresenta com uma intensidade peculiar, a ponto de uma noite ter sido tão penosa que me impossibilitou de trabalhar. Fora isso, minha rotina não se alterou, embora o corpo dolorido, a coriza e a tosse tenham sido bastante incômodos. Pessoas de fora da Igreja comentam: “O senhor não descansa, mesmo estando doente?”. Ao que respondo: “A gripe é uma enfermidade que, sem o uso de medicamentos, tem a sua cura como desfecho certo. Assim, não vejo necessidade de alterar meus hábitos e sigo com minhas atividades normais”. De fato, não há doença que deva ser particularmente temida; a gripe, em especial, é um processo seguro, desde que não se recorra a remédios para suprimi-la. Escrevi sobre este tema de forma bastante interessante e elucidativa.
+
+A gripe não se origina de toxinas localizadas em um ponto específico. Na verdade, as impurezas acumuladas em todo o corpo se dissolvem e são expelidas sob a forma de tosse e expectoração. No meu caso, o processo começou com uma coriza intensa, que me fez acumular uma montanha de lenços de papel. Essa secreção era, na realidade, a dissolução de toxinas de toda a região da cabeça. Após essa fase, senti a cabeça notavelmente mais leve. Percebo isso com clareza ao escrever meus artigos, pois, com a mente desanuviada, consigo trabalhar por períodos muito mais longos.
+
+Passado isso, comecei a sentir dores e um cansaço que irradiavam da cintura para as pernas. Intrigado, investiguei a causa e identifiquei um ponto de febre na parte inferior direita do abdômen, precisamente entre o apêndice e a pelve renal, que havia iniciado seu processo de dissolução. Era essa a origem da expectoração e do mal-estar. Assim que apliquei Johrei nesse local, a melhora foi imediata. É compreensível que a expectoração se origine da cabeça ou do pescoço, mas, neste caso, ela provinha da região abdominal. Eis a natureza da gripe: a febre pode surgir nos lugares mais inesperados, dissolvendo toxinas de partes do corpo das quais nem tínhamos consciência e promovendo sua expulsão. Por essa razão, a gripe é um mecanismo verdadeiramente benéfico.
+
+Por desconhecerem essa verdade, as pessoas se alvoroçam, anunciando a aquisição de dezenas de milhares de vacinas. Ocorre que a vacina atua justamente para solidificar e impedir a saída das toxinas que o organismo tenta expelir. É incalculável o grau de insensatez das pessoas ditas civilizadas, que ignoram um princípio tão elementar. Temos, portanto, o dever de educá-las, mas fazê-las compreender é uma tarefa monumental, pois estão completamente aprisionadas pela superstição.
+
+Resta a pergunta: como Deus fará com que essa gente supersticiosa compreenda? Sendo Deus, Ele possui um plano secreto, muito além da imaginação humana. Esse plano consiste na intensificação gradual do processo de purificação, a tal ponto que se tornará impossível solidificar as toxinas com medicamentos, como se fazia até agora. Atualmente, a vacina ainda consegue oferecer uma solidificação temporária, e é por isso que seu uso persiste. No entanto, quando nem mesmo esse efeito paliativo for possível, as pessoas não terão outra alternativa senão reconsiderar suas crenças.
+
+Recentemente, os jornais criaram seções dedicadas à religião, onde publicam diversos artigos sobre o tema. Nelas, figuram até mesmo as opiniões de grandes líderes religiosos, mas, ao lê-las, deparamo-nos com um conteúdo vago e sem substância. Limitam-se a repetir velhos discursos, ditos e reditos ao longo da história, sem qualquer serventia prática. É, na verdade, um desperdício de papel e de tinta.
+
+À medida que a purificação se intensificar, o mundo mergulhará em um estado de pânico e confusão, e uma situação gravíssima se instalará. Naquele momento, porém, se as pessoas conseguirem discernir e pensar: “Ah, era a isso que a Sekaikyuseikyou se referia!”, sua salvação será imensamente mais rápida. O tempo presente, portanto, é uma fase de preparação para esse porvir.
+
+Até aqui, tratei das doenças, mas outros fenômenos, como as guerras, também assumirão proporções alarmantes. Os debates atuais no Japão sobre rearmamento e paz são de uma futilidade atordoante e não levarão a lugar algum. Os socialistas e outras figuras proeminentes discursam sobre isso com grande soberba, mas suas palavras não passam de um zumbido de insetos. O que está por vir é muito mais sério: o mundo caminha para uma reviravolta completa. Na edição de Ano Novo da revista *Eiko*, publiquei um artigo intitulado “Um Conto Onírico sobre o Mundo”. Contudo, aquilo representa apenas uma parte da história. O que se seguirá é terrível demais, e, por ser demasiado cedo, abstive-me de o revelar. Pretendo, talvez, escrevê-lo na edição de Ano Novo do próximo ano.
+
+Nos desígnios de Deus, tudo já está determinado. Em linhas gerais, com o advento definitivo da Era do Dia, o Sol nascerá a partir do Leste no Mundo Espiritual, e tudo se tornará progressivamente mais claro. Sendo o Japão o país do Extremo Oriente, a luz começará a brilhar a partir daqui. Em seguida, ela se expandirá para a Coreia, a China, a Ásia Central, o Sudoeste Asiático e a Europa, iluminando gradualmente o mundo. Com o aumento da claridade, toda a imundície do passado se tornará manifesta. Há uma quantidade inimaginável de impurezas que permaneciam ocultas na escuridão da Era da Noite, e a grande limpeza de tudo isso terá início agora. Essa é a obra de Deus.
+
+Todavia, o Deus Supremo não se envolve diretamente no trabalho turbulento da purificação. Ele delega essa tarefa aos espíritos malignos. Enquanto isso, Deus observa os acontecimentos de braços cruzados, apenas a dar as diretrizes. E esse processo se manifestará no mundo material. Com o tempo, tudo se tornará claro. Por ora, digo apenas isto: a nação que sofrerá o mais severo castigo será a Grã-Bretanha. O que o Japão padeceu na guerra não será nada em comparação. Será uma situação deveras lastimável. E não apenas ela; os Estados Unidos também passarão por provações, e a União Soviética, ao final, terá um destino terrível. Quando o momento chegar, escreverei sobre esses assuntos. Por enquanto, limito-me a estas palavras. A chegada da Era do Dia significa, em sua essência, que a Luz do Oriente ascenderá gradualmente e se manifestará no mundo físico. Este é o princípio fundamental.
+
+Agora, darei prosseguimento com a leitura do próximo trecho de “O Livro da Revolução da Medicina”. A teoria geral já está delineada, mas, à medida que avançarmos, encontraremos tópicos fascinantes, sobre os quais nunca preguei anteriormente. Com a leitura completa desta obra, a compreensão sobre a natureza das doenças se tornará absoluta.
+
+---
+
+# A Aguardada Chegada do Tempo Divino
+
+**Categoria:** kouwa | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
+**Título Original:** 御講話 （S26年9月5日S） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
+
+## A Aguardada Chegada do Tempo Divino
+
+Indiscutivelmente, o próximo ano marcará o início da fase concreta de nossa Obra, o que torna a conclusão de Hakone imprescindível. Quando este local estiver finalizado, um centro terá sido estabelecido no Mundo Espiritual. Deus rege-se por uma ordem sequencial; portanto, a atitude mais prejudicial é a de forçar os acontecimentos.
+
+Nesse sentido, quando os homens traçam um plano e se deparam com dificuldades intransponíveis em sua execução, isso é um sinal para que se abstenham de prosseguir. Contudo, a tendência humana é insistir no objetivo inicial, apegando-se a ele obstinadamente. Embora essa tenha sido a norma até o presente, no Mundo do Dia, a realidade será outra. Por conseguinte, tudo o que exige um esforço extenuante deve ser evitado. Deve-se buscar o que é fácil e aprazível. O que nos causa repulsa deve ser abandonado, pois a aversão é um indicativo divino para que não avancemos. A Obra Divina deve transcorrer com a leveza e a alegria de quem entoa uma canção.
+
+Por essa razão, quando me deparo com algo que se afigura problemático, eu mesmo desisto de imediato e aguardo o tempo oportuno. Quando o momento certo chega, tudo se resolve de forma surpreendente. O mesmo se aplica a questões de terrenos. Havia uma propriedade no local destinado ao Paraíso Terrestre de Atami que eu desejava ardentemente há muito tempo. Tentamos negociar, mas era prematuro. Insistimos diversas vezes, sem sucesso. Então, decidi abandonar o assunto. Para minha surpresa, passado algum tempo, os próprios proprietários nos procuraram, indagando sobre nosso interesse.
+
+Nessa altura, a vantagem estava do nosso lado, permitindo-nos ditar as condições. Deus age de maneiras verdadeiramente sublimes. Ele havia arquitetado a situação de tal forma que o terreno em questão ficou ilhado, como um rato encurralado. Tornou-se impossível para eles vender a propriedade a qualquer outra pessoa. Ao final, não lhes restou alternativa senão rogar para que a Igreja Messiânica a adquirisse. Com isso, a proposta de compra que nos fizeram foi por um valor consideravelmente inferior ao que havíamos imaginado. Assim são os desígnios divinos.
+
+O método de Deus consiste em fazer uma tentativa. Se não surtir efeito, Ele recua e aguarda o momento propício. Aguardando, Ele próprio providencia para que tudo se encaminhe da melhor forma. Mesmo que uma situação pareça terrível ou extremamente difícil, ao deixá-la em Suas mãos, ela se resolve com uma facilidade inesperada. Há nisso uma engenhosidade divina verdadeiramente indescritível.
+
+Comigo, acontece o mesmo em relação a obras de arte. Basta que eu deseje uma peça, e, sem que eu faça esforço algum, ela subitamente chega até mim. Essa é a manifestação do poder da Joia que Realiza os Desejos, o Nyoi Hoju (如意宝珠). O termo "Nyoi" (如意) significa literalmente "conforme a vontade", ou seja, tudo ocorre exatamente como se deseja.
+
+A propósito, ocorreu um fato curioso. Certa vez, caligrafei a palavra "Nyoi" (如意) em um *kakemono* para um fiel, mas ele acabou por perdê-lo. Fiquei a refletir se seria possível que algo escrito por mim se perdesse e compreendi: o estado espiritual daquela pessoa ainda não era compatível com o poder de "Nyoi". A partir de então, decidi não mais escrever esses ideogramas. Naquela época, os espíritos malignos ainda detinham grande força e, por isso, interferiam para obstruir a manifestação do "Nyoi". Contudo, o tempo em que seu poder se manifestará plenamente já está próximo. Por ora, a concretização do "Nyoi" ainda demanda algum tempo.
+
+Alguém poderia dizer: "Quando tudo se tornar rápido, será assustador". De fato, para os iníquos, será aterrador; para os justos, todavia, será motivo de imensa alegria.
+
+Gostaria de abordar outro assunto, que já mencionei anteriormente: os artigos e ensaios publicados em nossos periódicos. Percebo que a maioria segue um mesmo padrão de escrita, o que os torna pouco interessantes. Embora os relatos de graças e milagres sejam sempre bem-vindos, seria enriquecedor se os membros também compartilhassem suas experiências pessoais e outros assuntos de seu interesse, diversificando o conteúdo. Peço que considerem esta orientação.
+
+Ademais, sinto falta de tertúlias ou mesas-redondas. Seria muito proveitoso que as realizássemos. Como sugeri recentemente, poderíamos organizar encontros para que os fiéis partilhem, uns com os outros, os milagres que vivenciaram.
+
+---
+
 # A Missão Mundial da Sekaikyuseikyou
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 関西巡教御講話 （S28年11月8日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1953-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Missão Mundial da Sekaikyuseikyou
 
@@ -50,7 +114,7 @@ Hoje, dividi minha explanação em três frentes: a América, o Havaí e o Japã
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年8月21日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-08-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## O Aumento da Graça Divina e a Conjuntura Mundial
 
@@ -108,7 +172,7 @@ Este local serve como sede provisória da Kannonkai. Recentemente, encontramos o
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S27年3月26日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Concretização do Plano Divino na Terra
 
@@ -138,7 +202,7 @@ Por fim, eu não pretendia ministrar Johrei durante o Grande Ofício, mas como m
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年11月26日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Correção do Mundo Invertido
 
@@ -180,7 +244,7 @@ A medicina atual também está invertida. As toxinas tentam sair do corpo, e ela
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年7月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年6月25日） | **Status:** Published | **Edição/Página:** 11号 | **Data ISO:** 1952-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Milagre do Museu de Arte e a Providência Divina
 
@@ -224,7 +288,7 @@ Como o tempo se esgotou, encerrarei por aqui.
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年8月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Os Venenos Acumulados nos Alimentos
 
@@ -246,7 +310,7 @@ Contudo, diferentemente dos venenos contidos nos remédios, as toxinas dos ferti
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年4月26日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Verdadeira Perspectiva Mahayana
 
@@ -312,7 +376,7 @@ Dessa forma, Deus atua em todas as frentes, utilizando os mais diversos métodos
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 関西巡教御講話 （S27年10月18日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Luz do Oriente
 
@@ -359,8 +423,8 @@ Minhas palavras se estenderam. Agradeço a atenção.
 # A Dispersão das Flores e a Vindoura Purificação Mundial
 
 **Categoria:** kouwa | **Ano:** 昭和25(1950)年8月1日 | **Fonte:** 法難手記
-**Título Original:** 御講話 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950-08-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 法難手記
+**Título Original:** 御講話 未発表、昭和25(1950)年8月1日、速記録 今日はちょうど六五日目である。 今度は非常に苦しんだ。また非常に結構なことと両方あった。苦しんだほうは、いま | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950-08-01
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 法難手記
 
 ## A Dispersão das Flores e a Vindoura Purificação Mundial
 
@@ -466,7 +530,7 @@ Jesus nasceu para a redenção. Eu nasci para a salvação, portanto, não se tr
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年10月18日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A União do Vertical e do Horizontal
 
@@ -534,7 +598,7 @@ Futuramente, estabeleceremos a forma correta de culto na Igreja Messiânica. No 
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S29年3月24日） | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Grande Transição do Mundo Espiritual e a Construção do Paraíso Terrestre
 
@@ -592,7 +656,7 @@ De agora em diante, serei eu a desempenhar o papel de Shiseisentenrōso. As divi
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S28年3月24日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Ofensiva Decisiva da Salvação
 
@@ -654,7 +718,7 @@ A sociedade está começando a reconhecer a importância do Museu de Arte de Hak
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S26年8月1日S） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Apreciação da Arte e o Discernimento
 
@@ -735,7 +799,7 @@ Aproveitei o período de desordem logo após o fim da guerra. As excelentes aqui
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御生誕祭御講話 （S27年12月23日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Grande Purificação e o Início da Nova Era
 
@@ -759,7 +823,7 @@ Outro ponto a ser observado é que, com a intensificação da purificação, apr
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 明主様御聖誕祭御講話 （S26年12月23日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Reflexões sobre a Missão Divina e a Construção do Paraíso
 
@@ -815,7 +879,7 @@ O texto que acabaram de ouvir delineia os fundamentos da organização do mundo.
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年1月27日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Dádiva da Vida e a Missão de Salvar o Mundo
 
@@ -865,7 +929,7 @@ Bem, nosso tempo se esgotou.
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年12月15日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Poder Concreto da Verdade e a Arte da Velocidade
 
@@ -895,7 +959,7 @@ A prova mais evidente disso é que as grandes religiões constroem hospitais, co
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年6月27日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Paradoxo do Desprendimento na Fé
 
@@ -955,7 +1019,7 @@ Há uma diferença fundamental entre querer ir para o Paraíso para não ir para
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年12月15日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Transição Planetária e a Manifestação da Vontade Divina
 
@@ -1004,7 +1068,7 @@ Haveria muito mais a dizer sobre este assunto, mas o tempo é curto. A partir do
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年7月15日） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Puerilidade da Ciência e a Realidade do Mundo Espiritual
 
@@ -1054,7 +1118,7 @@ Por fim, a leucorreia feminina também apresenta variações. Quando as toxinas 
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年5月16日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Diretrizes para a Construção do Paraíso e a Prática da Fé
 
@@ -1100,7 +1164,7 @@ Por fim, mais uma observação. Ao ministrar Johrei, é comum que a pessoa expec
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年10月16日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Expansão da Obra Divina e a Revolução da Agricultura Natural
 
@@ -1162,7 +1226,7 @@ Diante de tal cenário, é nosso dever intensificar a divulgação da Agricultur
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年9月16日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Grande Transição e a Missão do Japão
 
@@ -1206,7 +1270,7 @@ Neste outro, "A Razão pela qual as Obras de Arte se Reúnem", discorro brevemen
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年6月7日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Advento da Era de Miroku e a Purificação do Mundo
 
@@ -1262,7 +1326,7 @@ A compleição também revela muito. Uma pele de aparência muito ruim indica in
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年2月11日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-02-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Os Mistérios dos Três Tesouros Sagrados e a Transição para o Novo Mundo
 
@@ -1406,7 +1470,7 @@ Na nova Oração Amatsu Norito, a expressão “Daisen-sanzen-sekai” é uma in
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S26年10月5日S） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## Sobre a Purificação e a Vontade Divina
 
@@ -1444,7 +1508,7 @@ Sendo assim, quer se trate de sua vida pessoal ou da administração de uma Igre
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年2月16日） | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1954-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Conjuntura Mundial e a Fé em Deus
 
@@ -1488,7 +1552,7 @@ O autor é uma pessoa que desconheço por completo; soube de sua existência ape
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年1月7日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Revolução Civilizacional e a Missão da Igreja Messiânica
 
@@ -1536,7 +1600,7 @@ Como acabaram de ouvir, o texto é bastante incisivo. Mal posso esperar para ver
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年2月16日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Análise da Conjuntura Mundial e o Perigo das Toxinas Medicinais
 
@@ -1582,7 +1646,7 @@ Acabei saltando de um debate sobre a guerra para um assunto sobre cosméticos, m
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年10月11日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-10-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## A Natureza do Poder Absoluto
 
@@ -1628,7 +1692,7 @@ A ideia da Seicho-no-Ie de que a cura vem pela leitura de um livro é, em essên
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年4月17日 | **Fonte:** Kenko
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-04-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 健康
 
 ## O Caminho para a Verdadeira Saúde
 
@@ -1644,7 +1708,7 @@ Nesse sentido, o vegetarianismo revela-se a prática mais salutar. É, com efeit
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年8月28日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre a Ordem Divina e a Construção do Belo
 
@@ -1682,7 +1746,7 @@ Como sempre ensino, em qualquer atividade, aquilo que se refere a Deus deve ter 
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年8月1日 | **Fonte:** 紫苑
 **Título Original:** 御講話 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-08-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 紫苑
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 紫苑
 
 ## O Caminho de Kannon: O Espelho da Conduta Humana
 
@@ -1841,7 +1905,7 @@ Recentemente, li em um jornal um artigo sobre a descoberta dos raios cósmicos, 
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年12月17日） | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Purificação do Homem e a Edificação do Paraíso Terrestre
 
@@ -1886,82 +1950,6 @@ Preparações semelhantes existem em todos os países. O Palácio do Vaticano, n
 Veja o caso do Paraíso Terrestre de Atami. À medida que expandimos os muros de pedra, necessitamos de uma quantidade infindável de rochas. E essas rochas surgem, inesgotáveis. Deus, sabendo que precisaríamos delas agora, preparou-as há dezenas, centenas de milhares de anos. Da mesma forma, para que pudéssemos contemplar aquela paisagem magnífica, Ele criou a Baía de Sagami, a Ilha de Hatsushima e a Ilha de Oshima. Tudo foi preparado com essa antecedência. Diante disso, as grandes construções que existem hoje no mundo são preparativos bastante recentes.
 
 Sei que, ao dizer tais coisas, a grandiosidade e a profundidade do Plano Divino se tornam difíceis de acreditar. Contudo, quando atingirmos um certo estágio de desenvolvimento, todos compreenderão e dirão: "É verdade". Até pouco tempo, eu hesitava em falar sobre isso, pois a escala era tão vasta que as palavras me faltavam. Agora que finalmente posso falar, talvez as pessoas comecem a pensar que pode ser possível. O tempo, de fato, chegou.
-
----
-
-# A Relação entre a Arte e a Elevação Espiritual
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年6月5日） | **Status:** Published | **Edição/Página:** 11号 | **Data ISO:** 1952-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## A Relação entre a Arte e a Elevação Espiritual
-
-Conforme podem observar, os andaimes do Museu de Arte já foram removidos. Embora ainda haja trabalhos externos a serem feitos, como diversas estruturas e a ponte de acesso para veículos, a aparência externa do edifício principal está praticamente concluída. A celeridade da obra é notável, algo que todos comentam. Creio ser improvável que exista outra construção com um ritmo tão acelerado.
-
-A razão para tal progresso reside no fato de que quase todos os profissionais envolvidos na construção tornaram-se membros de nossa Igreja. Somam-se a eles as equipes de dedicação, que trabalham com afinco. Em suma, diferentemente de uma obra comum, esta é erigida por fiéis que empregam genuína sinceridade e fervor em cada etapa, tornando a rapidez uma consequência natural. Contrariamente ao que se poderia supor, a agilidade não comprometeu a qualidade; pelo contrário, o trabalho foi executado com esmero. Uma simples observação confirma a excelência do resultado.
-
-Mesmo em seu interior, o museu se distingue consideravelmente dos que existem no mundo. Percebe-se nele uma certa nobreza, um sabor especial. Na arquitetura, o que define uma obra como boa ou ruim é o esmero e a atenção investidos, que lhe conferem essa profundidade, esse “sabor”. Uma obra assim nunca cansa o olhar. É algo que se compreende não pela lógica, mas pela sensação. Por isso, quando adentro o museu, mesmo antes de qualquer peça ser exposta, sinto esse deleite. A atmosfera é tão agradável que tenho vontade de permanecer ali por tempo indeterminado, e as horas passam sem que eu perceba. É um aspecto verdadeiramente fascinante.
-
-Planejamos iniciar a disposição das peças por volta do dia dez. Essa tarefa, contudo, não será meramente convencional ou aleatória; haverá um profundo significado tanto na seleção quanto no arranjo das obras. Um pergaminho ou uma pintura deve estar em harmonia com a peça ao seu lado. Uma disposição descuidada comprometeria o deleite da apreciação, especialmente considerando a imensa variedade de traços, desde os mais rústicos aos mais delicados, a diversidade de cores e as pinturas em sumi. A curadoria, nesse sentido, é uma arte em si.
-
-No mundo profano, entretanto, nota-se uma grande indiferença a esses pormenores. Isso ocorre porque, em geral, a tarefa é executada por funcionários que a encaram como uma mera obrigação, resultando em muitas exposições com arranjos bastante inadequados.
-
-A esse respeito, redigi um breve artigo sobre meu método para realizar as coisas com celeridade. Acredito que possa ser de grande valia, por isso pedirei que o leiam agora.
-
-(Leitura do artigo: “Minha Forma de Pensar”, publicado na revista Eiko, nº 162)
-
-Esse princípio se aplica a todas as coisas. No caso do Johrei, por exemplo, ao ministrá-lo por trinta minutos ou uma hora, é mais eficaz fazer uma pausa para renovar a disposição espiritual em vez de prosseguir continuamente. Muitas vezes, ao nos esforçarmos intensamente para encontrar um ponto vital, não o encontramos. No entanto, ao relaxar e desviar a atenção por um momento, a solução frequentemente se revela. Isso se deve a essa alternância, que é extremamente benéfica.
-
-Quando uma tarefa flui sem percalços, ótimo. Todavia, ao me deparar com um impasse, uma dúvida ou uma falta de clareza, abandono-a completamente e me dedico a outra atividade. Frequentemente, a solução para a questão anterior surge justamente nesse intervalo. Por isso, procuro não me dedicar a uma única tarefa por um longo período. Atualmente, é raro que eu trabalhe em algo por mais de uma hora. Seja ao caligrafar os Ohikari ou ao escrever, geralmente limito-me a uma hora. Após esse tempo, a eficiência diminui e a qualidade do trabalho decai. O mesmo se aplica às diversas orientações que ofereço, que duram de trinta minutos a uma hora. Ao alternar constantemente as atividades, consigo que cada uma delas seja executada com um bom nível de excelência. Embora possa parecer um detalhe insignificante, essa prática tem um impacto profundo na produtividade.
-
-Da mesma forma, ao ponderar sobre um assunto, insistir nele em demasia acaba por nos confundir. Portanto, pensar excessivamente é um erro. O ideal é refletir brevemente sobre algo; se uma ideia clara não surgir, deve-se deixar o assunto de lado e ocupar-se com outra coisa. As boas ideias surgem num lampejo, de forma instantânea; não são fruto de um esgotamento mental.
-
-As reuniões são um exemplo clássico. É comum ouvirmos falar de encontros que duraram horas, mas raramente uma boa deliberação advém de tal prática. Certa vez, adverti os dirigentes de nossa Igreja que haviam se reunido por três ou quatro horas, dizendo-lhes que aquilo era um equívoco. Uma reunião deve durar, no máximo, trinta minutos ou uma hora. Se nenhuma solução aparecer nesse intervalo, é melhor encerrá-la. A resposta correta é sempre única; não existem três ou quatro boas soluções, apenas uma. Toda essa celeuma ocorre justamente porque essa única resposta não foi encontrada.
-
-Observamos o mesmo em assembleias e reuniões parlamentares, onde se debate exaustivamente uma única questão. Eles o fazem porque não conseguem encontrar a solução correta, e não a encontram porque suas mentes são deficientes. Uma mente ineficiente é uma mente obscurecida. E esse obscurecimento se deve, nas pessoas de hoje, ao uso de medicamentos, que impedem o surgimento de pensamentos lúcidos.
-
-É bastante interessante ouvir os debates políticos transmitidos pelo rádio. Reúnem-se diversas personalidades do cenário político e discutem um mesmo tema, cada qual com sua lógica, convencido de que sua própria razão é a melhor. Ao comparar seus argumentos, percebe-se que, no final das contas, um deles é superior ao outro. Contudo, eles mesmos são incapazes de discernir qual é o melhor. Cada um defende sua posição com tamanho fervor que a discussão parece prestes a se transformar em uma briga. O rádio não nos permite ver, mas se fosse pela televisão, isso ficaria evidente. Não é um debate, é uma altercação. Tais cenas revelam que o intelecto dessas pessoas não é digno de louvor.
-
-Desse modo, gastam tempo e energia em vão. O parlamento vive adiando suas sessões por questões irrelevantes. Os parlamentares parecem dispor de um tempo ocioso considerável. Toda essa agitação em que se envolvem é, em certo sentido — e digo de forma pejorativa —, um passatempo. Debater e argumentar parece ser algo que lhes apraz. Uma verdadeira afronta aos cidadãos. O mais premente para as pessoas de hoje é aprimorar suas mentes.
-
-Nesse aspecto, os políticos do início da Era Meiji talvez fossem mais inteligentes. Eram mais inteligentes porque havia mais sinceridade em seu tempo. Um argumento que nasce da sinceridade é sempre bom. A estranheza de seus argumentos provém de sua impureza. O exemplo mais curioso são as opiniões que vêm do Partido Comunista. Elas parecem muito lógicas, mas, na verdade, não o são. Nos debates e mesas-redondas sobre a situação atual transmitidos pelo rádio, percebe-se que os indivíduos de inclinação comunista apresentam raciocínios que carecem de coerência. Embora eles próprios acreditem estar certos e se esforcem em suas argumentações, ouvi-los é, francamente, um disparate. Isso se deve, provavelmente, à ausência de sinceridade. Palavras proferidas com um sentimento verdadeiro pela nação, pela sociedade e pela felicidade do povo inevitavelmente ressoam e comovem as pessoas.
-
-Desviei-me do assunto principal, mas, em última análise, tudo se resume ao funcionamento da mente humana. É dela que emana o que costumamos chamar de sabedoria (智慧). No budismo, Shakyamuni deu enorme importância a esse conceito, o que é algo muito positivo. O budismo fala em atingir a iluminação por meio da sabedoria, e Shakyamuni é chamado de “o Iluminado” (覚者), aquele que alcançou a iluminação. Uma pessoa iluminada manifesta grande sabedoria. Grandes monges, por exemplo, são chamados de detentores da grande sabedoria (大智). Para alcançar tal sabedoria, é preciso ter uma mente clara. E para aprimorar a mente, é fundamental aplicar o princípio da alternância mental que acabo de mencionar. Assim, a mente se torna extremamente aguçada. Foi sobre isso que falei.
-
-Recentemente, celebramos a redução da tuberculose pela metade e escrevi um breve texto sobre o assunto.
-
-(Leitura do artigo: “Sobre a Comemoração da Redução da Tuberculose pela Metade”, publicado na revista Eiko, nº 161)
-
-A propósito, meu livro “A Terapia da Fé para a Tuberculose” já foi finalizado e enviado para a gráfica. Pretendo distribuí-lo o mais amplamente possível nos círculos médicos, tanto no Japão quanto no mundo. Creio que sua leitura servirá para despertar algumas consciências. É uma obra bastante contundente. Nele, descrevo minuciosamente a causa primordial das doenças, que reside na própria medicina. Imagino que muitos ficarão chocados.
-
-Contudo, creio que será impossível refutá-lo ou contra-argumentá-lo, pois o texto está solidamente fundamentado em exemplos práticos. Eles não poderão permanecer em silêncio. Haverá médicos no Japão que ficarão perplexos, e a comunidade médica internacional certamente não poderá ignorá-lo. Não é minha intenção causar alvoroço, mas é imprescindível que a humanidade compreenda a verdade sobre a doença. A erradicação da doença da face da Terra é o alicerce do Paraíso Terrestre, do Mundo de Miroku. Para isso, é necessário esclarecer toda a humanidade de forma definitiva. Esta obra é, portanto, o primeiro disparo nessa empreitada. Acredito que a reação não será branda. Estou preparado para a resposta que vier e já tenho o próximo passo em mente. Pelo menos no Japão, que está sob nossa influência direta, a resposta será mais rápida. Eventualmente, eles terão que vir nos procurar ou tomar alguma providência.
-
-Observando a situação mundial, é impossível ficar de braços cruzados. Veja-se o caso da hidrazida, que recentemente causou um grande alarde como se fosse uma substância milagrosa. Governos de vários países demonstraram interesse e solicitaram que seus médicos a testassem. Essa dependência cega de medicamentos, cirurgias ou qualquer nova descoberta é sintomática de uma superstição médica generalizada. É preciso demolir essa crença. Embora consigam iludir as pessoas por mais algum tempo, a purificação se intensificará gradualmente. Inevitavelmente, virá uma era em que as doenças aumentarão de forma drástica. Se esperarmos até lá para agir, o número de vítimas será imenso. Por isso, é necessário emitir um alerta desde já.
-
-Neste ano, a disenteria tem apresentado uma tendência de aumento significativo, a níveis não vistos em décadas. Mas isso não é nada. Em breve, veremos surtos que não apenas quebrarão recordes, mas superarão em dezenas de vezes o que já foi visto. Nesse momento, as pessoas finalmente compreenderão que o que a Igreja Messiânica vinha dizendo era verdade. Então, elas virão em massa se tornar membros. Por enquanto, estamos nos preparando para essa época. Quando ela chegar, haverá uma enorme necessidade de pessoas capazes de curar e de ensinar a verdade. Deus está, neste momento, preparando essas pessoas. Os membros atuais são precisamente esses indivíduos. E, assim como na medicina existem doutores, clínicos gerais e médicos de vilarejo, esforcem-se ao máximo para se tornarem “doutores” em nossa fé.
-
-Está em cartaz em Ueno a tão comentada “Exposição Internacional de Arte”. É um evento de grande valor, pois reúne obras de artistas de todo o mundo. Países como Japão, Estados Unidos, Inglaterra, França, Itália, Brasil e Bélgica estão representados; a Alemanha, ao que parece, não participou. Foram selecionadas pinturas a óleo de cada nação. Contudo, a estranha enfermidade que acomete a arte moderna persiste incurada. A mentalidade equivocada que leva à criação de doenças pelo uso de medicamentos e à redução da produção agrícola pelo emprego de fertilizantes parece manifestar-se de forma análoga no campo das artes. As pinturas a óleo, em sua maioria, são simplesmente esquisitas.
-
-Dentre os artistas mais aclamados estão os franceses Rouault e Braque. Ao contrário de Matisse e Picasso, que buscam incessantemente a novidade, esses dois são mais contidos, com obras que tendem a um estilo mais clássico. No entanto, sob um olhar estético apurado, seus trabalhos são irrelevantes. Rouault, por exemplo, é muito celebrado, mas sua obra ainda não adentrou o domínio da arte. Permanece no nível do artesanato. Esses artistas ainda não compreendem o que é a arte. No Japão, também há muitos pintores assim.
-
-Ao comparar as obras de todo o mundo, o Japão se destaca como o melhor. Essa parece ser uma opinião corrente, e de fato é verdade. Embora a pintura a óleo japonesa seja, em certo sentido, discípula da ocidental, ela a supera em qualidade. A pintura japonesa exibe uma vitalidade singular, um frescor juvenil. Em contrapartida, a arte francesa e a inglesa parecem exauridas, como se tivessem ultrapassado seu tempo, carecendo quase que por completo de vigor e demonstrando um estado de estagnação. A pintura francesa, apesar de muito elogiada, é fraca em sua totalidade, desprovida de força e do que se poderia chamar de volume. Nesse aspecto, o Japão é inigualável. Pode-se afirmar, sem hesitação, que os japoneses são um povo com uma aptidão excepcional para as artes no cenário mundial.
-
-A propósito, adquiri recentemente uma pintura de Miyamoto Musashi. Trata-se de uma pintura de Daruma, e sua qualidade é tamanha que me deixou assombrado. Ela se equipara, sem dúvida, às obras de mestres chineses da Dinastia Song, como Muqi ou Liang Kai. Pretendo exibi-la no museu. Sua caligrafia também é magnífica. O estilo se assemelha ao de Ikkyu, mas talvez seja até superior. Comparado a ele, Takuan fica muito aquém, embora Musashi tenha sido seu discípulo. A caligrafia de Musashi é muito superior à de Takuan.
-
-Isso nos mostra que, quando um mestre de artes marciais atinge o ápice de sua arte, ele alcança um nível de excelência que se reflete em outras áreas. Ao se tornar um mestre em uma disciplina, outras habilidades se desenvolvem em paralelo. Tenho em minha coleção uma obra de um famoso monge chinês da Dinastia Song chamado Xutang, uma pintura de Kannon (観音) de uma beleza extraordinária, talvez até superior à sua caligrafia. É improvável que ele tenha tido muito treinamento formal em pintura. Quando alguém atinge um alto nível de maestria na caligrafia, significa que sua alma se elevou através da prática ascética. Para tal pessoa, escrever ou pintar resulta no mesmo nível de excelência.
-
-Como sempre digo, o ápice da arte oriental se deu na China, durante as dinastias Song e Yuan. Ao chegar à Dinastia Ming, a qualidade decai drasticamente, o que é um mistério. Os grandes pintores da Dinastia Song eram, na sua totalidade, monges, como o monge Muqi e o mestre zen Liang Kai. Adquiri recentemente uma obra do período das Cinco Dinastias, um pouco anterior à Song, de um artista chamado Xu Xi, cuja habilidade é espantosa. Quando a expuser no museu, os pintores de hoje ficarão certamente ofuscados. Atualmente, muitos se perdem imitando a arte ocidental de má qualidade ou mesmo as vertentes confusas da pintura japonesa, provavelmente por não terem a oportunidade de contemplar as obras dos grandes mestres do passado. É, portanto, imperativo que lhes mostremos o que é a verdadeira arte. O novo museu terá esse propósito: exibir as obras-primas de mestres chineses e japoneses. Creio que isso servirá de grande estímulo não apenas para os artistas, mas também para elevar o discernimento estético do público em geral. É essencial contemplar o que é bom, pois só assim se aprende a distinguir o bom do ruim. Como as pessoas estão acostumadas a ver apenas obras medíocres, seu padrão de julgamento está rebaixado. Eu, que estou constantemente em contato com o que há de melhor, ao visitar a “Exposição Internacional de Arte”, não senti prazer ou vontade de apreciar. Senti, sim, indignação e pena. Fui não para apreciar a arte, mas para me exasperar com ela. Pode parecer ridículo, mas é a verdade. Se mostrarmos obras de verdadeira qualidade a essas pessoas, creio que será um estímulo poderoso, capaz de mudar suas mentalidades.
-
-No Japão, temos o pintor a óleo Umehara Ryuzaburo, que agora se dedica a projetos culturais. Ele é, provavelmente, o maior mestre japonês da atualidade. É um grande apreciador de caligrafias, pinturas e antiguidades, talvez até mais do que eu. Ele vende suas pinturas para adquirir mais peças para sua coleção. É algo impressionante. Por agir assim, sua obra é verdadeiramente excepcional. Exibiremos um de seus quadros. Há algo de diferente nele, um volume extraordinário que o torna imponente e cativante, distinto das demais pinturas a óleo contemporâneas. O público reconhece seu valor, e por isso suas obras são as mais caras e se esgotam assim que são postas à venda. Há outro pintor, Yasui Sotaro, cujas obras, francamente, não me agradam.
-
-Isso demonstra que aqueles que apreciam a arte clássica, como Miyamoto Musashi, possuem um diferencial. O mesmo se aplica aos romancistas. Yoshikawa Eiji, por exemplo, sempre foi assim. Há trinta anos ele gasta tudo o que ganha comprando antiguidades, e hoje possui uma coleção notável. Acredito que isso exerça uma grande influência em sua obra. Imagino que Yoshikawa Eiji e Tokugawa Musei desejariam ardentemente a pintura de Musashi que adquiri. Nela, Musashi assina como “Niten”.
-
-Possuo também um Tesouro Nacional: uma famosa pintura de uma rinha de galos. O fato de ser um Tesouro Nacional já atesta sua qualidade. Além disso, as obras de Musashi são extremamente raras. Há muito tempo eu desejava uma, e estou imensamente feliz por ter adquirido esta obra-prima.
-
-Entre os escritores que apreciam a arte clássica, destacam-se Kawabata Yasunari e Osaragi Jiro. Entre as mulheres, Yoshiya Nobuko. Aqueles que têm esse apreço alcançam a grandeza em suas respectivas áreas. Isso demonstra que nutrir a mente com a arte clássica exerce uma influência positiva sobre outras atividades. O maior exemplo nesse sentido é Hideyoshi. Desde jovem ele foi um grande apreciador de arte, e o fato de colecionar peças mesmo durante as batalhas é algo assombroso.
-
-Portanto, do ponto de vista da fé, a contemplação de tais obras tem como propósito fundamental a elevação da alma, o aprimoramento de seu nível espiritual. Por essa razão, a existência de um museu de arte é uma necessidade também do ponto de vista religioso.
 
 ---
 

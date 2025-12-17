@@ -3,8 +3,8 @@
 # sosyo12
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-01-30
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 自観説話集 自観叢書12編 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1950-01-30
+**Coletânea:** Coleção de Ensaios do Mestre Jikan Okada | **Tipo:** - | **Fonte (JP):** 自観説話集
 
 ――― Coleção de Ensaios do Mestre Jikan Okada ―――
 Coletânea de Discursos de Jikan
@@ -491,8 +491,8 @@ Editora: Nippon Goroku-shichi Kyo
 # sosyo04
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-10-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 奇蹟物語 自観叢書第4編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-10-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 奇蹟物語
 
 --- Coletânea de Ensaios do Mestre Okada Jikan ---
 ## Relatos de Milagres
@@ -1283,8 +1283,8 @@ Editora: Nijuseiki Shuppan Insatsu Goshi Gaisha
 # O que é a Medicina?
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu第二篇
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 明日の医術第二篇
 
 ## O que é a Medicina?
 

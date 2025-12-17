@@ -3,8 +3,8 @@
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年 | **Fonte:** 岡田自観氏の横顔
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 怪物か聖者か 岡田自観氏の横顔 自観叢書第6編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 岡田自観氏の横顔
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 
@@ -442,7 +442,7 @@ Ah, aniquilação ou paz! Não estamos agora na véspera do fim do mundo, o per�
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 Coletânea de Teses do Mestre Jikan Okada
 
@@ -592,8 +592,8 @@ Mencionarei agora outro erro desta ciência da nutrição. As pessoas modernas e
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年8月10日 | **Fonte:** 或る日の公判スケッチ
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-08-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 或る日の公判スケッチ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 或る日の公判スケッチ
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 ## Um Esboço de Certo Dia no Tribunal
@@ -708,8 +708,8 @@ Editora: Suginami Shobo
 # joreiho3
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年10月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-10-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 （三） | **Status:** Published | **Edição/Página:** 3号, 28号, P.5, 28号, P.13 | **Data ISO:** 1954-10-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 Coletânea de Teses do Mestre Okada Jikanshi
 Curso sobre o Johrei (III)
@@ -1063,7 +1063,7 @@ O Johrei é, em essência, uma atividade de embelezamento. É o ato de purificar
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年10月10日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-10-10
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** Coletânea de Teses do Mestre Okada Jikan | **Tipo:** - | **Fonte (JP):** -
 
 ――― Coletânea de Teses do Mestre Okada Jikan ―――
 Manual de Aprimoramento
@@ -1779,7 +1779,7 @@ A seguir, uma breve explicação sobre doenças específicas.
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada
 
@@ -1961,7 +1961,7 @@ Eu nunca desejei me tornar um grande sábio ou um messias, porque nunca me consi
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## O Desígnio da Criação do Museu de Arte
 

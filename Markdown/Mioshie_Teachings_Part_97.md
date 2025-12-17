@@ -3,8 +3,8 @@
 # PALESTRA DO FUNDADOR DA SEKAI KYUSEI KYO (O Que É a Verdadeira Civilização — Palestra proferida no Salão Público de Hibiya, Tóquio, inédita, 22 de maio de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## PALESTRA DO FUNDADOR DA SEKAI KYUSEI KYO (O Que É a Verdadeira Civilização — Palestra proferida no Salão Público de Hibiya, Tóquio, inédita, 22 de maio de 1951)
 
@@ -1452,7 +1452,7 @@ A base da nutrição é o espírito do alimento que comemos, mas
 
 **Categoria:** kanren | **Ano:** 昭和33年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1958
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## A Obra da Salvação (O Livro da Saúde)
 
@@ -1468,7 +1468,7 @@ A presente obra compila sessenta e oito veneráveis Ensinamentos, com foco primo
 
 **Categoria:** kanren | **Ano:** 昭和30年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas
 
@@ -1486,7 +1486,7 @@ Editora: Shizen Noho Sha
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas - Mestre Nakajima Issei: Sua Fé e sua Vida - por Asō Etsushi
 
@@ -1899,8 +1899,8 @@ Existem também registros das palavras de Meishu-Sama ao receber a notícia do f
 # A Rizicultura em Doze Meses
 
 **Categoria:** kanren | **Ano:** 昭和30年1月1日 | **Fonte:** 稲作十二カ月
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-01-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 稲作十二カ月 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1955-01-01
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 稲作十二カ月
 
 ## A Rizicultura em Doze Meses
 Publicado em 1º de janeiro de 1955

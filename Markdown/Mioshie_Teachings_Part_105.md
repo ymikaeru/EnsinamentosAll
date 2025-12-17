@@ -4,7 +4,7 @@
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年9月15日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de artigos do Reverendo Jikan Okada
 
@@ -70,8 +70,8 @@ Enquanto isso ocorre em uma frente, na outra temos a medicina. A medicina está 
 # miosie04
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-12-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第四号 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
+**Coletânea:** Coletânea de Teses do Mestre Jikan Okada | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ――― Coletânea de Teses do Mestre Jikan Okada ―――
 Coletânea de Ensinamentos, nº 4, publicada em 15 de dezembro de 1951
@@ -707,8 +707,8 @@ E, sobre o problema da BCG, o jornal publicou um caso interessante de uma aldeia
 # Coleção de Teses do Mestre Okada Jikanshi
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第十二号 | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coleção de Teses do Mestre Okada Jikanshi
 ### Coletânea de Ensinamentos, Número 12
@@ -1134,7 +1134,7 @@ Por ora, é só.
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月15日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento de 15 de março de 1952 (Coletânea de Ensinamentos, vol. 8)
 
@@ -1205,7 +1205,7 @@ Mas deixemos essa conversa por aqui. Agora, algo um tanto interessante.
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年9月11日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Onze de setembro de 1951
 
@@ -1248,8 +1248,8 @@ De agora em diante, assim como temos a Agricultura Natural, passaremos a denomin
 # Coleção de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, Edição 13 (Publicado em 25 de setembro de 1952)
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第十三号 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coleção de Teses do Mestre Okada Jikan – Coletânea de Ensinamentos, Edição 13 (Publicado em 25 de setembro de 1952)
 

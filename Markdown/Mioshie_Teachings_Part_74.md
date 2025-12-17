@@ -3,8 +3,8 @@
 # Registro de Ensinamentos (Suplemento)
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年8月15日 | **Fonte:** Hikariは大地に
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 光は大地に 麻生 鋭 著 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1954-08-15
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 光は大地に
 
 ## Registro de Ensinamentos (Suplemento)
 
@@ -1592,7 +1592,7 @@ Os que têm mais apego a este mundo nascem mais rápido... Há pessoas que se al
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-01-01
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Jikan Okada – Salvar a América (Publicado em 1º de janeiro de 1953)
 

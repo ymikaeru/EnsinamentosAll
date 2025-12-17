@@ -1,10 +1,416 @@
 # Mioshie_Teachings - Part 45
 
+# Um Apelo à Consciência Nacional
+
+**Categoria:** ko | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 此事実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
+
+## Um Apelo à Consciência Nacional
+
+Gostaria de discorrer sobre a forma como a nossa terapêutica vem atualmente contribuindo para a Nação. Embora eu não me dedique mais diretamente aos tratamentos, os inúmeros terapeutas e discípulos por mim formados em todo o país dedicam-se com afinco e esmero à nobre missão de curar as enfermidades e, assim, servir à Pátria.
+
+Os exemplos de sua eficácia são tão numerosos que seria impossível enumerá-los. Pessoas desenganadas por grandes hospitais ou tidas como casos perdidos por médicos renomados, ao se verem diante da morte, experimentam a alegria de uma verdadeira ressurreição. Portadores de moléstias crônicas ou de deficiências, que já haviam se resignado a uma vida de sofrimento, são restaurados a uma condição de plenitude. Pais que, mergulhados no mais profundo desespero pela iminente perda de um filho, veem sua vida ser salva em curto espaço de tempo, sentindo-se novamente abençoados.
+
+Neste grave momento histórico que atravessamos, anseio por retribuir, ainda que minimamente, a benevolência imperial, e as linhas que se seguem são uma pequena manifestação desse sincero desejo.
+
+São inúmeros os casos de militares do Exército e da Marinha que desempenham missões cruciais para o país — oficiais de alta patente, como generais, coronéis e capitães, bem como veteranos de guerra feridos em combate —, cujas graves e complexas enfermidades, assim como as de seus familiares, foram completamente curadas, permitindo-lhes servir com tranquilidade e saúde plena. O mesmo ocorre com ministros de Estado e outras autoridades de igual escalão, com executivos e engenheiros de indústrias estratégicas e com os obreiros que batalham na frente de produção. O número de pessoas que atuam em setores vitais da sociedade e que recuperaram ou estão recuperando a saúde por meio desta terapêutica é incontável.
+
+Em outras palavras, poderíamos afirmar que nossa terapêutica está, efetivamente, "gerando" novos pilares para a Nação, pois, sem o conhecimento dela ou a oportunidade de recebê-la, essas pessoas certamente teriam perdido a vida. Embora a vinda de recém-nascidos ao mundo seja fundamental, é dispensável salientar a importância ainda maior de "gerar" adultos plenamente capacitados para enfrentar os desafios da conjuntura atual. Estou convicto de que, na presente e tensa situação, não há nada mais urgente para o país do que o reconhecimento deste fato pelas autoridades, o mais brevemente possível.
+
+Todavia, o que se observa na prática é que as autoridades vêm oprimindo severamente as terapias alternativas, um fato profundamente lamentável, que talvez se deva ao completo desconhecimento de seus efeitos concretos. Evidentemente, sob um sistema de saúde pública cujas leis se baseiam na medicina ocidental, é natural que as terapias alternativas sejam relegadas a uma posição secundária. O problema é que, muitas vezes, as autoridades se escudam em leis contra a obstrução da prática médica para vigiar o menor deslize e impor penalidades. Como resultado, os terapeutas vivem em um estado de constante apreensão.
+
+Ah, a despeito de prestarmos tão assinalados serviços à Pátria, eis a lamentável condição a que somos submetidos. Onde, então, reside a culpa? Gostaria de submeter esta questão à reflexão dos homens de discernimento. Diante disso, sinto ser meu dever inadiável instar as autoridades a um despertar.
+
+Creio firmemente que, ao abandonar as concepções egoístas e limitadas e adotar uma perspectiva ampla e altruísta, tanto as autoridades quanto os próprios médicos deveriam se dispor a experimentar os efeitos de nossa terapêutica e de todas as outras práticas congêneres.
+
+Quanto antes o fizerem, maior será o benefício para a Nação. Disso não tenho a menor dúvida.
+
+---
+
+# O que este fato nos revela
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 世界Kyusei教奇蹟集
+**Título Original:** この事実は何を物語るか | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-09-10
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 世界救世教奇蹟集
+
+## O que este fato nos revela
+
+Como sempre afirmo, a distinção entre a medicina e o Johrei é de uma clareza inequívoca, e o relato a seguir ilustra magnificamente este fato. Trata-se de um acidente ocorrido em ambiente escolar, e tanto a conduta das autoridades da instituição quanto o procedimento médico adotado foram, sob a égide do sistema vigente, irrepreensíveis. A razão para tanto é simples: a magnífica eficácia do Johrei, a tal ponto que se torna incomparável à da medicina, é um fato inteiramente desconhecido por eles, o que torna sua atitude compreensível. Este episódio, por si só, evidencia a urgência de que o valor do Johrei de nossa Igreja seja amplamente reconhecido pela sociedade. Que esse dia chegue o mais breve possível.
+
+**A Cura de uma Lesão Ocular por meio do Johrei, Mediante um Termo de Responsabilidade**
+
+*Província de Saga, Igreja Kohō*
+*Hinowatari Zen’emon (45 anos)*
+
+É com profundo respeito e gratidão que apresento este relato.
+
+Minha esposa e eu tivemos a permissão de ingressar na fé em abril e julho de 1946, respectivamente. Desde então, nossa família vive sem depender de médicos ou medicamentos, e temos sido abençoados com inúmeras graças, pelas quais devotamos nossos dias em sincera gratidão. Agradeço-lhe imensamente, Meishu-Sama.
+
+O fato que passo a narrar ocorreu no dia doze de outubro do ano passado. Minha filha mais velha, Mikano, que atualmente cursa o segundo ano do ensino secundário, sofreu uma lesão no olho esquerdo na escola, vítima da travessura de um colega. Ela se queixava de tanta dor que não conseguia sequer abrir o olho.
+
+Ministrei-lhe Johrei pela manhã e à noite e, em seguida, descemos à cidade para que ela pudesse receber Johrei no Johrei Center de Aioi. Contudo, antes de nos dirigirmos ao centro, julguei prudente ir à escola para justificar sua ausência e solicitar maior atenção dos responsáveis. Lá, acompanhado de minha filha, procurei o professor para uma conversa.
+
+Após alguns minutos de diálogo, ficou claro o que havia ocorrido: um pequeno elástico fora usado para atirar um pedaço de papelão de aproximadamente três milímetros quadrados, que a atingiu diretamente no olho. O professor mostrou-se extremamente preocupado e sugeriu que seria melhor levá-la a um médico. O responsável pela saúde escolar a acompanhou ao hospital, pedindo que eu aguardasse um momento.
+
+Depois de conversar com outros professores, fui também ao hospital para ouvir o parecer do médico. O diagnóstico foi alarmante: o globo ocular fora atingido, a pupila estava dilacerada, havia febre e um sério risco de infecção. A recomendação foi de internação por uma semana, sob a advertência de que, caso contrário, ela poderia perder a visão. Imediatamente, aplicaram-lhe um colírio.
+
+Em consequência disso, a dor, que até então havia diminuído, intensificou-se de forma abrupta, a ponto de ela não conseguir mais abrir o olho. Como eu não tinha a menor intenção de interná-la, declarei ao médico: "Cuidarei dela em casa, por favor, permita-nos ir embora". O médico, muito apreensivo, insistiu na internação, argumentando que não seria por muito tempo, mas recusei firmemente e, por fim, conseguimos sair do hospital e nos apressamos em direção à Igreja.
+
+Ao chegarmos, soubemos que o Reverendo Inuzuka encontrava-se em visita à Sede de Tosu, mas fomos recebidos por seus assistentes. Relatamos-lhes o ocorrido e, diante da imagem de Kōmyō Nyorai (光明如来様), pedi perdão por qualquer falha e roguei por Sua proteção. Após recebermos Johrei, retornamos para casa, felizes e confiantes.
+
+Naquela mesma tarde, ao retornar do trabalho, fui surpreendido pela visita do professor responsável pela turma de minha filha, que subiu o quilômetro e meio de estrada montanhosa até nossa casa. Ele nos disse: "Peço desculpas pelo ocorrido mais cedo. Depois que os senhores saíram, voltei ao hospital e compreendi a gravidade da situação. Imediatamente relatei o fato ao diretor, convocamos uma reunião com o corpo docente e decidimos que a escola arcará com todas as despesas da internação. Por favor, aceite nossa ajuda e a hospitalize para que ela se recupere devidamente". Sua recomendação era feita com genuína gentileza.
+
+Contudo, agradeci-lhe profundamente, dizendo: "A consideração da direção e dos professores é um gesto de imensa nobreza, pelo qual sou muito grato. Todavia, roguei a Kōmyō Nyorai e, assim como inúmeras doenças foram curadas sem o auxílio da medicina até hoje, tenho a certeza de que o olho de minha filha também será curado". Aproveitei a ocasião para lhe falar sobre os ensinamentos da nossa fé.
+
+O professor, entretanto, ponderou: "O senhor pode ter uma fé tão consolidada, mas creio que seja difícil esperar o mesmo de uma criança. Além disso, há implicações para a escola. Vim até aqui por ordem expressa do diretor. Por favor, confie a situação a nós". Sua insistência foi tamanha que não tivemos alternativa a não ser acompanhá-lo de volta à cidade.
+
+No caminho, em um local chamado Hirayama, o professor se adiantou, dizendo: "Como estou de bicicleta, irei na frente e passarei na escola". Ele partiu, e nós dois continuamos a pé. Por volta das nove e vinte da noite, ao chegarmos a uma esquina em Imari, perto do caminho que levava à Igreja, minha filha declarou com firmeza: "Não quero ir ao médico. Quero ir à Igreja".
+
+Senti naquelas palavras a orientação de Kōmyō Nyorai e, sem hesitar, seguimos para lá. Em seguida, fui à escola para comunicar nossa decisão ao professor, que nos acompanhou de volta à Igreja. Por cerca de uma hora, conversamos com ele e com os assistentes, mas o diálogo apenas repetia os mesmos argumentos. Por fim, o professor aquiesceu, compreendendo nossa determinação em confiar nos cuidados de Kōmyō Nyorai.
+
+Pouco tempo depois, o professor retornou. Explicou que, como instituição, a escola não poderia negar a medicina e que, se insistíssemos em tratar minha filha em casa, seria necessário que eu assinasse um termo de responsabilidade. Prontamente concordei e redigi o seguinte documento:
+
+**Termo de Responsabilidade**
+
+As providências tomadas pela direção escolar em relação à lesão no olho esquerdo de minha filha, Hinowatari Mikano, aluna da turma 2-4 da Escola Secundária de Imari, ocorrida durante a chamada no pátio, no segundo horário do dia doze de outubro de 1950, foram, a meu ver, as mais adequadas e satisfatórias.
+
+Declaro que, na eventualidade de o quadro clínico se agravar, a responsabilidade será inteiramente minha, não cabendo qualquer ônus à direção da escola.
+
+Para que conste no futuro, firmo o presente termo.
+
+*Treze de outubro de 1950*
+
+*Pai de Hinowatari Mikano, turma 2-4 da Escola Secundária de Imari*
+*Hinowatari Zen’emon*
+
+*Ao Diretor da Escola Secundária de Imari*
+
+A partir de então, apegamo-nos à fé com todas as nossas forças. Íamos diariamente à Igreja para receber Johrei. Nos dois primeiros dias, minha filha ainda sentiu dores intensas, mas a lesão em seu olho diminuía visivelmente a cada dia. No terceiro dia, a dor cessou por completo e, no sexto, ela já pôde retornar às aulas. Duas semanas depois, estava totalmente recuperada, como se nada tivesse acontecido. A direção da escola ficou perplexa, e nossa alegria, como pais, foi indescritível.
+
+Meishu-Sama, Kōmyō Nyorai, muito obrigado. Não há palavras para expressar nossa gratidão por termos recebido uma proteção tão grandiosa, mesmo sendo nós pessoas que ainda não conseguem realizar um servir à altura. De agora em diante, renovamos nossa determinação em trabalhar para que o maior número possível de pessoas possa receber esta mesma graça e para que o Paraíso Terrestre se concretize o quanto antes, buscando corresponder, ainda que minimamente, à Vontade Divina.
+
+Gostaria de acrescentar que, há dois anos, convertemos totalmente nossa lavoura para a Agricultura Natural e os resultados são cada vez melhores, o que tem despertado o reconhecimento de nossos vizinhos. Atribuímos este sucesso, também, à sublime proteção de Meishu-Sama, a quem rendemos nossa mais profunda gratidão.
+
+(1 de julho de 1951)
+
+---
+
+# Mais uma vítima da terapêutica médica
+
+**Categoria:** ko | **Ano:** 昭和27(1952)年12月3日 | **Fonte:** Eikou
+**Título Original:** これも医療の被害者 | **Status:** Published | **Edição/Página:** 185号 | **Data ISO:** 1952-12-03
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## Mais uma vítima da terapêutica médica
+
+Tenho reiteradamente afirmado que a terapêutica médica não cura as doenças, mas constitui apenas uma supressão temporária, sendo, na realidade, um método que as agrava. O relato a seguir elucida essa verdade de forma irrefutável e, ao lê-lo, qualquer pessoa certamente a compreenderá. É de se espantar a ignorância e a ofuscação da sociedade contemporânea que, alheia a um princípio tão funesto, persiste em sua supersticiosa confiança na medicina. Para expressá-lo em poucas palavras, não há outra expressão para a era atual senão “a era da barbárie cultural”.
+
+### Grave enfermidade ocular curada de forma imperceptível
+
+**Tóquio – Igreja Johrei Kossei – Imae Masaharu (28 anos)**
+
+A alegria de poder me dedicar a uma parcela da sagrada Obra Divina, com a enfermidade ocular que me afligia desde a infância finalmente curada, enche meus dias de luz e esperança. Por essa graça, resta-me apenas expressar minha infinda gratidão a Meishu-Sama. Quando reflito sobre a felicidade que desfruto hoje, emergem as lembranças de vinte anos em que padeci e lutei nas trevas.
+
+Logo após meu nascimento, devido a toxinas congênitas, meus olhos foram acometidos por uma afecção. Todas as manhãs, amanheciam selados pela secreção, e minha mãe precisava removê-la com a própria língua, pois a tentativa com água ou pano provocava sangramento. Tomei um depurativo por cerca de cinco semanas, o que trouxe uma melhora aparente. Contudo, desde a infância, recordo-me da rigidez nos ombros e da cabeça pesada, a ponto de, por volta dos nove anos, pedir frequentemente à minha mãe que me massageasse os ombros.
+
+Hoje, ao refletir, compreendo que se, à época daquela purificação ocular, não tivesse recebido tratamento algum e a deixasse seguir seu curso, a cura teria sido natural, e eu não teria padecido novamente no futuro.
+
+No verão do primeiro ano do curso superior da escola primária, enquanto treinava diariamente para a competição de natação, fui acometido por uma súbita dor lancinante nos olhos a caminho da escola. Não conseguia mantê-los abertos. Corri a um médico e recebi tratamento, mas o alívio não veio. Incapaz de participar do torneio, voltei para casa com um colírio.
+
+Em casa, a dor intensificou-se, com a sensação de ter um corpo estranho nos olhos. Pedi à minha mãe que verificasse, e ela constatou que a fina película que reveste a parte interna das pálpebras superiores e inferiores estava se desprendendo e enrugando. Mesmo após a remoção, em pouco tempo o problema retornava, causando dor. A aplicação do colírio apenas intensificava o processo, fazendo com que a película se soltasse incessantemente. Por cinco dias, fui incapaz de abrir os olhos. Somente após uma semana consegui enxergar o suficiente para voltar à escola, mas, a partir de então, a luz do sol tornou-se ofuscante, dificultando manter os olhos abertos em dias claros.
+
+Após me formar, prestei exame para a Escola Normal de Aoyama, mas fui reprovado no exame físico, quando me diagnosticaram com tracoma grave. Foi a primeira vez que ouvi o nome da minha doença.
+
+Posteriormente, passei a trabalhar em uma metalúrgica em Tsukishima, Tóquio. Naquele verão, após o expediente, nadei quase diariamente nas águas poluídas do rio Sumida, o que provocou uma nova crise. A partir de setembro, comecei a frequentar um curso noturno, e a consequente falta de sono agravou ainda mais meu estado. Por volta de novembro de 1942, iniciei tratamento na Clínica Oftalmológica Miyashita, em Kyobashi, à qual compareci por dois anos e meio, sem faltar um único dia, no anseio desesperado pela cura.
+
+Todavia, quanto mais eu frequentava a clínica, pior ficava. Meus olhos viviam avermelhados e inflamados, por vezes inchados e com a visão turva. Concomitantemente, a cabeça pesava, e o simples ato de conversar face a face com alguém tornou-se um tormento. Passei a evitar o convívio social, e minha alma amargurou-se até o âmago. Submeti-me a várias cirurgias, sem qualquer resultado, até que, por fim, fui diagnosticado com queratite intersticial. Uma formação semelhante a uma teia surgiu em meu globo ocular, anuviando minha visão. Minha acuidade visual reduziu-se a 0.1, e o temor da cegueira me assombrava incessantemente. Em desespero, experimentei todos os colírios anunciados em jornais e revistas, mas nenhum surtiu efeito. Ao questionar o médico, ele dizia: “Seus olhos têm uma condição rebelde, o tratamento será longo. Com o tempo, o senhor ficará bom.” Apegado a essa única promessa, persisti no tratamento por dois anos e meio.
+
+Em 10 de março de 1945, durante o Grande Bombardeio Aéreo de Tóquio, a Clínica Miyashita foi incendiada. Com os ataques incessantes, a preocupação com os olhos tornou-se secundária, e abandonei por completo qualquer tratamento. Contudo, para minha surpresa, o sofrimento que me atormentara por tanto tempo começou a diminuir gradualmente. Um mês depois, a dor havia praticamente desaparecido, e a acuidade visual começava a retornar. Em 25 de abril, quando fui convocado para o serviço militar em Kanazawa, na província de Ishikawa, eu já estava muito melhor.
+
+Desmobilizado do exército em 13 de setembro, em vez de voltar para Oshima, fui para a casa de minha irmã em Oyama-cho, província de Shizuoka. Lá, senti que a doença ocular estava ressurgindo. Foi quando minha irmã me falou sobre o ministro Morita, de Fujimagari. A seu conselho, fomos juntos procurá-lo. Naquela época, vivíamos a chamada "era da terapêutica", e o ministro ministrava movendo as mãos ou tocando o corpo seminu dos enfermos, uma cena que, a princípio, me pareceu bastante peculiar.
+
+Suas palavras, embora representassem uma inversão de 180 graus em relação à medicina convencional, ressoaram em mim como a mais pura verdade. Ao correlacionar minha própria experiência — a ineficácia da medicina e a melhora que senti justamente ao abandoná-la —, não pude deixar de sentir que todo o meu tratamento anterior havia sido um equívoco. O ministro explicou: “A causa do problema em seus olhos está na cabeça, no pescoço e nos ombros. Sem tratar esses pontos, seus olhos não se curarão.” Como eu sofria com os ombros, o pescoço e a cabeça desde criança, com tonturas frequentes, suas palavras fizeram todo o sentido.
+
+Naquele dia, recebi Johrei e tomei emprestado o terceiro volume da obra *Ashita no Ijutsu*. Ao iniciar a leitura, fiquei atônito com a forma como ela contrariava o senso comum. Em visitas posteriores, li também o primeiro e o segundo volumes, compreendendo em profundidade o erro da medicina e o perigo dos medicamentos. Participei de um curso de formação nos dias 13, 14 e 15 de outubro e tive a honra de receber o sagrado Ohikari das mãos do reverendo Sakai.
+
+Desde então, há sete anos, venho servindo à Obra Divina com minhas parcas forças. Meus olhos, outrora fadados a chorar na tristeza da cegueira, foram curados de forma quase imperceptível. Hoje, ardo em gratidão e vivo dias plenos de esperança. Esforço-me para retribuir, ainda que minimamente, uma ínfima parcela da imensa graça recebida. Reitero minha mais profunda gratidão pelas inúmeras proteções que venho recebendo desde que ingressei na fé.
+
+Peço sinceras desculpas pela demora em apresentar este relato e testemunho de gratidão.
+
+Meishu-Sama, muito obrigado.
+
+(16 de outubro de 1952)
+
+---
+
+# Como criar filhos saudáveis
+
+**Categoria:** ko | **Ano:** 昭和26(1951)年3月14日 | **Fonte:** Eikou
+**Título Original:** 子供を健康にするには | **Status:** Published | **Edição/Página:** 95号 | **Data ISO:** 1951-03-14
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## Como criar filhos saudáveis
+
+A saúde das crianças de hoje é extremamente precária. É, de fato, desolador observar que a maioria delas apresenta uma aparência pálida e frágil. Embora essa tendência fosse mais acentuada nos centros urbanos, recentemente tem se manifestado de igual forma nas áreas rurais. Em um vilarejo na província de Nagano, por exemplo, um exame de saúde realizado em alunos do primário revelou que, de cem crianças, oitenta e uma eram suspeitas de tuberculose. Desde então, relatos semelhantes têm surgido esporadicamente nos jornais.
+
+Diante de tais fatos, é impossível não sentir uma profunda perplexidade, sobretudo porque o progresso da medicina moderna já alcançou até mesmo as regiões mais remotas. Contudo, a causa desse fenômeno permanece um completo mistério, o que agrava sobremaneira o problema. Apresentarei, portanto, a verdadeira razão sob a perspectiva de nossa Medicina Natural.
+
+A causa reside, a meu ver, unicamente em concepções equivocadas sobre medicina, higiene e nutrição. O equívoco fundamental consiste na tendência recente de tratar as crianças japonesas e as ocidentais como se fossem idênticas, assumindo que o método de criação ocidental é invariavelmente o melhor. Trata-se de um erro crasso, pois, na realidade, japoneses e ocidentais são essencialmente distintos. No passado, essa prática equivocada parecia restrita às cidades, mas, ao que tudo indica, difundiu-se também pelo interior.
+
+Tais erros incluem ignorar as leis da Natureza, menosprezar o leite materno em favor do leite de vaca, a superproteção, o uso excessivo de medicamentos e a aplicação de injeções inadequadas. Embora essas práticas possam parecer lógicas em teoria, na prática resultam no enfraquecimento do organismo. Para os ocidentais, cujos ancestrais foram criados dessa maneira por gerações, tal sistema pode ser adequado. Contudo, além de os japoneses serem diferentes, uma mudança tão abrupta é prejudicial.
+
+O método de criação tradicional do Japão é, sem dúvida, o mais apropriado para nossas crianças. Se, porventura, não for possível segui-lo à risca, as mudanças devem ser introduzidas de forma gradual. A verdade dos fatos é a maior prova: as crianças de décadas atrás, quando a medicina não era tão avançada, eram consideravelmente mais sadias. Para referência, descreverei a seguir o método correto de criar os filhos.
+
+Primeiramente, é fundamental que a mãe trabalhe, tanto quanto possível, até o mês do parto. A criança deve receber o leite materno, recorrendo-se ao leite de vaca apenas em casos de absoluta necessidade. Não se deve temer que a criança pegue um resfriado; ao contrário, é preciso deixá-la desenvolver-se da maneira mais natural possível, ou seja, com liberdade e sem interferências. Não se devem usar faixas abdominais nem administrar medicamentos desnecessariamente.
+
+Em suma, é preciso reconhecer plenamente a verdade de que o ser humano, ao nascer neste mundo, já possui a capacidade inata de se desenvolver com saúde e vigor. Fica evidente, portanto, que quanto mais se superprotege uma criança, mais fraca ela se torna. Em vez de se deixar iludir pelas tendências de uma época, deve-se considerar os métodos de criação legados por nossos antepassados e, a partir deles, ponderar os avanços da nova era, adotando unicamente os aspectos que se mostrem benéficos na prática, e não apenas na teoria.
+
+Nesse sentido, rogo encarecidamente que não apenas as autoridades competentes, mas também os senhores especialistas, reflitam profundamente sobre esta questão.
+
+---
+
+# A Face da Sociedade Contemporânea
+
+**Categoria:** ko | **Ano:** 昭和25(1950)年1月28日 | **Fonte:** -
+**Título Original:** 今日の世相 | **Status:** Published | **Edição/Página:** 47号 | **Data ISO:** 1950-01-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
+
+## A Face da Sociedade Contemporânea
+
+Jamais, em tempo algum, a sociedade atingiu um grau de deterioração como o que presenciamos hoje. A prova mais contundente reside no aumento vertiginoso da criminalidade, na superlotação dos presídios, no vasto número de processos judiciais sem solução e nos incontáveis casos que acabam arquivados no limbo da Justiça. Contudo, esses fatos representam apenas a porção visível do problema, por assim dizer, a ponta de um imenso iceberg.
+
+A esse respeito, descreverei minha própria experiência. Embora eu me encontre com um grande número de fiéis, e também com pessoas das mais diversas camadas sociais, tenho procurado, na medida do possível, evitar o contato com aqueles que não possuem fé. Há situações, todavia, em que tal encontro se torna inevitável. Nessas ocasiões, ao observar suas conversas e atitudes, constato que raramente se encontra alguém verdadeiramente digno de confiança. Ocasionalmente, deparo-me com indivíduos que aparentam possuir um caráter nobre, mas, em sua esmagadora maioria, são pessoas francamente desagradáveis. O que mais me espanta é a naturalidade com que proferem mentiras que se desfazem ao primeiro escrutínio; chegam a mentir durante a própria conversa. Como percebo claramente suas falsidades, ouvi-los torna-se um fardo quase insuportável. Afinal, no fundo de seu ser, o único objetivo é ludibriar-me para obter vantagens financeiras ou materiais. Por essa razão, ultimamente, tenho evitado recebê-los de forma quase absoluta.
+
+Aparentemente, esses indivíduos me veem como o filho ingênuo de um magnata, subestimando-me desde o primeiro instante. Contudo, quando me esquivo habilmente de suas artimanhas, eles se assombram, o que não deixa de ser uma cena cômica. Percebo que frequentemente lamentam o desfecho inesperado, pensando: “Não era para ser assim”. Que tolos! Costumo sempre dizer: como poderia eu salvar a humanidade se me deixasse enganar por embusteiros dessa laia? Pensem bem: se eu fosse uma pessoa tão crédula, seria possível ser reverenciado por centenas de milhares de pessoas e alcançar um desenvolvimento tão grandioso em tão pouco tempo? O fato é que eles são incapazes de enxergar essa realidade, o que só pode ser descrito como uma cegueira em plena luz do dia.
+
+Diante do exposto, é espantoso constatar o número de pessoas com esse perfil na sociedade atual. Entretanto, devo admitir que suas artimanhas atingem um grau de sofisticação que beira o admirável. Sempre lamento e penso no enorme sucesso que alcançariam se empregassem tamanha inteligência para o bem. Todavia, refletindo mais a fundo, talvez seja precisamente por se dedicarem ao mal que essa sagacidade aflora. Possivelmente, eles sabem que não teriam o mesmo êxito no caminho do bem e, por isso, enveredam pelo mal. Em uma palavra, são indivíduos de astúcia superficial, mas de profunda insensatez.
+
+O mais impressionante é a abissal diferença entre os fiéis e os não fiéis. Se, por um lado, o contato com estes últimos é de um perigo extremo, por outro, encontrar-me com os membros é um deleite para o espírito, como se estivesse diante de meus próprios filhos. A distinção é tão vasta quanto a que existe entre Deus e os espíritos malignos. Ao ponderar sobre isso, convenço-me de que a presença ou a ausência da fé gera um contraste assombroso. Chego sempre à conclusão de que, sem fé, uma pessoa sequer pode ser considerada verdadeiramente humana.
+
+Por tudo isso, torna-se imperativo formar o maior número possível de fiéis. Caso contrário, o futuro do Japão será motivo de profunda e legítima apreensão.
+
+---
+
+# A Evidência Incontestável dos Milagres
+
+**Categoria:** ko | **Ano:** 昭和27(1952)年10月1日 | **Fonte:** Eikou
+**Título Original:** これでもか | **Status:** Published | **Edição/Página:** 176号 | **Data ISO:** 1952-10-01
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Evidência Incontestável dos Milagres
+
+Os grandiosos milagres do Johrei de nossa religião manifestam-se incessantemente, um após o outro, em uma profusão que parece não ter fim. Como estes relatos de graças são comprovados por exames científicos, nem mesmo os mais céticos, devotos irredutíveis da ciência e descrentes em Deus, poderão apresentar uma única objeção.
+
+É desconcertante, como sempre afirmo, que os médicos, mesmo diante de fatos tão notórios e vívidos, não demonstrem a iniciativa de investigá-los. Nesse sentido, nossa constante assertiva de que a medicina é uma superstição se mostra, apenas por este fato, indubitavelmente correta.
+
+Gostaria que refletissem sobre o seguinte: se a distomíase pulmonar, uma enfermidade considerada ainda mais temível que a tuberculose, pode ser curada com tamanha simplicidade, não seria lícito afirmar que a própria tuberculose, um grave problema de dimensão nacional, já encontrou sua solução? Que motivo de imenso júbilo!
+
+## Distomíase Pulmonar Curada em Apenas Seis Dias
+
+*Tsuda Isamu (41 anos)*
+*Igreja Nyorin, Província de Oita*
+
+Era um entardecer de meados de julho, sob um calor sufocante. Ao retornar da Cerimônia Mensal da filial de Mie, fui informado de que havia uma carta de um professor assistente de determinada universidade. Abri-a de imediato. Nela, ele comunicava que sua única filha seria hospitalizada devido a uma distomíase pulmonar e pedia que eu cuidasse das pendências. Segurando a carta, deixei escapar um longo suspiro. Apesar de todas as oportunidades em que lhe explanei sobre os ensinamentos da nossa fé e a grandiosidade da arte do Johrei, bastou o surgimento de uma doença grave para que ele, em vez de confiar em Deus e em nós, recorresse à internação. É realmente lastimável a mentalidade desses professores, cativos da superstição científica. Como fazê-los compreender?
+
+De qualquer forma, decidi ir até lá. Sem hesitar, montei em minha bicicleta e percorri a longa distância até sua residência.
+
+Ao chegar, encontrei a jovem deitada à força no leito. Contudo, ela não parecia excessivamente debilitada, e a febre era apenas branda. “Certo, uma semana será o suficiente”, pensei. “Professor”, disse eu, “peço que, em vista do quadro, confie-a a mim por uma semana”. Por cerca de três horas, discorri sobre este poder magnânimo — que podemos denominar a própria Criação da Civilização —, ilustrando minha fala com inúmeros exemplos de graças vivenciadas por mim e por outros. Ele, por sua vez, contra-atacava, movido pela ilusão de que negamos a ciência, e exaltava a medicina moderna. A discussão acalorada avançou pela noite, até que, finalmente, graças à intervenção de sua esposa, que demonstrou alguma aceitação da existência de Deus ao dizer “vamos nos apegar às mãos Divinas”, obtive sua permissão. Naquela noite, iniciei minhas preces com fervor, determinado a lhes mostrar de forma contundente a grandiosidade do poder Divino, a despertá-los do engano da ciência médica, a desfazer o equívoco de me considerarem um mero supersticioso e, ainda, a corrigir a concepção errônea que a sociedade nutre sobre a fé, revelando a verdadeira crença da Sekaikyuseikyo, alicerçada na manifestação do Deus Supremo.
+
+Passaram-se dois, três, enfim, seis dias. Na noite do sétimo dia, ao entrar no vestíbulo e anunciar minha chegada, a filha, que estivera doente, correu ao meu encontro com um sorriso radiante que iluminava todo o seu rosto. “Tio, eu estou curada!”, exclamou ela, visivelmente feliz. Naquele instante, a alegria inundou minha mente a tal ponto que minhas mãos tremiam enquanto eu descalçava os sapatos.
+
+Em seguida, a esposa e o professor vieram me receber, ambos sorridentes, com uma hospitalidade muito superior à da noite anterior. Logo prepararam bebidas e aperitivos, e a atmosfera tornou-se ainda mais amena. “Sabe, Tsuda”, começou o professor, “tenho algo a lhe confessar, e sinto muito por isso, mas hoje a levei ao hospital da província para um exame. O resultado... foi este”. Ele então me mostrou as radiografias. Sendo um pai extremamente dedicado, que mesmo em meio a dificuldades financeiras não poupava esforços pela filha, ele havia investido em filmes de alta qualidade. A imagem do tórax era de uma perfeição espantosa, sem uma única mancha.
+
+Como poderia ser esta a mesma imagem que, uma semana antes, recebera o diagnóstico de distomíase pulmonar e a sentença de internação imediata? Era algo simplesmente incompreensível para eles, um verdadeiro mistério. Além disso, a desconfiança os levara a um rigor ainda maior: coletaram o escarro da noite e da manhã, períodos de maior expelimento de bacilos, e os enviaram para análise em três locais diferentes — o hospital nacional, o hospital provincial e uma clínica particular. O resultado, que os deixou atônitos, foi que nenhum bacilo fora encontrado em nenhuma das amostras.
+
+“Tsuda, quanto a isso, não tenho outra alternativa senão render-lhe minhas homenagens”, disse ele.
+
+Contudo, a alegria sincera estampada no rosto do professor e de sua esposa, a quem por três anos admirei como mentores, era infinitamente menor — dezenas de vezes menor — que a imensa gratidão e o júbilo que transbordavam em meu peito, um sentimento irreprimível de louvor a Deus.
+
+*“A grandiosa obra de salvação,*
+*Desconhecida até dos mais sábios santos,*
+*É a que agora realizo.”*
+
+*“Alegro-me imensamente*
+*Apenas por ter minha vida em ordem;*
+*E ainda me foi concedida a graça de curar.”*
+
+Ao me despedir, tive a sensação de que a figura do casal parecia encolher, tornando-se cada vez menor à distância.
+
+Agradeço e retribuo humildemente as inúmeras graças e a constante proteção Divina.
+Muito obrigado, Meishu-Sama.
+
+(1º de agosto de 1952)
+
+---
+
+# A Proteção Divina nas Profundezas da Terra
+
+**Categoria:** ko | **Ano:** 昭和28(1953)年1月21日 | **Fonte:** Eikou
+**Título Original:** この奇蹟をどう見る | **Status:** Published | **Edição/Página:** 192号 | **Data ISO:** 1953-01-21
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Proteção Divina nas Profundezas da Terra
+
+Muitos céticos, diante dos milagres religiosos, costumam tecer toda sorte de argumentos para, se não os invalidar por completo, ao menos demonstrar uma calculada indiferença. Tal atitude, no entanto, decorre de uma arraigada noção preconcebida de que fenômenos dessa natureza simplesmente não podem existir. Nesse sentido, os fatos relatados a seguir constituem um milagre de clareza tão irrefutável que desafia qualquer contestação. Conforme tenho afirmado repetidamente, posso asseverar que, em todo o vasto mundo, não se encontram milagres religiosos de tal magnitude.
+
+Trata-se de uma série de acontecimentos em que, no ambiente de uma mina de carvão, diversas pessoas foram salvas de um perigo iminente. O benefício decorrente da prevenção de tais danos é, por conseguinte, de enorme vulto. Sendo assim, afirmo com toda a certeza que, se houvesse alguns fiéis de nossa Igreja em cada uma das minas de carvão do país, o montante dos prejuíz-os atualmente registrados seria reduzido a uma ínfima fração.
+
+**Relatos de Milagres em uma Mina de Carvão**
+
+*Igreja Hakuaí, Província de Saitama*
+*Tamakazu Shimizu, 43 anos*
+
+Meu nome é Tamakazu Shimizu. Após o fim da guerra, fui repatriado da Manchúria e, em 1948, minha filha, cujo caso de cárie óssea generalizada era tido como sem esperança, foi milagrosamente salva. Desde então, um a um, todos os membros de minha família ingressaram na fé. Amparado por inúmeras proteções divinas, consegui superar as adversidades da vida como repatriado e, hoje, vivo em um estado de profunda gratidão. Em 16 de março do ano passado, comecei a trabalhar em uma mina de carvão, uma ocupação de alto risco, e até o presente momento tenho sido agraciado com incontáveis graças, das quais gostaria de relatar duas ou três que transcendem por completo a lógica convencional.
+
+**Primeiro Relato**
+
+Ocorrido na noite de meu quinto dia de trabalho. Em uma galeria com inclinação de trinta e cinco graus, carregávamos um vagonete com detritos rochosos. O procedimento consistia em conectar o vagonete a um cabo de aço por meio de um pino e içá-lo com um guincho elétrico até um trecho nivelado. Ali, o pino era removido, desacoplando o cabo, para em seguida ser reinserido em seu orifício original. O vagonete era então empurrado até o local de descarte, no topo de um despenhadeiro, onde era inclinado para despejar a carga.
+
+Inesperadamente, o vagonete virou e despencou por um penhasco de cerca de dez metros de altura. Para recuperá-lo, mesmo sem o pino, foi possível amarrar o cabo de aço diretamente e içá-lo com o guincho. Contudo, o pino, peça fundamental para a continuidade do trabalho, havia desaparecido. Sendo ele feito de um aço especial e sem substituto disponível, sua perda significava a interrupção forçada das atividades. Sentindo-me responsável, comecei a procurá-lo, tateando o chão com a parca luz de minha lanterna de carbureto, tanto no local do descarrilamento quanto no fundo do penhasco. A busca, que se estendeu por quase meia hora, parecia inútil. Eu estava sozinho, em plena noite, tentando encontrar uma peça de apenas uns quinze centímetros em meio a rochas úmidas, numa área vasta e sem qualquer ponto de referência. O desânimo já tomava conta de mim.
+
+Nesse ínterim, meu colega, o jovem Uehara, foi informar o chefe de equipe sobre a perda do pino. A paralisação do trabalho era iminente e eu não sabia mais o que fazer. Foi então que, pela primeira vez, senti o impulso de me apegar a Meishu-Sama. Juntei as mãos em prece e, com toda a fé, pedi que o pino fosse encontrado. Em seguida, comecei a ministrar Johrei na área, desde o ponto do acidente até o sopé do penhasco. Ao percorrer o local com o olhar, sem nenhuma intenção particular, avistei algo que cintilava debilmente à luz da lanterna, a uns dois metros de onde o vagonete havia virado, em um local totalmente inesperado. Aproximei-me apressado e, ao tomar o objeto nas mãos, confirmei que era, de fato, o pino. A gratidão e a alegria que me invadiram naquele instante são indescritíveis, transcendendo as palavras e a escrita.
+
+Corri para comunicar a boa nova ao chefe de equipe, que, aliviado, demonstrou grande contentamento. Mais tarde, soube que ele havia comentado com outros: "Fiquei impressionado com o Shimizu". Por essa proteção, agradeci a Meishu-Sama do fundo de meu coração. A partir desse episódio, o interesse dos meus colegas de alojamento pela Sekaikyuseikyo cresceu consideravelmente.
+
+**Segundo Relato**
+
+Posteriormente, em 4 de junho do ano passado, durante o turno diurno, uma outra equipe de quatro homens também descarrilou um vagonete e perdeu o pino. Eles procuraram por vinte ou trinta minutos, mas não obtiveram sucesso. Um deles, um jovem chamado Seita, a quem eu vinha ministrando Johrei e que já havia recebido graças, conhecia a história do milagre anterior e veio me chamar.
+
+Dirigi-me imediatamente ao local. Ao questioná-los, afirmaram: "Temos certeza de que foi por aqui". Contudo, as inúmeras rochas que já haviam revirado tornavam a localização impossível. Juntei as mãos em oração, entoei a Oração Amatsu-Norito e, em seguida, concentrando meu pensamento, comecei a ministrar Johrei na área circundante. Os quatro homens observavam a cena com uma expressão de incredulidade, beirando o escárnio. Após alguns instantes de Johrei, sem pensar, simplesmente afastei com o pé uma rocha que estava junto a mim. E ali, debaixo dela, apareceu o pino.
+
+"Senhores, estava aqui!", anunciei, erguendo a peça. A alegria e o espanto de todos, inclusive os meus, foram imensos. "Ah, que bom, que bom!", exclamaram em uníssono. O poder de Deus se manifestou diante de seus olhos, e a aura de ceticismo que os envolvia dissipou-se instantaneamente. Eu mesmo fiquei duplamente surpreso com aquela força divina, que parecia obra de um mágico.
+
+**Terceiro Relato**
+
+Em 18 de julho, durante uma operação com dinamite. Para avançar na escavação de um túnel inclinado de aproximadamente dois metros de altura por um metro e setenta de largura, era preciso fragmentar a rocha com explosivos. Naquele dia, instalamos nove cargas. Após acendermos os estopins, ouvimos claramente a detonação de seis delas, mas as três restantes falharam. Era imperativo encontrá-las, pois representavam um perigo extremo. Há inúmeros casos de operários que, sem saber, atingiram dinamites não detonadas com suas picaretas e morreram na explosão subsequente.
+
+Começamos, então, a remover cuidadosamente os escombros, inspecionando cada rocha enquanto a carregávamos nos vagonetes. Após cinco cargas de material retirado, conseguimos, felizmente, localizar as três dinamites intactas. Preparamo-nos para detoná-las novamente. Com tudo pronto, acendi o estopim com a chama de minha lanterna e, apressadamente, subi em um vagonete para fugir pelo túnel em aclive. Sendo uma tarefa de extremo risco e na qual eu ainda não tinha grande experiência, cometi um descuido e esqueci algo crucial: a lâmpada elétrica que iluminava a área de trabalho. O procedimento padrão era remover a lâmpada do soquete e esconder ambos, juntamente com o fio, atrás de uma viga de sustentação para protegê-los da onda de choque. Muitos já haviam cometido esse erro antes, resultando na completa destruição do equipamento.
+
+Dessa vez, fui eu quem falhou. Deixei o fio pendurado, a lâmpada acesa no soquete, acendi o estopim e fugi às pressas. Quando me dei conta do erro, já era tarde demais. Destruir o equipamento implicaria em preencher relatórios, ouvir reprimendas e uma série de outros aborrecimentos. Involuntariamente, roguei a Meishu-Sama por uma proteção que parecia impossível: "Que a detonação falhe novamente!". E, virado para a parte inferior do túnel, comecei a ministrar Johrei.
+
+Foi quando meu colega, com um riso de escárnio, comentou: "É por atitudes como essa que as pessoas dizem que o Ohikari é uma farsa e se recusam a crer. Que disparate!". Ignorei-o e continuei a ministrar Johrei fervorosamente. Passaram-se um, dois, três minutos. Finalmente, a dinamite explodiu com um estrondo ensurdecedor. Desta vez, ouvi claramente os três estampidos; as três cargas haviam detonado com sucesso.
+
+A distância entre a dinamite e a lâmpada era de apenas dois metros. Eu já dava como certo que a lâmpada teria sido pulverizada e o soquete, arremessado para longe. Preparamos uma lâmpada de reposição e, quando a fumaça da explosão começou a se dissipar, descemos no vagonete. Mesmo com a lanterna, a escuridão era total. Quando estávamos a cerca de vinte metros do local, de repente, os dois homens que iam à frente no vagonete gritaram em uníssono: "Shimizu, a luz está acesa!".
+
+Em meio à fumaça densa que ainda pairava, uma luz fraca brilhava ao longe. Um milagre que eu jamais poderia imaginar havia se concretizado. Pedi que a explosão falhasse para que o equipamento fosse salvo, mas, uma vez que ela ocorrera, minha convicção era de que tudo estaria em pedaços. Qual não foi minha surpresa! Agradeci mentalmente a Meishu-Sama pela proteção e, ao chegar ao local, examinei a situação. A lâmpada, arremessada pela explosão, estava completamente coberta por uma espessa camada de lama e pequenas pedras, assemelhando-se a um bolinho de arroz envolto em barro, e, ainda assim, irradiava sua luz de dentro daquela massa.
+
+O que é isso, senão um milagre? Havíamos recebido o Ensinamento sobre a proteção contra a bomba atômica, e agora, um milagre de natureza semelhante se manifestava diante de nós, gerado apenas pela ministração de Johrei à distância. Meus dois colegas, esquecidos das zombarias anteriores, ficaram mudos, atônitos diante daquela cena. "Trabalhando com o Shimizu, não corremos perigo algum", disseram. Aproveitei a oportunidade para lhes falar sobre nossa fé e, conhecendo os milagres anteriores, pareceram compreender e aceitar tudo de coração.
+
+**Quarto Relato**
+
+Em 21 de julho, durante o dia, trabalhávamos na mesma galeria inclinada. Dois mineiros subiram em um vagonete abarrotado de detritos, e eu, posicionado cerca de cinco metros acima deles, ao lado dos trilhos, acionei o interruptor do guincho. O vagonete começou a se mover normalmente, mas, após subir por volta de um metro, descarrilou. Tentei desligar a energia, mas o interruptor emperrou. Desgovernado, o vagonete subia em minha direção pela estreita galeria.
+
+Enquanto eu lutava desesperadamente para desligar o interruptor, o vagonete se aproximou tão rápido que não tive tempo de desviar. Minha perna esquerda, apoiada para dentro dos trilhos, foi atingida, e o vagonete continuou por mais uns cinco metros. Fui atirado ao chão, mas, num impulso, levantei-me e consegui finalmente desligar a chave, fazendo o vagonete parar alguns metros adiante.
+
+Os dois homens que estavam a bordo, cientes de que o pesado veículo havia passado sobre minha perna, gritaram: "Shimizu, como está sua perna? Espere aí, já estamos indo!". Agarrando-se às estacas laterais, eles desceram pela inclinação de trinta e cinco graus até onde eu estava. "Como você está? Aguente firme!", disseram. Nesse momento, encontrei minha bota, que havia se soltado. No instante do impacto, a bota de borracha ficou presa em alguma parte do vagonete e foi arrancada de meu pé. Era uma bota justa, que normalmente me dava um trabalho enorme para tirar.
+
+Quando caí, meu pé esquerdo estava sobre o trilho, e eu tinha certeza de que havia sido esmagado. Contudo, não havia um único arranhão, e eu não sentia dor alguma. Os dois mineiros insistiam: "Nós vimos, o vagonete passou por cima da sua perna!". Foi tudo tão rápido que mal compreendi o que acontecera. Tudo o que pude fazer foi agradecer por minha perna não ter sido quebrada. A bota encontrada tinha apenas um pequeno rasgo na borracha. Caso a bota não tivesse sido arrancada de meu pé naquele exato momento, minha perna teria sido inevitavelmente esmagada entre a roda e o trilho. De qualquer forma, fui salvo por uma grandiosa e milagrosa proteção divina, e não pude conter minha gratidão. "Meishu-Sama, muito obrigado por Vossa proteção!", repeti mentalmente, e por um tempo fiquei ali, atônito, tomado por um profundo sentimento de gratidão e alívio.
+
+Diante de tais experiências sucessivas, como poderia qualquer materialista descartá-las com a simples palavra "coincidência"? Recentemente, têm ocorrido inúmeros desastres em minas por todo o país, ceifando um número incontável de vidas. Acidentes menores, por sua vez, são uma ocorrência quase diária. Ao refletir sobre como, em meio a um trabalho tão perigoso, venho recebendo uma proteção milagrosa após a outra, meu coração se enche de uma gratidão e uma alegria transbordantes. No exercício de minhas perigosas funções, tenho a permissão de vivenciar na prática o ideal de Meishu-Sama: o Paraíso Terrestre, um mundo sem infelicidades, de absoluta paz e segurança.
+
+Graças a esses milagres, cada vez mais pessoas têm procurado conhecer o sagrado caminho da Sekaikyuseikyo. Após o expediente, dedico-me até altas horas da noite a ministrar Johrei, e tenho tido a permissão de curar muitas doenças graves, consideradas incuráveis pela medicina. Todos choram de alegria. Que felicidade imensa! Finalmente, meu desejo se realizou, e de 15 a 17 de agosto, recebemos o reverendo Nishizawa, que ministrou um curso de formação religiosa aqui na localidade, resultando no ingresso de cinco novos membros. Ao final do curso, ao ver as pessoas se despedindo com lágrimas nos olhos, relutantes em se separar, pensei em como, graças a Meishu-Sama, eu pude proporcionar tamanha alegria ao próximo, e meu peito se encheu de gratidão.
+
+Com o coração exultante, voltei para casa em Saitama após um longo tempo. Minha filha, que há quatro anos — desde que ingressei na fé — sofria de cárie óssea, com pústulas que drenavam pus por quase todo o corpo, nos tornozelos, canelas, coxas, peito, braços e mãos. Olhar para ela sempre me fazia refletir profundamente sobre as máculas de meus pais e antepassados. Desta vez, ao chegar, encontrei-a cuidando de um bebê, carregando-o nas costas. Com exceção de uma pequena cicatriz no peito, as feridas de suas pernas e mãos estavam completamente curadas. Em pouco mais de um mês, quase tudo havia secado.
+
+Mais uma vez, tive a permissão de testemunhar o milagre de que, ao acumularmos virtudes, as máculas de nossos antepassados são purificadas e recebemos a salvação. Junto de minha esposa e filhos, celebrei essa grandiosa graça. Agradeço do fundo de meu coração por todas as inúmeras proteções recebidas.
+
+*(21 de janeiro de 1953)*
+
+---
+
+# O Início da Obra Divina em Tamagawa
+
+**Categoria:** ta | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** 玉川時代 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.30 | **Data ISO:** 1949-12-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
+
+## O Início da Obra Divina em Tamagawa
+
+Desde o início da Obra Divina em Kojimachi Hanzomon, seu desenvolvimento foi contínuo, e em poucos meses, o espaço tornou-se exíguo. Iniciamos, portanto, a busca por uma propriedade maior e, providencialmente, encontramos um terreno com uma residência perfeitamente adequados, situados em um platô às margens do rio Tamagawa, no extremo oeste de Tóquio.
+
+A propriedade possuía uma área de aproximadamente dez mil metros quadrados, com uma construção de mais de setecentos metros quadrados. Ademais, a vista era deslumbrante: o curso do rio Tamagawa se descortinava aos nossos pés e, ao longe, podíamos contemplar a majestosa imponência do Monte Fuji. Naquele momento, compreendi profundamente que Deus havia preparado aquele lugar para nós.
+
+Recordo-me de um fato ocorrido naquela ocasião. Ao adentrar pelo portão e descer ao jardim, as palavras "É aqui" brotaram de meus lábios, de forma espontânea e involuntária.
+
+Após retornar, um poema aflorou à minha mente:
+
+*Belo ao luar, belo entre as flores, e também na neve,*
+*Gyokusenkyo é uma flor do Paraíso.*
+
+Foi nesse instante que lhe dei o nome de Gyokusenkyo (玉川郷), local que hoje corresponde à Sede Anexa da Região de Kanto da Igreja Miroku.
+
+Contudo, apesar de meu encantamento pelo local, o preço de noventa e oito mil ienes representava um obstáculo. Em meu poder, eu tinha apenas cinco mil ienes, razão pela qual respondi que a aquisição seria difícil. O proprietário, por sua vez, encontrava-se em uma situação aflitiva, pressionado por dívidas e com a necessidade urgente de se mudar. Diante disso, propôs que desocuparia o imóvel imediatamente mediante um sinal de dez mil ienes.
+
+Movido por um desejo irresistível de adquirir a propriedade, reuni os cinco mil ienes que possuía com mais cinco mil que tomei por empréstimo e efetuei o pagamento do sinal. Dessa forma, a mudança foi selada. Isso ocorreu em 1º de outubro de 1935. A partir de então, estabelecemos ali a Sede Central da Dai Nippon Kannon Kyokai, dando início às nossas atividades religiosas, que também abrangiam a prática da cura.
+
+Conforme o esperado, a Obra prosperou gradualmente, tornando-se conhecida na região. No entanto, em agosto do ano seguinte, Showa 11, fomos alvo de uma severa perseguição por parte das autoridades, o que nos impôs um revés inevitável. Os pormenores desse acontecimento serão relatados oportunamente.
+
+---
+
+# Sobre o Grave Problema da Saúde Pública
+
+**Categoria:** ko | **Ano:** 昭和11(1936)年 | **Fonte:** 刻下の大問題たる国民保健に就て
+**Título Original:** 刻下の大問題たる国民保健に就て | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
+
+## Sobre o Grave Problema da Saúde Pública
+
+Segundo noticiado, a constituição física de nosso povo, sobremaneira a dos jovens em idade militar, vem declinando ano a ano. Ademais, o fato de que o número de crianças de constituição débil aumenta vertiginosamente é, em verdade, surpreendente. Trata-se de uma questão gravíssima que nos causa profunda apreensão ao ponderarmos sobre o futuro da nação. Nesse sentido, a destinação de um orçamento de dezessete milhões de ienes pelo governo para enfrentar esta situação é uma medida compreensível. Contudo, por mais vultosos que sejam os recursos do erário despendidos ou quaisquer que sejam as contramedidas implementadas, a verdadeira eficácia jamais será alcançada enquanto a causa primordial não for identificada com precisão.
+
+Todavia, se aquilo que o governo e os especialistas consideram ser a causa fundamental for, na realidade, apenas um fator secundário, estaremos diante de um equívoco que não pode ser ignorado. Ao analisarmos as diversas propostas das autoridades, percebemos que todas se baseiam nos métodos da medicina moderna para a prevenção. As principais estratégias incluem o diagnóstico precoce da tuberculose, o isolamento dos doentes e a disseminação de conhecimentos sobre higiene. Em suma, o objetivo principal é garantir que as classes menos favorecidas tenham acesso amplo e facilitado aos cuidados médicos. Aparentemente, crê-se que tais esforços poderão gerar algum resultado positivo, partindo da premissa de que a medicina moderna atingiu um notável grau de avanço e que sua popularização será suficiente para solucionar o problema.
+
+No entanto, tomei conhecimento de um fato de magna importância, quase inacreditável: os métodos que a medicina moderna julga corretos são, na verdade, os que resultam no efeito oposto, agravando o aumento da tuberculose e o número de pessoas enfraquecidas. Pelo bem de nossa nação, é-me impossível permanecer em silêncio diante de tal realidade. Eis o motivo pelo qual, sem me preocupar com a simplicidade de minha escrita, decidi dirigir este apelo aos homens de notório saber em todo o país. Para tanto, permitam-me antes expor a teoria fundamental, indispensável à correta compreensão do assunto.
+
+Segundo dados divulgados pelas autoridades, o número de jovens inaptos para o serviço militar, que em 1922 era de duzentos e cinquenta por mil, saltou para quatrocentos no ano passado, apenas quinze anos depois. Outrossim, o fato de o número de pacientes com tuberculose ter aumentado de dois, por volta de 1891, para vinte e quatro em nossos dias, o que nos revela? Urge uma profunda reflexão. Comparemos aquela época com a atual: em qual delas o progresso da medicina, a generalização do tratamento e a difusão da higiene foram superiores? A resposta é inequívoca. Com efeito, é absolutamente incompreensível que, apesar do avanço e do desenvolvimento cada vez maiores da medicina, os resultados sejam diametralmente opostos ao esperado. Seguindo essa lógica, é lícito imaginar que, quanto mais a medicina avançar e mais se difundirem os cuidados médicos e a higiene, mais a tuberculose aumentará drasticamente. Confrontar-se com esta realidade paradoxal e ainda assim não despertar é, a meu ver, uma atitude análoga à de um dependente de ópio, iludido pela aparência externa da medicina moderna.
+
+Ao analisarmos serenamente os fatos expostos, torna-se evidente que deve existir uma falha monumental, oculta aos olhos de todos. A aparente insegurança das autoridades, que, apesar de destinarem orçamentos vultosos e criarem semanas de prevenção, não demonstram convicção em suas ações, deve-se provavelmente à sua incapacidade de apreender a verdadeira causa do problema. Recentemente, um comunicado do governo continha a seguinte afirmação: "O avanço das técnicas médicas e a difusão do tratamento demonstraram certa eficácia na redução da taxa de mortalidade por tuberculose, mas se provaram totalmente impotentes para impedir a sua ocorrência". Isso demonstra que até mesmo o governo, em sua alta esfera, foi capaz de reconhecer a ineficácia da medicina na prevenção da gênese da tuberculose, o que considero um grande progresso. Contudo, enquanto implementarem medidas de forma aleatória, sem compreender a causa primordial, os resultados são previsíveis.
+
+Em suma, a resolução do problema reside na descoberta de sua verdadeira causa. É evidente que não há outro caminho senão o de estabelecer uma estratégia apropriada, direcionada a essa causa fundamental. Sendo assim, qual seria essa verdadeira causa? Procurei explicitá-la com o maior detalhe possível no volume à parte intitulado "A Causa Primordial e o Tratamento da Tuberculose".
+
+---
+
+# A Ineficácia do Tratamento Sintomático
+
+**Categoria:** ta | **Ano:** 昭和26(1951)年7月25日 | **Fonte:** Eikou
+**Título Original:** 対症療法の可否 | **Status:** Published | **Edição/Página:** 114号 | **Data ISO:** 1951-07-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Ineficácia do Tratamento Sintomático
+
+A medicina moderna se baseia no que chama de tratamento sintomático, mas não há equívoco maior. Procedimentos como aplicar gelo para baixar a febre ou anestesiar os nervos para suprimir a dor visam apenas as manifestações superficiais, ou seja, as consequências da doença. Por conseguinte, a cura torna-se impossível. Isso ocorre porque, para cada sintoma, existe uma causa latente que o origina. Em vista desse princípio, para se alcançar a cura verdadeira, é imperativo compreender que os sintomas são meramente periféricos. É preciso, antes de tudo, identificar e eliminar sua causa fundamental, o que se revela uma verdade irrefutável.
+
+Tomemos como exemplo a dor de cabeça. Ela pode ter duas origens: a anemia cerebral ou a febre. A primeira ocorre quando toxinas solidificadas na região do pescoço comprimem os vasos sanguíneos; a segunda, por sua vez, resulta da febre gerada pela dissolução dessas mesmas toxinas, cujo processo afeta o cérebro e provoca a dor. A apendicite, por outro lado, tem sua origem em toxinas solidificadas na região do rim direito. Com o passar do tempo, elas se dissolvem gradualmente e se acumulam no apêndice. A dor aguda é o resultado de uma febre súbita que as liquefaz, dando início a um processo de purificação através da diarreia.
+
+Ademais, o panarício, que se manifesta nos dedos, é causado por toxinas de alta potência, solidificadas nos gânglios linfáticos do pescoço, que, ao se acumularem na ponta do dedo na iminência de serem expelidas, rompem a pele e causam um inchaço de dor lancinante. As cólicas estomacais são a dor decorrente da dissolução de toxinas solidificadas nas costas, que se concentram no estômago antes de descerem para o intestino. Todas as doenças oculares, similarmente, surgem quando as toxinas acumuladas no cérebro se reúnem nos olhos, em sua tentativa de purificação.
+
+Como se vê, todo e qualquer sintoma patológico possui, invariavelmente, uma origem primordial. A razão pela qual o Johrei de nossa Igreja alcança resultados tão extraordinários, a um nível inalcançável pela medicina, é precisamente porque ele atua na cura dessa origem primordial. Enquanto a medicina não despertar para essa realidade, por mais que avance em suas tecnologias, a cura completa permanecerá uma meta distante.
+
+---
+
+# A Desnecessidade do Termômetro
+
+**Categoria:** ta | **Ano:** 昭和27(1952)年5月28日 | **Fonte:** Eikou
+**Título Original:** 体温計 医学断片集（10） | **Status:** Published | **Edição/Página:** 158号 | **Data ISO:** 1952-05-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Desnecessidade do Termômetro
+
+Hodiernamente, seria raro encontrar um indivíduo que não recorra ao auxílio de um termômetro. Contudo, para os fiéis de nossa Igreja Messiânica, tal instrumento se torna inteiramente dispensável, o que se pode considerar um fato verdadeiramente prodigioso.
+
+Isso ocorre porque a febre, em sua essência, constitui o processo pelo qual o organismo dissolve as toxinas que dão origem às enfermidades. Trata-se, portanto, de um mecanismo extremamente benéfico, e quanto mais elevada for a temperatura, mais célere será a recuperação da saúde.
+
+O termômetro só se faz necessário porque o ser humano encara a febre como algo temível. Se, ao contrário, a compreendesse como uma bênção, a necessidade de aferi-la simplesmente desapareceria.
+
+A análise deste único ponto, por si só, é suficiente para demonstrar a profunda felicidade que se pode alcançar ao se tornar um seguidor de nossos Ensinamentos.
+
+---
+
 # O Mistério da Chegada de Daikoku-sama
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
 **Título Original:** 大黒様のお話 ――会主の御講話の続き―― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## O Mistério da Chegada de Daikoku-sama
 
@@ -38,7 +444,7 @@ Por fim, àqueles que desejarem entronizar uma imagem de Daikoku-sama, coloco-me
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 経と緯 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Verdade sobre os Princípios Vertical e Horizontal
 
@@ -62,7 +468,7 @@ Dessa forma, a verdade é que o Vertical é elevado, porém restrito, enquanto o
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Kyusei
 **Título Original:** 大乗愛 | **Status:** Published | **Edição/Página:** 166号 | **Data ISO:** 1952-07-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Amor Universal
 
@@ -80,7 +486,7 @@ Nesse sentido, para que uma religião seja considerada verdadeira, ela não deve
 
 **Categoria:** ko | **Ano:** 昭和28(1953)年6月3日 | **Fonte:** Eikou
 **Título Original:** この事実を何と見る | **Status:** Published | **Edição/Página:** 211号 | **Data ISO:** 1953-06-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Incontestável Realidade dos Fatos
 
@@ -128,7 +534,7 @@ Meishu-Sama, renovo minha mais profunda e sincera gratidão.
 
 **Categoria:** ta | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
 **Título Original:** 体位低下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第一編
 
 ## A Verdadeira Causa do Declínio da Constituição Física
 
@@ -156,7 +562,7 @@ Ao chegar, por mais que procurasse, não havia qualquer elixir a ser encontrado.
 
 **Categoria:** ko | **Ano:** 昭和24(1949)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 狐霊に就て | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Acerca dos Espíritos de Raposa
 
@@ -218,7 +624,7 @@ Com efeito, é comum que os espíritos de raposa afirmem que o que mais gostam �
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 第三宗教 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Terceira Religião
 
@@ -242,7 +648,7 @@ O que foi exposto é uma explanação bastante sucinta. Em suma, trata-se de uma
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
 **Título Original:** 体質 ・医学断片集（26） | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Questão da Constituição Física
 
@@ -258,7 +664,7 @@ A evidência irrefutável de nosso postulado reside no Johrei. Ao ministrá-lo, 
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
 **Título Original:** 断片 ・体験談中に挿入されたもの | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 革命的増産の自然農法解説
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 革命的増産の自然農法解説
 
 ## Elucidação sobre a Agricultura Natural e seu Aumento Revolucionário da Produção
 
@@ -308,7 +714,7 @@ Existem pessoas que, mesmo lendo ou ouvindo minhas explanações, não conseguem
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 第二の超奇蹟 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Segundo Milagre Extraordinário
 
@@ -328,7 +734,7 @@ Em suma, este é o fenômeno que manifesta, na prática, a verdade de que o esp�
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年1月10日 | **Fonte:** Eikou
 **Título Original:** 誰でも太れる法 | **Status:** Published | **Edição/Página:** 86号 | **Data ISO:** 1951-01-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um método para que todos possam ganhar peso
 
@@ -350,7 +756,7 @@ Sendo assim, todos que conhecerem este método poderão evitar a tuberculose e, 
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 体位抵下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## A Origem do Declínio da Constituição Física
 
@@ -376,7 +782,7 @@ Diante disso, até mesmo o célebre Xu Fu não pôde retornar à sua terra natal
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年6月18日 | **Fonte:** -
 **Título Original:** 第三宗教 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-06-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Terceira Religião
 
@@ -398,7 +804,7 @@ O que foi exposto até aqui é apenas uma explanação sumária. Em síntese, é
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年10月17日 | **Fonte:** Eikou
 **Título Original:** 第三次戦争は免れる事が出来る | **Status:** Published | **Edição/Página:** 126号 | **Data ISO:** 1951-10-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## É Possível Evitar a Terceira Guerra Mundial
 
@@ -428,7 +834,7 @@ Creio que o essencial foi compreendido. Em suma, afirmo sem qualquer hesitação
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Eikou
 **Título Original:** 只生きている 阿呆文学（九） | **Status:** Published | **Edição/Página:** 101号 | **Data ISO:** 1951-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Meramente Vivendo
 
@@ -456,7 +862,7 @@ Pois bem, adeus.
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年3月12日 | **Fonte:** Kyusei
 **Título Original:** 体内の入浴 | **Status:** Published | **Edição/Página:** 147号 | **Data ISO:** 1952-03-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Banho Interno do Corpo
 
@@ -480,7 +886,7 @@ Eu não apenas descobri este erro monumental da humanidade, como também ensino 
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年10月29日 | **Fonte:** -
 **Título Original:** 正しい治療 ・医薬断片集 | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1949-10-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Tratamento Correto
 
@@ -498,7 +904,7 @@ Ao que parece, o mundo está repleto de inúmeros contrassensos.
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
 **Título Original:** 高天原の所在地 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Localização de Takamagahara
 
@@ -526,7 +932,7 @@ O Cristianismo, por exemplo, instituiu a prática de ir à igreja todos os domin
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年7月29日 | **Fonte:** Eikou
 **Título Original:** 台風の霊的考察 | **Status:** Published | **Edição/Página:** 219号 | **Data ISO:** 1953-07-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Análise Espiritual sobre os Tufões
 
@@ -552,7 +958,7 @@ Portanto, a única solução definitiva consiste em, sem jamais negligenciar os 
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年6月15日 | **Fonte:** Kenko
 **Título Original:** 大日本健康協会主旨及び会則 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1936-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
 
 ## Manifesto e Regulamento da Associação de Saúde do Grande Japão
 
@@ -605,7 +1011,7 @@ Telefone: Kudan (33) 196
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
 **Título Original:** 大乗と小乗 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Mahayana e Hinayana
 
@@ -633,7 +1039,7 @@ Creio que, com esta explanação, os aspectos gerais do Mahayana e do Hinayana f
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 体験者の興味ある話 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Urgência de uma Verdadeira Salvação
 
@@ -649,7 +1055,7 @@ Como o exemplo desta senhora demonstra, muitas pessoas, mesmo professando com fe
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 第三次戦争は果して有る？ | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Haverá realmente uma Terceira Guerra Mundial?
 
@@ -673,7 +1079,7 @@ Se for possível crer no que foi exposto, cada um deverá ser capaz de, por si m
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年2月4日 | **Fonte:** Eikou
 **Título Original:** 大恐怖時代来らん | **Status:** Published | **Edição/Página:** 194号 | **Data ISO:** 1953-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Grande Era de Terror se Aproxima
 
@@ -707,7 +1113,7 @@ Por fim, resta-me apenas uma advertência. De agora em diante, todos deverão fa
 
 **Categoria:** ta | **Ano:** 昭和6(1931)年11月1日 | **Fonte:** 瑞Hikari
 **Título Original:** 短歌私言 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1931-11-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 瑞光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 瑞光
 
 ## A Essência da Poesia Tanka
 
@@ -725,7 +1131,7 @@ Não seriam todas essas tendências, em última análise, uma forma de desvio do
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年8月13日 | **Fonte:** -
 **Título Original:** 大三災と小三災 | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1949-08-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Origem das Calamidades Naturais e Humanas
 
@@ -759,7 +1165,7 @@ Explorando esse princípio, os ambiciosos de mentalidade materialista de cada é
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 大戦争と浄化作用 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Grande Guerra e a Ação Purificadora
 
@@ -791,7 +1197,7 @@ Retomando a analogia com o corpo humano, será o momento em que coração, pulm�
 
 **Categoria:** ta | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 正しき信仰 | **Status:** Published | **Edição/Página:** P.2 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## A Fé e o Discernimento
 
@@ -821,7 +1227,7 @@ Com base no que foi exposto, faço esta severa advertência para que, no caminho
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 大乗たれ | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Perspectiva Abrangente
 
@@ -843,7 +1249,7 @@ Em outras palavras, existem duas formas de amor: o Amor de Deus e o amor humano.
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
 **Título Original:** 男女合権論 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Tese da Harmonia de Direitos entre Homens e Mulheres
 
@@ -863,7 +1269,7 @@ Ofereço este ensinamento aos casais de todo o mundo.
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** 大光明世界の建設 序論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## A Missão do Movimento Kannon
 
@@ -893,7 +1299,7 @@ Devo advertir, de antemão, que os escritos a seguir contêm, em sua maioria, pr
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年 | **Fonte:** Dougi
 **Título Original:** 大東亜戦争戦略論 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1943
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 道義
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 道義
 
 ## Uma Tese Estratégica sobre a Grande Guerra
 
@@ -971,7 +1377,7 @@ Pois cremos que a Providência e a Assistência Divinas se manifestam, infalivel
 
 **Categoria:** ta | **Ano:** 昭和27(1952)年11月19日 | **Fonte:** Eikou
 **Título Original:** 太陽の救い | **Status:** Published | **Edição/Página:** 183号 | **Data ISO:** 1952-11-19
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Salvação do Sol
 
@@ -1003,7 +1409,7 @@ Como se pode depreender, nossa Igreja, por ser de grande veículo, engloba integ
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年12月17日 | **Fonte:** -
 **Título Original:** 煙草と医学 | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1949-12-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Tabaco e a Medicina
 
@@ -1021,7 +1427,7 @@ Ofereço, pois, estas reflexões à Diretoria do Monopólio do Tabaco e à Assoc
 
 **Categoria:** ta | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
 **Título Original:** 体位抵下の真因 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第一編
 
 ## A Verdadeira Causa do Declínio da Constituição Física
 
@@ -1045,7 +1451,7 @@ Adicionalmente, há o conhecido relato sobre o imperador chinês Qin Shi Huang. 
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
 **Título Original:** 脱腸 | **Status:** Published | **Edição/Página:** P.137 | **Data ISO:** 1953-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** アメリカを救う
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** アメリカを救う
 
 ## A Causa e a Cura da Hérnia
 
@@ -1059,7 +1465,7 @@ A cura para tal afecção é facilmente alcançada por meio do Johrei de nossa I
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
 **Título Original:** 黙っては居られない | **Status:** Published | **Edição/Página:** 113号 | **Data ISO:** 1951-07-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Não Posso Permanecer Calado
 
@@ -1114,7 +1520,7 @@ Meishu-Sama, muito obrigado.
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 大乗宗教 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Religião Mahayana
 
@@ -1142,7 +1548,7 @@ Creio que o homem moderno deveria refletir sobre o equívoco de sua visão tão 
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
 **Título Original:** 対症療法の不可 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
 
 ## A Falácia do Tratamento Sintomático
 
@@ -1158,7 +1564,7 @@ Dessa forma, quando alguém se submete ao tratamento sintomático e a cura ocorr
 
 **Categoria:** ta | **Ano:** 昭和26(1951)年1月1日 | **Fonte:** Eikou
 **Título Original:** 大千世界と三千世界 | **Status:** Published | **Edição/Página:** 85号 | **Data ISO:** 1951-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Elucidação sobre Daissen Sanzen Sekai
 
@@ -1180,7 +1586,7 @@ Nossa Igreja, contudo, é a religião do Mundo do Dia. Sendo assim, a ordem corr
 
 **Categoria:** ta | **Ano:** 昭和28(1953)年10月14日 | **Fonte:** Eikou
 **Título Original:** 台風禍 | **Status:** Published | **Edição/Página:** 230号 | **Data ISO:** 1953-10-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Origem Espiritual das Calamidades
 
@@ -1210,7 +1616,7 @@ Como se pode ver, tudo é fruto da ignorância humana. Ao tomar consciência des
 
 **Categoria:** ta | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 大乗と小乗 | **Status:** Published | **Edição/Página:** P.33 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## Sobre o Mahayana e o Hinayana
 
@@ -1244,7 +1650,7 @@ Desde a antiguidade, diz-se que Kannon (観音) não é homem nem mulher e, ao m
 
 **Categoria:** ta | **Ano:** 昭和11(1936)年1月1日 | **Fonte:** Toho no Hikari
 **Título Original:** 大黒様と鼠 滑稽阿呆文学 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1936-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## A Missão Divina no Ano do Rato
 
@@ -1266,7 +1672,7 @@ Este é o verdadeiro Paraíso, o estado em que o mundo terreno se manifesta como
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** 大宗教の発祥地点 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## O Ponto de Origem de uma Grande Religião
 
@@ -1290,7 +1696,7 @@ Até os dias de hoje, surgiram inúmeras religiões e salvadores, todavia, todos
 
 **Categoria:** to | **Ano:** 昭和18(1943)年 | **Fonte:** 答申案
 **Título Original:** 答申案 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1943
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Proposta de Medidas para a Aplicação de Nossa Terapia na Marinha
 
@@ -1316,7 +1722,7 @@ Com isso, poderemos dar início aos tratamentos experimentais sem demora. Acresc
 
 **Categoria:** to | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
 **Título Original:** 栃木地方の地震の原因 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Causa do Sismo na Região de Tochigi
 
@@ -1334,7 +1740,7 @@ Esta é a explanação segundo a Meteorologia Divina e Espiritual.
 
 **Categoria:** ta | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 大乗宗教 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Religião Mahayana
 
@@ -1358,7 +1764,7 @@ Escrevi este ensaio com o propósito de instar o homem moderno a refletir sobre 
 
 **Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** 東京が中心 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## O Japão como Vértice do Mundo
 
@@ -1378,7 +1784,7 @@ Essa irradiação da augusta Luz Divina aos oito cantos do mundo, centrada na fi
 
 **Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 特異体質は逃げ言葉？ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Subterfúgio da “Constituição Física Peculiar”
 
@@ -1394,7 +1800,7 @@ Portanto, como se pode depreender do exposto, o fato de os médicos se verem com
 
 **Categoria:** ta | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 団十郎の芸 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.17 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## A Essência da Maestria na Arte Cênica
 
@@ -1422,7 +1828,7 @@ Gostaria de discorrer também sobre mestres de outras áreas, mas, para não me 
 
 **Categoria:** ta | **Ano:** 昭和10(1935)年2月4日 | **Fonte:** Hikari明世界
 **Título Original:** 大光明世界の建設 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Construção do Mundo de Grande Luz
 
@@ -1494,7 +1900,7 @@ Nossa missão é anunciar este fato a toda a humanidade, fazendo com que o mundo
 
 **Categoria:** to | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
 **Título Original:** 東西愈々入れ替り 阿呆文学 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-05-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Inversão entre o Oriente e o Ocidente
 
@@ -1516,7 +1922,7 @@ De agora em diante, em perfeita sintonia com o Sol e a Lua celestiais, esta Luz 
 
 **Categoria:** to | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
 **Título Original:** 投書に就て | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1950-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## Esclarecimentos sobre Críticas e Detratações
 
@@ -1540,7 +1946,7 @@ Se a missão precípua da religião é promover o bem, coibir o mal e edificar u
 
 **Categoria:** to | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 陶器 ･日本美術とその将来（4） 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.68 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## A Apreciação da Arte Cerâmica
 
@@ -1570,7 +1976,7 @@ No que tange à cerâmica chinesa, o celadon ocupa um lugar de primazia, com tr�
 
 **Categoria:** to | **Ano:** 昭和27(1952)年7月23日 | **Fonte:** Eikou
 **Título Original:** 東洋美術雑観 （１） | **Status:** Published | **Edição/Página:** 166号 | **Data ISO:** 1952-07-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um Panorama da Arte Oriental
 
@@ -1602,7 +2008,7 @@ Com a transição do período Momoyama para o Tokugawa, a técnica alcançou um 
 
 **Categoria:** to | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
 **Título Original:** 東洋美術雑観 （４） | **Status:** Published | **Edição/Página:** 170号 | **Data ISO:** 1952-08-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um Panorama da Arte Chinesa
 
@@ -1642,7 +2048,7 @@ Um fato interessante é que muitos mestres dessa época dedicaram a vida inteira
 
 **Categoria:** to | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
 **Título Original:** 東洋美術雑観 （２） | **Status:** Published | **Edição/Página:** 167号 | **Data ISO:** 1952-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Legado de Ogata Korin na Arte Universal
 
@@ -1666,7 +2072,7 @@ Entre os pintores que viajaram à China para estudar, encontram-se Keishoki (啓
 
 **Categoria:** to | **Ano:** 昭和26(1951)年2月7日 | **Fonte:** Eikou
 **Título Original:** 道治国 | **Status:** Published | **Edição/Página:** 90号 | **Data ISO:** 1951-02-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Governança pelo Caminho da Razão
 
@@ -1696,7 +2102,7 @@ Sempre afirmo que Deus, em outras palavras, é a própria Razão. Portanto, reve
 
 **Categoria:** to | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
 **Título Original:** 動脈硬化及び高血圧症 | **Status:** Published | **Edição/Página:** P.106 | **Data ISO:** 1953-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** アメリカを救う
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** アメリカを救う
 
 ## A Arteriosclerose e a Hipertensão
 
@@ -1714,7 +2120,7 @@ Recordo-me de um caso que ilustra bem essa verdade. Certa vez, um senhor com pou
 
 **Categoria:** to | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** 東京日々新聞
 **Título Original:** 毒素は頭脳に集中 ・法話（二） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東京日々新聞
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東京日々新聞
 
 ## A Concentração das Toxinas e a Ilusão da Terapêutica Moderna
 
@@ -1738,7 +2144,7 @@ O processo ocorre da seguinte forma: com o passar do tempo, o veneno acumula-se 
 
 **Categoria:** to | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
 **Título Original:** 毒素療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
 
 ## O Princípio da Purificação e o Equívoco da Terapêutica Moderna
 
@@ -1776,7 +2182,7 @@ Agora, ao irradiarmos a prodigiosa Onda de Luz da Nova Medicina Japonesa sobre a
 
 **Categoria:** to | **Ano:** 昭和27(1952)年8月6日 | **Fonte:** Eikou
 **Título Original:** 東洋美術雑観 （３） | **Status:** Published | **Edição/Página:** 168号 | **Data ISO:** 1952-08-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Reflexões sobre a Arte Oriental (3)
 
@@ -1806,7 +2212,7 @@ Gostaria ainda de tecer alguns comentários sobre a arte budista. Tanto a pintur
 
 **Categoria:** to | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** 東方の光 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## A Profecia da Luz do Oriente
 
@@ -1826,7 +2232,7 @@ Nesse sentido, a publicação do primeiro número de nosso periódico, “Luz do
 
 **Categoria:** to | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
 **Título Original:** 読後のお言葉 自然農法体験者座談会 | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Orientações sobre a Agricultura Natural
 
@@ -1930,7 +2336,7 @@ Total: 38 participantes
 
 **Categoria:** to | **Ano:** 昭和26(1951)年6月6日 | **Fonte:** Eikou
 **Título Original:** 毒結五十年 | **Status:** Published | **Edição/Página:** 107号 | **Data ISO:** 1951-06-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Purificação de Toxinas Acumuladas por Cinquenta Anos
 
@@ -1952,7 +2358,7 @@ Nesse sentido, a bactéria da disenteria cumpre a função natural de auxiliar n
 
 **Categoria:** to | **Ano:** 昭和28(1953)年8月19日 | **Fonte:** Eikou
 **Título Original:** 取違いの例 | **Status:** Published | **Edição/Página:** 222号 | **Data ISO:** 1953-08-19
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O equívoco da confiança humana
 
@@ -2003,7 +2409,7 @@ Meishu-Sama, muito, muito obrigada.
 
 **Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 動脈瘤なんか何でもない 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura do Aneurisma
 
@@ -2023,7 +2429,7 @@ A simples análise deste fato é suficiente para demonstrar a impotência da med
 
 **Categoria:** to | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
 **Título Original:** 毒素の解剖 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核信仰療法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核信仰療法
 
 ## A Anatomia das Toxinas
 
@@ -2055,7 +2461,7 @@ Dessa forma, como o aparelho digestivo foi projetado para processar apenas os al
 
 **Categoria:** to | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 毒素とは何か 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Equívoco da Medicina e a Verdadeira Causa da Doença
 
@@ -2079,7 +2485,7 @@ Se, como resultado, o número de pessoas livres de doenças aumentar, como se to
 
 **Categoria:** to | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
 **Título Original:** 当局に望む | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 法難手記
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 法難手記
 
 ## Um Apelo à Consciência das Autoridades
 
@@ -2115,7 +2521,7 @@ Desde a antiguidade, costuma-se dizer que árvores altas atraem mais vento e que
 
 **Categoria:** to | **Ano:** 昭和25(1950)年10月11日 | **Fonte:** Eikou
 **Título Original:** どちらが迷信だ | **Status:** Published | **Edição/Página:** 73号 | **Data ISO:** 1950-10-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Afinal, o que é superstição?
 
@@ -2137,7 +2543,7 @@ Todavia, não alimento o menor pessimismo. A razão é simples: se Deus está a 
 
 **Categoria:** to | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 時の神様 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Deus do Tempo
 
@@ -2155,7 +2561,7 @@ Diante do exposto, torna-se imperativo que o ser humano dedique a máxima atenç
 
 **Categoria:** to | **Ano:** 昭和27(1952)年3月12日 | **Fonte:** Eikou
 **Título Original:** 闘病という言葉 医学断片集（２） | **Status:** Published | **Edição/Página:** 147号 | **Data ISO:** 1952-03-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Expressão “Lutar Contra a Doença”
 
@@ -2171,7 +2577,7 @@ Escrevo estas linhas por ter me deparado, recentemente, com a expressão “luta
 
 **Categoria:** tu | **Ano:** 昭和24(1949)年9月3日 | **Fonte:** -
 **Título Original:** 月世界 寸評（光25号） 白光生 | **Status:** Published | **Edição/Página:** 25号, 25号 | **Data ISO:** 1949-09-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Inviabilidade da Conquista Lunar
 
@@ -2187,7 +2593,7 @@ Diante disso, gostaria de lhes fazer uma recomendação: que direcionem seus val
 
 **Categoria:** to | **Ano:** 昭和24(1949)年12月24日 | **Fonte:** -
 **Título Original:** 取締当局に要望する | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1949-12-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Um Apelo às Autoridades Fiscalizadoras
 
@@ -2213,7 +2619,7 @@ Ousamos expor, com toda a franqueza, os anseios que nutrimos em nosso coração.
 
 **Categoria:** to | **Ano:** 昭和10(1935)年4月8日 | **Fonte:** Toho no Hikari
 **Título Original:** 東京は外国の都か 阿呆文学 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1935-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## Seria Tóquio uma capital estrangeira?
 
@@ -2233,7 +2639,7 @@ Parece, com efeito, que os japoneses já não podem saborear os alimentos genuin
 
 **Categoria:** to | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 道徳の根源 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Raiz da Moralidade
 
@@ -2253,7 +2659,7 @@ Passarei, a seguir, a discorrer sobre esses pontos de forma ordenada.
 
 **Categoria:** to | **Ano:** 昭和25(1950)年11月20日 | **Fonte:** 世界Kyusei教早わかり
 **Título Original:** 道理に従う | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-11-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 世界救世教早わかり
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 世界救世教早わかり
 
 ## O Dever de Seguir a Razão Divina
 
@@ -2277,7 +2683,7 @@ Ao unirmos o significado de cada um desses ideogramas, a profundidade do termo R
 
 **Categoria:** to | **Ano:** 昭和24(1949)年11月12日 | **Fonte:** -
 **Título Original:** 投書密告による被害 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1949-11-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Os Prejuízos das Denúncias e Cartas Anônimas
 
@@ -2299,7 +2705,7 @@ Pelo exposto, ao se determinar a veracidade de denúncias e cartas anônimas, ro
 
 **Categoria:** to | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 東洋と西洋 | **Status:** Published | **Edição/Página:** P.63 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## O Princípio Vertical e Horizontal
 
@@ -2328,7 +2734,7 @@ Quem compreende este princípio percebe que a recente derrota do Japão deve ser
 
 **Categoria:** tu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Origem da Dor e do Sofrimento
 
@@ -2352,7 +2758,7 @@ Por meio desta arte de cura, o sofrimento é sanado com celeridade. Mesmo as dor
 
 **Categoria:** to | **Ano:** 昭和28(1953)年9月16日 | **Fonte:** Eikou
 **Título Original:** 毒塊人間 | **Status:** Published | **Edição/Página:** 226号 | **Data ISO:** 1953-09-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O ser humano, uma massa de toxinas
 
@@ -2376,7 +2782,7 @@ Haveria muito mais a dizer, mas creio que o exposto já seja suficiente para a c
 
 **Categoria:** tu | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 墜落に対する医療と浄霊との相違 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Diferença entre o Tratamento Médico e o Johrei em Relação a Acidentes por Queda
 
@@ -2392,7 +2798,7 @@ Portanto, é verdadeiramente lastimável a condição do ser humano na atualidad
 
 **Categoria:** tu | **Ano:** 昭和27(1952)年2月6日 | **Fonte:** Eikou
 **Título Original:** 罪の因は薬 | **Status:** Published | **Edição/Página:** 142号 | **Data ISO:** 1952-02-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Origem do Pecado é o Remédio
 
@@ -2416,7 +2822,7 @@ Tragédias como essas estampam diariamente as páginas dos jornais, sendo partic
 
 **Categoria:** tu | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 聾耳、便秘、ジフテリヤ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Surdez, a Constipação e a Difteria Sob a Ótica Espiritual
 
@@ -2432,7 +2838,7 @@ Por fim, a difteria é frequentemente causada pela obsessão do espírito de um 
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 聾耳及び便秘とジフテリヤ ・病気と霊八 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Origem Espiritual da Surdez, da Constipação e da Difteria
 
@@ -2450,7 +2856,7 @@ Finalmente, abordemos a difteria. Sua causa, em grande parte dos casos, é a pos
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
 **Título Original:** ツベルクリンの注射 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核の正体
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核の正体
 
 ## O Equívoco da Reação à Tuberculina
 
@@ -2478,7 +2884,7 @@ A conclusão, portanto, é a seguinte: a reação negativa significa que o indiv
 
 **Categoria:** e | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 疫痢は簡単に治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Prodigiosa Cura da Disenteria Infantil
 
@@ -2498,7 +2904,7 @@ Todavia, quando a cura pode ser alcançada com simplicidade, pelas mãos da pró
 
 **Categoria:** tu | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
 **Título Original:** 土は肥料の塊り | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Solo como Manancial de Nutrientes
 
@@ -2528,7 +2934,7 @@ Da mesma forma, ao recebermos os relatos, percebo que há uma grande demanda nã
 
 **Categoria:** tu | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Essência da Dor
 
@@ -2558,7 +2964,7 @@ Além das toxinas medicamentosas, existem também as dores causadas por toxinas 
 
 **Categoria:** tu | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## A Origem da Dor e do Sofrimento
 
@@ -2583,316 +2989,6 @@ De acordo com minha experiência, as toxinas da medicina oriental caracterizam-s
 Notadamente, as toxinas medicamentosas provenientes de injeções são frequentemente a causa de dores lancinantes.
 
 Além das toxinas medicamentosas, existem também as dores oriundas de toxinas urêmicas, embora estas sejam, em sua maioria, de baixa intensidade. Já as toxinas congênitas, por sua vez, raramente provocam dor, razão pela qual a medicina, provavelmente, as confundiu com a sífilis congênita.
-
----
-
-# A Natureza da Dor e do Sofrimento
-
-**Categoria:** tu | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
-**Título Original:** 痛苦 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
-
-## A Natureza da Dor e do Sofrimento
-
-Para elucidar a natureza da dor, cumpre recordar o que já expliquei anteriormente. O processo de purificação gera febre, a qual dissolve as toxinas solidificadas no corpo. Uma vez liquefeitas, essas toxinas buscam uma via de saída, e o movimento que realizam nesse sentido acaba por estimular os nervos musculares. Eis, portanto, a causa fundamental da dor comum.
-
-Manifestações dolorosas dessa natureza são, de fato, multiformes e se apresentam em quadros como apendicite, peritonite aguda, nefrite aguda, cefaleias, dores de dente, otite média, reumatismo e diversas nevralgias.
-
-Ademais, no que tange às dores ósseas, diagnosticadas como periostite, a causa é análoga: as toxinas solidificadas no periósteo, ao serem dissolvidas pela purificação, deslocam-se e penetram nos músculos adjacentes, gerando a estimulação dolorosa.
-
-Existe ainda outra modalidade de dor óssea. Ocorre quando os nódulos de toxina situados sob o periósteo se dissolvem e, em seu esforço para emergir, criam perfurações microscópicas no próprio osso. A quantidade de perfurações é proporcional ao volume de toxinas, e, naturalmente, quanto maior o seu número, mais pungente é a dor. É o que se observa em casos de cárie das costelas, otite média, dores de dente e na enfermidade conhecida como osteomielite. Diante dessas inúmeras perfurações, os médicos afirmam que o osso está se decompondo, o que constitui um equívoco. A razão é simples: uma vez que as toxinas sejam dissolvidas e eliminadas, o osso se regenera por completo, retornando ao seu estado original.
-
-Passemos agora a dores de natureza especial, como as do panarício nos dedos das mãos, da gangrena nos dedos dos pés e áreas adjacentes, ou ainda das fístulas. Estas são, evidentemente, manifestações da expulsão de nódulos tóxicos pela purificação, mas a dor é excruciante porque as toxinas envolvidas são extremamente virulentas. Nesses casos, o primeiro e o segundo processos de purificação ocorrem simultaneamente, sem aguardar a conclusão do primeiro, razão pela qual são mais frequentes na juventude, período de grande poder purificador.
-
-A medicina alega que tais doenças provocam uma decomposição que se alastra progressivamente para as áreas vizinhas, o que é um erro crasso. Minha vasta experiência demonstra que, uma vez que as toxinas se acumulam até certo ponto, sua concentração cessa. Em seguida, após o acúmulo e inchaço atingirem seu ápice, ocorre uma perfuração natural, por onde o pus e o sangue tóxico são expelidos, culminando na cura completa. Contudo, como os sintomas se assemelham visualmente a um processo de putrefação, a medicina incorreu nesse equívoco. Em virtude disso, recorre-se a incisões cirúrgicas que acabam por mutilar os pacientes. Reitero e afirmo categoricamente, com base em meus longos anos de experiência: a gangrena e o panarício não são processos de decomposição.
-
-A dor causada pelo espasmo gástrico, por sua vez, possui uma natureza distinta. Como já abordei este tema na seção sobre doenças do estômago, irei omiti-lo aqui.
-
-Existem também as dores decorrentes de queimaduras e ferimentos. Visto que não se tratam de doenças, curam-se naturalmente com o passar do tempo. Caso a dor persista ou a ferida não cicatrize, a causa reside no uso de desinfetantes e outros medicamentos. Nesses casos, basta suspender a aplicação de quaisquer substâncias e lavar a área afetada apenas com água limpa para que a cura natural ocorra.
-
-Como exposto, as dores e os sofrimentos oriundos das doenças são múltiplos e variados, mas sua causa, na esmagadora maioria dos casos, é o yakudoku (薬毒), ou seja, o veneno dos medicamentos. A natureza da dor e dos sintomas varia conforme o tipo de yakudoku (薬毒) presente no organismo.
-
-De acordo com minha experiência, o yakudoku (薬毒) de remédios da medicina oriental caracteriza-se por provocar dores difusas e surdas. Já o de medicamentos ocidentais costuma gerar dores agudas e localizadas, que podem ser descritas como fulgurantes, semelhantes a picadas de agulha ou perfurantes, o que constitui sua peculiaridade.
-
-O yakudoku (薬毒) proveniente de injeções, em particular, é frequentemente a causa de dores lancinantes.
-
-Além do yakudoku (薬毒), existe a dor causada pelo veneno urêmico, que, no entanto, costuma ser leve. Por fim, o veneno congênito quase não produz dor, e talvez por essa razão a medicina o tenha confundido com a sífilis congênita.
-
----
-
-# A Transição do Mundo e a Crise da Medicina
-
-**Categoria:** e | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** Ｘの説明 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Transição do Mundo e a Crise da Medicina
-
-Conforme exposto no capítulo anterior, o elemento de suprema importância para a cura das doenças é o fator X, algo até então inexistente sobre a face da Terra. Explicarei, a seguir, o motivo pelo qual tal poder se manifesta por meu intermédio.
-
-É desnecessário dizer que, para erradicar a doença — causa da infelicidade humana —, Deus estabeleceu como condição indispensável o esclarecimento de sua patologia e o surgimento de um método de cura definitivo. Evidentemente, a patologia da doença consiste na Ação Purificadora, e o método de cura é o Johrei. Foi por essa razão que Deus me escolheu, concedendo-me sabedoria e poder.
-
-Esse poder se manifesta, como já mencionei, através do amuleto confeccionado com minha caligrafia; em outras palavras, trata-se de uma bomba atômica imaterial. Ademais, como o Elemento Fogo no Mundo Espiritual se intensifica dia após dia, as máculas espirituais se dissolvem com crescente facilidade. Isso ocorre porque o Elemento Fogo que me é transmitido também aumenta e se fortalece gradualmente. A prova disso reside no fato de que o poder do Johrei, ministrado por mim e por dezenas de milhares de meus discípulos, fortalece-se a cada dia, o que resultou em um notável aumento da capacidade de cura.
-
-Curiosamente, todavia, essa mesma influência se manifesta de maneira oposta no campo da medicina. Isso se deve ao fato de que a medicina, como já expliquei, consiste em um método para solidificar as toxinas que buscam ser eliminadas. Consequentemente, à medida que o Elemento Fogo aumenta, torna-se cada vez mais difícil solidificá-las, exigindo, para tanto, uma força progressivamente maior.
-
-Para alcançar tal efeito, é preciso intensificar a toxicidade dos medicamentos. Contudo, a partir de certo ponto, um veneno mais forte provoca efeitos colaterais. Evitar essas reações adversas, ajustando a dosagem, representa um enorme desafio. Eis em que consiste o chamado progresso farmacêutico. Portanto, é evidente que esse progresso não visa à cura da doença, mas sim ao aperfeiçoamento da sua solidificação temporária, o que, por si só, demonstra a natureza inversa do tratamento médico. Pelo exposto, o avanço dos novos fármacos consiste em aumentar a sua toxicidade sem gerar efeitos colaterais proporcionais, ou seja, é um avanço nos métodos de solidificação. É por essa razão que se alega uma diminuição na mortalidade por doenças como a tuberculose. A realidade, contudo, é outra: embora a taxa de mortalidade tenha diminuído, o número de doentes e de novos casos não sofreu a menor redução.
-
-A esse respeito, há uma advertência de suma importância que devo fazer. À medida que o Mundo Espiritual adentra a Era do Dia, o poder de purificação se tornará tão intenso que as toxinas não mais poderão ser solidificadas. Naturalmente, a toxicidade dos remédios precisará ser cada vez mais elevada, mas já estamos no limite. Qualquer avanço para além dessa fronteira de risco significará que o poder de dissolução superará o de solidificação.
-
-Quando isso ocorrer, todas as enfermidades, a começar pela tuberculose, aumentarão de forma exponencial. O crescimento no número de doentes e de mortos dará origem a um cenário de carnificina sem precedentes. Esta é a Era do Terror que venho anunciando há tanto tempo. Nesse ponto derradeiro, ao simples toque de um médico, o paciente sofrerá uma piora imediata ou virá a óbito. Advirá, assim, uma Era do Terror também para os médicos, que não terão alternativa senão abandonar a prática da medicina.
-
-Será então que as pessoas, em busca de um caminho para escapar dessa calamidade, verão finalmente a luz em meus ensinamentos. Multidões afluirão à nossa Igreja, almejando a salvação. A atividade frenética desse período será algo simplesmente inimaginável. O movimento se tornará gradualmente mundial, e a magna obra de Deus, a salvação de toda a humanidade, será enfim consumada.
-
----
-
-# A Magnificência do Solo
-
-**Categoria:** tu | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
-**Título Original:** 土の偉力 | **Status:** Published | **Edição/Página:** 79号 | **Data ISO:** 1951-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自然農法解説
-
-## A Magnificência do Solo
-
-O postulado fundamental da Agricultura Natural consiste em permitir que a magnífica força do solo se manifeste em sua plenitude. Até hoje, a humanidade desconheceu a verdadeira essência da terra; ou melhor, não lhe foi permitido conhecê-la. Esse desconhecimento gerou a concepção de que o uso de adubos era necessário, e, com o tempo, a agricultura tornou-se dependente deles, transformando-se em uma espécie de dogma cego. Lembro-me bem de como, no início, por mais que eu discorresse sobre o cultivo sem adubos, ninguém me dava ouvidos; minhas palavras eram recebidas com desdém e sarcasmo.
-
-Gradualmente, contudo, meus esforços foram recompensados. Nos últimos anos, o número de praticantes da Agricultura Natural vem crescendo a cada safra, e os resultados colhidos em toda parte têm sido extraordinários. Embora, por ora, a prática ainda se restrinja majoritariamente ao círculo de nossos fiéis, já observamos um crescente número de simpatizantes entre não membros em diversas regiões. O contingente de agricultores que adotam este método aumenta em um ritmo vertiginoso, o que me leva a prever que o dia em que ele se difundirá por todo o Japão não está distante. Nesse sentido, a divulgação da Agricultura Natural pode ser compreendida, em termos simples, como um movimento para desmantelar a falácia dos adubos.
-
-Como o próprio nome sugere, a Agricultura Natural preconiza o cultivo utilizando apenas composto orgânico, com a abstenção total de adubos químicos e dejetos humanos. Afinal, as matérias-primas do composto, como folhas e capim seco, são geradas pela própria Natureza. Em contrapartida, os adubos químicos, os dejetos humanos e animais, o farelo de peixe ou as cinzas de madeira não caem do céu nem brotam da terra; são transportados pela mão do homem e, por conseguinte, contrários à Natureza.
-
-Com efeito, toda a criação, em sua infinita diversidade, não existe sem receber as bênçãos da Grande Natureza. Tudo é gerado e nutrido pelos três elementos primordiais: Fogo, Água e Solo. Em termos científicos, esses elementos correspondem ao oxigênio do fogo, ao hidrogênio da água e ao nitrogênio do solo. Nenhuma cultura agrícola pode prescindir dessa trindade. Deus, em Sua sabedoria, concebeu um sistema pelo qual os cereais e as hortaliças, sustento da vida humana, pudessem ser produzidos sem excesso nem carência. Refletindo sobre essa lógica, a verdade se torna clara. É inconcebível que Deus, ao conceder a vida ao ser humano, não lhe houvesse provido os meios para sustentá-la. Se uma nação não consegue colher alimento suficiente para sua população, é porque, em algum ponto, está a desrespeitar as leis naturais por Ele estabelecidas. Enquanto não se derem conta disso, a solução para o problema da fome permanecerá inalcançável.
-
-Menosprezando as leis da Grande Natureza, a humanidade elegeu os adubos artificiais como seu único recurso, o que nos conduziu à situação atual. Sofrer com a escassez de alimentos é, portanto, uma consequência natural. Trata-se de uma retribuição inexorável pela cegueira diante dos princípios da Natureza, uma cegueira que a ciência materialista apenas intensificou, culminando na era de crise alimentar que hoje enfrentamos. Sob essa ótica, a agricultura moderna não representa um avanço, mas um verdadeiro retrocesso. A agricultura que reverencia a Natureza é o único caminho verdadeiro, e, sendo assim, por pior que seja a safra, o Japão deveria ser capaz de produzir, no mínimo, oitenta e três milhões de koku de arroz para seus oitenta e três milhões de habitantes — um koku por pessoa ao ano. Este princípio é mais certo que o martelo que golpeia a bigorna.
-
-A Agricultura Natural que preconizo fundamenta-se nesse princípio. As dificuldades e o esgotamento que afligem os agricultores japoneses devido à falta de alimentos podem ser facilmente solucionados com a sua prática. É por compaixão e infinito amor que Deus, vendo esse equívoco, não pode abandoná-los à própria sorte. Por meu intermédio, Ele revela ao mundo os fundamentos da Agricultura Natural. É imperativo, portanto, que despertem para esta verdade o mais breve possível e adotem este método, pois nele reside a genuína salvação para todos os agricultores.
-
-Como mencionei, se os três elementos — Fogo, Água e Solo — são a força motriz que nutre as lavouras, então, ao assegurar boa insolação, fornecer água em abundância e cultivar em solo puro, obteremos resultados muito superiores aos já vistos. Em algum momento da história, a humanidade cometeu um erro terrível: o uso de adubos. Foi uma prova de total ignorância sobre a verdadeira natureza do solo. É verdade que, ao aplicar adubo, obtém-se um efeito considerável em curto prazo, mas, com o uso contínuo, surge gradualmente uma reação adversa. A capacidade inata da planta de absorver os nutrientes do solo atrofia-se, e ela se modifica a ponto de depender do adubo para se nutrir.
-
-A analogia com a dependência de narcóticos ilustra perfeitamente essa situação. Ao usar uma droga pela primeira vez, a pessoa experimenta uma sensação de euforia ou clareza mental. Incapaz de esquecer esse prazer, ela mergulha cada vez mais fundo no vício, até se ver em um caminho sem volta. Nesse estágio, a abstinência provoca letargia e um tormento atroz, incapacitando-a para qualquer atividade. Incapaz de suportar o sofrimento, e mesmo sabendo que é errado, ela é compelida a usar a droga novamente, chegando a roubar para obtê-la. Os jornais noticiam constantemente exemplos como esse, revelando o quão terrível é tal dependência.
-
-Se aplicarmos este mesmo raciocínio à agricultura, a verdade se torna evidente. Hoje, podemos afirmar que os solos de todo o Japão padecem de uma severa intoxicação por adubos. No entanto, os agricultores, por serem há muito tempo devotos dessa crença cega, dificilmente despertam. Ocasionalmente, alguns ouvem nossos ensinamentos e decidem abandonar os adubos artificiais. Contudo, como nos primeiros meses os resultados não são animadores, eles concluem precipitadamente que, afinal, o método antigo era o correto e desistem.
-
-A Agricultura Natural, todavia, por ter como alicerce a fé, é praticada por aqueles que seguem minhas palavras sem qualquer hesitação. Graças a isso, seu verdadeiro valor pode ser facilmente compreendido. Descreverei o processo. Ao transplantar as mudas do canteiro para o campo, durante algum tempo a cor de suas folhas é pálida e seus caules, finos. A lavoura apresenta um aspecto inferior ao dos campos vizinhos, o que atrai a zombaria dos outros agricultores e enche o próprio praticante de apreensão. Em meio à preocupação, ele se pergunta se está no caminho certo e chega a orar a Deus em busca de amparo.
-
-Passados dois ou três meses, a lavoura começa a se recuperar. Na época da floração, a melhora já é notável, e sua aflição se dissipa. Às vésperas da colheita, o desenvolvimento das plantas iguala ou até supera o das lavouras convencionais, e ele finalmente respira aliviado. O momento da colheita, contudo, revela-se uma grata surpresa. A quantidade colhida supera em muito as expectativas, e a qualidade é excepcional: os grãos são brilhantes, pegajosos, saborosíssimos e pesados, sendo de cinco a dez por cento mais densos que o arroz cultivado com adubos. Quase toda a produção classifica-se como de primeira ou segunda categoria, sendo raríssimos os grãos de terceira. O mais interessante é que, por ser um arroz substancioso, seu volume aumenta de vinte a trinta por cento ao ser cozido, em vez de diminuir. Além disso, proporciona maior saciedade, de modo que se come cerca de trinta por cento a menos para se sentir satisfeito. Do ponto de vista econômico, as vantagens são enormes. Se toda a população japonesa consumisse o arroz da Agricultura Natural, o rendimento aumentaria em trinta por cento. Com a produção atual, a importação de arroz se tornaria desnecessária, o que representaria um benefício extraordinário para a economia nacional.
-
-A explicação para esse processo é a seguinte: o aspecto desolador dos primeiros meses ocorre porque tanto as sementes quanto o solo ainda contêm resíduos tóxicos dos adubos. Com o passar do tempo, o solo e as plantas vão se purificando dessas toxinas e recuperam sua força original, apresentando uma melhora progressiva. Creio que os próprios agricultores podem compreender essa lógica, pois sabem que, após a drenagem da água ou chuvas fortes, até os campos de pior qualidade melhoram um pouco. Isso ocorre simplesmente porque o excesso de toxinas foi lavado e reduzido. Os agricultores também costumam adicionar terra nova aos campos quando o crescimento das plantas está fraco. Ao verem uma melhora, interpretam que o solo estava "cansado" por ter seus nutrientes absorvidos ao longo dos anos, e que a terra nova o revigorou. Essa interpretação está equivocada. Na verdade, o solo estava debilitado e empobrecido devido ao acúmulo anual de toxinas. O raciocínio dos agricultores apenas demonstra o quão enraizada está a crença cega nos adubos.
-
-Quanto à aplicação do composto orgânico, na cultura do arroz, a palha deve ser cortada o mais fino possível e bem misturada à terra, com o propósito de aquecer o solo. Para as hortas, deve-se usar um composto de folhas e capim seco, decomposto até que as nervuras das folhas se tornem macias, e então misturá-lo bem à terra. A razão para tal prática é evitar a compactação do solo, que dificulta o crescimento das raízes, cujas pontas encontram resistência para se expandir. A esse respeito, ouve-se muito ultimamente que é bom "arejar as raízes". Não é que o ar em si seja benéfico para elas; o fato de o ar conseguir penetrar até as raízes é apenas um sinal de que o solo não está compactado. Também aqui a interpretação dos agrônomos está equivocada.
-
-O ideal, portanto, seria que, para culturas de raízes superficiais, bastasse misturar o composto de folhas ao solo da horta. Já para as de raízes profundas, recomenda-se criar um leito de composto de folhas a cerca de trinta centímetros de profundidade, para aquecer a terra. A espessura desse leito deve variar conforme o tipo de planta. As pessoas tendem a pensar que o composto orgânico possui nutrientes, mas isso não é verdade. Os benefícios do composto residem em três pontos fundamentais: evitar a compactação, aquecer o solo e, por fim, reter a umidade, impedindo que a terra ao redor das raízes resseque.
-
-Como se pode ver, o alicerce da Agricultura Natural é vivificar o próprio solo. E vivificar o solo significa mantê-lo sempre puro, livre de impurezas como os adubos artificiais. Dessa forma, sem nenhum obstáculo, o solo pode manifestar plenamente sua força inata. Há um fato curioso: os agricultores falam em "deixar a terra descansar", mas isso também é um erro. Quanto mais se cultiva, melhor o solo se torna. É como uma pessoa, que se fortalece quanto mais trabalha e se enfraquece quanto mais descansa. Também nesse ponto a interpretação dos agricultores é o oposto da verdade. Acreditando que o cultivo contínuo esgota os nutrientes, eles deixam as hortas em pousio. Tudo está equivocado. Esse erro os leva a considerar a monocultura sucessiva como algo prejudicial, alternando as culturas de lugar a cada ano, o que é de uma insensatez lastimável. A Agricultura Natural, ao contrário, defende a monocultura.
-
-Como exemplo prático, cito o milho que cultivo. Já são sete anos de plantio consecutivo no mesmo local, em um solo pedregoso de Gora, em Hakone, que certamente pode ser considerado de péssima qualidade. Apesar disso, a safra deste ano foi esplêndida: as espigas são densas, com os grãos alinhados em fileiras perfeitas, são mais longas que o comum e possuem sabor adocicado e textura macia, absolutamente deliciosas. Por que, então, a monocultura sucessiva é benéfica? Porque o solo, de acordo com a espécie cultivada, desenvolve naturalmente as propriedades ideais para aquela cultura. A analogia com o ser humano novamente nos ajuda a compreender: o trabalho físico desenvolve a musculatura, enquanto o trabalho intelectual, como o de um escritor, aprimora a mente. Da mesma forma que uma pessoa que muda constantemente de profissão ou de residência não prospera, o solo também se beneficia da constância. Isso nos mostra o quão equivocados estávamos.
-
-Para finalizar, gostaria de abordar um último ponto. Ao criar bichos-da-seda alimentando-os com folhas de amoreira cultivadas sem adubo, os casulos se tornam imunes a doenças, e o fio de seda produzido é extremamente resistente, brilhante e a produção aumenta de forma consistente. Se essa prática fosse adotada em todo o país, provocaria uma verdadeira revolução na indústria da seda, e o benefício para a economia nacional seria, decerto, imensurável.
-
----
-
-# A Comédia da Nutrição
-
-**Categoria:** e | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** 栄養の喜劇 自観叢書10編 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
-
-## A Comédia da Nutrição
-
-A Comédia da Nutrição soará, por certo, como um título assaz peculiar. Eu mesmo relutaria em empregar tal expressão, não fosse a ausência de outra que lhe fosse mais adequada. Rogo, portanto, a benevolência do leitor. Afinal, a disciplina hoje conhecida como ciência da nutrição, na qual se deposita fé e se pauta a conduta de tantos, nada mais é que um completo e absoluto equívoco.
-
-A despeito de sua natureza prejudicial e inócua, esta equivocada ciência é reverenciada como uma das facetas da cultura mais avançada, e sua prática disseminada implica um dispêndio de esforço e recursos financeiros de tal magnitude que é verdadeiramente lastimável. Se apresento uma teoria que pode parecer audaciosa e beirar a insanidade, faço-o por não mais poder silenciar diante da situação vigente. Procurarei, a seguir, expô-la com o máximo de detalhes.
-
-Atualmente, ocupam o trono dos suplementos nutricionais as vitaminas A, B e C, seguidas por uma vasta gama de substâncias como aminoácidos, glicogênio, carboidratos, gorduras e proteínas. É notório que a variedade de vitaminas aumenta a cada ano. Contudo, a ingestão ou injeção desses compostos, embora possa gerar um efeito momentâneo, carece de sustentabilidade. Ao final, o resultado é reverso: quanto mais suplementos se consomem, mais o corpo humano se enfraquece.
-
-Qual a razão para tal fenômeno? A finalidade precípua da alimentação é, como bem se sabe, a manutenção da vida e o fomento da vitalidade. Ocorre que a interpretação da ciência moderna sobre este ponto diverge fundamentalmente da realidade.
-
-Consideremos o ato de nos alimentarmos. O alimento é triturado pelos dentes, desce pelo esôfago até o estômago e, em seguida, ao intestino. Ali, os resíduos são excretados como fezes e urina, enquanto apenas os componentes necessários são absorvidos. Durante esse percurso, a atividade de todas as funções nutritivas — fígado, vesícula biliar, rins, pâncreas, entre outras — opera de maneira insondável, produzindo, extraindo e distribuindo os elementos essenciais para o sangue, os músculos, os ossos, a pele, os cabelos, os dentes e as unhas. É por meio dessa atividade que a vida se sustenta, em uma manifestação da engenhosidade da Criação tão misteriosa e sutil que as palavras não podem descrevê-la. Esta é a autêntica fisionomia da natureza.
-
-Conforme exposto, os nutrientes de que o ser humano necessita para viver encontram-se em todos os alimentos. A imensa variedade de comestíveis existe justamente para fornecer os diversos substratos nutritivos de que precisamos. Ademais, as preferências e as quantidades variam de pessoa para pessoa e de acordo com a ocasião, pois o corpo solicita o que lhe é necessário. Por exemplo, quando sentimos fome, comemos; quando a garganta seca, bebemos água. O desejo por doces indica carência de açúcar, assim como a vontade de comer algo salgado revela falta de sal. A própria natureza humana, por meio de seus anseios, elucida essa lógica.
-
-E o mais importante: aquilo que o corpo solicita é invariavelmente saboroso. Compreende-se, assim, o quão equivocado é forçar-se a ingerir substâncias de sabor desagradável sob o pretexto de serem remédios. O antigo ditado "o bom remédio é amargo na boca" revela-se um grande erro. A amargura é, na verdade, um sinal do Criador de que a substância é tóxica e não deve ser ingerida. Por essa lógica, quanto mais delicioso um alimento, mais completo ele é em nutrientes. A delícia advém da densa energia espiritual do alimento, que é rica em elementos nutritivos. O fato de peixes e vegetais serem mais saborosos quando frescos decorre da intensidade de sua energia espiritual, a qual se dissipa com o passar do tempo.
-
-Passemos agora à questão dos suplementos. As funções nutritivas do organismo são capazes de produzir, a partir de qualquer alimento, todos os nutrientes necessários, como as vitaminas, na quantidade exata que o corpo requer. Em outras palavras, o poder admirável dessas funções pode gerar a dose necessária de vitamina mesmo a partir de um alimento que, supostamente, não a contenha. É precisamente o processo de produzir nutrientes a partir dos alimentos — essa atividade transformadora — que constitui a força vital do ser humano. Em termos simples, a vitalidade reside na ação de converter uma matéria-prima em um produto final.
-
-Sob essa ótica, ao ingerirmos um suplemento nutricional, que já é uma substância completa, as funções de produção do corpo ficam sem ter o que fazer e, naturalmente, atrofiam. E, se as funções nutritivas se degeneram, é inevitável que as demais funções, por responsabilidade solidária, também entrem em declínio, resultando no enfraququecimento progressivo do organismo.
-
-Permitam-me citar alguns exemplos. Antigamente, popularizou-se nos Estados Unidos um método alimentar chamado Fletcherismo, que preconizava mastigar os alimentos o máximo possível, até que se tornassem uma pasta. Segui rigorosamente essa prática por um mês. Para minha surpresa, meu corpo foi se debilitando gradualmente, e perdi a força. Abandonei o método e, ao retornar aos meus hábitos normais, recuperei o vigor. Compreendi então o equívoco de mastigar em excesso. A razão é simples: se os dentes realizam todo o trabalho de trituração, o estômago não tem mais o que fazer e, consequentemente, enfraquece. Concluí que o ideal é mastigar os alimentos apenas parcialmente. O antigo ditado segundo o qual "quem come e evacua rápido é saudável" demonstra que nossos antepassados eram mais evoluídos nesse aspecto que o homem moderno e sua cultura.
-
-Da mesma forma, o uso de digestivos torna a atividade do estômago mais lenta, o que o enfraquece. Isso leva a um novo consumo do medicamento, que por sua vez o debilita ainda mais. É um fato incontestável que a causa de muitas doenças estomacais reside no uso de remédios para o estômago. Com frequência, ouvimos relatos de pacientes crônicos que não melhoravam com dietas de fácil digestão, mas que se curaram ao comer algo simples, como arroz com chá e conservas.
-
-Para ilustrar o princípio de que a força vital humana reside na transformação de alimentos incompletos em nutrientes perfeitos, recorramos à analogia de uma fábrica. Inicialmente, as matérias-primas são levadas à fábrica. Ali, queima-se carvão, as máquinas operam e os operários trabalham para, gradualmente, produzir uma máquina completa. Esse processo é a própria razão de ser da fábrica. Agora, imagine o oposto: se máquinas já prontas fossem levadas para dentro da fábrica, não haveria necessidade de trabalho. O carvão não seria queimado, as máquinas permaneceriam paradas e os operários seriam dispensados. Nesse cenário, não restaria outra opção senão fechar a fábrica.
-
-Esforcei-me para explicar esta lógica da forma mais clara possível. Quando refletimos sobre ela, percebemos que despender grandes somas em suplementos insípidos para, no fim, apenas debilitar o corpo, é um ato de insensatez que só pode ser classificado como uma comédia. Eis a razão do título inusitado deste ensaio.
-
-(Nota) O Fletcherismo foi um método proposto em 1899 pelo comerciante americano Horace Fletcher, que defendia a mastigação exaustiva dos alimentos. Impedido de contratar um seguro de vida devido à obesidade, Fletcher desenvolveu essa prática como parte de uma dieta para reduzir sua ingestão calórica para cerca de 1.600 calorias. Na década de 1930, em meio à escassez de alimentos no Japão, a "importância de mastigar bem" tornou-se um lema nacional e uma moda passageira, embora sua origem estivesse na prevenção da obesidade.
-
----
-
-# Memórias de um Cinéfilo
-
-**Categoria:** e | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 映画 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.29 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
-
-## Memórias de um Cinéfilo
-
-Minha paixão pelo cinema é um fato notório entre todos que me conhecem. Se bem me recordo, minha primeira experiência com a sétima arte remonta aos meus dezesseis ou dezessete anos, há cerca de cinco décadas, o que me qualifica, sem dúvida, como um dos mais antigos entusiastas. Naquela época, o cinema dava seus primeiros passos no Japão. As produções, naturalmente, eram de um único rolo e retratavam cenas de uma simplicidade que, hoje, nos pareceria extremamente ingênua: o movimento das ondas, um cão a correr, gestos humanos. Ainda assim, todos assistiam com os olhos arregalados de espanto, e a comparação com os dias de hoje suscita uma profunda nostalgia.
-
-O primeiro filme com enredo que vi era francês e contava a história de um marinheiro que, ao retornar de uma viagem, se deparava com algum conflito familiar, cujos detalhes já se perderam em minha memória. Era uma obra simples, de um rolo só, exibida em uma modesta casa de espetáculos no Parque de Asakusa, chamada Denkikan. Pouco tempo depois, surgiu a figura do narrador de filmes, sendo o célebre Saburo Somei um dos pioneiros.
-
-Havia também, em Kanda Nishikicho, o Kinkikan, um estabelecimento consideravelmente mais imponente, cujo salão se assemelhava ao de uma antiga residência de um senhor feudal. Por ser frequentemente utilizado para discursos e eventos, o piso era coberto por tatames, e os espectadores, naturalmente, assistiam sentados. Foi lá que vi pela primeira vez um filme de animação com temática budista, intitulado “O alegre Emma-Daio”, uma obra infantil que, por ser bastante divertida, alcançou enorme sucesso. O narrador daquela sessão era Koyo Komada, que se tornou famoso por seu estilo singular e vibrante. Posteriormente, inaugurou-se em Kanda o Shinseikan, que também passei a frequentar. Em Asakusa, por sua vez, ao Denkikan somaram-se sucessivamente o Sanyukan, o Fujikan, o Daishokan, o Teikokukan e o Nihonkan, e, aos poucos, novas salas de cinema foram surgindo por toda a cidade.
-
-Como é de vosso conhecimento, o cinema, que à época era conhecido como “fotografia em movimento”, evoluiu gradualmente de curtas de um único rolo para produções mais longas, com dois ou três rolos. No início, predominavam as obras da companhia francesa Pathé, identificadas pelo seu icônico galo. Um grande sucesso daquele tempo foi um filme sobre um vilão chamado Zigomar, cuja trama, que envolvia o protagonista em fugas e disfarces, cativou o público. Havia também uma comédia italiana sobre um homem pequeno e ágil chamado Andrew, cujas peripécias eram tão divertidas que chegaram a inspirar o título de uma outra produção. Mais tarde, o filme alemão “O Cavalo Alado”, da companhia Ufa, tornou-se um fenômeno de bilheteria.
-
-Pouco depois, o cinema norte-americano começou a chegar ao Japão. Com suas produções de grande envergadura, a nitidez da imagem e as atuações vigorosas de seus atores, pode-se afirmar que o público foi quase que inteiramente cativado pela cinematografia americana, e eu não fui exceção. Lembro-me de uma série de grande sucesso chamada “Os Perigos de Pauline”, que muitos ainda devem recordar. Foi também nessa época que os filmes de faroeste se popularizaram, muitos deles em formato de seriado, consagrando o ator Rollo, um astro de filmes de ação com traços semelhantes aos de um japonês, que se tornou o centro das atenções. Com o declínio do gênero de ação, ascenderam as comédias tipicamente americanas; foi a era em que os filmes de gênios como Chaplin, Lloyd e Keaton foram calorosamente acolhidos.
-
-Sob a avassaladora influência americana, a produção europeia — francesa, alemã e italiana — acabou por perder seu destaque. Mesmo os longas-metragens italianos, que tiveram seu momento de popularidade, não resistiram à pressão, e o cinema americano passou a dominar quase que por completo o mercado. As grandes companhias da época eram a Paramount, a Fox, a Metro-Goldwyn e a Universal, cada uma com suas características distintas. Guardo na memória, em especial, uma obra-prima da Universal chamada “The Blue Bird”, que merece ser mencionada. Até então, o cinema era, em sua maioria, uma forma de entretenimento superficial, repleto de artifícios melodramáticos e de pouca profundidade. Este filme, contudo, era desprovido de qualquer sensacionalismo; era a própria verdade transposta para a tela, algo que tocava profundamente a alma. Tal como Ibsen, que rompeu com a tradição teatral predominante nos romances europeus do século XVIII ao introduzir uma profunda análise psicológica, inaugurando uma nova era na literatura, este filme representou um marco semelhante para o cinema. Consequentemente, “The Blue Bird” foi aclamado pelos intelectuais como uma obra destinada aos verdadeiros apreciadores da sétima arte. Sua influência foi tamanha que até mesmo o cinema americano, antes tão afeito a exageros, passou a buscar maior substância e profundidade.
-
-Entre os diretores célebres daquele período, é impossível esquecer D. W. Griffith, um mestre na criação de filmes de grande escala. Sua obra “Intolerância” foi uma produção de conteúdo profundo e verdadeiramente inspiradora. Outra figura inesquecível foi Rodolfo Valentino, o homem de beleza ímpar que arrebatou o mundo — e refiro-me aqui não ao seu talento cênico, mas à sua aparência estonteante. O último filme seu a que assisti foi “Sangue e Areia”, uma adaptação de “Carmen”. Era uma beleza tão cativante que impressionava até mesmo os homens; creio que jamais surgirá alguém tão belo quanto ele. Não é de se espantar que tenha se tornado o objeto de desejo das mulheres de todo o mundo. Lamentavelmente, os céus lhe concederam a beleza, mas não uma longa vida. Com seu estilo artístico singular, Douglas Fairbanks também desfrutou, por um tempo, de imensa popularidade mundial.
-
-O relato que fiz até aqui percorre minhas memórias da era do cinema mudo. Por volta de 1919, ao me tornar membro da Oomoto, afastei-me das salas de exibição por aproximadamente uma década, em parte por influência de minha fé. Foi justamente nesse período que surgiu o cinema falado.
-
-Até aquele momento, o cinema japonês, devo admitir, não possuía grande valor artístico. Com o advento do cinema falado, os benshi, narradores que até então eram figuras indispensáveis, viram-se fadados ao desemprego, um fato por todos conhecido. Dentre eles, recordo-me ainda de nomes como Saburo Somei, Tenpan Takita, Tenpu Ishii, Raiyu Ikoma e Tenro Tani. Alguns que ainda hoje estão na ativa são Roppa Furukawa, Musei Tokugawa, Shiro Otsuji, Suisei Matsui e Shizunami Iguchi.
-
-Como mencionei, foi somente após meu desligamento da Oomoto que retomei o hábito de ir ao cinema. Sendo por natureza um grande apreciador, minha paixão pela sétima arte reacendeu-se de imediato. Desde então, procuro assistir a tantos filmes quanto possível.
-
-Após essa lacuna de dez anos, o primeiro filme a que assisti foi “A Batalha de Verão de Osaka”, no qual o hoje conhecido Kazuo Hasegawa, à época chamado Chojiro Hayashi, interpretava o papel de Sakazaki Dewanokami. Fiquei absolutamente maravilhado. Jamais poderia imaginar que o cinema japonês tivesse evoluído tanto durante minha ausência. Aquele momento foi um marco, e a partir de então, tornei-me um entusiasta do nosso cinema. Dentre as produções japonesas que vi desde então, guardo na memória títulos como “Tange Sazen”, “O Desfiladeiro do Grande Buda”, “Ladrões do Período Sengoku”, “Tsuruhachi e Tsurujiro”, “A atriz Sumako Matsui” e “No Fim das Montanhas Prateadas”.
-
-Ultimamente, confesso que os filmes americanos já não me despertam o mesmo entusiasmo de antes. Isso se deve, talvez, ao fato de que muitas tramas se concentram em dramas familiares, e sinto falta das grandes produções e das comédias geniais de outrora. Na verdade, como não compreendo o idioma, as intrigas mais complexas dos dramas domésticos tornam-se simplesmente ininteligíveis para mim, o que certamente contribui para meu desinteresse. A causa para essa mudança talvez resida no próprio advento do cinema falado, que tornou desnecessário o uso da linguagem corporal expressiva que caracterizava a era do cinema mudo. Dentre os filmes americanos que permanecem vivos em minha memória estão “O Furacão”, “Chicago” e “Legião de Heróis”. Embora em menor número, o cinema britânico recente tem apresentado obras dignas de nota. Já o cinema francês, por se dedicar quase que exclusivamente a temas românticos, não me atrai tanto, mas reconheço que isso pode ser um reflexo da minha idade.
-
-Por outro lado, embora a situação fosse diferente logo após o fim da guerra, o cinema japonês recente tem nos presenteado com excelentes produções. É inegável o progresso em termos de técnica de filmagem e em todos os outros aspectos. Contudo, ainda persistem certas deficiências. A maior delas, além das questões do som, é a persistência de certos artifícios melodramáticos no enredo. Por vezes, quando o desenvolvimento da trama nos prende a ponto de mal conseguirmos respirar, uma cena inverossímil e descabida surge, aniquilando instantaneamente todo o interesse construído até então. Ouso dirigir esta crítica severa aos cineastas, pois é um ponto que merece a máxima atenção.
-
-O que é digno de louvor, no entanto, é o desempenho dos atores de hoje, que demonstrou uma notável evolução, talvez em parte devido ao uso mais frequente de closes. Por fim, o que mais almejo para o futuro do cinema japonês são as produções de grande envergadura e o advento do cinema em cores. Espero que a realização desses anseios não tarde.
-
----
-
-# A Materialização do Paraíso Terrestre
-
-**Categoria:** e | **Ano:** 昭和27(1952)年 | **Fonte:** 天国の苑
-**Título Original:** 映画 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の苑
-
-## A Materialização do Paraíso Terrestre
-
-Apresento-me como Mokichi Okada, Líder Espiritual da Sekai Kyusei Kyo. O propósito fundamental de nossa Igreja é erradicar a doença, a pobreza e o conflito para, assim, edificar o Paraíso Terrestre.
-
-O Paraíso é, por excelência, um mundo pleno da Verdade, do Bem e do Belo. Contudo, enquanto a Verdade e o Bem são de natureza imaterial, o Belo é o único que pode se manifestar concretamente. Nesse sentido, edificamos nas montanhas de Hakone um protótipo do Paraíso Terrestre.
-
-Dentre as obras ali realizadas, destaca-se o Museu de Arte. Atualmente, a construção de museus tornou-se uma tendência, e eles surgem em toda parte. Todavia, seu acervo geralmente se concentra na arte chinesa, ocidental ou budista. É inconcebível que, em nosso próprio país, não exista um museu dedicado primordialmente à beleza da arte japonesa.
-
-Profundamente consternado com essa lacuna, decidi criar um museu de arte cujo foco principal fosse o acervo japonês. Nossa intenção foi criar um espaço onde a beleza natural de Hakone e a beleza da arte, criada pelo ser humano, se harmonizassem da forma mais plena possível.
-
----
-
-# O Jardineiro da Feira Religiosa
-
-**Categoria:** e | **Ano:** 昭和10(1935)年2月23日 | **Fonte:** Toho no Hikari
-**Título Original:** 縁日の植木屋 阿呆文学 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-02-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
-
-## O Jardineiro da Feira Religiosa
-
-Um cliente, certo senhor Okada, indagou:
-— Qual o valor desta muda adicional?
-
-O jardineiro, um homem chamado Suzuki, respondeu:
-— Ora... O preço final e inflexível é de cento e oitenta milhões de ienes.
-
-— Hum... Um valor deveras elevado. Não poderia conceder-me um bom desconto?
-
-— De modo algum. Na verdade, não há margem para negociação, pois o preço não foi majorado.
-
-— Isso é um disparate! O valor é por demais exorbitante. Ademais, acabo de realizar vultosos gastos e meus recursos estão escassos. Sendo assim, que tal fazer um grande esforço e reduzir o preço para quinze milhões de ienes?
-
-— Ah... Que remédio... Embora o valor não represente sequer a décima parte do original, em virtude dos tempos de crise, tomarei uma decisão drástica e aceitarei sua proposta.
-
----
-
-# Uma Reflexão sobre a Disenteria Infantil
-
-**Categoria:** e | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
-**Título Original:** 疫痢 寸評（光20号） 白光生 | **Status:** Published | **Edição/Página:** 20号, 20号 | **Data ISO:** 1949-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## Uma Reflexão sobre a Disenteria Infantil
-
-Entre as enfermidades infantis, a disenteria é tida como uma das mais temíveis. Comumente, atribui-se sua origem à alimentação, citando-se o consumo de bananas ou de alimentos que contenham pasta doce de feijão.
-
-Tal suposição, todavia, é absolutamente infundada. A disenteria consiste, em verdade, em um intenso processo de purificação. O equívoco advém do hábito de se culpar o alimento ingerido imediatamente antes do início dessa purificação, o que decorre do completo desconhecimento sobre a genuína causa do fenômeno.
-
----
-
-# Uma Nova Perspectiva sobre a Nutrição
-
-**Categoria:** e | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 栄養学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
-
-## Uma Nova Perspectiva sobre a Nutrição
-
-É crença generalizada que a nutrição, no âmbito da medicina moderna, atingiu um notável grau de progresso. A interpretação médica predominante sobre o tema, conforme exposto por um especialista na área, pode ser resumida da seguinte maneira:
-
-“Diariamente, a maioria de nós realiza três refeições de forma quase ininterrupta. Esse hábito serve tanto para repor as substâncias que o corpo perde em suas atividades rotineiras quanto para construir novos tecidos. Desse modo, ocorrem continuamente no organismo dois processos simultâneos: o de decomposição e o de síntese. A soma de ambos é o que denominamos metabolismo. Mas qual é, afinal, o percurso que os alimentos trilham desde a digestão e absorção até se tornarem substâncias de reposição ou de síntese?
-
-Comecemos pelas proteínas. No sistema digestivo, elas são decompostas em aminoácidos, os quais, por sua vez, são absorvidos pela parede intestinal, ingressam na corrente sanguínea e, passando pelo fígado, são distribuídos por todo o corpo. Ao alcançarem os tecidos, esses aminoácidos são recombinados para formar as proteínas específicas de cada local. Uma parte, contudo, sofre uma decomposição adicional, transformando-se em ureia, ácido úrico, amônia, creatina e creatinina, que, juntamente com sais inorgânicos, são excretados pela urina. Assim, embora a maior parte da proteína digerida seja utilizada como aminoácidos para a síntese de tecidos, uma parcela também é queimada, à semelhança dos carboidratos e das gorduras, para gerar energia motora.
-
-Passemos aos carboidratos. Estes são convertidos em glicose, um monossacarídeo, e absorvidos pela parede intestinal, entrando na circulação venosa e sendo transportados pela veia porta. Consequentemente, a ingestão de uma grande quantidade de carboidratos de uma só vez eleva o nível de açúcar no sangue. O excesso é armazenado no fígado sob a forma de glicogênio, que pode ser reconvertido em glicose conforme a necessidade do corpo. Essa glicose é então oxidada pelo oxigênio no sangue, fornecendo principalmente energia para o movimento e, nesse processo, gerando uma quantidade considerável de gás carbônico. Quanto mais intensa a atividade física, mais vigorosa é a oxidação da glicose, demandando o glicogênio estocado no fígado para a reposição. Vale notar que a conversão da glicose em gás carbônico envolve vários produtos intermediários, sendo o ácido úrico um deles. Por essa razão, a medição dos níveis de ácido úrico é utilizada para aferir o grau de fadiga. Ademais, parte dos carboidratos pode ser convertida em gordura e depositada no corpo, o que explica por que o consumo excessivo de alimentos ricos nesse nutriente leva ao aumento da gordura corporal e, gradualmente, à obesidade.
-
-Por fim, a gordura. Uma pequena fração pode ser digerida no estômago, mas a maior parte segue para o intestino, onde a enzima lipase pancreática, a estearina, a decompõe em ácidos graxos e glicerina. Após serem absorvidos pela parede intestinal, esses componentes se recombinam em gordura e circulam pelo corpo em estado leitoso junto à linfa, até alcançarem a corrente venosa. Subsequentemente, parte dessa gordura é armazenada como gordura corporal, enquanto outra parte é oxidada para produzir energia. Contudo, diferentemente dos carboidratos, a gordura se converte primordialmente em energia térmica.”
-
-A explanação supracitada é, de fato, pormenorizada a ponto de suscitar admiração, tornando compreensível a credulidade do público em geral. Todavia, por mais engenhosa que seja uma teoria, ela não possui valor algum se não se coaduna com a realidade. Nesse sentido, permito-me expor a teoria nutricional que desenvolvi com base em minhas próprias pesquisas.
-
-Atualmente, a ciência da nutrição se ocupa em debater calorias, vitaminas e outros elementos. Eu, porém, posso afirmar categoricamente: é perfeitamente possível viver de forma plena consumindo alimentos desprovidos de vitaminas A, B ou C.
-
-O equívoco fundamental da nutrição contemporânea reside em sua abordagem unilateral, que se concentra quase exclusivamente no estudo do alimento, relegando a um segundo plano a investigação sobre as funções do corpo humano, que é quem o recebe e processa. Em sua essência, o organismo humano é um químico de uma complexidade tão extraordinária que desafia a plena compreensão da ciência atual. Ele possui a capacidade inata de produzir e transformar livremente todos os nutrientes necessários a partir de qualquer tipo de alimento. Observemos: por meio da ingestão de arroz, pão, verduras, tubérculos e leguminosas, esse mágico processo digestivo os converte em sangue, músculos e ossos. No entanto, por mais que se analisem esses alimentos, não se encontrará neles nem uma partícula de hemoglobina, nem mesmo um elemento correspondente a um milímetro de tecido muscular. De igual modo, a análise de qualquer alimento jamais revelará os elementos fétidos e impuros das fezes e da urina, nem mesmo a amônia.
-
-Diante dessa lógica, qual seria o resultado de se ingerir diretamente substâncias como sangue ou vitaminas, sob o pretexto de "nutrição"? Na verdade, tal prática apenas intensificaria o enfraquecimento do corpo. Embora essa afirmação possa parecer insólita ao leitor, uma reflexão mais profunda a tornará clara. Ora, se a função digestiva é capaz de produzir vitaminas a partir de alimentos que não as contêm, a ingestão direta de vitaminas elimina a necessidade de sua atuação, levando à sua atrofia. E se uma função tão vital como a digestão declina, é natural que as demais funções, interligadas a ela, também se enfraqueçam. Portanto, seguir à risca os preceitos da ciência moderna pode, paradoxalmente, acarretar o resultado oposto ao desejado.
-
-Para elucidar melhor, tomemos um exemplo. Imaginemos uma fábrica que manufatura determinado produto. Ela importa matérias-primas, como ferro e carvão, e, através de um processo que envolve o trabalho dos operários, a queima do carvão e o funcionamento das máquinas, finalmente gera um produto acabado. Esse processo constitui a força vital da fábrica. Se, em vez disso, a fábrica recebesse o produto já finalizado, o trabalho dos operários, o carvão e as máquinas se tornariam desnecessários; as chaminés não soltariam fumaça e a vida da fábrica cessaria. Os operários seriam demitidos, e o maquinário, enferrujaria. De forma análoga, o corpo humano, ao ingerir alimentos já “completos”, priva sua própria fábrica nutricional da oportunidade de atuar, levando-a ao enfraquecimento. Por conseguinte, é preciso compreender que a força vital humana emerge da atividade de transformar alimentos incompletos em completos. E, naturalmente, as vitaminas e todos os outros chamados nutrientes são, em essência, alimentos completos.
-
-A notável capacidade de trabalho dos camponeses provém de sua alimentação simples. A pujante força vital dos famosos coolies da Manchúria, por sua vez, deve-se ao fato de que eles subsistem consumindo apenas pão de sorgo em suas três refeições diárias.
-
-Em contrapartida, do ponto de vista da nutrição convencional, as classes abastadas teriam a alimentação mais ideal. Elas consomem alimentos repletos de nutrientes, fazem refeições variadas e mastigam bem os alimentos. O que nos diz, então, o fato de sua constituição física ser geralmente frágil? A mastigação excessiva, em particular, é prejudicial, pois enfraquece a atividade do estômago.
-
-A nutrição moderna também subestima o valor nutricional dos grãos, tendendo a crer que os nutrientes se concentram nos acompanhamentos, o que é um erro. Na realidade, os grãos são a fonte principal de nutrição, e os acompanhamentos, a secundária. Poderíamos até dizer que estes servem como um meio para se consumir os grãos de forma mais prazerosa. Como exemplo, recordo-me de uma ocasião, anos atrás, em que escalei os Alpes japoneses e me espantei ao ver a refeição de nosso guia: continha unicamente arroz, sem nenhum acompanhamento. Não havia sequer um *umeboshi*. Indaguei-lhe se o arroz puro era saboroso, ao que ele respondeu que era delicioso. E com essa dieta, aqueles homens carregavam de doze a treze *kan* (aproximadamente 45 a 50 quilos) de bagagem, subindo e descendo trilhas extremamente íngremes todos os dias. Como os nutricionistas explicariam tais fatos?
-
-Pode parecer estranho que arroz puro, sem acompanhamentos, seja tão saboroso, mas a explicação é simples. As funções do corpo humano foram projetadas para se adaptar ao ambiente. Ao se manter uma alimentação frugal, o paladar se transforma, e o que era simples passa a ser delicioso. Essa capacidade de mudança do paladar parece ser pouco conhecida. É por isso que, inversamente, aqueles habituados a iguarias gradualmente perdem o prazer nelas, buscando pratos cada vez mais sofisticados, um comportamento frequentemente observado entre os apreciadores do luxo.
-
-Discorramos agora sobre o significado do alimento. Originalmente, o alimento é aquilo que é concedido a todos os seres vivos, a começar pelo homem, para a manutenção de sua vida, sendo que a cada um é dado o que lhe é adequado. Assim, o Criador determinou os alimentos que os seres humanos devem comer e aqueles que os animais devem comer. Como saber, então, que alimentos foram destinados ao homem? É fácil de discernir: são aqueles que contêm sabor. Ou seja, os alimentos foram dotados de sabor, e o homem, de paladar. Portanto, ao desfrutar do sabor dos alimentos, o homem se nutre naturalmente, e isso se torna um pilar de sua saúde. Devemos, pois, reconhecer o grave equívoco de consumir substâncias como os suplementos nutricionais, que não possuem sabor, não exigem mastigação nem ativam a função digestiva, e perceber que, na verdade, elas são prejudiciais. No ato de se alimentar, considerando que cada pessoa possui um ambiente, uma profissão e uma constituição física distintos, aquilo que o apetite deseja em um dado momento é o que contém os elementos necessários para ela. Logo, deve-se comer o que o corpo pede naturalmente, sem se prender a teorias nutricionais. O homem moderno, contudo, comete a insensatez de se forçar a comer o que não gosta e de se privar do que gosta, acreditando que isso é benéfico para a saúde. A tolice de tal prática é imensurável, e os malefícios da nutrição moderna não podem ser ignorados.
-
-Os nutrientes se encontram em maior abundância nos vegetais. Portanto, se o objetivo for unicamente a nutrição, uma dieta de grãos e vegetais é plenamente suficiente. A realidade o comprova. Camponeses e monges zen, cuja alimentação é predominantemente vegetariana, são saudáveis e longevos, enquanto os habitantes das cidades, que consomem peixe, aves e carne com frequência, adoecem com mais facilidade e têm uma vida mais curta. É também de conhecimento geral que aqueles que abusam do consumo de carne são propensos a desenvolver septicemia.
-
-Como exemplo prático, visitei certa vez as fontes termais de Yunishigawa, numa região montanhosa da província de Tochigi. Trata-se de uma “vila Heike”, com noventa casas e pouco mais de seiscentos habitantes. A dieta local é estritamente vegetariana. Embora um rio de águas límpidas repleto de *ayu* e trutas atravesse a região, os moradores sequer os pescam. Segundo me contaram, nunca provaram peixe desde seus ancestrais e, por isso, não sentem vontade de comê-lo. Como a comida era exclusivamente à base de vegetais, pedi carne de frango ou ovos, mas me disseram que não havia nada disso na vila, o que demonstra o quão arraigado era o vegetarianismo. Evidentemente, era uma vila sem médicos, pois, segundo eles, não havia necessidade. Naquela época, havia apenas um paciente sofrendo de apoplexia, e nenhum caso de tuberculose. O que esse fato, de ser uma vila saudável por ser vegetariana e não ter médicos, nos ensina? E por que, indaguei-me, as autoridades e os pesquisadores da área médica não se dedicam a estudar uma vila tão saudável?
-
-Conforme o relato de um morador, a vila foi fundada por membros do clã Heike que, derrotados em batalha, fugiram para as montanhas, adentrando cada vez mais a mata em busca de um refúgio inacessível a seus perseguidores. Eram cerca de trinta pessoas na época. Em uma região tão remota e inexplorada, a comida era escassa, e, no início, eles sobreviveram comendo raízes de araruta e frutos silvestres. O fato de terem persistido com uma alimentação tão extremamente simples, sem perecerem, e de terem prosperado como clã até os dias de hoje, corrobora a minha tese.
-
-Como exposto, do ponto de vista exclusivo da saúde, o vegetarianismo é a melhor opção. Contudo, para se viver na sociedade contemporânea, uma dieta exclusivamente vegetariana apresenta certas desvantagens, pois o alimento está ligado ao pensamento e ao modo de vida. O vegetariano tende a desenvolver uma personalidade dócil e uma mentalidade de não-resistência, o que, em um cenário internacional, pode levá-lo à condição de perdedor. A derrocada da Índia pode ter tido causas religiosas, mas também se deve ao fato de que a alimentação da maioria de sua população se baseia em vegetais e leite. (O leite, embora de origem animal, produz um efeito semelhante ao dos vegetais). O mesmo princípio explica por que animais carnívoros, como o leão e o tigre, são ferozes, enquanto herbívoros, como o boi e o cavalo, são mansos. Por conseguinte, o vegetariano tende a carecer de ambição e de desejos materiais, o que limita seu progresso. Assim, o homem moderno necessita, em certa medida, do consumo de carne. A escolha deve ser feita de acordo com as circunstâncias, a profissão e outras particularidades de cada um. Contudo, após os oitenta anos, quando a cobiça e o espírito de luta já não são necessários, deve-se adotar o vegetarianismo. Com isso, a saúde melhora, e alcança-se uma vida mais longa.
-
-No entanto, hoje em dia, quando alguém adoece, recomenda-se uma dieta de origem animal em nome da "nutrição", o que, na verdade, agrava o enfraquecimento e interfere negativamente na recuperação.
-
-Em relação ao leite, é preciso ter uma cautela. Ele é adequado para bebês que ainda não têm dentes, mas se torna impróprio após o seu surgimento. O nascimento dos dentes é um sinal de que o corpo já pode ingerir alimentos sólidos e que a função digestiva se desenvolveu para processá-los; isso é o natural. Portanto, quando um adulto bebe leite como se fosse um nutriente, ele se enfraquece. Como mencionei anteriormente, até mesmo mastigar demais o alimento enfraquece o corpo; logo, é evidente que um alimento líquido como o leite causará um enfraquecimento ainda maior. Sempre que me perguntam se adultos podem ou não beber leite, eu costumo rir e responder: “Se você vai se alimentar como um bebê, não deveria também se locomover como um, engatinhando ou sendo carregado no colo?”. O uso do leite, no entanto, para tornar outros alimentos mais saborosos, é perfeitamente aceitável.
-
-Outro equívoco comum é o doente comer mingau de arroz com *umeboshi* (ameixa em conserva). Originalmente, o *umeboshi* era usado como ração militar durante o Período dos Estados Combatentes, pois uma pequena quantidade era suficiente para saciar a fome. Por isso, hoje é adequado para alpinismo ou caminhadas, mas não para doentes. Mesmo uma pessoa saudável que consome *umeboshi* em excesso inevitavelmente sentirá uma redução do apetite.
-
-Por fim, é um erro dar óleo de fígado de bacalhau às crianças em nome da nutrição. Todos os alimentos, sejam arroz, trigo, feijão ou verduras, possuem seus próprios óleos característicos, e as funções do corpo os extraem na medida exata para uma nutrição adequada. Prova disso é que se pode extrair óleo do farelo de arroz, da soja e das sementes de colza. Ingerir apenas o óleo é uma forma de nutrição desequilibrada e extremamente antinatural. Afinal, se a pessoa bebe o óleo diretamente, a função corporal responsável por extraí-lo dos alimentos se atrofia.
-
----
-
-# O Equívoco da Ciência Nutricional
-
-**Categoria:** e | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
-**Título Original:** 栄養食 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核の正体
-
-## O Equívoco da Ciência Nutricional
-
-A interpretação da medicina sobre a nutrição baseia-se em conclusões obtidas a partir de estudos laboratoriais, as quais são aplicadas diretamente aos seres humanos. Conforme minhas pesquisas, embora o consumo de alimentos considerados nutritivos possa resultar em um aparente aumento de peso ou em uma melhora na coloração da pele — efeitos tidos como benéficos —, a verdade é que tais resultados são meramente temporários. As pessoas, contudo, não se dão conta de que, subsequentemente, sua força física acaba por definhar.
-
-Portanto, se os alimentos nutritivos fossem tão eficazes quanto a medicina alega, as classes abastadas, que constantemente se alimentam de iguarias, deveriam possuir a mais robusta constituição física. A realidade, todavia, demonstra exatamente o contrário, o que evidencia o equívoco dessa premissa. Ademais, os resultados dos exames de alistamento militar revelam o quanto a constituição física dos jovens urbanos é inferior à dos jovens do campo. Embora se possa argumentar que a superioridade destes últimos se deva ao trabalho braçal, considero que a causa preponderante reside em sua alimentação frugal.
-
-A medicina também discorre sobre nutrientes como vitaminas, proteínas, carboidratos, aminoácidos e glicogênio, mas essa abordagem é profundamente equivocada. Isso porque a ingestão de tais substâncias, ao contrário do que se crê, acaba por debilitar a força física. A razão para tal é que esses diversos nutrientes são elementos que o próprio organismo humano produz por meio de suas funções internas e, de forma alguma, deveriam ser repostos por fontes externas.
-
-Consequentemente, ao prover esses elementos externamente, suprime-se a necessidade de o organismo exercer sua capacidade de produzi-los, o que, por sua vez, leva à atrofia de tal função. As funções do corpo humano são, por natureza, interdependentes; assim, o enfraquecimento de uma delas afeta, invariavelmente, o sistema como um todo. Sob essa ótica, compreende-se que, quanto mais completa for a substância ingerida, mais ela debilitará as funções orgânicas, o que revela o quão equivocada é a ciência nutricional de nossos dias. Abordei estas questões com maior profundidade em minha obra "O Problema da Tuberculose e sua Solução Definitiva", cuja leitura recomendo para um maior esclarecimento.
 
 ---
 

@@ -3,8 +3,8 @@
 # Doutrina da Sekaikyuseikyou (O Paraíso Terrestre e o Cultivo Natural)
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** 世界Kyusei教教義（Chijo Tengokuと自然栽培の巻）
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-10-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 世界救世教教義 （地上天国と自然栽培の巻） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-10-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 世界救世教教義（地上天国と自然栽培の巻）
 
 ## Doutrina da Sekaikyuseikyou (O Paraíso Terrestre e o Cultivo Natural)
 
@@ -156,8 +156,8 @@ Publicação: Departamento Editorial da Sekaikyuseikyou
 # Coleção de Ensaios do Mestre Okada Jikan – O Caminho para a Luz
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-12-30
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 光への道 自観叢書第9篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-12-30
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 光への道
 
 ## Coleção de Ensaios do Mestre Okada Jikan – O Caminho para a Luz
 Coleção Jikan, Volume 9, “O Caminho para a Luz”
@@ -594,7 +594,7 @@ O que aconteceu foi que, por um momento, seu espírito se desprendeu do corpo e 
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 ### Registro dos Ensinamentos Orais, vol. 5
@@ -901,7 +901,7 @@ Agora, planejo me dedicar ao cultivo de flores ornamentais, com a intenção de 
 
 **Categoria:** sasshi | **Ano:** 昭和25年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Jikan Okada – Um Guia Rápido sobre a Sekaikyuseikyou
 
@@ -1153,8 +1153,8 @@ Editora: Eikosha Shuppan
 # Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
 
 **Categoria:** sasshi | **Ano:** 昭和30(1955)年4月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-04-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 （六）薬毒病について | **Status:** Published | **Edição/Página:** 6号, 18号, P.44, 44号 | **Data ISO:** 1955-04-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 ## Coletânea de Teses do Reverendo Jikanshi Okada – Curso sobre o Método Johrei (VI) – Sobre as Enfermidades Causadas por Intoxicação Medicamentosa
 
@@ -1511,8 +1511,8 @@ Não tem relação com a cárie. A cárie afeta a coluna, não a cintura ou as u
 # Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年4月23日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-04-23
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録18号 | **Status:** Published | **Edição/Página:** 18号, 18号 | **Data ISO:** 1950-04-23
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Ensaios do Mestre Okada Jikan – Registro dos Colóquios de Luz, nº 18 (Publicado em 23 de abril de 1950)
 
@@ -1851,8 +1851,8 @@ E há também o seguinte: a organização precisa de dinheiro. De vez em quando,
 # Coletânea de Ensaios do Mestre Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** 箱根美術館特別展パンフレット
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-26
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 箱根美術館を見て 谷川徹三 ―― 工芸品を中心とし対談風に ―― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-08-26
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 箱根美術館特別展パンフレット
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 Uma Visita ao Museu de Arte de Hakone

@@ -234,3 +234,9 @@ form[action*="msearch.cgi"] table {
 body.compare-mode form {
   display: none !important;
 }
+
+/* Visual Breathing Room for Content */
+#pt-content,
+#jp-content {
+  padding: 50px 30px 30px 30px !important;
+}

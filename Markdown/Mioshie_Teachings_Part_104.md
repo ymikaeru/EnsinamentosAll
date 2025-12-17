@@ -3,8 +3,8 @@
 # miosie24
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二十四号 | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-08-15
+**Coletânea:** COLETÂNEA DE DISSERTAÇÕES DO MESTRE JIKAN OKADA | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ――― COLETÂNEA DE DISSERTAÇÕES DO MESTRE JIKAN OKADA ―――
 Coletânea de Ensinamentos, nº 24, publicado em 15 de agosto de 1953
@@ -279,7 +279,7 @@ As pessoas se maquiam incessantemente por causa da superstição de que, sem maq
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (11 de novembro de 1951)
 
@@ -439,7 +439,7 @@ As pessoas falam muito sobre o bem e o mal. É um tema sobre o qual poucos disco
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月28日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## — Coletânea de Teses do Mestre Okada Jikanshi —
 Pesquisa de Ensinamentos: help Pesquisa de Materiais: Ensinamento (28 de outubro de 1951)
@@ -570,8 +570,8 @@ Há mais um ponto: a origem das injeções, tão em voga hoje. A crença de que 
 # Coletânea de Ensaios do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 8
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-04-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第八号 | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi — Coletânea de Ensinamentos, volume 8
 Publicado em 20 de abril de 1952 (Showa 27)
@@ -1182,7 +1182,7 @@ Em Atami, a montanha de azaleias, com três mil e seiscentas plantas, e os treze
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年11月8日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## 8 de novembro de 1951
 
@@ -1271,7 +1271,7 @@ Outro ponto: o recente anúncio da safra foi de sessenta milhões e seiscentos e
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento de 15 de outubro de 1951 (Da Coleção de Ensinamentos, nº 3)
 
@@ -1338,7 +1338,7 @@ No jornal de hoje, saiu uma notícia sobre a vacina BCG. Foi decidido que sua ap
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月11日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (11 de agosto de 1951)
 Publicado na Coletânea de Ensinamentos n.º 1, em 20 de setembro de 1951
@@ -1410,8 +1410,8 @@ Tudo isso indica que o Mundo de Miroku se aproxima gradualmente, e, por consegui
 # Coletânea de Artigos do Mestre Jikan Okada
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-12-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二十八号 | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1953-12-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos do Mestre Jikan Okada
 ## Coletânea de Ensinamentos, nº 28
@@ -1652,7 +1652,7 @@ Estou escrevendo sobre a "bomba atômica assassina" e a "bomba atômica que vivi
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (8 de agosto de 1951)
 Publicado em "Coletânea de Ensinamentos", vol. 1, em 20 de setembro de 1951.

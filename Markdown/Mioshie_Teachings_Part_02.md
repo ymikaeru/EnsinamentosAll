@@ -1,10 +1,44 @@
 # Mioshie_Teachings - Part 2
 
+# A Missão do Movimento de Kannon: Edificar um Mundo sem Doença, Pobreza e Conflito
+
+**Categoria:** se | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
+**Título Original:** 世界統一 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+
+## A Missão do Movimento de Kannon: Edificar um Mundo sem Doença, Pobreza e Conflito
+
+A missão do Japão de, no futuro, conduzir o mundo é um fato que se pode afirmar sob qualquer perspectiva. O seu traço mais distintivo reside, primeiramente, em ser regido por uma Casa Imperial de linhagem ininterrupta e soberana e, em segundo lugar, na singular índole de seu povo, capaz de assimilar e harmonizar de modo sublime as culturas do Oriente e do Ocidente. O “Terceiro Império” preconizado por Ibsen pode, com efeito, ser interpretado como um vaticínio do futuro japonês.
+
+Todavia, a unificação do mundo pelo Japão não será, de forma alguma, hegemônica ou expansionista; será uma unificação moral, em plena conformidade com as leis do Céu e da Terra. As nações não serão subjugadas; elas se submeterão com júbilo.
+
+É provável que muitos duvidem da viabilidade de um feito tão extraordinário. E, afinal, quem o realizará? Pelas mãos de quem tal empreendimento, tal movimento, será concretizado?
+
+O Japão é, em sua essência, a pátria-mãe do mundo. Na Criação do Céu e da Terra, foi a primeira nação a ser formada, como uma placenta primordial. Por essa razão, ele é o protótipo do mundo inteiro. Por exemplo, a ilha de Honshu corresponde ao continente euro-asiático; Hokkaido, à América do Norte; Taiwan, à América do Sul; Kyushu, à África; e Shikoku, à Austrália. Ademais, ao se examinarem detalhadamente suas montanhas, rios e ilhas, constata-se que tudo é um modelo em escala.
+
+A Restauração Imperial da era Meiji não foi, em verdade, um evento restrito ao Japão. Ela se expandirá até se tornar uma Restauração Imperial em escala mundial. O Japão, sendo o protótipo do mundo, deve manifestar primeiro aquilo que ocorrerá em seguida no plano global. A devolução do poder político, por séculos usurpado pelas famílias militares, e o restabelecimento da ordem original, fazendo o sol brilhar novamente, constituíram a essência da Restauração Imperial. Se aplicarmos essa lógica ao futuro do mundo, o cenário se torna perfeitamente claro.
+
+Basta observar, por um lado, a aliança do Japão com a Manchúria, os avanços nas negociações de paz com a China e a consolidação de sua imponente figura como líder da Ásia e, por outro, a marcha progressiva da Europa rumo à desintegração.
+
+Se Sua Majestade, o Imperador do Japão, vier a governar o mundo, o ponto central dessa unificação será, naturalmente, a nossa capital, Tóquio.
+
+Para que a Deusa-Mãe, Amaterasu Omikami, no momento celestial oportuno, execute Seu grandioso plano de unificação do mundo, é imprescindível a existência de um órgão executor e de milhares de pessoas escolhidas. Para tanto, militares, políticos e industriais deverão unir forças. Contudo, salvar e conduzir a humanidade por meio da virtude é uma obra de suprema nobreza e santidade. Nesse sentido, a atuação de religiosos se faz absolutamente necessária.
+
+A unificação do mundo se realizará pelo Divino Poder de Sua Majestade, o Imperador do Japão. Esse Divino Poder consiste na Luz Sagrada que irradia sobre os oito cantos do mundo. É como atividade humana para transmitir essa Luz a toda a Terra que nasceu o nosso Movimento de Kannon (観音).
+
+O Soberano, digno e inviolável, resplandece acima das nuvens, tal como o sol e a lua. Reverenciamos Sua Vontade, que permanece inabalável quanto à unificação do mundo.
+
+Tal feito se consumará por meio do profundo desígnio da Deusa-Mãe e da atuação abnegada de um povo fiel.
+
+Por se tratar de uma empreitada sem precedentes na história — a unificação do mundo —, por mais que seja conduzida com amor e misericórdia, não se pode garantir que não haverá, pontualmente, nações ou povos insatisfeitos. Por tais eventuais percalços, o povo deverá assumir inteira responsabilidade.
+
+---
+
 # A Origem Espiritual da Doença Mental e da Epilepsia
 
 **Categoria:** se | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** 精神病及び癲癇 ・病患と医学の誤謬一八 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## A Origem Espiritual da Doença Mental e da Epilepsia
 
@@ -20,7 +54,7 @@ Conforme detalharei no capítulo dedicado às enfermidades espirituais, ao se co
 
 **Categoria:** se | **Ano:** 昭和28(1953)年7月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 正邪の戦い | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1953-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Luta entre a Retidão e a Iniquidade
 
@@ -44,7 +78,7 @@ Dessa forma, no Mundo Espiritual, prossegue uma contenda de mil faces, repleta d
 
 **Categoria:** se | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
 **Título Original:** 六、絶対健康の可能と長寿法 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 日本医術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本医術講義録
 
 ## A Conquista da Saúde Absoluta e o Caminho para a Longevidade
 
@@ -74,7 +108,7 @@ Dessa forma, o método para a saúde absoluta e a conquista da longevidade possu
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年9月1日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Cura do Câncer e a Purificação Pós-cirúrgica
 
@@ -110,7 +144,7 @@ A senhora é uma vítima da medicina. É uma situação realmente lamentável.
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Consultas e Orientações
 
@@ -198,7 +232,7 @@ Não há nenhum significado particular. Conforme sempre ensino, a imagem de Kann
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年2月1日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Diálogos sobre a Agricultura Natural e a Prática da Fé
 
@@ -252,7 +286,7 @@ Li no jornal Asahi de hoje, se não me engano, uma notícia sobre um concurso de
 
 **Categoria:** se | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 精神病と癲癇 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Verdade sobre a Doença Mental e a Epilepsia
 
@@ -290,7 +324,7 @@ Aproveitando o ensejo, discorrerei sobre a paralisia infantil autêntica. Na mai
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S27年9月1日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Orientações sobre Diversos Assuntos
 
@@ -620,7 +654,7 @@ Por outro lado, devido aos danos físicos causados pela cirurgia, é provável q
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録 （補）
 **Título Original:** 御光話 （S23年11月18日A） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録 （補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録 （補）
 
 ## Questões do Cotidiano à Luz dos Ensinamentos Divinos
 
@@ -704,7 +738,7 @@ Quanto às verrugas, algumas podem ser removidas e outras não. Elas também sã
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年7月18日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -772,7 +806,7 @@ Um adendo importante sobre a ministração do Johrei: é um grande equívoco con
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S27年5月1日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos sobre a Fé e a Vida Cotidiana
 
@@ -882,7 +916,7 @@ Um adendo importante sobre a ministração do Johrei: é um grande equívoco con
 
 **Categoria:** situmon | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S29年2月1日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1954-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos sobre a Fé e a Purificação
 
@@ -1154,7 +1188,7 @@ Sem dúvida. O Albasil parece ser muito eficaz para tirar a vida. A pessoa simpl
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月5日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## O Veneno dos Remédios e o Processo de Purificação
 
@@ -1208,7 +1242,7 @@ Recentemente, porém, talvez por causa do calor, ela se sente indisposta, o apet
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S26年5月1日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos sobre a Vontade Divina
 
@@ -1356,7 +1390,7 @@ Em 23 de dezembro de 1933, celebrei meu aniversário pela primeira vez, e naquel
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月 | **Fonte:** 会報
 **Título Original:** 信仰余話 直心分会 | **Status:** Published | **Edição/Página:** ２号 | **Data ISO:** 1949-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Respostas a Diversas Indagações
 
@@ -1428,7 +1462,7 @@ Os "Três Venenos" referem-se à ganância, à ira e à ignorância. Os "Cinco D
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S25年3月18日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos Diversos
 
@@ -1466,7 +1500,7 @@ Mesmo uma condição como essa pode ser curada com Johrei, administrado com paci
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 神智の光 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1950-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Questões da Fé Dirimidas por Meishu-Sama
 
@@ -1582,7 +1616,7 @@ Oportunamente, nossa Igreja estabelecerá um formato próprio para cerimônias f
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年10月1日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## A Profundidade da Fé Diante das Provações Divinas
 
@@ -1962,7 +1996,7 @@ A solução é simples: quem tem o Ohikari pode confeccionar sua própria bolsa 
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月7日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos Divinos de 7 de março de 1952
 
@@ -2014,7 +2048,7 @@ Geralmente, no início, tais espíritos guardam ressentimento, mas, com o tempo,
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年3月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1950-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos Divinos
 
@@ -2104,7 +2138,7 @@ Geralmente, no início, tais espíritos guardam ressentimento, mas, com o tempo,
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Orientações Divinas sobre Doenças e Questões Espirituais
 
@@ -2160,7 +2194,7 @@ Há outro ponto a ser considerado. O desejo intenso de curar o enfermo, embora n
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月15日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Natureza das Purificações e a Correta Prática do Johrei
 
@@ -2232,7 +2266,7 @@ Sim, pode. Casos como o dele são comuns, especialmente com o uso de remédios d
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年3月23日 | **Fonte:** 会報
 **Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-03-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre Destino, Rituais e Fenômenos Espirituais
 
@@ -2296,7 +2330,7 @@ A causa reside no centro do diafragma, e o tratamento consiste em purificar a re
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年12月20日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年9・10月） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1949-12-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Elucidações de Meishu-Sama
 
@@ -2738,7 +2772,7 @@ Completamos exatamente um ano desde a publicação da primeira edição da "Cole
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Origem das Enfermidades e a Salvação pelo Johrei
 
@@ -2898,7 +2932,7 @@ Não é nada grave. Ele melhorará progressivamente. Não há motivo para preocu
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月18日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Enfermidade Mental e a Influência Espiritual
 
@@ -2948,7 +2982,7 @@ Ainda que houvesse, nada se pode fazer. O melhor a fazer é entregar a situaçã
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年1月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## A Terapêutica Divina e suas Aplicações
 
@@ -2996,7 +3030,7 @@ Portanto, no tratamento da peritonite, é crucial ministrar Johrei intensamente 
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1952-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Sobre as Purificações e as Influências Espirituais
 
@@ -3136,7 +3170,7 @@ Indubitavelmente, as flores desabrocham para celebrar o Natalício. A flor de am
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年8月1日 | **Fonte:** 会報
 **Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-08-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -3306,7 +3340,7 @@ R: Ao ingressar na Fé, é comum ter sonhos como esse. Significa que o espírito
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月25日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Orientações sobre a Purificação
 
@@ -3409,7 +3443,7 @@ O inchaço na medula e nas glândulas parótidas... pode haver, sim, uma causa e
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年1月26日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos Divinos sobre Enfermidades e Suas Causas
 
@@ -3459,7 +3493,7 @@ Isso também tem cura. Em geral, olhos que se tornam brancos podem ser curados, 
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年3月1日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-03-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos sobre a Verdade, a Fé e a Vida
 
@@ -3583,7 +3617,7 @@ Portanto, enquanto a fé permanecer inabalável, a pessoa não sofrerá tanto e 
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年10月21日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年7月13日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-10-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Diálogos e Esclarecimentos do Mestre
 

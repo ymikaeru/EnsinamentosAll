@@ -4,7 +4,7 @@
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-05-05
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## O Problema da Tuberculose e sua Solução (Reedição)
 
@@ -814,8 +814,8 @@ Reeditado em 5 de maio do 18º ano da era Showa, formato B6, 180 páginas, preç
 # Coletânea de Teses do Reverendo Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-05-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 
@@ -2581,7 +2581,7 @@ Igreja Eisho-Tyu,
 
 **Categoria:** sasshi | **Ano:** 昭和10(1936)年9月15日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 Coletânea de Ensaios do Mestre Okada Jikan
 O que é o Movimento de Kannon para a Criação de um Mundo sem Doença, Pobreza e Conflito?

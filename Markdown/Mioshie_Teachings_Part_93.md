@@ -3,8 +3,8 @@
 # Perfil de Mokichi Okada, o Ser Humano
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 人間岡田茂吉のプロフィル 岩崎 栄 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Perfil de Mokichi Okada, o Ser Humano
 Por Sakae Iwasaki
@@ -295,8 +295,8 @@ Aqui, gostaria de fazer uma observação. Ao praticar o pragmatismo religioso, a
 # Compilação dos Escritos do Mestre Jikan Okada
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Título Original:** 伝道の手引き Ⅰ －２－４ 資格者・教会・信仰上の諸問題 第四章 その他信仰上の心得 １ 愛について 〔 御講話（S28年3月16日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Compilação dos Escritos do Mestre Jikan Okada
 
@@ -495,8 +495,8 @@ Mas isso não é um problema. Se o ser humano conseguisse fazer tudo como deseja
 # Fundamentos da Fé – Capítulo Terceiro: Acerca de Deus
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published | **Edição/Página:** 23号, 24号, 23号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Título Original:** 伝道の手引き Ⅰ －１－３ 信仰の基本 第三章 神様について 一、在来の神観を批判する １ 今迄の宗教は神について正しい観念を教えて居ない事 〔 御講話（S28年6月27日） | **Status:** Published | **Edição/Página:** 23号, 24号, 23号 | **Data ISO:** 1953-07-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Fundamentos da Fé – Capítulo Terceiro: Acerca de Deus
 
@@ -679,8 +679,8 @@ Temos muitos fiéis, e seu número continuará a crescer. Entre eles, certamente
 # Publicação Relacionada — Sobre a Igreja Messiânica — A Proximidade com o Cotidiano do Homem Comum
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― メシヤ教について ――凡人日常生活への近親性―― 新居 格 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Publicação Relacionada — Sobre a Igreja Messiânica — A Proximidade com o Cotidiano do Homem Comum
 
@@ -752,8 +752,8 @@ Qual das duas atitudes é a mais adequada, eis algo que não sei dizer.
 # Guia para a Prática da Difusão I-3-2: Questões Práticas da Difusão - Capítulo II: Desenvolvimento
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 8号, 7号, 7号 | **Data ISO:** 1949-05-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Título Original:** 伝道の手引き Ⅰ －３－２ 布教上の実際問題 第二章 発 展 一、基本的な考え方 １ 発展の根本は大きくなろうという想念にある事 〔 御光話（S24年5月） | **Status:** Published | **Edição/Página:** 8号, 7号, 7号 | **Data ISO:** 1949-05-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Guia para a Prática da Difusão I-3-2: Questões Práticas da Difusão - Capítulo II: Desenvolvimento
 
@@ -1079,7 +1079,7 @@ Essa tal de ciência moral ou ciência espiritual é de baixo nível. Do meu pon
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas
 ## A Luz sobre a Terra
@@ -1439,7 +1439,7 @@ Decidi que precisava, o quanto antes, escrever sobre este incidente de 8 de maio
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas
 
@@ -1863,7 +1863,7 @@ A voz do Mestre era gentil. Nos olhos sem visão do assistente, algo brilhou int
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## A Luz Sobre a Terra
 
@@ -2253,7 +2253,7 @@ Uma lua fina já se inclinava consideravelmente no céu.
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** 法難手記
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 法難手記
 
 ## Obras Relacionadas – A Luz Sobre a Terra, de Ei Asou | 8. Dias Sombrios (Parte Um)
 
@@ -2690,8 +2690,8 @@ O Fundador, esquecendo-se até de entrar no carro, estava absorto, contemplando 
 # Coletânea de ensinamentos do Mestre Okada Jikan
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published | **Edição/Página:** 23号, 16号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Título Original:** 伝道の手引き Ⅰ －３－１ 布教上の実際問題 第一章 基本的な注意 １ 神ながらに布教すべき事 〔 御講話（S28年6月7日） | **Status:** Published | **Edição/Página:** 23号, 16号 | **Data ISO:** 1953-07-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de ensinamentos do Mestre Okada Jikan
 ## Guia de Difusão Ⅰ–3–1: Questões práticas na difusão da fé

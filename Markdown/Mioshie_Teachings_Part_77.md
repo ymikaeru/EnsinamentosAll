@@ -3,8 +3,8 @@
 # Coletânea de Teses do Mestre Okada Jikan – Registro da Palavra Divina nº 17 (Publicado em 28 de fevereiro de 1950)
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年2月28日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-02-28
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録17号 | **Status:** Published | **Edição/Página:** 17号, 17号 | **Data ISO:** 1950-02-28
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Teses do Mestre Okada Jikan – Registro da Palavra Divina nº 17 (Publicado em 28 de fevereiro de 1950)
 
@@ -341,8 +341,8 @@ Simultaneamente, a filial de Tóquio também foi dissolvida e, com uma visão ai
 # Curso sobre o Método do Johrei (Cinco) (Acerca dos sintomas relacionados à tuberculose, asma e coração)
 
 **Categoria:** sasshi | **Ano:** 昭和30(1955)年2月10日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-02-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 （五）（結核、喘息、心臓関係の症状について） | **Status:** Published | **Edição/Página:** 5号, 23号, P.56, 23号, P.47, 23号, P.48, 23号, P.36, 23号, P.56 | **Data ISO:** 1955-02-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 ## Curso sobre o Método do Johrei (Cinco) (Acerca dos sintomas relacionados à tuberculose, asma e coração)
 
@@ -618,7 +618,7 @@ Imediatamente após uma parada cardíaca, o Johrei deve ser focado, obviamente, 
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada
 Registro dos Colóquios de Luz, nº 6. Publicado em 23 de abril de 1949 (Ano 24 da Era Showa), Edição Especial.
@@ -847,7 +847,7 @@ Caso tenham algum assunto sobre o qual desejem um esclarecimento ou orientação
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Da Coletânea de Teses do Mestre Okada Jikan
 ## Para Aqueles que Recebem Johrei pela Primeira Vez
@@ -953,7 +953,7 @@ Formato A6, 20 páginas (Distribuição gratuita)
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Jikan Okada — Registro das Divinas Palavras, nº 10
 *Publicado em 10 de julho de 1949 (Showa 24)*
@@ -1354,7 +1354,7 @@ Rogamos a todos os leitores que continuem a nos prestigiar com sua atenta leitur
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## UMA HISTÓRIA DO UKIYO-E
 
@@ -1603,8 +1603,8 @@ preço ¥ 150.
 # Coletânea de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-04-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 神示の健康法 自観叢書10編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-04-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 神示の健康法
 
 ## Coletânea de Teses do Mestre Okada Jikan
 
@@ -2061,8 +2061,8 @@ Este é o meu método de saúde. É claro que não me preocupo com micróbios. P
 # Coleção de Teses do Mestre Okada Jikanshi — Curso sobre o Método do Johrei (Dois)
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年10月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-10-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 （二） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1953-10-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 ## Coleção de Teses do Mestre Okada Jikanshi — Curso sobre o Método do Johrei (Dois)
 
@@ -2321,8 +2321,8 @@ Outro ponto é que os cremes de hoje contêm diversos produtos químicos, que es
 # Coleção de Teses do Mestre Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年6月1日 | **Fonte:** 世界Kyusei教教義解説（病貧争の巻）
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-06-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 世界救世教教義解説 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-06-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 世界救世教教義解説（病貧争の巻）
 
 ## Coleção de Teses do Mestre Okada Jikanshi
 
@@ -2508,7 +2508,7 @@ O que apresentamos aqui é apenas uma pequena amostra. Se investigarmos em diver
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 — Coletânea de Ensaios do Mestre Jikan Okada —
 Publicado originalmente na revista *Religion and Art*

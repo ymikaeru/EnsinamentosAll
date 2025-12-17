@@ -1,10 +1,212 @@
 # Mioshie_Teachings - Part 49
 
+# O Poder de Kannon e a Luz do Oriente
+
+**Categoria:** kikou | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 明主様の御眼力 （九） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## O Poder de Kannon e a Luz do Oriente
+
+A análise dos resultados, mais do que a mera explanação das razões, revela a verdade com maior clareza. É louvável sacrificar-se em prol da humanidade, mas quando o próprio indivíduo chega a um impasse, acaba por estender o infortúnio aos pais, irmãos e parentes. O lar se desfaz em discórdia, e a pessoa, marginalizada por aqueles ao seu redor, mergulha na solidão. Ainda assim, ela insiste, convicta de que tudo é pelo bem de Deus, uma provação divina. Quanto mais persiste nesse caminho, quase por teimosia, mais se aprofunda o abismo de incompreensão e ostracismo, até chegar a um ponto sem retorno. Em vez de salvar, o indivíduo passa a depender da salvação alheia para sua própria subsistência. Este é o padrão que se observa em inúmeras religiões, e com tal abordagem, a edificação do Paraíso é manifestamente impossível.
+
+Para se compreender como o mundo se tornará um Paraíso, basta analisar a unidade fundamental que o constitui. Em última análise, essa unidade é o ser humano. O mundo é um agregado de nações; as nações, de municípios e vilas; estes, de famílias; e as famílias, de indivíduos. Portanto, se o indivíduo, a célula-mãe, não for salvo, é ilógico supor que o mundo o será. Nesse sentido, tanto a fé que visa unicamente o benefício pessoal, de caráter individualista, é equivocada, quanto a que prega o sacrifício do indivíduo em nome do coletivo. A verdade reside na prosperidade mútua, na salvação do todo. A salvação e o aperfeiçoamento do indivíduo devem preceder tudo, pois é a partir dessa base que a salvação e o aperfeiçoamento do mundo se concretizam. Se considerarmos um lar como um microcosmo do mundo, compreendemos que a salvação da humanidade se inicia com a transformação de cada família em um paraíso.
+
+Embora teorias semelhantes já tenham sido propostas no passado, eram tidas como inexequíveis, resignadamente abandonadas por falta de poder em seus fundadores ou em suas doutrinas. Agora, todavia, por meio do Poder de Kannon (観音力), essa realização tornou-se uma certeza. Significa, em termos simples, a criação de um mundo isento de doença, pobreza e conflito, e de lares onde esses flagelos não mais existam. A tríade doença, pobreza e conflito corresponde aos três pequenos desastres — fome, doença e guerra —, mas a primeira formulação parece-me mais precisa e adequada. Esses males serão extintos. Será que isso é realmente possível? Sim, é absolutamente realizável. Pela fé em Kannon, a concretização é infalível. Até hoje, por mais nobre que fosse uma fé, ela não era capaz de criar um lar livre da doença, da pobreza e do conflito. Agora, isso se tornou possível. De fato, muitos dos que atualmente integram a nossa Obra já vivenciam essa realidade, enquanto outros se aproximam a cada dia de alcançá-la.
+
+A construção do Mundo de Grande Luz pode parecer uma tarefa hercúlea, mas não é tão complexa. Basta que o mundo se preencha de lares onde a doença, a pobreza e o conflito não mais existam. É a partir daí que a humanidade poderá, pela primeira vez, desfrutar da verdadeira paz. O Poder de Kannon é, em essência, a Luz do Oriente (東方の光). É um profundo mistério como essa expressão surgiu na antiguidade, vinda de tempo e lugar desconhecidos. Eu mesmo, há sete anos, a partir do dia do Setsubun em fevereiro de 1928, comecei a receber de Kannon diversas revelações sobre a Luz do Oriente, e aguardava pacientemente, em preparação, a chegada do tempo certo.
+
+Nesse ínterim, um senhor chamado Toko Otoko — que hoje se encontra entre nós e é conhecido de muitos — solicitou um encontro, apresentando um cartão de visitas com seu nome, que se traduz como "homem que brilha no Oriente". Ao vê-lo, fiquei assombrado. No dia 11 de outubro do ano passado, ele surgiu de forma inesperada. Era um completo desconhecido para mim. Ele me relatou que, vinte anos antes, recebera de Deus a revelação de que uma pessoa portadora do Poder de Kannon surgiria. Por intuição espiritual, soube que essa pessoa se manifestaria naquele ano e que já se encontrava a leste de sua residência, em Shibuya. Ele havia concentrado sua busca no bairro de Kojimachi, quando, fortuitamente, ouviu falar de mim e veio procurar-me. Confirmei-lhe que, sem dúvida, tratava-se de mim. Ele então pediu permissão para tirar uma fotografia, e o resultado foi a célebre fotografia espiritual da Kannon de Mil Braços (千手観音). Este evento marcou o primeiro passo da Providência Divina para a manifestação da Luz do Oriente, cujo trabalho inaugural é, precisamente, a aparição e a atuação da Kannon de Mil Braços.
+
+Em setembro do ano anterior, senti em meu íntimo o chamado de Kannon para que eu pintasse Sua imagem na forma de Mil Braços. Iniciei os preparativos de imediato e comecei a obra em 5 de outubro. Quando cerca de um terço da pintura estava concluído, o senhor Toko, a quem acabo de me referir, apareceu e tirou a fotografia. Para minha surpresa, a fotografia revelou-me a forma exata como a imagem deveria ser retratada, e por isso, refiz a pintura prontamente.
+
+Resta, então, a pergunta: por que a Luz do Oriente se manifesta precisamente neste momento? A razão é que toda a civilização e cultura que conhecemos hoje vieram do Ocidente. Mesmo a civilização chinesa é, em sua origem, uma civilização ocidental. Um verso do cântico que entoamos há pouco elucida essa questão: “Corrigindo a civilização do poente, eternamente se ergue o próspero caminho do nascente.”
+
+A civilização oriental é vertical e espiritual, enquanto a ocidental é horizontal e material. Até o presente, os modelos-base de ambas as grandes civilizações foram estabelecidos. Sob a ótica religiosa, o Oriente representa uma civilização mais restrita e individualista, enquanto o Ocidente representa uma civilização mais expansiva e coletiva. Isso fica claro ao observarmos o pensamento oriental, mais autocentrado e isolacionista, em contraste com o pensamento ocidental, que se propaga horizontalmente. Contudo, qualquer civilização, ao atingir seu apogeu e entrar em um estado de saturação, chega a um impasse do qual não consegue sair. É exatamente essa a condição atual da civilização ocidental. É por isso que afirmei anteriormente que nem a abordagem individualista nem a coletivista, isoladamente, são suficientes.
+
+A Providência Divina determinou que, ao final, estas duas grandes civilizações se unam. O ponto de encontro é o Japão, e o momento é o presente. É um processo análogo a um matrimônio: o Oriente é o noivo, e o Ocidente, a noiva. Kannon atua como a intermediária dessa união. O filho que nasce desse enlace é a Verdadeira Civilização, o Mundo Ideal almejado pela humanidade, o Paraíso Terrestre, a Era de Miroku. A força que torna possível a realização dessa empreitada sem precedentes, o casamento que dará à luz um filho perfeito, é o Poder de Kannon. A crise que presenciamos hoje no mundo representa as dores do parto dessa nova civilização. É o momento final para a formação da cruz, que une o vertical e o horizontal, e, ao mesmo tempo, o momento inicial. O emblema da nossa Obra, a suástica invertida, é um símbolo desse significado. A cruz se forma, e seus braços dobrados simbolizam o início da rotação após a união, um movimento para a esquerda.
+
+Quando o espiritual e o material se unem na forma de uma cruz, o resultado é extraordinário. Nasce um poder imenso, o poder da união entre espírito e matéria. É a esse poder que chamamos de Poder de Kannon, ou Luz do Oriente. A civilização vinda do Ocidente, após avançar por um longo percurso, encontra-se num impasse, a um passo de seu objetivo. A Luz que se manifestou no ponto central do Extremo Oriente, o Japão, é a Luz do Oriente. Esta Luz tem a missão de regenerar e purificar a civilização ocidental, que estava fadada ao colapso, dando origem a uma civilização ideal onde o vertical e o horizontal se fundem em perfeita harmonia. Essa nova civilização, que florescerá eternamente, iniciará então um movimento inverso, em direção ao Ocidente. É verdadeiramente prodigioso que esse desígnio tenha sido anunciado há milênios pela expressão “Luz do Oriente”.
+
+A cerimônia de fundação de hoje marca o início desta grandiosa Providência Divina e, por conseguinte, nossa Obra se desenvolverá com um vigor formidável. A Kannon de Mil Braços, também conhecida como Kannon Kanzeon de Mil Mãos e Mil Olhos, concede vida e ressurreição a todas as coisas com suas mil mãos, e salva todos os seres ao banhá-los com a Luz que emana de seus mil olhos.
+
+O fato de a civilização ocidental, ao chegar a um impasse, ser vivificada por uma única força pode ser bem compreendido pela analogia da espiral. Até agora, a civilização ocidental avançou em uma espiral dextrógira, com giro para a direita. No momento crítico, ela subitamente se converterá em uma espiral levógira, com giro para a esquerda. O movimento para a direita é sempre destrutivo. Ao amassar bolos de arroz ou esferas de carvão, por exemplo, o movimento levógiro os une e compacta, enquanto o movimento dextrógiro os desfaz. As chaves seguem o mesmo princípio: giram para a esquerda ao trancar e para a direita ao abrir. A corda de um relógio obedece à mesma lógica. Com este raciocínio, a verdade se torna clara. A civilização ocidental é, portanto, uma civilização destrutiva, de movimento dextrógiro. A partir de agora, aqui de Kojimachi, através de nossa Obra, daremos início à civilização levógira, a civilização da vida.
+
+---
+
+# O Caminho do Paraíso: A Senda da Simplicidade Divina
+
+**Categoria:** kikou | **Ano:** 昭和28(1953)年10月21日 | **Fonte:** Eikou
+**Título Original:** 天国の道 （二） 井上超生 | **Status:** Published | **Edição/Página:** 231号 | **Data ISO:** 1953-10-21
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## O Caminho do Paraíso: A Senda da Simplicidade Divina
+
+Tudo o que Meishu-Sama realiza pode ser considerado uma manifestação do próprio Deus Supremo. Sinto-me, portanto, quase reverentemente temeroso em apresentar exemplos concretos, como se tal ato fosse uma inadequação. Contudo, é notório que, em todas as Suas atividades, Ele emprega métodos de extrema simplicidade e máxima eficiência, gerando resultados de grandiosidade assombrosa. Tal realidade pode ser constatada não apenas na maneira serena com que conduz o inédito Plano Divino para o mundo, mas também no fato de salvar inúmeras vidas através do ideograma da Luz, que caligrafa em meros sete segundos. O mesmo princípio se aplica às Suas composições florais, aos Seus jardins e às Suas obras arquitetônicas.
+
+Qualquer de Suas composições florais, por exemplo, jamais lhe toma mais de cinco minutos, e ainda assim resulta em uma beleza de maestria divina, que a todos arranca suspiros de admiração.
+
+Quanto aos jardins de Hakone e Atami, é de conhecimento geral entre os membros que nem uma única árvore, uma folha de grama ou uma pedra foi posicionada sem que correspondesse à Sua vontade. Ainda assim, Suas orientações eram esporádicas. Durante os seis meses em que se ausentava de ambos os locais, inspecionava apenas os pontos mais cruciais uma ou duas vezes, fornecendo diretrizes de uma simplicidade notável. Na verdade, Seus métodos eram tão serenos que frequentemente conflitavam com nossa própria inclinação para a pressa e o esforço desnecessário.
+
+No campo da arquitetura, o mesmo padrão se repete: Seus projetos são de uma simplicidade que invariavelmente deixa os arquitetos perplexos. Os planos para o Museu de Arte de Hakone, por exemplo, foram desenhados por Ele em aproximadamente duas horas. Não raro, os especialistas consideram Seus projetos excessivamente simples ou, por se desviarem do senso comum da profissão, julgam-nos extravagantes e temem por seu resultado. Quando ousam adicionar suas próprias concepções, acabam por prejudicar o efeito final, gerando a necessidade de refazer o trabalho e, consequentemente, atrasando a conclusão da obra. Todavia, quando Suas diretrizes são seguidas à risca, tanto os jardins quanto as construções são finalizados com rapidez e facilidade surpreendentes. E o espanto maior vem ao se constatar a materialização de uma sensibilidade estética sublime e inovadora, que transcende em muito os mais elevados padrões preexistentes. Ademais, Suas obras sempre aparentam um luxo que sugere um custo muito superior ao real e possuem uma beleza despojada, cujo encanto se aprofunda com o passar dos anos. O conforto que delas emana, uma sensação inesgotável que transporta a alma a um estado de clareza celestial, constitui uma das grandes e misteriosas características de Sua maestria divina.
+
+Qualquer pessoa que contemple pela primeira vez Suas composições florais, jardins ou obras arquitetônicas, sem exceção, expressa seu assombro e repete a mesma pergunta: “Isto certamente exigiu um esforço monumental, não é mesmo?”. E quando lhes explicamos que, na verdade, tudo foi criado por Meishu-Sama com extrema simplicidade e em curtíssimo tempo, simplesmente não conseguem acreditar. Essa incredulidade se assemelha à mentalidade daqueles que, mesmo testemunhando os efeitos extraordinários do Johrei ou da Agricultura Natural, recusam-se a aceitar a realidade, ou a aceitam apenas com ressalvas. Na verdade, mesmo para nós, Seus discípulos, que compreendemos que tudo emana de Seu poder e sabedoria divinos, a sensação de mistério permanece, pois Suas realizações estão, de fato, além da capacidade de conjectura humana. Isso nos permite vislumbrar que o novo mundo civilizado que Meishu-Sama irá construir será algo grandioso, que ninguém jamais pôde sonhar, e que será concretizado com uma velocidade e facilidade que desafiarão toda e qualquer crença.
+
+O método do Johrei em nossa religião torna-se mais eficaz à medida que é ministrado com uma atitude relaxada e sem aplicação de força. Em contrapartida, quando o ministro se torna demasiado zeloso e tensiona as mãos, a recuperação do paciente se torna mais lenta. A advertência de que “uma recuperação demorada é sempre sinal de tensão nas mãos” nos é concedida para corrigir nossa tendência de nos concentrarmos excessivamente no ato de “curar”. Portanto, ao nos depararmos com nódulos de toxinas especialmente endurecidos ou com doenças graves que coloquem a vida em risco, é imperativo que ministremos com uma atitude ainda mais serena e um toque mais leve. Dificilmente haverá outro fato que rompa de forma tão completa com o senso comum estabelecido.
+
+Ademais, o abismo que separa o Johrei da medicina moderna é vasto demais para qualquer comparação. De um lado, um curso de apenas três dias nos permite compreender a origem de todas as doenças e nos confere o poder de curá-las. De outro, uma ciência que, após mais de dois milênios de evolução, ainda desconhece a verdadeira causa de um simples resfriado e cujos praticantes, mesmo após décadas de estudo e prática, são incapazes de promover a cura genuína. Enquanto o Johrei obtém resultados prodigiosos de forma suave e sem infligir qualquer sofrimento, a medicina, acreditada como o que há de mais avançado, submete os pacientes a tratamentos penosos que, não raro, resultam na agravação da doença e no enfraquecimento do organismo.
+
+A mesma disparidade se observa ao compararmos a dificuldade e os resultados do trabalho na agricultura com fertilizantes em relação à Agricultura Natural. Tais fatos espantosos não podem, de forma alguma, ser medidos com a régua do senso comum.
+
+Por meio dessas realidades, compreende-se que o Caminho do Paraíso, a nova verdade estabelecida por Meishu-Sama para a humanidade, é uma senda que pode ser percorrida com uma facilidade inimaginável e que produz efeitos surpreendentes, revelando seu caráter sumamente avançado.
+
+Naturalmente, este princípio não se limita à medicina ou à agricultura. Todas as diretrizes que Meishu-Sama apresentará ao mundo — na religião, na arte, na política, na economia, na educação e em todos os demais campos — constituirão o caminho mais simples para se alcançar os maiores resultados. No momento em que essas diretrizes se materializarem, o novo mundo civilizado, o Mundo do Grande Resplendor do Dia, será uma realidade.
+
+No Mundo da Noite, a sociedade humana progrediu de forma curvilínea, tendo o mal como seu eixo. Por essa razão, a jornada foi extremamente árdua, e o ritmo do avanço, notadamente lento. O forte anseio pela luz da felicidade e da verdade em meio à escuridão, embora tenha sido o motor da cultura atual, viu seu caminho constantemente obstruído pelas trevas. Isso deu origem a inúmeras superstições e falsos princípios, que foram tomados como guias para um progresso desenfreado.
+
+Já no Mundo do Dia, o avanço se dará de forma linear, com o bem como seu centro. Assim, não haverá necessidade de percorrer os desvios e sinuosidades intermináveis da trajetória curvilínea. Ademais, a claridade da nova civilização impedirá o surgimento de superstições e falsas verdades, permitindo que o progresso ocorra a uma velocidade extraordinária, mesmo sem a necessidade de pressa.
+
+A chegada do Mundo do Grande Resplendor do Dia significa, evidentemente, que o Deus do Sol se manifesta no mundo material, irradiando Seu infinito Poder Divino. Sob a graça dessa Luz, o esforço humano que, na escuridão da noite, inevitavelmente gerava o inferno através do sofrimento, será gradualmente extinto e substituído pela criação da alegria. A Luz do Sol já começou a brilhar de forma contínua e, agora que de fato adentramos o Mundo do Dia, a humanidade precisa despertar para a tolice de persistir em um esforço que só gera sofrimento, um vestígio que deveria ser extinto. É tempo de, o mais rápido possível, banhar-se na infinita e grandiosa Graça Divina.
+
+Em suma, a prática árdua que gera o sofrimento em contraste com a prática simples que gera a felicidade — eis uma das diferenças mais notáveis entre o Mundo da Noite e o Mundo do Dia. Diante da claridade que se aproxima, temos o dever de transformar nossa maneira de agir e de pensar.
+
+---
+
+# A Missão de Momotaro e o Batismo de Fogo e Água
+
+**Categoria:** kikou | **Ano:** 昭和28(1953)年10月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 ○ヽ （ス） の一声 （二） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1953-10-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## A Missão de Momotaro e o Batismo de Fogo e Água
+
+Este é um relato dos Ensinamentos proferidos por Meishu-Sama em 1º de março de 1935. Naquela ocasião, mesmo em meio à Sua incessante rotina de afazeres, Ele nos agraciou com as seguintes palavras.
+
+O pêssego de três mil anos refere-se a Xi Wangmu e simboliza a história do Mundo Material. No budismo, corresponde ao `Taizōkai` (胎臓界), o Mundo do Ventre, pois gestou Miroku até o alvorecer de sua vinda. Em termos materiais, trata-se do mundo regido pela Lua, e Xi Wangmu é a deidade Izanami-no-Mikoto (伊邪那美尊). O Plano Divino até os dias de hoje foi conduzido por Izanami-no-Mikoto, razão pela qual o mundo jamais conheceu a paz duradoura. Foi uma era de constantes tormentas, um mundo noturno e de escuridão, no qual o Ocidente exercia a primazia.
+
+Contudo, o pêssego de três mil anos amadureceu, e Momotaro finalmente nasceu. Nesse sentido, Izanami-no-Mikoto representa a mãe de Momotaro, e o momento de sua ascensão finalmente chegou. (É importante salientar que Senju Kannon é Momotaro e, por conseguinte, o próprio Meishu-Sama). A lenda narra que Momotaro subjuga a Ilha dos Demônios e se apossa de seus tesouros. As preciosidades que Senju Kannon (千手観音) ostenta em Suas inúmeras mãos são, na verdade, os tesouros resgatados daquela ilha. Isso significa que, até então, o mundo era integralmente dominado por espíritos malignos, que detinham em suas mãos todas as formas de poder.
+
+Doravante, presenciaremos a tão aguardada cena da conversão dos demônios. Com o advento de Momotaro, eles se verão sem forças para resistir e, finalmente, restituirão a Deus a soberania sobre o mundo. Por essa razão, o futuro nos reserva acontecimentos verdadeiramente auspiciosos. Todavia, a transição não será imediata. Izanagi-no-Mikoto (伊那那岐尊) e Izanami-no-Mikoto (伊邪那美尊) representam o casal de anciãos da lenda de Takasago. Conforme a imagem do casal a limpar a base do pinheiro, essas duas deidades darão início à Grande Purificação e à Grande Lavagem do mundo, o que prenuncia uma fase de intensa transformação.
+
+O que o mundo conhece como o Juízo Final, a Arca de Noé, o Dilúvio ou, ainda, o Batismo de Fogo mencionado no cristianismo, são todas alusões às grandes calamidades que estão por vir. As tradições que falam em um "acerto de contas final" ou na "chegada da hora da quitação" referem-se a esse mesmo evento, que pertence aos segredos do Plano Divino. Em suma, o Batismo de Fogo e Água se aproxima.
+
+Esse Momotaro é o mesmo pêssego da batalha de Yomotsu Hirasaka (黄泉津比羅坂), quando Izanagi-no-Mikoto, ao colher os frutos de uma árvore e atirá-los contra uma horda de demônios, fez com que todos fugissem. Na nova batalha de Yomotsu Hirasaka que se aproxima, Momotaro novamente desempenhará um papel de destaque. Senju Kannon é também conhecido como Saishōmyō Nyorai (最勝妙如来), Aquele que Alcança a Vitória Suprema e Admirável. Tal como Seu nome indica, a vitória final Lhe é sempre garantida. Recordo-me da emoção que senti ao ouvir de Meishu-Sama Suas palavras plenas de força e convicção: "Ao final, eu vencerei categoricamente". Efetivamente, essa época se avizinha.
+
+Em outra ocasião, um enfermo trazido pelo senhor Arata Otomatsu aguardava em uma sala abaixo do salão Ōshin-dō. Ele relatou, espantado, ter visto a imagem de Kannon se mover de um lado para outro e, em seguida, a imagem de Senju Kannon, que se encontrava no andar de cima, reorganizar a ordem dos assentos dos presentes. Relatou, ainda, que conseguia ver que a maioria dos ascetas e praticantes de diversas disciplinas espirituais eram, na verdade, raposas, sendo-lhes visíveis até mesmo as caudas.
+
+O mesmo enfermo, ao fitar os dedos de Meishu-Sama, declarou que cada um deles era um Deus do mais elevado nível. Meishu-Sama confirmou a veracidade da visão, e recebemos o valioso Ensinamento de que assim o era de fato. Naquela época, era comum que muitos fiéis tivessem a permissão de vislumbrar a Luz Divina que irradiava do corpo de nosso Mestre.
+
+Em 22 de janeiro de 1935, durante uma cerimônia na Tōkōsha — a editora de nossas publicações —, um membro do partido comunista, o senhor K., que se convertera por meio do Johrei, participava pela primeira vez. Enquanto ouvia atentamente as palavras de Meishu-Sama, ele teve uma visão: por quatro vezes, uma intensa luz vermelha emanou do corpo de nosso Mestre, projetou-se até a Imagem de Kannon (観音) e ali se desvaneceu. Profundamente comovido, declarou que se dedicaria a traduzir os Ensinamentos para outras línguas a fim de propagá-los amplamente no exterior. Infelizmente, devido a um incidente, ele deixou de frequentar a Igreja. Sobre essa experiência, Meishu-Sama nos esclareceu: "A Luz que sai de meu corpo e se dirige à Imagem ocorre porque Eu sou a Sede Central de Kannon, e a Imagem é como uma filial Minha. A Luz parte de Mim em direção à filial. Essa é a realidade". Embora alguns fiéis ainda possam acreditar que a Imagem em si é a divindade principal, é fundamental que todos reconheçam que Meishu-Sama é o verdadeiro `Gohonzon` (御本尊).
+
+Posteriormente, em 5 de agosto de 1935, durante uma preleção do Curso de Kannon, enquanto Meishu-Sama dissertava sobre Cristo, o senhor Koike Motoichi teve a permissão de ver um grande halo duplo irradiando de Seu corpo. A alegria do senhor Koike foi imensa, pois essa visão nos permite compreender claramente que Meishu-Sama é a Entidade Principal.
+
+Conforme mencionei anteriormente, Meishu-Sama é Momotaro e, ao mesmo tempo, Senju Kannon. A conquista da Ilha dos Demônios, que significa a subjugação das forças do mal, está sendo realizada por Ele de forma sequencial, por meio de protótipos. A seguir, Ele nos falou sobre a primeira etapa dessa conquista.
+
+O primeiro demônio é Ushitora no Konjin, a deidade do Portal Nordeste, que corresponde a Kuninotokotachi-no-Mikoto (国常立尊). Trata-se de um Deus justo e de lealdade inigualável. O nono demônio é [...]shiutsu. O termo `kuki` (九鬼), "nove demônios", representa, na verdade, uma miríade de demônios, ou seja, a própria Ilha dos Demônios. Meishu-Sama prosseguiu: "Eu lutei intensamente contra esse [...]shiutsu por diversas questões e saí vitorioso. Essa foi a primeira etapa da conquista da Ilha dos Demônios por Momotaro, e muitas outras batalhas contra demônios se seguirão". Ele acrescentou que o Mestre [...] de [...] também é um demônio, o demônio de [...].
+
+O relato a seguir, cuja data não foi registrada, refere-se a um Ensinamento também proferido na era de Omori sobre a arte da cura.
+
+### A Diferença entre a Terapêutica do Fogo e a da Água
+
+As religiões até hoje se valeram da terapêutica do Deus da Lua, ou seja, da terapêutica do espírito da água. Esse método é incapaz de remover a causa primordial das doenças — as toxinas —, limitando-se a solidificá-las. Por conseguinte, não promove uma cura fundamental. A Terapia Reiki, por exemplo, iniciada por um homem chamado Usui, foi amplamente praticada, mas também se baseia na solidificação e no emprego da força humana, o que torna seu poder curativo limitado. Existem ainda métodos nos quais o fundador da religião absorve a doença do fiel. Contudo, como uma única pessoa não consegue absorver todas as toxinas, são nomeados representantes para auxiliá-la. Quase todas as religiões do passado seguiram esse padrão. Por pertencerem à esfera da Lua, isto é, da água, seus praticantes acabam por macular o próprio corpo e sofrer. Mesmo a moxabustão de Kobo-Daishi, embora engenhosa, remove apenas uma quantidade ínfima de toxinas.
+
+Em contrapartida, o método de Kannon dissolve e remove a raiz da enfermidade, as toxinas, atuando em sua origem. Por ser do elemento Fogo, que queima e purifica, o ministrante não absorve absolutamente nada, mantendo seu corpo em bem-estar, ao passo que a doença é curada por completo. Esse poder é concedido pelo Deus Supremo, Ame-no-Minakanushi-no-Ōkami (天之御中主御大神), que o transmite ao ministrante por intermédio de Kannon. Façamos uma analogia: Ame-no-Minakanushi-no-Ōkami é a fonte geradora de eletricidade; Kannon é a usina de força; e aquele que ministra Johrei é a lâmpada. Existem lâmpadas de cinco velas e de cem velas. Quanto mais pessoas um ministrante salva, maior se torna a sua potência. Portanto, é fundamental se empenhar em salvar o próximo e em aumentar o número de fiéis para ampliar cada vez mais essa luminosidade.
+
+Ademais, quanto mais pessoas são curadas, mais saudável se torna o próprio ministrante, o que representa o exato oposto das terapias convencionais. O fato de Cristo ter carregado os pecados da humanidade e morrido na cruz também se deve a Ele ser uma divindade da Lua. Todas as terapêuticas do passado eram, dessa forma, baseadas na água: solidificavam ou absorviam o mal, configurando um processo de expiação no qual o próprio curador sofria, o que impunha limites à sua atuação. Nosso método, portanto, é oposto em todos os aspectos. Não existe, em absoluto, nenhuma terapêutica mais perfeita e completa do que esta.
+
+---
+
+# O Jugo dos Laços Cármicos
+
+**Categoria:** kikou | **Ano:** 昭和28(1953)年4月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 クルリ瓢箪 瓢箪 | **Status:** Published | **Edição/Página:** 47号 | **Data ISO:** 1953-04-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## O Jugo dos Laços Cármicos
+
+Ao recordar aquela época, rememoro como fui salvo da iminência da autodestruição e, embora este meu ser seja mais insignificante que um inseto, foi-me concedida a permissão de servir em Sua nobre presença, outorgando-me uma vida de suprema honra e felicidade. Foi justamente nesse período que o movimento de oposição a Meishu-Sama, articulado dentro da sede e entre os fiéis de Tóquio da seita religiosa à qual a filial de Omori pertencia, ganhava contornos cada vez mais sérios e abrangentes. Calúnias absurdas e boatos de baixo nível eram disseminados e chegavam até mesmo às províncias, chegando ao cúmulo da perfídia de alguns declararem publicamente que Meishu-Sama era o líder de espíritos malignos, o que gerou um clima de grande instabilidade.
+
+Em meio a esse clamor de injúrias, a notícia de que eu passara a servir a Meishu-Sama chegou à minha família. Para meus parentes, que eram membros representativos daquela seita na cidade de Matsue, a ideia de abrigar um herege abominável era o maior dos temores. Acreditavam que um ente querido, ao seguir por tal caminho, seria condenado por Deus, e não podiam assistir a isso de braços cruzados. Assim, em conselho de família, decidiram que eu deveria ser persuadido a retornar, a qualquer custo. Primeiramente, meu cunhado, que residia em Tóquio, convocou-me repetidas vezes na condição de representante da família, tentando me convencer e até mesmo empregar meios drásticos para me levar de volta, mas sem sucesso. Em seguida, meu irmão mais novo viajou à capital, e outros parentes e conhecidos foram enviados, até que, por fim, meu próprio pai veio. Contudo, todos se depararam com a impossibilidade de abalar minha inabalável resolução. O fervor e a persistência deles eram tamanhos que chegavam a despertar compaixão.
+
+Naquela época, eram poucos os que professavam fé em Meishu-Sama, que Se encontrava cercado por esse muro de perseguições. Sua realidade, desprovida de qualquer base econômica, parecia tão precária quanto caminhar sobre gelo fino. Por vezes, sentia-me tentado pela vida confortável que levava em minha terra natal ou puxado pelos fortes laços familiares, mas cerrava os dentes e resistia. Na verdade, ao contemplar a atitude de Meishu-Sama — sereno, sorridente e firme como uma rocha, como se tal situação de extremo perigo não existisse —, toda a minha apreensão se dissipava. E então, brotava em mim um sentimento avassalador: ainda que houvesse uma ordem do líder daquela seita ou um decreto do imperador, que me oferecessem imensas fortunas ou que eu tivesse de renunciar a tudo o mais, jamais poderia me afastar do grandioso e acolhedor regaço de Meishu-Sama.
+
+Minha família adotiva residia na cidade de Kōkai, na Coreia do Norte, e era uma casa comercial de renome na região. Minha mãe adotiva, tendo herdado o negócio e as dívidas de seu falecido esposo, lutava sozinha para seguir adiante. Recompensar os sacrifícios daquela pobre viúva era um anseio e uma responsabilidade que sempre carreguei no coração, como seu único sucessor e chefe da família. No entanto, para mim, que me sentia inapto para tão pesada incumbência, era também o mais detestável grilhão que o destino me impusera. Por isso, dedicar-me à grandiosa Obra de salvação da humanidade era meu mais profundo anseio, pelo qual não hesitaria em sacrificar minha vida pessoal e familiar. Eu cria firmemente que ser acolhido por Meishu-Sama e ter a honra de servi-Lo era o caminho supremo para a salvação e a prosperidade de toda a minha família.
+
+Minhas correspondências vagas e minha ausência nas férias de verão despertaram a desconfiança de minha mãe adotiva, que recorreu a uma agência de investigações. Ao descobrir a verdade — que eu havia abandonado os estudos e me dedicado à religião, seus maiores medos —, ficou profundamente chocada e enfurecida. Ela enviou um juiz aposentado, seu conselheiro, para negociar diretamente com Meishu-Sama e tentar me demover, mas aquele homem de bom-senso, contrariamente ao esperado, demonstrou certa afinidade com os ideais apresentados. Desta vez, minha mãe veio pessoalmente a Tóquio e, diante de Meishu-Sama, declarou: "Tenho suportado inúmeras provações para que meu filho obtenha uma formação acadêmica. Exijo que o devolva imediatamente", tentando me levar à força. Confesso que, por um instante, temi que Meishu-Sama, seguindo os preceitos morais da época, pudesse ceder ao seu apelo, considerado justo pela sociedade. Todavia, sem Se deixar abalar por tais argumentos, Ele apontou de imediato o erro de minha mãe e assumiu firmemente a responsabilidade por meu futuro. A gratidão e a alegria que senti naquele momento foram tamanhas que apenas as lágrimas podiam expressar.
+
+Meishu-Sama discerniu instantaneamente que minha mãe, guiada por um materialismo maquiavélico, e eu, movido pelo espírito, éramos polos opostos, como gelo e carvão em brasa. Ele me libertou das mãos injustas de minha mãe, que, sob os grilhões de um afeto possessivo, tentava aniquilar minha individualidade e meu livre-arbítrio, destruindo minha felicidade para me transformar em sua marionete. Assim, meu único e supremo desejo foi realizado. Contudo, minha mãe, verdadeiramente cega e surda à verdade, em vez de agradecer por tão nobre desígnio, interpretou tudo de forma distorcida e passou a nutrir um profundo ressentimento, considerando Meishu-Sama o destruidor de nossa família. Apesar de todo o desrespeito e rancor, Meishu-Sama jamais Se importou e continuou a me proteger em minha fraqueza.
+
+Posteriormente, minha mãe mobilizou até mesmo outros parentes em suas manobras obstinadas. Ela veio diversas vezes a Omori, mas sempre proferindo calúnias insuportáveis contra Meishu-Sama. A forma como tentava me demover de minhas convicções era a de uma pessoa com a mente desequilibrada, mas dotada de grande eloquência. Suas atitudes, iluminadas pela Luz Divina, apenas expunham uma fealdade interior que eu até então não fora capaz de enxergar, e o único efeito que surtiam era tornar meu retorno absolutamente impossível. A cada visita, ela se despedia com as mesmas palavras: "Você não passa de uma casca vazia de cigarra. Meishu-Sama é o grande culpado; você está sendo habilmente enganado. Um dia, seus olhos certamente se abrirão. Quando perceber, volte para casa". E, curiosamente, sempre me deixava uma generosa quantia em dinheiro. "Ele é realmente impressionante, mas que sujeito tolo. Ainda me dá dinheiro!", era a constatação que me vinha à mente naqueles momentos.
+
+Alguns anos se passaram, até que recebi uma notificação: "Tendo perdido meu único filho para a religião, perdi também a força para dar continuidade ao legado de meu marido. Delego ao gerente a tarefa de liquidar todos os bens e retornarei ao Japão". Nessa mesma carta, ela questionava minha intenção de me casar com sua prima, que era minha noiva prometida. Meishu-Sama anuiu e Se dispôs, inclusive, a ser o intermediário do casamento. Apesar de tamanha honra e benevolência, minha mãe, referindo-se a Ele, proferiu insultos como "charlatão" e "impostor". Tomado de fúria, quis romper o noivado imediatamente, mas, ao pensar na nobre intenção de Meishu-Sama, suportei o insuportável. No fim, aquele casamento não passou de uma medida desesperada de minha mãe para me afastar de Meishu-Sama através dos laços do amor conjugal. Na mente de minha esposa, a vontade de minha mãe estava sempre presente, vinculada tanto aos bens materiais que ela controlava quanto ao afeto que nutria por mim. Assim, nossos corações seguiam trilhas paralelas, sem jamais se encontrarem. Para piorar, as visitas ocasionais de minha mãe destruíam qualquer esperança de união. Quanto mais eu desejava que minha esposa ingressasse na fé, mais ela se afastava, e eu me sentia como se vivesse com uma bárbara com quem era impossível me comunicar.
+
+Ainda assim, tivemos dois filhos em três anos. Contudo, o golpe da perseguição da era Tamagawa fez parecer, por um tempo, que a Obra Divina não se reergueria, e cheguei a pensar que ficaria desamparado. Vendo nisso a oportunidade perfeita, minha mãe esgotou todos os seus últimos recursos. Minha esposa, acreditando que finalmente chegara o momento em que meus olhos se abririam, como sua mãe previra, aliou-se a ela. Como eu me recusava a aceitar as previsões de uma pessoa que não retirava suas acusações de charlatanismo e fraude, ela recorreu a todos os tipos de abuso e humilhação: administrou deliberadamente *yakudoku* (veneno dos remédios) ao nosso filho doente, cortou qualquer ajuda financeira em meio à minha dificuldade, chegou a me impedir de entrar em casa à noite e, por fim, em comum acordo com a mãe, partiu para o interior levando as duas crianças. Ao me despedir do rosto de meus filhos pequenos, sem saber quando os veria novamente, engoli em silêncio torrentes de lágrimas ardentes. Por outro lado, senti também um alívio que não experimentava havia anos, por me ver livre do jugo da vida familiar. Soube, mais tarde, que aquela separação era sua última cartada, pois estava certa de que, movido pelo amor aos filhos e afligido pelas dificuldades financeiras, eu me afastaria de Meishu-Sama. Contudo, a água derramada jamais retornaria à bandeja.
+
+Após a separação, passei meses em uma situação de grande incerteza, literalmente sem um tostão, apenas sobrevivendo pela graça de ser mantido vivo. Entretanto, justamente quando a guerra atingia seu auge e o mundo lamentava a escassez de suprimentos, comecei a ser agraciado com todo tipo de abundância material. Mesmo nos momentos de maior dificuldade geral, não senti qualquer apreensão ou privação, recebendo uma felicidade tão grande que parecia um sonho.
+
+Conforme o exposto, durante muitos anos, fui atormentado pelos mais difíceis de romper laços de parentesco, vivendo unicamente apegado a Meishu-Sama e a Suas palavras. Todas as tentativas de meus familiares para me desviar do meu único caminho de vida foram, sem dúvida, motivadas por boas intenções e afeto. Contudo, foi graças aos Ensinamentos de Meishu-Sama que pude compreender que eles não passavam de marionetes, manipuladas com maestria por espíritos malignos. Em suas ações, havia a obstinação característica desses espíritos, bem como a crueldade e a insensatez de quem tenta roubar o maior propósito da vida de alguém, mas não havia a menor inteligência ou vontade de compreender o caminho de prosperidade que eu trilhava. Se, na época, as duas posições fossem submetidas ao julgamento da sociedade, meu comportamento provavelmente seria visto como um egoísmo irresponsável e tolo, enquanto o de minha mãe seria defendido como natural e justo. De fato, na época da separação de minha esposa e filhos, até mesmo companheiros de fé me criticaram, e eu mesmo cheguei a me questionar se não estaria agindo por puro egoísmo.
+
+Contudo, se eu tivesse escolhido o bem passageiro e a paz imediata, retornando para casa no início, teria afundado no abismo de um fanatismo religioso sem solução. Ademais, se tivesse obedecido à minha mãe, teria sofrido com o esforço inútil de tentar unir água e óleo e, tendo perdido minha única salvação, é evidente que me aguardavam trevas aterradoras e a autodestruição. Teria encerrado uma vida triste e sem sentido.
+
+No caminho que escolhi, além dos emaranhados cármicos, enfrentei diversos outros sofrimentos. Porém, qualquer que fosse a provação, por estar envolto no cálido manto espiritual de Meishu-Sama, ela se transformava em um desafio buscado por prazer ou na alegria de um salto evolutivo. Inúmeras vezes, meu destino de morte foi transmutado em vida. Protegido em meio às mais violentas tempestades do mundo, tive o privilégio de servir por vinte anos nesta Obra Divina única, recebendo uma felicidade tão imensa que pouquíssimas pessoas no mundo desfrutam. E Deus, através da minha salvação, concedeu também uma salvação incomparavelmente maior à minha mãe e à minha esposa, que tanto se rebelaram, uma salvação muito superior às lágrimas que por elas derramei. O que teria acontecido se minha mãe tivesse conseguido me levar para a Coreia do Norte? Dez anos depois, em uma cidade do interior onde a segurança já era precária, eclodiu uma situação de emergência. Nossas posses teriam sido confiscadas por tropas comunistas ou por rebeldes e, como ocorreu com todos os japoneses que lá viviam, mesmo que a família não fosse aniquilada, seria impossível esperar um retorno ileso. A decepção e a angústia de minha mãe por ter me "perdido" foram o que a motivaram a liquidar os negócios e retornar ao Japão. Graças a isso, sua vida e seus bens foram preservados, e ela vive com saúde até hoje. Que imensa graça divina! Da mesma forma, a partida de minha esposa de Tóquio resultou em uma evacuação antecipada. No campo, ela não sofreu com os bombardeios, teve fartura de alimentos e pôde criar nossos filhos com tranquilidade.
+
+Dessa forma, as palavras que Meishu-Sama dirigiu à minha mãe transformaram meu destino de maneira ilimitada e sublime, e até mesmo àqueles que se rebelaram foi concedida a devida graça. Verdadeiramente, as palavras proferidas por Meishu-Sama no calor do momento são de um alcance vasto e incomensurável. O amor de Deus é profundo e longínquo, impossível de ser medido pelo olhar limitado do ser humano. O olhar humano calcula o bem e o mal, as vantagens e desvantagens do momento presente; Deus, no entanto, possui um instrumento de medida que abrange do agora à totalidade da vida e se estende pela eternidade.
+
+Este relato é a minha primeira experiência em que compreendi na prática o Mahayana, e representa também o modelo clássico da interferência dos espíritos malignos que sempre ocorre quando estamos prestes a iniciar um novo e glorioso caminho. Muitas pessoas, ao serem salvas pela primeira vez pelo Johrei, deparam-se com o sussurro gentil do demônio que as convida a recorrer à medicina. No caso da Agricultura Natural, que exige um certo tempo para apresentar resultados notáveis, essa "gentileza" é ainda mais profunda, e o habitual é que, no início, se enfrente a situação com uma resignação silenciosa e quase heroica. Os que seguem os Ensinamentos com determinação e retidão obtêm resultados surpreendentes, enquanto aqueles que, enevoados pela dúvida, se desviam dos preceitos, colhem resultados na exata medida de seu desvio. A astúcia dos espíritos malignos se apresenta, à primeira vista, sob o manto da benevolência e oferece resultados imediatos e de visão limitada. Sem o conhecimento dos Ensinamentos, é impossível desmascará-la com os olhos humanos, e, uma vez que se cai em sua armadilha, não é fácil escapar, como bem demonstra a força com que as pessoas se apegam à medicina, aos agrotóxicos e às superstições. E ainda que os espíritos malignos consigam iludir os olhos de todos os deuses e budas, os únicos olhos que eles jamais poderão enganar são os de Meishu-Sama. Nós, portanto, devemos seguir as palavras de Meishu-Sama ao pé da letra, com fé absoluta e sem o menor desvio, pois elas são infalíveis.
+
+---
+
+# As Peculiaridades da Kannon-kyō
+
+**Categoria:** kikou | **Ano:** 昭和24(1949)年8月6日 | **Fonte:** -
+**Título Original:** 観音教の特質 江川勝利 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1949-08-06
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** -
+
+## As Peculiaridades da Kannon-kyō
+
+A leitura dos artigos de Meishu-Sama, publicados nos jornais *Hikari* números onze e treze, nos quais Sua Senhoria disserta se nossa fé seria budista ou xintoísta e a posiciona como uma terceira via religiosa, dirimiu uma dúvida que eu secretamente nutria. Aproveito, portanto, esta oportunidade para, na condição de um simples fiel, aprofundar minha compreensão sobre nossos Ensinamentos e, ao mesmo tempo, servir de marco orientador àqueles que futuramente ingressarão na fé. Para tanto, proponho-me a elucidar, com a devida clareza, o que é a Kannon-kyō e quais são suas diferenças em relação às religiões já estabelecidas.
+
+A questão sobre se nossa fé é xintoísta, um ramo do budismo ou uma fusão de ambos constitui a primeira barreira com a qual todos se deparam. Se tomarmos Kanzeon Bosatsu como objeto de veneração, a conclusão lógica seria classificá-la como budista. Contudo, ao observarmos os locais de culto — seja o Hozanso, a Sede Geral em Odawara, a sala de audiências de Meishu-Sama ou as sedes regionais —, o objeto de veneração é uma imagem de Kanzeon Bosatsu ou a caligrafia de Komyō Nyorai, ambas de autoria de Meishu-Sama. Nesses locais, não se encontram lamparinas, incensos, sinos ou mokugyo; em suma, nada que se possa denominar como um artefato budista. A prática litúrgica consiste na entoação da Oração Zengen Sanji e na récita de alguns dos Hinos Divinos. Embora, para obter o reconhecimento como entidade religiosa, fosse necessário enquadrar-se em uma das categorias — xintoísta, budista ou cristã —, a situação permanece indefinida.
+
+A elucidação de Meishu-Sama de que Kanzeon Bosatsu retornou de seu estado de Bodhisattva à sua condição divina original é a chave para essa questão. Ainda que, no passado, eu mesmo realizasse minhas orações matinais e vespertinas com uma compreensão que parecia, ao mesmo tempo, clara e nebulosa, reconheço que um entendimento parcial é insuficiente para se alcançar o cerne de nossa fé.
+
+É precisamente neste ponto que reside a diferença fundamental entre a Kannon-kyō e as demais religiões. Por mais que alguém se aprofunde nos estudos do budismo ou pesquise o xintoísmo, não conseguirá jamais compreender a verdadeira essência da Kannon-kyō.
+
+A sublime graça da Kannon-kyō é algo que nós, fiéis, sentimos em nossas vidas a cada dia. Todavia, transmitir essa compreensão aos seguidores de outras religiões e, sobretudo, àqueles que não professam fé alguma, revela-se uma tarefa de grande dificuldade. Creio ser necessário elucidar os fundamentos de nossa fé de forma elementar, para que todos possam apreendê-los.
+
+Afinal, o que é a religião? Frequentemente, busca-se uma definição que possa explicá-la. O ocidental, com sua inclinação para definições e racionalizações, anseia por enquadrar tudo em conceitos. A religião, contudo, possui uma natureza que não se deixa aprisionar em uma única sentença. Religiosos, quando instados a defini-la, oferecem respostas distintas, e a grande divergência entre elas demonstra o perigo de tentar aplicar-lhe um rótulo ao modo ocidental. A diferença primordial entre a Kannon-kyō e o budismo, por exemplo, é que este último não reconhece em absoluto a existência de Deus nem a da alma, ao passo que nossa fé preconiza a existência real e concreta de Deus e do Mundo Espiritual. O retorno de Kanzeon Bosatsu à sua condição divina é, por conseguinte, um conceito incompreensível para uma religião que nega a própria existência de Deus. Alicerçada na negação de Deus e do espírito, a manifestação dos fenômenos espirituais da Luz Divina seria impossível. Deus existe, e a prova disso são os milagres que Ele nos concede diariamente, a nós, seguidores da Kannon-kyō. Creio não haver um único fiel que não acredite na existência de Deus.
+
+Ademais, nós, seres humanos, possuímos, de forma inata, espíritos que nos amparam e protegem — um fato confirmado pela parapsicologia. O Mundo Espiritual evidentemente existe e, quer queiramos, quer não, é um destino inevitável a todos os seres humanos tornarem-se seus habitantes. Este é o primeiro pilar para a compreensão da Kannon-kyō.
+
+Milagres são inerentes à religião. Essa não é apenas uma afirmação de Meishu-Sama, mas também de pensadores cristãos proeminentes, como Kanzo Uchimura. A ciência atual não admite a ocorrência de milagres; contudo, para aquele que crê em Deus, torna-se claro que os milagres não são realizados pelo homem. Por serem obras de Deus, devem ser recebidos com humildade e gratidão. Nós, fiéis da Kannon-kyō, vivenciamos a realidade dos milagres dia e noite. Não há como não se apiedar da insensatez daqueles de outras religiões — e, sobretudo, dos que não têm fé —, que desdenham da mão salvadora que lhes estendemos, considerando-a mera superstição, e assim persistem em seus sofrimentos, quando poderiam ser salvos.
+
+A controvérsia sobre a existência de milagres é um tormento até mesmo entre os pastores cristãos. É verdadeiramente penoso observar sua dificuldade em oferecer respostas satisfatórias quando questionados por novos fiéis. Em um debate de rádio, um professor universitário, ao ser solicitado a explicar os milagres, limitou-se a citar exemplos de força sobre-humana em situações extremas, como a de alguém que consegue carregar um objeto pesado durante um incêndio ou levantar uma viga maciça para salvar uma pessoa soterrada em um terremoto. A verdadeira explanação dos milagres, de forma que seja compreensível a todos, é uma prerrogativa dos seguidores da Kannon-kyō.
+
+Embora seja um fato já antigo, recordo-me de um breve relato do Dr. Takashi Nagai, de Nagasaki, famoso por seus estudos sobre as doenças causadas pela bomba atômica. Em sua participação no programa de rádio dominical “Hora da Fé”, no dia 14 de maio, ele, como cristão, contou que recebia cartas de desconhecidos de diversas partes do país, desejando sua cura. Algumas ofereciam curas por meio de emanação de energia vital; outras sugeriam que, se a sua vertente católica não funcionava, ele deveria se converter a outra igreja; e havia ainda as que afirmavam que ondas espirituais emanadas da palma da mão poderiam curá-lo. Dr. Nagai declarou que, como cientista, não se deixava iludir por tais coisas. Esta última, como é evidente, refere-se à mão salvadora da Kannon-kyō. É lamentável que um cientista, especialista em radiologia, tenha rechaçado tal possibilidade como superstição, sem sequer investigá-la, o que não pode ser considerado uma atitude fiel à própria ciência. O fato de uma pessoa tão devota não conseguir crer em milagres decorre da ausência destes no cristianismo. Eis a segunda porta para a compreensão da Kannon-kyō: uma fé que nos permite testemunhar os milagres com os próprios olhos.
+
+Por que os milagres ocorrem apenas na Kannon-kyō? Para uma análise mais aprofundada, embora concisa, remeto o leitor ao artigo “Por que nasceu uma nova religião”, publicado no jornal *Hikari*. Ao crer na existência de Deus e do Mundo Espiritual, torna-se possível compreender que a construção do Paraíso Terrestre, um mundo isento de doença, miséria e conflito, é uma obra que o próprio Deus está, neste momento, a realizar. Por ser uma Obra Divina, sua virtude se estende a tudo, desde uma simples folha de erva ou um galho de árvore até os pássaros, os animais, os insetos e os peixes. Quão ínfimas e limitadas se revelam, em comparação, as tentativas humanas de construir sociedades ideais baseadas em meras ideologias.
+
+Como terceira porta, eu deveria abordar o tema do Objeto de Culto Divino, mas peço ao leitor que aprofunde sua compreensão a esse respeito por meio dos artigos do jornal *Hikari*. Gostaria, em seguida, de tecer algumas considerações sobre a nossa escritura sagrada, a Oração Zengen Sanji (善言讃詞). Embora se diga que ela é uma versão condensada do Sutra de Kannon, pessoalmente, acredito que seja algo distinto. O Sutra de Kannon explana a origem dos diversos nomes de Kanzeon Bosatsu e seu maravilhoso poder de sabedoria. A Oração Zengen Sanji, por sua vez, afirma: “O Respeitável Kanzeon Bosatsu desceu a este mundo e manifestou-se como Komyō Nyorai (光明如来)”, descrevendo, assim, o retorno do Bodhisattva à sua condição divina, a criação do Paraíso Terrestre e a sublime graça do advento da Era de Miroku (五六七の御世). É como um texto de louvor que a entoamos em nossas orações matinais e vespertinas.
+
+Existem outras escrituras que louvam Kanzeon Bosatsu, como o Sutra Kōten Byakue Kannon, o Sutra Jukku Kannon, que é um extrato do primeiro, o Sutra Senju Darani e o Sutra Juichimen Kanzeon Bosatsu Zuigan Soku Darani. Todas, no entanto, são louvores a Kanzeon, e diferem substancialmente do que a Zengen Sanji de nossa fé nos ensina. É nisto que a peculiaridade de nossa fé se manifesta em sua plenitude.
+
+Gostaria de acrescentar um breve comentário sobre a invocação do nome sagrado de Komyō Nyorai (光明如来), presente em nosso Objeto de Culto. A razão pela qual na Kannon-kyō não invocamos Kanzeon Bosatsu, mas sim Komyō Nyorai, encontra-se nas escrituras. No Sutra do Samadhi de Kanzeon, está escrito: “Kannon existia antes de mim (Buda) e era chamado de Shōhōmyō Nyorai”. No Sutra da Flor da Compaixão, consta: “No Paraíso Ocidental, após o nirvana do Buda Amida, Kanzeon Bosatsu se tornará um Buda e será chamado de Henjutsuiisaikōmyōkudokusan'ō Nyorai”. Sendo assim, Kanzeon Bosatsu foi, no passado, o Buda Shōhōmyō Nyorai e, no futuro, será o Buda Henjutsuiisaikōmyōkudokusan'ō Nyorai. Interpreto humildemente que o “futuro” a que se refere a escritura é o tempo presente e, por isso, se diz que Ele “manifestou-se como Komyō Nyorai”. Este é um fato que apenas me leva a reverenciar, com assombro, a inspiração espiritual de Meishu-Sama.
+
+A compreensão fundamental da Kannon-kyō reside na crença na existência de Deus e do Mundo Espiritual. A partir daí, todos os fenômenos do cotidiano podem ser elucidados. Nossa fé, que tende a ser vista como uma religião de natureza mediúnica, revela-se, quando compreendida corretamente, uma fé alicerçada em revelações divinas, o que nos permite acolher todas as maravilhas com naturalidade. Eu mesmo, que antes era ateu e descrente, ao me converter à Kannon-kyō e aprender sobre a existência de Deus e do Mundo Espiritual, pude finalmente encontrar uma solução plausível para as questões que, mais do que dúvidas, eram para mim negações, acerca das divindades do *Kojiki* (古事記) e do *Nihon Shoki* (日本書紀). Mas este é um tema sobre o qual pretendo escrever em outra oportunidade.
+
+Retomando o fio da meada, Meishu-Sama afirma no jornal *Hikari* número onze: “O tempo atual é um período de transição; por isso, lidamos tanto com elementos xintoístas quanto budistas”. Aqueles que não conhecem nossos locais de culto talvez sintam nessa prática uma união incongruente, como se se tentasse enxertar bambu em uma árvore. No entanto, para nós, a realização simultânea de ritos de origens distintas não apenas não causa qualquer estranheza, como se desenrola no dia a dia com uma naturalidade multifacetada e harmoniosa, como uma veste celestial sem costuras.
+
+Como uma das peculiaridades de nossa fé — ou melhor, como uma característica das grandes religiões —, eu gostaria de acrescentar a profecia, a exemplo do que fez Cristo. Contudo, parece que ainda não é o momento para tal. Por isso, aponto como um de seus traços distintivos a ausência de preceitos e tabus. Essa ausência também é uma expressão da graça de Kanzeon Bosatsu, que nos salva exatamente como somos, com nossa sabedoria e entendimento limitados.
+
+Assim, nossa fé, com suas características que a distinguem inequivocamente das religiões estabelecidas e das novas religiões, é a religião suprema para todas as nações. Não se trata, em absoluto, de uma “terceira religião” (conforme o senso comum), mas sim de uma religião de primeira ordem, que salva o mundo presente e eleva os espíritos no Mundo Espiritual. Digo isso sem qualquer hesitação. Sei que estas minhas palavras podem soar a alguns como um arroubo místico, mas é justamente por ser um seguidor da Kannon-kyō que posso afirmá-las com inabalável convicção.
+
+---
+
 # A Verdadeira Assistência ao Enfermo
 
 **Categoria:** kikou | **Ano:** 昭和29(1954)年10月27日 | **Fonte:** Eikou
 **Título Original:** 看病 槐安 | **Status:** Published | **Edição/Página:** 280号 | **Data ISO:** 1954-10-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Verdadeira Assistência ao Enfermo
 
@@ -64,7 +266,7 @@ Duas décadas atrás, fui incapaz de oferecer a verdadeira assistência a um ben
 
 **Categoria:** kikou | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 明主様の御眼力 （五） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1953-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Clarividência Divina de Meishu-Sama
 
@@ -104,7 +306,7 @@ No final daquele mesmo mês de fevereiro, Meishu-Sama ateou fogo a uma pequena p
 
 **Categoria:** kikou | **Ano:** 昭和28(1953)年1月7日 | **Fonte:** Eikou
 **Título Original:** 参考文献 思い出のまま 瓢箪 | **Status:** Published | **Edição/Página:** 190号 | **Data ISO:** 1953-01-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Milagre da Água e a Tragédia do Solo
 
@@ -130,7 +332,7 @@ Diante do sofrimento causado pela doença, é impossível prever os extremos a q
 
 **Categoria:** kikou | **Ano:** 昭和27(1952)年7月9日 | **Fonte:** Eikou
 **Título Original:** 参考文献 明主様の御日常 山本慶一 | **Status:** Published | **Edição/Página:** 164号 | **Data ISO:** 1952-07-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Convivência Diária com Meishu-Sama
 
@@ -186,7 +388,7 @@ Embora estas sejam apenas impressões esparsas, procurei relatar um pouco do que
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年6月16日 | **Fonte:** Eikou
 **Título Original:** 随筆 中胆生 | **Status:** Published | **Edição/Página:** 261号 | **Data ISO:** 1954-06-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Correta Perspectiva sobre a Possessão Divina
 
@@ -212,7 +414,7 @@ Gostaria que fizessem um julgamento sereno: abstraindo-se da visão dos intelect
 
 **Categoria:** kikou | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 「天国の苑」完成す ――近く巡回上映の計画―― 枕流記者 | **Status:** Published | **Edição/Página:** 39号 | **Data ISO:** 1952-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Trem de Terceira Classe para o Paraíso (II)
 
@@ -312,7 +514,7 @@ Um ex-almirante da Marinha que participou de nossa recente Grande Cerimônia com
 
 **Categoria:** kikou | **Ano:** 昭和26(1951)年5月9日 | **Fonte:** Eikou
 **Título Original:** 参考文献 随筆 井上茂登吉 | **Status:** Published | **Edição/Página:** 103号 | **Data ISO:** 1951-05-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Clarividência de Meishu-Sama e o Plano Divino
 
@@ -344,7 +546,7 @@ Em qualquer época, uma visão de mundo verdadeiramente superior costuma estar a
 
 **Categoria:** kikou | **Ano:** 昭和25(1950)年4月15日 | **Fonte:** Kyusei
 **Título Original:** 熱海の火龍を観る記 “火災を免かる”と教主予言 熱海にて 岩崎 栄 | **Status:** Published | **Edição/Página:** 58号 | **Data ISO:** 1950-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 救世
 
 ## O Dragão de Fogo de Atami
 
@@ -486,7 +688,7 @@ Da mesma forma, como o Messias não pode estar presente em todos os tempos e lug
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Eikou
 **Título Original:** 芸術寸言 瓢箪 | **Status:** Published | **Edição/Página:** 197号 | **Data ISO:** 1953-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Relação Indissociável entre Religião e Arte
 
@@ -506,7 +708,7 @@ Meishu-Sama costumava dizer que um governante deveria administrar a nação enqu
 
 **Categoria:** kikou | **Ano:** 昭和27(1952)年12月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 明主様の御眼力 （四） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1952-12-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Discernimento Sobrenatural de Meishu-Sama
 
@@ -532,7 +734,7 @@ Não consigo precisar a data exata, pois, embora tenha o registro, não o encont
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年8月18日 | **Fonte:** Eikou
 **Título Original:** 「覚り」と「反省」 本部 阿部晴三 | **Status:** Published | **Edição/Página:** 270号 | **Data ISO:** 1954-08-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Realização e a Reflexão
 
@@ -556,7 +758,7 @@ Contudo, o tempo finalmente chegou. Com a transição para o Mundo do Dia, nós,
 
 **Categoria:** kikou2 | **Ano:** 昭和26(1951)年9月26日 | **Fonte:** Eikou
 **Título Original:** 笑話一題 保健所へ殴り込み 生和中教会 神田生 | **Status:** Published | **Edição/Página:** 123号 | **Data ISO:** 1951-09-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Uma Lição de Fé no Posto de Saúde
 
@@ -582,7 +784,7 @@ No dia seguinte, conforme prometido, um funcionário do posto de saúde comparec
 
 **Categoria:** kikou | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 限りない感謝 瓢箪 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Gratidão Infinita
 
@@ -608,7 +810,7 @@ O grande amor de Deus empenha-se incessantemente em salvar toda a humanidade, se
 
 **Categoria:** kikou | **Ano:** 昭和29(1954)年1月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 私の思い出 （一） 瓢箪 | **Status:** Published | **Edição/Página:** 56号 | **Data ISO:** 1954-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Reminiscências dos Primórdios da Obra Divina
 
@@ -634,7 +836,7 @@ Recordo-me também de um episódio ocorrido pouco depois de eu ter começado a s
 
 **Categoria:** kikou | **Ano:** 昭和28(1953)年5月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 明主様の御眼力 （八） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1953-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Construção do Mundo de Grande Luz
 
@@ -688,7 +890,7 @@ Fica claro, portanto, que nem a Hinayana nem a Mahayana são adequadas. Se tanto
 
 **Categoria:** kikou | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 クルリ瓢箪 瓢箪 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Relato de um Inferno de Fanatismo
 
@@ -746,7 +948,7 @@ Poder, Poder, ah, este Grande Poder! Por mais palavras que eu use, jamais serei 
 
 **Categoria:** kikou2 | **Ano:** 昭和27(1952)年4月30日 | **Fonte:** Eikou
 **Título Original:** 如是我解 社会事業に就いて 江川勝利 | **Status:** Published | **Edição/Página:** 154号 | **Data ISO:** 1952-04-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Missão Religiosa e a Assistência Social
 
@@ -802,7 +1004,7 @@ A Sekaikyuseikyou jamais se envolveu com a assistência social, como o mundo a e
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年12月9日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信（13） 安食晴彦 | **Status:** Published | **Edição/Página:** 238号 | **Data ISO:** 1953-12-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Relatório da Difusão no Havaí
 
@@ -830,7 +1032,7 @@ Com isto, encerro este relatório.
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年7月28日 | **Fonte:** Eikou
 **Título Original:** 随想 青芝緑苔 | **Status:** Published | **Edição/Página:** 267号 | **Data ISO:** 1954-07-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Uma Profunda Reverência ao Messias
 
@@ -868,7 +1070,7 @@ Seja como for, esta breve e incerta jornada da vida, que antes era atormentada p
 
 **Categoria:** kikou2 | **Ano:** 昭和30(1954)年1月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 座談会 箱根美術館御奉仕者を囲んで | **Status:** Published | **Edição/Página:** 66号 | **Data ISO:** 1955-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Servir no Museu de Arte de Hakone: Um Diálogo Revelador
 
@@ -1074,7 +1276,7 @@ O Museu de Arte de Hakone, que já atrai a atenção do mundo como um tesouro ar
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年7月7日 | **Fonte:** Eikou
 **Título Original:** 愚者のモノログ 瓢箪 | **Status:** Published | **Edição/Página:** 264号 | **Data ISO:** 1954-07-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Insensatez do Esforço Infrutífero
 
@@ -1106,7 +1308,7 @@ Poema de abertura da segunda reunião mensal do Shōwakai Shōkanku, 13 de abril
 
 **Categoria:** kikou2 | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
 **Título Original:** 偶像崇拝の限界 槐安生 | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Os Limites da Idolatria
 
@@ -1138,7 +1340,7 @@ Nesse sentido, a prática dos membros da Igreja Messiânica, que consagram a Cal
 
 **Categoria:** kikou2 | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 俺 様 百地超生 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Ilusão do “Eu” Soberano
 
@@ -1211,7 +1413,7 @@ A esses “eus” soberanos e impotentes, os membros da Igreja Messiânica respo
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信（九） 安食晴彦 米国本土も本格的な救いの第一歩 （樋口先生ハワイより米国ロスに出発） | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Expansão da Luz Divina no Havaí e na América
 
@@ -1243,7 +1445,7 @@ O povo daqui difere consideravelmente do japonês. São, em geral, extremamente 
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年6月3日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信 （五） 樋口喜代子 | **Status:** Published | **Edição/Página:** 211号 | **Data ISO:** 1953-06-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Relatório da Difusão no Havaí (V)
 
@@ -1300,7 +1502,7 @@ Peço perdão pela caligrafia desleixada; escrevo às pressas para não perder o
 
 **Categoria:** kikou2 | **Ano:** 昭和27(1952)年3月26日 | **Fonte:** Eikou
 **Título Original:** 爪木崎燈台 白浜海岸ロケ随行記１ 福地眞之助 | **Status:** Published | **Edição/Página:** 149号 | **Data ISO:** 1952-03-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Crônica da Filmagem no Farol de Tsumekizaki
 
@@ -1414,7 +1616,7 @@ O local seguinte era um pequeno bosque de pinheiros em uma colina logo acima de 
 
 **Categoria:** kikou2 | **Ano:** 昭和27(1952)年12月10日 | **Fonte:** Eikou
 **Título Original:** 或る人を御浄霊して感じた事ども 馬太 | **Status:** Published | **Edição/Página:** 186号 | **Data ISO:** 1952-12-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Reflexões sobre a Purificação e a Fé Absoluta
 
@@ -1448,7 +1650,7 @@ Ao concluir minha exposição com estes e outros exemplos, pude finalmente vislu
 
 **Categoria:** kikou2 | **Ano:** 昭和29年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** -
 
 ## O Alento dos Ensinamentos Sagrados
 
@@ -1466,7 +1668,7 @@ Embora tenha evitado me estender em detalhes, a autoridade dos Escritos Divinos 
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年2月24日 | **Fonte:** Eikou
 **Título Original:** 立春祭「如是我解」 | **Status:** Published | **Edição/Página:** 249号 | **Data ISO:** 1954-02-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Início do Juízo Divino: Reflexões sobre o Festival do Início da Primavera
 
@@ -1537,7 +1739,7 @@ Este Festival do Início da Primavera, realizado no quarto dia do segundo mês d
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年5月27日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信（四） 安食晴彦 | **Status:** Published | **Edição/Página:** 210号 | **Data ISO:** 1953-05-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Turbilhão da Salvação no Havaí
 
@@ -1563,7 +1765,7 @@ Haveria um número quase infinito de relatos a serem feitos, mas por hoje, encer
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 世界救世教信徒の本分を思いて 神照中教会会長 西岡照男 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## As Duas Vias do Dever Sagrado do Fiel
 
@@ -1603,7 +1805,7 @@ Permiti-me, assim, expor livremente meus pensamentos sobre o dever primordial de
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年9月8日 | **Fonte:** Eikou
 **Título Original:** 明主様の御文章をめぐって 江川勝利 | **Status:** Published | **Edição/Página:** 273号 | **Data ISO:** 1954-09-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Sublimidade dos Escritos de Meishu-Sama
 
@@ -1687,7 +1889,7 @@ E o mais extraordinário é que todos esses Escritos Sagrados são anteriores à
 
 **Categoria:** kikou2 | **Ano:** 昭和25(1950)年10月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 秋季大祭御言葉 | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1950-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Relato do Grande Culto de Outono de 1952
 
@@ -1750,7 +1952,7 @@ Há outro ponto: o Budismo Nitiren, dentro do contexto budista, é singular. O B
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 元は何でも只である 神成大教会 堤 章吉 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1953-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Origem de Todas as Coisas é Gratuita
 
@@ -1800,7 +2002,7 @@ Isso porque “Deus é Amor”. Assim como um pai amoroso se afeiçoa ainda mais
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信（八） 樋口喜代子 | **Status:** Published | **Edição/Página:** 223号 | **Data ISO:** 1953-08-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Relatório da Difusão no Havaí (VIII)
 
@@ -1870,7 +2072,7 @@ Rogo-lhes, por fim, que transmitam minhas cordiais saudações a todos.
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年3月24日 | **Fonte:** Eikou
 **Título Original:** 最後の審判 明主様とイエスのその時 槐安生 | **Status:** Published | **Edição/Página:** 253号 | **Data ISO:** 1954-03-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Juízo Final e a Vinda do Messias
 
@@ -1910,7 +2112,7 @@ Em verdade, ao mesmo tempo que Deus exclui o que não é verdadeiro, Ele também
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年11月11日 | **Fonte:** Eikou
 **Título Original:** ハワイ通信（12） 樋口喜代子 十三日より再び米本土へ…ハワイ教会も改修にとりかかる | **Status:** Published | **Edição/Página:** 234号 | **Data ISO:** 1953-11-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Estabelecimento da Sede Modelo no Hawái
 
@@ -1948,7 +2150,7 @@ Uma vez que o projeto de construção esteja devidamente encaminhado, pretendo p
 
 **Categoria:** kikou2 | **Ano:** 昭和30(1955)年4月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 所感 井上超生 | **Status:** Published | **Edição/Página:** 69号 | **Data ISO:** 1955-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Reflexões sobre a Ascensão de Meishu-Sama
 
@@ -2010,7 +2212,7 @@ No período de Wako Dojin (和光同塵), Sua imensa compaixão permitiu que o m
 
 **Categoria:** kikou2 | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 座談会巡りある記 （明主様の書と絵に及ぶ） 江川勝利 | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1951-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Reflexões sobre os Encontros de Fé e a Arte Divina de Meishu-Sama
 
@@ -2044,7 +2246,7 @@ Em suma, cada uma das Obras de Meishu-Sama é singular, maravilhosa e digna de i
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年3月31日 | **Fonte:** Eikou
 **Título Original:** 霊視日記（16） 五三中教会 茨木よし子 | **Status:** Published | **Edição/Página:** 254号 | **Data ISO:** 1954-03-31
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Revelações do Plano Divino
 
@@ -2091,7 +2293,7 @@ Submeto, com o mais profundo respeito, este relatório.
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年9月8日 | **Fonte:** Eikou
 **Título Original:** 自然農法について 向陽生 | **Status:** Published | **Edição/Página:** 273号 | **Data ISO:** 1954-09-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Um Marco para a Agricultura Natural
 
@@ -2136,7 +2338,7 @@ Agradecemos antecipadamente sua colaboração.
 
 **Categoria:** kikou2 | **Ano:** 昭和30(1955)年1月26日 | **Fonte:** Eikou
 **Título Original:** 既成宗教的なもの 本部 藤枝 茂 | **Status:** Published | **Edição/Página:** 293号 | **Data ISO:** 1955-01-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Superando a Mentalidade Religiosa Convencional
 
@@ -2180,7 +2382,7 @@ As máculas da alma são purificadas à medida que nos dedicamos à Obra Divina.
 
 **Categoria:** kikou2 | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Eikou
 **Título Original:** 信仰の窓 松籟生 | **Status:** Published | **Edição/Página:** 101号 | **Data ISO:** 1951-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A Conduta que Reflete a Fé
 
@@ -2204,7 +2406,7 @@ Tanto a atitude dos membros em geral, testemunhada pelo reverendo Suzuki, quanto
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年8月11日 | **Fonte:** Eikou
 **Título Original:** 信徒の皆様へ 管長 大草直好 | **Status:** Published | **Edição/Página:** 269号 | **Data ISO:** 1954-08-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Comunicado aos Fiéis
 
@@ -2223,7 +2425,7 @@ Portanto, cumpre-nos o dever de comunicar a todos os senhores a referida determi
 
 **Categoria:** kikou2 | **Ano:** 昭和28(1953)年9月9日 | **Fonte:** Eikou
 **Título Original:** 米国通信（六） 樋口喜代子 米国本土に初の教修会開かる | **Status:** Published | **Edição/Página:** 225号 | **Data ISO:** 1953-09-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Alvorecer da Difusão nos Estados Unidos
 
@@ -2278,7 +2480,7 @@ P.S.: Creio que o Sr. Ajiki já deve ter reportado, mas em Honolulu, o curso rea
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年5月26日 | **Fonte:** Eikou
 **Título Original:** 顧みて 泉野二六（高見範雄） | **Status:** Published | **Edição/Página:** 258号 | **Data ISO:** 1954-05-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Reminiscências de um Encontro com a Fé
 
@@ -2316,7 +2518,7 @@ Refletindo sobre a missão que me foi confiada, reconheço que, fora da escrita,
 
 **Categoria:** kikou2 | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 夏休みの宿題 本部 福地真之助 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Resolução da Tarefa de Verão
 
@@ -2376,7 +2578,7 @@ Seis meses depois, incapaz de permanecer inativo, abandonei a escola e tive a pe
 
 **Categoria:** kikou2 | **Ano:** 昭和29(1954)年11月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 明主様との空中談話 泉野三六 | **Status:** Published | **Edição/Página:** 64号 | **Data ISO:** 1954-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Uma Conversa Espiritual com Meishu-Sama
 
@@ -2459,278 +2661,6 @@ A outra metade é que a grande “Entidade Vital” está em constante avanço, 
 Sinto que finalmente superei um grande obstáculo em minha jornada.
 
 Meishu-Sama, muito obrigado.
-
----
-
-# Reflexões sobre a Autoridade Divina de Meishu-Sama
-
-**Categoria:** kikou2 | **Ano:** 昭和26(1951)年7月4日 | **Fonte:** Eikou
-**Título Original:** 一の世界 | **Status:** Published | **Edição/Página:** 111号 | **Data ISO:** 1951-07-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Reflexões sobre a Autoridade Divina de Meishu-Sama
-
-Certo dia, as palavras de um senhor que se relaciona com nossa Igreja há alguns anos soaram-me de forma algo depreciativa, causando-me um assomo de indignação. Ao justificar a ausência de Meishu-Sama em determinado local, ele comentou: "Sabe como é, ele é um *one-man*". A expressão *one-man* é comumente empregada de forma pejorativa para ironizar o caráter autocrático de alguém, em contraponto à sua grandeza. Todavia, como percebi que sua intenção não era maliciosa, silenciei e permiti que o comentário passasse.
-
-No fundo, o que aquele senhor quis dizer com *one-man* é que Meishu-Sama representa a autoridade absoluta na Sekaikyuseikyou. Contudo, para nós, é simplesmente intolerável que Meishu-Sama seja visto ou comparado ao que o mundo define como um autocrata.
-
-Desnecessário dizer que Meishu-Sama é a própria vida de nossa Igreja; tudo o que nela existe e se move provém de Sua virtude e de Seu poder. Cada um de nós, sem exceção, foi resgatado por Sua força de um destino de morte. Como forma de retribuir essa imensa graça, dedicamo-nos com sinceridade à Obra Divina de salvação da humanidade, sendo agraciados com uma felicidade indizível. Portanto, Ele é um ser absoluto não pela coerção ou pela presunção, mas pela gratidão que d’Ele emana e a Ele se dirige espontaneamente.
-
-Atualmente, o trabalho da Igreja abrange o Johrei, a difusão, as publicações, as construções e as artes, mas seus ramos se tornarão cada vez mais multifacetados no futuro. A Obra de Meishu-Sama consiste na construção de uma nova e elevada civilização, algo que a mente de pessoas comuns, cristalizada por conhecimentos e experiências do passado, é incapaz de conduzir. Por essa razão, os fundamentos de todas as atividades da Igreja devem, invariavelmente, seguir Suas diretrizes.
-
-A construção dos Solos Sagrados é um exemplo notório. Nenhuma árvore, folha de grama ou pedra pode ser tocada sem que provenha de Sua indicação direta. No arranjo de rochas ornamentais, por exemplo, Ele emprega métodos que contrariam por completo as convenções das técnicas de jardinagem tradicionais, alcançando efeitos de uma expressividade tão avassaladora que deixam perplexos os maiores especialistas da área. Trata-se de uma concepção que somente um ser divino poderia realizar.
-
-O maior obstáculo, todavia, reside na mente de nós que servimos. Isso não se restringe apenas às construções. Meishu-Sama costumava dizer: "Se a pessoa fosse apenas desprovida de inteligência, o problema seria simples. O mais complicado é lidar com quem tem a mente distorcida. No caso das construções, por exemplo, eles jamais seguem minhas instruções à risca. Quando os faço refazer o trabalho, cometem o erro oposto. E assim o corrigem de novo, e de novo... É uma verdadeira prova de perseverança. Há casos em que desisto e deixo como está".
-
-Durante o longo período da Era da Noite, nossas mentes se desenvolveram de forma anômala, pautadas por uma lógica invertida, enquanto nossos corpos se enfraqueceram e degeneraram. Aos olhos de Meishu-Sama, devemos parecer uma espécie de deficiente.
-
-Nossos pensamentos, na maioria das vezes, tendem a se opor aos de Meishu-Sama. Nossos corpos, comparados a um ônibus velho e precário, logo deixam de funcionar se não recebem os reparos que Ele nos concede. Ainda somos como máquinas enferrujadas e prestes a quebrar. O esforço de nossa fé consiste em nos tornarmos instrumentos úteis, em sintonia com a Vontade Divina. Contudo, mesmo isso só é possível após sermos reparados por Ele a um ponto em que nos tornemos minimamente utilizáveis.
-
-Nos vinte anos em que tive a ventura de estar a Seu lado, constantemente me sentia premido por um sentimento de insuficiência: "Isso não basta", "Peço perdão", "Será que está bom assim?". Apesar de tudo, ainda não superei a condição de um veículo sujeito a falhas constantes. Creio que todos os membros mais antigos partilham desse mesmo sentimento.
-
-Apenas um pequeno número de pessoas, aquelas que estão à frente das atividades, recebe Suas instruções diretamente. Suas orientações são sempre imediatas, concisas e claras, desprovidas de qualquer imposição descabida. Quando seguimos Suas palavras à risca, tudo flui de maneira surpreendentemente harmoniosa. Basta-nos avançar com alegria pelo caminho que nos é concedido. Mesmo que nos deparemos com um obstáculo, se o transpormos sem hesitar, obteremos resultados positivos que superam qualquer expectativa. Apesar disso, o espírito maligno que habita nosso interior aproveita qualquer brecha para sussurrar críticas a Suas palavras, tentando obstruir o caminho da Luz ou nos desviar para atalhos equivocados. Basta darmos ouvidos a esse sussurro para que um labirinto dê origem a outro, e, quando estamos prestes a cair no abismo, somos resgatados por Sua misericórdia. Que vergonha sentimos nós, que ainda corremos o risco de repetir esses mesmos erros.
-
-Por trás de Suas grandiosas realizações, existem inúmeros aborrecimentos como esses, de pequena, média e grande monta. Contudo, ninguém jamais poderia suspeitar disso ao observar Seu semblante, sempre iluminado por um sorriso, em meio à imensa liberdade que Ele concede a Seus fiéis.
-
-Nós, membros antigos, talvez tenhamos em algum recanto da alma o orgulho de havermos acumulado méritos por tantos anos de dedicação. Mas, na verdade, como podemos ter certeza? Acaso realizamos grandes feitos, ou apenas Lhe causamos transtornos? Ou, pior, teríamos sido um empecilho para a Obra Divina? Mesmo que tenhamos acumulado méritos e nos encontremos em uma situação abençoada, quando compreendemos que tal condição não foi conquistada por nosso próprio esforço, mas nos foi concedida pelo poder de Meishu-Sama, não há espaço para a vanglória. Não, antes de tudo, não devemos nos esquecer de que recebemos o dom da vida e que, ao servir, nos é outorgado o perdão de nossos profundos pecados e impurezas.
-
-Diariamente, seja por meio da escrita ou da palavra, Meishu-Sama nos ensina o caminho da salvação. Tudo o que Ele transmite é a mais pura verdade, que jorra de um amor que anseia por salvar e agraciar com a felicidade toda a humanidade. Se os seres humanos aceitarem Seus Ensinamentos com fé, uma felicidade celestial os alcançará imediatamente. Rejeitá-los, por outro lado, equivale a negar a própria felicidade e a recusar a salvação. Nisso reside seu caráter absoluto.
-
-O mistério da autoridade de Meishu-Sama, que integra a Trindade do Fogo, da Água e da Terra, transcende nossa imaginação. Com estas palavras, busco apenas expressar uma pequena parcela dos sentimentos que nutrimos por Meishu-Sama, e assim, concluo este texto.
-
----
-
-# Visão Espiritual na Solene Celebração de Ano-Novo
-
-**Categoria:** kikou2 | **Ano:** 昭和29(1954)年4月7日 | **Fonte:** Eikou
-**Título Original:** 霊視日記（16） 注（15.5） 五三中教会 茨木よし子 | **Status:** Published | **Edição/Página:** 255号 | **Data ISO:** 1954-04-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Visão Espiritual na Solene Celebração de Ano-Novo
-
-No dia 3 de janeiro, ainda enlevada pela felicidade de ter sido recebida por Meishu-Sama na véspera, deixei meus aposentos ao primeiro alvorecer e dirigi-me apressadamente ao local da audiência. O esforço de despertar cedo foi recompensado, pois tive a ventura de ser-lhe concedida a audiência no local mais central.
-
-Diante do Altar, pude contemplar a augusta presença de Meishu-Sama, envolta em uma Luz Branca intensa e ofuscante. Ao seu lado, vislumbrei o Reverendo Inouye Motokiti em seus afazeres. A Luz irradiava-se com grande intensidade e, por toda parte, eu a via manifestar-se na forma de cruzes.
-
-Com o retorno de Meishu-Sama, manifestou-se a figura de uma deusa, vestida com um suntuoso traje de doze camadas, que, com um pincel, escrevia agilmente as palavras: “Ao Supremo Deus, expresso minha mais profunda gratidão pela celebração de hoje.” Observei também outra divindade que registrava a mensagem: “Ao Senhor da Luz, apresento minhas congratulações.” No exterior do recinto, junto às janelas, aglomerava-se uma multidão compacta de seres do Mundo Espiritual, entrelaçados uns aos outros. Quando Meishu-Sama se posicionou ao centro e a Luz Branca se irradiou de forma ofuscante, todo o salão foi como que abraçado por seu resplendor. Meishu-Sama observava atentamente tudo ao redor. Avistei os reverendos da Sede, e enquanto eles reverenciavam, surgiu a imagem de uma senhora que, sentada com grande deferência, saudava: “Ó, Supremo Deus...”.
-
-Diante do Altar Divino, surgiram um deus que carregava chamas em suas costas e outro que portava um grande saco de ventos. À medida que os fiéis preenchiam o salão para a oração, no Mundo Espiritual, uma multidão se reunia perante o Altar. À frente, cruzavam-se o estandarte do Sol Nascente (à esquerda de quem olha) e um estandarte com o *manji* voltado para a esquerda. Ao passarem sob eles e avançarem, os seres contemplavam a imagem da Kannon (観音) de Mil Braços. Após um instante, sua figura desaparecia gradualmente para dar lugar à de Meishu-Sama, de quem emanava uma Luz Branca, radiante e ofuscante. De todos os lados, divindades surgiam sucessivamente para apresentar seus cumprimentos a Meishu-Sama. Ao redor de sua cadeira, dezenas de pessoas pareciam tomar notas com grande atenção. Para os fiéis ali reunidos, manifestou-se a visão de um suntuoso banquete, servido em bandejas requintadas.
-
-Quando a oração se iniciou, surgiram os caracteres: “Início da Cerimônia de Celebração”. À frente, tremulavam as bandeiras de todas as nações. A bandeira da Grã-Bretanha foi a primeira a se rasgar e cair, enquanto a dos Estados Unidos se destacava com maior nitidez. Pude ler também as palavras “Louvai a Meishu-Sama”, “O Grande Deus da Luz” e “Trono”. Diante do Altar, materializaram-se as mais diversas oferendas. A irradiação da Luz tornou-se ainda mais intensa, e vislumbrei a chegada de Meishu-Sama, enquanto, em meio ao seu brilho ofuscante, formaram-se os caracteres: “Celebração do Advento do Messias”. Em seguida, a frase “O Grande Deus e Senhor” manifestou-se em Luz Branca, e o resplendor intensificou-se sobremaneira. Os arredores estavam repletos de incontáveis espíritos prostrados. Uma multidão, densa como uma nuvem escura, aproximava-se e se precipitava para o alto, a fim de ser banhada pela Luz. Contemplei então Meishu-Sama folheando rapidamente os registros de fundadores e líderes de outras religiões. Bem mais abaixo, vislumbrei um dragão vermelho e um dragão negro entrelaçados, contorcendo-se em uma cena de espantosa magnitude. Com esta visão, a oração foi encerrada.
-
-Finalmente, Meishu-Sama iniciou seu Ensinamento. Enquanto o ouvíamos, uma Luz resplandecente irradiava-se d'Ele, envolvendo todo o salão em seu fulgor alvo, com o excedente projetando-se para o exterior. Contemplei, assim, a figura de Meishu-Sama conduzindo o Plano Divino que abrange os Mundos Espiritual e Material. Vislumbrei uma sucessão infinita de anéis dourados e, em seguida, uma grande quantidade de folhas de um papel japonês muito antigo. A Luz resplandecia com vigor, e nela se formaram as palavras “Messias” e “Salvação”. Partindo de Meishu-Sama, a Luz emanava do centro para fora, como os raios de uma bandeira naval, e nos intervalos entre seus feixes, surgiam os rostos de inúmeras pessoas.
-
-A cena então se alterou, e vi uma montanha de legumes e verduras recém-lavados, como nabos e acelgas. Os espíritos de animais que vagueavam ao redor dos ministros dirigentes desapareceram todos de uma só vez. Surgiram, por fim, as frases: “Servir a Meishu-Sama é o evangelho para a humanidade” e “Os deuses se rejubilam”. Com isso, o Ensinamento terminou.
-
-Quando o Reverendo Diretor-Presidente iniciou sua saudação, vi uma profusão de caracteres à sua volta. Dentre eles, os que mais se destacavam eram: “Celebração do Novo Ano”.
-
-Com o devido respeito, apresento este relato.
-
-Agradeço profundamente a Meishu-Sama por Sua proteção diária e rogo que me ampare para que eu possa servir cada vez mais em Sua Obra.
-
----
-
-# A Lei Divina e as Impurezas do Corpo
-
-**Categoria:** kikou2 | **Ano:** 昭和28(1953)年1月7日 | **Fonte:** Eikou
-**Título Original:** 不純物と呼ぶもの 生和中教会 神田生 | **Status:** Published | **Edição/Página:** 190号 | **Data ISO:** 1953-01-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A Lei Divina e as Impurezas do Corpo
-
-Certa vez, uma família notou que, nas fezes de seu bebê, havia uma mosca e um besouro-dourado intactos. Isoladamente, tal evento talvez não merecesse maior atenção. É provável que em lares com crianças pequenas ocorram incidentes análogos; há quem relate o aparecimento de moedas ou até mesmo de contas de vidro. Contudo, embora tais acontecimentos revelem a sublime graça de Deus, a maioria das pessoas os encara com naturalidade, como meras curiosidades com um toque de humor. É uma atitude semelhante à de quem assume que o Sol, nascendo a leste, inevitavelmente se porá a oeste, sem jamais refletir sobre a grandiosa obra da Criação, pela qual a divindade solar rege o nascimento e o desenvolvimento de todas as coisas. Trata-se do paradoxo de estar na montanha e não a enxergar; quanto mais grandioso é o desígnio Divino, mais ele passa despercebido à medida que o mundo se aprofunda no materialismo.
-
-O referido episódio do besouro-dourado, no entanto, levou-me a sentir novamente a profundidade e a nobreza dos ensinamentos de Meishu-Sama, mergulhando por instantes em diversas reflexões. Segundo Seus ensinamentos, Deus dotou os alimentos humanos de sabores distintos, como o azedo e tantos outros. Mesmo que algo de origem orgânica pareça comestível, se não tiver sido permitido por Deus para o consumo humano, nós simplesmente não o ingerimos. Nesse ponto, opera uma sábia restrição divina. Caso, por engano ou desconhecimento, cheguemos a engolir tal substância, o corpo reage instantaneamente com vômitos violentos ou a expele de forma gradual pelas vias naturais. O fato de que elementos desnecessários à manutenção da vida não podem permanecer no organismo decorre da profunda compaixão de Deus, em Seu desvelo por proteger a vida que Ele mesmo nos concedeu. Nesse mecanismo, podemos vislumbrar a sabedoria divina, que, embora invisível, resplandece constantemente.
-
-Conforme nos ensina Meishu-Sama, os remédios são, sem exceção, impurezas. Independentemente de sua origem, orgânica ou inorgânica, tudo aquilo que leva o nome de remédio é, em sua essência, um veneno. Desde a antiguidade, a prática de “combater veneno com veneno” é considerada uma arte da benevolência. A medicina, embora reconheça a natureza tóxica dessas substâncias, atribui-lhes valor por sua suposta capacidade de eliminar bactérias, baixar a febre ou aliviar a dor. Contudo, a ciência médica moderna tem se empenhado em uma corrida frenética para produzir novos e famosos medicamentos, intensificando cada vez mais sua toxicidade. Isto não pode ser classificado senão como uma terrível ilusão.
-
-Certa ocasião, indaguei sobre a eficácia dos remédios a um homem que trabalhava para uma companhia farmacêutica. Curiosamente, ele também estava ciente de que os remédios são, por natureza, venenos. Ainda assim, em uma argumentação que visava favorecer seu ponto de vista, ele se esforçou para justificar que, mesmo sendo um veneno, o medicamento cumpre sua função – por exemplo, a desintoxicação – e é posteriormente expelido do corpo. Diante disso, insisti em perguntar se a substância era eliminada por completo ou se alguma porção permanecia no organismo. Ele, no entanto, pareceu não ter tanta certeza a esse respeito, respondendo que “era o que se esperava”, e acrescentou que, para certos remédios, existia um método de desintoxicação duplo, com a administração posterior de um agente neutralizador. Refleti, então, que os resíduos resultantes da neutralização entre esses fármacos permaneceriam como impurezas e, com o tempo, entrariam em decomposição. Enfim, não passava de uma arte da benevolência com parcos fundamentos. Enquanto purificava com Johrei o tumor no seio de sua esposa, eu sorria interiormente diante de tamanha fragilidade de argumentos.
-
-Vejamos a Terra: todos os seres vivos, sem exceção, obtêm o alimento que lhes foi determinado por Deus para garantir seu sustento, ainda que isso se manifeste na forma da lei do mais forte – em que o fraco serve de alimento ao forte –, um princípio que pode parecer cruel sob a ótica humana. Desde as invisíveis bactérias até os animais de membros robustos como pilares de pedra, todos seguem essa ordem. A galinha se deleita com a minhoca que consome micro-organismos no solo, e o ser humano, por sua vez, serve-se da galinha em sua mesa. Entretanto, poderia o homem quebrar essa hierarquia e passar a comer minhocas? Certamente não as apreciaria, nem mesmo preparadas em conserva. E se o fizesse, é extremamente duvidoso que elas se convertessem em seu sangue e em sua carne. A enguia e a cobra têm aparência semelhante, mas não creio que haja apreciadores de espeto de cobra. Ainda que o pó de víbora tostada, assim como o sangue de tartaruga de casco mole, seja utilizado até hoje como um tônico, tais substâncias não passam de impurezas, e sua digestão e absorção são, portanto, problemáticas. O mesmo se aplica às lesmas, usadas por cantores e asmáticos, cuja eficácia é nula; há relatos de que elas simplesmente aderem intactas às paredes do estômago. E, por falar em coisas insólitas, por que não considerar os vermes que nós mesmos produzimos, como as lombrigas? Ninguém as comeria, por certo. Na verdade, ocorre o inverso: são as lombrigas que nos consomem. Ah, que interior imundo, que cenário de autêntica loucura!
-
-A lei da Grande Natureza, em sua modéstia, é imensamente superior à pequena sabedoria humana e opera sem falhas. O ser humano, contudo, ao interpretar erroneamente o conceito de liberdade, tende a violar os limites que lhe foram permitidos, tornando-se prisioneiro de suas próprias ilusões. A verdadeira liberdade existe apenas dentro de uma esfera delimitada por Deus. Agir fora dela significa, paradoxalmente, ingressar em um domínio de restrições. Até mesmo as aves que cruzam os céus à vontade possuem, segundo um renomado ornitólogo, um raio de voo predeterminado. Pardais e falcões mantêm seus próprios territórios. Apenas ao ser humano foi concedida uma alma com um anseio por liberdade sem paralelo entre os outros seres; no entanto, no mundo real, ele se depara constantemente com limitações. Tentar rompê-las à força equivale a selar o próprio destino, cavando a própria sepultura. Disse Confúcio: “Sigo os desejos do meu coração, sem, contudo, ultrapassar os limites da justa medida”. Isso não significa uma vida de licenciosidade, mas sim que as ações cotidianas, por mais espontâneas que pareçam, devem transcorrer sempre dentro das balizas divinas. Aquilo que, para uma pessoa de visão limitada, pode parecer um mal, na verdade está em perfeita harmonia com a lei da Grande Natureza. Nisto reside, talvez, a máxima liberdade humana.
-
-Agora, finalmente, compreendemos que os remédios não fazem parte dos alimentos permitidos por Deus ao ser humano. Assim como a mosca e o besouro-dourado são expelidos sem qualquer utilidade, os remédios não apenas são inúteis, como também – e de forma muito mais grave – trazem cem malefícios para nenhum benefício. Foi este o precioso ensinamento que recebemos.
-
----
-
-# Um Santuário de Arte nas Montanhas de Hakone
-
-**Categoria:** kikou2 | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Um Santuário de Arte nas Montanhas de Hakone
-
-Nas montanhas de Hakone, acima de Gora e Miyanoshita, ergue-se um novo museu de arte, fruto da iniciativa de um único homem. A visita a este local, por si só, já justifica a longa e aprazível viagem de automóvel a partir de Tóquio.
-
-As obras de arte ali expostas foram reunidas pelo Sr. Mokichi Okada, representando uma das mais grandiosas realizações culturais do pós-guerra. O Sr. Okada, proprietário do acervo, reside em Gora durante o verão, junto às suas preciosas coleções, e em Atami no inverno. O museu está aberto ao público diariamente, das nove às cinco horas, sem feriados, e o ingresso tem o módico valor de cem ienes.
-
-O complexo é constituído por dois edifícios. O primeiro, uma construção longa e baixa, é inteiramente dedicado a pinturas e gravuras no estilo *ukiyo-e*. O segundo, situado em um plano mais elevado, é uma imponente estrutura branca que, junto ao primeiro, abriga o restante da coleção do Sr. Okada. Nela se encontram cerâmicas chinesas, bronzes antigos, estátuas budistas, primorosas peças em laca (*makie*) com folha de ouro, pinturas em rolo e biombos dos períodos Tokugawa e Edo.
-
-Para apreciar as centenas de obras fascinantes e belíssimas, um dia inteiro é indispensável; uma visita de apenas meio dia seria, decerto, insuficiente. Ademais, como as peças em exibição são periodicamente renovadas, múltiplas visitas se fazem necessárias para conhecer a plenitude do acervo. A partir do dia dez de agosto, por exemplo, será inaugurada uma nova e considerável exposição de gravuras *ukiyo-e*.
-
-Para a elaboração dos materiais explicativos, o Sr. Okada contou com o auxílio do Sr. Ichitaro Kondo, chefe da seção de divulgação do Museu Nacional de Tóquio e autor do guia "Ukiyo-e no Shiori", publicado pela instituição. A capa deste guia é ilustrada com a reprodução de uma obra anônima do período Momoyama, intitulada "Yuna" (『湯女』). Esta pintura, considerada a joia da coleção, encontra-se atualmente nos Estados Unidos, integrando uma importante exposição de arte japonesa.
-
-O referido guia resume a origem, a história e o desenvolvimento da xilogravura japonesa, apresentando fotografias de diversas gravuras *ukiyo-e* do acervo do Museu de Hakone.
-
-A coleção exposta no museu exibe obras notáveis de Harunobu, cujas figuras femininas graciosas, delicadas, sensíveis e de aparência frágil são inconfundíveis. Suas mãos, invariavelmente delgadas e diminutas — desproporcionais em relação ao resto do corpo — constituem a marca registrada deste mestre. Há também diversas obras famosas de Hiroshige. Contudo, é inegável que estas, por mais célebres que sejam, empalidecem em comparação com a beleza harmoniosa das pinturas em rolo no estilo *ukiyo-e* que adornam as paredes envidraçadas desta galeria.
-
-Tomemos como exemplo as representações de beldades de Kaigetsudo Ando, um artista representativo do período Genroku. Os mestres daquela época empregavam traços largos para retratar mulheres de compleição robusta, com quimonos em tons vibrantes de azul, vermelho e dourado. Uma de suas obras retrata uma mulher de pé, com a mão erguida a segurar um pente. Outras obras, de artistas como Moronobu, seguem uma linha semelhante de simplicidade e ousadia. Embora criadas no século XVII, cada uma delas possui uma sensibilidade notavelmente moderna.
-
-Destaca-se também uma magnífica pintura de grande formato de Yasunobu, intitulada "Beldades Cantando e Dançando", que retrata três mulheres e um homem em uma composição rítmica. A superfície da tela é salpicada com pó de ouro, e os artistas empregaram tons de vermelho, verde, um branco mais puro, e toques de cinza e preto para realçar a vivacidade da cena. O efeito é de uma elegância sublime, austera e requintada.
-
-Ao deixarmos este anexo e subirmos por um jardim de bambus, chegamos ao grande edifício de paredes brancas que abriga o acervo principal do Sr. Okada. No primeiro pavimento, encontram-se esculturas da Grécia Antiga, do Egito, da Itália e da China. A iluminação de todo o espaço foi concebida com maestria, de modo que cada peça revele o seu máximo esplendor. Diferentemente dos grandes museus urbanos, onde as obras frequentemente se encontram dispostas de maneira congestionada, aqui a organização do espaço permite que o visitante as contemple com serenidade.
-
-Os pergaminhos estão expostos em longas vitrines no centro das salas. Vitrines de alturas variadas preservam a quietude de cerâmicas japonesas ancestrais dos estilos Shino, Ko-Kutani, Imari e das notáveis porcelanas Nabeshima. A coleção inclui ainda vasos, tigelas e incensários de Kenzan, Korin e Ninsei, além de muitas suntuosas peças em laca (*makie*) com folha de ouro do período Tokugawa.
-
-O segundo andar é dedicado às mais belas obras de cerâmica chinesa. Ali se encontram desde pequenas tigelas a urnas monumentais, pratos e vasos das dinastias Tang, Song, Ming e Qing, sendo várias delas classificadas como "Importantes Bens Culturais". A beleza das esculturas e peças de metalurgia do Japão, dos períodos de Nara a Kamakura, é particularmente cativante.
-
-Em amplas vitrines que se estendem por duas paredes, uma série de biombos antigos exibe o primor dos primeiros mestres de Quioto. Além de seu valor como registro dos costumes da época, são obras de um encanto extraordinário. Uma peça singular retrata as primeiras naus portuguesas, cujas vestimentas de estilo europeu contrastam marcadamente com as construções e a paisagem tipicamente japonesas.
-
-Este museu não se assemelha a nenhum outro no Japão. Ele expressa uma genuína hospitalidade aos estrangeiros, oferecendo folhetos em inglês a quem os desejar e legendas explicativas, também em inglês, para mais de uma centena de obras expostas, lado a lado com as japonesas.
-
-Como visitante, gostaria de expressar minha profunda gratidão ao Sr. Okada e à sua equipe pela recepção cortês e esmerada. Tal cuidado ainda não foi adotado pelo Museu de Arte Moderna de Kamakura e apenas começa a ser implementado, de forma incipiente, no Museu Nacional de Tóquio.
-
-No Museu Metropolitano de Arte de Tóquio, em Ueno, milhares de pinturas e obras de arte são exibidas e rotacionadas sem que haja um único cartão ou programa em inglês. As grandes lojas de departamento de Tóquio, que promovem exposições semanais de arte, tampouco se preocupam em fornecer explicações no idioma. Em casos mais elementares, sequer indicam claramente se as peças estão à venda. Mesmo o Museu Nacional de Arte Moderna, gerido pelo Ministério da Educação, embora aberto ao público, não oferece legendas ou etiquetas em inglês.
-
-No caso do Sr. Okada, o livreto escrito pelo Sr. Kondo não só enriquece a experiência dos visitantes estrangeiros, como também conta com a colaboração de especialistas na língua inglesa para cada obra. Uma das responsáveis, a Sra. Shoko Nogi (野木省子女史), fala inglês fluentemente e lidera a equipe de assistentes do museu.
-
-Ao deixar o museu, o visitante adentra um jardim de beleza singular. Uma de suas áreas é inteiramente coberta por um tapete de musgos, com espécimes de diversas variedades coletadas de todas as regiões do Japão — outra concepção do próprio Sr. Okada. Neste jardim de musgos, crescem apenas árvores esbeltas de um tom cinza-prateado, sem a presença de qualquer outra flor.
-
-Em outras seções do jardim, contudo, as flores desabrocham em abundância por toda parte. Há colinas, riachos que correm sob pontes e fontes que jorram das rochas. A paisagem, emoldurada pelas montanhas, compõe um dos cenários mais deslumbrantes de todo o Japão.
-
----
-
-# Graças e Expansão da Obra Divina no Havaí
-
-**Categoria:** kikou2 | **Ano:** 昭和29(1954)年2月24日 | **Fonte:** Eikou
-**Título Original:** ハワイ通信 （15） 樋口喜代子 | **Status:** Published | **Edição/Página:** 249号 | **Data ISO:** 1954-02-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Graças e Expansão da Obra Divina no Havaí
-
-O seminário de iniciação em inglês, realizado entre os dias 19 e 23, foi abençoado com Vossa Divina Proteção, resultando em um número de participantes que superou todas as expectativas, com a outorga de 45 novos membros. Dentre estes, dezessete não eram de ascendência japonesa. O maior grupo era composto por dez chineses, seguidos por seis indivíduos de origem havaiana ou de ascendência mista, envolvendo havaianos, caucasianos e chineses. Havia também um norte-americano, esposo da Sra. Buster, a senhora russa a quem me referi em relatório anterior. Aproveito a oportunidade para retificar uma informação: em meu comunicado passado, mencionei que ele era francês, o que foi um equívoco pelo qual peço sinceras desculpas.
-
-A miscigenação é um traço marcante da sociedade local. Tanto o governador quanto o prefeito, por exemplo, são de ascendência mista, caucasianos e havaianos. Ademais, os nativos do Havaí, pertencentes ao povo Kanaka, distinguem-se dos nativos do continente americano por sua natureza pacífica e inclinada à espiritualidade, revelando-se, em grande parte, pessoas de excelente índole. Atualmente, a linhagem puramente havaiana torna-se cada vez mais rara, sendo a maioria da população nativa de ascendência mista.
-
-Fiquei profundamente comovida com a dedicação dos participantes. Ao longo de cinco noites, mesmo após um dia inteiro de trabalho, eles ouviam as explanações com notável fervor até tarde da noite. E isso apesar de minhas próprias limitações com o idioma inglês, que certamente tornavam a compreensão difícil e, por vezes, prolongavam as sessões. Ao final, após a cerimônia de outorga do Ohikari, muitos vieram alegremente me cumprimentar com apertos de mão e palavras de profunda gratidão.
-
-Um exemplo tocante dessa transformação foi o Sr. Blaisdell, um homem de ascendência mista, caucasiana e havaiana, que ocupa o cargo de subchefe do corpo de bombeiros. Inicialmente, ele viera apenas para ouvir as explanações, com a intenção de que somente sua esposa se tornasse membro. Contudo, ele testemunhou as graças recebidas por sua família: seu pai, um ex-chefe dos bombeiros, que sofrera um derrame e apresentava confusão mental, começou a melhorar significativamente com o Johrei. Segundo relatos, o pai, que antes não conseguia dormir bem, acordando a cada hora para urinar e, por vezes, tendo acidentes na cama, passou a ter um sono tranquilo e a frequência de suas necessidades noturnas diminuiu, sem mais incidentes. Além disso, a sinusite crônica de sua esposa, uma professora de ascendência havaiana, foi curada. Diante dessas evidências, a partir do segundo dia do seminário, o próprio Sr. Blaisdell manifestou o desejo de ingressar em nossa Fé, acompanhando todas as palestras com extrema seriedade e entusiasmo.
-
-Dentre os chineses, também tivemos a felicidade de receber pessoas de notável intelecto. O Sr. Akana, engenheiro de uma companhia de açúcar em Ewa e devoto cristão da Igreja Congregacional — cujo pai é pastor na mesma denominação —, presenciou os efeitos do Johrei ministrado pela senhora Wakimura, uma das pioneiras em Ewa, e ficou maravilhado. Após ler a versão em inglês do guia da Fé Messiânica, sentiu-se inspirado e, em dezembro, viajou uma longa distância para nos visitar. Na ocasião, levou consigo vinte exemplares do guia para distribuir entre os membros de sua igreja. Agora, ele não apenas se tornou membro, como também trouxe consigo outros dois fiéis de sua congregação. Poucos dias após sua outorga, ele já trouxe para receber Johrei o vice-diretor da companhia de açúcar, um homem caucasiano que, em decorrência de injeções para tratar um reumatismo articular que o afligia há sete anos, ficou com o pescoço e a cintura enrijecidos. O Sr. Akana se comprometeu a continuar ministrando-lhe Johrei. Outro novo membro relatou que, após um culto em sua igreja, ele e outros dois recém-iniciados conversaram com mais de dez membros da congregação e lhes ministraram Johrei. Aguardamos com grande expectativa os frutos que advirão desses esforços.
-
-Uma senhora havaiana, casada com um japonês, que fora salva da iminência da cegueira e recuperara a visão com apenas três sessões de Johrei, aguardava desde novembro do ano passado a oportunidade de participar de um seminário. Finalmente, ao realizar seu desejo e receber o Ohikari, ela não conteve as lágrimas de alegria que lhe corriam pelo rosto, um momento que também me emocionou profundamente. Ela tem se dedicado com afinco à sua nova jornada de fé. Percebo que, entre os não japoneses que ingressaram desta vez, há muitas pessoas de grande firmeza e caráter.
-
-De fato, o número de chineses, havaianos e pessoas de outras ascendências que procuram o Johrei em nossas unidades tem aumentado expressivamente. O seminário em língua japonesa, por sua vez, se encerrará amanhã com a cerimônia de outorga, contando com 28 novos membros, visto que parte dos interessados optou por participar do curso em inglês.
-
-Gostaria ainda de relatar o caso do Sr. Shimabukuro, um não-membro que recebe auxílio municipal devido a um derrame e hipertensão. Recentemente, ele conseguiu permissão do Queen's Hospital, um dos maiores de Honolulu, para suspender o uso de medicamentos e injeções e optar pelo tratamento com Johrei, retornando ao hospital apenas para exames. Em sua segunda consulta, anteontem, constatou-se que sua pressão arterial, que era de 220 na terça-feira, havia baixado para 160 na sexta-feira. Ao informar ao médico que estava recebendo Johrei diariamente, ouviu dele as seguintes palavras: "Parece estar fazendo muito bem, portanto, continue todos os dias". O Sr. Shimabukuro está exultante com seu progresso.
-
-Quanto à construção da nova sede, embora tenha havido alguns atrasos, o projeto avança a passos firmes graças à cooperação de todos, com a meta de realizar a cerimônia de inauguração em 14 de fevereiro, no segundo domingo do mês e dia do Culto Mensal. Sinto que o momento certo para a mudança só poderia chegar após o Risshun-sai. Ao prepararmos o terreno, notamos que ele era mais estreito do que havíamos imaginado. Mesmo sacrificando a área do jardim para criar um estacionamento, o espaço comportaria no máximo quinze ou dezesseis veículos, o que nos preocupava. Todavia, recebemos a bênção de poder adquirir um terreno adjacente nos fundos, com cerca de 460 metros quadrados, pelo valor de dez mil e quinhentos dólares, com a gentileza de nos aguardarem para o pagamento. Por tudo isso, nossa gratidão é imensa, pois reconhecemos em cada detalhe a Divina Proteção.
-
-Se nos for permitido, ousamos solicitar se seria possível recebermos uma mensagem Vossa em áudio, gravada em fita, para o dia da celebração em 14 de fevereiro. As palavras de Meishu-Sama certamente purificarão e iluminarão de maneira indescritível o Mundo Espiritual do Havaí.
-
-Para a cerimônia, planejamos entoar uma seleção de Salmos, incluindo os que Vós graciosamente nos enviastes nas duas últimas remessas, bem como outros que consideramos apropriados para a ocasião. Após a oração, teremos o relato da experiência na construção pelos responsáveis da obra e, em seguida, daremos espaço para o compartilhamento de graças e testemunhos de fé. À tarde, o foco será a apresentação de experiências de milagres, seguida por um modesto entretenimento.
-
-Por ora, despeço-me.
-
-Reitero minha mais profunda e sincera gratidão por Vossa constante Proteção Divina.
-
-(Noite de 30 de janeiro)
-
----
-
-# As Aflições Ocultas de um Paraíso Material
-
-**Categoria:** kikou2 | **Ano:** 昭和28(1953)年4月29日 | **Fonte:** Eikou
-**Título Original:** ハワイ通信（三） 樋口喜代子 | **Status:** Published | **Edição/Página:** 206号 | **Data ISO:** 1953-04-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## As Aflições Ocultas de um Paraíso Material
-
-O clima aqui se assemelha, atualmente, ao de junho no Japão. Embora nos primeiros dias de nossa chegada o calor tenha se mostrado bastante intenso, fomos surpreendidos por uma súbita e atípica mudança no tempo, que trouxe um período de frio. As chuvas, ou *showers*, como as chamam, tornaram-se quase diárias, acompanhadas por trovoadas. Em Wahiawa, uma localidade de planalto, houve grande comoção pela ocorrência de uma chuva de granizo de proporções raras para a região. Na Ilha Havaí, soubemos que houve uma nevasca espetacular, a ponto de, no último domingo, muitas pessoas terem feito uma viagem de avião de um dia para esquiar. Diante de tamanha conveniência, nós, que viemos do interior, ficamos simplesmente boquiabertos.
-
-Posteriormente, recebi uma purificação sob a forma de um resfriado, e tenho estado ocupada na produção de tosse e expectoração. A purificação do estômago, graças à Divina proteção, manifestou-se de forma muito mais branda, embora persista sutilmente. Ambos temos recebido purificações que parecem ser parte do processo de adaptação a este clima; contudo, nosso espírito permanece extraordinariamente vigoroso, e não deixamos de trabalhar ativamente um único dia. A difusão dos Ensinamentos, por sua vez, apresenta sinais de um crescimento vigoroso, e prevemos que nossas atividades se tornarão cada vez mais intensas.
-
-### Sucessão de Milagres
-
-Temos trabalhado de forma discreta e perseverante, mas novas pessoas chegam continuamente. É um estado em que não nos resta senão reverenciar e admirar a primorosa mestria com que Deus nos envia pessoas de profunda afinidade para que se tornem Seus instrumentos. A partir do dia dez, realizaremos um Curso de Iniciação em Honolulu durante cinco noites, com uma previsão de mais de dez participantes. Pretendemos reunir também os membros mais antigos nesta ocasião, e para isso alugamos uma casa com um amplo salão. O proprietário da casa, cujo esposa já é membro, ingressará na fé em breve. Recentemente, ele nos convidou para um jantar em sua residência, onde também estavam alguns amigos. Conversamos por toda a noite, e ele demonstrou profunda afinidade com os Ensinamentos, passando a nos apresentar muitas pessoas, mesmo antes de sua própria iniciação. É um lar com uma atmosfera colonial aprazível, onde somos recebidos com alegria e a liberdade de nos sentirmos sempre à vontade para as refeições.
-
-De modo geral, as pessoas aqui são muito mais afetuosas do que no Japão. Desde o primeiro contato, elas nos tratam como velhos amigos ou membros da família, abrindo seus corações de uma maneira surpreendente, o que nos permite dialogar com total sinceridade.
-
-Neste momento, um casal de nativos — intelectuais, com alguma ascendência branca — está prestes a ingressar na fé e tem vindo receber Johrei quase diariamente. A esposa tem o olho esquerdo cego e sofre de cálculos biliares. Embora esteja em meio à purificação, ela compreende seu processo e o acolhe com alegria. Após apenas duas sessões de Johrei, ela vomitou quatro vezes, sentiu dores no olho direito e, para sua grande felicidade, relatou que começou a enxergar um pouco pelo canto do olho esquerdo. Possuem uma pureza e sinceridade admiráveis. Ontem à noite, ao se despedirem, levaram-nos para um passeio de carro de uma hora e meia, de Coco Head até a orla de Waikiki. Era uma noite de lua esplêndida, e as ondas do mar cintilavam com uma beleza onírica.
-
-Para o próximo curso, teremos a participação desse casal, de uma pessoa coreana e de um nissei que não compreende japonês. Portanto, será imprescindível conduzir as aulas em inglês e japonês.
-
-Temos também planos em andamento para uma transmissão por rádio e, no final do mês, partiremos em missão para as ilhas de Havaí e Maui. Sinto como se precisasse de dois corpos para dar conta de tudo. Em Maui, já temos cerca de quatorze pessoas interessadas em ingressar na fé, distribuídas em duas localidades. Certamente, este número aumentará após realizarmos algumas reuniões de palestra. Acredito que, até nosso retorno a Honolulu no início de abril, os esforços do Sr. Haruhiko terão frutificado ainda mais.
-
-De Los Angeles, recebemos notícias constantes. Atualmente, há oito pessoas confirmadas para ingressar, que receberão o Sagrado Ponto de Luz por intermédio do Sr. Arashi. A Sra. Watanabe tem se mostrado uma grande colaboradora; a presidente da associação de senhoras cristãs decidiu aderir à nossa fé, e as duas estão agora visitando as senhoras doentes da associação para ministrar-lhes Johrei. A esposa do presidente do jornal *Nichi-Bei Shimbun* também se decidiu pela fé, e já surgiram interessados em São Francisco, com a chama da Obra Divina chegando até Chicago. Recebemos a animadora notícia de que membros da comunidade cristã desejam ouvir o relato sobre os motivos que me levaram a ingressar na fé e aguardam minha visita aos Estados Unidos. Diante deste panorama da difusão, contemplando, com assombro, a mestria de Deus, limitamo-nos a seguir Suas ordens.
-
-### A Racionalização da Vida Cotidiana
-
-É inegável a conveniência da vida por aqui. O cotidiano é amplamente eletrificado, e a eficiência e a limpeza da cozinha são impressionantes. Fogões, fornos, refrigeradores elétricos (que chamam de *icebox*) e máquinas de lavar roupa, que já entregam as peças enxaguadas com água quente e centrifugadas, são comuns. Em lares mais abastados, há até máquinas de lavar louça, das quais os pratos, segundo dizem, já saem secos.
-
-As ruas são tomadas por filas de automóveis; em Honolulu, a proporção é de um carro para cada quatro pessoas. O grande problema é a falta de lugares para estacionar. Lojas de departamento, mercados e empresas que não dispõem de estacionamento próprio simplesmente não conseguem prosperar. As pessoas de fato não caminham. Utilizam o carro até mesmo para ir a lugares muito próximos. Em breve, também precisaremos adquirir um veículo, pois, sem ele, nosso trabalho se torna ineficiente. É possível comprar a prazo, então estamos considerando essa possibilidade. Aqui, até as estudantes do colegial dirigem. O Sr. Haruhiko passa o tempo a observar os carros. Contudo, terei de me entregar à Providência Divina para andar com ele até que se torne um motorista realmente habilidoso.
-
-Quanto à alimentação, encontram-se aqui todos os produtos japoneses. Após a guerra, a reputação da tenacidade dos soldados japoneses parece ter despertado o interesse dos não japoneses pelo arroz. Por isso, as lojas vendem de tudo: *sushi* (*norimaki*), *onigiri*, arroz cozido, conservas como *tsukemono*, *nishime*, e assim por diante. A única variedade de missô disponível é o branco e adocicado. Fora isso, há de tudo: tofu, *konnyaku* e muito mais. As frutas são abundantes: mamão papaya, manga, *grapefruit* — que se assemelha a uma laranja-pêra de suco farto, consumida com açúcar — e as laranjas-baía vindas do continente, que são deliciosas. O café da manhã geralmente consiste em frutas, pão, café e ovos.
-
-### Um Ideal Cosmopolita
-
-O que mais impressiona aqui é a expressiva presença de japoneses, que caminham pelas ruas com uma altivez e segurança admiráveis. Todos parecem alegres e vivem com uma notável ausência de constrangimento. A forma como chineses, nativos, coreanos e outros povos convivem em beleza e harmonia evoca a imagem de uma utopia cosmopolita. Mesmo aqueles que não compartilham o mesmo idioma se comunicam perfeitamente, utilizando uma mistura de inglês, japonês e a língua *kanaka*, complementada por gestos e expressões faciais, conversando e rindo juntos. É uma cena ao mesmo tempo curiosa e bela. Para ilustrar, ouvi um coreano dizer: "*Me, no can, kaukau yo*", uma junção que significa "Eu não consigo comer". Os próprios japoneses constantemente inserem palavras em inglês ou *kanaka* em suas conversas: "*Me ga before soko e itta toki, sometime kiita*" (Quando eu fui lá antes, ouvi dizer algumas vezes) ou "*Mō pao yo*" (Já acabou). "*Gojōrei o uketara yonbe wa more kotsuru n de komatta*" (Depois de receber Johrei, ontem à noite tive mais tosse e foi difícil).
-
-### A Proximidade da Era do Dia
-
-Outros aspectos que remetem a um paraíso são o fato de os ônibus não serem lotados e a honestidade das pessoas ao depositarem suas passagens em uma urna na entrada, sem que ninguém tente burlar o sistema. Nas esquinas, jornais são dispostos para venda a dez centavos, sem a presença de um vigia. As pessoas simplesmente inserem a moeda no local indicado e retiram seu exemplar. A ausência de enganos nesses pequenos atos me faz crer que aqui estamos muito mais próximos da Era do Dia.
-
-Contudo, o número de doentes é imenso. Esta é a grande aflição deste paraíso material. Diariamente, minha determinação se fortalece com a convicção de que precisamos, o mais rápido possível, levar o poder de Meishu-Sama ao maior número de pessoas. Contendo a impaciência que anseia por resultados imediatos, seguimos avançando passo a passo, de forma gradual e segura.
-
-Aqui, idosos, crianças e cavalheiros vestem as belas e vibrantes camisas *aloha*, e suas figuras se harmonizam com a exuberância da natureza de uma forma verdadeiramente magnífica. Eu havia ouvido que, na Era do Dia, os homens também se vestiriam com cores vivas. Ao ver as camisas *aloha*, passei a achar que, de fato, um homem vestindo vermelho ou outras cores radiantes pode ser muito belo. Usar uma dessas camisas em uma festa ou recepção cria uma atmosfera de grande cordialidade. Seria ótimo se elas também se popularizassem no Japão. Ultimamente, ao retornar para minha acomodação, também eu visto minha camisa *aloha*. É de um conforto e simplicidade admiráveis.
-
----
-
-# A Presença de Meishu-Sama no Canteiro de Obras do Museu de Arte
-
-**Categoria:** kikou2 | **Ano:** 昭和27(1952)年3月5日 | **Fonte:** Eikou
-**Título Original:** 明主様をお迎えした美術館工事場にて 百地超生 | **Status:** Published | **Edição/Página:** 146号 | **Data ISO:** 1952-03-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A Presença de Meishu-Sama no Canteiro de Obras do Museu de Arte
-
-Gora fora agraciada por uma nevasca de rara intensidade nos últimos anos; o acúmulo de neve, ao longo de vários dias, aproximava-se dos sessenta centímetros. E hoje, precisamente no dia em que a neve cessou, fomos surpreendidos pela notícia de que Meishu-Sama viria inspecionar as obras do Museu de Arte. O céu cinzento, como por um milagre, abriu-se em um azul límpido e profundo. As belas montanhas, salpicadas de neve, desenhavam uma moldura nítida e majestosa no horizonte de Gora. A luz da primavera resplandecia, ofuscando a brancura da paisagem, enquanto o som do degelo nos riachos e o gotejar dos galhos, cintilando como joias multicoloridas, compunham o cenário. Toda a montanha se vestira com seus mais belos trajes, em uma acolhida digna de Sua presença.
-
-Nossa apreensão de que a neve pudesse causar algum transtorno dissipou-se prontamente com a chegada do automóvel. Meishu-Sama desembarcou em meio aos membros da dedicação que o aguardavam em fileiras e, com uma agilidade impressionante, tomou o caminho mais curto, por trás do Shinsenkyo, adentrando o museu pela entrada dos fiéis. Apressamo-nos a segui-lo. Ele percorreu todo o edifício, do térreo ao último andar, detendo-se para observar Seus aposentos no terceiro piso.
-
-Demonstrando tamanho vigor que sequer estendeu as mãos ao braseiro que um membro da dedicação lhe oferecia, Ele se dedicou inteiramente à inspeção. Sua mente parecia percorrer o arranjo de cada sala, e era notável o deleite com que realizava a vistoria. Ora fazia perguntas ao encarregado, ora lhe dava instruções, detendo-se por instantes em profunda contemplação. Era como se, em Sua concepção abrangente, todos os elementos estéticos — cores, formas, a disposição das obras — se harmonizassem instantaneamente, com uma velocidade e uma clarividência que nos escapam à imaginação, fazendo florescer no Mundo Espiritual de cada ambiente o perfume da mais sublime arte. Mesmo para nós, que o acompanhávamos, essa visão grandiosa começava a se delinear sutilmente em nossa mente, permitindo-nos mergulhar em uma beleza infinita e ainda por se manifestar.
-
-A inspeção durou cerca de quarenta minutos. Ao final, Ele desceu pela entrada do público geral, pela escadaria de pedra que serpenteia pelo bosque de bambus. Lançou um olhar à fachada do edifício, atravessou a elegante ponte recém-construída e, cruzando a encosta atrás da casa de chá, dirigiu-se ao Kanzan-tei. Após um breve descanso e uma visita às obras do Templo Nikko-den, Ele partiu. Sua agilidade era notável. Embora esta fosse Sua segunda visita no mês e pudesse parecer, à primeira vista, uma inspeção superficial, tivemos a nítida sensação de que, com Suas orientações precisas sobre os pontos cruciais, a obra havia avançado significativamente.
-
-Sempre que adentro este edifício, sinto uma alegria e um contentamento indescritíveis. Hoje, contudo, ao acompanhá-Lo, a emoção foi de outra natureza: uma espécie de êxtase estético. O curioso é que o prédio ainda não passa de um esqueleto, sem reboco ou acabamento. O mistério, porém, se desfaz quando compreendemos que esta é a magnífica força da arte divina. Esta construção, materialização do coração de Verdade, Bem e Belo de Meishu-Sama, está, sem dúvida, plena da Luz do Espírito Divino.
-
-Até o outono do ano passado, na época de Sua mudança para Atami, o terreno não passava de um amontoado de pedras e buracos para os pilares. Qualquer fiel que não o visse desde então e aqui chegasse hoje ficaria certamente estarrecido com a aparição de tão imponente e majestosa estrutura. E, ao entrar, surpreender-se-ia com a sensação de amplitude de seu interior, sendo tomado por um sentimento de alegria e deleite celestiais. Esse deleite é, em si, a força da arte divina, capaz de transmitir a Vontade de Deus de forma natural, mesmo àqueles desprovidos de fé.
-
-A primeira sala, adjacente à entrada dos fiéis, possui quase cento e sessenta e cinco metros quadrados. Os espaços para a exposição das obras e as janelas voltadas para o Jardim Divino se contrapõem em um formato de "L", enquanto duas espessas colunas cilíndricas conferem dinamismo ao ambiente. O visitante, ao adentrar este espaço, será instantaneamente envolvido pela luz da beleza, ficando por um momento sem palavras.
-
-Segue-se o vestíbulo, que serve como entrada principal, cujo acesso se dá por um caminho pitoresco que atravessa o bosque de bambus. Ali se encontram a recepção, o escritório e a escadaria para o segundo andar. Em seguida, o espaço se divide em uma segunda e uma terceira sala, de aproximadamente cinquenta e trinta e três metros quadrados, respectivamente. O segundo andar possui uma distribuição semelhante, incluindo também salas de recepção e de descanso, posicionadas em locais privilegiados que convidam à serenidade e ao diálogo. Cada salão, seja grande, médio ou pequeno, possui um encanto particular, inspirando uma atmosfera de tranquilidade e enlevo que nos faz esquecer de nós mesmos. Evidentemente, em cada um deles serão expostos os tipos de obras de arte mais adequados, permitindo que se aprecie com máxima eficácia o sabor de cada vertente artística. A simples imaginação das obras divinas que aqui repousarão já nos enche de uma alegria infindável.
-
-As janelas, em todas as salas, são deliberadamente amplas e generosas, garantindo iluminação abundante e uma aparência externa muito agradável. A altura do teto, diferente da de museus convencionais, não é excessiva; sua proporção é ideal, harmonizando-se com as grandes janelas e os locais de exposição, e criando em todo o ambiente uma atmosfera de serena admiração. Essa abordagem, ao mesmo tempo audaciosa e singela, é sem dúvida um método inovador de grande efeito. Ademais, como a maioria das janelas se volta para o Jardim Divino, é possível desfrutar plenamente da vista do solene Shinsenkyo e da bela paisagem montanhosa de Hakone, a partir de ângulos distintos nos pisos inferior e superior. É como se as janelas se transformassem em molduras para vastas e vivas obras-primas. E, como estas se encontram em frente às obras de arte expostas, a nobreza da arte humana e o mistério da beleza da Criação parecem competir em esplendor, levando o observador a um estado de puro êxtase. A vista panorâmica do vestíbulo do segundo andar e da ampla sala de observação contígua é verdadeiramente arrebatadora. Desde já, é possível imaginar que, neste local, qualquer pessoa perderá a noção do tempo, absorta em admiração. Apenas a possibilidade de contemplar as mais sublimes paisagens de Gora, o parque do mundo, emolduradas de tantas maneiras, já torna este lugar incomparável.
-
-É desnecessário dizer que este museu representa a criação de um novo e elevado estilo arquitetônico, concebido inteiramente por Meishu-Sama, sem a interferência de qualquer outra opinião. Suas técnicas construtivas frequentemente rompem com os padrões convencionais, a ponto de o mestre de obras muitas vezes se ver perplexo com as diretrizes, e os desenhos de certas seções precisarem ser refeitos inúmeras vezes até corresponderem exatamente à Sua instrução inicial. A sala japonesa do terceiro andar, em particular, é uma concepção extraordinária, o ápice da arte arquitetônica. Quando concluída, certamente provocará a admiração dos maiores especialistas da área e introduzirá questões revolucionárias na arquitetura.
-
-O terceiro andar ainda possui poucas estruturas que definam os aposentos. Contudo, ao adentrar este espaço, o que primeiro nos assalta os olhos e nos deixa extasiados é o fato de que as paredes frontal e lateral são quase inteiramente abertas, trazendo a magnífica cordilheira de Hakone para dentro do ambiente. A grandiosa paisagem parece funcionar como o jardim privativo deste aposento, uma galeria de murais vivos, cuja beleza, que se altera a cada instante, com o nascer e o pôr do sol, com o céu claro ou nublado, pode ser apreciada sem sair do lugar. Imagino que assim deva ser a Casa de Luz no Paraíso Altíssimo. Outras janelas, de diversos tamanhos, foram dispostas de maneira ideal, tornando o ambiente extremamente iluminado e permitindo que a brisa fresca circule livremente. Do terraço, pode-se contemplar a imagem completa do Shinsenkyo, emoldurado pelo mar de árvores, e, ao longe, a cadeia de montanhas que se estende do Kintoki ao Otome-toge e Myojo, as curvas suaves do Myojin e do Asama, e, entre eles, o mar de Odawara. Tudo se revela em um único e desimpedido campo de visão.
-
-As laterais do aposento abrem-se para amplas varandas, de onde a vista panorâmica das montanhas que circundam Gora é de uma imponência revigorante. Estar ali nos dá a sensação de caminhar sobre as nuvens, esquecendo-se por completo do mundo terreno. De fato, esta paisagem é tão perfeita que se diria ter sido criada por Deus especialmente para este museu, o ponto de observação ideal.
-
-Embora apenas seu contorno esteja visível, o que considero particularmente surpreendente e esplêndido é o desenho do telhado do terceiro andar. Sobre a estrutura de linhas retas e simples do edifício ocidental, que lembra o estilo de Le Corbusier, ergue-se uma forma que condensa o mais puro requinte oriental. Essa fusão alcança uma harmonia sublime, que transforma por completo a impressão de toda a construção, ao mesmo tempo que expressa o próprio significado do museu. Subir o caminho pelo bosque de bambus, erguendo o olhar para este telhado de extrema elegância, beleza, imponência e magnificência, é uma experiência indescritível. Ele parece simbolizar a própria Verdade, o Bem e o Belo do Paraíso Celestial, erguido em direção aos céus, como a morada de Deus que reina sobre todas as divindades da beleza.
-
-A arquitetura deste museu é, em suma, a materialização da essência da Beleza Celestial, recém-criada através da harmonização entre a beleza oriental e a ocidental. É aqui que os tesouros da arte japonesa, de raridade sem igual, encontrarão o ambiente que lhes permitirá revelar seu verdadeiro valor, irradiando seu esplendor para os quatro cantos do mundo.
-
-Mesmo com as obras ainda em andamento, a harmonia entre o ambiente paradisíaco e a beleza arquitetônica já nos permite afirmar que este lugar é inigualável. O quão magnificamente belo ele se tornará quando finalizado e adornado com as obras de arte é algo que transcende até mesmo nossos sonhos mais ousados. Não há a menor sombra de dúvida de que, em seu devido tempo, ele causará uma onda de assombro em escala mundial.
-
-Adicionalmente, uma ponte de grande encanto foi construída sobre o riacho próximo à Casa Hagi, e o trabalho de jardinagem, que se estenderá por toda a área atrás da casa de chá, avança a passos largos. A expectativa do sonho de beleza que ali se manifestará é imensa e nos enche de emoção. E, com isso, refleti profundamente sobre a felicidade que temos, nós que nascemos neste século sem precedentes e fomos salvos como fiéis.
-
-O Templo Nikko-den, com a construção de uma passagem subterrânea, e o acréscimo de uma nova ala que se estende até a região da Cachoeira Ryuto, está sendo completamente renovado. Com sua conclusão prevista para este verão, estima-se que sua capacidade de acomodação será mais que duplicada.
-
-Membros e fiéis! E vós, ó gentes do mundo que buscais a Luz! Aguardai com os olhos atentos! Contemplai a grande beleza que se manifestará neste verão
 
 ---
 

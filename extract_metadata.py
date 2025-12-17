@@ -197,21 +197,28 @@ def extract_dates():
                         if match_collection:
                              # Clean up: " 岡田自観師の論文集 " -> "岡田自観師の論文集"
                              collection = match_collection.group(1).strip()
+                        else:
+                             # Fallback for sui03.html style: ――― 岡 田 自 観 師 の 論 文 集 ―――
+                             match_collection_fb = re.search(r'―――\s*(.*?)\s*―――', content)
+                             if match_collection_fb:
+                                 collection = match_collection_fb.group(1).strip()
                         
                         # --- Infer Content Type from Path ---
                         content_type = None
                         if full_path:
                             # Normalize path for checking
                             norm_path = full_path.replace("\\", "/")
-                            if "/kouwa/" in norm_path:
+                            if "kouwa/" in norm_path:
                                 content_type = "Discursos"
-                            elif "/situmon/" in norm_path:
+                            elif "situmon/" in norm_path:
                                 content_type = "Perguntas e Respostas"
-                            elif "/taidan/" in norm_path:
+                            elif "taidan/" in norm_path:
                                 content_type = "Diálogos"
-                            elif "/se/" in norm_path:
+                            elif "se/" in norm_path:
                                 content_type = "Ensaios"
-                            elif "/waka/" in norm_path or "/tanka/" in norm_path:
+                            elif "gosuiji/" in norm_path:
+                                content_type = "Ensinamentos"
+                            elif "waka/" in norm_path or "tanka/" in norm_path:
                                 content_type = "Poemas"
                             elif ("search1/" in norm_path or "/search1/" in norm_path) and "English" not in norm_path:
                                 # Fallback for phonetic directories (he, mo, etc.) which are usually essays
@@ -224,40 +231,54 @@ def extract_dates():
                         
                         
                         match_marker = source_marker_pattern.search(search_chunk_clean)
+                        
+                        # Define full_metadata to work with
+                        full_metadata = ""
                         if match_marker:
-                            # Full text after "Data Search :"
                             full_metadata = match_marker.group(1).strip()
-                            
+                        else:
+                            # Fallback: scan the search_chunk for source brackets or date patterns
+                            # Identify potential metadata area by finding the Source Bracket
+                            match_bracket = source_bracket_pattern.search(search_chunk_clean)
+                            if match_bracket:
+                                # Assume metadata is around this bracket. 
+                                # Let's grab a window or just use the bracket content + surrounding text
+                                # For now, let's treat the whole matched line or chunk as metadata context
+                                full_metadata = search_chunk_clean
+                        
+                        if full_metadata:
                             # 1. Extract Status
                             if "未発表" in full_metadata:
                                 status = "Unpublished"
-                            elif "発行" in full_metadata or "号" in full_metadata:
+                            elif "発行" in full_metadata: # "号" removed to avoid false positives with Issue number
                                 status = "Published"
-                            else:
-                                status = "Unknown"
+                            # If we have a date but no explicit status, it implies Published? 
+                            # Leaving as None/Unknown if not sure.
 
-                            # 2. Extract Source (Text in brackets or identified previously)
+                            # 2. Extract Source (Text in brackets)
                             match_bracket = source_bracket_pattern.search(full_metadata)
                             if match_bracket:
                                 found_source = match_bracket.group(1).strip()
                                 # Prepare to find title: It's usually BEFORE the bracket
                                 parts = full_metadata.split('『')
-                                if len(parts) > 0:
-                                    potential_title = parts[0].strip()
-                                    if potential_title and len(potential_title) < 50:
-                                         jp_title = potential_title
-                            else:
-                                # No brackets. Structure might be: "Title Status Date"
-                                separators = [r'\s+', r'、', r',']
-                                split_text = re.split('|'.join(separators), full_metadata)
-                                if split_text:
-                                    candidate_title = split_text[0].strip()
-                                    if candidate_title and len(candidate_title) < 50:
-                                        jp_title = candidate_title
-
+                                if len(parts) > 0 and not jp_title:
+                                    # Take text before bracket found in full_metadata
+                                    # If full_metadata is huge (fallback case), this might be noisy.
+                                    # Be conservative: check length
+                                    start_text = parts[0].strip()
+                                    # If fallback case, start_text might be everything before the bracket in the file
+                                    # So take the last few words?
+                                    if len(start_text) < 100:
+                                        potential_title = start_text
+                                        if potential_title:
+                                             jp_title = potential_title
+                                    else:
+                                        # Likely too long, maybe just take the last segment after a space/newline equivalent?
+                                        # Or regex for title pattern? Leaving blank for safety if too long.
+                                        pass
+                            
                             # 3. Extract Issue or Page Number
                             # Look for patterns like "159号" or "P.13" or "P13" or "号外"
-                            # Sometimes combined: "159号 P.13"
                             issue_matches = re.findall(r'(\d+号|号外|P\.?\d+)', full_metadata)
                             if issue_matches:
                                 issue_page = ", ".join(issue_matches)
@@ -270,13 +291,13 @@ def extract_dates():
                                         found_source = jp_src
                                         break
                                 
-                                # If still not found, fallback to the cleanup logic
+                                # If still not found, fallback
                                 if not found_source and jp_title:
                                      rest = full_metadata.replace(jp_title, "").strip()
                                      if rest:
                                          candidate = re.sub(r'未発表.*', '', rest).strip()
                                          candidate = re.sub(r'\d.*', '', candidate).strip() 
-                                         if len(candidate) > 1:
+                                         if len(candidate) > 1 and len(candidate) < 20: 
                                              found_source = candidate
 
                         # --- Convert Date to ISO ---

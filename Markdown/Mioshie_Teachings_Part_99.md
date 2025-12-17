@@ -3,8 +3,8 @@
 # Coletânea de Teses do Mestre Okada Jikan — O Método da Agricultura sem Fertilizantes
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年7月1日 | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-07-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** - | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1949-07-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Coletânea de Teses do Mestre Okada Jikan — O Método da Agricultura sem Fertilizantes
 ### Coletânea Jikan, Volume II, publicado em 1º de julho de 1949
@@ -1073,8 +1073,8 @@ Esta é a agricultura da era de Miroku, e este é o estado de vida dos agriculto
 # Coletânea de Ensaios do Mestre Okada Jikanshi
 
 **Categoria:** kanren | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 16号, 9号, 11号 | **Data ISO:** 1952-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Título Original:** 伝道の手引き Ⅱ －３－２ 奉仕について 八、建設に関連して １ 神様のお許しがないと御奉仕金が集まらぬ事 〔 御講話（S27年12月1日） | **Status:** Published | **Edição/Página:** 16号, 9号, 11号 | **Data ISO:** 1952-12-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 Guia de Divulgação II - 3-2
@@ -1397,7 +1397,7 @@ As árvores e os bambus daqui também são de qualidade superior. Mesmo que se c
 
 **Categoria:** hakkousi | **Ano:** 昭和22年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1947
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Prefácio
 
@@ -1446,7 +1446,7 @@ O Autor
 
 **Categoria:** hakkousi | **Ano:** 昭和23年12月8日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1948-12-08
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 
@@ -1540,7 +1540,7 @@ Volume 19 | 13 de jun. de 1950 | Registros das audiências com Meishu-Sama. Fev.
 
 **Categoria:** hakkousi | **Ano:** 昭和26年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 Coletânea de Teses do Reverendo Okada Jikan
 Por publicação
@@ -1579,7 +1579,7 @@ Editora: Departamento de Publicações da Sekaikyuseikyo
 
 **Categoria:** hakkousi | **Ano:** 昭和25年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Sekai Kyusei Kyo em Síntese
 
@@ -1595,7 +1595,7 @@ Editora: Departamento de Publicações da Editora Glória
 
 **Categoria:** hakkousi | **Ano:** 昭和18年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada
 
@@ -1652,7 +1652,7 @@ Páginas removidas da Terceira Parte.
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Antologia Poética "Montanhas e Água" (Coletânea de Ensaios do Mestre Okada Jikanshi – Organizada por Periódico de Publicação)
 
@@ -1687,7 +1687,7 @@ No interior da sobrecapa, encontra-se primeiramente a caligrafia original do aut
 
 **Categoria:** hakkousi | **Ano:** 昭和16年 | **Fonte:** 必勝
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1941
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 必勝
 
 ## Coleção de Ensaios do Reverendo Okada Jikan: Materiais de Referência e Imagens Adicionais
 
@@ -1725,7 +1725,7 @@ Aparentemente, este é o registro da ocasião em que meu avô foi agraciado com 
 
 **Categoria:** hakkousi | **Ano:** 昭和29年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## O Evangelho do Paraíso
 
@@ -1806,7 +1806,7 @@ Deus e Buda
 
 **Categoria:** hakkousi | **Ano:** 昭和26年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios de Okada Jikanshi: Organizada por Periódico de Publicação
 
@@ -1836,7 +1836,7 @@ Portanto, recomendo vivamente que este pequeno manual seja amplamente utilizado 
 
 **Categoria:** hakkousi | **Ano:** 昭和23年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1948
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi — Organizado por Publicação
 
@@ -1884,7 +1884,7 @@ A edição de oferta foi publicada em 1949. Subsequentemente, a edição revista
 
 **Categoria:** hakkousi | **Ano:** 昭和26年8月15日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## A Terapia Revolucionária da Tuberculose
 
@@ -1896,7 +1896,7 @@ Esta obra integra a “Coletânea de Ensaios do Reverendo Okada Jikan”, na se�
 
 **Categoria:** hakkousi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 Coleção de Teses do Mestre Okada Jikan
 Sermões de Meishu-Sama por Publicação (Volume 1)
@@ -1913,7 +1913,7 @@ Fonte: Correspondência do Havaí (nº 17), Revista Glória, edição nº 253.
 
 **Categoria:** hakkousi | **Ano:** 昭和23年12月 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1948-12
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Jikan Okada
 
@@ -1936,7 +1936,7 @@ A partir da décima segunda edição, a imagem de Messias Kannon (観音) passou
 
 **Categoria:** hakkousi | **Ano:** 昭和26年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikan
 
@@ -1964,7 +1964,7 @@ Formato: A6, 236 páginas
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月18日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento de 18 de dezembro de 1951
 
@@ -2040,7 +2040,7 @@ O maior expoente dessa cultura da imposição é a pintura de Picasso. Meu museu
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月25日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (25 de dezembro de 1951)
 *Publicado na Coletânea de Ensinamentos vol. 5, em 15 de janeiro de 1952.*
@@ -2122,7 +2122,7 @@ Afinal, é Deus quem cria os seres humanos e permite que se multipliquem. Seria 
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年1月27日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos de Jikan Okada – Ensinamentos (27 de janeiro de 1952)
 
@@ -2227,8 +2227,8 @@ Naturalmente, na área da saúde, até agora agimos com certa reserva, mas a par
 # Coletânea de Teses do Mestre Jikanshi Okada
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-10-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二十六号 | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Mestre Jikanshi Okada
 **Coletânea de Ensinamentos, nº 26 – Publicada em 15 de outubro de 1953**
@@ -2543,7 +2543,7 @@ Resumindo os tópicos de hoje:
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月26日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Ensinamentos, nº 7
 
@@ -2637,7 +2637,7 @@ Eu apenas relatei como as obras de arte japonesas são valorizadas nos Estados U
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月1日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento de 1º de dezembro de 1951
 Publicado na Coletânea de Ensinamentos n.º 5, em 15 de janeiro de 1952
@@ -2663,7 +2663,7 @@ Conforme acabei de ler, creio que jamais alguém teceu críticas tão contundent
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月6日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento de 6 de março de 1952
 

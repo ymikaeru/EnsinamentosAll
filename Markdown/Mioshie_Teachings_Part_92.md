@@ -3,8 +3,8 @@
 # Coletânea de Teses do Mestre Jikan Okada — Gosuishiroku Nº 23
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録23号 | **Status:** Published | **Edição/Página:** 23号, 23号 | **Data ISO:** 1953-08-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada — Gosuishiroku Nº 23
 Publicado em 15 de agosto de 1953 (ano 28 da Era Showa)
@@ -239,8 +239,8 @@ Entendo. Então, se houvesse perfilhamento, o plantio seria mais espaçado? É c
 # Coleção de Teses do Mestre Jikan Okada — Compilação de Ensinamentos, Volume 12
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-08-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録12号 | **Status:** Published | **Edição/Página:** 12号, 12号 | **Data ISO:** 1952-08-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coleção de Teses do Mestre Jikan Okada — Compilação de Ensinamentos, Volume 12
 
@@ -578,8 +578,8 @@ O nível mais elevado não é dourado. O mais elevado é o branco. Depois vem o 
 # Coletânea de Teses do Mestre Okada Jikanshi – Registro dos Ensinamentos, vol. 2
 
 **Categoria:** gosuiji | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-10-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録2号 | **Status:** Published | **Edição/Página:** 2号, 2号 | **Data ISO:** 1951-10-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Okada Jikanshi – Registro dos Ensinamentos, vol. 2
 
@@ -1311,8 +1311,8 @@ Não, isso não pode. Somente após receber o curso. A Imagem de Kannon no Biomb
 # Goshijiroku nº 5 (Coletânea de Ensinamentos)
 
 **Categoria:** gosuiji | **Ano:** 昭和26(1951)年12月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-12-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録5号 | **Status:** Published | **Edição/Página:** 5号, 5号 | **Data ISO:** 1951-12-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Goshijiroku nº 5 (Coletânea de Ensinamentos)
 
@@ -2095,7 +2095,7 @@ A história desse dragão é plausível. Não deve ser mentira. Mas, quanto à d
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas — A Luz sobre a Terra — Asō Ei — 1. Manhã
 
@@ -2500,8 +2500,8 @@ Despedimo-nos na plataforma da estação de Atami. O Sr. Fujiyama acenou com a m
 # Fé e Milagre
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 信心と奇蹟 戸川貞雄 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Fé e Milagre
 
@@ -2602,8 +2602,8 @@ Contudo, é inegável que a Igreja Messiânica se apresenta como uma religião g
 # Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: Ajuda; Pesquisa de Materiais: Guia para a Difusão da Fé
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 1号, 3号 | **Data ISO:** 1951-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Título Original:** 伝道の手引き Ⅰ －２－２ 資格者・教会・信仰上の諸問題 第二章 教 会 一、教会建設に至る迄 １ 教会の階下を借りている人が色々妨害する事について 〔 御垂示（S26年8月8日） | **Status:** Published | **Edição/Página:** 1号, 3号 | **Data ISO:** 1951-09-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: Ajuda; Pesquisa de Materiais: Guia para a Difusão da Fé
 
@@ -2857,7 +2857,7 @@ Recentemente, após peregrinar à Sede, senti-me mal no trem de volta e, ao cheg
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coração (Primeira Parte)
 
@@ -3212,8 +3212,8 @@ Ao chegar em casa, encontrei um cartão-postal sobre a escrivaninha. Era do escr
 # Publicações Correlatas — A Doutrina da Igreja Messiânica —
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― メシヤ教の教義 ――薬毒論について―― 岩崎 栄 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Publicações Correlatas — A Doutrina da Igreja Messiânica —
 ## — Acerca da Teoria do Yakudoku —
@@ -3418,8 +3418,8 @@ Na horticultura amadora, coisas assim são comuns: as batatas não dão muitos t
 # Manual de Difusão II - 2-1 Sobre o Johrei (Primeira Parte: Para os Iniciantes)
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 5号, ７号, 5号, 3号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Título Original:** 伝道の手引き Ⅱ －２－１ 浄霊について 第一章 初心者のために １ 親 切 １ 親切と威厳について 〔 御光話（S24年 3月 8日） | **Status:** Published | **Edição/Página:** 5号, ７号, 5号, 3号 | **Data ISO:** 1949
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Manual de Difusão II - 2-1 Sobre o Johrei (Primeira Parte: Para os Iniciantes)
 
@@ -3845,7 +3845,7 @@ Certa vez, alguém me perguntou qual seria o valor adequado para o donativo. Eu 
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Reverendo Okada Jikan
 

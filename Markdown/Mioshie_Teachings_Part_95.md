@@ -3,8 +3,8 @@
 # Coleção de artigos do Mestre Jikansai Okada
 
 **Categoria:** kanren | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Título Original:** 伝道の手引き Ⅱ －２－２ 浄霊について 第二章 教師の人の為に １ 御教え通り病人をお世話する事 〔 御講話（S27年8月26日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coleção de artigos do Mestre Jikansai Okada
 ## Guia de Difusão II - 2-2 Sobre o Johrei
@@ -795,8 +795,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O Método para se Tornar Bela (Breve Comentário de Hakko-sei, do Jornal 'Luz' nº 25, publicado em 3 de setembro de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Método para se Tornar Bela (Breve Comentário de Hakko-sei, do Jornal 'Luz' nº 25, publicado em 3 de setembro de 1949)
 
@@ -805,8 +805,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Um método para ganhar peso ao alcance de todos (Jornal Glória, nº 86, publicado em 10 de janeiro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Um método para ganhar peso ao alcance de todos (Jornal Glória, nº 86, publicado em 10 de janeiro de 1951)
 
@@ -815,8 +815,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Saúde Verdadeira e a Falsa Saúde (Extraído de “O Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Saúde Verdadeira e a Falsa Saúde (Extraído de “O Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
@@ -825,8 +825,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A VERDADE DA SAÚDE (Coletânea Jikan, Volume 10, “O Método Divino de Saúde”, publicado em 20 de abril de 1950)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A VERDADE DA SAÚDE (Coletânea Jikan, Volume 10, “O Método Divino de Saúde”, publicado em 20 de abril de 1950)
 
@@ -835,8 +835,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Medicina e Esporte (Medicina Esportiva, "O Evangelho do Paraíso", 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Medicina e Esporte (Medicina Esportiva, "O Evangelho do Paraíso", 5 de fevereiro de 1947)
 
@@ -845,8 +845,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Meu Método de Saúde
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Meu Método de Saúde
 (Ensaio publicado no Jornal Luz, nº 43, em 1º de janeiro de 1950, e posteriormente compilado no volume 10 da Coletânea de Autocontemplação: ‘O Método de Saúde da Revelação Divina’, de 20 de abril de 1950.)
@@ -856,8 +856,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # MORTE NATURAL E MORTE NÃO NATURAL (Inédito, escrito em 19 de junho de 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## MORTE NATURAL E MORTE NÃO NATURAL (Inédito, escrito em 19 de junho de 1936)
 
@@ -868,8 +868,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Vida e a Morte (Extrato do Primeiro Capítulo, "A Estrutura de Toda a Criação", do Ensaio Inédito sobre a Medicina – 1939)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Vida e a Morte (Extrato do Primeiro Capítulo, "A Estrutura de Toda a Criação", do Ensaio Inédito sobre a Medicina – 1939)
 
@@ -878,8 +878,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Um Nódulo de Toxinas de Cinquenta Anos (Publicado na revista Glória, n. 107, em 6 de junho de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Um Nódulo de Toxinas de Cinquenta Anos (Publicado na revista Glória, n. 107, em 6 de junho de 1951)
 
@@ -888,8 +888,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Causa do Malefício é o Medicamento (Jornal Eiko, nº 142, 6 de fevereiro de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Causa do Malefício é o Medicamento (Jornal Eiko, nº 142, 6 de fevereiro de 1952)
 
@@ -898,8 +898,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O Criador da Humanidade (Inédito – Escrito no 11º ano da Era Showa, 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Criador da Humanidade (Inédito – Escrito no 11º ano da Era Showa, 1936)
 
@@ -908,8 +908,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A TOXINA URINÁRIA (Excerto de “Ensaio Médico Inédito”, Segunda Parte: A Doença, 1939)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A TOXINA URINÁRIA (Excerto de “Ensaio Médico Inédito”, Segunda Parte: A Doença, 1939)
 
@@ -918,8 +918,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O Que É a Doença? (“A Salvação da América”, p. 4, publicado em 1º de janeiro de 1953)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Que É a Doença? (“A Salvação da América”, p. 4, publicado em 1º de janeiro de 1953)
 
@@ -928,8 +928,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O que é a Doença? O Resfriado (Extraído da obra “A Terapia Revolucionária da Tuberculose”, publicada em 15 de agosto de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O que é a Doença? O Resfriado (Extraído da obra “A Terapia Revolucionária da Tuberculose”, publicada em 15 de agosto de 1951)
 
@@ -938,8 +938,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Enfermidade e Sofrimento (Inédito, data desconhecida)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Enfermidade e Sofrimento (Inédito, data desconhecida)
 
@@ -948,8 +948,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Toxina dos Medicamentos (II) (Manuscrito inédito do "Ensaio sobre Medicina", 1939, extraído do Segundo Volume: "As Doenças")
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Toxina dos Medicamentos (II) (Manuscrito inédito do "Ensaio sobre Medicina", 1939, extraído do Segundo Volume: "As Doenças")
 
@@ -958,8 +958,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Pecado, Mácula e Doença (Ashita no Ijutsu, Terceira Coletânea – Publicação de 23 de outubro de 1943)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Pecado, Mácula e Doença (Ashita no Ijutsu, Terceira Coletânea – Publicação de 23 de outubro de 1943)
 
@@ -968,8 +968,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Sobre a Febre Baixa (Jornal Eikoh, n.º 120, 5 de setembro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Sobre a Febre Baixa (Jornal Eikoh, n.º 120, 5 de setembro de 1951)
 
@@ -978,8 +978,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # RENASCIMENTO (Extraído do capítulo “Renascimento”, da obra “Ashita no Ijutsu, Terceira Coletânea”, publicada em 23 de outubro de 1943) Johrei (浄霊)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## RENASCIMENTO (Extraído do capítulo “Renascimento”, da obra “Ashita no Ijutsu, Terceira Coletânea”, publicada em 23 de outubro de 1943) Johrei (浄霊)
 
@@ -988,8 +988,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Grande Transição Mundial (Medicina do Amanhã – Terceira Coletânea, publicado em 23 de outubro de 1943)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Grande Transição Mundial (Medicina do Amanhã – Terceira Coletânea, publicado em 23 de outubro de 1943)
 
@@ -998,8 +998,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O Mundo Espiritual
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Mundo Espiritual
 (Da série "O Mundo Uno" – Jornal Eikou, edição 111, 4 de julho de 1951)
@@ -1009,8 +1009,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A PALAVRA PURIFICAÇÃO, OU JOHKA (浄化) (Artigo “Palavras sobre a Purificação” – Revista Glória, n.º 157, 21 de maio de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A PALAVRA PURIFICAÇÃO, OU JOHKA (浄化) (Artigo “Palavras sobre a Purificação” – Revista Glória, n.º 157, 21 de maio de 1952)
 
@@ -1019,8 +1019,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Precedência do Espírito sobre a Matéria (Da coletânea “A Terapia Revolucionária da Tuberculose”, publicado em 15 de agosto de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Precedência do Espírito sobre a Matéria (Da coletânea “A Terapia Revolucionária da Tuberculose”, publicado em 15 de agosto de 1951)
 
@@ -1029,8 +1029,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Transição da Noite para o Dia (O Evangelho do Paraíso, 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Transição da Noite para o Dia (O Evangelho do Paraíso, 5 de fevereiro de 1947)
 
@@ -1039,8 +1039,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O Princípio do Johrei (A Medicina da Revelação Divina - Do Jornal Hikari, Edição Especial de 30 de maio de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Princípio do Johrei (A Medicina da Revelação Divina - Do Jornal Hikari, Edição Especial de 30 de maio de 1949)
 
@@ -1049,8 +1049,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Trindade dos Órgãos Internos e o Johrei (Revista Luz, n.º 21, 6 de agosto de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Trindade dos Órgãos Internos e o Johrei (Revista Luz, n.º 21, 6 de agosto de 1949)
 
@@ -1059,8 +1059,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # O método de um para um é insuficiente (Inédito, data desconhecida)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O método de um para um é insuficiente (Inédito, data desconhecida)
 
@@ -1069,8 +1069,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Eliminação do Sofrimento Causado pelas Doenças (Do artigo "O que é a Verdadeira Civilização?", publicado na edição 31 da revista "Paraíso Terrestre", em 25 de dezembro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Eliminação do Sofrimento Causado pelas Doenças (Do artigo "O que é a Verdadeira Civilização?", publicado na edição 31 da revista "Paraíso Terrestre", em 25 de dezembro de 1951)
 
@@ -1079,8 +1079,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Poder Finito e Poder Infinito (Inédito, sem data)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Poder Finito e Poder Infinito (Inédito, sem data)
 
@@ -1089,8 +1089,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # RELIGIÃO E FÉ (Ashita no Ijutsu, Volume II – Publicado em 5 de outubro de 1943)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## RELIGIÃO E FÉ (Ashita no Ijutsu, Volume II – Publicado em 5 de outubro de 1943)
 
@@ -1099,8 +1099,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # A Terapêutica e o Conceito (Da obra “Ashita no Ijutsu – O Método Terapêutico Okada como a Nova Medicina Japonesa”, publicada em 15 de maio de 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Terapêutica e o Conceito (Da obra “Ashita no Ijutsu – O Método Terapêutico Okada como a Nova Medicina Japonesa”, publicada em 15 de maio de 1936)
 
@@ -1109,8 +1109,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # ALTERAÇÃO NO MÉTODO DO JOHREI (Revista Glória, nº 84, publicada em 27 de dezembro de 1950)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## ALTERAÇÃO NO MÉTODO DO JOHREI (Revista Glória, nº 84, publicada em 27 de dezembro de 1950)
 
@@ -1119,8 +1119,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # É possível ser curado (Jornal Luz, nº 3, publicado em 30 de março de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## É possível ser curado (Jornal Luz, nº 3, publicado em 30 de março de 1949)
 
@@ -1129,8 +1129,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Teoria do Método e Teoria do Efeito
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Teoria do Método e Teoria do Efeito
 (Reapresentação de “Teoria do Método e Teoria do Efeito”, publicada na Coletânea Jikan, vol. 12, “Coletânea de Parábolas Jikan”, em 30 de janeiro de 1950. Texto original do Jornal Hikari, nº 19, de 23 de julho de 1949)
@@ -1140,8 +1140,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # CIÊNCIA DA NUTRIÇÃO (Publicado em “Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## CIÊNCIA DA NUTRIÇÃO (Publicado em “Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
@@ -1150,8 +1150,8 @@ Em suma, não se pode decidir facilmente o que é bom e o que é mau. O bem e o 
 # Publicações Relacionadas — Crítica à Igreja Messiânica
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― メシヤ教批判 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Publicações Relacionadas — Crítica à Igreja Messiânica
 
@@ -2608,8 +2608,8 @@ O fundador Okada ensina: “
 # PREFÁCIO (O Cultivo sem Fertilizantes)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## PREFÁCIO (O Cultivo sem Fertilizantes)
 
@@ -2620,8 +2620,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # A Comédia da Nutrição (Coletânea Jikan, Volume 10, 'O Método Divino de Saúde', publicado em 20 de abril de 1950. Versão ampliada do artigo da revista 'Hikari', nº 13, de 18 de junho de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Comédia da Nutrição (Coletânea Jikan, Volume 10, 'O Método Divino de Saúde', publicado em 20 de abril de 1950. Versão ampliada do artigo da revista 'Hikari', nº 13, de 18 de junho de 1949)
 
@@ -2632,8 +2632,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Agricultura Natural (Cultivo sem Adubos, Agricultura Divina. Publicado na revista “Paraíso Terrestre”, n.º 1, de 1.º de dezembro de 1948; republicado na Coletânea Jikan, segundo volume, em 1.º de julho de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Agricultura Natural (Cultivo sem Adubos, Agricultura Divina. Publicado na revista “Paraíso Terrestre”, n.º 1, de 1.º de dezembro de 1948; republicado na Coletânea Jikan, segundo volume, em 1.º de julho de 1949)
 
@@ -2642,8 +2642,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # O TRIUNFO DA AGRICULTURA NATURAL: O GRANDE PODER DO SOLO (Extraído de “A Vitória do Cultivo Natural”, “O Grande Poder do Solo” e “Comentário sobre a Agricultura Natural para o Aumento Revolucionário da Produção”, publicados em 5 de maio de 1953)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O TRIUNFO DA AGRICULTURA NATURAL: O GRANDE PODER DO SOLO (Extraído de “A Vitória do Cultivo Natural”, “O Grande Poder do Solo” e “Comentário sobre a Agricultura Natural para o Aumento Revolucionário da Produção”, publicados em 5 de maio de 1953)
 
@@ -2659,8 +2659,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Alimentação e Nutrição (Da série “A Proposição de um Método de Saúde Japonês”, II. Publicado na revista “Luz do Oriente”, nº 6, de junho de 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Alimentação e Nutrição (Da série “A Proposição de um Método de Saúde Japonês”, II. Publicado na revista “Luz do Oriente”, nº 6, de junho de 1936)
 
@@ -2669,8 +2669,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # As Pragas de Insetos (Da obra 'Exposição sobre a Agricultura Natural', publicada em 15 de janeiro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## As Pragas de Insetos (Da obra 'Exposição sobre a Agricultura Natural', publicada em 15 de janeiro de 1951)
 
@@ -2679,8 +2679,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Cultivando Tangerinas por Quarenta Anos através da Agricultura Natural (Publicado na revista Glória, nº 133, em 5 de dezembro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Cultivando Tangerinas por Quarenta Anos através da Agricultura Natural (Publicado na revista Glória, nº 133, em 5 de dezembro de 1951)
 
@@ -2689,8 +2689,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Os Princípios da Agricultura Natural (Uma Grande Revolução na Agricultura do Japão: Aumento de dez a cinquenta por cento na produção desde o primeiro ano, sem o uso de fertilizantes. Compilado da publicação Eikō, nº 245, de 27 de janeiro de 1954)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Os Princípios da Agricultura Natural (Uma Grande Revolução na Agricultura do Japão: Aumento de dez a cinquenta por cento na produção desde o primeiro ano, sem o uso de fertilizantes. Compilado da publicação Eikō, nº 245, de 27 de janeiro de 1954)
 
@@ -2699,8 +2699,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # NUTRIÇÃO (Extraído de “A Terapia Revolucionária da Tuberculose”, publicado em 15 de agosto de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## NUTRIÇÃO (Extraído de “A Terapia Revolucionária da Tuberculose”, publicado em 15 de agosto de 1951)
 
@@ -2709,8 +2709,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # A Grande Revolução Agrícola — A certeza de um aumento de 50% na produção de arroz em cinco anos (Extraído da publicação “Explanação sobre a Agricultura Natural para um Aumento Revolucionário da Produção”, de 5 de maio de 1953)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Grande Revolução Agrícola — A certeza de um aumento de 50% na produção de arroz em cinco anos (Extraído da publicação “Explanação sobre a Agricultura Natural para um Aumento Revolucionário da Produção”, de 5 de maio de 1953)
 
@@ -2719,8 +2719,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Hortas Domésticas (A Respeito das Hortas Caseiras – “Explanação sobre a Agricultura Natural”, 15 de janeiro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Hortas Domésticas (A Respeito das Hortas Caseiras – “Explanação sobre a Agricultura Natural”, 15 de janeiro de 1951)
 
@@ -2729,8 +2729,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # A TERRA RESPIRA (Do livro “Colóquios sobre a Fé”, p. 55, publicado em 5 de setembro de 1948)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A TERRA RESPIRA (Do livro “Colóquios sobre a Fé”, p. 55, publicado em 5 de setembro de 1948)
 ## CONCLUSÃO (Conclusão)
@@ -2740,8 +2740,8 @@ Por Shinnosei. Segundo volume da Coletânea Jikan Sōsho (自観叢書): “O M�
 # Prejuízos Causados por Tufões e Enchentes (Comentários sobre a Agricultura Natural, 15 de janeiro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Prejuízos Causados por Tufões e Enchentes (Comentários sobre a Agricultura Natural, 15 de janeiro de 1951)
 
@@ -2760,8 +2760,8 @@ Os prejuízos causados por tufões e enchentes, tema deste artigo, seguem precis
 # A GRANDE REVOLUÇÃO AGRÍCOLA: O CULTIVO SEM FERTILIZANTES PARA HORTAS DOMÉSTICAS LIMPAS E PLENAMENTE APRAZÍVEIS (Publicado na revista Hikari [Luz], nº 3, em 30 de março de 1949)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A GRANDE REVOLUÇÃO AGRÍCOLA: O CULTIVO SEM FERTILIZANTES PARA HORTAS DOMÉSTICAS LIMPAS E PLENAMENTE APRAZÍVEIS (Publicado na revista Hikari [Luz], nº 3, em 30 de março de 1949)
 
@@ -2770,8 +2770,8 @@ Os prejuízos causados por tufões e enchentes, tema deste artigo, seguem precis
 # CONCLUSÃO (Conclusão Geral, do livro O Evangelho do Paraíso, publicado em 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## CONCLUSÃO (Conclusão Geral, do livro O Evangelho do Paraíso, publicado em 5 de fevereiro de 1947)
 
@@ -2782,8 +2782,8 @@ Os prejuízos causados por tufões e enchentes, tema deste artigo, seguem precis
 # Coletânea de Ensaios do Mestre Okada Jikanshi
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** 医学関係Goronbun集
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ―― 関連出版物 医学関係御論文集 写真はありません 医学関係御論文集 編集者 不明 発 刊日不明 推定、昭和２９・３０年頃 この | **Status:** - | **Edição/Página:** 号外, 号外, 号外 | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 医学関係御論文集
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 

@@ -3,8 +3,8 @@
 # Coletânea de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, Volume 5
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-01-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第五号 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Mestre Okada Jikanshi — Coletânea de Ensinamentos, Volume 5
 Publicado em 15 de janeiro de 1952 (ano 27 da era Showa)
@@ -292,8 +292,8 @@ Voltando ao museu. Na parte de trás de Hakone, atrás do Hagi no Ya. Há uma en
 # Coletânea de Teses do Mestre Jikanshi Okada – Coletânea de Ensinamentos, Volume 29
 
 **Categoria:** miosie | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-01-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二十九号 | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Mestre Jikanshi Okada – Coletânea de Ensinamentos, Volume 29
 *Coletânea de Ensinamentos, Vol. 29, publicado em 15 de janeiro de 1954*
@@ -768,7 +768,7 @@ Departamento de Publicações da Sekaikyuseikyou
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年9月8日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Ensaios do Reverendo Jikan Okada
 
@@ -880,7 +880,7 @@ Até hoje, o mal foi, na verdade, uma necessidade. Sem ele, a civilização mate
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月15日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Ensaios do Reverendo Okada Jikanshi – Ensinamento (15 de fevereiro de 1952)
 
@@ -977,7 +977,7 @@ Nesse contexto, a ideia de uma religião administrar um hospital é vista como a
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月28日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (28 de agosto de 1951)
 Da Coletânea de Ensinamentos, volume 1, publicada em 20 de setembro de 1951
@@ -1078,7 +1078,7 @@ Como sempre digo, dependendo do objetivo do momento, os assuntos referentes a De
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月17日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 
@@ -1183,7 +1183,7 @@ Em breve, os senhores Matsui, Suzuki, Momomi, Kihara, Azabu e Shugetsu partirão
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年1月16日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamentos (16 de janeiro de 1952)
 

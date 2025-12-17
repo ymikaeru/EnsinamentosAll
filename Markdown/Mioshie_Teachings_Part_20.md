@@ -1,10 +1,140 @@
 # Mioshie_Teachings - Part 20
 
+# Sobre os Tufões, a Expansão da Fé e o Ponto de Encontro entre Ciência e Religião
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 秋季大祭御講話 （S28年9月27日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
+
+## Sobre os Tufões, a Expansão da Fé e o Ponto de Encontro entre Ciência e Religião
+
+O recente tufão parece ter causado danos consideráveis. Segundo o noticiário radiofônico desta manhã, o número de mortos já chega a seiscentos e cinquenta. Os desaparecidos, na verdade, também devem ser contados entre as vítimas fatais, pois o termo refere-se àqueles cujos corpos ainda não foram encontrados. Os prejuízos na agricultura, que somam duzentos e cinquenta mil chou, são de magnitude semelhante à da tempestade anterior. Além desses números, há também os danos imensuráveis que não entram nas estatísticas. A quantidade de pontes e diques destruídos é incalculável, e os prejuízos indiretos são igualmente vultosos. Deve-se considerar, ainda, a paralisação do trabalho durante o período de reconstrução e uma série de outras perdas que, somadas, atingem um montante estarrecedor.
+
+Contudo, as chamadas medidas de controle de inundações, como o conserto de pontes, a construção de diques e quebra-mares, não passam de soluções paliativas com efeito limitado. Ademais, mesmo que houvesse a intenção de implementá-las de forma plena, não haveria recursos financeiros. O orçamento destinado a tais obras corresponde, na prática, a apenas um décimo do custo total estimado. Para uma previsão de gastos de mais de oitenta bilhões de ienes, a verba liberada anualmente foi de pouco mais de oito bilhões, o que torna a quantia irrisória e o problema insolúvel.
+
+Portanto, a única solução efetiva seria impedir a própria ocorrência dos tufões. Todavia, como sempre afirmo, somos nós que os criamos. A situação é análoga à da medicina, que se atém a terapias sintomáticas em vez de tratar a causa fundamental das doenças. As pessoas se empenham em elaborar contramedidas para os fenômenos manifestos, mas nada fazem em relação à sua origem, simplesmente por desconhecê-la. Tenho me esforçado de diversas maneiras para ensinar essa verdade, mas os resultados não são imediatos. Por conseguinte, o sofrimento causado por tufões como este ainda persistirá por alguns anos.
+
+É notável que a frequência de tais fenômenos tenha aumentado muito em comparação com o passado. Antigamente, não ocorriam com essa regularidade anual. Ontem mesmo, durante a apresentação artística do festival, o comediante Shinsho comentou: “Na minha juventude, nunca ouvi falar de tufões como os de hoje. Quando o vento soprava e a chuva caía torrencialmente, dizíamos que era uma tempestade, e ficava por isso mesmo. Essa forma como chove agora é estranha”. Suas palavras me fizeram refletir que, de fato, no passado não havia notícias de centenas de mortos ou de dezenas de milhares de chou de terras agrícolas devastadas. Embora seja verdade que a população cresceu, a proporção dos danos é muito superior a esse aumento. A razão é que o volume de impurezas gerado pelo ser humano se tornou muito maior.
+
+De modo geral, o vento serve para dissipar as máculas acumuladas no Mundo Espiritual, geradas pelos pensamentos e palavras nefastos da humanidade. A chuva, por sua vez, destina-se a lavar os fertilizantes dos campos. Antigamente, quando se usava apenas excremento humano, a contaminação era menor. Hoje, porém, foram criados fertilizantes químicos e venenos terríveis como o Horidol, que matam seres humanos e se infiltram no solo. Diante disso, Deus se vê na contingência de purificar a terra, fazendo cair chuvas torrenciais. As chuvas recentes, aliás, têm atingido volumes absurdos. Em Quioto, dias atrás, o transbordamento do lago Daishōike causou a morte de dezenas de pessoas, resultado direto da quantidade excessiva de precipitação. Em suma, como os próprios seres humanos estão criando as causas dos tufões, a situação é inevitável.
+
+Escrevi um artigo sobre este tema, que será publicado na próxima edição da revista Eikou. Sei que um texto, por si só, não produzirá um efeito grandioso. Contudo, Deus agirá gradualmente da maneira mais apropriada, e por isso não nutro grandes preocupações. O que verdadeiramente me aflige e entristece o coração é pensar em todo o sofrimento e nos diversos prejuízos que as pessoas enfrentam até que a solução divina se concretize. O cerne do problema reside no fato de que a cultura atual ignora a existência do espírito. Embora a causa dos fenômenos esteja no Mundo Espiritual, as pessoas negligenciam essa origem e se dedicam com afinco a lidar apenas com os resultados manifestos no plano material. Trata-se, em verdade, de uma forma de ignorância crassa. Conforme li em outra ocasião, é um caso de “extrema insensatez” e “supina estupidez”, o que torna a questão bastante complexa.
+
+A Agricultura Natural tem recebido crescente atenção, e a má colheita de arroz deste ano serviu como um grande estímulo nesse sentido. O recente tufão também atuará como um catalisador. As estimativas indicam que o Tufão n.º 13 causará uma perda adicional de um milhão de koku na safra de arroz. O governo já havia anunciado uma produção de 58,5 milhões de koku; com essa redução, o total cairá para 57,5 milhões. No entanto, a soma das estimativas locais, independentes do governo, aponta para uma colheita de apenas 53 milhões e alguns milhares de koku, revelando uma disparidade de sete a oito milhões de koku em relação à previsão oficial. Tomando-se um valor intermediário, chegaríamos a algo em torno de 55 a 56 milhões de koku. Considerando que uma safra normal é de 63 milhões de koku, a quebra será imensa. Em comparação com os anos de colheita farta mais recentes, que atingiram 66 milhões de koku, a diferença é de exatos 10 milhões de koku. Enquanto a população aumenta em cerca de um milhão de pessoas por ano, a produção de arroz segue o caminho inverso, o que configura um cenário extremamente pessimista. Todavia, quanto mais grave se torna a situação, mais rapidamente a Agricultura Natural se difundirá. Portanto, embora o momento seja de dificuldade, o resultado final é, na verdade, muito positivo. Como o tempo de hoje é curto e temos vários assuntos a tratar, abordarei apenas os pontos essenciais.
+
+Passemos agora à expansão da Sekaikyuseikyou nos Estados Unidos. No mês passado, estabelecemos uma igreja em Los Angeles e iniciamos nossas atividades, que progridem com um ímpeto formidável. Recentemente, surgiram três fiéis extremamente dedicados em São Francisco e outros três em Seattle, o que me leva a crer que em breve estabeleceremos igrejas também nessas cidades. Penso que não tardará para que essas três unidades estejam em plena atividade. É provável que outras se formem em diferentes metrópoles americanas, e imagino que, dentro de um ano, o desenvolvimento de nossa Obra nos Estados Unidos será esplêndido. Há uma passagem nas Escrituras da Oomoto que diz: “Tudo o que foi adiado acontecerá de uma só vez”. A situação atual parece espelhar precisamente essa profecia. E, para salvar o Japão, o caminho mais eficaz é, sem dúvida, conquistar um grande número de fiéis e promover a expansão de nossa fé nos Estados Unidos, pois a atual idolatria do povo japonês pela América é algo extraordinário.
+
+Ontem, em uma gravação de rua para o rádio, debatia-se se era bom ou ruim os estudantes se dedicarem ao jazz. A verdade é que o jazz não possui mérito algum. Em primeiro lugar, não é música. Costumo dizer que o jazz é o Yagi-bushi da América, uma canção folclórica para dança. Portanto, não é música, mas apenas um ritmo, um artifício para marcar o passo durante a dança. O fato de essa moda ter se alastrado entre os jovens japoneses é um resultado direto da idolatria pela América. É uma psicologia de massa muito simplista, segundo a qual tudo o que vem dos Estados Unidos é bom. Basta observar os anúncios de cosméticos: todos enaltecem o “estilo americano” ou afirmam que o produto é “um grande sucesso na América”. Curiosamente, por outro lado, as mulheres americanas têm se queixado de problemas de pele, e a terapia mais recente consiste, segundo relatos, em lixar o rosto com uma lima. Ou seja, remover a pele. O próximo passo, imagino, será aplainá-la com uma plaina. A causa dessa irritação cutânea são os produtos químicos agressivos presentes nos cosméticos. E os japoneses, em sua admiração cega, imitam tal comportamento, o que se enquadra perfeitamente na categoria da “extrema insensatez”.
+
+Portanto, no âmbito religioso, se a Sekaikyuseikyou conquistar um grande número de fiéis nos Estados Unidos, os japoneses aderirão a ela com avidez. Essa é a melhor estratégia. Deus certamente providenciará para que assim seja.
+
+Quanto ao Museu de Arte, o plano para o próximo ano é realizar a Exposição Momoyama. Reunimos excelentes peças desse período, muitas das quais raramente foram exibidas ao público. Como esse projeto já existia há algum tempo, optamos por mantê-las guardadas para que o impacto fosse maior. No próximo ano, pretendemos apresentar uma mostra que deixará a todos estupefatos. Essa exposição principal ficará em cartaz durante toda a temporada.
+
+Adicionalmente, nos meses de junho e julho, realizaremos no anexo a Exposição de Obras-Primas Modernas, que abrangerá a pintura, a escultura e as artes aplicadas do Japão desde o Período Meiji. Muitas dessas peças são tesouros que jamais deixam suas coleções. O público, acostumado a pensar que a grande arte japonesa se restringe aos períodos antigos, ficará surpreso ao constatar que obras de tamanha excelência também foram produzidas na era moderna. A seleção contará, em sua maioria, com obras-primas de grandes mestres. Nas artes aplicadas, teremos, na arte da laca maki-e, obras de Shoumin, Shousai, Jitoku e Houbi. No cinzelamento em metal, o destaque será Kanou Natsuo, um mestre sem igual em sua área; os demais são artistas comuns, mas o estilo de Natsuo é tão único que se tornou conhecido como “cinzel Natsuo”. As peças de Natsuo conhecidas pelo público são geralmente pequenas, como fechos de obi para mulheres. As que possuímos, no entanto, são objetos de grande porte, como caixas de escrita e peças decorativas, o que as torna extremamente raras. Na escultura, teremos Sato Gengen e Hiragushi Denchuu. Na laca tsuishu, o mestre é Tsuishu Youzei. Na cerâmica, Itaya Hazan; ele é, sem dúvida, o maior mestre desde o Período Meiji, e os demais estão um degrau abaixo. Na cestaria de bambu, Iizuka Rōkansai. Como podem ver, a coleção é repleta de raridades. Na pintura, apresentaremos obras-primas de artistas como Hōitsu, Zeshin, Gahō, Hōgai, Seihō, Tessai, Taikan, Shunsō e Gyokudō. São peças que colecionei no passado e que hoje seriam impossíveis de adquirir.
+
+Nos meses de agosto, setembro e outubro, planejamos realizar a segunda Exposição de Ukiyo-e. Essa arte é muito popular por ser de fácil apreciação, e notamos que muitos visitantes vêm ao museu especificamente por causa dela. Por isso, decidimos organizar uma segunda edição. Além das obras já expostas, temos um acervo considerável e, ocasionalmente, colecionadores se dispõem a emprestar peças magníficas. Nossa intenção é apresentar, no próximo ano, uma seleção o mais distinta possível da anterior. Acredito que essas iniciativas atrairão grande atenção.
+
+O museu vem ganhando notoriedade, e o número de visitantes aumentou de forma incomparável em relação ao ano passado. A fama parece ter chegado também aos estrangeiros, cuja presença tem crescido; praticamente não há um dia em que não recebamos alguns deles. Assim, creio que no próximo ano nossa reputação se consolidará ainda mais.
+
+O Museu de Arte tem se revelado um fator extremamente positivo do ponto de vista religioso. Ele gera uma impressão favorável, especialmente entre as classes média e alta. Sem ele, seríamos vistos como apenas mais uma das muitas novas religiões que pululam na sociedade, e que o público imediatamente associa a charlatanismo e superstição. A existência de um museu com este acervo nos confere uma credibilidade que nos distingue de tais movimentos. Além disso, como recebemos a visita de muitas figuras proeminentes e da elite intelectual, nossa influência nesses círculos tem se aprofundado. Pessoas que jamais imaginaríamos têm vindo nos visitar. Exercer uma influência positiva nesses meios é algo de imenso valor, pois nada é mais eficaz do que fazer com que a classe dirigente da sociedade compreenda nossa Obra. Recentemente, até mesmo a cobertura da imprensa tem mudado; o tom de escárnio de antes praticamente desapareceu, dando lugar a uma abordagem mais favorável na maioria das vezes. Considero essa mudança muito positiva. Quando nossa expansão se consolidar no Havaí e nos Estados Unidos, os japoneses curvarão a cabeça em reconhecimento. Creio que é uma questão de tempo, e talvez ocorra antes do que se imagina.
+
+Neste momento, cinquenta e cinco cientistas de todo o mundo estão reunidos no Japão em diversas conferências, cada um expondo suas teorias. É um acontecimento muito positivo, pois significa que o Japão, nesse campo, atingiu um patamar internacional. A causa primordial disso foi a fama conquistada pelo Dr. Yukawa, cujo êxito, por sua vez, inspirou o surgimento de muitos jovens cientistas japoneses, o que é excelente. Pretendo escrever sobre isso em breve.
+
+A questão é que o estado atual da ciência tem como foco de pesquisa a chamada teoria das propriedades da matéria. Esse campo sucedeu o estudo das partículas elementares e, do nosso ponto de vista, é algo bastante simples, não de grande complexidade. Os cientistas, no entanto, têm o hábito de explicar coisas simples de maneira complicada, pois acreditam que isso lhes confere mais valor. Seria melhor que falassem de forma clara e compreensível, mas eles insistem em criar raciocínios intrincados. Talvez seja porque ainda não chegaram ao âmago da questão.
+
+De modo geral, as partículas elementares são as partículas mais finas e diminutas da matéria. Embora diminutas, ainda não são matéria propriamente dita; estão um estágio antes. São visíveis em fotografias de raios cósmicos, o que significa que possuem uma individualidade que lhes permite serem registradas. Indo além delas, chega-se a uma espécie de substância gasosa. Para explicar de forma simples, são as partículas da mácula espiritual que originam as doenças no ser humano. Como a ciência ainda não consegue apreendê-las com clareza, refere-se a elas pelo termo “propriedades da matéria”. Quanto mais se avança nesse estudo, mais finas se tornam as partículas. Embora não possam ser capturadas diretamente, os cientistas, por meio de diversas manipulações, concluem que elas devem existir.
+
+Por isso se diz que a teoria das propriedades da matéria é extremamente variável. As propriedades mudam. A teoria aplicada a um caso A é diferente da aplicada a um caso B. Nas conferências científicas recentes, tem-se falado muito sobre o “campo”, pois as propriedades variam de acordo com o campo em que se manifestam. A origem é uma só, mas ela se modifica ao atravessar determinado meio. É o mesmo que ocorre com as doenças: a medicina prescreve tratamentos diferentes para cada enfermidade, enquanto nós utilizamos um método único para todas. A energia que emana desta mão é uma só e cura qualquer doença. O estudo da teoria das propriedades da matéria segue o mesmo princípio.
+
+Contudo, mesmo que tais partículas sejam descobertas, elas de nada servirão se não forem úteis. E sua utilidade reside na força que delas emana. Um dos cientistas estrangeiros presentes na conferência proferiu uma palestra sobre mecânica quântica, afirmando que é preciso estabelecer uma conexão com esse campo. O Johrei é, nesse sentido, também uma forma de mecânica, uma força.
+
+Há algo, porém, que é preciso saber. A força criada pela ciência tem um limite. Por mais que os microscópios se tornem sofisticados, se for possível contar quantas dezenas de milhares ou centenas de milhões de partículas existem em um milímetro, esse número representará o seu limite, e a força gerada também será limitada. Por mais espetacular que seja o poder explosivo da bomba atômica, seu efeito é localizado; ela não pode destruir a Terra inteira. Trata-se de uma força criada a partir da matéria e, portanto, é uma força finita.
+
+A força criada por Deus, no entanto, é infinita. Recentemente, tivemos um relato de um milagre extraordinário em Los Angeles. Isso significa que minha força chega até lá sem qualquer dificuldade, precisamente por ser infinita. A força infinita transcende o tempo e o espaço, pois é a força de Deus. A ciência moderna, em última análise, dedica-se ao estudo da força finita. Inevitavelmente, quando atingir um certo ponto, não terá outra escolha senão curvar a cabeça. A teoria das propriedades da matéria representa exatamente o ponto intermediário entre o Mundo Espiritual e o mundo material, entre o espírito e o corpo. À medida que essa teoria avançar, a ciência adentrará o domínio da religião e, nesse ponto, deixará de ser ciência como a conhecemos. Pretendo escrever sobre como essa jornada, levada às últimas consequências, conduzirá ao Espírito Divino, a Deus. É um tema de difícil explanação, mas farei o meu melhor.
+
+Encontramo-nos, portanto, na intersecção entre a ciência e a religião. Tendo essa compreensão prévia, torna-se simples responder a qualquer questionamento de qualquer acadêmico. A ciência de hoje se assemelha a uma criança que acaba de se formar no jardim de infância e está prestes a entrar na escola primária. Na cerimônia de abertura em Quioto, o Dr. Yukawa disse que “o mundo científico atual é como um grupo de pessoas em meio à escuridão, tentando encontrar o caminho a seguir”. Achei a descrição muito apropriada e admirei sua perspicácia. O estado das coisas é exatamente este. Por isso, alguns cientistas japoneses afirmam que “ainda há muito a ser pesquisado”. Outros dizem que “basta avançar na teoria das propriedades da matéria”. Estão todos tateando na escuridão, de modo que é impossível que saibam a resposta.
+
+Eu poderia escrever sobre o que eles tanto procuram na escuridão, mas não conseguiria fazer com que minhas palavras chegassem aos seus olhos e ouvidos. Isso porque os intelectuais de hoje, ao ouvirem falar de uma nova religião, reagem com desdém, pensando: “Que disparate é este?”. Portanto, não adiantaria. O importante é que eu transmita esse conhecimento aos fiéis, pois eles acreditarão, e no futuro essa verdade se expandirá.
+
+Minha doutrina é algo sem precedentes em toda a história; por isso, é impossível que seja compreendida rapidamente. No entanto, não tenho dúvidas de que, um dia, será. Bastará que alguns poucos acadêmicos a compreendam para que ela se espalhe pelo mundo como fogo em palha seca, pois é exatamente isso que os estudiosos de todas as nações estão buscando.
+
+Ao se aprofundar a questão, chega-se à conclusão de que religião e ciência são, em essência, a mesma coisa. Ou melhor, a religião é aquilo que a ciência sempre buscou. Contudo, as religiões até hoje conhecidas não alcançaram esse patamar. Elas se encontram apenas um pouco à frente da ciência e, por isso, acabam sendo suplantadas pelo poder desta. Meus ensinamentos, portanto, não constituem uma religião nesses moldes. Contudo, por pertencerem ao campo do sagrado, é sobre eles que escrevo.
+
+---
+
+# A Grande Revolução da Agricultura Japonesa
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年10月25日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
+
+## A Grande Revolução da Agricultura Japonesa
+
+Pretendemos publicar uma edição especial sobre a Agricultura Natural. Embora costumeiramente o façamos na primavera, este ano anteciparemos o lançamento, pois os relatórios chegaram mais cedo e, sobretudo, porque todos se encontram imensamente aflitos com a atual quebra de safra. Desse modo, almejo conferir-lhes tranquilidade o quanto antes. A edição especial da revista *Eikoh* será publicada no início do próximo mês.
+
+A respeito do tema, neste ano em que os resultados da agricultura convencional foram deploráveis, os nossos, em contrapartida, foram excepcionalmente bons — uma disparidade assombrosa. Indubitavelmente, Deus agiu de forma primorosa. Em breve, farei a leitura dos artigos destinados a essa publicação. O conteúdo está muito mais aprofundado que o das edições anteriores, razão pela qual acredito que, uma vez publicado, seria proveitoso vender exemplares avulsos às pessoas ligadas às zonas rurais. Prevejo que a venda de um milhão de exemplares é perfeitamente viável. Apenas entre os fiéis, a marca de quinhentos mil é garantida. O restante poderá ser vendido, pois o título principal será, em letras garrafais, “A Grande Revolução da Agricultura Japonesa”, seguido de “Aumento de até 50% na Produção desde o Primeiro Ano, sem Adubos”. É um título tão atraente que soa como uma grata surpresa.
+
+Meu intuito é que o maior número possível de pessoas o leia; para tanto, quanto mais acessível o preço, melhor. Além disso, a situação financeira dos agricultores é extremamente precária, o que reforça a necessidade de imprimir uma grande tiragem a um custo reduzido. Creio que muitos se sentirão compelidos a adquiri-lo apenas ao ler a manchete. Ademais, ao comercializá-lo durante palestras e simpósios regionais, a compreensão de todos se dará de forma muito mais célere.
+
+Li nos jornais, ontem ou anteontem, que um agricultor, diante da gravidade da situação, cometeu suicídio. E, segundo consta, há muitos outros casos que sequer chegam a ser noticiados. Diante desse cenário desolador, o governo estuda diversas contramedidas, mas nenhuma proposta eficaz parece surgir; é uma situação sem saída. Os camponeses, por sua vez, apresentam suas espigas ressequidas às autoridades na esperança de obter isenção de impostos ou redução das cotas de entrega. Estão, de fato, sem alternativas.
+
+Neste ano, ainda conseguiremos nos manter com o arroz importado, mas não há qualquer garantia de recuperação para o próximo. A única esperança reside em depender da benevolência do clima. Portanto, a solução seria cultivar um arroz tão robusto que permanecesse inabalável diante das intempéries, das inundações ou dos danos causados pelo frio. Contudo, desconhecem o método para tal. É uma analogia perfeita com o ser humano: o ideal é tornar-se tão forte que a invasão de micróbios não lhe cause mal algum. Assim são os fiéis da Sekaikyuseikyou, para quem a tuberculose não representa ameaça e as doenças infecciosas são bem-vindas, a ponto de desejarem contrair disenteria o mais rápido possível. O solo do Japão deveria ser fortalecido da mesma maneira.
+
+Todavia, assim como os medicamentos debilitam o corpo humano, os adubos debilitam a terra. Isso é absolutamente nítido. A própria motivação que me levou a essa descoberta originou-se no estudo do yakudoku. A grande questão é o que fazer a partir do próximo ano. A importação de arroz representa um fardo colossal para a economia japonesa. Já sofremos com um déficit na balança comercial; arcar com a compra de arroz tornará o quadro ainda mais grave. O custo das importações deste ano certamente ultrapassará duzentos bilhões de ienes, aproximando-se, talvez, de trezentos bilhões. Se tivermos de despender tal quantia, jamais conseguiremos nos reerguer, por mais que trabalhemos.
+
+Ademais, o prejuízo não se resume ao custo das importações; os danos indiretos às áreas rurais são imensos. A perda de mão de obra é, obviamente, um fator, mas a devastação dos campos de arroz pelas inundações também é gravíssima. Nesse sentido, recebi um relato interessante da província de Mie. Uma plantação foi inundada pela água do mar devido a uma maré alta. Enquanto todos os campos vizinhos foram completamente perdidos, apenas a área de Agricultura Natural permaneceu incólume, verdejante e viçosa. Diante dessa cena, os agricultores da região finalmente despertaram para a verdade. A explicação é manifesta: as raízes são firmes e bem distribuídas, o que impede que as plantas sejam arrancadas. Aqueles que praticam o método sabem que as raízes se alongam e desenvolvem inúmeros pelos radiculares. O solo, por sua vez, torna-se mais forte e, com isso, envolve as raízes com firmeza.
+
+Novamente, a semelhança com o ser humano é notável. Uma pessoa que não utiliza medicamentos, ao se ferir, tem o sangramento estancado rapidamente. Já aquela cujo organismo está repleto de yakudoku, quando se fere, o sangue custa a parar. A analogia com o arroz é perfeita. Dessa forma, as toxinas dos fertilizantes debilitam o arroz, o solo e, consequentemente, tudo o mais. O fato de a Agricultura Natural ter obtido resultados tão extraordinários neste ano, em contraste com o fracasso retumbante da agricultura convencional, revela a maneira drástica que Deus encontrou para nos fazer despertar, como se dissesse: “Ainda não compreendem?”. Isso é algo extremamente auspicioso. A má colheita deste ano é, na verdade, uma excelente oportunidade para que se compreenda a Agricultura Natural. O prejuízo dura apenas um ano, mas, se as pessoas tomarem consciência, o benefício será eterno. Por essa razão, em províncias como Hyogo, Mie e Gifu, o que ocorre é esplêndido. Relatam-me que multidões de visitantes acorrem diariamente para observar os campos. Em consequência, o número de membros tem aumentado vertiginosamente. É impossível prever a dimensão que isso tomará em dois ou três anos. Trata-se, verdadeiramente, da maior salvação concedida ao Japão desde os seus primórdios.
+
+Recebi também um outro relato deveras interessante, não sobre o cultivo do arroz, mas sobre o grão colhido. O arroz proveniente do método sem adubos não é atacado por insetos. Enviaram-me até mesmo uma fotografia como prova, a qual pedirei que leiam em seguida.
+
+Como podem ver, a gravidade das toxinas dos fertilizantes se manifesta até mesmo no arroz já colhido. E, conforme está escrito, essa é também uma causa fundamental de doenças. Os seres humanos de hoje são, em verdade, de uma insensatez descomunal.
+
+Ontem, recebi um relatório do Sr. Higuchi. Aparentemente, ele tem estado muito ocupado e não pôde escrever extensamente — este é apenas o segundo relatório deste mês —, mas, como de costume, as notícias são excelentes.
+
+Esta é a situação por lá. O Havaí, ao que parece, é composto por cinco ilhas, e em cada uma delas já foi estabelecida uma unidade religiosa. Creio que a difusão se alastrará gradualmente, como fogo em pradaria. O povo de lá é extremamente receptivo, o que torna o avanço da Obra muito harmonioso e tranquilo. É verdade que o Japão também foi assim no início, mas os espíritos malignos criaram toda sorte de obstáculos, e o progresso não foi tão sereno. Contudo, em última análise, isso também fez parte da Obra Divina, pois, em decorrência dessas dificuldades, muitas outras coisas boas aconteceram.
+
+Com o avanço gradual da Obra, a partir do próximo ano, grandes transformações ocorrerão. Embora ainda não seja visível, o Mundo Espiritual tornou-se um lugar magnificamente aprimorado, e essa realidade começará a se manifestar gradativamente no Mundo Material. Portanto, podem nutrir grandes e felizes expectativas. Eu ainda teria muito a falar sobre o Museu de Arte e outros assuntos, mas, por falta de tempo, encerrarei por aqui.
+
+---
+
+# O Embate entre o Dragão Dourado e o Dragão Negro
+
+**Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S26年8月21日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
+
+## O Embate entre o Dragão Dourado e o Dragão Negro
+
+Tratemos da questão da cirurgia. Procurei elucidar o assunto da maneira mais clara possível na seção sobre medicina, em minha obra “A Criação da Civilização”. Portanto, se porventura encontrarem alguém que cogita submeter-se a uma intervenção cirúrgica, utilizem essa explanação como referência, pois ela certamente será a mais compreensível.
+
+Recentemente, no dia quinze, ocorreu uma audiência pública referente ao nosso caso. Nessa ocasião, o testemunho prestado pelo policial responsável pela investigação, lotado na delegacia de Ihara, revelou-se um amálgama de inverdades e fabricações. Trata-se de um indivíduo de nome Matsushima, que se empenha com afinco em forjar uma acusação contra nós. Ao observá-lo sob uma perspectiva espiritual, percebemos que ele é um Dragão Negro, o líder supremo dessa estirpe. Essa constatação remonta ao incidente do ano passado, e todos os demais envolvidos são apenas seus sequazes.
+
+Já em outra oportunidade, à época dos acontecimentos, mencionei a presença de dragões, especificamente, do Dragão Negro. Pois bem, na véspera da audiência do dia quinze, minha esposa teve um sonho revelador: um imenso e comprido dragão negro, assemelhado a uma serpente, que inicialmente nos encarava, virou-se de lado e se escondeu sob o assoalho da varanda. Sem dúvida, foi uma visão concedida por Deus. Em essência, o que presenciamos é o embate entre os Espíritos Malignos e o Deus da Verdade.
+
+Os Espíritos Malignos valem-se de toda sorte de ardis em suas investidas. A esse respeito, pretendo futuramente escrever um livro intitulado “Crônicas da Guerra Divina”. Essa batalha vem se desenrolando, com efeito, desde 1945. Com uma perseverança incansável, o adversário lança mão de todas as táticas imagináveis em seus ataques, os quais se manifestam na forma desses diversos incidentes. Trata-se, portanto, de um magnífico combate puramente espiritual, um conflito que prossegue sem o uso de balas ou bombas. Se eu me puser a escrever sobre tudo isso, a obra se tornará deveras interessante.
+
+A verdade é que, no Mundo Espiritual, minha existência inspira um profundo terror nos Espíritos Malignos. Cientes de que o avanço da Igreja Messiânica representaria sua ruína, eles empregam as mais variadas estratégias para nos deter. Contudo, minha essência espiritual é a do Dragão Dourado, ao qual eles não podem se sobrepor. É por isso que as forças malignas atuam de forma tão intensa, incitando a imprensa a nos difamar e utilizando o poder constituído para nos perseguir, como no presente caso. O plano urdido pelos Espíritos Malignos no ano passado tinha como objetivo final a completa subversão de nossa Igreja.
+
+Assim chegamos aos dias de hoje. Todavia, com o passar dos anos, as forças malignas vêm enfraquecendo; já não possuem o vigor de outrora. No passado, foram muitas as tentativas de atentar contra a minha vida, mas hoje nosso poder e nossa influência se ampliaram, tornando a luta mais favorável. Os tempos também são outros; Cristo, por exemplo, chegou a perder a própria vida.
+
+Portanto, este incidente é uma manifestação desse grande conflito. A conspiração para nos destruir foi desmantelada. Sendo assim, o ocorrido é, em sua verdadeira essência, algo muito positivo. Não podemos, com isso, condenar os promotores ou a promotoria. Pelo contrário, devemos lhes ser imensamente gratos. Essa gratidão, contudo, refere-se ao aspecto espiritual. No plano material, é imperativo que prossigamos com essa causa, pois, do contrário, muitas pessoas continuarão a sofrer neste mundo.
+
+Vemos inúmeros casos como o do homem que, condenado por assassinato à prisão perpétua, foi libertado após três anos quando o verdadeiro culpado apareceu. Geralmente, no entanto, as vítimas acabam se resignando à injustiça em silêncio. Isso ocorre com pessoas sem recursos, que não têm como contratar um advogado e são forçadas a aceitar seu destino, como no caso daquele homem sentenciado. Aqueles com algum poder de reação tentam lutar, mas, ao expressarem sua indignação, correm o risco de ofender as autoridades e ter sua pena agravada. Por isso, optam pelo silêncio. Eu, por outro lado, nada tenho a temer. Possuo os meios para contratar excelentes advogados e, por isso, posso agir com total determinação.
+
+Minha intenção é imprimir este relato e distribuí-lo ao juiz e aos promotores, um ato que posso realizar com a consciência tranquila, pois nada me incrimina. Ao fazê-lo, estarei também ajudando todos aqueles que, até hoje, foram obrigados a aceitar em silêncio acusações forjadas. Ademais, é nosso dever contribuir, ainda que minimamente, para a melhoria do sistema judicial japonês e suas práticas antidemocráticas. Trata-se, em última análise, de uma outra faceta da salvação.
+
+Recentemente, o senhor Kosaka, da editora “Hikari”, produziu uma obra intitulada “A Nova Violência”. Nela, ele transcreveu na íntegra meu “Relato da Perseguição Religiosa” e incluiu também pareceres de outras personalidades ilustres. O livro será comercializado para o público geral, e cuidaremos para que exemplares sejam distribuídos a pessoas importantes em diversas áreas.
+
+Quanto ao “Relato da Perseguição Religiosa” original, produzimos apenas dez mil cópias em edição limitada. Portanto, os fiéis que ainda não o possuem devem adquirir esta nova publicação. Planejamos também anexar um suplemento sobre a audiência atual, destinado exclusivamente aos nossos membros.
+
+---
+
 # A Ciência em seu Limite e a Verdade sobre a Purificação
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年7月26日） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1953-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Ciência em seu Limite e a Verdade sobre a Purificação
 
@@ -64,7 +194,7 @@ Dessa forma, como os cosméticos são também uma forma de toxina, não é preci
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年5月25日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Edificação do Sagrado e a Purificação do Mundo
 
@@ -118,7 +248,7 @@ Para os fiéis, portanto, a disenteria deve ser encarada como um processo bem-vi
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年12月26日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Sabedoria Divina no Veredito Judicial
 
@@ -151,7 +281,7 @@ Sobre o Johrei: quando os dedos estão separados, cria-se um espaço entre eles;
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年2月25日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Comprovação da Agricultura Natural e sua Ampla Divulgação
 
@@ -205,7 +335,7 @@ Creio que já me estendi o suficiente sobre a agricultura. Embora o tempo seja e
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年2月25日） | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1954-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Purificação no Indivíduo e na Sociedade
 
@@ -239,7 +369,7 @@ Por fim, redigi um texto que esclarece a verdadeira natureza dos medicamentos, u
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 秋季大祭御講話 （S27年9月25日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Protótipo do Paraíso e o Desígnio Divino
 
@@ -305,7 +435,7 @@ Contudo, como a palestra já se estendeu e temos o Johrei a seguir, encerrarei p
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 秋季大祭御講話 （S26年9月25日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Materialização do Paraíso e a Erradicação do Sofrimento
 
@@ -353,7 +483,7 @@ Desse modo, Deus vem realizando preparativos em escala mundial há muito tempo. 
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年2月5日） | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1954-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Manifestação do Juízo Divino e a Nova Era
 
@@ -403,7 +533,7 @@ Até agora, Deus determinava que esses mistérios não fossem revelados. Contudo
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 立春祭御講話 （S28年2月5日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Início da Grande Transição Mundial
 
@@ -479,7 +609,7 @@ Em suma, os acontecimentos se tornam cada vez mais interessantes. O Plano Divino
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年8月17日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Expansão da Obra Divina em Meio à Luta Espiritual
 
@@ -535,7 +665,7 @@ A seguir, como me perguntam com frequência sobre obras de assistência social, 
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （28年11月1日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Revolução da Agricultura Natural e o Plano Divino
 
@@ -609,7 +739,7 @@ Acabamos falando apenas sobre agricultura, mas se houver alguma pergunta, por fa
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S27年4月1日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## O Discernimento Espiritual e a Construção do Paraíso Terrestre
 
@@ -719,7 +849,7 @@ Quando o Paraíso Terrestre estiver pronto, construiremos o Templo Principal, do
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年7月1日 | **Fonte:** Toho no Hikari
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-07-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 東方の光
 
 ## A Superstição e a Verdadeira Salvação
 
@@ -783,7 +913,7 @@ Assim, foram estabelecidos os três poderes: o de governar, o de salvar e o de j
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年9月5日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Banalização do Mal
 
@@ -815,7 +945,7 @@ Ainda assim, existe o que se chama de “agonia final”. Certas religiões de m
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年9月5日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Manifestação do Espírito Guardião e a Purificação Mundial
 
@@ -861,7 +991,7 @@ O apêndice de "A Nova Violência" será publicado, e meu desejo é que ele seja
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年3月17日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Política, a Ordem no Johrei e a Arte Floral
 
@@ -919,7 +1049,7 @@ Poderia falar sobre isso por horas, mas o tempo é curto, então encerrarei por 
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年3月17日） | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Barbárie da Cultura Moderna e o Alvorecer da Verdadeira Civilização
 
@@ -981,7 +1111,7 @@ Ainda haveria muito mais a dizer, mas o tempo se esgotou. Por hoje, encerro aqui
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （28年3月1日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Gênese da Única e Verdadeira Nova Religião
 
@@ -1015,7 +1145,7 @@ Bem, discorri sobre os pensamentos que me ocorreram no momento. Contudo, como es
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年5月5日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Legado do Príncipe Shotoku e a Missão Messiânica
 
@@ -1053,7 +1183,7 @@ A meu ver, nesse aspecto, estão abaixo dos povos primitivos. Se um desses povos
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年12月6日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre a Revolução Agrícola e a Verdade da Medicina
 
@@ -1069,7 +1199,7 @@ O relato descreve os sentimentos com tamanha profundeza que é impossível lê-l
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年4月17日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Vislumbres da Nova Era: Agricultura, Arquitetura e Arte
 
@@ -1105,7 +1235,7 @@ Nesse sentido, gostaria de solicitar que estejam atentos à procura de pessoas q
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年10月5日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Princípio da Força Infinita
 
@@ -1161,7 +1291,7 @@ Se eu a explico hoje de forma tão detalhada é porque, embora eu mesmo compreen
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## A Influência da Linhagem Espiritual
 
@@ -1185,7 +1315,7 @@ Cada indivíduo, portanto, está intrinsecamente ligado por essas linhas espirit
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年8月1日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Visão Espiritual sobre a Doença e a Cura
 
@@ -1203,7 +1333,7 @@ Por desconhecerem tais verdades, os seres humanos praticam o mal. E o que signif
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S27年8月1日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Revelação do Ardil Divino
 
@@ -1285,7 +1415,7 @@ Isso é um fato. Seria bom publicar esses relatos na revista "Eikou". Há algum 
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年12月6日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Argúcia na Observação das Pessoas e do Mundo
 
@@ -1345,7 +1475,7 @@ Mudando drasticamente de assunto, gostaria de abordar um tema interessante sobre
 
 **Categoria:** kouwa | **Ano:** 昭和22(1947)年11月 | **Fonte:** 祝辞 昭和
 **Título Original:** 日本観音教団発会式 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1947-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 祝辞 昭和
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 祝辞 昭和
 
 ## Mensagem por Ocasião da Fundação da Nihon Kannon Kyodan
 
@@ -1365,7 +1495,7 @@ Todavia, à medida que a Obra se expande, embora se torne mais gratificante, as 
 
 **Categoria:** kouwa | **Ano:** 昭和16(1941)年9月11日 | **Fonte:** Kenko
 **Título Original:** 丸の内中央亭御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1941-09-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 健康
 
 ## A Causa Espiritual das Doenças e a Salvação da Humanidade
 
@@ -1534,7 +1664,7 @@ Como estou proibido de praticar religião, falei sem tocar no assunto. Chegará 
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年11月17日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1953-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Relação entre a Sorte e a Purificação
 
@@ -1588,7 +1718,7 @@ Recentemente, tenho notado um aumento expressivo nos anúncios de medicamentos i
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年3月15日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Construção dos Museus e o Plano Divino
 
@@ -1624,7 +1754,7 @@ Mas, por ora, encerremos este assunto. Tenho agora algo bastante interessante a 
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年1月2日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Transição para a Nova Era e a Missão da Arte
 
@@ -1684,7 +1814,7 @@ Creio que, por ora, minhas palavras são suficientes.
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## O Poder do Papel Sagrado e a Luta Espiritual
 
@@ -1728,7 +1858,7 @@ Em essência, quando uma pessoa não pende para nenhum extremo — seja o vertic
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年8月15日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Expansão da Luz e a Purificação do Mundo
 
@@ -1764,7 +1894,7 @@ A purificação se intensifica gradualmente. Neste ano, por exemplo, o número d
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年1月16日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Vitória pela Virtude e a Revolução Médica
 
@@ -1790,7 +1920,7 @@ Em suma, a questão se resume aos medicamentos. O pavor que eles representam nã
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年9月7日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Sabedoria Divina como Discernimento para a Salvação
 
@@ -1840,7 +1970,7 @@ E o número de pessoas assim está aumentando. À medida que as toxinas dos medi
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年1月16日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Os Princípios Espirituais da Agricultura Natural
 
@@ -1879,180 +2009,6 @@ Todas as coisas possuem espírito. E, por possuírem espírito, reagem de acordo
 Lançar excrementos sobre tais seres, evidentemente, não pode ser bom. A raiz do problema está aí. Como mencionei anteriormente, as energias espirituais do Fogo, da Água e da Terra se fundem, dando origem a um poder invisível – que designei como “X” por falta de um nome –, o qual constitui a base de todas as coisas. Este é o verdadeiro fertilizante. O solo é matéria, mas está repleto da energia espiritual controlada dessa trindade. Tal energia pode se adensar ou se rarefazer; quando o homem a ama e não a macula, ela se adensa. Eis o que é o fertilizante. Por ser invisível, a ciência jamais o compreenderá, por mais que o investigue. Na verdade, a ciência apenas interfere e prejudica o processo.
 
 Este é o significado fundamental, e é preciso ensiná-lo gradualmente aos agricultores. Contudo, mais eficaz do que ensinar é permitir que constatem os resultados. Quando obtiverem uma colheita excelente e se perguntarem: “Isto é um milagre, qual a razão?”, o momento será propício para lhes explicar o princípio, e eles o compreenderão imediatamente. Do contrário, a compreensão não será tão simples.
-
----
-
-# A Verdadeira Posição da Arte Japonesa no Mundo
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年2月7日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## A Verdadeira Posição da Arte Japonesa no Mundo
-
-Há dois ou três dias, estive em Hakone para inspecionar o Museu de Arte e decidi registrar por escrito as impressões que tive na ocasião. Conforme o texto que acabam de ouvir, a arte japonesa, na prática, não pode ser apreciada. Não existe sequer um local dedicado a exibi-la. Embora o Japão seja reconhecido como uma nação de grande relevância artística e seu povo, dotado de notável talento, é no mínimo paradoxal que as obras-primas que cria permaneçam inacessíveis. Por conseguinte, mesmo os estrangeiros desconhecem a arte japonesa, simplesmente por não terem onde contemplá-la.
-
-O pouco que se vê não representa a verdadeira excelência; as peças realmente boas quase nunca são vistas. O acesso se resume, em geral, a fotografias ou catálogos. Contudo, as reproduções coloridas são raras, e a maioria das imagens é em preto e branco, o que subtrai enormemente o encanto da obra, pois a arte, sem suas cores, perde grande parte de seu interesse, restando apenas a forma. Diante dessa lacuna, é natural que os estrangeiros, especialmente aqueles com grande apreço pela arte, se voltem para a coleção de arte chinesa.
-
-Um exemplo elucidativo foi a exposição realizada durante a Conferência de Paz de São Francisco. Das mais de cem peças enviadas pelo Japão, a grande maioria — cerca de dois terços, como pude constatar pessoalmente em uma exibição posterior no museu — era de arte budista. Os estrangeiros demonstram, de fato, grande admiração pela arte budista japonesa, em especial por suas esculturas, e anseiam por conhecê-las. Todavia, as melhores obras estão consagradas nos templos. É impraticável para um visitante estrangeiro peregrinar de templo em templo e, ainda que o fizesse, muitas dessas peças são objetos centrais de veneração, mantidas longe dos olhos do público. Quanto a outras expressões artísticas, como a cerâmica e o *makie*, sua presença foi praticamente nula na referida exposição.
-
-Ora, quando se trata das manifestações artísticas que conferem uma identidade ímpar ao Japão, destacam-se, na pintura, as obras da Escola Rinpa, representadas por mestres como Korin, Sotatsu e Kenzan. Trata-se de um patrimônio de orgulho mundial. No entanto, na exposição de São Francisco, não havia sequer uma única peça dessa escola. Na cerâmica, os expoentes são Ninsei, Kenzan e Nabeshima. Na pintura, além da Escola Rinpa, temos a Escola Tosa, com seu estilo *yamato-e*, e também o *ukiyo-e*. Apenas estes podem ser considerados estilos autenticamente japoneses.
-
-Embora muitas obras antigas pertençam à Escola Kano, esta é, em essência, uma derivação da arte chinesa das dinastias Song e Yuan; inspirou-se nela, sendo uma espécie de adaptação. Portanto, a pintura genuinamente japonesa resume-se às escolas Rinpa e Tosa (*yamato-e*) e ao *ukiyo-e*. No campo da cerâmica, os estilos verdadeiramente singulares são os já mencionados: Ninsei, Kenzan e Nabeshima, pois as demais vertentes são, em grande parte, imitações dos estilos chinês e coreano. Há outras peças de valor, como as de Kakiemon, que, embora famosas, considero de menor importância por serem, em grande parte, releituras de vários estilos chineses.
-
-Existe também a chamada cerâmica de Owari, frequentemente utilizada em utensílios para a cerimônia do chá, com estilos como Karatsu, Shino, Oribe e Seto. Nela, encontramos obras de notável qualidade e com características próprias, mas sua origem remonta ao ensinamento de artesãos coreanos que vieram ao Japão. As demais influências, em sua maioria, provieram da China. Assim, o que define a singularidade da arte japonesa são, de fato, os estilos de pintura e cerâmica que mencionei. A estes, devemos acrescentar o *makie*, que representa, verdadeiramente, a característica mais distintiva da arte nipônica, uma técnica que não se encontra em nenhum outro lugar do mundo.
-
-É comum o argumento de que o *makie* se danifica ao ser levado para os Estados Unidos, pois o laqueado é extremamente sensível à secura, e o ar americano, especialmente em regiões como Chicago, é muito seco. Diz-se que as peças se desfazem, quebram em pedaços. Contudo, isso ocorre apenas com obras de qualidade inferior. Uma peça verdadeiramente bem executada jamais sofrerá tal dano. Se obras de excelência fossem exibidas, tal problema não ocorreria. Infelizmente, muitos expositores, ao ouvirem esses rumores sem conhecer a verdade, simplesmente se abstêm de enviar peças de laca.
-
-Tudo o que acabo de descrever constitui a autêntica arte japonesa. Em Hakone, minha intenção é apresentar principalmente estas obras. Creio que muitos japoneses, ao visitarem o museu, ficarão surpresos e pensarão: “Será que algo tão belo foi realmente criado no Japão?”. Os estrangeiros, por sua vez, certamente compreenderão o imenso valor da nossa arte. O *ukiyo-e*, por exemplo, é aclamado no exterior principalmente por suas xilogravuras. Embora sejam apreciadas, não representam o ápice desse estilo. Os estrangeiros simplesmente não têm a oportunidade de ver as pinturas originais a pincel, e, quando as veem, são poucas e de difícil aquisição. Por desconhecimento, acabaram por supervalorizar as gravuras. Por essa razão, as xilogravuras do *ukiyo-e*, especialmente as primeiras impressões de boa qualidade, são extremamente cobiçadas no exterior, alcançando preços de cem ou duzentos mil ienes por uma única folha. Em contrapartida, as pinturas a pincel custavam uma fração desse valor. Percebendo essa distorção, dediquei-me a reunir as pinturas, pois eram obras de qualidade superior a um custo muito mais acessível. Hoje, seus preços já subiram, mas consegui formar uma coleção considerável de peças de primeira linha. Acredito que, ao exibi-las, causaremos grande admiração.
-
-A propósito, haverá em breve uma exposição de cerâmica chinesa em Los Angeles, com foco principal na cerâmica da dinastia Song. Recebemos um convite para que o Japão participasse, e há pouco tempo enviamos quinze peças. A cerâmica chinesa da dinastia Song é, de fato, algo extraordinário. Pretendo exibi-la em Hakone também. Gostaria de apresentar as melhores peças existentes, mas isso é impossível, pois as obras supremas se encontram nos museus americanos; não há nada que se compare a elas nem na China, nem no Japão. Contudo, possuímos as que vêm em seguida, e estas estarão em nosso museu.
-
-O apogeu da arte chinesa ocorreu durante a dinastia Song, especialmente no período Song do Norte. Retrocedendo ainda mais, temos a dinastia Tang, que também produziu obras de grande qualidade, mas nada supera o período Song, que se iniciou há cerca de novecentas e tantas décadas, quase mil anos. Essa dinastia perdurou por cento e oitenta anos, correspondendo, no Japão, ao período que vai de Konin a Fujiwara. Há uma notável sincronia entre os dois países.
-
-No Japão, a arte budista floresceu inicialmente nos períodos Suiko, Asuka, Hakuho e Tempyo, há mil e duzentos ou trezentos anos, gerando obras que ainda hoje nos maravilham. Durante o período Fujiwara, que correspondeu à dinastia Song na China, a arte budista continuou a existir, mas diversas outras formas de expressão artística surgiram, já na era Heian. A sintonia entre as épocas é evidente. Mais tarde, no período Ashikaga, os xoguns Yoshimitsu e Yoshimasa desenvolveram um profundo respeito pela arte chinesa e a importaram em grande quantidade. Foi assim que muitas obras notáveis da dinastia Song chegaram ao Japão e aqui permaneceram. Como essas peças são raras nos Estados Unidos, os organizadores da exposição solicitaram a contribuição do Japão.
-
-A cerâmica chinesa é objeto de profundo estudo nos Estados Unidos e na Inglaterra, onde há diversos especialistas no assunto. Eles possuem um levantamento detalhado de onde se encontra cada peça de cerâmica japonesa. Para esta exposição, por exemplo, recebemos solicitações específicas, indicando a obra e seu proprietário, mesmo se tratando de coleções particulares. Assim, enviamos as quinze peças designadas. Eles conhecem a cerâmica chinesa, mas desconhecem a japonesa. Minha intenção é apresentar obras que os façam reconhecer o seu valor.
-
-Na China, a dinastia Song foi um período de florescimento não apenas para a cerâmica, mas para a cultura em geral. Os mais ilustres monges budistas surgiram nessa época. Diversos imperadores da dinastia Song incentivaram as artes, resultando na criação de obras magníficas. Atualmente, diz-se que, mesmo na China, é impossível replicá-las; desconhecem por completo os segredos do barro e dos esmaltes utilizados.
-
-Após a dinastia Song, veio a dinastia Ming, que foi bastante longa. Em seu início, durante a era Xuande, produziram-se peças de excelente qualidade. Enquanto a cerâmica Song era majoritariamente monocromática, na dinastia Ming surgiram peças com decorações em vermelho e outras cores, em eras como Jiajing, Chenghua e Wanli. O auge foi atingido na era Jiajing. As peças vermelhas desse período serviram de modelo para a cerâmica japonesa de Kakiemon e Imari. Já no período moderno da China, durante os reinados de Kangxi e Qianlong, a técnica tornou-se extremamente habilidosa, mas as obras adquiriram um aspecto vulgar, de pouco valor estético.
-
-Existe um paralelo interessante: a dinastia Ming na China corresponde ao período Momoyama no Japão, época em que também foram criadas obras suntuosas e de grande valor. Os períodos de ouro da arte japonesa foram Fujiwara, Kamakura, Momoyama, Genroku e Meiji. A partir da era Showa, em parte devido à guerra, houve um declínio acentuado.
-
-Esta explanação se assemelhou a uma aula de história da arte, mas serve para contextualizar. Por todas essas razões, acredito que o Museu de Arte de Hakone será o melhor do mundo em sua proposta. Afinal, não há outro lugar dedicado a exibir a verdadeira arte japonesa. Tenho certeza de que, uma vez que se torne conhecido, atrairá um número imenso de visitantes. Para os estrangeiros que vierem a Hakone, a visita ao museu se tornará obrigatória.
-
-Mas, por ora, encerro aqui minhas considerações sobre o museu.
-
----
-
-# Os Perigos da Possessão Espiritual e a Busca da Verdade
-
-**Categoria:** kouwa | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S26年11月15日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## Os Perigos da Possessão Espiritual e a Busca da Verdade
-
-Eu sempre alerto sobre o perigo da possessão espiritual. No início, é um fenômeno que desperta enorme interesse; eu mesmo, em meus primórdios, dediquei-me bastante a essa prática. Contudo, concluí que ela acarreta graves malefícios e, por ter sofrido as consequências de lidar com a possessão, abandonei tal caminho.
-
-Recordo-me de um caso da época em que eu pertencia à Oomoto. Havia um jovem, funcionário da loja que eu mantinha naqueles tempos de comerciante. Ele se tornou um seguidor fervoroso da Oomoto, onde havia uma prática chamada *chinkon kishin*, que consistia em emitir um espírito pela ponta dos dedos, em um princípio análogo ao do Johrei. Ao se dedicar a essa prática, ele começou a ser assediado por toda sorte de espíritos. Achando o fenômeno fascinante, aprofundou-se cada vez mais, até que, por fim, desenvolveu uma doença mental e tirou a própria vida, atirando-se nos trilhos de um trem.
-
-Essa tragédia me fez compreender quão perigosa é a possessão espiritual e que não devemos nos envolver com ela. Por isso, deixei de praticá-la. Houve ainda um ou dois outros casos de pessoas que enlouqueceram, embora, felizmente, tenham se recuperado. Fica claro, portanto, que a possessão é algo de extremo risco.
-
-Evidentemente, existem manifestações benéficas. À medida que avancei em minhas pesquisas sobre o Mundo Espiritual, aprendi a discernir com clareza as diversas naturezas dos fenômenos, distinguindo o bem do mal. Com esse conhecimento espiritual, os perigos diminuem consideravelmente. No entanto, adquirir tal discernimento exige longos anos de disciplina e experiência.
-
-Assim, para o público em geral, é uma senda muito difícil. Além disso, o Mundo Espiritual se transformou em relação ao passado e, hoje, podemos salvar as pessoas sem recorrer a tais práticas. O mais seguro, portanto, é não ter qualquer contato com a possessão espiritual, estabelecendo como regra que se trata de algo incorreto. As pessoas que se apegam a esses fenômenos não prosperam, pois Deus as rejeita. Em contrapartida, aqueles que não lhes atribuem importância são os que verdadeiramente se desenvolvem, seguindo o caminho correto. Conforme escrevi recentemente, essas práticas derivam do bramanismo. Atualmente, no Ocidente, também se utilizam formas de possessão, mas com uma abordagem científica que não representa grande perigo. No Japão, contudo, as práticas de ascetas e de certas seitas, como a Nitiren, frequentemente geram casos de desequilíbrio mental, pois não são genuínas. Pretendo detalhar este assunto em um artigo para jornal ou revista, abordando os fundamentos do transe mediúnico e o conhecimento essencial que se deve ter.
-
-Ainda sobre este tema, há um ponto que merece ser aprofundado: a capacidade de visão espiritual. Existem pessoas que veem espíritos, e aquelas que os enxergam constantemente estão, na verdade, sob a influência de espíritos de raposa, o que é muito perigoso. A manifestação genuína ocorre quando o Espírito Guardião principal deseja comunicar algo crucial; nesse momento, ele nos concede um vislumbre momentâneo. Isso é verdadeiro. Já a visão de luzes não apresenta problema algum. Contudo, ver vultos de pessoas com frequência não é um bom sinal; o correto é que tais visões ocorram apenas esporadicamente, quando necessário.
-
-O verdadeiro Deus é de uma simplicidade sublime. Nele, não há desperdício nem excesso. Portanto, à medida que a fé do ser humano se aprofunda e se purifica, ele também deve caminhar para essa simplicidade. Em conversas triviais, pode-se falar longamente, gracejar e se entusiasmar. Nos momentos decisivos, porém, é preciso ir direto aos pontos essenciais. Assim é o modo de agir de Deus.
-
-Vemos com frequência, especialmente entre as mulheres, pessoas que falam sem parar, de forma torrencial, sem que se compreenda o que disseram. É o espírito de raposa que fala por meio delas. Dominam a conversa, não permitem que o outro se manifeste. Pode-se considerar que quem age assim, monopolizando o diálogo, está sob influência de um espírito de raposa. É fundamental saber ouvir. Desde a antiguidade, diz-se que para ser um bom orador é preciso, antes de tudo, ser um bom ouvinte. Entretanto, apenas ouvir, concordar e pensar que entendeu muitas vezes não basta. A melhor conduta é escutar atentamente e, quando houver uma abertura, expor nosso ponto de vista.
-
-Outro ponto é a capacidade de responder adequadamente. É algo que se encontra com certa frequência entre os estrangeiros, mas é relativamente raro entre os japoneses. Muitas pessoas dão respostas que fogem ao cerne da questão. A pergunta não encontra seu alvo. Às vezes, a falha pode ser de quem pergunta, mas, no meu caso, quando questiono ou dialogo com alguém, raramente recebo uma resposta plenamente satisfatória. Essa capacidade de resposta é o melhor indicativo da inteligência de uma pessoa. Entre os homens, ela é mais comum; já entre as mulheres – e peço perdão pela franqueza –, é extremamente rara.
-
-A arte da conversação – que não é um mero artifício – requer um grande aprimoramento na forma de falar e de ouvir. O ponto crucial aqui é o que chamamos de *ma*: o tempo, a pausa, o ritmo da interação. Trata-se de uma espécie de cadência, quase uma forma de arte que precisa ser muito estudada. Deve-se buscar sempre a simplicidade e a clareza, focando nos pontos essenciais. É preciso observar a reação do interlocutor: se ele demonstra interesse e aguça os ouvidos, ou se, ao contrário, não parece cativado pelo que virá. Neste último caso, é melhor parar. Devemos ter a perspicácia de identificar os interesses da pessoa, aquilo que ela deseja ouvir. Se percebemos uma aflição específica, oferecemos a resposta para ela. É preciso discernir que tipo de linguagem será mais bem compreendida por cada um, adaptando a abordagem se nosso interlocutor é um intelectual ou uma pessoa comum.
-
-Trata-se de uma verdadeira arte. Devemos considerar o ambiente, a atmosfera, se estamos conversando a sós, com duas ou três pessoas ou diante de uma multidão. Há também os costumes e as particularidades de cada região. As pessoas de Kyushu são diferentes das de Hokkaido. Kyushu tem uma tradição antiga, e seus habitantes possuem o que se chama de "espírito de Kyushu". Hokkaido, por sua vez, é uma terra de migrantes; poucos são os nativos, que seriam os Ainu. A maioria veio de outras partes do Japão. Cada povo tem sua cor: os do nordeste, os da região de Quioto, os de Tóquio. Todos são diferentes. Para cada um, há uma maneira apropriada de falar e de agir. Embora pareça complexo, não é preciso pensar de forma tão complicada; basta ter ciência de que essas nuances existem.
-
-Não se deve complicar os pensamentos, mas tampouco ser simplista em demasia. Pensar excessivamente pode levar a maus resultados. Por isso, devemos buscar a simplicidade ao máximo. Eu mesmo, por vezes, sou tentado a complicar as coisas, mas me esforço para pensar de modo muito simples. Feito isso, o restante entrego a Deus. Desse modo, minha mente está sempre em paz. Quando o ser humano está com a mente serena, bons pensamentos surgem. Se não há serenidade, não há espaço para que eles aflorem. Manter a mente vazia, portanto, facilita o surgimento de boas ideias.
-
-Essas boas ideias são, na verdade, inspirações que o Espírito Guardião principal nos concede. Deus não se comunica diretamente com o ser humano; Ele transmite Suas mensagens ao Espírito Guardião, que, por sua vez, as repassa a nós. Contudo, se a mente está sobrecarregada, a “antena” espiritual não funciona bem, e a mensagem não é captada. Eis o motivo pelo qual as boas ideias não vêm. É uma espécie de inspiração que requer um estado de espírito tranquilo e relaxado.
-
-Naturalmente, quando temos preocupações e assuntos pendentes, não é fácil atingir esse estado. Mas há uma maneira de consegui-lo. Antigamente, quando diversas preocupações me afligiam, eu não conseguia pensar em mais nada. Todavia, à medida que aprofundei minha fé, aprendi a entregar tais questões a Deus e, simplesmente, esquecê-las. É um hábito que se adquire, uma forma de disciplina. Muitas pessoas se espantam ao me ver sorrindo enquanto me relatam suas graves preocupações. Para a maioria, essa atitude é inconcebível.
-
-Gostaria de abordar agora um assunto correlato: a mentira. Parece-me uma característica do povo japonês. Os japoneses mentem de uma forma impressionante. Não se trata de uma mentira consciente; o ato de mentir tornou-se um hábito tão arraigado que eles já não têm consciência de que o fazem. A mentira está impregnada em seu ser. Ao ouvir as pessoas, posso afirmar que é praticamente impossível encontrar quem fale com total honestidade. Sempre há uma inverdade, que o próprio emissor acredita ser a verdade. Quando aponto a mentira e mostro qual é a verdade, alguns ainda assim não compreendem. Só quando lhes explico detalhadamente o que é falso e o que é real é que eles finalmente dizem: "Ah, entendo." Assuntos simples são deliberadamente complicados com mentiras. Isso é muito comum entre pessoas de posição elevada. Quando surge um problema que poderia ser resolvido de forma simples e honesta, elas o tornam complexo. Certa vez, alguém me aconselhou a agir de determinada maneira em uma situação, mas era um conselho baseado na falsidade. Ao segui-lo, os resultados foram ruins; as coisas não fluíram. A partir de então, passei a agir sempre de acordo com o que eu mesmo pensava. Quando ajo de forma direta e transparente, tudo corre bem.
-
-A honestidade é o melhor caminho. Quando se é honesto, nada pesa na mente; a consciência fica tranquila, e os bons pensamentos podem emergir. A mentira gera apegos. Se a pessoa consegue distinguir claramente em si mesma o que é verdade e o que é mentira, ela estabelece um padrão sólido, e sua condição espiritual se eleva. Para os fiéis, em particular, manter a mente vazia para receber as orientações do Espírito Guardião significa, acima de tudo, não mentir. Se não houver impureza no coração, se houver sinceridade, pode-se dizer a verdade sem qualquer receio. Antigamente, minha esposa costumava me repreender: "Você não deveria dizer essas coisas!". Mas eu sempre digo tudo como é. E, para minha surpresa, as pessoas geralmente reagem com simpatia.
-
-Eu mesmo, por vezes, digo coisas que podem soar bastante duras, especialmente no início da minha missão. Ao falar com toda a franqueza, seria de se esperar que o interlocutor ficasse zangado, mas, em vez disso, ele costuma sorrir. Nesse aspecto, creio que os americanos são muito honestos. Vejo nos filmes, nos diálogos, uma sinceridade que raramente se encontra entre os japoneses. É por essa razão que a sociedade americana me parece tão transparente. É certo que o povo japonês, oprimido durante a era feudal, aprendeu que falar abertamente gerava mal-entendidos. Foi uma consequência política. Naquela época, era preciso disfarçar tudo.
-
-Meus primeiros escritos, como *Ashita no Ijutsu* e *O Evangelho do Céu*, foram redigidos de forma bastante velada, indireta. Dizem que não são incisivos, mas na época era impossível escrever de outra maneira. *O Evangelho do Céu* já é bem diferente. Em meus textos mais recentes, escrevo com muito mais liberdade e sou mais direto. Mesmo assim, ainda sinto certa reserva em relação aos médicos e a outros setores.
-
-Já na obra que estou escrevendo agora, *A Criação da Civilização*, não há nada disso. Escrevo exatamente o que penso, sem rodeios. Como me dirijo ao mundo inteiro, não há necessidade de uma escrita rebuscada ou indireta, pois assim a mensagem não seria compreendida em sua totalidade. Além disso, com a liberdade de expressão que temos hoje, não há qualquer impedimento. Quando a obra for publicada, todos poderão constatar isso com clareza.
-
----
-
-# A Verdadeira Paz e a Obra Divina
-
-**Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S27年11月15日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## A Verdadeira Paz e a Obra Divina
-
-Atualmente, estou em processo de adaptação a uma prótese dentária, e por isso minha dicção está um tanto imprecisa, como se as palavras escapassem. Em virtude disso, hoje farei mais leituras do que o habitual. Peço-lhes a compreensão.
-
-O pacifismo, em seus resultados, acaba por prestar um auxílio ao Partido Comunista. Escrevi a esse respeito e pedirei que leiam o artigo agora.
-
-(Leitura do artigo "Uma Reflexão sobre o Pacifismo", publicado na Eikō n.º 184)
-
-A recente conferência de budistas, por exemplo, foi realizada com grande alarde. A proposta de que toda a Ásia coopere para a concretização da paz é, em si, louvável. Contudo, se todas as nações asiáticas adotarem o pacifismo, a União Soviética não encontrará a menor dificuldade para subjugá-las. Portanto, a militância pacifista de budistas e outros grupos, no fim das contas, torna-os cúmplices da União Soviética. O resultado é precisamente o oposto do que se almeja, e aí reside a complexidade da questão.
-
-Por outro lado, a religião, sob cuja bandeira atuamos, não nos permite defender abertamente o rearmamento. É por isso que sempre afirmo: a forma mais eficaz de pacifismo seria fazer com que Stálin abraçasse a fé religiosa. Sim, fazer com que ele ingressasse na fé. Fora disso, não há como alcançar a paz mundial. Manter a Cortina de Ferro intacta – embora não haja outra opção, pois nada se pode fazer a respeito – e ficar apenas protestando do lado de fora não só é inútil, como enfraquece nossa posição. Com isso, o outro lado apenas se torna mais ousado.
-
-Atualmente, há uma grande controvérsia no Japão a respeito do rearmamento, e um número considerável de japoneses se opõe a ele. Esses opositores dividem-se em dois grupos. O primeiro é composto por pessoas de visão limitada, que, por um sentimento simplório de já terem sofrido o bastante, não querem ver seus maridos, filhos ou pais irem novamente para a guerra. O segundo grupo é formado por indivíduos que, embora japoneses, nutrem o desejo de ver o Japão aniquilado e transformado em um Estado vassalo da União Soviética. Temos, portanto, a oposição dos ignorantes e a dos perversos. Gostaria de expor amplamente esses pontos, mas não é apropriado que um líder religioso se manifeste dessa maneira. Além disso, há outra razão: tudo isso faz parte do Plano Divino de Deus e, sendo assim, está correto. Foi sobre isso que escrevi brevemente.
-
-Em seguida, gostaria de abordar o fato de que a Igreja Messiânica é a religião do Sol. Mais do que uma religião, é a salvação pelo Sol. Embora eu sempre fale sobre isso, procurei aprofundar o tema no texto a seguir.
-
-(Leitura do artigo "A Salvação pelo Sol", publicado na Eikō n.º 183)
-
-Parece que, afinal, é preciso que eu fale um pouco.
-
-Recebo com frequência telegramas solicitando proteção para casos que deveriam ser resolvidos rapidamente, sem maiores dificuldades. A razão para a dificuldade, em termos gerais, reside em dois fatores: a incapacidade de identificar o ponto vital e a aplicação de força excessiva durante o Johrei. Esses são os pontos cruciais. Sendo assim, é preciso que se empenhem em aprimorar a habilidade de encontrar o ponto vital.
-
-Tenho insistido que não se deve aplicar força. A cura tarda ou o sofrimento não cede justamente porque se aplica força. É preciso relaxar completamente. No entanto, quando alguém sofre, a tendência é tensionar-se, e como sempre digo, o excesso de empenho prejudica a recuperação. É necessário ter isso sempre em mente para que, com a prática, o ato de ministrar sem força se torne um hábito.
-
-Quanto ao ponto vital, a causa geralmente é a febre, e esta, invariavelmente, concentra-se na região do pescoço. Observando as pessoas que passam por purificação, percebo que a quase totalidade, talvez oito ou nove em cada dez, apresenta o problema nessa área. O segredo é descobrir o nódulo ao redor do pescoço. A maneira mais eficaz de encontrá-lo é observar a pessoa de frente, olhando em direção à nuca e à região do bulbo. É mais fácil de perceber assim do que pedindo para a pessoa se virar.
-
-Verão que um dos lados do pescoço, esquerdo ou direito, estará inchado. Ao passar a mão por baixo, sentirão um nódulo na área do bulbo. Uma vez localizado, ministre Johrei à distância, sem aplicar força alguma. Esse é o método mais rápido para eliminar a febre. Uma leve pressão com os dedos é suficiente para detectá-lo. A testa também é um ponto fundamental. Em alguns casos, pode-se ministrar pelo topo da cabeça, em direção ao seu centro. Em resumo, os pontos são a testa e o pescoço. Com isso, a febre geralmente cede. Existem também febres nas costas ou na região lombar, mas essas não representam grande dificuldade. O essencial é a febre do pescoço. Experimentem seguir essa orientação que lhes dei sobre como identificar e eliminar a febre nessa região.
-
-Reitero que o nódulo na parte posterior é mais facilmente identificado olhando-se de frente do que por trás. Há casos em que um lado, o direito, por exemplo, está endurecido, e o esquerdo, macio. Existem também nódulos sob a mandíbula. Em suma, examinem minuciosamente a região do pescoço, e na maioria das vezes encontrarão a causa.
-
-Outro ponto: nos telegramas solicitando proteção, muitas vezes se esquecem de mencionar a idade, que é um dado crucial. Vejo nomes como "Fulano de Tal", que soam como de uma pessoa idosa, mas, ao verificar, trata-se de um bebê. Em outros casos, nomes como Hanako sugerem uma jovem, quando na verdade a pessoa é uma senhora já curvada pela idade. Portanto, peço que jamais se esqueçam de incluir a idade.
-
-Ao fazerem seus pedidos, muitos se dirigem tanto a "Komyō Nyorai" quanto a "Meishu-Sama". Basta dirigir-se apenas a "Meishu-Sama". A razão é que sou eu quem atua como Komyō Nyorai; a origem está em mim. Portanto, é suficiente que o pedido seja feito à origem.
-
-Até agora, não havia falado sobre o seguinte de forma explícita, mas, à medida que o tempo avança, irei esclarecendo diversas questões. É preciso que saibam disto: o trabalho que realizo atualmente é a Obra de Izanagi-no-Mikoto (伊邪諾尊). No *Kojiki*, há a passagem em que as duas divindades circundam o Pilar Celestial. Inicialmente, Izanami-no-Mikoto (伊邪冊尊), a divindade feminina, girou para a direita. O resultado foi que o mundo não prosperou; em suma, foi um fracasso. Diante disso, Izanagi-no-Mikoto disse: "Veja só! Eu avisei que não se devia começar pela direita, mas você insistiu e deu nisso. Agora, eu farei o giro para a esquerda". E, assim, o mundo foi ordenado.
-
-O giro para a direita representa o princípio *yushinsatai* – avanço pela direita, recuo pela esquerda –, que corresponde à predominância da matéria sobre o espírito. Ao girar para a esquerda, Izanagi-no-Mikoto instituiu a ordem correta. A medicina atual segue exatamente esse princípio da direita, da predominância da matéria. Em contrapartida, o Johrei, que prioriza o espírito, corresponde ao giro para a esquerda. A Obra que realizo, portanto, é a Obra de Izanagi-no-Mikoto.
-
-Recentemente, a esposa do Sr. Taga foi tomada pelo espírito de Amaterasu Omikami (天照大御神), que se referiu a mim como "Deus Supremo". Ela viera celebrar um acontecimento feliz, dizendo: "Desejo apresentar minhas felicitações ao Deus Supremo". Ao final, ela disse: "Peço a proteção do Deus Supremo". Trata-se de uma manifestação genuína.
-
-Isso demonstra que, embora o mundo considere Amaterasu Omikami a mais elevada das divindades, ela é, na verdade, filha de Izanagi e Izanami, como consta na história da Era dos Deuses. Amaterasu Omikami é filha de Izanagi-no-Mikoto. Em termos simples, ela seria como uma filha para mim. Por isso, Amaterasu Omikami não possui, por si só, o poder de salvar verdadeiramente a humanidade. Tsukuyomi-no-Mikoto também se manifestou para celebrar. Pretendo publicar esses relatos na revista *Chijō Tengoku*, mas ainda é um pouco cedo; talvez na edição de Ano Novo.
-
-É por isso que a salvação requer a união do Deus do Sol e do Deus da Lua. A Luz surge da união perfeita de ambos. Tanto o Sol quanto a Lua emitem luz, mas o verdadeiro poder da Luz só se manifesta quando os dois estão em perfeita harmonia. Assim, a Luz do Johrei que emana de mim é a luz conjunta do Sol e da Lua. O nome Komyō Nyorai, por exemplo, contém o ideograma 明, composto por 日 (sol) e 月 (lua). A Luz do Sol e da Lua, eis a fonte do verdadeiro poder.
-
-Essa verdade se manifesta em diversos símbolos. Tomemos a suástica. A budista é 卍. Eu, no passado, utilizei a 卐, que é a suástica inversa. Os budistas chamam a 卐 de "inversa", mas, na realidade, a deles é que é a inversa, pois representa o avanço pela direita, o princípio *yushinsatai*. A que até hoje foi considerada inversa, a 卐, representa o avanço pela esquerda, *sashin-yutai*. Isso corrobora o fato de o budismo ser lunar. É um tema bastante interessante. O símbolo *tomoe* também existe em duas formas, uma que gira para a direita e outra para a esquerda, o que também é fascinante. Existe o *mitsudomoe* (três *tomoe*) e o *futatsudomoe* (dois *tomoe*); no *mitsudomoe*, os princípios de Miroku (567) estão representados nos giros para a esquerda e para a direita.
-
-Pela ciência do Kotodama (言霊), o som "mi" em Izanami representa o feminino, e "gi", o masculino. "I" significa ser humano, sendo uma contração de "hito". "Za" é a contração de "ja", de "jashin" (espírito maligno), que se escreve com o ideograma 邪 e se relaciona à serpente (蛇). "Na-mi" remete a "suavizar", "harmonizar", à delicadeza feminina. Já "na-gi" vem de "nagitaosu" (derribar), uma força avassaladora. Assim chegamos a "kimi". O Kotodama de "kimi" é de suma importância. "Ki" é espírito; "mi" é matéria. "Kimi", portanto, significa espírito e matéria. "Ki" é o espírito, a mente, o invisível. "Mi" é a água, o feminino, que, pela ciência do Kotodama, corresponde a Izunome. Escreverei sobre isso em mais detalhes futuramente, mas o mesmo se aplica às direções: "kita" (norte) significa "o espírito está pleno", e "minami" (sul), "somente água", o feminino. Trata-se sempre dos princípios do fogo e da água, do positivo e do negativo. Escreverei detalhadamente sobre isso em breve.
-
-Há mais um ponto que devem conhecer.
-
-(Leitura do artigo "O Johrei da Palavra Impressa", publicado na Eikō n.º 184)
-
-É por isso que se deve, a todo custo, incentivar as pessoas a lerem as publicações "Eikō" e "Chijō Tengoku". A leitura não apenas lhes trará compreensão, mas também lhes ministrará Johrei. Com isso, a alma do leitor é purificada. Mesmo que a pessoa se esqueça do conteúdo logo após a leitura, uma força purificadora permanece nela. É como se uma pequena semente tivesse sido plantada e, com o tempo, ela certamente germinará e crescerá.
-
-Portanto, a melhor estratégia é fazer com que leiam, não importa como. Quando alguém disser que deseja ouvir uma explanação, podem conversar, mas ofereçam-lhe um exemplar do jornal. Ao lê-lo, a pessoa receberá seu primeiro Johrei, e o efeito pode ser surpreendentemente grande.
-
----
-
-# A Transitoriedade do Budismo e a Missão de Kannon
-
-**Categoria:** kouwa | **Ano:** 昭和10(1935)年4月4日 | **Fonte:** Gokowa
-**Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-04-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Transitoriedade do Budismo e a Missão de Kannon
-
-Relata-se que, em tempos remotos, Kannon (観音) desceu ao Monte Fudarakasan (布咀落迦山), onde era reverenciada como Nankai Daishi. Nessa ocasião, Xaquiamuni visitou-a para lhe dirigir diversas perguntas. Foi então que, pela primeira vez, ele pôde receber ensinamentos que até aquele momento lhe eram desconhecidos e sobre os quais não conseguira atingir a compreensão, alcançando, assim, a verdadeira iluminação.
-
-A partir desse momento, Xaquiamuni tornou-se “Aquele que Vê a Verdade”. Contudo, como não lhe foi permitido anunciar tal fato antes que o tempo oportuno chegasse, viu-se na contingência de pregar, posteriormente, o Sutra do Lótus, limitando-se, todavia, a revelar apenas uma parcela da verdade.
-
-Ele também compreendeu que Aquele que surgiria na última era para edificar o Mundo de Luz seria Kannon. No entanto, por tampouco poder divulgar essa revelação, restringiu-se a pregar o capítulo Fumonbon (普門品) do Sutra do Lótus, por meio do qual apenas exaltava Kannon.
-
-Como Xaquiamuni tinha pleno conhecimento de todas as coisas, inclusive do declínio do budismo, ele pregou que “viria a era da extinção do budismo” e descreveu este mundo como uma “casa em chamas”. Na realidade, porém, suas palavras referiam-se especificamente à era budista. Ele sabia que, uma vez que Kannon viesse ao mundo, a humanidade seria salva. Por essa razão, ele difundiu os ensinamentos budistas com o propósito único de guiar as pessoas da melhor forma possível até a chegada do tempo determinado. Esse fato demonstra claramente que o budismo não é um ensinamento de caráter permanente, e, nesse mesmo sentido, os sutras foram revelados de forma apenas parcial.
 
 ---
 

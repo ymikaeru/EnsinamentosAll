@@ -3,8 +3,8 @@
 # Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Ensinamentos nº 13 (Publicado em 25 de setembro de 1952)
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録13号 | **Status:** Published | **Edição/Página:** 13号, 13号 | **Data ISO:** 1952-09-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Ensinamentos nº 13 (Publicado em 25 de setembro de 1952)
 
@@ -351,7 +351,7 @@ Como assim? Vocês vão ao templo xintoísta local, certo? Então, primeiro, agr
 
 **Categoria:** kanren | **Ano:** 昭和29年8月10日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-10
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Correlatas
 
@@ -375,8 +375,8 @@ Trata-se do primeiro romance a tomar por temática a Sekai Kyusei Kyo. A obra fo
 # Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, Volume 9
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-05-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録9号 | **Status:** Published | **Edição/Página:** 9号, 9号 | **Data ISO:** 1952-05-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, Volume 9
 Publicado em 15 de maio de 1952 (Ano 27 da Era Showa)
@@ -730,7 +730,7 @@ Sim, está correto.
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas em Inglês
 
@@ -759,8 +759,8 @@ Esta coletânea de Salmos inclui também poemas de autoria de Nidai-Sama, e muit
 # Compêndio de Teses do Mestre Jikan Okada
 
 **Categoria:** kanren | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** Ⅱ －
-**Título Original:** 伝道の手引き | **Status:** Published | **Edição/Página:** 237号, 7号 | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Título Original:** 伝道の手引き Ⅱ －３－１ 奉仕について 一、 人間の使命について １ 人間の使命について 1 〔 霊層界（天国の福音） 昭和22(1947)年2月5日発行〕 | **Status:** Published | **Edição/Página:** 237号, 7号 | **Data ISO:** 1947-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Compêndio de Teses do Mestre Jikan Okada
 Guia de Preleção II - 3 - 1
@@ -1141,7 +1141,7 @@ Mas será que quem doa seguindo a segunda perspectiva sofre? De modo algum. Se f
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida
 
@@ -1486,8 +1486,8 @@ Aqueles que não compreendiam essa prudência o criticavam, dizendo que ele “a
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和29(1954)年8月15日 | **Fonte:** Hikariは大地に
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 光は大地に 麻生 鋭 著 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1954-08-15
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 光は大地に
 
 ## Publicações Relacionadas
 A Luz sobre a Terra, por Asō Etsu
@@ -1529,8 +1529,8 @@ Pleno Dia
 # Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão
 
 **Categoria:** kanren | **Ano:** 昭和27(1952)年10月22日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** Published | **Edição/Página:** 179号, 28号 | **Data ISO:** 1952-10-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Título Original:** 伝道の手引き Ⅰ －１－４ 信仰の基本 第四章 御昇天について １ 御昇天になられた場合 〔 明主様と為郷恒諄氏との御対談 | **Status:** Published | **Edição/Página:** 179号, 28号 | **Data ISO:** 1952-10-22
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Fundamentos da Fé – Capítulo Quatro: Sobre a Ascensão
 
@@ -1565,8 +1565,8 @@ Repliquei: “Que absurdo! Do Mundo Espiritual, exercerei esse poder ilimitadame
 # Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: help / Pesquisa de Documentos: Guia de Difusão II-1-1
 
 **Categoria:** kanren | **Ano:** 昭和29(1954)年4月7日 | **Fonte:** Eikou
-**Título Original:** - | **Status:** Published | **Edição/Página:** 255号 | **Data ISO:** 1954-04-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Título Original:** 伝道の手引き Ⅱ －１－１ 御神体について 一、御神体奉斎の意義 １ 御神体奉斎の意義について 〔 御神体奉斎に就いて | **Status:** Published | **Edição/Página:** 255号 | **Data ISO:** 1954-04-07
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Coletânea de Artigos de Jikan Okada - Pesquisa de Ensinamentos: help / Pesquisa de Documentos: Guia de Difusão II-1-1
 
@@ -2101,7 +2101,7 @@ Como há espíritos de falecidos no cemitério, é possível que eles venham se 
 
 **Categoria:** kanren | **Ano:** 昭和24年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas
 
@@ -2118,7 +2118,7 @@ Editora: Departamento Editorial Infinito, do Instituto Internacional de Pesquisa
 
 **Categoria:** kanren | **Ano:** 昭和42年10月10日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1967-10-10
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Obras Correlatas à Coletânea de Dissertações do Mestre Okada Jikan
 
@@ -2150,7 +2150,7 @@ Terceiro Volume: 15 de agosto, 25 de agosto, 5 de setembro, 1º de outubro e 10 
 
 **Categoria:** kanren | **Ano:** 昭和31年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1956
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Correlatas
 
@@ -2170,8 +2170,8 @@ Esta obra consiste em uma compilação adicional à "Coletânea de Hinos (ediç�
 # Crítica à Igreja Messiânica
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 白 書 徳川夢声 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Crítica à Igreja Messiânica
 Um relato de Tokugawa Musei
@@ -2292,7 +2292,7 @@ Seja como for, acredito que, quando a ciência avançar mais alguns degraus, o e
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 --- Publicações Relacionadas ---
 
@@ -2706,7 +2706,7 @@ Continua no capítulo doze
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## O que Espero de Okada Jikan
 Yamaoka Sohachi
@@ -2760,8 +2760,8 @@ Para mim, que concordo inteiramente com ele no que tange a ver a Vontade do Univ
 # Coleção de Ensaios de Okada Jikanshi — Consulta aos Ensinamentos: help; Consulta de Materiais: Guia para a Prática Missionária I-2-3; Qualificados, Igrejas e Diversas Questões da Fé; Capítulo 3: Assuntos a serem compreendidos
 
 **Categoria:** kanren | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 19号, 8号 | **Data ISO:** 1950-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Título Original:** 伝道の手引き Ⅰ －２－３ 資格者・教会・信仰上の諸問題 第三章 心得置くべき事 １ ひたすら、人手の幸福を念願して我身の事は忘るべき事 〔 御光話（S25年 4月 3日） | **Status:** Published | **Edição/Página:** 19号, 8号 | **Data ISO:** 1950-06-13
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coleção de Ensaios de Okada Jikanshi — Consulta aos Ensinamentos: help; Consulta de Materiais: Guia para a Prática Missionária I-2-3; Qualificados, Igrejas e Diversas Questões da Fé; Capítulo 3: Assuntos a serem compreendidos
 
@@ -3097,7 +3097,7 @@ Contudo, mesmo que morra, ela vai para o Mundo Espiritual e, embora seja julgada
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Relacionadas — Mestre Nakajima Issei: Sua Fé e Sua Vida — por Aso Eizo
 
@@ -3552,7 +3552,7 @@ Continua no capítulo trinta e oito.
 
 **Categoria:** kanren | **Ano:** 昭和29年11月 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-11
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Agricultura Natural (Edição Inaugural)
 
@@ -3563,8 +3563,8 @@ Continua no capítulo trinta e oito.
 # Coletânea de Ensaios do Reverendo Okada Jikanshi – Pesquisa nos Ensinamentos: help; Pesquisa de Materiais: Guia para a Difusão I-1-2 | Fundamentos da Fé – Capítulo Dois: Sabedoria e Discernimento Espiritual
 
 **Categoria:** kanren | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 22号, 26号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Título Original:** 伝道の手引き Ⅰ －１－２ 信仰の基本 第二章 智慧証覚 一 智慧証覚を磨く事の重要性について １ 智慧証覚とは何か 〔 御垂示（S28年7月1日） | **Status:** Published | **Edição/Página:** 22号, 26号 | **Data ISO:** 1953-07-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensaios do Reverendo Okada Jikanshi – Pesquisa nos Ensinamentos: help; Pesquisa de Materiais: Guia para a Difusão I-1-2 | Fundamentos da Fé – Capítulo Dois: Sabedoria e Discernimento Espiritual
 
@@ -3881,7 +3881,7 @@ A Sekai Kyuseikyo, vista pela ótica convencional, pode parecer muito difícil. 
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## O Agrupamento dos Bons (I)
 
@@ -4091,8 +4091,8 @@ Tomita também o disse, com um sorriso terno nos olhos.
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和31年 | **Fonte:** 天国の福音
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1956
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1956
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 天国の福音
 
 ## Publicações Relacionadas
 
@@ -4107,26 +4107,6 @@ Editora: Sede Central da Igreja Messiânica Mundial
 Esta obra compila 27 Ensinamentos de Meishu-Sama dedicados ao tema da saúde.
 
 O prefácio desta publicação inclui a "Introdução" e o Ensinamento "O Caminho da Felicidade", ambos extraídos da obra "O Evangelho do Paraíso". Ademais, a coletânea é composta pelos seguintes Ensinamentos: O Homem, um Recipiente de Saúde; Os Equívocos da Medicina; A Verdade sobre a Saúde; O Ser Humano como Recipiente de Saúde; A Saúde Verdadeira e a Saúde Ilusória; yakudoku (薬毒); A Comédia da Nutrição; A Medicina Espiritual Divina como Medicina Democrática; O que se Espera da Medicina; A Edificação do Paraíso por meio da Saúde; O Método para a Criação de Filhos Saudáveis; Os Japoneses e as Doenças Mentais; A Saúde de Bebês e Crianças; O Corpo Humano é um Todo Integrado; A Encefalite Japonesa é Realmente Transmitida por Mosquitos?; O Prejuízo ao Corpo Físico; O Resfriado Adquirido durante o Sono; Disenteria; Devemos Temer as Bactérias?; Exemplos dos Males Causados pela Medicina Moderna (Vacinas); Vacinação Preventiva e Tuberculose; O Destino Pode Ser Livremente Moldado; O Segredo da Felicidade; Existem Deuses e Budas?; Uma Análise das Assim Chamadas Superstições; Basta que a Doença Seja Curada?; Conclusão (com acréscimos ao Ensinamento "O Juízo Final"); e Uma Advertência aos Profissionais da Medicina.
-
----
-
-# Publicações Relacionadas
-
-**Categoria:** kanren | **Ano:** 昭和25年 | **Fonte:** -
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
-**Coletânea:** - | **Fonte (JP):** -
-
-## Publicações Relacionadas
-
-Kouhou (光宝) (Edição nº 3)
-Boletim da Associação Kouhou da Igreja Kannon (観音) do Japão
-
-Publicado em 1º de janeiro de 1950
-Formato A5, 64 páginas
-
-Edição: Departamento Juvenil da Associação Kouhou
-Publicação: Associação Kouhou
-Local de Publicação: Sede Central da Associação Kouhou da Igreja Kannon (観音) do Japão
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 ## Ashita no Ijutsu – Terceira Coletânea
@@ -1123,7 +1123,7 @@ Os vizinhos, que não sabiam da situação, diziam à sua esposa: "Seu marido n�
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada — Gokowa Roku, nº 9 (Edição Especial) — 30 de julho de 1949
 
@@ -1511,7 +1511,7 @@ III. Os assuntos das perguntas foram classificados e agrupados por temas, a fim 
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** 法難手記
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 法難手記
 
 ## Coletânea de Teses do Mestre Okada Jikanshi
 ### Registro das Orientações de Luz, vol. 8, edição especial, publicado em 30 de maio de 1949 (Showa 24)
@@ -1798,7 +1798,7 @@ Conforme informado na edição anterior, solicitamos que este "Registro das Orie
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Okada Jikan
 
@@ -2092,8 +2092,8 @@ Gráfica: Atami Shoji Co., Ltd.
 # Coletânea de Teses do Reverendo Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年11月1日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-11-01
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 (一) | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1953-11-01
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 ### Curso sobre o Método do Johrei (I)

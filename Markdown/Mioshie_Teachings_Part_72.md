@@ -1,10 +1,891 @@
 # Mioshie_Teachings - Part 72
 
+# Coletânea de Teses do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
+**Título Original:** 定例布教座談会 （第四回） | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## Coletânea de Teses do Reverendo Jikan Okada
+Busca de Ensinamentos: help
+Busca de Documentos:
+
+## Encontro Periódico de Difusão (Quarto Encontro)
+Revista Glória, nº 207, 6 de maio de 1953
+
+**Local:** Sede da Igreja Tyossei, Gora, Hakone
+**Data:** 25 de fevereiro de 1953
+**Orientador:** Yoshihiko Kihara
+**Participantes:**
+Presidente da Grande Igreja Koho: Tagao Sakai
+Presidente da Igreja Intermediária Tyossei: Utaro Nagamura
+Presidente da Igreja Intermediária Kossei: Kyoji Otsuki
+Presidente da Igreja Intermediária Koyo: Eitaro Ogawa
+Presidente da Igreja Intermediária Tsurumei: Eisaku Yumoto
+Grande Igreja Koho: Harumichi Nozoe
+
+**Ogawa:** Damos início, neste momento, ao nosso encontro periódico. Tivemos, recentemente, um ciclo de palestras nas regiões de Hokkaido e Tohoku, na costa oeste do Japão. Como os senhores presidentes de Igreja que estiveram envolvidos na organização se encontram presentes nesta noite, gostaria de ouvi-los a respeito. Em paralelo, realizou-se também um encontro sob a orientação do Reverendo Kihara, e creio que há diversos relatos sobre os frutos colhidos e as realidades que se manifestaram como resultado dessas atividades. Para começar, gostaria de ceder a palavra ao Reverendo Otsuki.
+
+**Otsuki:** A impressão mais forte que tive ao participar do encontro foi uma mudança notável no que se refere aos seminários. Percebi que, neste ano, os locais onde a difusão estagnara, mas que persistiam em seu trabalho com sinceridade, começaram a encaminhar novos membros para a formação. Em contrapartida, constatamos uma paralisação naqueles locais que adotavam uma abordagem impositiva, do tipo: "Receba a Sagrada Medalha, e todos os seus desejos se realizarão". Em nítido contraste, as unidades que mantinham seus relatórios e procedimentos em perfeita ordem experimentaram um crescimento expressivo, o que nos enche de otimismo quanto ao futuro. Sinto-me feliz por essa tendência de clareza em todas as coisas. O fato de que a prática correta gera resultados concretos e visíveis está sendo comprovado tanto no campo dos seminários quanto na ministração do Johrei, o que nos infunde ainda mais vigor.
+
+**Kihara:** É o que se chama de "causa boa, efeito bom; causa má, efeito mau". Se as coisas são feitas de forma correta, os resultados serão corretos. De agora em diante, portanto, a prática do bem gerará bons frutos.
+
+**Otsuki:** Tivemos a permissão de realizar palestras em Kitami e Yoichi, em Hokkaido, onde possuímos filiais. Falarei primeiro sobre Kitami. Após a conferência, novas pessoas começaram a frequentar a igreja. Trata-se de uma pequena filial que, até então, não apresentava grande desenvolvimento, mas que passou a crescer de forma notável. Outro ponto digno de menção refere-se aos donativos de gratidão. Sem que nada lhes fosse dito, pessoas que vieram pela primeira vez fizeram donativos de valor considerável, em contraste com os membros antigos, cujas contribuições eram, com todo o respeito, de valores bastante modestos. Foi uma manifestação verdadeiramente singular. Além disso, surgiu uma grande procura pelo livro "Salvando a América". Como a região é remota e a obra ainda não havia chegado às livrarias, vieram à igreja solicitar cinquenta exemplares, os quais providenciamos. Recebemos também uma carta de uma grande livraria chamada Bunya, na rua Nijo-dori, em Kitami, com um pedido urgente de trezentos exemplares, que prontamente encaminhamos ao Departamento de Publicações da Igreja.
+
+Quanto a Yoichi, os donativos de gratidão aumentaram de quatro a cinco vezes, e os resultados gerais da difusão acompanharam esse crescimento na mesma proporção. Sinto que isso se deve à purificação do Mundo Espiritual daquela localidade, propiciada pela realização das palestras.
+
+**Yumoto:** Realizamos nossa palestra no dia dezoito, portanto, como se passaram poucos dias, os resultados ainda não se manifestaram com clareza. Contudo, pude notar uma grande diferença em minha própria atitude. Por ocasião da conferência de Niigata, no ano passado, devido às minhas próprias imperfeições, nutri preocupações com os custos. Desta vez, meu estado de espírito foi outro, e, ao conversar com os responsáveis de Johrei Centers, todos expressaram um forte desejo de realizar o evento. Embora os resultados ainda não sejam evidentes, acredito que haverá uma repercussão considerável. Os membros qualificados também manifestaram imensa alegria pela oportunidade de sediar a palestra.
+
+**Otsuki:** Há outro aspecto que gostaria de ressaltar. Após as palestras em Hokkaido, ao ouvir os relatos, percebo que as pessoas que ainda não são membros ouvem a explanação e compreendem sua lógica. Todavia, os conceitos equivocados sobre a medicina e a agricultura, aos quais estiveram expostas por tanto tempo, estão profundamente arraigados nelas. Essa consciência latente é extremamente forte. Temo que esse condicionamento acabe por puxá-las de volta aos velhos hábitos. Diante disso, pensei que talvez fosse necessário agir sem lhes dar muito tempo para hesitar, promovendo uma série contínua de encontros para impedir esse retrocesso. Contudo, pergunto-me se tal abordagem não seria excessivamente humana.
+
+**Kihara:** Não há problema. Contudo, é preciso ter cuidado para não exagerar e incorrer no excesso de esforço humano. Se sentiu que deve agir assim, experimente. Se os resultados forem positivos, então o caminho está correto. A comprovação pelos fatos é o mais importante.
+
+**Nagamura:** Tivemos a permissão de realizar um encontro e uma exibição do filme-documentário em Mito, com a presença do Reverendo Kihara, e sinto uma profunda gratidão por essa oportunidade. Nossa filial vinha se esforçando, mas, ainda assim, os resultados não apareciam. Acredito que o motivo era a falta de cooperação dos membros, que haviam se tornado cronicamente habituados a receber graças. Sinto-me verdadeiramente arrependido por essa situação.
+
+**Kihara:** As graças não se tornam crônicas. A realidade é que os senhores não estavam em condição de recebê-las. Não se trata de um problema crônico de receber graças, mas sim de um estado crônico de *não* as receber. É impossível ser abençoado quando se utiliza Deus como se fosse uma bengala ou um par de sandálias. É por essa razão que se deve ler e estudar atentamente os Ensinamentos Divinos.
+
+**Nagamura:** Após o encontro, os membros despertaram e, dizendo "Nós realmente sentimos muito", passaram a demonstrar um forte desejo de cooperar sinceramente. Tanto eu quanto o responsável pela filial compreendemos profundamente nosso equívoco. Percebemos, enfim, o quão valiosa é a oportunidade de realizar encontros e exibições como essa.
+
+**Kihara:** A exibição do filme sobre o Paraíso Terrestre significa que o próprio Paraíso Terrestre se projeta naquele local. Portanto, viajar por diversas regiões com o filme é o mesmo que imprimir nitidamente o Paraíso Terrestre em cada uma delas. O que se projeta é o protótipo que Meishu-Sama construiu em Hakone. O ponto mais crucial é estar em sintonia com a Vontade de Deus. Quando isso ocorre, Deus nos permite servi-Lo. Não somos nós que "fazemos"; nós "recebemos a permissão de fazer". E, assim, passamos a servir com o coração exultante de alegria.
+
+**Ogawa:** De fato, eu pensava que o Templo Messiânico seria construído pela força dos membros, mas agora compreendo que é o contrário.
+
+**Kihara:** Bem, visto de fora, essa é uma maneira de interpretar as coisas.
+
+**Nagamura:** Agora, todos em Mito estão bastante entusiasmados com o desejo de sediar a próxima conferência.
+
+**Kihara:** Com a experiência das palestras, torna-se evidente que não as realizamos por força humana. Em locais pequenos, o público preenche o espaço de forma exata, sem que ninguém fique de fora por falta de lugar. Em auditórios grandes, acontece o mesmo; nunca falta público. Se tudo dependesse do esforço humano, em algum momento, o empenho excessivo de alguém resultaria em um público maior que a capacidade do local, criando um transtorno. Contudo, isso jamais ocorreu. Essa realidade se alinha perfeitamente às palavras de Meishu-Sama, que nos orienta a "não aplicar a força humana". Quando servimos com um coração sincero, pleno de gratidão a Deus, tudo flui suavemente. Nisso reside a diferença entre os noventa e nove por cento e o um por cento final.
+
+Há outra observação que fiz durante as palestras. É extremamente difícil falar do palco quando há pessoas sentadas em um segundo andar. Em todas as ocasiões, inicio minha preleção orando: "Meishu-Sama, por favor, eu Vos peço". E como estou ali para transmitir a Verdade que me foi ensinada, a sensação de haver pessoas acima de mim é, de alguma forma, inadequada. Além disso, de baixo não consigo ver os rostos de quem está no andar superior, o que me impede de saber com que estado de espírito estão ouvindo. Quando todos estão no mesmo nível, posso perceber o grau de atenção e envolvimento da plateia, o que torna a comunicação muito mais eficaz.
+
+**Ogawa:** Agradecemos imensamente por suas valiosas orientações. Com isso, gostaríamos de encerrar o encontro por hoje.
+
+**Todos:** Muito obrigado a todos.
+
+(Nota: A participação nestes encontros é livre, sem restrição de membros. Sintam-se à vontade para comparecer.)
+
+---
+
+# Coletânea de artigos do Reverendo Jikan Okada
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年5月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 定例布教座談会 （第五回） | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1953-05-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## Coletânea de artigos do Reverendo Jikan Okada
+**Reunião Periódica de Difusão (Quinta Edição)**
+*Revista Paraíso Terrestre, nº 48, 25 de maio de 1953*
+
+**Local:** Sede da Igreja Intermediária Chosei, Hakone Gora
+**Data:** 25 de fevereiro de 1953
+**Orientador:** Yoshihiko Kihara
+**Participantes:**
+Tagao Sakai, Presidente da Grande Igreja Koho
+Utaro Nagamura, Presidente da Igreja Intermediária Chosei
+Kyoji Ohtsuki, Presidente da Igreja Intermediária Kosei
+Eitaro Ogawa, Presidente da Igreja Intermediária Koyo
+Eisaku Yumoto, Presidente da Igreja Intermediária Kakumei
+Harumichi Nozoe, Grande Igreja Koho
+**Estenógrafo:** Michiharu Kihara
+
+## A Igreja Messiânica não se fundamenta no “dai, dai”!
+
+**Kihara:** Recentemente, a formação de novos membros tem diminuído consideravelmente. Gostaria de analisar as causas desse fenômeno. Se o motivo for a necessidade de empenhar todos os esforços na organização de palestras, a ponto de negligenciarmos a formação, temos aí uma questão que merece profunda reflexão. Ademais, não percebem certa estagnação em virtude dos donativos para a construção? Em tese, isso não deveria ocorrer.
+
+**Nagamura:** Depende da localidade, mas, de fato, existem lugares onde essa impressão se manifesta. Creio que os responsáveis estão concentrando-se prioritariamente nesse aspecto.
+
+**Kihara:** Contudo, não seria natural que, justamente por isso, a formação de novos membros também aumentasse?
+
+**Ohtsuki:** Com a devida vênia, gostaria de expor meu ponto de vista. Percebo em minha igreja uma tendência que talvez explique o ocorrido. Em vez de se concentrarem em salvar o próximo para acumular virtudes, os membros parecem mais empenhados em aprofundar a própria fé, por sentirem que chegou o momento para tal.
+
+**Nagamura:** Em minha igreja, também observo essa mesma tendência.
+
+**Kihara:** Até agora, predominava um método um tanto aleatório. A abordagem era simplista, consistindo apenas em dizer: “Receba esta Medalha, pois ela lhe trará muitas graças”. O desaparecimento dessa prática, que era desprovida de fundamentos, pode ter enfraquecido nosso poder de divulgação, explicando a recente queda. Contudo, vejo este momento como um período de transição fundamental. Como afirmei hoje na reunião de ministros, é imprescindível resgatarmos o sentimento de “lutar com afinco”, de “realizar a todo custo”.
+
+O ponto que mais distingue a Igreja Messiânica das demais religiões é que estas, em sua maioria, seguem o modelo da Tenrikyo, do tipo “dai, dai”. A nossa Igreja, todavia, segue o caminho oposto: primeiramente, a pessoa recebe a graça. Ao realizar um donativo de gratidão, que será empregado na construção do Paraíso Terrestre, ela recebe de imediato ainda mais graças, em virtude desse ato. E ao expressar sua gratidão por essas novas graças, um ciclo virtuoso de bênçãos se estabelece. É essa orientação que tem faltado. O antigo método, de simplesmente distribuir Medalhas em massa, cessou. Por isso, embora a formação de novos membros tenha diminuído em números, creio que agora estão germinando sementes verdadeiramente autênticas.
+
+**Ogawa:** De fato, é o que penso. Atualmente, a pessoa recebe a Medalha e, imediatamente, torna-se membro A e recebe a Imagem da Luz Divina. Agora, são membros que realmente se dedicam; a qualidade melhorou. Tenho dito a todos desde o mês passado: “Os novos membros de agora são diferentes”. E é a pura verdade.
+
+## Líderes que levam os membros a se tornarem ladrões da Virtude Divina
+
+**Kihara:** Este é o ponto mais crucial: devemos nos empenhar com afinco nesta nova fase da Obra Divina. Contudo, não se trata de uma missão trágica, onde “a esposa adoece no leito e os filhos choram de fome”. Conforme a Palavra Sagrada, nossa senda é a de “reformar o ser humano através da alegria”. Nós, líderes, precisamos personificar esse princípio. Ainda carregamos resquícios de pensamentos e práticas das religiões tradicionais. O segredo é a sinceridade. Como nos ensina Meishu-Sama, “Não coloque força no Johrei”. Tudo depende do poder do Outro, o que torna nossa missão incrivelmente fácil. Quando compreendemos isso, a ansiedade e a aflição desaparecem. Para mim, esta é a verdade mais importante.
+
+Outro ponto que desejo enfatizar é que não devemos levar os fiéis a se tornarem ladrões da Virtude Divina. Essa é a principal responsabilidade de um líder. Da mesma forma, não adianta ser excessivamente rigoroso com os membros. É preciso liderar pelo exemplo.
+
+É comum vermos pessoas que, diante de seus superiores, sentem-se constrangidas em demonstrar fraqueza e acabam por forçar uma aparência de força. Isso não é necessário; devemos nos apresentar como realmente somos. Essa mentalidade trágica é, em si, um inferno. Eu mesmo, ao recordar o passado, vejo que agi muitas vezes com esse sentimento. Porém, à medida que fui compreendendo os Ensinamentos de Meishu-Sama, percebi que não há caminho mais fácil e prazeroso.
+
+É fundamental abandonar a ideia de que, por nos tornarmos rígidos na fé, aprofundamo-la e, por isso, recebemos graças. A fé não tem profundidade ou superficialidade. A verdade é que somos utilizados nesta Obra Divina em virtude de nossa ligação espiritual. Devemos ser gratos por essa permissão de servir e nos dedicar a praticar os Ensinamentos. A própria atitude de “tenho que fazer a todo custo” não é paradisíaca. Dias atrás, o senhor Ogawa usou a expressão “até que meus ossos virem pó”, o que reflete a mesma ideia. Certa vez, alguém disse a Meishu-Sama: “Ofereço-lhe minha vida”, ao que Ele respondeu: “Não quero sua vida. De que me serviria uma vida assim?”.
+
+Portanto, a diminuição na formação de novos membros parece ser fruto do descompasso entre os métodos e mentalidades do passado e aqueles que buscamos implementar daqui para a frente. Apesar disso, ao participar das palestras, sinto que o ambiente e a receptividade são extremamente promissores.
+
+**Yumoto:** O impacto dessas palestras ressoa com grande força entre os não-membros. Diante disso, peço que, por mais um tempo, relevem a estagnação na formação de novos membros.
+
+**Ohtsuki:** De fato, a diferença entre as palestras de antigamente e as atuais é abissal.
+
+**Kihara:** Em minha opinião, não é impossível que a ausência dos ministrantes, que precisam se deslocar para as palestras, contribua para essa queda. No entanto, considerando o quadro geral, a formação de novos membros não é uma tarefa exclusiva deles; outras pessoas estão encarregadas disso.
+
+## Quanto antes se corrige um erro, melhor
+
+**Nozoe:** Gostaria de relatar uma conversa que tivemos na sede da Igreja Koho com um membro de outra localidade. Ele disse: “Compreendemos perfeitamente que recebemos graças e alcançamos a felicidade. Contudo, lemos no jornal *Eiko* uma Palavra de Meishu-Sama que dizia ‘conforme consta na discussão em anexo’, e o conteúdo era muito diferente do que nos foi ensinado. Quando questionamos nosso Presidente de Igreja Intermediária sobre o porquê dessa divergência, a resposta foi extremamente vaga e insatisfatória. Situações como essa, em que outros apontam tamanhas contradições, acabam por minar nosso empenho. Sentimos que os Ensinamentos não estão sendo seguidos à risca”. Parecia que ele estava perplexo, sem saber como corrigir os equívocos do passado.
+
+**Kihara:** Seu relato é de grande valia. De agora em diante, tudo deve ser esclarecido. A falta de clareza é prejudicial, pois um dia, inevitavelmente, levará ao colapso. Todavia, se o descompasso que vivenciamos tem como objetivo a retificação, então é um processo positivo.
+
+**Ogawa:** Até então, acreditávamos estar realizando um grande trabalho na formação de novos membros. No entanto, o número de membros realmente atuantes, os membros A e B, era baixíssimo. Havia casos extremos de locais com uma centena de membros que estavam completamente inativos. Este ano, porém, os que ingressaram são sólidos, e sinto fortemente que darão frutos verdadeiros. Os números de antes eram apenas uma questão de registro no papel. Assim, diferentemente do passado, cada novo membro que formarmos agora permanecerá conosco.
+
+A verdade é que, por não compreendermos a felicidade de servir na Obra Divina, nosso raciocínio era: “A formação de novos membros é positiva, mas se os registrarmos como membros A e B, as quotas serão calculadas com base nesses números. Então, é melhor não os relatar”. Contudo, hoje agimos com total transparência e isso não ocorre mais.
+
+Quando penso nos erros que cometíamos com tanta naturalidade, sinto calafrios até hoje. Por exemplo, ouvi que em 15 de agosto de 1948 ocorreria a Grande Purificação e que todos os não-crentes morreriam. Acreditei piamente nisso e divulguei a todos. Em julho daquele ano, um homem chamado Maruyama me confrontou: “Estamos em 1948, e nada disso está acontecendo!”. Eu, convicto, respondi: “Espere até 15 de agosto para falar”. Passou o dia 15, chegou setembro, e ele voltou: “E então? Não aconteceu nada!”. Fui perguntar à pessoa que originou o boato, e ela me disse que “a situação havia mudado”. Achei a desculpa excelente e passei a usá-la, dizendo de forma evasiva: “A situação mudou. Não sei em que ano, mas mudou”. Hoje consigo rir ao contar isso, mas na época, eu acreditava firmemente. Foi com a chegada do Reverendo Kihara e sua orientação que compreendi. Ele me disse: “Isso é estelionato. Você precisa se desculpar com todos por ter divulgado essa fraude”. Reuni os membros e pedi perdão: “Eu estava redondamente enganado. Peço desculpas”. Para minha surpresa, a reação de todos foi de acolhimento e, a partir daquele momento, o semblante dos fiéis tornou-se muito mais luminoso.
+
+**Kihara:** A mentira é absolutamente inaceitável. Essa falsidade estava servindo de mácula.
+
+**Nozoe:** Também ouvi histórias de que, em determinada data, cairia granizo pesando 100 *kin*.
+
+**Kihara:** Naquela época, praticava-se a “conversão pelo medo”. As pessoas, por temor, recebiam a Medalha. Isso, de fato, gerava números, mas proferir tais mentiras é um pecado. Ademais, pode-se dizer que aqueles que ingressam por esses motivos raramente são pessoas de boa índole. Pensem bem: Deus jamais diria tais coisas.
+
+**Nozoe:** Não seria justamente porque esse método teve de ser abandonado abruptamente que estamos passando por essa estagnação temporária?
+
+**Kihara:** É uma possibilidade. Creio que estamos retornando a um estado de autenticidade. É como um pródigo que se arrepende e, no início, enfrenta dificuldades por não poder mais agir de forma leviana.
+
+**Nagamura:** Daqui para a frente, as coisas melhorarão passo a passo, e o número de membros A e B voltará a crescer.
+
+**Kihara:** Naqueles tempos, parece que até os presidentes de igreja partilhavam dessa mentalidade. Sinceramente, a única alegria em ser membro A ou B era receber o bilhete de peregrinação, não é mesmo?
+
+**Nagamura:** Olhando para trás, sinto-me profundamente envergonhado.
+
+## Não se pode enganar a Deus com artifícios verbais
+
+**Kihara:** Passemos aos relatos de graças da Agricultura Natural. A melhor evidência é o aumento real da produção. Relatos ambíguos como “a quantidade não aumentou, mas a qualidade melhorou” são inaceitáveis. Se, após anos de prática, a colheita não aumenta, isso significa que os Ensinamentos de Meishu-Sama não estão sendo seguidos. Nesses casos, o relato de graça deveria ser um misto de pedido de perdão e agradecimento: “O Ensinamento de Meishu-Sama era este, mas por não o ter seguido, obtive uma colheita fraca. Peço sinceras desculpas”.
+
+É ultrajante tentar usar de artifícios verbais ao se reportar a Deus. Devemos relatar as coisas como elas são. Nos relatos de graça, também. Uma abordagem correta seria: “Se eu tivesse praticado os Ensinamentos à risca, o resultado teria sido este; como agi de outra forma, o resultado foi aquele”. Meishu-Sama se alegra com a sinceridade.
+
+Meishu-Sama nos transmite a Verdade. Portanto, a missão do presidente de igreja é retransmitir Suas palavras exatamente como foram ditas. É um erro que o presidente, com seu próprio intelecto, empregue artifícios e elabore estratégias. Basta que retransmitamos o que nos foi ensinado. O problema começa quando adicionamos ou alteramos palavras. Por isso, os resultados não aparecem: porque não praticamos os Ensinamentos fielmente. Ao ouvirmos os relatos de quem não obtém sucesso, percebemos que, de fato, a prática não está correta.
+
+**Ohtsuki:** A esse respeito, gostaria de apresentar um relatório da reunião de Fukushima. Numa aldeia onde quase todos são agricultores, de sete ou oito membros que praticam a Agricultura Natural, apenas dois o fazem em toda a sua propriedade. Mesmo fiéis com cinco ou seis anos de fé ainda não a implementaram por completo. Dentre eles, um senhor chamado Sato aplicou o método em toda a sua terra e obteve uma colheita extraordinária. Em seu relato de graça, ele se desculpou pela má colheita do ano anterior, confessando não ter seguido os Ensinamentos de Meishu-Sama à risca, pois havia cortado a palha em pedaços muito grandes. Ele se comprometeu a se dedicar com afinco neste ano.
+
+Houve outro caso: um membro que estava apenas fazendo um teste, após ouvir a palestra do Reverendo Kihara, decidiu, sem hesitar, aplicar o método em toda a sua plantação. O chefe de Johrei Center me enviou uma mensagem de agradecimento. Muito obrigado.
+
+**Kihara:** Que excelente notícia.
+
+**Yumoto:** Nesses aspectos, as pessoas do interior ainda relutam em mudar.
+
+## O sentimento de não poder deixar de servir
+
+**Kihara:** Diante disso, ao receber os recentes Ensinamentos de Meishu-Sama, sinto que alguns pontos são especialmente importantes: “Tornar todos cientes dos terríveis malefícios dos venenos dos medicamentos”; “Tornar todos cientes dos danos causados pelos venenos dos adubos”; e “Desarraigar a superstição em relação aos fertilizantes”. Os ministros devem, antes de tudo, mudar sua própria mentalidade e, então, transmitir isso a todos. E há mais um ponto: “Não coloque força no Johrei”.
+
+O que Meishu-Sama quer dizer com “Não coloque força no Johrei” é que devemos “abandonar o esforço humano em todas as coisas”. Essa é a chave para a compreensão. Assim, tudo se torna leve. De nada adianta pressionar os membros por causa da baixa formação. Não são animais de carga... Este ponto é crucial. O espírito de “fazer acontecer na marra” deve ser abandonado.
+
+O verdadeiro sentimento é o de “não poder deixar de servir”. Isso não é esforço; é um impulso natural. Alguém pode dizer: “Eu servi até ficar sem nada”. Se essa pessoa agiu assim por não conseguir conter seu sentimento de gratidão, então sua atitude é natural. Não há compulsão alguma. Para quem recebeu o dom da vida, agir dessa forma não representa sacrifício. E acaso Deus, após permitir que alguém se doe por completo, o deixa desamparado? De forma alguma. A pessoa sempre recebe o necessário. A diferença é sutil como uma folha de papel. O que é errado é dizer: “Eu servi até não ter mais nada, então você também deve fazer o mesmo”.
+
+Ao recebermos os Ensinamentos de Meishu-Sama, fica claro que tudo é realizado pelo poder divino. Basta que nos tornemos pessoas que agradem a Deus. Se agirmos assim, não creio que a formação de novos membros diminuirá.
+
+**Nozoe:** Sobre a Agricultura Natural, ouvi um comentário velado de que não-membros poderiam começar praticando em uma pequena parte, talvez 10% da terra, para fins de estudo, e que alguns membros, ao ouvirem isso, sentem-se aliviados por ser um caminho mais fácil.
+
+**Kihara:** Em relação aos membros, basta que os ministros os orientem sem erros. É uma pequena mudança de mentalidade. Uma abordagem é infernal, enquanto a outra, a de “não poder deixar de servir”, é paradisíaca. E posso dizer mais uma coisa: servir até se despojar de tudo jamais levará ninguém à ruína. Isso, claro, se não for feito com sofrimento, mas como um impulso irresistível. Em suma, é imprescindível que os presidentes de igreja assimilem os Ensinamentos em seu âmago, sem equívocos.
+
+Noto também que a leitura dos Escritos Divinos é extremamente insuficiente. Em uma reunião de perguntas e respostas durante uma palestra, surgiram trinta ou quarenta questões. Se os participantes lessem os Escritos Divinos com atenção, nenhuma daquelas perguntas teria sido feita. É a prova de que não os estão lendo. A leitura dos Escritos Divinos é a prioridade absoluta. O mesmo se aplica à Agricultura Natural. Percebi isso com muita intensidade em minha recente viagem.
+
+Conforme diz o Salmo:
+
+“A grande força da Palavra
+De nada vale se não provém
+De uma alma formosa.”
+
+Os presidentes de igreja também precisam se tornar possuidores de uma alma formosa. E para isso, a leitura dos Escritos Divinos é o primeiro passo.
+
+(Fim)
+
+---
+
+# Um Olhar sobre o Passado
+
+**Categoria:** sanko | **Ano:** 昭和23(1948)年12月1日 | **Fonte:** Chijo Tengoku
+**Título Original:** 過去を顧みて 渋井總吉 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1948-12-01
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## Um Olhar sobre o Passado
+
+Por Sokichi Shibui
+Publicado na edição inaugural da revista "Paraíso Terrestre" em 1º de dezembro de 1948.
+
+Transcorrido já um ano desde a cerimônia de fundação da Igreja Kannon do Japão, em 11 de novembro do ano passado, chegamos ao momento de publicar nossa revista oficial, “Paraíso Terrestre”. Como é de vosso conhecimento, o Grande Mestre Conselheiro iniciou Sua Obra de Salvação em Tóquio, no nono ano da era Showa (1934), sob a forma religiosa da Dai Nihon Kannon Kai. Contudo, no exato instante em que a Obra se preparava para uma fase de grande expansão, foi colhida por uma tempestade de opressão indiscriminada, dirigida a todas as novas religiões e correntes de pensamento espiritualista. Em menos de dois anos desde sua fundação, a organização foi dissolvida, sofrendo um golpe aniquilador.
+
+Diante disso, o Grande Mestre Conselheiro cedeu às exigências das autoridades e aboliu toda e qualquer prática religiosa. Durante um período de dois anos de recolhimento e perseverança, Ele concebeu a cientifização da religião e aperfeiçoou Sua terapia singular. Em seguida, reiniciou a Obra de Salvação sob a forma de uma terapia popular, preparando-se secretamente para a era vindoura, oculto nas sombras de um mundo em decadência, tal como um ladrão que se move furtivamente.
+
+Entretanto, durante a era da terapia popular, a gratidão daqueles cujas vidas foram salvas pelo seu poder curativo, tão extraordinário e miraculoso, somada à nossa sincera dedicação em servir abnegadamente à salvação da humanidade apesar de todas as provações, acabou por gerar uma atmosfera eminentemente religiosa. Em virtude disso, fomos acusados de planejar o ressurgimento de nossa fé e sofremos repressão em mais de uma ocasião. Quantas vezes não suspiramos longamente, lamentando a extrema dificuldade de praticar o bem — a mais livre das ações — no Japão daqueles tempos.
+
+Nesse sentido, sentindo constantemente, de perto e de longe, o olhar vigilante e severo das autoridades, chegamos a refrear o próprio ímpeto de expansão da terapia. Prestávamos a máxima atenção às nossas palavras e ações, e, ainda assim, éramos alvo de injusta coação. Por nove anos, caminhamos com extrema cautela por um verdadeiro caminho de espinhos, enquanto nossa Obra se expandia e se infiltrava gradualmente na sociedade.
+
+Providencialmente, com o fim da recente guerra, a liberdade de expressão e de religião foi assegurada. Exultamos com a alegria da libertação, imersos na profunda emoção de que a Providência Divina nos trazia a primavera de nossa era. Todavia, acostumados por tanto tempo a atuar sob opressão, não cogitamos de imediato retornar à nossa forma religiosa original e persistimos em um modelo de atividades descentralizadas. Fomos, contudo, compelidos por circunstâncias que nos forçaram a buscar uma organização. Primeiramente, fundamos a Associação para a Difusão da Terapia Purificadora do Japão. Por fim, chegamos à conclusão de que deveríamos nos apresentar ao mundo a partir de nosso ponto de partida original: a religião. Naquele instante, o sinuoso e árduo caminho que serpenteava por montanhas e vales abriu-se de súbito, revelando um horizonte luminoso; sentíamo-nos como se tivéssemos chegado à grande e plana avenida que conduz a Luoyang.
+
+E, ao iniciarmos a transição para a forma religiosa, o processo transcorreu de maneira extremamente favorável, como se todos os preparativos necessários já tivessem sido providenciados. A organização foi tomando forma passo a passo, até que, em apenas um mês, alcançamos o reconhecimento oficial.
+
+Fui então nomeado Presidente, sendo-me confiada a responsabilidade por toda a organização. Eu, que sou originalmente um comerciante, com pouco conhecimento da doutrina e totalmente ignorante quanto à estrutura de uma religião, jamais poderia prever tal destino. A princípio, sentia-me completamente perdido, como se estivesse em meio a uma densa neblina. De todo modo, com base na experiência do passado, adotei a diretriz de organizar a Obra de Salvação da forma mais acessível e universalmente praticável. Inesperadamente, as pessoas e os recursos necessários se reuniram, e tudo progrediu com a fluidez da água que corre em seu leito, resultando em uma estrutura que superou todas as expectativas.
+
+Ao olhar para trás, eu mesmo me assombro com esse progresso miraculoso. Compreendi profundamente que todo o percurso foi conduzido pela insondável Vontade Divina e que eu, em minha ignorância, não passava de um boneco vivo, habilmente movido por Kannon (観音). Diante disso, não me resta senão exaltar longamente a profundidade e a grandeza dos desígnios de Deus.
+
+Como se pode observar na transição desde a Dai Nihon Kannon Kai até a consolidação da Igreja em nossos dias, o processo de se engrandecer com total naturalidade, sem jamais desafiar as perseguições ou as correntes de seu tempo, mas adaptando-se às circunstâncias de momento, local e posição, é a verdadeira face da prática de Kannon (観音) e a manifestação de Seu poder.
+
+Refletindo profundamente sobre essa verdade, embora a construção do Paraíso na Terra possa parecer, para muitos, um mero devaneio, somente ao vivenciar o poder de Kannon (観音) e ponderar sobre ele é que se compreende não ser algo irrealizável. Na verdade, percebe-se que, aos olhos de Deus, é uma obra de suma simplicidade.
+
+As religiões convencionais se limitaram, invariavelmente, à mera edificação do espírito humano. A Igreja Kannon, por sua vez, visa construir concretamente o Paraíso na Terra, o que constitui uma obra grandiosa e sem precedentes. Independentemente de se crer ou não, nossa fé em sua realização é inabalável e não admite dúvidas. E por que? Porque o tempo predestinado para a concretização desse ideal chegou. Temos um claro domínio sobre a manifestação do poder absoluto que o tornará realidade, e tanto a natureza do Mundo Divino quanto a essência desse poder foram teorizadas pelo Grande Mestre Conselheiro, por meio da Ciência Religiosa por Ele criada, a um nível que pode ser compreendido por todos.
+
+O Grande Mestre Conselheiro, na qualidade de cientista religioso, está prestes a descerrar, com a chave de Sua sublime sabedoria, a porta dos mistérios que a humanidade, desde a Antiguidade, anseia por conhecer, mas jamais conseguiu. Pela primeira vez, os enigmas milenares serão desvendados, e chegou o tempo de a humanidade se inebriar com a alegria de ver todos os seus sofrimentos solucionados em sua raiz. Nossa comoção é, pois, imensurável.
+
+Esta revista, como um dos veículos da Obra de Salvação, tem o propósito de permitir que tanto fiéis quanto não fiéis compreendam a realidade da construção do Paraíso na Terra e, ao mesmo tempo, de ser distribuída amplamente à sociedade como uma luz de salvação.
+
+Caros membros! Conforme mencionei, após a transição para a terapia popular, nossos dogmas e escrituras permaneceram ocultos por um longo tempo, como se tivessem sido suprimidos. Ardendo unicamente em nosso sincero desejo de erradicar o sofrimento das doenças e formar pessoas felizes por meio do poder invisível, fizemos a transição de volta à religião ainda em estado de desconhecimento, e nossa Igreja ainda não alcançou o ponto de ter suas escrituras completas. Em suma, o alicerce da atividade religiosa é o despertar espiritual. Os ministros devem, antes de tudo, conhecer a realidade de Deus e dos Budas e dominar o estudo religioso. Para esse fim, o Grande Mestre Conselheiro dignou-se a escrever um manual de nível elementar intitulado “Relatos sobre a Fé”, e agora teremos a honra de receber em cada edição desta revista Seus textos, que são verdadeiras joias. O despertar religioso assemelha-se a uma cordilheira cujo cume é a Verdade: quanto mais alto se sobe, mais vasto e rápido se torna o alcance da visão. O fundamento da prática da salvação é o amor e a sabedoria. Devemos, portanto, devotar-nos com afinco e sem recuo, tendo por meta a alegria e a felicidade de atingir esse cume.
+
+---
+
+# Não confie em medicamentos: eles são veneno
+
+**Categoria:** sanko | **Ano:** 昭和27(1952)年3月26日 | **Fonte:** Eikou
+**Título Original:** 参考文献 薬に頼るな薬は毒 | **Status:** Published | **Edição/Página:** 149号 | **Data ISO:** 1952-03-26
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## Não confie em medicamentos: eles são veneno
+
+Doutor em Medicina, Okada Michiichi
+
+É imperativo compreender que os medicamentos, em sua essência, são venenos. Essa verdade já era conhecida desde a Antiguidade. Hipócrates, o pai da Medicina, afirmou: “A substância que provoca a doença é a mesma que possui o poder de curá-la”. De modo semelhante, a farmacopeia chinesa Bencao Gangmu ensina: “O veneno se combate com o próprio veneno”.
+
+Talvez pareça um despropósito que eu, sendo médico, faça tal afirmação. Contudo, não sou o primeiro a fazê-la. O Dr. Alonzo Clark, da Faculdade de Medicina e Cirurgia de Nova Iorque, já declarava: “Todos os medicamentos que utilizamos são, sem exceção, substâncias tóxicas e, por conseguinte, cada dose administrada diminui a vitalidade do paciente. Os médicos, em seu afã de curar, acabam por causar danos gravíssimos. Na verdade, apressam a ida para o túmulo de muitas pessoas que, se entregues à própria natureza, certamente se recuperariam”.
+
+O Dr. Joseph Smith corrobora essa visão: “Qualquer medicamento que ingressa na corrente sanguínea intoxica o sangue da mesma forma que as substâncias que originam as enfermidades. A cura não provém do remédio; a doença é sempre sanada pela capacidade natural de recuperação do organismo”.
+
+Na mesma linha, o médico inglês Sir John Forbes declarou: “Alguns pacientes se recuperam pela força dos medicamentos, mas um número muito maior se restabelece sem o auxílio deles”.
+
+Portanto, conforme atestam essas eminentes autoridades, a cura obtida por meio de medicamentos não passa de uma supressão temporária dos sintomas. A verdadeira recuperação advém unicamente da capacidade inata do organismo de se fortalecer, ou seja, de sua força natural de cura. É por essa razão que Hipócrates sentenciou: “A natureza cura as doenças, e o médico leva os louros”.
+
+Adoecemos porque nossa capacidade natural de cura se encontra debilitada. Para remover esse torpor e permitir que a força vital atue em sua plenitude, o caminho não reside nos medicamentos. O método verdadeiro é o Johrei, ministrado em nossa Igreja. A despeito disso, muitos são os médicos e os idólatras da farmacologia que o qualificam como superstição.
+
+Na realidade, a medicina moderna, mera seguidora de uma corrente da medicina alemã, é que deveria ser considerada a verdadeira superstição. Ela jamais se equipara à nova medicina que pregamos, a qual ensina que os próprios sintomas da doença constituem o processo de cura. As enfermidades podem ser curadas sem o uso de medicamentos. Os tratamentos e as prescrições da medicina atual pouco fazem para atingir a raiz dos problemas; pelo contrário, em sua maioria, não passam de um embuste.
+
+O Dr. F. Dumaret, da França, em sua obra “A Vida Saudável do Paciente com Tuberculose”, afirmou categoricamente: “A medicina é a arte de iludir as pessoas, e seus preceitos, independentemente da interpretação que se lhes dê, não deixam de ser uma falácia”.
+
+A despeito do suposto progresso da medicina e da descoberta de novos fármacos, o número de doentes não diminui; ao contrário, a quantidade de enfermidades só aumenta. Antigamente, falava-se em 404 doenças. Hoje, um estudioso dedicado catalogou 176 mil. As estatísticas do Ministério da Saúde de nosso país, por si sós, registram mais de 1.200 tipos. Dessas, a causa é conhecida para pouco mais de 340, enquanto as mais de 800 restantes permanecem como de origem desconhecida. Diante de tal cenário, como se pode afirmar que a medicina progrediu? A verdade é que essa situação é um reflexo dos danos causados pelos próprios medicamentos.
+
+Precisamos, portanto, alçar nossos ideais a um patamar mais elevado e buscar um método que permita ao ser humano alcançar uma longevidade superior a cem anos, sem depender de fármacos. Há um médico de renome que fundou um “Clube dos Centenários” para arrecadar fundos e pesquisar um elixir da longevidade. Todavia, seus membros, sem sequer esperarem pelo dia de amanhã, sucumbem a derrames cerebrais e ao câncer, ou terminam seus dias como inválidos. Isso demonstra que já é tarde demais para seguir por esse caminho. É preciso tomar a iniciativa na pesquisa da saúde e da vida, sem nos apoiarmos em medicamentos. A simples cura das doenças é uma abordagem reativa. Nosso dever é ir além: construir corpos sadios que não necessitem de remédios e, por meio da fé nos ensinamentos de nossa Igreja, conquistar uma vida centenária.
+
+---
+
+# Mesa-redonda: "A Agricultura Natural na Ilha de Sado"
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
+**Título Original:** 参考文献 「自然栽培の佐渡」座談会 | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## Mesa-redonda: "A Agricultura Natural na Ilha de Sado"
+
+Publicado na revista Eikou, nº 198, em 4 de março de 1953
+(Incluído na obra “Comentários sobre a Agricultura Natural”)
+
+**Local:** Anexo da Igreja Koyo-Tyu em Kawaharada, Filial de Sanjo, Sado, Niigata
+**Data:** 15 de fevereiro de 1953
+**Moderador:** Tomizo Ishii
+**Participantes:** Tatsu Oda, Kansaku Kataoka, Tatsuo Uesaka, Tomizo Matsumoto, Shika Yamamoto, Teiichi Nahata, Akisaburo Tsuchiya, Nao Tsuchida, Sue Tsuchiya, Masao Ito, Shintaro Kitami (e mais de quarenta outros presentes)
+**Taquigrafia:** Naoko Imai
+
+**Resultados de dezoito campos de Agricultura Natural (incluindo os de primeiro ano):**
+Produção média: 3,11 koku
+Produção média de campos de controle com fertilizantes: 2,72 koku
+*Realizado apenas com o método da Agricultura Natural, sem a prática do Johrei nos campos.*
+
+Apresentamos aos leitores um colóquio com agricultores que praticam um método celestial de cultivo. O palco é a Ilha de Sado, uma ilha isolada no Mar do Japão, célebre por suas paisagens e pela canção folclórica “Sado Jowa”. Em sua vasta Planície de Kuninaka, responsável por mais de oitenta e cinco por cento da produção de arroz da ilha, as ondas douradas das plantações de Agricultura Natural se expandem a cada ano.
+
+Notavelmente, mesmo sem a prática do Johrei nos campos, não houve um único agricultor que sofresse redução na colheita desde o primeiro ano. Impulsionados por esse sucesso, muitos que não são membros de nossa Igreja também passaram a adotar o método, e todos, sem exceção, obtiveram excelentes resultados. Cumpriram, naturalmente, cem por cento da cota de arroz designada pelo governo. Desafios como pragas, escassez de mão de obra ou o alto custo dos fertilizantes tornaram-se irrelevantes. É um método que pode ser praticado por qualquer pessoa, seja mulher ou criança, não exigindo técnica nem artifícios. Traz apenas virtude, jamais malefício.
+
+### A Conversão do Presidente do Comitê Agrícola
+
+**Moderador:** Realizamos uma mesa-redonda como esta anteriormente. Gostaria de saber, qual foi o impacto da Agricultura Natural no último ano?
+
+**Ito:** Por muito tempo, tentei implementar a Agricultura Natural, mas meu pai, que ocupa o cargo de presidente do comitê agrícola, opunha-se obstinadamente. Ele agia quase como um porta-voz das empresas de fertilizantes. Contudo, após a distribuição da edição especial sobre agricultura em Sado, no ano passado, sua mentalidade começou a mudar. A título de experiência — e peço perdão por usar este termo —, ele dividiu um de seus arrozais ao meio, cultivando uma parte com o método natural e a outra com fertilizantes. O resultado foi inegavelmente claro: a área adubada sofreu com pragas e doenças, culminando no acamamento quase total das plantas. Em contrapartida, a área natural apresentou maior perfilhamento, maior número de grãos por panícula e ausência de grãos chochos. Naturalmente, não houve pragas, doenças ou acamamento. Todos que viram puderam atestar que a colheita seria, sem sombra de dúvida, trinta a quarenta por cento superior à da área adubada. Diante de tamanha disparidade, meu pai declarou que, a partir deste ano, passará a praticar a Agricultura Natural em todas as suas terras. Quanto aos números exatos da colheita, creio que ele misturou o arroz de ambas as áreas, em parte por reconhecer a superioridade do método natural e em parte por sentir-se constrangido por sua oposição anterior.
+
+**Oda:** Na cidade de Kawaharada, temos cinquenta e quatro famílias de agricultores, que entregam ao governo cerca de mil fardos de arroz. Deste total, apenas cinco fardos provenientes de lavouras adubadas foram classificados como de segunda classe. Foi então que a senhora Tsuchida, uma senhora de cinquenta e cinco anos, entregou seus catorze fardos, e todos foram classificados como de segunda classe. Diante disso, até mesmo o presidente do comitê agrícola viu-se obrigado a rever suas convicções.
+
+**Moderador:** Em Niigata, mesmo em entregas de cem ou duzentos fardos por família, ou até em lotes de dez mil fardos, quase não se viu arroz de segunda classe no ano passado.
+
+**Yamamoto (esposa do administrador do vilarejo K):** Em nossa propriedade, no ano passado, as plantas de arroz que receberam fertilizante simplesmente desapareceram. As panículas enegreceram e se desintegraram. De oito *tan* de terra cultivada, conseguimos colher apenas um fardo. O restante, nem o gado, nem as galinhas ou os porcos quiseram comer.
+
+**Moderador:** Isso pode ser interpretado como um reflexo do Ensinamento de Deus sobre a transição da Era da Noite para a Era do Dia, na qual a purificação se intensifica. A purificação das toxinas dos fertilizantes está se tornando notavelmente mais rigorosa. Sugiro que mostre os artigos sobre a Agricultura Natural aos seus familiares.
+
+**Yamamoto:** Meu marido costumava dizer que venderia o que fosse preciso para comprar fertilizantes, mas recentemente ele declarou: “Este ano, de forma alguma usarei fertilizantes”.
+
+**Todos os presentes:** Este ano, usar fertilizantes é um erro absoluto.
+
+### Sem a Prática do Johrei
+
+**Moderador:** Na última mesa-redonda, foi mencionado o propósito de se dedicar intensamente à prática do Johrei nos campos este ano...
+
+**Matsumoto:** Esta é uma questão pela qual devo, antes de mais nada, apresentar minhas escusas.
+
+**Sue:** Nós incentivamos as pessoas que não são membros dizendo que qualquer um poderia praticar o método. Diante disso, seria incoerente que apenas nós aplicássemos Johrei. Por isso, optamos por uma abordagem integralmente natural, sem Johrei. Além disso, minhas terras são cercadas por campos de não membros que também adotaram a Agricultura Natural, o que tornava inviável até mesmo erguer as mãos.
+
+**Moderador:** E quais foram os resultados obtidos pelos não membros?
+
+**Sue:** Um fiscal de grãos que experimentou o método em um campo acima do meu obteve resultados excelentes.
+
+**Kataoka:** O irmão de minha esposa, que não é membro, praticou a Agricultura Natural pela primeira vez no ano passado e obteve uma colheita superior à sua safra convencional com adubos. Ele está radiante.
+
+**Kitami:** Para mim também foi o primeiro ano, e tive um aumento de dois fardos por *tan*.
+
+**Uesaka:** Também foi meu primeiro ano, e a diferença em relação ao cultivo adubado é abismal.
+
+**Matsumoto:** O cultivo com fertilizantes tem fracassado completamente nos últimos dois ou três anos.
+
+**Moderador:** Em Niigata, a situação é semelhante. A melhor colheita foi há quatro anos, e desde então a produção vem caindo gradualmente. O ano passado foi particularmente ruim, com muitas propriedades colhendo apenas cerca de seis fardos por *tan*.
+
+**Nahata:** Os agricultores em geral estão comentando que tiveram um bom resultado este ano porque não usaram fertilizantes.
+
+### Um Método Agrícola Simples e Infalível para Todos
+
+**Matsumoto:** A Agricultura Natural é, verdadeiramente, um método de cultivo seguro e infalível. Não há necessidade de se preocupar com pragas, doenças ou intempéries. Os agricultores que usam fertilizantes, mal terminam o plantio, já estão apreensivos com a adubação de cobertura. Para nós, uma vez concluído o plantio, é como se a colheita já estivesse garantida.
+
+**Moderador:** Percebo que as mulheres membros que se dedicam ao cultivo têm obtido resultados ainda melhores que os dos homens.
+
+**Oda:** Para as viúvas, como eu, este método é uma verdadeira bênção dos céus. Uma mulher que precisa cuidar da lavoura, dos filhos, dos afazeres domésticos e das obrigações com a comunidade se vê obrigada a desempenhar o papel de três pessoas. Mesmo em lares com muitas pessoas, o período da primavera ao outono é de trabalho incessante. É somente graças à Agricultura Natural que conseguimos dar conta de tudo sem passarmos por dificuldades extremas.
+
+**Tsuchiya:** O cultivo com fertilizantes não é universal. Um método do nordeste do Japão não pode ser simplesmente replicado no oeste. A Agricultura Natural, no entanto, é universal; pode ser praticada sob as mesmas condições em todo o Japão e, na verdade, em todo o mundo.
+
+### O Contraste entre o Cultivo Natural e o Adubado
+
+**Moderador:** Ao longo do último ano, foram realizadas vistorias a cada dez dias para acompanhar o desenvolvimento da Agricultura Natural. Creio que devem ter surgido observações interessantes, comparações entre o cultivo natural e o adubado, relatos de falhas ou novas descobertas. Por favor, sintam-se à vontade para compartilhar suas experiências.
+
+#### O Uso de Mudas Adubadas em Campos de Cultivo Natural
+
+**Sue:** Como não tínhamos mudas naturais suficientes, recebemos mudas adubadas para completar o plantio. O resultado foi que todas as mudas adubadas foram acometidas pela brusone. Em alguns pontos, havia apenas duas ou três mudas adubadas misturadas no campo natural, e foram justamente essas que adoeceram. É algo assustador. Nos campos onde utilizamos mudas adubadas, a colheita foi um fardo menor por *tan*.
+
+**Matsumoto:** Por menor que seja, a muda natural é sempre preferível. A muda adubada parece vigorosa no início, mas após um mês, começa a perder a força gradualmente.
+
+#### Sobre o Composto Orgânico
+
+**Matsumoto:** Quando começamos a praticar a Agricultura Natural, dávamos muita ênfase ao composto orgânico e o utilizávamos em grande quantidade. Isso, contudo, tornava as plantas fracas, com perfilhamento excessivo e má formação dos grãos. Atualmente, utilizamos os materiais necessários para a agricultura, como cordas, sacos e esteiras de palha, e devolvemos o excedente aos campos.
+
+**Tsuchiya:** Gostaria de relatar uma falha minha. Durante o verão, ao capinar as hortas, pensei que seria um desperdício jogar fora as ervas daninhas, pois poderiam ser usadas como composto no arrozal. Assim, recolhi não apenas as minhas, mas também as que outros haviam descartado, e as incorporei ao meu campo, que já estava no quarto ano de cultivo natural. Eu aguardava com grande expectativa a colheita, mas, contrariando o esperado, a safra foi ruim. As ervas haviam absorvido as toxinas dos fertilizantes da horta, e eu, por descuido, me esqueci do ensinamento: “As ervas retornam à horta, a palha de arroz retorna ao arrozal”. Os Ensinamentos são a mais pura verdade, e contrariá-los traz consequências imediatas. Ainda assim, pela proteção divina, minha média de produção superou a dos cultivos adubados do vilarejo, e pude até mesmo entregar um *koku* a mais na cota governamental.
+
+#### Sobre a Capina
+
+**Matsumoto:** Após o plantio, a tarefa mais árdua é a capina. Graças à Agricultura Natural, essa atividade se tornou um paraíso. Em Sado, o costume é capinar de quatro a cinco vezes. Após três ou quatro anos de cultivo natural, as ervas daninhas quase não crescem mais, e duas capinas são suficientes. Uma rodada de capina, com toda a família, leva em média quatro dias. Reduzir de quatro para duas rodadas significa que a família inteira ganha oito dias de alívio celestial em pleno auge do verão. Minha própria família, que no início se opunha ao método, hoje diz que não voltaria a usar fertilizantes nem por um milhão de ienes.
+
+**Uesaka:** Sendo assim, os praticantes da Agricultura Natural não têm a desculpa de estarem ocupados demais para participar do Culto Mensal.
+
+**Todos os presentes:** Exatamente.
+
+#### A Relação entre a Temperatura do Solo e o Arroz, Antes e Depois do Auge do Verão
+
+**Nahata:** No ano passado, durante as vistorias a cada dez dias, medi a temperatura do solo com um geotermômetro e gostaria de relatar a íntima relação que observei entre a temperatura do solo e o desenvolvimento da cultura. Ao inserir o aparelho até a base da camada arável, constatei que, até o auge do verão, os campos naturais apresentavam uma temperatura de 1,5 a 3 graus Celsius mais elevada que a dos campos adubados. Por isso, mesmo que o desenvolvimento inicial seja mais lento, o arroz natural consegue se recuperar. A partir de meados do verão, quando o arroz entra na fase de formação da panícula jovem, a situação se inverte: a temperatura do solo adubado se eleva, enquanto a do solo natural se torna mais baixa. Esse fenômeno é o oposto do que ocorre antes. No campo adubado, o calor do solo e do ar estimula o perfilhamento ineficaz e o crescimento excessivo da planta. Em contraste, no campo natural, apesar da alta temperatura externa, o solo se mantém mais fresco. Isso faz com que a planta, já na fase de formação da panícula, cesse o crescimento vegetativo e direcione sua energia para o enchimento dos grãos. Eis por que, na colheita, o cultivo adubado resulta em muita palha e pouco arroz, enquanto o arroz natural produz grãos que parecem prestes a explodir. Fui ensinado que isso ocorre porque a Agricultura Natural está em perfeita harmonia com as leis da natureza. Afinal, a frutificação de todas as coisas no outono, quando as temperaturas são mais amenas, é uma lei natural. Somente em conformidade com a Vontade Suprema de Deus é que nós, seres humanos, podemos receber o arroz. Assim, para aqueles que desejam trabalho, preocupação e palha, recomendo o cultivo com fertilizantes. Para os que desejam arroz, recomendo a Agricultura Natural.
+
+**Sue:** Ao arrancarmos uma touceira, vemos que as raízes do arroz natural se espalham de forma radial, enquanto as do arroz adubado se desenvolvem horizontalmente, na superfície. É natural que, ao soprar o vento, estas últimas tombem.
+
+#### Comparativo de Pragas e Doenças (A Agricultura Natural é a Verdadeira Prevenção Divina)
+
+**Tsuchiya:** Pude compreender com total clareza que a causa das pragas e doenças reside na toxina dos fertilizantes. No ano passado, em Sado, não houve um único campo adubado que não tenha sido afetado. Meus campos naturais estavam cercados por eles. Houve uma infestação massiva de gorgulhos, lagartas-verdes e da cigarrinha-verde. Todos os campos ao redor foram pulverizados com BHC, e eu esperava que, naturalmente, todos os insetos invadissem minha lavoura. Contudo, nem um sequer se aproximou. O campo adubado, a meros quinze centímetros de distância, apresentava um cenário desolador. É como os micróbios que afetam os seres humanos: eles não se instalam naquilo que está limpo.
+
+**Kitami:** Mesmo no cultivo de hortaliças, no início os insetos podem aparecer, mas com o tempo, eles desaparecem. Parece que, para os insetos nascidos do adubo, o sabor do que é natural é desagradável.
+
+**Kataoka:** Então era a isso que se referiam ao dizer que "os insetos não gostam" (risos). Os membros do comitê agrícola, que inspecionam os campos, sabem muito bem que, este ano, em Sado, não houve pragas ou doenças na Agricultura Natural.
+
+#### A Influência sobre o Público em Geral
+
+**Kataoka:** Ao lado de todo agricultor-modelo, hoje existe um campo de Agricultura Natural. Os agricultores-modelo, para não ficarem para trás, aplicam ainda mais fertilizantes, o que, por sua vez, resulta em mais pragas, deixando-os em uma situação difícil.
+
+**Tsuchiya:** Aqueles que adubaram suas terras e tiveram uma colheita pequena já dizem que precisam encontrar um novo método.
+
+**Matsumoto:** Muitos estão dizendo: “É um absurdo que aqueles que não usam fertilizantes colham mais arroz do que nós, que usamos. Este ano, não vamos mais adubar”. O número de pessoas com essa mentalidade está crescendo consideravelmente.
+
+**Kataoka:** Os membros do comitê agrícola que visitam minhas terras admitem abertamente que os campos naturais são muito superiores aos convencionais.
+
+**Tsuchiya:** Ao verem o estado dos campos de Agricultura Natural, os agricultores de meu vilarejo estão hesitando em comprar fertilizantes. Eles raciocinam que, se alguns conseguem produzir sem adubo algum, então é possível colher arroz sem usar grandes quantidades. Isso lhes dá uma sensação de segurança. A Agricultura Natural tornou-se um parâmetro de comparação, e até a população em geral reconhece que perdeu economicamente. A influência do nosso método este ano será imensa, e as perspectivas são muito animadoras.
+
+### O Caminho do Agricultor é Adubar?
+
+**Tsuchiya:** A superstição em torno dos fertilizantes é algo assustador. As pessoas em geral acreditam que o “caminho do agricultor” consiste em adubar a terra, aplicar defensivos quando surgem as pragas e, por fim, colher o que sobra. Quem quer que faça algo diferente é visto como um herege.
+
+**Matsumoto:** Quando a colheita é ruim, o ser humano culpa a natureza: o tempo estava ruim, choveu demais, o sol foi muito forte. Mas, quando a colheita é boa, ele atribui o mérito a si mesmo: a quantidade de adubo foi a correta, o método de cultivo foi bom. Pobre de Deus, que sempre leva a culpa pelo que dá errado.
+
+**Kataoka:** Mais importante do que esgotar os esforços humanos é cumprir a vontade divina. Desde a antiguidade, se fala em *gokoku* (os cinco grãos), termo que também pode significar cinco *koku*. Portanto, a Agricultura Natural deve almejar uma colheita mínima de cinco *koku*.
+
+**Matsumoto:** Em Sado, as bases da Agricultura Natural foram finalmente consolidadas no último ano. Este ano, vamos nos empenhar para atingir a meta mínima de cinco *koku*.
+
+**Moderador:** Nosso tempo se esgotou. Agradeço a todos.
+
+**Nahata:** Para finalizar, gostaria de cantar um verso da canção “Okesa”:
+
+*“Ah, o veneno é adubo, e o adubo é veneno; que pena de quem o usa, coitado.”*
+
+*“Ah, o Okesa de Sado e o arroz natural; hoje, não há quem não os conheça.”*
+
+---
+
+# Relatório sobre o Segundo Ano do Cultivo sem Adubos
+
+**Categoria:** sanko | **Ano:** 昭和24(1949)年4月20日 | **Fonte:** Chijo Tengoku
+**Título Original:** 参考文献 無肥料栽培二年目の報告 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-04-20
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
+
+## Relatório sobre o Segundo Ano do Cultivo sem Adubos
+
+Publicado na revista "Paraíso Terrestre", nº 3, em 20 de abril de 1949
+Publicado na "Coletânea Jikan", volume 2, "O Método de Cultivo sem Adubos", em 1º de julho de 1949
+
+Yumoto Eisaku
+Presidente da Kakumeikai da Taiseikai da Igreja Kannon do Japão
+
+Há pouco mais de três anos, com a permissão de Meishu-Sama, vim de Tóquio para as planícies de Shonai, na província de Yamagata, uma renomada região produtora de arroz, a fim de estabelecer um centro de difusão para a construção do Paraíso Terrestre. Ao longo desse período, fui abençoado com inúmeras proteções divinas, e sinto-me imensamente grato por ter recebido, na data de hoje, a outorga do nome Kakumeikai para nosso grupo.
+
+Ao abordar a melhoria desta região produtora de arroz, gostaria de, primeiramente, apresentar minha experiência com o cultivo sem adubos.
+
+A intuição que tive ao contemplar a vasta planície que se estendia a perder de vista foi a de que o tempo de uma grande revolução se aproximava. E o que seria essa grande revolução? Trata-se da grande revolução de todas as aldeias rurais: a implementação do cultivo sem adubos. Contudo, se atualmente anunciarmos aos agricultores que é possível colher arroz sem adubos, quantos deles de fato acreditarão? A situação é análoga à da terapia espiritual, um método de cura para todas as enfermidades sem o uso de medicamentos. Afirmar que a saúde melhora e a longevidade é assegurada ao não se introduzir remédios no corpo gera o mesmo tipo de incredulidade.
+
+Por muito tempo, venho expondo e recomendando o cultivo sem adubos aos jovens membros da Igreja de nossa aldeia; todavia, percebi que o antigo hábito de utilizar fertilizantes não seria modificado com facilidade. Diante disso, no verão retrasado, compreendendo que a questão fundamental era a experiência prática, dei início imediato à sua execução.
+
+Na região de Tohoku, o plantio daquele ano havia sido concluído no início de junho. Meu assistente e eu conseguimos duas braçadas de mudas de arroz que haviam sobrado e demos início ao nosso cultivo experimental. Inexperiente, enfrentei considerável dificuldade para escolher o local. No entanto, confiando tudo a Deus e rogando por Sua proteção, decidi por uma área arenosa em frente à minha residência.
+
+Permitam-me descrever as condições do experimento. Primeiramente, o local, por estar dentro dos limites da propriedade, tinha ventilação e exposição solar inferiores às de um arrozal. Em segundo lugar, o terreno escolhido era uma duna de areia, inadequado para o cultivo de arroz. Em terceiro, como iniciamos os trabalhos após o término do plantio geral, nosso cultivo começou com cerca de um mês de atraso. Por fim, não utilizamos absolutamente nenhum tipo de fertilizante químico ou de dejetos humanos.
+
+Sob tão adversas condições, sob o sol abrasador de todos os dias, meu assistente e eu transportávamos água corrente para a irrigação. No início, percebi um desenvolvimento insatisfatório, talvez prejudicado pelo plantio tardio e pela água fria. Por mais de um mês, passamos a transportar de longe água morna de reservatórios, purificando a plantação com Johrei a cada rega e rogando perante o Pergaminho Sagrado, desejando de todo o coração produzir sementes de primeira qualidade já no primeiro ano de cultivo sem adubos.
+
+No começo do plantio, os vizinhos zombavam: "Senhor, não vai adiantar plantar aí. Isso é arroz de sequeiro? Se fosse possível colher arroz dessa forma, nós, agricultores, não teríamos problemas para aumentar a produção." E simplesmente riam. Naquele momento, em meu coração, amparado pela proteção absoluta da Luz Divina, não havia outro sentimento senão o de mostrar-lhes no outono o quanto se arrependeriam de suas palavras.
+
+Finalmente, chegou o outono da colheita. Ao tomar as espigas em minhas mãos e observar o brilho dourado e a uniformidade dos grãos, lágrimas de gratidão me vieram aos olhos. O resultado superou todas as expectativas, com espigas de 130 a 180 grãos por haste. Assim, as sementes para o cultivo sem adubos foram obtidas. Imediatamente, ofereci minha gratidão a Deus e orei pela proteção para o segundo ano.
+
+No segundo ano, distribuí as sementes aos membros mais devotados de três aldeias, rogando-lhes: "Estas são sementes preciosas, fruto de um experimento sem adubos. Peço que as cultivem com a máxima atenção. O resultado poderá se tornar um grande evangelho para todo o meio rural, e vocês se tornarão os pioneiros na orientação deste método grandioso. Portanto, dediquem-se com grande entusiasmo". Os membros das três localidades empenharam-se de corpo e alma no cultivo. No outono passado, graças à proteção Divina, conseguiram colher um *to* (aproximadamente 18 litros) de arroz. Imediatamente, enviei um *shō* (cerca de 1,8 litro) a Meishu-Sama, como prova do sucesso, e tive a honra de que Ele o degustasse. O restante do grão servirá como semente para o cultivo do terceiro ano.
+
+O fato de alguém inexperiente em agricultura como eu ter recebido a permissão de produzir sementes pelo método de cultivo sem adubos mergulhou-me numa alegria comparável à de um grande inventor. Permiti-me, assim, relatar um fragmento desta experiência. A partir da safra deste ano, pretendemos dar início à orientação e difusão em larga escala do método de cultivo sem adubos, selecionando jovens agricultores dedicados e líderes rurais para atuarem como instrutores em diversas localidades. Em meio à atual escassez de alimentos básicos, planejamos aumentar a produção através da disseminação deste método.
+
+**Referências**
+
+(I) Aumento de produção: Com base no cálculo de um acréscimo de 20 *monme* (75 g) por *shō* (1,8 l), resultando em 5 *shō* por *koku* (180 l), o aumento da produção nacional chegaria a milhares ou dezenas de milhares de *koku*.
+
+(II) Redução de trabalho e custo: A desnecessidade de capinar e de eliminar pragas reduz o esforço e os custos a aproximadamente um terço, o que trará estabilidade e harmonia aos lares e contribuirá de forma incomensurável para o desenvolvimento da nação.
+
+(III) Custo zero com fertilizantes.
+
+(IV) Qualidade do grão: Os grãos possuem um brilho autêntico, quase azulado. Seu sabor é inigualável, e seu valor nutritivo é de cem por cento.
+
+(V) Benefícios para a saúde: Por dispensar o uso de dejetos humanos como adubo, impede-se a proliferação de parasitas no organismo, garantindo, de forma absoluta, a longevidade (conforme aprendemos nos ensinamentos de Meishu-Sama).
+
+Ressalto que estes são os resultados do segundo ano de cultivo. Para o terceiro ano, a expectativa de resultados ainda melhores é, de fato, motivo de grande entusiasmo.
+
+---
+
+# kisoku
+
+**Categoria:** sanko | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
+**Título Original:** 宗教法人「世界救世教」規則 | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+―― Coletânea de Artigos do Mestre Okada Jikanshi (岡田自観師) ――
+Busca de Ensinamentos: Ajuda | Busca de Documentos:
+
+## Regulamento da Organização Religiosa "Sekai Kyusei Kyo"
+Publicado na edição nº 125 da revista Glória, em 10 de outubro de 1951 (Showa 26)
+
+**Índice**
+
+Capítulo I - Disposições Gerais (Artigos 1º a 4º)
+Capítulo II - Diretores e Outros Órgãos
+Seção 1 - Presidente e Conselheiros (Artigos 5º a 10º)
+Seção 2 - Substitutos (Artigos 11º a 14º)
+Seção 3 - Presidente Provisório e Conselheiros Provisórios (Artigo 15º)
+Seção 4 - Sede Administrativa (Artigo 16º)
+Seção 5 - Assembleia Geral (Artigos 17º a 23º)
+Seção 6 - Fiscais (Artigo 24º)
+Seção 7 - Órgão Consultivo (Artigo 25º)
+Capítulo III - Igrejas (Artigos 26º a 28º)
+Capítulo IV - Finanças (Artigos 29º a 42º)
+Capítulo V - Empreendimentos (Artigo 43º)
+Capítulo VI - Disposições Complementares (Artigos 44º a 46º)
+Disposições Adicionais
+
+**Capítulo I - Disposições Gerais**
+
+(Denominação)
+Artigo 1º - Esta organização, constituída como pessoa jurídica de direito privado em conformidade com a Lei de Organizações Religiosas, denomina-se "Sekai Kyusei Kyo".
+
+(Localização da Sede)
+Artigo 2º - A sede desta organização religiosa (doravante denominada "a organização") está estabelecida em 231-1, Ohkubo, cidade de Atami, província de Shizuoka.
+
+(Objetivo)
+Artigo 3º - Esta organização, reverenciando o Mestre Okada Jikanshi (岡田自観師) como seu Líder Espiritual e fundamentando-se nos princípios basilares de sua fundação, tem por objetivo a salvação da humanidade. Para tanto, busca concretizar a Verdade a fim de promover a celestialização do mundo terreno, que constitui o desígnio do Criador. Suas atividades incluem a ampla divulgação da doutrina, a realização de cerimônias e rituais, a formação e o desenvolvimento espiritual dos fiéis, a congregação das igrejas, bem como a execução de outras tarefas e empreendimentos necessários para o cumprimento de sua missão.
+
+(Método de Notificação Pública)
+Artigo 4º - As notificações públicas desta organização serão efetuadas por meio de uma publicação em sua revista oficial, "Glória", e pela afixação do comunicado no quadro de avisos da sede pelo período de dez dias.
+
+**Capítulo II - Diretores e Outros Órgãos**
+
+**Seção 1 - Presidente e Conselheiros**
+
+(Composição)
+Artigo 5º - Esta organização contará com onze Diretores Responsáveis, dentre os quais um será o Diretor Representante.
+
+(Nomenclatura)
+Artigo 6º - O Diretor Representante será denominado "Presidente", e os demais Diretores Responsáveis serão denominados "Conselheiros".
+
+(Qualificação e Nomeação)
+Artigo 7º - O Presidente será eleito por votação mútua entre os Conselheiros.
+2. Os Conselheiros serão nomeados pelo Presidente dentre os indivíduos eleitos pela Assembleia Geral.
+
+(Mandato)
+Artigo 8º - O mandato do Presidente e dos Conselheiros será de três anos, sendo permitida a reeleição.
+2. O mandato de um Conselheiro suplente corresponderá ao período remanescente do mandato de seu predecessor.
+3. Mesmo após a renúncia ou o término do mandato, o Presidente e os Conselheiros continuarão a exercer suas funções até que seus sucessores assumam os respectivos cargos.
+
+(Atribuições e Poderes do Presidente)
+Artigo 9º - O Presidente representa esta organização e supervisiona a totalidade de seus assuntos administrativos.
+
+(Atribuições e Poderes dos Conselheiros)
+Artigo 10º - Os assuntos administrativos desta organização serão decididos pelo voto da maioria do quadro de Diretores Responsáveis, possuindo cada um deles igual poder de voto.
+
+**Seção 2 - Substitutos**
+
+(Circunstâncias de Nomeação)
+Artigo 11º - A nomeação de um substituto será obrigatória em qualquer uma das seguintes hipóteses:
+I. Quando, em decorrência de falecimento, renúncia, término de mandato ou outro motivo, houver vacância no cargo de Presidente ou de Conselheiro e não for possível eleger um sucessor em tempo hábil.
+II. Quando o Presidente ou um Conselheiro se encontrar impossibilitado de exercer suas funções por um período superior a três meses, devido a enfermidade, viagem ou outra razão.
+
+(Nomeação)
+Artigo 12º - O substituto do Presidente será designado pelo Conselho de Diretores na hipótese prevista no item I do artigo anterior, e nomeado pelo próprio Presidente na hipótese prevista no item II do mesmo artigo.
+2. O substituto de um Conselheiro será nomeado pelo Presidente ou por seu substituto.
+
+(Atribuições e Poderes)
+Artigo 13º - O substituto exercerá a totalidade das funções do Presidente ou do Conselheiro a quem substitui.
+
+(Cessação do Cargo)
+Artigo 14º - O substituto cessará naturalmente suas funções tão logo se extinga o motivo que deu causa à sua nomeação.
+
+**Seção 3 - Presidente Provisório e Conselheiros Provisórios**
+
+Artigo 15º - O Presidente não terá poder de representação em assuntos nos quais haja conflito de interesses com esta organização. Nesses casos, o Conselho de Diretores deverá designar um Presidente Provisório.
+2. Um Diretor Responsável não terá direito a voto em deliberações sobre assuntos nos quais possua interesse particular. Nesses casos, o Conselho de Diretores deverá designar um número de Conselheiros Provisórios equivalente ao número de Diretores Responsáveis impedidos de votar.
+
+**Seção 4 - Sede Administrativa**
+
+Artigo 16º - A sede administrativa será composta por seis departamentos: Assuntos Gerais, Assuntos Religiosos, Finanças, Publicações, Construção e Empreendimentos, e contará com um quadro de funcionários.
+2. Os funcionários mencionados no parágrafo anterior serão nomeados pelo Presidente.
+
+**Seção 5 - Assembleia Geral**
+
+(Membros)
+Artigo 17º - A Assembleia Geral será constituída por membros, sendo estes os presidentes de cada igreja.
+2. O mandato de um membro da Assembleia corresponderá ao seu mandato como presidente de sua igreja.
+
+(Convocação)
+Artigo 18º - A Assembleia Geral Ordinária será convocada pelo Presidente anualmente, no mês de fevereiro.
+2. O Presidente poderá convocar uma Assembleia Geral Extraordinária sempre que julgar necessário. A convocação se tornará obrigatória se solicitada por mais de um quarto do total de membros. Tal obrigatoriedade, contudo, não se aplicará em casos de necessidade urgente ou outras circunstâncias inevitáveis. Nessas situações, as deliberações serão tomadas pelo Conselho de Diretores, devendo ser submetidas à aprovação na Assembleia Geral subsequente.
+
+(Duração)
+Artigo 19º - A duração de cada Assembleia Geral será determinada pelo Presidente.
+2. O Presidente poderá prorrogar a duração da Assembleia se julgar necessário. A prorrogação se tornará obrigatória se solicitada por mais de um quarto do total de membros.
+
+(Presidente e Vice-Presidente da Assembleia)
+Artigo 20º - A Assembleia Geral terá um presidente e um vice-presidente.
+2. O presidente e o vice-presidente da Assembleia serão eleitos por votação mútua entre os membros no início de cada sessão.
+3. O mandato do presidente e do vice-presidente da Assembleia corresponderá ao mandato de seus respectivos cargos como membros.
+4. O presidente da Assembleia conduzirá os trabalhos e representará a Assembleia. O vice-presidente o auxiliará e o substituirá em seus impedimentos.
+
+(Quórum para Deliberação e Votação)
+Artigo 21º - A Assembleia Geral não poderá iniciar seus trabalhos nem realizar votações sem a presença de mais da metade do total de seus membros.
+2. As deliberações da Assembleia Geral serão decididas pela maioria dos membros presentes. Em caso de empate, o voto de minerva caberá ao presidente da Assembleia.
+
+(Matérias de Deliberação)
+Artigo 22º - As matérias a serem deliberadas na Assembleia Geral são as seguintes:
+I. Assuntos relativos à alteração deste Regulamento.
+II. Assuntos relativos à alienação de patrimônio.
+III. Assuntos relativos ao orçamento e à prestação de contas.
+IV. Assuntos relativos ao planejamento de empreendimentos.
+V. Outros assuntos especificamente previstos neste Regulamento e aqueles que o Presidente julgar necessários.
+
+(Matérias de Relatório)
+Artigo 23º - O Presidente deverá apresentar à Assembleia Geral relatórios sobre os seguintes assuntos:
+I. Assuntos relativos à criação e alteração das normas de execução deste Regulamento.
+II. Assuntos relativos à administração e contabilidade desta organização.
+
+**Seção 6 - Fiscais**
+
+Artigo 24º - Esta organização terá três Fiscais, responsáveis pela auditoria das finanças.
+2. As disposições do parágrafo segundo do Artigo 7º e do Artigo 8º aplicam-se, por analogia, aos Fiscais.
+
+**Seção 7 - Órgão Consultivo**
+
+Artigo 25º - Esta organização poderá ter Consultores e Conselheiros Consultivos.
+2. Os Consultores e Conselheiros Consultivos serão indicados pelo Presidente dentre pessoas de notório saber e experiência.
+3. O Presidente poderá convocar representantes dos membros das igrejas para ouvir suas opiniões.
+
+**Capítulo III - Igrejas**
+
+(Fundação, Alteração de Regulamento, etc.)
+Artigo 26º - Para a fundação de uma igreja ou para que uma igreja realize qualquer dos atos a seguir elencados, é necessária a aprovação do Presidente:
+I. Constituir-se como pessoa jurídica de direito privado (incluindo o estabelecimento de uma relação de filiação com esta organização).
+II. Alterar seu regulamento.
+III. Realizar fusão ou dissolução.
+
+(Alienação de Patrimônio, etc.)
+Artigo 27º - Para que uma igreja realize qualquer dos atos a seguir elencados, é necessária a aprovação do Presidente. Contudo, tal disposição não se aplica aos atos mencionados nos itens III a V, caso decorram de necessidade emergencial ou sejam de pequena monta, bem como ao ato mencionado no item V, quando se tratar de um período temporário.
+I. Alienar ou onerar como garantia bens imóveis ou bens valiosos constantes no inventário patrimonial.
+II. Contrair empréstimos (exceto empréstimos de curto prazo a serem quitados com receitas do mesmo ano fiscal) ou prestar garantias.
+III. Realizar construção, reforma, ampliação, realocação, demolição ou alteração significativa nas edificações principais de suas dependências.
+IV. Realizar alterações significativas no terreno de suas dependências.
+V. Alterar o uso das edificações principais ou do terreno de suas dependências, ou destiná-los a fins diversos de seu objetivo principal.
+
+(Nomeação do Diretor Representante e seu Substituto)
+Artigo 28º - O presidente de uma igreja e seu substituto serão nomeados pelo Presidente da organização, a partir da indicação da pessoa designada conforme o regulamento da respectiva igreja.
+
+**Capítulo IV - Finanças**
+
+(Fixação e Arrecadação de Contribuições)
+Artigo 29º - Para cobrir as despesas relativas ao cumprimento de seus objetivos, esta organização fixará e arrecadará contribuições das igrejas e de seus membros.
+
+(Classificação dos Ativos)
+Artigo 30º - Os ativos desta organização são classificados em Patrimônio Essencial e Patrimônio Ordinário.
+2. O Patrimônio Essencial é constituído pelos seguintes bens:
+I. Terrenos, edificações e outros bens imóveis.
+II. Títulos públicos, debêntures e outros valores mobiliários.
+III. Bens acumulados com o propósito de preservação perpétua.
+IV. Doações designadas como Patrimônio Essencial.
+3. O Patrimônio Ordinário é constituído por todos os bens que não integram o Patrimônio Essencial, bem como pelos frutos gerados pelo patrimônio, pelas contribuições das igrejas, pelas doações dos membros e por outras receitas gerais.
+
+(Constituição e Alteração do Patrimônio Essencial)
+Artigo 31º - A constituição ou alteração do Patrimônio Essencial requer deliberação e aprovação da Assembleia Geral.
+
+(Administração do Patrimônio Essencial)
+Artigo 32º - O Patrimônio Essencial em espécie deverá ser convertido em bens imóveis ou valores mobiliários de alta segurança, depositado em instituição bancária de confiança ou administrado de outra forma apropriada.
+
+(Alienação do Patrimônio Essencial, etc.)
+Artigo 33º - Os atos a seguir elencados requerem deliberação e aprovação da Assembleia Geral:
+I. Alienar ou onerar como garantia o Patrimônio Essencial.
+II. Contrair empréstimos (exceto empréstimos de curto prazo a serem quitados com receitas do mesmo ano fiscal) ou prestar garantias.
+
+(Elaboração do Inventário Patrimonial)
+Artigo 34º - O inventário patrimonial deverá ser elaborado no prazo de um mês após o término de cada ano fiscal, com base na posição do último dia do ano anterior, e submetido à aprovação da Assembleia Geral, após auditoria dos Fiscais.
+
+(Cobertura das Despesas)
+Artigo 35º - As despesas desta organização serão cobertas com o Patrimônio Ordinário.
+
+(Elaboração do Orçamento)
+Artigo 36º - O orçamento deverá ser elaborado antes do início de cada ano fiscal e submetido à deliberação e aprovação da Assembleia Geral.
+
+(Classificação do Orçamento)
+Artigo 37º - O orçamento será dividido em duas partes, ordinária e extraordinária, e cada uma delas será subdividida em categorias e itens, a fim de evidenciar a natureza das receitas e o propósito das despesas.
+
+(Constituição e Uso de Fundo de Reserva)
+Artigo 38º - Poderá ser constituído um fundo de reserva no orçamento para cobrir despesas que excedam o previsto ou que não estejam orçadas.
+2. A utilização do fundo de reserva requer deliberação e aprovação da Assembleia Geral.
+
+(Suplementação e Retificação do Orçamento)
+Artigo 39º - Caso surjam motivos inevitáveis após a elaboração do orçamento, será possível suplementá-lo ou retificá-lo, mediante deliberação e aprovação da Assembleia Geral.
+
+(Elaboração da Prestação de Contas)
+Artigo 40º - A prestação de contas será elaborada após o término de cada ano fiscal e submetida à aprovação da Assembleia do ano seguinte.
+
+(Tratamento de Superávits e Receitas Extraordinárias)
+Artigo 41º - Ocorrendo superávit no balanço ou havendo receitas não previstas no orçamento, tais valores poderão ser incorporados às receitas do ano fiscal seguinte ou, mediante deliberação da Assembleia Geral, serem total ou parcialmente incorporados ao Patrimônio Essencial.
+
+(Ano Fiscal)
+Artigo 42º - O ano fiscal desta organização terá início em 1º de janeiro e término em 31 de dezembro de cada ano.
+
+**Capítulo V - Empreendimentos**
+
+Artigo 43º - Para subsidiar o cumprimento de seus objetivos, esta organização realizará atividades de mineração.
+2. O referido empreendimento será administrado e operado pelo Departamento de Empreendimentos.
+3. Os lucros provenientes do empreendimento mencionado no parágrafo primeiro deverão ser destinados às seguintes organizações e finalidades:
+I. A esta organização.
+II. A organizações auxiliadas por esta organização.
+III. A obras de utilidade pública auxiliadas por esta organização.
+4. A contabilidade referente ao empreendimento mencionado no parágrafo primeiro será segregada da contabilidade geral e administrada como uma contabilidade especial.
+
+**Capítulo VI - Disposições Complementares**
+
+(Alteração do Regulamento e Fusão)
+Artigo 44º - A alteração deste Regulamento requer deliberação e aprovação da Assembleia Geral. O mesmo procedimento se aplica à fusão desta organização.
+
+(Dissolução)
+Artigo 45º - A dissolução desta organização requer o consentimento de mais de dois terços do total de seus membros e a unanimidade do quadro de Diretores Responsáveis, além da homologação do Ministro da Educação.
+2. Em caso de dissolução, os Diretores Responsáveis atuarão como liquidantes. Nessa situação, eles elegerão entre si um liquidante representante.
+3. O patrimônio remanescente em caso de dissolução desta organização será destinado a quem for designado por deliberação da Assembleia Geral no momento da dissolução.
+
+(Normas de Execução)
+Artigo 46º - As normas detalhadas para a execução deste Regulamento serão estabelecidas pelos Diretores Responsáveis.
+
+**Disposições Adicionais**
+
+1. Este Regulamento entra em vigor na data de sua homologação pelo Ministro da Educação.
+2. O regulamento anterior fica revogado.
+3. As disposições do regulamento anterior permanecerão em vigor para as igrejas que se enquadrem como organizações religiosas nos termos do parágrafo terceiro das disposições adicionais da Lei de Organizações Religiosas. Contudo, tal vigência não se aplica às disposições que possuam equivalentes neste Regulamento; nesses casos, prevalecerão as disposições correspondentes deste Regulamento.
+4. O Presidente, os Conselheiros e os Fiscais na data de entrada em vigor deste Regulamento são os seguintes:
+Presidente: Naokichi Ohkusa
+Conselheiro: Yutaka Abe
+Conselheiro: Otomatsu Araya
+Conselheiro: Yoshio Iwamatsu
+Conselheiro: Yasuhiko Onuma
+Conselheiro: Naoyuki Kawai
+Conselheiro: Iichiro Kihara
+Conselheiro: Inosuke Koizumi
+Conselheiro: Masakazu Momomi
+Conselheiro: Jitsutaro Moriyama
+Conselheiro: Katsuichi Watanabe
+Fiscal: Raku Naito
+Fiscal: Taka Nihongi
+Fiscal: Hisashi Yashiro
+
+---
+
+# O Mundo Torna-se Progressivamente Mais Quente (A Elevação da Temperatura Polar)
+
+**Categoria:** sanko | **Ano:** 昭和29(1954)年2月24日 | **Fonte:** Eikou
+**Título Original:** 参考文献 世界は暖かくなりつつある 極地気温の上昇につれて | **Status:** Published | **Edição/Página:** 249号 | **Data ISO:** 1954-02-24
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## O Mundo Torna-se Progressivamente Mais Quente (A Elevação da Temperatura Polar)
+
+Por Hidetoshi Arakawa, Diretor do Laboratório de Pesquisa e Previsão do Instituto Meteorológico
+Revista Eikoh, nº 249, publicada em 24 de fevereiro de 1954
+
+Nos últimos anos, o mundo tem se tornado progressivamente mais quente, um fenômeno particularmente notável nas imediações do Polo Norte. Com efeito, no verão de 1932, foi inaugurada a primeira rota marítima através do Oceano Ártico e, no verão de 1940, às vésperas da Grande Guerra, uma centena de embarcações já lograva êxito em conectar a Europa e a Ásia por esse mesmo trajeto. Evidentemente, o avanço das técnicas de navegação e a premência dos tempos foram fatores de grande influência; contudo, a causa preponderante foi o acentuado degelo do Oceano Ártico durante os verões recentes, que passou a permitir que navios a vapor navegassem com facilidade, sem a necessidade de quebra-gelos.
+
+As geleiras dos Alpes europeus, da Escandinávia e do continente americano continuam a regredir ano após ano, havendo casos de glaciares menores que desapareceram por completo. Diante desse aquecimento global e do contínuo derretimento de gelo e neve, é inevitável que o volume dos oceanos aumente. Se assumirmos que o leito oceânico permanece estável, o aumento do volume de água deveria, por consequência, provocar uma elevação contínua do nível do mar. De fato, resultados de perfurações em larga escala, realizadas recentemente pelos Estados Unidos em recifes de coral nas águas tropicais do Pacífico, indicam que os recifes geralmente atingem a rocha matriz a uma profundidade de aproximadamente trezentos pés. Considerando que os corais não sobrevivem sem contato com o ar, esse fato só pode ser interpretado como uma evidência de que eles cresceram verticalmente, acompanhando a elevação do nível do mar.
+
+Concomitantemente à elevação da temperatura nos polos, as zonas marítimas se expandiram até as proximidades da Islândia e do Mar de Barents. Os esquimós da Groenlândia, que antes pescavam quase exclusivamente focas, viram o bacalhau surgir pela primeira vez em suas águas no ano de 1912; hoje, segundo relatos, o peixe é utilizado rotineiramente tanto para alimentação quanto para a iluminação. Ademais, espécies de aves até então desconhecidas na região começaram a aparecer. Dessa forma, a amenização do clima provocou transformações também no mundo biológico.
+
+Até quando, porém, prosseguirá essa tendência de aquecimento climático? Essa questão nos remete à teoria dos ciclos de mil e oitocentos anos, proposta pelo falecido Dr. Otto Pettersson. Segundo o doutor, é astronomicamente calculável que a força de maré (a força que origina as marés) aumenta e diminui em um ciclo de mil e oitocentos anos. Com efeito, essa força atingiu seu ponto mínimo por volta do ano 550 d.C. e seu ápice em torno de 1433 d.C. Quando a força de maré se intensifica, correntes quentes das profundezas oceânicas penetram no Oceano Ártico, fragmentando o gelo polar. Subsequentemente, esse gelo é transportado pelas correntes marítimas e impelido para o Oceano Atlântico. Como consequência, o frio na Europa Ocidental torna-se rigoroso.
+
+De fato, a história do século XIII tem seu início com a ascensão dos mongóis e prossegue com a expedição mongol à Europa e a fundação da dinastia Yuan. A esse período, seguiram-se a Guerra dos Cem Anos entre Inglaterra e França, a conquista do Império Timúrida, a incursão do Império Otomano na Europa e, por fim, a disseminação da peste bubônica (que, segundo se estima, dizimou cerca de um terço da população europeia). Todos esses eventos sugerem as agruras de uma vida marcada pela instabilidade climática. No Japão, essa mesma época correspondeu ao conturbado Período dos Reinos Combatentes.
+
+Por outro lado, existem inúmeras evidências de que o clima mundial foi ameno no período anterior a esse. Relata-se que Erik, o Vermelho, descobridor da Groenlândia, navegou diretamente da Islândia para lá no final do século X, uma proeza hoje impossível, pois a costa leste groenlandesa encontra-se bloqueada por uma espessa camada de gelo. Consta que, naquela época, fruticulturas floresciam e o gado pastava livremente naquelas terras.
+
+O período que se estende aproximadamente do século V ou VI até o século X foi, tanto no Ocidente quanto em nosso país, uma era de tranquilidade que poderíamos denominar “a idade da fé”. Durante esses séculos, o clima era, incontestavelmente, ameno. Sob essa perspectiva, é provável que o clima se torne ainda mais ameno no futuro próximo. E, se a amenização do clima contribuir para abrandar o coração dos homens, teremos todos os motivos para nutrir grandes esperanças.
+
+Há, todavia, um ponto que nos causa apreensão. Embora tenhamos vivenciado uma sucessão de invernos amenos recentemente, é sabido que estes são frequentemente seguidos por verões frios. Se verões frios resultarem em más colheitas, tal tendência se afigura como um presságio pouco alvissareiro.
+
+---
+
+# Retrospectiva de 1950
+
+**Categoria:** sanko | **Ano:** 昭和25(1950)年12月27日 | **Fonte:** Eikou
+**Título Original:** 一九五〇年の回顧 本郷弓二 | **Status:** Published | **Edição/Página:** 84号 | **Data ISO:** 1950-12-27
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## Retrospectiva de 1950
+
+Hongo Kyuji. Revista Eikou, nº 84, 27 de dezembro de 1950.
+
+O ano de 1950 revelou-se verdadeiramente complexo e multifacetado para a Sekaikyuseikyou. Contudo, as provações e os desafios não se limitaram à nossa Igreja. Para o mundo inteiro e para toda a humanidade, foi um período em que começaram a emergir os primeiros e sinistros presságios das drásticas transformações que estariam por vir.
+
+A divergência de visões de mundo entre as duas superpotências, Estados Unidos e União Soviética, atingiu seu ápice com a invasão da Coreia do Sul pelas tropas norte-coreanas. Somam-se a isso os conflitos armados no Sudeste Asiático, os embates entre forças democráticas e comunistas no Oriente Próximo e as incessantes tensões na Alemanha dividida. Todos esses acontecimentos eram suficientes para demonstrar que a transição de uma guerra fria para uma guerra declarada havia alcançado um patamar praticamente inevitável.
+
+Toda essa conjuntura já havia sido elucidada por Meishu-Sama nos diversos ensaios que publicou no início do ano. E, mais uma vez, não nos resta senão reverenciar Sua perspicácia penetrante, capaz de enxergar além das aparências.
+
+Nesse mesmo sentido, Meishu-Sama, em consonância com Seus ensaios, alertou que o tempo profetizado pelo Grande Mestre Cristo — “Arrependei-vos, porque é chegado o Reino dos Céus” — se aproximava de maneira iminente. Ele nos advertiu sobre a proximidade do Juízo Final, o momento em que Deus separará o bem do mal. Essa convicção inabalável é expressa no último capítulo de Seu “Relato sobre a Perseguição Religiosa”, no qual declara: “Creiam ou não, em um futuro próximo Deus irá Se manifestar. Concluo estas palavras com o alerta de que, quando esse momento chegar, será tarde demais para o arrependimento”. Tal afirmação nos faz sentir a proximidade da era tão almejada pela humanidade desde os primórdios da história: o tempo da separação entre o bem e o mal.
+
+Para nós, messiânicos, a quem Deus confiou a missão de salvar a humanidade deste Juízo Final, o acontecimento de maior significado foi a concretização do grandioso plano de estender a mão da salvação a todo o mundo. Para tanto, a antiga organização religiosa de escopo japonês, a Nihon Kannon Kyoudan, foi rebatizada, por ocasião do Setsubun, como Sekaikyuseikyou. Com sua estrutura renovada, a Igreja deu um passo decisivo e iniciou uma era de grande expansão.
+
+A transição de uma salvação de âmbito japonês para uma de escala mundial pode ser vista por alguns como uma presunção messiânica. Todavia, a verdade é que compreender a vastidão e a profundidade do Plano Divino é uma tarefa árdua para todos, exceto para aqueles que possuem uma fé elevada no Messias. Foi precisamente por essa razão que a frase “Tornai-vos Messias” foi incorporada à oração Amatsu-Norito, como manifestação de um poder salvífico que transcende raças e fronteiras e como prova do alcance do Grande Amor de Deus.
+
+Observando em retrospecto, o desenvolvimento que alcançamos em tão curto período, navegando em águas tranquilas, foi de uma magnitude sem precedentes na história das religiões. Tal expansão é, em si, um testemunho do nosso poder de salvação e dos benefícios concretos que proporcionamos.
+
+No entanto, por trás desse crescimento tão notável, Deus havia ocultado um desígnio para nos levar à autorreflexão. O ímpeto de nosso avanço, qual cavalo em disparada, nos fez carecer de introspecção. E foi com o propósito de nos alertar para essa falha que se manifestou a recente perseguição religiosa.
+
+Ainda que aceitássemos integralmente o teor da acusação do promotor, essa perseguição não passaria de um pequeno e corriqueiro incidente. No entanto, em virtude da cobertura sensacionalista e instigadora da imprensa, que transformou um fato banal em um escândalo, o golpe sofrido por Meishu-Sama e pela nossa Igreja foi deveras doloroso. Apesar disso, é digno de louvor que os fiéis, alicerçados em sua fé no Messias, não se deixaram envenenar pelas reportagens mal-intencionadas e mantiveram-se firmes em suas convicções.
+
+Com notável precisão, Meishu-Sama sintetizou a natureza desses acontecimentos com quatro ideogramas, cujo significado é “das flores que caem, os frutos amadurecem”. Compreendemos, a partir disso, que Ele nos indicou com clareza o grandioso caminho a seguir: o da rigorosa autorreflexão sobre o passado e do abandono definitivo dos velhos costumes.
+
+O caminho ao qual todos os fiéis são conclamados não é outro senão o de se aprimorarem para a obra da salvação, correspondendo ao Plano Divino com uma personalidade íntegra, plena tanto no espírito quanto na matéria.
+
+Atualmente, como Meishu-Sama constantemente nos ensina, a purificação se manifesta com intensidade crescente em todas as áreas, algo que podemos observar em nosso cotidiano. Paralelamente, o poder do Johrei também se fortaleceu na mesma proporção, tornando-se uma luz de esperança para os que sofrem.
+
+A perseguição fez com que as flores falsas caíssem e murchassem, mas permitiu que os verdadeiros frutos amadurecessem. Este ensinamento ficou evidente no significado do Grande Festival da Sekaikyuseikyou, realizado durante uma semana a partir de 21 de setembro, que também celebrou a conclusão do Shinsenkyo (神仙郷) de Hakone, protótipo do Paraíso Terrestre.
+
+A realização desse festival superou todas as expectativas ao renovar por completo a atmosfera de estagnação que pairava sobre a Igreja desde o início da perseguição. É inegável que a tempestade inesperada da perseguição religiosa, que se abateu sobre uma organização até então em franca expansão, obstruiu o nosso avanço. Contudo, é igualmente inegável que o poder de salvação se fortaleceu ainda mais em decorrência disso. Prova disso são os inúmeros relatos de graças que se acumulam incessantemente e o aumento extraordinário das colheitas obtidas pelo método da Agricultura Natural, fatos que nos amparam e nos incentivam a prosseguir.
+
+De uma vida medíocre, desprovida de alegrias e tristezas, não pode nascer o verdadeiro júbilo da existência. O mesmo se aplica tanto à jornada de um ser humano quanto à história de uma religião: quanto mais profunda a tristeza, maior a alegria que se pode experimentar. Os acontecimentos deste único ano, um misto de júbilo e aflição para a Sekaikyuseikyou, serão, certamente, devidamente valorizados pelos historiadores das religiões das futuras gerações.
+
+---
+
+# Reunião Periódica de Difusão (Sexta Edição)
+
+**Categoria:** sanko | **Ano:** 昭和28(1953)年7月1日 | **Fonte:** Eikou
+**Título Original:** 定例布教座談会 （第六回） | **Status:** Published | **Edição/Página:** 215号 | **Data ISO:** 1953-07-01
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
+
+## Reunião Periódica de Difusão (Sexta Edição)
+
+**Revista Eikou, nº 215, 1º de julho de 1953**
+
+**Data:** 25 de abril de 1953
+**Local:** Sede da Igreja Intermediária Chosei, Hakone Gora
+**Orientador:** Diretor Kihara Yoshihiko
+**Participantes:**
+Presidente da Igreja Intermediária Chosei, Nagamura Utaro
+Presidente da Igreja Intermediária Kosei, Ohtsuki Kyoji
+Presidente da Igreja Intermediária Koyo, Ogawa Eitaro
+Presidente da Igreja Intermediária Kakumei, Yumoto Eisaku
+Presidente da Igreja Intermediária Seishin, Abe Keizo
+
+**Kihara:** No Ensinamento de hoje, foi abordada a questão do Grande e do Pequeno Veículo, e recebemos a palavra de que, em última análise, sem a prática do Grande Veículo, não há desenvolvimento. Portanto, ponderar sobre o bem e o mal é válido, mas julgá-los de forma definitiva é um equívoco. Contudo, isso não significa que devamos permanecer em silêncio. É nosso dever transmitir o que é importante. Todavia, tanto nossas palavras quanto nossas ações devem estar sempre fundamentadas no princípio do Grande Veículo.
+
+Nesse sentido, penso que esta reunião se tornaria muito mais significativa se, em vez de nos concentrarmos em "como podemos progredir?", a transformássemos em uma mesa-redonda sobre nossos fracassos, discutindo abertamente: "tentamos isto e falhamos desta maneira". Tornar-se capaz de reconhecer o próprio fracasso é o que nos amadurece. É um processo análogo ao de alcançar a saúde ao tomar consciência da existência do yakudoku.
+
+**Ohtsuki:** Na reunião de estudos do outro dia, ao analisarmos onde residem nossos erros, concluímos que o significado do Johrei e o sentido da purificação não estão sendo plenamente compreendidos. Sinto que nossa maneira de ensinar ainda é deficiente. É crucial que os recém-chegados assimilem profundamente este conceito: a solução para os problemas do corpo só ocorre após a purificação do espírito. Precisamos reforçar essa verdade de forma mais incisiva. Para tal, foi dito que devemos ler os Ensinamentos com mais afinco e explicá-los de maneira clara e acessível.
+
+**Kihara:** Sua observação é pertinente. Contudo, foi-nos ensinado que a causa fundamental para o baixo número de novos membros reside justamente em nossa postura, que tem sido a do Pequeno Veículo. O essencial é que as doenças sejam curadas. Quando milagres extraordinários se manifestam, as pessoas ao redor despertam para a verdade. Portanto, a questão não é *fazer* com que entendam, mas sim que eles *passem a entender* por si mesmos. Essa é a abordagem correta.
+
+Em locais onde apenas uma ou duas pessoas por dia vêm receber Johrei, a tendência é agarrar-se a cada uma delas, sendo excessivamente solícito e minucioso na tentativa de não as perder. O ministro pode até acreditar que foi exaustivo em sua explicação, mas é comum que a outra pessoa não tenha compreendido absolutamente nada. O ideal é que a pessoa vá para casa sentindo uma imensa alegria e pensando: "Que bom ter vindo a um lugar tão maravilhoso!". Agindo assim, elas retornarão naturalmente.
+
+**Ohtsuki:** Elas serão atraídas, não é?
+
+**Kihara:** Mais do que atraídas, na verdade, elas são encaminhadas por Deus.
+
+**Yumoto:** Com relação ao donativo de gratidão pelo Johrei, percebo que alguns deixam de vir quando o assunto é mencionado.
+
+**Kihara:** Neste mundo, a mentalidade de querer algo de graça é um grande equívoco. A graça divina que se recebe é sempre correspondente à sinceridade da gratidão.
+
+**Yumoto:** Então deveríamos estipular um valor?
+
+**Kihara:** O valor não pode ser fixado, mas onde já se viu obter algo sem custo? O Johrei é a cura realizada por Deus; nós somos apenas Seus instrumentos. Utilizar a força de Deus gratuitamente é um absurdo inaceitável, e nossa missão é orientar as pessoas para que não incorram nesse erro. É algo que contraria a própria lógica.
+
+**Ohtsuki:** Na minha unidade, também tivemos casos de pessoas que recebiam Johrei gratuitamente e, de fato, não melhoravam.
+
+**Nagamura:** Outro ponto é que não funciona quando os membros qualificados o fazem como uma atividade secundária.
+
+**Kihara:** Sem dúvida. Uma pessoa que tenha compreendido verdadeiramente a Obra Divina não conseguiria mais agir assim. Essa é uma prática para os membros em geral, que podem ministrar Johrei em suas horas vagas e orientar as pessoas a frequentarem a igreja. Ao agirem dessa forma, os membros acumulam virtude e recebem graças ainda maiores.
+
+**Yumoto:** O problema é que, antigamente, seguíamos o lema de "formar membros qualificados" a qualquer custo.
+
+**Ogawa:** Aquela época foi realmente lamentável. Nós insistíamos para que as pessoas se tornassem membros qualificados, mesmo quando elas relutavam, dizendo: "Não, eu não quero", ou "Não sou capaz". E ainda assim, nós lhes outorgávamos a qualificação.
+
+**Kihara:** Não adianta lamentar os erros do passado, mas não podemos conceder uma qualificação a quem não a possui. Tudo na vida exige que as condições adequadas sejam preenchidas. Se as condições forem insuficientes, os resultados, inevitavelmente, também o serão.
+
+**Nagamura:** Minha conclusão foi que todos esses problemas surgem, no fundo, por falta de fervor.
+
+**Kihara:** Será que o problema é a falta de fervor, ou não seria antes um fervor que nos levou a cometer equívocos? Na minha opinião, o ideal não é aparentar grande entusiasmo, mas sim realizar um bom trabalho, sem cometer erros. É como no Johrei: quando se aplica força, os resultados são insatisfatórios; ao contrário, quando se ministra de forma relaxada, a eficácia aumenta. Se aplicarmos esse mesmo princípio à nossa orientação, teremos sucesso.
+
+**Nagamura:** Na minha igreja, os membros qualificados com famílias numerosas começam bem, mas após três ou quatro anos, a situação deles se complica. Por isso, recentemente, tenho orientado apenas aqueles com famílias menores a solicitarem a qualificação.
+
+**Kihara:** Isso, porém, não pode ser uma consequência do número de familiares. Não podemos julgar por esse critério. É estranho que a situação se deteriore após três ou quatro anos. Atribuir dificuldades ao fato de ter uma família grande é uma forma de pensar que pertence à nossa vida antes de conhecermos a Deus. Fomos ensinados que cada criança já nasce com seu sustento celestial. Portanto, o resultado não depende da presença ou ausência de familiares, mas da presença ou ausência de erros.
+
+**Nagamura:** O que ocorre é que, com o tempo, os membros com famílias grandes se acostumam com os fiéis e frequentemente se lamentam sobre sua situação financeira.
+
+**Kihara:** Lamentar-se é inadmissível. Ao fazer isso, a pessoa derrama e perde a graça que recebeu.
+
+**Abe:** Na minha unidade, tenho um caso em que a pessoa melhorou justamente por ter uma família grande.
+
+**Kihara:** Eu discordo do que foi dito anteriormente, sobre a necessidade de dar explicações exaustivas aos recém-chegados. Devemos, sim, responder com toda a gentileza e minúcia às perguntas que nos forem feitas. No entanto, temos inúmeros casos de pessoas que fugiram apavoradas porque falamos em demasia sobre as purificações.
+
+Imagine que alguém lhe pergunte como chegar à estação de Gora. A resposta correta é indicar o caminho mais curto e claro. Contudo, muitas vezes acabamos acrescentando informações desnecessárias, como: "ao lado da pousada tal, há tal coisa, e o dono de lá tem tantos anos...".
+
+**Ohtsuki:** É verdade, estamos falando coisas supérfluas. Temos sido excessivamente solícitos. Na minha unidade, por exemplo, é comum que alguém chegue com uma dor na perna e, antes de tudo, tenha de ouvir um sermão de quase uma hora. Antigamente, a primeira coisa que fazíamos era ministrar Johrei no local da dor, mesmo na época em que ainda não usávamos esse nome.
+
+**Kihara:** Eu gostaria que os membros mais antigos se recordassem daquela época, quando se dizia que bastava agitar as mãos para que as doenças fossem curadas. Naquele tempo, sem entender quase nada, simplesmente agitando as mãos, conseguimos um desenvolvimento formidável. Hoje, ao contrário do passado, recebemos ensinamentos abundantes sobre os mais diversos assuntos. E o Johrei em si é muito mais simples, pois basta impormos as mãos, sem aplicar força alguma.
+
+O mesmo se aplica à nossa forma de lidar com os membros. Eles são como passageiros em um barco da salvação, descendo a correnteza. Nossa função é apenas observá-los e, caso o barco ameace colidir com a margem, dar um leve toque para corrigir o curso e evitar o desastre. O que não podemos fazer é amarrar uma corda na embarcação e tentar puxá-la rio acima.
+
+---
+
 # — Coletânea de Artigos do Mestre Okada Jikan —
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
 **Título Original:** 参考文献 「おけさ」の島の自然栽培回顧座談会 | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## — Coletânea de Artigos do Mestre Okada Jikan —
 Busca de Ensinamentos | Busca de Documentos | Referências Bibliográficas
@@ -177,7 +1058,7 @@ Rumo a Sado, a Sado, curvam-se as ervas e as árvores... Conhecida em todo o mun
 
 **Categoria:** sanko | **Ano:** 昭和29(1954)年5月26日 | **Fonte:** Eikou
 **Título Original:** 参考文献 信徒の皆様へ 世界救世教 管長 大草直好 | **Status:** Published | **Edição/Página:** 258号 | **Data ISO:** 1954-05-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## A todos os fiéis
 
@@ -217,7 +1098,7 @@ Rogo, portanto, que agora, mais do que nunca, nos unamos como um só corpo para 
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
 **Título Original:** 参考文献 夢物語？ 奇蹟？ | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Um devaneio? Um milagre?
 
@@ -295,7 +1176,7 @@ Minha peregrinação por diversas províncias em busca deste devaneio já dura d
 
 **Categoria:** sanko | **Ano:** 昭和26(1951)年12月12日 | **Fonte:** Eikou
 **Título Original:** 山彦学校は共産思想培養の学校？ | **Status:** Published | **Edição/Página:** 134号 | **Data ISO:** 1951-12-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Impressões de Leitura sobre *Yamahiko Gakkou* (Para aqueles que não leram a obra)
 
@@ -494,7 +1375,7 @@ Contudo, esta grande religião tão aguardada por todos, que se preocupa com os 
 
 **Categoria:** sanko | **Ano:** 昭和25(1950)年8月30日 | **Fonte:** Eikou
 **Título Original:** 明主様に直結する信仰の確立と保持 世界救世教管長 大草 直好 | **Status:** Published | **Edição/Página:** 67号 | **Data ISO:** 1950-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## O Estabelecimento e a Preservação da Fé de Ligação Direta com Meishu-Sama
 
@@ -559,7 +1440,7 @@ Nobumasa Takato
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年12月16日 | **Fonte:** 内外タイムス
 **Título Original:** 参考文献 性病戦線異常あり （十二月九日 | **Status:** Published | **Edição/Página:** 239号 | **Data ISO:** 1953-12-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 内外タイムス
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 内外タイムス
 
 ## Coleção de Artigos do Mestre Okada Jikan
 
@@ -599,7 +1480,7 @@ Após a guerra, a chegada da penicilina foi revolucionária: uma única injeçã
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
 **Título Original:** 参考文献 布教座談会 光宝大教会 | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi
 
@@ -699,7 +1580,7 @@ Após a guerra, a chegada da penicilina foi revolucionária: uma única injeçã
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 布教定例座談会 （第一回） | **Status:** Published | **Edição/Página:** 42号 | **Data ISO:** 1952-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Colóquio Regular sobre a Difusão (Primeira Sessão)
 
@@ -814,7 +1695,7 @@ Afinal, o Johrei possibilita a cura de doenças por ser uma terapia fundamental.
 
 **Categoria:** sanko | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
 **Título Original:** 参考文献 二人袴 （一） | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 救世
 
 ## Coleção de Ensaios do Mestre Jikan Okada
 ## Dois Hakama (Parte I)
@@ -1186,7 +2067,7 @@ Que destino deveria ela seguir?
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年2月18日 | **Fonte:** Eikou
 **Título Original:** 北海道講演会を顧みて （一） ―信徒の協力一致の実挙がる― | **Status:** Published | **Edição/Página:** 196号 | **Data ISO:** 1953-02-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Análise da Reunião sobre o Ciclo de Conferências em Hokkaido (Parte 1) — Um exemplo concreto da cooperação e união dos fiéis
 
@@ -1266,7 +2147,7 @@ E, já que estamos no assunto, há algo mais que creio ser útil compartilhar. A
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
 **Título Original:** 自然農法普及会趣意書 チラシ | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 革命的増産の自然農法解説
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 革命的増産の自然農法解説
 
 ## Manifesto da Associação de Difusão da Agricultura Natural
 
@@ -1290,7 +2171,7 @@ Adicionalmente, em continuação a este manifesto, constam o “Regulamento da A
 
 **Categoria:** sanko | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Eikou
 **Título Original:** 参考文献 水稲自然農法の研究調査と批判 | **Status:** Published | **Edição/Página:** 141号 | **Data ISO:** 1952-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Estudo e Análise Crítica da Agricultura Natural no Cultivo de Arroz de Sequeiro
 
@@ -1504,7 +2385,7 @@ Diante do exposto, concluo que os princípios da Agricultura Natural e os result
 
 **Categoria:** sanko | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
 **Título Original:** 参考文献 付録 医家の観たる結核 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核の正体
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 結核の正体
 
 ## A Tuberculose sob a Ótica de um Médico (Do livro 'A Verdadeira Natureza da Tuberculose')
 
@@ -1597,7 +2478,7 @@ Quinta-coluna (第五列): [Termo originado durante a Guerra Civil Espanhola, qu
 
 **Categoria:** sanko | **Ano:** - | **Fonte:** Eikou
 **Título Original:** 明主様御降誕祭行わる | **Status:** Published | **Edição/Página:** 290号 | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Coletânea de Ensaios do Reverendo Okada Jikan — Busca de Ensinamentos | Busca de Materiais: A Celebração do Natalício de Meishu-Sama (Jornal Eiko, nº 290, publicado em 5 de janeiro de 1955)
 
@@ -1633,7 +2514,7 @@ Dessa forma, as atividades do dia transcorreram em perfeita ordem. Cerca de seis
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
 **Título Original:** 参考文献 宗教と科学を超越しての会合 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Um Encontro que Transcende a Religião e a Ciência
 
@@ -1698,7 +2579,7 @@ Em suma, a dor cederia e o alívio viria assim que a micção fosse restabelecid
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** Coletânea de Teses do Mestre Jikan Okada | **Tipo:** - | **Fonte (JP):** -
 
 ## ――― Coletânea de Teses do Mestre Jikan Okada ―――
 Publicação: Religion and Science
@@ -1727,7 +2608,7 @@ Nutrição
 
 **Categoria:** sanko | **Ano:** 昭和26(1951)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 或る神秘 | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1951-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Um Certo Mistério
 
@@ -1765,7 +2646,7 @@ Diante disso, compreendemos quão profundo e longínquo é o Plano de Deus, algo
 
 **Categoria:** sanko | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 幽霊はあるか | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Relatos sobre Fantasmas (I) - Coletânea de Fenômenos Espirituais
 
@@ -1924,7 +2805,7 @@ Após o experimento, a análise das impressões digitais foi confiada ao Dr. Rog
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年12月23日 | **Fonte:** Eikou
 **Título Original:** 本年を顧みて「座談会」 （S28年） | **Status:** Published | **Edição/Página:** 240号 | **Data ISO:** 1953-12-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Da Coletânea de Artigos do Reverendo Jikan Okada
 
@@ -1994,7 +2875,7 @@ Revista Eikou, nº 240, 23 de dezembro de 1953
 
 **Categoria:** sanko | **Ano:** 昭和28(1953)年3月4日 | **Fonte:** Eikou
 **Título Original:** 参考文献 「自然栽培の佐渡」座談会 推定反収十八俵の作者伊野さんを囲んで | **Status:** Published | **Edição/Página:** 198号 | **Data ISO:** 1953-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Mesa-redonda com a Sra. Ino, produtora de uma colheita estimada em dezoito fardos
 
@@ -2296,8 +3177,8 @@ A título de referência, informamos que a cifra de dezoito fardos é uma estima
 # Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-01-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録16号 | **Status:** Published | **Edição/Página:** 16号, 16号 | **Data ISO:** 1950-01-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de ensaios do Mestre Okada Jikanshi — Registro das Sagradas Palavras, nº 16 (Publicado em 20 de janeiro de 1950)
 
@@ -2732,399 +3613,6 @@ Não é muito bom. O composto que utilizamos deve ser “natural”. Resíduos d
 ○ Ao adentrarmos o novo ano de 1950, conforme lemos nos recentes poemas do Grande Mestre, este será “um ano extraordinário”. Desejamos, com fervor renovado, “apertar os cintos” e nos empenhar ainda mais em auxiliar na Grande Obra Divina.
 
 ○ Este livreto já alcançou sua décima sexta edição. Conforme comunicado anteriormente, o propósito de sua publicação é servir de guia para que o maior número possível de membros possa entrar em contato com o sublime e compassivo coração do Grande Mestre, banhar-se na luz de Sua sabedoria, aprimorar sua inteligência, elevar sua iluminação e, juntos, avançar no auxílio à conclusão da Obra Divina. Com a chegada deste novo ano de grande transição, renovamos nosso espírito e nos comprometemos a um esforço ainda maior.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikan
-
-**Categoria:** sasshi | **Ano:** 昭和29(1954)年11月20日 | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-11-20
-**Coletânea:** - | **Fonte (JP):** -
-
-## Coletânea de Teses do Mestre Okada Jikan
-## Curso sobre o Johrei (IV) — Crítica à Farmacologia
-Publicado na 4ª edição do "Curso sobre o Johrei", em 20 de novembro de 1954
-
-### Um — Sobre a Superstição nos Medicamentos
-
-#### 1. O Futuro da Medicina sob a Ótica da Ciência Divina
-
-##### 1-1. A Ocultação do Núcleo Vital pela Ausência do Poder do Deus Supremo (Coletânea de Ensinamentos, vol. 8, p. 11)
-
-A medicina tem se dedicado unicamente a pesquisar a aniquilação do bacilo da tuberculose. Nesse sentido, estou redigindo atualmente a obra "A Cultura do Supremo Deus". O mundo, até então, assemelhava-se a um círculo desprovido de seu ponto central, que é a origem de tudo. Isso se deve ao fato de o poder do Supremo Deus não ter se manifestado plenamente. O Deus Supremo — em termos humanos, o patriarca da família — esteve ausente, deixando a administração a cargo de gerentes. Assim, as divindades veneradas até hoje, incluindo Cristo e Buda, atuaram como Seus gerentes. Embora Cristo se refira ao "Pai que está nos Céus", esse Pai é, de fato, o próprio Deus Supremo. Portanto, o ponto central e vital permaneceu oculto para todos. A humanidade via apenas o círculo, e era somente isso que conseguia compreender. A Igreja Messiânica, contudo, manifesta o poder do Deus Supremo — o ponto central. Por essa razão, ela detém a força para solucionar a causa fundamental de todas as calamidades humanas. A compreensão clara desse aspecto é suficiente para um entendimento geral.
-
-##### 1-2. A Crítica à Farmacologia nos Escritos Divinos (Coletânea de Ensinamentos, vol. 14, p. 31)
-
-A Igreja Messiânica é a única religião que nega a medicina. A motivação que me levou a ingressar na Oomoto-kyo foi precisamente o conhecimento dos equívocos da medicina. Nos Escritos Divinos (Ofudesaki) daquela religião, há uma passagem que diz: "A essas substâncias inúteis, vindas do estrangeiro, que se tornam veneno, mas jamais remédio, o povo insensato paga fortunas para macular o próprio corpo. Até mesmo Deus se vê em apuros com tal situação". Aquelas palavras me deixaram estarrecido. Naquela época, ninguém afirmava que os medicamentos eram venenos. Contudo, tal verdade já estava claramente registrada nos Escritos Divinos. Compreendi a gravidade do assunto, e essa revelação constituiu o principal atrativo que me conduziu à Oomoto-kyo.
-
-##### 1-3. Chegará o Tempo em que os Medicamentos Perderão a Eficácia e Serão Temidos (Coletânea de Ensinamentos, vol. 13, p. 15)
-
-O Mundo Espiritual está passando por transformações progressivas, o que significa que a purificação se torna cada vez mais intensa. Em contrapartida, as curas também se tornam consideravelmente mais rápidas, e a eficácia do Johrei vem aumentando continuamente. Creio que os senhores já devem ter percebido nitidamente que as doenças são sanadas com muito mais celeridade do que antes. O mesmo resultado é alcançado em um período mais curto. Os relatos de graças recentes, aliás, confirmam essa tendência de curas rápidas. Esse é o tipo de milagre que tem se tornado frequente.
-
-Nesse sentido, nosso trabalho foi, por um lado, facilitado. Conforme avançarmos, contudo, observaremos um fenômeno inverso ao da medicina. Os medicamentos que antes surtiam efeito — entenda-se, que solidificavam as toxinas — perderão essa capacidade e, gradualmente, deixarão de curar. Em outras palavras, a supressão temporária dos sintomas não será mais possível. Recentemente, tem se tornado comum a opinião de que fármacos como a estreptomicina já não funcionam. O mesmo ceticismo recai sobre o BCG e a hidrazida. Consta que as vendas da hidrazida estão decepcionantemente baixas, para a preocupação de seus fabricantes. Casos como esses, em que os medicamentos se mostram ineficazes, multiplicam-se a cada dia, o que considero um desenvolvimento interessante.
-
-Mais adiante, adentraremos uma era em que os medicamentos serão vistos como algo terrível. A partir de então, nosso campo de atuação se ampliará. Inevitavelmente, chegará o tempo em que o método de cura da Igreja Messiânica será a única alternativa viável, e a partir desse momento, nossa rotina se tornará vertiginosamente atribulada. Essa época se aproxima a passos largos. Não me regozijo com o infortúnio alheio, mas tal perspectiva me enche de grande expectativa.
-
-##### 1-4. Com o Advento da Era do Dia, os Tratamentos Médicos Farão Aumentar Drasticamente as Doenças Malignas (Registro de Orientações Divinas, vol. 5, p. 37)
-
-A salvação da Era da Noite se transformará na salvação da Era do Dia. Ou seja, a escuridão dará lugar à luz diurna. Esse é o plano estabelecido por Deus. (...) Trata-se de uma transição de magnitude colossal; não se pode esperar que uma reviravolta tão completa ocorra de maneira suave e sem percalços. Os métodos do passado chegarão a um impasse absoluto. As doenças aumentarão de forma avassaladora, e o processo de purificação intensa que hoje acomete nossos membros, inclusive os mais antigos e os dirigentes, se estenderá a toda a sociedade. Quando os médicos tentarem intervir com seus tratamentos, obterão o efeito contrário, agravando ainda mais a situação. As pessoas começarão a compreender, pouco a pouco, que não há salvação fora da Igreja Messiânica e que suas doenças não serão curadas sem ela. Nesse momento, o mundo se transformará por completo.
-
-A medicina se esforça incessantemente para deter a purificação. Quando surge uma febre, por exemplo, aplicam-se injeções e diversos outros recursos para paralisá-la. Com isso, o indivíduo consegue apenas manter-se respirando com dificuldade. Os senhores devem ter lido no jornal o artigo que mencionava o perigo que se segue à supressão temporária de uma doença. Agora, escrevem que o BCG, por deter momentaneamente a purificação, transmite uma falsa sensação de segurança, mas que, em decorrência disso, aumentarão enormemente os casos de enfermidades malignas que não puderam ser contidas. Tudo o que escrevi vem se concretizando gradualmente. Nos Escritos Divinos da Oomoto-kyo, há uma passagem que afirma: "Não haverá um milímetro de diferença no que Deus disse. Nem mesmo a espessura de um fio de cabelo se desviará".
-
-##### 1-5. Qual o Futuro dos Médicos e dos Medicamentos? (Coletânea de Ensinamentos, vol. 13, p. 28)
-
-*Artigo "Advertência aos Profissionais da Medicina" (Revista Eikou, nº 171)*
-
-Conforme o texto que acabamos de ler, o fim da medicina ocorrerá de forma relativamente rápida. Um fato a ser observado é que, ultimamente, ouço com frequência que medicamentos antes eficazes já não surtem efeito. A hidrazida, por exemplo, que foi recebida com tanto alarde, já se mostra inútil. Recentemente, um hospital realizou um levantamento estatístico e constatou que, na maioria dos casos, após duas ou três semanas, ou no máximo um ou dois meses, o número de bacilos da tuberculose, que havia diminuído drasticamente no início, voltava a crescer de forma alarmante. Ademais, os bacilos se tornavam muito mais resistentes. Cerca de trinta por cento dos pacientes apresentavam esse quadro. Esse percentual ainda é baixo porque o tempo de observação foi curto. Com o passar dos anos, chegará a cinquenta e, por fim, a cem por cento. Em breve, portanto, atingiremos um ponto em que o tratamento será completamente inócuo. Assim, tudo caminha exatamente como escrevi no artigo "Rindo dos Novos Fármacos para a Tuberculose".
-
-Nos últimos tempos, um número considerável de médicos começou a duvidar dos medicamentos. A razão pela qual o que antes funcionava agora não funciona mais é que, com a intensificação da purificação no Mundo Espiritual, os métodos de solidificação das toxinas se tornaram progressivamente ineficazes. O veneno acumulado no corpo humano, diferentemente de uma gelatina, já não se solidifica como antes. Consequentemente, a ingestão de remédios e a aplicação de injeções se tornarão procedimentos perigosos e impraticáveis. Dias atrás, um jornal noticiou o caso de uma pessoa que morreu poucos minutos após receber uma injeção. A família decidiu processar o médico, cuja defesa, segundo a opinião de outros profissionais, se baseou na alegação de uma "constituição física peculiar". Incidentes como esse se tornarão cada vez mais frequentes. Diante disso, os próprios médicos passarão a questionar a medicina, concluindo: "Isso não funciona mais. É perigoso demais continuar praticando a medicina". Assim, não será uma força externa que derrubará a medicina, mas sim seus próprios praticantes que a abandonarão. E isso não levará muito tempo.
-
-O artigo que redigi é uma advertência sobre essa realidade. Quando tal cenário se concretizar, a Igreja Messiânica enfrentará uma demanda extraordinária. Como mencionei no texto, seremos disputados pelo mundo inteiro. Naquela ocasião, estaremos tão atarefados que será uma grande provação. Portanto, é fundamental que aproveitem o tempo de agora para se prepararem, lendo os Escritos Divinos o máximo possível.
-
-##### 1-6. O Aumento da Expectativa de Vida é Resultado do Progresso Extremo da Terapêutica Inversa, que a Partir de Agora Apresentará Efeito Contrário (Coletânea de Ensinamentos, vol. 28, p. 21)
-
-*Artigo "A Razão do Aumento da Expectativa de Vida" (Revista Eikou, nº 234)*
-
-Em suma, os métodos para paralisar a purificação tornaram-se mais eficazes. Embora seja estranho chamar de progresso, as técnicas de interrupção da purificação foram aprimoradas. Por isso, a expectativa de vida aumentou temporariamente. Contudo, dentro de dois ou três anos, a purificação no Mundo Espiritual se intensificará a tal ponto que entraremos, inversamente, numa era de longevidade drasticamente reduzida. Será uma era de terror, que já se avizinha.
-
-A prova mais evidente disso é que os senhores, ao ministrarem Johrei, percebem que as curas estão mais fáceis e rápidas do que antes, não é verdade? Isso ocorre porque o poder purificador aumentou. O fato de as pragas nas lavouras terem se tornado muito mais frequentes também é um sinal da transformação do Mundo Espiritual. O poder purificador se intensifica, e para detê-lo, os medicamentos precisam ser cada vez mais fortes. O recente aumento da expectativa de vida é, portanto, o resultado do progresso extremo da terapêutica inversa. Chegamos ao limite desse método. A partir de agora, o poder do Mundo Espiritual, que anula a terapêutica inversa, crescerá exponencialmente. Assim como a má colheita deste ano, em pouco tempo a capacidade de paralisar a purificação se enfraquecerá drasticamente, como um efeito rebote.
-
-Consequentemente, tomar um remédio agravará o estado do paciente imediatamente, e uma injeção poderá levá-lo ao colapso. Como já disse antes, os próprios médicos ficarão apavorados. "Isso é terrível! Uma simples intervenção e os pacientes pioram ou perecem", pensarão. Será uma era de pânico. Somente então as pessoas reconhecerão: "A doutrina da Igreja Messiânica estava correta. Parece que não há segurança fora dela".
-
-##### 1-7. A Razão pela qual a Hidrazida, Eficaz nos Estados Unidos, não Demonstra a Mesma Eficácia no Japão (Coletânea de Ensinamentos, vol. 12, p. 14)
-
-*Artigo "Lamento pelos Farmacêuticos" (Revista Eikou, nº 165)*
-
-Enquanto isso, nos Estados Unidos, eles continuam a desenvolver novos medicamentos para tuberculose e outras doenças, criando um cenário completamente inverso. A eficácia da hidrazida, por exemplo, já é questionada, e diversas teorias surgiram. A questão é que, nos Estados Unidos, ela funciona muito bem. Por isso foi trazida ao Japão com grandes expectativas, mas aqui não demonstra a mesma eficácia. Existe uma razão para isso: a purificação no Mundo Espiritual do Japão é mais intensa. Sendo aqui a fonte da Luz, o Mundo Espiritual japonês é mais iluminado. Como a eficácia de um medicamento reside em sua capacidade de paralisar a purificação, tal paralisação não ocorre aqui com a mesma intensidade que nos Estados Unidos. Lá, a força de solidificação ainda prevalece, o que explica por que um fármaco eficaz lá não o é aqui.
-
-Enquanto debatem as razões, o medicamento perderá gradualmente seu efeito, e seu fracasso é inevitável. Com o tempo, a purificação também se intensificará nos Estados Unidos; é apenas uma questão de tempo. No fim, será necessário criar medicamentos muito mais potentes, ou seja, com maior teor de veneno, a fim de paralisar a purificação ao máximo. A hidrazida é um exemplo disso. Recentemente, três pessoas morreram após seu uso. A reação contrária à paralisação da purificação se tornará tão forte que a morte ocorrerá antes que qualquer efeito de contenção se manifeste. Assim, chegará uma era em que a medicina e os medicamentos serão postos em dúvida. A partir desse momento, o palco será nosso. Ainda temos algum tempo, mas conhecer esses fatos nos permite compreender muitos outros fenômenos.
-
-#### 2. A Ausência de Caráter Científico na Medicina Moderna
-
-##### 2-1. Tomar Remédio ao Adoecer Equivale a Acreditar que a Saúde Era Mantida pelo Uso Contínuo de Remédios e que a Doença Surgiu por uma Interrupção Temporária (Coletânea de Ensinamentos, vol. 26, p. 27)
-
-O ato de tomar um medicamento quando se está doente parte do pressuposto de que a saúde era mantida pelo uso contínuo de remédios e que a doença surgiu porque, por acaso, seu uso foi interrompido. A lógica é a mesma de quem diz: "Como me alimento todos os dias, estou forte e disposto. Mas, como pulei uma ou duas refeições, sinto-me fraco e incapaz de trabalhar. Preciso comer logo para recuperar as forças". Ao comer, a pessoa se sente saciada e volta a trabalhar. Da mesma forma, acredita-se: "Eu estava saudável porque tomava remédios. Como o efeito passou, fiquei fraco, ou seja, adoeci. Portanto, se eu tomar o remédio novamente, ficarei bem". Refletindo sobre isso, a verdade se torna clara.
-
-Mesmo sem conhecer o princípio da purificação, uma análise baseada no simples bom senso revela o absurdo dessa lógica. "O senhor parece muito debilitado ultimamente." "Sim, é que o efeito do remédio passou." "Então tome bastante remédio, o mais forte que encontrar." A pessoa toma uma grande quantidade de um medicamento potente e se recupera. Assim pensam os homens de hoje.
-
-Ora, as pessoas que vivem em regiões montanhosas remotas, as classes mais baixas ou aquelas completamente ignorantes sobre o assunto não tomam remédios. Seguindo essa lógica, deveriam estar sempre debilitadas. E os grandes heróis do passado, como Benkei, deveriam ter consumido quantidades enormes de medicamentos para manter sua força. No entanto, é justamente na chamada era da civilização que o ser humano se tornou cada vez mais fraco. E agora, o mundo inteiro se mobiliza para que todos tomem remédios. É uma situação muito estranha.
-
-Existem muitas pessoas que são fortes porque não tomam remédios e, por serem fortes, não precisam deles. A situação é, no mínimo, curiosa. Se alguém dissesse: "As pessoas são fortes porque tomam remédios, não é? É estranho que você, sem tomá-los, seja forte", isso seria um disparate completo. As pessoas não conseguem compreender nem mesmo essa lógica tão simples.
-
-Agora, vamos analisar a questão sob a ótica da purificação. Com o surgimento contínuo de novos fármacos, anunciados exaustivamente nos jornais, as pessoas os consomem e, no fim, acabam perdendo a própria vida. Mesmo uma reflexão superficial revela a tolice dessa atitude. E se considerarmos que o resultado é ainda mais negativo do que se imagina, a situação transcende a mera estupidez. Não compreender essa lógica já seria um sinal de insensatez, mas persistir nesse caminho, sofrendo e abreviando a própria vida, é algo que vai além. Por isso, não me resta outra alternativa senão intitular este tópico de "A Supratolice".
-
-##### 2-2. Os Medicamentos Iludem por seu Efeito Temporário, Pois Todos São Entorpecentes
-
-**(a) Os Entorpecentes Atuam Rapidamente, e os Demais Medicamentos, de Forma Lenta. Disso Decorre o Pensamento Contraditório de que os Primeiros São Perigosos, e os Segundos, Não. (Coletânea de Ensinamentos, vol. 14, p. 8)**
-
-*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
-
-É importante que expliquem isso claramente aos membros. A pessoa sente o estômago ruim, uma dor, um mal-estar, e toma um remédio para o estômago. Momentaneamente, ela melhora. Sente dor de cabeça, toma um analgésico e a dor cessa por um tempo. Contudo, essa melhora temporária mascara a verdade: a dor de estômago, os espasmos gástricos e a dor de cabeça são, na realidade, o resultado do uso prévio de medicamentos gástricos e digestivos. Um digestivo estimula o apetite e faz a comida parecer mais saborosa, e a pessoa, iludida por esse efeito, recorre a ele a cada pequeno mal-estar. O mecanismo é idêntico ao de um entorpecente, e, com o tempo, o mal-estar retorna. A dose que era de um comprimido por dia aumenta para dois, três, e o medicamento precisa ser cada vez mais forte, seguindo a mesma trajetória de um viciado. No fim, a pessoa sente tanta necessidade do entorpecente que chega a roubar para obtê-lo.
-
-A única diferença é que os entorpecentes agem de forma aguda, e os medicamentos para outras doenças, de forma crônica. Por isso, as pessoas temem o entorpecente de efeito rápido, mas não o veneno dos medicamentos que age lentamente. É uma lógica absurdamente contraditória, mas que reflete a realidade atual. Portanto, a maneira mais clara de explicar é considerar todos os medicamentos como entorpecentes, como os membros já o fazem.
-
-No caso da tuberculose, por exemplo, o uso da hidrazida faz a febre baixar consideravelmente e o apetite aumentar. Como a febre é o principal fator que afeta o apetite, sua redução naturalmente o estimula, levando ao ganho de peso. Isso cria a impressão de grande eficácia. No entanto, ouvi dizer que, recentemente, após duas ou três semanas, o paciente retorna ao estado original, e os bacilos da tuberculose se tornam malignos. Isso significa que o "entorpecente" perdeu seu efeito em poucas semanas.
-
-À medida que a purificação no Mundo Espiritual se intensifica, um entorpecente que antes fazia efeito por seis meses ou um ano perderá sua eficácia cada vez mais rápido. Basta refletir sobre o que acabamos de ler: "Ultimamente, os remédios não fazem mais efeito", ou "Aquele remédio era tão bom antigamente". Se as pessoas analisassem essa questão a fundo, certamente compreenderiam. Mas nem sequer lhes ocorre tal pensamento. Elas estão tão imersas na superstição dos medicamentos que não conseguem conceber que eles sejam a causa do problema. A situação chegou a esse ponto.
-
-O corpo humano, no entanto, não mudou em nada nos últimos vinte ou trinta anos. Sua fisiologia é a mesma há milhares, dezenas de milhares de anos. É absurdo que algo que funcionava há uma ou duas décadas tenha deixado de funcionar. Contudo, ouve-se frequentemente: "Tal remédio era eficaz naquela época". E são os próprios médicos que o dizem. Eles não cogitam que talvez seja o corpo humano que mudou. Então, o que seria? O medicamento mudou? Não, o método de fabricação é o mesmo. Isso deveria despertar suspeitas, mas nem mesmo essa dúvida surge em suas mentes. E, mesmo que surgisse, não saberiam a resposta. Limitam-se a pensar: "Que estranho". E quando um paciente que eles consideravam incurável se recupera em meio mês ou um mês com o Johrei, eles apenas coçam a cabeça, sem entender, e o assunto se encerra. Do nosso ponto de vista, é uma atitude verdadeiramente tola.
-
-O mesmo se aplica aos fertilizantes, que também causam uma forma de dependência. No ano em que se aplica sulfato de amônio, ou no ano seguinte, a colheita é abundante. As pessoas pensam que é bom e continuam a usá-lo, até que o solo se torna dependente. Elas não percebem isso. A lógica dos fertilizantes e dos medicamentos é a mesma. Em suma, não há erro em considerá-los como entorpecentes.
-
-**(b) Trocar de Medicamento Produz Efeito Temporário porque o Corpo Desenvolve Resistência e se Intoxica, Tornando Necessária a Mudança. (Coletânea de Ensinamentos, vol. 14, p. 16)**
-
-Fala-se muito em vício em entorpecentes como se fosse um problema alheio, mas, na verdade, toda a população japonesa está viciada. A única diferença reside na velocidade com que o entorpecente faz efeito. O que chamamos de "entorpecente" é aquele de ação rápida. O que chamamos de "medicamento" é um entorpecente de ação lenta. Foi sobre isso que escrevi.
-
-*Artigo "Fragmentos sobre Medicina: Tudo o que Leva o Nome de Remédio é Entorpecente" (Revista Eikou, nº 174)*
-
-Os médicos costumam dizer: "Este remédio funcionava antes, mas agora não funciona mais". Isso é o mesmo que o vício em entorpecentes. No início, uma injeção a cada três dias era suficiente, mas, com o tempo, o efeito diminui, e a frequência aumenta para uma a cada dois dias, depois uma por dia. O mesmo ocorre com os remédios para gripe ou estômago: o que antes era usado ocasionalmente passa a ser necessário com cada vez mais frequência. As injeções para asma, por exemplo, que eram aplicadas apenas durante as crises, passam a ser necessárias a cada três dias, até se tornarem de uso contínuo. É o mesmo mecanismo dos entorpecentes, que, no fim, causam tanto sofrimento em sua ausência que a pessoa chega a roubar para obtê-los. As injeções para asma seguem essa lógica. Ficar um tempo sem a injeção causa uma sensação de sufocamento.
-
-Analisando dessa forma, todos os medicamentos são entorpecentes. Se tememos o vício em entorpecentes, deveríamos temer também os outros medicamentos. A única diferença é que estes não agem tão rapidamente. Como o efeito é mais lento, a intoxicação leva mais tempo para se manifestar, e as pessoas não percebem. A estupidez humana é indescritível.
-
-Os novos medicamentos para tuberculose mudam constantemente. Agora falam da hidrazida, mas logo surgirá outra coisa. Enquanto as pessoas não perceberem a verdade, novos fármacos continuarão a aparecer. Contudo, com o tempo, o mundo inteiro passará a acreditar em nossa tese. Até lá, novos medicamentos surgirão em profusão. E um novo medicamento nada mais é do que um entorpecente com efeito potencializado. Se as pessoas soubessem disso, ficariam apavoradas.
-
-Ao explicar a um paciente sobre a intoxicação por medicamentos, usar o exemplo dos entorpecentes é a forma mais clara e eficaz. A estreptomicina é um entorpecente. A hidrazida é um entorpecente. Dizendo assim, a compreensão é imediata.
-
-O aumento da variedade de medicamentos também é curioso. Quando uma pessoa toma continuamente um remédio para o estômago, ele para de fazer efeito. Dizem que, ao trocar o medicamento, o efeito retorna temporariamente. O fato de um remédio deixar de funcionar significa que o corpo se intoxicou. A intoxicação ocorre porque o corpo desenvolve resistência a ele. É o mesmo princípio de quando comemos algo venenoso e, com o tempo, deixamos de nos intoxicar. Ao se repetir o mesmo estímulo, o corpo se vicia. Por isso, é preciso mudar. Na agricultura, isso equivale ao problema da monocultura. O solo está intoxicado por um tipo de fertilizante; ao mudar de cultura, a terra se recupera temporariamente. Pensando por esse prisma, o veneno dos medicamentos se torna muito claro.
-
-**(c) O Homem Moderno, com o Raciocínio Prejudicado pelo Veneno dos Medicamentos, Perdeu a Capacidade de Julgamento e se Deixa Iludir pelo Efeito Temporário dos Remédios. (Coletânea de Ensinamentos, vol. 12, p. 19)**
-
-Para qualquer problema, existe apenas uma solução, um único caminho correto. O que nos impede de encontrá-lo é a debilidade de nosso raciocínio, causada pelo veneno dos medicamentos. É por isso que, como disse anteriormente, o homem moderno possui uma inteligência superficial que encobre uma estupidez profunda. Se os medicamentos fossem completamente abolidos, nosso raciocínio melhoraria consideravelmente. Não só isso, mas as doenças infecciosas desapareceriam. Os micróbios nocivos brotam do veneno dos medicamentos. Existem micróbios bons e necessários, mas os ruins surgem desse veneno. As pessoas ignoram e são incapazes de descobrir essa verdade.
-
-Portanto, é imperativo, no mínimo, aprimorar a capacidade de raciocínio da humanidade. A educação é importante, mas tende a desenvolver a inteligência superficial, a erudição. Embora o conhecimento possa aprimorar a capacidade de julgamento, o centro do raciocínio está debilitado, impedindo que a mente funcione adequadamente para julgar as questões essenciais. Em suma, apenas a periferia do cérebro funciona, enquanto o núcleo permanece inativo.
-
-E, ainda assim, as pessoas depositam uma fé cega nos medicamentos. Como noticiado nos jornais, elas anseiam por tomar a recém-lançada hidrazida, acreditando ser algo extraordinário, quando, na verdade, ela apenas agrava a situação e não cura a tuberculose. Todos os medicamentos são entorpecentes: produzem uma melhora temporária. É como uma pessoa com o raciocínio lento que, ao receber uma injeção de entorpecente, sente a mente clarear. Por isso, seu uso se tornou comum entre escritores que precisam entregar um manuscrito com urgência; sob seu efeito, escrevem com uma fluidez impressionante, e acabam se viciando. Isso não se restringe aos entorpecentes; aplica-se a todos os medicamentos. Uma pessoa sem apetite toma um remédio, o apetite aumenta temporariamente, e ela acredita que fez bem. Continua a tomar, e isso se torna um hábito, levando a sintomas de intoxicação.
-
-O entorpecente de efeito rápido é controlado como tal, mas aquele de efeito lento não é reconhecido nem descoberto. Assim, o de ação rápida é rechaçado como entorpecente, enquanto o de ação lenta é recomendado como benéfico. É um procedimento ignorante, fruto de uma mente obtusa, ao qual as pessoas se acostumaram. Nosso esforço consiste em ensiná-las e fazê-las compreender essa realidade. É uma superstição acreditar que esses entorpecentes não o são. E, quando dizemos isso, somos nós os acusados de supersticiosos. A mente humana está nesse nível de degradação. Pode-se dizer que o homem moderno é, no mínimo, um doente cerebral.
-
-##### 2-3. Os Medicamentos Transformam as Pessoas em Indivíduos de Saúde Passiva, Reduzindo Temporariamente os Doentes, que Reaparecem com Doenças Sob Novas Formas (Coletânea de Ensinamentos, vol. 26, p. 71)
-
-Isso fica especialmente claro com os remédios para o estômago. O uso contínuo de um mesmo medicamento faz com que ele perca a eficácia. Ao trocá-lo, o efeito retorna temporariamente. Isso ocorre porque o corpo desenvolve resistência, ou seja, se acostuma aos seus componentes. A razão pela qual a mortalidade por tuberculose diminuiu e a expectativa de vida aumentou é precisamente essa. Fármacos recentes como a estreptomicina e o PAS são antibióticos, com uma composição totalmente diferente dos medicamentos anteriores. A teoria de que os antibióticos são excelentes parece ter se consolidado. Eles funcionam porque seus componentes são completamente novos para o organismo. Funcionar, nesse caso, significa ter um forte poder de paralisar a purificação. Como a purificação é enfraquecida, a morte é adiada. Contudo, após alguns anos de uso contínuo, o corpo humano desenvolverá resistência aos antibióticos, e retornaremos à estaca zero. Atualmente, um dos grandes problemas da medicina é que, ao administrar estreptomicina a pacientes com tuberculose, a atividade dos bacilos se torna extremamente forte alguns meses depois, e não se sabe como lidar com isso.
-
-Recentemente, por volta do ano passado, comemorou-se a diminuição dos casos de tuberculose. Essa redução, contudo, deve-se ao uso de novos medicamentos como BCG, estreptomicina, aureomicina, entre outros. Eles paralisaram a purificação. Com essa paralisação, a mortalidade e o agravamento dos casos foram temporariamente contidos, resultando em uma queda aparente nas taxas de mortalidade e no número de pacientes. Mas isso não se sustentará. A purificação ressurgirá, e então teremos casos de tuberculose mais malignos do que antes ou outras doenças, ou seja, doenças sob novas formas.
-
-Doenças sob novas formas têm surgido com grande frequência nos Estados Unidos. Lá, enfermidades malignas até então desconhecidas estão aparecendo em grande número, resultado da supressão da tuberculose.
-
-Na Inglaterra, por sua vez, a incidência de tuberculose é muito baixa, mas a população é composta por indivíduos de saúde passiva, com a purificação extremamente enfraquecida. São como bonecos frágeis. Recentemente, assisti a um noticiário estrangeiro no cinema que mostrava uma luta de boxe entre um negro e um branco. A diferença de força era abissal. O inglês era incrivelmente fraco, completamente exausto. O lutador negro — um nome famoso — era muito forte. Atualmente, no boxe, os negros são quase sempre mais fortes. O mesmo se observa em outras modalidades, como levantamento de peso e maratona. Nos Estados Unidos, até mesmo os indígenas têm se mostrado muito mais fortes. A população dos países civilizados foi enfraquecida para que as doenças não se manifestassem. Como resultado, o número de pessoas fracas e debilitadas aumentou. Isso é algo sobre o qual sempre escrevo.
-
-Consequentemente, na Inglaterra, a vitalidade do povo diminuiu. Por temerem a guerra e conflitos, adotaram uma postura de não-resistência. Isso é um sinal de que a nação perdeu seu vigor, enfraqueceu. Por causa disso, surgiram problemas no Irã, no Egito e em outros lugares, e, no fim, a Inglaterra perderá até mesmo suas colônias. Já não há mais energia para reverter essa situação. A medicina, portanto, foi enfraquecendo gradualmente a humanidade. Isso é um fato irrefutável. A principal causa, evidentemente, é o veneno dos medicamentos, e é imperativo que os povos dos países civilizados compreendam isso. Para tal, é preciso uma ação em escala mundial. Essa é a Vontade de Deus. O sucesso é certo, mas certamente haverá diversas mudanças. Trata-se de uma revolução pacífica, portanto, por mais drásticas que sejam as medidas, não há perigos ou riscos. Podem ficar tranquilos.
-
-##### 2-4. Os Medicamentos Não Possuem Ação Bactericida (Coletânea de Ensinamentos, vol. 8, p. 11)
-
-A causa da doença, o surgimento do bacilo da tuberculose, reside nas máculas do espírito. Removendo-as, elimina-se a causa do bacilo, e ele não mais se desenvolverá. Se não há novos bacilos, os existentes desaparecem gradualmente. Assim como os seres humanos têm um tempo de vida, o bacilo da tuberculose também o tem. Por isso, eles vão diminuindo, e os mais velhos morrem. A medicina se equivocou porque, ao observar a reprodução contínua dos bacilos, acreditou que eles se multiplicavam indefinidamente.
-
-Se um medicamento tivesse o poder real de matar um bacilo, ele também mataria o ser humano. Um remédio oral entra no estômago, passa para o intestino e, através do processo digestivo, seus componentes se espalham pelo corpo. Ao atingir todo o organismo, sua força bactericida já se dissipou. Uma injeção, por sua vez, circula pelos vasos sanguíneos, passa pelo coração e, até chegar aos bacilos no pulmão, já perdeu toda a sua potência. Para matar os bacilos de fato, o medicamento teria que ser aplicado diretamente no pulmão. E se, mesmo após circular por todo o corpo, ele ainda mantivesse seu poder bactericida, seria um veneno tão forte que a vida humana seria impossível. Matar o bacilo da tuberculose significaria matar também o ser humano. Somente assim o tratamento seria completo. E é isso que eles se esforçam diligentemente para fazer. É uma situação lamentável.
-
-##### 2-5. A Ação dos Medicamentos é Aleatória
-
-A eficácia de todos os medicamentos é meramente aleatória. É impossível explicar por qual lógica ou mecanismo eles funcionam. A essa base incerta e casual, eles dão o nome de teoria científica. Como tudo se fundamenta nessa lógica, a verdadeira lógica acaba sendo considerada ilógica.
-
-##### 2-6. O Discurso dos Médicos é Incoerente (Coletânea de Ensinamentos, vol. 14, p. 18)
-
-Recentemente, mencionei que os medicamentos estão perdendo a eficácia. Há pouco, durante um programa de rádio escolar, foi dito que o grande número de casos de disenteria este ano se deve à ineficácia das sulfas, que antes curavam a doença com relativa facilidade. Segundo os médicos, a razão da ineficácia é o uso indiscriminado por parte dos leigos. Não consigo entender por que um medicamento perderia a eficácia ao chegar às mãos de um leigo. Pelo contrário, os médicos utilizam muito mais os medicamentos, então não seria o inverso?
-
-Outra causa apontada foi que as pessoas param de tomar o remédio assim que sentem uma melhora, o que resulta em uma cura incompleta e no aumento dos casos. Tampouco compreendo essa lógica. Não seria justamente porque o remédio está fazendo efeito que as pessoas param de tomá-lo? Uma leve melhora na diarreia e já pensam que estão curadas. Dizem que isso é um erro.
-
-Em suma, o que os médicos dizem não tem fundamento. Sua lógica é incoerente. É tudo confuso e sem sentido. Suas mentes parecem estar perturbadas. Diante disso, a única recomendação que sempre fazem é lavar as mãos e evitar que moscas pousem nos alimentos e utensílios. É uma situação verdadeiramente patética.
-
-##### 2-7. Por que os Medicamentos Perdem a Eficácia? (Coletânea de Ensinamentos, vol. 19, p. 16)
-
-Com a intensificação da purificação, diversas mudanças vêm ocorrendo. Há poucos dias, um jornal noticiou que a penicilina já não é mais eficaz, assunto que abordarei na próxima edição da revista "Eikou". Ficou claro que a penicilina não é mais confiável e, portanto, tornou-se inútil. Se fosse ineficaz desde o início, não teria se popularizado como o fez. No começo, ela funcionava. Para a medicina, "funcionar" significa "solidificar". Ela tinha o poder de solidificar as toxinas, e nesse sentido, era eficaz.
-
-O estranho é que algo que funcionava há dez anos hoje não funciona mais. O ser humano não mudou nesse período; o que mudou foi o efeito do medicamento. Os médicos apresentaram várias justificativas, mas todas pareciam desculpas esfarrapadas, ditas em um momento de apuro. Alegaram que os micróbios se tornaram mais fortes. Ou seja, a ação da penicilina de enfraquecer os micróbios teria feito com que estes desenvolvessem resistência, tornando-se mais fortes e anulando o efeito do medicamento. Contudo, ouvi ontem que, embora isso pudesse ser verdade para quem usa penicilina continuamente, o mesmo ocorre com quem nunca a tomou: ela simplesmente não funciona. Essa lógica, portanto, não se sustenta.
-
-Como a medicina não tem a resposta, eles inventam alguma teoria para não abalar sua autoridade ou a credibilidade da ciência. Ouve-se muito isso nos jornais e no rádio. Eles criam argumentos para que as pessoas continuem a acreditar na medicina, mas, para nós, a farsa é transparente. O público, por desconhecer a verdade, continua a ser enganado. Assim, eles vão levando a situação de engano em engano.
-
-Por enquanto, é apenas a penicilina, mas a estreptomicina também já está sob suspeita. Em breve, ela também será considerada inútil. Em seguida, a aureomicina, a terramicina e o PAS seguirão o mesmo caminho. Ontem, alguém comentou que o último recurso seria a Terramicina, cujo nome em japonês soa como "avançar rumo ao templo" (*tera maishin*). De fato, parece ser esse o destino. Com isso, os medicamentos para tuberculose e outras doenças desaparecerão. Chegaremos a um ponto em que a medicina não conseguirá mais curar as doenças. A partir de então, nossa missão começará para valer. E não falta muito; esse tempo chegará relativamente em breve.
-
-#### 3. O Maior Estelionato é a Venda de Medicamentos (Coletânea de Ensinamentos, vol. 26, p. 49)
-
-Outro ponto que passa despercebido, e sobre o qual escreverei em breve, é que vivemos em uma "Era do Estelionato". O mundo de hoje está repleto de fraudes. A maior delas é a venda de medicamentos de balcão. Os anúncios nos jornais são abundantes e, se lidos com atenção, percebe-se que não prometem a "cura". A redação é astuta. Dizem que o produto "é muito adequado para tal doença", "proporciona bem-estar", "acelera a recuperação" ou "alivia os sintomas". Mas a palavra "cura" não está lá. A intenção é fazer o consumidor acreditar que será curado.
-
-Na realidade, a cura não acontece, e os próprios fabricantes sabem disso. A legislação sobre medicamentos de venda livre estipula apenas que o produto não pode ser prejudicial. Para que um medicamento seja eficaz, ele precisa conter veneno, pois é a molécula de veneno que produz o efeito. A lei, portanto, proíbe isso. No entanto, se não houver um mínimo de efeito, ninguém comprará. Assim, esses medicamentos apenas contêm menos veneno do que os prescritos pelos médicos. Vender um produto que não cura, fazendo parecer que cura para obter dinheiro, é crime de estelionato.
-
-Ainda mais grave é quando o médico diz: "Sua doença será curada em uma semana. Continue o tratamento por duas semanas para garantir". Vemos isso constantemente nos relatos de graças, mas na realidade, nunca acontece. O médico também não tem certeza e pensa: "Provavelmente vai curar". Se ele dissesse a verdade — "Casos como o seu não têm cura. Pela minha experiência, ninguém jamais se curou" —, não conseguiria se sustentar. Portanto, não se trata de estelionato, mas de um crime inevitável. E existem muitos crimes inevitáveis como esse.
-
-### Dois — Sobre o Veneno dos Medicamentos
-
-#### 1. Medicamentos da Farmacopeia Chinesa (Kampo)
-
-##### 1-1. Pacientes que Consumiram Grandes Quantidades de Gennoshouko e Dokudami Levam Mais Tempo para se Curar com o Johrei (Coletânea de Ensinamentos, vol. 19, p. 43)
-
-Os medicamentos da farmacopeia chinesa são extremamente nocivos, e além disso, são consumidos em grandes quantidades. Por essa razão, por mais que se ministre Johrei, o veneno continua a se acumular. Refiro-me especificamente aos medicamentos chineses. Os medicamentos ocidentais, por sua vez, manifestam-se rapidamente como furúnculos ou abcessos, sendo, nesse aspecto, mais fáceis de eliminar. Dentre eles, os mais perigosos são os desinfetantes, como já mencionado.
-
-Na farmacopeia chinesa, os mais temíveis são o *gennoshouko* e o *dokudami*. O nome *dokudami* parece derivar de "acúmulo de veneno" (*doku-dame*). Essa planta é muito consumida por mulheres que trabalham no mundo do entretenimento noturno. Antigamente, as gueixas bebiam chá de *dokudami* constantemente, em vez de chá comum. Por isso, a tez dessas mulheres, sem maquiagem, é muito ruim, o que se deve ao veneno dessas infusões. A intoxicação por medicamentos chineses é, portanto, muito mais comum entre as mulheres. Remédios como o Chujoto e muitos outros são todos da farmacopeia chinesa. Assim, a beleza feminina é gravemente prejudicada por esses medicamentos. Tendo isso em mente, é preciso explicar aos pacientes que, quanto maior a quantidade de medicamentos chineses consumida, mais tempo levará a cura pelo Johrei. Se nós, ministros, também tivermos essa consciência ao aplicar o Johrei, a diferença será considerável.
-
-##### 1-2. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Novos Fármacos (Registro de Orientações Divinas, vol. 23, p. 13)
-
-Talvez os medicamentos da farmacopeia chinesa sejam mais perigosos que a estreptomicina ou a penicilina. Isso porque são consumidos em quantidades muito maiores.
-
-##### 1-3. Os Medicamentos da Farmacopeia Chinesa Abreviam a Vida (Coletânea de Ensinamentos, vol. 29, p. 24)
-
-O recente aumento da expectativa de vida se deve ao abandono dos medicamentos chineses e à adoção dos medicamentos ocidentais. Antigamente, dizia-se que os estrangeiros viviam mais que os japoneses, e a razão era a não utilização da farmacopeia chinesa. Portanto, para abreviar a vida, não há nada como os medicamentos chineses... É uma forma estranha de dizer, mas é a verdade. O aumento da longevidade nos últimos tempos deve-se, portanto, ao desuso da medicina chinesa e à substituição dos medicamentos ocidentais por antibióticos, que paralisam a purificação de forma eficaz e com relativamente poucos efeitos colaterais.
-
-##### 1-4. Sobre a Planta Habuso (Registro de Orientações Divinas, vol. 3, p. 22)
-
-"Em algumas regiões, as pessoas bebem chá de *habuso*."
-
-A *habuso* não causa grandes problemas.
-
-##### 1-5. Sobre a Intoxicação por Gennoshouko (Coletânea de Ensinamentos, vol. 7, p. 79)
-
-O *gennoshouko* afeta exclusivamente o abdômen. A intoxicação por ele é muito persistente. O único problema, portanto, é a debilidade física. À medida que se ministra Johrei, o veneno diminui e a pessoa melhora, mas, como consequência, o apetite pode diminuir, causando fraqueza. Se a pessoa conseguir suportar essa fase, será curada. Se a debilidade a vencer, o prognóstico é perigoso. Tudo depende da quantidade de medicamento ingerida, o que é impossível de estimar. (...) O inchaço abdominal ocorre quando o veneno, que estava solidificado, começa a se dissolver. (...) Deve-se concentrar o Johrei no abdômen e nos rins.
-
-##### 1-6. Uma Chaleira de Infusão de Ervas Chinesas Contém um Veneno Terrível (Coletânea de Ensinamentos, vol. 19, p. 18)
-
-A purificação se intensifica gradualmente, e, ultimamente, muitas purificações são de medicamentos ingeridos por via oral. Os sintomas incluem peso no estômago, falta de apetite ou vômitos. A purificação de medicamentos orais, especialmente os da farmacopeia chinesa, tornou-se muito frequente. Como são consumidos em grande quantidade, mesmo uma única chaleira de infusão contém um veneno terrível. Esse veneno se acumula ao redor do estômago, infiltra-se e se solidifica. Com a intensificação da purificação, ele retorna ao estômago, causando peso e perda de apetite. Pessoas com esse quadro invariavelmente têm nódulos nas costas, à esquerda, à direita ou em ambos os lados, e também ao longo da coluna vertebral. A dissolução desses nódulos traz grande alívio. Em casos graves, a falta de apetite pode levar a uma grande debilidade. Portanto, deve-se ministrar Johrei com o objetivo de dissolver esses nódulos nas costas.
-
-##### 1-7. Gennoshouko e Ruibarbo (Daio) (Coletânea de Ensinamentos, vol. 19, p. 35)
-
-É preciso ter em mente a questão dos medicamentos da farmacopeia chinesa. Muitas pessoas, ao ouvirem falar do veneno dos medicamentos, não consideram os remédios chineses como tal. Quando digo a alguém: "Sua doença é causada pelo veneno dos medicamentos. O senhor deve ter tomado muitos remédios", a pessoa responde: "Não tomei muitos". Insisto: "Não é possível". E ela admite: "Quando criança, tomei uma infusão, mas foram só duas ou três chaleiras". Eu explico: "É exatamente isso". E a pessoa fica surpresa. Duas ou três chaleiras de uma infusão chinesa contêm um veneno terrível. A razão pela qual a expectativa de vida dos japoneses diminuiu foi o uso desses medicamentos.
-
-A história mostra que, até cerca do ano mil, as pessoas viviam mais de cem anos. A partir dos séculos XIV e XV, a longevidade diminuiu drasticamente. A farmacopeia chinesa foi introduzida no Japão pouco depois do ano mil. No reinado do Imperador Kinmei, houve uma epidemia, que era a varíola, doença até então inexistente no Japão. Os medicamentos chineses são os que mais abreviam a vida. O recente aumento da longevidade deve-se ao fato de não os consumirmos mais. Nesse aspecto, os medicamentos ocidentais são relativamente menos prejudiciais. Contudo, fármacos recentes como a penicilina e a hidrazida são muito tóxicos, e seu uso contínuo certamente levará a consequências terríveis.
-
-A intoxicação por medicamentos chineses é mais visível na cor da pele. Tons amarelados ou azulados-escuros são sinais dessa intoxicação e podem ser confirmados com uma investigação. Muitas pessoas têm a pele inchada e azulada, especialmente as mulheres, que consomem mais esses medicamentos do que os homens. O mais perigoso de todos, como sempre digo, é o *gennoshouko*. Quem o tomou, pode-se dizer que dificilmente sobreviverá. Em segundo lugar vem o *dokudami*, e há vários outros.
-
-Meu pai faleceu aos cinquenta e seis anos, uma morte muito prematura. Para tratar uma constipação, ele tomou diariamente, por vinte ou trinta anos, um medicamento chamado ruibarbo (*daio*), sem falhar um único dia. Se não o tomasse, sentia-se mal. Antes de morrer, desenvolveu uma doença cardíaca. O médico disse que ele não viveria mais que seis meses, e, de fato, ele faleceu alguns meses depois. No momento da morte, a pele de seu escroto se rompeu, liberando um líquido de odor fétido. Na época, eu era jovem e não compreendi, mas hoje sei que foi uma intoxicação por ruibarbo.
-
-A cor da pele é o sinal mais claro. Por isso, muitos chineses têm a pele amarelada e raramente rosada. É o efeito da intoxicação por medicamentos chineses, que lá, sendo o berço dessa prática, são muito mais consumidos. Portanto, em casos de intoxicação por medicamentos, investigar o uso da farmacopeia chinesa é um caminho seguro. Os agricultores do interior também costumam ter a pele amarelada. As pessoas da cidade têm a pele branca ou pálida, mas no campo, o tom amarelado é comum. Dizem que é por causa da má alimentação, mas não é verdade; é porque bebem infusões de ervas. Mesmo com uma dieta pobre, se um agricultor não tomar esses medicamentos, sua pele será rosada.
-
-Percebi isso claramente na primavera do ano passado, quando o abade do templo Yakushiji, Hashimoto Gyo-in, me visitou. Conversamos por meio dia. Ele tinha um rosto incrivelmente rosado, uma tez exemplar. Era corpulento e de uma saúde robusta. Havia nele uma beleza masculina, uma formosura que me cativou. Tinha cinquenta e seis anos e era estritamente vegetariano. Preparei-lhe um jantar especial, sem usar nem mesmo flocos de peixe seco, uma refeição puramente vegetariana. Segundo a nutrição, ele deveria ter a pele pálida por desnutrição, mas era o oposto.
-
-Isso mostra como a intoxicação por medicamentos chineses é terrível, e é importante falar sobre isso. Deve-se ministrar Johrei com essa consciência. Quando, mesmo com o Johrei, o veneno continua a se manifestar, geralmente se trata de medicamentos chineses, que são consumidos em grande quantidade, como um remédio de uso contínuo por muitos anos. É por isso que a pele fica ruim e muitas mulheres perdem a beleza.
-
-##### 1-8. Os Medicamentos da Farmacopeia Chinesa são Mais Perigosos que os Ocidentais (Coletânea de Ensinamentos, vol. 31, p. 66)
-
-No Havaí, há uma particularidade em relação ao Japão: as doenças curam-se com muito mais facilidade. Além disso, purificações secundárias e outras complicações raramente ocorrem. A cura é limpa e definitiva. É um tanto misterioso, mas a razão é que quase ninguém lá consome medicamentos da farmacopeia chinesa. Os senhores, pela experiência, sabem que no Japão, mesmo durante o processo de cura pelo Johrei, o veneno dos medicamentos continua a emergir incessantemente. A quantidade de veneno é imensa. A causa disso são os medicamentos chineses.
-
-Os medicamentos ocidentais, embora mais tóxicos, são consumidos em quantidades muito menores e, por isso, são mais fáceis de eliminar. Essa compreensão tem se tornado cada vez mais clara para nós. A tuberculose, por exemplo, frequentemente apresenta purificações secundárias. Embora os medicamentos ocidentais contribuam, os pacientes com tuberculose, ao não obterem a cura com eles, geralmente recorrem, por desespero, aos medicamentos chineses. Portanto, a principal causa das purificações secundárias na tuberculose é a farmacopeia chinesa. Como essas infusões são bebidas como se fossem chá, a quantidade ingerida é enorme. Por mais que se elimine, o veneno continua a sair. Tudo isso é veneno de medicamentos chineses.
-
-O ser humano tem sido verdadeiramente tolo. Se abandonasse completamente os medicamentos, viveria mais de cem anos. É como usar fertilizante e impedir que o arroz cresça. Estávamos abreviando a vida com remédios. É por isso que no Havaí as curas são tão fáceis.
-
-#### 2. Salvarsan 606
-
-##### 2-1. Sobre a Intoxicação por Salvarsan 606 (Coletânea de Ensinamentos, vol. 6, p. 81)
-
-O Salvarsan 606 pode causar cegueira. Sua intoxicação manifesta-se como cegueira e doença mental. A desculpa, no entanto, é perfeita. Como o Salvarsan é usado para tratar a sífilis, quando a visão piora ou surge uma doença mental, a culpa é atribuída à própria sífilis. Eles sempre encontram uma justificativa.
-
-##### 2-2. Sífilis e Salvarsan 606 (Coletânea de Ensinamentos, vol. 1, p. 18)
-
-"Recebi a graça de ingressar na fé em maio de 1950. Em março de 1949, contraí sífilis e, por recomendação médica, recebi vinte e cinco injeções de Salvarsan 606. Um ano depois, o exame de sangue deu positivo, mas como não tinha sintomas, casei-me. Em maio de 1950, meu marido e eu ouvimos os maravilhosos ensinamentos e ingressamos juntos na fé. Desde então, vivemos dias de gratidão. Contudo, ambos sentimos dores ocasionais na lombar e mal-estar. Em maio deste ano, fizemos exames de sangue, e ambos os resultados foram fortemente positivos (três cruzes). O médico recomenda tratamento, dizendo que, se não o fizermos, as consequências serão terríveis. Não me preocupo com as palavras do médico, mas atualmente sentimos dores na lombar e o corpo pesado, embora isso não nos impeça de trabalhar. O que devo fazer? Peço sua orientação."
-
-Positivo ou negativo não importa. A sífilis cura-se rapidamente, em uma semana. O problema é o Salvarsan 606. A dor lombar é, com certeza, causada por ele. A sífilis não causa dor nem coceira; é uma doença assintomática. Antigamente, as doses de Salvarsan eram muito fortes, mas hoje, talvez por terem aprendido ou por astúcia, os médicos não usam doses tão altas. Vinte e cinco injeções devem ser de uma solução muito diluída. Já ouvi falar de muitos que aplicam Salvarsan apenas para ganhar dinheiro. Certa vez, um conhecido meu passou por uma farmácia perto de sua casa e comentou: "Estou tomando injeções de Salvarsan 606". "Onde?", perguntou o farmacêutico. "Naquele consultório." "Faz sentido, ele compra de mim. Quanto você paga?" Ao ouvir o valor, o farmacêutico disse: "Ele está lucrando muito com isso".
-
-Quanto ao Johrei, ministre apenas no local da dor lombar quando ela ocorrer. O mal-estar é a febre gerada pela purificação do Salvarsan que se acumulou e está sendo expelido naquela região. Ministrar Johrei apenas ali é suficiente.
-
-##### 2-3. Salvarsan 606, Desinfetantes e Gennoshouko são Potentes (Registro de Orientações Divinas, vol. 8, p. 2)
-
-"O veneno do Salvarsan 606 não pode ser totalmente eliminado em uma única geração, não é?"
-
-O Salvarsan 606 é potente. Ele, os desinfetantes e, na farmacopeia chinesa, o *gennoshouko* são os mais fortes. É a prova viva de sua ineficácia.
-
-##### 2-4. O Salvarsan 606 Prejudica o Raciocínio (Registro de Orientações Divinas, vol. 4, p. 68)
-
-"Onde o veneno do Salvarsan 606 se manifesta no corpo?"
-
-A principal característica é seu efeito na cabeça. Sem exceção, ele prejudica o raciocínio. A pessoa desenvolve distúrbios mentais, fala coisas estranhas, seus pensamentos se desviam da normalidade. Existem médicos que aplicam doses mais fracas e outros que usam doses mais fortes. Doses fracas requerem um maior número de aplicações. Antigamente, o tratamento era limitado a doze injeções, mas hoje, com soluções diluídas, chegam a cinquenta, sessenta. (...)
-
-Quando o Salvarsan 606 foi introduzido no Japão, havia um jovem com um problema na cabeça. O médico, suspeitando de sífilis, aplicou uma injeção diretamente em sua cabeça. O nome dele era Matsushita. Pouco tempo depois, ele enlouqueceu. A história está registrada no livro "O Evangelho do Céu".
-
-"Eu também perdi todo o meu cabelo por um tempo."
-
-Parece que sua mente não foi afetada. Ou talvez tenha sido e depois se curou. Nesse caso, não há perigo.
-
-#### 3. Desinfetantes
-
-##### 3-1. Desinfetantes e a Dor (Coletânea de Ensinamentos, vol. 31, p. 64)
-
-Como sempre digo, os desinfetantes invariavelmente se transformam em dor. Pode-se assumir, sem grande margem de erro, que quase todas as doenças dolorosas são causadas por desinfetantes. Contudo, não é tão simples quanto pensar que a dor em um local específico foi causada pela aplicação de um desinfetante naquele mesmo local. Por exemplo, uma pessoa com dor de cabeça pode ter o veneno de um desinfetante usado em uma cirurgia nas mãos ou nos pés que subiu e se solidificou na cabeça. Portanto, em casos de dor, deve-se sempre perguntar sobre cirurgias anteriores. Assim, a causa fica mais clara.
-
-Ultimamente, tenho ouvido muitos relatos de que pessoas com dor de dente, quase invariavelmente, fizeram a remoção do apêndice. A cirurgia de apendicite é a que mais se manifesta como dor de dente. É algo completamente inesperado. Se a dor de dente cessa após uma ou duas sessões de Johrei, a causa é local. Geralmente, a dor de dente é causada pelo desinfetante aplicado antes de uma extração ou obturação. Já escrevi sobre isso antes. Ao ir ao dentista para uma obturação, ele sempre aplica um desinfetante antes, e isso invariavelmente causa dor posterior. O desinfetante se decompõe e tenta sair, o que se manifesta como dor. Se o procedimento fosse feito sem desinfetante, não haveria dor. É uma prática verdadeiramente tola.
-
-Contudo, se a dor não cessa após uma ou duas sessões, deve-se perguntar sobre a cirurgia de apendicite. O desinfetante usado nessa cirurgia sobe gradualmente pelo corpo, passa pelo peito e tenta sair pelos dentes. A descoberta de que a causa da dor de dente é a cirurgia de apendicite é uma grande revelação mundial.
-
-#### 4. Novos Fármacos
-
-##### 4-1. Sobre as "Micinas" (Registro de Orientações Divinas, vol. 3, p. 33)
-
-"O jornal noticiou a importação de 5,05 milhões de dólares em 'micinas'."
-
-Que bom. Mas elas não são tão terríveis. Afinal, são derivadas de mofo.
-
-"Dizem que são piores que a penicilina."
-
-A penicilina é mofo puro. As outras devem ser modificações dela. Não são de origem mineral.
-
-##### 4-2. Sobre o Nível de Risco no Uso de Estreptomicina e Hidrazida (Registro de Orientações Divinas, vol. 23, p. 12)
-
-"Embora a estreptomicina e a hidrazida sejam venenos potentes, a partir de quantas injeções elas representam um risco à vida?"
-
-Isso é impossível de saber. Depende do corpo de cada pessoa. Há quem suporte cinquenta injeções de estreptomicina sem problemas, e há quem se debilite muito com dez ou vinte. Depende da constituição física do indivíduo. Além disso, a dosagem utilizada pelo médico, em unidades, não é um dado confiável. Ele pode ajustar a dose com base em sua avaliação da resistência do paciente. Não há como saber.
-
-Essa questão não precisa ser motivo de preocupação. Deve-se considerar também o histórico médico da pessoa e os diversos medicamentos que ela já tomou, incluindo os anteriores às "micinas" e os da farmacopeia chinesa, que são terrivelmente perigosos.
-
-##### 4-3. Manifestação da Purificação de Estreptomicina e Pontos de Johrei (Revista Paraíso Terrestre, nº 13, p. 21)
-
-"Como se manifesta o veneno da estreptomicina? Ele pode ser eliminado com Johrei? E em quais pontos devemos ministrar?"
-
-Como a ação desse medicamento é desconhecida, é difícil responder como ele se manifestará. Em suma, deve-se localizar os pontos onde o veneno do medicamento se acumulou e ministrar Johrei ali.
-
-#### 5. BCG
-
-##### 5-1. A Suspensão Temporária do BCG (Coletânea de Ensinamentos, vol. 3, p. 57)
-
-O jornal de hoje noticiou que a aplicação do BCG será suspensa por um tempo. No programa de rádio "Visita da Manhã", um médico foi entrevistado sobre o assunto. Ele deu respostas vagas e não se pronunciou claramente, mas também não defendeu o BCG. Quem se opôs ao BCG foi um médico americano que realizou um estudo mundial comparando regiões onde a vacina era aplicada e onde não era. Ele constatou que, nas regiões onde o BCG era usado, a incidência de tuberculose era muito maior, e onde não era, muito menor. O médico no rádio argumentou com base na teoria, mas a questão fundamental é a prática, a realidade.
-
-A opinião pública contrária ao BCG cresceu. O governo japonês, percebendo isso, e com ministros se manifestando sobre o perigo, decidiu suspendê-lo, mesmo que temporariamente. A suspensão foi motivada pelos resultados práticos. Em breve, a penicilina e a estreptomicina também serão consideradas inúteis. Podem observar. Por desconhecerem o veneno dos medicamentos, eles se empenham tanto em usá-los. Do nosso ponto de vista, é uma situação digna de pena.
-
-##### 5-2. O BCG Deixou de Solidificar (Coletânea de Ensinamentos, vol. 4, p. 21)
-
-*Artigo "A Questão do BCG (O Veneno Potente do BCG)" (Revista Eikou, nº 130)*
-
-Pretendo publicar este artigo na próxima edição da revista "Eikou" e enviá-lo ao Ministro da Saúde. Como a purificação no Mundo Espiritual se intensificou, o BCG, que antes solidificava as toxinas, deixou de fazê-lo. A criança mencionada no artigo, por ser membro, não teve as toxinas solidificadas, e por isso o efeito adverso se manifestou imediatamente. À medida que os medicamentos perdem seu poder de solidificação, o que antes não causava problemas passará a agravar o estado do paciente. Assim, as pessoas compreenderão, queiram ou não, a existência do veneno dos medicamentos. E então, finalmente, perceberão: "Aquela coisa estranha que a Igreja Messiânica dizia... era isso".
-
-Alguns médicos parecem estar lendo nossas publicações, pois ocasionalmente percebo que incorporam minhas teses em seus discursos. Prestando atenção, nota-se que isso ocorre com certa frequência.
-
-##### 5-3. Quem Recebe o BCG Acabará se Tornando um Paciente de Tuberculose (Coletânea de Ensinamentos, vol. 4, p. 9)
-
-Outro ponto é a questão do BCG, que tem gerado grande polêmica. Ouvi um relato de graça excelente sobre o assunto, que publicarei na próxima edição da "Eikou" e enviarei ao Ministro da Saúde. (*Artigo "A Questão do BCG"*)
-
-Até agora, dizia-se que aplicar o BCG em alguém com suspeita de tuberculose impedia o desenvolvimento da doença. "Suspeita" significa que a purificação está ocorrendo ou prestes a ocorrer. O BCG solidifica essa purificação, proporcionando uma melhora temporária por seis meses ou um ano. Mas uma única aplicação não é suficiente, pois a solidificação nunca é definitiva. Em algum momento, o veneno se dissolverá. Portanto, quem recebe o BCG acabará, inevitavelmente, se tornando um paciente de tuberculose.
-
-#### 6. Intoxicação por Cosméticos
-
-##### 6-1. Com a Pele Debilitada por Medicamentos e Injeções, os Cosméticos se Tornaram Ainda Mais Tóxicos (Coletânea de Ensinamentos, vol. 19, p. 42)
-
-A intoxicação por medicamentos chineses, especialmente em mulheres, deixa a pele extremamente ruim, seca e sem brilho. A pele das mulheres de hoje já vem sendo prejudicada por gerações, pelo uso de medicamentos chineses por seus ancestrais. A isso se somam os medicamentos ocidentais potentes e as injeções, que a degradam ainda mais. Para completar, os cosméticos atuais contêm medicamentos. Antigamente, a base de arroz continha, no máximo, veneno de chumbo. Hoje, além do chumbo, há o veneno dos medicamentos. Por isso, a pele das mulheres modernas é péssima. Mesmo as jovens, sem maquiagem, são impresentáveis.
-
-Os cosméticos, por sua vez, "evoluem" cada vez mais. É uma evolução na arte de disfarçar. A aparência imediata é de beleza, mas para isso é preciso aplicar camadas espessas de vários produtos. Nos salões de beleza, aplicam toalhas quentes e outros procedimentos. Mas a mulher foi criada por Deus para ser bela sem tantos artifícios. Atualmente, o país com a pior qualidade de pele no mundo são os Estados Unidos. A pele das jovens americanas é, segundo relatos, terrivelmente áspera, devido ao uso constante de diversos medicamentos e tratamentos.
-
-O uso do batom, por exemplo, tornou-se necessário porque a cor dos lábios é ruim. O blush também é um contrassenso; as bochechas deveriam ser naturalmente rosadas. Tudo isso é resultado do veneno dos medicamentos, que deteriora a pele. Por isso, as jovens de hoje se entregam cada vez mais aos cosméticos.
-
-##### 6-2. Sobre a Sensação de Calor na Cabeça (Nobose) (Coletânea de Ensinamentos, vol. 19, p. 38)
-
-A sensação de calor que sobe à cabeça, conhecida como *nobose*, é mais comum em mulheres do que em homens. A causa é a intoxicação por cosméticos.
-
-#### 7. Outros
-
-##### 7-1. Intoxicação por Antipirina (Registro de Orientações Divinas, vol. 28, p. 25)
-
-Em minha juventude, tomei antipirina. A intoxicação por ela é terrível. O corpo todo coça de forma insuportável, a ponto de não se conseguir ficar parado. É uma agonia que faz querer pular.
-
-##### 7-2. Albazil (Registro de Orientações Divinas, vol. 28, p. 30)
-
-"Tenho angina e, quando uso Albazil, a pele fica com manchas arroxeadas."
-
-É o veneno do medicamento solidificado ali. Sangue tóxico coagulado.
-
-"Com os remédios que o médico me dá, às vezes as manchas aparecem, outras não. Quando experimento e sinto que tem Albazil, as manchas aparecem naquela mesma noite. Isso significa que o veneno acumulado está se dissolvendo e saindo?"
-
-Pode ser o veneno acumulado que está saindo, pode ser o veneno novo, ou pode depender do tipo de Albazil. Existem formulações feitas para sair rapidamente e outras não, mais concentradas ou mais diluídas. Mas as mortes por Albazil são muito comuns. Hoje em dia, sua produção foi quase interrompida. É um medicamento terrivelmente perigoso. Como o efeito é imediato, causa dependência.
-
-"Os sintomas de angina podem ser causados pelo uso excessivo de Albazil?"
-
-Sem dúvida. O Albazil parece ser muito eficaz para a vida... para acabar com ela. Já ouvi falar de muitas pessoas que morreram por causa do Albazil.
-
-##### 7-3. Adorm e Metil (Registro de Orientações Divinas, vol. 4, p. 41)
-
-"Uma mulher de vinte e oito anos tentou o suicídio ingerindo trinta comprimidos de Adorm e outros dez de outro medicamento. Cinco horas depois, foi encontrada. Fui chamado ao local, onde um médico já havia chegado, aplicado cinco ou seis injeções e providenciado sua internação. O médico achava que ela não sobreviveria, mas, após dois dias, ela recuperou a consciência e sobreviveu. A família a trouxe de volta para casa. Ela está recebendo Johrei e se recuperando bem. Nesse caso, onde devo ministrar?"
-
-Como ela ingeriu os medicamentos, o veneno não foi para as costas. Ministre no estômago e nos intestinos.
-
-"Ela diz que a cabeça não está bem."
-
-Alguns venenos afetam a cabeça. Nesse caso, ministre Johrei na cabeça. E a consciência?
-
-"Está quase totalmente recuperada."
-
-Não há com o que se preocupar. A intoxicação é temporária. O mesmo vale para o álcool metílico. Os efeitos são passageiros. O metil também afeta a cabeça.
-
-##### 7-4. Medicamentos de Uso Tópico (Coletânea de Ensinamentos, vol. 1, p. 55)
-
-"Minha filha de quatro anos, membro da Igreja, sofreu uma queimadura no rosto com um brinquedo de celuloide aos dois anos e meio. Ela recebeu uma injeção diária contra infecção por cinquenta dias e usou uma pomada por noventa dias. Atualmente, ela tem uma cicatriz no rosto e não tem a sobrancelha esquerda. Peço sua orientação sobre o caso."
-
-Cinquenta dias de injeção... esse é o problema. Ela será curada. O melhor seria não ter feito nada, ou então ter ministrado Johrei, e a cura teria sido rápida. A pomada também é prejudicial. A recuperação dependerá da eliminação desse veneno, que sairá gradualmente. A falta da sobrancelha também se deve a isso; o medicamento impede o crescimento dos pelos. Se continuar a receber Johrei, ela será curada. Não se preocupe. É mais uma vítima dos medicamentos.
-
----
-
-# Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
-
-**Categoria:** sasshi | **Ano:** - | **Fonte:** -
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
-
-## Coletânea de Teses do Mestre Okada Jikan – O Paraíso da Beleza: Museu de Arte de Hakone
-*Por Fujikake Shizuya, Doutor em Letras*
-
-O Museu de Arte de Hakone foi fundado em junho de 1952, em Hakone-Gora, pelo Líder Espiritual da Sekai Kyusei Kyo, o Senhor Okada Mokichi. Seu anexo, o Pavilhão de Ukiyo-e, foi inaugurado em junho do ano seguinte, 1953, como uma ala especial.
-
-O edifício principal, com seus três pavimentos, ergue-se com uma fachada alva, imponente e nobre, dominando a sublime beleza natural de Gora. O terceiro pavimento abriga uma sala de recepção para convidados ilustres, em estilo japonês, em cuja alcova se encontra pendente uma imagem venerável de Kannon (観音), com a assinatura de Jikan (自観). Trata-se de uma obra do próprio Líder Espiritual, dotada de uma elegância inalcançável aos pintores profissionais e de uma força solene. Deste aposento, que se posiciona defronte ao Monte Myojogatake, famoso pela celebração do Daimonji, avista-se ao longe o Oceano Pacífico, compondo um panorama de beleza excepcional. O primeiro e o segundo pavimento são dedicados às exposições, com iluminação primorosa, e o esmero na concepção das vitrines para as obras de arte é notável, revelando um projeto museológico de excelência.
-
-Consta que toda a concepção do museu foi fruto do planejamento e do desígnio do próprio Líder Espiritual. De fato, ele devotou sua alma a este museu. Segundo suas próprias palavras, seu anseio era criar um Paraíso da Beleza para apresentá-lo ao mundo. Para tal, elegeu as cidades de Atami e Hakone. Reuniu obras de arte capazes de elevar a sensibilidade humana, com o propósito de mostrar os tesouros do Japão aos estrangeiros e, aos japoneses, proporcionar uma oportunidade de profunda apreciação. Desejava, ademais, que servissem como referência e inspiração para os artistas.
-
-Nesse sentido, ele se dedicou pessoalmente a cada detalhe, do início ao fim. Até mesmo o jardim é inteiramente fruto de seu planejamento, e cada árvore, cada folha de relva, recebeu sua atenção e seu espírito. Assim, edificou um museu de estrutura sólida para reunir, proteger e preservar os tesouros do Japão, almejando que fossem apreciados pelo maior número de pessoas. Sua esperança era a de que tal iniciativa pudesse também contribuir para a conservação do patrimônio nacional.
-
-Pode-se, com isso, inferir a profundidade das intenções do Líder Espiritual.
 
 ---
 

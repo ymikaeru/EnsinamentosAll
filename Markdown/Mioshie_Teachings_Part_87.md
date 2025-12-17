@@ -4,7 +4,7 @@
 
 **Categoria:** sasshi | **Ano:** 昭和11(1936)年7月 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikanshi
 ## Registro das Preleções do Professor Okada sobre a Arte de Curar Doenças, Volume I (Parte Um)
@@ -2657,8 +2657,8 @@ Casos leves levam de duas a três semanas, e casos graves, de dois a três meses
 # Registro de Orientações Sagradas, nº 26 (Ano 28 da Era Showa – 1953)
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-11-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録26号 | **Status:** Published | **Edição/Página:** 26号, 26号 | **Data ISO:** 1953-11-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Registro de Orientações Sagradas, nº 26 (Ano 28 da Era Showa – 1953)
 
@@ -2884,7 +2884,7 @@ Se os atos maus fossem descobertos imediatamente, ninguém mais os cometeria. Qu
 
 **Categoria:** sasshi | **Ano:** 昭和10(1936)年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** Ensaios de Mestre Jikan Okada | **Tipo:** - | **Fonte (JP):** -
 
 ## ――― Ensaios de Mestre Jikan Okada ―――
 ## Palestras sobre a Arte Médica Japonesa (Primeira Parte - Escrito em 1936)
@@ -3233,8 +3233,8 @@ No entanto, nem todos os casos são assim. Há, de fato, um número consideráve
 # Coletânea de Teses do Reverendo Jikan Okada – Registro de Ensinamentos, nº 30
 
 **Categoria:** gosuiji | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-04-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録30号 | **Status:** Published | **Edição/Página:** 30号, 30号 | **Data ISO:** 1954-04-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Reverendo Jikan Okada – Registro de Ensinamentos, nº 30
 Publicado em 15 de abril de 1954 (Ano 29 da Era Showa)
@@ -3510,8 +3510,8 @@ Na exposição Momoyama que está por vir, teremos uma caixa de escrita de Koets
 # Coletânea de Teses do Mestre Jikan Okada — Gosuiroku Nº 7
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年3月10日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-03-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録7号 | **Status:** Published | **Edição/Página:** 7号, 7号 | **Data ISO:** 1952-03-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada — Gosuiroku Nº 7
 
@@ -3922,8 +3922,8 @@ Exatamente. Os cientistas diziam que nada cresceria por setenta e cinco anos. Qu
 # Coletânea de Teses do Mestre Okada Jikan – Gosuijiroku, nº 27
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-12-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録27号 | **Status:** Published | **Edição/Página:** 27号, 27号 | **Data ISO:** 1953-12-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Okada Jikan – Gosuijiroku, nº 27
 *Gosuijiroku*, nº 27, publicado em 15 de dezembro de 1953

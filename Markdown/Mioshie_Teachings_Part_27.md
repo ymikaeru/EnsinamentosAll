@@ -1,10 +1,503 @@
 # Mioshie_Teachings - Part 27
 
+# Sobre as Moléstias Gástricas e Cardíacas
+
+**Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 胃病と心臓病 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
+
+## Sobre as Moléstias Gástricas e Cardíacas
+
+Após haver discorrido detalhadamente sobre a tuberculose, abordarei agora as moléstias gástricas e cardíacas. A razão para tal é que estes, juntamente com os pulmões, constituem os três órgãos de suprema importância no corpo humano. É através da atividade primordial destes três pilares que todas as funções do ser humano se desenvolvem com vigor, garantindo a manutenção da saúde.
+
+Desde a Antiguidade, o homem é considerado um microcosmo, uma verdade inquestionável. Nesse sentido, o coração representa o Sol; os pulmões, a Lua; e o estômago, a Terra. Configura-se, assim, uma Trindade de fogo, água e terra. Portanto, qualquer sistema que não alicerce sua patologia na relação entre essas três funções não pode ser considerado a verdadeira Medicina.
+
+Dentre essas três funções, a relação entre o fogo e a água reveste-se de particular importância. Como é sabido, o fogo ascende na vertical, enquanto a água flui na horizontal. Ademais, o fogo é avivado pela água, e a água, por sua vez, é movimentada pelo fogo. Trata-se de uma relação análoga à do matrimônio: na ausência da água, a Terra explodiria em um instante; na ausência do fogo, congelaria instantaneamente. Da mesma forma, no corpo humano, o coração, que é fogo, impulsiona a atividade dos pulmões, que são água, e estes, por sua vez, sustentam a atividade do coração.
+
+Esta dinâmica se reflete também nos pensamentos humanos. O amor origina-se no coração, ao passo que a razão se origina nos pulmões, o que é facilmente observável na realidade. Expressões como “a chama do amor” ou “o calor do coração” o demonstram, assim como, em contrapartida, “um olhar frio” ou “um julgamento racional” revelam a atuação dos pulmões. Em suma, essas duas funções mantêm uma relação de polaridade e interdependência. Quando ambas conseguem expressar plenamente suas naturezas intrínsecas, o ser humano alcança a plenitude de sua saúde, em alma e corpo.
+
+Passemos, então, ao estômago. Sendo o órgão responsável por processar os alimentos e nutrir o corpo, sua atividade se intensifica à medida que a vitalidade do fogo e da água aumenta. Ocorre o mesmo com a Terra: quando a luz do Sol e a água da Lua são abundantes, o solo torna-se fértil e as plantas vicejam. Consequentemente, promover essa atividade trinitária no corpo humano é o preceito fundamental para a saúde.
+
+Sob essa ótica, visto que a condição de um único desses três órgãos afeta o todo, compreende-se quão equivocada é a Medicina convencional, que busca tratar o pulmão isoladamente quando este adoece, ou o coração e o estômago de forma segmentada. A seguir, passarei a elucidar as questões relativas ao estômago e ao coração.
+
+Conforme tenho ensinado, a causa de todas as enfermidades reside invariavelmente no *yakudoku* (薬毒), o veneno dos medicamentos. Contudo, nenhuma moléstia ilustra essa causa de maneira tão direta quanto as afecções gástricas, pois, ao ser ingerido, o remédio atinge primeiramente o estômago. É um fato incontestável, portanto, que todas as doenças estomacais são criadas pelos próprios medicamentos.
+
+O início do processo é conhecido por todos. Diante de transtornos como intoxicação alimentar, excesso de comida ou sedentarismo, surgem sintomas como azia, empachamento, dor ou má digestão. Tais desconfortos, se não fossem interferidos, resolver-se-iam naturalmente. Contudo, devido à superstição em relação aos medicamentos, as pessoas invariavelmente recorrem a algum remédio para o estômago. Este proporciona um alívio momentâneo, mas, pouco depois, o sofrimento retorna. Isso ocorre porque a purificação inicial foi suprimida pelo fármaco. A toxina original permanece no organismo e a ela se soma o *yakudoku* do remédio ingerido. A cada repetição desse ciclo, o quadro se agrava sutilmente, e os intervalos de alívio se encurtam. Com o tempo, a condição torna-se crônica, evoluindo para uma doença diagnosticável.
+
+Surgem, assim, enfermidades como a atonia gástrica, a gastrite crônica, os espasmos gástricos, a gastroptose, a úlcera gástrica e o câncer de estômago. A atonia gástrica, também conhecida como hiperacidez, caracteriza-se pelo excesso de ácido. Sua causa reside no fato de que, para auxiliar a digestão, a vesícula biliar envia continuamente bile ao estômago. Quando uma substância estranha como o *yakudoku* interfere nesse processo, o organismo precisa enviar uma quantidade ainda maior de bile para tentar neutralizá-la. A gastrite crônica, por sua vez, ocorre quando o medicamento, uma vez absorvido, transforma-se em toxina e retorna ao estômago, irritando sua parede. Já os espasmos gástricos são uma purificação abrupta que se manifesta quando o *yakudoku* acumulado no fundo do estômago atinge um determinado volume. O tratamento médico, nesses casos, utiliza agentes paralisantes para aliviar a dor intensa, o que proporciona um alívio temporário, mas que facilmente se torna um vício.
+
+Quanto à gastroptose, é evidente que também esta é uma condição criada pelos tratamentos médicos. Ao se ingerir alimentos de fácil digestão e tomar remédios digestivos, o estômago fica sem função a exercer. Em consequência, ele enfraquece, entra em estado de sonolência e, naturalmente, relaxa e se desloca para baixo. Curar esta doença é, portanto, muito simples: basta suspender por completo o uso de medicamentos e adotar uma alimentação normal, da maneira usual.
+
+A este respeito, cumpre ressaltar que a recomendação de mastigar bem os alimentos é um equívoco colossal. Quanto mais se mastiga, mais o estômago se enfraquece. O ideal, na verdade, é mastigar apenas parcialmente.
+
+Vejamos agora a úlcera gástrica. Sua causa é o uso contínuo de medicamentos gástricos. Tais remédios contêm, invariavelmente, bicarbonato de sódio como agente digestivo. Essa substância, ao mesmo tempo que amacia os alimentos, torna a parede estomacal flácida e esponjosa. Isso pode levar a duas situações: ou surgem orifícios ínfimos na mucosa, provocando uma infiltração contínua de sangue, ou o contato com alimentos sólidos gera fissuras que resultam em hemorragia.
+
+O sangramento também se manifesta de duas formas: ou o sangue se acumula gradualmente no fundo do estômago, formando grânulos escuros que são expelidos com as fezes, ou é expelido em forma líquida através do vômito. O vômito apresenta um líquido de coloração análoga à borra de café, que é o sangue envelhecido, no qual se observam pequenos pontos de sangue. Há casos em que a pessoa chega a vomitar, diariamente, um volume surpreendente, capaz de encher uma bacia. Ainda assim, é uma condição de recuperação relativamente fácil. O sangue vivo que surge durante o processo indica que se trata de sangue novo; embora cause um certo enfraquecimento, não é motivo para grande preocupação.
+
+Essa enfermidade também pode ser curada de forma definitiva. Para isso, é preciso suspender o uso de medicamentos, adotar uma dieta líquida enquanto houver sangramento e, à medida que este diminui, transitar para uma alimentação pastosa e, finalmente, para a comida normal.
+
+Um ponto de atenção crucial: no caso das úlceras, o tratamento com dieta líquida, repouso e agentes hemostáticos provoca a formação de um coágulo que pode ser facilmente confundido com um tumor cancerígeno. As pessoas que chegam a esse estado têm a região do estômago repleta de *yakudoku*, que se manifesta como sangue turvo, pus e outras secreções, as quais retornam constantemente ao estômago, causando vômitos. Naturalmente, o volume do estômago diminui, resultando em perda de apetite, e a maioria acaba por definhar e falecer.
+
+No caso do câncer, pessoas que consomem carne em grande quantidade somam as toxinas da carne ao quadro, o que resulta em um prognóstico desfavorável. É por essa razão que o câncer de estômago é mais frequente entre os povos que têm uma dieta carnívora. Para curá-lo, é necessário abandonar o consumo de carne e adotar uma alimentação predominantemente vegetariana.
+
+Gostaria de tecer uma consideração sobre a má digestão e a sensação de vômito. Refiro-me à chamada Estenose Pilórica. O piloro é a passagem através da qual o alimento digerido no estômago desce para o intestino. Quando o *yakudoku* se solidifica ao redor dessa passagem, ela se contrai e se estreita, dificultando a passagem do alimento e provocando um refluxo. Naturalmente, esta condição também se cura por si só com a suspensão dos medicamentos.
+
+Por fim, tratarei das doenças cardíacas, cuja causa é extremamente simples. Ocorrem devido ao acúmulo de toxinas nas proximidades do coração. Essa massa de toxinas exerce uma opressão sobre o órgão, causando pulso irregular e palpitações, e, ao comprimir também os pulmões, provoca angústia respiratória. Esta é a descrição da valvulopatia comum.
+
+Sua forma mais grave é a angina pectoris. Neste caso, as toxinas se acumulam ao redor de todo o coração e se contraem, solidificando-se e exercendo uma forte pressão sobre o órgão. Isso gera uma dor excruciante e uma dificuldade respiratória extrema, podendo levar a risco de vida. Mesmo estas condições podem ser curadas com relativa facilidade mediante a purificação do espírito.
+
+O que descrevi acima é a angina comum. Existe, contudo, uma condição semelhante, mas de natureza distinta, chamada neurastenia cardíaca. Ela se manifesta de forma súbita, com uma dor tão intensa que a pessoa acredita estar à beira da morte, mas que desaparece por completo em questão de minutos. A causa, neste caso, é a possessão pelo espírito de alguém que faleceu de uma doença cardíaca. Deixarei, porém, a explanação sobre este fenômeno para o capítulo dedicado às doenças de origem espiritual.
+
+---
+
+# O Caráter Anticientífico da Medicina
+
+**Categoria:** i | **Ano:** 昭和11(1936)年5月29日 | **Fonte:** Kenko
+**Título Original:** 医学は非科学的なり | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-29
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
+
+## O Caráter Anticientífico da Medicina
+
+A alegação de que a medicina ocidental é científica é, na verdade, um equívoco. Embora seja inegavelmente mecânica, carece de cientificidade. Isso se deve ao fato de que seus métodos de diagnóstico não se baseiam em princípios sólidos e imutáveis.
+
+Como prova disso, qualquer pessoa pode constatar o fato de que, ao se consultar com cinco médicos, receberá cinco diagnósticos distintos. Se existisse um método de diagnóstico verdadeiramente científico e preciso, todos os médicos, sem exceção, chegariam à mesma conclusão. Esse simples fato já seria suficiente para corroborar a validade da minha tese. Todavia, avancemos um passo para desvelar a sua verdadeira face.
+
+Afirma-se que a medicina ocidental progrediu; na realidade, porém, não apenas ela não avançou em seu cerne, como talvez seja mais exato dizer que regrediu, estagnando em uma senda equivocada. Afinal, a medicina é a ciência que se propõe a curar enfermidades, mas é incapaz de fazê-lo. O que ocorre, de fato, é um estelionato que ludibria a sociedade, fazendo-a crer que a cura é possível. É verdade que os equipamentos médicos se tornaram notavelmente sofisticados, os tratamentos se diversificaram de modo complexo e o número de medicamentos aumentou. Contudo, nada disso representa um progresso da medicina em si; trata-se meramente da sofisticação dos métodos terapêuticos. Sob outra perspectiva, é uma complexidade desnecessária.
+
+As pessoas se deixam iludir por essa aparência, nutrindo a falsa impressão de um grande avanço. Observemos a realidade: os fundamentos da patologia, da etiologia e da higiene permanecem inalterados há décadas. É inegável que houve a descoberta de novas espécies de germes e reconhecemos o mérito na redução de certas doenças infecciosas por meio da prevenção. No entanto, a medicina se mostra cega para o fato de que, ao prevenir um caso de doença contagiosa, acaba por fomentar o aumento de dez outros tipos de enfermidades.
+
+Ademais, a causa de um simples resfriado e a verdadeira natureza da febre permanecem um mistério. A razão pela qual as doenças surgem no ser humano e os motivos pelos quais não se curam são questões totalmente obscuras para a ciência médica. Como consequência, deparamo-nos com a deterioração progressiva da saúde da população, um fato que gera grande apreensão, mas diante do qual a medicina se encontra impotente. Essa é a conjuntura atual.
+
+A patologia, da mesma forma, carece de qualquer determinação científica. O método fundamental para o tratamento de uma doença deveria ser o diagnóstico, a investigação de sua origem. A febre, por exemplo, surge como um processo natural para dissolver as toxinas acumuladas em uma parte específica do corpo. Portanto, se tratássemos unicamente a origem dessa febre, a cura se estenderia rapidamente a todo o organismo. A medicina atual, contudo, é incapaz de identificar essa origem. Nós, que lidamos constantemente com pacientes oriundos de tratamentos médicos, sabemos que os seus diagnósticos são repletos de omissões e imprecisões, sendo que, em pelo menos metade dos casos, a causa da doença é classificada como "desconhecida" ou simplesmente diagnosticada de forma equivocada.
+
+A esse respeito, certa vez ouvi uma história elucidativa. Um estudante de medicina, ao observar as autópsias, surpreendeu-se com a enorme discrepância entre os diagnósticos dados em vida e os achados post-mortem. A taxa de erro beirava os noventa por cento. Intrigado, ele questionou seu professor, que lhe respondeu: "Ora, meu caro, estamos observando o corpo humano apenas pelo lado de fora. É natural que haja divergências." Tal relato demonstra o quão arbitrária é essa prática. Quando se trata de algo que concerne à vida humana, essa é uma realidade simplesmente inacreditável.
+
+Analisemos, em seguida, a patologia e a etiologia, áreas nas quais não se vislumbra qualquer vestígio de avanço. A patologia deveria se dedicar a elucidar a razão da febre, da dor, dos tumores e de como tais fenômenos se manifestam e se interligam. A etiologia, por sua vez, deveria se ocupar da descoberta da raiz que antecede e constitui o estado patológico. No entanto, a medicina sequer arranhou a superfície da investigação dessas causas primordiais. Consequentemente, qualquer explicação que ofereça sobre a origem das doenças não passa de uma interpretação forçada, desprovida de qualquer fundamento científico.
+
+Para a medicina, a resposta para a patologia, a etiologia e todas as causas de doenças é espantosamente simplista: resume-se a culpar os germes. Por essa razão, quando se trata de enfermidades não contagiosas, como a loucura, a epilepsia ou o derrame, a medicina se vê em absoluta dificuldade para apresentar uma explicação plausível. As raras tentativas de fazê-lo são de uma inconsistência tão risível que beiram o absurdo.
+
+Como exposto, visto que a patologia e a etiologia carecem de qualquer fundamento científico sólido, o diagnóstico médico nada mais é do que uma conjectura do profissional no momento da consulta. A precisão do diagnóstico depende, portanto, da capacidade de dedução do médico. Poderíamos traçar um paralelo com um adivinho talentoso, cujas previsões são relativamente acertadas, ou com um especulador do mercado financeiro, que infere as futuras altas e baixas. Essa é a verdadeira razão pela qual os diagnósticos variam tanto de um médico para outro. E é por isso que reiteramos: a medicina ocidental, embora mecânica, não é científica.
+
+---
+
+# O Veredito sobre a Medicina Moderna
+
+**Categoria:** i | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
+**Título Original:** 医学とは何ぞや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核問題ト其解決策
+
+## O Veredito sobre a Medicina Moderna
+
+A medicina, indubitavelmente, tem por desígnio curar todas as enfermidades, promover a saúde do povo e, por conseguinte, contribuir para o progresso da nação. É precisamente por essa razão que ela goza de um tratamento privilegiado por parte do governo, sendo considerada um dos mais cruciais setores do Estado. Ademais, tendo em vista que a ela cabe a chave para solucionar a premente questão dos recursos humanos, sua missão assume uma importância que transcende qualquer debate.
+
+Até o presente momento, vali-me da teoria e da comprovação prática para expor as inúmeras falácias da medicina ocidental. Contudo, subsiste uma questão que não pode ser negligenciada: refiro-me, como já mencionado, à saúde dos próprios médicos e de seus familiares. Pondero que, se a medicina moderna fosse genuinamente avançada, tal progresso deveria manifestar-se em provas concretas e irrefutáveis. De que valem as mais elaboradas teorias acadêmicas, os anúncios de novas teses ou a exaltação de avanços em medicamentos, equipamentos e métodos, se, na prática, tudo isso se revela ineficaz? Perdem, pois, todo o seu significado.
+
+Sendo assim, para que o progresso da medicina seja verdadeiramente demonstrado, caberia aos seus defensores silenciar, por meio de evidências, os críticos como nós. Se tal feito se mostrar impossível, a expressão “progresso da medicina” não passará de uma frase oca. Diante dessa hipótese, sou da opinião de que a medicina ocidental deveria ser completamente dissolvida e reerguida sobre o alicerce dos fatos. Minhas palavras podem soar extremas, mas não as profiro levianamente. Há razões sólidas que as fundamentam, as quais passarei a dissecar sem reservas.
+
+A prova mais contundente do valor da medicina ocidental seria, como já exposto, a demonstração de que os médicos e seus familiares possuem um nível de saúde superior ao da população em geral. A realidade, entretanto, aponta para o contrário, chegando a suscitar a dúvida de que seu padrão de saúde seja, na verdade, inferior. Observa-se a curta longevidade de doutores em medicina e o alto índice de enfermidades entre os próprios médicos. Suas famílias frequentemente apresentam constituição frágil, e é notável a alta proporção de filhos de médicos acometidos pela tuberculose. É de se supor que os próprios médicos, visando proteger suas vidas, tomem as mais meticulosas precauções. Da mesma forma, espera-se que ofereçam aos seus familiares enfermos o melhor tratamento possível, desde o diagnóstico precoce, o que tornaria improvável qualquer agravo por demora na intervenção. Contudo, se os fatos são os que descrevi, a tão aclamada medicina preventiva revela-se igualmente desprovida de sentido, pois os próprios médicos demonstram, na prática, a dificuldade de prevenir as doenças.
+
+Portanto, a única maneira de a medicina ocidental comprovar seu progresso perante a sociedade seria elevando a saúde dos médicos e de suas famílias a um patamar muito acima do padrão geral. Diante de tal evidência, o público não teria alternativa senão reconhecer sua evolução. Todavia, tal feito é, muito provavelmente, inalcançável. Não obstante, autoridades e especialistas, a cada oportunidade, atribuem a culpa à falta de conhecimento sanitário da população e tentam impor à força procedimentos como as vacinações. O fato de uma parcela considerável do povo evitar tais medidas ou simplesmente ignorá-las é a prova cabal de que a nação não deposita confiança irrestrita na medicina ocidental. Este é um ponto que os responsáveis deveriam, antes de mais nada, ponderar.
+
+Por mais que se trate da massa popular, todos sabem o quão preciosa é a vida. Chegam ao conhecimento do público casos, ainda que raros, de morte súbita após uma vacina contra a febre tifoide, ou de estados de quase morte decorrentes da vacina contra a difteria. Ciente desses fatos, é natural que o povo nutra um certo receio. Acrescentam-se a isso os não poucos casos de vidas ceifadas por erros cirúrgicos. Certa vez, ouvi dizer que um renomado cirurgião, doutor em sua área, operava seus pacientes com grande zelo, mas jamais intervinha cirurgicamente em seus próprios parentes ou familiares. O motivo seria, certamente, o temor de cometer um erro fatal.
+
+Tudo isso ocorre porque a medicina ocidental não apresenta, de forma empírica, resultados eficazes. Ou, para ser mais preciso, porque ela é incapaz de apresentá-los. Como consequência, é inevitável que terapias como a moxabustão e outros tratamentos populares prosperem. De fato, é inegável a tendência atual: aqueles que valorizam a teoria recorrem à medicina, enquanto os que prezam os resultados práticos buscam as terapias populares.
+
+Não há, pois, necessidade de mais delongas. A menos que a medicina ocidental demonstre, com provas factuais, ser eficaz contra todas as doenças e isenta de quaisquer efeitos adversos, será impossível conquistar a confiança plena do povo. Se, porventura, tais resultados fossem alcançados, os próprios cidadãos passariam a solicitar as vacinas, e toda hesitação diante de uma cirurgia se dissiparia. Naturalmente, a arte da moxabustão, criada pelos antigos indianos, a medicina herbal chinesa, com mais de dois milênios, e as atuais terapias populares desapareceriam por completo. A realidade, contudo, é o exato oposto do que se apregoa, e ainda assim insiste-se em falar do progresso da medicina ocidental. Permanece, portanto, uma incongruência irresolúvel.
+
+Cumpre-me, ainda, abordar um último e importante ponto: os atuais movimentos pela saúde popular e as diretrizes de combate à tuberculose. Todas essas iniciativas baseiam-se exclusivamente nos métodos da medicina ocidental. Qual será, então, o seu resultado? Ouso afirmar que seus frutos não poderão superar o padrão de saúde já observado nas famílias dos próprios médicos. Afinal, se aqueles que têm o contato mais próximo com a medicina não conseguem ultrapassar o nível de saúde da população geral, a conclusão é lógica. Anseio, do fundo do coração, que os vultosos recursos do tesouro nacional e o imenso contingente humano alocados a essas causas não se revelem, ao fim, um esforço em vão.
+
+Em contrapartida, ao conhecer esta arte de cura, a saúde das famílias eleva-se a um patamar muito superior à média, e lares de saúde ideal são edificados. Isto é um fato. Em outras palavras, enquanto a medicina ocidental é de natureza externa, esta arte de cura é de natureza interna. Nesse sentido, exorto as autoridades a não dependerem unicamente da medicina ocidental, mas que investiguem e pesquisem todas as terapias populares, a fim de estabelecer uma política de saúde pública fundamentada no que de fato gera resultados práticos.
+
+---
+
+# A Verdade sobre as Doenças do Estômago
+
+**Categoria:** i | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 胃病 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
+
+## A Verdade sobre as Doenças do Estômago
+
+Embora a sequência lógica dos temas me levasse a discorrer sobre os pulmões, já os abordei com suficiente profundidade no início destes escritos. Portanto, passarei a tratar do estômago. Conforme venho expondo, a causa da maioria das enfermidades reside no veneno dos medicamentos, mas essa verdade se manifesta de forma especialmente notável nas doenças gástricas. Poder-se-ia afirmar, sem exagero, que são inteiramente fabricadas pelos remédios. Passarei, agora, a uma análise pormenorizada deste processo.
+
+É comum que, ocasionalmente, qualquer pessoa sofra de excessos alimentares, má digestão ou azia. Nessas circunstâncias, embora o mal-estar se resolvesse por si só com o tempo, o indivíduo, convicto de que basta tomar um remédio para tudo se resolver, recorre imediatamente a um medicamento gástrico. Contudo, o alívio momentâneo oculta uma grave verdade: essa única dose pode, futuramente, tornar-se a causa de um mal fatal. Em outras palavras, uma simples pílula lança a semente da enfermidade.
+
+Com efeito, passado algum tempo, o desconforto estomacal invariavelmente retorna, levando a pessoa a tomar o remédio novamente. Assim, o que era esporádico transforma-se em hábito. Essa dependência assemelha-se à de um narcótico e, ao final, o indivíduo já não consegue viver sem o medicamento. Nesse ponto, já não há retorno: ele se tornou um autêntico dependente de remédios para o estômago.
+
+Ao procurar um médico, recebe diagnósticos como dispepsia, gastrite, digestão deficiente ou hiperacidez. São-lhe impostas restrições alimentares e prescritos mais medicamentos, além de recomendações de repouso. Ele segue tudo à risca, mas, embora possa sentir uma melhora passageira, a cura jamais acontece; ao contrário, a tendência é de uma piora progressiva. Sintomas variados — dores, náuseas, queimação, perda de apetite — surgem em sucessão. Sem alternativa, a pessoa ingere mais um remédio e, sentindo um alívio temporário, convence-se de que ele é a solução, tornando-se ainda mais cativa de seu uso. Todavia, o medicamento que antes era eficaz gradualmente perde o seu efeito. Inicia-se, então, uma busca por outros remédios, cada qual proporcionando um breve alívio inicial, para logo em seguida falhar. O ciclo se repete, consolidando o quadro de um paciente intoxicado por medicamentos gástricos.
+
+Nesse ínterim, a situação se agrava a ponto de o indivíduo começar a vomitar sangue. Alarmado, procura novamente o médico e ouve o veredito: um quadro grave de úlcera gástrica. É advertido de que, sem cuidados rigorosos, as consequências serão irreversíveis, sendo-lhe imposta uma dieta exclusivamente líquida, repouso absoluto e, enfim, o tratamento dispensado a um doente em estado crítico.
+
+O que descrevi até aqui é o percurso trivial e, infelizmente, bastante comum nos dias de hoje. Refletindo sobre a origem de todo esse processo, percebemos que, no primeiro mal-estar, bastaria não ter feito nada para que a recuperação fosse natural e rápida. Contudo, o homem moderno, prisioneiro da superstição na medicina, teme que a doença não se cure sem remédios ou que se agrave se nada for feito. Esse receio o leva a recorrer apressadamente a médicos e a medicamentos de farmácia. Assim, é o próprio remédio que, de fato, constrói uma enfermidade gástrica severa. Não é uma história a um só tempo aterradora e insensata?
+
+A explicação para tal fenômeno é a seguinte. De modo geral, os remédios para o estômago são, evidentemente, digestivos, e estes têm como base o bicarbonato de sódio. Como é de conhecimento geral, o bicarbonato de sódio tem a propriedade de amaciar substâncias, sendo frequentemente utilizado no preparo de alimentos. Seguindo essa mesma lógica, o uso contínuo de digestivos não amacia apenas a comida, mas também, gradualmente, as próprias paredes do estômago. Quando isso ocorre, a ingestão de alimentos sólidos pode ferir a mucosa gástrica, que se encontra fragilizada, e dessa ferida vaza o sangue.
+
+Quando o sangue expelido é de um vermelho vivo, trata-se de uma hemorragia recente; quanto maior a lesão, mais abundante será o fluxo. Há casos, porém, em que o paciente expele um líquido semelhante à borra de café, por vezes com grânulos escuros. Isso nada mais é do que sangue antigo, que sofreu alteração de cor, e os grânulos são coágulos. É comum também que surjam coágulos de sangue escuro nas fezes; trata-se de sangue antigo que, após vazar da ferida, acumulou-se no fundo do estômago, coagulou e, posteriormente, foi dissolvido e expelido. Existem pacientes que chegam a vomitar enormes quantidades desse sangue antigo, mas, mesmo nesses quadros, consideramos a cura relativamente simples. A medicina, por sua vez, considera essa enfermidade de difícil tratamento, o que é natural, pois a sua causa é o próprio remédio. Para os médicos, a situação é, no mínimo, embaraçosa. Afinal, trata-se de uma doença que só pode ser curada com a abolição dos medicamentos. Portanto, ao suspender o uso de remédios e ser paciente, a cura é praticamente garantida. O método consiste em manter uma dieta líquida enquanto houver o menor sinal de sangue e, à medida que este desaparece, reintroduzir gradualmente a alimentação normal.
+
+A seguir, abordarei outras enfermidades relacionadas ao estômago.
+
+A mais comum é a chamada atonia gástrica, ou hiperacidez. Como o nome indica, é uma condição de excesso de ácido. Esse “ácido”, no entanto, é simplesmente o medicamento transformado em toxina. Dessa forma, ao abandonar os remédios, a cura ocorre naturalmente.
+
+Em seguida, temos a dor de estômago, cuja forma mais severa é a cãibra gástrica. Trata-se de uma dor lancinante, quase insuportável. O tratamento médico utiliza fármacos à base de morfina, que apenas suprimem o sofrimento por meio de uma paralisia temporária. O efeito passa em pouco tempo, e a crise retorna, o que facilmente se torna um quadro crônico. A causa dessa doença também é, evidentemente, o veneno dos medicamentos. Descreverei o seu mecanismo. Quando o remédio é ingerido, ele chega ao estômago e, como expliquei, não é processado, ficando ali estagnado. Como o ser humano dorme em decúbito dorsal, a substância atravessa o órgão e solidifica-se nas costas. Com o início da purificação, essa massa sólida se dissolve e retorna ao estômago, mas agora transformada em toxina. O órgão, então, tenta expulsá-la, e o estímulo para essa expulsão é a dor intensa. Portanto, quando a cãibra gástrica ocorre, se a pessoa simplesmente suportar a dor sem fazer nada, o sofrimento passará, e as toxinas serão eliminadas por meio de uma diarreia, promovendo a cura fundamental. É preciso compreender que as crises podem se repetir até que todo o veneno seja expelido; isso é inevitável. Contudo, cada nova crise será invariavelmente mais branda que a anterior, e a seguinte mais branda ainda, até a recuperação completa.
+
+Finalmente, abordarei o câncer de estômago. Existem dois tipos: o pseudo-câncer e o câncer verdadeiro. Na prática, o primeiro é imensamente mais frequente. O câncer verdadeiro possui uma natureza espiritual e sua abordagem pertence à esfera da fé, motivo pelo qual me concentrarei aqui apenas no pseudo-câncer. Sua origem, como não poderia deixar de ser, está no veneno dos medicamentos. O processo é aquele já descrito: a toxina se solidifica nas costas e, ao retornar ao estômago durante a purificação, o tratamento médico impede sua expulsão, fazendo com que ela se solidifique novamente. Essa nova massa endurecida é mais maligna que a anterior, pois é formada por toxinas já transformadas que se reaglutinam. Isso é o que constitui o pseudo-câncer. É preciso notar, entretanto, que isso depende da natureza do medicamento, não sendo uma consequência de todos eles. Essa condição, se não for interferida, também se cura com o tempo, embora o processo seja longo.
+
+---
+
+# A Verdadeira Natureza do Impasse
+
+**Categoria:** i | **Ano:** 昭和27(1952)年10月29日 | **Fonte:** Eikou
+**Título Original:** 行詰り | **Status:** Published | **Edição/Página:** 180号 | **Data ISO:** 1952-10-29
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Verdadeira Natureza do Impasse
+
+Não apenas as pessoas em geral, mas também nossos fiéis costumam empregar a palavra "impasse". Contudo, tal expressão nasce do desconhecimento da verdade subjacente às coisas. Na realidade, todo progresso se dá precisamente porque existem aparentes impasses. Portanto, o que se assemelha a um beco sem saída não o é de fato; é análogo à pausa necessária para recuperar o fôlego após uma corrida extenuante. Poderíamos dizer que se trata de um "nó" no curso dos acontecimentos.
+
+Basta observarmos o bambu para compreender este princípio. Ele cresce, forma um nó; cresce mais, e outro nó se forma. É esse processo que lhe confere robustez. Se o bambu apenas se estendesse continuamente, sem a formação de nós, jamais alcançaria a tenacidade que o caracteriza. Por conseguinte, quanto menos nós um bambu possui, mais frágil ele é; e, inversamente, quanto mais nós, mais forte se torna.
+
+Dessa forma, a própria Natureza nos ensina todas as coisas. Ao contemplá-la com atenção, deveríamos ser capazes de discernir a essência da maioria dos assuntos.
+
+O que descrevi até aqui refere-se aos impasses naturais. O preocupante, todavia, é a existência de um número considerável de pessoas que criam impasses artificiais. Isso ocorre por uma flagrante carência de sabedoria, que as impede de ter a previdência para antever as consequências de seus atos — de compreender que "se eu fizer isto, o resultado será aquele".
+
+São justamente essas pessoas que acabam por colidir contra um muro, ficando completamente paralisadas. Portanto, ao lerem estas palavras, guardem-nas no fundo de seus corações. Quando se depararem com um impasse, reflitam profundamente sobre este ensinamento, e a compreensão certamente virá. Por meio dessa reflexão, será possível identificar o ponto em que se desviaram do caminho correto.
+
+O ser humano deve, em seu dia a dia, esmerar-se em polir sua sabedoria. E, para tal finalidade, nada é mais fundamental do que a leitura assídua dos Escritos Divinos.
+
+---
+
+# Sobre a Qualificação Médica
+
+**Categoria:** i | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 医師の資格 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
+
+## Sobre a Qualificação Médica
+
+No que concerne à qualificação médica, desejo apontar uma falha de suma importância que não pode ser negligenciada. Atualmente, o mecanismo pelo qual as autoridades concedem a licença para o exercício da medicina baseia-se, como é de amplo conhecimento, em três pilares: formação acadêmica, experiência e publicações. Todavia, creio que tal sistema omite o ponto mais crucial. E que ponto seria este? Refiro-me ao exame da habilidade prática no tratamento das enfermidades. Ou seja, a perícia em promover a cura das mais diversas enfermidades, da forma mais rápida e eficaz possível, deveria constituir o requisito primordial. Por mais notáveis que sejam a formação, a experiência ou as publicações de um profissional, se ele carece da destreza necessária para, de fato, curar os doentes, pode-se dizer que não possui a qualificação essencial de um médico.
+
+Conforme tenho reiterado, a missão da medicina não é outra senão a de curar as doenças e promover a saúde. Naturalmente, a formação acadêmica, a experiência e as publicações são relevantes; contudo, constituem, em última análise, apenas as condições basilares para se atingir o objetivo da cura, e não o método curativo em si. Para ilustrar, imaginemos a construção de uma aeronave. Por mais que as explicações sobre sua mecânica e estrutura sejam academicamente impecáveis, de nada valerão se, na prática, ela não for capaz de alçar voo. O mesmo princípio se aplica aqui.
+
+Nesse sentido, sou de opinião que a qualificação médica deveria ser determinada pela excelência na habilidade de cura, conforme expus, relegando a formação acadêmica, a experiência e as publicações a uma condição secundária. Somente dessa forma a medicina curativa alcançará o verdadeiro progresso. Como método para tal, proponho que a obtenção do título de bacharel continue a depender dos três requisitos de formação, experiência e publicações. Contudo, para se alcançar o título de doutor, seria imprescindível submeter-se a um rigoroso exame de aptidão curativa, como o que descrevi, e a concessão do título estaria condicionada à comprovação de sua superioridade nessa arte.
+
+Adicionalmente, há outro ponto que gostaria de abordar. Refiro-me ao fato de os pacientes terem de arcar com os mesmos honorários, independentemente de obterem a cura ou não, o que me parece uma profunda incongruência. É desnecessário dizer que, ao se determinar o valor de um tratamento médico, existe uma vasta diferença entre a cura completa, a celeridade do processo, a cura parcial ou o agravamento do quadro. Como um cálculo preciso seria, na prática, deveras complexo, apresento a seguir, a título de sugestão, alguns métodos que poderiam ser adotados atualmente.
+
+1. Em caso de cura total, o valor cobrado corresponderia ao dobro dos honorários atuais; em caso de insucesso no tratamento, seria cobrada a metade.
+
+2. Na primeira consulta, seria estipulado um prazo para a cura completa. Se a recuperação ocorresse dentro desse período, o valor seria o dobro dos honorários vigentes; caso o prazo fosse ultrapassado, o valor seria reduzido à metade.
+
+3. No ato da primeira consulta, seria definido um valor fixo pelo tratamento completo, a ser pago integralmente. Se, contrariamente às expectativas, a cura não fosse alcançada, metade do montante seria restituída ao paciente. Este método, ademais, poderia ser ajustado conforme as condições financeiras do paciente, admitindo variações ou a criação de diferentes categorias de serviço.
+
+Ouvi dizer que os chineses, ao buscarem tratamento médico, costumam perguntar na primeira consulta: “Por quanto o senhor me cura desta doença?”. Embora alguns japoneses escarneçam de tal costume, considero-o, em certo sentido, bastante progressista e racional. Afinal, esse sistema não apenas se alinha à realidade econômica do paciente, como também permite que a competência do médico seja recompensada de forma justa.
+
+Se propostas como as que apresentei fossem implementadas, o efeito mais notável seria, sem dúvida, o avanço da medicina em direção à cura efetiva. É possível, contudo, que os médicos sintam que tais medidas atentam contra a sua dignidade.
+
+No entanto, essa é uma percepção meramente superficial. Pelo contrário, a implementação de minhas sugestões lhes conferiria uma dignidade substancial, ou seja, o respeito que brota do fundo do coração.
+
+Isto porque, para o paciente, o único anseio é ver-se livre da enfermidade o mais rápido possível, ter seus sofrimentos aplacados e sua saúde restabelecida. Não há nada além disso. Uma vez que esse objetivo seja alcançado, a gratidão e o respeito surgirão espontaneamente, e nenhuma outra consideração terá importância.
+
+Consta que os médicos do Período Tokugawa, aclamados como mestres em sua arte, conquistaram renome justamente por curarem doenças consideradas difíceis. Tais exemplos históricos corroboram a teoria que aqui defendo.
+
+---
+
+# Relatos sobre os Espíritos Vivos
+
+**Categoria:** i | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
+**Título Original:** 生霊 自観叢書第3編 | **Status:** Published | **Edição/Página:** P.54 | **Data ISO:** 1949-08-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 霊界叢談
+
+## Relatos sobre os Espíritos Vivos
+
+Certa vez, ocorreu o seguinte caso. Ao discorrer sobre o Mundo Espiritual com um estudante universitário, percebi que ele se mostrava bastante cético. Desafiador, ele me disse: “Se é assim, peço que verifique se há algum espírito obsessor ligado a mim”. Iniciei, então, o método de exame espiritual. Em pouco tempo, o jovem entrou em estado de transe e começou a falar com os trejeitos de uma moça.
+
+O espírito em questão era, na verdade, um espírito vivo: o de uma mulher que trabalhava em um estabelecimento de bebidas em Asakusa e que havia se apaixonado pelo estudante, o qual a visitava esporadicamente. O espírito suplicava: “Ele não me procura mais e eu não suporto de saudades. Por favor, diga a ele que venha me ver”. Confesso que, embora se tratasse de um espírito vivo, ter de transmitir o recado de uma mulher apaixonada ao seu amado foi uma tarefa verdadeiramente insólita.
+
+Ao despertar, o rapaz exibia uma expressão de absoluta perplexidade. “Como foi a experiência?”, perguntei-lhe. Ele respondeu: “Não percebi absolutamente nada, como se tivesse desmaiado”. Relatei-lhe, então, o que a mulher havia dito. Atônito e visivelmente embaraçado, ele coçou a cabeça, rendendo-se à evidência e, finalmente, confirmando a existência dos espíritos.
+
+Em outra ocasião, realizei um exame espiritual em uma jovem gueixa. Manifestou-se o espírito de seu patrocinador, a quem dirigi várias perguntas, elucidando a seguinte situação: tratava-se do espírito vivo do proprietário de uma distribuidora de açúcar. Ele explicou: “Eu tinha um encontro marcado com esta gueixa para hoje à noite, mas surgiu um compromisso inadiável. Peço que lhe transmita que não poderei vir e que nosso encontro será amanhã”. Tanto suas palavras quanto sua postura correspondiam inequivocamente às de um homem entre quarenta e cinquenta anos, não deixando margem para dúvidas.
+
+Quando relatei o ocorrido à gueixa, ela ficou assombrada. Tendo permanecido em transe, não se recordava de nada do que dissera, mas, ao ouvir meu relato, confirmou que, de fato, o compromisso havia sido agendado exatamente nos termos descritos pelo espírito.
+
+Houve também o caso de uma jovem de uns vinte anos, filha de boa família, que me procurou com a seguinte queixa: “Ultimamente, sinto-me acometida por uma melancolia, e a vida perdeu todo o sabor. Estou desesperada”. Respondi-lhe: “Para uma jovem como você, que aparenta boa saúde e possui uma beleza acima da média, tal sentimento é ilógico. Deve haver uma causa muito específica”. Após alguma insistência, ela finalmente revelou a origem de seu tormento.
+
+Um rapaz da vizinhança estava apaixonado por ela e, por meio de cartas e outras artimanhas, tentava obter sua aceitação. Contudo, ela o repelia e já o havia recusado inúmeras vezes. Em resposta, ele passou a rondar constantemente as imediações de sua casa, a ponto de a jovem sentir medo de sair à rua. Expliquei-lhe: “O espírito vivo desse homem está obsediando você”. Ao ouvir isso, ela compreendeu a situação com um suspiro de alívio. A partir daquele momento, começou a melhorar gradualmente, até sua completa recuperação. A cura adveio da serenidade que sentiu ao entender que não se tratava de uma enfermidade física ou mental.
+
+Se já é uma tarefa árdua fazer com que o homem moderno reconheça a existência dos espíritos dos mortos, convencê-lo sobre a realidade dos espíritos vivos é ainda mais difícil. Todavia, por se tratar de um fato inegável, peço que o leitor prossiga com esta mentalidade. Embora existam muitos outros exemplos, creio que os três casos narrados são suficientes para a compreensão do fenômeno.
+
+Em sua maioria, os casos de espíritos vivos estão atrelados a relações amorosas. A melancolia da jovem mencionada, por exemplo, era um reflexo direto do pensamento pessimista de seu pretendente, que, frustrado pela rejeição, projetava seus sentimentos sobre ela através de um laço espiritual. O espírito vivo, portanto, reflete o pensamento de sua origem. Em contrapartida, quando o amor é mútuo, os laços espirituais de ambos se entrelaçam, gerando uma sensação de imenso prazer. É esse deleite que, em grande parte, torna os vínculos amorosos tão difíceis de romper.
+
+Existe ainda uma distinção sensorial: a obsessão por um espírito de um morto costuma provocar calafrios, ao passo que a influência de um espírito vivo gera uma sensação de calor.
+
+Contudo, se os exemplos citados até aqui tratam de espíritos vivos relativamente inofensivos, existem outros verdadeiramente temíveis. É o que ocorre em triângulos amorosos, como a disputa entre a esposa legítima e a amante por um mesmo homem. Nesses casos, o ciúme de ambas se converte em espíritos vivos que entram em conflito. Geralmente, a esposa sai vitoriosa, pois é natural que a justiça prevaleça. A força do pensamento da esposa pode fazer com que a amante adoeça, venha a falecer ou até mesmo fuja com outro homem, resultando, invariavelmente, em sua separação do marido.
+
+Os espíritos vivos de seres humanos, porém, não se comparam, em periculosidade, ao espírito vivo do *kuda-gitsune* (管狐). Este é utilizado por praticantes de ascetismo, conhecidas como *izuna-tsukai* (飯綱使い), que são contratadas para realizar vinganças. O *kuda-gitsune* (管狐) é uma entidade do tamanho de um pequeno melão, coberta por uma pelagem branca, macia e densa, sendo extremamente leve e fofa. Seu espírito é obediente e executa qualquer ordem maligna que lhe seja dada. Diz-se que essa prática é mais comum na região de Kansai, onde há o dito popular de não se casar com membros de uma família de *izuna-tsukai* (飯綱使い), pois a menor ofensa pode desencadear uma terrível retaliação.
+
+Ademais, existem também os espíritos vivos de raposas. Seu corpo físico permanece em santuários ou nos campos, enquanto apenas seu espírito vivo se projeta para atuar no mundo.
+
+---
+
+# Um Exemplo das Vítimas da Medicina
+
+**Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 医療被害者の一例 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
+
+## Um Exemplo das Vítimas da Medicina
+
+Ao analisar o histórico deste paciente, torna-se cada vez mais evidente como a medicina cria doenças e agrava as existentes. De fato, o que era inicialmente uma única enfermidade desdobra-se em duas, depois em três, e assim sucessivamente, em um processo de contínua multiplicação.
+
+Ademais, o sofrimento decorrente desse quadro agrava-se progressivamente, até que o indivíduo se encontra em uma situação sem saída. A realidade dessa condição é por demais evidente. Contudo, mesmo diante de fatos tão contundentes, é de se duvidar que muitos despertem para a verdade.
+
+Há, ainda, outra questão de suma importância. Refere-se ao fato de que, quando a doença não se cura por tais meios, as pessoas, em seu desorientamento, buscam a fé. Todavia, a maioria das práticas religiosas se revela praticamente ineficaz. Consequentemente, elas acabam por concluir que, afinal, não há alternativa senão a medicina, e voltam a procurar os médicos.
+
+Se assim o é, reside também uma culpa nessas terapias pela fé. Tal culpa consiste em gerar a falsa esperança da cura onde ela não é possível, levando as pessoas a despenderem tempo, esforço e recursos financeiros em vão. Não obstante, tal situação é, de certa forma, inevitável, pois não existe, à exceção de nossa Fé, outra que detenha um verdadeiro poder de cura.
+
+---
+
+# Uma Análise Crítica da Medicina
+
+**Categoria:** i | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 医学とは何ぞや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
+
+## Uma Análise Crítica da Medicina
+
+A medicina, desnecessário dizer, possui a nobre finalidade de curar todas as enfermidades, aprimorar a saúde da população e, por conseguinte, contribuir para o progresso da nação. Precisamente por essa razão, ela é reconhecida como um dos setores mais vitais da estrutura estatal, recebendo tratamento privilegiado por parte do governo. Ademais, considerando que detém a chave para a solução do premente problema dos recursos humanos, a importância de sua missão se torna inconteste.
+
+Até o presente momento, dediquei-me a expor, por meio de teoria e comprovação, as inúmeras falácias da medicina ocidental. Contudo, há uma questão que não pode ser negligenciada, como já abordei anteriormente: o estado de saúde dos próprios médicos e de suas famílias. Penso que, se a medicina moderna tivesse de fato evoluído em seu sentido mais genuíno, tal progresso deveria ser atestado de forma inequívoca por seus resultados. De que valem as mais elaboradas teorias acadêmicas, os anúncios de novas descobertas ou a ufania com o avanço de medicamentos, equipamentos e métodos, se tudo isso não demonstra eficácia na prática? Sem resultados concretos, todo esse aparato é desprovido de qualquer significado.
+
+Portanto, para que o progresso da medicina seja verdadeiramente reconhecido, é imperativo que ela apresente provas concretas que silenciem os seus detratores, como eu. Se for incapaz de fazê-lo, a palavra "progresso" torna-se oca e sem valor. Nesse caso, não seria mais sensato desmantelar por completo a medicina ocidental e reerguê-la sobre um novo alicerce, fundamentado em fatos? Minha proposição pode soar extremista, mas não a faço de forma leviana. Há razões sólidas que a sustentam, as quais passarei a dissecar sem qualquer hesitação.
+
+Em primeiro lugar, a prova mais eloquente para atestar o valor da medicina ocidental seria demonstrar que os médicos e suas famílias possuem um padrão de saúde superior ao da população em geral. O que se observa na realidade, todavia, é uma situação que sugere justamente o contrário, com um padrão de saúde inferior. Evidenciam essa realidade a curta expectativa de vida de muitos doutores em medicina e a alta incidência de enfermidades entre os próprios médicos. Suas famílias, ademais, frequentemente apresentam constituição frágil, e é notável a alta proporção de filhos de médicos acometidos por tuberculose. É de se supor, naturalmente, que os médicos dediquem o máximo desvelo à proteção de sua própria vida e que, ao tratar de um familiar enfermo, adotem os melhores procedimentos com a máxima antecedência, impossibilitando qualquer demora no diagnóstico ou tratamento. No entanto, se os fatos são os que apresentei, a tão propagada medicina preventiva também se revela inócua. Afinal, os próprios médicos, em suas vidas, demonstram a dificuldade de se prevenir eficazmente contra as doenças.
+
+Sendo assim, para que a medicina ocidental pudesse demonstrar seu progresso à sociedade, seria necessário, antes de tudo, exibir um padrão de saúde em seus médicos e familiares muito superior ao da população. Contudo, tal feito é, muito provavelmente, inalcançável. Apesar disso, as autoridades e os especialistas insistem em atribuir os problemas à falta de conhecimento sanitário da população, ao mesmo tempo que buscam impor vacinações e outros métodos de forma coercitiva. O fato de uma parcela considerável do povo evitar tais procedimentos ou lhes ser indiferente é uma prova clara de que não depositam confiança plena na medicina ocidental. É um ponto que as autoridades deveriam ponderar com seriedade.
+
+Por mais simples que seja, o povo sabe o valor da vida. Diante de relatos de mortes súbitas após vacinas, como as de febre tifoide, ou de estados de quase morte decorrentes da vacina contra a difteria, é natural que a população nutra um certo temor. A isso se somam os não poucos casos de vidas perdidas por imperícia cirúrgica. Lembro-me de ter ouvido, há alguns anos, sobre um renomado cirurgião que, embora operasse seus pacientes com frequência, jamais submetia seus próprios familiares ou parentes a uma cirurgia, certamente por temer as consequências de um possível erro.
+
+Tudo isso ocorre porque a medicina ocidental não apresenta resultados práticos e comprováveis. Ou, para ser mais preciso, porque ela é incapaz de apresentá-los. Como consequência, é natural que terapias alternativas, como a moxabustão e outros tratamentos populares, floresçam. A tendência é inegável: aqueles que valorizam a teoria recorrem à medicina convencional; os que priorizam os resultados práticos buscam as terapias populares.
+
+Portanto, não há necessidade de mais palavras. Enquanto a medicina ocidental não demonstrar, com fatos, que possui eficácia garantida contra todas as doenças e que é isenta de efeitos adversos, será impossível conquistar a confiança irrestrita da população. Se, porventura, tais resultados fossem alcançados, o próprio povo passaria a solicitar as vacinas, e qualquer hesitação diante de uma cirurgia se dissiparia. Naturalmente, a moxabustão, legada pelos antigos indianos, a medicina tradicional chinesa, com seus mais de dois milênios, e todas as atuais terapias populares desapareceriam por completo. Contudo, a realidade é o exato oposto, e ainda assim se continua a discursar sobre o "progresso" da medicina. Nisso, persiste um paradoxo insolúvel.
+
+Devo ainda mencionar outro ponto de suma importância: as atuais campanhas de saúde pública e as diretrizes de combate à tuberculose. Visto que ambas se baseiam exclusivamente nos métodos da medicina ocidental, quais resultados podemos esperar? Creio que seus feitos não poderão superar o padrão de saúde observado nas famílias dos próprios médicos. Afinal, se nem mesmo os familiares, que possuem o contato mais próximo com os doutores, conseguem ultrapassar o nível de saúde da população geral, como poderiam tais campanhas obter sucesso? Rogo para que os vultosos recursos do tesouro nacional e o imenso capital humano investidos nessas iniciativas não malogrem.
+
+Em contrapartida, os ministrantes desta arte de curar e suas famílias, bem como os lares onde há praticantes, desfrutam, invariavelmente, de um nível de saúde muito superior ao da população. É como diz o adágio: um único fato vale mais que um milhão de teorias. E com o passar dos anos, essa saúde se fortalece cada vez mais, edificando lares verdadeiramente sadios. Isso demonstra que esta arte de curar constitui, de fato, a medicina ideal, capaz de promover o genuíno bem-estar da humanidade. Por essa razão, creio firmemente que a concretização de um mundo sem doenças não pertence a um futuro distante.
+
+---
+
+# Uma Tragicomédia
+
+**Categoria:** i | **Ano:** 昭和29(1954)年3月10日 | **Fonte:** Eikou
+**Título Original:** 一種の悲喜劇 | **Status:** Published | **Edição/Página:** 251号 | **Data ISO:** 1954-03-10
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## Uma Tragicomédia
+
+Ao analisarmos o progresso deste paciente com tuberculose, a medicina revela-se de uma infantilidade e inépcia tão flagrantes que, sem hesitação, poderíamos qualificá-la de totalmente ineficaz. O fato de este indivíduo ter se recuperado plenamente em apenas três meses de Johrei, a ponto de deixar o médico boquiaberto e sem palavras ao examiná-lo, justifica o título que escolhi, pois configura uma autêntica tragicomédia. Portanto, a simples leitura deste relato é suficiente para que se compreenda a superioridade do Johrei sobre a medicina.
+
+## A Cura da Tuberculose que Surpreendeu a Medicina
+
+Oikawa Haruji (39 anos)
+Igreja Nihonju – Província de Kanagawa
+
+Meishu-Sama, sou imensamente grato por Vossa constante proteção. Relato aqui, ainda que tardiamente, a sublime purificação de uma infiltração pulmonar que me acometeu, bem como os motivos que me conduziram à fé.
+
+Em retrospecto, tudo começou em 15 de setembro de 1950, quando, ao me candidatar a um emprego na base naval (antigo Arsenal da Marinha), uma radiografia revelou uma infiltração no pulmão esquerdo. O diagnóstico do posto de saúde municipal de Yokosuka foi ainda mais severo: a lesão era maligna, pois se estendia em forma de cauda até o hilo pulmonar, sendo-me recomendado o tratamento por pneumotórax. Embora relutante, acedi quando me garantiram que, após seis meses de tratamento, eu poderia voltar a trabalhar. Assim, em 11 de janeiro de 1951, iniciei o procedimento.
+
+No primeiro mês, as sessões de pneumotórax ocorriam duas vezes por semana, passando a uma vez por semana a partir do segundo mês. O repouso absoluto era a ordem. Contudo, após cerca de dois meses, meu apetite desapareceu, o corpo tornou-se letárgico, o rosto, pálido, e perdi completamente a vitalidade, chegando a pensar que meu fim estava próximo. Em março, meus filhos contraíram sarampo e coqueluche, o que me forçou a movimentar-me para cuidar deles. Surpreendentemente, ao me mover, o apetite retornou e a comida voltou a ter sabor. A partir de então, abandonei por conta própria o repouso médico e passei a auxiliar nas tarefas domésticas, focado em recuperar minha força física.
+
+Quando os aguardados seis meses se completaram, perguntei ao médico: "Doutor, já posso trabalhar?". Sua resposta foi um choque: "Senhor Oikawa, seu tratamento revelou uma aderência na parte inferior do pulmão que exigirá cirurgia". Indignado, questionei: "Mas, doutor, isso contraria nossa combinação. A promessa de que eu poderia trabalhar em seis meses era mentira?". Ele retrucou: "Não seja insensato. Atualmente, o pneumotórax é o melhor tratamento que existe para a tuberculose". Insisti: "E este tratamento eliminará por completo a infiltração?". A resposta foi desoladora: "O pneumotórax apenas comprime o foco da doença para evitar que os bacilos se espalhem". Diante disso, resignado e encarando a situação como uma provação divina, continuei o tratamento por apego à vida, trabalhando o pouco que podia.
+
+Por volta de outubro de 1952, um colega de trabalho, o senhor Ota, falou-me sobre este sagrado caminho. A princípio, seu relato pareceu-me bom demais para ser verdade. Ele, contudo, insistiu, emprestando-me exemplares do jornal Eikou e o livro "Tuberculose e a Terapia pela Fé", e convidando-me a visitar a igreja. Confesso, com certa vergonha, que na época temi que me pressionassem a ingressar na fé. Apesar do receio, em 11 de fevereiro de 1953, acompanhei-o à Sede de Zushi da Igreja Nihonju, onde recebi Johrei do dirigente, senhor Taguchi, e ouvi explanações sobre os ensinamentos. Ao ser esclarecido sobre a importância de cultuar os antepassados e sobre a verdadeira causa das doenças, comecei a sentir que poderia crer.
+
+Passei a receber Johrei do senhor Ota três vezes por semana e a frequentar a igreja semanalmente. Após três meses, realizei uma nova radiografia no Hospital Nacional. O médico que me atendeu perguntou: "O senhor fez este exame para uma admissão de emprego?". Respondi: "Fiz tratamento com pneumotórax por dois anos, mas o interrompi há três meses. Vim para verificar o resultado". O médico, perplexo, comentou: "Hum... está surpreendentemente melhor. Que tipo de tratamento o senhor fez?". "Estive recebendo Johrei na Sekaikyuseikyou", expliquei. Ele então me instruiu: "Por via das dúvidas, vá ao Hospital Kyosaikai e faça uma tomografia".
+
+Levei os exames ao médico que me tratava originalmente e lhe falei sobre o caminho da fé. Sua reação foi de puro espanto: "Melhorou tanto em apenas três meses? Por favor, não diga por aí que a Sekaikyuseikyou curou sua doença. Volte em outubro, caso pegue um resfriado". Retruquei com convicção: "Doutor, não me importa se é religião ou outra coisa qualquer; se algo cura minha doença, eu creio. Ademais, ao recebermos o Ohikari da Sekaikyuseikyou, é-nos concedido um poder maravilhoso, capaz de curar não apenas nossas próprias doenças, mas também as de outras pessoas". Diante disso, o médico apenas emitiu um "Ah..." e ficou a me fitar.
+
+Em 23 de maio de 1953, na Sede de Zushi da Igreja Nihonju, tive a honra de receber as aulas de ingresso ministradas pelo senhor Taguchi e, finalmente, ser outorgado com o Ohikari. Posteriormente, em 5 de julho do mesmo ano, recebi a permissão para servir em Hakone por um mês, dedicação que pude concluir com êxito.
+
+Por tudo isso, minha gratidão a Meishu-Sama é infinita. Peço perdão pela caligrafia rudimentar ao expressar meu agradecimento por esta imensa proteção.
+
+---
+
+# Os Paradoxos da Medicina Moderna
+
+**Categoria:** i | **Ano:** 昭和18(1943)年5月5日 | **Fonte:** 結核問題と其解決策（再版）
+**Título Original:** 医学とは何ぞや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-05-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核問題と其解決策（再版）
+
+## Os Paradoxos da Medicina Moderna
+
+A missão da medicina é, inegavelmente, curar todas as enfermidades e promover a saúde do povo, contribuindo, por conseguinte, para o progresso da nação. É precisamente por essa razão que ela recebe tratamento especial do governo, sendo considerada um dos mais importantes setores da estrutura estatal. Ademais, por deter a chave para a solução da questão dos recursos humanos — um problema de máxima urgência na atualidade —, a importância de sua missão é, a rigor, indiscutível.
+
+Até o momento, esforcei-me por apontar, com base tanto na teoria quanto na comprovação prática, a totalidade dos equívocos da medicina ocidental. Contudo, subsiste uma questão que não pode ser negligenciada, a qual já mencionei anteriormente: a condição de saúde dos próprios médicos e de seus familiares. Penso que, se a medicina moderna fosse, de fato, tão avançada como se alega, sua comprovação deveria manifestar-se de forma inequívoca. Por mais que se elaborem teorias acadêmicas, anunciem-se novas teses ou se enalteçam os progressos em medicamentos, equipamentos e métodos, tudo isso carece de significado se não demonstrar eficácia na prática.
+
+Portanto, se a medicina realmente progrediu, ela deveria apresentar ao mundo provas concretas de seu valor, silenciando assim críticos como nós. Caso seja incapaz de fazê-lo, a palavra ‘progresso’ torna-se vazia. Nessa hipótese, creio que a medicina ocidental deveria ser por um tempo dissolvida e reconstruída sobre novos alicerces teóricos, fundamentados na realidade dos fatos. Talvez essa afirmação pareça excessivamente radical, mas não a faço de modo leviano; há razões sólidas que a sustentam. Analisemo-las, pois, sem quaisquer reservas.
+
+O argumento mais poderoso para comprovar o valor da medicina ocidental seria, como já exposto, a demonstração de que os médicos e suas famílias possuem um padrão de saúde superior ao da população em geral. No entanto, a realidade que se observa hoje parece indicar o oposto, sugerindo um padrão de saúde até mesmo inferior. Isso se manifesta na curta longevidade de muitos doutores em medicina, no elevado índice de enfermidades entre os próprios médicos, na fragilidade de seus familiares e na alta proporção de filhos de médicos acometidos pela tuberculose. É natural supor que os médicos, para protegerem suas próprias vidas, tomem as mais meticulosas precauções. Da mesma forma, ao tratarem de seus familiares enfermos, certamente aplicariam os melhores procedimentos desde o diagnóstico precoce, não havendo margem para atrasos ou negligências. Contudo, diante dos fatos mencionados, a tão aclamada medicina preventiva revela-se igualmente desprovida de sentido, pois os próprios médicos demonstram na prática a dificuldade de prevenir as doenças.
+
+Assim, para que a medicina ocidental demonstrasse seu progresso à sociedade, seria primordial que a saúde dos médicos e de suas famílias se elevasse a um patamar muito superior ao da população, de modo que o público não tivesse alternativa senão reconhecer tal avanço. Todavia, isso é, muito provavelmente, impossível. Enquanto isso, as autoridades e os especialistas, sempre que se pronunciam, atribuem a culpa à falta de conhecimento sanitário da população e tentam impor à força métodos como as vacinas. O fato de uma parcela considerável do povo evitar ou ignorar tais imposições é a prova de que não depositam confiança irrestrita na medicina ocidental. Esse é um ponto que os responsáveis deveriam, antes de mais nada, levar em consideração.
+
+Ainda que se trate da massa popular, todos sabem o quão preciosa é a vida. Quando o público constata a saúde precária dos médicos e de seus familiares, e toma conhecimento de casos, ainda que raros, de morte súbita após uma vacina contra a febre tifoide, ou de estados de quase morte provocados por injeções contra a difteria, é natural que nutra um sentimento de apreensão. Acrescentam-se a isso os não poucos casos de vidas ceifadas por erros cirúrgicos. Anos atrás, ouvi dizer que um certo cirurgião de renome operava seus pacientes com grande disposição, mas jamais realizava cirurgias em seus próprios parentes e familiares. Tal atitude se devia, certamente, ao temor de cometer um erro.
+
+Todos esses fatos ocorrem porque a medicina ocidental não apresenta, na prática, resultados eficazes. Ou, para ser mais preciso, porque ela é incapaz de apresentá-los. Como consequência, é inevitável que terapias como a moxabustão e outros tratamentos populares prosperem. De fato, é inegável a tendência atual: aqueles que valorizam a teoria recorrem à medicina, enquanto os que prezam os resultados práticos buscam as terapias populares.
+
+Portanto, não há necessidade de maiores delongas. A medicina ocidental precisa demonstrar, por meio de fatos, que possui eficácia garantida contra todas as doenças e que é isenta de quaisquer efeitos adversos. Fora isso, será impossível conquistar a confiança plena da população. Se, porventura, tais resultados fossem alcançados, o próprio povo passaria a solicitar as vacinas e deixaria de hesitar diante das cirurgias. Naturalmente, a arte da moxabustão, criada pelos antigos indianos, a medicina chinesa, desenvolvida há mais de dois mil anos, e as atuais terapias populares desapareceriam por completo. Contudo, embora a realidade seja diametralmente oposta, continua-se a discursar sobre o ‘progresso’ da medicina ocidental, o que deixa no ar um profundo sentimento de incongruência.
+
+Cumpre-me, agora, abordar outro ponto de suma importância: as atuais campanhas de saúde popular e as políticas de combate à tuberculose. Visto que se baseiam exclusivamente nos métodos da medicina ocidental, quais resultados poderão alcançar? Creio que não conseguirão obter um desempenho superior ao padrão de saúde observado nas famílias dos próprios médicos. A lógica é simples: se os familiares, que têm o contato mais próximo com a medicina, não ultrapassam o nível de saúde da população geral, o mesmo ocorrerá com tais iniciativas. Nesse sentido, anseio sinceramente que o dispêndio de vultosas somas do tesouro nacional e a alocação de inúmeros recursos humanos para essas campanhas não se revelem, ao final, um esforço em vão.
+
+Em contrapartida, ao conhecer esta arte médica, a saúde das famílias eleva-se a um patamar muito superior ao da média, permitindo a criação de lares idealmente saudáveis. Isto é um fato. Em outras palavras, enquanto a medicina ocidental é de natureza exterior, esta arte médica é de natureza interior. Nesse sentido, o que solicito às autoridades é que não dependam exclusivamente da medicina ocidental. Peço que investiguem e pesquisem todas as terapias populares, a fim de estabelecerem uma política de saúde pública que se fundamente nos resultados práticos.
+
+---
+
+# Uma Proposta para a Ordem dos Médicos
+
+**Categoria:** i | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 医師会に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
+
+## Uma Proposta para a Ordem dos Médicos
+
+Neste ensejo, desejo expressar uma palavra a respeito da instituição conhecida como Ordem dos Médicos. Sustento que sua atual estrutura, restrita à medicina ocidental, deve ser reformada. É preciso que ela abrace todas as terapias populares, a fim de que, por meio do estudo e do aprimoramento mútuo de suas particularidades, possamos estabelecer como resultado uma medicina genuinamente japonesa.
+
+A fundação da Ordem dos Médicos, ao que parece, remonta a tempos longínquos. Certamente, sua estrutura foi uma consequência inevitável da Era Meiji, período em que o Japão importou de maneira indiscriminada a cultura materialista do Ocidente.
+
+Contudo, nos dias atuais, em que o Japão se vê compelido a assumir seu protagonismo no cenário mundial, nós, japoneses, recebemos a incumbência de criar uma cultura genuinamente nossa. Pode-se dizer que nos foi confiada a missão de, por meio dela, exercer uma liderança global. Nesse sentido, é evidente que o campo da medicina não constitui exceção, sendo este o momento oportuno para que também nele se estabeleça uma arte de curar autenticamente japonesa.
+
+Ademais, torna-se cada vez mais patente o fato de que os métodos materialistas da medicina ocidental são insuficientes para solucionar questões como a compleição física da nação, o problema demográfico e o da tuberculose.
+
+Por todas essas razões, reafirmo aqui a necessidade premente de se reformar a Ordem dos Médicos.
+
+---
+
+# A Superação da Ira
+
+**Categoria:** i | **Ano:** 昭和26(1951)年5月30日 | **Fonte:** Eikou
+**Título Original:** 怒りを克服する | **Status:** Published | **Edição/Página:** 106号 | **Data ISO:** 1951-05-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Superação da Ira
+
+Recentemente, recebi de Deus um ensinamento sobre como apaziguar a ira e desejo agora compartilhar este evangelho. Durante a existência terrena do ser humano, talvez não haja sofrimento maior do que o da fúria. Embora existam, em raras ocasiões, pessoas que não se encolerizam, e isso possa parecer uma ventura, trata-se, na verdade, de uma natureza anômala. De modo geral, podemos afirmar que quase não há quem não se ire. Desde a antiguidade, existem métodos que visam à superação da cólera, como o Toukyuujutsu (淘宮術) e outras disciplinas de aprimoramento espiritual, mas é difícil encontrar algum que seja verdadeiramente eficaz.
+
+Contudo, se o método se resume a simplesmente reprimir a ira, embora nos livremos do tormento que ela causa, surge em seu lugar a angústia da repressão, o que de nada adianta. Com efeito, quanto maior o sofrimento gerado pela ira, maior será o sofrimento para contê-la, e o saldo final é nulo. O método que Deus me revelou, todavia, permite que o sentimento de cólera se dissipe com serenidade. Não é algo magnífico? Passarei a descrevê-lo.
+
+O ponto localizado no centro do tronco humano, na boca do estômago, conhecido como plexo solar, é desde tempos remotos uma região de suma importância, chamada de víscera central. Costuma-se dizer que o umbigo é o centro do corpo, mas ele é, na realidade, o centro do abdômen, a sede da vontade, manifestada como coragem, audácia e poder de decisão. Expressões como “pessoa resoluta” ou “de grande firmeza interior” aludem a esse significado.
+
+Conforme sempre ensino, a região frontal rege o intelecto, como a sabedoria e a memória; a nuca governa as emoções, como a alegria, a ira, a tristeza e o prazer; e o abdômen, como mencionado, é o centro da vontade. Sendo o plexo solar a cristalização dessa síntese trina no corpo humano, é natural que, nos momentos de fúria, a energia mental se concentre precisamente nesse ponto. De fato, quem já não sentiu, ao encolerizar-se, uma espécie de nódulo ou massa se formando no plexo solar? A própria expressão japonesa para “enfurecer-se” alude a um bastão que se ergue no abdômen, cuja ponta atinge essa região.
+
+Seja como for, ao ministrar Johrei no plexo solar de uma pessoa tomada pela ira, em pouco tempo o nódulo se dissolve, como um laço que se desata. O peito se abre, e uma indescritível sensação de bem-estar toma conta do ser. Gradualmente, o coração se torna mais leve, a ponto de a pessoa sentir vergonha de ter se enraivecido. É exatamente o que se descreve como a ira “se desfazendo”.
+
+Ademais, o Johrei pode ser tanto autoaplicado como ministrado por outra pessoa, o que o torna um recurso esplêndido. Desnecessário dizer que a ira é a causa da quebra da paz, seja no âmbito individual, na harmonia familiar e nas relações interpessoais ou, em maior escala, na paz social e internacional. Portanto, este método deve ser considerado, em verdade, uma grandiosa salvação.
+
+---
+
+# Análise Comparativa com a Terapia de Shiatsu Convencional
+
+**Categoria:** i | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
+**Título Original:** 一、一般指圧療法との比較 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本医術講義録
+
+## Análise Comparativa com a Terapia de Shiatsu Convencional
+
+A terapia de shiatsu é uma criação relativamente recente. Diferentemente da medicina e da acupuntura, ainda não alcançou o status de tratamento universalmente difundido. Contudo, sua notória eficácia vem, dia após dia, conquistando a confiança do público. Esse fenômeno, por si só, já constitui um tema digno de aprofundado estudo.
+
+Todavia, em minha análise, observo que a terapia de shiatsu convencional, embora possua um considerável poder de cura, fundamenta-se na emissão da eletricidade do corpo humano — isto é, da força espiritual do próprio terapeuta — por meio da ponta de seus dedos. Em razão disso, para realizar o tratamento, o terapeuta necessita de grande esforço e concentração espiritual, o que lhe consome drasticamente a energia e provoca uma fadiga extrema. Ademais, as sessões geralmente demandam mais de uma hora. Esta é a razão pela qual não são raros os casos de terapeutas de shiatsu que têm uma vida breve.
+
+Em contrapartida, a terapia de shiatsu por mim idealizada tem como alicerce o Poder de Kannon (観音). Nela, o terapeuta oferece seu corpo como um mero instrumento, servindo apenas de canal para essa força. Portanto, ele não experimenta qualquer fadiga, e as sessões, que duram em média de dez a trinta minutos, alcançam uma eficácia muitas vezes superior à das demais modalidades de shiatsu.
+
+---
+
+# A Posição de um Renomado Médico sobre a Eletroterapia
+
+**Categoria:** i | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
+**Título Original:** 医師が電療に反対する | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1950-03-11
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
+
+## A Posição de um Renomado Médico sobre a Eletroterapia
+
+Certa vez, tive a oportunidade de aplicar Johrei na esposa de um grande industrial, cuja fisionomia se desfigurara por uma paralisia facial. Dias depois, ela me relatou o seguinte:
+
+“Mestre, embora eu confie plenamente no senhor, meus filhos insistiram para que eu consultasse um especialista. Assim, procurei um célebre doutor da Universidade de Medicina, de quem já era conhecida. Ao me examinar, ele perguntou que tipo de tratamento eu estava seguindo. Respondi: ‘Na verdade, estou recebendo uma terapia de natureza espiritual, que utiliza a imposição das mãos’. Para minha surpresa, ele afirmou: ‘Pois é uma ótima escolha. Essa doença costuma curar-se por si só em cerca de dois anos. Contudo, se recorrer à eletroterapia, o processo pode ser prejudicado, portanto, não a faça em hipótese alguma’. Eu então lhe contei: ‘Curiosamente, foi no seu próprio hospital que um de seus médicos subordinados quis aplicar-me a eletroterapia, e eu recusei’. O doutor, satisfeito, respondeu: ‘Fez muito bem’. Diante disso, sinto-me agora à vontade para prosseguir abertamente com o tratamento do senhor.”
+
+Achei a história bastante peculiar. Prosseguimos com o Johrei e, em aproximadamente dois meses, ela obteve a cura completa.
+
+O aspecto mais curioso desse relato reside na reputação do referido doutor. Tratava-se, na época, de uma sumidade em sua área, uma autoridade de tal prestígio que a própria senhora fora convidada para uma celebração em sua homenagem, por ele ter formado mais de cem outros doutores. Diante de sua fama, torna-se um paradoxo desconcertante que ele próprio negasse a eficácia da eletroterapia, enquanto seus próprios subordinados a recomendavam.
+
+Esse doutor era, de fato, uma figura bastante excêntrica, sobre quem circulavam muitas histórias, das quais ouvi várias por intermédio daquela senhora. Uma delas era a seguinte: em certa ocasião, ela o havia recomendado a uma família cujo filho estava doente. Ao examinar a criança, o doutor declarou sem rodeios: “Ah, este menino não tem mais salvação. Nenhum tratamento adiantará”. Aflita, a família implorou para que ele buscasse uma solução, ao que ele retrucou: “Quantos filhos a senhora tem? Cinco? Pois bem, então qual o problema em perder um?”. Dito isso, retirou-se apressadamente. Naturalmente, a família ficou indignada, recriminando a senhora por lhes ter indicado um médico tão descabido.
+
+Como este exemplo demonstra, ele possuía um caráter alheio às convenções mundanas. Todavia, era inegavelmente um homem que transcendia o ordinário, sendo considerado um dos maiores pilares da comunidade médica de seu tempo.
+
+---
+
+# Sobre os Alimentos Estranhos ao Organismo
+
+**Categoria:** i | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
+**Título Original:** 異食物に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
+
+## Sobre os Alimentos Estranhos ao Organismo
+
+Embora já tenha dissertado detalhadamente sobre os malefícios das toxinas medicamentosas e dos alimentos estranhos ao organismo, sinto a necessidade de aprofundar ainda mais o tema. A função digestiva do ser humano parece ser incapaz de processar por completo qualquer substância que não lhe tenha sido naturalmente concedida como alimento. Consequentemente, os fármacos — tanto os da medicina ocidental quanto os da oriental — não constituem alimentos e bebidas providos pela Natureza; são, em suma, substâncias não alimentícias, estranhas ao corpo. Da mesma forma, o hábito de ingerir, a título de remédio, cobras, lesmas, minhocas ou o sangue cru de animais, representa a introdução de corpos estranhos que inevitavelmente deixam toxinas residuais no organismo.
+
+Ademais, a recente recomendação de consumir ossos para suplementar o cálcio é, sem dúvida, um equívoco. A ordem natural para o consumo de qualquer peixe é alimentar-se de sua carne e descartar as espinhas, a cabeça e a cauda. A própria constituição da dentição humana, inadequada para triturar ossos, torna essa verdade evidente. Por essa razão, ossos e restos semelhantes foram naturalmente designados como alimento para os felinos. Urge, portanto, que a humanidade desperte o quanto antes para a falácia contida em teorias simplistas, como a de que se deve comer ossos para nutrir os ossos ou beber sangue para aumentar o volume sanguíneo.
+
+Para ilustrar o que foi exposto, apresentarei a seguir alguns exemplos concretos.
+
+Certa vez, ouvi o relato de uma senhora que, por muitos anos, atuou como enfermeira-chefe em um determinado hospital. Ela me contou o caso de um homem de pouco mais de quarenta anos que faleceu subitamente, sem causa aparente. Intrigados, os médicos submeteram o corpo à autópsia e descobriram, em seu trato intestinal, uma grande quantidade de pequenos grânulos escuros acumulados, sendo esta a causa do óbito. Tratava-se de pílulas laxativas que ele havia ingerido ao longo de muitos anos para combater a constipação. A acumulação dessas pílulas provavelmente resultou em uma obstrução intestinal ou na paralisia dos movimentos peristálticos. De qualquer modo, a causa da morte foi, inequivocamente, o medicamento.
+
+Houve um segundo caso, semelhante ao anterior, envolvendo um homem de aproximadamente cinquenta anos que também teve uma morte súbita. A diferença residia no fato de que ele não fazia uso de laxantes, mas sim de um pó digestivo, semelhante a um antiácido, que consumia continuamente. O resultado da autópsia revelou uma espessa camada desse pó acumulada no fundo de seu estômago e por todo o seu intestino.
+
+Recordo-me também de um paciente com uma enfermidade estomacal, tratado por um de meus discípulos. O homem apresentava diversos pequenos nódulos na parte inferior do estômago, que lhe causavam um mal-estar constante. Contudo, pouco depois de se submeter ao nosso método de tratamento, ele teve vários episódios de vômito. Com isso, os nódulos desapareceram, e o desconforto cessou por completo. Durante o vômito, ele expeliu uma substância viscosa com um odor característico de lesma. O paciente então se lembrou de que, mais de uma década antes, havia engolido algumas lesmas, as quais, evidentemente, permaneceram em seu organismo sem jamais terem sido digeridas.
+
+De modo análogo, uma cantora profissional, com o intuito de aprimorar sua voz, ingeriu duas lesmas. Anos mais tarde, um pequeno nódulo, semelhante a um tumor, surgiu no lado esquerdo de sua região gástrica e começou a crescer progressivamente. Ela foi hospitalizada e submetida a uma cirurgia. Para a surpresa de todos, os médicos encontraram uma das lesmas morta e endurecida, mas a outra estava viva e havia crescido enormemente dentro de seu abdômen.
+
+Diante de tais exemplos, torna-se um fato inquestionável que as substâncias estranhas, não designadas como alimento para o ser humano, são de difícil digestão e podem permanecer no organismo por anos, convertendo-se em focos de enfermidades. Portanto, conforme explanei anteriormente, o verdadeiro alimento humano é sempre dotado de sabor e, ao ser consumido com prazer, é integralmente digerido, o que permite a manutenção da saúde. Contudo, desconhecer esse princípio e forçar-se a ingerir alimentos de sabor ou odor desagradáveis, na crença de que são remédios, é um caminho que leva à própria origem da doença. Quando essa prática resulta não apenas em sofrimento, mas na perda da própria vida, tal insensatez revela-se verdadeiramente incomensurável.
+
+---
+
+# A Verdadeira Causa das Enfermidades Estomacais
+
+**Categoria:** i | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
+**Título Original:** 胃疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
+
+## A Verdadeira Causa das Enfermidades Estomacais
+
+Dentre as enfermidades que mais acometem o povo japonês, as de natureza gástrica ocupam lugar de destaque. Embora a maioria desses males se manifeste, a princípio, por sintomas brandos, a adoção de terapias e hábitos equivocados frequentemente conduz a um quadro crônico, que oscila entre períodos de melhora e agravo, culminando, não raro, em sua malignização. Por conseguinte, uma vez contraída essa enfermidade, a recuperação plena, mesmo nos casos mais leves, constitui uma rara exceção. O quadro inicial geralmente se limita a sintomas como indigestão, azia e dores estomacais, cujas causas passarei a elucidar detalhadamente.
+
+A indigestão, por sua vez, tem como causas fatores congênitos, como as toxinas naturais, e fatores adquiridos, como as toxinas urêmicas e medicamentosas, além de hábitos alimentares inadequados. Inicialmente, essas toxinas naturais ou urêmicas acumulam-se no exterior do estômago e, com o tempo, solidificam-se. Essa massa endurecida comprime o órgão, levando-o a se atrofiar, o que torna sua atividade mais lenta e resulta na indigestão.
+
+No que tange aos hábitos alimentares, o maior equívoco reside na recomendação da medicina moderna de se alimentar em horários e quantidades rigidamente regulados. Tal preceito é um erro crasso, pois o ser humano não é uma máquina, e os alimentos, por sua natureza, são distintos entre si. Vejamos o porquê: no intervalo entre as refeições, uma pessoa pode tanto se exercitar quanto permanecer em repouso, e é natural que isso gere diferenças no tempo de digestão. Ademais, os próprios alimentos, a depender de sua composição, demandam tempos digestivos distintos; alguns são processados em uma hora, enquanto outros podem exigir mais de três.
+
+Portanto, ao seguir uma rotina inflexível, haverá momentos em que a pessoa se alimentará com fome e outros em que o fará sem que o apetite tenha surgido. Se houver fome, o apetite será vigoroso e a digestão, excelente. Contudo, se a pessoa se força a comer apenas porque "chegou a hora", sem sentir real desejo, o resultado será invariavelmente negativo. Isso ocorre porque o alimento da refeição anterior, ainda estagnado no estômago, entra em processo de putrefação e fermentação, liberando toxinas que obstruem a digestão do novo alimento. Se, antes que este seja completamente digerido, a pessoa se obriga a comer novamente, a indigestão se agrava progressivamente.
+
+Dessa forma, o método correto de alimentação consiste em fazer uma nova refeição somente após a digestão completa da anterior. Para saber se a digestão se concluiu, dispomos de um guia de inerrônea precisão: o apetite. A fome é o sinal. Logo, o princípio fundamental é comer quando se tem fome e abster-se quando não se tem. O método alimentar verdadeiramente correto é aquele ditado pela natureza: comer o que se deseja, na quantidade desejada, no momento em que se sente fome. O desejo por um determinado alimento indica que o corpo, por alguma necessidade específica, o está requisitando; basta, então, atendê-lo. O mesmo se aplica à quantidade: deve-se comer o necessário, ou seja, até que a vontade seja saciada.
+
+É igualmente equivocado forçar-se a comer algo de que não se gosta sob o pretexto de ser medicinal ou nutritivo, assim como é prejudicial reprimir o desejo de comer algo de que se gosta. Interromper uma refeição por medo de "comer demais", mesmo sentindo fome, é um erro, tanto quanto forçar a ingestão de mais comida quando já se está satisfeito. Em suma, o processo deve ser, em todos os aspectos, natural.
+
+Contudo, compreende-se que, devido às circunstâncias da vida, nem todos podem seguir esse método à risca. Para aqueles com horários de refeição fixos, a solução é ajustar a quantidade de alimento ingerido. Afinal, quando se tem fome de verdade, qualquer alimento se torna delicioso, e o que é delicioso é plenamente nutritivo. A prática de uma alimentação com base nesses princípios eliminaria por completo a possibilidade de se sofrer de indigestão.
+
+Todavia, ao adotar um método alimentar antinatural e desenvolver os primeiros sintomas de um problema gástrico, a maioria das pessoas recorre a medicamentos. Sendo fármacos digestivos, a princípio eles auxiliam o processo e aliviam o desconforto, levando o indivíduo a crer que está curado. Mas não se trata de uma cura genuína. O problema ressurge, e o ciclo de medicação e recidiva se repete, até que a enfermidade se estabeleça de forma definitiva.
+
+Esses fármacos, em geral à base de bicarbonato de sódio, atuam amolecendo os alimentos. Ocorre que a função primordial do estômago é justamente realizar essa tarefa por meio de sua própria atividade motora. Ao delegar parte dessa função ao medicamento, a capacidade do estômago atrofia-se progressivamente. Essa atrofia gera mais indigestão, que, por sua vez, leva ao consumo de mais medicamentos, estabelecendo-se um círculo vicioso que debilita o órgão cada vez mais.
+
+Concomitantemente, a substância medicamentosa, uma vez absorvida, transforma-se em toxina medicamentosa. Essa toxina retorna à região do estômago, infiltra-se em sua parede externa e ali se condensa. Essa massa endurecida torna-se um novo fator de compressão, fazendo com que o estômago se torne ainda mais atrofiado, letárgico e flácido, quadro este que corresponde à gastroptose. Como reação natural, o organismo, na tentativa de dissolver essa toxina, envia um fluxo contínuo de bile em direção ao estômago, fenômeno que se manifesta como hiperacidez gástrica. A dor estomacal, por sua vez, é o resultado da purificação dessas toxinas solidificadas.
+
+Existem, no entanto, dois tipos de dor gástrica. Uma é causada pela compressão que a toxina solidificada exerce sobre o estômago; a outra, pelo processo de dissolução dessa mesma toxina. A primeira manifesta-se quando o estômago está cheio, pois a plenitude gástrica intensifica a pressão mútua entre o órgão e a massa tóxica. A segunda ocorre quando as toxinas dissolvidas se infiltram na parede estomacal e ali se acumulam. A dor surge quando o estômago se contrai por estar vazio. Geralmente, a primeira dor é mais intensa, enquanto a segunda é mais branda. A dor aguda da cãibra estomacal pertence ao primeiro tipo e ocorre quando a purificação atinge seu ápice, ou seja, quando a solidificação da toxina está máxima e a pressão sobre o órgão é extrema. Nesses casos, a medicina recorre a injeções de morfina para paralisar a sensibilidade e proporcionar alívio temporário, recomendando repouso e dieta líquida. Com isso, a ação purificadora enfraquece, o endurecimento da toxina diminui e o estômago, debilitado pela dieta líquida, oferece menos resistência, resultando em uma melhora passageira. Já a azia é um calor localizado, gerado pela dissolução das toxinas acumuladas na região gástrica.
+
+Avançando na análise, a úlcera gástrica é causada, na grande maioria dos casos, pelo uso contínuo de medicamentos digestivos, e mais raramente, pelo consumo excessivo de álcool. Assim como amolecem o alimento, tais substâncias também fragilizam a parede estomacal. Consequentemente, ao entrar em contato com partículas mais sólidas presentes na comida, a parede se rompe, resultando em sangramento e dor. Em muitos casos, o processo se inicia com uma minúscula fissura na parede do órgão, da qual o sangue emana de forma contínua. Esse sangue se acumula no fundo do estômago e, à medida que seu volume aumenta, pode dificultar a digestão. O sangue também pode infiltrar-se para fora da parede gástrica, acumulando-se em outras partes do corpo ou na porção superior do intestino. Quando esse acúmulo é volumoso, provoca uma distensão que vai da região do estômago à membrana peritoneal. Se a ação purificadora induzir ao vômito, uma quantidade surpreendente de sangue pode ser expelida. Nesse caso, o sangue apresenta uma coloração semelhante à borra de café e, sob exame atento, revela a presença de pequenos grânulos. Esse acúmulo de sangue pode também comprimir o piloro, causando a estenose pilórica, o que, por sua vez, intensifica os vômitos. Tais fatos demonstram quão verdadeiramente terríveis são os malefícios dos medicamentos digestivos.
+
+A úlcera atribuída ao consumo excessivo de álcool, na realidade, muitas vezes tem sua origem no hábito que muitos alcoólatras têm de ingerir medicamentos gástricos durante ou após a bebida. Para essas pessoas, a causa do problema é mais o remédio do que o álcool.
+
+Existe, ademais, uma condição extremamente rara em que a pessoa apresenta vômitos com sangue ou pequenas partículas de sangue no escarro, sem que haja dor, uso de medicamentos ou qualquer outra causa aparente. Trata-se de um quadro que confunde os médicos, mas que se aproxima dos sintomas de uma úlcera. A causa reside na formação de uma pequeníssima tumefação em uma parte do estômago, da qual o sangue emana. Mesmo que ocorra um episódio de vômito com sangue, se não houver interferência, a condição tende a se resolver espontaneamente.
+
+---
+
 # Medicina: Arte Benevolente ou Prática Deletéria?
 
 **Categoria:** i | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Eikou
 **Título Original:** 医は果して仁術か〔無題〕 | **Status:** Published | **Edição/Página:** 204号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Medicina: Arte Benevolente ou Prática Deletéria?
 
@@ -53,7 +546,7 @@ Meishu-Sama, muito, muito obrigada. Com minha mais profunda e reiterada gratidã
 
 **Categoria:** i | **Ano:** 昭和11(1936)年5月3日 | **Fonte:** 伊エ戦争と自由主義者の錯覚
 **Título Original:** 伊エ戦争と自由主義者の錯覚 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Guerra Ítalo-Etíope e a Ilusão dos Liberais
 
@@ -79,7 +572,7 @@ Sendo assim, o argumento que invoca o exemplo da Etiópia é irrelevante. O verd
 
 **Categoria:** i | **Ano:** 昭和26(1951)年10月31日 | **Fonte:** Eikou
 **Título Original:** インテリの不具者 | **Status:** Published | **Edição/Página:** 128号 | **Data ISO:** 1951-10-31
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Invalidez do Intelectual
 
@@ -97,7 +590,7 @@ Diante disso, a Igreja Messiânica pode ser compreendida como um grande hospital
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医療は一時的 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Caráter Transitório da Medicina
 
@@ -113,7 +606,7 @@ Ademais, cumpre ressaltar que esta criada havia concluído seu aprimoramento há
 
 **Categoria:** i | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Eikou
 **Título Original:** 医学との比較 | **Status:** Published | **Edição/Página:** 101号 | **Data ISO:** 1951-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Incontestável Superioridade do Johrei sobre a Prática Médica
 
@@ -156,7 +649,7 @@ Este é o meu primeiro relato.
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学の盲点 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Ponto Cego da Medicina
 
@@ -172,7 +665,7 @@ Nesse sentido, considerar avançada uma medicina tão pouco confiável e seguir 
 
 **Categoria:** i | **Ano:** 昭和27(1952)年4月16日 | **Fonte:** Eikou
 **Título Original:** 医療誤点の種々相 | **Status:** Published | **Edição/Página:** 152号 | **Data ISO:** 1952-04-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## As Múltiplas Facetas do Equívoco Médico
 
@@ -210,7 +703,7 @@ A prova cabal do que exponho é o tratamento de nossa Igreja: com um único mét
 
 **Categoria:** i | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 医学の神聖化 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## A Sacralização da Medicina
 
@@ -238,7 +731,7 @@ Sei, no entanto, que existe um número considerável de médicos experientes e c
 
 **Categoria:** i | **Ano:** 昭和26(1951)年7月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 医学の盲点と自然良能力 | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1951-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Cegueira da Medicina e o Poder Natural de Cura
 
@@ -272,7 +765,7 @@ Diante do exposto, compreendemos que o ser humano foi agraciado por Deus com um 
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 色眼鏡 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## As Lentes Obscuras da Ciência
 
@@ -286,7 +779,7 @@ Este caso, portanto, evidencia de maneira irrefutável a verdade de que os remé
 
 **Categoria:** i | **Ano:** - | **Fonte:** Kenko
 **Título Original:** 一切の災は浄化作用なり | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
 
 ## Todas as Calamidades são Ações Purificadoras
 
@@ -308,7 +801,7 @@ Conforme o exposto, a sociedade atual assemelha-se a um verdadeiro inferno, no q
 
 **Categoria:** i | **Ano:** 昭和28(1953)年1月7日 | **Fonte:** Eikou
 **Título Original:** 医学と浄霊との比較 | **Status:** Published | **Edição/Página:** 190号 | **Data ISO:** 1953-01-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A rápida cura de minha dor abdominal e a milagrosa recuperação de meu irmão
 
@@ -359,7 +852,7 @@ Muito obrigado, Meishu-Sama.
 
 **Categoria:** i | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 医家より観たる医学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## Uma Análise da Medicina pela Ótica de um Médico
 
@@ -488,7 +981,7 @@ Eu mesmo recebi uma educação médica moderna e, graças a ela, alcancei a posi
 
 **Categoria:** i | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
 **Título Original:** 医療と観念 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
 
 ## A Medicina e o Poder da Mente
 
@@ -510,7 +1003,7 @@ Conforme o exposto, se a medicina, que deveria gozar de absoluta vantagem tanto 
 
 **Categoria:** i | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 異食物に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Questão das Substâncias Estranhas ao Organismo
 
@@ -538,7 +1031,7 @@ Portanto, conforme afirmei anteriormente, todo alimento destinado ao ser humano 
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学を救う 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Equívoco da Medicina e o Milagre da Salvação
 
@@ -560,7 +1053,7 @@ Ademais, em nossos dias, são inúmeras as pessoas que partilham de semelhante d
 
 **Categoria:** i | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 胃疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Uma Análise sobre as Enfermidades Gástricas
 
@@ -590,7 +1083,7 @@ Já o pseudo-câncer é causado pela solidificação de pus e sangue tóxico. Em
 
 **Categoria:** i | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Eikou
 **Título Original:** 医学の正体 | **Status:** Published | **Edição/Página:** 197号 | **Data ISO:** 1953-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Erro da Medicina e a Salvação pela Fé
 
@@ -661,7 +1154,7 @@ Muito obrigado, Meishu-Sama.
 
 **Categoria:** i | **Ano:** 昭和25(1950)年12月27日 | **Fonte:** Eikou
 **Título Original:** 一種の人権蹂躪 | **Status:** Published | **Edição/Página:** 84号 | **Data ISO:** 1950-12-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Certa Forma de Atentado aos Direitos Humanos
 
@@ -709,7 +1202,7 @@ Para concluir, permitam-me apontar um disparate. Na fala do promotor, afirma-se 
 
 **Categoria:** i | **Ano:** 昭和27(1952)年2月6日 | **Fonte:** Eikou
 **Título Original:** 生命の継ぎ足し | **Status:** Published | **Edição/Página:** 142号 | **Data ISO:** 1952-02-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O prolongamento da vida
 
@@ -763,7 +1256,7 @@ Graças a essa imensa dádiva, fui salva. Meishu-Sama, renovo meus mais profundo
 
 **Categoria:** i | **Ano:** 昭和25(1950)年2月4日 | **Fonte:** Kyusei
 **Título Original:** 今流行のインフルエンザ | **Status:** Published | **Edição/Página:** 48号 | **Data ISO:** 1950-02-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Influenza em Voga e o Processo de Purificação
 
@@ -779,7 +1272,7 @@ Ademais, a presente gripe, por ser uma purificação superficial do corpo humano
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学の罪悪３ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Homicídio de Boa-Fé da Medicina
 
@@ -793,7 +1286,7 @@ Tal fato é uma consequência inevitável do estado primitivo em que a medicina 
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 偉大なる哉我浄霊 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Tragédia da Medicina e a Salvação Divina
 
@@ -817,7 +1310,7 @@ Pois, ao compreenderem-na em sua totalidade, serão os senhores os primeiros a s
 
 **Categoria:** i | **Ano:** 昭和24(1949)年10月22日 | **Fonte:** -
 **Título Original:** 一千万円の渦紋どちらが正しいか 朝日が読売の報道を覆す | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1949-10-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Esclarecimentos sobre a Cobertura da Imprensa
 
@@ -835,7 +1328,7 @@ O erro fundamental do jornalismo contemporâneo reside em sua tendência de anal
 
 **Categoria:** i | **Ano:** 昭和29(1954)年4月21日 | **Fonte:** Eikou
 **Título Original:** 医業者に警告する | **Status:** Published | **Edição/Página:** 257号 | **Data ISO:** 1954-04-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Advertência aos Profissionais da Área Médica
 
@@ -859,7 +1352,7 @@ Ademais, trata-se de uma questão crucial que envolve vidas humanas. Diante do n
 
 **Categoria:** i | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** Eikou
 **Título Original:** 医師の医学迷信 | **Status:** Published | **Edição/Página:** 117号 | **Data ISO:** 1951-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Superstição Médica dos Doutores
 
@@ -883,7 +1376,7 @@ Sendo assim, e falando sem rodeios, essa atitude revela que são os próprios do
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
 **Título Original:** 医学が私の説を採入れ始めた？ | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Medicina Começa a Reconhecer Nossos Ensinamentos
 
@@ -909,7 +1402,7 @@ Com efeito, o corpo possui um mecanismo intrínseco de combate: quando uma anoma
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医療に反抗しつつ安産 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Parto Seguro como Atestado da Cura Divina
 
@@ -925,7 +1418,7 @@ Este relato ilustra com clareza não apenas a impotência da medicina, mas tamb�
 
 **Categoria:** i | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
 **Título Original:** 医学が結核を作る | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核信仰療法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核信仰療法
 
 ## O Equívoco da Medicina na Criação da Tuberculose
 
@@ -978,7 +1471,7 @@ A descoberta da estreptomicina e de outros agentes quimioterápicos está promov
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学の無力と浄霊の偉力 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Impotência da Medicina e o Grandioso Poder do Johrei
 
@@ -998,7 +1491,7 @@ Contudo, um mundo imerso em tamanha cegueira e surdez espirituais não pode perd
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学で治らない頑固な皮膚病も此通り 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura da Pele e a Beleza Natural
 
@@ -1016,7 +1509,7 @@ Ademais, elas não apenas deixam de gastar com cosméticos, como também economi
 
 **Categoria:** i | **Ano:** 昭和26(1951)年10月31日 | **Fonte:** Eikou
 **Título Original:** 今の医学 | **Status:** Published | **Edição/Página:** 128号 | **Data ISO:** 1951-10-31
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Medicina de Nossos Dias
 
@@ -1038,7 +1531,7 @@ Por tudo o que foi dito, torna-se claro que a medicina atual ainda não progredi
 
 **Categoria:** i | **Ano:** 昭和11(1936)年6月17日 | **Fonte:** 一家心中と医療
 **Título Original:** 一家心中と医療 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-06-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Suicídio Familiar e a Medicina
 
@@ -1060,7 +1553,7 @@ Ah, como anseio que esta Arte Terapêutica se generalize e alcance a todos, o ma
 
 **Categoria:** i | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 医学に望む 自観叢書10編 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## Uma Reflexão sobre a Ciência Médica
 
@@ -1080,7 +1573,7 @@ Soubemos, ademais, que até hoje a medicina desconhece a causa do resfriado, a m
 
 **Categoria:** i | **Ano:** 昭和26(1951)年3月28日 | **Fonte:** Eikou
 **Título Original:** 医学と本療法との比較 | **Status:** Published | **Edição/Página:** 97号 | **Data ISO:** 1951-03-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Comparação entre a Medicina e a Terapia Messiânica
 
@@ -1120,7 +1613,7 @@ Aos homens de saber deste mundo, rogo que, antes de nos atacarem com críticas v
 
 **Categoria:** i | **Ano:** 昭和11(1936)年6月10日 | **Fonte:** 新日本医術書
 **Título Original:** 医学は退歩したか | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-06-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## Teria a Medicina Regredido?
 
@@ -1186,7 +1679,7 @@ Creio que, com o exposto, fica clara a resposta à pergunta do título: "Teria a
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学迷信から目醒めた例 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## Um Caso de Superação da Superstição Médica
 
@@ -1204,7 +1697,7 @@ Contudo, mesmo padecendo de tão grande sofrimento, a recusa do paciente em rece
 
 **Categoria:** i | **Ano:** 昭和24(1949)年11月19日 | **Fonte:** -
 **Título Original:** インチキの名を返上する | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1949-11-19
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Refutando o Estigma de Fraude
 
@@ -1224,7 +1717,7 @@ Pelo exposto, devolvemos aqui, de forma categórica, o estigma de fraude que nos
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
 **Título Original:** 医学の被害を救う浄霊 | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Johrei e o Alvorecer da Salvação
 
@@ -1262,7 +1755,7 @@ Muito obrigada, Meishu-Sama.
 
 **Categoria:** i | **Ano:** 昭和24(1949)年3月8日 | **Fonte:** -
 **Título Original:** いわゆる迷信邪教 病貧争絶無の理想 日本観音教の真髄 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1949-03-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Sobre as Ditas Superstições e Falsas Doutrinas
 
@@ -1280,7 +1773,7 @@ Trata-se, na verdade, de um expediente que explora as falhas da estrutura social
 
 **Categoria:** i | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 医学の解剖 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Anatomia dos Equívocos da Medicina
 
@@ -1314,7 +1807,7 @@ Pois bem, comecemos finalmente a análise detalhada dos equívocos da medicina.
 
 **Categoria:** i | **Ano:** - | **Fonte:** 一種の自殺未遂者
 **Título Original:** 一種の自殺未遂者 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Uma Modalidade de Tentativa de Suicídio
 
@@ -1334,7 +1827,7 @@ Contudo, por uma imensa graça, ao mesmo tempo em que me foi concedido o conheci
 
 **Categoria:** i | **Ano:** 昭和27(1952)年2月20日 | **Fonte:** Eikou
 **Título Original:** 医療〔学〕と浄霊 | **Status:** Published | **Edição/Página:** 144号 | **Data ISO:** 1952-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Disparidade entre a Medicina e o Johrei
 
@@ -1371,7 +1864,7 @@ Meishu-Sama, muito obrigado. Desde então, temos recebido inúmeras outras graç
 
 **Categoria:** i | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 胃癌 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Natureza Espiritual do Câncer de Estômago
 
@@ -1395,7 +1888,7 @@ Por meio desta arte médica, a cura é possível, desde que a debilidade do paci
 
 **Categoria:** i | **Ano:** 昭和26(1951)年7月25日 | **Fonte:** Eikou
 **Título Original:** 医者は果して無責任か | **Status:** Published | **Edição/Página:** 114号 | **Data ISO:** 1951-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Seriam os médicos verdadeiramente irresponsáveis?
 
@@ -1415,7 +1908,7 @@ Essa superstição em torno da medicina representa, em verdade, a maior de todas
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学の恐ろしさ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Terror da Medicina
 
@@ -1433,7 +1926,7 @@ A esse respeito, conforme um recente relato que recebi de um membro de nossa fil
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医学と結核 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Ilusão do Progresso na Terapia da Tuberculose
 
@@ -1451,7 +1944,7 @@ Ademais, some-se a esse quadro o fardo de despesas médicas exorbitantes e longo
 
 **Categoria:** i | **Ano:** 昭和25(1950)年2月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 医学の革命 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Revolução na Medicina
 
@@ -1475,7 +1968,7 @@ Nossa intenção não é, de modo algum, criticar a medicina por mero diletantis
 
 **Categoria:** i | **Ano:** 昭和27(1952)年12月3日 | **Fonte:** Eikou
 **Título Original:** 医療とは | **Status:** Published | **Edição/Página:** 185号 | **Data ISO:** 1952-12-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Verdadeira Natureza da Prática Médica
 
@@ -1501,7 +1994,7 @@ Ora, a realidade não nos mostra exatamente o contrário? Tal constatação nos 
 
 **Categoria:** i | **Ano:** 昭和26(1951)年11月7日 | **Fonte:** Eikou
 **Título Original:** 一種の罪悪 | **Status:** Published | **Edição/Página:** 129号 | **Data ISO:** 1951-11-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Categoria de Crime
 
@@ -1529,7 +2022,7 @@ Nesse contexto, a conduta dos jornalistas que impede a salvação de vidas que p
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 医療の恐怖 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Grave Equívoco da Medicina
 
@@ -1543,7 +2036,7 @@ Diante de tal panorama, que ninguém, até os dias de hoje, tenha logrado descob
 
 **Categoria:** i | **Ano:** 昭和27(1952)年12月26日 | **Fonte:** 医学迷信
 **Título Original:** 医学迷信 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952-12-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Superstição da Medicina Moderna
 
@@ -1571,7 +2064,7 @@ Como exposto, a medicina moderna constitui a maior superstição em escala globa
 
 **Categoria:** i | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 偉大なる哉神霊医術 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Incomparável Grandeza da Arte Médica Espiritual
 
@@ -1587,7 +2080,7 @@ Com isso, não pretendo afirmar minha própria grandeza. A verdade é que a gra�
 
 **Categoria:** i | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 医学不明の流行病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## Uma Epidemia de Causa Ignorada pela Medicina
 
@@ -1611,7 +2104,7 @@ Observa-se que esta condição é mais frequente entre as pessoas das classes m�
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
 **Título Original:** 医学の被害を救う浄霊 | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Johrei que Salva das Calamidades Médicas
 
@@ -1658,7 +2151,7 @@ Muito obrigada, Meishu-Sama.
 
 **Categoria:** i | **Ano:** 昭和11(1936)年6月14日 | **Fonte:** 医術なるものは一つもない
 **Título Original:** 医術なるものは一つもない | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-06-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Ausência da Genuína Arte de Curar
 
@@ -1680,7 +2173,7 @@ Embora exposto de forma sucinta, o que foi apresentado até aqui torna manifesta
 
 **Categoria:** i | **Ano:** 昭和27(1952)年8月27日 | **Fonte:** Eikou
 **Título Original:** 医学関係者に警告する | **Status:** Published | **Edição/Página:** 171号 | **Data ISO:** 1952-08-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Advertência à Comunidade Médica
 
@@ -1700,7 +2193,7 @@ Sei que, neste momento, minhas palavras podem parecer inacreditáveis para um ob
 
 **Categoria:** i | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 伊都能売神 | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Divindade Izunome e a Gênese do Budismo
 
@@ -1728,7 +2221,7 @@ Posteriormente, o Bodhisattva Kanjizai teve Seu nome alterado para Kanzeon Bosat
 
 **Categoria:** i | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Eikou
 **Título Original:** 今や亡びんとする日本画 | **Status:** Published | **Edição/Página:** 178号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Crepúsculo da Pintura Japonesa
 
@@ -1772,7 +2265,7 @@ Prolonguei-me em demasia, mas o que desejo é que, ao menos no campo da arte, ab
 
 **Categoria:** ri | **Ano:** 昭和24(1949)年10月8日 | **Fonte:** -
 **Título Original:** 理屈の迷信 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1949-10-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Superstição da Lógica
 
@@ -1792,7 +2285,7 @@ Em suma, essa atitude de se apegar à teoria e ignorar a realidade é, inequivoc
 
 **Categoria:** ri | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 龍神の憑依 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.62 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## A Possessão por um Espírito de Dragão
 
@@ -1810,7 +2303,7 @@ Por essa razão, sempre que me perguntam com quem aprendi a curar as doenças, m
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月30日 | **Fonte:** Eikou
 **Título Original:** 医学の無力 | **Status:** Published | **Edição/Página:** 228号 | **Data ISO:** 1953-09-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Ineficácia da Medicina
 
@@ -1842,7 +2335,7 @@ Em 25 de maio de 1949, orientada pelo Reverendo Nozoe, tive a permissão de rece
 
 **Categoria:** ri | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 理屈の迷信 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Superstição da Lógica
 
@@ -1866,7 +2359,7 @@ Portanto, a atitude de se apegar à lógica a ponto de ignorar a realidade é, i
 
 **Categoria:** ri | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 輪廻転生 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Natureza do Mundo Espiritual
 
@@ -1890,7 +2383,7 @@ Certa vez, li no livro de uma célebre personalidade do mundo religioso, ainda e
 
 **Categoria:** ri | **Ano:** 昭和27(1952)年2月13日 | **Fonte:** Eikou
 **Título Original:** 龍神はある？ | **Status:** Published | **Edição/Página:** 143号 | **Data ISO:** 1952-02-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre a Real Existência dos Deuses Dragão
 
@@ -1935,7 +2428,7 @@ A propósito, a jovem Maejima apresentou uma melhora súbita e, hoje, já conseg
 
 **Categoria:** ri | **Ano:** 昭和12(1937)年8月4日 | **Fonte:** 療術行為届・施術方法
 **Título Original:** 療術行為届・施術方法 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1937-08-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Distinção entre a Terapia Divina e a Massagem Convencional
 
@@ -1957,7 +2450,7 @@ Portanto, quando utilizada em conjunto com tratamentos médicos, esta terapia n�
 
 **Categoria:** ri | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** リョウマチス ・病患と医学の誤謬一三 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## O Reumatismo e a Terapêutica Divina
 
@@ -1973,7 +2466,7 @@ Em contrapartida, por meio de nossa terapêutica, quando o tratamento é iniciad
 
 **Categoria:** ri | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 狸霊と髑髏 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## O Espírito de Texugo e a Caveira Amaldiçoada
 
@@ -2053,7 +2546,7 @@ Dizem que, em virtude dessa experiência, a Sra. S, como se despertasse de um lo
 
 **Categoria:** ri | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** リョウマチス ・病患と医学の誤謬十三 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## O Reumatismo e o Equívoco da Medicina
 
@@ -2069,7 +2562,7 @@ Por meio de nosso método, entretanto, se o tratamento for iniciado na fase agud
 
 **Categoria:** ri | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** リョウマチス | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Cura do Reumatismo
 
@@ -2089,7 +2582,7 @@ Mesmo nos casos em que a articulação já se encontra enrijecida devido a trata
 
 **Categoria:** ri | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** リョウマチス | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Esclarecimentos sobre o Reumatismo
 
@@ -2107,7 +2600,7 @@ A medicina, por vezes, recorre a intervenções cirúrgicas. Todavia, para os pa
 
 **Categoria:** ri | **Ano:** 昭和26(1951)年3月21日 | **Fonte:** Eikou
 **Título Original:** 龍神と病気との関係 | **Status:** Published | **Edição/Página:** 96号 | **Data ISO:** 1951-03-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Relação entre Dragões Divinos e as Enfermidades
 
@@ -2142,7 +2635,7 @@ Desde então, ambos os meninos esbanjam saúde, brincando todos os dias com as o
 
 **Categoria:** ri | **Ano:** 昭和24(1949)年4月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 理論宗教と行動宗教 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Religião Teórica e a Religião da Ação
 
@@ -2166,7 +2659,7 @@ O segundo objetivo é de outra natureza. Consiste em um centro de terapia pela f
 
 **Categoria:** ri | **Ano:** 昭和9(1934)年5月1日 | **Fonte:** 応神堂開業ビラ
 **Título Original:** 稟告 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1934-05-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 応神堂開業ビラ
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 応神堂開業ビラ
 
 ## Anúncio de Abertura do Consultório Oujin-dou
 
@@ -2218,7 +2711,7 @@ Telefone: Kudan 613
 
 **Categoria:** a | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
 **Título Original:** 頭の病気 医学断片集（17） | **Status:** Published | **Edição/Página:** 167号 | **Data ISO:** 1952-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## As Enfermidades da Cabeça e seus Pontos Focais
 
@@ -2232,7 +2725,7 @@ O diagnóstico é simples: ao posicionar a palma da mão sobre os locais mencion
 
 **Categoria:** ri | **Ano:** 昭和16(1941)年 | **Fonte:** 療術行為届２
 **Título Original:** 療術行為届２ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1941
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Declaração de Prática Terapêutica
 
@@ -2295,7 +2788,7 @@ Nesse sentido, e em consonância com o propósito exposto, caso seja solicitado 
 
 **Categoria:** ri | **Ano:** 昭和11(1936)年5月17日 | **Fonte:** Kenko
 **Título Original:** 療病者の資格 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
 
 ## As Qualificações do Agente de Cura
 
@@ -2319,7 +2812,7 @@ Sendo assim, até que chegue o tempo em que tais condições se tornem viáveis,
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 嗚呼医療とは 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Falibilidade da Medicina e a Obra Divina
 
@@ -2337,7 +2830,7 @@ Todavia, um caso considerado tão intratável alcançou a cura completa por meio
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 嗚呼此奇蹟 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Superstição da Ciência Materialista
 
@@ -2353,7 +2846,7 @@ Não compreender a verdade, mesmo quando os fatos se apresentam de forma tão cl
 
 **Categoria:** ri | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
 **Título Original:** 理屈ならぬ理屈 | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Lógica Incontestável
 
@@ -2375,7 +2868,7 @@ Diante desse quadro, é forçoso concluir que deve haver um grande equívoco em 
 
 **Categoria:** ri | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 狸霊と髑髏 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## O Espírito do Tanuki e a Caveira
 
@@ -2469,7 +2962,7 @@ Dizem que, após essa experiência, a senhora S. despertou como de um sonho e pa
 
 **Categoria:** ri | **Ano:** 昭和26(1951)年8月29日 | **Fonte:** Eikou
 **Título Original:** 六韜三略の巻 | **Status:** Published | **Edição/Página:** 119号 | **Data ISO:** 1951-08-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Pergaminho do Rikutō Sanryaku
 
@@ -2489,7 +2982,7 @@ Todavia, ao analisarmos a peça sob uma perspectiva religiosa, descobrimos que e
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 嗚呼医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Falência da Medicina e a Salvação do Mundo
 
@@ -2507,7 +3000,7 @@ Reitero: aqueles que se tornaram cativos da superstição científica, mesmo ao 
 
 **Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 嗚呼結核医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Desalento Gerado pela Medicina Moderna
 
@@ -2518,533 +3011,6 @@ Ao analisar o desenrolar de seu caso, torna-se evidente quão rudimentar é a me
 Contudo, felizmente, recebi de Deus o poder da salvação. Por meio dele, salvo diariamente um grande número de pessoas desafortunadas, o que me traz algum consolo. Ainda assim, tenho consciência de que meu auxílio representa apenas uma gota no oceano diante da imensidão do problema. No momento, porém, nada mais me resta a fazer.
 
 Todavia, uma irracionalidade tão grande não pode ser tolerada por muito tempo. Portanto, é certo que chegará o dia em que Deus a corrigirá.
-
----
-
-# A Crise da Doença e da Pobreza: Um Testemunho Revelador
-
-**Categoria:** a | **Ano:** 昭和24(1949)年9月10日 | **Fonte:** -
-**Título Original:** 或質屋の話 | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1949-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Crise da Doença e da Pobreza: Um Testemunho Revelador
-
-Recentemente, ouvi um relato do proprietário de uma casa de penhores no bairro de Kanda, em Tóquio, que me pareceu bastante significativo. Segundo ele, seu ramo de negócio vive um período de notável prosperidade, com um número crescente de novos estabelecimentos sendo inaugurados. Ao questioná-lo sobre a causa desse fenômeno, a resposta foi estarrecedora: “por motivo de doença”. Ocorre que, nos dias de hoje, os custos dos tratamentos médicos são exorbitantes e, via de regra, prolongados. Como a vida é o bem mais precioso, as pessoas se veem forçadas a levantar fundos a qualquer custo para dar continuidade ao tratamento, uma situação verdadeiramente aflitiva. Uma segunda causa, apontou ele, reside no atraso do pagamento de salários por parte das empresas.
-
-Ao analisarmos esses dois fatores como questões sociais, percebemos que se trata de um problema de enorme gravidade, cuja solução se faz urgente. O atraso nos salários, embora relevante, não se compara à profundidade abissal da questão dos custos médicos. É nesse contexto que a magnitude do Johrei de nossa Igreja se revela. Na verdade, e falando sem rodeios, a medicina moderna carece do poder de curar doenças. Como afirmamos constantemente, seus métodos produzem apenas um alívio temporário do sofrimento, e o que é mais grave, as pessoas ignoram por completo que esses mesmos métodos paliativos são, na realidade, a causa do agravamento das enfermidades.
-
-Em virtude de não despertarem para esse equívoco fundamental, os seres humanos sofrem uma dupla aflição: são atormentados pelo sofrimento da doença e, como consequência, arrastados para o abismo da penúria. Que cenário desolador! O relato do penhorista, por si só, evidencia essa realidade de forma cristalina, sendo apenas a ponta visível de um imenso iceberg.
-
-Diante de tal realidade, a condição humana torna-se excessivamente lastimável se não surgir uma arte de cura capaz de proporcionar a recuperação completa em curto prazo e a um custo ínfimo. Contudo, a maioria das pessoas sequer ousa imaginar o surgimento de um método terapêutico tão semelhante a um sonho. Resignadas, acreditam não haver alternativa para a situação atual e, assim, continuam a perpetuar esse ciclo de tragédias.
-
-Todavia, o Johrei de nossa Igreja é precisamente a concretização desse sonho. Sendo assim, não nos é possível permanecer indiferentes a essa falha da sociedade atual. É por essa razão que avançamos com determinação para o cumprimento de nosso objetivo, por meio de nossas publicações, como o jornal Hikari, a revista Paraíso Terrestre e diversas outras obras.
-
-Causa estranheza o fato de que, recentemente, ao participar do programa de rádio “Assuntos do Lar”, o referido penhorista teve as partes mais cruciais de seu depoimento censuradas pela emissora. Seria leviano supor que os responsáveis pela transmissão tenham sido subornados pela classe médica; contudo, sem essa hipótese, a situação torna-se verdadeiramente incompreensível.
-
----
-
-# O Mundo dos Dragões Divinos
-
-**Categoria:** ri | **Ano:** 昭和24(1949)年8月25日 | **Fonte:** Reikai Sodan
-**Título Original:** 龍神界 自観叢書第3編 | **Status:** Published | **Edição/Página:** P.62 | **Data ISO:** 1949-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 霊界叢談
-
-## O Mundo dos Dragões Divinos
-
-A menção ao Mundo dos Dragões Divinos pode parecer, para o homem contemporâneo, nada mais que uma tese fantasiosa e desprovida de fundamento. Contudo, trata-se de uma realidade plenamente existente. A esse respeito, principiarei por relatar uma vivência pessoal, ocorrida nos primórdios de minha jornada no estudo da religião e do espírito. Certo dia, enquanto me encontrava em concentração espiritual, fui subitamente tomado por um estado insólito. Senti a boca dilatar-se desmedidamente, como se estivesse a rasgar-se até as orelhas; os olhos cintilavam, uma protuberância semelhante a chifres parecia emergir em ambos os lados da fronte, e de minha garganta brotava, espontaneamente, um urro pavoroso, como o de uma fera. Surpreso e já ciente do fenômeno da possessão espiritual, concluí que se tratava exatamente disso. Inicialmente, cogitei que o espírito pudesse ser o de um tigre, um leopardo ou um leão, mas logo descartei a hipótese, pois são animais que não possuem chifres. Consultei, então, um líder espiritual mais experiente na época, o qual me afirmou tratar-se, inequivocamente, do espírito de um Dragão Divino.
-
-Até aquele momento, eu mesmo nutria dúvidas sobre a existência real dos Dragões Divinos, mas suas palavras soaram-me verossímeis. Ademais, durante as manifestações divinas, eu sentia uma proeminência nos ossos da parte superior da coluna vertebral, o que também é uma característica dos dragões. Tais ocorrências se repetiram diversas vezes até que, em uma delas, uma entidade que não era eu começou a falar por meio de meu corpo. Era o referido espírito do dragão, que, agradecido por ter adquirido a capacidade de usar a linguagem humana através de sua incorporação em mim, narrou-me diversas histórias. Segundo seu relato: "Sou o guardião de Konohanasakuya-hime-no-mikoto (木之花咲爺姫命), que reside no Monte Fuji, e me chamo Kuzuryu Gongen (九頭龍権現), aquele que está entronizado no Santuário Kusushi". Anos mais tarde, ao escalar o Monte Fuji pela primeira vez, procurei pelo Santuário Kusushi no sopé da montanha, pois era onde imaginava que estivesse, mas não o encontrei. Finalmente, alcancei o cume. Lá, à direita da entrada, havia um grande santuário onde se lia "Santuário Kusushi". Naquele instante, compreendi que as palavras do Dragão Divino eram a mais pura verdade.
-
-Existem muitos outros mistérios relacionados a esse Dragão Divino, os quais pretendo revelar em outra obra oportunamente. Essa experiência foi o meu primeiro contato com a realidade de sua existência. Através de diversas reflexões, cheguei à compreensão de que, nos primórdios da formação deste planeta, quando o solo era ainda um mar de lodo frágil, foi uma miríade de Dragões Divinos que o solidificou e compactou. Após perderem seus corpos físicos, seus espíritos continuaram, e ainda continuam, a atuar em inúmeros âmbitos da sociedade humana, incluindo os fenômenos celestes. O que os cientistas denominam Era dos Mamutes corresponde a uma fase subsequente, na qual manadas de elefantes gigantescos teriam percorrido e adensado a superfície terrestre. Os fósseis de dinossauros, ocasionalmente descobertos nas profundezas da Manchúria, podem ser considerados vestígios dos últimos dragões.
-
-Além disso, os dragões apresentam uma notável diversidade de tipos. Mencionando os principais, temos: Dragão Celestial, Dragão Dourado, Dragão Prateado, Dragão Híbrido, Dragão Branco, Dragão Terrestre, Dragão da Montanha, Dragão do Mar, Dragão da Água, Dragão de Fogo, Dragão Vermelho, Dragão Amarelo, Dragão Azul, Dragão Negro e Dragão de Madeira. Segundo as lendas, o guardião de Kannon Bosatsu (観世音菩薩) é um Dragão Dourado, o que explicaria por que o famoso templo de Asakusa é chamado de Kinryuzan Senso-ji. O Dragão Branco também é conhecido como Benzaiten. Quanto ao Dragão Vermelho, é provável que corresponda à menção bíblica: "Satanás é o dragão vermelho". O Dragão Amarelo e o Dragão Azul são oriundos da China, enquanto o Dragão Negro reina como o soberano dos mares. O Dragão de Madeira, por sua vez, é aquele que se aloja nas árvores. Afinal, qual a necessidade da existência dos Dragões Divinos? Cada um deles possui responsabilidades específicas, que lhes são designadas pelas divindades regentes de suas respectivas áreas, e em função das quais mantêm suas atividades incessantes.
-
-Dentre suas atribuições, destacam-se os fenômenos celestes — como ventos, chuvas, raios e trovões —, que são regidos pelos respectivos Dragões Divinos, sob o comando dos Quatro Deuses da Purificação (祓戸四柱の神). Sua função primordial é, portanto, a purificação entre o Céu e a Terra. Ademais, desde vastos oceanos, lagos e rios até pequenas lagoas e poços, cada localidade é habitada e protegida por Dragões Divinos de portes correspondentes — grandes, médios ou pequenos. Consequentemente, como muitos sabem, quando se aterra uma lagoa, um pântano ou um poço, misteriosas calamidades costumam ocorrer em sequência.
-
-A natureza dos Dragões Divinos é sobremaneira irascível; ao terem sua morada aniquilada, eles se enraivecem profundamente. Isso ocorre porque buscam chamar a atenção dos seres humanos a fim de obter uma nova residência. Portanto, se desde o início lhes for oferecida uma morada substituta, ainda que pequena, e se o procedimento de transferência for realizado, tudo transcorrerá bem. Os Dragões Divinos não sobrevivem sem água; por isso, um pequeno lago ou mesmo uma vasilha de cerâmica com água pode ser suficiente. Originalmente, mesmo após se tornarem espíritos, o calor em seu ventre os faz sentir uma sede intensa.
-
-Conforme já exposto, a transformação de um ser humano em Dragão Divino após a morte ocorre devido a um forte apego. Tais espíritos, por meio de ascetismo no Mundo Espiritual, podem renascer novamente como humanos. É o caso de Sugawara no Michizane que, após sua morte, movido pelo apego à vingança contra Fujiwara no Tokihira e outros caluniadores que o atormentaram em vida, tornou-se um Dragão de Fogo. Por meio de raios, ele foi aniquilando seus algozes um a um, chegando ao ponto de fazer um raio cair sobre o Palácio Imperial de Shishinden (紫宸殿). A catástrofe ameaçava atingir até mesmo o Imperador, o que levou à sua súbita deificação. Esse é o Templo Tenmangu que conhecemos hoje. Desde então, a paz foi restaurada. Trata-se de um episódio célebre na história, diante do qual a ciência se mostra impotente. Outro relato, este da transição entre as eras Meiji e Taisho, envolve o túmulo de Taira no Masakado (平将門), localizado nos terrenos do Ministério das Finanças, no atual distrito de Kasumigaseki. Por desconhecimento de sua presença, calamidades inexplicáveis passaram a afligir os funcionários do ministério. Após investigações, concluiu-se que a causa poderia ser o espírito de Masakado. Realizou-se então uma grandiosa cerimônia em sua homenagem e, a partir daquele momento, a tranquilidade retornou. Este também foi um caso em que o espírito de Masakado, transformado em Dragão Divino, manifestou sua ira. E não apenas os Dragões Divinos, mas todos os espíritos anseiam imensamente por cerimônias e ofícios memoriais. Isso porque tais rituais atenuam seus apegos e elevam sua posição no Mundo Espiritual.
-
-Os Dragões Divinos possuem, em geral, a forma retratada em pinturas e esculturas, existindo variedades com e sem chifres. Os de hierarquia superior são de um gigantismo notável, com comprimentos que podem alcançar dezenas ou até centenas de quilômetros. Os célebres Oito Grandes Reis Dragões correspondem aos Yatari Otome (八人男女) mencionados no Kojiki, ou seja, cinco deuses e três deusas. Diz a lenda que o Buda Shakyamuni os selou no oceano, ordenando-lhes que aguardassem até um tempo determinado. Segundo minha análise, esse tempo se refere ao momento da transição do Mundo da Noite para o Mundo do Dia. Aliás, os Oito Grandes Reis Dragões já reencarnaram como seres humanos e estão, no presente, atuando para a construção do Mundo de Luz.
-
-Desde a antiguidade, diz-se que o ascetismo dos Dragões Divinos dura mil anos no mar, mil anos nas montanhas e mil anos nos vilarejos. Essa crença parece ter um fundamento considerável. Contudo, esse período pode ser abreviado por meio dos ofícios memoriais e das boas ações de pessoas relacionadas a eles. Quando o Dragão Divino conclui seu ascetismo, ele ascende aos céus. Nesse processo, convoca nuvens, provoca tempestades e forma os chamados tornados, que erguem as águas do mar ou de lagos a grandes alturas. Muitas pessoas já testemunharam esse fenômeno. A esse propósito, ouvi de um discípulo uma história fascinante. Certa vez, ele observava uma serpente — não um espírito, mas um animal de carne e osso — enroscada em um pinheiro. Enquanto olhava, a serpente subiu gradualmente até o topo da árvore e, de repente, desprendeu-se, elevando-se no ar. Diante de seus olhos, ela continuou a subir vertiginosamente, até desaparecer por completo. Considero este um relato de grande interesse por ser uma ocorrência no plano físico. Embora pareça um evento inverossímil, é também perfeitamente possível.
-
-É possível reconhecer um ser humano que é a reencarnação de um Dragão Divino por sua fisionomia. O tipo dragoniano apresenta maçãs do rosto salientes e testa quadrada. As veias nas têmporas são proeminentes e azuladas, e os olhos, frequentemente, são fundos. O maxilar também é anguloso. Como traço distintivo, sentem uma grande necessidade de beber água. Sua índole é altiva, detestam submeter-se a outrem e são dotados de grande ambição, razão pela qual muitos alcançam posições de destaque na sociedade. Ao se observar atentamente um indivíduo do tipo dragoniano, a sua essência de dragão se manifesta com clareza, tornando fácil a sua identificação por qualquer pessoa atenta.
-
----
-
-# A Real Existência dos Deuses-Dragão
-
-**Categoria:** ri | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
-**Título Original:** 龍神界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
-
-## A Real Existência dos Deuses-Dragão
-
-A menção a Deuses-Dragão pode parecer, aos olhos do homem contemporâneo, um postulado absurdo e fantasioso, fruto da imaginação dos povos antigos. Contudo, a verdade é que eles existem de forma inequívoca. Permitam-me, a esse respeito, iniciar com um relato de minha própria experiência.
-
-Em meus primeiros anos de estudo sobre religião e o espírito, durante um estado de concentração mental, fui acometido subitamente por uma condição extraordinária. Senti minha boca abrir-se desmesuradamente, como se rasgasse até as orelhas; meus olhos brilhavam com intensidade e, em minha testa, percebi a protuberância de chifres. De minha garganta, brotou espontaneamente um rugido aterrador, semelhante ao de uma fera selvagem. Fui tomado de surpresa, mas como já ouvira falar sobre possessão espiritual, compreendi imediatamente o que ocorria. Cogitei se o espírito seria de um tigre, um leopardo ou um leão, mas descartei a hipótese, pois são animais que não possuem chifres. Ao consultar um orientador mais experiente na época, ele me confirmou tratar-se, inequivocamente, do espírito de um Deus-Dragão. Até aquele momento, eu mesmo nutria dúvidas sobre sua existência, mas diante daquela explicação, tudo se tornou claro. A sensação de que os ossos da parte superior de minha coluna se projetavam, algo que também senti durante a possessão, é outra característica marcante dos dragões.
-
-Tais manifestações se repetiram por diversas vezes. Nessas ocasiões, uma entidade distinta de mim passou a se comunicar por meu intermédio. Era o espírito do referido Deus-Dragão, que se mostrava grato por, através da possessão, ter adquirido a capacidade de se expressar em linguagem humana. Ele me narrou diversas histórias, revelando sua identidade: "Sou o guardião de Konohanasakuyahime-no-mikoto, deidade que reside no Monte Fuji, e me chamo Kuzuryu Gongen (九頭龍権現), venerado no Santuário de Kusushi." Anos mais tarde, aventurei-me a escalar o Monte Fuji pela primeira vez. Até então, eu supunha que o santuário mencionado pelo Deus-Dragão se localizasse no sopé da montanha e, por mais que o procurasse, não o encontrei. Finalmente, cheguei ao topo. À direita da entrada do cume, havia um grande santuário onde se lia "Santuário Kusushi". Ali estava! Naquele instante, compreendi que as palavras do Deus-Dragão eram verídicas. Existem outros mistérios relacionados a esse Deus-Dragão, os quais pretendo revelar em futuras publicações. Foi por meio dessa experiência que obtive a primeira confirmação da existência dos Deuses-Dragão.
-
-Após ponderar sobre o assunto sob diversas perspectivas, concluí que, nos primórdios da formação terrestre, quando o solo era frágil como um mar de lodo, foram incontáveis legiões de Deuses-Dragão que o solidificaram. Mesmo após perderem seus corpos físicos, seus espíritos permanecem atuantes na astronomia e em todos os outros domínios da sociedade humana. A solidificação da Terra pelos Deuses-Dragão precedeu o que os cientistas denominam a era dos mamutes, período em que, provavelmente, manadas de elefantes gigantes também contribuíram para compactar o solo ao percorrê-lo. Os ossos de dinossauros, por vezes descobertos nas profundezas da Manchúria, pertencem, a meu ver, aos últimos espécimes de dragões.
-
-Existem, ademais, inúmeras variedades de dragões. Dentre as principais, podemos citar: Dragão Celestial, Dragão Dourado, Dragão Prateado, Dragão Híbrido, Dragão Branco, Dragão Terrestre, Dragão da Montanha, Dragão do Mar, Dragão da Água, Dragão do Fogo, Dragão Vermelho, Dragão Amarelo, Dragão Azul, Dragão Negro e Dragão da Madeira. Segundo a tradição, o guardião de Kannon (観音) é um Dragão Dourado, o que explicaria por que o famoso templo de Asakusa é chamado de Kinryuzan ("Montanha do Dragão Dourado"). O Dragão Branco é também conhecido como Benzaiten. O Dragão Vermelho, por sua vez, corresponde à citação bíblica: "Satanás é um dragão vermelho". Os Dragões Amarelo e Azul são de origem chinesa, e o Dragão Negro é o soberano dos mares. O Dragão da Madeira é aquele que se aloja em árvores. A crença popular de que abater grandes árvores atrai maldições tem fundamento: trata-se da fúria do Dragão da Madeira que ali habitava. Portanto, antes do corte, deve-se primeiro plantar nas proximidades uma árvore da mesma espécie ou semelhante, ainda que pequena, para servir de substituta. Em seguida, oferecem-se alimentos e bebidas sagradas e, reverentemente, roga-se pela transferência do espírito. Realizado esse procedimento, nenhuma maldição ocorrerá.
-
-Indaga-se, então, qual a necessidade da existência dos Deuses-Dragão. Eles cumprem diferentes missões que lhes são delegadas pelos deuses que os governam, mantendo-se em atividade incessante. Fenômenos celestes como o vento, a chuva e os trovões, em particular, são de sua responsabilidade, sob o comando dos quatro deuses de Haraido. Sua função primordial é, naturalmente, a purificação do Céu e da Terra. Adicionalmente, eles habitam e protegem áreas específicas dos oceanos, lagos, rios e, em menor escala, até mesmo lagoas e poços. Cada um desses locais é guardado por um Deus-Dragão de porte correspondente.
-
-Consequentemente, como muitos sabem, aterrar lagoas, poços ou pântanos costuma desencadear uma sucessão de desgraças misteriosas. Isso ocorre devido à ira do Deus-Dragão, cuja natureza é extremamente irascível, por ter tido sua morada destruída. É também uma forma de chamar a atenção dos seres humanos para que lhe providenciem um novo lar. Assim, para evitar tais infortúnios, assim como com o Dragão da Madeira, basta oferecer-lhe uma nova morada, realizando o ritual de transferência. Dada a urgência, até mesmo uma jarra com água pode ser suficiente, pois os Deuses-Dragão, mesmo em espírito, são suscetíveis ao calor e necessitam intensamente de água.
-
-Conforme já mencionei, seres humanos podem se transformar em Deuses-Dragão após a morte, em decorrência de fortes apegos. Por meio do aprimoramento no Mundo Espiritual, eles podem, eventualmente, renascer como humanos. Um exemplo histórico célebre é o de Sugawara no Michizane. Após sua morte, movido por um intenso desejo de vingança contra seus caluniadores, como Fujiwara no Tokihira, ele se transmutou em um Dragão do Fogo. Por meio de raios, fulminou-os um a um, chegando ao ponto de atingir o Palácio Imperial de Shishinden. Foi um evento assombroso, e o desastre esteve a ponto de atingir o próprio imperador. Alarmados, apressaram-se em deificá-lo, dando origem ao que hoje conhecemos como os santuários Tenmangu. Desde então, a paz foi restabelecida. Trata-se de um episódio famoso da história japonesa, que a ciência moderna certamente teria dificuldade em explicar.
-
-Outro relato, ocorrido entre as eras Meiji e Taisho, envolve o túmulo de Taira no Masakado, que se encontrava nos terrenos do Ministério das Finanças, no atual bairro de Kasumigaseki. Como ninguém se dera conta disso, uma série de calamidades inexplicáveis começou a afligir os funcionários do ministério. Após diversas investigações, suspeitou-se que a causa fosse o espírito de Masakado. Realizaram, então, uma grandiosa cerimônia em sua homenagem. Desde então, a tranquilidade foi restaurada. É provável que o espírito de Masakado também tenha se tornado um Deus-Dragão. Aliás, não apenas os Deuses-Dragão, mas todos os espíritos anseiam por cerimônias e ofícios memoriais, pois tais atos elevam sua posição no Mundo Espiritual.
-
-A forma dos Deuses-Dragão assemelha-se, em geral, à de suas representações pictóricas, havendo variedades com e sem chifres. Os de alta hierarquia são imensos, podendo seu comprimento atingir dezenas de quilômetros. Os célebres Oito Grandes Reis Dragões correspondem aos oito jovens—cinco homens e três mulheres—mencionados no Kojiki, e o famoso festival Gion Matsuri de Quioto é uma celebração em sua honra. Reza a lenda que Shakyamuni os selou no oceano, ordenando-lhes que aguardassem até um tempo determinado. Em minha análise, esse tempo corresponde à transição do Mundo da Noite para o Mundo do Dia. Isso se fundamenta nas próprias palavras de Shakyamuni, que definiu o budismo como o ensinamento da "Verdade Absoluta" (Shinnyo), cujo significado literal é "lua", um símbolo do Mundo da Noite. Atualmente, os Oito Grandes Reis Dragões já reencarnaram como seres humanos e estão ativos, trabalhando na construção do Mundo do Dia.
-
-Diz o adágio que o aprimoramento de um Deus-Dragão dura mil anos no mar, mil anos nas montanhas e mil anos nos vilarejos. Essa crença possui certo fundamento. Contudo, esse período pode ser abreviado por meio dos ofícios memoriais e das boas ações praticadas pelas pessoas a eles ligadas. Quando seu aprimoramento se completa, eles ascendem aos céus. Para tanto, invocam nuvens, geram tempestades e, por meio de trombas-d'água, elevam a água do mar a grandes altitudes para sua ascensão. Muitas pessoas já testemunharam esse fenômeno. Um de meus discípulos me relatou o seguinte: certo dia, observava uma serpente enrolada em um pinheiro. Ela subiu gradualmente até o topo da árvore, desprendeu-se e alçou voo, elevando-se cada vez mais alto no céu até desaparecer de vista. Tratava-se de uma criatura física, não de um espírito, o que torna o relato fascinante. É uma história que parece impossível, mas que, ao mesmo tempo, pode perfeitamente ser real.
-
-Constantemente, encontro inúmeras pessoas que são reencarnações de Deuses-Dragão. Todas elas apresentam características físicas distintivas: marcas em formato de escamas nas coxas, nos flancos ou na cintura. O tamanho e a nitidez dessas marcas variam de pessoa para pessoa, podendo ser avermelhadas ou escuras, numa infinidade de padrões.
-
-A fisionomia também os denuncia. O tipo dragão geralmente possui pômulos salientes, testa quadrada, veias azuladas e protuberantes nas têmporas, olhos frequentemente encovados e mandíbula angulosa. Uma característica marcante é sua grande necessidade de beber água. Quanto à sua índole, são altivos e detestam submeter-se a outrem, mas, por serem cheios de ambição, muitos alcançam o sucesso. Ao se observar atentamente uma pessoa do tipo dragão, sua essência se torna evidente, de modo que qualquer um, com um pouco de atenção, pode identificá-la.
-
-A reencarnação feminina de um Deus-Dragão é denominada "mulher-dragão" (Ryujo). Elas frequentemente sentem aversão ao matrimônio, satisfazendo-se com a vida de solteira. Quando uma união está prestes a se concretizar, é comum que surjam obstáculos, como a morte do pretendente ou o surgimento de uma doença na própria mulher. Se o casamento for forçado, a união tende a terminar em desastre, seja pela morte do cônjuge, por separação ou outras circunstâncias. A mulher-dragão é, em particular, dotada de um forte ciúme e de uma natureza desconfiada, o que torna difícil alcançar a felicidade na vida conjugal.
-
-Portanto, para que possam se casar, é necessário que as mulheres com essa linhagem acumulem virtudes em prol do mundo e do próximo, ou que ingressem em uma fé verdadeira, alcançando assim um certo nível de purificação. A purificação da mulher-dragão significa a humanização de seu espírito dracônico. Normalmente, é preciso que ela deixe este mundo uma vez, seja venerada como um ser humano e, ao reencarnar, renasça como uma pessoa comum. Ademais, as mulheres-dragão costumam ter olhos límpidos, pele delicada e, em sua maioria, são belas.
-
----
-
-# O Dinheiro Mal Adquirido Não Permanece
-
-**Categoria:** a | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** -
-**Título Original:** 悪銭身に着かず | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1949-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## O Dinheiro Mal Adquirido Não Permanece
-
-Há um antigo provérbio que diz que o dinheiro mal adquirido não permanece, e sua veracidade é absoluta. Proponho-me, neste artigo, a oferecer uma interpretação espiritual para essa máxima.
-
-Dentre as diversas modalidades de especulação — como o mercado de ações, a flutuação de preços de mercadorias ou as apostas em corridas de cavalos —, tomarei como exemplo principal o mercado de ações para desenvolver meu raciocínio. Na época em que eu ainda não possuía fé, também me aventurei nesse meio, comprando e vendendo papéis por vários anos, até sofrer um grande revés financeiro. Essa experiência, por um lado, foi um dos catalisadores que me conduziram à vida de fé; por outro, à medida que aprofundei meus conhecimentos sobre o Mundo Espiritual, compreendi que a especulação é uma prática que jamais se deve adotar. É por essa razão que desejo sinceramente que este texto seja lido por todos aqueles que se sentem atraídos por tal universo.
-
-Costuma-se dizer, com acerto, que no mercado especulativo, para cada pessoa que lucra, cem outras arcam com o prejuízo. Mesmo que alguém se torne um novo-rico da noite para o dia, amealhando uma fortuna, é praticamente impossível que tal prosperidade se sustente. Com efeito, quanto maior o ganho, maior será a perda subsequente; o futuro de quem enriquece dessa forma assemelha-se a um abismo que aguarda, de boca aberta, o momento de tragá-lo.
-
-Do ponto de vista espiritual, o fenômeno se explica da seguinte forma: a vasta maioria que sofreu perdas nutre, como é natural do ser humano, sentimentos de frustração e pesar, bem como o desejo de reaver o que lhe foi tirado. Esse pensamento de ressentimento busca, instintivamente, a pessoa que absorveu seu capital. Como, porém, a identidade do beneficiado é desconhecida, essa energia concentra-se na bolsa de valores e, por consequência, impregna-se no próprio dinheiro. Se pudéssemos observar com a visão espiritual, veríamos milhares, dezenas de milhares de semblantes de rancor impressos nas cédulas que ali circulam. Cada um desses rostos está ligado por um fio espiritual ao seu respectivo dono original, que, com seu pensamento, incessantemente tenta puxar de volta o que lhe pertence. Por essa razão, tal dinheiro jamais encontrará estabilidade no cofre de seu novo detentor; em algum momento, ele será "puxado" de volta, e a pessoa acabará por sofrer uma perda devastadora, ficando sem nada.
-
-Este princípio, todavia, não se restringe à especulação, aplicando-se a todas as transações financeiras. Refiro-me à apropriação de bens por meios fraudulentos, à retenção de pagamentos devidos, à redução deliberada de valores a serem entregues ou ao não pagamento de dívidas. Em todos esses casos, a parte lesada nutrirá um ressentimento que, tal como descrevi anteriormente, forçará a dissipação do capital indevidamente acumulado.
-
-Há outro ponto que merece nossa atenção: o fato de edifícios religiosos serem, desde a antiguidade, frequentemente consumidos por incêndios. Pode parecer um contrassenso que templos e santuários, erigidos com base em donativos puros, terminem reduzidos a cinzas. Contudo, existe uma razão para tal. Ocorre que, muitas vezes, durante a arrecadação de fundos, comete-se o erro de estipular e exigir valores fixos de fiéis ou de templos filiados. Essa prática não é natural. A verdadeira doação religiosa deve partir da livre e espontânea vontade do indivíduo, que define o montante a ser ofertado. Somente o dinheiro doado de bom grado se torna um donativo verdadeiramente puro. Ademais, a utilização desses edifícios sagrados deve estar em conformidade com a Vontade de Deus. Quando isso não acontece — quando se praticam atos equivocados ou se profana o local sagrado —, o edifício se torna suscetível de passar por uma purificação pelo fogo.
-
-É imperativo, no entanto, fazer uma ressalva. A aquisição de ações com o propósito de obter rendimentos, ou seja, dividendos, e não de lucrar com a oscilação do mercado, é uma prática perfeitamente aceitável. Longe de gerar qualquer tipo de ressentimento, essa atitude contribui para o desenvolvimento da indústria, sendo, portanto, algo que deve ser amplamente incentivado.
-
----
-
-# Sobre o Mundo dos Deuses-Dragão
-
-**Categoria:** ri | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
-**Título Original:** 龍神界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
-
-## Sobre o Mundo dos Deuses-Dragão
-
-Ao se mencionar Deuses-Dragão, o homem moderno tende a classificar o assunto como uma narrativa fantasiosa, um mero fruto da imaginação ilusória de nossos antepassados. Contudo, tal percepção não corresponde à verdade, pois eles de fato possuem existência real. A esse respeito, permitam-me relatar uma experiência pessoal.
-
-Ocorreu nos primórdios de minha jornada de estudos religiosos e espirituais. Certo dia, durante um momento de profunda concentração espiritual, fui subitamente tomado por um estado insólito. Minha boca se abriu desmesuradamente, com a sensação de que se rasgava até as orelhas; meus olhos tornaram-se chamejantes e senti protuberâncias, como chifres, surgirem em minha fronte. De minha garganta, brotou espontaneamente um urro gutural e assombroso, semelhante ao de uma fera. Surpreso, mas já ciente dos fenômenos de possessão espiritual, compreendi de imediato o que estava acontecendo. Inicialmente, cogitei ser o espírito de um tigre, leopardo ou leão; todavia, como tais animais não possuem chifres, descartei a hipótese. Ao consultar um orientador mais experiente da época, ele me esclareceu que se tratava do espírito de um dragão. Refletindo sobre suas palavras, tudo me pareceu perfeitamente plausível. A sensação de que os ossos da parte superior de minhas costas se projetavam durante a possessão divina também era uma característica dos dragões.
-
-Tais manifestações se repetiram diversas vezes, até que, com o tempo, uma outra entidade passou a se comunicar por meu intermédio. Era uma espécie de voz sem som que me narrava diversas coisas. Tratava-se do espírito do dragão que me possuía e que, através de mim, havia adquirido a capacidade de se expressar em linguagem humana. Ele me contou sua história, suas origens e outros assuntos. Em um de seus relatos, disse-me: “Sou o deus guardião de Konohanasakuya-hime no Mikoto (木之花咲耶姫尊), que reside no Monte Fuji. Sou Kuzuryū Gongen (九頭龍権現), venerado no Santuário de Kusushi”.
-
-Anos mais tarde, quando me propus pela primeira vez a escalar o Monte Fuji, recordei-me de suas palavras. Presumindo que o tal Santuário de Kusushi se localizasse no sopé da montanha, aproveitei o passeio pelos Cinco Lagos de Fuji e perguntei ao motorista do automóvel e a outras pessoas se conheciam o lugar, mas ninguém soube informar. Naquele momento, cheguei a pensar que o Deus-Dragão me havia enganado e apaguei o assunto de minha mente, iniciando a subida ao cume. Qual não foi minha surpresa quando, ao alcançar o topo, deparei-me com um santuário de proporções consideráveis à direita da entrada. Ao olhar a placa, li: Santuário Kusushi (久須志). Ah! Era aquilo! Compreendi então que as palavras do Deus-Dragão eram verídicas.
-
-Houve ainda diversos outros fenômenos místicos, mas me absterei de descrevê-los para não parecer supersticioso. Basta afirmar que os dragões existem como seres espirituais. Por conseguinte, se eles têm existência espiritual hoje, é evidente que, há milhares ou dezenas de milhares de anos, possuíam corpos físicos e habitavam a Terra. Acredito que os ossos de dinossauros, ocasionalmente descobertos nas profundezas da Manchúria, pertençam aos últimos dragões.
-
-Ademais, há uma notável variedade de tipos de dragão. Entre os principais, podemos citar: Dragão Celestial, Dragão Terrestre, Dragão da Montanha, Dragão do Mar, Dragão da Água, Dragão Dourado, Dragão de Prata, Dragão de Fogo, Dragão Vermelho, Dragão Híbrido, Dragão Amarelo, Dragão Azul, Dragão Branco, Dragão Negro e Dragão de Madeira. O mais elevado de todos é o Deus-Dragão Celestial, uma entidade única. É por essa razão que, com o mais profundo respeito, ao nos referirmos a Sua Majestade Imperial, o Imperador, utilizamos expressões como *goryūgan* (御龍顔 – a face do dragão) ou *konryū no misode* (袞龍の御袖 – as mangas do manto do dragão), fato de conhecimento geral. Depreende-se, pois, que um Deus-Dragão protege o corpo sagrado do Deus vivo.
-
-Segundo a tradição, o guardião de Kannon (観世音) Bodhisattva é o Dragão Dourado. Acredita-se que o nome do Templo Senso-ji, em Asakusa – Kinryuzan (金龍山), ou Montanha do Dragão Dourado –, derive desse fato. O Dragão Branco, por sua vez, é considerado o mensageiro ou a própria deidade Benzaiten, o que provavelmente é verdade. Quanto ao Dragão Vermelho, creio que corresponda à citação bíblica: "Satanás é um dragão vermelho". Os Dragões Amarelo e Azul devem ser os da tradição chinesa. O Dragão Negro, segundo as lendas, é o rei dos mares. Por fim, o Dragão de Madeira é aquele que habita as árvores, e sobre ele discorrerei um pouco mais.
-
-É comum ouvirmos relatos de que, ao derrubar uma árvore de grande porte, as pessoas envolvidas sofrem acidentes graves ou até mesmo vêm a falecer como resultado de uma maldição. Isso se deve, sem dúvida, à fúria do Dragão de Madeira. Para evitar tal infortúnio, antes de derrubar a árvore, deve-se primeiro plantar outra da mesma espécie em substituição, ainda que pequena. Em seguida, oferecem-se alimentos e saquê, rogando-se reverentemente que o espírito se transfira para a nova morada. Quando o pedido é feito com as palavras corretas, o Dragão de Madeira consente de bom grado.
-
-Mas qual é, afinal, a razão da existência dos Deuses-Dragão, com exceção do Dragão Celestial? Cada um deles possui funções específicas, designadas pelos deuses que os governam, e cumprem suas missões com atividade incessante. Particularmente os fenômenos celestes, como o vento, a chuva e os trovões, são manifestações da atividade desses Deuses-Dragão, que atuam sob o comando dos Deuses da Purificação com o propósito de purificar o Céu e a Terra. Ademais, eles habitam e protegem áreas específicas dos oceanos, lagos, rios e, em menor escala, até mesmo tanques, pântanos e poços, cada qual com um Deus-Dragão de porte correspondente.
-
-Por conseguinte, é sabido que aterrar tanques, pântanos ou poços frequentemente desencadeia uma série de desastres misteriosos. No caso de tanques e pântanos, as calamidades afligem a comunidade local; no caso de poços, o infortúnio recai sobre a família daquela casa. A explicação reside na natureza dos Deuses-Dragão, que se encolerizam com facilidade. Tendo sua morada destruída, sua fúria é uma forma de chamar a atenção dos seres humanos para sua necessidade de um novo lar. Quem compreende isso pode simplesmente providenciar uma nova fonte de água antes de aterrar a antiga, ainda que seja menor, e não haverá problema. É fundamental ter em mente que, mesmo em sua forma espiritual, os Deuses-Dragão geram muito calor e não podem viver sem água, desejando-a ardentemente.
-
-Além disso, o espírito de um ser humano pode se tornar um Deus-Dragão após a morte, assim como um Deus-Dragão pode reencarnar como ser humano. Sei que tal afirmação pode parecer surpreendente para o homem moderno, mas sou compelido a escrevê-la por ser a mais pura verdade. A razão pela qual uma alma se transforma em Deus-Dragão no Mundo Espiritual é o forte apego que a pessoa nutria em vida. Incapaz de se libertar dessa fixação, ela acaba se materializando na forma de dragão. Contudo, as pessoas comuns geralmente se tornam serpentes. Os verdadeiros Deuses-Dragão, com a forma imponente retratada nas ilustrações, são entidades de nível divino que assumem a forma de dragão por alguma necessidade superior e, ao reencarnarem, retornam à sua condição divina original. Os famosos Oito Grandes Reis Dragões são um exemplo dessa categoria. Como seres humanos, eles correspondem aos oito jovens deuses mencionados no *Kojiki*, sendo cinco deidades masculinas e três femininas. Entretanto, por ser "serpente" um termo por demais vulgar, utiliza-se a designação reverente "Deus-Dragão" para todas essas entidades.
-
-Perdi a conta de quantas pessoas encontrei que eram reencarnações de Deuses-Dragão ou que estavam sob sua possessão. A identificação é possível por meio de marcas semelhantes a escamas que se manifestam em suas coxas, flancos ou cintura. Essas marcas variam em nitidez e cor, podendo ser avermelhadas, escuras e de inúmeras outras formas, mas sua semelhança com escamas é inegável. A fisionomia também é um forte indicativo: maçãs do rosto salientes, testa quadrada com uma veia azulada proeminente, olhos encovados e mandíbula angulosa. Outra característica distintiva é a grande sede e o hábito de beber muita água. Quanto ao temperamento, são obstinados e detestam submeter-se a outrem. Ao se observar atentamente o rosto de uma pessoa com essas características, a semelhança com um dragão se revela de forma impressionante. Existem muitas pessoas desse tipo no mundo, e qualquer um que preste atenção poderá identificá-las com facilidade.
-
-No caso das mulheres, a reencarnação de um Deus-Dragão é chamada de *Ryūjo* (龍女), ou Mulher-Dragão. Frequentemente, elas têm aversão ao matrimônio e permanecem solteiras. Quando um casamento está prestes a se concretizar, é comum que surjam obstáculos, como a morte do noivo ou uma doença súbita da própria mulher. Mesmo que se casem, o vínculo com o cônjuge tende a ser frágil, e a vida a dois raramente perdura, seja por viuvez, separação ou outras circunstâncias. A Mulher-Dragão possui um orgulho elevado e um ciúme profundo, o que a leva a atormentar o marido, impedindo uma vida conjugal feliz. Por essa razão, é mais adequado que permaneçam solteiras e se dediquem a atividades sociais, como o magistério, o cuidado de crianças ou a enfermagem. Existem, contudo, casos raros de mulheres que conseguem ter uma vida feliz como esposas, mas isso geralmente ocorre quando um dos cônjuges acumulou muita virtude ou possui uma fé verdadeira. As Mulheres-Dragão costumam ser muito belas, destacando-se por seus olhos límpidos e pelo brilho intenso de suas pupilas.
-
-Visto que me perguntam com frequência sobre a forma correta de cultuar os Deuses-Dragão, aproveito a oportunidade para descrevê-la. Para o culto, deve-se escolher um local puro no jardim ou em um terreno aberto. É apropriado construir um altar de pedras com cerca de sessenta a noventa centímetros de altura e sobre ele assentar um pequeno santuário de madeira de cipreste ou de pedra, onde o objeto de adoração será consagrado. O ponto mais crucial é que os Deuses-Dragão não podem viver sem água; portanto, é imprescindível construir um pequeno lago em frente ao santuário. Suas dimensões devem ser proporcionais às do santuário. A cerimônia deve ser realizada uma vez por mês, em data fixa. Nessa ocasião, é indispensável oferecer arroz cru e água. Podem-se acrescentar também peixe fresco, verduras e alimentos secos. Por fim, a aparência do santuário deve ser condizente com a posição e os recursos da família, sendo tão digna quanto possível.
-
----
-
-# O Relato de uma Enfermeira-Chefe
-
-**Categoria:** a | **Ano:** 昭和24(1949)年11月5日 | **Fonte:** -
-**Título Original:** ある看護婦長の話 医学談片集 | **Status:** Published | **Edição/Página:** 34号 | **Data ISO:** 1949-11-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## O Relato de uma Enfermeira-Chefe
-
-Gostaria de transcrever o relato de uma senhora que, há alguns anos, participou de nossos cursos na época em que nossa Igreja era conhecida como Terapia Purificadora do Japão. Ela havia servido como enfermeira-chefe em um sanatório para tuberculosos, vinculado a um hospital do Exército.
-
-Ela havia tratado de inúmeros pacientes com tuberculose, e observava que a vasta maioria, a despeito de seguir rigorosamente as ordens dos médicos militares, definhava progressivamente até vir a falecer. Contudo, em meio a esse quadro desolador, um único paciente — um jovem oficial — foi salvo.
-
-Este, todavia, ignorava por completo as determinações do corpo clínico. Embora lhe houvesse sido prescrito repouso absoluto, raramente permanecia no leito. Apenas se deitava discretamente no momento em que os médicos faziam suas rondas, e por mais que a enfermeira-chefe o repreendesse, de nada adiantava. Apesar de sua insubordinação, o progresso de sua saúde era, misteriosamente, excelente. Para ela, por mais que refletisse, a situação era incompreensível.
-
-Por fim, o oficial teve alta, plenamente recuperado. Tal desfecho, no entanto, apenas aprofundou o enigma que a envolveu em um véu de incertezas durante vários anos. Foi então que, ao tomar conhecimento dos princípios de nossa terapia, suas longas indagações se dissiparam instantaneamente, como gelo que se derrete. Recordo-me vividamente de sua alegria ao nos narrar como tudo se tornou claro.
-
----
-
-# A Política da Ambiguidade
-
-**Categoria:** a | **Ano:** 昭和10(1935)年4月8日 | **Fonte:** Toho no Hikari
-**Título Original:** 曖昧模糊政治 阿呆文学 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1935-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
-
-## A Política da Ambiguidade
-
-Na recente sexagésima sétima sessão do Parlamento, deparamo-nos com a seguinte passagem no pronunciamento do Primeiro-Ministro Okada: “No mais breve período possível, tenciono manifestar nossas considerações a respeito”. Porventura não é esta uma afirmação de extrema ambiguidade?
-
----
-
-# O Senso de Justiça Americano e o Futuro do Japão
-
-**Categoria:** a | **Ano:** 昭和28年 | **Fonte:** -
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## O Senso de Justiça Americano e o Futuro do Japão
-
-Em meio à presente crise mundial, a proposta americana de estigmatizar a China Comunista como nação agressora havia sido recebida com hesitação pelas nações aliadas da Europa, a começar pela Grã-Bretanha. Contudo, o fato de que o desfecho tenha sido conforme o desejo dos Estados Unidos é verdadeiramente digno de regozijo. Sendo os povos europeus aqueles que sofreram até a exaustão as calamidades da Segunda Guerra Mundial, sua indecisão era compreensível. Todavia, é desnecessário dizer que, a esta altura, quaisquer que sejam as medidas adotadas, é absolutamente impossível dissuadir a União Soviética de suas ambições de dominação mundial. Pelo contrário, é um fato indubitável que ela continuará a fortalecer seu arsenal militar, buscando qualquer oportunidade para expandir sua influência. Nesse sentido, mesmo os Estados Unidos, em nome da liberdade e da democracia, se veem diante de uma escolha: ou reúnem todos os esforços para esmagar a ambição soviética, ou devem construir um poderio militar tão formidável que qualquer confronto se torne inviável. Foi por essa razão que se iniciaram os preparativos, os quais avançam progressivamente, arrastando consigo as nações europeias.
-
-No continente asiático, embora o senhor Nehru tenha assumido a liderança e se empenhado em solucionar a questão coreana, seus esforços redundaram em fracasso. A apreensão, portanto, é a mesma que na Europa: a incerteza de quando a mão soviética, manipulando a China Comunista, começará a semear a desordem em uma Ásia de parcos recursos militares.
-
-Os Estados Unidos, por sua vez, demonstram um admirável senso de justiça ao perseverarem em seus propósitos iniciais, sem se deterem pelas opiniões de outras nações. Certamente, tal postura é respaldada por seu vasto poderio militar, mas sua força primordial reside na natureza absoluta de seu tradicional senso de justiça. A fonte desse ideal, como é natural, provém da fé cristã. Tal fato é corroborado pela recente mensagem do presidente Truman, na qual ele enfatiza que a fé é sua aliada, e também pelas importantes declarações do general MacArthur, em cujos discursos a palavra Deus está invariavelmente presente.
-
-Em contrapartida, voltando nosso olhar para o Japão, ao observarmos os discursos de nosso primeiro-ministro, das altas autoridades e da classe dirigente, constatamos com profundo desalento a completa ausência de palavras como fé ou Deus. Portanto, enquanto a classe dirigente japonesa não passar a verbalizar os conceitos de Deus, fé e justiça, o futuro da nação permanecerá incerto, mesmo que um tratado de paz venha a ser assinado. Afinal, não há garantias de que não surgirão políticos ou ideologias capazes de conduzir o país ao erro.
-
----
-
-# A Verdadeira Paz de Espírito
-
-**Categoria:** a | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
-**Título Original:** 安心立命 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
-
-## A Verdadeira Paz de Espírito
-
-Recentemente, em doze de fevereiro, ouvi na rádio uma transmissão diurna em Hiroshima, onde se debatia o tema: “Pode a religião moderna proporcionar a verdadeira paz de espírito?”. Dentre as opiniões expressas, gostaria de tecer algumas considerações sobre dois ou três pontos que me chamaram a atenção.
-
-Um dos oradores defendia que a essência da religião reside em encontrar prazer no sofrimento, o que constituiria a autêntica paz de espírito. Tal raciocínio, contudo, implica uma aceitação do sofrimento como algo positivo. Embora seja uma noção corrente, sua origem repousa em uma resignação, na crença de que é impossível erradicar o sofrimento deste mundo. Diante disso, a conclusão lamentável seria que não resta outra alternativa senão aprender a desfrutar da dor.
-
-Todavia, ainda que essa postura fosse compreensível no mundo do passado, nós a rejeitamos. E por que? Porque o sofrimento, que sempre definimos como as três grandes calamidades — doença, pobreza e conflito —, é, em sua essência, uma criação dos espíritos malignos. Se nos perguntarmos por que os espíritos malignos detêm tanto poder, a resposta é que a força de Deus para subjugar o mal ainda era insuficiente. Isso não significa que Deus não prevalecerá; significa apenas que o tempo era necessário. O mundo vivia na Era da Noite, e o poder dos espíritos malignos se intensifica na escuridão. Agora, porém, que o Mundo Espiritual adentra a Era do Dia, seu poder enfraquece dia após dia, ao passo que a força de Deus se intensifica. Chegou, portanto, a era em que a vitória de Deus é inevitável. Embora os religiosos em geral ainda não tenham percebido esta realidade, quando a verdade aqui exposta for compreendida, ficará claro quão equivocada era a ideia de considerar a resignação como paz de espírito.
-
-A verdadeira paz de espírito, em sua acepção correta, refere-se a um estado de existência livre de sofrimento e de ansiedade. A realidade, entretanto, é bem diferente. Nunca sabemos quando a doença poderá nos acometer. Se ela se prolonga, a pobreza se instala. Se o arrimo de família vem a falecer, a família mergulha em profundo sofrimento. Tampouco sabemos quando um desastre inesperado poderá se abater sobre nós. Os conflitos são igualmente inevitáveis, sendo a guerra sua manifestação mais extrema. Na era da bomba atômica em que vivemos, a insegurança atinge níveis inimagináveis. Basta recordar a última Grande Guerra: lares incendiados, vidas ceifadas e um sofrimento infernal. Se um conflito ainda maior eclodir, as consequências serão de uma tragédia indescritível.
-
-Ao ponderarmos sobre este cenário, a paz de espírito no mundo atual não passa de um sonho tolo e distante. A ideia de “desfrutar do sofrimento” não é algo tão simples; quem fala em paz de espírito em meio a tais circunstâncias está, na verdade, imerso em uma forma de autoengano momentâneo. Por conseguinte, os ensinamentos e o poder de salvação da maioria das religiões até hoje existentes já não são suficientes para a nossa época. Aí reside a causa da estagnação das religiões estabelecidas. Diante da impossibilidade de encontrar nelas um refúgio para as aflições reais, é natural que as massas busquem, por necessidade, novas religiões.
-
-Contudo, mesmo entre as novas religiões, a capacidade de conceder a verdadeira paz de espírito ainda é uma incógnita. Na nossa Igreja, porém, por meio do Johrei, é possível libertar-se da maior parte dos sofrimentos causados pelas doenças. Com isso, a ansiedade gerada por elas se dissipa, e, consequentemente, a pobreza e os conflitos também encontram solução. Mais do que isso, ainda que uma guerra entre os Estados Unidos e a União Soviética venha a eclodir, aqueles cuja alma tiver atingido um certo grau de purificação poderão, pela Proteção Divina, ser poupados das calamidades.
-
-Além dos pontos já mencionados, a transmissão radiofônica também abordou discussões sobre a decadência do budismo, tema que não considero de maior relevância. Há, no entanto, um aspecto que gostaria de salientar. O fundador do budismo, Shakyamuni, estabeleceu como propósito de sua doutrina a salvação de todos os seres. Pergunto-me se os budistas de hoje não estariam agindo em oposição a essa nobre intenção. Parece que se contentam em agradar a um grupo restrito de pessoas, dedicando seus esforços à filosofia e à teoria budista, como se essa fosse a verdadeira missão de um religioso. Tais estudos, contudo, exigem um conhecimento prévio considerável, tornando-se inacessíveis à maioria e, no fim das contas, não passando de um mero jogo intelectual. Especialmente notável é a atitude de rechaçar os benefícios concretos e imediatos. Isso não os distancia sobremaneira da vontade de Shakyamuni? O anseio das massas não é por uma filosofia budista complexa, mas justamente por esses benefícios. Embora os próprios budistas devam estar cientes disso, por que insistem nesse caminho?
-
-Pode-se supor que, para os intelectuais e, em particular, para a juventude da era moderna, o budismo estabelecido tornou-se insatisfatório, levando a um afastamento gradual. Diante da realidade de que o apoio de senhoras devotas e homens simples já não é suficiente para garantir seu futuro, sentem a necessidade de atrair a camada intelectual e os jovens, que representam o porvir. Para tanto, tentam construir novas teorias, abordando o budismo com uma lógica que lembra a dialética marxista. Contudo, por mais intelectual que seja uma pessoa, se examinarmos o fundo de seu coração, veremos que ninguém rejeita os benefícios concretos e imediatos. O mesmo certamente se aplica aos acadêmicos budistas. A religião, por sua própria natureza, transcende a teoria acadêmica. Tentar usá-la como alicerce para a fé é inverter a lógica e, portanto, esvaziá-la de qualquer significado.
-
-Há ainda outra razão. Nossa Igreja, considerada a principal entre as novas religiões, defende abertamente a concessão de benefícios concretos e imediatos. Como lhes é difícil competir nesse campo, a única estratégia que lhes resta — uma medida desesperada, ao que parece — é criticar veementemente tais benefícios, rotulando-os como próprios de uma religião inferior. Não creio ser um equívoco interpretar suas ações dessa maneira.
-
-Nossa Igreja, em contrapartida, tem como objetivo a salvação de toda a humanidade, sem distinção de classe social. Por essa razão, não apenas proporcionamos benefícios concretos e imediatos, como também expomos teorias profundas de maneira acessível às massas. Como resultado, nossos fiéis sentem-se satisfeitos e alcançam a verdadeira paz de espírito. É, portanto, natural e previsível que o ímpeto de nosso crescimento se intensifique cada vez mais.
-
----
-
-# O Prodígio da Cura e o Enigma do Século
-
-**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 噫々此奇蹟 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## O Prodígio da Cura e o Enigma do Século
-
-Os relatos verídicos apresentados nesta obra são, sem exceção, verdadeiros milagres; contudo, o caso deste paciente é particularmente assombroso. Afinal, uma enfermidade gástrica crônica, que o fez padecer por mais de trinta anos, foi completamente curada em apenas uma semana. Trata-se, sem dúvida, de um prodígio do século XX.
-
-Ademais, quanto mais analisamos a evolução de seu quadro clínico, mais claramente compreendemos o quão temível é o veneno contido nos remédios. As pessoas em geral, por desconhecerem os malefícios desse veneno medicamentoso, despendem altas somas para consumir avidamente substâncias tóxicas às quais chamam de remédios. Ao agirem assim, elas próprias estão a criar seu sofrimento, o que constitui uma tragédia de proporções imensuráveis.
-
-O fato de que ninguém, em todo o mundo, tenha descoberto uma verdade tão assustadora representa, por si só, o grande enigma do século XX. Diante de um pavor de tal magnitude, as próprias guerras pareceriam um mal menor.
-
-Do mesmo modo, se os médicos tomassem conhecimento dessa realidade e passassem a tratar seus pacientes sob essa nova ótica, certamente compreenderiam as causas de muitos fenômenos até então inexplicáveis, bem como a razão pela qual tantos tratamentos, por mais que se prolonguem, mostram-se ineficazes.
-
----
-
-# O Sutra do Tolo
-
-**Categoria:** a | **Ano:** 昭和9(1934)年 | **Fonte:** Kyusei
-**Título Original:** 阿呆陀羅経 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1934
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
-
-## O Sutra do Tolo
-
-Custe o que custar, há no distrito de Omori um baluarte de sinceridade. Abandona-se o lar, a posição, os bens e até mesmo a esposa... Opa, um momento! A esta não se abandona. Pois, por amor a Deus, não se cometeria tamanha rudeza.
-
-Com a alma absorta na concretização do Mundo de Miroku, sem queixas ou hesitações, avança-se com a determinação de fazer daqui o seu derradeiro campo de batalha, propagando o jornal Aizen como se fossem balas de canhão. Com o ímpeto de não descansar enquanto não tiverem avançado e conquistado as ilhas infestadas por demônios, as terras da perene juventude, as encostas do mundo dos mortos e até mesmo os palácios submarinos.
-
-Seja por três mil anos, seja por três, a recompensa por tanto dissabor e amargura enfim chegará. Naquele tempo, serão aclamados com alegria, e a retribuição se fará. A satisfação por tudo o que foi suportado, essa, certamente, virá a partir de agora.
-
-Embora não se trate da saga dos leais samurais de Chushingura, refere-se às almas vivas dos quarenta e oito guerreiros. Tudo começa com o Plano “Iroha”, que Deus revelou por Seu pincel sagrado. É o outono dos crisântemos, no qual desabrocharão as dezesseis flores dos patriotas da era Showa.
-
-As ondas douradas das espigas de arroz que se curvam, prenhes de grãos; a alegria indescritível do tempo da colheita... Se aguardarmos, esticando o pescoço como a garça, a era do Néctar Divino virá.
-
-Mas, opa! Lá está a Tenrikyo. E a Konkokyo, reluzindo a ouro. O Sutra de Lótus, com suas flores a desabrochar. Neste mundo, até o Buda Amida brilha por força do ouro. O veredito do inferno também depende do dinheiro. No mundo de hoje, basta exibir o vil metal para que tudo seja “sim, senhor”. Até as nações que seguem os ensinamentos de Buda e de Cristo estão de bolsos vazios, suspirando com os ventos da recessão. Um mundo soterrado por avarentos, verdadeiros adoradores do dinheiro.
-
-É então que o Tolo, do fundo das montanhas, retirará uma ínfima parcela dos cem ou duzentos bilhões em ouro que mantinha ocultos. Se a espalhar por aí, a humanidade dos três mil mundos se transformará, num piscar de olhos, numa multidão de gafanhotos a se curvar. Afluirão em enxames, como nuvens de insetos, marchando em sua direção.
-
-Nesse momento, o Tolo, que não é o Messias Salvador, mas sim um “Messias-Provedor”, pois provê dinheiro, se encherá de soberba. Os um bilhão e oitocentos milhões de novos gafanhotos derramarão lágrimas de júbilo. Contentes, baterão na barriga e sapatearão no chão, celebrando a paz e a abundância. Eles o levantarão aos ares e o carregarão num santuário portátil de ouro maciço, percorrendo todos os cantos do mundo ao brado de “Wasshoi! Wasshoi!”.
-
-Eis o início da Era de Miroku! A maior celebração desde a aurora da Criação. Buda, Confúcio, Bodhidarma e Jesus, todos perderão a compostura e dançarão juntos. Os Sete Deuses da Fortuna, exaustos de tanto dançar, assistirão a tudo com um sorriso.
-
-Ah, que tempos auspiciosos, que tempos venturosos! Quando chegará uma cena assim? Virá ou não virá? Por certo não é um sonho... mas tampouco parece real. Será sonho ou vigília? Vigília ou sonho?
-
-Não tomem isto como o delírio de um tolo, mas, ainda assim, confiem. Apressem-se com paciência! Vamos, todos, cessem as desculpas e os lamentos de “tanto esperei”. Finalmente, a Porta do Céu se abre com o canto da alvorada. O Tolo abstêmio, embriagado pelo saquê divino, declama seu Sutra do Tolo para o Novo Ano.
-
-Eis a primeira estrofe...
-Shicharaka poku poku poku.
-
----
-
-# A Tragédia Gerada pelos Tratamentos Médicos
-
-**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 嗚呼悲惨なり医療の結果 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Tragédia Gerada pelos Tratamentos Médicos
-
-Ao ler este relato de graça, não pude conter as lágrimas que me brotaram aos olhos.
-
-Conforme tenho escrito reiteradamente, a cura obtida por meio da medicina, ainda que se manifeste, é meramente temporária. Por não se tratar de uma solução definitiva para a raiz do problema, a reincidência é inevitável, e a enfermidade retorna de forma ainda mais severa. O curso da doença deste paciente é um eloquente testemunho dessa realidade.
-
-Com efeito, a enfermidade, diagnosticada inicialmente como cárie do osso lombar, após ser tratada pela medicina, levou a família a acreditar em uma recuperação completa. Contudo, a alegria foi efêmera, pois em apenas três meses, a doença ressurgiu. Ao retornarem ao médico, receberam um diagnóstico ainda mais grave: cárie da medula espinhal. A partir de então, embora tenham recorrido a todos os tratamentos médicos disponíveis, o quadro apenas se agravava. Quando se viram em um impasse, sem mais alternativas, decidiram receber Johrei, e em apenas dois meses, a cura completa foi alcançada. A alegria e a gratidão da mãe são de tal magnitude que comovem profundamente a alma.
-
-Ao analisarmos este fato com isenção, percebemos que o infortúnio gerado pela medicina foi dissipado pelo Johrei, que, por sua vez, deu origem à felicidade. Não seria isto, em verdade, algo sublime?
-
----
-
-# A Evidência do Poder Divino na Cura
-
-**Categoria:** a | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 嗚呼偉大なるかな浄霊 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Evidência do Poder Divino na Cura
-
-O fato de que os casos aqui apresentados — enfermidades gastrointestinais crônicas, lesões oculares de extrema gravidade, hérnias severas e outras afecções de tamanha complexidade que a medicina se revela impotente — sejam curados sucessivamente e com simplicidade, constitui, sem exagero, um motivo de orgulho para o Japão perante o mundo. Afinal, é certo que, ainda que todos os doutores do Japão se reunissem, seriam incapazes de curar um único sequer desses casos.
-
-Ademais, os ministrantes desta arte de cura são, em sua totalidade, leigos, desconhecedores dos mais elementares preceitos da medicina, e que assimilaram seus fundamentos em poucos dias de aprimoramento. Diante disso, é natural que ninguém consiga acreditar em um milagre de tamanha magnitude. Sendo assim, o que mais poderia ser, senão o poder de Deus?
-
-Ao refletirmos sobre tal realidade, torna-se imperativo que exista uma grandiosa razão para o surgimento de um método de cura tão extraordinário. Essa razão, indubitavelmente, é que Deus, em Seu propósito de construir um mundo isento de doenças, outorgou-me a sabedoria e a força necessárias para tal fim. Aquele que for capaz de crer nesta verdade compreenderá que tudo se revela perfeitamente natural e lógico.
-
-Contudo, por se tratar de uma arte de cura tão grandiosa e sem precedentes na história da humanidade, é compreensível que as pessoas encontrem dificuldade em crer nela.
-
-Portanto, uma vez que se compreenda a verdadeira natureza destes fatos, perceber-se-á que, sob minha ótica, os milagres realizados por Cristo não se distinguem dos acontecimentos de nosso cotidiano.
-
----
-
-# Amanhã será Tarde Demais
-
-**Categoria:** a | **Ano:** 昭和27(1952)年6月11日 | **Fonte:** Eikou
-**Título Original:** 明日では遅すぎる | **Status:** Published | **Edição/Página:** 160号 | **Data ISO:** 1952-06-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Amanhã será Tarde Demais
-
-Há uma ocorrência relativamente comum que merece nossa atenção. Refere-se ao caso do doente que, já encurralado à beira da morte, recebe a graça Divina, melhora temporariamente e se rejubila. Contudo, quando se manifesta uma nova purificação, ele começa a hesitar e, esquecendo-se do que lhe fora concedido, recorre mais uma vez aos tratamentos médicos. Naturalmente, os resultados são insatisfatórios, e ele retorna em busca do Johrei. Pessoas que agem dessa forma, todavia, raramente alcançam a salvação.
-
-Qual seria a razão para tal desfecho? Deus concede, uma única vez, a reconexão com a vida que já estava perdida. Se a pessoa se desliga dessa dádiva, Ele jamais a concederá pela segunda vez. Esta é a Lei Divina e, portanto, imutável.
-
-Nesse sentido, é imperativo que os fiéis compreendam profundamente este princípio. Mesmo que sintam compaixão por alguém que hesitou no meio do caminho e retorna suplicante, devem lidar com a situação cientes dessa realidade. O relato a seguir ilustra vividamente este ponto, razão pela qual o anexo a este Ensinamento.
-
-***
-
-Relato de Kazusaburo Ozaki
-Igreja Nanko Naka
-
-Recentemente, vivenciei uma experiência singular e arrepiante. Gostaria de relatá-la como um apelo tanto aos membros quanto àqueles que ainda não ingressaram na fé.
-
-Foi, se não me engano, no final do ano passado que aquela senhora veio pela primeira vez ao nosso Johrei Center em Nakatsu. Dizia sofrer do coração. Era uma mulher com mais de cinquenta anos, de pele escura e amarelada, com o corpo todo inchado, aparentemente por uremia. Ao subir as escadas, sua respiração falhou, e ela parecia em grande agonia.
-
-No dia seguinte, ela retornou, trazendo consigo uma doente desenganada pelos médicos, com câncer de útero. A senhora me contou que, desde o Johrei que recebera na véspera, sua respiração se tornara muito mais fácil e sentia-se bem melhor.
-
-Ela continuou a frequentar por quatro ou cinco dias, talvez uma semana. Depois, não veio mais. Fiquei sabendo por terceiros que, sentindo-se mais disposta, havia voltado a trabalhar nas montanhas. Eu mesmo, muito ocupado com o caso da paciente com câncer, não me preocupei em procurar por quem havia se afastado. Nesse ínterim, a mulher com câncer uterino teve uma grande eliminação e apresentou notável melhora. Após cerca de dois meses, já conseguia se levantar e até varrer o jardim. Durante o período das eliminações, ela recebeu seu Ohikari e se apegou aos Ensinamentos com fervor desesperado. Eu, feliz com sua recuperação completa, viajava para diversos lugares em atividades de difusão. Aos poucos, novos fiéis surgiam nas aldeias ao redor de Nakatsu.
-
-Já neste ano, em um dia de abril, enquanto eu visitava a região de Yabakei com alguns membros, soube que a senhora com a doença cardíaca havia retornado à igreja. No dia seguinte, eu a esperei, pois algo me inquietava.
-
-Ela chegou definhada, como se tivesse acabado de rastejar para fora do inferno. "Meu coração voltou a piorar", disse ela. "Passei um tempo indo ao médico, mas não adiantou nada."
-
-Então, ela começou a desabafar: "Não tenho filhos biológicos. Adotei uma criança e hoje sou sustentada por ela, que me dá apenas duzentos ienes por mês para meus cigarros. Preciso me apegar a Deus de qualquer maneira. Quero muito receber o Ohikari. Eu parei de fumar e, vencendo a vergonha, vim fazer este pedido ao senhor. Eu preciso receber o Ohikari", disparou, como se estivesse em um transe.
-
-A partir de então, ela vinha receber Johrei todos os dias. Contudo, sua doença estava mais grave do que antes, e ela se encontrava terrivelmente enfraquecida. Vencido por sua determinação, eu orava para que ela pudesse, mais uma vez, recuperar a saúde.
-
-No dia 25 de abril, ela conseguiu reunir um donativo de dois mil e quinhentos ienes. Nessa época, já estava acamada, e nós passamos a visitá-la diariamente. "Consegui juntar este dinheiro. Por favor, use-o para fazer o pedido em meu nome. O restante, darei um jeito depois", disse ela. Não há dúvida de que foi um sacrifício excruciante. Sem dizer nada, dirigi-me à Igreja Intermediária e transmiti seu pedido.
-
-No dia 28, retornei a Nakatsu após cumprir meus compromissos na Igreja. O membro que havia ficado responsável pelo local me disse: "A casa daquela senhora parecia estranha. Talvez ela tenha falecido". Pedi que fosse verificar imediatamente, e a notícia se confirmou. Ela havia partido. Não havia mais nada a ser feito.
-
-Sua vida inteira foi marcada pela infelicidade, e seu último anseio era apenas receber o Ohikari, mas nem mesmo isso ela conseguiu a tempo.
-
-Escrevi estas linhas como uma última homenagem a ela.
-
-Quando uma pessoa está prestes a morrer... já é tarde demais. Talvez até mesmo o amanhã seja tarde demais.
-
-Enquanto gozam de saúde, no momento em que sentirem o chamado em seus corações, recebam o Ohikari. Apeguem-se a Deus. Aqui está o exemplo de alguém que, abatida pela desventura, partiu sem realizar seu último desejo, unicamente por não ter sido capaz de fazê-lo a tempo. Peço que reflitam profundamente sobre isso.
-
----
-
-# O Enigma da Reação Médica
-
-**Categoria:** a | **Ano:** 昭和27(1952)年8月20日 | **Fonte:** Eikou
-**Título Original:** 噫々不可解なる哉 | **Status:** Published | **Edição/Página:** 170号 | **Data ISO:** 1952-08-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## O Enigma da Reação Médica
-
-O relato de graça a seguir descreve um acontecimento ocorrido no ambiente hospitalar. Diante de um quadro clínico em que os médicos insistiam veementemente na necessidade de uma cirurgia, a pessoa em questão resistiu à pressão e, após receber Johrei durante toda a noite, alcançou uma recuperação plena e notável na manhã seguinte. Na ocasião, o médico, ao examinar o abdômen do paciente, constatou que não havia dor em ponto algum, por mais que pressionasse, deixando todos os presentes perplexos diante de um milagre tão inacreditável.
-
-Contudo, o médico que acompanhou o caso desde o início, mesmo confrontado com uma evidência tão concreta, limitou-se a inclinar a cabeça, resmungando em silêncio. Para nós, tal atitude é profundamente enigmática. Qualquer indivíduo com um mínimo de discernimento, ao presenciar um milagre de tal magnitude, inevitavelmente questionaria os alicerces da medicina e se sentiria compelido a investigar o Johrei. No entanto, até hoje, não conhecemos um único médico que tenha agido dessa forma. Por mais que se reflita, tal postura desafia toda a lógica.
-
-Isso nos leva a inquirir qual seria, afinal, o verdadeiro propósito da medicina. De qualquer modo, nosso método de Johrei, que promove a cura de maneira tão simples, sem o uso de medicamentos ou equipamentos, representa uma questão de suma importância e, ouso dizer, um grande motivo de orgulho para o Japão. É improvável que os médicos não compreendam isso. Suspeito que o temor de perderem seu status e meio de subsistência, caso abandonem a profissão, fale mais alto, forçando-os a um silêncio resignado. Se esta for a razão, então, em uma análise isenta, tal mentalidade pode ser considerada uma traição ao progresso cultural e um ato nefasto contra a humanidade. Seja como for, essa situação não poderá se sustentar indefinidamente. Quando a verdade finalmente vier a lume, as consequências serão, sem dúvida, monumentais.
-
-## Apendicite Curada em Uma Noite com Johrei Após Recusa da Cirurgia
-
-**Relato de Akiko Kawasumi (19 anos), Igreja Shomei Naka – Tóquio**
-
-No dia sete de julho, ao meio-dia, após o almoço na empresa, senti um mal-estar na região do estômago. Ministrei Johrei a mim mesma, mas como a dor não cedia, por insistência dos meus colegas, fui constrangida a me dirigir ao ambulatório. Ao saber que me aplicariam uma injeção, fugi e retornei à minha mesa, tentando suportar a dor enquanto continuava a ministrar Johrei. Contudo, o sofrimento apenas se intensificava e, por fim, fui novamente levada por todos ao ambulatório, onde me disseram: "Parece ser apendicite. Você precisa ser internada imediatamente."
-
-Implorei que me deixassem voltar para casa, mas não me foi permitido; acompanhada por uma enfermeira, fui internada no Hospital Isuzu. O exame de leucócitos revelou um quadro gravíssimo e anunciaram que a cirurgia era inadiável e deveria ser realizada imediatamente. A operação, no entanto, exigia a presença de um familiar, e o hospital tentou telefonar para minha casa. Deus, contudo, estendeu-me Sua proteção mesmo em tal circunstância: as inúmeras tentativas de contato telefônico foram infrutíferas. Quando finalmente conseguiram completar a ligação, minha mãe não estava, e, sem um responsável presente, as horas passavam. Por fim, conseguiram falar com minha mãe, que pediu que avisassem minha tia imediatamente. Durante todo esse tempo, eu orava para que a cirurgia não acontecesse e mantive-me irredutível em minha recusa. A equipe do hospital, porém, alegando não poder mais esperar por um acompanhante, levou-me à mesa de operação e já posicionava a navalha sobre meu abdômen. "Ah, seria este o meu fim?", pensei, mas mesmo assim, lutei, afirmando que preferia morrer a ser operada. Diante da minha obstinação, até mesmo o médico pareceu render-se, exasperado. Administrou-me penicilina e outra injeção para conter a inflamação, e retirou-se, dizendo: "Durante a noite, a dor se tornará excruciante. Nesse momento, você não terá mais escolha."
-
-Ah, senti que seria salva! Involuntariamente, juntei as mãos em prece. Exatamente nesse instante, minha tia chegou apressadamente. No entanto, ela não me ministrou Johrei de imediato. Aconselhou-me longamente sobre meus erros passados e sobre como deveria proceder no futuro. Depois, disse: "Neste seu caso, não posso simplesmente decidir ministrar Johrei por conta própria. Hoje é dia de visita, não sei se o presidente da Igreja está em casa, mas preciso telefonar e pedir sua orientação primeiro." E com isso, deixou o quarto. Enquanto isso, minha mãe, meus tios (todos não membros) e outras pessoas cochichavam entre si: "Será que ela vai ficar bem? O médico foi tão enfático...", "Se ao menos pudesse se curar sem a cirurgia...", "Mas a empresa está pagando por toda a internação e pela operação...". Contudo, a firmeza de minha tia ao declarar: "Se ela será salva ou não, eu não posso afirmar. Mas sei que, até hoje, todos os casos de apendicite receberam facilmente a proteção divina. Se os senhores pedirem com sinceridade, do fundo do coração, até o fim, creio que ela certamente receberá essa graça", foi tão impactante que eles consentiram em seguir por esse caminho. Meus dois tios permaneceram, e os demais se retiraram. Já passava das oito da noite.
-
-A dor em meu corpo aumentava gradualmente. A enfermeira vinha me ver de tempos em tempos, insistindo para que eu aplicasse gelo no local. Assim que ela saía, eu removia a bolsa de gelo. A espera por minha tia parecia uma eternidade. Finalmente, ela conseguiu falar com o presidente da Igreja e retornou por volta das dez da noite. Meus tios também já haviam partido. No quarto, eu dividia o espaço com uma senhora de meia-idade, internada por causa de uma nevralgia. Minha tia sentou-se, de modo um tanto desconfortável, em minha cama estreita e coberta por um mosquiteiro, e disse: "O presidente da Igreja me deu permissão para ministrar Johrei. Ele me transmitiu a mensagem de que você, Akiko, deve pedir profundo perdão por sua irreverência até hoje e, com um coração renovado e sincero, suplicar a Meishu-Sama pelo Johrei." Ao ouvir suas palavras, senti um calor intenso tomar conta do meu peito. Em espírito, elevei minhas preces, parte em súplica, parte em arrependimento, e, após quase um ano, recebi o Johrei de minha tia. Em pouco tempo, fui tomada por uma sensação de bem-estar e adormeci profundamente.
-
-Ao despertar na manhã seguinte, a primeira coisa que vi foi a nobre figura de minha tia, sentada ao meu lado, ministrando-me Johrei. Naquele instante, compreendi: "Ah, fui salva!". A alegria que senti foi imensa, e meu coração transbordou de gratidão a Meishu-Sama. Desde as dez da noite anterior até aquela manhã, juntamente com a dor abdominal, também recebi a purificação de uma dor de cabeça. Não me recordo de quantas vezes recebi Johrei, mas sempre que despertava, via a imagem abençoada de minha tia e voltava a dormir em paz, passando a noite sem grande sofrimento. Minha colega de quarto, ao observar meu estado na noite anterior e minha condição naquela manhã, comentou: "É um milagre!", e também: "Como eu gostaria de ter isso...", e acabou ouvindo minha tia falar sobre os Ensinamentos e recebendo Johrei também.
-
-Assim que a dor no abdômen desapareceu, senti uma fome avassaladora, o que fez minha tia rir. Por volta das nove horas, o chefe do departamento de clínica médica veio me examinar. Diferentemente da noite anterior, ele podia pressionar qualquer parte do meu abdômen sem que eu sentisse dor significativa, e não havia mais pontos endurecidos. Com uma expressão que mesclava perplexidade e profundo descontentamento, ele não disse uma única palavra, apenas lançou um olhar rápido para minha tia e se retirou. Pouco depois, a enfermeira-chefe veio e informou: "O médico disse que você já pode ter alta." Fiquei imensamente feliz e voltei para casa imediatamente. Minha mãe e os vizinhos também se alegraram, dizendo: "É como se toda a tensão tivesse se dissipado de repente."
-
-Imediatamente purifiquei meu corpo e, acompanhada de minha tia, fui à Igreja Naka para agradecer. Lá, recebi novamente Johrei do presidente da Igreja e também um novo e sagrado Omamori. Passei cerca de uma semana na casa de minha tia, participando dos cultos matinal e vespertino com todos e recebendo Johrei do ministro responsável, retornando ao trabalho na segunda-feira seguinte.
-
-Refletindo, foi em fevereiro de 1950 que, orientada por meus tios, ingressei na fé. Apesar de ter recebido inúmeras graças, por um motivo trivial, não consegui resistir à oposição ao meu redor e, ignorando os conselhos de meus tios, acabei por abandonar a Igreja. Sem me punir por meu erro, Deus me agraciou com uma bênção tão imensurável e ainda me concedeu a permissão de reingressar na fé. Por tudo isso, peço perdão do mais profundo de meu ser. Suplicando a Dai Komyo Nyorai para que eu não cometa o mesmo erro novamente, e rogando pela orientação do presidente da Igreja e dos demais ministros, relato, portanto, o que me vem à memória.
-
-Meishu-Sama, Dai Komyo Nyorai, minha gratidão é verdadeiramente infinita.
-
----
-
-# O Bocejo e a Purificação Espiritual
-
-**Categoria:** a | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
-**Título Original:** 欠伸 医学断片集（30） | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## O Bocejo e a Purificação Espiritual
-
-Há pessoas que, ao receberem Johrei, bocejam. Este é um fenômeno sobremaneira positivo.
-
-De acordo com o princípio do Kotodama, a palavra japonesa para bocejo, *akubi*, possui uma sonoridade análoga a *akuhi*, que se refere a um espírito maligno. Isso ocorre porque, no momento em que as toxinas se dissolvem, o espírito a elas associado é o primeiro a se desprender e a ser expelido. Portanto, trata-se de um processo purificador de grande valia.
-
-De modo análogo, é comum que ocorram arrotos, cujo fenômeno se rege pelo mesmo princípio.
-
----
-
-# A Verdade sobre o Contágio da Tuberculose
-
-**Categoria:** a | **Ano:** 昭和24(1949)年10月29日 | **Fonte:** -
-**Título Original:** ある未亡人の話 医薬断片集 | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1949-10-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Verdade sobre o Contágio da Tuberculose
-
-Trata-se de uma senhora de quarenta e cinco anos que, há três, enviuvou e se viu em completa solidão. Ao buscar amparo junto a seus parentes, deparou-se com a recusa de todos, sem exceção. A causa de tal atitude reside em um fato: há anos, ela padece de tuberculose pulmonar, e sua aparência — pálida e emagrecida — denunciava a doença à primeira vista. Diante de um impasse e sem ter a quem recorrer, encontrava-se em uma situação sem saída.
-
-Ao tomar conhecimento de seu caso, compadeci-me profundamente e a acolhi em minha casa, onde passou a auxiliar nos afazeres da cozinha. Com o passar do tempo, sua saúde vem melhorando gradualmente, e, por essa razão, seus dias transcorrem em alegria e gratidão.
-
-À primeira vista, este pode parecer um relato banal; todavia, encerra uma verdade de suma importância que desejo expor. A sociedade, por temor ao contágio, marginaliza qualquer pessoa ao menor diagnóstico de tuberculose. Em contrapartida, eu não apenas a acolhi sem hesitação, como também lhe permiti auxiliar no preparo das refeições. Do ponto de vista convencional, minha atitude seria certamente considerada uma loucura. Contudo, para mim, que tenho a clara compreensão de que a tuberculose não é contagiosa, o que fiz foi apenas tomar a providência mais natural.
-
-Na verdade, dramas semelhantes a este ocorrem por toda parte. Uma vez acometida pela tuberculose, a pessoa, além do sofrimento imposto pela própria doença, é condenada a um triste destino de abandono, tal como a senhora mencionada. Que situação lamentável! Por tudo isso, anseio que a ciência médica descubra, o mais brevemente possível, o princípio de que a tuberculose não é uma doença contagiosa. É desnecessário ressaltar o imenso bem que tal descoberta, por si só, traria para a felicidade da humanidade.
-
----
-
-# A Urgência da Obra Divina
-
-**Categoria:** a | **Ano:** 昭和25(1950)年1月21日 | **Fonte:** -
-**Título Original:** 或質問者への応答 | **Status:** Published | **Edição/Página:** 46号 | **Data ISO:** 1950-01-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Urgência da Obra Divina
-
-Certo dia, fui procurado por um membro de posição diretiva, que me disse ter um assunto a tratar. Ao recebê-lo, ele expôs sua questão: desejava dirimir um mal-entendido, pois um boato equivocado a respeito de determinada pessoa havia sido propagado por outrem.
-
-Diante de seu pleito, respondi-lhe nestes termos: “Neste momento, dedico-me a utilizar meu tempo de forma sumamente valiosa para a grandiosa Obra de Salvação da Humanidade. Sendo assim, peço que me exponha qual a relação que o seu problema possui com essa Obra”. Ao ouvir minhas palavras, o homem ficou absolutamente atônito e, reverenciando-me profundamente, retirou-se apressado.
-
-Episódios como este, verdadeiras comédias que não nos fazem rir, ocorrem com frequência. A Era Final se aproxima a cada momento e Deus, em Sua infinita misericórdia, atua por meu intermédio para salvar o maior número possível de pessoas. Apesar disso, é incompreensível que ainda existam aqueles que me procuram para tratar de interesses particulares ou questões de ordem sentimental, o que me leva a questionar qual a sua real compreensão sobre esta Fé.
-
-Contudo, por saber que muitos membros partilham de uma mentalidade semelhante, julguei necessário aplicar-lhe uma advertência incisiva. Por fim, enquanto ele se retirava, acrescentei:
-
-“Se dispõe de tempo para tais assuntos, empregue-o na leitura dos Escritos Divinos, tanto quanto lhe for possível”.
-
----
-
-# A Súplica Amatsu Norito
-
-**Categoria:** a | **Ano:** - | **Fonte:** 祝詞・神言祝詞・善言讃詞
-**Título Original:** 天津祝詞 ・観音会版 手書折本 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 祝詞・神言祝詞・善言讃詞
-
-## A Súplica Amatsu Norito
-
-Ó Deuses que habitais o Alto Plano Celestial, por Vossa augusta ordem, ó Divinos Kamu-rogi e Kamu-romi, o Augusto Deus Ancestral, Izanagi-no-Mikoto, ao realizar o ritual de purificação nas planícies de Ahagihara, em Tachibana no país de Himuka, fez com que se manifestassem os Grandes Deuses Purificadores.
-
-A essência de nossa súplica, para que todos os infortúnios, pecados e máculas sejam purificados e alimpados, nós a elevamos para que os Deuses Celestes, os Deuses Terrestres e todos os inumeráveis Deuses, em uníssono, a auscultem com a mais plena atenção. Com o mais profundo temor e reverência, assim rogamos.
-
-Izunome-no-Ōmikami (伊都能賣之大御神), protegei-nos e concedei-nos felicidade.
-(Entoar duas vezes)
-
-Daikomyo Nyorai (大光明如来), protegei-nos e concedei-nos felicidade.
-(Entoar duas vezes)
-
-Que a Vossa Vontade Divina se manifeste, multiplicando as bênçãos espirituais.
-(Entoar duas vezes)
-
-(Três palmas)
-
----
-
-# Uma Religião que não Prega a Resignação
-
-**Categoria:** a | **Ano:** 昭和28(1953)年11月18日 | **Fonte:** Eikou
-**Título Original:** 諦めを説かない宗教 | **Status:** Published | **Edição/Página:** 235号 | **Data ISO:** 1953-11-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Uma Religião que não Prega a Resignação
-
-Até o presente, pode-se afirmar que as religiões, em sua quase totalidade, têm como pilar o ensinamento da resignação. Se dissecarmos essa premissa, perceberemos que a raiz da resignação reside na crença de que é absolutamente impossível solucionar os múltiplos sofrimentos que afligem o ser humano. Dessa forma, a resignação surge como um mecanismo de fuga, uma resposta à ânsia de, ao menos no plano espiritual, escapar a essa dor. Isto ocorre, em suma, pela ausência absoluta de métodos capazes de erradicar tais padecimentos.
-
-Tomemos como exemplo as doenças e as desgraças. Como a lógica e o esforço humano se mostravam insuficientes para solucioná-las, recorria-se outrora à religião. Contudo, como esta também se revelava ineficaz, seu único recurso era pregar a aceitação do sofrimento. Todavia, com o advento da era moderna, a ciência emergiu, exibindo um poder extraordinário, o que levou a humanidade a crer que, por meio dela, seria finalmente possível encontrar soluções sem a necessidade de se resignar.
-
-Contudo, a realidade mostrou-se contrária às expectativas. É inegável que, no plano material, a ciência satisfez certas aspirações. Todavia, no que tange às questões mais profundas e fundamentais, tornou-se gradualmente evidente que inúmeros problemas, embora aparentassem ser solucionáveis, eram, na verdade, impossíveis de se resolver. Por conseguinte, a era em que vivemos pode ser adequadamente descrita como uma era de ceticismo.
-
----
-
-# A Expulsão do Mal
-
-**Categoria:** a | **Ano:** 昭和27(1952)年9月10日 | **Fonte:** Eikou
-**Título Original:** 悪の追放 | **Status:** Published | **Edição/Página:** 173号 | **Data ISO:** 1952-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A Expulsão do Mal
-
-O mundo atual, talvez por seu lento progresso cultural, apresenta um cenário em que os supostos eruditos despendem seus esforços em questões verdadeiramente tolas. Refiro-me às diversas correntes de pensamento — comunismo, socialismo, capitalismo e tantos outros “ismos” — em torno das quais se digladiam com tamanho fervor. Em última análise, contudo, tal debate não passa de uma vã comparação entre coisas de igual pequenez. Ao longo da história, inúmeras ideologias surgiram e desapareceram, repetindo incessantemente o mesmo ciclo.
-
-Este fenômeno assemelha-se sobremaneira ao que ocorre hoje com os novos medicamentos para a tuberculose. Ora são alardeadas com grande estardalhaço a estreptomicina e o PAS, ora a terramicina e a cloromicetina. Mais recentemente, surgiu um novo fármaco chamado hidrazida, cuja propaganda avassaladora fez crer que o problema da tuberculose seria finalmente solucionado. Ao que parece, porém, as dúvidas sobre sua eficácia já começam a surgir. Se a isto se pode chamar de progresso cultural — a este ciclo repetitivo de ora gerar euforia, ora causar desilusão —, então estamos diante de uma grande insensatez, e os que se deixam ludibriar por ele fazem um triste papel.
-
-Retornando ao campo da política, o mesmo se aplica aos seus protagonistas. Estes, não muito diferente dos cartazes de cinema, esforçam-se para atrair o público com suas doutrinas e propostas, mas o conteúdo, em si, parece totalmente oco. A verdade é que os rótulos ideológicos são secundários; o fator decisivo reside no caráter dos homens que os manejam, ou seja, na sua inclinação para o bem ou para o mal. O comunismo, por exemplo, que hoje tantos temem, pode até apresentar uma teoria interessante. Seu mal reside no emprego da violência e da destruição, bem como no egoísmo de favorecer apenas seus adeptos, demonstrando pouca consideração pela instabilidade que geram em toda a sociedade. O mesmo se pode dizer do capitalismo, cuja falha está na ganância dos capitalistas, que acumulam fortunas e vivem em luxo desmedido enquanto se recusam a olhar para seus empregados e operários, que mal conseguem sobreviver em meio à alta dos preços. Quanto ao socialismo, embora pareça sumamente justo, revela-se, na prática, uma das maiores fontes de iniquidade. Ao tratar a todos de maneira uniforme, como se fossem animais de rebanho — nivelando o virtuoso e o medíocre, o trabalhador e o ocioso —, ele obstrui o progresso da sociedade e, por contrariar os Princípios Celestes, constitui um mal.
-
-Aproximando-se as eleições gerais, aproveito para tecer alguns comentários a esse respeito. Um homem íntegro e honesto, por gozar da confiança pública, deveria poder se candidatar sem precisar despender as fortunas absurdas que hoje se exigem para uma campanha vitoriosa. Em tese, seria de se esperar que pessoas notáveis se apresentassem, mas, na conjuntura atual, elas se retraem por não poderem competir. Em contrapartida, aqueles para quem a integridade é secundária e que não hesitam em esbanjar dinheiro parecem ter maiores chances de sucesso. Tais indivíduos, como é de se supor, são dominados pela ânsia de prestígio ou movidos por segundas intenções e, certamente, jamais se tornarão parlamentares exemplares. Creio que a causa fundamental do baixo nível dos legisladores no Japão reside precisamente neste ponto.
-
-Ademais, gostaria de reiterar algo que os membros já conhecem bem a respeito dos novos medicamentos: por mais extraordinária que pareça ser uma nova descoberta, posso afiançar com absoluta certeza que ela não curará a doença. Fundamentalmente, é impossível que um remédio cure, por um motivo muito simples: todos os medicamentos são venenos. Esperar que o corpo se torne saudável pela ingestão de veneno é um disparate tão grande quanto esperar que as pedras flutuem e as folhas afundem.
-
-O que o veneno chamado remédio faz é apenas suprimir temporariamente a doença e aliviar o sofrimento. Como resultado, o *yakudoku* (薬毒), ou toxina medicamentosa, acaba por gerar novas enfermidades, e o ser humano, preso a este círculo vicioso, enfraquece progressivamente. O altíssimo número de doentes na atualidade é a prova cabal desta realidade. É por isso que nós, cientes da insensatez dessa medicina e dos perigos desses fármacos terríveis, nos dedicamos de corpo e alma, com o máximo empenho, a alertar o maior número possível de pessoas.
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月28日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Purificação Sistêmica do Veneno dos Remédios
 
@@ -40,7 +40,7 @@ Agindo dessa forma, a cura virá. Não há nenhuma dificuldade nisso. É apenas 
 
 **Categoria:** situmon | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S29年4月1日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## A Providência Divina e o Segundo Início
 
@@ -326,7 +326,7 @@ A propósito, na nossa atual exposição Momoyama, está em exibição uma caixa
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S27年11月1日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos de Meishu-Sama
 
@@ -450,7 +450,7 @@ A propósito, na nossa atual exposição Momoyama, está em exibição uma caixa
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S26年6月2日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## A Hierarquia Espiritual e o Poder da Palavra
 
@@ -510,7 +510,7 @@ O Japão é um país onde o espírito é principal e o corpo é secundário. O O
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月17日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Causa Espiritual das Enfermidades
 
@@ -610,7 +610,7 @@ A toxina que se liquefez acumulou-se nesse ponto.
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
 **Título Original:** 超人間的の業 | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1949-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** -
 
 ## Esclarecimentos sobre Questões da Fé e do Espírito
 
@@ -710,7 +710,7 @@ Este é o segundo artigo da série de perguntas e respostas com o Grande Mestre 
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S25年3月8日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos de Meishu-Sama
 
@@ -746,7 +746,7 @@ Contudo, é preciso considerar o fator do hábito. Em casos onde o problema se t
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S26年9月8日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## A Harmonia Divina na Fé e na Vida Cotidiana
 
@@ -1164,7 +1164,7 @@ Isso não. A Imagem Divina só pode ser outorgada após a conclusão do curso. O
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月10日 | **Fonte:** 実生分会ニュース
 **Título Original:** 妙智の鍵 実生分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-05-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 実生分会ニュース
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 実生分会ニュース
 
 ## Esclarecimentos sobre a Fé e o Cotidiano
 
@@ -1210,7 +1210,7 @@ R: É uma forma de superstição. Mesmo que algo desfavorável ocorra em um dess
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月5日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Elucidações Divinas sobre as Causas da Purificação
 
@@ -1312,7 +1312,7 @@ Existe uma solidificação nesta região do pescoço que causa os tremores. O ma
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年3月8日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre Diversos Assuntos
 
@@ -1454,7 +1454,7 @@ O aborto e o controle de natalidade são, obviamente, distintos. O pecado do con
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年1月18日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## A Nova Metodologia de Divulgação
 
@@ -1474,7 +1474,7 @@ O abdômen dilatado indica uma disfunção renal. Já a meningite, por sua vez, 
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年11月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1953-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 *Do Ensinamento de Luz, 『Paraíso Terrestre』, nº 54, publicado em 25 de novembro de 1953*
 
@@ -1568,7 +1568,7 @@ A explicação referente à paralisia encontra-se nos Escritos Divinos. Ao consu
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S27年3月1日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Diálogo sobre Arte, Fé e Purificação
 
@@ -2076,7 +2076,7 @@ As marcas são temporárias.
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年8月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1953-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Orientações sobre a Fé e a Prática
 
@@ -2142,7 +2142,7 @@ Submeto, respeitosamente, duas questões.
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月5日 | **Fonte:** 会報
 **Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
 
@@ -2306,7 +2306,7 @@ O coração absorve o elemento fogo; os pulmões, o elemento água; e o estômag
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos sobre a Fé e o Cotidiano
 
@@ -2426,7 +2426,7 @@ Anos atrás, uma pesquisa estatística sobre pacientes com tuberculose em Tóqui
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年9月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Diálogos sobre a Fé, o Mundo Espiritual e a Vida Cotidiana
 
@@ -2532,7 +2532,7 @@ Não se pode dizer que o conflito seja inteiramente mau, nem que seja sempre ace
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月10日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年5月23日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1949-07-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre Diversos Assuntos
 
@@ -2664,7 +2664,7 @@ Não, para os olhos não é eficaz. O tratamento para os olhos deve ser feito na
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年5月8日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Esclarecimentos sobre Deuses, Espíritos e a Nova Era
 
@@ -2726,7 +2726,7 @@ Ademais, a raposa é um animal. Se uma pessoa se habitua a utilizar tais entidad
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月16日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Orientações sobre as Purificações
 
@@ -2888,7 +2888,7 @@ Que insensatez! Usar um hemostático... Uma pequena hemorragia é um sinal magn�
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年2月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1951-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Direcionamentos Divinos sobre Diversos Assuntos
 
@@ -2974,7 +2974,7 @@ Procedendo dessa maneira, Deus certamente cuidará para que tudo se resolva conf
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年2月8日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年1月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-02-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Orientações sobre Diversas Questões
 
@@ -3091,7 +3091,7 @@ Isso é inadmissível. É preferível que o Pergaminho de Komyo Nyorai não seja
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月8日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S23年11月18日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1948-12-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Vida e a Fé
 
@@ -3189,7 +3189,7 @@ As verrugas também podem ser removidas ou não, e da mesma forma, representam u
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S26年8月8日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos sobre Diversos Aspectos da Fé
 
@@ -3467,7 +3467,7 @@ Esses fatores influenciam diretamente a relação com a arte. Doravante, o Japã
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年1月17日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre as Causas das Doenças
 
@@ -3539,7 +3539,7 @@ Não há problema. Vocês consagraram o Komyō Nyorai, certo? Se sim, mesmo que 
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年6月1日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Orientações Divinas de 1º de junho de 1953
 
@@ -3703,7 +3703,7 @@ Dobre-a e guarde-a.
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年3月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 46号 | **Data ISO:** 1953-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Consultas e Orientações
 
@@ -3797,7 +3797,7 @@ Trata-se de uma ocorrência de natureza espiritual. Existe uma massa de toxinas 
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月28日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Elucidações sobre a Causa das Doenças e a Ação do Johrei
 
@@ -3875,7 +3875,7 @@ Com a ministração do Johrei, a quantidade de toxinas diminuirá gradualmente, 
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年12月3日 | **Fonte:** -
 **Título Original:** 夜中首がのびる | **Status:** Published | **Edição/Página:** 38号 | **Data ISO:** 1949-12-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** -
 
 ## O Fenômeno do Pescoço que se Alonga
 
@@ -3905,7 +3905,7 @@ Cumpre, pois, que se tente.
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月8日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre Diversas Purificações
 

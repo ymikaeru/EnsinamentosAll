@@ -3,8 +3,8 @@
 # Coletânea de Ensaios do Mestre Okada Jikanshi
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年11月20日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-11-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録14号 | **Status:** Published | **Edição/Página:** 14号, 14号 | **Data ISO:** 1949-11-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Ensaios do Mestre Okada Jikanshi
 ### Registro dos Ensinamentos de Luz, nº 14, publicado em 20 de novembro de 1949
@@ -405,7 +405,7 @@ A luz do Sol é extremamente forte. Quando atinge a Lua, diferentes cores podem 
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-10-30
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Ensaios do Mestre Jikan Okada — Registro da Perseguição Religiosa
 *Publicado em 30 de outubro de 1950*
@@ -1030,7 +1030,7 @@ Este mundo de escuridão e ignorância, sob o olhar de Deus, não pode durar mui
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Ensaios do Mestre Okada Jikanshi
 ## A Ascensão da Gravura Moderna (Por Fujikake Shizuya, Doutor em Letras)
@@ -1129,8 +1129,8 @@ Um artista da nova geração, seu estilo varia consideravelmente, e ele possui o
 # Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, nº 15 (Publicado em 20 de dezembro de 1949)
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年12月20日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-12-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録15号 | **Status:** Published | **Edição/Página:** 15号, 15号 | **Data ISO:** 1949-12-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Teses do Mestre Okada Jikan — Registro de Ensinamentos, nº 15 (Publicado em 20 de dezembro de 1949)
 
@@ -1570,7 +1570,7 @@ Faz exatamente um ano desde que publicamos a primeira edição do “Registro de
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Jikan Okada — Registro das Sagradas Palavras, vol. 3
 
@@ -1958,7 +1958,7 @@ Sobre o falso Cristo, não é?
 
 **Categoria:** sasshi | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1936-05-15
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 Coletânea de Teses do Mestre Okada Jikan
 Publicado em 15 de maio de 1936
@@ -2277,7 +2277,7 @@ A era avança sem cessar. Continuar a confiar apenas na medicina ocidental, na q
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## — Coletânea de Ensaios do Mestre Jikan Okada —
 
@@ -2553,7 +2553,7 @@ Esta imagem é reputada como uma obra-prima rara, com sua bela figura e gravura 
 
 **Categoria:** sasshi | **Ano:** 昭和25(1950)年9月21日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950-09-21
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Jikan Okada
 
@@ -2653,7 +2653,7 @@ Editora: Departamento de Publicações Eikosha
 
 **Categoria:** sasshi | **Ano:** 昭和27年6月30日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-06-30
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikanshi — Organizada por Periódico
 

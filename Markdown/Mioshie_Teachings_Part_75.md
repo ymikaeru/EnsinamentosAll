@@ -3,8 +3,8 @@
 # — Coleção de Teses do Mestre Okada Jikanshi —
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 明日の医術 第一編
 
 ## — Coleção de Teses do Mestre Okada Jikanshi —
 ## Ashita no Ijutsu, Primeiro Volume (Reimpressão)
@@ -1012,8 +1012,8 @@ Impressor: Seisaku Hara
 # Coletânea de Ensaios do Reverendo Okada Jikan — Confissões de um Fiel
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年6月15日 | **Fonte:** 一信者の告白
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-06-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 一信者の告白 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-06-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 一信者の告白
 
 ## Coletânea de Ensaios do Reverendo Okada Jikan — Confissões de um Fiel
 
@@ -1210,8 +1210,8 @@ Editora: Departamento de Publicações da Sekaikyuseikyou
 # Coleção de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** 結核と神霊療法
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-06-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 結核と神霊療法 自観叢書第1篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-06-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 結核と神霊療法
 
 ## Coleção de Teses do Mestre Okada Jikan
 
@@ -1460,8 +1460,8 @@ Agradeço profundamente pela proteção que palavras não podem descrever.
 # Coletânea de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** 世界メシヤ教早わかり
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ―― 発行誌別 A Guide to World Messianity A Guide to World Messianity 英訳 | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 世界メシヤ教早わかり
 
 ## Coletânea de Teses do Mestre Okada Jikan
 
@@ -1492,7 +1492,7 @@ O Messias
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-01-15
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Jikan Okada
 ## Explanação sobre a Agricultura Natural (Publicado em 15 de janeiro de 1951)

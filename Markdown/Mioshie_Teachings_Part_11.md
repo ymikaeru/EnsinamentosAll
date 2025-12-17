@@ -4,7 +4,7 @@
 
 **Categoria:** he | **Ano:** 昭和27(1952)年6月4日 | **Fonte:** Eikou
 **Título Original:** 米国の医学迷信 | **Status:** Published | **Edição/Página:** 159号 | **Data ISO:** 1952-06-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Superstição Médica nos Estados Unidos
 
@@ -138,7 +138,7 @@ Peço perdão pela simplicidade deste relato, que serve como meu último relató
 
 **Categoria:** mo | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 盲腸炎など此通り 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Ilusão da Cirurgia de Apendicite
 
@@ -158,7 +158,7 @@ Contudo, conforme demonstram os relatos de graças alcançadas, é possível obt
 
 **Categoria:** mo | **Ano:** 昭和10(1935)年 | **Fonte:** 滑稽阿呆文学
 **Título Original:** 目下戦争準備中 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 滑稽阿呆文学
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 滑稽阿呆文学
 
 ## O Desvario do Mundo Contemporâneo
 
@@ -186,7 +186,7 @@ Ao observar todo esse cenário, a sincera devoção dos militares, que se aflige
 
 **Categoria:** mo | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 盲目的医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Ignorância da Medicina Perante a Purificação
 
@@ -200,7 +200,7 @@ Todavia, ainda que cinco médicos o tenham examinado, o diagnóstico foi de caus
 
 **Categoria:** mo | **Ano:** 昭和25(1950)年10月 | **Fonte:** Kyusei
 **Título Original:** 問題の世界救世教とは何か | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1950-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Esclarecimento sobre a Sekaikyuseikyou
 
@@ -276,7 +276,7 @@ Ministros de Categoria B: 2.244
 
 **Categoria:** mo | **Ano:** 昭和28(1953)年2月25日 | **Fonte:** Eikou
 **Título Original:** 若しもこの世界から「悪」がなくなったら | **Status:** Published | **Edição/Página:** 197号 | **Data ISO:** 1953-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## E se o Mal Desaparecesse do Mundo?
 
@@ -306,7 +306,7 @@ O que esbocei até agora é apenas um vislumbre do que se pode imaginar. Aquele 
 
 **Categoria:** mo | **Ano:** 昭和25(1950)年8月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 物を識るという事 | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1950-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Sobre o discernimento da essência das coisas
 
@@ -353,7 +353,7 @@ Nos tempos modernos, aponto o falecido ator Ichikawa Danjuro como um homem que c
 
 **Categoria:** mo | **Ano:** 昭和25(1950)年5月13日 | **Fonte:** Kyusei
 **Título Original:** 盲目は治る | **Status:** Published | **Edição/Página:** 62号 | **Data ISO:** 1950-05-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Cegueira Tem Cura
 
@@ -387,7 +387,7 @@ Nós, os demais membros, estamos convictos de que a recuperação total da visã
 
 **Categoria:** mo | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 盲腸炎など何でもない 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Insignificância da Apendicite
 
@@ -403,7 +403,7 @@ Em contrapartida, é verdadeiramente assombroso constatar que, através do Johre
 
 **Categoria:** mo | **Ano:** 昭和10(1935)年3月4日 | **Fonte:** Hikari明世界
 **Título Original:** 目下罪障消滅中 阿呆文学 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Literatura de um Tolo
 
@@ -453,7 +453,7 @@ Fazendo-o, receberão prontamente a graça de atingir a iluminação ainda nesta
 
 **Categoria:** ni | **Ano:** 昭和11(1936)年4月15日 | **Fonte:** 新日本医術書
 **Título Original:** 日本医術新生の時期 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## O Renascimento da Medicina Japonesa
 
@@ -493,7 +493,7 @@ Essa arte de curar, que hoje parece um sonho, constituirá a base da cultura jap
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年8月13日 | **Fonte:** -
 **Título Original:** 人間は物質か 寸評（光22号） 白光生 | **Status:** Published | **Edição/Página:** 22号, 22号 | **Data ISO:** 1949-08-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Concepção Materialista do Homem
 
@@ -511,7 +511,7 @@ Está compreendido?
 
 **Categoria:** ni | **Ano:** 昭和26(1951)年5月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 日本人種の霊的考察（下） | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1951-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Uma Análise Espiritual da Etnia Japonesa – Parte Final
 
@@ -551,7 +551,7 @@ Por fim, quanto à proporção de cada um dos quatro povos, a linhagem Tenson é
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年3月25日 | **Fonte:** Kyusei
 **Título Original:** 日本人の依存性 | **Status:** Published | **Edição/Página:** 55号 | **Data ISO:** 1950-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Mentalidade de Dependência do Povo Japonês
 
@@ -579,7 +579,7 @@ Em suma, desejo advertir que, neste momento, não há solução mais eficaz para
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 人間の寿命 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Longevidade Natural e a Falácia da Medicina
 
@@ -595,7 +595,7 @@ Antigamente, falava-se em quatrocentas e quatro doenças; hoje, dizem que seu n�
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年10月8日 | **Fonte:** -
 **Título Original:** 日本脳炎は果して蚊の媒介か？ | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1949-10-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Encefalite Japonesa e o Equívoco da Transmissão por Mosquitos
 
@@ -623,7 +623,7 @@ Pelo exposto, torna-se evidente que a encefalite japonesa não possui qualquer r
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年5月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 乳幼児の健康 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Sobre a Saúde dos Lactentes e da Primeira Infância
 
@@ -647,7 +647,7 @@ Adicionalmente, minha experiência demonstra que a aplicação excessiva de inje
 
 **Categoria:** ni | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 乳幼児の死亡率問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## A Problemática da Mortalidade Infantil
 
@@ -769,7 +769,7 @@ O Criador gerou a humanidade nesta Terra para que ela se perpetuasse eternamente
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
 **Título Original:** 人間の死後と畜生道 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Via Bestial Após a Morte
 
@@ -821,7 +821,7 @@ Ao testemunharmos de forma tão clara que até mesmo aqueles que decaíram à Vi
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年9月3日 | **Fonte:** -
 **Título Original:** 人間は想念次第 寸評（光25号） 白光生 | **Status:** Published | **Edição/Página:** 25号, 25号 | **Data ISO:** 1949-09-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Afinidade entre o Pensamento e o Destino
 
@@ -837,7 +837,7 @@ Nesse sentido, um adágio dos ensinamentos da Oomoto-kyo expressa esta verdade c
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 日本人と精神病 自観叢書10編 | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## A Enfermidade Mental e sua Origem Espiritual
 
@@ -885,7 +885,7 @@ Para concluir, apresentarei o método para a solução fundamental do problema. 
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 入信以後 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.14 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## A Senda para o Mistério Divino
 
@@ -903,7 +903,7 @@ Nesse sentido, movido pela convicção de que para desvendar os mistérios era i
 
 **Categoria:** ni | **Ano:** 昭和10(1935)年7月25日 | **Fonte:** Hikari明世界
 **Título Original:** 日本医学の建設 （三） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1935-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## Afecções Cerebrais
 
@@ -941,7 +941,7 @@ Ademais, não são poucos os pacientes cujos quadros, embora não fossem graves,
 
 **Categoria:** ni | **Ano:** 昭和11(1936)年5月15日 | **Fonte:** Asu no Ijutsu・新日本医術としての岡田式療病法
 **Título Original:** 日本式医術 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1936-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術・新日本医術としての岡田式療病法
 
 ## A Primazia do Espírito na Arte da Cura
 
@@ -965,7 +965,7 @@ Por este motivo, a arte médica destinada a salvar toda a humanidade deve ser, n
 
 **Categoria:** ni | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 人形医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Medicina que Trata o Ser Humano como Objeto
 
@@ -1007,7 +1007,7 @@ Como já expliquei anteriormente, a doença nada mais é do que a solidificaçã
 
 **Categoria:** ni | **Ano:** 昭和26(1951)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 日本人種の霊的考察（中） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1951-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Perspectiva Espiritual sobre a História do Povo Japonês
 
@@ -1043,7 +1043,7 @@ Quanto às outras religiões, como a Konkokyo, a Myoreikyo e a Kurozumikyo, não
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年1月1日 | **Fonte:** -
 **Título Original:** 日本文化の特異性 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1950-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Missão Singular da Cultura Japonesa
 
@@ -1071,7 +1071,7 @@ Atualmente, a humanidade anseia pela paz e teme a guerra com uma intensidade jam
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 乳幼児の健康 自観叢書10編 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## A Verdadeira Causa da Fragilidade Infantil
 
@@ -1099,7 +1099,7 @@ Ademais, minha experiência demonstra que a aplicação excessiva de injeções 
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年11月20日 | **Fonte:** 世界Kyusei教早わかり
 **Título Original:** 人間 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-11-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 世界救世教早わかり
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 世界救世教早わかり
 
 ## A Verdade sobre a Existência Humana
 
@@ -1147,7 +1147,7 @@ Já que recebemos a graça de nascer como seres humanos, como poderíamos nos ex
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年5月27日 | **Fonte:** Eikou
 **Título Original:** 日本一米作に就いて | **Status:** Published | **Edição/Página:** 210号 | **Data ISO:** 1953-05-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Superioridade da Agricultura Natural
 
@@ -1165,7 +1165,7 @@ Sua força reside no fato de a colheita aumentar ano após ano. Para ilustrar, n
 
 **Categoria:** ni | **Ano:** 昭和29(1954)年1月1日 | **Fonte:** Eikou
 **Título Original:** 日本の誇り | **Status:** Published | **Edição/Página:** 241号 | **Data ISO:** 1954-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Incomparável Orgulho do Japão
 
@@ -1183,7 +1183,7 @@ Sendo assim, é inevitável que esta verdade venha a ser compreendida por todos.
 
 **Categoria:** ni | **Ano:** 昭和26(1951)年3月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 日本人種の霊的考察 （上） | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1951-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Uma Análise Espiritual sobre o Povo Japonês (Parte I)
 
@@ -1231,7 +1231,7 @@ Mudando de assunto, a vinda de Ninigi-no-Mikoto (瓊瓊杵尊) ao Japão parece 
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 日本の誇り 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## Um Milagre que Enaltece o Japão
 
@@ -1245,7 +1245,7 @@ Um milagre de cura de tal magnitude é, naturalmente, um feito sem precedentes n
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年11月25日 | **Fonte:** Eikou
 **Título Original:** 日展を観て | **Status:** Published | **Edição/Página:** 236号 | **Data ISO:** 1953-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Reflexões sobre a Exposição Nitten
 
@@ -1275,7 +1275,7 @@ Exponho aqui, simplesmente, as ideias que me ocorreram.
 
 **Categoria:** ni | **Ano:** 昭和10(1935)年8月16日 | **Fonte:** Toho no Hikari
 **Título Original:** 日本医術に依る健康法の提唱 （三） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1935-08-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## Os Princípios da Alimentação Saudável
 
@@ -1301,7 +1301,7 @@ Analisando os alimentos de origem vegetal, os cereais são Yin, e as hortaliças
 
 **Categoria:** ni | **Ano:** 昭和23(1948)年 | **Fonte:** Chijo Tengoku
 **Título Original:** 二十一世紀 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1948
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Século XXI
 *Manuscrito inacabado, redigido em 1948.*
@@ -1408,7 +1408,7 @@ A estrutura econômica se divide em duas categorias. A primeira é composta por 
 
 **Categoria:** ni | **Ano:** 昭和21(1946)年 | **Fonte:** 日本浄化療法普及会主旨及会則
 **Título Original:** 日本浄化療法普及会主旨及会則 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1946
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 日本浄化療法普及会主旨及会則
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本浄化療法普及会主旨及会則
 
 ## Propósito e Estatuto da Associação para a Divulgação da Terapia Johrei do Japão
 
@@ -1509,7 +1509,7 @@ Os nomes dos Consultores e dos membros da Secretaria serão anunciados em breve.
 
 **Categoria:** ni | **Ano:** 昭和27(1952)年6月4日 | **Fonte:** Eikou
 **Título Original:** 日本は文明か野蛮か | **Status:** Published | **Edição/Página:** 159号 | **Data ISO:** 1952-06-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Japão é Civilizado ou Bárbaro?
 
@@ -1535,7 +1535,7 @@ Como primeiro passo, estamos apontando e expondo os inúmeros equívocos ocultos
 
 **Categoria:** ni | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第一編
 **Título Original:** 乳幼児の死亡率問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第一編
 
 ## A Questão da Mortalidade Infantil
 
@@ -1656,7 +1656,7 @@ O Criador gerou a humanidade nesta Terra para que ela prosperasse eternamente. S
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 日本脳炎は果して蚊の媒介か 自観叢書10編 | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## A Verdadeira Causa da Encefalite Japonesa
 
@@ -1684,7 +1684,7 @@ Pelo exposto, torna-se evidente que a encefalite japonesa não possui qualquer r
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
 **Título Original:** 日本再建の指針 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Diretrizes para a Reconstrução do Japão
 
@@ -1716,7 +1716,7 @@ Creio que, com esta explanação, a essência do meu pensamento foi compreendida
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年2月11日 | **Fonte:** Eikou
 **Título Original:** 日本は文化の組立工場 | **Status:** Published | **Edição/Página:** 195号 | **Data ISO:** 1953-02-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Japão: A Oficina de Montagem da Cultura
 
@@ -1744,7 +1744,7 @@ Por fim, gostaria de acrescentar mais uma observação. Existem nações que, po
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 二十年間のリョウマチ簡単に治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura Definitiva do Reumatismo
 
@@ -1760,7 +1760,7 @@ Nesse sentido, o caso desta senhora é emblemático: após permanecer em um esta
 
 **Categoria:** ni | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 人間と病気 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Missão Divina da Doença
 
@@ -1788,7 +1788,7 @@ Com base no que foi apresentado, compreende-se que a doença é, em verdade, a m
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年9月2日 | **Fonte:** Eikou
 **Título Original:** 日本の危機 | **Status:** Published | **Edição/Página:** 224号 | **Data ISO:** 1953-09-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Caminho para a Salvação do Japão
 
@@ -1810,7 +1810,7 @@ Essa superstição médica não só é a causa de dificuldades financeiras e da 
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 入信の動機 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.10 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## A Gênese de Minha Missão
 
@@ -1838,7 +1838,7 @@ Este era um momento de suma importância. Uma decisão monumental precisava ser 
 
 **Categoria:** ni | **Ano:** 昭和22(1947)年7月1日 | **Fonte:** 日本観音教団講習要項
 **Título Original:** 日本観音教団講習要項 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1947-07-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 日本観音教団講習要項
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本観音教団講習要項
 
 ## Manual dos Seminários da Igreja Kannon do Japão
 
@@ -1892,7 +1892,7 @@ Este manual entra em vigor a partir de 1º de julho de 1947.
 
 **Categoria:** ni | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
 **Título Original:** 憎まれる勿れ | **Status:** Published | **Edição/Página:** 113号 | **Data ISO:** 1951-07-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Sabedoria de Não Despertar Inimizades
 
@@ -1910,7 +1910,7 @@ Portanto, como sempre afirmo, a sentença "Ó tolo, teu nome é malfeitor" revel
 
 **Categoria:** ni | **Ano:** 昭和10(1935)年6月 | **Fonte:** Toho no Hikari
 **Título Original:** 日本式健康法の提唱 （二） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1935-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## Sobre a Dieta e a Nutrição
 
@@ -1938,7 +1938,7 @@ Se esta nova dieta que proponho for amplamente adotada, representará também um
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
 **Título Original:** 日本観音教団教義 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Plano Divino para a Salvação da Humanidade
 
@@ -1954,7 +1954,7 @@ Cremos que o Mestre Okada Jikan, orientador de nossa Igreja, é um homem de gran
 
 **Categoria:** ni | **Ano:** 昭和10(1935)年4月8日 | **Fonte:** Toho no Hikari
 **Título Original:** 日本式健康法の提唱 （一） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1935-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## A Proposição de um Método de Saúde Japonês (I)
 
@@ -1984,7 +1984,7 @@ A seguir, abordarei cada um desses tópicos em detalhe.
 
 **Categoria:** ni | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 人間と動物との関係 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Relação entre o Ser Humano e os Animais
 
@@ -2004,7 +2004,7 @@ Portanto, a causa do daltonismo reside na reencarnação ou na possessão por um
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
 **Título Original:** 日本の議員 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Decadência da Classe Política
 
@@ -2030,7 +2030,7 @@ Por fim, gostaria de acrescentar uma palavra sobre a educação religiosa. A exc
 
 **Categoria:** ni | **Ano:** 昭和28(1953)年4月8日 | **Fonte:** Eikou
 **Título Original:** 日本は木の国 | **Status:** Published | **Edição/Página:** 203号 | **Data ISO:** 1953-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Japão, a Nação da Madeira e do Espírito
 
@@ -2048,7 +2048,7 @@ Haveria ainda muitos outros exemplos, mas os que apresentei devem ser suficiente
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 人間は健康の器 自観叢書10編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## O Ser Humano, um Receptáculo de Saúde
 
@@ -2074,7 +2074,7 @@ Até aqui, esbocei em linhas gerais os equívocos antinaturais relacionados aos 
 
 **Categoria:** ni | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 乳幼児及び小児病 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## As Enfermidades da Infância e da Criança
 
@@ -2112,7 +2112,7 @@ Permitam-me citar um exemplo. Uma criança de uns dez anos não conseguia apoiar
 
 **Categoria:** ni | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
 **Título Original:** 日本医学の建設 （二） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-05-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Gênese das Doenças Gástricas
 
@@ -2142,7 +2142,7 @@ Para dissolver o acúmulo de pus aquoso, a aplicação de eletroterapia parece a
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年11月26日 | **Fonte:** -
 **Título Original:** 人形医学 ・医学談片集 | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1949-11-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Medicina de Marionetes e a Verdadeira Medicina do Ser Humano
 
@@ -2160,7 +2160,7 @@ Isto, em sua mais pura expressão, é a autêntica medicina do ser humano.
 
 **Categoria:** ni | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 日本人の優秀性 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Excelência do Povo Japonês
 
@@ -2192,7 +2192,7 @@ Este fato geológico, a meu ver, converge de maneira perfeita com a verdade de q
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 日本人と精神病 | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Doença Mental e o Povo Japonês
 
@@ -2242,7 +2242,7 @@ Resta esclarecer a natureza da rigidez. Sua essência, como é sabido, é o *yak
 
 **Categoria:** ni | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
 **Título Original:** 乳幼児の死亡率問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第一編
 
 ## A Questão da Mortalidade Infantil e Sua Verdadeira Causa
 
@@ -2366,7 +2366,7 @@ O Criador gerou a humanidade sobre a Terra para que ela se multiplicasse eternam
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 入信以前の私 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.6 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## Minha Concepção Anterior à Fé
 
@@ -2394,7 +2394,7 @@ As pessoas ao meu redor, porém, diziam que era inútil ajudar alguém com tuber
 
 **Categoria:** ni | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 人間の賢愚 | **Status:** Published | **Edição/Página:** P.104 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## As Origens da Sabedoria e da Insensatez Humana
 
@@ -2432,7 +2432,7 @@ Outros medos, como a fobia de água, de altura, de multidões ou de certos anima
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年11月26日 | **Fonte:** -
 **Título Original:** 人間を愚にするな | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1949-11-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Uma Advertência aos que Julgam sem Conhecer
 
@@ -2454,7 +2454,7 @@ Pelas razões expostas, o que nós vos pedimos é que removam os óculos escuros
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年5月31日 | **Fonte:** -
 **Título Original:** 日本人の泣寝入癖 | **Status:** Published | **Edição/Página:** 11号 | **Data ISO:** 1949-05-31
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Propensão Japonesa à Submissão Resignada
 
@@ -2470,7 +2470,7 @@ Em nações como os Estados Unidos, todavia, o cenário é distinto. Relata-se q
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年12月17日 | **Fonte:** -
 **Título Original:** 日本人と宗教心 | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1949-12-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Devoção Religiosa como Alicerce Nacional
 
@@ -2486,7 +2486,7 @@ Conforme evidencia a declaração do presidente Truman, o fato de os Estados Uni
 
 **Categoria:** ni | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
 **Título Original:** 人間の価値は正義感 | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Senso de Justiça como Medida do Valor Humano
 
@@ -2512,7 +2512,7 @@ Todas essas experiências me provam que, no mundo que conhecemos até agora, dom
 
 **Categoria:** ma | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
 **Título Original:** 慢性頭痛持 | **Status:** Published | **Edição/Página:** P.85 | **Data ISO:** 1953-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** アメリカを救う
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** アメリカを救う
 
 ## A Dor de Cabeça Sob a Ótica da Purificação
 
@@ -2526,7 +2526,7 @@ Nesse sentido, a dor é o próprio processo de cura. Portanto, se a pessoa simpl
 
 **Categoria:** ni | **Ano:** 昭和11(1936)年 | **Fonte:** 人間の造り主
 **Título Original:** 人間の造り主 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Criador do Ser Humano
 
@@ -2542,7 +2542,7 @@ Ora, se o ser humano detém em si o poder sublime de criar o corpo físico, não
 
 **Categoria:** ni | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
 **Título Original:** 入信後の神懸り 自観叢書第4篇 | **Status:** Unknown | **Edição/Página:** P.15 | **Data ISO:** 1949-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 奇蹟物語
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 奇蹟物語
 
 ## A Experiência de Canalização Divina Pós-Iniciação
 
@@ -2584,7 +2584,7 @@ Através dessa experiência, compreendi a magnitude da missão para a qual nasci
 
 **Categoria:** ma | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 誠 | **Status:** Published | **Edição/Página:** P.1 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## Sobre a Sinceridade
 
@@ -2604,7 +2604,7 @@ Oh, Sinceridade! Quão sublime é a Sinceridade! Humanidade, compreendei: a úni
 
 **Categoria:** ma | **Ano:** 昭和26(1951)年7月4日 | **Fonte:** Eikou
 **Título Original:** 慢心取り違い | **Status:** Published | **Edição/Página:** 111号 | **Data ISO:** 1951-07-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre o Orgulho e a Deturpação da Fé
 
@@ -2624,7 +2624,7 @@ Discorri sobre esses dois pontos cruciais. Aquele que for capaz de compreendê-l
 
 **Categoria:** ma | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 間違い信仰 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.59 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## Os Perigos da Devoção Equivocada
 
@@ -2646,7 +2646,7 @@ Os exemplos supracitados demonstram que a ideia de que basta orar a qualquer div
 
 **Categoria:** ma | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
 **Título Original:** マッカーサー元帥 | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Propósito da Demissão do General MacArthur
 
@@ -2668,7 +2668,7 @@ Portanto, em memória do legado deixado pelo General, desejo ardentemente que os
 
 **Categoria:** ma | **Ano:** 昭和9(1934)年10月 | **Fonte:** 松風
 **Título Original:** 又々お詫び | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1934-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 松風
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 松風
 
 ## Um Novo Esclarecimento aos Leitores
 
@@ -2682,7 +2682,7 @@ No que concerne ao futuro, não me é possível, no momento, fazer quaisquer pre
 
 **Categoria:** ma | **Ano:** 昭和25(1950)年4月8日 | **Fonte:** Kyusei
 **Título Original:** 又しても奇蹟 | **Status:** Published | **Edição/Página:** 57号 | **Data ISO:** 1950-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Mistério dos Números
 
@@ -2698,7 +2698,7 @@ Com efeito, os fiéis estão bem cientes de que a atuação dos números é um a
 
 **Categoria:** ma | **Ano:** 昭和28(1953)年3月18日 | **Fonte:** Eikou
 **Título Original:** 満足と不満 | **Status:** Published | **Edição/Página:** 200号 | **Data ISO:** 1953-03-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Satisfação e Insatisfação
 
@@ -2720,7 +2720,7 @@ Nesse cenário, conclui-se que nem a satisfação plena nem a insatisfação con
 
 **Categoria:** ma | **Ano:** 昭和7(1932)年11月 | **Fonte:** 松風
 **Título Original:** まけをしみ ・巻頭言 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1932-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 松風
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 松風
 
 ## A Glória da Última Posição
 
@@ -2738,7 +2738,7 @@ Afirmo, pois, que cada poema, ainda que único, é uma joia cintilante, fruto de
 
 **Categoria:** ma | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
 **Título Original:** 慢性気管支炎 | **Status:** Published | **Edição/Página:** P.123 | **Data ISO:** 1953-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** アメリカを救う
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** アメリカを救う
 
 ## A Causa da Bronquite Crônica
 
@@ -2756,7 +2756,7 @@ Portanto, também esta é uma doença que, se entregue ao seu curso natural, inv
 
 **Categoria:** ma | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
 **Título Original:** 十二、万病一元論 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 日本医術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本医術講義録
 
 ## A Teoria da Origem Única de Todas as Doenças
 
@@ -2778,7 +2778,7 @@ O exposto demonstra o quão temíveis são os medicamentos. Com efeito, quando o
 
 **Categoria:** ma | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 蒔絵 ･日本美術とその将来（3） 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.65 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## A Arte do Maki-e e o Gênio Japonês
 
@@ -2800,7 +2800,7 @@ Neste ponto, é imperativo fazer uma menção especial a Hakusan Shosai (白山�
 
 **Categoria:** ma | **Ano:** 昭和25(1950)年1月28日 | **Fonte:** -
 **Título Original:** 誠の有る無し | **Status:** Published | **Edição/Página:** 47号 | **Data ISO:** 1950-01-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Discernimento da Sinceridade
 
@@ -2820,7 +2820,7 @@ Portanto, para aquele que é fiel a Deus, a observância rigorosa dos compromiss
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 結核患者の告白 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Depoimento de um Tuberculoso
 
@@ -2836,7 +2836,7 @@ Nesse sentido, tal relato nos permite aquilatar a monumental tarefa que represen
 
 **Categoria:** ke | **Ano:** 昭和11(1936)年6月15日 | **Fonte:** Kenko
 **Título Original:** 結核撲滅の大方策と健康日本の建設 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1936-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
 
 ## Uma Estratégia Abrangente para a Erradicação da Tuberculose e a Construção de um Japão Saudável
 
@@ -2922,7 +2922,7 @@ Ademais, mesmo que se obtenha uma melhora temporária ao expulsar o espírito ma
 
 **Categoria:** ke | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 健康の真理 自観叢書10編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## O Princípio Divino da Saúde
 
@@ -2956,7 +2956,7 @@ Se o corpo humano é, de fato, essa grandiosa obra-prima de Deus, devemos nos qu
 
 **Categoria:** ke | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
 **Título Original:** 顕微鏡検査 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核の正体
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核の正体
 
 ## A Verdadeira Natureza da Tuberculose
 
@@ -2986,7 +2986,7 @@ Nesse sentido, enquanto não se apresentar a prova concreta de que, em comparaç
 
 **Categoria:** ke | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 結核は治りいい病気 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Tuberculose é uma Doença de Fácil Cura
 
@@ -2997,30 +2997,6 @@ Atualmente, até mesmo um resfriado comum, quando se torna um pouco mais persist
 Se esse indivíduo tivesse insistido nos tratamentos médicos, sua condição teria se agravado gradualmente, e nem se pode imaginar qual seria seu estado nos dias de hoje. Indubitavelmente, cedo ou tarde, sua partida para o Mundo Espiritual teria sido o desfecho.
 
 É profundamente lastimável que, existindo o nosso método de Johrei, capaz de curar com tamanha simplicidade, tantas pessoas se tornem vítimas da medicina supersticiosa por não lhes ser concedida a oportunidade de conhecê-lo. A simples reflexão sobre essa realidade me causa calafrios.
-
----
-
-# Uma Análise Filosófica da Medicina Moderna
-
-**Categoria:** ke | **Ano:** 昭和27(1952)年6月18日 | **Fonte:** Eikou
-**Título Original:** 現代医学に対する哲学的考察 | **Status:** Published | **Edição/Página:** 161号 | **Data ISO:** 1952-06-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Uma Análise Filosófica da Medicina Moderna
-
-Tenho constantemente apontado os equívocos da medicina moderna, mas gostaria, nesta ocasião, de tecer uma crítica sob uma perspectiva puramente filosófica, isenta de preceitos científicos ou religiosos. Para tanto, comecemos pela essência do ser humano. Desde o seu nascimento, o homem alimenta-se do leite materno, progride para alimentos sólidos conforme cresce e, com as bênçãos do ar, da água e do sol, atinge a maturidade. É notório que, então, passa a manifestar as aptidões e habilidades inerentes à sua natureza, tornando-se um membro da estrutura social. Contudo, poucos o fazem de maneira consciente; a maioria assume seus papéis de forma quase instintiva.
-
-Ao refletirmos sobre essa realidade, torna-se inevitável a impressão de que somos compelidos a seguir ordens de algo invisível, a que obedecemos de modo definitivo. A isso, damos o nome de destino. Todavia, poucos se contentam com seu destino; a maioria sente-se insatisfeita e busca rebelar-se contra ele. O destino, porém, é uma força deveras irônica: quanto mais se luta contra ele, mais se sofre seus reveses e infortúnios. Uma observação atenta revela que a submissão ao destino, ao contrário, tende a conduzir à felicidade. Aprofundando a reflexão sobre o tema, torna-se impossível não concluir que alguém detém as rédeas desse destino, manipulando-o com total liberdade. Esse alguém só pode ser o regente deste mundo, ou seja, o Ser Absoluto, em cuja existência é preciso crer.
-
-Todavia, além do referido Ser Absoluto, existe outro elemento, de mais fácil compreensão, que igualmente rege o destino humano: a doença. A doença é um grande algoz, uma presença tirânica que incessantemente abala a vida, que é única e insubstituível. Assim, fica claro que as chaves do destino estão nas mãos do Ser Absoluto – Deus – e também da doença. Não por acaso, há tempos existe a expressão "deus da doença", o que denota a profunda conexão entre ambos. Nesse sentido, se fôssemos capazes de subjugar a doença, teríamos solucionado metade do destino humano. Mas existiria no mundo uma força capaz de tal feito? Evidentemente, até o presente momento, ela não existia. Contudo, em pleno século XX, ela surgiu, o que representa um acontecimento de magna importância. Refiro-me, como é notório, ao nascimento de nossa Igreja Messiânica. A chave para essa ventura está, com toda a certeza, em posse de nossa fé. Portanto, à medida que nossos ensinamentos se difundirem pelo mundo, o número de doentes diminuirá gradualmente e, como resultado, será natural que a longevidade humana ultrapasse os cem anos.
-
-No entanto, ao observarmos a realidade atual, atribui-se o aumento da expectativa de vida para sessenta ou setenta anos ao progresso da medicina. Trata-se de uma visão extremamente limitada. Afinal, há mais de dois milênios, em uma época desprovida de medicina, os registros históricos indicam que a longevidade superior a cem anos era, ao que parece, comum. Naquela era, não existiam quaisquer medicamentos, fato que, para o homem contemporâneo, deve parecer absolutamente incompreensível.
-
-Refletindo sobre o exposto, se a medicina, fundada pelo "pai da medicina", Hipócrates, há mais de dois milênios, chegou a este ponto apesar de todo o seu suposto avanço, é inegável que deve haver um erro fundamental em suas premissas. Nem seria preciso argumentar exaustivamente sobre isso. Ademais, ao observarmos a alarmante realidade atual, com o número de doenças aumentando a cada ano e a ameaça das epidemias se intensificando, percebemos uma gravidade incomparavelmente maior que a dos tempos antigos. Ainda assim, a ilusão da confiança na medicina está longe de se dissipar; pelo contrário, as pessoas seguem avançando às cegas nesse caminho. Faltam palavras para qualificar tamanha ignorância. Por essa razão, consolidou-se a ideia de que as doenças não se curam facilmente e que, por mais que a ciência médica avance, a solução para elas permanece distante. Paradoxalmente, crê-se de maneira vaga que a insistência nesse mesmo progresso trará a solução. Até mesmo os especialistas, compartilhando dessa crença, dedicam-se com afinco à pesquisa e ao desenvolvimento, lançando sucessivamente novos fármacos e terapias. Contudo, como o fundamento de sua abordagem é equivocado, os efeitos são invariavelmente temporários, e os exemplos de tratamentos que se revelam ineficazes com o tempo nos são apresentados com uma frequência desalentadora.
-
-Por conseguinte, mesmo entre os especialistas, aqueles de mente mais aberta já nutrem dúvidas quanto ao progresso da medicina. Ao conhecerem nosso método de purificação espiritual, muitos chegam a cogitar uma mudança de rumo. No entanto, o prestígio de seus títulos, somado à insegurança financeira, parece impedi-los de tomar uma decisão definitiva.
-
-É para salvar este mundo cego e trágico que o Deus Supremo, por meio de nossa Igreja Messiânica, está revelando a toda a humanidade a verdade sobre a medicina.
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年3月13日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Ensinamentos em Diálogo
 
@@ -119,7 +119,7 @@ Sobre isso, ainda não posso falar com clareza. Quando chegar o momento certo, t
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月25日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre Causas Espirituais e Físicas
 
@@ -175,7 +175,7 @@ Nos relatos de graça, é comum encontrar a frase: "Fiz tudo o que as pessoas di
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos sobre a Fé e a Vida
 
@@ -315,7 +315,7 @@ A salvação que eu trago agora, entretanto, é a luz do Sol, que é sessenta ve
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年5月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Sobre o Matrimônio, a Justiça Divina e a Salvação
 
@@ -389,7 +389,7 @@ O melhor é aguardar o tempo certo. Não é o ser humano que faz o outro compree
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年2月8日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年1月28日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-02-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Diálogos sobre Matrimônio, Fé e os Mistérios da Vida
 
@@ -540,7 +540,7 @@ Em suma, o sumo sacerdote perguntou se ele era o Filho de Deus. Jesus respondeu:
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1951-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos Divinos
 
@@ -630,7 +630,7 @@ Tal condição se deve ao fato de, em uma vida pregressa, essa pessoa ter sido u
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年7月10日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年5月3日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1949-07-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Fé e a Vida Cotidiana
 
@@ -748,7 +748,7 @@ Além disso, a vibração não deve ser ampla. O movimento deve ser sutil e ráp
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月7日 | **Fonte:** 会報
 **Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-06-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre a Fé e o Mundo Espiritual
 
@@ -922,7 +922,7 @@ Enterrem-nos em um local onde não sejam pisoteados, entoem a Oração Amatsu-No
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年9月28日） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** - | **Fonte (JP):** 御光話録（補）
+**Coletânea:** - | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Esclarecimentos sobre a Vida e o Mundo Espiritual
 
@@ -1030,7 +1030,7 @@ Certamente. Ela buscará vingança. Quando encontro uma serpente, peço que a ma
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年5月25日 | **Fonte:** 会報
 **Título Original:** 無碍光 直心分会 | **Status:** Published | **Edição/Página:** ４号 | **Data ISO:** 1949-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre Diversas Questões da Fé
 
@@ -1088,7 +1088,7 @@ R: Mesmo após a consagração principal, o altar de Inari deveria ter sido mant
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月18日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Orientações sobre Purificação e Causas Espirituais
 
@@ -1204,7 +1204,7 @@ Os antepassados desejavam ser cultuados e também fizeram esse pedido. O fluxo d
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S25年4月28日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Respostas às Indagações da Fé
 
@@ -1246,7 +1246,7 @@ Quando falo em condicionamento espiritual, refiro-me à ação do Espírito Prot
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月10日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S26年11月8日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Esclarecimentos Divinos sobre o Bem, o Mal e a Prática da Fé
 
@@ -1636,7 +1636,7 @@ Pode, mas, nesses casos, seria bom entoar também a Oração Amatsu-Norito e o S
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年7月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1953-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Consultas e Orientações Divinas
 
@@ -1755,7 +1755,7 @@ Após dialogarmos longamente com o espírito, explicando-lhe os Ensinamentos da 
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年8月21日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Sobre a Purificação da Febre Tifoide
 
@@ -1795,7 +1795,7 @@ O medicamento solidificou-se nesses locais que doem sob pressão; portanto, bast
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1949-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Perguntas e Respostas
 
@@ -1894,7 +1894,7 @@ R: Antigamente, nos campos de batalha, os exércitos hasteavam estandartes. Se e
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年9月21日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年6月13日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1949-09-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## A Força da Palavra e a Prática da Fé
 
@@ -2045,7 +2045,7 @@ Do ponto de vista do Kototama, o nome Hakone (箱根) se decompõe em: "Ha" (ハ
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月20日 | **Fonte:** 会報
 **Título Original:** 無碍光 直心分会 | **Status:** Published | **Edição/Página:** ５号 | **Data ISO:** 1949-06-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre Diversas Questões
 
@@ -2125,7 +2125,7 @@ Significa “jubiloso”, “louvar”, “exaltar”.
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月27日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre a Purificação e o Mundo Espiritual
 
@@ -2222,7 +2222,7 @@ Essa é a causa. O que ela está sofrendo é uma advertência por sua atitude. S
 
 **Categoria:** situmon | **Ano:** 昭和25(1950)年6月13日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S25年2月18日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Os Eclipses e o Destino Humano
 
@@ -2236,7 +2236,7 @@ Existe, de fato, alguma relação; contudo, ela não possui maior relevância. A
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年4月4日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Prática da Fé
 
@@ -2334,7 +2334,7 @@ Não se trata de uma cura verdadeira. O cigarro estimula a tosse, e é fato que,
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月8日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S23年12月28日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-01-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Fé e a Vida
 
@@ -2450,7 +2450,7 @@ Isso não é uma técnica de cura espiritual, mas uma prática de religiões com
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S24年2月18日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Fé e os Princípios da Vida
 
@@ -2634,7 +2634,7 @@ O sete representa a terra, portanto essa combinação não é correta. O certo n
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年11月15日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Orientações sobre Purificações e Pontos Vitais
 
@@ -2702,7 +2702,7 @@ O que vemos agora é a soma das toxinas originais com as toxinas medicinais. O f
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年4月21日 | **Fonte:** 会報
 **Título Original:** 妙智の鍵 光明分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-04-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Esclarecimentos sobre Questões Diversas
 
@@ -2764,7 +2764,7 @@ Todos os parentes consanguíneos possuem uma ligação espiritual. A exceção o
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月15日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre Enfermidades e a Prática do Johrei
 
@@ -2808,7 +2808,7 @@ Com perseverança, a cura virá gradualmente. Casos como este costumam levar ano
 
 **Categoria:** situmon | **Ano:** 昭和23(1948)年12月 | **Fonte:** 会報
 **Título Original:** 信仰余話 直心分会 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1948-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 会報
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 会報
 
 ## Manifestações do Mundo Espiritual no Cotidiano
 
@@ -2848,7 +2848,7 @@ Já as marcas escuras representam o espírito de ressentimento. Frequentemente, 
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年10月11日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## A Purificação do Yakudoku e a Atuação do Mundo Espiritual
 
@@ -2934,7 +2934,7 @@ Está excelente assim.
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年2月7日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御教え集
 
 ## Esclarecimentos sobre Purificações e Causas Espirituais
 
@@ -2989,7 +2989,7 @@ Dediquem-se de corpo e alma a salvar as pessoas. Acumulem virtude. Agindo assim,
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年1月8日 | **Fonte:** 御Hikari話録
 **Título Original:** 御光話 （S23年12月8日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1949-01-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録
 
 ## Esclarecimentos sobre a Prática da Fé e a Visão da Arte
 
@@ -3101,7 +3101,7 @@ Isso se diz porque Hidari Jingoro era canhoto. Existem canhotos cujo espírito e
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年3月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1951-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Esclarecimentos sobre a Fé e o Espírito
 
@@ -3193,7 +3193,7 @@ O Amuleto Sagrado de nossa Igreja está vivo, e, por isso, exige o máximo de cu
 
 **Categoria:** situmon | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** 御光話 （S23年11月8日A） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御光話録（補）
 
 ## Esclarecimentos sobre a Fé e o Mundo
 
@@ -3293,7 +3293,7 @@ Na arte, a pintura a nanquim é espírito, e a pintura colorida é matéria. A c
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年3月1日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Orientações sobre a Agricultura Natural e a Transição para a Era do Dia
 

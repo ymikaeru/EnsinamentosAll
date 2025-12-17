@@ -4,7 +4,7 @@
 
 **Categoria:** kikou | **Ano:** 昭和29(1954)年12月15日 | **Fonte:** Chijo Tengoku
 **Título Original:** 参考文献 お気軽だった明主様 瓢箪 | **Status:** Published | **Edição/Página:** 65号 | **Data ISO:** 1954-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Despretensão de Meishu-Sama
 

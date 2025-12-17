@@ -1,10 +1,359 @@
 # Mioshie_Teachings - Part 29
 
+# A Superioridade do Jyorei Demonstrada pelos Fatos
+
+**Categoria:** o | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
+**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 54号 | **Data ISO:** 1950-03-18
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
+
+## A Superioridade do Jyorei Demonstrada pelos Fatos
+
+**De cego a vidente: a gratidão pela cura de uma doença complexa**
+*Kikuchi Fumi (25 anos) – Igreja Aiwa, Província de Iwate*
+
+Afligida por uma enfermidade ocular dos oito aos vinte e quatro anos, tornei-me uma pessoa incapaz de caminhar desacompanhada. Submeti-me, naturalmente, a internações, cirurgias e até mesmo injeções intraoculares, mas, para meu desespero, quanto mais tratamentos realizava, mais minha visão se deteriorava. Eu nutria a firme convicção de que, ao procurar assiduamente os médicos, eles certamente restaurariam minha visão; afinal, imaginava que essa fosse a sua missão. A realidade, contudo, mostrou-se diametralmente oposta, e a frustração que senti foi indescritível.
+
+Certa vez, a caminho do hospital, um desconhecido no ônibus indagou-me: "A senhora tem problemas nos olhos, não é mesmo?". Diante da minha resposta afirmativa, ele prosseguiu, com um leve sorriso: "E não percebe que, ao ir ao hospital, sua condição apenas piora? Quanto mais frequenta os médicos, mais sua visão se apaga. Não se deu conta disso? Se continuar assim, ficará completamente cega. Quando isso acontecer, procure o Centro de Difusão de Deus Komyō Nyorai em Fujine. Lá, pelo poder invisível de Deus, pessoas como a senhora e portadores de doenças que a medicina não consegue curar recebem a graça da recuperação quase total. Não deixe de ir".
+
+Naquele momento, porém, o medo me paralisou e não consegui dizer uma palavra sequer. Tive o receio de que, ao confiar na gentileza de um estranho, pudesse ser levada para algum lugar contra a minha vontade. Ignorei, portanto, aquele conselho e continuei a frequentar assiduamente o hospital. Contudo, tal como o homem havia previsto, acabei por perder completamente a visão.
+
+Foi então que, recordando-me vividamente daquelas palavras, pedi à minha irmã que me levasse, guiada por suas mãos, ao Centro de Difusão indicado. Imediatamente, solicitei ao ministro que me ministrasse Jyorei. Ele me aconselhou: "Continue por uma semana". No entanto, não foi preciso esperar tanto. Logo no terceiro dia, já conseguia caminhar sozinha, ainda que de forma vacilante. Entreguei-me por completo a Deus Komyō Nyorai, seguindo fielmente as orientações que recebia.
+
+Conforme os esclarecimentos do ministro, ao recebermos a Medalha da Luz Divina, qualquer sofrimento ou doença, por mais grave que seja, é sanado em curto espaço de tempo. Enfermidades como pneumonia aguda, apendicite em estágio avançado, ou mesmo encefalite japonesa e equina, podem ser curadas em aproximadamente uma semana, com cem por cento de eficácia e sem margem para preocupações. Ademais, ele me explicou que, ao passar pelo devido aprimoramento, eu mesma poderia realizar essa prática. Bastaria estender a mão sobre a área afetada do enfermo. Ao purificar as máculas do corpo do próximo por meio do Jyorei, seu sofrimento é eliminado de forma definitiva, sem qualquer possibilidade de reincidência. Ouvindo tais palavras, recebi imediatamente a Medalha da Luz Divina.
+
+Desde então, passei a caminhar com total liberdade e, movida por imensa gratidão, entronizei a imagem de Deus Komyō Nyorai em meu lar. Atualmente, tenho a permissão de servir no Centro de Difusão Aiwa-kai de Yokote, onde testemunho, com assombro, a cura de inúmeros enfermos em estado grave, desenganados pela medicina. Além de tudo isso, como poderia eu negar o fato de que meus próprios olhos, que me afligiram por dezessete anos com sofrimento e angústia, agora podem ver? Teorias que não se comprovam na prática, a meu ver, não passam de charlatanismo e superstição.
+
+A todos que não se apegam a teorias em detrimento da realidade, apresento os inúmeros relatos de pessoas que, salvas pelo poder de Deus Komyō Nyorai, transbordam de alegria. E àqueles que desejam se libertar de seus sofrimentos o mais rápido possível, recomendo de todo o coração que acreditem na realidade dos fatos e se tornem fiéis do Deus invisível, Komyō Nyorai.
+
+Este relato não apenas demonstra a ineficácia da medicina moderna, mas também evidencia uma terrível realidade: quanto mais se recorre a tratamentos médicos, mais o quadro se agrava. O que isso nos revela? Não nutrimos qualquer ressentimento contra a medicina; ao contrário, criticá-la é para nós uma tarefa penosa, e seria imensamente mais gratificante poder elogiá-la. Todavia, os fatos são inexoráveis e não podem ser distorcidos. O número de vítimas da medicina em nossa sociedade é incalculável. Diante daqueles que, desconhecendo essa verdade, depositam nela uma fé cega e se tornam seus mártires, é impossível conter as lágrimas.
+
+Por outro lado, ao recebermos os relatos repletos de gratidão e alegria pela cura de enfermidades complexas, somos tomados por uma emoção oposta, e lágrimas de felicidade se tornam igualmente inevitáveis.
+
+***
+
+## O Perigo dos Antitussígenos e o Yakudoku em Pomadas
+
+**Agravamento por antitussígenos; o yakudoku também presente em medicamentos de uso tópico**
+*Nishizaki Kiyoko (46 anos) – Igreja Shinko, Província de Okayama*
+
+Em janeiro do ano passado, no dia onze, minha filha mais velha, Fumiko, de sete anos, contraiu um resfriado que evoluiu para febre e uma tosse severa. Procuramos imediatamente um médico e ela recebeu injeções diárias, mas a tosse não cedia. Pelo contrário, tornou-se tão intensa, semelhante à coqueluche, que a impedia de dormir, causando-nos grande aflição. Vendo que o tratamento não surtia efeito, recorri a medicamentos de farmácia, mas também foram inúteis. Durante meses, apliquei-lhe compressas no pescoço, que permanecia constantemente enfaixado. As noites eram de vigília, pois a tosse da criança não nos deixava dormir, e eu, já de saúde frágil, acabava chorando junto com ela.
+
+No final de março, recebemos a visita do ministro Funabashi, vindo de Nagoia, que nos agraciou com os valiosos ensinamentos sobre Deus Komyō Nyorai e ministrou Jyorei à minha filha. Na semana seguinte, ela passou a expelir uma quantidade impressionante de escarro, chegando a encher metade de uma bacia todos os dias. Embora a profusão da secreção me tenha preocupado, a partir da segunda semana o volume diminuiu consideravelmente. Na terceira semana, a quantidade expelida era mínima, do tamanho de uma pequena moeda e, ao completar um mês, a tosse havia desaparecido por completo, e ela estava totalmente curada. O ministro Funabashi nos esclareceu: "A tosse não melhorava justamente porque vocês tentavam suprimi-la com remédios. A tosse é um mecanismo de bombeamento para expelir o escarro. Uma vez que toda a secreção é eliminada, a tosse cessa naturalmente". Compreendi então a lógica e fiquei profundamente admirada.
+
+Além disso, meu outro filho, desde pequeno, sofria com erupções cutâneas. Levei-o ao médico por cerca de cinquenta dias, sem qualquer melhora, e acabei por desistir do tratamento. As feridas chegaram a aparecer até mesmo dentro de seus ouvidos. O ministro Funabashi explicou que isso era consequência do uso de "akachin" (mercurocromo). A partir de então, abandonei o uso de tal substância. Agora, quando ele se machuca, apenas aplico um pedaço de papel fixado com um grão de arroz e ministro Jyorei. Em uma semana, o ferimento cicatriza completamente, sem deixar vestígio. Já se passou um ano desde que começamos a receber Jyorei, e as erupções, que antes eram tão frequentes, desapareceram por completo, para o espanto de toda a vizinhança.
+
+Gostaria de relatar outra graça, que não se refere a uma doença. Meu cunhado, irmão mais novo de meu esposo, foi convocado para o exército na Manchúria e enviado para a Sibéria, de onde não tivemos mais notícias. Todos na família já o consideravam morto. Contudo, sem qualquer aviso prévio, no mês passado, ele simplesmente retornou para casa. Fomos todos às lágrimas, tomados por uma imensa alegria. Como meu cunhado tem dois filhos, de dez e sete anos, caso ele tivesse falecido, a responsabilidade de criá-los recairia sobre meu marido. Por isso, a felicidade de meu esposo foi indescritível. Atribuímos este milagre inteiramente à proteção de Deus Komyō Nyorai e somos profundamente gratos. Ao completar um ano de fé, expresso minha mais sincera gratidão pelas inúmeras graças que recebemos.
+
+Tal como afirmou o ministro Funabashi, a tosse não sarava porque se tentava suprimi-la com medicamentos, uma terapia diametralmente oposta ao processo de cura. A recuperação total, alcançada somente após a expulsão de uma grande quantidade de escarro, elucida de forma inequívoca este princípio. As pessoas, em sua ignorância, esforçam-se ao máximo para deter a tosse; em outras palavras, empenham-se em impedir a própria cura. É certo que, se os antitussígenos desaparecessem do mundo, a incidência de doenças relacionadas à tosse diminuiria drasticamente. É caso para se exclamar: "Ó, tolos! Vosso nome é homem moderno!".
+
+No que tange ao segundo caso, as erupções cutâneas da criança não cederam após cinquenta dias de tratamento médico. O ministro Funabashi atribuiu a causa ao mercurocromo. Ao suspender seu uso e aplicar apenas papel com um grão de arroz, a cura foi alcançada em pouco tempo. Este fato demonstra que o yakudoku está presente tanto em medicamentos de uso interno quanto nos de aplicação tópica.
+
+***
+
+## Vinte e Quatro Anos de Escuridão Desfeitos pela Luz
+
+**Cura ao abandonar os tratamentos; o acúmulo de sangue antigo como origem da doença**
+*Ito Shima (55 anos) – Igreja Sanko, Província de Mie*
+
+Após longos vinte e quatro anos sofrendo de uma enfermidade ocular, período no qual cheguei a perder a visão e a cogitar o suicídio, recebi a sublime graça de Deus Komyō Nyorai e pude recomeçar minha vida. É com imensa alegria que relato a oportunidade de desfrutar de um futuro novamente claro e feliz, e expresso minha mais profunda gratidão a Meishu-Sama (明主様) e a todos os ministros.
+
+Tudo começou em 1923, após o nascimento de minha filha mais velha, Shizuko, que hoje tem vinte e sete anos. Eu sofria de mal-estares comuns do pós-parto e, em meados de maio do ano seguinte, meus olhos começaram a lacrimejar e a secretar pus incessantemente. Ao procurar um médico, fui diagnosticada com tracoma e instruída a realizar lavagens oculares diárias, sem falta. Segui a recomendação à risca.
+
+Contudo, meus olhos não apresentavam melhora; pelo contrário, ficaram congestionados, e passei a sentir coceira e dor. Ainda assim, por não conhecer outra alternativa, continuei o tratamento com a tênue esperança de que um dia ficaria curada. Assim se passaram seis meses, um ano, três, cinco... e, sem que eu percebesse, vinte e quatro anos de resignação. A doença, com seus altos e baixos, alimentava em mim uma fagulha de esperança que me fez persistir por todo esse tempo. É, de fato, uma história de uma paciência quase inacreditável. Dizer "vinte e quatro anos" parece simples, mas corresponde ao tempo necessário para que a criança que era um bebê na época crescesse e se tornasse uma mulher casada. Até eu me espanto com minha própria perseverança.
+
+As crises eram piores na primavera e no outono, épocas em que as injeções eram indispensáveis. Costuma-se dizer que os olhos são a janela da alma, e de fato não há nada mais triste do que não poder enxergar. Somente quem já passou por isso pode compreender a angústia e o desespero de ouvir os familiares e vizinhos conversando e rindo de algo que não se pode ver. Eu mesma provei desse sofrimento infernal entre o final de 1944 e o início de 1945. Foi nesse período que a ideia do suicídio me assaltou, e eu já havia me conformado com a perspectiva de uma vida inteira na escuridão.
+
+Foi exatamente nessa época, em 7 de agosto de 1946, que o ministro Goto veio de Owari e, pela primeira vez, me falou sobre as graças prodigiosas de Deus Komyō Nyorai. Comecei a receber Jyorei – que na época era chamado de "tratamento" – e, a princípio, meus olhos lacrimejavam sem parar, dando a impressão de que meu estado havia piorado. Contudo, amparada pela virtude de Meishu-Sama e pelos ensinamentos do ministro, que pacientemente me explicaram a bênção do processo de purificação, pude refletir sobre meu passado. Pensei nos vinte e quatro anos que dediquei a um tratamento médico fundamentado numa esperança vã e cujo resultado foi a beira da cegueira total. Naquele momento, compreendi que as toxinas acumuladas em meu corpo, assim como os pecados e as impurezas que cometi, consciente ou inconscientemente, eram a causa de tudo. Tive, então, uma súbita e profunda revelação.
+
+Em setembro, meu marido recebeu a Medalha da Luz Divina e passou a me ministrar Jyorei continuamente. E então, um milagre: a dor, antes tão obstinada, começou a abrandar, e a secreção diminuiu. A alegria que senti naquele momento é algo que jamais esquecerei em toda a minha vida. Testemunhando com meus próprios olhos o poder de Deus Komyō Nyorai, não pude ficar inerte. Em dezembro, minha filha mais velha recebeu a Medalha; em março do ano seguinte, a mais nova; e em junho, foi a minha vez. Nessa altura, restava apenas uma secreção mínima, e minha visão havia retornado a um estado praticamente normal. Mais de duas décadas de escuridão e umidade, tanto nos olhos quanto na alma, foram dissipadas, dando lugar a um céu límpido e radiante. Em meros dez meses, recebi esta graça extraordinária. Não há palavras que possam expressar minha gratidão.
+
+Em janeiro de 1948, tive a permissão de entronizar a imagem de Deus Komyō Nyorai em meu lar e, desde então, dedico-me a servir, buscando levar ao menos uma parcela ínfima desta mesma graça àqueles que gemem sob o mesmo sofrimento e às pessoas que padecem com doenças. Muito, muito obrigada.
+
+A explicação para o histórico desta paciente é a seguinte: a doença ocular teve início devido ao esforço visual no período pós-parto. Após o nascimento de um filho, parte do sangue antigo permanece no corpo da mulher. Se, nesse período, ela utiliza excessivamente os nervos de uma determinada região, esse sangue estagnado ali se concentra. No caso desta fiel, o sangue acumulou-se no fundo de seus olhos. O processo de purificação natural do corpo tentou expelir essa impureza através de lágrimas e secreção, mas o médico da época diagnosticou erroneamente o quadro como tracoma e injetou yakudoku. Isso foi o que agravou gradualmente sua condição. Falando sem rodeios, se a doença tivesse sido deixada à sua evolução natural, ela teria se curado. Foi um erro médico que a conduziu à beira da cegueira.
+
+---
+
+# A Sobrescelente Terapia Divina
+
+**Categoria:** o | **Ano:** 昭和25(1950)年3月25日 | **Fonte:** Kyusei
+**Título Original:** おかげばなし批判 卓越せる神療法 | **Status:** Published | **Edição/Página:** 55号 | **Data ISO:** 1950-03-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
+
+## A Sobrescelente Terapia Divina
+
+## O Horror do Vício em Injeções
+
+**A Causa de Trinta Anos de Asma**
+**Hide Mōgami (45 anos), Fukushima**
+
+Desde os meus quinze anos, e por um longo período de três décadas, fui atormentada pelo demônio da asma, sem que houvesse um único dia em que eu não dependesse de medicamentos. Dia após dia, minha vida resumia-se a duas palavras: dor e doença. As crises noturnas me privavam do sono, e para realizar as tarefas mais simples, como os afazeres da cozinha, eu precisava de uma injeção. Até mesmo para caminhar até o posto de racionamento, a poucas quadras de distância, eu necessitava de uma dose antes de sair e outra para conseguir retornar ao meu lar. A situação chegou a tal ponto que meus braços se enrijeceram, tornando quase impossível encontrar um local para aplicar a agulha.
+
+Naquela época, meu único e pungente desejo era ter ao menos um dia de alívio, livre do sofrimento e dos remédios. Apesar disso, eu negava a existência de Deus, buscando a salvação exclusivamente na ciência e no poder humano. Esgotei todos os recursos, caindo no mais profundo abismo do pessimismo, convencida de que apenas a morte me aguardava. Foi nesse exato momento que, em setembro do ano passado, fui conduzida à fé e tive a ventura de receber o sagrado Johrei de Nosso Senhor da Luz, além de ser agraciada com o Ohikari.
+
+E então, como se os trinta anos de sofrimento jamais tivessem existido, após apenas o segundo dia recebendo Johrei, abandonei por completo os medicamentos dos quais fora inseparável. Diante da grandiosa graça divina, que transcende qualquer lógica humana, até mesmo eu, uma materialista convicta, não pude fazer outra coisa senão chorar de gratidão perante a realidade dos fatos.
+
+A essa graça somou-se outra, ocorrida no dia festivo da Grande Igreja Goroku-shichi, em 11 de novembro, por volta das onze horas da manhã. Meu filho, Masayuki, de vinte e quatro anos, que trabalhava na manutenção dos trilhos da mina de carvão de Furukawa, teve seu braço prensado sob um vagão carregado, devido a um erro de sinalização. As três camadas de camisa que ele vestia foram desfeitas em farrapos e, embora seu braço, em circunstâncias normais, estivesse destinado a ser amputado, não verteu uma única gota de sangue. Restaram apenas as marcas das rodas e a dor, que foi completamente sanada com uma única sessão de Johrei, permitindo-lhe retomar suas atividades normais.
+
+Diante de tantas graças recebidas por mãe e filho, e em resposta à imensa compaixão de Nosso Senhor da Luz, em fevereiro deste ano consagramos um Altar em nosso lar. É com profunda reverência que relatamos que, juntos, pais e filhos, temos nos dedicado ao serviço divino. Nossa eterna gratidão.
+
+***
+
+Esta é, indubitavelmente, uma experiência assombrosa. Qualquer um que leia este relato dificilmente poderá acreditar em sua veracidade; na verdade, até mesmo nós ficamos estupefatos. Contudo, por se tratar de um fato irrefutável, não nos resta alternativa senão aceitá-lo.
+
+Esta paciente, como é evidente a qualquer observador, havia contraído uma dependência de injeções, análoga ao vício em narcóticos de hoje. Isto demonstra que a terapêutica medicamentosa é meramente paliativa, e não uma cura fundamental. Ademais, a supressão temporária dos sintomas gera um efeito rebote, que por sua vez exige nova supressão, e assim sucessivamente, culminando em um quadro de intoxicação crônica. O sofrimento que se estendeu por trinta longos anos revela quão terríveis podem ser os danos causados pelos remédios.
+
+## A Cura de Graves Queimaduras
+
+**Atenção ao Exsudato Purulento na Área Afetada**
+**Sōichi Ikuta (36 anos), Tottori**
+
+Ao retornar do campo, com o corpo cansado, tomei um banho e me preparava para o jantar quando minha filha mais velha, então com quatro anos, ao tentar subir em um pequeno móvel, apoiou-se em uma porta de correr, que cedeu. Em sua queda, mergulhou a mão esquerda em uma panela com sopa que acabara de ser retirada do fogo. O líquido escaldante espalhou-se, provocando-lhe uma queimadura gravíssima no braço esquerdo, do ombro ao punho, e por uma vasta área do tronco.
+
+A criança gritava de dor como se seu corpo estivesse em chamas. Com a ajuda de minha esposa, removemos rapidamente suas roupas e a erguemos para um local mais seguro. Ao fazê-lo, a pele de suas axilas desprendeu-se e aderiu às minhas mãos. Num impulso inconsciente, minhas mãos já se moviam para ministrar-lhe Johrei. Após pouco mais de cinco minutos, a dor pareceu cessar. Ao perguntar se ainda doía, ela ergueu o rosto banhado em lágrimas e balançou a cabeça negativamente. Foi nesse instante que recobrei a consciência e, com os olhos marejados, senti no fundo da alma a imensa gratidão pelo poder de Nosso Senhor da Luz. O semblante preocupado de toda a família iluminou-se de alívio.
+
+Continuei a ministrar Johrei por cerca de uma hora, e logo começaram a surgir bolhas na pele. Fomos ao Johrei Center e pedimos ao ministro responsável, que prontamente nos atendeu. Embora surpreso com a gravidade das queimaduras, ele nos tranquilizou, afirmando que não havia motivo para preocupação, e também ministrou Johrei em minha filha.
+
+Nos dias seguintes, mantivemos a rotina de Johrei pela manhã, à tarde e à noite. O ministro, mesmo com sua agenda atribulada, encontrava tempo para nos visitar e auxiliar. Na manhã seguinte, as bolhas haviam se rompido e o líquido encharcava as bandagens. Com o passar dos dias, o exsudato transformou-se em pus, que exalava um odor fétido. O cenário era verdadeiramente desolador.
+
+A troca de curativos, uma de manhã e outra à noite, era um processo doloroso, difícil de testemunhar. Com lágrimas nos olhos, procurávamos acalmá-la de todas as formas. Parentes e vizinhos, com a melhor das intenções, sugeriam incessantemente outros tipos de tratamento. Agradecíamos a gentileza, mas nos mantínhamos firmes, apegados unicamente ao poder de Nosso Senhor da Luz, embora, confesso, tenha havido momentos de dúvida e angústia.
+
+O pus formou crostas espessas, e o mau cheiro se intensificava a cada dia, tornando difícil a aproximação. Gradualmente, porém, a pele começou a se regenerar a partir das áreas menos afetadas, no punho e no tronco. Cerca de um mês depois, a maior parte da ferida estava curada.
+
+Mal havíamos respirado aliviados, e um novo infortúnio se abateu sobre nós: nossa filha de dois anos sofreu outra grave queimadura. Aprendendo a andar, ela tropeçou e caiu na lareira, e a água de uma panela pendurada sobre o fogo espirrou, misturando-se às cinzas quentes que cobriram seu rosto como se vestisse uma máscara. A criança chorava desesperadamente. Inicialmente não conseguíamos avaliar a extensão do dano, mas logo a pele avermelhou e surgiram bolhas. Novamente, agradecemos as sugestões dos vizinhos, mas, convictos do poder de Nosso Senhor da Luz que já nos havia protegido uma vez, recorremos ao Johrei. O ministro também nos auxiliou.
+
+Naquela noite, ela alternou entre o choro e o sono. Pela manhã, seu rosto estava irreconhecível. Um dos olhos estava fechado pelo inchaço, seus lábios mal se moviam e ela tinha febre. Passava o dia prostrada, recusando comida e aceitando apenas um pouco de leite. No terceiro dia, ambos os olhos estavam fechados, e uma crosta cobria todo o seu rosto. A boca permanecia imóvel, e uma mistura de saliva e pus escorria por seu queixo. No quarto dia, notamos uma melhora, e ela conseguiu abrir ligeiramente os olhos. Aos poucos, começou a brincar. A pele começou a se soltar a partir do queixo, e a melhora foi diária. Em poucos dias, as crostas caíram por completo. Temíamos que ela perdesse a visão ou ficasse com o rosto marcado, mas, para nossa surpresa, sua face tornou-se ainda mais bela do que antes, e seus olhos, mais límpidos. Hoje, não há cicatrizes, e ela cresce forte e saudável. Por termos sido protegidos não uma, mas duas vezes, por Nosso Senhor da Luz, sentimo-nos embargados por uma gratidão indescritível. É com estas simples palavras que desejo expressar uma parte desse sentimento.
+
+***
+
+Acerca das queimaduras, há um ponto que merece atenção. É natural que o pus se acumule na área afetada e seja expelido. Trata-se de uma reação ao estímulo da queimadura, semelhante ao processo de purga induzido pela moxabustão. O fato de o exsudato liberar um odor forte é a prova cabal desse processo. Portanto, a queimadura desencadeia uma purificação, o que representa um benefício para a saúde. Como descrito no relato, o rosto da menina ficou mais bonito após a cura porque seu sangue foi purificado.
+
+Contudo, o ponto crucial a ser observado é que o uso de medicamentos faz com que suas substâncias penetrem na pele, deixando cicatrizes disformes e persistentes. A abstenção absoluta de qualquer fármaco é, pois, imperativa. Ademais, a ausência de medicamentos acelera a recuperação, configurando-se, assim, um duplo benefício.
+
+## A Salvação da Tuberculose Óssea
+
+**Somente Nossa Fé Pode Salvar da Doença**
+**Genno Kasao (37 anos), Okayama**
+
+Minha provação teve início em 1934, com o surgimento de hemorroidas e uma pleurisia. A partir de então, a doença migrou sucessivamente para o peritônio, o fígado, os rins e a bexiga, culminando em uma tuberculose óssea, conhecida como Mal de Pott. Durante mais de uma década, flertei com a morte diversas vezes, em uma luta incessante contra seu espectro.
+
+Submeti-me não apenas a tratamentos médicos convencionais, mas também a longas sessões de radioterapia, lâmpadas solares, raios ultravioleta, cirurgias, moxabustão e fitoterapia chinesa. Contudo, a doença apenas se agravava. Desiludido com a impotência da medicina moderna, busquei amparo nos milagres da Seicho-no-Ie, mas encontrei apenas frustração. Dediquei-me a entoar o mantra Namu Myoho Renge Kyo, mas tampouco recebi qualquer graça. Foi nesse estado, amaldiçoando os céus e ressentindo meus pais enquanto me agarrava desesperadamente à vida, que, por uma ventura abençoada, fui banhado pela graça do Supremo Deus.
+
+Houve um período em que dores agudas na região lombar e na articulação do quadril me imobilizaram. Felizmente, passei a receber o Johrei dos membros da Igreja, e minha condição melhorou dia a dia, até que eu pudesse caminhar com o auxílio de muletas. Não existem palavras para descrever a alegria que senti ao receber a permissão para participar de um aperfeiçoamento.
+
+No dia do curso, caminhei mais de um quilômetro até a residência do reverendo responsável sem qualquer dificuldade. Após permanecer por duas horas diante do Altar, meu corpo, antes rígido e incapaz de se dobrar, ergueu-se de súbito, sem o menor esforço ou dor. Todos os presentes ficaram pasmos com a magnitude do poder divino. Naquele momento, uma forte convicção nasceu em meu coração: "Apegado a Meishu-Sama, eu não morrerei. Recebi um poder imenso que me liberta do medo da sombra da morte".
+
+Desde então, tudo o que vejo e sinto, o universo inteiro, sofreu uma profunda transformação. O que antes era sombrio, maldito e fonte de ira, agora se revela luminoso e pleno de alegria, a ponto de eu sentir o desejo de conversar afetuosamente até com as pedras do caminho.
+
+Compreendo hoje que foi graças a todo o sofrimento passado que me tornei digno de me vincular a este Deus tão sublime. Sinto uma gratidão infinita até mesmo pela doença. Continuo a frequentar a Igreja, aguardando com alegria o dia em que poderei abandonar as muletas e, com o corpo restabelecido, participar plenamente da Obra Divina.
+
+***
+
+O caso deste paciente é um exemplo emblemático das vítimas de tratamentos médicos equivocados. É possível que, se tivesse sido deixado à própria sorte desde o início, ele tivesse alcançado a cura completa. Na verdade, pode-se afirmar que os múltiplos danos causados pelos medicamentos e as terapias físicas errôneas foram os verdadeiros geradores de suas sucessivas enfermidades.
+
+Ao considerarmos o fato de que ele também recorreu a diversas outras práticas de cura pela fé, todas sem resultado, somos levados a uma conclusão. Embora possa soar como uma extrema autoglorificação, a verdade é que, no vasto mundo de hoje, não existe, fora de nossa Igreja, um caminho que possa verdadeiramente curar as doenças. Pode parecer um exagero, mas um fato é um fato, e contra ele não há argumentos.
+
+## A Drenagem Natural do Pus
+
+**A Cirurgia é um Tratamento Bárbaro**
+**Fusa Yamaguchi (50 anos), Quioto**
+
+A mãe de um lactente de seis meses começou a sentir dores em seu seio esquerdo em julho deste ano. Massagens terapêuticas não surtiram efeito. O médico diagnosticou mastite e advertiu que, apesar da dor, ela deveria continuar amamentando para evitar a formação de um abscesso. Ela também buscou a ajuda de um curandeiro espiritual, mas sem resultados positivos. Com o tempo, o bebê passou a recusar o seio, deixando-a em desespero. Foi então que, ao ouvir sobre as graças de Nosso Senhor da Luz, ela veio até minha casa, no dia 21 daquele mês, para solicitar Johrei.
+
+Passei a ministrar-lhe Johrei diariamente, pela manhã e à noite. As dores diminuíram e ela conseguia dormir melhor. Feliz e convicta da graça divina, continuou a vir regularmente. Nesse período, enfrentou a oposição do marido e de outros familiares, mas perseverou. Cerca de dez dias depois, durante uma sessão de Johrei, uma porção da pele, que se tornara fina como papel, rompeu-se naturalmente. Naquela noite, uma grande quantidade de pus e um "núcleo" de quase três centímetros foram expelidos. Como ainda havia um núcleo residual, aplicamos um papel sagrado sobre o local e continuamos com o Johrei por mais algumas sessões. O restante foi expelido, deixando um orifício do tamanho de uma fava. A partir de então, ela já conseguia segurar o filho com conforto, o que lhe trouxe imensa alegria.
+
+Naquela mesma noite, outro núcleo, do tamanho de um dedo, foi expelido junto com mais pus. Embora ainda saia uma pequena quantidade de secreção misturada ao leite, o lactente, que antes recusava o seio, passou a mamar vorazmente. A dor praticamente desapareceu, e toda a família está imersa em felicidade.
+
+Sentimo-nos transbordar de gratidão e emoção pela nobreza da graça recebida e por termos experienciado na própria pele a grandiosidade de Nosso Senhor da Luz. É com estas palavras singelas que apresentamos nosso relato.
+
+***
+
+Este relato demonstra que, em casos de tumores e abscessos, a medicina não dispõe de outro recurso senão a cirurgia de incisão para extrair o pus e sua raiz. Com o nosso método de Johrei, contudo, uma abertura se forma naturalmente, permitindo a drenagem do pus e a expulsão completa da raiz do problema.
+
+Ademais, durante todo esse processo, a dor é inteiramente suprimida, eliminando por completo o sofrimento do paciente. Trata-se, portanto, de um método verdadeiramente avançado. A afirmação que costumamos fazer — "a cirurgia de incisão é um método bárbaro" — é uma verdade que somente nós temos a prerrogativa de proferir.
+
+---
+
+# Recordações de uma Travessia de Okunikko a Shiobara
+
+**Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
+**Título Original:** 奥日光から塩原へ 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.14 | **Data ISO:** 1949-08-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
+
+## Recordações de uma Travessia de Okunikko a Shiobara
+
+A partir dos meus quarenta anos, desenvolvi um grande apreço pelas montanhas, aproveitando toda oportunidade que surgia para me dedicar ao alpinismo. Essa prática, em parte, visava também à recuperação de minha saúde. Embora eu tenha escalado a maioria dos picos proeminentes da região de Kanto, gostaria de relatar agora uma das experiências mais notáveis que vivenciei.
+
+Em meados de agosto de 1923, ano do Grande Terremoto de Kanto, tracei um plano para realizar a travessia de Okunikko até as fontes termais de Shiobara. Para essa empreitada, contratei os serviços de um homem chamado Miyagawa, um renomado guia das montanhas de Okunikko. O roteiro inicial previa uma pernoite nas fontes termais de Kawamata, a cinco *ri* de Yumoto, seguida de outra nas fontes de Yunishikawa, a sete *ri* de distância, antes de alcançarmos nosso destino final, Shiobara.
+
+Conforme o planejado, chegamos às fontes termais de Kawamata por volta do meio-dia. O local era um refúgio de absoluta tranquilidade, situado no curso superior do rio Kinu, onde existia apenas uma estalagem, sem qualquer outra habitação por perto. Com seus paredões rochosos imponentes e o riacho de águas azuladas, o cenário parecia um verdadeiro paraíso celestial, isolado do mundo secular. O acesso era tão árduo, exigindo em certos trechos que se escalassem rochas com sandálias de palha, ou *waraji* (草鞋), que raramente era frequentado por pessoas da cidade. O balneário, naturalmente, era misto. Eu me encontrava imerso sozinho quando, pouco depois, entraram três mulheres aparentando ter cerca de trinta anos. Elas se acomodaram na piscina termal, ou *yubune* (湯槽), com tal naturalidade, como se não notassem minha presença, que fui eu quem se sentiu embaraçado. Contudo, foram elas que iniciaram a conversa: "O senhor vem de onde?". "De Tóquio", respondi. "E as senhoras?". "Somos do vilarejo de XX, na província de Tochigi. Viemos porque ouvimos dizer que estas águas ajudam a ter filhos". Esse foi o ponto de partida para uma conversa amena sobre diversos assuntos, que floresceu e se tornou um episódio inesquecível, um bálsamo para a solidão da minha viagem solitária por aquelas montanhas.
+
+Partimos na manhã seguinte, às oito horas, em direção a Yunishikawa. Foi a partir desse ponto que a jornada se tornaria palco de diversos acontecimentos. Avançávamos por uma sucessão interminável de montanhas; quanto mais vencíamos, mais nos embrenhávamos na vastidão da serra. A trilha, por sua vez, tornava-se cada vez mais indistinta, oculta sob camadas de folhas acumuladas por anos, sem qualquer vestígio de passagem humana. Foi quando Miyagawa declarou: "Senhor, parece que erramos o caminho. Há pouco, vi uma placa de sinalização, um *michishirube* (道標), caída, indicando a direção para Yunishikawa, e devo ter me enganado. Peço mil perdões. Para piorar, esqueci o mapa, então talvez tenhamos de pernoitar ao relento". Embora perplexo com a situação, retroceder já não era uma opção. Assim, fortaleci meu espírito e decidi seguir em frente, fosse qual fosse o desfecho.
+
+Pouco depois, Miyagawa parou subitamente e exclamou: "Ah! Um urso esteve por aqui. Estas pegadas são de urso, e um bem grande. Deve pesar mais de vinte *kan*". Fiquei consternado. "Você acha que estamos seguros?", perguntei. "Tenho esta faca (uma faca da marinha), estaremos bem", assegurou-me ele, o que me trouxe algum alívio. "Nesse caso, preparemos nosso espírito e façamos uma refeição", sugeri. Sentamo-nos em uma pedra à beira do caminho e começamos a comer nosso almoço. A área era coberta por um denso bambuzal, de onde, por vezes, ouvíamos um farfalhar. Perguntei se poderia ser o urso, mas ele respondeu: "São lebres da montanha, muito comuns por aqui", o que me tranquilizou. Após o almoço, retomamos nossa caminhada sem rumo.
+
+Duas ou três horas depois, uma sede excruciante se apoderou de mim, tornando-se insuportável, mas devido à altitude, não havia água por perto. A cada montanha que avistávamos, eu pensava: "Certamente haverá água do outro lado". Contudo, transposto o cume, não encontrávamos nem sombra de água. Atravessamos quatro ou cinco picos nessa vã esperança, descendo gradualmente, até que finalmente avistamos água gotejando de uma rocha na beira do caminho. Que alegria! Bebi até saciar completamente a sede, e, com as forças renovadas, continuamos a jornada. Naquele momento, enquanto o sol poente começava a se esconder atrás dos picos a oeste, uma densa névoa envolveu toda a paisagem. Havíamos caminhado por dez horas desde as oito da manhã, percorrendo cerca de dez *ri*. Durante todo esse tempo, não cruzamos com uma única alma a quem pudéssemos pedir informações, o que demonstra o quão inexplorada era aquela região. Decidido a pernoitar ao relento se não encontrássemos ninguém em breve, avistei, para minha sorte, o contorno de um telhado de palha por entre as árvores ao longe.
+
+Que alívio! Ao nos aproximarmos, vimos que se tratava de uma cabana de lenhadores, onde encontramos três ou quatro homens de aparência rude. Após explicarmos nossa situação, eles nos convidaram a pernoitar ali, mas o ambiente inspirava desconfiança e recusei a oferta. Perguntei por um lugar para ficar, e eles disseram: "A um *ri* daqui, há um vilarejo chamado XX. Não há estalagens, mas se pedirem ao chefe da aldeia, talvez ele os acolha". Chegamos ao vilarejo e recorremos ao chefe, que, polidamente, nos dispensou: "Lamento, mas tenho um doente em casa e não posso recebê-los". Ele acrescentou: "A um *ri* e meio daqui, há um lugar chamado Yunohana Onsen". Agradecidos, arrastamos nossos pés exaustos, favorecidos pela luz do luar, e finalmente alcançamos o destino. Olhei para a sola dos meus pés e vi que estavam cobertas de bolhas, o que era natural, pois havíamos caminhado um total de treze *ri*. No entanto, um bom banho nas águas termais foi suficiente para me sentir revigorado. Era evidente que pessoas da cidade raramente passavam por ali, pois seu dialeto era de difícil compreensão, e só conseguíamos nos comunicar com a ajuda de Miyagawa, que atuava como intérprete. A criada, ao entrar no quarto, falava conosco de pé. Quando perguntei se havia cidra, ela respondeu: "Nunca ouvi falar nisso", o que dispensa maiores comentários. Quando a refeição foi servida, consistia em diversos tipos de cogumelos de espécies desconhecidas, aos quais mal consegui tocar. Pedi ovos e, com isso, consegui finalmente jantar. "Qual a estação de trem mais próxima?", indaguei. "Fica a vinte e três *ri*, em Aizu-Wakamatsu", responderam, para meu desânimo. "E como se chega a Aizu?", perguntei. "De charrete". "E até Shiobara, quantos *ri* são?". "Dezessete, mas não há charretes para lá". Fiquei em dúvida, mas decidi manter o plano original e seguir para Shiobara.
+
+Na manhã seguinte, a dor das bolhas nos pés me impedia de caminhar, então pedi um cavalo. Gostaria de dizer que cavalguei com elegância, mas sendo minha primeira vez, sentia-me totalmente instável. Mal havíamos começado quando dezenas de mutucas e moscas enormes nos cercaram. O cavalo as afugentava com a cauda, mas, para um ser humano desprovido de tal apêndice, a situação era aflitiva, pois os insetos picavam até mesmo através das meias, causando uma coceira insuportável. Tive a ideia de quebrar alguns galhos e agitá-los ao redor das pernas, o que trouxe algum alívio. Contudo, as moscas passaram a atacar o lombo do animal, que ameaçava empinar. Sem parar, eu as esmagava com meu leque, e assim avançamos penosamente por seis *ri* até um pequeno vilarejo. Ali, fomos informados de que o caminho se tornaria íngreme e que o cavalo só poderia ir até aquele ponto. Sem alternativa, dispensei o animal. De tanto bater nos insetos, meu leque estava ensanguentado e completamente destruído.
+
+A partir dali, o caminho começou a subir, mas, felizmente, as bolhas em meus pés haviam melhorado, e eu conseguia caminhar. Após cerca de uma hora, cruzamos o cume, e a trilha se tornou plana e agradável. Próximo ao entardecer, chegamos a Miyori, um vilarejo desolado com vinte ou trinta casas. Fui informado de que havia uma única estalagem e para lá me dirigi. "Há quartos disponíveis?", perguntei. "Estamos lotados", responderam, para minha decepção. Como não poderia pernoitar na rua, expliquei minhas circunstâncias e insisti. O dono cedeu: "Bem, nesse caso...". Ele então limpou um quarto onde havia bichos-da-seda espalhados e me acomodou. Finalmente pude descansar minhas pernas fatigadas. "Para um lugar lotado, está muito silencioso, não acha?", comentei. A esposa do dono respondeu: "Temos apenas um quarto para hóspedes. Com um único cliente, já estamos lotados". Não pude conter o riso. Era realmente como um banheiro. O mais curioso foi quando um empregado disse: "Senhor, vou buscar o acompanhamento para sua refeição", e saiu. Pouco depois, voltou dizendo: "Pesquei uns *kajika*". Olhei e vi que eram peixes parecidos com o *haze*. Eles os prepararam prontamente, e o sabor era excelente. Não pude deixar de sorrir com a placidez da vida na aldeia, onde se vai pescar o jantar no riacho depois de ver o rosto do hóspede.
+
+Na manhã seguinte, para ir a Shiobara, aprendi com a experiência do dia anterior e pedi um cavalo. O curioso é que a condutora era a própria dona da estalagem. Montei e começamos a andar lentamente. O cavalo era branco e parecia extremamente velho. Perguntei à mulher, e ela confirmou que o animal era, de fato, muito idoso, o que me deixou apreensivo. Após avançarmos cerca de um *ri*, o caminho se estreitou para aproximadamente quatro *shaku* de largura, com um paredão rochoso à esquerda e um vale de mil *jin* à direita. A visão me causou um arrepio. A mulher advertiu: "Daqui a pouco passaremos por um trecho perigoso. Por favor, tenha cuidado com o cavalo. Se ele se assustar, há risco de cairmos no vale". Alarmado, perguntei: "Alguém já caiu aqui?". "Há uns três anos, duas pessoas caíram com seus cavalos e todos morreram", respondeu ela. Diante disso, desmontei imediatamente e segui a pé. Cerca de um *ri* depois, a estrada se alargou para uns dois *ken*, e voltei a montar. Porém, após algumas centenas de metros, chegamos a uma descida íngreme. Assim que começamos a descer, o cavalo fraquejou e, antes que eu percebesse, dei uma cambalhota e fui arremessado à beira da estrada, batendo as costas com violência. Estremeci ao pensar que, se o caminho fosse estreito naquele ponto, poderia ter sido meu fim. "Quanto falta para Shiobara?", perguntei. "Um *ri* e meio", ela respondeu. Embora ela insistisse para que eu montasse novamente, eu disse: "Pagarei o valor combinado, mas, por favor, me perdoe", e dispensei o cavalo. Caminhei o último trecho e cheguei a Shiobara por volta do meio-dia, onde almocei em uma pousada em Shio-no-yu antes de retornar a Tóquio.
+
+Nessa viagem, enfrentei duas situações de grande perigo. A primeira foi a queda do cavalo, em um trecho onde, de um lado, havia um desfiladeiro de várias dezenas de metros que terminava em um riacho. A segunda ocorreu quando, a caminho de Yunohana Onsen, atravessamos a montanha Aizu-Tashiro. Ao chegar à estalagem, soube que ursos apareciam com frequência naquela montanha e que até os moradores locais a temiam e evitavam. Todos ficaram espantados com nossa imprudência. Embora tenhamos agido por ignorância, ao ouvir o relato, um suor frio me escorreu pela espinha.
+
+---
+
+# Palavras de Meishu-Sama sobre o Palácio de Cristal e a Estrutura da Igreja
+
+**Categoria:** o | **Ano:** 昭和30(1955)年1月1日 | **Fonte:** Eikou
+**Título Original:** 御取次 執事 阿部晴三 | **Status:** Published | **Edição/Página:** 289号 | **Data ISO:** 1955-01-01
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## Palavras de Meishu-Sama sobre o Palácio de Cristal e a Estrutura da Igreja
+
+Neste dia em que Meishu-Sama adentra o Palácio de Cristal, tenho a honra de lhes transmitir as palavras que Ele nos dirigiu.
+
+O Palácio de Cristal, concebido como um protótipo de uma parte do Paraíso Terrestre, é uma obra cuja construção foi determinada por Deus. Para a sua materialização, Ele incumbiu a Igreja Messiânica de executá-la.
+
+Ademais, creio que, doravante, haverá certas reformas na organização de nossa Igreja.
+
+Foram estas as palavras de Meishu-Sama. A esse respeito, permitam-me tecer um breve comentário. Meishu-Sama também afirmou: “Este Palácio de Cristal não se destina, de modo algum, a um uso exclusivo. Meu desejo é que o maior número possível de pessoas possa usufruir desta paisagem paradisíaca, uma verdadeira dádiva celestial.”
+
+Nesse sentido, a Igreja, acolhendo este nobre propósito de Meishu-Sama, vem solicitar a valiosa colaboração de todos os senhores.
+
+Contudo, como podem observar, a obra ainda se encontra inacabada e sua conclusão demandará algum tempo. Somente após a sua finalização é que o Palácio será aberto à visitação do público em geral.
+
+No que tange à questão da estrutura organizacional da Igreja, Meishu-Sama indicou a intenção de instituir níveis, ou seja, uma hierarquia interna. Os critérios para essa nova estrutura seriam, entre outros: a notável proeminência na prática do Johrei; o êxito em encaminhar um número expressivo de pessoas à Fé; e, por fim, a fervorosa dedicação em servir a Deus. Meishu-Sama expressou que a Igreja deverá ponderar sobre tais pontos ao tomar suas decisões.
+
+Estas são as palavras que me coube transmitir.
+
+---
+
+# Uma Análise sobre os Méritos e Deméritos da Prática Médica
+
+**Categoria:** o | **Ano:** 昭和24(1949)年11月19日 | **Fonte:** -
+**Título Original:** おかげ話から何を掴んだか | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1949-11-19
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
+
+## Uma Análise sobre os Méritos e Deméritos da Prática Médica
+
+As publicações de nossa Religião já trouxeram à luz milhares de Relatos de Graça, cujo número continua a crescer incessantemente. Esse fato, por si só, comprova a eficácia extraordinária de nossa Terapia pela Fé, dispensando maiores comentários. Todavia, é nesse ponto que se torna imperativo analisar os méritos e deméritos da medicina.
+
+É inegável que os benefícios do progresso da medicina moderna são aclamados, e que os povos civilizados depositam nela uma confiança inabalável. Diante disso, nosso ato de expressar uma opinião franca sobre a medicina, que ocupa uma posição tão sólida e central na cultura, pode ser considerado, sem exagero, uma atitude quase sem precedentes. Evidentemente, se a medicina contemporânea de fato apresentasse os resultados precisos que o público acredita e servisse genuinamente à saúde humana, por qual motivo nos daríamos ao trabalho de tecer críticas? Isso se torna ainda mais relevante quando consideramos que, à luz da legislação vigente, corremos o risco de sermos acusados de obstrução à prática médica.
+
+Contudo, alicerçados na Medicina Divina e aprofundando nossas pesquisas no campo prático, sentimos com crescente convicção que a medicina enveredou por uma senda equivocada. Consequentemente, por mais que se esforce e aprimore suas técnicas, descobrimos uma realidade em que ela não alcança progresso algum, limitando-se a um círculo vicioso, como se estivesse parada no tempo. A maior evidência disso é a proliferação de doentes e o mau estado de saúde geral que observamos atualmente. É um cenário corriqueiro: tão logo uma doença diminui, outra, inteiramente nova, surge para tomar seu lugar.
+
+Tal situação ocorre porque existe um equívoco fundamental latente na base da medicina, e nós o descobrimos. Em contrapartida, a eficácia de nossa Terapia Espiritual Divina é demonstrada pelos Relatos de Graça, que constituem uma realidade viva e pulsante. Dificilmente haveria comprovação mais sólida, pois, sendo testemunhos escritos pelos próprios agraciados, não há margem para a menor dúvida.
+
+Ao analisarmos os Relatos de Graça, um fato surpreendente emerge: ao adoecerem, as pessoas, sem exceção, buscam prontamente tratamento médico. Contudo, quanto mais se submetem a esses tratamentos, mais seu estado de saúde se agrava. Nesses casos, mesmo recorrendo aos maiores hospitais, a médicos de renome e a toda sorte de medicamentos — sem poupar despesas ou tempo, como é natural quando a vida está em jogo —, o resultado, como mencionado, é uma piora progressiva que as leva à beira da morte. Na verdade, não poderia haver questão mais grave do que esta.
+
+Como se vê, a teoria médica e seus resultados são quase sempre opostos. Conforme exposto nos Relatos de Graça, embora um médico afirme que haverá cura e se comprometa com o resultado, o desfecho costuma contrariar drasticamente suas expectativas. Os próprios profissionais da saúde certamente vivenciam com frequência essa disparidade entre a teoria e a prática. Ademais, é comum ouvirmos sobre as notórias divergências entre os diagnósticos emitidos por grandes hospitais e os resultados revelados pelas autópsias.
+
+Nesses momentos, em vez de sequer cogitarem que o erro possa residir nos fundamentos da medicina, os médicos atribuem o fracasso à sua falta de avanço. Interpretam, portanto, que seu dever é impulsionar ainda mais o progresso da ciência médica, o que, a nosso ver, representa um equívoco tão profundo que nos faltam palavras. É por essa razão que se dedicam com afinco à descoberta de novas bactérias, a experimentos com animais, ao desenvolvimento de fármacos, à radioterapia, à melhoria da nutrição e a toda e qualquer forma de encontrar novos recursos terapêuticos.
+
+Como consequência, o campo da medicina torna-se cada vez mais complexo e multifacetado. O número de doenças e suas denominações aumenta, as especialidades se multiplicam, e as pesquisas se aprofundam em detalhes minuciosos. As teorias e os métodos de tratamento parecem evoluir de maneira esplêndida, iludindo a sociedade e conquistando a confiança cega que vemos hoje. No entanto, no que tange ao ponto crucial — a cura das doenças —, não há o menor avanço; apenas a terapia sintomática, voltada para o alívio temporário do sofrimento, tornou-se mais sofisticada.
+
+E, para piorar, essa sofisticação é superestimada como se fosse o caminho do progresso. Por isso, ao analisar friamente a medicina contemporânea, não nos resta senão um profundo lamento. Em suma, tenta-se aplicar à realidade teorias que dela se desvincularam, e, por conseguinte, os resultados esperados jamais são alcançados. Em decorrência disso, os pesquisadores mergulham em seus estudos e, nesse processo, o número de seres humanos sacrificados — para além das cobaias — torna-se incalculável.
+
+A verdadeira medicina, portanto, é aquela em que teoria e prática estão em perfeita consonância. Se os preceitos acadêmicos fossem verdadeiros, a medicina preventiva já estaria gradualmente solucionando enfermidades como as parasitoses, a tuberculose, as doenças contagiosas, o derrame cerebral e a paralisia infantil, em vez de assistirmos à sua proliferação incessante.
+
+Em síntese, a verdadeira salvação consiste em despertar para o equívoco da medicina moderna e ser banhado por essa graça.
+
+Por tudo o que foi exposto, o Grande Amor de Deus, na iminência do Fim da Era, impele-nos a realizar esta correção. Trata-se de uma medicina estabelecida há dezenas de séculos, e, por essa razão, despertar as pessoas de um dia para o outro é uma tarefa sobremaneira difícil. Contudo, nós, que cremos no poder absoluto de Deus, avançamos sem qualquer hesitação em direção à luz do futuro, com plena confiança na jornada que temos pela frente.
+
+---
+
+# A Restauração Miraculosa de um Dedo Amputado
+
+**Categoria:** o | **Ano:** 昭和25(1950)年5月27日 | **Fonte:** Kyusei
+**Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 64号 | **Data ISO:** 1950-05-27
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
+
+## A Restauração Miraculosa de um Dedo Amputado
+
+**Relato de Matsunaga Tsuru, Igreja Kô-no-Michi, Grande Igreja Taissei, Okayama**
+
+Ocorrera precisamente no dia do festival do Santuário Tokumori, na cidade de Tsuyama, em 23 de outubro de 1948. O jovem Iwasaki Takashi, de dezenove anos, que trabalha numa fábrica de macarrão udon perto de minha casa, adentrou subitamente minha residência. Diferente de seu semblante habitualmente vigoroso, ele estava pálido como um fantasma e trazia a mão direita envolta em algo de um vermelho vivo: uma toalha encharcada de sangue. Enquanto eu o olhava, atônita, ele disse com uma voz débil: “Senhora, por favor, ajude-me. Fui apanhado pela máquina de cortar udon e perdi quase metade do meu dedo indicador”. Dito isso, desabou no chão, perdendo a consciência.
+
+Ao observar mais de perto, vi que o sangue já havia atravessado a toalha e continuava a gotejar. Diante de uma lesão tão grave, fiquei paralisada por um instante, e um calafrio percorreu meu corpo. Contudo, encorajada por minha irmã, que estava ao meu lado, recobrei o juízo e, invocando Komyô Nyorai-Sama em meu coração, iniciei imediatamente o Johrei. Minha irmã removeu a toalha. Quando a ferida foi exposta, o sangue jorrava com uma força assustadora, como uma fonte. Conforme o próprio rapaz dissera, seu dedo estava seccionado quase pela metade; era uma visão terrível. Ao recordar a cena, chego a tremer, pensando em como nós duas, sem qualquer experiência médica, conseguimos agir com tanta serenidade. Foi, sem dúvida, pela orientação e proteção de Komyô Nyorai-Sama. Colocamos uma folha de papel com o ideograma “Luz” sobre a ferida e também lhe demos um pedaço para que engolisse, a fim de fortalecê-lo. Cerca de quinze minutos transcorreram em um silêncio tenso, quebrado apenas pela respiração contida, enquanto eu ministrava o Johrei. Então, Takashi abriu os olhos. Ah! Havia recuperado a consciência. Continuei a ministrar-lhe Johrei, encorajando-o, e uma hora depois a dor havia cessado por completo.
+
+Que poder miraculoso! Uma lesão de tamanha gravidade certamente implicaria dias, senão dezenas de dias, de dor incessante, independentemente de qualquer analgésico. Contudo, ele jamais voltou a se queixar de dor até a sua completa recuperação. Embora o sangramento só tenha parado completamente após dois ou três dias, o dedo inchou de forma impressionante, atingindo quase o triplo de seu tamanho normal. O que se seguiu foi um verdadeiro milagre: desde o dia do acidente, mesmo com o dedo naquele estado, ele não faltou a um único dia de trabalho na lavoura, pois era época de colheita. Repetidas vezes nós o advertíamos: “Não se esforce tanto, é um absurdo trabalhar nessas condições!”. Mas ele continuava suas tarefas, impassível. Ministrei-lhe Johrei diariamente, mas nunca trocamos a bandagem, pois o próprio rapaz, diante da gravidade do ferimento, temia vê-lo. Após quatro semanas, como o inchaço havia desaparecido por completo, decidimos finalmente remover o curativo. Com o coração em sobressalto, temendo encontrar um dedo deformado, ele começou a desenrolar a faixa. E qual não foi nossa surpresa? O dedo estava ali, perfeitamente intacto, sem qualquer anomalia, exatamente como era antes do acidente. Não era um sonho, tampouco uma alucinação: era um dedo vivo, com circulação sanguínea e movimentos perfeitos. A unha, as articulações, tudo estava no lugar. Ah! Diante de tal milagre, de tamanha graça, nós três, ele e nós, as duas irmãs, ficamos sem palavras, tomados por uma reverência solene, e choramos de gratidão.
+
+Naquele momento, as palavras do reverendo Takaaki Ishizaka, ditas em agosto do ano anterior ao me outorgar a Medalha da Luz, ecoaram vividamente em minha mente: “O poder deste amuleto de Meishu-Sama é uma força de um mistério tão profundo que pode ser chamada de o poder do próprio Criador”. “O poder do Criador, o poder do Criador”, repeti diversas vezes para mim mesma. Pois, de que outra forma, senão pelo poder do Criador, um dedo amputado pela metade poderia ser restaurado ao seu estado original? Com absoluta certeza, senti-me extasiada pelo poder insondável e místico do Johrei.
+
+O rapaz comentou que, no início, sentia no dedo ferido uma sensação de calor agradável e indescritível. Sinto-me imensamente grata a Meishu-Sama por conceder um poder tão sublime e miraculoso a uma pessoa tão insignificante como eu. Em nome do jovem Takashi, expresso minha mais profunda gratidão e apresento este relato.
+
+*Comentário de Meishu-Sama*
+
+Para aqueles que lerem este relato, o fato poderá parecer um milagre tão extraordinário que beira o inacreditável; por isso, farei uma explanação. Não há dúvida de que o dedo foi seccionado quase pela metade pela máquina, mas o acerto foi tê-lo mantido enfaixado como estava. O fato de ter se regenerado por completo é, inegavelmente, obra do poder Divino.
+
+O que se deve saber é que, quando uma parte do corpo humano é seccionada, seja a carne ou o osso, se não for separada e mantida no lugar, ela invariavelmente se regenera. O Johrei, nesse processo, acelera a cura de forma notável. Contudo, o homem comum, desconhecendo tal princípio, recorre a medicamentos e cirurgias, o que não apenas prolonga a recuperação, como por vezes resulta em deformidades.
+
+***
+
+## Intoxicação Medicamentosa e a Redenção pelo Johrei
+
+**Relato de Takase Toyono (37), Igreja Kôhô, Grande Igreja Tengoku, Fukuoka**
+
+Por volta de setembro de 1948, meu marido começou a se queixar de visão turva, o que dificultava seu trabalho. Procurou um médico da vizinhança, que lhe aplicou vinte e quatro injeções de Salvarsan 606, além de outras medicações, ao longo de três meses. Seu estado, porém, não apresentava melhora; pelo contrário, a visão piorava progressivamente, o lado esquerdo de seu corpo ficou paralisado e sua mente tornou-se confusa. Passava os dias a perambular, incapaz de permanecer quieto no mesmo lugar por mais de cinco minutos. Tropeçava em pequenas pedras e não conseguia se levantar sozinho. Se seu cinto se soltasse, continuava a andar com ele pendurado, tornando-se motivo de zombaria na vizinhança.
+
+O médico nos disse que não havia mais o que fazer, e mergulhamos em profundo desespero. Foi quando ouvi do Sr. Iwanaga sobre o poder de Komyô Nyorai-Sama, capaz de curar qualquer doença. Imediatamente, levei meu marido até ele. Após ouvir os sublimes ensinamentos, soube que até mesmo uma pessoa como eu poderia receber esse poder ao portar a Medalha da Luz, e logo me inscrevi para as aulas. No início, durante as sessões de Johrei, meu marido não conseguia ficar sentado e se mostrava inquieto, mas, com o passar do tempo, foi se acalmando. Em um dia frio de março, ele acidentalmente caiu em um rio com cerca de cinco metros de largura. Para nossa surpresa, ele, que nem sequer conseguia se levantar do tatame após uma queda, conseguiu ficar de pé dentro do rio e pedir socorro, sendo ajudado por vizinhos sem sofrer um único arranhão.
+
+Com a certeza da proteção de Komyô Nyorai-Sama, ansiava para que meu marido também recebesse essa graça. E, felizmente, no dia 10 de abril, ele e minha irmã receberam a Medalha. Jamais me esquecerei do dia 24 de abril, quando fomos à Igreja de Kurume para ouvir uma palestra do reverendo Kihara. Apesar de sua agenda atribulada, ele ministrou Johrei em meu marido. Diante de nossos olhos, sua mão paralisada começou a se erguer, e todos os membros presentes ficaram maravilhados com a grandiosidade do poder de Komyô Nyorai-Sama. O trajeto até a estação, que normalmente leva vinte e cinco minutos, ele havia feito em uma hora na ida; na volta, levou apenas trinta minutos. Dois dias depois, já conseguia ir à igreja sozinho e sem bengala para receber Johrei diariamente. Graças a isso, ele recebeu uma bênção extraordinária, e toda a nossa família, imensamente grata, viu nosso lar, antes sombrio, ser preenchido pela luz divina em todos os dias.
+
+Entretanto, por volta de setembro, ele começou a passar por uma nova purificação, que se intensificou no final de outubro. Sua mente ficou completamente inoperante; não sorria diante de algo engraçado, tampouco se irritava. Tornou-se como uma pessoa sem alma, completamente apático. Incapaz de mover os braços e as pernas, arrastava-se pela casa e não percebia quando urinava, o que nos causava enorme dificuldade. Os vizinhos comentavam: “Desta vez, o Sr. Katsu não escapa”. No dia 4 de novembro, uma data que jamais esquecerei, à noite, ele tentou se levantar para jantar. Enquanto eu o observava, curioso para ver como caminharia, ele caiu abruptamente e bateu a cabeça com violência na quina de um pilar, perdendo os sentidos. Em pânico, chamei-o: “Pai, pai!”, mas não obtive resposta. Pensei em chamar os vizinhos, mas, sentindo uma imensa responsabilidade, voltei-me ao Altar e pedi perdão a Deus enquanto lhe ministrava Johrei. Aos poucos, ele foi recobrando a consciência, e senti um grande alívio. Uma hora depois, ministrei-lhe Johrei novamente diante do Altar e, só então, notei um longo inchaço de cerca de nove centímetros na parte de trás de sua cabeça, com a marca do pilar. Assustada, concentrei o Johrei naquela região e o coloquei para dormir. Na madrugada, ele começou a sentir náuseas e vomitou várias vezes um líquido amarelado, semelhante a suco gástrico.
+
+A dor de cabeça era tão intensa que ele se contorcia. Chamei imediatamente o Sr. Deguchi, da igreja, que veio e lhe ministrou Johrei diversas vezes. Graças a isso, sua mente foi clareando e ele começou a fazer várias perguntas sobre os ensinamentos de Komyô Nyorai-Sama. O mais extraordinário é que ele afirmava não ter nenhuma lembrança do período entre o início de sua doença, em setembro do ano anterior, e o momento em que bateu a cabeça no pilar e perdeu a consciência. Seus membros, antes paralisados, recuperaram os movimentos de uma só vez, e, três dias depois, ele pôde tomar banho sozinho, algo que não fazia há muito tempo, sentindo-se purificado de corpo e alma. A cada dia, a confusão mental que o afligiu por tanto tempo se dissipava como se uma fina camada de papel fosse removida, e nossa família passou a viver em constante alegria e gratidão.
+
+*Comentário de Meishu-Sama*
+
+Este caso levanta uma questão fundamental para a medicina. Ao manifestar o problema inicial nos olhos, o médico provavelmente presumiu que a causa era sífilis e administrou injeções de Salvarsan 606. No entanto, não apenas o diagnóstico estava equivocado, como a intoxicação causada pelo próprio medicamento provocou uma falência sistêmica, chegando a comprometer o cérebro, o que é lamentável.
+
+A medicina parece ainda desconhecer que a intoxicação por Salvarsan 606 frequentemente afeta o cérebro, podendo levar à neurastenia e, em casos graves, até a distúrbios mentais. Nossa longa experiência nos leva a essa conclusão. O mais perverso é que, quando a intoxicação da injeção aplicada para tratar a sífilis afeta o cérebro, os médicos atribuem os sintomas à própria sífilis. A cada vez que nos deparamos com tais equívocos da medicina, é impossível não sentir o coração pesar.
+
+***
+
+## A Paralisia Súbita e o Despertar da Fé
+
+**Relato de Katagiri Benji (26), Igreja Shingen, Grande Igreja Goroku-Shichi, Aichi**
+
+Em um dia de novembro de 1948, ao retornar do trabalho, senti uma estranha fraqueza nas pernas. Não era bem uma dor, mas uma sensação pesada e indefinível que me impedia de firmar os passos. Preocupado com meu trabalho no dia seguinte como motorista de caminhão, procurei um médico conhecido, relatei os sintomas, recebi uma injeção e voltei para casa para me deitar. Na manhã seguinte, ao ser acordado por minha esposa, tentei me levantar apressadamente e caí de volta na cama, completamente incapaz de me mover. Embora não sentisse dor ou qualquer outro desconforto, minhas mãos e pernas simplesmente não respondiam. Fiquei atônito por um tempo, até que a consciência de que havia me tornado um inválido me atingiu, e lágrimas de frustração rolaram por meu rosto. Minha esposa, percebendo meu estado, ficou sentada ao meu lado, paralisada. Irritado, mandei que chamasse o médico, que me deu outra injeção, mas sem qualquer efeito. Passei os três dias seguintes mergulhado em lágrimas.
+
+Ao saber da notícia, minha sogra veio correndo ao anoitecer e insistiu que eu recebesse o Johrei de Komyô Nyorai-Sama. Mesmo imobilizado, recusei a ideia, irritado com o que considerava uma superstição. Contudo, ela me ignorou e, à força, ministrou-me Johrei por cerca de uma hora. Como resultado, senti, para minha surpresa, uma sensibilidade retornar à ponta dos meus dedos, que começaram a se mover ligeiramente. Mesmo assim, no dia seguinte, não tive coragem de dispensar o médico e continuei com as injeções. Minha sogra insistia para que eu parasse com os remédios, garantindo que eu ficaria bem, mas não consegui ouvi-la. Apesar da minha teimosia, ela continuou a me ministrar Johrei pacientemente, de manhã e à noite. Meu corpo foi ficando gradualmente mais leve, mas, no sexto dia, por recomendação do médico, que não conseguia diagnosticar minha condição, fui levado de caminhão a Nagoya para fazer um exame de sangue em um hospital universitário. O médico me disse que o resultado do exame era a minha melhor esperança. Após a análise, perguntei sobre meu estado, e o doutor, coçando a cabeça, disse que era semelhante à poliomielite e que eu deveria seguir um tratamento rigoroso e prolongado com o médico de minha cidade.
+
+Foi somente nesse momento que compreendi a profundidade do ato de compaixão de minha sogra, e minha cabeça se curvou em arrependimento. Percebi que não havia outro caminho para a salvação e, com o coração sincero, pedi-lhe perdão e me entreguei aos cuidados de Komyô Nyorai-Sama, confiando plenamente nela. Naquela mesma noite, senti minhas forças retornarem vigorosamente. No dia seguinte, já conseguia me arrastar pelo quarto; no outro, caminhar com o auxílio de uma bengala; na manhã seguinte, andava sem apoio algum e, à tarde, já me movia sem qualquer dificuldade. No décimo dia após o início dos sintomas, eu já era capaz de dirigir o caminhão novamente. Minha sogra, maravilhada com a rapidez da minha recuperação, entoava com fervor crescente as palavras de louvor a Deus, e seu rosto se iluminava de alegria a cada sessão de Johrei. Minha esposa, por sua vez, unia as mãos em gratidão e reverência diante da dedicação de sua mãe. Ah, quão grandioso é o poder da sabedoria Divina! Não há outra palavra senão "gratidão".
+
+*Comentário de Meishu-Sama*
+
+Este relato não faz mais do que expor a ineficácia da medicina moderna. O paciente manifestou inicialmente uma leve purificação na região da cintura e das pernas. Se tivesse deixado o processo seguir seu curso natural, a recuperação teria ocorrido em poucos dias. Contudo, ao receber uma injeção, a intoxicação medicamentosa provocou a paralisia. Foi o Johrei ministrado por sua sogra que surtiu efeito, eliminando o veneno do remédio e levando à cura completa.
+
+O ponto crucial aqui é que, mesmo diante dos resultados evidentes do Johrei, ele não conseguiu crer e ainda procurou o diagnóstico de um grande hospital. Isso revela o quanto as pessoas confiam cegamente na medicina.
+
+***
+
+## O Johrei Inseguro que Salvou uma Vida
+
+**Relato de Kano Kuni (30), Igreja Kô-no-Michi, Grande Igreja Taissei, Shimane**
+
+Após anos sofrendo com uma saúde frágil, eu e meu irmão recebemos, em abril do ano passado, a permissão de nos tornarmos membros através do reverendo Ishizaka. Desde então, toda a nossa família tem sido abençoada com saúde e bem-estar. Enquanto meu irmão tem ajudado a curar sucessivamente pessoas que sofriam com doenças, eu, absorvida pelos afazeres domésticos, negligenciei meu auxílio na Obra Divina. Hoje, porém, esta pessoa imatura que sou ministrou Johrei a um estranho pela primeira vez e pude vivenciar, com profunda emoção, que mesmo alguém com tantas máculas como eu pode receber o poder da salvação. Prostro-me em oração e junto minhas mãos diante da certeza absoluta do poder da Medalha de Meishu-Sama.
+
+A família que mora ao lado da minha casa é muito rica e todos são seguidores devotos da religião Seicho-no-Ie. A filha deles, que está na quinta série do ensino fundamental, veio correndo até minha casa e, aos prantos, suplicou: “Minha mãe passou mal de repente e está quase sem respirar, venha depressa, por favor!”, e desabou a chorar. Fiquei atônita com suas palavras. Dada a gravidade da situação e por ser minha primeira vez, não me sentia confiante. Para piorar, meu irmão estava viajando. Enquanto eu hesitava, os vizinhos insistiram para que eu fosse logo e praticamente me arrastaram até a casa. Ao chegar, vi sete ou oito pessoas da vizinhança em alvoroço. Embora recitassem fervorosamente as preces da Seicho-no-Ie e praticassem o *shinsokan* (meditação para visualizar Deus), o estado da mulher só piorava a cada instante. Haviam telefonado para o médico, mas ele ainda não chegara. Com receio, aproximei-me da cabeceira da paciente. Ela tremia de calafrios, seu rosto estava lívido e os lábios, roxos. Confesso que, naquele momento, um sentimento de queixa surgiu em meu coração por ter me deparado com um caso tão assustador logo na minha primeira experiência.
+
+Contudo, a situação era crítica, não havia alternativa. Em meu coração, orei desesperadamente: “Meishu-Sama, Dai Komyô Nyorai-Sama!”. Seguindo os ensinamentos que sempre recebo dos reverendos Ishizaka e Sakunaka, comecei a ministrar Johrei na cabeça da paciente. Após pouco mais de dez minutos, os tremores cessaram e ela adormeceu serenamente. Passados trinta minutos, abriu os olhos subitamente e olhou ao redor. Em seguida, vomitou duas vezes e, cinquenta minutos depois, a cor voltou ao seu rosto e ela recuperou a lucidez. Com lágrimas de emoção, ela me agradeceu: “Ah, sinto-me tão aliviada! Eu fui salva, não é?”. Respondi: “Este não é o meu poder, é o poder de Komyô Nyorai-Sama”. Enquanto eu lhe explicava, ela, tomada pela gratidão, sentou-se na cama e orou em direção a Hakone, onde se encontra Meishu-Sama. Posteriormente, fiquei sabendo que a causa de seu mal-estar foi uma injeção intravenosa que recebera cerca de duas horas antes, e que talvez tenha havido algum erro na aplicação. Ao receber uma graça tão imensa e sentir que até mesmo alguém como eu pôde contribuir, ainda que minimamente, para a sagrada obra de salvação da humanidade de Meishu-Sama, sinto uma alegria e uma força que brotam do fundo da minha alma.
+
+*Comentário de Meishu-Sama*
+
+Este relato contém dois significados de grande importância. O primeiro é o fato de uma fiel sem experiência e sem autoconfiança ter ministrado Johrei, ainda que receosa, a uma paciente em estado de risco iminente e ter conseguido sua recuperação imediata. O segundo é a evidência do efeito reverso das injeções. Apenas estes fatos já demonstram, com clareza cristalina, a notável diferença entre a medicina moderna e o Johrei de nossa Igreja. Cada vez que nos conscientizamos de exemplos como este, uma sensação indescritível emerge em nosso ser.
+
+---
+
 # Tratamento de Enfermidades da Cabeça, Pescoço e Tórax
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
 **Título Original:** 岡田先生療病術講義録 下巻 （二） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田先生療病術講義録
 
 ## Tratamento de Enfermidades da Cabeça, Pescoço e Tórax
 
@@ -208,7 +557,7 @@ Existe também a broncopneumonia, que ocorre quando o pus acumulado na parte inf
 
 **Categoria:** o | **Ano:** 昭和25(1950)年2月11日 | **Fonte:** Kyusei
 **Título Original:** おかげ批判 浄霊と医療の優劣現る | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1950-02-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Superioridade do Johrei em Relação à Medicina
 
@@ -281,7 +630,7 @@ Ademais, desconhecendo a causa, ele recorreu a uma injeção para uma dor e febr
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 尾形光琳 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.55 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## A Genialidade de Ogata Korin e sua Influência Mundial
 
@@ -301,7 +650,7 @@ Até hoje, não há registro de outro japonês cujas realizações tenham impact
 
 **Categoria:** o | **Ano:** 昭和26(1951)年11月7日 | **Fonte:** Eikou
 **Título Original:** 大宅壮一という人 | **Status:** Published | **Edição/Página:** 129号 | **Data ISO:** 1951-11-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre o Senhor Ooya Souichi
 
@@ -319,7 +668,7 @@ Então, por que ele divulgou tamanha inverdade a um jornal? A razão parece ser 
 
 **Categoria:** o | **Ano:** 昭和25(1950)年2月25日 | **Fonte:** Kyusei
 **Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1950-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Superioridade do Johrei Evidenciada pelos Fatos
 
@@ -425,7 +774,7 @@ A eficácia da Terapia Divina, que curou em poucos meses um sofrimento de cinco 
 
 **Categoria:** o | **Ano:** 昭和25(1950)年3月18日 | **Fonte:** Kyusei
 **Título Original:** お伺いロマンス 二人袴 | **Status:** Published | **Edição/Página:** 54号, 52号 | **Data ISO:** 1950-03-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Resposta do Mestre ao Conto "Dois Hakama"
 
@@ -667,7 +1016,7 @@ Que rumo deveria tomar?
 
 **Categoria:** o | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
 **Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 65号 | **Data ISO:** 1950-06-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Milagre Não é Acaso, Sua Origem Reside no Mundo Espiritual
 
@@ -720,7 +1069,7 @@ Uma das grandes razões para a expansão de nossa Fé reside, precisamente, na i
 
 **Categoria:** o | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
 **Título Original:** 己れの利害を本位とし、社会の公器性を失う 読売新聞へ再抗議文 | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1950-01-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Imprensa como Instrumento de Interesses Particulares
 
@@ -754,7 +1103,7 @@ Acrescentamos, por fim, o desejo de que, no futuro, quaisquer suspeitas sejam ob
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
 **Título Original:** 岡田先生療病術講義録 上巻 （三） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田先生療病術講義録
 
 ## A Essência da Saúde e da Cura
 
@@ -888,7 +1237,7 @@ Os medicamentos de uso tópico penetram na pele, impurificam o sangue e enfraque
 
 **Categoria:** o | **Ano:** 昭和11(1936)年4月16日 | **Fonte:** 新日本医術書
 **Título Original:** 驚く可き誤診と誤療 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-04-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## Alarmantes Erros de Diagnóstico e Tratamento
 
@@ -930,7 +1279,7 @@ Caso os profissionais mencionados nestes exemplos desejem averiguar os fatos, te
 
 **Categoria:** o | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 大本教脱退の理由 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.27 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## As Razões de Meu Desligamento da Oomoto
 
@@ -952,7 +1301,7 @@ Foi no sétimo ano da era Showa (1932) que tomei a decisão de me afastar. Após
 
 **Categoria:** o | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
 **Título Original:** 恐るべき漢方薬 | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Temível Perigo da Fitoterapia Chinesa
 
@@ -976,7 +1325,7 @@ Esta realidade, aliás, é de conhecimento geral e nos permite inferir a prováv
 
 **Categoria:** o | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 大森時代 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.17 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## O Alicerce das Minhas Provações
 
@@ -1002,7 +1351,7 @@ Por meio de uma certa descoberta acidental, compreendi que a causa de tamanha af
 
 **Categoria:** o | **Ano:** 昭和26(1951)年1月31日 | **Fonte:** Eikou
 **Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 89号 | **Data ISO:** 1951-01-31
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Cura do Tifo pela Força de Deus
 
@@ -1055,7 +1404,7 @@ Este é o meu testemunho sobre o tifo exantemático. Ofereço este relato em pro
 
 **Categoria:** o | **Ano:** 昭和29(1954)年3月3日 | **Fonte:** Eikou
 **Título Original:** 汚職の母体 | **Status:** Published | **Edição/Página:** 250号 | **Data ISO:** 1954-03-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Matriz da Corrupção
 
@@ -1085,7 +1434,7 @@ Atualmente, o Estado investe em educação e em diversas outras instituições, 
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 音曲 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.25 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## As Artes Musicais
 
@@ -1111,7 +1460,7 @@ Ademais, também no Manzai (漫才) houve mestres. A falecida Miss Wakana foi, i
 
 **Categoria:** o | **Ano:** 昭和27(1952)年10月29日 | **Fonte:** Eikou
 **Título Original:** 恐るべき薬害 | **Status:** Published | **Edição/Página:** 180号 | **Data ISO:** 1952-10-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Terrível Flagelo dos Medicamentos
 
@@ -1148,7 +1497,7 @@ Meishu-Sama, por Vossa sagrada proteção, muito, muito obrigado. Do fundo de me
 
 **Categoria:** o | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 大本信者時代の私 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.74 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## Uma Reflexão sobre Meus Anos na Religião Omoto
 
@@ -1166,7 +1515,7 @@ Passo agora a elucidar as razões subjacentes a essa dinâmica. A fundadora, Deg
 
 **Categoria:** o | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## A Ilusão do Progresso Médico e a Verdadeira Cura
 
@@ -1198,7 +1547,7 @@ E o mais grave é que esse caminho é superestimado como sendo o do progresso. P
 
 **Categoria:** o | **Ano:** 昭和24(1949)年4月30日 | **Fonte:** -
 **Título Original:** 愚かなる者よ！ 汝の名は悪人なり | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949-04-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Ó, insensatos! Vosso nome é perversidade
 
@@ -1222,7 +1571,7 @@ Dessa forma, seja sob a ótica da fé, seja por um simples cálculo pragmático,
 
 **Categoria:** o | **Ano:** 昭和9(1934)年7月 | **Fonte:** 松風
 **Título Original:** おことわり | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1934-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 松風
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 松風
 
 ## Aos Nossos Leitores
 
@@ -1236,7 +1585,7 @@ Tenham a certeza de que estou envidando todos os esforços para encontrar uma so
 
 **Categoria:** o | **Ano:** 昭和24(1949)年4月8日 | **Fonte:** -
 **Título Original:** 大宅壮一君に与う | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1949-04-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Uma Resposta ao Senhor Oya Soichi
 
@@ -1260,7 +1609,7 @@ Para concluir, gostaria de afirmar o seguinte: se a totalidade dos jornalistas d
 
 **Categoria:** o | **Ano:** 昭和24(1949)年7月2日 | **Fonte:** -
 **Título Original:** お蔭話を読んで | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1949-07-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Testemunho das Graças Alcançadas
 
@@ -1284,7 +1633,7 @@ Reflito constantemente: se uma pessoa lê estes relatos e, ainda assim, suas dú
 
 **Categoria:** o | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
 **Título Original:** 御蔭話から何を得る | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Lição Contida nos Relatos de Graça
 
@@ -1312,7 +1661,7 @@ Portanto, a cada relato de graça que lemos, sentimos mais intensamente o dever 
 
 **Categoria:** o | **Ano:** 昭和11(1936)年5月3日 | **Fonte:** 驚くべき肺結核診断の誤診
 **Título Original:** 驚くべき肺結核診断の誤診 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Surpreendente Realidade dos Equívocos no Diagnóstico da Tuberculose Pulmonar
 
@@ -1354,7 +1703,7 @@ A notável eficácia desse método tem sido comprovada por minhas experiências 
 
 **Categoria:** o | **Ano:** 昭和9(1934)年4月 | **Fonte:** 松風
 **Título Original:** お詫び ・巻頭言 | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1934-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 松風
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 松風
 
 ## Nota de Desculpas
 
@@ -1370,7 +1719,7 @@ Doravante, empenhar-nos-emos ao máximo para que tal situação não volte a oco
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
 **Título Original:** 岡田先生療病術講義録 上巻 （二） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田先生療病術講義録
 
 ## A Verdadeira Causa das Doenças
 
@@ -1514,7 +1863,7 @@ Nesse caso, a cura do corpo físico se manifestou vários dias após a cura do c
 
 **Categoria:** o | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
 **Título Original:** 岡田式指圧療法の原理 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## O Princípio da Terapia Purificadora
 
@@ -1542,7 +1891,7 @@ Diante de tais fatos, podemos afirmar sem hesitação que se aproxima a era em q
 
 **Categoria:** o | **Ano:** 昭和26(1951)年11月28日 | **Fonte:** Eikou
 **Título Original:** 御任せする | **Status:** Published | **Edição/Página:** 132号 | **Data ISO:** 1951-11-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre a Entrega a Deus
 
@@ -1574,7 +1923,7 @@ Assim, grande parte dos acontecimentos neste mundo se desenrola de maneira parad
 
 **Categoria:** o | **Ano:** 昭和27(1952)年4月9日 | **Fonte:** Eikou
 **Título Original:** 御蔭話を読んで | **Status:** Published | **Edição/Página:** 151号 | **Data ISO:** 1952-04-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Ilusão da Cura Médica e a Verdadeira Salvação
 
@@ -1604,7 +1953,7 @@ Contudo, tudo está sujeito ao tempo oportuno. Foi-me revelado que, segundo o Pl
 
 **Categoria:** o | **Ano:** 昭和28(1953)年3月18日 | **Fonte:** Eikou
 **Título Original:** 恐るべき化粧品中毒 | **Status:** Published | **Edição/Página:** 200号 | **Data ISO:** 1953-03-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Intoxicação Oculta nos Cosméticos
 
@@ -1644,7 +1993,7 @@ Embora eu seja uma pessoa repleta de máculas, estou determinada a me esforçar 
 
 **Categoria:** o | **Ano:** 昭和26(1951)年5月2日 | **Fonte:** Eikou
 **Título Original:** 大風呂敷 阿呆文学（十） | **Status:** Published | **Edição/Página:** 102号 | **Data ISO:** 1951-05-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Grande Envoltório da Salvação
 
@@ -1666,7 +2015,7 @@ Com a parca sabedoria que possuem, é certo que jamais conseguirão compreender.
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
 **Título Original:** 岡田先生療病術講義録 上巻 （一） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田先生療病術講義録
 
 ## Palestra sobre a Arte da Terapia Espiritual
 
@@ -1912,7 +2261,7 @@ O casamento entre seres humanos segue o mesmo princípio. O marido e a mulher se
 
 **Categoria:** o | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 怨霊及び地縛の霊 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## Sobre os Espíritos Vingativos e os Prisioneiros da Terra
 
@@ -1938,7 +2287,7 @@ Contudo, os espíritos prisioneiros da terra podem se libertar em um prazo de at
 
 **Categoria:** o | **Ano:** 昭和25(1950)年11月29日 | **Fonte:** Eikou
 **Título Original:** 大いに神書を読むべし | **Status:** Published | **Edição/Página:** 80号 | **Data ISO:** 1950-11-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Imperiosa Leitura dos Escritos Divinos
 
@@ -1960,7 +2309,7 @@ Aproveitando o ensejo, gostaria de abordar mais um ponto. No que tange à práti
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 薬毒の恐怖 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Barbárie da Medicina Contemporânea
 
@@ -1974,7 +2323,7 @@ Contudo, diante de tamanhas tragédias, o governo, os médicos e os órgãos de 
 
 **Categoria:** o | **Ano:** 昭和28(1953)年9月9日 | **Fonte:** Eikou
 **Título Original:** 恐るべき医療 | **Status:** Published | **Edição/Página:** 225号 | **Data ISO:** 1953-09-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Medicina Aterradora
 
@@ -2027,7 +2376,7 @@ Meishu-Sama, por Vossa incessante proteção, nossa mais profunda gratidão.
 
 **Categoria:** ra | **Ano:** 昭和27(1952)年8月13日 | **Fonte:** Eikou
 **Título Original:** 雷火恐怖症 | **Status:** Published | **Edição/Página:** 169号 | **Data ISO:** 1952-08-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Origem Espiritual das Fobias
 
@@ -2064,7 +2413,7 @@ Muito obrigado, Meishu-Sama.
 
 **Categoria:** o | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** 恐るべき科学迷信
 **Título Original:** 恐るべき科学迷信 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Terrível Superstição da Ciência
 
@@ -2113,7 +2462,7 @@ Tendo sido eu o escolhido para conduzir este magno Plano Divino, afirmo categori
 
 **Categoria:** ya | **Ano:** 昭和27(1952)年9月10日 | **Fonte:** Eikou
 **Título Original:** 薬毒の恐怖 | **Status:** Published | **Edição/Página:** 173号 | **Data ISO:** 1952-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Pavor das Toxinas Medicinais
 
@@ -2127,7 +2476,7 @@ Tal realidade pode parecer assustadora, justamente por ser algo que a maioria da
 
 **Categoria:** ya | **Ano:** 昭和24(1949)年9月10日 | **Fonte:** -
 **Título Original:** 薬剤亡国論 薬毒怖るべし | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1949-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Terrível Veneno dos Medicamentos
 
@@ -2155,7 +2504,7 @@ Ah, como anseio que a sociedade em geral reconheça quão pavoroso é o yakudoku
 
 **Categoria:** ya | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
 **Título Original:** 薬剤の害毒 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Nocividade dos Medicamentos
 
@@ -2179,7 +2528,7 @@ O mesmo princípio se aplica à constipação e a outras enfermidades, motivo pe
 
 **Categoria:** o | **Ano:** 昭和25(1950)年4月1日 | **Fonte:** Kyusei
 **Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 56号 | **Data ISO:** 1950-04-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Indubitável Poder de Deus
 
@@ -2311,7 +2660,7 @@ Quanto aos notáveis resultados da agricultura sem adubos, a resistência à tem
 
 **Categoria:** o | **Ano:** 昭和25(1950)年4月22日 | **Fonte:** Kyusei
 **Título Original:** おかげばなし批判 | **Status:** Published | **Edição/Página:** 59号 | **Data ISO:** 1950-04-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Milagre da Vida: A Salvação de Meu Filho Desenganado
 
@@ -2383,7 +2732,7 @@ Em contrapartida, o Johrei de nossa Igreja atua de maneira oposta: dissolve as s
 
 **Categoria:** ya | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
 **Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第一編
 
 ## O Mal Gerado pelos Medicamentos
 
@@ -2421,7 +2770,7 @@ Portanto, não é um despropósito afirmar que a raiz da infelicidade e dos conf
 
 **Categoria:** ya | **Ano:** 昭和28(1953)年5月6日 | **Fonte:** Eikou
 **Título Original:** 薬毒は戦争より恐ろしい | **Status:** Published | **Edição/Página:** 207号 | **Data ISO:** 1953-05-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Terror das Toxinas dos Medicamentos
 
@@ -2479,7 +2828,7 @@ Meishu-Sama, muito obrigada. Rendo-lhe minha mais profunda gratidão. Humildemen
 
 **Categoria:** ya | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Verdadeira Natureza dos Medicamentos e suas Consequências
 
@@ -2523,7 +2872,7 @@ Por meio da teoria e dos exemplos aqui apresentados, espero que o leitor tenha p
 
 **Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
 **Título Original:** 岡田先生療病術講義録 下巻 （一） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田先生療病術講義録
 
 ## A Terapêutica Divina para as Enfermidades da Face
 
@@ -2667,7 +3016,7 @@ No final do ano passado, tratei uma senhora cujo rosto estava tão deformado que
 
 **Categoria:** ya | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 薬毒 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## O Veneno dos Remédios: A Causa Primordial do Sofrimento
 
@@ -2704,524 +3053,6 @@ O terceiro ponto é a morosidade dos movimentos do homem moderno, que também at
 Originalmente, o povo japonês, em comparação com os estrangeiros, possui um corpo muito mais leve e movimentos mais ágeis. A excelência dos aviadores japoneses é a prova mais eloquente disso.
 
 Portanto, não é um excesso dizer que a raiz da infelicidade e dos conflitos humanos reside no veneno dos remédios. Imagino quão radiante seria uma sociedade composta por seres humanos livres desse mal. Uma pessoa completamente livre do yakudoku (薬毒) possui uma mente clara, um sentimento de júbilo e uma vitalidade transbordante.
-
----
-
-# A Causa e a Cura das Principais Enfermidades
-
-**Categoria:** o | **Ano:** 昭和11(1936)年7月 | **Fonte:** 岡田先生療病術講義録
-**Título Original:** 岡田先生療病術講義録 下巻 （五） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田先生療病術講義録
-
-## A Causa e a Cura das Principais Enfermidades
-
-### Nevralgia
-
-Embora possa se manifestar por todo o corpo, esta enfermidade acomete com maior frequência os membros inferiores, razão pela qual a abordarei neste tópico. A nevralgia, conforme o próprio nome indica, é uma moléstia caracterizada pela dor nos nervos, cuja intensidade varia consideravelmente entre casos leves e graves.
-
-Sua causa reside no acúmulo de pus aquoso ou sangue impuro em uma região específica, decorrente da Ação Purificadora, o que resulta na compressão dos nervos. Embora seja comumente tida como uma doença de difícil tratamento, por meio de nossa terapia, alcança-se a cura total de maneira notavelmente tranquila. O restabelecimento ocorre geralmente em uma semana, ou de duas a três semanas nos casos mais severos.
-
-É comum, ainda, que esta enfermidade se manifeste concomitantemente ao reumatismo.
-
-### Reumatismo
-
-Esta enfermidade apresenta-se em duas modalidades distintas.
-
-A primeira manifesta-se exclusivamente nas articulações das mãos e dos pés. Os sintomas incluem inchaço acentuado de coloração avermelhada, febre e uma dor lancinante e insuportável, a ponto de o simples contato com as vestes se tornar intolerável. A causa é o acúmulo de sangue impuro de natureza maligna nas áreas afetadas, impulsionado pela Ação Purificadora. Nos tratamentos convencionais, a remissão da dor pode levar de dois a três meses e, ademais, a coagulação do sangue impuro frequentemente resulta na perda da mobilidade dos membros, levando muitos à invalidez. Em contrapartida, com a nossa terapia, os casos em estágio inicial alcançam a cura completa em menos de uma semana, o que é, de fato, prodigioso.
-
-O segundo tipo, por sua vez, origina-se da uremia renal e, embora afete principalmente as articulações, pode ocorrer em outras partes do corpo. A dor, neste caso, é menos intensa que a da primeira modalidade, mas ainda assim causa considerável sofrimento. Suas características distintivas são a ausência de alteração na coloração da pele na área afetada e a natureza migratória da dor. Nos casos graves, a doença torna-se sistêmica, e a dor é tamanha que impede o paciente até mesmo de se virar na cama. Com nossa terapia, a cura é alcançada com facilidade, geralmente entre uma e três semanas. Durante o tratamento, é imprescindível ministrar a terapia também na região dos rins.
-
-Para ambos os tipos, os casos em que as toxinas foram solidificadas por outros tratamentos ou pelo decurso do tempo exigirão um período de recuperação proporcionalmente maior. As calcificações mais severas podem demandar de seis meses a um ano de tratamento.
-
-### Beribéri
-
-Esta doença, em seus estágios iniciais, manifesta-se como uma paralisia abaixo dos joelhos, na região da canela. À medida que o quadro se agrava, os sintomas podem se estender às palmas das mãos, especialmente na área próxima ao polegar, e até mesmo aos lábios. Contudo, o beribéri pós-parto, que acomete as mulheres, difere do quadro descrito, pois a paralisia se alastra por toda a perna, chegando ao abdômen e à região dos seios.
-
-A causa, conforme postula a medicina, reside na intoxicação por arroz branco no primeiro caso, e na exsudação de lóquios residuais do parto através da pele, por meio da Ação Purificadora, no segundo.
-
-Com nossa terapia, a cura completa é obtida em um período de uma a duas semanas. Para o primeiro tipo de beribéri, consumir uma colher de farelo de arroz torrado a cada refeição revela-se eficaz.
-
-Existe, ademais, uma condição que poderíamos chamar de pseudo-beribéri, causada pela uremia renal. Esta é, na verdade, mais comum que o verdadeiro beribéri, e muitos pacientes que nos procuram com este diagnóstico estão, na realidade, sofrendo desta afecção. Os sintomas incluem ausência quase total de paralisia, peso generalizado nas pernas, certa dificuldade para caminhar e, por vezes, alguma dor ou inchaço. Em raras ocasiões, uma peritonite branda pode ser a causa.
-
-Através de nossa terapia, a cura completa ocorre em uma ou duas semanas, mas o tratamento exige que se ministre a terapia de forma abundante na região dos rins e do abdômen.
-
-### Micose (Pé de Atleta)
-
-Esta afecção consiste no surgimento de um tipo de eczema entre os dedos dos pés, cujo principal desconforto é o prurido. Sua origem reside na possessão espiritual por uma miríade de pequenos insetos. Embora seja considerada uma afecção de difícil erradicação, através de nossa terapia, sua cura é extremamente simples. Casos leves são resolvidos em duas ou três sessões, enquanto os mais graves alcançam a cura total em uma ou duas semanas.
-
-### Tinea Crural
-
-Trata-se de uma micose que se desenvolve na região do escroto e causa um prurido bastante intenso. Nossa terapia promove a cura completa, mas requer um tempo considerável de tratamento, geralmente em torno de um mês.
-
-### Chatice (Piolho-púbico)
-
-Nesta condição, uma espécie de piolho se aloja nos pelos pubianos, causando um prurido extremo. As causas de contágio são duas: o ato sexual e o banho em locais públicos. O tratamento não requer nossa terapia, pois a raspagem dos pelos pubianos e a aplicação de pomada de mercúrio ou óleo de colza por uma ou duas vezes são suficientes para a cura.
-
-### Eczema da Perna
-
-Esta enfermidade é um tipo de erupção cutânea que surge na parte posterior da canela e provoca prurido considerável. Com nossa terapia, a cura é alcançada em menos de uma semana.
-
-### Retroversão Uterina
-
-Esta é uma condição extremamente comum e, para a medicina, uma das causas da infertilidade. Todavia, como há um número considerável de mulheres que engravidaram mesmo com este diagnóstico, não se trata de uma causa absoluta. Os sintomas incluem desconforto na região lombar e no baixo-ventre. A causa é o acúmulo e a solidificação de pus aquoso na face posterior do útero, que o traciona, ou a pressão exercida por acúmulos semelhantes no baixo-ventre, o que altera a posição do órgão. Portanto, a dor lombar e o desconforto não são causados diretamente pela retroversão, mas sim pelo acúmulo de pus aquoso.
-
-Dessa forma, ao dissolvermos esse acúmulo com nossa terapia, a cura completa é facilmente alcançada. O tratamento leva de uma a três semanas e consiste em aplicar a terapia na região lombar, especialmente nos pontos dolorosos à pressão próximos ao cóccix, e nos pontos dolorosos ou endurecidos do baixo-ventre.
-
-### Tumefação Ovariana
-
-Nesta doença, o pus aquoso se acumula no interior do ovário, causando sua tumefação. O tamanho pode variar desde o de um ovo de galinha ou menor, até o de uma cabeça de criança ou ainda maior. Em estágios iniciais, a cura é rápida, mas quanto mais avançada a condição, mais tempo o tratamento demandará. Contudo, com perseverança, a cura é sempre possível. É importante notar, entretanto, que muitas pacientes que nos procuram com o diagnóstico de tumefação ovariana na realidade não a possuem. Se, ao pressionar a região com os dedos, nenhuma anormalidade for sentida ao toque, o ovário deve ser considerado saudável.
-
-Os casos graves estão detalhados no capítulo sobre peritonite. Os casos leves exigem de uma a duas semanas, e os graves, de dois a três meses.
-
-### Câncer de Útero
-
-Esta é uma enfermidade relativamente comum e considerada de difícil tratamento. Os sintomas incluem dor na região uterina, sangramento contínuo e corrimento branco de odor fétido. A causa reside no acúmulo de sangue impuro e pus aquoso na parte externa do útero. Com o passar do tempo, essa substância adquire maior densidade e natureza purulenta, acabando por infiltrar-se na parede interna do órgão. Este processo é idêntico ao que ocorre no câncer de estômago.
-
-Com nossa terapia, a cura é alcançada com uma facilidade prodigiosa, levando cerca de uma semana nos casos leves e três semanas nos mais graves. Contudo, durante o tratamento, podem ocorrer hemorragias volumosas, sendo imprescindível que o paciente seja previamente alertado a este respeito. Com efeito, quanto maior o sangramento, mais célere será a recuperação. Todavia, os casos em estágio terminal, com debilidade extrema, são de difícil tratamento, pois a vida do paciente pode não se sustentar até que o tumor cancerígeno seja dissolvido.
-
-### Gravidez Ectópica
-
-Nesta condição, os sintomas iniciais, como a interrupção da menstruação e outros sinais gestacionais, levam a crer que se trata de uma gravidez normal. Em casos raros, esses sintomas podem estar ausentes. A característica principal é o sangramento contínuo, podendo haver também alguma dor na região uterina.
-
-Com nossa terapia, a cura é obtida de forma simples, com três ou quatro sessões. Durante o tratamento, ao pressionar a área cerca de um ou dois centímetros abaixo do umbigo, invariavelmente haverá um ponto doloroso. Basta purificar essa região. A causa é tida como a gestação que ocorre no interior da trompa de Falópio.
-
-### Endometrite
-
-Nesta doença, ocorre uma inflamação da parede interna do útero, o que gera uma sensação de desconforto. A causa reside nas toxinas presentes no corrimento branco, que irritam a mucosa. Frequentemente realiza-se a curetagem, mas seus efeitos são apenas temporários e de eficácia questionável. A cura fundamental só é possível com a eliminação do corrimento branco e de suas toxinas.
-
-Por meio de nossa terapia, a cura total é alcançada em um período de uma a quatro semanas.
-
-### Parametrite
-
-Esta doença é causada pelo acúmulo de pus aquoso ao redor do útero. A febre constante no baixo-ventre, decorrente da Ação Purificadora sobre esse acúmulo, gera uma sensação de desconforto. A cura completa ocorre em menos de uma semana para os casos leves e de duas a três semanas para os graves. Os quadros mais severos desta condição parecem ser denominados de parametrite intersticial.
-
-### Doenças da Uretra
-
-As doenças uretrais femininas dividem-se em dois tipos: o primeiro é causado pela toxina gonocócica, e o segundo, por enfermidades dos rins ou da bexiga.
-
-No primeiro caso, a doença reside na própria uretra. Já no segundo, o pus aquoso se acumula ao redor dos rins, próximo aos ureteres ou na parte externa da bexiga. A febre gerada pela Ação Purificadora sobre esse acúmulo torna a urina quente. A passagem constante dessa urina quente pela uretra causa inchaço na mucosa e, em estágios mais avançados, fissuras. Quando a urina quente entra em contato com essas fissuras, provoca dor intensa, e pequenos coágulos de sangue podem ser observados na urina.
-
-Para o primeiro tipo, basta tratar a região da uretra. Para o segundo, é necessário purificar a área que vai dos rins até a bexiga, além da própria uretra. A cura completa ocorre em menos de uma semana nos casos leves e de duas a três semanas nos mais graves.
-
-### Prolapso Uterino
-
-Popularmente conhecida desde a antiguidade, esta doença consiste na descida do útero para dentro da vagina. A causa, na maioria dos casos, é o parto, restringindo-se, portanto, a mulheres que já deram à luz. A causa direta é o relaxamento do músculo esfíncter uterino devido ao parto, enquanto a causa indireta é o acúmulo de pus aquoso no baixo-ventre. A pressão exercida por esse acúmulo leva ao enfraquecimento do útero e de suas funções acessórias. Assim, ao dissolvermos esse pus, a cura é alcançada.
-
-O tratamento leva de uma a duas semanas para os casos leves e de um a dois meses para os mais graves.
-
-### Menorragia (Fluxo Menstrual Excessivo)
-
-Este quadro indica uma grande quantidade de sangue impuro e, portanto, não é algo negativo. Se deixado evoluir naturalmente, ele se resolverá com o tempo. Contudo, ao realizar uma purificação de todo o corpo com nossa terapia, a cura se torna mais rápida.
-
-### Amenorreia (Ausência de Menstruação)
-
-Este sintoma refere-se à ausência de menstruação em jovens que já passaram dos dezesseis ou dezessete anos. A causa é a compressão e obstrução dos vasos sanguíneos que irrigam o útero, provocadas pelo acúmulo de pus aquoso na região. Portanto, ao dissolvermos esse acúmulo no baixo-ventre, a condição é curada. O tratamento leva de duas a três sessões para os casos leves e de duas a três semanas para os mais graves.
-
-### Leucorreia (Corrimento Branco)
-
-Esta enfermidade apresenta uma enorme variação de intensidade e consiste na eliminação constante de um tipo de pus aquoso. Sua causa é a Ação Purificadora, e embora as pessoas a temam como uma doença, isso é um grande equívoco. Na verdade, quanto mais corrimento houver, melhor. A razão para tal é que a presença do corrimento impede o desenvolvimento de doenças que poderiam surgir nos órgãos internos, pois suas causas são eliminadas através dele.
-
-Ao examinarmos pacientes com esta condição, constatamos invariavelmente que todo o abdômen se encontra distendido. Isso nada mais é do que o próprio corrimento branco. Consequentemente, ao dissolvê-lo, a quantidade de secreção eliminada aumenta temporariamente, mas, com isso, o abdômen se reduz gradualmente até a completa recuperação.
-
-O tratamento requer um período consideravelmente longo, em torno de um mês para os casos leves e três meses para os mais graves.
-
-### Infertilidade
-
-Atualmente, atribui-se a infertilidade a causas como a retroversão uterina e a deficiência de espermatozoides no homem. Embora estes possam ser, de fato, fatores contribuintes, minha observação indica que a causa principal é um enfraquecimento geral do aparelho genital.
-
-Ao examinar pacientes com esta condição, constata-se que, na maioria dos casos, o baixo-ventre está um tanto distendido e mais endurecido que o normal. Isso ocorre porque o acúmulo de pus aquoso nessa região exerce uma pressão constante sobre os órgãos genitais, inibindo sua atividade e, consequentemente, reduzindo a vitalidade necessária para a concepção.
-
-Portanto, o tratamento consiste em dissolver esse acúmulo de pus aquoso até que a região readquira a mesma flexibilidade de uma pessoa saudável. Isso exige um período considerável, devendo-se prever de dois a três meses, podendo chegar a cinco ou seis meses.
-
-### Frigidez
-
-Este também é um sintoma relativamente comum, com causas tanto psicológicas quanto físicas. No âmbito psicológico, acredito que a causa resida em uma timidez extrema ou em casamentos forçados, desprovidos de qualquer afeto. No que tange ao aspecto físico, o acúmulo de pus aquoso no baixo-ventre comprime os órgãos genitais, impedindo seu pleno desenvolvimento.
-
-O tratamento consiste em dissolver o pus aquoso através da purificação do baixo-ventre. Subsequentemente, não há outro método senão aguardar que o tempo promova o desenvolvimento dos órgãos. Com o desenvolvimento do aparelho genital, os fatores psicológicos, como a falta de afeto e a timidez, também tendem a se atenuar consideravelmente.
-
-### Enfermidades Pediátricas
-
-#### Disenteria Infantil
-
-Esta doença acomete exclusivamente crianças com menos de dez anos de idade, sendo mais frequente entre os cinco e seis anos, seguida pela faixa dos dois a três anos. Os sintomas iniciais são febre, vômito e, nos casos mais graves, convulsões. A criança, que até então brincava com vigor, subitamente fica prostrada. Uma sonolência excessiva e bocejos constantes são sinais da forma mais maligna da doença, não sendo raro que o desfecho fatal ocorra em menos de 24 horas.
-
-A causa reside no acúmulo inicial de toxinas da Ação Purificadora no estômago, cujo reflexo se manifesta como sintomas cerebrais. O pus acumulado no estômago desce progressivamente para o intestino, sendo eliminado como diarreia, o que leva à cura.
-
-O tratamento deve priorizar, em primeiro lugar, a região do estômago; em segundo, a nuca e a parte posterior do pescoço; e em terceiro, o abdômen. Com nossa terapia, a cura é alcançada facilmente com duas ou três sessões, e nossa experiência demonstra uma taxa de sucesso de cem por cento, não havendo, portanto, risco de vida.
-
-Ademais, as convulsões em crianças, seja por disenteria ou coqueluche, podem ser alarmantes, mas não há motivo para temor. Por mais intensas que sejam, elas cessam espontaneamente em vinte a trinta minutos se a criança for deixada em repouso.
-
-#### Pneumonia Infantil
-
-Esta doença é idêntica à pneumonia em adultos, portanto, omitirei a descrição detalhada. Contudo, há uma tendência de que o tratamento em crianças exija um período maior de recuperação.
-
-#### Sarampo
-
-Esta enfermidade consiste na eliminação, através da pele, de um tipo de toxina que todo ser humano possui desde o nascimento. O quadro clínico se inicia com uma febre que persiste de dois a três dias, nos casos mais rápidos, ou até dez dias, nos mais lentos, culminando com o surgimento de erupções cutâneas. Portanto, se houver febre persistente sem outros sintomas anormais, deve-se suspeitar de sarampo e examinar a pele atentamente. Muitas vezes, é possível observar erupções discretas. Também podem surgir pequenas manchas brancas na mucosa da boca.
-
-Durante a recuperação, é comum ocorrerem inflamações oculares ou secreção nos ouvidos, que representam a eliminação concentrada das toxinas do sarampo. Se deixadas, curam-se naturalmente.
-
-Como complicação, a pneumonia é frequente, mas sua cura é simples. O sarampo isoladamente requer de uma a três sessões para a cura total, enquanto os casos com pneumonia associada necessitam de cinco a seis sessões.
-
-#### Coqueluche
-
-Assim como o sarampo, esta doença é um processo de eliminação de um tipo de toxina congênita. O nome "coqueluche" (literalmente "tosse de cem dias" em japonês) alude ao fato de que a cura pode levar cem dias, período necessário para a eliminação completa das toxinas. Essas toxinas são expelidas sob a forma de uma espuma branca durante os acessos violentos de tosse ou vômito do paciente.
-
-A diferença entre a tosse comum e a coqueluche é que esta última possui um som característico de guincho inspiratório e os acessos de tosse são profundos e persistentes.
-
-Com nossa terapia, a cura é surpreendentemente fácil, ocorrendo em três a quatro sessões nos casos leves e em menos de dez dias nos mais graves. É importante notar que, nesta doença, o "caso leve" corresponde ao auge da doença, e o "caso grave", ao seu início. Para discernir se a doença atingiu seu ápice, basta observar se a tosse já apresenta o guincho inspiratório característico.
-
-#### Varicela
-
-Esta enfermidade é um tipo de erupção cutânea cuja coloração não é avermelhada como em outras, mas sim da mesma cor da pele. Caracteriza-se pelo surgimento de pequenas pápulas dispersas, semelhantes a sementes, contendo um líquido aquoso. Pode haver também uma febre ligeira. A causa é a eliminação de um tipo específico de pus aquoso. Com nossa terapia, a cura completa é alcançada em uma ou duas sessões.
-
-#### Paralisia Infantil
-
-As variedades desta doença são inúmeras e multifacetadas. Descreverei seus sintomas de forma geral. Podemos dividi-la, a grosso modo, em congênita e adquirida.
-
-As formas congênitas incluem sintomas como subdesenvolvimento e paralisia dos membros inferiores, do corpo inteiro ou dos braços e pernas, que os tornam inutilizáveis; uma flacidez extrema, como se não houvesse ossos; deficiência intelectual com baixa acuidade visual e fala ininteligível; salivação constante; e deformidades causadas pela contração e paralisia de partes ou da totalidade do corpo.
-
-Nas formas adquiridas, a criança, que se desenvolvia sem qualquer anormalidade aparente, passa a apresentar, de forma súbita ou gradual, os sintomas mencionados. Consequentemente, uma criança com bom desempenho escolar começa a declinar abruptamente, evoluindo para um estado semelhante à demência, um quadro verdadeiramente desolador.
-
-A causa de todas estas condições é inteiramente espiritual, pelas razões que se seguem. Quando uma pessoa falece subitamente, como em um derrame cerebral, seu espírito não está preparado para a morte. Desconhecendo a existência do Mundo Espiritual, ele não consegue se estabelecer ali como um ser espiritual. Seu pensamento permanece obstinadamente ligado ao mundo material e, mesmo sem o corpo físico, o espírito não se dá conta disso, buscando incessantemente se aproximar da vida terrena através da possessão de um ser humano. Este é um processo quase sempre inconsciente para o espírito.
-
-A diferença entre a forma congênita e a adquirida reside apenas no momento da possessão: na primeira, ocorre durante a gestação; na segunda, o espírito se apossa do corpo após o nascimento. Por essa razão, os sintomas mais comuns são semelhantes aos de um derrame cerebral ou apoplexia. Outra causa frequente é a possessão por espíritos de serpente. A flexibilidade anormal dos membros é invariavelmente atribuída a espíritos de serpente. De fato, a maneira como tais pacientes ondulam a cintura e as pernas evoca de forma notável a imagem de uma serpente.
-
-Mesmo com nossa terapia, o tratamento desta doença é demorado. Os casos leves requerem cerca de seis meses, enquanto os mais graves podem levar de um a dois anos.
-
-#### Enurese Noturna
-
-Esta condição é comum em crianças, mas há um número considerável de casos que persistem até a idade adulta. Existem duas causas. A primeira é o acúmulo de pus aquoso ao redor da bexiga, que a comprime e reduz sua capacidade, impedindo que ela armazene um volume adequado de urina. A segunda é um acúmulo de pus aquoso endurecido próximo ao músculo esfíncter da uretra, o que impede seu correto funcionamento. Quando a urina ultrapassa um certo volume, a força do esfíncter torna-se insuficiente, e a micção ocorre de forma involuntária.
-
-O primeiro tipo é facilmente curado em uma ou duas semanas. O segundo, no entanto, exige um tratamento mais prolongado, geralmente de dois a três meses.
-
-#### Difteria
-
-Esta doença já foi abordada no capítulo sobre enfermidades e possessão espiritual, motivo pelo qual omito sua descrição aqui.
-
-#### Asma Infantil
-
-Esta condição é semelhante à asma em adultos, portanto, sua descrição será omitida.
-
-#### Hérnia
-
-Nesta enfermidade, uma porção do intestino se projeta para a parte mais inferior do abdômen, à direita ou à esquerda, formando uma saliência. A condição é facilmente identificada pela palpação da área. Em casos graves, a hérnia pode descer até o escroto, causando um inchaço considerável. A causa, naturalmente, é o relaxamento do intestino devido à sua debilidade. Portanto, a cura é alcançada ao se estimular a atividade intestinal.
-
-O tratamento abrange todo o intestino. Casos leves requerem duas a três sessões; os graves, de um a dois meses; e os mais severos, de cinco a seis meses. As formas leves tendem a se curar naturalmente com o crescimento da criança.
-
-A cirurgia pode corrigir o problema, mas o encurtamento do intestino parece resultar em um enfraquecimento geral do órgão. Como a debilidade intestinal compromete a saúde como um todo, acredito que o ideal seja buscar a cura sem recorrer à intervenção cirúrgica.
-
-### Outras Enfermidades
-
-#### Escarlatina
-
-Como o nome sugere, esta doença se caracteriza por deixar o corpo inteiramente avermelhado, acompanhado por uma erupção cutânea fina e febre alta. A causa é um tipo de sangue impuro congênito que é ativado por bactérias. Com nossa terapia, a cura completa é facilmente alcançada em duas a três sessões nos casos leves e em cerca de uma semana nos mais graves. Uma característica do período de recuperação é a descamação da pele.
-
-#### Coreia (Dança de São Vito)
-
-Esta enfermidade, como o nome indica, leva a pessoa a mover as mãos ou os pés de forma involuntária, como se estivesse dançando. A causa é a possessão por um espírito animal, e os movimentos refletem as características desse animal. Muitas pessoas que vemos balançando a cabeça constantemente estão, na verdade, manifestando um sintoma muito leve de possessão por espíritos de animais.
-
-Mesmo com nossa terapia, o tratamento é extremamente longo, devendo-se prever um período de um a três anos.
-
-#### Urticária
-
-Nesta doença, surgem erupções na totalidade ou em parte do corpo, geralmente de coloração avermelhada e acompanhadas de um prurido intenso. Costuma-se dizer que a causa está no intestino, mas isso é um erro. A prova disso é que, por mais que se trate o intestino, não se observa qualquer efeito, o que evidencia a falácia dessa teoria.
-
-Segundo minhas pesquisas, existem duas causas. A primeira é a permanência de toxinas residuais do sarampo, que se manifestam como erupções devido à Ação Purificadora. A segunda é a intoxicação por injeções de cálcio. A experiência demonstra que, invariavelmente, um ou dois anos após a aplicação de injeções de cálcio, as erupções surgem, o que explica o recente aumento da incidência desta condição. Portanto, ao atender um paciente com urticária, não se deve esquecer de perguntar se ele já recebeu injeções de cálcio.
-
-Com nossa terapia, ambas as formas são curadas com facilidade. O tratamento leva, em geral, uma semana, e nos casos mais graves, de duas a três semanas.
-
-Existem diversas outras doenças de pele, mas a maioria alcança a cura total em uma ou duas semanas.
-
-#### Enjoo de Viagem
-
-Esta também é uma espécie de enfermidade e relativamente comum. A causa é o pus aquoso acumulado ao redor do estômago que, devido ao balanço do veículo, infiltra-se no órgão, provocando mal-estar, náuseas ou vômitos. Ao pressionar a área que vai do estômago à região dos seios, identifica-se um ponto doloroso ou com sensação de peso, que corresponde ao local do problema.
-
-Com nossa terapia, os casos leves são curados em duas a três sessões, e os graves, em cinco a seis.
-
-#### Constipação
-
-Embora não seja uma doença em si, esta condição causa considerável sofrimento. A causa inicial é a restrição alimentar deliberada e a ingestão insuficiente de líquidos. Se a pessoa percebe e corrige esses hábitos, a cura é fácil. No entanto, a maioria tenta resolver o problema com medicamentos, o que, na verdade, se torna a causa de uma constipação crônica e obstinada.
-
-Como já mencionado, a função excretora se atrofia gradualmente com o auxílio da força dos medicamentos. Porque se atrofia, recorre-se aos medicamentos, e isso a atrofia ainda mais, criando um ciclo vicioso que culmina na incapacidade de evacuar sem o auxílio farmacológico.
-
-Portanto, para curar a constipação de forma definitiva, não há outro método senão abster-se completamente de medicamentos e permitir que a evacuação ocorra naturalmente. Certa vez, tratei um paciente com câncer de estômago que, ao suspender o uso de laxantes, ficou oito dias sem evacuar, depois dez, sete, cinco, e três, até que finalmente passou a evacuar naturalmente todos os dias. Hoje, ele está completamente curado e cheio de vigor. Durante os vinte e oito dias iniciais em que não houve evacuação, ele não sentiu nenhum desconforto particular nem apresentou sintomas patológicos, o que comprova experimentalmente que a constipação, por si só, não lhe causou nenhum prejuízo.
-
-Minha experiência mostra que consumir uma ou duas colheres de sopa de farelo de arroz torrado a cada refeição — ou três, nos casos mais graves — é muito eficaz. É um método absolutamente inofensivo, e quanto maior a quantidade, maior o efeito, embora o excesso possa causar dor abdominal, sendo necessário ajustar a dose.
-
-#### Panarício e Gangrena
-
-Estas duas doenças apresentam sintomas muito semelhantes. O panarício parece limitar-se aos dedos da mão, enquanto a gangrena afeta os dedos das mãos e dos pés, podendo avançar para outras áreas. A medicina recorre à amputação da parte afetada para impedir a progressão da doença. A causa é o acúmulo de toxinas de natureza extremamente maligna através da Ação Purificadora.
-
-Com nossa terapia, o panarício é curado em uma ou duas semanas. A gangrena leva cerca de duas semanas nos casos leves e de um a dois meses nos mais graves.
-
-#### Neurastenia
-
-Esta doença, também conhecida como "doença da civilização", tornou-se muito comum nos tempos modernos. Os sintomas são variados e incluem insônia, melancolia, fadiga, sensação de peso na cabeça, diminuição da acuidade visual, cansaço, tontura e confusão mental.
-
-A causa é o acúmulo de pus aquoso ao redor do pescoço, o que provoca uma deficiência de sangue no cérebro. À medida que esse acúmulo é dissolvido, a cura progride. Com nossa terapia, a recuperação é surpreendentemente rápida, ocorrendo em duas ou três sessões nos casos leves e em cerca de um mês nos mais graves.
-
-#### Artrite
-
-Esta enfermidade pode ser causada pelo acúmulo de pus aquoso devido à Ação Purificadora ou pode surgir como sequela da gonorreia ou durante o curso da gonorreia crônica. Os sintomas incluem dor intensa nas articulações dos braços ou pernas, podendo haver febre e inchaço consideráveis. Ambas as formas são de cura muito fácil, alcançando a recuperação total em uma a três semanas.
-
-#### Tuberculose Óssea
-
-Nesta doença, o pus aquoso se solidifica em algum osso, causando dor de intensidade variável e febre. As áreas mais comumente afetadas são as costelas, a coluna vertebral, os ossos do quadril e o fêmur. Nossa terapia promove a cura completa, mas requer um período de tratamento considerável, de um a dois meses para os casos leves e de cinco a seis meses para os mais graves.
-
-#### Hipertensão Arterial
-
-Esta condição tornou-se muito frequente nos últimos tempos e é considerada um prelúdio para o derrame cerebral. A medicina a mede com aparelhos, e o padrão de saúde é considerado a idade do indivíduo mais noventa. Por exemplo, para uma pessoa de cinquenta anos, o padrão seria 140, e valores acima disso indicam um grau de insalubridade.
-
-Contudo, nem toda pessoa com hipertensão sofrerá um derrame; deve-se apenas considerar que há um risco aumentado. A causa é a impureza do sangue, portanto, o objetivo é evitar que o sangue se torne impuro. Para isso, deve-se evitar o consumo de carne, priorizar vegetais na alimentação e praticar exercícios físicos tanto quanto possível.
-
-Com nossa terapia, a cura completa é sempre alcançada, embora exija um tempo considerável, geralmente de um a três meses. A prevenção absoluta de um derrame cerebral é possível, o que demonstra o imenso valor de nossa terapia.
-
-#### Arteriosclerose
-
-Esta é uma doença muito comum e perigosa na atualidade. A parada cardíaca súbita é frequentemente causada por esta condição. A doença consiste na solidificação de sangue impuro em uma parte da artéria. Com sua progressão, o fluxo sanguíneo é obstruído, o que leva à parada cardíaca.
-
-Através de nossa terapia, a dissolução dessa obstrução leva à cura completa. O tratamento dura de duas a três semanas para os casos leves e de dois a três meses para os mais graves.
-
-(Julho de 1936)
-
----
-
-# A Luz Divina que Supera a Ciência
-
-**Categoria:** o | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** Eikou
-**Título Original:** 御守から出る光波 | **Status:** Published | **Edição/Página:** 223号 | **Data ISO:** 1953-08-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A Luz Divina que Supera a Ciência
-
-Já por duas vezes publicamos nesta coluna exemplos concretos em que a luz emanada do Omamori bloqueou a passagem dos raios X, impedindo que estes atravessassem o corpo. Agora, apresentamos o terceiro caso, de natureza idêntica aos anteriores. Do ponto de vista científico, após três experimentos, podemos afirmar que o fato está cientificamente comprovado. Em outras palavras, o fenômeno tornou-se uma tese consolidada no campo da Ciência Espiritual.
-
-Como todos sabem, o raio X é reverenciado como uma radiação esplêndida e potente, capaz de atravessar a maioria das substâncias. No entanto, essa radiação tão poderosa é detida pela luz que emana do Omamori, o que demonstra ser esta última ainda mais forte. De onde, então, provém essa luz prodigiosa? A explicação, por mais que se detalhe, desafia a credulidade. A referida luz irradia-se do ideograma ‘Hikari’ (Luz), que caligrafo com pincel e tinta sobre uma simples folha de papel. Trata-se, portanto, de um mistério que transcende o próprio conceito de mistério.
-
-Embora os fiéis compreendam tal fenômeno, para os que não partilham de nossa Fé, a questão é de difícil assimilação. Procurarei, pois, elucidá-la da forma mais clara possível. Ao caligrafar o ideograma, a luz divina perpassa minha mão e meus dedos, atravessa o pincel e a tinta, e se imprime no papel. Formalmente, o ato de escrever é idêntico ao de qualquer outra pessoa. Contudo, é nesse simples gesto que uma luz de extraordinária potência se infunde no ideograma. Este mistério é, decerto, um evento sem precedentes na história da humanidade.
-
-Ademais, o tempo para escrevê-lo é de apenas sete segundos por folha, o que me permite confeccionar de quinhentas a seiscentas peças por hora com grande facilidade. Ressalto que não há qualquer ritual de oração ou concentração de espírito; tudo ocorre com plena naturalidade. Quando desejo fumar, seguro o cigarro com os dedos da mão esquerda enquanto escrevo com a direita. Para dissipar o tédio, costumo ouvir rádio durante o processo. Em dias quentes de verão, não raro trabalho com o torso nu.
-
-Se compararmos meu método com o dos fundadores de religiões do passado, que se submetiam a jejuns e purificações (斎戒沐浴), oravam a Deus e se apresentavam com uma atitude de solene e rigorosa austeridade, meu modo de agir parecerá, por certo, demasiado displicente, a ponto de deixar atônito um observador comum. A razão para tal reside no fato de que o Espírito Supremo de Deus habita em meu ser. Eu apenas Lhe empresto meu corpo. Em outras palavras, Deus utiliza-me como um instrumento, com absoluta liberdade. Sendo assim, não tenho a necessidade de Lhe dirigir preces. A oração se faz necessária quando há separação entre Deus e o homem. Nesse sentido, sinto-me verdadeiramente à vontade e sou imensamente grato por essa dádiva. Provavelmente, desde o início do mundo, jamais existiu um religioso tão singular e extraordinário quanto eu.
-
-Aproveitando a oportunidade, discorrerei brevemente sobre outros assuntos, que os fiéis também já conhecem. Seja para conceber os protótipos do Paraíso Terrestre, como os Jardins Divinos e suas edificações, seja para projetar o Museu de Arte e até mesmo suas vitrines, raramente necessito de reflexão. No momento oportuno, a ideia surge em minha mente de forma instantânea, sem hiatos, e eu simplesmente transmito as diretrizes. Desse modo, tarefas que aos olhos dos outros parecem complexas, para mim não representam qualquer dificuldade. O mesmo se aplica à Medicina, à Agricultura e a todas as demais áreas, como se pode constatar pela natureza do trabalho que venho realizando. Embora muito mais houvesse a dizer, para não me estender, encerrarei aqui minhas palavras.
-
-## O Milagre do Raio X: Salvo da Tuberculose, Descobri a Alegria de Viver
-
-Hiroshima-ken, Kure-shi, Shimoyamate-cho
-Igreja Tyu-Kyokai Zuiun
-Oono Yutaka (22 anos)
-
-Meishu-Sama, sou imensamente grato por Vossa proteção divina. Faltam-me palavras para expressar minha gratidão e louvor por Vossa sublime e infinita bênção. Embora minha escrita seja modesta, permito-me, com o devido respeito, apresentar este relato como forma de agradecimento.
-
-Tudo começou em março de 1952. Um mês antes, o médico da fábrica havia me informado sobre “uma infiltração do tamanho da polpa de um polegar abaixo da clavícula direita”. Como desde a infância eu raramente adoecera, tendo sido jogador titular de futebol no ginásio e no curso técnico superior, e além disso, mantinha grande confiança em minha força física, não dei muita importância ao diagnóstico. Na época, estávamos em período de fechamento de balanço e, embora sentisse um certo mal-estar, considerei-o normal e segui com a rotina.
-
-Contudo, em 28 de março, ao retornar ao meu quarto após o expediente, tive uma crise de tosse branda seguida por uma súbita hemoptise. A visão do sangue, ainda que em pequena quantidade, fez-me sentir na pele o terror da tuberculose, e mergulhei em lágrimas de desespero ao pensar em meu futuro. Fui imediatamente hospitalizado. Seguindo à risca as palavras do médico, que para mim, educado no materialismo e insensível à existência de Deus, eram absolutas, permaneci em repouso absoluto por mais de dois meses.
-
-Quando finalmente pude voltar a caminhar sozinho, a expectoração com sangue cessou e a febre baixou ao normal, o médico, após uma consulta, sugeriu que eu me submetesse a um tratamento drástico. Receitou-me vinte injeções de estreptomicina, e depois mais vinte, embora eu não sentisse qualquer efeito benéfico. Ao pensar na terrível ameaça do yakudoku, sinto hoje um remorso indescritível. Quão grande foi meu pecado!
-
-Em julho, retornei a Kure, minha cidade natal, e dediquei-me inteiramente ao repouso, monitorando o avanço da doença. No entanto, a lesão permanecia inalterada, sólida e sem sinais de remissão. Diante das palavras do médico — “Você precisará fazer pneumotórax por três anos. Em seis meses, a mancha no pulmão não desaparecerá, mas você poderá voltar a trabalhar” —, consenti em me submeter ao desagradável procedimento.
-
-Foi então que, faltando apenas dois dias para a intervenção, uma conhecida de minha irmã, a senhora Okada, fez-me uma proposta bondosa: “Existe uma religião chamada Sekaikyuseikyou, que é muito eficaz na cura de doenças. Já que você está a ponto de fazer um pneumotórax, por que não tenta, mesmo que seja apenas para ver o que acontece?”.
-
-Contudo, como jamais em minha vida havia juntado as mãos em prece a Deus e nutria a arrogante convicção de que os religiosos eram todos pessoas com desvios de personalidade, a ideia de curar doenças pela imposição das mãos soava-me absurda. Senti até mesmo certa aversão por quem seguia tal caminho. No entanto, movido por um impulso inexplicável de ao menos tentar, visitei a Igreja de Kure em 28 de outubro.
-
-Oh, Meishu-Sama, perdoai, por favor, a insensatez do meu coração! De forma inesperada, encontrei o caminho para a verdadeira felicidade e descobri a Verdade. Foi a transição das trevas para a luz, o ponto de inflexão de toda a minha vida.
-
-Ao receber Johrei do reverendo Yamauchi, numa sensação estranha e indefinível, senti o ambiente aquecer-se de forma incomum, e um calor brotou naturalmente de meu interior, fazendo-me transpirar profusamente. A sonolência que senti ao voltar para casa foi extraordinária; eram apenas sete da noite quando me deitei, e dormi profundamente até a manhã seguinte. Isso se repetiu por quatro ou cinco dias.
-
-Ouvi as explanações sobre o Caminho feitas pelo presidente da Associação, o senhor Yamane, e pelos reverendos Ogino e Yamauchi. Apesar de suas palavras soarem grandiosas demais, a ponto de parecerem um devaneio, senti uma imensa alegria ao vislumbrar a existência de um mundo distinto, onde conceitos puros tinham validade. Observando as pessoas que frequentavam a igreja diariamente, vi-me forçado a curvar-me diante do fato de que todas melhoravam dia após dia. Nesse ínterim, a rigidez que eu sentia nos ombros desapareceu sem que eu me desse conta.
-
-Diante da realidade dos fatos, eu, que acreditava piamente na supremacia da medicina e que não havia outra forma de curar doenças senão por meio dela, não tive alternativa. Foi ao conhecer a existência de algo tão místico que comecei, pela primeira vez, a encarar a medicina com um olhar fundamentalmente cético. Com essa nova mentalidade, a leitura dos Ensinamentos de Meishu-Sama, que me foram concedidos, demoliu, um a um, meus conceitos equivocados e me fez despertar para as enormes contradições da medicina. Como tudo o que eu julgava correto havia sido invertido, eu estava completamente extasiado.
-
-Imediatamente, em cinco de dezembro, recebi o sagrado Omamori e, a fim de vivenciar a experiência por mim mesmo, comecei a ministrar Johrei. Minha prima sofria do mesmo mal pulmonar. Ela e seu marido eram seguidores fervorosos da Seicho-no-Ie e praticavam a fé havia mais de uma década. No entanto, de forma inversamente proporcional ao avanço de sua fé, a lesão pulmonar apenas se agravava. Certo dia, ela sucumbiu com uma febre de quarenta graus. Sem poder mais recorrer à medicina e tendo os ensinamentos da Seicho-no-Ie como sua única esperança, ela se dedicou ainda mais à sua crença, mas sem resultado. Seu marido, preocupado, veio me procurar, agarrando-se a um fio de esperança, e pediu-me que lhe ministrasse Johrei. Assim o fiz, e pedi ao reverendo Uchiyama que fosse até sua casa. Ele lhes explicou que a tuberculose, assim como todas as doenças, tem causa espiritual e é agravada pelo yakudoku. Em seguida, solicitei também ao reverendo Ogino que fosse entronizar em seu lar a Imagem de Kannon (観音).
-
-No dia seguinte, manifestou-se em mim um fenômeno de possessão espiritual, que me fez experienciar em meu próprio corpo a realidade do Mundo Espiritual e a influência que seres invisíveis exercem sobre nós. Após esse episódio, espíritos de meus antepassados passaram a se manifestar com frequência. Em vinte de dezembro, um espírito que se identificou como um ancestral masculino de cinco gerações passadas manifestou-se e disse: “Eu estava apegado a ti em busca de salvação, mas fui salvo por este nobre Caminho. Por isso, deixarei teu corpo. A mancha em teu pulmão já não existe mais. Se duvidas, faz um exame de raios X amanhã mesmo”.
-
-Dois dias depois, fui ao consultório médico e solicitei uma radioscopia. Na escuridão da sala de exames, com o torso nu, segurei firmemente o Omamori na mão esquerda e roguei pela proteção de Meishu-Sama. O aparelho foi acionado, mas o zumbido característico da emissão de raios X não ocorreu, e nenhuma imagem se formou. A tentativa foi repetida duas, três vezes, com o mesmo resultado. O médico, perplexo, pediu à enfermeira que chamasse a chefe de enfermagem. Juntos, os três examinavam o equipamento, e a confusão era geral. “Que estranho, usamos o aparelho esta manhã. Não deveria estar com defeito”, diziam.
-
-Foi quando um pensamento me fulgurou: o Omamori. Eu o segurava com tanto zelo que não quis entregá-lo a ninguém. Recordei-me de ter lido no jornal Eikou sobre um caso em que a forma do Omamori não apareceu numa radiografia, e essa lembrança me veio à mente. Entreguei, então, o Omamori à minha mãe, que aguardava do lado de fora, subi novamente na plataforma e disse: “Agora vai funcionar. Pode ligar o aparelho”.
-
-Dito e feito. Assim que o interruptor foi acionado, a tela de fluoroscopia à minha frente iluminou-se intensamente. Pela primeira vez, os raios X atravessaram meu corpo. Ah, que milagre! Que proteção divina! Em meu íntimo, não pude conter um brado de assombro.
-
-Posteriormente, o médico declarou: “Você está curado. Pode voltar ao trabalho”. O mesmo médico que, um mês antes, tanto insistira no pneumotórax, agora proferia tais palavras. Este milagre revelou-me, com absoluta clareza, o que é a medicina e quão grandiosa é a Luz Divina, mostrando-me a nítida diferença entre ambas.
-
-A grandiosidade da virtude do Supremo Deus inspira-me a mais profunda reverência. A medicina materialista é uma ciência claudicante, equivocada em sua origem, e este episódio comprova que a Verdade reside em lugares assim, tão simples. Compreendi que a revolucionária e inédita Obra Divina de construção do Paraíso Terrestre só é possível por ser conduzida pelo próprio Deus Supremo, e que não é o homem, mas sim Deus, quem move a matéria. Entendi também que a existência dos espíritos e deuses malignos é necessária no processo de construção do Paraíso Terrestre, e que até mesmo o mal é, nesse sentido, validado.
-
-Meishu-Sama, que nos indica com clareza o propósito da vida e a missão do ser humano, revelou-me o significado da vida e da morte, algo que eu jamais encontrara, ainda que me aprofundasse em livros de filosofia ou lesse toda sorte de obras. Sou verdadeiramente um homem afortunado por ter compreendido que tudo converge para o único propósito da paradisíaca na Terra. Imenso em Vossos Ensinamentos, sinto um impulso de dançar de pura felicidade.
-
-Ao pensar no passado, quando me entregava aos cuidados da medicina, imagino que, se tivesse continuado com o pneumotórax e os medicamentos, hoje eu seria um cadáver ambulante ou estaria agonizando nas profundezas do Mundo Espiritual. Salvo de corpo e alma, não sei como agradecer.
-
-Meishu-Sama, muito, muito obrigado. Quando penso que foi a doença que me proporcionou a oportunidade de conhecer estes preciosos Ensinamentos, sinto o desejo de agradecê-la. O espírito de meu antepassado também me revelou sobre o fim da Era de Buda, a indescritível convulsão no Mundo Espiritual, e como isso se refletirá no Mundo Material, gerando tempos de grande tribulação. Ele também me fez saber que este Caminho possui um poder sublime, para além de nossa compreensão.
-
-Sinto um desejo imenso de compartilhar esta alegria com o maior número possível de pessoas.
-
-Meishu-Sama, verdadeiramente, muito obrigado. Expresso aqui minha mais profunda gratidão.
-
-Aproveito para informar que minha prima e seu esposo também receberam a graça de ingressar na Fé e trilham o caminho da crença.
-
-Muito obrigado. Rogo que continue a me agraciar com Vossa divina proteção.
-
-(1º de junho de 1953)
-
----
-
-# A Ação Inversa dos Medicamentos
-
-**Categoria:** ya | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
-**Título Original:** 十五、薬剤の逆作用 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 日本医術講義録
-
-## A Ação Inversa dos Medicamentos
-
-O princípio de que os medicamentos, em vez de curar, na verdade obstruem o processo de restabelecimento da saúde é algo que tenho afirmado repetidamente. A razão para tal reside em sua ação inversa, ou seja, a capacidade de produzirem um resultado diametralmente oposto ao objetivo pretendido.
-
-Tomemos como exemplo o caso de uma pessoa com problemas estomacais que recorre a um digestivo. Indubitavelmente, ela experimenta um alívio momentâneo, levando-a a crer que a enfermidade está sendo curada. Contudo, mal sabe ela que essa melhora se deve à força do fármaco, e não à vitalidade do próprio estômago. Em decorrência disso, o órgão em si torna-se letárgico. Uma vez que o medicamento assume a função digestiva, a atividade intrínseca do estômago entra em um estado de suspensão. Por conseguinte, quanto mais se ingere o remédio, mais o estômago se torna indolente e debilitado. Portanto, é um corolário natural que o medicamento, administrado com o propósito inicial de fortalecer o estômago, acabe, paradoxalmente, por enfraquecê-lo progressivamente.
-
-O mesmo princípio se aplica à constipação. Ao utilizar um laxante, os órgãos responsáveis pela evacuação deixam de ser exigidos em sua função natural e, com o tempo, atrofiam-se gradualmente. O resultado dessa atrofia é o agravamento do quadro de constipação, o que, por sua vez, gera uma aparente necessidade de recorrer ainda mais aos laxantes. Por essa razão, para fortalecer o estômago, é imperativo fazê-lo trabalhar ativamente. O melhor caminho para isso não é selecionar alimentos de fácil digestão, mas sim manter uma dieta comum e variada. A alimentação tradicional está, por natureza, perfeitamente adequada à capacidade digestiva do ser humano; foi por meio dela que nossos antepassados mantiveram uma saúde robusta por gerações. Nesse sentido, práticas como o consumo especial de leite ou óleo de fígado de bacalhau revelam-se profundamente ilógicas. Logo, se alguém que se alimenta normalmente apresenta má digestão ou alguma outra anormalidade estomacal, a causa reside, invariavelmente, em outro fator. Pode ser, por exemplo, a falta de exercício, o hábito de comer em horários e quantidades rígidas ou o uso de medicamentos. Uma vez corrigida a verdadeira causa, a cura é certa. O ser humano não foi feito para padecer de doenças estomacais. Considero, pois, um verdadeiro mistério que as pessoas adoeçam dessa forma.
-
-A constipação, em si, é igualmente um fenômeno que me causa estranheza. É uma lei natural que, ao nos alimentarmos, os líquidos sejam excretados como urina e os sólidos, como fezes. O corpo humano foi projetado para funcionar assim. Se esse processo não ocorre como deveria, é sinal de que há algum equívoco em outro ponto. Investigando-se a fundo, a causa sempre se revela, e basta corrigi-la para que a saúde seja restabelecida. Deve-se ponderar, por exemplo, sobre a ingestão insuficiente de água ou de vegetais, a existência de uma dieta desequilibrada ou mesmo a presença de alguma enfermidade sutil na região intestinal, cuja febre latente possa estar interferindo no processo.
-
-O que descrevi para as disfunções gástricas e a constipação aplica-se, na verdade, a todas as demais enfermidades. Observo com frequência o que ocorre quando médicos prescrevem diuréticos para expelir o acúmulo de líquido em casos de peritonite ou pleurisia. Seguindo a mesma lógica exposta anteriormente, o medicamento, de fato, promove a diurese em um primeiro momento, e com a eliminação da urina, a doença parece regredir. Trata-se, porém, de um alívio temporário. Passado certo tempo, de maneira análoga ao que ocorre com os laxantes, a capacidade natural de excreção de urina diminui progressivamente. Como consequência, a doença se agrava.
-
-A pretensão de que os medicamentos, desenvolvidos pela ciência de laboratório, possam sequer tocar no mistério da força vital não passa de um sonho de tolos. Existe um abismo inconcebível entre os órgãos internos — que operam sem cessar, a cada fração de segundo, movidos por fluidos, calor e outras substâncias misteriosas e incompreensíveis — e o interior de um tubo de ensaio, que contém mera matéria inerte. É, portanto, perfeitamente natural que os resultados práticos se mostrem contrários à teoria acadêmica. O desconhecimento generalizado desse princípio é a causa de um sofrimento espantoso. A quantidade de pessoas que têm suas vidas abreviadas por essa ação inversa dos medicamentos é verdadeiramente assustadora. Por essa razão, é nosso dever primordial fazer com que o maior número possível de pessoas, o mais rápido possível, compreenda estes equívocos.
-
----
-
-# A Intoxicação Medicamentosa
-
-**Categoria:** ya | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 薬剤中毒 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Intoxicação Medicamentosa
-
-Conforme já elucidei reiteradas vezes, a totalidade dos medicamentos, sem exceção, provoca intoxicação no organismo. A única diferença substancial entre eles reside na duração de seus efeitos. O caso mais efêmero é o dos narcóticos, hoje em voga; todavia, à semelhança destes, qualquer remédio possui apenas uma eficácia temporária, que se converte em hábito e, gradualmente, agrava a enfermidade.
-
-O caso do referido paciente [trecho omitido] é um eloquente testemunho dessa verdade.
-
-As injeções para asma são um exemplo particularmente contundente, pois a dependência torna-se tão severa que o doente chega ao ponto de não suportar o dia sem dezenas de aplicações, passando a injetá-las por conta própria. Nesse aspecto, não há a menor diferença em relação aos narcóticos; contudo, as autoridades restringem seu controle rigoroso apenas a estes últimos, pelo motivo já exposto: a curta duração de seus efeitos. Se tal realidade fosse compreendida, seria evidente que as injeções para asma e outras afecções tampouco poderiam ser negligenciadas.
-
-Todavia, uma dificuldade ainda maior reside nos medicamentos de uso oral. Embora operem sob o mesmo princípio, a intoxicação que provocam é extremamente lenta, desdobrando-se ao longo de um vasto período, o que torna sua detecção sobremaneira difícil.
-
----
-
-# A Superioridade do Johrei Demonstrada pelos Fatos
-
-**Categoria:** o | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
-**Título Original:** おかげばなし批判 事実が示す浄霊の優越性 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
-
-## A Superioridade do Johrei Demonstrada pelos Fatos
-
-**A cura da cefaleia e da fadiga generalizada decorrentes de toxinas medicamentosas (yakudoku) da infância**
-
-*Ueno Masatarō, Igreja Dai-Kō, Província de Gifu*
-
-Desde a infância, sempre tive a saúde frágil, tendo padecido de inúmeras enfermidades, como pneumonia e pleurisia. Há cinco anos, passei a sofrer de dores de cabeça diárias e uma fadiga extrema que me acometia todo o corpo. Perdi o interesse por qualquer atividade, vendo-me forçado a abandonar os estudos e a levar uma vida ociosa. O diagnóstico de um médico apontava para beribéri; outro, para infiltração pulmonar. Diante de tal quadro, perdi toda a esperança no futuro e entreguei-me ao desespero, mergulhando minha família em dias de angústia, marcados pela doença, pela pobreza e pelos conflitos.
-
-Foi justamente nessa época que alguns vizinhos, após participarem de um curso sobre a terapia da purificação, relataram-me que ela era capaz de curar toda sorte de doenças. Instado por minha mãe, e ainda que com certa desconfiança, decidi receber Johrei. O resultado foi surpreendente. A fadiga avassaladora que sentia desapareceu subitamente, e uma imensa alegria tomou conta de mim. Continuei a receber Johrei por mais alguns dias e, para minha felicidade, as dores de cabeça e o cansaço que me afligiam desapareceram por completo. Meu coração se encheu de uma clareza e de uma paz indescritíveis, e a sombra de amargura que me levava a amaldiçoar o mundo e a odiar as pessoas dissipou-se, tornando-se uma lembrança de um passado distante.
-
-Pela primeira vez, compreendi o equívoco da medicina e, comovido às lágrimas pela grandiosa virtude espiritual de Meishu-Sama, em julho de 1946, tive a permissão de receber o Ohikari pelas mãos do reverendo Watanabe, durante um curso de formação na cidade de Shirotori.
-
-Desde então, passei por diversas purificações, mas em todas fui amparado pela infinita misericórdia de Komyō Nyorai-Sama. Em uma dessas ocasiões, em janeiro do antepenúltimo ano, fui acometido por uma pneumonia aguda. Sofri com febres altíssimas de quarenta e um a quarenta e dois graus e, por três dias, minha consciência esteve turva. Contudo, após quatro ou cinco dias, senti uma melhora notável e meu apetite retornou. Em uma semana, já estava de pé e completamente restabelecido. O que me deixou atônito foi que, diferentemente dos tratamentos médicos convencionais, que deixam o paciente extremamente debilitado mesmo após a febre ceder, desta vez eu quase não senti fraqueza.
-
-Em outra oportunidade, ao ser picado por uma víbora, meu pé inchou até o dobro do tamanho e adquiriu uma coloração arroxeada; no entanto, senti pouca dor e me recuperei em cerca de uma semana. Também me preocupei quando cortei o tendão de um dedo com um facão, temendo perder o movimento, mas fui curado após receber Johrei cinco ou seis vezes. Além desses episódios, fui agraciado com inúmeras outras proteções e graças nos mais diversos aspectos da vida.
-
-As bênçãos que recebi são tantas que minha pena modesta é incapaz de expressá-las em sua totalidade; contudo, apresento com reverência este breve relato. Doravante, desejo dedicar-me a retribuir, ainda que minimamente, uma ínfima parte de tamanha graça, rogando por Sua contínua proteção.
-
-***
-
-A causa dos padecimentos descritos — cefaleia, fadiga generalizada, apatia, que o levaram ao abandono dos estudos e a um diagnóstico de beribéri ou infiltração pulmonar, culminando em seu desespero — remonta à infância. Naquela época, ao contrair pneumonia e pleurisia, teve seu organismo solidificado por toxinas medicamentosas. Seus sintomas, portanto, nada mais eram que uma manifestação de purificação lenta e generalizada contra essas toxinas. Embora a terapia divina o tenha curado por completo e com simplicidade, é provável que, sem conhecê-la, ele não tivesse sobrevivido.
-
-***
-
-## O Poder Curador em uma Aldeia sem Médicos
-
-**A força terapêutica se manifesta em curto prazo**
-
-*Igarashi Matsuya (39 anos), Igreja Konohana, Província de Yamagata*
-
-Desde tenra idade, minha saúde sempre foi precária. Aos sete anos, tive pneumonia; aos oito, uma enfermidade cerebral que me forçou a me ausentar da escola por um semestre inteiro. Talvez como consequência das toxinas medicamentosas, passei a gaguejar, o que me causava grande embaraço e dificuldade para resolver minhas pendências na vida adulta.
-
-Hoje, aos trinta e nove anos, padeço anualmente, na primavera e no outono, de crises de beribéri cardíaco e asma brônquica. Some-se a isso uma doença ocular crônica, para a qual busquei tratamento por longos períodos. Frequentei por quatro meses a clínica de um oftalmologista em uma cidade distante, uma viagem que exigia quarenta minutos de ônibus e cinquenta de trem, e também me tratei por outros quatro meses no hospital de uma faculdade de medicina, mas não obtive melhora alguma. O diagnóstico foi tracoma e pannus.
-
-Causa-me espanto que, mesmo com os propalados avanços da medicina e o uso de diversos medicamentos de base química, a cura completa não tenha sido alcançada. A administração diária de duas injeções de vitamina B1 e, a cada três dias, de Vitacamphor, apenas agravava meu estado. Em um único mês, cheguei a receber entre quatrocentas e quinhentas injeções, o que levou as finanças de minha família a uma situação tão precária quanto a minha saúde.
-
-Certo dia, decidido a consultar um médico na cidade, pois o da nossa aldeia não me inspirava confiança, peguei dois litros de arroz que minha mãe me deu e parti a pé pela estrada coberta de neve. O trajeto, porém, era extenuante para meu coração debilitado, e ao meio-dia, eu mal conseguira chegar à ladeira de Kamatanisaka.
-
-Como eu conhecia o reverendo Munakata de quando ele exercia um cargo público na aldeia de Fukuei, decidi parar em sua casa para almoçar. Lá, relatei-lhe toda a minha situação, e ele me sugeriu que buscasse a cura através do poder sagrado da Sekaikyuseikyou. Prontamente, ele me ministrou Johrei.
-
-Senti um bem-estar tão grande que desisti de ir ao médico e pedi para ficar sob os cuidados do reverendo. Naquela noite e no dia seguinte, recebi Johrei duas vezes por dia. Após três dias e duas noites, minha melhora era notável, e tive permissão para retornar brevemente para casa. Como eu precisava ir à cidade quatro ou cinco vezes por mês, aproveitava cada oportunidade para receber Johrei do reverendo Munakata. Diante de tão imensa graça, no dia 15 de março, tive a permissão de participar do curso de formação. Desde então, já se passaram seis meses e tenho trabalhado com saúde e vigor.
-
-Recentemente, em 2 de setembro, ao encontrar uma moça de vinte e cinco anos de nossa aldeia que sofria com uma doença nos olhos, contei-lhe como eu, que por tantos anos padecera do mesmo mal, fui completamente curado pela sublime misericórdia de Komyō Nyorai-Sama. Sugeri que ela procurasse o reverendo Munakata para ouvir seus ensinamentos e receber Johrei. Contudo, ela me pediu que, ao menos naquela noite, eu ministrasse Johrei apenas em seus olhos. Assim o fiz e, na manhã seguinte, ela relatou que se sentia melhor e a dor havia diminuído.
-
-No dia seguinte, o reverendo veio à nossa aldeia. Pedi que ministrasse Johrei à moça, e ele o fez em minha casa, na presença dela e de seu pai. Ambos ouviram com alegria os ensinamentos sobre Komyō Nyorai-Sama e retornaram para casa satisfeitos. Agora, todas as noites, a moça e seus pais recebem Johrei de mim, e se mostram imensamente felizes. Ao relatar o ocorrido ao reverendo Munakata, ele sugeriu que o pai da moça se tornasse membro, o que lhe propus. Ele aceitou com alegria e, no dia 11 de outubro, aproveitando a cerimônia mensal na casa do reverendo, teve a permissão de receber o Ohikari perante o altar de Komyō Nyorai-Sama.
-
-Nossa aldeia possui trinta lares e uma população de aproximadamente novecentos habitantes. No inverno, a neve se acumula a alturas de um metro ou mais, e o médico mais próximo fica a seis quilômetros de distância, tornando as visitas domiciliares extremamente onerosas. Saber que podemos ministrar Johrei em nossos próprios lares, sem nos preocuparmos com as doenças, é uma bênção verdadeiramente inestimável. Tanto eu quanto a moça e seu pai nutrimos o desejo diário de poder servir e retribuir, ainda que minimamente, uma ínfima parte da graça de Komyō Nyorai-Sama e de Meishu-Sama.
-
-***
-
-O presente relato evidencia um quadro clínico deveras complexo, com enfermidades que acometeram o autor desde a juventude: pneumonia, doença cerebral, problemas cardíacos, beribéri, asma e uma doença ocular, a qual lhe causou o maior sofrimento. Ele recorreu exaustivamente aos recursos da medicina moderna, visitando diversos hospitais, mas todos os tratamentos se mostraram ineficazes. Diante disso, não apenas a ineficácia da medicina se torna patente, como também nos faltam palavras para descrever o desperdício de vultosas somas em tratamentos infrutíferos.
-
-Em contrapartida, como qualificar a terapia divina, que o curou de mal tão grave em tão curto período? Novamente, as palavras nos fogem. Nesse ponto, surge uma questão de grande relevância: a situação das aldeias desprovidas de médicos. Contudo, uma vez que qualquer pessoa que se torne fiel desta Igreja recebe o poder de curar, a preocupação com as doenças deixa de existir.
-
-***
-
-## A Purificação Intensa como Prenúncio da Cura
-
-**Sofrimento agudo precede o restabelecimento**
-
-*Mutō Hanako (43 anos), Igreja Hakkō, Província de Gifu*
-
-É com profunda reverência que venho relatar a grandiosa proteção que recebemos.
-
-A esposa de meu filho mais velho, hoje com vinte anos, desenvolveu beribéri durante a gestação e, desde então, vivia em constante desconforto, tanto antes quanto depois do parto. Buscamos auxílio em medicamentos, médicos e até mesmo em outras crenças, mas nada surtia efeito. Para agravar a situação, ela começou a sentir dores na região lombar, e seu estado de saúde deteriorava-se progressivamente. Chegou a um ponto em que precisava empilhar dois ou três colchões para conseguir dormir e, ainda assim, o simples peso do pijama sobre suas costas a impedia de se levantar na manhã seguinte. Passava as manhãs na cama e, quando finalmente conseguia se erguer, era incapaz de realizar qualquer tarefa doméstica. Uma nuvem de tristeza pairava sobre nosso lar, e o futuro nos parecia sombrio e desprovido de alegria.
-
-O diagnóstico médico foi de mal de Pott (tuberculose vertebral). Em desespero, recorremos a medicamentos, acupuntura e moxabustão, mas nada oferecia mais que um alívio paliativo. Foi então que, em fevereiro de 1947, por recomendação de minha cunhada, ouvimos falar sobre Komyō Nyorai-Sama e passamos a receber Johrei do reverendo Ōno, de Nagara. A princípio, eu duvidava que algo tão simples pudesse curá-la, mas, como ela se sentia melhor e mais aliviada a cada sessão, continuamos o tratamento.
-
-O reverendo nos advertiu: “O veneno que se solidificou com os remédios começará a se dissolver, então é possível que haja uma piora temporária. Mas, superada essa fase, virá o alívio”. Com essa esperança renovada, persistimos com o Johrei. Cerca de uma semana depois, suas dores lombares se intensificaram, e ela passou a sentir dores por todas as articulações. Todavia, findo esse período de sofrimento, um alívio imenso sobreveio, e ela experimentou uma alegria que não sentia há mais de dez anos. Peço que imaginem a felicidade que inundou nossos corações naquele momento. Imediatamente, meu marido e eu nos tornamos membros e passamos a viver em um estado de gratidão diária.
-
-Entretanto, nessa mesma época, meu filho mais velho foi hospitalizado e submetido a uma cirurgia devido a uma tuberculose nas costelas. Com uma família de treze pessoas, os meses eram marcados por despesas médicas contínuas, e nosso futuro parecia incerto. Apesar das dificuldades financeiras, a cirurgia foi realizada. A alegria de sua alta hospitalar, porém, foi efêmera, pois logo a doença reincidiu, mergulhando-nos novamente na tristeza. Para piorar, um vizinho nos contou que seu irmão falecera da mesma doença após uma reincidência, o que nos encheu de temor.
-
-Contudo, minha experiência de mais de uma década já me havia ensinado o quão inúteis são os recursos médicos, e eu sabia que nossa única esperança repousava no poder de Komyō Nyorai-Sama. Felizmente, como já havíamos recebido o Ohikari, comecei a ministrar Johrei em meu filho com toda a fé. Após cerca de quatro dias, ele, que até então não sentia dor, passou a se queixar de uma dor aguda que se estendia das axilas às costas e à região lombar. Ele nos acusava: “Pai, mãe, vocês só pioraram a minha situação!”. Nós o tranquilizávamos, dizendo: “O fato de a dor ter surgido após o Johrei é sinal de que o poder de cura está atuando”. Mesmo a contragosto, continuamos a ministrar Johrei diariamente, recorrendo também, por vezes, ao auxílio dos reverendos superiores.
-
-Em meio a esse processo, algo assombroso ocorreu: a cicatriz da cirurgia abriu-se espontaneamente, como se tivesse sido seccionada por um bisturi, revelando o osso e a carne viva por baixo. Daquela abertura e do local da reincidência, uma grande quantidade de pus começou a ser expelida. E o mais surpreendente: o pus exalava o odor característico dos medicamentos injetáveis que ele havia recebido! Este fato nos permitiu compreender claramente a realidade das toxinas medicamentosas (yakudoku). Após dez dias de drenagem contínua, o fluxo de pus cessou e, gradualmente, a ferida começou a se fechar. Sei que, para quem não presenciou, tal relato pode parecer inacreditável. Esse processo se repetiu por três vezes, e, ao final, ele estava completamente curado. Apesar de nossas dificuldades financeiras, fizemos com que ele também recebesse o Ohikari.
-
-Em abril deste ano, meu filho pôde, inclusive, dedicar-se por dez dias ao servir no Monte Jikkoku, em Atami. Ele, que outrora era uma pessoa sombria, transformou-se em alguém alegre, e sua atitude para com os irmãos mais novos também mudou. Somos imensamente gratos por essa grandiosa formação espiritual. Assim, os medicamentos se tornaram desnecessários em nossa família, e dias de luz e alegria passaram a fazer parte de nossa vida. Ao refletir sobre essa graça, tão vasta quanto o mar e tão alta quanto as montanhas, as palavras dos Hinos de Meishu-Sama brotam em meu coração e me levam às lágrimas:
-
-*Não fosse o socorro de Kannon,*
-*Estaria eu, ainda hoje,*
-*A padecer num pântano sem fundo.*
-
-*Como poderia eu não retribuir*
-*Tamanha graça, ao pensar*
-*Na ventura de estar viva?*
-
-***
-
-Este caso ilustra um fenômeno bastante comum: a ocorrência de uma dor intensa e temporária através do Johrei, seguida pela cura definitiva. Isso demonstra a perfeita consonância entre a teoria da purificação e sua manifestação na prática. Em seguida, a autora menciona que, diante da doença do filho, "a experiência de mais de uma década já me havia ensinado o quão inúteis são os recursos médicos". Vindo de uma pessoa leiga, tal declaração é de suma importância, pois revela a terrível realidade dos danos causados pelos medicamentos. A reincidência da doença ocorreu porque a cirurgia foi realizada antes que o processo de supuração estivesse completo, deixando pus residual que, mais tarde, iniciou um novo processo de purificação. O fato de a ferida cirúrgica ter se aberto naturalmente, expelindo grande quantidade de pus com odor de medicamento injetável, evidencia de forma inequívoca a presença de toxinas medicamentosas.
-
-***
-
-## Um Exemplo Típico de Incredulidade e Despertar
-
-**O padrão recorrente do cético que se redime ao abrir os olhos**
-
-*Sakakibara Ken (21 anos), Igreja Yōkō, Província de Hiroshima*
-
-Por volta de outubro de meus treze anos, um incidente banal me deixou com um problema na perna. Peregrinei de médico em médico e cheguei a ficar internado por dois anos em um hospital, onde fui submetido a três grandes cirurgias e três procedimentos menores. Durante esses sete anos, minha vida foi um mundo de escuridão absoluta. Além da osteomielite inicial, a partir dos quinze anos passei a sofrer de artrite, problemas estomacais e hemorroidas. Minha condição era indescritível em palavras.
-
-Em maio deste ano, minha mãe, que foi trabalhar em uma fábrica, pegou emprestadas cinco ou seis edições do jornal *Kyusei* com um colega chamado Sr. Taira. Minha reação foi de total descrédito. Eu dizia: “Se a religião pudesse curar doenças, não precisaríamos de médicos nem de remédios”, e me recusava a dar atenção ao assunto.
-
-Dois ou três dias depois, enquanto eu estava na cama, encolhido de dor por causa das hemorroidas, o Sr. Taira veio nos visitar e me ministrou Johrei. De forma misteriosa, meu corpo aqueceu, e a dor desapareceu como se tivesse sido varrida. Quando a dor retornou, apliquei, como de costume, um remédio fitoterápico, mas isso desencadeou uma dor lancinante que me fez contorcer-me em agonia. Nesse momento, o Sr. Taira chegou novamente e me ministrou Johrei mais uma vez. A dor sumiu como se fosse um passe de mágica.
-
-A partir de então, passei a receber Johrei diariamente. As dores de estômago cessaram, a artrite melhorou e hoje estou completamente curado. Apesar de tudo, eu ainda não atribuía minha melhora ao poder de Deus. Que tolo eu fui! Mesmo assim, pela imensa benevolência divina, foi-me concedida a oportunidade de participar do curso de formação. No segundo dia do curso, diante de um milagre que presenciei, minha mente mudou de tal forma que, mesmo que me ordenassem duvidar, eu não conseguiria; mesmo que me proibissem de crer, seria impossível não fazê-lo. Além disso, os milagres têm sido uma constante em meu dia a dia. Sou imensamente grato por Deus me mostrar Seu grandioso poder, mesmo sendo eu um membro de poucos dias, pois compreendo que é Sua forma de me fazer conhecer Sua existência.
-
-***
-
-Este é um exemplo de alguém que, mesmo sentindo os efeitos do Johrei, se recusa a acreditar. Seu caso demonstra o quão profundamente arraigada pode estar a fé cega na medicina materialista. O fato de o Johrei surtir efeito mesmo diante de tamanha incredulidade prova que sua eficácia não depende de sugestionamento ou de qualquer fenômeno mental. Casos como este são extremamente numerosos, e o pedido de desculpas após o despertar da consciência tornou-se, por assim dizer, um padrão recorrente.
 
 ---
 

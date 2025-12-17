@@ -4,7 +4,7 @@
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Artigos do Mestre Okada Jikan — Registro dos Ensinamentos Orais, vol. 12
 
@@ -480,7 +480,7 @@ Ele a amava, estava apaixonado por ela. E, mesmo no Mundo Espiritual, não conse
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikan
 ## A Terapia Revolucionária da Tuberculose (Publicado em 15 de agosto de 1951)

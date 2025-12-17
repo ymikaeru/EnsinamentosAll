@@ -3,8 +3,8 @@
 # Coletânea de Artigos do Mestre Jikan Okada
 
 **Categoria:** sasshi | **Ano:** 昭和26(1951)年5月20日 | **Fonte:** 教えのHikari
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-05-20
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 教えの光 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-05-20
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 教えの光
 
 ## Coletânea de Artigos do Mestre Jikan Okada
 
@@ -1214,8 +1214,8 @@ A nevralgia e a dor de cabeça são influenciadas pelo clima porque, quando o te
 # Coletânea de Teses do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年10月25日 | **Fonte:** 基仏と観音教
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-10-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 基仏と観音教 自観叢書第7篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-10-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 基仏と観音教
 
 ## Coletânea de Teses do Mestre Okada Jikan
 ## O Cristianismo, o Budismo e a Doutrina de Kannon
@@ -1634,7 +1634,7 @@ Publicado por: Nijusseiki Shuppan Insatsu Goshi Gaisha
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada – Gokouwaroku, nº 7
 
@@ -1972,7 +1972,7 @@ A título de referência, informamos que temos conhecimento de que, movidos pela
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikan
 ## Registro das Palavras de Luz, No. 11
@@ -2384,7 +2384,7 @@ IV. Conforme informado no número nove, o conteúdo desta edição também foi o
 
 **Categoria:** sasshi | **Ano:** 昭和10(1935)年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikan – Palestras de Kannon (1 a 7)
 ## Palestras compiladas por um discípulo. Publicado em Showa 10 (1935).

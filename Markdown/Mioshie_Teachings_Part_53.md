@@ -1,10 +1,521 @@
 # Mioshie_Teachings - Part 53
 
+# Tratado sobre a Arte da Cura (IV): Enfermidades da Região Inferior do Corpo — Hemorroidas e Doenças Venéreas
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** 下体及び婦人・小児病
+**Título Original:** 医術篇（四） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 下体及び婦人・小児病
+
+## Tratado sobre a Arte da Cura (IV): Enfermidades da Região Inferior do Corpo — Hemorroidas e Doenças Venéreas
+
+**001 A causa das enfermidades da região inferior do corpo (A origem das hemorroidas e o “senshaku”)**
+
+**Pergunta:** No interior, existe uma condição popularmente conhecida como “senshaku”, na qual uma formação semelhante a um bastão surge na região que vai dos testículos ao baixo-ventre, imobilizando a pessoa. Gostaria de Vos perguntar se se trata de um fenômeno de ordem espiritual.
+
+**Meishu-Sama:** Não é de natureza espiritual, mas sim uma manifestação de toxinas medicamentosas que descem e se solidificam nos testículos. O frio acelera esse processo de endurecimento. Com o Johrei, a cura ocorre gradualmente. Quando se aplicam injeções, o peso da substância medicamentosa faz com que ela desça cada vez mais. Com efeito, hemorroidas, dores nos testículos, nódulos na virilha, dores e cãibras nas pernas são todos oriundos de toxinas medicamentosas que se acumulam e se solidificam nas partes inferiores do corpo.
+
+A causa das hemorroidas encontra-se na virilha. Ministrando Johrei nessa região, a cura é alcançada. Geralmente, o problema se manifesta à direita ou à esquerda; as hemorroidas do lado direito, por exemplo, originam-se na virilha direita.
+
+Em verdade, trata-se de uma descoberta de magnitude mundial.
+
+**002 Pontos de Johrei para hemorroidas e dor no baixo-ventre**
+
+**Pergunta:** Eu, minha esposa e nosso filho mais velho ingressamos na Fé sequencialmente desde a primavera do ano passado. Minha esposa, Toki, de cinquenta e dois anos, ao ingressar em maio, padecia apenas de um leve mal-estar gastrointestinal. Contudo, suas dores abdominais se intensificaram gradualmente e seu apetite diminuiu. Por volta de outubro, ela precisou acamar-se, com dores por todo o corpo, sendo as das hemorroidas especialmente severas. Seu estado de debilidade era tamanho que, no final do ano, chegou a correr risco de vida, mas recentemente apresentou uma ligeira melhora. Todavia, as dores abdominais e a intensidade das hemorroidas persistem. Desde que se entende por gente, ela praticamente não fez uso de medicamentos. Haveria alguma mácula espiritual que justifique uma purificação tão prolongada? Adicionalmente, há uma questão que me inquieta a respeito de meu irmão mais novo, falecido durante a guerra enquanto trabalhava compulsoriamente em uma mina de carvão em Kyushu. No funeral conjunto, realizado pela empresa e pela província, foi-lhe outorgado o nome póstumo de Seikoin Hogetsu Nitcho Zenshi. O templo de nossa família, no entanto, alegou que nem mesmo os líderes leigos possuíam um nome de tal grau e o consagrou com outro nome. A família enlutada reverencia a placa com o primeiro nome no dia a dia, mas, nos aniversários de falecimento, o monge vem e utiliza a placa do templo para os ofícios. Como deveríamos proceder doravante? Solicito Vosso esclarecimento.
+
+**Meishu-Sama:** O nome póstumo a ser utilizado é o do templo.
+
+O que ocorre é uma purificação. A dor das hemorroidas origina-se na virilha. A dor no baixo-ventre, por sua vez, deve-se a uma solidificação no bacinete renal direito.
+
+**003 Fístula anal decorrente de tuberculose**
+
+**Pergunta:** Meu marido, de trinta e nove anos, contraiu tuberculose no final do ano passado e, no início deste ano, surgiu uma leve fístula anal. Em meados de abril, ele ingressou na Fé e, desde então, vem recebendo Johrei. Com o tempo, seu quadro se agravou: todas as manhãs, após evacuar, as fezes entram no orifício da fístula, causando uma inflamação e um sofrimento atroz por duas ou três horas. Depois, um pouco de pus continua a drenar ao longo do dia. Notamos que, ao consumir alimentos gordurosos no jantar, como tempura de legumes, a dor após a evacuação na manhã seguinte é menos intensa. Seria recomendável que ele consumisse frituras constantemente? Atualmente, ele apresenta febre baixa, expectoração em pequena quantidade e apetite normal. Rogo que nos ensineis o método correto de Johrei para este caso.
+
+**Meishu-Sama:** A cura ocorrerá à medida que o pus for expelido pela fístula. É muito comum que uma tuberculose suprimida se manifeste como fístula anal. A medicina, nesses casos, transforma uma única enfermidade em duas. Óleos de origem vegetal são excelentes e podem ser consumidos à vontade. A fístula anal é invariavelmente curada pelo Johrei.
+
+**004 Fístula anal e possessão espiritual — Pontos de Johrei**
+
+**Pergunta:** Mugikura Goichi, de vinte e um anos, tem recebido Johrei desde o final do ano passado por causa de uma fístula anal. À medida que seu corpo enfraquece, sucessivos espíritos se apossam dele, e nas últimas duas semanas ele parece pairar entre o mundo material e o espiritual. Imploramos a Vossa proteção.
+
+**Meishu-Sama:** O problema não tem relação com a fístula anal. A debilidade o tornou suscetível. A força do Johrei está sendo insuficiente. Os pontos a serem ministrados são as costas e a nuca.
+
+**005 Prolapso retal — Método de Johrei**
+
+**Pergunta:** Sou um homem de cinquenta e oito anos. Há mais de vinte anos padeço de hemorroidas e, há alguns anos, estas evoluíram para um prolapso retal. Não me submeti a cirurgias, mas tentei diversos tratamentos sem sucesso. Há dois anos, toda a minha família ingressou na Fé, e venho recebendo Johrei continuamente, mas não observo qualquer mudança. Como posso obter a cura? Peço Vosso ensinamento.
+
+**Meishu-Sama:** A região está excessivamente solidificada, mas a cura é possível. O prolapso retal, quando antigo, torna-se muito rígido. O Johrei o amolecerá. Ao ir ao banheiro, é preciso empurrá-lo para dentro. Evacuações demoradas são prejudiciais. Trata-se de uma doença peculiar aos japoneses, decorrente da estrutura de seus sanitários.
+
+Eu mesmo, quando jovem, sofri com prolapso retal, mas me curei ao adotar o hábito de evacuar rapidamente. Ministre Johrei com a ponta dos dedos; a cura será relativamente rápida.
+
+**006 Hemorroidas e a terapia com rádio**
+
+**Pergunta:** Maruyama Hisae, de quarenta e três anos, foi diagnosticada com câncer de útero e, cerca de um ano após o início da doença, submeteu-se à terapia com rádio. Desde julho deste ano, tenho-lhe ministrado Johrei diariamente. Atualmente, ela sofre de hemorroidas externas e precisa evacuar cerca de cinco vezes ao dia, mas, devido à dor, consegue expelir apenas uma pequena quantidade. Ela não tem apetite e parece definhar a cada dia. Será possível a cura completa?
+
+**Meishu-Sama:** A terapia com rádio destrói os tecidos juntamente com o câncer. É algo terrível. A irradiação de raios X tem um poder de solidificação notável. Sem analisar o caso de perto, não posso afirmar, mas creio que será difícil. Aos quarenta e três anos, o problema deve ser decorrente de acúmulo de sangue antigo.
+
+As hemorroidas externas curam-se rapidamente. Existem as internas e as externas.
+
+**007 Colite catarral evoluindo para hemorroida interna**
+
+**Pergunta:** Iwaki Katsuji, atualmente com doze anos, sofria de colite catarral desde os oito. Durante quatro anos, recebeu injeções e tratamentos médicos sem melhora. Em setembro do ano retrasado, começou a receber Johrei e apresentou grande progresso. Este mês, ele viajou de Hokkaido a Tóquio para uma entrevista convosco, mas, durante o percurso no trem, sentiu dores agudas e repetidas após evacuar. A dor localiza-se na região das hemorroidas, e ele apresenta fezes com sangue e de consistência amolecida. Por favor, ensinai-nos o método de Johrei.
+
+**Meishu-Sama:** A colite catarral é, na verdade, um processo excelente. O que os tratamentos médicos fizeram foi conservar a doença.
+
+Há um abscesso se formando próximo ao ânus. É o que se chama de hemorroida interna. Com o Johrei, a cura será rápida.
+
+**008 Cirurgia anal**
+
+**Pergunta:** Em maio de 1945, surgiu-me subitamente um tumor a cerca de três centímetros ao lado do ânus. O médico realizou uma cirurgia com uma incisão de aproximadamente seis centímetros. Aparentemente, a recuperação foi total em um mês, mas, dois meses depois, o problema retornou exatamente como antes e persiste até hoje. Pelo contrário, agora há sangramento e pus, o que me causa grande sofrimento. Haveria alguma relação espiritual? Que partes do corpo devo purificar com Johrei?
+
+**Meishu-Sama:** A causa é a cirurgia. Quando se faz a incisão antes que todo o pus tenha se acumulado, é isso que acontece. Se o processo seguisse seu curso natural, as toxinas se concentrariam cada vez mais, até que um orifício se abriria para sua expulsão. Com a cirurgia, o pus não consegue mais se acumular no local original. Há pessoas que perdem a vida por causa disso. A cura virá ministrando Johrei no local e nos rins.
+
+**009 Desenvolvimento incompleto do órgão genital masculino**
+
+**Pergunta:** Um jovem de vinte anos, que ingressou na Fé em março de 1947, sofre em segredo, sem coragem de contar aos pais, pois seu órgão genital não se desenvolveu, permanecendo quase do mesmo tamanho de quando era criança. Ocasionalmente, seus gânglios linfáticos purificam, e ele sente dores no osso púbico. Fora isso, não há nada de anormal. Gostaria de saber se ele poderá se desenvolver recebendo Johrei e peço que nos ensineis o método correto.
+
+**Meishu-Sama:** A cura virá ministrando Johrei nos rins. Há um nódulo atrás dos rins.
+
+**010 Dor nos testículos**
+
+**Pergunta:** Há cerca de cinco dias, meus testículos incharam e começaram a doer. O que devo fazer? (Ingressei na Fé em setembro do ano passado).
+
+**Meishu-Sama:** Se ministrar Johrei em si mesmo, a cura será imediata. (Pode ocorrer em casos de cárie óssea, mas a causa aqui é a toxina medicamentosa, provavelmente de injeções).
+
+Eu mesmo, há três ou quatro anos, tive dores nos testículos. A intensidade da dor corresponde à quantidade de medicamento.
+
+**011 A causa da orquiepididimite tuberculosa**
+
+**Pergunta:** Desde outubro de 1946, sofro de uma inflamação nos testículos. O esquerdo começou a aumentar progressivamente e hoje está consideravelmente grande. Ingressei na Fé em novembro do ano passado e estou recebendo Johrei. Ele voltará ao seu tamanho normal? O médico diagnosticou como orquiepididimite tuberculosa.
+
+**Meishu-Sama:** Sim, voltará ao normal. Ministre Johrei a uma distância de doze a quinze centímetros.
+
+A inflamação testicular é oriunda de toxinas da gonorreia. É uma doença de cura relativamente fácil. Quando os médicos não conseguem curar, atribuem à tuberculose, mas não há tuberculose alguma aí. É algo que não pode existir.
+
+**012 Orquiepididimite tuberculosa**
+
+**Pergunta:** Estou ministrando Johrei em uma pessoa com orquiepididimite tuberculosa. Após um ano e meio de tratamento médico, um dos testículos foi removido cirurgicamente. Agora, o problema surgiu no outro. Rogo que me ensineis o método de Johrei.
+
+**Meishu-Sama:** A causa também são as toxinas solidificadas. Ministre Johrei intensamente na região. Essa história de “tuberculosa” é uma mentira; tudo o que não conseguem curar, eles chamam de tuberculose. Trata-se, na verdade, de uma orquite por toxinas medicamentosas, originadas pela gonorreia. Ministre Johrei nos testículos e na virilha.
+
+**013 Estreitamento da uretra e o gonococo**
+
+**Pergunta:** Um homem de setenta e três anos sofre de estreitamento da uretra há dez anos. Desde o verão passado, passou a ter dores lombares e incontinência urinária. Uma protuberância semelhante a um tumor surgiu logo abaixo do umbigo. Normalmente, ela é dura, mas, quando ele consegue urinar, torna-se macia e menor, como uma bola de borracha.
+
+**Meishu-Sama:** O estreitamento da uretra ocorre em pessoas que tiveram gonorreia no passado. O gonococo jamais desaparece por completo. Ministrando Johrei em direção à uretra, as toxinas se dissolverão pouco a pouco e serão eliminadas pela urina. Ministre Johrei especialmente nos rins. Quando a função renal for ativada, a cura virá sem dificuldade.
+
+**014 Gonorreia e sífilis**
+
+**Pergunta:** Uma senhora de trinta e cinco anos (ingressou na Fé em junho deste ano) tinha uma leve afecção pulmonar, mas ficou completamente curada após a adesão. Recentemente, um exame de sangue diagnosticou sífilis latente, e o médico recomendou injeções de penicilina (ela já havia tomado penicilina antes de ingressar, sem efeito). O bacilo da sífilis pode ser eliminado pelo Johrei?
+
+**Meishu-Sama:** O bacilo da sífilis é simples de eliminar.
+
+Como se costuma dizer: a gonorreia é dos que bebem; a sífilis, dos abstêmios.
+
+**015 A sífilis dura apenas uma geração**
+
+**Pergunta:** Uma mulher, hoje com trinta e três anos, teve o início de uma atrofia do nervo óptico de origem sifilítica em julho de 1944. Sua visão começou a turvar e, após consultar médicos e submeter-se a diversos tratamentos, como injeções oculares, injeções de mercúrio e Salvarsan, ficou completamente cega em janeiro de 1945. Desde agosto do ano passado, ela vem recebendo Johrei e seu estado geral de saúde melhorou. Quanto à visão, ela diz que, às vezes, parece ter a impressão de enxergar algo vagamente, talvez por efeito psicológico. Será possível que ela volte a enxergar? (Ela ainda não ingressou na Fé). Pedimos que nos ensineis o método de Johrei.
+
+**Meishu-Sama:** Fizeram de tudo para deixá-la cega. A cura é perfeitamente possível. Não se trata de sífilis nem de nada parecido. A própria sífilis é, em essência, toxina medicamentosa. A verdadeira sífilis limita-se a uma geração, não é hereditária. Foram os medicamentos injetados pelos médicos que causaram o problema. As injeções solidificam as toxinas, levando à cegueira. A eliminação de toxinas solidificadas nos olhos é um processo demorado. Ministre Johrei da cabeça para os ombros. Sendo perseverante, ela se curará.
+
+---
+
+# Coleção de Teses do Reverendo Jikan Okada – Pesquisa de Ensinamentos: Seção sobre a Consagração de Espíritos – Terceira Parte, 3 – 026-043: Ryûjin e Espíritos de Animais
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** -
+**Título Original:** 霊祀篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
+
+## Coleção de Teses do Reverendo Jikan Okada – Pesquisa de Ensinamentos: Seção sobre a Consagração de Espíritos – Terceira Parte, 3 – 026-043: Ryûjin e Espíritos de Animais
+
+## 026 Método de Consagração de Espíritos de Animais
+
+Para transferir a um oratório o espírito de um animal que está a possuir uma pessoa, é suficiente entoar a Oração Amatsu-Norito e o Salmo Zenguensanshi?
+
+Em casos de possessão espiritual, tanto a Oração Amatsu-Norito quanto o Salmo Zenguensanshi são adequados. Primeiramente, deve-se rogar a Kannon-Sama, dizendo: "Pretendo agora consagrar em um oratório o espírito que me possui; rogo por Vossa proteção". Em seguida, dirige-se ao espírito com as seguintes palavras: "Possua meu corpo e, através dele, assente-se em seu oratório". Desta forma, o espírito é acomodado por meio de um ritual de pacificação da alma. Quanto ao objeto de veneração, basta que se escreva nele um nome apropriado. Alternativamente, é possível assentá-lo apenas com palavras, declarando: "Recitarei agora a oração; ao seu término, por favor, assente-se no oratório".
+
+## 027 A Forma de Consagrar Ryûjin, Jizô e Inari
+
+Em meu tokonoma, consagrava, juntas, três divindades: um Ryûjin, um Jizô-Sama e um Inari-Sama. Recentemente, recebi a Imagem de Komyô Nyôrai-Sama e, por essa razão, pretendo transferir o Jizô-Sama para o altar budista e o Inari-Sama para a área externa da casa. Este procedimento está correto? Ademais, gostaria de receber orientações sobre como e onde devo consagrar o Ryûjin-Sama.
+
+O Jizô deve, obrigatoriamente, ser levado para o exterior. A divindade Amida saiu para proteger o mundo externo; por conseguinte, deve ser consagrada do lado de fora.
+
+Quanto ao Inari, se for uma herança ancestral antiga, deve ser mantido dentro de casa. Se foi adquirido posteriormente, seu lugar é do lado de fora.
+
+O Ryûjin, igualmente, precisa ser consagrado em ambiente externo. É imprescindível que se lhe ofereça água, seja em um pequeno lago ou em um vaso. Esta providência deve ser tomada imediatamente, pois o corpo do Ryûjin gera um calor intenso, e ele sofre terrivelmente se não puder submergir em água cerca de três vezes ao dia. Embora engula os alimentos crus, seu calor corporal é tão forte que os dissolve. Portanto, todos devem ser consagrados na área externa.
+
+Para a instalação, empilhem-se pedras a uma altura de sessenta a noventa centímetros, e sobre essa base, erga-se o oratório. A direção deve ser tal que o oratório fique voltado para a Imagem de Komyô Nyôrai-Sama, se esta estiver consagrada. O Jizô, por sua vez, deve ser assentado sobre uma pedra natural, de preferência à beira de um caminho frequentado por pessoas.
+
+## 028 Doença Espiritual: Consagrar ou Não e Como Fazê-lo
+
+No caso de uma purificação de natureza espiritual, é aconselhável consagrar o espírito envolvido? Em caso afirmativo, qual o procedimento a ser seguido? (Nota: Refere-se tanto a espíritos humanos quanto a de animais).
+
+Existem casos em que a consagração não é necessária, e outros em que é recomendável. É possível realizar o procedimento mesmo que o espírito em questão não tenha relação direta com a pessoa. Geralmente, trata-se de espíritos de raposa ou de serpente, para os quais se deve construir um oratório na área externa.
+
+Consagrar um Inari dentro de casa invariavelmente atrai infortúnio para o morador. A raposa não é um animal que habita residências. No Mundo Espiritual, ao fazer isso, a casa se torna o solo, e o ser humano fica sob a terra, ou seja, no inferno. Consequentemente, nada de bom pode advir de tal ato. Consagrar um animal nos rebaixa a uma condição inferior à dele.
+
+O oratório deve ser direcionado para a Imagem de Komyô Nyôrai-Sama, para que seja perpetuamente banhado por Sua Luz. A altura não deve exceder a de uma pessoa sentada dentro de um cômodo. Para evitar que o vento o derrube, pode-se escavar uma pedra no formato do oratório e encaixá-lo nela. É fundamental que se atribua um nome, inscrito em uma placa de madeira branca, semelhante a um nome póstumo budista. Escreve-se "Fulano Myôjin", podendo-se utilizar o sobrenome da família. Para um Inari, utiliza-se "Fulano Inari Daimyôjin", sendo aceitável o nome da localidade. Para um Ryûjin, "Fulano Myôjin" ou "Fulano Daimyôjin". A consagração deve ser feita em um dia determinado.
+
+Aos espíritos que possuem pessoas, tanto os persistentes quanto os que o fazem esporadicamente, pode-se dizer: "Vou consagrá-lo em um oratório". O ritual de pacificação da alma também é válido; para isso, segura-se o polegar direito com a mão esquerda.
+
+No caso do Ryûjin, este aprecia oferendas de arroz cru, sal, água e também peixe cru. Verduras, frutas e outros itens são igualmente bem-vindos. A raposa, por sua vez, não necessita de arroz ou água; aprecia arroz glutinoso cozido no vapor, tofu frito e tempura.
+
+O procedimento deve ser realizado após a entronização da Imagem de Komyô Nyôrai-Sama. Na ausência de um espaço externo, o tokonoma pode ser utilizado, construindo-se um pequeno altar em um de seus cantos. Para o Ryûjin, deve-se cavar um pequeno lago, cuidando para que nunca lhe falte água; um lago é preferível a uma tigela.
+
+Recordo-me de uma senhora que, subitamente, desmaiou e disse: "Enquanto vocês vivem em uma casa tão bela, eu resido em um lugar coberto de fuligem. Se me ignorarem, não os perdoarei". Ao visitá-la, encontrei a esposa deitada de olhos fechados. Aconselhei que fizessem uma boa limpeza, pois o oratório de pedra que eu havia consagrado para ela estava coberto de fuligem e não tinha porta. Tratava-se de um espírito ancestral.
+
+Quando um Ryûjin conclui sua ascensão espiritual e deseja elevar-se aos Céus, o oratório pode ser removido.
+
+## 029 A Pacificação Espiritual de Ryûjin e Raposas
+
+A raposa é um ser de lealdade notável. Fica imensamente satisfeita quando é consagrada. Mesmo um simples aceno de cabeça em reverência ao passar por seu santuário a enche de alegria.
+
+Quando um Ryûjin solicita ser consagrado, deve-se declarar: "Através do meu corpo, peço que se assente neste receptáculo divino". Em seguida, unem-se as mãos em postura de pacificação da alma. Embora não ocorra uma mudança drástica, as mãos naturalmente se moverão em direção ao receptáculo. Se for um Ryûjin pequeno, as mãos se separam rapidamente; se for um de grande porte e comprimento, o processo leva mais tempo. Quando o espírito se assenta, as mãos se separam espontaneamente. Os dedos da mão direita devem ficar por baixo.
+
+O Ryûjin costuma sair pelo dedo indicador, enquanto a raposa, pelo polegar.
+
+Muitos creem que a salvação vem com a saída de um espírito possessor. Contudo, a remoção de um espírito que permaneceu por longo tempo pode levar à morte, especialmente se o corpo da pessoa estiver debilitado. Ademais, até mesmo o yakudoku, em certa medida, confere força para sustentar o corpo. Sua eliminação pode causar um colapso súbito. (24 de junho de 1948)
+
+## 030 A Oração para Inari e Ryûjin
+
+Ao consagrarmos Inari-Sama e Ryûjin-Sama, com que sentimento devemos entoar a oração? E que palavras de proteção e bênção devemos proferir?
+
+No momento da consagração, pode-se invocar o Grande Deus do Mundo Invisível. A Oração Amatsu-Norito é suficiente.
+
+## 031 A Divindade dos Oratórios de Ryûjin
+
+Os oratórios dedicados ao Ryûjin abrigam, na maioria das vezes, a divindade Benten-Sama. É recomendável, sempre que possível, mantê-los consagrados. Muitos deles atuam como guardiães da terra, sendo frequentemente encontrados em pântanos e lagos. (27 de junho de 1948)
+
+## 032 A Consagração de Múltiplos Ryûjin Já Existentes
+
+Na casa de um membro que já recebeu a Imagem de Komyô Nyôrai-Sama, o atual chefe da família, por recomendação de um asceta, consagrou juntos no tokonoma as divindades Hachi-Dai-Ryûjin, Haku-Ryûjin e Benzaiten. Do lado de fora da casa, já existe um santuário para Hakujin-Myôryû-Zenjin. Seria correto transferir os três Ryûjin mencionados para junto de Hakujin-Myôryû-Zenjin, na área externa?
+
+Todas essas divindades são servas de Komyô Nyôrai-Sama. Portanto, uma vez que a Imagem de Komyô Nyôrai-Sama esteja consagrada, não há necessidade de cultuar as demais. Consagrar divindades como o Ryûjin, nesse caso, pode, ao contrário, causar-lhes sofrimento. Seria preferível desfazer tais consagrações.
+
+Se for para manter o Ryûjin, que seja do lado de fora. Divindades de elevada estirpe não permanecem onde há outras de menor grau. Por essa razão, nada de bom advém dessa prática. Komyô Nyôrai-Sama é o elo principal; não há necessidade de se ligar a outros. (23 de outubro de 1949)
+
+## 033 A Consagração do Ryûjin
+
+Desejo consagrar um Ryûjin. Poderia me instruir sobre como proceder?
+
+É preferível, na medida do possível, não consagrar Ryûjin. Não se deve fazê-lo por motivos triviais. (25 de janeiro de 1949)
+
+## 034 Sobre Consagrar um Ryûjin Dentro de Casa
+
+Trata-se do caso da família de um membro chamado Yuhiko Yoshida. Há cerca de cem anos, um poço e um lago em sua propriedade foram soterrados. Posteriormente, um asceta da escola Nitiren afirmou que era necessário consagrar um Ryûjin e o fez, sob o nome de "Saijô Kôryû Tennô". Este Ryûjin continua consagrado dentro de casa até hoje. A família deseja transferi-lo para a área externa. Seria correto? Ou seria melhor consagrar os Ryûjin do lago e do poço separadamente, com novos nomes? O atual chefe da família, Yuhiko Yoshida, é o oitavo da linhagem e está prestes a receber a Imagem Sagrada.
+
+Um Ryûjin não deve ser consagrado dentro de casa. Embora possua força, sua posição é inferior à do ser humano; é uma espécie de animal. Além disso, o Ryûjin aprecia a chuva, de modo que se sente mais satisfeito ao ar livre.
+
+O nome pode ser mantido como está. Consagre-o em uma direção voltada para a Imagem de Komyô Nyôrai-Sama. (22 de janeiro de 1950)
+
+## 035 O Local para Consagrar Espíritos de Serpentes, Gatos, etc.
+
+Ao consagrar espíritos de serpentes ou gatos com os quais se teve alguma ligação cármica, qual o melhor local e por quanto tempo se deve fazê-lo?
+
+Um local apropriado e limpo no jardim, onde as pessoas não pisem, é o ideal.
+
+## 036 Nomes para Consagrar Múltiplos Ryûjin e Espíritos de Raposa
+
+Em um depósito de alvenaria, viviam uma serpente branca e muitas outras, mas o local foi incendiado durante a guerra. Como devo proceder com a consagração? Essa serpente branca tem uma posição superior à dos humanos? Quando é necessário consagrar mais de um Myôjin, como devo nomeá-los? E por quantos anos essa consagração deve ser mantida? Uma cerimônia anual é suficiente?
+
+Seja um Inari ou uma serpente, não importa quão magníficos ou importantes sejam, sua posição é sempre inferior à do ser humano. Pode haver casos de se consagrar dois Myôjin, como um Ryûjin e uma raposa. A raposa aprecia o título de "Shô-Ichii" (Primeiro Grau Supremo). É aconselhável consagrar a serpente do depósito.
+
+## 037 O Significado de Myôjin
+
+No dia 26 de junho, eu e meu filho ingressamos na fé. Somos da família Numano. Na tarde do nosso primeiro dia de aprimoramento, meu filho matou um casal de serpentes-azuis, com cerca de um metro e oitenta de comprimento cada, que viviam nos arredores da nossa casa há muito tempo. Seria aconselhável consagrar essas serpentes? E, nesse caso, devo criar dois nomes, um para cada uma do casal?
+
+Um único nome é suficiente. Chame-o Myôjin. O ideograma "Myô" (明) é composto por dois elementos, que simbolizam o masculino e o feminino. Acrescente o sobrenome da família, resultando em "Numano Myôjin". A consagração deve ser feita na área externa.
+
+Enterre as serpentes, entoe a oração, invoque o nome do Grande Deus do Mundo Invisível e rogue para que elas possam renascer como seres humanos o mais breve possível. Seria uma irreverência pedir isso ao Grande Deus Miroku. O Grande Deus do Mundo Invisível rege apenas o mundo invisível.
+
+Mesmo tendo sido morta, a serpente se regozija ao receber o procedimento para sua salvação, pois não deseja exibir sua aparência disforme. Atribuir títulos como "Daimyôjin" é uma falsidade. (22 de junho de 1949)
+
+## 038 Matar uma Serpente e a Forma de Consagração
+
+1.  É possível que a vida de uma criança seja ceifada por se ter matado uma serpente?
+2.  Nesse caso, até que ponto a consagração da serpente deve ser realizada?
+
+1.  Sem dúvida. A serpente, irada, busca vingança. Sapos também são frequentemente possuídos por espíritos. É melhor tratá-los com cuidado. Com exceção das antigas serpentes-azuis, as outras podem ser mortas. Eu mesmo costumo matar serpentes. Depois, eu as enterro e entoo a oração. Contrariamente ao que se pensa, a serpente se alegra. Ela considera sua forma disforme e deseja encerrar rapidamente uma vida de fealdade. Ao se rogar por ela, ela pode reencarnar mais depressa como ser humano, o que a deixa extremamente feliz. Nesses momentos, sinto uma grande leveza, pois a serpente está contente.
+
+2.  O ponto crucial é oferecer um recipiente com água. Em um pequeno oratório, escreva em uma placa de madeira branca, no formato de um nome póstumo: "...Myôjin".
+
+3.  Use o título Myôjin. Sobre uma base de pedras empilhadas a uma altura de sessenta a noventa centímetros, assente o oratório, fixando-o para que não seja movido pelo vento. Ofereça arroz cru e água. Peixe cru, verduras e outros itens também são adequados. Realize uma cerimônia uma vez por mês, de preferência no dia em que o animal foi morto. Entoe a Oração Amatsu-Norito e "Grande Deus do Mundo Invisível, protegei-nos e concedei-nos felicidade". Como a consagração é feita em reparação, peça também que a serpente se torne uma guardiã.
+
+## 039 Como Lidar com a Maldição de uma Serpente
+
+Trata-se de uma maldição de serpente. Consagre-a e rogue para que ela possa reencarnar como ser humano. Dessa forma, ela se sentirá apaziguada. No jardim, empilhe pedras a uma altura de sessenta a noventa centímetros, construa um oratório, prepare um objeto de veneração e dê-lhe o nome de "Fulano Myôjin". Cave um pequeno lago. Entoe a oração diariamente. Peça ao Grande Deus do Mundo Invisível que, em sua próxima encarnação, ela possa nascer como ser humano. A serpente, gradualmente, compreenderá a situação, e seu ressentimento se transformará em alegria. (1948)
+
+## 040 O Procedimento para uma Serpente Morta (Serpentes que Amaldiçoam)
+
+Uma serpente que vivia em minha casa há muitos anos morreu. Devo consagrá-la?
+
+Quando uma serpente morrer, cave um buraco em um local onde as pessoas não pisem e enterre-a. Em seguida, entoe a Oração Amatsu-Norito. Para um procedimento mais completo, erga sobre o local um pequeno monte de pedras ou, de improviso, escreva seu nome em uma placa de madeira e consagre-a. Rogue então ao Grande Deus do Mundo Invisível para que, em sua próxima vida, ela possa nascer como ser humano. Para a serpente, que possui uma forma disforme e é rejeitada pelas pessoas, renascer como humano após uma passagem rápida pelo Mundo Espiritual é infinitamente melhor, mas ela não consegue morrer por conta própria.
+
+Seres humanos que reencarnaram como serpentes podem lançar maldições, mas as serpentes que sempre foram serpentes não o fazem.
+
+## 041 Cegueira e a Consagração de Serpentes
+
+A membro Keiko Fukumura, de 24 anos, enquanto dançava uma dança folclórica de olhos vendados, perdeu completamente a visão. Com Johrei, ela chegou a enxergar parcialmente as estampas das roupas, mas depois voltou à cegueira anterior, e este ciclo se repete. Segundo seu pai, quando ele era criança, estava colhendo castanhas na montanha atrás de casa quando subitamente viu um casal de serpentes "yamakagashi". Assustado, ele as matou e as pendurou em uma árvore. Ao voltar para casa e ir ao banheiro, encontrou ali as mesmas serpentes que havia matado. Espantado, retornou à montanha e constatou que elas ainda estavam no mesmo lugar. Em outra ocasião, viu uma serpente-azul comendo o arroz oferecido ao altar xintoísta, pendurada na viga. Ele a derrubou e também a matou. Esses eventos ocorreram em sua infância. Haveria alguma relação espiritual? E como se deve proceder?
+
+É bom consagrá-las. As duas serpentes "yamakagashi" eram um casal. A serpente-azul é, quase certamente, um ancestral. Consagre primeiro a serpente-azul, para a qual o sobrenome da família é adequado. Para as "yamakagashi", use o nome da localidade ou da montanha, escrevendo ambos. Em frente ao oratório, construa um pequeno lago. As oferendas mais apropriadas são arroz cru, água e sal. (11 de setembro de 1949)
+
+## 042 A Consagração da Serpente-Azul
+
+Em certa casa, anos atrás, o patriarca matou uma enorme serpente-azul que apareceu no galinheiro. No dia seguinte, uma serpente idêntica surgiu no mesmo local, e ele pediu a um vizinho que a matasse. A partir do ano seguinte, seus cinco filhos faleceram um após o outro (dois deles por tuberculose), e o próprio patriarca também veio a falecer. Atualmente, o filho mais novo, de 25 anos, está acamado com tuberculose. Um exorcista lhes disse que se tratava de uma maldição da serpente e, seguindo suas instruções, eles consagraram dentro de casa um espelho como objeto de veneração, sob o nome de "Shirayama Myôjin". Recentemente, a família ingressou na fé e recebeu a Imagem de Komyô Nyôrai-Sama. Eles gostariam de transferir o Ryûjin de dentro de casa para o jardim. O objeto de veneração e o nome podem ser mantidos? Ou seria necessário criar um novo nome e um novo objeto? Ou, ainda, deveriam consagrar as duas serpentes juntas?
+
+Trata-se de um espírito ancestral. Portanto, acrescente o sobrenome da família, tornando-se "Fulano Myôjin". Melhor ainda seria utilizar o nome da localidade. Dessa forma, a entidade passará a proteger toda a região. (1 de outubro de 1949)
+
+## 043 A Criança com Paralisia Infantil e a Serpente-Azul que Subia na Sala
+
+Um menino de seis anos, que contraiu paralisia infantil por volta dos seis ou sete meses de idade, não firma o pescoço, tem os braços e pernas flácidos e não fala. Aparentemente, ele consegue ouvir. Ele avisa de alguma forma quando precisa urinar. Durante a gravidez da mãe, uma serpente-azul apareceu na sala onde o pai estudava. Ele a expulsou uma vez, mas ela retornou. Então, ele usou um bambu rachado para prender seu pescoço, jogou-a para fora e ela morreu. A mãe, por ter matado um ser vivo durante a gestação, sempre se preocupou com o ocorrido. Levaram o menino a médicos, mas sem resultado. Recorreram a templos, santuários e médiuns, que atribuíram o problema a uma maldição de um espírito ancestral. Fizeram diversos rituais, mas a criança não melhorou. Qual seria a causa dessa maldição? A criança pode ser curada pelo Johrei? E, se for uma maldição ancestral, existe um método para removê-la?
+
+A possessão por uma serpente pode deixar o corpo sem firmeza, como se não tivesse ossos. A maioria das serpentes-azuis são ancestrais que caíram no caminho das bestas e reencarnaram nessa forma. Por terem sido humanos, eles sentem o desejo de entrar nos cômodos da casa. A cura pelo Johrei, nesse caso, pode ser bastante demorada. É preciso fazer a criança ouvir a Oração e os Salmos o máximo possível.
+
+Em um pequeno oratório, escreva "Yamato Myôjin". Peça a proteção de Komyô Nyôrai-Sama e coloque o oratório à Sua esquerda ou à Sua direita. Faça uma reverência e diga: "Peço agora que o Ryûjin-Sama que se encontra na criança se assente neste oratório. Rogo que se transfira através do meu corpo". A postura de mãos em prece é uma forma de unificar o espírito. Faça o pedido ao Grande Deus do Mundo Invisível.
+
+A raposa entra e sai pelo polegar (direito), e o Ryûjin, pelo dedo indicador. O formato da placa com o nome deve ser semelhante ao de uma espada. A consagração talvez acelere o processo. Madeira de hinoki é a mais adequada. Por se tratar de um ancestral, o sobrenome da família é apropriado. "Yamato Myôjin" ou "Daimyôjin" também são aceitáveis. Um ministro é capaz de realizar este procedimento.
+
+Peça a proteção de Komyô Nyôrai-Sama e coloque o oratório sobre o altar, em frente à Imagem Sagrada. Espíritos que estão há muito tempo no corpo podem não se transferir imediatamente; alguns levam tempo para se mover. (16 de fevereiro de 1949)
+
+---
+
+# Soluços e Mordeduras Peçonhentas
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** （七）
+**Título Original:** 医術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** （七）
+
+## Soluços e Mordeduras Peçonhentas
+
+## 046 A Causa dos Soluços
+Uma senhora de cinquenta anos sofre com soluços. Estes se manifestam sempre que a mão de outra pessoa toca qualquer parte de seu corpo. Gostaria de solicitar orientação sobre como ministrar Johrei neste caso.
+
+Os pontos são o diafragma, a nuca e a cabeça. Ela obterá a cura.
+
+## 047 Soluços e Presença de Sangue nas Fezes
+Trata-se de um membro de cinquenta e nove anos cujo peso, que já foi considerável, reduziu-se drasticamente. Em janeiro do ano passado, ele passou por uma purificação do fígado e, graças ao Johrei, recebeu grande proteção Divina. Atualmente, ele vivencia uma purificação semelhante, porém, desta vez, acompanhada de soluços e fezes com sangue. No início, os soluços eram frequentes, mas agora cessam imediatamente ao receber Johrei. Eles costumam ocorrer durante caminhadas ou, especialmente, ao usar o banheiro. A alimentação permanece normal. A febre atinge cerca de quarententa graus, duas vezes ao dia, e há expectoração abundante. Gostaria de saber se há alguma relação espiritual envolvida. Adicionalmente, rogo que nos esclareça sobre a causa e o processo de purificação dos soluços e que nos forneça Suas diretrizes para este caso.
+
+Não há interferência espiritual; trata-se de uma purificação. Os soluços comuns originam-se no diafragma. Falta pouco para que cessem por completo. Em breve, ele estará inteiramente recuperado. (25 de abril de 1950)
+
+## 048 Soluços Contínuos
+Um senhor de setenta anos, não membro, encontrava-se com um problema no peritônio. Pouco depois de começar a receber Johrei, ele teve vômitos e fezes com sangue de coloração enegrecida, mas vinha recuperando o vigor. Contudo, desde o dia 29 de abril, ele passou a ter soluços contínuos. Até hoje, sofre com o problema, havendo apenas breves intervalos de uma ou duas horas sem soluços ao longo do dia. A esposa dele, de quarenta e sete anos, está em seu segundo casamento. Ela se divorciou do primeiro marido por ser este um libertino, mas, como ele continuava a importuná-la, casou-se novamente para se afastar dele. Haveria alguma relação espiritual entre essa situação e os soluços de seu atual marido?
+
+Os soluços têm outra causa. Há casos de pessoas que soluçam por cento e setenta dias. É um processo que pode ser bastante longo. Basta ministrar Johrei no diafragma. (12 de maio de 1949)
+
+## 049 Pálpebras Abertas Durante o Sono
+Gostaria de solicitar um esclarecimento sobre a relação espiritual entre sonhar, falar durante o sono e dormir com as pálpebras abertas.
+
+Não há problema algum em dormir de olhos abertos. (1948)
+
+## 050 Sensação de Protuberância nas Costas ao Deitar-se de Barriga para Cima
+Ao deitar-me de barriga para cima, sinto uma protuberância nas costas, mas apenas durante a noite. Qual seria a razão para tal fenômeno?
+
+Isso ocorre porque as toxinas se acumulam nas costas. Ao deitar-se de barriga para cima, essas toxinas descem, causando a sensação de protuberância. (19 de outubro de 1948)
+
+## 051 As Diversas Posturas ao Dormir
+Gostaria de indagar sobre os diversos tipos de posturas ao dormir. Por exemplo, há pessoas que dormem de boca aberta, de bruços, encolhidas como um gato, ou que só conseguem dormir de lado. Há também aquelas a quem um único inseto impede o sono, e outras que dormem profundamente, alheias a tudo. Imagino que possa haver alguma relação espiritual nestes casos. Seria possível nos elucidar a respeito?
+
+Dormir de boca aberta indica um problema no nariz. A passagem nasal está obstruída, forçando a respiração pela boca. Pessoas que respiram pela boca não desenvolvem um nariz proeminente; ao contrário, a boca se projeta e o nariz permanece baixo. Isso pode ser corrigido com Johrei. O ronco também se deve à má passagem de ar pelo nariz.
+
+Dormir de bruços é um resquício de hábitos de espíritos de animais. A postura voltada para baixo é característica dos animais. A posição correta é de lado, especificamente com o lado direito para baixo. Esta é a forma natural de um ser humano vivo dormir, embora não seja algo de grande importância. O ideal é que cada um durma da maneira que lhe for mais confortável.
+
+Incomodar-se com um único inseto é sinal de uma natureza nervosa ou de falta de exercício físico.
+
+Quando há dor no corpo, a postura ao dormir tende a ser ruim.
+
+Dormir profundamente, alheio a tudo, é característico de quem não sente dores e não possui perturbações espirituais.
+
+Dormir de barriga para cima é a postura dos mortos.
+
+A insônia, por sua vez, ocorre por falta de sangue na cabeça. Um nódulo no bulbo direito torna o sangue na cabeça rarefeito, impedindo o sono. Portanto, nos casos de insônia, deve-se examinar o bulbo direito. (25 de novembro de 1949)
+
+## 052 O Rosto da Criança e do Adulto Durante o Sono
+O rosto de uma criança dormindo é belo, mas o de um adulto pode não o ser, chegando a ser até mesmo feio. Isso teria relação com o desenvolvimento da sabedoria, da virtude e com o estado espiritual?
+
+Isso se deve ao fato de que os adultos possuem muitos pensamentos impuros. A criança, por sua inocência, manifesta sua pureza tal como é.
+
+## 053 A Causa do Ronco
+Por que as pessoas roncam? Um ronco muito alto pode ser normalizado com Johrei? E em que pontos principais devemos nos concentrar ao ministrar? Solicito humildemente Suas elucidações.
+
+O problema está no nariz; a sinusite obstrui as fossas nasais. O Johrei deve ser ministrado no nariz. Nesse caso, as fossas nasais atuam de forma semelhante à garganta. (3 de julho de 1949)
+
+"Sou um membro que recebeu a graça de ingressar na Fé em 1946. Há cerca de trinta e cinco anos, passei por uma cirurgia de sinusite. Quinze anos depois, o problema retornou. Procurei um médico, mas ele afirmou que não havia nada de errado. Eu estava em dificuldades quando me ensinaram este Caminho. Ingressei na Fé e fui completamente curado. No entanto, meu ronco é extremamente alto, a ponto de incomodar as outras pessoas. Como não percebo enquanto durmo, não sei como controlá-lo e sinto-me constrangido. Trata-se de um problema espiritual? Qual seria a parte doente? Onde devo ministrar Johrei?"
+
+Isto não é de ordem espiritual. O problema se localiza entre a garganta e o nariz. Ainda há um nódulo na parte posterior do nariz, e também o adenoide, que fica entre a garganta e o nariz, está inchado, fazendo com que o ar vaze em direção à boca. Esse ar atinge as cordas vocais na garganta, o que produz o ronco. A origem do ronco está, portanto, na área entre a garganta e o nariz. Se ministrar Johrei mirando esse ponto, o problema será resolvido. A melhora será gradual. Trata-se de um resquício da sinusite.
+
+## 054 Veneno de Cão Raivoso e de Víbora
+Gostaríamos de receber Suas orientações sobre como ministrar Johrei em casos de mordida de cão raivoso, víbora e outros animais peçonhentos.
+
+Se o local da mordida for purificado com Johrei rapidamente, antes que o veneno se espalhe pelo corpo, a cura é certa. A recuperação é absolutamente garantida. (8 de fevereiro de 1950)
+
+## 055 A Raiva
+Sobre a raiva, trata-se de um fenômeno espiritual. É como uma doença mental nos cães, análoga às dos seres humanos. Quando o animal morde, libera um veneno. Um cão normal não faria isso. Quando um cão desenvolve essa doença mental, todo o seu sangue se altera. Com o Johrei, a cura é obtida sem dificuldade. O local da mordida é extremamente doloroso, e é ali que o Johrei deve ser concentrado. (29 de dezembro de 1948)
+
+## 056 A Causa da Raiva
+Qual é a razão do surgimento da raiva? Diz-se que, quando um ser humano ou animal é mordido, contrai a hidrofobia. Trata-se de um fenômeno espiritual, físico ou de ambos?
+
+Ambos os aspectos estão envolvidos. Um veneno potentíssimo, que é a materialização da doença específica do cão, manifesta o caráter do animal. A pessoa passa a imitar o cão e a sentir sede. Com Johrei, a cura é obtida sem dificuldade. O local da mordida dói intensamente. O veneno de víboras e abelhas também é neutralizado rapidamente. (3 de julho de 1949)
+
+## 057 Causa e Cura da Raiva
+Qual é a causa da raiva e qual o seu significado espiritual?
+
+É um tipo de toxina canina que penetra através dos dentes no momento da mordida. O espírito do cão pode, em alguns casos, encostar em seres humanos. Isso fica evidente durante o Johrei, no momento da dor. A cura é muito rápida, assim como nos casos de picadas de cobra. (8 de dezembro de 1949)
+
+"Quando alguém é mordido por um cão com raiva, o estado da pessoa se torna trágico. Que tipo de purificação é essa? E como devemos proceder nesses casos?"
+
+Se for logo no início, basta ministrar Johrei no local da mordida. A mordida causa inchaço e dor devido ao veneno que sai dos dentes do cão. Com o tempo, esse veneno se espalha pelo corpo; se isso acontecer, basta ministrar Johrei nos locais afetados, e não haverá problema algum. É exatamente como no caso de uma picada de víbora. Quando alguém é picado, o veneno se espalha gradualmente, e a pessoa morre se ele atingir todo o corpo. Ao purificarmos com Johrei, o problema é resolvido sem nenhuma dificuldade.
+
+## 058 Veneno de Víbora
+No caso de uma picada de víbora, é necessário aplicar um torniquete?
+
+Isso também é desnecessário. Com o Johrei, a cura é obtida facilmente. O veneno da víbora pode causar inchaço em todo o corpo e levar à morte. (3 de abril de 1949)
+
+## 059 Perna Amputada por Picada de Víbora
+Meu filho, aos seis anos de idade, foi picado por uma víbora, e sua perna direita necrosou e caiu; hoje ele anda de muletas. Aos nove anos, ele teve meningite e atualmente tem vinte e dois. A partir dos vinte, começou a apresentar sinais de epilepsia. Este ano, depois que entronizamos o Altar de Komyo Nyorai, as crises se tornaram mais frequentes. Como devo proceder? Em nossa família, há cerca de quarenta anos, houve um parente que morreu por enforcamento. Além disso, no passado, cortei uma cobra ao aparar folhas de amoreira. Haveria alguma relação com esses fatos?
+
+É provável que haja relação com a cobra. É possível que o espírito da cobra tenha encostado na víbora e a tenha feito morder seu filho. A perna caiu por causa do veneno das injeções. Há outros exemplos semelhantes. Certa vez, uma pessoa aplicou um remédio em um cancro de água, e sua bochecha caiu, deixando os dentes expostos. Ela não conseguia comer e se alimentava apenas de leite. O veneno da víbora causa inchaço por todo o corpo, mas com o Johrei, a cura é certa. As toxinas da meningite também permaneceram solidificadas. Ao receber Johrei ou entronizar o Altar de Komyo Nyorai, é comum que a frequência de purificações como a epilepsia aumente. (26 de dezembro de 1948)
+
+## 060 Morte Equivocadamente Atribuída à Picada de Víbora
+Uma membro chamada Misae Maeda, de trinta e oito anos, que ingressou na Fé em abril deste ano, foi picada no pé por uma víbora enquanto voltava para casa com seu assistente. O assistente imediatamente sugou o sangue do ferimento, cuspiu-o e fez um torniquete acima do local, enquanto ministrava Johrei. No entanto, a parte superior do pé começou a inchar. Apesar do Johrei contínuo, quatro dias depois o inchaço atingiu a virilha, e ela faleceu. Haveria algum carma especial envolvido neste caso?
+
+O erro foi ter sugado o sangue do ferimento. Foi isso que a levou à morte. O procedimento foi puramente materialista. Succionar o sangue fez com que a parte superior inchasse. Além disso, fizeram um torniquete. Tais atitudes demonstram falta de fé em Deus. Com o Johrei, a cura é obtida sem dificuldade. (1 de maio de 1950)
+
+## 061 O que é o Kamaitachi
+O que é o fenômeno conhecido como *kamakaze* ou *Kamaitachi (鎌鼬)*?
+
+Não sei ao certo, mas creio que se refira a um tipo de doninha feroz. Dizem que, quando ocorre uma rajada de vento, a pessoa de repente percebe que sua pele foi removida, sem sentir dor. O corte seria semelhante ao feito por uma foice, e a ferida não cicatrizaria. Ainda assim, penso que se trata de uma manifestação de um Deus-Dragão. É um espírito de natureza peculiar.
+
+"Qual é a razão espiritual para o fenômeno conhecido como *kamakaze* ou *Kamaitachi*?"
+
+Provavelmente, é uma maldição de um Deus-Dragão.
+
+## 062 A Verdadeira Natureza do Kamaitachi
+O fenômeno popularmente conhecido como *Kamaitachi* tem alguma relação com espíritos?
+
+Não o conheço bem. Creio que se trate de uma doninha de índole agressiva, do tipo que ataca as pessoas. Penso que não há relação com espíritos.
+
+## 063 Laceração por Kamaitachi
+Que tipo de fenômeno é o *Kamaitachi*? Solicito Seus esclarecimentos.
+
+Não existe tal coisa como *Kamaitachi*. O que ocorre é uma fissura na pele humana. As pessoas apenas imaginaram que uma doninha com uma foice (*kama*) lhes causou o ferimento. Isso acontece por deficiência de gordura ou de sangue no organismo, o que provoca a ruptura da pele. (18 de outubro de 1948)
+
+## 064 Kamaitachi e as Partes do Corpo que não Sangram
+Gostaria que nos ensinasse sobre o *Kamaitachi*.
+
+É um corte espontâneo que ocorre em áreas do corpo com deficiência de gordura. A ruptura acontece em locais que não sangram. O corpo humano possui partes que sangram e outras que não. As que não sangram são aquelas cujos tecidos são mais frágeis.
+
+## 065 Kamaitachi e Quedas
+O que se chama popularmente de *Kamaitachi*? Uma criança de doze ou treze anos caiu e fez um corte na coxa de aproximadamente nove centímetros de diâmetro e um centímetro e meio de profundidade. No entanto, quase não houve sangramento e ela não sentiu muita dor. O que seria isso?
+
+Existe algo conhecido como perturbação do espírito Konjin, que causa cortes sem que a pessoa caia. Em certos indivíduos, uma parte do corpo, geralmente na perna, torna-se propensa a se romper. Quando essa pessoa cai, a carne se abre. O ferimento se abre um pouco, mas, como a circulação sanguínea nessa área é deficiente, quase não há sangramento. (12 de julho de 1949)
+
+## 066 A Causa do Kamaitachi
+Um idoso da vizinhança, o Sr. Kagi Takagi, de setenta e cinco anos, caiu no jardim certo dia. Embora não houvesse nenhum obstáculo, ele sofreu um corte de cerca de nove centímetros. Um professor da escola disse que ele foi atacado por um *Kamaitachi*. Qual seria a explicação para isso?
+
+Não existe *Kamaitachi*. Trata-se de uma ruptura da carne. Isso ocorre quando o sangue está sobrecarregado e há nódulos de toxinas de remédios. O princípio é semelhante ao de um tecido que necrosa. Em suma, é uma laceração severa da carne. (7 de junho de 1949)
+
+## 067 Kamaitachi
+A ação purificadora do *Kamaitachi* possui algum significado espiritual?
+
+Isso é uma inverdade, um equívoco. Trata-se de uma ruptura da carne que ocorre quando há falta de gordura em uma determinada parte do corpo. (19 de agosto de 1949)
+
+---
+
+# Estudos Espirituais: Doenças Espirituais (Parte II) - 042-053 Apoplexia
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** 一 霊的病気（二）
+**Título Original:** 霊学篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 一 霊的病気（二）
+
+## Estudos Espirituais: Doenças Espirituais (Parte II) - 042-053 Apoplexia
+
+### 042 Espírito de Apoplexia
+
+Uma senhora de 69 anos foi acometida, há sete ou oito anos, por uma neurastenia da qual se recuperou gradualmente. Contudo, desde maio deste ano, seu pescoço começou a curvar-se para a frente, encostando-se ao peito e restringindo severamente seus movimentos. Imediatamente após a sétima sessão de Johrei, ela perdeu a capacidade de segurar os hashis. Cinco horas mais tarde, seu braço direito dobrou-se e ficou aderido ao tórax, e ela emudeceu. Embora suas pernas se movessem, não conseguia se manter de pé. Uma febre persistente, em torno de 40 graus, durou quatro dias, mas enfim cedeu. Durante o Johrei, seu braço voltou a se mover e, uma semana depois, boa parte de sua fala havia retornado. Todavia, ela ainda geme, incapaz de se virar de lado, e só consegue ingerir pequenas porções de alimento. A família acredita que seja uma forma branda de apoplexia.
+
+A filha desta paciente sofreu de uma doença cerebral na infância que a deixou com sequelas mentais, manifestando, por vezes, um comportamento violento. Haveria alguma relação espiritual entre mãe e filha? Rogo que nos elucide sobre a causa desta enfermidade e sobre o método de Johrei.
+
+Trata-se de um espírito que sofreu de apoplexia. Não há relação com a doença cerebral da filha. É preciso ter paciência e fazer com que ela ouça a oração o máximo possível. Ela melhorará gradualmente. (18 de setembro de 1949)
+
+### 043 Sintomas de apoplexia após vômito e diarreia
+
+O fiel Okabe Seiichi, de 27 anos, retornou do trabalho no dia 16, por volta das duas da tarde, com calafrios e uma neuralgia no lado esquerdo do rosto, tendo recebido Johrei. Naquela mesma noite, ele apresentou um leve quadro de vômito e diarreia, com febre generalizada e dores agudas na fronte, na têmpora esquerda e no bulbo raquidiano. No dia 17, seu estado permaneceu inalterado. À noite, ao tentar jantar, percebeu que não conseguia segurar os hashis e, desde então, sua mão direita perdeu a mobilidade, tal como ocorre na apoplexia. Por volta das seis da tarde, tentou ir ao banheiro, mas não conseguiu se levantar. Por volta da uma da madrugada, ao retornar do toalete, ele declarou subitamente: "Agora estou no primeiro nível do Inferno".
+
+No dia 18, ele dormiu normalmente até que, pela manhã, às nove horas, não conseguiu se levantar e evacuou duas vezes seguidas em uma comadre. A partir de então, sua língua enrolou e, embora consciente, ele perdeu a capacidade de falar. Por volta das dez para as onze da manhã, entrou em estado crítico. Solicitamos a Proteção Divina à unidade da Igreja e, por volta das duas da tarde, ele recobrou a consciência, mas a fala continuava comprometida. Depois disso, iniciou uma lenta recuperação. Contudo, às nove da noite, um médico veio e aplicou-lhe uma injeção, o que agravou seu estado. Embora tenha alguma consciência, ele permanece em condição crítica, com febre entre 38 e 39 graus, e não consegue se alimentar. Rogamos por sua nobre Proteção Divina.
+
+Trata-se da possessão por um espírito que morreu de apoplexia. Com Johrei administrado pacientemente, ele será curado. (19 de novembro de 1949)
+
+### 044 Sintomas causados por um espírito de apoplexia
+
+Uma senhora de 55 anos, no dia 3 de setembro, sentiu uma súbita pressão ascendente após uma refeição. Desde então, sua pressão arterial tornou-se extremamente elevada e seus membros perderam a mobilidade. Posteriormente, com tratamento médico, recuperou um pouco do movimento, mas sua cabeça parece pesada, como se pertencesse a outra pessoa, e ela só consegue dormir em noites alternadas. Ocasionalmente, ela sofre de fortes palpitações e tonturas, momentos em que agarra firmemente a mão da filha, implorando: "Sinto-me só, não me deixe".
+
+Seu marido sofreu uma apoplexia há 14 anos e faleceu sete anos depois. Ademais, sua maneira de falar assemelha-se à de uma pessoa insana, o que sugere a possessão por algum espírito. Haveria alguma relação espiritual nesse caso? Rogamos que nos instrua sobre o método de Johrei.
+
+Provavelmente, é o espírito do marido que teve apoplexia. A região direita do pescoço dela está enrijecida. Concentre o Johrei no pescoço e nas demais partes do corpo onde ela sente dor. Reze a oração para ela. (8 de novembro de 1949)
+
+### 045 Apoplexia e o apego material
+
+Uma jovem de 26 anos, no dia 18 de abril deste ano, foi subitamente acometida por uma paralisia no lado esquerdo do corpo, o que resultou no rompimento de seu noivado. Graças ao Johrei, ela agora consegue caminhar com dificuldade, mas sua mão continua sem movimento. Haveria alguma causa espiritual para isso? Por favor, ensine-nos.
+
+Provavelmente, um espírito que sofreu de apoplexia a possuiu. Ter essa doença aos 26 anos é algo muito precoce; geralmente, não ocorre antes dos 40. Com perseverança, ela será curada. A causa da apoplexia reside no apego aos bens materiais. É imperativo libertar-se desse apego. Por essa razão, o sintoma característico é fechar a mão, com o polegar para dentro, e pressioná-la contra o peito. Enquanto houver dinheiro obtido de forma ilícita, o dinheiro verdadeiro não virá. Eu mesmo sofri com dívidas por vinte anos. No momento em que desisti e entreguei tudo a Deus, os recursos começaram a chegar.
+
+### 046 Espírito que entra pelo polegar e causa sintomas de apoplexia
+
+Uma senhora de 57 anos relata que, há sete anos, durante a guerra, em uma reunião de bairro, sentiu algo percorrer seu corpo, desde o polegar do pé esquerdo até o alto da cabeça. No mesmo instante, seu joelho esquerdo cedeu. Ela permaneceu inconsciente por três dias e, ao despertar, seu lado esquerdo estava paralisado.
+
+Como informação adicional, seu pai, que trabalhava no ramo madeireiro, rogou por prosperidade nos negócios ao santuário San-kichi Inari, em Sendai. Seus negócios melhoraram consideravelmente e ele acumulou uma grande fortuna, mas jamais retornou para agradecer. Anos depois, ele faleceu de uma doença cardíaca. Os parentes acreditam tratar-se de uma maldição de um espírito de raposa. A paciente mantém a mão esquerda fechada, mas estica os dedos ao bocejar. Seria possível, através do Johrei, salvar seu espírito e seu corpo? E quais seriam os pontos vitais para a ministração?
+
+Não se trata de um espírito de raposa, mas sim de um espírito humano que morreu de apoplexia. Espíritos do Inferno entram pelo polegar do pé. O fato de sua mão esquerda permanecer fechada indica a possessão, o que torna o caso menos grave que o habitual. Espíritos de raposa entram pelo polegar da mão, e divindades-dragão, pelo dedo indicador. Reze a oração para ela. É importante que ela se torne membro da Igreja e consagre um altar. (17 de julho de 1949)
+
+### 047 Apoplexia causada por um espírito que morreu envenenado
+
+Nagashima Seiichi, de 48 anos, após sofrer uma leve apoplexia em novembro do ano passado, passou a secretar uma saliva doce e viscosa. Qualquer alimento que ele ingere tem exatamente o mesmo sabor, e tudo lhe parece delicioso. Ele não sente fome nem saciedade, e até mesmo água quente, fria ou saquê têm um gosto adocicado. Além disso, não consegue discernir a temperatura da água do banho. Seu lado direito do corpo está levemente dormente. Qual seria a causa desse quadro?
+
+Não se trata de uma apoplexia comum. Há um espírito o possuindo. É o espírito de alguém que morreu envenenado. Venenos à base de arsênico causam uma paralisia geral do sistema nervoso, o que leva à perda de sensibilidade. (18 de março de 1950)
+
+### 048 Apoplexia com dificuldade respiratória e língua para fora (gato)
+
+Uma senhora de 57 anos sofreu uma apoplexia no dia 7 de dezembro do ano passado. Ela apresenta um sintoma peculiar: durante a noite, em horários determinados, ela tem crises de dificuldade respiratória, que ocorrem duas a três vezes. Nesses momentos, ela põe a língua ligeiramente para fora para conseguir respirar e pede algo para comer. A própria paciente relata que, durante as crises, sente uma forte tensão nos dentes, como se eles estivessem "flutuando".
+
+Há trinta anos, ela matou um gato de rua travesso, amarrando-o a um poste do lado de fora de sua casa. Ela teme que possa ser uma maldição do animal. Se este for o caso, além do Johrei, haveria alguma forma especial de realizar uma cerimônia religiosa por ele?
+
+É a maldição do gato. Além da apoplexia, o espírito do gato a está possuindo. É recomendável que se reze a oração para ela. (3 de março de 1950)
+
+### 049 Paralisia infantil genuína
+
+Nos casos de paralisia infantil genuína, o espírito se materializa na forma de toxinas que comprimem os nervos e vasos sanguíneos dos braços e pernas, impedindo seu desenvolvimento? Rogo a Vossa Senhoria que nos elucide.
+
+A forma genuína é causada por um espírito que morreu de hemorragia cerebral ou algo semelhante. A materialização do espírito ocorre na medula espinhal... (18 de outubro de 1948)
+
+### 050 Paralisia infantil causada por espírito de hemorragia cerebral
+
+Um jovem de 15 anos, há cerca de três anos, apresenta o pescoço curvado para a direita, as costas arqueadas e o corpo inclinado. Suas mãos, embora não totalmente inertes, pendem frouxamente, e ele caminha de uma forma que lembra um caranguejo. Atualmente, ele está recebendo Johrei. Qual seria a causa de seu estado? Seu pai morreu atropelado por um trem, e seu avô faleceu de hemorragia cerebral.
+
+É o espírito daquele que morreu de hemorragia cerebral. Ele faleceu exatamente nessa posição. Ministre Johrei pacientemente, concentrando-se apenas nas áreas afetadas. É imprescindível consagrar a Imagem de Komyoh Nyorai. Sem isso, o espírito não poderá ser salvo.
+
+### 051 Espírito de apoplexia (incapaz de andar)
+
+Há cerca de quinze dias, venho ministrando Johrei a uma menina de nove anos da vizinhança, que sofre de paralisia infantil. O lado direito de seu corpo parece ser o mais afetado. De que maneira devo ministrar o Johrei para que ela possa voltar a andar mais rapidamente? O pai dela tornou-se membro quatro dias após o início do tratamento.
+
+Trata-se de um espírito que sofreu de apoplexia. Examine bem as pernas dela. Certamente há um ponto doloroso na sola de seu pé. Casos como este costumam apresentar uma boa recuperação. (7 de setembro de 1949)
+
+### 052 Criança com espírito de apoplexia
+
+Uma menina, hoje com nove anos, contraiu encefalite na primavera passada. Ela se recuperou completamente graças ao Johrei, mas, simultaneamente, desenvolveu uma paralisia em um lado do corpo. Ela continua recebendo a purificação, mas ainda não apresentou nenhuma melhora. Seu pai faleceu há seis anos em combate, nos mares do Sul. Qual seria a natureza desse quadro? Rogamos por sua orientação.
+
+É um espírito de apoplexia, um espírito que morreu de hemorragia cerebral. Os pontos são a cabeça, a nuca, a base do braço... (14 de março de 1949)
+
+### 053 Paralisia infantil espinhal
+
+Um menino de nove anos, por volta dos seis meses de idade, contraiu um resfriado e foi medicado. Em seguida, desenvolveu um quadro semelhante ao sarampo e, três dias depois, seu corpo ficou completamente flácido, como uma água-viva. Essa condição persistiu por três dias, após os quais ele começou a melhorar gradualmente. Cerca de quinze dias mais tarde, seu ombro esquerdo ficou como se estivesse deslocado. Ele consegue mover levemente as pontas dos dedos, mas não o braço para cima e para baixo. O diagnóstico do hospital da Cruz Vermelha foi paralisia infantil espinhal. Ele recebeu o Ohikari em outubro de 1947 e, desde então, vem recebendo Johrei continuamente, mas não houve mudanças significativas. Rogamos que nos elucide sobre a causa e o método de Johrei.
+
+Aparentemente, um espírito que sofreu de apoplexia o possuiu. Trata-se de um caso de paralisia infantil genuína. Com perseverança, ele será curado. Ministre Johrei na parte interna da região frontal da cabeça. Ministre também na base do braço. Ele melhorará gradualmente.
+
+---
+
 # Sobre a Prática de Cultuar o Espírito Guardião e seu Nível Espiritual
 
 **Categoria:** kouwa | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
 **Título Original:** - | **Status:** Published | **Edição/Página:** 4号, 8号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御光話録
 
 ## Sobre a Prática de Cultuar o Espírito Guardião e seu Nível Espiritual
 
@@ -203,7 +714,7 @@ Sempre que um problema está para surgir, alguma parte do meu corpo adoece. Foi 
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 霊学篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikanshi — Busca de Ensinamentos: Ajuda | Busca de Documentos: Estudos Espirituais, Volume I - Doenças de Causa Espiritual (II)
 
@@ -281,7 +792,7 @@ Trata-se da possessão pelo espírito de um dragão. Ministre Johrei na parte po
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 明主様篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coleção de Ensaios do Reverendo Jikan Okada – Volume 6 de Meishu-Sama
 
@@ -425,7 +936,7 @@ Além disso, por meio do som, Deus lhe mostrou o milagre de que a purificaria de
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 人事篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coleção de Teses do Mestre Okada Jikan
 
@@ -593,7 +1104,7 @@ Se a pessoa que ingressou na fé se dedicar intensamente e acumular virtudes, o 
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 霊祀篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de Artigos do Mestre Okada Jikanshi
 
@@ -725,7 +1236,7 @@ Se não há uma imagem ou objeto de culto, não há necessidade de cultuá-lo. A
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 神解明篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coleção de Ensaios do Mestre Jikan Okada — Esclarecimento sobre Deus, Vol. 7: Fenômenos Celestes e Terrestres (071-090)
 
@@ -939,7 +1450,7 @@ As pessoas costumam reverenciar o Sol, mas não a Lua. Acredito que isso se deva
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** （九）
 **Título Original:** 医術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** （九）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** （九）
 
 ## Coletânea de Artigos do Reverendo Okada Jikanshi - A Arte da Cura (Parte 9): Alimentação
 
@@ -1079,7 +1590,7 @@ Comer ou não comê-los é indiferente. Se os acha saborosos e deseja consumi-lo
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 霊祀篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## A Imagem de Kannon em Biombo (Coleção de Ensaios do Mestre Okada Jikan – Volume sobre o Culto aos Antepassados)
 
@@ -1282,7 +1793,7 @@ De qualquer forma, é excelente que você os cultue. Não há problema em manter
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 人事篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Compilação dos Escritos de Okada Jikan-shi – Pesquisa de Ensinamentos: Ajuda; Pesquisa de Materiais: Assuntos Humanos, Volume I, Seção 5
 
@@ -1384,7 +1895,7 @@ Quanto à maneira de proceder, o caminho é ajudar as pessoas por meio da fé. E
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** Gosuiiji
 **Título Original:** 医術篇（五） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示
 
 ## Coletânea de Teses do Mestre Jikan Okada – Pesquisa de Ensinamentos: help – Pesquisa de Materiais: Artes Médicas (Parte Cinco) – Membros, Pele, Cabelo
 
@@ -1546,7 +2057,7 @@ Uma mulher de quarenta e seis anos, devido a uma miosite ocorrida há quatro, pa
 
 **Categoria:** kouwa | **Ano:** 昭和24(1949)年6月 | **Fonte:** -
 **Título Original:** 天文 | **Status:** Published | **Edição/Página:** ５号 | **Data ISO:** 1949-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Astronomia e Geografia, Parte 2
 
@@ -1642,7 +2153,7 @@ O número de estrelas e o de seres humanos é o mesmo, assim como seus destinos.
 
 **Categoria:** kouwa | **Ano:** 昭和24(1949)年3月1日 | **Fonte:** Chijo Tengoku
 **Título Original:** 霊祀篇 | **Status:** Published | **Edição/Página:** ２号 | **Data ISO:** 1949-03-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 地上天国
 
 ## Coletânea de Tratados do Mestre Okado Jikan
 ### Seção sobre o Culto aos Antepassados, Parte II
@@ -1819,7 +2330,7 @@ Trecho de orientação de 1º de fevereiro de 1954, publicado em *Gosuiroku* nº
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 宗教芸術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Deus e Buda
 
@@ -2015,7 +2526,7 @@ O budismo contém muitas inversões. A expressão "Três Mil Grandes Mundos", po
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** （十）
 **Título Original:** 医術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** （十）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** （十）
 
 ## A Influência do Leite Materno e do Leite de Vaca (Terra e Alimento)
 **Pergunta:** Gostaríamos de saber se o leite materno, o leite de outra mulher, o leite de vaca e o leite em pó possuem alguma relação espiritual com o lactente. Por favor, conceda-nos seu Ensinamento.
@@ -2094,7 +2605,7 @@ Se a pessoa acredita firmemente que não deve descartar o leite em um lugar impu
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 医術篇（二）上体及び中体 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## 2 012-026 Ouvidos e Boca
 
@@ -2194,7 +2705,7 @@ Existem toxinas na região das têmporas. Ela será curada. (27 de maio de 1950)
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** 四肢、皮膚 疾患、毛髪
 **Título Original:** 医術篇（五） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 四肢、皮膚 疾患、毛髪
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 四肢、皮膚 疾患、毛髪
 
 ## Arte de Curar (V): Moléstias dos Membros, da Pele e dos Cabelos
 
@@ -2355,7 +2866,7 @@ O yakudoku solidificou-se no tornozelo e deveria sair através de inchaço. A co
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 医術篇（二）上体及び中体 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de ensaios do reverendo Jikanshi Okada — Sistema de busca dos Ensinamentos: help; busca de materiais: Tratado sobre a Arte de Curar (II), Parte superior e central do corpo
 
@@ -2511,7 +3022,7 @@ Se ela continuar recebendo Johrei, a cura é certa. (8 de agosto de 1949)
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 明主様篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Da Coletânea de Ensaios do Mestre Jikan Okada – Compêndio de Meishu-Sama, Volume 4: Mistério (033-050)
 
@@ -2742,7 +3253,7 @@ Na época em que eu era terapeuta, um paciente viu um dragão devorando o espír
 
 **Categoria:** kouwa | **Ano:** 昭和元年 | **Fonte:** -
 **Título Original:** 宗教芸術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1926
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de Artigos do Mestre Okada Jikan
 ## Compêndio de Religião e Arte 4: Oomoto-kyo (041-048)
@@ -2827,7 +3338,7 @@ Não me é permitido falar claramente, nem é algo que se deva compreender. Tudo
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 明主様篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coleção de Artigos do Mestre Okada Jikanshi — Feitos Memoráveis de Meishu-Sama 3 (024-032)
 
@@ -2925,7 +3436,7 @@ Não há uma relação profunda. Recebi-a há algum tempo e, por ser uma obra ma
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** Kiseki Monogatari
 **Título Original:** 祭事篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 奇蹟物語
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 奇蹟物語
 
 ## 031 A Entronização da Fotografia Espiritual
 
@@ -2993,7 +3504,7 @@ Na residência do fiel Zenichi Takai, no distrito de Kuwana, província de Mie, 
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** 一 霊的病気（二）
 **Título Original:** 霊学篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 一 霊的病気（二）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 一 霊的病気（二）
 
 ## Doenças Espirituais (II): Hereditariedade e Outros Assuntos
 
@@ -3121,7 +3632,7 @@ O falar durante o sono significa que a força do espírito protetor primordial p
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 祭事篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Dos Ritos Litúrgicos em Geral – II
 
@@ -3231,7 +3742,7 @@ Jizō é uma manifestação de Amida. Sua missão é salvar os seres e conduzi-l
 
 **Categoria:** kouwa | **Ano:** 昭和26年 | **Fonte:** 御Hikari話録（補）
 **Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録（補）
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御光話録（補）
 
 ## Coletânea de Artigos do Mestre Okada Jikan
 ## Rituais, Volume III: As Oferendas (036-050)
@@ -3358,7 +3869,7 @@ O Budismo veio da Índia, onde a flor de lótus é tida como algo de imenso valo
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 医術篇（五） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Tratado sobre a Arte da Cura (V): Enfermidades dos Membros, da Pele e do Cabelo
 
@@ -3458,7 +3969,7 @@ Não é possível que ele tenha necrosado e se desprendido. Mesmo que tenha se s
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 天文 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Sobre as Erupções Vulcânicas (Fontes Termais) - A Incompletude da Terra: Atami e Gora
 
@@ -3633,7 +4144,7 @@ Creio que a causa seja a existência de alguma fissura no solo, resultante de um
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 奇蹟奇象篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Jikan Okada – Pesquisa nos Ensinamentos: Apêndice de Milagres e Fenômenos Extraordinários 7 (102-123) – Deuses Dragões
 
@@ -3775,7 +4286,7 @@ Sim, há relação. É um dos filhotes daquela serpente, que agora cresceu. As s
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** Kenko
 **Título Original:** 医術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 健康
 
 ## A Arte da Medicina (IX) – O Sangue
 
@@ -3893,609 +4404,6 @@ O sangue impuro da cabeça frequentemente provoca hemorragias, sobretudo na regi
 *Pergunta: Dizem que injetar ar em um vaso sanguíneo pode levar à morte. Qual a razão para isso?*
 
 A pessoa morre porque não se deve introduzir ar em um local como esse. É uma consequência natural. Não há outra razão.
-
----
-
-# 054 Partilha das Cinzas
-
-**Categoria:** kouwa | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
-
-## 054 Partilha das Cinzas
-
-Haveria algum inconveniente em partilhar as cinzas de um falecido?
-
-A partilha das cinzas não deve ser feita. Cabelos e unhas podem ser divididos, mas o espírito se desagrada com a divisão dos ossos.
-
-**Pergunta:** Ao sepultar as cinzas de um recém-falecido, desejo dividi-las em dois locais: o túmulo dos ancestrais e um lugar próximo à minha casa. Esse procedimento seria apropriado?
-
-**Resposta:** A partilha dos ossos é desaconselhável. Embora se possa dividir cabelos ou unhas, com os ossos não se deve proceder dessa forma. O correto é reuni-los e sepultá-los integralmente no túmulo dos ancestrais.
-
-## 055 Sepultamento com Partilha das Cinzas
-
-Ao sepultar as cinzas de um recém-falecido, gostaria de dividi-las em dois locais, o túmulo dos ancestrais e um lugar próximo à minha casa. Qual seria a sua orientação a esse respeito?
-
-A partilha das cinzas não deve ser realizada, pois o espírito se desagrada. Cabelos e unhas, contudo, podem ser divididos. O ideal é escolher um dos locais, preferencialmente o túmulo dos ancestrais, e ali depositar a totalidade das cinzas.
-
-## 056 Cultuar Cinzas Partilhadas
-
-É correto cultuar uma parte das cinzas no oratório familiar?
-
-Tal prática é destituída de fundamento.
-
-## 057 Partilha dos Dentes
-
-Na minha região (distrito de Sado, província de Niigata), temos o costume de, ao sepultar os restos mortais, consignar apenas os dentes ao Monte Koya, enquanto o restante é enterrado no cemitério do templo. Qual seria a razão para tal prática? Seria aconselhável continuar com esse costume? A partilha das cinzas é um procedimento correto? Rogo por sua orientação.
-
-Não há inconveniente em partilhar os dentes. Por serem apêndices dos quatro membros e do corpo, tal procedimento é bem-fundamentado.
-
-## 058 Partilha das Cinzas, Cabelos e Dentes
-
-As cinzas de minha avó estão no oratório familiar. Contudo, a maior parte já foi depositada no túmulo, restando apenas os dentes, que seriam destinados ao templo. Peço que me oriente sobre a forma correta de proceder. Ademais, ouvi dizer que, se as cinzas não forem sepultadas em um tempo determinado, os doentes na família não cessam de surgir. Isso procede?
-
-Se forem apenas os dentes, não há problema. Os dentes não necessitam ser sepultados juntamente com o restante. O melhor, no entanto, é depositá-los no mesmo local onde o principal já foi sepultado. A partilha das cinzas em si não deve ser feita, pois o espírito a repudia. Quando ocorrem procedimentos divergentes, a transição no Mundo Espiritual não se dá de forma serena. Todavia, se houver um costume estabelecido, o próprio falecido já está ciente, o que elimina o inconveniente.
-
-Consignar uma parte ao templo local é um equívoco. Se for para consignar a um templo, que seja à sede principal. Já cabelos, unhas e afins podem ser levados a qualquer lugar.
-
-## 059 A Partilha das Cinzas e a Salvação do Espírito
-
-Recebi a permissão para ministrar Johrei em janeiro do ano passado. Minha mãe, falecida há várias décadas, teve suas cinzas partilhadas anos atrás, sendo uma parte consignada ao Monte Minobu, onde solicitamos ofícios em sua memória por cinquenta anos. Devo manter as coisas como estão?
-
-O fato de as cinzas terem sido partilhadas é irremediável. O importante, agora, é salvar o espírito. No budismo, ao que parece, já não há mais salvação, pois os espíritos passaram a repudiar os sutras.
-
-## 060 O Caso das Cinzas Já Partilhadas
-
-O que o senhor pensa sobre a partilha das cinzas?
-
-As cinzas que já foram partilhadas podem permanecer como estão.
-
-**Pergunta:** O senhor mencionou que não se devem partilhar as cinzas. Contudo, como devemos proceder nos casos em que isso já foi feito?
-
-**Resposta:** O que já foi feito pode ser mantido assim. O espírito de fato se desagrada, todavia, não lhe é possível fazer nada a respeito dos ossos.
-
-## 061 Partilha das Cinzas para o Santuário Yasukuni ou Templos
-
-Se a partilha das cinzas é desaconselhável, como se deve proceder com as que já foram consignadas ao Santuário Yasukuni ou a templos?
-
-Não há inconveniente.
-
-O espírito se desagrada da partilha por um certo tempo. Isso ocorre porque, logo após a morte, ele permanece ligado aos ossos por um fio espiritual. Quando os ossos são divididos, leva-se mais tempo para que essa ligação se desfaça. Se estivessem reunidos em um único local, o desligamento ocorreria com mais facilidade.
-
-**Pergunta:** Como devemos proceder com as cinzas que já foram partilhadas e consignadas a locais como o Santuário Yasukuni ou templos?
-
-**Resposta:** O que já foi partilhado pode permanecer como está, pois é irremediável. Não se trata de uma proibição absoluta. Contudo, o espírito de fato se desagrada de ter seus ossos divididos por algum tempo após a morte. A razão é que, nesse período, ele ainda está conectado aos ossos por um fio espiritual. A partilha provoca uma espécie de dispersão desse fio, retardando o desligamento do espírito, o que se torna um processo moroso. É por esse motivo que tal prática é desaconselhável.
-
-## 062 O Tablete Ancestral em Lugar das Cinzas
-
-Recebemos as cinzas de um soldado morto em combate. Contudo, ao abrirmos a urna de madeira para o sepultamento, encontramos apenas um tablete ancestral com o nome secular, mas grafado de forma incorreta, com caracteres de valor fonético. Sinto-me constrangido em sepultá-lo assim. O funeral público e as cerimônias já foram realizados. Como devo proceder? Rogo por sua orientação.
-
-Deve-se cultuá-lo normalmente. Solicite a um monge que escreva o nome póstumo. Com os mortos em combate, há muitas irregularidades; portanto, não se preocupe com isso e apenas realize os ofícios. O tablete não deve ser colocado no túmulo. Apenas o marco de pedra é suficiente, sem que nada seja depositado em seu interior.
-
-## 063 Cabelos e Unhas do Falecido
-
-Qual é a destinação correta para os cabelos e unhas de um soldado morto em combate?
-
-Devem ser enterrados sob o túmulo, da maneira habitual.
-
-## 064 Sepultamento de Pertences
-
-Recebemos a notificação oficial da morte de nosso parente em combate, realizamos o funeral e o cultuamos no oratório familiar. Todavia, como as cinzas não retornaram, não temos um túmulo. Por sugestão de outros familiares, gostaríamos de construir um. Nesse caso, teria algum significado sepultar um de seus pertences? Ou a construção do túmulo seria desnecessária? Rogo seu esclarecimento.
-
-É aconselhável construir o túmulo. O sepultamento de um pertence é uma excelente providência. Para o espírito, é difícil aproximar-se quando não há um elo material. É bom sepultar, em substituição às cinzas, algo que o falecido prezava muito.
-
-## 065 Cinzas Partilhadas e Incineradas
-
-Meu cunhado, embora seja o primogênito de uma família de Shikoku, cedeu a chefia da casa à sua irmã e mudou-se para Yokohama, onde constituiu família com minha irmã mais velha. Quando seu pai faleceu, uma parte de suas cinzas foi trazida para um templo em Yokohama. Contudo, antes que pudessem ser sepultadas, foram destruídas em um bombardeio aéreo. Diante de tal situação, como devemos proceder?
-
-A responsabilidade recai sobre os americanos, portanto, é uma situação irremediável. O espírito tem ciência do ocorrido. Trata-se de força maior.
-
-## 066 O Culto às Cinzas
-
-Recebi a notificação de que as cinzas de meu filho, que partiu para a guerra há sete anos, retornaram. No entanto, tenho a forte sensação de que ele ainda está vivo e, por isso, não fui buscá-las. Supondo que ele esteja vivo, ainda assim eu deveria cultuar essas cinzas?
-
-É melhor cultuá-las. Mesmo que pertençam a outro espírito, isso se reverterá em virtude.
-
----
-
-# A suposta natureza pecaminosa da mulher e o “mundo dos homens”
-
-**Categoria:** kouwa | **Ano:** - | **Fonte:** -
-**Título Original:** 宗教概観篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A suposta natureza pecaminosa da mulher e o “mundo dos homens”
-**Pergunta:** Nas religiões estabelecidas, afirma-se que a mulher possui uma natureza particularmente pecaminosa. Haveria alguma razão para tal ensinamento?
-
-**Meishu-Sama:** Absolutamente não. O pecado não reside no gênero, mas nos atos de cada indivíduo. Sob essa ótica, é provável que os homens, por deterem maior poder, acumulem mais pecados.
-
-Uma romancista britânica escreveu uma obra intitulada “O Mundo dos Homens”, que descreve um mundo moldado segundo a conveniência masculina. O Japão é um exemplo particularmente notório desse fenômeno. Frequentemente, a mulher é apontada como a principal causa dos pecados do homem, o que deu origem ao ditado: “por trás de todo crime, há uma mulher”. O homem tende a imputar a culpa à mulher. Contudo, na história do Japão, creio que os pecados masculinos são, na verdade, muito mais profundos.
-
-Ademais, existe a ideia de que a mulher é impura. Aqueles que proferem tal absurdo parecem se esquecer de que eles próprios nasceram de uma mulher supostamente impura. Essa alegação de impureza, provavelmente em referência à menstruação, ignora o fato de que este é um processo fisiológico estabelecido por Deus.
-
-## Quanto mais os maus!
-**Pergunta:** Há uma frase de Shinran que diz: “Os bons são salvos; quanto mais os maus!”. Isso não significaria que os maus são salvos com mais facilidade?
-
-**Meishu-Sama:** Os maus, muitas vezes, perdem a esperança de serem salvos, resignando-se a um destino de sofrimento por seus atos. A frase de Shinran foi proferida como uma ênfase, um apelo a essas almas que já se consideram perdidas. Interpretá-la ao pé da letra seria um grande equívoco.
-
-Embora os bons sejam naturalmente salvos, há uma necessidade premente de estender a salvação primeiramente aos maus, justamente porque eles já desistiram de buscá-la.
-
-## O renascimento na Terra da Transformação
-**Pergunta:** Ouvi um pregador budista afirmar que, mesmo que se recite o Nembutsu com total devoção, a salvação alcançada se limita ao renascimento na Terra da Transformação. Qual seria o significado disso?
-
-**Meishu-Sama:** Isso significa que tal salvação não é de grande valor. E, de fato, essa afirmação é verdadeira, pois adentramos uma era em que a simples repetição do “Namu Amida Butsu” já não é suficiente para a salvação.
-
-## Os estágios entre o homem e o gato e o significado de Goko
-**Pergunta:** [Pergunta sobre os cinquenta e dois estágios entre o homem e o gato e o significado de Goko.]
-
-**Meishu-Sama:** Trata-se de uma teoria inconsistente, provavelmente concebida por um monge da seita Shinshu no passado. Se fossem sessenta estágios, faria algum sentido; cinquenta e dois, no entanto, é um número arbitrário. A diferença entre um ser humano e um animal como o gato é de, no mínimo, sessenta estágios. Falar em apenas um estágio é ilógico, mesmo do ponto de vista da forma física.
-
-O termo *eigo* se refere a um período de tempo extremamente longo, uma eternidade no contexto da sociedade humana. *Goko*, por sua vez, deve ser uma referência aos cinco elementos: madeira, fogo, terra, metal e água. Há uma diferença entre *goko* e *eigo*. *Ko* pode também se referir a pecado, de modo que poderíamos interpretar como “cinco pecados profundos”.
-
-Todavia, são conceitos imprecisos, pois derivam de traduções do sânscrito para o chinês e, posteriormente, para o japonês. Não se pode confiar plenamente neles.
-
-## O Budismo e o boi
-**Pergunta:** Existem expressões como “ser levado por um boi ao templo Zenkoji”. Haveria alguma relação especial entre o Budismo e o boi?
-
-**Meishu-Sama:** Não há um significado especial. Trata-se de algo sem maior importância.
-
-## A profecia da flor de Udumbara e seus presságios
-**Pergunta:** Gostaria de perguntar sobre a flor de Udumbara e o significado do Tanabata. Sobre a flor, em que circunstâncias ela floresce? E por que se diz que sua cor indica um presságio bom ou mau?
-
-**Meishu-Sama:**
-1. A questão da flor de Udumbara admite duas interpretações. No Japão, o que se conhece por esse nome não é uma flor, mas sim um tipo de inseto. A verdadeira flor de Udumbara existe na Índia. Embora não seja algo de grande relevância, também não é totalmente desprovido de significado. Seu florescimento é raro. Segundo uma lenda indiana, seu aparecimento prenuncia a vinda do Bodhisattva Tenrin, que salvará todos os seres, podendo indicar tanto um evento extremamente positivo quanto um acontecimento nefasto. Não há necessidade de se preocupar com isso. Pode haver alguma influência, mas para aqueles que possuem fé, ela é insignificante.
-
-2. O Tanabata é uma invenção.
-
-## O florescimento da flor de Udumbara
-**Pergunta:** A flor de Udumbara floresceu sobre o quadro com os dizeres “Paraíso Terrestre”. Qual a relação disso com o Mundo Espiritual?
-
-**Meishu-Sama:** A chamada flor de Udumbara no Japão é, na verdade, um inseto. Alguns dizem ser o ovo de um inseto, mas trata-se de um microrganismo.
-
-A verdadeira flor de Udumbara é da Índia, e uma lenda diz que, quando ela floresce, o Bodhisattva Tenrin aparece para conceder grandes méritos. Embora se diga o mesmo no Japão, não se pode afirmar que seja um completo engano.
-
-Não é algo com que se deva preocupar excessivamente, mas também não é um fenômeno sem qualquer significado. Indica a ocorrência de algo fora do comum. Embora possa ser interpretado como um mau presságio, para nós, representa uma purificação e, portanto, deve ser visto como algo positivo.
-
-## A flor de Udumbara (versão japonesa)
-**Pergunta:** Diz-se que o florescimento da “flor de Udumbara” pode ser um bom ou mau presságio. Qual a razão para isso?
-
-**Meishu-Sama:** Diz-se que, quando a flor de Udumbara desabrocha, o Bodhisattva Tenrin se manifesta para derramar sua compaixão. No Japão, a Udumbara é o ovo de um inseto, e seu aparecimento indica que algo incomum irá acontecer. Seja um evento bom ou mau, trata-se de uma mudança.
-
-Contudo, se a pessoa tiver pecados, o evento se manifestará de forma negativa; se não os tiver, será algo afortunado. No final, porém, ambos os desfechos são positivos.
-
-## A flor de Udumbara e as calamidades
-**Pergunta:** Gostaria de receber um ensinamento sobre a flor de Udumbara, que, segundo a lenda, floresce apenas uma vez a cada três mil anos.
-
-**Meishu-Sama:** Essa é uma lenda indiana. No Japão, ela costuma florescer em momentos de grandes calamidades, sendo mais frequentemente associada a acontecimentos negativos.
-
-## A flor de Udumbara e a fé
-**Pergunta:** Sobre a flor de Udumbara, no ano passado ela floresceu na casa de parentes meus, com os seguintes resultados. Agora, ela apareceu em minha casa. Gostaria de saber o que isso significa. Na casa A, floresceu na cor marrom, na horizontal, sobre a viga principal, e eles perderam a nora. Na casa B, do meu irmão, floresceu na cor verde em uma laranjeira, foi descoberta em maio, e em outubro a esposa dele faleceu subitamente de hemorragia cerebral. Na minha casa, no último mês de setembro, floresceu em três locais no teto do quarto, na cor branca. Tendo visto os outros dois casos, tenho orado à Imagem da Luz Divina. As flores ainda não desapareceram e estou um tanto preocupado.
-
-**Meishu-Sama:** No Japão, a Udumbara se manifesta como um inseto. A verdadeira Udumbara, que floresce na Índia, é considerada um presságio extremamente auspicioso. No Japão, contudo, parece estar mais associada a infortúnios. Aparentemente, não é um bom sinal. No entanto, para quem ingressou na fé, não há motivo algum para preocupação. Se algo vier a ocorrer, será uma purificação; portanto, não se inquiete.
-
-## A flor de Udumbara e o Gonokokken
-**Pergunta:** A flor de Udumbara apareceu em minha casa. Desde pequeno, ouvi de meus pais que seu surgimento é sinal de algo muito bom ou muito ruim. Embora eu imagine que seja superstição, gostaria de saber sua opinião.
-
-**Meishu-Sama:** Onde a Udumbara surge, algo invariavelmente acontece. Diz-se que é o ovo de um inseto, mas trata-se de um ser semianimal, semelhante a um musgo. Há também uma forma animal. O Gonokokken, embora seja um animal, pode se assemelhar a um musgo.
-
-## A autenticidade das relíquias de Buda
-**Pergunta:** As relíquias de Buda (Busshari) do Templo Horyu-ji são verdadeiramente os ossos de Shakyamuni?
-
-**Meishu-Sama:** Não são os ossos de Shakyamuni; são uma falsificação. Se fossem os ossos autênticos, a Índia jamais teria permitido que saíssem de lá. Devem pertencer a algum dos discípulos de Shakyamuni.
-
-## O tratamento das relíquias (shari)
-**Pergunta:** Na cremação, por vezes se formam relíquias (shari). Por que isso acontece?
-
-**Meishu-Sama:** A formação de *shari* depende da pessoa. Diz-se que pessoas notáveis as possuem. Conta-se que Shakyamuni deixou um número considerável delas. Ainda hoje, no Japão e em outros lugares, elas são profundamente veneradas. São pequenos fragmentos de osso, como grãos, que podem ser encontrados até em pessoas comuns. Não possuem um significado profundo, mas é melhor guardá-las com cuidado, apenas por uma questão de respeito.
-
-## As relíquias (shari)
-**Pergunta:** Recentemente, os tesouros do Templo Horyu-ji têm sido tema de grande debate. Com a chegada da Era do Dia, qual será o valor das relíquias de Buda (Busshari)?
-
-**Meishu-Sama:** Mesmo hoje, existem Budas sem qualquer valor. Enquanto Buda possuía força, suas relíquias também a tinham. Hoje, não mais. Diz-se que pessoas notáveis produzem muitas relíquias.
-
-## O destino das relíquias consagradas
-**Pergunta:** Uma pessoa recebeu de um templo algo semelhante a grãos de areia, chamado “oshari”, e o tem consagrado em casa. O que ela deve fazer?
-
-**Meishu-Sama:** Deve deixar como está.
-
-## A prática da esmola monástica
-**Pergunta:** A prática da esmola monástica (Takuhatsu) por parte dos monges é algo bom ou ruim?
-
-**Meishu-Sama:** No passado, era uma prática adequada, mas hoje não mais se ajusta aos nossos tempos. Existem formas mais elevadas e culturais de se viver. Essa prática serve apenas para o sustento do próprio monge, sem beneficiar os outros. Ademais, perambular pelas ruas com aquela aparência acaba por obstruir a passagem.
-
-## Os méritos e deméritos do jejum
-**Pergunta:** [Pergunta sobre os méritos e deméritos do jejum.]
-
-**Meishu-Sama:** O jejum é um tipo de prática bramânica. O ser humano foi feito para se alimentar de três a quatro vezes por dia; é algo que deve ser feito diariamente. Durante o jejum, a pessoa se torna incapaz de realizar qualquer trabalho social, cometendo, assim, o pecado da ociosidade. Portanto, o jejum é um erro. Pode parecer benéfico momentaneamente, mas suas consequências futuras são negativas.
-
-## Os selos manuais (mudras)
-**Pergunta:** Desde a antiguidade, fala-se em “fazer selos” (in wo kiru), afirmando-se que diferentes posições das mãos conferem diferentes poderes. Também ouvi dizer que na Oração Amatsu Norito e em outras práticas existem diversas formas e princípios para o *gassho*. Haveria algum princípio profundo nisso? Gostaria de um ensinamento sobre a relação entre a forma das mãos e o poder espiritual, bem como a maneira correta de fazer o *gassho* perante a Imagem Divina ou ao ministrar Johrei, e suas implicações espirituais e teóricas.
-
-**Meishu-Sama:** Selos, poderes espirituais, *gassho*... nada disso é de grande importância. Os ascetas costumam fazer selos manuais, o que é uma prática bramânica. Mesmo no Budismo, não é algo que viesse de Shakyamuni. A seita Nitiren, contudo, adota quase que integralmente o bramanismo. O *gassho* é suficiente. Na seita Shingon, também é comum o uso de selos.
-
-## O sapo e o ritual do Hiki-me
-**Pergunta:** Desde a antiguidade, fala-se sobre a feitiçaria do sapo, o eremita-sapo e as preces do Hiki-me. Que tipo de poder espiritual o sapo possui?
-
-**Meishu-Sama:** Existem muitos casos de seres humanos que se tornaram sapos. Alguns deles possuem poderes sobrenaturais. Há o que se chama de *sansukumi* (impasse triplo), que se tornará o *Miroku*. O ritual do *Hiki-me* é um método para se conectar o Céu e a Terra.
-
-## A transmissão dos preceitos e a linhagem de sangue
-**Pergunta:** Nas seitas Jodo e Zen, há cerimônias como o Goju e o Jukai, que envolvem cinco dias de sermões e a tonsura. Ao final, recebe-se um certificado chamado *ketsumyaku* (linhagem de sangue), que é guardado com grande zelo e enterrado junto ao corpo da pessoa. Isso possui algum significado espiritual?
-
-**Meishu-Sama:** Corresponde ao batismo no Cristianismo ou ao nosso Curso de Formação Básica. Provavelmente se chama *Goju* por durar cinco dias. “Transmitir os preceitos” deve significar a outorga de um amuleto. A tonsura e o *ketsumyaku* simbolizam a conexão com uma linhagem.
-
-## A condução da alma
-**Pergunta:** Na seita Zen, fala-se em “passar a condução” (indo wo watasu). Qual o significado disso?
-
-**Meishu-Sama:** É um sermão dirigido ao espírito, com o objetivo de levá-lo ao arrependimento.
-
-## O sino da véspera de Ano-Novo e o significado de 108
-**Pergunta:** Qual o significado do sino da véspera de Ano-Novo? E por que ele é tocado 108 vezes?
-
-**Meishu-Sama:** No Budismo, diz-se que o ser humano possui 108 desejos mundanos (bonno). Acredito que o toque do sino tenha o propósito de anular esses 108 desejos. O rosário budista (juzu) também possui 108 contas, que servem para atenuar as paixões.
-
-Do ponto de vista de Deus, o número 108 também é utilizado. Cem corresponde a dez vezes dez, que forma o ideograma de um poço (井), e dez representa a união do espírito e da matéria (霊体結ぶ - *reitai musubu*). Essa superposição forma o corpo espiritual. Oito significa “abrir” (開く - *hiraku*), o que resulta em abrir o que é duplo.
-
-## As fogueiras com o ideograma “Dai”
-**Pergunta:** No Monte Daimonji em Quioto, no Monte Myojogatake em Hakone e em várias outras montanhas do Japão, há o costume de formar o ideograma “Dai” (大 - grande) na encosta. Qual a razão disso? Em particular, por que há um dia específico para queimar esse ideograma?
-
-**Meishu-Sama:** Não é algo desprovido de sentido, mas não posso explicar o significado de “Dai” no momento. Não se trata de um significado de grande força.
-
-## O ritual do Goma e o altar Shumidan
-**Pergunta:** [Pergunta sobre o Goma e o Shumidan.]
-
-**Meishu-Sama:** O ritual do *Goma* é uma forma de prática do Budismo de Montanha (Sangaku Bukkyo), uma vertente que tem as montanhas como seu centro. O talismã escrito pelo asceta durante esse ritual é chamado *goma-fuda* e funciona como um amuleto.
-
-O *Shumidan* é um altar que representa o Monte Shumi, o local onde habitam os Budas supremos.
-
-## A queima do Goma
-**Pergunta:** O que significa o ritual de queimar o *Goma*?
-
-**Meishu-Sama:** É uma forma de prática do Budismo de Montanha. Os ascetas realizam a prática ascética de queimar o *Goma*, e o talismã que escrevem nessa ocasião é chamado *goma-fuda*.
-
-## A caminhada sobre o fogo e outras práticas ascéticas
-**Pergunta:** [Pergunta sobre práticas como a caminhada sobre o fogo.]
-
-**Meishu-Sama:** Não se trata de algo extraordinário. Os ascetas do Monte Ontake frequentemente recorrem a artifícios fraudulentos. Em minha infância, presenciei um ritual de caminhada sobre o fogo e pude constatar que se valiam de um mecanismo enganoso. Por outro lado, fenômenos como não sentir dor ao ser perfurado por uma agulha ou não se queimar ao tocar o fogo são autênticos e podem ser alcançados por meio de disciplina ascética.
-
-## Os rituais de caminhar sobre o fogo e de se banhar em água fervente
-**Pergunta:** Nos festivais de fogo da seita Ontake-kyo, os praticantes caminham sobre brasas ou se banham em água fervente. Por que eles não sentem o calor?
-
-**Meishu-Sama:** A capacidade de não se queimar ao caminhar sobre o fogo ou em práticas similares é adquirida através de treinamento. Ao espalhar sal sobre as brasas, o fogo no centro se apaga. No caso da água fervente, é algo que se torna possível com a prática. Contudo, há um grande componente de fraude nesses rituais. O que é realizado no bramanismo é diferente do que se faz no xintoísmo japonês.
-
----
-
-# 045 As duas causas do sarcoma e sua cura
-
-**Categoria:** kouwa | **Ano:** - | **Fonte:** （下）
-**Título Original:** 浄霊篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** （下）
-
-## 045 As duas causas do sarcoma e sua cura
-
-O sarcoma é uma doença de origem espiritual? Caso seja, peço que nos esclareça o motivo.
-
-Existem ambas as causas, a espiritual e a física. O sarcoma de origem física cura-se prontamente, pois consiste em um acúmulo de toxinas solidificadas.
-
-## 046 Sarcoma dos gânglios linfáticos
-
-Como comandante de uma companhia, estive em combate com trezentos e vinte e dois homens sob meu comando. No campo de batalha da ilha de Okinawa, trezentos e oito pereceram, restando apenas catorze sobreviventes. Em lugar de mechas de cabelo dos falecidos, recolhi terra, areia e pequenas pedras das imediações para entregar a seus familiares. Contudo, não consegui localizar as famílias de seis deles, o que me causa imensa aflição. Atualmente, sofro de um sarcoma dos gânglios linfáticos. Haveria alguma relação espiritual com esses fatos?
-
-Não há qualquer relação. Na realidade, não existe uma doença chamada “sarcoma dos gânglios linfáticos”. Trata-se apenas de um acúmulo de toxinas, que pode ser curado pelo Johrei. Os médicos se equivocam por ser um endurecimento grande e rígido. O sarcoma verdadeiro ocorre apenas no abdômen.
-
-## 047 A pele translúcida do tuberculoso e a cor da pele no câncer
-
-Observa-se que o corpo de pacientes com tuberculose em estado grave adquire uma aparência bastante translúcida. Qual seria a razão para tal fenômeno? Rogo que nos esclareça.
-
-Isso ocorre devido à anemia. Contudo, a anemia do câncer difere daquela da tuberculose. No câncer, a pele perde a oleosidade; já na tuberculose, a oleosidade se mantém, conferindo à pele uma aparência translúcida e bela.
-
-## 048 A palidez facial e o câncer de estômago (O diagnóstico do câncer)
-
-Uma senhora de quarenta e cinco anos apresenta palidez facial desde janeiro deste ano. Há um mês, foi submetida a um exame médico que diagnosticou um câncer de estômago em estágio inicial, com recomendação de cirurgia. Tendo conhecido o Johrei, ela o recebe há cerca de uma semana. A paciente não sente qualquer dor e, com o Johrei, seu apetite tornou-se superior ao normal, e sua força física está plenamente restaurada. Sua compleição, todavia, ainda não melhorou. Ela afirma nunca ter feito uso de medicamentos ou tratamentos médicos. Ao receber Johrei, relata que saliva em abundância e sente náuseas. Trata-se de uma questão espiritual?
-
-A palidez facial indica anemia, que pode, em alguns casos, ser um sinal de câncer verdadeiro. O câncer é facilmente identificável pela palpação de um nódulo endurecido. A palidez facial é sua característica distintiva; a pessoa fica completamente sem cor. Para quem não tem experiência, o diagnóstico pode não ser claro. Embora haja indícios de câncer, a presença do nódulo é o fator determinante.
-
-## 049 O discernimento do câncer (A respeito de um diagnóstico de câncer uterino)
-
-Solicito seus ensinamentos sobre como discernir entre o câncer verdadeiro e o pseudo-câncer. Trata-se de uma mulher de trinta e nove anos, diagnosticada por um médico com câncer uterino em julho deste ano. Desde então, submeteu-se a tratamentos como quiropraxia e terapia alimentar, e há um mês encontra-se acamada. Há uma semana, ela vem recebendo Johrei e, desde então, tem expelido, junto com sangramento, nódulos de diversos tamanhos, inclusive um do tamanho de um polegar. Seu apetite permite que coma uma tigela e meia de arroz por refeição; o pulso está entre noventa e quatro e noventa e cinco batimentos por minuto. A pele tem uma coloração amarelada e escura. A paciente queixa-se de coceira e dor na região afetada, bem como na região lombar. Ela relata ter provocado um aborto no passado usando a raiz de physalis. Trata-se de um câncer verdadeiro ou de um pseudo-câncer?
-
-A terapia da coluna não tem relação com o câncer uterino, tampouco a dieta alimentar. O que ocorre é um acúmulo de sangue antigo, e não câncer uterino. O apetite e o pulso, estes sim, são relevantes.
-
-Para discernir o câncer, observa-se que a pessoa perde a cor, adquirindo uma tonalidade amarelo-azulada, sem qualquer rubor. A perda acentuada de peso é outra de suas características.
-
-A coceira e a dor indicam um acúmulo de sangue impuro, o que, em termos relativos, se cura com rapidez. Quanto ao aborto provocado com a raiz de physalis, este sim possui relação com o quadro.
-
-## 050 Os componentes e a essência do câncer (A respeito de um caso de hidropisia ovariana)
-
-Trata-se de uma senhora de cinquenta e cinco anos, membro há quatro, que possui o Altar em seu lar, é uma pessoa de fé fervorosa e já auxiliou muitas pessoas. Em abril deste ano, ela passou subitamente por uma purificação na garganta, perdendo a voz. Após quatro ou cinco dias recebendo Johrei, sua voz retornou ao normal. Com o tempo, contudo, seu abdômen começou a se dilatar e, atualmente, estendeu-se do peito à cintura, atingindo a espessura de um tambor. Apesar disso, ela não se queixa de grande sofrimento, alimenta-se bem com duas tigelas de arroz por refeição, levanta-se várias vezes ao dia para urinar e toma banho duas ou três vezes. Não há um ponto específico de dor. Recentemente, passou a se queixar de dores ocasionais em uma hérnia que fora operada no passado. O abdômen, que antes era tenso e rígido, agora se tornou macio. Ela urina de cinco a seis vezes durante o dia e de quatro a cinco vezes à noite, mas sempre em pequenas quantidades. Nos últimos tempos, manifestou comportamentos e falas que sugerem possessão espiritual. Após investigação, descobrimos que ela havia negligenciado um altar de Inari, o que foi corrigido com um pedido de perdão e a retomada das oferendas. Os ofícios religiosos pelos antepassados também foram realizados. Mesmo assim, ela diz sentir como se algum espírito estivesse se movendo em seu abdômen. Acreditamos que, se ela conseguisse urinar ou evacuar abundantemente, poderia melhorar. Seria a interferência de algum espírito? Ou seria uma purificação do câncer? Ou, ainda, uma doença como a hidropisia ovariana? Será possível salvá-la?
-
-Absolutamente não é câncer. O câncer não é pus; assemelha-se mais ao couro sobreposto de um calcanhar. Por essa razão, embora se dissolva gradualmente, ele não se espalha ao se liquefazer. A medicina afirma que o câncer é um tipo de micróbio.
-
-Trata-se de hidropisia ovariana, provavelmente consequência de algum pecado. A situação é grave.
-
-O câncer é de origem espiritual: é o espírito de uma serpente. Ele se forma a partir do sangue impuro e do sebo, constituindo uma massa de gordura.
-
-O nura é o veneno da serpente.
-
-## 051 A relação entre o câncer uterino verdadeiro e o ânus (A progressão do câncer)
-
-Refiro-me à senhora com câncer uterino sobre a qual recebi seus ensinamentos recentemente. A dor na região lombar melhorou consideravelmente, mas agora, além da dor no local do tumor, ela sente dores intensas no ânus devido a prolapso e hemorroidas. Haveria alguma relação com o câncer? Rogo que nos instrua.
-
-Se for câncer verdadeiro, há relação. O câncer progride. No caso de um câncer verdadeiro, ele migra da região original para o ânus. Trata-se de uma combinação de toxinas de medicamentos com as do próprio câncer.
-
-## 052 Câncer de reto (Características, causa e dieta)
-
-Antes de ingressarem na fé, meus avós faleceram de câncer de reto, cerca de seis meses após passarem por cirurgias. Agora, meu pai se encontra acamado com a mesma doença. Após se tornar membro, minha mãe deixou de evacuar, sente o abdômen obstruído, não tem apetite e, no momento, encontra-se em estado crítico. Três membros da família já ingressaram na fé, e temos o Altar de Komyô Nyorai-Sama consagrado. Meus pais se apegam unicamente ao Johrei. Gostaria de saber se há alguma causa espiritual e de receber orientações sobre como ministrar o Johrei.
-
-No câncer de reto, forma-se um nódulo no intestino que o comprime. O câncer verdadeiro é raro. Ele acaba por impossibilitar a evacuação. A cirurgia jamais deve ser realizada. Não há motivo para preocupação, mesmo que a pessoa passe seis meses ou um ano sem evacuar. A origem do problema está nos rins.
-
-Eu mesmo tive um caso em que o paciente ficou quase dois anos sem evacuar. Alimentos líquidos, como o chazuke, são recomendáveis. Dietas exclusivamente líquidas tendem a causar constipação, por isso o chazuke é mais indicado.
-
-## 053 Distensão abdominal no câncer de estômago, com icterícia (Sintomas decorrentes da dissolução das toxinas cancerígenas)
-
-Um paciente com um câncer de estômago de aproximadamente quinze anos vem recebendo Johrei há cerca de três meses. O tumor parece ter diminuído consideravelmente, mas seu abdômen começou a se distender. Ele vomita aproximadamente 2,7 litros de um líquido contendo nura por dia. A micção é escassa, mas ele evacua pequenas quantidades três vezes ao dia. O apetite é vigoroso. Será que ele receberá a graça da cura?
-
-Se o apetite está vigoroso, a cura é certa. Normalmente, quando as toxinas do câncer se dissolvem, o abdômen se distende. Na maioria dos casos, a vesícula biliar passa por um processo de purificação, resultando em icterícia. O nura é um sintoma característico do câncer. Se o paciente estiver hospitalizado, deve deixar o hospital.
-
-## 054 O câncer de estômago e a distensão do baixo-ventre
-
-Gostaria de perguntar sobre o câncer de estômago e a distensão do baixo-ventre. Um homem de quarenta e sete anos, diagnosticado com câncer de estômago, veio até nós. No sexto dia de Johrei contínuo, ele teve uma crise de espasmos gástricos. Depois disso, o nódulo no estômago diminuiu. No décimo segundo dia, enquanto eu ministrava Johrei, senti como se algo empurrasse minha palma por duas vezes. Desde então, ele tem passado muito bem, mas seu baixo-ventre permanece inchado e não melhora. Qual seria a razão?
-
-Quando se ministra Johrei em casos como o câncer de estômago, é inevitável que o abdômen se dilate. Isso ocorre porque as toxinas dissolvidas são densas e, ao se liquefazerem, acumulam-se no abdômen.
-
----
-
-# A Casa e o Terreno
-
-**Categoria:** kouwa | **Ano:** - | **Fonte:** -
-**Título Original:** 社会人事篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Casa e o Terreno
-
-**047 A ausência de ninhos de andorinha (O desenvolvimento do lar)**
-
-*Pergunta:* Minha esposa, minhas duas filhas e eu recebemos a graça de ingressar na fé em outubro do ano passado. Ocorre que, por mais de vinte anos, as andorinhas fizeram ninho em nossa casa anualmente. Contudo, neste ano, elas entraram apenas uma ou duas vezes e não construíram o ninho. Haveria algum significado nisso?
-
-*Resposta:* Isso significa que as andorinhas hesitaram. Quando um lar se desenvolve verdadeiramente e transborda de vitalidade, elas não constroem seus ninhos. O correto, portanto, é que não os construam. Afinal, seria como se os pássaros passassem a coabitar com a família, o que não é o estado ideal. A construção de ninhos, nesse caso, não é auspiciosa.
-
-**048 Lar com enfermo e flores de corte**
-
-*Pergunta:* Em uma casa onde há uma pessoa doente, as flores de corte murcham quase que imediatamente. Haveria alguma relação espiritual para esse fenômeno?
-
-*Resposta:* Certamente. O fato de haver uma pessoa doente no lar já indica que seu Mundo Espiritual está encoberto por nuvens; por essa razão, as árvores e as flores também perdem o vigor. O resultado também varia conforme a pessoa que confecciona o arranjo. Flores arranjadas por Meishu-Sama, por exemplo, duram muito mais tempo, pois o espírito de quem as prepara se infunde nelas.
-
-**049 O motivo dos ratos se agitarem (O Nocivo e o Útil)**
-
-*Pergunta:* Minha família ingressou na fé há dois anos e temos em nosso lar a Imagem da Luz Divina. Recentemente, porém, os ratos têm se agitado e se multiplicado cada vez mais. Qual seria a razão? Como podemos fazer com que desapareçam?
-
-*Resposta:* Isso ocorre porque o Mundo Espiritual desse lar está encoberto por nuvens. A agitação dos ratos revela a manifestação do plano bestial em certa medida. Se o Mundo Espiritual estivesse límpido, os ratos não se alvoroçariam. A intensidade da Luz varia de acordo com a fé de cada um. A solução é orar à Imagem da Luz Divina e empenhar-se em acumular virtudes. À medida que as nuvens forem se dissipando por meio dessas práticas, os ratos naturalmente deixarão de se manifestar.
-
-Ainda que ratos e insetos pareçam trazer apenas prejuízos aos seres humanos, na realidade, eles desempenham um papel útil. Existem muitas coisas que, embora pareçam extremamente negativas, realizam um grande bem sob a perspectiva de Deus. Quando o Mundo Espiritual de um lar se purifica, os ratos simplesmente deixam de aparecer. A purificação da casa significa, pois, um aumento da Luz.
-
-**050 O surgimento de lesmas**
-
-*Pergunta:* Na pia e em outras áreas úmidas da minha cozinha, um número incontável de lesmas tem aparecido, o que tem sido um grande incômodo. Qual seria a causa? Haveria alguma relação espiritual?
-
-*Resposta:* A causa é o Mundo Espiritual do lar estar encoberto por nuvens, o que facilita o surgimento de insetos e outras criaturas. Evidentemente, a umidade do local também contribui para sua proliferação. Ao entronizar a Imagem da Luz Divina e se dedicar à fé, as lesmas desaparecerão gradualmente. A praga que atinge os pinheiros, por exemplo, tem a mesma origem: as nuvens que encobrem o Mundo Espiritual do Japão.
-
-**051 Lagartixas que aparecem todas as noites**
-
-*Pergunta:* Todas as noites, lagartixas percorrem o teto e acabam caindo sobre o tatame. Já matei umas duas. Qual a razão desse acontecimento e como posso pôr um fim a isso?
-
-*Resposta:* O Mundo Espiritual da sua casa está encoberto por nuvens. Esse problema não pode ser resolvido de imediato; contudo, à medida que as nuvens forem se dissipando com o tempo, o fenômeno cessará.
-
-**052 Gatos que não se criam**
-
-*Pergunta:* Por que em minha casa os gatos não se criam, não importa quantos eu adote?
-
-*Resposta:* É preferível não criar gatos. Dentre os espíritos de seus antepassados, há aqueles que os rejeitam. Insistir em tê-los à força não trará bons resultados.
-
-**053 A Camada Espiritual do Terreno e das Pessoas: Mobilidade Humana e Pureza Espiritual; As Duas Causas das Calamidades de um Local**
-
-*Pergunta:* Em minha vizinhança, há mais de dez casas enfileiradas cujos moradores sofrem com doenças e diversas outras calamidades. Haveria alguma causa ligada ao terreno? Ou existiria outro motivo?
-
-*Resposta:* Ambos os fatores podem estar presentes. Há casos relacionados ao terreno, como quando se constrói uma casa sobre um antigo lago ou pântano; pode ser a ação de um deus-dragão que ali habita, buscando chamar a atenção. Ademais, os terrenos possuem um lado luminoso e um lado sombrio, existindo locais puros e outros impuros. Quando as pessoas se mudam, pelo princípio da afinidade espiritual, aquelas que são impuras são atraídas para lugares impuros, enquanto as puras se dirigem a lugares puros. Locais cujo Mundo Espiritual está encoberto por nuvens atraem justamente aqueles que são impuros. Nesses lugares, a purificação tende a ocorrer com maior intensidade. Aqueles que carregam nuvens em seu espírito acabam, invariavelmente, reunindo-se em locais onde ocorrem acontecimentos desagradáveis, para que ali, juntos, sejam purificados. Como consta no Ofudesaki: "As almas que são sucata de cobre serão reunidas em um só lugar, queimadas e reduzidas a cinzas". Portanto, não há outra alternativa para o ser humano senão purificar e elevar a si mesmo.
-
-**054 As Três Causas dos Infortúnios Ligados a um Terreno e sua Solução: A Afinidade Inexorável entre o Espírito e as Nuvens do Local (Desastres após uma mudança)**
-
-*Pergunta:* O local onde moro (Hamamatsu, distrito de Uritacho Shimogumi) é extremamente sombrio e intranquilo. Em particular, neste terreno com vinte e quatro casas, há seis pessoas com doenças mentais. Até recentemente, quase todas as residências sofreram com roubos e calamidades. Peço que me esclareça as causas e as origens espirituais disso.
-
-*Resposta:* Lugares como esse são bastante comuns. No Mundo Espiritual, existem áreas encobertas por nuvens e áreas com poucas nuvens. Quando uma pessoa se muda, ela é naturalmente guiada para um local compatível com seu estado espiritual. Uma pessoa cuja alma está encoberta por nuvens, por mais que deseje ir para um bom lugar, não consegue; ela acaba se juntando a outras em um mesmo local de baixa vibração. Contudo, à medida que ela acumula virtudes e se purifica, pode chegar um momento em que não consiga mais permanecer naquele ambiente. As casas que são consumidas em grandes incêndios, por exemplo, também refletem o grau de impureza de seus moradores. Embora seja algo invisível aos olhos, esse princípio é absolutamente preciso e infalível.
-
-Em locais encobertos por nuvens, a força espiritual diminui, e as coisas não acontecem como se deseja. A pessoa acaba por se deparar com um lugar nebuloso.
-
-Outra causa é a construção de casas sobre pântanos ou lagos aterrissados. Nesses casos, um deus-dragão pode provocar desastres no local para chamar a atenção; incêndios são muito comuns nessas circunstâncias.
-
-Uma terceira causa ocorre se a construção for sobre um antigo cemitério. Espíritos que não obtiveram a salvação podem buscar um novo lugar para ficar, uma vez que suas sepulturas desapareceram.
-
-Essas são, em geral, as três principais causas.
-
-Se metade, ou mesmo um terço, dos moradores de um local nebuloso como esse entronizar a Imagem da Luz Divina, os problemas diminuirão drasticamente. Onde a força espiritual é fraca, as coisas não progridem como deveriam. Contudo, graças a essa Luz, as forças que causam obstruções perdem sua capacidade de atuar. O primeiro passo, portanto, é praticar a fé e acumular virtudes.
-
-**055 A Causa Espiritual de Locais com Alta Incidência de Possessão**
-
-*Pergunta:* Nas províncias de Yamaguchi e Nagasaki, há um número extremamente elevado de doentes que sofrem de possessão espiritual. Isso se deve a alguma causa espiritual do próprio local ou seria uma forma de fazer com que os ministros compreendam melhor os fenômenos espirituais?
-
-*Resposta:* Isso se deve ao fato de o Mundo Espiritual dessas regiões estar encoberto por nuvens, o que permite a atuação de espíritos de animais. Quando há nuvens, o poder desses espíritos se manifesta, e eles conseguem agir livremente. A razão para tal nebulosidade é a presença de divindades de baixa hierarquia e pouca força consagradas naqueles locais. Portanto, a solução é entronizar as caligrafias sagradas de Meishu-Sama. Quanto mais caligrafias forem entronizadas, maior será o desenvolvimento da região.
-
-**056 A Purificação de Japoneses no Exterior e de Estrangeiros no Japão (A Relação entre a Região e a Intensidade da Purificação)**
-
-*Pergunta:* O processo de purificação física dos japoneses que vivem no exterior e dos estrangeiros que residem no Japão é regido pela ação purificadora de sua região de moradia?
-
-*Resposta:* Exatamente. A intensidade da purificação varia conforme o local. O Mundo Espiritual também é formado por agrupamentos. Há lugares onde a purificação é intensa e outros onde é branda; locais encobertos por nuvens e locais límpidos. Onde Meishu-Sama se encontra, a purificação é mais forte. A partir de um certo ponto, a pessoa alcança a verdadeira saúde.
-
-**057 Purificações Sucessivas de Vento e Água**
-
-*Pergunta:* Desde o início do ano, ocorreram sucessivas purificações através do vento e da água em Hakodate, Nagasaki e Aichi. Gostaria de saber o significado desses acontecimentos.
-
-*Resposta:* A causa é a nebulosidade que paira sobre o Mundo Espiritual dessas regiões.
-
----
-
-# Coletânea de Teses do Reverendo Okada Jikanshi
-
-**Categoria:** kouwa | **Ano:** - | **Fonte:** -
-**Título Original:** 医術篇（四） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## Coletânea de Teses do Reverendo Okada Jikanshi
-Busca de Ensinamentos: Ajuda | Busca de Materiais: Arte da Cura (IV) | Doenças da Parte Inferior do Corpo, da Mulher e da Criança
-
-**2 016-035 Doenças Femininas 1**
-
-**016 Relação entre o Útero, a Cabeça e os Olhos**
-
-**Pergunta:** Uma senhora submeteu-se, há dez anos, a uma complexa cirurgia devido a uma gravidez ectópica. No ano seguinte, ao engravidar novamente, perdeu a visão do olho esquerdo um mês antes do parto, recuperando-a logo após dar à luz. Em uma gestação três anos mais tarde, o problema manifestou-se três meses antes do parto; seis anos depois, seis meses antes; e, na gravidez de oito anos atrás, a perda da visão ocorreu já no primeiro mês. Foi realizado um aborto induzido, mas a visão não retornou, pelo contrário, o quadro se agravou, e o cérebro também começou a ser afetado. Qual seria a explicação para tal caso?
-
-**Resposta:** A causa está relacionada à gestação. O útero tem conexão tanto com a cabeça quanto com os olhos, especialmente com a região frontal.
-
-Atualmente, há uma parte enferma em seu útero. A lesão ocorrida durante a primeira intervenção cirúrgica está repercutindo na região frontal da cabeça, o que ocasiona a aflição nos olhos. Durante o aborto induzido, a lesão anterior foi novamente agravada de alguma forma. No que tange ao cérebro, a área afetada é, de fato, a frontal.
-
-Tudo se resolverá com o Johrei direcionado ao útero.
-
-**017 Relação entre o Ovário e os Olhos**
-
-**Pergunta:** Uma mulher de trinta anos contraiu septicemia em janeiro deste ano e, após cerca de dois meses, apresentou melhora. Contudo, em seguida, padeceu de infiltração pulmonar. Tendo obtido uma recuperação parcial, no final de abril, submeteu-se a uma cirurgia para a extração de um cisto no ovário esquerdo, aproveitando a ocasião para remover também o apêndice. Por volta do dia dez de novembro, subitamente, seu olho esquerdo passou a apresentar visão dupla e, uma semana depois, uma dor intensa manifestou-se, com dilatação da pupila. Ela vem recebendo Johrei há cerca de dez dias. Qual é o seu parecer?
-
-**Resposta:** É comum que a visão de uma pessoa se deteriore após a extração do ovário. Em casos mais graves, chega-se à cegueira. O ovário e os olhos estão interligados. Remover órgãos do corpo é uma prática bárbara. A verdadeira arte da cura consiste em tratar sem a necessidade de extrair.
-
-Certa vez, afirmei que a “medicina ocidental é bárbara”, e um policial do posto de Nakano me denunciou. Em decorrência disso, na delegacia de Tamagawa, fui obrigado a ouvir um sermão do encarregado de saúde por mais de meio dia.
-
-A Universidade de Keio é notável na remoção do apêndice. O chamado progresso da cirurgia nada mais é que o aprimoramento de uma habilidade artesanal.
-
-A visão dupla no olho esquerdo é consequência da intervenção cirúrgica. A dor, por sua vez, é um processo de purificação e, portanto, levará à cura. É preciso ministrar Johrei com persistência. O ovário esquerdo, o apêndice direito.
-
-Com o Johrei, ela será curada. Não é um quadro fatal. Aqueles que desconhecem o Johrei acabam por debilitar os rins. Não há motivo para preocupação. A origem do problema está no ovário, logo, deve-se ministrar Johrei nos pontos doloridos do abdômen. Os ombros e o pescoço também estão afetados. Ministre Johrei nos olhos igualmente. (16 de dezembro de 1948)
-
-**018 A Cabeça e o Ovário (opressão no peito, dormência na mão)**
-
-**Pergunta:** Uma senhora de cinquenta e cinco anos, desde que contraiu um resfriado em novembro do ano passado, sente uma dor latejante na cabeça, dormência na mão direita e, por cerca de duas horas após se deitar à noite, uma forte opressão no peito. A dormência cessa após aproximadamente uma hora. Em maio do ano passado, ela recebeu o Ohikari e tem ministrado Johrei diariamente, mas não observa qualquer mudança. Rogo que me ensine a causa e o método de Johrei apropriado.
-
-**Resposta:** A causa reside nas toxinas medicinais. Trata-se de um quadro que o Johrei pode solucionar.
-
-A remoção do ovário afeta a cabeça.
-
-Há um nódulo nos gânglios linfáticos que precisa ser dissolvido. A paralisia da mão origina-se na região da cabeça.
-
-**019 Subako (Peritônio e Corrimento Branco)**
-
-A causa do *subako*. O termo *subako* é uma designação antiga que abrangia genericamente as enfermidades da parte inferior do corpo, como as hoje conhecidas “doenças uterinas”. Geralmente, refere-se à ocorrência de corrimento branco (*koshike*) ou a uma propensão a sentir frio na região.
-
-As toxinas de medicamentos da medicina oriental descem e se acumulam na parte anterior ou posterior do abdômen. Essa massa solidificada torna a área suscetível ao frio. A purificação desse acúmulo manifesta-se como uma doença uterina, e, antes do surgimento da febre, ocorre um calafrio localizado. O corrimento branco nada mais é que as toxinas medicinais do peritônio que se liquefazem e descem. É importante que as mulheres tenham esse conhecimento.
-
-Todas as pessoas possuem peritônio e, invariavelmente, acumulam toxinas no abdômen. Aqueles que tomaram medicamentos certamente têm o peritônio em más condições. Essa é a origem de problemas como cistos de ovário, câncer de útero, hemorroidas, cãibras nas pernas e beribéri. A parte inferior do corpo responde muito bem ao Johrei, pois a solidificação de toxinas nessa área é menor, devido à sua proximidade com as vias de eliminação. O principal ponto de acúmulo são os rins; as toxinas medicinais se concentram em suas adjacências. Os medicamentos ingeridos por via oral chegam aos rins, extravasam e se solidificam ao redor. Com isso, o processamento da urina fica comprometido, e uma parte das toxinas uremicas, ao se dissolverem, descem e acumulam-se gradualmente na região das costas. Para enfermidades como o *subako*, a cura definitiva é alcançada ao se ministrar Johrei na região entre os rins e a parte inferior das costas. (19 de novembro de 1949)
-
-**020 A Cura de Doenças Femininas**
-
-**Pergunta:** Sou uma mulher de trinta e oito anos e minha família está na quarta geração de fé. Meu ancestral faleceu no dia dezoito, e minha sogra também faleceu em um dia dezoito. Em seu leito de morte, minha sogra deixou um testamento verbal dizendo: “Não se deve ter fé em Kannon (観音)”. Até a terceira geração, um dos cônjuges sempre faleceu por volta dos quarenta anos. Atualmente, sofro de uma doença feminina e fui desenganada pelos médicos. Serei salva pela fé? Rogo a Vossa orientação.
-
-**Resposta:** As doenças femininas são quase todas curáveis. Algumas se tornam incuráveis por causa de intervenções cirúrgicas; caso contrário, a cura é certa. Você mesma pode ministrar Johrei.
-
-É fundamental que você, em nome de sua sogra, peça perdão sincero pela ofensa proferida contra Kannon (観音). (17 de setembro de 1949)
-
-**021 A Causa da Amenorreia**
-
-**Pergunta:** Minha filha adotiva, Masumi, de dezenove anos, está recebendo Johrei, mas ainda não teve sua primeira menstruação. Rogo encarecidamente por sua proteção. Ademais, meu marido, Yoshikame, tem a visão do olho direito enfraquecida. Suplico, igualmente, por sua proteção.
-
-**Resposta:** A trompa de Falópio está obstruída. Há um nódulo abaixo do umbigo, à direita ou à esquerda, que precisa ser dissolvido. (29 de setembro de 1949)
-
-**022 Amenorreia e Hormônios**
-
-**Pergunta:** Uma senhora, atualmente com vinte e quatro anos, teve apenas um ciclo menstrual aos quinze anos e, desde então, nenhum mais. Durante esse período, submeteu-se a tratamentos médicos que incluíram injeções de hormônios, entre outros. Recentemente, começou a receber Johrei. Será possível sua recuperação?
-
-**Resposta:** Há toxinas ao redor da trompa de Falópio, causando uma obstrução. A origem está nos rins; portanto, ao tratar os rins, ela será curada. O hormônio administrado é sêmen. A urina de jovens contém sêmen. (12 de fevereiro de 1949)
-
-**023 Menstruação Prolongada e de Fluxo Reduzido (densidade do sangue)**
-
-**Pergunta:** Uma jovem de dezoito anos, cuja menstruação iniciou-se aos catorze, tem ciclos que duram aproximadamente um mês, com sangramento quase diário. Fora a palidez facial, não apresenta outros sintomas. Qual a causa?
-
-**Resposta:** O fluxo menstrual é deficiente e escasso porque a trompa de Falópio é estreita, o que prolonga o processo. Há toxinas no abdômen que a comprimem; basta, portanto, dissolvê-las. O sangue é escuro devido à grande quantidade de sangue impuro. O sangue saudável é mais fluido e circula melhor. O sangue denso é viscoso. O ideal é que ela ingresse na fé e receba Johrei.
-
-**024 Irregularidade Menstrual**
-
-**Pergunta:** Uma senhora de vinte e três anos, casada há dois, já sofria de irregularidade menstrual antes do casamento. Três meses após se casar, a menstruação cessou completamente. Cerca de um ano depois, ocorreram três ou quatro ciclos, mas novamente houve interrupção. Ela procurou tratamento médico, sem sucesso. Desde outubro do ano passado, vem recebendo Johrei e, a partir de dezembro, teve cerca de três ciclos, mas desde março deste ano, não menstruou mais. Ao realizar trabalhos físicos, sente a região lombar enrijecer e um pouco de dor. Talvez por essa razão, não consegue ter filhos. Ela poderá ser curada com o Johrei? A pessoa em questão ingressou na fé em fevereiro deste ano.
-
-**Resposta:** A causa é um nódulo no abdômen que está comprimindo a trompa de Falópio. (26 de outubro de 1949)
-
-**025 Dor Menstrual e Micção Frequente**
-
-**Pergunta:** Uma jovem de vinte e cinco anos, desde abril de seus vinte e dois anos, começou a sentir dores intensas acompanhadas de irregularidade menstrual. A partir de então, passou a ter alterações na micção e, em julho, a necessidade de urinar tornou-se frequente, com dores insuportáveis antes e depois da eliminação. Medicamentos e outras terapias não aliviaram seu sofrimento. Após mais de um ano sem usar remédios, a dor tornou-se suportável, mas o volume de urina é pequeno, e a vontade retorna logo após a micção. Se ela segura por mais de uma hora, o abdômen, especialmente a bexiga, fica notavelmente inchado e ela se sente inquieta. O volume de urina é mínimo, e o desconforto é indescritível. Dois ou três dias após a menstruação, a frequência diminui e o mal-estar geral se abranda, mas logo tudo volta ao normal, acompanhado de outros problemas ginecológicos. Ademais, desde outubro do ano passado, ela sente dor na região do rim esquerdo e, em novembro, surgiu um pequeno inchaço, do tamanho de um grão de feijão, na parte interna da pálpebra esquerda. Desde que ingressou na fé, em novembro, tem recebido Johrei continuamente, mas ainda não vê um efeito claro. Qual a causa desta doença e em que pontos o Johrei deve se concentrar?
-
-**Resposta:** A trompa de Falópio é estreita. Existe um nódulo no baixo-ventre que dificulta a passagem do fluxo menstrual, causando dor. A micção frequente ocorre porque a uretra está inchada. As toxinas acumuladas ao seu redor a estreitam, não por compressão, e isso causa dor. Além disso, uma parte dessas toxinas se infiltra na uretra, causando dor durante a micção. O sofrimento foi causado pelos medicamentos e terapias; suspendê-los é o caminho. Como o canal que vai da bexiga até a uretra está estreitado, a urina não é completamente eliminada. As toxinas ao redor da bexiga também causam a sensação de inchaço quando ela está cheia.
-
-Ministre Johrei com persistência nos pontos afetados e nos rins.
-
-O inchaço na pálpebra não é nada grave e se curará rapidamente. É possível que ocorram cãibras nas pernas e outros sintomas. Sempre que as toxinas se acumularem, ela mesma deve ministrar Johrei.
-
-Com paciência, ministrando Johrei nas costas e nos rins, ela certamente será curada. (27 de fevereiro de 1950)
-
-**026 Dor Abdominal Prolongada no Período Pré-Menstrual**
-
-**Pergunta:** Uma paciente que estou acompanhando, Fumiko Adachi, de trinta e cinco anos, sofre de dores abdominais que ocorrem regularmente por cerca de quinze dias antes de cada menstruação, das dez e meia da manhã até por volta das seis da tarde. A dor é como uma cólica que se inicia no lado esquerdo, abaixo do umbigo. Antes da crise, ela sente sonolência. Haveria uma causa espiritual? Rogo que me oriente sobre o método de Johrei. Acrescento que ela ingressou na fé há pouco mais de um ano e já realizou dois abortos no passado.
-
-**Resposta:** Existe um nódulo no baixo-ventre. A influência dos abortos também está presente. Uma dor abdominal de quinze dias é um período excessivamente longo. A trompa de Falópio está estreitada. Ao ministrar Johrei nos rins, ela se curará. (17 de abril de 1950)
-
-**027 Enurese Noturna Pré-Menstrual**
-
-**Pergunta:** Uma mãe solteira de dezenove anos invariavelmente urina na cama na noite anterior à menstruação, mas isso não ocorre em outros dias. Ela é bastante obesa.
-
-**Resposta:** O sangue menstrual acumula-se em um local próximo à bexiga.
-
-**028 Hemoptise Durante a Menstruação**
-
-**Pergunta:** Uma mulher de vinte e cinco anos, que sofria de hemorroidas por volta de fevereiro deste ano, foi completamente curada com Johrei. O sangramento, que coincidia com o período menstrual, era de uma cor escura e suja. Cessou junto com a menstruação. Após um período de mal-estar geral, em meados de novembro, ela voltou a ter hemoptise. Desta vez, o sangue é mais ralo, e um leve movimento do corpo provoca tosse, expelindo o equivalente a uma pequena tigela de sangue de uma só vez. Hoje, graças ao Johrei, ela se sente muito melhor, e o sintoma se transformou em escarro com sangue ocasional. Não há febre, a temperatura está quase normal. Ela diz que sente uma leve opressão no peito e não consegue se movimentar muito. Ela manifestou o desejo de receber a Outorga da Luz. Qual seria a Vossa orientação?
-
-**Resposta:** Trata-se de uma hemoptise menstrual. É uma pessoa com grande quantidade de sangue impuro. É melhor que ela receba a Outorga. (23 de dezembro de 1949)
-
-**029 Menstruação Reversa**
-
-**Pergunta:** Durante meu período menstrual, minhas gengivas sangram, embora eu não sinta dor alguma. Isso também cessa após cerca de dois dias. Nos outros dias, nada acontece. Qual seria a explicação para isso?
-
-**Resposta:** Algumas pessoas apresentam um fenômeno de menstruação reversa. Sangramentos nasais ou hemoptise são exemplos disso. Ocorre quando o fluxo que deveria ser expelido por baixo não consegue sair completamente e retorna para cima. Pessoas assim possuem a trompa de Falópio estreita. Este é um caso desse tipo.
-
-Há um nódulo no abdômen que causa compressão. Removendo-o, ela será curada. (22 de novembro de 1949)
-
-**030 Sangramento no Período de Cessação da Menstruação**
-
-Sobre a menstruação (diagnosticada erroneamente como úlcera gástrica). Se fosse úlcera gástrica, deveria haver dor de estômago. É comum que mulheres vomitem sangue menstrual, e isso pode ser confundido com úlcera gástrica. Neste caso, deve-se considerar que seja a menstruação, pois se fosse uma hemorragia intestinal, a pessoa não sobreviveria.
-
-Em caso de hemorragia (gástrica), deve-se ingerir apenas líquidos enquanto o sangramento persistir. Após cessar, pode-se passar para um mingau de arroz.
-
-De modo geral, em casos de hemorragia, o consumo de vegetais a interrompe rapidamente. Mesmo em casos de tuberculose, a hemoptise cessa imediatamente com uma dieta vegetariana. Se a pessoa volta a comer carne, a hemoptise retorna. A dor surge quando as toxinas solidificadas se dissolvem.
-
-Os japoneses, como se vê nas peças de teatro, conseguem falar mesmo com o abdômen cortado. O corpo dos japoneses tem uma constituição mais firme, o que faz com que os tecidos se unam e não haja tanto sangramento. Isso se deve à dieta à base de vegetais.
-
-A menstruação cessa trinta e três anos após a primeira ocorrência. Para algumas, pode cessar entre os quarenta e sete ou quarenta e oito anos, e para outras, por volta dos cinquenta. (25 de julho de 1948)
-
-**031 Distúrbios da Menopausa**
-
-**Pergunta:** É comum que mulheres de meia-idade sofram dos chamados distúrbios da menopausa. O que são eles?
-
-**Resposta:** A ocorrência de distúrbios se deve à presença de toxinas no organismo da pessoa. Se não houvesse toxinas, tais problemas não existiriam. Eles são curáveis com o Johrei. (23 de maio de 1949)
-
-**032 Sangue Antigo da Menopausa**
-
-**Pergunta:** Desde jovem, sempre tive a saúde frágil e nunca me afastei de médicos e remédios. Em agosto do ano passado, conheci a grandiosidade de Kannon (観音) e tive a permissão de ingressar na fé. Contudo, desde janeiro deste ano, meu sangramento menstrual tornou-se excessivo e minha audição também diminuiu. Rogo encarecidamente por Vossa proteção.
-
-**Resposta:** Uma vez que todo o sangue acumulado seja expelido, você ficará curada. Trata-se da menopausa, e o que está saindo é sangue antigo que estava estagnado.
-
-**033 Pleurisia e Menstruação**
-
-**Pergunta:** Minha irmã mais velha, Yoshiko Yoshida, de vinte e oito anos, adoeceu de pleurisia por volta dos dezenove anos (início de seus ciclos menstruais) e foi tratada por um médico, que solidificou as toxinas. Desde então, até hoje, sua menstruação cessou. Entretanto, todos os anos, durante um mês a partir do dia quinze do festival de Obon, ela tem um sangramento abundante e diário. Após essa purificação hemorrágica, ela fica bastante debilitada por cerca de um mês. Qual seria a causa disso? Rogo Vossa orientação sobre a relação espiritual deste caso.
-
-**Resposta:** Não há relação entre a pleurisia e a menstruação. (19 de setembro de 1949)
-
-**034 Hemorragia Uterina**
-
-**Pergunta:** Em fevereiro do ano passado, tive uma hemorragia uterina, que melhorou temporariamente. No dia dezesseis de agosto, tive a honra de entronizar o Dai-Komyo-Nyorai. Uma semana depois, a hemorragia recomeçou, acompanhada de dores semelhantes a cãibras no baixo-ventre, no flanco direito e da cintura até a região anal. Em novembro, obtive uma melhora parcial, mas não tinha forças para me levantar. No final de dezembro, o sangramento retornou e, no final de janeiro, a dor na região anal se intensificou (uma dor tipo cãibra), com grande sofrimento durante a evacuação. Em meados de janeiro, o quadro evoluiu para uma condição semelhante à peritonite. No dia seis de fevereiro, houve nova hemorragia, o rosto ficou pálido, o pulso fraco. Mesmo com Johrei, a cor não retornava ao rosto. O apetite não diminuiu muito, e não houve grandes mudanças na alimentação. De que purificação se trata?
-
-**Resposta:** Existem toxinas medicinais acumuladas do baixo-ventre até a região lombar. O sangue está extremamente impuro. A hemorragia causa um estado temporário de anemia, mas isso é inevitável. O que está sendo expelido é sangue impuro e, sem essa eliminação, não há cura. Há coágulos de sangue na pelve renal. É preciso dissolvê-los com Johrei. Ministrando Johrei nesse ponto, a cura virá. Este é o ponto crucial, e não se trata de uma doença de difícil tratamento. (16 de fevereiro de 1949)
-
-**035 Hemorragia e Edema**
-
-**Pergunta:** A fiel Moe Ide, de sessenta e quatro anos, teve um histórico de retroversão uterina. Desde outubro do ano passado, ela teve cerca de três episódios de sangramento considerável. No dia dezessete deste mês, das quatro às dez da manhã, ocorreu uma hemorragia muito volumosa (aproximadamente 5,4 litros), que a levou a um quadro de anemia, perda de consciência e edema generalizado. Com o Johrei, ela começou a se recuperar imediatamente. Atualmente, seu coração está enfraquecido e há edema nas pernas. Qual a causa do edema decorrente dessa hemorragia? Ademais, é normal um sangramento tão volumoso nessa idade? Rogo Vossos esclarecimentos.
-
-**Resposta:** O que foi expelido era sangue menstrual acumulado. Como a quantidade de sangue impuro era muito grande, no momento em que o sangue menstrual saiu, outras impurezas sanguíneas das proximidades também foram eliminadas. Uma eliminação tão súbita causa anemia, pois o corpo não consegue produzir sangue novo na mesma velocidade. Isso, por sua vez, diminui a atividade dos rins, que não conseguem processar a urina adequadamente. À medida que o volume de sangue aumentar, ela se recuperará. Com o passar dos dias, a cura virá. Quanto ao sangue impuro, desde que ela não tome mais remédios, o problema será resolvido. Em breve, ela se tornará uma pessoa forte e saudável. (28 de abril de 1950)
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Categoria:** no | **Ano:** 昭和27(1952)年1月30日 | **Fonte:** Kyusei
 **Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 メシヤ教々主（明主）岡田茂吉 | **Status:** Published | **Edição/Página:** 141号 | **Data ISO:** 1952-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Grande Revolução na Agricultura
 
@@ -110,7 +110,7 @@ Isso explica a considerável variação nos resultados apresentados nos relatór
 
 **Categoria:** no | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 脳疾患 ・病患と医学の誤謬七 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## As Enfermidades Cerebrais e os Equívocos da Medicina
 
@@ -164,7 +164,7 @@ Para avaliar a gravidade de qualquer doença cerebral, a frequência dos vômito
 
 **Categoria:** no | **Ano:** 昭和25(1950)年10月4日 | **Fonte:** Eikou
 **Título Original:** 祝詞 | **Status:** Published | **Edição/Página:** 72号 | **Data ISO:** 1950-10-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Prece de Louvor na Consagração do Protótipo do Paraíso
 
@@ -197,7 +197,7 @@ Seguindo a Vossa Vontade, que nosso espírito prospere em felicidade
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** ノーベル賞的偉効 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura Milagrosa e a Cegueira do Mundo
 
@@ -217,7 +217,7 @@ Ainda assim, não nos cabe a indignação. Afinal, por se tratar da salvação c
 
 **Categoria:** no | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 革命的増産のShizen Noho Kaisetsu
 **Título Original:** 農業の大革命 五カ年にして米の五割増産は確実 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 革命的増産の自然農法解説
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 革命的増産の自然農法解説
 
 ## A Grande Revolução Agrícola: A Certeza do Aumento de 50% na Produção de Arroz em Cinco Anos
 
@@ -297,7 +297,7 @@ Publicado na revista Eikou (nº 141), em 30 de janeiro de 1952.
 
 **Categoria:** no | **Ano:** 昭和11(1936)年 | **Fonte:** 脳溢血は絶対予防し得る
 **Título Original:** 脳溢血は絶対予防し得る | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Prevenção Definitiva da Hemorragia Cerebral
 
@@ -319,7 +319,7 @@ Ademais, mesmo naqueles que não chegam ao ponto de sofrer uma hemorragia, a pos
 
 **Categoria:** no | **Ano:** 昭和24(1949)年3月30日 | **Fonte:** -
 **Título Original:** 農業の大革命 清潔で心から楽しめる 家庭菜園の無肥科栽培 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-03-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Grande Revolução na Agricultura: O Cultivo sem Fertilizantes para Hortas Caseiras
 
@@ -379,7 +379,7 @@ Eis, pois, a grande revolução na agricultura e um verdadeiro evangelho para to
 
 **Categoria:** no | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 脳貧血その他 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Causa Espiritual de Enfermidades Comuns
 
@@ -421,7 +421,7 @@ Se as amígdalas forem removidas, as toxinas, sem ter para onde ir, serão forç
 
 **Categoria:** no | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
 **Título Original:** 農業の新発見に就て | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1950-01-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Verdade por Trás das Inovações Agrícolas
 
@@ -437,7 +437,7 @@ Nesse sentido, a referida duplicação da colheita, na realidade, deve-se muito 
 
 **Categoria:** no | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 脳疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## Elucidação sobre as Enfermidades Cerebrais
 
@@ -479,7 +479,7 @@ Para aferir a gravidade de qualquer doença relacionada ao cérebro, o vômito �
 
 **Categoria:** no | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
 **Título Original:** 農耕者の迷信に就て | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## As Superstições na Agricultura
 
@@ -541,7 +541,7 @@ Pode-se dizer que minha motivação para a Agricultura Natural nasceu do pavor a
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 脳膜炎も訳なく治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Surpreendente Cura da Meningite
 
@@ -563,7 +563,7 @@ Portanto, a simples reflexão sobre este ponto revela a assombrosa ofuscação d
 
 **Categoria:** no | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 脳疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Sobre as Enfermidades Cerebrais
 
@@ -599,7 +599,7 @@ Em suma, um ponto crucial a ser retido sobre as enfermidades cerebrais é que a 
 
 **Categoria:** no | **Ano:** 昭和9(1934)年12月4日 | **Fonte:** （のりと） 不明、昭和
 **Título Original:** 神言祝詞 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1934-12-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** （のりと） 不明、昭和
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** （のりと） 不明、昭和
 
 ## Prece Divina
 
@@ -625,7 +625,7 @@ Prostrados, com os joelhos dobrados e a fronte rente ao solo, com o mais profund
 
 **Categoria:** no | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 脳疾患 ・主なる病気(一) 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## Sobre as Enfermidades Cerebrais
 
@@ -655,7 +655,7 @@ Além das enfermidades mencionadas, existem sintomas como cefaleia crônica, sen
 
 **Categoria:** na | **Ano:** 昭和24(1949)年3月30日 | **Fonte:** -
 **Título Original:** 治るんだ | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1949-03-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Resposta Divina às Calúnias e Detratações
 
@@ -685,7 +685,7 @@ Marchamos com determinação sob o grande objetivo de reconstruir um Novo Japão
 
 **Categoria:** na | **Ano:** 昭和25(1950)年12月6日 | **Fonte:** Eikou
 **Título Original:** 生野菜 | **Status:** Published | **Edição/Página:** 81号 | **Data ISO:** 1950-12-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre o Consumo de Verduras Cruas
 
@@ -701,7 +701,7 @@ Nesse sentido, quando se trata de uma alface cultivada pelo método da Agricultu
 
 **Categoria:** na | **Ano:** 昭和25(1950)年3月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 何故救世教となった乎 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1950-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Advento da Igreja Messiânica Mundial
 
@@ -725,7 +725,7 @@ Nesse contexto, a principal preocupação dos fiéis será, naturalmente, compre
 
 **Categoria:** na | **Ano:** 昭和25(1950)年10月30日 | **Fonte:** 法難手記
 **Título Original:** ナンセンス | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-10-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 法難手記
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 法難手記
 
 ## Relatos Anedóticos
 
@@ -759,7 +759,7 @@ Para concluir, gostaria de relatar a obra-prima do disparate. Certa noite, no no
 
 **Categoria:** na | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Tragédia dos Mares do Sul e o Veneno Medicamentoso
 
@@ -779,7 +779,7 @@ Qualquer um que compreenda os princípios desta Arte Médica há de concordar qu
 
 **Categoria:** na | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## O Mal que Aflige os Nossos Jovens
 
@@ -797,7 +797,7 @@ A veracidade dos fatos aqui expostos, longe de ser um exagero, será prontamente
 
 **Categoria:** na | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
 **Título Original:** 内臓の三位一体と心臓の重要性 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Trindade dos Órgãos Internos e a Primazia do Coração
 
@@ -843,7 +843,7 @@ Os pacientes com doenças cardíacas, por outro lado, representam o oposto: são
 
 **Categoria:** na | **Ano:** 昭和26(1951)年3月14日 | **Fonte:** Eikou
 **Título Original:** 何が欲しい 阿呆文学（六） | **Status:** Published | **Edição/Página:** 95号 | **Data ISO:** 1951-03-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Verdadeira Sede da Alma Humana
 
@@ -873,7 +873,7 @@ Ah, Salve o Lótus-Buda-Amida, que assim seja! Toc, toc, toc.
 
 **Categoria:** na | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 何と医学の幼稚なる事よ 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Puerilidade da Ciência Médica
 
@@ -891,7 +891,7 @@ Nesse sentido, impõe-se uma reflexão fundamental. Médicos, que são profissio
 
 **Categoria:** na | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 南洋馬鹿 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## A Debilidade Mental Oriunda dos Mares do Sul
 
@@ -909,7 +909,7 @@ Afirmo que os fatos aqui expostos não constituem qualquer exagero, e todo aquel
 
 **Categoria:** na | **Ano:** 昭和11(1936)年 | **Fonte:** Kenko
 **Título Original:** 何故 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 健康
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
 
 ## As Razões para a Criação Deste Método Terapêutico
 
@@ -931,7 +931,7 @@ Contudo, mesmo que se saiba que a causa primordial de todas as doenças reside n
 
 **Categoria:** na | **Ano:** 昭和24(1949)年8月6日 | **Fonte:** -
 **Título Original:** 内臓の三位一体と浄霊 | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1949-08-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Trindade dos Órgãos Internos e o Johrei
 
@@ -967,7 +967,7 @@ Portanto, sendo o corpo humano uma constituição trinitária, um método de cur
 
 **Categoria:** na | **Ano:** 昭和27(1952)年5月14日 | **Fonte:** Eikou
 **Título Original:** 奈良美術行脚 | **Status:** Published | **Edição/Página:** 156号 | **Data ISO:** 1952-05-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Peregrinação pela Arte Budista em Nara
 
@@ -995,7 +995,7 @@ Gostaria, no entanto, de enaltecer um artista de nosso tempo: o escultor Sato Ge
 
 **Categoria:** na | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 難行苦行 | **Status:** Published | **Edição/Página:** P.27 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## A Verdadeira Senda da Fé
 
@@ -1019,7 +1019,7 @@ Constata-se que, mesmo no Japão, ainda existem ascetas e religiosos que se dedi
 
 **Categoria:** na | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 浪花亭愛造 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.22 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## Reminiscências sobre os Grandes Mestres do Naniwabushi
 
@@ -1047,7 +1047,7 @@ Além desses, outros nomes permanecem vívidos em minha memória, como Naniwatei
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** ミロクの世の実相 未発表 | **Status:** Unpublished | **Edição/Página:** 137号 | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Realidade do Mundo de Miroku
 
@@ -1071,7 +1071,7 @@ Quanto à segunda forma de agressão, aquela que não provém da necessidade, ne
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
 **Título Original:** 未知の世界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第三編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
 
 ## A Realidade do Mundo Espiritual
 
@@ -1089,7 +1089,7 @@ O grande obstáculo, contudo, reside no fato de que o Mundo Espiritual não pode
 
 **Categoria:** mi | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
 **Título Original:** 五六七教教義 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Nosso Credo
 
@@ -1109,7 +1109,7 @@ Cremos, finalmente, que o Paraíso Terrestre é o mundo que corporifica, em sua 
 
 **Categoria:** mi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** Asu no Ijutsu 第一篇
 **Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一篇
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一篇
 
 ## O Paradoxo do Progresso e a Ameaça à Sobrevivência Humana
 
@@ -1135,7 +1135,7 @@ Portanto, qual o significado deste efeito reverso? Foi o sublime anseio de eluci
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年7月8日 | **Fonte:** Eikou
 **Título Original:** 民主的美術館 | **Status:** Published | **Edição/Página:** 216号 | **Data ISO:** 1953-07-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Democratização da Arte
 
@@ -1150,8 +1150,8 @@ Ouvir tais palavras me trouxe uma imensa satisfação, pois ele expressou, de fo
 # A Comprovação Científica do Espírito
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 明日の医術 第一編
 
 ## A Comprovação Científica do Espírito
 
@@ -1187,7 +1187,7 @@ Além disso, outra via possível é o aprimoramento das chapas fotográficas. Re
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 三つの病併合の重症一回で治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura de Três Graves Enfermidades Simultâneas em uma Única Ministração
 *Trecho da obra inédita “A Revolução da Medicina”, escrito em 1953*
@@ -1204,7 +1204,7 @@ Diante da manifestação contínua de milagres de tal magnitude, sem precedentes
 
 **Categoria:** mi | **Ano:** - | **Fonte:** Bunmei no Sozo
 **Título Original:** 弥勒三会 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Revelação do Encontro Tríplice de Miroku
 
@@ -1223,8 +1223,8 @@ Permitam-me agora expor um raciocínio fascinante. Kannon nasceu do budismo, o q
 # O Paradoxo do Progresso e o Declínio da Humanidade
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu第二篇
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 明日の医術第二篇
 
 ## O Paradoxo do Progresso e o Declínio da Humanidade
 
@@ -1252,7 +1252,7 @@ Sendo assim, qual o significado exato desse “efeito reverso”? Este livro nas
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年4月2日 | **Fonte:** Eikou
 **Título Original:** 三越の春日興福寺宝物展を観て | **Status:** Published | **Edição/Página:** 150号 | **Data ISO:** 1952-04-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Sublimidade da Escultura Budista Japonesa
 
@@ -1284,7 +1284,7 @@ Sempre afirmo que, embora outros gêneros artísticos tenham seu valor, a escult
 
 **Categoria:** mi | **Ano:** 昭和27(1952)年7月30日 | **Fonte:** Eikou
 **Título Original:** 見えざる神は見えた | **Status:** Published | **Edição/Página:** 167号 | **Data ISO:** 1952-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Deus Invisível se Fez Visível
 
@@ -1349,7 +1349,7 @@ Adendo: A manifestação espiritual mencionada no texto foi de um espírito de r
 
 **Categoria:** mi | **Ano:** 昭和24(1949)年7月16日 | **Fonte:** -
 **Título Original:** 五六七世界の建設 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1949-07-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Construção do Mundo de Miroku
 
@@ -1371,7 +1371,7 @@ Em suma, é nosso dever cultivar a devida postura interior para enfrentar o proc
 
 **Categoria:** mi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 五六七世界の建設 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Edificação do Mundo de Miroku
 
@@ -1395,7 +1395,7 @@ Em suma, o propósito deste artigo foi tão somente o de delinear a preparação
 
 **Categoria:** mi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 民主的試験制度 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Um Sistema de Avaliação Democrático
 
@@ -1421,7 +1421,7 @@ Contudo, afirmo que, por meio desta Arte Médica, isso é perfeitamente possíve
 
 **Categoria:** mi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 見えざる力 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## A Força Invisível
 
@@ -1455,7 +1455,7 @@ Gostaria de ressaltar mais uma vez que não menosprezo, de modo algum, o poder d
 
 **Categoria:** mi | **Ano:** 昭和25(1950)年3月11日 | **Fonte:** Kyusei
 **Título Original:** 五六七大祭 | **Status:** Published | **Edição/Página:** 53号 | **Data ISO:** 1950-03-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Missão Messiânica e o Advento da Suprarreligião
 
@@ -1477,7 +1477,7 @@ Este é o ponto fundamental, e somente através de sua profunda compreensão é 
 
 **Categoria:** mi | **Ano:** 昭和18年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Ashita no Ijutsu
 
@@ -1501,7 +1501,7 @@ Finalmente, cumpre acrescentar que esta terapia pode ser praticada por qualquer 
 
 **Categoria:** mi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 未知の世界 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Revelação do Mundo Espiritual
 
@@ -1519,7 +1519,7 @@ Em um futuro muito próximo, porém, o mundo desconhecido se tornará um mundo c
 
 **Categoria:** mi | **Ano:** 昭和28(1953)年10月28日 | **Fonte:** Eikou
 **Título Original:** 三日間で博士が出来る | **Status:** Published | **Edição/Página:** 232号 | **Data ISO:** 1953-10-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Formação de Doutores em Três Dias
 
@@ -1543,7 +1543,7 @@ Caros leitores, que empreendimento grandioso se descortina diante de nós
 
 **Categoria:** mi | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** ミロクの真相 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## A Verdade sobre Miroku e a Transição para o Mundo do Dia
 
@@ -1571,7 +1571,7 @@ Existem budistas que se mantêm passivos e despreocupados, apegando-se à ideia 
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年12月11日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-12-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## A Essência da Fé e a Justa Retribuição
 
@@ -1627,7 +1627,7 @@ Em suma, constitui a verdade que alcança o justo equilíbrio em todas as coisas
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年3月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年2月15日） | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1952-03-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Ilusão da Cura Médica e a Realidade da Dívida Espiritual
 
@@ -1665,7 +1665,7 @@ Atualmente, a sociedade vê com bons olhos o fato de uma religião administrar u
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年3月7日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Verdadeira Cura e a Salvação pela Arte
 
@@ -1705,7 +1705,7 @@ Pois eu irei expor a tigela "Fuji" ao grande público. Perante Deus, monopolizar
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年9月15日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Super-Estultícia da Sociedade Moderna
 
@@ -1777,7 +1777,7 @@ A origem de todo esse estelionato reside nos espíritos malignos. No Mundo Espir
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 関西 巡教 御講話 （S29年4月11日） | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1954-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Luz que Dissipa o Terror Atômico
 
@@ -1819,7 +1819,7 @@ Como já disse anteriormente, a região de Chukyo é de extrema importância par
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年11月11日） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Propósito do Bem e do Mal
 
@@ -1842,7 +1842,7 @@ A verdade é que o mal desempenhou, até o presente momento, um papel de suma im
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年8月7日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Surpreendente Crescimento da Obra Divina e a Limitação do Conhecimento Humano
 
@@ -1902,7 +1902,7 @@ O mesmo se aplica a todas as áreas. Seja na medicina ou na agricultura, as teor
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年4月7日） | **Status:** Published | **Edição/Página:** 33号 | **Data ISO:** 1954-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Soberania Divina e a Missão do Oitavo Salvador
 
@@ -1934,7 +1934,7 @@ Eu pretendia discorrer também sobre as bombas atômica e de hidrogênio, mas de
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年12月16日） | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1954-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Retidão e a Beleza Interior
 
@@ -1976,7 +1976,7 @@ Essa é a razão pela qual afirmo que a Sekaikyuseikyou não é uma religião. N
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年8月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年7月16日） | **Status:** Published | **Edição/Página:** 12号 | **Data ISO:** 1952-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Natureza do Mal e a Nova Era
 
@@ -2006,7 +2006,7 @@ Este outro texto, que trata do cinema, acabou por se tornar uma espécie de hist
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年10月15日） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Realidade da Atuação dos Espíritos Malignos
 
@@ -2034,7 +2034,7 @@ Podem observar: em breve, o mesmo ocorrerá com a penicilina e a estreptomicina.
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年10月15日） | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1952-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Observações sobre o Mundo Pós-Guerra e a Condição do Japão
 
@@ -2082,7 +2082,7 @@ Atualmente, o câncer é uma das maiores aflições nos Estados Unidos, mas sua 
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年4月7日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Salvação do Budismo e a Cura das Doenças da Alma
 
@@ -2132,7 +2132,7 @@ O tratamento da tuberculose está detalhado no livro "Terapia pela Fé", mas ain
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年11月7日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Significado da Luz do Oriente
 
@@ -2164,7 +2164,7 @@ Veja-se o caso das recentes eleições. Nos Estados Unidos, não se fala em “e
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年8月5日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Verdadeira Natureza da Doença e o Engano do Mundo
 
@@ -2206,7 +2206,7 @@ Foi isso que procurei expressar de forma clara nestes escritos.
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年5月15日） | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1953-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre a Repurificação e a Expansão da Fé
 
@@ -2258,7 +2258,7 @@ Portanto, a falta de ar mais severa origina-se na lateral do tronco, próximo à
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年1月6日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Conduta do Crente e a Salvação pela Verdade
 
@@ -2315,46 +2315,6 @@ Como acabaram de ouvir, o ponto central que apresento é que os próprios médic
 Embora o tempo seja escasso, gostaria de acrescentar algo que lhes servirá de referência...
 
 (Leitura do artigo "O Milagre e a Religião")
-
----
-
-# O Alvorecer do Mundo e os Perigos da Medicina
-
-**Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年2月17日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## O Alvorecer do Mundo e os Perigos da Medicina
-
-Recebo frequentes questionamentos sobre o significado da capa da publicação “Salvando a América”, e como é provável que também os senhores sejam inquiridos a esse respeito, explicarei brevemente seu simbolismo. O mundo ingressa, em sua totalidade, na Era do Dia; em outras palavras, o Sol finalmente começou a sua ascensão. Nesse contexto, os Estados Unidos representam uma estrela, e as estrelas brilham apenas durante a escuridão da noite. O significado, portanto, é que o Sol surge em meio à noite sombria. Essa é a interpretação espiritual. Do ponto de vista material, contudo, posicionar a bandeira americana acima da bandeira japonesa é um gesto que agrada aos olhos dos americanos. Embora tenhamos adotado essa disposição por cortesia, a verdade reside no significado que acabo de expor.
-
-A Grã-Bretanha, como sempre digo, corresponde à Lua. Quando a Lua se põe a oeste, sua luz desaparece, permitindo que as estrelas brilhem com mais intensidade. De modo análogo, à medida que o poderio britânico declinava, os Estados Unidos começaram a brilhar no cenário mundial. Agora, com a iminente ascensão do Sol, a luz das estrelas gradualmente se ofuscará. Este é um processo que ainda está por se desdobrar. O Sol, portanto, nasce primeiramente nos Estados Unidos, e esse fenômeno se manifestará de forma cada vez mais concreta.
-
-A Rússia, por sua vez, simboliza o orvalho. Ao amanhecer, antes que o Sol desponte, o orvalho se acumula abundantemente sobre a terra. Contudo, assim que o Sol nasce, ele se dissipa. Inevitavelmente, um fenômeno semelhante se manifestará no cenário mundial. A França representa a névoa, e a Alemanha, a terra. Por essa razão, no futuro, a Alemanha assumirá a liderança na Europa, com a missão de unificá-la. Os acontecimentos do mundo estão, dessa forma, inteiramente refletidos nos fenômenos astronômicos e naturais. Os seres humanos, por sua vez, correspondem às estrelas. Portanto, à medida que a população da Terra aumenta, o número de estrelas também se multiplica. Novas estrelas continuarão a surgir; nos tempos mais remotos, sua quantidade era consideravelmente menor. É por isso que frequentemente se anuncia a descoberta de novos astros; eles estão em constante formação, embora apenas os de maior magnitude sejam identificados. Já escrevi sobre isso anteriormente. Os astros que nomeiam os dias da semana correspondem aos chefes de Estado de cada nação.
-
-A seguir, daremos continuidade à leitura de “O Livro da Revolução da Medicina”. Da última vez, lemos até o quarto capítulo, portanto, hoje leremos o quinto.
-
-(Leitura do Ensinamento “O Livro da Revolução da Medicina”, capítulo “V. Sobre as Cirurgias”)
-
-Gostaria de chamar a atenção para um ponto crucial: a medicina fitoterápica oriental, conhecida como Kampo. Os preparados do Kampo são extremamente tóxicos; arrisco dizer que sua toxicidade supera a dos medicamentos ocidentais. Ademais, as doses costumam ser muito volumosas. Frequentemente, ao questionar um doente — “O senhor deve ter tomado muitos remédios, não é mesmo?” —, recebo a resposta: “Não, eu não tomo tantos remédios assim.” Se insisto, dizendo: “Certamente há algo que o senhor utiliza”, a pessoa pode admitir: “Bem, se isso conta, quando criança tomei alguns chás de ervas.” Ocorre que muitos não consideram esses preparados como medicamentos, chegando a consumi-los em substituição ao chá. No entanto, são precisamente esses preparados que se revelam temíveis.
-
-A comprovação mais evidente surge ao interrogar pessoas de compleição pálida, que invariavelmente consumiram Kampo. Ao perguntar a uma delas: “A senhora já fez uso de Kampo, não fez?”, é comum ouvir: “Apenas um pouco, talvez dois ou três bules de cerâmica.” A verdade, porém, é que um único bule representa uma dose de veneno formidável. A baixa expectativa de vida dos japoneses no passado se deve, em grande parte, ao uso do Kampo. O recente aumento da longevidade, por outro lado, está diretamente relacionado ao abandono dessa prática.
-
-Em contrapartida, os medicamentos ocidentais não costumam afetar tanto a coloração da pele e, em geral, não representam um risco tão direto à vida quanto o Kampo. Todavia, os fármacos ocidentais modernos, como a penicilina, estão se tornando tão perigosos quanto os orientais. A longevidade aumentou por um tempo, mas com o uso contínuo desses novos medicamentos, ela voltará a decrescer. Portanto, são esses novos remédios que representam uma ameaça futura. É preciso compreender que a eficácia de um remédio é diretamente proporcional à sua toxicidade. Diante disso, ao atenderem os doentes, os senhores farão bem em investigar o uso do Kampo.
-
-Historicamente, essa prática sempre foi mais comum nas zonas rurais do que nos centros urbanos. Por essa razão, os habitantes do campo costumavam ter uma aparência doentia, com a pele pálida, acinzentada ou amarelada. Atribuía-se essa condição a uma alimentação frugal, mas a verdadeira causa era o consumo de chás medicinais. Os camponeses sempre mantinham algum tipo de erva medicinal estocada. Além disso, a facilidade de obtê-las — bastando ir às montanhas e colher esta ou aquela planta sem custo algum — incentivava o seu uso. Eles as secavam e as consumiam continuamente, o que resultava na má aparência. Muitos apresentam um inchaço azulado, sintoma clássico de intoxicação por Kampo. As pessoas com esse tipo de inchaço são as mais numerosas. Enquanto o envenenamento por Kampo tende a causar esse inchaço, os medicamentos ocidentais costumam levar ao emagrecimento. A pessoa de aparência azulada e inchada é o exemplo típico do intoxicado por Kampo. Os chineses, desde a antiguidade, têm a pele amarelada. É comum ver chineses com a pele amarela e o corpo robusto, o que também é um reflexo do consumo de Kampo.
-
-Nas mulheres, em particular, a intoxicação por Kampo resulta em uma pele de péssima qualidade, ressecada e sem qualquer brilho. As mulheres de hoje herdam essa condição de suas mães e avós e a agravam com o uso de potentes medicamentos e injeções da medicina ocidental. Para piorar o quadro, os cosméticos modernos contêm substâncias tóxicas. Se no passado o perigo se resumia ao veneno do chumbo no pó de arroz, hoje, a essa toxina se somam os venenos presentes em inúmeros produtos de beleza. Como consequência, a pele das mulheres contemporâneas está terrivelmente danificada. Mesmo as jovens chegam a um ponto em que se sentem incapazes de aparecer em público sem maquiagem. A indústria cosmética, por sua vez, avança cada vez mais. Contudo, é um avanço na arte de dissimular. Com uma camada de produtos, a aparência pode parecer bela, mas isso exige a aplicação de espessas camadas de diversos cosméticos. Nos salões de beleza, recorrem a vapores e toalhas quentes, mas Deus criou a mulher para ser bela sem a necessidade de tantos artifícios.
-
-Atualmente, a nação com a pior qualidade de pele no mundo são os Estados Unidos. Diz-se que a cútis das jovens americanas é extremamente áspera, resultado do uso constante de inúmeros medicamentos e tratamentos. O uso do batom, por exemplo, tornou-se necessário porque a cor natural dos lábios se perdeu. O mesmo se aplica ao blush; é absurdo, pois as bochechas deveriam ser naturalmente rosadas. Tudo isso é resultado do envenenamento medicamentoso. Por isso, as moças de hoje se escravizam cada vez mais aos cosméticos, que chegam a ocupar o primeiro lugar em seus orçamentos. Para uma mulher que se preocupa com a aparência, o ritual de se maquiar torna-se uma verdadeira obsessão. Não é raro que um marido precise esperar uma ou duas horas diante do espelho enquanto a esposa se prepara para sair, um transtorno considerável. É uma situação lastimável, e a raiz de todo esse problema é, invariavelmente, a toxina medicamentosa.
-
-Pode-se afirmar que, no mundo de hoje, não existem verdadeiras beldades. Mesmo na época de Ono no Komachi, embora o Kampo já estivesse presente, seu uso não era tão difundido como agora. Ela, sem dúvida, foi uma mulher de beleza genuína. As seguidoras da Sekaikyuseikyou, no entanto, tornam-se progressivamente mais belas. A razão é simples: ao abandonarem os medicamentos e purificarem o sangue através do Johrei, sua beleza natural aflora. Elas se tornarão ainda mais belas, mas como as toxinas ancestrais ainda persistem, será na geração de suas netas que surgirão mulheres de uma beleza extraordinária. Embora, é claro, seja preferível que a própria pessoa se torne bela em vez de esperar pelas netas…
-
-Em suma, o Kampo é extremamente prejudicial, principalmente devido às grandes quantidades consumidas. Por causa disso, mesmo que uma pessoa receba Johrei, novas toxinas se acumulam continuamente. As toxinas dos medicamentos ocidentais, por outro lado, tendem a se manifestar rapidamente como furúnculos e abscessos, sendo, nesse sentido, mais fáceis de eliminar. Na medicina ocidental, conforme li anteriormente, os desinfetantes são os mais temíveis. Já no Kampo, as ervas mais perigosas são o *gennoshoko* e o *dokudami*. O próprio nome *dokudami* parece derivar de *doku-tame*, que significa “acúmulo de veneno”. Antigamente, as mulheres dos bairros de entretenimento consumiam chá de *dokudami* continuamente, em substituição ao chá comum. É por isso que, sem maquiagem, sua compleição era tão ruim; a causa era o veneno desses preparados. As mulheres, em geral, consomem muito mais Kampo que os homens, utilizando produtos como o Chujoto (中将湯) e outros similares. A beleza feminina, portanto, é imensamente prejudicada por essa prática. Sendo assim, ao ministrarem Johrei, informem aos doentes que, quanto maior a quantidade de Kampo que consumiram no passado, mais tempo o processo de purificação levará. Ter essa compreensão fará uma grande diferença nos resultados.
-
-Agora, lerei um artigo que escrevi de uma forma um pouco mais interessante.
-
-(Leitura do Ensinamento “O Herói da Paz”)
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Categoria:** sasshi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Ensaios do Mestre Jikan Okada
 ## A Questão da Tuberculose e sua Solução (Primeira Edição)
@@ -675,7 +675,7 @@ Sendo assim, iludir-se com um resultado positivo temporário e, depois, sofrer c
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Ensaios do Mestre Okada Jikan
 ## A Evolução do Ukiyo-e e da Gravura — Uma análise a partir do Museu de Arte de Hakone —
@@ -865,7 +865,7 @@ As gravuras de Hiroshige, tanto em sua atmosfera quanto em sua paleta de cores, 
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikanshi – Registro dos Colóquios de Luz, nº 1
 
@@ -1070,8 +1070,8 @@ Existem dois tipos de manchas de nascença: pretas e vermelhas. As pretas são c
 # Coletânea de Artigos do Mestre Okada Jikan – A Redescoberta da Vida
 
 **Categoria:** sasshi | **Ano:** 昭和28(1953)年8月26日 | **Fonte:** 箱 根美術館特別展パンフレット
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-08-26
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 人生の再発見 編者のことば | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-08-26
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 箱 根美術館特別展パンフレット
 
 ## Coletânea de Artigos do Mestre Okada Jikan – A Redescoberta da Vida
 ### Palavra do Editor
@@ -1106,8 +1106,8 @@ Por fim, gostaria de salientar que a apresentação desta obra, especialmente no
 # hikariha
 
 **Categoria:** sasshi | **Ano:** 昭和29(1954)年8月15日 | **Fonte:** Hikariは大地に
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-08-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 光は大地に 麻生 鋭 著 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1954-08-15
+**Coletânea:** Publicações Relacionadas | **Tipo:** - | **Fonte (JP):** 光は大地に
 
 ――― Publicações Relacionadas ―――
 

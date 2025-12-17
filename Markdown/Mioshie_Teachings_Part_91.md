@@ -1,10 +1,30 @@
 # Mioshie_Teachings - Part 91
 
+# Publicações Relacionadas
+
+**Categoria:** kanren | **Ano:** 昭和25年 | **Fonte:** -
+**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1950
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
+
+## Publicações Relacionadas
+
+Kouhou (光宝) (Edição nº 3)
+Boletim da Associação Kouhou da Igreja Kannon (観音) do Japão
+
+Publicado em 1º de janeiro de 1950
+Formato A5, 64 páginas
+
+Edição: Departamento Juvenil da Associação Kouhou
+Publicação: Associação Kouhou
+Local de Publicação: Sede Central da Associação Kouhou da Igreja Kannon (観音) do Japão
+
+---
+
 # Rescue Rescue: O Livro da Salvação
 
 **Categoria:** kanren | **Ano:** 昭和30年 | **Fonte:** 明主様の御教え
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** - | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1955
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 明主様の御教え
 
 ## Rescue Rescue: O Livro da Salvação
 
@@ -55,7 +75,7 @@ Deus e os Budas Existem?
 
 **Categoria:** kanren | **Ano:** 昭和26年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Correlatas
 
@@ -78,8 +98,8 @@ Imprensa Religiosa do Japão
 # A Morada da Pobreza (I)
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録４号 | **Status:** Published | **Edição/Página:** ４号, 4号 | **Data ISO:** 1949
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## A Morada da Pobreza (I)
 
@@ -592,7 +612,7 @@ Por isso, não tinha como perceber que uma das ações da Kannon de Mil Braços 
 
 **Categoria:** kanren | **Ano:** 昭和39年 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1964
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 Publicações Correlatas à Coletânea de Artigos do Mestre Okada Jikanshi
 
@@ -614,7 +634,7 @@ Coletânea de Palestras do Presidente Takeda Mitsuo
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## A Luz sobre a Terra — Mahiru (Pleno Dia)
 
@@ -1072,8 +1092,8 @@ Formato B6 | Preço: 150 ienes
 # Publicações Relacionadas — Impressões sobre Meishu-Sama
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 教祖の印象 大場さち子 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Publicações Relacionadas — Impressões sobre Meishu-Sama
 
@@ -1109,8 +1129,8 @@ Quando a conversa se voltou para a fé, um brilho singular acendeu-se nos olhos 
 # Sobre a Doutrina Kannon
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 観音教について 遠藤慎吾 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Sobre a Doutrina Kannon
 **Endo Shingo, de sua obra "Crítica à Religião Messiânica", publicado em 25 de setembro de 1951 pela editora Nihon Shūkyō Shimbunsha**
@@ -1155,7 +1175,7 @@ Contudo, mesmo ao ouvir o nome imponente de Igreja Messiânica Mundial, a design
 
 **Categoria:** kanren | **Ano:** 昭和30年1月1日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1955-01-01
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** Obras Correlatas | **Tipo:** - | **Fonte (JP):** -
 
 ――― Obras Correlatas ―――
 
@@ -1179,8 +1199,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # A Criação de Filhos Saudáveis (Jornal Eikou, n.º 95, de 14 de março de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Criação de Filhos Saudáveis (Jornal Eikou, n.º 95, de 14 de março de 1951)
 
@@ -1189,8 +1209,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # O SER HUMANO, UM RECEPTÁCULO PARA A SAÚDE (Coletânea Jikan, Volume 10, ‘O Método Divino da Saúde’, publicado em 20 de abril de 1950)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O SER HUMANO, UM RECEPTÁCULO PARA A SAÚDE (Coletânea Jikan, Volume 10, ‘O Método Divino da Saúde’, publicado em 20 de abril de 1950)
 
@@ -1199,8 +1219,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # O QUE É A MORTE? (Extraído do “Esboço de um Tratado sobre a Medicina” — obra inédita de 1939 —, Primeira Parte: A Composição de Todas as Coisas no Universo)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O QUE É A MORTE? (Extraído do “Esboço de um Tratado sobre a Medicina” — obra inédita de 1939 —, Primeira Parte: A Composição de Todas as Coisas no Universo)
 
@@ -1209,8 +1229,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # A Dissecação das Toxinas (Do livro ‘Terapia da Fé para a Tuberculose’, publicado em 1º de dezembro de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Dissecação das Toxinas (Do livro ‘Terapia da Fé para a Tuberculose’, publicado em 1º de dezembro de 1952)
 
@@ -1219,8 +1239,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # AS TRÊS TOXINAS (Extraído de “O Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## AS TRÊS TOXINAS (Extraído de “O Evangelho do Paraíso”, 5 de fevereiro de 1947)
 
@@ -1229,8 +1249,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # As Causas dos Acidentes (Publicado no Jornal Glória, nº 165, em 16 de julho de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## As Causas dos Acidentes (Publicado no Jornal Glória, nº 165, em 16 de julho de 1952)
 ## A Purificação
@@ -1240,8 +1260,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # Terapia Natural (Coletânea das Preleções sobre a Arte Médica Japonesa, Primeira Parte, texto de 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Terapia Natural (Coletânea das Preleções sobre a Arte Médica Japonesa, Primeira Parte, texto de 1936)
 
@@ -1250,8 +1270,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # O que é o Resfriado? (Extraído de “A Verdadeira Natureza da Tuberculose”, publicado em 23 de novembro de 1943)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O que é o Resfriado? (Extraído de “A Verdadeira Natureza da Tuberculose”, publicado em 23 de novembro de 1943)
 
@@ -1260,8 +1280,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # Os Pontos Cegos da Medicina e os Poderes Benéficos da Natureza (Jornal Paraíso Terrestre, nº 26, publicado em 25 de julho de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Os Pontos Cegos da Medicina e os Poderes Benéficos da Natureza (Jornal Paraíso Terrestre, nº 26, publicado em 25 de julho de 1951)
 
@@ -1270,8 +1290,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # A Verdadeira Causa das Doenças (Extraído da publicação “O Evangelho do Céu”, de 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Verdadeira Causa das Doenças (Extraído da publicação “O Evangelho do Céu”, de 5 de fevereiro de 1947)
 
@@ -1280,8 +1300,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # A Verdadeira Causa da Doença Está na Alma (Extraído do “Registro de Palestras sobre a Arte da Terapia Japonesa” – Volume 1, escrito em 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Verdadeira Causa da Doença Está na Alma (Extraído do “Registro de Palestras sobre a Arte da Terapia Japonesa” – Volume 1, escrito em 1936)
 
@@ -1290,8 +1310,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # O Banho Interno (Revista Kyusei, nº 147, publicada em 12 de março de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Banho Interno (Revista Kyusei, nº 147, publicada em 12 de março de 1952)
 
@@ -1300,8 +1320,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # A Causa das Doenças e a Mácula do Pecado (Extraído de “A Nova Medicina Japonesa”, escrito em 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Causa das Doenças e a Mácula do Pecado (Extraído de “A Nova Medicina Japonesa”, escrito em 1936)
 
@@ -1310,8 +1330,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # As Toxinas dos Medicamentos (I)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## As Toxinas dos Medicamentos (I)
 (Extraído de “Ensaio sobre Medicina”, obra inédita de 1939, do segundo volume: “A Doença”)
@@ -1321,8 +1341,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # Admoestações dos Espíritos Ancestrais (Extraído de *O Evangelho do Paraíso*, publicado em 5 de fevereiro de 1947)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Admoestações dos Espíritos Ancestrais (Extraído de *O Evangelho do Paraíso*, publicado em 5 de fevereiro de 1947)
 
@@ -1331,8 +1351,8 @@ Morishita-cho, 1-9, Koto-ku, Tóquio – Japão
 # Sobre a Purificação Equilibrada (Jornal Kyusei, nº 59, publicado em 22 de abril de 1950)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Sobre a Purificação Equilibrada (Jornal Kyusei, nº 59, publicado em 22 de abril de 1950)
 
@@ -1349,8 +1369,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # Sou um Cientista da Religião (Publicado no Jornal Eikô, nº 255, em 7 de abril de 1954)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Sou um Cientista da Religião (Publicado no Jornal Eikô, nº 255, em 7 de abril de 1954)
 
@@ -1359,8 +1379,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # A Precedência do Espiritual sobre o Físico (O Princípio da Soberania do Espírito sobre a Matéria, da “Coletânea de Milagres da Sekaikyuseikyou”, publicado em 10 de setembro de 1953)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Precedência do Espiritual sobre o Físico (O Princípio da Soberania do Espírito sobre a Matéria, da “Coletânea de Milagres da Sekaikyuseikyou”, publicado em 10 de setembro de 1953)
 
@@ -1369,8 +1389,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # O Corpo Espiritual e o Corpo Físico (O Espírito e o Corpo; da “Coletânea de Milagres da Igreja Messiânica Mundial”, edição de 10 de setembro de 1953)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O Corpo Espiritual e o Corpo Físico (O Espírito e o Corpo; da “Coletânea de Milagres da Igreja Messiânica Mundial”, edição de 10 de setembro de 1953)
 
@@ -1379,8 +1399,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # O PODER ABSOLUTO (Publicado na revista "Kyusei" n.º 139, em 16 de janeiro de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O PODER ABSOLUTO (Publicado na revista "Kyusei" n.º 139, em 16 de janeiro de 1952)
 
@@ -1389,8 +1409,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # ARTE MÉDICA ESPIRITUAL (Extraído da Coletânea “Ashita no Ijutsu – Terceira Parte”, publicada em 23 de outubro de 1943)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## ARTE MÉDICA ESPIRITUAL (Extraído da Coletânea “Ashita no Ijutsu – Terceira Parte”, publicada em 23 de outubro de 1943)
 
@@ -1399,8 +1419,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # MINHA LUZ (Publicado na revista “Paraíso Terrestre”, edição 36, em 25 de maio de 1952)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## MINHA LUZ (Publicado na revista “Paraíso Terrestre”, edição 36, em 25 de maio de 1952)
 
@@ -1409,8 +1429,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # Quem é o Salvador? (Inédito, 20 de outubro de 1948)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Quem é o Salvador? (Inédito, 20 de outubro de 1948)
 
@@ -1419,8 +1439,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # O papel de parteira da civilização mundial (O que é a Verdadeira Civilização? – Extraído do jornal “Paraíso Terrestre”, ed. 31, de 25 de dezembro de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## O papel de parteira da civilização mundial (O que é a Verdadeira Civilização? – Extraído do jornal “Paraíso Terrestre”, ed. 31, de 25 de dezembro de 1951)
 
@@ -1429,8 +1449,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # Uma Análise Filosófica da Nossa Arte Terapêutica (Ashita no Ijutsu (Primeira Edição), Volume II, publicado em 28 de setembro de 1942)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## Uma Análise Filosófica da Nossa Arte Terapêutica (Ashita no Ijutsu (Primeira Edição), Volume II, publicado em 28 de setembro de 1942)
 
@@ -1439,8 +1459,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # A Verdadeira Ciência da Nutrição (Dos "Registros das Preleções sobre a Arte Médica do Japão", Primeira Parte, 14. Redigido no 10º ano da Era Showa, 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Verdadeira Ciência da Nutrição (Dos "Registros das Preleções sobre a Arte Médica do Japão", Primeira Parte, 14. Redigido no 10º ano da Era Showa, 1936)
 
@@ -1449,8 +1469,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # A Doença e a Natureza Humana (A Nova Medicina do Japão, 1936)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## A Doença e a Natureza Humana (A Nova Medicina do Japão, 1936)
 
@@ -1459,8 +1479,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # ORGULHO E EQUÍVOCO (Jornal Glória, edição 111, publicado em 4 de julho de 1951)
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Chijo Tengoku
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** FACTS SPEAK ELOQUENTLY （事実は雄弁なり | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** 地上天国
 
 ## ORGULHO E EQUÍVOCO (Jornal Glória, edição 111, publicado em 4 de julho de 1951)
 ## NUTRIÇÃO
@@ -1470,8 +1490,8 @@ Portanto, é imperativo que os fiéis de nossa Igreja compreendam profundamente 
 # Coletânea de Teses do Mestre Okada Jikanshi – Registro dos Ensinamentos Orais, nº 13
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年10月21日 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-10-21
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録13号 | **Status:** Published | **Edição/Página:** 13号, 13号 | **Data ISO:** 1949-10-21
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Teses do Mestre Okada Jikanshi – Registro dos Ensinamentos Orais, nº 13
 
@@ -2090,8 +2110,8 @@ Ademais, conforme indicado, segue um trecho da nota do editor da revista "Paraí
 # Coletânea de Teses do Mestre Jikan Okada – Registro de Ensinamentos Orais Nº 4
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御光話録４号 | **Status:** Published | **Edição/Página:** ４号, 4号 | **Data ISO:** 1949
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro de Ensinamentos Orais Nº 4
 
@@ -2536,7 +2556,7 @@ Há críticas de que a escabiose é prevalente em nossa Igreja, mas isso é resu
 
 **Categoria:** sasshi | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** -
 
 ## Coletânea de Teses do Mestre Okada Jikanshi – A Verdadeira Natureza da Tuberculose (Publicado em 23 de novembro de 1943)
 
@@ -2905,8 +2925,8 @@ Nesse sentido, dirijo-me não apenas ao governo, mas também aos especialistas e
 # Coleção de Teses de Mestre Jikan Okada — Registro de Orientações Divinas, nº 18
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-03-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録18号 | **Status:** Published | **Edição/Página:** 18号, 18号 | **Data ISO:** 1953-03-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coleção de Teses de Mestre Jikan Okada — Registro de Orientações Divinas, nº 18
 
@@ -3095,8 +3115,8 @@ Desde dezenas ou centenas de milhares de anos atrás, diversos povos têm vindo 
 # sosyo05
 
 **Categoria:** sasshi | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1949-08-30
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 自観隨談 自観叢書第5篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-08-30
+**Coletânea:** Coleção de Ensaios do Mestre Okada Jikan | **Tipo:** - | **Fonte (JP):** 自観隨談
 
 ――― Coleção de Ensaios do Mestre Okada Jikan ―――
 Reflexões de Jikan
@@ -3655,7 +3675,7 @@ Editora: Nijusseiki Shuppan Insatsu Gōshi-gaisha
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** Shinko Zatsuwa
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 信仰雑話
 
 ## Coleção de Teses do Mestre Okada Jikanshi — Registro dos Sagrados Ensinamentos, nº 2
 Publicado em 8 de janeiro de 1949 (24º ano da era Showa)

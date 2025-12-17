@@ -1,10 +1,651 @@
 # Mioshie_Teachings - Part 35
 
+# A Verdadeira Natureza das Cardiopatias e da Hipertensão Arterial
+
+**Categoria:** shi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 心臓病及高血圧 ・病患と医学の誤謬六 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
+
+## A Verdadeira Natureza das Cardiopatias e da Hipertensão Arterial
+
+No campo da medicina, as cardiopatias são geralmente classificadas em angina pectoris, valvulopatias e hipertrofia cardíaca, entre outras.
+
+A angina pectoris manifesta-se por meio de crises súbitas, caracterizadas por uma dor lancinante e uma sensação de compressão que se espalha por todo o tórax, acompanhadas de intensa dificuldade respiratória. O sofrimento é indescritível, tornando-a uma enfermidade verdadeiramente temível. Embora os casos mais graves possam levar ao óbito em uma única crise, a maioria dos pacientes se recupera momentaneamente. A causa reside nas toxinas que se acumulam ao redor do coração e que, em decorrência do primeiro processo de purificação, exercem sobre ele uma forte pressão centrípeta. A cura espontânea é improvável, e os tratamentos médicos, como as injeções, proporcionam apenas um alívio temporário. Contudo, por meio de nosso método terapêutico, é possível alcançar a cura definitiva com facilidade.
+
+As valvulopatias, por sua vez, compartilham a mesma causa da angina pectoris em seus quadros mais graves. Todavia, como o primeiro processo de purificação ocorre de forma mais lenta, não há uma dor tão intensa. Os sintomas predominantes são palpitações, pulso irregular e uma leve dificuldade respiratória. Já nos casos mais brandos, o acúmulo de toxinas na região das costelas, tanto na parte frontal quanto posterior próxima ao coração, ou nas adjacências do diafragma, gera uma febre baixa decorrente da purificação, a qual acaba por sobrecarregar o coração.
+
+Quanto à hipertrofia cardíaca, embora possa ocorrer em raras ocasiões, na grande maioria dos casos trata-se de um diagnóstico médico equivocado. O que provavelmente ocorre é que os médicos confundem os nódulos de toxinas solidificadas nas proximidades do coração com um aumento do próprio órgão. A verdadeira hipertrofia cardíaca acomete apenas pessoas que consomem bebidas alcoólicas em excesso e atletas, sendo praticamente inexistente em indivíduos comuns. Ademais, esses acúmulos de toxinas, por meio da purificação natural, são frequentemente eliminados sob a forma de expectoração, conduzindo à cura.
+
+Passemos agora à hipertensão arterial. Recentemente, sua incidência tem sido elevada, sobretudo a partir da meia-idade. Afirma-se que os hipertensos são mais propensos à hemorragia cerebral, mas a realidade não é tão taxativa quanto a medicina alega. Embora nem todos os hipertensos venham a sofrer de tal condição, é fato que, estatisticamente, a ocorrência é maior nesse grupo do que entre aqueles com pressão baixa.
+
+Conforme expliquei anteriormente, a causa da hemorragia cerebral reside no acúmulo de toxinas em ambos os lados da região cervical (próximo às glândulas parótidas) e na área do bulbo raquidiano. A origem da hipertensão arterial, entretanto, encontra-se em pontos distintos desses quatro locais. Na verdade, ela é provocada por toxinas solidificadas em uma área um pouco mais à frente, precisamente abaixo das amígdalas. Essa massa comprime a artéria que se conecta ao braço, razão pela qual o medidor de pressão arterial registra valores elevados.
+
+Para fornecer uma prova contundente do que afirmo, apresentarei um caso bastante ilustrativo. Há alguns anos, um senhor de aproximadamente sessenta anos, com uma pressão arterial de trezentos, procurou-me. Ele me relatou: "Minha pressão talvez seja superior a trezentos, pois o aparelho sempre atinge o limite máximo de medição". O mais notável é que, apesar de apresentar uma hipertensão tão severa, ele frequentava sua empresa diariamente havia cinco ou seis anos, desde a descoberta da condição, sem jamais ter manifestado qualquer anormalidade. Este fato demonstra de maneira inequívoca que as origens da hemorragia cerebral e da hipertensão arterial são distintas. A propósito, aquele homem havia trabalhado como copista por trinta anos, o que lhe causou um enrijecimento considerável na artéria mencionada. A causa, portanto, era inteiramente essa rigidez.
+
+---
+
+# O Método Divino para a Saúde
+
+**Categoria:** shi | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
+**Título Original:** 序文 （神示の健康法） 自観叢書10編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-04-20
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
+
+## O Método Divino para a Saúde
+
+Há mais de vinte anos, venho me dedicando à Sagrada Obra de Salvação da Humanidade. Contudo, não se trata de uma empreitada que iniciei por minha própria consciência ou que tenha planejado. Deus escolheu a minha pessoa para me revelar a causa fundamental dos equívocos, das injustiças e da ignorância presentes em todas as facetas da cultura e me incumbir da retificação de todas as coisas.
+
+Embora a cultura moderna tenha alcançado um progresso surpreendente e irradie um brilho ofuscante, no que concerne à saúde — a maior causa da infelicidade humana —, gostaria de dizer que em nada nos diferenciamos dos povos da Antiguidade; na verdade, a realidade é que chegamos a retroceder. O mais grave, porém, é que ninguém sequer questiona tal estado de coisas. Pelo contrário, o fato de se incorrer no equívoco de acreditar que houve progresso constitui um problema de magna importância.
+
+Observai: a tuberculose, as doenças infecciosas, a debilidade infantil, as enfermidades mentais, a paralisia infantil, os parasitas, a neurastenia e tantas outras moléstias continuam a grassar desenfreadamente. Suas variedades tendem a aumentar ano após ano, e constantemente se noticia a falta de hospitais. Diante disso, eu pergunto: onde está o progresso da medicina? A rigor, o verdadeiro progresso médico se manifestaria quando o número de doenças diminuísse anualmente; quando os hospitais, por escassez de pacientes, enfrentassem dificuldades administrativas; e quando a venda de medicamentos decrescesse gradualmente. Todavia, não se vislumbra nem mesmo um vestígio de tal realidade. Não, o que ocorre é justamente o inverso. Sendo assim, o que se considera progresso não passa de uma ilusão. Ademais, é fato que, em decorrência disso, a tendência é de aumento, e não de diminuição, do número geral de pessoas sem saúde.
+
+Refletindo-se criteriosamente sobre o exposto, conclui-se que o progresso da medicina é, na realidade, meramente superficial e periférico. Fomos apenas ofuscados pela beleza de sua aparência exterior, enquanto ela se distanciava milhas de sua essência fundamental, como já mencionado. Acima de tudo, existe na medicina o termo “tratamento sintomático”. Consiste em métodos como resfriar a febre com gelo, aliviar temporariamente a dor com anestésicos ou extirpar cirurgicamente órgãos enfermos. Todos esses não passam de paliativos, adotados por se desconhecer por completo a verdadeira causa da doença. Do nosso ponto de vista, uma vez que qualquer enfermidade surge a partir de uma causa que a justifique, a descoberta dessa causa deveria ser a essência da medicina. Contudo, por não a terem descoberto, veem-se obrigados a recorrer a meios bárbaros como a extirpação de órgãos enfermos. Isso, portanto, não é arte médica; é um simples método para o alívio temporário do sofrimento. Consequentemente, a verdadeira medicina é aquela capaz de eliminar a doença em si, preservando intactos e em sua forma original os órgãos concedidos por Deus, sem danificá-los minimamente.
+
+Pois bem, eu não apenas logrei êxito na descoberta dessa verdadeira arte médica, que se assemelha a um sonho, como também venho, no presente, obtendo resultados concretos e progressivos.
+
+Este livro, nesse sentido, tem por objetivo elucidar o verdadeiro método para a saúde, o qual se baseia, evidentemente, na revelação Divina.
+
+20 de março de 1950
+O Autor
+
+---
+
+# A Problemática do Declínio Populacional
+
+**Categoria:** shi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 人口問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
+
+## A Problemática do Declínio Populacional
+
+Em sua essência, a questão populacional já afligia, de modo indistinto, todas as nações civilizadas desde antes da Segunda Guerra Mundial, que se viam atormentadas pela inquietante diminuição de suas taxas de crescimento. Tal cenário representava, tanto para os governantes como para os cidadãos mais conscientes, uma fonte de apreensão da qual não podiam se esquivar, pois o desfecho de tal problema acena, inexoravelmente, com o temível destino da extinção de um povo. Contudo, com a eclosão do conflito mundial, essa preocupação foi temporariamente relegada a um segundo plano, por força das circunstâncias. Agora, com o fim da guerra, é inevitável que ela ressurja. Na verdade, pode-se prever que se tornará uma questão ainda mais premente, uma vez que as nefastas consequências do conflito certamente acelerarão essa tendência.
+
+Sendo assim, qual era a dinâmica demográfica das principais nações antes da Grande Guerra? Segundo a pesquisa da britânica Enid Charles, se as taxas de natalidade e mortalidade no Reino Unido continuarem a decrescer em conjunto como até agora, a população atual de aproximadamente quarenta e seis milhões de habitantes será reduzida a menos de um décimo desse valor em cem anos, chegando a apenas quatro milhões e quatrocentos mil. De forma análoga, as estimativas do renomado demógrafo alemão Burgdörfer indicam que, por volta do ano 2050, daqui a cerca de cento e dez anos, a população da Alemanha terá diminuído para aproximadamente vinte e cinco milhões. Isso representa uma drástica redução para quase dois quintos de sua população atual, que é de sessenta e sete milhões. E quanto ao Japão? De acordo com os cálculos do Dr. Tomonaga Nakagawa, uma autoridade em estatística, a população de 73.939.278 registrada em 1940, mantendo o mesmo ritmo de crescimento, atingiria um ápice de cerca de cento e vinte milhões em sessenta anos. A partir desse ponto, começaria a declinar, caindo para cento e dez milhões em 1985 e, segundo os cálculos, chegaria a zero em quinhentos anos. Por conseguinte, o Reino Unido teria quatrocentos e quarenta mil habitantes em duzentos anos, e a Alemanha, um milhão e seiscentos mil em quinhentos e cinquenta anos.
+
+Embora as estatísticas apresentadas sejam de fato implacáveis, elas retratam uma realidade inegável. No entanto, segundo minhas próprias estimativas, a crise se manifestará de forma ainda mais célere do que esses dados sugerem. Isso porque a causa fundamental para a redução da taxa de crescimento populacional reside no avanço da medicina moderna. Enquanto a humanidade não despertar para este equívoco, a intensificação da crise é uma consequência natural.
+
+Com efeito, um fenômeno tão ininteligível como o declínio da taxa de crescimento populacional começou a manifestar-se a partir do século XIX. Antes do século XVIII, salvo por razões específicas em algumas nações, é improvável que todos os povos civilizados tivessem enfrentado, em uníssono, um problema dessa natureza. Se tal tendência tivesse começado em alguma época anterior ao século XVIII, essas nações já teriam enfrentado a extinção ou um destino muito próximo a ela, e jamais teriam alcançado o desenvolvimento que as posicionou como líderes mundiais. Faço essa suposição, ademais, por não existirem estatísticas completas em nenhum país antes daquele século.
+
+O primeiro questionamento que se deve levantar a respeito deste problema é o seguinte: se a queda na taxa de crescimento populacional teve início no alvorecer do século XIX, é de se supor que algum método, inexistente antes do século XVIII, tenha sido aplicado em larga escala a todos os povos civilizados em um período não muito anterior. O cerne da questão reside, portanto, em identificar a verdadeira natureza desse método. Evidentemente, sua aplicação generalizada só foi possível porque se acreditava, sem sombra de dúvida, em sua eficácia. Todavia, é plausível considerar que algo tido como benéfico, mesmo que apresente resultados positivos por alguns anos ou décadas, possa, a longo prazo, converter-se em prejuízo. A fraqueza humana, contudo, reside no fato de que, uma vez que se acredita em algo, mesmo que surjam fenômenos contrários, uma forte ideia preconcebida pode impedir que se perceba a verdade.
+
+Pois bem, eu logrei desvendar esse enigma. Encontrei a chave para o mistério. Mas qual seria essa chave? Antes de revelá-la, apresentarei um panorama da dinâmica demográfica atual em diversas nações do mundo.
+
+### A Dinâmica Populacional em Diversas Nações
+
+Tomemos, a título de exemplo, a dinâmica demográfica da França. Mesmo nesse país, no início do século XIX, a taxa de natalidade era consideravelmente alta. Entre 1801 e 1810, era de 32,4; de 1811 a 1820, 31,8; e de 1821 a 1830, 31,0. Contudo, no período de 1831 a 1840, caiu abaixo da marca de 30,0, para 29,0. A partir de então, seguiu-se uma trajetória de declínio contínuo, chegando a uma drástica redução para 25,0 na época da Guerra Franco-Prussiana, em 1870. Antes da Primeira Guerra Mundial, a taxa era de aproximadamente 19, mas entre 1914 e 1919, caiu vertiginosamente para 12,4. Embora tenha havido uma leve recuperação no pós-guerra, registrando 21,4 em 1920 e 19,4 entre 1921 e 1925, a tendência de queda foi retomada, culminando no estado lastimável de 14,6 em 1938. A esse respeito, o sociólogo Lavoisier, em sua teoria da seleção social, aponta diversas causas, mas destaca a infertilidade fisiológica como a principal. É crucial notar que esse declínio populacional na França começou por volta de 1834.
+
+Embora as estatísticas mostrem que o número de nascimentos no início do século XIX, em 1801, era de novecentos mil, e em 1926 e 1931, de setecentos e cinquenta mil e setecentos e trinta mil, respectivamente, a diferença possa não parecer tão grande, a verdade é que esses números devem ser analisados em proporção ao crescimento da população total. Em 1801, houve novecentos mil nascimentos para uma população de vinte e sete milhões; em 1926, setecentos e cinquenta mil para quarenta milhões; e em 1931, setecentos e trinta mil para quarenta e um milhões e oitocentos mil. Tais dados revelam a gravidade do declínio da taxa de natalidade. A seguir, apresento a evolução dessa taxa.
+
+| Período | Média de Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1801–1810 | 329 |
+| 1811–1820 | 318 |
+| 1821–1830 | 306 |
+| 1831–1840 | 288 |
+| 1841–1850 | 273 |
+| 1851–1860 | 261 |
+| 1861–1870 | 262 |
+| 1871–1880 | 254 |
+| 1881–1890 | 239 |
+| 1891–1900 | 231 |
+| 1901–1910 | 206 |
+| 1911–1920 | 153 |
+| 1921–1925 | 193 |
+| 1926 | 188 |
+| 1931 | 174 |
+
+A diminuição da taxa de natalidade nos países civilizados não é, de modo algum, um fenômeno exclusivo da França. Hoje, pode ser considerada uma lei universal. O motivo pelo qual essa questão se tornou proeminente na França foi o fato de o declínio ter se manifestado ali mais cedo, já no início do século XIX. As nações que antes viam a situação francesa como um problema distante, agora se deparam com uma realidade semelhante. Vejamos a seguir a situação de outros países europeus.
+
+A taxa de natalidade no Reino Unido é a seguinte:
+
+| Período | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1841–1850 | 326 |
+| 1851–1860 | 342 |
+| 1861–1870 | 352 |
+| 1871–1880 | 355 |
+| 1881–1890 | 325 |
+| 1891–1900 | 299 |
+| 1901–1910 | 272 |
+| 1911–1915 | 241 |
+| 1916–1920 | 201 |
+| 1921–1925 | 199 |
+| 1926 | 178 |
+| 1930 | 168 |
+*Fonte: Tese do Professor Shirras.*
+
+Até o período de 1871 a 1880, a taxa de natalidade seguia uma trajetória ascendente, mas, a partir de então, inverteu sua direção, iniciando uma queda acelerada. De 355, caiu para 241 antes da guerra, chegando a 178 em 1926 e a 168 em 1930. No intervalo de meio século, entre 1871-1880 e 1926, o declínio foi contínuo, reduzindo a taxa a menos da metade. Comparada à queda francesa, a velocidade britânica é aproximadamente duas vezes e meia mais rápida, visto que a França sofreu uma redução de pouco mais de 40% em cento e vinte e cinco anos (1801-1926). Esse fato causou grande alarme no Reino Unido, a ponto de o jornal *The Times* declarar: "A queda da taxa de natalidade, característica marcante das estatísticas demográficas britânicas desde o início deste século, persiste, e seu ritmo parece acelerar-se cada vez mais". As estatísticas mais recentes do Reino Unido são igualmente pessimistas:
+
+| Ano | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1921 | 224 |
+| 1922 | 204 |
+| 1923 | 197 |
+| 1924 | 188 |
+| 1925 | 183 |
+| 1926 | 178 |
+
+Como se pode observar, em 1926, a taxa de natalidade do Reino Unido já era inferior à da França (188).
+
+Vejamos agora a Alemanha.
+
+| Período | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1841–1850 | 361 |
+| 1851–1860 | 353 |
+| 1861–1870 | 372 |
+| 1871–1880 | 391 |
+| 1881–1890 | 368 |
+| 1891–1900 | 368 |
+| 1901–1910 | 330 |
+| 1911–1915 | 285 |
+| 1916–1920 | 179 |
+| 1921–1925 | 219 |
+
+Até o período de 1871 a 1880, a taxa de natalidade vinha aumentando gradualmente, mas, a partir de então, iniciou uma queda bastante acentuada. De 391, caiu para 330 no início do século XX. Contudo, como a nação estava acostumada a uma natalidade vigorosa, essa queda súbita não foi levada a sério. O Sr. Dietzel encarou-a com ceticismo; o Sr. Wagner, em 1907, atribuiu-a a uma maré baixa temporária; e o Sr. Firlkus considerou-a um erro de cálculo estatístico. Os estudiosos alemães simplesmente não acreditavam no declínio. A realidade, entretanto, continuou a impor sua queda, que chegou a 276 em 1913. Isso significava que a Alemanha havia perdido um terço de sua taxa de natalidade em quarenta anos.
+
+A situação no pós-guerra foi a seguinte:
+
+| Ano | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1921 | 253 |
+| 1922 | 229 |
+| 1923 | 208 |
+| 1924 | 202 |
+| 1925 | 204 |
+
+No período de 1871 a 1925, a taxa de natalidade caiu de 391 para 204. Ou seja, em meio século, o país perdeu quase metade (48%) de sua taxa de natalidade, e esse declínio tem sido sistemático. A velocidade da queda é duas vezes e meia superior à da França.
+
+Passemos à Itália.
+
+| Ano | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1861–1870 | 371 |
+| 1871–1880 | 370 |
+| 1881–1890 | 376 |
+| 1891–1900 | 349 |
+| 1901–1910 | 327 |
+| 1911–1915 | 328 |
+| 1916–1920 | 229 |
+| 1921–1925 | 291 |
+
+A Itália também apresenta o fenômeno do declínio da natalidade, embora não de forma tão acentuada quanto no Reino Unido ou na Alemanha. Contudo, a queda recente tem sido bastante notável.
+
+| Ano | Nascimentos por 10.000 Habitantes |
+| :--- | :--- |
+| 1921 | 303 |
+| 1923 | 293 |
+| 1924 | 282 |
+| 1925 | 275 |
+
+A tendência de queda persistiu, chegando a 251 em 1929. Diante disso, o governo italiano emitiu um grande alerta à nação, afirmando que, se a taxa de natalidade continuasse a diminuir nesse ritmo, o país enfrentaria uma grave crise no final do século XX, e passou a incentivar vigorosamente o aumento da população. De todo modo, em aproximadamente quarenta anos, até 1925, a Itália perdeu um quarto de sua taxa de natalidade.
+
+Ademais, o Sr. Rabinowicz apresenta estatísticas sobre a Bélgica, Suécia e Noruega, demonstrando também o declínio da natalidade. A taxa de natalidade da Bélgica caiu 40% em cerca de oitenta anos. A Suécia seguiu um caminho semelhante ao da França, com sua taxa de natalidade reduzida pela metade em um século. Na Noruega, o declínio começou mais tarde do que na Suécia, mas o país perdeu 40% em dez anos. A Suíça, por sua vez, perdeu 40% de sua taxa de natalidade em meio século (1875-1926).
+
+Voltemos agora nosso olhar para outros continentes. Qual a situação na Austrália e na Nova Zelândia?
+
+| Ano | Austrália | Nova Zelândia |
+| :--- | :--- | :--- |
+| 1913 | 282 | 261 |
+| 1914 | 279 | 260 |
+| 1915 | 271 | 252 |
+| 1916 | 266 | 259 |
+| 1921 | 250 | 233 |
+| 1922 | 247 | 232 |
+| 1923 | 238 | 219 |
+| 1924 | 232 | 216 |
+| 1925 | 229 | 212 |
+| 1926 | 220 | 211 |
+| 1927 | 217 | 203 |
+| 1928 | 213 | 196 |
+| 1929 | 203 | 190 |
+
+Ambos os países perderam mais de 30% de sua taxa de natalidade em apenas dezesseis anos. Mesmo as nações de população branca do Hemisfério Sul, com realidades sociais completamente distintas das europeias, não são exceção à regra do declínio da natalidade.
+
+Com base nas estatísticas dessas várias nações, o Sr. Rabinowicz conclui que o declínio da taxa de natalidade é um fenômeno observado em todos os países e povos do mundo.
+
+E quanto aos Estados Unidos? Como o registro de nascimentos não é feito de maneira uniforme em todo o país, não há dados diretos que mostrem o declínio da taxa de natalidade em âmbito nacional. No entanto, é possível ter uma ideia geral da tendência ao subtrair o número de imigrantes da população total em cada censo e comparar o resultado com a população do censo anterior para calcular a taxa de crescimento. Por esse método, observa-se um declínio da natalidade desde 1880. Os dados mais recentes das áreas de registro também mostram uma queda ano a ano, como se vê na tabela a seguir.
+
+| Ano | Nascimentos por 1.000 Habitantes |
+| :--- | :--- |
+| 1920–1921 | 24,0 |
+| 1923 | 22,5 |
+| 1924–1925 | 22,0 |
+| 1926 | 20,6 |
+| 1927 | 20,6 |
+| 1928 | 19,8 |
+| 1929 | 18,9 |
+| 1930 | 18,9 |
+*Fonte: Shirras, "The Population Problem in India", Economic Journal, Mar., 1933, p. 63.*
+
+No que tange à América do Sul, por ora só dispomos de dados da Argentina. Nesse país, a média anual de nascimentos entre 1910 e 1914 era de 38,9 por mil habitantes, com uma taxa de crescimento natural esplêndida de 20,8. No entanto, entre 1934 e 1938, a taxa de natalidade caiu para 25,0, e a de crescimento natural, para 12,5.
+
+E o nosso Japão?
+
+| Ano | Nascimentos por 1.000 Habitantes |
+| :--- | :--- |
+| 1911–1915 | 33,5 |
+| 1916–1920 | 33,0 |
+| 1921–1925 | 34,6 |
+| 1926 | 34,6 |
+| 1927 | 33,6 |
+| 1928 | 34,4 |
+| 1929 | 33,0 |
+| 1930 | 32,4 |
+| 1931 | 32,1 |
+
+O período de 1916 a 1920 foi influenciado pela Guerra Mundial. Em 1919 (9º ano da Era Taisho), a taxa atingiu seu ponto mais baixo, com 31,6. No ano seguinte, talvez por uma reação, chegou a 36,2, estabelecendo o recorde do país. A flutuação da taxa de natalidade nesse período foi observada em todas as nações do mundo. Portanto, se analisarmos o quadro geral, excluindo esse intervalo, veremos que a taxa de natalidade no Japão mostrou uma tendência de aumento até o final da Era Taisho, para depois iniciar um declínio na Era Showa. Conforme já mencionado, enquanto todos os países ditos civilizados do mundo vêm apresentando uma tendência de queda na taxa de natalidade há cem anos, no caso dos pioneiros, e há quarenta ou cinquenta anos, no caso dos demais, o Japão era o único a mostrar um aumento, fato que tem chamado a atenção dos estudiosos.
+
+Diante do exposto, pode-se afirmar que o declínio da taxa de natalidade se tornou uma regra geral nos países civilizados. A tabela a seguir demonstra a magnitude dessa queda nas principais nações.
+
+| País | Período (anos) | Percentual de Queda da Natalidade |
+| :--- | :--- | :--- |
+| França | 120 | 45% |
+| Reino Unido | 50 | 50% |
+| Alemanha | 50 | 50% |
+| Itália | 40 | 25% |
+| Bélgica | 90 | 40% |
+| Suécia | 100 | 50% |
+| Noruega | 70 | 40% |
+| Suíça | 50 | 40% |
+
+Em suma, a França apenas deu o primeiro passo. Todos os outros países, com maior ou menor celeridade, seguiram o mesmo caminho. Hoje, alguns já a alcançaram, e outros até a ultrapassaram.
+
+A época em que a taxa de natalidade da França era excepcionalmente baixa já pertence ao passado. Os tempos mudaram, e a situação atual nos países europeus é a seguinte (dados de 1929):
+
+| País | Nascimentos |
+| :--- | :--- |
+| França | 177 |
+| Noruega | 173 |
+| Suíça | 171 |
+| Áustria | 167 |
+| Reino Unido | 167 |
+| Suécia | 152 |
+
+O declínio da taxa de mortalidade acompanha o da taxa de natalidade na maioria dos países, mas, como a queda da natalidade é invariavelmente maior, a taxa de crescimento populacional diminui. Vejamos as estatísticas da França como exemplo.
+
+| Ano | Mortes por 10.000 Habitantes | Excedente de Nascimentos |
+| :--- | :--- | :--- |
+| 1801–1810 | 286 | 73 |
+| 1811–1820 | 260 | 53 |
+| 1821–1830 | 248 | 58 |
+| 1831–1840 | 247 | 42 |
+| 1841–1850 | 232 | 41 |
+| 1851–1860 | 237 | 24 |
+| 1861–1870 | 235 | 27 |
+| 1871–1880 | 237 | 17 |
+| 1881–1890 | 221 | 18 |
+| 1891–1900 | 215 | 16 |
+| 1901–1910 | 194 | 12 |
+| 1913 | 176 | 15 |
+
+Até 1913, a taxa de mortalidade sofreu uma queda considerável de 39%, mas, como a taxa de natalidade caiu ainda mais, o excedente de nascimentos foi afetado. Do final do século XIX ao início do século XX, esse excedente tornou-se tão insignificante que houve anos com mais mortes do que nascimentos, o que levou, com razão, os intelectuais franceses a bradarem sobre a extinção de seu país. Em 1938, a nação registrou um déficit de aproximadamente cento e trinta mil pessoas.
+
+Por fim, vejamos novamente as estatísticas de nosso país.
+Atingindo um pico de 36,19 por mil habitantes em 1919, a taxa de natalidade entrou em declínio, e a taxa de mortalidade seguiu a mesma tendência.
+
+| Ano | Taxa de Natalidade | Taxa de Mortalidade |
+| :--- | :--- | :--- |
+| 1919–1923 | 34,82 | 24,47 |
+| 1924–1928 | 33,62 | 19,42 |
+| 1929–1933 | 31,67 | 17,87 |
+| 1934–1936 | 25,74 | 17,30 |
+
+Com base no exposto, compreende-se que o declínio da taxa de crescimento populacional se tornou uma regra de ferro, sem exceções, em todas as nações. As contramedidas adotadas até hoje pelos diversos países, como a redução da idade para o casamento e a proibição da contracepção e do aborto, são, contudo, métodos paliativos. Embora possam ter algum efeito, serão incapazes de reverter a tendência geral. Tudo o que existe tem uma causa e um efeito; portanto, não é preciso dizer que, para este problema também, não há solução fundamental senão a eliminação de sua causa.
+
+### A Causa Fundamental do Declínio Populacional
+
+Com base nas estatísticas apresentadas, creio que a tendência atual da questão populacional mundial tenha sido compreendida. Em resumo, tudo se resume a dois pontos:
+
+1. O declínio da taxa de crescimento começou na Europa em meados do século XIX e, no Japão, após 1921.
+2. A causa do declínio paralelo da taxa de mortalidade e da taxa de crescimento.
+
+Analisemos a fundo esses dois itens.
+
+Afirmo categoricamente que a causa do primeiro ponto é a prática da vacinação contra a varíola, que a humanidade tem considerado como uma espécie de salvação.
+
+Como é de conhecimento geral, a vacinação foi descoberta por Edward Jenner, nascido em 1749 em Berkeley, Inglaterra, e falecido em 1823. Filho de um clérigo, obteve sua licença médica em Londres em 1792. Por volta de 1710, já se sabia que moças gregas, ao introduzirem uma agulha nas pústulas de doentes de varíola e injetarem o pus em sua própria pele, contraíam uma forma branda da doença. Jenner, partindo desse conhecimento, descobriu que a varíola bovina poderia substituir a humana. Em 14 de maio de 1796, ele inoculou a varíola bovina no braço de seu próprio filho para confirmar o sucesso do método e, em 1798, publicou oficialmente sua técnica de vacinação.
+
+No Japão, a vacina chegou em 1849 (2º ano da Era Kaei). Em 1858 (5º ano da Era Ansei), foi inaugurado o Instituto de Vacinação, que mais tarde se tornou o Instituto de Medicina Ocidental, e a vacinação começou a ser gradualmente aplicada à população em geral.
+
+Mas por qual razão a vacinação confere imunidade à temível varíola? Explicarei a seguir.
+
+O fato de a vacinação impedir o desenvolvimento da doença pode ocorrer por duas razões: ou a toxina da varíola é eliminada, ou, embora a toxina permaneça, algum fator impede sua manifestação. Primeiramente, é preciso compreender esses dois mecanismos. O ser humano já nasce com diversas toxinas hereditárias congênitas, como as da varíola, do sarampo e da coqueluche. A toxina da varíola, em particular, é temida por sua natureza maligna. A manifestação da varíola ocorre devido à ação purificadora natural do corpo humano. Através dessa ação, a toxina da varíola é impelida para fora, acumulando-se sob a pele em todo o corpo. Ela é, portanto, pressionada de dentro para fora, o que resulta nas erupções cutâneas. A prova disso é que cada pústula se rompe, liberando o pus. A febre alta que acompanha o processo é uma ação de dissolução natural para facilitar a eliminação da toxina.
+
+A vacinação, por sua vez, age precisamente para paralisar essa ação de eliminação natural da toxina, ou seja, para enfraquecer o processo de purificação. Em outras palavras, ela negativiza o que é positivo. Assim, a toxina da varíola, ao perder sua força de expulsão e se tornar negativa – a que chamarei de toxina negativizada –, permanece no corpo. E o que acontece com essa toxina negativa residual? Ela se acumula e se solidifica em diversas partes do organismo, não apenas se tornando a origem de várias doenças, mas também debilitando as funções corporais como um todo. Isso resulta em um enfraquecimento geral da constituição física e, notadamente, atinge a taxa de fertilidade feminina, tornando-se, assim, a causa da questão populacional.
+
+Esse fato é claramente demonstrado pelas estatísticas demográficas. Na Europa, o declínio começou após a descoberta da vacina. Como os dados mostram, a França foi a primeira, manifestando os sinais de redução da taxa de crescimento trinta a quarenta anos após a introdução da vacina. No Reino Unido, os sinais surgiram após cerca de setenta a oitenta anos. O Japão seguiu um padrão muito semelhante ao europeu, com os primeiros sinais aparecendo aproximadamente cinquenta a sessenta anos após a implementação da vacinação em massa.
+
+Ao explicar como a toxina negativizada da varíola se torna a causa de todas as doenças, gostaria de expor, antes de tudo, o erro fundamental em que a medicina se baseou até hoje e como ela tem confundido avanços periféricos com verdadeiro progresso.
+
+Primeiramente, o que é, afinal, a doença?
+Talvez não haja questão que tenha atormentado tanto a mente humana ao longo dos tempos quanto "o que é a doença?". Na tentativa de desvendar esse enigma, milhares e milhares de médicos e pesquisadores em todo o mundo dedicaram suas vidas, e, ainda assim, até hoje, ninguém o solucionou. Segundo as teorias atuais, a medicina oriental a define como um desequilíbrio na harmonia dos cinco órgãos e seis vísceras, enquanto a medicina ocidental se baseia na teoria da degenerescência celular de Virchow e na teoria dos germes de Koch, na Alemanha, e Pasteur, na França. Portanto, todas as teorias até hoje consideram a enfermidade, de forma unânime, como a "destruição da saúde", algo que, em última instância, leva à perda da vida. Na religião, ela tem sido vista como uma "advertência de Deus" ou um "castigo pelos pecados e impurezas". Consequentemente, a doença sempre foi encarada como algo a ser temido, lamentado e amaldiçoado.
+
+Minha tese, contudo, é de que a doença é algo a ser abençoado e recebido com alegria, pois constitui a maior graça que Deus concede ao ser humano, além de ser um processo fisiológico natural. É através da doença que a saúde humana é mantida e a longevidade é prolongada. Por isso, devemos ser gratos a ela.
+
+Imagino que qualquer leitor, ao se deparar com essa afirmação, não poderá deixar de se surpreender com sua natureza inesperada. Contudo, tenho a convicção de que, à medida que prosseguirem com a leitura dos tópicos seguintes, quem quer que seja acabará por anuir.
+
+---
+
+# O Johrei como Transfusão Sanguínea
+
+**Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
+**Título Original:** 浄霊は輸血なり 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
+
+## O Johrei como Transfusão Sanguínea
+
+A medicina contemporânea considera a transfusão de sangue um recurso terapêutico indispensável, chegando ao ponto de criar os chamados “bancos de sangue”, onde se armazena o sangue extraído de seres humanos. Tal prática, sob nossa ótica, constitui um disparate que beira o ridículo. A causa fundamental para tal equívoco reside na impotência da ciência materialista, que, por desconhecer a verdade de que o sangue é a materialização do espírito, não encontra outra alternativa. Conforme venho sempre afirmando, cinco minutos de Johrei produzem efeito análogo ao de uma transfusão sanguínea. Nesse sentido, poder-se-ia dizer que o Johrei representa o mais avançado método de transfusão existente.
+
+Recentemente, um caso exemplar que corrobora essa afirmação foi-nos relatado, conforme se segue. Trata-se de um paciente cuja enfermidade, diagnosticada pela Faculdade de Medicina de Nagoia como uma doença raríssima, sem precedentes no Japão, foi considerada intratável pela ciência médica, sendo o doente consequentemente desenganado. A referida moléstia consiste, em essência, na mais maligna forma de anemia. A recuperação de um caso de tamanha gravidade por meio do Johrei constitui, portanto, um verdadeiro milagre do século.
+
+Costumo afirmar que a medicina moderna não passa de um artifício pueril, mas creio que a realidade seja talvez ainda mais grave. Isso porque, longe de ser meramente ineficaz, ela pode ser qualificada como uma prática nociva. Embora tal afirmação possa parecer excessivamente severa, ela descreve a realidade dos fatos, e não há como negá-la. E, caso o leitor duvide destas palavras, convido-o a vir à nossa Igreja e a examinar os fatos por si mesmo.
+
+---
+
+# A Causa da Infertilidade e o Declínio Populacional
+
+**Categoria:** shi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
+**Título Original:** 人口問題と本療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
+
+## A Causa da Infertilidade e o Declínio Populacional
+
+A difusão generalizada de nossa terapia oferece a solução para a grave questão do declínio populacional, um dos maiores motivos de apreensão para a nação em nossos dias.
+
+A causa primordial da infertilidade reside, como já explicitado em outras ocasiões, na atrofia renal. Tal condição acarreta uma deficiência hormonal que, por sua vez, provoca um enfraquecimento da função sexual, constituindo-se na verdadeira origem da diminuição da capacidade de conceber. Essa realidade não se restringe, de modo algum, ao sexo feminino; acomete igualmente os homens.
+
+No caso específico das mulheres, a atrofia renal leva à solidificação de toxinas urêmicas no peritônio. Esse processo comprime as trompas de Falópio e provoca o deslocamento do útero – como nos casos de retroversão e anteversão –, o que representa um grande obstáculo à concepção.
+
+Portanto, quadros como a frigidez ou a aversão ao cônjuge manifestada por certas mulheres são, invariavelmente, consequências da atrofia renal. O mesmo se aplica à condição que a medicina diagnostica como hipoplasia uterina, cuja origem é precisamente essa.
+
+Nesse sentido, com a recuperação da saúde dos rins, não apenas a gravidez se torna uma possibilidade concreta, como também se restabelece a harmonia conjugal. É, pois, inevitável que problemas lamentáveis como os conflitos familiares e o divórcio diminuam drasticamente.
+
+Sou compelido a fazer uma afirmação que poderá soar como autoelogio, mas a verdade é que, à parte desta arte de curar, a chave para a solução do problema populacional jamais será encontrada.
+
+---
+
+# O Grande Voto para a Salvação da Humanidade
+
+**Categoria:** shi | **Ano:** 昭和10(1935)年 | **Fonte:** 日本医術講義録
+**Título Original:** 序論 人類救済の大本願 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 日本医術講義録
+
+## O Grande Voto para a Salvação da Humanidade
+
+Os sofrimentos da humanidade, em sua essência, podem ser resumidos em três grandes calamidades: a doença, a pobreza и o conflito. Dentre essas três, contudo, nenhuma é tão profunda e severa quanto o flagelo da doença. Não seria exagero afirmar que a causa primordial da pobreza reside, na maioria das vezes, na própria doença. Da mesma forma, pode-se dizer que os inúmeros conflitos no mundo originam-se quase sempre de questões econômicas. Portanto, se um mundo livre de enfermidades — um mundo onde não houvesse doentes — viesse a se manifestar, todos os sofrimentos seriam solucionados. Tal acontecimento representaria, verdadeiramente, o maior evangelho jamais anunciado à humanidade.
+
+Todavia, é natural que um plano tão audacioso, que nem mesmo Shakyamuni ou Cristo ousaram empreender, seja considerado um mero delírio. Essa percepção, no entanto, nasce de uma visão aprisionada aos milhares de anos de história passada.
+
+No entanto, ao perscrutarmos essa mesma história com maior profundidade, descobriremos que as profecias de inúmeros sábios, grandes vultos e fundadores de religiões descrevem com clareza a vinda do Paraíso Terrestre, o advento da Era de Miroku e o surgimento do Messias. Apenas o momento de sua concretização permanecia oculto.
+
+Eis que o tempo determinado por Deus chegou, e a concretização das inúmeras profecias aproxima-se de nós. O Grande Mundo de Luz está prestes a ser edificado. As desgraças e calamidades da humanidade cessarão, e chegou o momento em que o ser humano romperá seu invólucro semibestial para alçar-se à sua verdadeira condição de coroa de toda a Criação. A Arte de Cura Japonesa constitui o alicerce deste plano Divino, único e eternamente glorioso, sendo ela, em si, a manifestação do grande e sagrado voto da Bodhisattva Kannon (観音).
+
+---
+
+# A Alvorada da Era do Dia
+
+**Categoria:** shi | **Ano:** 昭和29(1954)年2月10日 | **Fonte:** Eikou
+**Título Original:** 浄霊は科学療法なり（２） | **Status:** Published | **Edição/Página:** 247号 | **Data ISO:** 1954-02-10
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Alvorada da Era do Dia
+
+A essência solar à qual me referi anteriormente é, inegavelmente, o espírito do Sol. Contudo, a razão pela qual ela não se manifestou na Terra até os dias de hoje reside em um profundo mistério, que passarei a elucidar.
+
+Conforme já explanei, assim como o ser humano é constituído pelos elementos primordiais do espírito e da matéria, o planeta Terra também se compõe de duas faces: o Mundo Espiritual e o Mundo Material. Por sua vez, o Mundo Espiritual é formado por dois princípios elementares: um em que o espírito predomina sobre a matéria e outro em que a matéria predomina sobre o espírito, correspondendo, respectivamente, ao yang e ao yin.
+
+Sob este princípio, a essência do Sol e a essência da Lua unem-se indissoluvelmente para nutrir o planeta, de modo análogo a um pai e uma mãe que cooperam na criação de seus filhos. É dessa trindade formada pelo Sol, pela Lua e pela Terra que emana a força da Natureza, por meio da qual tudo no Universo é gerado e se desenvolve. Eis a verdade sobre o cosmos. E, como o ser humano é o soberano no centro de toda essa criação, ele ocupa a mais alta posição entre todos os seres, abaixo apenas de Deus. Por este motivo, todas as coisas existem em função do homem e não possuem outro propósito senão o de sustentá-lo.
+
+Essa é a relação entre o ser humano e o Universo. Todavia, em meio a essa realidade cósmica, uma extraordinária transmutação se aproxima. Trata-se de um prodígio sem precedentes na história: o mundo, que até hoje esteve imerso na Era da Noite, prepara-se para adentrar a Era do Dia. O momento atual é precisamente a alvorada dessa transição.
+
+Sei que, ao ouvir tal afirmação, a maioria das pessoas certamente ficará perplexa, sem compreender seu significado. Provavelmente, contestarão: “Mas o dia e a noite não ocorrem apenas no ciclo de vinte e quatro horas? Associá-los a eras históricas é um disparate completo!”. E, com um sorriso de desdém, descartarão a ideia. Tal reação é compreensível. Eu mesmo, se não conhecesse a verdade, certamente partilharia da mesma opinião. Todavia, tendo recebido este conhecimento por meio de revelação divina, não me resta alternativa senão crer. E, por se tratar da mais pura verdade, estou convicto de que uma leitura atenta deste texto levará qualquer um à sua plena compreensão.
+
+Conforme mencionado, o mundo do espírito, onde predomina o fogo, e o mundo da matéria, onde predomina a água, fundem-se em uma união harmoniosa para constituir a atmosfera que envolve a Terra. O ciclo de dia e noite que percebemos com nossos cinco sentidos é, por assim dizer, um ciclo físico. É preciso compreender, contudo, que existe também um ciclo espiritual de dia e noite, o qual transcende o tempo. Este é o ponto de maior relevância, o grande mistério do Universo.
+
+Esse ciclo espiritual é como uma expansão infinita do dia e da noite materiais. Essa transição, embora imperceptível aos seres humanos, assim como o vácuo, flui em um ritmo constante e ordenado, manifestando-se em ciclos de pequena, média e grande duração — de dez, cem, mil ou dez mil anos. Cada um desses períodos é regido pelos números três, seis e nove, que somam dezoito, revelando a estrutura fundamental do Universo. A este respeito, a profecia de Shakyamuni sobre a chegada do Reino de Miroku após cinco bilhões e seiscentos e setenta milhões de anos, se interpretada literalmente, torna-se tão longa a ponto de carecer de sentido prático. Na verdade, ela nada mais é que uma alusão a esses números cósmicos.
+
+Retomando o ponto central, a Era da Noite, que se finda, foi regida pela Lua. A Lua representa a água e a matéria; por isso, foi um tempo em que a civilização material floresceu. Em contrapartida, a Era do Dia será regida pelo Sol. O Sol representa o fogo, o espírito, e, portanto, será um tempo de elevação espiritual. Se classificarmos esses princípios em termos de bem e mal, a matéria corresponde ao mal, e o espírito, ao bem. Esta é a verdade. Consequentemente, o mundo até agora viveu sob a predominância do mal sobre o bem, mas está prestes a transicionar para uma civilização onde o bem predominará sobre o mal.
+
+Foi essa preponderância do mal que deu origem ao mundo infernal em que vivemos. Se tal condição persistisse, levaria inevitavelmente à ruína da humanidade. A própria invenção da bomba atômica é um sinal disso. A profundidade da Providência Divina é algo que a limitada inteligência humana jamais poderá sondar. Diante do exposto, os rumos futuros do mundo tornam-se mais claros. A profecia de Cristo sobre o “fim dos tempos” e a proximidade do “Reino dos Céus” refere-se exatamente a esta transição. A minha missão de erradicar a doença, a pobreza e o conflito constitui a condição fundamental para a concretização desse novo mundo. E a base para tudo isso é a eliminação da doença. Por essa razão, Deus me outorgou a chave para tal solução, e é por isso que, no momento, dedico-me primordialmente a resolver a questão das enfermidades.
+
+Como se pode depreender, esta grande Providência Divina é um feito extraordinário, sem precedentes, que resultará em uma revolução na civilização e, por conseguinte, no nascimento de uma segunda era. Trata-se de uma revelação tão assombrosa que, para muitos, a mera leitura deste texto pode não ser suficiente para uma compreensão imediata, deixando-os em um estado de perplexidade. Contudo, a realidade é irrefutável, e o tempo urge. É imperativo que todos despertem para esta verdade o quanto antes.
+
+Há aqui outro ponto de suma importância. Ao longo do extenso desenvolvimento da civilização material, sob a égide da predominância do mal sobre o bem, acumulou-se uma vasta quantidade de pecados e máculas. No ser humano, essas impurezas manifestam-se no corpo como yakudoku (薬毒) e no espírito como nódoas geradas pelo mal. Com o aumento do elemento fogo no Mundo Espiritual, a ação purificadora se intensifica, culminando em um acerto de contas definitivo.
+
+Se considerarmos que este é o “Juízo Final” anunciado por Cristo, torna-se evidente que todos deverão atravessar essa provação. Fracassar nela significará, para qualquer indivíduo, a perdição eterna. E não sou eu quem afirma isto agora; inúmeros santos e sábios o profetizaram há milênios. Crer ou não é uma escolha pessoal, mas, no presente momento, em que manifesto milagres que servem como prova irrefutável de minhas palavras, não deveria haver margem para dúvida.
+
+---
+
+# O Inferno Neste Mundo
+
+**Categoria:** shi | **Ano:** 昭和28(1953)年4月8日 | **Fonte:** Eikou
+**Título Original:** 地獄の娑婆 | **Status:** Published | **Edição/Página:** 203号 | **Data ISO:** 1953-04-08
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## O Inferno Neste Mundo
+
+Conforme ensinou o Buda Sakyamuni, este mundo é uma casa em chamas, um verdadeiro inferno. Tal realidade é amplamente demonstrada pelos fatos que se desenrolam diante de nossos olhos. O relato de fé que se segue descreve a trajetória de uma senhora casada que, carregando a responsabilidade por sua família, enfrenta uma luta árdua e extenuante. É uma narrativa que, de fato, não se pode ler sem lágrimas.
+
+Pessoas em semelhante infortúnio existem aos incontáveis milhares no mundo de hoje. Sempre que me deparo com cartas como esta, sinto-me impelido a agir. Contudo, de nada adianta apenas lamentar. Normalmente, sem a convicção de que é possível salvar, nada se pode fazer. Nossa Igreja, todavia, possui essa convicção e é capaz de conduzir essas almas sofredoras ao Paraíso. Por essa razão, sinto o dever inadiável de salvar o maior número possível de pessoas.
+
+Ao investigarmos a fundo, percebemos que a causa, sem exceção, reside na doença. Portanto, a cura das enfermidades é o ponto crucial; fora dela, não existe caminho para a salvação fundamental. No entanto, as pessoas em geral acreditam que as doenças só podem ser curadas pela medicina convencional. A realidade, porém, é que, apesar de despenderem fortunas, obtêm apenas alívios temporários, sem alcançar a cura em sua essência. É verdadeiramente lastimável que não se deem conta desse fato.
+
+Diante de tal panorama, torna-se evidente que, se nossa Igreja não tivesse surgido, a humanidade continuaria a gemer no abismo do sofrimento. Assim, é inegável que nossa fé representa a última e definitiva salvação concedida por Deus.
+
+***
+
+**Salva do sofrimento infernal, sigo agora pelo caminho da luz**
+*Sra. Fujiko Ebata (35 anos), Igreja Nyo-i-rin de Oita*
+
+Meishu-Sama, com a mais profunda humildade, venho expressar minha gratidão pela proteção que Vós concedeis diariamente a uma pessoa tão repleta de máculas como eu. Ao recordar o passado, uma torrente de emoções inunda meu peito, e não sei por onde começar meu relato. Ainda assim, permiti que eu Vos relate, ainda que seja apenas um fragmento de meus pensamentos, tomando a liberdade de registrar estas palavras.
+
+Minha família de origem descende de um ramo secundário, estabelecido quando meus avós receberam uma modesta herança. Desde jovem, meu avô sofria de asma e possuía uma saúde muito frágil. Os filhos que nasciam eram sempre meninas, e a tragédia se repetia: nasciam e morriam, nasciam e morriam. Em pouco tempo, a herança se esvaiu. Das nove crianças, apenas duas sobreviveram: uma delas, minha mãe; a outra, a mãe de meu esposo.
+
+Minha mãe também se casou com um noivo adotado e teve sete filhos. Contudo, como se fosse um lar de profundo carma, o segundo filho faleceu de convulsões aos dois meses de idade, e a filha mais velha morreu afogada aos três anos. Nesse mesmo período, dois cavalos da família também morreram. Os cinco filhos restantes cresceram com saúde, mas, em julho de 1937, com o início do Incidente da China, meu esposo foi um dos primeiros convocados para a guerra. Foi por ocasião dessa convocação que firmamos nosso noivado. Na mesma época, meu irmão ingressou na empresa A. A partir daí, teve início a sucessão de infortúnios de minha família.
+
+No ano seguinte, em junho, pouco após sair para o trabalho, ao tentar lubrificar uma máquina, o motor foi acionado subitamente. Num piscar de olhos, a parte de trás de sua cabeça foi completamente arrancada, e ele teve morte instantânea.
+
+Ao recebermos a notícia da empresa, ficamos paralisados, boquiabertos, incapazes até mesmo de chorar. Era a época da colheita do trigo, e meu pai e meu terceiro irmão, deixando para trás o trabalho e o coração pesaroso, partiram para Osaka a fim de buscar as cinzas. Acolhidos por funcionários da empresa e levados ao hospital, deparamo-nos com uma cena desoladora. A imagem de sua partida, tão cheia de vigor, havia desaparecido. Sua cabeça e seu rosto estavam envoltos em bandagens, restando visíveis apenas os olhos, o nariz e a boca. Soubemos depois que, por estar o crânio vazio, a parte posterior fora preenchida com algodão para que o rosto não se desfigurasse.
+
+Após uma cerimônia de despedida organizada com grande esmero pela empresa, ele retornou ao lar, seis dias depois, em um triste cortejo. Nosso infortúnio, contudo, soprava como um vento inclemente. Logo chegou a época do plantio do arroz, e uma nova desgraça se abateu sobre nossa família: o problema matrimonial de meu irmão mais velho. Ele se casou por duas, três vezes, mas nenhuma união prosperou, e ele acabou se divorciando, ficando com um filho que possuía uma deficiência nas pernas. A partir de então, perdi a conta de quantas vezes chorei ao lado de minha mãe, cuidando daquele bebê.
+
+Por volta de junho de 1942, meu irmão mais novo, que trabalhava na prefeitura da província, foi acometido por uma gripe que o deixou acamado. Sua condição piorava a cada dia. Diagnosticado com pleurisia e infiltração no pulmão direito, buscamos desesperadamente todo tipo de médico e remédio, mas em março do ano seguinte, ele faleceu. Eu me perguntava se não existiam deuses ou budas neste mundo, e passei a amaldiçoar a vida, nutrindo um profundo ressentimento.
+
+Quando pensávamos ter finalmente escapado das garras da desgraça, mal tivemos tempo de respirar e, em junho, durante o plantio do arroz, meu irmão mais velho começou a se queixar de mal-estar e de cuspir sangue com catarro. Pensei: “Será que vai acontecer de novo?”. Naquele ponto, já era tarde demais. Ele era seguidor da “Seicho-no-Ie” e recusou-se a consultar um médico. Em apenas quatro meses, também partiu. A solidão de ver meus irmãos desaparecerem um após o outro era um sentimento indizível.
+
+Enquanto isso, eu passei sete anos, o auge de minha juventude, em meio ao luto familiar, esperando por um homem cujo paradeiro era incerto. Minha única alegria era receber, ocasionalmente, uma carta do front, enquanto me dedicava à agricultura ao lado de meu pai. Ao ver meus pais envelhecerem tão rapidamente, não encontrava palavras para consolá-los.
+
+Em meio a essa vida de escuridão, a primavera finalmente pareceu chegar. No final de novembro de 1943, uma data que jamais esquecerei, meu esposo retornou subitamente para ingressar na escola de oficiais. Foi um acontecimento tão inesperado, e com a dor ainda tão viva em nossos corações, que me senti invadida por uma mistura de alegria e perplexidade. Celebramos o casamento às pressas e parti com ele para Tóquio.
+
+Vivemos juntos por apenas nove meses, mas para mim, aquele período foi verdadeiramente a flor da minha vida. Essa alegria, no entanto, foi efêmera. Logo recebi a notícia da morte de meu pai. Com tantas desgraças consecutivas, eu já nem conseguia chorar. Creio que somente quem passou por algo semelhante pode imaginar o que senti. Noites e dias em que meu travesseiro amanhecia encharcado... Peço que imaginem meu estado de espírito naquela época.
+
+Após a formatura, meu esposo recebeu ordens do Estado-Maior para servir na ilha de Iwo Jima, no arquipélago de Ogasawara. Ao saber disso, senti-me como se tivesse sido lançada no fundo do inferno. Mas, sendo ele um militar, não havia o que fazer. Despedimo-nos com o coração apertado e retornei, por ora, para a casa de meus pais.
+
+No mês de março seguinte, a batalha em Iwo Jima tornou-se feroz e, por fim, a guarnição foi aniquilada. Embora eu estivesse preparada para o pior, a dimensão da tragédia me fez desabar em pranto, sem me importar com os olhares alheios. Foram as palavras gentis de consolo dos vizinhos que me fizeram recobrar a consciência e lembrar que carregava um filho de nove meses no ventre. Pensei na tristeza daquela criança que nasceria sem conhecer o rosto do pai e jurei ao meu falecido esposo que, por maiores que fossem as dificuldades, eu a criaria para ser uma pessoa admirável.
+
+Em abril, dei à luz um bebê saudável, e minha alegria era vê-lo crescer forte. Porém, minha mãe foi diagnosticada com câncer de fígado e ficou de cama. Em meio aos severos ataques aéreos, não pude cuidar dela como gostaria e, no final de maio, ela também faleceu. Eu me vi completamente perdida, sem saber como seguir adiante. Em apenas quatro anos, cinco entes queridos haviam partido.
+
+Apegando-me ao meu filho como única razão para viver, e sem ter para onde ir, passei a morar com minha família. Mas até quando duraria meu infortúnio? Apenas a visão de meu filho crescendo, alheio a tudo, me fazia esquecer o cansaço do dia. Quando ele completou um ano e começou a dar seus primeiros passos, notei que havia algo de estranho em seu andar. Levei-o imediatamente ao médico e recebi o terrível diagnóstico de poliomielite. Buscamos todos os recursos, de médicos a medicamentos, mas a doença não regrediu e, por fim, deixou-o com uma deficiência.
+
+Com um filho com necessidades especiais nos braços, eu não conseguia trabalhar. O futuro se tornou uma imensa escuridão. Diante da minha própria miséria, eu havia desistido de tudo e vivia um dia de cada vez. No entanto, sentia um forte desejo de encontrar um caminho de fé, mas não sabia como. Foi em meio a essa angústia que, por uma circunstância providencial, fui acolhida neste caminho de salvação.
+
+A alegria que senti naquele momento é indescritível. Salva do abismo do desespero, senti uma felicidade imensa e um profundo pesar por não ter conhecido este caminho antes, pois talvez pudesse ter evitado a morte de meus pais. Hoje, sirvo a Deus com a esperança de que, o mais breve possível, meus familiares das casas Ebata e Kuge recebam a permissão de Meishu-Sama e ingressem na fé, e com a alegria de ver meus antepassados sendo salvos. Meu único prazer é ver meu filho crescer saudável.
+
+Recebi a permissão de auxiliar na Obra Divina de Meishu-Sama e passei a servir na Igreja. Obtive também a permissão de participar das orações matinais e vespertinas, e, recebendo Johrei diariamente com meu filho, temos recuperado a saúde graças às abençoadas purificações da misericórdia Divina. Sinto-me imensamente honrada por receber Johrei do ministro da Igreja no Altar e também por poder ministrá-lo aos membros que nos visitam. Meu coração transborda de gratidão.
+
+Como um dos servos de Deus, recebo a permissão de trabalhar a cada dia, mas me sinto consternada por não conseguir servir como gostaria. A cada leitura dos Escritos Divinos, compreendo mais profundamente o poder absoluto de Meishu-Sama e quão maravilhosa é esta religião, com seu sublime ideal de construir o Paraíso na Terra. E a cada palavra de incentivo do ministro, minha fé se aprofunda.
+
+Meishu-Sama, agradeço do fundo do coração pela grandiosa proteção concedida a mim e a meu filho, seres tão repletos de máculas e impurezas, e sou imensamente grata por me permitir auxiliar, ainda que minimamente, na construção do Paraíso Terrestre.
+
+Meishu-Sama, muito obrigada.
+
+---
+
+# O Verdadeiro Fundamento da Saúde
+
+**Categoria:** shi | **Ano:** 昭和11(1936)年5月6日 | **Fonte:** Kenko
+**Título Original:** 新日本医術に依る健康法 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-05-06
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 健康
+
+## O Verdadeiro Fundamento da Saúde
+
+Em que consiste, afinal, o método de saúde que estabeleci, alicerçado na Nova Arte Médica Japonesa? Poder-se-ia resumi-lo, de forma sucinta, como a prática de não se preocupar com as chamadas "leis da saúde". Paradoxalmente, a própria obsessão em seguir preceitos de higiene e em adaptar a vida a regras de bem-estar acaba, na maioria das vezes, por se contrapor ao objetivo almejado. Isto ocorre porque o alicerce de tais concepções se afasta progressivamente do que é natural. Até hoje, o ser humano tem sido visto como um "receptáculo de doenças", propenso a adoecer e com dificuldades para se curar. É com base nessa visão que se ergueram as normas de higiene e os métodos de saúde convencionais. Minha premissa, todavia, é diametralmente oposta: o homem é, em sua essência, um receptáculo de saúde. Ele não deveria adoecer com facilidade e, mesmo que adoeça, a cura deveria manifestar-se com simplicidade.
+
+Qual a razão, então, para o equívoco que perdurou até nossos dias? A resposta reside na visão excessivamente materialista que se tinha do ser humano, ou seja, na tendência de equipará-lo aos demais animais e plantas. Embora seja verdade que a saúde e o aprimoramento de animais e vegetais possam ser alcançados por meios artificiais, com o ser humano o mesmo não ocorre. É precisamente neste ponto que reside o valor singular do homem como ser espiritual de ordem superior.
+
+Sendo assim, qual seria o método de saúde racionalmente aplicável ao homem? A resposta é inequívoca: tal método deve ser, acima de tudo, natural. A artificialidade é inadmissível. Exemplificando de forma concreta: cada povo, em cada nação, desenvolveu naturalmente ao longo do tempo um apetite e um modo de vida adequados à sua constituição. É imperativo reverenciar e seguir com docilidade essas diretrizes naturais. A medicina ocidental, por exemplo, foi fundada tendo como base o organismo dos ocidentais, assim como a medicina chinesa se fundamentou no dos chineses. A inexistência de uma "medicina japonesa" análoga a essas comprova que um sistema médico de natureza materialista não é, em essência, necessário ao povo japonês. O mesmo princípio se aplica à alimentação. Para o Japão, uma nação insular, é natural que a dieta seja predominantemente composta de peixes e vegetais. Trata-se da mesma lógica que leva os habitantes de continentes, desprovidos de acesso ao mar, a terem a carne como base de sua alimentação.
+
+Bastaria que se discernisse este ponto fundamental. A causa primordial para a crescente incidência de doenças e a fragilização da saúde do povo japonês em nossos dias reside, indubitavelmente, no equívoco de acreditar que a saúde humana possa ser resolvida por meios puramente materiais. Este é o postulado que, ao longo de mais de uma década, venho ensinando a centenas, milhares de pessoas. Ao constatar sua eficácia em absolutamente todos os casos, sem uma única exceção, afirmo com plena convicção que ele é irrefutavelmente correto.
+
+---
+
+# Religião e Liberdade
+
+**Categoria:** shi | **Ano:** 昭和25(1950)年1月14日 | **Fonte:** -
+**Título Original:** 宗教と自由 | **Status:** Published | **Edição/Página:** 45号 | **Data ISO:** 1950-01-14
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
+
+## Religião e Liberdade
+
+Ao observarmos as religiões até os dias de hoje, podemos afirmar que, em sua maioria, elas carecem de liberdade. Muitas se encontram atadas por preceitos rigorosos a ponto de lhes tolher os movimentos, e essa condição veio a ser considerada a forma autêntica da religiosidade. Contudo, ao examinarmos tal situação com profundidade, percebemos que ela se assemelha a um verdadeiro inferno da fé.
+
+Tais religiões são repletas de preceitos que ditam o que não se deve fazer, o que pode incorrer na ira de Deus ou atrair punições divinas. Nelas, não se vislumbra a possibilidade de uma vida livre e plena. Por essa razão, a concepção de Deus não se fundamenta no amor reverencial ou na intimidade, mas unicamente no temor e no tremor.
+
+Ademais, doenças, pobreza e desarmonia familiar os afligem incessantemente. Diante de tais aflições, o líder religioso invariavelmente declara: “Sua família carrega um pesado fardo de máculas espirituais ancestrais. Seu sofrimento decorre daí, e é imperativo que se dedique com afinco à extinção dessas máculas. Contudo, suas tribulações não cessam porque sua fé ainda é insuficiente”.
+
+Há casos em que o fiel, não vendo alívio para seus padecimentos, tenta escapar desse inferno da fé. Nesse momento, é invariavelmente ameaçado com as palavras: “Se abandonar esta fé, toda a sua família certamente perecerá”. Amedrontado, ele se vê incapaz de partir, mas tampouco consegue suportar a situação em que se encontra. É comum encontrarmos pessoas presas a esse dilema paralisante.
+
+Embora o propósito da fé seja conduzir o ser humano a uma vida de júbilo paradisíaco, por que, então, observamos um resultado diametralmente oposto, como o descrito acima? A razão é que a prática prolongada de uma religião de nível inferior embota a sabedoria essencial, anula a razão e incapacita o indivíduo de discernir o bem do mal, o certo do errado. Ao compararmos uma pessoa nesse estado com um materialista, a conclusão é que, para ambos, a conquista da verdadeira paz de espírito e da serenidade é uma espera tão vã quanto aguardar que o Rio Amarelo se torne límpido.
+
+Pelas razões supracitadas, sentimos profundamente a necessidade de salvar não apenas os materialistas, mas também aqueles que se encontram aprisionados em uma fé infernal.
+
+---
+
+# A Terapia Renal como Fonte de Rejuvenescimento
+
+**Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
+**Título Original:** 腎臓医術と若返り法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
+
+## A Terapia Renal como Fonte de Rejuvenescimento
+
+Poder-se-ia afirmar, em suma, que esta Terapia consiste em uma arte terapêutica renal. Conforme detalhei anteriormente, a origem das doenças reside em três tipos de toxinas — a hereditária, a urêmica e a medicamentosa. Dentre todas as partes do corpo, nenhuma se iguala aos rins como o local sobre o qual essas três toxinas exercem sua mais intensa ação.
+
+Permitam-me elucidar a sequência desse processo. Quando o ser humano vem a este mundo, a toxina hereditária se manifesta como o principal agente patogênico, e seu primeiro ponto de acúmulo é a região dorsal que corresponde aos rins. Isso se verifica, em geral, até mesmo nos recém-nascidos. Ademais, a dificuldade que certas crianças apresentam para firmar os passos tem sua origem nesse mesmo fator, sendo facilmente sanada por meio do tratamento adequado. Com o passar dos anos e o avanço para a vida adulta, as três toxinas se acumulam e se condensam na região renal, aumentando gradualmente sua rigidez. Essa pressão, por sua vez, provoca a atrofia dos rins e, como expliquei anteriormente, o excesso de urina se infiltra, somando-se a essas massas solidificadas.
+
+Consequentemente, os rins são cada vez mais comprimidos, o que eleva a produção de urina excedente e, por sua vez, intensifica a solidificação das toxinas. Como resultado, essa urina excedente migra gradualmente para ambos os lados da coluna vertebral, ascendendo até se manifestar como rigidez nos ombros e dali se estendendo ao redor do pescoço, para atingir o cérebro, bem como os olhos, o nariz, as gengivas e a garganta. Dependendo do indivíduo, essa migração pode também afetar a região torácica, as axilas, o estômago, o fígado e o peritônio, ou ainda seguir um trajeto descendente, alcançando as pernas. Nesses casos, reitero o que foi dito: o acúmulo é sempre mais pronunciado nos pontos de maior concentração nervosa.
+
+Portanto, visto que a disfunção renal se revela a causa fundamental de todas as patologias, torna-se imperativo, antes de tudo, dissolver e remover as solidificações localizadas na região dorsal correspondente aos rins. Ao proceder dessa maneira, é natural que todas as enfermidades comecem a se encaminhar para a cura.
+
+Nesse ponto, é necessário compreender o que denomino ação purificadora de equilíbrio. Quando uma concentração localizada de toxinas é dissolvida e eliminada, as demais áreas do corpo onde há acúmulos semelhantes dão início a um processo de autopurificação, buscando um estado de equilíbrio com a região que foi tratada. Por se tratar de uma purificação espontânea, ela é frequentemente acompanhada de febre ou dor. Sendo assim, uma vez que a causa basilar — a região renal — é purificada, as toxinas que se haviam espalhado como ramificações por outras partes do corpo são eliminadas por essa purificação natural e equilibradora, resultando na cura inevitável das enfermidades em sua totalidade. Por essa lógica, estimular a atividade renal constitui o único e verdadeiro método para curar todas as doenças e promover a saúde.
+
+Logo, à medida que os obstáculos renais são removidos e sua atividade se torna vigorosa, múltiplos efeitos benéficos começam a se manifestar. O fenômeno mais notável é o rejuvenescimento: a pessoa pode aparentar de dez a vinte anos mais jovem. Qual a razão para tal? Ocorre que a função renal não se limita a eliminar as toxinas corporais pela urina; ela também é responsável pela produção de hormônios. A medicina atual recorre à injeção de hormônios externos, mas estes apenas iludem com um efeito temporário e, ao contrário, acabam por debilitar os próprios rins. O processo é análogo ao enfraquecimento da indústria nacional devido à importação de produtos estrangeiros. Nesse sentido, considero verdadeiramente grandiosos os efeitos de nossa Terapia, que possibilita a produção ilimitada de hormônios “nacionais” de qualidade muito superior aos importados.
+
+Como resultado, não apenas a pessoa se torna mais enérgica, mas também experimenta uma sensação de contentamento e otimismo, o que transforma por completo sua perspectiva de vida. Consequentemente, traços de personalidade como a ira, a irritabilidade e a impaciência se dissipam. A pessoa torna-se mais afável e cooperativa, dedicando-se ao trabalho com alegria e perseverança, o que eleva extraordinariamente sua eficiência. Tais afirmações podem soar como uma promessa fantasiosa, mas asseguro que não há o mínimo exagero em minhas palavras. Qualquer um que experimente esta Terapia constatará que não há falsidade no que digo. Por isso, reflito constantemente sobre o seguinte: se os rins do povo japonês se tornassem sadios, o primeiro resultado seria o aumento da produtividade, impulsionado pela maior eficiência. O número de pessoas pessimistas e melancólicas diminuiria, tornando a sociedade mais radiante e permitindo que todos desfrutem mais da vida. Nesse sentido, não é exagero afirmar que esta arte terapêutica renal é um método de transformação do corpo e da mente que supera o poder de um milhão de sermões.
+
+Permitam-me tecer mais alguns comentários sobre a ação purificadora de equilíbrio. À medida que essas purificações ocorrem sucessivamente, é como se o próprio corpo nos indicasse a localização exata das massas de toxinas. Dessa forma, todos os pontos afetados acabam por ser revelados e, consequentemente, curados, o que permite alcançar um estado de saúde plena.
+
+É comum que um paciente, ao receber esta Terapia pela primeira vez, sinta um certo torpor no dia seguinte. Isso não ocorre na área que foi tratada, mas sim devido à ação purificadora de equilíbrio que se inicia em um local que ainda não recebeu tratamento. Essa sensação de lassidão se deve a uma febre sutil. Portanto, ao se tratar a região que não fora abordada no dia anterior, o mal-estar cessa por completo.
+
+Recentemente, as autoridades têm incentivado a população a “caminhar com o peito estufado”. Contudo, ao restabelecermos a plena saúde dos rins, a postura ereta torna-se uma consequência natural. A razão pela qual jovens não conseguem manter o peito erguido ou idosos encurvam as costas reside inteiramente na solidificação de toxinas urêmicas na região dorsal ou lombar. Portanto, por mais que se promova a importância de uma boa postura, enquanto os rins não forem sadios, tal esforço representará uma coerção artificial sobre o corpo, gerando desconforto. Pode haver algum efeito momentâneo, mas é preciso reconhecer que se trata de uma medida carente de sustentabilidade a longo prazo.
+
+Também sob este prisma, a eficácia de nossa arte terapêutica renal se revela imensa.
+
+---
+
+# Uma Experiência na Fronteira entre a Vida e a Morte
+
+**Categoria:** shi | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
+**Título Original:** 死線を越えた話 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.67 | **Data ISO:** 1949-12-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
+
+## Uma Experiência na Fronteira entre a Vida e a Morte
+
+Na época em que me dedicava aos tratamentos de saúde, fui certa vez chamado a atender a esposa de um diretor de empresa. Era uma senhora de trinta anos, que se encontrava em estado crítico e já desenganada pelos médicos. Seus familiares e parentes suplicavam ardentemente que eu a salvasse a todo custo.
+
+Contudo, como a residência da enferma se situava a uma distância de quase quarententa quilômetros da minha, seria impraticável que eu realizasse visitas. Diante disso, decidiram trazê-la de automóvel até minha casa. Ciente do risco de vida que a viagem representava, seu esposo a acompanhou. Durante todo o trajeto, amparei-a com um braço enquanto lhe ministrava o tratamento com a outra mão e, assim, conseguimos chegar em segurança ao meu lar.
+
+Entretanto, na madrugada seguinte, fui despertado pela pessoa que a acompanhava. Dirigi-me de imediato ao quarto e encontrei a paciente segurando minha mão com força, sem soltá-la. Ela então me disse: "Sinto como se algo estivesse se desprendendo de meu corpo, e estou apavorada. Por favor, permita que eu me segure à sua mão. Tenho a terrível certeza de que morrerei hoje; rogo-lhe que chame minha família com urgência". Atendi prontamente ao seu pedido e telefonei. Cerca de uma hora depois, chegaram de automóvel seu esposo, os filhos e o médico da empresa.
+
+Naquele momento, a paciente encontrava-se em coma, com o pulso quase imperceptível. O diagnóstico do médico, como era de se esperar, confirmou que sua morte era apenas uma questão de tempo. Cercada por seus entes queridos, ela permanecia em estado comatoso, embora sua respiração não cessasse. As horas se passaram e a noite chegou, sem que houvesse qualquer alteração em seu quadro.
+
+Por volta das sete horas da noite, ela subitamente abriu os olhos e perscrutou o ambiente, com uma expressão de assombro. Em seguida, relatou: "Acabo de retornar de um lugar de uma beleza indescritível. Era um jardim onde inúmeras flores de todas as espécies desabrochavam em profusão. Havia ali muitos seres celestiais e, ao longe, avistei uma figura sublime, semelhante à Bodhisattva Kanzeon (観世音菩薩) que vemos nas pinturas. Essa figura olhou para mim e sorriu. No mesmo instante em que, instintivamente, me prostrei em reverência, despertei. Agora, sinto-me extraordinariamente bem, com uma leveza que jamais experimentei desde o início de minha doença".
+
+Com efeito, a partir do dia seguinte, todo o sofrimento causado pela enfermidade desapareceu. Na verdade, ela estava completamente curada, restando-lhe apenas o debilitamento físico natural de sua condição. Passado cerca de um mês, também este se dissipou, e ela recuperou plenamente sua saúde habitual.
+
+O que se narrou, sem qualquer dúvida, foi um fenômeno no qual seu espírito se desprendeu temporariamente do corpo físico, ascendeu ao Paraíso e teve as máculas de seu corpo espiritual purificadas. O local que ela visitou é o Mundo Búdico, no Segundo Nível do Paraíso.
+
+---
+
+# A Questão do Médico de Confiança
+
+**Categoria:** shi | **Ano:** 昭和27(1952)年4月16日 | **Fonte:** Eikou
+**Título Original:** 信用のある医師 医学断片集（７） | **Status:** Published | **Edição/Página:** 152号 | **Data ISO:** 1952-04-16
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## A Questão do Médico de Confiança
+
+Com frequência, em programas de rádio, jornais e revistas, depara-se com a seguinte recomendação em resposta a consultas sobre doenças: "Procure um médico de confiança". Considero, contudo, tal afirmação bastante estranha.
+
+Com efeito, se essa recomendação fosse verdadeira, significaria que também existem médicos nos quais não se pode confiar. Ora, uma vez que todos os profissionais obtiveram sua licença em conformidade com a lei, caso existissem médicos indignos de crédito, haveria mecanismos para aplicar-lhes sanções severas ou, em certas circunstâncias, até mesmo para cassar suas licenças. Sendo assim, é de se supor que não haja, em exercício, nenhum profissional que não seja confiável. Sob essa perspectiva, a referida resposta perde todo o seu propósito.
+
+Ademais, que critérios deveriam ser utilizados para determinar se um médico é ou não digno de confiança? Na prática, tal avaliação é, muito provavelmente, impossível. Isso torna a recomendação ainda mais desarrazoada.
+
+Por fim, há outro ponto crucial. As pessoas que formulam tais perguntas geralmente o fazem em um estado de desespero, após terem consultado inúmeros médicos sem obter a cura. Diante de tal quadro, uma resposta como "Consulte um bom especialista" não pode ser vista senão como um verdadeiro escárnio para com o sofrimento alheio.
+
+---
+
+# A Solução para os Males Sociais
+
+**Categoria:** shi | **Ano:** 昭和26(1951)年1月25日 | **Fonte:** Chijo Tengoku
+**Título Original:** 社会悪は解決出来るか | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1951-01-25
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
+
+## A Solução para os Males Sociais
+
+O vertiginoso aumento da criminalidade em nosso país atinge proporções jamais vistas. Desde assaltos coletivos de proporções alarmantes, com prejuízos que ascendem a centenas de milhões, até o recrudescimento da violência em grupo e o contínuo aumento da delinquência juvenil, o panorama social que se desenha é insustentável. E o que dizer das classes média e alta? Nelas, os escândalos também se avolumam: a prevaricação em corporações públicas, os esquemas de suborno e corrupção atrelados a diversos empreendimentos... a lista de questões ignominiosas parece não ter fim. Se considerarmos que tais casos representam apenas a ponta do iceberg que emerge à superfície, a profundidade dos males sociais no Japão de hoje parece insondável. A situação assemelha-se a uma imensa montanha de detritos, onde já não há sequer onde pisar. A grande questão que se impõe é, portanto, como realizar a limpeza desse ambiente. Naturalmente, tanto o governo quanto os intelectuais se mostram preocupados e empenham-se arduamente na busca por soluções; contudo, por que motivo não se consegue vislumbrar sequer um vislumbre de esperança?
+
+Analisando a questão sob a nossa perspectiva, percebemos que as autoridades incorrem em um equívoco colossal. O foco de sua atenção está inteiramente equivocado. Basta refletir: qual é a verdadeira origem do crime? Sem uma resposta clara a essa pergunta, é evidente que nenhuma medida adequada poderá ser formulada. A raiz de todo crime reside, inequivocamente, na alma do ser humano; não há outra causa. É a condição de sua alma — se branca ou negra — que o define como uma pessoa de bem ou um malfeitor. Nesse sentido, o ponto focal para a solução do problema é transformar as almas negras em brancas. E é justamente essa verdade que escapa à percepção dos governantes e intelectuais de hoje. Eles se detêm apenas nos aspectos externos e secundários do problema, elaborando diversas estratégias e investindo freneticamente em aparatos de prevenção. Agem como quem tenta encher de água um barril furado; por mais que os anos passem, a erradicação do crime permanecerá um objetivo inalcançável. Certa vez, alguém afirmou com notável perspicácia que, para eliminar por completo a criminalidade, seria necessário designar um policial para cada cidadão. Portanto, é natural que, por mais que se aprimore o sistema judiciário e que a polícia e os tribunais se esforcem, os resultados esperados jamais se concretizem.
+
+Existirá, então, uma proposta verdadeiramente eficaz? Sim, e ela é grandiosa. Para purificar a alma de todos os seres humanos, tornando-a branca, existe um único método. Esse método, sem sombra de dúvida, é a religião. Posso afiançar com absoluta certeza que não há outro caminho. Contudo, bastaria que fosse qualquer religião? Essa é uma questão que demanda profunda consideração. Como todos sabem, existem inúmeras vertentes religiosas. Comecemos pelas novas religiões. Lamentavelmente, aquelas que inspiram confiança são tão raras quanto as estrelas da alva. E quanto às religiões antigas? A maioria das pessoas concordará que também elas não parecem possuir a força necessária para transformar o negro em branco. Sendo assim, o primeiro passo é abrir os olhos da alma e analisar todas as religiões existentes. Dentre elas, deve-se selecionar algumas que se mostrem promissoras e tratá-las com benevolência, ainda que sem lhes oferecer auxílio direto. Pode-se afirmar que não existe estratégia melhor.
+
+Todavia, por alguma razão, as autoridades, embora tão preocupadas com os males sociais, sequer cogitam a possibilidade de recorrer à religião. Apegam-se obstinadamente aos métodos materialistas, sem qualquer intenção de abandoná-los. Diante disso, a infelicidade recai sobre o povo. Portanto, a tarefa mais premente é desvelar esse ponto cego e levá-los a reconhecer a verdadeira essência da religião. É inegável que a mentalidade do criminoso se fundamenta na visão materialista de que o invisível não é digno de crédito. Para ele, basta ludibriar os olhos humanos, e é para isso que emprega toda a sua inteligência, fomentando os males na sociedade. Enquanto essa concepção não for erradicada, qualquer outra medida não passará de um paliativo temporário. É imprescindível, pois, estabelecer como alicerce a concepção espiritual e promover o reconhecimento da existência de Deus. É preciso fazer com que as pessoas creiam que os olhos de Deus observam incessantemente os atos de cada indivíduo. Uma vez que compreendam a lei de que causas más geram maus efeitos e causas boas geram bons efeitos, extirpar a raiz do crime será uma tarefa simples.
+
+Contudo, os intelectuais que lerem este texto provavelmente dirão: "Sua tese parece correta, mas é impossível fazer alguém acreditar em Deus apenas com palavras". Isso ocorre porque a mentalidade desses próprios intelectuais é essa. Para eles, a tentativa de impor a crença em um Deus que, a seu ver, não existe, não passa de um oráculo proferido por alguma religião supersticiosa e maligna. O motivo é que, ao pensarem em religião, eles a julgam unicamente pelos padrões das religiões tradicionais. Embora compreensível, gostaria que dessem um passo atrás e refletissem profundamente sobre a cultura científica. Esta avança a passos largos; invenções e descobertas surgem sucessivamente e, comparado a cem anos atrás, aquilo que na época era apenas um sonho, hoje é realidade. Entretanto, apenas a religião permanece inalterada, exatamente como era há centenas ou milhares de anos, na época de sua fundação. Por que existe essa contradição?
+
+É por essa razão que, hoje, os intelectuais enxergam a religião como uma relíquia de eras passadas, uma visão que a trata como uma antiguidade de museu. Consequentemente, quando afirmamos que a solução para os males sociais depende da religião, eles simplesmente se recusam a nos dar ouvidos. E aqui reside o problema. Assim como o progresso da ciência e da cultura está criando uma era sem precedentes, é imperativo que surja uma religião igualmente revolucionária. Não seria de surpreender, aliás, o aparecimento de algo ainda mais avançado que o nível da própria ciência. Desse modo, tampouco seria um milagre que essa nova religião — essa religião renascida — possuísse o poder de solucionar aquilo que a ciência é incapaz de resolver. Se esse significado for compreendido, será impossível não apreender a verdadeira natureza de nossa Fé. Falando abertamente, nossa Fé possui um poder extraordinário, que qualquer pessoa pode facilmente constatar ao ingressar nela.
+
+Reflitam. Por mais magnífico que algo seja, não é possível vê-lo sem se aproximar. Por mais delicioso que seja um manjar, seu sabor não pode ser conhecido sem que o levemos à boca. Um tesouro de ouro enterrado no solo não pode ser obtido sem que se cave para encontrá-lo. Da mesma forma, permanecer à distância, apenas imaginando, é como se contentar com um arroz-doce pintado em um quadro. Deixar-se iludir por boatos ou pela difamação da imprensa, julgando-nos apenas como mais uma daquelas religiões supersticiosas e malignas, é o mesmo que rejeitar a felicidade por vontade própria. Antes de mais nada, é preciso dar um passo à frente e ter um contato direto. "Quem não entra na toca do tigre, não captura seus filhotes" é, decerto, um adágio de ouro para a eternidade.
+
+---
+
+# A Verdadeira Natureza da Tuberculose
+
+**Categoria:** shi | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
+**Título Original:** 緒論 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核の正体
+
+## A Verdadeira Natureza da Tuberculose
+
+Ao contemplar a presente situação de nosso Japão, que se encontra em meio a uma guerra de proporções colossais, na qual a nação arrisca seu próprio destino, deparo-me com uma questão de magna importância que me impede de permanecer impassível.
+
+É desnecessário reiterar que a guerra moderna é uma guerra de desgaste. Por essa razão, tanto as esferas governamentais quanto a população devotam seus maiores esforços ao aumento da produção. Todavia, em manifesta contradição a essa mobilização nacional, assistimos à implementação de medidas que produzem o resultado diametralmente oposto, um fato tão assombroso que beira o inacreditável. Ademais, como se trata de uma iniciativa amparada pelo Estado — ou melhor, por ele próprio incentivada —, ninguém que venha a conhecer a sua verdadeira natureza deixará de se sentir profundamente estarrecido.
+
+A questão em pauta refere-se à saúde da nação, mas desejo concentrar minha análise no problema da tuberculose. Diz-se que essa doença se alastra com maior virulência justamente entre os jovens — os nossos valorosos trabalhadores da indústria e os estudantes —, que constituem o segmento mais crucial para o fortalecimento de nossa capacidade bélica. É sobre essa matéria, portanto, que me proponho a dissertar.
+
+Com efeito, há um tempo considerável que governo e povo vêm empreendendo as mais diversas estratégias com o objetivo de erradicar essa enfermidade. Não obstante, os resultados almejados não apenas permanecem inatingidos, como se observa, inclusive, uma nítida tendência de agravamento do quadro. Diante de tal cenário, a necessidade de uma solução cabal e definitiva torna-se inquestionável.
+
+A esse respeito, a conclusão a que cheguei, como fruto de mais de duas décadas de pesquisa, é assombrosa: as atuais medidas de prevenção contra a tuberculose são, em realidade, um método que promove o seu alastramento. Cumpre-me, ao mesmo tempo, anunciar que, por meio do método por mim descoberto, o objetivo de erradicar essa doença pode ser plenamente alcançado.
+
+Portanto, anseio que esta verdade seja divulgada ao maior número possível de pessoas, a começar pelas autoridades governamentais, pelos especialistas e por todos os nossos compatriotas. Sentir-me-ei sumamente afortunado se, por meio desta exposição, puder oferecer ainda que uma modesta contribuição para o magno objetivo nacional de fortalecimento de nossa capacidade de combate.
+
+---
+
 # A Situação Mundial e o Mundo Espiritual
 
 **Categoria:** shi | **Ano:** 昭和29(1954)年3月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 時局と霊界 | **Status:** Published | **Edição/Página:** 58号 | **Data ISO:** 1954-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Situação Mundial e o Mundo Espiritual
 
@@ -837,7 +1478,7 @@ Este é o relatório que apresento. Havia partes referentes a Israel e Coreia, m
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第一編
 **Título Original:** 人的資源と現代医学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第一編
 
 ## Os Recursos Humanos e a Medicina Moderna
 
@@ -869,7 +1510,7 @@ Imaginemos, por um momento, o que aconteceria se o governo adotasse a arte médi
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 浄霊で何でも治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Verdadeira Arte Médica
 
@@ -887,7 +1528,7 @@ Os próprios fatos atestam essa realidade, não deixando, assim, margem para qua
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 心臓病及び高血圧 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## Cardiopatias e Hipertensão Arterial
 
@@ -911,7 +1552,7 @@ Para comprovar esta tese, apresentarei um caso bastante elucidativo. Anos atrás
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 耳鼻疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## Enfermidades do Ouvido, Nariz e Garganta
 
@@ -955,7 +1596,7 @@ Se, no entanto, por maior que seja o inchaço, nos abstivermos de intervir, ele 
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年 | **Fonte:** 資本主義と共産主義
 **Título Original:** 資本主義と共産主義 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Capitalismo e o Comunismo sob a Perspectiva do Materialismo
 
@@ -977,7 +1618,7 @@ Qual seria, então, a solução? Ela reside, evidentemente, em unificar a humani
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 手術の無力 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Impotência da Cirurgia
 
@@ -995,7 +1636,7 @@ Oh, comunidade médica de todo o mundo, que possais despertar para esta realidad
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年8月8日 | **Fonte:** Eikou
 **Título Original:** 宗教文明時代（上） | **Status:** Published | **Edição/Página:** 116号 | **Data ISO:** 1951-08-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Minha Missão Singular e a Civilização do Futuro
 
@@ -1023,7 +1664,7 @@ Diante do exposto, quando reflito profundamente sobre mim mesmo, pergunto-me: co
 
 **Categoria:** shi | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 信仰の醍醐味 | **Status:** Published | **Edição/Página:** P.17 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## A Quintessência da Fé
 
@@ -1045,7 +1686,7 @@ Em suma, considero-me alguém que vive em meio a milagres. Eis, pois, a que me r
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 資料検索 ： 正直と嘘 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.6 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## Sobre a Honestidade e a Mentira
 
@@ -1061,7 +1702,7 @@ Contudo, observamos no mundo pessoas, por vezes chamadas de calejadas pelas difi
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年11月30日 | **Fonte:** 明麿近詠集
 **Título Original:** 序文 （明麿近詠集） 自観叢書第8編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949-11-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明麿近詠集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明麿近詠集
 
 ## Prefácio
 
@@ -1080,7 +1721,7 @@ Higashiyama Akimaro
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年2月18日 | **Fonte:** Kyusei
 **Título Original:** 消化に就て | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1950-02-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## Acerca da Digestão
 
@@ -1094,7 +1735,7 @@ Em verdade, os alimentos foram concebidos por Deus para que o ser humano consumi
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年9月6日 | **Fonte:** Eikou
 **Título Original:** 新旧文化の交代 | **Status:** Published | **Edição/Página:** 68号 | **Data ISO:** 1950-09-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Transição para a Nova Cultura
 
@@ -1124,7 +1765,7 @@ A estrutura da nova cultura já se encontra plenamente preparada. Não se trata 
 
 **Categoria:** shi | **Ano:** 昭和6(1931)年12月15日 | **Fonte:** 瑞Hikari
 **Título Original:** 新短歌々人の鈍感性 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1931-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 瑞光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 瑞光
 
 ## A Insensibilidade dos Poetas da Nova Poesia Tanka
 
@@ -1142,7 +1783,7 @@ Em suma, trata-se de redescobrir a força vital da poesia tanka japonesa. Trata-
 
 **Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 心臓医術 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## A Influência da Terapia Cardíaca na Saúde Integral
 
@@ -1166,7 +1807,7 @@ Nessa perspectiva, é evidente que esta arte de cura do coração acelera a recu
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年12月30日 | **Fonte:** Hikariへの道
 **Título Original:** 宗教となるまで 自観叢書第9篇 | **Status:** Published | **Edição/Página:** P.45 | **Data ISO:** 1949-12-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光への道
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光への道
 
 ## A Trajetória Durante a Guerra e a Missão Divina
 
@@ -1192,7 +1833,7 @@ Embora de forma bastante sucinta, creio ter delineado a trajetória que percorri
 
 **Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第二編
 **Título Original:** 痔疾患 ・病患と医学の誤謬十五 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第二編
 
 ## As Afecções Hemorroidárias e os Equívocos da Medicina
 
@@ -1214,7 +1855,7 @@ As pessoas também costumam temer o sangramento hemorroidário. No entanto, tal 
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年11月20日 | **Fonte:** 世界Kyusei教早わかり
 **Título Original:** 自然農法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-11-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 世界救世教早わかり
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 世界救世教早わかり
 
 ## O Diálogo entre Deus, a Terra e o Homem
 
@@ -1250,7 +1891,7 @@ Vede, senhores agricultores! Foi-nos concedida esta maravilhosa dádiva, a Agric
 
 **Categoria:** shi | **Ano:** 昭和11(1936)年7月1日 | **Fonte:** 内外公論
 **Título Original:** 真の宗教が有るか？ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1936-07-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 内外公論
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 内外公論
 
 ## Haverá uma Religião Verdadeira?
 
@@ -1333,7 +1974,7 @@ Portanto, quando a religião verdadeira surgir, será inevitável que todas as c
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
 **Título Original:** 素人菜園に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自然農法解説
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自然農法解説
 
 ## Considerações sobre a Jardinagem Doméstica
 
@@ -1349,7 +1990,7 @@ Com efeito, são inúmeros os problemas que afligem os praticantes da jardinagem
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 神霊医学は民主的医学なり 自観叢書10編 | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## O Caráter Democrático da Medicina Espiritual Divina
 
@@ -1367,7 +2008,7 @@ Corrobora inequivocamente o postulado acima uma recente declaração do Sr. Seki
 
 **Categoria:** shi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 種痘は如何にすべきや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Questão da Vacina Antivariólica
 
@@ -1383,7 +2024,7 @@ Todavia, por meio desta Terapia, as toxinas naturais não apenas são eliminadas
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年12月1日 | **Fonte:** Kekkaku Shinko Ryoho
 **Título Original:** 序文 （結核信仰療法） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1952-12-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核信仰療法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核信仰療法
 
 ## Prefácio à Terapia da Tuberculose pela Fé
 
@@ -1416,7 +2057,7 @@ O Autor
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年2月26日 | **Fonte:** 東京日々新聞
 **Título Original:** 浄霊術で完全に治癒 ・法話（三） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-02-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東京日々新聞
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東京日々新聞
 
 ## A Ilusão dos Medicamentos e a Verdadeira Causa das Doenças
 
@@ -1448,7 +2089,7 @@ Mesmo aqueles desenganados pelos grandes hospitais ou que receberam sentenças d
 
 **Categoria:** shi | **Ano:** 昭和29(1954)年1月6日 | **Fonte:** Eikou
 **Título Original:** 真の大乗宗教 | **Status:** Published | **Edição/Página:** 242号 | **Data ISO:** 1954-01-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Verdadeira Religião do Grande Veículo
 
@@ -1466,7 +2107,7 @@ Diante desse quadro, torna-se evidente que a religião precisa manifestar um pod
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年7月2日 | **Fonte:** Eikou
 **Título Original:** 自然農法の勝利 | **Status:** Published | **Edição/Página:** 163号 | **Data ISO:** 1952-07-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Triunfo da Agricultura Natural
 
@@ -1647,7 +2288,7 @@ Nesta ilha de Sado, o Evangelho da Salvação foi propagado e a Agricultura Natu
 
 **Categoria:** shi | **Ano:** 昭和8(1933)年 | **Fonte:** 新版阿呆陀羅経
 **Título Original:** 新版阿呆陀羅経 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1933
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Novo Sutra dos Insensatos
 
@@ -1693,7 +2334,7 @@ Shicharakapokupokupoku.
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
 **Título Original:** 真の健康と擬健康 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核問題ト其解決策
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核問題ト其解決策
 
 ## A Verdadeira Saúde e a Pseudossaúde
 
@@ -1713,7 +2354,7 @@ Pelo exposto, a verdadeira saúde consiste em estar completamente livre de toxin
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年11月12日 | **Fonte:** -
 **Título Original:** 借金是か非か | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1949-11-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Filosofia da Dívida
 
@@ -1743,7 +2384,7 @@ Esta é, em suma, a filosofia sobre o endividamento que proponho.
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年12月3日 | **Fonte:** -
 **Título Original:** 人体は綜合体である | **Status:** Published | **Edição/Página:** 38号 | **Data ISO:** 1949-12-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Natureza Integrada do Corpo Humano
 
@@ -1763,7 +2404,7 @@ Podemos traçar uma analogia com uma nação. Tomemos o Japão como exemplo: ser
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年7月16日 | **Fonte:** -
 **Título Original:** 新時代の宗教 | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1949-07-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Religião da Nova Era
 
@@ -1775,7 +2416,7 @@ A religião, à semelhança das demais manifestações culturais, está sujeita 
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 浄霊と医学迷信 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura pela Fé ante a Falibilidade da Medicina
 
@@ -1795,7 +2436,7 @@ Se, mesmo cientes de tudo isso, tais autoridades ainda hesitarem, incapazes de a
 
 **Categoria:** shi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 神仏はあるか | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Existirão Deus e os Budas?
 
@@ -1825,7 +2466,7 @@ Nesse sentido, caros leitores, desejo ardentemente que abram os olhos da alma pa
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年11月11日 | **Fonte:** Eikou
 **Título Original:** ジャーナリストと本教 | **Status:** Published | **Edição/Página:** 234号 | **Data ISO:** 1953-11-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Imprensa e a Nossa Causa Divina
 
@@ -1859,7 +2500,7 @@ Desejo ardentemente que o Japão aprenda com esse exemplo e se desfaça, o mais 
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 心臓医術 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Importância Primordial da Terapia Cardíaca
 
@@ -1879,7 +2520,7 @@ Nesse sentido, por meio desta Terapia Cardíaca, a cura da tuberculose é aceler
 
 **Categoria:** shi | **Ano:** 昭和8(1933)年9月16日 | **Fonte:** 神示の外国魂
 **Título Original:** 神示の外国魂 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1933-09-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Hierarquia dos Indivíduos Fúteis
 
@@ -1897,7 +2538,7 @@ Todavia, no presente, pela imensa compaixão do Deus Supremo, foram agraciados c
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 序文 （文明の創造） 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## O Projeto da Nova Civilização
 
@@ -1915,7 +2556,7 @@ Assim que o Juízo Final se concluir, terá início a construção do Novo Mundo
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 上半身の病気と中風 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## Um Esclarecimento sobre a Apoplexia e as Doenças da Parte Superior do Corpo
 
@@ -1939,7 +2580,7 @@ Outro ponto que merece atenção é a crença de que a hipertensão arterial sej
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** Eikou
 **Título Original:** 宗教文明時代（下） | **Status:** Published | **Edição/Página:** 117号 | **Data ISO:** 1951-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Minha Natureza e Missão Divina
 
@@ -1969,7 +2610,7 @@ Sendo assim, como não chamar este texto de Evangelho do Paraíso?
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年4月4日 | **Fonte:** Eikou
 **Título Original:** 自然農法をよく理解せよ | **Status:** Published | **Edição/Página:** 98号 | **Data ISO:** 1951-04-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Declínio do Rabanete Nerima e o Princípio da Agricultura Natural
 
@@ -2009,7 +2650,7 @@ Assim, o rabanete segue para o norte. Ou melhor, deveríamos dizer que não apen
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年1月1日 | **Fonte:** アメリカを救う
 **Título Original:** 心臓病 | **Status:** Published | **Edição/Página:** P.75 | **Data ISO:** 1953-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** アメリカを救う
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** アメリカを救う
 
 ## A Verdadeira Causa das Enfermidades Cardíacas
 
@@ -2025,7 +2666,7 @@ Nesse sentido, a dor origina-se da estimulação nervosa que ocorre quando os n�
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年 | **Fonte:** 岡田自観氏の横顔
 **Título Original:** 序 （岡田自観氏の横顔） 自観叢書第6編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 岡田自観氏の横顔
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 岡田自観氏の横顔
 
 ## Prefácio
 
@@ -2044,7 +2685,7 @@ Jikan
 
 **Categoria:** shi | **Ano:** - | **Fonte:** 正直は辛い
 **Título Original:** 正直は辛い | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Honestidade e a Superstição Científica
 
@@ -2068,7 +2709,7 @@ Diante da realidade atual, em que os especialistas, alheios ao advento desta med
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年9月3日 | **Fonte:** Eikou
 **Título Original:** 宗教と妨害 | **Status:** Published | **Edição/Página:** 172号 | **Data ISO:** 1952-09-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Natureza da Perseguição Religiosa
 
@@ -2094,7 +2735,7 @@ O incidente ocorrido em maio do ano retrasado é um exemplo eloquente. Naquela o
 
 **Categoria:** shi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** 鍼灸療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## Reflexões sobre a Acupuntura e a Moxabustão
 
@@ -2116,7 +2757,7 @@ Quanto à acupuntura, este método consiste em lesar os vasos sanguíneos para p
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 序文 （自観説話集） 自観叢書12編 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## Prefácio
 
@@ -2135,7 +2776,7 @@ O Autor
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 手術に就て 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## Acerca dos Procedimentos Cirúrgicos
 
@@ -2161,7 +2802,7 @@ Um ponto que exige grande atenção é a intoxicação por desinfetantes. Em cir
 
 **Categoria:** shi | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 痔疾患 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Sobre as Enfermidades Hemorroidárias
 
@@ -2179,7 +2820,7 @@ Nesse sentido, é fundamental compreender que o sangramento hemorroidário é, n
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 浄霊こそ真の医学 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Compaixão Divina diante do Sofrimento Humano
 
@@ -2193,7 +2834,7 @@ Contudo, Deus outorgou-me a sabedoria e o poder necessários para resgatar essas
 
 **Categoria:** shi | **Ano:** 昭和10(1935)年9月15日 | **Fonte:** 病貧争絶無の世界を造る観音運動とは何？
 **Título Original:** 真の救い | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1935-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 病貧争絶無の世界を造る観音運動とは何？
 
 ## A Essência da Verdadeira Salvação
 
@@ -2209,7 +2850,7 @@ Para concluir, afirmo: o destino final de uma religião conduzida pela sabedoria
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
 **Título Original:** 人口問題と本療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核問題ト其解決策
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核問題ト其解決策
 
 ## A Causa da Infertilidade e a Solução para a Crise Populacional
 
@@ -2231,7 +2872,7 @@ Sou compelido a afirmar, ainda que possa soar como autoexaltação: fora desta a
 
 **Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 種痘は如何にすべきや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## A Questão da Vacinação e a Purificação do Organismo
 
@@ -2251,7 +2892,7 @@ Diante do exposto, compreende-se que a questão da abolição da vacina não se 
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 土の偉力
 **Título Original:** 自然栽培の勝利 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 土の偉力
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 土の偉力
 
 ## O Princípio da Agricultura Natural
 
@@ -2315,7 +2956,7 @@ Para concluir, gostaria de abordar um último ponto. Ao criar bichos-da-seda ali
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年8月13日 | **Fonte:** -
 **Título Original:** 神霊医学は民主的医学なり | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1949-08-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Medicina Espiritual Divina: Uma Medicina Democrática
 
@@ -2341,7 +2982,7 @@ O excerto acima serve como uma confirmação inequívoca da tese aqui defendida.
 
 **Categoria:** shi | **Ano:** 昭和11(1936)年2月20日 | **Fonte:** 新日本医術書
 **Título Original:** 消化機能は一大化学者なり | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Função Digestiva é um Notável Químico
 
@@ -2375,7 +3016,7 @@ Em verdade, o solo e o sistema digestivo são, ambos, notáveis e extraordinári
 
 **Categoria:** shi | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 宗教と政治 | **Status:** Published | **Edição/Página:** P.7 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## Religião e Política
 
@@ -2393,7 +3034,7 @@ Diante da construção de um novo Japão, considero fundamental que, acima de tu
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 借金 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.7 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## Minha Árdua Batalha Contra as Dívidas
 
@@ -2413,7 +3054,7 @@ Diante de todo esse cenário, só vim a solucionar por completo a questão das d
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 人体は綜合体である 自観叢書10編 | **Status:** Published | **Edição/Página:** 38号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## O Corpo Humano como um Sistema Integrado
 
@@ -2433,7 +3074,7 @@ Façamos uma analogia com uma nação. Tomando o Japão como exemplo, seria inco
 
 **Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 真の健康と擬健康 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## A Verdadeira Saúde e a Saúde Aparente
 
@@ -2455,7 +3096,7 @@ Em vista do exposto, a saúde verdadeira só pode pertencer a um ser humano inte
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年5月27日 | **Fonte:** Eikou
 **Título Original:** 信仰の合理性と再浄化 | **Status:** Published | **Edição/Página:** 210号 | **Data ISO:** 1953-05-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Lógica Divina e o Processo de Re-purificação
 
@@ -2487,7 +3128,7 @@ Há um último ponto fundamental a ser compreendido: o propósito pelo qual Deus
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年6月25日 | **Fonte:** Eikou
 **Título Original:** 神経という言葉 医学断片集（14） | **Status:** Published | **Edição/Página:** 162号 | **Data ISO:** 1952-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Contradição do Diagnóstico "Nervoso"
 
@@ -2503,7 +3144,7 @@ Pois, se aceitarmos a premissa médica de que é possível sentir dor sem que ha
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年7月11日 | **Fonte:** Eikou
 **Título Original:** 浄霊は何にでも効果がある | **Status:** Published | **Edição/Página:** 112号 | **Data ISO:** 1951-07-11
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Abrangência dos Efeitos do Johrei
 
@@ -2541,7 +3182,7 @@ Meishu-Sama nos concedeu esta imensa alegria. Esforcemo-nos, mutuamente, para n�
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年7月1日 | **Fonte:** Eikou
 **Título Original:** ジャーナリストに愬（うった）う | **Status:** Published | **Edição/Página:** 215号 | **Data ISO:** 1953-07-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um Apelo aos Jornalistas
 
@@ -2569,7 +3210,7 @@ Como exposto, nossa Igreja cura enfermidades que a ciência considera incurávei
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** -
 **Título Original:** 時期を待て | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1949-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Sabedoria de Aguardar o Momento Oportuno
 
@@ -2595,7 +3236,7 @@ Com base no exposto, podemos compreender a importância capital do tempo. Nas es
 
 **Categoria:** shi | **Ano:** 昭和23(1948)年7月1日 | **Fonte:** Sanka-shu
 **Título Original:** 序文 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1948-07-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 讃歌集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 讃歌集
 
 ## A Força Misteriosa dos Poemas
 
@@ -2616,7 +3257,7 @@ O Autor
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年11月5日 | **Fonte:** -
 **Título Original:** 進歩的宗教 | **Status:** Published | **Edição/Página:** 34号 | **Data ISO:** 1949-11-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Religião Progressista
 
@@ -2636,7 +3277,7 @@ Pelas razões expostas, a verdadeira missão da religião deve ser a de aprimora
 
 **Categoria:** shi | **Ano:** 昭和27(1952)年5月25日 | **Fonte:** 新宗教新聞
 **Título Original:** 新生日本への希望 不安なき社会を造る これが宗教の真の使命 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1952-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新宗教新聞
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新宗教新聞
 
 ## A Verdadeira Missão da Religião: Edificar uma Sociedade Livre de Inquietações
 
@@ -2656,7 +3297,7 @@ Uma outra fonte de instabilidade social, que ocupa diariamente as manchetes dos 
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年2月27日 | **Fonte:** 東京日々新聞
 **Título Original:** 自然農法で三割増産 ・法話（四） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-02-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東京日々新聞
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東京日々新聞
 
 ## A Agricultura da Natureza e o Aumento de Trinta por Cento na Produção
 
@@ -2682,7 +3323,7 @@ Para detalhar a prática da Agricultura da Natureza, no cultivo do arroz, a palh
 
 **Categoria:** shi | **Ano:** 昭和29(1954)年10月20日 | **Fonte:** Eikou
 **Título Original:** 信徒諸士に告ぐ！ | **Status:** Published | **Edição/Página:** 279号 | **Data ISO:** 1954-10-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Uma Exortação aos Membros
 
@@ -2708,7 +3349,7 @@ Portanto, ao analisarmos as situações em que surgem problemas, constatamos que
 
 **Categoria:** shi | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
 **Título Original:** 人口問題と本療法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（初版）第二編
 
 ## A Solução para o Declínio Populacional
 
@@ -2730,7 +3371,7 @@ Sinto-me compelido a enaltecer esta Terapia, pois é uma verdade insofismável: 
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 資料検索 ： 小児精神病此通り治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Cura da Psicose Infantil
 
@@ -2750,7 +3391,7 @@ Este caso, por si só, já é suficiente para demonstrar a natureza rudimentar d
 
 **Categoria:** shi | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
 **Título Original:** 弱体児童の防止法 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Solução para a Fragilidade Infantil
 
@@ -2782,7 +3423,7 @@ Passemos, agora, ao método ativo: a Terapia Purificadora por Imposição das M�
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年9月10日 | **Fonte:** 世界Kyusei教奇蹟集
 **Título Original:** 序文 （世界救世教奇蹟集） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1953-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 世界救世教奇蹟集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 世界救世教奇蹟集
 
 ## O Alvorecer da Verdadeira Civilização
 
@@ -2807,7 +3448,7 @@ O Editor
 
 **Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 浄霊で死者蘇える 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## O Milagre que Revela a Superioridade da Medicina Espiritual
 
@@ -2825,7 +3466,7 @@ Portanto, pode-se afirmar que a Arte Médica do Johrei constitui, de fato, a mai
 
 **Categoria:** shi | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Eikou
 **Título Original:** 自分で病気を知る法 | **Status:** Published | **Edição/Página:** 125号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um método para conhecer a própria enfermidade
 
@@ -2839,7 +3480,7 @@ Contudo, existem situações peculiares. Indivíduos que, devido à tuberculose 
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年10月22日 | **Fonte:** -
 **Título Original:** 新聞恐怖時代 | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1949-10-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Era do Temor aos Jornais
 
@@ -2857,7 +3498,7 @@ Por tudo o que foi exposto, nossos aproximadamente duzentos mil fiéis, espalhad
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年5月14日 | **Fonte:** -
 **Título Original:** 社会悪の根源 | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1949-05-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Raiz dos Males Sociais
 
@@ -2879,7 +3520,7 @@ Contudo, não basta apenas pregar teorias religiosas, proferir sermões ou entoa
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年4月29日 | **Fonte:** Kyusei
 **Título Original:** 痔に就て | **Status:** Published | **Edição/Página:** 60号 | **Data ISO:** 1950-04-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Respeito da Hemorroida
 
@@ -2897,7 +3538,7 @@ Geralmente, o sangramento dura de uma a duas semanas, não havendo, portanto, o 
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 信仰の種類 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## As Modalidades da Fé
 
@@ -2937,7 +3578,7 @@ Aquele cuja fé não se enquadra em nenhuma das categorias acima descritas, este
 
 **Categoria:** shi | **Ano:** 昭和24(1949)年8月27日 | **Fonte:** -
 **Título Original:** 宗教 教育 政治 | **Status:** Published | **Edição/Página:** 24号 | **Data ISO:** 1949-08-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Origem da Decadência Social e sua Solução
 
@@ -2957,7 +3598,7 @@ Por fim, abordemos a política, cujo estado é deveras lastimável. Analisando e
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年3月25日 | **Fonte:** Kyusei
 **Título Original:** 信者諸君へ御注意 | **Status:** Published | **Edição/Página:** 55号 | **Data ISO:** 1950-03-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## Advertência aos Fiéis
 
@@ -2975,7 +3616,7 @@ Segundo: Como norma fundamental, o Johrei deve ser ministrado individualmente, d
 
 **Categoria:** shi | **Ano:** 昭和11(1936)年4月21日 | **Fonte:** 新日本医術書
 **Título Original:** 新日本医術と既存医学の誤謬 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-04-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Verdadeira Natureza da Doença e o Equívoco da Medicina
 
@@ -3001,7 +3642,7 @@ Conclui-se, portanto, que os tratamentos médicos praticados até hoje não prom
 
 **Categoria:** shi | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 宗教と芸術 | **Status:** Published | **Edição/Página:** P.8 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## Religião e Arte
 
@@ -3021,7 +3662,7 @@ Contudo, como também surgiram muitos santos e monges ilustres que, vivendo de f
 
 **Categoria:** shi | **Ano:** 昭和25(1950)年5月6日 | **Fonte:** Kyusei
 **Título Original:** 宗教と芸術 | **Status:** Published | **Edição/Página:** 61号 | **Data ISO:** 1950-05-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## Religião e Arte
 
@@ -3034,539 +3675,6 @@ A causa reside inteiramente no fato de que vivíamos no Mundo da Noite. Em outra
 Pois bem, nós sabemos que o tempo finalmente chegou e desejamos anunciar a toda a humanidade que o Paraíso está prestes a nascer. Naturalmente, um desígnio de tamanha magnitude, que poderia ser visto como um delírio de grandeza, é inconcebível que se concretize pela força humana. Contudo, por se tratar do Plano Divino, concebido por Deus, a Autoridade Absoluta, sua viabilidade é indubitável. Isso porque, em nossos dias, Deus tem manifestado Seu poder através de inúmeros e surpreendentes milagres, incutindo em nós uma convicção inabalável. Este fato pode ser comprovado pela forma como todos os seguidores de nossa Igreja o vivenciam, consolidando uma fé imutável.
 
 Como materialização do que foi exposto, nossa Igreja dedica especial atenção à arte e, como passo inicial, está construindo um protótipo do Paraíso nas paradisíacas regiões de Hakone e Atami. Sem a devida compreensão desses pontos, é impossível apreender o verdadeiro significado do advento de nossa Igreja. Em suma, as religiões até hoje desempenharam a missão de realizar o trabalho de base para o surgimento do Paraíso. Nossa Igreja, por sua vez, manifestou-se com a missão de erigir o Paraíso sobre esses alicerces.
-
----
-
-# A Causa Oculta do Declínio Populacional
-
-**Categoria:** shi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** 結核問題ト其解決策
-**Título Original:** 人口問題 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核問題ト其解決策
-
-## A Causa Oculta do Declínio Populacional
-
-Dentre as questões que hodiernamente captam a atenção das nações civilizadas, nenhuma se reveste de maior importância do que o problema populacional, pois ele constitui o próprio fundamento da ascensão e do declínio dos povos. A máxima de Adam Smith, segundo a qual a prosperidade de uma nação “está atrelada à sua força de crescimento populacional”, é de uma veracidade irrefutável. Nesse mesmo sentido, o brado de Mussolini ao povo italiano, exortando-o a “alcançar a mais alta taxa de natalidade e a mais baixa taxa de mortalidade”, não tinha outro propósito.
-
-Cumpre notar que o problema populacional adquiriu contornos tão aflitivos somente a partir do século XIX. Naturalmente, antes do século XVIII, a inexistência de estatísticas completas impede-nos de conhecer os números exatos. Contudo, ainda que uma nação ou um povo pudesse sofrer um declínio demográfico temporário em decorrência de guerras ou calamidades naturais, o fenômeno atual — uma redução generalizada na taxa de crescimento populacional que afeta, em uníssono, todos os povos civilizados — é um fato absolutamente inédito na história.
-
-Se essa tendência de declínio tivesse se iniciado há alguns séculos, é lícito supor que o florescimento dos povos civilizados, tal como o conhecemos, jamais teria ocorrido. Mais do que isso, talvez tivessem sido levados à extinção ou, na melhor das hipóteses, restariam apenas como remanescentes, à semelhança do povo Ainu. Consequentemente, o desenvolvimento da cultura esplendorosa que hoje presenciamos teria sido, por certo, impossível.
-
-Diante disso, a primeira questão que devemos levantar é a seguinte: se o declínio da taxa de crescimento populacional se iniciou no alvorecer do século XIX, é forçoso concluir que algum método particular, inexistente no século XVIII, passou a ser aplicado em larga escala a todos os povos civilizados em um período não muito anterior a essa época.
-
-Torna-se imperativo, portanto, investigar e identificar a natureza desse método. Evidentemente, sua aplicação generalizada só foi possível porque se acreditava em seus benefícios. Ocorre que algo considerado benéfico por alguns anos, ou mesmo décadas, pode revelar-se prejudicial quando seus efeitos são observados ao longo de um período mais extenso. Contudo, reside na fraqueza humana o fato de que, uma vez depositada a fé em algo, mesmo que surjam fenômenos adversos, a força das ideias preconcebidas tende a anular a percepção da realidade. Tal situação é análoga à daquele que, iludido por uma falsa doutrina, persiste em sua fé cega por meio de justificativas e subterfúgios, mesmo após a verdadeira natureza de seu erro ter sido exposta.
-
-A descoberta desse “certo método” é, pois, a chave para a resolução deste magno problema. Antes, porém, de desvelar o enigma em questão, vejamos a tendência da dinâmica populacional em nosso Japão e nas demais nações do mundo.
-
-Ao examinarmos a dinâmica populacional das diversas nações, e em particular a do nosso Japão, constatamos que a queda na taxa de crescimento é um fato que se converteu em uma regra de ferro, sem uma única exceção.
-
-Como contramedidas, as estratégias adotadas e em curso nas diversas nações são de conhecimento geral: a redução da idade para o matrimônio, a prevenção da contracepção e do aborto como medidas para aumentar a natalidade e, no caso particular de nosso país, a melhoria dos índices de tuberculose e mortalidade infantil. Outras políticas incluem a prevenção da concentração urbana, ou seja, a redistribuição populacional, bem como a exaltação da consciência nacional e a reafirmação da instituição familiar.
-
-Todavia, tenho a convicção de que todas essas estratégias, por mais variadas que sejam, são de natureza paliativa e não curativa; atacam os sintomas, e não a raiz do problema. Embora possam surtir algum efeito, são incapazes de reverter a tendência geral. Ora, é desnecessário dizer que todo fenômeno possui uma causa e um efeito. O declínio na taxa de crescimento populacional não foge a essa lei universal. Portanto, não pode haver solução fundamental que não passe pela identificação e eliminação de sua causa primeira. O fato de que essa causa primordial tenha permanecido oculta até hoje constitui, em si, uma causa secundária para a persistência do problema.
-
-É justamente essa causa — o enigma a que me referi no início — que passarei a elucidar na seção seguinte.
-
----
-
-# O Valor da Descoberta do Johrei
-
-**Categoria:** shi | **Ano:** 昭和26(1951)年9月26日 | **Fonte:** Eikou
-**Título Original:** 浄霊の発明的価値 | **Status:** Published | **Edição/Página:** 123号 | **Data ISO:** 1951-09-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## O Valor da Descoberta do Johrei
-
-A palavra Johrei, como é evidente, jamais existiu na história até os dias de hoje. O significado do termo, naturalmente, é de pleno conhecimento de nossos fiéis. Em síntese, o ser humano é constituído pela unidade entre o corpo material, visível, e o espírito, invisível. A causa das doenças reside no surgimento de máculas no espírito, as quais se refletem no corpo. Portanto, ao eliminarmos tais máculas, todas as enfermidades são curadas.
-
-Isto não é mera teoria. De fato, as centenas de milhares de seguidores de minha fé já curaram um número incalculável de pessoas que sofriam com doenças, alcançando resultados tão extraordinários que superam, em muito, os da medicina. Sendo assim, não é exagero algum afirmar que se trata da maior descoberta da história mundial.
-
-Ao longo da história, a humanidade presenciou inúmeras e grandiosas invenções e descobertas; contudo, nenhuma se compara a esta. A razão é simples: seu valor reside na questão da própria vida humana, sobre a qual não existe nada de maior importância. Se a verdadeira medicina já houvesse surgido, as doenças teriam diminuído gradualmente, e a expectativa de vida humana já deveria ter ultrapassado, em média, os cem anos. Todavia, qual é a realidade? A humanidade permanece acorrentada ao sofrimento causado pelas enfermidades.
-
-Mesmo diante desse fato irrefutável, os acadêmicos do mundo inteiro permanecem inertes, imersos em suas pesquisas, apegados à medicina moderna e sua visão estritamente materialista. De nossa perspectiva, seus esforços zelosos não passam de um trabalho em vão. É de se lamentar profundamente que, se esta descoberta tivesse sido anunciada por um cientista, certamente teria provocado uma imensa comoção no meio acadêmico mundial, revolucionando a medicina de uma só vez e consagrando seu autor como um grande salvador da humanidade.
-
-No entanto, como a descoberta provém de mim, um líder religioso, deparamo-nos com um enorme obstáculo para que seja reconhecida. Tomando como exemplo os intelectuais do Japão, mesmo que lessem este artigo, não apenas teriam dificuldade em acreditar, como o descartariam de imediato como mera superstição. Mesmo que vejam ou ouçam os resultados de cura pelo Johrei, ou que lhes sejam relatados diretamente por quem os vivenciou, eles não se darão ao trabalho de considerar, tratando tudo com total indiferença. Essa atitude obstinada revela que se tornaram prisioneiros de uma superstição científica, a ponto de ser algo irremediável.
-
-A causa, evidentemente, é a convicção de que tudo o que é invisível, como a religião e Deus, não passa de crendice. Consequentemente, determinam que nenhuma grande invenção ou descoberta poderia originar-se de alguém que não seja um cientista. Sua inflexibilidade nesse ponto em nada difere da cegueira dos adeptos de falsas religiões. Portanto, a única condição para salvar a humanidade é demolir essa fortaleza de crendice. Ainda assim, é inevitável que, um dia, até mesmo eles se rendam e se convertam à nossa causa; é apenas uma questão de tempo. Isto se torna evidente ao observarmos o número crescente, dia após dia, daqueles que verdadeiramente despertaram ou que estão em vias de despertar. É com um fervor ardente que avançamos, a fim de despertar o mundo o mais rápido possível desta grande ilusão e concretizar uma sociedade livre de doenças.
-
-Pelas razões expostas, soamos um grande alarme contra essa ideologia inflexível, que leva os homens a crerem cegamente no materialismo e a fecharem os olhos para o espiritualismo.
-
----
-
-# Os Recursos Humanos e a Medicina Moderna
-
-**Categoria:** shi | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
-**Título Original:** 人的資源と現代医学 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
-
-## Os Recursos Humanos e a Medicina Moderna
-
-Em meio à conjuntura de suma importância que hoje atravessamos, o objetivo magno de nosso Japão é, desnecessário dizer, a plena realização da Esfera de Coprosperidade da Grande Ásia Oriental. Para que tal feito se concretize, o elemento de maior peso é, inquestionavelmente, a questão dos recursos humanos. As diversas medidas que as autoridades vêm implementando, sob o lema “procriai e multiplicai-vos”, visam precisamente a esse fim. Contudo, ao refletirmos com mais profundidade, a situação se revela sob outra perspectiva.
-
-Uma criança que nasce hoje necessitará de, no mínimo, vinte anos para se tornar efetivamente útil à nação. Nesse sentido, os recursos humanos de que necessitamos com urgência são, impreterivelmente, os jovens e adultos que já se encontram em serviço em suas respectivas áreas de atuação. É, portanto, muito apropriada a recente decisão do governo de registrar os cidadãos do sexo masculino entre dezesseis e quarenta anos, e do sexo feminino, entre dezenove e vinte e cinco.
-
-Recentemente, chegou a meu conhecimento que a União Soviética está oferecendo uma vultosa recompensa de vinte e cinco mil rublos por um método capaz de prolongar em dez anos a vida de seus cidadãos adultos. Existe uma razão pela qual os soviéticos conceberam tal iniciativa. Ao investigarem os fatores que permitiram aos Estados Unidos da América ascenderem à condição de maior potência mundial em um período relativamente curto, concluíram que a causa primordial foi a absorção de imigrantes de todos os cantos do globo. Naturalmente, recém-nascidos são raros entre os imigrantes; a grande maioria é composta por adultos.
-
-O que devemos ponderar aqui é que, do nascimento até os quinze ou dezesseis anos, um indivíduo representa para o Estado um consumidor de bens e de mão de obra. Somente após essa idade ele passa a figurar no lado da produção. Por conseguinte, o período de consumo dos imigrantes foi um ônus para suas respectivas nações de origem, e eles chegaram à América já como adultos, ou seja, produtores plenamente formados. A União Soviética percebeu que esse fato — o de ter uma vasta maioria de produtores e um número reduzido de consumidores em sua formação populacional — foi um dos grandes motores do desenvolvimento norte-americano.
-
-Ciente disso, a liderança soviética compreendeu que a medida mais crucial no momento seria aumentar o contingente de adultos, que constituem os recursos humanos no setor produtivo. Daí surgiu a ideia de prolongar a longevidade. E isso se torna ainda mais premente em tempos de guerra, quando a urgência é muitas vezes maior do que em tempos de paz. Nem é preciso dizer que tal raciocínio se aplica perfeitamente ao nosso Japão nos dias de hoje.
-
-Nesse contexto, para fortalecer os recursos humanos da maneira mais célere possível, não haverá método de eficácia mais absoluta do que a erradicação das doenças. Entretanto, observemos as diversas camadas da sociedade atual. A quantidade de pessoas doentes atingiu um patamar que talvez possamos classificar como sem precedentes. Dentre todos os japoneses, quantos gozam, de fato, de uma saúde perfeita? A mera suposição já nos mergulha em profunda inquietude. As diversas estatísticas que apresentei anteriormente devem ter convencido plenamente o leitor a esse respeito.
-
-Já expliquei em detalhes como a medicina de hoje é uma medicina que fabrica doentes, transformando, por meio de seus tratamentos, enfermidades leves em quadros graves e, finalmente, conduzindo o paciente à morte. Ademais, para a tuberculose, cujo número de pacientes se encontra na mais acentuada tendência de crescimento, a medicina recomenda o repouso absoluto. Se tal método levasse à cura completa, a interrupção das atividades profissionais por um certo período seria um sacrifício aceitável. Todavia, quando o resultado de um longo período de repouso é, na maioria das vezes, a perda da própria vida, o prejuízo para a nação é, de fato, incalculável. Se calcularmos minuciosamente os recursos envolvidos — o pessoal necessário para cuidar desses pacientes acamados, os materiais para a fabricação de medicamentos e equipamentos —, chegaremos a cifras espantosamente elevadas.
-
-Há ainda outro problema assaz incômodo: o diagnóstico precoce. Conforme explanei anteriormente, a maioria dos casos de tuberculose em estágio inicial se cura naturalmente se não houver interferência. No entanto, uma vez que o diagnóstico precoce revela os sintomas iniciais, o paciente é compulsoriamente submetido a tratamento e isolamento. Ao receber a sugestão ou a declaração de que sofre de tuberculose, ele é primeiramente acometido por um grande abalo espiritual, imbuído do sentimento de desespero diante de uma doença tida como incurável. Isso lhe subtrai a vitalidade e reduz o apetite, levando-o a um rápido enfraquecimento. Acrescente-se a isso a administração do veneno dos remédios e de outros métodos que agravam a doença, e torna-se evidente que o paciente se encaminhará para um estado grave, tanto no espírito quanto na matéria.
-
-Fatos como os que descrevi são de conhecimento e observação corriqueiros não apenas das autoridades, mas de qualquer cidadão. Procurei expor a realidade sem o menor exagero, e creio que tanto os médicos quanto os próprios pacientes, ao lerem este texto, reconhecerão que ele reflete plenamente a verdade.
-
-Por tais fatos, afirmo categoricamente: a maior causa a obstruir os recursos humanos é a própria medicina. Enquanto não se despertar para essa realidade, o número de doentes continuará a aumentar gradativamente. Por mais que o governo se empenhe em elaborar contramedidas, a escassez de recursos humanos, lamentavelmente, não será solucionada. Pelo contrário, enquanto a nação depender da medicina, quanto maior a ansiedade para resolver o problema, mais acentuado e contrário será o efeito. O porvir, portanto, se mostra verdadeiramente desolador.
-
-Ah! Como poderei fazer com que nosso povo compreenda esta gravíssima questão o mais rápido possível? Eis a angústia que me aflige dia e noite.
-
-O governo, na tentativa de suprir a falta de recursos humanos, tem promovido a reorganização e a fusão de pequenos e médios estabelecimentos comerciais e industriais, liberando mão de obra para direcioná-la a setores prioritários. Por outro lado, contudo, por meio de controles de saúde e diagnósticos precoces, identifica os casos iniciais, principalmente de tuberculose, e impõe a esses trabalhadores o repouso ou o isolamento. Qual o resultado disso? Enquanto se esforça para liberar recursos humanos de um lado, anula-os do outro. É uma prática semelhante a tentar carregar água com um cesto.
-
-Ademais, é inevitável que uma intensa ação purificadora ocorra quando pessoas habituadas a trabalhos leves são transferidas para o labor extenuante das fábricas. Em consequência, surgirão sintomas como febre baixa, tosse e sensação de fadiga, característicos da tuberculose, o que, naturalmente, agravará ainda mais a escassez de recursos humanos. Como a mão de obra liberada pela reorganização empresarial tem um limite, quem poderá negar que se aproxima o tempo em que sofreremos com uma profunda carência de pessoal?
-
-Agora, permitam-me descrever o que aconteceria se o governo adotasse esta arte de cura por mim criada e a implementasse em toda a nação. Primeiramente, o número de doentes diminuiria dia após dia, mês após mês. A maioria se curaria enquanto continua a exercer suas funções. A tuberculose, em especial, seria drasticamente reduzida, e o medo do contágio se dissiparia. As doenças infecciosas, naturalmente, também se tornariam raras, e o número de óbitos por elas seria ínfimo. Consequentemente, o temor aos germes patogênicos deixaria de existir, pois as pessoas se tornariam tão saudáveis que, mesmo em contato com eles, não desenvolveriam a doença. Como a maior parte das enfermidades se curaria em menos de uma semana, o ser humano se veria completamente liberto da ansiedade relacionada às doenças. A preocupação com dietas nutritivas e a necessidade de métodos de saúde artificiais desapareceriam. A longevidade humana se estenderia ano a ano. E se é verdade que “uma mente sã habita um corpo são”, o pensamento do povo, em proporção à saúde de seu corpo, se tornaria igualmente sadio. E se a maior causa da infelicidade é a doença, nem é preciso dizer que a própria infelicidade, a pobreza e os conflitos também diminuiriam de forma expressiva.
-
----
-
-# A Natureza Científica do Johrei
-
-**Categoria:** shi | **Ano:** 昭和29(1954)年1月13日 | **Fonte:** Eikou
-**Título Original:** 浄霊は科学療法なり（１） | **Status:** Published | **Edição/Página:** 243号 | **Data ISO:** 1954-01-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A Natureza Científica do Johrei
-
-Atendendo a um pedido recorrente de nossos fiéis, que, ao lidarem com novos enfermos, sentem a necessidade de expor os princípios do Johrei de maneira clara e acessível, decidi, pois, abordar o tema. Com efeito, é perfeitamente compreensível que as pessoas fiquem estupefatas e anseiem por uma explicação. Afinal, doenças que resistiram a inúmeros tratamentos médicos rendem-se ao Johrei com uma rapidez desconcertante. Mesmo aqueles que ministram o Johrei certamente já vivenciaram essa surpresa em algum momento. Até o presente, por considerar a época ainda prematura, abstive-me de aprofundar o assunto de forma exaustiva. Chegou, contudo, o momento de fazê-lo em detalhes.
-
-Desde tempos imemoriais, consolidou-se a crença de que as doenças se curam com médicos e remédios. Soma-se a isso o fato de o homem moderno ter se rendido a um cientificismo absoluto, no qual nada que não seja chancelado pela ciência merece crédito. Diante desse panorama, a dificuldade em compreender o Johrei e o desejo de questioná-lo são mais do que naturais. Nesse sentido, o ponto crucial a ser compreendido é a relação entre a medicina e a ciência. Embora seja inegável que a ciência possa solucionar questões em quase todas as áreas do saber, o mesmo não se aplica à medicina. Neste campo, ela não apenas falha, como demonstra um descabido e profundo equívoco. A razão para tal reside na diferença fundamental que existe entre o ser humano e todas as outras formas de vida. Permitam-me explanar.
-
-O ser humano é a mais elevada criatura dentre todas, um ser de tal modo místico e sublime que a inteligência humana é incapaz de perscrutá-lo em sua totalidade. A ciência, por desconhecer por completo essa dimensão profunda, sempre considerou o homem um simples animal, cujo objeto de estudo se restringia ao corpo físico, à matéria. Partindo dessa premissa, interpretou a doença como um mero dano ao corpo, adotando a concepção sobremaneira simplista de que poderia repará-lo com substâncias químicas e equipamentos.
-
-Todavia, a realidade é muito mais complexa. O ser humano não se resume ao corpo físico; ele possui uma força vital, uma contraparte espiritual de importância ainda maior, cuja união íntima e inseparável com a matéria lhe permite viver e interagir. Como o espírito é, por natureza, imaterial, a ciência materialista jamais foi capaz de detectá-lo. Por essa razão, ela se limitou a pesquisar o corpo, como bem demonstra a prática da dissecação de cadáveres. Consequentemente, por mais que a medicina se vanglorie de seu progresso, este será sempre um progresso claudicante, pois contempla apenas uma das duas metades do ser. Qualquer esforço nesse sentido, portanto, está fadado a não ser mais que um trabalho em vão.
-
-Assim, o ser humano é constituído de espírito e matéria, sendo o espírito o principal e o corpo, o secundário; esta é a lei que rege todo o Universo. A doença, por sua vez, manifesta-se quando as toxinas acumuladas no corpo se projetam no espírito, gerando máculas. A partir de então, a Ação Purificadora da Natureza atua para dissolver essas máculas espirituais. Esse processo, por sua vez, reflete-se no corpo, onde as toxinas são finalmente dissolvidas e expelidas. O sofrimento que sentimos nada mais é do que o resultado dessa eliminação. A interação inicial entre corpo e espírito é uma ação de correspondência, enquanto a ação posterior, da purificação, obedece à primazia do espírito sobre a matéria. A plena compreensão dessa lógica é fundamental.
-
-Mas qual é a essência da mácula? Trata-se do surgimento de uma opacidade no espírito, que é incolor e transparente por natureza. Eis a verdadeira causa da doença. Ao eliminarmos essa mácula, a cura se torna inevitável. O método para realizar tal feito é o Johrei. Como o próprio nome sugere, Johrei é o meio de purificar as máculas do espírito, constituindo-se na autêntica arte de curar. Deve-se compreender, portanto, que qualquer outra terapia não passa de uma imitação. Este é o princípio fundamental da causa e da cura das doenças: a doença é o sintoma que se manifesta exteriormente, enquanto sua origem é a mácula interna. A eliminação dessa mácula é, pois, o verdadeiro método de cura. A medicina, por desconhecer tal princípio, contenta-se em suprimir os sintomas. Mesmo que obtenha algum efeito, este será sempre temporário, e as recidivas, como os próprios médicos podem atestar por sua constante experiência, são inevitáveis.
-
-Aprofundemos, agora, a explicação do princípio fundamental do Johrei sob uma ótica científica. Para fins didáticos, e por ser este o método mais adequado no momento, analisaremos a questão sob o duplo prisma da ciência teórica e da ciência experimental. A mácula espiritual, em sua essência, nada mais é do que a toxina medicamentosa, cuja natureza é a de um hidrogênio impuro. Este hidrogênio impuro consiste em moléculas de hidrogênio mescladas a partículas tóxicas. Para erradicar a causa da doença, é preciso aniquilar tais partículas, o que, por sua vez, exige a aplicação de um calor de altíssima intensidade, capaz de incinerá-las.
-
-Esse calor, que chamarei de X, jamais existiu sobre a Terra. Felizmente, um acontecimento recente veio a calhar para a nossa explicação: a bomba atômica. Como todos sabem, o calor gerado pela bomba atômica também era algo sem precedentes, uma descoberta do século XX. A semelhança entre os dois fenômenos, mais do que uma mera coincidência, é uma expressão da Vontade Divina. A diferença reside em que o calor da bomba é físico, enquanto o calor do Johrei é espiritual, o que torna sua potência incomparavelmente superior. O calor físico possui limites, mas o espiritual pode atingir temperaturas ilimitadas, razão pela qual a ciência jamais pôde detectá-lo. E mesmo que o detectasse, não poderia produzi-lo artificialmente, o que demonstra, mais uma vez, sua performance infinitamente superior à da bomba atômica. Talvez, quando a ciência avançar exponencialmente, ela possa vir a descobri-lo, mas, por ora, isso permanece no campo do desconhecido.
-
-Qual é, então, a natureza desse calor espiritual? É a essência do Sol, o espírito da luz e do calor. Eu o denomino Kaso (火素). Quando o Kaso (火素) é irradiado sobre o hidrogênio impuro, ele incinera instantaneamente apenas as partículas tóxicas, erradicando a causa da doença. Isso ocorre porque as impurezas espirituais, diferentemente das físicas, só podem ser incineradas pelo calor espiritual. O método para canalizar essa energia consiste em eu caligrafar o ideograma "Luz" em um pedaço de papel, que é então distribuído àqueles que o desejam. Ao portarem esse talismã sagrado, o Kaso (火素) incessantemente irradiado pelo Sol flui através de mim para o objeto e, deste, irradia-se pela palma da mão da pessoa. Podemos imaginar o Sol como uma estação transmissora, eu como uma estação retransmissora e o ministrante como um aparelho receptor. Por meio desse processo, as partículas tóxicas são aniquiladas, o hidrogênio se purifica e é absorvido pelos fluidos corporais, resultando na cura completa da doença.
-
-Para tornar ainda mais claro: ao impormos a mão sobre uma área dolorida, a dor cessa de imediato. Isso acontece porque a mácula no local é instantaneamente dissipada, e seu efeito se reflete no corpo. E como essas partículas tóxicas são a origem de todos os tipos de micróbios, sejam os da tuberculose ou os de doenças contagiosas, sua aniquilação representa a arte médica ideal, capaz de curar todas as enfermidades.
-
-De maneira geral, podemos resumir da seguinte forma: a medicina é um método que solidifica as toxinas em processo de dissolução, enquanto o Johrei é um método que acelera sua dissolução e expulsão. Portanto, a primeira é um método de conservação da doença; a segunda, um método de sua erradicação. Sob uma análise imparcial, a terapia que cura é científica, e a que não cura, anticientífica. É por isso que afirmo que a medicina é anticientífica. Suas explicações, embora minuciosas e detalhadas, são sempre periféricas e jamais tocam na causa fundamental da doença. Como os próprios médicos devem reconhecer, suas teorias não correspondem à realidade. É como estudar os galhos e as folhas de uma árvore que agoniza, ignorando que a causa do problema reside em suas raízes.
-
-Creio que, com esta explanação, os princípios da patologia e da medicina tenham sido compreendidos. Em suma, a medicina moderna é uma ciência de baixo nível, desprovida de racionalidade, por desconhecer a causa primordial das doenças. O Johrei, em contrapartida, é uma ciência de nível superior e altamente racional: a ciência do futuro. A prova disso é que, quando mentes habituadas à ciência inferior testemunham os efeitos assombrosos do Johrei, exclamam, maravilhadas, que se trata de um milagre. Na verdade, não há milagre algum. A cura ocorre porque existem razões para que ela ocorra, sendo, portanto, uma consequência natural e lógica.
-
-A grande incógnita, que certamente todos desejam desvendar, permanece: por que um poder tão sublime como a essência do Sol se manifesta por meu intermédio, um ser humano, para curar as doenças de toda a humanidade? Eis o grande enigma de nosso século. Contudo, desvendar tal questão exige a exposição de um mistério ainda mais profundo, o que deixarei para uma próxima oportunidade.
-
----
-
-# A Cura da Tuberculose Infantil pelo Johrei
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 小児結核も此通り 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Cura da Tuberculose Infantil pelo Johrei
-
-Trata-se do caso de uma menina que cursava a sexta série do ensino fundamental. Havia sido diagnosticada por um médico com infiltração pulmonar, que lhe prescreveu três meses de internação e um ano de repouso. Contudo, após apenas vinte dias de Johrei, ela obteve a cura. Imediatamente, foi submetida a uma nova avaliação médica, que confirmou sua plena recuperação. Ademais, seu peso aumentou em aproximadamente sete quilos e meio, o que configura um milagre verdadeiramente inacreditável.
-
-Este caso, entre tantos outros, demonstra que a tuberculose infantil não é, de modo algum, algo a se temer.
-
-Todavia, é provável que, ao lerem este relato, tanto as autoridades quanto a classe médica não demonstrem qualquer reação. A razão para tal indiferença é a de sempre: a simples alegação de que tudo se deve à religião.
-
-Se existe a possibilidade de erradicar facilmente a tuberculose — atualmente considerada a maior chaga de nossa nação —, a solução deveria residir na adoção de qualquer método que garanta a cura de forma inequívoca, seja ele proveniente da medicina ou da religião.
-
-Contudo, se um raciocínio tão límpido não lhes é compreensível, então a mentalidade de tais indivíduos representa um problema ainda mais grave que a própria tuberculose.
-
-No presente momento, pessoas com essa forma de pensar detêm as rédeas da saúde pública em nosso país e, por conseguinte, quem padece é a população.
-
----
-
-# A Medicina Moderna e o Esgotamento dos Recursos Humanos
-
-**Categoria:** shi | **Ano:** 昭和17(1942)年12月13日 | **Fonte:** Asu no Ijutsu 第二篇
-**Título Original:** 人的資源と現代医学（一） | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-12-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第二篇
-
-## A Medicina Moderna e o Esgotamento dos Recursos Humanos
-
-Na presente e crucial conjuntura, o objetivo supremo de nosso Japão é, inequivocamente, a plena realização da Esfera de Coprosperidade da Grande Ásia Oriental. O fator preponderante para seu êxito reside, sem sombra de dúvida, na questão dos recursos humanos. O fato de as autoridades implementarem toda sorte de medidas sob o lema "gerai e multiplicai" atesta a centralidade desse tema.
-
-Contudo, se refletirmos mais a fundo, a lógica é outra. Uma criança recém-nascida necessitará de, no mínimo, vinte anos para se tornar efetivamente produtiva. Nesse sentido, os recursos humanos de que a nação necessita com urgência são, impreterivelmente, os jovens e adultos que já se encontram em plena atividade em suas respectivas áreas. É acertada, portanto, a recente decisão do governo de estabelecer a idade para o registro nacional entre dezesseis e quarenta anos para os homens, e dezenove a vinte e cinco anos para as mulheres.
-
-Sob essa perspectiva, o método mais rápido e de efeito absoluto para fortalecer os recursos humanos seria, sem dúvida, a erradicação das doenças. No entanto, observemos os diversos estratos da sociedade atual. A quantidade de enfermos atinge um patamar que talvez possamos considerar sem precedentes. Quantos japoneses gozam, de fato, de perfeita saúde? A simples cogitação desse quadro já nos lança em profunda apreensão. Tal realidade é corroborada pelas diversas estatísticas que já apresentei, as quais o leitor certamente pôde constatar.
-
-Já explanei suficientemente que a medicina de nossos dias é, paradoxalmente, uma medicina que gera doentes. Ademais, para a tuberculose, cuja incidência se encontra em franca ascensão, a prática médica preconiza o repouso absoluto. Se tal método conduzisse à cura completa, a renúncia temporária ao trabalho seria um sacrifício aceitável. Todavia, a realidade é que a vasta maioria, após um longo período de inatividade, acaba por perder a vida. O prejuízo para a nação é, na verdade, imenso. Se calcularmos minuciosamente os recursos humanos necessários para cuidar desses pacientes acamados por longos períodos, somados aos insumos, medicamentos e equipamentos empregados, bem como à mão de obra para produzi-los, chegaríamos a cifras astronômicas, muito além da nossa imaginação.
-
-Soma-se a isso outro fator problemático: o diagnóstico precoce. Conforme expliquei anteriormente, a maioria dos casos de tuberculose em estágio inicial se resolveria por cura natural se não houvesse intervenção. Contudo, uma vez que o diagnóstico precoce detecta os sintomas iniciais, o paciente é compulsoriamente submetido a tratamento e isolamento. Ao ser informado, ou mesmo apenas sugestionado, de que possui a doença, ele sofre um tremendo abalo psicológico, dominado pela ideia de uma enfermidade incurável e pela desesperança. Isso o leva a perder o ânimo e o apetite, resultando em um rápido enfraquecimento. Acrescentando-se a isso a administração de medicamentos tóxicos e outros procedimentos, é natural que seu estado, tanto espiritual quanto físico, se agrave.
-
-Tais fatos são, hoje, de conhecimento geral, observados e comentados não apenas pelas autoridades, mas por qualquer pessoa. Diante do exposto, chego à conclusão de que o maior entrave aos nossos recursos humanos talvez seja a própria medicina. Enquanto não despertarmos para essa realidade, o número de doentes continuará a crescer, e quaisquer que sejam as contramedidas do governo, a escassez de recursos humanos jamais será solucionada. Ademais, quanto maior a dependência da medicina, mais graves se tornam os efeitos adversos, de modo que a ansiedade por uma solução apenas agrava o problema. O futuro, sob essa ótica, revela-se verdadeiramente desolador.
-
-O governo, por sua vez, na tentativa de suprir a falta de mão de obra, tem promovido a fusão e a reorganização de pequenos e médios estabelecimentos comerciais e industriais, visando realocar os trabalhadores para os setores prioritários. Contudo, em uma ação paradoxal, o Estado também investe no controle de saúde e no diagnóstico precoce, que identificam sobretudo os casos iniciais de tuberculose e os encaminham para o repouso ou isolamento. Qual é o resultado dessa política? Por um lado, liberam-se recursos humanos; por outro, eles são eliminados.
-
-Além disso, é inevitável que a transferência de trabalhadores de atividades leves para o trabalho extenuante das fábricas provoque intensas reações de purificação, o que gera sintomas como febre baixa, tosse e fadiga, frequentemente confundidos com os da tuberculose. Isso, por conseguinte, agrava ainda mais a carência de pessoal. Ora, como os recursos obtidos por meio da reorganização empresarial são finitos, quem pode negar que, inevitavelmente, chegará o momento em que a nação sofrerá com uma grave crise de mão de obra?
-
-Imaginemos, agora, quais seriam os resultados se a arte de curar que fundei fosse implementada em âmbito nacional. Primeiramente, o número de doentes diminuiria dia a dia, mês a mês. A maioria se recuperaria enquanto continuaria a exercer suas atividades. A tuberculose, em especial, seria drasticamente reduzida, e o temor do contágio se dissiparia. As doenças infecciosas também entrariam em declínio, libertando a população do medo dos germes, pois os corpos se tornariam tão sadios que não mais adoeceriam, mesmo em contato com os patógenos. Como a maior parte das enfermidades seria curada em menos de uma semana, nossos recursos humanos aumentariam entre vinte e trinta por cento.
-
-A necessidade de dietas especiais e de métodos artificiais de saúde desapareceria. A expectativa de vida se estenderia ano após ano. E se é verdade que uma mente sã habita um corpo são, o pensamento do povo se tornaria, naturalmente, tão saudável quanto seu físico. Por fim, se a doença é a maior causa da infelicidade, é evidente que a desdita, a pobreza e os conflitos também diminuiriam drasticamente.
-
----
-
-# O Alvorecer de uma Nova Arte Médica
-
-**Categoria:** shi | **Ano:** 昭和11(1936)年2月8日 | **Fonte:** 新日本医術書
-**Título Original:** 序論 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-02-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
-
-## O Alvorecer de uma Nova Arte Médica
-
-Em princípio, qual seria o propósito da arte médica? É um fato incontestável que seu verdadeiro objetivo é curar todas as enfermidades humanas e conduzir o ser humano a um estado de saúde plena. Portanto, à medida que a verdadeira arte médica se aperfeiçoasse, seria de se esperar que a taxa de morbidade diminuísse ano a ano. Concomitantemente, os tipos de doenças deveriam reduzir-se gradualmente e, como consequência natural, deveria aumentar o número de pessoas que cumprem sua longevidade natural — ou seja, os anos de vida concedidos pelo Céu — e que partem em uma morte serena, como se adormecessem, livres de qualquer sofrimento.
-
-Contudo, qual é a realidade que se apresenta até hoje? Não estamos, por acaso, trilhando um caminho diametralmente oposto? Observemos: a taxa de morbidade não cessa de aumentar, a ponto de ser raro encontrar um lar sem ao menos uma pessoa doente. Atualmente, ao se realizar um exame rigoroso da saúde da população, quantos indivíduos seriam de fato considerados sadios? Provavelmente, seria difícil encontrar um em cada dez. Alguns exemplos são os relatórios que apontam o declínio da constituição física dos jovens, ou as estatísticas que nos conferem a inglória primeira posição mundial em mortalidade infantil. Adicionalmente, apesar dos esforços hercúleos de órgãos governamentais e da sociedade civil para erradicar a tuberculose, e não obstante as vultosas somas de recursos públicos investidas, a doença não apenas se recusa a diminuir, como ainda hoje acomete um milhão e duzentos mil pacientes e ceifa mais de cem mil vidas anualmente. Ademais, o que nos revela o fato de que a variedade de doenças também aumenta, em vez de diminuir?
-
-São fatos por demais conhecidos por todos a imensa quantidade de pessoas que, por tais motivos, sucumbem à desventura e à adversidade. Vemos jovens de notável talento que, após receberem uma educação esmerada, passam a vida a gemer em seus leitos de enfermos. Outros têm suas carreiras interrompidas em seu alvorecer, frustrados pela doença. Há também aqueles que, tendo alcançado posições de destaque e sucesso, adoecem e sucumbem justamente quando se preparavam para oferecer grandes contribuições à nação e à sociedade. Entre as mulheres, quantas, devido à saúde frágil, não conseguem cumprir plenamente seus deveres celestiais como esposas e mães, ou veem passar a idade para o casamento? Acrescentem-se a isso o luto pela morte prematura de filhos amados e as tragédias decorrentes de deficiências físicas, degeneração e insanidade mental.
-
-Basta que surja um único paciente em estado grave em uma família para que as economias acumuladas com o suor de longos anos se esvaiam em um instante. Quando então se trata de dois ou três doentes graves, ou mesmo de falecimentos, vemos por toda parte a triste realidade de famílias que têm seu patrimônio, por vezes considerável, completamente dilapidado. É fato notório o quanto a doença figura como causa primordial da ruína social e da miséria de muitos. Nesse sentido, o temor que as pessoas nutrem pela doença nunca foi tão intenso. E é explorando essa vulnerabilidade que muitos são seduzidos por engenhosas táticas publicitárias a consumir remédios de venda livre e suplementos de eficácia duvidosa. O resultado é um considerável esvaziamento de seus recursos financeiros, o que apenas acelera sua marcha rumo à indigência.
-
-Além disso, uma vez acometido por uma enfermidade grave, o paciente se vê obrigado a arcar com honorários cirúrgicos assombrosamente elevados e custosas despesas de internação. Apesar disso, o processo de cura é moroso e a taxa de sucesso, baixa. Na verdade, segundo os próprios especialistas da área, é difícil que se alcance sequer um índice de cinquenta por cento.
-
-O doutor Kusama, da Universidade Keio, declarou abertamente em uma palestra: "A medicina moderna é incapaz de curar as doenças. Sendo assim, de agora em diante, não há método mais eficaz do que cada um zelar pela própria saúde por meio de uma medicina que evite o adoecer, ou seja, a medicina preventiva." Considero estas as palavras de um verdadeiro e consciencioso homem da ciência, plenas de honestidade.
-
-Por conseguinte, médicos mais perspicazes, sentindo agudamente a impotência da medicina ocidental para promover a cura, veem-se compelidos a voltar sua atenção para o estudo da medicina tradicional chinesa, da moxabustão e de outras terapias populares. A realidade é que o número desses profissionais não para de crescer.
-
-À luz dos fatos até aqui expostos, o verdadeiro valor da medicina moderna torna-se evidente. É verdade que se observam alguns vestígios de progresso em campos como a descoberta de micróbios e na medicina fundamental. No que tange aos tratamentos, contudo, a estagnação é tamanha que se poderia dizer que nada mudou nos últimos dez anos. Sendo assim, onde reside a verdadeira causa para tal estado de coisas? Sua descoberta é, sem dúvida, uma questão mais premente do que qualquer avanço na política, na economia ou no campo das invenções. É desnecessário dizer que não há para uma nação prejuízo maior do que a falta de saúde de seu povo. No momento atual, considerando a posição do Japão como uma nação em franca ascensão, a saúde deve constituir a questão mais fundamental e prioritária. Com efeito, como japoneses, temos a importante missão não apenas de competir de igual para igual com os ocidentais, mas, almejamos, de superar a raça branca.
-
-Onde, então, reside o erro fundamental da medicina moderna? Ele se encontra, na verdade, em um equívoco crucial em seu próprio ponto de partida. Como tal equívoco está detalhadamente exposto nesta obra, ao lê-la e refletir profundamente sobre seu conteúdo, qualquer pessoa terá sua ignorância dissipada. A verdadeira causa das doenças e o segredo da saúde se tornarão tão claros como se estivessem expostos sob a luz do sol, e todos poderão compreender que as enfermidades podem ser erradicadas por meio de uma terapia que prescinde de medicamentos.
-
-Na verdade, esta nova arte médica japonesa, que poderíamos denominar Ashita no Ijutsu, e que constitui a essência da terapia pelo poder de Kannon (観音) e do método para a saúde, é o maior evangelho que a humanidade já conheceu, provavelmente sem precedentes desde o início de sua história. É possível que alguns, diante de minhas afirmações tão grandiosas, que beiram a megalomania, sintam-se inclinados à dúvida. Contudo, isso se assemelha a tentar descrever o sabor de um manjar: por mais eloquente que seja a explicação, não se pode compreendê-lo sem prová-lo. Em suma, tudo se resume à experimentação e à vivência. Assumo, com total responsabilidade, o compromisso de jurar que em minhas palavras não há o mais ínfimo traço de falsidade.
-
-8 de fevereiro de 1936
-
----
-
-# O Estabelecimento da Medicina Puramente Japonesa (I)
-
-**Categoria:** shi | **Ano:** 昭和10(1935)年3月4日 | **Fonte:** Hikari明世界
-**Título Original:** 純日本医学の建設 （一） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1935-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
-
-## O Estabelecimento da Medicina Puramente Japonesa (I)
-
-### Introdução
-
-Há mais de mil e trezentos anos, a medicina praticada em nosso país tem sido, em sua totalidade, de origem estrangeira, a saber, a medicina ocidental e a chinesa, como todos sabem. Contudo, a despeito de longos anos dedicados a inúmeras pesquisas e experimentos, o avanço de ambas as artes médicas tem sido tão moroso que elas se mostram insuficientes para que a humanidade lhes possa confiar serenamente a própria vida. A sensação de que o dia em que seremos libertos da insegurança gerada pelas enfermidades ainda se encontra num futuro distante é, pois, inegável.
-
-Alguns poderão alegar que a medicina moderna alcançou um progresso formidável. Todavia, não seria verdade que tal avanço se restringe ao campo teórico, sem que se observe qualquer traço de progresso no âmbito terapêutico? O número transbordante de enfermos e a lotação dos hospitais são provas mais que suficientes dessa realidade.
-
-A felicidade humana, por mais que todas as outras condições sejam preenchidas, não terá valor algum se não for alicerçada na saúde plena; isso é indiscutível. Consta na Bíblia: “De que vos valerá ganhar o mundo inteiro, se perderdes a vossa vida?”. Quão verdadeiras são estas palavras! Trata-se, de fato, de uma verdade eterna.
-
-Pois bem, pela virtude de Kannon (観世音菩薩), aliada a longos anos de pesquisa, logrei desvendar a origem e o método de cura de todas as doenças. Ao alcançar tal compreensão, descobri, para meu espanto, que tanto a medicina ocidental quanto a oriental se fundamentam em um grandioso e primordial equívoco. Se este erro não for corrigido, não haverá qualquer possibilidade de que a verdadeira medicina seja estabelecida, ainda que se despenda para isso mais uma centena de anos.
-
-Diante disso, sob a égide da edificação de uma medicina puramente japonesa, pretendo anunciar, de forma sequencial, esta descoberta grandiosa e sem precedentes. Rogo, portanto, aos nobres especialistas que, com a mente aberta, busquem compreender a minha genuína intenção, dedicando-se à leitura atenta, à experimentação e à análise deste trabalho, a fim de que possamos, juntos, aperfeiçoar a verdadeira medicina e exterminar o infortúnio da humanidade. Como premissa, passo a expor a motivação desta descoberta e a sua relação com Kannon (観世音菩薩).
-
-### A Reestruturação da Medicina e dos Fármacos Modernos
-
-Até por volta dos quarenta anos, eu, que hoje conto com cinquenta e quatro, era a própria personificação da debilidade física; os dias em que me encontrava enfermo superavam em muito os dias de saúde. A título de exemplo, no intervalo de vinte e cinco anos, entre os quinze e os quarenta anos de idade, sofri de moléstias oculares por dois anos, de uma anemia cerebral violentíssima por seis meses, de pleurisia duas vezes, totalizando mais de um ano, e de tuberculose pulmonar por um ano, ocasião em que fui sentenciado à morte pelo Dr. Tatsukichi Irisawa. Além disso, padeci de amigdalite mais de dez vezes, de uma dor de dentes sem precedentes que persistiu em quatro dentes por mais de um ano, de gonorreia por três vezes, de hemorroidas hemorrágicas por dois anos, de beribéri por três meses, de pneumonia uma vez, de febre tifoide, que me rendeu nova sentença de morte, desta vez do Dr. Okada, de apendicite duas vezes, de nefrite uma vez, de neuralgia lombar por três meses, de neuralgia na perna direita por seis meses, de fraqueza estomacal por um ano e de inúmeros episódios de catarro do intestino grosso. Por esse relato, pode-se imaginar quão frágil era a minha constituição.
-
-A cada um desses padecimentos, submeti-me aos tratamentos médicos disponíveis. Contudo, foram raríssimas as vezes em que senti ter sido curado por meio dos fármacos. Na maioria dos casos, a recuperação veio através da terapia alimentar, de terapias naturais, da moxabustão, da fé ou de práticas espirituais. Consequentemente, passei a sentir uma profunda insegurança em confiar minha preciosa vida à medicina moderna, ao mesmo tempo em que reconhecia suas graves deficiências. Decidi, então, que deveria resolver a questão da saúde por meio de minhas próprias pesquisas. Desde então, por mais de uma década, experimentei em meu próprio corpo toda sorte de terapias não medicamentosas.
-
-Contudo, há pouco mais de dez anos, iniciei minha jornada na fé e, oito anos atrás, recebi a manifestação do Espírito Divino de Kannon (観世音菩薩), que me concedeu diversas revelações espirituais. Por meio delas, pude compreender a essência da saúde e as falhas da medicina e dos seus remédios, e tudo se tornou claro, como se eu emergisse da mais completa escuridão para a plena luz do dia. A partir daí, meu corpo foi reconstruído e dotado de uma robustez absoluta. Progredindo ainda mais, fui agraciado com o poder da terapia espiritual e, ao aplicá-la a mais de mil e quinhentas pessoas até hoje, venho obtendo resultados de uma notoriedade absolutamente sem precedentes na história da humanidade. É por essa razão que redijo este texto, visando, como parte da Vontade de Kannon (観世音菩薩) de salvar a humanidade, primeiramente à correção fundamental da medicina.
-
-### I - As Deficiências do Diagnóstico Clínico
-
-Os métodos de diagnóstico clínico utilizados até hoje consistem, principalmente, no uso do estetoscópio, na percussão, na avaliação do pulso e no exame da língua ou dos olhos. Minha experiência, contudo, demonstrou-me a grande eficácia do diagnóstico realizado pela ponta dos dedos. Na prática, não sei sequer mensurar quantas vezes descobri e sanei a origem de enfermidades que os médicos não foram capazes de identificar. Por isso, desejo veementemente recomendar este diagnóstico pela ponta dos dedos aos profissionais da área médica.
-
-Particularmente nos casos de neurastenia, congestão cerebral, vertigem, doenças oculares, afecções das amígdalas, dos gânglios linfáticos, do ouvido, nariz e garganta, gagueira, afonia, diversas doenças pulmonares, problemas estomacais, doenças renais, derrame, diversos tipos de câncer, peritonite, asma e doenças ovarianas, a causa do mal pode ser identificada com absoluta precisão, como quem aponta para a palma da própria mão. Sendo assim, apresentarei sequencialmente os resultados de minhas experiências com este método de diagnóstico e outros assuntos correlatos, abrangendo diversas enfermidades.
-
-### I - Tuberculose Pulmonar
-
-Primeiramente, deve-se apalpar, com a ponta dos dedos, a região das omoplatas e o pescoço do paciente. Invariavelmente, serão encontrados nódulos endurecidos, de diferentes tamanhos. O lado em que houver maior quantidade ou nódulos maiores corresponderá ao pulmão acometido pela doença. Ao pousar a palma da mão sobre o ombro e o peito, é possível identificar a área afetada e a gravidade do quadro pelo grau de calor emitido. Ao solicitar que o paciente respire profundamente com a palma da mão sobre o tórax, pode-se sentir o sibilo, de forma análoga ao diagnóstico por estetoscópio.
-
-Ademais, quando o sibilo se manifesta na garganta, se for do lado direito, o pulmão direito está comprometido; se do lado esquerdo, o esquerdo. Um som intenso indica grande acúmulo de escarro nos pulmões, enquanto um som fraco indica uma quantidade menor. Alterações nas cordas vocais, como a rouquidão, e a dor ao engolir alimentos ocorrem, na maioria das vezes, nos estágios finais da doença, quando o escarro, contendo toxinas purulentas, danifica ou inflama a mucosa ao passar pela garganta.
-
-A causa da perda de apetite, tão característica da tuberculose pulmonar, reside em um fator surpreendente. A verdadeira origem desse sintoma, creio eu, ainda não foi desvendada pela medicina, mas, após inúmeros experimentos, finalmente a identifiquei. Para constatá-la, basta pressionar levemente com a ponta dos dedos a região do estômago, do plexo solar até as proximidades do umbigo. Ali se encontrará uma massa endurecida e elástica, semelhante a pus coagulado. Segundo minha suposição, trata-se de um acúmulo e endurecimento de escarro, ao qual denomino provisoriamente de pus aquoso. A pressão contínua que essa massa exerce sobre o estômago obstrui severamente seus movimentos, tornando-se a causa da má digestão.
-
-Em meus tratamentos, dissolvo e elimino essa condensação de pus aquoso por meio da Luz Espiritual que irradio da ponta dos meus dedos. À medida que a massa é dissolvida, o apetite retorna gradualmente. Com isso, pode-se compreender que as áreas que devem ser consideradas a causa da tuberculose não são, na realidade, os pulmões, mas sim, em primeiro lugar, os nódulos endurecidos nas omoplatas e no pescoço e, em segundo, a pressão do pus aquoso na região estomacal. O que os médicos consideram a área afetada, os pulmões, é apenas o local onde os resultados desse processo se manifestam.
-
-Portanto, concentrando minha atenção nesses dois pontos e dissolvendo-os através da Terapia da Luz Espiritual, os pacientes melhoram progressivamente, e tenho um grande número de casos de cura completa de pacientes que já se encontravam no terceiro estágio da doença.
-
-Infelizmente, a Terapia da Luz Espiritual é uma técnica que, em todo o mundo, apenas eu sou capaz de realizar, e nada posso fazer quanto a isso. Assim, o desafio que se apresenta à medicina do futuro é a pesquisa de um método para eliminar essas duas áreas de condensação purulenta. Ouso afirmar, sem qualquer hesitação, que, uma vez solucionada essa questão, a tuberculose pulmonar, tida como uma doença de difícil tratamento, poderá ser curada com facilidade.
-
-(Okada Jinsai)
-
----
-
-# A Liberdade Absoluta e sem Impedimentos
-
-**Categoria:** shi | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
-**Título Original:** 自由無礙 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
-
-## A Liberdade Absoluta e sem Impedimentos
-
-Sempre que viajo de automóvel, ocorre-me um pensamento: a prática de Kannon é muito semelhante a dirigir um veículo. Para se manter em linha reta, o condutor precisa mover o volante constantemente, ora para a direita, ora para a esquerda. E aqui reside um ponto de profundo interesse: se alguém decidisse fixar o volante em uma única posição, a colisão com um obstáculo seria inevitável. De modo análogo, a humanidade sempre tendeu a estabelecer preceitos rígidos e, precisamente por essa razão, acumulou fracassos.
-
-Tomemos como exemplo o mundo da política. Afirma-se que um partido adota uma linha de ação proativa, enquanto outro se pauta por uma linha passiva. O erro fundamental reside justamente nessa fixação. Se os políticos abandonassem tais determinações, a administração pública fluiria com muito mais harmonia. Nesse sentido, quando os homens públicos deixarem de se prender a doutrinas, facções como o Partido A ou o Partido B deixarão de existir, e a unidade prevalecerá. Inevitavelmente, a política caminhará para essa realidade.
-
-A sociedade é um organismo vivo. Uma vez que tudo no universo pulsa com vida e está em constante movimento, aplicar preceitos rígidos a uma realidade dinâmica gera, inevitavelmente, distorções.
-
-O mesmo se aplica, por exemplo, à arte da esgrima. Seria desastroso lutar com base em um princípio fixo. Se um espadachim adota como única doutrina a defesa contra estocadas, é natural que seja atingido por um golpe de corte. Definir as coisas de forma tão restrita leva ao erro. Vimos inúmeros exemplos disso ao longo da história, como o debate entre emitir ou não títulos da dívida pública, ou entre liberar ou proibir a exportação de ouro. A falha está em estabelecer um “ismo” desde o princípio, pois, ao fazê-lo, a vitalidade do assunto em questão se extingue.
-
-Essencialmente, a boa política não é nem proativa, nem passiva, mas aquela que se adapta com sabedoria ao tempo e às circunstâncias. E este princípio se aplica a todas as coisas. Pode-se ser proativo hoje e passivo amanhã; ou adotar uma postura proativa neste mês e passiva no próximo. A verdadeira sabedoria reside em transformar-se de mil maneiras, conforme o tempo, o lugar e a posição.
-
-A prática de Kannon consiste exatamente em não predeterminar coisa alguma, agindo com absoluta liberdade. É por essa razão que um dos nomes de Kannon (観音) é Mugeko Nyorai (無礙光如来), Aquele cuja Luz nada obstrui.
-
-A política do futuro deverá, impreterivelmente, seguir este método. O erro reside na tendência de tudo predeterminar e, sob essa ótica, os métodos do passado estavam equivocados. Os Dez Mandamentos de Moisés ou os Cinco Preceitos do Budismo, por exemplo, representam um profundo erro. Ao se estabelecer um conjunto fixo de preceitos, como cinco ou dez, cria-se a perigosa inferência de que todo o resto é permitido. A verdade, portanto, é a ausência de mandamentos. Basta devotar-se ao único e verdadeiro Ensinamento para que, por via natural, todas as regras de conduta sejam observadas. Este é o caminho de Kannon, que representa a posição do Um, o número Um.
-
-O número um é a origem de todos os números; ao ser expandido, pode tornar-se uma infinidade. É simultaneamente Um e inumerável; inumerável e, ainda assim, Um. Consequentemente, qualquer número pode ser dividido por um. A partir do dois, entretanto, isso já não é possível, pois surge a limitação. Kannon (観音), por ser Um e, ao mesmo tempo, inumerável, é a manifestação da liberdade absoluta e sem impedimentos.
-
-Até hoje, todas as religiões representavam números a partir do dois, ou seja, eram apenas galhos. Como os galhos são limitados, jamais puderam unificar todas as religiões do mundo. Por essa razão, o Um, a raiz fundamental, permaneceu oculto até o presente momento; manifestava-se apenas até o nível do dois. Este Um é, em si, o Ensinamento supremo e a salvação absoluta. É uma força inexprimível em palavras. Nisto consiste a Verdade.
-
-Embora pareça um desvio do tema, se o Primeiro-Ministro, o cérebro da nação, fosse imbuído do Poder de Kannon, as quebras de safra deixariam de existir. As colheitas seriam invariavelmente abundantes, e desastres naturais, como tufões e inundações, simplesmente não ocorreriam em parte alguma. Até mesmo o comércio internacional se desenvolveria em perfeita harmonia.
-
-(Okada Jinsai)
-
----
-
-# A Cura da Gagueira pelo Johrei
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 浄霊で吃音が治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Cura da Gagueira pelo Johrei
-
-Desde tempos imemoriais, a gagueira é considerada pela sociedade uma condição sem cura, perspectiva essa corroborada pela própria medicina.
-
-Contudo, a criança mencionada neste relato foi completamente curada em apenas uma semana por meio do Johrei, o que torna supérfluo tecer maiores comentários sobre o seu grandioso poder. Todavia, por desconhecerem a existência de uma terapia tão extraordinária, inúmeras pessoas são condenadas a uma vida sombria, marcadas por essa limitação.
-
-Nesse sentido, ao indagarmos quem foi o ministrante de Johrei que operou a cura dessa complexa enfermidade, a resposta é surpreendente: foi o próprio pai da criança. O fato torna-se ainda mais notável por ter ocorrido logo após ele ingressar na fé e concluir sua formação. Em outras palavras, com o conhecimento adquirido em meros três dias de curso, ele logrou curar com simplicidade uma condição que nenhuma outra modalidade terapêutica é capaz de reverter. Diante de tal feito, é natural que muitos relutem em acreditar na veracidade do ocorrido.
-
-Ó, quão sublime é a Arte do Johrei
-
----
-
-# A Terapêutica Renal e o Método de Rejuvenescimento
-
-**Categoria:** shi | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
-**Título Original:** 腎臓医術と若返り法 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
-
-## A Terapêutica Renal e o Método de Rejuvenescimento
-
-Esta terapêutica pode ser resumida, em essência, como uma Arte Médica Renal. Conforme detalhei anteriormente, as causas das doenças são de três naturezas: toxinas naturais, toxinas úricas e toxinas medicamentosas. O local onde a ação dessas três toxinas se manifesta com maior intensidade é, sem dúvida, a região dos rins. Permitam-me elucidar a sequência desse processo.
-
-Desde o momento em que o ser humano recebe a vida neste mundo, a toxina congênita que se torna a principal causa de enfermidades é a toxina natural, a qual se acumula, primeiramente, na região dorsal que corresponde aos rins. Evidentemente, tal fenômeno ocorre na maioria dos casos, mesmo em recém-nascidos. Com efeito, a razão pela qual muitas crianças tardam a dar os primeiros passos reside nesse fator, e ao tratarmos essa causa, a recuperação se dá com facilidade. Com o avançar da idade, as três espécies de toxinas se acumulam e se condensam na região renal, e essa solidificação aumenta gradualmente. Em virtude da pressão exercida, os rins se atrofiam e, como já explicado, a urina excedente começa a se infiltrar, adicionando-se a essas solidificações. Consequentemente, os rins são cada vez mais pressionados, o que aumenta a quantidade de urina excedente e, por sua vez, intensifica ainda mais o processo de solidificação.
-
-Como resultado, essa urina excedente migra e se acumula de forma progressiva nas áreas laterais à coluna vertebral, ascendendo até provocar o enrijecimento dos ombros e afetando o contorno do pescoço, o cérebro, bem como os olhos, os ouvidos, o nariz, as gengivas e a garganta. Dependendo do indivíduo, pode também se estender ao redor do tórax, à base dos braços, ao estômago, ao fígado e ao peritônio, ou ainda, em sentido descendente, alcançar as pernas. Nesses casos, como já foi dito, a concentração de toxinas é maior nos pontos de maior convergência nervosa.
-
-Dessa forma, a disfunção renal se torna a origem de toda sorte de patologias. Portanto, é imprescindível, acima de tudo, dissolver e remover as solidificações localizadas na parte posterior, na região dos rins. Ao fazê-lo, é natural que todas as enfermidades se encaminhem para a cura.
-
-Nesse ponto, é necessário compreender o processo de purificação por nivelamento. Trata-se do seguinte: ao dissolver e eliminar uma solidificação de toxinas em um determinado local, as outras áreas de acúmulo tóxico dão início a um processo de autopurificação, a fim de se equilibrarem com o estado da área que foi purificada. Por se tratar de uma purificação endógena, ela é naturalmente acompanhada de febre ou dor. Sendo assim, quando a causa-raiz, localizada nos rins, é purificada, as toxinas que se dispersaram como ramificações por outras partes do corpo são eliminadas por um processo de purificação natural e equilibrada, resultando, inevitavelmente, na cura de todo o organismo. Por essa lógica, estimular a atividade renal constitui o único método para curar todas as doenças e promover a saúde.
-
-Com efeito, uma vez removidos os obstáculos e restabelecida a plena atividade dos rins, inúmeros efeitos benéficos começam a se manifestar. O fenômeno mais notável é o rejuvenescimento. A pessoa rejuvenesce, no mínimo, de dez a vinte anos. Qual seria a razão para isso? Ocorre que a função renal, além de eliminar as toxinas do corpo através da urina, também é responsável pela produção de hormônios. A medicina atual recorre a injeções para introduzir hormônios externamente, mas tais práticas apenas iludem com um efeito temporário e, ao contrário, acabam por debilitar os rins. A situação é análoga à de uma indústria nacional que definha devido à importação de produtos estrangeiros. Nesse sentido, os efeitos de nossa terapêutica, que possibilita a produção ilimitada de hormônios “nacionais” muito superiores aos importados, são, a meu ver, verdadeiramente grandiosos.
-
-Como consequência, a pessoa não apenas se torna mais vigorosa, como também experimenta uma profunda sensação de bem-estar e otimismo, que transforma por completo sua visão da vida. Traços de personalidade como a ira, a irritabilidade e a impaciência desaparecem, dando lugar a um temperamento afável e cooperativo. O indivíduo passa a executar suas tarefas com satisfação e perseverança, o que eleva exponencialmente sua eficiência. Talvez essas palavras soem como uma promessa excessivamente generosa, mas afirmo categoricamente que não há nelas o menor exagero. Qualquer um que experimente o método poderá constatar que não se trata de um estelionato.
-
-Por isso, reflito constantemente: se os rins dos japoneses se tornassem sadios, em primeiro lugar, haveria um aumento na produção graças à maior eficiência. Ademais, a diminuição de pessoas pessimistas e melancólicas tornaria a sociedade mais radiante, e todos passariam a desfrutar mais da vida. Nesse sentido, não é exagero afirmar que esta Arte Médica Renal é um método de transformação do corpo e do espírito que supera um milhão de sermões.
-
-Agora, creio ser necessário aprofundar um pouco mais a explicação sobre a purificação por nivelamento. À medida que essas purificações ocorrem sucessivamente, é como se o próprio corpo indicasse os locais onde as toxinas se encontram. Assim, todos os pontos de acúmulo tóxico acabam por ser revelados e, por fim, completamente curados, o que permite alcançar um estado de saúde plena.
-
-É importante mencionar que, no dia seguinte à primeira sessão desta terapêutica, o paciente pode, por vezes, sentir um certo torpor. Isso não se deve à área que foi tratada, mas sim ao processo de purificação por nivelamento que se inicia nas áreas não tratadas, gerando uma febre sutil que causa essa sensação de lassidão. Portanto, ao tratar no dia seguinte as áreas que não foram abordadas anteriormente, o mal-estar cessa por completo.
-
-Por fim, as autoridades têm recentemente incentivado a população a “andar com o peito estufado”. Contudo, quando os rins estão em perfeito funcionamento, a postura ereta torna-se natural. A causa pela qual jovens andam curvados ou idosos envergam as costas reside invariavelmente na solidificação de toxinas úricas nas costas ou na região lombar. Portanto, por mais que se promova a ideia de uma postura ereta, enquanto os rins não estiverem sadios, tal esforço será apenas uma imposição artificial e penosa. Poderá haver algum efeito temporário, mas certamente carecerá de durabilidade.
-
-Também sob este aspecto, os efeitos de nossa Arte Médica Renal devem ser considerados grandiosos.
-
----
-
-# A falácia da “causa nervosa”
-
-**Categoria:** shi | **Ano:** 昭和27(1952)年12月3日 | **Fonte:** Eikou
-**Título Original:** 神経とは 医学断片集（23） | **Status:** Published | **Edição/Página:** 185号 | **Data ISO:** 1952-12-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## A falácia da “causa nervosa”
-
-Quando os médicos desconhecem a origem de uma enfermidade, costumam encerrar o assunto afirmando: “Essa dor é de fundo nervoso”. Contudo, ao refletirmos com mais profundidade, percebemos que dificilmente haveria alegação mais descabida.
-
-Com efeito, se a dor fosse causada pelos nervos sem que houvesse qualquer outro fator, os próprios nervos é que estariam doentes. Portanto, não competiria à verdadeira Medicina curá-los? Todavia, seja por desconhecimento ou por comodidade, os médicos insistem nesse diagnóstico, o que chega a ser espantoso.
-
-Diante de um argumento tão ilógico, as pessoas não apenas são incapazes de discernir o engano, como ainda se mostram gratas. Por essa razão, os homens de hoje são, de fato, dignos de compaixão.
-
-Talvez estas palavras soem um tanto duras aos ouvidos dos médicos. Contudo, decidi escrevê-las por crer que expressam a mais pura lógica.
-
----
-
-# A Superioridade do Johrei sobre a Cirurgia
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 手術無用 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Superioridade do Johrei sobre a Cirurgia
-
-O caso a seguir ilustra bem essa verdade. Uma paciente, que padecia de ovarite, foi informada de que a cirurgia seria indispensável para sua recuperação. Segundo o prognóstico médico, mesmo com a intervenção, seriam necessários três meses de convalescença, e ainda assim, ela não conseguiria retornar plenamente ao seu trabalho. Contudo, por uma feliz circunstância, ela veio a conhecer nossos ensinamentos e prontamente se submeteu ao Johrei. O resultado foi que, em meros dez dias, alcançou a cura completa, podendo retomar suas atividades na agricultura sem qualquer impedimento. Diante de tal fato, qualquer comparação entre o tratamento médico e o Johrei se mostra simplesmente descabida.
-
-Ademais, trata-se de uma cirurgia em uma região particularmente delicada do corpo feminino. Caso a intervenção implicasse a remoção do ovário, sua capacidade de conceber seria comprometida. Desse modo, mesmo que o procedimento transcorresse sem percalços, um certo grau de infortúnio seria inevitável. Considerando que existem no mundo inúmeras pessoas em situação semelhante, é nosso profundo anseio divulgar esta verdade o quanto antes, a fim de salvar o maior número possível de almas.
-
-Outro aspecto que demonstra a natureza ideal da arte do Johrei reside no tratamento das enfermidades femininas. A medicina convencional exige que a paciente exponha áreas íntimas e se submeta ao contato físico, o que, para muitas, representa uma provação de imenso sofrimento. O Johrei, em contrapartida, é ministrado pela simples imposição das mãos a certa distância e promove a cura de forma incomparavelmente mais eficaz. Portanto, não seria exagero afirmar que a diferença entre os dois métodos equivale à distinção entre a barbárie e a civilização.
-
----
-
-# A Sabedoria do Caminho Suave
-
-**Categoria:** shi | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
-**Título Original:** 柔道 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.11 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
-
-## A Sabedoria do Caminho Suave
-
-Em minha juventude, dediquei-me ao aprendizado do judo. A essência dessa arte marcial consiste, do princípio ao fim, em utilizar a força do adversário para alcançar a vitória, jamais em repelir a força com que ele avança. Pelo contrário, permite-se que o oponente empregue seu vigor ao máximo, para que este possa ser devidamente aproveitado.
-
-Por vezes, aplico o princípio do judo à minha própria conduta na vida. Nesse sentido, quando surgem pessoas que tentam obstruir meu trabalho, não procuro detê-las nem refutar suas ações. Permito que os opositores ajam conforme sua vontade e, em certas ocasiões, chego a utilizar suas próprias manobras a meu favor.
-
-Paradoxalmente, essa atitude acaba por acelerar o fracasso do próprio obstrutor, solucionando assim a questão.
-
----
-
-# A Perspectiva Religiosa sobre o Controle de Natalidade
-
-**Categoria:** shi | **Ano:** 昭和24(1949)年4月30日 | **Fonte:** -
-**Título Original:** 宗教からみた産制問題 | **Status:** Published | **Edição/Página:** 7号 | **Data ISO:** 1949-04-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Perspectiva Religiosa sobre o Controle de Natalidade
-
-Recentemente, a questão do controle de natalidade tem sido intensamente debatida em nosso país. A razão, evidentemente, reside no fato de uma população de oitenta e dois milhões de habitantes ocupar estas quatro pequenas ilhas, o que impõe a necessidade de alguma medida. Contudo, quando nós, religiosos, analisamos a situação, deparamo-nos com um problema alarmante: o pensamento dos intelectuais modernos é excessivamente materialista e incapaz de transcender essa perspectiva. Permitam-me dissertar a respeito.
-
-Primeiramente, cumpre indagar: com que propósito o ser humano nasce neste mundo? Nenhum dos dois bilhões de indivíduos que compõem a humanidade veio ao mundo por um ato de vontade própria. É inegável que fomos concebidos inconscientemente no ventre materno e, de igual modo, trazidos à luz. Uma vez nascido, o infante torna-se adulto e se dedica a diferentes ofícios. Nesse processo, as distinções individuais de sapiência, talento, excelência ou mediocridade manifestam-se naturalmente, e cada um, também de forma natural, ocupa a profissão adequada à sua aptidão, contribuindo para a estrutura da sociedade. Foi assim que a sociedade humana evoluiu, desde a era primitiva até a esplendorosa era de cultura que vivenciamos hoje. Observemos como surgem os grandes estadistas, os parlamentares, os educadores, os artistas, os industriais, os funcionários públicos, os engenheiros e os trabalhadores, cada qual dotado de qualidades específicas e harmoniosamente distribuídos. Não é porventura prodigioso que essa distribuição se mantenha universal em todas as épocas, sem jamais pender para um dos lados? Ademais, os indivíduos mais brilhantes e capazes constituem uma ínfima minoria, enquanto o número de pessoas em ocupações mais simples aumenta em uma formação piramidal. Isso se assemelha ao que ocorre no reino vegetal, onde as ervas daninhas proliferam por toda parte, ao passo que as flores mais nobres se tornam mais raras. O mesmo se aplica às árvores: as de uso comum e grande demanda, como o cedro e o carvalho, são abundantes, enquanto as madeiras de lei são escassas. Tal princípio é igualmente evidente no reino mineral: metais preciosos como o ouro são extraídos em quantidades ínfimas, em contraste com a abundância de metais de uso geral, como o ferro, o chumbo e o cobre. O que mais surpreende, no entanto, é que em qualquer época, o número de homens e mulheres se mantém em proporção praticamente igual. Portanto, ao contemplarmos em silêncio esses múltiplos fenômenos naturais, o que descobrimos? Alguns o chamarão de Verdade; outros, de Natureza; os filósofos talvez o definam como uma expressão da Vontade Cósmica. Entretanto, tais designações não passam de meras explicações fenomênicas. Não podemos nos satisfazer até que tenhamos desvendado o mistério que se oculta em seu âmago. A seguir, buscarei elucidar esse mistério.
-
-Este vasto planeta que a humanidade habita possui um centro, e esse centro deve ter um regente, um soberano. E quem seria esse soberano da Terra? Trata-se do Deus Supremo, também conhecido como Imperador Celestial ou Jeová, o Ser Absoluto. A Vontade Cósmica nada mais é que a Vontade desse Deus Supremo. Sob essa Vontade Divina, a sociedade humana avança em um desenvolvimento infinito, rumo a um futuro tão sublime que mal podemos conceber. Contudo, é possível vislumbrar uma parcela desse porvir. Basta refletirmos sobre a trajetória do progresso, comparando a era primitiva de milênios atrás com a cultura atual, para que o notável avanço nos permita fazer uma projeção aproximada.
-
-Com base nos fatos e no raciocínio expostos, a conclusão é inevitável: não apenas a humanidade, mas toda a Criação é gerada e nutrida segundo o desígnio do Deus Supremo. Sendo assim, a vida e a morte dos seres humanos não podem estar fora da Vontade Divina. Portanto, ainda que um grande número de pessoas nasça em determinada região, é inconcebível que faltem os alimentos necessários para seu sustento. A fome é algo que não se pode sequer cogitar. Nesse sentido, por mais que a população aumente, é certo que a terra produzirá o alimento suficiente para nutri-la. Se ocorre alguma escassez, é porque há um erro nos métodos de produção, erro este que simplesmente não foi percebido. Tomando como exemplo o Japão, se cada pessoa, incluindo idosos e crianças, consome em média um *koku* de arroz por ano, uma população de oitenta e dois milhões de habitantes deveria corresponder a uma colheita de oitenta e dois milhões de *koku*. Por não se darem conta desse princípio fundamental, recorrem ao despropósito de restringir os nascimentos. Tal ato contraria a Lei Divina e transforma seus defensores em grandes pecadores perante Deus, o que é verdadeiramente temível. Pode-se afirmar, pois, que os argumentos dos que advogam o controle de natalidade não passam do disparate de materialistas ateus.
-
-Como mencionei, a escassez de alimentos para toda a população decorre de um erro no método agrícola. Com o método da Agricultura sem Adubos que preconizo, o problema deixa de existir. A insistência cega na agricultura com adubos levou ao esgotamento do solo japonês. Ao se converter ao método sem adubos, um aumento de 30% a 50% na produção é facilmente alcançável. Considerando a colheita deste ano, de sessenta e três milhões de *koku*, um acréscimo de 30% resultaria em oitenta e um milhões e novecentos mil *koku*; com 50%, chegaríamos a noventa e quatro milhões e quinhentos mil *koku*. Assim, a questão se resolve com extrema simplicidade. Nesses casos, não há necessidade de expandir a área cultivada, pois o aumento se dá no número de grãos de arroz por haste. É interessante notar que, há milhares de anos, uma haste produzia apenas algumas dezenas de grãos. Conforme a população cresceu, esse número aumentou gradualmente, até chegar aos cento e cinquenta a trezentos grãos que são comuns hoje. Recentemente, um agricultor da província de Shiga estabeleceu um recorde com mais de quatrocentos grãos por haste. Isso prova que, com o método de cultivo correto, é possível até mesmo dobrar a produção atual. Lembro-me de ter ouvido dos mais velhos que, do final do Período Tokugawa ao início da Era Meiji, as hastes produziam menos grãos que hoje. Esses fatos demonstram que Deus provê o alimento necessário para a população, e sobre isso não paira a menor dúvida.
-
-Recorro a um exemplo distinto. É comum que, no caso de gestantes debilitadas por tuberculose ou outras enfermidades, se recomende o aborto artificial sob a alegação de risco de vida, pondo fim a uma gravidez promissora. Segundo minha interpretação, o próprio fato da concepção é a prova de que o feto pode se desenvolver e nascer em segurança. Se a mulher não possuísse a força necessária, a gestação simplesmente não ocorreria. Com base nesse entendimento, sempre me opus ao aborto e, de fato, entre dezenas de casos, não houve uma única falha. Deus jamais criaria o ser humano com a inépcia de permitir a gestação em quem não tem capacidade de dar à luz. É preciso crer que o Criador não é tão superficial e tolo quanto os homens imaginam.
-
-Pelas razões expostas, declaramos aqui nossa mais veemente oposição ao controle de natalidade.
-
----
-
-# A Cura pela Leitura dos Escritos Divinos
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
-**Título Original:** 神書拝読で治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
-
-## A Cura pela Leitura dos Escritos Divinos
-
-O exemplo deste paciente é, de fato, assombroso. Embora diagnosticado por médicos com infiltração pulmonar e sentenciado a um tratamento de dois anos por pneumotórax como única via para a cura, ele se restabeleceu por completo em apenas um mês, unicamente pela leitura dos Escritos Divinos. Ademais, ele sequer recebeu uma única vez o Johrei, tratando-se, por assim dizer, de uma terapia pela leitura.
-
-Um poder de cura tão grandioso como este jamais existiu em toda a história. A certeza de sua plena recuperação advém do fato de que, mesmo após submeter-se a diversos exames médicos, o diagnóstico foi invariavelmente o de cura completa.
-
-Há, a esse respeito, outro ponto de suma importância. Este homem havia esquecido que, no passado, sua esposa fora completamente curada de uma grave enfermidade por meio do Johrei. Por essa razão, ao ser ele próprio diagnosticado com infiltração pulmonar, recorreu à medicina, o que revela quão arraigada é a superstição nos tratamentos médicos.
-
-Ainda assim, como o tratamento não surtia efeito, seria natural que ele despertasse para a verdade. Contudo, isso não ocorreu, e foi o próprio médico quem lhe recomendou o caminho da fé. A contragosto, ele se voltou para a fé, mas, mesmo assim, hesitou em receber o Johrei prontamente. Sua cura, portanto, adveio unicamente da leitura dos Escritos Divinos.
-
-Assim, uma doença incurável pelos meios materiais foi sanada pelo ato imaterial da leitura, em uma clara demonstração de que o invisível superou o visível. Gostaria de saber o que diriam os acadêmicos diante de tal fato. Diante do exposto, fica evidente que a mudança de mentalidade dos eruditos constitui, antes de tudo, a questão primordial.
-
----
-
-# Uma Notícia Alvissareira para a Agricultura Natural
-
-**Categoria:** shi | **Ano:** 昭和29(1954)年4月14日 | **Fonte:** Eikou
-**Título Original:** 自然農法の一大朗報 | **Status:** Published | **Edição/Página:** 256号 | **Data ISO:** 1954-04-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Uma Notícia Alvissareira para a Agricultura Natural
-
-O senhor Tatsuo Yamakawa, Chefe da Segunda Divisão de Assuntos Alimentícios do Ministério da Agricultura e Florestas, que há vários anos vinha investigando e pesquisando em campo a nossa Agricultura Natural, tornou-se o principal proponente e, juntamente com oito outros entusiastas, fundou a associação de estudos descrita a seguir. Trata-se de um acontecimento de suma importância e motivo de grande celebração para o futuro de nossa nação.
-
-Afinal, o referido ministério pode ser considerado a cúpula do universo agrícola, e o simples fato de seus especialistas demonstrarem tal nível de reconhecimento já sinaliza que a Agricultura Natural finalmente ganhou a devida tração. Portanto, podemos aguardar com grande expectativa seu progresso futuro. Creio que, para os membros de nossa Associação de Difusão, tal fato lhes trará a sensação de terem conquistado um milhão de aliados.
-
-**Proposta de Intenções da Associação de Estudos da Agricultura Natural do Ministério da Agricultura e Florestas**
-
-A agricultura japonesa contemporânea, a despeito dos esforços hercúleos de governo, acadêmicos, técnicos e dos próprios agricultores, enfrenta uma crise inegável.
-
-Neste cenário, surge um método agrícola revolucionário que dispensa fertilizantes e agrotóxicos, reduz a mão de obra e minimiza os danos causados por intempéries como vendavais, inundações, estiagens, geadas, pragas e doenças. E, ainda assim, proporciona aumentos anuais de produtividade, superando cinquenta por cento em um período de cinco anos. Sua eficácia já vem sendo comprovada por agricultores em todo o país e tem sido pauta de reportagens em jornais, revistas e programas de rádio. Contudo, tanto os acadêmicos quanto os técnicos, considerando-a algo impossível, abstêm-se de pesquisá-la, e o governo, por sua vez, ainda não tomou a iniciativa de examiná-la.
-
-Paralelamente, a Associação de Difusão da Agricultura Natural, por meio de sua organização em âmbito nacional com sedes em cada província, avança vigorosamente em sua divulgação, contando, segundo se informa, com dezenas de milhares de agricultores praticantes.
-
-Diante dessa realidade, nós, funcionários do Ministério da Agricultura e Florestas, não podendo permanecer de braços cruzados, decidimos investigar a fundo a questão. Como resultado, constatamos ser um fato irrefutável que as colheitas realmente aumentam, independentemente das teorias subjacentes.
-
-Temos a firme convicção de que, onde existe tal fato, deve haver, impreterivelmente, um fundamento de natureza racional. Sob essa perspectiva, nós, os funcionários do Ministério interessados no tema, deliberamos em conjunto e sentimos a profunda necessidade de estudar a Agricultura Natural sob todos os seus ângulos, o que nos levou a constituir esta associação.
-
-Recomendamos a todos que compartilham deste ideal que se filiem prontamente a esta associação para que, juntos, possamos nos dedicar a essa pesquisa.
-
-Março de 1954
-Comitê Fundador da Associação de Estudos da Agricultura Natural dos Funcionários Voluntários do Ministério da Agricultura e Florestas
-
-A todos os interessados.
-
-**Estatuto**
-
-**(Denominação e Sede)**
-Artigo 1º: A associação será denominada "Associação de Estudos da Agricultura Natural dos Funcionários Voluntários do Ministério da Agricultura e Florestas" e terá sua sede nas dependências do Ministério da Agricultura e Florestas.
-
-**(Objetivo)**
-Artigo 2º: O objetivo da associação é investigar e pesquisar a Agricultura Natural sob todas as suas perspectivas, bem como divulgar os resultados de tais investigações e pesquisas.
-
-**(Membros)**
-Artigo 3º: Qualquer funcionário do Ministério da Agricultura e Florestas poderá se filiar à associação a qualquer momento, mediante o pagamento de uma taxa de inscrição de cinquenta ienes.
-
-**(Diretoria)**
-Artigo 4º: A associação terá os seguintes cargos:
-Um Presidente
-Dois Vice-Presidentes
-Dois Diretores Permanentes
-Um número variável de Conselheiros
-
-Artigo 5º: O Presidente, os Vice-Presidentes, os Diretores Permanentes e os Conselheiros serão eleitos por votação mútua entre os membros, com mandato de um ano, sendo permitida a reeleição. O Presidente dirigirá os assuntos gerais da associação, os Vice-Presidentes o auxiliarão, os Diretores Permanentes se encarregarão da secretaria e da tesouraria, e os Conselheiros atuarão como elo de comunicação em seus respectivos departamentos para facilitar o funcionamento da associação.
-
-**(Consultores)**
-Artigo 6º: A associação poderá nomear consultores, escolhidos dentre pessoas de notório saber e experiência, por meio de deliberação do comitê diretivo.
-
-**(Atividades)**
-Artigo 7º: Para alcançar o objetivo estabelecido no Artigo 2º, a associação realizará as seguintes atividades:
-1. Pesquisa sobre os princípios da Agricultura Natural.
-2. Estudo da eficácia da Agricultura Natural.
-3. Pesquisa técnica sobre os métodos de implementação da Agricultura Natural.
-4. Investigação e estudo de campo em propriedades que praticam a Agricultura Natural.
-5. Comissionamento de estudos e testes práticos sobre a Agricultura Natural.
-6. Estudo comparativo entre a Agricultura Natural e outros métodos agrícolas.
-7. Realização de colóquios sobre a Agricultura Natural.
-8. Coleta de materiais e documentos relacionados à Agricultura Natural.
-9. Pesquisa sobre outras questões pertinentes à Agricultura Natural.
-10. Publicação de um periódico institucional.
-
-**(Reuniões Mensais de Estudo)**
-Artigo 8º: A associação realizará uma reunião mensal de estudos em data apropriada. Reuniões extraordinárias poderão ser convocadas quando o Presidente julgar necessário ou por solicitação de, no mínimo, cinco membros.
-
-**(Contabilidade)**
-Artigo 9º: As despesas da associação serão custeadas pelas taxas de filiação e por doações. Taxas adicionais poderão ser cobradas quando o Presidente julgar necessário, mediante a aprovação da maioria dos membros.
-
-Artigo 10º: O ano fiscal da associação terá início em 1º de abril e término em 31 de março do ano seguinte.
-
-**(Assembleia Geral)**
-Artigo 11º: A associação realizará uma Assembleia Geral anual em março, ocasião em que ocorrerá a eleição da diretoria. Uma Assembleia Geral extraordinária poderá ser convocada quando o Presidente julgar necessário.
-
-Artigo 12º: Na Assembleia Geral ordinária, o Presidente deverá apresentar o relatório de atividades, e os Diretores Permanentes, o relatório financeiro.
-
-**(Alteração do Estatuto)**
-Artigo 13º: A alteração ou revogação deste estatuto exigirá a aprovação de, no mínimo, dois terços dos membros.
-
-**Deliberações Complementares**
-
-1. A diretoria será definida por meio da indicação de responsáveis pelo comitê fundador, com a aprovação tanto dos indicados quanto dos membros.
-2. Os consultores serão indicados após deliberação do comitê diretivo, uma vez que o Presidente tenha sido eleito.
-3. As reuniões mensais de estudo serão realizadas na segunda terça-feira de cada mês, a partir das 17h.
 
 ---
 

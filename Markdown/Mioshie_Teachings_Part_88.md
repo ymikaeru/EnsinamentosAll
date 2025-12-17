@@ -3,8 +3,8 @@
 # Coletânea de Ensaios do Mestre Okada Jikan
 
 **Categoria:** sasshi | **Ano:** - | **Fonte:** 浄霊法講座
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 浄霊法講座 （七）婦人科 | **Status:** Published | **Edição/Página:** 7号, 22号, P.3, 22号, P.4 | **Data ISO:** -
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 浄霊法講座
 
 ## Coletânea de Ensaios do Mestre Okada Jikan
 ## Curso sobre o Johrei (Sete) Ginecologia
@@ -746,8 +746,8 @@ Sim, mesmo sem hemorragia na parte inferior, em casos de úlcera gástrica com s
 # Do Acervo de Ensaios do Mestre Okada Jikan – Registro de Orientações, Volume 11
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年7月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-07-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録11号 | **Status:** Published | **Edição/Página:** 11号, 11号 | **Data ISO:** 1952-07-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Do Acervo de Ensaios do Mestre Okada Jikan – Registro de Orientações, Volume 11
 
@@ -1171,8 +1171,8 @@ Com perseverança, ela será curada.
 # Coletânea de Teses do Mestre Jikan Okada – Registro dos Ensinamentos Orais, nº 21 (Publicado em 15 de junho de 1953)
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-06-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録21号 | **Status:** Published | **Edição/Página:** 21号, 21号 | **Data ISO:** 1953-06-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro dos Ensinamentos Orais, nº 21 (Publicado em 15 de junho de 1953)
 
@@ -1448,8 +1448,8 @@ Dobre-a e guarde-a.
 # Coletânea de Teses do Mestre Jikan Okada – Registro de Orientações Divinas n.º 17
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-02-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録17号 | **Status:** Published | **Edição/Página:** 17号, 17号 | **Data ISO:** 1953-02-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro de Orientações Divinas n.º 17
 *Publicado em 15 de fevereiro de 1953 (Showa 28)*
@@ -1775,8 +1775,8 @@ O ataque de insetos ocorre porque há veneno de adubo na semente.
 # Coletânea de Teses do Mestre Jikan Okada – Registro de Orientações Divinas, volume 20
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-05-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録20号 | **Status:** Published | **Edição/Página:** 20号, 20号 | **Data ISO:** 1953-05-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro de Orientações Divinas, volume 20
 Publicado em 15 de maio de 1953 (Showa 28)
@@ -2133,8 +2133,8 @@ Não há problema. Desde que o solo seja natural, está bom. O problema é que, 
 # Coleção de Teses do Mestre Okada Jikanshi — Registro dos Sagrados Ensinamentos, nº 22
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-07-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録22号 | **Status:** Published | **Edição/Página:** 22号, 22号 | **Data ISO:** 1953-07-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coleção de Teses do Mestre Okada Jikanshi — Registro dos Sagrados Ensinamentos, nº 22
 
@@ -2446,8 +2446,8 @@ Conforme escrevi em um artigo recente, o número de pessoas que não serão salv
 # Coletânea de Ensaios do Mestre Jikan Okada – Registro de Orientações Divinas, vol. 1 (Publicado em 15 de setembro de 1951)
 
 **Categoria:** gosuiji | **Ano:** 昭和26(1951)年9月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録1号 | **Status:** Published | **Edição/Página:** 1号, 1号 | **Data ISO:** 1951-09-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensaios do Mestre Jikan Okada – Registro de Orientações Divinas, vol. 1 (Publicado em 15 de setembro de 1951)
 
@@ -2972,8 +2972,8 @@ Em um paciente iniciante, deve-se aplicar Johrei intensamente. O que eu disse an
 # Coletânea de Teses do Mestre Okada Jikan – Registro das Sagradas Palavras, n.º 14
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-10-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録14号 | **Status:** Published | **Edição/Página:** 14号, 14号 | **Data ISO:** 1952-10-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Okada Jikan – Registro das Sagradas Palavras, n.º 14
 
@@ -3276,8 +3276,8 @@ Que maravilha
 # Coletânea de Ensinamentos do Mestre Jikan Okada – Goshijiroku nº 16 (Publicado em 15 de dezembro de 1952)
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-12-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録16号 | **Status:** Published | **Edição/Página:** 16号, 16号 | **Data ISO:** 1952-12-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensinamentos do Mestre Jikan Okada – Goshijiroku nº 16 (Publicado em 15 de dezembro de 1952)
 
@@ -3469,8 +3469,8 @@ Sim, é natural. Nossos mundos são diferentes.
 # Coletânea de Teses do Mestre Jikan Okada – Registro de Ensinamentos, Volume 15 (Publicado em 15 de novembro de 1952)
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年11月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-11-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録15号 | **Status:** Published | **Edição/Página:** 15号, 15号 | **Data ISO:** 1952-11-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada – Registro de Ensinamentos, Volume 15 (Publicado em 15 de novembro de 1952)
 

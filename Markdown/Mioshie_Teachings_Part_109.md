@@ -3,8 +3,8 @@
 # Coletânea de Artigos do Mestre Jikan Okada – Coletânea de Ensinamentos, Volume 2
 
 **Categoria:** miosie | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-10-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二号 | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos do Mestre Jikan Okada – Coletânea de Ensinamentos, Volume 2
 
@@ -539,8 +539,8 @@ A parte da medicina na "Criação da Civilização" está pronta, e agora estou 
 # Coletânea de Teses do Mestre Okada Jikan — Coletânea de Ensinamentos, nº 14
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-10-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第十四号 | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Mestre Okada Jikan — Coletânea de Ensinamentos, nº 14
 
@@ -968,7 +968,7 @@ Estou escrevendo também, como já disse, sobre o grande número de doentes nos 
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月11日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamentos (11 de dezembro de 1951)
 
@@ -1032,7 +1032,7 @@ Portanto, é imperativo que a Igreja Messiânica cumpra essa missão. Foi para e
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S27年3月16日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Ensinamento (16 de março de 1952)
 
@@ -1169,7 +1169,7 @@ A área atrás do salão de chá está sendo aterrada e deverá estar pronta at�
 
 **Categoria:** miosie | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御教え （S26年12月8日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Artigos de Jikan Okada — Consulta aos Ensinamentos: help; Consulta aos Materiais: Ensinamentos (8 de dezembro de 1951)
 
@@ -1289,8 +1289,8 @@ Estou planejando publicar uma "Edição Especial" sobre agricultura, com o intui
 # Coletânea de Teses do Mestre Jikan Okada – Coletânea de Ensinamentos, nº 22
 
 **Categoria:** miosie | **Ano:** 昭和28(1953)年6月15日 | **Fonte:** Mioshie-shu
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-06-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御教え集第二十二号 | **Status:** Published | **Edição/Página:** 22号 | **Data ISO:** 1953-06-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** - | **Fonte (JP):** 御教え集
 
 ## Coletânea de Teses do Mestre Jikan Okada – Coletânea de Ensinamentos, nº 22
 

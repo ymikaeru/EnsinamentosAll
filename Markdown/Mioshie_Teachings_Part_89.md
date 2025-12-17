@@ -3,8 +3,8 @@
 # Coletânea de Teses do Mestre Jikan Okada — Registro de Ensinamentos, nº 3
 
 **Categoria:** gosuiji | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-11-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録3号 | **Status:** Published | **Edição/Página:** 3号, 3号 | **Data ISO:** 1951-11-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada — Registro de Ensinamentos, nº 3
 
@@ -878,8 +878,8 @@ Sim, pode. Sendo o Konjin do portão do demônio, não há problema.
 # Registro das Orientações Divinas, nº 19 (Ano 28 da Era Showa)
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-04-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録19号 | **Status:** Published | **Edição/Página:** 19号, 19号 | **Data ISO:** 1953-04-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Registro das Orientações Divinas, nº 19 (Ano 28 da Era Showa)
 
@@ -1158,8 +1158,8 @@ Exatamente.
 # Coletânea de Ensinamentos – Goshijiroku nº 8
 
 **Categoria:** gosuiji | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1952-04-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録8号 | **Status:** Published | **Edição/Página:** 8号, 8号 | **Data ISO:** 1952-04-25
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensinamentos – Goshijiroku nº 8
 Goshijiroku nº 8, publicado em 25 de abril de 1952 (Ano 27 da Era Showa)
@@ -1863,8 +1863,8 @@ A mina também, a partir deste ano, começará a se manifestar de verdade. É pr
 # Coletânea de Ensinamentos nº 28 (Publicado em 15 de fevereiro de 1954)
 
 **Categoria:** gosuiji | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-02-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録28号 | **Status:** Published | **Edição/Página:** 28号, 28号 | **Data ISO:** 1954-02-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Ensinamentos nº 28 (Publicado em 15 de fevereiro de 1954)
 
@@ -2185,8 +2185,8 @@ Sem dúvida. O Albargin parece ser muito eficaz para a vida. Ele acaba com ela. 
 # Coletânea de Teses do Mestre Jikan Okada
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-09-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録24号 | **Status:** Published | **Edição/Página:** 24号, 24号 | **Data ISO:** 1953-09-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Jikan Okada
 ### Registro de Ensinamentos, nº 24, publicado em 15 de setembro de 1953 (Showa 28)
@@ -2450,8 +2450,8 @@ Sim. Por exemplo, nascer em uma família abastada e manter uma boa posição soc
 # Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Orientações Divinas, nº 29
 
 **Categoria:** gosuiji | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1954-03-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録29号 | **Status:** Published | **Edição/Página:** 29号, 29号 | **Data ISO:** 1954-03-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Reverendo Okada Jikanshi — Registro de Orientações Divinas, nº 29
 *Publicação de 15 de março de 1954 (Ano 29 da Era Showa)*
@@ -2806,8 +2806,8 @@ No entanto, isso não significa que devemos viver de forma leviana. É aí que e
 # Registro dos Sagrados Ensinamentos, nº 4 (Showa 26 - 1951)
 
 **Categoria:** gosuiji | **Ano:** 昭和26(1951)年12月10日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-12-10
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録4号 | **Status:** Published | **Edição/Página:** 4号, 4号 | **Data ISO:** 1951-12-10
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Registro dos Sagrados Ensinamentos, nº 4 (Showa 26 - 1951)
 
@@ -3835,8 +3835,8 @@ Sim, mas, nesses casos, entoe a Oração Amatsu-Norito e o Salmo Zenguen-Sandji.
 # Coletânea de Teses do Mestre Okada Jikan — Registro das Sagradas Orientações, nº 25 (Publicado em 15 de outubro de 1953) — Vigésimo Quinto Número (Vigésimo Oitavo Ano da Era Showa) [Primeiro de outubro]
 
 **Categoria:** gosuiji | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Gosuiiji録
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1953-10-15
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 岡 田 自 観 師 の 論 文 集 ――― 御垂示録25号 | **Status:** Published | **Edição/Página:** 25号, 25号 | **Data ISO:** 1953-10-15
+**Coletânea:** 岡 田 自 観 師 の 論 文 集 | **Tipo:** Ensinamentos | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Mestre Okada Jikan — Registro das Sagradas Orientações, nº 25 (Publicado em 15 de outubro de 1953) — Vigésimo Quinto Número (Vigésimo Oitavo Ano da Era Showa) [Primeiro de outubro]
 

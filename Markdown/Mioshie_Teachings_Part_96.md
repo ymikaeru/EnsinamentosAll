@@ -3,8 +3,8 @@
 # Publicações Relacionadas
 
 **Categoria:** kanren | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** メシヤ教批判
-**Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** 1951-09-25
-**Coletânea:** - | **Fonte (JP):** -
+**Título Original:** ――― 関 連 出 版 物 ――― 世に憎まれたメシヤ教 岩崎 栄 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-09-25
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** メシヤ教批判
 
 ## Publicações Relacionadas
 ## A Messhiya-kyō Odiada pelo Mundo
@@ -641,7 +641,7 @@ E, quando lidam com nós, religiosos, eles não nos tratam apenas como pessoas c
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** Shinko Zatsuwa
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** 信仰雑話
 
 ## Crônica das Flores
 
@@ -973,7 +973,7 @@ A lua havia surgido. Fiquei a contemplar, por um longo tempo, os botões da cere
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** - | **Fonte (JP):** -
 
 Publicações Relacionadas — A partir da Coletânea de Ensaios do Mestre Okada Jikan
 
@@ -1099,8 +1099,8 @@ Acesso Direto ao Texto por Categoria
 # Nove. Orientações ao substituir a Imagem Sagrada
 
 **Categoria:** kanren | **Ano:** 昭和24(1949)年 | **Fonte:** 御Hikari話録
-**Título Original:** - | **Status:** Published | **Edição/Página:** 7号, 1号, 21号, 30号 | **Data ISO:** 1949
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Título Original:** 伝道の手引き Ⅱ －１－３ 御神体について 九、御神体を奉斎し替える場合の心得 １ 御神体のお祀り変え（その一） 〔 御光話（S24年 4月23日） | **Status:** Published | **Edição/Página:** 7号, 1号, 21号, 30号 | **Data ISO:** 1949
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 御光話録
 
 ## Nove. Orientações ao substituir a Imagem Sagrada
 
@@ -1688,7 +1688,7 @@ Distribuir as oferendas aos membros é um gesto excelente. Contudo, não se deve
 
 **Categoria:** kanren | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** 関 連 出 版 物 | **Tipo:** - | **Fonte (JP):** -
 
 ## Publicações Correlatas — Mestre Nakasima Issei: Sua Fé e Sua Vida
 

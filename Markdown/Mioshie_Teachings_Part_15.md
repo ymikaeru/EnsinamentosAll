@@ -1,10 +1,50 @@
 # Mioshie_Teachings - Part 15
 
+# O Alvorecer do Mundo e os Perigos da Medicina
+
+**Categoria:** kouwa | **Ano:** 昭和28(1953)年3月15日 | **Fonte:** Mioshie-shu
+**Título Original:** 御講話 （S28年2月17日） | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1953-03-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
+
+## O Alvorecer do Mundo e os Perigos da Medicina
+
+Recebo frequentes questionamentos sobre o significado da capa da publicação “Salvando a América”, e como é provável que também os senhores sejam inquiridos a esse respeito, explicarei brevemente seu simbolismo. O mundo ingressa, em sua totalidade, na Era do Dia; em outras palavras, o Sol finalmente começou a sua ascensão. Nesse contexto, os Estados Unidos representam uma estrela, e as estrelas brilham apenas durante a escuridão da noite. O significado, portanto, é que o Sol surge em meio à noite sombria. Essa é a interpretação espiritual. Do ponto de vista material, contudo, posicionar a bandeira americana acima da bandeira japonesa é um gesto que agrada aos olhos dos americanos. Embora tenhamos adotado essa disposição por cortesia, a verdade reside no significado que acabo de expor.
+
+A Grã-Bretanha, como sempre digo, corresponde à Lua. Quando a Lua se põe a oeste, sua luz desaparece, permitindo que as estrelas brilhem com mais intensidade. De modo análogo, à medida que o poderio britânico declinava, os Estados Unidos começaram a brilhar no cenário mundial. Agora, com a iminente ascensão do Sol, a luz das estrelas gradualmente se ofuscará. Este é um processo que ainda está por se desdobrar. O Sol, portanto, nasce primeiramente nos Estados Unidos, e esse fenômeno se manifestará de forma cada vez mais concreta.
+
+A Rússia, por sua vez, simboliza o orvalho. Ao amanhecer, antes que o Sol desponte, o orvalho se acumula abundantemente sobre a terra. Contudo, assim que o Sol nasce, ele se dissipa. Inevitavelmente, um fenômeno semelhante se manifestará no cenário mundial. A França representa a névoa, e a Alemanha, a terra. Por essa razão, no futuro, a Alemanha assumirá a liderança na Europa, com a missão de unificá-la. Os acontecimentos do mundo estão, dessa forma, inteiramente refletidos nos fenômenos astronômicos e naturais. Os seres humanos, por sua vez, correspondem às estrelas. Portanto, à medida que a população da Terra aumenta, o número de estrelas também se multiplica. Novas estrelas continuarão a surgir; nos tempos mais remotos, sua quantidade era consideravelmente menor. É por isso que frequentemente se anuncia a descoberta de novos astros; eles estão em constante formação, embora apenas os de maior magnitude sejam identificados. Já escrevi sobre isso anteriormente. Os astros que nomeiam os dias da semana correspondem aos chefes de Estado de cada nação.
+
+A seguir, daremos continuidade à leitura de “O Livro da Revolução da Medicina”. Da última vez, lemos até o quarto capítulo, portanto, hoje leremos o quinto.
+
+(Leitura do Ensinamento “O Livro da Revolução da Medicina”, capítulo “V. Sobre as Cirurgias”)
+
+Gostaria de chamar a atenção para um ponto crucial: a medicina fitoterápica oriental, conhecida como Kampo. Os preparados do Kampo são extremamente tóxicos; arrisco dizer que sua toxicidade supera a dos medicamentos ocidentais. Ademais, as doses costumam ser muito volumosas. Frequentemente, ao questionar um doente — “O senhor deve ter tomado muitos remédios, não é mesmo?” —, recebo a resposta: “Não, eu não tomo tantos remédios assim.” Se insisto, dizendo: “Certamente há algo que o senhor utiliza”, a pessoa pode admitir: “Bem, se isso conta, quando criança tomei alguns chás de ervas.” Ocorre que muitos não consideram esses preparados como medicamentos, chegando a consumi-los em substituição ao chá. No entanto, são precisamente esses preparados que se revelam temíveis.
+
+A comprovação mais evidente surge ao interrogar pessoas de compleição pálida, que invariavelmente consumiram Kampo. Ao perguntar a uma delas: “A senhora já fez uso de Kampo, não fez?”, é comum ouvir: “Apenas um pouco, talvez dois ou três bules de cerâmica.” A verdade, porém, é que um único bule representa uma dose de veneno formidável. A baixa expectativa de vida dos japoneses no passado se deve, em grande parte, ao uso do Kampo. O recente aumento da longevidade, por outro lado, está diretamente relacionado ao abandono dessa prática.
+
+Em contrapartida, os medicamentos ocidentais não costumam afetar tanto a coloração da pele e, em geral, não representam um risco tão direto à vida quanto o Kampo. Todavia, os fármacos ocidentais modernos, como a penicilina, estão se tornando tão perigosos quanto os orientais. A longevidade aumentou por um tempo, mas com o uso contínuo desses novos medicamentos, ela voltará a decrescer. Portanto, são esses novos remédios que representam uma ameaça futura. É preciso compreender que a eficácia de um remédio é diretamente proporcional à sua toxicidade. Diante disso, ao atenderem os doentes, os senhores farão bem em investigar o uso do Kampo.
+
+Historicamente, essa prática sempre foi mais comum nas zonas rurais do que nos centros urbanos. Por essa razão, os habitantes do campo costumavam ter uma aparência doentia, com a pele pálida, acinzentada ou amarelada. Atribuía-se essa condição a uma alimentação frugal, mas a verdadeira causa era o consumo de chás medicinais. Os camponeses sempre mantinham algum tipo de erva medicinal estocada. Além disso, a facilidade de obtê-las — bastando ir às montanhas e colher esta ou aquela planta sem custo algum — incentivava o seu uso. Eles as secavam e as consumiam continuamente, o que resultava na má aparência. Muitos apresentam um inchaço azulado, sintoma clássico de intoxicação por Kampo. As pessoas com esse tipo de inchaço são as mais numerosas. Enquanto o envenenamento por Kampo tende a causar esse inchaço, os medicamentos ocidentais costumam levar ao emagrecimento. A pessoa de aparência azulada e inchada é o exemplo típico do intoxicado por Kampo. Os chineses, desde a antiguidade, têm a pele amarelada. É comum ver chineses com a pele amarela e o corpo robusto, o que também é um reflexo do consumo de Kampo.
+
+Nas mulheres, em particular, a intoxicação por Kampo resulta em uma pele de péssima qualidade, ressecada e sem qualquer brilho. As mulheres de hoje herdam essa condição de suas mães e avós e a agravam com o uso de potentes medicamentos e injeções da medicina ocidental. Para piorar o quadro, os cosméticos modernos contêm substâncias tóxicas. Se no passado o perigo se resumia ao veneno do chumbo no pó de arroz, hoje, a essa toxina se somam os venenos presentes em inúmeros produtos de beleza. Como consequência, a pele das mulheres contemporâneas está terrivelmente danificada. Mesmo as jovens chegam a um ponto em que se sentem incapazes de aparecer em público sem maquiagem. A indústria cosmética, por sua vez, avança cada vez mais. Contudo, é um avanço na arte de dissimular. Com uma camada de produtos, a aparência pode parecer bela, mas isso exige a aplicação de espessas camadas de diversos cosméticos. Nos salões de beleza, recorrem a vapores e toalhas quentes, mas Deus criou a mulher para ser bela sem a necessidade de tantos artifícios.
+
+Atualmente, a nação com a pior qualidade de pele no mundo são os Estados Unidos. Diz-se que a cútis das jovens americanas é extremamente áspera, resultado do uso constante de inúmeros medicamentos e tratamentos. O uso do batom, por exemplo, tornou-se necessário porque a cor natural dos lábios se perdeu. O mesmo se aplica ao blush; é absurdo, pois as bochechas deveriam ser naturalmente rosadas. Tudo isso é resultado do envenenamento medicamentoso. Por isso, as moças de hoje se escravizam cada vez mais aos cosméticos, que chegam a ocupar o primeiro lugar em seus orçamentos. Para uma mulher que se preocupa com a aparência, o ritual de se maquiar torna-se uma verdadeira obsessão. Não é raro que um marido precise esperar uma ou duas horas diante do espelho enquanto a esposa se prepara para sair, um transtorno considerável. É uma situação lastimável, e a raiz de todo esse problema é, invariavelmente, a toxina medicamentosa.
+
+Pode-se afirmar que, no mundo de hoje, não existem verdadeiras beldades. Mesmo na época de Ono no Komachi, embora o Kampo já estivesse presente, seu uso não era tão difundido como agora. Ela, sem dúvida, foi uma mulher de beleza genuína. As seguidoras da Sekaikyuseikyou, no entanto, tornam-se progressivamente mais belas. A razão é simples: ao abandonarem os medicamentos e purificarem o sangue através do Johrei, sua beleza natural aflora. Elas se tornarão ainda mais belas, mas como as toxinas ancestrais ainda persistem, será na geração de suas netas que surgirão mulheres de uma beleza extraordinária. Embora, é claro, seja preferível que a própria pessoa se torne bela em vez de esperar pelas netas…
+
+Em suma, o Kampo é extremamente prejudicial, principalmente devido às grandes quantidades consumidas. Por causa disso, mesmo que uma pessoa receba Johrei, novas toxinas se acumulam continuamente. As toxinas dos medicamentos ocidentais, por outro lado, tendem a se manifestar rapidamente como furúnculos e abscessos, sendo, nesse sentido, mais fáceis de eliminar. Na medicina ocidental, conforme li anteriormente, os desinfetantes são os mais temíveis. Já no Kampo, as ervas mais perigosas são o *gennoshoko* e o *dokudami*. O próprio nome *dokudami* parece derivar de *doku-tame*, que significa “acúmulo de veneno”. Antigamente, as mulheres dos bairros de entretenimento consumiam chá de *dokudami* continuamente, em substituição ao chá comum. É por isso que, sem maquiagem, sua compleição era tão ruim; a causa era o veneno desses preparados. As mulheres, em geral, consomem muito mais Kampo que os homens, utilizando produtos como o Chujoto (中将湯) e outros similares. A beleza feminina, portanto, é imensamente prejudicada por essa prática. Sendo assim, ao ministrarem Johrei, informem aos doentes que, quanto maior a quantidade de Kampo que consumiram no passado, mais tempo o processo de purificação levará. Ter essa compreensão fará uma grande diferença nos resultados.
+
+Agora, lerei um artigo que escrevi de uma forma um pouco mais interessante.
+
+(Leitura do Ensinamento “O Herói da Paz”)
+
+---
+
 # A Nova Metodologia Terapêutica
 
 **Categoria:** kouwa | **Ano:** 昭和13(1938)年1月26日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1938-01-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## A Nova Metodologia Terapêutica
 
@@ -20,7 +60,7 @@ Anteriormente, eu concedia um ideograma caligrafado. Embora, em essência, seu u
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年3月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年2月17日） | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1954-03-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Purificação do Japão e o Cenário Político Mundial
 
@@ -62,7 +102,7 @@ Tive a oportunidade de ler as primeiras vinte páginas do manuscrito e o achei m
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年3月5日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Reflexões sobre o Cenário Político Mundial
 
@@ -98,7 +138,7 @@ Agora, algo que sempre menciono, mas que peço que leiam por ser particularmente
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S27年5月1日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## O Despertar da Kannon Messiânica e a Religião da Arte
 
@@ -144,7 +184,7 @@ Afinal, quanto mais esperança o ser humano tiver, melhor. Nesse sentido, o Yume
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年3月5日） | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Significado Oculto da Doença e a Missão da Igreja
 
@@ -176,7 +216,7 @@ A partir do dia nove do próximo mês, haverá uma exposição de pinturas origi
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年9月17日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Transição para o Mundo do Dia
 
@@ -222,7 +262,7 @@ Há dois anos, um negociante de arte, um homem comum, trouxe-me uma edição de 
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年9月1日） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Revelação sobre a Medicina e a Origem do Sofrimento Humano
 
@@ -258,7 +298,7 @@ A partir de agora, passarei a escrever sobre as doenças de natureza espiritual.
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年11月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年10月17日） | **Status:** Published | **Edição/Página:** 27号 | **Data ISO:** 1953-11-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Avanço da Obra Divina no Céu e na Terra
 
@@ -312,7 +352,7 @@ Para finalizar, gostaria de dizer uma palavra. Tenho notado que muitos aplicam f
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年6月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年5月17日） | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1952-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Prática Correta do Johrei e a Causa das Doenças
 
@@ -385,7 +425,7 @@ Desmantelar essa superstição médica e farmacêutica é, de fato, uma tarefa m
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年11月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S26年10月1日S） | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1951-11-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Celeridade da Obra Divina
 
@@ -437,7 +477,7 @@ E as transformações ainda estão apenas no começo. A parte dos fundos mudará
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S27年9月1日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## O Equívoco Americano e o Plano Divino para a Purificação do Mundo
 
@@ -493,7 +533,7 @@ As pessoas ainda não se deram conta de que o esterco humano é prejudicial. Est
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年6月6日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Luta Espiritual e a Discernição
 
@@ -545,7 +585,7 @@ Portanto, se se esforçarem para agir assim em todas as situações, a diferenç
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年10月6日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-10-06
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## O Mistério dos Números e a Edificação da Obra Divina
 
@@ -599,7 +639,7 @@ Até mesmo nosso modesto livreto, "O Movimento de Kannon", que muitos já consid
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年11月5日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1953-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Alvorada de uma Nova Civilização
 
@@ -635,7 +675,7 @@ Assim, a Sekaikyuseikyou atrairá cada vez mais atenção. A grande dificuldade 
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （29年2月1日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1954-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Construção do Paraíso Terrestre e sua Projeção Mundial
 
@@ -661,7 +701,7 @@ Mas, por ora, encerro aqui minha explanação. Fiquem à vontade para fazer suas
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年4月5日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Ação Direta do Deus Supremo
 
@@ -714,7 +754,7 @@ Até mesmo Buda, Cristo e Maomé reverenciavam a Deus, buscavam Sua orientação
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （28年2月1日） | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1953-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Sabedoria da Descoberta e a Missão da Nova Era
 
@@ -990,7 +1030,7 @@ Ainda temos tempo. Gostariam de perguntar mais alguma coisa?
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月21日 | **Fonte:** Bunmei no Sozo
 **Título Original:** 御講話 未発表、昭和26(1951)年9月21日（速記録） これは | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1951-09-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 文明の創造
 
 ## As Raízes Espirituais e a Missão Messiânica
 
@@ -1036,7 +1076,7 @@ Existem muitos mistérios como este, impossíveis de serem registrados em livros
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年4月25日） | **Status:** Published | **Edição/Página:** 9号 | **Data ISO:** 1952-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Visão Divina para a Agricultura e a Cultura Japonesa
 
@@ -1074,7 +1114,7 @@ A propósito, um breve alerta.
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年6月26日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre o Apego e a Verdadeira Causa das Doenças
 
@@ -1112,7 +1152,7 @@ Este ano, tudo indica que a disenteria será muito prevalente. O número de caso
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年11月25日） | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1953-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Visão de Mundo e a Missão do Japão
 
@@ -1180,7 +1220,7 @@ Agora, gostaria de ler algo que lhes servirá de referência.
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年8月25日） | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Reta Interpretação dos Ensinamentos Divinos
 
@@ -1252,7 +1292,7 @@ Com esse conhecimento, nenhuma pergunta poderá deixá-los em apuros. Basta que 
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年2月25日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年1月26日） | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1952-02-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Existência dos Deuses-Dragão
 
@@ -1298,7 +1338,7 @@ Como nosso tempo se esgotou, peço agora que leiam a seção "Suntetsu".
 
 **Categoria:** kouwa | **Ano:** 昭和10(1935)年6月21日 | **Fonte:** Gokowa
 **Título Original:** 御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1935-06-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御講話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御講話
 
 ## A Edificação de um Mundo sem Doenças
 
@@ -1384,7 +1424,7 @@ Existem muitos outros desígnios divinos, os quais revelarei gradualmente com o 
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年9月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年8月25日） | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1951-09-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Visão Universal da Fé e a Manifestação do Belo
 
@@ -1424,7 +1464,7 @@ Quando a pessoa contrai a doença, o sangue tóxico se solidifica no peritônio 
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S28年3月25日） | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1953-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Revolução da Cultura Mundial
 
@@ -1492,7 +1532,7 @@ Quanto à arte moderna, como não tem despertado muito interesse, decidimos não
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S26年9月1日S） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## Diretrizes para as Nossas Publicações
 
@@ -1514,7 +1554,7 @@ Imagino que os senhores leiam a seção “Fonte do Riso”. Considero-a excelen
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年4月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S29年3月25日） | **Status:** Published | **Edição/Página:** 32号 | **Data ISO:** 1954-04-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Alvorecer de uma Nova Era Espiritual
 
@@ -1574,7 +1614,7 @@ Destarte, a hora de nossa missão ascender ao palco principal da História mundi
 
 **Categoria:** kouwa | **Ano:** 昭和26(1951)年12月10日 | **Fonte:** Gosuiiji録
 **Título Original:** 御講話 （S26年12月6日S） | **Status:** Published | **Edição/Página:** 4号 | **Data ISO:** 1951-12-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示録
 
 ## A Mobilização Divina e a Supremacia do Bem
 
@@ -1614,7 +1654,7 @@ Seja como for, tudo o que escrevi vem se manifestando gradualmente. Conforme con
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年12月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S27年11月27日） | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1952-12-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Salvação do Ocidente e a Falácia da Medicina Moderna
 
@@ -1658,7 +1698,7 @@ Por fim, o patriotismo tem sido um tema de grande debate ultimamente. Também es
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年5月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年4月27日） | **Status:** Published | **Edição/Página:** 21号 | **Data ISO:** 1953-05-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Sabedoria de Izunome e o Julgamento Precipitado
 
@@ -1708,7 +1748,7 @@ E Deus preparou as circunstâncias para que isso fosse possível. Acontece que o
 
 **Categoria:** kouwa | **Ano:** 昭和16(1941)年7月22日 | **Fonte:** Asu no Ijutsu
 **Título Original:** 江の島片瀬における御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1941-07-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 明日の医術
 
 ## A Origem Espiritual das Doenças e o Princípio da Cura
 
@@ -1760,7 +1800,7 @@ Uma vez que este princípio seja assimilado com clareza, o temor das doenças de
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 秋季大祭御講話 （S28年9月23日） | **Status:** Published | **Edição/Página:** 26号 | **Data ISO:** 1953-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Plano Divino em Pleno Andamento
 
@@ -1786,7 +1826,7 @@ Minhas palavras acabaram soando como o título de um sermão, mas, como o tempo 
 
 **Categoria:** kouwa | **Ano:** 昭和15(1940)年4月2日 | **Fonte:** Gokowa
 **Título Original:** 特別講習会御講話 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1940-04-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Os Alicerces da Terapêutica Divina
 
@@ -1840,7 +1880,7 @@ A melhora do paciente tende a ocorrer em ciclos, com alternância entre dias de 
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年4月20日 | **Fonte:** Mioshie-shu
 **Título Original:** 春季大祭御講話 （S27年3月27日） | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1952-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Edificação do Paraíso Terrestre e a Providência Divina
 
@@ -1886,7 +1926,7 @@ O tempo avançou consideravelmente. Há muito mais que gostaria de compartilhar,
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年1月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S26年12月18日） | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1952-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre a Verdade e a Arte Imposta
 
@@ -1918,7 +1958,7 @@ Meu novo museu seguirá um caminho distinto. O foco será o belo pelo qual todos
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年8月27日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## A Expansão da Obra Divina e o Princípio da Adequação
 
@@ -1968,7 +2008,7 @@ Reflitam bem sobre essas questões. Acionem sua sabedoria e discernimento e ajam
 
 **Categoria:** kouwa | **Ano:** 昭和28(1953)年9月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S28年8月26日） | **Status:** Published | **Edição/Página:** 25号 | **Data ISO:** 1953-09-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## O Princípio da Correspondência
 
@@ -2012,7 +2052,7 @@ Esse mesmo raciocínio se aplica de forma muito clara à cura das doenças. Apro
 
 **Categoria:** kouwa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 御講話 （S29年1月25日） | **Status:** Published | **Edição/Página:** 30号 | **Data ISO:** 1954-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sobre a Visão Limitada e a Ascensão Espiritual
 
@@ -2065,70 +2105,6 @@ Recentemente, tenho dito aos jovens: “Imitem os batedores de carteira”. E ex
 Assim, na fé, existem conceitos que são quase o oposto do que se pensava até hoje. Costumo dizer aos jovens: “Vocês ainda vivem na Era Tokugawa; alguns, até na Era Heian...”. A lentidão e a falta de perspicácia são gritantes. Muitos jovens vêm me auxiliar, um após o outro, e todos apresentam essa característica. Agem com uma calma tão exasperante que mal parecem pertencer ao século XX. E parece que essa tendência se acentua quando se tornam membros. Creio que existe uma certa acomodação na ideia de que, por estarem entregando tudo a Deus, não precisam se preocupar.
 
 Isso, porém, não é entregar-se a Deus, mas sim sobrecarregá-Lo com responsabilidades. É como se esperassem ser carregados no colo o tempo todo. A atitude correta é esforçar-se ao máximo para dar a Deus o mínimo de trabalho possível. Contudo, muitos fiéis são propensos a adotar uma mentalidade passiva, semelhante à de um bebê que espera ser cuidado pelos pais. Aí reside um ponto delicado e, ao mesmo tempo, de um fascínio indizível. O segredo está em harmonizar o esforço próprio (*jiriki*) com o Poder Divino (*tariki*). Encontrar esse equilíbrio é, em si, uma forma de despertar, uma ascese espiritual.
-
----
-
-# A Gripe como Bênção e a Purificação do Mundo
-
-**Categoria:** kouwa | **Ano:** 昭和28(1953)年2月15日 | **Fonte:** Mioshie-shu
-**Título Original:** 御講話 （S28年1月25日） | **Status:** Published | **Edição/Página:** 18号 | **Data ISO:** 1953-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
-
-## A Gripe como Bênção e a Purificação do Mundo
-
-A gripe tem se proliferado de maneira considerável, e os membros da nossa Igreja, por serem mais suscetíveis à dissolução das toxinas, tendem a contraí-la com maior facilidade. Por outro lado, aqueles que não estão gripados no momento não são necessariamente saudáveis; são, na verdade, pessoas cujas toxinas se encontram bem solidificadas. Indivíduos nessas condições correm um perigo maior, pois, quando o processo de purificação se iniciar, ocorrerá de forma abrupta e severa. Portanto, é preferível contrair a gripe o quanto antes, pois a manifestação será mais branda. Eis por que a consideramos algo positivo.
-
-Eu mesmo estou gripado desde o dia doze e ainda não me recuperei por completo. Geralmente, quando contraio uma gripe, ela se resolve em um ou dois dias. Neste ano, contudo, o processo se apresenta com uma intensidade peculiar, a ponto de uma noite ter sido tão penosa que me impossibilitou de trabalhar. Fora isso, minha rotina não se alterou, embora o corpo dolorido, a coriza e a tosse tenham sido bastante incômodos. Pessoas de fora da Igreja comentam: “O senhor não descansa, mesmo estando doente?”. Ao que respondo: “A gripe é uma enfermidade que, sem o uso de medicamentos, tem a sua cura como desfecho certo. Assim, não vejo necessidade de alterar meus hábitos e sigo com minhas atividades normais”. De fato, não há doença que deva ser particularmente temida; a gripe, em especial, é um processo seguro, desde que não se recorra a remédios para suprimi-la. Escrevi sobre este tema de forma bastante interessante e elucidativa.
-
-A gripe não se origina de toxinas localizadas em um ponto específico. Na verdade, as impurezas acumuladas em todo o corpo se dissolvem e são expelidas sob a forma de tosse e expectoração. No meu caso, o processo começou com uma coriza intensa, que me fez acumular uma montanha de lenços de papel. Essa secreção era, na realidade, a dissolução de toxinas de toda a região da cabeça. Após essa fase, senti a cabeça notavelmente mais leve. Percebo isso com clareza ao escrever meus artigos, pois, com a mente desanuviada, consigo trabalhar por períodos muito mais longos.
-
-Passado isso, comecei a sentir dores e um cansaço que irradiavam da cintura para as pernas. Intrigado, investiguei a causa e identifiquei um ponto de febre na parte inferior direita do abdômen, precisamente entre o apêndice e a pelve renal, que havia iniciado seu processo de dissolução. Era essa a origem da expectoração e do mal-estar. Assim que apliquei Johrei nesse local, a melhora foi imediata. É compreensível que a expectoração se origine da cabeça ou do pescoço, mas, neste caso, ela provinha da região abdominal. Eis a natureza da gripe: a febre pode surgir nos lugares mais inesperados, dissolvendo toxinas de partes do corpo das quais nem tínhamos consciência e promovendo sua expulsão. Por essa razão, a gripe é um mecanismo verdadeiramente benéfico.
-
-Por desconhecerem essa verdade, as pessoas se alvoroçam, anunciando a aquisição de dezenas de milhares de vacinas. Ocorre que a vacina atua justamente para solidificar e impedir a saída das toxinas que o organismo tenta expelir. É incalculável o grau de insensatez das pessoas ditas civilizadas, que ignoram um princípio tão elementar. Temos, portanto, o dever de educá-las, mas fazê-las compreender é uma tarefa monumental, pois estão completamente aprisionadas pela superstição.
-
-Resta a pergunta: como Deus fará com que essa gente supersticiosa compreenda? Sendo Deus, Ele possui um plano secreto, muito além da imaginação humana. Esse plano consiste na intensificação gradual do processo de purificação, a tal ponto que se tornará impossível solidificar as toxinas com medicamentos, como se fazia até agora. Atualmente, a vacina ainda consegue oferecer uma solidificação temporária, e é por isso que seu uso persiste. No entanto, quando nem mesmo esse efeito paliativo for possível, as pessoas não terão outra alternativa senão reconsiderar suas crenças.
-
-Recentemente, os jornais criaram seções dedicadas à religião, onde publicam diversos artigos sobre o tema. Nelas, figuram até mesmo as opiniões de grandes líderes religiosos, mas, ao lê-las, deparamo-nos com um conteúdo vago e sem substância. Limitam-se a repetir velhos discursos, ditos e reditos ao longo da história, sem qualquer serventia prática. É, na verdade, um desperdício de papel e de tinta.
-
-À medida que a purificação se intensificar, o mundo mergulhará em um estado de pânico e confusão, e uma situação gravíssima se instalará. Naquele momento, porém, se as pessoas conseguirem discernir e pensar: “Ah, era a isso que a Sekaikyuseikyou se referia!”, sua salvação será imensamente mais rápida. O tempo presente, portanto, é uma fase de preparação para esse porvir.
-
-Até aqui, tratei das doenças, mas outros fenômenos, como as guerras, também assumirão proporções alarmantes. Os debates atuais no Japão sobre rearmamento e paz são de uma futilidade atordoante e não levarão a lugar algum. Os socialistas e outras figuras proeminentes discursam sobre isso com grande soberba, mas suas palavras não passam de um zumbido de insetos. O que está por vir é muito mais sério: o mundo caminha para uma reviravolta completa. Na edição de Ano Novo da revista *Eiko*, publiquei um artigo intitulado “Um Conto Onírico sobre o Mundo”. Contudo, aquilo representa apenas uma parte da história. O que se seguirá é terrível demais, e, por ser demasiado cedo, abstive-me de o revelar. Pretendo, talvez, escrevê-lo na edição de Ano Novo do próximo ano.
-
-Nos desígnios de Deus, tudo já está determinado. Em linhas gerais, com o advento definitivo da Era do Dia, o Sol nascerá a partir do Leste no Mundo Espiritual, e tudo se tornará progressivamente mais claro. Sendo o Japão o país do Extremo Oriente, a luz começará a brilhar a partir daqui. Em seguida, ela se expandirá para a Coreia, a China, a Ásia Central, o Sudoeste Asiático e a Europa, iluminando gradualmente o mundo. Com o aumento da claridade, toda a imundície do passado se tornará manifesta. Há uma quantidade inimaginável de impurezas que permaneciam ocultas na escuridão da Era da Noite, e a grande limpeza de tudo isso terá início agora. Essa é a obra de Deus.
-
-Todavia, o Deus Supremo não se envolve diretamente no trabalho turbulento da purificação. Ele delega essa tarefa aos espíritos malignos. Enquanto isso, Deus observa os acontecimentos de braços cruzados, apenas a dar as diretrizes. E esse processo se manifestará no mundo material. Com o tempo, tudo se tornará claro. Por ora, digo apenas isto: a nação que sofrerá o mais severo castigo será a Grã-Bretanha. O que o Japão padeceu na guerra não será nada em comparação. Será uma situação deveras lastimável. E não apenas ela; os Estados Unidos também passarão por provações, e a União Soviética, ao final, terá um destino terrível. Quando o momento chegar, escreverei sobre esses assuntos. Por enquanto, limito-me a estas palavras. A chegada da Era do Dia significa, em sua essência, que a Luz do Oriente ascenderá gradualmente e se manifestará no mundo físico. Este é o princípio fundamental.
-
-Agora, darei prosseguimento com a leitura do próximo trecho de “O Livro da Revolução da Medicina”. A teoria geral já está delineada, mas, à medida que avançarmos, encontraremos tópicos fascinantes, sobre os quais nunca preguei anteriormente. Com a leitura completa desta obra, a compreensão sobre a natureza das doenças se tornará absoluta.
-
----
-
-# A Aguardada Chegada do Tempo Divino
-
-**Categoria:** kouwa | **Ano:** 昭和26(1951)年10月10日 | **Fonte:** Gosuiiji録
-**Título Original:** 御講話 （S26年9月5日S） | **Status:** Published | **Edição/Página:** 2号 | **Data ISO:** 1951-10-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
-
-## A Aguardada Chegada do Tempo Divino
-
-Indiscutivelmente, o próximo ano marcará o início da fase concreta de nossa Obra, o que torna a conclusão de Hakone imprescindível. Quando este local estiver finalizado, um centro terá sido estabelecido no Mundo Espiritual. Deus rege-se por uma ordem sequencial; portanto, a atitude mais prejudicial é a de forçar os acontecimentos.
-
-Nesse sentido, quando os homens traçam um plano e se deparam com dificuldades intransponíveis em sua execução, isso é um sinal para que se abstenham de prosseguir. Contudo, a tendência humana é insistir no objetivo inicial, apegando-se a ele obstinadamente. Embora essa tenha sido a norma até o presente, no Mundo do Dia, a realidade será outra. Por conseguinte, tudo o que exige um esforço extenuante deve ser evitado. Deve-se buscar o que é fácil e aprazível. O que nos causa repulsa deve ser abandonado, pois a aversão é um indicativo divino para que não avancemos. A Obra Divina deve transcorrer com a leveza e a alegria de quem entoa uma canção.
-
-Por essa razão, quando me deparo com algo que se afigura problemático, eu mesmo desisto de imediato e aguardo o tempo oportuno. Quando o momento certo chega, tudo se resolve de forma surpreendente. O mesmo se aplica a questões de terrenos. Havia uma propriedade no local destinado ao Paraíso Terrestre de Atami que eu desejava ardentemente há muito tempo. Tentamos negociar, mas era prematuro. Insistimos diversas vezes, sem sucesso. Então, decidi abandonar o assunto. Para minha surpresa, passado algum tempo, os próprios proprietários nos procuraram, indagando sobre nosso interesse.
-
-Nessa altura, a vantagem estava do nosso lado, permitindo-nos ditar as condições. Deus age de maneiras verdadeiramente sublimes. Ele havia arquitetado a situação de tal forma que o terreno em questão ficou ilhado, como um rato encurralado. Tornou-se impossível para eles vender a propriedade a qualquer outra pessoa. Ao final, não lhes restou alternativa senão rogar para que a Igreja Messiânica a adquirisse. Com isso, a proposta de compra que nos fizeram foi por um valor consideravelmente inferior ao que havíamos imaginado. Assim são os desígnios divinos.
-
-O método de Deus consiste em fazer uma tentativa. Se não surtir efeito, Ele recua e aguarda o momento propício. Aguardando, Ele próprio providencia para que tudo se encaminhe da melhor forma. Mesmo que uma situação pareça terrível ou extremamente difícil, ao deixá-la em Suas mãos, ela se resolve com uma facilidade inesperada. Há nisso uma engenhosidade divina verdadeiramente indescritível.
-
-Comigo, acontece o mesmo em relação a obras de arte. Basta que eu deseje uma peça, e, sem que eu faça esforço algum, ela subitamente chega até mim. Essa é a manifestação do poder da Joia que Realiza os Desejos, o Nyoi Hoju (如意宝珠). O termo "Nyoi" (如意) significa literalmente "conforme a vontade", ou seja, tudo ocorre exatamente como se deseja.
-
-A propósito, ocorreu um fato curioso. Certa vez, caligrafei a palavra "Nyoi" (如意) em um *kakemono* para um fiel, mas ele acabou por perdê-lo. Fiquei a refletir se seria possível que algo escrito por mim se perdesse e compreendi: o estado espiritual daquela pessoa ainda não era compatível com o poder de "Nyoi". A partir de então, decidi não mais escrever esses ideogramas. Naquela época, os espíritos malignos ainda detinham grande força e, por isso, interferiam para obstruir a manifestação do "Nyoi". Contudo, o tempo em que seu poder se manifestará plenamente já está próximo. Por ora, a concretização do "Nyoi" ainda demanda algum tempo.
-
-Alguém poderia dizer: "Quando tudo se tornar rápido, será assustador". De fato, para os iníquos, será aterrador; para os justos, todavia, será motivo de imensa alegria.
-
-Gostaria de abordar outro assunto, que já mencionei anteriormente: os artigos e ensaios publicados em nossos periódicos. Percebo que a maioria segue um mesmo padrão de escrita, o que os torna pouco interessantes. Embora os relatos de graças e milagres sejam sempre bem-vindos, seria enriquecedor se os membros também compartilhassem suas experiências pessoais e outros assuntos de seu interesse, diversificando o conteúdo. Peço que considerem esta orientação.
-
-Ademais, sinto falta de tertúlias ou mesas-redondas. Seria muito proveitoso que as realizássemos. Como sugeri recentemente, poderíamos organizar encontros para que os fiéis partilhem, uns com os outros, os milagres que vivenciaram.
 
 ---
 

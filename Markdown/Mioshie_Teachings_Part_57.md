@@ -1,10 +1,619 @@
 # Mioshie_Teachings - Part 57
 
+# Arte da Medicina (X) – Durante a Gestação
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** Shinko Zatsuwa
+**Título Original:** 医術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 信仰雑話
+
+## Arte da Medicina (X) – Durante a Gestação
+
+### 012 Educação Pré-natal
+
+Gostaria de receber seus ensinamentos a respeito da educação pré-natal, um tema frequentemente comentado na sociedade.
+
+A educação pré-natal consiste em instruir a criança ainda no ventre materno. Quando a mãe se expõe a bons ensinamentos, a mentalidade da criança é influenciada positivamente, e ela se torna uma pessoa de bem. De igual modo, a contemplação de fotografias de grandes personalidades ou de belas fisionomias por parte da mãe produz um efeito notável. Trata-se de uma prática extremamente salutar; observar constantemente caligrafias ou pinturas de indivíduos notáveis, por exemplo, constitui uma excelente forma de educação pré-natal. A leitura de "Conversas sobre a Fé" é igualmente recomendável.
+
+### 013 A Vontade e o Pensamento do Feto e a Educação Pré-natal
+
+Durante a gestação, o feto já manifesta vontade e pensamento?
+
+Poder-se-ia dizer que sim, mas a afirmação de que não os manifesta talvez corresponda mais à realidade. A razão para tal é que o feto não exterioriza qualquer expressão de sua vontade. Contudo, a questão não é tão simples. A prática da educação pré-natal demonstra que, ao ouvir coisas boas, a mãe exerce uma influência benéfica sobre o feto. Diz-se também que a contemplação de semblantes formosos produz um efeito similar. Em suma, o pensamento dos pais é o que verdadeiramente influencia a criança. Se o feto fosse desprovido de vontade e pensamento, não seria suscetível a nenhuma influência. Portanto, embora se possa afirmar sua ausência, essa não é uma verdade absoluta.
+
+### 014 A Semelhança da Fisionomia dos Filhos com a dos Pais (Educação Pré-natal)
+
+Gostaria de indagar por que alguns filhos se parecem com o pai, outros com a mãe e outros, ainda, com nenhum dos dois, tanto em temperamento quanto em aparência.
+
+As circunstâncias que determinam essa semelhança são múltiplas e variam a cada caso. Se o pai permanece em casa durante a gestação, é mais provável que a criança se assemelhe a ele. Na sua ausência, o filho tende a se parecer com a pessoa que a mãe vê com mais frequência. Por essa razão, a convivência com pessoas de bela aparência ou a leitura de livros sagrados exercem uma influência positiva. Nisso reside o profundo significado da educação pré-natal.
+
+### 015 Cessação dos Movimentos Fetais
+
+Uma senhora membro da Igreja, com cerca de vinte e quatro anos, notou, no quinto mês de gestação, que os movimentos fetais haviam cessado. Ao procurar um médico, foi informada de que o feto já estava morto e em decomposição, sendo necessária uma intervenção cirúrgica. Relutante em se submeter ao procedimento, ela optou por receber Johrei. Após aproximadamente dez dias, os movimentos retornaram. Em uma nova consulta, o médico apenas comentou: "Afinal, não estava morto". Poderíamos considerar essa condição um estado temporário de morte aparente? Se sim, qual seria a sua causa?
+
+A preocupação excessiva ou a contração do estômago, que reduz o apetite, pode impedir que a nutrição chegue adequadamente à criança. Tais fatores ocasionam o seu enfraquecimento.
+
+### 016 Calafrios durante os Movimentos Fetais (Espírito de Morto)
+
+Uma primigesta de trinta e cinco anos, atualmente no oitavo mês, sente calafrios e uma sensação de estar sendo puxada para as profundezas da terra a cada movimento do feto. Qual seria a explicação para tal fenômeno?
+
+A presença de um espírito de morto causa frio nas costas, enquanto a de um espírito vivo gera calor. Trata-se de uma ligação espiritual relacionada à criança em gestação; ou seja, um espírito de morto está conectado ao feto. A recitação da Oração Amatsu Norito e dos Hinos Divinos solucionará o problema. Se, por exemplo, um homem se casa três meses após o falecimento da primeira esposa, é provável que se trate do espírito dela. Após a morte da esposa, o homem deve aguardar pelo menos um ano antes de contrair novo matrimônio.
+
+### 017 Seis Meses de Gestação sem Expansão Abdominal (Morte Fetal)
+
+Uma membro, com cerca de trinta anos, está no sexto mês de gestação, mas seu abdômen não se expandiu. Um médico diagnosticou que o feto teria morrido por volta do terceiro mês e insiste na realização de uma cirurgia. Como ela não sente qualquer dor, receia o procedimento e deseja continuar recebendo Johrei. Caso a morte fetal se confirme, o Johrei poderá promover a sua expulsão? Acrescento que essa senhora já tem dois filhos e sofreu um aborto espontâneo.
+
+Se o feto estiver realmente sem vida, será expelido por meio do Johrei. Em certas ocasiões, o acúmulo de sangue antigo pode gerar uma condição semelhante. Com o Johrei, tudo o que é prejudicial é eliminado.
+
+### 018 O Estado de um Feto de Cinco Meses (Espírito)
+
+Qual é a diferença entre o estado espiritual de um feto abortado com mais de cinco meses e o de um com menos de quatro meses?
+
+A partir dos cinco meses, o feto adquire a forma humana completa.
+
+### 019 Aborto
+
+Qual será o impacto do controle de natalidade, praticado atualmente, sobre a sociedade futura? E uma pessoa que tenha praticado aborto, mesmo que uma única vez, poderá ser salva ao ingressar na fé?
+
+Mesmo tendo praticado o aborto, a pessoa será salva ao ingressar na fé. O aborto é uma forma de assassinato. Contudo, ao salvar a vida de alguém, esse pecado é redimido.
+
+### 020 Náuseas da Gravidez
+
+Qual é a causa espiritual das náuseas da gravidez?
+
+A causa é física. Decorre de toxinas localizadas entre o umbigo e o plexo solar. À medida que o estômago se expande, ele as expele.
+
+### 021 A Causa das Náuseas da Gravidez
+
+Minha esposa, de trinta e três anos, está no quinto mês de gestação e, desde o início, sofre com náuseas. Por quatro meses, ela tem padecido desse mal. Quando recebe Johrei, sente-se aliviada por cerca de duas horas, mas o mal-estar retorna assim que executa qualquer tarefa. Qual seria a causa?
+
+Existem toxinas entre o plexo solar e o umbigo. A expansão do útero provoca sua eliminação por meio do vômito. Isso são as náuseas da gravidez. Normalmente, a cura é simples. Deve-se ministrar Johrei suavemente nessa região, assim como nos rins.
+
+### 022 Pontos para Johrei em Caso de Náuseas da Gravidez
+
+Por que algumas mulheres não sentem nenhuma náusea durante a gestação, enquanto outras sofrem de forma extremamente severa?
+
+A presença de toxinas na região abdominal é a causa. Quando o útero se expande, essas toxinas se tornam um obstáculo e são expelidas através do vômito. A origem está nos rins, e purificá-los juntamente com a área afetada torna a cura relativamente simples.
+
+### 023 A Causa da Eclâmpsia
+
+A eclâmpsia tem origem espiritual?
+
+Sim, é causada por um espírito de rancor. Trata-se de um ressentimento que visa a obstruir o nascimento. No pós-parto, a diminuição do volume de sangue facilita a possessão por espíritos.
+
+### 024 Gestação, Edema e Eclâmpsia
+
+Gostaria de solicitar proteção divina para a senhora Hina Oohata, cujo parto está previsto para 27 de agosto. Há cerca de um mês, ela desenvolveu um edema generalizado e, apesar de receber Johrei, o quadro tem se agravado, causando-lhe dor até para se mover. Além disso, há alguns dias, iniciou-se uma purificação de hérnia, e o edema nos pés piorou consideravelmente, intensificando a dor quando ela recebe Johrei. A família está muito apreensiva quanto à possibilidade de um parto seguro. Imploramos por sua proteção.
+
+Quanto à eclâmpsia, sua cura é simples. Na maioria dos casos, bastam duas ou três sessões de Johrei bem aplicadas nos rins. Provavelmente, o poder espiritual ministrado é insuficiente. Se a eclâmpsia se manifestar, deve-se purificar o espírito obsessor.
+
+### 025 Tremores nos Membros em Consequência da Eclâmpsia
+
+Uma senhora de quarenta e um anos sofreu de eclâmpsia e de uma doença renal durante um parto, há dezesseis anos, tendo sido tratada pela medicina. Há seis anos, sua mão esquerda começou a tremer. Dois anos atrás, após sofrer de insolação, seus braços e pernas começaram a tremer, e o quadro se agrava a cada dia. Os tremores cessam quando está deitada, lendo ou compondo poemas, mas seus membros não se movem livremente, e ela não consegue escrever. Assim que inicia uma conversa, os tremores recomeçam subitamente. Ela e sua família suplicam fervorosamente a Kannon (観音), tendo entronizado em sua casa uma imagem da divindade em um biombo, por acreditarem em uma possível causa espiritual. Qual seria a origem desse mal? Haveria cura completa? Onde o Johrei deve ser focado?
+
+Esse tipo de sintoma é frequentemente causado por injeções. Mesmo que houvesse uma causa espiritual, ela não se manifestaria dessa forma. Trata-se, muito provavelmente, de uma intoxicação medicamentosa. É curável com Johrei. A origem do problema localiza-se na lateral do pescoço.
+
+### 026 Evacuação Inconsciente durante a Gestação
+
+Uma mulher de vinte e quatro anos, no nono mês de sua segunda gestação, está evacuando sem perceber. O médico afirma que a cabeça do feto pressiona o intestino grosso e que o problema só será resolvido após o parto. Essa explicação procede?
+
+A explicação está correta; contudo, a ocorrência desse sintoma indica a existência de uma anomalia. O músculo do esfíncter não está se contraindo e relaxando adequadamente. Ministrar Johrei da parte externa do ânus para o interior resolverá o problema.
+
+### 027 Tosse e Desconforto na Região do Hilo Pulmonar durante a Gestação
+
+Uma senhora de vinte e sete anos, por volta do oitavo mês de gestação, começou a sofrer de tosse intensa, catarro e suores noturnos. Essa purificação persiste mesmo após o parto. Passado um mês, ela continua a expelir secreções a cada acesso de tosse e, nos intervalos, sente um desconforto na região do hilo pulmonar. Qual seria a causa e qual o método de Johrei indicado?
+
+Toxinas solidificadas estão em processo de purificação. As toxinas da cabeça se dissolvem e se manifestam como tosse. Há também grande acúmulo ao redor do pescoço e nos ombros. Ao identificar e ministrar Johrei no ponto vital, a cura será alcançada. É fundamental ter esse conhecimento.
+
+### 028 Aversões e Desejos durante a Gestação
+
+Por que, durante a gestação, algumas mulheres passam a gostar de alimentos ou de cigarros que antes detestavam, e essa preferência se mantém, enquanto outras retornam aos seus gostos originais após o parto?
+
+À medida que o útero se expande, ele pressiona o estômago, provocando alterações. O princípio é o mesmo das náuseas da gravidez: existem nódulos de toxinas nas partes superior e inferior do estômago que, ao pressionarem diferentes áreas do órgão, causam essas variações no paladar. O mais comum, no entanto, é o surgimento de aversões. Além disso, os gostos e as aversões que a criança tinha em sua vida anterior podem influenciar a mãe. O hábito de consumir determinado alimento também pode levar ao desenvolvimento do gosto por ele.
+
+### 029 Desejo por Álcool e Cigarro na Gravidez
+
+Certa mulher, sempre que engravida, sente um forte desejo de consumir bebidas alcoólicas e cigarro.
+
+Quando a criança concebida é a reencarnação de uma alma, as predileções de sua vida anterior se manifestam por meio da mãe. É por isso que ela passa a gostar ou a detestar coisas específicas. Da mesma forma, é comum que o recém-nascido tenha a fisionomia de um idoso ou de uma idosa, mas, com o tempo, adquire feições de criança. Isso também se deve ao fato de o rosto que a pessoa tinha no momento da morte, em sua vida passada, se manifestar ao nascer.
+
+### 030 O Dia de Usar a Faixa de Gestante
+
+Dizem que usar a faixa de gestante no Dia do Cão garante um parto tranquilo. Isso tem algum fundamento? Para os membros da fé, os dias 18 ou 23 não seriam mais apropriados?
+
+Isso não passa de superstição. A prática se baseia na tentativa de se associar à boa sorte dos cães, que têm ninhadas numerosas. Os dias 18 e 23 são, de fato, mais auspiciosos.
+
+### 031 Cuidados com a Faixa de Gestante
+
+A partir do quinto mês de gestação, as mulheres são instruídas a usar uma faixa abdominal. É melhor usá-la ou não? E qual o efeito sobre o feto?
+
+No Ocidente, essa prática não existe. É preferível que a criança se desenvolva de forma mais compacta para facilitar o parto, e a faixa também pode auxiliar nas atividades diárias. Contudo, é preciso ter cuidado, pois, se amarrada com muita força, pode provocar um aborto. A decisão de usá-la ou não é individual. A faixa é utilizada com o intuito de não deixar a criança crescer muito, para que o parto seja mais fácil, mas isso é desnecessário. É um costume exclusivamente japonês. A pressão exercida pelas toxinas já presentes no abdômen é suficiente; para as mulheres que possuem nódulos de toxinas nessa região, o uso da faixa é, na verdade, prejudicial, podendo até mesmo antecipar o parto. O ideal é usá-la amarrada de forma suave.
+
+### 032 A Faixa Iwata-obi
+
+A faixa de gestante é chamada de Iwata-obi. Qual a origem desse nome?
+
+Embora deva haver algum significado, conhecê-lo não é essencial para a vida ou o destino. Provavelmente, o nome Iwata-obi (岩田帯) deriva do ideograma de "iwa" (岩), que significa "rocha", transmitindo a ideia de firmeza e solidez. A faixa pode ser amarrada firmemente. O algodão não é adequado, por isso se utiliza tecido. É possível que seu uso também esteja relacionado ao fato de que, com a "queda" da barriga, o trabalho se torna mais difícil, e para as mulheres do campo, que trabalham até o último mês de gestação, a faixa facilitaria as tarefas.
+
+---
+
+# Coleção de Teses do Mestre Jikan Okada – Pesquisa de Ensinamentos: Documentos Auxiliares – Volume sobre Ofícios Espirituais, Terceira Parte, 5, 056-068
+
+**Categoria:** kouwa | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
+**Título Original:** - | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1949-07-30
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
+
+## Coleção de Teses do Mestre Jikan Okada – Pesquisa de Ensinamentos: Documentos Auxiliares – Volume sobre Ofícios Espirituais, Terceira Parte, 5, 056-068
+
+## Espíritos de Animais em Geral
+
+### 056 - Ofício Memorial para Galináceos e a Morte de Seres Vivos
+
+**Pergunta:** Somos uma família de agricultores que, paralelamente à lavoura, dedica-se à avicultura há mais de vinte anos. Em certa época, mantivemos uma incubadora e, nesse período, chegamos a cozer pintainhos machos ainda vivos para alimentar as outras aves. Ocasionalmente, também abatíamos galináceos para nosso consumo. Esses fatos nos atormentam a consciência e desejamos realizar um ofício memorial. Qual seria a maneira correta de procedermos? Gostaríamos de saber, ainda, se tais acontecimentos possuem alguma relação com a enfermidade mencionada em um assunto anterior. Rogamos, humildemente, por Vossa orientação.
+
+**Resposta:** Não se trata de uma questão de grande gravidade. Os galináceos existem para serem consumidos pelos seres humanos; contudo, o abate ou o consumo em grande quantidade podem, de fato, gerar uma retribuição espiritual. Se a consciência vos pesa, é recomendável oficiar um serviço memorial. Em uma placa de madeira, inscrevam as palavras “Espírito das Miríades de Aves”. Disponham-na sobre um pequeno suporte ao lado do altar da Divindade Komyō Nyorai. Como oferenda, depositem ração para aves. Uma vez ao ano, em data previamente definida, entoem a Oração das Palavras de Bem e Louvor e dirijam uma prece ao Deus do Mundo Oculto, rogando: “Suplicamos Vossa proteção aos espíritos das aves que foram abatidas. Se possuírem afinidade com os seres humanos, permiti que renasçam o mais brevemente possível na condição humana”.
+
+### 057 - Ofício para os Animais de Criação
+
+O lábio leporino tem cura.
+
+Ao abater animais de criação, é salutar realizar um ofício em sua memória ao menos uma vez por ano. O período do festival de Finados é propício, especialmente o seu último dia.
+
+Confecciona-se uma placa retangular de madeira branca com a inscrição “Espíritos de todos os Peixes e Aves” e a posiciona-se ao centro de um altar. Se o altar for elaborado com esmero, constituirá um verdadeiro santuário. A ele, ofereçam os alimentos próprios desses animais — que são distintos dos alimentos humanos — e expressem vossa gratidão pelos benefícios que proporcionaram à humanidade. Anunciem-lhes: “Hoje, estamos aqui para confortar vossos espíritos”, e, com essa intenção, entoem a oração e supliquem ao Deus do Mundo Oculto que lhes seja concedido um pronto renascimento.
+
+***
+
+(Nota) [Do artigo “A Obra Sobre-Humana”, publicado na revista *Hikari* nº 20, em 30 de julho de 1949]
+
+**Pergunta:** “Devido à minha atividade profissional, abato um número considerável de bovinos, equinos, ovinos, suínos e outros animais. Desejo realizar um ofício memorial por seus espíritos. Qual seria o método mais apropriado para tal?”
+
+**Resposta:** Esse tipo de ofício não deve ser realizado no interior da residência. É preciso erguer um pequeno santuário do lado de fora e, em uma placa de madeira, inscrever “Divindade dos Espíritos de todos os Animais”. Uma vez ao ano, ofereçam alimentos apreciados por bovinos e equinos, entoem a Oração das Palavras de Bem e Louvor e roguem ao Deus do Mundo Oculto que eles possam renascer o mais rápido possível como seres humanos. Isso se faz necessário porque muitos animais são, na verdade, espíritos humanos que decaíram ao reino animal.
+
+### 058 - No Caso da Morte de Animais de Criação
+
+**Pergunta:** Quando animais de criação como galinhas, porcos ou coelhos morrem, qual a forma adequada de realizar um ofício memorial por eles? Solicitamos Vossa orientação.
+
+**Resposta:** Devem ser enterrados em um local onde não sejam pisados. Entoem a oração e roguem ao Deus do Mundo Oculto para que renasçam como seres humanos. Contudo, um ofício excessivamente suntuoso pode ser prejudicial. Para cães e gatos, é suficiente demarcar o local com uma pedra.
+
+### 059 - Ofício para o Espírito de um Gato
+
+**Pergunta:** Temos uma filha de nove anos que não consegue se expressar verbalmente de modo corrente. Aos três anos de idade, sofreu de otite média e diarreia por cerca de seis meses, e até hoje apresenta secreção purulenta no ouvido. A mãe da menina recebeu o Ohikari no ano passado e instalou o altar da Divindade Komyō Nyorai em nosso lar. No último dia onze, enquanto a criança recebia Johrei diante do altar, ela começou a dizer que havia muitos gatos ali e que estava com muito medo. Ao término do Johrei, afirmou que um gato saiu de seu abdômen e que se sentia imensamente aliviada. Outro problema é que ela entra na casa de outras pessoas sem qualquer discernimento, o que nos causa grande embaraço. Qual poderia ser a causa de tudo isso?
+
+**Resposta:** Acredito que a secreção no ouvido esteja solidificada, causando uma obstrução. Ademais, há um espírito de gato atuando como obsessor. Confeccionem uma pequena placa de madeira e nela inscrevam “Espírito do Gato Preto” ou simplesmente “Espírito do Gato”. Coloquem-na sobre um pequeno suporte à esquerda do altar da Divindade Komyō Nyorai (visto de frente). Diariamente, após as orações, curvem a cabeça brevemente em sua direção. Em seguida, roguem à Divindade Komyō Nyorai para que esse espírito possa renascer como ser humano o mais breve possível.
+
+### 060 - Ofício Memorial para Espíritos de Ratos (Fabricante de Ratoeiras)
+
+**Pergunta:** Minha fábrica produz ratoeiras. Desde que ingressei na Fé, tenho aprendido que não é bom tirar a vida de seres vivos e, por isso, gostaria de realizar um ofício memorial pelos ratos. Como devo proceder? Peço Vossa orientação.
+
+**Resposta:** De fato, é melhor que se realize um ofício memorial. Diante do altar da Divindade Komyō Nyorai, coloquem uma placa com a inscrição “Espírito das Miríades de Ratos”, entoem a oração e ofereçam-lhes alimento. A prática deste ato uma ou duas vezes ao ano se reverterá em virtude.
+Ó, Deus do Mundo Oculto, concedei Vossa proteção e Vossa bênção.
+
+### 061 - O Sepultamento de Cavalos
+
+**Pergunta:** Na região de Kitami, em Hokkaido, quando um cavalo morre, costuma-se enterrá-lo no canto de um campo sob uma lápide com os dizeres: “Túmulo de Namu Bazu Kannon”. Tal prática é adequada? Rogamos por Vossa orientação.
+
+**Resposta:** A prática em si não é incorreta, mas revela-se excessiva. O mais apropriado seria sepultar o animal nas proximidades. Embora não seja algo prejudicial, o exagero no ritual faz com que o espírito sofra no Mundo Espiritual, em conformidade com a Lei da Concordância.
+
+### 062 - Mancha em Forma de Cabeça de Boi Aparece no Peito
+
+**Pergunta:** Um jovem de dezessete anos começou a sentir subitamente um peso e uma dor abdominal tão intensos que, por uma semana, não suportava o contato de roupas ou cobertores. Posteriormente, desenvolveu uma cardiopatia, com crises noturnas que ocorriam das onze da noite às três da manhã. Ao receber Johrei, seu corpo tremeu, manifestando um fenômeno de possessão espiritual, e em seu peito surgiu uma mancha com o formato exato da cabeça de um boi, que desapareceu em seguida. Desde então, as crises cessaram, mas sua saúde não se restabeleceu por completo. Há cerca de seis anos, possuíamos uma vaca extremamente inteligente que morreu durante um parto complicado. A família criou o bezerro com muito carinho, e ele se tornou tão dócil que chegava a esfregar o rosto no peito da minha esposa (mãe do doente). O animal foi doado a outra família e faleceu pouco tempo depois. Poderia haver alguma relação com os espíritos dessa vaca e de seu bezerro? Caso positivo, como deveríamos realizar o ofício para eles?
+
+**Resposta:** Trata-se do espírito da vaca. Realizar um ofício será ainda mais benéfico. É recomendável incluir o ideograma de “vaca” (牛) na inscrição. Podem nomeá-la “Divindade Myojin da Vaca e seu Bezerro” (親子牛明神). Ofereçam-lhe alimentos de sua preferência e entoem a oração, rogando para que renasçam rapidamente como seres humanos. O ofício pode ser encerrado após aproximadamente três meses. Com isso, os espíritos dos animais serão salvos.
+
+### 063 - Sobre o Procedimento com uma Tartaruga Morta (Causa de Doença)
+
+**Pergunta:** Um jovem fiel de vinte e cinco anos criava uma tartaruga em um pequeno lago. Certo dia, o animal morreu subitamente, e ele o lançou em um rio. Inquieto, porém, retornou, recolheu o corpo e o enterrou nos fundos do banheiro. Desde essa época, ele perdeu completamente a audição do ouvido esquerdo. Haveria alguma relação com a tartaruga morta? Rogamos por Vosso ensinamento.
+
+**Resposta:** Não há relação com um Deus Dragão. O correto é desenterrar o corpo e lançá-lo novamente ao rio. Sendo a tartaruga um animal aquático, ela mesma prefere ser devolvida à água. O animal se aborreceu por ter sido enterrado na terra. Exumem-no e devolvam-no ao rio como estava.
+
+### 064 - Forma do Ofício Memorial para Peixes
+
+**Pergunta:** Sou um fiel proprietário de uma frota pesqueira. Gostaria de saber que tipo de cerimônia devo realizar. Peço que me oriente sobre o método do ofício memorial e sua forma de consagração.
+
+**Resposta:** Uma vez por ano, em data fixa, celebre um ofício memorial. A formalidade não importa, podendo seguir ritos xintoístas ou budistas. Construa um altar e, em uma placa de madeira de cipreste no formato de uma tabuleta memorial, inscreva algo como “Espírito das Miríades de Peixes”, posicionando-a ao centro. Como oferenda, utilize água salgada para peixes marinhos ou água doce para peixes de rio. Ofereça também frutas, arroz cru, farinha de trigo, trigo, glúten de trigo, bolinhos e itens semelhantes. Entoem a Oração das Palavras de Bem e Louvor — de preferência com o maior número de pessoas possível — e dirijam vossas preces ao Deus do Mundo Oculto.
+É comum que, em vilarejos de pescadores, muitas pessoas sofram de problemas de visão. Embora se atribua isso ao reflexo da luz na água salgada, a retribuição espiritual dos peixes também é uma causa frequente. As enguias, em particular, provocam grande retribuição, assim como as minhocas, pois são uma espécie de dragão.
+
+### 065 - Ofício Memorial para Peixes
+
+**Pergunta:** Como se deve proceder para realizar um ofício memorial para peixes?
+
+**Resposta:** Quando o número de peixes é muito grande, seu ressentimento se acumula e forma uma massa única de energia. Isso ocorre especialmente com peixes compridos, como o congro, que são transfigurações de deuses-dragão e, por isso, podem causar certa retribuição espiritual. Daí a necessidade de se oficiar um memorial. A inscrição a ser utilizada é “Espíritos da Estirpe dos Peixes”.
+
+### 066 - Retribuição do Espírito de Enguias (Método do Ofício)
+
+**Pergunta:** A esposa do proprietário de um restaurante especializado em enguias sofre de uma doença abdominal. Já passou por duas cirurgias, mas sua saúde continua debilitada. Recentemente, ao receber Johrei, seu corpo começou a se contorcer em um estado de possessão, e ela relatou ver inúmeras cabeças de enguia. Como devemos proceder para oficiar um memorial aos espíritos desses animais? Gostaríamos de saber também sobre as famílias de comerciantes de aves ou de tartarugas de casco mole, nas quais por vezes nascem pessoas com deficiências. Acreditamos tratar-se de uma retribuição espiritual e rogamos que nos ensine o método de ofício memorial para esses espíritos.
+
+**Resposta:** Trata-se da ação de um grande número de enguias. Como as enguias são dragões, uma multidão de espíritos se aglutina em uma massa única, dando origem a uma enguia espiritual de proporções magníficas. É preciso realizar um ofício memorial para as enguias uma vez ao ano. Preparem um recipiente novo, como um pote ou uma bacia, encham-no com água e, sobre ele, coloquem uma placa com a inscrição adequada. Apresentem oferendas, entoem a oração e, se houver uma ligação de afinidade, peçam ao Deus do Mundo Oculto que esses espíritos renasçam como seres humanos.
+
+### 067 - Sobre as Enguias (Ofício Memorial)
+
+As enguias são transfigurações de deuses-dragão. Jamais se deve matar uma enguia que possua orelhas, pois se trata de uma criatura conhecida como *banryu* (蟠龍). O abate de uma delas pode levar a família inteira à extinção.
+
+Existem enguias que causam retribuição espiritual e outras que não. No entanto, o abate contínuo de enguias comuns faz com que uma espécie de ressentimento se acumule. Por essa razão, é recomendável realizar um ofício memorial ao menos uma vez por ano. O método consiste em elaborar um objeto para que o espírito da enguia possa nele se alojar, semelhante a uma tabuleta memorial de madeira branca. Nessa tabuleta, inscrevam um nome póstumo, como “Divindade Myojin Tal”, e a coloquem em um lugar elevado, apresentando diversas oferendas. Dirijam-se aos espíritos com estas palavras: “Graças a vós, pudemos prosperar em nosso negócio. É nossa intenção oferecer este memorial em vossa homenagem”. Em um dia fixo de cada mês, entoem a oração. É igualmente benéfico oferecer-lhes água.
+
+### 068 - Ofício para o Espírito de uma Carpa
+
+**Pergunta:** Na casa de um fiel, ocorria uma sucessão de infortúnios. Durante o Johrei, revelou-se que o espírito de uma carpa antiga estava atuando como obsessor. O espírito manifestou o desejo de ser reverenciado em um local a um *shaku* (aproximadamente 30 centímetros) de profundidade no solo. Como devemos proceder com este ofício?
+
+**Resposta:** Atendam ao desejo do espírito. Contudo, não se pode conceder-lhe o mesmo tratamento que a um ser humano. Podem gravar as palavras “Espírito da Carpa” em uma pedra natural. Outra opção é utilizar uma placa de madeira com a mesma inscrição ou com o nome “Magoi Daimyojin” (真鯉大明神), que significa “Grande Divindade da Carpa Negra”. O local deve ser puro, onde as pessoas não costumem pisar. O espírito ficará ainda mais satisfeito se o ponto for demarcado com uma pedra.
+
+As carpas possuem uma hierarquia espiritual superior à dos peixes comuns, pois apreciam nadar contra a correnteza. Entoem a Oração das Palavras de Bem e Louvor, seguida pela prece: “Ó, Deus do Mundo Oculto, concedei Vossa proteção e Vossa bênção”. O ofício necessita ser realizado apenas uma vez.
+
+---
+
+# A Arte da Cura (IV) - Enfermidades da Parte Inferior do Corpo, da Mulher e da Criança
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** Gosuiiji
+**Título Original:** 医術篇（四） | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御垂示
+
+## A Arte da Cura (IV) - Enfermidades da Parte Inferior do Corpo, da Mulher e da Criança
+
+### Doenças Relacionadas ao Sangue
+
+**087 Melena**
+
+Recentemente, surgiu na cidade de Fujisawa uma enfermidade denominada melena. O quadro clínico se manifesta logo após o nascimento: a criança começa a sangrar por todos os orifícios do corpo — olhos, nariz, boca — e falece em cerca de meio dia. Rogo a Vossa Senhoria que nos elucide sobre a causa de tal doença.
+
+A causa reside na grande quantidade de sangue impuro. Todo sangramento que se manifesta é, na verdade, a eliminação dessas toxinas. Esse fenômeno ocorre porque o processo de purificação se intensificou na humanidade. Os recém-nascidos, por terem o corpo ainda muito tenro, sangram com maior facilidade. A origem dessas toxinas são os medicamentos, com destaque para as injeções, que introduzem as substâncias diretamente na corrente sanguínea. Os remédios de uso oral são ainda piores.
+
+Doravante, diversas novas enfermidades surgirão.
+
+**088 Hemorragia Umbilical em Recém-nascido**
+
+Um recém-nascido, logo após o parto, apresentou uma hemorragia muito intensa pelo umbigo. Trata-se de uma purificação de sangue impuro?
+
+O umbigo possui uma abertura. Ocorre que, antes do nascimento, o bebê ingere o sangue antigo da mãe, e é precisamente esse sangue que agora está sendo expelido pelo umbigo. Com o passar do tempo, esse mesmo tipo de impureza se manifesta como escarlatina. Já os lóquios (おろ), por sua vez, são eliminados através da coqueluche.
+
+**089 Hemoptise e Aversões Alimentares em Crianças**
+
+Por que as crianças são tão seletivas com a comida e por que suas preferências mudam com tanta frequência?
+
+As crianças podem ser bastante suscetíveis espiritualmente. Durante a gestação, elas ingerem diversas impurezas, que permanecem acumuladas por um tempo. É comum que, após o nascimento, vomitem sangue, o que a medicina diagnostica erroneamente como úlcera gástrica. Na realidade, trata-se da expulsão daquelas substâncias impuras, processo que pode ocorrer até dois ou três meses após o parto.
+
+Os lóquios (おろ) são de difícil eliminação, sendo expelidos por meio da coqueluche. No caso das crianças, a cura é sempre certa.
+
+**090 Vômito Infantil**
+
+Sou um missionário atuando na cidade de Yoshiwara desde abril deste ano. Um menino de um ano, chamado Akira Sano, começou a vomitar grandes quantidades de leite por volta de 10 de janeiro. No hospital, foi diagnosticado com espasmo pilórico e recebeu trinta injeções de vitaminas B e C, glicose, etc., mas seu estado não se alterou. Posteriormente, por volta de julho, em outra clínica, foi diagnosticado com hidrocefalia leve; extraíram líquido de sua medula espinhal, realizaram duas transfusões de sangue e administraram cerca de dez injeções de glicose. No início de outubro, a mãe ingressou na fé e começou a ministrar Johrei. Eu mesmo já lhe ministrei cerca de trinta vezes, e a criança ficou muito mais forte, embora ainda vomite um pouco de leite. Gostaria de saber a causa e o método de Johrei apropriado.
+
+A criança vomita porque existem toxinas acumuladas em seu estômago; o leite é expelido como consequência. Geralmente, próximo ao momento do parto, o bebê ingere os lóquios (おろ) da mãe, que se alojam em seu estômago. Essas impurezas permanecem ali por um tempo, mas chegará o momento em que a criança se recuperará por completo.
+
+Os lóquios (おろ) costumam se concentrar nas costas, e a coqueluche é o processo purificador que os expele.
+
+**091 Constituição Escrifulosa**
+
+Um menino de sete anos, há cerca de dois anos, passou a comer pouco e, há três meses, sofre de diarreia contínua (três a quatro vezes ao dia). Parece sentir frio constantemente, pois fica sempre sentado perto do aquecedor. Sua face é pálida e seu desenvolvimento, insuficiente. Continuamos a ministrar-lhe Johrei, mas não observamos grande melhora. Seus pais são membros e, em breve, receberão uma imagem de Kannon (観音). A criança tem uma alimentação seletiva, com especial preferência por peixes. Rogo que nos esclareça a causa e o método de Johrei.
+
+A causa reside nos nódulos que se encontram do pescoço aos ombros, com especial concentração nesta última região. Trata-se de uma constituição escrofulosa.
+
+**092 Constituição Escrifulosa e Seletividade Alimentar**
+
+Qual a razão pela qual as crianças de constituição escrofulosa costumam ter uma alimentação seletiva?
+
+A seletividade alimentar decorre do fato de elas se encontrarem permanentemente em um estado febril de baixa intensidade.
+
+**093 Inchaço na Garganta**
+
+Um recém-nascido apresenta um inchaço avermelhado e doloroso que se estende da garganta até a região da glândula parótida esquerda. Ele chora intensamente quando o colocamos de barriga para cima e respira com dificuldade. Qual seria a causa?
+
+O sangue impuro se concentrou nessa região e está sendo eliminado por meio desse inchaço.
+
+**094 Toxinas de Remédios na Septicemia**
+
+Qual é a causa do que a medicina denomina septicemia? E qual seria o método de Johrei a ser aplicado?
+
+A septicemia ocorre quando um sangue extremamente impuro extravasa devido ao rompimento dos vasos sanguíneos. Sob a pele, os vasos se rompem e o sangue transborda. Em última análise, a causa reside nas toxinas de medicamentos muito potentes. A cura é possível através do Johrei.
+
+**095 Septicemia**
+
+Existe uma doença em que o sangue parece vazar por todo o corpo. Que enfermidade é essa? O Johrei deve ser ministrado da forma habitual?
+
+Trata-se de septicemia. Os vasos sanguíneos se rompem, causando hemorragia interna. A condição em que o sangramento não se exterioriza é, na verdade, perigosa.
+
+A adoção de uma alimentação vegetariana fará com que o problema cesse.
+
+**096 Escorbuto e Vegetais**
+
+Um vizinho meu está sangrando pelas gengivas e pelos folículos capilares de todo o corpo. Os médicos dizem tratar-se de escorbuto. Como devemos proceder com o Johrei?
+
+Na verdade, trata-se de septicemia. A transição para uma alimentação vegetariana trará a cura. A pessoa deve comer o que lhe apetecer.
+
+**097 Púrpura**
+
+Um menino de dois anos nasceu com uma mancha arroxeada no rosto, na região do nariz. Após receber Johrei cerca de sete vezes, a mancha clareou consideravelmente. Rogo pela contínua proteção de Deus.
+
+Trata-se de uma hemorragia interna, na qual o sangue impuro aflora espontaneamente, formando uma mancha. Essa condição é comumente conhecida como púrpura.
+
+**098 Púrpura, Alimentação Vegetariana e Artrite**
+
+Um jovem de quinze anos, aos quatro, teve febre, dores em várias articulações e o surgimento de manchas arroxeadas. Foi submetido a tratamentos para púrpura e artrite; as dores cessaram, mas ele passou a ter dificuldade para andar e, por fim, perdeu a capacidade de se manter de pé. A partir de então, nenhum recurso médico ou terapêutico, como a moxabustão, surtiu efeito, e a família perdeu as esperanças. Desde julho deste ano, ele vem recebendo Johrei, mas com poucos resultados. Pelo contrário, por vezes as manchas arroxeadas e as dores reaparecem nas articulações, causando grande sofrimento. O rapaz come pouco, detesta vegetais e consome carne. Seus membros são finos e estão sempre frios. Qual seria o procedimento mais adequado?
+
+A púrpura é uma manifestação de hemorragia interna, resultante do rompimento de vasos sanguíneos. Uma alimentação vegetariana, em especial, fortalece os vasos, tornando-os menos propensos a se romperem. No caso desse jovem, as toxinas se solidificaram nas articulações.
+
+A apoplexia, por exemplo, também é mais comum em pessoas que se entregam a uma alimentação suntuosa, e para tal condição a dieta vegetariana é igualmente benéfica. A alimentação vegetariana facilita a contração dos vasos sanguíneos.
+
+**099 Com o Johrei, a Púrpura Aflora e Depois Desaparece**
+
+Um de nossos membros relata que, ao receber Johrei na coxa, surgem manchas arroxeadas na pele. Quando a ministração cessa, as manchas desaparecem. Ele diz também que, ao visitar uma de nossas unidades, manchas semelhantes aparecem temporariamente por todo o seu corpo. Qual seria a explicação para tal fenômeno?
+
+Isso indica a existência de uma grande quantidade de sangue impuro. Através do Johrei, essas toxinas começam a ser exteriorizadas; contudo, como a força purificadora ainda é insuficiente, elas acabam por retroceder. Trata-se, portanto, de um quadro de púrpura que ainda não conseguiu ser completamente expelida do interior do organismo.
+
+**100 Hemangioma**
+
+Um menino de cinco anos nasceu com um vaso sanguíneo engrossado no dorso da mão. À medida que crescia, a condição se expandiu. Um médico, diagnosticando como hemangioma, afirmou que uma cirurgia resolveria o problema. Há uma cicatriz de cerca de três centímetros no local, mas a parte remanescente continua a se espalhar pela palma da mão, chegando até o cotovelo, com vasos engrossados em vários pontos. Agora, a condição avança em direção ao peito, e o local coça em dias frios. O Johrei poderá trazer a graça da cura?
+
+O sangue impuro se solidifica e, gradualmente, vai se concentrando. A coceira que ele sente é causada por essas toxinas.
+
+**101 Debilidade e o Caso de um Johrei de Grande Força**
+
+Certa pessoa tem episódios frequentes de hemoptise, apresenta sangue nas fezes, encontra-se consideravelmente debilitada e, por vezes, seu rosto e o peito dos pés incham. Quando eu lhe ministro Johrei no abdômen, ela sente uma dor aguda que sobe do baixo-ventre. Contudo, quando o Johrei é ministrado por outro ministro, ela não sente dor. Qual a razão?
+
+O inchaço no peito do pé é um sinal bastante desfavorável. Recomenda-se o consumo abundante de vegetais.
+
+A razão pela qual o paciente sente dor é que o senhor, que ministra o Johrei, possui uma força espiritual intensa, o que torna a purificação mais eficaz e perceptível.
+
+---
+
+# Tratado sobre a Arte da Cura (Volume Três) — Patologia do Corpo e do Espírito 6 — Rins e Cirurgia
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** -
+**Título Original:** 医術篇（三）中体病理 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
+
+## Tratado sobre a Arte da Cura (Volume Três) — Patologia do Corpo e do Espírito 6 — Rins e Cirurgia
+
+**083 Tuberculose Renal e Hematuria**
+
+Uma jovem de vinte anos, após consultar um médico devido à micção excessiva, foi submetida a um exame com instrumental pela bexiga. Como resultado, foi diagnosticada com tuberculose em ambos os rins. Desde então, há sessenta dias, uma febre persistente em torno dos quarenta graus a acomete. Ela vem recebendo Johrei há cerca de vinte dias. Atualmente, elimina pequenas quantidades de sangue na urina com tal frequência que mal consegue dormir. Rogamos por sua proteção Divina.
+
+A necessidade frequente de urinar indica que a tuberculose da bexiga está afetando a uretra. Há toxinas solidificadas ao redor dos rins, as quais, ao se dissolverem, infiltram-se nesses órgãos.
+
+A hematuria, por sua vez, ocorre devido ao amolecimento da mucosa na saída da uretra, que se rompe com facilidade. O quadro melhorará gradualmente. A urina está concentrada. (13.07.1948)
+
+**084 Tuberculose Renal e Alimentação**
+
+Um homem de vinte e seis anos (nome de Komyō: Ko-ko-sho) está acamado desde fevereiro com tuberculose renal. Recentemente, ouviu falar de nossos ensinamentos e, há dezessete dias, vem recebendo Johrei. Contudo, sua debilidade é extrema. Rogamos pela proteção do Grande Mestre.
+
+A tuberculose renal é de fácil recuperação. A atenção deve se voltar para a debilidade. Caso não haja apetite, deve-se optar por alimentos líquidos. A questão central, portanto, é o enfraquecimento. Se o tratamento tivesse sido iniciado em um estágio mais precoce, o prognóstico seria mais favorável. A enfermidade consiste em um abscesso na parte externa do rim, que se infiltra em seu interior. Ao se dissolver, é expelido na forma de urina sanguinolenta. (19.07.1949)
+
+**085 Lumbago**
+
+Uma menina de treze anos sofre de dores abdominais periódicas de extrema intensidade, que não melhoram com o Johrei. Gostaríamos de saber a causa.
+
+Existe uma massa de toxinas solidificadas que se estende da região das omoplatas até os rins. Em pessoas que dormem sobre o lado direito, é mais comum que essa massa se localize nesse mesmo lado.
+
+**086 Sem Ingressar na Fé, a Purificação Não Progride**
+
+O caso em questão é o do roteirista Ryuzo Kikuchi, de trinta e sete anos, por quem já havíamos intercedido em quatro de janeiro. Aos trinta e três anos, ele foi acometido por uma artrite tuberculosa no joelho direito. O uso de gesso imobilizou sua perna, que se tornou rígida como uma haste, impossibilitando a flexão e deixando-o com uma deficiência física. Desde então, não apresentara outras enfermidades. Contudo, por volta de agosto do ano passado, começou a sentir dores na virilha esquerda. Com dificuldades para se sentar, buscou diagnóstico médico. Exames de radiografia e de velocidade de hemossedimentação levantaram apenas a suspeita de tuberculose, sem que a doença fosse identificada. A única recomendação foi imobilização com gesso e repouso, o que o deixou desolado. A partir de onze de novembro, ele começou a receber Johrei, e as dores desapareceram. Em cerca de um mês, já conseguia caminhar novamente. No entanto, em nove de dezembro, viajou a Atami a trabalho e passou a tomar cerca de quatro banhos termais por dia. Após uma semana, as dores retornaram, dificultando a locomoção. Ao voltar para casa, foi acometido por calafrios e febre acima de trinta e nove graus, que persistiram por aproximadamente vinte dias. Recentemente, os calafrios cessaram e a febre baixou para menos de trinta e oito graus, mas a dor continua. Ele se queixa de uma dor especialmente intensa na região posterior da cintura. Seu pai faleceu de hemorragia cerebral, e seus irmãos, de tuberculose. Haveria alguma relação entre seu estado e seus familiares falecidos? Acrescento que entronizamos uma imagem de Kannon (観音) e que sua mãe ingressou na Fé. Solicitamos sua orientação a esse respeito.
+
+Trata-se de uma purificação simples. As toxinas se solidificaram na região posterior da cintura, na área dos rins, e se estenderam para a virilha.
+
+O principal equívoco é que ele mesmo deveria, antes de tudo, ingressar na Fé. A atitude está incorreta. (28.01.1949)
+
+**087 Encurvamento da Coluna**
+
+Meu pai, atualmente com sessenta e oito anos, começou a apresentar um encurvamento na coluna por volta dos cinquenta e cinco anos. Recentemente, a curvatura se acentuou tanto que ele trabalha em formato de “L”. Desde janeiro do ano passado, sente dores esporádicas na região lombar. Embora venhamos ministrando Johrei, os resultados não são os esperados. Seria possível corrigir o encurvamento da coluna em uma pessoa de idade tão avançada?
+
+As toxinas dos rins solidificaram-se na região lombar. Haverá uma melhora considerável, mas um retorno completo ao estado original é incerto, dado o longo tempo de enfermidade. Se o tratamento tivesse começado mais cedo, o problema seria insignificante. (16.05.1950)
+
+**088 Imobilizada há Sete Anos**
+
+Uma mulher de quarenta e cinco anos está há sete anos sem conseguir se levantar, com braços e pernas debilitados, passando os dias sentada. Há cerca de dez dias, ela vem recebendo Johrei e relata uma grande melhora em seu estado geral. Ela poderá se recuperar completamente?
+
+O Johrei não está sendo ministrado nos pontos vitais, e as toxinas estão extremamente solidificadas. (29.07.1949)
+
+**089 Luxação na Região Lombar (Queda)**
+
+Uma mulher de cinquenta e dois anos caiu do terraço de sua casa no ano passado e sofreu uma luxação nos ossos da região lombar. Procurou um ortopedista, mas foi informada de que a redução de ossos finos é extremamente difícil. Passado um ano, ela ainda não se recuperou. O Johrei poderá proporcionar a cura completa? Solicitamos sua orientação.
+
+Embora a cura completa seja incerta, haverá uma melhora substancial. As luxações são comuns e, muitas vezes, diagnosticadas erroneamente, pois na maioria dos casos não se trata de um deslocamento ósseo. Mesmo que seja uma luxação verdadeira, ela pode ser curada.
+
+Frequentemente, o que ocorre é a solidificação de uma hemorragia interna. Experimentem o tratamento por um mês; com isso, ela deverá se recuperar. Na maioria dos casos, a pessoa volta a caminhar.
+
+Isso causou um pneumotórax, que por sua vez originou a pleurisia. A pleura pulmonar e a pleura parietal devem estar sempre em contato. (08.09.1949)
+
+**090 Cirurgia de Pleurisia, Dragão Divino e Pinheiro**
+
+Um jovem de vinte anos foi submetido a uma cirurgia de linfadenite em março deste ano. Por volta de junho, desenvolveu pleurisia exsudativa. O líquido foi drenado duas vezes, mas continua a se acumular. Em setembro, uma peritonite se manifestou como complicação. Seus flancos estão extremamente rígidos, e ele mal conseguia se alimentar. Desde outubro, no entanto, ele vem recebendo Johrei e já consegue consumir mais de duas porções de arroz por dia. Ressalto que, desde setembro, sua família vem reformando a casa principal, utilizando madeira de pinheiros e cedros de sua própria floresta. O rapaz relata que seu estado de saúde se deteriorou rapidamente após o início da reforma. Haveria alguma relação entre a doença e a obra? Pedimos sua orientação.
+
+Tanto a pleurisia quanto a peritonite podem ser curadas, mesmo com a remoção da água. A cura é, na verdade, muito simples. Com perseverança no Johrei, ele se restabelecerá.
+
+Aterrar pântanos e lagos pode despertar a ira de um Dragão Divino. Quanto a árvores de grande porte, se forem excepcionalmente grossas, podem abrigar um dragão. Geralmente, os Dragões Divinos se alojam nos pinheiros, enquanto os cedros costumam abrigar o espírito de um Tengu. (08.10.1949)
+
+**091 Cirurgia de Cárie Costal (Diagnosticada como Infiltração Pulmonar)**
+
+Uma mulher de quarenta e quatro anos foi submetida a uma cirurgia de cárie costal há cerca de três anos e, com Johrei, alcançou uma recuperação quase completa. No entanto, no início de outubro deste ano, ela começou a ter febre, que persiste até hoje. Sofre de tosse intensa e expectoração, está um tanto debilitada e recebeu o diagnóstico de infiltração pulmonar. Haveria alguma causa espiritual para essa condição?
+
+A cura será rápida se o ponto vital for encontrado. As toxinas remanescentes do problema anterior começaram a se dissolver.
+
+Embora ocorra um certo enfraquecimento, não há nada mais auspicioso do que a infiltração pulmonar. (25.10.1948)
+
+**092 Cirurgia de Vesícula Biliar**
+
+Há seis anos, fui submetido a uma cirurgia de vesícula biliar. Desde então, sinto uma dor intensa ao beber chá. Além disso, não consigo digerir arroz comum nem canja. Curiosamente, consigo comer alimentos mais duros, como arroz glutinoso cozido no vapor (okowa) ou lula cozida, desde que mastigue bem. Após as refeições, não consigo nem beber água. Apenas três horas depois, consigo beber água, mas o chá continua a ser intolerável. Haveria algum significado nisso?
+
+A causa é, sem dúvida, a cirurgia. A vesícula biliar secreta a bile no estômago através do ducto biliar, auxiliando na digestão. É plausível supor que, devido à intervenção, a quantidade de bile que chega ao estômago diminuiu. Procedimentos cirúrgicos sempre acarretam algum tipo de transtorno. (22.06.1949)
+
+**093 Câncer de Estômago que Deve Ser Desenganado**
+
+A senhora Tei Ikehara, de sessenta e quatro anos, que ingressou na Fé em maio do ano passado, sofria de câncer de estômago. Após sua conversão, vinha recebendo Johrei e sentia grande alívio. Contudo, uma nova purificação se manifestou. Embora ela fosse imensamente grata pelo Johrei, familiares e parentes a forçaram a se submeter a uma cirurgia. Após receber alta, seu baixo-ventre esquerdo enrijeceu como uma tábua. Ela voltou a solicitar Johrei, e até o momento, ministramos a ela três vezes. Embora seu estado de espírito melhore consideravelmente, a rigidez abdominal permanece inalterada. Sua alimentação é escassa, não conseguindo ingerir mais do que uma tigela de arroz. Qual seria a causa dessa situação? E em que pontos deveríamos concentrar o Johrei para lhe proporcionar alívio? Rogamos por sua orientação.
+
+É preferível desenganá-la. A cirurgia foi um erro gravíssimo; portanto, Deus não lhe concederá a salvação. (17.01.1950)
+
+**094 Paciente Submetida a Cirurgia de Anastomose Gastrointestinal**
+
+Uma mulher de quarenta e nove anos, desde janeiro deste ano, apresentou um tumor na cárdia gástrica e passou a se alimentar por meio de um tubo de borracha inserido diretamente no intestino através do abdômen. Há três dias, foi submetida a uma nova cirurgia na tentativa de conectar o intestino ao estômago. No entanto, os tecidos de ambas as partes estavam necrosados, impossibilitando a anastomose. Os médicos simplesmente removeram o tubo e suturaram a abertura. Eles afirmam que ela talvez sobreviva até o verão. Seria possível curá-la com Johrei? Solicitamos sua orientação a esse respeito.
+
+É um caso difícil. Uma vez realizada a anastomose, não há mais o que fazer. Ministrem Johrei por uma semana. Se houver a mínima melhora, continuem. (16.04.1950)
+
+**095 Cirurgias Gastrointestinais**
+
+Um fiel de sessenta anos, há aproximadamente três anos e meio, após ser diagnosticado por vários médicos com suspeita de câncer de estômago, foi submetido a uma cirurgia. Durante o procedimento, foram encontradas massas dispersas, semelhantes a gordura de galinha, com cerca de um punho de tamanho, na parede do estômago, no abdômen e no espaço entre a parede abdominal posterior e os rins. Os médicos, incapazes de remover todas as massas, realizaram uma ressecção parcial e uma anastomose gastrointestinal antes de suturar a incisão. Desde então, seu abdômen começou a inchar progressivamente. Embora ele venha recebendo Johrei continuamente desde março do ano passado, nos últimos dois ou três meses, o inchaço se tornou espantosamente grande, tanto na frente quanto atrás e dos lados, parecendo ter mais do que o dobro do volume de uma gestante em final de gravidez. Em consequência, ele sofre de prolapso anal e edema nas pernas. Além disso, as massas endurecidas também aumentaram de tamanho junto com o inchaço abdominal. Ele tem apetite, mas a dor o impede de se alimentar adequadamente. Gostaríamos de receber seus ensinamentos sobre a causa e as medidas a serem tomadas.
+
+A causa não é outra senão a cirurgia. Sendo uma intervenção de grande porte, nada pode ser feito. É um caso sem esperança. Cirurgias gastrointestinais são absolutamente proibidas. Certa vez, presenciei uma situação verdadeiramente trágica: um homem com câncer de reto foi suturado, impedindo a passagem das fezes pelo ânus. Criaram, então, um ânus artificial na lateral de seu abdômen. As fezes e os gases saíam constantemente pelo espaço entre os intestinos. Ele sentia tanta dor que não conseguia encontrar uma posição, fosse deitado de costas ou de lado. Era um homem de cerca de sessenta anos. A doença em si não é nada; o médico é que é temível. (22.08.1949)
+
+**096 Câncer de Reto Operado**
+
+Eu, um homem de sessenta anos, recebi a Outorga da Medalha da Luz Divina (Ohikari) em dezoito de janeiro deste ano. Desde o final de dezembro do ano passado, minha saúde estava debilitada. Mesmo após ter sido agraciado com a Medalha, deixei-me levar pelas opiniões alheias e consultei vários médicos. Nenhum deles conseguiu diagnosticar minha doença. Em trinta de maio, um especialista finalmente diagnosticou câncer de reto e afirmou que a cirurgia era inevitável. Em nove de junho, fui a um hospital cirúrgico em Asagaya, Tóquio. Lá, fui informado de que, para operar o câncer, era necessário primeiro limpar o reto, o que exigia a criação de um ânus artificial na lateral esquerda do meu abdômen. Fui submetido a essa cirurgia e, até hoje, evacuo por essa abertura. Eu pretendia fazer a cirurgia do câncer em seguida, mas, mesmo após dois meses, disseram-me que o procedimento ainda não era possível. Agora, estou estarrecido com a irresponsabilidade dos médicos e decidi não prosseguir. Embora tenha recebido a Medalha, trilhei caminhos de hesitação e, hoje, arrependo-me profundamente. Peço sinceras desculpas. Atualmente, sinto dor dentro do ânus, que se estende até a glândula uretral abaixo do períneo, e a micção é especialmente difícil à noite. Qual seria a causa disso? Além disso, durante o dia e a noite, pequenas quantidades de um muco avermelhado ou escuro são expelidas pelo ânus inúmeras vezes. Seria a dissolução das toxinas do câncer? Peço sua orientação. Graças ao Johrei que recebo diariamente, meu apetite melhorou e minha aparência está mais saudável. Sinto na pele a grandiosidade de Kannon e recebo o Johrei com toda a minha fé. No último dia cinco de dezembro, minha esposa também ingressou na Fé, e juntos estamos nos dedicando de corpo e alma. Rogamos por sua proteção Divina.
+
+Não são necessariamente toxinas do câncer. Quando houver uma melhora considerável, peça para removerem o ânus artificial. (08.12.1949)
+
+**097 Cirurgia de Câncer de Reto**
+
+Um homem de setenta e quatro anos, desde dezembro do ano passado, sente vontade de evacuar, mas tem dificuldade para fazê-lo. O diagnóstico médico foi de câncer de reto. Haveria alguma chance de recuperação? Solicitamos sua orientação.
+
+O reto é o caminho por onde passam as fezes. É preciso evitar a constipação. As fezes saem finas como um bastão de incenso.
+
+A cirurgia para câncer de reto envolve a criação de um ânus artificial, desviando o caminho das fezes para o exterior. É uma condição verdadeiramente trágica. Se o intestino ficar exposto, a pessoa morre. Fezes e gases são expelidos constantemente, sem aviso. O verdadeiro câncer é extremamente raro. Ministrar Johrei na parte inferior esquerda do umbigo geralmente resolve o problema. É importante também tratar os rins, pois é de lá que a massa de toxinas se origina. (26.05.1949)
+
+**098 Apendicectomia e Parto**
+
+Uma mulher de vinte e um anos foi submetida a uma cirurgia de apendicite aos doze anos. O resultado não foi bom, e ela precisou ser operada quatro vezes em três anos. Desde então, sente dores ocasionais. O médico lhe disse: “Se você se casar e engravidar, terá problemas na hora do parto”. Haveria alguma influência no casamento? Pedimos sua orientação.
+
+Não haverá influência no parto. O único risco é que a cicatriz cirúrgica se abra com a expansão do útero.
+
+**099 Remoção de Parte do Intestino Delgado em Cirurgia de Apendicite**
+
+Um homem de quarenta e dois anos foi operado de apendicite aos vinte e quatro. Na ocasião, como a supuração era grave, cerca de sessenta centímetros de seu intestino delgado foram removidos. A ferida cicatrizou em seis meses, e ele passou os quinze anos seguintes sem qualquer problema de saúde. No entanto, desde o outono do ano passado, começou a ter uma tosse intensa, embora sem febre e com apetite normal. Ao subir ladeiras, sente falta de ar. Em março deste ano, consultou um médico e fez uma radiografia, que revelou que seu pulmão esquerdo estava completamente escurecido e o direito também estava um pouco comprometido. Desde o final de agosto, ele vem recebendo Johrei. Teve um episódio de diarreia e a expectoração melhorou um pouco. A massa de toxinas solidificadas ao redor de seu umbigo é grande. Quando recebe Johrei nos rins e no peritônio, ouve-se um som borbulhante, mas a diarreia não ocorre. A dificuldade em ter uma diarreia normal seria consequência da grande cirurgia a que foi submetido?
+
+A remoção de sessenta centímetros do intestino delgado é um fator relevante. A constipação se deve à massa de toxinas solidificadas ao redor do umbigo. Deve-se ministrar Johrei nos rins e no abdômen. (09.10.1949)
+
+**100 Cirurgia Renal e Micção Frequente**
+
+Em julho de 1946, fui submetido a uma cirurgia de tuberculose renal no Hospital Ochanomizu, da fundação médica de Surugadai, em Chiyoda, Tóquio, pelo Dr. Akutsu. Até hoje, só consigo reter a urina por cerca de trinta minutos. Em dias frios, a frequência aumenta e sinto alguma dor, mas a cor da urina é normal, como a de uma pessoa saudável. Poderei ser curado?
+
+Uma cura completa não é possível, pois seu rim diminuiu de tamanho. Contudo, a necessidade de urinar a cada trinta minutos pode ser curada.
+
+Um único rim está fazendo o trabalho de dois. Essa é uma condição verdadeiramente desfavorável. (20.03.1949)
+
+**101 Extração de Rim, Dor e Anomalia Urinária**
+
+Uma mulher de vinte e seis anos teve seu rim direito extraído no ano passado devido a uma tuberculose renal e permaneceu em repouso até o final de março deste ano. Em abril, começou a receber Johrei e, em vinte e cinco dias, sentiu-se melhor. No entanto, agora sente dor na região do rim esquerdo. Ela urina cerca de quinze a dezesseis vezes por dia, com um volume de aproximadamente noventa mililitros por vez. Sente dor na bexiga e tem um corrimento sanguinolento ou semelhante a muco nasal. Nesse caso, em que área o Johrei deve ser concentrado?
+
+Com a extração do rim direito, as toxinas não podem mais se acumular ali e, inevitavelmente, precisam se depositar em algum lugar. Consequentemente, todas elas se acumulam no rim esquerdo. Da mesma forma, se o apêndice é removido, as toxinas que se acumulariam ali passam a se depositar no peritônio e nos rins, enfraquecendo o corpo. A medicina afirma que um rim pode realizar o trabalho de dois, mas isso não é verdade. Por isso, a pessoa inevitavelmente terá uma vida mais curta. O corrimento é pus sanguinolento. As toxinas se solidificam no rim, formando algo semelhante a um abscesso. Quando isso se dissolve, o pus sanguinolento é expelido. Se você pressionar a parte posterior do corpo, certamente encontrará um ponto doloroso. A gangrena pulmonar nada mais é do que um abscesso que se forma na região da pleura. (06.05.1949)
+
+**102 Cárie Óssea Tratada com Raios X**
+
+Uma mulher de trinta e dois anos foi diagnosticada com cárie vertebral há oito anos. Desde então, usou gesso e foi submetida a irradiações de raios X (cerca de vinte sessões). Ela já havia recebido Johrei esporadicamente e também participado do curso de formação, mas, desde o final do ano passado, passou a receber Johrei diariamente. Logo em seguida, a purificação se intensificou e ela ficou acamada. Atualmente, consegue ficar sentada por cerca de trinta minutos e seu apetite melhorou consideravelmente. No entanto, há secreção de pus em dois pontos de suas costas (que estão bastante encurvadas). Ocasionalmente, tem febre, seguida de tosse com uma secreção viscosa. Ainda tem dificuldade para se virar na cama. A família está preocupada, pois ela está acamada há quase um ano. Ela poderá ser salva? Solicitamos sua orientação.
+
+Desde que sua debilidade não se agrave, a cura é certa.
+
+Vinte sessões de radioterapia são um problema, pois os raios X solidificam as toxinas.
+
+A recuperação será possível, porém demorada. Se o Johrei for ministrado com calma e perseverança, ela se restabelecerá. É recomendável que consuma muitos vegetais, pois eles purificam o sangue e, consequentemente, reduzem as toxinas. (23.11.19XX)
+
+---
+
+# Coletânea de Teses do Mestre Okada Jikan
+
+**Categoria:** kouwa | **Ano:** - | **Fonte:** 第二篇
+**Título Original:** 霊祀篇 | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 第二篇
+
+## Coletânea de Teses do Mestre Okada Jikan
+### Seção sobre o Culto aos Antepassados (Segunda Parte: Nomes Póstumos)
+
+#### 111. Nomes Póstumos e o Cristianismo
+
+O que vêm a ser os nomes póstumos, mencionados no Budismo? Os fiéis do Cristianismo parecem não possuir tais nomes; seria porque recebem o batismo ainda no mundo material? Qual é a diferença, no Mundo Espiritual, entre possuir ou não um nome póstumo?
+
+Trata-se do nome que se recebe no Mundo Búdico. O ato de morrer é chamado de renascer; ao nascer no Mundo Espiritual, o nome que era necessário para a vida no mundo material perde sua utilidade. Assim, um novo nome é concedido no plano espiritual. Este é o nome póstumo.
+
+O Cristianismo, por ser um ensinamento de natureza vertical, é completamente distinto. O Budismo, por sua vez, sendo um ensinamento horizontal, atribui suma importância ao Mundo Espiritual. No Japão, existe também um Mundo Espiritual cristão, que é diferente do japonês. Para aqueles que faleceram na fé cristã, não há nenhum impedimento. Contudo, mesmo que alguém se converta ao Cristianismo, as tradições budistas de seus antepassados devem ser mantidas como sempre foram.
+
+#### 112. Nomes Póstumos e Títulos de Templo
+
+Qual o significado dos nomes póstumos e dos títulos de templo? Estariam eles relacionados à hierarquia no Mundo Espiritual? Ademais, parece ser possível obter nomes e títulos mediante doações financeiras; esse princípio também se aplica no Mundo Espiritual?
+
+No momento em que um ser humano falece, seu nome do mundo material se extingue. O nome que tinha validade na sociedade humana perde sua eficácia e sua necessidade cessa. Ao renascer no Mundo Espiritual, é imperativo que se receba um novo nome, pois a pessoa se torna um recém-nascido nesse novo plano. Esse nome é o nome póstumo.
+
+Diz-se que, quanto mais longo o nome póstumo, melhor, mas isso serve em grande parte como consolo para os que ficam. Não que seja algo totalmente irrelevante; alguma influência existe. É preferível, portanto, ofertar um donativo e receber um bom nome. Por "bom", entende-se um nome longo.
+
+#### 113. Sobre a Titulação Póstuma e o Culto com o Nome Secular
+
+Os templos outorgam às famílias de seus membros títulos como Ingo, Koji e Daishi em troca de vultosas quantias. O espírito se regozija ao receber tais títulos? E seria incorreto cultuá-lo utilizando seu nome secular em vez do nome póstumo?
+
+No Mundo Búdico, as coisas se processam dessa maneira. O uso do nome secular é inadequado. Ao ingressar no Mundo Espiritual, é necessário receber um nome búdico. Por ser o nome de identificação na esfera búdica, tal procedimento é indispensável.
+
+Tudo se rege pelo princípio da correspondência; é preciso agir de acordo com o tempo e a ocasião.
+
+#### 114. Nome Póstumo e Nome Secular
+
+Há casos em que os antepassados são cultuados com o nome póstumo e outros em que o são com o nome secular. Qual a diferença, do ponto de vista espiritual?
+
+Não se deve utilizar o nome secular. (4 de fevereiro de 1949)
+
+#### 115. O Caractere “Ryō” no Nome Póstumo e o Infortúnio Familiar
+
+Foi-me dito que, se o ideograma “ryō” (了), que significa “fim”, constar no nome póstumo inscrito na tabuleta ancestral, a família atrairá infortúnios. De fato, no lar em questão, tem havido uma sucessão de desgraças, como a morte do avô, seguida pela do pai. Tal coisa é realmente possível?
+
+Para os mortos, não deveria haver infortúnio. O nome póstumo é atribuído a quem faleceu e não tem relação com os vivos. Como sua influência se restringe unicamente àquele que partiu, não há motivo para que a família sofra desgraças. Portanto, não há por que se preocupar com isso. (11 de agosto de 1949)
+
+#### 116. Recebimento do Nome Póstumo em Vida
+
+E quanto a receber o nome póstumo ainda em vida?
+
+Equivale a comprar o próprio caixão antecipadamente.
+
+#### 117. Alteração do Nome Póstumo
+
+Um fiel a quem oriento recebeu para seu pai, quando este faleceu, o nome póstumo “Eika Yūraku Zenjōmon”. Posteriormente, mudou-se de cidade e, consequentemente, de templo. Na ocasião, alegando que o nome póstumo original tinha uma conotação leviana, foi aconselhado a alterá-lo para “Shinkō Eiraku Shinji”, tendo inclusive erigido uma lápide com o novo nome. Contudo, a tabuleta ancestral permanece com o nome antigo até hoje. Creio que isso possa causar confusão ao espírito. Como proceder? Qual dos nomes é o mais apropriado?
+
+Deve-se retornar ao nome original.
+
+#### 118. Duplicidade de Nomes Póstumos
+
+Durante uma revisão dos rituais ancestrais na casa de um fiel, descobriu-se que um mesmo antepassado possuía dois nomes póstumos. Um deles, de hierarquia superior, fora obtido mediante uma vultosa doação, um tempo considerável após o falecimento. Nesse caso, qual dos nomes deve ser utilizado no culto?
+
+Não é um problema de grande monta, mas seria preferível utilizar o de hierarquia superior.
+
+Tal ato não é repreensível. Pelo contrário, foi praticado com o intuito de elevar ainda mais o antepassado, portanto, não há mal algum nisso. (12 de fevereiro de 1950)
+
+#### 119. Nomes Póstumos da Terra Natal e do Local de Residência
+
+Uma pessoa natural de Izushi-chō, na província de Hyōgo, residia na cidade de Kōbe, onde faleceu há três anos. Seu funeral foi realizado em Kōbe, e ali recebeu um nome póstumo. Contudo, o templo de sua cidade natal também enviou um nome póstumo. O jazigo da família localiza-se em sua terra natal, e o desejo é cultuá-la junto aos seus antepassados. Qual dos nomes póstumos deve ser adotado?
+
+O correto é utilizar o nome concedido pelo templo de Izushi-chō, que é o responsável pelo jazigo da família.
+
+#### 120. Nome Póstumo Concedido por Outra Seita
+
+Uma família não-messiânica sempre realizou o culto aos seus antepassados segundo os ritos da seita Jōdo-shū. Devido a uma mudança de residência, receberam um nome póstumo da seita Jōdo Shinshū e, desde então, têm procedido dessa forma, mas não possuem tabuleta ancestral. Agora, desejam retornar às práticas da Jōdo-shū original. Como devem proceder?
+
+Podem retornar à seita Jōdo-shū original. As seitas da Terra Pura (Jōdo) derivam de Hōnen. A Jōdo-shū utiliza o registro de óbitos e não adota nomes póstumos. (22 de janeiro de 1950)
+
+#### 121. Nome Póstumo para um Espírito com Aversão a Sacerdotes
+
+Para um espírito que foi salvo por meio de orações como a Zengen Sanji ou o Norito e que não possui nome póstumo, mas nutre forte aversão a sacerdotes, seria possível nós mesmos criarmos um nome para ele? Em caso afirmativo, como deveríamos escrevê-lo?
+
+Ainda que o espírito nutra aversão por sacerdotes, a esfera búdica é predominante no Mundo Espiritual, e isso não representa um problema. Os espíritos têm suas preferências, mas, uma vez que o Mundo Espiritual está assim constituído, é necessário adequar-se a ele. É sempre melhor seguir o que já está estabelecido. (21 de setembro de 1948)
+
+#### 122. Um Ministro pode Conceder um Nome Póstumo?
+
+Uma mulher submeteu-se secretamente a um aborto aos sete meses de gestação. Tempos depois, engravidou novamente, mas deu à luz um bebê prematuro de oito meses que, desde o nascimento, chorava incessantemente e não conseguia esticar os braços e as pernas. Após receber Johrei, seus membros se normalizaram. A criança tem hoje cinquenta dias de vida. Tendo recebido os Ensinamentos, a mãe desejou atribuir um nome póstumo ao primeiro filho e cultuá-lo, mas o templo se recusou, alegando não poder conceder um nome a quem não teve um funeral formal. Seguindo a orientação do sacerdote, ela confeccionou uma tabuleta com o próprio nome, colocou-a no altar, e o bebê parou de chorar e passou a dormir bem. Como proceder nesta situação? Seria lícito que um ministro de nossa Igreja concedesse o nome póstumo?
+
+Não há mal nisso, mas se a situação se estabilizou, pode-se mantê-la como está. Foi cometida uma falta, e as coisas não podem seguir seu curso normal.
+
+O nome póstumo deve ser outorgado por um sacerdote budista. O ministro, por sua vez, lida com os vivos; suas missões são intrinsecamente distintas. (11 de agosto de 1949)
+
+#### 123. Sobre a Concessão de Nomes Póstumos
+
+Ouvi dizer que não se deve cultuar os antepassados no altar com seus nomes seculares. Qualquer pessoa pode conceder um nome póstumo? Caso não tenha sido realizado um funeral budista, é obrigatório solicitar o nome póstumo a um sacerdote?
+
+Os sacerdotes possuem a qualificação para outorgar os nomes do Mundo Búdico. Contudo, em uma localidade onde não haja sacerdotes, uma pessoa comum pode fazê-lo. (23 de maio de 1949)
+
+#### 124. O Nome Póstumo que o Templo se Recusa a Conceder
+
+A fiel Toyo Otsuka teve dois filhos e uma filha que faleceram logo após o nascimento e não estão sendo cultuados. Eu a orientei para que solicitasse a um templo que lhes desse nomes póstumos e realizasse uma cerimônia fúnebre. O templo, no entanto, confeccionou uma única tabuleta para as três crianças com a inscrição “Kamon Senbō Ruidai Sho Shōryō” (Espíritos das gerações passadas da linhagem familiar falecidos prematuramente) e afirmou que, por ter realizado a leitura de sutras de forma diligente, cultuar essa tabuleta seria suficiente, recusando-se a conceder nomes póstumos individuais. Como se deve proceder em tal caso?
+
+Está correto assim.
+
+---
+
 # A superioridade da arte antiga (A vacinação contra a varíola e as dificuldades da vida)
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 宗教芸術篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## A superioridade da arte antiga (A vacinação contra a varíola e as dificuldades da vida)
 A história nos mostra períodos de notável desenvolvimento artístico e cultural, como a arte budista da era do Príncipe Shotoku ou a cultura popular do período Genroku, cujo esplendor parece inalcançável até mesmo em nossos dias. Gostaria de saber se tais épocas guardam algum significado especial. Rogo a Vossa Senhoria que me esclareça a esse respeito.
@@ -139,7 +748,7 @@ Ela se tornará muito mais popularizada do que é hoje, difundindo-se provavelme
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** 四肢、皮膚 疾患、毛髪
 **Título Original:** 医術篇（五） | **Status:** Published | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 四肢、皮膚 疾患、毛髪
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 四肢、皮膚 疾患、毛髪
 
 ## As Duas Causas do Prurido
 
@@ -261,7 +870,7 @@ A doença não sarou precisamente porque foram aplicados medicamentos. O uso con
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 天文 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Coletânea de Dissertações do Mestre Okada Jikanshi
 Busca de Ensinamentos: help Busca de Materiais: Compêndio Celeste e Terrestre, Parte 1
@@ -362,7 +971,7 @@ As irregularidades na superfície lunar, que criam suas sombras, correspondem a 
 
 **Categoria:** kouwa | **Ano:** 昭和25(1950)年1月20日 | **Fonte:** 御Hikari話録
 **Título Original:** - | **Status:** Published | **Edição/Página:** 16号 | **Data ISO:** 1950-01-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御光話録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御光話録
 
 ## Daikoku e Ebisu
 
@@ -480,7 +1089,7 @@ As irregularidades na superfície lunar, que criam suas sombras, correspondem a 
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 建設破壊篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## 088 A Educação e a Economia no Mundo de Miroku
 Quando o Mundo de Miroku se concretizar, tudo se tornará muito mais simples. Embora ainda seja prematuro, a formação educacional poderá ser concluída em nove anos. As faculdades de medicina e direito serão extintas, assim como os impostos. A ciência econômica também se tornará praticamente desnecessária. Um terço dos lucros de todas as pessoas físicas e jurídicas será destinado ao povo. As empresas estatais, por sua vez, foram criadas para fins bélicos, e os monopólios governamentais, para custear as despesas de guerra.
@@ -573,7 +1182,7 @@ Isso não sofrerá alteração.
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 宗教概観篇 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Budismo 1
 
@@ -751,7 +1360,7 @@ Fudō-Myōō é um discípulo de Kannon. O nome divino dos guardiões Niō é Ku
 
 **Categoria:** kouwa | **Ano:** - | **Fonte:** -
 **Título Original:** 医術篇（三）中体病理 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** -
 
 ## Arte da Cura (Parte III) - Patologia do Corpo Intermediário
 
@@ -841,7 +1450,7 @@ A denominação "beribéri cardíaco" é estranha. Não pode haver beribéri no 
 
 **Categoria:** se | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 世界救世教奇蹟集 結論 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Conclusão
 
@@ -864,7 +1473,7 @@ Todavia, uma vez confrontado com fatos irrefutáveis, ninguém poderá abster-se
 
 **Categoria:** se | **Ano:** 昭和26(1951)年10月3日 | **Fonte:** Eikou
 **Título Original:** 世界人たれ | **Status:** Published | **Edição/Página:** 124号 | **Data ISO:** 1951-10-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Tornem-se Cidadãos do Mundo
 
@@ -888,7 +1497,7 @@ Mudando de assunto, o mesmo princípio se aplica às religiões. A criação de 
 
 **Categoria:** se | **Ano:** 昭和27(1952)年1月16日 | **Fonte:** Kyusei
 **Título Original:** 絶対力 | **Status:** Published | **Edição/Página:** 139号 | **Data ISO:** 1952-01-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Poder Absoluto
 
@@ -910,7 +1519,7 @@ Neste ponto, uma explanação sobre a minha missão tornará o significado de tu
 
 **Categoria:** se | **Ano:** 昭和27(1952)年1月16日 | **Fonte:** Kyusei
 **Título Original:** 絶対力 | **Status:** Published | **Edição/Página:** 139号 | **Data ISO:** 1952-01-16
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Poder Absoluto
 
@@ -940,7 +1549,7 @@ Neste ponto, ao explicar a minha missão, creio que o significado de tudo o que 
 
 **Categoria:** se | **Ano:** 昭和26(1951)年10月3日 | **Fonte:** Eikou
 **Título Original:** 世界人たれ | **Status:** Published | **Edição/Página:** 124号 | **Data ISO:** 1951-10-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Tornem-se Cidadãos do Mundo (Da Revista Glória nº 124, edição de 3 de outubro de 1951)
 
@@ -966,7 +1575,7 @@ Embora seja uma digressão, o mesmo princípio se aplica à religião. A criaç�
 
 **Categoria:** se | **Ano:** 昭和28(1953)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 世界救世教奇蹟集 結論 | **Status:** Published | **Edição/Página:** 49号 | **Data ISO:** 1953-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Coletânea de Milagres da Sekaikyuseikyou - Conclusão
 Publicado na edição nº 49 da revista 'Paraíso Terrestre', em 25 de junho de 1953.
@@ -987,7 +1596,7 @@ Em uma era de tamanho avanço cultural e intelectual como a nossa, tal declaraç
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## A Luz da Suprema Sabedoria
 *Revista Paraíso Terrestre, nº 5, publicado em 25 de junho de 1949*
@@ -1054,7 +1663,7 @@ O plantio de árvores é permitido, desde que sejam de folhagem perene, como as 
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## A Luz do Ensinamento (Coletânea de Artigos do Mestre Okada Jikan)
 Do Mundo Celestial, nº 29, publicado em 25 de outubro de 1951.
@@ -1155,7 +1764,7 @@ Essa forma representa uma casa. É um prenúncio de que, no futuro, você viver�
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年8月1日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Ensinamento de 1º de agosto de 1953
 
@@ -1361,7 +1970,7 @@ Entendo. Então, se houvesse perfilhamento, o espaçamento seria maior? É como 
 
 **Categoria:** situmon | **Ano:** 昭和28(1953)年8月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示 （S28年8月1日） | **Status:** Published | **Edição/Página:** 23号 | **Data ISO:** 1953-08-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Teses do Reverendo Jikan Okada
 Busca de Ensinamentos:
@@ -1576,7 +2185,7 @@ Entendo. Então, se houvesse perfilhamento, o plantio seria mais espaçado? É c
 
 **Categoria:** situmon | **Ano:** 昭和24(1949)年6月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 妙智之光 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1949-06-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## A manifestação em trinta e três aparências é exclusiva de Kannon ou aplica-se a outras divindades japonesas?
 
@@ -1646,7 +2255,7 @@ O plantio de árvores é permitido, desde que sejam espécies perenes, apropriad
 
 **Categoria:** situmon | **Ano:** - | **Fonte:** -
 **Título Original:** - | **Status:** - | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** - | **Fonte (JP):** -
+**Coletânea:** - | **Tipo:** Perguntas e Respostas | **Fonte (JP):** -
 
 Prezado(a),
 
@@ -1664,7 +2273,7 @@ Aguardo, com elevada expectativa, a oportunidade de servir a esta sagrada missã
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示（S27年10月1日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Coletânea de Artigos do Reverendo Jikan Okada — Consulta aos Ensinamentos
 Orientações Divinas (1º de outubro de 1952)
@@ -1820,7 +2429,7 @@ Isso é maravilhoso.
 
 **Categoria:** he | **Ano:** 昭和27(1952)年11月26日 | **Fonte:** Eikou
 **Título Original:** 平和主義を考えてみる | **Status:** Published | **Edição/Página:** 184号 | **Data ISO:** 1952-11-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Reflexões sobre o Pacifismo
 Revista Eikou, nº 184, publicado em 26 de novembro de 1952
@@ -1839,7 +2448,7 @@ Apesar do que foi dito, não me cabe julgar qual das posições é correta ou in
 
 **Categoria:** situmon | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Gosuiiji録
 **Título Original:** 御垂示（S27年10月1日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御垂示録
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 御垂示録
 
 ## Orientações Particulares (1 de outubro de 1952)
 
@@ -1995,7 +2604,7 @@ Isso é excelente.
 
 **Categoria:** he | **Ano:** 昭和27(1952)年11月26日 | **Fonte:** Eikou
 **Título Original:** 平和主義を考えてみる | **Status:** Published | **Edição/Página:** 184号 | **Data ISO:** 1952-11-26
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Reflexões sobre o Pacifismo
 
@@ -2021,7 +2630,7 @@ Apesar de tudo, não me cabe julgar o que é certo ou errado, pois a presente ag
 
 **Categoria:** mo | **Ano:** 昭和25(1950)年2月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 文字に表われるお姿 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Imagem Divina que se Revela na Escrita
 Coletânea Paraíso Terrestre, n.º 13, 20 de fevereiro de 1950
@@ -2057,7 +2666,7 @@ Essas transformações representam as fases de Sua atuação até o presente. Co
 
 **Categoria:** situmon | **Ano:** 昭和26(1951)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 教えの光 | **Status:** Published | **Edição/Página:** 29号 | **Data ISO:** 1951-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Perguntas e Respostas | **Fonte (JP):** 地上天国
 
 ## Luz do Ensinamento
 
@@ -2161,7 +2770,7 @@ Essa forma representa uma casa. É um prenúncio de que, no futuro, você poder�
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年11月1日 | **Fonte:** Eikou
 **Título Original:** 日本人は欲がない | **Status:** Published | **Edição/Página:** 76号 | **Data ISO:** 1950-11-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A falta de ambição do povo japonês
 *(Revista Eikou, n.º 76, 1º de novembro de 1950)*
@@ -2186,7 +2795,7 @@ Por outro lado, aquele que age com seriedade e retidão torna-se alguém cujas p
 
 **Categoria:** mo | **Ano:** 昭和25(1950)年2月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 文字に表われるお姿 | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1950-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Manifestação Divina que se Revela na Caligrafia
 
@@ -2226,7 +2835,7 @@ Tudo isso demonstra as transformações ocorridas até o momento. Contudo, no fu
 
 **Categoria:** ni | **Ano:** 昭和25(1950)年11月1日 | **Fonte:** Eikou
 **Título Original:** 日本人は欲がない | **Status:** Published | **Edição/Página:** 76号 | **Data ISO:** 1950-11-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A surpreendente falta de ambição do povo japonês
 Publicado na revista Eikou, n.º 76, em 1º de novembro de 1950
@@ -2249,7 +2858,7 @@ Poderíamos continuar a citar exemplos como estes indefinidamente, mas a conclus
 
 **Categoria:** ni | **Ano:** 昭和29(1954)年1月27日 | **Fonte:** Eikou
 **Título Original:** 日本農法の大革命 無肥科で初年度から一割乃至（ないし）五割増産 | **Status:** Published | **Edição/Página:** 245号 | **Data ISO:** 1954-01-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Grande Revolução da Agricultura Japonesa: Aumento de produção de 10 a 50% desde o primeiro ano com o cultivo sem adubo
 
@@ -2321,7 +2930,7 @@ Tenho a convicção de que, com o avanço da Associação de Promoção da Agric
 
 **Categoria:** na | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
 **Título Original:** 南無諦め宗 滑稽阿呆文学 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## Coleção de Ensaios do Mestre Jikan Okada — A Religião do “Salvai-nos, Desistência” — Literatura Cômica do Tolo
 **“Mundo de Luz”, nº 5, publicado em 25 de janeiro de 1936**
@@ -2352,7 +2961,7 @@ Não sei se estou sendo presunçoso, mas Kannon (観音) é a Salvadora de todos
 
 **Categoria:** kouwa | **Ano:** 昭和25(1940)年2月 | **Fonte:** 昭和
 **Título Original:** 中島氏帰幽に関するお言葉未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 昭和
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 昭和
 
 ## Palavras sobre o falecimento do Sr. Nakajima (Inédito, fevereiro de 1950, Transcrição)
 
@@ -2384,7 +2993,7 @@ Embora momentaneamente se configure um sacrifício, não se pode chegar à verda
 
 **Categoria:** ni | **Ano:** 昭和29(1954)年1月27日 | **Fonte:** Eikou
 **Título Original:** 日本農法の大革命 無肥科で初年度から一割乃至（ないし）五割増産 | **Status:** Published | **Edição/Página:** 245号 | **Data ISO:** 1954-01-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Grande Revolução na Agricultura Japonesa
 ## Aumento de Dez a Cinquenta por Cento na Produção desde o Primeiro Ano pelo Método sem Adubos
@@ -2491,7 +3100,7 @@ Tenho a convicção de que, com o avanço da Associação de Agricultura Natural
 
 **Categoria:** na | **Ano:** 昭和11(1936)年1月25日 | **Fonte:** Hikari明世界
 **Título Original:** 南無諦め宗 滑稽阿呆文学 | **Status:** Published | **Edição/Página:** 5号 | **Data ISO:** 1936-01-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## A Religião do Namu-Conformismo: Literatura Jocosa de um Tolo
 Revista Komyō Sekai, nº 5, 25 de janeiro de 1936
@@ -2526,7 +3135,7 @@ Não sei se soará como autopromoção, mas Kannon (観音) é a salvadora de to
 
 **Categoria:** kouwa | **Ano:** 昭和25(1940)年2月 | **Fonte:** 昭和
 **Título Original:** 中島氏帰幽に関するお言葉未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1950-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 昭和
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 昭和
 
 ## Palavras sobre o Passamento do Sr. Nakajima (Inédito — Registro Taquigráfico de Fevereiro de 1950)
 
@@ -2560,7 +3169,7 @@ Trata-se de um sacrifício momentâneo, mas sem uma perspectiva eterna, é impos
 
 **Categoria:** u | **Ano:** 昭和27(1952)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 運命は自由に作られる | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1952-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Destino é Livremente Moldado
 
@@ -2580,7 +3189,7 @@ Ora, o método que permite purificar a alma sem a necessidade de passar pelo sof
 
 **Categoria:** u | **Ano:** 昭和27(1952)年10月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 運命は自由に作られる | **Status:** Published | **Edição/Página:** 41号 | **Data ISO:** 1952-10-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Destino é Construído Livremente
 Revista Paraíso Terrestre, nº 41, 25 de outubro de 1952
@@ -2605,7 +3214,7 @@ Ora, o método que permite purificar a alma sem passar pelos sofrimentos mencion
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 秋季大祭御講話（S27年9月24日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Sermão do Grande Culto de Outono (24 de setembro de 1952)
 
@@ -2655,7 +3264,7 @@ Bem, por hoje encerrarei por aqui. Como somos muitos, dedicarei um pouco mais de
 
 **Categoria:** kouwa | **Ano:** 昭和27(1952)年10月15日 | **Fonte:** Mioshie-shu
 **Título Original:** 秋季大祭御講話（S27年9月24日） | **Status:** Published | **Edição/Página:** 14号 | **Data ISO:** 1952-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 御教え集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Discursos | **Fonte (JP):** 御教え集
 
 ## Palestra do Culto de Outono (24 de setembro de 1952)
 
@@ -2699,7 +3308,7 @@ Por hoje, encerraremos aqui. Como somos muitos, dedicarei um pouco mais de tempo
 
 **Categoria:** i | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 伊都能売の身魂 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Alma de Izunome (伊都能売の身魂)
 
@@ -2723,7 +3332,7 @@ Nessa perspectiva, é desnecessário dizer que, nos dias de hoje, tentar cativar
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
 **Título Original:** 医学封建 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Feudalismo da Medicina (Este texto é um dos capítulos do livro 'A Revolução da Medicina')
 
@@ -2743,7 +3352,7 @@ Com base no que foi exposto, a postura de considerar a ciência como o método s
 
 **Categoria:** i | **Ano:** 昭和28(1953)年9月23日 | **Fonte:** Eikou
 **Título Original:** 医学封建 | **Status:** Published | **Edição/Página:** 227号 | **Data ISO:** 1953-09-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Feudalismo Médico
 
@@ -2779,7 +3388,7 @@ Se aplicarmos essa analogia à medicina, o quadro se torna ainda mais nítido. A
 
 **Categoria:** o | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 御説教 | **Status:** Published | **Edição/Página:** 39号 | **Data ISO:** 1952-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Sermão
 
@@ -2806,7 +3415,7 @@ Por essa razão, não havendo ainda uma designação apropriada, adotamos provis
 
 **Categoria:** i | **Ano:** 昭和27(1952)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 伊都能売の身魂 | **Status:** Published | **Edição/Página:** 35号 | **Data ISO:** 1952-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Espírito de Izunome
 
@@ -2830,7 +3439,7 @@ Sob essa ótica, é desnecessário dizer que, se pensarmos que os dias de hoje s
 
 **Categoria:** o | **Ano:** 昭和27(1952)年8月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 御説教 | **Status:** Published | **Edição/Página:** 39号 | **Data ISO:** 1952-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 Desde tempos imemoriais, as instituições que se denominam religiões têm, invariavelmente, os preceitos como seu pilar, e os difundem por meio de sermões, como todos sabem. Contudo, no que concerne à nossa Igreja Messiânica, é notório entre os fiéis que os sermões são bastante raros. É natural que tal fato suscite dúvidas em algumas pessoas. Ademais, ao sermos inquiridos por não-membros, torna-se necessário esclarecer o motivo. Por essa razão, discorrerei a respeito.
 
@@ -2852,7 +3461,7 @@ Por esse motivo, na ausência de um nome apropriado, designamo-la provisoriament
 
 **Categoria:** so | **Ano:** 昭和24(1949)年3月8日 | **Fonte:** -
 **Título Original:** 創刊の辞 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1949-03-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Palavras de Lançamento (Jornal "Luz", Edição nº 1, 8 de março de 1949)
 
@@ -2874,7 +3483,7 @@ Diante desta sociedade imersa em trevas e ignorância, projetaremos a “Luz” 
 
 **Categoria:** so | **Ano:** 昭和24(1949)年3月8日 | **Fonte:** -
 **Título Original:** 創刊の辞 | **Status:** Published | **Edição/Página:** 1号 | **Data ISO:** 1949-03-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Prefácio da Edição Inaugural
 
@@ -2896,7 +3505,7 @@ Em direção a esta sociedade imersa em trevas e ignorância, lançaremos os fac
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
 **Título Original:** 最後の審判 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-05-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## O Juízo Final
 
@@ -2940,7 +3549,7 @@ Anseio para que esse dia chegue o mais breve possível.
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年5月21日 | **Fonte:** Hikari明世界
 **Título Original:** 最後の審判 | **Status:** Published | **Edição/Página:** 3号 | **Data ISO:** 1935-05-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 光明世界
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 光明世界
 
 ## O Juízo Final
 (Publicado em 21 de maio de 1935, na revista “Komyō Sekai” nº 3)
@@ -2985,7 +3594,7 @@ Anseio para que este dia chegue o mais breve possível.
 
 **Categoria:** sa | **Ano:** 昭和10(1935)年 | **Fonte:** 昭和
 **Título Original:** 三千世界の大清算――世界最後の大審判はあるか？――未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 昭和
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 昭和
 
 ## A Grande Depuração dos Três Mil Mundos
 **Haverá o Grande Juízo Final do Mundo?**
@@ -3021,7 +3630,7 @@ Eu sou um daqueles que anseiam fervorosamente para que esta grande depuração m
 
 **Categoria:** English | **Ano:** - | **Fonte:** HUMAN BEINGS Eikoh , No.
 **Título Original:** BACTERIAL | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** HUMAN BEINGS Eikoh , No.
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** HUMAN BEINGS Eikoh , No.
 
 ## Seres Humanos Bacterianos
 
@@ -3046,272 +3655,6 @@ A seguir, passemos aos crimes. Como todos sabem, seu número aumentou sobremanei
 E, curiosamente, o próprio método para limpar os seres humanos bacterianos consiste em cometer um crime. Para limpar este novo crime, outro ser humano bacteriano se faz necessário, formando um círculo vicioso. Assim, este mundo tornou-se algo semelhante a um lodaçal.
 
 Contudo, o tempo finalmente chegou. E este artigo é o meio pelo qual Deus revela radicalmente essa realidade. Portanto, desejo que o leiam com os olhos bem abertos, pois este é o primeiro e o melhor caminho para reduzir o número de seres humanos bacterianos.
-
----
-
-# Os Homens-Bactéria
-
-**Categoria:** English | **Ano:** - | **Fonte:** HUMAN BEINGS Eikoh , No.
-**Título Original:** BACTERIAL | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** HUMAN BEINGS Eikoh , No.
-
-## Os Homens-Bactéria
-
-Revista Eikoh, n.º 183, 19 de novembro de 1952
-
-O que o homem contemporâneo mais teme, indubitavelmente, são as bactérias como causa das doenças. Contudo, para que propósito elas existem? Surpreendentemente, elas não são apenas essenciais à saúde humana, como é o próprio ser humano quem as cria. Uma leitura atenta do que se segue o levará, por certo, a uma profunda concordância.
-
-Para começar, todas as coisas que existem neste mundo são, sem exceção, necessárias ao ser humano e, ao mesmo tempo, por ele originadas. Esta é a Lei da Natureza. A ciência, até hoje, não logrou alcançar a profundidade de tal conhecimento, e a humanidade tem se contentado, meramente, com teorias nascidas de sua sabedoria superficial e de sua arrogância. Este princípio se aplica não apenas à esfera das enfermidades, mas também às pragas na agricultura e aos crimes na sociedade. Escreverei, pois, sobre a verdadeira natureza desses fenômenos de forma exaustiva.
-
-Primeiramente, quanto à origem dos germes: levados por pensamentos equivocados, os seres humanos cometem atos pecaminosos. Tais atos se convertem em máculas que, ao se acumularem, transformam-se em nuvens no aspecto espiritual e em sangue impuro no aspecto físico. Diante da necessidade de purificar esse sangue, surgem os germes, com a missão de torná-lo limpo. Dessa maneira, os germes proliferam com o objetivo de eliminar as impurezas; e como existem muitos tipos de impurezas, nascem também diferentes espécies de germes — isto é, agentes de limpeza adequados a cada uma delas.
-
-Portanto, em todas as coisas, a purificação ocorre porque impurezas se acumulam, e a Natureza, desse modo, provê uma solução perfeita. Consequentemente, se a humanidade almeja erradicar os germes do mundo, não há outro caminho senão o de purificar este mundo a tal ponto que eles não sejam mais necessários. Este é o princípio fundamental. É lamentável, todavia, que, por ignorar tal princípio, o homem, fechando os olhos para suas próprias faltas, trate os germes como se fossem os culpados e se esforce unicamente para exterminá-los.
-
-Este mesmo princípio se aplica aos fertilizantes. A prova disso é a tendência recente de aumento das pragas agrícolas ano após ano. Assim como os medicamentos, os fertilizantes contaminam o solo, e, por essa razão, as pragas surgem como agentes de limpeza. Logo, são os próprios seres humanos que as fazem proliferar. Ademais, o aumento recente na variedade de pragas se deve ao aumento na variedade de fertilizantes. A razão pela qual o homem começou a usar fertilizantes é que, tal como um narcótico, seu uso inicialmente promove um grande aumento na produção. Fascinados por esse resultado, os homens passaram a considerá-los o único método eficaz, caindo em uma superstição. Embora hoje sejam atormentados pelas pragas, não se dão conta da verdadeira situação. É, pois, uma grande tolice deixar-se iludir por um desempenho temporário, enquanto o solo se enfraquece, as sementes se envenenam, as pragas se multiplicam à vontade e a colheita diminui. Como resultado, o país mal escapa da fome graças ao arroz importado, como vemos hoje. Em que triste estado se encontra a nação outrora conhecida como "a Terra das Planícies Férteis e dos Vastes Arrozais" [Toyoashihara no Mizuho no Kuni (豊葦原瑞穂の国)]! Consequentemente, levados pelo desespero, os agricultores se debatem em esforços irrelevantes — melhorias de terras, intercâmbio e consolidação de propriedades, seleção de sementes, pesticidas e o problema da aquisição de fertilizantes —, um cenário que mal consigo suportar observar. Ademais, embora o governo invista somas vultosas em planos plurianuais para o aumento da produção de alimentos básicos, tudo não passa de muito alarde para pouco resultado, obtendo-se, na melhor das hipóteses, uma colheita mediana.
-
-A seguir, abordemos a criminalidade. Como é sabido, o número de crimes aumentou sobremaneira nos últimos anos, a ponto de autoridades e intelectuais não terem alternativa senão suspirar em desolação. Isso também ocorre porque o número de seres humanos análogos a dejetos está aumentando. Para que a Natureza os limpe, os homens-bactéria se tornam necessários, e como eles existem em abundância por toda parte, a Natureza permite que realizem a limpeza por conta própria. Seu método de limpeza consiste em atormentar as pessoas e infligir-lhes danos corporais. Por isso, frequentemente há quem se lamente, pensando apenas em si mesmo, dizendo não compreender por que se tornou tão infeliz apesar de ter trilhado o caminho da retidão, ou que não deveria sofrer tanto com doenças. Tais queixas nascem da ignorância sobre a real situação. Se Deus observasse essas pessoas, certamente esboçaria um sorriso amargo.
-
-E o mais interessante é que o próprio método de limpeza dos homens-bactéria — o crime — também gera máculas. Para purificá-las, outro homem-bactéria se faz necessário, formando um círculo vicioso que transformou este mundo em algo semelhante a um lodaçal. Contudo, o tempo finalmente chegou. E é neste artigo que Deus revela radicalmente essa realidade. Desejo, portanto, que o leiam com os olhos bem abertos. Este é o primeiro e mais excelente caminho para reduzir o número de homens-bactéria.
-
----
-
-# A Grande Purificação dos Três Mil Mundos – Haverá o Juízo Final do Mundo?
-
-**Categoria:** sa | **Ano:** 昭和10(1935)年 | **Fonte:** 昭和
-**Título Original:** 三千世界の大清算――世界最後の大審判はあるか？――未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1935
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 昭和
-
-## A Grande Purificação dos Três Mil Mundos – Haverá o Juízo Final do Mundo?
-(Ensaio não publicado, acredita-se ter sido escrito por volta de 1935)
-
-Desde tempos imemoriais, noções como o fim do mundo e o Juízo Final encontram-se nas Escrituras Sagradas, mas, ao que parece, ninguém jamais as elucidou em profundidade. Embora não possa afirmá-lo categoricamente, tentarei discorrer sobre o assunto, quiçá como quem narra uma fantasia, a partir de uma perspectiva em que tanto se pode admitir sua existência quanto negá-la. Não sou um vidente, e basta que o leitor encare minhas palavras como um palpite, que tanto pode se confirmar quanto falhar. Contudo, se tal evento fosse de todo inexistente, não haveria razão para escrever a seu respeito. Portanto, partirei do pressuposto de que ele de fato ocorrerá.
-
-Conforme sempre menciono, o Mundo da Noite está chegando ao fim para dar lugar ao Mundo do Dia, ou seja, ao momento em que o Sol se erguerá com radiante esplendor. Gostaria de vos convidar a imaginar a transformação que se operará em todas as coisas durante essa transição da noite para o dia.
-
-Escusado será dizer que a distinção mais fundamental entre a noite e o dia reside na escuridão e na claridade. A maldade, por sua própria natureza, não é algo a ser praticado abertamente, à luz do dia. É de conhecimento geral que o segredo e o crime são transações que se realizam nas sombras. Sendo assim, qual teria sido a duração desse Mundo da Noite? Segundo minhas conjecturas, estimo um período de três mil a dez mil anos. Por ora, vamos nos referir a ele como um período de milênios. De fato, ao revisitarmos a história desses milênios, é inegável que vivíamos no Mundo da Noite. Praticamente não houve era em que nações e povos estivessem livres do segredo, da maldade e do conflito. Se o próprio Deus observasse tal cenário com Seu olhar divino – e até mesmo para nós, meros mortais –, não haveria outra forma de descrevê-lo senão como uma era de trevas.
-
-O panorama de nações e indivíduos, em sua inconstância de glórias e reveses, assemelha-se às fases da lua no céu noturno. Ao contemplarmos o curso da história, onde os perversos triunfam, ainda que temporariamente, e os justos são oprimidos, o mundo se revela um palco para a livre ação de espíritos malignos.
-
-Diante de um mundo tão repleto de iniquidade, de uma era de trevas que se estendeu por milênios, é compreensível que até os mais eminentes eruditos de qualquer época fiquem cativos a uma visão puramente histórica. Eles acabam por tomar essa realidade como padrão para todas as suas críticas e definições. É por essa razão, talvez, que expressões como “a sobrevivência do mais apto” e “a lei do mais forte” ressoam com a força de uma verdade incontestável.
-
-Todavia, o que aconteceria se nos elevássemos a um patamar muito superior – saltando não apenas um ou dois, mas vários degraus acima dessa perspectiva histórica de milênios – e de lá observássemos o panorama? Sob essa nova ótica, torna-se imperativo que este mundo, onde a iniquidade se acumulou ao longo de milênios, passe por uma purificação definitiva e absoluta. É evidente, contudo, que tal feito é impossível de ser realizado pela força humana, pois são os próprios seres humanos que se encontram na posição de serem purificados. Portanto, se porventura essa purificação vier a ocorrer, é um axioma que somente Deus poderá realizá-la. É esse método, a ser empregado por Deus, que eu, com o mais profundo respeito, desejo agora perscrutar.
-
-Esse método, como já reiterei, consiste na transição para o Mundo do Dia, um mundo resplandecente sob a luz do Sol. É a iluminação que tudo revelará. Nesse ponto, muitos poderão objetar, dizendo: “Mas o Sol não nasce todos os dias? Que outro Mundo do Dia poderia existir além deste?”. Contudo, refiro-me aqui ao Mundo Espiritual. A relação entre o Mundo Espiritual e o mundo fenomênico será detalhada em outra oportunidade; por ora, não me resta alternativa senão pedir ao leitor que prossiga com a leitura aceitando incondicionalmente a existência do Mundo Espiritual.
-
-Permitam-me agora abordar a questão sob uma outra perspectiva, fundamentada em fatos que observo em meu cotidiano. Lidando diariamente com enfermos, utilizo um método de diagnóstico singular, distinto da medicina convencional, e o que constato ao examinar cada indivíduo é verdadeiramente assombroso. Refiro-me à matéria impura – para usar um eufemismo, pois na verdade se trata de pus – que se encontra estagnada no corpo de todas as pessoas. É um fato inimaginável que tanto o pus quanto o sangue intoxicado estejam presentes em quantidades alarmantes nos tecidos e vasos sanguíneos de qualquer ser humano. Ao observar o homem de hoje, chego a me surpreender que consiga se manter vivo. É certo que examino muitos indivíduos saudáveis, além dos enfermos, mas a acumulação de pus em seus corpos não difere muito da que se encontra nos doentes. A única diferença é que uma enfermidade grave ainda não se manifestou. Diante dessa realidade, não há outra conclusão senão a de que tal acúmulo de impurezas é o resultado de milênios respirando a atmosfera do Mundo da Noite, um sedimento material dos pecados e máculas da humanidade. Se os seres humanos são um reflexo da escuridão da noite, puderam sobreviver até hoje. Mas o que lhes aconteceria se fossem banhados pela luz radiante do Sol? A simples imaginação me causa um arrepio de pavor.
-
-Tomemos como exemplo o que ocorre com os germes que proliferam na escuridão quando são expostos à luz solar. E da mesma forma que as imundícies e a poeira, embora não sejam claramente visíveis à noite, não podem de forma alguma ser dissimuladas sob a claridade do dia.
-
-Com base nesses exemplos, compreende-se que a luz do Sol, a claridade do dia, purificará inexoravelmente toda a imundície. O estelionato não poderá mais ser ocultado. Os segredos serão instantaneamente desvelados. A prática do mal se tornará inviável. A injustiça se recolherá às sombras e os conflitos serão ceifados. Consequentemente, todos os desvios serão corrigidos, a engrenagem social passará a funcionar de modo racional, cada pessoa encontrará seu justo lugar no tempo e no espaço, o bem florescerá e advirá uma era em que toda a humanidade desfrutará da vida.
-
-Entretanto, aqueles que não conseguirem crer neste Mundo de Luz, por não se adaptarem a ele, não terão outro destino senão o declínio antes de sua chegada. Quer se creia, quer não, quer se deseje, quer não, essa nova era se aproxima. Qual será, então, a condição daqueles que não conseguem nela acreditar? Os crimes, os segredos e as injustiças que até agora puderam ser ocultados virão à tona, um após o outro. E seus corpos, repletos de máculas, não terão outra alternativa senão desintegrar-se, tal como os germes que perecem sob a luz do Sol. Assim, pode-se antever a chegada de uma era de natureza completamente distinta da do Mundo da Noite que a precedeu. As nações que se engajarem em conflito, caso ambas estejam erradas, perecerão juntas. Apenas o que for justo, apenas aqueles que estiverem em conformidade com a Vontade de Deus, subsistirão e prosperarão. Ao observarmos as atuais relações internacionais, vemos o mundo inteiro prestes a mergulhar em um vórtice de grandes conflitos e convulsões, uma situação em que não se pode afirmar que alguma nação sairá ilesa. De fato, é impossível não enxergar nesses acontecimentos o prelúdio para o colapso do Mundo da Noite.
-
-Pessoalmente, sou alguém que anseia ardentemente para que esta Grande Purificação – a transição do Mundo da Noite para o Mundo do Dia –, se de fato ocorrer, transcorra de forma pacífica e serena, livre de colapsos e devastações, e que o advento do Mundo de Luz se concretize da maneira mais tranquila possível.
-
----
-
-# Sobre a Racionalidade da Fé
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年6月17日 | **Fonte:** Eikou
-**Título Original:** 信仰の合理性に就いて | **Status:** Published | **Edição/Página:** 213号 | **Data ISO:** 1953-06-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Sobre a Racionalidade da Fé
-
-Já abordei nesta coluna o tema da racionalidade da fé, e creio que o assunto tenha ficado claro. Todavia, recebi recentemente de um certo presidente de Igreja uma nova pergunta relacionada a essa questão, e gostaria de discorrer sobre ela.
-
-O caso refere-se a uma fiel que ingressou na fé há cerca de dois anos, motivada pela cura de uma infiltração pulmonar de seu marido. Em fevereiro deste ano, contudo, seu filho, de apenas dois anos, contraiu pneumonia. Ela consultou o responsável de Johrei Center, que lhe assegurou: "Eu o curarei". A partir de então, ele dedicou-se a ministrar Johrei com grande empenho. O quadro, entretanto, não evoluiu favoravelmente, e a criança chegou a correr perigo de vida. Foi nesse momento, há poucos dias, que recebi uma ligação solicitando minha intercessão. A partir daquele momento, a criança apresentou uma melhora considerável, mas a mãe, ainda apreensiva, recorreu ao presidente de Igreja, trazendo o filho consigo e suplicando por orientação sobre como proceder.
-
-Minha resposta foi a seguinte: Uma enfermidade como a pneumonia não deveria prolongar-se por tanto tempo. Há, indubitavelmente, algum equívoco em sua conduta. Existem duas causas para isso. Uma delas, embora também represente um grande erro, é de natureza pessoal, e por isso a manterei em sigilo. A outra, contudo, é ainda mais grave, e, por julgar importante que o presidente de Igreja também a ouvisse, explanei-a detalhadamente. O ponto é que, sendo o pai e a mãe membros há um ou dois anos, uma pneumonia no próprio filho é algo que eles mesmos deveriam tratar por meio do Johrei. Procedendo dessa forma, a cura teria sido alcançada. No entanto, em vez disso, a mãe, interpretando mal a situação, mal ministrou Johrei e importunou o responsável do Johrei Center. Tal atitude é desprovida de lógica. Por sua vez, o responsável também errou ao deslocar-se repetidamente para ministrar Johrei. Portanto, ambos estão completamente equivocados. A função primordial de um responsável de Johrei Center é a de pioneirismo, ou seja, de difundir a fé a não membros. Aqueles que já são fiéis, uma vez que receberam de Deus a permissão para curar, devem ministrar Johrei em seus próprios familiares. Recorrer ao responsável nessas circunstâncias significa obstruir suas atividades missionárias. Ademais, cabia ao responsável orientar a família a esse respeito. O fato de ele não ter percebido isso demonstra uma notável falta de discernimento. Em casos excepcionais, é permissível que ele ministre Johrei por um breve período, após solicitar a devida permissão a Deus, mas não deve ir além disso.
-
-Em suma, quando as ações não estão em conformidade com a lógica Divina, não se pode receber a graça. Por conseguinte, presidentes de Igreja, responsáveis de Johrei Center, ministros e demais dirigentes devem ter plena consciência de suas respectivas posições e responsabilidades, agindo com cautela para não incorrer em práticas irracionais. Nesse sentido, se tiverem o hábito de se dedicar à leitura dos Escritos Divinos, aprimorando sua sabedoria e seu discernimento espiritual, serão capazes de perceber essas nuances em qualquer circunstância.
-
-Para tanto, é fundamental não se esquecer da distinção entre o Grande Veículo e o Pequeno Veículo. A prioridade absoluta deve ser sempre o progresso da Obra Divina; as questões pessoais devem ser relegadas a segundo ou terceiro plano. Agindo assim, tudo transcorrerá em harmonia. Em outras palavras, ao ponderar sobre o bem maior e agir racionalmente, é possível receber graças ilimitadas. Se, por outro lado, as atitudes interferem, ainda que minimamente, na Obra Divina, é natural que os resultados não sejam os esperados. Afinal, estamos falando da extraordinária missão de salvar toda a humanidade, e Deus, ademais, tem extrema urgência. É imperativo que reflitam profundamente sobre esse ponto.
-
----
-
-# Obra Social e Obra Religiosa
-
-**Categoria:** shi | **Ano:** 昭和27(1952)年3月5日 | **Fonte:** Eikou
-**Título Original:** 社会事業と宗教事業 | **Status:** Published | **Edição/Página:** 146号 | **Data ISO:** 1952-03-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Obra Social e Obra Religiosa
-
-Ao observarmos o mundo em nossos dias, nota-se que as pessoas parecem não se dar conta da confusão que fazem entre obra social e obra religiosa. Para tanto, contudo, há uma razão, a qual passarei a expor. Tomemos como exemplo o cristianismo e, mais recentemente, as religiões tradicionais do Japão: todas as que alcançaram considerável dimensão administram hospitais. Isso ocorre unicamente porque a fé que professam não é capaz de curar as doenças. Embora se possa argumentar que tal medida seja inevitável, a verdade é que não o é. Com efeito, se a fé fosse mais eficaz que a medicina para curar enfermidades, seria evidente que não haveria motivo algum para se construir hospitais.
-
-Portanto, falando sem rodeios, tais religiões estão, na prática, confessando a superioridade da medicina sobre a fé, o que significa colocar a ciência acima da religião. Se assim o é, seria mais coerente que as pessoas deixassem de lado o Deus ou o Buda que tanto reverenciavam e, em seu lugar, colocassem a fotografia de um médico no altar para cultuá-la dia e noite. Afinal, são os médicos os salvadores de suas vidas.
-
-Em contrapartida, declaro categoricamente que a nossa Igreja, por maior que venha a se tornar, jamais construirá hospitais. Tal afirmação por certo surpreenderá o homem moderno, mas a razão é evidente: o poder de cura de nossa fé é incomparavelmente superior ao da medicina. É precisamente por esse motivo que sempre me refiro a uma revolução no campo da medicina.
-
-Há outro ponto que desejo abordar. As diversas obras sociais existentes, como orfanatos, asilos e programas de auxílio aos pobres, não passam, a meu ver, de caridade paliativa. E por que digo isso? Porque o surgimento de tantas pessoas em situação de infortúnio indica a existência de uma causa fundamental em algum ponto da sociedade. A verdadeira solução, portanto, não consistiria em identificar essa causa e extirpá-la em sua raiz? Todavia, por lamentavelmente a desconhecerem, as pessoas continuam a recorrer a medidas provisórias, que apenas tratam os sintomas.
-
-Nossa Igreja, entretanto, por conhecer a causa de todos esses infortúnios, vem estendendo, passo a passo, a mão da salvação. Tendo como missão a construção do Paraíso Terrestre, não recorremos a meios insensatos que apenas represam momentaneamente o fluxo do sofrimento. Ademais, não há sequer necessidade de fazê-lo.
-
-Aqueles que desconhecem os fatos aqui expostos por vezes questionam por que nossa Igreja parece indiferente às obras sociais. Sirvam, portanto, estas palavras como o devido esclarecimento.
-
----
-
-# A Fé é Confiança
-
-**Categoria:** shi | **Ano:** 昭和24(1949)年6月18日 | **Fonte:** -
-**Título Original:** 信仰は信用なり | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-06-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Fé é Confiança
-
-Publicado na revista Hikari n.º 13, em 18 de junho de 1949
-
-Embora existam inúmeros religiosos no mundo, os praticantes da verdadeira fé são, em verdade, muito raros. Sendo assim, discorrerei sobre o que define um verdadeiro fiel.
-
-Por mais que alguém se considere um fiel exemplar, a mera percepção subjetiva é desprovida de significado. A fé genuína só pode ser aferida por um olhar objetivo, e para se tornar um fiel com tais predicados, é primordial compreender o caminho a ser seguido. O princípio para tanto é simples: consiste em conquistar a confiança das pessoas. Trata-se de ser alguém de quem se diz: "Suas palavras são infalíveis", "Conviver com ele é garantia de que nada de mal acontecerá" ou, ainda, "Ele é uma pessoa admirável".
-
-Como, então, conquistar tal confiança? A resposta também é singela. Acima de tudo, não proferir mentiras e priorizar o benefício alheio em detrimento do próprio. Em outras palavras, ser o tipo de pessoa que inspira pensamentos como: "Fui salvo graças a ele", "Relacionar-se com ele não traz prejuízo algum", "Que pessoa genuinamente gentil", "Sempre me sinto bem ao encontrá-lo". Quando alguém alcança esse patamar, é certo que será amado e reverenciado por todos. Basta uma breve reflexão sobre nós mesmos para que isso se torne evidente. Afinal, ao conhecer alguém com tais qualidades, é natural o desejo de estreitar os laços, de lhe confiar qualquer assunto e, com o tempo, desenvolver uma amizade profunda e sincera. Há mais um ponto que desejo ressaltar: qualquer que seja a bondade praticada, ela não pode ser efêmera. A virtude deve ser como o arroz branco: à primeira vista, pode parecer insípido, mas, quanto mais se mastiga, mais sabor se revela. Da mesma forma que o ser humano não consegue prescindir do arroz em seu dia a dia, costumo dizer que as pessoas precisam se tornar "seres-arroz".
-
-Contudo, ao observarmos o mundo, constatamos que há um número excessivo de pessoas que agem de maneira diametralmente oposta. São indivíduos que, com naturalidade, praticam atos que minam sua própria credibilidade. Acima de tudo, contam mentiras cuja falsidade logo se revela. Uma vez proferida a mentira, por mais admiráveis que sejam as demais ações de uma pessoa, sua credibilidade se desfaz por completo. Trata-se do cúmulo da insensatez. Existem aqueles que, por mais que se empenhem e trabalhem arduamente, jamais prosperam. Ao investigarmos a causa de tal infortúnio, invariavelmente descobrimos que ela reside na perda de confiança decorrente da mentira. Para isso, não há exceção. A confiança é, de fato, um patrimônio. Quem a possui jamais enfrentará dificuldades financeiras, pois sempre haverá quem lhe estenda crédito de bom grado.
-
-Até aqui, tratei da confiança no âmbito das relações humanas. Todavia, é preciso dar um passo adiante e abordar a confiança depositada por Deus, pois esta é a mais sublime de todas. Aquele que conquista a confiança Divina verá todos os seus caminhos se abrirem e poderá desfrutar de uma vida imersa em júbilo.
-
----
-
-# O Excelso Significado do Shinsenkyo, o Protótipo do Paraíso Terrestre
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年7月8日 | **Fonte:** Eikou
-**Título Original:** 神仙郷地上天国の大いなる意義 | **Status:** Published | **Edição/Página:** 216号 | **Data ISO:** 1953-07-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## O Excelso Significado do Shinsenkyo, o Protótipo do Paraíso Terrestre
-
-*Coletânea de ensaios de Okada Jikan-shi. Publicado na revista Eiko nº 216, em 8 de julho de 1953.*
-
-Finalmente, foi concluído o tão esperado Shinsenkyo, protótipo do Paraíso Terrestre, localizado em Kanrei (¹) . Escusado será dizer que este Jardim Divino é uma obra como, creio eu, jamais existiu, não apenas no Japão, mas em todo o mundo. Sobre uma montanha de tal altitude, foram dispostas, com maestria, incontáveis rochas e pedras de formas singulares. Entre seus vãos e fendas, foram harmoniosamente arranjados diversos tipos de árvores, flores e plantas alpinas. Aqui e acolá, o murmúrio dos riachos que serpenteiam o terreno deleita os ouvidos, proporcionando uma profunda apreciação da beleza natural. Todos que o visitam não poupam elogios, afirmando que a atmosfera do local os faz sentir como se estivessem no Paraíso, libertos da poeira do mundo secular. Ademais, coroando a composição, ergue-se o resplandecente Templo da Beleza. Em sua totalidade, a obra harmoniza a beleza natural e a artificial, constituindo uma obra de arte da qual podemos, com justiça, nos orgulhar.
-
-Contudo, a descrição acima reflete uma apreciação meramente humana. Sob uma perspectiva espiritual, oculta-se nela um significado de uma magnitude inimaginável. Ao explicá-lo em detalhe, será possível vislumbrar quão profundo, sutil e insondável é o Plano Divino, e quão grandioso e transcendente ele é em relação à inteligência humana. Conforme sempre afirmo, o Plano Divino possui uma natureza profundamente misteriosa: inicia-se em uma escala mínima para, gradualmente, expandir-se até abranger o mundo inteiro. Este princípio também se aplica ao mundo material. Quando os seres humanos desejam criar algo grandioso, primeiro elaboram um protótipo para depois dar início à obra principal. Portanto, o Shinsenkyo recém-concluído deve ser compreendido como uma prefiguração do futuro Paraíso Terrestre em escala mundial. Nesse sentido, explicarei o profundo significado da escolha da montanha de Hakone para este empreendimento.
-
-Do ponto de vista espiritual, o centro do mundo é o Japão, e o Monte Fuji é o seu grande pilar. Observem sua forma: uma silhueta de beleza singular, sem paralelo no mundo. Desde a antiguidade, é reverenciado como Montanha Divina ou Pico Sagrado, sendo considerado pelos estrangeiros um símbolo do Japão. O profundo significado oculto nisso reside no fato de que este país está destinado a se tornar o centro do Paraíso Terrestre, conforme foi estabelecido por Deus desde a Criação do Céu e da Terra. Contemplem a beleza de suas paisagens, a imensa variedade de sua flora, os cenários que se transformam a cada estação e as mudanças em seus costumes e tradições. Sua abundância de dádivas celestiais confere-lhe, por si só, uma beleza paradisíaca. Não é de se espantar que o antigo imperador chinês Qin Shi Huang tenha se referido a estas terras como a ilha paradisíaca de Horai, no Oriente. Ademais, a especial sensibilidade do nosso povo para a beleza é um fato reconhecido pelos estrangeiros, a um nível que nenhuma outra nação do mundo pode igualar. É também um mistério o fato de que, desde tempos remotos, obras de arte de todas as nações foram aqui reunidas e preservadas. Assim, este afortunado Japão já possui, por Vontade Divina, os elementos constitutivos do Paraíso. É por essa razão que sempre afirmo que o Japão é o parque e o museu do mundo.
-
-Se, como exposto, todo o território japonês é o parque e o centro do mundo, então o parque do Japão é Hakone. Ademais, Hakone se localiza no centro geográfico entre o leste e o oeste do Japão, sendo evidente que a leste se estende a região de Kanto e, a oeste, a de Kansai. Do ponto de vista cultural, tampouco haverá outra nação que tenha assimilado tão completamente as culturas oriental e ocidental. O Japão tem a missão de harmonizá-las para dar origem a uma cultura de paz ideal. Recentemente, ouvi dizer que alguns intelectuais nos Estados Unidos começaram a defender essa mesma tese, o que me parece bastante plausível. Sendo assim, Hakone é o centro do Japão, e o centro de Hakone é Gora. De lá, ao olharmos para o alto, avistamos o Monte Sounzan, e por trás dele se eleva o Monte Kamiyama, o pico mais alto da cordilheira de Hakone e o seu verdadeiro centro. Desse modo, é desnecessário dizer que esta montanha constitui o ponto de bifurcação entre o leste e o oeste do Japão. Isto é verdadeiramente misterioso, e o nome Kamiyama (Montanha Divina) mostra-se, portanto, perfeitamente apropriado.
-
-Por conseguinte, o ideal seria construir o Paraíso Terrestre no cume do Monte Kamiyama, mas, sendo isso impossível, escolhemos este local. A primeira residência que tive ao chegar a Gora foi por mim denominada Shinzanso em alusão ao Monte Kamiyama. De igual modo, o local onde hoje se ergue o Templo Nikko-den foi batizado na época de Soun-ryo, em referência ao Monte Sounzan. Outro fato interessante é que o desenvolvimento original de Gora foi realizado pela companhia do trem de montanha. A empresa criou a área onde hoje se encontra o Shinsenkyo sob o nome de “Parque Japonês”, e, misteriosamente, o nível inferior, o atual Parque Gora, foi concebido como um parque de estilo ocidental. Analisando sob essa ótica, se o Japão é o parque do mundo, Hakone é o parque do Japão, e Gora é o parque de Hakone, então o Shinsenkyo, como centro de Gora, torna-se o verdadeiro centro do mundo.
-
-Nesse sentido, a conclusão do Shinsenkyo, o Protótipo do Paraíso Terrestre, significa que o Paraíso Terrestre finalmente nasceu no centro do mundo. Trata-se, por assim dizer, do nascimento do Paraíso Terrestre, o que o torna o evento mais auspicioso desde o início dos tempos e uma data a ser celebrada por toda a eternidade. O dia 15 de junho será, no futuro, a data de comemoração do nascimento do Paraíso Terrestre. Neste ponto, desejo anunciar algo de suma importância. A partir de hoje, a atividade espiritual será acelerada e, a partir deste centro, um grandioso redemoinho em movimento espiralado se expandirá gradualmente pelo mundo, trazendo uma transformação sem precedentes. Esta é a Reforma e Reconstrução do Mundo.
-
-(1) Kanrei, outro nome para a montanha de Hakone.
-
----
-
-# Vinte Anos de Dívidas
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Eikou
-**Título Original:** 借金二十年 | **Status:** Published | **Edição/Página:** 217号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Vinte Anos de Dívidas
-
-Durante mais de vinte anos, do oitavo ano da Era Taisho ao décimo sexto da Era Showa, fui atormentado por dívidas. Ou melhor, fui subjugado por elas. Jamais me esquecerei do que ocorreu no oitavo ano de Taisho, quando eu tinha trinta e oito anos. Os preparativos para meu casamento com minha atual esposa estavam concluídos e, logo após escolhermos uma data auspiciosa, recebi uma visita inesperada: pela primeira vez em minha vida, três oficiais de justiça – uma estirpe de homens verdadeiramente desagradável – irromperam em minha casa. Apresentaram-me um estranho documento para que eu lesse, mas, como alguém que jamais passara por tal experiência, apenas pude arregalar os olhos, atônito. Enquanto eu permanecia paralisado, eles inspecionavam cômodo por cômodo, afixando apressadamente pequenos selos de papel nos móveis e utensílios de maior valor. Em seguida, pediram que eu lesse uma notificação, do tamanho de meia folha de papel, que detalhava os motivos da penhora, e a colaram na lateral de uma cômoda antes de se retirarem. Ao examinar o documento mais de perto, deparei-me com diversos artigos legais, mas uma cláusula em particular me deixou estarrecido: os bens confiscados não poderiam ser movidos e a remoção dos selos afixados constituiria uma violação a um determinado artigo do Código Penal.
-
-Para minha consternação, o pequeno selo de papel havia sido colado de modo a prender a gaveta da cômoda à sua estrutura, impedindo sua abertura. Evidentemente, o intuito era proibir o acesso, mas eu precisava pegar minhas roupas. Após diversas tentativas, consegui descolar com cuidado a parte do selo que estava na estrutura, e, mantendo-o preso à gaveta, finalmente logrei abri-la. Foi um grande alívio.
-
-A razão pela qual me encontrava nessa situação aflitiva é a que passo a narrar. Conforme já escrevi anteriormente, eu havia alcançado grande sucesso com meu comércio de miudezas e, partindo praticamente do nada, amealhara um patrimônio de centenas de milhares de ienes. A soberba, então, tomou conta de mim. Acariciava o antigo sonho de fundar um jornal e, ao investigar o assunto, descobri que seria necessário um capital de um milhão de ienes, uma soma vultosa para a época. Determinado a levantar essa quantia, envolvi-me em diversas especulações financeiras. Foi nesse período que travei conhecimento com um certo senhor Yoshikawa, um indivíduo de astúcia notória e vasta experiência mundana. Naqueles dias, eu era alvo da admiração e da inveja de meus pares no comércio, o que me levou a ter uma visão ingênua do mundo. Deixei-me levar pela lábia do referido senhor e, aproveitando a febre especulativa que se seguiu à Primeira Guerra Mundial, iniciei um negócio de financiamento para corretores da bolsa.
-
-O negócio parecia infalível. Graças ao meu crédito, os bancos me adiantavam os valores mediante cheques pré-datados, e eu podia cobrar juros exorbitantes dos tomadores. Era, em suma, um lucro fácil, que não exigia nenhum investimento de minha parte. O montante, entre dinheiro e cheques, logo ultrapassou a casa das centenas de milhares de ienes. Ocorre que o Soko Ginkou, o banco que intermediava essas operações, faliu subitamente. Yoshikawa ocultou-me esse fato e, para piorar, descontou os cheques com agiotas, o que tornou a situação calamitosa. Os juros altíssimos acumularam-se a ponto de ele não ter mais como arcar com o compromisso, e, por fim, veio confessar-me tudo, prostrando-se diante de mim. Para mim, foi como um raio em céu azul. Como medida de emergência, não tive outra alternativa senão solicitar ao meu banco que sustasse o pagamento de todos os cheques emitidos. Naturalmente, isso enfureceu os agiotas. Eles não apenas tomaram as medidas de penhora que descrevi, como também moveram uma ação judicial contra mim por estelionato, o que me levou a ser intimado pela promotoria e submetido a um interrogatório rigoroso. Após suplicar a vários dos credores, consegui finalmente fechar um acordo por oitenta mil ienes, cerca de dois terços do valor total, sendo metade à vista e a outra metade em parcelas mensais. A partir daquele momento, teve início meu longo calvário para saldar essa dívida.
-
-Devido a esse incidente, meu casamento tornou-se inviável. Decidi, então, expor toda a verdade à família de minha noiva. Para minha surpresa, em vez de reprovação, recebi elogios. Disseram-me que era raro encontrar um homem tão íntegro, a ponto de confessar algo que a maioria manteria em segredo, e insistiram para que o casamento se realizasse. Lembro-me até hoje de pensar em como o mundo é, de fato, um lugar curioso. Esse duro golpe financeiro, contudo, restringiu severamente minhas atividades comerciais. Reorganizei a loja como uma sociedade anônima, o que me proporcionou um alívio temporário, mas logo veio a inesquecível crise econômica de março do nono ano de Taisho. A queda abrupta dos preços das mercadorias e a inadimplência generalizada representaram um segundo revés. E a este se somou um golpe ainda mais devastador: o Grande Terremoto de Kanto, em 1º de setembro do décimo segundo ano de Taisho. Minha loja em Kyobashi e todo o seu estoque foram consumidos pelo fogo, e os empréstimos que havia concedido tornaram-se irrecuperáveis. Por um momento, pensei que tudo estava perdido, mas, de alguma forma, consegui manter o negócio em funcionamento. Diante de tantas adversidades, criei uma profunda aversão à busca pelo lucro e passei a procurar na religião um novo sentido para a vida. Investiguei diversas crenças, mas nenhuma realmente me tocou, até que encontrei a Oomoto. Senti-me imediatamente atraído e ingressei na fé.
-
-Omitirei os detalhes sobre minha jornada espiritual, pois já os relatei em outra ocasião, e me concentrarei apenas na questão da dívida. Tendo abandonado a busca por lucros, tornou-se impossível saldar minhas obrigações. Consequentemente, os agiotas vinham, um após o outro, executar a penhora de meus bens. Os donativos que eu recebia em gratidão pelas curas espirituais eram modestos, de modo que precisei reduzir minhas despesas ao extremo, subsistindo com o mínimo indispensável. Com grande perseverança, fui pagando a dívida aos poucos, mas o progresso era lento. Felizmente, com o tempo, minhas atividades religiosas prosperaram e meus rendimentos aumentaram consideravelmente, até que, no décimo sexto ano da Era Showa, finalmente consegui quitar a última parcela. Ao todo, foram exatos vinte e dois anos de tormento. Senti um alívio imenso, como se um fardo pesado tivesse sido subitamente retirado de minhas costas.
-
-Gostaria de ressaltar aqui um ponto de suma importância. Enquanto estive submerso em dívidas, meu coração vivia obcecado pelo desejo de ter dinheiro. Todavia, à medida que minha fé se aprofundava, passei a compreender que as finanças são uma concessão de Deus. Uma vez saldada toda a dívida, meu espírito encontrou a serenidade. Ironicamente, a partir de então, quantias que eu jamais poderia imaginar começaram a afluir, e o volume só aumentava a cada ano. Diante disso, cheguei a uma profunda conclusão: o dinheiro, essa entidade curiosa, não se aproxima de quem o deseja ardentemente; ele surge quando já nos esquecemos de sua busca. Esta é a ‘filosofia da dívida’ que extraí de mais de duas décadas de experiência. Talvez pareça estranho que um líder religioso escreva sobre tais assuntos, mas fi-lo por acreditar que esta reflexão possa, de alguma forma, ser útil para alguém.
-
-(Nota) *Aisu* é uma gíria para agiota. A palavra é um trocadilho originado da homofonia com o termo *kōrigashi* (氷菓子), que significa “doce gelado” (sorvete).
-
----
-
-# Acerca da Racionalidade da Fé
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年6月17日 | **Fonte:** Eikou
-**Título Original:** 信仰の合理性に就いて | **Status:** Published | **Edição/Página:** 213号 | **Data ISO:** 1953-06-17
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Acerca da Racionalidade da Fé
-Publicado na revista Eikou n.º 213, em 17 de junho de 1953
-
-Creio que o tema da racionalidade na fé ficou claro no artigo que publiquei recentemente nesta coluna. Todavia, uma nova pergunta relacionada ao assunto foi-me dirigida por um determinado chefe de Igreja, e sobre ela discorrerei.
-
-Trata-se do caso de uma fiel que ingressou na Fé há cerca de dois anos, motivada pela cura da infiltração pulmonar de seu marido. Ocorre que, em fevereiro deste ano, seu filho de dois anos contraiu uma pneumonia. Ao consultar o chefe de uma unidade religiosa, este lhe garantiu que se encarregaria da cura. A partir de então, ministrou-lhe Johrei com grande empenho, mas o quadro não apresentava melhora. A criança, por fim, encontrou-se em estado crítico. Foi quando, há alguns dias, recebi um telefonema solicitando minha intercessão para a proteção divina. A partir daquele momento, o menino melhorou consideravelmente. Contudo, ainda apreensiva, a mãe, amparando-se no chefe de Igreja, veio ao meu encontro, trazendo a criança, para suplicar por orientação.
-
-Minha resposta foi a seguinte: uma enfermidade como a pneumonia não deveria se prolongar por tanto tempo. Há, indubitavelmente, algum equívoco. As causas são duas. Uma delas, embora também represente um grande erro, é de natureza pessoal, razão pela qual a manterei em sigilo. A outra, contudo, é de maior gravidade, e fiz questão de expô-la em detalhes para que o chefe de Igreja também a ouvisse.
-
-Sendo os pais da criança membros há um ou dois anos, a pneumonia do filho deveria ter sido tratada por meio do Johrei ministrado por eles mesmos. Com isso, a cura teria sido alcançada. Contrariar esse princípio, abstendo-se de ministrar Johrei e, em vez disso, importunar o chefe de unidade, é uma atitude desprovida de lógica. O chefe de unidade, por sua vez, também incorreu em grave erro ao se deslocar repetidamente para ministrar Johrei. Assim, ambos estão completamente equivocados. A função primordial de um dirigente de unidade consiste em pioneirar a difusão junto aos não membros. Aqueles que já são fiéis, uma vez que receberam de Deus a permissão para curar, devem ser os responsáveis por ministrar Johrei aos seus familiares. Recorrer a ele para tal finalidade significa obstruir suas atividades. Ademais, era dever do dirigente orientá-los nesse sentido. O fato de não ter percebido isso revela uma notável falta de discernimento. Evidentemente, em casos excepcionais, pode-se solicitar a permissão de Deus para ministrar Johrei por um breve período, mas nada além disso.
-
-Em suma, por terem agido de maneira ilógica, não puderam receber a graça divina. Portanto, é imperativo que chefes de Igreja, dirigentes de unidade, instrutores e demais responsáveis compreendam plenamente suas respectivas posições e atribuições, a fim de evitar ações desprovidas de racionalidade. Para tanto, é essencial a leitura assídua dos Ensinamentos Divinos, pois, ao aprimorar a sabedoria e a percepção espiritual, torna-se possível discernir a atitude correta em qualquer circunstância.
-
-Nesse sentido, não se deve esquecer a distinção entre o Mahayana, o Grande Veículo, e o Hinayana, o Pequeno Veículo. A expansão da Obra Divina deve ser sempre a prioridade máxima, relegando-se os assuntos pessoais a um plano secundário. Agindo dessa forma, tudo transcorrerá em harmonia. Em outras palavras, ao considerar o bem do todo e agir com lógica, é possível receber graças ilimitadas. Por outro lado, se as ações interferem, ainda que minimamente, no andamento da Obra Divina, é natural que os resultados não sejam os esperados. Afinal, estamos empenhados na grandiosa tarefa de salvar toda a humanidade, e Deus tem extrema urgência em sua realização. É fundamental, portanto, refletir profundamente sobre esse ponto.
-
----
-
-# Vinte Anos de Dívidas
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年7月15日 | **Fonte:** Eikou
-**Título Original:** 借金二十年 | **Status:** Published | **Edição/Página:** 217号 | **Data ISO:** 1953-07-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## Vinte Anos de Dívidas
-
-Padeci com dívidas por mais de vinte anos, do oitavo ano da Era Taisho ao décimo sexto da Era Showa. Ou melhor, fui atormentado por elas. Jamais me esquecerei do que ocorreu no oitavo ano da Era Taisho, quando eu tinha trinta e oito anos. Os preparativos para meu casamento com minha atual esposa haviam sido concluídos e, logo após a escolha de uma data auspiciosa, fui surpreendido pela visita intempestiva de três indivíduos de uma categoria que eu jamais vira: oficiais de justiça. Eles me apresentaram uma estranha notificação para que eu a lesse, mas, como nunca havia passado por tal experiência, tudo o que pude fazer foi encará-los com os olhos arregalados. Enquanto eu permanecia atônito, eles inspecionaram cada cômodo e começaram a afixar pequenos selos de papel nos móveis e utensílios de maior valor. Em seguida, pediram que eu lesse um documento, do tamanho de meia folha de papel, que detalhava os motivos da penhora, afixaram-no na lateral de uma cômoda e se retiraram. Ao examiná-lo, vi diversos artigos legais, mas um deles me chocou profundamente: a advertência de que os bens penhorados não poderiam ser movidos e que a violação dos selos acarretaria uma punição prevista em determinado artigo do Código Penal.
-
-O problema, contudo, era que um desses selos fora colado de modo a prender uma das gavetas da cômoda, unindo-a à sua divisória. O objetivo era, obviamente, impedir sua abertura, mas isso me colocava em um impasse, pois eu precisava ter acesso às roupas guardadas ali. Após diversas tentativas, consegui descolá-lo cuidadosamente de um dos lados, o suficiente para abrir a gaveta. Só então pude respirar aliviado. A razão pela qual me vi em tal situação foi a seguinte: como já escrevi anteriormente, obtive grande sucesso como proprietário de uma loja de armarinhos. A partir do nada, acumulei um patrimônio de mais de cem mil ienes, o que me tornou deveras presunçoso. Acariciava o antigo desejo de ingressar no ramo jornalístico e, após investigar o assunto, descobri que seria necessário um capital de um milhão de ienes. Determinado a levantar essa quantia, envolvi-me em diversos empreendimentos. Foi nesse período que travei conhecimento com um indivíduo de nome Yoshikawa, um homem astuto e calejado pelas experiências da vida. Naquela época, eu era alvo da inveja de meus concorrentes e, por isso, passei a encarar o mundo com excessiva ingenuidade. Influenciado por Yoshikawa, em meio à efervescência da bolsa de valores que se seguiu à Primeira Guerra Mundial, iniciei um negócio de financiamento para corretores da bolsa. Graças à minha reputação, eu conseguia obter empréstimos bancários com cheques pré-datados, que por sua vez eram repassados a tomadores mediante uma taxa de juros diária de cinco centavos. Era um lucro irresistível, obtido sem a necessidade de investir um único centavo de meu próprio bolso. Com o tempo, minhas transações, somando dinheiro e cheques, chegaram a mais de cem mil ienes. No entanto, o banco que intermediava essas operações, o Soko Ginko, faliu repentinamente. Yoshikawa ocultou-me esse fato e descontou os cheques com agiotas, o que resultou em uma situação insustentável, com os juros se acumulando vertiginosamente. Finalmente, ele confessou tudo, prostrando-se diante de mim. Para mim, foi como um raio em céu azul. Como medida de emergência, não tive escolha senão solicitar ao banco que recusasse o pagamento de todos os cheques, o que enfureceu os agiotas. Eles prontamente tomaram as medidas de penhora já mencionadas e, ademais, moveram uma ação judicial contra mim por estelionato. Fui intimado a comparecer à promotoria, onde passei por um interrogatório rigoroso. Por fim, após suplicar a vários dos agiotas, consegui firmar um acordo para quitar a dívida por oitenta mil ienes – aproximadamente dois terços do valor total –, pagando metade à vista e o restante em parcelas mensais. A partir daí, teve início meu longo sofrimento para honrar esse compromisso.
-
-Em virtude desse incidente, o casamento que havíamos combinado tornou-se inviável. Decidi, então, expor toda a verdade à família de minha noiva. Sua reação, no entanto, foi surpreendente: em vez de reprovarem a situação, elogiaram minha honestidade por revelar um assunto que, normalmente, seria mantido em segredo, e insistiram na realização do matrimônio. Lembro-me até hoje de ter pensado em como o mundo pode ser curioso. Esse duro golpe impôs severas restrições ao meu negócio. Embora a transformação da loja em uma sociedade anônima tenha trazido um alívio temporário, fui atingido por uma segunda catástrofe: o pânico financeiro de março do ano seguinte, o nono da Era Taisho. A essa calamidade, somou-se o Grande Terremoto de Kanto, em primeiro de setembro do décimo segundo ano da Era Taisho. Minha loja em Kyobashi e todo o estoque foram consumidos pelo fogo, e todos os meus créditos se tornaram irrecuperáveis. Por um momento, pensei que seria o fim, mas, de alguma forma, consegui manter o negócio em funcionamento. Diante de tantos reveses, desenvolvi uma profunda aversão ao ato de ganhar dinheiro e passei a buscar na religião um caminho para a vida. Explorei diversas fés, mas nenhuma me pareceu ser o que eu buscava, até encontrar a Oomoto-kyo, que cativou meu coração e à qual aderi sem demora. Os acontecimentos que se seguiram já foram por mim relatados em outra ocasião, portanto, me concentrarei aqui apenas na questão da dívida. Com minha decisão de abandonar a busca por lucros, a quitação tornou-se impossível. Consequentemente, os agiotas voltaram a aparecer, um após o outro, para executar novas penhoras. As gratidões que eu recebia pela cura de doenças por meio da fé eram modestas; assim, adotei um estilo de vida extremamente austero e perseverei com o mínimo necessário. Embora eu conseguisse fazer pagamentos parciais, o progresso era muito mais lento do que eu desejava. Felizmente, com o tempo, minhas atividades prosperaram e meus rendimentos aumentaram consideravelmente, permitindo-me, enfim, saldar a totalidade de minhas dívidas no décimo sexto ano da Era Showa. Ao todo, foram exatos vinte e dois anos de tormento. Senti como se um pesado fardo tivesse sido subitamente retirado de minhas costas, e uma imensa sensação de alívio tomou conta de mim.
-
-É fundamental ressaltar que, enquanto estive endividado, minha mente estava completamente dominada pelo desejo incessante de obter dinheiro, dia e noite. Contudo, à medida que minha fé se aprofundava, compreendi que o dinheiro é algo concedido por Deus. Com a dívida integralmente paga, meu espírito se tornou sereno. Ironicamente, foi a partir desse momento que uma quantia inimaginável de dinheiro começou a afluir para mim, aumentando ano após ano. Isso me levou a uma profunda reflexão: o dinheiro, essa entidade peculiar, não se aproxima enquanto o desejamos ardentemente; ele surge quando já nos esquecemos dele. Esta é a filosofia sobre as dívidas que extraí de mais de duas décadas de experiência. Sei que pode parecer estranho um líder religioso escrever sobre tais assuntos, mas decidi fazê-lo por acreditar que esta vivência possa servir de referência para alguém.
-
-(Nota)
-Ice: Gíria para agiota. A palavra é um trocadilho com "ice cream" (sorvete), pois o termo japonês para agiota, "kourigashi" (高利貸), tem sonoridade semelhante à palavra para "doce gelado", "kourigashi" (氷菓子).
-
----
-
-# O Sublime Significado do Paraíso Terrestre de Shinsenkyo
-
-**Categoria:** shi | **Ano:** 昭和28(1953)年7月8日 | **Fonte:** Eikou
-**Título Original:** 神仙郷地上天国の大いなる意義 | **Status:** Published | **Edição/Página:** 216号 | **Data ISO:** 1953-07-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
-
-## O Sublime Significado do Paraíso Terrestre de Shinsenkyo
-
-Finalmente, foi concluído o tão esperado protótipo do Paraíso Terrestre de Shinsenkyo, nas montanhas de Kanrei. Escusado será dizer que este Jardim Divino é uma obra de arte como, creio eu, jamais existiu, não apenas no Japão, mas em qualquer outra nação. A forma magistral como se utilizou uma profusão de rochas e pedras de beleza singular em uma montanha de tamanha altitude; o modo como, entre suas fendas, foram dispostas inúmeras árvores, flores e plantas alpinas; e os riachos que serpenteiam por toda parte, cujo som murmurante nos envolve em um sentimento idílico de profunda apreciação pela natureza... todo esse panorama leva-nos a sentir que nos apartamos das impurezas do mundo para passear no Paraíso. É o que, em uníssono, exaltam todos os que o visitam. Como se não bastasse, tal qual uma flor a adornar o brocado, um resplandecente Templo da Beleza também se faz presente, complementando o conjunto. Assim, considero que esta obra, que harmoniza a beleza natural e a beleza artificial, é uma peça de arte da qual podemos nos orgulhar.
-
-Contudo, a impressão que descrevi até aqui corresponde a uma análise sob a ótica humana. Quando o observamos sob uma perspectiva espiritual, revela-se um significado de uma magnitude inimaginável. Explicarei agora em detalhe, e, ao compreenderem, certamente perceberão quão profundo, sutil e insondável é o Plano Divino, uma grandiosidade que transcende por completo o intelecto humano. Como sempre afirmo, o Plano de Deus, em sua essência, é um mistério sublime: inicia-se em uma escala diminuta para, gradualmente, expandir-se até abranger o mundo inteiro. Este princípio aplica-se igualmente ao plano material. Quando o ser humano almeja construir algo grandioso, primeiro elabora um protótipo para depois dar início à obra principal. Portanto, basta pensarmos que este Paraíso Terrestre de Shinsenkyo, agora concluído, prefigura o futuro Paraíso Terrestre de âmbito mundial. A esse respeito, abordarei o profundo significado por trás da escolha das montanhas de Hakone.
-
-Sob um prisma espiritual, o centro do mundo é o Japão, e o Monte Fuji é o grande pilar central da Terra. Observem sua forma: uma silhueta de beleza sublime, sem paralelo no mundo. Desde tempos imemoriais, é reverenciado como Montanha Divina ou Pico Espiritual, sendo considerado pelos estrangeiros o próprio símbolo do Japão. Eis aí um significado profundo que se oculta. O futuro desta nação é tornar-se o centro do Paraíso Terrestre, algo já determinado por Deus no momento da Criação. Contemplem a beleza de suas montanhas e rios, a imensa variedade de sua flora, as paisagens de cada uma das quatro estações que se revelam com as mudanças do clima. Suas abundantes bênçãos celestiais já lhe conferem uma beleza paradisíaca, o que torna perfeitamente compreensível que, na antiguidade, o imperador Qin Shi Huang da China se referisse a estas terras como a lendária ilha de Hōrai, no Oriente. Ademais, que a sensibilidade estética do nosso povo seja particularmente apurada é um fato reconhecido até mesmo pelos estrangeiros, a ponto de nenhuma outra nação do mundo poder se equiparar. É igualmente um mistério que, desde eras remotas, obras de arte de todos os países tenham sido reunidas e preservadas no Japão. Por conseguinte, este país de inúmeras venturas já possui, por desígnio Divino, os elementos constitutivos do Paraíso. É por essa razão que sempre afirmo que o Japão é o parque e o museu do mundo.
-
-Se partirmos do princípio de que todo o território japonês é o parque e o centro do mundo, então o parque do Japão seria Hakone. Sua localização no centro geográfico do país, sendo o marco que separa a região leste, Kanto, da região oeste, Kansai, torna este fato evidente. No âmbito cultural, tampouco há outra nação que tenha assimilado tão completamente as culturas oriental e ocidental; e é justamente o Japão que detém a missão de harmonizá-las para dar origem a uma cultura de paz ideal. Soube recentemente que alguns intelectuais nos Estados Unidos começaram a defender essa mesma tese, o que me parece natural. Dessa forma, Hakone é o centro do Japão. Seu ponto central, por sua vez, é Gora, e de lá, avistando-se ao fundo o Monte Sounzan, ergue-se imponente o Monte Kamiyama. Sendo o pico mais elevado da cordilheira de Hakone, ele representa o verdadeiro centro. É desnecessário dizer, portanto, que esta montanha constitui o ponto de bifurcação entre o leste e o oeste do Japão. Isso é, de fato, um grande mistério, e creio que o nome Kamiyama (神山), ou "Montanha Divina", é deveras apropriado.
-
-Sendo assim, a rigor, o Paraíso Terrestre deveria ser construído sobre o Monte Kamiyama, mas, por ser impossível, escolhemos este local. A primeira residência que tive ao chegar a Gora, denominei-a Shinzanso (神山荘), como uma representação do Monte Kamiyama. Já o local onde hoje se encontra o Templo Nikko, chamei-o na época de Sounryo (早雲寮), em alusão ao Monte Sounzan. Outro fato interessante é que a Companhia de Trem de Hakone, que originalmente desenvolveu a área de Gora, criou este terreno de Shinsenkyo sob o nome de "Parque do Japão". E o nível inferior, o atual Parque de Gora, foi projetado em estilo ocidental, o que encerra em si um mistério. Ao analisarmos essa sequência, compreendemos que, se o Japão é o parque do mundo e Hakone é o parque do Japão, Gora é o parque de Hakone. E sendo Shinsenkyo o centro de Gora, conclui-se que Shinsenkyo é o verdadeiro centro do mundo.
-
-Sob essa ótica, a conclusão do Paraíso Terrestre de Shinsenkyo significa que o Paraíso Terrestre finalmente nasceu no centro do mundo. Trata-se, em suma, do nascimento do Paraíso Terrestre, o que o torna o maior e mais auspicioso evento desde a aurora dos tempos, um dia de magna celebração mundial por toda a eternidade. Por essa razão, o dia 15 de junho se tornará, no futuro, a data de comemoração do nascimento do Paraíso Terrestre. E neste momento, desejo fazer um anúncio de suma importância. A partir de hoje, a atividade no Mundo Espiritual será impulsionada. Tendo este local como epicentro, um grande redemoinho, sob o ritmo em que o espiritual avança e o material retrocede, irá gradualmente se expandir pelo mundo, trazendo consigo uma transformação sem precedentes. Eis, em verdade, a Reconstrução do Mundo.
-
----
-
-# A Fé é Credibilidade
-
-**Categoria:** shi | **Ano:** 昭和24(1949)年6月18日 | **Fonte:** -
-**Título Original:** 信仰は信用なり | **Status:** Published | **Edição/Página:** 13号 | **Data ISO:** 1949-06-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
-
-## A Fé é Credibilidade
-*Publicado na revista Hikari n.º 13, em 18 de junho de 1949*
-
-Embora existam inúmeros religiosos no mundo, os verdadeiros fiéis são, de fato, uma ínfima minoria. Sendo assim, discorrerei sobre o que caracteriza uma pessoa de fé autêntica.
-
-Por mais que alguém se considere um fiel exemplar, sua autopercepção, por si só, não tem valor algum. A autenticidade de sua fé só pode ser confirmada por uma avaliação objetiva. Portanto, o primeiro passo para se tornar um verdadeiro fiel é compreender como alcançar tal condição. O princípio para tanto é simples: conquistar a confiança das pessoas. É ser alguém de quem se diz: “A palavra dele é inquestionável”; “Na sua companhia, jamais ocorrerá algo de mau”; “Ele é uma pessoa admirável”.
-
-Ora, como é possível obter tamanha credibilidade? A resposta, novamente, é descomplicada. Consiste, primordialmente, em jamais proferir inverdades e em priorizar o bem-estar alheio em detrimento do próprio interesse. Se as pessoas ao redor expressam sentimentos como: “Graças a ele, fui salvo”; “Estando a seu lado, jamais saímos perdendo”; “É uma pessoa genuinamente gentil”; “Sempre me sinto bem ao encontrá-lo”, indubitavelmente, qualquer um nutrirá afeição e reverência por tal indivíduo. Basta uma breve reflexão sobre nós mesmos para que isso se torne evidente: ao conhecer alguém com tais qualidades, é natural o desejo de estreitar os laços, de poder confiar-lhe qualquer assunto e, com o tempo, desenvolver uma amizade de profunda sinceridade.
-
-Contudo, há mais um ponto a ser ressaltado: essa conduta não pode ser passageira. Deve assemelhar-se ao arroz branco, que, embora pareça insípido a princípio, revela um sabor cada vez mais profundo à medida que é mastigado. Assim como o ser humano não pode viver um dia sequer sem o arroz, costumo dizer que todos nós devemos nos tornar pessoas com a natureza do arroz.
-
-No entanto, ao observarmos o mundo, constatamos que é excessivo o número de pessoas que agem de modo diametralmente oposto. Cometem, com indiferença, atos que minam a própria credibilidade, proferindo mentiras frágeis, que logo são desmascaradas. Uma vez dita uma inverdade, por melhores que sejam todas as outras atitudes, a confiança se desfaz por completo. Isso é o cúmulo da insensatez. Existem indivíduos que, por mais que trabalhem arduamente e se esforcem, jamais prosperam. Ao investigarmos a causa, descobrimos invariavelmente que é por faltarem com a verdade e, assim, perderem a confiança alheia. Para esta regra, não há exceções. A credibilidade é, em si, um patrimônio. Quem a possui jamais passará por dificuldades financeiras, pois todos, de bom grado, lhe estenderão auxílio.
-
-Tudo o que foi exposto até aqui diz respeito à confiança no âmbito das relações humanas. Todavia, existe um patamar ainda mais elevado: ser digno da confiança de Deus. Este é o bem mais sublime, pois, uma vez que se obtenha a confiança Divina, tudo na vida fluirá harmoniosamente, permitindo uma existência plena de júbilo.
 
 ---
 

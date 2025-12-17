@@ -1,10 +1,345 @@
 # Mioshie_Teachings - Part 47
 
+# As Múltiplas Facetas das Doenças de Causa Espiritual
+
+**Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 霊的病気の種々相 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
+
+## As Múltiplas Facetas das Doenças de Causa Espiritual
+
+As enfermidades de origem espiritual apresentam-se, na verdade, sob as mais diversas e incontáveis formas. Permitam-me descrever um ou dois casos particularmente singulares.
+
+O primeiro é o de um homem de aproximadamente quarenta anos que, uma ou duas vezes ao dia, era acometido por uma rigidez súbita e generalizada. Seu corpo tornava-se imóvel como uma estátua de pedra, sem que pudesse mover qualquer de seus membros; os olhos e a boca permaneciam abertos, e essa condição se estendia por várias dezenas de minutos. Trata-se, evidentemente, da possessão por um espírito de morto, manifestando o exato instante de sua passagem. A causa provável seria um suicídio por envenenamento, possivelmente com uma substância à base de arsênico.
+
+Outro caso notável é o de um jovem de quinze ou dezesseis anos que, há alguns anos, foi acometido por febre e convulsões, as quais provocaram uma drástica alteração em sua fisionomia. Seu rosto adquiriu o semblante de um ancião de sessenta ou setenta anos, com uma expressão de agonia tão atroz que se torna intolerável ao olhar. Por essa razão, o paciente não apenas evita sair de casa, como também se recusa a encontrar pessoas. Este também parece ser o reflexo do instante da morte de um idoso que teria agonizado intensamente. Há ainda o caso de uma criança de dez anos, cuja condição é congênita. Seu corpo se mantém em uma posição cruzada, como se tivesse mãos e pés atados, e seu semblante revela um sofrimento indizível. Presume-se que seja a manifestação de alguém que teve uma morte trágica nessas mesmas circunstâncias.
+
+Gostaria de tecer agora um breve comentário sobre os espíritos vivos, pois, além da possessão por espíritos de mortos, existe também a por espíritos de pessoas vivas. Na maioria das vezes, a causa reside nos relacionamentos afetivos, podendo manifestar-se de duas naturezas: benéfica ou maléfica.
+
+No que tange à manifestação benéfica, esta se origina do amor puro. Quando um homem ama uma mulher, por exemplo, e seu espírito vivo a influencia, ela experimenta uma singular sensação de prazer, pois o sentimento é correspondido. Contudo, se ela não o ama, a influência do espírito vivo desse amor unilateral provocará, ao contrário, uma sensação de profundo desconforto. Eis a diferença entre o amor correspondido e o unilateral. No primeiro caso, os pensamentos de amor fluem reciprocamente através de um laço espiritual, tornando o anseio irrefreável e a angústia da separação, insuportável. Em decorrência disso, os envolvidos podem chegar a perder a razão, culminando em fugas ou até mesmo em suicídios por amor. Nessas circunstâncias, qualquer conselho ou advertência produzirá um efeito contrário, com o risco de ocasionar uma tragédia irreparável. Portanto, o mais sensato é não interferir. Afinal, essa comunicação espiritual é efêmera e jamais perdura, o que confirma a veracidade do dito popular de que o amor é como uma febre ardente. Já no amor unilateral, o espírito vivo da pessoa rejeitada passa a influenciar a outra, que passa a sentir exatamente o que aquela sente: solidão, desânimo e uma melancolia insuportável.
+
+Quanto às manifestações maléficas, os casos mais frequentes envolvem o conflito espiritual entre a esposa legítima e a amante. Ocorrem situações em que uma amaldiçoa a outra, ou em que ambas se amaldiçoam mutuamente, estabelecendo um verdadeiro inferno de hostilidades. Como resultado dessas maldições, a pessoa atingida pode desenvolver uma doença caracterizada por um estado de apatia e prostração, que a medicina convencional é, obviamente, incapaz de diagnosticar. Em casos graves, a condição pode evoluir e até mesmo ceifar a vida da pessoa. Ademais, quando um espírito nessas condições parte para o Mundo Espiritual, não raro busca vingança e consegue vitimar a rival que permaneceu na Terra. Embora se trate de questões espirituais e invisíveis, o pecado de um homem que se desvia do caminho matrimonial e mantém uma amante, chegando a sacrificar a vida de uma mulher, não é de modo algum leve. É uma conduta da qual se deve abster com o máximo rigor.
+
+Cumpre ressaltar, por fim, que a possessão por espíritos de mortos geralmente provoca calafrios, ao passo que a influência de espíritos vivos, ao contrário, gera uma sensação de calor.
+
+---
+
+# A Origem Espiritual das Doenças
+
+**Categoria:** re | **Ano:** 昭和26(1951)年8月15日 | **Fonte:** 結核の革命的療法
+**Título Original:** 霊主体従 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-08-15
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核の革命的療法
+
+## A Origem Espiritual das Doenças
+
+Passarei a discorrer sobre a relação entre o que se poderia chamar de mundo inorgânico e as doenças humanas, sendo que, em nossa terminologia, tal mundo corresponde ao Mundo Espiritual. O ser humano constitui-se da união indissociável entre corpo e espírito. O corpo, como é sabido por todos, é a matéria visível aos olhos. O espírito, embora invisível, é uma substância real, semelhante a uma espécie de éter. Assim como o corpo físico existe imerso no mundo material, o espírito humano habita, por natureza, o Mundo Espiritual.
+
+Conforme mencionado, o Mundo Espiritual é uma dimensão transparente e mais rarefeita que o ar, aparentando ser um vácuo. Na realidade, está longe de ser um nada; é, de fato, a fonte geradora de uma força absoluta e infinita, um universo de um mistério e sutileza inconcebíveis, cuja essência provém da fusão das energias solar, lunar e telúrica. Provisoriamente, chamemos essa força de Força Cósmica. É por meio dela que todas as coisas são geradas e se desenvolvem. No entanto, esse mesmo processo de criação gera impurezas, as quais necessitam de uma ação purificadora, de modo análogo ao corpo físico que acumula sujeira e requer um banho para se limpar. Nesse sentido, quando as impurezas se acumulam no plano espiritual correspondente à Terra, elas se concentram em pontos específicos, dando origem a um fenômeno purificador que conhecemos como baixa pressão atmosférica. Os raios, os relâmpagos e os incêndios são manifestações dessa mesma purificação. Naturalmente, o ser humano segue uma lógica idêntica: o acúmulo de impurezas em seu ser desencadeia uma ação purificadora, tendo o espírito como elemento principal. Detalhemos, pois, esse mecanismo.
+
+As impurezas acumuladas no espírito humano, denominadas máculas, manifestam-se como opacidades em sua substância, que é originalmente transparente. Existem duas origens para tais máculas: uma, que se forma no próprio espírito, e outra, que é transferida a partir do corpo.
+
+Analisemos a primeira. O âmago do espírito humano possui uma estrutura tríplice e concêntrica. Descrevendo-a do centro para a periferia, temos primeiramente a alma. A alma é a centelha primordial que, por intermédio do homem, aloja-se no ventre da mulher no momento da concepção. Envolvendo a alma encontra-se o coração e, por sua vez, envolvendo o coração, está o espírito. Desse modo, a condição da alma reflete-se, através do coração, no espírito, assim como a condição do espírito se reflete, através do coração, na alma. Trata-se, portanto, de uma unidade trina e interdependente. É inegável que todo ser humano, ao longo da vida, pratica tanto o bem quanto o mal. Quando os atos malignos superam os benignos, a diferença resultante converte-se em pecado, maculando a alma. Essa mácula, então, se estende sequencialmente ao coração e ao espírito. Diante disso, o processo de purificação é acionado para eliminar a impureza. Nesse processo, o volume da mácula primeiramente se contrai, tornando-a mais densa, para então se concentrar em um ponto específico do corpo físico. O curioso é que o local dessa condensação varia conforme a natureza do pecado: os pecados relacionados aos olhos manifestam-se nos olhos; os da cabeça, na cabeça; os do peito, no peito, e assim sucessivamente.
+
+Examinemos agora a segunda origem, que opera de modo inverso à primeira: a transferência do corpo para o espírito. Nesse caso, a impureza surge inicialmente no sangue, e essa condição se reflete diretamente no espírito como uma mácula. Em sua origem, o corpo é a materialização do espírito, manifestada como sangue, enquanto o espírito é a espiritualização do sangue; em essência, são uma unidade. Portanto, quando a mácula espiritual condensada se projeta no corpo, ela se manifesta como sangue impuro. Uma condensação ainda maior desse sangue resulta em solidificações. A doença, com todo o sofrimento que a acompanha, nada mais é do que o processo pelo qual essas solidificações se dissolvem, transformam-se em líquido e são expelidas do corpo por diversas vias.
+
+A transferência de impurezas do corpo, como vimos, origina-se do sangue impuro. Mas qual a causa dessa impureza? A resposta é verdadeiramente inesperada: reside naquilo que ocupa o trono da prática terapêutica, ou seja, os próprios medicamentos. Toda e qualquer substância medicinal é, em sua essência, uma toxina. Sendo assim, a ingestão de fármacos inevitavelmente gera sangue impuro, um fato que a própria realidade comprova. O prolongamento das doenças, seu agravamento ou o surgimento de novas enfermidades em pacientes sob tratamento médico não são, portanto, um mistério.
+
+Se o sangue impuro do corpo se reflete no espírito como máculas que, por sua vez, dão origem às doenças, conclui-se que o próprio método destinado a curar é, na verdade, um método para criar enfermidades. Contudo, a Lei que rege o Universo é a do espírito como principal e do corpo como secundário. Logo, é evidente que, enquanto as máculas do espírito não forem dissipadas, a cura plena é inatingível. Nossa arte de curar baseia-se precisamente na aplicação desse princípio. Ao purificarmos o espírito, a doença é curada em sua raiz. Daí o nome Johrei, que significa "purificação do espírito". A medicina convencional, por desconhecer tal princípio, ignora o espírito e concentra-se em tratar unicamente o corpo. Por mais que se proclame avançada, seus resultados não passam de alívios temporários. A observação dos fatos o demonstra claramente: os tratamentos médicos não logram a cura radical, e a reincidência é a norma. No caso da apendicite, por exemplo, a extração cirúrgica do órgão impede, obviamente, a repetição da doença. Todavia, torna-se comum o surgimento de peritonite ou de doenças renais nas áreas adjacentes. Isso acontece porque a mácula espiritual, a causa primária, permanece intacta. Consequentemente, novo sangue impuro é gerado e se acumula em um local diferente.
+
+Vejamos agora a transformação do sangue impuro. Submetido a um processo de purificação constante, o sangue impuro torna-se mais denso, e suas partículas assumem gradualmente uma coloração esbranquiçada. Eis a origem do pus. O que se conhece como "pus sanguinolento", uma mistura de pus e sangue, representa um estágio intermediário dessa transformação. Com o avanço do processo, a conversão em pus é completa. Isso elucida por que o escarro dos pacientes com tuberculose ora se apresenta com vestígios de sangue, ora não. O que a medicina descreve como glóbulos vermelhos e glóbulos brancos, e sua suposta ação de fagocitose, está intrinsecamente ligado a esse mesmo fenômeno.
+
+Com o exposto, creio que a relação entre o espírito e o corpo se tornou clara. Passemos, então, a abordar a origem dos micróbios.
+
+---
+
+# Diversos Aspectos das Enfermidades de Origem Espiritual
+
+**Categoria:** re | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
+**Título Original:** 霊的病気の種々相 ・病気と霊九 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
+
+## Diversos Aspectos das Enfermidades de Origem Espiritual
+
+As principais enfermidades de origem espiritual já foram por mim elucidadas, contudo, existem inúmeras outras variações além das que foram apresentadas.
+
+Com base em minha vasta experiência, posso afirmar que a possessão por espíritos de mortos raramente acomete adultos e indivíduos saudáveis. Por conseguinte, o fenômeno se restringe a crianças e pessoas debilitadas, o que torna a situação particularmente deplorável. O caso mais temível ocorre quando uma criança, em estado de debilidade, passa a manifestar um sintoma em que vomita absolutamente tudo o que ingere, independentemente do alimento. Essa condição é um sinal inequívoco da possessão por um espírito de morto, e sua cura é extremamente difícil, levando a maioria dos enfermos ao óbito. É digno de nota que, em muitos desses casos, o dia em que os sintomas se iniciam, ou mesmo o dia do falecimento, coincide precisamente com o aniversário de morte de um de seus antepassados. Tal fato nos leva a deduzir que o espírito possessor é, muito provavelmente, o do próprio ancestral.
+
+A seguir, descreverei dois ou três casos raros de enfermidades causadas por possessão espiritual.
+
+O primeiro refere-se a um homem de aproximadamente quarenta anos que, uma ou duas vezes ao dia, era acometido por uma súbita e total rigidez corporal. Nesses momentos, ele se assemelhava a uma estátua de pedra, com cada parte de seu corpo completamente imóvel, mantendo os olhos e a boca abertos e fixos. Essa é, igualmente, a manifestação do instante da morte do espírito que o possui.
+
+O segundo caso é o de um jovem de quinze ou dezesseis anos que, por volta dos doze anos, foi subitamente acometido por febre e convulsões, as quais resultaram em uma drástica alteração de sua fisionomia. Seu rosto adquiriu a aparência do de um idoso de sessenta ou setenta anos, com uma expressão de agonia tão terrível que se tornava insuportável fitá-lo. Por essa razão, o paciente evitava não apenas sair de casa, mas o simples contato visual com outras pessoas. Trata-se, evidentemente, da cristalização da fisionomia de um ancião em seu estertor, no exato instante de sua agonia.
+
+O terceiro exemplo é o de uma criança de aproximadamente dez anos, que apresentava uma condição congênita. Seu corpo permanecia constantemente em uma postura que simulava ter os pés e as mãos amarrados, e seu semblante exibia uma expressão de sofrimento intolerável. Acredito que tal quadro seja o reflexo de um espírito que teve uma morte trágica enquanto se encontrava imobilizado dessa maneira.
+
+Os casos que acabo de relatar são todos exemplos de possessão por espíritos de mortos. Todavia, existe também o fenômeno da possessão por espíritos de pessoas vivas. Embora estes possam causar consideráveis infortúnios, eles não costumam manifestar sintomas de doenças tão evidentes, razão pela qual não vejo necessidade de me aprofundar no assunto neste momento.
+
+---
+
+# A Causa Espiritual do Grande Incêndio de Atami
+
+**Categoria:** re | **Ano:** 昭和25(1950)年4月22日 | **Fonte:** Kyusei
+**Título Original:** 霊的に観たる熱海の大火 | **Status:** Published | **Edição/Página:** 59号 | **Data ISO:** 1950-04-22
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
+
+## A Causa Espiritual do Grande Incêndio de Atami
+
+Atami foi recentemente assolada por dois grandes incêndios. O primeiro, ocorrido em 3 de abril, consumiu dezenas de imóveis desde a estação até a galeria comercial. Antes que o sobressalto se dissipasse, apenas dez dias depois, em 13 de abril, um segundo incêndio, de proporções inéditas, aniquilou por completo o próspero centro da cidade. De uma só vez, mais de mil e seiscentas residências foram incineradas, resultando em perdas que ascendem a três bilhões de ienes. O golpe sofrido pela pequena cidade de Atami é de uma magnitude que desafia a imaginação, e o prejuízo para as vítimas é algo que nos causa profunda compaixão. A causa apontada foi a negligência do assistente de um motorista, o que, sem dúvida, constitui uma desatenção. Contudo, como homens de fé, cremos ser nosso dever examinar as raízes espirituais deste acontecimento, e é sobre isso que discorrerei.
+
+Há muito vínhamos alertando para a possibilidade de uma grande purificação em Atami. Tal receio tornava-se inevitável ao se analisar profundamente a realidade da cidade. É preciso refletir sobre o papel que a estância termal de Atami tem desempenhado continuamente. Esta localidade, abençoada com paisagens deslumbrantes, fontes termais abundantes, clima ameno e fácil acesso, é um recanto privilegiado, sem par em todo o Japão. Foi, inequivocamente, criada por Deus para proporcionar alívio e bem-estar ao ser humano. Portanto, o homem deveria reverenciar essa imensa graça divina, visitando o local periodicamente para lavar o coração e purificar a alma. No entanto, os que não reconhecem a existência de Deus, em sua total indiferença, utilizaram este lugar sagrado com o único propósito do lucro desmedido, maculando-o ao extremo.
+
+Isso se torna evidente ao observarmos os fatos. Como é de conhecimento geral, Atami possui inúmeros hotéis e pousadas, cujos hóspedes se dividem entre casais em lua de mel, simples turistas e aqueles que ali se encontram para encontros clandestinos de relações ilícitas. A maioria das inúmeras casas de veraneio, por exemplo, serve como morada para amantes, o que, naturalmente, faz com que os pensamentos de ciúme e ressentimento das esposas legítimas obscureçam constantemente o Mundo Espiritual de Atami. Acrescente-se a isso a mácula deixada por um número não desprezível de prostitutas. Quando ponderamos sobre o que foi exposto, concluímos que o dinheiro que circula nesta cidade provém muito mais de fontes impuras do que puras. Consequentemente, tudo o que foi construído materialmente com esses recursos estava fadado a, um dia, receber o batismo de fogo. Para aqueles que compreendem o Mundo Espiritual, esta lógica é clara; para os ateus que não creem em sua existência, contudo, é de difícil compreensão, o que é lamentável, porém inevitável.
+
+Diante do recente desastre, tanto as autoridades municipais quanto o governo nacional, cientes do futuro de Atami como cidade turística internacional, estão elaborando apressadamente um plano para sua reconstrução como uma cidade ideal, à prova de fogo. Esta é, sem dúvida, uma iniciativa excelente, pela qual nutrimos grandes expectativas. Todavia, é preciso lembrar que esta é apenas a faceta material da questão. O aspecto espiritual, que tanto preconizamos, não pode ser negligenciado.
+
+E como proceder? É fundamental que se reconheça a missão original de Atami, conforme mencionado, e que se envidem todos os esforços para não mais maculá-la. A Atami conspurcada do passado deve ser renovada, transformando-se em uma Atami de pureza e santidade.
+
+A construção do Paraíso Terrestre que nossa Igreja realiza no local mais belo de Atami, bem como o projeto de um futuro grande parque, não têm outro propósito senão este. É de se lamentar que, possuindo uma terra tão pródiga em belezas naturais, tenha-se esquecido sua verdadeira vocação, permitindo que se degenerasse em um destino turístico de baixo nível. Isso representa, na verdade, um imenso fracasso. Talvez isso se deva ao fato de os cidadãos, apegados a interesses imediatistas e de visão curta, não terem dispensado a devida consideração a um projeto de nação mais amplo e duradouro. Nesse sentido, o desastre atual deve servir como um catalisador para uma profunda autorreflexão, a partir da qual se deve estabelecer um grande plano para os próximos cem anos da nação. Esse plano consiste em fazer de Atami uma cidade grandiosa, digna de sua condição de destino turístico internacional e da qual o mundo não precise se envergonhar. É por isso que oramos incessantemente.
+
+---
+
+# A Onda Espiritual e a Veste Espiritual
+
+**Categoria:** re | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
+**Título Original:** 霊波と霊衣 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
+
+## A Onda Espiritual e a Veste Espiritual
+
+Em outra ocasião, utilizei a expressão “Onda Espiritual” para me referir ao raio de luz que promove a cura, termo que tomei de empréstimo do conceito de “onda sonora”, popularizado pelo rádio.
+
+Todo ser humano é dotado de uma Veste Espiritual, conhecida no Ocidente como aura, que consiste em uma espécie de onda luminosa. Conforme o nome sugere, trata-se de uma emanação de luz branca que irradia do envoltório do corpo espiritual, assemelhando-se a uma indumentária. Sua espessura varia de pessoa para pessoa, sendo de aproximadamente três centímetros em um indivíduo comum. Nos enfermos, ela se apresenta mais tênue, e à medida que a doença se agrava, torna-se progressivamente mais fina, desaparecendo por completo momentos antes da morte. A expressão popular “sua sombra está se esvaindo” alude justamente a essa sensação provocada pela rarefação da Veste Espiritual.
+
+Em contrapartida, quanto mais saudável e virtuosa for a pessoa, mais espessa será sua Veste Espiritual. Em heróis, grandes personalidades e santos, ela é particularmente densa, podendo atingir entre noventa centímetros e um metro e vinte. Pode-se inferir, portanto, que nos grandes luminares que surgem a cada século, essa Veste Espiritual atinge dimensões extraordinárias. Naturalmente, nas pessoas comuns, sua espessura flutua conforme o estado mental e as ações do momento. Isto ocorre porque nutrir pensamentos e praticar atos benevolentes a torna mais densa, ao passo que conceber o mal e cometer más ações a torna mais fina.
+
+Essas são as características gerais da Veste Espiritual. Embora raras, existem pessoas capazes de visualizá-la, e mesmo um indivíduo comum, ao concentrar-se profundamente, pode perceber a presença dessa onda luminosa.
+
+Nesse sentido, é imperativo saber que a espessura da Veste Espiritual possui uma profunda conexão com o destino humano, pois a felicidade e o infortúnio na vida de uma pessoa são determinados por essa condição. Em outras palavras: quanto mais espessa a Veste, mais duradoura será a felicidade; quanto mais tênue, mais constante será o infortúnio. Todavia, mesmo alguém com uma Veste Espiritual tênue pode, ocasionalmente, ser agraciado pela sorte; tais momentos, porém, carecem de perenidade, e em breve a pessoa retorna à sua condição original de infortúnio. De modo análogo, ainda que alguém possua uma Veste espessa e desfrute de boa sorte, se utilizar essa fortuna para fins egoístas, disseminar o mal na sociedade ou prejudicar o próximo, sua Veste Espiritual se tornará mais fina, fazendo-o retornar à estaca zero. Casos como esses não são incomuns em nosso mundo.
+
+Expliquemos, então, as razões pelas quais a espessura da Veste Espiritual determina a felicidade ou o infortúnio. Primeiramente, analisemos o que causa a variação em sua espessura. Como é sabido, todo ser humano, na condição de membro da sociedade e participante da vida social, está incessantemente nutrindo pensamentos e praticando atos. Se pudéssemos medir tais pensamentos e ações em uma balança do bem e do mal, seria natural constatar que, em cada pessoa, um dos pratos penderia mais que o outro. A espessura da Veste Espiritual é o reflexo direto dessa medida.
+
+Essa manifestação ocorre em duas esferas: a interna e a externa. Internamente, ao praticar o bem, o indivíduo experimenta um sentimento de satisfação e aprovação própria, e esse pensamento gera luz, que se acumula em seu corpo espiritual. O contrário também é verdadeiro: ao pensar e praticar o mal, a consciência o acusa. Esse pensamento de autocensura gera máculas, que se agregam ao corpo espiritual. Externamente, quando se pratica o bem em relação a outrem, o pensamento de gratidão da pessoa beneficiada se converte em luz e, através de um elo espiritual, é irradiado em nossa direção, adicionando-se ao nosso corpo espiritual. Em oposição, pensamentos de rancor, ódio e inveja chegam até nós como máculas, aumentando a opacidade. Por essa razão, o ser humano deve praticar a virtude para ser digno da gratidão de muitos, evitando a todo custo infligir sofrimento e despertar o ódio no próximo.
+
+Com base no princípio exposto, a condição a que me referi como “o avanço da esquerda e o recuo da direita” — isto é, a predominância do bem sobre o mal — significa o aumento da quantidade de bem. Inversamente, “o avanço da direita e o recuo da esquerda” — a predominância do mal sobre o bem — representa o aumento da quantidade de mal. Nessa perspectiva, a ocorrência de grandes guerras e de vasta destruição se deve ao acúmulo de máculas no Mundo Espiritual, geradas pela preponderância do mal, o que desencadeia um processo de purificação natural.
+
+Qual seria, então, a razão pela qual pessoas de sucesso e novos-ricos, que ascendem rapidamente, acabam por fracassar ou entrar em declínio? Atribuindo o sucesso unicamente à sua própria habilidade e competência, tornam-se arrogantes e presunçosos. Seus atos passam a ser egoístas e egocêntricos, e eles se esquecem das bênçãos recebidas da nação e da sociedade. Com a gratidão e o anseio de retribuir se tornando escassos, as máculas superam a luz, e sua Veste Espiritual, aos poucos, se enfraquece, culminando em sua ruína. De forma semelhante, a queda de famílias nobres e abastadas, que perduram por gerações, ocorre porque aqueles que ocupam posições elevadas na sociedade, sendo por isso respeitados e favorecidos, têm o dever de retribuir com a prática de virtudes. Contudo, quando pensam apenas em seus próprios interesses e carecem de atos altruístas, a quantidade de máculas aumenta. Consequentemente, embora sua aparência material permaneça imponente, seu corpo espiritual se assemelha ao de uma pessoa de condição inferior. Pela Lei da Precedência do Espírito sobre a Matéria, seu declínio torna-se inevitável.
+
+Ademais, quanto mais tênue a Veste Espiritual, mais suscetível a pessoa se torna ao infortúnio e aos desastres. Um exemplo é o mau desempenho ou o fracasso recorrente no trabalho. Quando há muitas máculas, a atividade cerebral se torna letárgica, e tanto o discernimento quanto o poder de decisão carecem de acerto. É preciso notar, contudo, que mesmo com um grande volume de máculas, uma pessoa pode obter sucesso através da astúcia maligna. Tais conquistas, no entanto, são meramente temporárias e jamais perduram.
+
+Ainda, quanto maior a quantidade de máculas, mais facilmente se manifesta a Ação Purificadora, o que torna a pessoa propensa a contrair doenças graves e a sofrer acidentes. Em acidentes de trânsito, por exemplo, as vítimas são, em geral, aquelas com a Veste Espiritual mais fina, enquanto as que possuem uma Veste espessa saem ilesas. Isso ocorre porque, no momento da colisão, o espírito do trem ou do automóvel atinge a pessoa com a Veste Espiritual tênue, mas é repelido pela que é espessa. Não é raro que, em tais situações, a pessoa seja arremessada para longe sem sofrer um arranhão sequer. Isso se deve à força elástica da Veste Espiritual, que a repele no impacto súbito.
+
+Diante de todo o exposto, a única maneira de alcançar a felicidade e a boa sorte é acumular virtudes e, assim, adensar a Veste Espiritual. Portanto, não há necessidade de se resignar, pensando: “Nasci sem sorte”. No que tange à ministração de nosso tratamento, quanto mais espessa for a Veste Espiritual do ministro, melhores serão os resultados obtidos. Ademais, quanto maior o número de pessoas atendidas, mais notáveis se tornam os efeitos da terapia. Sendo assim, o ministro deve atender ao maior número possível de pessoas. A razão para isso é que, devido à eficácia extraordinária de nosso tratamento, muitos dos que são curados manifestam sua gratidão. O pensamento de gratidão deles se converte em luz, que adentra o corpo espiritual do ministro, tornando sua Veste Espiritual cada vez mais espessa. Como resultado, a irradiação da Onda Espiritual se torna mais potente.
+
+O fundamento de nossa arte de curar reside, pois, em adensar a Veste Espiritual do praticante. Isso é alcançado, em certa medida, por meio de um curto período de formação e, progressivamente, pela acumulação de experiência na ministração do tratamento.
+
+---
+
+# Sobre a Essência do Amor Romântico
+
+**Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
+**Título Original:** 恋愛とは何ぞや | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
+
+## Sobre a Essência do Amor Romântico
+
+Desejo elucidar aos jovens de ambos os sexos que o amor romântico tem sua origem, na totalidade, na ação dos espíritos. A esse respeito, permitam-me apresentar dois exemplos.
+
+Na época em que me dedicava aos negócios, empregava em meu escritório uma estudante de uma escola feminina de artes, com aproximadamente vinte anos de idade. Meu ramo de atividade eram os objetos de arte, e ela era responsável pela elaboração dos projetos. Chamava-se T. Certo dia, uma colega de T, uma bela jovem de dezoito ou dezenove anos chamada U, veio visitá-la. Como T se encontrava em seu posto de trabalho, pedi que a jovem aguardasse na sala de visitas. Ao observá-la casualmente, percebi em U uma melancolia tão profunda que me despertou um sentimento de apreensão.
+
+Incapaz de permanecer indiferente, dirigi-me discretamente à sala de T e a indaguei sobre a amiga. A princípio, ela relutou em revelar a verdade, mas, diante da minha insistência, narrou-me os fatos. O relato era o seguinte: T e U mantinham um relacionamento homoafetivo há um tempo considerável. Recentemente, a mãe de T descobrira o fato e a repreendera com severidade, impondo-lhe um ultimato: ou rompia a relação com U, ou abandonava a escola. Em face dessa pressão, as duas haviam deliberado e, em desespero, planejavam cometer suicídio naquela mesma noite.
+
+Surpreso com a gravidade da situação, conduzi T a uma sala reservada e iniciei imediatamente uma sondagem espiritual. Não tardou para que o espírito obsessor se manifestasse. Tratava-se do espírito de um pato. Em sua confissão, revelou ter-se apossado de T há alguns meses. Acrescentou que U estava sob a influência do espírito de um rouxinol, por quem sentia uma atração irresistível, sendo esta a verdadeira causa da paixão. Repreendi e admoestei severamente o espírito do pato até que, por fim, ele se retirou. Como resultado, T, como se despertasse de um sono profundo, viu desaparecer por completo o amor que sentia por U, passando a enxergá-la apenas como uma amiga. Naturalmente, para se chegar a esse desfecho, foram necessárias diversas sessões de tratamento espiritual. Essa experiência ensinou-me não apenas que as relações amorosas são, de fato, um fenômeno espiritual, mas também que a solução do problema em apenas uma das partes envolvidas é o bastante para resolvê-lo.
+
+Outro caso que posso citar é o que se segue. Certa vez, em conversa com um estudante universitário, o assunto recaiu sobre a existência ou não dos espíritos. Ele me solicitou que realizasse uma sondagem espiritual em si mesmo, pedido ao qual acedi prontamente. Pouco depois de iniciar o procedimento, ele entrou em estado de transe, o que indicava a manifestação do espírito obsessor. Perguntei-lhe: “Quem é você?”. O espírito então respondeu: “Sou uma funcionária de um estande de arco e flecha em Asakusa. Gosto imensamente deste rapaz, mas, por mais que eu o queira, ele não vem me visitar. Por isso, apossei-me dele. Peço-lhe que o convença a vir ao meu encontro”.
+
+Assenti com o pedido, e o espírito, satisfeito, retirou-se. No mesmo instante, o rapaz despertou, com um olhar perplexo. Dirigi-me a ele e perguntei: “Você conhece uma moça que trabalha em tal lugar em Asakusa?”. Ele, atônito, respondeu: “Mestre, como o senhor sabe da existência dela?”. Ao que retruquei: “Foi você mesmo quem acabou de me contar”. Surpreso, o jovem caiu numa grande gargalhada e disse: “Então, em estado de transe, acabei falando o que não devia!”.
+
+Este, evidentemente, é um caso de obsessão por um espírito vivo.
+
+---
+
+# Proclamação à Humanidade
+
+**Categoria:** wa | **Ano:** - | **Fonte:** 吾人類に告ぐ
+**Título Original:** 吾人類に告ぐ | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
+
+## Proclamação à Humanidade
+
+Recebi de Deus a magna missão de salvar a humanidade e, investido do poder de Sua Doutrina, dedico-me agora a propagar universalmente o Seu Amor e a concretizar o Seu Plano Divino.
+
+Os Três Reinos aproximam-se do momento de uma magna transição. O Juízo Final, profetizado por Cristo, e o declínio da Lei, anunciado por Buda, são as duas grandes profecias que se referem a este acontecimento.
+
+Ó humanidade, despertai sem demora! Despertar consiste em abandonar a iniquidade e viver na retidão.
+
+---
+
+# A Transição do Mundo Espiritual
+
+**Categoria:** re | **Ano:** 昭和18(1943)年10月23日 | **Fonte:** Asu no Ijutsu 第三編
+**Título Original:** 霊界の転換 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-23
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第三編
+
+## A Transição do Mundo Espiritual
+
+Explanarei, a seguir, as transformações que a transição do Mundo Espiritual, da Noite para o Dia, acarreta sobre os seres humanos.
+
+Já não se faz necessário discorrer sobre o fato de a doença ser um processo purificador. Contudo, é imperativo compreender que, antes de o processo purificador se manifestar no corpo físico, ele se inicia primeiramente no corpo espiritual, visto que este pertence, em sua essência, ao próprio Mundo Espiritual.
+
+No Mundo da Noite, o Mundo Espiritual encontrava-se imerso em trevas ou, quando muito, banhado pela luz do luar. Por essa razão, o poder purificador era extremamente tênue, representando apenas uma ínfima fração de sua potência no Mundo do Dia. Por conseguinte, durante a vigência do Mundo da Noite, era sobremaneira difícil acelerar o processo purificador. Diante disso, tornou-se inevitável recorrer ao caminho oposto: a interrupção da purificação, ou seja, a solidificação das toxinas. Essa prática, por fim, foi consagrada como o único método para a cura das enfermidades, e assim permaneceu até os dias atuais.
+
+Contudo, a partir de 1931, ano sexto da Era Showa e período do Incidente da Manchúria, a Luz começou a despontar no Mundo Espiritual. Desde então, o processo purificador intensificou-se gradualmente. Em outras palavras, adentramos a Alvorada da Nova Era.
+
+Conforme expliquei anteriormente, teve início no Mundo Espiritual o movimento do ritmo luminoso do Mundo do Dia — avanço pela esquerda e recuo pela direita —, em oposição ao ritmo sombrio do Mundo da Noite, de avanço pela direita e recuo pela esquerda. É natural que essa alteração rítmica tenha dado início à transmutação de todos os fenômenos do mundo. Sem o conhecimento deste princípio fundamental, não será possível discernir com clareza os rumos dos acontecimentos mundiais.
+
+Sendo o ritmo de avanço pela esquerda e recuo pela direita a própria essência da purificação, esta se torna cada vez mais pujante, ano após ano. Nesse sentido, a interrupção do processo purificador tornar-se-á, gradualmente, impraticável. Por essa razão, antes da Alvorada, ao se contrair uma doença, era possível, até certo ponto, paralisar a purificação por meio de toxinas medicamentosas e outros métodos. Por exemplo, se o período de interrupção fosse de três anos, por esse tempo a doença aparentava estar curada. Com o advento da Alvorada, esse intervalo encurtou-se progressivamente para um ano, três meses, um mês, dez dias, até que, finalmente, a interrupção se tornará de todo impossível.
+
+Todavia, a medicina, alheia a este princípio, obstina-se em tentar interromper a purificação a qualquer custo. Para tanto, vê-se obrigada a empregar toxinas medicamentosas, o yakudoku (薬毒), cada vez mais potentes. Ademais, percebe-se que as injeções são mais eficazes que os medicamentos orais, pois permitem a administração de toxinas de maior intensidade, obtendo-se assim um efeito mais pronunciado na paralisação da purificação. A crescente popularidade das terapias injetáveis em tempos recentes deve-se exatamente a essa razão. Outrossim, é comum ouvirmos relatos de pessoas que vêm a óbito subitamente após receberem uma injeção. Isso ocorre porque o método drástico para deter a purificação colide frontalmente com o próprio processo purificador, que agora se manifesta com imensa força, gerando um atrito violento e resultando em um desfecho fulminante.
+
+Como prova irrefutável desta teoria, mesmo os próprios médicos reconhecem que a eficácia dos medicamentos tem diminuído consideravelmente. Isso não é senão o reflexo direto da intensificação do processo purificador no Mundo Espiritual.
+
+Com efeito, interromper a purificação consiste, evidentemente, na tentativa de solidificar as toxinas que o organismo começou a dissolver. A razão pela qual tal solidificação se tornou mais difícil que outrora é precisamente esta.
+
+Ademais, observa-se na medicina recente uma tendência a priorizar a medicina preventiva em detrimento da curativa. À primeira vista, tal abordagem parece bastante sensata. Na realidade, porém, essa mudança de foco decorre da incapacidade gritante da medicina atual em curar as enfermidades, não lhes restando outra alternativa. O declínio tão acentuado da eficácia terapêutica é um testemunho eloquente de quão pujante se tornou o processo purificador.
+
+---
+
+# O Milagre das Fotografias Espirituais
+
+**Categoria:** re | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
+**Título Original:** 霊写真 自観叢書第4篇 | **Status:** Unknown | **Edição/Página:** P.21 | **Data ISO:** 1949-10-05
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 奇蹟物語
+
+## O Milagre das Fotografias Espirituais
+
+Conforme relatei anteriormente, o dia 4 de fevereiro do terceiro ano da Era Showa (1928), dia do Setsubun, marcou uma data memorável em minha vida: o momento em que renunciei a todas as minhas atividades seculares para me dedicar integralmente à vida de fé. Naturalmente, tal decisão foi motivada pela compreensão de minha missão, concedida por Revelação Divina, e pela firme convicção que adquiri através de inúmeros milagres, os quais me compeliram a devotar-me de corpo e alma a este caminho.
+
+Durante os seis anos e três meses que se seguiram, até a inauguração de uma modesta clínica de terapia alternativa em 1º de maio do nono ano da Era Showa (1934), em Hirakawacho, no distrito de Kojimachi, em Tóquio, dediquei-me a profundas pesquisas espirituais. Nesse período, logrei apreender a realidade dos Três Mundos – Divino, Espiritual e Material – e, por meio de uma descoberta monumental sobre a saúde e a doença humanas, obtive a certeza de que a Terapia Espiritual Divina é o método absoluto para a concretização de um mundo livre do sofrimento.
+
+Foi nesse mesmo ano, contudo, que um grandioso milagre se manifestou, o qual passarei a relatar.
+
+Lembro-me com clareza do dia 11 de outubro, quando um homem me visitou pela primeira vez, apresentando-se com um cartão de visitas onde se lia "Toko Otoko". O nome, cujos ideogramas podem ser interpretados como "homem da luz do oriente", despertou meu interesse, e decidi recebê-lo. Ele então me contou sua história: “Há cerca de vinte anos, viajei pelo interior da China. Na ocasião, tornei-me adepto do Taoismo, uma antiga e influente religião chinesa, e, certo dia, recebi a manifestação de um deus. O oráculo que me foi transmitido dizia: ‘Daqui a vinte anos, surgirá no Japão uma pessoa detentora do Poder de Kannon’. Após meu retorno ao Japão, guardei a profecia em meu coração e aguardei discretamente. Na primavera deste ano, recebi outra revelação, indicando que a pessoa com o Poder de Kannon já havia se manifestado a leste de minha casa. Como resido em Shibuya, a direção leste corresponderia à região de Akasaka e Kojimachi. Comecei a procurá-la e, por acaso, ao conversar com um conhecido de Kojimachi, ele me disse: ‘Recentemente, surgiu em Hirakawacho uma pessoa que cura doenças através do poder de Kannon-Sama. Sugiro que a procure’. E foi assim que cheguei até aqui”.
+
+Ao ouvir seu relato, respondi-lhe: “Provavelmente, essa pessoa sou eu”. Conversamos por duas ou três horas, principalmente sobre temas religiosos e, ao se despedir, ele me pediu permissão para tirar uma fotografia. Eu consenti. Ele então me solicitou: “Por favor, sente-se no tokonoma”. Sentei-me e ele tirou a foto.
+
+No dia seguinte, ele retornou com a chapa de vidro, exclamando: “Veja que fotografia extraordinária obtive!”. Ao observá-la, também fiquei assombrado. Da lateral de meu corpo, emanava uma forma semelhante a uma névoa branca que se estendia até próximo ao teto e, pairando a cerca de trinta a sessenta centímetros acima de minha cabeça, via-se nitidamente a imagem de Senju Kannon (千手観音). Fiquei estupefato com tão extraordinário fenômeno.
+
+Embora no momento da fotografia eu tivesse tido o pressentimento de que algo místico poderia ser registrado, jamais imaginei que a própria Kannon se manifestaria. Analisando a imagem com atenção, percebi que se tratava de uma pintura de notável qualidade. Certamente, no instante em que o magnésio foi acionado para o flash, uma pintura existente em algum lugar foi manifestada na chapa fotográfica, transcendendo o espaço na velocidade da luz. Eu já havia visto diversas fotografias espirituais, tanto estrangeiras quanto japonesas, mas a maioria retratava espíritos de falecidos. Vi uma fotografia estrangeira na qual Cristo supostamente aparecia, mas era evidente tratar-se de uma fraude. Além dessa, não havia encontrado nenhuma outra fotografia espiritual de grande relevância.
+
+A imagem que obtive, todavia, era de uma magnificência incomparável. Ademais, o fato de uma pintura, sem dúvida distante, ser reproduzida numa fotografia de forma instantânea – que poder prodigioso seria esse, senão o Poder de Kannon? Ao refletir sobre a grandiosidade desse poder, não conseguia sequer imaginar que outras manifestações ele ainda revelaria no futuro. Ah, quão abençoado sou! Embriaguei-me com o sentimento de esperança que brotava espontaneamente em meu peito.
+
+Anteriormente a esses acontecimentos, eu havia curado a esposa de um senhor que residia em Akasaka. Tomada pela gratidão, a senhora mandou construir em sua residência um cômodo de seis tatames no terceiro andar, ao qual chamou de “Aposento de Kannon”. Nele, foram dispostos um quadro de Kannon pintado por mim e diversas caligrafias de minha autoria, e eu me sentia feliz com sua demonstração de apreço. Na época em que o aposento estava sendo finalizado, senti um desejo irresistível de pintar uma imagem de Senju Kannon. Comecei, então, a esboçar a composição em uma grande folha de papel, com cerca de um metro e meio de largura por um metro e oitenta de comprimento. O único local que eu tinha para pintar era um pequeno cômodo de quatro tatames e meio, o que me parecia inadequado. Percebendo minha dificuldade, a senhora me sugeriu: “Que tal utilizar o Aposento de Kannon, no terceiro andar de minha casa, que acaba de ficar pronto?”. A ideia me pareceu excelente, e assim, passei a trabalhar na pintura naquele cômodo consagrado.
+
+Quando cerca de um terço da obra estava concluído, seu marido, um homem de grande propensão à bebida, chegou em casa completamente embriagado e, num ímpeto, dilacerou a tela com uma faca. Fui informado por telefone e, ao chegar ao local, deparei-me com uma cena de tamanha crueldade que, por um instante, fiquei atônito e sem palavras, a ponto de querer chorar. Foi quando, subitamente, me recordei da fotografia espiritual de Senju Kannon, tirada poucos dias antes. Refletindo sobre o ocorrido, compreendi: Kannon, por meio daquela fotografia, estava me mostrando a forma correta como deveria ser retratada, indicando que a primeira versão não era adequada. Sendo assim, o ato de destruir a pintura fora, na verdade, obra da própria Kannon. Percebi, então, que deveria ser grato por aquilo.
+
+Imediatamente, iniciei um novo trabalho, que resultou na imagem de Senju Kannon que se encontra na Sede de Odawara da Igreja Miroku (五六七教会), sendo também a versão utilizada nos biombos para os altares. Esta nova obra difere da primeira em três aspectos fundamentais. A primeira possuía um halo de luz apenas ao redor do rosto, enquanto a nova o tem em volta de todo o corpo. A primeira tinha barba, mas a segunda não, representando uma figura mais jovem. Por fim, a primeira imagem pairava sobre as nuvens, ao passo que a segunda se encontra sobre um rochedo. Compreendi o significado de tais mudanças: o halo maior representava uma luz mais intensa; a aparência mais jovem, uma nova era; e a descida das nuvens para a terra simbolizava que Ela viera para realizar Sua obra de salvação diretamente no mundo. Diante de tal revelação, não pude deixar de anuir em concordância.
+
+Dez dias após a primeira fotografia espiritual, em 21 de outubro, outra imagem maravilhosa foi capturada. Naquele dia, fui convidado ao Aposento de Kannon no terceiro andar daquela residência para uma cerimônia de entronização. Pressentindo que outra fotografia espiritual poderia ser obtida, pedi a Toko Otoko que me fotografasse. Novamente, ele me pediu para sentar no tokonoma. Solicitou um incensário para colocar à minha frente, mas, como não havia um disponível, utilizamos uma bacia de porcelana branca em seu lugar. Ele então me pediu para sentar em meditação com as mãos em prece, e assim o fiz.
+
+O resultado foi uma fotografia espiritual sem precedentes na história: o interior do aposento aparecia envolto em uma penumbra, mas, ao centro, irradiava uma luz branca, intensa como a luz do sol. No interior desse halo de luz, meu rosto era vagamente visível, assim como minhas mãos em prece. A almofada e a bacia de porcelana, embora tênues, estavam nítidas, mas nada mais aparecia na imagem. Isso ocorreu porque, naquele momento, ondas de luz de imensa intensidade emanaram do halo, preenchendo o ambiente e ofuscando os demais objetos. Para evitar qualquer suspeita, as sete ou oito pessoas presentes permaneceram como testemunhas, já que, na primeira fotografia, apenas a referida senhora estivera presente.
+
+Naquela mesma noite, uma terceira fotografia espiritual foi obtida. Eu sentia um sono intenso e adormeci com o rosto apoiado sobre uma mesa à minha frente. Vendo que eu não me movia, Toko Otoko aproveitou para tirar outra foto, desta vez utilizando apenas a luz da lâmpada, em vez do flash de magnésio das duas vezes anteriores. Ao observarmos a imagem revelada, ficamos novamente assombrados. Como eu estava de bruços, apenas minha cabeça foi capturada. Acima dela, porém, via-se um Ryujin (龍神), um Deus-Dragão, com a cabeça erguida e o corpo longo enroscado em espiral. De seu corpo emanavam vários feixes de luz. Ao contá-los, vi que eram cinco raios de cor dourada, o que não deixava dúvidas de que se tratava de um Dragão Dourado. Era a confirmação de que minha divindade protetora é o Dragão Dourado.
+
+Gostaria de tecer alguns comentários sobre Toko Otoko. Esse homem, por vezes, entrava em um estado sereno de canalização divina. Nesses momentos, fechava os olhos e parecia dialogar consigo mesmo, como se recebesse inspirações. Sobre a última fotografia, ele explicou: “Professor, o senhor é protegido por um Deus-Dragão. Digo isso porque, sempre que venho encontrá-lo, invariavelmente cai uma chuva fina, o que é um sinal da presença de um dragão. Hoje à noite, como começou a chover há pouco, pensei que talvez o Ryujin se manifestasse na foto, e por isso a tirei”. Suas palavras fizeram todo o sentido para mim.
+
+A fotografia espiritual de Senju Kannon, que abre este livro, é uma das três imagens que acabo de descrever.
+
+---
+
+# Sou Deus ou Homem?
+
+**Categoria:** wa | **Ano:** 昭和27(1952)年 | **Fonte:** 私物語
+**Título Original:** 私は神か人か 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 私物語
+
+## Sou Deus ou Homem?
+
+Dificilmente haverá um ser humano tão enigmático quanto eu. É certo que, desde o início do mundo, jamais existiu alguém com minhas características. Quanto mais reflito sobre mim mesmo, mais me convenço de que minha existência se resume a uma única palavra: mistério. Por mais que eu investigue as biografias de santos, sábios e grandes vultos da História, não encontro um só que se me assemelhe. Por essa razão, e antevendo que, em algum dia futuro, muitos se dedicarão a me estudar e a tecer críticas a meu respeito, decidi registrar aqui, da forma mais fiel possível, quem eu sou.
+
+De fato, quem mais se admira com a minha pessoa sou eu mesmo, tamanha é a aura de mistério que me envolve. Nesse sentido, pretendo analisar-me tanto do ponto de vista subjetivo quanto do objetivo. Todavia, nem mesmo aqueles que convivem comigo há décadas parecem, ainda hoje, compreender-me verdadeiramente. Aliás, nem minha própria esposa parece entender-me por completo. Sou, evidentemente, um religioso, mas não o fundador de uma doutrina, como um Buda ou um Cristo, nem me considero uma personalidade extraordinária nesse campo, pois meu raio de atuação é vasto demais.
+
+Desde a juventude, nunca almejei tais feitos. Apenas tinha a vaga consciência de que havia em mim algo que me diferenciava das pessoas comuns. O traço mais marcante dessa diferença era a incapacidade de reverenciar qualquer um dos grandes personagens consagrados pela História. Isso não se devia a um raciocínio lógico nem à presunção; simplesmente, eu não os via como personalidades tão grandiosas que me fossem inalcançáveis. Era um sentimento que brotava espontaneamente e que, muitas vezes, me trazia uma sensação de solidão. Outra de minhas singularidades era um senso de justiça extremamente aguçado e um ódio ao mal duas vezes mais intenso que o das outras pessoas. Ao ler os jornais diários, despendia um esforço considerável para conter minha indignação. Foi então que, pensando em uma forma de diminuir as injustiças do mundo, fixei meu objetivo em um jornal. Naquela época, contudo, dizia-se que para se lançar um jornal era necessário mais de um milhão de ienes. Assim, dediquei-me com afinco aos negócios para obter tal quantia, mas, contrariando minhas aspirações, fracassei redondamente. No entanto, esse revés acabou por se tornar a motivação para meu ingresso no mundo religioso, revelando-se, ao fim, algo positivo.
+
+Refiro-me à minha filiação à Oomoto-kyo. Até então, eu era um ateu convicto, mas a fé na Oomoto permitiu-me reconhecer a existência de Deus do fundo da alma. Isso se deu porque milagres espantosos começaram a ocorrer, um após o outro. Naturalmente, tal fato provocou em mim uma reviravolta de cento e oitenta graus. Com o passar dos dias, os milagres se sucediam com intensidade crescente, até que finalmente recebi revelações espirituais sobre meu destino — passado, presente e futuro. Ao mesmo tempo, foi-me outorgado um poder sobre-humano e tornou-se claro para mim que eu carregava a grande missão de salvar a humanidade.
+
+Naquela época, um fenômeno que me pareceu verdadeiramente extraordinário foi a maneira como um grandioso Ser me conduzia com absoluta liberdade, fazendo-me compreender, passo a passo e por meio de milagres, a realidade do Mundo Espiritual. A alegria que brotava em meu peito era tão intensa que eu mal podia contê-la. Era um estado de espírito de uma sutileza e profundidade sublimes, impossível de ser expresso em palavras.
+
+E os milagres continuavam a se manifestar, um após o outro, despertando em mim um interesse infindável. Não sei dizer quantas vezes por dia meu coração saltava de entusiasmo. Dentre todos esses prodígios, o maior e mais significativo ocorreu no ano do falecimento do Imperador Taisho, em dezembro de 1926.
+
+---
+
+# O Devido Respeito aos Objetos Sagrados
+
+**Categoria:** wa | **Ano:** 昭和28(1953)年11月4日 | **Fonte:** Eikou
+**Título Original:** 私に関したもの | **Status:** Published | **Edição/Página:** 233号 | **Data ISO:** 1953-11-04
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
+
+## O Devido Respeito aos Objetos Sagrados
+
+Já alertei anteriormente, tanto por escrito quanto verbalmente, que é preciso ter cautela. Quando objetos a mim relacionados são tratados com descaso ou de maneira inadequada, invariavelmente ocorre uma advertência espiritual, e é fundamental que estejam atentos a isso. O relato de graça a seguir demonstra claramente este fato: o simples ato de guardar o jornal Eikoh em uma gaveta de escrivaninha já constitui um erro, pois tal atitude equivale a tratá-lo como um jornal comum ou um simples artigo de papelaria.
+
+Os membros mais antigos compreendem bem esta questão, todavia, equívocos como esse são frequentes entre os novos fiéis. Nesse sentido, é imperativo que os chefes de Johrei Center e ministros os orientem com a devida diligência.
+
+***
+
+**Até mesmo um rato poupou a Sagrada Foto**
+*Katsusaburo Horiki (58 anos), Igreja Tyukyo Tyu, Província de Mie*
+
+Tive a permissão de ingressar na fé no último dia 25 de janeiro.
+
+Logo após minha filiação, recebi da senhora Aiko Hata a edição B do jornal Eikoh, número 181, que continha um relato sobre a viagem de Meishu-Sama ao oeste do Japão. Após a leitura, guardei-o na gaveta de minha escrivaninha. Certo dia, ao abrir a gaveta com a intenção de relê-lo, não encontrei o exemplar. Preocupado, procurei minuciosamente e descobri que o jornal havia sido completamente roído por um rato, estando em pedaços.
+
+Fui tomado por uma grande surpresa e, ao mesmo tempo, por um profundo sentimento de reverência e pesar, ciente de que havia cometido uma falta grave. Ao examinar os fragmentos com mais atenção, constatei algo extraordinário: a única parte intacta era justamente a Sagrada Foto de Meishu-Sama, que ilustrava uma matéria.
+
+Senti um alívio imenso, como se um peso me saísse do peito, e pensei: "Que bom, ela foi poupada". Contudo, passada a tranquilidade inicial, fui dominado por uma admiração ainda maior diante da natureza prodigiosa daquele acontecimento. À medida que minha mente se acalmava, uma profunda emoção tomou conta de mim, em gratidão à imensurável e infinita virtude espiritual de Meishu-Sama.
+
+Diante deste milagre que me foi permitido presenciar, renovo meu desejo de, daqui por diante, ser utilizado ainda mais intensamente em prol da Obra Divina da Sekaikyuseikyou.
+
+---
+
+# A Origem Espiritual das Enfermidades
+
+**Categoria:** re | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
+**Título Original:** 霊主体従 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
+
+## A Origem Espiritual das Enfermidades
+
+Conforme exposto no capítulo anterior sobre a relação entre o mundo inorgânico e as enfermidades humanas, cumpre esclarecer que o que denominamos mundo inorgânico é, em essência, o Mundo Espiritual. Sendo assim, de que maneira se estabelece a relação entre esse Mundo Espiritual e o ser humano?
+
+O ser humano constitui-se, primordialmente, da íntima união de dois elementos fundamentais: o corpo e o espírito. Evidentemente, o corpo é a matéria visível, perceptível a todos. Já o espírito, por ser invisível aos olhos, permaneceu por longo tempo incompreendido. Contudo, ele existe indubitavelmente, assemelhando-se a uma espécie de éter. Sendo assim, não haveria razão para que não pudesse ser apreendido por meio de um método adequado, pois, da mesma forma que o corpo físico se encontra imerso no ar, o espírito humano reside no Mundo Espiritual.
+
+Este, como já mencionado, é um meio transparente de uma rarefação incomparavelmente superior à do ar, e não surpreende que até hoje tenha sido confundido com o vácuo ou o nada. No entanto, longe de ser o nada, este mundo é, na verdade, a fonte primordial de tudo o que existe, detentor de um poder absoluto e infinito, por meio do qual todas as coisas são geradas e se desenvolvem. A essência do Mundo Espiritual consiste na fusão harmoniosa das energias do Sol, da Lua e da Terra, compondo uma realidade de mistério e maravilha que transcende a imaginação.
+
+O ponto fundamental a ser considerado, contudo, é que, no cumprimento de suas respectivas missões, assim como o corpo físico acumula sujeira, o espírito acumula máculas. Consequentemente, manifesta-se uma ação purificadora natural para removê-las, em um processo análogo ao banho, que limpa a sujeira acumulada no corpo. Esse princípio, aliás, não se restringe ao ser humano, mas se aplica a todas as coisas no Céu e na Terra. Quando, por exemplo, o plano espiritual terreno se sobrecarrega de impurezas, estas, por ação natural, concentram-se em locais específicos. Desencadeia-se, então, uma atividade purificadora sob a forma de baixa pressão atmosférica, que promove uma verdadeira limpeza. Os tufões, as enchentes, os incêndios — tanto os provocados por raios quanto os de origem humana — são manifestações desse mesmo fenômeno. De modo semelhante, a ação purificadora também ocorre no ser humano. Explicarei, em detalhe, as razões para tal.
+
+As impurezas acumuladas no espírito humano, mencionadas anteriormente, são máculas que tornam opacas certas áreas de sua estrutura, a qual deveria ser, por natureza, translúcida. Existem, entretanto, duas origens para essas máculas. A primeira decorre de causas que se geram no próprio espírito; a segunda, inversamente, provém de influências que se transferem do corpo para o espírito.
+
+Analisemos, primeiramente, a primeira categoria. A estrutura do espírito humano assemelha-se a três círculos concêntricos. O centro desses círculos é a alma, a qual, no momento do nascimento, é alojada no ventre materno por uma lei natural. A alma é, em sua origem, um ponto infinitesimal, dotado de individualidade própria, e, como todos sabem, detém o domínio absoluto sobre o ser humano enquanto houver vida. A alma, por sua vez, é protegida e envolvida pela mente, que, por sua vez, é envolvida pelo espírito. Este último preenche todo o ser, possuindo, portanto, uma forma análoga à do corpo físico.
+
+Dada essa unidade, o estado da alma reflete-se na mente e, através dela, no espírito. De modo recíproco, o estado do espírito reflete-se na mente e, através dela, na alma. Alma, mente e espírito formam, assim, uma relação de interdependência mútua, uma espécie de trindade. Ora, durante a vida, todo ser humano pratica tanto o bem quanto o mal. Quando os atos malévolos superam os benévolos, a diferença se converte em pecados e impurezas que obscurecem a alma. Essa opacidade se estende à mente e, subsequentemente, ao espírito.
+
+Quando o acúmulo de máculas ultrapassa um determinado limite, a ação purificadora natural é acionada, iniciando um processo de dissolução e eliminação. No decorrer desse processo, as máculas gradualmente se concentram em um ou mais pontos, adensando-se, diminuindo de volume e solidificando-se. O mais curioso é que o local dessa solidificação varia conforme a natureza do pecado. Por exemplo, pecados relacionados aos olhos manifestam-se nos olhos; os da cabeça, na cabeça; os do peito, no peito, e assim sucessivamente.
+
+Passemos agora à segunda causa, que segue o caminho inverso: do corpo para o espírito. Nesse caso, a impureza surge primeiramente na corrente sanguínea, gerando o que se denomina sangue impuro. Essa condição se reflete fielmente no espírito, manifestando-se como uma mácula que, de modo análogo ao primeiro caso, também se concentra e se adensa em pontos específicos.
+
+Fundamentalmente, o corpo humano é a materialização do espírito, ao passo que o espírito é a espiritualização do sangue. Poder-se-ia dizer, portanto, que são equivalentes. Contudo, a lei que rege a relação entre ambos estabelece a preponderância do espírito sobre a matéria, ou seja, o espírito é o principal, e o corpo, o secundário. Seja qual for a origem, as toxinas acumulam-se continuamente no corpo e se solidificam. Quando a ação purificadora dissolve esses nódulos solidificados, transformando-os em matéria líquida para ser expelida do organismo, o sofrimento resultante desse processo é o que chamamos de doença.
+
+Mas o que vem a ser, afinal, o sangue impuro que se origina no corpo, como acabamos de descrever? A resposta é, para a surpresa de muitos, aquilo que ocupa o trono da medicina moderna: os medicamentos. A verdade é que não existe, neste mundo, uma única substância que possa ser chamada de remédio. O que atualmente se designa como tal é, invariavelmente, veneno. Ao se introduzir esses venenos no organismo, é natural que se forme o sangue impuro. Os fatos são a prova mais eloquente. O prolongamento das enfermidades, seu agravamento ou o surgimento de novas doenças durante um tratamento médico ocorrem precisamente porque as toxinas medicamentosas estão, elas mesmas, gerando mais doenças.
+
+Portanto, se o sangue impurificado pelas toxinas medicamentosas se projeta no espírito, convertendo-se em mácula e, consequentemente, na causa de enfermidades, o próprio método de tratamento da medicina moderna não passa de um mecanismo para criar doenças. Como vimos, a lei universal estabelece a preponderância do espírito sobre a matéria. Sendo assim, bastaria eliminar as máculas do espírito para que o sangue impuro se purificasse, resultando, naturalmente, na cura completa. Nosso método de cura baseia-se na aplicação desse princípio. Denominado Johrei, que significa "purificação do espírito", ele visa purificar o espírito e, por essa razão, é capaz de curar as doenças em sua raiz.
+
+A medicina, em contrapartida, por ter evoluído ignorando a existência do espírito e concentrando-se unicamente no corpo, oferece apenas soluções temporárias. A prova de que os tratamentos médicos não promovem uma cura radical está no fato de que, mesmo após uma cirurgia aparentemente bem-sucedida, embora a doença original não retorne, é quase certo que outra enfermidade surja em seu lugar ou que haja uma recidiva. Tomemos a apendicite como exemplo. Uma vez que o apêndice é extraído, a apendicite, de fato, não pode mais ocorrer. Contudo, torna-se muito mais provável o surgimento de peritonite ou de doenças renais em órgãos adjacentes. Isso acontece porque a mácula no plano espiritual permanece intacta. Pior ainda, ao se somar às novas toxinas medicamentosas, ela se agrava, desloca-se e se torna a causa de uma nova doença.
+
+Vejamos agora as transformações que ocorrem no sangue impuro. Submetido a um processo contínuo de purificação, ele se torna mais denso, e seus glóbulos sofrem uma alteração, tornando-se progressivamente brancos. Esse é o pus. A substância que conhecemos como "pus sanguinolento" nada mais é do que o estágio intermediário dessa transformação; com o avanço do processo, todo o sangue se converte em pus. É por essa razão que o escarro dos pacientes com tuberculose ora contém traços de sangue, ora não. O fenômeno que a medicina descreve como a ação fagocitária dos glóbulos brancos contra as bactérias é, na realidade, uma manifestação desse mesmo princípio.
+
+---
+
 # A Tragédia das Vacinas
 
 **Categoria:** wa | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** ワクチン禍の実例 自観叢書10編 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## A Tragédia das Vacinas
 
@@ -44,7 +379,7 @@ Por tudo isso, almejamos que, doravante, as vacinas preventivas sejam objeto de 
 
 **Categoria:** wa | **Ano:** 昭和29(1954)年2月15日 | **Fonte:** 私は告白する
 **Título Original:** 私は告白する | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1954-02-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Uma Confissão Solene sobre a Medicina
 
@@ -72,7 +407,7 @@ Portanto, no momento em que os responsáveis despertarem para esta realidade e p
 
 **Categoria:** wa | **Ano:** 昭和25(1950)年12月20日 | **Fonte:** Eikou
 **Título Original:** 藁に就て | **Status:** Published | **Edição/Página:** 83号 | **Data ISO:** 1950-12-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Respeito da Utilização da Palha
 
@@ -90,7 +425,7 @@ Conforme sempre afirmo, o próprio solo é, em sua essência, um conglomerado de
 
 **Categoria:** wa | **Ano:** 昭和29(1954)年4月7日 | **Fonte:** Eikou
 **Título Original:** 私は宗教科学者だ | **Status:** Published | **Edição/Página:** 255号 | **Data ISO:** 1954-04-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Eu sou um cientista da religião
 
@@ -132,7 +467,7 @@ Com base em tudo isso, minha missão é elevar a ciência de seu estado atual, d
 
 **Categoria:** wa | **Ano:** 昭和25(1950)年1月1日 | **Fonte:** -
 **Título Original:** 私の健康法 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1950-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## O Meu Método de Saúde
 
@@ -154,7 +489,7 @@ Eis, em suma, o meu método de saúde. Naturalmente, sou indiferente a germes e 
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年2月20日 | **Fonte:** Eikou
 **Título Original:** 私の美術修業 | **Status:** Published | **Edição/Página:** 144号 | **Data ISO:** 1952-02-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Minha Formação Artística
 
@@ -181,7 +516,7 @@ Ogata Kenzan (尾形乾山, 1663-1743). Irmão mais novo de Ogata Korin e discí
 
 **Categoria:** wa | **Ano:** 昭和25(1950)年11月29日 | **Fonte:** Eikou
 **Título Original:** 私と病気 | **Status:** Published | **Edição/Página:** 80号 | **Data ISO:** 1950-11-29
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Eu e a Doença
 
@@ -207,7 +542,7 @@ O que acabo de expor não são meras teorias, mas fatos concretos. Ao compreende
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年 | **Fonte:** 私物語
 **Título Original:** 私の神秘 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 私物語
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 私物語
 
 ## A Natureza do Mistério
 
@@ -231,7 +566,7 @@ Sendo assim, a partir de agora, intenciono dissecar a mim mesmo sob diversas per
 
 **Categoria:** wa | **Ano:** 昭和25(1950)年4月20日 | **Fonte:** 神示のKenko法
 **Título Original:** 私の健康法 自観叢書10編 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1950-04-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 神示の健康法
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 神示の健康法
 
 ## O Meu Método para a Saúde
 
@@ -259,7 +594,7 @@ Eis, em resumo, o meu método para a saúde. Desnecessário dizer que sou indife
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年9月12日 | **Fonte:** Eikou
 **Título Original:** 私の名称に就て | **Status:** Published | **Edição/Página:** 121号 | **Data ISO:** 1951-09-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre Minhas Denominações
 
@@ -277,7 +612,7 @@ Dessa forma, Deus me concede os nomes que se mostram adequados à minha posiçã
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年12月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 私が神様を拝まぬ理由 | **Status:** Published | **Edição/Página:** 43号 | **Data ISO:** 1952-12-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Razão pela Qual Não Reverencio a Deus
 
@@ -305,7 +640,7 @@ Exponho aqui meus pensamentos tal como me vieram à mente. Confesso ser-me penos
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年5月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 私の光 | **Status:** Published | **Edição/Página:** 36号 | **Data ISO:** 1952-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Minha Luz
 
@@ -329,7 +664,7 @@ O que expliquei até aqui é apenas uma ínfima parte do meu poder; descrevê-lo
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年3月7日 | **Fonte:** Eikou
 **Título Original:** 私の抱負 | **Status:** Published | **Edição/Página:** 94号 | **Data ISO:** 1951-03-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Minhas Aspirações
 
@@ -361,7 +696,7 @@ Para não me alongar demasiado, encerro por aqui minhas palavras, que servem com
 
 **Categoria:** wa | **Ano:** 昭和28(1953)年9月30日 | **Fonte:** Eikou
 **Título Original:** 分っていて分らない | **Status:** Published | **Edição/Página:** 228号 | **Data ISO:** 1953-09-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Saber e não compreender
 
@@ -383,7 +718,7 @@ Analisando essa trajetória, percebemos que, se a pessoa simplesmente acreditass
 
 **Categoria:** wa | **Ano:** 昭和29(1954)年2月3日 | **Fonte:** Eikou
 **Título Original:** 僅か一カ年で地獄から天国へ一足飛び | **Status:** Published | **Edição/Página:** 246号 | **Data ISO:** 1954-02-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## De um Salto, do Inferno ao Paraíso em Apenas Um Ano
 
@@ -423,7 +758,7 @@ Meishu-Sama, muito, muito obrigado. Minha mais profunda, mais sincera gratidão.
 
 **Categoria:** wa | **Ano:** 昭和28(1953)年12月2日 | **Fonte:** Eikou
 **Título Original:** 私の光に就いて | **Status:** Published | **Edição/Página:** 237号 | **Data ISO:** 1953-12-02
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre a Minha Luz Divina
 
@@ -460,7 +795,7 @@ Rogo, ainda, que nos seja permitido servir à Obra Divina de forma cada vez mais
 
 **Categoria:** re | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 霊界の構成 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## A Composição do Mundo Espiritual
 
@@ -518,7 +853,7 @@ Para concluir, explicarei o significado do altar budista. O interior do altar re
 
 **Categoria:** wa | **Ano:** 昭和29(1954)年3月24日 | **Fonte:** Eikou
 **Título Original:** 私は芸術家を優遇する | **Status:** Published | **Edição/Página:** 253号 | **Data ISO:** 1954-03-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Minha Predileção pelos Artistas
 
@@ -538,7 +873,7 @@ Nesse sentido, um homem bom que conhece a Deus manifesta a verdadeira bondade. �
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年11月28日 | **Fonte:** Eikou
 **Título Original:** 私の仕事を邪魔しないでくれ （下） | **Status:** Published | **Edição/Página:** 132号 | **Data ISO:** 1951-11-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Missão do Museu de Arte
 
@@ -568,7 +903,7 @@ Portanto, convido as pessoas que ainda não conhecem o projeto e todos aqueles q
 
 **Categoria:** wa | **Ano:** 昭和24(1949)年10月15日 | **Fonte:** -
 **Título Original:** ワクチン禍の実例 | **Status:** Published | **Edição/Página:** 31号 | **Data ISO:** 1949-10-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Sobre a Calamidade das Vacinas
 
@@ -600,7 +935,7 @@ Por tudo o que foi exposto, rogamos para que se estabeleça uma política de seg
 
 **Categoria:** wa | **Ano:** 昭和28(1953)年12月9日 | **Fonte:** Eikou
 **Título Original:** 私の文章とその他 | **Status:** Published | **Edição/Página:** 238号 | **Data ISO:** 1953-12-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Natureza Singular dos Meus Escritos
 
@@ -624,7 +959,7 @@ Desde a Antiguidade, os realizadores de grandes obras são retratados como pesso
 
 **Categoria:** wa | **Ano:** 昭和28(1953)年5月5日 | **Fonte:** 新宗教新聞
 **Título Original:** われらの任極めて大 発刊一周年を祝して | **Status:** Published | **Edição/Página:** 37号 | **Data ISO:** 1953-05-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新宗教新聞
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新宗教新聞
 
 ## Nossa Missão é Sumamente Grandiosa: Celebrando o Primeiro Aniversário de Publicação
 
@@ -644,7 +979,7 @@ Para a concretização de um objetivo tão sublime, a existência de um veículo
 
 **Categoria:** wa | **Ano:** 昭和28(1953)年4月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 私という者（一） | **Status:** Published | **Edição/Página:** 47号 | **Data ISO:** 1953-04-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## A Pessoa que Sou (I)
 
@@ -690,7 +1025,7 @@ Se ainda assim houver quem não compreenda, é porque a magnitude do evento é a
 
 **Categoria:** wa | **Ano:** - | **Fonte:** 分り易い話
 **Título Original:** 分り易い話 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** -
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Cegueira da Ciência e a Luz da Verdade
 
@@ -708,7 +1043,7 @@ Nesse sentido, os fabricantes dessa cegueira são os doutores da ciência materi
 
 **Categoria:** wa | **Ano:** 昭和24(1949)年6月30日 | **Fonte:** -
 **Título Original:** 吾々の仕事 | **Status:** Published | **Edição/Página:** 15号 | **Data ISO:** 1949-06-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Nossa Sagrada Missão
 
@@ -724,7 +1059,7 @@ Temos a constante convicção de que a contribuição que a nossa Obra Divina of
 
 **Categoria:** wa | **Ano:** 昭和24(1949)年7月30日 | **Fonte:** -
 **Título Original:** 私は切望する | **Status:** Published | **Edição/Página:** 20号 | **Data ISO:** 1949-07-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Meu Fervoroso Apelo
 
@@ -752,7 +1087,7 @@ Reitero meu apelo: “Observem minha obra com magnanimidade e isenção”. É i
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年11月21日 | **Fonte:** Eikou
 **Título Original:** 私の仕事を邪魔しないでくれ （上） | **Status:** Published | **Edição/Página:** 131号 | **Data ISO:** 1951-11-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Materialização do Paraíso na Terra
 
@@ -778,7 +1113,7 @@ A partir da primavera do próximo ano, daremos início às construções. A prim
 
 **Categoria:** wa | **Ano:** 昭和24(1949)年10月5日 | **Fonte:** Kiseki Monogatari
 **Título Original:** 私の告白 自観叢書第4篇 | **Status:** Unknown | **Edição/Página:** P.9 | **Data ISO:** 1949-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 奇蹟物語
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 奇蹟物語
 
 ## Minha Missão como Instrumento de Kannon
 
@@ -806,7 +1141,7 @@ Haveria muito mais a relatar, mas, por ora, concluirei aqui este tópico.
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 中耳炎 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## A Verdadeira Causa da Otite Média
 
@@ -822,7 +1157,7 @@ Nesse sentido, é preciso compreender que a otite média é, na verdade, um proc
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年1月7日 | **Fonte:** Eikou
 **Título Original:** 地球は暖くなった | **Status:** Published | **Edição/Página:** 190号 | **Data ISO:** 1953-01-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Elevação da Temperatura do Planeta e a Transição Espiritual
 
@@ -850,7 +1185,7 @@ Diante do exposto, o aumento da temperatura do planeta torna-se um fato cientifi
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年9月25日 | **Fonte:** Chijo Tengoku
 **Título Original:** 私は真理を書く | **Status:** Published | **Edição/Página:** 28号 | **Data ISO:** 1951-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## Eu Escrevo a Verdade
 
@@ -882,7 +1217,7 @@ Pelo exposto, a obra que venho realizando atualmente é, em uma só palavra, um 
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年5月27日 | **Fonte:** Kyusei
 **Título Original:** 智能犯インフレ | **Status:** Published | **Edição/Página:** 64号 | **Data ISO:** 1950-05-27
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Proliferação dos Delitos Intelectuais
 
@@ -900,7 +1235,7 @@ Por essa razão, acreditamos firmemente que não haverá solução definitiva pa
 
 **Categoria:** wa | **Ano:** 昭和26(1951)年10月24日 | **Fonte:** Eikou
 **Título Original:** 私は威張る | **Status:** Published | **Edição/Página:** 127号 | **Data ISO:** 1951-10-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Afirmo com Convicção
 
@@ -922,7 +1257,7 @@ Contudo, aguardem, pois me esquecia de um ponto crucial. A razão de tudo isso �
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年3月4日 | **Fonte:** Kyusei
 **Título Original:** 近頃智能犯の増加 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1950-03-04
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## O Aumento dos Crimes Intelectuais
 
@@ -948,7 +1283,7 @@ Quanto mais observamos os males decorrentes do pensamento materialista, mais evi
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年 | **Fonte:** 私とサタンとの闘争史
 **Título Original:** 私とサタンとの闘争史 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A História da Minha Luta contra Satã
 
@@ -986,7 +1321,7 @@ Gostaria de fazer aqui uma ressalva. Qualquer pessoa com o mínimo de discernime
 
 **Categoria:** ti | **Ano:** 昭和26(1951)年7月18日 | **Fonte:** Eikou
 **Título Original:** 地上天国の構想 | **Status:** Published | **Edição/Página:** 113号 | **Data ISO:** 1951-07-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Concepção do Paraíso Terrestre
 
@@ -1008,7 +1343,7 @@ Contudo, por ser o primeiro modelo a ser construído, sua escala não é tão va
 
 **Categoria:** wa | **Ano:** 昭和27(1952)年 | **Fonte:** 私物語
 **Título Original:** 私と映画 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 私物語
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 私物語
 
 ## Minha Relação com o Cinema
 
@@ -1034,7 +1369,7 @@ Comparada a essa profundidade, a superficialidade do cinema japonês é lastimá
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年8月19日 | **Fonte:** Eikou
 **Título Original:** 超科学 | **Status:** Published | **Edição/Página:** 222号 | **Data ISO:** 1953-08-19
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Supraciência
 
@@ -1052,7 +1387,7 @@ O ser humano é, inegavelmente, o senhor de toda a criação, o rei e o soberano
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年4月9日 | **Fonte:** Eikou
 **Título Original:** 力 | **Status:** Published | **Edição/Página:** 151号 | **Data ISO:** 1952-04-09
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Princípio do Poder
 
@@ -1072,7 +1407,7 @@ Por esses motivos, embora eu deseje revelar mais detalhes, sei que seria imposs�
 
 **Categoria:** ti | **Ano:** 昭和24(1949)年7月20日 | **Fonte:** Chijo Tengoku
 **Título Original:** 超宗教 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1949-07-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 地上天国
 
 ## O Advento da Salvação Suprarreligiosa
 
@@ -1094,7 +1429,7 @@ Ao observarmos o mundo atual sob essa perspectiva, os que possuem discernimento 
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年10月7日 | **Fonte:** Eikou
 **Título Original:** 超愚 | **Status:** Published | **Edição/Página:** 229号 | **Data ISO:** 1953-10-07
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Suprema Insensatez
 
@@ -1122,7 +1457,7 @@ Compreende-se, assim, a minha motivação. Para fazer com que as pessoas enxergu
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年5月20日 | **Fonte:** Eikou
 **Título Original:** 注意 | **Status:** Published | **Edição/Página:** 209号 | **Data ISO:** 1953-05-20
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Alerta aos Fiéis
 
@@ -1140,7 +1475,7 @@ Sekai Kyusei Kyo
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年10月1日 | **Fonte:** Eikou
 **Título Original:** 調和の理論 | **Status:** Published | **Edição/Página:** 176号 | **Data ISO:** 1952-10-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Essência da Harmonia Universal
 
@@ -1158,7 +1493,7 @@ Em outros termos, a percepção da desarmonia corresponde a uma visão limitada,
 
 **Categoria:** ti | **Ano:** 昭和26(1951)年6月13日 | **Fonte:** Eikou
 **Título Original:** 地上天国を造る | **Status:** Published | **Edição/Página:** 108号 | **Data ISO:** 1951-06-13
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## O Advento da Verdadeira Civilização
 
@@ -1210,7 +1545,7 @@ Pelo exposto, os senhores hão de compreender que nossa Igreja não é meramente
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 直観の哲学 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Filosofia da Intuição
 
@@ -1236,7 +1571,7 @@ Nesse sentido, nossa maneira de ver as coisas também deve reconhecer com clarez
 
 **Categoria:** wa | **Ano:** 昭和5(1930)年11月1日 | **Fonte:** 宇宙
 **Título Original:** 私の歩んだ信仰生活 | **Status:** Published | **Edição/Página:** 17号 | **Data ISO:** 1930-11-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 宇宙
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 宇宙
 
 ## Relato de Minha Vida de Fé
 
@@ -1300,7 +1635,7 @@ Ao olhar para trás, vejo que a primeira metade de minha vida foi um verdadeiro 
 
 **Categoria:** ti | **Ano:** 昭和11(1936)年2月8日 | **Fonte:** 新日本医術書
 **Título Original:** 治療方法 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936-02-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Prática da Terapia Divina
 
@@ -1322,7 +1657,7 @@ Por fim, uma palavra sobre a correta atitude mental durante a ministração. É 
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年 | **Fonte:** Igaku Kakumei no Sho
 **Título Original:** 中風でも此通り治る 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1953
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 医学革命の書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 医学革命の書
 
 ## Um Milagre que Revolucionará a Medicina
 
@@ -1338,7 +1673,7 @@ Diante disso, se a paralisia, considerada uma das enfermidades mais refratárias
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年6月18日 | **Fonte:** Eikou
 **Título Original:** 治療という言葉 医学断片集（13） | **Status:** Published | **Edição/Página:** 161号 | **Data ISO:** 1952-06-18
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Natureza do Tratamento Médico
 
@@ -1358,7 +1693,7 @@ Com base neste princípio, os tratamentos e as terapias se revelam, portanto, de
 
 **Categoria:** ti | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 治療に就ての注意 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## Observações Essenciais sobre o Tratamento
 
@@ -1380,7 +1715,7 @@ Há, neste ponto, um princípio de suma importância a ser compreendido. Trata-s
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 智慧の光 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## A Luz da Sabedoria
 
@@ -1404,7 +1739,7 @@ Diante de tudo o que foi exposto, o ser humano deve compreender que nada pode pr
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年 | **Fonte:** Bunmei no Sozo
 **Título Original:** 地上天国 未発表 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1952
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 文明の創造
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 文明の創造
 
 ## A Verdadeira Causa da Doença e o Fim do Sofrimento
 
@@ -1424,7 +1759,7 @@ Apesar do surgimento de resultados tão assombrosos na cura de doenças em nosso
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年11月12日 | **Fonte:** Eikou
 **Título Original:** 注意 | **Status:** Published | **Edição/Página:** 182号 | **Data ISO:** 1952-11-12
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Conduta Correta Diante da Cura Milagrosa
 
@@ -1440,7 +1775,7 @@ Uma vez que Deus se digna a conceder-nos tão grandiosa graça, a prioridade má
 
 **Categoria:** ti | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 地上天国 | **Status:** Published | **Edição/Página:** P.7 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## A Realidade do Paraíso Terrestre
 
@@ -1466,7 +1801,7 @@ Se o Paraíso Terrestre é o mundo dos felizes, o que seria então a sua verdade
 
 **Categoria:** ti | **Ano:** 昭和18(1943)年10月5日 | **Fonte:** Asu no Ijutsu 第一編
 **Título Original:** 長命の秘訣 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-10-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術 第一編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術 第一編
 
 ## O Segredo da Longevidade
 
@@ -1498,7 +1833,7 @@ Acredito que, no caso do povo japonês, a alimentação seja o fator que mais in
 
 **Categoria:** ti | **Ano:** 昭和24(1949)年5月25日 | **Fonte:** -
 **Título Original:** 智慧の光 | **Status:** Published | **Edição/Página:** 10号 | **Data ISO:** 1949-05-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Sabedoria Divina versus Astúcia Mundana
 
@@ -1522,7 +1857,7 @@ Por todo o exposto, é imperativo que o ser humano compreenda que nada prosperar
 
 **Categoria:** ti | **Ano:** 昭和26(1951)年1月15日 | **Fonte:** Shizen Noho Kaisetsu
 **Título Original:** 虫害 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1951-01-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自然農法解説
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自然農法解説
 
 ## A Verdadeira Causa das Pragas e das Doenças
 
@@ -1548,7 +1883,7 @@ Pode-se, assim, vislumbrar a drástica redução no número de doentes que ocorr
 
 **Categoria:** ti | **Ano:** 昭和18(1943)年2月5日 | **Fonte:** Asu no Ijutsu（再版）第二編
 **Título Original:** 長命の秘訣 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（再版）第二編
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 明日の医術（再版）第二編
 
 ## O Segredo da Longevidade
 
@@ -1582,7 +1917,7 @@ Embora não se saiba com exatidão quão longevos são os eremitas imortais, li 
 
 **Categoria:** ti | **Ano:** 昭和12(1937)年8月 | **Fonte:** 治療解除歎願書
 **Título Original:** 治療解除歎願書 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1937-08
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## Súplica pela Revogação da Proibição da Terapia
 
@@ -1612,7 +1947,7 @@ Rogo, portanto, que me seja concedido o perdão e o auxílio com a maior brevida
 
 **Categoria:** ti | **Ano:** 昭和11(1936)年 | **Fonte:** 新日本医術書
 **Título Original:** 注射 | **Status:** Unknown | **Edição/Página:** - | **Data ISO:** 1936
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 新日本医術書
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 新日本医術書
 
 ## A Terapia por Injeções
 
@@ -1648,7 +1983,7 @@ Em suma, ao ponderarmos os prós e contras das injeções, constatamos que, embo
 
 **Categoria:** ti | **Ano:** 昭和38(1963)年6月15日 | **Fonte:** パンフレット
 **Título Original:** 昼夜転換の事象 未発表、年代不詳 | **Status:** Unpublished | **Edição/Página:** - | **Data ISO:** 1963-06-15
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** パンフレット
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** パンフレット
 
 ## O Marco da Transição da Noite para o Dia
 
@@ -1690,7 +2025,7 @@ Diante de todo o exposto, pode-se inferir que o dia 15 de junho do sexto ano da 
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年7月22日 | **Fonte:** Eikou
 **Título Original:** 超奇蹟 | **Status:** Published | **Edição/Página:** 218号 | **Data ISO:** 1953-07-22
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Um Milagre para Além de Todos os Milagres
 
@@ -1779,7 +2114,7 @@ Meishu-Sama, muito, muito obrigado. Através deste relato da purificação conce
 
 **Categoria:** ti | **Ano:** 昭和18(1943)年11月23日 | **Fonte:** 結核の正体
 **Título Original:** 注射療法に就て | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1943-11-23
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 結核の正体
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 結核の正体
 
 ## Sobre a Terapia Injetável
 
@@ -1819,7 +2154,7 @@ Em suma, é imperativo que a sociedade reconheça plenamente que ainda não exis
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年1月30日 | **Fonte:** 自観説話集
 **Título Original:** 超宗教 (再録) 自観叢書12編 | **Status:** Published | **Edição/Página:** 6号 | **Data ISO:** 1950-01-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観説話集
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観説話集
 
 ## O Advento da Salvação Suprarreligiosa
 
@@ -1841,7 +2176,7 @@ Ao se observar o mundo contemporâneo sob essa ótica, os homens de discerniment
 
 **Categoria:** ti | **Ano:** 昭和24(1949)年5月30日 | **Fonte:** -
 **Título Original:** 直観の哲学 | **Status:** Published | **Edição/Página:** 号外 | **Data ISO:** 1949-05-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** -
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** -
 
 ## A Filosofia da Intuição
 
@@ -1869,7 +2204,7 @@ Seguindo essa lógica, a maneira de analisar a religião e a cultura também dev
 
 **Categoria:** ti | **Ano:** 昭和22(1947)年2月5日 | **Fonte:** 天国の福音
 **Título Original:** 長命の秘訣 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1947-02-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 天国の福音
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 天国の福音
 
 ## O Segredo da Longevidade
 
@@ -1899,7 +2234,7 @@ Outro exemplo histórico é o do imperador Qin Shi Huang da China, que, desejoso
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年6月24日 | **Fonte:** Eikou
 **Título Original:** 近頃の世相 | **Status:** Published | **Edição/Página:** 214号 | **Data ISO:** 1953-06-24
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Reflexões sobre a Sociedade Contemporânea
 
@@ -1923,7 +2258,7 @@ Nesse sentido, a única instituição que compreende esta verdade em sua totalid
 
 **Categoria:** ti | **Ano:** 昭和27(1952)年1月1日 | **Fonte:** Eikou
 **Título Original:** 地上天国に就て | **Status:** Published | **Edição/Página:** 137号 | **Data ISO:** 1952-01-01
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## Sobre a Construção do Paraíso Terrestre
 
@@ -1949,7 +2284,7 @@ Portanto, todo aquele que visitar este paraíso terá a oportunidade de purifica
 
 **Categoria:** ti | **Ano:** 昭和28(1953)年1月14日 | **Fonte:** Eikou
 **Título Original:** 注意 | **Status:** Published | **Edição/Página:** 191号 | **Data ISO:** 1953-01-14
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 栄光
 
 ## A Retidão do Servidor e a Pureza do Donativo
 
@@ -2068,7 +2403,7 @@ Quanto às enormes discrepâncias nos valores de donativos mencionadas anteriorm
 
 **Categoria:** ti | **Ano:** 昭和23(1948)年9月5日 | **Fonte:** Shinko Zatsuwa
 **Título Original:** 地球は呼吸する | **Status:** Published | **Edição/Página:** P.55 | **Data ISO:** 1948-09-05
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 信仰雑話
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 信仰雑話
 
 ## A Respiração da Terra
 
@@ -2088,7 +2423,7 @@ Abordemos agora as manchas solares. Embora tenham sido objeto de inúmeras discu
 
 **Categoria:** ti | **Ano:** 昭和25(1950)年6月3日 | **Fonte:** Kyusei
 **Título Original:** 地上天国の一考察 | **Status:** Published | **Edição/Página:** 65号 | **Data ISO:** 1950-06-03
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 救世
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 救世
 
 ## A Construção do Mundo da Beleza
 
@@ -2108,7 +2443,7 @@ Por todo o exposto, pode-se afirmar que nossa Igreja é a primeira a ter recebid
 
 **Categoria:** ti | **Ano:** 昭和24(1949)年8月30日 | **Fonte:** 自観隨談
 **Título Original:** 彫刻 ･日本美術とその将来（2） 自観叢書第5編 | **Status:** Published | **Edição/Página:** P.64 | **Data ISO:** 1949-08-30
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 自観隨談
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 自観隨談
 
 ## Reflexões sobre a Arte da Escultura
 
@@ -2128,7 +2463,7 @@ Neste ponto, merece menção especial a estatuária budista da Antiguidade. O re
 
 **Categoria:** kikou | **Ano:** 昭和27(1952)年9月10日 | **Fonte:** Eikou
 **Título Original:** 参考文献 御光雑記 （三） 馬太（マタイ） | **Status:** Published | **Edição/Página:** 173号 | **Data ISO:** 1952-09-10
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 栄光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** - | **Fonte (JP):** 栄光
 
 ## Apontamentos sobre a Luz Divina (III)
 
@@ -2150,7 +2485,7 @@ Apesar disso, ingressaremos, inevitavelmente, na Era da Grande Purificação. Ch
 
 **Categoria:** ti | **Ano:** 昭和10(1935)年10月21日 | **Fonte:** Toho no Hikari
 **Título Original:** 治病に於ける観音力に就て | **Status:** Published | **Edição/Página:** 8号 | **Data ISO:** 1935-10-21
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 東方の光
+**Coletânea:** 岡田自観師の論文集 | **Tipo:** Ensaios | **Fonte (JP):** 東方の光
 
 ## Sobre o Poder de Kannon na Cura das Enfermidades
 
@@ -2189,244 +2524,6 @@ Essa grandiosa empreitada não pode ser levada a cabo apenas pelos que já atuam
 Seja como for, é um fato inegável que, assim como a civilização científica se aproxima de uma grande transição, a medicina também está às portas de uma profunda transformação. A prova irrefutável disso é o surgimento de um poder curativo de tal magnitude — algo que a ciência atual sequer poderia sonhar — cujos milagres aumentam em progressão acelerada a cada dia.
 
 Se considerarmos o progresso incessante da humanidade, tal surgimento não tem nada de estranho. É preciso despertar para o fato de que a atitude obstinada de se apegar à ciência, recusando-se a enxergar qualquer outra realidade, é um ato que obstrui o avanço da cultura e o bem-estar da humanidade. Do contrário, jamais conseguiremos apagar a pecha de “bárbaros culturais” que alguém um dia nos atribuiu.
-
----
-
-# O Segredo da Longevidade
-
-**Categoria:** ti | **Ano:** 昭和17(1942)年9月28日 | **Fonte:** Asu no Ijutsu（初版）第二編
-**Título Original:** 長命の秘訣 | **Status:** Published | **Edição/Página:** - | **Data ISO:** 1942-09-28
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 明日の医術（初版）第二編
-
-## O Segredo da Longevidade
-
-Não há quem não almeje a longevidade. Sendo assim, qual seria o método mais eficaz para alcançá-la? Desde a antiguidade, mencionam-se segredos para uma vida longa relacionados à alimentação, à bebida, ao banho e à vida sexual, baseados na experiência de pessoas longevas. Embora tais relatos possuam, inegavelmente, seu mérito, o método que aqui proponho demonstra-se cem por cento eficaz, tanto na teoria quanto na prática. Por essa razão, eu mesmo tenciono adotá-lo quando ultrapassar os noventa anos de idade.
-
-Conforme expliquei na seção anterior sobre a nutrição, o corpo humano possui funções capazes de gerar os nutrientes de que necessita. Portanto, o ponto primordial é intensificar a atividade dessas funções. Na infância e na juventude, tal atividade encontra-se em seu ápice, motivo pelo qual o desenvolvimento é tão vigoroso. Seguindo essa lógica, para se alcançar a longevidade, é preciso, antes de tudo, restabelecer a pujança infantil das funções nutritivas. Mas seria isso de fato possível? Creio que, até certo ponto, sim.
-
-O método consiste em uma alimentação extremamente frugal. Tal afirmação certamente surpreenderá o homem moderno, mas peço que reflitam profundamente sobre meus argumentos. Ao adotar uma dieta rigorosamente simples, as funções nutritivas são forçadas a operar com intensidade máxima para extrair os elementos necessários à subsistência. Desse modo, a força ativa, análoga à das funções de uma criança, ressurge, dando início ao que se pode chamar de rejuvenescimento funcional. E, se as funções rejuvenescem, é inevitável que todo o organismo siga o mesmo caminho.
-
-Para ilustrar, apresentarei alguns exemplos. Existe, desde tempos imemoriais, a palavra que designa os eremitas imortais. Embora o homem moderno costume acolher tal conceito com um sorriso de desdém, eles de fato existiram, e em número considerável no Japão, conforme atestam antigos documentos. As obras do célebre Hirata Atsutane, que narram a história de Torakichi e os feitos do *tengu* de Akiba, são registros notáveis. Em tempos mais recentes, a existência do eremita imortal Zuikei e de seu discípulo, o Sr. Goto Doaki — que, creio eu, ainda vive —, corrobora essa realidade.
-
-Contudo, a verdadeira pátria dos eremitas imortais é, sem dúvida, a Coreia. Certa vez, li em um livro sobre o método de treinamento ascético coreano. Segundo a obra, a alimentação desses eremitas consiste em uma massa de pó de folhas de pinheiro e farinha de trigo sarraceno, moldada em pães do tamanho de um *manju*. Inicialmente, comem três por dia. Após alguns anos de prática, reduzem a porção para dois e, finalmente, para apenas um pão diário. A maioria dos aspirantes consegue chegar até essa fase, mas o passo seguinte é de uma dificuldade extrema: a abstinência total desses pães e de qualquer outro alimento, subsistindo apenas com água. Trata-se de uma provação tão rigorosa que quase todos fracassam. Aqueles que, em raras ocasiões, logram êxito, tornam-se verdadeiros eremitas imortais. A antiga expressão de que eles “vivem do orvalho” refere-se, provavelmente, a esse estágio. Conforme avançam no treinamento, seus corpos se tornam extraordinariamente leves, permitindo-lhes percorrer velozmente vales e montanhas com a agilidade de um animal selvagem.
-
-Relato agora uma experiência pessoal. Em minha juventude, acometido por uma enfermidade pulmonar, adotei uma dieta estritamente vegetariana por mais de três meses para me curar, abstendo-me até mesmo de lascas de peixe bonito. Em decorrência desse regime, meu corpo tornou-se notavelmente leve, e eu costumava saltar de lugares altos com frequência. Lembro-me até hoje de que, mesmo ao olhar para baixo de grandes alturas, eu não sentia, curiosamente, nenhum temor. Posteriormente, ao retomar a alimentação convencional, meu estado físico gradualmente voltou ao normal. Houve também um período em que consumi carne em abundância; nessa época, sentia o corpo pesado e adoecia com facilidade. Os resultados só melhoraram quando restringi seu consumo.
-
-Com base nessas vivências, conjecturo que a notável força do povo japonês em tempos de guerra não se deve apenas ao seu poder espiritual. O fato de sua dieta ser mais rica em vegetais que a dos ocidentais, o que lhes confere, naturalmente, um corpo mais leve e ágil, é um fator que não pode ser negligenciado. Creio que essa seja uma das principais razões para a superioridade incomparável dos aviadores japoneses.
-
-Ainda sobre os aviadores, há outro ponto de suma importância: o bombardeio em mergulho. Diz-se que os ocidentais não conseguem executar essa manobra com a mesma destreza que os japoneses, pois, ao realizar um mergulho vertiginoso, eles chegam a expelir sangue pelos poros. Isso se deve, sem dúvida, ao consumo de carne. A dieta carnívora predispõe o organismo ao escorbuto, uma condição, como é sabido, em que os vasos sanguíneos se tornam frágeis e as hemorragias são difíceis de conter. A única exceção seriam os pilotos alemães na guerra atual, que realizam bombardeios em mergulho. O motivo é que o Sr. Hitler instituiu uma alimentação predominantemente vegetariana para suas tropas. De fato, anos antes do conflito eclodir, a Alemanha importava grandes volumes de soja da Manchúria justamente com esse propósito.
-
-Outro exemplo histórico remonta à Batalha de Port Arthur. A rendição do general Stessel, embora tenha sido, evidentemente, um triunfo da brilhante estratégia do general Nogi, também foi precipitada por outro fator: após o longo cerco, as tropas russas sofreram com a escassez de vegetais, e o número de soldados acometidos pelo escorbuto aumentava a cada dia.
-
-Ademais, no Japão, há relatos de samurais que, mesmo com o ventre trespassado ou perfurados por uma lança, conseguiam agarrar a arma e continuar falando por algum tempo. Tal feito seria absolutamente impossível para um ocidental. Quando feridos, os ocidentais sofrem hemorragias que dificilmente estancam; no caso dos japoneses, não só o sangramento cessa com mais facilidade, como se diz que a própria carne se contrai, aderindo à lâmina. Essas diferenças derivam unicamente do contraste entre uma alimentação vegetariana e uma carnívora.
-
-Quanto à longevidade dos eremitas imortais, embora não haja dados precisos, li em certa obra que o recorde registrado foi de oitocentos anos, alcançado por um único indivíduo, mas que muitos outros viveram entre quinhentos e seiscentos anos. Consequentemente, para um eremita imortal, falecer com duzentos ou trezentos anos era considerado uma morte prematura. Em outro livro, encontrei registros de dezenas de milhares de anos antes do Imperador Jimmu, escritos com notável precisão, que descreviam os feitos de nobres personalidades que viveram de duzentos a seiscentos anos.
-
-Pessoalmente, imagino que a alimentação seja o fator de maior influência na longevidade do povo japonês. Na mais remota antiguidade, a dieta era exclusivamente vegetariana. O consumo de seres vivos iniciou-se com os mariscos, como provam os sambaquis encontrados em várias regiões do nosso país. Os povos daquela era não dominavam a arte da pesca, então começaram pelo que era mais fácil de coletar. Mais tarde, aprenderam a pescar e passaram a consumir peixes. Mesmo nessa época, viver mais de cem anos era algo corriqueiro. Todavia, como mencionei anteriormente, a chegada da medicina chinesa encurtou drasticamente a expectativa de vida. Com o advento da Era Meiji, a introdução do consumo de carne e da medicina ocidental não só abreviou ainda mais a vida, como também fez com que a constituição física do povo se deteriorasse.
-
-É também um fato que os japoneses da antiguidade eram de compleição robusta e de bravura extraordinária. Naquela época, a terra era habitada por feras e serpentes gigantes que espalhavam o terror por toda parte; imaginar que nossos ancestrais as subjugaram em uma era sem pólvora já nos dá uma medida de sua coragem. A história registra que o Príncipe Yamato Takeru no Mikoto possuía um físico imponente. O relato de sua morte — ocorrida após ele ter a ousadia de passar por cima de uma serpente gigante e ser atingido por seu veneno — permite vislumbrar sua audácia sem par. Um homem de hoje, em vez de passar por cima de tal criatura, certamente fugiria em pânico à sua simples vista. Da mesma forma, a lenda de Susanoo no Mikoto, que subjugou a serpente de oito cabeças, Yamata no Orochi, junto ao rio Hi, cujo sangue tingiu as águas de vermelho, é outro testemunho da valentia formidável de nossos antepassados.
-
----
-
-# Reflexões sobre a Arte Floral de Meishu-Sama
-
-**Categoria:** kikou | **Ano:** 昭和25(1950)年12月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 明主様の活花雑感 井上茂登吉 | **Status:** Published | **Edição/Página:** 19号 | **Data ISO:** 1950-12-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
-
-## Reflexões sobre a Arte Floral de Meishu-Sama
-
-Os membros que se dirigem em peregrinação ao Nikko-den decerto se deparam com as flores sempre viçosas dispostas no altar divino. Contudo, quão raros serão aqueles que as contemplam a ponto de se sentirem cativados por sua beleza pulsante? Se porventura alguém as observa com mais atenção, certamente se impressiona com a destreza divina que ali se manifesta. Embora os arranjos sejam muitas vezes magnânimos e audaciosos, harmonizam-se com tamanha perfeição ao espaçoso *tokonoma* do altar que sua impecável execução nos arranca suspiros de admiração. O que poucos sabem, entretanto, é que todos eles são criados pelas próprias mãos de Meishu-Sama.
-
-Como é sabido, o *tokonoma* daquele altar é maior que o usual, e, por se tratar do altar de um grande salão, as flores utilizadas precisam ter um porte considerável. Além disso, arranjos excessivamente ornamentados não seriam apropriados, de modo que a escolha do material floral adequado seria uma tarefa de extrema dificuldade para mãos comuns. Todavia, basta que Meishu-Sama percorra os jardins do Santuário para que o material perfeito se revele a Ele. Segundo relatos, essa seleção ocorre de forma notavelmente simples, sem grande esforço de Sua parte. Recordo-me de Ele próprio afirmar: “Nisto, assim como na criação de jardins, reside um profundo mistério”. Com efeito, a flor ou o galho a ser colhido, o momento e o lugar exatos, tudo já parece predeterminado por uma profunda Vontade Divina, o que nos faz compreender que a própria escolha do material já é, em si, um ato de maestria divina.
-
-Ainda que isto possa parecer uma digressão, o fato de Meishu-Sama, que se dedica noite e dia à salvação da humanidade, encontrar tempo para cuidar pessoalmente dos arranjos em nosso templo, renovando-os constantemente, é um gesto de um desvelo tão sublime que nos deixa simplesmente estupefatos. E, no entanto, ao refletirmos, damo-nos conta de que, durante nossas visitas, não só éramos indiferentes às flores, como por vezes nem mesmo notávamos um grão de poeira. Em verdade, não teríamos palavras para nos defender, ainda que nos chamassem de vermes. Certa vez, o puxador de uma porta na entrada do salão da Sede Provisória de Atami permaneceu quebrado por meses, até que o fato chamou a atenção de Meishu-Sama. Naquela ocasião, nós, os dedicantes da Sede, recebemos uma severa admoestação, juntamente com o seguinte ensinamento: “Aqueles que desejam servir a Deus devem ser atenciosos e cuidadosos em todas as coisas”. Havíamos perdido essa sensibilidade, como se fôssemos desprovidos dela. Em outras palavras, faltava-nos sinceridade, o que equivale a não possuir fé. A constatação dessa falha nos trouxe um sentimento de vergonha avassalador.
-
-Recentemente, nas ocasiões em que sou recebido em seus aposentos, meus olhos são invariavelmente atraídos para o arranjo floral no *tokonoma*, que a cada visita me revela uma nova e sublime expressão artística. Há momentos em que, ao vislumbrá-lo, sinto-me arrebatado por sua força e elevada nobreza, envolvido por uma sensação quase mística. Então, com grande simplicidade, Meishu-Sama me esclarece:
-
-“Muitos me perguntam se dedico grande esforço para criar arranjos como este, mas a verdade é que não me custa trabalho algum. Nada de bom pode ser criado sob esforço. Quando faço um arranjo, já corto as flores no tamanho exato desde o início e as posiciono de uma só vez. Assim, não perco tempo nem tenho dificuldade. Se você começa a torcer ou a manipular demais uma flor, ela morre. O segredo é a respiração. É por isso que as flores que arranjo estão sempre vivas. Além disso, o arranjo deve ser perfeitamente natural e harmonizar-se por completo com o *tokonoma*, o pergaminho, os objetos decorativos e o vaso.”
-
-Compreendi então que tal feito transcende a capacidade da mente comum. De fato, observando atentamente, nota-se que cada flor, cada folha e cada caule, em sua cor e dimensão, está posicionado sem a menor falha ou excesso, expressando o ápice de sua beleza inerente, pulsando com a própria essência da natureza. Ademais, o conjunto se funde em absoluta sintonia com o vaso, o *tokonoma* e todos os elementos ao redor, vivificando o espaço com uma nobreza límpida que perfuma a alma de quem o contempla. Foi a primeira vez que percebi quão poderosa pode ser a beleza contida em uma única flor ou em uma simples folha. A beleza do arranjo concluído parece dominar a expressão de todo o ambiente, tecendo uma atmosfera sublime. Eis o que deve ser o zênite da arte. Não se trata de uma beleza meramente estética; nela, a verdade e o bem pulsam de forma indissociável. O que poderia ser, senão a arte de Deus, que a tudo vivifica?
-
-Costumo aguardar longamente nesses aposentos sem jamais me entediar. Isso se deve, sem dúvida, ao ambiente paradisíaco, mas também à beleza cativante desses arranjos florais. Uma senhora que me acompanhava, pessoa de profundo conhecimento em ikebana, tendo estudado por anos com um mestre renomado, confidenciou-me que, recentemente, passou a sentir que as obras de seu antigo mestre pareciam vulgares e insuportáveis. Ela mesma concluiu que, ao entrar em contato com a arte de Meishu-Sama, seu senso estético fora elevado a um novo patamar, de maneira quase imperceptível. Compartilho plenamente de seu sentimento e reconheço que Meishu-Sama está, também neste campo, a criar um novo e elevado padrão de beleza. É maravilhoso e quase inimaginável pensar no infinito mundo de beleza que Ele ainda desbravará por meio das flores.
-
-Contudo, a sublime e vibrante beleza destes arranjos florais ocupa o espaço por apenas um instante, desvanecendo-se continuamente. Creio não ser o único a sentir uma profunda consternação diante de tal efemeridade. Se pudéssemos, de alguma forma, perenizar essa primorosa arte de Meishu-Sama, em vez de permitir que se perca tão fugazmente, quão imenso seria o benefício para as gerações futuras! A única via para realizar tal anseio reside na fotografia colorida de alta qualidade. Portanto, rogo encarecidamente aos membros que ofereçam esta valiosa ferramenta, a fim de que possamos acrescentar um brilho imortal às páginas da história da arte mundial.
-
----
-
-# O Grande Deus da Saúde Plena
-
-**Categoria:** kikou | **Ano:** 昭和28(1953)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 健全大御神 瓢箪 | **Status:** Published | **Edição/Página:** 52号 | **Data ISO:** 1953-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
-
-## O Grande Deus da Saúde Plena
-
-O fato que passo a relatar ocorreu por volta de 1941 ou 1942, período em que Meishu-Sama, recolhido em Hozanso, em Tóquio, se retirara da linha de frente da Obra Divina para se dedicar exclusivamente à formação de instrumentos da salvação. Naquela época, um homem peculiar, de aproximadamente cinquenta anos, costumava nos visitar vindo da cidade de Yokosuka.
-
-Ele atuava como gerente no departamento de alimentos do Clube da Marinha, uma posição de comando que contrastava de maneira intrigante com sua aparência apática e seu discurso por vezes vago e desconexo. Embora um parente, membro da nossa fé, já lhe tivesse falado sobre Meishu-Sama, ele não dera maior importância ao assunto. Certo dia, contudo, sentindo-se como que impelido por uma força invisível, visitou-nos em Tamagawa pela primeira vez. Sendo ele, originalmente, um seguidor do budismo de Nichiren, e considerando os boatos maliciosos que circulavam na época, sua percepção de Meishu-Sama — que não ostentava qualquer adorno religioso — não ia além da de um fundador de uma terapia popular singular. Consequentemente, não nutria por Ele sentimento algum de veneração ou fé.
-
-Todavia, pouco tempo após sua primeira visita a Hozanso, ocorreu em sua casa um evento inesperado: sua visão espiritual se abriu. Passou, então, a contemplar a sublime figura de um nobre Espírito Divino, o Deus Dragão Dourado e uma miríade de outros fenômenos espirituais. Ademais, começou a receber revelações diretas de um Grande Deus. Essas revelações manifestavam-se geralmente como pensamentos que lhe vinham à mente, mas por vezes também como vozes audíveis. Recebeu, então, a ordem divina de transcrever fidedignamente tudo o que lhe era mostrado e reportá-lo a Meishu-Sama. Obedecendo à ordem sagrada, ele passou a registrar em textos e desenhos os fenômenos espirituais que presenciava, apresentando-os a Meishu-Sama.
-
-Esse Deus não lhe revelou Seu nome, identificando-Se apenas como o “Deus Oculto”. No entanto, pelo conteúdo extremamente elevado de Suas revelações, pude intuir, e as palavras de Meishu-Sama vieram a confirmar de forma inequívoca, que se tratava de um magnífico Grande Deus que governa livremente o mundo. Aparentemente, era por este método que Ele reportava a Meishu-Sama assuntos essenciais concernentes ao Seu Plano Divino e às Suas atividades correntes. De fato, era recorrente na Obra de Meishu-Sama que informações de suma importância Lhe fossem transmitidas por intermédio de pessoas que, à primeira vista, poderiam parecer insignificantes.
-
-Certa vez, tive a oportunidade de ler uma revelação na qual o Deus Oculto instruía aquele homem com as seguintes palavras, ou um sentido muito próximo a este: “De hoje em diante, devereis reverenciar o nome de Meishu-Sama como *Ame-no-Minaka-Nushi-Kenja-Ookami*.” Recordo-me até hoje da profunda comoção que senti naquele momento. (A propósito, o homem dizia ter certeza do ideograma *Ken*, mas não do ideograma *Ja*, que lhe parecia um equívoco de sua parte. Suspeita-se que o correto pudesse ser *Kenzen* ou *Kensei*). Embora ele não compreendesse a profundidade desse nome, para mim era evidente que não poderia haver designação mais engenhosa e apropriada. Naquela época, sob a opressão das autoridades, quando Meishu-Sama partilhava com a humanidade um poder de cura sem precedentes sob o disfarce de uma terapia popular, chamá-Lo por um nome Divino era um ato de grande significado. Fiquei longamente a admirar a sublime perfeição com que esse nome expressava, em uma única palavra, Sua condição divina, Suas virtudes e Sua missão de construir o Mundo Ideal, uma clareza de expressão que somente um Grande Deus de tão elevada estirpe poderia conceber.
-
-Refletindo sobre este nome Divino, cheguei, em minha própria meditação, à seguinte compreensão: *Ame-no-Minaka* pode significar o centro do Céu, o centro do Grande Universo, a Terra, o ponto primordial de Su (○ヽ), ou ainda, a totalidade de todas as coisas. Já *Kenja-Ookami* seria “o Grande Deus que a tudo torna saudável e íntegro”. Fica claro, portanto, que para reerguer este mundo doente e em estado terminal — um mundo mergulhado no caos, na degradação e na agonia da doença, pobreza e conflito, sem esperança de recuperação — é indispensável o poder infinito e absoluto do Supremo Deus, o único capaz de salvar toda a existência. Jamais existiu sobre a Terra um nome tão sublime e grandioso.
-
-Passadas mais de uma década, a veracidade daquele nome Divino vem sendo confirmada por uma realidade assombrosa, tornando minha convicção ainda mais profunda e inabalável. Creio firmemente que, com o passar dos dias, toda a humanidade tomará conhecimento deste fato.
-
-Hoje, por meio do grandioso poder de Meishu-Sama, experimentamos uma felicidade e uma alegria crescentes, oriundas da verdadeira saúde que nos foi concedida pela primeira vez. A manifestação de Seu poder divino intensifica-se a cada dia, operando milagres tão extraordinários que surpreendem até mesmo nossas mentes, já habituadas a eles. O aumento de tais prodígios no futuro é algo que transcende a imaginação, e por meio dessa força, não resta dúvida de que um mundo isento de doenças pode ser facilmente concretizado. Paralelamente, pela sabedoria divina de Meishu-Sama, todas as áreas da cultura, hoje doentes e primitivas — como a arte, a ciência, a agricultura, a política, a economia, o pensamento, a educação e a organização social —, darão um grande salto evolutivo, transformando-se em uma cultura sadia. É fácil, portanto, crer no advento de uma nova civilização, na qual toda a humanidade se inebriará de felicidade.
-
-Recentemente, ademais, foi cientificamente comprovado que a Terra está se aquecendo de forma notável, e as zonas de frio extremo, inabitáveis para o ser humano, estão diminuindo. Este fenômeno pode ser visto como um sinal de que o planeta caminha para um estado de maior perfeição, constituindo uma das grandes mudanças preparatórias para o advento do Mundo Ideal que Meishu-Sama está a construir.
-
-Assim, enquanto todas as máculas são purificadas e destruídas, por outro lado, as pessoas, os objetos, a cultura, o céu e a terra — enfim, tudo o que existe no centro do universo — avança para sua forma íntegra e saudável. Não é, portanto, um mero salto de fé afirmar que a grande Obra Divina para o advento do Mundo de Miroku está progressivamente se realizando.
-
-Quão sublime é a Obra Divina de *Ame-no-Minaka-Nushi-Kenzen-Ookami*!
-
-E as realizações de Meishu-Sama, o artífice que a concretiza, abalam o mundo com Sua atuação multiforme e transformadora, em uma escala que transcende por completo a compreensão da mente humana.
-
----
-
-# Crônicas da Alvorada da Fé: Ensinamentos de Janeiro e Fevereiro de 1935
-
-**Categoria:** kikou | **Ano:** 昭和28(1953)年8月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 明主様の御眼力 （十一） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 51号 | **Data ISO:** 1953-08-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
-
-## Crônicas da Alvorada da Fé: Ensinamentos de Janeiro e Fevereiro de 1935
-
-No dia 14 de janeiro, ao me apresentar no Ōjindō (応神堂), tive o privilégio de ouvir os preciosos Ensinamentos que Meishu-Sama dirigia aos seus servidores mais próximos. Ele nos advertiu: "Não é momento para hesitações; entramos na era da ação decidida. Permanecer com a mesma mentalidade de sempre é inadmissível." Em seguida, Sua explanação aprofundou-se na Conduta de Kannon (観音行), esclarecendo que a sua verdadeira essência reside em observar e relatar todas as coisas, boas ou más, com absoluta imparcialidade. Essa é a mente de Kannon. Julgar como inteiramente malévolas as ações daqueles que se opõem a nós não corresponde à verdade, pois até nas palavras dos opositores e dos que praticam o mal pode haver algo de útil. Portanto, é imperativo analisar tudo com isenção, para não incorrermos em erro. Trata-se de um Ensinamento que cala fundo na alma, pois nos alerta contra uma tendência à qual somos todos suscetíveis, exigindo de nós constante vigilância.
-
-Enquanto eu lhe apresentava meu relatório e ouvia suas palavras no Ōjindō (応神堂), Meishu-Sama escrevia um de seus manuscritos. Fiquei assombrado, como sempre, com sua extraordinária capacidade intelectual, pois, no breve tempo de nossa conversa, Ele redigiu nove páginas.
-
-A noite de 16 de janeiro foi marcada pela reunião literária que, naquela data, foi rebatizada como Shionkai (紫苑会), celebrando sua sessão inaugural. O evento foi um grande sucesso. Fui honrado com os prêmios de prestígio, excelência e harmonia na categoria de *waka*, recebendo papéis decorativos e tiras de caligrafia. Na modalidade de poesia humorística, o *E-kanku*, alcancei a distinção máxima. O prêmio consistia em um livro preciosíssimo, intitulado *Mamu-jō* (媽無情), que trazia o título caligrafado por Meishu-Sama e Sua impressão digital, um selo que Ele invariavelmente apunha em tais ocasiões.
-
-Ao me apresentar no dia 17 de janeiro, encontrei Meishu-Sama instruindo dois membros da diretoria. Pude, assim, ouvir o seguinte Ensinamento: "A Obra de Kannon (観音) visa criar um mundo isento de doença, pobreza e conflito. Portanto, aqueles cujas palavras e atos provocam discórdia onde havia paz agem em sentido contrário. E apoiar tais pessoas é algo absolutamente inaceitável. Não se deixem influenciar pelas palavras alheias. É terminantemente proibido reunir-se na casa de outros após a meia-noite. Doravante, se houver necessidade de conversas, que se realizem em reuniões informais na Sede Central."
-
-Este Ensinamento era, na verdade, um protótipo de um evento de grande importância que ocorreria futuramente, um movimento no qual as pessoas se veem envolvidas sem se dar conta. A respeito desse incidente, dois dias depois, em 19 de janeiro, o senhor Yoshihide Takei, responsável pelo Johrei Center de Omiya, veio procurar-me em minha casa, em Omori, externando grande indignação. Após acalmá-lo e despedir-me, relatei o ocorrido a Meishu-Sama, que me esclareceu: "Um dos lados está representando o protótipo da Shōwa Shinseikai (昭和神聖会), enquanto Takei e Masaki representam o protótipo das autoridades. Trata-se de um problema que inevitavelmente surgirá no futuro." Esse protótipo, de fato, manifestou-se claramente ainda naquele ano, mas escreverei sobre isso na ocasião oportuna.
-
-Naquele mesmo dia, um novo quadro com a caligrafia "Luz do Oriente" foi instalado na Sede Provisória, assinalando o início das grandiosas atividades da Luz do Oriente. E, naquela noite, o senhor Seitaro Shimizu, por volta das onze horas, queimou o quadro com a caligrafia "Sango-dō" (三五堂). Por ter chegado a sua hora, tornara-se desnecessário e foi substituído por outra caligrafia. Exatamente no momento da queima, teve início um eclipse lunar. Fomos levados por Deus a queimá-lo sem que o soubéssemos. Com o surgimento da Luz do Oriente, a caligrafia Sango-dō — cujo nome alude à lua da décima quinta noite — foi queimada, e o eclipse começou. Isso representa, de forma magnífica, a missão divina em que, com o nascer do Sol, a Lua perde o seu brilho.
-
-No dia 21, o senhor Kawasaki, um intelectual graduado na universidade com estudos na Alemanha e na Índia, que vinha me procurando para aprender sobre Kannon (観音), soube de uma preleção e pediu insistentemente que o levasse. Juntos, participamos da cerimônia e ouvimos a palestra de Meishu-Sama, o que o deixou profundamente comovido. Declarou que abandonaria seus estudos acadêmicos para se dedicar à Obra Divina. No dia seguinte, 22, ele novamente se encontrou com Meishu-Sama e, à noite, participamos juntos da Cerimônia Mensal da Tōkōsha. O senhor Kawasaki, em estado de grande comoção, pediu permissão para falar e proferiu um testemunho vibrante. Mais tarde, acompanhando-nos de volta ao Ōjindō (応神堂) para ouvir os Ensinamentos, ele relatou, exultante, ter visto por três vezes uma luz carmesim emanar do corpo de Meishu-Sama, dirigir-se ao altar de Kannon (観音) e desaparecer. Cheio de entusiasmo, afirmava que propagaria amplamente as palavras de Meishu-Sama em hindi e alemão por toda a Índia, Alemanha e outros países. Contudo, devido a certo incidente, essa pessoa deixou de frequentar a Igreja.
-
-Em 23 de janeiro de Showa 10, recebemos a orientação de que o título honorífico de Meishu-Sama, até então "Sensei", passaria a ser "Dai-Sensei" (Grande Mestre).
-
-No dia 31 de janeiro, dirigi-me à sede do jornal *Aizen Shimbun* (publicado pela Ōmoto) e saldei todas as contas pendentes, encerrando assim minha atividade como distribuidor do periódico. Na ocasião, disseram-me: "Mesmo tendo se desligado da Ōmoto, a dedicação e o mérito do senhor Okaniwana na distribuição do nosso jornal são imensos e, certamente, permanecerão como um legado para a posteridade."
-
-Em 1º de fevereiro do mesmo ano, após visitar os membros da diretoria para obter suas assinaturas e formalizar o pedido de dissolução do nosso Johrei Center, senti um grande alívio e me dirigi à Sede Central para a Cerimônia Mensal. Nessa ocasião, um senhor de nome Yamada, que anteriormente havia ofertado uma grande estátua de Daikokuten, relatou ter sonhado que, ao oferecer arroz branco à deidade, todos os grãos se tornaram dourados. Seguindo a visão do sonho, ele trouxe três tigelas de arroz branco e as depositou diante da estátua. Meishu-Sama denominou aquele arroz "Arroz de Grãos de Ouro" e o distribuiu aos fiéis durante a Cerimônia do Setsubun.
-
-No dia 4 de fevereiro, Meishu-Sama realizou um importante protótipo do Plano Divino ao entronizar a deidade Ushitora no Konjin (艮の金神) na residência da família Kanetaka. Somente após esse ato, Ele oficiou a Cerimônia do Setsubun na Sede Central. Tratava-se de uma cerimônia crucial, pois estabelecia o modelo para o futuro.
-
-Durante a cerimônia de 12 de fevereiro, Ele nos concedeu as seguintes palavras: "Finalmente, adentramos a Era de Ushitora no Konjin (艮の金神). O mundo previsto nas escrituras da Ōmoto, o *Ofudesaki*, está se concretizando: *‘As flores da ameixeira desabrocham de uma só vez nos três mil mundos’, ‘Chegou a era de Ushitora no Konjin’* e *‘Inicia-se com a ameixeira e se consolida com o pinheiro a era do Paraíso Celestial’*. No quadragésimo quarto ano desde o surgimento da fundadora da Ōmoto e no décimo sexto ano desde o meu próprio início, a partir de 11 de fevereiro, a deidade Ushitora no Konjin (艮の金神) finalmente manifestou-se. E, como está escrito, *‘Quando Ushitora no Konjin se revelar, terá início a grande transição’*, essa grande transição está, de fato, começando." E Ele acrescentou: "É preciso seguir pela via da humildade, pois, sem a prática da virtude, o Paraíso não pode ser construído."
-
-No dia 14 de fevereiro, ao me apresentar no Ōjindō (応神堂), recebi a orientação de que, a partir daquela noite, as orações e outros rituais deveriam ser acompanhados por três palmas. Até então, seguíamos o costume da Ōmoto, com quatro palmas. Essa mudança para três palmas marcou mais um passo rumo à nossa completa independência.
-
-Em um Ensinamento proferido em 23 de fevereiro, ouvi o seguinte: "Os fiéis vivem falando em ‘virtude divina, virtude divina’, como se a primeira coisa a se esperar fosse receber dinheiro ou bens materiais. Contudo, a maior de todas as virtudes divinas é, acima de tudo, a graça de vivermos o dia a dia livres da doença e da desgraça."
-
----
-
-# Memórias do Pincel Sagrado de Meishu-Sama
-
-**Categoria:** kikou | **Ano:** 昭和27(1952)年9月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 クルリ瓢箪 瓢箪 | **Status:** Published | **Edição/Página:** 40号 | **Data ISO:** 1952-09-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
-
-## Memórias do Pincel Sagrado de Meishu-Sama
-
-Nos primórdios da era de Omori, quando o número de visitantes ainda era reduzido, era comum ver Meishu-Sama dedicando-se à composição de poemas *tanka* e *waka* ou à pintura em papéis especiais. Eu apreciava imensamente a atmosfera artística que emanava de seu deleite com essas atividades e sentia-me profundamente fascinado pelo desejo de perscrutar a nobreza e a riqueza de seus sentimentos.
-
-Naquela época, ainda que as imagens de Kannon (観音) fossem as mais frequentes, Ele também retratava divindades e Budas como Amaterasu Ookami, Shaka e Daruma, e, por vezes, pintava paisagens e cenas da natureza, como a neve, a lua e as flores, tanto em nanquim quanto em cores. Contudo, é desnecessário dizer que a salvação por meio de Kannon constituía a missão primordial de Meishu-Sama, sendo também o que os fiéis mais se regozijavam em receber. Por conseguinte, Ele passou a se dedicar exclusivamente a retratar Kannon, empregando o pincel com maestria sobre o papel *gasenshi*, e as obras, uma vez emolduradas, tornaram-se Imagens Sagradas. Por volta de 1931 e 1932, a pintura com o pincel sagrado já se consolidara como uma parte fundamental de Sua obra. Ocasionalmente, Ele se aprimorava em novas posturas para a imagem e criava diversos esboços.
-
-Nesse período, Suas atividades iniciavam-se à tarde, e Ele começava a pintar geralmente após as dez horas da noite. Para mim, era um deleite permanecer a seu lado, desfrutando do prazer de ser envolvido por seu manto espiritual e pelo fascínio de ver surgir, a cada vez, uma nova fisionomia divina. Meishu-Sama, todavia, jamais considerava a presença de alguém como um obstáculo ao seu ofício, e continuava a pintar mesmo enquanto conversava. As grandes obras que ainda hoje se conservam sob Sua guarda, como a Kannon Messias, a Kannon dos Cinco Budas Secretos e a imagem de Dai Miroku, que um dia foram entronizadas no Altar da Sede Central, datam dessa época. Durante a criação dessas pinturas, permaneci a seu lado em estado de contínua reverência e, ao término da obra, sem que nos déssemos conta, a noite já se dissipara, dando lugar à alvorada. Aquele instante de comoção, em que ouvíamos o cantar dos galos enquanto contemplávamos a face de um Deus grandioso, transbordando de infinito amor e de um profundo e misterioso encanto, é uma recordação que jamais se apagará de minha memória.
-
-Das obras mencionadas, por algum motivo, apenas a Kannon Messias não recebeu o sinete de Meishu-Sama. Na época, nós a chamávamos de Kannon do Nascer do Sol, e era misterioso o fato de que, sempre que essa imagem era exposta, o tempo se tornava mais quente e ensolarado. É digno de nota que todas as pinturas e caligrafias da era de Omori levam o sinete com o nome Kigetsu (暉月). O nome Kigetsu pode ser interpretado como ‘sol e lua’, o que, a meu ver, simboliza a atuação de Kannon.
-
-Posteriormente, ao adotar o pseudônimo *Akegarasu Aho* em substituição a *Asanebo*, Seus horários de dormir e despertar tornaram-se gradualmente mais cedo, e Ele passou a ter o hábito de manusear o pincel sempre ao som do rádio.
-
-Em maio de 1934, com Sua ida para o bairro de Kojimachi, teve início Sua missão no plano material. A partir de então, o número de fiéis começou a crescer e, com a agenda cada vez mais preenchida, Ele passou a caligrafar, além das imagens, o nome ‘Dai-Sei Kanzeon’ (大聖観世音) para as Imagens Sagradas.
-
-Em outubro do mesmo ano, conforme relatado no livro *Kiseki Monogatari* (Histórias de Milagres), Ele alugou o terceiro andar de um edifício recém-construído pertencente a um fiel, o salão de beleza Ruri, localizado nos fundos do Santuário Hie, em Akasaka Tamachi. Ali, estabeleceu um ateliê, para onde se dirigia todos os dias após encerrar seus afazeres em Hirakawacho. Isolando-se de todas as visitas e renovando seus pincéis e tinteiros, mergulhou de corpo e alma na pintura e concluiu Sua obra-prima insuperável: a venerável imagem de Senju Kannon (千手観音). Naquela época, o país vivia um período de grande agitação social, e um estado de emergência era proclamado por toda a nação. Foi nesse contexto que Meishu-Sama compôs o seguinte poema:
-
-"Ao pintar Kannon,
-sinto que todas as abominações deste mundo
-se distanciam por dez mil léguas."
-
-Imagino que esse fosse, de fato, Seu estado de espírito ao se sentar acima dos três mundos e transpor para o papel a imagem espiritual de Seu próprio corpo de mil mãos e mil olhos. Eu mesmo, em oferenda, compus:
-
-"Na quietude da noite,
-que prazeroso é o som
-do carvão de meu Mestre a tocar o papel."
-
-Com estes versos, tentei expressar, ainda que sutilmente, a indescritível sensação de bem-estar e o encanto místico que sentia ao estar a seu lado. Dezoito anos mais tarde, no tempo presente, essa mesma imagem de Senju Kannon encontra-se entronizada no Nikko-den, em Gora, o protótipo do Paraíso. Assim, aproxima-se o tempo em que, tal como expresso no poema, todas as abominações do mundo serão verdadeiramente extintas, tornando-se um sonho distante. Diante disso, não posso deixar de me maravilhar, uma vez mais, com a sublime e longínqua Providência Divina.
-
-Após a conclusão da imagem de Senju Kannon, o número de pessoas salvas aumentava a cada dia, e o movimento de fiéis se intensificou. Como a quantidade de pessoas que desejavam receber a Imagem também cresceu, Meishu-Sama alugou a casa vizinha ao Johrei-sho Oujin-do, em Hirakawacho, para instalar seu ateliê. Em seguida, em abril de 1935, adquiriu uma nova residência em Motozonocho, à qual deu o nome de Jikanso, e compôs o seguinte poema:
-
-"Embora modesta a casa que aluguei,
-mudei-me hoje para cá,
-com o anseio de me dedicar à pintura e à poesia."
-
-Posteriormente, em outubro do mesmo ano, Ele se mudou para a Hozanso, em Tamagawa. Contudo, o crescente vigor da Obra Divina foi efêmero. Em maio e julho de 1936, a perseguição religiosa irrompeu, e tanto as atividades religiosas quanto as terapêuticas foram proibidas. Os fiéis se dispersaram e as fontes de renda cessaram. Por um tempo, Ele interrompeu a pintura, mas, como ainda havia alguns pedidos e nós mesmos não suportávamos a angústia da crise financeira, rogamos para que Ele voltasse a empunhar o pincel. Ele anuiu em pintar uma série de cem obras.
-
-Foi criada, então, a Associação das Cem Imagens de Kannon, com o intuito de distribuir as obras como meras peças de arte, e não como objetos de fé. Abrimos inscrições para membros, com uma cota de cem ienes, que poderia ser paga em parcelas. Embora tenha sido uma medida de último recurso, tomada em um momento de extrema necessidade, sentíamos ser algo profundamente lamentável. Meishu-Sama, entretanto, compreendeu a situação e, com especial atenção, criou diversas imagens com um toque mais artístico, utilizando cores. Contudo, sendo um período logo após o grande golpe da perseguição, a adesão de membros foi extremamente baixa, e a associação acabou por se dissolver naturalmente antes que as cem obras fossem concluídas. Apesar da pressão incessante das autoridades, alguns discípulos dispersos pelas províncias continuaram a formar novos fiéis. Embora poucos, havia quem desejasse receber a Imagem, e assim, ainda que esporadicamente, Ele prosseguiu pintando obras de pequeno formato.
-
-Quando a proibição à prática da terapia foi suspensa, em 1938, Ele retomou suas atividades, e o número de pessoas que desejavam receber a Imagem Sagrada gradualmente aumentou. Em 1940, ao se afastar da linha de frente de Sua atuação, iniciou-se Sua missão como Komyo Nyorai (光明如来). Adentrando, assim, a fase de expansão da Obra de Salvação, Ele começou a pintar a imagem de Komyo Nyorai. Após Sua mudança para Hakone, passou também a caligrafar o nome "Komyo Nyorai". Com a expansão da fé por todo o país, a necessidade de produzir tanto pinturas quanto caligrafias tornou-se cada vez mais premente. Por essa razão, Ele passou a empregar o pincel de maneira cada vez mais eficiente, e Sua capacidade aprimorou-se a tal ponto que Ele chegou a produzir doze imagens em apenas duas noites. Creio que a simplificação de seus traços foi, em parte, uma resposta a essa crescente demanda.
-
-Por volta de 1946, quando teve início Seu período de purificação, a pilha de solicitações era tamanha que, por si só, já constituía uma razão para que Ele se visse forçado a abandonar o pincel. Qualquer pessoa que contemple uma imagem de Kannon pintada por Meishu-Sama é tocada por um encanto acolhedor e uma sensação de bem-estar. Uma vez entronizada, torna-se impossível removê-la. Até os dias de hoje, é comum ouvir relatos de pessoas que, mesmo tendo se afastado da fé, não desejam remover de seus lares a imagem de Kannon. Somando-se a isso os inúmeros e notáveis milagres que se manifestam, era natural que o número de pessoas que as desejavam fervorosamente crescesse a ponto de ser impossível atender a todos.
-
-Como mencionei anteriormente, nos primórdios da era de Omori, era comum que Ele pintasse imagens muito simples em papéis decorativos, e também nos presenteasse com ilustrações para as capas de revistas de poesia. Eram obras de uma leveza encantadora, por vezes satíricas, por vezes de uma elegância indescritível. Creio que o estilo se assemelhava ao de Korin, porém com traços mais simples, executados com notável facilidade, de um só fôlego. E, no entanto, a essência do objeto era plenamente capturada, e a composição, a disposição e o tamanho da imagem no papel revelavam a excelência de sensibilidade própria de uma obra-prima.
-
-Entre as obras daquela época, as que mais me marcaram foram duas pinturas em nanquim, uma retratando a lua e outra, a flor de hagi. Eram de uma pureza e elegância singulares. Ao contemplá-las, eu era tomado pela impressão de que a lua e a hagi, pintadas em grande dimensão no papel, eram como seres vivos que emanavam a brisa do outono e narravam uma profunda história de Verdade, Bem e Belo.
-
-Naquele tempo, Ele oferecia essas pinturas em papéis especiais aos fiéis de forma quase gratuita, sem qualquer apego. Por isso, nenhuma delas permaneceu em Suas mãos, mas hoje seriam tesouros de valor inestimável. Especialmente as imagens de Komyo Nyorai e Kannon, se de fato Ele não voltar a pintá-las, tornar-se-ão, no futuro, tesouros da humanidade. Quantos daqueles que as receberam, por uma gratidão que mal se podia chamar de oferta, teriam tido consciência da magnitude da graça que lhes fora concedida? As graças de Meishu-Sama são tão imensas que, via de regra, nós, seres humanos, não compreendemos nem a metade de seu valor.
-
-Recordo-me também de duas pinturas, uma de ameixeira e outra de pinheiro, criadas na Hozanso, em Tamagawa, durante o período de serenidade que se seguiu à perseguição. Ambas, coloridas e em formato vertical, eram obras magníficas, de um volume notável, cuja beleza se aprofundava a cada nova contemplação, sem jamais nos cansarmos de admirá-las. O senhor Shibui as recebeu e as guarda como um tesouro de família, mas talvez um dia elas venham a ser expostas ao público.
-
-Meishu-Sama aperfeiçoou a arte de pintar Kannon de uma forma sem precedentes na história, mas, em grande parte, isso não passava de uma habilidade demonstrada em meio a suas inúmeras ocupações. Tenho a firme convicção de que, se Ele houvesse se dedicado exclusivamente à carreira de pintor, teria igualmente atingido o ápice dessa arte, criando um estilo capaz de comover o mundo.
-
----
-
-# A Clarividência de Meishu-Sama
-
-**Categoria:** kikou | **Ano:** 昭和28(1953)年7月25日 | **Fonte:** Chijo Tengoku
-**Título Original:** 参考文献 明主様の御眼力 （十） 神成大教会 岡庭真次郎 | **Status:** Published | **Edição/Página:** 50号 | **Data ISO:** 1953-07-25
-**Coletânea:** 岡田自観師の論文集 | **Fonte (JP):** 地上天国
-
-## A Clarividência de Meishu-Sama
-
-Damos continuidade à transcrição do sermão proferido por Meishu-Sama durante a cerimônia de fundação, em primeiro de janeiro.
-
-Estamos empenhados na construção de um mundo civilizado, perfeito e irrepreensível, ou seja, o Mundo de Grande Luz que constitui nosso objetivo maior. Trata-se, portanto, de um movimento de uma magnitude sem precedentes desde a Criação, algo verdadeiramente extraordinário e de difícil imaginação. Da parte de Deus, contudo, há milênios vinham sendo realizados preparativos meticulosos, isentos de qualquer falha, e finalmente o tempo predestinado chegou. Conforme mencionei, o Plano Divino de Um Milésimo representa a Obra de Kannon (観音) de Mil Braços, e a esse respeito, um fato curioso ocorreu.
-
-No dia vinte e três do último mês do ano, entronizamos uma imagem de Kannon (観音) de Mil Braços no Oujindou (応神堂). Eis que, no segundo dia, uma pessoa totalmente desconhecida nos trouxe, por uma feliz coincidência, uma moeda de um *rin*. Em seu anverso, havia uma imagem em alto-relevo de Kannon (観音) de Mil Braços e, no reverso, os quatro ideogramas que compõem seu nome. Mostrei-a a um antiquário com mais de trinta anos de experiência no ramo, e ele afirmou jamais ter visto algo semelhante. Esse relato por si só evidencia a raridade do objeto. Acredito que, por meio desse pequeno acontecimento, Deus nos revelou que a Obra de Kannon (観音) de Mil Braços é, de fato, a concretização do Plano de Um Milésimo. Milagres como este ocorrem diariamente.
-
-Originalmente, a força de Kannon (観音) reside em Seu imenso poder, mesmo em imagens sagradas de tamanho reduzido. Isso pode ser compreendido pelo exemplo da imagem de Kannon (観音) de Asakusa que, medindo apenas um *sun* e oito *bu*, está entronizada em um templo de dezoito *ken* de lado e atrai o maior número de peregrinos de todo o Japão. Aproveitando a ocasião, gostaria de salientar que os números relacionados a Kannon (観音), como um *sun* e oito *bu* e dezoito *ken*, sempre remetem ao dezoito. Isso ocorre porque a verdadeira identidade de Miroku (五六七) é Kannon (観音). Miroku (五六七) é escrito com os ideogramas cinco, seis e sete, cuja soma resulta em dezoito. Da mesma forma, três vezes seis são dezoito, e a soma de três, seis e nove também resulta em dezoito. Ademais, o ideograma para dez representa Deus, e o ideograma para oito, ao ser unido, forma o ideograma para "pessoa". Assim, dezoito também pode significar "Deus e o homem". E mais, o ideograma para dez tem a forma de uma cruz, que simboliza a união, enquanto o de oito tem a forma de algo que se abre; logo, o dezoito também representa o princípio segundo o qual o vertical e o horizontal se unem e se expandem.
-
-Ainda que pareça ínfimo, o poder de um milésimo é tão extraordinário que nenhuma força demoníaca pode se equiparar a ele. É por meio desse poder que, pela primeira vez, toda a humanidade será salva. Assim, serão extintas as três grandes calamidades do vento, da água e do fogo, assim como as pequenas calamidades da fome, da doença e do conflito. Construiremos um Mundo de Grande Luz, isento de doença, pobreza e conflito, onde reinarão a paz eterna e a prosperidade infindável. Nesse sentido, a cerimônia de fundação de hoje reveste-se de um significado monumental, jamais visto em milhares de anos.
-
-Um sermão tão longo como este era algo inédito até então. Tanto os dirigentes quanto os demais membros sentiam-se imersos em uma emoção que se assemelhava ao êxtase. Com a inauguração da sede provisória, as sessões de Johrei passaram a ser realizadas ali.
-
-Através deste festival, marcou-se, no Mundo Espiritual, o primeiro passo para a Era de Miroku (五六七). Diante do altar sereno, foi anunciado que o tempo celestial havia chegado e que Kannon (観音) daria início à construção do Paraíso Terrestre, a Era de Miroku (五六七). Diante dessa revelação, renovamos nosso fervor e juramos servir a Deus em Sua Obra. A alegria e a luminosidade daquele festival, um dia abençoado para o Plano Divino, eram tão intensas que nem sequer percebemos o tempo passar.
-
-No dia três de janeiro, Meishu-Sama nos disse: "Atualmente, a missão que cumpro é a de realizar, sozinho, a obra de todas as divindades. Isso ocorre porque o corpo e o espírito de todos ainda não estão purificados. Por essa razão, até que se purifiquem, eu realizo tudo. Somente no momento decisivo é que delegarei as diversas missões. Conforme as pessoas purificarem seu corpo e espírito, atribuirei a cada uma delas a missão correspondente à sua afinidade espiritual. Só então, aqueles que possuem essa afinidade poderão recebê-la." Ele acrescentou ainda que, dependendo da pessoa, seria possível até mesmo receber uma qualificação divina.
-
-No dia quatro de janeiro, acompanhei o Sr. Yamada em uma audiência com Meishu-Sama. Meishu-Sama explicou-lhe os Ensinamentos de forma extremamente detalhada e atenciosa. O Sr. Yamada observou que, calculando pelo calendário solar, o dia vinte e três de dezembro, aniversário de Meishu-Sama, corresponde ao dia seguinte ao solstício de inverno, o que o torna, na prática, o verdadeiro dia de ano novo, uma data de fato muito auspiciosa. Meishu-Sama concordou que a lógica era pertinente. Nesse dia, Ele nos ensinou que, dali em diante, as missões dos membros seriam designadas de acordo com as virtudes e as fraquezas de cada um.
-
-No dia seis de janeiro, ao chegar ao Oujindou (応神堂), encontrei Meishu-Sama iniciando a escrita de uma série de textos que, sob o título de "Cultura de Galhos e Folhas", abordavam com humor e até um toque de absurdo os desvios da sociedade. Sua pena se voltava com vigor para a política, a religião, a educação e outros temas, e imaginei que esses escritos certamente se tornariam populares. Naquela noite, após a meia-noite, recebi o nome artístico de Shintei, e o Sr. Shimizu, o de Bunya.
-
-No dia nove de janeiro, realizamos na sede provisória a primeira reunião do Gorokai do ano, onde diversas deliberações foram tomadas. Contudo, um dos pontos acordados não me pareceu correto. Por isso, ao final da reunião, procurei Meishu-Sama para expor minha dúvida e pedir Sua orientação. Ele então me concedeu estas palavras de inestimável valor: "É bom acreditar em Deus, mas não se deve acreditar no ser humano. O ser humano comete erros. Portanto, basta que sigam minhas ordens exatamente como são dadas." Que Ensinamento sublime recebi!
-
-Naquela época, certas tendências facciosas começavam a surgir em alguns setores. Por essa razão, as palavras de Meishu-Sama, de que não devemos confiar nas pessoas, mas apenas nos dedicar a seguir Suas ordens, garantem que jamais erraremos o caminho. Creio que todos compreendem que nisto reside a verdadeira e correta fé. Graças a esse Ensinamento, as preocupações que eu nutria se dissiparam, e pude me dedicar à minha missão com imensa alegria. Minhas dúvidas interiores se esvaíram como a névoa, e passei a viver meus dias com grande felicidade. "Não confieis nas pessoas, confiai em Deus e segui em frente. Não confieis nas palavras dos homens; executai minhas ordens tal como as recebestes." Caros senhores, não há absolutamente outro caminho a seguir senão este. Se assim procedermos, não haverá motivo para hesitação ou preocupação. É por isso que visitar a Sede periodicamente para receber os Ensinamentos de Meishu-Sama é da mais alta importância.
-
-Na manhã de dez de janeiro de 1935, ao despertar, Meishu-Sama perguntou: "Hoje está chovendo, não é?". Ao respondermos afirmativamente, Ele declarou: "Com isto, o modelo do 'Gofū Jūu' se estabeleceu." Através desse modelo, ficou provado que, uma vez estabelecido o Mundo de Luz, até mesmo o clima se tornará perfeito, com ventos a cada cinco dias e chuva a cada dez. Em Tóquio, no dia trinta e um de dezembro choveu; os dias primeiro, dois, três e quatro de janeiro foram de céu claro; no dia cinco, o céu estava claro, mas com vento frio; no dia seis, claro e frio; nos dias sete, oito e nove, o céu permaneceu claro; e no dia dez, choveu. Assim, de maneira esplêndida, o modelo do "Gofū Jūu" foi demonstrado ao longo de dez dias.
-
-No dia onze de janeiro, um desconhecido chamado Moriya Fukutaro veio até nós, expressando o desejo de entronizar uma imagem de Kannon (観音). Imediatamente providenciamos a consagração de uma imagem em pergaminho, do menor tamanho disponível. O valor desse pergaminho, com montagem em papel, era de apenas um iene e cinquenta centavos. Quando pensamos nisso hoje, percebemos que era um valor tão irrisório que chega a ser reverentemente espantoso.
-
-Naquela noite, foi realizada a primeira reunião de explanação dos Ensinamentos, que contou com grande participação. Meishu-Sama nos ensinou: "Com a manifestação de Kannon (観音) no Mundo Material, as forças demoníacas serão gradualmente dissolvidas por Sua Luz, e aproxima-se o tempo em que toda a maldade será purificada. Contudo, nesse processo, as forças demoníacas, recusando-se a admitir a derrota, resistirão com todas as suas forças. Por isso, a maldade se intensificará ainda mais do que no presente. Mas, quando chegar a hora, por mais fortes que sejam, elas certamente serão derrotadas. Pessoas que praticam o mal, como as que não pagam seus empréstimos, seus aluguéis ou suas dívidas, entrarão gradualmente em um período de depuração e serão purificadas. A Grã-Bretanha, que oprimiu suas colônias com poderio econômico e militar, verá a Índia certamente conquistar sua independência no futuro." Como sabemos, a Índia de fato se tornou independente, e mais recentemente, países como o Irã e o Egito também começaram a romper relações com os britânicos. Desse modo, as palavras proferidas por Meishu-Sama invariavelmente se concretizam, e diante disso, não nos resta senão sermos tomados por um profundo sentimento de reverência.
-
-No dia doze de janeiro, o detetive Mizuno Takechi, da delegacia de Oomori, pertencente à Polícia Especial Superior (Tokkō), veio nos visitar. Ele solicitou informações sobre a situação atual da filial e da sucursal da Oomoto (大本教) em Oomori. Expliquei-lhe que, em primeiro de janeiro, havíamos fundado a Dai-Nihon Kannon-kai (大日本観音会) e rompido todos os laços com a Oomoto (大本教). Comprometi-me a enviar-lhe os estatutos da Kannon-kai assim que estivessem prontos, a notificá-lo quando a placa da Oomoto (大本教) fosse retirada e a informá-lo sobre a criação de novas filiais.
-
-O mais interessante, porém, ocorreu naquela mesma tarde. Chegou da sede da Oomoto (大本教) uma correspondência expressa, datada do dia onze, comunicando a Meishu-Sama a anulação de todos os seus cargos de dirigente e missionário daquela instituição. Com isso, o grupo de Oomori conquistou sua independência de forma plena e definitiva. Tratava-se, na verdade, de um acontecimento auspicioso.
 
 ---
 
