@@ -41,7 +41,8 @@ table[border="1"] {
 }
 
 /* Remove default styling from layout tables (border="0") to prevent breakage */
-table[border="0"] {
+/* BUT preserve tables that contain actual content (images, etc) */
+table[border="0"]:not(:has(img)):not(:has(td[bgcolor])) {
   background-color: transparent !important;
   border: none !important;
   box-shadow: none !important;
@@ -157,17 +158,14 @@ P.honbun {
    Global Compare Mode - Horizontal Layout
    ============================================ */
 body.compare-mode {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 20px !important;
-  max-width: 95% !important;
-  margin: 0 auto !important;
-  padding: 10px !important;
+  display: block !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 body.compare-mode>.lang-toggle-bar {
-  grid-column: 1 / -1;
-  /* Full width */
+  width: 100%;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -182,11 +180,9 @@ body.compare-mode>.lang-toggle-bar {
 /* Keep buttons from deforming - GLOBAL FIX */
 .lang-toggle-bar .lang-btn {
   flex: 0 0 auto !important;
-  /* Don't shrink, don't grow */
   width: auto !important;
   min-width: 100px !important;
   height: 40px !important;
-  /* Ensure minimum click target */
   white-space: nowrap !important;
 }
 
@@ -197,20 +193,40 @@ body.compare-mode .lang-toggle-bar .lang-btn {
   white-space: nowrap !important;
 }
 
-body.compare-mode #pt-content,
-body.compare-mode #jp-content {
+/* Create horizontal layout container */
+body.compare-mode {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+}
+
+body.compare-mode>.lang-toggle-bar {
+  flex: 0 0 100% !important;
+  order: -1 !important;
+}
+
+/* Side-by-side content */
+body.compare-mode #pt-content {
   display: block !important;
-  max-height: 85vh !important;
+  width: 50% !important;
+  max-height: calc(100vh - 60px) !important;
   overflow-y: auto !important;
-  padding: 20px !important;
-  border: 1px solid #e2e8f0 !important;
-  border-radius: 8px !important;
+  padding: 30px 20px !important;
+  border-right: 1px solid #e2e8f0 !important;
   background: #fff !important;
+  box-sizing: border-box !important;
 }
 
 body.compare-mode #jp-content {
+  display: block !important;
+  width: 50% !important;
+  max-height: calc(100vh - 60px) !important;
+  overflow-y: auto !important;
+  padding: 30px 20px !important;
+  background: #fff !important;
   font-family: "Yu Mincho", "Hiragino Mincho ProN", serif !important;
   color: #4a5568 !important;
+  box-sizing: border-box !important;
 }
 
 /* Hide legacy search forms globally (ALL VIEWS) */
@@ -225,7 +241,7 @@ td>a[href*="msearch.cgi"] {
 }
 
 /* Hide the container div if it only contains the search form to avoid whitespace */
-div[align="right"]>table,
+div[align="right"]>table:has(form[action*="msearch.cgi"]),
 form[action*="msearch.cgi"] table {
   display: none !important;
 }
