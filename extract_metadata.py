@@ -1,0 +1,405 @@
+import json
+import glob
+import os
+import re
+from bs4 import BeautifulSoup
+
+def extract_dates():
+    files = sorted(glob.glob("Data/teachings_translated_part*.json"))
+    
+    # Regex for Japanese dates: e.g. 昭和11(1936)年, 昭和24年, etc.
+    # Matches: (EraName)(Number)(Optional Year in Parens)(Year Kanji)
+    # Also handles just (1936) or pure years if needed, but usually it's Era format.
+    # Improved Regex:
+    # (明治|大正|昭和|平成|令和) -> Era
+    # [0-9元]+ -> Year number (元 = 1)
+    # (?:\(\d{4}\))? -> Optional Gregorian year in parens
+    # 年 -> Kanij for Year
+    
+    
+    # Regex for Japanese dates
+    date_pattern = re.compile(r'((?:明治|大正|昭和|平成|令和)[0-9元]+(?:\(\d{4}\))?年(?:[0-9]+月(?:[0-9]+日)?)?)')
+    # Also catch just Gregorian years like 1950年 if era is missing
+    year_pattern = re.compile(r'(\d{4}年(?:[0-9]+月(?:[0-9]+日)?)?)')
+
+    # Regex for Source text
+    # 1. Text inside double Japanese brackets 『...』
+    source_bracket_pattern = re.compile(r'『(.*?)』')
+    
+    # 2. Text after "資料検索 ：" (Data Search :)
+    # Capture up to newline or <br> (but get_text() removes tags so just look for newline or long gaps)
+    # Actually get_text() might merge lines.
+    # We will look for "資料検索\s*[：:]\s*(.*)"
+    # Update: Don't exclude '(', just exclude newlines. If text is huge, we'll slice it later.
+    source_marker_pattern = re.compile(r'資料検索\s*[：:]\s*([^\n\r]*)')
+
+    # Romaji Mapping Table
+    romaji_map = {
+        "地上天国": "Chijo Tengoku",
+        "栄光": "Eikou",
+        "救世": "Kyusei",
+        "天国の礎": "Tengoku no Ishue",
+        "道義": "Dougi",
+        "御教え集": "Mioshie-shu",
+        "医学革命の書": "Igaku Kakumei no Sho",
+        "日本医事週報": "Nihon Iji Shuho",
+        "光": "Hikari",
+        "明日の医術": "Asu no Ijutsu",
+        "自然農法解説": "Shizen Noho Kaisetsu",
+        "結核信仰療法": "Kekkaku Shinko Ryoho",
+        "アメリカ巡回": "America Junkai",
+        "五六七新聞": "Miroku Shinbun",
+        "健康": "Kenko",
+        "文化日本": "Bunka Nihon",
+        "文明の創造": "Bunmei no Sozo",
+        "天国への道": "Tengoku e no Michi",
+        "地上の天国が来る": "Chijo no Tengoku ga Kuru",
+        "神霊と人生": "Shinrei to Jinsei",
+        "世界救世道": "Sekai Kyusei Do",
+        "東方の光": "Toho no Hikari",
+        "信仰雑話": "Shinko Zatsuwa",
+        "奇蹟物語": "Kiseki Monogatari",
+        "観音講座": "Kannon Koza",
+        "霊界叢談": "Reikai Sodan",
+        "アメリヤ": "Ameriya",
+        "祈りの栞": "Inori no Shiori",
+        "御詠歌集": "Goeika-shu",
+        "讃歌集": "Sanka-shu",
+        "農業の大革命": "Nogyo no Daikakumei",
+        "自然農法": "Shizen Noho",
+        "地上天国祭": "Chijo Tengoku Sai",
+        "立春祭": "Risshun Sai",
+        "御光話": "Gokowa",
+        "御面会": "Gomenkai",
+        "御講話": "Gokowa",
+        "御垂示": "Gosuiiji",
+        "御論文": "Goronbun"
+    }
+
+    # Helper to convert or keep original
+    def to_romaji(text):
+        if not text: return ""
+        # 1. Exact match
+        if text in romaji_map:
+            return romaji_map[text]
+        # 2. Contains match (e.g. "地上天国 (8)")
+        for jp, rom in romaji_map.items():
+            if jp in text:
+                # Replace the Japanese part with Romaji
+                # e.g. "地上天国 10号" -> "Chijo Tengoku 10号"
+                # But user said "no translation needed", implying strict Romaji.
+                # If we can't fully convert, maybe just return the partial?
+                # Let's try to replace all known terms.
+                text = text.replace(jp, rom)
+        
+        # If text still contains Japanese specific chars, it might be unmapped.
+        return text
+
+    # Build a file map {filename: full_path} to resolve paths regardless of directory
+    print("Building file map...")
+    file_map = {}
+    for root, dirs, files_in_dir in os.walk("."):
+        for filename in files_in_dir:
+            if filename.endswith(".html"):
+                # Store relative path from current dir
+                full_path = os.path.join(root, filename)
+                # Normalize path separators
+                full_path = full_path.replace("\\", "/")
+                if full_path.startswith("./"):
+                    full_path = full_path[2:]
+                
+                file_map[filename] = full_path
+                
+    print(f"Mapped {len(file_map)} HTML files.")
+
+    total_updated = 0
+    found_sources = set()
+    
+    for file_path in files:
+        print(f"Processing {file_path}...")
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            modified = False
+            for item in data:
+                source = item.get('source_file')
+                if not source:
+                    continue
+                
+                # Resolve path
+                basename = os.path.basename(source)
+                full_path = file_map.get(basename)
+                
+                if not full_path:
+                    # Try direct lookup in case source has unique path not in map (unlikely if map is complete)
+                    if os.path.exists(source):
+                        full_path = source
+                
+                if not full_path or not os.path.exists(full_path):
+                    # print(f"  Source not found: {source}")
+                    continue
+                
+                try:
+                    with open(full_path, 'r', encoding='utf-8', errors='ignore') as html_file:
+                        content = html_file.read()
+                        soup = BeautifulSoup(content, 'html.parser')
+                        
+                        # Target #jp-content text
+                        jp_div = soup.find('div', id='jp-content')
+                        text_to_search = ""
+                        
+                        if jp_div:
+                            text_to_search = jp_div.get_text()
+                        else:
+                            # Fallback: search whole body or looking for specific text markers
+                            if soup.body:
+                                text_to_search = soup.body.get_text()
+                        
+                        # Search for date in the first chunk of text (header usually)
+                        search_chunk = text_to_search[:1000] 
+                        search_chunk_clean = search_chunk.replace('\n', ' ').replace('\r', ' ')
+
+                        # --- Extract Date ---
+                        found_date = None
+                        
+                        match_date = date_pattern.search(search_chunk)
+                        
+                        if match_date:
+                            found_date = match_date.group(1)
+                        else:
+                            # Try simple year pattern
+                            match_year = year_pattern.search(search_chunk)
+                            if match_year:
+                                found_date = match_year.group(1)
+                        
+                        if found_date:
+                            # Clean up date string if needed
+                            found_date = found_date.strip()
+                            # Check if valid date string (sometimes regex captures garbage)
+                            if len(found_date) < 50: 
+                                item['year'] = found_date
+                                # print(f"  Found date for {item.get('title')}: {found_date}")
+                                modified = True
+
+                        # --- Extract Publication Source, Title, and Status ---
+                        found_source = None
+                        jp_title = None
+                        status = None
+                        issue_page = None
+                        date_iso = None
+                        collection = None
+                        
+                        # Extract Collection Name (requires Regex on raw content as get_text removes attributes)
+                        # Pattern: <font face="HG正楷書体-PRO" size="2"><strong> (.*?) ――</strong>
+                        # Note: HTML might vary slightly, but this flag is specific.
+                        match_collection = re.search(r'<font face="HG正楷書体-PRO" size="2"><strong>\s*(.*?)\s*――</strong>', content)
+                        if match_collection:
+                             # Clean up: " 岡田自観師の論文集 " -> "岡田自観師の論文集"
+                             collection = match_collection.group(1).strip()
+                        else:
+                             # Fallback for sui03.html style: ――― 岡 田 自 観 師 の 論 文 集 ―――
+                             match_collection_fb = re.search(r'―――\s*(.*?)\s*―――', content)
+                             if match_collection_fb:
+                                 collection = match_collection_fb.group(1).strip()
+                        
+                        # --- Infer Content Type from Path ---
+                        content_type = None
+                        if full_path:
+                            # Normalize path for checking
+                            norm_path = full_path.replace("\\", "/")
+                            if "kouwa/" in norm_path:
+                                content_type = "Discursos"
+                            elif "situmon/" in norm_path:
+                                content_type = "Perguntas e Respostas"
+                            elif "taidan/" in norm_path:
+                                content_type = "Diálogos"
+                            elif "se/" in norm_path:
+                                content_type = "Ensaios"
+                            elif "gosuiji/" in norm_path:
+                                content_type = "Ensinamentos"
+                            elif "waka/" in norm_path or "tanka/" in norm_path:
+                                content_type = "Poemas"
+                            elif ("search1/" in norm_path or "/search1/" in norm_path) and "English" not in norm_path:
+                                # Fallback for phonetic directories (he, mo, etc.) which are usually essays
+                                # Check if it's not one of the above first (already handled by elifs)
+                                # Since we are in an elif chain, we need to be careful.
+                                # Wait, the previous elifs handle specific folders.
+                                # If we reach here, and it is in search1, it is likely an essay.
+                                content_type = "Ensaios"
+
+                        
+                        
+                        match_marker = source_marker_pattern.search(search_chunk_clean)
+                        
+                        # Define full_metadata to work with
+                        full_metadata = ""
+                        if match_marker:
+                            full_metadata = match_marker.group(1).strip()
+                        else:
+                            # Fallback: scan the search_chunk for source brackets or date patterns
+                            # Identify potential metadata area by finding the Source Bracket
+                            match_bracket = source_bracket_pattern.search(search_chunk_clean)
+                            if match_bracket:
+                                # Assume metadata is around this bracket. 
+                                # Let's grab a window or just use the bracket content + surrounding text
+                                # For now, let's treat the whole matched line or chunk as metadata context
+                                full_metadata = search_chunk_clean
+                        
+                        if full_metadata:
+                            # 1. Extract Status
+                            if "未発表" in full_metadata:
+                                status = "Unpublished"
+                            elif "発行" in full_metadata: # "号" removed to avoid false positives with Issue number
+                                status = "Published"
+                            # If we have a date but no explicit status, it implies Published? 
+                            # Leaving as None/Unknown if not sure.
+
+                            # 2. Extract Source (Text in brackets)
+                            match_bracket = source_bracket_pattern.search(full_metadata)
+                            if match_bracket:
+                                found_source = match_bracket.group(1).strip()
+                                # Prepare to find title: It's usually BEFORE the bracket
+                                parts = full_metadata.split('『')
+                                if len(parts) > 0 and not jp_title:
+                                    # Take text before bracket found in full_metadata
+                                    # If full_metadata is huge (fallback case), this might be noisy.
+                                    # Be conservative: check length
+                                    start_text = parts[0].strip()
+                                    # If fallback case, start_text might be everything before the bracket in the file
+                                    # So take the last few words?
+                                    if len(start_text) < 100:
+                                        potential_title = start_text
+                                        if potential_title:
+                                             jp_title = potential_title
+                                    else:
+                                        # Likely too long, maybe just take the last segment after a space/newline equivalent?
+                                        # Or regex for title pattern? Leaving blank for safety if too long.
+                                        pass
+                            
+                            # 3. Extract Issue or Page Number
+                            # Look for patterns like "159号" or "P.13" or "P13" or "号外"
+                            issue_matches = re.findall(r'(\d+号|号外|P\.?\d+)', full_metadata)
+                            if issue_matches:
+                                issue_page = ", ".join(issue_matches)
+
+                            # If source was not in brackets, use previous logic or candidates
+                            if not found_source:
+                                # Try to find a known source in the full string
+                                for jp_src in romaji_map.keys():
+                                    if jp_src in full_metadata:
+                                        found_source = jp_src
+                                        break
+                                
+                                # If still not found, fallback
+                                if not found_source and jp_title:
+                                     rest = full_metadata.replace(jp_title, "").strip()
+                                     if rest:
+                                         candidate = re.sub(r'未発表.*', '', rest).strip()
+                                         candidate = re.sub(r'\d.*', '', candidate).strip() 
+                                         if len(candidate) > 1 and len(candidate) < 20: 
+                                             found_source = candidate
+
+                        # --- Convert Date to ISO ---
+                        if found_date:
+                            try:
+                                # Basic Era Map
+                                era_start = {
+                                    '明治': 1868, '大正': 1912, '昭和': 1926, '平成': 1989, '令和': 2019
+                                }
+                                y_iso = None
+                                m_iso = None
+                                d_iso = None
+
+                                # Check for Era format: Era + Number + ...
+                                for era, start_year in era_start.items():
+                                    if found_date.startswith(era):
+                                        # Extract number after Era
+                                        # Handle "元" as 1
+                                        rest_date = found_date[len(era):]
+                                        match_num = re.match(r'([0-9]+|元)', rest_date)
+                                        if match_num:
+                                            num_str = match_num.group(1)
+                                            year_num = 1 if num_str == '元' else int(num_str)
+                                            y_iso = start_year + year_num - 1
+                                        break
+                                
+                                # If no Era, try Gregorian year if present in parens "昭和23(1948)"
+                                if not y_iso:
+                                    match_greg = re.search(r'\((\d{4})\)', found_date)
+                                    if match_greg:
+                                        y_iso = int(match_greg.group(1))
+
+                                # Extract Month and Day
+                                match_md = re.search(r'([0-9]+)月(?:([0-9]+)日)?', found_date)
+                                if match_md:
+                                    m_iso = int(match_md.group(1))
+                                    if match_md.group(2):
+                                        d_iso = int(match_md.group(2))
+                                
+                                # Format ISO
+                                if y_iso:
+                                    if m_iso and d_iso:
+                                        date_iso = f"{y_iso:04d}-{m_iso:02d}-{d_iso:02d}"
+                                    elif m_iso:
+                                        date_iso = f"{y_iso:04d}-{m_iso:02d}"
+                                    else:
+                                        date_iso = f"{y_iso:04d}"
+                            except Exception as e:
+                                # print(f"Error parsing date {found_date}: {e}")
+                                pass
+
+                        # --- Update JSON ---
+                        if jp_title:
+                            item['jp_title'] = jp_title.strip(" 、")
+                            modified = True
+                        
+                        if status:
+                            item['status'] = status
+                            modified = True
+                        
+                        if issue_page:
+                            item['issue_page'] = issue_page
+                            modified = True
+
+                        if date_iso:
+                            item['date_iso'] = date_iso
+                            modified = True
+
+                        if collection:
+                            item['collection'] = collection
+                            modified = True
+
+                        if content_type:
+                            item['content_type'] = content_type
+                            modified = True
+
+                        if found_source:
+                            found_source = found_source.strip()
+                            if len(found_source) > 1 and len(found_source) < 100:
+                                found_source = found_source.strip("、 　")
+                                
+                                # Save Source JP
+                                item['source_jp'] = found_source
+                                
+                                romaji_source = to_romaji(found_source)
+                                item['publication'] = romaji_source
+                                found_sources.add(found_source)
+                                modified = True
+                            
+                except Exception as e:
+                    pass 
+            
+            if modified:
+               with open(file_path, 'w', encoding='utf-8') as f:
+                   json.dump(data, f, ensure_ascii=False, indent=4)
+               print(f"  Updated {file_path} with metadata.")
+               total_updated += 1
+                
+        except Exception as e:
+            print(f"Error processing JSON {file_path}: {e}")
+
+    print(f"Done. Updated {total_updated} JSON files.")
+
+if __name__ == "__main__":
+    extract_dates()
