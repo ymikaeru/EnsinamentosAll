@@ -873,16 +873,16 @@
             <div class="pub-selector">
                 <label>Publicação</label>
                 <select id="pubSelect" onchange="loadPublication()"></select>
-                <button class="btn btn-icon" onclick="renameCurrentPublication()" title="Renomear publicação"
-                    style="margin-left: 0.5rem;">
+                <button class="btn btn-icon" onclick="renameCurrentPublication()" title="Renomear publicação">
                     ✏️
                 </button>
-                <button class="btn btn-primary" onclick="createNewPublication()" style="margin-left: 0.25rem;">
-                    + Nova
-                </button>
                 <div class="pub-actions">
-                    <button class="btn btn-secondary" onclick="loadAllContent()" style="display: none;">
-                        Carregar Conteúdos
+                    <button class="btn btn-primary" onclick="createNewPublication()">
+                        + Nova
+                    </button>
+                    <button class="btn btn-secondary" onclick="TitleImporter.open()"
+                        title="Importar títulos do NotebookLM">
+                        📋 Importar
                     </button>
                     <button class="btn btn-danger" onclick="deleteCurrentPublication()">
                         Excluir
@@ -982,6 +982,7 @@
     </button>
 
     <script src="scripts/favorites.js"></script>
+    <script src="scripts/title-importer.js"></script>
     <script>
         let currentPubId = null;
         let fullContentCache = {};  // Cache for loaded full content
@@ -1001,6 +1002,62 @@
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') closeModal();
         });
+
+        // Current article for modal view switching
+        let currentArticle = null;
+        let currentModalView = 'portuguese';
+
+        // Switch modal view between PT, JP, Bilingual
+        function switchModalView(view) {
+            currentModalView = view;
+            const contentEl = document.getElementById('modalContent');
+            if (!contentEl || !currentArticle) return;
+
+            // Update button states
+            document.querySelectorAll('.view-toggle-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            const activeBtn = document.querySelector(`.view-toggle-btn[onclick*="${view}"]`);
+            if (activeBtn) activeBtn.classList.add('active');
+
+            // Re-render content if already loaded
+            if (fullContentCache[currentArticle.id]) {
+                const content = fullContentCache[currentArticle.id];
+                renderModalContent(content, view);
+            }
+        }
+
+        // Render modal content based on view
+        function renderModalContent(content, view) {
+            const contentEl = document.getElementById('modalContent');
+            if (!contentEl) return;
+
+            let html = '';
+            switch (view) {
+                case 'portuguese':
+                    html = content.content_pt || content.content || content.content_snippet || 'Conteúdo não disponível.';
+                    break;
+                case 'original':
+                    html = content.content_jp || content.content_original || 'Conteúdo original não disponível.';
+                    break;
+                case 'bilingual':
+                    const pt = content.content_pt || content.content || '';
+                    const jp = content.content_jp || content.content_original || '';
+                    html = `<div class="bilingual-content">
+                        <div class="bilingual-pt">${pt}</div>
+                        <div class="bilingual-jp">${jp}</div>
+                    </div>`;
+                    break;
+                default:
+                    html = content.content_pt || content.content || content.content_snippet || '';
+            }
+
+            if (typeof marked !== 'undefined') {
+                contentEl.innerHTML = marked.parse(html);
+            } else {
+                contentEl.innerHTML = html.replace(/\n/g, '<br>');
+            }
+        }
 
         // Scroll to Top Logic
         const btnScrollTop = document.getElementById('btnScrollTop');
@@ -1168,7 +1225,11 @@
 
             // Load full content
             const fullContent = await loadFullContent(article);
-            contentEl.innerHTML = fullContent;
+            // Store in cache for view switching
+            if (typeof fullContent === 'string') {
+                fullContentCache[article.id] = { content: fullContent, content_pt: fullContent };
+            }
+            renderModalContent(fullContentCache[article.id] || { content: fullContent }, currentModalView);
             applyModalFontSize();
         }
 

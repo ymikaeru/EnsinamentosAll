@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Apostila - Mioshie Zenshu</title>
+    <style>
+        :root {
+            --primary: #2c5530;
+            --primary-light: #3d7a45;
+            --accent: #c4a35a;
+            --bg-dark: #1a1a2e;
+            --bg-card: #16213e;
+            --text: #e8e8e8;
+            --text-muted: #a0a0a0;
+            --success: #4ade80;
+            --warning: #fbbf24;
+            --error: #f87171;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, var(--bg-dark) 0%, #0f0f1a 100%);
+            color: var(--text);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--accent);
+            margin-bottom: 10px;
+            font-size: 2rem;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 30px;
+        }
+
+        .main-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 900px) {
+            .main-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .card h2 {
+            color: var(--accent);
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card h2::before {
+            content: '';
+            width: 4px;
+            height: 20px;
+            background: var(--primary);
+            border-radius: 2px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 200px;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            color: var(--text);
+            padding: 15px;
+            font-size: 14px;
+            resize: vertical;
+            font-family: inherit;
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        textarea::placeholder {
+            color: var(--text-muted);
+        }
+
+        .btn {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(45, 85, 48, 0.4);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            border: 1px solid var(--primary);
+            color: var(--primary-light);
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .results-list {
+            max-height: 400px;
+            overflow-y: auto;
+            margin-top: 15px;
+        }
+
+        .result-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            margin-bottom: 8px;
+            border-left: 3px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .result-item.found {
+            border-left-color: var(--success);
+        }
+
+        .result-item.not-found {
+            border-left-color: var(--warning);
+        }
+
+        .result-item .status-icon {
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .result-item .title {
+            flex: 1;
+        }
+
+        .result-item .title a {
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .result-item .title a:hover {
+            color: var(--accent);
+            text-decoration: underline;
+        }
+
+        .result-item .category {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 20px;
+            margin: 15px 0;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 15px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        .stat.success {
+            color: var(--success);
+        }
+
+        .stat.warning {
+            color: var(--warning);
+        }
+
+        .stat.info {
+            color: var(--accent);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+        }
+
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--primary);
+            border-radius: 50%;
+            border-top-color: transparent;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+            vertical-align: middle;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .booklet-preview {
+            background: white;
+            color: #333;
+            padding: 30px;
+            border-radius: 8px;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        .booklet-preview h3 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .booklet-preview ol {
+            padding-left: 25px;
+        }
+
+        .booklet-preview li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        .booklet-preview a {
+            color: var(--primary);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-muted);
+        }
+
+        .empty-state .icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+            opacity: 0.5;
+        }
+
+        #searchIndex {
+            display: none;
+        }
+
+        .instructions {
+            background: rgba(196, 163, 90, 0.1);
+            border: 1px solid rgba(196, 163, 90, 0.3);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .instructions h3 {
+            color: var(--accent);
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        .instructions ol {
+            padding-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 5px;
+            color: var(--text-muted);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>📚 Gerador de Apostila</h1>
+        <p class="subtitle">Cole os títulos do NotebookLM e gere automaticamente uma apostila com links</p>
+
+        <div class="instructions">
+            <h3>Como usar:</h3>
+            <ol>
+                <li>Copie a lista de títulos do NotebookLM (seção "Títulos usados como referência")</li>
+                <li>Cole na caixa de texto abaixo</li>
+                <li>Clique em "Buscar e Gerar Apostila"</li>
+                <li>Os títulos encontrados terão links para os ensinamentos no site</li>
+            </ol>
+        </div>
+
+        <div class="main-grid">
+            <div class="card">
+                <h2>Entrada de Títulos</h2>
+                <textarea id="inputTitles" placeholder="Cole os títulos aqui, um por linha. Exemplo:
+
+• Elucidações sobre o Mundo Espiritual e a Vida Cotidiana
+• Perguntas e Respostas sobre a Fé e a Conduta Humana
+• A Perspectiva Ampla e o Ponto Essencial"></textarea>
+
+                <div class="btn-group">
+                    <button class="btn" onclick="searchTitles()">
+                        🔍 Buscar e Gerar Apostila
+                    </button>
+                    <button class="btn btn-secondary" onclick="clearInput()">
+                        🗑️ Limpar
+                    </button>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Resultados da Busca</h2>
+                <div id="results">
+                    <div class="empty-state">
+                        <div class="icon">📋</div>
+                        <p>Cole os títulos e clique em buscar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card" style="margin-top: 20px;" id="bookletCard" hidden>
+            <h2>Apostila Gerada</h2>
+            <div class="btn-group" style="margin-bottom: 15px;">
+                <button class="btn" onclick="copyBooklet()">
+                    📋 Copiar HTML
+                </button>
+                <button class="btn btn-secondary" onclick="printBooklet()">
+                    🖨️ Imprimir
+                </button>
+            </div>
+            <div class="booklet-preview" id="bookletPreview"></div>
+        </div>
+    </div>
+
+    <script>
+        let searchIndex = [];
+        let foundItems = [];
+
+        // Load the search index
+        async function loadSearchIndex() {
+            try {
+                const response = await fetch('Data/advanced_search_index.json');
+                searchIndex = await response.json();
+                console.log(`Loaded ${searchIndex.length} teachings`);
+            } catch (error) {
+                console.error('Error loading search index:', error);
+                // Try alternative path
+                try {
+                    const response = await fetch('./Data/advanced_search_index.json');
+                    searchIndex = await response.json();
+                    console.log(`Loaded ${searchIndex.length} teachings (alt path)`);
+                } catch (e) {
+                    console.error('Failed to load index from both paths');
+                }
+            }
+        }
+
+        // Normalize text for comparison
+        function normalizeText(text) {
+            return text
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .replace(/[•\-–—]/g, '')
+                .replace(/^\d+\.\s*/, '')
+                .replace(/\s+/g, ' ')
+                .trim();
+        }
+
+        // Find best match for a title
+        function findMatch(title) {
+            const normalizedTitle = normalizeText(title);
+
+            if (!normalizedTitle) return null;
+
+            // Try exact match first
+            let match = searchIndex.find(item =>
+                normalizeText(item.title) === normalizedTitle
+            );
+
+            if (match) return { ...match, matchType: 'exact' };
+
+            // Try contains match
+            match = searchIndex.find(item => {
+                const normalizedItemTitle = normalizeText(item.title);
+                return normalizedItemTitle.includes(normalizedTitle) ||
+                    normalizedTitle.includes(normalizedItemTitle);
+            });
+
+            if (match) return { ...match, matchType: 'partial' };
+
+            // Try fuzzy match (first 30 characters)
+            const shortTitle = normalizedTitle.substring(0, 30);
+            match = searchIndex.find(item => {
+                const normalizedItemTitle = normalizeText(item.title);
+                return normalizedItemTitle.startsWith(shortTitle) ||
+                    shortTitle.startsWith(normalizedItemTitle.substring(0, 30));
+            });
+
+            if (match) return { ...match, matchType: 'fuzzy' };
+
+            return null;
+        }
+
+        // Search for titles
+        function searchTitles() {
+            const input = document.getElementById('inputTitles').value;
+            const lines = input.split('\n').filter(line => line.trim());
+
+            if (lines.length === 0) {
+                alert('Por favor, cole alguns títulos para buscar.');
+                return;
+            }
+
+            foundItems = [];
+            const results = [];
+
+            lines.forEach((line, index) => {
+                const cleanLine = line.replace(/^[•\-–—\d.)\s]+/, '').trim();
+                if (!cleanLine) return;
+
+                const match = findMatch(cleanLine);
+
+                if (match) {
+                    foundItems.push({
+                        original: cleanLine,
+                        matched: match.title,
+                        url: match.url,
+                        category: match.category,
+                        matchType: match.matchType
+                    });
+                    results.push({
+                        found: true,
+                        title: match.title,
+                        url: match.url,
+                        category: match.category,
+                        original: cleanLine
+                    });
+                } else {
+                    results.push({
+                        found: false,
+                        title: cleanLine,
+                        original: cleanLine
+                    });
+                }
+            });
+
+            displayResults(results);
+            generateBooklet();
+        }
+
+        // Display search results
+        function displayResults(results) {
+            const container = document.getElementById('results');
+
+            const foundCount = results.filter(r => r.found).length;
+            const notFoundCount = results.filter(r => !r.found).length;
+
+            let html = `
+                <div class="stats">
+                    <div class="stat success">✓ ${foundCount} encontrado(s)</div>
+                    <div class="stat warning">⚠ ${notFoundCount} não encontrado(s)</div>
+                    <div class="stat info">📊 ${results.length} total</div>
+                </div>
+                <div class="results-list">
+            `;
+
+            results.forEach((result, index) => {
+                if (result.found) {
+                    html += `
+                        <div class="result-item found">
+                            <span class="status-icon">✓</span>
+                            <div class="title">
+                                <a href="${result.url}" target="_blank">${result.title}</a>
+                                <div class="category">${result.category || 'Sem categoria'}</div>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    html += `
+                        <div class="result-item not-found">
+                            <span class="status-icon">⚠</span>
+                            <div class="title">
+                                ${result.title}
+                                <div class="category">Título não encontrado no banco de dados</div>
+                            </div>
+                        </div>
+                    `;
+                }
+            });
+
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        // Generate the booklet
+        function generateBooklet() {
+            if (foundItems.length === 0) {
+                document.getElementById('bookletCard').hidden = true;
+                return;
+            }
+
+            document.getElementById('bookletCard').hidden = false;
+
+            const date = new Date().toLocaleDateString('pt-BR');
+            let html = `
+                <h3>📚 Apostila de Estudos</h3>
+                <p style="color: #666; margin-bottom: 20px;">Gerada em ${date} • ${foundItems.length} referência(s)</p>
+                <ol>
+            `;
+
+            foundItems.forEach(item => {
+                html += `<li><a href="${item.url}" target="_blank">${item.matched}</a></li>`;
+            });
+
+            html += '</ol>';
+
+            document.getElementById('bookletPreview').innerHTML = html;
+        }
+
+        // Copy booklet HTML
+        function copyBooklet() {
+            const html = document.getElementById('bookletPreview').innerHTML;
+            navigator.clipboard.writeText(html).then(() => {
+                alert('HTML da apostila copiado para a área de transferência!');
+            });
+        }
+
+        // Print booklet
+        function printBooklet() {
+            const content = document.getElementById('bookletPreview').innerHTML;
+            const printWindow = window.open('', '_blank');
+            printWindow.document.write(`
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>Apostila de Estudos</title>
+                    <style>
+                        body { font-family: Georgia, serif; padding: 40px; max-width: 800px; margin: 0 auto; }
+                        h3 { color: #2c5530; border-bottom: 2px solid #2c5530; padding-bottom: 10px; }
+                        ol { padding-left: 25px; }
+                        li { margin-bottom: 12px; line-height: 1.6; }
+                        a { color: #2c5530; }
+                        @media print { a { color: black; text-decoration: underline; } }
+                    </style>
+                </head>
+                <body>${content}</body>
+                </html>
+            `);
+            printWindow.document.close();
+            printWindow.print();
+        }
+
+        // Clear input
+        function clearInput() {
+            document.getElementById('inputTitles').value = '';
+            document.getElementById('results').innerHTML = `
+                <div class="empty-state">
+                    <div class="icon">📋</div>
+                    <p>Cole os títulos e clique em buscar</p>
+                </div>
+            `;
+            document.getElementById('bookletCard').hidden = true;
+            foundItems = [];
+        }
+
+        // Initialize
+        loadSearchIndex();
+    </script>
+</body>
+
+</html>
