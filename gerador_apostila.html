@@ -372,8 +372,12 @@
                 <button class="btn btn-secondary" onclick="printBooklet()">
                     🖨️ Imprimir
                 </button>
+                <button class="btn" onclick="loadFullContent()" id="btnLoadContent">
+                    📖 Carregar Conteúdo Completo
+                </button>
             </div>
             <div class="booklet-preview" id="bookletPreview"></div>
+            <div id="fullContentPreview" class="booklet-preview" style="margin-top: 20px; display: none;"></div>
         </div>
     </div>
 
@@ -546,6 +550,12 @@
             }
 
             document.getElementById('bookletCard').hidden = false;
+            // Reset full content view
+            document.getElementById('fullContentPreview').style.display = 'none';
+            document.getElementById('bookletPreview').style.display = 'block';
+            document.getElementById('btnLoadContent').disabled = false;
+            document.getElementById('btnLoadContent').textContent = '📖 Carregar Conteúdo Completo';
+
 
             const date = new Date().toLocaleDateString('pt-BR');
             let html = `
@@ -563,17 +573,94 @@
             document.getElementById('bookletPreview').innerHTML = html;
         }
 
+        // Load Full Content
+        async function loadFullContent() {
+            const btn = document.getElementById('btnLoadContent');
+            const preview = document.getElementById('bookletPreview');
+            const fullContent = document.getElementById('fullContentPreview');
+
+            btn.disabled = true;
+            btn.textContent = '⏳ Carregando...';
+
+            let htmlContent = `
+                <div style="text-align: center; margin-bottom: 40px; border-bottom: 2px solid #ccc; padding-bottom: 20px;">
+                    <h1>Apostila de Estudos</h1>
+                    <p>Mioshie Zenshu • ${foundItems.length} Ensinamentos</p>
+                </div>
+            `;
+
+            for (let i = 0; i < foundItems.length; i++) {
+                const item = foundItems[i];
+                try {
+                    const response = await fetch(item.url);
+                    const text = await response.text();
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(text, 'text/html');
+
+                    // Extract content - usually in .content-container or body
+                    // We need to be careful to get just the teaching text.
+                    // Assuming standard structure based on project, often text is in a container.
+                    // Fallback to body content if specific container not found.
+
+                    let content = '';
+                    const mainContent = doc.querySelector('.content-container') || doc.querySelector('main') || doc.body;
+
+                    if (mainContent) {
+                        // Clean up navigation or headers if present in extracted content
+                        // Detailed cleaning might be needed depending on file structure
+                        // For now, take innerHTML
+                        content = mainContent.innerHTML;
+                    }
+
+                    htmlContent += `
+                        <article style="page-break-after: always; margin-bottom: 50px;">
+                            <div style="font-size: 0.8em; color: #666; margin-bottom: 10px;">Ensinamento ${i + 1} de ${foundItems.length}</div>
+                            ${content}
+                        </article>
+                    `;
+
+                } catch (e) {
+                    console.error(`Failed to load ${item.url}`, e);
+                    htmlContent += `
+                        <article style="margin-bottom: 50px; color: red;">
+                            <h3>Erro ao carregar: ${item.matched}</h3>
+                            <p>Não foi possível carregar o conteúdo deste ensinamento.</p>
+                        </article>
+                    `;
+                }
+            }
+
+            fullContent.innerHTML = htmlContent;
+
+            // Switch views
+            preview.style.display = 'none';
+            fullContent.style.display = 'block';
+
+            btn.textContent = '✓ Conteúdo Carregado';
+        }
+
         // Copy booklet HTML
         function copyBooklet() {
-            const html = document.getElementById('bookletPreview').innerHTML;
+            const fullContent = document.getElementById('fullContentPreview');
+            const simplePreview = document.getElementById('bookletPreview');
+
+            // Copy whatever is currently visible
+            const source = fullContent.style.display !== 'none' ? fullContent : simplePreview;
+
+            const html = source.innerHTML;
             navigator.clipboard.writeText(html).then(() => {
-                alert('HTML da apostila copiado para a área de transferência!');
+                alert('HTML copiado para a área de transferência!');
             });
         }
 
         // Print booklet
         function printBooklet() {
-            const content = document.getElementById('bookletPreview').innerHTML;
+            const fullContent = document.getElementById('fullContentPreview');
+            const simplePreview = document.getElementById('bookletPreview');
+
+            // Print whatever is currently visible
+            const content = fullContent.style.display !== 'none' ? fullContent.innerHTML : simplePreview.innerHTML;
+
             const printWindow = window.open('', '_blank');
             printWindow.document.write(`
                 <!DOCTYPE html>
@@ -581,19 +668,32 @@
                 <head>
                     <title>Apostila de Estudos</title>
                     <style>
-                        body { font-family: Georgia, serif; padding: 40px; max-width: 800px; margin: 0 auto; }
-                        h3 { color: #2c5530; border-bottom: 2px solid #2c5530; padding-bottom: 10px; }
-                        ol { padding-left: 25px; }
-                        li { margin-bottom: 12px; line-height: 1.6; }
-                        a { color: #2c5530; }
-                        @media print { a { color: black; text-decoration: underline; } }
+                        body { 
+                            font-family: Georgia, serif; 
+                            padding: 40px; 
+                            max-width: 800px; 
+                            margin: 0 auto; 
+                            line-height: 1.6;
+                            color: #000;
+                        }
+                        h1, h2, h3 { color: #000; }
+                        a { color: #000; text-decoration: underline; }
+                        img { max-width: 100%; }
+                        .content-container { max-width: 100% !important; margin: 0 !important; padding: 0 !important; }
+                        nav, header, footer, .no-print { display: none !important; }
+                        @media print {
+                            body { -webkit-print-color-adjust: exact; }
+                        }
                     </style>
                 </head>
                 <body>${content}</body>
                 </html>
             `);
             printWindow.document.close();
-            printWindow.print();
+            // Wait for images to load? simplistic delay
+            setTimeout(() => {
+                printWindow.print();
+            }, 500);
         }
 
         // Clear input
@@ -606,6 +706,9 @@
                 </div>
             `;
             document.getElementById('bookletCard').hidden = true;
+            document.getElementById('fullContentPreview').innerHTML = '';
+            document.getElementById('fullContentPreview').style.display = 'none';
+            document.getElementById('bookletPreview').style.display = 'block';
             foundItems = [];
         }
 

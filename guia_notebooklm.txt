@@ -1,0 +1,39 @@
+GUIA DE ALINHAMENTO: SITE <-> NOTEBOOKLM
+
+Para que o NotebookLM "fale a mesma língua" do site, ele precisa seguir estritamente a nossa lista de códigos.
+Siga estes passos:
+
+1. O ARQUIVO DE REFERÊNCIA
+   Certifique-se de que você fez upload do arquivo 'lista_de_referencias.txt' (que está na pasta deste projeto) para o NotebookLM.
+   Esse arquivo é o "Dicionário" que ensina os códigos para ele.
+
+-------------------------------------------------------------------------------
+
+2. O PROMPT (COMANDO) OBRIGATÓRIO
+   Sempre que iniciar uma nova conversa ou pedir uma apostila, comece com este comando.
+   (Copie e cole o texto abaixo):
+
+   """
+   INSTRUÇÃO DE REFERÊNCIA:
+   Você deve basear suas respostas EXCLUSIVAMENTE nas fontes fornecidas.
+   Ao citar qualquer ensinamento, você OBRIGATORIAMENTE deve consultar a fonte 'lista_de_referencias.txt'.
+   
+   Regra de Citação:
+   - Se o ensinamento citado estiver na lista, USE O CÓDIGO DA LISTA (ex: [SAU-023], [FIL-104]).
+   - NÃO INVENTE CÓDIGOS. Se o código não estiver na lista 'lista_de_referencias.txt', use apenas o Título entre aspas.
+   - Jamais use números de páginas ou códigos de outras fontes (como [1], [2] ou SAU-9999).
+   
+   Exemplo de formato desejado no texto final:
+   "...como explicado por Meishusama em 'A Saúde' (SAU-023), a purificação..."
+   """
+
+-------------------------------------------------------------------------------
+
+3. SOLUÇÃO DE PROBLEMAS
+   
+   Se ele gerar códigos estranhos (como SAU-1285):
+   - Significa que ele está "alucinando" ou pegando números de outra fonte (talvez um PDF antigo).
+   - Diga para ele: "Corrija os códigos. Use APENAS os códigos que existem na fonte lista_de_referencias.txt. Se não encontrar, remova o código."
+
+   Se ele não encontrar o código:
+   - O site também aceita o Título Exato entre aspas. Ex: "A Verdadeira Causa da Doença".

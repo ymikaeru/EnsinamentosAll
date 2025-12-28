@@ -265,6 +265,16 @@
             -webkit-box-orient: vertical;
             overflow: hidden;
             margin-bottom: 1rem;
+            border-bottom: 1px solid #1a1a1a;
+            position: relative;
+        }
+
+        .highlight {
+            background-color: #fff3cdc7;
+            color: #2c3e50;
+            font-weight: bold;
+            padding: 0 2px;
+            border-radius: 2px;
         }
 
         .card-footer {
@@ -779,10 +789,16 @@
         <div class="results-area">
             <div class="results-info" style="display: flex; justify-content: space-between; align-items: center;">
                 <span>Encontrados: <span id="count">0</span> resultados</span>
-                <button class="btn-add-all" id="btnAddAll" onclick="addAllVisibleToPublication()"
-                    style="display: none;">
-                    📚 Adicionar todos visíveis
-                </button>
+                <div style="display: flex; gap: 10px;">
+                    <button class="btn-add-all" onclick="createNewPublication()"
+                        style="background: #fff; color: var(--primary-color);">
+                        ➕ Criar nova publicação
+                    </button>
+                    <button class="btn-add-all" id="btnAddAll" onclick="addAllVisibleToPublication()"
+                        style="display: none;">
+                        📚 Adicionar todos visíveis
+                    </button>
+                </div>
             </div>
             <div class="grid" id="resultsGrid">
                 <!-- Cards go here -->
@@ -827,6 +843,7 @@
     </button>
 
     <script src="scripts/favorites.js"></script>
+    <script src="search-engine.js"></script>
     <script src="scripts/publication-modal.js"></script>
     <script src="scripts/publication-bar.js"></script>
     <script>
@@ -1173,11 +1190,49 @@
             applyFilters();
         };
 
-        function applyFilters() {
-            const results = searchData.filter(item => {
-                // Keyword
-                if (filters.keyword && !item.title.toLowerCase().includes(filters.keyword) && !item.content_snippet.toLowerCase().includes(filters.keyword)) return false;
+        window.createNewPublication = () => {
+            const name = prompt('Nome da nova publicação:');
+            if (name) {
+                try {
+                    const pub = FavoritesManager.createPublication(name);
+                    alert(`Publicação "${name}" criada com sucesso!`);
 
+                    // Force refresh of filters
+                    const pubSpan = document.createElement('span');
+                    // We need to re-render filters to show the new publication
+                    renderFilters(); // This will rebuild the publication list
+
+                    // Optionally select the new publication immediately?
+                    // filters.selectedPublications.add(name);
+                    // applyFilters();
+                } catch (e) {
+                    alert('Erro ao criar publicação: ' + e.message);
+                }
+            }
+        };
+
+        function applyFilters() {
+            // Enhanced search using SearchEngine
+            let results = searchData;
+
+            // 1. Text Search (Keyword) using SearchEngine if available
+            if (filters.keyword && typeof SearchEngine !== 'undefined') {
+                results = SearchEngine.search(searchData, filters.keyword, {
+                    minScore: 5,
+                    useOperators: true,
+                    useFuzzy: true,
+                    useSynonyms: true
+                });
+            } else if (filters.keyword) {
+                // Fallback to basic search if SearchEngine is missing
+                results = searchData.filter(item =>
+                    item.title.toLowerCase().includes(filters.keyword) ||
+                    item.content_snippet.toLowerCase().includes(filters.keyword)
+                );
+            }
+
+            // 2. Apply other filters on top of search results
+            results = results.filter(item => {
                 // Year
                 if (filters.yearStart && item.year < filters.yearStart) return false;
                 if (filters.yearEnd && item.year > filters.yearEnd) return false;
@@ -1194,7 +1249,6 @@
                 // Tags (AND logic - must have ALL selected tags)
                 if (filters.selectedTags.size > 0) {
                     if (!item.tags) return false;
-                    // Must have ALL selected tags
                     const hasAllTags = [...filters.selectedTags].every(t => item.tags.includes(t));
                     if (!hasAllTags) return false;
                 }
@@ -1287,6 +1341,21 @@
             const pub = item.publication ? item.publication : '';
             const unpubBadge = item.unpublished ? '<span style="color:red; font-size:0.75rem; border:1px solid red; padding:1px 3px; border-radius:3px;">Não Pub.</span>' : '';
 
+            // Highlighting Logic
+            let displayTitle = item.title;
+            let displaySnippet = item.content_snippet.replace(/^#+\s+.*$/gm, '').trim();
+
+            if (filters.keyword && typeof SearchEngine !== 'undefined') {
+                // Highlight Title
+                displayTitle = highlightText(displayTitle, filters.keyword);
+
+                // Dynamic Snippet with Highlight
+                // If content is available, prefer extracting context from full content, 
+                // otherwise use existing snippet but highlighted.
+                const contentSource = item.content || item.content_pt || item.content_snippet;
+                displaySnippet = getContextSnippet(contentSource, filters.keyword);
+            }
+
             // Card Tags (First 3) - Prioritize Selected
             let cardTagsHtml = '';
             if (item.tags) {
@@ -1326,9 +1395,9 @@
                 </svg>
             </button>
         </div>
-        <div class="card-title">${item.title} ${unpubBadge}</div>
+        <div class="card-title">${displayTitle} ${unpubBadge}</div>
         <div class="card-tags-container" style="margin-bottom:0.5rem;">${cardTagsHtml}</div>
-        <div class="card-snippet">${item.content_snippet.replace(/^#+\s+.*$/gm, '').trim()}</div>
+        <div class="card-snippet">${displaySnippet}</div>
         <div class="card-footer">${pub}</div>
     `;
 
@@ -1369,6 +1438,70 @@
             });
 
             return card;
+        }
+
+        // --- Highlighting Helpers ---
+
+        function highlightText(text, query) {
+            if (!query || !text) return text;
+            const terms = SearchEngine.getRelatedTerms(query);
+
+            // Sort terms by length (desc) to avoid replacing distinct substrings first
+            terms.sort((a, b) => b.length - a.length);
+
+            let highlighted = text;
+
+            // Simple approach: Replace terms with wrapped span. 
+            // Note: This needs care not to replace inside HTML tags if text had HTML, 
+            // but here 'text' is assumed plain text or title.
+            // Using regex with word boundaries often safer, but for "contains" search 
+            // we might want fuzzy matches. 
+            // For now, let's just highlight exact string matches of related terms (synonyms + query)
+
+            terms.forEach(term => {
+                if (term.length < 2) return; // Skip too short
+                const regex = new RegExp(`(${escapeRegExp(term)})`, 'gi');
+                highlighted = highlighted.replace(regex, '<span class="highlight">$1</span>');
+            });
+            return highlighted;
+        }
+
+        function getContextSnippet(text, query) {
+            if (!text) return '';
+            // Strip existing markdown/HTML for snippet generation
+            const plain = text.replace(/<[^>]+>/g, '').replace(/^#+\s+/gm, '');
+
+            if (!query) return plain.substring(0, 150) + '...';
+
+            const terms = SearchEngine.getRelatedTerms(query);
+            // Find first occurrence of any term
+            let bestIndex = -1;
+
+            for (const term of terms) {
+                const idx = plain.toLowerCase().indexOf(term.toLowerCase());
+                if (idx !== -1) {
+                    if (bestIndex === -1 || idx < bestIndex) {
+                        bestIndex = idx;
+                    }
+                }
+            }
+
+            if (bestIndex !== -1) {
+                // Return context around match
+                const start = Math.max(0, bestIndex - 60);
+                const end = Math.min(plain.length, bestIndex + 140);
+                let snippet = plain.substring(start, end);
+                if (start > 0) snippet = '...' + snippet;
+                if (end < plain.length) snippet = snippet + '...';
+
+                return highlightText(snippet, query);
+            }
+
+            return plain.substring(0, 150) + '...';
+        }
+
+        function escapeRegExp(string) {
+            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         }
 
         // Global state for modal

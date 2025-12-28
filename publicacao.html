@@ -736,62 +736,189 @@
 
         /* Print Styles */
         @media print {
-            body {
-                background: white;
-                font-size: var(--print-font-size, 12pt);
+            @page {
+                size: A4;
             }
 
+            body {
+                background: white;
+                font-family: 'Times New Roman', Times, serif;
+                /* Better for reading in print */
+                font-size: 12pt;
+                line-height: 1.6;
+                color: black;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+                widows: 3;
+                orphans: 3;
+            }
+
+            /* Hide UI elements */
             .header,
             .pub-selector,
             .settings-panel,
             .btn,
-            .article-number,
             .article-actions,
             .print-preview-header,
             .pub-actions,
             .articles-section,
-            .modal-overlay {
+            .modal-overlay,
+            .btn-scroll-top,
+            .empty-state {
                 display: none !important;
             }
 
             .container {
                 max-width: 100%;
+                width: 100%;
+                margin: 0;
                 padding: 0;
             }
 
             .print-preview {
-                border: none;
-                border-radius: 0;
+                border: none !important;
+                box-shadow: none !important;
+                background: none !important;
+                border-radius: 0 !important;
             }
 
-            .print-preview-content {
-                max-height: none;
-                padding: 0;
-            }
-
+            /* Cover Page */
             .print-cover {
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
                 page-break-after: always;
-                padding: 6cm 2cm;
+                border: none;
+                margin: 0;
+                padding: 4rem 2rem;
+                box-sizing: border-box;
             }
 
             .print-cover h1 {
-                font-size: 28pt;
+                font-family: 'Helvetica', 'Arial', sans-serif;
+                font-size: 36pt;
+                font-weight: bold;
+                margin-bottom: 1cm;
+                color: BLACK;
             }
 
+            .print-cover .subtitle {
+                font-size: 16pt;
+                font-style: italic;
+                margin-bottom: 2cm;
+                color: #333;
+            }
+
+            .print-cover .article-count {
+                font-size: 12pt;
+                border: none;
+                padding: 0.5cm 1cm;
+                border-radius: 0;
+                background: none;
+                color: black;
+                margin-bottom: 2cm;
+            }
+
+            .print-cover .date-info {
+                font-size: 10pt;
+                position: absolute;
+                bottom: 3cm;
+            }
+
+            /* Table of Contents */
             .print-index {
                 page-break-after: always;
+                padding: 1cm 0;
             }
 
+            .print-index h2 {
+                text-align: center;
+                font-size: 18pt;
+                margin-bottom: 1cm;
+                border-bottom: 2px solid #000;
+                padding-bottom: 0.2cm;
+            }
+
+            .print-index-item {
+                display: flex;
+                justify-content: space-between;
+                align-items: baseline;
+                margin-bottom: 0.4cm;
+                border-bottom: 1px dotted #999;
+                font-size: 12pt;
+            }
+
+            .print-index-item span:first-child {
+                font-weight: bold;
+            }
+
+            /* Article Container */
             .print-article {
                 page-break-before: always;
+                padding-top: 1cm;
             }
 
             .print-article:first-of-type {
                 page-break-before: avoid;
+                /* Or always if we want index to be separate */
+            }
+
+            .print-article-header {
+                text-align: center;
+                margin-bottom: 1cm;
+                border-bottom: 1px solid #000;
+                padding-bottom: 0.5cm;
+            }
+
+            .print-article-title {
+                font-family: 'Helvetica', 'Arial', sans-serif;
+                font-size: 20pt;
+                font-weight: bold;
+                margin-bottom: 0.3cm;
+            }
+
+            .print-article-meta {
+                font-size: 10pt;
+                font-style: italic;
+                color: #555;
             }
 
             .print-article-content {
-                text-align: var(--print-text-align, justify);
+                text-align: justify;
+                font-size: 12pt;
+                line-height: 1.6;
+            }
+
+            .print-article-content p {
+                margin-bottom: 0.5cm;
+                text-indent: 1cm;
+            }
+
+            .print-article-content h1,
+            .print-article-content h2,
+            .print-article-content h3 {
+                margin-top: 1cm;
+                margin-bottom: 0.5cm;
+                font-family: 'Helvetica', 'Arial', sans-serif;
+                color: black;
+            }
+
+            /* Remove first heading in content if it duplicates title */
+            .print-article-content>h1:first-child,
+            .print-article-content>h2:first-child,
+            .print-article-content>h3:first-child {
+                display: none;
+            }
+
+            .print-article-tags {
+                margin-top: 1cm;
+                padding-top: 0.5cm;
+                border-top: 1px solid #eee;
+                font-size: 9pt;
+                color: #666;
             }
         }
 
@@ -907,7 +1034,18 @@
                         <input type="range" id="fontSize" min="12" max="24" value="16" onchange="updateSettings()">
                         <span class="font-size-display" id="fontSizeDisplay">16px</span>
                     </div>
-                    <div style="margin-left: auto;">
+                    <div class="setting-group">
+                        <label>Margens</label>
+                        <select id="printMargin" onchange="updateSettings()">
+                            <option value="compact">Compacta</option>
+                            <option value="normal">Normal</option>
+                            <option value="book">Livro</option>
+                        </select>
+                    </div>
+                    <div style="margin-left: auto; display: flex; gap: 10px;">
+                        <button class="btn btn-secondary" onclick="loadAllContent()">
+                            Carregar Conteúdos
+                        </button>
                         <button class="btn btn-primary" onclick="printPublication()">
                             Imprimir
                         </button>
@@ -1151,6 +1289,7 @@
             document.getElementById('textAlign').value = pub.settings?.textAlign || 'justify';
             document.getElementById('fontSize').value = parseInt(pub.settings?.fontSize) || 16;
             document.getElementById('fontSizeDisplay').textContent = (pub.settings?.fontSize || '16px');
+            document.getElementById('printMargin').value = pub.settings?.printMargin || 'compact';
 
             renderArticlesList(pub);
             renderPrintPreview(pub);
@@ -1541,13 +1680,12 @@
         function updateSettings() {
             const fontSize = document.getElementById('fontSize').value + 'px';
             const textAlign = document.getElementById('textAlign').value;
+            const printMargin = document.getElementById('printMargin').value;
 
             document.getElementById('fontSizeDisplay').textContent = fontSize;
 
-            FavoritesManager.updatePublicationSettings(currentPubId, { fontSize, textAlign });
+            FavoritesManager.updatePublicationSettings(currentPubId, { fontSize, textAlign, printMargin });
 
-            // Apply directly instead of re-rendering to avoid resetting lazy load state if possible
-            // But re-rendering is safer for consistency. Re-render will re-trigger lazy load which checks cache, so it's fine.
             const pub = FavoritesManager.getPublication(currentPubId);
             if (pub) renderPrintPreview(pub);
         }
@@ -1589,6 +1727,32 @@
 
             document.documentElement.style.setProperty('--print-font-size', pub.settings?.fontSize || '16px');
             document.documentElement.style.setProperty('--print-text-align', pub.settings?.textAlign || 'justify');
+
+            // Inject dynamic page margins
+            const marginType = pub.settings?.printMargin || 'compact';
+            let margins = '2cm'; // Normal default
+
+            if (marginType === 'compact') {
+                margins = '1cm';
+            } else if (marginType === 'book') {
+                margins = '4cm 3cm'; // Top/Bottom 4cm, Left/Right 3cm
+            }
+
+            // Create or update style tag for @page
+            let style = document.getElementById('dynamic-print-styles');
+            if (!style) {
+                style = document.createElement('style');
+                style.id = 'dynamic-print-styles';
+                document.head.appendChild(style);
+            }
+
+            style.textContent = `
+                @media print {
+                    @page {
+                        margin: ${margins};
+                    }
+                }
+            `;
 
             window.print();
         }
