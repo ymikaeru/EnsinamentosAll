@@ -84,29 +84,61 @@ const SearchEngine = {
         return tokens.length > 0 ? tokens : [{ term: query, operator: 'AND' }];
     },
 
+    // Helper for whole word matching
+    isWholeWordMatch(text, query) {
+        if (!text || !query) return false;
+        // Escape special regex characters
+        const q = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp(`\\b${q}\\b`, 'i');
+        return regex.test(text);
+    },
+
     // Score an item based on search relevance
     scoreItem(item, query, useOperators = false) {
         let score = 0;
         const q = removeAccents(query.toLowerCase());
+        const isShortQuery = q.length <= 3;
 
         // Get all related search terms
         const searchTerms = this.getRelatedTerms(query);
 
         // Title matches (highest weight)
         const title = removeAccents(item.title_pt || item.title || '').toLowerCase();
-        if (title === q) score += 100; // Exact match
-        else if (title.startsWith(q)) score += 80; // Starts with
-        else if (title.includes(q)) score += 60; // Contains
-        else {
-            // Check synonyms - Boosted score
+
+        if (title === q) {
+            score += 100; // Exact match
+        } else if (this.isWholeWordMatch(title, q)) {
+            score += 90; // Whole word match (High Priority)
+        } else if (title.startsWith(q)) {
+            score += 80; // Starts with
+        } else if (title.includes(q)) {
+            if (isShortQuery) {
+                // For short queries, we ignore substrings unless they are at start
+                // or if specifically requested. 
+                // "Rã" -> "Verão" (substring) should be ignored or very low score
+                score += 0; // Very low score for short substring
+            } else {
+                score += 60; // Contains
+            }
+        }
+
+        // If no title match found yet, check synonyms
+        if (score === 0) {
             for (const term of searchTerms) {
                 const termNorm = removeAccents(term.toLowerCase());
-                if (title.includes(termNorm)) {
-                    score += 60; // Boosted from 40 to 60 for synonyms in title
+                if (title === termNorm) {
+                    score += 80; // Synonym exact match
+                    break;
+                }
+                if (this.isWholeWordMatch(title, termNorm)) {
+                    score += 70; // Synonym whole word
                     break;
                 }
             }
-            // Fuzzy match
+        }
+
+        // Fuzzy match (only if not short query)
+        if (!isShortQuery) {
             const fuzzy = this.fuzzyMatch(q, title);
             if (fuzzy > 0) score += fuzzy * 30;
         }
@@ -115,12 +147,17 @@ const SearchEngine = {
         if (item.tags && Array.isArray(item.tags)) {
             for (const tag of item.tags) {
                 const tagNorm = removeAccents(tag.toLowerCase());
+
                 if (tagNorm === q) score += 50;
-                else if (tagNorm.includes(q)) score += 35;
-                else {
+                else if (this.isWholeWordMatch(tagNorm, q)) score += 45;
+                else if (tagNorm.includes(q) && !isShortQuery) score += 35;
+
+                // Synonyms in tags
+                if (score < 45) { // If not already a good match
                     for (const term of searchTerms) {
-                        if (tagNorm.includes(removeAccents(term.toLowerCase()))) {
-                            score += 30; // Boosted from 25
+                        const termNorm = removeAccents(term.toLowerCase());
+                        if (this.isWholeWordMatch(tagNorm, termNorm)) {
+                            score += 40;
                             break;
                         }
                     }
@@ -132,37 +169,38 @@ const SearchEngine = {
         if (item.focusPoints && Array.isArray(item.focusPoints)) {
             for (const fp of item.focusPoints) {
                 const fpNorm = removeAccents(fp.toLowerCase());
+
                 if (fpNorm === q) score += 40;
-                else if (fpNorm.includes(q)) score += 28;
-                else {
-                    for (const term of searchTerms) {
-                        if (fpNorm.includes(removeAccents(term.toLowerCase()))) {
-                            score += 25; // Boosted from 20
-                            break;
-                        }
-                    }
-                }
+                else if (this.isWholeWordMatch(fpNorm, q)) score += 35;
+                else if (fpNorm.includes(q) && !isShortQuery) score += 28;
             }
         }
 
         // Content matches (lower weight, but still valuable)
         if (item.content_pt || item.content) {
             const content = removeAccents((item.content_pt || item.content).toLowerCase());
-            const matches = content.split(q).length - 1;
-            score += Math.min(matches * 12, 50); // Higher weight to catch single mentions
 
-            // Check synonyms in content
-            for (const term of searchTerms) {
-                const termNorm = removeAccents(term.toLowerCase());
-                const synonymMatches = content.split(termNorm).length - 1;
-                if (synonymMatches > 0) {
-                    score += Math.min(synonymMatches * 20, 60); // Boosted from *10 to *20, cap 60
-                    break;
-                }
+            let matches = 0;
+            if (isShortQuery) {
+                // Use Regex for whole words count
+                try {
+                    const regex = new RegExp(`\\b${q}\\b`, 'gi');
+                    const matchResult = content.match(regex);
+                    matches = matchResult ? matchResult.length : 0;
+                } catch (e) { matches = 0; }
+            } else {
+                matches = content.split(q).length - 1;
             }
 
-            // Bonus if query appears in first 100 chars
-            if (content.substring(0, 100).includes(q)) score += 10;
+            score += Math.min(matches * 12, 50);
+
+            // Bonus if query appears in first 100 chars (Whole word preference for short queries)
+            const first100 = content.substring(0, 100);
+            if (isShortQuery) {
+                if (this.isWholeWordMatch(first100, q)) score += 10;
+            } else {
+                if (first100.includes(q)) score += 10;
+            }
         }
 
         return score;
