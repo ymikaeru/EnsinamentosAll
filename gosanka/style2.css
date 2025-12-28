@@ -279,9 +279,9 @@ P.honbun {
 
 .poem-original-large {
     font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: #2E5C8A;
-    line-height: 1.6;
+    line-height: 1.5;
     margin-bottom: 0.8rem;
     font-weight: 400;
 }
@@ -291,19 +291,19 @@ P.honbun {
     letter-spacing: 0.1em;
     color: #a0aec0;
     text-transform: uppercase;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
     font-weight: 400;
 }
 
 .poem-pt-title {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #4a5568;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
     font-weight: 400;
 }
 
 .poem-translation-featured {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     font-style: italic;
     color: #1a202c;
     line-height: 1.5;

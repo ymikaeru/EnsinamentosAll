@@ -135,14 +135,35 @@ function applyFilters() {
 
     // Filter
     let filtered = allPoemsFlat.filter(poem => {
-        // Search Filter
         if (searchText) {
-            const matchesSearch =
-                (poem.title && poem.title.toLowerCase().includes(searchText)) ||
-                (poem.original && poem.original.toLowerCase().includes(searchText)) ||
-                (poem.translation && poem.translation.toLowerCase().includes(searchText)) ||
-                (poem.reading && poem.reading.toLowerCase().includes(searchText)) ||
-                (poem.number && poem.number.toString().includes(searchText));
+            const searchTerms = [
+                poem.title,
+                poem.original,
+                poem.translation,
+                poem.reading,
+                (poem.number || '').toString()
+            ];
+
+            // Helper for whole word check
+            const isWholeWord = (text, query) => {
+                if (!text) return false;
+                const q = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                return new RegExp(`\\b${q}\\b`, 'i').test(text);
+            };
+
+            const matchesSearch = searchTerms.some(term => {
+                if (!term) return false;
+                const lowerTerm = term.toLowerCase();
+
+                // Specific logic for short queries (<= 3 chars) to avoid noise (e.g. "Rã" matching "Verão")
+                if (searchText.length <= 3) {
+                    // Must be whole word match OR start with the query
+                    return isWholeWord(term, searchText) || lowerTerm.startsWith(searchText);
+                }
+
+                // Normal behavior for longer queries
+                return lowerTerm.includes(searchText);
+            });
 
             if (!matchesSearch) return false;
         }
@@ -295,7 +316,10 @@ function createPoemCard(poem) {
     pCard.onmouseover = () => { pCard.style.background = '#e6f4ea'; pCard.style.borderColor = '#2c7744'; };
     pCard.onmouseout = () => { pCard.style.background = '#fcfdfc'; pCard.style.borderColor = '#eee'; };
 
-    pCard.setAttribute('onclick', `window.openModal(window.poemLookup['${poemId}'])`);
+    // pCard.setAttribute('onclick', `window.openModal(window.poemLookup['${poemId}'])`);
+    pCard.addEventListener('click', () => {
+        openModal(poem);
+    });
 
     // Badge for season if filtered view or just helpful info
     const seasonBadge = poem.detectedSeason !== 'Outros'
