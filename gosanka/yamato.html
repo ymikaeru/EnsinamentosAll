@@ -46,6 +46,26 @@
             border: 1px solid rgba(0, 0, 0, 0.02);
         }
 
+        .nordic-input {
+            appearance: none;
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 10px 15px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color: #4a5568;
+            width: 200px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+        }
+
+        .nordic-input:focus {
+            outline: none;
+            border-color: #2c7744;
+            box-shadow: 0 0 0 3px rgba(44, 119, 68, 0.1);
+        }
+
         .nordic-select {
             appearance: none;
             background-color: #ffffff;
@@ -107,6 +127,10 @@
     <div id="app">
         <!-- Filter Bar -->
         <div id="filter-bar" class="nordic-filter-bar">
+            <!-- Search Input (New) -->
+            <input type="text" id="filter-search" class="nordic-input" placeholder="Buscar poema..."
+                oninput="applyFilters()">
+
             <!-- Mood Filter (New) -->
             <select id="filter-mood" class="nordic-select" onchange="applyFilters()">
                 <option value="">Todos os Sentimentos</option>

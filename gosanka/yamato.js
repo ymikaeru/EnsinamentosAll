@@ -120,6 +120,7 @@ function renderFilters(data) {
 }
 
 function applyFilters() {
+    const searchText = document.getElementById('filter-search').value.toLowerCase().trim();
     const moodFilter = document.getElementById('filter-mood').value;
     const catFilter = document.getElementById('filter-category').value;
     const seasonFilter = document.getElementById('filter-season').value;
@@ -134,6 +135,18 @@ function applyFilters() {
 
     // Filter
     let filtered = allPoemsFlat.filter(poem => {
+        // Search Filter
+        if (searchText) {
+            const matchesSearch =
+                (poem.title && poem.title.toLowerCase().includes(searchText)) ||
+                (poem.original && poem.original.toLowerCase().includes(searchText)) ||
+                (poem.translation && poem.translation.toLowerCase().includes(searchText)) ||
+                (poem.reading && poem.reading.toLowerCase().includes(searchText)) ||
+                (poem.number && poem.number.toString().includes(searchText));
+
+            if (!matchesSearch) return false;
+        }
+
         if (moodFilter && poem.mood !== moodFilter) return false;
         if (catFilter && poem.sectionTitle !== catFilter) return false;
         if (seasonFilter && poem.detectedSeason !== seasonFilter) return false;
@@ -152,7 +165,7 @@ function applyFilters() {
 
     // Logic: If ANY filter is active OR sort is not original, render FLAT grid.
     // If NO filters and Original sort, render SECTIONS (Original View).
-    const isDefaultView = !moodFilter && !catFilter && !seasonFilter && sortOrder === 'original';
+    const isDefaultView = !searchText && !moodFilter && !catFilter && !seasonFilter && sortOrder === 'original';
 
     if (isDefaultView) {
         renderOriginalView(globalData, container, thisRenderId);
@@ -162,6 +175,7 @@ function applyFilters() {
 }
 
 function resetFilters() {
+    document.getElementById('filter-search').value = "";
     document.getElementById('filter-mood').value = "";
     document.getElementById('filter-category').value = "";
     document.getElementById('filter-season').value = "";
